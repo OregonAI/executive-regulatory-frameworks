@@ -8,10 +8,11 @@ derive a hierarchy from it.
   python3 src/name_readers.py --selftest  # CI: every rule --check enforces fires
 
 WHY THIS EXISTS. ADR 0003 changes what `name` MEANS: it becomes the body's statutory name,
-and the OAR chapter title it holds today moves to `oar_name`. Nothing about that change is
-visible in the data — the two fields hold identical bytes on all 189 rows — so a consumer
-that should have moved and did not keeps matching a string that quietly changed meaning,
-which is the failure the sibling crosswalks exist to prevent (ADR 0003, "the risky half").
+and the OAR chapter title it held moved to `oar_name`. Almost nothing about that change is
+visible in the data — the two fields still hold identical bytes on 185 of the 189 rows, and
+differ only where a statutory name has been established (#168) — so a consumer that should
+have moved and did not keeps matching a string that quietly changed meaning, which is the
+failure the sibling crosswalks exist to prevent (ADR 0003, "the risky half").
 
 The audit that finds those consumers is a one-time reading of every site. This is what keeps
 it: a read of `name` in a module that handles registry rows must say, where it sits, which

@@ -113,8 +113,9 @@ import tempfile
 
 import yaml
 
-from catalog_agencies import (NO_AUTHORITY, authority_census, classify_authority,
-                              no_authority_value)
+from catalog_agencies import (ENABLING_AUTHORITY_NAME, NAME_BASIS_KEY, NO_AUTHORITY,
+                              UNVERIFIED_OAR_TITLE, authority_census, classify_authority,
+                              name_census, no_authority_value)
 from repo_lib import REPO_ROOT
 
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
@@ -278,6 +279,48 @@ UNMAPPED: dict[str, str] = {
     # e.g. "department-of-transportation-highway-division": "Part of the Department of
     #      Transportation (ADR 0004): nothing separately constitutes it, so there is no
     #      enabling authority to record.",
+}
+
+# ------------------------------------------------------- reviewed statutory names (#168)
+#
+# slug -> THE NAME THE BODY'S ENABLING AUTHORITY GIVES IT. ADR 0003 makes `name` the
+# statutory name, and this is the only place one is decided: the authority is already
+# reviewed in MAPPED above, and what that authority CALLS the body is the second question a
+# reviewer answers while reading the same section. Two tables for one reading would be two
+# places to be wrong.
+#
+# EVERY ROW HERE HAS BEEN READ BY A HUMAN AGAINST THE CITED TEXT, and unlike MAPPED it is
+# also RESOLVED: `statutory-name-in-the-cited-text` below requires the recorded name to
+# appear in the mirrored section MAPPED cites for that body. That is a weaker claim than "the
+# statute names the body this" — a section can mention a name it does not confer — and it is
+# the strongest claim a gate can make. What it rules out is the failure that matters: a name
+# nobody read, sitting in `name` under a basis that says an authority gave it.
+#
+# THIS TABLE IS DELIBERATELY SMALL AND EXPECTED TO STAY THAT WAY FOR A WHILE. 107 rows carry
+# a reviewed enabling authority and could have their names read off it; four have been. The
+# rest record `unverified-oar-title` and say so on every row, which is the honest state and
+# the whole point of #168 — a registry that quietly promoted 189 OAR titles to statutory
+# names would be 189 false statements about Oregon law, and one that promoted the 107 by
+# pattern-matching would be an unknown number of them. A name that was matched and not read
+# does not belong here, for the reason MAPPED gives about citations.
+STATUTORY_NAMES: dict[str, str] = {
+    # READ BY A HUMAN AGAINST THE CITED TEXT, 2026-08-22. The three names MAPPED's own
+    # batch-1b note handed to #168: "684.130, 681.400 and 675.590 say `STATE Board of ...`
+    # where the registry says `Board of ...`. The authority is not in doubt; the NAME
+    # difference is #168's." Each section opens "There is established [the|a] State Board of
+    # …", so the statute both creates the body and names it in the same sentence.
+    "board-of-chiropractic-examiners": "State Board of Chiropractic Examiners",
+    "board-of-examiners-for-speech-language-pathology-and-audiology":
+        "State Board of Examiners for Speech-Language Pathology and Audiology",
+    "board-of-licensed-social-workers": "State Board of Licensed Social Workers",
+    # AND ONE WHERE THE STATUTE AND THE RULES INDEX AGREE, which is here on purpose. ORS
+    # 674.305 reads "The Appraiser Certification and Licensure Board is established", and the
+    # OAR chapter page prints the same string — so this row's `name` does not change and its
+    # BASIS does. Without it the registry would say, by construction, that an established
+    # statutory name is one that differs from the OAR title; agreement is a finding a
+    # reviewer reached, not the absence of one.
+    "appraiser-certification-and-licensure-board":
+        "Appraiser Certification and Licensure Board",
 }
 
 CREATE = re.compile(
@@ -747,8 +790,86 @@ def audit_table(orgs, mapped, unmapped, citations, why_unresolved) -> list[Probl
     return problems
 
 
-def audit_registry(orgs, mapped=None, unmapped=None) -> list[Problem]:
-    """Every way the registry and the reviewed table disagree, in BOTH directions.
+def statute_texts() -> dict[str, str]:
+    """{ORS citation: its catchline and mirrored body, as one string}.
+
+    THE MIRROR, READ ONCE, so `statutory-name-in-the-cited-text` resolves a recorded name
+    against the same corpus the citation itself is resolved against. The catchline is
+    included because that is where Oregon most often prints the body's name in full — ORS
+    684.130 is titled `State Board of Chiropractic Examiners` — and a check that read only
+    the section body would refuse a name the section's own title states.
+    """
+    return {cite: f"{title} {body}" for cite, title, _, body, _ in _statute_sections()}
+
+
+def audit_statutory_names(orgs, mapped, names, text_of) -> list[Problem]:
+    """Everything wrong with STATUTORY_NAMES itself, as Problems.
+
+    ITS OWN FUNCTION RATHER THAN A BLOCK INSIDE `audit_table`, because it needs a different
+    thing from the corpus: `audit_table` asks whether a citation names a mirrored document,
+    and this asks what that document SAYS. `text_of` is the mirrored text by citation and has
+    NO DEFAULT, for the reason `why_unresolved` has none — a default would let a caller check
+    the table's shape and take the names on faith, which would look exactly like a clean run
+    and is the state this table exists to leave.
+
+    A NAME NEEDS AN AUTHORITY, AND THE AUTHORITY HAS TO SAY IT. Those are the two rules, and
+    they are separate: the first is a claim about this repository's own tables (a body whose
+    enabling authority nobody has reviewed cannot have had its name read off one), the second
+    is a claim about Oregon law, resolved against the mirror. The registry's own contract
+    check states the first over the committed rows too (`statutory-name-basis` in
+    catalog_agencies.py) — same rule, two populations, and neither covers the other: a name
+    can be wrong in the table before it is ever written, and a row can be hand-edited after.
+    """
+    by_slug = {o["slug"] for o in orgs if isinstance(o, dict) and o.get("slug")}
+    problems = []
+    for slug, name in sorted(names.items()):
+        if slug not in by_slug:
+            # REPORTED AND NOT EVALUATED FURTHER. There is no row for the rules below to be
+            # about, and stacking "and its authority is wrong" onto a body this registry does
+            # not carry would report two faults where there is one.
+            problems.append(Problem("statutory-name-slug-in-registry", slug,
+                                    "named here but not in the registry"))
+            continue
+        if not isinstance(name, str) or not name.strip() or name != name.strip():
+            problems.append(Problem(
+                "statutory-name-is-a-name", slug,
+                f"{name!r} is not a name — a blank, a null or a string with stray "
+                "whitespace becomes the value three sibling corpora read as what Oregon "
+                "law calls this body"))
+            continue
+        authority = mapped.get(slug)
+        if authority is None:
+            problems.append(Problem(
+                "statutory-name-has-an-authority", slug,
+                f"records the statutory name {name!r} and MAPPED records no enabling "
+                "authority for this body — the statutory name is the name a body's "
+                "ENABLING AUTHORITY gives it (ADR 0003), so there is nothing here it "
+                "could have been read off"))
+            continue
+        form = classify_authority(authority)[0]
+        if form != "ors":
+            # ALLOWLIST, NOT BLOCKLIST, as everywhere in this file. A constitutional article
+            # and an executive order are both enabling authorities (ADR 0003) and both are
+            # mirrored by this corpus, but neither is reachable by citation as TEXT here yet
+            # — and a form this gate cannot read is a name nobody checked, which must not be
+            # the same state as a name that passed. No row is in it today; the day one is,
+            # this is the line that says what has to be built.
+            problems.append(Problem(
+                "statutory-name-in-the-cited-text", slug,
+                f"cites {authority}, whose form ({form}) this gate cannot read the text of "
+                "— so the recorded name could not be checked against it. That is 'could "
+                "not check', not 'is correct'"))
+        elif name not in (text_of(authority) or ""):
+            problems.append(Problem(
+                "statutory-name-in-the-cited-text", slug,
+                f"records the statutory name {name!r}, which does not appear anywhere in "
+                f"the mirrored text of {authority} — the authority this registry says "
+                "created the body does not print that name"))
+    return problems
+
+
+def audit_registry(orgs, mapped=None, unmapped=None, names=None) -> list[Problem]:
+    """Every way the registry and the reviewed tables disagree, in BOTH directions.
 
     THIS FILE IS THE FIELD'S SINGLE WRITER, so the second direction is the one that matters:
     a row carrying an `enabling_authority` no table accounts for was written by something
@@ -777,10 +898,41 @@ def audit_registry(orgs, mapped=None, unmapped=None) -> list[Problem]:
                 f"registry carries enabling_authority {o['enabling_authority']!r} and this "
                 "table does not. This file is the field's single writer: either the row was "
                 "written by something else, or a reviewed row was deleted from the table"))
+
+    # THE SAME TWO DIRECTIONS OVER THE STATUTORY NAME (#168). `name` has two writers by
+    # design — the scrape writes the OAR title onto a row nobody has reviewed, and this file
+    # writes the reviewed statutory name — and what keeps that from being the drift #175
+    # warns about is that the ROW says which of the two it is holding. So the pair is checked
+    # against the basis, not against the value alone: a row claiming `enabling-authority`
+    # that this table does not name was written by something else, and a row this table names
+    # that does not claim it is a review that never landed.
+    # NAME READER — MACHINERY: the reviewed table checked against the field it writes, in
+    # both directions. It compares `name` to the value this table says belongs there and
+    # matches it against nothing else — the same reading `registry-agrees` does one field
+    # over, and unaffected by what the name means.
+    names = STATUTORY_NAMES if names is None else names
+    for slug, name in sorted(names.items()):
+        o = by_slug.get(slug)
+        if o is None:
+            continue                      # `statutory-name-slug-in-registry` reported it
+        if o.get("name") != name or o.get(NAME_BASIS_KEY) != ENABLING_AUTHORITY_NAME:
+            problems.append(Problem(
+                "statutory-name-agrees", slug,
+                f"registry has name {o.get('name')!r} on basis "
+                f"{o.get(NAME_BASIS_KEY)!r}, this table says {name!r} was read off the "
+                "body's enabling authority — run --apply"))
+    for slug, o in sorted(by_slug.items()):
+        if o.get(NAME_BASIS_KEY) == ENABLING_AUTHORITY_NAME and slug not in names:
+            problems.append(Problem(
+                "statutory-name-agrees", slug,
+                f"registry records name {o.get('name')!r} as the statutory name and this "
+                "table does not name the body at all. This file is the only thing that "
+                "establishes a statutory name: either the row was written by something "
+                "else, or a reviewed name was deleted from the table"))
     return problems
 
 
-def apply_reviewed(cat, mapped=None, unmapped=None) -> int:
+def apply_reviewed(cat, mapped=None, unmapped=None, names=None) -> int:
     """Write the reviewed values onto the registry rows. Returns the rows changed.
 
     RE-RUNNABLE AND BYTE-IDENTICAL, which the value assignment gives for free: a key that is
@@ -792,13 +944,32 @@ def apply_reviewed(cat, mapped=None, unmapped=None) -> int:
     `registry-agrees` reports that row instead, which is a human's question to answer.
     """
     want = reviewed(mapped, unmapped)
+    names = STATUTORY_NAMES if names is None else names
     changed = 0
     for o in cat.get("organizations") or []:
-        value = want.get(o.get("slug")) if isinstance(o, dict) else None
-        if value is None or o.get("enabling_authority") == value:
+        if not isinstance(o, dict):
             continue
-        o["enabling_authority"] = value
-        changed += 1
+        value = want.get(o.get("slug"))
+        touched = False
+        if value is not None and o.get("enabling_authority") != value:
+            o["enabling_authority"] = value
+            touched = True
+        # THE NAME AND ITS BASIS, WRITTEN TOGETHER (#168). A `name` written without its basis
+        # is a statutory name the registry still labels as the rules index's title, and a
+        # basis written without its name is an OAR title claiming a statute gave it — the
+        # false statement about Oregon law the field exists to make unwriteable. Both are
+        # assigned rather than inserted, so a row that already holds them keeps its key order
+        # and the second run dumps the same bytes.
+        # NAME READER — MACHINERY: --apply writing the reviewed value into the field. It
+        # operates on the key, not on the body's identity; WHICH name belongs there was
+        # decided by a human reading the cited section, and is recorded in STATUTORY_NAMES.
+        name = names.get(o.get("slug"))
+        if name is not None and (o.get("name") != name
+                                 or o.get(NAME_BASIS_KEY) != ENABLING_AUTHORITY_NAME):
+            o["name"] = name
+            o[NAME_BASIS_KEY] = ENABLING_AUTHORITY_NAME
+            touched = True
+        changed += bool(touched)
     return changed
 
 
@@ -811,10 +982,12 @@ def cmd_apply() -> int:
     """Write MAPPED/UNMAPPED into the registry. The only writer of `enabling_authority`."""
     cat = yaml.safe_load(CATALOG.read_text())
     orgs = cat["organizations"]
-    problems = audit_table(orgs, MAPPED, UNMAPPED, resolvable_citations(),
-                           constitutional_resolver(published_constitutional_sections()))
+    texts = statute_texts()
+    problems = (audit_table(orgs, MAPPED, UNMAPPED, resolvable_citations(),
+                            constitutional_resolver(published_constitutional_sections()))
+                + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, texts.get))
     if problems:
-        print("refusing to write: the reviewed table does not match the corpus",
+        print("refusing to write: the reviewed tables do not match the corpus",
               file=sys.stderr)
         _report(problems)
         return 1
@@ -823,11 +996,12 @@ def cmd_apply() -> int:
     if changed:
         CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True,
                                           width=100))
-    print(f"enabling_authority: {changed} row(s) written "
-          f"({authority_census(orgs)})")
-    # A row the table cannot account for is left where it is and reported. --apply is not
+    print(f"{changed} row(s) written ({authority_census(orgs)})")
+    print(f"  name: {name_census(orgs)}")
+    # A row the tables cannot account for is left where it is and reported. --apply is not
     # allowed to resolve it by deleting a field a human may have put there deliberately.
-    left = [p for p in audit_registry(orgs) if p.rule == "registry-agrees"]
+    left = [p for p in audit_registry(orgs)
+            if p.rule in ("registry-agrees", "statutory-name-agrees")]
     _report(left)
     return 1 if left else 0
 
@@ -841,9 +1015,10 @@ def check() -> int:
     published = published_constitutional_sections()
     problems = (audit_table(orgs, MAPPED, UNMAPPED, citations,
                             constitutional_resolver(published))
+                + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, statute_texts().get)
                 + audit_registry(orgs, MAPPED, UNMAPPED))
     if problems:
-        print("enabling-authority table does not match the corpus:", file=sys.stderr)
+        print("the reviewed tables do not match the corpus:", file=sys.stderr)
         _report(problems)
         return 1
 
@@ -865,6 +1040,12 @@ def check() -> int:
     print(f"  nothing is form-checked and left unresolved: a constitutional authority is "
           f"resolved against the {len(published)} mirrored sections of the Oregon "
           f"Constitution (#196), the same way an ORS citation is.")
+    # THE NAMES, COUNTED SEPARATELY FROM THE AUTHORITIES, because carrying an authority is
+    # not the same as having read a name off it (#168): 107 rows could have their statutory
+    # name established and a much smaller number has. Reporting the two as one number would
+    # present the population that COULD be reviewed as the one that HAS been.
+    print(f"statutory names read off those authorities: {len(STATUTORY_NAMES)} of "
+          f"{len(MAPPED)} reviewed authorities; registry: {name_census(orgs)}")
     return 0
 
 
@@ -908,6 +1089,23 @@ def _fixture():
     # the fixture has to pass cleanly with it — a gate that treated "nobody has looked yet"
     # as a violation would make the honest default impossible to hold.
     orgs.append({"slug": "board-nobody-has-reviewed", "name": "Board Nobody Has Reviewed"})
+    # THE STATUTORY NAME, READ OFF ONE OF THOSE AUTHORITIES (#168), and the mirrored text it
+    # was read off. One body of the four, deliberately: the other three carry their OAR title
+    # under `unverified-oar-title`, which is the state 185 of the 189 committed rows are in
+    # and the one a fixture holding only reviewed rows would make impossible to hold.
+    #
+    # THE TEXT IS SYNTHETIC AND THE CITATION IS IMPOSSIBLE, for the reason every other value
+    # here is: this proves the gate reads the cited section and refuses a name it does not
+    # print, and a real ORS section quoted here would read as a verdict on what it names.
+    names = {"board-of-imaginary-affairs": "Board of Imaginary Affairs"}
+    texts = {"ORS 999.999": "Board of Imaginary Affairs; appointment. There is established "
+                            "the Board of Imaginary Affairs."}
+    for o in orgs:
+        if o["slug"] in names:
+            o["name"] = names[o["slug"]]
+            o[NAME_BASIS_KEY] = ENABLING_AUTHORITY_NAME
+        else:
+            o[NAME_BASIS_KEY] = UNVERIFIED_OAR_TITLE
     # THE CONSTITUTIONAL HALF IS RESOLVED AGAINST THE REAL MIRROR, and the ORS and
     # executive-order halves against a set of two made-up strings. That asymmetry is a
     # decision. A synthetic `citations` set keeps these proofs off a 37,465-file scan and
@@ -918,7 +1116,8 @@ def _fixture():
     # starts passing for the wrong reason. Still no network and still no read of the
     # committed registry; what it reads is one catalog and the 339 committed section
     # documents.
-    return {"mapped": mapped, "unmapped": unmapped, "orgs": orgs,
+    return {"mapped": mapped, "unmapped": unmapped, "orgs": orgs, "names": names,
+            "texts": texts,
             "citations": {"ORS 999.999", "Executive Order 99-99"},
             "why_unresolved": constitutional_resolver(published_constitutional_sections())}
 
@@ -933,10 +1132,24 @@ def _set(f, slug, authority):
             o["enabling_authority"] = authority
 
 
+def _set_name(f, slug, name):
+    """Put one statutory name in the table AND on its registry row, so a case breaks exactly
+    one rule — the same reason `_set` above writes both halves.
+
+    NAME READER — MACHINERY: a selftest helper writing the field on a synthetic fixture. No
+    body here is real (see `_fixture`), so nothing it writes is a claim about any name."""
+    f["names"][slug] = name
+    for o in f["orgs"]:
+        if o["slug"] == slug:
+            o["name"] = name
+            o[NAME_BASIS_KEY] = ENABLING_AUTHORITY_NAME
+
+
 def _audit(f) -> list[Problem]:
     return (audit_table(f["orgs"], f["mapped"], f["unmapped"], f["citations"],
                         f["why_unresolved"])
-            + audit_registry(f["orgs"], f["mapped"], f["unmapped"]))
+            + audit_statutory_names(f["orgs"], f["mapped"], f["names"], f["texts"].get)
+            + audit_registry(f["orgs"], f["mapped"], f["unmapped"], f["names"]))
 
 
 def _case_authority_that_cites_nothing(f):
@@ -1028,6 +1241,72 @@ def _case_unmapped_reason_that_is_an_authority(f):
             o["enabling_authority"] = no_authority_value("Or. Const. Art. XVII, sec. 99")
 
 
+def _case_statutory_name_for_a_body_with_no_reviewed_authority(f):
+    """A statutory name for a body whose enabling authority nobody has recorded. The
+    statutory name is the name a body's ENABLING AUTHORITY gives it (ADR 0003), so a name
+    recorded against a body with no authority in MAPPED was read off nothing — and the body
+    chosen here is in UNMAPPED, which is the sharper version: someone looked and found there
+    is no enabling authority at all, so there is no section that could name it."""
+    _set_name(f, "imaginary-affairs-inspection-division",
+              "Imaginary Affairs Inspection Division")
+
+
+def _case_statutory_name_the_cited_section_does_not_print(f):
+    """A name the authority does not name the body. This is what separates a reviewed name
+    from a plausible one: the row cites a section, the section is mirrored, and the name does
+    not appear in it. Without this rule the value is an assertion that someone decided —
+    which is what `manual: true` was retired for (ADR 0003) — sitting in the field three
+    sibling corpora read as what Oregon law calls the body."""
+    _set_name(f, "board-of-imaginary-affairs", "Bureau of Imaginary Affairs")
+
+
+def _case_statutory_name_on_an_authority_this_gate_cannot_read(f):
+    """A name recorded against an authority whose text this gate cannot reach. An executive
+    order and a constitutional article are both enabling authorities (ADR 0003) and both are
+    mirrored here, but neither is reachable as TEXT by citation in this file yet — so a name
+    recorded against one is a name nobody checked. It is REPORTED as unchecked rather than
+    passed over, because "could not check" is never reported as "is not there"
+    (CONTEXT.md)."""
+    _set(f, "board-of-imaginary-affairs", "Executive Order 99-99")
+
+
+def _case_statutory_name_that_is_not_a_name(f):
+    """A blank where the name should be. The value becomes `name` on a registry row, which
+    three sibling corpora read as what Oregon law calls the body — and a whitespace string
+    passes every "is the key present" test while making the body unfindable by the only name
+    it has. The registry's own contract refuses it too (`findable-by-both-names`); this
+    refuses it before it can be written."""
+    _set_name(f, "board-of-imaginary-affairs", "   ")
+
+
+def _case_statutory_name_for_a_slug_that_is_not_in_the_registry(f):
+    """A name for a body this registry does not carry. There is no row for it to be written
+    onto, so --apply would report success having written nothing — the silent no-op that
+    `slug-in-registry` already refuses one table over."""
+    f["names"]["board-of-nowhere-in-particular"] = "Board of Nowhere in Particular"
+
+
+def _case_registry_name_no_table_establishes(f):
+    """A registry row claiming its name is the statutory one, which this table does not name.
+    This file is the only thing that establishes a statutory name, so the row was written by
+    something else — the drift #175 exists to prevent, on the field ADR 0003 calls the risky
+    half. It is the mirror of `registry-agrees` one field over, and it can fire while this
+    table is empty, which is exactly when it matters."""
+    for o in f["orgs"]:
+        if o["slug"] == "board-nobody-has-reviewed":
+            o[NAME_BASIS_KEY] = ENABLING_AUTHORITY_NAME
+
+
+def _case_registry_name_that_did_not_follow_the_table(f):
+    """A reviewed name that never reached the row. The table says the statute calls this body
+    one thing and the registry publishes another, and every consumer reads the registry — so
+    the review is recorded in a place nobody joins on and the file states the name it was
+    supposed to replace."""
+    for o in f["orgs"]:
+        if o["slug"] == "board-of-imaginary-affairs":
+            o["name"] = "Board Of Imaginary Affairs"
+
+
 def _case_slug_that_is_not_in_the_registry(f):
     """A reviewed row for a body this registry does not carry. The review is real and the
     body it names is unreachable, so the authority is recorded nowhere a reader can find."""
@@ -1086,6 +1365,27 @@ _CASES = [
      "registry-agrees"),
     ("registry-carrying-an-authority-no-table-has",
      _case_registry_carrying_an_authority_no_table_has, "registry-agrees"),
+    # THE STATUTORY NAME'S OWN RULES (#168). The name is a second fact read off the same
+    # section during the same review, and each of these is a way it can be wrong that leaves
+    # a row looking entirely healthy from the outside.
+    ("statutory-name-for-a-body-with-no-reviewed-authority",
+     _case_statutory_name_for_a_body_with_no_reviewed_authority,
+     "statutory-name-has-an-authority"),
+    ("statutory-name-the-cited-section-does-not-print",
+     _case_statutory_name_the_cited_section_does_not_print,
+     "statutory-name-in-the-cited-text"),
+    ("statutory-name-on-an-authority-this-gate-cannot-read",
+     _case_statutory_name_on_an_authority_this_gate_cannot_read,
+     "statutory-name-in-the-cited-text"),
+    ("statutory-name-that-is-not-a-name", _case_statutory_name_that_is_not_a_name,
+     "statutory-name-is-a-name"),
+    ("statutory-name-for-a-slug-that-is-not-in-the-registry",
+     _case_statutory_name_for_a_slug_that_is_not_in_the_registry,
+     "statutory-name-slug-in-registry"),
+    ("registry-name-no-table-establishes", _case_registry_name_no_table_establishes,
+     "statutory-name-agrees"),
+    ("registry-name-that-did-not-follow-the-table",
+     _case_registry_name_that_did_not_follow_the_table, "statutory-name-agrees"),
 ]
 
 

@@ -13,11 +13,11 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Agency | Governance | Policies published | Docs | Verbatim | OCR-recovered | Unrecoverable | Last checked |
 |---|---|---|---|---|---|---|---|
 | Appraiser Certification and Licensure Board | semi-independent | unknown | 92 | 92 | 0 | 0 | — |
-| Board of Chiropractic Examiners | executive branch | unknown | 52 | 52 | 0 | 0 | — |
+| State Board of Chiropractic Examiners | executive branch | unknown | 52 | 52 | 0 | 0 | — |
 | Board of Examiners for Engineering and Land Surveying | semi-independent | unknown | 84 | 84 | 0 | 0 | — |
-| Board of Examiners for Speech-Language Pathology and Audiology | executive branch | unknown | 40 | 40 | 0 | 0 | — |
+| State Board of Examiners for Speech-Language Pathology and Audiology | executive branch | unknown | 40 | 40 | 0 | 0 | — |
 | Board of Geologist Examiners | semi-independent | unknown | 62 | 62 | 0 | 0 | — |
-| Board of Licensed Social Workers | executive branch | unknown | 55 | 55 | 0 | 0 | — |
+| State Board of Licensed Social Workers | executive branch | unknown | 55 | 55 | 0 | 0 | — |
 | Board of Massage Therapists | semi-independent | unknown | 36 | 36 | 0 | 0 | — |
 | Board of Medical Imaging | executive branch | unknown | 44 | 44 | 0 | 0 | — |
 | Board of Nursing | executive branch | unknown | 168 | 168 | 0 | 0 | — |

@@ -62,9 +62,32 @@ and are spelled differently by every source; the slug is what survives that.
 _Avoid_: Agency id, key, code — a *code* here means a DAS agency number
 
 **Statutory name**:
-A body's name as its enabling authority states it, and the canonical `name` in the registry.
-Distinguished from the name any particular publisher uses for it.
+A body's name as its enabling authority states it, and what the registry's `name` field
+means (ADR 0003). Distinguished from the name any particular publisher uses for it: the
+Board of Chiropractic Examiners is what the rules index prints, and ORS 684.130 establishes
+the **State** Board of Chiropractic Examiners. NOT EVERY ROW HOLDS ONE. Establishing a
+statutory name means a human reading the authority that created the body, and most bodies
+have not been read yet — so `name` holds an unverified OAR title on those rows, and the row
+says which it is holding in *name basis*. The field means "statutory name"; whether a
+particular row has one is the row's to state, never something a reader may assume from the
+field.
 _Avoid_: Official name, legal name, proper name
+
+**Name basis**:
+Which of the two things a registry row's `name` is, written on the row in `name_basis`.
+`enabling-authority` means the statutory name, read off the body's enabling authority by a
+human and recorded in `src/link_enabling_authority.py`, which is the only thing that
+establishes one; the row must carry an authority to support the claim, and
+`catalog_agencies.py --check` refuses it otherwise. `unverified-oar-title` means nobody has
+established a statutory name for this body and `name` still holds the OAR chapter title it
+was scraped with, unchanged. The two are never the same state — a row quietly keeping its
+OAR title under a field that means *statutory name* is a false statement about Oregon law
+published under provenance, which is the same substitution `manual: true` was retired for
+and the same one an explicit `unmapped` prevents. Which basis a row states also decides what
+`--refresh` does to its name: an established name is carried across untouched, an unverified
+one is rebuilt from the chapter page so an upstream retitle reaches it.
+_Avoid_: Verified, confirmed, source — a basis says what a name was read off, not how sure
+anyone is
 
 **OAR name**:
 The name the administrative rules index gives a body — its chapter page's own title, in
@@ -76,6 +99,15 @@ name this registry publishes for the body, which is what a join has to match and
 claim that the rules index prints it.
 _Avoid_: Rules name, chapter name — and `raw_index_name`, which is the index's own
 abbreviated spelling (`Board of Chiropractic Exam'rs`) and a different string
+
+**Raw index name**:
+The abbreviated spelling the rules index's own tree prints for a body — `Board of
+Chiropractic Exam'rs`, `Dept. of Administrative Services` — kept verbatim in
+`raw_index_name`. It is a THIRD string, not a variant of the OAR name: the index abbreviates
+in its listing and prints the title in full on the chapter page, and the registry keeps both
+because they are what two different pages of one publisher actually say. Nothing joins on it;
+it is evidence of what the index printed, and it is scraped, so it moves when the index does.
+_Avoid_: Short name, display name, abbreviation — none of those say whose spelling it is
 
 **Enabling authority**:
 What created the body — an ORS section, an article of the Oregon Constitution, or an

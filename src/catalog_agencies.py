@@ -84,7 +84,62 @@ CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 #               with two origins and no way to tell them apart: `note` is written both by
 #               the scrape and by hand, is declared SCRAPED because most of it is, and a
 #               hand-written note is destroyed by --refresh with nothing to report it.
+#   PER_ROW     the field's origin is written ON THE ROW, because it differs between rows
+#               rather than between fields. `name` is the field that forced it (#168): once
+#               `name` is the STATUTORY name, a row whose statutory name has been
+#               established from its enabling authority holds curation the refresh must
+#               carry across, while a row still carrying its unverified OAR title holds a
+#               value the refresh rebuilds from the chapter page — and the two are the same
+#               key on the same file. MERGED could not express it: that origin is written on
+#               a LIST'S ENTRIES, and a name is one string. So the row says which, in
+#               `name_basis`, and `preserve_name()` reads it — the same shape `relations`
+#               has one level down, and the same reason: a field whose origin nothing states
+#               is a field --refresh either freezes or destroys, with nothing to report
+#               which.
 SCRAPED, CURATED, MANUAL_FLAG, MERGED = "scraped", "curated", "manual-flag", "merged"
+PER_ROW = "per-row"
+
+# ---------------------------------------------------------------- what a name is grounded in
+#
+# WHICH OF THE TWO THINGS THIS ROW'S `name` IS, WRITTEN ON THE ROW. ADR 0003 makes `name` the
+# STATUTORY name — the name a body's enabling authority gives it — and #168 lands that
+# meaning. What it does NOT do is invent one: 107 of 189 rows carry a reviewed enabling
+# authority and the rest carry none, so most rows still hold the OAR chapter title they were
+# scraped with.
+#
+# THAT IS THE WHOLE POINT OF THIS FIELD. A row that quietly keeps its OAR title while the
+# field's documented meaning becomes "statutory name" is a false statement about Oregon law
+# published under provenance — the same substitution `manual: true` was retired for (ADR
+# 0003: an assertion records that someone decided, never what decided it) and the same one
+# `UNMAPPED` exists to prevent in link_budget_codes.py: "we looked and this is what we found"
+# and "nobody has looked yet" must not be the same state. So the two states are NAMED, and
+# `--check` reports both counts on every run rather than leaving a reader to infer one from
+# the other.
+#
+#   enabling-authority     the statutory name, read off the body's enabling authority by a
+#                          human. The row must carry an authority in one of AUTHORITY_FORMS
+#                          to support the claim (`statutory-name-basis`), and the name is
+#                          written by link_enabling_authority.py from its reviewed table —
+#                          the same single writer the authority itself has (#175).
+#   unverified-oar-title   nobody has established a statutory name for this body, so `name`
+#                          still holds the OAR chapter title it was scraped with. The row
+#                          must hold exactly that (`statutory-name-basis` states
+#                          `name == oar_name`), which is what makes "retains its current
+#                          value" a checkable claim rather than a promise.
+#
+# ALLOWLIST, NOT BLOCKLIST, as everywhere else in this module: a third word here is a
+# provenance no reader can weigh and no gate can act on.
+ENABLING_AUTHORITY_NAME = "enabling-authority"
+UNVERIFIED_OAR_TITLE = "unverified-oar-title"
+NAME_BASES = (ENABLING_AUTHORITY_NAME, UNVERIFIED_OAR_TITLE)
+NAME_BASIS_KEY = "name_basis"
+
+# THE NAME AND ITS PROVENANCE TRAVEL TOGETHER, and that is why this is a pair rather than two
+# keys carried independently. Carrying `name` without `name_basis` leaves a statutory name
+# labelled as an OAR title; carrying `name_basis` without `name` leaves an OAR title labelled
+# as a statutory name. Both are the row lying about itself, and the second is the one this
+# ticket exists to make impossible.
+NAME_KEYS = ("name", NAME_BASIS_KEY)
 
 Field = namedtuple("Field", "origin required")
 
@@ -95,12 +150,39 @@ Failure = namedtuple("Failure", "rule row detail")
 
 FIELDS = {
     "slug": Field(SCRAPED, required=True),
-    "name": Field(SCRAPED, required=True),
+    # THE STATUTORY NAME (CONTEXT.md): the name the body's enabling authority gives it, which
+    # is what ADR 0003 decided this field holds — "the registry's subject is the body, and a
+    # body's name is the one its enabling authority gives it; the OAR index is a publisher,
+    # and publishers spell things their own way". ADR 0003 calls the promotion the risky half
+    # and took it deliberately; #187 moved the two OAR-derived joins onto `oar_name` first,
+    # which is what makes it safe to land.
+    #
+    # NOT EVERY ROW HOLDS ONE, AND THE ROW SAYS SO. This ticket does not invent statutory
+    # names: a row whose statutory name has been established from its enabling authority
+    # holds it, and every other row still holds the OAR chapter title it was scraped with.
+    # `name_basis` below is which — see NAME_BASES for why the two may never be the same
+    # state, and `statutory-name-basis` in check_registry() for what states each of them.
+    #
+    # PER_ROW, and it is the field that forced that origin. An established statutory name is
+    # curation nothing upstream produces, so a refresh that rebuilt it from the chapter page
+    # would silently replace a reviewed name with a publisher's spelling; an unverified OAR
+    # title is exactly what the chapter page prints, so freezing it would leave the row
+    # asserting a title the rules index no longer uses. Neither whole-field origin is true of
+    # this key, and `preserve_name()` is what reads the row to decide. `name-origin` in
+    # check_registry() states that it may not be declared as either.
+    "name": Field(PER_ROW, required=True),
+    # WHICH OF THE TWO THINGS THE `name` BESIDE IT IS (NAME_BASES above). Required on every
+    # row, because an absent basis and `unverified-oar-title` are not the same claim — the
+    # first says nobody recorded where this name came from, the second says somebody looked
+    # and it is still the rules index's title. PER_ROW for the reason `name` is: it is half
+    # of one statement, and `preserve_name()` carries the pair or neither.
+    NAME_BASIS_KEY: Field(PER_ROW, required=True),
     # THE OAR NAME (CONTEXT.md): the name the administrative rules index gives a body, and
-    # the string OAR-derived joins must match (ADR 0003). It lands BESIDE `name` rather than
-    # replacing it, so consumers can move off `name` while `name` still means what it always
-    # did — ADR 0003 changes what `name` holds, and a crosswalk that keeps matching a string
-    # that quietly changed meaning is the failure those crosswalks exist to prevent.
+    # the string OAR-derived joins must match (ADR 0003). It landed BESIDE `name` rather than
+    # replacing it, so consumers could move off `name` while `name` still meant what it always
+    # did — and they did, before #168 changed what `name` holds. A crosswalk that keeps
+    # matching a string that quietly changed meaning is the failure those crosswalks exist to
+    # prevent, and the order of those two steps is the whole of why it did not happen here.
     #
     # SCRAPED, NOT CURATED, and that is the whole point of the field. The chapter page's own
     # title is where this value comes from — `scraped_entry()` already reads it — so
@@ -703,6 +785,28 @@ def authority_census(orgs) -> str:
             f"record, {len(orgs) - len(values)} of {len(orgs)} bodies not looked at yet")
 
 
+def name_census(orgs) -> str:
+    """What each row's `name` IS, counted over rows — printed by --check on every run.
+
+    THE ONE NUMBER THIS TICKET IS ABOUT (#168), AND IT IS NOT THE BIG ONE. ADR 0003 makes
+    `name` the statutory name, and most rows do not have one established: they hold the OAR
+    chapter title they were scraped with, and say so. A census reporting only the rows whose
+    statutory name HAS been established would leave a reader to infer that the rest are the
+    same kind of value — which is the substitution this field exists to prevent, made by the
+    report about the field.
+
+    EVERY BASIS IS NAMED, THE ZEROES INCLUDED, for the reason `relation_census` names its
+    kinds: a count that appears only when it is non-zero cannot be told apart from a count
+    nobody asked for. Counted from the FILE rather than from the table that writes it, for
+    the reason `authority_census` is — on any failure path the two disagree, and a census
+    taken from the writer reports the intended state as the actual one.
+    """
+    counts = Counter(o.get(NAME_BASIS_KEY) for o in orgs if isinstance(o, dict))
+    named = list(NAME_BASES) + sorted((k for k in counts if k not in NAME_BASES), key=str)
+    return (", ".join(f"{counts.get(k, 0)} {k}" for k in named)
+            + f"; {len(orgs)} row(s)")
+
+
 def placement_witnesses(orgs) -> str:
     """How many placements this file states TWICE, and how many it states once — printed by
     --check on every run.
@@ -782,6 +886,9 @@ SCRAPED_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == SCRAPED)
 # from the same table for the same reason CURATED_KEYS is: a hand-kept second list of
 # "the fields that merge" is the list somebody forgets to add to.
 MERGED_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == MERGED)
+# The fields whose origin is written on the ROW rather than on the field. Derived from the
+# same table for the same reason the three sets above are, and read by `preserve_name()`.
+PER_ROW_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == PER_ROW)
 UA = "executive-regulatory-frameworks (+https://github.com/OregonAI/executive-regulatory-frameworks)"
 
 ENTRY_RE = re.compile(
@@ -796,7 +903,7 @@ def slugify(name: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 
-def scraped_entry(*, name, oar_chapter, raw_index_name, source_url, note=None):
+def scraped_entry(*, oar_name, oar_chapter, raw_index_name, source_url, note=None):
     """One registry row as --refresh builds it from oregon.public.law.
 
     THE ONLY PLACE THE SCRAPE'S OWN FIELDS ARE WRITTEN, which is what lets --check
@@ -806,12 +913,21 @@ def scraped_entry(*, name, oar_chapter, raw_index_name, source_url, note=None):
     catch — a curated field mislabelled `SCRAPED` would then look preserved while a real
     --refresh silently dropped it.
 
-    ONE STRING, TWO FIELDS, ON PURPOSE. The chapter page title is the only name the scrape
-    can see, and it is the OAR NAME (CONTEXT.md) — what the rules index calls this body. It
-    is written to `oar_name`, where OAR-derived joins can rely on it, and to `name`, which
-    still holds exactly what it held before. Writing it twice is what makes this the EXPAND
-    half of ADR 0003's rename: consumers move onto `oar_name` while `name` is unchanged,
-    rather than being re-verified after `name` has already changed meaning underneath them.
+    THE ARGUMENT IS THE OAR NAME, AND SAYING SO IS #168's HALF OF ADR 0003. The chapter page
+    title is the only name the scrape can see, and it is the OAR NAME (CONTEXT.md) — what the
+    rules index calls this body, and nothing else. It used to arrive here as `name`, back when
+    `name` held the OAR title too; `name` is the STATUTORY name now, and a parameter still
+    called that would have the scrape appear to produce one.
+
+    IT STILL WRITES `name`, and the row says on what basis. A body the scrape has just
+    discovered has no established statutory name — nobody has read its enabling authority,
+    and it may not have one recorded at all — so `name` starts as the OAR title under
+    `name_basis: unverified-oar-title`, which is the true statement about it. Writing the
+    title alone and leaving `name` off would produce a row --check refuses (`required-field`)
+    for a body that is perfectly real; writing it and claiming it as the statutory name would
+    be the false statement about Oregon law this whole field exists to prevent. An
+    established name never reaches here: `preserve_name()` carries it across, and the row
+    the scrape rebuilt is discarded for that key.
 
     `parent_chapter` is written null here and filled by the caller once the index tree is
     known; it is a key of a scraped row either way. `relations` is written EMPTY for the
@@ -820,7 +936,8 @@ def scraped_entry(*, name, oar_chapter, raw_index_name, source_url, note=None):
     "what the scrape produces" has to write the key — `scraped-field` in check_registry()
     checks this column against this function, and a MERGED field that the constructor did
     not write would be a field the refresh silently drops in full."""
-    entry = {"slug": slugify(name), "name": name, "oar_name": name,
+    entry = {"slug": slugify(oar_name), "name": oar_name,
+             NAME_BASIS_KEY: UNVERIFIED_OAR_TITLE, "oar_name": oar_name,
              "oar_chapter": oar_chapter,
              "raw_index_name": raw_index_name, "source_url": source_url}
     if note:
@@ -1071,6 +1188,47 @@ def preserve_relations(prev_orgs, by_slug, merged_keys=None):
             current[key] = kept
 
 
+def preserve_name(prev_orgs, by_slug, per_row_keys=None):
+    """Carry across the `name` the refresh does not own, and its basis with it. Mutates the
+    rebuilt rows.
+
+    PER ROW, NOT PER FIELD, which is what PER_ROW means and why this sits beside
+    preserve_curated() and preserve_relations() rather than inside either. The scrape has
+    just rebuilt every row's `name` from the chapter page — which is right for the 186 rows
+    whose `name` IS the chapter title and nothing more, and is a silent overwrite of a
+    reviewed statutory name on the rows where a human read the body's enabling authority and
+    recorded what it calls the body (ADR 0003). Neither whole-field origin is true, so the
+    ROW is asked: `name_basis` says which of the two this row's name is.
+
+    THE PAIR OR NEITHER. `name` and `name_basis` are one statement in two keys, and carrying
+    half of it is worse than carrying none: a `name` carried without its basis is a statutory
+    name a refresh has just relabelled as the rules index's title, and a basis carried without
+    its name is an OAR title now claiming to be what the statute calls the body — which is the
+    false statement about Oregon law #168 exists to make unwriteable. So the keys move
+    together, read from NAME_KEYS.
+
+    THE PREVIOUS ROW DECIDES, not the rebuilt one. The rebuilt row always says
+    `unverified-oar-title`, because that is all the scrape can know about a body; the
+    committed row is where a review is recorded. Reading the rebuilt row would ask the scrape
+    whether the scrape owns the value, and it would always answer yes.
+
+    An unverified row carries NOTHING, deliberately: its `name` is the chapter title, the
+    refresh has just rewritten it from the chapter page, and that is how an upstream retitle
+    reaches the registry. Freezing it would leave the row asserting a title the rules index no
+    longer prints, under a basis that says it is the title the rules index prints.
+    """
+    per_row_keys = PER_ROW_KEYS if per_row_keys is None else per_row_keys
+    for o in prev_orgs:
+        current = by_slug.get(o.get("slug"))
+        # A manual row is preserved WHOLE, so `current` is the very row being read from; the
+        # copy is a no-op there rather than a special case.
+        if not current or o.get(NAME_BASIS_KEY) != ENABLING_AUTHORITY_NAME:
+            continue
+        for key in per_row_keys:
+            if key in o:
+                current[key] = o[key]
+
+
 def cmd_refresh():
     raw = get(INDEX_URL)
     entries = parse_index(raw)
@@ -1102,7 +1260,7 @@ def cmd_refresh():
         except Exception as e:
             note = f"chapter page fetch failed ({e}); name from index (abbreviated)"
             fallbacks += 1
-        orgs[i] = scraped_entry(name=name, oar_chapter=ch, raw_index_name=index_name,
+        orgs[i] = scraped_entry(oar_name=name, oar_chapter=ch, raw_index_name=index_name,
                                 source_url=url, note=note)
         time.sleep(0.2)
         done += 1
@@ -1115,11 +1273,13 @@ def cmd_refresh():
     for i, (ch, index_name, _) in enumerate(entries):
         if ch is not None:
             continue
-        # NAME READER — MACHINERY: --refresh deriving a chapterless parent's name from the
-        # common prefix of its children's chapter-page titles. Every name in play here is
-        # one the scrape just produced, so it is the OAR name under either field; the row is
-        # built by scraped_entry(), which writes it to both.
-        child_names = [orgs[j]["name"] for j, e in enumerate(entries)
+        # --refresh deriving a chapterless parent's name from the common prefix of its
+        # children's chapter-page titles. It reads `oar_name` and not `name`, which is the
+        # same string on every row the scrape has just built and no longer the same field
+        # (#168): what is being taken a prefix of is what the rules index PRINTS, and a
+        # chapterless group named from its children's statutory names would be a name no
+        # publisher ever wrote.
+        child_names = [orgs[j]["oar_name"] for j, e in enumerate(entries)
                        if e[2] == i and orgs[j]]
         # COMPOUND NAME — NAME: the compound is read to produce this group's NAME and never
         # a placement. The hierarchy here is already known — the index tree gave it, and it
@@ -1135,7 +1295,7 @@ def cmd_refresh():
             name = index_name
             note = ("chapterless group; children's name prefixes don't agree "
                     f"({sorted(prefixes)}), name from index (abbreviated)")
-        orgs[i] = scraped_entry(name=name, oar_chapter=None, raw_index_name=index_name,
+        orgs[i] = scraped_entry(oar_name=name, oar_chapter=None, raw_index_name=index_name,
                                 source_url=INDEX_URL, note=note)
 
     by_slug = {}
@@ -1161,20 +1321,35 @@ def cmd_refresh():
         preserve_manual(prev_orgs, orgs, by_slug)
         preserve_curated(prev_orgs, by_slug)
         preserve_relations(prev_orgs, by_slug)
+        preserve_name(prev_orgs, by_slug)
 
     cat = {
         "note": ("Canonical registry of Oregon agencies and their sub-units, keyed on "
                  "the OAR chapter assignment scheme as presented by oregon.public.law/"
                  "rules (an unofficial but well-maintained mirror; official chapter "
-                 "assignment lives with the SoS Administrative Rules Unit). Proper "
-                 "names come from each chapter page's own title; the index tree "
+                 "assignment lives with the SoS Administrative Rules Unit). The names "
+                 "the scrape produces come from each chapter page's own title; the index tree "
                  "provides the parent/sub-unit hierarchy, recorded in `relations` "
                  "(ADR 0004) with parent_chapter beside it. "
                  "Third registry source: a data.oregon.gov dataset and the SoS Blue "
                  "Book directory were both previously used and dropped after review "
                  "(2026-07-18/19). validate_frontmatter.py requires every content "
                  "file's agency: field to resolve to 'statewide', 'external', or a "
-                 "slug here. oar_name is the OAR name — the chapter page's own title, "
+                 "slug here. THREE NAME FIELDS, WHICH ARE THREE DIFFERENT STRINGS. name "
+                 "is the STATUTORY name (ADR 0003) — the name the body's enabling "
+                 "authority gives it — and name_basis, on every row, says whether this "
+                 "row actually holds one: enabling-authority means a human read the "
+                 "body's enabling authority and recorded what it calls the body, and "
+                 "unverified-oar-title means nobody has established a statutory name and "
+                 "name still holds the OAR chapter title it was scraped with, unchanged "
+                 "(#168). The two are never the same state, and --check reports both "
+                 "counts on every run: a row quietly keeping its OAR title under a field "
+                 "that means `statutory name` is a false statement about Oregon law "
+                 "published under provenance. Which of the two a row is decides what "
+                 "--refresh does to its name, so name is neither scraped nor curated: an "
+                 "established name is carried across untouched, and an unverified one is "
+                 "rebuilt from the chapter page so an upstream retitle reaches it. "
+                 "oar_name is the OAR name — the chapter page's own title, "
                  "which is the string OAR-derived joins must match; it is scraped, so an "
                  "upstream chapter retitle moves it. raw_index_name is a different "
                  "string: the index's own abbreviated spelling. "
@@ -1344,8 +1519,9 @@ def promoted_name_registry(orgs) -> list:
     statutory name, `oar_name` untouched.
 
     THE FAULT INJECTION, AS CODE RATHER THAN AS A ONE-OFF SCRIPT. `name` and `oar_name` hold
-    identical bytes on all 189 committed rows, so any measurement of "which field does this
-    consumer really read" run against committed data passes by construction. Promoting
+    identical bytes on 185 of the 189 committed rows — the promotion is real and the reviewed
+    names are four (#168) — so any measurement of "which field does this consumer really
+    read" run against committed data still passes on all but four rows by construction. Promoting
     `name` in memory is what makes such a measurement an observation — and keeping it here,
     where `--check` runs it on every PR, is what stops it from being a number someone once
     printed. The placeholder deliberately shares no word with the row's OAR name: a
@@ -1385,8 +1561,9 @@ def find(query: str, limit: int = 8, organizations=None):
 # for anything non-exact, a note.
 #
 # MATCHES ON EVERY NAME A BODY HAS, WHICH IS WHAT ADR 0003 MOVED THE GROUND UNDER. This
-# matched `name` alone until #187, and was unaffected in the data because `oar_name` holds
-# the same bytes as `name` on all 189 rows — so the change is invisible against the
+# matched `name` alone until #187, and was almost unaffected in the data because `oar_name`
+# holds the same bytes as `name` on 185 of the 189 rows — so the change is nearly invisible
+# against the
 # committed registry and stark against one with `name` already promoted: matching `name`
 # alone loses 32 of the 72 recorded resolutions this file's tiers produced, and matching
 # both loses none of them. The 76 were RE-MEASURED rather than assumed (issue #187), and 5
@@ -1508,7 +1685,7 @@ def resolve(name, organizations=None):
 # check" is never reported as "is not there".
 
 
-def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None):
+def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None, per_row_keys=None):
     """{slug: row} for what --refresh would leave behind, run against committed data.
 
     NO NETWORK AND NO SCRAPE. The scrape is replayed rather than performed: every row the
@@ -1530,21 +1707,21 @@ def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None):
     about a decision not following a placement that moved lives in `carry_decision()` and is
     proven against it directly.
 
-    `name` is passed as the scrape's one name string because that is where the committed
-    rows hold it today — `oar_name` holds the same bytes on all 189 of them. When ADR 0003
-    makes `name` the statutory name the two stop agreeing, and this call has to read
-    `oar_name` instead; nothing here would notice, because a scraped field is skipped by the
-    survival comparison, so that step belongs with the change that splits them.
+    THE SCRAPE'S NAME IS READ FROM `oar_name`, which is the step #168 owed this function.
+    It used to read `name`, because that was where the committed rows held the chapter title
+    — `oar_name` held the same bytes on all 189 of them, so the two calls were the same call
+    and nothing distinguished them. ADR 0003 splits them: `name` is the statutory name now,
+    and replaying the scrape from it would credit oregon.public.law with producing a name it
+    has never printed, on exactly the rows where the difference matters.
     """
     orgs, by_slug, index_parents = [], {}, {}
     for o in prev_orgs:
         if o.get("manual"):
             continue
         # NAME READER — MACHINERY: the survival simulation replaying the scrape from
-        # committed values. `name` is passed as the scrape's one name string because that is
-        # where the committed rows hold it; see this function's docstring for what has to
-        # change here when ADR 0003 splits the two.
-        row = scraped_entry(name=o.get("name"), oar_chapter=o.get("oar_chapter"),
+        # committed values. The OAR name is what the scrape produces, so that is what is
+        # replayed; see this function's docstring for why it is no longer `name`.
+        row = scraped_entry(oar_name=o.get("oar_name"), oar_chapter=o.get("oar_chapter"),
                             raw_index_name=o.get("raw_index_name"),
                             source_url=o.get("source_url"), note=o.get("note"))
         row["parent_chapter"] = o.get("parent_chapter")
@@ -1571,6 +1748,7 @@ def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None):
     preserve_manual(prev_orgs, orgs, by_slug)
     preserve_curated(prev_orgs, by_slug, curated_keys)
     preserve_relations(prev_orgs, by_slug, merged_keys)
+    preserve_name(prev_orgs, by_slug, per_row_keys)
     return {o["slug"]: o for o in orgs}
 
 
@@ -1592,6 +1770,7 @@ def check_registry(cat, fields=None) -> list:
     curated = frozenset(k for k, f in fields.items() if f.origin == CURATED)
     scraped = frozenset(k for k, f in fields.items() if f.origin == SCRAPED)
     merged = frozenset(k for k, f in fields.items() if f.origin == MERGED)
+    per_row = frozenset(k for k, f in fields.items() if f.origin == PER_ROW)
 
     failures = []
     orgs = (cat or {}).get("organizations")
@@ -1671,6 +1850,72 @@ def check_registry(cat, fields=None) -> list:
         if form is None:
             failures.append(Failure("enabling-authority-form", _row_id(o, i),
                                     f"enabling_authority {detail}"))
+
+    # WHAT THIS ROW'S `name` IS, AND WHETHER THE ROW CAN SUPPORT THE CLAIM (#168). ADR 0003
+    # makes `name` the STATUTORY name; most rows still hold the OAR chapter title they were
+    # scraped with, and the two must not be the same state. This rule is what stops a row
+    # from silently becoming the first while holding the second.
+    #
+    # AN ESTABLISHED STATUTORY NAME NEEDS AN AUTHORITY TO HAVE BEEN ESTABLISHED FROM, and
+    # `enabling_authority` is where this registry records one. A row claiming
+    # `enabling-authority` with no authority on it is a claim resting on evidence the file
+    # does not hold — `manual: true` again, in the one field ADR 0003 calls the risky half.
+    # `none: <reason>` does not support it either: a reviewed absence records that the body
+    # has NO enabling authority, so there is nothing for a statutory name to be read off.
+    #
+    # AN UNVERIFIED ROW MUST STILL HOLD THE OAR TITLE, which is the other half and the one
+    # that makes "no row's name is blanked" checkable rather than promised. `name` and
+    # `oar_name` hold the same bytes on every row nobody has reviewed, so a row that says it
+    # carries the unverified OAR title and carries something else — a blank, a truncation, a
+    # hand-written guess — is a name nothing produced and nobody read.
+    #
+    # THE FORM OF THE NAME ITSELF is `findable-by-both-names`': a name that matches nothing
+    # is refused there, on both fields, and reported as the body it makes unfindable.
+    # NAME READER — MACHINERY: the registry's contract check, reading `name` to state what
+    # KIND of value it is holding and whether the row can support that claim. It never
+    # matches the name against anything and never shows it to a reader except inside its own
+    # failure message; what it operates on is the field and the provenance beside it.
+    for i, o in rows:
+        basis = o.get(NAME_BASIS_KEY)
+        if basis is None and NAME_BASIS_KEY not in o:
+            continue          # `required-field` above already reported it
+        if basis not in NAME_BASES:
+            failures.append(Failure(
+                "statutory-name-basis", _row_id(o, i),
+                f"{NAME_BASIS_KEY} {basis!r} is not a basis this registry can record — "
+                f"expected {ENABLING_AUTHORITY_NAME!r} (the statutory name, read off the "
+                f"body's enabling authority) or {UNVERIFIED_OAR_TITLE!r} (nobody has "
+                f"established one, so `name` still holds the OAR chapter title)"))
+            continue
+        if basis == ENABLING_AUTHORITY_NAME:
+            form = classify_authority(o.get("enabling_authority"))[0]
+            if form is None or form == "reviewed-none":
+                held = ("no enabling_authority at all, which is how this registry says "
+                        "nobody has looked at this body yet"
+                        if "enabling_authority" not in o
+                        else f"enabling_authority {o['enabling_authority']!r}")
+                failures.append(Failure(
+                    "statutory-name-basis", _row_id(o, i),
+                    f"name {o.get('name')!r} is recorded as the statutory name, and the row "
+                    f"carries {held} — so nothing here establishes what the body's enabling "
+                    f"authority calls it. Record the authority, or record the name as "
+                    f"{UNVERIFIED_OAR_TITLE!r}"))
+        # NAME READER — MACHINERY: the other half of the same rule, comparing the two name
+        # FIELDS to each other. It asks whether this row holds the string the scrape put
+        # there, which is a question about where a value came from and not about which body
+        # any name identifies.
+        elif not all(isinstance(o.get(k), str) for k in ("name", "oar_name")):
+            # A row missing either name, or holding a null in one, is `required-field`'s to
+            # report. A rule that fires on the same row as another stops saying which of the
+            # two the row is about — the division `findable-by-both-names` already keeps.
+            continue
+        elif o["name"] != o["oar_name"]:
+            failures.append(Failure(
+                "statutory-name-basis", _row_id(o, i),
+                f"name {o.get('name')!r} is recorded as the unverified OAR title and the "
+                f"row's oar_name is {o.get('oar_name')!r} — an unreviewed row holds the "
+                f"chapter title and nothing else, so this name was neither scraped nor "
+                f"read off an authority"))
 
     # IDENTITY. The slug is the only thing a sibling corpus joins on, and the chapter is
     # what put most rows here; either one claimed twice attributes one body's documents to
@@ -1883,6 +2128,28 @@ def check_registry(cat, fields=None) -> list:
     # way to tell them apart, and a hand-written note is destroyed by --refresh with nothing
     # to report it. A field nobody declared at all is `declared-field`'s to report, on the
     # rows that carry it.
+    # THE SAME STATEMENT ABOUT `name`, WHICH HOLDS TWO ORIGINS ACROSS ROWS RATHER THAN
+    # ACROSS ENTRIES (#168). An established statutory name is curation nothing upstream
+    # produces; an unverified OAR title is exactly what the chapter page prints. Declared
+    # SCRAPED, the survival comparison SKIPS the key on the grounds that the refresh rewrites
+    # it — and a reviewed statutory name is then replaced by a publisher's spelling with
+    # nothing reporting it, which is the false pass a gate must never produce. Declared
+    # CURATED, preserve_curated()'s "copy it if the rebuilt row has not got it" never fires,
+    # because the rebuilt row always has this key: the statutory name is lost, and the
+    # survival comparison does report that. Only PER_ROW makes preserve_name() the thing that
+    # decides, per row, from the basis the row states.
+    for key in NAME_KEYS:
+        field = fields.get(key)
+        if field is not None and field.origin != PER_ROW:
+            failures.append(Failure(
+                "name-origin", "FIELDS",
+                f"{key!r} is declared {field.origin.upper()} — a row whose statutory name "
+                f"has been established from its enabling authority holds curation --refresh "
+                f"must carry across, and a row still carrying its unverified OAR title holds "
+                f"a value --refresh rebuilds from the chapter page, so no whole-field origin "
+                f"is true of it and it must be declared PER_ROW, which is what makes "
+                f"preserve_name() read {NAME_BASIS_KEY!r} to decide"))
+
     relations_field = fields.get(RELATION_KEY)
     if relations_field is not None and relations_field.origin != MERGED:
         failures.append(Failure(
@@ -1900,7 +2167,7 @@ def check_registry(cat, fields=None) -> list:
     # not produce. `scraped_entry()` is the only thing that writes a scraped field, so its
     # own key set settles the question. The probe passes a TRUTHY note on purpose: the
     # constructor omits that key when a chapter page parsed fine, which is most of the time.
-    written = set(scraped_entry(name="probe", oar_chapter=None, raw_index_name=None,
+    written = set(scraped_entry(oar_name="probe", oar_chapter=None, raw_index_name=None,
                                 source_url=None, note="probe"))
     # A MERGED FIELD IS WRITTEN BY THE REFRESH TOO, and is held to the same claim. The
     # refresh does not own everything `relations` holds, but it does rebuild the entries it
@@ -1908,7 +2175,10 @@ def check_registry(cat, fields=None) -> list:
     # never writes is one the refresh drops IN FULL, curated entries and all. Keeping both
     # origins in this rule is what stops declaring a field MERGED from becoming a way to be
     # exempt from it.
-    produced = scraped | merged
+    # A PER_ROW FIELD IS WRITTEN BY THE REFRESH TOO, on the rows the refresh owns it for, so
+    # it is held to the same claim for the same reason: the constructor must produce the key,
+    # or every row that has NOT been reviewed loses its name entirely on the next refresh.
+    produced = scraped | merged | per_row
     for key in sorted(produced - written):
         failures.append(Failure("scraped-field", "FIELDS",
                                 f"{key!r} is declared {fields[key].origin.upper()} but "
@@ -1917,29 +2187,35 @@ def check_registry(cat, fields=None) -> list:
     for key in sorted(written - produced):
         failures.append(Failure("scraped-field", "FIELDS",
                                 f"scraped_entry() writes {key!r}, which FIELDS does not "
-                                "declare SCRAPED or MERGED"))
+                                "declare SCRAPED, MERGED or PER_ROW"))
 
     # WHAT A --refresh WOULD LEAVE BEHIND. Everything above reads the registry as it stands;
     # this reads it as it would stand after the command that rebuilds it, which is the only
     # place curation has ever been lost. Compared for every field that is NOT scraped,
     # allowlist-style: whatever the refresh does not write, it has to preserve.
     #
-    # A row with no name or no slug is one the simulation cannot run on at all: the refresh
-    # derives the slug from the name, so there is nothing to rebuild and nothing to compare.
-    # Such a row is REPORTED as unevaluated rather than crashed on or quietly left out of
-    # the comparison — "could not check" is never reported as "is not there" (CONTEXT.md).
+    # A row with no OAR name or no slug is one the simulation cannot run on at all: the
+    # refresh derives the slug from the chapter page's title, so there is nothing to rebuild
+    # and nothing to compare. Such a row is REPORTED as unevaluated rather than crashed on or
+    # quietly left out of the comparison — "could not check" is never reported as "is not
+    # there" (CONTEXT.md).
+    #
+    # IT IS THE OAR NAME THAT DECIDES THIS, NOT `name`, SINCE #168. The two held the same
+    # bytes on all 189 rows, so which one was read made no difference to the answer and every
+    # difference to what the answer meant: `name` is the statutory name now, and a body whose
+    # statutory name has been established still has a slug the refresh derives — from the
+    # chapter title, which is the only name the scrape can see.
     simulatable, unevaluable = [], []
     for i, o in rows:
-        # NAME READER — MACHINERY: whether a row can be simulated at all, which turns on
-        # the PRESENCE of a name rather than on what it says.
-        (simulatable if isinstance(o.get("name"), str) and isinstance(o.get("slug"), str)
+        (simulatable
+         if isinstance(o.get("oar_name"), str) and isinstance(o.get("slug"), str)
          else unevaluable).append((i, o))
     for i, o in unevaluable:
         failures.append(Failure("survives-refresh", _row_id(o, i),
-                                "no name or no slug, so a refresh cannot be simulated "
+                                "no oar_name or no slug, so a refresh cannot be simulated "
                                 "against this row — it is unchecked, not clean"))
     survivors = simulate_refresh([o for _, o in simulatable], curated_keys=curated,
-                                 merged_keys=merged)
+                                 merged_keys=merged, per_row_keys=per_row)
     for i, o in simulatable:
         got = survivors.get(o.get("slug"))
         if got is None:
@@ -2005,6 +2281,10 @@ def cmd_check() -> int:
           "survive a simulated --refresh")
     # THE ENABLING AUTHORITY'S CENSUS, PRINTED RATHER THAN LEFT TO BE COUNTED.
     print(f"enabling authority: {authority_census(orgs)}")
+    # WHAT EACH ROW'S `name` IS (#168), on the same terms: `name` is the statutory name now,
+    # and how many rows actually hold one is a fact a reader of this registry needs on every
+    # run rather than a number to go and count.
+    print(f"name: {name_census(orgs)}")
     # THE RELATIONS' CENSUS, for the same reason and one more: the kind is `undetermined` on
     # every relation the registry holds, and that is a state to REPORT on every run rather
     # than a default to stop noticing (#173 is what decides them).
@@ -2025,7 +2305,7 @@ def cmd_check() -> int:
 
 def _fixture():
     """A registry that passes every rule. Each case below breaks exactly one thing."""
-    das = scraped_entry(name="Department of Administrative Services", oar_chapter="125",
+    das = scraped_entry(oar_name="Department of Administrative Services", oar_chapter="125",
                         raw_index_name="Dept. of Administrative Services",
                         source_url=f"{BASE}/rules/oar_chapter_125")
     write_das_agency_number(das, "107")   # the pair, written the way every writer writes it
@@ -2035,7 +2315,18 @@ def _fixture():
     # what created the Department of Administrative Services, which is a question nobody
     # has reviewed. A real citation here would read as a verdict.
     das["enabling_authority"] = "ORS 999.999"
-    cfo = scraped_entry(name="Chief Financial Office", oar_chapter="122",
+    # A ROW WHOSE STATUTORY NAME HAS BEEN ESTABLISHED, beside two that carry their OAR title
+    # (#168). Both states have to be in the fixture: every rule below is vacuously true of a
+    # registry where no row has ever been reviewed, and `preserve_name()` — the only thing
+    # standing between a reviewed name and the next --refresh — would never run at all.
+    #
+    # THE NAME IS MADE UP, like the citation above and for the same reason. This gate checks
+    # that a row can SUPPORT the claim it makes about its own name; what ORS 999.999 actually
+    # calls the Department of Administrative Services is a question nobody has reviewed, and
+    # a real statutory name here would read as a verdict on it.
+    das["name"] = "The Oregon Department of Administrative Services"
+    das[NAME_BASIS_KEY] = ENABLING_AUTHORITY_NAME
+    cfo = scraped_entry(oar_name="Chief Financial Office", oar_chapter="122",
                         raw_index_name="Chief Financial Office",
                         source_url=f"{BASE}/rules/oar_chapter_122")
     cfo["parent_chapter"] = das["oar_chapter"]
@@ -2054,7 +2345,7 @@ def _fixture():
                         {"target": das["slug"], "source": "statute",
                          "kind": ADMINISTERED_BY, "basis": REVIEWED_AUTHORITY,
                          "authority": "ORS 999.998"}]
-    gov = scraped_entry(name="Office of the Governor", oar_chapter=None,
+    gov = scraped_entry(oar_name="Office of the Governor", oar_chapter=None,
                         raw_index_name=None, source_url=None)
     gov["manual"] = True
     gov["aliases"] = ["Governor's Office"]
@@ -2091,10 +2382,10 @@ def _case_missing_oar_name(cat):
 
 
 def _case_missing_name(cat):
-    """A row that dropped `name`. The same deletion as the case above breaks two rules at
-    once — nothing can be simulated for the row, AND a required field is gone — and a case
-    asserts one rule, so each gets its own. `name` and `oar_name` are the two names a
-    consumer can resolve a body by, and every row is required to carry both."""
+    """A row that dropped `name` — the body's statutory name since ADR 0003, and one of the
+    two names a consumer can resolve it by. Every row is required to carry both, and a row
+    carrying only the rules index's title is one that no longer states what the body is
+    called, which is the registry's whole subject."""
     del cat["organizations"][1]["name"]
 
 
@@ -2170,6 +2461,53 @@ def _case_statutory_name_that_matches_nothing(cat):
     prints is one that stops being findable by the name its enabling authority gives it —
     the half of the pair ADR 0003 promotes."""
     cat["organizations"][1]["name"] = "   "
+
+
+def _case_name_basis_this_registry_has_no_meaning_for(cat):
+    """A basis nobody declared. The field's two words are the two states #168 exists to keep
+    apart — a statutory name read off an authority, and an OAR title nobody has reviewed —
+    and a third word published there is a provenance no reader can weigh and no gate can act
+    on. Widening the allowlist is a decision taken beside NAME_BASES, which is what makes it
+    deliberate."""
+    cat["organizations"][0][NAME_BASIS_KEY] = "sounds-official"
+
+
+def _case_statutory_name_with_no_authority_to_support_it(cat):
+    """A row claiming its `name` is the statutory name with no enabling authority on it. The
+    statutory name is the name a body's ENABLING AUTHORITY gives it (ADR 0003), so a row
+    making that claim while recording no authority has nothing behind it — it is `manual:
+    true` again, in the field ADR 0003 calls the risky half: an assertion that records
+    someone decided and never what decided it.
+
+    THE ROW STILL LOOKS PERFECT WITHOUT THIS RULE, which is why it needs one. The name is a
+    non-empty string, `findable-by-both-names` reaches the body by it, and every consumer
+    reads it as what Oregon law calls this body."""
+    del cat["organizations"][0]["enabling_authority"]
+
+
+def _case_statutory_name_resting_on_a_reviewed_absence(cat):
+    """A statutory name on a body reviewed as having NO enabling authority. `none: <reason>`
+    is a finding — someone looked and there is nothing that created this body separately —
+    so there is no authority for a name to have been read off, and a row asserting both says
+    the two opposite things about one body at once. It is the same contradiction
+    `part-of-body-that-carries-an-enabling-authority` refuses one field over."""
+    cat["organizations"][0]["enabling_authority"] = no_authority_value(
+        "Part of DAS, so nothing separate is enabled")
+
+
+def _case_unverified_name_that_is_not_the_oar_title(cat):
+    """A row that says its `name` is the unverified OAR title and holds something else. ADR
+    0003 promotes `name` and #168 requires that no row's name be BLANKED by the promotion:
+    a body with no established statutory name keeps the value it had, which is its OAR
+    chapter title. The row's own basis is what makes that checkable — an unreviewed row holds
+    the chapter title and nothing else, so a truncation, a hand-written guess or an empty
+    string here is a name that nothing scraped and nobody read.
+
+    A BLANKED NAME IS THE CASE THIS IS REALLY ABOUT. `""` reads as a name to every consumer
+    that checks for the key, and the body it names becomes unfindable by the only name it
+    has — which is what makes deleting information a way to pass a criterion, and this is
+    what stops it."""
+    cat["organizations"][1]["name"] = ""
 
 
 def _case_relation_with_no_source(cat):
@@ -2493,10 +2831,15 @@ def _case_field_the_refresh_drops(cat):
 
 
 def _case_row_the_simulation_cannot_run_on(cat):
-    """A row with no name. The refresh derives a slug from the name, so there is nothing
-    to simulate — and a row that could not be evaluated must be REPORTED as unevaluated,
-    never left out of the report as though it had passed."""
-    del cat["organizations"][0]["name"]
+    """A row with no OAR name. The refresh derives a slug from the chapter page's own title,
+    so there is nothing to simulate — and a row that could not be evaluated must be REPORTED
+    as unevaluated, never left out of the report as though it had passed.
+
+    It is the OAR name and no longer `name` that decides this (#168): the two held identical
+    bytes on every row until ADR 0003 split them, and the scrape can only ever see the
+    chapter title. The same deletion as `missing-oar-name` above, which is deliberate — one
+    edit breaks two rules, and a case asserts one, so each gets its own."""
+    del cat["organizations"][0]["oar_name"]
 
 
 def _case_registry_emptied(cat):
@@ -2510,6 +2853,14 @@ _CASES = [
     ("undeclared-field", _case_undeclared_field, "declared-field"),
     ("relations-that-are-not-a-list", _case_relations_that_are_not_a_list,
      "relation-shape"),
+    ("name-basis-this-registry-has-no-meaning-for",
+     _case_name_basis_this_registry_has_no_meaning_for, "statutory-name-basis"),
+    ("statutory-name-with-no-authority-to-support-it",
+     _case_statutory_name_with_no_authority_to_support_it, "statutory-name-basis"),
+    ("statutory-name-resting-on-a-reviewed-absence",
+     _case_statutory_name_resting_on_a_reviewed_absence, "statutory-name-basis"),
+    ("unverified-name-that-is-not-the-oar-title",
+     _case_unverified_name_that_is_not_the_oar_title, "statutory-name-basis"),
     ("relation-with-no-source", _case_relation_with_no_source, "relation-shape"),
     ("relation-with-no-kind", _case_relation_with_no_kind, "relation-shape"),
     ("relation-of-an-unrecorded-kind", _case_relation_of_an_unrecorded_kind,
@@ -2660,6 +3011,27 @@ _PROOFS = [
     # stop proving anything the day it did.
     ("merged-field-the-scrape-does-not-write",
      dict(FIELDS, coalition=Field(MERGED, required=False)), "scraped-field"),
+    # THE TWO WAYS A PER_ROW FIELD IS DECLARED AS A SINGLE-ORIGIN ONE (#168), stated over
+    # both halves of the pair because both halves are carried by the same function and
+    # either one lost alone is a row lying about itself.
+    #
+    #   SCRAPED   the loss with NOTHING TO REPORT IT, and the reason `name-origin` exists.
+    #             The survival comparison skips a scraped field on the grounds that the
+    #             refresh rewrites it — so a reviewed statutory name is replaced by the
+    #             rules index's spelling and every rule here still passes. That is the false
+    #             pass a gate must never produce, and it is exactly the shape of #178.
+    #   CURATED   preserve_curated() copies a key the rebuilt row has not got, and the
+    #             rebuilt row always has this one, so nothing is carried. The loss is real
+    #             and the survival comparison DOES report it, which is why this proof names
+    #             a different rule from the one above.
+    ("name-declared-scraped",
+     dict(FIELDS, name=Field(SCRAPED, required=True)), "name-origin"),
+    ("name-declared-curated",
+     dict(FIELDS, name=Field(CURATED, required=True)), "survives-refresh"),
+    ("name-basis-declared-scraped",
+     dict(FIELDS, name_basis=Field(SCRAPED, required=True)), "name-origin"),
+    ("name-basis-declared-curated",
+     dict(FIELDS, name_basis=Field(CURATED, required=True)), "survives-refresh"),
 ]
 
 
@@ -2691,6 +3063,51 @@ def _proof_the_merge_is_what_carries_a_curated_relation() -> int:
     if index_relation("department-of-administrative-services") not in dropped[RELATION_KEY]:
         print("FAIL a-dropped-curated-relation-leaves-a-healthy-looking-row: the row lost "
               f"more than the curated entry ({dropped[RELATION_KEY]!r})", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_the_carry_is_what_keeps_an_established_statutory_name() -> int:
+    """An established statutory name survives a refresh, and survives it BECAUSE
+    preserve_name() carries it — the carry watched working and watched failing, on one
+    fixture.
+
+    The declaration proofs above state that `name` may not be declared as a single-origin
+    field; this states what the carry itself does, which is the other half. Without it the
+    reviewed name is gone and the row still looks entirely healthy: it carries `name`, the
+    key holds a non-empty string, the string is the body's name in some real sense, and every
+    consumer reads it as what Oregon law calls the body. That is what the loss looks like
+    from the outside — a publisher's spelling wearing a statute's provenance — and it is why
+    the pair moves together: the third assertion below is that the basis went with it, so the
+    row cannot come back saying a rules-index title was read off an authority.
+
+    AND THE UNVERIFIED ROW MUST STILL TRACK THE INDEX, which is the fourth. A carry that kept
+    every row's name would freeze 186 rows at whatever the rules index said the day they were
+    scraped, under a basis stating that they hold what the rules index prints — the opposite
+    failure, and the one a whole-field CURATED declaration would produce.
+    """
+    rows = _fixture()["organizations"]
+    kept = simulate_refresh(rows)["department-of-administrative-services"]
+    lost = simulate_refresh(rows, per_row_keys=frozenset())[
+        "department-of-administrative-services"]
+    bad = 0
+    if kept["name"] != "The Oregon Department of Administrative Services":
+        print(f"FAIL carry-keeps-an-established-statutory-name: {kept['name']!r}",
+              file=sys.stderr)
+        bad += 1
+    if lost["name"] == "The Oregon Department of Administrative Services":
+        print("FAIL the-carry-is-what-keeps-it: the name survived with the carry switched "
+              f"off, so this proves nothing about it ({lost['name']!r})", file=sys.stderr)
+        bad += 1
+    if lost[NAME_BASIS_KEY] != UNVERIFIED_OAR_TITLE:
+        print("FAIL a-dropped-statutory-name-takes-its-basis-with-it: the row kept "
+              f"{lost[NAME_BASIS_KEY]!r} over a name the scrape rebuilt", file=sys.stderr)
+        bad += 1
+    cfo = simulate_refresh(rows)["chief-financial-office"]
+    if cfo["name"] != cfo["oar_name"] or cfo[NAME_BASIS_KEY] != UNVERIFIED_OAR_TITLE:
+        print("FAIL an-unverified-name-still-follows-the-index: the carry took a row it was "
+              f"not asked to take ({cfo['name']!r}, {cfo[NAME_BASIS_KEY]!r})",
+              file=sys.stderr)
         bad += 1
     return bad
 
@@ -2867,16 +3284,17 @@ def _proof_refresh_rejects_an_undeclared_scraped_field() -> int:
 # ------------------------------------------------------------------------- the search proof
 #
 # A BODY MUST STAY FINDABLE BY THE NAME ITS READER KNOWS, and after ADR 0003 there are two
-# such names on every row. The fixture below is the only place they DIFFER: `name` and
-# `oar_name` hold identical bytes on all 189 committed rows, so a proof taken from committed
-# data passes whichever field the matcher reads and proves nothing about which it is.
+# such names on every row. The fixture below is where they DIFFER by construction: `name` and
+# `oar_name` hold identical bytes on 185 of the 189 committed rows (#168 establishes four), so
+# a proof taken from committed data passes whichever field the matcher reads on all but four
+# and proves nothing about which it is.
 
 
 def _search_fixture():
     """One body under three names: the statutory one ADR 0003 promotes into `name`, the
     rules index's title in `oar_name`, and a curated former name in `aliases`. Every one of
     the three is a name some Oregon source prints for the same body."""
-    org = scraped_entry(name="Oregon Liquor and Cannabis Commission", oar_chapter="845",
+    org = scraped_entry(oar_name="Oregon Liquor and Cannabis Commission", oar_chapter="845",
                         raw_index_name="Liquor & Cannabis Comm'n",
                         source_url=f"{BASE}/rules/oar_chapter_845")
     org["name"] = "Oregon Liquor and Cannabis Commission"      # statutory (ORS 471.705)
@@ -2912,7 +3330,7 @@ def _resolution_fixture():
     """A body whose two names disagree, plus one whose names are the same string — because
     the real registry after ADR 0003 is a mixture and a resolver has to handle both."""
     olcc = _search_fixture()
-    nursing = scraped_entry(name="Board of Nursing", oar_chapter="851",
+    nursing = scraped_entry(oar_name="Board of Nursing", oar_chapter="851",
                             raw_index_name="Bd. of Nursing",
                             source_url=f"{BASE}/rules/oar_chapter_851")
     return [olcc, nursing]
@@ -3011,6 +3429,7 @@ def selftest() -> int:
     bad += _proof_the_relation_census_counts_every_kind()
     bad += _proof_the_merge_is_what_carries_a_curated_relation()
     bad += _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry()
+    bad += _proof_the_carry_is_what_keeps_an_established_statutory_name()
     resolutions = 0
     for proof in (_proof_search_spans_every_name_a_body_is_known_by,
                   _proof_a_promoted_name_loses_no_resolution):
@@ -3026,7 +3445,7 @@ def selftest() -> int:
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
-    print(f"{len(_CASES) + len(_PROOFS) + 5} violation(s) demonstrated failing, "
+    print(f"{len(_CASES) + len(_PROOFS) + 6} violation(s) demonstrated failing, "
           f"{resolutions} name resolution(s) proven"
           if not bad else f"{bad} rule(s) did not fire")
     return 1 if bad else 0

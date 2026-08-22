@@ -127,8 +127,9 @@ def registry_chapters(reg: dict) -> list:
     join by construction: the chapter is the OAR index's key and the title written beside it
     in _meta/catalog/oar.yml is the name that index prints for the body — `oar_name`
     (CONTEXT.md, *OAR name*). It read `name` until ADR 0003 moved the ground under that
-    field, and the two hold identical bytes on all 189 committed rows, so the change is
-    invisible in the data and visible only in the fault-injected fixture below.
+    field, and the two still hold identical bytes on 185 of the 189 committed rows — only
+    the four whose statutory name has been established differ (#168) — so the change is all
+    but invisible in the data and visible in the fault-injected fixture below.
 
     A chapter whose row carries no `oar_name` is REFUSED rather than walked under whatever
     other name the row happens to hold. Every row is required to carry one
@@ -197,8 +198,9 @@ def cmd_summary():
 # ------------------------------------------------------------------------------ selftest
 #
 # THE PROOF THAT DISCOVERY IS KEYED ON THE OAR NAME. The fixture's two names differ, which
-# no committed registry row does: `name` and `oar_name` hold the same bytes on all 189 rows
-# today, so a fixture built from committed data would pass whichever field this code reads.
+# 185 of the 189 committed registry rows do not: `name` and `oar_name` hold the same bytes
+# everywhere a statutory name has not been established (#168), so a fixture built from
+# committed data would pass whichever field this code reads on all but four rows.
 # Synthetic: no network, no read of the committed registry or catalog.
 
 

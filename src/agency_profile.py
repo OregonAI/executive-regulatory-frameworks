@@ -224,8 +224,9 @@ def overview() -> list:
 
 
 # THE REGISTRY AS ADR 0003 LEAVES IT, and the only place this module's two names differ:
-# `name` and `oar_name` hold identical bytes on all 189 committed rows, so a search proof
-# that reads the committed registry passes whichever field the matcher reads. Both names
+# `name` and `oar_name` hold identical bytes on 185 of the 189 committed rows, differing only
+# on the four whose statutory name has been established (#168), so a search proof that reads
+# the committed registry passes whichever field the matcher reads on all but four of them. Both names
 # below are real — ORS 471.705 names the commission one thing and the rules index prints
 # chapter 845 under the other.
 _SEARCH_FIXTURE = {
