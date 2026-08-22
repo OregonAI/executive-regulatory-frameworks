@@ -53,15 +53,6 @@ candidates:
     administrator. (1) The State Board of Massage Therapists operates as a semi-independent state agency
     subject to ORS 182.456 to 182.
   verdict: ''
-- slug: board-of-nursing
-  name: Board of Nursing
-  tier: 2
-  basis: catchline-contains
-  candidate: ORS 678.140
-  catchline: Oregon State Board of Nursing
-  text: (1) There is created an Oregon State Board of Nursing composed of nine members appointed by the
-    Governor and subject to confirmation by the Senate in the manner provided in ORS 171.
-  verdict: ''
 - slug: board-of-optometry
   name: Board of Optometry
   tier: 3
@@ -107,14 +98,6 @@ candidates:
   catchline: South Slough National Estuarine Research Reserve Management Commission; powers; rules; fees
   text: 553, there is created the South Slough National Estuarine Research Reserve Management Commission.
   verdict: ''
-- slug: department-of-state-police
-  name: Department of State Police
-  tier: 2
-  basis: catchline-contains
-  candidate: ORS 181A.015
-  catchline: Department of State Police established
-  text: (1) There is established a Department of State Police.
-  verdict: ''
 - slug: employment-relations-board
   name: Employment Relations Board
   tier: 3
@@ -146,15 +129,6 @@ candidates:
     operate as a semi-independent state agency subject to ORS 182.456 to 182.472 for purposes of carrying
     out the provisions of ORS 671.
   verdict: ''
-- slug: legislative-administration-committee
-  name: Legislative Administration Committee
-  tier: 2
-  basis: catchline-contains
-  candidate: ORS 173.710
-  catchline: Legislative Administration Committee and office of Legislative Administrator established
-  text: The Legislative Administration Committee hereby is established as a joint committee of the Legislative
-    Assembly.
-  verdict: ''
 - slug: legislative-equity-office
   name: Legislative Equity Office
   tier: 2
@@ -163,15 +137,6 @@ candidates:
   catchline: Joint Committee on Conduct established; Legislative Equity Office established; Legislative
     Equity Officer
   text: (1) The Joint Committee on Conduct is established as a joint committee of the Legislative Assembly.
-  verdict: ''
-- slug: legislative-policy-and-research-committee
-  name: Legislative Policy and Research Committee
-  tier: 2
-  basis: catchline-contains
-  candidate: ORS 173.605
-  catchline: Legislative Policy and Research Committee established; director
-  text: (1) The Legislative Policy and Research Committee is established as a joint committee of the Legislative
-    Assembly.
   verdict: ''
 - slug: legislative-revenue-office
   name: Legislative Revenue Office
@@ -182,14 +147,6 @@ candidates:
   text: 850, during the interim between sessions of the Legislative Assembly, “appointing authority” means
     the Interim Committee on Revenue if created, or, if no Interim Committee on Revenue is created, means
     the Speaker of the House of Representatives and the President of the Senate.
-  verdict: ''
-- slug: long-term-care-ombudsman
-  name: Long Term Care Ombudsman
-  tier: 2
-  basis: catchline-contains
-  candidate: ORS 441.403
-  catchline: Office of Long Term Care Ombudsman; terms; appointment; confirmation; qualifications
-  text: (1) The office of the Long Term Care Ombudsman is established.
   verdict: ''
 - slug: oregon-board-of-dentistry
   name: Oregon Board of Dentistry
@@ -212,94 +169,6 @@ candidates:
     meetings; executive director. (1) The Oregon Board of Physical Therapy operates as a semi-independent
     state agency subject to ORS 182.
   verdict: ''
-- slug: oregon-criminal-justice-commission
-  name: Oregon Criminal Justice Commission
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 137.654
-  catchline: Oregon Criminal Justice Commission; membership; terms; meetings
-  text: '(1) There is established the Oregon Criminal Justice Commission consisting of 12 members as follows:
-    (a) The Governor shall appoint the following nine members who are subject to confirmation by the Senate
-    pursuant to Article III, section 4, of the Oregon Constitution: (A) One member who is an elected district
-    attorney recommended to the Governor by a statewide nonprofit organization representing Oregon district
-    attorneys.'
-  verdict: ''
-- slug: oregon-department-of-aviation
-  name: Oregon Department of Aviation
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 835.100
-  catchline: Oregon Department of Aviation; director
-  text: (1) The Oregon Department of Aviation is established.
-  verdict: ''
-- slug: oregon-department-of-education
-  name: Oregon Department of Education
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 326.111
-  catchline: Department of Education; composition; functions; subpoenas; rules
-  text: (1) The Department of Education is created and shall function under the direction and control
-    of the State Board of Education with the Superintendent of Public Instruction serving as an administrative
-    officer for public school matters.
-  verdict: ''
-- slug: oregon-department-of-education-fair-dismissal-appeals-board
-  name: Oregon Department of Education, Fair Dismissal Appeals Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 342.930
-  catchline: Fair Dismissal Appeals Board; rules
-  text: (1) The Fair Dismissal Appeals Board is created, consisting of 24 members appointed by the Governor,
-    subject to confirmation by the Senate as provided in ORS 171.
-  verdict: ''
-- slug: oregon-department-of-education-youth-development-division
-  name: Oregon Department of Education, Youth Development Division
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 417.852
-  catchline: Youth Development Division; purpose; administrative officer
-  text: (1) The Youth Development Division is established in the Department of Education.
-  verdict: ''
-- slug: oregon-facilities-authority
-  name: Oregon Facilities Authority
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 289.100
-  catchline: Oregon Facilities Authority; members; qualifications; term
-  text: (1) There is created a body politic and corporate to be known as the Oregon Facilities Authority.
-  verdict: ''
-- slug: oregon-film-and-video-office
-  name: Oregon Film and Video Office
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 284.305
-  catchline: Oregon Film and Video Office; status; continuing state obligation to support office
-  text: (1) The Oregon Film and Video Office is created as a semi-independent state agency subject to
-    ORS 284.
-  verdict: ''
-- slug: oregon-forest-resources-institute
-  name: Oregon Forest Resources Institute
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 526.610
-  catchline: Oregon Forest Resources Institute; board of directors; eligibility
-  text: There is created the Oregon Forest Resources Institute.
-  verdict: ''
-- slug: oregon-government-ethics-commission
-  name: Oregon Government Ethics Commission
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 244.250
-  catchline: Oregon Government Ethics Commission; appointment; term; quorum; compensation; legal counsel
-  text: (1) The Oregon Government Ethics Commission is established, consisting of nine members.
-  verdict: ''
-- slug: oregon-health-authority
-  name: Oregon Health Authority
-  tier: 2
-  basis: catchline-contains
-  candidate: ORS 413.032
-  catchline: Establishment of Oregon Health Authority
-  text: (1) The Oregon Health Authority is established.
-  verdict: ''
 - slug: oregon-health-authority-health-licensing-office
   name: Oregon Health Authority, Health Licensing Office
   tier: 2
@@ -311,105 +180,6 @@ candidates:
     and regulation of health-related professions and occupations practiced in this state under a uniform
     mission and uniform goals, the Health Licensing Office is created within the Oregon Health Authority.
   verdict: ''
-- slug: oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board
-  name: Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 676.806
-  catchline: Behavior Analysis Regulatory Board
-  text: '(1) There is created, within the Health Licensing Office, the Behavior Analysis Regulatory Board
-    consisting of nine members appointed by the Governor, including: (a) Four members who are licensed
-    by the board under ORS 676.'
-  verdict: ''
-- slug: oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians
-  name: Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 676.650
-  catchline: Board of Certified Advanced Estheticians
-  text: '(1) There is established the Board of Certified Advanced Estheticians within the Health Licensing
-    Office, consisting of: (a) Nine members appointed by the Governor; and (b) The section manager of
-    the Radiation Protection Services Section of the Oregon Health Authority, or the section manager’s
-    designee.'
-  verdict: ''
-- slug: oregon-health-authority-health-licensing-office-board-of-cosmetology
-  name: Oregon Health Authority, Health Licensing Office, Board of Cosmetology
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 690.155
-  catchline: Board of Cosmetology
-  text: (1) There is established within the Health Licensing Office the Board of Cosmetology consisting
-    of seven members appointed by the Governor.
-  verdict: ''
-- slug: oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery
-  name: Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 687.470
-  catchline: State Board of Direct Entry Midwifery; establishment; appointment; confirmation; membership;
-    compensation and expenses
-  text: (1) There is established within the Health Licensing Office the State Board of Direct Entry Midwifery.
-  verdict: ''
-- slug: oregon-health-authority-health-licensing-office-environmental-health-registration-board
-  name: Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 700.210
-  catchline: Environmental Health Registration Board
-  text: There is established within the Health Licensing Office the Environmental Health Registration
-    Board to consist of seven members to be appointed by the Governor.
-  verdict: ''
-- slug: oregon-health-authority-health-licensing-office-long-term-care-administrators-board
-  name: Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 678.800
-  catchline: Long Term Care Administrators Board
-  text: (1) The Long Term Care Administrators Board is established within the Health Licensing Office.
-  verdict: ''
-- slug: oregon-health-authority-health-policy-and-analytics
-  name: Oregon Health Authority, Health Policy and Analytics
-  tier: 2
-  basis: catchline-contains
-  candidate: ORS 442.011
-  catchline: Health Policy and Analytics Division created in Oregon Health Authority
-  text: There is created in the Oregon Health Authority the Health Policy and Analytics Division.
-  verdict: ''
-- slug: oregon-health-authority-oregon-prescription-drug-program
-  name: Oregon Health Authority, Oregon Prescription Drug Program
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 414.312
-  catchline: Oregon Prescription Drug Program
-  text: (2) The Oregon Prescription Drug Program is established in the Oregon Health Authority.
-  verdict: ''
-- slug: oregon-health-authority-public-employees-benefit-board
-  name: Oregon Health Authority, Public Employees' Benefit Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 243.061
-  catchline: Public Employees’ Benefit Board; members; term; confirmation; expenses
-  text: (1) There is created in the Oregon Health Authority the Public Employees’ Benefit Board consisting
-    of at least eight voting members and two members of the Legislative Assembly as nonvoting advisory
-    members.
-  verdict: ''
-- slug: oregon-housing-and-community-services-department
-  name: Oregon Housing and Community Services Department
-  tier: 2
-  basis: catchline-contains
-  candidate: ORS 456.555
-  catchline: Housing and Community Services Department established; appointment of director; rules; fees
-  text: (1) The Housing and Community Services Department is established.
-  verdict: ''
-- slug: oregon-investment-council
-  name: Oregon Investment Council
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 293.706
-  catchline: Oregon Investment Council; appointment; term; vacancies
-  text: (1) There is created the Oregon Investment Council, consisting of five voting members and one
-    nonvoting member.
-  verdict: ''
 - slug: oregon-medical-board
   name: Oregon Medical Board
   tier: 3
@@ -419,24 +189,6 @@ candidates:
   text: 677.235 Oregon Medical Board; membership; confirmation; terms; vacancies; compensation. (1) The
     Oregon Medical Board consists of 14 members appointed by the Governor and subject to confirmation
     by the Senate in the manner provided in ORS 171.
-  verdict: ''
-- slug: oregon-patient-safety-commission
-  name: Oregon Patient Safety Commission
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 442.820
-  catchline: Oregon Patient Safety Commission
-  text: (1) The Oregon Patient Safety Commission is established as a semi-independent state agency subject
-    to ORS 182.
-  verdict: ''
-- slug: oregon-racing-commission
-  name: Oregon Racing Commission
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 462.210
-  catchline: Oregon Racing Commission; appointment; confirmation
-  text: (1) There is created the Oregon Racing Commission to consist of five commissioners who shall be
-    citizens, residents and electors of this state.
   verdict: ''
 - slug: oregon-state-library
   name: Oregon State Library
@@ -453,86 +205,6 @@ candidates:
   candidate: ORS 461.100
   catchline: Oregon State Lottery Commission; members; duties; meetings
   text: (1) The Oregon State Lottery Commission is hereby created in state government.
-  verdict: ''
-- slug: oregon-state-marine-board
-  name: Oregon State Marine Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 830.105
-  catchline: State Marine Board
-  text: (1) There hereby is created the State Marine Board consisting of five members to be appointed
-    by the Governor and to serve at the pleasure of the Governor.
-  verdict: ''
-- slug: oregon-tourism-commission
-  name: Oregon Tourism Commission
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 284.107
-  catchline: Oregon Tourism Commission; qualifications; confirmation; term; compensation and expenses;
-    officers; quorum
-  text: (1) There is established an Oregon Tourism Commission consisting of nine members appointed by
-    the Governor.
-  verdict: ''
-- slug: oregon-utility-notification-center
-  name: Oregon Utility Notification Center
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 757.547
-  catchline: Oregon Utility Notification Center; board; member qualifications; terms; meetings; rules
-  text: (1)(a) The Oregon Utility Notification Center is created as an independent not-for-profit public
-    corporation.
-  verdict: ''
-- slug: oregon-watershed-enhancement-board
-  name: Oregon Watershed Enhancement Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 541.900
-  catchline: Oregon Watershed Enhancement Board; officers; qualifications
-  text: (1) The Oregon Watershed Enhancement Board is created.
-  verdict: ''
-- slug: oregon-wine-board
-  name: Oregon Wine Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 576.856
-  catchline: Oregon Wine Board
-  text: (1) The Oregon Wine Board is established as a semi-independent state agency subject to ORS 182.
-  verdict: ''
-- slug: psychiatric-security-review-board
-  name: Psychiatric Security Review Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 161.385
-  catchline: Psychiatric Security Review Board; composition, term, qualifications, compensation, appointment,
-    confirmation and meetings
-  text: (1) There is hereby created a Psychiatric Security Review Board consisting of the members described
-    in subsection (2) of this section appointed by the Governor and subject to confirmation by the Senate
-    under section 4, Article III of the Oregon Constitution.
-  verdict: ''
-- slug: public-utility-commission
-  name: Public Utility Commission
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 756.014
-  catchline: Public Utility Commission; appointment; confirmation; term; removal
-  text: (1) There is created the Public Utility Commission of Oregon.
-  verdict: ''
-- slug: public-utility-commission-oregon-board-of-maritime-pilots
-  name: Public Utility Commission, Oregon Board of Maritime Pilots
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 776.105
-  catchline: Oregon Board of Maritime Pilots; term; qualifications; appointment; quorum
-  text: (1) The Oregon Board of Maritime Pilots is established within the Public Utility Commission of
-    Oregon, and shall consist of nine members appointed by the Governor for terms of four years.
-  verdict: ''
-- slug: real-estate-agency
-  name: Real Estate Agency
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 696.375
-  catchline: Real Estate Agency; Real Estate Commissioner; confirmation, salary and security of commissioner
-  text: (1) The Real Estate Agency is established.
   verdict: ''
 - slug: secretary-of-state
   name: Secretary of State
@@ -551,33 +223,6 @@ candidates:
   text: 671.120 State Board of Architect Examiners; members; term; chair. The State Board of Architect
     Examiners shall operate as a semi-independent state agency subject to ORS 182.456 to 182.472 for the
     purpose of carrying out ORS 671.
-  verdict: ''
-- slug: travel-information-council
-  name: Travel Information Council
-  tier: 2
-  basis: catchline-contains
-  candidate: ORS 377.835
-  catchline: Creation of Travel Information Council as semi-independent state agency; members; qualifications;
-    appointment; terms; chairperson; quorum; executive director; r
-  text: (1) The Travel Information Council is created as a semi-independent state agency.
-  verdict: ''
-- slug: veterinary-medical-examining-board
-  name: Veterinary Medical Examining Board
-  tier: 2
-  basis: catchline-contains
-  candidate: ORS 686.210
-  catchline: Oregon State Veterinary Medical Examining Board; rules
-  text: (1) There is created the Oregon State Veterinary Medical Examining Board, which shall carry out
-    the purposes and enforce the provisions of this chapter.
-  verdict: ''
-- slug: water-resources-department
-  name: Water Resources Department
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 536.039
-  catchline: Water Resources Department
-  text: There is hereby established in the executive-administrative branch of the government of the state
-    under the Water Resources Commission a department to be known as the Water Resources Department.
   verdict: ''
 no_candidate:
 - slug: board-of-pharmacy
