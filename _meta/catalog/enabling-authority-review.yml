@@ -72,110 +72,6 @@ candidates:
     Board of Optometry operates as a semi-independent state agency subject to ORS 182.456 to 182.472,
     for the purpose of carrying out this chapter.
   verdict: ''
-- slug: department-of-agriculture
-  name: Department of Agriculture
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 561.010
-  catchline: State Department of Agriculture; director, appointment, confirmation and term
-  text: There is created a department of the government of this state to be known as the State Department
-    of Agriculture.
-  verdict: ''
-- slug: department-of-agriculture-oregon-beef-council
-  name: Department of Agriculture, Oregon Beef Council
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 577.210
-  catchline: Oregon Beef Council; members; appointment
-  text: '(2) There hereby is created the Oregon Beef Council composed of: (a) Two dairy producers.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-invasive-species-council
-  name: Department of Agriculture, Oregon Invasive Species Council
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 570.770
-  catchline: Invasive Species Council; membership; terms
-  text: (1) The Invasive Species Council is established within the State Department of Agriculture.
-  verdict: ''
-- slug: department-of-agriculture-oregon-wheat-commission
-  name: Department of Agriculture, Oregon Wheat Commission
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 578.030
-  catchline: Oregon Wheat Commission; members; appointment process; rules
-  text: (1) There hereby is created the Oregon Wheat Commission.
-  verdict: ''
-- slug: department-of-consumer-and-business-services-workers-compensation-board
-  name: Department of Consumer and Business Services, Workers' Compensation Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 656.712
-  catchline: Workers’ Compensation Board; members; qualifications; chairperson; confirmation; term; vacancies
-  text: (1) The Workers’ Compensation Board, composed of five members appointed by the Governor, is created
-    within the Department of Consumer and Business Services.
-  verdict: ''
-- slug: department-of-corrections
-  name: Department of Corrections
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 423.020
-  catchline: Department of Corrections; duties and powers; fees
-  text: (1) The Department of Corrections is created.
-  verdict: ''
-- slug: department-of-energy
-  name: Department of Energy
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 469.030
-  catchline: State Department of Energy; duties
-  text: (1) There is created the State Department of Energy.
-  verdict: ''
-- slug: department-of-energy-energy-facility-siting-council
-  name: Department of Energy, Energy Facility Siting Council
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 469.450
-  catchline: Energy Facility Siting Council; appointment; confirmation; term; restrictions
-  text: (1) There is established in the State Department of Energy an Energy Facility Siting Council,
-    consisting of seven public members, who shall be appointed by the Governor, subject to confirmation
-    by the Senate in the manner prescribed in ORS 171.
-  verdict: ''
-- slug: department-of-environmental-quality
-  name: Department of Environmental Quality
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 468.030
-  catchline: Department of Environmental Quality
-  text: There is hereby established in the executive-administrative branch of the government of the state
-    under the Environmental Quality Commission a department to be known as the Department of Environmental
-    Quality.
-  verdict: ''
-- slug: department-of-fish-and-wildlife
-  name: Department of Fish and Wildlife
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 496.080
-  catchline: State Department of Fish and Wildlife
-  text: There is hereby established in the executive branch of the government of this state under the
-    State Fish and Wildlife Commission a department to be known as the State Department of Fish and Wildlife.
-  verdict: ''
-- slug: department-of-human-services
-  name: Department of Human Services
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 409.010
-  catchline: Department of Human Services; duties; personnel
-  text: (1) The Department of Human Services is created.
-  verdict: ''
-- slug: department-of-human-services-home-care-commission
-  name: Department of Human Services, Home Care Commission
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 410.602
-  catchline: Home Care Commission; membership; rules
-  text: (1) The Home Care Commission is created, consisting of nine members appointed by the Governor
-    and confirmed by the Senate as provided in ORS 171.
-  verdict: ''
 - slug: department-of-human-services-vocational-rehabilitation-services
   name: Department of Human Services, Vocational Rehabilitation Services
   tier: 3
@@ -203,23 +99,6 @@ candidates:
   text: (2) An overpayment in favor of the state is created when the Department of Justice, under ORS
     25.
   verdict: ''
-- slug: department-of-revenue
-  name: Department of Revenue
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 305.025
-  catchline: Department of Revenue; organization; planning; seal
-  text: (1) The Department of Revenue is established.
-  verdict: ''
-- slug: department-of-state-lands
-  name: Department of State Lands
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 273.041
-  catchline: Department of State Lands
-  text: The Department of State Lands is created, and consists of the Director of the Department of State
-    Lands and all officers and employees of the department acting under the State Land Board.
-  verdict: ''
 - slug: department-of-state-lands-south-slough-national-estuarine-research-reserve
   name: Department of State Lands, South Slough National Estuarine Research Reserve
   tier: 2
@@ -236,52 +115,6 @@ candidates:
   catchline: Department of State Police established
   text: (1) There is established a Department of State Police.
   verdict: ''
-- slug: department-of-state-police-oregon-state-athletic-commission
-  name: Department of State Police, Oregon State Athletic Commission
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 463.113
-  catchline: Oregon State Athletic Commission; rules; duties of commission and superintendent
-  text: (1) There is created in the Department of State Police the Oregon State Athletic Commission, which
-    shall regulate the promotion of unarmed combat sports and entertainment wrestling events in this state.
-  verdict: ''
-- slug: department-of-transportation
-  name: Department of Transportation
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 184.615
-  catchline: Department of Transportation; duties
-  text: (1) The Department of Transportation is established.
-  verdict: ''
-- slug: department-of-veterans-affairs
-  name: Department of Veterans' Affairs
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 406.005
-  catchline: Department of Veterans’ Affairs; duties; rules
-  text: (1) The Department of Veterans’ Affairs is established.
-  verdict: ''
-- slug: eastern-oregon-border-economic-development-board
-  name: Eastern Oregon Border Economic Development Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 284.776
-  catchline: Eastern Oregon Border Economic Development Board; members; quorum; meetings; advisory and
-    technical committees; staffing
-  text: (1) The Eastern Oregon Border Economic Development Board is established to formulate and implement
-    strategies and practices for strategic investment in workforce development and economic development
-    in the Eastern Oregon Border Economic Development Region and to arrange for the awarding of grants
-    and making of loans for the purpose of encouraging workforce development and economic development
-    in the region.
-  verdict: ''
-- slug: employment-department
-  name: Employment Department
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 657.601
-  catchline: Employment Department; duties
-  text: There is established an Employment Department.
-  verdict: ''
 - slug: employment-relations-board
   name: Employment Relations Board
   tier: 3
@@ -291,32 +124,6 @@ candidates:
   text: 240.060 Employment Relations Board; qualification of members; outside activities. (1) The Civil
     Service Commission that has functioned under this chapter shall be continued as a board of three members
     to be known as the Employment Relations Board.
-  verdict: ''
-- slug: higher-education-coordinating-commission
-  name: Higher Education Coordinating Commission
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 350.050
-  catchline: Higher Education Coordinating Commission; members; confirmation
-  text: (1) There is established a Higher Education Coordinating Commission, consisting of 15 voting members
-    appointed by the Governor.
-  verdict: ''
-- slug: higher-education-coordinating-commission-office-of-student-access-and-completion
-  name: Higher Education Coordinating Commission, Office of Student Access and Completion
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 348.511
-  catchline: Office of Student Access and Completion; director
-  text: (1) The Office of Student Access and Completion is established and shall operate under the direction
-    and control of the Higher Education Coordinating Commission.
-  verdict: ''
-- slug: land-use-board-of-appeals
-  name: Land Use Board of Appeals
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 197.810
-  catchline: Land Use Board of Appeals; appointment and removal of members; qualifications
-  text: (1) There is hereby created a Land Use Board of Appeals consisting of not more than three positions.
   verdict: ''
 - slug: landscape-architect-board
   name: Landscape Architect Board
@@ -384,56 +191,6 @@ candidates:
   catchline: Office of Long Term Care Ombudsman; terms; appointment; confirmation; qualifications
   text: (1) The office of the Long Term Care Ombudsman is established.
   verdict: ''
-- slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
-  name: Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 675.775
-  catchline: Oregon Board of Licensed Professional Counselors and Therapists
-  text: (1) The Oregon Board of Licensed Professional Counselors and Therapists is established.
-  verdict: ''
-- slug: mental-health-regulatory-agency-oregon-board-of-psychology
-  name: Mental Health Regulatory Agency, Oregon Board of Psychology
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 675.100
-  catchline: Oregon Board of Psychology
-  text: (1) There hereby is created the Oregon Board of Psychology consisting of nine members appointed
-    by the Governor and subject to confirmation by the Senate in the manner provided in ORS 171.
-  verdict: ''
-- slug: mortuary-and-cemetery-board
-  name: Mortuary and Cemetery Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 692.300
-  catchline: State Mortuary and Cemetery Board; appointment; term; qualifications
-  text: (1) There is created the State Mortuary and Cemetery Board to carry out the purposes and enforce
-    the provisions of this chapter.
-  verdict: ''
-- slug: occupational-therapy-licensing-board
-  name: Occupational Therapy Licensing Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 675.310
-  catchline: Occupational Therapy Licensing Board
-  text: (1) There is created the Occupational Therapy Licensing Board.
-  verdict: ''
-- slug: oregon-529-savings-board
-  name: Oregon 529 Savings Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 178.310
-  catchline: Oregon 529 Savings Board; membership
-  text: (1) There is established the Oregon 529 Savings Board to administer ORS 178.
-  verdict: ''
-- slug: oregon-board-of-accountancy
-  name: Oregon Board of Accountancy
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 673.410
-  catchline: Oregon Board of Accountancy; confirmation; qualifications; enforcement authority; rules
-  text: (1) There is created an Oregon Board of Accountancy consisting of seven members.
-  verdict: ''
 - slug: oregon-board-of-dentistry
   name: Oregon Board of Dentistry
   tier: 3
@@ -443,15 +200,6 @@ candidates:
   text: 679.230 Oregon Board of Dentistry; appointment; qualifications; confirmation; compensation and
     expenses. (1) The Oregon Board of Dentistry consists of 10 members appointed by the Governor and subject
     to confirmation by the Senate in the manner provided in ORS 171.
-  verdict: ''
-- slug: oregon-board-of-naturopathic-medicine
-  name: Oregon Board of Naturopathic Medicine
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 685.160
-  catchline: Oregon Board of Naturopathic Medicine
-  text: (1) The Oregon Board of Naturopathic Medicine is created, consisting of seven members appointed
-    by the Governor and subject to confirmation by the Senate in the manner provided in ORS 171.
   verdict: ''
 - slug: oregon-board-of-physical-therapy
   name: Oregon Board of Physical Therapy
@@ -463,15 +211,6 @@ candidates:
   text: 688.160 Oregon Board of Physical Therapy; qualifications; terms; vacancies; duties; rules; fees;
     meetings; executive director. (1) The Oregon Board of Physical Therapy operates as a semi-independent
     state agency subject to ORS 182.
-  verdict: ''
-- slug: oregon-business-development-department
-  name: Oregon Business Development Department
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 285A.070
-  catchline: Oregon Business Development Department; organization; director; confirmation; duties and
-    powers; rules
-  text: (1) The Oregon Business Development Department is established.
   verdict: ''
 - slug: oregon-criminal-justice-commission
   name: Oregon Criminal Justice Commission
