@@ -4,6 +4,22 @@ corpus:
   name: "Oregon Executive Regulatory Frameworks"
   jurisdiction: "oregon"
   archetype: "document"
+  # WHERE THE OFFICIAL TEXT LIVES, AND WHY THIS ONE. This corpus mirrors two bodies of
+  # law from two publishers at almost exactly even weight: 37,466 statutes and 339
+  # constitutional provisions from the Legislature (49.5%), and 36,948 administrative
+  # rules the Secretary of State publishes through OARD (48.5%). No single host holds
+  # both.
+  #
+  # This names the Legislature because statute and the Constitution are the authority
+  # every mirrored rule implements — an agent sent here to verify lands on the law the
+  # corpus is organised around. Administrative rules are official at OARD
+  # (https://secure.sos.state.or.us/oard/), and DAS policies and executive orders at
+  # oregon.gov.
+  #
+  # This is a corpus-level pointer, NOT a claim that one host holds everything. Per
+  # DISCLAIMER.md, the authority for any single document is its own `source_url`, and
+  # every document carries a NON-AUTHORITATIVE banner naming its publisher.
+  authoritative_source: "https://www.oregonlegislature.gov/bills_laws/"
   schema_version: 1
   contract_version: 1
 
