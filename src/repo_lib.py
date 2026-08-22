@@ -676,7 +676,6 @@ def content_hash(raw: bytes, fmt: str) -> str:
     poppler version, so re-deriving text from the .pdf at CI verification time is
     nondeterministic across machines. See hash_snapshot() for the CI-stable check, which
     hashes the .txt already committed alongside the .pdf instead of re-extracting it."""
-    import hashlib
     if fmt == "pdf":
         import subprocess
         proc = subprocess.run(["pdftotext", "-layout", "-", "-"], input=raw,
@@ -688,10 +687,28 @@ def content_hash(raw: bytes, fmt: str) -> str:
     else:
         # binary formats with no text extractor (xls/xlsx/docx): raw-byte hash
         return hashlib.sha256(raw).hexdigest()
+    return normalized_text_hash(text) or hashlib.sha256(raw).hexdigest()
+
+
+# Below this many characters of extracted text, hashing the text says nothing about the
+# content (an image-only scan, a page that failed to render), so every caller falls back to
+# the raw bytes it was extracted from.
+MIN_HASHABLE_TEXT_CHARS = 200
+
+
+def normalized_text_hash(text: str) -> str | None:
+    """THE CONTENT HASH OF A PAGE, declared once: sha256 of its whitespace-normalized
+    extracted text. None when there is too little text for that to mean anything.
+
+    Three callers need the same number from three starting points — a fresh fetch
+    (`content_hash`), the committed .txt beside a snapshot (`hash_snapshot`), and a
+    candidate page held as text (`ingest_constitution.py --drift`) — and a second spelling
+    of it would make a drift report and the group's recorded sha256 disagree about whether
+    the page moved."""
     norm = normalize_ws(text)
-    if len(norm) >= 200:
-        return hashlib.sha256(norm.encode("utf-8")).hexdigest()
-    return hashlib.sha256(raw).hexdigest()
+    if len(norm) < MIN_HASHABLE_TEXT_CHARS:
+        return None
+    return hashlib.sha256(norm.encode("utf-8")).hexdigest()
 
 
 def hash_snapshot(doc_id: str, fmt: str, snapshot_dir: Path = SNAPSHOT_DIR) -> str:
@@ -699,13 +716,13 @@ def hash_snapshot(doc_id: str, fmt: str, snapshot_dir: Path = SNAPSHOT_DIR) -> s
     committed in <id>.txt (produced once at ingestion time), never re-derived from the
     .pdf/.html at verification time. Falls back to the raw source file's bytes if no
     .txt exists or it's too short to be meaningful (image-only scans)."""
-    import hashlib
     raw = (snapshot_dir / f"{doc_id}.{fmt}").read_bytes()
     txt_path = snapshot_dir / f"{doc_id}.txt"
     if txt_path.is_file():
-        norm = normalize_ws(txt_path.read_text(encoding="utf-8", errors="replace"))
-        if len(norm) >= 200:
-            return hashlib.sha256(norm.encode("utf-8")).hexdigest()
+        committed = normalized_text_hash(
+            txt_path.read_text(encoding="utf-8", errors="replace"))
+        if committed:
+            return committed
     return hashlib.sha256(raw).hexdigest()
 
 

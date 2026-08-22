@@ -5,7 +5,9 @@ recheck: even_year_general_election
 upstream_signal: Amendments referred to the voters and decided at the general election, November of even-numbered
   years (ADR 0005). The Legislature publishes the whole document as ONE HTML page, so this group has one source
   and one sha256 for all 18 articles - any amendment anywhere moves it, and the signal says that something changed
-  and never what. The diff does that work.
+  and never what. The diff does that work, and it has a name - `python3 src/ingest_constitution.py --drift PAGE`
+  names WHICH sections' text moved, stays silent about the ones that did not, and reports a section it could not
+  slice out of the new page as COULD NOT CHECK rather than as one that was deleted (#197).
 last_checked: '2026-08-21'
 sources:
 - id: oregon-constitution

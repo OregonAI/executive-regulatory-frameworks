@@ -300,3 +300,38 @@ proved failing rather than asserted.
 article are folded into #169's review population, where six of them already sit; `MAPPED` and
 `UNMAPPED` are untouched. What changed is that the review's output is now checkable rather
 than taken on faith.
+
+## Amendment: the diff the one hash cannot do
+
+Written 2026-08-21 with #197, and it closes a sentence this ADR left open twice: "any
+amendment anywhere in the document changes one sha256, so the signal says *something* changed
+and never *what*, and the diff has to do the work." The diff is
+`ingest_constitution.py --drift PAGE`, and nothing about the update-check cycle changed to
+make room for it — `check_updates.py` is generic over source groups, the group is data, and
+the constitution participates in `--due` on `even_year_general_election` exactly as it did.
+
+**The value is entirely in the difference.** A report that named every section on any change
+would be the same report as one that named none: the operator learns that the hash moved,
+which they already knew. So a section whose text is unchanged is not reported, and the gate
+that keeps that true is the one run against the COMMITTED snapshot, where the honest answer is
+that nothing moved. A drift report that always fires is not a drift report.
+
+**Three answers per section, and the third is the ADR's own rule.** CHANGED, unchanged, and
+COULD NOT CHECK — because a section that cannot be sliced out of the candidate page is not a
+section Oregon deleted, and from here a heading that stopped parsing and a repeal look
+identical. The report says which of the two reasons it has and refuses to choose between
+them. It also reports the honest second half, which is easy to miss: a slice runs heading to
+heading, so a heading that stops matching drops its text into the PRECEDING section, and that
+neighbour really did change. Both are reported, as different things.
+
+**A page that moved with every section intact is a reportable outcome, not an `ok`.** The
+change is then outside the text this mirror publishes — a heading, the edition sentence, page
+furniture — and the snapshot itself is what needs diffing. The run exits non-zero for it,
+because the alternative is a quiet pass on the one signal this group has.
+
+**The committed DOCUMENTS are read as well as the committed snapshot**, for the reason the
+amendment above gives: against a `constitution/` that is not there, every section still
+compares equal — the two pages are still the two pages — and the report would be a clean bill
+of health for documents that do not exist. A mirror missing what the catalog claims makes the
+run refuse. The catalog is the allowlist; the filesystem never defines the population. Given
+a path, none of this touches the network.

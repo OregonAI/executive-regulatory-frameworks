@@ -89,6 +89,21 @@ changes.
 
 - `chapter-html` groups (e.g. `ors`): one shared snapshot covers several section
   documents; a refresh regenerates every dependent file automatically.
+- `constitution` is ONE source and ONE sha256 for the whole document (ADR 0005), so a
+  `CHANGED` line there says only that something moved. Name the sections before refreshing
+  anything:
+
+      python3 src/ingest_constitution.py --drift _meta/snapshots/oregon-constitution.txt
+      python3 src/ingest_constitution.py --drift path/to/the-page-you-fetched.html
+      python3 src/ingest_constitution.py --drift            # no path: fetches the page
+
+  It prints the sections whose text moved and says nothing about the ones that did not; a
+  section it cannot slice out of the new page is `COULD NOT CHECK` and never a section that
+  was deleted. It exits non-zero whenever the page moved — including when NO sliced section
+  accounts for it, which means the change is outside the text this mirror publishes (a
+  heading, the edition sentence, page furniture) and the snapshot itself needs diffing.
+  Given a path it touches no network, and it refuses to report at all if `constitution/`
+  does not carry what the catalog claims.
 - The old all-sources sweep is now `corpus-detect-changes` (from corpus-toolkit)
   behind the `detect-upstream-changes` workflow's manual `workflow_dispatch`
   (cron removed).

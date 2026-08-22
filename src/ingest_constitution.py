@@ -5,6 +5,7 @@
   python3 src/ingest_constitution.py --ingest             # publish every article
   python3 src/ingest_constitution.py --ingest "VII (Amended)"   # or just one
   python3 src/ingest_constitution.py --check              # catalog against constitution/
+  python3 src/ingest_constitution.py --drift PAGE         # WHICH sections moved on PAGE
   python3 src/ingest_constitution.py --selftest           # every skip rule, failing
 
 THE SOURCE IS ONE PAGE. The Constitution is published at oregonlegislature.gov as a
@@ -13,6 +14,12 @@ sha256 and one snapshot (`oregon-constitution`) — against ors.yml's 545 chapte
 Everything else is slicing, and the slicing is `repo_lib.snapshot_slice`: the same
 function `corpus-verify-provenance` calls through the `snapshot_slice_module` plugin, so
 what was ingested and what is verified cannot diverge.
+
+ONE PAGE MEANS ONE HASH, and that is what `--drift` is for (#197). The group's upstream
+signal is a single sha256 over the whole document, so an amendment anywhere moves it and the
+signal says that SOMETHING changed and never what. `--drift` is the diff that does that work:
+it names the sections whose text moved, stays silent about the ones that did not, and refuses
+to call a section it could not slice a section that was deleted.
 
 Shaped after src/ingest_ors.py, which does the same thing per ORS chapter."""
 import argparse
@@ -34,6 +41,7 @@ from repo_lib import (CONST_SECTION_MIN_BODY_CHARS, ORCONST_ID_RE,
                       constitution_section_slice, hash_snapshot, normalize_ws,
                       operative_print,
                       orconst_article_designation, orconst_article_slug, orconst_id,
+                      normalized_text_hash,
                       snapshot_slice, ws_only)
 
 URL = "https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx"
@@ -723,7 +731,7 @@ def check_article(entry, raw_text, prov, out_dir, unclaimed=False) -> list:
             problems.append(f"Art. {entry['article']}, sec. {sec['number']} records path "
                             f"{sec.get('path')!r}, which is not the path the id {doc_id} "
                             f"names")
-        if not path.exists():
+        if document_is_missing(sec, doc_id, out_dir):
             problems.append(
                 f"{path.name} is MISSING: the catalog claims Art. {entry['article']}, "
                 f"sec. {sec['number']} is ingested and no document is there. A citation to "
@@ -744,6 +752,21 @@ def check_article(entry, raw_text, prov, out_dir, unclaimed=False) -> list:
     return problems
 
 
+def committed_snapshot():
+    """(the committed snapshot's text, its sha256) — or (None, None) after saying why not.
+
+    THE REFUSAL IS THE POINT, and it is shared because two copies of it could come to say
+    different things: `snapshot()` FETCHES when nothing is committed, and a gate that then
+    checked the corpus against a page it just downloaded would be verifying the mirror
+    against tomorrow's Constitution while reporting on today's."""
+    raw_text, sha, fetched = snapshot()
+    if fetched:
+        print(f"{SNAP_ID}: no committed snapshot to check against; this fetched one. "
+              f"Commit it, then re-run.", file=sys.stderr)
+        return None, None
+    return raw_text, sha
+
+
 def cmd_check():
     """WHAT THE CATALOG SAYS SHOULD EXIST, AGAINST WHAT IS ON DISK — criteria 7 and 10 of
     #195, as a gate rather than as an intention.
@@ -754,10 +777,8 @@ def cmd_check():
     Here it is DETECTED, and named. `check_article` above holds the four rules.
 
     Reads the COMMITTED snapshot and never the network."""
-    raw_text, sha, fetched = snapshot()
-    if fetched:
-        print(f"{SNAP_ID}: no committed snapshot to check against; this fetched one. "
-              f"Commit it, then re-run.", file=sys.stderr)
+    raw_text, sha = committed_snapshot()
+    if raw_text is None:
         return 1
     norm = ws_only(raw_text)
     cat = load_catalog()
@@ -789,6 +810,224 @@ def cmd_check():
     print(f"all {ingested} published document(s) are on disk and byte-identical to what "
           f"re-rendering them from the committed snapshot produces")
     return 0
+
+
+# --------------------------------------------------------- drift, section by section
+# WHAT THIS REPORT EXISTS FOR (#197). The group's upstream signal is ONE sha256 over the
+# whole document — the Legislature publishes all 18 articles on one page — so an amendment
+# anywhere moves it and the signal says that SOMETHING changed and never what. That
+# limitation is recorded once, in `_meta/sources/constitution.yml`'s `upstream_signal`, and
+# this is the diff it says has to do the work.
+#
+# THE VALUE IS ENTIRELY IN THE DIFFERENCE. A report that named every section on any change
+# would tell an operator exactly what the hash already told them, so a section whose text is
+# unchanged is not reported at all.
+
+# The three things this report can say about one section number, and they may never be
+# collapsed into two. CONTEXT.md's overriding rule is the whole reason for the third: a
+# section that cannot be sliced out of a changed page is NOT a section Oregon deleted.
+CHANGED = "CHANGED"
+UNCHANGED = "unchanged"
+UNCHECKABLE = "COULD NOT CHECK"
+
+# WHY a section could not be checked — named, so `--selftest` asserts on the reason that
+# fired instead of pattern-matching prose (`SkippedSection.rule`, same reason). Two of them,
+# and they are statements about different things: the candidate page's shape moved under the
+# slicer, or the mirror's own catalog records a section the committed page does not print.
+NO_SLICE = "no-slice-on-the-candidate-page"
+NO_BASELINE = "no-slice-on-the-committed-snapshot"
+
+DriftRow = namedtuple("DriftRow", "state reason article section doc_id detail")
+
+
+def section_drift(articles, committed_norm, candidate_norm) -> list:
+    """One row per catalog section number: did this section's text move between the
+    committed snapshot and the candidate page?
+
+    THE CATALOG IS THE ALLOWLIST. Every comparison is a section the catalog records — 371
+    numbers on the 2024 edition, the 339 published and the 32 recorded with the reason they
+    were not — rather than whatever `constitution/` happens to hold. A section the page
+    stopped printing is then a row that could not be checked, and not a row that quietly
+    stops existing.
+
+    BOTH SIDES GO THROUGH `snapshot_slice`, the same function the ingest published through
+    and `corpus-verify-provenance` verifies through, so a difference here is a difference in
+    the section's text and never in how two callers cut it out."""
+    rows = []
+    for entry in articles:
+        for sec in entry["sections"]:
+            doc_id = orconst_id(entry["article"], sec["number"])
+            before = snapshot_slice(doc_id, SNAP_ID, committed_norm)
+            after = snapshot_slice(doc_id, SNAP_ID, candidate_norm)
+            rows.append(_compare(entry, sec, doc_id, before, after))
+    return rows
+
+
+def _where(sec, doc_id) -> str:
+    """Which document a row is about, so a CHANGED row says what to re-render — read from
+    the CATALOG's claim and never off the filesystem, because a document that has gone
+    missing must not be reported as a section this mirror never published. That a claimed
+    document is absent is `missing_documents`'s to say, once, before any of this runs."""
+    if sec.get("status") == "ingested":
+        return f"constitution/{doc_id}.md"
+    return (f"the catalog records this section {sec.get('status', 'with no status')} and "
+            f"this mirror publishes no text for it")
+
+
+def document_is_missing(sec, doc_id, out_dir) -> bool:
+    """The catalog claims this section is published and `out_dir` does not carry it.
+
+    ONE PREDICATE, TWO CALLERS, because two places deciding what a lost document is, is two
+    places that can come to disagree about it. `cmd_check` reports it per section with what
+    it costs — a citation that now answers the way a wrong citation does — and `cmd_drift`
+    refuses the whole run over it."""
+    return sec.get("status") == "ingested" and not (out_dir / f"{doc_id}.md").exists()
+
+
+def missing_documents(articles, out_dir) -> list:
+    """Every document the catalog claims and `out_dir` does not carry.
+
+    THE PRECONDITION OF THE DRIFT REPORT, and the reason it reads the committed documents
+    and not only the committed snapshot. Against a `constitution/` that is not there every
+    section still compares equal — the two pages are still the two pages — so the report
+    would be a clean bill of health for documents that do not exist. The catalog defines the
+    population, never the filesystem: a mirror wiped to nothing would otherwise look like a
+    mirror with nothing to check.
+
+    NOT `unmirrored`, which this file already uses for an ARTICLE the page prints with no
+    sections at all (`status: not_mirrored`). Those are different absences."""
+    missing = []
+    for entry in articles:
+        for sec in entry["sections"]:
+            doc_id = orconst_id(entry["article"], sec["number"])
+            if document_is_missing(sec, doc_id, out_dir):
+                missing.append(doc_id)
+    return missing
+
+
+def _compare(entry, sec, doc_id, before, after) -> DriftRow:
+    """THE THREE ANSWERS, in the order the rule reads: no baseline, no candidate slice,
+    then the comparison itself. The two refusals come first because a `""` compared against
+    a `""` is equal, and equal would print as `unchanged` — an answer, given about a section
+    nothing was read for."""
+    def row(state, reason, detail):
+        return DriftRow(state, reason, entry["article"], sec["number"], doc_id, detail)
+
+    if not before:
+        return row(UNCHECKABLE, NO_BASELINE,
+                   "the committed snapshot prints no such section, so there is no baseline "
+                   "to compare the candidate page against. The catalog and the page it was "
+                   "built from disagree — a statement about this mirror, not about Oregon "
+                   "law")
+    if not after:
+        return row(UNCHECKABLE, NO_SLICE,
+                   f"the candidate page yields no slice for this section, so this run has "
+                   f"nothing to compare. NOT that the section was deleted: a heading that "
+                   f"stopped parsing and a section Oregon repealed look identical from "
+                   f"here, and only the diff can tell them apart ({_where(sec, doc_id)})")
+    if before != after:
+        return row(CHANGED, "",
+                   f"the text under this section's heading moved ({_where(sec, doc_id)})")
+    return row(UNCHANGED, "", "")
+
+
+def candidate_page(path=None):
+    """(the page's text, where it came from) for the page this run compares the mirror
+    against.
+
+    A PATH IS THE DEFAULT WAY IN, and it is what makes the comparison network-free: the page
+    an operator already has — the fetch a drift issue was opened from — is compared without
+    asking the Legislature for it again. With no path this fetches, which is the only thing
+    in this command that touches the network.
+
+    HTML IS EXTRACTED THE WAY `snapshot()` EXTRACTED THE COMMITTED `.txt` — `html_to_text`
+    over the raw bytes, with no `normalize_volatile` — because the two texts are compared
+    against each other. Stripping volatile bytes on one side only would show up as a section
+    that moved. (`content_hash` strips them and this page carries none, which is why the
+    group's recorded sha256 and `hash_snapshot` agree today; that they COULD disagree is a
+    property of `snapshot()` and not of this comparison.)"""
+    if path is None:
+        return html_to_text(fetch(URL)), URL
+    path = Path(path)
+    if path.suffix == ".txt":
+        return path.read_text(encoding="utf-8", errors="replace"), str(path)
+    return html_to_text(path.read_bytes()), str(path)
+
+
+def group_sha256():
+    """The sha256 `_meta/sources/constitution.yml` records for the page — the ONE number the
+    update-check cycle compares a fetch against, read from the group that defines the signal
+    rather than recomputed here, so this report and `check_updates.py` cannot disagree about
+    whether the page moved."""
+    if not GROUP.exists():
+        return None
+    group = yaml.safe_load(GROUP.read_text())
+    return next((s.get("sha256") for s in group["sources"] if s["id"] == SNAP_ID), None)
+
+
+def cmd_drift(path=None):
+    """WHICH SECTIONS MOVED — the report the group's one-hash signal cannot give (#197).
+
+    Reads the COMMITTED snapshot and the COMMITTED documents; the only network in this
+    command is fetching the candidate page, and passing a path removes even that.
+
+    THE RUN SAYS SO RATHER THAN PASSING QUIETLY: a changed page exits non-zero, whether or
+    not any sliced section accounts for the change. A page that moved with every section's
+    text intact is a real and reportable outcome — the change is somewhere this mirror does
+    not slice — and reporting it as `ok` would be the quiet pass this ticket exists to
+    remove."""
+    committed_text, committed_sha = committed_snapshot()
+    if committed_text is None:
+        return 1
+    cat = load_catalog()
+    missing = missing_documents(cat["articles"], OUT)
+    if missing:
+        print(f"REFUSING TO REPORT: the catalog claims {len(missing)} published document(s) "
+              f"that {OUT.name}/ does not carry ({', '.join(missing[:3])}"
+              f"{', …' if len(missing) > 3 else ''}). Every section would compare equal and "
+              f"this run would be a clean bill of health for documents that are not there. "
+              f"Run --check.", file=sys.stderr)
+        return 1
+    text, origin = candidate_page(path)
+    page_sha = normalized_text_hash(text)
+    if page_sha is None:
+        print(f"{origin}: too little text to hash — this run cannot say whether the page "
+              f"moved, which is not the claim that it did not.", file=sys.stderr)
+        return 1
+    rows = section_drift(cat["articles"], ws_only(committed_text), ws_only(text))
+    findings = [r for r in rows if r.state != UNCHANGED]
+    # THE BASELINE IS THE SNAPSHOT THE SECTIONS ARE SLICED FROM, never the group file's
+    # copy of its hash. Read the other way round, this command run against the committed
+    # snapshot ITSELF would report `page CHANGED` with no section to account for it — a
+    # drift report sending an operator to diff a snapshot against itself. That the group
+    # records a different number is a real disagreement and it is reported as its own
+    # finding, because it means the update-check cycle is comparing fetches against a hash
+    # that is not this mirror's.
+    moved = page_sha != committed_sha
+    recorded = group_sha256()
+    print(f"{SNAP_ID}: page {'CHANGED' if moved else 'unchanged'} — "
+          f"{committed_sha[:10]}…{f' -> {page_sha[:10]}…' if moved else ''}"
+          f" ({origin} against the committed snapshot)")
+    for r in findings:
+        print(f"  {r.state} Art. {r.article}, sec. {r.section}"
+              f"{f' [{r.reason}]' if r.reason else ''} — {r.detail}")
+    counts = Counter(r.state for r in rows)
+    print(f"{len(rows)} section number(s) compared: {counts[CHANGED]} changed, "
+          f"{counts[UNCHECKABLE]} could not be checked, {counts[UNCHANGED]} unchanged")
+    sys.stdout.flush()
+    rc = 1 if (moved or findings) else 0
+    if moved and not findings:
+        print(f"the page moved and no section this mirror slices did: the change is in text "
+              f"outside the {len(rows)} section number(s) the catalog records — a heading, "
+              f"the edition sentence, or page furniture. Diff the snapshot.", file=sys.stderr)
+    if recorded != committed_sha:
+        print(f"{GROUP.relative_to(REPO_ROOT)} records sha256 {str(recorded)[:10]}… for "
+              f"{SNAP_ID} and the committed snapshot hashes to {committed_sha[:10]}…. The "
+              f"update-check cycle compares fetches against the group's number, so it is "
+              f"reporting drift against a page this mirror does not hold. Re-run --ingest.",
+              file=sys.stderr)
+        rc = 1
+    return rc
 
 
 def write_index(cat):
@@ -837,12 +1076,17 @@ def main():
     ap.add_argument("--catalog", nargs="*", metavar="ARTICLE")
     ap.add_argument("--ingest", nargs="*", metavar="ARTICLE")
     ap.add_argument("--check", action="store_true")
+    ap.add_argument("--drift", nargs="?", const="", metavar="PAGE",
+                    help="which sections moved between the committed snapshot and PAGE "
+                         "(a .html or .txt copy of the source page); with no PAGE, fetches")
     ap.add_argument("--selftest", action="store_true")
     args = ap.parse_args()
     if args.selftest:
         sys.exit(selftest())
     if args.check:
         sys.exit(cmd_check())
+    if args.drift is not None:
+        sys.exit(cmd_drift(args.drift or None))
     if args.catalog is not None:
         sys.exit(cmd_catalog(args.catalog))
     if args.ingest is not None:
@@ -1410,6 +1654,150 @@ def _proof_a_broken_slice_is_reported_and_not_published(ck):
                for s in sections if s["number"] in ("2", "2a")))
 
 
+def _proof_a_changed_section_is_named_and_an_unchanged_one_is_not(ck):
+    """CRITERIA 2 AND 3 OF #197, and they are one proof because either alone is worthless.
+    The group's signal is ONE sha256 for the whole document, so it says that something moved
+    and never what; the value of this report is entirely in the DIFFERENCE, and a report that
+    named every section on any change would tell an operator exactly what the hash already
+    told them."""
+    import tempfile
+    amended = FIXTURE.replace(
+        "The Secretary of State shall keep a fair record",
+        "The Secretary of State shall keep a full and fair record")
+    ck("the candidate page really differs from the committed one", amended != FIXTURE)
+    with tempfile.TemporaryDirectory() as d:
+        out = Path(d)
+        catalog = discover_articles(FIXTURE)
+        prov = Provenance(URL, "0" * 64, "fixture", "2026-08-21")
+        for entry in catalog:
+            if entry["sections"]:
+                ingest_article(entry, FIXTURE, prov, out)
+        rows = section_drift(catalog, FIXTURE, amended)
+        reported = [(r.state, r.article, r.section) for r in rows if r.state != UNCHANGED]
+        ck("the section whose text moved is named", reported == [(CHANGED, "VI", "2")])
+        ck("every other section number was compared and stayed silent",
+           len(rows) == sum(len(a["sections"]) for a in catalog))
+
+
+def _proof_a_section_that_cannot_be_sliced_is_not_a_section_that_was_deleted(ck):
+    """CONTEXT.md's OVERRIDING RULE, on the population where breaking it is worst: "could
+    not check" is never reported as "is not there". A section this report cannot slice out
+    of the candidate page is a section it has nothing to say about — the page's shape moved
+    under the slicer — and reporting it as CHANGED would tell an operator that Oregon
+    amended a section when what actually happened is that a heading stopped parsing.
+
+    THE NEIGHBOUR IS THE HONEST SECOND HALF. A slice runs heading to heading, so a heading
+    that stops matching does not merely lose its own section: its text falls into the
+    preceding slice, and THAT section really did change. Both are reported, and they are
+    reported as different things."""
+    import tempfile
+    unparseable = FIXTURE.replace("Section 2. Term of office.", "Secton 2. Term of office.")
+    ck("the candidate page really lost that heading", unparseable != FIXTURE)
+    with tempfile.TemporaryDirectory() as d:
+        out = Path(d)
+        catalog = discover_articles(FIXTURE)
+        prov = Provenance(URL, "0" * 64, "fixture", "2026-08-21")
+        for entry in catalog:
+            if entry["sections"]:
+                ingest_article(entry, FIXTURE, prov, out)
+        rows = {(r.article, r.section): r
+                for r in section_drift(catalog, FIXTURE, unparseable)}
+        gone = rows[("V", "2")]
+        ck("[no slice] the section the candidate page will not yield is UNCHECKABLE",
+           gone.state == UNCHECKABLE and gone.reason == NO_SLICE)
+        ck("...and it is never reported as changed, which would claim an amendment",
+           gone.state != CHANGED)
+        ck("...and the reason says what it is not", "deleted" in gone.detail)
+        ck("the neighbour whose slice swallowed it IS reported as changed",
+           rows[("V", "1")].state == CHANGED)
+        ck("and no other section number is reported",
+           sorted(k for k, r in rows.items() if r.state != UNCHANGED)
+           == [("V", "1"), ("V", "2")])
+
+
+def _proof_a_section_with_no_baseline_is_reported_as_such(ck):
+    """THE OTHER DIRECTION, and it is not the same finding. The committed snapshot is the
+    baseline, so a catalog entry the committed page does not print has nothing to be
+    compared against — the mirror's own record and the page it was built from disagree, and
+    that is a statement about this corpus rather than about Oregon law. It must not read as
+    `unchanged`, which is what comparing "" to "" would have said."""
+    import tempfile
+    with tempfile.TemporaryDirectory() as d:
+        out = Path(d)
+        catalog = discover_articles(FIXTURE)
+        prov = Provenance(URL, "0" * 64, "fixture", "2026-08-21")
+        for entry in catalog:
+            if entry["sections"]:
+                ingest_article(entry, FIXTURE, prov, out)
+        vi = next(a for a in catalog if a["article"] == "VI")
+        vi["sections"].append({"number": "99", "title": "Never printed",
+                               "title_source": "leadline", "status": "not_sliceable"})
+        rows = {(r.article, r.section): r
+                for r in section_drift(catalog, FIXTURE, FIXTURE)}
+        ck("[no baseline] a catalog entry the committed page does not print is UNCHECKABLE",
+           rows[("VI", "99")].state == UNCHECKABLE
+           and rows[("VI", "99")].reason == NO_BASELINE)
+        ck("...and comparing nothing to nothing is not reported as unchanged",
+           rows[("VI", "99")].state != UNCHANGED)
+
+
+def _proof_a_mirror_that_is_not_there_refuses_to_report(ck):
+    """THE HALF THAT IS NOT ABOUT THE PAGE, and the reason this report reads the committed
+    DOCUMENTS as well as the committed snapshot. Run against a `constitution/` that is not
+    there, every section compares equal — the two snapshots are still the two snapshots —
+    and the report is a clean bill of health for documents that do not exist. That is the
+    worse half of CONTEXT.md's rule, on the population where it costs most, and it is the
+    same refusal `link_enabling_authority.py --check` makes for the same reason (ADR 0005).
+
+    The catalog says WHICH documents should be there; the filesystem never gets to define
+    the population, or a mirror wiped to nothing would look like a mirror with nothing to
+    check."""
+    import tempfile
+    with tempfile.TemporaryDirectory() as d:
+        out = Path(d)
+        catalog = discover_articles(FIXTURE)
+        prov = Provenance(URL, "0" * 64, "fixture", "2026-08-21")
+        for entry in catalog:
+            if entry["sections"]:
+                ingest_article(entry, FIXTURE, prov, out)
+        ck("a whole mirror has nothing to refuse over",
+           missing_documents(catalog, out) == [])
+        (out / "orconst-art-vi-sec-1.md").unlink()
+        ck("a document the catalog claims and the mirror does not carry is found",
+           missing_documents(catalog, out) == ["orconst-art-vi-sec-1"])
+        for doc in out.glob("orconst-*.md"):
+            doc.unlink()
+        ck("an empty mirror is every claimed document, not an empty population",
+           len(missing_documents(catalog, out))
+           == sum(1 for a in catalog for s in a["sections"] if s["status"] == "ingested"))
+
+
+def _proof_an_unchanged_page_reports_nothing(ck):
+    """A DRIFT REPORT THAT ALWAYS FIRES IS NOT A DRIFT REPORT, and this is the half most
+    easily "passed" by a check that cannot tell a changed section from an unchanged one.
+    The proof above shows one section named; this one shows the same comparison silent on
+    a page that did not move — over EVERY section number, not a sampled one, and against a
+    mirror that carries every document the catalog claims.
+
+    Watched failing: with `_compare` returning CHANGED unconditionally, this reports every
+    one of the fixture's section numbers where it must report none."""
+    import tempfile
+    with tempfile.TemporaryDirectory() as d:
+        out = Path(d)
+        catalog = discover_articles(FIXTURE)
+        prov = Provenance(URL, "0" * 64, "fixture", "2026-08-21")
+        for entry in catalog:
+            if entry["sections"]:
+                ingest_article(entry, FIXTURE, prov, out)
+        rows = section_drift(catalog, FIXTURE, FIXTURE)
+        ck("the same page compared against itself reports NOTHING",
+           [r for r in rows if r.state != UNCHANGED] == [])
+        ck("...and it got there by comparing every section number, not by skipping them",
+           len(rows) == sum(len(a["sections"]) for a in catalog) and len(rows) > 0)
+        ck("...against a mirror that carries every document the catalog claims",
+           missing_documents(catalog, out) == [])
+
+
 def _proof_an_undated_page_is_refused(ck):
     """The FIFTH rule, and the only one that refuses a whole run rather than a section:
     the page states which constitution it is publishing ("…as it is in effect following
@@ -1444,7 +1832,12 @@ _PROOFS = [_proof_an_article_is_found_by_its_whole_designation,
            _proof_a_section_number_the_page_prints_twice_is_one_catalog_entry,
            _proof_every_rule_that_can_skip_a_section_fires,
            _proof_a_broken_slice_is_reported_and_not_published,
-           _proof_the_catalog_detects_a_document_that_went_missing]
+           _proof_the_catalog_detects_a_document_that_went_missing,
+           _proof_a_changed_section_is_named_and_an_unchanged_one_is_not,
+           _proof_a_section_that_cannot_be_sliced_is_not_a_section_that_was_deleted,
+           _proof_a_section_with_no_baseline_is_reported_as_such,
+           _proof_a_mirror_that_is_not_there_refuses_to_report,
+           _proof_an_unchanged_page_reports_nothing]
 
 
 def selftest() -> int:
