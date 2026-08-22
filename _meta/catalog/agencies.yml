@@ -296,7 +296,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-alfalfa-seed-commission
@@ -321,7 +321,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 577.210
   enabling_authority: ORS 577.210
 - slug: department-of-agriculture-oregon-blueberry-commission
@@ -335,7 +335,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-clover-seed-commission
@@ -349,7 +349,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-dairy-products-commission
@@ -363,7 +363,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-dungeness-crab-commission
@@ -377,7 +377,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-fine-fescue-commission
@@ -391,7 +391,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-hazelnut-commission
@@ -405,7 +405,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-hop-commission
@@ -419,7 +419,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-invasive-species-council
@@ -433,7 +433,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 570.770
   enabling_authority: ORS 570.770
 - slug: department-of-agriculture-oregon-mint-commission
@@ -447,7 +447,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-potato-commission
@@ -461,7 +461,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-processed-vegetable-commission
@@ -475,7 +475,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-raspberry-and-blackberry-commission
@@ -489,7 +489,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-ryegrass-growers-seed-commission
@@ -503,7 +503,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-salmon-commission
@@ -517,7 +517,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-sheep-commission
@@ -531,7 +531,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-strawberry-commission
@@ -545,7 +545,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-sweet-cherry-commission
@@ -559,7 +559,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-tall-fescue-commission
@@ -573,7 +573,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-trawl-commission
@@ -587,7 +587,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
 - slug: department-of-agriculture-oregon-wheat-commission
@@ -601,7 +601,7 @@ organizations:
   - target: department-of-agriculture
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 578.030
   enabling_authority: ORS 578.030
 - slug: department-of-consumer-and-business-services
@@ -692,7 +692,7 @@ organizations:
   - target: department-of-consumer-and-business-services
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 656.712
   enabling_authority: ORS 656.712
 - slug: department-of-consumer-and-business-services-workers-compensation-division
@@ -739,7 +739,7 @@ organizations:
   - target: department-of-energy
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 469.450
   enabling_authority: ORS 469.450
 - slug: department-of-environmental-quality
@@ -830,7 +830,7 @@ organizations:
   - target: department-of-human-services
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 410.602
   enabling_authority: ORS 410.602
 - slug: department-of-human-services-self-sufficiency-programs
@@ -951,7 +951,7 @@ organizations:
   - target: department-of-state-police
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 463.113
   enabling_authority: ORS 463.113
 - slug: department-of-transportation
@@ -1138,7 +1138,7 @@ organizations:
   - target: higher-education-coordinating-commission
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 348.511
   enabling_authority: ORS 348.511
 - slug: judicial-department
@@ -1310,7 +1310,7 @@ organizations:
   - target: mental-health-regulatory-agency
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 675.775
   enabling_authority: ORS 675.775
 - slug: mental-health-regulatory-agency-oregon-board-of-psychology
@@ -1324,7 +1324,7 @@ organizations:
   - target: mental-health-regulatory-agency
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 675.100
   enabling_authority: ORS 675.100
 - slug: mortuary-and-cemetery-board
@@ -1511,7 +1511,7 @@ organizations:
   - target: oregon-department-of-education
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 342.930
   enabling_authority: ORS 342.930
 - slug: oregon-department-of-education-youth-development-division
@@ -1525,7 +1525,7 @@ organizations:
   - target: oregon-department-of-education
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 417.852
   aliases:
   - Youth Development Division
@@ -1622,7 +1622,7 @@ organizations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 676.806
   enabling_authority: ORS 676.806
 - slug: oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians
@@ -1636,7 +1636,7 @@ organizations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 676.650
   enabling_authority: ORS 676.650
 - slug: oregon-health-authority-health-licensing-office-board-of-cosmetology
@@ -1650,7 +1650,7 @@ organizations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 690.155
   enabling_authority: ORS 690.155
 - slug: oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery
@@ -1664,7 +1664,7 @@ organizations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 687.470
   enabling_authority: ORS 687.470
 - slug: oregon-health-authority-health-licensing-office-board-of-licensed-dietitians
@@ -1689,7 +1689,7 @@ organizations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 700.210
   enabling_authority: ORS 700.210
 - slug: oregon-health-authority-health-licensing-office-long-term-care-administrators-board
@@ -1703,7 +1703,7 @@ organizations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 678.800
   enabling_authority: ORS 678.800
 - slug: oregon-health-authority-health-policy-and-analytics
@@ -1717,7 +1717,7 @@ organizations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 442.011
   enabling_authority: ORS 442.011
 - slug: oregon-health-authority-health-systems-division-addiction-services
@@ -1764,7 +1764,7 @@ organizations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 414.312
   enabling_authority: ORS 414.312
 - slug: oregon-health-authority-public-employees-benefit-board
@@ -1778,7 +1778,7 @@ organizations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 243.061
   enabling_authority: ORS 243.061
 - slug: oregon-health-authority-public-health-division
@@ -2047,7 +2047,7 @@ organizations:
   - target: public-utility-commission
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 776.105
   enabling_authority: ORS 776.105
 - slug: real-estate-agency
