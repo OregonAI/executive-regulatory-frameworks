@@ -22,23 +22,6 @@ note: 'PROPOSED, NOT DECIDED. Each row is a candidate an automated match produce
   the cited section itself before accepting a row.'
 generated_from: the mirrored ORS in statutes/, never fetched
 candidates:
-- slug: appraiser-certification-and-licensure-board
-  name: Appraiser Certification and Licensure Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 674.305
-  catchline: Appraiser Certification and Licensure Board; appointment; term; compensation; conduct of
-    business; rules
-  text: (1) The Appraiser Certification and Licensure Board is established.
-  verdict: ''
-- slug: board-of-chiropractic-examiners
-  name: Board of Chiropractic Examiners
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 684.130
-  catchline: State Board of Chiropractic Examiners
-  text: (1) There is established the State Board of Chiropractic Examiners.
-  verdict: ''
 - slug: board-of-examiners-for-engineering-and-land-surveying
   name: Board of Examiners for Engineering and Land Surveying
   tier: 3
@@ -50,14 +33,6 @@ candidates:
     officers. (1) The State Board of Examiners for Engineering and Land Surveying shall operate as a semi-independent
     state agency subject to ORS 182.
   verdict: ''
-- slug: board-of-examiners-for-speech-language-pathology-and-audiology
-  name: Board of Examiners for Speech-Language Pathology and Audiology
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 681.400
-  catchline: State Board of Examiners for Speech-Language Pathology and Audiology
-  text: (1) There is established a State Board of Examiners for Speech-Language Pathology and Audiology.
-  verdict: ''
 - slug: board-of-geologist-examiners
   name: Board of Geologist Examiners
   tier: 3
@@ -68,14 +43,6 @@ candidates:
     Examiners shall operate as a semi-independent state agency subject to ORS 182.456 to 182.472 for the
     purpose of carrying out ORS 672.
   verdict: ''
-- slug: board-of-licensed-social-workers
-  name: Board of Licensed Social Workers
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 675.590
-  catchline: State Board of Licensed Social Workers
-  text: (1) There is established a State Board of Licensed Social Workers.
-  verdict: ''
 - slug: board-of-massage-therapists
   name: Board of Massage Therapists
   tier: 3
@@ -85,15 +52,6 @@ candidates:
   text: 687.115 State Board of Massage Therapists; members; appointment; terms; meetings; compensation;
     administrator. (1) The State Board of Massage Therapists operates as a semi-independent state agency
     subject to ORS 182.456 to 182.
-  verdict: ''
-- slug: board-of-medical-imaging
-  name: Board of Medical Imaging
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 688.545
-  catchline: Board of Medical Imaging; qualifications; advisory member; term; compensation and expenses;
-    officers; meetings; quorum; rules
-  text: (1)(a) There is created the Board of Medical Imaging.
   verdict: ''
 - slug: board-of-nursing
   name: Board of Nursing
@@ -114,69 +72,6 @@ candidates:
     Board of Optometry operates as a semi-independent state agency subject to ORS 182.456 to 182.472,
     for the purpose of carrying out this chapter.
   verdict: ''
-- slug: board-of-parole-and-post-prison-supervision
-  name: Board of Parole and Post-Prison Supervision
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 144.005
-  catchline: State Board of Parole and Post-Prison Supervision; membership; compensation
-  text: (1) A State Board of Parole and Post-Prison Supervision of at least three but no more than five
-    members hereby is created.
-  verdict: ''
-- slug: bureau-of-labor-and-industries
-  name: Bureau of Labor and Industries
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 651.020
-  catchline: Bureau of Labor and Industries
-  text: The Bureau of Labor and Industries hereby is established as a separate department of this state.
-  verdict: ''
-- slug: citizens-initiative-review-commission
-  name: Citizens' Initiative Review Commission
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 250.137
-  catchline: Citizens’ Initiative Review Commission; members; term of office; rules
-  text: (1) The Citizens’ Initiative Review Commission is established as a semi-independent state agency
-    subject to ORS 182.
-  verdict: ''
-- slug: commission-for-the-blind
-  name: Commission for the Blind
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 346.120
-  catchline: Commission for the Blind; purpose
-  text: There is created a commission for persons who are blind and for the prevention of blindness, to
-    be known as the Commission for the Blind.
-  verdict: ''
-- slug: commission-on-judicial-fitness-and-disability
-  name: Commission on Judicial Fitness and Disability
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 1.410
-  catchline: Commission on Judicial Fitness and Disability; term; Senate confirmation
-  text: '(1) There is created the Commission on Judicial Fitness and Disability consisting of: (a) Three
-    judges appointed by the Supreme Court; (b) Three persons appointed by the Board of Governors of the
-    Oregon State Bar from among persons admitted to practice law in this state; and (c) Three persons
-    appointed by the Governor who are not qualified under either paragraph (a) or (b) of this subsection.'
-  verdict: ''
-- slug: construction-contractors-board
-  name: Construction Contractors Board
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 701.205
-  catchline: Construction Contractors Board; members; terms; confirmation; vacancies; qualifications
-  text: (1) The Construction Contractors Board is established, consisting of nine members appointed by
-    the Governor subject to confirmation by the Senate in the manner provided by law.
-  verdict: ''
-- slug: department-of-administrative-services
-  name: Department of Administrative Services
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 184.305
-  catchline: Oregon Department of Administrative Services
-  text: The Oregon Department of Administrative Services is created.
-  verdict: ''
 - slug: department-of-agriculture
   name: Department of Agriculture
   tier: 1
@@ -186,15 +81,6 @@ candidates:
   text: There is created a department of the government of this state to be known as the State Department
     of Agriculture.
   verdict: ''
-- slug: department-of-agriculture-oregon-albacore-commission
-  name: Department of Agriculture, Oregon Albacore Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
 - slug: department-of-agriculture-oregon-beef-council
   name: Department of Agriculture, Oregon Beef Council
   tier: 1
@@ -202,69 +88,6 @@ candidates:
   candidate: ORS 577.210
   catchline: Oregon Beef Council; members; appointment
   text: '(2) There hereby is created the Oregon Beef Council composed of: (a) Two dairy producers.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-blueberry-commission
-  name: Department of Agriculture, Oregon Blueberry Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-clover-seed-commission
-  name: Department of Agriculture, Oregon Clover Seed Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-dairy-products-commission
-  name: Department of Agriculture, Oregon Dairy Products Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-dungeness-crab-commission
-  name: Department of Agriculture, Oregon Dungeness Crab Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-fine-fescue-commission
-  name: Department of Agriculture, Oregon Fine Fescue Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-hazelnut-commission
-  name: Department of Agriculture, Oregon Hazelnut Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-hop-commission
-  name: Department of Agriculture, Oregon Hop Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
   verdict: ''
 - slug: department-of-agriculture-oregon-invasive-species-council
   name: Department of Agriculture, Oregon Invasive Species Council
@@ -274,105 +97,6 @@ candidates:
   catchline: Invasive Species Council; membership; terms
   text: (1) The Invasive Species Council is established within the State Department of Agriculture.
   verdict: ''
-- slug: department-of-agriculture-oregon-mint-commission
-  name: Department of Agriculture, Oregon Mint Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-potato-commission
-  name: Department of Agriculture, Oregon Potato Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-processed-vegetable-commission
-  name: Department of Agriculture, Oregon Processed Vegetable Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-raspberry-and-blackberry-commission
-  name: Department of Agriculture, Oregon Raspberry and Blackberry Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-ryegrass-growers-seed-commission
-  name: Department of Agriculture, Oregon Ryegrass Growers Seed Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-salmon-commission
-  name: Department of Agriculture, Oregon Salmon Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-sheep-commission
-  name: Department of Agriculture, Oregon Sheep Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-strawberry-commission
-  name: Department of Agriculture, Oregon Strawberry Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-sweet-cherry-commission
-  name: Department of Agriculture, Oregon Sweet Cherry Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-tall-fescue-commission
-  name: Department of Agriculture, Oregon Tall Fescue Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
-- slug: department-of-agriculture-oregon-trawl-commission
-  name: Department of Agriculture, Oregon Trawl Commission
-  tier: 1
-  basis: enumerated-list
-  candidate: ORS 576.062
-  catchline: Establishment of commodity commissions
-  text: 'The following commodity commissions are established as state commissions: (1) The Oregon Dairy
-    Products Commission.'
-  verdict: ''
 - slug: department-of-agriculture-oregon-wheat-commission
   name: Department of Agriculture, Oregon Wheat Commission
   tier: 1
@@ -380,15 +104,6 @@ candidates:
   candidate: ORS 578.030
   catchline: Oregon Wheat Commission; members; appointment process; rules
   text: (1) There hereby is created the Oregon Wheat Commission.
-  verdict: ''
-- slug: department-of-consumer-and-business-services
-  name: Department of Consumer and Business Services
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 705.105
-  catchline: Department of Consumer and Business Services; director; qualifications; confirmation; Insurance
-    Commissioner; bond or letter of credit; seal
-  text: (1) The Department of Consumer and Business Services is created.
   verdict: ''
 - slug: department-of-consumer-and-business-services-workers-compensation-board
   name: Department of Consumer and Business Services, Workers' Compensation Board
@@ -669,17 +384,6 @@ candidates:
   catchline: Office of Long Term Care Ombudsman; terms; appointment; confirmation; qualifications
   text: (1) The office of the Long Term Care Ombudsman is established.
   verdict: ''
-- slug: mental-health-regulatory-agency
-  name: Mental Health Regulatory Agency
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 675.160
-  catchline: Mental Health Regulatory Agency
-  text: (1) The Mental Health Regulatory Agency is created to provide for the more effective coordination
-    of administrative and regulatory functions of the regulated boards involved in protecting the public
-    through the licensing and regulation of professions in this state that are related to behavioral and
-    mental health.
-  verdict: ''
 - slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
   name: Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
   tier: 1
@@ -721,16 +425,6 @@ candidates:
   candidate: ORS 178.310
   catchline: Oregon 529 Savings Board; membership
   text: (1) There is established the Oregon 529 Savings Board to administer ORS 178.
-  verdict: ''
-- slug: oregon-advocacy-commissions-office
-  name: Oregon Advocacy Commissions Office
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 185.005
-  catchline: Oregon Advocacy Commissions Office
-  text: 'The Oregon Advocacy Commissions Office is established to provide administrative support to: (1)
-    The Commission on Hispanic Affairs; (2) The Commission on Black Affairs; (3) The Commission for Women;
-    and (4) The Commission on Asian and Pacific Islander Affairs.'
   verdict: ''
 - slug: oregon-board-of-accountancy
   name: Oregon Board of Accountancy
@@ -1076,15 +770,6 @@ candidates:
     in subsection (2) of this section appointed by the Governor and subject to confirmation by the Senate
     under section 4, Article III of the Oregon Constitution.
   verdict: ''
-- slug: public-records-advocate
-  name: Public Records Advocate
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 192.461
-  catchline: Public Records Advocate
-  text: (1) The office of the Public Records Advocate is created as an independent office within the executive
-    department, separate and distinct from any other state agency.
-  verdict: ''
 - slug: public-utility-commission
   name: Public Utility Commission
   tier: 1
@@ -1127,14 +812,6 @@ candidates:
   text: 671.120 State Board of Architect Examiners; members; term; chair. The State Board of Architect
     Examiners shall operate as a semi-independent state agency subject to ORS 182.456 to 182.472 for the
     purpose of carrying out ORS 671.
-  verdict: ''
-- slug: state-board-of-tax-practitioners
-  name: State Board of Tax Practitioners
-  tier: 1
-  basis: catchline-subject
-  candidate: ORS 673.725
-  catchline: State Board of Tax Practitioners; term; qualification
-  text: (1) There is created a State Board of Tax Practitioners.
   verdict: ''
 - slug: travel-information-council
   name: Travel Information Council
@@ -1218,8 +895,6 @@ no_candidate:
   name: Department of Transportation, Rail Division
 - slug: department-of-transportation-transportation-safety-division
   name: Department of Transportation, Transportation Safety Division
-- slug: district-attorneys-and-deputies
-  name: District Attorneys and Deputies
 - slug: economic-recovery-review-council
   name: Economic Recovery Review Council
 - slug: higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development
