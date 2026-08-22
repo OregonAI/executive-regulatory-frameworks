@@ -1294,6 +1294,27 @@ def _case_statutory_name_on_an_authority_this_gate_cannot_read(f):
     _set(f, "board-of-imaginary-affairs", "Executive Order 99-99")
 
 
+def _case_statutory_name_cited_to_a_section_the_mirror_does_not_hold(f):
+    """A name recorded against an ORS citation whose section this corpus does not carry.
+    There is no text to check the name against, and the wrong answer — the one this case
+    exists to refuse — is "the statute does not print that name", which is a statement about
+    Oregon law drawn from a file that is not here. "Could not check" is never reported as "is
+    not there" (CONTEXT.md).
+
+    THE RULE IS NOT ENOUGH HERE, and `_STATUTORY_NAME_ANSWERS` below is the half that is.
+    This case and `statutory-name-the-cited-section-does-not-print` fire the SAME rule, so
+    asserting on the rule keeps passing when the two collapse into one message — which is
+    exactly what the code did before #168's review: the missing document was coerced to an
+    empty string and reported as a statute that does not print the name.
+
+    The citation is added to `citations` as well as to the table, so the case breaks exactly
+    one rule: a citation the corpus does not carry AT ALL would also trip
+    `authority-resolves`. What is missing here is the TEXT, which is the state a fetch
+    failure or a half-ingested chapter leaves behind."""
+    f["citations"].add("ORS 999.997")
+    _set(f, "board-of-imaginary-affairs", "ORS 999.997")
+
+
 def _case_statutory_name_that_is_not_a_name(f):
     """A blank where the name should be. The value becomes `name` on a registry row, which
     three sibling corpora read as what Oregon law calls the body — and a whitespace string
@@ -1401,6 +1422,9 @@ _CASES = [
     ("statutory-name-on-an-authority-this-gate-cannot-read",
      _case_statutory_name_on_an_authority_this_gate_cannot_read,
      "statutory-name-in-the-cited-text"),
+    ("statutory-name-cited-to-a-section-the-mirror-does-not-hold",
+     _case_statutory_name_cited_to_a_section_the_mirror_does_not_hold,
+     "statutory-name-in-the-cited-text"),
     ("statutory-name-that-is-not-a-name", _case_statutory_name_that_is_not_a_name,
      "statutory-name-is-a-name"),
     ("statutory-name-for-a-slug-that-is-not-in-the-registry",
@@ -1437,6 +1461,70 @@ _KINDS_OF_NOTHING = [
     ("Or. Const. Art. XI-B, sec. 1", "carries no sections", "prints no Article"),
     ("Or. Const. Art. VII, sec. 1", "Choosing one would be a guess", "prints no Article"),
 ]
+
+
+# THE SAME PROBLEM ONE RULE OVER, AND THE SAME ANSWER (#168). Three different things can go
+# wrong with a statutory name recorded against a mirrored section, and two of them produce
+# `statutory-name-in-the-cited-text` — so `_CASES`, which asserts on the RULE, passes whether
+# or not the two are told apart. They were not: a citation naming no mirrored document was
+# coerced to an empty string and reported as a statute that does not print the name, which is
+# a claim about Oregon law drawn from a file this corpus does not hold.
+#
+# Each row is (the authority the table cites, a phrase the answer MUST carry, a phrase it
+# must NOT). The second half is what stops a message from being made vaguer until it fits
+# both — the same discipline `_KINDS_OF_NOTHING` keeps above, for the same reason.
+_STATUTORY_NAME_ANSWERS = [
+    ("ORS 999.999", "does not appear anywhere in the mirrored text", "could not check"),
+    ("ORS 999.997", "could not check", "does not appear anywhere"),
+    ("Executive Order 99-99", "cannot read the text of", "does not appear anywhere"),
+]
+
+
+def _proof_the_ways_a_name_goes_unchecked_are_told_apart() -> int:
+    """Each way `statutory-name-in-the-cited-text` fires says WHICH it is, and no two of them
+    say the same thing.
+
+    A reviewer acts differently on each: a name the section does not print is a wrong name, a
+    citation with no mirrored text is a corpus to fix before the name can be judged, and an
+    authority form this gate cannot read is a gate to extend. One message for two of those
+    would send a reviewer to rewrite a name that was never checked."""
+    bad = 0
+    answers = []
+    for authority, must, must_not in _STATUTORY_NAME_ANSWERS:
+        f = _fixture()
+        f["citations"].add(authority)
+        # The name stays what the table already records; only the authority moves, so the
+        # section cited is the only thing that differs between the three runs.
+        _set(f, "board-of-imaginary-affairs", authority)
+        f["names"]["board-of-imaginary-affairs"] = "Bureau of Imaginary Affairs" \
+            if authority == "ORS 999.999" else "Board of Imaginary Affairs"
+        for o in f["orgs"]:
+            if o["slug"] == "board-of-imaginary-affairs":
+                o["name"] = f["names"]["board-of-imaginary-affairs"]
+        got = [p for p in audit_statutory_names(f["orgs"], f["mapped"], f["names"],
+                                                f["texts"].get)
+               if p.rule == "statutory-name-in-the-cited-text"]
+        if len(got) != 1:
+            print(f"FAIL statutory-name-answer for {authority}: expected one answer, got "
+                  f"{got!r}", file=sys.stderr)
+            bad += 1
+            continue
+        detail = got[0].detail
+        answers.append(detail)
+        if must not in detail:
+            print(f"FAIL statutory-name-answer for {authority}: {detail!r} does not say "
+                  f"{must!r}", file=sys.stderr)
+            bad += 1
+        if must_not in detail:
+            print(f"FAIL statutory-name-answer for {authority}: {detail!r} says {must_not!r},"
+                  " which is a different finding", file=sys.stderr)
+            bad += 1
+    # THE HALF THAT DOES NOT DEPEND ON THE WORDING: no two answers may be the same string,
+    # whatever they say.
+    if len(set(answers)) != len(answers):
+        print(f"FAIL statutory-name-answers-are-distinct: {answers!r}", file=sys.stderr)
+        bad += 1
+    return bad
 
 
 def _proof_the_kinds_of_nothing_are_told_apart() -> int:
@@ -1562,6 +1650,7 @@ def _proof_apply_writes_the_same_bytes_twice() -> int:
 
 _PROOFS = [_proof_apply_writes_the_same_bytes_twice,
            _proof_the_kinds_of_nothing_are_told_apart,
+           _proof_the_ways_a_name_goes_unchecked_are_told_apart,
            _proof_an_unreadable_mirror_is_not_an_absent_one,
            _proof_a_catalogued_section_with_no_document_is_not_resolved,
            _proof_a_citation_the_scheme_refuses_is_not_called_resolved]
