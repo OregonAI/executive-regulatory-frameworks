@@ -1473,7 +1473,7 @@ the attestation the review gates call for. Corpus size by directory:
 - `agencies/secretary-of-state/schedules/`: 1 documents
 - `agencies/teacher-standards-and-practices-commission/schedules/`: 1 documents
 - `agencies/water-resources-department/schedules/`: 1 documents
-- `constitution/`: 10 documents
+- `constitution/`: 339 documents
 - `executive-orders/`: 526 documents
 - `external-references/`: 1 documents
 - `rules/101/001/`: 3 documents
