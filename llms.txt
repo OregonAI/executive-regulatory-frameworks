@@ -53,7 +53,7 @@
 - [Index](external-references/_index.md): 1 third-party reference(s). Summaries + links only — never full text.
 - [NIST SP 800-53 Rev. 5](external-references/nist-sp-800-53-r5.md): the control framework behind the statewide standards.
 
-## Board of Chiropractic Examiners — Schedules
+## State Board of Chiropractic Examiners — Schedules
 
 - 1 documents.
 

@@ -375,8 +375,23 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   statutory name, OAR name and curated aliases, so promoting `name` cannot make a body
   unfindable by the name a reader knows. Every remaining read of a registry `name` is
   classified where it sits, as JOIN, DISPLAY or MACHINERY, and
-  `python3 src/name_readers.py --check` (CI, every PR) refuses one that is not — the audit
-  has to stay true through #168, which changes what `name` means.
+  `python3 src/name_readers.py --check` (CI, every PR) refuses one that is not.
+  `name` IS THE STATUTORY NAME since #168 (ADR 0003), and every row states in `name_basis`
+  whether it actually holds one: `enabling-authority` — read off the body's enabling
+  authority by a human, written only by `src/link_enabling_authority.py`'s `STATUTORY_NAMES`
+  and resolved by `--check` against the mirrored text of the section it cites — or
+  `unverified-oar-title`, which says nobody has established one and `name` still holds the
+  OAR chapter title, unchanged. 4 of 189 rows are established and 185 are not, and
+  `--check` prints both counts on every run: "established" and "not yet established" may
+  never be the same state. `statutory-name-basis` fails a row claiming the first with no
+  enabling authority behind it, and fails a row claiming the second whose `name` is not its
+  `oar_name` — which is what makes "no row's name was blanked by the promotion" a checkable
+  claim. The field is neither scraped nor curated but `PER_ROW`, because the row's own basis
+  decides what `--refresh` does to it: an established name is carried across by
+  `preserve_name()`, an unverified one is rebuilt from the chapter page.
+  `_meta/corpus.yml` declares `plugins.issuing_body_name_fields: [name, oar_name, aliases]`
+  (corpus-toolkit>=1.29.0), without which `issuing_body_profile` matches `name` alone and a
+  fully promoted registry leaves 189 of 189 bodies unfindable by their OAR name.
   Every row also carries `relations` (CONTEXT.md), and since #174 it is the ONLY place a
   body's placement under another is recorded — `parent_slug` is retired, and the allowlist
   in `FIELDS` refuses it if it comes back. Each entry names the

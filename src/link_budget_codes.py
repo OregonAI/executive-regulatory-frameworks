@@ -393,7 +393,7 @@ def main() -> int:
         # rules index prints. It is written because `oar_name` is the string consumers
         # join on from here (ADR 0003), and a row without one is a row those joins lose.
         entry = dict(catalog_agencies.scraped_entry(
-            name=name, oar_chapter=None, raw_index_name=name, source_url=None),
+            oar_name=name, oar_chapter=None, raw_index_name=name, source_url=None),
             slug=slug,
             # `manual` is what makes catalog_agencies.py --refresh keep it: the scrape
             # cannot produce a body that issues no rules, so a refresh would otherwise

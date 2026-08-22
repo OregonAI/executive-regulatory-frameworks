@@ -530,11 +530,11 @@
   },
   {
    "slug": "board-of-chiropractic-examiners",
-   "name": "Board of Chiropractic Examiners",
+   "name": "State Board of Chiropractic Examiners",
    "rules": 43,
    "parent": null,
    "group": "board-of-chiropractic-examiners",
-   "group_name": "Board of Chiropractic Examiners",
+   "group_name": "State Board of Chiropractic Examiners",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -559,11 +559,11 @@
   },
   {
    "slug": "board-of-examiners-for-speech-language-pathology-and-audiology",
-   "name": "Board of Examiners for Speech-Language Pathology and Audiology",
+   "name": "State Board of Examiners for Speech-Language Pathology and Audiology",
    "rules": 39,
    "parent": null,
    "group": "board-of-examiners-for-speech-language-pathology-and-audiology",
-   "group_name": "Board of Examiners for Speech-Language Pathology and Audiology",
+   "group_name": "State Board of Examiners for Speech-Language Pathology and Audiology",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -596,11 +596,11 @@
   },
   {
    "slug": "board-of-licensed-social-workers",
-   "name": "Board of Licensed Social Workers",
+   "name": "State Board of Licensed Social Workers",
    "rules": 52,
    "parent": null,
    "group": "board-of-licensed-social-workers",
-   "group_name": "Board of Licensed Social Workers",
+   "group_name": "State Board of Licensed Social Workers",
    "governance": "executive_branch",
    "chapters": [
     "675"

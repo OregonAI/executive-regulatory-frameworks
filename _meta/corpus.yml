@@ -80,6 +80,27 @@ plugins:
   issuing_body_registry_key: "organizations"
   issuing_body_profiles: "_meta/agency-profiles.yml"
 
+  # WHICH REGISTRY FIELDS CARRY A NAME (corpus-toolkit>=1.29.0, corpus-toolkit#128).
+  #
+  # Without this, `issuing_body_profile`'s free-text fallback matches `name` alone, which is
+  # the default and was the whole of the behaviour before 1.29.0. ADR 0003 makes `name` the
+  # STATUTORY name, and #168 lands it — so the name printed on every OAR citation an agent
+  # arrives holding stops being the field the tool matches. Measured against this registry
+  # with `name` promoted and nothing declared here: 189 of 189 bodies unfindable by their OAR
+  # name; with the three fields below, 0.
+  #
+  # The toolkit's MIGRATION.md states the sequencing requirement this satisfies: the
+  # declaration lands in the same change as the promotion, or before it, or every body in the
+  # 189-row registry is unfindable by its OAR name in the gap.
+  #
+  # ORDER IS THE ORDER THEY ARE TRIED, and it decides which field a candidate reports as the
+  # one that matched. `name` first because it is what the body IS called; `oar_name` next
+  # because it is what the rules index prints and therefore what a rule citation carries;
+  # `aliases` last because it is a curated assertion of identity from elsewhere, and a match
+  # on it is a weaker answer that a reader should be able to see reported as such. It is the
+  # same ranking `catalog_agencies.resolve()` keeps for the same reason.
+  issuing_body_name_fields: ["name", "oar_name", "aliases"]
+
   # WHICH FRONTMATTER KEY CARRIES THE REGISTRY SLUG (corpus-toolkit>=1.23.0).
   #
   # Without this, attribution is PATH-DERIVED ONLY: a slug is inferred from

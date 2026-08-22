@@ -10,6 +10,60 @@ corpus-wide changes from 2026-08-02 forward.
 
 ## [Unreleased]
 
+### Changed
+- 2026-08-22 — `name` is the statutory name, and every registry row says whether it holds one
+  (#168, ADR 0003). ADR 0003 calls this the risky half and took it deliberately: the
+  registry's subject is the body, and a body's name is the one its enabling authority gives
+  it. It is safe to land now because no consumer resolves against `name` any more — #187
+  moved the two OAR-derived joins onto `oar_name` — and because `_meta/corpus.yml` now
+  declares `plugins.issuing_body_name_fields: [name, oar_name, aliases]`
+  (corpus-toolkit#128, shipped in v1.29.0, which this repo is pinned to). Without that
+  declaration `issuing_body_profile` matches `name` alone: measured against this registry with
+  every name promoted, **189 of 189 bodies become unfindable by their OAR name; with the three
+  fields declared, 0**. The declaration lands in the same change as the promotion, which is
+  what the toolkit's MIGRATION.md requires.
+  THIS CHANGE INVENTS NO STATUTORY NAMES, and the point of it is as much the provenance as the
+  values. Every row carries `name_basis`, which is one of two words and never absent:
+  `enabling-authority` — a human read the body's enabling authority and recorded what it calls
+  the body — or `unverified-oar-title`, which says nobody has established a statutory name and
+  `name` still holds the OAR chapter title it was scraped with, unchanged. **4 of 189 rows are
+  established and 185 retain an unverified OAR title**, against 107 rows that carry a reviewed
+  enabling authority and could be read next. A row that quietly kept its OAR title while the
+  field's documented meaning changed would be a false statement about Oregon law published
+  under provenance, and it would be invisible, because the string does not move — so the two
+  states are named, `catalog_agencies.py --check` reports both counts on every run, and they
+  can never be the same state.
+  THE CLAIM IS GATED IN BOTH DIRECTIONS. `statutory-name-basis` fails a row claiming an
+  established statutory name with no enabling authority to support it — and a reviewed absence
+  (`none: <reason>`) does not support it either, because a body reviewed as having no enabling
+  authority has no section a name could be read off. The other half is what makes "no row's
+  name is blanked" checkable rather than promised: a row recording `unverified-oar-title` must
+  hold exactly its `oar_name`, so a blank, a truncation or a hand-written guess in `name` is a
+  contract violation rather than something a reader has to notice.
+  A STATUTORY NAME IS RESOLVED, NOT ASSERTED. `link_enabling_authority.py` gains
+  `STATUTORY_NAMES`, the single writer of an established `name`, and `--check` requires the
+  recorded name to appear in the mirrored text of the ORS section that body's reviewed
+  authority cites. The four established today are the three the enabling-authority review
+  itself handed to this ticket — ORS 684.130, 681.400 and 675.590 each open "There is
+  established [the|a] **State** Board of ...", where the rules index prints "Board of ..." —
+  plus ORS 674.305's Appraiser Certification and Licensure Board, where the statute and the
+  rules index agree and the row's BASIS changes while its name does not. An authority form
+  whose text this gate cannot read is REPORTED as unchecked rather than passed over.
+  `name` IS NEITHER SCRAPED NOR CURATED, because neither is true of it: an established name is
+  curation `--refresh` must carry across, and an unverified one is rebuilt from the chapter
+  page so an upstream retitle still reaches it. `FIELDS` gains a `PER_ROW` origin for the case,
+  `preserve_name()` reads the row's own basis to decide, and `name-origin` refuses any
+  whole-field declaration of `name` or `name_basis` — declared SCRAPED, the survival
+  comparison would skip the key and a reviewed statutory name would be replaced by a
+  publisher's spelling with nothing reporting it. `scraped_entry()` now takes `oar_name`
+  rather than `name`, and the refresh simulation replays the scrape from `oar_name`, because
+  the chapter page's title is the only name the scrape can see.
+  `src/record_name_basis.py` is the one-time migration that recorded `unverified-oar-title` on
+  all 189 rows, re-runnable and idempotent in the shape `expand_oar_name.py` established.
+  CONTEXT.md carries the final meaning of all three name fields plus the new *name basis*
+  term, and `raw_index_name` gets an entry of its own rather than a mention in someone else's
+  _Avoid_ line.
+
 ### Removed
 - 2026-08-21 — `parent_slug` is retired from the agency registry (#174). Hierarchy lives in
   `relations` and nowhere else: the pointer is off all 189 rows, `FIELDS` no longer declares
