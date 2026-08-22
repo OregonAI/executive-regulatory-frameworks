@@ -40,6 +40,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 146 | Investigations of Deaths, Injuries and Missing Persons | 40 | 40 |
 | 147 | Victims of Crime and Acts of Mass Destruction | 94 | 94 |
 | 15 | Choice of Laws | 22 | 20 |
+| 151 | Public Defenders; Counsel for Financially Eligible Persons | 18 | 18 |
 | 153 | Violations and Fines | 54 | 54 |
 | 156 | Proceedings and Judgment in Criminal Actions (Former Provisions) | 0 | 0 |
 | 161 | General Provisions | 118 | 118 |
@@ -238,6 +239,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 384 | Ferries | 33 | 32 |
 | 390 | State and Local Parks; Recreation Programs; Scenic Waterways; Recreation Trails | 156 | 156 |
 | 391 | Mass Transportation | 28 | 28 |
+| 396 | Militia Generally | 51 | 51 |
 | 399 | Organized Militia | 48 | 48 |
 | 40 | Evidence Code | 97 | 97 |
 | 401 | Emergency Management and Services | 98 | 97 |
@@ -573,7 +575,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 96 | Line and Partition Fences | 6 | 6 |
 | 97 | Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts | 149 | 149 |
 | 98 | Lost, Unclaimed or Abandoned Property; Vehicle Towing | 97 | 97 |
-| **all** | | **37684** | **37465** |
+| **all** | | **37753** | **37534** |
 
 Per-section numbers/titles/paths: [`_meta/catalog/ors.yml`](../_meta/catalog/ors.yml).
 Sections marked `not_sliceable` there have no body text in the chapter HTML

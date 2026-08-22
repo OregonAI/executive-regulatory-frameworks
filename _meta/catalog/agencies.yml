@@ -1323,6 +1323,7 @@ organizations:
   manual: true
   das_agency_number: '155'
   budget_agency_code: '155'
+  enabling_authority: Or. Const. Art. IV, sec. 1
 - slug: legislative-commission-on-indian-services
   name: Legislative Commission on Indian Services
   name_basis: unverified-oar-title
@@ -1482,6 +1483,7 @@ organizations:
   budget_agency_code: '404'
   aliases:
   - Public Defense Services Commission
+  enabling_authority: ORS 151.213
 - slug: office-of-the-governor
   name: Office of the Governor
   name_basis: unverified-oar-title
@@ -1494,6 +1496,7 @@ organizations:
   manual: true
   das_agency_number: '121'
   budget_agency_code: '121'
+  enabling_authority: Or. Const. Art. V, sec. 1
 - slug: office-of-training-investigations-and-safety
   name: Office of Training, Investigations and Safety
   name_basis: unverified-oar-title
@@ -2010,6 +2013,7 @@ organizations:
   relations: []
   das_agency_number: '248'
   budget_agency_code: '248'
+  enabling_authority: ORS 396.305
 - slug: oregon-military-department-office-of-emergency-management
   name: Oregon Military Department, Office of Emergency Management
   name_basis: unverified-oar-title
@@ -2256,6 +2260,7 @@ organizations:
   parent_chapter: null
   relations: []
   manual: true
+  enabling_authority: ORS 656.752
 - slug: secretary-of-state
   name: Secretary of State
   name_basis: unverified-oar-title
@@ -2267,6 +2272,7 @@ organizations:
   relations: []
   das_agency_number: '165'
   budget_agency_code: '165'
+  enabling_authority: Or. Const. Art. VI, sec. 1
 - slug: secretary-of-state-archives-division
   name: Secretary of State, Archives Division
   name_basis: unverified-oar-title

@@ -9,8 +9,8 @@ note: 'Mechanically mined from already-cached ORS chapter snapshot text (a secti
   because the section became a series rather than moving to two places. Repeal wins where a bracket says
   both. Not exhaustive — only chapters with a cached snapshot are scanned. Non-authoritative; verify against
   oregonlegislature.gov before relying on a disposition here.'
-n_repealed: 21279
-n_renumbered: 7936
+n_repealed: 21321
+n_renumbered: 7937
 n_renumbering_stubs_not_parsed: 10
 sections:
 - section: '10.040'
@@ -5992,6 +5992,90 @@ sections:
 - section: '15.220'
   status: repealed
   year: 1979
+- section: '151.020'
+  status: repealed
+  year: 1985
+- section: '151.030'
+  status: repealed
+  year: 1985
+- section: '151.040'
+  status: repealed
+  year: 1985
+- section: '151.050'
+  status: repealed
+  year: 1985
+- section: '151.060'
+  status: repealed
+  year: 1985
+- section: '151.070'
+  status: repealed
+  year: 1985
+- section: '151.080'
+  status: repealed
+  year: 1985
+- section: '151.090'
+  status: repealed
+  year: 1985
+- section: '151.150'
+  status: renumbered
+  year: null
+  targets:
+  - '151.460'
+  source_phrase: renumbered 151.460
+- section: '151.210'
+  status: repealed
+  year: 2001
+- section: '151.220'
+  status: repealed
+  year: 2001
+- section: '151.230'
+  status: repealed
+  year: 2001
+- section: '151.240'
+  status: repealed
+  year: 2001
+- section: '151.250'
+  status: repealed
+  year: 2001
+- section: '151.260'
+  status: repealed
+  year: 2001
+- section: '151.270'
+  status: repealed
+  year: 2001
+- section: '151.280'
+  status: repealed
+  year: 2001
+- section: '151.290'
+  status: repealed
+  year: 2001
+- section: '151.410'
+  status: repealed
+  year: 1987
+- section: '151.420'
+  status: repealed
+  year: 1987
+- section: '151.430'
+  status: repealed
+  year: 2001
+- section: '151.440'
+  status: repealed
+  year: 1987
+- section: '151.450'
+  status: repealed
+  year: 2001
+- section: '151.460'
+  status: repealed
+  year: 2001
+- section: '151.465'
+  status: repealed
+  year: 2001
+- section: '151.470'
+  status: repealed
+  year: 1987
+- section: '151.480'
+  status: repealed
+  year: 2001
 - section: '153.043'
   status: repealed
   year: 2024
@@ -50134,6 +50218,54 @@ sections:
 - section: '391.830'
   status: repealed
   year: 2020
+- section: '396.010'
+  status: repealed
+  year: 1961
+- section: '396.020'
+  status: repealed
+  year: 1961
+- section: '396.030'
+  status: repealed
+  year: 1961
+- section: '396.040'
+  status: repealed
+  year: 1961
+- section: '396.050'
+  status: repealed
+  year: 1961
+- section: '396.060'
+  status: repealed
+  year: 1961
+- section: '396.070'
+  status: repealed
+  year: 1961
+- section: '396.080'
+  status: repealed
+  year: 1961
+- section: '396.090'
+  status: repealed
+  year: 1961
+- section: '396.100'
+  status: repealed
+  year: 1961
+- section: '396.110'
+  status: repealed
+  year: 1961
+- section: '396.180'
+  status: repealed
+  year: 1971
+- section: '396.350'
+  status: repealed
+  year: 2013
+- section: '396.366'
+  status: repealed
+  year: 2013
+- section: '396.370'
+  status: repealed
+  year: 2013
+- section: '396.600'
+  status: repealed
+  year: 2017
 - section: '399.010'
   status: repealed
   year: 1961
