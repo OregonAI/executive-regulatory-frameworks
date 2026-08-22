@@ -126,6 +126,7 @@ organizations:
   relations: []
   das_agency_number: '851'
   budget_agency_code: '851'
+  enabling_authority: ORS 678.140
 - slug: board-of-optometry
   name: Board of Optometry
   oar_name: Board of Optometry
@@ -921,6 +922,7 @@ organizations:
   relations: []
   das_agency_number: '257'
   budget_agency_code: '257'
+  enabling_authority: ORS 181A.015
 - slug: department-of-state-police-office-of-state-fire-marshal
   name: Department of State Police, Office of State Fire Marshal
   oar_name: Department of State Police, Office of State Fire Marshal
@@ -1198,6 +1200,7 @@ organizations:
   relations: []
   das_agency_number: '156'
   budget_agency_code: '156'
+  enabling_authority: ORS 173.710
 - slug: legislative-assembly
   name: Legislative Assembly
   oar_name: Legislative Assembly
@@ -1262,6 +1265,7 @@ organizations:
   manual: true
   das_agency_number: '143'
   budget_agency_code: '143'
+  enabling_authority: ORS 173.605
 - slug: legislative-revenue-office
   name: Legislative Revenue Office
   oar_name: Legislative Revenue Office
@@ -1283,6 +1287,7 @@ organizations:
   relations: []
   das_agency_number: '114'
   budget_agency_code: '114'
+  enabling_authority: ORS 441.403
 - slug: mental-health-regulatory-agency
   name: Mental Health Regulatory Agency
   oar_name: Mental Health Regulatory Agency
@@ -1455,6 +1460,7 @@ organizations:
   relations: []
   das_agency_number: '213'
   budget_agency_code: '213'
+  enabling_authority: ORS 137.654
 - slug: oregon-department-of-aviation
   name: Oregon Department of Aviation
   oar_name: Oregon Department of Aviation
@@ -1465,6 +1471,7 @@ organizations:
   relations: []
   das_agency_number: '109'
   budget_agency_code: '109'
+  enabling_authority: ORS 835.100
 - slug: oregon-department-of-education
   name: Oregon Department of Education
   oar_name: Oregon Department of Education
@@ -1475,6 +1482,7 @@ organizations:
   relations: []
   das_agency_number: '581'
   budget_agency_code: '581'
+  enabling_authority: ORS 326.111
 - slug: oregon-department-of-education-early-learning-division
   name: Oregon Department of Education, Early Learning Division
   oar_name: Oregon Department of Education, Early Learning Division
@@ -1505,6 +1513,7 @@ organizations:
     kind: administered_by
     basis: proposed-enabling-authority
     authority: ORS 342.930
+  enabling_authority: ORS 342.930
 - slug: oregon-department-of-education-youth-development-division
   name: Oregon Department of Education, Youth Development Division
   oar_name: Oregon Department of Education, Youth Development Division
@@ -1520,6 +1529,7 @@ organizations:
     authority: ORS 417.852
   aliases:
   - Youth Development Division
+  enabling_authority: ORS 417.852
 - slug: oregon-facilities-authority
   name: Oregon Facilities Authority
   oar_name: Oregon Facilities Authority
@@ -1530,6 +1540,7 @@ organizations:
   relations: []
   das_agency_number: '172'
   budget_agency_code: '172'
+  enabling_authority: ORS 289.100
 - slug: oregon-film-and-video-office
   name: Oregon Film and Video Office
   oar_name: Oregon Film and Video Office
@@ -1538,6 +1549,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_951
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 284.305
 - slug: oregon-forest-resources-institute
   name: Oregon Forest Resources Institute
   oar_name: Oregon Forest Resources Institute
@@ -1548,6 +1560,7 @@ organizations:
   relations: []
   das_agency_number: '628'
   budget_agency_code: '628'
+  enabling_authority: ORS 526.610
 - slug: oregon-government-ethics-commission
   name: Oregon Government Ethics Commission
   oar_name: Oregon Government Ethics Commission
@@ -1558,6 +1571,7 @@ organizations:
   relations: []
   das_agency_number: '199'
   budget_agency_code: '199'
+  enabling_authority: ORS 244.250
 - slug: oregon-health-authority
   name: Oregon Health Authority
   oar_name: Oregon Health Authority
@@ -1568,6 +1582,7 @@ organizations:
   relations: []
   das_agency_number: '443'
   budget_agency_code: '443'
+  enabling_authority: ORS 413.032
 - slug: oregon-health-authority-equity-and-inclusion-division
   name: Oregon Health Authority Equity and Inclusion Division
   oar_name: Oregon Health Authority Equity and Inclusion Division
@@ -1609,6 +1624,7 @@ organizations:
     kind: administered_by
     basis: proposed-enabling-authority
     authority: ORS 676.806
+  enabling_authority: ORS 676.806
 - slug: oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians
   name: Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
   oar_name: Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
@@ -1622,6 +1638,7 @@ organizations:
     kind: administered_by
     basis: proposed-enabling-authority
     authority: ORS 676.650
+  enabling_authority: ORS 676.650
 - slug: oregon-health-authority-health-licensing-office-board-of-cosmetology
   name: Oregon Health Authority, Health Licensing Office, Board of Cosmetology
   oar_name: Oregon Health Authority, Health Licensing Office, Board of Cosmetology
@@ -1635,6 +1652,7 @@ organizations:
     kind: administered_by
     basis: proposed-enabling-authority
     authority: ORS 690.155
+  enabling_authority: ORS 690.155
 - slug: oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery
   name: Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
   oar_name: Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
@@ -1648,6 +1666,7 @@ organizations:
     kind: administered_by
     basis: proposed-enabling-authority
     authority: ORS 687.470
+  enabling_authority: ORS 687.470
 - slug: oregon-health-authority-health-licensing-office-board-of-licensed-dietitians
   name: Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians
   oar_name: Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians
@@ -1672,6 +1691,7 @@ organizations:
     kind: administered_by
     basis: proposed-enabling-authority
     authority: ORS 700.210
+  enabling_authority: ORS 700.210
 - slug: oregon-health-authority-health-licensing-office-long-term-care-administrators-board
   name: Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
   oar_name: Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
@@ -1685,6 +1705,7 @@ organizations:
     kind: administered_by
     basis: proposed-enabling-authority
     authority: ORS 678.800
+  enabling_authority: ORS 678.800
 - slug: oregon-health-authority-health-policy-and-analytics
   name: Oregon Health Authority, Health Policy and Analytics
   oar_name: Oregon Health Authority, Health Policy and Analytics
@@ -1698,6 +1719,7 @@ organizations:
     kind: administered_by
     basis: proposed-enabling-authority
     authority: ORS 442.011
+  enabling_authority: ORS 442.011
 - slug: oregon-health-authority-health-systems-division-addiction-services
   name: 'Oregon Health Authority, Health Systems Division: Addiction Services'
   oar_name: 'Oregon Health Authority, Health Systems Division: Addiction Services'
@@ -1744,6 +1766,7 @@ organizations:
     kind: administered_by
     basis: proposed-enabling-authority
     authority: ORS 414.312
+  enabling_authority: ORS 414.312
 - slug: oregon-health-authority-public-employees-benefit-board
   name: Oregon Health Authority, Public Employees' Benefit Board
   oar_name: Oregon Health Authority, Public Employees' Benefit Board
@@ -1757,6 +1780,7 @@ organizations:
     kind: administered_by
     basis: proposed-enabling-authority
     authority: ORS 243.061
+  enabling_authority: ORS 243.061
 - slug: oregon-health-authority-public-health-division
   name: Oregon Health Authority, Public Health Division
   oar_name: Oregon Health Authority, Public Health Division
@@ -1778,6 +1802,7 @@ organizations:
   relations: []
   das_agency_number: '914'
   budget_agency_code: '914'
+  enabling_authority: ORS 456.555
 - slug: oregon-investment-council
   name: Oregon Investment Council
   oar_name: Oregon Investment Council
@@ -1786,6 +1811,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_171
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 293.706
 - slug: oregon-liquor-control-commission
   name: Oregon Liquor Control Commission
   oar_name: Oregon Liquor Control Commission
@@ -1843,6 +1869,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_325
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 442.820
 - slug: oregon-public-employees-retirement-system
   name: Oregon Public Employees Retirement System
   oar_name: Oregon Public Employees Retirement System
@@ -1863,6 +1890,7 @@ organizations:
   relations: []
   das_agency_number: '862'
   budget_agency_code: '862'
+  enabling_authority: ORS 462.210
 - slug: oregon-state-library
   name: Oregon State Library
   oar_name: Oregon State Library
@@ -1891,6 +1919,7 @@ organizations:
   relations: []
   das_agency_number: '250'
   budget_agency_code: '250'
+  enabling_authority: ORS 830.105
 - slug: oregon-state-treasury
   name: Oregon State Treasury
   oar_name: Oregon State Treasury
@@ -1912,6 +1941,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_976
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 284.107
 - slug: oregon-utility-notification-center
   name: Oregon Utility Notification Center
   oar_name: Oregon Utility Notification Center
@@ -1920,6 +1950,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_952
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 757.547
 - slug: oregon-watershed-enhancement-board
   name: Oregon Watershed Enhancement Board
   oar_name: Oregon Watershed Enhancement Board
@@ -1930,6 +1961,7 @@ organizations:
   relations: []
   das_agency_number: '691'
   budget_agency_code: '691'
+  enabling_authority: ORS 541.900
 - slug: oregon-watershed-enhancement-board-oregon-agricultural-heritage-program
   name: Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program
   oar_name: Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program
@@ -1949,6 +1981,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_619
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 576.856
 - slug: oregon-youth-authority
   name: Oregon Youth Authority
   oar_name: Oregon Youth Authority
@@ -1979,6 +2012,7 @@ organizations:
   relations: []
   das_agency_number: '399'
   budget_agency_code: '399'
+  enabling_authority: ORS 161.385
 - slug: public-records-advocate
   name: Public Records Advocate
   oar_name: Public Records Advocate
@@ -2001,6 +2035,7 @@ organizations:
   relations: []
   das_agency_number: '860'
   budget_agency_code: '860'
+  enabling_authority: ORS 756.014
 - slug: public-utility-commission-oregon-board-of-maritime-pilots
   name: Public Utility Commission, Oregon Board of Maritime Pilots
   oar_name: Public Utility Commission, Oregon Board of Maritime Pilots
@@ -2014,6 +2049,7 @@ organizations:
     kind: administered_by
     basis: proposed-enabling-authority
     authority: ORS 776.105
+  enabling_authority: ORS 776.105
 - slug: real-estate-agency
   name: Real Estate Agency
   oar_name: Real Estate Agency
@@ -2024,6 +2060,7 @@ organizations:
   relations: []
   das_agency_number: '919'
   budget_agency_code: '919'
+  enabling_authority: ORS 696.375
 - slug: saif-corporation
   name: SAIF Corporation
   oar_name: SAIF Corporation
@@ -2144,6 +2181,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_733
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 377.835
 - slug: veterinary-medical-examining-board
   name: Veterinary Medical Examining Board
   oar_name: Veterinary Medical Examining Board
@@ -2152,6 +2190,7 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_875
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 686.210
 - slug: water-resources-department
   name: Water Resources Department
   oar_name: Water Resources Department
@@ -2162,3 +2201,4 @@ organizations:
   relations: []
   das_agency_number: '690'
   budget_agency_code: '690'
+  enabling_authority: ORS 536.039
