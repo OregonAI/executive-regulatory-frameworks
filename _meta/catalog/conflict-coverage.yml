@@ -107,11 +107,11 @@ chapters:
   sections_with_rules: 63
   sections_screened: 3
   n_agencies: 9
-  n_rules: 605
+  n_rules: 610
   audit_cited: false
   runs:
   - haiku-scan-2026-07-31
-  priority: 210.8
+  priority: 211.7
 - chapter: '179'
   depth: sections-partial
   sections_with_rules: 18
