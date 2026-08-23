@@ -150,6 +150,25 @@ MAPPED: dict[str, str] = {
     # creates the office; the ORS chapter codifies it. The constitutional citation is the
     # one recorded because it is what created the office.
     "district-attorneys-and-deputies": "Or. Const. Art. VII (Original), sec. 17",
+    # CONSTITUTIONAL OFFICES, read against the mirrored Constitution 2026-08-22. Each of
+    # these vests power in, or elects, the body BY NAME -- the whole reason #196 mirrored the
+    # document. Before it existed `--check` reported them as "form checked, not resolved".
+    "office-of-the-governor": "Or. Const. Art. V, sec. 1",
+    "legislative-assembly": "Or. Const. Art. IV, sec. 1",
+    "secretary-of-state": "Or. Const. Art. VI, sec. 1",
+    # ORS 656.752(1): "The State Accident Insurance Fund Corporation is created for the
+    # purpose of transacting workers' compensation insurance and reinsurance business."
+    "saif-corporation": "ORS 656.752",
+    # FROM CHAPTERS MIRRORED IN THIS COMMIT. Both bodies were unrecordable until now not
+    # because their authority was unknown but because the chapter was absent (#210).
+    # ORS 151.213(1): "The Oregon Public Defense Commission is established in the executive
+    # branch of state government." NOT 151.211, which the operator's range began at and which
+    # is "Definitions for ORS 151.211 to ..." -- the range is right, its first section is not
+    # the creating one. SB 337 (2023) renamed this body; the registry still calls it the
+    # Office of Public Defense Services, which is #168's question, not this one.
+    "office-of-public-defense-services": "ORS 151.213",
+    # ORS 396.305(1): "The Oregon Military Department is established."
+    "oregon-military-department": "ORS 396.305",
     # BATCH 1a, accepted 2026-08-22 as ONE decision. ORS 576.062 "Establishment of commodity
     # commissions" creates all nineteen BY NAME in a single enumerated list: 19 enumerated,
     # 19 in the registry, zero discrepancies. Reviewing them individually would be reviewing
