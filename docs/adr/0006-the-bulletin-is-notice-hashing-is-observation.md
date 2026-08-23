@@ -76,6 +76,13 @@ query matching nothing returns the same clean answer as one matching everything.
 meanings have already collided, 121 times in one month, and the collision is currently
 invisible** — which is a stronger reason for the split, not a weaker one.
 
+The worklist records them as `corpus_state: held | missing_from_mirrored_chapter |
+chapter_not_mirrored`, a RENAMED field rather than a widened `in_corpus`: every value of a
+two-state field is truthy, so a consumer reading the new spelling off the old name would find
+every row held. And the mirrored-chapter set that decides between the last two is itself
+checked against the corpus's own held rules — a chapter listing that cannot account for the
+documents on disk makes the gate refuse, which is the measurement error above, caught.
+
 **A renumber records its destination or says it could not.** `_meta/catalog/oar.yml` already
 stores `served_as`; the worklist today records `action: renumber` with no target. July filed
 64 renumbers, 32 against rules we hold. *Renumbered*, *renumbered with unknown target*, and
