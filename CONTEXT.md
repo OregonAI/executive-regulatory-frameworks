@@ -126,6 +126,23 @@ a row asserting both. Absence is never the claim that a body has no enabling aut
 a blank value is refused for making that claim with nobody behind it.
 _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a statute
 
+**Legal status**:
+Whether a rule is in force. It lives in the document's `status` frontmatter field, whose
+values corpus-toolkit's schema fixes as `current | superseded | repealed | proposed | draft`,
+and it is a claim about Oregon law. 5,722 rules read `current` and 278 `repealed`. Its writer
+is the Oregon Bulletin (ADR 0006): `ingest_oar.py` writes `status: current` on a rule it
+creates, and may not overwrite a status the Bulletin set — a re-ingest that did would
+resurrect a repealed rule silently.
+_Avoid_: Status, unqualified — the catalog has a different field by that name
+
+**Ingest status**:
+Whether this corpus holds a copy of a rule, and in what shape. It lives in
+`_meta/catalog/oar.yml` as `rules[].status`, with its own vocabulary — `ingested` (36,474),
+`renumbered` (484, carrying `served_as`), `not_served` (49). It is a claim about THIS MIRROR,
+never about Oregon law: a rule can be in force and absent here, or repealed and still held.
+_Avoid_: Status, unqualified. The two fields share a name and mean different things, which is
+why both entries exist
+
 **Part of**:
 The relation a unit bears to the body it is internal structure of. A unit is *part of* a
 body when nothing separately constitutes it — the Highway Division is how the Department of

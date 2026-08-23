@@ -178,6 +178,11 @@ sources:
   sha256: dcba320dd9aedff3c3f7e2b179e18b9ceb4d8c70200f359dc2b694ef849be46c
   last_checked: '2026-08-01'
   notes: ORS chapter 15 (Choice of Laws), 2025 Edition
+- id: ors-chapter-151
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors151.html
+  sha256: 194c42bc1524df02d2a5543d91d24f0e66ba297a01a83aa89d4e8bce40eefdef
+  last_checked: '2026-08-22'
+  notes: ORS chapter 151 (Public Defenders; Counsel for Financially Eligible Persons), 2025 Edition
 - id: ors-chapter-153
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors153.html
   sha256: 0821f157d1cc2687f43145e91106bf6693c9d44cf0a36493067cc98bdf21ec14
@@ -1126,6 +1131,11 @@ sources:
   sha256: 83a6564aee8a52e38ae994da4f97c6dface0f29c7e9e9fc77f83ae3fdd6c0cbb
   last_checked: '2026-07-20'
   notes: ORS chapter 391 (Chapter 391), 2025 Edition
+- id: ors-chapter-396
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors396.html
+  sha256: 1cfbec95b5aa964fd1abb7b3aa8f8c7875f6002e3df7446f56493d44915b5f58
+  last_checked: '2026-08-22'
+  notes: ORS chapter 396 (Militia Generally), 2025 Edition
 - id: ors-chapter-399
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors399.html
   sha256: 060687480b04c9dce258166e11052ff31e764dbdefda410149ed6301e4e4c8b4

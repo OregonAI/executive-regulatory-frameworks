@@ -11417,6 +11417,82 @@ chapters:
     title: Commentary
     status: ingested
     path: statutes/ors-15.460.md
+- chapter: '151'
+  title: Public Defenders; Counsel for Financially Eligible Persons
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors151.html
+  sections:
+  - number: '151.010'
+    title: Public defender services by county
+    status: ingested
+    path: statutes/ors-151.010.md
+  - number: '151.211'
+    title: Definitions for ORS 151.211 to
+    status: ingested
+    path: statutes/ors-151.211.md
+  - number: '151.213'
+    title: Oregon Public Defense Commission; membership; member duties; appointment of executive director
+    status: ingested
+    path: statutes/ors-151.213.md
+  - number: '151.216'
+    title: Commission duties; rules
+    status: ingested
+    path: statutes/ors-151.216.md
+  - number: '151.219'
+    title: Executive director; duties
+    status: ingested
+    path: statutes/ors-151.219.md
+  - number: '151.221'
+    title: Status of officers and employees of commission
+    status: ingested
+    path: statutes/ors-151.221.md
+  - number: '151.223'
+    title: Standards and requirements for contracts with subcontracting entities
+    status: ingested
+    path: statutes/ors-151.223.md
+  - number: '151.225'
+    title: Public Defense Services Account
+    status: ingested
+    path: statutes/ors-151.225.md
+  - number: '151.229'
+    title: Oregon Public Defense Commission Lawyer Trust Account
+    status: ingested
+    path: statutes/ors-151.229.md
+  - number: '151.235'
+    title: Public defense population forecasts
+    status: ingested
+    path: statutes/ors-151.235.md
+  - number: '151.485'
+    title: Financial eligibility; determination; financial statement; termination of appointed counsel
+    status: ingested
+    path: statutes/ors-151.485.md
+  - number: '151.487'
+    title: Ability to pay; effect
+    status: ingested
+    path: statutes/ors-151.487.md
+  - number: '151.489'
+    title: Personnel to verify financial eligibility
+    status: ingested
+    path: statutes/ors-151.489.md
+  - number: '151.491'
+    title: Authority of person verifying financial eligibility
+    status: ingested
+    path: statutes/ors-151.491.md
+  - number: '151.493'
+    title: Release of information by state agency to State Court Administrator
+    status: ingested
+    path: statutes/ors-151.493.md
+  - number: '151.495'
+    title: Confidentiality of information obtained by state courts; exceptions
+    status: ingested
+    path: statutes/ors-151.495.md
+  - number: '151.497'
+    title: “Counsel” defined for ORS 151.485 to
+    status: ingested
+    path: statutes/ors-151.497.md
+  - number: '151.505'
+    title: Authority of court to order repayment of costs related to provision of appointed counsel
+    status: ingested
+    path: statutes/ors-151.505.md
 - chapter: '153'
   title: Violations and Fines
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors153.html
@@ -64776,6 +64852,217 @@ chapters:
     title: Short title
     status: ingested
     path: statutes/ors-391.660.md
+- chapter: '396'
+  title: Militia Generally
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors396.html
+  sections:
+  - number: '396.005'
+    title: Definitions of “active service,” “state active duty” and “active service of the state”
+    status: ingested
+    path: statutes/ors-396.005.md
+  - number: '396.015'
+    title: Definitions related to unorganized and organized militia
+    status: ingested
+    path: statutes/ors-396.015.md
+  - number: '396.025'
+    title: Purposes; rules of construction
+    status: ingested
+    path: statutes/ors-396.025.md
+  - number: '396.035'
+    title: Construction against implied repeal
+    status: ingested
+    path: statutes/ors-396.035.md
+  - number: '396.045'
+    title: Severability; conflicts COMPOSITION;
+    status: ingested
+    path: statutes/ors-396.045.md
+  - number: '396.105'
+    title: Militia comprised of organized and unorganized militia
+    status: ingested
+    path: statutes/ors-396.105.md
+  - number: '396.115'
+    title: Persons exempt from militia service
+    status: ingested
+    path: statutes/ors-396.115.md
+  - number: '396.117'
+    title: Prohibition on active federal service of sibling of person killed while in military; exceptions
+    status: ingested
+    path: statutes/ors-396.117.md
+  - number: '396.120'
+    title: Authority to administer oaths
+    status: ingested
+    path: statutes/ors-396.120.md
+  - number: '396.125'
+    title: Governor as Commander in Chief; military regulations; conflict with state law
+    status: ingested
+    path: statutes/ors-396.125.md
+  - number: '396.128'
+    title: Operation of regulations adopted by Adjutant General; conflict with state law; Oregon Code
+      of Military Justice
+    status: ingested
+    path: statutes/ors-396.128.md
+  - number: '396.130'
+    title: Service of organized militia outside state
+    status: ingested
+    path: statutes/ors-396.130.md
+  - number: '396.135'
+    title: Militia call by United States
+    status: ingested
+    path: statutes/ors-396.135.md
+  - number: '396.140'
+    title: Registration of unorganized militia; failure to appear
+    status: ingested
+    path: statutes/ors-396.140.md
+  - number: '396.145'
+    title: Military staff of Governor
+    status: ingested
+    path: statutes/ors-396.145.md
+  - number: '396.150'
+    title: Adjutant General; appointment and tenure; qualifications; grade
+    status: ingested
+    path: statutes/ors-396.150.md
+  - number: '396.155'
+    title: Adjutant General; compensation; bond; traveling expenses
+    status: ingested
+    path: statutes/ors-396.155.md
+  - number: '396.160'
+    title: Adjutant General; duties
+    status: ingested
+    path: statutes/ors-396.160.md
+  - number: '396.165'
+    title: Assistant Adjutants General
+    status: ingested
+    path: statutes/ors-396.165.md
+  - number: '396.170'
+    title: Acting Adjutant General
+    status: ingested
+    path: statutes/ors-396.170.md
+  - number: '396.175'
+    title: United States Property and Fiscal Officer
+    status: ingested
+    path: statutes/ors-396.175.md
+  - number: '396.305'
+    title: Oregon Military Department; duties and functions
+    status: ingested
+    path: statutes/ors-396.305.md
+  - number: '396.310'
+    title: Enumeration of duties not exclusive
+    status: ingested
+    path: statutes/ors-396.310.md
+  - number: '396.315'
+    title: Adjutant General as director of department
+    status: ingested
+    path: statutes/ors-396.315.md
+  - number: '396.320'
+    title: Organization of department
+    status: ingested
+    path: statutes/ors-396.320.md
+  - number: '396.325'
+    title: Army and air technicians as federal employees
+    status: ingested
+    path: statutes/ors-396.325.md
+  - number: '396.330'
+    title: Employees of military department; civil service status; conditions of employment; application
+      of civil service and employment laws
+    status: ingested
+    path: statutes/ors-396.330.md
+  - number: '396.332'
+    title: Authority of Oregon Military Department to require fingerprints for criminal records check
+    status: ingested
+    path: statutes/ors-396.332.md
+  - number: '396.335'
+    title: Drawing warrants
+    status: ingested
+    path: statutes/ors-396.335.md
+  - number: '396.337'
+    title: Cooperative agreements with federal National Guard Bureau; rules
+    status: ingested
+    path: statutes/ors-396.337.md
+  - number: '396.338'
+    title: Accounts for cooperative agreements
+    status: ingested
+    path: statutes/ors-396.338.md
+  - number: '396.340'
+    title: Receipt and disposition of certain federal moneys
+    status: ingested
+    path: statutes/ors-396.340.md
+  - number: '396.345'
+    title: Disposition of receipts generally
+    status: ingested
+    path: statutes/ors-396.345.md
+  - number: '396.355'
+    title: Property loss incident to activities of organized militia
+    status: ingested
+    path: statutes/ors-396.355.md
+  - number: '396.360'
+    title: Department programs for at-risk youth; policies and procedures
+    status: ingested
+    path: statutes/ors-396.360.md
+  - number: '396.362'
+    title: Oregon Military Emergency Financial Assistance Program
+    status: ingested
+    path: statutes/ors-396.362.md
+  - number: '396.364'
+    title: Oregon Military Emergency Financial Assistance Fund
+    status: ingested
+    path: statutes/ors-396.364.md
+  - number: '396.375'
+    title: Report to legislature on military cultural barriers ARMORIES,
+    status: ingested
+    path: statutes/ors-396.375.md
+  - number: '396.505'
+    title: Definition of “armory” for ORS 396.505 to
+    status: ingested
+    path: statutes/ors-396.505.md
+  - number: '396.510'
+    title: Control of armories and camps; care of property
+    status: ingested
+    path: statutes/ors-396.510.md
+  - number: '396.515'
+    title: Sale, exchange or lease of military department property
+    status: ingested
+    path: statutes/ors-396.515.md
+  - number: '396.520'
+    title: Applicability of laws governing sale, exchange or lease of military department property generally
+    status: ingested
+    path: statutes/ors-396.520.md
+  - number: '396.525'
+    title: Military Department Construction Account; disposition of moneys received from sale of real
+      property
+    status: ingested
+    path: statutes/ors-396.525.md
+  - number: '396.530'
+    title: Location of new armories; title to armories and grounds
+    status: ingested
+    path: statutes/ors-396.530.md
+  - number: '396.535'
+    title: Acquisition of property for military use; payment for use of property
+    status: ingested
+    path: statutes/ors-396.535.md
+  - number: '396.540'
+    title: Use of armories
+    status: ingested
+    path: statutes/ors-396.540.md
+  - number: '396.545'
+    title: Leases and agreements for use of armories
+    status: ingested
+    path: statutes/ors-396.545.md
+  - number: '396.555'
+    title: Oregon Military Museum established at Camp Withycombe
+    status: ingested
+    path: statutes/ors-396.555.md
+  - number: '396.560'
+    title: Grants and donations for Oregon Military Museum
+    status: ingested
+    path: statutes/ors-396.560.md
+  - number: '396.565'
+    title: Disposal of property
+    status: ingested
+    path: statutes/ors-396.565.md
+  - number: '396.595'
+    title: Military Family Appreciation Day
+    status: ingested
+    path: statutes/ors-396.595.md
 - chapter: '399'
   title: Organized Militia
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors399.html

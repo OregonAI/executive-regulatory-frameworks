@@ -4314,4 +4314,4 @@ the attestation the review gates call for. Corpus size by directory:
 - `rules/972/040/`: 3 documents
 - `rules/976/001/`: 2 documents
 - `rules/976/002/`: 4 documents
-- `statutes/`: 37465 documents
+- `statutes/`: 37534 documents
