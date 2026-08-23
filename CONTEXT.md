@@ -156,6 +156,18 @@ first collide nothing else in the repository would notice.
 _Avoid_: Status, unqualified. The two fields share a name and mean different things, which is
 why both entries exist
 
+**Worklist corpus state**:
+What the Oregon Bulletin's monthly worklist knows about a rule a filing named, and it is
+THREE things: `held` (a document is in `rules/`), `missing_from_mirrored_chapter` (this
+corpus mirrors the chapter and holds no document — a coverage gap) and
+`chapter_not_mirrored` (the chapter is outside the selection — a boundary, not a fault).
+It lives in `_meta/bulletin-worklist.yml` as `rules[].corpus_state`. It is a claim about
+THIS MIRROR and about nothing in Oregon law, which it shares with ingest status and not
+with legal status. The August 2026 bulletin put 121 rules in the second state, 43 of them
+amendments; the field it replaced, `in_corpus: true|false`, had no way to say so.
+_Avoid_: `in_corpus`, in corpus, held — the first is the two-state field this replaced,
+and reading the new spelling off the old name finds every value truthy
+
 **Part of**:
 The relation a unit bears to the body it is internal structure of. A unit is *part of* a
 body when nothing separately constitutes it — the Highway Division is how the Department of
