@@ -89,9 +89,13 @@
  
  Division 82 ASSESSMENT, ASSIGNMENT, AND SUPERVISION OF ADULTS IN CUSTODY FOR WORK ASSIGNMENTS AND UNFENCED MINIMUM HOUSING 
  291-082-0135 
- Inmate Work Crews Agreements 
+ Adult in Custody Work Crews Agreements
  
- (1) The Department of Corrections may, at its discretion, assign inmate work crews to work in the community on local, state, federal governmental agencies, private non-profit or private entity work projects.  (2) Facility functional unit managers will use private partnership review guidelines in determining appropriateness of private sector agreement requests. 
+ 
+ (1) The Department of Corrections may, at its discretion, assign adult in custody work crews to work in the community on work projects for local, state, or federal governmental agencies, and private entities, to include non-profit entities. 
+
+ (2) Department of Corrections facility functional unit managers will use private partnership review guidelines in determining appropriateness of private sector agreement requests. 
+
  
  
  
@@ -102,6 +106,21 @@
  Statutes/Other Implemented:  ORS 179.040, 421.425, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 23-2026, amend filed 07/29/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -142,7 +161,7 @@ CD 29-1997(Temp), f. & cert. ef. 12-12-97 thru 6-11-98
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

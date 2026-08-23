@@ -1,7 +1,7 @@
 note: 'Conflict candidates decidable BY CODE — no model involved. A hand-labelled taxonomy of the 137
   frontier-pilot candidates found 29% of them were of these four deterministic types, and a regex finds
   far more of them than the models did: the pilot reported 21 dead citations in total, this scan finds
-  2,152 DISTINCT dead targets, cited 5,734 times across 4,621 documents. READ THE DISTINCT COUNT, NOT
+  2,153 DISTINCT dead targets, cited 5,738 times across 4,624 documents. READ THE DISTINCT COUNT, NOT
   THE OCCURRENCES: they differ by ~2.7x because a single repealed section is cited by many rules — ORS
   184.616 alone is cited by 727 of them. Occurrences are the blast radius; distinct targets are the number
   of things to actually resolve, and they are heavily concentrated, so the top handful clear thousands
@@ -15,23 +15,23 @@ note: 'Conflict candidates decidable BY CODE — no model involved. A hand-label
   these four types so the two passes do not overlap.'
 scanned_rules: 36953
 counts:
-  distinct_dead_targets: 2152
-  dead_citation_occurrences: 5734
-  documents_affected: 4621
-  dead_citations: 5734
-  corpus_gap_not_ingested: 427
+  distinct_dead_targets: 2153
+  dead_citation_occurrences: 5738
+  documents_affected: 4624
+  dead_citations: 5738
+  corpus_gap_not_ingested: 428
   lapsed_but_current: 75
-  rule_predates_statute_amendment: 4630
+  rule_predates_statute_amendment: 4629
   malformed_citations: 50
 dead_citations_by_cause:
   chapter_absent: 70
-  oar_unclassified: 1646
-  renumbered_or_repealed: 4018
+  oar_unclassified: 1652
+  renumbered_or_repealed: 4016
 cause_meanings:
   renumbered_or_repealed: the chapter is current, but this section has left its table of contents
   chapter_absent: no such ORS chapter page exists upstream
   oar_unclassified: an OAR-to-OAR citation that did not resolve
-corpus_gap_note: 427 citations point at ORS sections that ARE catalogued upstream but have no document
+corpus_gap_note: 428 citations point at ORS sections that ARE catalogued upstream but have no document
   here. That is this corpus's ingestion gap, not a defect in the rule, and is counted separately so it
   is never reported as an agency's citation error.
 most_cited_dead_targets:
@@ -6209,6 +6209,15 @@ dead_citations:
 - rule: oar-410-172-0690
   cites: OAR 309-019-0326
   cause: oar_unclassified
+- rule: oar-410-172-0705
+  cites: OAR 410-172-0005
+  cause: oar_unclassified
+- rule: oar-410-172-0705
+  cites: OAR 410-173-0005
+  cause: oar_unclassified
+- rule: oar-410-172-0720
+  cites: OAR 410-173-0005
+  cause: oar_unclassified
 - rule: oar-410-172-0720
   cites: OAR 410-173-0015
   cause: oar_unclassified
@@ -7640,6 +7649,9 @@ dead_citations:
 - rule: oar-459-010-0003
   cites: OAR 459-005-0020
   cause: oar_unclassified
+- rule: oar-459-010-0014
+  cites: OAR 459-005-0015
+  cause: oar_unclassified
 - rule: oar-459-035-0001
   cites: ORS 1.314
   cause: renumbered_or_repealed
@@ -7673,6 +7685,9 @@ dead_citations:
 - rule: oar-459-075-0060
   cites: ORS 238A.010
   cause: renumbered_or_repealed
+- rule: oar-459-075-0150
+  cites: OAR 459-005-0015
+  cause: oar_unclassified
 - rule: oar-459-080-0060
   cites: ORS 238A.010
   cause: renumbered_or_repealed
@@ -8246,9 +8261,6 @@ dead_citations:
 - rule: oar-581-015-2000
   cites: OAR 581-051-2700
   cause: oar_unclassified
-- rule: oar-581-015-2030
-  cites: ORS 327.103
-  cause: renumbered_or_repealed
 - rule: oar-581-015-2075
   cites: OAR 581-015-0220
   cause: oar_unclassified
@@ -8299,9 +8311,6 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-581-015-2505
   cites: ORS 659.150
-  cause: renumbered_or_repealed
-- rule: oar-581-015-2595
-  cites: ORS 327.103
   cause: renumbered_or_repealed
 - rule: oar-581-015-2785
   cites: OAR 581-015-0945
@@ -8720,9 +8729,6 @@ dead_citations:
 - rule: oar-581-022-0102
   cites: OAR 581-022-1310
   cause: oar_unclassified
-- rule: oar-581-022-0102
-  cites: ORS 327.103
-  cause: renumbered_or_repealed
 - rule: oar-581-022-0103
   cites: OAR 581-021-0500
   cause: oar_unclassified
@@ -8738,9 +8744,6 @@ dead_citations:
 - rule: oar-581-022-2370
   cites: OAR 581-075-0001
   cause: oar_unclassified
-- rule: oar-581-022-2370
-  cites: ORS 327.103
-  cause: renumbered_or_repealed
 - rule: oar-581-022-2505
   cites: OAR 581-022-1110
   cause: oar_unclassified
@@ -11078,12 +11081,18 @@ dead_citations:
 - rule: oar-690-310-0160
   cites: OAR 690-002-0235
   cause: oar_unclassified
+- rule: oar-690-310-0200
+  cites: ORS 537.077
+  cause: renumbered_or_repealed
 - rule: oar-690-310-0210
   cites: OAR 690-002-0220
   cause: oar_unclassified
 - rule: oar-690-310-0220
   cites: OAR 690-002-0235
   cause: oar_unclassified
+- rule: oar-690-310-0220
+  cites: ORS 537.077
+  cause: renumbered_or_repealed
 - rule: oar-690-315-0060
   cites: OAR 690-002-0235
   cause: oar_unclassified
@@ -11198,6 +11207,9 @@ dead_citations:
 - rule: oar-695-003-0040
   cites: ORS 192.410
   cause: renumbered_or_repealed
+- rule: oar-695-046-0200
+  cites: OAR 695-005-0045
+  cause: oar_unclassified
 - rule: oar-695-046-0215
   cites: OAR 659-046-0185
   cause: oar_unclassified

@@ -89,9 +89,21 @@
  
  Division 48 MENTAL HEALTH SPECIAL HOUSING 
  291-048-0240 
- Mental Health Special Housing Assignment 
+ Assignment to Mental Health Special Housing 
  
- (1) An inmate will be assigned to a mental health special housing unit based on the least restrictive environment that satisfies the needed level of care.  (2) Mental health special housing includes Mental Housing Infirmary, Intermediate Care Housing, and the Behavioral Health Unit. The assignment process varies dependent on the specific unit.  (a) Assignment to a Mental Health Infirmary will be made in accordance with OAR 291-048-0250 to 0260.  (b) Assignment to Intermediate Care Housing will be made in accordance with OAR 291-048-0270  (c) Assignment to a Behavioral Health Unit will be made in accordance with OAR 291-048-0280  (3) Once an inmate has been assigned to a mental health special housing unit, the inmate may be assigned to other mental health special housing units for treatment as deemed necessary or advisable by the mental health treatment team. However, an inmate may only be assigned to a Mental Health Infirmary by order of the treating practitioner. 
+ 
+ (1) An adult in custody will be assigned to a mental health special housing unit based on the least restrictive environment that satisfies the needed level of care. 
+
+ (2) Mental health special housing includes Mental Health Infirmaries , Intermediate Care Housing, and the Behavioral Health Units . The assignment process varies dependent on the specific unit. 
+
+ (a) Assignment to a Mental Health Infirmary will be made in accordance with OAR 291-048-0250 to 0260. 
+
+ (b) Assignment to Intermediate Care Housing will be made in accordance with OAR 291-048-0270 . 
+
+ (c) Assignment to a Behavioral Health Unit will be made in accordance with OAR 291-048-0280 . 
+
+ (3) Once an adult in custody has been assigned to a mental health special housing unit, the individual may be assigned to other mental health special housing units for treatment as deemed necessary or advisable by the mental health treatment team. However, an individual may only be assigned to a Mental Health Infirmary by order of the prescribing practitioner. 
+
  
  
  
@@ -102,6 +114,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 25-2026, amend filed 07/30/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -139,7 +166,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

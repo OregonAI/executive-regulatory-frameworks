@@ -122,7 +122,7 @@
 
  (F) Course(s) on General Appraiser Report Writing and Case Studies (30 hours in not less than 15 hour increments); and 
 
- (G) Appraisal Subject Matter Electives (30 hours in not less than 15 hour increments). 
+ (G) Appraisal Subject Matter Electives (22 hours in not less than 15 hour increments). 
 
  (b) Applicants holding a valid Oregon State Licensed Appraiser credential may satisfy the educational requirements for the State Certified General Appraiser credential by completing the following additional education hours: 
 
@@ -138,7 +138,7 @@
 
  (F) Course(s) on General Appraiser Report Writing and Case Studies (15 hours); and 
 
- (G) Appraisal Subject Matter Electives (30 hours in not less than 15 hour increments). 
+ (G) Appraisal Subject Matter Electives (22 hours in not less than 15 hour increments). 
 
  (c) Applicants holding a valid Oregon State Certified Residential Appraiser credential may satisfy the educational requirements for the State Certified General Appraiser credential by completing the following additional education hours: 
 
@@ -164,6 +164,21 @@
  Statutes/Other Implemented:  ORS 674 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ACLB 2-2026, amend filed 07/22/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -479,7 +494,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

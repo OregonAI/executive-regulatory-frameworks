@@ -94,19 +94,21 @@
  
  (1) Definitions. For purposes of this rule: 
 
- (a) “Cure period” is that time from when a default occurs until the end of the quarter following the quarter in which the default occurred. 
+ (a) “Automated Clearing House (ACH)” means an electronic funds transfer system that enables the transfer of funds between financial institutions through a centralized network, used for the purpose of processing loan repayments from a participant’s designated financial account. 
 
- (b) “Deferred Compensation Account” means the account described in OAR 459-050-0001, but does not include any amount in the Self-Directed Brokerage Option. 
+ ( b ) “Cure period” is that time from when a default occurs until the end of the quarter following the quarter in which the default occurred. 
 
- (c) “Designated Roth Account” means the account described in OAR 459-050-0001, but does not include any amount in the Self-Directed Brokerage Option. 
+ ( c ) “Deferred Compensation Account” means the account described in OAR 459-050-0001, but does not include any amount in the Self-Directed Brokerage Option. 
 
- (d) “Loan balance” means the outstanding principal and accrued interest due on the loan. 
+ ( d ) “Designated Roth Account” means the account described in OAR 459-050-0001, but does not include any amount in the Self-Directed Brokerage Option. 
 
- (e) “Participant Loan” means a loan that affects the Deferred Compensation Account, Designated Roth Account, or a combination of both, of a participant. 
+ ( e ) “Loan balance” means the outstanding principal and accrued interest due on the loan. 
 
- (f) “Promissory note” means the agreement of loan terms between the Program and a participant. 
+ ( f ) “Participant Loan” means a loan that affects the Deferred Compensation Account, Designated Roth Account, or a combination of both, of a participant. 
 
- (g) “Third Party Administrator (TPA)” means the entity providing record keeping and administrative services to the Program. 
+ ( g ) “Promissory note” means the agreement of loan terms between the Program and a participant. A promissory note may include authorization for repayment by payroll deduction or by automatic electronic funds transfer through an Automated Clearing House (“ACH”) 
+
+ ( h ) “Third Party Administrator (TPA)” means the entity providing record keeping and administrative services to the Program. 
 
  (2) Eligibility for loan. Participants who are currently employed by a Plan Sponsor that has agreed to participate in a Participant Loan program are eligible for a Participant Loan. Retired participants, participants separated from employment, designated beneficiaries, and alternate payees are not eligible. 
 
@@ -138,7 +140,9 @@
 
  (c) A participant may only have one outstanding loan. 
 
- (d) A participant who has received a loan may not apply for another loan until 12 months from the date the previous loan was paid in full. 
+ (d) A participant who has received a loan may not apply for another loan until the previous loan was paid in full. 
+
+ (e) No loan may be issued to a participant if the participant has any Participant Loan that has been treated as a deemed distribution under section (11) of this rule and that has not been repaid or cancelled. 
 
  (8) Source of Loan: The loan amount will be deducted from a participant’s Deferred Compensation Account, Designated Roth Account, or a combination of both. 
 
@@ -150,17 +154,19 @@
 
  (9) Repayment Terms: The loan amount will be amortized over the repayment period of the loan with interest compounded daily to calculate a level payment for the duration of the loan. 
 
- (a) Loan payments must be made by payroll deduction. To receive a loan from the Program a participant must enter into a payroll deduction agreement. For the purposes of this rule, a promissory note or other document that includes the payroll deduction amount and is signed by a participant as a requirement to obtain a loan may be a payroll deduction agreement. Except as provided in this rule, a participant may not submit a loan payment directly to the Program or the Third Party Administrator. 
+ (a) A participant may elect loan payments by payroll deduction or by automatic electronic transfer through ACH authorization. To receive a loan from the Program a participant must enter into a payroll deduction agreement or, if electing ACH repayment, execute an ACH authorization agreement. For the purposes of this rule, a promissory note or other document that includes the payroll deduction amount or ACH transfer amount and is signed by a participant as a requirement to obtain a loan may be a payroll deduction agreement or ACH authorization agreement . Except as provided in this rule, a participant may not submit a loan payment directly to the Program or the Third Party Administrator. 
 
- (b) A participant is responsible for loan repayment even if the employer fails to deduct or submit payments as directed under the payroll deduction agreement. To avoid defaulting on a loan by reason of the employer’s failure to deduct or submit a payment a participant may submit a loan payment by sending a money order or certified check to the Third Party Administrator. 
+ (b) A participant is responsible for loan repayment even if the employer fails to deduct or submit payments as directed under the payroll deduction agreement or if a scheduled payment is not completed under an ACH authorization. To avoid defaulting on a loan due to a missed or failed payment, the participant must cure the payment by submitting it in a form and manner acceptable to the Program or the Third Party Administrator, including but not limited to ACH resubmission, money order, or certified check . 
 
- (c) A participant may repay the loan balance in a single payment at any time before the date the final loan payment is due. 
+ (c) The Program or TPA may reinitiate returned ACH debits in accordance with NACHA operating rules and Program procedures. 
 
- (d) Partial payment of a scheduled payment and partial prepayment or advance payment of future payments may not be permitted. 
+ ( d ) A participant may repay the loan balance in a single payment at any time before the date the final loan payment is due. 
 
- (e) Loan payments will be allocated in a participant’s account(s) in the same manner as the participant’s current contribution allocation. If, for any reason, the allocation is not known, the payment will be allocated to the Stable Value Option. 
+ ( e ) Partial payment of a scheduled payment and partial prepayment or advance payment of future payments may not be permitted. 
 
- (f) Any overpayment will be refunded to the participant. 
+ ( f ) Loan payments will be allocated in a participant’s account(s) in the same manner as the participant’s current contribution allocation. If, for any reason, the allocation is not known, the payment will be allocated to the Stable Value Option. 
+
+ ( g ) Any overpayment will be refunded to the participant. 
 
  (10) Leave of Absence. Terms of outstanding loans are not subject to revision except as provided in this section. 
 
@@ -168,7 +174,7 @@
 
  (A) Interest on a loan continues to accrue during a leave of absence. 
 
- (B) A participant must immediately resume payments by payroll deduction upon return to work. 
+ (B) A participant must immediately resume payments by payroll deduction or ACH upon return to work. 
 
  (C) The loan balance will be re-amortized upon the participant’s return to work to be repaid within the remaining loan repayment period. 
 
@@ -180,7 +186,7 @@
 
  (A) A leave of absence for military service longer than one year will not cause a loan to be in default. 
 
- (B) Loan payments by payroll deduction must resume upon the participant’s return to work. 
+ (B) Loan payments by payroll deduction or ACH must resume upon the participant’s return to work. 
 
  (C) The original repayment period of a loan will be extended for the period of military service or to the maximum repayment period allowed for that type of loan, whichever is greater. 
 
@@ -188,7 +194,7 @@
 
  (E) The loan balance will be re-amortized upon the participant's return to work to be repaid within the remaining loan repayment period as determined under paragraph (C) of this subsection. 
 
- (c) A participant on an authorized leave of absence or military leave may submit loan payments by sending a money order or certified check to the Third Party Administrator. 
+ (c) A participant on an authorized leave of absence or military leave may submit loan payments in a form and manner acceptable to the Program or the Third Party Administrator, including but not limited to electronic payment, money order, or certified check. 
 
  (11) Tax Reporting. 
 
@@ -206,11 +212,11 @@
 
  (a) A loan is in default if a payment is not paid as scheduled or under any of the provisions set forth in this rule, the promissory note, or any related loan agreement. 
 
- (b) A loan is in default if the participant separates from employment with the plan sponsor that administers the loan payment payroll deductions. 
+ (b) A loan is in default if the participant separates from employment with the plan sponsor that administers the loan payment payroll deductions and does not continue repayment through ACH. 
 
- (c) If a participant with a loan in default resumes loan payments by payroll deduction before the end of the cure period, the default will be cured. The participant must pay any missed payments and accrued interest before the end of the loan repayment period. 
+ (c) If a participant with a loan in default resumes loan payments by payroll deduction or ACH before the end of the cure period, the default will be cured. The participant must pay any missed payments and accrued interest before the end of the loan repayment period. 
 
- (d) Except as provided in subsection (c) of this section, if the participant does not cure a default by repaying the loan balance before the end of the cure period, the loan balance will be reported as a taxable distribution to the participant as provided in section (11) of this rule. 
+ (d ) Except as provided in subsection (c) of this section, if th e participant does not cure a default before the end of the cure period, the loan balance will be reported as a taxable distribution to the participant as provided in section (11) of this rule. 
 
  (13) Notwithstanding any other sections of this rule, a participant who self-certifies through a process provided by the Deferred Compensation Program as a “qualified individual” as that term is defined in the Coronavirus Aid, Relief, and Economic Security Act of 2020, will have any repayment due date between March 27 and December 31, 2020 delayed for one year. 
 
@@ -231,9 +237,24 @@
  Statutory/Other Authority:  ORS 243.470 
  
  
- Statutes/Other Implemented:  ORS 243.401–243.507 & Pub. L. No. 116-136 
+ Statutes/Other Implemented:  ORS 243.401, Pub. L. No. 116-136 & ORS 243.411 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 9-2026, amend filed 07/24/2026, effective 07/24/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -352,7 +373,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

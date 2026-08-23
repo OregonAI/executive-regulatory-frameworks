@@ -89,9 +89,41 @@
  
  Division 48 MENTAL HEALTH SPECIAL HOUSING 
  291-048-0260 
- Involuntary Assignment to a Mental Health Infirmary 
+ Involuntary Assignment to a Mental Health Infirmary
  
- (1) Emergency:  (a) An inmate may be involuntarily assigned to a Mental Health Infirmary for evaluation for a period not to exceed five working days by order of the BHS program manager, treating practitioner, or functional unit manager, only upon a finding of reasonable grounds.  (b) The decision to place an inmate in a Mental Health Infirmary will be based on the recommendation of the mental health staff, psychologist, thee Medical Services manager, or available program staff. Other pertinent staff reports may also be considered.  (c) If the inmate is placed in a Mental Health Infirmary on an emergency basis, the functional unit manager shall inform the inmate in writing.  (d) Assessment: Within five working days following assignment to a Mental Health Infirmary, the mental health treatment team will assess the need for treatment. The following mental health data shall be considered by the treating practitioner in making the assessment:  (A) Existence and type of disorder;  (B) Potential therapeutic effect of a change in environment;  (C) Potential for development of a comprehensive program for treatment of the inmate that is available within a Mental Health Infirmary and is likely to benefit the inmate;  (D) Ability to function in the general population; and  (E) Any other factors substantially related to the mental health of the inmate as applicable, including staff observation, individual diagnostic interviews and tests assessing intellect and coping abilities.  (e) Upon completion of the assessment and compilation of the inmate's mental health history:  (A) If the mental health treatment team determines the inmate is not in need of the level of care in a Mental Health Infirmary, the inmate will be returned to his/her former status or referred to mental health treatment as appropriate.  (B) If the mental health treatment team determines the inmate is in need of the level of care in a Mental Health Infirmary, an overall treatment plan will be developed with appropriate referral as needed.  (f) The inmate will be given the opportunity to voluntarily admit himself/herself to a Mental Health Infirmary.  (g) If the inmate is unwilling to be voluntarily admitted, the treating practitioner may admit the inmate on an involuntary basis.  (A) The treating practitioner will notify and deliver a copy of the Notice of Emergency/Involuntary Assignment to Mental Health Special Housing (CD 1567) to the functional unit manager.  (B) The functional unit manager will notify the hearings officer.  (C) The hearings officer will make arrangements to conduct an involuntary assignment hearing as outlined in OAR 291-048-0290 within five working days after completion of the evaluation.  (2) Non-Emergency:  (a) If an inmate is thought by any staff member to be in need of mental health treatment in a Mental Health Infirmary, the concerned staff member may submit a recommendation for a mental health evaluation as described in OAR 291-048-0230.  (b) If the mental health specialist recommends placement in Mental Health Infirmary, admission consideration will follow as provided in section (1)(d)(A)–(E) of this rule, with notification to the functional unit manager.  (c) The inmate will be given the opportunity to voluntarily admit himself/herself to a Mental Health Infirmary. If the inmate is unwilling to be voluntarily admitted, the treating practitioner may admit the inmate on an involuntary basis.  (A) The treating practitioner will notify and deliver a copy of the Notice of Emergency/Involuntary Assignment to Mental Health Special Housing (CD 1567) to the functional unit manager.  (B) The functional unit manager will notify the hearings officer.  (C) The hearings officer will make arrangements to conduct an involuntary assignment hearing as outlined in OAR 291-048-0290 within five working days after completion of the evaluation.  (3) Recommended Length of Stay: In all instances where assignment is recommended, the treating practitioner will include a recommendation for the length of stay in a Mental Health Infirmary, not to exceed 180 days. 
+ 
+ (1) An adult in custody may be involuntarily assigned to a Mental Health Infirmary for evaluation for a period not to exceed five working days , by approval of the Behavioral Health Services program manager, prescribing practitioner, or Behavioral Health Services administrator for the Mental Health Infirmary or designee , only upon a finding of reasonable grounds. 
+
+ (2 ) Assessment: Within five working days following assignment to a Mental Health Infirmary, the mental health treatment team will assess the need for treatment. The following mental health information shall be considered by the prescribing practitioner in making the assessment: 
+
+ (a) Mental health diagnoses;  
+
+ (b ) Potential therapeutic effect of a change in environment; 
+
+ ( c ) Potential for development of an individualized treatment plan for the adult in custody that is available within a Mental Health Infirmary and is likely to benefit the adult in custody ; 
+
+ ( d ) Ability to function in the general population; and 
+
+ ( e ) Any other factors substantially related to the mental health of the adult in custody, as applicable, including observations made by employees , individual diagnostic interviews , and tests assessing intellect and coping abilities. 
+
+ ( 3 ) Upon completion of the assessment and compilation of the adult in custody's mental health history: 
+
+ ( a ) If the mental health treatment team determines the adult in custody is not in need of the level of care in a Mental Health Infirmary, the adult in custody will be returned to their former status or referred to mental health treatment , as appropriate. 
+
+ ( b ) If the mental health treatment team determines the adult in custody needs the level of care in a Mental Health Infirmary, an individualized treatment plan will be developed .   
+
+ ( 4 ) The adult in custody will be given the opportunity to voluntarily admit to a Mental Health Infirmary. 
+
+ ( 5 ) If the adult in custody is unwilling to be voluntarily admitted, the prescribing practitioner may admit the adult in custody on an involuntary basis. 
+
+ ( a ) The prescribing practitioner will deliver notice of Emergency/Involuntary Assignment to Mental Health Special Housing ( CD1567 ) to the institution’s functional unit manager. 
+
+ ( b ) The institution’s functional unit manager will notify the Hearings Officer of the involuntary assignment . 
+
+ ( c ) The Hearings Officer will arrange to conduct an involuntary assignment hearing as outlined in OAR 291-048-0290 within five working days or as soon as practicable after completion of the evaluation. 
+
+ ( 6 ) Recommended Length of Stay: In all instances where involuntary assignment is recommended, the prescribing practitioner will include a recommendation for the length of stay in a Mental Health Infirmary, not to exceed 180 days. 
+
  
  
  
@@ -102,6 +134,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 25-2026, amend filed 07/30/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -255,7 +302,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

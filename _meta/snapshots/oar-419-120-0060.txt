@@ -80,9 +80,9 @@
  
  
  
- Office of Training, Investigations and Safety 
- Chapter 419 
  
+ Department of Human Services 
+ Office of Training, Investigations and Safety - Chapter 419 
  
  
  
@@ -156,8 +156,8 @@
  
  
  
- 
  OTIS 5-2026, amend filed 07/08/2026, effective 07/08/2026 
+ 
  
  
  
@@ -282,7 +282,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

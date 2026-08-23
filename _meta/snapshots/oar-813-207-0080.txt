@@ -93,9 +93,9 @@
  
  The following are requirements upon any contractor or grantee completing eligible measures for SHOW Program cash payments: 
 
- (1) The installing contractor or grantee must comply with all applicable federal, state, and local laws and regulations when completing eligible measures. 
+ (1) The installation contractor or grantee must comply with all applicable federal, state, and local laws and regulations when completing eligible measures. 
 
- (2) The installing contractor or grantee must provide warranties on labor and installation of energy conservation measures for at least one year after the installation date. The installing contractor or grantee must forward on any warranties on materials, manufacturing process, and design to the dwelling owner. 
+ (2) The installation contractor or grantee must provide warranties on labor and installation of energy conservation measures for at least one year after the installation date. The installation contractor or grantee must forward any warranties on materials, manufacturing process, and design to the dwelling owner. 
 
  
  
@@ -107,6 +107,21 @@
  Statutes/Other Implemented:  ORS 456.594-456.599 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 22-2026, amend filed 07/29/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -150,7 +165,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

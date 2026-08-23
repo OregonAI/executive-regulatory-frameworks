@@ -164,6 +164,37 @@ undifferentiated set, which is the collapse #229 exists to prevent.
 _Avoid_: Bulletin action, filing type — a filing also adopts, amends and renumbers, and those
 three change TEXT, re-ingest without asking (#230) and set no legal status at all
 
+**Filed text action**:
+What the Oregon Bulletin did to a rule's TEXT, as opposed to its force — `adopt`, `amend`
+or `renumber`, the three of `check_bulletin.ACTIONS` that ADR 0006 routes to an AUTOMATIC
+re-ingest instead of to a person. It lives in `reingest_oar.TEXT_ACTIONS`, and the two
+tables together must cover `check_bulletin.ACTIONS` EXACTLY ONCE — a verb in neither is
+read by nothing, a verb in both is re-ingested and reviewed with the re-ingest running
+first, and `reingest_oar.py --check` fails on all three. The table is DECLARED rather than
+derived as "everything that is not a force action", because a complement makes a verb
+nobody has classified re-ingest unattended the day it appears upstream. A rule the same
+bulletin ALSO took out of force is refused by rule and not by row: August 2026 amended 12
+rules it repealed or suspended, and re-ingesting them would leave the whole safety property
+resting on `legal_status.resolve()` being handed the right argument one line later.
+Measured on the August 2026 bulletin: 318 amendments against rules this corpus holds, 306
+re-ingested and 12 refused by name.
+_Avoid_: Amendment, text change — an adoption and a renumber are neither, and a renumber
+that changes a rule's number does not change the text under it
+
+**Re-ingest record**:
+What a catalog row says about a text refresh this corpus applied without asking anybody. It
+lives on the OAR catalog row as `reingest_action` and `reingest_notice`, which arrive
+together or `reingest_oar.py --check` refuses the row — the notice alone cannot say which
+filing was applied and the action alone is a fact about no particular month. It is a claim
+about THIS MIRROR, like ingest status and unlike legal status, and it never appears on a
+row that carries a Bulletin-set `legal_status`: a rule out of force is MARKED AND LEFT
+(ADR 0006) and an unattended write to one is how a repealed rule comes back as current
+under provenance. `reingest_oar.py --check` reads the committed worklist and demands the
+record for every text action filed against a held rule, so the gate cannot be satisfied by
+a corpus that re-ingested nothing.
+_Avoid_: Status, unqualified — the OAR catalog row already spells two different fields that
+way and this is a third fact about the same rule
+
 **Ingest status**:
 Whether this corpus holds a copy of a rule, and in what shape. It lives in
 `_meta/catalog/oar.yml` as `rules[].status`, with its own vocabulary — `ingested` (36,474),

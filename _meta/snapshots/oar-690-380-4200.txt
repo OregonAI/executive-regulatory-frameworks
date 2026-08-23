@@ -109,9 +109,24 @@
  Statutory/Other Authority:  ORS 536.025 & ORS 536.027 
  
  
- Statutes/Other Implemented:  ORS 540.510 - 540.532 & Or Laws 2025, ch 575 
+ Statutes/Other Implemented:  ORS 540.510 - 540.532, ORS 536.076, ORS 536.077 & ORS 537.620 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 54-2026, minor correction filed 07/31/2026, effective 07/31/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -167,7 +182,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

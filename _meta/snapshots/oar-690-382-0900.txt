@@ -92,7 +92,7 @@
  Protests and Hearings
  
  
- (1) Protests of, requests for party status, and contested case proceedings concerning proposed final orders are governed by Or Laws 2025, ch575, sections 2 and 3. and OAR chapter 690, division 2. 
+ (1) Protests of, requests for party status, and contested case proceedings concerning proposed final orders are governed by ORS 536.076, ORS 536.077, and OAR chapter 690, division 2. 
 
  (2) Within 45 days after the publication in the Department’s weekly public notice, any person may file a protest against the proposed final order. 
 
@@ -103,9 +103,24 @@
  Statutory/Other Authority:  ORS 536.025, ORS 536.027 & ORS 537.610 
  
  
- Statutes/Other Implemented:  ORS 537.610, ORS 540.505-540.532 & Or Laws 2025, ch 575 
+ Statutes/Other Implemented:  ORS 537.610, ORS 536.076 & ORS 536.077 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 26-2026, minor correction filed 07/30/2026, effective 07/30/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -149,7 +164,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

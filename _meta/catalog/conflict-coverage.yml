@@ -10,7 +10,7 @@ summary:
   unscreened: 78
   chapter: 89
   sections_screened_total: 1843
-  sections_with_rules_total: 6176
+  sections_with_rules_total: 6180
 chapters:
 - chapter: '192'
   depth: sections-partial
@@ -336,14 +336,14 @@ chapters:
   priority: 72.4
 - chapter: '537'
   depth: sections-partial
-  sections_with_rules: 69
+  sections_with_rules: 71
   sections_screened: 2
   n_agencies: 4
-  n_rules: 340
+  n_rules: 342
   audit_cited: false
   runs:
   - haiku-scan-2026-07-31
-  priority: 71.6
+  priority: 71.9
 - chapter: 468b
   depth: unscreened
   sections_with_rules: 54
@@ -384,7 +384,7 @@ chapters:
   priority: 61.4
 - chapter: '243'
   depth: unscreened
-  sections_with_rules: 18
+  sections_with_rules: 19
   sections_screened: 0
   n_agencies: 3
   n_rules: 104
@@ -393,7 +393,7 @@ chapters:
   priority: 61.2
 - chapter: '541'
   depth: unscreened
-  sections_with_rules: 29
+  sections_with_rules: 30
   sections_screened: 0
   n_agencies: 4
   n_rules: 223

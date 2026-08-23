@@ -89,9 +89,21 @@
  
  Division 82 ASSESSMENT, ASSIGNMENT, AND SUPERVISION OF ADULTS IN CUSTODY FOR WORK ASSIGNMENTS AND UNFENCED MINIMUM HOUSING 
  291-082-0130 
- Work Housing Assignment Level Evaluation Quality Assurance Review 
+ Work Housing Assignment Level Evaluation Quality Assurance Review
  
- (1) The Office of Population Management is responsible for reviewing institution WHALE procedures and decisions.  (2) Reviewing shall consist of routine review of Work Housing Assignment Level Evaluations at each DOC facility. Such reviews shall be conducted to ensure:  (a) The policies and procedures set forth in this rule are followed; and  (b) The actions taken by the facility are adequately documented.  (3) Findings inconsistent with rule and established procedures shall be documented and reported to the appropriate functional unit manager or to the appropriate Operations Division Institution Administrator for corrective action.  (4) The Office of Population Management is responsible to review the last WHALE for any inmate who is involved in an escape or escape attempt from a Department of Corrections facility and to submit a report to the appropriate Institution Administrator. 
+ 
+ (1) The Office of Population Management is responsible for reviewing institution Work Housing Assignment Level Evaluation procedures and decisions. 
+
+ (2) Reviewing shall consist of routine review of Work Housing Assignment Level Evaluations at each Department of Corrections facility. Such reviews shall be conducted to ensure: 
+
+ (a) The policies and procedures set forth in this rule are followed; and 
+
+ (b) The actions taken by the Department of Corrections facility are adequately documented. 
+
+ (3) Findings inconsistent with rule and established procedures shall be documented and reported to the appropriate functional unit manager or to the appropriate Institution Administrator for corrective action. 
+
+ (4) The Office of Population Management is responsible to review the last Work Housing Assignment Level Evaluation for any adult in custody who is involved in an escape or escape attempt from a Department of Corrections facility and to submit a report to the appropriate Institution Administrator. 
+
  
  
  
@@ -102,6 +114,21 @@
  Statutes/Other Implemented:  ORS 179.040, 421.425, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 23-2026, amend filed 07/29/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -163,7 +190,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

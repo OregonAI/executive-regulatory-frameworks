@@ -89,9 +89,15 @@
  
  Division 48 MENTAL HEALTH SPECIAL HOUSING 
  291-048-0320 
- Release From Mental Health Special Housing 
+ Release From Mental Health Special Housing
  
- (1) Upon inmate petition, an inmate assigned to mental health special housing on a voluntary basis will be reassigned to a less restrictive environment within five working days, unless the mental health treatment team determines continued treatment at the current level of care is necessary. In such instances, the mental health treatment team shall follow the procedures for involuntary assignment outlined in OAR 291-048-0290.  (2) An inmate assigned involuntarily to mental health special housing will remain so assigned for only the shortest length of time necessary to achieve the purpose(s) for which the assignment was prescribed. The assignment shall not exceed 180 days unless the assignment is renewed in a subsequent administrative hearing as outlined in OAR 291-048-0290.  (3) When an inmate is released from mental health special housing, the mental health treatment team, in collaboration with the Office of Population Management, will determine the appropriate housing assignment; e.g., general population, Intensive Management Unit, disciplinary segregation, administrative housing, etc. 
+ 
+ (1) Upon petition by an adult in custody, an adult in custody assigned to mental health special housing on a voluntary basis will be reassigned to a less restrictive environment within five working days, unless the mental health treatment team determines continued treatment at the current level of care is necessary. In such instances, the mental health treatment team shall follow the procedures for involuntary assignment outlined in OAR 291-048-0290. 
+
+ (2) An adult in custody assigned involuntarily to mental health special housing will remain so assigned for only the shortest length of time necessary to achieve the purpose(s) for which the assignment was prescribed. The assignment shall not exceed 180 days unless the assignment is renewed in a subsequent administrative hearing as outlined in OAR 291-048-0290. 
+
+ (3) When an adult in custody is released from mental health special housing, the mental health treatment team, in collaboration with the Office of Population Management, will determine the appropriate housing assignment. 
+
  
  
  
@@ -102,6 +108,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 25-2026, amend filed 07/30/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -139,7 +160,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

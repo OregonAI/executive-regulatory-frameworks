@@ -76,6 +76,8 @@
  
  
  
+   Temporary rule language in effect until 01/27/2027. 
+ 
  
  
  
@@ -127,7 +129,7 @@
 
  (C) A resident’s gender transition status; or 
 
- (D) A resident’s human immunodeficiency virus status. 
+ (D) A resident’s human immunodeficiency virus (HIV) status. 
 
  (c) The AFH shall take appropriate steps to minimize the likelihood of inadvertent or accidental disclosure of information described in subsection (b) of this section to other residents, visitors or AFH caregivers, except to the minimum extent necessary for AFH caregivers to perform their duties. The AFH must notify the resident or resident’s representative if the AFH inadvertently or accidentally discloses such information to unauthorized persons. 
 
@@ -147,7 +149,9 @@
 
  (c) A licensee or administrator must notify the LLA, the residents and the resident's family members, representatives, and case managers, as applicable, of any change in the telephone number for the licensee or the AFH within 24 hours of the change. 
 
- (d) A licensee must notify the LLA in writing before any change of the licensee's residence or mailing address. 
+ (d) A licensee or administrator must notify the LLA in writing before any change of the licensee's residence or mailing address. 
+
+ (e) Any proposed change to policies and procedures must be submitted to the LLA for review and approval, as required by OAR 411-049-0135. 
 
  (8) MEALS. 
 
@@ -205,6 +209,21 @@
  Statutes/Other Implemented:  ORS 197.660 - 197.670, 409.050, 410.070, 413.085, 441.114, 441.373, 443.001 - 443.004, 443.705 - 443.825, 443.875 & 443.991 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 20-2026, temporary amend filed 07/29/2026, effective 08/01/2026 through 01/27/2027 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -338,7 +357,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

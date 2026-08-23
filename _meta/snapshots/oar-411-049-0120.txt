@@ -76,6 +76,8 @@
  
  
  
+   Temporary rule language in effect until 01/27/2027. 
+ 
  
  
  
@@ -101,13 +103,11 @@
 
  (3) A new background check must be completed: 
 
- (a) Every two years. 
+ (a) Every three years; or 
 
- (b) Prior to any subject individual's change in employment position. 
+ (b) If the Department has reason to believe a new background check is needed. 
 
- (c) If the Department has reason to believe a new background check is needed. 
-
- (4) If the SI is approved and in good standing on the Background Check Unit's registry pursuant to OAR 407-007-0600 to 407-007-0640, two-year renewals and changes in position may be handled through the registry. 
+ (4) If the SI is approved and in good standing on the Background Check Unit's registry pursuant to OAR 407-007-0600 to 407-007-0640, three-year renewals and changes in position may be handled through the registry. 
 
  (5) An SI may be hired on a preliminary basis following completion of a preliminary fitness determination according to the background check rules. An SI who is hired on a preliminary basis shall be actively supervised at all times they are on duty by a qualified caregiver who has been approved without restrictions. Active supervision means a qualified caregiver must: 
 
@@ -115,7 +115,7 @@
 
  (b) Know where the SI is and what the SI is doing. 
 
- (6) PORTABILITY OF BACKGROUND CHECK APPROVAL. A subject individual may be approved to work in multiple homes in Oregon only when the subject individual is working in the same employment position. 
+ (6) PORTABILITY OF BACKGROUND CHECK APPROVAL. A subject individual may be approved to work in multiple homes in Oregon. 
 
  (7) On or after July 28, 2009, no licensee, licensee applicant, or employee of the licensee who has been convicted of any of the disqualifying crimes listed in OAR 407-007-0275 shall be approved by the Department to provide care and services in an AFH. This rule does not apply to: 
 
@@ -143,12 +143,27 @@
  
  
  
- Statutory/Other Authority:  ORS 181A.200, 409.050, 410.070, 413.085, 443.001, 443.004 & 443.730, 443.735, 443.767, 443.775, 443.790 
+ Statutory/Other Authority:  ORS 181A.200, 409.050, 410.070, 413.085, 443.001, 443.004, 443.730, 443.735, 443.767, 443.775 & 443.790 
  
  
- Statutes/Other Implemented:  ORS 181A.200, 409.050, 410.070, 413.085, 443.001 - 443.004 & 443.705 - 443.825, 443.875, 443.991 
+ Statutes/Other Implemented:  ORS 181A.200, 409.050, 410.070, 413.085, 443.001 - 443.004, 443.705 - 443.825, 443.875 & 443.991 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 20-2026, temporary amend filed 07/29/2026, effective 08/01/2026 through 01/27/2027 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -177,7 +192,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

@@ -92,9 +92,9 @@
  Protests
  
  
- (1) Protests of and contested case proceedings concerning proposed final orders are governed by Or Laws 2025, ch 575 and OAR chapter 690, division 002, except that the issues raised in the protest must directly pertain to whether the proposed replacement water right permits are authorized under and in conformance with ORS 537.225. Proposed final orders and draft replacement permits shall become final if no protest is filed or by default as provided in OAR 690-002-0235. In addition to any other authority the Water Resources Department may have, if a protest is properly filed, the Department may work with the applicant and the person filing the protest to determine whether the issues raised by the protest can be resolved informally. 
+ (1) Protests of and contested case proceedings concerning proposed final orders are governed by ORS 536.076, ORS 536.077, and OAR chapter 690, division 002, except that the issues raised in the protest must directly pertain to whether the proposed replacement water right permits are authorized under and in conformance with ORS 537.225. Proposed final orders and draft replacement permits shall become final if no protest is filed or by default as provided in OAR 690-002-0235. In addition to any other authority the Water Resources Department may have, if a protest is properly filed, the Department may work with the applicant and the person filing the protest to determine whether the issues raised by the protest can be resolved informally. 
 
- (2) Notwithstanding ORS 183.310, Or Laws 2025, ch 575 sections 2 and 3, and OAR 690-002, the parties to a contested case hearing held under this section are limited to: 
+ (2) Notwithstanding ORS 183.310, ORS 536.076, ORS 536.077, and OAR 690-002, the parties to a contested case hearing held under this section are limited to: 
 
  (a) The applicant for the water right permit assignment; and 
 
@@ -107,9 +107,24 @@
  Statutory/Other Authority:  ORS 536.027 
  
  
- Statutes/Other Implemented:  ORS 537.227, ORS 537.225 & Or Laws 2025, ch 575 
+ Statutes/Other Implemented:  ORS 537.227, ORS 537.225, ORS 536.076 & ORS 536.077 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 25-2026, minor correction filed 07/30/2026, effective 07/30/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -153,7 +168,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

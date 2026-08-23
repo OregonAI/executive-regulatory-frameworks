@@ -91,13 +91,15 @@
  695-046-0035 
  Eligibility 
  
- (1) The Board will only consider Water Acquisition Projects involving legal water rights not subject to forfeiture that will result in Legally or Contractually Protected Instream Flows to address: 
+ (1) The Board will only consider Water Acquisition Projects involving legal water rights not subject to forfeiture that will result in Legally or Contractually Protected Instream Flows to: 
 
- (a) The identified conservation needs of habitats and species as determined by the Oregon Department of Fish and Wildlife and in consideration of needs identified by other federal or tribal fish and wildlife agencies; or 
+ (a) Address identified conservation needs of habitats and species as determined by the Oregon Department of Fish and Wildlife and in consideration of needs identified by other federal or Tribal fish and wildlife agencies; or 
 
- (b) Improving water quality in a water-quality-limited area, as defined in OAR 340-041-0002(70) and determined by the Oregon Department of Environmental Quality. 
+ (b) Improve water quality in a water-quality-limited area, as defined in OAR 340-041-0002(70) and determined by the Oregon Department of Environmental Quality. 
 
- (2) The Board will also only consider projects that include written notice to irrigation districts where the proposed Water Acquisition Project is within the boundary of an irrigation district. 
+ (2) Where the proposed Water Acquisition Project is within the boundaries of an irrigation district, the Board will only consider the project if that irrigation district has received written notice of the proposed project. 
+
+ (3) Within grant applications for Water Acquisition Projects as described in this section, the Board will consider funding requests for activities such as project planning and development, project design, and outreach with holders of a Water Use Subject to Transfer that directly relate to the proposed Water Acquisition Project or will lead to future eligible Water Acquisition Projects in the same basin, or a portion thereof, as the proposed Water Acquisition Project.  Grant applications requesting funding for project planning and development, project design, and outreach only are ineligible. 
 
  
  
@@ -109,6 +111,21 @@
  Statutes/Other Implemented:  ORS 541.932(9) 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OWEB 1-2026, amend filed 07/31/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -137,7 +154,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

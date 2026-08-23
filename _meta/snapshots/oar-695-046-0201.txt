@@ -93,11 +93,11 @@
  
  (1) For water acquisition grant applications seeking grant funds that require the Board to make a funding decision: 
 
- (a) Staff shall review the recommendations from each Technical Review Team and make a statewide funding recommendation to the Board based on available resources for the grant offering and type. The recommendation shall include any conditions placed on individual projects and may include proposed budget adjustments. The staff recommendation, as represented in the staff report to the Board, shall be made available to applicants and members of the Technical Review Teams at least two weeks before the Board meeting where funding decisions are to be made. 
+ (a) Staff shall review the recommendations from each Technical Review Team and make a statewide funding recommendation to the Board based on available resources for the grant offering and type. The recommendation may include any conditions placed on individual projects as suggested by the Technical Review Team and may include proposed budget adjustments. The staff recommendation, as represented in the staff report to the Board, shall be made available to applicants and members of the Technical Review Teams at least two weeks before the Board meeting where funding decisions are to be made. 
 
  (b) Applicants may provide written or oral comment to the Board on the staff recommendation prior to the Board decision. 
 
- (2) For grant applications seeking grant funds that have been Delegated to the Director, staff shall review the recommendations from each Technical Review Team and make a funding recommendation to the Director based on available resources for the grant offering and type. The recommendation shall include any conditions placed on individual projects and may include proposed budget adjustments. The staff recommendation shall be made available to the applicants. 
+ (2) For grant applications seeking grant funds that have been Delegated to the Director, staff shall review the recommendations from each Technical Review Team and make a funding recommendation to the Director based on available resources for the grant offering and type. The recommendation shall include any conditions placed on individual projects as suggested by the Technical Review Team and may include proposed budget adjustments. The staff recommendation shall be made available to the applicants. 
 
  
  
@@ -109,6 +109,21 @@
  Statutes/Other Implemented:  ORS 541.890-541.969 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OWEB 1-2026, amend filed 07/31/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -137,7 +152,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

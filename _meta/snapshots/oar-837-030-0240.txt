@@ -89,9 +89,21 @@
  
  Division 30 LIQUEFIED PETROLEUM GAS 
  837-030-0240 
- Reporting Tank Installations 
+ Reporting Tank Installations
  
- (1) The State Fire Marshal must be notified by the last day of each month by the installing company of all new liquefied petroleum gas tank installations made during the preceding month. New installations include tank replacements.  (2) United States Post Office postmark date will be used to determine the reporting date. If the last day of a month falls on a day when a postmark cannot be obtained, notification must be postmarked on the preceding business day when a postmark can be obtained.  (3) Notification must be made on a form (Notice of Installation of Liquefied Petroleum Gas Tank) provided by the State Fire Marshal and include the following information:  (a) Customer name and contact phone number for whom the tank was installed;  (b) Address where tank was installed;  (c) County of installation;  (d) Date tank was installed;  (e) Water capacity of tank;  (f) Tank serial number;  (g) Signature of fitter who installed tank and their fitter license number;  (h) Name of company installing tank and their company license number;  (i) A site map providing detailed directions to the tank location.  (4) Tank installation notices must be accompanied by a summary sheet that details the number and size of tanks installed during the preceding month.  (5) The company representative must sign the summary sheet verifying the information is correct.  (6) Installation notices for tanks installed underground must be accompanied by a tank underground worksheet.  (7) LP-Gas containers, including customer owned containers, that have not been reported as specified in ORS 480.450 shall not be filled or refilled.  (8) The appropriate tank installation fees must accompany the tank installation notices and summary sheet. The fee for the liquefied petroleum gas program is located in Oregon Revised Statute as follows: ORS 480.450 Notice of new installations; inspection fees; inspections after original inspection; notice of changes; correction of improper installations required.  [ED. NOTE: Forms referenced are available from the agency.] 
+ 
+ (1) The State Fire Marshal must be notified by the last day of each month by the installing company of all new liquefied petroleum gas tank installations made during the preceding month. New installations include tank replacements. 
+
+ (2) United States Post Office postmark date or the State Fire Marshal received date will be used to determine the reporting date. If the last day of a month falls on a day when a postmark cannot be obtained, notification must be postmarked on the preceding business day when a postmark can be obtained. 
+
+ (3) Tank installation notices must be made on forms provided by the State Fire Marshal and must be complete. 
+
+ (4) LPG containers, including customer owned containers, that have not been reported as specified in ORS 480.450 shall not be filled or refilled. 
+
+ (5) The appropriate tank installation fees must accompany the tank installation notices. The fee for the liquefied petroleum gas program is located in Oregon Revised Statute as follows: ORS 480.450 Notice of new installations; inspection fees; inspections after original inspection; notice of changes; correction of improper installations required. 
+
+ [ED. NOTE: Forms referenced are available from the agency.] 
+
  
  
  
@@ -102,6 +114,21 @@
  Statutes/Other Implemented:  ORS 480.450 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 3-2026, amend filed 07/22/2026, effective 07/22/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -219,7 +246,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

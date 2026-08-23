@@ -76,6 +76,8 @@
  
  
  
+   Temporary rule language in effect until 01/27/2027. 
+ 
  
  
  
@@ -139,7 +141,7 @@
 
  (u) Be free of discrimination regarding the execution of an Advance Directive, Physician's Order for Life-Sustaining Treatment (POLST), or Do Not Resuscitate (DNR) orders. 
 
- (2) LGBTQIA2S+ PROTECTIONS. A licensee, administrator, resident manager, floating resident manager, shift caregiver or substitute caregiver of the AFH may not take any of the following actions based in whole or in part on a resident’s actual or perceived sexual orientation, gender identity, gender expression or human immunodeficiency virus status: 
+ (2) LGBTQIA2S+ and Human Immunodeficiency Virus (HIV) PROTECTIONS. A licensee, administrator, resident manager, floating resident manager, shift caregiver or substitute caregiver of the AFH may not take any of the following actions based in whole or in part on a resident’s actual or perceived sexual orientation, gender identity, gender expression or HIV  status: 
 
  (a) Deny admission to an AFH, transfer or refuse to transfer a resident within an AFH or to another home or discharge or evict a resident from an AFH; 
 
@@ -159,7 +161,7 @@
 
  (i) Fail to accept a resident’s verbal or written attestation of the resident’s gender identity or require a resident to provide proof of the resident’s gender identity using any form of identification; 
 
- (j) Fail to take reasonable actions, within the AFH’s control, to prevent discrimination or harassment when the facility knows or should have known about the discrimination or harassment; 
+ (j) Fail to take reasonable actions, within the AFH’s control, to prevent discrimination or harassment when the facility knows or should have known about the discrimination or harassment;  
 
  (k) Refuse or willfully fail to provide any service, care or reasonable accommodation to a resident; or 
 
@@ -181,7 +183,7 @@
 
  (g) The freedom and support to control the resident's schedule and activities. 
 
- (4) INDIVIDUALLY-BASED LIMITATIONS. Effective July 1, 2019 and no later than June 30, 2020, a limitation to (1)(m) of this rule and any freedom in section (3)(b) through (g) of this rule must be supported by a specific assessed need due to a threat to the health and safety of the resident or others. All individually-based limitations (IBL) considered must be documented on the Department-approved consent form. 
+ (4) INDIVIDUALLY-BASED LIMITATIONS. A limitation to (1)(m) of this rule and any freedom in section (3)(b) through (g) of this rule must be supported by a specific assessed need due to a threat to the health and safety of the resident or others. All individually-based limitations (IBL) considered must be documented on the Department-approved consent form. 
 
  (a) For Medicaid-eligible residents, the person-centered service plan must be developed as outlined in OAR 411-051-0120. 
 
@@ -264,6 +266,21 @@
  
  
  
+ APD 20-2026, temporary amend filed 07/29/2026, effective 08/01/2026 through 01/27/2027 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  APD 57-2024, amend filed 09/23/2024, effective 09/25/2024 
  
  
@@ -330,7 +347,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

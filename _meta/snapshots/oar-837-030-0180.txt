@@ -89,9 +89,21 @@
  
  Division 30 LIQUEFIED PETROLEUM GAS 
  837-030-0180 
- Probationary Status (On-the-Job Training) 
+ Training Period
  
- (1) Individuals who desire to obtain a fitter or truck equipment operator license may work up to 60 days of on-the-job training.  (2) The 60 days of training consist of actual work days. (For the purposes of tracking an individual’s probationary status, work days are considered to be Monday through Friday unless the company submits documentation to the State Fire Marshal of another work schedule.)  (3) On-the-job training for fitters must be under the supervision of a licensed fitter.  (4) On-the-job training for truck equipment operators must be under the supervision of a licensed truck equipment operator.  (5) Individuals receiving on-the-job training must pass the written examination required under OAR 837-030-0190 and obtain the required license after not more than 60 days probationary period of on-the-job training.  (6) Any individual who exceeds the 60 days probationary status time, and has not yet obtained their fitter or truck equipment operator license, must immediately cease working as a fitter or truck equipment operator until such time as they have obtained the required license. 
+ 
+ (1) Individuals who desire to obtain a fitter or truck equipment operator license may work up to 60 days of a Training Period. 
+
+ (2) The 60 days of training consist of actual work days. (For the purposes of tracking an individual’s Training Period, work days are considered to be Monday through Friday unless the company submits documentation to the State Fire Marshal of another work schedule.) 
+
+ (3) The Training Period for fitters must be under the supervision of a licensed fitter. 
+
+ (4) The Training Period for truck equipment operators must be under the supervision of a licensed truck equipment operator. 
+
+ (5) Individuals must pass the written examination required under OAR 837-030-0190 and obtain the required license after not more than 60 days of the Training Period. 
+
+ (6) Any individual who exceeds the 60 day Training Period, and has not yet obtained their fitter or truck equipment operator license, must immediately cease working as a fitter or truck equipment operator until such time as they have obtained the required license. 
+
  
  
  
@@ -102,6 +114,21 @@
  Statutes/Other Implemented:  ORS 480.435 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 3-2026, amend filed 07/22/2026, effective 07/22/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -142,7 +169,7 @@ FM 52-1971, f. 4-29-71, cert. ef. 5-25-71
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

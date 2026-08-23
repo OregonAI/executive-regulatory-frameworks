@@ -28,7 +28,7 @@ summary:
   documents_scanned: 76313
   distinct_targets: 1273
   authority_claims_total: 916
-  mentions_total: 8703
+  mentions_total: 8704
   targets_resolving: 1
   unresolved_authority_claims: 901
 named_instruments:
@@ -742,7 +742,7 @@ targets:
   - oar-461-145-0830
 - citation: 42 CFR 441
   authority_claims: 1
-  mentions: 38
+  mentions: 39
   resolves: false
   cited_by_sample:
   - oar-309-015-0000

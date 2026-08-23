@@ -76,6 +76,8 @@
  
  
  
+   Temporary rule language in effect until 01/27/2027. 
+ 
  
  
  
@@ -95,11 +97,15 @@
 
  (a) Before issuance of a license. 
 
- (b) Before the annual renewal of a license. 
+ (b) No less than 90 or more than 120 days after the issuance of a license. 
 
- (c) Upon receipt of an oral or written complaint of violations that threaten the health, safety, or welfare of residents. 
+ (c) Before the renewal of a license. 
 
- (d) Anytime the Department has probable cause to believe a home has violated a regulation or provision of these rules or is operating without a license. 
+ (d) Annually regardless of an approved two-year renewal cycle. 
+
+ (e) Upon receipt of an oral or written complaint of violations that threaten the health, safety, or welfare of residents. 
+
+ (f) Anytime the Department has probable cause to believe a home has violated a regulation or provision of these rules or is operating without a license. 
 
  (2) The Department may conduct inspections: 
 
@@ -121,7 +127,7 @@
 
  (b) Access to resident and facility records. 
 
- (7) The Department, LLA, the investigative authority, OHA, and CMS has authority to conduct inspections with or without advance notice to the licensee, staff, or the residents of the home. The Department, LLA, and CMS shall not give advance notice of any inspection if it is believed that notice might obstruct or seriously diminish the effectiveness of the inspection or enforcement of these rules. State personnel and representatives are required to show Department issued identification in compliance with the Department’s October 09, 2020 policy. 
+ (7) The Department, LLA, the investigative authority, OHA, and CMS has authority to conduct inspections with or without advance notice to the licensee, staff, or the residents of the home. The Department, LLA, and CMS shall not give advance notice of any inspection if it is believed that notice might obstruct or seriously diminish the effectiveness of the inspection or enforcement of these rules. State personnel and representatives are required to show Department issued identification in compliance with the Department’s October 09, 2020, policy. 
 
  (8) If the Department, LLA, investigative authority, OHA or CMS staff are not permitted access for inspection, a search warrant may be obtained. 
 
@@ -137,7 +143,7 @@
 
  (a) The licensee or administrator shall not interfere with a good faith disclosure of information by an employee or volunteer concerning the abuse or mistreatment of a resident in the adult foster home. The information that is shared may include the reporting of violations of licensing or certification requirements, criminal activity at the adult foster home, violations of state or federal laws or any practice that threatens the health and safety of a resident being made to: 
 
- (A) The Long-Term Care Ombudsman, the Department of Human Services, a law enforcement agency or other entity with legal or regulatory authority over the adult foster home; or 
+ (A) The Long-Term Care Ombudsman, the Oregon Department of Human Services, a law enforcement agency or other entity with legal or regulatory authority over the adult foster home; or 
 
  (B) A family member, guardian, friend or other person who is acting on behalf of the resident. 
 
@@ -185,6 +191,21 @@
  Statutes/Other Implemented:  ORS 124.050, 124.060, 124.075, 409.050, 410.070, 413.085, 443.001 - 443.004, 443.705 - 443.825, 443.875 & 443.991 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 20-2026, temporary amend filed 07/29/2026, effective 08/01/2026 through 01/27/2027 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -258,7 +279,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

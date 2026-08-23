@@ -89,9 +89,61 @@
  
  Division 30 LIQUEFIED PETROLEUM GAS 
  837-030-0210 
- License Revocation, Suspension or Denial 
+ License Probation, Suspension, Revocation, or Denial
  
- (1) The State Fire Marshal may revoke, suspend, or refuse to issue or renew a license required under ORS 480.410 to 480.460. Any such revocation, suspension, or refusal to issue must be in conformance with ORS 183.310 to 183.550. Valid cause exists for the revocation, suspension, or refusal to issue a license when any of the following occur:  (a) The licensee or applicant deliberately falsifies an application for an examination or license;  (b) Has committed a violation of ORS 162.305;  (c) Has failed to comply with any provision of ORS 480.410 to 480.460;  (d) Has failed to comply with any provision of OAR 837-030-0100 through 837-030-0280;  (e) Has failed to maintain the status required under ORS 480.434; or  (f) Has violated any other provision of the liquefied petroleum gas statutes, administrative rules, or applicable fire and life safety standards.  (2) The period of denial, revocation or suspension may not exceed three (3) years if the circumstances of the licensee's or applicant's failure to comply with applicable laws and rules pertaining to liquefied petroleum gas presented a significant hazard or other public danger.  (3) Licenses are the property of the State Fire Marshal and must be surrendered upon request of the State Fire Marshal or a State Fire Marshal assistant. 
+ 
+ (1) The State Fire Marshal may revoke, suspend, or refuse to issue or renew a license required under ORS 480.410 to 480.460. Any such revocation, suspension, or refusal to issue must be in conformance with ORS 183.310 to 183.550. Valid cause exists for the revocation, suspension, or refusal to issue a license when any of the following occur: 
+
+ (a) The licensee or applicant deliberately falsifies an application for an examination or license; 
+
+ (b) Has committed a violation of ORS 162.305; 
+
+ (c) Has failed to comply with any provision of ORS 480.410 to 480.460; 
+
+ (d) Has failed to comply with any provision of OAR 837-030-0100 through 837-030-0280; 
+
+ (e) Has failed to maintain the status required under ORS 480.434; or 
+
+ (f) Has violated any other provision of the liquefied petroleum gas statutes, administrative rules, or applicable fire and life safety standards. 
+
+ (2) Probation  
+
+ (a) The State Fire Marshal may impose probation on a licensee due to non‑compliance.  
+
+ (b) The licensee will be notified of their probationary status through a written probation notice issued by the State Fire Marshal. The notice will include the specific reason or reasons for the probation. The probation notice will establish the timeline for the abatement necessary to remove the probationary status and the requirements the licensee must meet to regain compliance.  
+
+ (c) Probationary status ends upon issuance of a formal written notice from the State Fire Marshal. This notice will be sent to the licensee when either the licensee has met all requirements established in the probation notice; or the licensee has failed to meet the established requirements within the allotted timeline. 
+
+ (d) Probation shall not exceed 12 months from the starting date indicated on the probation notice.  
+
+ (e) Failure to comply with the terms of probation may result in suspension or revocation of the license.   
+
+ (3) Suspension  
+
+ (a) The State Fire Marshal may suspend a license due to repeated non‑compliance or failure to complete the requirements of probation.   
+
+ (b) During a Suspension, some or all regulated LPG activities must cease until the suspension is lifted as determined by the State Fire Marshal.   
+
+ (c) The licensee will be notified of the license suspension through a written notice issued by the State Fire Marshal. The notice will include the specific reason or reasons for the suspension. The suspension notice will establish the terms of the suspension, the allowed timeline for abatement, and the requirements the licensee must meet to regain compliance.   
+
+ (d) The license suspension ends upon issuance of a formal written notice from the State Fire Marshal. This notice will be sent to the licensee when either the licensee has met all requirements established in the Suspension Notice; or the licensee has failed to meet the established requirements within the allotted timeline.  
+
+ (e) Failure to comply with the terms of suspension may result in denial or revocation of the license.  
+
+ (4) Revocation/Denial  
+
+ (a) The period of denial or revocation may not exceed three (3) years if the circumstances of the licensee's or applicant's failure to comply with applicable laws and rules pertaining to liquefied petroleum gas presented a significant hazard or other public danger.  
+
+ (b) Licenses are the property of the State Fire Marshal and must be surrendered upon request of the State Fire Marshal or a State Fire Marshal assistant.  
+
+ (c) Before revoking or denying a license issued under OAR 837-030-0200, the State Fire Marshal will give prior notice to the licensee and offer the opportunity for a hearing. If requested, the hearing will be conducted as contested case proceedings pursuant to ORS 183.413 to 183.470.  
+
+ (d) The State Fire Marshal will give appropriate notice of appeal rights under ORS 183.500.   
+
+ (e) Judicial review of a final order issued after a hearing requested under this rule will be as provided in ORS 183.480 to 183.497 for judicial review of contested cases.  
+
+ (f) Where customer lists have been submitted to the State Fire Marshal during enforcement or appeal proceedings, the State Fire Marshal will treat the list as confidential to the extent allowed by law.  
+
  
  
  
@@ -102,6 +154,21 @@
  Statutes/Other Implemented:  ORS 480.435 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 3-2026, amend filed 07/22/2026, effective 07/22/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -141,7 +208,7 @@ FM 52, f. 4-29-71, cert. ef. 5-25-71
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

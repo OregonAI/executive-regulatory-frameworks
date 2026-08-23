@@ -101,15 +101,15 @@
 
  (c) Proof of energy conservation measures installed: 
 
- (A) For dwelling owners as the applicant, receipts of all eligible energy conservation measures completed must be marked paid in full on or before the date of the application. 
+ (A) For dwelling owners as the applicant, receipts of all eligible energy conservation measures completed must be marked paid in full on or before the date of the application. Measures completed without the assistance of contractors must include proof of installation. 
 
- (B) For contractors as the applicant, invoices for all eligible energy conservation measures must be completed on or before the date of the application. 
+ (B) For contractors as the applicant, invoices for all eligible energy conservation measures must be completed on or before the date of the application. Measures completed may require proof of installation as requested by OHCS. 
 
  (d) Proof of low-income status (for Tier 1 cash payments only if eligible): 
 
- (A) For dwelling owners or their tenants, documentation of income for the household occupying the eligible dwelling to verify proof of low-income status. 
+ (A) For dwelling owners or their tenants occupying the dwelling, documentation of income for the entire household is required to verify proof of low-income status. Households who currently occupy the dwelling and have received OHCS-funded energy assistance in the 12 months prior to the application date are considered eligible for Tier 1 cash payments. 
 
- (B) For contractors, verification of income for the household occupying the eligible dwelling to verify proof of low-income status. 
+ (B) For contractors, documentation of income—as described in part A above—is required to verify proof of low-income status. Occupying households may coordinate directly with OHCS SHOW Program staff to determine low-income eligibility. OHCS SHOW Program staff will notify the contractor of eligibility once determined. 
 
  (3) OHCS will review applications for eligibility on a first-come, first-served basis and award cash payments subject to availability of funding. 
 
@@ -123,6 +123,21 @@
  Statutes/Other Implemented:  ORS 456.594-456.599 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 22-2026, amend filed 07/29/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -196,7 +211,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

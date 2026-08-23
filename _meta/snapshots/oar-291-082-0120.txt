@@ -89,9 +89,15 @@
  
  Division 82 ASSESSMENT, ASSIGNMENT, AND SUPERVISION OF ADULTS IN CUSTODY FOR WORK ASSIGNMENTS AND UNFENCED MINIMUM HOUSING 
  291-082-0120 
- Work Housing Assignment Level Evaluation (WHALE) Review 
+ Work Housing Assignment Level Evaluation Review
  
- (1) An inmate’s WHALE shall be reviewed when new information is received that affects the WHALE level.  (2) The inmate’s assigned counselor will receive an automated alert when new information is received that will affect the WHALE level.  (3) The new WHALE action shall be forwarded to the Correctional Rehabilitation Manager or designee for approval. No WHALE action is official until approved by the Correctional Rehabilitation Manager or designee. 
+ 
+ (1) An adult in custody’s Work Housing Assignment Level Evaluation shall be reviewed when new information is received that affects the work assignment level. 
+
+ (2) The adult in custody’s assigned counselor will receive an automated alert when new information is received that will affect the work assignment level. 
+
+ (3) The new Work Housing Assignment Level Evaluation action shall be forwarded to the Correctional Rehabilitation Manager or designee for approval. No Work Housing Assignment Level Evaluation action is official until approved by the Correctional Rehabilitation Manager or designee. 
+
  
  
  
@@ -102,6 +108,21 @@
  Statutes/Other Implemented:  ORS 179.040, 421.425, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 23-2026, amend filed 07/29/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -163,7 +184,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

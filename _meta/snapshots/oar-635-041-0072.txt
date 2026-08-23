@@ -76,6 +76,8 @@
  
  
  
+   Temporary rule language in effect until 12/31/2026. 
+ 
  
  
  
@@ -89,9 +91,39 @@
  
  Division 41 COLUMBIA RIVER SYSTEM TREATY INDIAN FISHERIES 
  635-041-0072 
- Carp, Shad and Other Nongame Fish 
+ Carp, Shad and Other Nongame Fish
  
- It is unlawful to fish for or possess carp and other nongame fish from the Columbia River for commercial purposes except:  (1) As authorized by ORS 508.106 (Permit to take carp or other foodfish).  (2) During open commercial fishing periods with gear authorized for those open commercial fishing periods. 
+ 
+ It is unlawful to fish for or possess carp and other nongame fish from the Columbia River for commercial purposes except: 
+
+ (1) As authorized by ORS 508.106 (Permit to take carp or other foodfish). 
+
+ (2) During open commercial fishing periods with gear authorized for those open commercial fishing periods. 
+
+ (3) During a research commercial fishery using gillnets and occurring in backwater areas of the John Day Pool as described below: 
+
+ (a) Participants are those individuals lawfully permitted by one of the Columbia River treaty tribes to participate in this fihery. 
+
+ (b) This fishery is open from 6:00 AM July 24 through 6:00 PM August 15, 2026 (22.5 days). 
+
+ (c) Open areas are: 
+
+ (A) Railroad Island Slough (45.72504, -120.69580) only the slough side waters up from the railroad tracks, 
+
+ (B) Paterson Slough (45.70664, -120.46430) only the slough side to the north of Highway 14, 
+
+ (C) Sundale Slough (45.72008, -120.31364) only the slough side waters up from the railroad tracks, 
+
+ (D) Jones Canyon Slough (45.71576, -121.24522) only the slough south of the railroad tracks, 
+
+ (E) Willow Creek Slough (45.79306, -120.01470) only waters south of the eastbound lanes of I-84, 
+
+ (F) Alderdale Slough (45.83741, -119.92876) only waters north of Highway 14, and; 
+
+ (G) Paterson Slough (45.92950, -119.55259) waters inside the mouth of the slough, across from Irrigon and Umatilla fish hatcheries. 
+
+ (d) Allowable sales are yellow perch, bass, walleye, catfish, carp, northern pikeminnow and suckers which may be sold or retained for other purposes. These species may be sold after the permit fishing period concludes. All other species including salmon, steelhead and sturgeon must be released. If any northern pike are handled, they must be killed and provided to tribal or state fishery programs. 
+
  
  
  
@@ -102,6 +134,21 @@
  Statutes/Other Implemented:  ORS 506.129 & 507.030 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 69-2026, temporary amend filed 07/23/2026, effective 07/24/2026 through 12/31/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -266,7 +313,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

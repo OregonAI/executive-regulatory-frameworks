@@ -102,23 +102,23 @@
 
  (B) Accounting 
 
- (C) Finance 
+ (C) Finance 
 
- (D) Economics 
+ (D) Economics 
 
- (E) Real Estate; or 
+ (E) Real Estate; or 
 
- (c) Successful completion of at least 30 semester hours of college-level courses in each of the following: 
+ (c) Successful completion of at least 30 semester hours of college-level courses in each of the following: 
 
- (A) English Composition (3 hours) 
+ (A) English Composition (3 hours) 
 
- (B) Microeconomics (3 hours) 
+ (B) Microeconomics (3 hours) 
 
- (C) Macroeconomics (3 hours) 
+ (C) Macroeconomics (3 hours) 
 
- (D) Finance (3 hours) 
+ (D) Finance (3 hours) 
 
- (E) Algebra, Geometry or Higher Math (3 hours) 
+ (E) Algebra, Geometry or Higher Math (3 hours) 
 
  (F) Statistics (3 hours) 
 
@@ -126,13 +126,13 @@
 
  (H) Business Law or Real Estate Law (3 hours) 
 
- (I) Two elective courses in any of the above topics, or in Accounting, Geography, Agricultural Economics, Business Management, or Real Estate (3 hours each); or 
+ (I) Two elective courses in any of the above topics, or in Accounting, Geography, Agricultural Economics, Business Management, or Real Estate (3 hours each); or 
 
- (d) Successful completion of at least 30 semester hours of College Level Examination Program (CLEP) exams equivalent to a minimum of 30 semester credit hours in (c) above; or 
+ (d) Successful completion of at least 30 semester hours of College Level Examination Program (CLEP) exams equivalent to a minimum of 30 semester credit hours in (c) above; or 
 
- (e) Any combination of paragraphs (c) and (d) above that includes all of the topics identified; or 
+ (e) Any combination of paragraphs (c) and (d) above that includes all of the topics identified; or 
 
- (f) No college-level education required, but must be an appraiser who has held an “active” State Licensed Appraiser credential for a minimum of five (5) years and has no record of any adverse, final, and non-appealable disciplinary action affecting the State Licensed Appraiser’s legal eligibility to engage in appraisal practice within five (5) years immediately preceding the date of application for a Certified Residential Appraiser credential. 
+ (f) No college-level education required, but must be an appraiser who has held an “active” State Licensed Appraiser credential for a minimum of five (5) years and has no record of any adverse, final, and non-appealable disciplinary action affecting the State Licensed Appraiser’s legal eligibility to engage in appraisal practice within five (5) years immediately preceding the date of application for a Certified Residential Appraiser credential. 
 
  (2) At least 1,500 cumulative hours of acceptable appraisal experience. Cumulative experience hours must be acquired in no fewer than twelve (12) months. Completion of an AQB-approved Certified Residential PAREA program satisfies this requirement. Completion of an AQB-approved Licensed Residential PAREA program satisfies an equivalent 1,000 hours of this requirement. 
 
@@ -156,7 +156,7 @@
 
  (F) Course(s) on Advanced Residential Applications and Case Studies (15 hours); and 
 
- (G) Appraisal Subject Matter Electives (20 hours). 
+ (G) Appraisal Subject Matter Electives (12 hours). 
 
  (b) Applicants holding a valid Oregon State Licensed Appraiser credential may satisfy the educational requirements for the State Certified Residential Appraiser credential by completing the following additional education hours: 
 
@@ -164,7 +164,7 @@
 
  (B) Course(s) on Advanced Residential Applications and Case Studies (15 hours); and 
 
- (C) Appraisal Subject Matter Electives (20 hours). 
+ (C) Appraisal Subject Matter Electives (12 hours). 
 
  
  
@@ -176,6 +176,21 @@
  Statutes/Other Implemented:  ORS 674 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ACLB 2-2026, amend filed 07/22/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -464,7 +479,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

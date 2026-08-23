@@ -89,9 +89,23 @@
  
  Division 104 CLASSIFICATION (AIC) 
  291-104-0140 
- Classification Quality Assurance Review 
+ Custody Classification Level Quality Assurance Review
  
- (1) The Classification Manager is responsible for reviewing facility classification procedures and decisions.  (2) Reviewing shall consist of routine review of custody Level 1 and 2 placements and review of individual classification actions at each facility. Such reviews shall be conducted to ensure:  (a) The policies and procedures set forth in this rule are followed; and  (b) The actions taken by the facility are adequately documented.  (3) Findings inconsistent with rule and established procedures shall be documented and reported to the appropriate functional unit manager or to the Institution Administrator(s) for corrective action.  (4) The Classification Manager is responsible to review the last classification action for any inmate who is involved in an escape or escape attempt from a Department of Corrections facility and to submit a report to the Operations Division Institution Administrators. 
+ 
+ (1) The Classification Manager is responsible for reviewing the Department of Corrections facility classification procedures and decisions. 
+
+ (2) Routine reviews shall be completed for custody classification Level 1 and 2 placements and review of individual classification actions at each Department of Corrections facility. Such reviews shall be conducted to ensure: 
+
+ (a) The policies and procedures set forth in this rule are followed; and 
+
+ (b) The actions taken by the Department of Corrections facility are adequately documented. 
+
+ (3) Findings inconsistent with rule and established procedures shall be documented and reported to the appropriate functional unit manager or the Institution Administrator(s) for corrective action. 
+
+ (4) The Classification Manager is responsible to review the last classification action for any adult in custody who is involved in an escape or escape attempt from a Department of Corrections facility and to submit a report to the Assistant Director of Operations and Eastside and Westside Institution Administrators. 
+
+ (5) The Classification Manager is responsible to review all classification actions for any adult in custody who dies in the Department of Corrections custody, when the Department of Justice requests an internal death review, and to submit a report to the Office of Population Management Administrator. 
+
  
  
  
@@ -102,6 +116,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 24-2026, amend filed 07/29/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -175,7 +204,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

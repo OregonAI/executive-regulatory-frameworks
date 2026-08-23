@@ -94,7 +94,7 @@
  
  (1) A person desiring to participate in an appraiser training program must register with the Board and work under the direct supervision of at least one licensee who is in good standing, has been certified for a minimum of three (3) years and has a supervising appraiser endorsement granted by the Board. Appraisal experience gained by an individual prior to registration with the Board as a registered Appraiser Assistant will be not accepted. 
 
- (2) Prior to registering with the Board, an Appraiser Assistant applicant must complete 75 creditable hours of qualifying education and pass the applicable final examinations. The following qualifying education must be completed within the five (5) year period immediately preceding the date of application for an Appraiser Assistant credential, with exception to those licensees that register as an Appraiser Assistant to upgrade their current license or certificate: 
+ (2) Prior to registering with the Board, an Appraiser Assistant applicant must complete83 creditable hours of qualifying education and pass the applicable final examinations. The following qualifying education must be completed within the five (5) year period immediately preceding the date of application for an Appraiser Assistant credential, with exception to those licensees that register as an Appraiser Assistant to upgrade their current license or certificate: 
 
  (a) 15-hour National USPAP course, or its equivalent; 
 
@@ -136,6 +136,21 @@
  Statutes/Other Implemented:  ORS 674 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ACLB 2-2026, amend filed 07/22/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -221,7 +236,7 @@ ACLB 8-1991(Temp), f. & cert. ef. 12-31-91
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

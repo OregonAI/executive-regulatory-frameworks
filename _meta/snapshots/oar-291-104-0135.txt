@@ -89,9 +89,43 @@
  
  Division 104 CLASSIFICATION (AIC) 
  291-104-0135 
- Administrative Review 
+ Administrative Review
  
- (1) An inmate may request an administrative review of his/her classification action by completing and submitting the Department of Corrections Request for Administrative Review form (CD1120aD) or Request for Administrative Review of IMU Level 5 Custody form (CD1120aE).  (2) Issues Subject to Administrative Review: Administrative review is available to an inmate to contest three aspects of his/her classification action:  (a) The accuracy of custody classification levels 1–4 scoring;  (b) An override of a scored custody classification level; or  (c) A Level 5 custody classification.  (3) Custody Classification Level 1-4 Accuracy of Scoring:  (a) To obtain an administrative review of a Level 1-4 custody classification score, an inmate must complete the top portion of a CD1120aD form, and send the completed form, together with any supporting documentation, to the designated institution committee at the facility where the inmate is currently housed. The institution committee must receive the request within 30 calendar days of the classification approval date. The institution committee should complete its review within 30 days after receiving an inmate's review request.  (b) If, after receiving the review decision of the designated institution committee, an inmate is not satisfied with the decision, the inmate may obtain further review of the custody classification Level 1–4 score by sending another completed CD1120aD form, together with any supporting documentation, and a copy of the institution committee's decision, to the functional unit manager or designee of the institution where the inmate is currently housed. The functional unit manager or designee must receive the review request within 30 calendar days of the institution committee's review decision. The functional unit manager or designee should complete his/her review within 30 days after receiving the inmate's review request. There shall be no further administrative review of a custody classification Level 1-4 score.  (c) Inmates engaged in the intake process may not submit a request for review of their custody classification score until they are no longer housed at the Intake Center.  (4) Override of a Scored Custody Classification Level 1–4: To obtain an administrative review of classification that has been overridden at the institution level, an inmate must complete the bottom portion of a CD1120aD form and send the completed form to the Classification Manager, together with any supporting documentation. The Classification Manager must receive the review request within 30 calendar days of the classification action approval date. The Classification Manager should complete the review within 30 days after receiving an inmate's review request. There shall be no further administrative review of an override decision.  (5) Level Five:  (a) To obtain an administrative review of a Level 5 custody classification, an inmate must complete the CD1120aD form and send it to the Classification Manager. The request for review by the inmate shall include any supporting documentation to be considered in reviewing the appropriateness of the Level 5 custody classification.  (b) If an inmate has been assigned to the Intensive Management Unit (IMU), the matter shall be reviewed only once while the inmate is completing IMU programming.  (c) If an inmate has been assigned to IMU and retained at custody Level 5 due to serious management concerns, the inmate will be provided a packet containing a Request for Administrative Review of Retention at Custody Classification Level 5/IMU (CD1120aE). An inmate may request further review of the Level 5 custody classification once annually.  (6) A copy of administrative review decisions will be provided to the inmate and retained in the inmate’s institution file. 
+ 
+ (1) An adult in custody may request an administrative review of their classification action by completing and submitting the Department of Corrections Request for Administrative Review form (CD1120aD) or Request for Administrative Review of Intensive Management Unit Level 5 Custody form (CD1120aE). 
+
+ (2) Issues Subject to Administrative Review: Administrative review is available to an adult in custody to contest three aspects of their classification action: 
+
+ (a) The accuracy of custody classification levels 1–4 scoring; 
+
+ (b) An upward override of a scored custody classification level initiated by an institution ; or 
+
+ (c) A Level 5 custody classification. 
+
+ (3) Custody Classification Level 1-4 Accuracy of Scoring: 
+
+ (a) To obtain an administrative review of the scoring accuracy of a Level 1-4 custody classification, an adult in custody must complete the top portion of a Request for Administrative Review form ( CD1120aD ) and send the completed form and any supporting documentation to the designated institution committee at the Department of Corrections facility where the adult in custody is currently housed. The institution committee must receive the request within 30 calendar days of the adult in custody receiving a copy of their official classification action. The institution committee should complete its review within 30 days after receiving an adult in custody’s administrative review request. 
+
+ (b) If an adult in custody is not satisfied with the decision of the designated institution committee, the adult in custody may obtain further review of the custody classification Level 1-4 score by sending another completed Request for Administrative Review form ( CD1120aD ) and any supporting documentation plus a copy of the designated institution committee's decision to the functional unit manager or designee of the institution where the adult in custody is currently housed. The functional unit manager or designee must receive the review request within 30 calendar days of the designated institution committee's review decision. The functional unit manager or designee should complete their review within 30 days after receiving the adult in custody’s administrative review request. There shall be no further administrative review of a custody classification Level 1-4 score. 
+
+ (c) Requests for review of a custody classification Level 1-4 in which an adult in custody is requesting downward override of a custody classification action must be submitted to the designated institution committee at the institution where the person is currently housed. Review procedures are listed in (a) and (b) above. 
+
+ (d)  An adult in custody engaged in the intake process may not submit a request for review of their custody classification score until they are no longer housed at the Intake Center. 
+
+ (4) Override of a Scored Custody Classification Level 1-4: To obtain an administrative review of classification that has been overridden upward at the institution level, an adult in custody must complete the bottom portion of a Request for Administrative Review form ( CD1120aD ) and send the completed form and any supporting documentation to the Classification Manager. The Classification Manager must receive the review request within 30 calendar days of the classification action approval date. The Classification Manager should complete the review within 30 days after receiving an adult in custody’s review request. There shall be no further administrative review of an override decision. 
+
+ (5) Custody Classification Level Five: 
+
+ (a) To obtain an administrative review of a Level 5 custody classification, an adult in custody must complete a Request for Administrative Review form ( CD1120aD ) and send it to the Classification Manager. The request for review by the adult in custody shall include any supporting documentation to be considered in reviewing the appropriateness of the Level 5 custody classification. 
+
+ (b) If an adult in custody has been assigned to the Intensive Management Unit , the matter shall be reviewed only once while the adult in custody is completing Intensive Management Unit programming or Intensive Management Unit Diversion in the Behavioral Health Unit . 
+
+ (c) If an adult in custody has been assigned to the Intensive Management Unit or Intensive Management Unit Diversion in the Behavioral Health Unit and retained at custody classification Level 5 due to serious management concerns, the adult in custody will be provided a packet containing a Request for Administrative Review of Retention at Custody Classification Level 5 form (CD1120aE). An adult in custody may request further review of the Level 5 custody classification once annually. 
+
+ (d) It is the role of the Classification Manager to review whether the adjudicated misconduct or documented behavior that caused referral to the Intensive Management Unit (custody classification Level 5) as stated in the referral documents justifies the custody classification Level 5. It is not the role of the Classification Manager to determine the accuracy of documented misconduct. To request review of an adjudicated misconduct, an adult in custody may write to the Office of the Inspector General. 
+
+ (6) A copy of administrative review decisions will be provided to the adult in custody and retained in the adult in custody’s institution file. 
+
  
  
  
@@ -102,6 +136,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 24-2026, amend filed 07/29/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -187,7 +236,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  
