@@ -11,6 +11,74 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Changed
+- 2026-08-22 — A repealed or suspended rule is marked, never deleted (#229, ADR 0006).
+  **The August 2026 bulletin (bulltnRsn 1761) filed 66 repeals and 34 suspensions against
+  rules this corpus holds, and all 100 were served `current`.** Deleting them breaks every
+  citation pointing at them — this corpus mirrors ORS sections that cite administrative
+  rules — and leaving them publishes a repealed rule as current under provenance.
+  `python3 src/legal_status.py --mark` derives each one from `_meta/bulletin-worklist.yml`
+  onto its OAR catalog row and `python3 src/enrich_oar.py` stamps the documents from there,
+  so **the catalog writes and the document reads**: 100 catalog rows written, **86 rule
+  documents rewritten** (the other 14 already read `repealed`, derived from their own OARD
+  History line before the Bulletin was ever read). Nothing was deleted — every row keeps its
+  path and its ingest status, and `a-marked-rule-is-still-served` fails if one stops naming a
+  served document.
+  **A SUSPENSION IS NOT A REPEAL, and the shared schema enum cannot say what one is.** Its
+  five words are `current | superseded | repealed | proposed | draft`; `repealed` is the only
+  one that names a loss of force and it means a PERMANENT one, while every suspension Oregon
+  files carries an end date — **185** History lines in this corpus read `temporary suspend
+  filed …, effective … through …`, so writing `repealed` for one is a claim the corpus can
+  disprove from its own committed text. Leaving `current` is worse in the other direction:
+  CONTEXT.md defines the field as whether the rule is IN FORCE, and corpus-toolkit prints
+  `current` with no warning while printing anything else as "not current text". So a
+  suspension is stamped **`superseded`** — the strongest thing the enum can truthfully say —
+  and the half it cannot say is carried beside it on the catalog row in
+  **`legal_status_action`** (`repeal` | `suspend`), with **`legal_status_notice`** naming the
+  bulletin a human opens to check the claim. The three keys arrive together or
+  `legal-status-cites-its-notice` refuses the row, and `legal-status-derives-from-the-action`
+  gates their agreement, because the status and the action are one fact written twice.
+  The missing enum member is filed upstream as **corpus-toolkit#159** rather than papered
+  over here.
+  **A REPEAL OR SUSPENSION REACHES A PERSON.** ADR 0006 splits actions on whether they change
+  text or force: an amendment is a text refresh the provenance chain already verifies and
+  #230 re-ingests without asking, while a claim about force is not applied silently. `--mark`
+  names every rule it changes, and REVIEW.md — the repo's standing list of items needing human
+  intervention — gains all 100 under *Rules the Oregon Bulletin took out of force*, gated by
+  `review_queue.py --check`.
+  **THE RULE THAT CANNOT BE SATISFIED BY DELETING INFORMATION.** Every other rule here checks
+  a row that exists, so stripping the three keys off all 100 rows would leave them all passing
+  on a corpus publishing 66 repealed rules as current. `a-filed-force-action-is-recorded`
+  reads the committed worklist instead and asks what the catalog is missing — measured on
+  `main` it fires **100 times**, which is what retired the vacuity: `legal-status-agrees`
+  shipped in #228 honestly reported as running over **0 rows**, and it now covers **100**.
+  Its converse, `the-notice-names-the-filing`, refuses a row citing this month's bulletin for
+  a filing that bulletin does not contain — a citation that does not support its claim is
+  worse than none, because it looks checked.
+  **THE CENSUS ALSO SEES A DECISION TABLE NOW.** `legal_status.py`'s scan found a legal status
+  written to a key named `status`; a dict mapping something else ONTO one —
+  `{"repeal": "repealed", "suspend": "superseded"}` — named no such key and was invisible,
+  and that is the exact shape the next second writer takes. A mapping TO a legal status is now
+  a site; a mapping keyed BY one is still a lookup that writes nothing. `--selftest` proves
+  both directions, and `FORCE_ACTIONS` — this ticket's own table — is the second site the
+  census reports against `src/legal_status.py`, the one writer.
+  WHAT MARKING THEM COST IN THE DERIVED GRAPH, MEASURED RATHER THAN LEFT QUIET.
+  `link_graph.py` has dropped a non-current rule's `implements` edges since long before this
+  ticket, so marking the 100 removed **113** of them (57 from 26 repealed rules, 56 from 33
+  suspended ones) and the **113** reciprocal `implemented_by` lines from **37** ORS statute
+  documents. **No node was removed and no document was deleted** — all 76,313 graph nodes
+  survive, every marked rule among them, and `resolve_citation` still returns each one with
+  its full text. But that rule tests `status != "current"`, so in the graph a suspension is
+  now indistinguishable from a repeal — the collapse this ticket forbids, one layer below
+  where its proofs look. It is `link_graph`'s decision to revisit, not this ticket's, and it
+  is filed as **#242** with the numbers rather than fixed here. One second-order effect came
+  with it: ORS 456.625's rule fan-in fell from 90 to 74, crossing
+  `build_freshness_data.UBIQUITY_MAX`, so `rule_predates_statute_amendment` went **4,603 →
+  4,630** — 27 rules joined a review queue because a different rule was suspended.
+  Not touched, deliberately: the **49** rules the catalog marks `not_served` with the note
+  *"OARD page contains no rule number (rule likely repealed)"*. They are inference from
+  absence, they predate this, and #225 keeps them as the acceptance test for this mechanism
+  rather than part of it.
+
 - 2026-08-22 — The Bulletin worklist stops collapsing two states into one (#227, #233,
   ADR 0006). Three places in `src/check_bulletin.py` reported one thing where there were
   two, all the same failure shape.

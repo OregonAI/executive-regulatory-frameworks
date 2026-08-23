@@ -771,7 +771,7 @@
   {
    "slug": "columbia-river-gorge-commission",
    "name": "Columbia River Gorge Commission",
-   "rules": 129,
+   "rules": 112,
    "parent": null,
    "group": "columbia-river-gorge-commission",
    "group_name": "Columbia River Gorge Commission",
@@ -1462,7 +1462,7 @@
   {
    "slug": "department-of-corrections",
    "name": "Department of Corrections",
-   "rules": 814,
+   "rules": 810,
    "parent": null,
    "group": "department-of-corrections",
    "group_name": "Department of Corrections",
@@ -1578,7 +1578,7 @@
   {
    "slug": "department-of-fish-and-wildlife",
    "name": "Department of Fish and Wildlife",
-   "rules": 1421,
+   "rules": 1418,
    "parent": null,
    "group": "department-of-fish-and-wildlife",
    "group_name": "Department of Fish and Wildlife",
@@ -1678,7 +1678,7 @@
   {
    "slug": "department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities",
    "name": "Department of Human Services, Aging and People with Disabilities and Developmental Disabilities",
-   "rules": 948,
+   "rules": 943,
    "parent": "department-of-human-services",
    "group": "department-of-human-services",
    "group_name": "Department of Human Services",
@@ -1764,7 +1764,7 @@
   {
    "slug": "department-of-human-services-self-sufficiency-programs",
    "name": "Department of Human Services, Self-Sufficiency Programs",
-   "rules": 489,
+   "rules": 487,
    "parent": "department-of-human-services",
    "group": "department-of-human-services",
    "group_name": "Department of Human Services",
@@ -3074,7 +3074,7 @@
   {
    "slug": "oregon-health-authority-health-systems-division-medical-assistance-programs",
    "name": "Oregon Health Authority, Health Systems Division: Medical Assistance Programs",
-   "rules": 620,
+   "rules": 619,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
@@ -3180,7 +3180,7 @@
   {
    "slug": "oregon-housing-and-community-services-department",
    "name": "Oregon Housing and Community Services Department",
-   "rules": 513,
+   "rules": 489,
    "parent": null,
    "group": "oregon-housing-and-community-services-department",
    "group_name": "Oregon Housing and Community Services Department",
@@ -3359,7 +3359,7 @@
   {
    "slug": "oregon-state-marine-board",
    "name": "Oregon State Marine Board",
-   "rules": 201,
+   "rules": 200,
    "parent": null,
    "group": "oregon-state-marine-board",
    "group_name": "Oregon State Marine Board",
@@ -3425,7 +3425,7 @@
   {
    "slug": "oregon-watershed-enhancement-board",
    "name": "Oregon Watershed Enhancement Board",
-   "rules": 113,
+   "rules": 112,
    "parent": null,
    "group": "oregon-watershed-enhancement-board",
    "group_name": "Oregon Watershed Enhancement Board",
@@ -3721,7 +3721,7 @@
   {
    "slug": "veterinary-medical-examining-board",
    "name": "Veterinary Medical Examining Board",
-   "rules": 33,
+   "rules": 32,
    "parent": null,
    "group": "veterinary-medical-examining-board",
    "group_name": "Veterinary Medical Examining Board",

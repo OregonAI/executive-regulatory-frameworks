@@ -13,6 +13,11 @@ from pathlib import Path
 
 import yaml
 
+# The three catalog keys a Bulletin-set legal status is written under, IMPORTED rather than
+# respelled here. `legal_status.py` is their one writer (ADR 0006) and a second spelling of
+# a key is how a reader silently stops finding what the writer writes -- the arrangement
+# `CADENCES`/`recheck` and `CURATED_KEYS`/`FIELDS` already use in this repo.
+from legal_status import ACTION_KEY, CATALOG_KEY, NOTICE_KEY
 from repo_lib import REPO_ROOT, content_files, parse_frontmatter
 
 OUT = REPO_ROOT / "REVIEW.md"
@@ -123,7 +128,8 @@ def scan():
     q["eo_sequence"] = eo_date_sequence_breaks()
 
     # catalog-derived items
-    cat_items = {"not_sliceable": [], "renumbered": [], "gaps": [], "eo": []}
+    cat_items = {"not_sliceable": [], "renumbered": [], "gaps": [], "eo": [],
+                 "force": []}
     eo_path = REPO_ROOT / "_meta/catalog/eo.yml"
     if eo_path.exists():
         eo = yaml.safe_load(eo_path.read_text())
@@ -151,6 +157,18 @@ def scan():
                     if r.get("status") in ("renumbered", "not_served", "not_sliceable"):
                         cat_items["renumbered"].append(
                             (f"OAR {r['number']}", f"{r['status']}: {r.get('note', '')[:90]}"))
+                    # A CLAIM ABOUT LEGAL FORCE REACHES A PERSON (ADR 0006, #229). An
+                    # amendment is a text refresh the provenance chain verifies and it
+                    # re-ingests on its own; a repeal or a suspension is a statement about
+                    # Oregon law, so it is listed here rather than applied silently. READ
+                    # off the catalog row, never re-derived: `src/legal_status.py` is the
+                    # one writer, and a second module deciding what a filed action means
+                    # is the drift its gate exists to refuse.
+                    if r.get(CATALOG_KEY) is not None:
+                        cat_items["force"].append(
+                            (f"OAR {r['number']}", f"{r.get(ACTION_KEY)} — the document is "
+                             f"stamped `status: {r[CATALOG_KEY]}` and stays retrievable; "
+                             f"filed in {r.get(NOTICE_KEY)}"))
                 if not rules and d.get("status") == "not_ingested":
                     cat_items["gaps"].append(
                         (f"OAR chapter {c['chapter']} division {d['division']} ({d['title'][:50]})",
@@ -258,6 +276,20 @@ def render(q, cat_items, body_counts):
             "(likely renumbered/repealed or TOC noise). Verify against the printed ORS if "
             "any of these numbers matter; otherwise they stay intentionally not ingested.",
             cat_items["not_sliceable"])
+
+    section("Rules the Oregon Bulletin took out of force — verify each",
+            "The Bulletin is the official monthly digest of rule filings, and these are the "
+            "rules it repealed or suspended that this corpus holds. Per ADR 0006 the "
+            "document is MARKED and KEPT: every citation pointing at it still resolves, and "
+            "its `status` frontmatter now says it is not current text. An amendment is a "
+            "text refresh that re-ingests on its own; a claim about legal FORCE is not "
+            "applied silently, which is why these are listed here. A SUSPENSION IS NOT A "
+            "REPEAL — every suspension Oregon files carries an end date, so check whether "
+            "one has lapsed before treating the rule as gone. Derived from "
+            "`_meta/catalog/oar.yml` (`legal_status`), written by "
+            "`python3 src/legal_status.py --mark`; verify each against the bulletin named "
+            "beside it and record the review in the file.",
+            cat_items["force"])
 
     section("Catalog: renumbered / repealed rules (auto-resolved — verify mappings)",
             "OARD served a different rule number than requested; documents were filed "

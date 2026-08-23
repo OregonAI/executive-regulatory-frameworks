@@ -2,6 +2,9 @@
 """The one writer of a rule's LEGAL STATUS, and the gate that fails if a second appears.
 
   python3 src/legal_status.py             # the census of every legal-status write in src/
+  python3 src/legal_status.py --mark      # derive the catalog's legal statuses from the
+                                          #     committed Oregon Bulletin worklist (#229),
+                                          #     and NAME every rule whose force changed
   python3 src/legal_status.py --check     # CI: one writer, and the catalog and the
                                           #     documents agree about legal status
   python3 src/legal_status.py --selftest  # CI: every rule --check enforces fires
@@ -96,6 +99,7 @@ turns out to be an executive order's, and the cost of the other direction is a s
 of Oregon law nobody knows about."""
 import argparse
 import ast
+import collections
 import re
 import sys
 import tempfile
@@ -131,11 +135,63 @@ UNKNOWN_BUT_SERVED = "current"
 INGEST_STATUS_VALUES = ("ingested", "renumbered", "not_served", "not_sliceable",
                         "not_ingested", "needs_registry")
 
+# The ingest statuses that mean THIS MIRROR STILL HOLDS THE RULE. A Bulletin-set legal
+# status is a mark on a document that stays; a row carrying one while saying this mirror
+# no longer serves the rule is what DELETING the document leaves behind, and ADR 0006's
+# whole point is that deleting breaks every citation pointing at it.
+HELD_INGEST_STATUSES = ("ingested", "renumbered")
+
 # Where that vocabulary is written, and the only module allowed to write it.
 INGESTER = SRC / "ingest_oar.py"
 
 # The catalog key carrying a Bulletin-set legal status. Deliberately NOT `status`.
 CATALOG_KEY = "legal_status"
+
+# WHAT A FILED ACTION DOES TO A RULE'S FORCE. The mapping lives HERE, in the one writer,
+# because the mapping IS the decision: a module that turned `repeal` into `repealed` and
+# handed the answer to `resolve()` would be deciding a rule's legal status somewhere else,
+# and ADR 0006 allows one place. Only the two actions that change FORCE are here --
+# `adopt`, `amend` and `renumber` change TEXT and are #230's, which is the split ADR 0006
+# makes and the reason this table is not simply every verb `check_bulletin.ACTIONS` names.
+#
+# A SUSPENSION IS NOT A REPEAL, and the schema enum cannot say what it is. Its five words
+# are `current | superseded | repealed | proposed | draft`; `repealed` is the only one that
+# names a loss of force and it means a PERMANENT one. Every suspension this corpus holds
+# text for prints an END DATE -- 185 History lines read `temporary suspend filed ...,
+# effective ... THROUGH ...` -- so writing `repealed` for one is a claim the corpus can
+# disprove from its own committed text, and #229 forbids it in as many words. Leaving
+# `current` is the other direction and it is worse: CONTEXT.md defines this field as
+# WHETHER THE RULE IS IN FORCE, and corpus-toolkit's consumers print `current` with no
+# warning at all while printing anything else as "not current text". So the enum carries
+# the part it can say -- THIS IS NOT THE OPERATIVE TEXT RIGHT NOW -- and the part it cannot
+# is carried beside it in the catalog's `legal_status_action`, which is what tells a
+# suspension from a repeal and is why that key exists rather than being derivable.
+# The missing enum member is filed upstream as corpus-toolkit#159, not papered over
+# here, and this comment is what a reader follows when that issue is settled.
+#
+# LEGAL STATUS - WRITER: this table is the decision, and `force_status()` below is
+# the only reader of it.
+FORCE_ACTIONS = {"repeal": "repealed", "suspend": "superseded"}
+
+# The catalog keys that say WHERE a Bulletin-set legal status came from. `legal_status` is
+# a claim about Oregon law and a claim about law with no citation is unattributable; these
+# are what a human follows to check it, and `legal-status-cites-its-notice` requires them.
+ACTION_KEY = "legal_status_action"
+NOTICE_KEY = "legal_status_notice"
+
+# The three keys a marked row states, IN THE ORDER THEY ARE WRITTEN, declared once so the
+# writer, the gates and REVIEW.md read the same list. `legal-status-cites-its-notice`
+# requires all three or none: a status with no notice is a claim about Oregon law nobody
+# can check, and an action with no status is a filing recorded as having changed nothing.
+MARKED_KEYS = (CATALOG_KEY, ACTION_KEY, NOTICE_KEY)
+
+# The Oregon Bulletin's monthly worklist -- the NOTICE a legal status is derived from
+# (ADR 0006). Read here and written nowhere: `check_bulletin.py` is its one writer.
+WORKLIST = REPO_ROOT / "_meta/bulletin-worklist.yml"
+
+# What re-derives the catalog from that notice, quoted by every rule that can
+# only be fixed by running it.
+REGENERATE = "python3 src/legal_status.py --mark && python3 src/enrich_oar.py"
 
 MARKER_RE = re.compile(r"LEGAL STATUS\s+[-–—]+\s+([A-Z][A-Z_-]*)")
 PURPOSES = ("WRITER", "READER", "NOT-A-RULE", "NOT-A-LEGAL-STATUS")
@@ -161,7 +217,47 @@ PROOF_FUNCTIONS = re.compile(r"^(selftest|_case_|_proof_|_fixture)")
 FRONTMATTER_RE = re.compile(r"^\s*status:\s*(" + "|".join(LEGAL_STATUS_VALUES) + r")\s*$")
 
 Site = namedtuple("Site", "path line text function purpose")
-Failure = namedtuple("Failure", "rule site detail")
+
+# Every rule name a Failure has been built under in this process. `--selftest` asserts that
+# it covers `CHECK_RULES`, which is the difference between a rule DECLARED and a rule
+# WATCHED FIRING: the declaration alone could be satisfied by adding a name to two lists,
+# and a refusal nobody has seen fire is not known to work.
+_FIRED = set()
+
+
+class Failure(namedtuple("Failure", "rule site detail")):
+    """One rule, the thing it is about, and what is wrong with it.
+
+    Recorded on construction rather than at the call sites, so no proof has to remember to
+    say it fired and no rule can be exempted from the count by being checked a new way."""
+
+    __slots__ = ()
+
+    def __new__(cls, rule, site, detail):
+        _FIRED.add(rule)
+        return super().__new__(cls, rule, site, detail)
+
+# EVERY RULE THIS MODULE CAN REPORT, and each is demonstrated failing by a proof below.
+# Declared rather than counted at run time so a rule added with no proof is visible as a
+# list that did not grow -- and compared against what the code actually emits, read out of
+# this module's own syntax tree by `emitted_rules()`, so the declaration cannot drift from
+# it. `--selftest` asserts both that this list is what the code can emit and that every
+# name on it was watched firing during the run -- `_FIRED`, recorded by `Failure` itself.
+CHECK_RULES = (
+    # the census -- who may decide a rule's legal status, and where
+    "readable-module", "legal-status-write-classified", "known-purpose",
+    "a-reader-decides-nothing", "one-writer",
+    # the two fields spelled `status`, and this module's copy of the other one's words
+    "two-fields-named-status", "ingest-status-is-known", "bulletin-status-is-known",
+    "ingest-vocabulary-declared-once",
+    # a marked row: what it must say, and that the document still carries it
+    "legal-status-cites-its-notice", "legal-status-action-is-known",
+    "legal-status-derives-from-the-action", "a-marked-rule-is-still-served",
+    "the-document-reads-it", "legal-status-agrees",
+    # the notice, and the half no rule about an existing row can state
+    "catalog-reaches-the-rule", "a-filed-force-action-is-recorded",
+    "the-notice-names-the-filing", "the-notice-is-readable",
+)
 
 
 # ------------------------------------------------------------------- the one writer
@@ -193,6 +289,17 @@ def resolve(*, bulletin=None, history_repealed=None, existing=None) -> str:
     return UNKNOWN_BUT_SERVED
 
 
+def force_status(action: str):
+    """The legal status a filed ACTION puts a rule in, or None if it changes no force.
+
+    THE OTHER HALF OF THE ONE WRITER. `resolve()` weighs what several callers know about a
+    rule; this turns the Bulletin's verb into the thing `resolve()` is handed. Both live
+    here because both are the decision ADR 0006 gives one place."""
+    # LEGAL STATUS - WRITER: the action-to-force table above is a decision about Oregon
+    # law and this is the only place it is read.
+    return FORCE_ACTIONS.get(action)
+
+
 def bulletin_status_by_rule(catalog=None) -> dict:
     """{rule number: legal status} for every catalog rule entry the Bulletin has set one on.
 
@@ -201,6 +308,81 @@ def bulletin_status_by_rule(catalog=None) -> dict:
     visible, and so a rule that silently went back to zero is too."""
     return {r["number"]: r[CATALOG_KEY] for r in catalog_rules(catalog)
             if r.get(CATALOG_KEY) is not None}
+
+
+
+def filed_force_actions(worklist) -> dict:
+    """{rule number: (legal status, the action that caused it)} for every force action one
+    bulletin filed against a rule this corpus HOLDS.
+
+    ONE PLACE, read by the writer and by the gate that checks the writer ran. A second
+    copy of this precedence would let `mark()` and `check_filings()` disagree about what
+    the same month says, which is the one fact written twice this module exists to refuse.
+
+    A PERMANENT LOSS OF FORCE BEATS A TEMPORARY ONE, IN EITHER ORDER. One month can file
+    both against one rule, and taking the rows in file order would make the answer depend
+    on which was written second -- a repealed rule left `superseded` because its suspension
+    came after is a permanent loss of force served as a recoverable one, this ticket's
+    failure mode inverted."""
+    filed = {}
+    for row in (worklist.get("rules") or []):
+        if not isinstance(row, dict) or row.get("corpus_state") != "held":
+            continue
+        status = force_status(row.get("action"))
+        if status is None:
+            continue
+        prior = filed.get(row.get("number"))
+        if prior is None or (prior[0] != FORCE_ACTIONS["repeal"]
+                             and status == FORCE_ACTIONS["repeal"]):
+            filed[row["number"]] = (status, row["action"])
+    return filed
+
+
+def mark(catalog, worklist) -> tuple:
+    """Write every force action the Bulletin filed against a rule this corpus HOLDS onto
+    its OAR catalog row. Returns (rows changed, Problems).
+
+    MARKED, NEVER DELETED (ADR 0006). Nothing here removes a document, a path or an ingest
+    status: this corpus mirrors ORS sections that cite administrative rules, and a citation
+    resolves through the catalog row and the file it names. What changes is three keys on
+    a row that keeps everything else it had.
+
+    THE CATALOG WRITES AND THE DOCUMENT READS. This function stops at the catalog;
+    `enrich_oar.py` stamps the document from `bulletin_status_by_rule()`, so a legal status
+    is decided in one place and written into 36,953 files from one other.
+
+    A ROW IS ONLY WRITTEN FOR A RULE RECORDED `held`. A claim about Oregon law needs a
+    document to carry it, and `the-document-reads-it` refuses a row stating one for a
+    document nobody can find -- so a repeal filed against a chapter this corpus never
+    mirrored is left alone rather than recorded as a fact nothing here serves.
+
+    Both arguments are passed in rather than read here, so `--selftest` can fire the whole
+    write against a synthetic bulletin and a synthetic catalog."""
+    rows = {r["number"]: r for r in catalog_rules(catalog) if r.get("number")}
+    filed, problems = filed_force_actions(worklist), []
+    for number in sorted(set(filed) - set(rows)):
+        problems.append(Failure(
+            "catalog-reaches-the-rule", f"{number}",
+            f"the Bulletin filed a {filed[number][1]} against it and the OAR catalog "
+            "names no such rule, so there is no row to write the status onto and no "
+            "document to stamp it from. The catalog writes and the document reads -- a "
+            "rule reachable from neither is drift, not an accident"))
+        filed.pop(number)
+
+    notice, changed = worklist.get("bulletin"), 0
+    for number, (status, action) in filed.items():
+        row = rows[number]
+        if tuple(row.get(k) for k in MARKED_KEYS) == (status, action, notice):
+            continue
+        # LEGAL STATUS - WRITER: the three keys, written together. The status is what the
+        # document reads; the action is the part of the fact the schema enum cannot hold
+        # (a suspension is not a repeal); the notice is the citation that makes a claim
+        # about Oregon law checkable. `legal-status-cites-its-notice` refuses any of the
+        # three arriving without the others.
+        for key, value in zip(MARKED_KEYS, (status, action, notice)):
+            row[key] = value
+        changed += 1
+    return changed, problems
 
 
 def catalog_rules(catalog=None):
@@ -276,6 +458,21 @@ def ingest_vocabulary(source=None) -> set:
     return out
 
 
+def emitted_rules(source=None) -> set:
+    """Every rule name this module can report, read out of its own syntax tree.
+
+    So that `CHECK_RULES` -- the list `--selftest` counts its proofs against -- is compared
+    with what the code actually emits rather than trusted. A rule added to `check_committed`
+    or `check_filings` and to no proof is a rule nobody has watched fire, and the whole
+    discipline here is that a refusal nobody has seen fire is not known to work. Same
+    arrangement as `ingest-vocabulary-declared-once` one field over."""
+    tree = ast.parse(source if source is not None else Path(__file__).read_text())
+    return {n.args[0].value for n in ast.walk(tree)
+            if isinstance(n, ast.Call) and isinstance(n.func, ast.Name)
+            and n.func.id == "Failure" and n.args
+            and isinstance(n.args[0], ast.Constant) and isinstance(n.args[0].value, str)}
+
+
 def _status_key_writes(tree):
     """Lines assigning a legal-status word to something named `status`.
 
@@ -309,6 +506,17 @@ def _status_key_writes(tree):
                 if (isinstance(k, ast.Constant) and k.value in ("status", CATALOG_KEY)
                         and decides(v)):
                     yield k.lineno
+                # A MAPPING ONTO A LEGAL STATUS DECIDES ONE, whatever its keys are called.
+                # `{"repeal": "repealed", "suspend": "superseded"}` turns the Bulletin's
+                # verb into a claim about Oregon law and names no key `status` anywhere,
+                # so every rule above it passed over the most consequential table #229
+                # adds -- and that table is the shape the next second writer takes.
+                # Narrower than `decides()` on purpose, and asymmetric: the VALUE must be
+                # the status. A dict KEYED by one (`{"repealed": "no longer in force"}`)
+                # is a lookup that writes nothing, and reporting it would put this gate on
+                # every consumer that renders the field.
+                elif _yields_a_status(v):
+                    yield (k or v).lineno
         elif isinstance(node, ast.Call):
             for kw in node.keywords:
                 if kw.arg in ("status", CATALOG_KEY) and decides(kw.value):
@@ -524,6 +732,59 @@ def check_committed(catalog, doc_status) -> list:
                 "bulletin-status-is-known", f"{num}",
                 f"{legal!r} is not one of corpus-toolkit's {', '.join(LEGAL_STATUS_VALUES)}"))
 
+        # WHERE THE CLAIM CAME FROM. `legal_status` is the Oregon Bulletin's word for
+        # whether a rule is in force, and a claim about Oregon law with no citation is
+        # unattributable -- nobody can check it and nothing can tell it from a value
+        # somebody typed. The ACTION is not decoration either: it is the half of the fact
+        # corpus-toolkit's five-word enum has no room for, so a row that loses it can no
+        # longer tell a suspension from a repeal (ADR 0006, and #229's whole point).
+        action, notice = r.get(ACTION_KEY), r.get(NOTICE_KEY)
+        # ALL THREE OR NONE, counted rather than tested pairwise. Written as
+        # `(legal is not None) != (bool(action) and bool(notice))` this rule PASSED a row
+        # carrying an action alone -- both sides came out false, so a row saying a repeal
+        # was filed while saying no rule lost its force and naming no bulletin read as
+        # clean. A guard that fires on the wrong condition is one nobody can tell from a
+        # guard that works, and this one was watched failing on each of the three keys
+        # only after it was written to count them.
+        present = [k for k, v in ((CATALOG_KEY, legal), (ACTION_KEY, action),
+                                  (NOTICE_KEY, notice)) if v is not None]
+        if present and len(present) != len(MARKED_KEYS):
+            failures.append(Failure(
+                "legal-status-cites-its-notice", f"{num}",
+                f"holds {', '.join(present)} and not "
+                f"{', '.join(k for k in MARKED_KEYS if k not in present)}. "
+                "The three are one record and arrive together: the status is what the "
+                "document reads, the action is what the schema enum cannot say, and the "
+                "notice is the bulletin a human opens to check the claim. Any of them "
+                "without the others is a statement about Oregon law nobody can follow -- "
+                f"re-derive with: {REGENERATE}"))
+        elif legal is not None and action not in FORCE_ACTIONS:
+            failures.append(Failure(
+                "legal-status-action-is-known", f"{num}",
+                f"{ACTION_KEY}={action!r} changes no rule's FORCE. The Bulletin's actions "
+                f"that do are {', '.join(sorted(FORCE_ACTIONS))}; an adoption, an "
+                "amendment or a renumber changes TEXT, which re-ingests on its own "
+                "(ADR 0006) and is not a claim anybody set a legal status from"))
+        elif legal is not None and force_status(action) != legal:
+            failures.append(Failure(
+                "legal-status-derives-from-the-action", f"{num}",
+                f"is recorded {action!r} and {legal!r}, and a {action} makes a rule "
+                f"{force_status(action)!r}. The two are ONE FACT WRITTEN TWICE and this is "
+                "the gate on their agreement -- a row reading `suspend` beside `repealed` "
+                "publishes a temporary loss of force as a permanent one, which is the "
+                "substitution #229 exists to prevent"))
+        # MARKED, NEVER DELETED. The catalog row is what a citation resolves through, so a
+        # row that carries a repeal while saying this mirror no longer holds the rule is
+        # the deletion ADR 0006 refuses, recorded as though it were the marking.
+        if legal is not None and ingest not in HELD_INGEST_STATUSES:
+            failures.append(Failure(
+                "a-marked-rule-is-still-served", f"{num}",
+                f"carries {CATALOG_KEY}={legal!r} and ingest status {ingest!r}, which is "
+                f"not one of {', '.join(HELD_INGEST_STATUSES)}. ADR 0006 marks a repealed "
+                "rule and KEEPS it: this corpus mirrors ORS sections that cite "
+                "administrative rules, and a row that stops naming a served document "
+                "breaks every citation pointing at it while still looking answered"))
+
         # ONE FACT DECLARED TWICE, AND THE GATE ON THEIR AGREEMENT. The catalog is the
         # writer and the document is a reader (ADR 0006); a document that stopped agreeing
         # with the row it was stamped from is the drift this arrangement is supposed to make
@@ -542,6 +803,68 @@ def check_committed(catalog, doc_status) -> list:
                     f"the catalog says the Bulletin set {legal!r} and the document says "
                     f"{doc_status[num]!r}. The catalog writes and the document reads -- "
                     "re-stamp it rather than editing the document by hand"))
+    return failures
+
+
+
+def check_filings(catalog, worklist) -> list:
+    """The rule that makes every other rule here unsatisfiable by doing nothing.
+
+    Everything in `check_committed` checks a row that EXISTS. Strip the three keys off all
+    100 of them and every one of those rules passes on a corpus publishing 66 repealed
+    rules as `current` -- a gate a blank field satisfies, which is the shape #226 and #228
+    both had to close. This one reads the NOTICE and asks what is missing from the catalog,
+    so the only way to satisfy it is to have done the work.
+
+    Both directions, because they fail differently. A filing nothing recorded serves a
+    rule that lost its force as though it had not; a row citing this month's bulletin for
+    a filing the bulletin does not contain is a claim with a citation that does not support
+    it, which is worse than an uncited one because it looks checked.
+
+    SCOPED TO THE BULLETIN THIS WORKLIST HOLDS. This corpus keeps one month's worklist at a
+    time, so a row citing an earlier bulletin is one this run has nothing to read it
+    against -- it is left alone rather than reported, because could not check is never
+    reported as is not there."""
+    # NOTHING TO CHECK AGAINST IS NOT A CLEAN BILL. A worklist this could not read yields
+    # no filings, and no filings is exactly what a corpus with nothing outstanding looks
+    # like -- so the gate refuses rather than reporting the catalog complete on the
+    # strength of having read nothing. Its SHAPE is `check_bulletin.py --check`'s to
+    # report; this says only that the notice could not be read here.
+    rules = worklist.get("rules") if isinstance(worklist, dict) else None
+    if not isinstance(rules, list) or not rules:
+        return [Failure(
+            "the-notice-is-readable", _label(WORKLIST),
+            f"holds no rule actions ({rules!r}), so nothing here can say which repeals and "
+            "suspensions the catalog is missing. Every bulletin measured has named "
+            "hundreds; a worklist that cannot be read and a month in which nothing was "
+            "filed are different things -- run: python3 src/check_bulletin.py")]
+    rows = {r["number"]: r for r in catalog_rules(catalog) if r.get("number")}
+    notice = worklist.get("bulletin")
+    filed = filed_force_actions(worklist)
+    failures = []
+    for number, (status, action) in sorted(filed.items()):
+        row = rows.get(number)
+        # A number the catalog does not name is `check_bulletin.py --check`'s
+        # `catalog-knows-the-rule`, and reporting it twice would put one defect in two
+        # gates' counts.
+        if row is None:
+            continue
+        held = tuple(row.get(k) for k in MARKED_KEYS)
+        if held != (status, action, notice):
+            failures.append(Failure(
+                "a-filed-force-action-is-recorded", f"{number}",
+                f"{notice} filed a {action} against it and this corpus holds the rule, and "
+                f"its catalog row says {held!r} rather than "
+                f"{(status, action, notice)!r}. Until the row says so the document is "
+                f"served as though nothing had happened -- run: {REGENERATE}"))
+    for number, row in sorted(rows.items()):
+        if row.get(NOTICE_KEY) == notice and number not in filed:
+            failures.append(Failure(
+                "the-notice-names-the-filing", f"{number}",
+                f"cites {notice!r} for a {row.get(ACTION_KEY)!r} that bulletin filed "
+                "against no rule this corpus holds. A claim about Oregon law whose "
+                "citation does not support it is worse than one with no citation, because "
+                "it looks checked"))
     return failures
 
 
@@ -594,22 +917,43 @@ def rule_number(doc_id: str) -> str:
 # ------------------------------------------------------------------- commands
 
 
+def report(failures) -> int:
+    """Print every failure and return the count. One printer, because both commands print
+    the same shape and a second copy is where the two spellings drift apart."""
+    for f in failures:
+        print(f"  FAIL [{f.rule}] {f.site}: {f.detail}", file=sys.stderr)
+    return len(failures)
+
+
+def load_worklist():
+    """The committed Oregon Bulletin worklist, or None where it could not be read.
+
+    Read only: `check_bulletin.py` is its one writer. A file that is absent or unparseable
+    comes back as None rather than as a traceback, so `the-notice-is-readable` names the
+    rule -- a gate that dies instead of naming its rule is what #226 exists to close."""
+    try:
+        return yaml.safe_load(WORKLIST.read_text())
+    except (OSError, yaml.YAMLError):
+        return None
+
+
 def cmd_check() -> int:
     sites = census()
     catalog = yaml.safe_load(CATALOG.read_text())
+    worklist = load_worklist()
     bulletin_set = bulletin_status_by_rule(catalog)
     failures = (check_sites(sites) + check_vocabulary(ingest_vocabulary())
-                + check_committed(catalog, doc_status_by_rule(catalog, bulletin_set)))
-    for f in failures:
-        print(f"  FAIL [{f.rule}] {f.site}: {f.detail}", file=sys.stderr)
-    if failures:
+                + check_committed(catalog, doc_status_by_rule(catalog, bulletin_set))
+                + check_filings(catalog, worklist))
+    if report(failures):
         print(f"\n{len(failures)} legal-status violation(s)", file=sys.stderr)
         return 1
     writers = sorted({s.path for s in sites if s.purpose == "WRITER"})
     n_rules = sum(1 for _ in catalog_rules(catalog))
-    # THE CENSUS LINE, printed on every clean run. The Bulletin-set count is ZERO until
-    # #229 records the first repeal, and a rule that can only be watched not firing is a
-    # rule nobody can tell from a rule that stopped running -- so the number is on screen.
+    # THE CENSUS LINE, printed on every clean run, because a rule that can only be watched
+    # NOT firing is one nobody can tell from a rule that stopped running. The Bulletin-set
+    # count was zero until #229 recorded the August 2026 bulletin's 66 repeals and 34
+    # suspensions; it is on screen so a run that silently went back to zero is visible.
     print(f"{len(sites)} legal-status write(s) across "
           f"{len({s.path for s in sites})} module(s), every one marked: "
           + ", ".join(f"{p.lower()} {sum(1 for s in sites if s.purpose == p)}"
@@ -622,8 +966,56 @@ def cmd_check() -> int:
                   if r.get("status") in LEGAL_STATUS_VALUES
                   or r.get(CATALOG_KEY) in INGEST_STATUS_VALUES)
     print(f"{n_rules} catalog rule entr(ies) checked; {len(bulletin_set)} carr(y) a "
-          f"Bulletin-set `{CATALOG_KEY}`, every one agreeing with its document; "
-          f"{crossed} hold the other field's vocabulary")
+          f"Bulletin-set `{CATALOG_KEY}`, every one STILL SERVED by a document that "
+          f"could be read and agrees with it; {crossed} hold the other field's vocabulary")
+    # BY ACTION, because that is the distinction the schema enum cannot make. A single
+    # count of "rules out of force" would let 34 suspensions become 34 repeals with the
+    # total unchanged, which is exactly the collapse #229 forbids.
+    by_action = collections.Counter(
+        r[ACTION_KEY] for r in catalog_rules(catalog) if r.get(CATALOG_KEY) is not None)
+    print(f"{sum(by_action.values())} rule(s) marked out of force by the Bulletin: "
+          + (", ".join(f"{a} {n} ({force_status(a)})"
+                       for a, n in sorted(by_action.items())) or "none")
+          + f"; {len(filed_force_actions(worklist))} filed by "
+          f"{worklist.get('bulletin')}, every one recorded")
+    return 0
+
+
+def cmd_mark() -> int:
+    """Derive the catalog's legal statuses from the committed worklist, and SAY SO.
+
+    A REPEAL OR SUSPENSION REACHES A PERSON (ADR 0006). An amendment is a text refresh the
+    provenance chain already verifies and #230 re-ingests without asking; a claim about
+    FORCE is not applied silently, so every rule this changes is named here, and
+    `review_queue.py` puts the standing list in REVIEW.md where the other items needing
+    human attention live. corpus-toolkit#67 exists because a notice on stderr is a notice
+    nobody read."""
+    catalog = yaml.safe_load(CATALOG.read_text())
+    worklist = load_worklist()
+    # THE SAME REFUSAL THE GATE MAKES, on the write side. A worklist this could not read
+    # names no filings, and marking nothing would leave the catalog looking derived.
+    unreadable = [f for f in check_filings(catalog, worklist)
+                  if f.rule == "the-notice-is-readable"]
+    if report(unreadable):
+        return 1
+    changed, problems = mark(catalog, worklist)
+    if report(problems):
+        print(f"\n{len(problems)} rule(s) the Bulletin named and the catalog cannot reach",
+              file=sys.stderr)
+        return 1
+    marked = sorted((r["number"], r[ACTION_KEY], r[CATALOG_KEY])
+                    for r in catalog_rules(catalog) if r.get(CATALOG_KEY) is not None)
+    for action in sorted(FORCE_ACTIONS):
+        rules = [m for m in marked if m[1] == action]
+        print(f"\n{action}: {len(rules)} rule(s) -> status {force_status(action)!r}")
+        for number, _, _ in rules:
+            print(f"  OAR {number}")
+    print(f"\n{worklist.get('bulletin')}: {worklist.get('bulletin_url')}")
+    print(f"{changed} catalog row(s) rewritten, {len(marked)} marked in all. THE CATALOG "
+          "WRITES AND THE DOCUMENT READS -- stamp the documents with: "
+          "python3 src/enrich_oar.py")
+    CATALOG.write_text(yaml.safe_dump(catalog, sort_keys=False, allow_unicode=True,
+                                      width=100))
     return 0
 
 
@@ -706,6 +1098,19 @@ def _fixture_sources() -> dict:
         # gate whose rule is that an unmarked write fails.
         "a-production-function-named-like-a-fixture":
             "\ndef load_fixture_rows(d):\n    d['status'] = 'repealed'\n",
+        # A DECISION TABLE MAPPING SOMETHING ELSE ONTO A LEGAL STATUS. The keys are not
+        # `status`, so nothing above this ticket saw it -- and it is the exact shape the
+        # next second writer takes: the Bulletin's verb turned into a claim about Oregon
+        # law by a module that is not the one writer. A mapping TO a legal status decides
+        # one as surely as an assignment OF one.
+        "unmarked-action-table":
+            "\ndef status_of(action):\n"
+            "    return {'repeal': 'repealed', 'suspend': 'superseded'}.get(action)\n",
+        # ...and a mapping that merely mentions the words as KEYS is a lookup, not a
+        # decision: the narrowing that keeps this from firing on every consumer.
+        "a-status-keyed-lookup-is-not-a-decision":
+            "\ndef label(status):\n"
+            "    return {'repealed': 'no longer in force', 'draft': 'not adopted'}[status]\n",
         # THE FOURTH PURPOSE, exercised. No site in src/ carries it today -- the catalog's
         # own `not_ingested` is not one of the five words, so nothing trips the scan -- and
         # a purpose nobody has watched being accepted is one nobody knows is accepted.
@@ -733,6 +1138,8 @@ _SOURCE_CASES = [
     ("clean-module-with-proof-code", None),
     ("a-production-function-named-like-a-fixture", "legal-status-write-classified"),
     ("a-status-that-is-not-a-legal-status", None),
+    ("unmarked-action-table", "legal-status-write-classified"),
+    ("a-status-keyed-lookup-is-not-a-decision", None),
 ]
 
 
@@ -740,6 +1147,20 @@ def _fixture_catalog(number="101-015-0056", **rule) -> dict:
     """A one-rule OAR catalog in the committed file's shape."""
     return {"chapters": [{"chapter": "101", "divisions": [
         {"division": "15", "rules": [dict({"number": number}, **rule)]}]}]}
+
+
+# The bulletin a fixture cites when the proof is about something other than the citation.
+FIXTURE_NOTICE = "August 2026 (bulltnRsn=1761)"
+
+
+def _marked_fixture(**rule) -> dict:
+    """A one-rule catalog whose row is marked WHOLE -- status, action and notice together,
+    the three keys `legal-status-cites-its-notice` requires of each other.
+
+    Separate from `_fixture_catalog` on purpose: the rule that a marked row cites its
+    notice is proved by STRIPPING keys off a row, so the fixture that builds one must not
+    fill them back in."""
+    return _fixture_catalog(legal_status_notice=FIXTURE_NOTICE, **rule)
 
 
 def _proof_resolve(check) -> None:
@@ -805,12 +1226,18 @@ def _proof_the_agreement_rule_reads_real_documents(check) -> None:
     # turn a legitimate future restamp of this one rule into a red gate for an unrelated
     # reason; what this proves is that the function reaches a real file and returns what is
     # in it, so the fixture row is built from the answer rather than the other way round.
-    said = doc_status_by_rule(_fixture_catalog(number=real, status="ingested",
-                                               legal_status="repealed", path=path), [real])
+    said = doc_status_by_rule(_fixture_catalog(number=real, status="ingested", path=path),
+                              [real])
     check("a committed rule document's status is read off disk",
           said.get(real) in LEGAL_STATUS_VALUES)
-    agreeing = _fixture_catalog(number=real, status="ingested",
-                                legal_status=said.get(real), path=path)
+    # AND THE ROW IS BUILT WHOLE. Since #229 a catalog row stating a legal status also
+    # states the action and the notice it came from, and `legal-status-derives-from-the-
+    # action` gates the pair -- so the fixture takes the action that PRODUCES what the
+    # document says rather than restating the status beside an unrelated verb.
+    action = next((a for a, v in FORCE_ACTIONS.items() if v == said.get(real)), None)
+    check("...and it is a status some filed action produces", action is not None)
+    agreeing = _marked_fixture(number=real, status="ingested", path=path,
+                               legal_status=said.get(real), legal_status_action=action)
     check("a document agreeing with the catalog is not a finding",
           not check_committed(agreeing, said))
     # THE OVERWRITE, CAUGHT. This is what a re-ingest stamping a different status over a
@@ -823,7 +1250,8 @@ def _proof_the_agreement_rule_reads_real_documents(check) -> None:
           any(f.rule == "the-document-reads-it"
               for f in check_committed(agreeing, {})))
     # A row naming no path is one no document could be read for, and must not pass either.
-    pathless = _fixture_catalog(number=real, status="not_served", legal_status="repealed")
+    pathless = _marked_fixture(number=real, status="ingested",
+                               legal_status="repealed", legal_status_action="repeal")
     check("...nor is a row that names no document at all",
           any(f.rule == "the-document-reads-it"
               for f in check_committed(pathless,
@@ -907,9 +1335,9 @@ def _proof_only_frontmatter_is_read_for_a_status(check) -> None:
     (d / "oar-125-010-0005.md").write_text(
         "---\nid: oar-125-010-0005\nstatus: repealed\n---\n\n## Full text\n\n"
         "status: current shall be recorded by the agency.\n")
-    cat = _fixture_catalog(number="125-010-0005", status="ingested",
-                           legal_status="repealed",
-                           path=str(d / "oar-125-010-0005.md"))
+    cat = _marked_fixture(number="125-010-0005", status="ingested",
+                          legal_status="repealed", legal_status_action="repeal",
+                          path=str(d / "oar-125-010-0005.md"))
     got = doc_status_by_rule(cat, ["125-010-0005"])
     check("a `status:` line in a rule's own text is not read as its legal status",
           got.get("125-010-0005") == "repealed")
@@ -917,17 +1345,208 @@ def _proof_only_frontmatter_is_read_for_a_status(check) -> None:
     # A file with no frontmatter block at all yields no status, and the row stating one is
     # reported rather than passed over.
     (d / "oar-125-010-0006.md").write_text("status: current\n")
-    bare = _fixture_catalog(number="125-010-0006", status="ingested",
-                            legal_status="repealed",
-                            path=str(d / "oar-125-010-0006.md"))
+    bare = _marked_fixture(number="125-010-0006", status="ingested",
+                           legal_status="repealed", legal_status_action="repeal",
+                           path=str(d / "oar-125-010-0006.md"))
     check("a file with no frontmatter block is a document that could not be read",
           any(f.rule == "the-document-reads-it"
               for f in check_committed(bare, doc_status_by_rule(bare, ["125-010-0006"]))))
 
 
+def _proof_force_status(check) -> None:
+    """WHAT A FILED ACTION DOES TO A RULE'S FORCE, asserted rather than described."""
+    check("a filed repeal is a repeal", force_status("repeal") == "repealed")
+    check("a filed suspension is not a repeal", force_status("suspend") != "repealed")
+    check("a suspension takes the rule out of force",
+          force_status("suspend") != UNKNOWN_BUT_SERVED)
+    check("every force action maps into the schema enum",
+          all(v in LEGAL_STATUS_VALUES for v in FORCE_ACTIONS.values()))
+    check("an amendment is not a force action", force_status("amend") is None)
+
+
+def _fixture_worklist(*actions, bulletin=FIXTURE_NOTICE) -> dict:
+    """A bulletin worklist in the committed file's shape. `actions` are (number, action,
+    corpus_state) triples."""
+    return {"bulletin": bulletin, "rules": [
+        {"number": n, "action": a, "corpus_state": st} for n, a, st in actions]}
+
+
+def _proof_marking(check) -> None:
+    """THE WRITE ITSELF: a filed action becomes a catalog row, and a suspension does not
+    become a repeal."""
+    cat = _fixture_catalog(number="101-015-0056", status="ingested",
+                           path="rules/101/015/oar-101-015-0056.md")
+    cat["chapters"][0]["divisions"][0]["rules"].append(
+        {"number": "165-002-0010", "status": "ingested",
+         "path": "rules/165/002/oar-165-002-0010.md"})
+    work = _fixture_worklist(("101-015-0056", "repeal", "held"),
+                             ("165-002-0010", "suspend", "held"))
+    written, problems = mark(cat, work)
+    rows = {r["number"]: r for r in catalog_rules(cat)}
+    check("a filed repeal is written onto the catalog row",
+          rows["101-015-0056"][CATALOG_KEY] == "repealed")
+    check("...and cites the notice it came from",
+          rows["101-015-0056"][NOTICE_KEY] == FIXTURE_NOTICE)
+    # THE CRITERION. Both rows lose force and the two are told apart in BOTH fields --
+    # flip FORCE_ACTIONS["suspend"] to "repealed" and this is what goes red.
+    check("a suspension is not written as a repeal",
+          rows["165-002-0010"][CATALOG_KEY] != "repealed")
+    check("...and the action that produced it is on the row",
+          (rows["165-002-0010"][ACTION_KEY], rows["101-015-0056"][ACTION_KEY])
+          == ("suspend", "repeal"))
+    check("both rules are marked", written == 2 and not problems)
+    # MARKED, NEVER DELETED: the row keeps its ingest status and its path.
+    check("a marked rule is still held and still has a document",
+          (rows["101-015-0056"]["status"], bool(rows["101-015-0056"]["path"]))
+          == ("ingested", True))
+    check("re-marking the same worklist writes nothing new", mark(cat, work)[0] == 0)
+    # AN AMENDMENT CHANGES TEXT, NOT FORCE -- #230's, and this writer must not touch it.
+    amended = _fixture_catalog(number="101-015-0056", status="ingested", path="x.md")
+    check("an amendment is not a legal-status write",
+          mark(amended, _fixture_worklist(("101-015-0056", "amend", "held")))[0] == 0
+          and CATALOG_KEY not in list(catalog_rules(amended))[0])
+    # A RULE THIS CORPUS DOES NOT HOLD gets no claim written about it: there is no
+    # document to carry it, and a catalog row asserting a status nothing serves is what
+    # `the-document-reads-it` exists to refuse.
+    absent = _fixture_catalog(number="101-015-0056", status="ingested", path="x.md")
+    check("a rule the corpus does not hold is not marked",
+          mark(absent, _fixture_worklist(
+              ("101-015-0056", "repeal", "chapter_not_mirrored")))[0] == 0)
+    # A NUMBER THE CATALOG DOES NOT NAME IS REPORTED, not skipped: the catalog writes and
+    # the document reads, so a filing against a rule the catalog cannot reach is drift.
+    stranger = _fixture_catalog(number="101-015-0056", status="ingested", path="x.md")
+    check("a filing against a rule the catalog does not name is reported",
+          any(f.rule == "catalog-reaches-the-rule" for f in mark(
+              stranger, _fixture_worklist(("999-999-9999", "repeal", "held")))[1]))
+    # TWO FILINGS IN ONE MONTH. A repeal and a suspension against the same rule is a
+    # permanent loss of force and a temporary one filed together; the permanent one is
+    # what the rule ends in, whichever order the rows arrive.
+    both = _fixture_catalog(number="101-015-0056", status="ingested", path="x.md")
+    mark(both, _fixture_worklist(("101-015-0056", "suspend", "held"),
+                                 ("101-015-0056", "repeal", "held")))
+    check("a repeal filed alongside a suspension wins",
+          list(catalog_rules(both))[0][CATALOG_KEY] == "repealed")
+    reversed_ = _fixture_catalog(number="101-015-0056", status="ingested", path="x.md")
+    mark(reversed_, _fixture_worklist(("101-015-0056", "repeal", "held"),
+                                      ("101-015-0056", "suspend", "held")))
+    check("...whichever order the rows arrive in",
+          list(catalog_rules(reversed_))[0][CATALOG_KEY] == "repealed")
+
+
+def _proof_a_marked_row_says_where_it_came_from(check) -> None:
+    """A CLAIM ABOUT OREGON LAW CARRIES ITS CITATION, or it is unattributable.
+
+    `legal_status` is the Bulletin's word for whether a rule is in force. A row holding one
+    with no action and no notice states that word on nobody's authority -- and the action
+    is not decoration: it is the half of the fact corpus-toolkit's five-word enum cannot
+    hold, so a row that loses it can no longer tell a suspension from a repeal."""
+    marked = dict(number="101-015-0056", status="ingested",
+                  path="rules/101/015/oar-101-015-0056.md", legal_status="repealed",
+                  legal_status_action="repeal",
+                  legal_status_notice=FIXTURE_NOTICE)
+    whole = _fixture_catalog(**marked)
+    said = doc_status_by_rule(whole, ["101-015-0056"])
+    check("a fully attributed row is not a finding",
+          not [f for f in check_committed(whole, dict(said, **{"101-015-0056": "repealed"}))])
+    # EACH OF THE THREE, ALONE AND MISSING. Both directions matter and the second is the
+    # one that got through: written as a pair of booleans this rule PASSED a row holding
+    # `legal_status_action: repeal` and nothing else -- a filing recorded as having changed
+    # no rule's force, which is the fact the ticket exists to record, lost.
+    for key in MARKED_KEYS:
+        stripped = {k: v for k, v in marked.items() if k != key}
+        check(f"a marked row with no {key} is caught",
+              any(f.rule == "legal-status-cites-its-notice"
+                  for f in check_committed(_fixture_catalog(**stripped),
+                                           {"101-015-0056": "repealed"})))
+        alone = {k: v for k, v in marked.items() if k not in MARKED_KEYS or k == key}
+        check(f"a row holding {key} and neither of the others is caught",
+              any(f.rule == "legal-status-cites-its-notice"
+                  for f in check_committed(_fixture_catalog(**alone),
+                                           {"101-015-0056": "repealed"})))
+    # THE MUST-NOT-FIRE SIDE: an unmarked row is every one of the 36,907 rows that carry
+    # no Bulletin claim at all, and a rule that fired on those would fire 36,907 times.
+    check("a row carrying none of the three is not a finding",
+          not [f for f in check_committed(
+              _fixture_catalog(number="101-015-0056", status="ingested",
+                               path="rules/101/015/oar-101-015-0056.md"), {})
+              if f.rule == "legal-status-cites-its-notice"])
+    # THE ACTION AND THE STATUS ARE ONE FACT WRITTEN TWICE, so their agreement is gated.
+    # Without this a row could say `legal_status_action: suspend` beside `legal_status:
+    # repealed` and every other rule here would pass it -- a temporary loss of force
+    # published as a permanent one, which is the thing #229 exists to prevent.
+    check("a status that does not follow from its action is caught",
+          any(f.rule == "legal-status-derives-from-the-action"
+              for f in check_committed(
+                  _fixture_catalog(**dict(marked, legal_status_action="suspend")),
+                  {"101-015-0056": "repealed"})))
+    check("an action that changes no force is caught",
+          any(f.rule == "legal-status-action-is-known"
+              for f in check_committed(
+                  _fixture_catalog(**dict(marked, legal_status_action="amend")),
+                  {"101-015-0056": "repealed"})))
+    # MARKED, NEVER DELETED. The row that carries the repeal is the row a citation
+    # resolves through; an ingest status saying this mirror no longer holds the rule is
+    # what deleting the document leaves behind, and it must not pass as a clean repeal.
+    check("a marked rule the catalog no longer holds is caught",
+          any(f.rule == "a-marked-rule-is-still-served"
+              for f in check_committed(
+                  _fixture_catalog(**dict(marked, status="not_served")),
+                  {"101-015-0056": "repealed"})))
+
+
+def _proof_every_filed_force_action_is_recorded(check) -> None:
+    """THE RULE THAT MAKES THE OTHERS UNSATISFIABLE BY DOING NOTHING.
+
+    Every rule above checks a row that EXISTS. Delete the three keys from all 100 of them
+    and every one of those rules passes on a corpus that publishes 66 repealed rules as
+    current -- a criterion a blank file satisfies. This is the rule that reads the notice
+    and asks what is missing, and it is the one that had to be written last because it is
+    the only one that cannot be satisfied by deleting information."""
+    cat = _fixture_catalog(number="101-015-0056", status="ingested", path="x.md")
+    work = _fixture_worklist(("101-015-0056", "repeal", "held"))
+    check("a filed repeal nothing recorded is caught",
+          any(f.rule == "a-filed-force-action-is-recorded"
+              for f in check_filings(cat, work)))
+    mark(cat, work)
+    check("...and is not a finding once it is recorded", not check_filings(cat, work))
+    # THE MUST-NOT-FIRE GUARD, on the other side: an amendment is #230's and a rule this
+    # corpus does not hold has no document to carry a claim, so neither may be demanded.
+    for action, state in (("amend", "held"), ("repeal", "chapter_not_mirrored"),
+                          ("repeal", "missing_from_mirrored_chapter")):
+        bare = _fixture_catalog(number="101-015-0056", status="ingested", path="x.md")
+        check(f"a {action} recorded {state} is not demanded",
+              not check_filings(bare, _fixture_worklist(
+                  ("101-015-0056", action, state))))
+    # A NOTICE THIS COULD NOT READ IS NOT A MONTH WITH NOTHING IN IT. Without this the
+    # whole rule above passes on an unreadable worklist, which is the same "could not
+    # check reported as is not there" substitution one level up.
+    for unreadable in (None, {}, {"rules": []}, {"rules": None}, "not a mapping"):
+        check(f"an unreadable notice is refused, not read as a quiet month ({unreadable!r})",
+              any(f.rule == "the-notice-is-readable"
+                  for f in check_filings(cat, unreadable)))
+    # AND THE CONVERSE. A row citing this month's bulletin for a filing the bulletin does
+    # not contain is a claim about Oregon law with a citation that does not support it,
+    # which is worse than an uncited one -- it looks checked.
+    invented = _fixture_catalog(number="101-015-0056", status="ingested", path="x.md")
+    mark(invented, _fixture_worklist(("101-015-0056", "repeal", "held")))
+    check("a marked row this month's bulletin does not support is caught",
+          any(f.rule == "the-notice-names-the-filing"
+              for f in check_filings(invented, _fixture_worklist(
+                  ("101-015-0056", "amend", "held")))))
+    # ...and a row citing a DIFFERENT bulletin is left alone: this corpus holds one
+    # month's worklist at a time, so an older notice is one this run cannot read, and
+    # "could not check" is never reported as "is not there".
+    check("a row citing an earlier bulletin is not contradicted by this one",
+          not check_filings(invented, _fixture_worklist(
+              ("101-015-0056", "amend", "held"),
+              bulletin="September 2026 (bulltnRsn=1762)")))
+
+
 def selftest() -> int:
     check = Checks()
     _proof_resolve(check)
+    _proof_force_status(check)
+    _proof_marking(check)
     sources = _fixture_sources()
     for name, rule in _SOURCE_CASES:
         failures = check_sites(scan_source(f"<{name}>", sources[name]))
@@ -940,20 +1559,37 @@ def selftest() -> int:
     _proof_the_two_fields_named_status(check)
     _proof_the_ingest_vocabulary_is_not_a_second_copy(check)
     _proof_only_frontmatter_is_read_for_a_status(check)
+    _proof_a_marked_row_says_where_it_came_from(check)
+    _proof_every_filed_force_action_is_recorded(check)
+    # THE DECLARATION, GATED FROM BOTH SIDES. A rule the code can emit and `CHECK_RULES`
+    # does not name would go uncounted; a rule named there that nothing above actually made
+    # fire is one nobody has watched work, and a name in two lists is not a proof.
+    check("every rule this module can report is declared",
+          emitted_rules() == set(CHECK_RULES))
+    check("...and every declared rule was watched firing, not merely listed",
+          set(CHECK_RULES) <= _FIRED)
     return check.report(
         f"{sum(1 for c in _SOURCE_CASES if c[1])} unmarked or mismarked write(s) "
         f"demonstrated failing across {len({c[1] for c in _SOURCE_CASES if c[1]})} rule(s), "
         f"{sum(1 for c in _SOURCE_CASES if not c[1])} clean module(s) left alone, "
-        "a second writer and an overwritten bulletin status both watched failing -- selftest")
+        f"{len(CHECK_RULES)} rule(s) declared, every one both emitted by this module "
+        "and watched firing here; "
+        "a second writer, an overwritten bulletin status and a suspension written as a "
+        "repeal all watched failing -- selftest")
 
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--check", action="store_true")
     ap.add_argument("--selftest", action="store_true")
+    ap.add_argument("--mark", action="store_true",
+                    help="derive the catalog's legal statuses from the committed Oregon "
+                         "Bulletin worklist and name every rule that changed")
     a = ap.parse_args()
     if a.check:
         return cmd_check()
+    if a.mark:
+        return cmd_mark()
     if a.selftest:
         return selftest()
     return cmd_census()

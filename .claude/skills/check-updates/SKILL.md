@@ -63,6 +63,13 @@ changes.
        # rest too. Order matters only in that link_graph comes first.
        python3 src/build_ors_disposition.py      # repeal dispositions (feeds resolve_citation)
        python3 src/enrich_statutes.py
+       # THE BULLETIN'S CLAIM ABOUT FORCE, BEFORE THE STAMP THAT CARRIES IT. `--mark`
+       # derives each held rule's legal status from `_meta/bulletin-worklist.yml` onto its
+       # OAR catalog row and NAMES every rule whose force changed — a repeal or suspension
+       # reaches a person (ADR 0006). `enrich_oar.py` then stamps the documents from the
+       # catalog, so it must run after. Nothing is deleted: a repealed rule is marked and
+       # kept, because citations point at it.
+       python3 src/legal_status.py --mark
        python3 src/enrich_oar.py
        python3 src/review_queue.py               # REVIEW.md
        python3 src/build_llms.py                 # llms.txt

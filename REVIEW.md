@@ -250,7 +250,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/199/ (5 rules)` — correct non-links — 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/213/ (18 rules)` — correct non-links — 18 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/230/ (48 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 47 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/250/ (51 rules)` — correct non-links — 25 cite only chapter-level authority (no section to link to); 26 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/250/ (52 rules)` — correct non-links — 25 cite only chapter-level authority (no section to link to); 27 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/250/010/oar-250-010-0430.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/255/ (22 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 18 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/255/075/oar-255-075-0001.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -258,7 +258,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/257/ (52 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 51 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/259/ (4 rules)` — correct non-links — 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/274/ (52 rules)` — correct non-links — 16 cite only chapter-level authority (no section to link to); 36 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/291/ (20 rules)` — correct non-links — 20 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/291/ (22 rules)` — correct non-links — 22 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/309/ (39 rules)` — correct non-links — 39 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/309/022/oar-309-022-0192.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/325/ (77 rules)` — correct non-links — 77 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
@@ -278,16 +278,16 @@ The document prints a different date than its listing of record (known site typo
 - `rules/340/222/oar-340-222-0090.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/345/ (28 rules)` — correct non-links — 28 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/345/020/oar-345-020-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/350/ (127 rules)` — correct non-links — 127 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/350/ (144 rules)` — correct non-links — 144 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/350/011/oar-350-011-0005.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/350/011/oar-350-011-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/350/013/oar-350-013-0001.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/407/ (14 rules)` — correct non-links — 14 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/409/ (27 rules)` — correct non-links — 27 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/409/015/oar-409-015-0022.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/410/ (95 rules)` — correct non-links — 95 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/410/ (96 rules)` — correct non-links — 96 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/410/146/oar-410-146-0080.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/411/ (6 rules)` — correct non-links — 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/411/ (11 rules)` — correct non-links — 11 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/411/340/oar-411-340-0135.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/413/ (53 rules)` — correct non-links — 53 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/414/ (136 rules)` — correct non-links — 19 cite only chapter-level authority (no section to link to); 117 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
@@ -305,7 +305,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/440/ (7 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/441/ (40 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 39 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/459/ (41 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 38 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/461/ (30 rules)` — correct non-links — 30 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/461/ (32 rules)` — correct non-links — 32 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/462/ (4 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/471/ (8 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/543/ (3 rules)` — correct non-links — 2 cite only chapter-level authority (no section to link to); 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
@@ -337,7 +337,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/629/001/oar-629-001-0030.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/629/620/oar-629-620-0200.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/632/ (3 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
-- `rules/635/ (263 rules)` — correct non-links — 232 cite only chapter-level authority (no section to link to); 31 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/635/ (266 rules)` — correct non-links — 232 cite only chapter-level authority (no section to link to); 34 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/635/004/oar-635-004-0420.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/635/007/oar-635-007-0960.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/635/007/oar-635-007-0965.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -368,7 +368,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/690/ (454 rules)` — correct non-links — 263 cite only chapter-level authority (no section to link to); 191 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/690/040/oar-690-040-0000.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/690/080/oar-690-080-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/695/ (6 rules)` — correct non-links — 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/695/ (7 rules)` — correct non-links — 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/698/ (4 rules)` — correct non-links — 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/705/ (18 rules)` — correct non-links — 18 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/715/ (6 rules)` — correct non-links — 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
@@ -393,7 +393,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/809/ (7 rules)` — correct non-links — 6 cite only chapter-level authority (no section to link to); 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/811/ (8 rules)` — correct non-links — 6 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/812/ (56 rules)` — correct non-links — 56 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/813/ (86 rules)` — correct non-links — 86 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/813/ (110 rules)` — correct non-links — 110 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/813/005/oar-813-005-0020.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/813/005/oar-813-005-0025.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/813/005/oar-813-005-0030.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -423,7 +423,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/859/400/oar-859-400-0025.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/860/ (51 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); 40 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/863/ (23 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 22 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/875/ (5 rules)` — correct non-links — 5 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/875/ (6 rules)` — correct non-links — 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/877/ (3 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/918/ (19 rules)` — correct non-links — 19 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/918/674/oar-918-674-0025.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -667,6 +667,111 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 830.655` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 92.990` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 94.785` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+
+## Rules the Oregon Bulletin took out of force — verify each (100)
+
+The Bulletin is the official monthly digest of rule filings, and these are the rules it repealed or suspended that this corpus holds. Per ADR 0006 the document is MARKED and KEPT: every citation pointing at it still resolves, and its `status` frontmatter now says it is not current text. An amendment is a text refresh that re-ingests on its own; a claim about legal FORCE is not applied silently, which is why these are listed here. A SUSPENSION IS NOT A REPEAL — every suspension Oregon files carries an end date, so check whether one has lapsed before treating the rule as gone. Derived from `_meta/catalog/oar.yml` (`legal_status`), written by `python3 src/legal_status.py --mark`; verify each against the bulletin named beside it and record the review in the file.
+
+- `OAR 165-002-0010` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 250-020-0161` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 291-082-0105` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 291-082-0110` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 291-104-0111` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 291-104-0125` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-011-0001` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-011-0003` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-011-0004` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-011-0006` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-011-0007` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-011-0008` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-011-0009` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-011-0011` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-012-0002` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-012-0005` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-012-0006` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-012-0007` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-012-0008` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-012-0009` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-014-0001` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-014-0002` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-014-0003` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-014-0004` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-014-0005` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-014-0006` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-014-0007` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0001` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0002` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0003` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0004` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0005` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0006` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0007` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0008` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0009` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0011` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0012` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0013` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0014` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0015` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0016` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0017` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0018` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0022` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0024` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 350-016-0025` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 410-141-3830` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 411-057-0100` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 411-057-0110` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 411-057-0140` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 411-057-0160` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 411-057-0170` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 461-135-0880` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 461-145-0455` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 461-170-0011` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 635-004-0275` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 635-004-0585` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 635-041-0076` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 695-046-0195` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-001-0002` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-001-0003` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-001-0007` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-001-0009` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-001-0011` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-001-0060` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-005-0020` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-005-0060` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-005-0070` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-012-0080` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-012-0100` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-012-0120` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-012-0140` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-012-0150` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-012-0160` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-012-0180` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-030-0020` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-030-0032` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-030-0040` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-030-0044` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-030-0060` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-030-0066` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-030-0067` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-030-0070` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-060-0025` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-060-0030` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-060-0031` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-060-0032` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-060-0036` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-060-0038` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-060-0040` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-060-0044` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 813-060-0045` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 875-010-0031` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 918-311-0060` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 918-674-0025` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 918-674-0033` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 918-674-0038` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 918-674-0057` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 918-674-0100` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 
 ## Catalog: renumbered / repealed rules (auto-resolved — verify mappings) (533)
 

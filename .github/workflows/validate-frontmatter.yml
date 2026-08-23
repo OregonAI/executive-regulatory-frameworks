@@ -190,7 +190,9 @@ jobs:
       # proves the arrangement can fail: a second writer, a write nobody marked, a "reader"
       # that kept its own literal, and — the one this ticket exists for — a re-ingest that
       # overwrote a Bulletin-set status, which is fired against a COMMITTED rule document
-      # rather than a fixture because no committed row carries a Bulletin status until #229.
+      # rather than a fixture. It also fires the write itself: a repeal and a suspension go
+      # through `mark()` onto a synthetic catalog and the two come out distinguishable —
+      # flip the suspension's target to `repealed` and that is the case that goes red.
       # Synthetic sources, no network.
       - name: Legal status must have exactly one writer
         run: python3 src/legal_status.py --selftest
@@ -336,9 +338,13 @@ jobs:
       # catalog rule entries — the document's `status` is whether a rule is IN FORCE and the
       # catalog's is whether THIS MIRROR holds a copy (CONTEXT.md keeps two entries for
       # exactly this). Where the catalog states a Bulletin-set `legal_status`, the document
-      # must agree; that comparison is over 0 rows until #229 records the first filed repeal,
-      # and `--check` prints the count on every run so the zero stays visible. ~4 s, reads
-      # committed data only, no network.
+      # must agree — 100 rows since #229, the 66 repeals and 34 suspensions the August 2026
+      # bulletin filed against rules this corpus holds, and `--check` prints the count by
+      # ACTION on every run so 34 suspensions cannot become 34 repeals with the total
+      # unchanged. It also reads the committed worklist and fails if a filed repeal or
+      # suspension is NOT recorded, which is the half no rule about an existing row can
+      # state: strip the keys off all 100 and every other rule here passes on a corpus
+      # serving repealed rules as current. ~4 s, reads committed data only, no network.
       - name: Legal status must be written once and read everywhere else
         run: python3 src/legal_status.py --check
 

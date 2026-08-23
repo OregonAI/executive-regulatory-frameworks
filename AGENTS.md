@@ -395,6 +395,22 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   `status` holding the other's vocabulary across the 37,007 catalog rule entries, and on a
   document that stopped agreeing with the catalog row it was stamped from. `--selftest` proves
   every one of those can fail, the two mutations included.
+  A REPEALED OR SUSPENDED RULE IS MARKED, NEVER DELETED (#229, ADR 0006). The August 2026
+  bulletin filed **66 repeals and 34 suspensions** against rules this corpus holds, and every
+  one was served `current`. `python3 src/legal_status.py --mark` derives them from
+  `_meta/bulletin-worklist.yml` onto the catalog row — `legal_status`, `legal_status_action`
+  and `legal_status_notice`, none of which may appear without the others — and
+  `python3 src/enrich_oar.py` stamps the documents from there, so the catalog writes and the
+  document reads. **Nothing is deleted**: path, ingest status and file are untouched, because
+  this corpus mirrors ORS sections that cite administrative rules and a deleted rule breaks
+  every citation pointing at it. **A SUSPENSION IS NOT A REPEAL** — the shared schema enum has
+  one word for a loss of force and it means a permanent one, so a suspension is stamped
+  `superseded` (the strongest true thing the enum can say) and `legal_status_action` carries
+  the part it cannot — the gap in the shared enum is filed as corpus-toolkit#159 rather
+  than papered over. `--check` also reads the worklist and fails if a filed repeal or
+  suspension is not recorded, which is the only rule here that deleting information cannot
+  satisfy. The 100 rules are listed in REVIEW.md, because a claim about legal force reaches a
+  person rather than being applied silently.
   `name` IS THE STATUTORY NAME since #168 (ADR 0003), and every row states in `name_basis`
   whether it actually holds one: `enabling-authority` — read off the body's enabling
   authority by a human, written only by `src/link_enabling_authority.py`'s `STATUTORY_NAMES`
