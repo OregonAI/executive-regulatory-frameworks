@@ -362,14 +362,16 @@ jobs:
         run: python3 src/legal_status.py --check
       # The same arrangement from the re-ingest side, against committed data. Reads the
       # committed worklist and demands a re-ingest record for EVERY text action the
-      # bulletin filed against a rule this corpus holds — 306 for August 2026 — so the
-      # gate cannot be satisfied by a corpus that re-ingested nothing, which is the shape
-      # every rule about an existing row has. It also refuses the two things that would
-      # undo #229: a row recording a re-ingest of a repeal or a suspension, and a row
-      # carrying a Bulletin-set `legal_status` that this path wrote to at all. The 100
-      # rows the August bulletin took out of force are printed by ACTION on every run, so
-      # a corpus that silently started re-ingesting them is a number that moved. Every
-      # re-ingested document is verified against the snapshot committed beside it and
+      # bulletin filed against a rule this corpus holds — 306 the month this landed — so
+      # the gate cannot be satisfied by a corpus that re-ingested nothing, which is the
+      # shape every rule about an existing row has. It also refuses the two things that
+      # would undo #229: a row recording a re-ingest of a repeal or a suspension, and a
+      # row carrying a Bulletin-set `legal_status` that this path wrote to at all. The
+      # rows out of force are COUNTED by action on every run, beside the count of those
+      # that also record a re-ingest, so a corpus that silently started re-ingesting them
+      # is a number that moved rather than a sentence that stopped being true. Every
+      # re-ingested document — every bulletin, not only the current one — is verified
+      # against the snapshot committed beside it and
       # reproduced byte for byte by re-running the refresh over it, which is what makes
       # "re-running produces byte-identical output" a gate rather than an observation.
       # ~10 s; reads committed data only, no network.

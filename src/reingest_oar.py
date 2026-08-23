@@ -70,6 +70,7 @@ import argparse
 import re
 import sys
 from collections import namedtuple
+from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -78,9 +79,13 @@ import yaml
 
 import check_bulletin
 import legal_status
-from legal_status import CATALOG_KEY, FORCE_ACTIONS, catalog_rules, resolve
-from datetime import date
-
+# The one writer of a legal status, and the helpers this module would otherwise keep a
+# second copy of. `report` says so in its own docstring -- "One printer, because both
+# commands print the same shape and a second copy is where the two spellings drift
+# apart" -- and the same argument covers `load_worklist` (one reader of one file that
+# `check_bulletin.py` alone writes) and `_label` (one spelling of a path in a message).
+from legal_status import (CATALOG_KEY, FORCE_ACTIONS, _label, catalog_rules,
+                          load_worklist, report)
 from enrich_oar import apply as enrich_apply
 from enrich_oar import derive as enrich_derive
 from enrich_oar import load_registry_by_chapter
@@ -91,7 +96,9 @@ from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, Checks, content_hash, hash_snapsh
                       normalize_volatile, snapshot_slice, ws_only)
 
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
-WORKLIST = REPO_ROOT / "_meta/bulletin-worklist.yml"
+# Read through `legal_status.load_worklist()`; named here only for the message
+# `the-notice-is-readable` prints.
+WORKLIST = legal_status.WORKLIST
 
 # THE BULLETIN ACTIONS THAT CHANGE A RULE'S TEXT, and the whole of this path's mandate.
 # ADR 0006: "An amendment is a text refresh the provenance chain already verifies, so it
@@ -219,6 +226,24 @@ def check_partition(actions, text_actions, force_actions, corpus_states) -> list
 # ------------------------------------------------------------------- which rules, and why
 
 
+class Refusal(namedtuple("Refusal", "status action")):
+    """Why one rule the bulletin filed a text action against is NOT re-ingested: the legal
+    status that bulletin put it in, and the verb that did it.
+
+    A RECORD RATHER THAN A SENTENCE. This was one formatted string, and `_census()` got the
+    status back out of it with `why.split(":")[0]` -- a structured fact flattened into prose
+    at one end and parsed apart at the other, which is a fact declared twice with the
+    formatting as the only thing holding them together."""
+
+    __slots__ = ()
+
+    def __str__(self):
+        return (f"{self.status}: the same bulletin filed a {self.action} against it, and a "
+                "claim about a rule's FORCE reaches a person (ADR 0006). Its text is left "
+                "as served rather than refreshed automatically -- it is already listed in "
+                "REVIEW.md")
+
+
 class Candidate(namedtuple("Candidate", "number action row path")):
     """One rule this path will refresh: the number the Bulletin named, the text action it
     filed, the OAR catalog row that carries the record, and the document to rewrite."""
@@ -238,16 +263,6 @@ def rows_by_rule_number(catalog) -> dict:
     by_served = {r["served_as"]: r for r in catalog_rules(catalog) if r.get("served_as")}
     by_number = {r["number"]: r for r in catalog_rules(catalog) if r.get("number")}
     return {**by_served, **by_number}
-
-
-def load_worklist():
-    """The committed Oregon Bulletin worklist, or None where it could not be read.
-
-    Read only -- `check_bulletin.py` is its one writer."""
-    try:
-        return yaml.safe_load(WORKLIST.read_text())
-    except (OSError, yaml.YAMLError):
-        return None
 
 
 def select(worklist, catalog) -> tuple:
@@ -297,11 +312,8 @@ def select(worklist, catalog) -> tuple:
     picked, refused, problems = [], {}, []
     for number, action in sorted(filed.items()):
         if number in force:
-            refused[number] = (
-                f"{FORCE_ACTIONS[force[number][1]]}: the same bulletin filed a "
-                f"{force[number][1]} against it, and a claim about a rule's FORCE reaches a "
-                "person (ADR 0006). Its text is left as served rather than refreshed "
-                "automatically -- it is already listed in REVIEW.md")
+            status, action_taken = force[number]
+            refused[number] = Refusal(status, action_taken)
             continue
         row = rows.get(number)
         if row is None or not row.get("path"):
@@ -317,12 +329,6 @@ def select(worklist, catalog) -> tuple:
     return picked, refused, problems
 
 
-def _label(path) -> str:
-    """A repo-relative path for a message, so failures read the same on every machine."""
-    try:
-        return str(Path(path).relative_to(REPO_ROOT))
-    except ValueError:
-        return str(path)
 
 
 # ------------------------------------------------------- the refresh, and what it leaves
@@ -518,6 +524,26 @@ def check_document(number, text, snapshot, committed_sha) -> list:
     return failures
 
 
+def recorded(catalog) -> list:
+    """A Candidate for EVERY catalog row that records a re-ingest, whatever bulletin filed it.
+
+    `select()` answers "what does THIS month's notice ask for"; this answers "what has this
+    path ever written". Provenance and the byte-identical re-run are checked over THIS set,
+    so the ground they cover only grows -- checking only the current month would shrink the
+    guarantee to nothing the day a new bulletin lands, which is a gate that quietly stops
+    covering what it already passed.
+
+    Keyed on the number the DOCUMENT is filed under -- `served_as` where the row has one,
+    because 484 rows name the number this corpus asked OARD for and not the one it serves."""
+    out = []
+    for r in catalog_rules(catalog):
+        if r.get(NOTICE_KEY) is None or not r.get("path"):
+            continue
+        out.append(Candidate(r.get("served_as") or r.get("number"), r.get(ACTION_KEY), r,
+                             REPO_ROOT / r["path"]))
+    return out
+
+
 def check_documents(candidates) -> list:
     """`check_document()` over every rule this path re-ingested, reading each from disk.
 
@@ -554,13 +580,6 @@ def _retrieved(text: str):
 # ------------------------------------------------------------------------------ commands
 
 
-def report(failures) -> int:
-    """Print every failure and return the count."""
-    for f in failures:
-        print(f"  FAIL [{f.rule}] {f.site}: {f.detail}", file=sys.stderr)
-    return len(failures)
-
-
 def _census(catalog, worklist, picked, refused) -> None:
     """The numbers a clean run prints, MEASURED rather than asserted.
 
@@ -573,19 +592,24 @@ def _census(catalog, worklist, picked, refused) -> None:
     print(f"{worklist.get('bulletin')}: {len(picked)} rule(s) re-ingested by this path, "
           f"{len(refused)} refused")
     for number, why in sorted(refused.items()):
-        print(f"  REFUSED OAR {number} — {why.split(':')[0]}: this bulletin took it out of "
-              "force; its text is left as served and a person reviews it (REVIEW.md)")
+        print(f"  REFUSED OAR {number} — a filed {why.action} put it {why.status}; its "
+              "text is left as served and a person reviews it (REVIEW.md)")
     print(f"{len(reingested)} catalog row(s) record a re-ingest, every one for an action "
           f"that changes TEXT ({', '.join(TEXT_ACTIONS)}) and cited to the bulletin that "
           "filed it")
     # THE ONE NUMBER THIS TICKET IS ABOUT. Printed on every run because a guarantee that
     # can only be watched NOT firing is one nobody can tell from a guard that stopped
     # running -- and because it went from 0 to 100 when #229 landed.
-    print(f"{len(marked)} catalog row(s) carry a Bulletin-set `{CATALOG_KEY}`; NONE of "
-          f"them is re-ingested by this path — "
+    # COUNTED, NOT ASSERTED. Printing the words "none of them is re-ingested" states the
+    # safety property in the one mode that has not checked it -- a positive claim from no
+    # evidence, in the command a human runs by hand. The number is what `--check` refuses
+    # a non-zero value of, under `a-force-marked-rule-is-not-re-ingested`.
+    both = sum(1 for r in marked if r.get(NOTICE_KEY) is not None)
+    print(f"{len(marked)} catalog row(s) carry a Bulletin-set `{CATALOG_KEY}` — "
           + (", ".join(f"{a} {sum(1 for r in marked if r.get('legal_status_action') == a)}"
                        for a in sorted(FORCE_ACTIONS)) or "none")
-          + f", of which {len(refused)} were also amended this month and refused by name")
+          + f"; {both} of them ALSO record a re-ingest by this path, and "
+          f"{len(refused)} were amended by this bulletin and refused by name")
 
 
 def cmd_check() -> int:
@@ -594,10 +618,11 @@ def cmd_check() -> int:
     failures = (check_partition(check_bulletin.ACTIONS, TEXT_ACTIONS, FORCE_ACTIONS,
                                 check_bulletin.CORPUS_STATES)
                 + check_rows(catalog) + check_recorded(catalog, worklist))
+    kept = recorded(catalog)
+    failures += check_documents(kept)
     picked, refused = [], {}
     if not any(f.rule == "the-notice-is-readable" for f in failures):
         picked, refused, _ = select(worklist, catalog)
-        failures += check_documents(picked)
     if report(failures):
         print(f"\n{len(failures)} re-ingest violation(s)", file=sys.stderr)
         return 1
@@ -605,8 +630,9 @@ def cmd_check() -> int:
           f"{', '.join(TEXT_ACTIONS)} change TEXT and re-ingest here without asking; "
           f"{', '.join(sorted(FORCE_ACTIONS))} change FORCE and reach a person")
     _census(catalog, worklist, picked, refused)
-    print(f"{len(picked)} document(s) verified against the snapshot committed beside them "
-          "and reproduced byte for byte by re-running the refresh over it")
+    print(f"{len(kept)} document(s) this path has ever re-ingested, EVERY bulletin "
+          "included, verified against the snapshot committed beside them and reproduced "
+          "byte for byte by re-running the refresh over it")
     return 0
 
 
@@ -639,7 +665,15 @@ def reingest_one(candidate, registry_by_chapter, today, fetch_page=None) -> tupl
     DIFFERENT one, or serves a page with no rule body in it, then what happened upstream is
     not the amendment that was filed -- it is a repeal, a renumber or an outage, and none of
     the three is something this path may apply without asking. So each stops at this rule
-    and is reported, rather than being written into a document under provenance."""
+    and is reported, rather than being written into a document under provenance.
+
+    A REFUSAL THAT DOES NOT CLEAR IS FILED AS #245. The transient one -- OARD unreachable --
+    goes away on the next run. The others do not: if OARD permanently serves a different
+    number, the row is never recorded and `a-filed-text-action-is-re-ingested` stays red,
+    reporting an upstream-availability fact under a rule that names a recording failure.
+    There is no way yet for a row to say REFUSED, AND HERE IS WHY, the way `select()` says
+    it for a rule out of force. Zero rules are in that state today (306 of 306 fetched,
+    sliced and recorded), which is why it is an issue and not a branch here."""
     number, doc_id = candidate.number, f"oar-{candidate.number}"
     url = f"https://secure.sos.state.or.us/oard/view.action?ruleNumber={number}"
     fetch_page = fetch_page or (lambda u: normalize_volatile(fetch(u)))
@@ -678,7 +712,19 @@ def reingest_one(candidate, registry_by_chapter, today, fetch_page=None) -> tupl
             "replace the served text with nothing and call the rule re-ingested")]
     old = candidate.path.read_text()
     sha = content_hash(raw, "html")
-    new = refresh(old, flow_to_lines(body), sha, today)
+    full_text = flow_to_lines(body)
+    # THE SOURCE HAS NOT MOVED, SO NEITHER DOES THE DOCUMENT. `retrieved` is the date THESE
+    # BYTES were taken, not the date somebody last looked -- that fact lives in
+    # `_meta/sources/oar.yml`'s `last_checked`, which `check_updates.py` owns. Stamping
+    # today over an unchanged copy would claim a new observation of the same page and make
+    # RE-RUNNING THIS COMMAND REWRITE ALL 306 DOCUMENTS ON ANY LATER DAY -- the acceptance
+    # criterion is byte-identical output from a re-run, not from a re-run that happens
+    # before midnight. Compared as a FIXED POINT rather than on the hash alone: an
+    # unchanged page whose document had drifted from it is a document that still needs
+    # rewriting, and the hash on its own cannot tell the two apart.
+    if refresh(old, full_text, sha, _retrieved(old)) == old:
+        return False, []
+    new = refresh(old, full_text, sha, today)
     if new is None:
         return False, [Failure(
             "the-re-ingest-reproduces-its-document", f"{number}",
@@ -696,7 +742,7 @@ def reingest_one(candidate, registry_by_chapter, today, fetch_page=None) -> tupl
     # returns it unchanged whatever else it is given, so the resurrection is unreachable
     # by a second independent means and not merely by this path picking the right rules.
     enrich_apply(candidate.path, enrich_derive(
-        flow_to_lines(body), doc_id, registry_by_chapter,
+        full_text, doc_id, registry_by_chapter,
         candidate.row.get(CATALOG_KEY), _doc_status(new)))
     committed = hash_snapshot(doc_id, "html")
     if committed != sha:
@@ -827,9 +873,9 @@ def _proof_selection(check) -> None:
     cat = _fixture_catalog(_row("999-001-0010"), _row("999-001-0020"),
                            _row("999-001-0030"), _row("999-001-0040"))
     picked, refused, problems = select(
-        _fixture_worklist(("999-001-0010", "amend", "held"),
-                          ("999-001-0020", "repeal", "held"),
-                          ("999-001-0030", "suspend", "held")), cat)
+        _fixture_worklist(("999-001-0010", "amend", HELD),
+                          ("999-001-0020", "repeal", HELD),
+                          ("999-001-0030", "suspend", HELD)), cat)
     check("an amended rule this corpus holds is selected",
           [c.number for c in picked] == ["999-001-0010"])
     check("a repealed rule in the same bulletin is not",
@@ -846,12 +892,12 @@ def _proof_selection(check) -> None:
     # leave the whole safety property resting on `resolve()` being called correctly one
     # line later; refusing them means the resurrection cannot be reached at all.
     picked, refused, _ = select(
-        _fixture_worklist(("999-001-0010", "amend", "held"),
-                          ("999-001-0010", "repeal", "held")), cat)
+        _fixture_worklist(("999-001-0010", "amend", HELD),
+                          ("999-001-0010", "repeal", HELD)), cat)
     check("a rule amended AND repealed by one bulletin is not re-ingested",
           not picked and "999-001-0010" in refused)
-    check("...and the refusal says the force action is why",
-          "repeal" in refused["999-001-0010"])
+    check("...and the refusal names the force action and the status it produced",
+          refused["999-001-0010"] == Refusal("repealed", "repeal"))
 
     picked, _, _ = select(
         _fixture_worklist(("999-001-0010", "amend", "missing_from_mirrored_chapter"),
@@ -1209,6 +1255,20 @@ def _proof_the_run_refuses_what_is_not_an_amendment(check) -> None:
     check("...and not one of those refusals wrote to the document",
           one.path.read_text() == before)
 
+    # RE-RUNNING PRODUCES BYTE-IDENTICAL OUTPUT, ON ANY DAY AND NOT ONLY THE SAME ONE.
+    # Handed back the exact bytes committed beside this document, `reingest_one` must write
+    # nothing at all -- not "write the same text with today's date", which is what makes a
+    # second run on a later day rewrite every document it touched. The date passed here is
+    # deliberately NOT the document's own, so a version that stamped it would be caught.
+    later = "2099-12-31"
+    check("...and that date is not the one the document already holds",
+          _retrieved(before) != later)
+    wrote, problems = reingest_one(
+        one, registry, later,
+        fetch_page=lambda _: (SNAPSHOT_DIR / f"oar-{one.number}.html").read_bytes())
+    check("the committed source fed back in on a LATER day re-ingests to no change at all",
+          not wrote and not problems and one.path.read_text() == before)
+
 
 def _proof_the_status_survives_the_call_this_path_makes(check) -> None:
     """LAYER TWO, AT THE EXACT CALL SITE. `select()` refuses every rule the Bulletin took
@@ -1230,6 +1290,18 @@ def _proof_the_status_survives_the_call_this_path_makes(check) -> None:
     d = enrich_derive(body, f"oar-{chapter}-001-0010", registry, None, "repealed")
     check("...and a rule the Bulletin has said nothing about keeps what its document says",
           d["status"] == "repealed")
+    # THE RESURRECTION ITSELF, WATCHED HAPPENING. Every other proof here watches the
+    # arrangement HOLD, and a guarantee only ever seen holding is one nobody can tell from
+    # a guarantee that stopped being enforced. This is the mutation: drop the Bulletin
+    # argument on the way in -- which is exactly what a re-ingest that forgot to pass it
+    # does, and what `ingest_oar.py`'s hardcoded literal did to every rule it wrote -- and
+    # a rule the Bulletin repealed comes back `current`, under provenance, silently.
+    resurrected = enrich_derive(body, f"oar-{chapter}-001-0010", registry, None, "current")
+    check("dropping the bulletin argument RESURRECTS a repealed rule -- the failure this "
+          "path exists not to have, watched happening",
+          resurrected["status"] == "current"
+          and enrich_derive(body, f"oar-{chapter}-001-0010", registry,
+                            "repealed", "current")["status"] == "repealed")
 
 
 def selftest() -> int:

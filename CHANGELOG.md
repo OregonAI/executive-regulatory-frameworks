@@ -11,6 +11,39 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Changed
+- 2026-08-23 — Amendments re-ingest automatically, and cannot reach a rule out of force
+  (#230, ADR 0006). **The August 2026 bulletin (bulltnRsn 1761) filed 318 amendments against
+  rules this corpus holds**, and one issue per rule was rejected against a 25-issue cap. ADR
+  0006 splits the Bulletin's actions on whether they change a rule's TEXT or its FORCE: an
+  amendment is a text refresh the provenance chain already verifies, so a human adds nothing
+  by approving each one. `python3 src/reingest_oar.py --run` is that path — **306 rules
+  re-ingested, 306 documents rewritten, 0 refused mid-run**.
+  **THE 12 RULES THIS BULLETIN AMENDED *AND* TOOK OUT OF FORCE ARE REFUSED BY NAME**, not
+  quietly skipped: 8 repealed, 4 suspended. `ingest_oar.py` used to write `status: current`
+  as a hardcoded literal, and run over one of those it would resurrect the rule — a false
+  statement about Oregon law, published under provenance with a source URL and a hash beside
+  it. #228 moved that decision into `legal_status.resolve()`; this is the caller that made
+  the gate necessary, and it cannot reach those rules by **three independent means**:
+  `TEXT_ACTIONS` and `legal_status.FORCE_ACTIONS` partition `check_bulletin.ACTIONS` exactly
+  (a new verb upstream STOPS this path rather than defaulting into it); the status arrives
+  from the one writer and **there is no legal-status literal in the module**, which
+  `legal_status.py --check` enforces against the syntax tree; and `refresh()` replaces the
+  `## Full text` section and its provenance and **leaves every other field** — regenerating
+  the document from the ingest template would satisfy "the rule was re-ingested" by deleting
+  the 1,187 authority citations and relationship entries other tools put into just these 306
+  documents.
+  **THE 100 ROWS #229 MARKED ARE UNTOUCHED — 0 of their documents changed**, and
+  `legal_status.py --check` still reports all 100 served by a document that agrees with them.
+  `reingest_oar.py --check` reads the committed worklist and demands a re-ingest record for
+  every text action filed against a held rule, so **it cannot be satisfied by a corpus that
+  re-ingested nothing** — it was red on 306 rules before this ran. Every re-ingested document
+  is verified against the snapshot committed beside it and **reproduced byte for byte** by
+  re-running `refresh()` over that snapshot, so "re-running produces byte-identical output" is
+  a gate rather than an observation. A page that has not moved is **not rewritten at all** —
+  `retrieved` is the date those bytes were taken, not the date somebody last looked, which is
+  `_meta/sources/oar.yml`'s `last_checked` — so a re-run is a no-op **on any later day and
+  not only before midnight**. Two further full runs rewrote 0 documents and left the whole
+  working tree hashing to the same git tree object.
 - 2026-08-22 — A repealed or suspended rule is marked, never deleted (#229, ADR 0006).
   **The August 2026 bulletin (bulltnRsn 1761) filed 66 repeals and 34 suspensions against
   rules this corpus holds, and all 100 were served `current`.** Deleting them breaks every
