@@ -11,6 +11,48 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Changed
+- 2026-08-23 — The Bulletin runs monthly, files one issue, and reports what disagrees with
+  the hash (#231, ADR 0006). The last of #226–#231 and **the only one that acts outward**:
+  `.github/workflows/bulletin-report.yml` runs `python3 src/bulletin_report.py` on the 6th
+  of each month — after the Bulletin's first business day, a day after `scheduled.yml`'s
+  drift run on the 5th — and files **ONE issue per run, never one per rule**. August 2026
+  named 549 rule actions against a 25-issue cap, so per-rule filing is a way of reporting 25
+  of them and dropping 524 on stderr, which is corpus-toolkit#67. The issue carries the
+  counts by action and by corpus state, every filing the reader could not open, every
+  renumber with no stated destination, **all 121 rules missing from a chapter this corpus
+  mirrors BY NUMBER** rather than as a total, and the disagreement with hashing.
+  **HASHING IS NOT REPLACED.** ADR 0006 rejected replacement because a silent upstream
+  correction files no notice, so `scheduled.yml`'s `monthly-drift` job is untouched and
+  `hash-drift-still-runs` fails if the `oar` group ever stops being hashed on that cron.
+  **THE LOUD CASE IS GUARDED, AND THE GUARD IS DOING WORK RIGHT NOW.** *Moved with no
+  filing* is the finding this whole series exists for and it is exactly what a stale
+  baseline manufactures in bulk. A full `corpus-detect-changes --config _meta/corpus.yml
+  --group oar` run on 2026-08-23 reported **484 changed, 0 fetch failures, of 484 checked**
+  — #244, the OARD page footer's app version inside the hashed text. Named per rule that is
+  **484 confident "changed with nobody announcing it" claims, none of them about a rule's
+  text**; measured, the naive report emits exactly 484. So when more than a fifth of a
+  group's compared sources move together the run reports **ONE group-wide move**, says how
+  many rules it declined to name and why, and emits **0** per-rule claims — corpus-toolkit's
+  ADR 0010 one level up, and the manufactured-absence failure inverted. The threshold is
+  watched from both sides: 100 of 100 withholds, 1 of 100 is still named.
+  **THE TWO SIGNALS WATCH DISJOINT SETS, AND THE REPORT SAYS SO INSTEAD OF GUESSING.**
+  `_meta/sources/oar.yml` watches 484 **individual rule pages** in chapters 105, 122, 125
+  and 128; the August bulletin named 534 rules in 35 other chapters; **the overlap is zero**
+  (#247). So *filed but not yet served* is claimed only for a rule the manifest watches and
+  the run compared, and the other **534 are reported as NOT CHECKED** — an absence from
+  `changed-sources.tsv` is never read as an observation that the hash held still, and an
+  absent drift file is reported as *the disagreement was not computed* rather than as no
+  disagreement. **A run with nothing to report files no issue**, and `--check` fires that
+  rule in both directions: a `should_file` that always says no satisfies the criterion by
+  reporting nothing ever. **16 rules, every one watched failing** in `--selftest`, and the
+  two the gate cannot be satisfied by reporting less — the body must NAME every unread
+  filing and every one of the 121 coverage gaps — are fired against the committed worklist.
+  **WHAT IT MAY DO IS BOUNDED**: `contents: read`, so it cannot push a commit; it writes no
+  file in the repository and fetches nothing itself; it files at most one issue, idempotent
+  by title against an exact scan of every issue in the repo (a full scan window is reported
+  as *cannot tell* and refuses to file, rather than risking a duplicate); and `--file-issue`
+  is the default of nothing, so every command typed by hand is a dry run and
+  `workflow_dispatch` defaults to one.
 - 2026-08-23 — Amendments re-ingest automatically, and cannot reach a rule out of force
   (#230, ADR 0006). **The August 2026 bulletin (bulltnRsn 1761) filed 318 amendments against
   rules this corpus holds**, and one issue per rule was rejected against a 25-issue cap. ADR

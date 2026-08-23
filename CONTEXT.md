@@ -220,6 +220,23 @@ amendments; the field it replaced, `in_corpus: true|false`, had no way to say so
 _Avoid_: `in_corpus`, in corpus, held — the first is the two-state field this replaced,
 and reading the new spelling off the old name finds every value truthy
 
+**Monthly bulletin report**:
+The one issue a scheduled run files about a month's Oregon Bulletin, and the last piece of
+ADR 0006 (#231). It is ONE issue per RUN, never one per rule: August 2026 filed 549 rule
+actions and the tracker caps a drift run at 25 issues, so per-rule filing reports 25
+findings and drops the rest on stderr — which is corpus-toolkit#67. It carries the counts
+by action and by corpus state, every filing `check_bulletin.py` could not open, every
+renumber whose destination the filing did not state, all 121 rules missing from a chapter
+this corpus mirrors BY NUMBER rather than as a total, and the disagreement between the
+Bulletin and hashing. It is written by `src/bulletin_report.py`, runs from
+`.github/workflows/bulletin-report.yml` on the 6th of each month, re-fetches nothing, writes
+nothing in the repository, and files NO issue at all from a run holding no finding. Every
+command typed by hand is a dry run; only `--file-issue` reaches the tracker, and it is
+idempotent by title so a second run in the same month finds the first run's issue.
+_Avoid_: Drift report, worklist — the first is `corpus-detect-changes`'s per-source ticket
+and this reports the DISAGREEMENT with it, and the second is the file this reads
+
+
 **Part of**:
 The relation a unit bears to the body it is internal structure of. A unit is *part of* a
 body when nothing separately constitutes it — the Highway Division is how the Department of
@@ -332,6 +349,35 @@ A change in what a source URL serves since it was last mirrored. Drift is a clai
 bytes, not about meaning — a re-render, a template change, or a broken fetch all produce it
 without any document changing.
 _Avoid_: Update, change, staleness
+
+**Hash observation**:
+What one `corpus-detect-changes` run saw: the sources whose fetched bytes differed from a
+RECORDED baseline, written to `changed-sources.tsv`. It is the second of ADR 0006's two
+signals and it is OBSERVATION of what is served, where the Bulletin is AUTHORITY about what
+was filed — neither arbitrates the other, and the disagreement is the finding. Its universe
+is the manifest, not the corpus: `_meta/sources/oar.yml` watches 484 individual rule pages
+in chapters 105, 122, 125 and 128, and the August 2026 bulletin named 534 rules in 35 other
+chapters, so THE OVERLAP IS ZERO (#247) and for every rule that bulletin named there is no
+observation at all. A rule's absence from the drift file is therefore never read as "the
+hash did not move"; `bulletin_report.py` claims *filed but not yet served* only for a rule
+the manifest watches and the run compared, and everything else is reported as not checked.
+An absent `changed-sources.tsv` is a distinct answer again — nobody hashed anything — and is
+byte-identical to the file a corpus with no drift produces.
+_Avoid_: Change detection, hash check — both suggest a verdict where this is a reading
+
+**Group-wide move**:
+A drift run in which more than a fifth of a group's compared sources moved together. It is
+ONE event with one cause — a footer, a template, or a stale baseline — and not that many
+independent changes, so `bulletin_report.py` reports the group, says how many rules it
+declined to name and why, and emits no per-rule *changed with nobody announcing it* claim.
+The live instance is #244: the OARD page footer prints the app version inside the hashed
+text and `v2.1.7` became `v2.1.8`, so every recorded `source_sha256` is stale and every
+watched source reports as moved. Named per rule that is ~484 confident claims about rule
+text nobody observed — the manufactured-absence failure inverted. This is
+corpus-toolkit's ADR 0010 one level up: a group drift finding reports correlation, not cause.
+_Avoid_: Systemic drift, mass change — the first is the toolkit's FETCH-FAILURE threshold
+and a group-wide move is a run where the fetches all succeeded
+
 
 ## Conflict analysis
 
