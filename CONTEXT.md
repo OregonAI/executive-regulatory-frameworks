@@ -127,31 +127,52 @@ a blank value is refused for making that claim with nobody behind it.
 _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a statute
 
 **Legal status**:
-Whether a rule is in force. It lives in the document's `status` frontmatter field, whose
-values corpus-toolkit's schema fixes as `current | superseded | repealed | proposed | draft`,
-and it is a claim about Oregon law. Measured over the committed corpus: 34,922 rules read
-`current` and 2,031 `repealed`. ITS WRITER IS THE OREGON BULLETIN (ADR 0006), and since #228
-that is a single function — `legal_status.resolve()` — rather than a convention. It had two
-writers: `ingest_oar.py` wrote `status: current` as a hardcoded literal on every rule it
-created, and `enrich_oar.py` derived the field from the rule's own History line and compared
-it in a nightly gate, which would have restamped a Bulletin repeal back to `current` and then
-failed the build for the Bulletin being right. Both now read the one writer, which weighs
-what each of them knows in a fixed order: a status the Bulletin set, then a repeal in the
-rule's own served History, then what the document already says, then `current` — which a
-fresh ingest may assert only where nothing better is known. A Bulletin-set status is carried
-on the OAR catalog row in `legal_status` and stamped onto the document from there, so the
-catalog writes and the document reads. `legal_status.py --check` fails if a second writer
-appears and `--selftest` proves it, a re-ingest overwriting a Bulletin-set status included.
+Whether a rule is in force. It lives in the document's `status` frontmatter field, whose values
+corpus-toolkit's schema fixes as `current | superseded | repealed | proposed | draft`, and it
+is a claim about Oregon law. Measured over the committed corpus: 34,836 rules read `current`,
+2,083 `repealed` and 34 `superseded`. ITS WRITER IS THE OREGON BULLETIN (ADR 0006), and since
+#228 that is a single function — `legal_status.resolve()` — rather than a convention. It had
+two writers: `ingest_oar.py` wrote `status: current` as a hardcoded literal on every rule it
+created, and `enrich_oar.py` derived the field from the rule's own History line and compared it
+in a nightly gate, which would have restamped a Bulletin repeal back to `current` and then
+failed the build for the Bulletin being right. Both now read the one writer, which weighs what
+each of them knows in a fixed order: a status the Bulletin set, then a repeal in the rule's own
+served History, then what the document already says, then `current` — which a fresh ingest may
+assert only where nothing better is known. A Bulletin-set status is carried on the OAR catalog
+row in `legal_status` and stamped onto the document from there, so the catalog writes and the
+document reads. `legal_status.py --check` fails if a second writer appears and `--selftest`
+proves it, a re-ingest overwriting a Bulletin-set status included. Since #229 the August 2026
+bulletin's 66 repeals and 34 suspensions against rules held here are recorded, and the rules
+are MARKED AND KEPT — path, ingest status and document untouched, because deleting a repealed
+rule breaks every citation pointing at it.
 _Avoid_: Status, unqualified — the catalog has a different field by that name
+
+**Filed force action**:
+What the Oregon Bulletin did to a rule's FORCE, as opposed to its text — `repeal` or
+`suspend`, the two of `check_bulletin.ACTIONS` that ADR 0006 routes to a person instead of to
+an automatic re-ingest. It lives on the OAR catalog row in `legal_status_action`, beside the
+`legal_status` it produces and the `legal_status_notice` that filed it, and all three arrive
+together or `legal_status.py --check` refuses the row. IT IS ON THE ROW BECAUSE THE SCHEMA
+ENUM CANNOT HOLD IT: `current | superseded | repealed | proposed | draft` has one word for a
+loss of force and it means a permanent one, while every suspension Oregon files carries an
+end date — 185 History lines in this corpus read `temporary suspend filed …, effective …
+through …`. So a suspension is stamped `superseded`, the strongest thing the shared enum can
+truthfully say (this is not the operative text right now), and the action is what says the
+loss is temporary (the gap in the shared enum is corpus-toolkit#159). Without it, 34
+suspended rules and 66 repealed ones would be one
+undifferentiated set, which is the collapse #229 exists to prevent.
+_Avoid_: Bulletin action, filing type — a filing also adopts, amends and renumbers, and those
+three change TEXT, re-ingest without asking (#230) and set no legal status at all
 
 **Ingest status**:
 Whether this corpus holds a copy of a rule, and in what shape. It lives in
 `_meta/catalog/oar.yml` as `rules[].status`, with its own vocabulary — `ingested` (36,474),
 `renumbered` (484, carrying `served_as`), `not_served` (49). It is a claim about THIS MIRROR,
 never about Oregon law: a rule can be in force and absent here, or repealed and still held.
-The Bulletin's claim about force sits on the SAME ROW under a different key, `legal_status`,
-and the two never borrow each other's words — `legal_status.py --check` reads all 37,007
-entries and refuses either field holding the other's vocabulary, because on the day they
+The Bulletin's claim about force sits on the SAME ROW under different keys — `legal_status`,
+`legal_status_action` and `legal_status_notice`, none of which may appear without the others —
+and the two vocabularies never borrow each other's words — `legal_status.py --check` reads
+all 37,007 entries and refuses either field holding the other's vocabulary, because on the day they
 first collide nothing else in the repository would notice.
 _Avoid_: Status, unqualified. The two fields share a name and mean different things, which is
 why both entries exist

@@ -3,13 +3,20 @@ note: 'Discovery map of ALL OAR chapters (Gate #1 input for the mass import): ev
   OARD listings are JS-rendered). Rule CONTENT always comes from the official OARD per-rule URL at ingest
   time, never from the mirror. Per-rule status: ''ingested'' means a full document exists in rules/; renumbered/not_served/not_sliceable
   are recorded by ingest_oar.py. Chapter titles from the agency registry. TWO FIELDS ARE SPELLED ''status''
-  AND THEY MEAN DIFFERENT THINGS (CONTEXT.md, *Legal status* / *Ingest status*): rules[].status above is
-  INGEST status, a claim about this mirror, and a rule can be in force and absent here or repealed and
-  still held. A rule''s LEGAL status — whether it is in force, corpus-toolkit''s current|superseded|repealed|proposed|draft
+  AND THEY MEAN DIFFERENT THINGS (CONTEXT.md, *Legal status* / *Ingest status*): rules[].status above
+  is INGEST status, a claim about this mirror, and a rule can be in force and absent here or repealed
+  and still held. A rule''s LEGAL status — whether it is in force, corpus-toolkit''s current|superseded|repealed|proposed|draft
   — is a claim about Oregon law whose one writer is the Oregon Bulletin (ADR 0006), and it lives on its
   own key, rules[].legal_status, never in the field above. src/legal_status.py --check refuses either
   field holding the other''s vocabulary and gates the document''s agreement with the row it was stamped
-  from; #229 is what records the first one.'
+  from. Since #229 a marked row states THREE things together and none of them alone: legal_status (what
+  the document is stamped with), legal_status_action (the Bulletin''s verb — `repeal` or `suspend`, and
+  it is on the row because the five-word enum has no way to say SUSPENDED, so without it a temporary loss
+  of force cannot be told from a permanent one), and legal_status_notice (the bulletin a human opens to
+  check the claim). Written by `python3 src/legal_status.py --mark` from _meta/bulletin-worklist.yml and
+  stamped onto the documents by `python3 src/enrich_oar.py`. A MARKED RULE IS KEPT: its ingest status
+  and path are untouched, because this corpus mirrors ORS sections that cite administrative rules and
+  deleting the document breaks every citation pointing at it.'
 chapters:
 - chapter: '101'
   title: Oregon Health Authority, Public Employees' Benefit Board
@@ -13793,6 +13800,9 @@ chapters:
     - number: 165-002-0010
       status: ingested
       path: rules/165/002/oar-165-002-0010.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 165-002-0020
       status: ingested
       path: rules/165/002/oar-165-002-0020.md
@@ -18204,6 +18214,9 @@ chapters:
     - number: 250-020-0161
       status: ingested
       path: rules/250/020/oar-250-020-0161.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 250-020-0171
       status: ingested
       path: rules/250/020/oar-250-020-0171.md
@@ -22331,9 +22344,15 @@ chapters:
     - number: 291-082-0105
       status: ingested
       path: rules/291/082/oar-291-082-0105.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 291-082-0110
       status: ingested
       path: rules/291/082/oar-291-082-0110.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 291-082-0115
       status: ingested
       path: rules/291/082/oar-291-082-0115.md
@@ -22507,12 +22526,18 @@ chapters:
     - number: 291-104-0111
       status: ingested
       path: rules/291/104/oar-291-104-0111.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 291-104-0116
       status: ingested
       path: rules/291/104/oar-291-104-0116.md
     - number: 291-104-0125
       status: ingested
       path: rules/291/104/oar-291-104-0125.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 291-104-0135
       status: ingested
       path: rules/291/104/oar-291-104-0135.md
@@ -43337,33 +43362,57 @@ chapters:
     - number: 350-011-0001
       status: ingested
       path: rules/350/011/oar-350-011-0001.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-011-0003
       status: ingested
       path: rules/350/011/oar-350-011-0003.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-011-0004
       status: ingested
       path: rules/350/011/oar-350-011-0004.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-011-0005
       status: ingested
       path: rules/350/011/oar-350-011-0005.md
     - number: 350-011-0006
       status: ingested
       path: rules/350/011/oar-350-011-0006.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-011-0007
       status: ingested
       path: rules/350/011/oar-350-011-0007.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-011-0008
       status: ingested
       path: rules/350/011/oar-350-011-0008.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-011-0009
       status: ingested
       path: rules/350/011/oar-350-011-0009.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-011-0010
       status: ingested
       path: rules/350/011/oar-350-011-0010.md
     - number: 350-011-0011
       status: ingested
       path: rules/350/011/oar-350-011-0011.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
   - division: '12'
     title: Public Records
     status: not_ingested
@@ -43371,21 +43420,39 @@ chapters:
     - number: 350-012-0002
       status: ingested
       path: rules/350/012/oar-350-012-0002.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-012-0005
       status: ingested
       path: rules/350/012/oar-350-012-0005.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-012-0006
       status: ingested
       path: rules/350/012/oar-350-012-0006.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-012-0007
       status: ingested
       path: rules/350/012/oar-350-012-0007.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-012-0008
       status: ingested
       path: rules/350/012/oar-350-012-0008.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-012-0009
       status: ingested
       path: rules/350/012/oar-350-012-0009.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
   - division: '13'
     title: ''
     status: not_ingested
@@ -43400,24 +43467,45 @@ chapters:
     - number: 350-014-0001
       status: ingested
       path: rules/350/014/oar-350-014-0001.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-014-0002
       status: ingested
       path: rules/350/014/oar-350-014-0002.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-014-0003
       status: ingested
       path: rules/350/014/oar-350-014-0003.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-014-0004
       status: ingested
       path: rules/350/014/oar-350-014-0004.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-014-0005
       status: ingested
       path: rules/350/014/oar-350-014-0005.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-014-0006
       status: ingested
       path: rules/350/014/oar-350-014-0006.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-014-0007
       status: ingested
       path: rules/350/014/oar-350-014-0007.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
   - division: '15'
     title: Public Contracting
     status: not_ingested
@@ -43432,69 +43520,129 @@ chapters:
     - number: 350-016-0001
       status: ingested
       path: rules/350/016/oar-350-016-0001.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0002
       status: ingested
       path: rules/350/016/oar-350-016-0002.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0003
       status: ingested
       path: rules/350/016/oar-350-016-0003.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0004
       status: ingested
       path: rules/350/016/oar-350-016-0004.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0005
       status: ingested
       path: rules/350/016/oar-350-016-0005.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0006
       status: ingested
       path: rules/350/016/oar-350-016-0006.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0007
       status: ingested
       path: rules/350/016/oar-350-016-0007.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0008
       status: ingested
       path: rules/350/016/oar-350-016-0008.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0009
       status: ingested
       path: rules/350/016/oar-350-016-0009.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0010
       status: ingested
       path: rules/350/016/oar-350-016-0010.md
     - number: 350-016-0011
       status: ingested
       path: rules/350/016/oar-350-016-0011.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0012
       status: ingested
       path: rules/350/016/oar-350-016-0012.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0013
       status: ingested
       path: rules/350/016/oar-350-016-0013.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0014
       status: ingested
       path: rules/350/016/oar-350-016-0014.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0015
       status: ingested
       path: rules/350/016/oar-350-016-0015.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0016
       status: ingested
       path: rules/350/016/oar-350-016-0016.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0017
       status: ingested
       path: rules/350/016/oar-350-016-0017.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0018
       status: ingested
       path: rules/350/016/oar-350-016-0018.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0020
       status: ingested
       path: rules/350/016/oar-350-016-0020.md
     - number: 350-016-0022
       status: ingested
       path: rules/350/016/oar-350-016-0022.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0024
       status: ingested
       path: rules/350/016/oar-350-016-0024.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0025
       status: ingested
       path: rules/350/016/oar-350-016-0025.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
   - division: '30'
     title: Enforcement
     status: not_ingested
@@ -46960,6 +47108,9 @@ chapters:
     - number: 410-141-3830
       status: ingested
       path: rules/410/141/oar-410-141-3830.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 410-141-3835
       status: ingested
       path: rules/410/141/oar-410-141-3835.md
@@ -48999,9 +49150,15 @@ chapters:
     - number: 411-057-0100
       status: ingested
       path: rules/411/057/oar-411-057-0100.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 411-057-0110
       status: ingested
       path: rules/411/057/oar-411-057-0110.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 411-057-0120
       status: ingested
       path: rules/411/057/oar-411-057-0120.md
@@ -49011,6 +49168,9 @@ chapters:
     - number: 411-057-0140
       status: ingested
       path: rules/411/057/oar-411-057-0140.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 411-057-0150
       status: ingested
       path: rules/411/057/oar-411-057-0150.md
@@ -49020,9 +49180,15 @@ chapters:
     - number: 411-057-0160
       status: ingested
       path: rules/411/057/oar-411-057-0160.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 411-057-0170
       status: ingested
       path: rules/411/057/oar-411-057-0170.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 411-057-0180
       status: ingested
       path: rules/411/057/oar-411-057-0180.md
@@ -63844,6 +64010,9 @@ chapters:
     - number: 461-135-0880
       status: ingested
       path: rules/461/135/oar-461-135-0880.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 461-135-0900
       status: ingested
       path: rules/461/135/oar-461-135-0900.md
@@ -64176,6 +64345,9 @@ chapters:
     - number: 461-145-0455
       status: ingested
       path: rules/461/145/oar-461-145-0455.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0460
       status: ingested
       path: rules/461/145/oar-461-145-0460.md
@@ -64598,6 +64770,9 @@ chapters:
     - number: 461-170-0011
       status: ingested
       path: rules/461/170/oar-461-170-0011.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 461-170-0101
       status: ingested
       path: rules/461/170/oar-461-170-0101.md
@@ -78809,6 +78984,9 @@ chapters:
     - number: 635-004-0275
       status: ingested
       path: rules/635/004/oar-635-004-0275.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 635-004-0280
       status: ingested
       path: rules/635/004/oar-635-004-0280.md
@@ -78989,6 +79167,9 @@ chapters:
     - number: 635-004-0585
       status: ingested
       path: rules/635/004/oar-635-004-0585.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 635-004-0590
       status: ingested
       path: rules/635/004/oar-635-004-0590.md
@@ -80566,6 +80747,9 @@ chapters:
     - number: 635-041-0076
       status: ingested
       path: rules/635/041/oar-635-041-0076.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 635-041-0500
       status: ingested
       path: rules/635/041/oar-635-041-0500.md
@@ -90571,6 +90755,9 @@ chapters:
     - number: 695-046-0195
       status: ingested
       path: rules/695/046/oar-695-046-0195.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 695-046-0196
       status: ingested
       path: rules/695/046/oar-695-046-0196.md
@@ -102106,21 +102293,39 @@ chapters:
     - number: 813-001-0002
       status: ingested
       path: rules/813/001/oar-813-001-0002.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-001-0003
       status: ingested
       path: rules/813/001/oar-813-001-0003.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-001-0007
       status: ingested
       path: rules/813/001/oar-813-001-0007.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-001-0009
       status: ingested
       path: rules/813/001/oar-813-001-0009.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-001-0011
       status: ingested
       path: rules/813/001/oar-813-001-0011.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-001-0060
       status: ingested
       path: rules/813/001/oar-813-001-0060.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
   - division: '3'
     title: Intellectual Property
     status: not_ingested
@@ -102214,6 +102419,9 @@ chapters:
     - number: 813-005-0020
       status: ingested
       path: rules/813/005/oar-813-005-0020.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-005-0025
       status: ingested
       path: rules/813/005/oar-813-005-0025.md
@@ -102232,9 +102440,15 @@ chapters:
     - number: 813-005-0060
       status: ingested
       path: rules/813/005/oar-813-005-0060.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-005-0070
       status: ingested
       path: rules/813/005/oar-813-005-0070.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
   - division: '6'
     title: General Procedures for Public Contracts and Procurements
     status: not_ingested
@@ -102405,36 +102619,57 @@ chapters:
     - number: 813-012-0080
       status: ingested
       path: rules/813/012/oar-813-012-0080.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0090
       status: ingested
       path: rules/813/012/oar-813-012-0090.md
     - number: 813-012-0100
       status: ingested
       path: rules/813/012/oar-813-012-0100.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0110
       status: ingested
       path: rules/813/012/oar-813-012-0110.md
     - number: 813-012-0120
       status: ingested
       path: rules/813/012/oar-813-012-0120.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0130
       status: ingested
       path: rules/813/012/oar-813-012-0130.md
     - number: 813-012-0140
       status: ingested
       path: rules/813/012/oar-813-012-0140.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0150
       status: ingested
       path: rules/813/012/oar-813-012-0150.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0160
       status: ingested
       path: rules/813/012/oar-813-012-0160.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0170
       status: ingested
       path: rules/813/012/oar-813-012-0170.md
     - number: 813-012-0180
       status: ingested
       path: rules/813/012/oar-813-012-0180.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
   - division: '15'
     title: Oregon Rural Rehabilitation Program
     status: not_ingested
@@ -102618,6 +102853,9 @@ chapters:
     - number: 813-030-0020
       status: ingested
       path: rules/813/030/oar-813-030-0020.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0025
       status: ingested
       path: rules/813/030/oar-813-030-0025.md
@@ -102630,6 +102868,9 @@ chapters:
     - number: 813-030-0032
       status: ingested
       path: rules/813/030/oar-813-030-0032.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0034
       status: ingested
       path: rules/813/030/oar-813-030-0034.md
@@ -102639,9 +102880,15 @@ chapters:
     - number: 813-030-0040
       status: ingested
       path: rules/813/030/oar-813-030-0040.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0044
       status: ingested
       path: rules/813/030/oar-813-030-0044.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0046
       status: ingested
       path: rules/813/030/oar-813-030-0046.md
@@ -102651,21 +102898,33 @@ chapters:
     - number: 813-030-0060
       status: ingested
       path: rules/813/030/oar-813-030-0060.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0062
       status: ingested
       path: rules/813/030/oar-813-030-0062.md
     - number: 813-030-0066
       status: ingested
       path: rules/813/030/oar-813-030-0066.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0067
       status: ingested
       path: rules/813/030/oar-813-030-0067.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0068
       status: ingested
       path: rules/813/030/oar-813-030-0068.md
     - number: 813-030-0070
       status: ingested
       path: rules/813/030/oar-813-030-0070.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
   - division: '35'
     title: Pass-Through Revenue Bond Financing Program
     status: not_ingested
@@ -103166,30 +103425,57 @@ chapters:
     - number: 813-060-0025
       status: ingested
       path: rules/813/060/oar-813-060-0025.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-060-0030
       status: ingested
       path: rules/813/060/oar-813-060-0030.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-060-0031
       status: ingested
       path: rules/813/060/oar-813-060-0031.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-060-0032
       status: ingested
       path: rules/813/060/oar-813-060-0032.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-060-0036
       status: ingested
       path: rules/813/060/oar-813-060-0036.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-060-0038
       status: ingested
       path: rules/813/060/oar-813-060-0038.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-060-0040
       status: ingested
       path: rules/813/060/oar-813-060-0040.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-060-0044
       status: ingested
       path: rules/813/060/oar-813-060-0044.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-060-0045
       status: ingested
       path: rules/813/060/oar-813-060-0045.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 813-060-0047
       status: ingested
       path: rules/813/060/oar-813-060-0047.md
@@ -120801,6 +121087,9 @@ chapters:
     - number: 875-010-0031
       status: ingested
       path: rules/875/010/oar-875-010-0031.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 875-010-0045
       status: ingested
       path: rules/875/010/oar-875-010-0045.md
@@ -122422,6 +122711,9 @@ chapters:
     - number: 918-311-0060
       status: ingested
       path: rules/918/311/oar-918-311-0060.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 918-311-0065
       status: ingested
       path: rules/918/311/oar-918-311-0065.md
@@ -123021,12 +123313,21 @@ chapters:
     - number: 918-674-0025
       status: ingested
       path: rules/918/674/oar-918-674-0025.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0033
       status: ingested
       path: rules/918/674/oar-918-674-0033.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0038
       status: ingested
       path: rules/918/674/oar-918-674-0038.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0043
       status: renumbered
       note: OARD serves 918-674-0560 for this number
@@ -123040,6 +123341,9 @@ chapters:
     - number: 918-674-0057
       status: ingested
       path: rules/918/674/oar-918-674-0057.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0060
       status: renumbered
       note: OARD serves 918-674-0580 for this number
@@ -123073,6 +123377,9 @@ chapters:
     - number: 918-674-0100
       status: ingested
       path: rules/918/674/oar-918-674-0100.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0105
       status: renumbered
       note: OARD serves 918-674-0640 for this number
