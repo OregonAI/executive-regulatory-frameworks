@@ -411,6 +411,36 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   suspension is not recorded, which is the only rule here that deleting information cannot
   satisfy. The 100 rules are listed in REVIEW.md, because a claim about legal force reaches a
   person rather than being applied silently.
+  THE MONTHLY REPORT FILES ONE ISSUE, AND IT RUNS BESIDE HASHING (#231, ADR 0006).
+  `python3 src/bulletin_report.py` reads the committed worklist and the drift run's
+  `changed-sources.tsv` and prints ONE issue's worth of finding — counts by action and by
+  corpus state, every filing the reader could not open, every renumber with no stated
+  destination, all 121 rules missing from a chapter this corpus mirrors BY NUMBER, and the
+  disagreement between the two signals. `.github/workflows/bulletin-report.yml` runs it on
+  the 6th of each month — the Bulletin's first BUSINESS day is as late as the 4th (the 1st
+  a Saturday, the 2nd a Sunday, the 3rd a Monday holiday) — and produces its own hash
+  observation in a step before the report. A MONTH NOBODY HAS RE-READ IS ITS LOUDEST
+  FINDING: the module reads the COMMITTED worklist and holds `contents: read`, so it cannot
+  fetch a new bulletin, and `months_unread()` counts the ones published since and puts the
+  count at the top of the issue — without it the September run rebuilds August's report,
+  matches August's issue title and exits 0 having filed nothing.
+  ONE ISSUE PER RUN, NEVER ONE PER RULE: 549 rule
+  actions against a 25-issue cap makes per-rule filing a way of reporting 25 of them
+  (corpus-toolkit#67). A RUN WITH NOTHING TO REPORT FILES NO ISSUE, and `--check` fires that
+  rule in BOTH directions — a `should_file` that always says no satisfies the criterion by
+  reporting nothing ever. HASHING IS NOT REPLACED: ADR 0006 keeps it for the one job it
+  alone can do, so `hash-drift-still-runs` fails if `scheduled.yml` stops hashing the `oar`
+  group. THE LOUD CASE IS GUARDED. `moved with no filing` is the finding this series exists
+  for and it is exactly what a stale baseline manufactures in bulk — #244 is doing it now —
+  so when more than a fifth of a group's compared sources move together the run reports ONE
+  GROUP-WIDE MOVE, says how many rules it declined to name, and emits no per-rule claim
+  (corpus-toolkit's ADR 0010, one level up). And THE TWO SIGNALS DO NOT OVERLAP: the
+  manifest watches 484 rule pages in chapters 105/122/125/128 while the August bulletin
+  named 534 rules in 35 other chapters, overlap ZERO, so every rule that bulletin named is
+  reported as NOT CHECKED rather than as one whose hash held still (#247). This module ACTS
+  OUTWARD and nothing else in the series does: it holds `contents: read`, writes no file,
+  pushes no commit, files at most one issue, is idempotent by title, and files nothing at
+  all unless `--file-issue` is passed — every command typed by hand is a dry run.
   `name` IS THE STATUTORY NAME since #168 (ADR 0003), and every row states in `name_basis`
   whether it actually holds one: `enabling-authority` — read off the body's enabling
   authority by a human, written only by `src/link_enabling_authority.py`'s `STATUTORY_NAMES`

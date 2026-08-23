@@ -1,0 +1,112 @@
+name: bulletin-report
+
+# THE MONTHLY OREGON BULLETIN REPORT (#231, ADR 0006). One issue per run, never one per
+# rule: August 2026 filed 549 rule actions, 418 against rules this corpus holds, and the
+# tracker caps a drift run at 25 issues — so a per-rule filing reports 25 findings and
+# drops the rest on stderr, which is corpus-toolkit#67 exactly.
+#
+# THIS IS THE ONE WORKFLOW IN THE #226–#231 SERIES THAT ACTS OUTWARD. What it may do is
+# bounded on purpose:
+#
+#   * it files AT MOST ONE issue per run, and none at all when the run holds no finding;
+#   * the filing is IDEMPOTENT BY TITLE — a second run in the same month finds the first
+#     run's issue and does nothing, so a `workflow_dispatch` after a schedule, or a
+#     re-run of a failed job, cannot stack issues;
+#   * `permissions:` grants `contents: read`. It CANNOT push a commit, and nothing here
+#     writes a file in the repository;
+#   * `--file-issue` is not the default of anything. Every command a person types by hand
+#     prints the report and files nothing;
+#   * `workflow_dispatch` DEFAULTS TO A DRY RUN, so a human's first look is always the
+#     preview.
+#
+# WHY THE 6th, 15:00 UTC. The Oregon Bulletin is published on the FIRST BUSINESS DAY of
+# each month, and that day is as late as the 4th — the 1st a Saturday, the 2nd a Sunday,
+# the 3rd a Monday holiday. So the cadence is monthly and the day must be after the 4th;
+# `bulletin_report.py`'s `EARLIEST_DAY` fails any cron that could fire before publication
+# and read LAST month's bulletin as this month's. The 6th also staggers this job's crawl
+# away from `scheduled.yml`'s on the 5th. The cron is declared in
+# `src/bulletin_report.py` as `CRON` and `--check` fails when this file and that constant
+# disagree; changing one means changing both.
+#
+# WHAT A RUN CANNOT DO FOR ITSELF, AND SAYS SO. This job reads the COMMITTED
+# `_meta/bulletin-worklist.yml`; fetching a NEW bulletin is `check_bulletin.py`, which
+# writes that file, and this job holds `contents: read` and may not commit one. So a month
+# nobody has re-read is REPORTED — `months_unread()` counts the bulletins published since
+# the committed one and the issue leads with it — rather than silently rebuilding last
+# month's report, matching last month's issue title and exiting 0. A green run that filed
+# nothing would be exactly what a month with nothing in it looks like.
+#
+# HASHING RUNS BESIDE THIS, NOT UNDER IT. ADR 0006 rejected replacement: a silent upstream
+# correction files no notice, so a Bulletin-only design makes "no filing this month" and
+# "nothing changed" the same observation. `scheduled.yml`'s `monthly-drift` job is
+# untouched and still hashes the `oar` group on the 5th; `hash-drift-still-runs` in
+# `--check` fails if that ever stops being true.
+on:
+  schedule:
+    - cron: "0 15 6 * *"
+  workflow_dispatch:
+    inputs:
+      file_issue:
+        description: "File the issue (default: dry run — print it and file nothing)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      # PINNED, and NOT `pip install -r requirements.txt`: that file pulls torch and
+      # sentence-transformers for serve-time semantic search, which this job never touches.
+      # Same three-pins-move-together trap `validate-frontmatter.yml` documents.
+      - uses: actions/checkout@v4
+        with:
+          repository: OregonAI/corpus-toolkit
+          ref: v1.29.0
+          path: .toolkit
+      - run: pip install ./.toolkit
+      # content_hash normalizes PDFs via pdftotext, same as the drift workflow. Without it
+      # a PDF source hashes its raw bytes and reports drift a re-render alone produced.
+      - run: sudo apt-get update -q && sudo apt-get install -y poppler-utils
+      # THE HASH READING, AND WHY THIS JOB PAYS FOR ITS OWN. `changed-sources.tsv` lives
+      # in the writing job's workspace and GitHub throws the workspace away, so the 5th's
+      # drift run cannot hand it over without an artifact upload the reusable workflow does
+      # not offer. The cost is 484 fetches once a month — the `oar` group only, a quarter
+      # of the 1,975 sources the quarterly sweep crawls — and the alternative, folding this
+      # report into `scheduled.yml`'s `monthly-drift` job as extra steps, would put the
+      # only outward-acting step in the repository inside a job nobody reviews separately.
+      # If the reusable workflow ever uploads the tsv, take it from there and drop this.
+      # NO `--open-issues`: the drift job on the 5th is the one that files per-source
+      # tickets, and a second copy of that spend would double the tracker's monthly noise.
+      # NO `--record-baseline`: this run accepts nothing and writes nothing.
+      #
+      # `continue-on-error`, because a capped or systemically-failed drift run EXITS
+      # NON-ZERO by design (corpus-toolkit#69) and that is a run whose observation this
+      # report still wants — and because a report that vanished whenever hashing had a bad
+      # day is a monthly notice that stops arriving without saying so.
+      - name: Observe what moved upstream
+        continue-on-error: true
+        run: >-
+          python3 -m corpus_toolkit.sources.changes
+          --config _meta/corpus.yml
+          --group oar
+      # A drift run that produced no observation at all leaves no file, and the reader
+      # reports THAT — as "could not check", never as "nothing moved".
+      - name: What the report would say
+        run: python3 src/bulletin_report.py
+      # The outward step. On the schedule it files; on a manual dispatch it files only
+      # when a human ticked the box.
+      - name: File the one issue this run has to file
+        if: github.event_name == 'schedule' || inputs.file_issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 src/bulletin_report.py --file-issue

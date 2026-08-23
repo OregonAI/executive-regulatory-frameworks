@@ -209,6 +209,22 @@ jobs:
       # bulletins and an injected fetcher, no network.
       - name: Amendments must re-ingest without reaching a rule out of force
         run: python3 src/reingest_oar.py --selftest
+      # The last of ADR 0006's series, and the only one that ACTS OUTWARD: the reader runs
+      # on a cron and files an issue. So the rules that bound it are the ones proved here —
+      # one issue per run and never one per rule (549 rule actions against a 25-issue cap),
+      # and NO issue at all from a run holding no finding, fired in BOTH directions because
+      # a `should_file` that always says no satisfies the criterion by reporting nothing
+      # ever. The rule that matters most is the one #244 is currently firing: when the moved
+      # share of the compared sources exceeds a fifth, the run reports ONE group-wide move
+      # and refuses to name the rules — because a stale baseline manufactures the loud case
+      # in bulk, and ~484 confident "changed with nobody announcing it" claims about rule
+      # text nobody observed is the manufactured-absence failure inverted. Fired on a
+      # 100-of-100 run and on a 1-of-100 run, so the guard is watched refusing AND watched
+      # not swallowing the finding it exists for. The cadence and "hashing still runs
+      # beside this" are read off the committed workflow FILES, after being fired on
+      # synthetic ones. Synthetic fixtures and a temp drift file, no network.
+      - name: The monthly Bulletin report must file one issue, or none
+        run: python3 src/bulletin_report.py --selftest
       # The measurement side of the same pipeline, and its failures are quieter than the
       # merge's: a recall number computed against the wrong ground truth, or a per-type
       # table built from hand labels attached to the wrong candidates, is a confident
@@ -377,6 +393,19 @@ jobs:
       # ~10 s; reads committed data only, no network.
       - name: Every amendment the Bulletin filed must be recorded as re-ingested
         run: python3 src/reingest_oar.py --check
+      # The same report against committed data, and the half no rule about its shape can
+      # state: the issue body must NAME every one of the 121 rules missing from a chapter
+      # this corpus mirrors and every filing the reader could not open, because a report
+      # that dropped them passes every other rule here and tells a reader the month was
+      # clean. It also fails if `.github/workflows/bulletin-report.yml` stops scheduling
+      # this reader monthly after the Bulletin's first business day, if its cron and this
+      # module's `CRON` disagree, if `scheduled.yml` stops hashing the `oar` group (ADR
+      # 0006 keeps hashing for the one job it alone can do), or if corpus-toolkit renames
+      # `changed-sources.tsv` out from under the reader — which would report NO HASH
+      # OBSERVATION forever, indistinguishable from a corpus where nothing ever moves.
+      # ~1 s; reads committed data only, no network, and files nothing.
+      - name: The Bulletin report must carry what it counts, on the Bulletin's cadence
+        run: python3 src/bulletin_report.py --check
 
       # --- heaviest full-corpus scans: nightly / on-demand only ---
       # agency_profile selftest: scans every one of ~69k files' frontmatter with no
