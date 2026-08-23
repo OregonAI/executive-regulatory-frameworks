@@ -341,8 +341,11 @@ def main():
         # THE PROOF #242 ASKED FOR. Before this change nothing failed if a suspension and a
         # repeal produced identical graphs. Each case runs BOTH rules over the same fixtures
         # and requires the old one to collapse them and the new one not to.
-        docs = {"oar-9-999-0001": "superseded",   # the Bulletin suspended this one
-                "oar-9-999-0002": "repealed"}     # and repealed this one
+        # LEGAL STATUS - NOT-A-RULE: chapter 9-999 does not exist in the OAR. These are
+        # synthetic fixtures for the proof below and assert nothing about Oregon law;
+        # the real suspended set comes from the catalog, checked as case 4.
+        docs = {"oar-9-999-0001": "superseded",   # stands in for a suspended rule
+                "oar-9-999-0002": "repealed"}     # and for a repealed one
         susp = {"oar-9-999-0001"}
 
         keep = lambda d, st, susp: contributes_implements_edges("rule", st, d, susp)

@@ -1578,7 +1578,7 @@
   {
    "slug": "department-of-fish-and-wildlife",
    "name": "Department of Fish and Wildlife",
-   "rules": 1418,
+   "rules": 1421,
    "parent": null,
    "group": "department-of-fish-and-wildlife",
    "group_name": "Department of Fish and Wildlife",
@@ -1678,7 +1678,7 @@
   {
    "slug": "department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities",
    "name": "Department of Human Services, Aging and People with Disabilities and Developmental Disabilities",
-   "rules": 943,
+   "rules": 948,
    "parent": "department-of-human-services",
    "group": "department-of-human-services",
    "group_name": "Department of Human Services",
@@ -3180,7 +3180,7 @@
   {
    "slug": "oregon-housing-and-community-services-department",
    "name": "Oregon Housing and Community Services Department",
-   "rules": 489,
+   "rules": 513,
    "parent": null,
    "group": "oregon-housing-and-community-services-department",
    "group_name": "Oregon Housing and Community Services Department",
@@ -3359,7 +3359,7 @@
   {
    "slug": "oregon-state-marine-board",
    "name": "Oregon State Marine Board",
-   "rules": 200,
+   "rules": 201,
    "parent": null,
    "group": "oregon-state-marine-board",
    "group_name": "Oregon State Marine Board",
