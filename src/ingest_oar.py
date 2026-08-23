@@ -27,7 +27,7 @@ from html_to_text import html_to_text
 from ingest_lib import fetch
 from legal_status import bulletin_status_by_rule, resolve
 from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, content_hash, normalize_ws,
-                      normalize_volatile, rule_title_from_html, snapshot_slice, ws_only)
+                      normalize_volatile, rule_title_from_html, snapshot_slice, ws_only, snapshot_text)
 
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
 GROUP = REPO_ROOT / "_meta/sources/oar.yml"
@@ -210,7 +210,7 @@ def cmd_ingest(chapters, skip_group=False):
                     failed += 1
                     continue
                 time.sleep(0.3)
-                text = html_to_text(raw)
+                text = snapshot_text(raw)
                 wt = ws_only(text)
                 served = served_rule_number(wt)
                 # OARD's not-found shell echoes the requested number in its search box

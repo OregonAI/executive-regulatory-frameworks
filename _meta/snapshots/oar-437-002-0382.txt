@@ -313,8 +313,6 @@ Since Em is less than unity (1), the exposure combination is within acceptable l
  
  
  
- v2.1.7
- 
  
  
  

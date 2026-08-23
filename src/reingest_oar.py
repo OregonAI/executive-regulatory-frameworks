@@ -93,7 +93,7 @@ from html_to_text import html_to_text
 from ingest_lib import fetch, flow_to_lines
 from ingest_oar import served_rule_number
 from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, Checks, content_hash, hash_snapshot,
-                      normalize_volatile, snapshot_slice, ws_only)
+                      normalize_volatile, snapshot_slice, ws_only, snapshot_text)
 
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
 # Read through `legal_status.load_worklist()`; named here only for the message
@@ -688,7 +688,7 @@ def reingest_one(candidate, registry_by_chapter, today, fetch_page=None) -> tupl
             "a-filed-text-action-is-re-ingested", f"{number}",
             f"could not be fetched from OARD ({e}). The bulletin says its text changed and "
             "this corpus still serves the old text -- re-run when the source is reachable")]
-    text = html_to_text(raw)
+    text = snapshot_text(raw)
     served = served_rule_number(ws_only(text))
     if served and re.search(re.escape(served) + r"\s+not found", ws_only(text)):
         served = None

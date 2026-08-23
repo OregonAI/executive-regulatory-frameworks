@@ -21,7 +21,7 @@ import yaml
 from html_to_text import html_to_text
 from ingest_lib import fetch, flow_to_lines
 from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, content_hash, hash_snapshot,
-                      normalize_ws, snapshot_slice)
+                      normalize_ws, snapshot_slice, snapshot_text)
 
 CATALOG = REPO_ROOT / "_meta/catalog/ors.yml"
 GROUP = REPO_ROOT / "_meta/sources/ors.yml"
@@ -120,7 +120,7 @@ def ingest_chapter(ch, cat_chapter):
     if not html_path.exists():
         raw = fetch(url)
         html_path.write_bytes(raw)
-        (SNAPSHOT_DIR / f"{snap_id}.txt").write_text(html_to_text(raw), encoding="utf-8")
+        (SNAPSHOT_DIR / f"{snap_id}.txt").write_text(snapshot_text(raw), encoding="utf-8")
     sha = hash_snapshot(snap_id, "html")
     raw_txt = (SNAPSHOT_DIR / f"{snap_id}.txt").read_text(encoding="utf-8", errors="replace")
     ch_title = cat_chapter["title"]

@@ -7,2421 +7,2421 @@ last_checked: '2026-07-18'
 sources:
 - id: oar-105-001-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=105-001-0000
-  sha256: f5b649997eac427e539d152945465e6979215d12d7b8d87935b5f068c96e2689
+  sha256: f495886e5735cb55220e1cd4d7bc9ed90ec3fdc05891fb9acbbbf96a3f416a91
   last_checked: '2026-07-18'
   notes: Notice of
 - id: oar-105-001-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=105-001-0005
-  sha256: f337698443a10cc20ea8f253000caa0de4543127718629f1ae9e8bc6c2082d11
+  sha256: b2b5d15df8a90f32c022c02b7bca3d419cd9a89c7083e8041a8a0e074db6c108
   last_checked: '2026-07-18'
   notes: Model
 - id: oar-105-020-0001
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=105-020-0001
-  sha256: 4d32eed8e6ed660d1a4fc05ed6517f7b812849769b542785d0a12db98a0c2486
+  sha256: ef8c5db089888d6a15fd24a8bc5706858358153a8fb0098ee6b7b364835bd1fe
   last_checked: '2026-07-18'
   notes: Comparability of
 - id: oar-105-020-0015
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=105-020-0015
-  sha256: 950cbf0b420fac89dfe6890aa266c3be0c3b2d4909f6c27a4ab48d38f15884d1
+  sha256: 6f0ecda2bc36a821cb951ea6d491bc56f5fdae067c0582c058f57110bb3eb5d4
   last_checked: '2026-07-18'
   notes: Employee
 - id: oar-105-040-0001
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=105-040-0001
-  sha256: 068cfa472f60dd083e1cc14e7741495cce8b818a09a151c573355544b3e250d7
+  sha256: e45f3ed1495be954d4980eb032c6eb89e18444a87bea75d514c597253198aa82
   last_checked: '2026-07-18'
   notes: Equal
 - id: oar-105-050-0003
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=105-050-0003
-  sha256: 80713ab3035f4675fb65e25d84a5ef420078f29507072a1cc5e56b692b758350
+  sha256: 5e740c69d73a4afd27753710618a889022114f7c0322676cecd478dc68df913f
   last_checked: '2026-07-18'
   notes: Alcohol and
 - id: oar-105-050-0004
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=105-050-0004
-  sha256: 0d429c438d167ea2e30b9430e40c8889d32b68aa40e2c1029f7e3db733133b1e
+  sha256: dae8543dba750c31979e96c84a7c9dcae5f32567367aed4b755d510749c93bb4
   last_checked: '2026-07-18'
   notes: Drug
 - id: oar-105-050-0025
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=105-050-0025
-  sha256: 5a3a88d6839624e64451c0e738d4cea1fb564b1aa942dfc8d2cbd908cc77baec
+  sha256: ae0eb065a2b134691a4dbebb35e1cc104289c0553e6558c0257164650ca8a526
   last_checked: '2026-07-18'
   notes: Injured
 - id: oar-105-050-0030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=105-050-0030
-  sha256: a404e8ccba5413a67e34e6c4c9c867c12eab40cbf8596509db24cf0bbdb64321
+  sha256: bf66387ad8dbf1c408a5beb01848523fc0ba9dfd51eebfa98f516c5b2791d357
   last_checked: '2026-07-18'
   notes: Injured
 - id: oar-122-001-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-001-0000
-  sha256: 7cc4ac84cca6a8733d9ca7c8764256c7b947cca81f1c1724b97bd4e475af23b4
+  sha256: 3990c6c8caab18d76ad4bba126adcc8cdb8ab6ca844669759766295b9b4ba370
   last_checked: '2026-07-18'
   notes: Notice of
 - id: oar-122-001-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-001-0005
-  sha256: b44af7754bff9b8822b0dabad579ae7a555286c9959d6f8c015c724c9df65b92
+  sha256: 4fc80b724ee78513b9c36c195b262c912d822e2fa6e09032501c59dc37d2e3ea
   last_checked: '2026-07-18'
   notes: Model
 - id: oar-122-040-0040
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-040-0040
-  sha256: a526f4267b918ceefe46138537daa6205b7732b9d7c05b1605b1cedd27b4f120
+  sha256: 1b4abb143e22661ce727de103dd1071daebfdba7573c6a4a44c6e23b199bdd0d
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-122-040-0050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-040-0050
-  sha256: b034631bb4e41e040106f9a79ca47e7571392515860b04b8561d0c8a50a6c609
+  sha256: 54fddce9f54075b74604fb47e46f691b960ef9229c7a23cba2e45ca79a67dc77
   last_checked: '2026-07-18'
   notes: Report
 - id: oar-122-040-0060
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-040-0060
-  sha256: 25cc8ddd0fe243b1e67f2fcc30ff5f9455fec7965bfd93df03a31b6cda36b161
+  sha256: a0f3c976e35becaaa68f6a543a1fa6107950291daf06f9d44d180bcd30610fee
   last_checked: '2026-07-18'
   notes: Failure to
 - id: oar-122-050-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-050-0000
-  sha256: ec341ef2c2a552bf7804d624186dc8dfb53505b3fe3604db4d37d40e3f65980d
+  sha256: 007fd3ff8a06ec24cf0fb73b39f1181c7064b2c1d02db71ef717e24f86756da7
   last_checked: '2026-07-18'
   notes: Purpose
 - id: oar-122-050-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-050-0010
-  sha256: 1196b95bd4ca3595cc3f292ef0396536c47804f0ca752dd7408f47180dda6e67
+  sha256: 09b645715654caba3a3a95ef8aaaff165c436dbf6241af0ffc72f222f7b4f6ce
   last_checked: '2026-07-18'
   notes: Basic
 - id: oar-122-050-0020
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-050-0020
-  sha256: 48e2488329aebdcf06fc082bbe3189a61b1f3442b7f859441fd549837b506793
+  sha256: 2d2fb4cc8e10d26fcea00643241cdcb8d6a4dc59012d0b1c9041573017899faa
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-122-050-0030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-050-0030
-  sha256: 2091a1592ce4151af08cf8be9922b042178ca172777f614c1318dd54b0aafd36
+  sha256: edab717d78784ebb6a6341ba6503442911a5207da83d11cceeb683b5d93aad1b
   last_checked: '2026-07-18'
   notes: Procurement
 - id: oar-122-050-0040
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-050-0040
-  sha256: 4f041dcd8a3fbf4df49c98be2db48fdad6461e5a9fdef0bc53d4527fa36391ae
+  sha256: 54f33e4bdb383943abd2cf5de25f395314bf6089cfc84c86d09a25c7a884dc17
   last_checked: '2026-07-18'
   notes: Maintenance of RFP
 - id: oar-122-050-0050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-050-0050
-  sha256: 300db0cc5c0237ea2b6a1bea0322d3ded6600eb8219a32cad4c867fa4888d907
+  sha256: 81eee797b0b0849532819e32b1eec9ccd52392ae432b014a3dd20c3f55913c13
   last_checked: '2026-07-18'
   notes: Competitive
 - id: oar-122-060-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-060-0000
-  sha256: bcd675a2894701a2fd3a7dae1ceaed78d93528dbc9a0cea6b6b9c1ce5fa4297f
+  sha256: 402fe85c012912c567c9329c951f46555db1d7f9952c04fdda3a65f068164b6c
   last_checked: '2026-07-18'
   notes: Process for
 - id: oar-122-060-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-060-0010
-  sha256: ca0595245604554387b05f393ad9a433cd9a173854c581026f996278d2f3643f
+  sha256: 13dc7f12053ac375884340194757ffa7d092f880f71f1320e431279fc1c845b5
   last_checked: '2026-07-18'
   notes: Approval
 - id: oar-122-070-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-070-0100
-  sha256: 5755fcee0dd7a4d9406e2f26e173fef6c4c5bcdd97d7f41b2bd4275386dca8d8
+  sha256: 3414536d3266b976293241828a1c9eeb33387531dbfd0f474d2d8458fb18b9e0
   last_checked: '2026-07-18'
   notes: Authority
 - id: oar-122-070-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-070-0110
-  sha256: 51b8cc15ee2c6f8b72d1c4dc1c87fe0afb8c41511bbe1ea0fe1e33cfa716bfde
+  sha256: 702c671542312c67b1f0d7767ec0d527c421a3dc22f38d721273c61aef4c6069
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-122-070-0120
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-070-0120
-  sha256: 6ace4aa5c775d26ae2812b9a4589d423e127e6a10f23d00e6b5c927bebb618c8
+  sha256: 1292989982c3891feec1d6eb8a627f34a655cea354e8072b3db28f3354c37fa2
   last_checked: '2026-07-18'
   notes: Budget
 - id: oar-122-070-0130
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-070-0130
-  sha256: f51845dd81702325b288d878bd7ba107b9ec7aa80776010f1845991608fea256
+  sha256: bd474b361e4c727186969312bcd5cfc50d2d64d19c7e1efc6d209f32b449c395
   last_checked: '2026-07-18'
   notes: Approval and
 - id: oar-122-070-0140
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-070-0140
-  sha256: 625560c5e616bc4c23b9450ddfcfe31699e62ec8c8a35937fdbbec8020abe279
+  sha256: 6e995d633f3e15a5f7aa186464265a66fb20637bd9fd4d19636ec4b33f150810
   last_checked: '2026-07-18'
   notes: Records
 - id: oar-122-070-0150
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-070-0150
-  sha256: 589822e85f622bb0beb9f5f1a9ce4f1089166cf83a4628f2e62ba99620ed6c75
+  sha256: 395430d0972f5d9993d86941814a0bd3b36eb78ae29571f4fe58bdc977b7b8fc
   last_checked: '2026-07-18'
   notes: Management of
 - id: oar-122-070-0160
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-070-0160
-  sha256: b7073c541b623c170ac9a9c3b122324982c1e942ccdbab6ea3d5275c33d82856
+  sha256: 848ce63de600048e5445389a332b6451daf4038dc88ef999d9f23d7b3de9eed3
   last_checked: '2026-07-18'
   notes: Charges for
 - id: oar-122-075-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-075-0100
-  sha256: 2de5c07969199f9f6b91c7a1911b925f96e22bd8aca0be78617fcab374dce06f
+  sha256: 90d1e21224a2562a90a57ab5e9de303e7d66e7a2a35d2882cb16877980b9bd4d
   last_checked: '2026-07-18'
   notes: Authority
 - id: oar-122-075-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-075-0110
-  sha256: 7b878629539a7258b7563766975dc7ef9c7657e4d20c36c8fc7ae9f41230b2da
+  sha256: 93cd2e8ce7d3550b2a4918ed97f25086d3fbdc4c6385e3ab920662d3fb54c146
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-122-075-0120
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-075-0120
-  sha256: cd89c98dd61abc941f83d7caa2b65de084b1bb843c779b10fd83113a785b1ddb
+  sha256: 256b8ba7c814c22e1fa8af5a8ec38e2099ca55c4f4de235ef980de7239482c24
   last_checked: '2026-07-18'
   notes: Budgeting for
 - id: oar-122-075-0150
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-075-0150
-  sha256: a0305aca72b7b09690637493e8d199049522f6e23e48b4fa50f85c6075dfc316
+  sha256: b779d8b2c606439d3dd21bd12a767d4e0161087b3e93f2075eaf6bc29cf9b8e4
   last_checked: '2026-07-18'
   notes: Management of
 - id: oar-122-075-0160
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-075-0160
-  sha256: ba48a8e85721b84fedd94352986a94dc19f54a76a43d3fd144120c95d48f9ff4
+  sha256: f2f5e0af18cd4423e5518b6228f38e4efabd6e49a1c20994f3a57b6c1ae5c8c1
   last_checked: '2026-07-18'
   notes: Charges for
 - id: oar-122-085-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-085-0100
-  sha256: cc6f271ba5d2357d449100e525a2ad19e0b3807ddb4a00003699d0fcf14b4f0e
+  sha256: 0decf60ee788dcd354007d09e6085d2b0db1c9c90269d22e3c24bb10a850b950
   last_checked: '2026-07-18'
   notes: Statement of purpose
 - id: oar-122-085-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-085-0110
-  sha256: 88ea98e96cd7730e2ff44205b6aef98ff071ca0902f50bb1d96e424c4c077c60
+  sha256: 2db457b0805584499a19fc5e2818d6376a644b61180223ab0c94ab6b3ed1755a
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-122-085-0120
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-085-0120
-  sha256: 3f9a852698cccc161c083c01aacf4d90df7c74a9c736cf7af3e3f179cffb6099
+  sha256: 1472e961b61b23387bac9b05c1743681d202199a6371572f04e672967af020c2
   last_checked: '2026-07-18'
   notes: Mandatory
 - id: oar-122-085-0130
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-085-0130
-  sha256: 98a51835b19c54a15671a8e8c444884fcf20f29ce291e1f6fdde0bc71de52e6a
+  sha256: eb55ecd207d4a6f3413af861cd3acf80006644ff91ce47894fc53abe5114b2e5
   last_checked: '2026-07-18'
   notes: Mandatory
 - id: oar-122-085-0140
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-085-0140
-  sha256: 498e854e080a92bec1e4f044a9fa451242ad4ba6cf5810abdd05a44316d56e18
+  sha256: a20c09aef5ed8fba5b54aa9ce8b90e734164fc6d88109c50e668064df4b30351
   last_checked: '2026-07-18'
   notes: Mandatory
 - id: oar-122-085-0150
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-085-0150
-  sha256: e674b9a427d22cd42c5d920a24333471fb47b6cc0c7e21d19d06c45cf446c8aa
+  sha256: 84a11d25e45892e46b121ac5d25266c92a865817f72a4557a0bd4e63e6be9cbe
   last_checked: '2026-07-18'
   notes: State
 - id: oar-122-085-0160
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-085-0160
-  sha256: 121dbc85fedaaab492cb2e1a3a72ac1a76bfaed0940b0092702cc8b90c07bca7
+  sha256: 9750576db54f0f24ea6c7f2951819bb61f709a3c363d342802ea071e0bc65555
   last_checked: '2026-07-18'
   notes: State
 - id: oar-122-085-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=122-085-0200
-  sha256: 805372393a82693a5a8ed7d5585c21dbf18f929161167a80493e47968a652b18
+  sha256: 0a797d36db5465c905d3a78e70458aef195424f2389f0aa1fe14776db017903b
   last_checked: '2026-07-18'
   notes: Voluntary collection of
 - id: oar-125-001-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-001-0000
-  sha256: 0d2ba2b227f422511fd4616acb2c62fe527d1a83b5ec75f35c8098d6fb6a9dbf
+  sha256: 08d613b287aef4c9156e810aa4a6ffbea8c2f520919de54eef562dbd23a4522a
   last_checked: '2026-07-18'
   notes: Notice of
 - id: oar-125-001-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-001-0005
-  sha256: 25603b3a2028942b855381ee5b18fe0416990a094d8b97e6c440898b60a93bf8
+  sha256: 3d3834b7cd6dc099026c1c096dbcc67af27a3df6d5c0e645ec4d0424c6681d6e
   last_checked: '2026-07-18'
   notes: Uniform and
 - id: oar-125-007-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-007-0200
-  sha256: 66831cf8fff567f4ab301b46d677d7b517d03e9abcc62a5ea119e87983698d52
+  sha256: 73ee0f0d7c19caee66137e915fb0ea36c6e8caa67f3f63467ce412585dfdd6bb
   last_checked: '2026-07-18'
   notes: Statement of
 - id: oar-125-007-0210
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-007-0210
-  sha256: 73ccea0e3607b91236ade5dcde9e40bbc980c3abb060b18096d355ee33962720
+  sha256: ce80f2f7e2869f5eb24027e34da9c42d3e8970a025c8c79de67b1e47e944cf8c
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-007-0220
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-007-0220
-  sha256: 38d5b55503a8c282b633001f1c317b122cea8ac3febcbbb0d49ee7d05e0d4055
+  sha256: 1e0afb63cca7542266291483fca46b4b9c36c150a1c580efa47a6fc74cd99f4f
   last_checked: '2026-07-18'
   notes: Information
 - id: oar-125-007-0250
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-007-0250
-  sha256: 9d0e11f4332f9d1b5e32568f8f8c58dd82171ed6064878e1e114a3f4a7e59c75
+  sha256: 3a26e2c4d1aa368c31124c3e4341e49b2c082d530c33d933d3b54281778b3669
   last_checked: '2026-07-18'
   notes: Hiring or
 - id: oar-125-007-0260
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-007-0260
-  sha256: 25a8cf3269fda2da7ce56ac22f9dbbdf191e609dd00d95c36a467c3855be14e5
+  sha256: e17a2afcf333dfd88811131f297eeeb70e8cdc857b82df935021cefffeb210df
   last_checked: '2026-07-18'
   notes: Final
 - id: oar-125-007-0270
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-007-0270
-  sha256: 3dfd3f25eba666eef4903ecf5ff0389098b3e5ac48bb81bda4982eb4cd13b779
+  sha256: 2497072652eb890b9b3d4cd7d3bae6a260090eb0ac12533e0291f53e38a4b26e
   last_checked: '2026-07-18'
   notes: Crimes
 - id: oar-125-007-0300
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-007-0300
-  sha256: 114288de4ec4238e250c2286c9d2d1a36f2725cd505919dd72579a1fed5e5d9f
+  sha256: c20702004d0ce5887bd6b507a9135ffa816dbd56e9b18a1029575ea684f3901f
   last_checked: '2026-07-18'
   notes: Appealing a
 - id: oar-125-007-0310
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-007-0310
-  sha256: 6e9a890395a58dd425cd9a977478124d1214cadf4ea54190c4b45163aff6f942
+  sha256: f0d8044d4d889d2983e30f28d0caa4d044b851e0082f399f9cc9b2578ac83746
   last_checked: '2026-07-18'
   notes: Recordkeeping and
 - id: oar-125-007-0330
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-007-0330
-  sha256: 6472190fab285cfd43618c9b21b196747fc1186e71dc551166ca5ec753341749
+  sha256: 76fcc8634b4219f17434f4178142c52f682ec9570019288603c03baed215e899
   last_checked: '2026-07-18'
   notes: Fees
 - id: oar-125-010-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-010-0005
-  sha256: 80bc8f91a630304e847d07ebcc7094a8cacaa86e02b7d923eabaa404e3b47204
+  sha256: dd0840000619062c61dca4019b74d91cc8a574ca98f5ac1a6d3336090511edd9
   last_checked: '2026-07-18'
   notes: Contract
 - id: oar-125-015-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-015-0200
-  sha256: 884d87584d5c9e695cb2237d347254c7f8cc9d3a632cc3c811814f9590f1d791
+  sha256: 47e989fe062f1a6faf07816e1570e1dd947225de26d57558a14be8967150a16b
   last_checked: '2026-07-18'
   notes: Electronic
 - id: oar-125-020-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-020-0010
-  sha256: a6d9a883ccda7b85809329b7620525897d3af5691e71cf1667e85dfe6aa7fb82
+  sha256: 2401778f2f5c38f71e9021007f2f5512ec33304223c9f56a6c014c3eb40c99e6
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-020-0020
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-020-0020
-  sha256: 828fcd856aedb4c90f4a17a747b8b6c0b2eb2773e27279b0c77a6834a0ed70fe
+  sha256: 54bd6359cb12686635a11fc65dd50ca5ada823ae37cde92aa5e0505fe4cce7ec
   last_checked: '2026-07-18'
   notes: Applicability of
 - id: oar-125-020-0030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-020-0030
-  sha256: c472921d1d0acdc235cb9eba1d8767075d1c3ea7b7aca7355958fe3414afdef9
+  sha256: f32f593c68abbc6e71aa5d6b844524a28bdca469cd64d85d591aff246d53a410
   last_checked: '2026-07-18'
   notes: Access to
 - id: oar-125-020-0040
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-020-0040
-  sha256: 0fa0e7820409f956d6a5fba7eb388f9c35bdd49d92d604e7bcee55ee29e05aab
+  sha256: 62a54e6b6aef80735ac422a7ae08d2ada2645ad8103d9e79058276de0761cf9f
   last_checked: '2026-07-18'
   notes: Requests to
 - id: oar-125-020-0050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-020-0050
-  sha256: 0ddbd27d5ca7baba1b163f34079ee7795699567a42f5e3e74b8b3358e11db009
+  sha256: 0bcd2202622f2d470960c5b12a208344e5b20acf38fd8de5f960bc779eeb702c
   last_checked: '2026-07-18'
   notes: Fees for
 - id: oar-125-030-0006
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-030-0006
-  sha256: e7839e6415f8f774ff7f922697186c7e0e09b29adc31e3f7932b87d709191a1f
+  sha256: eb460de786a1f4a0de3305bdaf3544cee4fe7c18146b38261c4cde908796e986
   last_checked: '2026-07-18'
   notes: Annual
 - id: oar-125-030-0016
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-030-0016
-  sha256: 0570cc031f883389c260bf1e60e17ab65453ec86c4f8e1c861c680acb8873864
+  sha256: 142ac164559f2d3e816ee489e658a208f370406d4417830d5c7982b355b7eb2d
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-030-0021
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-030-0021
-  sha256: 47c73ef3f5d171b3b91264a08732171e12c50d1089c97b078ac5f98d3cca9824
+  sha256: 508f6fe3ed488537f950c923c048ac67490029f3517ea4f84291d5a0dd2679b4
   last_checked: '2026-07-18'
   notes: Charitable
 - id: oar-125-030-0031
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-030-0031
-  sha256: 79602d876d67cb3dd95dcbcf72f8a0f0c793aac8bafcc0253cc847aca5883b3b
+  sha256: 5816884d395784025d8f0a7db6c50cf463d8200aa8bc2248d029fca4d92964d4
   last_checked: '2026-07-18'
   notes: Quorum A majority of the members of the
 - id: oar-125-030-0041
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-030-0041
-  sha256: 0bdf892610b2a864e794730435799e86e6555a5715f440a55253768c43ba148c
+  sha256: 6d8356120558752172cdb48ffaf20686a47808ecc7eb8e5ce1f692ba39a602fb
   last_checked: '2026-07-18'
   notes: Participation
 - id: oar-125-030-0051
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-030-0051
-  sha256: 7e4a7f08c11215a9175140726e17c781abcfa22de08284cb4969c6d3a34941da
+  sha256: 2a9b2a62a105f793859b92ba8a47186341aaf13e78ed28bd7e4d412d3b693ccd
   last_checked: '2026-07-18'
   notes: Participation
 - id: oar-125-030-0061
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-030-0061
-  sha256: ce06453cbd8dd065cefd554b8a7bcc7e27819be255e6fb3c6f6dcefc2ce57dc4
+  sha256: 774af1dea7abebd3f1b54a1a169f8210578460804c9dc0978efe92476b60212d
   last_checked: '2026-07-18'
   notes: Charitable
 - id: oar-125-030-0071
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-030-0071
-  sha256: c7a53d10394af846eb2b934386c6d536c56b2cbcf1e78725be771aea6a4cf363
+  sha256: bb8835f3cddce2a310bda51d6cd09e5ef165a442f5ad45af1d3e4394291cdbec
   last_checked: '2026-07-18'
   notes: Charitable
 - id: oar-125-030-0083
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-030-0083
-  sha256: dd4eb395180c13455600f4379aee51dcc17a319bd62868dcd8c56f5569be4a65
+  sha256: 44d0b985387c45011f04e7981c650b4fa7a6c6593dd3e40f886f176a9d04b6a6
   last_checked: '2026-07-18'
   notes: Appeals
 - id: oar-125-030-0090
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-030-0090
-  sha256: 39d1203c3d81ad205ab456ab026b2a21b3b8f02c8b10c3dfa0eef45ffb33cec6
+  sha256: 13f93a9b025de742d727f8c8d0212af43acb3bea37fa64101458066c9ac6d6e6
   last_checked: '2026-07-18'
   notes: Designation of
 - id: oar-125-035-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0005
-  sha256: f276b98dee8036efe319b091539d945ab4d9967dfbc870810343566fc1d23997
+  sha256: 76b5264e727986ff8fcc4f5ad9ed20cbddcf70fe5d455bf99787924effb56808
   last_checked: '2026-07-18'
   notes: Authority
 - id: oar-125-035-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0010
-  sha256: 4b8ae3f8e981010debc1fc968d05786ec767f9fa378913c44cc69f6d1c32ee70
+  sha256: ef8d4d459139555fedcada4664c3978d683a1ce2a2c5eb434869f11657ad2c49
   last_checked: '2026-07-18'
   notes: Designation of the
 - id: oar-125-035-0015
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0015
-  sha256: 13f6dbfc14e185d8afce47e9687921ce24a48f4e8832b228114e6d9e5cb33db5
+  sha256: 653d1a6932db9606a9d5c098b61987524b8a83ddb9699a35de2c3ba3ac53f9aa
   last_checked: '2026-07-18'
   notes: Inventory
 - id: oar-125-035-0020
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0020
-  sha256: 65a8651d34419b86f8620f31f78202c252dc9c47243b392c73ca81909a6a9e96
+  sha256: 725c283c8a40d36fc4048852e1d90520604572e990f6ca250da960c2de88fd6f
   last_checked: '2026-07-18'
   notes: Return of
 - id: oar-125-035-0025
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0025
-  sha256: 3d50b082fe8de148323cdd351c8afa46c3d86daf77e89752a7349cf10abcf940
+  sha256: e970277680468b3c7d580602935e2b6a2b5a0034be1fc8b0f8e093ddb4eecb6a
   last_checked: '2026-07-18'
   notes: Financing and
 - id: oar-125-035-0030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0030
-  sha256: 82b9013589602a4c081d8cc172e0d9f8b32c7592e9e1722d08566e951dcd1f15
+  sha256: 231944a51294bb799c59c9f52ca0f095cf06b0945704147a102b13b1125fe16d
   last_checked: '2026-07-18'
   notes: Terms and
 - id: oar-125-035-0035
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0035
-  sha256: 603988da18c14180364fa2c2c4d048a42546f9f698ff3ff0a14348cf27a39b30
+  sha256: 9c01d672db62882a617f1ff2c881e591bce3b9bb760f4ca38dfa6d1fb1c1f4eb
   last_checked: '2026-07-18'
   notes: Non-Utilized
 - id: oar-125-035-0040
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0040
-  sha256: 46078774603036753efc985e9dd1fcb3e4f5187ef0cc77535ee68bf46c11777d
+  sha256: 7a210b180250276f98cf9139dedb4ce7d4c74eeb8022c3f00d3dd677901eb102
   last_checked: '2026-07-18'
   notes: Fair and
 - id: oar-125-035-0045
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0045
-  sha256: e088b9e88b0b60cfce5fdc0525c0bebe200955ee36b1ec72bfcf1430adc3cdfe
+  sha256: 9bfec8e41a0204f444a8131d9da088cd679a76069bb12bf840dc595376ba400c
   last_checked: '2026-07-18'
   notes: Eligibility
 - id: oar-125-035-0050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0050
-  sha256: d090d8bdd2db21f7680eea55ce8336dc7600974ff98b58c82c012e0938fbd707
+  sha256: 5c576ca455592eba2b6f9ebe6d55d99cd6f8521b003b4004b9547880dc42c7af
   last_checked: '2026-07-18'
   notes: Compliance and
 - id: oar-125-035-0055
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0055
-  sha256: d4e50edf148ccc96b76f1e9e2ad8ccea4f84064fdbd32415f5887fb9bc566701
+  sha256: 986ad99e68835879a25802fcd6ae4b7648c472ba4438e19243a62661f58c5a74
   last_checked: '2026-07-18'
   notes: Consultation with
 - id: oar-125-035-0060
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0060
-  sha256: 98f575e347e5195bfb3350aab5aa6b8b6d4ce570eb16b31fd09001bd0dbfa7e7
+  sha256: d21e99b996009d8098f225904d3b1d62690f69b2440cea5518653c18e3b7348a
   last_checked: '2026-07-18'
   notes: Audit
 - id: oar-125-035-0065
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0065
-  sha256: d6ce775270902a41d04c8dfaef20245949f2556c5ff78d83a2a5869ee03c3746
+  sha256: efa2ab89599c7d7d02b6ecaafec774303ddbf890eec1de8953bafbe363e4e575
   last_checked: '2026-07-18'
   notes: Cooperative
 - id: oar-125-035-0070
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0070
-  sha256: 0cdc5142cb47212a70c49c8465e990f6da9810563d5ab4b9b6d513df0eb773b5
+  sha256: 701445c90cd6f6d875e00a9dc7391c5ea18b65100a987a460e319f1ed3434f99
   last_checked: '2026-07-18'
   notes: Liquidation
 - id: oar-125-035-0075
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-035-0075
-  sha256: cd21d00edb246ab584c4ef0a30a8abe788c1e932d115d96bdb19ad636e88a1e7
+  sha256: 66634710a776f428f7567b425b4a5dce5d5d4ada161c3c3e24d78c5e7436a8b1
   last_checked: '2026-07-18'
   notes: Records
 - id: oar-125-040-0001
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-040-0001
-  sha256: cdbca6671613f29067709442cd5d2d21cd2589a6c49d7c67b48dc68e5c8d46c7
+  sha256: c9c5cdde64934ca8a4b402947b442e19a21af7e885fba2351041437658e42ac2
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-040-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-040-0005
-  sha256: 0403dd784fc7d28fb0a57762b65df9618c22e079bb3b666e33c786f73297f97f
+  sha256: f7cc6cda8bd872ec4493208362726b1039eef53d6440b51d25e9a3cfc8df3a5d
   last_checked: '2026-07-18'
   notes: Mail
 - id: oar-125-040-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-040-0010
-  sha256: 3dc50fdd2888e542af76054f508a37c4ccd29588445e8e9be282dde9a19ab2ac
+  sha256: 48c6104f59f1a75239b5139c4d92a78dbd0d0bd824922323a52d9e7ff130cd51
   last_checked: '2026-07-18'
   notes: Delivery
 - id: oar-125-045-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0200
-  sha256: f20bebf69f0494422cf1b34ef9bf249cefb37cb54b1fd3033274b6218a047c10
+  sha256: 7c9e596fcfc977812d90a3027c3c63096947f3592a182cfd08f82b6ec68eae36
   last_checked: '2026-07-18'
   notes: Purpose
 - id: oar-125-045-0205
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0205
-  sha256: 2755bdb4871f9e02e2a9bce403251d874f37152e1c2100339d332693780fbce3
+  sha256: 6ada0a56b0c631b84ec943c1db4a89bb40ed721c979986c740ca485d914455df
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-045-0210
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0210
-  sha256: 4a69ba8d247706a9098d12979896239d6e622f48d00f34b18f347c6e431c6a5b
+  sha256: 3203dd79880bc161c0198b90a7d0b01c8bd9dbfc50a04372e5fe134465ac1a2a
   last_checked: '2026-07-18'
   notes: Alternative
 - id: oar-125-045-0211
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0211
-  sha256: bbd3a0ac57008056a7511bf43e8d2aef34d2bc226b3f9ed13e62c070b0bd9bad
+  sha256: 2a672acd6b88e76817740e41de4edf433669152d8c8371b8dea1e89e63e630b2
   last_checked: '2026-07-18'
   notes: Exempt
 - id: oar-125-045-0212
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0212
-  sha256: 78b7c3ab63bd2150155d480229f45fccee183fa1b6751b3b7217b0841430990c
+  sha256: d481633bca5706e598f8079bf06b6f1fbc75a5a195a147f3a82fdf2d9dd1aefd
   last_checked: '2026-07-18'
   notes: Directed
 - id: oar-125-045-0213
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0213
-  sha256: 4ac211ead8cbbf52576e0a92c6776c0c51bff3cc4ef3e4a125766a1279335ca7
+  sha256: ffbc04e24b10615bb297874ff84c12366b25148e76ca92587c28481d70328584
   last_checked: '2026-07-18'
   notes: Planning for
 - id: oar-125-045-0214
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0214
-  sha256: c2e15d6b3d11505adfa88d9d034215554dc3f5f62c79f0f4df2a560c3de45701
+  sha256: 79e29d81c329f3aa3b744c6ef471ab5be049f11a9731275144569c8ca4c088d4
   last_checked: '2026-07-18'
   notes: Transaction
 - id: oar-125-045-0215
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0215
-  sha256: 932c5e191f5d110e76a6c43149bbca8692620b928c557641590102174f3f16ef
+  sha256: 534ee3ac9e837e31e50faffb07daa405b28c07d5ac4097a6899063ea27dd745c
   last_checked: '2026-07-18'
   notes: Appraisal and
 - id: oar-125-045-0216
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0216
-  sha256: 858032e351c779a6936a99556d549c95ecbe02afc2cf533984c7a03519c7621b
+  sha256: 1828f25cabc98b150869f5f388e75d5b8b275968d5a6ec60c684810d6c37b3c9
   last_checked: '2026-07-18'
   notes: Department
 - id: oar-125-045-0221
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0221
-  sha256: d2faa5f74d035ac07e7c7e1088bd2402a19051d34b4e7c6a9936478a8d69a240
+  sha256: cac69a053946a2c7ea9b8964aca87a4a21e3cb086a00ed323abfa8315a353f08
   last_checked: '2026-07-18'
   notes: Clearinghouse
 - id: oar-125-045-0222
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0222
-  sha256: c1b729ab8af10a6bb90a95432968cf2728e34f701f07610c5859769707dd7af7
+  sha256: bb50b56cc31749e74bf346408583307e059533b624b111a3e864bfca3a6ee6a4
   last_checked: '2026-07-18'
   notes: Responses to
 - id: oar-125-045-0230
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0230
-  sha256: 24d99cedb5e251ba9999a25b3f270c5e96c411cb0dc15b052e0b6c280ba380c5
+  sha256: 179432eb51f368105fe6e3df40a6d4adf51d75533ea5825c4e07140ad5b00533
   last_checked: '2026-07-18'
   notes: Right of
 - id: oar-125-045-0235
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0235
-  sha256: 2fa1007ff6e3ae0d22c2cbf9f81f4309ace2d2a8484b64404adde2c399f31500
+  sha256: b55cde7352a831e2ebe7b1df8e1bdaacc39fd593503bddf6a0ff5ebd0aabfeca
   last_checked: '2026-07-18'
   notes: Public
 - id: oar-125-045-0240
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0240
-  sha256: 8b90bb363aa9fb22981d926ff66c18026f880b562d7ceacd6ed00b4c605e4d66
+  sha256: 5bdf665fc6144ca1149d031cbf0f55e86f2aa1c7a0bcf5933e72dc7da3f91044
   last_checked: '2026-07-18'
   notes: Transfer of
 - id: oar-125-045-0250
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0250
-  sha256: 91aa5021b5488cbda3b2b56d1dd6092c7e23d82e6f212d9f14405ab30b518fbd
+  sha256: 3986a6cbd20158a9f04b652dc6b00301b0c928558c751e62a720a0a909fee413
   last_checked: '2026-07-18'
   notes: Public
 - id: oar-125-045-0255
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0255
-  sha256: 8ba0bd059b0a1a9ce16fd4b9336d4466800cfe72fe54b10afba4c58dcf73b50e
+  sha256: 2915844e22874094d0c1b48ef626dddbb773177f8d22e3663d795f3347a3e20e
   last_checked: '2026-07-18'
   notes: Procedure for
 - id: oar-125-045-0260
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0260
-  sha256: c9f4771c8131314cbd5d195c618d074cf6d4d0663a2c6a7cab2725650a8b77c2
+  sha256: 563a207b33d4445a98346450fcd0351dcdafe458ec5344ca6e6d2c5fad75275a
   last_checked: '2026-07-18'
   notes: Procedure for PLAC
 - id: oar-125-045-0265
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0265
-  sha256: b0ebd2692554d01a962311474d19b70713e2eda9d6775242cf1ead7cbf123fca
+  sha256: 7789b382bfb9d2b427ddf0da892928250a82cf910ed4d7e68f5acc0e78ccde51
   last_checked: '2026-07-18'
   notes: State
 - id: oar-125-045-0270
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-045-0270
-  sha256: e971355046fdf0b37bae2b9d2491390752f19db5109bc4b89b448217fce73a6d
+  sha256: b4658b4896360cae3f28a5baaf430cd58b49c76e5d96d816df26df0d1ebfbc49
   last_checked: '2026-07-18'
   notes: State
 - id: oar-125-050-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-050-0100
-  sha256: 668478a396aa3d242418a0a8529472021e39faece23289a64a2ab6666f983890
+  sha256: 1295cea145fb1ce7f57ecfacd4ad368caac2a3dd5f5a9eff5a9c1566f4df01f4
   last_checked: '2026-07-18'
   notes: State
 - id: oar-125-050-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-050-0200
-  sha256: 2cccbdb65232246ef3b93b823d3ad8b9804b88d7db7e8ce5fa4f1b4aae93082b
+  sha256: eceaeba4864bc01d6293197a9347dbb72dca751c156b1c04d992854b7ccdf989
   last_checked: '2026-07-18'
   notes: Disposition and
 - id: oar-125-050-0300
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-050-0300
-  sha256: 08f6d70e7d10ea3130e926f78d7f2941d873a717c17ee734810ea58d3d460587
+  sha256: f152cf733ac8cf0742e59df74a0904c7a7e77d1818c8e7f6c81224eb14b55b03
   last_checked: '2026-07-18'
   notes: Eligibility of
 - id: oar-125-050-0310
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-050-0310
-  sha256: 4f2ce8497511a4854d50ddde6ca8de552a931cbab22b246258e5f4ad81a2cf02
+  sha256: cb1ade9bf31d7cd2beff2b137f68ddda2e3459c6d573547e8803934272fb11b0
   last_checked: '2026-07-18'
   notes: State
 - id: oar-125-050-0400
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-050-0400
-  sha256: ac63d276ed341351eb56340bda32b34b5937081169c4e61877c7b020fd67e165
+  sha256: ddb369f51d1ca500508e205e371397548d545d1da31d770e333abc5fc633c2f9
   last_checked: '2026-07-18'
   notes: Public
 - id: oar-125-055-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0005
-  sha256: 95913e1540a40976bc131185944059b76e14c1d8a7552c9c0ae0b983cbd90c47
+  sha256: 25ad1e0f5c35e16f3178536c3b2d91cacc85fe0561efbc9c213bbf998f356208
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-055-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0010
-  sha256: 5c8f231a59b2342bb8ea0f886b6c1350716e3a0aa1d17cfa312a40794ef07cb6
+  sha256: 0e9b98aeb0014e58da75c85f559614899197926dc74bc690da3230cca94a7bbe
   last_checked: '2026-07-18'
   notes: Policy
 - id: oar-125-055-0015
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0015
-  sha256: 323ded34017024548e2aea3d0ea3da0fc073029fa478079434605c951e1c5f55
+  sha256: 5b0eb94e3839ed45f434ac07f8a04713c334054e31b86ace5e204f20614501e4
   last_checked: '2026-07-18'
   notes: Application for
 - id: oar-125-055-0016
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0016
-  sha256: 83fc39e4f137599de68890e51c72665e8f8bceb891da789d282fdcda6e5504f6
+  sha256: 97241f18fa382b95d74de02cf66dfbaa5e402cad0bd17e910dfbe67d6d6770d1
   last_checked: '2026-07-18'
   notes: OFC
 - id: oar-125-055-0017
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0017
-  sha256: 487544949f8c0d45c5f94cb7f292fd8919b1db568a41c44623393fac910d9a6c
+  sha256: 56407e08c523f15b19d56ad17f9afea120948714d5f79dea0fb4d9532d886fae
   last_checked: '2026-07-18'
   notes: Record
 - id: oar-125-055-0020
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0020
-  sha256: 7122a9328210d7a079a2c3dd6d2a1986151b7d9aadf42b084669a2fb9a34d831
+  sha256: 3e8069ae681b4914f47ef222091568ba80ccd1389657db7f1ed8340838021444
   last_checked: '2026-07-18'
   notes: Determination of
 - id: oar-125-055-0025
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0025
-  sha256: 44142c3f8a174bf52fee23c18dc6cfdd9bf797c58b6433b56d299b8678ff51c8
+  sha256: 8dbcded64456674dc3a9ebd6f6bd567b7bb662232506560a4c068a9e4a5941ef
   last_checked: '2026-07-18'
   notes: Review of
 - id: oar-125-055-0030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0030
-  sha256: 14ed968a89313de5dbb7ed855a32ea6b0547afb4abfe2fdf32eb22665f8bdf63
+  sha256: 1b36498266da26440dbf587dc884020ac16221e552f106902fb61c5773fc6255
   last_checked: '2026-07-18'
   notes: Determination of
 - id: oar-125-055-0035
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0035
-  sha256: 834e9a1a76204e79a76d685b8745c52430d4a1afec25db826e1e6fc081c96cad
+  sha256: 6e259cb440920ba91e1d6ba745a997dc7f6ab4099120f9ca77f6d1c6b38df45d
   last_checked: '2026-07-18'
   notes: Direct
 - id: oar-125-055-0037
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0037
-  sha256: 92fae7fab39ae7085e11941fc2c5794f23f3948319098dd411c4fb631e0087ee
+  sha256: 2069b7120f58cf92c901d9628b2c76a7a1b751a4b4f3638f194923ba068eb5fe
   last_checked: '2026-07-18'
   notes: OFC
 - id: oar-125-055-0040
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0040
-  sha256: 29bdfcd788c4fd2da34cce4f91221f7495442d2bb7bdb9c586c4d75d558274f7
+  sha256: ce4adb5d07e46b901642f2bbf58508f2b9fb9b792cffb8bb355dffcf712116f7
   last_checked: '2026-07-18'
   notes: General
 - id: oar-125-055-0045
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0045
-  sha256: 04728a246c6e07e1662fb1aba9cd9cefd073dd7596b2f3ee6708e94258474c0c
+  sha256: 43f47b76ad51361b0c3609be5c9541b174d5b308ed3ac1f62a25d1cb66dc63f2
   last_checked: '2026-07-18'
   notes: Purchases under ORS 279
 - id: oar-125-055-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0100
-  sha256: 44289893b778c4fee1ab07a77784504771a462058d136963923eeb0ed77bd5d0
+  sha256: cef8560600fb99bd6736c886e8c62822dedba20906c83a11200930739881c287
   last_checked: '2026-07-18'
   notes: Purpose — HIPAA
 - id: oar-125-055-0105
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0105
-  sha256: 71614aa383594b2a5c3575cdfb7fc8fccb0a1cb2b26086d781acce1ab7895191
+  sha256: 468ffe0ae9632dc4cad5ebd957b64262d583d9d49822b672a6344220018a9ea1
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-055-0115
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0115
-  sha256: 61f2276fdc3dfefe9c26be537f834982322b959c4376053807f6ec43f95f78f1
+  sha256: 52115fceb73415d8095f1d46ec1f6b388d68614fdd0c5a0bde87aff3767b0113
   last_checked: '2026-07-18'
   notes: Business
 - id: oar-125-055-0120
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0120
-  sha256: d053dbe5a24c4598e005f7cfc1fe2d8af1949a742a1d29a10ce23f5d867baaa1
+  sha256: 94d7ffb6898ccc3508f5d8362c8d2ab28a582dcccf38d881bc2687e84ef56d33
   last_checked: '2026-07-18'
   notes: Order of
 - id: oar-125-055-0125
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0125
-  sha256: ff88cffb469fc0e83999f935256c63263ebc20157d06e44767fc85b2afeaf678
+  sha256: 96db4c228d17712639431cd67652103079ea103ea03d5720c1a9d2a1e7ce17fc
   last_checked: '2026-07-18'
   notes: Methods of
 - id: oar-125-055-0130
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-055-0130
-  sha256: c5481b4a9a65cd1cffe116b2b08704f16e4d8251d4716e121b47fc5665479c10
+  sha256: 579326b13edb5374a3b4dfa1cf8b3b047375904bf0de9c9d1353578db1ac4229
   last_checked: '2026-07-18'
   notes: Standards in
 - id: oar-125-060-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-060-0000
-  sha256: 2d711dcf22f99af8a65a5ee58c0165730bbaa00ab9a6b02325fc35f9e7d686e5
+  sha256: bfd73a1227288cf8a2037414bbd8761718938e2ea9b215132c1964b14b9f459a
   last_checked: '2026-07-18'
   notes: State
 - id: oar-125-060-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-060-0005
-  sha256: ae488570cea3d704c111c57b2a5c2dc3c8ef21675d04b02406348a75e0bdc4a2
+  sha256: aa1bd3a08bcec72f39a80a9d4a68fb3378498e552a16bb98f9c6e147e03a9b2a
   last_checked: '2026-07-18'
   notes: Management of the
 - id: oar-125-070-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-070-0000
-  sha256: c8538c4371784a79a040ddf858af3d03d93a00b26076275a8c51879a36b0e844
+  sha256: ebccf9f6f32b66cf8ecab3b97b73225001b13bb7b2bf974a5dbcab6d0ff94a2f
   last_checked: '2026-07-18'
   notes: Gifts and
 - id: oar-125-075-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-075-0000
-  sha256: ed4d15b16b5253a339e901d0ff91286dfdcbc337f4d0244e1bb82e70cfde87d6
+  sha256: b038af5a78d97ca1a99f4b510c134c5949e79dcc3661835dfba31c5156556bdd
   last_checked: '2026-07-18'
   notes: Restrictions on the
 - id: oar-125-075-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-075-0005
-  sha256: ed1e032fad5dfd3f25fe937c73c757fcc83e2b2e81a0436e5121c72a7b7e7adc
+  sha256: 5bf59a4684cc53b0de7b70f288de2c1433758cf5e1ec1f7010a0154f76b5a05c
   last_checked: '2026-07-18'
   notes: Use of the
 - id: oar-125-075-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-075-0010
-  sha256: 5b8955c0e81ed1ec47de9c839454c6fb97feaa9e12dd94eb8e11ba66a88363b3
+  sha256: 14b27beda85244cff1e44bd7e3e9f655143fe150159b0dc0023f9ba3958b322f
   last_checked: '2026-07-18'
   notes: Public
 - id: oar-125-075-0015
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-075-0015
-  sha256: bebc2af6a22439bc1cef414d32b24e0e2c01061eafc2588e9b2d1876b1b0eed1
+  sha256: e1391ab8333bdcc70fefdc9f6caf2732a8a5386651b26631359f19da091cac53
   last_checked: '2026-07-18'
   notes: Possession or
 - id: oar-125-080-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-080-0000
-  sha256: 0680500e7b7ac9112e6327ad2a53cf2c54b51fc41fe1a9d81a34ab706ba93ac4
+  sha256: b558f32200b70e0dd87fe8238740fcba30097aaa97e1a39fbbee40a2f5a17aee
   last_checked: '2026-07-18'
   notes: Vending
 - id: oar-125-080-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-080-0005
-  sha256: ac1847c51cf8c846db13d1df2b1ae9b581f02a5177b440cbebde4d07950cc9ca
+  sha256: 44099717e790fb1c859d53b21d1a544a9e9de9f2cd6848407ca5eafb3e5506d4
   last_checked: '2026-07-18'
   notes: Cafeterias in
 - id: oar-125-080-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-080-0010
-  sha256: 8585ecc185de6e564132fb430a91ff4b66e2d0884b5095a27f9dab7a84b725c0
+  sha256: f4f798b20b50f7047b0be15fed25083ca3161a16aac7b2420eabeb23daa1d839
   last_checked: '2026-07-18'
   notes: Sales or
 - id: oar-125-085-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-085-0000
-  sha256: 00ecedc8e0e3188df0d79d8ef0f8b793663ef4cfd1a18f6400589f24d57b618e
+  sha256: 725474119f627b6ddecca82a2b0d73139fe6f5c4121f68c698d5449fccc5991a
   last_checked: '2026-07-18'
   notes: State
 - id: oar-125-090-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0000
-  sha256: bc079086dd5cf183c4265c358e7273088ab1e1430bb31153810fdde202eee7ff
+  sha256: 0d4325bb583512d6e87db7701c2f9012ecf64fcf07f268a9f1f7a7238eae71d8
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-090-0002
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0002
-  sha256: 6314e22f82a72c927e40cafadfbd58ed412016f4f3ce2775e76ac1e752f2881f
+  sha256: e6861f4f87f04d5a1cf7da31f1d29da753be87c9220e69cbc2a4daae90582496
   last_checked: '2026-07-18'
   notes: Purpose
 - id: oar-125-090-0004
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0010
-  sha256: e04912e66b0a4931fb5398f370a6f7ea6748df953ab44cd62f6f642c9be53ce1
+  sha256: 74e2a9ff95c0ee1530afc11c61b6158bcc873f66e5ff5a89e9918ab21aab8e57
   last_checked: '2026-07-18'
   notes: Parking
 - id: oar-125-090-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0005
-  sha256: 837981f05a0504256b50e4a609eb9346ddc46be6bc075d0306331f86f9da0d64
+  sha256: f2a2f14a4df00a3a211eb9c705aef9f63d3d94d6a91a92f88a5913955367c85a
   last_checked: '2026-07-18'
   notes: Rates for
 - id: oar-125-090-0030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0030
-  sha256: 18b93b38696d3fb95ca8f096cf5626aa8a07dd37e2ac5c4a02d847a1aa22844f
+  sha256: 5833a4b35b16fbf9e44835bef977c2b7b3bb7e22bb92988a283ad592454fb79c
   last_checked: '2026-07-18'
   notes: Carpool/Vanpool
 - id: oar-125-090-0035
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0020
-  sha256: 0a941e1141ca9b59a6e534cee91e47e476ea9f67b1541a25a05f4eae1ba59abd
+  sha256: 1965e8a4eece9df7c1e9c2cc017e7a67a75204d5e2df3d1ff43c0069c6d0c78d
   last_checked: '2026-07-18'
   notes: Base
 - id: oar-125-090-0060
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0060
-  sha256: 8f2470be9987b556a1b2a124793f91732f06fd0dc694991a3f53fa7acec06c8d
+  sha256: 1ac2394597af121a42f56e050fa2c0239595feb08fff59994fb8272230d5420f
   last_checked: '2026-07-18'
   notes: Terms
 - id: oar-125-090-0065
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0140
-  sha256: 5af8151382d787a0aad57e2aba6a035226348c3d9e444dee832dcd441e347969
+  sha256: e068ea763e698a85f1b8b10886d75c29b4d6ba8f04990b80f791aeda6369a31c
   last_checked: '2026-07-18'
   notes: Schedule of
 - id: oar-125-090-0070
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0070
-  sha256: 8fd0e63dd24d90338c97a8fb302089dc19f2f6f2ca574683e18d499e5376125c
+  sha256: b4fb5cc346c27d2c0d87605f2ec1e904f92ae833e5bf78b78ab410b223769f53
   last_checked: '2026-07-18'
   notes: Payment for
 - id: oar-125-090-0080
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0080
-  sha256: 72cbfcf1e3675e0ce0111c9612bf8f094a33cded57ee689ad467071b673759dd
+  sha256: 5733cab94975769822a9f8c7895ad271912039df9d035fdfdfa8eab278e2e4b1
   last_checked: '2026-07-18'
   notes: Payment for
 - id: oar-125-090-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0100
-  sha256: 92bd09105b4496ff22daae88b21f1003f420cf1ce9ee57d337b067f01b5400fd
+  sha256: de685feb7857708e2fcd07dda8f387e9ef68a445ca99a2e180c3ad5a049ee9da
   last_checked: '2026-07-18'
   notes: Other
 - id: oar-125-090-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0110
-  sha256: b02f5c1e0b06b034eb6c14ad4e2f807dc28f8a660546989cd8072eeaff61d828
+  sha256: 2ba1fbf2805397478d29717eefe44331222a2b68fb53ec3122c9bfce5e6360ce
   last_checked: '2026-07-18'
   notes: Priority of
 - id: oar-125-090-0120
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0120
-  sha256: 02c5d8080fd73153949a9fa50ad83790f9f770c3d02a68a995f50ac6b2d44706
+  sha256: c14ef4cd2dbd6530f76aa70c31b497979869c8b46b74b615735a6b9fd6ee5b3f
   last_checked: '2026-07-18'
   notes: General
 - id: oar-125-090-0138
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0160
-  sha256: 32942ea938e2955fe95a3e5dbc5ca77ad9dd9811c23fad5883eebaced2a27d74
+  sha256: 2ec4b26bfb8743d118554fcdb11957560588acf44b88160704aed97210ec9fb0
   last_checked: '2026-07-18'
   notes: Alternative
 - id: oar-125-090-0145
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0090
-  sha256: 2f74466c82f998505309eaf2a41b475a4d68448066fa088816e6dde67150989f
+  sha256: c254cd1680dbc0ad69fb1e06458d72fd198ab29f14c3b46d7fceb377dec7617c
   last_checked: '2026-07-18'
   notes: Permit
 - id: oar-125-090-0150
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0150
-  sha256: d4d478620fefa709228e89918989d35ebdcc0e3e8c7c52d80e8005302106e4f4
+  sha256: ecc0ceb49449b38ac24234b053916ab420bb82b6ff0a7671611272cc25a59260
   last_checked: '2026-07-18'
   notes: Authority to
 - id: oar-125-090-0155
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0130
-  sha256: b4d2ebb51ce5fded5ddbd663c760f19fac221675d02cd25944c61808c0015aa1
+  sha256: d4bad41b3b518d4fa6e516fe028406b6c053f4abdda61289f2aa55d15aff493d
   last_checked: '2026-07-18'
   notes: Enforcement
 - id: oar-125-090-0175
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-090-0135
-  sha256: fce1b99a22da28c0ada60fb3b9d823e9f7b012d59608c11a663c1f5942e379c3
+  sha256: 4a5fc3d05ec2750b27f22e8b4202e9a40b94e30818e2753954ccab243ed03d28
   last_checked: '2026-07-18'
   notes: Rescission,
 - id: oar-125-110-0001
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-110-0001
-  sha256: ab94283c892e152809d0f458209cdab4e15c5bfd4b6786695e8cef7ac3de8247
+  sha256: fbff0b7224e0134c97f2a0abcfee7ab165edd1b6f049356af16121b7ffb29abc
   last_checked: '2026-07-18'
   notes: Land
 - id: oar-125-120-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0000
-  sha256: a4e81b4fea4e5cb6ff2f65f1b58f0d4a560cc1634700d48f2bb15e55dc8d4452
+  sha256: c78a921b63117672d9199b92bf95b2e6dea2fa85192d760e0f2f88a3997df843
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-120-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0010
-  sha256: 028fce5d18f88b51783050a090044c56faa844c2077eec185fb09c549a9eda84
+  sha256: b55cf1971b1a02e21d14e4d2dde4d8cc8e551e0a4082e582b1311ab5a8c6683b
   last_checked: '2026-07-18'
   notes: Exemptions
 - id: oar-125-120-0020
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0020
-  sha256: 37b5d2191a728fe6f5ebb9bacc73cc8c0a2dd156f0661297a8dc1d42fe6782b8
+  sha256: b10faa76084b9e92249451e1395c3463b65dfecf5f649ad46c6aa4b14546633f
   last_checked: '2026-07-18'
   notes: Assignment of
 - id: oar-125-120-0030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0030
-  sha256: c43415bafd81c51bce7eb5d56d1374d7178aeb532f31c4ba543cf6c1cb9200ad
+  sha256: c271053e748e167d9e7ae8bc62cfb435a48b80705d3b691d985e9ca1cb4b4cc8
   last_checked: '2026-07-18'
   notes: Allotment of
 - id: oar-125-120-0040
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0040
-  sha256: 1a2342c44a8c2fcd7c35887ac68bd6b5d9e98077e7542f13a6e5cff85761a082
+  sha256: f21a898dd3540cad97722a74029f65edbf63f6db720be3ef241c53d1d1b86f2f
   last_checked: '2026-07-18'
   notes: Measuring
 - id: oar-125-120-0050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0050
-  sha256: b21f73affbe2e9d600dde1645b6757bf0379898a268e0902a81711180d3656a7
+  sha256: 3b51ae3a3a053e634edf3f0217f1fe33f215d691aa115e1a68e841ff14e3df5a
   last_checked: '2026-07-18'
   notes: Space
 - id: oar-125-120-0060
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0060
-  sha256: e30f2e63879dba36956541579505400a47d7e49a1273f4c7d02cb8eb1933365e
+  sha256: b1151da9395a2203560d452e1d8143eb2f894da2cf5d07d21987edc3cf4d9af8
   last_checked: '2026-07-18'
   notes: Complying
 - id: oar-125-120-0070
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0070
-  sha256: 71f71cadc72efcf551fd0f0ac39dcc5a07f7a631dc42b486f607c7685213731b
+  sha256: 3b88f9a4293db84a9b9e29b26f680029c4a5c27bf73603cd3f0557bd1a075669
   last_checked: '2026-07-18'
   notes: Leasing
 - id: oar-125-120-0075
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0075
-  sha256: e4003f15dd4050c05f59c6383eb769e625ab2e8ee0f0e91da59956b2826cd157
+  sha256: 48a48040be40fbd9728b60c9c7b6a53ecd873dc32c5ca3cc24f18caf41f67a6f
   last_checked: '2026-07-18'
   notes: Technical
 - id: oar-125-120-0080
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0080
-  sha256: 99a9e107f6d822f4ea263b0eb606917ed3e3bbbbba0315e1729b43a4a6fab586
+  sha256: 4ac2e5b77b244d1872dbb7b37ad35104604436fab8980bfe67343bc77cd0bd80
   last_checked: '2026-07-18'
   notes: Subleases by an
 - id: oar-125-120-0090
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0090
-  sha256: 23ad01b6946f2cf6640566196a336d3976bbc71097073fca8411ab6e8098342b
+  sha256: b2ba681616a6955b3846b3806c4f4ae1447ab8b7b86d820ed4e27463c40350c2
   last_checked: '2026-07-18'
   notes: Leasing or
 - id: oar-125-120-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0100
-  sha256: 48822aba94635f6405ef1d35242137bc30a7223da58906387a968919fafae31d
+  sha256: e5e309953749fb2f2e0f26071e17397e7b5d590948ab7d29f00a4b5b81a11d75
   last_checked: '2026-07-18'
   notes: Lease
 - id: oar-125-120-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0110
-  sha256: 9572f9ce6a2203f4efb4f47125eedd9b986f3abd0f1a4e1efb3b759831fdddc1
+  sha256: c847755d7c48df6dce34c88886f3f32bb9a735a5b72126a49d3d9b194cd71979
   last_checked: '2026-07-18'
   notes: Agency
 - id: oar-125-120-0120
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0120
-  sha256: 6913824fc425604577ec4b833ec597d9464428c4132c12d9aea13a2e6bcb3197
+  sha256: ffec5c0eb9b8a6db44520433f852db57cba9f5bc9f20b4f4ecd75fa0d4e7cd16
   last_checked: '2026-07-18'
   notes: Locating
 - id: oar-125-120-0130
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0130
-  sha256: 3e9402fc8747a61824d8412e50558341745c874c6b36632951452f198d280dfa
+  sha256: faff7c828251ccf712e2f0a08fa7ac1cfb4fcea69eded7788e85f6834425b3b7
   last_checked: '2026-07-18'
   notes: Determining a
 - id: oar-125-120-0140
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0140
-  sha256: 067f1808142efbe0392f5b0898371faef4bc0f4b24938a4f6867094db1f1c9df
+  sha256: e4bc3d2d30e18b63714fc9821e1537b63e26d6386482a8045202c9ddf6649ac4
   last_checked: '2026-07-18'
   notes: Leasing
 - id: oar-125-120-0150
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0150
-  sha256: ccb3b1fadc14e31e3e080a63e2a9dccc403d7387d9ccbb20cbad6bd819d96e69
+  sha256: e624cd768634be0851de9a2a23a19a77f6d8786c3daa05ff5deba723ca28c4a3
   last_checked: '2026-07-18'
   notes: Giving
 - id: oar-125-120-0170
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-120-0170
-  sha256: 75bad3763c7c488f74281547cea3ca58804a8423a0ecde4a63b2bed604617376
+  sha256: 0ec5bff096f68f599ec1f6ef1a65ba26be982209d9d30c75bfbb5c74399b2eb0
   last_checked: '2026-07-18'
   notes: Tenant
 - id: oar-125-125-0048
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0048
-  sha256: 84d22c376affb730c9ac9483dbabb2bc0aea08341f8fda2e4cfcbc3ed0e6909d
+  sha256: 46d944e29dcc8b782f5518cd93c2955aed5856216dd405af9d04581df6220efb
   last_checked: '2026-07-18'
   notes: Notice of
 - id: oar-125-125-0049
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0049
-  sha256: 0b29a51f20d567144eb24ce409b72c91c0bc9999cfd86b734f0a1704dd0944a3
+  sha256: 1219df6c8a068ea8991eabc74e56a7361caca46eb71434cdd0f109a7e7126609
   last_checked: '2026-07-18'
   notes: Model
 - id: oar-125-125-0050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0050
-  sha256: d961069a528faaa24d8c34d077d232e190f1077fb4331a9c6524540756c4a69d
+  sha256: f06e656e7239fce18fb5e684b6d3a710e9bcfa080c0578cb9b99d9df570401be
   last_checked: '2026-07-18'
   notes: Purpose,
 - id: oar-125-125-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0100
-  sha256: 2a431b11c4971d6f19cd787b81c66255010e3afdf1d7884361d424cb1e8704b1
+  sha256: 8f6c0a4ec3776fec889953b6e017e2464e0d6487da5a3ee8d7448087892b0102
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-125-0150
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0150
-  sha256: 932e69d9e2e08e1b5fce298c0f81586749e0fee1310f78f16563ee0092d2a846
+  sha256: e2b4466d0a08cd1539a4c5313f21f4dbac344779f696d2507e20dce67b867b65
   last_checked: '2026-07-18'
   notes: Statewide
 - id: oar-125-125-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0200
-  sha256: 48c0ea7b60d8cbf57817be539c6922a27d8a2b3cd338c2977d04153f2286b858
+  sha256: 338093150adeba569eff03f015411c262c83a78c1f0b760c5c7457257f0b246a
   last_checked: '2026-07-18'
   notes: Capital
 - id: oar-125-125-0250
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0250
-  sha256: 64100dd7ce6238a6e627dcc668bea17739a77eb75bc48fadddce3d785a6aef05
+  sha256: 0f7b5f6bb3702cd5ee72f088d76ecd2b3691a739823ce573ec0e5cdb1c5e6181
   last_checked: '2026-07-18'
   notes: Procedure for
 - id: oar-125-125-0300
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0300
-  sha256: 626360b4459c2b89525521053fbc923de728f95430d0b93c07418d259a22bd4f
+  sha256: beeb2a1d7b0d5eb4ac892d50add0ce89505f185750b8a59d8eafbce83bbc54a0
   last_checked: '2026-07-18'
   notes: Procedure for
 - id: oar-125-125-0350
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0350
-  sha256: b21c50d185a6da960452fc414ab25a45e45b18bd976b544125efd88972a5e62a
+  sha256: b6de25a5c0490a8ed1749409daeead430d6177e6cef7fa05c675e784c852626c
   last_checked: '2026-07-18'
   notes: Capitol
 - id: oar-125-125-0400
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0400
-  sha256: e1d48e0aa85b4dc3356ce8c7e8cf74b2a7db429114a5cddc22fd99847ab7e9bd
+  sha256: 3c9c7193f8c87d3408cd22a8688383619146f954af4b57ec5735f1e7c5f1ac72
   last_checked: '2026-07-18'
   notes: Area
 - id: oar-125-125-0450
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0450
-  sha256: de5b289be25fd794816c2b77ba31323e52e6e479f496d5b58b6c0759fbcb8bba
+  sha256: 2792b1f6f1ba876b5645dad89ee2b4a7fbffb80e2d2ec6b8ed2185ab3eba0559
   last_checked: '2026-07-18'
   notes: Capitol
 - id: oar-125-125-0500
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0500
-  sha256: 8dc469f6a9cd342310ffd6f716798866d08dc4d0b3a353abbb6cdd21c95462e2
+  sha256: 231448a72d9324586dffcf5938d73ef3756b739e047b5a93ec51e763acc5fd53
   last_checked: '2026-07-18'
   notes: Area
 - id: oar-125-125-0520
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0520
-  sha256: add3fb693dc0ef1dfe04cd5483d1698fcdad6c2f8b014b0e6e77d5d4a3291802
+  sha256: 7cd250f80cab1237ad2d92cefc3bf344b9f9a51fbbc8dcb322cdca84e3e5b28d
   last_checked: '2026-07-18'
   notes: Definitions for
 - id: oar-125-125-0522
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0522
-  sha256: fa06cc7e7d5be2ef8773df6a96135b8dd547b4713116490c3370e65bb7df00c2
+  sha256: a493257222ad9aaeb0588c89cec2baba548415b2c732cf12cbd5d0f830ed2745
   last_checked: '2026-07-18'
   notes: Development
 - id: oar-125-125-0524
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0524
-  sha256: 59b5b7cfd62a1453185bac9d40a7a80349828612134ba175053d94a954ab13f3
+  sha256: fe14a288c30aaa9bcc969108a3368f290b314969824a3051419f6f500c567bcc
   last_checked: '2026-07-18'
   notes: Criteria and
 - id: oar-125-125-0525
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0525
-  sha256: ab4adb965def27def8e9bf82c8dc719fe4458d0496dd3c2039a2265f649c1dc5
+  sha256: 28df27705ccc87b713033a2f3b41ce28fdbe46b4ba19f87ba67861d24a2cb23e
   last_checked: '2026-07-18'
   notes: Definitions for
 - id: oar-125-125-0526
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0526
-  sha256: 2917464b5463dbe71ad0979834c68aa80a827475172a0b91fbe6b0dcf637ee67
+  sha256: 453289c4d7a2eb311710b178663c6939b8b7095ee4e3f3cd43e43466bdea70a6
   last_checked: '2026-07-18'
   notes: Master
 - id: oar-125-125-0527
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0527
-  sha256: be7afabe109c508d4421fbace7a758535d067adc8607bb996c76f0144624cafa
+  sha256: 17757b87f9bec7f900e4449e0b81684d308e0b0775b9f6f9084c9aaf45077923
   last_checked: '2026-07-18'
   notes: Standards for
 - id: oar-125-125-0528
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0528
-  sha256: 04f788a38f511cd15f6f1ddfeca8728cb18575ec98da4bcbbb8da0acf99faf20
+  sha256: 796784e4c420f3469a2536b4f59798203dde875cb608bfb924b823e302c28e45
   last_checked: '2026-07-18'
   notes: Criteria and
 - id: oar-125-125-0530
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0530
-  sha256: d5a7cab0f21a78bcbab37ef9ba05e92a53699f07d06e9b3028619e175cd5b8af
+  sha256: 40b98ab308d08b95684fac6ea83651c1f606ee2a7e1f9abc1f367148a668701f
   last_checked: '2026-07-18'
   notes: Airport
 - id: oar-125-125-0531
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0531
-  sha256: e208e313ef254af782df4100a7386056e0d1bf087d95fdcd38fa1a4f1daf63e8
+  sha256: 3bb41821e71d3ded2c48fda05849ea75eaca3c451a45b5c97a8137a81b61d69c
   last_checked: '2026-07-18'
   notes: Standards for
 - id: oar-125-125-0532
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0532
-  sha256: 2b741108668e13f77a413e252780a6a371fc7c574f13d68360104e2378fdd751
+  sha256: 5ddcc5b522b6d1a1d305872d4c4ef888b0dd06087588162ce63e03d8a3f5a678
   last_checked: '2026-07-18'
   notes: Criteria and
 - id: oar-125-125-0535
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0535
-  sha256: 40a045a369b1a4a069b1201fbaa92491a2ecd13e4cd0832ccbf20eecc9062fe7
+  sha256: 3d4b13135b888be0803da3ccd74ed878c6d1a820592951bfdfc2bdb0d21ee8f0
   last_checked: '2026-07-18'
   notes: Southeast
 - id: oar-125-125-0540
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0540
-  sha256: 34b9189dacf334dbac3e165bbbd5f081a928e9cabea2647a1e2ab8c75d9118ca
+  sha256: 8df67234e024c8e459e73c86c4db6df09b02b9b70de987eab217b1a550926d2d
   last_checked: '2026-07-18'
   notes: Hillcrest
 - id: oar-125-125-0545
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0545
-  sha256: f3fc1d750d2e8692b4148e344c76fb3cc957fca47c8628eb821e8ec775a582ff
+  sha256: ffc761bd6983c5354b21f2ed6c9e0b87ccdb60c1db49081fcf65469c344c91b3
   last_checked: '2026-07-18'
   notes: MacLaren
 - id: oar-125-125-0546
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0546
-  sha256: 28e26f47a941f02e2915bda5cc3783fe87b9a23532b4e7c76653e61571fbda77
+  sha256: b0f593c09bda5855c578b5ccbb61523537bee01dbabf0feeb5a864b8ad589f6e
   last_checked: '2026-07-18'
   notes: Standards for
 - id: oar-125-125-0547
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0547
-  sha256: 4c3de1b2313db54a49bdf3e26938bd1310f6b3c08857c4c0a9690faa8b94fbab
+  sha256: 1d80148bd66ed9af7953e4e44fa3d59955e1a13d82e6231ed6402fdf38c504ab
   last_checked: '2026-07-18'
   notes: Criteria and
 - id: oar-125-125-0550
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0550
-  sha256: a5c02a1e2c5bd6e94191266a7977a403b55a3e6078602efc1905a18a69ac1801
+  sha256: 6165789448d5a3148d349c66569bc6f6fccbc199bf8fc6083f77a6415245b093
   last_checked: '2026-07-18'
   notes: Oregon
 - id: oar-125-125-0551
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0551
-  sha256: 2b83c5ff4be708165389ae27293db73295df637d67ff51c7a6621c98a03d3744
+  sha256: 5bcebea0a13aff7db1806c7ccad3400d726f8ed7b34971eadd3652d7f2043019
   last_checked: '2026-07-18'
   notes: Standards for
 - id: oar-125-125-0552
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0552
-  sha256: a560267467a58ff043d358577909ccfc1dce7e144d39c2729823feed392029b7
+  sha256: 305a546522a20a3fb0254932ffbb1972438cf65f7eae3515639d39ce5fff43b7
   last_checked: '2026-07-18'
   notes: Criteria and
 - id: oar-125-125-0555
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0555
-  sha256: d7ad668105ae6e3ab8dc67df73bc9f8e098826999db2e5f9d14f35284e0c75a1
+  sha256: bb889b306f608a0e8f4154ae73d0117823ec8d9bb6d2b3998570bbc7a1f99659
   last_checked: '2026-07-18'
   notes: Oregon
 - id: oar-125-125-0560
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0560
-  sha256: 8c3b448cbe64922a3b481326daef5f3b697150734f0312d097d84cdbf1e8a60a
+  sha256: d55f554fff6769c63ad820ab40f5b51431d4955d25f6625e5d6b93bfc8a43918
   last_checked: '2026-07-18'
   notes: Oregon
 - id: oar-125-125-0561
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0561
-  sha256: 70936e1136b1416dbb24f8ddc3c61a6abab3ee780e1409bddd3bf0f73f7e6f80
+  sha256: 0910b233ea971a91e1b58366f5642f84a49bdc6d011e9150013e4b8c8cb6f93d
   last_checked: '2026-07-18'
   notes: Standards for
 - id: oar-125-125-0562
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0562
-  sha256: 788026079707a75540a657380996197060bc65fd259aba9e953298f8d6e33ccd
+  sha256: a6e75f3751fe8df13bbb492acdc714002b239606ae32e70d9c0ecf0891ba9977
   last_checked: '2026-07-18'
   notes: Criteria and
 - id: oar-125-125-0565
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0565
-  sha256: 6569d81a6e9f02f609223a5826a16be85f1c2925f939bf8d68d22a2a8f4449be
+  sha256: 4ac84f10c7e5ac7a51f0909fbafd692d4b2070afded20bfaf6a0e9a8b16eb9e3
   last_checked: '2026-07-18'
   notes: Oregon
 - id: oar-125-125-0566
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0566
-  sha256: 2ca2e899efb6d20581893bf7ba9f68b6b1f0c89e122c4d84bcd15b46d397d80e
+  sha256: 92b06164a0770530466b37e7080442663d02371a9001b12b744d5c98f0c1dd95
   last_checked: '2026-07-18'
   notes: Standards for
 - id: oar-125-125-0567
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0567
-  sha256: 565a9617b2093b24a4fa235d62a0f79d0a4b4d17eb92f76fb8ee6873581451c6
+  sha256: a7b61ce1be12979407dd6e974369c54c91e49e91c35e332b1004cb9ceac6e170
   last_checked: '2026-07-18'
   notes: Criteria and
 - id: oar-125-125-0600
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0600
-  sha256: 14fd120cb34ac03994925a30ea261091cffa08574b5354ed8054291d7122266e
+  sha256: 59fae5a24408181eda0cf231363245ca152e16e090cee68ec42a21a9d4a592e9
   last_checked: '2026-07-18'
   notes: Copies of
 - id: oar-125-125-0700
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-125-0700
-  sha256: 2bd848053fc560ec9ff2cecafe9b00998c2408319736069a8af6b78f2ca7e822
+  sha256: 5c7edf88d9b10a0f7fe810f71541223f86bd7a83aae31cec20b50f7fb4507c2b
   last_checked: '2026-07-18'
   notes: Adoption of the DAS-Salem
 - id: oar-125-140-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-140-0010
-  sha256: 050d9638878921e8b9f3839f8b4b039bb2c18d1251dfe4fa21d5d9b1ed6194ec
+  sha256: a0e0a0e82106ec6342f70aadceab79b704cc8cfdd4d83ed46a220f32de4615a0
   last_checked: '2026-07-18'
   notes: Confidentiality and
 - id: oar-125-140-0020
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-140-0020
-  sha256: ffd5afc01f4fc9e8958c32ef7cd9d0ad2214cc263feb7493ce83b61a4018e8eb
+  sha256: f2f49d58a903a20b721e8ac11b87ade5c0267c29ab18fdaab45d68fb4af0db30
   last_checked: '2026-07-18'
   notes: Confidentiality and
 - id: oar-125-150-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-150-0000
-  sha256: e41771407ee687970ae46501086b1bfb677a1f9baad65551e6f041d3d482fe7b
+  sha256: e0f766b737a2209a1257bcd06ecc17836c148d74ca578b808152662d18c2c689
   last_checked: '2026-07-18'
   notes: Claims
 - id: oar-125-150-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-150-0005
-  sha256: f01cc3f406ff770b409d11a7bc0d5622678fd3fa641044bb2b9f61ae24444b99
+  sha256: 15278bd3fde6ea796b29796fecc68375172f2f8cef99568335ce24a628d16228
   last_checked: '2026-07-18'
   notes: Selection of
 - id: oar-125-150-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-150-0010
-  sha256: fc0102885f157b29bc4f45f7e04360a3fc49ba8e781b8f1b7c8bf60d10815ad8
+  sha256: 4b4eeead3c6e44801813ff43d129efaa253a948ba7e620e4e668580c4b9bc223
   last_checked: '2026-07-18'
   notes: Purchase of
 - id: oar-125-155-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0000
-  sha256: 521670a90aec0e9570cbe0a39f97c25e1fd9644e5b7d75fc8b12c7dc0241832a
+  sha256: d7135fd094569aa444b362bb6dac35b0f1ff3aaa6b6dad6876589870262b45cf
   last_checked: '2026-07-18'
   notes: Purpose
 - id: oar-125-155-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0010
-  sha256: c90e235866276b983a5750663571bd9952d7c19dad5c64d2067d84204580c753
+  sha256: 37a46f6cae10538ef7085202980271c79837cc6a446404677b09510a06b89a5a
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-155-0020
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0020
-  sha256: c816c482620defdff03403829eedee7c48b3c60cd016b604c7e9d18023859e3f
+  sha256: afab6a531e7266ae4f3b2c2e087d42ad3ad9c3489aeeb55921761b31cddba17f
   last_checked: '2026-07-18'
   notes: Policy
 - id: oar-125-155-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0100
-  sha256: 5764b54d012a3cd9975afbf5e4a7f4e2a9a890a38c8930421ea9e3f87ebad6eb
+  sha256: 47340e398ba5f559eccb357fc5a7a8b469000357ddf634f574bb40b1edb3b916
   last_checked: '2026-07-18'
   notes: Agency
 - id: oar-125-155-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0200
-  sha256: fac5b964ab7b7557bc0aa33bd703f5f927fb516522042889a7fcd4f915eeb972
+  sha256: 38a3c0a517f37c8621ec6f1e35bae2d8d2ef09b3d3fbe0bbd79f5d0c24d27c1f
   last_checked: '2026-07-18'
   notes: Authorized
 - id: oar-125-155-0300
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0300
-  sha256: 322ab9195222e2cb4e0f390911502ec93c5a1b3a4dd018082c1b0e8aa0a9607b
+  sha256: fab8e494a1985292e22d3ce46d643a2fe7c5e13dbb7e725edea7585e4d4fab3d
   last_checked: '2026-07-18'
   notes: Verifying
 - id: oar-125-155-0400
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0400
-  sha256: 604cf304e069949ff18965ee8e32d9c61d6eae70e6ae6142768a8bd8806eff56
+  sha256: d30565537e78422f92c7d493301406ee5033459501f1e50b5fd0bdb8029ed732
   last_checked: '2026-07-18'
   notes: Other
 - id: oar-125-155-0420
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0420
-  sha256: 6f6bab97137c8fad7bf0807193fb5d81d16e12f3f442bef4918f3dd4656d6b28
+  sha256: 69f4b12873c16e1beb1057157703434d9854cfd0acb3f46728b962f704896943
   last_checked: '2026-07-18'
   notes: Passengers
 - id: oar-125-155-0500
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0500
-  sha256: d68775ce4ccd656a8553c01bf23129b7c5f6582695da09d5c764f41d72686ef1
+  sha256: 428e088a23340866f141c9e04f2b09b9888271caf6fb9729e916928fcddead5d
   last_checked: '2026-07-18'
   notes: Use of
 - id: oar-125-155-0510
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0510
-  sha256: 85ead6ee33593abf70f5fda110050ab73bc9488336dd04326160b7bfb8c3b409
+  sha256: 952881a0d2935ed7b691cd58fd2e52c2abf43a9f87d0a97bb4f01d2575b7b2de
   last_checked: '2026-07-18'
   notes: Other
 - id: oar-125-155-0600
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0600
-  sha256: 6c0c8bd035ae276e0ce32ca5cb791fa3fff1cbf6abeefa8271c813159fb2c9ba
+  sha256: afbc4f666125e06878603a6856e231bc67faa2e259f0b3c0160acc6f432a2d19
   last_checked: '2026-07-18'
   notes: Insurance
 - id: oar-125-155-0700
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0700
-  sha256: 905b5642723a280117028f0b7eb6878fae396616f4947d645a90c2ef98aa8191
+  sha256: cdb5f61f366a6861927f0b2c9598b7078087640f153fc90f50e3003174444683
   last_checked: '2026-07-18'
   notes: Collision and
 - id: oar-125-155-0800
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0800
-  sha256: 8b2f91d2d59114522617f8d17fb0ab0fac61a2de8bfbb53b9395ed1fb8538faf
+  sha256: e68826df78c2fc426bb8b52d53377ec17bb29a1fbec8667582a1805521646418
   last_checked: '2026-07-18'
   notes: Variance
 - id: oar-125-155-0900
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-155-0900
-  sha256: 5f423018b8506d189e6dbd40a4993843e008add8ef2e557ddf7a28c909989961
+  sha256: ea936c4d76a08e914c451d2c8a648a74052826dac5f070b2f7d066a36cbcbecd
   last_checked: '2026-07-18'
   notes: Management of
 - id: oar-125-156-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-156-0000
-  sha256: ca0cb2280fb562a0cc932dba59cc3a35ec7f02962d4746d43effba0327b96555
+  sha256: 58b323b2a9fb5dd1da830cb6c519d20709a7f77fec8fb0210cad5546f5bcb576
   last_checked: '2026-07-18'
   notes: Sale of
 - id: oar-125-160-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0000
-  sha256: 86573f3501484a50e56a1dc7c78730a1bd1fdfb60a37ac0d09941a83bd6000f9
+  sha256: 4294486e95092e3cb9043c963943a2c49958e180fa711773d8644af13e901809
   last_checked: '2026-07-18'
   notes: Purpose,
 - id: oar-125-160-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0010
-  sha256: 9a89903d48b9613c9a7bfc35daf224d4eeaa5cd9a6142961a2a5eef252c68665
+  sha256: 98fba293cd9c91f5baa7194317b679d243dc48ad3fc080bbad0cb3c43b3e33c3
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-160-0020
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0020
-  sha256: 0ea6a63dd82fed363cc746c8587d80d66721023bfd504e1183033e3f252036a7
+  sha256: 26acf482fe89281fc2fa14178fba2e928c7113f8d5ec8bc2b17e0249be072e9d
   last_checked: '2026-07-18'
   notes: Calculation of
 - id: oar-125-160-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0100
-  sha256: b9c9d96bf8dc6bc11ecfad2fdda36812b833da0b628df99595f020016ec6aa11
+  sha256: 1431957c0857f2537a9a822ea75fd1ec07af4d53f6aaa89514e1159ee51fcd32
   last_checked: '2026-07-18'
   notes: Medical
 - id: oar-125-160-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0110
-  sha256: 41e8b75b505ca0a63f55b6735169c97db9af0966d769c489a1152952d6ce201e
+  sha256: fdce9183a22960b3f56a8fe3932de74114468009f0bd5cd1b1226b1c74b9e86c
   last_checked: '2026-07-18'
   notes: Benefit
 - id: oar-125-160-0120
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0120
-  sha256: bca14360a46e1dd7d24069ecc8086aba398803a82ff0127bc73ab623e24c6c45
+  sha256: cd640c5c3cbef4ffc7ad679d42148e82ecbf7904ff5f6b4f4ced37ee6b26c6bd
   last_checked: '2026-07-18'
   notes: Death
 - id: oar-125-160-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0200
-  sha256: 97ae89ae6d899f7cdc86d4979d91cc66087540026731b2b078dfaebb46eb17a7
+  sha256: b956e00ba7437c42720cbbae8fdee8505a7e5ca0b81d800590beaf8efdc1bf99
   last_checked: '2026-07-18'
   notes: Claiming
 - id: oar-125-160-0300
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0300
-  sha256: 44c2af02f4ee2e350810871b9661978ecade2fbc0acc25e313f7db4144bb174c
+  sha256: fdb695e33d17ff0e6315554894a99884fb82125e82a02b8c4554ab55e447d085
   last_checked: '2026-07-18'
   notes: Evaluating
 - id: oar-125-160-0310
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0310
-  sha256: f4e98ef931d71fa03ad8a52ee764c3556dff3a00914ddfc59ee894b931171b72
+  sha256: 3ad5764bdd8703e164799ecf4aa9f32216d2b5c0da7390a9c23f3cfe54105ddb
   last_checked: '2026-07-18'
   notes: Evidence and
 - id: oar-125-160-0400
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0400
-  sha256: 238bdd5d60d5c49d62ddf2762dc08ea98c291b2c383f4395e059feaa493d7e6f
+  sha256: 32b61003f6183d356ddb47e361414629fc1c61d78b1a067111f893197791021b
   last_checked: '2026-07-18'
   notes: Claims
 - id: oar-125-160-0500
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0500
-  sha256: 447aa0f0870acde082a398691d893a9500a25fdb93045c57f9466e1c6b5edbe1
+  sha256: eee8e30f13f03448fe66ef612d37b698d245346bb226ac61c65c6dbd3b2e5549
   last_checked: '2026-07-18'
   notes: Delivery of
 - id: oar-125-160-0600
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0600
-  sha256: 6a32b7effeac4cc4576596a060ac63d8ea7b329f82d62b0eeec937481d86e89a
+  sha256: be09de78528523752c81b5a0bd1b1b8c7860a49e97a7c37a7eb4c6c502cb393f
   last_checked: '2026-07-18'
   notes: Delivery of
 - id: oar-125-160-0700
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0700
-  sha256: a586ac90bca3565c6dba7aa96d7558ddcfb70dc9bf8a213026b07e60bcf5e385
+  sha256: c8b812c703315160c56f7e3ff96b74756b9986d7f4e6f26b68fb50a709bce6db
   last_checked: '2026-07-18'
   notes: Suspension and
 - id: oar-125-160-0710
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0710
-  sha256: ad792baaaa70190e3efc4db64a75a90594ec0fedbfb04c9555aaa8d76586a477
+  sha256: b1b7d965f4e6b01a84b350dc0d7b58a0cdce27a18138679e90ac584f7ef773a5
   last_checked: '2026-07-18'
   notes: Termination of
 - id: oar-125-160-0720
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0720
-  sha256: 705e763e08935c33d74bff4401b78b1db443e1c8113eedfcf4ca194c1053b119
+  sha256: c4cd361ab78a517b0a856fa5762d1150bbea1c81915979ec0e4bfe37287f0b96
   last_checked: '2026-07-18'
   notes: Abandonment of
 - id: oar-125-160-0800
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0800
-  sha256: 9205ecc3859cbb8f6644e9d9ad20b2255a557692197dcd5560c90794718f993e
+  sha256: 3fc6f9c5bb934a70e3718ca99d2b6744822854c03f94267acb236df86d6366eb
   last_checked: '2026-07-18'
   notes: Subrogation
 - id: oar-125-160-0900
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0900
-  sha256: d262c6b76950fb5832cd191abeb433fb9ee18757ddfc91b44e51613d73e2db42
+  sha256: 1179649a5f479473016087d68ab899af1c07b14967c8c562e467db36d1a02b25
   last_checked: '2026-07-18'
   notes: Appealing
 - id: oar-125-160-0910
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0910
-  sha256: 7c3bfe35029f9a29d26761bfc20ea0646070c10573035f3bd5eaa12253d8e036
+  sha256: a03410d902f2922b826776f6b86c46d35ce36f7285ba11122b4767443bcf9b46
   last_checked: '2026-07-18'
   notes: Hearings
 - id: oar-125-160-0920
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0920
-  sha256: 8e42ae810c7847db2f3e368411d306ae46378eb43158d27281b91512cf886499
+  sha256: 35e759052f344e5e2718cee648c66c68678deced918064745eb8b33b9f480aa3
   last_checked: '2026-07-18'
   notes: Conduct of
 - id: oar-125-160-0930
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0930
-  sha256: df8f098f603b5a840d14c0b4ddf51341cce160ee2b3fc5e963b675d537af6bf1
+  sha256: 00becb60774d239574abb612db6f55907f51e7e629bd9e3ebc19b1a609471cd9
   last_checked: '2026-07-18'
   notes: Testimony of
 - id: oar-125-160-0940
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0940
-  sha256: 089b083af91314447c9dbf3d42417c6b23f5825ccaac122f6fd03fae8931f150
+  sha256: 5e20ca069f82307bffd85ada9ef22c13aa43294161e2d1e97830dcc976f19d97
   last_checked: '2026-07-18'
   notes: Documents and
 - id: oar-125-160-0950
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-160-0950
-  sha256: 4ff71cfb0ff65b15cba2fc4de26ac6aafd121f812547262a7aabc8b4f0563286
+  sha256: 19db864554684c0b75160e91c1b12c06d848418a4236bcc33c71c3809e4ac47f
   last_checked: '2026-07-18'
   notes: Hearings
 - id: oar-125-170-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-170-0010
-  sha256: e6fb10e41925fb3e5a6b8719a1f9187c1ddf67fc98b450434d7707f6be532317
+  sha256: 25cd1d9065e56ce5fedff709c0dfb4af0ba45a7249a54a90d9e85557c63a8ccd
   last_checked: '2026-07-18'
   notes: Process for
 - id: oar-125-180-1010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-180-1010
-  sha256: add03dbf1f5136ed4771966320186b06d48b4e2dccd59d1da63bc86c9a2b1ad7
+  sha256: 3a40934017d7618632255539e551bc19ac6da3dd17b4d23cf12e51b3efe68b5d
   last_checked: '2026-07-18'
   notes: Purpose
 - id: oar-125-180-1020
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-180-1020
-  sha256: 9137833718d3faa2b3878bcb11f3467868a34604cf3b2ba8c6a9cc36f3ad3f19
+  sha256: 7c34e7cdaa4b149fc50fc4a59e556357495885e59cb676add4b93620f01c19d4
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-180-1030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-180-1030
-  sha256: 3a599ec52a39ee8923f06d50c2cbcf42b49ebe9afb3f19846faee02e4ccc4abb
+  sha256: ceaeebb8ef505e500f0e7ae79f26b0080150b9a8e3747385edd097adcca090f3
   last_checked: '2026-07-18'
   notes: Employment
 - id: oar-125-180-1040
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-180-1040
-  sha256: 08461d1049d80841be0d80c9acf61b3e3fdb86d5c3b6abeab4812a95ef7ae2db
+  sha256: 6de0e7859a3d109a96036392b41e80d562b030ded80fdc8efcafd83df976a7e7
   last_checked: '2026-07-18'
   notes: Personal
 - id: oar-125-180-1050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-180-1050
-  sha256: 1e57c2d0bfd5c625f325eb281b00046ece59845159c991293106235ea203cc90
+  sha256: 3a41f448651f1f78597399398d7ed1bb18e1d65742009944e746bdc1d6a22820
   last_checked: '2026-07-18'
   notes: Funds
 - id: oar-125-180-1060
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-180-1060
-  sha256: a345718ee4a8d0ae7f4c448346031bae6c4fb4de0bc11588d4d2753a147a71ac
+  sha256: 7813a9dccbf9a860c7d078b60989f008cb3f0dfe12767b9231e92441c2ed0889
   last_checked: '2026-07-18'
   notes: Funds
 - id: oar-125-246-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0100
-  sha256: 3fbf5b623aa34f24f3cec0a772f171da2a29345c34295adff489f82e071e85af
+  sha256: 6f6bd47beab5768e51135ad45276e7912ecd7423b38afaf6b524f88116978055
   last_checked: '2026-07-18'
   notes: Application;
 - id: oar-125-246-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0110
-  sha256: 15d2fb137c3596bae3379017f35e6a6bd2aa3462d2f821bcac4db239dc5f6017
+  sha256: 26eccba0b024beee9bdcf24a91386b4ed28fe37054583028c7b84a2da86cbbce
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-246-0120
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0120
-  sha256: 2925ff67aee579f3d6f5cfe906fb23b3513ee176b042ff3277472e2bb744c986
+  sha256: cfd71f48de05ef7e5eacd117d82a1dc8bb1dcf4acf1b4ad967a0f3229ff0231c
   last_checked: '2026-07-18'
   notes: Policies
 - id: oar-125-246-0130
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0130
-  sha256: cef57f08a1ad4fd7160498691ff457e4df68660d1a8c2221c99d35006b182b4b
+  sha256: 43c8e27348de58f504cbe5a7e37ef98375aed89a442b6800c951bc897cae5f11
   last_checked: '2026-07-18'
   notes: Application of the
 - id: oar-125-246-0135
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0135
-  sha256: 36dc0a9dfe71e3e66c17e2b9a4f131474735db5d65c580eb3c7fdd7b55ee7000
+  sha256: 6b5e06cf3fd10b23a8d0a3ad2e0f90fb9754ee7b339df79edcae1722a7ff6e09
   last_checked: '2026-07-18'
   notes: Solicitation
 - id: oar-125-246-0140
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0140
-  sha256: 06dd180dd0ae2313713db8f0b3866e193912d5ec9464c7aba904dafe01378b81
+  sha256: d22eaf6227a208cca5c243dae6ff5f143b8a6bd0741d6005c759600ce923aeb9
   last_checked: '2026-07-18'
   notes: Procurement
 - id: oar-125-246-0150
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0150
-  sha256: e07832d54df519250c2ff25f43f45f3d4d362e0e39f12835f92e1cda14737d52
+  sha256: 6ac9d7e5024276922860d286fca38c6bdda16d070304f5909a03786a72f85cb0
   last_checked: '2026-07-18'
   notes: Applicability of
 - id: oar-125-246-0165
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0165
-  sha256: f20b45310a081227c0dc4ef8b7b27819e83f1950f7b1b41fb9c0439a80f8f147
+  sha256: 6f6fb6c067f5cd61dfc1074ae5b6f2c19b6b6057b4344083cf1a286ea3937318
   last_checked: '2026-07-18'
   notes: Delegation
 - id: oar-125-246-0170
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0170
-  sha256: 4c95f36a303a49720b4ca4492c74683eea3989790ac3e6a24093c0b362eda4e7
+  sha256: 89eb0411b087a580f1b0c465b56cb82347c55ba09102a68bbe495b75782b6115
   last_checked: '2026-07-18'
   notes: Delegation of
 - id: oar-125-246-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0200
-  sha256: f45dd253d3656ef5b1e749f22c086374513a45a6fdbf6314222482545c2f033d
+  sha256: 433b94168e4b5234bb004aedd31d0074f3a5b50c349aaa3a18f381fa24c8ef1b
   last_checked: '2026-07-18'
   notes: Affirmative
 - id: oar-125-246-0210
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0210
-  sha256: e67841e732c14bc1410842b39bcee1d4ef38e7ba7fe6a682bf2e32cd2d05474f
+  sha256: 15d43e0a249bccc90c6010593818f8b6a2da92195a72e286d4a27ac735e02c75
   last_checked: '2026-07-18'
   notes: Subcontracting to and
 - id: oar-125-246-0220
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0220
-  sha256: 1f3bbad8b41106d7a2359bc0127ae0d3854b08fda426e8050e7d41a306c5f538
+  sha256: 35064dd0846e1b819cf1cbbd5667fd4a7d721b79165022d1d13010b068298c5d
   last_checked: '2026-07-18'
   notes: Governor's
 - id: oar-125-246-0300
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0300
-  sha256: ca8244c14c90c3b2fec080c3641babfd21255a8a705eded7f1f235f90cb813d3
+  sha256: 1e56088cf68ae54a70162b6580d0a8c32489610e2ad83d3686f1b985f93b4472
   last_checked: '2026-07-18'
   notes: Preference for
 - id: oar-125-246-0310
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0310
-  sha256: 5dc6c1f4e8890a28adb05dc93837ab7d64e6f9229fb781018fb9bfa7bae0a8f2
+  sha256: 3e8c8b5e7aaa8c4d75c9473a9c4557a34d1c683b1965765696d17dcc9ae76be0
   last_checked: '2026-07-18'
   notes: Reciprocal
 - id: oar-125-246-0314
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0314
-  sha256: 02633df16118b393cd5b5fd7c8be1c9688af6dbd0673c99f3a3b533d04b38653
+  sha256: e2cec7162a6c5cebdd507ebc6e4076c77bd915bad91a70af7c7277800f441c39
   last_checked: '2026-07-18'
   notes: Veterans
 - id: oar-125-246-0316
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0316
-  sha256: 81458d83c2f163af309e2fc64df7d59a034f28f01871e831490400109ec6cac7
+  sha256: c684876ee1a7e243c1c11a9b6b45937eb94227992873724870603d64866f95c9
   last_checked: '2026-07-18'
   notes: Lighting
 - id: oar-125-246-0318
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0318
-  sha256: 2bc5e7430df1ef032296c257b0151dd11d4c881961225fd8ae365f418e9b9a3b
+  sha256: e6eeef030fed4aaa62e809e6f789619dbed6ec9a3bd4b4577bface924169d3fe
   last_checked: '2026-07-18'
   notes: Oregon
 - id: oar-125-246-0319
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0319
-  sha256: 78253b1224de5608a610b6ac6ea89b4a69e3e8cc9279a3918dfbe291b46ecd14
+  sha256: 708a822ce4ad07c9dfecf9c377d0a7c8ec9ada7d2f02bd78b5fdddb880a213c2
   last_checked: '2026-07-18'
   notes: Federally
 - id: oar-125-246-0320
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0320
-  sha256: 136bc47015e1efada2f4a7052a42341990ece75f564221c0a2428d6a62d434e8
+  sha256: 713681c84ae67c9150f02ed2fc0dad2d9d04555ae5bf7fa14c126459891e4aea
   last_checked: '2026-07-18'
   notes: Recycling;
 - id: oar-125-246-0321
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0321
-  sha256: 9aa36d7cc146e15eea305825d228f783bf2de72224592a6460bcd57d93b48f23
+  sha256: bff1873bef78d1d6cf64ebd3773f6cab5b7d93d5998ede399edb24a2aa393df7
   last_checked: '2026-07-18'
   notes: Recycling
 - id: oar-125-246-0322
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0322
-  sha256: 988abf327a6e1e416753e17dae86fac0cb853ca9a9344bd2c6b3edd42b1b2c71
+  sha256: b48019e9401cd3a2b8af6a104060c90a552bd5978b2bfe166508bb2964826d4b
   last_checked: '2026-07-18'
   notes: Preference for
 - id: oar-125-246-0323
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0323
-  sha256: ade63661cffa4ef7695295e0fd2380f996d1afac45f6b5ca6398ae4e4b7694fb
+  sha256: 5eb63ada4be5ad09d0fbd2c8c7d207814e9877f067400e142376b55fa0247333
   last_checked: '2026-07-18'
   notes: Recycled
 - id: oar-125-246-0324
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0324
-  sha256: f1d6b92d5d7b42a05226ee82e2388e28d43f321f027953778432657670dda2fa
+  sha256: acd780d439d559f5d0e33aa8f83eb499df091a5f14c82e3e2a11941401141669
   last_checked: '2026-07-18'
   notes: 'Recycling:'
 - id: oar-125-246-0330
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0330
-  sha256: a9306e79cb51be418e7b239258b520025dd36b5641116179e371f089be921e49
+  sha256: 8890a9e894d04c19746595aa37e56bf241c38d075ae1fdab7b73688c9eb1ed9e
   last_checked: '2026-07-18'
   notes: Supplier
 - id: oar-125-246-0333
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0333
-  sha256: a743ec8040fefb90dbf04816c480077400ebae2dee5f2b6142cfa14d789e79c0
+  sha256: 3272224c42b37f9c192123dc1e28a61d64d6d623af7294100d251a524da537fc
   last_checked: '2026-07-18'
   notes: Independent
 - id: oar-125-246-0335
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0335
-  sha256: 6ccccb5f651ead705f7139e2054b959779ec0ea5fee37b6b691d8bc713cf00d3
+  sha256: 907cd88489f565c5ceef9eff6f31ed408101bdaa3a7b6477511b4e385fce43f7
   last_checked: '2026-07-18'
   notes: Authority and
 - id: oar-125-246-0345
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0345
-  sha256: 086010f7032b7c58c85dc8374368d50f5527f5066623954c2a15e51addd128e1
+  sha256: 5d678672d06dd31b17bb463d7d68ef748da19a2847e45bae4c9f50b0417d2cb8
   last_checked: '2026-07-18'
   notes: Procedures for
 - id: oar-125-246-0350
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0350
-  sha256: da911dc3bd1cdf6c7da12f7de0be1fdda2df45daf0304427a86fecf3ff620e95
+  sha256: 16693e02da39ed8eb139d17024ef96ef6044a48a2c994009b9335783c0f69c20
   last_checked: '2026-07-18'
   notes: Approval of
 - id: oar-125-246-0351
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0351
-  sha256: 546bb5cc61fedd8f2e60eff0b23c5ffa0e44aaf3c427f53343248f1d6fe45f21
+  sha256: 74ab2170e490efa69fab960f85b60059146e65c1c1e08ca3b5ec32bce2ea8a87
   last_checked: '2026-07-18'
   notes: Acquiring
 - id: oar-125-246-0353
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0353
-  sha256: e1b25754cc34472929b4c55b4e5854c20f4491d193c63fef3ab385da0b792544
+  sha256: 9abf72bf41e22f440b57bab3455140b4c056c73be65157c626e90512ada74092
   last_checked: '2026-07-18'
   notes: Reporting
 - id: oar-125-246-0360
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0360
-  sha256: 09adde0ad194115f0b7c0f7a8fec0ad9c4c6143bcece7db01e5ee24937bcdf3d
+  sha256: 30d909fc4eaca4c01c5883990489310fc0646058d0f71b5ee04a24a2b17e4e5b
   last_checked: '2026-07-18'
   notes: Purchases
 - id: oar-125-246-0365
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0365
-  sha256: 56b3ac3fb1129c232f642d3abb932897ee3b13251f2fb13097d37e865642c125
+  sha256: 5f2d879e845096f3022aae31301e4cc31a865848008142e1137096d4174ba204
   last_checked: '2026-07-18'
   notes: ORS 190
 - id: oar-125-246-0400
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0400
-  sha256: 80dcefae71bce1d04f4959327a42163b5147a2ad0535158c227199888df4a987
+  sha256: 8054c22a20716879f0238a9e6c805369a0969b7b2b43c51854f9f36fa577f663
   last_checked: '2026-07-18'
   notes: Cooperative
 - id: oar-125-246-0500
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0500
-  sha256: 840894399b10d90eb981aa2a1a2950a85bc0171d57242dcce7ec779502d6a82a
+  sha256: e6a28a7f1ed87d9753b21fd3b286cfdef4d25b3c61c8872e4999cb1ab0d56392
   last_checked: '2026-07-18'
   notes: Electronic
 - id: oar-125-246-0555
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0555
-  sha256: 98e48b554093a1c241afac63fc51caedd1ac93078e579a3e446239f332ee50a4
+  sha256: 70a9145a5bc4921b235e6a05de294bcf4ce7a67865364af9ab2bca98d0cb0946
   last_checked: '2026-07-18'
   notes: Contract
 - id: oar-125-246-0556
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0556
-  sha256: 0aad662a661de526b3c06c3891a893b215da6cc48b5e2d29c5ae65ac21853c13
+  sha256: 1783ca16ef40299fb9cf47831666fd5347b31d4f2e13863894b1f7c1cb35cc61
   last_checked: '2026-07-18'
   notes: Procurement
 - id: oar-125-246-0570
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0570
-  sha256: 8aa7fcf0f05288556d592c350b51b942f8cae5c0932fef42bea88d48d31af71c
+  sha256: a4a8c8e268801414f51d13cfe7b9132f001ebeba47a9e27e21bd5d4f5f534e75
   last_checked: '2026-07-18'
   notes: Reinstatement of
 - id: oar-125-246-0576
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0576
-  sha256: 0adc9c0cab2829f39fec6db6a96e9b1e07ba56093607ca7b9fdcfee08e217764
+  sha256: fe19d4e71a2688ab62c7a048900a3194879d61fdfaa81e2acc9248ea92492f47
   last_checked: '2026-07-18'
   notes: Payment
 - id: oar-125-246-0580
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0580
-  sha256: 1959bfe8130c04dab6cd88f39f2da7a1cef304d3db95c08d28fd9d13cf8fb2b7
+  sha256: daab8af5ba6e191d64db3e6189394521b183c268398c62e147bc77a6d56eb9e7
   last_checked: '2026-07-18'
   notes: Dispute
 - id: oar-125-246-0600
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0600
-  sha256: f972106768bc1b60e1306b0d9a3a4ee5dd4cfa13ee53b681f420db60aff47921
+  sha256: 4cc74469ead127f73fbdd79c9a61191abec4bf43651d411d7a7eba0f42268d79
   last_checked: '2026-07-18'
   notes: Ethics in
 - id: oar-125-246-0605
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0605
-  sha256: cd0178711f8b25929f613667e0631ff266b41aed24867577e1eb45a4694cafd9
+  sha256: 2a0e7759805088dcf364a639439715fb1bca67e935fc09c7b97a8244a895ccc2
   last_checked: '2026-07-18'
   notes: Ethics;
 - id: oar-125-246-0610
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0610
-  sha256: 4fc408d37eaf7a31f9dff77eff7fa0ae90ded40d5f954ddda5af8227b7298b1e
+  sha256: e9d4a39a80b49aee25b1e630bf205143ad4b00a2037732078020435c0da1c3e1
   last_checked: '2026-07-18'
   notes: Appointments to
 - id: oar-125-246-0615
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0615
-  sha256: 1f66e1801278a92f0ed1c25ee44eb73ebde98d70b8c3e783faaea7b4dcd03c22
+  sha256: 7e2344d508fe5617dc8396ad719fa92cd12ace8875d6fb354fb38a26a1cf350f
   last_checked: '2026-07-18'
   notes: Nonretaliation
 - id: oar-125-246-0620
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0620
-  sha256: 30574796f99faeee9aaa9dcf9757f543153ea7d79eec961f6b4d249498637a40
+  sha256: 9e66286d1bd10d11ef792f2ebf6256e9a006e74c4e10851b711b5a919d802527
   last_checked: '2026-07-18'
   notes: Specifications
 - id: oar-125-246-0621
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0621
-  sha256: ed1c426c6f390e7baf4c39a88afffc46e1a246bcafe01062ca9c24064889a953
+  sha256: 982129cb981cf692e984acee7d264bdfd757a6d74b66a9cd9ebf6a54c633cc9d
   last_checked: '2026-07-18'
   notes: Anti-Trust
 - id: oar-125-246-0625
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0625
-  sha256: 97b6f185d4f16392a72fa04bb22d018d6e6f249b9371ebabbd8836d6447df6dc
+  sha256: 274afdbf0c81b3f87177beefdec1839138d3f0a894d4f9af431d58d3b4e6a86f
   last_checked: '2026-07-18'
   notes: Sole-Source
 - id: oar-125-246-0630
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0630
-  sha256: b8ea39a4b4cf3603b9042dac6619892e566d33216c25f2f1a4023524bca283db
+  sha256: 1c80ddeb9f3cded58c70abdd81bc3832cca0c4f0f325b573de7aede588cd4a45
   last_checked: '2026-07-18'
   notes: Fragmentation A
 - id: oar-125-246-0635
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0635
-  sha256: ba1bbe916461e9f282f72de164374f5b7bba3b7a41824f7bf4affe0981adedc6
+  sha256: ade8ef2173e49b99321cfbbbacb9b9e32d91f9693e9c30930cabc26ca6fcf6ef
   last_checked: '2026-07-18'
   notes: Authorized
 - id: oar-125-246-0800
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0800
-  sha256: fdccf213193fa7e3fce6d38d530607cd7d3b922c9a1a9f2d52d8acc4d3750e5f
+  sha256: 5319f262cd66cfb5387ecd4ac5a1bf39eafcacdc9cda493f5df26bd78275be0d
   last_checked: '2026-07-18'
   notes: Selling or
 - id: oar-125-246-0900
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-246-0900
-  sha256: 5a31e7a6c25b247fc1f61dacb4bb02848041a5487ec1e56273b40eee56d4fa45
+  sha256: 7c441c24a5fe74efbf730b03f4b138c37e6e95ceaaa47a8a86fc0d1cebe7f2e1
   last_checked: '2026-07-18'
   notes: Penalties
 - id: oar-125-247-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0010
-  sha256: b79dd6d5719cdf27bfe9d5fa062b4a28912c4f0875f492a7e74125e5625f1762
+  sha256: 3a1a599e7406dbd6ad2dad1a4ea0dd67786ae3742bb6779299a50d7913917ca7
   last_checked: '2026-07-18'
   notes: Policies
 - id: oar-125-247-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0100
-  sha256: 1e2bce63e3252ccde35dcc729478f52e20c1ffbcdaac0e349e96ed937bd78f84
+  sha256: b915f1e3559454cfee2401a36f8532d439b7e97725c4912eb3ce9275b2f12d00
   last_checked: '2026-07-18'
   notes: Applicability
 - id: oar-125-247-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0110
-  sha256: 49fa55503c346de8cfaa7a6694308633d47a86760071408be62b0d1afd35cab5
+  sha256: 3d4ad77dde1569f60d9ceed71590f161eeb72f3d1672ccb714c9790ecf8e4008
   last_checked: '2026-07-18'
   notes: Feasibility
 - id: oar-125-247-0165
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0165
-  sha256: b8ed024e5569495de23b01db707b142f81a9e6fe6efb7a44ba9dd850a72960d6
+  sha256: 39fc26b538ee028bf4382b4ce2752ca11474c0378cbebc53b5712cb88922a862
   last_checked: '2026-07-18'
   notes: Practices
 - id: oar-125-247-0170
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0170
-  sha256: 17d6529d573ccda0b11fdb83c1b9b5c625f780d60c808da00a7600c9cdc5e75d
+  sha256: 70eb606f7d55096f1535830a08826ecb9ac2587d263e7fb0a932d544a4f22888
   last_checked: '2026-07-18'
   notes: Life
 - id: oar-125-247-0185
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0185
-  sha256: d6f58315ee6e36038a49d8018e3f3d2cfd84270f058390c06841dccf99cb45aa
+  sha256: fe6f7152118d2a2ae55b244dd55401a6bc36fd10efb31efb5bec62040983a11d
   last_checked: '2026-07-18'
   notes: Approval of
 - id: oar-125-247-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0200
-  sha256: 9a059d7d2f8e2afdc196659a4702df5402793e5988a7c86f67f581206fd31a09
+  sha256: b36bfce1771657f4b824c56753fd5388e48c6c6c86eb14e197e0e9f5cb4d40a7
   last_checked: '2026-07-18'
   notes: Buy
 - id: oar-125-247-0255
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0255
-  sha256: ad71edb1b844dcd2c1e7249a5ebef25323c7ae222cd5b9788b20b0b39644b00c
+  sha256: d67a0ffbfbf6b3b78d10b70726ebf375b0c1013526f34670de6ff397d52a0bfd
   last_checked: '2026-07-18'
   notes: Competitive
 - id: oar-125-247-0260
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0260
-  sha256: 50c5da0e55403c73046804906049e1c6a6fa3277e2b452bf60b0985ca8af3632
+  sha256: 16aa866087c2333356635651999668bab764f7c7c341b02fa024bb40e669d1cc
   last_checked: '2026-07-18'
   notes: Competitive
 - id: oar-125-247-0265
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0265
-  sha256: 51db51eb06cbd1c377d43536d7cc09eb998cda34bbc1e07f70c25802969627fc
+  sha256: 49b7145468ad8f850278cca3c5918342a6c85fd31e19fb3b4da63de5f41a27d7
   last_checked: '2026-07-18'
   notes: Small
 - id: oar-125-247-0270
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0270
-  sha256: c3a8af3ad3d33a822c97050b58d5f4ee28fe50d71f05f52bc3d50a317dd10f70
+  sha256: b5a8cd662a779cefa63461bcb2e8356ecf352bb048af0df70a89988d4d30dfe1
   last_checked: '2026-07-18'
   notes: Intermediate
 - id: oar-125-247-0275
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0275
-  sha256: c26a1abac2c603b352dec5b020ed0becfb1baf69285dc2c16cdcc5482bdefe6c
+  sha256: d3795000d16fb159332ec4a81d0658977045aeadd5ef5f4df1deb4b8e7edf500
   last_checked: '2026-07-18'
   notes: Sole-Source
 - id: oar-125-247-0280
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0280
-  sha256: 6d3b437ead73f3044e2629d3a728d75fb70a2bb702073ad95843607a09835307
+  sha256: 6d4aa6972694c41cd18474bfef97e29f2d2cc3c2acf47ccb62caf48880021248
   last_checked: '2026-07-18'
   notes: Emergency
 - id: oar-125-247-0285
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0285
-  sha256: 28df47ebe9797fbc66c83d04692f8b903d6f32a0f78cff77ad3066aa76b37766
+  sha256: 4b55c8695add1c9b802abb9350f3a22517063c9920b69d55005acbb65669def7
   last_checked: '2026-07-18'
   notes: Special
 - id: oar-125-247-0286
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0286
-  sha256: 5e8f5a8f788ef77f656e9d673268f74f15d292d06618085e7e0acd8729fcf55e
+  sha256: 0fe29ef768662700adef4916f366d007863585c3f93f537d5c5085c3a7241481
   last_checked: '2026-07-18'
   notes: Special
 - id: oar-125-247-0287
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0287
-  sha256: 2ce47f74881c38198f5107268eb8fe163a6cf027e183884ab98a6ea1f77ef7c2
+  sha256: 819ccaf938f14c71df59716c20d64d1fd11847994cbd8a3f13712634f5b8117a
   last_checked: '2026-07-18'
   notes: Special
 - id: oar-125-247-0288
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0288
-  sha256: c6a2b9fe54b69ee0c61b4f89c1248b792fdc8e32392a356d363830331964dc2a
+  sha256: 8ae4836de95956c6ad4ab1daae230d150059889e24b2eabd04908a73937c2c93
   last_checked: '2026-07-18'
   notes: Special
 - id: oar-125-247-0295
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0295
-  sha256: 14f329836fec0494971eb42d5f47f6ca4b5f2e2a3f654b557146def1322cccf5
+  sha256: c4b529c29d43d0910cbb1be723ea7d56d678644923520b02c2da34f1986eefc2
   last_checked: '2026-07-18'
   notes: Special
 - id: oar-125-247-0296
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0296
-  sha256: fb00688e67a14ca5c68fe9cfc768aeb1cd00a83291b99a8eeeceb0383321cb39
+  sha256: d2f5cbd93a0e0d585f3e721353310e056627ecf0c1937e580fd3044c4f6ce2c5
   last_checked: '2026-07-18'
   notes: Price
 - id: oar-125-247-0300
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0300
-  sha256: e9dd9d623dc1d50ccc1dd2b35b96f19f2f9d84439d490b44a7adeeba97bf5d66
+  sha256: 85b9cb03c8f48e3a84d11fc022325d89f79f482a09b2f3db2593d32fb7b497f0
   last_checked: '2026-07-18'
   notes: Procurement
 - id: oar-125-247-0305
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0305
-  sha256: 7b81a40978dd2e8c23c7ac20ab6ca65a0b5634ba798f2fa01504349e4c964fe2
+  sha256: a9b499c0d46abd0ed4b694ec733d5de7a0eb10fc53b95a42a7ea0d82c0edc4e0
   last_checked: '2026-07-18'
   notes: Public
 - id: oar-125-247-0310
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0310
-  sha256: 5c93f9d76edc65990f3fdc0f3ab3bedfa4a2506de1d1b5c67d7a537cf67c1310
+  sha256: 65e7a674b12a91395785d50e4ee972e758542a1c23edfc6c434dd11bb53aebff
   last_checked: '2026-07-18'
   notes: Bids or
 - id: oar-125-247-0320
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0320
-  sha256: ec542a7e77969ff735a45bf9d654b9f746e2dec0fe134f39e94a439f054812eb
+  sha256: 27465c441644ff1e538930677ca00d9450590a9ace6997b20c0974a578802eac
   last_checked: '2026-07-18'
   notes: Facsimile
 - id: oar-125-247-0330
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0330
-  sha256: e3f9950e0934d34bc0d029ceea93f28e9b55239a458cf433bb723b1dc434c224
+  sha256: c177e29fe8bd246e88dfb7570167a091810d7f10c5be9005299522964602b6f0
   last_checked: '2026-07-18'
   notes: E-Procurement
 - id: oar-125-247-0340
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0340
-  sha256: a979dfc09dfe4dbc1d00d21c18cf9069bc5a4b2c7e492d716c298e0d4e7a15f4
+  sha256: 74e7c7b6094e02ab62d387017143c76663118f6dd24c50a8f0ee9dd22952ef99
   last_checked: '2026-07-18'
   notes: Reverse
 - id: oar-125-247-0400
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0400
-  sha256: 0cd560d78906c657cf679bbd7d88ab8e000110a2294bafd76a7dd8d801987409
+  sha256: e6be0d23cfc8c16c1daab8a6f03a607cd1419c6f25bc14c66db8d92b98691ed3
   last_checked: '2026-07-18'
   notes: Offer
 - id: oar-125-247-0410
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0410
-  sha256: e04e054d22fce2a9319d26b6a97484ddcc64e2288529ee15dbc110f0ff654925
+  sha256: ba056cf8c4bbfd2a622330130b89bd17a0b0e2e2f74b3e1f1541af3e56ebffa4
   last_checked: '2026-07-18'
   notes: Offer
 - id: oar-125-247-0420
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0420
-  sha256: 3612af5660fb163fa65f5daf324ce6ff2bc19f49585627bc7e1d40f972ca07e9
+  sha256: 94a218d8beaf654120e1307d639e3d08c756b72108f68194c81f51a4a2e670cb
   last_checked: '2026-07-18'
   notes: Pre-Offer
 - id: oar-125-247-0430
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0430
-  sha256: 2303f5dc85a5aaa4723a3e6fcf24fb802ca04154df1e3d06856e3654d7adffa0
+  sha256: 2dbff0ff9fe3f63c14ba11726e24aecfa1ef021dd0f93df81adff7dd4ffc877b
   last_checked: '2026-07-18'
   notes: Addenda to
 - id: oar-125-247-0440
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0440
-  sha256: bb30b1244a0c84ad6f8d3086dca7fc7be39ac37eb2f2f2b68bf7a46e2bf7f98e
+  sha256: 922b9c0309873b95ec53574d59b4cd535f9964d2e7ddf860f3a27006e622f3a2
   last_checked: '2026-07-18'
   notes: Pre-Closing
 - id: oar-125-247-0450
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0450
-  sha256: ebdd9d51488266ca68c9d73428a3321e4ba7f4c82a03efc0dfdc822831cc554d
+  sha256: 52b091f470f58bc136f03fc16fe8aea1ce88ace428c5dcb449eceb77c493d649
   last_checked: '2026-07-18'
   notes: Receipt,
 - id: oar-125-247-0460
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0460
-  sha256: bfdc4c07f03cf6dac6d5f51483d0bb0b16971aa4032102f928f84b5d3f839b40
+  sha256: a44a97255b43632173da4c8d5a4c383bdfae272d9c8d35725625262a0ba51a98
   last_checked: '2026-07-18'
   notes: Late
 - id: oar-125-247-0470
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0470
-  sha256: be0f89a636dc8ee88c072d10e31a8994c4a72ef54e48d4f6088d371b0477629e
+  sha256: 96e0d3525427b47ee55428a6378a3187e7998788be4a482fd760683793502714
   last_checked: '2026-07-18'
   notes: Mistakes
 - id: oar-125-247-0480
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0480
-  sha256: bc9441db0e40aec3da54f77941829a565ea7309b7b1ddac993c16629b641a7ac
+  sha256: ddb7722027020ac5b32715f285546072cf23fd0d42401721aa975850c152b36a
   last_checked: '2026-07-18'
   notes: Time for
 - id: oar-125-247-0490
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0490
-  sha256: 4a6b9a91b9796b4813db2938a5e7b8911825dd475f5e28d0822895f2a6f41ca2
+  sha256: 66fd5e0659e2775cd8644eaa5ea8e6121c7e1887c94b58036d62ac6c71cdb989
   last_checked: '2026-07-18'
   notes: Extension of
 - id: oar-125-247-0500
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0500
-  sha256: 36b24bde8574ba21fefa48968087bd399921e3e17bf14efe8f97bd09799d2b5b
+  sha256: f23b51c37729eb9395850039ab1a316e7de2b06d84129f32956791bcc627f447
   last_checked: '2026-07-18'
   notes: Responsibility of
 - id: oar-125-247-0525
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0525
-  sha256: 47eece66b1bbd089aeffbac0c8ae9db3368226f5198362eea7e68a93cc54f533
+  sha256: c3d37b06e206e00b8bbf450ae488e944f5a140af7b3771cdc7527413b3098540
   last_checked: '2026-07-18'
   notes: Qualified
 - id: oar-125-247-0550
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0550
-  sha256: 6eae3e1da173ac7a512ae1b0ad8d92320245e0f14c9cce8135b3d026b0a23281
+  sha256: ee6c2df9576c73e524d20523bd51ffcc272347cb36952812acf48782da652e07
   last_checked: '2026-07-18'
   notes: Prequalification of
 - id: oar-125-247-0575
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0575
-  sha256: 19b97695e61633e3a9b1f679ef65e8c04cecc03fec8aa3c1b84183ab93715d12
+  sha256: 35ed469bb4f0900da9cb9388ee2545e767aef6f9541af8726eddc5e73ccef3c1
   last_checked: '2026-07-18'
   notes: Debarment of
 - id: oar-125-247-0600
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0600
-  sha256: 56342f5a83980b8f37e56f783bb64b8d115a85a3141c7bebafb5487c104e3d2f
+  sha256: 8a40612056374cee60359ab5b5e6a39235dc4f39a708e41d7af6ad6e7ffd8c0a
   last_checked: '2026-07-18'
   notes: Offer
 - id: oar-125-247-0610
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0610
-  sha256: c67837e7f786c52d4ab1ad2aa8027a42c63ad05d65e936cd5809a178767b4738
+  sha256: c326616a5cab8e70cdb39435d96bf277e4b25b45a038bf3b7874c97167d6a83e
   last_checked: '2026-07-18'
   notes: Notice of
 - id: oar-125-247-0620
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0620
-  sha256: 2e03d97f4cf3b35bd610c711bc81dd8f3aa4c9a9e432b8677d74a8f0563641a6
+  sha256: b51d9dbefa774624fcf92149d2af779f815c6f1147c60dc83c5b8bb20b0498e9
   last_checked: '2026-07-18'
   notes: Documentation of
 - id: oar-125-247-0630
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0630
-  sha256: 5a277b96a99e097cc7b356553e2683115052d40151ba0a8e0c87bd965dc7b299
+  sha256: 8e3f822ae4dc1e74481a5daa828fdd3217cfdbadf02882514b7bb8a8ea3ea2a7
   last_checked: '2026-07-18'
   notes: Availability of
 - id: oar-125-247-0640
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0640
-  sha256: af9168047eeb590931c7650af73994439e5939e63c3075719da8b95241a6a7b9
+  sha256: bde5e002080ff73c2a0f81cfaacb32617721742917bc9b77d62afe6444ca2b49
   last_checked: '2026-07-18'
   notes: Rejection of an
 - id: oar-125-247-0650
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0650
-  sha256: f6587c963e4fdbd0ed7015c4119148417229214de9ff9134e2f2766393e5b4c1
+  sha256: 07b3818717d19280f1d738708482459d7a6052937f93f209325f9b86ab334a79
   last_checked: '2026-07-18'
   notes: Rejection of
 - id: oar-125-247-0660
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0660
-  sha256: d0cef28b659bac82bd3ac29e7127fd49e68528b90ae82070ecd94b07c1aea6d9
+  sha256: 0e4c3007b86d15624f11257e5a5ec91d98a4d72c61f729a5b5f36b62b07171f2
   last_checked: '2026-07-18'
   notes: Cancellation of
 - id: oar-125-247-0670
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0670
-  sha256: d8d8b83c45848c46671303f0e64c1b956447d9dc2f9dc392392d32d4fffdbb7d
+  sha256: 0e7c67f693b60a7413a5f71573a1b019ff20f456855b2d3dbb7b6fa4e9c97b10
   last_checked: '2026-07-18'
   notes: Disposition of
 - id: oar-125-247-0690
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0690
-  sha256: dde2af8b0fb0548da56c054dcc2855ffbff136a8b1975a2a4070be4b8477b0a2
+  sha256: d37962385fc4f0c91f48f38b0c20f6e14140098fad71cbdc4e5e97ad5210d600
   last_checked: '2026-07-18'
   notes: Policy;
 - id: oar-125-247-0691
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0691
-  sha256: 24898a2df4d7dc75e7960c85952f847c3ef786c8393307f11cec190826b5bfa5
+  sha256: ea10d958fa9fb534f22a5c1c1e874d38efe006647f1235de2d8b8c206cf4c0c8
   last_checked: '2026-07-18'
   notes: Brand
 - id: oar-125-247-0700
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0700
-  sha256: 5cebcd9ad424797df767a4f38dcb1b283b50e8039512b808247c3f33ada739ab
+  sha256: ae97c9ab6728ceb5f47588b0a41fc780f78cd962ecfb27884f32221e28ca136e
   last_checked: '2026-07-18'
   notes: Protests and
 - id: oar-125-247-0710
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0710
-  sha256: 3660e413f38e344669326820c07c1004416ac717d088a8a1e7e07f1d19289ab6
+  sha256: 384e41d7c92bf21d57fab3bd4d991efcfe6c1d5f7bbf6d3b9fc184e7a9c9d8c2
   last_checked: '2026-07-18'
   notes: Protests and
 - id: oar-125-247-0720
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0720
-  sha256: c951c6563f82e6df24361a3fbcd201b10ec1f7ce3aeadbbf5c239e55a5bb2139
+  sha256: 882cbce96122531d98c887b737af7f9b73f4d0b8c22dc59ce3610ea07730851b
   last_checked: '2026-07-18'
   notes: Protests and
 - id: oar-125-247-0730
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0730
-  sha256: 1e68e20cb8125e0ca2fd17623a8aab804efcf4b0fb10ae4688d1a8ae6dc93d61
+  sha256: 50d877e4450f48a47475ed682ecf77da953502f0470e2757780a2d9bd7785df3
   last_checked: '2026-07-18'
   notes: Protests and
 - id: oar-125-247-0731
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0731
-  sha256: 7ba3df2a974e3a9fe7166179197cdf702e545dffff898ff27cb729df39e53786
+  sha256: 2aa5896fbd069be5586ba234bd61fc8a14787eb7675126d6e3adc04c4fce2b40
   last_checked: '2026-07-18'
   notes: Protests and
 - id: oar-125-247-0740
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0740
-  sha256: a103cdbb63361747a52632ce8c7662f4eff450ac1e33bd88d69a5b681a9d98c5
+  sha256: b833010fa00cd99e326873b4dabe6313fb10cee334fa46f62d15eb8a0db6edea
   last_checked: '2026-07-18'
   notes: Protests and
 - id: oar-125-247-0750
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0750
-  sha256: 11051ac069f47155ea185236b6d27f03693061525903bd8170ecc317b76c3cb3
+  sha256: 3e59a84488d03ab965392642a8fafa6a085b8e9a3b763c821550a1cd277fa307
   last_checked: '2026-07-18'
   notes: Judicial
 - id: oar-125-247-0760
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0760
-  sha256: 5eea42409a205dee0f26b4bd1648d27926df80ceb48a8005ae0cc6a7602c353d
+  sha256: aa904da5592c2e83fff7915254e9ca0d8cef1d8b0931b71dce4eeedb6107d395
   last_checked: '2026-07-18'
   notes: Review of
 - id: oar-125-247-0805
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0805
-  sha256: b4afef235d835086b60cfd111b34c843ba9841ab8cf81941f7cd8442c5f9e228
+  sha256: ae2fbad35219b86199dbd49f8893b18b1562e95a9e7b76c6dcf7fbb2018337d2
   last_checked: '2026-07-18'
   notes: Amendments to
 - id: oar-125-247-0810
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-247-0810
-  sha256: cad1530d0e09b869c40fed15140df769a8541918da3b9097b321bd6d39eb6f42
+  sha256: a1fd8e01aedaae69f2e1f9ea895b5609f610fb583fa96601cdc83ff52ea0c60b
   last_checked: '2026-07-18'
   notes: Termination of
 - id: oar-125-248-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0100
-  sha256: cfc8deeb859e6c3c6ca9c0484c63646831b4b72187421b7c33f5a7fa6702c7e2
+  sha256: 625727924395f3f90d25deafe8c24ee65afc0d265fad3fc6ffac26e7290c7930
   last_checked: '2026-07-18'
   notes: Application
 - id: oar-125-248-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0110
-  sha256: 07d877121bdb83e4787932c65a75f472069372648c8b718a33407baf6f839d4d
+  sha256: 11366259dea729a7991165721604d1807b9e9dfc5359abbf2b0c89152aadaee2
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-248-0120
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0120
-  sha256: 33cd99b6d3deecc506d388c4041d7af88077a0cb6786feb9325e807100aedac2
+  sha256: 4897314697bd10ad29ad168f150a14a5fee63d174be6770995c759279e80f030
   last_checked: '2026-07-18'
   notes: List of
 - id: oar-125-248-0130
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0130
-  sha256: d080f2373e9274b5a760a2285ea8fadb3cd730cdfc274322e95a2e36093351ab
+  sha256: bfebbcc9191b6be43338a4af6afe5cb2fc995ce7aa8272c19acb4e84df43343b
   last_checked: '2026-07-18'
   notes: Applicable
 - id: oar-125-248-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0200
-  sha256: c042a3bc536c8909b3e2d266fceb33c735fdb2bd27d36ada6b924bb2745b35ae
+  sha256: 4647acffa018786f9819c0bb2cd954b3107bdb7d6f37f5be42be5e24cebe4230
   last_checked: '2026-07-18'
   notes: Direct
 - id: oar-125-248-0210
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0210
-  sha256: d30f4d63c401f8394669f2f3367144bae9cf536966d4d6166d6c67097146fc4c
+  sha256: 4f3c6b45b75865b16eca32b039605866a995f1fb444ca650a1ebb881d89f5fa9
   last_checked: '2026-07-18'
   notes: Informal
 - id: oar-125-248-0220
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0220
-  sha256: 5f7159960d16593885b624a3e1d0a9cb7742348ca1bf754174aeea7fffcf7f1a
+  sha256: 549df96aa6ebc3e02cb8aa2fcf835035e1bb62d67520942a9db6a25789ea7fe9
   last_checked: '2026-07-18'
   notes: Formal
 - id: oar-125-248-0230
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0230
-  sha256: 97111ab49557cfae94fd81fd5b769503e5545d275983e6dd3509c366a176008e
+  sha256: 30f4e895cfc86f7d0d45d695b679f65f2a456c61697645f2ee6edf03d58ec5d1
   last_checked: '2026-07-18'
   notes: Ties
 - id: oar-125-248-0240
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0240
-  sha256: d89af394283057ec1ac965b1f81f6d137468797bed5b827b7efdadb95bb4fea9
+  sha256: 82094d0a542f08de6a045f525de7e5d87dee5adc972b9982e739aa8a98e9787c
   last_checked: '2026-07-18'
   notes: Protest
 - id: oar-125-248-0250
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0250
-  sha256: 7ea0cf5d68a028f1acbf9cb44d55c92abf5e591cb857513b78ee64d9c1fbcd43
+  sha256: 1aa728198d049b956b104bb7e4bfdf3b61c7a00ee28fe8915b93b43cc9852f35
   last_checked: '2026-07-18'
   notes: Solicitation
 - id: oar-125-248-0260
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0260
-  sha256: 8ba9bd00b1dbd078ee24eff5baad348a5739d914afde44ade42ed2e804d08c11
+  sha256: 1a9cab01335805e0abb631117f95528eafe4bd4f68f0ca19adadac996dadab0e
   last_checked: '2026-07-18'
   notes: Two-Tiered
 - id: oar-125-248-0270
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0270
-  sha256: 739db42be91a448d2fde7e0d6cb8635e04a1232deb3685d9d71cb809138e2906
+  sha256: ea6d6005503b81f7d24e630cd63ed0d00b938ade88aedc9fa61d3efb9e3b8bb3
   last_checked: '2026-07-18'
   notes: Price
 - id: oar-125-248-0300
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0300
-  sha256: 347316774427ff274009dda4b7ad344214631fb9f87bbd2d61c0d43f88edd92e
+  sha256: b67195827d6d4a548e2c1fdba499301c8b329e0276d69aacafbf40d0c6210851
   last_checked: '2026-07-18'
   notes: Contract
 - id: oar-125-248-0310
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0310
-  sha256: 1bac0df5075177e616b8264b198c0d53859d5b7fa98dae027e81f75c0e2b2144
+  sha256: e7004f745b9668a2e13fd7dc939e899b190d62f695bc17ae94f65d79716818ae
   last_checked: '2026-07-18'
   notes: Expired or
 - id: oar-125-248-0330
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0330
-  sha256: 5669ffb867a5b8dd8759863ebfa98a343c9802df962d0cd4cdba2262a429cb87
+  sha256: e7a9818c971826d0c7870b6fdfbc768f367840e28427cc596d9387344a3698e7
   last_checked: '2026-07-18'
   notes: Special
 - id: oar-125-248-0340
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-248-0340
-  sha256: 5a29e7d6a0681e409dc223cff83c7650bce2af99dc29a30ca437dbfa8cfd2bd5
+  sha256: a62e58b8d08aebfa7d774a9060ae2c174bfac5fccc7e7271b403cd7a1c252cd9
   last_checked: '2026-07-18'
   notes: Contract
 - id: oar-125-249-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0100
-  sha256: cf4e74424a887944869c36434fabecdea98c7dcf998bf6cb8d181ad13be2c5e6
+  sha256: db860de458eb1810758be6edc8500e76b16c0148a2fec12eb0531e5557e6878c
   last_checked: '2026-07-18'
   notes: Application;
 - id: oar-125-249-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0110
-  sha256: 11a55a80db7a951cf8b8ceca09c6dec165f3153c898ae475cd7e1d03576c01fe
+  sha256: 8f57ee7c7a504ff5b98e7f59fdaf44de159533d6a50d5babc5ea39720b056dfa
   last_checked: '2026-07-18'
   notes: Policies
 - id: oar-125-249-0120
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0120
-  sha256: 68f82703bc8e591987078ef9e73c07a7a0f89ef8d68b18b8d927617061358589
+  sha256: 8a57256ddc147d7776cb48c6824566fd8aca3a02e7b8a9e92bc96bda5238cb72
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-249-0130
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0130
-  sha256: 340cab59a73cac35c9dae8fb30559b1a04d6e5a8fb53882f0fcdf17587dcfffd
+  sha256: 7641a007c2f94ca5ccf64ec7329cd648e7d85260a6226f7c332665e69d34fa81
   last_checked: '2026-07-18'
   notes: Competitive
 - id: oar-125-249-0140
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0140
-  sha256: 203aa868d6f0e81dec26168425b244fb31b28ec7da5210eb4bacad2f14df6d93
+  sha256: 70edea10a0d8d8d4e22887e888239258f7ea0346e53ed1fa829e3b4ebc93c6bb
   last_checked: '2026-07-18'
   notes: Contracts for
 - id: oar-125-249-0145
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0145
-  sha256: af73dd95d9cff242e7deca38b502c4c2e3efe38b9cc0eb63ddfdd4c5c7f2e2ff
+  sha256: 24785b7449ae189006286b759ba3edac66a3921d06c5a465f6da7778870ddaa9
   last_checked: '2026-07-18'
   notes: Contracts for
 - id: oar-125-249-0150
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0150
-  sha256: 1fd56ee5ac2f0c279507ac708f046264531f5400473fa62ef2952a2bbfdd995a
+  sha256: 2e6c8a481d6ca8d66c530e17a9f688186d288883fd6e0827a8bbc0d47a65f696
   last_checked: '2026-07-18'
   notes: Emergency
 - id: oar-125-249-0160
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0160
-  sha256: 4b59f7e701f645210fb4403c20543104d4286219b23af45e4e81a5b8e20fbe65
+  sha256: 4e9cc2c1e1c96e71a7a34dcc80c41b6642fc69cb3ce6638d56ead08645ed4aaa
   last_checked: '2026-07-18'
   notes: Intermediate
 - id: oar-125-249-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0200
-  sha256: 716256e0285abfec98a6a9c71d96ddf52b213787cb6c2bb1e0ed46561a538c28
+  sha256: 2409f29205557ac277b4bf14d4b7f86a05f56f8d49378245a79ff8904632a355
   last_checked: '2026-07-18'
   notes: Solicitation
 - id: oar-125-249-0210
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0210
-  sha256: 690b4b526d197dd6ead6aadf0505d84dfa8404a5bd83ea48de0e864d8b0519f0
+  sha256: dd7ec1cc07c56687274f0436c2f1de2773cc21906bf917aba6c1e062ad8a456b
   last_checked: '2026-07-18'
   notes: Notice and
 - id: oar-125-249-0220
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0220
-  sha256: 42b79a737a3f8c8d20076bb9a7c48ad3926a89d4500f9406381956df08acf235
+  sha256: 12168331de60b8529abca973d12a700965c55add3bbd32cb64e8d5a2e7f6c729
   last_checked: '2026-07-18'
   notes: Prequalification of
 - id: oar-125-249-0230
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0230
-  sha256: 86fbae548d7d21f0ba17cfc4230ea2445f364376b2165fc64107240eda6c3937
+  sha256: 6b11dddfebeeff5310e3d9883fbf62fe38051b85ac84f476a87cbce414b2c594
   last_checked: '2026-07-18'
   notes: Eligibility to
 - id: oar-125-249-0240
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0240
-  sha256: 33f1811aa8287f40f24d892004bce7b0e8e076e2783b30d191dd9ef915732f67
+  sha256: 91712e066b570cf501fd05af087190e3cc1a2a4ad528dc5e9199cbfcb454ad38
   last_checked: '2026-07-18'
   notes: Pre-Offer
 - id: oar-125-249-0250
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0250
-  sha256: 2197dc12f55d3d1139d792c5f2dc51cab25fb2daaf383bae5e7f0f8c144a9de4
+  sha256: ce0de5287c1e70455a4a7ab72d84798f4a6205a9fb52faf67f470e9d0006139c
   last_checked: '2026-07-18'
   notes: Addenda to
 - id: oar-125-249-0260
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0260
-  sha256: e56ea5c529a93524302f175f83d9e6a556b19f4a376f697027f6494fa778edc8
+  sha256: ec1dcce5cac73bd1d22931712fae91c7d6ae3a3a21c85bd273e9a14bdf5ae1f9
   last_checked: '2026-07-18'
   notes: Request for
 - id: oar-125-249-0270
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0270
-  sha256: abf6bbdf941db00c29ffd720b7f53417820fbf9eae940c256bef43d9952577dd
+  sha256: 6e15cc51eb42e9eb9015b30926491b77d950a108958346bce8a2d891d53e7134
   last_checked: '2026-07-18'
   notes: Cancellation of
 - id: oar-125-249-0280
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0280
-  sha256: 2f7e4f8d22239cf4dca6c2e3f2ec095a215398bc2fbce83c1663922493b7f552
+  sha256: 7b64c86f0db439cb822e5309493ebfd7068720dfac9430dcc2400a5a39528b94
   last_checked: '2026-07-18'
   notes: Offer
 - id: oar-125-249-0290
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0290
-  sha256: 8dbb4366ca04fc345562d2674dea97504e4c4fbd94f65163bbe41936add2462d
+  sha256: 1d0f4ba820e6867fcfc98f29a934c720283f7568a620c84b224f804460696487
   last_checked: '2026-07-18'
   notes: Bid or
 - id: oar-125-249-0300
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0300
-  sha256: 90c7dd65d1319f3073dadea889702daa93ee1c4b9080ffb2d9609e60f93ed39c
+  sha256: d62ff79c56e83c61f07b55ec98a1d89a2fd0942f6422a053881f5cc2d6459685
   last_checked: '2026-07-18'
   notes: Facsimile
 - id: oar-125-249-0310
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0310
-  sha256: 3eafc8d54dd15892911c933fe6a010c1681b3acd43807505db3909136e4890ac
+  sha256: 0f391a67ceacc35b58340a1452b663c6efaab08f82895434e7f8f3e4ecee525c
   last_checked: '2026-07-18'
   notes: Electronic
 - id: oar-125-249-0320
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0320
-  sha256: 3ee5eecaaf261b9b446768e99e72e3a6f2006c3238e57d25acf03903246f8a70
+  sha256: b3fa8aa9ec5fa026b909d289486b7e8259a3baa47e53f50d850d8aed8d8e85c6
   last_checked: '2026-07-18'
   notes: Pre-Closing
 - id: oar-125-249-0330
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0330
-  sha256: 9464776fc818e26f1439360926d981a3803662c2468463391a54d63a698698c3
+  sha256: 8be3c4e0dbf8ca1fcbc58c610b3a44e79efe79194344e168fa5a6d13946b897c
   last_checked: '2026-07-18'
   notes: Receipt,
 - id: oar-125-249-0340
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0340
-  sha256: 62cf5cbfa69d2b71bb7213729305179c860f51d0c978b501032a7f03db11087c
+  sha256: 3dc40fde8b866ddc57f09d282505ced7788d23176685a69abe0e88c51bb91fa5
   last_checked: '2026-07-18'
   notes: Late
 - id: oar-125-249-0350
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0350
-  sha256: 682e3d0ff4245c9932f667db745a470eea743982ae7b13c7b9b11654140f6d5e
+  sha256: 8d5454d1570d83089d337ada304470ec52100e908a40ef3f8883423ba59b02c7
   last_checked: '2026-07-18'
   notes: Mistakes
 - id: oar-125-249-0360
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0360
-  sha256: 619ccefa5cd01f728a0026c7f421b01f95d3b0bd7ff6f619ffebd9e8f1bab4ce
+  sha256: 65e039dd40ddee5d93c2920f402f1156be826bf033d49bcf43a1323d7b1c78b9
   last_checked: '2026-07-18'
   notes: First-Tier
 - id: oar-125-249-0370
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0370
-  sha256: c1804658c87a51b73bd9f7fc0ecaeb273d3b05c6e0a5716436ac748c247a1c34
+  sha256: c4056543df99452744eaa9b222dd131801ed1f2690002c1bd8272c54f8bc84ba
   last_checked: '2026-07-18'
   notes: Disqualification of
 - id: oar-125-249-0380
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0380
-  sha256: 1752d46d2ce812f49436ab156f6024ba6418a94d70faf7a7e0c0a342f48e149e
+  sha256: 3a62ef2f7a7662bb6e6b17b611db9107ff3769bb844899a79c4053ca4b08eb27
   last_checked: '2026-07-18'
   notes: Bid or
 - id: oar-125-249-0390
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0390
-  sha256: a8c0d5c543380c3388ad462f117d024b0030768951cd5c463116664b29f9fbaf
+  sha256: 6d4e19cb65babab8da1bc6f5f4e9cbc4f217020f98d421a48dc93a374ce8d9f5
   last_checked: '2026-07-18'
   notes: Offer
 - id: oar-125-249-0395
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0395
-  sha256: 83b3c4aec5a1d96f528aca53673701e8506135b40dadd4d0f81fd8ccfc204d54
+  sha256: 74484c9ae67e3bb35372a6793192855e00482036206697d7b5082c8b01994003
   last_checked: '2026-07-18'
   notes: Notice of
 - id: oar-125-249-0400
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0400
-  sha256: 719708482b0213680354c4f3df56b3a344e413d15cb7e10d0dc22e39c0f031e9
+  sha256: d0c3e733c97e776fe9c52fa961354de2d6a3f12ed93fb167b49af63f5d3afb4b
   last_checked: '2026-07-18'
   notes: Documentation of
 - id: oar-125-249-0410
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0410
-  sha256: 621c6b75fbe40824ca5b3d86cad76ffd59e9f1bdd88241706eb597135f2d20f7
+  sha256: 6bae956db9f5d8e974cb5286ac39b93fe013c32eb144ec93b4fdaa1d0a96676a
   last_checked: '2026-07-18'
   notes: Time for
 - id: oar-125-249-0420
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0420
-  sha256: 706de2ac5a336f08981402de0debd340346379a03988d547312c25587c94ae9d
+  sha256: 2e09a3845d873191045bb7dfeca4f44ab7cf79be9da135c6bfb364a02adeed07
   last_checked: '2026-07-18'
   notes: Negotiation
 - id: oar-125-249-0430
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0430
-  sha256: bfa68275040adc3dbda9fa7f4df6bb1d8cffb6d54a0b77ead5e6d8ed392145db
+  sha256: 75c69cb91a5934e532a86d17ad311bd22d37ec1e6a6d0b4919a1a914e25d19e8
   last_checked: '2026-07-18'
   notes: Negotiation when
 - id: oar-125-249-0440
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0440
-  sha256: 27b3dc5589d5b301930515796fc3a274fd6a80325c137d0af52f5460bf3567c3
+  sha256: 2d7bd81c8af4466d3f6458073f54b57944b44c6f0974b540de1fecb609d12002
   last_checked: '2026-07-18'
   notes: Rejection of
 - id: oar-125-249-0450
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0450
-  sha256: f829f7db70bb13a303c8036f0181b1de7e579c291d07effb38ab174c58be83df
+  sha256: 0734fa163c027e52bddbeca9ff5f5ebaa29b1e96d2db2092ab4c889f1fb51e35
   last_checked: '2026-07-18'
   notes: Protest of
 - id: oar-125-249-0460
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0460
-  sha256: afe3a0e0fae4be408a86847d8f6d63ca0d5e86b8bb86ddaf151dc31c57b2d7f9
+  sha256: 6822657eb7031cd22d5eaa9df79a270579ee0c85148668287a4a6fc159537eda
   last_checked: '2026-07-18'
   notes: Performance and
 - id: oar-125-249-0470
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0470
-  sha256: f759da49c5b519d6d0a19441383b81564782023b2da56ad08b57a2b968549fdb
+  sha256: da446ed8152d81f99003a7b672b60077ec34adbf4a93eaf27b2916b17e1ca92e
   last_checked: '2026-07-18'
   notes: Substitute
 - id: oar-125-249-0490
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0490
-  sha256: f29f906096de276f9f4620c3df787df62e933880ec8f008639c1e88069cbe22e
+  sha256: a90504a3b0e85e4ada3a49a2355ccdfcdce63e16645b49857b5c87ff4ee9235a
   last_checked: '2026-07-18'
   notes: Foreign
 - id: oar-125-249-0600
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0600
-  sha256: 3881fcfd1140b98c982d0d107ee4de76b8d3d7eafd9681ed01f1601853ae931e
+  sha256: 5c2ce7f4e031e8f28993861fdd0e94fbaf0e8b70e256ed300830535def2d9a77
   last_checked: '2026-07-18'
   notes: Alternative
 - id: oar-125-249-0610
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0610
-  sha256: 9d6f940e93d9013e244330c1f63c0cfa50803ba944ac8509b880dc989a38ea4f
+  sha256: 2ac65265630dd6ef3332b7d4d8f6ca2d897fe7013856b629cf79ecf053e59bce
   last_checked: '2026-07-18'
   notes: Definitions for
 - id: oar-125-249-0620
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0620
-  sha256: 024b40b7655cd0b1da9ed8d4d201dec8d09264b85c1eac21a9707f908939e92f
+  sha256: 2d2cedbcc50bc99f45ac263c9bd2f36ecc2db71bce4cebd9912023f0a8b748ec
   last_checked: '2026-07-18'
   notes: Use of
 - id: oar-125-249-0630
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0630
-  sha256: 3ec65d778bcc2ce2422a4304c53a04779ab0c3586ba7ea23f24b208faa0c4cd5
+  sha256: e18dbfb3e327ed699cde4e1e5ad781a54c587cda1d9bf31fbb5eae3159d45807
   last_checked: '2026-07-18'
   notes: Findings,
 - id: oar-125-249-0640
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0640
-  sha256: 1063e18c228d45d2d61dc73caecf3696d1e75dfb265ec2aa0a2cd4d74fd8898f
+  sha256: a5154a82d69a63d07d18ec69053e3ef178dfb6dca0443637a713dbbddf39fd53
   last_checked: '2026-07-18'
   notes: Competitive
 - id: oar-125-249-0645
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0645
-  sha256: 353f48338ac5d07337b2facbfede7dd79e581de88fd9531ff2ed41007363eb7e
+  sha256: 6559a662e658fc48af6941e672304fd78688f2f7bed2f5baaf7ecea4735c2845
   last_checked: '2026-07-18'
   notes: Requests for
 - id: oar-125-249-0650
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0650
-  sha256: c61e18a85cbe8f8697a41d7195c19778a77bedb21fb4cc7f4727d0cba616b0b1
+  sha256: e8985040a4579747bca83bd987006962cf3e1a6bd9cab9f7550a1a9b17fe9f19
   last_checked: '2026-07-18'
   notes: Requests for
 - id: oar-125-249-0660
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0660
-  sha256: 6bd48d0b156bd06bccf34fd97dc0e91ed6a40ab99456798a33cdc85722078526
+  sha256: 10028f1126d561343e39cdbe242ba9afeacfa2b5d50b1a0b7b2ea4e1637a6be7
   last_checked: '2026-07-18'
   notes: RFP
 - id: oar-125-249-0670
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0670
-  sha256: baff6f5d9828a4ba10f92dc70710ecb98a8e172dcc5bfccc327994ebfb198e12
+  sha256: c3bd4dc6e0f72b97db7fc0f8a36ac08c13aff639cbe02097d2f7684515744f4d
   last_checked: '2026-07-18'
   notes: Design-Build
 - id: oar-125-249-0680
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0680
-  sha256: 53df1cc7699ef9ddc3d8709f1ce6f885440e118e15bfebf197d332a6df07fd7a
+  sha256: 72f8ea2b9c10c356cbf50a9967b739dab508abb7505280bb7b21606958402849
   last_checked: '2026-07-18'
   notes: Energy
 - id: oar-125-249-0690
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0690
-  sha256: 3ca692bca57c9c0212601be2960bcb5152b1c63d2e5099c88157790cdbff52ad
+  sha256: c4ffa9667879731936a1410f6a6deb84b1bf8cdd1a0c2af0313b43198e470a61
   last_checked: '2026-07-18'
   notes: Construction
 - id: oar-125-249-0800
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0800
-  sha256: 69e68af63701894a701cf42f31f471d57aa741f2c05f9208129e97b4100c4a65
+  sha256: 5dc6c3b8f4e6172c0faa602843e73307ff995dd9a58e4086ff39d8360025f30f
   last_checked: '2026-07-18'
   notes: Required
 - id: oar-125-249-0810
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0810
-  sha256: 55d2a47c054dd2e9bc4ee11909c6da85e138c5eee5a704717496ab6b9d4e2e36
+  sha256: d3d7611193d668b6c2daa348b5a07c4bc9eea95ab493f11361eae37abe429b1d
   last_checked: '2026-07-18'
   notes: Waiver of
 - id: oar-125-249-0815
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0815
-  sha256: 8c7d0ea36e5a7c8afec84aaad9f9346626102476ac4401e2777b8b2859e3f999
+  sha256: 2b11047f5c9ca1b4d1f5015b70fd6bd6bf99e896020ebd4089798322962865d0
   last_checked: '2026-07-18'
   notes: BOLI
 - id: oar-125-249-0820
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0820
-  sha256: f8bcc37a8428b9e11f4fb79fa63694f2a95f4a228320d605adf92ba2efc130a5
+  sha256: b0413990f45eac5aafceda2daaa6f37c637b3a5ec143d89581e5ad5b35889bc5
   last_checked: '2026-07-18'
   notes: Retainage
 - id: oar-125-249-0830
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0830
-  sha256: b1c8522af51c31e48c1efa4aff250218d876b676aa954ef623de008b30e2633d
+  sha256: b3a3b5d0d7713c00d168dabab1149700262cbc969c7bb8dd9eca402b9eda87e4
   last_checked: '2026-07-18'
   notes: Contractor
 - id: oar-125-249-0840
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0840
-  sha256: c5790dc87cae01da97fae4f3b0a30695470f7d73ad12eecd08e272e954e547c9
+  sha256: 649ab6672d940848088af1f40041d99ef57af1ffe4fd6fca4e1e4f3141eb6ba9
   last_checked: '2026-07-18'
   notes: Interest
 - id: oar-125-249-0850
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0850
-  sha256: 77f95701bee88a97d9755f1de20de1dc1a55652c831bf0db556729f6183100d7
+  sha256: 8d6ff3916b6be3eca486941008da2a9169f0244522f2cd6521e2973b2c0ea57b
   last_checked: '2026-07-18'
   notes: Final
 - id: oar-125-249-0860
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0860
-  sha256: 4dce24deb504dd2eef23b7dec0f4966c98d9146b75829f39f55f88d45f0a1f62
+  sha256: 3a0ff19721dfddcadbcae8576719238fee8eade58b1a148115290d280868beb2
   last_checked: '2026-07-18'
   notes: Public
 - id: oar-125-249-0870
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0870
-  sha256: ab26cab1ef546fefd65b81868882fc6d33a0c93e2e8a66c40addda5c3721b9e7
+  sha256: 3e43e0080f09ffee279280c43364501f264e835fae46a7e8d0e2ca84354ed759
   last_checked: '2026-07-18'
   notes: Specifications;
 - id: oar-125-249-0880
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0880
-  sha256: 45aa520270d87a1e3bbb5b239a9ee163a4b86f2fed921f8571c017597a8f78e9
+  sha256: b52a050ad0ac42d8681f130e10dd72321586b71735c0f686ee71e2301fa96702
   last_checked: '2026-07-18'
   notes: Records
 - id: oar-125-249-0890
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0890
-  sha256: 6dc4cc5f2f391a0e099ecd55b6ce813dce34b3e0967dac4a6514e93d24766f81
+  sha256: c57bf5d31d6f74cbfe9c7dd1cc2a6d16a0f43724cda235db4fb9964bd94e6fee
   last_checked: '2026-07-18'
   notes: Authorized
 - id: oar-125-249-0900
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0900
-  sha256: 3d48233a6ff42b2351497682b6797fb3d259d65cdc44084694f5c36f3d161deb
+  sha256: 786936be085dedbeee760968e7969564a5417e748426114a72c9ad9f6c5dcb7b
   last_checked: '2026-07-18'
   notes: Contract
 - id: oar-125-249-0910
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-249-0910
-  sha256: 2c519e34808e410eba70d2296fe78608134fa1feb32a36be325bf134886aa834
+  sha256: c7d21968fada4a0eb455e879e9af65b9e523ec9ae883d777279a12e592c8679c
   last_checked: '2026-07-18'
   notes: Changes to the
 - id: oar-125-300-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-300-0200
-  sha256: 85423e161795d9894a4972b4af87976104386b5c1abf8f964c8c94967c4a1968
+  sha256: ede70f4ba67f6651ef58b8f8ab0000358ba367a571de657a4dc9743d36a556b2
   last_checked: '2026-07-18'
   notes: Purpose,
 - id: oar-125-700-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-700-0010
-  sha256: 7c5483b57826c7dac595132ed1670e9fec7fdbca6a7c2602433161712f578e07
+  sha256: 3a94424e1ac8af6f73882299b334ea5fbed9ec798a64cc51009e392f7f2a57a9
   last_checked: '2026-07-18'
   notes: Purpose
 - id: oar-125-700-0015
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-700-0015
-  sha256: 1d6193b514c2f8c6a9444a39bf3aea4027342d211f5c5b058c8195f30336b2ef
+  sha256: 3ede18c72295b54991a7b48dd38142418c9c4bbd7b8f6f975c11c347141d7f21
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-125-700-0125
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-700-0125
-  sha256: 95f91e2b7d2a17d276f63a0a5c6472f502794f6af1545397d687681637b3c041
+  sha256: 6e5c8be16935ee757f8fa15e673f219d6125f22c8c3a6d2c8dc0cddcbddff465
   last_checked: '2026-07-18'
   notes: Internal
 - id: oar-125-700-0135
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-700-0135
-  sha256: 7bcff5730afcfdbc440fb01ad2f939b1f7be8d217add93b070c100ff6b20d8c4
+  sha256: ad19b1cf91b55d36a14089a46ec402db52a8470fec4ecbda222dc255b56ef49b
   last_checked: '2026-07-18'
   notes: Agency
 - id: oar-125-700-0140
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-700-0140
-  sha256: 8a700b7ba44c324a4458cee6cf19ae2b36db0a516235060b1795fcc525f4a0cb
+  sha256: 8936beffd6dd45ca5123f93cd5c538b8470efa430d9f1332bbb64c0153957dc9
   last_checked: '2026-07-18'
   notes: Planning and
 - id: oar-125-700-0145
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-700-0145
-  sha256: 842868f7fb2d7b27f4268e3682bfa9538c65ec4c8c053faa5fd596fcba05a880
+  sha256: 287d2326237a6b141f4f2eb63109f87970ba3c0277b96486d763dfe7bfa5142d
   last_checked: '2026-07-18'
   notes: External
 - id: oar-125-700-0150
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-700-0150
-  sha256: 5abfaee176f3203d130a1b39725e19ff09b05333f329b050fe94e928c1c286e2
+  sha256: 35146c2ed7030929ba3604e21fbd7bd917d5c3a3dc7c446bfd62810aff357ffd
   last_checked: '2026-07-18'
   notes: Internal
 - id: oar-125-700-0155
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-700-0155
-  sha256: 9f86c607b3f960aba1071f464b18a53445f895286d583118c33c9043fc54894a
+  sha256: 127d0168551e38d84834aa611839a8c2ce0edc1e985453bc61c589c7ed681cc8
   last_checked: '2026-07-18'
   notes: Audit
 - id: oar-128-010-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-010-0005
-  sha256: 10aac91b4a5c29fb62af8435c0369b718b683421cb23515849109679980e70e3
+  sha256: 1e744db1160bdefb57d3020e00e5ee8391d7e9f77d0309cbbc3033cb11a05649
   last_checked: '2026-07-18'
   notes: Purpose
 - id: oar-128-010-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-010-0010
-  sha256: cdd21d92f3471cd23d246cc7b4b7bd314123354868d6c6a8018ff9648daac184
+  sha256: a70b4426384d03596e1f93627d390bb990485385fc2e0ba00d9decfe286297e4
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-128-010-0015
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-010-0015
-  sha256: fdb1316fc89cf10a5b6511bae5d63047c245e35518dcf5f9dfa3cab66b825614
+  sha256: a7fdc04c57da46f15ae83dd89f68102bc89b238d6b5d05e97c7147d3419ebfbd
   last_checked: '2026-07-18'
   notes: Duties of the
 - id: oar-128-010-0020
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-010-0020
-  sha256: efd2bcaa64705066818986763abd0716b437f606d39f9cc5cc8e381dad9040d9
+  sha256: 2d23c1263952b6e5ac32455ac421ec1f8d1cea3332518006612e5e555a535f25
   last_checked: '2026-07-18'
   notes: Minimum
 - id: oar-128-010-0025
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-010-0025
-  sha256: 288de2b711dd1ca3fed369082176c1a5f7daf4f0314d41d8820a7840848a969d
+  sha256: 11cfa197f62721491cd6bd32ed17f857ea32e55cf30fcf61199b37832bfd0e54
   last_checked: '2026-07-18'
   notes: Eligibility
 - id: oar-128-010-0030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-010-0030
-  sha256: 080fe0c3bca5a1343a32abe2c4a6856587055222069f75d95d697286893f3839
+  sha256: ed2d8030f88a82815cbff9c3d76de00407fc4aa8e6f7285476bb4cf5fd6649e8
   last_checked: '2026-07-18'
   notes: Service
 - id: oar-128-010-0035
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-010-0035
-  sha256: f0022f916f6fa2f41178e15b0492b32cf23e3db36a70186b7952c2946f5fb5ce
+  sha256: 2de39e16fa925b954de738a8a1a49d766c3b3b661d5cf4edfc8a36c122a38290
   last_checked: '2026-07-18'
   notes: Opportunity
 - id: oar-128-010-0040
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-010-0040
-  sha256: 80cc1299495aa150a1d3db9ec5d433f16b5ac765cc51d9b1a542cae71f8faeff
+  sha256: a1bac36db034f50166c791f301a3516a020872eb08d22a5f6935a1cf88d651d2
   last_checked: '2026-07-18'
   notes: Review of the
 - id: oar-128-010-0045
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-010-0045
-  sha256: 86d9102d65b92d96051cc17eae4577ccea7a560ef5bda2515b78aaa9cd80b8ed
+  sha256: 77f393adfe86f82bf2dbf9ad7bda26aa08b0feb6afa85409b4c5620f2c89c371
   last_checked: '2026-07-18'
   notes: Community of
 - id: oar-128-010-0050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-010-0050
-  sha256: bc0792de86bc66e48521d9c7ef6894adeaae5ac5ee6b789df498a01163733d6f
+  sha256: dcc6d0f864db7874276e3a3f522ed05371c58bbd05154517cbeab9236063e313
   last_checked: '2026-07-18'
   notes: Appeals A
 - id: oar-128-020-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0005
-  sha256: 8659850ebdd9677ebc8407b6a238ae15d9673a121206acffc30bfa7ab308141a
+  sha256: 9aef0d6570fe7394ab5811f141d586f6b03774135690744e51e606d858e70750
   last_checked: '2026-07-18'
   notes: Purpose
 - id: oar-128-020-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0010
-  sha256: ccd9388964e7cad1a149b2578b208fb86261c05c2e19bceed5a307f436aabafa
+  sha256: 89ee56743f757146d2b1ee0c5f7aae4dc632c99c1b2ba428a22a8c495b9a9a68
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-128-020-0015
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0015
-  sha256: 48ac6b89a65b6ace42f05a6bc01f5129c044118bae5a2c0fcb9310cba1288939
+  sha256: 2631fed4198630e61a12e76ce461da7a8f75037052b499cfc87dbf5990803471
   last_checked: '2026-07-18'
   notes: Covered
 - id: oar-128-020-0020
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0020
-  sha256: c1c97e2631e5501914e92930db89e906208ccb06e93611b9c36092b54ea88793
+  sha256: 2c4ef74ad2c301619f95087fbced66098711d96dd52a57c6438d0001dc9e719e
   last_checked: '2026-07-18'
   notes: Designation
 - id: oar-128-020-0025
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0025
-  sha256: affb26d1f501e1130ba1f4336cdf6f5b7586aed178d7bb82644f41b30eec36aa
+  sha256: 4c1c60c5b0eaafd208ce6c6ed122b5d0328f00986d084881cb6302acf8d7cb6b
   last_checked: '2026-07-18'
   notes: Designation
 - id: oar-128-020-0030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0030
-  sha256: 2af3e290aee504ec9391329349d3ea5de2b2fdc9e930b5d889ee9c659c8ccdc6
+  sha256: 3139f8e7b22bd7a207fd76f4ff7baa32b792ec684a57e39fbbe811d50148e94a
   last_checked: '2026-07-18'
   notes: De-Designation
 - id: oar-128-020-0035
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-020-0035
-  sha256: bc18fcd30b39ea45631aae2ee9f34334b26447aea1f2d75b7ac78ed15309338e
+  sha256: 31103d73cd26c4a02a0cd0f6367c7cd956327bd8ef454a0f6613508d81f78d4f
   last_checked: '2026-07-18'
   notes: De-Designation
 - id: oar-128-030-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-0005
-  sha256: 976949c2a41585f6ccb8a81c0f81d7c6f9a70f902b21c597eb7e024314910b86
+  sha256: 52929c325fde60173ed08b799c94263f600674360ef99d5efc2fb006cf593a78
   last_checked: '2026-07-18'
   notes: Purpose, Application, and Authority
 - id: oar-128-030-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-0010
-  sha256: 39ce488b8f8effbdc18ecd8e4dc1a05b1525d3833a9313cdde2d22badbc825fb
+  sha256: bf5a640b58767575978925364b33764b55633e1be18c204f05b2df249e296cbb
   last_checked: '2026-07-18'
   notes: Definitions
 - id: oar-128-030-0020
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=128-030-0020
-  sha256: 9d3d617bfe1ac049bcdba3725dabb0f6aadbf7e39a8ec3fab1e6e5a98de745a3
+  sha256: a10192b7bffa95651945db1a42653e7309791dbeacef972577ea4a91c86c010d
   last_checked: '2026-07-18'
   notes: State Information Security
 - id: oar-128-040-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-600-7550
-  sha256: 2ce801ecdb3b99ecf3592ffe3b096727ea5baa47e4e8a1d13dd7974ab38b0509
+  sha256: 15160caab4765ea54f16323f8c40d96b2fbe63c4234fa1c78e5bba37a6131e8e
   last_checked: '2026-07-18'
   notes: Enterprise
 - id: oar-128-050-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=125-600-0005
-  sha256: 7211b1a336058d47f038fc029c632360d43b903b5fad27186828a364c5cef891
+  sha256: 749cff5d0f123c604e1691052eee935ab4530e48b81bad4d88219c86ba9f6180
   last_checked: '2026-07-18'
   notes: Guidelines for

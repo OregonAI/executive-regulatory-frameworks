@@ -222,8 +222,6 @@ criteria for readiness to transition
  
  
  
- v2.1.7
- 
  
  
  

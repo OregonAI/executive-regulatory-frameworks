@@ -168,8 +168,8 @@ def refresh_document(md_path: Path, today: str) -> str:
         subprocess.run(["pdftotext", "-layout", str(raw_path),
                         str(SNAPSHOT_DIR / f"{snap_id}.txt")], capture_output=True)
     elif fmt in ("html", "xml"):
-        from html_to_text import html_to_text
-        (SNAPSHOT_DIR / f"{snap_id}.txt").write_text(html_to_text(raw), encoding="utf-8")
+        from repo_lib import snapshot_text
+        (SNAPSHOT_DIR / f"{snap_id}.txt").write_text(snapshot_text(raw), encoding="utf-8")
 
     text = md_path.read_text()
     text = re.sub(r'^retrieved: .*$', f'retrieved: "{today}"', text, count=1, flags=re.M)
