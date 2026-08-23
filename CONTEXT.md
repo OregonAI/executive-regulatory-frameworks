@@ -229,10 +229,17 @@ by action and by corpus state, every filing `check_bulletin.py` could not open, 
 renumber whose destination the filing did not state, all 121 rules missing from a chapter
 this corpus mirrors BY NUMBER rather than as a total, and the disagreement between the
 Bulletin and hashing. It is written by `src/bulletin_report.py`, runs from
-`.github/workflows/bulletin-report.yml` on the 6th of each month, re-fetches nothing, writes
-nothing in the repository, and files NO issue at all from a run holding no finding. Every
-command typed by hand is a dry run; only `--file-issue` reaches the tracker, and it is
-idempotent by title so a second run in the same month finds the first run's issue.
+`.github/workflows/bulletin-report.yml` on the 6th of each month — the Bulletin's first
+BUSINESS day is as late as the 4th — writes nothing in the repository, and files NO issue at
+all from a run holding no finding. Every command typed by hand is a dry run; only
+`--file-issue` reaches the tracker, and it is idempotent by title so a second run in the
+same month finds the first run's issue. IT READS THE COMMITTED WORKLIST AND CANNOT WRITE
+ONE, so A MONTH NOBODY HAS RE-READ IS ITS LOUDEST FINDING: `months_unread()` counts the
+bulletins published since the committed one and the issue leads with the count. Without it
+the September run rebuilds August's report, matches August's issue title and exits 0 having
+filed nothing — a green run for a month nobody read, indistinguishable from a month with
+nothing in it. The module itself fetches nothing; the hash observation is produced by a
+separate step of that workflow.
 _Avoid_: Drift report, worklist — the first is `corpus-detect-changes`'s per-source ticket
 and this reports the DISAGREEMENT with it, and the second is the file this reads
 
@@ -360,7 +367,10 @@ in chapters 105, 122, 125 and 128, and the August 2026 bulletin named 534 rules 
 chapters, so THE OVERLAP IS ZERO (#247) and for every rule that bulletin named there is no
 observation at all. A rule's absence from the drift file is therefore never read as "the
 hash did not move"; `bulletin_report.py` claims *filed but not yet served* only for a rule
-the manifest watches and the run compared, and everything else is reported as not checked.
+the manifest watches AND that carries a recorded baseline to differ from, and everything
+else is reported as not checked. The file lists only what CHANGED, so a source whose fetch
+failed is absent from it exactly as an unchanged one is and the without-alarm section says
+so (corpus-toolkit#160).
 An absent `changed-sources.tsv` is a distinct answer again — nobody hashed anything — and is
 byte-identical to the file a corpus with no drift produces.
 _Avoid_: Change detection, hash check — both suggest a verdict where this is a reading

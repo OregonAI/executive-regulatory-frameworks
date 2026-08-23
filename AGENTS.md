@@ -417,8 +417,14 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   corpus state, every filing the reader could not open, every renumber with no stated
   destination, all 121 rules missing from a chapter this corpus mirrors BY NUMBER, and the
   disagreement between the two signals. `.github/workflows/bulletin-report.yml` runs it on
-  the 6th of each month, after the Bulletin's first business day and a day after
-  `scheduled.yml`'s drift run on the 5th. ONE ISSUE PER RUN, NEVER ONE PER RULE: 549 rule
+  the 6th of each month — the Bulletin's first BUSINESS day is as late as the 4th (the 1st
+  a Saturday, the 2nd a Sunday, the 3rd a Monday holiday) — and produces its own hash
+  observation in a step before the report. A MONTH NOBODY HAS RE-READ IS ITS LOUDEST
+  FINDING: the module reads the COMMITTED worklist and holds `contents: read`, so it cannot
+  fetch a new bulletin, and `months_unread()` counts the ones published since and puts the
+  count at the top of the issue — without it the September run rebuilds August's report,
+  matches August's issue title and exits 0 having filed nothing.
+  ONE ISSUE PER RUN, NEVER ONE PER RULE: 549 rule
   actions against a 25-issue cap makes per-rule filing a way of reporting 25 of them
   (corpus-toolkit#67). A RUN WITH NOTHING TO REPORT FILES NO ISSUE, and `--check` fires that
   rule in BOTH directions — a `should_file` that always says no satisfies the criterion by

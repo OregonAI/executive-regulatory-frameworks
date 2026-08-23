@@ -51,11 +51,13 @@ cause -- and it is the manufactured-absence failure inverted, which is the thing
 exist to prevent.
 
 WHAT THIS RUN NEVER DOES. It files at most ONE issue, and files none at all when there is
-nothing to report; it writes no file in the repository and pushes no commit; it FETCHES
-NOTHING ITSELF -- the Bulletin reading is `check_bulletin.py`'s committed worklist and the
-hash reading is whatever `changed-sources.tsv` a drift run already left in the working
-tree, so `--check` and `--report` touch the network in no mode; and it files nothing unless
-`--file-issue` is passed, so the default of every command anybody types by hand is a dry run.
+nothing to report; it writes no file in the repository and pushes no commit; THIS MODULE
+touches the network in no mode -- the Bulletin reading is `check_bulletin.py`'s committed
+worklist and the hash reading is whatever `changed-sources.tsv` it finds in the working
+tree, so `--check`, `--report` and `--file-issue` all fetch nothing (the crawl that
+produces that file is a SEPARATE STEP of `bulletin-report.yml`, before this one, and
+`the-scheduled-run-fetches-the-group-this-reader-joins` is what holds the two together);
+and it files nothing unless `--file-issue` is passed, so the default of every command anybody types by hand is a dry run.
 
 WHAT `--check` READS, AND WHY IT IS NOT SATISFIABLE BY REPORTING LESS. Every rule about the
 report's SHAPE is satisfied by a report that carries nothing. So the gate reads the NOTICE
@@ -63,11 +65,13 @@ report's SHAPE is satisfied by a report that carries nothing. So the gate reads 
 coverage-gap rule it names, and that the counts partition its rows exactly. A report that
 dropped the 121 missing-from-mirrored-chapter rules would pass every other rule here."""
 import argparse
+import ast
 import json
 import re
 import subprocess
 import sys
 from collections import Counter, namedtuple
+from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -119,14 +123,27 @@ DRIFT_WORKFLOW = REPO_ROOT / ".github/workflows/scheduled.yml"
 # `scheduled.yml`'s monthly drift run on the 5th, because this report READS that run's
 # `changed-sources.tsv` and a report that ran first would have no hash reading at all.
 CRON = "0 15 6 * *"
-EARLIEST_DAY = 2
+# THE EARLIEST DAY A RUN CAN HONESTLY CLAIM TO HAVE READ THIS MONTH'S BULLETIN. The first
+# BUSINESS day is as late as the 4th: the 1st a Saturday, the 2nd a Sunday, the 3rd a
+# Monday holiday. A run before it reads LAST month's bulletin and reports it as this
+# month's -- and `check_bulletin.bulletin_date()` takes the same care in the other
+# direction, using the 1st as the EARLIEST a named bulletin can exist. Set to 2 this
+# guard passed a cron on the 2nd and the 3rd, both of which can precede publication:
+# the number has to be the latest the Bulletin can appear, not the earliest.
+EARLIEST_DAY = 4
 
 # THE SHARE OF COMPARED SOURCES ABOVE WHICH A MOVE IS THE GROUP'S AND NOT ANY RULE'S.
-# Same number and the same argument as `check_bulletin.SYSTEMIC_SHARE` and the toolkit's
-# systemic-failure threshold: individual things fail individually, and a fifth of them
-# failing at once is one event with one cause. A genuinely unannounced rule change is rare
-# -- 484 of them in a month is a template, a footer, or a stale baseline (#244), and naming
-# them one by one publishes ~484 confident false findings under provenance.
+# A genuinely unannounced rule change is rare -- 484 of them in a month is a template, a
+# footer, or a stale baseline (#244), and naming them one by one publishes 484 confident
+# false findings under provenance.
+#
+# NOT `check_bulletin.SYSTEMIC_SHARE`, WHICH HOLDS THE SAME NUMBER AND MEANS SOMETHING
+# ELSE, and deliberately not derived from it. That one is the share of a month's filings
+# that may be UNREADABLE before the run is called a failure -- a threshold on fetches that
+# did not succeed. This one is a threshold on fetches that all succeeded and all disagreed
+# with their baseline. Two facts that happen to have been set to the same value; gating
+# their agreement would make a future argument for moving one an argument for moving the
+# other, which is the collapse CONTEXT.md's *Group-wide move* entry warns about by name.
 GROUP_WIDE_SHARE = 0.20
 
 # The one issue a run files, and the strings that make a second run recognise the first.
@@ -153,6 +170,14 @@ REGENERATE = "python3 src/bulletin_report.py"
 # and a search that finds nothing returns the same clean answer as one that finds
 # everything in order.
 LOUD_HEADING = "## Changed with nobody announcing it"
+# WHAT THE LOUD SECTION SAYS WHEN THERE WAS NOTHING TO OBSERVE, declared rather than left
+# as prose. `no-observation-is-not-no-disagreement` reads it back, and a gate that matched
+# on a sentence would go quiet the first time somebody reworded the sentence -- which is
+# the failure mode of every check that greps for English.
+NOT_COMPUTED = "**Not computed.**"
+# A per-rule count of anything, in the section that must carry none when no source was
+# compared. Structural, so it survives a rewording that keeps the claim.
+A_COUNT_OF_RULES_RE = re.compile(r"\b\d+ rule\(s\)")
 UNCHECKED_HEADING = "## Could not check"
 CALM_HEADING = "## Filed, no movement observed (no alarm)"
 COUNTS_HEADING = "## Counts"
@@ -193,6 +218,7 @@ CHECK_RULES = (
     "a-group-wide-move-is-not-per-rule-notice",
     # the two facts that live in workflow files
     "the-reader-runs-on-the-bulletins-cadence", "hash-drift-still-runs",
+    "the-scheduled-run-fetches-the-group-this-reader-joins",
     "the-drift-observation-is-the-file-the-toolkit-writes",
 )
 
@@ -209,6 +235,32 @@ class Census(namedtuple("Census", "bulletin url retrieved filings rows by_action
     report -- which is the one way a report like this passes by carrying less."""
 
     __slots__ = ()
+
+
+def months_unread(bulletin: str, today) -> int:
+    """How many bulletins have been published since the one this worklist reports.
+
+    THE PREMISE OF THE WHOLE SERIES IS THAT THE MECHANISM STOPS DEPENDING ON ANYBODY
+    REMEMBERING, and without this it still does. `bulletin_report.py` reads the COMMITTED
+    worklist; `check_bulletin.py` -- the thing that fetches a new one -- writes a file, and
+    a scheduled job may not commit one, so nothing on a cron reads September's bulletin.
+    Left alone, the 6 September run rebuilds August's report, matches August's issue title,
+    prints `already filed` and exits 0: A GREEN RUN THAT FILES NOTHING, for a month nobody
+    read. That is a quiet month and an unread one producing the identical outcome, which is
+    the substitution this repository refuses.
+
+    So the run counts them and REPORTS the count. It is not a `--check` rule: that gate runs
+    on every pull request, and a rule that goes red the moment the month turns would block
+    every unrelated change until somebody re-ran the reader -- #245's shape, a gate red for
+    a reason nobody's patch caused. The mechanism is what `--check` gates; the fact is what
+    the issue carries.
+
+    Dates come from `check_bulletin.bulletin_date()`, the one place that knows a bulletin
+    is named for the month it appears in."""
+    published = check_bulletin.bulletin_date(bulletin)
+    if published is None:
+        return 0  # unreadable -- `check_bulletin.py --check` owns that failure
+    return max(0, (today.year - published.year) * 12 + today.month - published.month)
 
 
 def census(worklist) -> Census:
@@ -282,20 +334,28 @@ def check_census(c: Census, actions, states) -> list:
 # --------------------------------------------------------------- what the hashing observed
 
 
-class Observation(namedtuple("Observation", "moved watched compared unjoinable unseeded")):
+class Observation(namedtuple("Observation", "moved watched seeded unjoinable unseeded")):
     """What one `corpus-detect-changes` run saw, joined to rule numbers.
 
-    `moved` is rules whose fetched bytes differed from a RECORDED baseline. `compared` is
-    how many watched sources had a baseline to differ from -- the denominator of the
-    group-wide share, and the only honest one: a source with no baseline reports CHANGED
-    every run and is not a changed source (ADR 0010, corpus-toolkit#145), so `unseeded`
-    is held apart rather than folded into `moved`.
+    `moved` is rules whose fetched bytes differed from a RECORDED baseline. `seeded` is the
+    watched rules that HAD a baseline to differ from -- the denominator of the group-wide
+    share, and the only honest one: a source with no baseline reports CHANGED every run and
+    is not a changed source (ADR 0010, corpus-toolkit#145), so `unseeded` is held apart
+    rather than folded into `moved`, and a source that is watched but unseeded is not one
+    this run may say held still.
 
     `unjoinable` is watched sources whose id names no rule number. They are carried rather
     than dropped: a manifest that grew a chapter-level or index source would silently
     shrink the universe this report believes it is watching."""
 
     __slots__ = ()
+
+    @property
+    def compared(self) -> int:
+        """How many sources this run could have seen move. DERIVED from `seeded` rather
+        than carried beside it: a denominator stored separately is one that can disagree
+        with the set it is meant to count."""
+        return len(self.seeded)
 
     @property
     def share(self) -> float:
@@ -335,14 +395,15 @@ def read_drift(path: Path, manifest) -> Observation:
     a broken fetcher and a quiet month both produce."""
     by_rule, unjoinable = watched_sources(manifest)
     ids = {sid: number for number, sid in by_rule.items()}
-    # THE DENOMINATOR MATCHES `moved`'s UNIVERSE. Only a source that this join can reach
-    # AND that carries a recorded baseline could ever land in `moved`, so counting the
-    # others here would make the group-wide share smaller than the fraction of things that
-    # actually moved -- a threshold quietly harder to cross, in the direction that lets the
-    # per-rule claim through.
-    compared = sum(1 for s in (manifest.get("sources") or [])
-                   if str(s.get("sha256") or "").strip()
-                   and SOURCE_ID_RE.match(str(s.get("id") or "")))
+    # THE DENOMINATOR MATCHES `moved`'s UNIVERSE, AND IT IS A SET RATHER THAN A COUNT. Only
+    # a source this join can reach AND that carries a recorded baseline could ever land in
+    # `moved`. As a count it made the group-wide share smaller than the fraction of things
+    # that actually moved -- a threshold quietly harder to cross, in the direction that
+    # lets the per-rule claim through -- and, worse, it could not say WHICH rules had a
+    # baseline, so a watched-but-unseeded rule the Bulletin named was reported as one whose
+    # hash held still. It never was compared to anything.
+    seeded = {ids[str(s.get("id"))] for s in (manifest.get("sources") or [])
+              if str(s.get("sha256") or "").strip() and str(s.get("id")) in ids}
     try:
         raw = path.read_text()
     except OSError:
@@ -353,7 +414,7 @@ def read_drift(path: Path, manifest) -> Observation:
         if len(cols) < 4 or cols[0] not in ids:
             continue  # another group's source, or a row this join has no rule for
         (moved if cols[2].strip() else unseeded).add(ids[cols[0]])
-    return Observation(moved=moved, watched=set(by_rule), compared=compared,
+    return Observation(moved=moved, watched=set(by_rule), seeded=seeded,
                        unjoinable=unjoinable, unseeded=unseeded)
 
 
@@ -390,9 +451,11 @@ def classify(named: set, observation: Observation) -> Disagreement:
     if observation is None:
         return None
     watched, moved = observation.watched, observation.moved
-    # Only a WATCHED rule can be said not to have moved; `compared` gates the claim once
-    # more, because a run with no baselines compared nothing at all.
-    comparable = watched if observation.compared else set()
+    # THE ONLY RULES THIS RUN MAY SAY HELD STILL. Watched is not enough: a source with no
+    # recorded baseline was compared to nothing, and one this run reported as unseeded was
+    # compared to nothing on this run either. Both are absent from `moved` for a reason
+    # that is not "the bytes are the same".
+    comparable = (watched & observation.seeded) - observation.unseeded
     unannounced = sorted(moved - named)
     group_wide = observation.group_wide
     return Disagreement(
@@ -402,7 +465,10 @@ def classify(named: set, observation: Observation) -> Disagreement:
         withheld=unannounced if group_wide else [],
         agreement=sorted(named & moved),
         filed_not_moved=sorted((named & comparable) - moved),
-        not_watched=sorted(named - watched),
+        # EVERY NAMED RULE THIS RUN HAS NO READING FOR -- not watched at all, or watched
+        # with nothing to compare against. Both are `could not check`, and the section that
+        # prints them says which.
+        not_watched=sorted(named - comparable - moved),
         quiet=len(comparable - moved - named),
         group_wide=group_wide, share=observation.share, compared=observation.compared,
     )
@@ -417,14 +483,19 @@ def check_disagreement(named: set, observation: Observation, d: Disagreement) ->
     failures = []
     if d is None:
         return failures
+    comparable = (observation.watched & observation.seeded) - observation.unseeded
     for n in d.filed_not_moved:
-        if n not in observation.watched:
+        if n not in comparable:
+            why = ("no source in the manifest watches it" if n not in observation.watched
+                   else "the source that watches it carries no recorded baseline"
+                   if n not in observation.seeded
+                   else "this run reported its source as having no baseline to compare")
             failures.append(Failure(
                 "an-unwatched-rule-is-not-an-unchanged-one", n,
-                "was filed against by the Bulletin and no source in the manifest watches "
-                "it, so no hash was compared. Reporting it as `filed, not yet served` "
-                "reads its ABSENCE from the drift file as an observation that it held "
-                "still -- could not check, published as is not there"))
+                f"was filed against by the Bulletin and {why}, so no hash was compared. "
+                "Reporting it as `filed, not yet served` reads its ABSENCE from the drift "
+                "file as an observation that it held still -- could not check, published "
+                "as is not there"))
         if n in observation.moved:
             failures.append(Failure(
                 "a-filing-with-no-movement-is-not-an-alarm", n,
@@ -471,7 +542,7 @@ def check_disagreement(named: set, observation: Observation, d: Disagreement) ->
 # ---------------------------------------------------------------------------- the report
 
 
-class Report(namedtuple("Report", "census disagreement drift_path")):
+class Report(namedtuple("Report", "census disagreement drift_path unread_months")):
     """One run's whole finding: what was filed, and where it disagrees with what moved."""
 
     __slots__ = ()
@@ -483,7 +554,9 @@ class Report(namedtuple("Report", "census disagreement drift_path")):
         say" are the same question and answering it twice is how a run files an empty
         issue -- or files none while holding a finding."""
         c, d = self.census, self.disagreement
-        out = [("changes nobody announced", len(d.unannounced) if d else 0),
+        out = [("month(s) whose bulletin NOBODY HAS READ -- the newest filings this "
+                "report knows nothing about", self.unread_months),
+               ("changes nobody announced", len(d.unannounced) if d else 0),
                ("a group-wide move, per-rule attribution withheld",
                 len(d.withheld) if d else 0),
                ("rules filed against with no hash observation at all",
@@ -530,13 +603,18 @@ def issue_body(r: Report) -> str:
          f"**{c.bulletin}** — {c.url}", "",
          f"Read {c.retrieved}; {c.filings} filing(s), {len(c.rows)} rule action(s).", ""]
 
+    if r.unread_months:
+        L += [f"> ⚠️ **{r.unread_months} bulletin(s) have been published since "
+              f"{c.bulletin} and nobody has read them.** Everything below describes "
+              f"{c.bulletin} and says NOTHING about the months since. Run "
+              "`python3 src/check_bulletin.py` and commit the worklist.", ""]
     L += ["## What this run found", ""]
     L += [f"- {n} {label}" for label, n in r.findings()] or ["- nothing", ""]
     L += [""]
 
     L += [LOUD_HEADING, ""]
     if d is None:
-        L += [f"**Not computed.** No hash observation was available — `{r.drift_path}` "
+        L += [f"{NOT_COMPUTED} No hash observation was available — `{r.drift_path}` "
               "was not written by this run, so no source was compared. That is not the "
               "same as nothing having moved: a corpus nobody hashed and a corpus where "
               "nothing changed produce the identical empty file (ADR 0006).", ""]
@@ -560,9 +638,10 @@ def issue_body(r: Report) -> str:
     if d is None:
         L += ["Every rule the Bulletin named: no hash observation exists for this run.", ""]
     else:
-        L += [f"**{len(d.not_watched)} rule(s)** the Bulletin filed against are watched by "
-              "no source in `_meta/sources/oar.yml`, so no hash was compared for them and "
-              "this run says nothing about whether their text moved.", ""]
+        L += [f"**{len(d.not_watched)} rule(s)** the Bulletin filed against have no hash "
+              "reading at all — no source in `_meta/sources/oar.yml` watches them, or the "
+              "source that does carries no recorded baseline to differ from. Nothing here "
+              "says whether their text moved.", ""]
         if d.not_watched:
             L += [f"    {line}" for line in _bullets(d.not_watched)] + [""]
 
@@ -570,9 +649,12 @@ def issue_body(r: Report) -> str:
     if d is None:
         L += ["Not computed — see above.", ""]
     else:
-        L += [f"{len(d.filed_not_moved)} rule(s) were filed against and did not move: "
-              "filed but not yet served, or served identically. Recorded, not a fault.",
-              ""]
+        L += [f"{len(d.filed_not_moved)} rule(s) were filed against, are watched, carry a "
+              "recorded baseline, and this run did not report them as moved: filed but not "
+              "yet served, or served identically. Recorded, not a fault. `changed-sources."
+              "tsv` lists only what CHANGED, so a source whose fetch failed is absent from "
+              "it exactly as an unchanged one is (corpus-toolkit#160) — a failed fetch "
+              "would land here.", ""]
         if d.filed_not_moved:
             L += [f"    {line}" for line in _bullets(d.filed_not_moved)] + [""]
         L += [f"{len(d.agreement)} rule(s) were filed against and moved (agreement); "
@@ -632,6 +714,30 @@ def check_body(r: Report, body: str) -> list:
                 "is a rule filed against in a chapter this corpus mirrors and absent from "
                 "`rules/`, and the issue body does not name it. The count alone sends "
                 "nobody anywhere"))
+    # THE ORDER, GATED RATHER THAN ASSERTED IN A DOCSTRING. `issue_body` says the loud
+    # case is first and two constants are declared for reading it back, and until this
+    # rule existed nothing in `--check` compared their positions: a reworded or reordered
+    # section passed CI with the finding buried under a 549-row census, which is
+    # corpus-toolkit#67's failure reproduced inside the fix for it.
+    where = {h: body.find(h) for h in (LOUD_HEADING, UNCHECKED_HEADING, CALM_HEADING,
+                                       COUNTS_HEADING)}
+    for h, at in where.items():
+        if at < 0:
+            failures.append(Failure(
+                "an-unannounced-change-is-reported-first", h,
+                "is a section this module declares and the body does not contain. The two "
+                "rules that read the body back find nothing, and a search that finds "
+                "nothing returns the same clean answer as one that finds everything in "
+                "the right order"))
+    if all(at >= 0 for at in where.values()) and not (
+            where[LOUD_HEADING] < where[UNCHECKED_HEADING] < where[CALM_HEADING]
+            < where[COUNTS_HEADING]):
+        failures.append(Failure(
+            "an-unannounced-change-is-reported-first",
+            " then ".join(h for h, _ in sorted(where.items(), key=lambda kv: kv[1])),
+            f"is the order this body puts its sections in. `{LOUD_HEADING}` is the one "
+            "combination that means something changed nobody announced, and a finding a "
+            "reader reaches only after scrolling past the census is one nobody reads"))
     if len(body) > BODY_LIMIT:
         failures.append(Failure(
             "the-run-files-one-issue", f"{len(body)} characters",
@@ -688,9 +794,7 @@ def check_no_observation(r: Report, body: str) -> list:
     # and a substring search over the whole body would report the coverage-gap section's
     # honest `None.` as a disagreement claim -- a guard firing on the wrong condition.
     section = body.split(LOUD_HEADING, 1)[-1].split("\n## ", 1)[0]
-    claims = [line for line in section.splitlines()
-              if "None." in line or "rule(s) moved" in line]
-    if claims or "Not computed" not in section:
+    if A_COUNT_OF_RULES_RE.search(section) or NOT_COMPUTED not in section:
         return [Failure(
             "no-observation-is-not-no-disagreement", r.census.bulletin or "this run",
             "has no hash observation and its issue body reports a disagreement result "
@@ -706,17 +810,58 @@ def check_no_observation(r: Report, body: str) -> list:
 CRON_RE = re.compile(r"^\s*-\s*cron:\s*[\"']([^\"']+)[\"']", re.M)
 
 
+def workflow(text):
+    """A workflow file's crons and its LIVE run commands, or None if it does not parse.
+
+    STRUCTURE, NOT A SUBSTRING SCAN. Both gates below used to ask whether a string appeared
+    anywhere in the file, which a COMMENTED-OUT job satisfies -- `scheduled.yml` explains
+    its own history in 60 lines of comments, and the words `--group oar` sit in them. A job
+    switched off with `if: false`, or a step commented out, would have kept both gates green
+    while nothing ran. `on:` is read under both spellings because YAML 1.1 parses the bare
+    word as the boolean True and PyYAML still does."""
+    try:
+        d = yaml.safe_load(text) if text is not None else None
+    except yaml.YAMLError:
+        return None
+    if not isinstance(d, dict):
+        return None
+    on = d.get("on", d.get(True)) or {}
+    sched = (on.get("schedule") or []) if isinstance(on, dict) else []
+    crons = [str(s.get("cron")) for s in sched if isinstance(s, dict) and s.get("cron")]
+    runs = []
+    for j in (d.get("jobs") or {}).values():
+        if not isinstance(j, dict) or str(j.get("if", "")).strip().lower() == "false":
+            continue
+        for st in (j.get("steps") or []):
+            if isinstance(st, dict) and "run" in st \
+                    and str(st.get("if", "")).strip().lower() != "false":
+                runs.append(" ".join(str(st["run"]).split()))
+    return crons, runs
+
+
+def _runs_that(runs, needle) -> bool:
+    """Whether any LIVE run step carries `needle`.
+
+    ONE PREDICATE, because two rules ask it of two different files for two different
+    reasons -- that THIS workflow produces the observation, and that the DRIFT workflow
+    keeps producing one beside it -- and a second spelling is where a flag reworded
+    upstream stops being recognised in one place and not the other."""
+    return any(needle in r for r in runs)
+
+
 def check_schedule(text) -> list:
     """The reader runs on a cron, and the cron is the Bulletin's cadence.
 
     READ OFF THE WORKFLOW FILE, because that is where the cadence actually lives -- the
     same argument `scheduled.yml`'s own header makes about `recheck:` configuring nothing.
     A schedule that exists only in a docstring is a schedule nobody is running."""
-    if text is None:
+    parsed = workflow(text)
+    if parsed is None:
         return [Failure("the-reader-runs-on-the-bulletins-cadence", str(WORKFLOW),
-                        "does not exist, so nothing runs this reader on a schedule and "
-                        "the mechanism is back to depending on somebody remembering")]
-    crons = CRON_RE.findall(text)
+                        "does not exist or does not parse, so nothing runs this reader on "
+                        "a schedule and the mechanism is back to depending on somebody "
+                        "remembering")]
+    crons, runs = parsed
     failures = []
     if CRON not in crons:
         failures.append(Failure(
@@ -741,20 +886,22 @@ def check_schedule(text) -> list:
             failures.append(Failure(
                 "the-reader-runs-on-the-bulletins-cadence", c,
                 f"fires on day {dom} of the month and the Bulletin appears on the first "
-                f"BUSINESS day, which can be the 1st, 2nd or 3rd. A run before it is "
+                f"BUSINESS day, which is as late as the {EARLIEST_DAY}th -- the 1st a "
+                "Saturday, the 2nd a Sunday, the 3rd a Monday holiday. A run before it is "
                 "published reads last month's bulletin and reports it as this month's"))
-    if f"--group {DRIFT_GROUP}" not in (text or ""):
+    if not _runs_that(runs, f"--group {DRIFT_GROUP}"):
         failures.append(Failure(
-            "the-reader-runs-on-the-bulletins-cadence", f"--group {DRIFT_GROUP}",
+            "the-scheduled-run-fetches-the-group-this-reader-joins", f"--group {DRIFT_GROUP}",
             "is the group this reader joins the drift observation on, and the workflow "
             "fetches a different one. The run would produce a `changed-sources.tsv` with "
             "no source this module can join, which is byte-identical to a group where "
             "nothing moved"))
-    if "bulletin_report.py" not in (text or ""):
+    if not _runs_that(runs, "bulletin_report.py"):
         failures.append(Failure(
             "the-reader-runs-on-the-bulletins-cadence", str(WORKFLOW),
-            "schedules something that is not this reader. A cron on a workflow that never "
-            "invokes the module is a cadence that runs nothing"))
+            "schedules no LIVE step that invokes this reader. A cron on a workflow whose "
+            "only mention of the module is a comment, or a step switched off with "
+            "`if: false`, is a cadence that runs nothing"))
     return failures
 
 
@@ -765,19 +912,23 @@ def check_drift_still_runs(text) -> list:
     detecting change nobody announced -- so a change that quietly dropped `--group oar`
     from the monthly drift job would leave the loud case of the four-case table
     permanently empty, and an empty loud case looks like good news."""
-    if text is None:
+    parsed = workflow(text)
+    if parsed is None:
         return [Failure("hash-drift-still-runs", str(DRIFT_WORKFLOW),
-                        "does not exist, so nothing hashes the OAR sources on a schedule. "
-                        "ADR 0006 keeps hashing for the one job it alone can do")]
+                        "does not exist or does not parse, so nothing hashes the OAR "
+                        "sources on a schedule. ADR 0006 keeps hashing for the one job it "
+                        "alone can do")]
+    crons, runs = parsed
     failures = []
-    if not CRON_RE.search(text):
+    if not crons:
         failures.append(Failure("hash-drift-still-runs", str(DRIFT_WORKFLOW),
                                 "schedules no cron at all, so the drift detection this "
                                 "report reads runs only when somebody asks for it"))
-    if f"--group {DRIFT_GROUP}" not in text:
+    if not _runs_that(runs, f"--group {DRIFT_GROUP}"):
         failures.append(Failure(
             "hash-drift-still-runs", f"--group {DRIFT_GROUP}",
-            "is not in the scheduled drift workflow, so the OAR sources are no longer "
+            "is in no LIVE step of the scheduled drift workflow, so the OAR sources are "
+            "no longer "
             "hashed on the monthly cadence. Hashing is the ONLY signal that can see a "
             "change nobody announced, and without it `silent` and `unchanged` become the "
             "same observation -- the substitution ADR 0006 rejected replacement over"))
@@ -839,14 +990,27 @@ def build() -> tuple:
             "is absent or unreadable, so this run has no notice to report. A report built "
             "from no worklist is an empty one, and an empty one reads like a quiet month")]
     c = census(worklist)
-    manifest = yaml.safe_load(MANIFEST.read_text())
+    try:
+        manifest = yaml.safe_load(MANIFEST.read_text())
+    except (OSError, yaml.YAMLError):
+        # NAMED, NOT RAISED. Without the manifest the watched set is unknown, so every
+        # named rule would fall outside it and the whole month would report as `not
+        # watched` -- a clean, wrong answer. A gate that dies instead of naming its rule
+        # is what #226 exists to close.
+        return Report(census=c, disagreement=None, drift_path=drift_path().name,
+                      unread_months=months_unread(c.bulletin, date.today())), [Failure(
+            "the-observation-accounts-for-every-watched-source", str(MANIFEST),
+            "is absent or unreadable, so this run does not know which rules hashing "
+            "watches. Every rule would classify as never watched and the report would say "
+            "so with the same confidence it uses for a rule that genuinely has no source")]
     path = drift_path()
     observation = read_drift(path, manifest)
     named = {str(r.get("number")) for r in c.rows}
     d = classify(named, observation)
     failures = check_census(c, check_bulletin.ACTIONS, check_bulletin.CORPUS_STATES)
     failures += check_disagreement(named, observation, d)
-    return Report(census=c, disagreement=d, drift_path=path.name), failures
+    return Report(census=c, disagreement=d, drift_path=path.name,
+                  unread_months=months_unread(c.bulletin, date.today())), failures
 
 
 def cmd_check() -> int:
@@ -989,11 +1153,11 @@ def _observe(tmp, manifest, *moved, unseeded=()):
     return read_drift(_fixture_drift(tmp, *moved, unseeded=unseeded), manifest)
 
 
-def _report_of(worklist, observation) -> Report:
+def _report_of(worklist, observation, unread_months=0) -> Report:
     c = census(worklist)
     named = {str(r.get("number")) for r in c.rows}
     return Report(census=c, disagreement=classify(named, observation),
-                  drift_path=DRIFT_FILE)
+                  drift_path=DRIFT_FILE, unread_months=unread_months)
 
 
 def _proof_the_census_is_a_faithful_count(check) -> None:
@@ -1050,6 +1214,16 @@ def _proof_the_body_carries_what_it_counts(check) -> None:
     check("a body that dropped the coverage-gap rules is caught",
           any(f.rule == "a-coverage-gap-reaches-the-report" and f.site == "999-002-0020"
               for f in check_body(r, body.replace("999-002-0020", ""))))
+    check("a body that put the counts above the loud case is caught",
+          any(f.rule == "an-unannounced-change-is-reported-first"
+              for f in check_body(r, COUNTS_HEADING + "\n" + body)))
+    check("a body that dropped a section the two body-readers slice on is caught",
+          any(f.rule == "an-unannounced-change-is-reported-first"
+              and f.site == CALM_HEADING
+              for f in check_body(r, body.replace(CALM_HEADING, "## Something else"))))
+    check("...and the real body is in the declared order",
+          not [f for f in check_body(r, body)
+               if f.rule == "an-unannounced-change-is-reported-first"])
     check("a body over GitHub's issue limit is caught rather than truncated",
           any(f.rule == "the-run-files-one-issue"
               for f in check_body(r, "x" * (BODY_LIMIT + 1))))
@@ -1114,6 +1288,21 @@ def _proof_the_four_cases(check, tmp) -> None:
           < body.index("Filed, no movement observed"))
     check("...and before the counts a reader would otherwise scroll past",
           body.index("Changed with nobody announcing it") < body.index("## Counts"))
+    # WATCHED BUT NEVER SEEDED is the quieter half of the same rule: the source exists,
+    # so `watched` alone would let the claim through, and it has been compared to nothing.
+    dry = dict(manifest)
+    dry["sources"] = [dict(s, sha256="") if s["id"] == "oar-999-001-0020" else s
+                      for s in manifest["sources"]]
+    unbaselined = _observe(tmp, dry, "999-001-0010", "999-001-0030")
+    check("a rule watched by a source with NO recorded baseline is `could not check`, "
+          "never `filed, not yet served`",
+          "999-001-0020" in classify(named, unbaselined).not_watched
+          and "999-001-0020" not in classify(named, unbaselined).filed_not_moved)
+    check("...and claiming it held still is caught",
+          any(f.rule == "an-unwatched-rule-is-not-an-unchanged-one"
+              and f.site == "999-001-0020"
+              for f in check_disagreement(named, unbaselined, classify(
+                  named, unbaselined)._replace(filed_not_moved=["999-001-0020"]))))
     check("an unwatched rule reported as `filed, not yet served` is caught",
           any(f.rule == "an-unwatched-rule-is-not-an-unchanged-one"
               and f.site == "888-001-0010"
@@ -1199,70 +1388,98 @@ def _proof_no_observation_is_not_no_disagreement(check, tmp) -> None:
     wl = _fixture_worklist(("999-001-0010", "amend", "held"))
     r = _report_of(wl, missing)
     body = issue_body(r)
-    check("the body says the disagreement was NOT COMPUTED", "Not computed" in body)
+    check("the body says the disagreement was NOT COMPUTED", NOT_COMPUTED in body)
     section = body.split(LOUD_HEADING, 1)[-1].split("\n## ", 1)[0]
-    check("...and claims no count of unannounced changes",
-          "None." not in section and "rule(s) moved" not in section)
+    check("...and states no count of rules at all in that section",
+          not A_COUNT_OF_RULES_RE.search(section))
     check("...and the run still has a finding to file", r.should_file())
     check("a body that reported a clean disagreement result from no observation is caught",
           any(f.rule == "no-observation-is-not-no-disagreement"
-              for f in check_no_observation(r, body.replace("Not computed", "None."))))
+              for f in check_no_observation(
+                  r, body.replace(NOT_COMPUTED, "None. 0 rule(s) moved unannounced."))))
     check("...and a body that simply stopped mentioning it is caught too",
           any(f.rule == "no-observation-is-not-no-disagreement"
-              for f in check_no_observation(r, "## Changed with nobody announcing it")))
+              for f in check_no_observation(r, LOUD_HEADING)))
     empty_file = _fixture_drift(tmp / "empty.tsv")
     check("an EMPTY drift file is an observation that nothing moved, and is not None",
           read_drift(empty_file, manifest) is not None
           and read_drift(empty_file, manifest).moved == set())
 
 
+def _wf(cron=CRON, module="python3 src/bulletin_report.py --file-issue",
+        group=None, job_if=None, step_if=None) -> str:
+    """A workflow file in the committed one's shape. Real YAML, because both gates parse
+    rather than scan -- a fixture that was only a string would prove nothing about the
+    thing that broke them, which was a job switched off and a comment left behind."""
+    group = f"changes --group {DRIFT_GROUP}" if group is None else group
+    return yaml.safe_dump({
+        "on": {"schedule": [{"cron": cron}] if cron else [], "workflow_dispatch": None},
+        "jobs": {"report": dict(
+            {"if": job_if} if job_if is not None else {},
+            **{"steps": [{"run": group},
+                         dict({"if": step_if} if step_if is not None else {},
+                              **{"run": module})]})},
+    }, sort_keys=False)
+
+
 def _proof_the_two_facts_in_workflow_files(check) -> None:
     """THE CADENCE AND THE OTHER SIGNAL, read off the files where they actually live.
 
-    Both are fired on synthetic workflow text FIRST -- a rule compared only against the
-    committed file it was written from passes forever -- and then on the committed files."""
-    good = f'on:\n  schedule:\n    - cron: "{CRON}"\n  workflow_dispatch:\n' \
-           '    run: python3 src/bulletin_report.py --check\n'
-    whole = good + f"    run: changes --group {DRIFT_GROUP}\n"
+    Both are fired on synthetic workflows FIRST -- a rule compared only against the
+    committed file it was written from passes forever -- and then on the committed files.
+    Every synthetic one is COMPLETE BUT FOR THE THING UNDER TEST, so a proof cannot pass
+    because the fixture was missing something else."""
     check("a workflow with no cron at all is caught",
           any(f.rule == "the-reader-runs-on-the-bulletins-cadence"
-              for f in check_schedule("on:\n  workflow_dispatch:\n"
-                                      "    run: src/bulletin_report.py")))
+              for f in check_schedule(_wf(cron=None))))
     check("a workflow file that does not exist is caught, and is not a pass",
           any(f.rule == "the-reader-runs-on-the-bulletins-cadence"
               for f in check_schedule(None)))
+    check("a workflow file that does not parse is caught, and is not a pass",
+          any(f.rule == "the-reader-runs-on-the-bulletins-cadence"
+              for f in check_schedule("on: [\n  unbalanced")))
     check("a DAILY cron -- not the Bulletin's cadence -- is caught",
           any(f.rule == "the-reader-runs-on-the-bulletins-cadence"
-              for f in check_schedule(whole.replace(CRON, "0 15 * * *"))))
-    check("a monthly cron on the 1st is caught: the Bulletin's first BUSINESS day can be "
-          "the 2nd or the 3rd, and a run before it reads last month's",
-          any(f.rule == "the-reader-runs-on-the-bulletins-cadence"
-              for f in check_schedule(whole.replace(CRON, "0 15 1 * *"))))
+              for f in check_schedule(_wf(cron="0 15 * * *"))))
+    # THE DAY THE GUARD USED TO LET THROUGH. The first BUSINESS day is as late as the 4th
+    # (1st Saturday, 2nd Sunday, 3rd a Monday holiday), and this rule passed days 2 and 3
+    # while saying in its own message that they can precede publication.
+    for day in (1, 2, 3):
+        check(f"a monthly cron on day {day} is caught -- the Bulletin can appear as late "
+              "as the 4th, and a run before it reads LAST month's",
+              any(f.rule == "the-reader-runs-on-the-bulletins-cadence"
+                  for f in check_schedule(_wf(cron=f"0 15 {day} * *"))))
     check("a cron that disagrees with the cadence this module declares is caught",
           any(f.rule == "the-reader-runs-on-the-bulletins-cadence"
-              for f in check_schedule(whole.replace(CRON, "0 15 9 * *"))))
-    check("a workflow fetching a different group than this reader joins on is caught",
-          any(f.rule == "the-reader-runs-on-the-bulletins-cadence"
-              and f.site == f"--group {DRIFT_GROUP}"
-              for f in check_schedule(good)))
+              for f in check_schedule(_wf(cron="0 15 9 * *"))))
     check("a cron on a workflow that never invokes this reader is caught",
           any(f.rule == "the-reader-runs-on-the-bulletins-cadence"
-              for f in check_schedule(whole.replace("bulletin_report.py", "something.py"))))
+              for f in check_schedule(_wf(module="python3 src/something.py"))))
+    check("...and a workflow whose ONLY step invoking it is switched off with `if: false` "
+          "is caught too -- the case a substring scan of the file passed",
+          any(f.rule == "the-reader-runs-on-the-bulletins-cadence"
+              for f in check_schedule(_wf(step_if=False))))
+    check("a workflow that fetches a different group than this reader joins on is caught",
+          any(f.rule == "the-scheduled-run-fetches-the-group-this-reader-joins"
+              for f in check_schedule(_wf(group="changes --group something-else"))))
     check("...and the COMMITTED workflow satisfies every one of them",
           not check_schedule(_text(WORKFLOW)))
-    drift = f'on:\n  schedule:\n    - cron: "0 14 5 * *"\njobs:\n  x:\n' \
-            f'    run: changes --group {DRIFT_GROUP}\n'
+    drift = _wf(cron="0 14 5 * *", module="python3 -m corpus_toolkit.sources.changes")
     check("a drift workflow that stopped hashing the OAR group is caught -- the change "
           "that would leave the loud case permanently empty",
           any(f.rule == "hash-drift-still-runs"
-              for f in check_drift_still_runs(drift.replace(f"--group {DRIFT_GROUP}", ""))))
+              for f in check_drift_still_runs(_wf(cron="0 14 5 * *", group="changes"))))
+    check("...and a drift JOB switched off with `if: false` is caught, which a scan of a "
+          "file that explains its own history in sixty lines of comments would not be",
+          any(f.rule == "hash-drift-still-runs"
+              for f in check_drift_still_runs(_wf(cron="0 14 5 * *", job_if=False))))
     check("a drift workflow with its cron removed is caught",
           any(f.rule == "hash-drift-still-runs"
-              for f in check_drift_still_runs(drift.replace('- cron: "0 14 5 * *"', ""))))
+              for f in check_drift_still_runs(_wf(cron=None))))
     check("a missing drift workflow is caught, and is not a pass",
           any(f.rule == "hash-drift-still-runs" for f in check_drift_still_runs(None)))
-    check("...and the COMMITTED drift workflow still hashes the OAR group on a cron",
-          not check_drift_still_runs(_text(DRIFT_WORKFLOW)))
+    check("...and the COMMITTED drift workflow still hashes the OAR group on a cron, in a "
+          "live step", not check_drift_still_runs(_text(DRIFT_WORKFLOW)))
     check("a toolkit that renamed the drift file out from under this reader is caught",
           any(f.rule == "the-drift-observation-is-the-file-the-toolkit-writes"
               for f in check_drift_filename("out = config.root / 'moved-sources.tsv'")))
@@ -1271,6 +1488,38 @@ def _proof_the_two_facts_in_workflow_files(check) -> None:
               for f in check_drift_filename(None)))
     check("...and the INSTALLED corpus-toolkit still writes the file this reads",
           not check_drift_filename(_toolkit_source()))
+    check("...and `drift` is a fixture this proof actually built", "cron" in drift)
+
+
+def _proof_a_month_nobody_read_is_a_finding(check) -> None:
+    """THE PREMISE OF THE SERIES, and the way this module would have quietly failed it.
+
+    `bulletin_report.py` reads the COMMITTED worklist and nothing on a cron writes a new
+    one, so without this the September run rebuilds August's report, matches August's issue
+    title and exits 0 having filed nothing -- a green run for a month nobody read, which is
+    indistinguishable from a month with nothing in it."""
+    from datetime import date as _date
+    check("a worklist read in its own month is not behind",
+          months_unread("August 2026 (bulltnRsn=1761)", _date(2026, 8, 31)) == 0)
+    check("a worklist two months old counts both",
+          months_unread("August 2026 (bulltnRsn=1761)", _date(2026, 10, 2)) == 2)
+    check("a bulletin line nothing can read is not counted as fresh OR as stale here -- "
+          "`check_bulletin.py --check` owns that failure",
+          months_unread("not a bulletin", _date(2026, 10, 2)) == 0)
+    wl = _fixture_worklist(("999-001-0010", "amend", "held"))
+    stale = _report_of(wl, None, unread_months=2)
+    check("an unread month is a FINDING, so the run has something to file",
+          any("NOBODY HAS READ" in label for label, _ in stale.findings())
+          and stale.should_file())
+    check("...and it is the FIRST thing the issue says, above the loud case",
+          issue_body(stale).index("NOBODY HAS READ") < issue_body(stale).index(LOUD_HEADING))
+    check("...while a run whose month WAS read says nothing of the kind",
+          not any("NOBODY HAS READ" in label
+                  for label, _ in _report_of(wl, None).findings()))
+    # A MONTH NOBODY READ AND NOTHING ELSE TO SAY still files, which is the whole point.
+    empty = _report_of(_fixture_worklist(filings=0), None, unread_months=1)
+    check("an empty worklist that is a month behind still files an issue",
+          empty.should_file() and len(issues_for(empty)) == 1)
 
 
 def _proof_the_notice_must_be_readable(check) -> None:
@@ -1284,6 +1533,32 @@ def _proof_the_notice_must_be_readable(check) -> None:
     finally:
         legal_status.WORKLIST = saved
     check("...and the committed worklist reads", isinstance(load_worklist(), dict))
+    saved_manifest = globals()["MANIFEST"]
+    try:
+        globals()["MANIFEST"] = REPO_ROOT / "_meta/sources/no-such-group.yml"
+        r, failures = build()
+        check("an unreadable source manifest names its rule instead of classifying every "
+              "rule in the month as never watched",
+              any(f.rule == "the-observation-accounts-for-every-watched-source"
+                  for f in failures))
+    finally:
+        globals()["MANIFEST"] = saved_manifest
+    check("...and the committed manifest reads", MANIFEST.exists())
+
+
+def orphaned_proofs(source) -> set:
+    """Proof functions defined in this module that `selftest()` never calls.
+
+    A proof nobody runs is indistinguishable from one that passes, and it is worse than no
+    proof at all: the file reads as though the rule were watched."""
+    tree = ast.parse(source)
+    defined = {n.name for n in ast.walk(tree)
+               if isinstance(n, ast.FunctionDef) and n.name.startswith("_proof_")}
+    body = next((n for n in ast.walk(tree)
+                 if isinstance(n, ast.FunctionDef) and n.name == "selftest"), None)
+    called = {n.func.id for n in ast.walk(body) if isinstance(n, ast.Call)
+              and isinstance(n.func, ast.Name)} if body else set()
+    return defined - called
 
 
 def selftest() -> int:
@@ -1298,11 +1573,26 @@ def selftest() -> int:
         _proof_a_group_wide_move_is_not_per_rule_notice(check, tmp / "wide.tsv")
         _proof_no_observation_is_not_no_disagreement(check, tmp)
         _proof_the_two_facts_in_workflow_files(check)
+        _proof_a_month_nobody_read_is_a_finding(check)
         _proof_the_notice_must_be_readable(check)
     check("every rule this module can report is declared",
           legal_status.emitted_rules(Path(__file__).read_text()) == set(CHECK_RULES))
     check("...and every declared rule was watched firing, not merely listed",
           set(CHECK_RULES) <= _FIRED)
+    # AND EVERY PROOF IS ACTUALLY RUN. The two rules above compare the CHECK_RULES table
+    # with the Failures this module emits, and neither can see a proof that was written and
+    # never called -- which is how `_proof_a_month_nobody_read_is_a_finding` sat in this
+    # file, fully written, contributing nothing, while the selftest reported OK. It could
+    # not: `months_unread()` produces a FINDING rather than a Failure, so no rule name goes
+    # missing when its proof stops running. Read out of this module's own syntax tree,
+    # like `emitted_rules`.
+    source = Path(__file__).read_text()
+    check("a proof written in this file and never called is caught",
+          orphaned_proofs(source.replace(
+              "        _proof_a_month_nobody_read_is_a_finding(check)\n", ""))
+          == {"_proof_a_month_nobody_read_is_a_finding"})
+    check("...and every proof written in this file is one `selftest()` calls",
+          orphaned_proofs(source) == set())
     return check.report(
         f"{len(CHECK_RULES)} rule(s) declared, every one both emitted by this module and "
         "watched firing here -- selftest")

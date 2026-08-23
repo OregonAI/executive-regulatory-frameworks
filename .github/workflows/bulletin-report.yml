@@ -20,11 +20,21 @@ name: bulletin-report
 #     preview.
 #
 # WHY THE 6th, 15:00 UTC. The Oregon Bulletin is published on the FIRST BUSINESS DAY of
-# each month, so the cadence is monthly and the day must be after it — the first business
-# day can be the 1st, 2nd or 3rd. The 6th is a day after `scheduled.yml`'s monthly drift
-# run on the 5th, because THIS REPORT READS THAT RUN'S `changed-sources.tsv`. The cron is
-# declared in `src/bulletin_report.py` as `CRON` and `--check` fails when this file and
-# that constant disagree; changing one means changing both.
+# each month, and that day is as late as the 4th — the 1st a Saturday, the 2nd a Sunday,
+# the 3rd a Monday holiday. So the cadence is monthly and the day must be after the 4th;
+# `bulletin_report.py`'s `EARLIEST_DAY` fails any cron that could fire before publication
+# and read LAST month's bulletin as this month's. The 6th also staggers this job's crawl
+# away from `scheduled.yml`'s on the 5th. The cron is declared in
+# `src/bulletin_report.py` as `CRON` and `--check` fails when this file and that constant
+# disagree; changing one means changing both.
+#
+# WHAT A RUN CANNOT DO FOR ITSELF, AND SAYS SO. This job reads the COMMITTED
+# `_meta/bulletin-worklist.yml`; fetching a NEW bulletin is `check_bulletin.py`, which
+# writes that file, and this job holds `contents: read` and may not commit one. So a month
+# nobody has re-read is REPORTED — `months_unread()` counts the bulletins published since
+# the committed one and the issue leads with it — rather than silently rebuilding last
+# month's report, matching last month's issue title and exiting 0. A green run that filed
+# nothing would be exactly what a month with nothing in it looks like.
 #
 # HASHING RUNS BESIDE THIS, NOT UNDER IT. ADR 0006 rejected replacement: a silent upstream
 # correction files no notice, so a Bulletin-only design makes "no filing this month" and
@@ -54,19 +64,36 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt
-      # THE HASH READING. Re-fetched here rather than carried from the 5th's run, because
-      # `changed-sources.tsv` lives in that job's workspace and GitHub throws the
-      # workspace away. NO `--open-issues`: the drift job on the 5th is the one that
-      # files per-source tickets, and a second copy of that spend would double the
-      # tracker's monthly noise. NO `--record-baseline`: this run accepts nothing.
+      - run: pip install pyyaml
+      # PINNED, and NOT `pip install -r requirements.txt`: that file pulls torch and
+      # sentence-transformers for serve-time semantic search, which this job never touches.
+      # Same three-pins-move-together trap `validate-frontmatter.yml` documents.
+      - uses: actions/checkout@v4
+        with:
+          repository: OregonAI/corpus-toolkit
+          ref: v1.29.0
+          path: .toolkit
+      - run: pip install ./.toolkit
+      # content_hash normalizes PDFs via pdftotext, same as the drift workflow. Without it
+      # a PDF source hashes its raw bytes and reports drift a re-render alone produced.
+      - run: sudo apt-get update -q && sudo apt-get install -y poppler-utils
+      # THE HASH READING, AND WHY THIS JOB PAYS FOR ITS OWN. `changed-sources.tsv` lives
+      # in the writing job's workspace and GitHub throws the workspace away, so the 5th's
+      # drift run cannot hand it over without an artifact upload the reusable workflow does
+      # not offer. The cost is 484 fetches once a month — the `oar` group only, a quarter
+      # of the 1,975 sources the quarterly sweep crawls — and the alternative, folding this
+      # report into `scheduled.yml`'s `monthly-drift` job as extra steps, would put the
+      # only outward-acting step in the repository inside a job nobody reviews separately.
+      # If the reusable workflow ever uploads the tsv, take it from there and drop this.
+      # NO `--open-issues`: the drift job on the 5th is the one that files per-source
+      # tickets, and a second copy of that spend would double the tracker's monthly noise.
+      # NO `--record-baseline`: this run accepts nothing and writes nothing.
       #
       # `continue-on-error`, because a capped or systemically-failed drift run EXITS
       # NON-ZERO by design (corpus-toolkit#69) and that is a run whose observation this
       # report still wants — and because a report that vanished whenever hashing had a bad
       # day is a monthly notice that stops arriving without saying so.
       - name: Observe what moved upstream
-        id: drift
         continue-on-error: true
         run: >-
           python3 -m corpus_toolkit.sources.changes

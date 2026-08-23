@@ -14,8 +14,8 @@ corpus-wide changes from 2026-08-02 forward.
 - 2026-08-23 — The Bulletin runs monthly, files one issue, and reports what disagrees with
   the hash (#231, ADR 0006). The last of #226–#231 and **the only one that acts outward**:
   `.github/workflows/bulletin-report.yml` runs `python3 src/bulletin_report.py` on the 6th
-  of each month — after the Bulletin's first business day, a day after `scheduled.yml`'s
-  drift run on the 5th — and files **ONE issue per run, never one per rule**. August 2026
+  of each month — the Bulletin's first **business** day is as late as the 4th — and files
+  **ONE issue per run, never one per rule**. August 2026
   named 549 rule actions against a 25-issue cap, so per-rule filing is a way of reporting 25
   of them and dropping 524 on stderr, which is corpus-toolkit#67. The issue carries the
   counts by action and by corpus state, every filing the reader could not open, every
@@ -53,6 +53,24 @@ corpus-wide changes from 2026-08-02 forward.
   as *cannot tell* and refuses to file, rather than risking a duplicate); and `--file-issue`
   is the default of nothing, so every command typed by hand is a dry run and
   `workflow_dispatch` defaults to one.
+  **A MONTH NOBODY RE-READ IS ITS LOUDEST FINDING.** The module reads the *committed*
+  worklist and `check_bulletin.py` — the thing that fetches a new one — writes a file this
+  job may not commit. Left alone, the September run would rebuild August's report, match
+  August's issue title, print `already filed` and exit 0: a green run for a month nobody
+  read, which is what a month with nothing in it looks like. `months_unread()` counts the
+  bulletins published since the committed one and the issue **leads with the count**. It is
+  deliberately a finding and not a `--check` rule — a gate that went red the moment the
+  month turned would block every unrelated PR, which is #245's shape. Its proof was written
+  and never called, and **the selftest reported OK anyway**: the two rules that compare
+  `CHECK_RULES` with what the module emits cannot see an uncalled proof, because a finding
+  raises no `Failure` and so no rule name goes missing. `orphaned_proofs()` closes that —
+  it reads `selftest()`'s own syntax tree and fails on a proof nothing calls, watched
+  failing on the very proof that went missing.
+  Two gaps found and filed rather than worked around: the `oar` hash watch covers 484
+  individual rule pages in four chapters, **disjoint from every rule the Bulletin names**
+  (#247), and `changed-sources.tsv` lists only what changed, so a consumer cannot tell
+  *unchanged* from *fetch failed* (corpus-toolkit#160) — the without-alarm section carries
+  that hedge in writing rather than claiming an observation it does not have.
 - 2026-08-23 — Amendments re-ingest automatically, and cannot reach a rule out of force
   (#230, ADR 0006). **The August 2026 bulletin (bulltnRsn 1761) filed 318 amendments against
   rules this corpus holds**, and one issue per rule was rejected against a 25-issue cap. ADR
