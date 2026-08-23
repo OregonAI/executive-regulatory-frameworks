@@ -45,7 +45,9 @@ Usage:
 
 Needs `pdftotext` (poppler-utils) on PATH for the fetching modes. Failures on
 individual filings are reported and tolerated (same philosophy as
-corpus-detect-changes >= v1.22.0); a systemic failure (>20% of filings) exits 1.
+corpus-detect-changes >= v1.22.0); a systemic failure — more than `SYSTEMIC_SHARE`
+of the month's filings, see the constant — exits 1 and writes nothing, because the
+rows such a run holds are an unknown fraction of the month.
 
 EVERY RULE THIS MODULE APPLIES IS NAMED, AND NAMING THEM IS THE POINT (#226). Before
 this, the module skipped, warned and refused in nine places and none of them had ever
@@ -153,8 +155,16 @@ Problem = collections.namedtuple("Problem", "rule subject detail")
 # could not be read — which is the substitution this module exists to prevent.
 Reading = collections.namedtuple("Reading", "rows problems")
 
+# One row of a bulletin's operative-filings table: the six cells it prints and the id
+# of the PDF behind its "View PDF" link. A type rather than a seven-tuple because three
+# of the seven are carried only so a problem can name the filing a human has to open,
+# and a positional unpacking that lists them to ignore them is a reader that has to be
+# counted rather than read.
+Filing = collections.namedtuple(
+    "Filing", "chapter agency aon filed kind caption pt_id")
 
-class Refusal(SystemExit):
+
+class Refusal(Exception):
     """The reader stopping rather than reporting a number it does not believe.
 
     Three situations refuse: the bulletin index yielding no bulletins, a `--rsn` the
@@ -163,7 +173,12 @@ class Refusal(SystemExit):
     all three the alternative to refusing is a confident zero — a month with no filings
     is a thing that happens, so a parse failure that produced one would be indis-
     tinguishable from a quiet month. It carries its Problem so `--selftest` can assert
-    on the rule rather than on the message."""
+    on the rule rather than on the message.
+
+    AN `Exception`, NOT A `SystemExit`. It is caught for its payload rather than
+    thrown to end the process, and a `BaseException` carrying a payload slips straight
+    through every `except Exception` in this file with nothing saying so. `main()`
+    turns it into the exit code, in one place, where the other exit codes are."""
 
     def __init__(self, problem: Problem):
         self.problem = problem
@@ -236,7 +251,8 @@ def filing_rows(bulletin_html: str) -> list:
                  for c in CELL_RE.findall(row)]
         m = PTID_RE.search(row)
         if m and len(cells) >= 6:
-            rows.append((*[re.sub(r"\s+", " ", c) for c in cells[:6]], m.group(1)))
+            rows.append(Filing(*[re.sub(r"\s+", " ", c) for c in cells[:6]],
+                               m.group(1)))
     return rows
 
 
@@ -264,17 +280,17 @@ def read_bulletin(rows, read_filing, held, progress=None) -> Reading:
     module failing, the second is a filing a human has to look at — so they are two
     rules and not one count."""
     seen, out, problems, unreadable = set(), [], [], 0
-    for i, (chapter, agency, aon, filed, ftype, caption, pt_id) in enumerate(rows, 1):
-        subject = aon or f"ptId={pt_id}"
+    for i, filing in enumerate(rows, 1):
+        subject = filing.aon or f"ptId={filing.pt_id}"
         try:
-            text = read_filing(pt_id)
+            text = read_filing(filing.pt_id)
         except Exception as e:  # noqa: BLE001 — recorded as a rule that fired
             unreadable += 1
             problems.append(Problem(
                 "filing-unreadable", subject,
                 f"could not be fetched or parsed ({e}) — the rules it acts on are "
                 f"absent from this worklist for a reason that is not 'nothing "
-                f"happened': {VIEWER.format(pt_id)}"))
+                f"happened': {VIEWER.format(filing.pt_id)}"))
             continue
         parsed = list(actions_in(text))
         for num, action in parsed:
@@ -287,8 +303,9 @@ def read_bulletin(rows, read_filing, held, progress=None) -> Reading:
         if not parsed:
             problems.append(Problem(
                 "filing-no-actions", subject,
-                f"({ftype}, ch. {chapter}) no action-anchored rule lines parsed — "
-                f"check the filing by hand: {VIEWER.format(pt_id)}"))
+                f"({filing.kind}, ch. {filing.chapter}) no action-anchored rule "
+                f"lines parsed — check the filing by hand: "
+                f"{VIEWER.format(filing.pt_id)}"))
         if progress:
             progress(i, len(rows))
     if rows and unreadable / len(rows) > SYSTEMIC_SHARE:
@@ -299,6 +316,18 @@ def read_bulletin(rows, read_filing, held, progress=None) -> Reading:
             "an unknown share of the month"))
     out.sort(key=lambda r: (r["number"], r["action"]))
     return Reading(out, problems)
+
+
+def month_is_whole(reading: Reading) -> bool:
+    """Whether this reading may be written over the last worklist that was whole.
+
+    THE WRITER'S DECISION, IN A FUNCTION, so that a proof can watch it say no. Left
+    inline in the fetching path it would be the one branch here nothing could reach
+    without the network — and the branch matters more than most: the rows a systemic
+    run holds are an unknown fraction of the month, and a short worklist is indis-
+    tinguishable from a quiet one, so writing it would leave `--check` auditing the
+    damage and printing a clean census over it."""
+    return not any(p.rule == "filing-systemic" for p in reading.problems)
 
 
 def render_worklist(month, year, rsn, url, retrieved, rows) -> str:
@@ -435,7 +464,10 @@ def audit(doc, held, catalogued, last_checked) -> list:
                 f"carries action {action!r}, which this reader does not produce — the "
                 f"actions a filing can take are {', '.join(ACTIONS)}, and a row with "
                 "any other arrived from something that is not this module"))
-        keys.append((number, action))
+        # `action` is put in the ordering key only once it is known to be a string.
+        # Sorting a str against a None is a TypeError, and a gate that dies with a
+        # traceback instead of naming its rule is the thing #226 exists to close.
+        keys.append((number, action if isinstance(action, str) else ""))
         if isinstance(in_corpus, bool):
             if in_corpus and number not in held:
                 problems.append(Problem(
@@ -474,6 +506,8 @@ def catalogued_rules() -> set:
     A renumbered row is filed under the number OARD actually served, so both numbers
     name the same document and a check that knew only one of them would report the
     other as drift."""
+    if not CATALOG.exists():
+        return set()          # reported by `corpus-absent`, never a traceback
     cat = yaml.safe_load(CATALOG.read_text())
     out = set()
     for chapter in cat.get("chapters") or []:
@@ -500,6 +534,14 @@ def group_last_checked():
     return None
 
 
+def _unreadable(error) -> Problem:
+    """The worklist failing to parse at all, as a Problem like every other rule here —
+    the one rule that fires before `audit()` sees anything, and therefore the one that
+    would otherwise be a hand-formatted string no proof could assert on."""
+    return Problem("worklist-attribution", str(WORKLIST.name),
+                   f"is not readable as YAML ({error}); regenerate with: {REGENERATE}")
+
+
 def _report(problems) -> None:
     for p in problems:
         print(f"  FAIL [{p.rule}] {p.subject}: {p.detail}", file=sys.stderr)
@@ -507,14 +549,13 @@ def _report(problems) -> None:
 
 def check() -> int:
     """Audit the committed worklist from committed data alone. No network."""
+    unreadable = []
     try:
         doc = yaml.safe_load(WORKLIST.read_text()) if WORKLIST.exists() else None
     except yaml.YAMLError as e:
-        doc = None
-        print(f"  FAIL [worklist-attribution] {WORKLIST.name}: unreadable YAML ({e})",
-              file=sys.stderr)
-    held = held_rules()
-    problems = audit(doc, held, catalogued_rules(), group_last_checked())
+        doc, unreadable = None, [_unreadable(e)]
+    problems = unreadable or audit(doc, held_rules(), catalogued_rules(),
+                                   group_last_checked())
     if problems:
         print("_meta/bulletin-worklist.yml does not hold up:", file=sys.stderr)
         _report(problems)
@@ -615,12 +656,22 @@ def _fixture() -> dict:
     passing against a file the writer no longer produces — which is the one failure a
     generated-file check cannot afford."""
     text = render_worklist("July", 2026, _RSN, _URL, "2026-07-02", _reading().rows)
-    return {"doc": yaml.safe_load(text), "text": text, "held": set(_HELD),
+    return {"doc": yaml.safe_load(text), "held": set(_HELD),
             "catalogued": set(_CATALOGUED), "last_checked": date(2026, 6, 15)}
 
 
 def _audit(f) -> list:
     return audit(f["doc"], f["held"], f["catalogued"], f["last_checked"])
+
+
+def _check_text(text) -> list:
+    """The problems `--check` produces for worklist bytes, without touching the
+    committed file: the parse and the audit, in the order `check()` runs them."""
+    try:
+        doc = yaml.safe_load(text)
+    except yaml.YAMLError as e:
+        return [_unreadable(e)]
+    return audit(doc, set(_HELD), set(_CATALOGUED), date(2026, 6, 15))
 
 
 def _refused(fn, *args) -> list:
@@ -630,6 +681,40 @@ def _refused(fn, *args) -> list:
     except Refusal as r:
         return [r.problem]
     return []
+
+
+def _case_worklist_that_is_not_a_mapping(f):
+    """The file replaced by something that is not a worklist at all — a stray list, a
+    truncated write, the absent file `--check` passes as None. Nothing can be read from
+    it, and reading nothing from it must not read as a clean month."""
+    f["doc"] = ["not", "a", "worklist"]
+    return _audit(f)
+
+
+def _case_worklist_that_is_not_readable_as_yaml(f):
+    """Bytes that are not YAML. `--check` parses the file before the audit sees it, so
+    this is the one rule that fires outside `audit()` — and a branch outside the audit
+    is exactly where an unwatched refusal hides."""
+    return _check_text("bulletin: [unclosed\n")
+
+
+def _case_row_that_is_not_a_mapping(f):
+    """A row that is a bare string. The list is what a consumer iterates, so an entry
+    it cannot read `.get()` on stops the consumer rather than this gate."""
+    f["doc"]["rules"][0] = "999-001-0010 amend"
+    return _audit(f)
+
+
+def _case_row_with_no_action_at_all(f):
+    """A row whose action key is gone, sharing its number with another row. It is
+    reported as an action this reader does not produce — the point of the case is that
+    it is REPORTED: ordering the rows puts a string beside a None, which used to be a
+    TypeError out of `--check`, and a gate that dies with a traceback names no rule and
+    tells nobody which row to look at."""
+    row = dict(f["doc"]["rules"][0])
+    del row["action"]
+    f["doc"]["rules"].append(row)
+    return _audit(f)
 
 
 def _case_bulletin_line_missing(f):
@@ -778,10 +863,13 @@ def _case_bulletin_page_without_its_filings_table(f):
 
 
 def _case_filing_that_could_not_be_read(f):
-    """One filing the records app would not serve. Its rules are absent from the
-    worklist for a reason that is not "nothing happened", so the run records it (ADR
-    0006: a thing that could not be processed is recorded, never dropped)."""
-    return _reading(("100", "101", "999")).problems
+    """One filing the records app would not serve, in a month of eight. Its rules are
+    absent from the worklist for a reason that is not "nothing happened", so the run
+    records it (ADR 0006: a thing that could not be processed is recorded, never
+    dropped). ONE IN EIGHT IS UNDER THE SYSTEMIC SHARE deliberately — a case that also
+    tripped `filing-systemic` would prove the two rules only ever fire together, and
+    tolerating the individual failure is what this reader claims to do."""
+    return _reading(("100", "101", "102", "100", "101", "102", "100", "999")).problems
 
 
 def _case_most_of_the_month_unreadable(f):
@@ -803,6 +891,13 @@ def _case_filing_naming_no_rules(f):
 
 
 _CASES = [
+    ("worklist-that-is-not-a-mapping", _case_worklist_that_is_not_a_mapping,
+     "worklist-attribution"),
+    ("worklist-that-is-not-readable-as-yaml",
+     _case_worklist_that_is_not_readable_as_yaml, "worklist-attribution"),
+    ("row-that-is-not-a-mapping", _case_row_that_is_not_a_mapping, "row-shape"),
+    ("row-with-no-action-at-all", _case_row_with_no_action_at_all,
+     "action-vocabulary"),
     ("bulletin-line-missing", _case_bulletin_line_missing, "worklist-attribution"),
     ("bulletin-line-unreadable", _case_bulletin_line_unreadable, "worklist-attribution"),
     ("bulletin-url-missing", _case_bulletin_url_missing, "worklist-attribution"),
@@ -917,6 +1012,42 @@ def _proof_every_named_action_is_one_the_reader_parses() -> int:
     return bad
 
 
+def _proof_a_tolerated_filing_failure_is_not_a_systemic_one() -> int:
+    """The two filing rules are separate claims and must be separately reachable. One
+    unreadable filing in eight is tolerated — recorded, and the month still written; a
+    fifth of them is an outage and the month is not written at all. A pair of rules that
+    only ever fire together is one rule with two names, and the tolerance this reader
+    documents would be untested."""
+    tolerated = _reading(("100", "101", "102", "100", "101", "102", "100", "999"))
+    outage = _reading(("999", "998"))
+    bad = 0
+    # THE WRITER'S DECISION, not merely the rule that informs it. A month the reader
+    # could not read must not be written over the last one that was whole, and a month
+    # that lost one filing in eight must still be written — otherwise a single records-
+    # app hiccup would freeze the worklist for a month.
+    if not month_is_whole(tolerated):
+        print("FAIL a-tolerated-filing-failure-still-gets-written: one unreadable "
+              "filing in eight refused the whole month", file=sys.stderr)
+        bad += 1
+    if month_is_whole(outage):
+        print("FAIL a-month-the-reader-could-not-read-is-not-written: the run would "
+              "overwrite the last worklist that was whole", file=sys.stderr)
+        bad += 1
+    if any(p.rule == "filing-systemic" for p in tolerated.problems):
+        print(f"FAIL a-tolerated-filing-failure-is-not-a-systemic-one: one in eight "
+              f"tripped the systemic rule: {tolerated.problems}", file=sys.stderr)
+        bad += 1
+    if not tolerated.rows:
+        print("FAIL a-tolerated-filing-failure-still-yields-a-month: no rows survived",
+              file=sys.stderr)
+        bad += 1
+    if not any(p.rule == "filing-systemic" for p in outage.problems):
+        print(f"FAIL an-outage-is-a-systemic-failure: {outage.problems}",
+              file=sys.stderr)
+        bad += 1
+    return bad
+
+
 def _proof_one_action_taken_twice_is_written_once() -> int:
     """The same rule corrected twice in a month is one row, not two — and the filing
     that repeated it still counts as a filing that named rules, so it must NOT be
@@ -937,14 +1068,20 @@ def _proof_one_action_taken_twice_is_written_once() -> int:
     return bad
 
 
+_PROOFS = [
+    _proof_a_clean_month_produces_no_finding,
+    _proof_what_the_reader_writes_is_what_the_check_accepts,
+    _proof_a_prose_citation_is_not_a_change,
+    _proof_a_compound_verb_reports_every_action_it_names,
+    _proof_every_named_action_is_one_the_reader_parses,
+    _proof_one_action_taken_twice_is_written_once,
+    _proof_a_tolerated_filing_failure_is_not_a_systemic_one,
+]
+
+
 def selftest() -> int:
-    bad = (_proof_a_clean_month_produces_no_finding()
-           + _proof_what_the_reader_writes_is_what_the_check_accepts()
-           + _proof_a_prose_citation_is_not_a_change()
-           + _proof_a_compound_verb_reports_every_action_it_names()
-           + _proof_every_named_action_is_one_the_reader_parses()
-           + _proof_one_action_taken_twice_is_written_once())
-    proofs = 6
+    bad = sum(proof() for proof in _PROOFS)
+    proofs = len(_PROOFS)
     for name, mutate, rule in _CASES:
         f = _fixture()
         assert not _audit(f), f"fixture does not pass cleanly ({name}): {_audit(f)}"
@@ -972,7 +1109,16 @@ def main() -> int:
         return check()
     if args.selftest:
         return selftest()
+    try:
+        return read_a_bulletin(args)
+    except Refusal as refusal:
+        _report([refusal.problem])
+        return 1
 
+
+def read_a_bulletin(args) -> int:
+    """The fetching mode, unchanged in what it does: read a bulletin and write the
+    worklist. Every refusal it can raise is turned into an exit code by its caller."""
     bulletins = parse_bulletin_index(
         fetch(f"{OARD}/displayBulletins.action").decode("utf-8", "replace"))
     if args.list:
@@ -1007,12 +1153,23 @@ def main() -> int:
     _report(reading.problems)
     n_in = sum(1 for r in reading.rows if r["in_corpus"])
     unreadable = sum(1 for p in reading.problems if p.rule == "filing-unreadable")
+    # A SYSTEMIC FAILURE MAY NOT OVERWRITE THE LAST WORKLIST THAT WAS WHOLE. The rows
+    # this run holds are missing an unknown share of the month, and a short worklist is
+    # indistinguishable from a quiet one — writing it would leave `--check` auditing the
+    # damage and printing a clean census over it, which is "could not check" served as
+    # "is not there" by the very file that exists to keep those apart.
+    if not month_is_whole(reading):
+        print(f"\nREFUSED to write {WORKLIST.relative_to(REPO_ROOT)}: {unreadable} of "
+              f"{len(rows)} filings could not be read, so these {len(reading.rows)} rule "
+              f"action(s) are an unknown fraction of the month. The committed worklist "
+              f"is left as it is; re-run when the source is healthy.", file=sys.stderr)
+        return 1
     WORKLIST.write_text(render_worklist(month, year, rsn, url,
                                         date.today().isoformat(), reading.rows))
     print(f"\nwrote {WORKLIST.relative_to(REPO_ROOT)}: {len(reading.rows)} rule "
           f"action(s) from {len(rows) - unreadable} filing(s); {n_in} affect rules held "
           f"in this corpus; {unreadable} filing fetch/parse failure(s).")
-    return 1 if any(p.rule == "filing-systemic" for p in reading.problems) else 0
+    return 0
 
 
 if __name__ == "__main__":
