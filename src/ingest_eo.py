@@ -298,6 +298,10 @@ BANNER = """> **NON-AUTHORITATIVE — AI-friendly reference only.**{extra} Verif
 > source: <{url}> (retrieved {today})."""
 
 
+# LEGAL STATUS - NOT-A-RULE: an executive order. Orders are immutable (AGENTS.md) and a new
+# order supersedes an old one; the Oregon Bulletin, which ADR 0006 makes the writer of a
+# RULE's legal status, does not publish them. The `status: current` below is this
+# pipeline's.
 def doc_text(oid, title, url, sha, fulltext, conv, eff_date, exception, related):
     cit = eo_citation(oid)
     yy = oid[3:5]

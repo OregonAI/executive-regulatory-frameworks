@@ -45,6 +45,10 @@ def anchor_ok(slice_text: str, sec: str, title: str) -> bool:
     return hits >= max(1, len(words) // 2)
 
 
+# LEGAL STATUS - NOT-A-RULE: an ORS section, not an OAR rule. ADR 0006 gives a RULE's legal
+# status one writer, the Oregon Bulletin, which does not publish statutes -- a section's
+# repeal is recorded in `_meta/catalog/ors-disposition.yml` from the chapter's own brackets.
+# The `status: current` in the template below is this pipeline's, not that one's.
 def doc_body(sec, title, ch, ch_title, snap_id, sha, url, slice_text):
     ft = flow_to_lines(slice_text)
     # The three platform fields must lead the frontmatter and match every other document in

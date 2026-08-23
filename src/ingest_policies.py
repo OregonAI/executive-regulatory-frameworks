@@ -488,6 +488,9 @@ def doc_header_title(raw_txt: str):
 
 
 # ---- ingest one ----
+# LEGAL STATUS - NOT-A-RULE: a DAS policy, procedure, manual section or standard. These are
+# issued and withdrawn by the agency itself, not filed in the Oregon Bulletin, so ADR 0006's
+# one-writer rule for a RULE's legal status does not reach the `status: current` below.
 def doc_markdown(prof, num, title, division, url, sha, effective, supersedes, raw_txt,
                  year_issued=""):
     doc_id = prof["id"](num)

@@ -2,7 +2,14 @@ note: 'Discovery map of ALL OAR chapters (Gate #1 input for the mass import): ev
   and rule numbers, discovered from oregon.public.law chapter/division pages (static HTML; the official
   OARD listings are JS-rendered). Rule CONTENT always comes from the official OARD per-rule URL at ingest
   time, never from the mirror. Per-rule status: ''ingested'' means a full document exists in rules/; renumbered/not_served/not_sliceable
-  are recorded by ingest_oar.py. Chapter titles from the agency registry.'
+  are recorded by ingest_oar.py. Chapter titles from the agency registry. TWO FIELDS ARE SPELLED ''status''
+  AND THEY MEAN DIFFERENT THINGS (CONTEXT.md, *Legal status* / *Ingest status*): rules[].status above is
+  INGEST status, a claim about this mirror, and a rule can be in force and absent here or repealed and
+  still held. A rule''s LEGAL status — whether it is in force, corpus-toolkit''s current|superseded|repealed|proposed|draft
+  — is a claim about Oregon law whose one writer is the Oregon Bulletin (ADR 0006), and it lives on its
+  own key, rules[].legal_status, never in the field above. src/legal_status.py --check refuses either
+  field holding the other''s vocabulary and gates the document''s agreement with the row it was stamped
+  from; #229 is what records the first one.'
 chapters:
 - chapter: '101'
   title: Oregon Health Authority, Public Employees' Benefit Board
