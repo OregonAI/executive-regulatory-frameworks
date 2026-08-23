@@ -89,9 +89,47 @@
  
  Division 48 MENTAL HEALTH SPECIAL HOUSING 
  291-048-0310 
- Provision of Basic Services and Programs in Mental Health Special Housing 
+ Provision of Basic Services and Programs in Mental Health Special Housing
  
- (1) Mental health special housing shall be under the clinical supervision of the BHS program manager and the operational supervision of the MHSH custody manager.  (2) An inmate in mental health special housing may be given special security housing upon recommendation of the mental health treatment team for a specified period of time, and may not be permitted out of their assigned cell/room except when in actual custody of a custody staff member.  (3) Basic services and programs shall be determined by the mental health treatment team. The manner in which services and programs are provided may differ from the way they are provided to inmates in general population, if providing them in a routine manner would cause an immediate and continuing threat to the security of the facility or the safety of its staff or others.  (4) The mental health treatment team will develop, implement, or modify each individual inmate’s treatment. A review of the inmate’s treatment plans will occur as clinically indicated.  (a) The plan will have a specific set of objectives to meet in a progression of increasing personal responsibility. The treatment plan must be written, and a copy given to each inmate with whom the treatment plan is developed. A review of treatment plans will occur every 30 days or as clinically indicated.  (b) A treatment plan may include, but is not limited to, a structured daily schedule for that individual inmate different from the unit schedule based on that inmate’s individual needs.  (5) Mental health special housing staff may temporarily withhold a basic service previously approved to an inmate in mental health special housing if he/she has sufficient reason to believe the security of the facility, its staff or others is in immediate danger.  (a) The MHSH custody manager shall be informed as soon as is reasonable of any service or program that is withheld.  (b) All such actions directly affecting an inmate’s individual treatment must be reported to the BHS program manager by the following work day.  (c) The mental health treatment team must review any basic service or program that is withheld continuously.  (6) Psychiatric treatment or any type of psychotropic drugs administered to an inmate assigned to mental health special housing shall be in accordance with the Department of Corrections rule on Informed Consent to Treatment (OAR 291-064).  (7) All psychotropic medication administered to inmates housed in mental health special housing shall be prescribed by a licensed treating practitioner. All prescribed medication shall be administered by a nurse licensed to administer medication.  (8) Personal Property: Items permitted will, in general, be in accordance with the department’s rule on Personal Property (Inmate) (OAR 291-117). Personal property items may be withheld for security and treatment purposes, as determined by the mental health treatment team.  (9) Visits: An inmate in mental health special housing will be permitted visits in accordance with the Department of Corrections rule on Visiting (Inmate) (OAR 291-127).  (10) Recreation: An inmate will have an opportunity to participate in an exercise period in accordance with the inmate’s individual treatment plan and the operational needs of the unit.  (11) The management of an inmate placed in therapeutic restraints for medical or mental health treatment shall be in accordance with the rule on Therapeutic Restraints (Use of) (OAR 291-071).  (12) Suicide or Crisis:  (a) An inmate assigned to mental health special housing because of suicidal ideation, or attempt, may be placed on suicide precaution as directed by program or custody manager(s) assigned to the unit.  (b) The inmate will maintain this status until the assigned BHS staff determines that the suicide precaution is no longer necessary, in accordance with the Department of Corrections rule on Suicide Prevention in Correctional Facilities (OAR 291-076). 
+ 
+ (1) Mental health special housing shall be under the clinical supervision of the Behavioral Health Services program manager and the operational supervision of the mental health special housing custody manager. 
+
+ (2) An adult in custody in mental health special housing may be given special security housing upon recommendation of the mental health treatment team for a specified period of time and may not be permitted out of their assigned cell or room except when in the actual custody of a security employee . 
+
+ (3) Basic services and programs shall be determined by the mental health treatment team. The way services and programs are provided may differ from the way they are provided to adults in custody in general population, if providing them in a routine manner would cause an immediate and continuing threat to the security of the facility or the safety of its employee or others. 
+
+ (4) The mental health treatment team will develop, implement, and review the individualized treatment plans . 
+
+ (a) The individualized treatment plan will have a specific set of objectives to meet in a progression of increasing personal responsibility. The individualized treatment plan must be written and a copy given to each adult in custody with whom the individualized treatment plan is developed. A meaningful review of individualized treatment plans will occur every 30 days . 
+
+ (b) An individualized treatment plan may include, but is not limited to, a structured daily schedule based on that adult in custody’s individual needs , an adult in custody’s progression in a level system, and any specialized interventions, or provisions recommended for that adult in custody by the mental health treatment team. 
+
+ (5) A mental health special housing employee may temporarily withhold a basic service previously approved to an adult in custody in mental health special housing if the mental health special housing employee has sufficient reason to believe the security of the facility, its employees, or others is in immediate danger. 
+
+ (a) The mental health special housing custody manager shall be informed as soon as is reasonable of any service or program that is withheld. 
+
+ (b) All such actions directly affecting an adult in custody’s individualized treatment must be reported to the Behavioral Health Services program manager for the mental health special housing unit by the following workday. 
+
+ (c) The mental health treatment team must review any basic service or program that is withheld continuously. 
+
+ (6) Psychiatric treatment or any type of psychotropic drugs administered to an adult in custody assigned to mental health special housing shall be in accordance with the department’s rules on Informed Consent to Treatment (OAR 291-064). 
+
+ (7) All psychotropic medication administered to adults in custody housed in mental health special housing shall be prescribed by a prescribing practitioner. All prescribed medication shall be administered by a nurse licensed to administer medication. 
+
+ (8) Personal Property: Items permitted will, in general, be in accordance with the adult in custody’s individualized treatment plan, the adult in custody’s individual progress within a treatment program, and the department’s rules on Personal Property (Inmate) (OAR 291-117). Property in addition to items permitted shall be approved by the mental health treatment team. Personal property items may be withheld for security and treatment purposes, as determined by the mental health treatment team. 
+
+ (9) Visits: An adult in custody in mental health special housing will be permitted visits in accordance with the adult in custody’s individualized treatment plan, the adult in custody’s individual progress within a treatment program, and the department’s rules on visiting adults in custody assigned to the Mental Health Infirmary, OAR 291-127 -0260(9). 
+
+ (10) Recreation: An adult in custody will have an opportunity to participate in recreational activities in accordance with the adult in custody’s individualized treatment plan, the adult in custody’s individual progress within a treatment program, the adult in custody’s risk to others and the operational needs of the unit. 
+
+ (11) The management of an adult in custody placed in therapeutic restraints for medical or mental health treatment shall be in accordance with the department’s rules on Therapeutic Restraints (Use of) (OAR 291-071). 
+
+ (12) Suicide or Crisis: 
+
+ (a) An adult in custody assigned to mental health special housing with suicidal ideation, or attempt, may be placed on suicide precaution .   
+
+ (b) The adult in custody will maintain this status until the assigned qualified mental health professional determines that the suicide precaution is no longer necessary, in accordance with the department’s rules on Suicide Prevention in Correctional Facilities (OAR 291-076). 
+
  
  
  
@@ -102,6 +140,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 25-2026, amend filed 07/30/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -163,7 +216,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

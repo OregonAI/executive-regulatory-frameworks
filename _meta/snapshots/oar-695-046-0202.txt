@@ -93,13 +93,13 @@
  
  (1) For water acquisition grant applications seeking grant funds that require the Board to make a funding decision: 
 
- (a) After considering recommendations from staff, and any community impacts from the proposed Water Acquisition Project, the Board may fund a project in whole or in part. 
+ (a) After considering recommendations from staff, and any public comments received, the Board may fund a project in whole or in part. 
 
  (b) Projects not funded may be resubmitted during future application submission periods. 
 
  (2) For water acquisition grant applications seeking grant funds that have been Delegated to the Director: 
 
- (a) After considering recommendations from staff, and any community impacts from the proposed Water Acquisition Project, the Director may fund a project in whole or in part. 
+ (a) After considering recommendations from staff, and any public comments received, the Director may fund a project in whole or in part. 
 
  (b) Projects not funded may be resubmitted during future application submission periods. 
 
@@ -113,6 +113,21 @@
  Statutes/Other Implemented:  ORS 541.890-541.969 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OWEB 1-2026, amend filed 07/31/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -141,7 +156,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

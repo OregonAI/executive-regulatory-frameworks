@@ -89,9 +89,13 @@
  
  Division 82 ASSESSMENT, ASSIGNMENT, AND SUPERVISION OF ADULTS IN CUSTODY FOR WORK ASSIGNMENTS AND UNFENCED MINIMUM HOUSING 
  291-082-0145 
- Work Crew Supervision Training 
+ Work Crew Supervision Training
  
- (1) Before supervising a community inmate work crew, all employees of the Department of Corrections and other local, state or federal governmental agencies that have been designated to supervise inmates assigned to community work crews will minimally receive eight hours of supervisory training. This training shall be developed, approved, and provided by the Department of Corrections Professional Development Unit staff member or adjunct training.  (2) The department will provide the designated employees periodic follow-up training at least annually. Training may be provided by the department more frequently if the department determines additional training to be necessary or advisable. 
+ 
+ (1) Before supervising a community adult in custody work crew, all employees of the Department of Corrections and local, state , or federal governmental agencies designated to supervise adults in custody assigned to community work crews will minimally receive eight hours of supervisory training. This training shall be developed and approved by the Department of Corrections Professional Development Unit and provided by the Department of Corrections Professional Development Unit or designee . 
+
+ (2) The department will provide the designated employees periodic follow-up training at least annually. Training may be provided by the department more frequently if the department determines additional training to be necessary or advisable. 
+
  
  
  
@@ -102,6 +106,21 @@
  Statutes/Other Implemented:  ORS 179.040, 421.425, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 23-2026, amend filed 07/29/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -138,7 +157,7 @@ DOC 3-2002, f. & cert. ef. 1-16-02
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

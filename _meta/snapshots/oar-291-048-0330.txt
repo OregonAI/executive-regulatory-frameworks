@@ -89,9 +89,15 @@
  
  Division 48 MENTAL HEALTH SPECIAL HOUSING 
  291-048-0330 
- Administrative Hold Assignments 
+ Administrative Hold Assignments
  
- (1) The functional unit manager(s) may temporarily assign an inmate to mental health special housing for other than mental health reasons on administrative hold status if he/she determines that the inmate's assignment is necessary or advisable to protect the safety, security, health, good order and discipline of the facility, its staff, visitors or other inmates, or to further other legitimate correctional objectives.  (2) Assignment to mental health special housing on administrative hold status shall not be an admission to the unit. An inmate assigned to mental health special housing on administrative hold status will be subject to all operational policies and procedures while assigned to the unit.  (3) An inmate may be involuntarily assigned to mental health special housing for a period in excess of 30 days in accordance with the notice and hearings process set forth in the department's rule on Administrative Housing (OAR 291-046). 
+ 
+ (1) The  institution’s functional unit manager may temporarily assign an adult in custody to mental health special housing on administrative hold status for other than mental health reasons if the institution’s functional unit manager determines that the  adult in custody’s assignment is necessary or advisable to protect the safety, security, order , and efficient operations of the facility, the safety or security of its employees , visitors or other adults in custody , or to further other legitimate correctional objectives. 
+
+ (2) Assignment to mental health special housing on administrative hold status shall not be an admission to the unit. An adult in custody assigned to mental health special housing on administrative hold status may be subject to all operational policies and procedures while assigned to the unit. 
+
+ (3) An adult in custody may be involuntarily assigned to mental health special housing for a period more than 30 days in accordance with the notice and hearings process set forth in the department's rules on Administrative Housing (OAR 291-046). 
+
  
  
  
@@ -102,6 +108,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 25-2026, amend filed 07/30/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -163,7 +184,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

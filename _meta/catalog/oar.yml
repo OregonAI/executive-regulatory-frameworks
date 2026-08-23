@@ -2138,24 +2138,38 @@ chapters:
     - number: 123-061-0010
       status: ingested
       path: rules/123/061/oar-123-061-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 123-061-0020
       status: ingested
       path: rules/123/061/oar-123-061-0020.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 123-061-0030
       status: ingested
       path: rules/123/061/oar-123-061-0030.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 123-061-0031
       status: ingested
       path: rules/123/061/oar-123-061-0031.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 123-061-0032
       status: ingested
       path: rules/123/061/oar-123-061-0032.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 123-061-0033
       status: ingested
       path: rules/123/061/oar-123-061-0033.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 123-061-0035
       status: ingested
       path: rules/123/061/oar-123-061-0035.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '70'
     title: First-Source Hiring Agreements
     status: not_ingested
@@ -13324,15 +13338,23 @@ chapters:
     - number: 161-010-0035
       status: ingested
       path: rules/161/010/oar-161-010-0035.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 161-010-0045
       status: ingested
       path: rules/161/010/oar-161-010-0045.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 161-010-0065
       status: ingested
       path: rules/161/010/oar-161-010-0065.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 161-010-0080
       status: ingested
       path: rules/161/010/oar-161-010-0080.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 161-010-0085
       status: ingested
       path: rules/161/010/oar-161-010-0085.md
@@ -13398,6 +13420,8 @@ chapters:
     - number: 161-020-0110
       status: ingested
       path: rules/161/020/oar-161-020-0110.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 161-020-0120
       status: ingested
       path: rules/161/020/oar-161-020-0120.md
@@ -19137,6 +19161,8 @@ chapters:
     - number: 257-015-0080
       status: ingested
       path: rules/257/015/oar-257-015-0080.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 257-015-0090
       status: ingested
       path: rules/257/015/oar-257-015-0090.md
@@ -21665,45 +21691,73 @@ chapters:
     - number: 291-048-0200
       status: ingested
       path: rules/291/048/oar-291-048-0200.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-048-0210
       status: ingested
       path: rules/291/048/oar-291-048-0210.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-048-0220
       status: ingested
       path: rules/291/048/oar-291-048-0220.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-048-0230
       status: ingested
       path: rules/291/048/oar-291-048-0230.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-048-0240
       status: ingested
       path: rules/291/048/oar-291-048-0240.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-048-0250
       status: ingested
       path: rules/291/048/oar-291-048-0250.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-048-0260
       status: ingested
       path: rules/291/048/oar-291-048-0260.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-048-0270
       status: ingested
       path: rules/291/048/oar-291-048-0270.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-048-0280
       status: ingested
       path: rules/291/048/oar-291-048-0280.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-048-0290
       status: ingested
       path: rules/291/048/oar-291-048-0290.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-048-0300
       status: ingested
       path: rules/291/048/oar-291-048-0300.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-048-0310
       status: ingested
       path: rules/291/048/oar-291-048-0310.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-048-0320
       status: ingested
       path: rules/291/048/oar-291-048-0320.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-048-0330
       status: ingested
       path: rules/291/048/oar-291-048-0330.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '52'
     title: Transfers/Responsibilities Between Oregon Youth Authority and Department of Corrections
     status: not_ingested
@@ -22341,6 +22395,8 @@ chapters:
     - number: 291-082-0100
       status: ingested
       path: rules/291/082/oar-291-082-0100.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-082-0105
       status: ingested
       path: rules/291/082/oar-291-082-0105.md
@@ -22356,24 +22412,38 @@ chapters:
     - number: 291-082-0115
       status: ingested
       path: rules/291/082/oar-291-082-0115.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-082-0120
       status: ingested
       path: rules/291/082/oar-291-082-0120.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-082-0125
       status: ingested
       path: rules/291/082/oar-291-082-0125.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-082-0130
       status: ingested
       path: rules/291/082/oar-291-082-0130.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-082-0135
       status: ingested
       path: rules/291/082/oar-291-082-0135.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-082-0140
       status: ingested
       path: rules/291/082/oar-291-082-0140.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-082-0145
       status: ingested
       path: rules/291/082/oar-291-082-0145.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '83'
     title: Controlled Feeding
     status: not_ingested
@@ -22523,6 +22593,8 @@ chapters:
     - number: 291-104-0106
       status: ingested
       path: rules/291/104/oar-291-104-0106.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-104-0111
       status: ingested
       path: rules/291/104/oar-291-104-0111.md
@@ -22532,6 +22604,8 @@ chapters:
     - number: 291-104-0116
       status: ingested
       path: rules/291/104/oar-291-104-0116.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-104-0125
       status: ingested
       path: rules/291/104/oar-291-104-0125.md
@@ -22541,9 +22615,13 @@ chapters:
     - number: 291-104-0135
       status: ingested
       path: rules/291/104/oar-291-104-0135.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 291-104-0140
       status: ingested
       path: rules/291/104/oar-291-104-0140.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '105'
     title: Prohibited Conduct and Processing Disciplinary Actions
     status: not_ingested
@@ -24520,6 +24598,8 @@ chapters:
     - number: 309-033-0210
       status: ingested
       path: rules/309/033/oar-309-033-0210.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 309-033-0220
       status: ingested
       path: rules/309/033/oar-309-033-0220.md
@@ -32489,6 +32569,8 @@ chapters:
     - number: 333-102-0285
       status: ingested
       path: rules/333/102/oar-333-102-0285.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 333-102-0290
       status: ingested
       path: rules/333/102/oar-333-102-0290.md
@@ -32717,6 +32799,8 @@ chapters:
     - number: 333-106-0005
       status: ingested
       path: rules/333/106/oar-333-106-0005.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 333-106-0010
       status: ingested
       path: rules/333/106/oar-333-106-0010.md
@@ -32768,6 +32852,8 @@ chapters:
     - number: 333-106-0205
       status: ingested
       path: rules/333/106/oar-333-106-0205.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 333-106-0210
       status: ingested
       path: rules/333/106/oar-333-106-0210.md
@@ -32810,6 +32896,8 @@ chapters:
     - number: 333-106-0325
       status: ingested
       path: rules/333/106/oar-333-106-0325.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 333-106-0345
       status: ingested
       path: rules/333/106/oar-333-106-0345.md
@@ -32843,12 +32931,16 @@ chapters:
     - number: 333-106-0368
       status: ingested
       path: rules/333/106/oar-333-106-0368.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 333-106-0369
       status: ingested
       path: rules/333/106/oar-333-106-0369.md
     - number: 333-106-0370
       status: ingested
       path: rules/333/106/oar-333-106-0370.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 333-106-0601
       status: ingested
       path: rules/333/106/oar-333-106-0601.md
@@ -33420,6 +33512,8 @@ chapters:
     - number: 333-116-1000
       status: ingested
       path: rules/333/116/oar-333-116-1000.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 333-116-1015
       status: ingested
       path: rules/333/116/oar-333-116-1015.md
@@ -33582,6 +33676,8 @@ chapters:
     - number: 333-119-0010
       status: ingested
       path: rules/333/119/oar-333-119-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 333-119-0020
       status: ingested
       path: rules/333/119/oar-333-119-0020.md
@@ -33606,12 +33702,18 @@ chapters:
     - number: 333-119-0080
       status: ingested
       path: rules/333/119/oar-333-119-0080.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 333-119-0090
       status: ingested
       path: rules/333/119/oar-333-119-0090.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 333-119-0100
       status: ingested
       path: rules/333/119/oar-333-119-0100.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 333-119-0110
       status: ingested
       path: rules/333/119/oar-333-119-0110.md
@@ -37248,6 +37350,8 @@ chapters:
     - number: 340-041-0345
       status: ingested
       path: rules/340/041/oar-340-041-0345.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 340-041-0350
       status: ingested
       path: rules/340/041/oar-340-041-0350.md
@@ -43407,6 +43511,8 @@ chapters:
     - number: 350-011-0010
       status: ingested
       path: rules/350/011/oar-350-011-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 350-011-0011
       status: ingested
       path: rules/350/011/oar-350-011-0011.md
@@ -43574,6 +43680,8 @@ chapters:
     - number: 350-016-0010
       status: ingested
       path: rules/350/016/oar-350-016-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0011
       status: ingested
       path: rules/350/016/oar-350-016-0011.md
@@ -43625,6 +43733,8 @@ chapters:
     - number: 350-016-0020
       status: ingested
       path: rules/350/016/oar-350-016-0020.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 350-016-0022
       status: ingested
       path: rules/350/016/oar-350-016-0022.md
@@ -44657,6 +44767,8 @@ chapters:
       note: OARD serves 419-110-0010 for this number
       served_as: 419-110-0010
       path: rules/419/110/oar-419-110-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 407-045-0140
       status: renumbered
       note: OARD serves 419-110-0020 for this number
@@ -44687,6 +44799,8 @@ chapters:
       note: OARD serves 419-110-0070 for this number
       served_as: 419-110-0070
       path: rules/419/110/oar-419-110-0070.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 407-045-0200
       status: renumbered
       note: OARD serves 419-110-0080 for this number
@@ -44722,6 +44836,8 @@ chapters:
       note: OARD serves 419-100-0010 for this number
       served_as: 419-100-0010
       path: rules/419/100/oar-419-100-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 407-045-0280
       status: renumbered
       note: OARD serves 419-100-0020 for this number
@@ -44752,6 +44868,8 @@ chapters:
       note: OARD serves 419-100-0070 for this number
       served_as: 419-100-0070
       path: rules/419/100/oar-419-100-0070.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 407-045-0320
       status: renumbered
       note: OARD serves 419-100-0080 for this number
@@ -44787,6 +44905,8 @@ chapters:
       note: OARD serves 419-120-0010 for this number
       served_as: 419-120-0010
       path: rules/419/120/oar-419-120-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 407-045-0425
       status: renumbered
       note: OARD serves 419-120-0020 for this number
@@ -44812,6 +44932,8 @@ chapters:
       note: OARD serves 419-120-0060 for this number
       served_as: 419-120-0060
       path: rules/419/120/oar-419-120-0060.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 407-045-0475
       status: renumbered
       note: OARD serves 419-120-0070 for this number
@@ -44882,6 +45004,8 @@ chapters:
       note: OARD serves 419-210-0170 for this number
       served_as: 419-210-0170
       path: rules/419/210/oar-419-210-0170.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 407-045-0890
       status: renumbered
       note: OARD serves 419-210-0180 for this number
@@ -44917,6 +45041,8 @@ chapters:
       note: OARD serves 419-130-0010 for this number
       served_as: 419-130-0010
       path: rules/419/130/oar-419-130-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 407-045-1020
       status: renumbered
       note: OARD serves 419-130-0020 for this number
@@ -44942,6 +45068,8 @@ chapters:
       note: OARD serves 419-130-0060 for this number
       served_as: 419-130-0060
       path: rules/419/130/oar-419-130-0060.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 407-045-1070
       status: renumbered
       note: OARD serves 419-130-0070 for this number
@@ -45436,6 +45564,8 @@ chapters:
     - number: 409-026-0130
       status: ingested
       path: rules/409/026/oar-409-026-0130.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 409-026-0140
       status: ingested
       path: rules/409/026/oar-409-026-0140.md
@@ -45908,6 +46038,8 @@ chapters:
     - number: 410-120-1295
       status: ingested
       path: rules/410/120/oar-410-120-1295.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 410-120-1300
       status: ingested
       path: rules/410/120/oar-410-120-1300.md
@@ -46041,6 +46173,8 @@ chapters:
     - number: 410-121-0146
       status: ingested
       path: rules/410/121/oar-410-121-0146.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 410-121-0147
       status: ingested
       path: rules/410/121/oar-410-121-0147.md
@@ -47869,12 +48003,16 @@ chapters:
     - number: 410-172-0705
       status: ingested
       path: rules/410/172/oar-410-172-0705.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 410-172-0710
       status: ingested
       path: rules/410/172/oar-410-172-0710.md
     - number: 410-172-0720
       status: ingested
       path: rules/410/172/oar-410-172-0720.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 410-172-0730
       status: ingested
       path: rules/410/172/oar-410-172-0730.md
@@ -48852,9 +48990,13 @@ chapters:
     - number: 411-049-0102
       status: ingested
       path: rules/411/049/oar-411-049-0102.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-049-0105
       status: ingested
       path: rules/411/049/oar-411-049-0105.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-049-0110
       status: ingested
       path: rules/411/049/oar-411-049-0110.md
@@ -48864,21 +49006,31 @@ chapters:
     - number: 411-049-0120
       status: ingested
       path: rules/411/049/oar-411-049-0120.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-049-0125
       status: ingested
       path: rules/411/049/oar-411-049-0125.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-049-0135
       status: ingested
       path: rules/411/049/oar-411-049-0135.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-049-0140
       status: ingested
       path: rules/411/049/oar-411-049-0140.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-049-0145
       status: ingested
       path: rules/411/049/oar-411-049-0145.md
     - number: 411-049-0150
       status: ingested
       path: rules/411/049/oar-411-049-0150.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-049-0155
       status: ingested
       path: rules/411/049/oar-411-049-0155.md
@@ -48907,6 +49059,8 @@ chapters:
     - number: 411-050-0730
       status: ingested
       path: rules/411/050/oar-411-050-0730.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-050-0735
       status: ingested
       path: rules/411/050/oar-411-050-0735.md
@@ -48916,6 +49070,8 @@ chapters:
     - number: 411-050-0745
       status: ingested
       path: rules/411/050/oar-411-050-0745.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-050-0750
       status: ingested
       path: rules/411/050/oar-411-050-0750.md
@@ -48932,12 +49088,16 @@ chapters:
     - number: 411-051-0105
       status: ingested
       path: rules/411/051/oar-411-051-0105.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-051-0110
       status: ingested
       path: rules/411/051/oar-411-051-0110.md
     - number: 411-051-0115
       status: ingested
       path: rules/411/051/oar-411-051-0115.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-051-0120
       status: ingested
       path: rules/411/051/oar-411-051-0120.md
@@ -48947,6 +49107,8 @@ chapters:
     - number: 411-051-0130
       status: ingested
       path: rules/411/051/oar-411-051-0130.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '52'
     title: Adult Foster Homes for Older Adults or Adults With Physical Disabilities - Complaints, Investigations,
       and Sanctions
@@ -48955,6 +49117,8 @@ chapters:
     - number: 411-052-0005
       status: ingested
       path: rules/411/052/oar-411-052-0005.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-052-0010
       status: ingested
       path: rules/411/052/oar-411-052-0010.md
@@ -48973,6 +49137,8 @@ chapters:
     - number: 411-052-0035
       status: ingested
       path: rules/411/052/oar-411-052-0035.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-052-0040
       status: ingested
       path: rules/411/052/oar-411-052-0040.md
@@ -50391,12 +50557,16 @@ chapters:
     - number: 411-318-0005
       status: ingested
       path: rules/411/318/oar-411-318-0005.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-318-0010
       status: ingested
       path: rules/411/318/oar-411-318-0010.md
     - number: 411-318-0015
       status: ingested
       path: rules/411/318/oar-411-318-0015.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 411-318-0020
       status: ingested
       path: rules/411/318/oar-411-318-0020.md
@@ -62632,6 +62802,8 @@ chapters:
     - number: 459-005-0210
       status: ingested
       path: rules/459/005/oar-459-005-0210.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 459-005-0215
       status: ingested
       path: rules/459/005/oar-459-005-0215.md
@@ -62905,6 +63077,8 @@ chapters:
     - number: 459-010-0014
       status: ingested
       path: rules/459/010/oar-459-010-0014.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 459-010-0019
       status: ingested
       path: rules/459/010/oar-459-010-0019.md
@@ -63124,6 +63298,8 @@ chapters:
     - number: 459-035-0070
       status: ingested
       path: rules/459/035/oar-459-035-0070.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 459-035-0080
       status: ingested
       path: rules/459/035/oar-459-035-0080.md
@@ -63265,6 +63441,8 @@ chapters:
     - number: 459-050-0077
       status: ingested
       path: rules/459/050/oar-459-050-0077.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 459-050-0080
       status: ingested
       path: rules/459/050/oar-459-050-0080.md
@@ -63364,6 +63542,8 @@ chapters:
     - number: 459-075-0150
       status: ingested
       path: rules/459/075/oar-459-075-0150.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 459-075-0170
       status: ingested
       path: rules/459/075/oar-459-075-0170.md
@@ -63632,6 +63812,8 @@ chapters:
     - number: 461-115-0050
       status: ingested
       path: rules/461/115/oar-461-115-0050.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-115-0071
       status: ingested
       path: rules/461/115/oar-461-115-0071.md
@@ -63656,6 +63838,8 @@ chapters:
     - number: 461-115-0430
       status: ingested
       path: rules/461/115/oar-461-115-0430.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-115-0450
       status: ingested
       path: rules/461/115/oar-461-115-0450.md
@@ -64058,6 +64242,8 @@ chapters:
     - number: 461-135-1200
       status: ingested
       path: rules/461/135/oar-461-135-1200.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-135-1230
       status: ingested
       path: rules/461/135/oar-461-135-1230.md
@@ -64083,33 +64269,51 @@ chapters:
     - number: 461-140-0010
       status: ingested
       path: rules/461/140/oar-461-140-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-140-0020
       status: ingested
       path: rules/461/140/oar-461-140-0020.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-140-0040
       status: ingested
       path: rules/461/140/oar-461-140-0040.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-140-0070
       status: ingested
       path: rules/461/140/oar-461-140-0070.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-140-0110
       status: ingested
       path: rules/461/140/oar-461-140-0110.md
     - number: 461-140-0120
       status: ingested
       path: rules/461/140/oar-461-140-0120.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-140-0210
       status: ingested
       path: rules/461/140/oar-461-140-0210.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-140-0220
       status: ingested
       path: rules/461/140/oar-461-140-0220.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-140-0242
       status: ingested
       path: rules/461/140/oar-461-140-0242.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-140-0250
       status: ingested
       path: rules/461/140/oar-461-140-0250.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-140-0260
       status: ingested
       path: rules/461/140/oar-461-140-0260.md
@@ -64119,9 +64323,13 @@ chapters:
     - number: 461-140-0296
       status: ingested
       path: rules/461/140/oar-461-140-0296.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-140-0300
       status: ingested
       path: rules/461/140/oar-461-140-0300.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '145'
     title: Treatments of Specific Assets
     status: not_ingested
@@ -64129,18 +64337,24 @@ chapters:
     - number: 461-145-0000
       status: ingested
       path: rules/461/145/oar-461-145-0000.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0001
       status: ingested
       path: rules/461/145/oar-461-145-0001.md
     - number: 461-145-0005
       status: ingested
       path: rules/461/145/oar-461-145-0005.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0008
       status: ingested
       path: rules/461/145/oar-461-145-0008.md
     - number: 461-145-0010
       status: ingested
       path: rules/461/145/oar-461-145-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0020
       status: ingested
       path: rules/461/145/oar-461-145-0020.md
@@ -64153,21 +64367,29 @@ chapters:
     - number: 461-145-0030
       status: ingested
       path: rules/461/145/oar-461-145-0030.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0035
       status: ingested
       path: rules/461/145/oar-461-145-0035.md
     - number: 461-145-0040
       status: ingested
       path: rules/461/145/oar-461-145-0040.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0050
       status: ingested
       path: rules/461/145/oar-461-145-0050.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0060
       status: ingested
       path: rules/461/145/oar-461-145-0060.md
     - number: 461-145-0080
       status: ingested
       path: rules/461/145/oar-461-145-0080.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0086
       status: ingested
       path: rules/461/145/oar-461-145-0086.md
@@ -64177,12 +64399,18 @@ chapters:
     - number: 461-145-0088
       status: ingested
       path: rules/461/145/oar-461-145-0088.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0089
       status: ingested
       path: rules/461/145/oar-461-145-0089.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0090
       status: ingested
       path: rules/461/145/oar-461-145-0090.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0100
       status: ingested
       path: rules/461/145/oar-461-145-0100.md
@@ -64192,15 +64420,23 @@ chapters:
     - number: 461-145-0108
       status: ingested
       path: rules/461/145/oar-461-145-0108.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0110
       status: ingested
       path: rules/461/145/oar-461-145-0110.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0120
       status: ingested
       path: rules/461/145/oar-461-145-0120.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0130
       status: ingested
       path: rules/461/145/oar-461-145-0130.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0140
       status: ingested
       path: rules/461/145/oar-461-145-0140.md
@@ -64210,9 +64446,13 @@ chapters:
     - number: 461-145-0145
       status: ingested
       path: rules/461/145/oar-461-145-0145.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0150
       status: ingested
       path: rules/461/145/oar-461-145-0150.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-145-0170
       status: ingested
       path: rules/461/145/oar-461-145-0170.md
@@ -64666,6 +64906,8 @@ chapters:
     - number: 461-160-0620
       status: ingested
       path: rules/461/160/oar-461-160-0620.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 461-160-0630
       status: ingested
       path: rules/461/160/oar-461-160-0630.md
@@ -65140,6 +65382,8 @@ chapters:
     - number: 462-001-0008
       status: ingested
       path: rules/462/001/oar-462-001-0008.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 462-001-0010
       status: ingested
       path: rules/462/001/oar-462-001-0010.md
@@ -65157,6 +65401,8 @@ chapters:
     - number: 462-120-0010
       status: ingested
       path: rules/462/120/oar-462-120-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 462-120-0020
       status: ingested
       path: rules/462/120/oar-462-120-0020.md
@@ -65166,12 +65412,18 @@ chapters:
     - number: 462-120-0040
       status: ingested
       path: rules/462/120/oar-462-120-0040.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 462-120-0050
       status: ingested
       path: rules/462/120/oar-462-120-0050.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 462-120-0055
       status: ingested
       path: rules/462/120/oar-462-120-0055.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 462-120-0060
       status: ingested
       path: rules/462/120/oar-462-120-0060.md
@@ -65315,6 +65567,8 @@ chapters:
     - number: 462-140-0320
       status: ingested
       path: rules/462/140/oar-462-140-0320.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 462-140-0330
       status: ingested
       path: rules/462/140/oar-462-140-0330.md
@@ -67363,6 +67617,8 @@ chapters:
     - number: 581-015-2030
       status: ingested
       path: rules/581/015/oar-581-015-2030.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 581-015-2035
       status: ingested
       path: rules/581/015/oar-581-015-2035.md
@@ -67717,6 +67973,8 @@ chapters:
     - number: 581-015-2595
       status: ingested
       path: rules/581/015/oar-581-015-2595.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 581-015-2600
       status: ingested
       path: rules/581/015/oar-581-015-2600.md
@@ -68983,9 +69241,13 @@ chapters:
     - number: 581-022-0102
       status: ingested
       path: rules/581/022/oar-581-022-0102.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 581-022-0103
       status: ingested
       path: rules/581/022/oar-581-022-0103.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 581-022-0104
       status: ingested
       path: rules/581/022/oar-581-022-0104.md
@@ -69082,6 +69344,8 @@ chapters:
     - number: 581-022-2300
       status: ingested
       path: rules/581/022/oar-581-022-2300.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 581-022-2305
       status: ingested
       path: rules/581/022/oar-581-022-2305.md
@@ -69124,6 +69388,8 @@ chapters:
     - number: 581-022-2370
       status: ingested
       path: rules/581/022/oar-581-022-2370.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 581-022-2400
       status: ingested
       path: rules/581/022/oar-581-022-2400.md
@@ -71986,6 +72252,8 @@ chapters:
       note: OARD serves 603-011-0214 for this number
       served_as: 603-011-0214
       path: rules/603/011/oar-603-011-0214.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 603-011-0250
       status: renumbered
       note: OARD serves 603-011-1000 for this number
@@ -72982,6 +73250,8 @@ chapters:
     - number: 603-025-0030
       status: ingested
       path: rules/603/025/oar-603-025-0030.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 603-025-0080
       status: ingested
       path: rules/603/025/oar-603-025-0080.md
@@ -75119,6 +75389,8 @@ chapters:
     - number: 603-095-0340
       status: ingested
       path: rules/603/095/oar-603-095-0340.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 603-095-0380
       status: ingested
       path: rules/603/095/oar-603-095-0380.md
@@ -75179,9 +75451,13 @@ chapters:
     - number: 603-095-0840
       status: ingested
       path: rules/603/095/oar-603-095-0840.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 603-095-0860
       status: ingested
       path: rules/603/095/oar-603-095-0860.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 603-095-0900
       status: ingested
       path: rules/603/095/oar-603-095-0900.md
@@ -75428,6 +75704,8 @@ chapters:
     - number: 603-095-2840
       status: ingested
       path: rules/603/095/oar-603-095-2840.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 603-095-2860
       status: ingested
       path: rules/603/095/oar-603-095-2860.md
@@ -75560,6 +75838,8 @@ chapters:
     - number: 603-095-3940
       status: ingested
       path: rules/603/095/oar-603-095-3940.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 603-095-3960
       status: ingested
       path: rules/603/095/oar-603-095-3960.md
@@ -80445,6 +80725,8 @@ chapters:
     - number: 635-011-0100
       status: ingested
       path: rules/635/011/oar-635-011-0100.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 635-011-0102
       status: ingested
       path: rules/635/011/oar-635-011-0102.md
@@ -80603,6 +80885,8 @@ chapters:
     - number: 635-023-0130
       status: ingested
       path: rules/635/023/oar-635-023-0130.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 635-023-0134
       status: ingested
       path: rules/635/023/oar-635-023-0134.md
@@ -80741,9 +81025,13 @@ chapters:
     - number: 635-041-0072
       status: ingested
       path: rules/635/041/oar-635-041-0072.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 635-041-0075
       status: ingested
       path: rules/635/041/oar-635-041-0075.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 635-041-0076
       status: ingested
       path: rules/635/041/oar-635-041-0076.md
@@ -80790,6 +81078,8 @@ chapters:
     - number: 635-042-0010
       status: ingested
       path: rules/635/042/oar-635-042-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 635-042-0015
       status: ingested
       path: rules/635/042/oar-635-042-0015.md
@@ -80805,6 +81095,8 @@ chapters:
     - number: 635-042-0031
       status: ingested
       path: rules/635/042/oar-635-042-0031.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 635-042-0032
       status: ingested
       path: rules/635/042/oar-635-042-0032.md
@@ -84456,6 +84748,8 @@ chapters:
     - number: 645-010-0010
       status: ingested
       path: rules/645/010/oar-645-010-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 645-010-0015
       status: ingested
       path: rules/645/010/oar-645-010-0015.md
@@ -85079,6 +85373,8 @@ chapters:
     - number: 660-006-0025
       status: ingested
       path: rules/660/006/oar-660-006-0025.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 660-006-0026
       status: ingested
       path: rules/660/006/oar-660-006-0026.md
@@ -85473,6 +85769,8 @@ chapters:
     - number: 660-021-0030
       status: ingested
       path: rules/660/021/oar-660-021-0030.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 660-021-0040
       status: ingested
       path: rules/660/021/oar-660-021-0040.md
@@ -85488,6 +85786,8 @@ chapters:
     - number: 660-021-0080
       status: ingested
       path: rules/660/021/oar-660-021-0080.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '22'
     title: Unincorporated Communities
     status: not_ingested
@@ -85504,6 +85804,8 @@ chapters:
     - number: 660-022-0030
       status: ingested
       path: rules/660/022/oar-660-022-0030.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 660-022-0040
       status: ingested
       path: rules/660/022/oar-660-022-0040.md
@@ -86950,6 +87252,8 @@ chapters:
     - number: 690-002-0010
       status: ingested
       path: rules/690/002/oar-690-002-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-002-0020
       status: ingested
       path: rules/690/002/oar-690-002-0020.md
@@ -86959,9 +87263,13 @@ chapters:
     - number: 690-002-0025
       status: ingested
       path: rules/690/002/oar-690-002-0025.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-002-0030
       status: ingested
       path: rules/690/002/oar-690-002-0030.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-002-0035
       status: ingested
       path: rules/690/002/oar-690-002-0035.md
@@ -86974,9 +87282,13 @@ chapters:
     - number: 690-002-0175
       status: ingested
       path: rules/690/002/oar-690-002-0175.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-002-0190
       status: ingested
       path: rules/690/002/oar-690-002-0190.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '3'
     title: Public Records Access and Reproduction
     status: not_ingested
@@ -87228,9 +87540,13 @@ chapters:
     - number: 690-017-0600
       status: ingested
       path: rules/690/017/oar-690-017-0600.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-017-0700
       status: ingested
       path: rules/690/017/oar-690-017-0700.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-017-0800
       status: ingested
       path: rules/690/017/oar-690-017-0800.md
@@ -87880,12 +88196,18 @@ chapters:
     - number: 690-077-0027
       status: ingested
       path: rules/690/077/oar-690-077-0027.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-077-0029
       status: ingested
       path: rules/690/077/oar-690-077-0029.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-077-0031
       status: ingested
       path: rules/690/077/oar-690-077-0031.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-077-0033
       status: ingested
       path: rules/690/077/oar-690-077-0033.md
@@ -87895,6 +88217,8 @@ chapters:
     - number: 690-077-0039
       status: ingested
       path: rules/690/077/oar-690-077-0039.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-077-0043
       status: ingested
       path: rules/690/077/oar-690-077-0043.md
@@ -87904,6 +88228,8 @@ chapters:
     - number: 690-077-0047
       status: ingested
       path: rules/690/077/oar-690-077-0047.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-077-0048
       status: ingested
       path: rules/690/077/oar-690-077-0048.md
@@ -87913,9 +88239,13 @@ chapters:
     - number: 690-077-0051
       status: ingested
       path: rules/690/077/oar-690-077-0051.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-077-0052
       status: ingested
       path: rules/690/077/oar-690-077-0052.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-077-0053
       status: ingested
       path: rules/690/077/oar-690-077-0053.md
@@ -89175,6 +89505,8 @@ chapters:
     - number: 690-310-0040
       status: ingested
       path: rules/690/310/oar-690-310-0040.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-310-0050
       status: ingested
       path: rules/690/310/oar-690-310-0050.md
@@ -89184,12 +89516,18 @@ chapters:
     - number: 690-310-0070
       status: ingested
       path: rules/690/310/oar-690-310-0070.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-310-0080
       status: ingested
       path: rules/690/310/oar-690-310-0080.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-310-0090
       status: ingested
       path: rules/690/310/oar-690-310-0090.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-310-0100
       status: ingested
       path: rules/690/310/oar-690-310-0100.md
@@ -89202,12 +89540,16 @@ chapters:
     - number: 690-310-0130
       status: ingested
       path: rules/690/310/oar-690-310-0130.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-310-0140
       status: ingested
       path: rules/690/310/oar-690-310-0140.md
     - number: 690-310-0150
       status: ingested
       path: rules/690/310/oar-690-310-0150.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-310-0160
       status: ingested
       path: rules/690/310/oar-690-310-0160.md
@@ -89220,15 +89562,23 @@ chapters:
     - number: 690-310-0190
       status: ingested
       path: rules/690/310/oar-690-310-0190.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-310-0200
       status: ingested
       path: rules/690/310/oar-690-310-0200.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-310-0210
       status: ingested
       path: rules/690/310/oar-690-310-0210.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-310-0220
       status: ingested
       path: rules/690/310/oar-690-310-0220.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-310-0230
       status: ingested
       path: rules/690/310/oar-690-310-0230.md
@@ -89244,6 +89594,8 @@ chapters:
     - number: 690-310-0270
       status: ingested
       path: rules/690/310/oar-690-310-0270.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-310-0275
       status: ingested
       path: rules/690/310/oar-690-310-0275.md
@@ -89260,27 +89612,41 @@ chapters:
     - number: 690-315-0020
       status: ingested
       path: rules/690/315/oar-690-315-0020.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-315-0030
       status: ingested
       path: rules/690/315/oar-690-315-0030.md
     - number: 690-315-0040
       status: ingested
       path: rules/690/315/oar-690-315-0040.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-315-0050
       status: ingested
       path: rules/690/315/oar-690-315-0050.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-315-0060
       status: ingested
       path: rules/690/315/oar-690-315-0060.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-315-0070
       status: ingested
       path: rules/690/315/oar-690-315-0070.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-315-0080
       status: ingested
       path: rules/690/315/oar-690-315-0080.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-315-0090
       status: ingested
       path: rules/690/315/oar-690-315-0090.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-315-0100
       status: ingested
       path: rules/690/315/oar-690-315-0100.md
@@ -89334,18 +89700,26 @@ chapters:
     - number: 690-325-0070
       status: ingested
       path: rules/690/325/oar-690-325-0070.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-325-0080
       status: ingested
       path: rules/690/325/oar-690-325-0080.md
     - number: 690-325-0090
       status: ingested
       path: rules/690/325/oar-690-325-0090.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-325-0100
       status: ingested
       path: rules/690/325/oar-690-325-0100.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-325-0110
       status: ingested
       path: rules/690/325/oar-690-325-0110.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '330'
     title: Water Right Certificates
     status: not_ingested
@@ -89381,6 +89755,8 @@ chapters:
     - number: 690-340-0060
       status: ingested
       path: rules/690/340/oar-690-340-0060.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '350'
     title: Aquifer Storage and Recovery (Asr) and Artificial Groundwater Recharge
     status: not_ingested
@@ -89434,6 +89810,8 @@ chapters:
     - number: 690-380-2240
       status: ingested
       path: rules/690/380/oar-690-380-2240.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-380-2250
       status: ingested
       path: rules/690/380/oar-690-380-2250.md
@@ -89464,6 +89842,8 @@ chapters:
     - number: 690-380-3000
       status: ingested
       path: rules/690/380/oar-690-380-3000.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-380-3050
       status: ingested
       path: rules/690/380/oar-690-380-3050.md
@@ -89497,9 +89877,13 @@ chapters:
     - number: 690-380-4200
       status: ingested
       path: rules/690/380/oar-690-380-4200.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-380-5000
       status: ingested
       path: rules/690/380/oar-690-380-5000.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-380-5030
       status: ingested
       path: rules/690/380/oar-690-380-5030.md
@@ -89591,6 +89975,8 @@ chapters:
     - number: 690-382-0600
       status: ingested
       path: rules/690/382/oar-690-382-0600.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-382-0700
       status: ingested
       path: rules/690/382/oar-690-382-0700.md
@@ -89600,9 +89986,13 @@ chapters:
     - number: 690-382-0900
       status: ingested
       path: rules/690/382/oar-690-382-0900.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-382-1000
       status: ingested
       path: rules/690/382/oar-690-382-1000.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 690-382-1100
       status: ingested
       path: rules/690/382/oar-690-382-1100.md
@@ -90740,18 +91130,28 @@ chapters:
     - number: 695-046-0010
       status: ingested
       path: rules/695/046/oar-695-046-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 695-046-0020
       status: ingested
       path: rules/695/046/oar-695-046-0020.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 695-046-0035
       status: ingested
       path: rules/695/046/oar-695-046-0035.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 695-046-0185
       status: ingested
       path: rules/695/046/oar-695-046-0185.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 695-046-0190
       status: ingested
       path: rules/695/046/oar-695-046-0190.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 695-046-0195
       status: ingested
       path: rules/695/046/oar-695-046-0195.md
@@ -90761,33 +91161,49 @@ chapters:
     - number: 695-046-0196
       status: ingested
       path: rules/695/046/oar-695-046-0196.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 695-046-0200
       status: ingested
       path: rules/695/046/oar-695-046-0200.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 695-046-0201
       status: ingested
       path: rules/695/046/oar-695-046-0201.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 695-046-0202
       status: ingested
       path: rules/695/046/oar-695-046-0202.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 695-046-0205
       status: ingested
       path: rules/695/046/oar-695-046-0205.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 695-046-0210
       status: ingested
       path: rules/695/046/oar-695-046-0210.md
     - number: 695-046-0215
       status: ingested
       path: rules/695/046/oar-695-046-0215.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 695-046-0220
       status: ingested
       path: rules/695/046/oar-695-046-0220.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 695-046-0225
       status: ingested
       path: rules/695/046/oar-695-046-0225.md
     - number: 695-046-0230
       status: ingested
       path: rules/695/046/oar-695-046-0230.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '47'
     title: Focused Investment Partnership Grants
     status: not_ingested
@@ -102407,9 +102823,13 @@ chapters:
     - number: 813-005-0001
       status: ingested
       path: rules/813/005/oar-813-005-0001.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-005-0005
       status: ingested
       path: rules/813/005/oar-813-005-0005.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-005-0008
       status: ingested
       path: rules/813/005/oar-813-005-0008.md
@@ -102425,6 +102845,8 @@ chapters:
     - number: 813-005-0025
       status: ingested
       path: rules/813/005/oar-813-005-0025.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-005-0030
       status: ingested
       path: rules/813/005/oar-813-005-0030.md
@@ -102434,6 +102856,8 @@ chapters:
     - number: 813-005-0050
       status: ingested
       path: rules/813/005/oar-813-005-0050.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-005-0055
       status: ingested
       path: rules/813/005/oar-813-005-0055.md
@@ -102598,24 +103022,38 @@ chapters:
     - number: 813-012-0010
       status: ingested
       path: rules/813/012/oar-813-012-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0020
       status: ingested
       path: rules/813/012/oar-813-012-0020.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0030
       status: ingested
       path: rules/813/012/oar-813-012-0030.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0040
       status: ingested
       path: rules/813/012/oar-813-012-0040.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0050
       status: ingested
       path: rules/813/012/oar-813-012-0050.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0060
       status: ingested
       path: rules/813/012/oar-813-012-0060.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0070
       status: ingested
       path: rules/813/012/oar-813-012-0070.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0080
       status: ingested
       path: rules/813/012/oar-813-012-0080.md
@@ -102625,6 +103063,8 @@ chapters:
     - number: 813-012-0090
       status: ingested
       path: rules/813/012/oar-813-012-0090.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0100
       status: ingested
       path: rules/813/012/oar-813-012-0100.md
@@ -102634,6 +103074,8 @@ chapters:
     - number: 813-012-0110
       status: ingested
       path: rules/813/012/oar-813-012-0110.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0120
       status: ingested
       path: rules/813/012/oar-813-012-0120.md
@@ -102643,6 +103085,8 @@ chapters:
     - number: 813-012-0130
       status: ingested
       path: rules/813/012/oar-813-012-0130.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0140
       status: ingested
       path: rules/813/012/oar-813-012-0140.md
@@ -102664,6 +103108,8 @@ chapters:
     - number: 813-012-0170
       status: ingested
       path: rules/813/012/oar-813-012-0170.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-012-0180
       status: ingested
       path: rules/813/012/oar-813-012-0180.md
@@ -102847,9 +103293,13 @@ chapters:
     - number: 813-030-0005
       status: ingested
       path: rules/813/030/oar-813-030-0005.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0010
       status: ingested
       path: rules/813/030/oar-813-030-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0020
       status: ingested
       path: rules/813/030/oar-813-030-0020.md
@@ -102859,12 +103309,18 @@ chapters:
     - number: 813-030-0025
       status: ingested
       path: rules/813/030/oar-813-030-0025.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0030
       status: ingested
       path: rules/813/030/oar-813-030-0030.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0031
       status: ingested
       path: rules/813/030/oar-813-030-0031.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0032
       status: ingested
       path: rules/813/030/oar-813-030-0032.md
@@ -102874,9 +103330,13 @@ chapters:
     - number: 813-030-0034
       status: ingested
       path: rules/813/030/oar-813-030-0034.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0035
       status: ingested
       path: rules/813/030/oar-813-030-0035.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0040
       status: ingested
       path: rules/813/030/oar-813-030-0040.md
@@ -102892,9 +103352,13 @@ chapters:
     - number: 813-030-0046
       status: ingested
       path: rules/813/030/oar-813-030-0046.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0047
       status: ingested
       path: rules/813/030/oar-813-030-0047.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0060
       status: ingested
       path: rules/813/030/oar-813-030-0060.md
@@ -102904,6 +103368,8 @@ chapters:
     - number: 813-030-0062
       status: ingested
       path: rules/813/030/oar-813-030-0062.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0066
       status: ingested
       path: rules/813/030/oar-813-030-0066.md
@@ -102919,6 +103385,8 @@ chapters:
     - number: 813-030-0068
       status: ingested
       path: rules/813/030/oar-813-030-0068.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-030-0070
       status: ingested
       path: rules/813/030/oar-813-030-0070.md
@@ -103416,12 +103884,18 @@ chapters:
     - number: 813-060-0005
       status: ingested
       path: rules/813/060/oar-813-060-0005.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-060-0010
       status: ingested
       path: rules/813/060/oar-813-060-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-060-0020
       status: ingested
       path: rules/813/060/oar-813-060-0020.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-060-0025
       status: ingested
       path: rules/813/060/oar-813-060-0025.md
@@ -104106,12 +104580,16 @@ chapters:
     - number: 813-207-0000
       status: ingested
       path: rules/813/207/oar-813-207-0000.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-207-0010
       status: ingested
       path: rules/813/207/oar-813-207-0010.md
     - number: 813-207-0015
       status: ingested
       path: rules/813/207/oar-813-207-0015.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-207-0020
       status: ingested
       path: rules/813/207/oar-813-207-0020.md
@@ -104121,18 +104599,26 @@ chapters:
     - number: 813-207-0040
       status: ingested
       path: rules/813/207/oar-813-207-0040.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-207-0050
       status: ingested
       path: rules/813/207/oar-813-207-0050.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-207-0060
       status: ingested
       path: rules/813/207/oar-813-207-0060.md
     - number: 813-207-0070
       status: ingested
       path: rules/813/207/oar-813-207-0070.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-207-0080
       status: ingested
       path: rules/813/207/oar-813-207-0080.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 813-207-0090
       status: ingested
       path: rules/813/207/oar-813-207-0090.md
@@ -109109,15 +109595,23 @@ chapters:
     - number: 836-200-0406
       status: ingested
       path: rules/836/200/oar-836-200-0406.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 836-200-0411
       status: ingested
       path: rules/836/200/oar-836-200-0411.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 836-200-0416
       status: ingested
       path: rules/836/200/oar-836-200-0416.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 836-200-0421
       status: ingested
       path: rules/836/200/oar-836-200-0421.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 836-200-0436
       status: ingested
       path: rules/836/200/oar-836-200-0436.md
@@ -109595,24 +110089,36 @@ chapters:
     - number: 837-030-0120
       status: ingested
       path: rules/837/030/oar-837-030-0120.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 837-030-0130
       status: ingested
       path: rules/837/030/oar-837-030-0130.md
     - number: 837-030-0140
       status: ingested
       path: rules/837/030/oar-837-030-0140.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 837-030-0150
       status: ingested
       path: rules/837/030/oar-837-030-0150.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 837-030-0160
       status: ingested
       path: rules/837/030/oar-837-030-0160.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 837-030-0170
       status: ingested
       path: rules/837/030/oar-837-030-0170.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 837-030-0180
       status: ingested
       path: rules/837/030/oar-837-030-0180.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 837-030-0190
       status: ingested
       path: rules/837/030/oar-837-030-0190.md
@@ -109622,6 +110128,8 @@ chapters:
     - number: 837-030-0210
       status: ingested
       path: rules/837/030/oar-837-030-0210.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 837-030-0220
       status: ingested
       path: rules/837/030/oar-837-030-0220.md
@@ -109634,6 +110142,8 @@ chapters:
     - number: 837-030-0240
       status: ingested
       path: rules/837/030/oar-837-030-0240.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 837-030-0250
       status: ingested
       path: rules/837/030/oar-837-030-0250.md
@@ -112108,6 +112618,8 @@ chapters:
     - number: 839-025-0200
       status: ingested
       path: rules/839/025/oar-839-025-0200.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 839-025-0210
       status: ingested
       path: rules/839/025/oar-839-025-0210.md
@@ -112150,6 +112662,8 @@ chapters:
     - number: 839-025-0700
       status: ingested
       path: rules/839/025/oar-839-025-0700.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 839-025-0750
       status: ingested
       path: rules/839/025/oar-839-025-0750.md
@@ -113689,6 +114203,8 @@ chapters:
     - number: 847-001-0024
       status: ingested
       path: rules/847/001/oar-847-001-0024.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 847-001-0030
       status: ingested
       path: rules/847/001/oar-847-001-0030.md
@@ -113724,6 +114240,8 @@ chapters:
     - number: 847-003-0200
       status: ingested
       path: rules/847/003/oar-847-003-0200.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '5'
     title: Fees
     status: not_ingested
@@ -113731,9 +114249,13 @@ chapters:
     - number: 847-005-0005
       status: ingested
       path: rules/847/005/oar-847-005-0005.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 847-005-0008
       status: ingested
       path: rules/847/005/oar-847-005-0008.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '6'
     title: Mediation Communications
     status: not_ingested
@@ -113757,6 +114279,8 @@ chapters:
     - number: 847-008-0010
       status: ingested
       path: rules/847/008/oar-847-008-0010.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 847-008-0015
       status: ingested
       path: rules/847/008/oar-847-008-0015.md
@@ -113929,6 +114453,8 @@ chapters:
     - number: 847-020-0110
       status: ingested
       path: rules/847/020/oar-847-020-0110.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 847-020-0120
       status: ingested
       path: rules/847/020/oar-847-020-0120.md
@@ -114044,6 +114570,8 @@ chapters:
     - number: 847-028-0030
       status: ingested
       path: rules/847/028/oar-847-028-0030.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 847-028-0040
       status: ingested
       path: rules/847/028/oar-847-028-0040.md
@@ -114088,6 +114616,8 @@ chapters:
     - number: 847-035-0030
       status: ingested
       path: rules/847/035/oar-847-035-0030.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 847-035-0032
       status: ingested
       path: rules/847/035/oar-847-035-0032.md
@@ -114104,6 +114634,8 @@ chapters:
     - number: 847-050-0015
       status: ingested
       path: rules/847/050/oar-847-050-0015.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 847-050-0020
       status: ingested
       path: rules/847/050/oar-847-050-0020.md
@@ -114220,6 +114752,8 @@ chapters:
     - number: 847-070-0015
       status: ingested
       path: rules/847/070/oar-847-070-0015.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 847-070-0016
       status: ingested
       path: rules/847/070/oar-847-070-0016.md
@@ -114278,6 +114812,8 @@ chapters:
     - number: 847-080-0002
       status: ingested
       path: rules/847/080/oar-847-080-0002.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 847-080-0010
       status: ingested
       path: rules/847/080/oar-847-080-0010.md
@@ -115602,6 +116138,8 @@ chapters:
     - number: 855-006-0005
       status: ingested
       path: rules/855/006/oar-855-006-0005.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 855-006-0015
       status: ingested
       path: rules/855/006/oar-855-006-0015.md
@@ -116218,6 +116756,8 @@ chapters:
     - number: 855-041-6200
       status: ingested
       path: rules/855/041/oar-855-041-6200.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 855-041-6220
       status: ingested
       path: rules/855/041/oar-855-041-6220.md
@@ -121873,6 +122413,8 @@ chapters:
     - number: 918-098-1028
       status: ingested
       path: rules/918/098/oar-918-098-1028.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-098-1100
       status: ingested
       path: rules/918/098/oar-918-098-1100.md
@@ -122702,12 +123244,16 @@ chapters:
     - number: 918-311-0040
       status: ingested
       path: rules/918/311/oar-918-311-0040.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-311-0050
       status: ingested
       path: rules/918/311/oar-918-311-0050.md
     - number: 918-311-0055
       status: ingested
       path: rules/918/311/oar-918-311-0055.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-311-0060
       status: ingested
       path: rules/918/311/oar-918-311-0060.md
@@ -123290,26 +123836,36 @@ chapters:
       note: OARD serves 918-674-0500 for this number
       served_as: 918-674-0500
       path: rules/918/674/oar-918-674-0500.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0005
       status: renumbered
       note: OARD serves 918-674-0510 for this number
       served_as: 918-674-0510
       path: rules/918/674/oar-918-674-0510.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0013
       status: renumbered
       note: OARD serves 918-674-0520 for this number
       served_as: 918-674-0520
       path: rules/918/674/oar-918-674-0520.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0015
       status: renumbered
       note: OARD serves 918-674-0530 for this number
       served_as: 918-674-0530
       path: rules/918/674/oar-918-674-0530.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0023
       status: renumbered
       note: OARD serves 918-674-0550 for this number
       served_as: 918-674-0550
       path: rules/918/674/oar-918-674-0550.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0025
       status: ingested
       path: rules/918/674/oar-918-674-0025.md
@@ -123333,11 +123889,15 @@ chapters:
       note: OARD serves 918-674-0560 for this number
       served_as: 918-674-0560
       path: rules/918/674/oar-918-674-0560.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0055
       status: renumbered
       note: OARD serves 918-674-0570 for this number
       served_as: 918-674-0570
       path: rules/918/674/oar-918-674-0570.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0057
       status: ingested
       path: rules/918/674/oar-918-674-0057.md
@@ -123349,31 +123909,43 @@ chapters:
       note: OARD serves 918-674-0580 for this number
       served_as: 918-674-0580
       path: rules/918/674/oar-918-674-0580.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0065
       status: renumbered
       note: OARD serves 918-674-0590 for this number
       served_as: 918-674-0590
       path: rules/918/674/oar-918-674-0590.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0075
       status: renumbered
       note: OARD serves 918-674-0600 for this number
       served_as: 918-674-0600
       path: rules/918/674/oar-918-674-0600.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0085
       status: renumbered
       note: OARD serves 918-674-0610 for this number
       served_as: 918-674-0610
       path: rules/918/674/oar-918-674-0610.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0090
       status: renumbered
       note: OARD serves 918-674-0620 for this number
       served_as: 918-674-0620
       path: rules/918/674/oar-918-674-0620.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0095
       status: renumbered
       note: OARD serves 918-674-0630 for this number
       served_as: 918-674-0630
       path: rules/918/674/oar-918-674-0630.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0100
       status: ingested
       path: rules/918/674/oar-918-674-0100.md
@@ -123385,96 +123957,134 @@ chapters:
       note: OARD serves 918-674-0640 for this number
       served_as: 918-674-0640
       path: rules/918/674/oar-918-674-0640.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0115
       status: renumbered
       note: OARD serves 918-674-0650 for this number
       served_as: 918-674-0650
       path: rules/918/674/oar-918-674-0650.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0125
       status: renumbered
       note: OARD serves 918-674-0660 for this number
       served_as: 918-674-0660
       path: rules/918/674/oar-918-674-0660.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0130
       status: renumbered
       note: OARD serves 918-674-0670 for this number
       served_as: 918-674-0670
       path: rules/918/674/oar-918-674-0670.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0135
       status: renumbered
       note: OARD serves 918-674-0680 for this number
       served_as: 918-674-0680
       path: rules/918/674/oar-918-674-0680.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0145
       status: renumbered
       note: OARD serves 918-674-0690 for this number
       served_as: 918-674-0690
       path: rules/918/674/oar-918-674-0690.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0150
       status: renumbered
       note: OARD serves 918-674-0720 for this number
       served_as: 918-674-0720
       path: rules/918/674/oar-918-674-0720.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0155
       status: renumbered
       note: OARD serves 918-674-0740 for this number
       served_as: 918-674-0740
       path: rules/918/674/oar-918-674-0740.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0200
       status: renumbered
       note: OARD serves 918-674-0800 for this number
       served_as: 918-674-0800
       path: rules/918/674/oar-918-674-0800.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0210
       status: renumbered
       note: OARD serves 918-674-0810 for this number
       served_as: 918-674-0810
       path: rules/918/674/oar-918-674-0810.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0220
       status: renumbered
       note: OARD serves 918-674-0820 for this number
       served_as: 918-674-0820
       path: rules/918/674/oar-918-674-0820.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0230
       status: renumbered
       note: OARD serves 918-674-0830 for this number
       served_as: 918-674-0830
       path: rules/918/674/oar-918-674-0830.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0240
       status: renumbered
       note: OARD serves 918-674-0840 for this number
       served_as: 918-674-0840
       path: rules/918/674/oar-918-674-0840.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0250
       status: renumbered
       note: OARD serves 918-674-0850 for this number
       served_as: 918-674-0850
       path: rules/918/674/oar-918-674-0850.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0260
       status: renumbered
       note: OARD serves 918-674-0870 for this number
       served_as: 918-674-0870
       path: rules/918/674/oar-918-674-0870.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0270
       status: renumbered
       note: OARD serves 918-674-0880 for this number
       served_as: 918-674-0880
       path: rules/918/674/oar-918-674-0880.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0280
       status: renumbered
       note: OARD serves 918-674-0890 for this number
       served_as: 918-674-0890
       path: rules/918/674/oar-918-674-0890.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0290
       status: renumbered
       note: OARD serves 918-674-0900 for this number
       served_as: 918-674-0900
       path: rules/918/674/oar-918-674-0900.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0300
       status: renumbered
       note: OARD serves 918-674-0910 for this number
       served_as: 918-674-0910
       path: rules/918/674/oar-918-674-0910.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '690'
     title: Plumbing Administration and Definitions
     status: not_ingested
@@ -123624,6 +124234,8 @@ chapters:
     - number: 918-780-0040
       status: ingested
       path: rules/918/780/oar-918-780-0040.md
+      reingest_action: amend
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-780-0045
       status: ingested
       path: rules/918/780/oar-918-780-0045.md

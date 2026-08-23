@@ -80,9 +80,9 @@
  
  
  
- Office of Training, Investigations and Safety 
- Chapter 419 
  
+ Department of Human Services 
+ Office of Training, Investigations and Safety - Chapter 419 
  
  
  
@@ -231,6 +231,10 @@
 
  (h) The use of restraint of a child-in-care in violation of ORS 418.521 or ORS 418.523. 
 
+ (A) ODHS may not substantiate an allegation of abuse against a respondent for the sole reason their certification issued under ORS 418.529 is not current. 
+
+ (B) "Restraint" means as defined in ORS 418.519. 
+
  (4) Abuse does not include reasonable discipline unless the discipline results in one of the conditions described in sections (2) or (3) of this rule. 
 
  
@@ -240,9 +244,24 @@
  Statutory/Other Authority:  ORS 409.050 & 418.005 
  
  
- Statutes/Other Implemented:  ORS 409.050, 443.400 - 443.455, 419B.005 – 419B.050, 418.005, 418.257 – 418.259, 418.519 - 418.532 & 409.185 
+ Statutes/Other Implemented:  ORS 409.050, 443.400 - 443.455, 419B.005 – 419B.050, 418.005, 418.257 – 418.259, 418.519 - 418.532, 409.185 & Senate Bill 1532 (2026 Oregon Law chapter 28, §19) 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OTIS 6-2026, amend filed 07/20/2026, effective 07/20/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -538,7 +557,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

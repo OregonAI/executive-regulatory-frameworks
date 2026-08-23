@@ -120,7 +120,7 @@
 
  (4) Nonpoint source pollution control in the Tualatin River subbasin and lands draining to Oswego Lake: 
 
- (a) Subsection (5)(b) of this rule applies to any new land development within the Tualatin River and Oswego Lake subbasins except those developments with application dates before January 1, 1990. The application date is the date on which the local jurisdiction receives a complete application for development approval as the local jurisdiction’s regulations require; 
+ (a) Subsection (4)(b) of this rule applies to any new land development within the Tualatin River and Oswego Lake subbasins except those developments with application dates before January 1, 1990. The application date is the date on which the local jurisdiction receives a complete application for development approval as the local jurisdiction’s regulations require; 
 
  (b) For land development, no jurisdiction in these subbasins may approve any preliminary plat, site plan, permit, or public works project unless the conditions of the plat permit or plan approval include an erosion control plan containing methods or interim facilities, or both, to be constructed or used concurrently with land development and to be operated during construction to control the discharge of sediment in the stormwater runoff. The erosion control plan must include the following elements: 
 
@@ -130,7 +130,7 @@
 
  (c) The Director may modify Appendix 1 as necessary without approval from the Environmental Quality Commission. The Director may modify Appendix 1 to simplify it and to make it easier for people to apply; 
 
- (d) Subsection (5)(e) of this rule applies to any new land development within the Tualatin River and Oswego Lake subbasins, except: 
+ (d) Subsection (4)(e) of this rule applies to any new land development within the Tualatin River and Oswego Lake subbasins, except: 
 
  (A) Those developments with application dates before June 1, 1990. The application date is the date on which the local jurisdiction receives a complete application for development approval as that jurisdiction’s regulations require; 
 
@@ -343,6 +343,21 @@
  
  
  
+ DEQ 8-2026, minor correction filed 07/29/2026, effective 07/29/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  DEQ 5-2021, amend filed 02/09/2021, effective 02/09/2021 
  
  
@@ -463,7 +478,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

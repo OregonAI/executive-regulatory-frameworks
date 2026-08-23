@@ -287,12 +287,27 @@
  
  
  
- Statutory/Other Authority:  ORS 326.051, ORS 329.451, 659.850, 343.409, 327.103 & 336.625 
+ Statutory/Other Authority:  ORS 326.051, ORS 329.451, ORS 659.850, ORS 343.409, ORS 327.158 & ORS 336.625 
  
  
- Statutes/Other Implemented:  ORS 329.451, 659.850, 343.409, 327.103 & 336.625 
+ Statutes/Other Implemented:  ORS 329.451, ORS 659.850, ORS 343.409, ORS 327.158 & ORS 336.625 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 41-2026, minor correction filed 07/23/2026, effective 07/23/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -336,7 +351,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

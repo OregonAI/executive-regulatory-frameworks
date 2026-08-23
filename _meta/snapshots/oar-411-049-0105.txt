@@ -76,6 +76,8 @@
  
  
  
+   Temporary rule language in effect until 01/27/2027. 
+ 
  
  
  
@@ -95,9 +97,25 @@
 
  (2) A person or entity may not represent themselves as operating an AFH or accept placement of a resident without being licensed as an AFH. 
 
- (3) DURATION. A license is valid for one year unless revoked or suspended by the Department. 
+ (3) DURATION. 
 
- (4) When the Department reviews a license and determines that the convenience of both the licensee and the Department will be served, a license period may be changed to match the renewal schedule of another license held by the same licensee. The request for a schedule change may be made by either the Department or the licensee. No license period may extend beyond one year. 
+ (a) A license is valid for one year unless revoked or suspended by the Department; or 
+
+ (b) A license may be valid for two years if the LLA determines the licensee, or administrator has demonstrated substantial compliance for three consecutive years. 
+
+ (A) Eligibility to extend the renewal period to two years must be documented and maintained by the LLA. 
+
+ (B) To be eligible for the two-year license duration, the licensee or administrator must: 
+
+ (i) Be licensed for a minimum of three years. 
+
+ (ii) Not have any substantiated final orders for level three or four abuse within the last three years. 
+
+ (iii) Not have any conditions placed on the license for a pattern of deficiencies, as determined by the LLA and the Department. 
+
+ (C) The licensee will be returned to a one-year renewal period at any time the Department determines the home is no longer in substantial compliance. 
+
+ (4) When the Department reviews a license and determines that the convenience of both the licensee and the Department will be served, a license period may be changed to match the renewal schedule of another license held by the same licensee. The request for a schedule change may be made by either the Department or the licensee. No license period may extend beyond the approved duration based on this section of the rule. 
 
  (5) NON-TRANSFERABLE LICENSE AND SALE, LEASE OR CHANGE OF OWNERSHIP REQUIREMENTS. A change of ownership of an AFH requires both a new license application and a new license. 
 
@@ -107,7 +125,7 @@
 
  (c) When a home is to be sold or otherwise transferred or conveyed to another person who intends to operate the home as an AFH, that person must apply for and obtain a license from the LLA before the transfer of operation of the home. 
 
- (d) Prior to operation the new owner: 
+ (d) Prior to operation of the AFH, the new owner: 
 
  (A) Must have an approved license from the Department before transfer of ownership. 
 
@@ -139,7 +157,7 @@
 
  (a) The number of residents permitted to reside in an AFH is determined by the ability of the staff to meet the care needs of the residents, the fire and life safety standards for evacuation, and compliance with the facility standards of these rules. 
 
- (b) The licensee must demonstrate, to the LLA's satisfaction, the ability to meet the needs of the residents, in addition to, caring for any children or others beyond the license capacity of the AFH. 
+ (b) The licensee must demonstrate, to the LLA's satisfaction, the ability to meet the needs of the residents, in addition to caring for any children or others beyond the license capacity of the AFH. 
 
  (c) The LLA's determination of maximum capacity must ensure: 
 
@@ -189,7 +207,7 @@
 
  (a) After receipt of the completed application materials, including the non-refundable fee, the LLA must investigate the information submitted, including any pertinent information received from outside sources. 
 
- (b) The LLA shall not issue a license if unsatisfactory references or a history of substantial non-compliance of the applicant within the last 24 months is verified. 
+ (b) The LLA shall not issue a license if unsatisfactory references or a history of substantial non-compliance of the applicant within the last 24 months are verified. 
 
  (c) The LLA may issue a Class 1 license if the applicant, and other caregivers as applicable, complete the training requirements outlined in OAR 411-049-0125. 
 
@@ -221,7 +239,7 @@
 
  (a) Class 1 license may only admit residents who require assistance in no more than four activities of daily living. 
 
- (b) Class 2 license may provide care for residents who require assistance in all activities of daily living, but require full assistance in no more than three activities of daily living. 
+ (b) Class 2 license may provide care for residents who require assistance in all activities of daily living but require full assistance in no more than three activities of daily living. 
 
  (c) Class 3 license may provide care for residents who require full assistance in four or more activities of daily living, but only one resident who requires bed-care or full assistance with all activities of daily living, not including cognition or behavior. 
 
@@ -233,13 +251,13 @@
 
  (c) There is more than one resident in the home who requires full bed-care or full assistance with all activities of daily living, not including cognition or behavior. 
 
- (13) The LLA may grant a variance that allows the resident to be admitted or remain in the AFH. The LLA must respond in writing within 30 calendar days after receipt of the licensee or administrator's written variance request. The licensee or administrator must prove the following criteria are met by clear and convincing evidence: 
+ (13) The LLA may grant a variance that allows a resident to be admitted or remain in the AFH. The LLA must respond in writing within 30 calendar days after receipt of the licensee’s or administrator's written variance request. The licensee or administrator must prove the following criteria are met by clear and convincing evidence: 
 
  (a) It is the choice of the resident to reside in the home. 
 
  (b) The licensee or administrator can provide appropriate care and service to the resident in addition to meeting the care and service needs of the other residents. 
 
- (c) Additional staff is hired to meet the additional care requirements of all residents in the home as necessary. 
+ (c) Additional staff are hired to meet the additional care requirements of all residents in the home as necessary. 
 
  (d) Outside resources are available and obtained to meet the resident's care needs. 
 
@@ -286,6 +304,21 @@
  
  
  
+ APD 20-2026, temporary amend filed 07/29/2026, effective 08/01/2026 through 01/27/2027 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  APD 61-2021, amend filed 12/23/2021, effective 01/01/2022 
  
  
@@ -322,7 +355,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

@@ -89,9 +89,21 @@
  
  Division 48 MENTAL HEALTH SPECIAL HOUSING 
  291-048-0250 
- Voluntary Assignment to a Mental Health Infirmary 
+ Voluntary Assignment to a Mental Health Infirmary
  
- (1) An inmate may be voluntarily placed in a Mental Health Infirmary when:  (a) There is a referral from an institution mental health specialist, nurse, or outside mental health contractor; and  (b) The mental health treatment team finds that the inmate is in need of mental health treatment; and  (c) There is reasonable likelihood that treatment can be accomplished in a Mental Health Infirmary; and  (d) The inmate consents to admission in writing.  (2) The treating practitioner shall make the final decision whether an inmate is admitted to a Mental Health Infirmary for treatment. 
+ 
+ (1) An adult in custody may be voluntarily placed in a Mental Health Infirmary when: 
+
+ (a) There is a referral from an institution qualified mental health professional;   
+
+ (b) The Mental Health Infirmary mental health treatment team finds that the adult in custody needs mental health treatment; 
+
+ (c) There is reasonable likelihood that treatment can be accomplished in a Mental Health Infirmary; and 
+
+ (d) The adult in custody consents to admission in writing. 
+
+ (2) The Mental Health Infirmary prescribing practitioner shall make the final decision whether an adult in custody is admitted to a Mental Health Infirmary for treatment. 
+
  
  
  
@@ -102,6 +114,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 25-2026, amend filed 07/30/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -243,7 +270,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

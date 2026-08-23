@@ -96,7 +96,7 @@
 
  (1) At least 1,000 cumulative hours of acceptable appraisal experience. Cumulative experience hours must be acquired in no fewer than six (6) months. Completion of the Licensed Residential module of an AQB-approved PAREA program satisfies this requirement. 
 
- (2)(a) Successfully completed not less than 150 classroom hours of acceptable appraisal courses as set forth in OAR 161-020-0110(2)(b), with the following exceptions as noted in paragraph (2)(b) below. Each applicant shall have successfully completed the 15-hour National USPAP Course, or its equivalent, within four (4) years preceding the date of application and have successfully passed an examination thereon. 
+ (2)(a) Successfully completed not less than 158 classroom hours of acceptable appraisal courses as set forth in OAR 161-020-0110(2)(b), with the following exceptions as noted in paragraph (2)(b) below. Each applicant shall have successfully completed the 15-hour National USPAP Course, or its equivalent, within four (4) years preceding the date of application and have successfully passed an examination thereon. 
 
  (b) Applicants holding a valid Oregon Appraiser Assistant Registration may satisfy the educational requirements for the State Licensed Appraiser credential by completing the following additional education hours: 
 
@@ -118,6 +118,21 @@
  Statutes/Other Implemented:  ORS 674 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ACLB 2-2026, amend filed 07/22/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -266,7 +281,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

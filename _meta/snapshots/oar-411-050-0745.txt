@@ -76,6 +76,8 @@
  
  
  
+   Temporary rule language in effect until 01/27/2027. 
+ 
  
  
  
@@ -133,11 +135,13 @@
 
  (j) Succession Plan or the Department's current Adult Foster Home Back-Up Agreement form (APD 350) completed by the current back-up provider and the licensee, as stated in OAR 411-049-0135(1)(q). 
 
- (k) Documentation the licensee confirmed the RN has a valid, unencumbered Oregon license on the OSBN website at: https://osbn.oregon.gov/OSBNVerification/Default.aspx. 
+ (k) Documentation the licensee confirmed the RN has a valid, unencumbered Oregon license on the OSBN website at: https://osbn.oregon.gov/OSBNVerification/Default.aspx . 
 
- (l) Falsifying records or causing another to do so shall result in issuance of a mandatory civil penalty as described in OAR 411-052-0025(2). 
+ (l) Maintain a copy of all policies and procedures approved by the LLA as required by OAR 411-049-0135. 
 
- (m) Excluding menus as required in OAR 411-050-0730(8), facility records must be maintained a minimum of three years. 
+ (m) Falsifying records or causing another to do so shall result in issuance of a mandatory civil penalty as described in OAR 411-052-0025(2). 
+
+ (n) Excluding menus as required in OAR 411-050-0730(8), facility records must be maintained a minimum of three years. 
 
  (2) REQUIRED POSTED ITEMS. The following items must be posted in one location in the entryway or other equally prominent place in the home where residents, visitors, and others may easily read them: 
 
@@ -149,7 +153,7 @@
 
  (d) The AFH Resident's Rights and Freedoms form (APD 0305). 
 
- (e) LGBTQIA2S+ Protections and the LGBTQIA2S+ Nondiscrimination Notice, as described in OAR 411-049-0135(1)(i), must be posted in all places and on all materials where that notice or those written materials are posted. 
+ (e) LGBTQIA2S+ and HIV Protections and the LGBTQIA2S+ and HIV Nondiscrimination Notice, as described in OAR 411-049-0135(1)(i), must be posted in all places and on all materials where that notice or those written materials are posted. 
 
  (f) The home's policies as stated in the current Residency Agreement that has been reviewed for compliance with these rules by the LLA. 
 
@@ -181,6 +185,21 @@
  Statutes/Other Implemented:  ORS 197.660 - 197.670, 409.050, 410.070, 413.085, 441.112, 441.114, 441.373, 443.001 - 443.004, 443.705 - 443.825, 443.875 & 443.991 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 20-2026, temporary amend filed 07/29/2026, effective 08/01/2026 through 01/27/2027 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -344,7 +363,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

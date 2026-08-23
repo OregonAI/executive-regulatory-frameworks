@@ -89,9 +89,19 @@
  
  Division 48 MENTAL HEALTH SPECIAL HOUSING 
  291-048-0200 
- Authority, Purpose and Policy 
+ Authority, Purpose and Policy
  
- (1) Authority: The authority for this rule is granted to the Director of the Department of Corrections in accordance with ORS 179.040, 423.020, 423.030, and 423.075.  (2) Purpose: The purpose of this rule is to establish department policy and procedures for the assignment of inmates to mental health special housing who, because of a mental illness or severe emotional disturbance, are unable to adjust satisfactorily in the general inmate population.  (3) Policy: The department recognizes there are a number of inmates with significant mental health issues. It is the policy of the Department of Corrections to:  (a) Provide an environment oriented to mental health treatment for inmates within the department who, because of mental illness or severe emotional disturbance, are behaving in such a way as to endanger themselves or others or are unable to provide for their basic needs; and  (b) Adopt practices within this environment to safely manage this high risk inmate population where effective treatment and behavior management can occur. 
+ 
+ (1) Authority: The authority for these rules is granted to the Director of the Department of Corrections in accordance with ORS 179.040, 423.020, 423.030, and 423.075. 
+
+ (2) Purpose: The purpose of these rules is to establish department policy and procedures for the assignment of adults in custody to mental health special housing who, because of a mental illness or intellectual disability , are unable to manage safely in general population settings . 
+
+ (3) Policy: The department recognizes there are adults in custody with significant mental health issues. It is the policy of the Department of Corrections to: 
+
+ (a) Provide an environment focused on mental health treatment for adults in custody who, due to mental illness or intellectual disability, exhibit behaviors that pose a danger to themselves or others , or are unable to provide for their basic needs; and 
+
+ (b) Implement practices within this environment to safely manage the high - risk adult in custody population , promoting conditions that support effective mental health treatment and behavioral therapy . 
+
  
  
  
@@ -102,6 +112,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 25-2026, amend filed 07/30/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -267,7 +292,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

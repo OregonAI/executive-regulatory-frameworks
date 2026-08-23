@@ -76,6 +76,8 @@
  
  
  
+   Temporary rule language in effect until 12/31/2026. 
+ 
  
  
  
@@ -91,9 +93,37 @@
  635-041-0075 
  Fall Salmon Season 
  
- (1) Salmon, steelhead, shad and walleye may be taken for commercial purposes in the Columbia River above Bonneville Dam from 6 a.m. August 27 to 6 p.m. August 30, 1997. 
+ (1) Salmon (all species), steelhead, shad, yellow perch, bass, catfish, carp, and walleye may be sold commercially or retained for subsistence purposes from the Zone 6 area of the mainstem Columbia River as follows: 
 
- (2) Closed areas are set forth in OAR 635-041-0045, including the closure at the mouth of Spring Creek which during August 25 through September 20, 1997, is the larger area described in OAR 635-041-0045(11).  
+ (a) Effective 12:01 a.m. August 1 through 6:00 p.m. December 31, in the platform and hook-and-line fishery with gear restricted to hoop nets/bag nets, dip nets, and rod and reel w ith hook and line. 
+
+ (b) The treaty Indian Columbia River gillnet fishery in Zone 6 is open as follows: 
+
+ (A) Gear is restricted to set and drift gillnets with an 8-inch minimum mesh size. 
+
+ (B) Standard sanctuaries applicable to gillnet gear are in effect including the Spring Creek Hatchery sanctuary as described in OAR 635-041-0045(11). 
+
+ (C) Open fishing periods are as follows: 
+
+ (i) 6:00 am August 17 through 6:00 pm August 20; 
+
+ (ii) 6:00 am August 24 through 6:00 pm August 29; and 
+
+ (iii) 6:00 am August 31 through 6:00 pm September 5. 
+
+ (c) Sturgeon may not be sold. Sturgeon from 38 to 54 inches fork length in the Bonneville Pool and sturgeon from 43 to 54 inches fork length in The Dalles and John Day pools may be kept for subsistence purposes. 
+
+ (2) Effective 12:01 a.m. August 1 to 6:00 p.m. December 31, commercial sales of fish caught by enrolled Yakama Nation members in Yakama Nation tribu tary fisheries are open during those days and hours when these tributaries are open under lawfully-enacted Yakama Nation subsistence fishery regulations as follows: 
+
+ (a) The Yakama Nation tributary fisheries include the Klickitat River, Wind River, and Drano Lake. 
+
+ (b) Allowable sales include salmon (all species), steelhead, walleye, shad, catfish, carp, bass, and yellow perch. 
+
+ (c) Sturgeon may not be sold. Sturgeon between 38-54 inches in fork length may be kept for subsistence purposes. 
+
+ (d) Gear is restricted to subsistence fishing gear which includes hoop nets, bag nets, dip nets, and rod and reel with hook-and-line. 
+
+ (3) Fish caught during any open period may be sold after the period concludes as long as the fish were landed during the open period. 
 
  
  
@@ -105,6 +135,36 @@
  Statutes/Other Implemented:  ORS 506.109, ORS 506.129 & ORS 507.030 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 80-2026, temporary amend filed 08/06/2026, effective 08/17/2026 through 12/31/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DFW 70-2026, temporary amend filed 07/27/2026, effective 08/01/2026 through 12/31/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -1193,7 +1253,7 @@ FWC 25-1979, f. & cert. ef. 8-2-79
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

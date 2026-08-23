@@ -76,6 +76,8 @@
  
  
  
+   Temporary rule language in effect until 10/01/2026. 
+ 
  
  
  
@@ -103,7 +105,8 @@
 (A) From June 1 to June 30 of the renewal year, a person may continue to work as long as they are making progress to complete their continuing education requirements to renew the expired certification. 
 (B) From July 1 to July 31 of the renewal year the person will need to obtain the approval of their supervising building official to continue working under an expired certification. The supervising building official will need to notify the division in writing of the intent to allow the person to continue working under their expired certification while they complete the continuing education renewal requirements.  
 (C) If the person does not renew during the period in this section, the person may not continue to work under the expired certification. A new application and certification are required in order to perform work requiring an active certification.  
- (3) The division will send one renewal notification to the address on file of the certification holder at least 45 days prior to certification expiration. It is the responsibility of the certification holder to notify the division of a change of address. 
+(3) The division will send one renewal notification to the address on file of the certification holder at least 45 days prior to certification expiration. It is the responsibility of the certification holder to notify the division of a change of address. 
+(4) Notwithstanding section (2) of this rule, any certification governed by this rule that would expire on June 1, 2026, instead expires on October 1, 2026. 
   
 
  
@@ -116,6 +119,21 @@
  Statutes/Other Implemented:  ORS 455.720, 455.730 & 455.735 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 9-2026, temporary amend filed 07/31/2026, effective 07/31/2026 through 10/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -204,7 +222,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

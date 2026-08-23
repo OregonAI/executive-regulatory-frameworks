@@ -188,7 +188,7 @@
 
  (H) Course(s) on Advanced Residential Applications and Case Studies (15 hours); 
 
- (I) Appraisal Subject Matter Electives (20 hours); 
+ (I) Appraisal Subject Matter Electives (12 hours); 
 
  (J) The Appraisal Foundation's 15-Hour National USPAP Course or its equivalent (15 hours) 
 
@@ -212,7 +212,7 @@
 
  (H) Course(s) on General Appraiser Report Writing and Case Studies (30 hours in not less than 15 hour increments); 
 
- (I) Appraisal Subject Matter Electives (30 hours in not less than 15 hour increments); 
+ (I) Appraisal Subject Matter Electives (22 hours in not less than 15 hour increments); 
 
  (J) The Appraisal Foundation's 15-Hour National USPAP Course or its equivalent (15 hours) 
 
@@ -585,6 +585,21 @@
  
  
  
+ ACLB 2-2026, amend filed 07/22/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  ACLB 1-2024, amend filed 07/30/2024, effective 07/30/2024 
  
  
@@ -846,7 +861,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

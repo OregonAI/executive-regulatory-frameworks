@@ -89,9 +89,33 @@
  
  Division 30 LIQUEFIED PETROLEUM GAS 
  837-030-0140 
- Licenses Required 
+ Licenses Required
  
- (1) A company license is required for any company engaged in the business of installing, extending, altering or repairing any liquefied petroleum fuel gas system including but not limited to gas appliances or piping, vent or flue connection pertaining to or in connection with liquefied petroleum gas installations, and includes the installation of LP-Gas containers, container appurtenances and the operation of delivery equipment on motorized vehicles.  (2) A fitter license is required for any individual performing the installation or replacement of LPG containers, container appurtenances and or performs work on LPG fuel gas systems including but not limited to liquefied petroleum gas fitting, venting, installation or repair or remodel to any piping or venting, installs or repairs, connects, or disconnects any liquefied petroleum gas appliance.  (3) A Truck Equipment Operator license is required for any individual who operates liquefied petroleum gas delivery equipment installed on a motorized vehicle.  (4) Any individual required to have a fitter or truck equipment operator license is also required to have an installation license unless the individual is an employee of an employer who has a company license.  (5) Company licenses are not transferable. When a company transfers ownership, the new company must complete the licensing process the same as any other new company.  (6) Fitter and truck equipment operator licensees may transfer from licensed company to licensed company without relicensing if the license has not expired.  (7) Company representatives may transfer their company representative status from licensed company to licensed company without re-testing if their existing license has not expired. 
+ 
+ (1) A company license is required for any company engaged in the business of installing, extending, altering or repairing any liquefied petroleum fuel gas system including but not limited to gas appliances or piping, vent or flue connection pertaining to or in connection with liquefied petroleum gas installations, and includes the installation of LPG containers, container appurtenances and the operation of delivery equipment on motorized vehicles. 
+
+ (2) A fitter license is required for any individual performing the installation or replacement of LPG containers, container appurtenances and or performs work on LPG fuel gas systems including but not limited to liquefied petroleum gas fitting, venting, installation or repair or remodel to any piping or venting, installs or repairs, connects, or disconnects any liquefied petroleum gas appliance. 
+
+ (3) A Truck Equipment Operator license is required for any individual who operates liquefied petroleum gas delivery equipment installed on a motorized vehicle. 
+
+ (4) Any individual required to have a fitter or truck equipment operator license is also required to have an installation license unless the individual is an employee of an employer who has a company license. 
+
+ (5) Company licenses are not transferable. When a company transfers ownership, the new company must complete the licensing process the same as any other new company. 
+
+ (6) Fitter and truck equipment operator licensees may transfer from licensed company to licensed company without relicensing if the license has not expired. 
+
+ (7) Company representatives may transfer their company representative status from licensed company to licensed company without re-testing if their existing license has not expired. 
+
+ (8) When an LPG business ceases operations the State Fire Marshal shall be notified.  
+
+ (9) Examples of a business ceasing to exist include but are not limited to: 
+
+ (a) Selling 
+
+ (b) Closing 
+
+ (c) Merging 
+
  
  
  
@@ -102,6 +126,21 @@
  Statutes/Other Implemented:  ORS 480.432 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 3-2026, amend filed 07/22/2026, effective 07/22/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -144,7 +183,7 @@ FM 52-1971, f. 4-29-71, cert. ef. 5-25-71
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

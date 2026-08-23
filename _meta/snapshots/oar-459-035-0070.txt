@@ -110,7 +110,7 @@
 
  (C) Within 90 days of the date of the Disability Approval Letter generated under OAR 459-015-0025(5)(a); 
 
- (D) At any time if covered under another group health insurance plan for 24 consecutive months immediately preceding enrollment, provided that the application for enrollment is filed within 30 days of loss of coverage. Health care coverage under workers’ compensation, Medicare or any other governmental entitlement program for health care do not qualify as other group health insurance coverage for purposes of this paragraph; 
+ (D) At any time if covered under another group health insurance plan for at least 24 consecutive months immediately preceding enrollment, provided that the application for enrollment is filed within 60 days of loss of coverage. Health care coverage under workers’ compensation, Medicare or any other governmental entitlement program for health care do not qualify as other group health insurance coverage for purposes of this paragraph; 
 
  (E) Within 90 days of initial Medicare eligibility, if the retiree is enrolled in Parts A and B of Medicare; 
 
@@ -118,7 +118,7 @@
 
  (G) During an open enrollment period designated by the Board. 
 
- (c) Except as provided in subsections (f) and (g) of this section, an eligible spouse, dependent domestic partner, or dependent must be enrolled at the same time as the eligible retiree. An eligible spouse, dependent domestic partner or dependent enrolling in Parts A and B of Medicare must be enrolled in the Medicare Companion Plan offered by the same carrier that covers the eligible retiree. 
+ (c) Except as provided in subsections (f) and (g) of this section, an eligible spouse, dependent domestic partner, or dependent must be enrolled at the same time as the eligible retiree. An eligible spouse, dependent domestic partner or dependent enrolling in Parts A and B of Medicare must be enrolled in the same Medicare Companion Plan , from the same carrier , that cover the eligible retiree. 
 
  (d) An eligible surviving spouse or dependent who is enrolled under the deceased retiree’s plan at the time of death may continue coverage under that plan. 
 
@@ -126,7 +126,7 @@
 
  (A) Within 90 days of the retiree’s death; 
 
- (B) At any time if covered under another group health insurance plan for 24 consecutive months immediately preceding enrollment, provided that the application for enrollment is filed within 30 days of loss of coverage. Health care coverage under workers’ compensation, Medicare or any other governmental entitlement program for health care do not qualify as other group health insurance plan coverage for purposes of this paragraph; 
+ (B) At any time if covered under another group health insurance plan for at least 24 consecutive months immediately preceding enrollment, provided that the application for enrollment is filed within 60 days of loss of coverage. Health care coverage under workers’ compensation, Medicare or any other governmental entitlement program for health care do not qualify as other group health insurance plan coverage for purposes of this paragraph; 
 
  (C) Within 90 days of initial Medicare eligibility, if he or she is enrolled in Parts A and B of Medicare; 
 
@@ -138,15 +138,33 @@
 
  (A) Within 30 days of becoming a spouse, a dependent domestic partner or dependent; and 
 
- (B) If enrolled in Parts A and B of Medicare, only in the Medicare Companion Plan offered by the same carrier that covers the eligible retiree. 
+ (B) If enrolled in Parts A and B of Medicare, only in the same Medicare Companion Plan , from the same carrier that covers the eligible retiree. 
 
- (g) An eligible retiree’s spouse may enroll within 90 days of initial Medicare eligibility, if he/she is enrolled in Parts A & B of Medicare even though the retiree remains enrolled in a non-PERS health plan. 
+ (g) An eligible retiree’s spouse may enroll : 
+
+ (A) W ithin 90 days of initial Medicare eligibility, if the spouse is enrolled in Parts A and B of Medicare, even though the retiree remains enrolled in a non-PERS health plan. In order for the spouse to remain enrolled, the retiree must join the spouse in the same plan from the same carrier as the spouse at the latest of the applicable enrollment periods described in paragraphs (1)(b)(D) and (E) of this rule; 
+
+ (B) Within 90 days of initial Medicare eligibility, if enrolled and Parts A and B of Medicare, only in the same Medicare Companion Plan, from the same carrier that covers the eligible retiree; 
+
+ (C) At any time if covered under another group health insurance plan for at least 24 consecutive months immediately preceding enrollment, provided that the application for enrollment is filed within 60 days of loss of coverage. Health care coverage under workers’ compensation, Medicare or any other governmental entitlement program for health care do not qualify as other group health insurance plan coverage for purposes of this paragraph; 
+
+ (D) Within 90 days of the date of the Notice of Award letter issued by the Social Security Administration; or 
+
+ (E) During an open enrollment period designated by the Board. 
 
  (2) Special enrollment requirements for dental insurance plans: 
 
- (a) Only persons who are enrolled in a PERS-sponsored health insurance plan may enroll in a PERS-sponsored dental insurance plan. Enrollment in a PERS-sponsored dental insurance plan must be made under the enrollment conditions for the PERS-sponsored health insurance that are described in section (1) of this rule. 
+ (a) Dental enrollment for retirees enrolled in PHIP health insurance 
 
- (b) Dental insurance coverage is not available to any eligible person unless all family members (the retiree, spouse, dependent domestic partner and dependent(s)) who are enrolled in a PERS-sponsored health insurance plan also enroll in the same PERS-sponsored dental insurance plan. 
+ (A) An eligible person who is enrolled in a PERS-sponsored health insurance plan may enroll in a PERS-sponsored dental insurance plan. Enrollment in a PERS-sponsored dental insurance plan must be made within the applicable enrollment periods described in section (1) of this rule. 
+
+ (B) If an eligible retiree and one or more eligible family members (spouse, dependent domestic partner, or dependent) elect to enroll in a PERS-sponsored dental insurance plan, all such enrolled individuals must enroll in the same PERS-sponsored dental insurance plan. 
+
+ (b) Stand-alone dental enrollment 
+
+ (A) An eligible person who is not enrolled in a PERS-sponsored health insurance plan may enroll in a PERS-sponsored dental insurance plan independent of enrollment in a PERS-sponsored health insurance plan. Enrollment must be made within the applicable enrollment periods described in section (1) of this rule, unless otherwise specified by the Board. 
+
+ (B) If an eligible retiree and one or more eligible family members (spouse, dependent domestic partner, or dependent) elect to enroll in a PERS-sponsored dental insurance plan, all such enrolled individuals must enroll in the same PERS-sponsored dental insurance plan. 
 
  
  
@@ -158,6 +176,21 @@
  Statutes/Other Implemented:  ORS 238.410, 238.415 & 238.420 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 10-2026, amend filed 07/24/2026, effective 07/24/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -234,7 +267,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

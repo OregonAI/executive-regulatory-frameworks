@@ -89,9 +89,33 @@
  
  Division 82 ASSESSMENT, ASSIGNMENT, AND SUPERVISION OF ADULTS IN CUSTODY FOR WORK ASSIGNMENTS AND UNFENCED MINIMUM HOUSING 
  291-082-0140 
- Supervision/Security Provisions for Inmate Work Crews 
+ Supervision and Security Provisions for Adult in Custody Work Crews 
  
- (1) If the Department of Corrections assigns an inmate work crew within three blocks of a school, the functional unit manager or designee will ensure notification is made to the affected school on dates, times and location of inmate work crew.  (2) When an inmate work crew is scheduled to work within city limits, a designee of the institution will notify the appropriate local law enforcement agency prior to the project start date.  (3) Inmate work crews working out-of-doors within a city or in a residential community located outside of a city will be supervised by a minimum of one supervisor for every ten inmates. The facility functional unit manager or designee may, with the approval of the Assistant Director of Operations or designee, assign additional inmates without an additional supervisor if an unforeseen and unique circumstance arises.  (4) The provisions specified in sections (2) and (3) are not required for inmate work crews deployed during natural disasters, including but not limited to, floods and forest fires.  (5) The provisions specified in sections (2) and (3) do not apply to inmate work crews assigned to work in programs operated by Oregon Corrections Enterprises under ORS 421.344 to 421.367.  (6) All assigned inmates will be dressed uniformly in clothing clearly stenciled in orange writing, or black writing for better contrast, that designates them as inmates.  (7) Upon arrival at a worksite, Department of Corrections signs stating an inmate work crew is present will be posted in or near the work area in a place that is visible to the public.  (8) While at the work site, supervisors will maintain direct supervision of all assigned inmates, unless the nature of a work task requires the supervisor to monitor an inmate by physically moving throughout the worksite.  (9) At a minimum, the inmate work crew supervisor will account for each inmate once every 30 minutes.  (10) All inmate work crews will be supervised by an employee of the Department of Corrections or Oregon Corrections Enterprises, unless performing a work project for a local, state, or federal governmental agency. The crew may be supervised by an employee of a governmental agency pursuant to an intergovernmental agreement entered into by that agency and the Department of Corrections.  (11) The department will require in its intergovernmental agreements with local, state or federal government agencies that the employees exercising supervision over inmates assigned to agency work crews receive appropriate training in accordance with OAR 291-082-0145.  (12) Institution post orders will be maintained in support of this rule. 
+ 
+ (1) If the Department of Corrections assigns an adult in custody work crew within 1500 feet of a school, the functional unit manager or designee will ensure notification is made to the affected school (s) with dates, times , and location of the adult in custody work crew. 
+
+ (2) When an adult in custody work crew is scheduled to work within city limits, a designee of the institution will notify the appropriate local law enforcement agency prior to the project start date. 
+
+ (3) Adult in custody work crews working outside within a city or working in a residential community located outside of a city will be supervised by a minimum of one supervisor for every ten (10) adults in custody. The Department of Corrections facility functional unit manager or designee may, with the approval of the Assistant Director of Operations or designee, assign additional adults in custody without an additional supervisor if an unforeseen or unique circumstance arises. 
+
+ (4) The provisions specified in sections (2) and (3) of this rule are not required for adult in custody work crews deployed during natural disasters including , but not limited to, floods and forest fires. 
+
+ (5) The provisions specified in sections (2) and (3) of this rule do not apply to adult in custody work crews assigned to work in programs operated by Oregon Corrections Enterprises under ORS 421.344 to 421.367. 
+
+ (6) All assigned adults in custody will be dressed uniformly in clothing clearly stenciled in orange writing, or black writing for better contrast, that designates them as adults in custody . 
+
+ (7) Upon arrival at a worksite, signs stating an adult in custody work crew is present will be posted in or near the work area in a place that is visible to the public. 
+
+ (8) While at the work site, supervisors will maintain direct supervision of all assigned adults in custody , unless the nature of a work task requires the supervisor to monitor all assigned adults in custody by physically moving throughout the worksite. 
+
+ (9) At a minimum, the adult in custody work crew supervisor will account for each adult in custody once every 30 minutes. 
+
+ (10) All adult in custody work crews will be supervised by an employee of the Department of Corrections or Oregon Corrections Enterprises, unless performing a work project for a local, state, or federal governmental agency. The crew may be supervised by an employee of a governmental agency pursuant to an intergovernmental agreement entered by that agency and the Department of Corrections. 
+
+ (11) The department will require, in its intergovernmental agreements with local, state, or federal governmental agencies, that any employees of the governmental agency assigned as agency work crew supervisor receive appropriate training in accordance with OAR 291-082-0145. 
+
+ (12) Institution post orders will be maintained in support of this rule. 
+
  
  
  
@@ -102,6 +126,21 @@
  Statutes/Other Implemented:  ORS 179.040, 421.425, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 23-2026, amend filed 07/29/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -138,7 +177,7 @@ DOC 3-2002, f. & cert. ef. 1-16-02
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

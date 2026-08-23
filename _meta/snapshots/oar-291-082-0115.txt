@@ -89,9 +89,17 @@
  
  Division 82 ASSESSMENT, ASSIGNMENT, AND SUPERVISION OF ADULTS IN CUSTODY FOR WORK ASSIGNMENTS AND UNFENCED MINIMUM HOUSING 
  291-082-0115 
- Initial Work Housing Assignment Level Evaluation (WHALE) 
+ Initial Work Housing Assignment Level Evaluation 
  
- (1) A WHALE shall be completed on all inmates who have been classified as Level 1 or Level 2 in order for the inmate to be considered for a community work assignment or for housing in an unfenced facility.  (2) The assigned counselor shall initiate the automated WHALE, review for accuracy of information imported from the CIS, and enter any additional information gleaned from file review or other sources.  (3) The WHALE shall be forwarded to the Correctional Rehabilitation Manager for approval. An evaluation is not considered official until approved by the Correctional Rehabilitation Manager or designee.  (4) All approved WHALE actions are historically recorded and maintained in the CIS system. 
+ 
+ (1) A Work Housing Assignment Level Evaluation shall be completed on all adults in custody who have been classified as Level 1 or Level 2 for the adult in custody to be considered for a community work assignment or for housing in an unfenced facility. 
+
+ (2) The assigned counselor shall initiate the automated Work Housing Assignment Level Evaluation , review to determine information was imported from the Corrections Information System accurately and enter any additional information from file review or other sources. 
+
+ (3) The Work Housing Assignment Level Evaluation shall be forwarded to the Correctional Rehabilitation Manager for approval. An evaluation is not considered official until approved by the Correctional Rehabilitation Manager or designee. 
+
+ (4) All approved Work Housing Assignment Level Evaluation actions are recorded in the Corrections Information System and the records maintained in accordance with the department’s retention schedule . 
+
  
  
  
@@ -102,6 +110,21 @@
  Statutes/Other Implemented:  ORS 179.040, 421.425, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 23-2026, amend filed 07/29/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -163,7 +186,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

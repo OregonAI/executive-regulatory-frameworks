@@ -94,61 +94,79 @@
  
  (1) For the purpose of these rules, the following definitions apply to OAR 837-030-0100 through 837-030-0280. 
 
- (2) Application means the forms required by the State Fire Marshal to be completed and submitted to the State Fire Marshal. 
+ (2) "Application" means the forms required by the State Fire Marshal to be completed and submitted to the State Fire Marshal. 
 
- (3) Bulk Plant is a facility where the primary function is to store LP-Gas prior to further distribution. LP-Gas is received by cargo tank vehicle, railroad tank car, or pipeline, and then distributed by portable container (package) delivery, by cargo tank vehicle, or through gas piping. 
+ (3) "Audit" is a formal examination of an LPG company's records conducted by the State Fire Marshal to verify that a Liquid Petroleum Gas (LPG) location is in compliance with all applicable statutes, rules, and regulatory requirements.  
 
- (4) Company License means the same as an Installation License defined in OAR 837-030-0120(12). 
+ (4) "Bulk Plant" is a facility where the primary function is to store LPG prior to further distribution. LPG is received by cargo tank vehicle, railroad tank car, or pipeline, and then distributed by portable container (package) delivery, by cargo tank vehicle, or through gas piping. 
 
- (5) Company Representative means an individual who has passed the installation examination administered by the State Fire Marshal and represents the company at a specific site. 
+ (5) "Company License" means the same as an Installation License defined in OAR 837-030-0120(13). 
 
- (6) Delivery Unit means any unit that is used to deliver or transport liquefied petroleum gas. 
+ (6) "Company Representative" means an individual who has passed the installation examination administered by the State Fire Marshal and represents the company at a specific site. 
 
- (7) Examination means a document designed to test an applicant's knowledge regarding liquefied petroleum gas, its properties, related equipment and applicable safety regulations. 
+ (7) "Delivery Unit" means any unit that is used to deliver or transport liquefied petroleum gas. 
 
- (8) Fitter License in general means a license issued to an individual who performs LP-Gas container and container appurtenance installation or replacement, and or, performs work on liquefied petroleum fuel gas systems including but not limited to, LP-gas containers, plumbing and pipe fitting, gas venting, installs, repairs or remodels any piping or venting, installs or repairs, connects, or disconnects any liquefied petroleum gas appliance. The specific types of Fitter Licenses are: 
+ (8) "Examination" means a document designed to test an applicant's knowledge regarding liquefied petroleum gas, its properties, related equipment and applicable safety regulations. 
 
- (a) HVAC Fitter — Required for all individuals who install or perform LPG work on HVAC equipment, including hearth products; does not include piping up to the final shut off valve upstream of the equipment (see Master Fitter); 
+ (9) "Fitter License" in general means a license issued to an individual who performs LPG container and container appurtenance installation or replacement, and or, performs work on liquefied petroleum fuel gas systems including but not limited to, LPG containers, plumbing and pipe fitting, gas venting, installs, repairs or remodels any piping or venting, installs or repairs, connects, or disconnects any liquefied petroleum gas appliance. The specific types of Fitter Licenses are: 
+
+ (a) HVAC Fitter — Required for all individuals who install or perform LPG work on HVAC equipment, including hearth products; does not include piping up to the final shut off valve upstream of the equipment (see Master Fitter); 
 
  (b) IC Fitter (Internal Combustion) — Required for all individuals who work on LPG fuel systems of LPG powered internal combustion engines; 
 
- (c) Master Fitter — Required for all individuals who perform LPG fuel gas plumbing work including but not limited to, fitting or venting work, install or replace LP-Gas containers and container appurtenances, install, replace, repair or remodel any LP-Gas container, appliance, piping or venting. This license covers all areas of LPG work. 
+ (c) Master Fitter — Required for all individuals who perform LPG fuel gas plumbing work including but not limited to, fitting or venting work, install or replace LPG containers and container appurtenances, install, replace, repair or remodel any LPG container, appliance, piping or venting. This license covers all areas of LPG work. 
 
  
  NOTE: Individuals licensed as a fitter prior to May 16, 2005, are considered a Master Fitter. 
  
 
- (9) Individual means one distinct, individual human being. It does not mean person. 
+ (10) "Individual" means one distinct, individual human being. It does not mean person. 
 
- (10) Installation means an LP-Gas container or containers set on a specific customer property with the intent of supplying fuel gas to utilization equipment. 
+ (11) "Installation" means an LPG container or containers set on a specific customer property with the intent of supplying fuel gas to utilization equipment. 
 
- (11) Installer means, a licensed company who provides a licensed individual making the connection from an installation to a LP-Gas fuel gas system and who conducts required leak testing and ensures the installation and piping system are in compliance to applicable codes and standards. 
+ (12) "Installer" means a licensed company who provides a licensed individual making the connection from an installation to a LPG fuel gas system and who conducts required leak testing and ensures the installation and piping system are in compliance to applicable codes and standards. 
 
- (12) Installation License means a license issued to a company or business (hereinafter referred to as a Company License) that engages in or works at the business of installing LP-Gas containers and container appurtenances, installing extending, altering or repairing any liquefied petroleum fuel gas systems including but not limited to, gas appliances or piping, vent or flue connection pertaining to or in connection with liquefied petroleum gas installations. This includes the operation of delivery equipment on motorized vehicles. 
+ (13) "Installation License" means a license issued to a company or business (hereinafter referred to as a Company License) that engages in or works at the business of installing LPG containers and container appurtenances, installing extending, altering or repairing any liquefied petroleum fuel gas systems including but not limited to, gas appliances or piping, vent or flue connection pertaining to or in connection with liquefied petroleum gas installations. This includes the operation of delivery equipment on motorized vehicles. 
 
- (13) License means the official written permission granted by the State Fire Marshal for the purpose of working in the liquefied petroleum gas business. 
+ (14) "License" means the official written permission granted by the State Fire Marshal for the purpose of working in the liquefied petroleum gas business. 
 
- (14) Liquefied Petroleum Gas means any liquid composed predominately of any of the following hydrocarbons or mixtures of the same: Propane, propylene, butanes (normal butane or isobutene) and butylenes. 
+ (15) "Liquefied Petroleum Gas" (LPG) means any liquid composed predominately of any of the following hydrocarbons or mixtures of the same: Propane, propylene, butanes (normal butane or isobutene) and butylenes. 
 
- (15) NFPA means the National Fire Protection Association. 
+ (16) "Location" means any physical site or facility operated by an LPG company where regulated activities occur; this may include but is not limited to offices, storage yards (bulk yards), or physical site where employees report for work.  
 
- (16) NFPA 54 means National Fire Protection Association Standards (NFPA) 54 National Fuel Gas Code 2021 Edition unless otherwise specified.  
+ (17) "NFPA" means the National Fire Protection Association. 
 
- (17) NFPA 58 means National Fire Protection Association Standards (NFPA) 58 Liquefied Petroleum Gas Code 2020 Edition, unless otherwise specified. 
+ (18) "NFPA 54" means National Fire Protection Association Standards (NFPA) 54 National Fuel Gas Code 2021 Edition, unless otherwise specified.  
 
- (18) NFPA 1192 means National Fire Protection Association Standards (NFPA) 1192 Standard on Recreational Vehicles 2021 Edition, unless otherwise specified. 
+ (19) "NFPA 58" means National Fire Protection Association Standards (NFPA) 58 Liquefied Petroleum Gas Code 2020 Edition, unless otherwise specified. 
 
- (19) Oregon Electrical Specialty Code (OESC) means the 2023 edition of the Oregon Electrical Specialty Code, unless otherwise specified. 
+ (20) "NFPA 1192" means National Fire Protection Association Standards (NFPA) 1192 Standard on Recreational Vehicles 2021 Edition, unless otherwise specified. 
 
- (20) Oregon Fire Code (OFC) means the 2022 edition of the Oregon Fire Code as adopted by the Oregon State Fire Marshal, unless otherwise specified.  
+ (21) "Notice and Order of Correction" (NOC) means a written notice issued by the State Fire Marshal to a Company Representative identifying specific violations of applicable statutes, rules, or requirements and establishes a date the violations must be abated.  
 
- (21) Oregon Mechanical Specialty Code (OMSC) means the 2022 edition of the Oregon Mechanical Specialty Code, unless otherwise specified. 
+ (22) "Oregon Electrical Specialty Code" (OESC) means the 2023 edition of the Oregon Electrical Specialty Code, unless otherwise specified. 
 
- (22) Oregon Residential Specialty Code (ORSC) means the 2021 edition of the Oregon Residential Specialty Code, unless otherwise specified. 
+ (23) "Oregon Fire Code" (OFC) means the 2022 edition of the Oregon Fire Code as adopted by the Oregon State Fire Marshal, unless otherwise specified.  
 
- (23) Person means one or more individuals, legal representatives, partnerships, joint ventures, associations, corporations (whether or not organized for profit), business trusts, or any organized group of persons and includes the state, state agencies, counties, municipal corporations, school districts and other public corporations or subdivisions. 
+ (24) "Oregon Mechanical Specialty Code" (OMSC) means the 2022 edition of the Oregon Mechanical Specialty Code, unless otherwise specified. 
 
- (24) Truck Equipment Operator License means a license issued to an individual who operates liquefied petroleum gas delivery equipment installed on a motorized vehicle. 
+ (25) "Oregon Residential Specialty Code" (ORSC) means the 2021 edition of the Oregon Residential Specialty Code, unless otherwise specified. 
+
+ (26) "Person" means one or more individuals, legal representatives, partnerships, joint ventures, associations, corporations (whether or not organized for profit), business trusts, or any organized group of persons and includes the state, state agencies, counties, municipal corporations, school districts and other public corporations or subdivisions. 
+
+ (27) "Probation" means a temporary status imposed on a license by the State Fire Marshal following failure to abate violations. During probation, the location remains licensed but is subject to increased oversight and specific conditions, which must be met within a designated timeframe. 
+
+ (28) "Probationary Period" means the time after employment start date to consist of 60 days on the job training, hereafter referred to as “Training Period.” 
+
+ (29) "Suspension" means the temporary removal of the authority to conduct regulated actions under one or more licenses, due to failure to comply with the terms of probation or continued noncompliance with regulatory requirements.  
+
+ (30) "Tank" means any vessel, container, or cylinder designed for the storage, transportation, or use of Liquefied Petroleum Gas (LPG). 
+
+ (31) "Training Period" means the same as probationary period as defined by OAR 837-030-0180. 
+
+ (32) "Truck Equipment Operator License" means a license issued to an individual who operates liquefied petroleum gas delivery equipment installed on a motorized vehicle. 
+
+ (33) "Revocation" means the formal termination of one or more licenses issued by the State Fire Marshal due to failure to resolve violations after probation or suspension. Revocation prohibits the Person or company from engaging in any regulated LPG activities at the affected location. 
 
  
  
@@ -160,6 +178,21 @@
  Statutes/Other Implemented:  ORS 480.410 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 3-2026, amend filed 07/22/2026, effective 07/22/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -302,7 +335,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

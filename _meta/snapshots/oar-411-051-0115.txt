@@ -76,6 +76,8 @@
  
  
  
+   Temporary rule language in effect until 01/27/2027. 
+ 
  
  
  
@@ -123,7 +125,7 @@
 
  (o) Any individually-based limitations according to OAR 411-051-0105(3). 
 
- (A) Effective July 1, 2019, and no later than June 30, 2020, the licensee or administrator must identify any individually-based limitations to the use of restraints or the HCBS rights as listed in OAR 411-051-0105(2). 
+ (A) The licensee or administrator must identify any individually-based limitations to the use of restraints or the HCBS rights as listed in OAR 411-051-0105(2). 
 
  (B) For Medicaid-eligible residents, the person-centered service plan coordinator must authorize the limitation and the individual must consent to the limitation. The licensee or administrator must incorporate and document all applicable elements identified in OAR 411-051-0105(3). 
 
@@ -149,6 +151,21 @@
  Statutes/Other Implemented:  ORS 409.050, 410.070, 413.085, 441.111, 441.114, 441.373, 443.001 - 443.004, 443.705 - 443.825, 443.875 & 443.991 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 20-2026, temporary amend filed 07/29/2026, effective 08/01/2026 through 01/27/2027 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -222,7 +239,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

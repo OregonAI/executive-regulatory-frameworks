@@ -89,9 +89,21 @@
  
  Division 48 MENTAL HEALTH SPECIAL HOUSING 
  291-048-0230 
- Recommendation and Referral Process to a Mental Health Special Housing Unit 
+ Evaluation Criteria for Admission to Mental Health Special Housing 
  
- (1) An inmate that, in the judgment of the department, meets one or more of the following conditions because of a mental illness should be considered for assignment to mental health special housing:  (a) A danger to others;  (b) A danger to self (including all inmates who are acutely suicidal);  (c) Unable to care for his/her basic needs;  (d) In an acute phase of mental or emotional disorder; or  (e) Needs a diagnostic evaluation or medication adjustment.  (2) If any staff member thinks an inmate is in need of mental health treatment in mental health special housing, the concerned staff member may submit a recommendation for a mental health evaluation.  (3) A mental health specialist shall complete an evaluation of the inmate within five calendar days.  (4) If the mental health specialist recommends placement, he/she will make the appropriate referral.  (5) Upon completion of the evaluation, the inmate will be assigned to a mental health special housing unit or be returned to his/her former status if assignment to mental health special housing is not needed. 
+ 
+ An adult in custody that, in the judgment of Behavioral Health Services, meets one or more of the following conditions because of a mental illness should be considered for admission to mental health special housing: 
+
+ (1) A danger to others; 
+
+ (2) A danger to self ; 
+
+ (3) Unable to care for their own basic needs; 
+
+ (4) Significant functional impairment ; or 
+
+ (5) Needs a diagnostic evaluation or medication adjustment. 
+
  
  
  
@@ -102,6 +114,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 25-2026, amend filed 07/30/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -139,7 +166,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

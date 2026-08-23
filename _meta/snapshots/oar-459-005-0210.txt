@@ -96,9 +96,17 @@
 
  (a) “Deferred Compensation Program” means the Oregon Savings Growth Plan (OSGP), the PERS Board as Trustee of the OSGP, the PERS Director as Administrator of the OSGP, and any OSGP staff member. 
 
- (b) “Document” means any document that is not specifically excluded under sections (3) and (8) of this rule, including, but not limited to, any petition, written request, or other document related to the appeal of a staff or Board action under OAR 459-001-0030, 459-001-0032, or 459-001-0035. 
+ (b) “Digital signature” means the signature includes a certificate embedded in an electronic document that attests to the document’s authenticity. 
 
- (c) “PERS” means the PERS Board, the PERS Director, the PERS Health Insurance Program which is administered by PERS under ORS Chapter 238, and any PERS staff member. 
+ (c) “Document” means any document that is not specifically excluded under sections (3) and (8) of this rule, including, but not limited to, any petition, written request, or other document related to the appeal of a staff or Board action under OAR 459-001-0030, 459-001-0032, or 459-001-0035. 
+
+ (d) “Electronic signature” means signatures that replicate a person’s signature on the document. 
+
+ (e) “PERS” means the PERS Board, the PERS Director, the PERS Health Insurance Program which is administered by PERS under ORS Chapter 238, and any PERS staff member. 
+
+ (f) “PERS forms” means forms created and published by PERS or the Deferred Compensation Program for the purpose of administering benefits. PERS forms do not include forms within Online Member Services (OMS) or the Voya participant interface that are completed and submitted within OMS or the Voya participant interface. 
+
+ (g) “Remote online notarization” means a notarial act performed for a remotely located individual by means of communication technology as allowed by ORS 194.277. 
 
  (2) Unless otherwise provided for in this rule, information, reports, or documents may be transmitted to PERS or the Deferred Compensation Program by personal delivery or by use of: 
 
@@ -148,7 +156,13 @@
 
  (7) Information, reports, or documents submitted to PERS or the Deferred Compensation Program may become a public record. Public records may be subject to public inspection and copying, if not otherwise protected by federal or state law. 
 
- (8) This rule does not address the transmission of a remittance, a payment, a remittance advice or a payment advice, which is addressed in OAR 459-005-0215. 
+ (8) PERS staff shall use the following standard for acceptance of signatures submitted to PERS: 
+
+ (a) PERS forms received from members, beneficiaries, or alternate payees must include a handwritten signature unless the form has also been electronically notarized. If the form contains a digital or electronic signature that has been notarized via Remote Online Notarization, staff may accept all uses of the same signature that appear within the notarized document. 
+
+ (b) Unless otherwise specified, PERS staff can generally accept digital and electronic signatures on other documents, including documents from employers, and not need to distinguish based on the signature’s format. 
+
+ (9) This rule does not address the transmission of a remittance, a payment, a remittance advice or a payment advice, which is addressed in OAR 459-005-0215. 
 
  
  
@@ -160,6 +174,21 @@
  Statutes/Other Implemented:  ORS 238.005–238.750, 192.355, 243.435 & 243.470 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERS 11-2026, amend filed 07/24/2026, effective 07/24/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -239,7 +268,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

@@ -91,14 +91,9 @@
  813-207-0015 
  Manuals 
  
- The State Home Oil Weatherization Program Manual (SHOW Program Manual) with the requirements and standards therein, dated December 1, 2024, is incorporated into and adopted as part of this division of administrative rules, by reference. The SHOW Program Manual may be accessed online at the OHCS website. 
+ The State Home Oil Weatherization Program Manual (SHOW Program Manual) with the requirements and standards therein, dated August 1, 2026, is incorporated into and adopted as part of this division of administrative rules, by reference. The SHOW Program Manual may be accessed online at the OHCS website. 
 
  
- 
- 
- 
- 
- [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
  
  
  
@@ -108,6 +103,21 @@
  Statutes/Other Implemented:  ORS 456.594-456.599 & ORS 469.421 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 22-2026, amend filed 07/29/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -181,7 +191,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

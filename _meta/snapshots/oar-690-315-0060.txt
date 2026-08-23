@@ -92,7 +92,7 @@
  Proposed Final Order Hearing Rights
  
  
- The applicant or any other person adversely affected or aggrieved by the proposed final order described in OAR 690-315-0050(2) may submit a written protest to the proposed final order. The written protest must be filed within 45 days from the date of publication of the proposed final order in the Department's weekly notice. The provisions of Or Laws 2025, ch 575, sections 2 and 3 and rules adopted thereunder apply to protests of, requests for party status, and contested case proceedings on proposed final orders issued under this division. Proposed final orders shall become final if no protest is filed or by default as provided in OAR 690-002-0235. 
+ The applicant or any other person adversely affected or aggrieved by the proposed final order described in OAR 690-315-0050(2) may submit a written protest to the proposed final order. The written protest must be filed within 45 days from the date of publication of the proposed final order in the Department's weekly notice. The provisions of ORS 536.076 and 536.077 and rules adopted thereunder apply to protests of, requests for party status, and contested case proceedings on proposed final orders issued under this division. Proposed final orders shall become final if no protest is filed or by default as provided in OAR 690-002-0235. 
 
  
  
@@ -101,9 +101,24 @@
  Statutory/Other Authority:  ORS 536.025 & ORS 536.027 
  
  
- Statutes/Other Implemented:  ORS 536.050, ORS 537.230, ORS 537.248, ORS 537.630, ORS 539.010 & Or Laws 2025, ch 575 
+ Statutes/Other Implemented:  ORS 536.050, ORS 537.230, ORS 537.248, ORS 537.630, ORS 539.010, ORS 536.076 & ORS 536.077 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 23-2026, minor correction filed 07/30/2026, effective 07/30/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -156,7 +171,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

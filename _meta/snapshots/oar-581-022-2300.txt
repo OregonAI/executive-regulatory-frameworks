@@ -89,9 +89,25 @@
  
  Division 22 STANDARDS FOR PUBLIC ELEMENTARY AND SECONDARY SCHOOLS 
  581-022-2300 
- Standardization 
+ Standardization
  
- (1) A school district, to be standard, must provide acceptable educational opportunities for all Oregon students who reside in the district regardless of where they live in the district.  (2) Local school districts shall cooperate with procedures to verify compliance with state standards, to collect information about schools, to identify exemplary performance, and to promote school improvement.  (3) Methods of verifying compliance and identifying practices or conditions needing improvement shall include:  (a) Assurances of the district school board designated chief administrative officer;  (b) Review of district materials through Department of Education desk audit;  (c) On-site review of practices or conditions; and  (d) Other methods selected by the Superintendent of Public Instruction.  (3) The Superintendent or a designee of the superintendent shall declare a school district as “Nonstandard” as defined in OAR 581-022-0102, after verification through the methods described in section (2) of this rule. 
+ 
+ (1) A school district, to be standard, must provide acceptable educational opportunities for all Oregon students who reside in the district regardless of where they live in the district. 
+
+ (2) Local school districts shall cooperate with procedures to verify compliance with state standards, to collect information about schools, to identify exemplary performance, and to promote school improvement. 
+
+ (3) Methods of verifying compliance and identifying practices or conditions needing improvement shall include: 
+
+ (a) Assurances of the district school board designated chief administrative officer; 
+
+ (b) Review of district materials through Department of Education desk audit; 
+
+ (c) On-site review of practices or conditions; and 
+
+ (d) Other methods selected by the Superintendent of Public Instruction. 
+
+ (3) The Superintendent or a designee of the superintendent shall declare a school district as “Nonstandard” as defined in OAR 581-022-0102, after verification through the methods described in section (2) of this rule. 
+
  
  
  
@@ -99,9 +115,24 @@
  Statutory/Other Authority:  ORS 326.051 
  
  
- Statutes/Other Implemented:  ORS 326.051 & 327.103 
+ Statutes/Other Implemented:  ORS 326.051 & ORS 327.158 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 42-2026, minor correction filed 07/23/2026, effective 07/23/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -151,7 +182,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

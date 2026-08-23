@@ -92,11 +92,11 @@
  Matching Contributions
  
  
- (1) All applicants shall demonstrate at least 25% of the Water Acquisition Project cost is being sought as match, with the grant applicant required to provide matching funds and efforts necessary to complete the purchase. The following costs and activities will qualify as match: 
+ (1) The following costs and activities will qualify as Match: 
 
  (a) All costs listed under OAR 695-046-0185, including in-kind contributions of those costs. 
 
- (b) Funding commitments made by others as a result of grant applicant efforts (including funding to be secured from other funders as part of a Board-prescribed process conducted in cooperation with other funders). 
+ (b) Funding commitments made by others as a result of grant applicant efforts. 
 
  (c) Any donated portion of the interest in water. 
 
@@ -111,9 +111,24 @@
  Statutory/Other Authority:  ORS 541.906 
  
  
- Statutes/Other Implemented:  ORS 541.932(9) 
+ Statutes/Other Implemented:  ORS 541.932(9) & ORS 541.958(1) 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OWEB 1-2026, amend filed 07/31/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -154,7 +169,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

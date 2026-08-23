@@ -89,9 +89,31 @@
  
  Division 30 LIQUEFIED PETROLEUM GAS 
  837-030-0150 
- Company License (Company Representative) 
+ Company License (Company Representative)
  
- (1) Each company business or dealership location must obtain a separate company license.  (2) A separate company license is not needed for dispatch centers.  (3) Each location must have a company representative unique to that location.  (4) To qualify the company for a company license, an individual company representative at each location and unique to that location must pass an examination, as detailed in OAR 837-030-0190, and administered by the State Fire Marshal, with a score of 80 percent or more of the questions answered correctly.  (5) If the company representative transfers or resigns employment with the company, the company must notify the State Fire Marshal, in writing, within two weeks of the transfer or resignation.  (6) The new company representative must meet examination requirements within 60 calendar days of the last date of employment of the preceding company representative.  (7) Exceptions to this requirement for a company license are as follows:  (a) This rule does not apply to liquefied petroleum gas installations made in a manufactured dwelling or recreational vehicle when those installations are made during the construction of the manufactured dwelling or recreational vehicle.  (b) This rule does not apply to warranty work for liquefied petroleum gas installations in a manufactured dwelling or recreational vehicle so long as the work performed falls in the scope of the original manufacturer's warranty issued at the time the home or recreational vehicle was manufactured.  (c) This rule does not apply to a person who holds a valid journeyman plumber's certificate that was issued under ORS 693.060 or who is in an approved journeyman plumber apprenticeship established under ORS 660. 
+ 
+ (1) Each company business or dealership location must obtain a separate company license. 
+
+ (2) A separate company license is not needed for dispatch centers. 
+
+ (3) Each location must have a company representative unique to that location. 
+
+ (4) To qualify the company for a company license, an individual company representative at each location and unique to that location must pass an examination, as detailed in OAR 837-030-0190, and administered by the State Fire Marshal, with a score of 80 percent or more of the questions answered correctly. 
+
+ (5) If the company representative transfers or resigns employment with the company, the company must notify the State Fire Marshal, in writing, within two weeks of the transfer or resignation. 
+
+ (6) The new company representative must meet examination requirements within 60 calendar days of the last date of employment of the preceding company representative. 
+
+ (7) The Company Representative must ensure that the company location remains in compliance with all applicable statutes, rules, and regulatory requirements at all times. 
+
+ (8) Exceptions to this requirement for a company license are as follows: 
+
+ (a) This rule does not apply to liquefied petroleum gas installations made in a manufactured dwelling or recreational vehicle when those installations are made during the construction of the manufactured dwelling or recreational vehicle. 
+
+ (b) This rule does not apply to warranty work for liquefied petroleum gas installations in a manufactured dwelling or recreational vehicle so long as the work performed falls in the scope of the original manufacturer's warranty issued at the time the home or recreational vehicle was manufactured. 
+
+ (c) This rule does not apply to a person who holds a valid journeyman plumber's certificate that was issued under ORS 693.060 or who is in an approved journeyman plumber apprenticeship established under ORS 660. 
+
  
  
  
@@ -102,6 +124,21 @@
  Statutes/Other Implemented:  ORS 480.432 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OSFM 3-2026, amend filed 07/22/2026, effective 07/22/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -144,7 +181,7 @@ FM 52-1971, f. 4-29-71, cert. ef. 5-25-71
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

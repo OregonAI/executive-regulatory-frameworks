@@ -98,31 +98,39 @@
 
  (b) The amount of water needed after implementation of conservation measures to meet the beneficial use under the water right certificate. 
 
- (2) “Conserved Water Project” means a project that conserves water pursuant to Oregon’s Conserved Water Act, ORS 537.455 to 537.500. 
+ (2) “Conserved Water” project means a project that conserves water pursuant to Oregon’s Conserved Water Act, ORS 537.455 to 537.500 and OAR 690-018. 
 
  (3) “Contractually Protected Instream Flow” means the amount of water secured through a Water Use Agreement. 
 
  (4) “Delegated to the Director” means the grant funds that the Board has authorized to the Director to award and enter into appropriate agreements. 
 
- (5) “Instream Lease” means the conversion of all or a portion of an existing water use subject to transfer to an instream water right for a specified time-period as authorized by ORS 537.348(2). 
+ (5) “Instream Lease” means the conversion of all or a portion of an existing Water Use Subject to Transfer to an instream water right for a specified time-period as authorized by ORS 537.348(2). 
 
- (6) “Legally Protected Instream Flow” means the amount of water secured through Instream Leases, Split-Season Use Instream Leases, Time-limited Instream Transfers, Conserved Water Projects, Permanent Instream Transfers, or other mechanisms administered by Oregon Water Resources Department.. 
+ (6) “Legally Protected Instream Flow” means the amount of water secured through Instream Leases, Split-Season Use Instream Leases, Time-limited Instream Transfers, Conserved Water projects, Permanent Instream Transfers, or other mechanisms administered by Oregon Water Resources Department. 
 
- (7) “Permanent Instream Transfer” means the permanent conversion of all or a portion of an existing water use subject to transfer to an instream water right as authorized by ORS 537.348(1). 
+ (7) “Permanent Instream Transfer” means the permanent conversion of all or a portion of an existing Water Use Subject to Transfer to an instream water right as authorized by ORS 537.348(1). 
 
  (8) “Split-Season Use Instream Lease” means an Instream Lease in which the water right can be exercised in the same season defined by the water right in the same calendar year for both the existing purpose of the water right and for an instream purpose, provided that the water is not used for the existing purpose during the period in which water is to be protected instream as authorized under ORS 537.348(3). 
 
- (9) “Technical Review Teams” means a team of designated personnel with regional knowledge and interdisciplinary expertise drawn from agencies represented on the Board and other entities organized to evaluate water acquisition grant applications. 
-
- (10) “Time-limited Instream Transfer” means an instream transfer authorized under ORS 537.348(1) that is not permanent and under which the water right will revert back to its original use: 
+ (9) “Time-limited Instream Transfer” means an instream transfer authorized under ORS 537.348(1) that is not permanent and under which the water right will revert back to its original use: 
 
  (a) Without further action by the Oregon Water Resources Department at the end of the period of time specified in the final order approving the instream transfer; or 
 
- (b) On a determination by the Department that other conditions, specified in the final order approving the instream transfer, for termination have been met. 
+ (b) On a determination by Oregon Water Resources Department that other conditions, specified in the final order approving the instream transfer, for termination have been met. 
 
- (11) "Water Acquisition Project” means a voluntary transaction that results in a Legally or Contractually Protected Instream Flow. 
+ (10) "Water Acquisition Project” means a voluntary transaction that results in a Legally or Contractually Protected Instream Flow. 
 
- (12) “Water Use Agreement” means a contractual agreement between a water right holder and an eligible grant applicant to conserve water or curtail the beneficial use of water under a water right subject to transfer during specified periods or under specified conditions to achieve Contractually Protected Instream Flow, such as forbearance agreements, minimum flow agreements, and other private agreements between a water right holder and an eligible grant applicant. 
+ (11) “Water Use Agreement” means a contractual agreement between a holder of a Water Use Subject to Transfer and an eligible grant applicant to change or forgo use of water under a Water Use Subject to Transfer during specified periods or under specified conditions to achieve Contractually Protected Instream Flow, such as forbearance agreements, minimum flow agreements, and other private agreements between a holder of a Water Use Subject to Transfer and an eligible grant applicant, intended to address the Purpose described in OAR 695-046-0010. 
+
+ (12) “Water Use Subject to Transfer” means a water use established by: 
+
+ (a) An adjudication under ORS chapter 539 as evidenced by a court decree; 
+
+ (b) A water right certificate; 
+
+ (c) A water use permit for which a request for issuance of a water right certificate under ORS 537.250 has been received and approved by the Water Resources Commission under ORS 537.250; or 
+
+ (d) A transfer application for which an order approving the change has been issued under ORS 540.530 and for which proper proof of completion of the change has been filed with the Water Resources Commission. [1991 c.957 §2; 1995 c.274 §1; 1997 c.42 §2] 
 
  
  
@@ -134,6 +142,21 @@
  Statutes/Other Implemented:  ORS 541.932(9) 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OWEB 1-2026, amend filed 07/31/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -186,7 +209,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

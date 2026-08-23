@@ -202,7 +202,7 @@
 
  (35) "Next steps": The education and/or career choices students make after leaving high school, which may include the workforce, community colleges, four-year colleges and universities, private career schools, apprenticeships, and the military. 
 
- (36) "Nonstandard School": A school which fails to meet the standards, and which within ninety days of the State Superintendent's notification of deficiencies, fails to submit a plan of correction or adhere to a plan of correction approved by the State Superintendent (ORS 327.103). 
+ (36) "Nonstandard School": A school which fails to meet the standards, and which within ninety days of the State Superintendent's notification of deficiencies, fails to submit a plan of correction or adhere to a plan of correction approved by the State Superintendent (ORS 327.158). 
 
  (37) "Parent": Has the same definition as in Oregon Revised Statute 343.035. 
 
@@ -246,6 +246,21 @@
  Statutes/Other Implemented:  ORS 326.011 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ODE 40-2026, minor correction filed 07/23/2026, effective 07/23/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -454,7 +469,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

@@ -89,9 +89,53 @@
  
  Division 48 MENTAL HEALTH SPECIAL HOUSING 
  291-048-0280 
- Assignment to a Behavioral Health Unit 
+ Assignment to a Behavioral Health Unit
  
- (1) An inmate may be assigned to a Behavioral Health Unit if the inmate has committed violent acts or disruptive behavior and is diagnosed with a serious mental illness. An inmate may be referred if:  (a) The inmate has committed violent or disruptive disciplinary actions in either general housing or special housing units and is placed in temporary disciplinary segregation in accordance with OAR 291-105; or  (b) A hearings officer recommends assignment to a Behavioral Health Unit as a diversion to a disciplinary segregation sanction in accordance with OAR 291-105; or  (c) The inmate is being considered for placement in an Intensive Management Unit in accordance with OAR 291-055 and the Special Population Management (SPM) Committee recommends assignment to a Behavioral Health Unit.  (2) An inmate may be placed in a Behavioral Health Unit when:  (a) There is a referral from a mental health specialist, nurse, or outside mental health contractor;  (b) The mental health treatment team finds that the inmate is in need of mental health treatment; and  (c) There is a reasonable likelihood that treatment can be accomplished in a Behavioral Health Unit.  (d) The BHS program manager shall make the final decision whether an inmate is admitted to a Behavioral Health Unit for treatment.  (3) Assessment: Within five working days following assignment to a Behavioral Health Unit, the mental health treatment team will assess the need for treatment. The following mental health data shall be considered by the BHS program manager in making the assessment:  (a) Existence and type of disorder;  (b) Potential therapeutic effect of a change in environment;  (c) Potential for development of a comprehensive program for treatment of the inmate that is available within a Behavioral Health Unit and is likely to benefit the inmate;  (d) Ability to function in an Intensive Management Unit or disciplinary segregation; and  (e) Any other factors substantially related to the mental health of the inmate as applicable, including staff observation, individual diagnostic interviews and tests assessing intellect and coping abilities.  (4) Upon completion of the assessment and compilation of the inmate's mental health history:  (a) If the mental health treatment team determines the inmate is not in need of the level of care in a Behavioral Health Unit, the inmate will be returned to his/her former status, assigned to an Intensive Management Unit or assigned to disciplinary segregation.  (b) If the mental health treatment team determines the inmate is in need of the level of care in a Behavioral Health Unit, an overall treatment plan will be developed with appropriate referral as needed.  (c) The inmate will be given the opportunity to voluntarily admit himself/herself to a Behavioral Health Unit.  (d) If the inmate is unwilling to be voluntarily admitted, the BHS program manager may admit the inmate on an involuntary basis.  (A) If the inmate has previously been assigned to a mental health special housing unit on an involuntary basis within the last 180 days, the inmate may be assigned to a Behavioral Health Unit without any further action.  (B) If the inmate has not previously been assigned to a mental health special housing unit on an involuntary basis, the BHS program manager will notify and deliver a copy of the Notice of Emergency/Involuntary Assignment to Mental Health Special Housing (CD 1567) to the functional unit manager.  (C) The functional unit manager will notify the hearings officer.  (D) The hearings officer will make arrangements to conduct an involuntary assignment hearing as outlined in OAR 291-048-0290 within five working days after completion of the assessment. 
+ 
+ (1) An adult in custody may be assigned to a Behavioral Health Unit : 
+
+ (a) If the individual is diagnosed with a serious mental illness and is being considered for placement in an Intensive Management Unit in accordance with the department’s rules on Intensive Management Unit ( OAR 291-055 ) or for placement in an Administrative Segregation Unit in accordance with the department’s rules on Segregation (Administrative) (OAR 291-046); and 
+
+ (b) The Special Population Management Committee recommends assignment to a Behavioral Health Unit. 
+
+ (2) An adult in custody may be placed in a Behavioral Health Unit when: 
+
+ (a) There is a referral from a qualified mental health professional; 
+
+ (b) The Behavioral Health Unit treatment team reviews the referral ; and 
+
+ (c) There is a reasonable likelihood that treatment can be accomplished in a Behavioral Health Unit. 
+
+ ( 3 ) The Behavioral Health Services program manager for the Behavioral Health Unit shall make the final decision whether an adult in custody is admitted to a Behavioral Health Unit for treatment. 
+
+ ( 4 ) Assessment: Within five working days following assignment to a Behavioral Health Unit, the Behavioral Health Unit treatment team will assess the need for treatment. The following mental health data shall be considered: 
+
+ (a) Mental health diagnoses;   
+
+ (b) Potential therapeutic effect of a change in environment; 
+
+ (c) Potential for development of an individualized treatment plan for the adult in custody that is available within a Behavioral Health Unit and is likely to benefit the adult in custody ; and 
+
+ ( d ) Any other factors substantially related to the mental health of the adult in custody, as applicable, including observations made by employees , individual diagnostic interviews , and tests assessing intellect and coping abilities. 
+
+ (5) Upon completion of the assessment and compilation of the adult in custody's mental health history: 
+
+ (a) If the Behavioral Health Unit treatment team determines the adult in custody is not in need of the level of care in a Behavioral Health Unit, the adult in custody will be returned to their former status, assigned to an Intensive Management Unit , to Administrative Segregation, or placed as appropriate . 
+
+ (b) If the Behavioral Health Unit treatment team determines the adult in custody needs the level of care in a Behavioral Health Unit, an individualized treatment plan will be developed . 
+
+ (c) The adult in custody will be given the opportunity to voluntarily admit to a Behavioral Health Unit. 
+
+ (d) If the adult in custody is unwilling to be voluntarily admitted, the Behavioral Health Services program manager for the Behavioral Health Unit may admit the adult in custody on an involuntary basis. 
+
+ (A) If the adult in custody has previously been assigned to a mental health special housing unit on an involuntary basis within the last 180 days, the adult in custody may be assigned to a Behavioral Health Unit without any further action. 
+
+ (B) If the adult in custody has not previously been assigned to a mental health special housing unit on an involuntary basis, the Behavioral Health Services program manager for the Behavioral Health Unit will deliver notice of Emergency/Involuntary Assignment to Mental Health Special Housing ( CD1567 ) to the institution’s functional unit manager. 
+
+ (C) The institution’s functional unit manager will notify the Hearings Officer. 
+
+ (D) The Hearings Officer will arrange to conduct an involuntary assignment hearing as outlined in OAR 291-048-0290 within five working days after completion of the assessment. 
+
  
  
  
@@ -102,6 +146,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 25-2026, amend filed 07/30/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -139,7 +198,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

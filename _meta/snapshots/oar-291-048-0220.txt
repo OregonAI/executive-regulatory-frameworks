@@ -89,9 +89,27 @@
  
  Division 48 MENTAL HEALTH SPECIAL HOUSING 
  291-048-0220 
- Selection and Training of Staff for Mental Health Special Housing 
+ Selection and Training of Security Employees for Mental Health Special Housing
  
- (1) Selection Criteria: For positions that are solely assigned to mental health special housing:  (a) Custody staff must have successfully completed trial service;  (b) All staff requesting to work in mental health special housing will be reviewed and must receive a satisfactory appraisal by a committee designated the functional unit manager before assignment to the unit. At a minimum, the staff member must meet the following criteria:  (A) Have expressed a constructive interest in working with inmates in mental health special housing;  (B) Have demonstrated the ability to work with inmates through conflict-reducing and conflict-control skills; and  (C) Have demonstrated the ability to use good judgment.  (2) Mental health special housing positions will be made by the functional unit manager and will be reviewed as needed.  (3) Mental Health Special Housing Position Rotations: Rotation of staff may occur as it is found to be in the best interest or well being of the employee, or the operation of the unit, upon determination by a committee designated the functional unit manager.  (4) Training of Assigned Personnel: All employees assigned to work in a mental health special housing unit are required to annually complete a minimum number of 12 training hours specific to mental health special housing, in addition to any other department training requirements. 
+ 
+ (1) Selection Criteria: For positions that are solely assigned to mental health special housing: 
+
+ (a) Security employees must have successfully completed trial service; 
+
+ (b) All employees requesting to work in mental health special housing will be reviewed and must receive a satisfactory appraisal by a committee designated by the institution’s functional unit manager before assignment to the unit. At a minimum, the employee must meet the following criteria: 
+
+ (A) Have expressed a constructive interest in working with adults in custody in mental health special housing; 
+
+ (B) Have demonstrated the ability to work with adults in custody through conflict-reducing and conflict-control skills; and 
+
+ (C) Have demonstrated the ability to use good judgment. 
+
+ (2) Position Availability: Decisions regarding the number of mental health special housing positions will be made by the institution’s functional unit manager and will be reviewed as needed. 
+
+ (3) Mental Health Special Housing Position Rotations: Rotation of employees may occur in the best interest or wellbeing of the employee or the operation of the unit, upon determination by a committee designated by the institution’s functional unit manager. 
+
+ (4) Training of Assigned Personnel: All employees assigned to work in a mental health special housing unit are required to annually complete a minimum number of 12 training hours specific to mental health special housing, in addition to any other department training requirements. 
+
  
  
  
@@ -102,6 +120,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 25-2026, amend filed 07/30/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -143,7 +176,7 @@ CD 15-1984, f. & cert. ef. 7-20-84
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

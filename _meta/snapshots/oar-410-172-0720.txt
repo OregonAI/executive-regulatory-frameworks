@@ -92,61 +92,75 @@
  Prior Authorization and Re-Authorization for Residential Treatment
  
  
- (1) The Authority does not consider a request for a fixed episode of care or standardized length of stay to be medically appropriate. Requested length of stay shall be based on an assessment of individual need and the medical appropriateness of the proposed time for treatment. 
+ (1) The Division does not consider a request for a fixed episode of care or standardized length of stay to be medically appropriate. Requested length of stay shall be based on an assessment of individual medical necessity and the medical appropriateness of the proposed time for treatment.  
 
- (2) Residential treatment shall be outcome-based and provide service and supports in a structured environment that allows the individual to successfully reintegrate into an independent community-based living arrangement. 
+ (2) The need for residential treatment is outcome based. Specifically, residential treatment is intended to provide the services and supports in a structured environment that allows an Individual to successfully reintegrate into an independent community based living arrangement.  
 
- (3) Residential treatment is not intended to be used as a long-term substitute for lack of available supportive living environments in the community. Lack of appropriate and available supportive community living environments shall be addressed and documented in transition management and planning for the recipient. 
+ (3) Residential treatment is not intended to be used as a long-term substitute for lack of available supportive living environments in the community. Residential programs shall support the care coordination and transition management to ensure the individual is connected to appropriate and available supports for a smooth and planful discharge when adequate stabilization is achieved.   
 
- (4) Authority-licensed residential treatment programs are reimbursed for the provision of 1915(i) habilitative services as described in OAR 410-173-0015, rehabilitative behavioral health services as described in OAR 410-172-0660, substance use disorder services as described in OAR 410-172-0670, or habilitation or personal care services as described in OAR 410-172-0705. 
+ (4) Authority-licensed residential treatment programs that are not Secure Residential Treatment Facilities (SRTF) are reimbursed for the provision of specific services as follows:   
 
- (5) The Division shall authorize admission and continued stay in residential programs based on the medical appropriateness of the request and supporting clinical documentation. 
+ (a) 1915(i) HCBS habilitative services as described in OAR 410-173-0015;  
 
- (6) Prior authorization requests for admission and continued stay shall be reviewed and documented by the Authority or their contracted Independent and Qualified Agent (IQA) to determine: 
+ (b) Rehabilitative behavioral health services as described in OAR 410-172-0660;   
 
- (a) The medical appropriateness for residential services; 
+ (c) Substance use disorder services as described in OAR 410-172-0670; and  
 
- (b) The medical appropriateness of the recommended length of stay; 
+ (d) Habilitation or personal care services as described in OAR 410-172-0705.  
 
- (c) The medical appropriateness of the recommended plan of care; 
+ (5) The Division shall authorize admission and continued stay in residential programs based on the medical appropriateness of the request and supporting clinical documentation.  
 
- (d) The medical appropriateness of the licensed setting; and 
+ (6) Prior authorization requests for admission and continued stays in residential service facilities shall be reviewed and documented by the Division or the Division’s Independent and Qualified Agent (IQA) to determine the medical necessity and medical appropriateness of each of the following:  
 
- (e) The current level of need. 
+ (a) Recommended length of stay;  
 
- (7) Prior authorization requests for admission and continued stay for a Secured Residential Treatment Facility (SRTF) shall be reviewed to confirm that the individual meets all the following criteria: 
+ (b) Recommended plan of care;  
 
- (a) The individual does not require 24-hour hospital care and treatment; 
+ (c) The licensed setting; and  
 
- (b) The individual requires highly structured and secured environmental supports and supervision seven days per week and 24 hours per day in order to participate successfully in a program of habilitative and rehabilitative activities; and 
+ (d) Any other Level of Care Determination required from OAR 410-172-0600(28).  
 
- (c) Due to a mental illness and as evidenced by clinically documented instances of behaviors displayed within the last 90 days, the individual presents with one or more of the following: 
+ (7) Prior authorization requests for admission and continued stay for a an SRTF shall be reviewed to confirm that the individual meets all the following criteria:  
 
- (A) Clear intention or specific acts of bodily harm to others; 
+ (a) The individual does not require 24-hour hospital care and treatment;  
 
- (B) Ideation of suicide with intent and ability if not in a secured environment or of self-harm posing significant risk of serious injury; 
+ (b) The individual requires highly structured and secured environmental supports and supervision seven days per week, 24 hours per day in order to succeed in a program of habilitative and rehabilitative activities; and  
 
- (C) Inability to care for basic needs that results in worsening or development of a significant health condition, or the individual’s mental health symptoms impact judgment and awareness to the degree that the individual may place themselves at risk of imminent harm; or 
+ (c) The Individual has, due to a mental illness, presented with one or more risks of harm set out in (A) - (D) of this subsection (c) within the last 90 days, which has been documented in the Individual’s clinical record(s) by either the Individual’s a treating physician, physician associate, or an advanced practice registered nurse who has been primarily responsible for treating the Individual:  
 
- (D) Significant risk that the individual will not remain in a non-secured place of service to receive the services and supports necessary to stabilize the symptoms of a mental illness that pose a threat to the individual’s or others' safety and well-being. 
+ (A) Clear intention or specific acts of bodily harm to others;  
 
- (8) If the Division determines that a residential service prior authorization request is not within coverage parameters, the provider shall be notified in writing of the basis for the decision and shall have ten business days to provide additional written documentation to support the medical appropriateness of the admission. 
+ (B) Ideation and intent of either suicide or of self-harm posing significant risk of serious injury; which, if not in a secured environment, would allow for opportunity;   
 
- (9) If the reconsidered decision is to uphold the denial, the provider, referral source and individual shall be notified in writing of the basis for the decision and the prior authorization shall be denied. 
+ (C) Inability to care for basic needs that would, if not in a secured environment, result in worsening or development of a significant health condition;   
 
- (10) The provider may appeal any final decision through the Division administrative appeals process as described in OAR 410-120-1560 through 410-120-1875. 
+ (D) The individual’s mental health symptoms impact judgment and awareness to the degree that the individual may place themselves at risk of imminent harm; or  
 
- (11) Upon denial of a prior authorization request for continued stay, the Division shall authorize payment for up to 60 days of continued stay for the purposes of supporting transition management for the recipient to plan any arrangements necessitated by the denial decision. 
+ (E) Significant risk that the individual will not remain in a non-secured place of service to receive the services and supports necessary to stabilize the symptoms of a mental illness that pose a threat to the individual’s or others' safety and well-being.  
 
- (12) The Division shall determine re-authorization and authorization of continued stays based upon documentation of at least one of the following: 
+ (d) If an Individual has not been discharged from an SRTF upon expiration of 90 day authorization, the care team, which must include treating physician, physician associate, or an advanced practice registered nurse who has been primarily responsible for treating the Individual shall consider whether alternative courses of treatment within a less restrictive environment, including Assisted Outpatient Treatment (ORS 426.133), is medically necessary and appropriate.  
 
- (a) The recipient continues to meet all elements of medical appropriateness described in these rules; 
+ (8) If the Division determines that a residential service, including those provided in a SRTFs, prior authorization request is not medically necessary and medically appropriate, the requesting provider shall be notified in writing of the basis for the decision and shall have ten business days to provide additional written documentation to support the medical necessity and medical appropriateness of the request for prior authorization.   
 
- (b) That the treatment provided is resulting in measurable clinical outcomes but that the recipient is not sufficiently stabilized or yet developed the skills necessary to support transition to any other residential setting; or 
+ (9) If, upon reconsideration, the Division upholds the denial of prior authorization, the requesting provider and individual shall be provided with a written notice of action that complies with OAR 410-120-1865, which requires the Division to include information on the Individual’s appeal and hearing rights.  
 
- (c) The recipient develops new or worsening symptoms or behaviors that require continued stay in the current residential setting. 
+ (10) If the Division issues prior authorization and the provider is subsequently denied payment for claims submitted, the provider may appeal any final decision through the Division administrative appeals process as described in OAR 410-120-1560 through 410-120-1875.  
 
- (13) Requests for continued stay based on these criteria shall include documentation of ongoing reassessment and necessary modification to the current treatment plan or residential plan of care. 
+ (11) Upon denial of a prior authorization request for continued stay, the Division shall authorize payment for a period of time following expiration of the then-current prior authorized stay as is necessary to support a seamless transition of care for the Individual and make any arrangements necessitated by the denial decision. In no event shall the Division authorize a transition management period that exceeds 60 days. These authorizations will include the following:   
+
+ (a) The Division shall provide written notice of a denial of a request for authorization of a continued stay in accordance with section (8) of this rule;  
+
+ (b) The provider, the Individual and, as applicable, the Individual’s Guardian or Health Care Representative (as each of them is defined in OAR 410-173-0005), will be provided with notice of the denial and the up-to 60 day continued stay for transition purposes, in accordance with section (9) of this rule.  
+
+ (12) The Division shall determine re-authorization and authorization of continued stays based upon documentation of at least one of the following:  
+
+ (a) The Individual continues to meet all elements of medical appropriateness described in these rules;  
+
+ (b) That the treatment provided is resulting in measurable clinical outcomes but that the Individual is not sufficiently stabilized or yet developed the skills necessary to support transition to any other residential setting; or  
+
+ (c) The recipient develops new or worsening symptoms or behaviors that require continued stay in the current residential setting.  
+
+ (13) Requests for continued stay based on these criteria in section (12) of this rule shall include documentation in the Individual’s clinical records of ongoing reassessment and necessary modification to the current treatment plan or residential plan of care.   
 
  
  
@@ -158,6 +172,21 @@
  Statutes/Other Implemented:  ORS 413.042, 430.640, ORS 414.025, 414.065, 430.705 & 430.715 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 33-2026, amend filed 07/29/2026, effective 07/31/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -261,7 +290,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

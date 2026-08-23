@@ -196,6 +196,19 @@ jobs:
       # Synthetic sources, no network.
       - name: Legal status must have exactly one writer
         run: python3 src/legal_status.py --selftest
+      # The other half of ADR 0006's split, and the caller that made the gate above
+      # necessary. `adopt`/`amend`/`renumber` change a rule's TEXT and re-ingest with
+      # nobody approving them; `repeal`/`suspend` change its FORCE and reach a person.
+      # This proves the split can fail — a verb classified as both, a verb classified as
+      # neither, a verb classified here that the bulletin reader never emits — and that a
+      # re-ingest refuses everything that is not the amendment the bulletin filed: OARD
+      # unreachable, a page serving a different rule number, a page with no rule on it.
+      # The two rules about provenance and the byte-identical re-run are fired against
+      # COMMITTED documents with a MUTATED COPY held in memory, so they are watched
+      # failing on the corpus they govern without writing to the working tree. Synthetic
+      # bulletins and an injected fetcher, no network.
+      - name: Amendments must re-ingest without reaching a rule out of force
+        run: python3 src/reingest_oar.py --selftest
       # The measurement side of the same pipeline, and its failures are quieter than the
       # merge's: a recall number computed against the wrong ground truth, or a per-type
       # table built from hand labels attached to the wrong candidates, is a confident
@@ -347,6 +360,21 @@ jobs:
       # serving repealed rules as current. ~4 s, reads committed data only, no network.
       - name: Legal status must be written once and read everywhere else
         run: python3 src/legal_status.py --check
+      # The same arrangement from the re-ingest side, against committed data. Reads the
+      # committed worklist and demands a re-ingest record for EVERY text action the
+      # bulletin filed against a rule this corpus holds — 306 for August 2026 — so the
+      # gate cannot be satisfied by a corpus that re-ingested nothing, which is the shape
+      # every rule about an existing row has. It also refuses the two things that would
+      # undo #229: a row recording a re-ingest of a repeal or a suspension, and a row
+      # carrying a Bulletin-set `legal_status` that this path wrote to at all. The 100
+      # rows the August bulletin took out of force are printed by ACTION on every run, so
+      # a corpus that silently started re-ingesting them is a number that moved. Every
+      # re-ingested document is verified against the snapshot committed beside it and
+      # reproduced byte for byte by re-running the refresh over it, which is what makes
+      # "re-running produces byte-identical output" a gate rather than an observation.
+      # ~10 s; reads committed data only, no network.
+      - name: Every amendment the Bulletin filed must be recorded as re-ingested
+        run: python3 src/reingest_oar.py --check
 
       # --- heaviest full-corpus scans: nightly / on-demand only ---
       # agency_profile selftest: scans every one of ~69k files' frontmatter with no

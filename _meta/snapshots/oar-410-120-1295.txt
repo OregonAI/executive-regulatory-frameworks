@@ -76,6 +76,8 @@
  
  
  
+   Temporary rule language in effect until 01/16/2027. 
+ 
  
  
  
@@ -100,17 +102,15 @@
 
  (a) Non-participating Type A and Type B hospital: The MCE shall reimburse a non-participating Type A and Type B hospital fully for the cost of covered services based on the cost-to-charge ratio used for each hospital in setting the global payments to the MCE for the contract period;  
 
- (b) Hospitals (not designated as a rural access or Type A and Type B hospital) including Child/Adolescent Psychiatric units in a hospital: As specified in ORS 414.743, the MCE shall reimburse inpatient and outpatient services using a Medicare payment methodology at a specified percentage point less than the percentage of Medicare costs used by the Oregon Health Authority (Authority) when calculating the base hospital capitation payment to the MCE excluding any supplemental payments;  
-
- (c) Effective for services on or after January 1, 2025, inpatient psychiatric adult and pediatric services shall be reimbursed using the DRG and outlier methodology outlined in OAR 410-125-0141 (10) and (11).  
+ (b) Hospitals (not designated as a rural access or Type A and Type B hospital) including Child/Adolescent Psychiatric units in a hospital: As specified in ORS 414.743, the MCE shall reimburse inpatient and outpatient services using a Medicare payment methodology at a specified percentage point less than the percentage of Medicare costs used by the Oregon Health Authority (Authority) when calculating the base hospital capitation payment to the MCE excluding any supplemental payments:  
 
  (A) Effective for services on or after October 1, 2011, for a hospital providing 10 percent or more of the hospital admissions and outpatient hospital services to enrollees of the plan, the percentage of the Medicare reimbursement shall be equal to 64 percent;  
 
- (B) Effective for services on or after October 1, 2011, for a hospital providing less than 10 percent of the hospital admissions and outpatient hospital services to enrollees of the plan, the percentage of the Medicare reimbursement shall be equal to 66 percent.  
+ (B) Effective for services on or after October 1, 2011, for a hospital providing less than 10 percent of the hospital admissions and outpatient hospital services to enrollees of the plan, the percentage of the Medicare reimbursement shall be equal to 66 percent;  
 
- (C) Effective for services on or after January 1, 2020 for a hospital providing 10 percent or more of the hospital admissions and outpatient hospital services to enrollees of the plan, the percentage of the Medicare reimbursement shall be equal to 76 percent.  
+ (C) Effective for services on or after January 1, 2020 for a hospital providing 10 percent or more of the hospital admissions and outpatient hospital services to enrollees of the plan, the percentage of the Medicare reimbursement shall be equal to 76 percent;  
 
- (D) Effective for services on or after January 1, 2020 for a hospital providing less than 10 percent of the hospital admissions and outpatient hospital services to enrollees of the plan, the percentage of the Medicare reimbursement shall be equal to 78 percent.  
+ (D) Effective for services on or after January 1, 2020 for a hospital providing less than 10 percent of the hospital admissions and outpatient hospital services to enrollees of the plan, the percentage of the Medicare reimbursement shall be equal to 78 percent;  
 
  (E) Effective for services on or after January 1, 2023 but before January 1, 2024.  
 
@@ -118,7 +118,9 @@
 
  (ii) For a hospital providing less than 10 percent of the hospital admissions and outpatient hospital services to enrollees of the plan, the percentage of the Medicare reimbursement shall be equal to 83 percent.  
 
- (d) For Maternity Services effective on or after January 1, 2026 but before January 1, 2027;  
+ (c) Effective for services on or after January 1, 2025, inpatient psychiatric adult and pediatric services shall be reimbursed using the DRG and outlier methodology outlined in OAR 410-125-0141 (10) and (11);  
+
+ (d) For Maternity Services effective on or after January 1, 2026 but before January 1, 2027:  
 
  (A) For hospital providing 10 percent or more of the hospital admissions and outpatient hospital services to enrollees of the plan, the percentage of the Medicare reimbursement shall be equal to 100 percent; and  
 
@@ -154,6 +156,21 @@
  Statutes/Other Implemented:  ORS 414.065, 414.025 & 414.743 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 31-2026, temporary amend filed 07/21/2026, effective 07/21/2026 through 01/16/2027 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -377,7 +394,7 @@ OMAP 10-2001, f. 3-30-01, cert. ef. 4-1-01
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

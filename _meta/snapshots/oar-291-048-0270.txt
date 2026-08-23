@@ -89,9 +89,59 @@
  
  Division 48 MENTAL HEALTH SPECIAL HOUSING 
  291-048-0270 
- Assignment to Intermediate Care Housing 
+ Assignment to Intermediate Care Housing
  
- (1) An inmate may be assigned to Intermediate Care Housing based on a referral from a mental health specialist. An inmate may be referred if:  (a) It is determined at release from an MHI that the inmate requires additional stabilization prior to placement into a less restrictive environment;  (b) It is determined at intake that the inmate does not have the basic coping skills to be placed directly into a less restrictive environment;  (c) It is determined during the inmate’s incarceration that he or she will have an increase in symptoms in a less restrictive environment if he or she is not provided a higher level of treatment and support; or  (d) The inmate demonstrates high risk for suicide or frequent self-harm.  (2) An inmate may be placed in Intermediate Care Housing when:  (a) There is a referral from a mental health specialist, nurse, or outside mental health contractor;  (b) The mental health treatment team finds that the inmate is in need of mental health treatment; and  (c) There is a reasonable likelihood that treatment can be accomplished in Intermediate Care Housing.  (d) The BHS program manager shall make the final decision whether an inmate is admitted to Intermediate Care Housing for treatment.  (3) Assessment: Within five working days following assignment to Intermediate Care Housing, the mental health treatment team will assess the need for treatment. The following mental health data shall be considered by the BHS program manager in making the assessment:  (a) Existence and type of disorder;  (b) Potential therapeutic effect of a change in environment;  (c) Potential for development of a comprehensive program for treatment of the inmate that is available within Intermediate Care Housing and is likely to benefit the inmate;  (d) Ability to function in the general population; and  (e) Any other factors substantially related to the mental health of the inmate as applicable, including staff observation, individual diagnostic interviews and tests assessing intellect and coping abilities.  (4) Upon completion of the assessment and compilation of the inmate's mental health history:  (a) If the mental health treatment team determines the inmate is not in need of the level of care in Intermediate Care Housing, the inmate will be returned to his/her former status or referred to mental health treatment as appropriate.  (b) If the mental health treatment team determines the inmate is in need of the level of care in Intermediate Care Housing, an overall treatment plan will be developed with appropriate referral as needed.  (c) The inmate will be given the opportunity to voluntarily admit himself/herself to Intermediate Care Housing.  (d) If the inmate is unwilling to be voluntarily admitted, the BHS program manager may admit the inmate on an involuntary basis.  (A) If the inmate has previously been assigned to a mental health special housing unit on an involuntary basis within the last 180 days, the inmate may be assigned to Intermediate Care Housing without any further action.  (B) If the inmate has not previously been assigned to a mental health special housing unit on an involuntary basis, the BHS program manager will notify and deliver a copy of the Notice of Emergency/Involuntary Assignment to Mental Health Special Housing (CD 1567) to the functional unit manager.  (C) The functional unit manager will notify the hearings officer.  (D) The hearings officer will make arrangements to conduct an involuntary assignment hearing as outlined in OAR 291-048-0290 within five working days after completion of the assessment. 
+ 
+ (1) An adult in custody may be assigned to Intermediate Care Housing based on a referral from a qualified mental health professional . An adult in custody may be referred if: 
+
+ (a) It is determined at release from a Mental Health Infirmary that the adult in custody requires additional stabilization prior to placement into a less restrictive environment; 
+
+ (b) It is determined at release from a Behavioral Health Unit that the adult in custody requires additional stabilization prior to placement into a less restrictive environment; 
+
+ (c) It is determined at intake that the adult in custody does not have the basic coping skills to be placed directly into a less restrictive environment; 
+
+ ( d ) It is determined during the adult in custody’s incarceration that there will be an increase in symptoms in a less restrictive environment if the adult in custody is not provided a higher level of treatment and support; or 
+
+ ( e ) The adult in custody demonstrates high risk for suicide or frequent self- directed violence . 
+
+ (2) An adult in custody may be admitted in Intermediate Care Housing when: 
+
+ (a ) The Intermediate Care Housing mental health treatment team finds that the adult in custody needs mental health treatment; and 
+
+ ( b ) There is a reasonable likelihood that treatment can be accomplished in Intermediate Care Housing. 
+
+ ( 3 ) The Behavioral Health Services program manager for Intermediate Care Housing shall make the final decision whether an adult in custody is admitted to Intermediate Care Housing for treatment. 
+
+ ( 4 ) Assessment: Within five working days following assignment to Intermediate Care Housing, the mental health treatment team will assess the need for treatment. The following mental health information shall be considered by the Behavioral Health Services program manager for Intermediate Care Housing in making the assessment: 
+
+ (a) Mental health diagnoses ; 
+
+ (b) Potential therapeutic effect of a change in environment; 
+
+ (c) Potential for development of an individualized treatment plan for the adult in custody that is available within Intermediate Care Housing and is likely to benefit the adult in custody ; 
+
+ (d) Ability to function in the general population; and 
+
+ (e) Any other factors substantially related to the mental health of the adult in custody, as applicable, including observations made by employees , individual diagnostic interviews , and tests assessing intellect and coping abilities. 
+
+ ( 5 ) Upon completion of the assessment and compilation of the adult in custody's mental health history: 
+
+ (a) If the mental health treatment team determines the adult in custody is not in need of the level of care in Intermediate Care Housing, the adult in custody will be returned to their former status or referred to mental health treatment , as appropriate. 
+
+ (b) If the mental health treatment team determines the adult in custody needs the level of care in Intermediate Care Housing, an individualized treatment plan will be developed. 
+
+ (c) The adult in custody will be given the opportunity to voluntarily admit to Intermediate Care Housing. 
+
+ (d) If the adult in custody is unwilling to be voluntarily admitted, the Behavioral Health Services program manager may admit the adult in custody on an involuntary basis: 
+
+ (A) If the adult in custody has previously been assigned to a mental health special housing unit on an involuntary basis within the last 180 days, the adult in custody may be assigned to Intermediate Care Housing without any further action. 
+
+ (B) If the adult in custody has not previously been assigned to a mental health special housing unit on an involuntary basis, the Behavioral Health Services program manager will deliver notice of Emergency/Involuntary Assignment to Mental Health Special Housing ( CD1567 ) to the institution’s functional unit manager. 
+
+ (C) The institution’s functional unit manager will notify the Hearings Officer. 
+
+ (D) The Hearings Officer will arrange to conduct an involuntary assignment hearing as outlined in OAR 291-048-0290 within five working days , or as soon as practicable, after completion of the assessment. 
+
  
  
  
@@ -102,6 +152,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 25-2026, amend filed 07/30/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -139,7 +204,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  

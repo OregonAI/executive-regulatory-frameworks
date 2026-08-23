@@ -92,7 +92,7 @@
  Cancellation Hearing
  
  
- (1) Except as described in subsection (2) of this rule, hearings on proposed cancellations are governed by Or Laws 2025, ch 575, sections 2 and 3 and OAR chapter 690, division 2. Proposed final orders shall become final by default as provided in OAR 690-002-0235. 
+ (1) Except as described in subsection (2) of this rule, hearings on proposed cancellations are governed by ORA 536.076, ORS 536.077, and OAR chapter 690, division 2. Proposed final orders shall become final by default as provided in OAR 690-002-0235. 
 
  (2) The protestant and any person(s) asserting forfeiture shall be given not less than 30 days’ notice of the hearing. 
 
@@ -103,9 +103,24 @@
  Statutory/Other Authority:  ORS 536.025 & ORS 536.027 
  
  
- Statutes/Other Implemented:  ORS 540.610 - 540.670, Or Laws 2025, ch 575, section 2 & Or Laws 2025, ch 575, section 3 
+ Statutes/Other Implemented:  ORS 540.610 - 540.670, ORS 536.076 & ORS 536.077 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 13-2026, minor correction filed 07/29/2026, effective 07/29/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  
@@ -158,7 +173,7 @@
  
  
  
- v2.1.7
+ v2.1.8
  
  
  
