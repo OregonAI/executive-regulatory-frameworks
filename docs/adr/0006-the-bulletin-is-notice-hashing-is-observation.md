@@ -61,10 +61,22 @@ provenance chain already verifies, so it re-ingests automatically. A repeal or s
 claim about force and goes to a human. 418 rules this month would have been 418 tickets
 against a 25-issue cap; splitting on action puts review where judgement is needed.
 
-**`in_corpus` is three states, not two.** Measured across two bulletins, every
+**`in_corpus` is three states, not two.** ~~Measured across two bulletins, every
 not-in-corpus rule (312 in July, 131 in August) was in a chapter outside our selection, and
-none was a rule missing from a chapter we mirror. Those are different facts and the second is
-a genuine gap, so they are recorded apart before they first collide rather than after.
+none was a rule missing from a chapter we mirror.~~ **That measurement was wrong** (#227): it
+built the mirrored-chapter set with a pattern matching `oar-*.md` against `rules/`, which
+holds chapter DIRECTORIES, so the set was empty and every rule fell outside it. A query
+matching nothing returned the same clean answer as one matching everything — the substitution
+this ADR is about, made while measuring it.
+
+Re-measured against the 170 chapters `rules/` actually mirrors, **121 of August's 131
+not-in-corpus rules are missing from chapters we mirror**: 74 adoptions, **43 amendments**, 1
+repeal, 3 suspensions. An amendment means the rule existed and its text changed, so those 43
+are a live coverage gap in chapters this corpus claims to hold. The two facts are not waiting
+to collide; they collided 121 times in one month and nothing could see it. They are recorded
+apart as `corpus_state: held | missing_from_mirrored_chapter | chapter_not_mirrored`, and the
+chapter set that decides between the last two is itself checked against the corpus's own held
+rules — the one check that would have caught the measurement above.
 
 **A renumber records its destination or says it could not.** `_meta/catalog/oar.yml` already
 stores `served_as`; the worklist today records `action: renumber` with no target. July filed

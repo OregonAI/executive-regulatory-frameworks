@@ -11,6 +11,62 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Changed
+- 2026-08-22 — The Bulletin worklist stops collapsing two states into one (#227, #233,
+  ADR 0006). Three places in `src/check_bulletin.py` reported one thing where there were
+  two, all the same failure shape.
+  **`in_corpus: true|false` becomes `corpus_state`, with three values.** A rule this
+  corpus does not hold in a chapter it MIRRORS is a coverage gap; a rule in a chapter
+  outside the selection is a boundary. The old field said "not held" to both. #227 was
+  written believing the third state had never occurred — the measurement behind that
+  built the mirrored-chapter set with a pattern matching `oar-*.md` against `rules/`,
+  which holds chapter DIRECTORIES, so the set was empty and every rule fell outside it.
+  **Re-measured against the 170 chapters `rules/` actually mirrors, 121 of August's 131
+  not-in-corpus rules are missing from chapters this corpus mirrors: 74 adoptions, 43
+  AMENDMENTS, 1 repeal, 3 suspensions.** An amendment means the rule existed and its text
+  changed, so those 43 are a live gap in chapters this corpus claims to hold, and
+  `--check` now prints all three counts on every run instead of one number over the last
+  two. The field is RENAMED rather than widened: every value of a two-state field is
+  truthy, so a consumer reading the new spelling off the old name would find every row
+  held. The chapter set that decides between the last two states is itself checked
+  against the corpus's own held rules — a chapter listing that cannot account for the
+  documents on disk makes the gate REFUSE rather than file every missing rule as one
+  this corpus never wanted, which is the exact measurement error above, caught.
+  **A renumber records where the text went, or records that it could not.** `RENUMBER: X
+  to Y` paired every number on the line with every verb (#233), so Y — where the text
+  WENT — was filed as a rule that had itself been renumbered, and the move X made had no
+  target at all; under `AMEND & RENUMBER: X to Y`, Y was additionally reported as
+  amended. Rows now carry `renumbered_to`, holding the destination or the literal
+  `unknown`, which is deliberately not spellable as an action: renumbered, renumbered
+  with an unknown target and repealed are three states and only the last means the text
+  is gone. Two filings naming different destinations for one rule used to be resolved
+  silently in favour of whichever the table listed first; that is now recorded.
+  August filed **0 renumbers**, so this half is proved on fixtures alone and reported as
+  such — July filed 64, 32 against rules held here.
+  **The worklist says how much of the month it is.** `filings` and `unread_filings` are
+  new, and they are what keeps a month whose filings could not be fetched from reading as
+  a month in which little was filed — the substitution ADR 0006 exists to prevent, which
+  the file itself had no field to record. An unread filing is NAMED, with the link a
+  human would follow.
+  **Also fixed, both from #233 and both latent rather than occurring**: an action line
+  wrapping onto the next line lost everything after the trailing comma, and a `<tr>` in
+  the operative table that carried cells but no filing link was dropped where nobody could
+  see it. Wrapped lines are followed; a promise the parser cannot keep and a row it cannot
+  read are both recorded. And a filings table that yields ZERO filings now refuses, which
+  `filing-table` could not catch — the mark stays in place while the row layout moves,
+  and zero filings is also what a quiet month looks like.
+  **A missed month is an error.** The Bulletin is monthly, so the months between the OAR
+  group's last look upstream and the bulletin a worklist names are countable, and a
+  worklist that skipped one is not stale by anything the file itself carries: it names the
+  newest bulletin and every row in it is correct.
+  `--selftest` proves **39 violations across 26 rules**, with **13 reader proofs held**
+  (was 25 across 16, with 7). Every new rule was watched failing before it existed and
+  again with its condition removed. Synthetic fixtures throughout — every OAR number is in
+  chapter 999 or 998, which Oregon does not have — and the clean-month must-not-fire guard
+  still holds, now over a fixture carrying all three corpus states and both kinds of
+  renumber, because a fixture whose rules were all held could not tell a reader that keeps
+  a gap and a boundary apart from one that collapses them.
+  `_meta/bulletin-worklist.yml` was regenerated from bulletin 1761 rather than migrated,
+  so its bytes come from the one writer: 549 rule actions from 159 filings, 0 unread.
 - 2026-08-22 — `name` is the statutory name, and every registry row says whether it holds one
   (#168, ADR 0003). ADR 0003 calls this the risky half and took it deliberately: the
   registry's subject is the body, and a body's name is the one its enabling authority gives
