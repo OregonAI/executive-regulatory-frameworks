@@ -41,6 +41,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import yaml
 
+from legal_status import bulletin_status_by_rule, resolve
 from repo_lib import REPO_ROOT, Checks, content_files, parse_frontmatter
 
 AUTH_RE = re.compile(r"Statutory/Other Authority:\s*(.*?)\s*(?=Statutes/Other Implemented:|History:|$)", re.S)
@@ -160,8 +161,14 @@ def parse_history(hist: str):
             bool(REPEAL_RE.search(newest)))
 
 
-def derive(body: str, doc_id: str, registry_by_chapter: dict) -> dict:
-    """All derivable frontmatter values for one rule, from its own body text."""
+def derive(body: str, doc_id: str, registry_by_chapter: dict, bulletin_status=None) -> dict:
+    """All derivable frontmatter values for one rule, from its own body text.
+
+    `bulletin_status` is the legal status the Oregon Bulletin set for this rule, off the OAR
+    catalog's `legal_status` key, or None where it has said nothing. It is a PARAMETER and
+    not a lookup here because this function is called once per document by `main()` and once
+    per rule by `ingest_oar`, and the catalog is read once by each of them rather than
+    36,955 times."""
     d = {}
     m = AUTH_RE.search(body)
     d["legal_authority"] = parse_citation_list(m.group(1)) if m else []
@@ -176,7 +183,16 @@ def derive(body: str, doc_id: str, registry_by_chapter: dict) -> dict:
     d["source_version"] = (f"{action_id}, effective {eff}" if action_id and eff
                            else action_id)
     d["renumbered_from"] = renum
-    d["status"] = "repealed" if repealed else "current"
+    # THE ENRICHER NO LONGER DECIDES THE LEGAL STATUS, and this line is why the gate in
+    # `legal_status.py` exists. It used to read `"repealed" if repealed else "current"`,
+    # which made this module a second writer of a claim about Oregon law AND its enforcer:
+    # `expected_mismatch` compares the field, so once the Bulletin records a repeal against
+    # a rule whose OARD History line does not print one yet, the old line would have
+    # restamped the document `current` and this module's nightly `--check` would have failed
+    # the build for the Bulletin being right. What it knows -- whether the newest History
+    # action is a repeal -- is now handed to the one writer, which weighs it against what
+    # the Bulletin filed (ADR 0006).
+    d["status"] = resolve(bulletin=bulletin_status, history_repealed=repealed)
     ch = doc_id.split("-")[1]
     org = registry_by_chapter.get(ch)
     if org is None:
@@ -237,6 +253,9 @@ def apply(path: Path, d: dict) -> bool:
     text = re.sub(r'^agency: .*$', f'agency: {d["agency"]}', text, count=1, flags=re.M)
     text = re.sub(r'^issuing_body: .*$', f'issuing_body: "{d["issuing_body"]}"',
                   text, count=1, flags=re.M)
+    # LEGAL STATUS - READER: stamps the value `derive()` was given by the one writer. This
+    # is the strongest write in the repository -- it replaces whatever a document already
+    # said, across 36,955 files -- and it names no status of its own.
     text = re.sub(r'^status: .*$', f'status: {d["status"]}', text, count=1, flags=re.M)
     if d["renumbered_from"]:
         sup = f'OAR {d["renumbered_from"]}'
@@ -349,6 +368,9 @@ def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     check = "--check" in sys.argv
     registry = load_registry_by_chapter()
+    # Read once, for all 36,955 rules. Empty until #229 records the first filed repeal;
+    # `legal_status.py --check` is what prints the count so a zero stays visible.
+    bulletin = bulletin_status_by_rule()
 
     targets = []
     for p in content_files():
@@ -358,7 +380,7 @@ def main():
     changed = drift = 0
     for p in targets:
         fm, body = parse_frontmatter(p)
-        d = derive(body, fm["id"], registry)
+        d = derive(body, fm["id"], registry, bulletin.get(str(fm["id"])[4:]))
         if check:
             bad = expected_mismatch(fm, d)
             if bad:

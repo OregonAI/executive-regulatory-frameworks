@@ -181,6 +181,19 @@ jobs:
       # Synthetic fixtures, no network, no read of the committed worklist.
       - name: Bulletin reader rules must all be able to fail
         run: python3 src/check_bulletin.py --selftest
+      # A rule document's `status` is a claim about Oregon law and ADR 0006 gives it ONE
+      # writer, the Oregon Bulletin. It had two: ingest_oar.py wrote `status: current` as a
+      # hardcoded literal on every rule it created, and enrich_oar.py derived the field from
+      # the rule's own History line AND compared it in a nightly gate. Once amendments
+      # re-ingest automatically (#230) that literal resurrects a rule the Bulletin marked
+      # repealed, silently, under provenance. Both now read `legal_status.resolve()` and this
+      # proves the arrangement can fail: a second writer, a write nobody marked, a "reader"
+      # that kept its own literal, and — the one this ticket exists for — a re-ingest that
+      # overwrote a Bulletin-set status, which is fired against a COMMITTED rule document
+      # rather than a fixture because no committed row carries a Bulletin status until #229.
+      # Synthetic sources, no network.
+      - name: Legal status must have exactly one writer
+        run: python3 src/legal_status.py --selftest
       # The measurement side of the same pipeline, and its failures are quieter than the
       # merge's: a recall number computed against the wrong ground truth, or a per-type
       # table built from hand labels attached to the wrong candidates, is a confident
@@ -317,6 +330,17 @@ jobs:
       # stays behind the mode that already did it.
       - name: Bulletin worklist must hold up against the corpus
         run: python3 src/check_bulletin.py --check
+      # The same arrangement, against committed data: exactly one module in src/ writes a
+      # legal status, every other write of one says which corpus it belongs to, and the two
+      # fields spelled `status` hold each other's vocabulary nowhere across all 37,007 OAR
+      # catalog rule entries — the document's `status` is whether a rule is IN FORCE and the
+      # catalog's is whether THIS MIRROR holds a copy (CONTEXT.md keeps two entries for
+      # exactly this). Where the catalog states a Bulletin-set `legal_status`, the document
+      # must agree; that comparison is over 0 rows until #229 records the first filed repeal,
+      # and `--check` prints the count on every run so the zero stays visible. ~4 s, reads
+      # committed data only, no network.
+      - name: Legal status must be written once and read everywhere else
+        run: python3 src/legal_status.py --check
 
       # --- heaviest full-corpus scans: nightly / on-demand only ---
       # agency_profile selftest: scans every one of ~69k files' frontmatter with no

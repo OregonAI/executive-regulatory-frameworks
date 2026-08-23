@@ -129,10 +129,19 @@ _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a 
 **Legal status**:
 Whether a rule is in force. It lives in the document's `status` frontmatter field, whose
 values corpus-toolkit's schema fixes as `current | superseded | repealed | proposed | draft`,
-and it is a claim about Oregon law. 5,722 rules read `current` and 278 `repealed`. Its writer
-is the Oregon Bulletin (ADR 0006): `ingest_oar.py` writes `status: current` on a rule it
-creates, and may not overwrite a status the Bulletin set — a re-ingest that did would
-resurrect a repealed rule silently.
+and it is a claim about Oregon law. Measured over the committed corpus: 34,922 rules read
+`current` and 2,031 `repealed`. ITS WRITER IS THE OREGON BULLETIN (ADR 0006), and since #228
+that is a single function — `legal_status.resolve()` — rather than a convention. It had two
+writers: `ingest_oar.py` wrote `status: current` as a hardcoded literal on every rule it
+created, and `enrich_oar.py` derived the field from the rule's own History line and compared
+it in a nightly gate, which would have restamped a Bulletin repeal back to `current` and then
+failed the build for the Bulletin being right. Both now read the one writer, which weighs
+what each of them knows in a fixed order: a status the Bulletin set, then a repeal in the
+rule's own served History, then what the document already says, then `current` — which a
+fresh ingest may assert only where nothing better is known. A Bulletin-set status is carried
+on the OAR catalog row in `legal_status` and stamped onto the document from there, so the
+catalog writes and the document reads. `legal_status.py --check` fails if a second writer
+appears and `--selftest` proves it, a re-ingest overwriting a Bulletin-set status included.
 _Avoid_: Status, unqualified — the catalog has a different field by that name
 
 **Ingest status**:
@@ -140,6 +149,10 @@ Whether this corpus holds a copy of a rule, and in what shape. It lives in
 `_meta/catalog/oar.yml` as `rules[].status`, with its own vocabulary — `ingested` (36,474),
 `renumbered` (484, carrying `served_as`), `not_served` (49). It is a claim about THIS MIRROR,
 never about Oregon law: a rule can be in force and absent here, or repealed and still held.
+The Bulletin's claim about force sits on the SAME ROW under a different key, `legal_status`,
+and the two never borrow each other's words — `legal_status.py --check` reads all 37,007
+entries and refuses either field holding the other's vocabulary, because on the day they
+first collide nothing else in the repository would notice.
 _Avoid_: Status, unqualified. The two fields share a name and mean different things, which is
 why both entries exist
 

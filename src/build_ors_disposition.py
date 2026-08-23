@@ -164,6 +164,9 @@ def compute() -> dict:
         skipped += found.pop("__skipped__", 0)
         renum.update(found)
 
+    # LEGAL STATUS - NOT-A-RULE: an ORS section's disposition, mined from the chapter page's
+    # own repeal brackets. It is a claim about a STATUTE's force, and the Oregon Bulletin --
+    # ADR 0006's writer of a RULE's legal status -- does not publish statutes.
     rows = [{"section": sec, "status": "repealed", "year": year}
             for sec, year in sorted(entries.items())]
     for sec, p in sorted(renum.items()):

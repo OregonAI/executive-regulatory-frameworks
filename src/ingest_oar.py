@@ -25,6 +25,7 @@ import yaml
 
 from html_to_text import html_to_text
 from ingest_lib import fetch
+from legal_status import bulletin_status_by_rule, resolve
 from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, content_hash, normalize_ws,
                       normalize_volatile, rule_title_from_html, snapshot_slice, ws_only)
 
@@ -90,7 +91,15 @@ def served_rule_number(text):
     return m.group(1) if m else None
 
 
-def doc_body(rule, title_line, url, sha, ch, div):
+# THE INGESTER NO LONGER NAMES THE LEGAL STATUS. `status: current` used to be a hardcoded
+# literal in the template below, written onto every one of the 36,955 rule documents this
+# pipeline created. That is fine on a FIRST ingest -- nothing better is known about a rule
+# OARD is serving normally -- and it is the whole hazard on a re-ingest: once #230 refreshes
+# an amended rule automatically, the literal would restamp `current` over a repeal the
+# Bulletin filed, resurrecting the rule silently and publishing a false statement about
+# Oregon law under provenance. The value now arrives from `legal_status.resolve()`, which is
+# the only thing that decides it (ADR 0006).
+def doc_body(rule, title_line, url, sha, ch, div, status):
     return f"""---
 id: oar-{rule}
 title: "{title_line.replace(chr(34), chr(39))}"
@@ -107,7 +116,7 @@ source_sha256: "{sha}"
 effective_date: null
 last_reviewed: null
 source_version: "As served by OARD {TODAY}; AON history inside the full text"
-status: current
+status: {status}
 supersedes: null
 content_mode: verbatim
 conversion_notes: "rule text sliced from the OARD page (site chrome excluded); whitespace-collapsed with breaks at subsection markers"
@@ -179,6 +188,8 @@ def cmd_ingest(chapters, skip_group=False):
     from enrich_oar import load_registry_by_chapter
     registry_by_ch = load_registry_by_chapter()
     cat = yaml.safe_load(CATALOG.read_text())
+    # What the Bulletin has said about each rule's legal force, read once for the run.
+    bulletin = bulletin_status_by_rule(cat)
     by_ch = {c["chapter"]: c for c in cat["chapters"]}
     group = yaml.safe_load(GROUP.read_text())
     gsrc = {s["id"]: s for s in group["sources"]}
@@ -237,11 +248,26 @@ def cmd_ingest(chapters, skip_group=False):
                     continue
                 title_line = rule_title_from_html(raw.decode("utf-8", errors="replace"),
                                                   target) or f"OAR {target}"
-                body = doc_body(target, title_line, url, sha, s_ch, s_div)
+                # Keyed on the SERVED number, not the requested one: a renumbered rule is
+                # filed under the number OARD serves it as, and a Bulletin entry against
+                # that number is the one that describes the document being written here.
+                # `existing` is not passed because this branch is only reached when the file
+                # does not exist -- the `out.exists()` guard above returns first -- so a
+                # fresh ingest asserting `current` here is asserting it where nothing better
+                # is known, which is the only case ADR 0006 leaves it.
+                status = resolve(bulletin=bulletin.get(target))
+                body = doc_body(target, title_line, url, sha, s_ch, s_div, status)
                 body = body.replace("{FT}", flow_to_lines(sl))
                 out.write_text(body)
                 try:
-                    enrich_apply(out, enrich_derive(flow_to_lines(sl), doc_id, registry_by_ch))
+                    # The Bulletin status is handed to the enricher too. It runs `apply()`
+                    # immediately after this document is written and that call restamps
+                    # `status:`, so an ingest that resolved the status correctly above and
+                    # then enriched without it would have the History line overwrite the
+                    # Bulletin one line later -- the two-writers failure inside a single
+                    # function.
+                    enrich_apply(out, enrich_derive(flow_to_lines(sl), doc_id,
+                                                    registry_by_ch, bulletin.get(target)))
                 except SystemExit as e:
                     # e.g. OARD renumbered the rule into a chapter the registry doesn't
                     # know (mirror index gap). Quarantine: withdraw the doc, record why,

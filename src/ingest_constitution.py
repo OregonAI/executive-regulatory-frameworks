@@ -328,6 +328,9 @@ def edition(norm_text: str) -> str:
     return m.group(1) if m else ""
 
 
+# LEGAL STATUS - NOT-A-RULE: a section of the Oregon Constitution (ADR 0005). Its repeal is
+# printed by the page itself as a leadline and a repeal bracket, and the Oregon Bulletin --
+# ADR 0006's writer of a RULE's legal status -- does not publish constitutional amendments.
 def doc_body(article, art_title, sec, prov, slice_text):
     url, sha, source_version, today = prov
     doc_id = orconst_id(article, sec["number"])

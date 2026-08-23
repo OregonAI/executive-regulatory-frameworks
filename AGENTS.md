@@ -376,6 +376,22 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   unfindable by the name a reader knows. Every remaining read of a registry `name` is
   classified where it sits, as JOIN, DISPLAY or MACHINERY, and
   `python3 src/name_readers.py --check` (CI, every PR) refuses one that is not.
+  A RULE'S LEGAL STATUS HAS ONE WRITER, `legal_status.resolve()` (#228, ADR 0006). The
+  document's `status` field is corpus-toolkit's `current | superseded | repealed | proposed |
+  draft` and it is a claim about Oregon law, so it is not the same field as the OAR catalog's
+  `rules[].status`, which is INGEST status and says only whether this mirror holds a copy
+  (CONTEXT.md keeps an entry for each). It had two writers: `ingest_oar.py` hardcoded
+  `status: current` on every rule it created and `enrich_oar.py` derived the field from the
+  rule's own History line, so an automatic re-ingest of an amended rule would have resurrected
+  one the Bulletin marked repealed. Both are readers now. The order is fixed: a status the
+  Bulletin set (the OAR catalog row's `legal_status`), then a repeal in the rule's own served
+  History, then what the document already says, then `current` — which a fresh ingest may
+  assert ONLY where nothing better is known. Any site in `src/` that writes one of those five
+  words must say where it sits which it is — WRITER, READER, NOT-A-RULE or NOT-A-LEGAL-STATUS —
+  and `python3 src/legal_status.py --check` (CI, every PR) fails on an unmarked one, on a
+  second module marked WRITER, on a "reader" that kept a literal of its own, and on a document
+  that stopped agreeing with the catalog row it was stamped from. `--selftest` proves every one
+  of those can fail.
   `name` IS THE STATUTORY NAME since #168 (ADR 0003), and every row states in `name_basis`
   whether it actually holds one: `enabling-authority` — read off the body's enabling
   authority by a human, written only by `src/link_enabling_authority.py`'s `STATUTORY_NAMES`
