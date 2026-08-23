@@ -47,6 +47,53 @@ OYA_POL_RE = re.compile(r"\b(0-\d{1,2}\.\d{1,2}|[IVX]{1,3}-[A-Z]-\d{1,2}(?:\.\d{
 REL_KEYS = ["implements", "implemented_by", "references_external", "related", "supersedes"]
 
 
+def contributes_implements_edges(doc_type, status, doc_id, suspended):
+    """THE ONE DECLARATION of which documents contribute implements edges.
+
+    NOT-CURRENT IS TWO THINGS, and until #229 they were the same set. A REPEALED rule
+    is gone and implements nothing. A SUSPENDED one is paused to a date it prints
+    itself, so it keeps its edge (#242): the statute would otherwise understate what
+    implements it, and a reader could not tell a five-month pause from a permanent
+    repeal -- the collapse #229's own criteria forbid, one layer below where its
+    proofs look.
+
+    compute() and --selftest both call THIS, so the proof gates the real predicate
+    rather than a second copy of it that can drift out of agreement.
+    """
+    if doc_type not in LINK_DOC_TYPES:
+        return False
+    if doc_type != "rule":
+        return True
+    if status == "current":
+        return True
+    return doc_id in suspended
+
+
+def suspended_rule_ids():
+    """Rule ids the Bulletin SUSPENDED, which is not the same as repealed (#242).
+
+    A suspension is temporary and dated: 30 of 40 sampled documents print their own end
+    date, and August's run through 2026-12-27. The rule is on the books and returns to force
+    on a known day, so it still implements its statute -- dropping its edge makes the statute
+    understate what implements it, and makes a five-month pause indistinguishable from a
+    permanent repeal.
+
+    THE ACTION IS ONLY IN THE CATALOG. A suspended rule's document reads `status: superseded`
+    and says nothing about why, because corpus-toolkit's shared enum has no word for a
+    suspension (corpus-toolkit#159). `legal_status_action` carries it, so this reads the
+    catalog rather than the document -- and a rule marked superseded by anything OTHER than a
+    filed suspension keeps the old behaviour.
+    """
+    cat = yaml_load(OAR_CATALOG.read_text())
+    out = set()
+    for c in cat["chapters"]:
+        for d in c["divisions"]:
+            for r in (d.get("rules") or []):
+                if isinstance(r, dict) and r.get("legal_status_action") == "suspend":
+                    out.add(f"oar-{r['number']}")
+    return out
+
+
 def build_renumber_map():
     """old rule number -> served rule number, and old division -> served division(s)."""
     cat = yaml_load(OAR_CATALOG.read_text())
@@ -233,9 +280,11 @@ def compute(write=False):
     # A repealed rule implements nothing currently in force, so it must not contribute
     # implements edges — otherwise a stale "implemented_by" survives on the target
     # statute even after the rule itself is correctly marked status: repealed.
+    suspended = suspended_rule_ids()
     for did, d in docs.items():
         if d["fm"]["doc_type"] in LINK_DOC_TYPES:
-            if d["fm"]["doc_type"] == "rule" and d["fm"].get("status", "current") != "current":
+            if not contributes_implements_edges(
+                    d["fm"]["doc_type"], d["fm"].get("status", "current"), did, suspended):
                 continue
             targets = resolve_citations(
                 d["auth"], docs, rule_map, div_map, rules_by_div, did, ors_renumber_map)
@@ -288,6 +337,54 @@ def compute(write=False):
 
 
 def main():
+    if "--selftest" in sys.argv:
+        # THE PROOF #242 ASKED FOR. Before this change nothing failed if a suspension and a
+        # repeal produced identical graphs. Each case runs BOTH rules over the same fixtures
+        # and requires the old one to collapse them and the new one not to.
+        docs = {"oar-9-999-0001": "superseded",   # the Bulletin suspended this one
+                "oar-9-999-0002": "repealed"}     # and repealed this one
+        susp = {"oar-9-999-0001"}
+
+        keep = lambda d, st, susp: contributes_implements_edges("rule", st, d, susp)
+
+        fails = []
+
+        # 1. THE OLD RULE, watched collapsing them. If this ever stops being true the
+        #    fixture has drifted and every claim below is about nothing.
+        old_kept = [d for d, st in docs.items() if not (st != "current")]
+        if old_kept:
+            fails.append(f"FAIL the-old-rule-collapsed-suspension-into-repeal: it kept "
+                         f"{old_kept}, so the defect this proves is not reproduced and the "
+                         f"case below proves nothing")
+
+        # 2. THE NEW RULE, keeping exactly the suspended one.
+        new_kept = sorted(d for d, st in docs.items() if keep(d, st, susp))
+        if new_kept != ["oar-9-999-0001"]:
+            fails.append(f"FAIL a-suspended-rule-keeps-its-edge: kept {new_kept}, wanted "
+                         f"only the suspended one — a suspension is dated and returns to "
+                         f"force, a repeal does not")
+
+        # 3. AND A REPEAL STILL LOSES IT. Keeping both would 'fix' #242 by deleting the
+        #    original reason the test existed.
+        if keep("oar-9-999-0002", "repealed", susp):
+            fails.append("FAIL a-repealed-rule-still-loses-its-edge: a repealed rule "
+                         "implements nothing in force, which is why the drop exists at all")
+
+        # 4. AND THE CATALOG MUST REALLY SUPPLY THE SET, or all of the above is synthetic.
+        live = suspended_rule_ids()
+        if not live:
+            fails.append("FAIL the-catalog-supplies-the-suspended-set: none found, so the "
+                         "rule cannot fire on real data")
+
+        for f in fails:
+            print(f)
+        if fails:
+            print(f"{len(fails)} rule(s) did not hold")
+            sys.exit(1)
+        print(f"3 rule(s) held, each watched against the collapse it forbids; "
+              f"{len(live)} suspended rule(s) keep their authority edges on real data")
+        return
+
     if "--check" in sys.argv:
         graph, _ = compute(write=False)
         current = json.dumps(graph, indent=1, ensure_ascii=False) + "\n"
