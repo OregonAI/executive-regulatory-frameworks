@@ -99,6 +99,41 @@ corpus-wide changes from 2026-08-02 forward.
   said out loud rather than left to be discovered.
 
 ### Added
+- 2026-08-22 — The Oregon Bulletin reader joins the gated modules (#226, ADR 0006).
+  47 modules under `src/` carried the house `--check`/`--selftest` pair and
+  `src/check_bulletin.py` carried neither, so the nine rules it already applied — three
+  refusals, three reported filing failures, and the parsing distinctions that keep a rule
+  number CITED in a filing's justification from being read as a rule the filing CHANGED —
+  had never been watched fail. **`--selftest` now proves 16 rules able to fail across 25
+  cases, with 7 reader proofs held**, against synthetic bulletin pages and synthetic filing
+  text: no network, no read of the committed worklist, no read of the mirrored rules.
+  Every OAR number in the fixtures is in chapter 999, which Oregon does not have, so a
+  fixture can never be mistaken for a claim about a real rule's legal force.
+  `--check` audits `_meta/bulletin-worklist.yml` offline, the way `review_queue.py --check`
+  audits `REVIEW.md`: every rule it marks held has a document in `rules/` and is named by
+  `_meta/catalog/oar.yml` (requested number or `served_as`), every rule it marks not-held
+  has neither, the file says which bulletin produced it and when, and the `bulltnRsn` it
+  writes twice — in the `bulletin` line and inside `bulletin_url` — must agree with itself.
+  **The rule with teeth is staleness**: a worklist whose bulletin predates the OAR source
+  group's own `last_checked` has left filings unread, and a repeal among them is served here
+  as though nothing had happened. It fails on the July worklist this repo was carrying.
+  THE MUST-NOT-FIRE GUARD IS PART OF THE PROOF. A month that read cleanly and the worklist
+  it wrote must produce nothing at all, so a blanket "always report" cannot pass — and the
+  fixture is the reader's OWN output, rendered and parsed back, so the writer and the checker
+  cannot drift into two spellings of one file format.
+  TWO THINGS IT REFUSES TO ANSWER rather than answering confidently. An index page whose
+  layout moved and a bulletin page with no filings table both yield "no filings", which is
+  also what a quiet month yields; and a checkout with no mirrored rules gets a refusal
+  instead of every held row reported as drift. Could not check is never is not there.
+  A systemic failure — more than a fifth of a month's filings unreadable — now writes
+  NOTHING. It previously wrote the short worklist and then exited 1, so a run that knew it
+  was missing an unknown share of the month overwrote the last worklist that was whole.
+  Neither gate touches the network; fetching stays behind the mode that already did it,
+  and both were verified with every socket blocked.
+- 2026-08-22 — `_meta/bulletin-worklist.yml` regenerated against the **August 2026**
+  Bulletin (bulltnRsn 1761), replacing July's: 549 rule actions from 159 filings, 418
+  against rules this corpus holds, 0 filing fetch or parse failures. 84 adopt, 361 amend,
+  67 repeal, 37 suspend.
 - 2026-08-21 — The Oregon Constitution's drift signal names WHICH sections moved
   (#197, ADR 0005). The group is one source and one sha256 for the whole document, because the
   Legislature publishes all 18 articles on one page — so any amendment anywhere moves the hash
