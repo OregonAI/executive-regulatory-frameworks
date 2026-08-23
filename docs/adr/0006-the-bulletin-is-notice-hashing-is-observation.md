@@ -61,10 +61,20 @@ provenance chain already verifies, so it re-ingests automatically. A repeal or s
 claim about force and goes to a human. 418 rules this month would have been 418 tickets
 against a 25-issue cap; splitting on action puts review where judgement is needed.
 
-**`in_corpus` is three states, not two.** Measured across two bulletins, every
-not-in-corpus rule (312 in July, 131 in August) was in a chapter outside our selection, and
-none was a rule missing from a chapter we mirror. Those are different facts and the second is
-a genuine gap, so they are recorded apart before they first collide rather than after.
+**`in_corpus` is three states, not two.** *Held*, *chapter not mirrored*, and *missing from
+a mirrored chapter* are different facts, and the third is a genuine coverage gap rather than a
+boundary. Measured on the August bulletin against the 170 mirrored chapters: of 131
+not-in-corpus rules, **121 are in chapters this corpus mirrors and are absent from disk** — 74
+adoptions, 43 amendments, 1 repeal, 3 suspensions — and only 10 are genuinely out of scope. The
+43 amendments are rules that existed and changed in chapters we claim to mirror.
+
+An earlier draft of this ADR said the opposite — that no not-in-corpus rule was missing from a
+mirrored chapter, and that the third state was therefore being built before it could occur. That
+came from a query whose chapter set was built by a regex expecting `oar-*.md` filenames in a
+directory that holds chapter *directories*; the set was empty, so every rule fell outside it. A
+query matching nothing returns the same clean answer as one matching everything. **The two
+meanings have already collided, 121 times in one month, and the collision is currently
+invisible** — which is a stronger reason for the split, not a weaker one.
 
 **A renumber records its destination or says it could not.** `_meta/catalog/oar.yml` already
 stores `served_as`; the worklist today records `action: renumber` with no target. July filed
