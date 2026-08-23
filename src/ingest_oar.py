@@ -92,7 +92,7 @@ def served_rule_number(text):
 
 
 # THE INGESTER NO LONGER NAMES THE LEGAL STATUS. `status: current` used to be a hardcoded
-# literal in the template below, written onto every one of the 36,955 rule documents this
+# literal in the template below, written onto every one of the 36,953 rule documents this
 # pipeline created. That is fine on a FIRST ingest -- nothing better is known about a rule
 # OARD is serving normally -- and it is the whole hazard on a re-ingest: once #230 refreshes
 # an amended rule automatically, the literal would restamp `current` over a repeal the
@@ -267,7 +267,8 @@ def cmd_ingest(chapters, skip_group=False):
                     # Bulletin one line later -- the two-writers failure inside a single
                     # function.
                     enrich_apply(out, enrich_derive(flow_to_lines(sl), doc_id,
-                                                    registry_by_ch, bulletin.get(target)))
+                                                    registry_by_ch, bulletin.get(target),
+                                                    status))
                 except SystemExit as e:
                     # e.g. OARD renumbered the rule into a chapter the registry doesn't
                     # know (mirror index gap). Quarantine: withdraw the doc, record why,

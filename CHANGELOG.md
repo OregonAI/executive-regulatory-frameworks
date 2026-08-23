@@ -15,7 +15,7 @@ corpus-wide changes from 2026-08-02 forward.
   (#228, ADR 0006). A rule document's `status` is corpus-toolkit's `current | superseded |
   repealed | proposed | draft` and it is a claim about Oregon law. It had **two writers**:
   `ingest_oar.py` wrote `status: current` as a hardcoded literal onto every one of the
-  **36,955** rule documents it created, and `enrich_oar.py` derived the field from the newest
+  **36,953** rule documents it created, and `enrich_oar.py` derived the field from the newest
   action in the rule's own OARD History line — which is where the **2,031** documents reading
   `repealed` came from — and then COMPARED it in a nightly gate. That second writer was also
   an enforcer: once #229 records a repeal the Bulletin filed against a rule whose History line
@@ -26,7 +26,9 @@ corpus-wide changes from 2026-08-02 forward.
   THE DECISION MOVES TO ONE FUNCTION, `legal_status.resolve()`, and both modules become
   readers of it. The order of authority is fixed and asserted rather than described: a status
   **the Bulletin set** — carried on the OAR catalog row's own `legal_status` key — then a
-  repeal in **the rule's own served History**, then **what the document already says**, then
+  repeal in **the rule's own served History**, then **what the document already says** — the
+  state **39** of the 36,953 rules are in, because OARD prints no History line inside them and
+  "read no history" is a different thing from "read one that is not a repeal" — then
   `current`, which a fresh ingest may assert only where nothing better is known. **Nothing
   below the first step may override it**, which is the whole safety property #229 and #230 are
   blocked on.
@@ -34,10 +36,15 @@ corpus-wide changes from 2026-08-02 forward.
   one module in `src/` may be marked WRITER, every other write of one of those five words says
   which corpus it belongs to, the two fields spelled `status` hold each other's vocabulary
   nowhere across all **37,007** OAR catalog rule entries, and where the catalog states a
-  Bulletin-set status the document must agree. `--selftest` fires **8 unmarked or mismarked
-  writes across 4 rules** and leaves **6 clean modules alone**. The two that could only be
-  shown by breaking something were watched failing: reintroducing the ingester's literal makes
-  the gate exit 1 naming both writers, and with the Bulletin step deleted from `resolve()` a
+  Bulletin-set status the document must agree. `--selftest` fires **9 unmarked or mismarked
+  writes across 4 rules** and leaves **7 clean modules alone**, and it gates two things a
+  second copy of a fact could otherwise hide: this module's copy of the ingest vocabulary is
+  compared against what `ingest_oar.py` actually writes, read out of its syntax tree, and only
+  a document's FRONTMATTER is read for a status — a rule's verbatim text can print `status:`
+  at the start of a line.
+  THE TWO THAT COULD ONLY BE SHOWN BY BREAKING SOMETHING were watched failing: reintroducing
+  the ingester's literal makes the gate exit 1 naming both writers, and with the Bulletin step
+  deleted from `resolve()` a
   real run of the enricher over a real committed rule turned `repealed` back into `current` —
   caught by `--check`, and **not** caught by `enrich_oar.py --check`, which agreed with the
   resurrection. **This change rewrites no rule documents**: `enrich_oar.py --check` reports 0

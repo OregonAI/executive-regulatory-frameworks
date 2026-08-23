@@ -385,13 +385,16 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   rule's own History line, so an automatic re-ingest of an amended rule would have resurrected
   one the Bulletin marked repealed. Both are readers now. The order is fixed: a status the
   Bulletin set (the OAR catalog row's `legal_status`), then a repeal in the rule's own served
-  History, then what the document already says, then `current` — which a fresh ingest may
-  assert ONLY where nothing better is known. Any site in `src/` that writes one of those five
-  words must say where it sits which it is — WRITER, READER, NOT-A-RULE or NOT-A-LEGAL-STATUS —
-  and `python3 src/legal_status.py --check` (CI, every PR) fails on an unmarked one, on a
-  second module marked WRITER, on a "reader" that kept a literal of its own, and on a document
-  that stopped agreeing with the catalog row it was stamped from. `--selftest` proves every one
-  of those can fail.
+  History, then what the document already says — the state **39** rules are in, because OARD
+  prints no History line inside them and "read no history" is not "read one that is not a
+  repeal" — then `current`, which a fresh ingest may assert ONLY where nothing better is
+  known. Any site in `src/` that writes one of those five words must say, where it sits, which
+  it is — WRITER, READER, NOT-A-RULE or NOT-A-LEGAL-STATUS — and
+  `python3 src/legal_status.py --check` (CI, every PR) fails on an unmarked one, on a second
+  module marked WRITER, on a "reader" that kept a literal of its own, on either field named
+  `status` holding the other's vocabulary across the 37,007 catalog rule entries, and on a
+  document that stopped agreeing with the catalog row it was stamped from. `--selftest` proves
+  every one of those can fail, the two mutations included.
   `name` IS THE STATUTORY NAME since #168 (ADR 0003), and every row states in `name_basis`
   whether it actually holds one: `enabling-authority` — read off the body's enabling
   authority by a human, written only by `src/link_enabling_authority.py`'s `STATUTORY_NAMES`

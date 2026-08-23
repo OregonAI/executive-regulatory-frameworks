@@ -13,7 +13,7 @@ OREGON LAW (CONTEXT.md, *Legal status*). ADR 0006 gives it ONE writer, the Orego
 It had two. Measured on `main` the day this module landed:
 
   src/ingest_oar.py   `status: current` written as a hardcoded literal into every rule
-                      document it creates -- 36,955 of them
+                      document it creates -- 36,953 of them
   src/enrich_oar.py   `d["status"] = "repealed" if repealed else "current"`, derived from
                       the newest History action in the rule's own served text, stamped over
                       `^status: .*$` by `apply()` -- and COMPARED by `--check`, a gate that
@@ -41,10 +41,12 @@ THE ORDER OF AUTHORITY, and why each step sits where it does:
      served text       inside the rule says it was repealed. It is the rule's own text and
                        it beats what a document happens to hold, which is how the 2,031
                        documents reading `repealed` today came to say so.
-  3. what the document `existing=` -- a re-ingest that has learned nothing new keeps what
-     already says      the document says rather than asserting over it. Without this step a
-                       re-ingest carrying no History and no Bulletin entry would restamp
-                       `current` over a status somebody established.
+  3. what the document `existing=` -- a caller that has learned nothing new keeps what the
+     already says      document says rather than asserting over it. This is the state 39 of
+                       the 36,953 rules are in: OARD prints no History line inside them, so
+                       the enricher has read no history rather than one that is not a
+                       repeal, and without this step it would restamp `current` over
+                       whatever those documents said.
   4. `current`         nothing better is known. This is the ONLY thing this ticket lets a
                        fresh ingest assert, and it is what a first ingest of a rule OARD
                        serves normally has.
@@ -96,6 +98,7 @@ import argparse
 import ast
 import re
 import sys
+import tempfile
 from collections import namedtuple
 from pathlib import Path
 
@@ -115,14 +118,21 @@ LEGAL_STATUS_VALUES = ("current", "superseded", "repealed", "proposed", "draft")
 # What a fresh ingest may assert, and only where nothing better is known (step 4 above).
 UNKNOWN_BUT_SERVED = "current"
 
-# The OAR catalog's OWN `status` vocabulary -- ingest status, a claim about this mirror,
-# written by `ingest_oar.py`. Listed here so `--check` can refuse either field holding the
-# other's words -- WHICH MAKES IT THE SAME FACT WRITTEN IN TWO PLACES, the shape this module
-# exists to refuse. So it is gated rather than trusted: `ingest-status-is-known` reads all
-# 37,007 committed entries and fails on a value this list does not have, so a word the
-# ingester starts writing cannot quietly stop being recognised as an ingest status here.
+# The OAR catalog's OWN `status` vocabulary -- ingest status, a claim about this mirror.
+# Declared here so `--check` can refuse either field holding the other's words, WHICH MAKES
+# IT THE SAME FACT WRITTEN IN TWO PLACES: `ingest_oar.py` writes these words and this is a
+# second copy of them, which is the shape this whole module exists to refuse. So it is not
+# trusted. `ingest-vocabulary-declared-once` reads what the ingester actually writes, out of
+# its syntax tree, and fails if the two sets differ -- the arrangement AGENTS.md already
+# describes for `CADENCES` versus the `recheck` enum and for `CURATED_KEYS` versus `FIELDS`,
+# where a value curated in one place and forgotten in the other is the failure. A word added
+# to the ingester is caught by that rule the moment it is added, and by
+# `ingest-status-is-known` again if it reaches the committed catalog first.
 INGEST_STATUS_VALUES = ("ingested", "renumbered", "not_served", "not_sliceable",
                         "not_ingested", "needs_registry")
+
+# Where that vocabulary is written, and the only module allowed to write it.
+INGESTER = SRC / "ingest_oar.py"
 
 # The catalog key carrying a Bulletin-set legal status. Deliberately NOT `status`.
 CATALOG_KEY = "legal_status"
@@ -143,8 +153,10 @@ UNREADABLE = "UNREADABLE"
 # Proof code is not a writer. A fixture that hands `resolve()` a synthetic Bulletin status,
 # or a selftest source written to break a rule, states something about this gate rather than
 # about any document -- and demanding WRITER next to it would put the marker on code that
-# writes nothing.
-PROOF_FUNCTIONS = re.compile(r"^(selftest|_case_|_proof_)|fixture")
+# writes nothing. ANCHORED, and narrowly: an unanchored `fixture` alternative would exempt a
+# production `load_fixture_rows()` from a gate whose whole rule is that an unmarked write
+# fails, and an exemption nobody marked is the thing this module refuses everywhere else.
+PROOF_FUNCTIONS = re.compile(r"^(selftest|_case_|_proof_|_fixture)")
 
 FRONTMATTER_RE = re.compile(r"^\s*status:\s*(" + "|".join(LEGAL_STATUS_VALUES) + r")\s*$")
 
@@ -217,18 +229,51 @@ def _frontmatter_writes(lines):
             yield i
 
 
-def _yields_a_status(node) -> bool:
-    """Whether an expression EVALUATES TO a legal-status literal, rather than mentioning one.
+def _assigned_constants(node) -> set:
+    """The string constants an expression can EVALUATE TO, rather than merely mention.
 
-    `"repealed" if gone else "current"` does; `[r for r in rows if r["status"] ==
-    "current"]` does not, and the difference is a filter versus a decision."""
+    `"repealed" if gone else "current"` yields both; `[r for r in rows if r["status"] ==
+    "current"]` yields none, and the difference is a filter versus a decision. The narrowing
+    matters in both directions -- a walk of every constant under the node reports the test of
+    a conditional as though it were the answer, and `d["status"] = d.get("status") if
+    any(r.get("status") == "ingested" for ...) else "not_ingested"` would name `ingested`,
+    `status` and `rules` as vocabulary the ingester writes."""
     if isinstance(node, ast.Constant):
-        return isinstance(node.value, str) and node.value in LEGAL_STATUS_VALUES
+        return {node.value} if isinstance(node.value, str) else set()
     if isinstance(node, ast.IfExp):
-        return _yields_a_status(node.body) or _yields_a_status(node.orelse)
+        return _assigned_constants(node.body) | _assigned_constants(node.orelse)
     if isinstance(node, ast.BoolOp):
-        return any(_yields_a_status(v) for v in node.values)
-    return False
+        return set().union(*(_assigned_constants(v) for v in node.values))
+    return set()
+
+
+def _yields_a_status(node) -> bool:
+    """Whether an expression evaluates to a legal-status literal."""
+    return bool(_assigned_constants(node) & set(LEGAL_STATUS_VALUES))
+
+
+def ingest_vocabulary(source=None) -> set:
+    """Every word `ingest_oar.py` assigns to a `status` key -- the INGEST vocabulary, read
+    off the ingester rather than restated.
+
+    A module that does not parse yields the EMPTY set, which fails
+    `ingest-vocabulary-declared-once` against a non-empty declaration rather than passing:
+    a vocabulary this could not read is not a vocabulary with no words in it."""
+    try:
+        tree = ast.parse(source if source is not None else INGESTER.read_text())
+    except SyntaxError:
+        return set()
+    out = set()
+    for node in ast.walk(tree):
+        if isinstance(node, ast.Assign):
+            if any(isinstance(x, ast.Subscript) and isinstance(x.slice, ast.Constant)
+                   and x.slice.value == "status" for x in node.targets):
+                out |= _assigned_constants(node.value)
+        elif isinstance(node, ast.Dict):
+            for k, v in zip(node.keys, node.values):
+                if isinstance(k, ast.Constant) and k.value == "status":
+                    out |= _assigned_constants(v)
+    return out
 
 
 def _status_key_writes(tree):
@@ -282,7 +327,7 @@ def _status_key_writes(tree):
 
 def _status_line_rewrites(tree):
     """Lines rewriting a document's existing `status:` line in place -- the `re.sub` shape
-    the enricher stamps 36,955 files with.
+    the enricher stamps 36,953 files with.
 
     Its VALUE is not a constant, so nothing above finds it, and it is the most powerful
     write in the repository: it replaces whatever a document already said."""
@@ -381,8 +426,8 @@ def check_sites(sites) -> list:
             failures.append(Failure(
                 "legal-status-write-classified", f"{s.path}:{s.line}",
                 f"writes a legal status with no marker within {MARKER_WINDOW} lines above "
-                f"it or anywhere in its function: {s.text[:70]!r}. A rule's `status` is a claim about Oregon law and "
-                f"ADR 0006 gives it one writer -- mark the site "
+                f"it or anywhere in its function: {s.text[:70]!r}. A rule's `status` is a "
+                f"claim about Oregon law and ADR 0006 gives it one writer -- mark the site "
                 f"`LEGAL STATUS - {'|'.join(PURPOSES)}` and say which it is"))
         elif s.purpose not in PURPOSES:
             failures.append(Failure(
@@ -420,6 +465,23 @@ def check_sites(sites) -> list:
 # ------------------------------------------------------------------- committed data
 
 
+def check_vocabulary(written) -> list:
+    """The rule that this module's copy of the ingest vocabulary still matches the ingester's.
+
+    `written` is what `ingest_vocabulary()` read out of `ingest_oar.py`, passed in rather
+    than read here so the rule can be fired against a synthetic ingester."""
+    declared = set(INGEST_STATUS_VALUES)
+    if declared == set(written):
+        return []
+    return [Failure(
+        "ingest-vocabulary-declared-once", str(_label(INGESTER)),
+        f"the ingester writes {sorted(written) or '(nothing this could read)'} and this "
+        f"module declares {sorted(declared)}. That second copy is the ONLY thing that tells "
+        "an ingest status apart from a legal status here, so a word on one side only stops "
+        "the two fields named `status` from being distinguishable -- update "
+        "INGEST_STATUS_VALUES, or stop the ingester writing a word nobody declared")]
+
+
 def check_committed(catalog, doc_status) -> list:
     """Every way the COMMITTED data breaks the one-writer arrangement, as Failures.
 
@@ -447,10 +509,11 @@ def check_committed(catalog, doc_status) -> list:
             failures.append(Failure(
                 "ingest-status-is-known", f"{num}",
                 f"catalog `status: {ingest}` is not one of the ingest-status words this "
-                f"module knows ({', '.join(INGEST_STATUS_VALUES)}). `ingest_oar.py` writes "
-                "that vocabulary and this module has a second copy of it, so a word added "
-                "there and not here would stop being told apart from a legal status -- add "
-                "it to INGEST_STATUS_VALUES"))
+                f"module knows ({', '.join(INGEST_STATUS_VALUES)}). A word in neither "
+                "vocabulary is one nothing here can tell a claim about this mirror from a "
+                "claim about Oregon law by -- if `ingest_oar.py` writes it, "
+                "`ingest-vocabulary-declared-once` will name it too; if nothing does, it is "
+                "a value nobody declared"))
         if legal is not None and legal in INGEST_STATUS_VALUES:
             failures.append(Failure(
                 "two-fields-named-status", f"{num}",
@@ -484,8 +547,12 @@ def check_committed(catalog, doc_status) -> list:
 
 # The `status:` line of a rule document, read off the text. The whole frontmatter is not
 # parsed here for one field: `mark_upstream_tracking --check` reads 36,953 rules in about
-# two seconds this way and a YAML parse of the same set costs thirty.
+# two seconds this way and a YAML parse of the same set costs thirty. Applied to the
+# FRONTMATTER BLOCK ONLY -- a rule's verbatim text can print `status:` at the start of a
+# line, and a body line read as the document's legal status would report a disagreement
+# that is not there.
 DOC_STATUS_RE = re.compile(r"^status:\s*(\S+)\s*$", re.M)
+FRONTMATTER_BLOCK_RE = re.compile(r"\A---\n(.*?)\n---\n", re.S)
 
 
 def doc_status_by_rule(catalog, numbers) -> dict:
@@ -493,7 +560,7 @@ def doc_status_by_rule(catalog, numbers) -> dict:
 
     Scoped to the rules the catalog states a Bulletin-set legal status for, because those
     are the only ones there is a second declaration of the fact to compare against -- and
-    because reading all 36,955 documents to check a handful is what turns a per-run gate
+    because reading all 36,953 documents to check a handful is what turns a per-run gate
     into one somebody moves to the nightly tier and stops watching.
 
     A rule whose row names no path, or whose file is unreadable or prints no `status:`
@@ -505,13 +572,23 @@ def doc_status_by_rule(catalog, numbers) -> dict:
             continue
         p = REPO_ROOT / r["path"]
         try:
-            head = p.read_text()[:4000]
+            head = p.read_text()[:8000]
         except OSError:
             continue
-        m = DOC_STATUS_RE.search(head)
+        block = FRONTMATTER_BLOCK_RE.match(head)
+        if not block:
+            continue
+        m = DOC_STATUS_RE.search(block.group(1))
         if m:
             out[r["number"]] = m.group(1)
     return out
+
+
+def rule_number(doc_id: str) -> str:
+    """`oar-125-010-0005` -> `125-010-0005`, the key both the OAR catalog and the Bulletin
+    worklist use. One place, because two call sites slicing `[4:]` by hand is the same
+    second copy this module refuses everywhere else."""
+    return doc_id[4:] if doc_id.startswith("oar-") else doc_id
 
 
 # ------------------------------------------------------------------- commands
@@ -521,8 +598,8 @@ def cmd_check() -> int:
     sites = census()
     catalog = yaml.safe_load(CATALOG.read_text())
     bulletin_set = bulletin_status_by_rule(catalog)
-    failures = check_sites(sites) + check_committed(
-        catalog, doc_status_by_rule(catalog, bulletin_set))
+    failures = (check_sites(sites) + check_vocabulary(ingest_vocabulary())
+                + check_committed(catalog, doc_status_by_rule(catalog, bulletin_set)))
     for f in failures:
         print(f"  FAIL [{f.rule}] {f.site}: {f.detail}", file=sys.stderr)
     if failures:
@@ -538,9 +615,15 @@ def cmd_check() -> int:
           + ", ".join(f"{p.lower()} {sum(1 for s in sites if s.purpose == p)}"
                       for p in PURPOSES))
     print(f"one writer: {writers[0] if writers else 'NONE'}")
+    # MEASURED, not asserted. A summary line whose last number is the literal `0` says
+    # nothing a clean run does not already imply, and this ticket is about facts stated
+    # twice with nothing checking they agree.
+    crossed = sum(1 for r in catalog_rules(catalog)
+                  if r.get("status") in LEGAL_STATUS_VALUES
+                  or r.get(CATALOG_KEY) in INGEST_STATUS_VALUES)
     print(f"{n_rules} catalog rule entr(ies) checked; {len(bulletin_set)} carr(y) a "
           f"Bulletin-set `{CATALOG_KEY}`, every one agreeing with its document; "
-          "0 hold the other field's vocabulary")
+          f"{crossed} hold the other field's vocabulary")
     return 0
 
 
@@ -576,6 +659,7 @@ def _fixture_sources() -> dict:
     reader = "# LEGAL STATUS " + "- READER\n"
     invented = "# LEGAL STATUS " + "- PROBABLY_FINE\n"
     not_a_rule = "# LEGAL STATUS " + "- NOT-A-RULE\n"
+    not_a_legal_status = "# LEGAL STATUS " + "- NOT-A-LEGAL-STATUS\n"
     template = '\ndef doc_body(x):\n    return f"""---\nid: {x}\nstatus: current\n---\n"""\n'
     return {
         # A module with no legal-status write at all.
@@ -617,6 +701,17 @@ def _fixture_sources() -> dict:
         # Proof code is not a writer: the literal sits in a fixture.
         "clean-module-with-proof-code":
             "\ndef _fixture_document():\n    return 'status: repealed'\n",
+        # ...and the exemption is ANCHORED. A production helper whose name merely contains
+        # the word is not proof code, and exempting it would be an unmarked escape from a
+        # gate whose rule is that an unmarked write fails.
+        "a-production-function-named-like-a-fixture":
+            "\ndef load_fixture_rows(d):\n    d['status'] = 'repealed'\n",
+        # THE FOURTH PURPOSE, exercised. No site in src/ carries it today -- the catalog's
+        # own `not_ingested` is not one of the five words, so nothing trips the scan -- and
+        # a purpose nobody has watched being accepted is one nobody knows is accepted.
+        "a-status-that-is-not-a-legal-status":
+            not_a_legal_status + "\ndef mark(d, gone):\n"
+            "    d['status'] = 'repealed' if gone else 'current'\n",
     }
 
 
@@ -636,13 +731,15 @@ _SOURCE_CASES = [
     ("a-reader-that-stamps-what-it-was-given", None),
     ("module-that-does-not-parse", "readable-module"),
     ("clean-module-with-proof-code", None),
+    ("a-production-function-named-like-a-fixture", "legal-status-write-classified"),
+    ("a-status-that-is-not-a-legal-status", None),
 ]
 
 
-def _fixture_catalog(**rule) -> dict:
+def _fixture_catalog(number="101-015-0056", **rule) -> dict:
     """A one-rule OAR catalog in the committed file's shape."""
     return {"chapters": [{"chapter": "101", "divisions": [
-        {"division": "15", "rules": [dict({"number": "101-015-0056"}, **rule)]}]}]}
+        {"division": "15", "rules": [dict({"number": number}, **rule)]}]}]}
 
 
 def _proof_resolve(check) -> None:
@@ -703,24 +800,30 @@ def _proof_the_agreement_rule_reads_real_documents(check) -> None:
     reach a real file, and this repository has shipped a guard that could not fail. So the
     fixture row names a real path, `doc_status_by_rule` opens it, and the document's own
     committed `status: repealed` is what the comparison is made against."""
-    real = "101-015-0056"
-    agreeing = _fixture_catalog(status="ingested", legal_status="repealed",
-                                path="rules/101/015/oar-101-015-0056.md")
-    got = doc_status_by_rule(agreeing, [real])
+    real, path = "101-015-0056", "rules/101/015/oar-101-015-0056.md"
+    # WHAT THE DOCUMENT SAYS IS READ, NOT ASSERTED. Pinning the expected value here would
+    # turn a legitimate future restamp of this one rule into a red gate for an unrelated
+    # reason; what this proves is that the function reaches a real file and returns what is
+    # in it, so the fixture row is built from the answer rather than the other way round.
+    said = doc_status_by_rule(_fixture_catalog(number=real, status="ingested",
+                                               legal_status="repealed", path=path), [real])
     check("a committed rule document's status is read off disk",
-          got.get(real) == "repealed")
+          said.get(real) in LEGAL_STATUS_VALUES)
+    agreeing = _fixture_catalog(number=real, status="ingested",
+                                legal_status=said.get(real), path=path)
     check("a document agreeing with the catalog is not a finding",
-          not check_committed(agreeing, got))
-    # THE OVERWRITE, CAUGHT. This is what a re-ingest stamping `current` over a Bulletin-set
-    # repeal leaves behind on disk, and it is the state `--check` must refuse.
-    overwritten = check_committed(agreeing, {real: "current"})
+          not check_committed(agreeing, said))
+    # THE OVERWRITE, CAUGHT. This is what a re-ingest stamping a different status over a
+    # Bulletin-set one leaves behind on disk, and it is the state `--check` must refuse.
+    other = next(v for v in LEGAL_STATUS_VALUES if v != said.get(real))
+    overwritten = check_committed(agreeing, {real: other})
     check("a re-ingest that overwrote a bulletin-set status is caught",
           any(f.rule == "legal-status-agrees" for f in overwritten))
     check("...and a row whose document could not be read is not silently passed",
           any(f.rule == "the-document-reads-it"
               for f in check_committed(agreeing, {})))
     # A row naming no path is one no document could be read for, and must not pass either.
-    pathless = _fixture_catalog(status="not_served", legal_status="repealed")
+    pathless = _fixture_catalog(number=real, status="not_served", legal_status="repealed")
     check("...nor is a row that names no document at all",
           any(f.rule == "the-document-reads-it"
               for f in check_committed(pathless,
@@ -762,6 +865,66 @@ def _proof_the_two_fields_named_status(check) -> None:
               for f in check_committed(_fixture_catalog(status="quarantined"), {})))
 
 
+def _proof_the_ingest_vocabulary_is_not_a_second_copy(check) -> None:
+    """`INGEST_STATUS_VALUES` restates what `ingest_oar.py` writes, and an unchecked second
+    copy of a fact is the shape this module exists to refuse -- so the copy is compared with
+    the original rather than trusted, out of the ingester's own syntax tree."""
+    real = ingest_vocabulary()
+    check("the declared ingest vocabulary is what the ingester writes",
+          not check_vocabulary(real))
+    check("...and it is not empty", bool(real))
+    # THE NARROWING THAT MAKES THAT READING TRUE. The ingester's division line is
+    # `d["status"] = d.get("status") if any(r.get("status") == "ingested" for r in
+    # d["rules"]) else "not_ingested"`, and a walk of every constant beneath it reports
+    # `status` and `rules` as vocabulary.
+    divisionish = ('def f(d, r):\n'
+                   '    d["status"] = d.get("status") if any(x.get("status") == "ingested"\n'
+                   '                  for x in d["rules"]) else "not_ingested"\n')
+    check("a conditional's test is not read as vocabulary",
+          ingest_vocabulary(divisionish) == {"not_ingested"})
+    check("a word the ingester writes and this module has not declared is caught",
+          any(f.rule == "ingest-vocabulary-declared-once"
+              for f in check_vocabulary(set(INGEST_STATUS_VALUES) | {"quarantined"})))
+    check("...and so is a word declared here that the ingester no longer writes",
+          any(f.rule == "ingest-vocabulary-declared-once"
+              for f in check_vocabulary(set(INGEST_STATUS_VALUES) - {"needs_registry"})))
+    # An ingester this could not parse yields no words, which must fail rather than agree
+    # with an empty expectation -- could not check is never reported as is not there.
+    check("an ingester that does not parse is not a vocabulary of no words",
+          ingest_vocabulary("def f(d)\n    d['status'] = 'ingested'\n") == set()
+          and any(f.rule == "ingest-vocabulary-declared-once"
+                  for f in check_vocabulary(set())))
+
+
+def _proof_only_frontmatter_is_read_for_a_status(check) -> None:
+    """A rule's verbatim text can print `status:` at the start of a line, and this corpus's
+    whole content policy is that the full text is reproduced unaltered. Reading such a line
+    as the document's legal status would report a disagreement that is not there.
+
+    Fired through `doc_status_by_rule` rather than against the regex, because what is being
+    proved is what the function returns to the agreement rule."""
+    d = Path(tempfile.mkdtemp())
+    (d / "oar-125-010-0005.md").write_text(
+        "---\nid: oar-125-010-0005\nstatus: repealed\n---\n\n## Full text\n\n"
+        "status: current shall be recorded by the agency.\n")
+    cat = _fixture_catalog(number="125-010-0005", status="ingested",
+                           legal_status="repealed",
+                           path=str(d / "oar-125-010-0005.md"))
+    got = doc_status_by_rule(cat, ["125-010-0005"])
+    check("a `status:` line in a rule's own text is not read as its legal status",
+          got.get("125-010-0005") == "repealed")
+    check("...so the agreement rule reports nothing on it", not check_committed(cat, got))
+    # A file with no frontmatter block at all yields no status, and the row stating one is
+    # reported rather than passed over.
+    (d / "oar-125-010-0006.md").write_text("status: current\n")
+    bare = _fixture_catalog(number="125-010-0006", status="ingested",
+                            legal_status="repealed",
+                            path=str(d / "oar-125-010-0006.md"))
+    check("a file with no frontmatter block is a document that could not be read",
+          any(f.rule == "the-document-reads-it"
+              for f in check_committed(bare, doc_status_by_rule(bare, ["125-010-0006"]))))
+
+
 def selftest() -> int:
     check = Checks()
     _proof_resolve(check)
@@ -775,6 +938,8 @@ def selftest() -> int:
     _proof_the_gate_sees_a_second_writer(check)
     _proof_the_agreement_rule_reads_real_documents(check)
     _proof_the_two_fields_named_status(check)
+    _proof_the_ingest_vocabulary_is_not_a_second_copy(check)
+    _proof_only_frontmatter_is_read_for_a_status(check)
     return check.report(
         f"{sum(1 for c in _SOURCE_CASES if c[1])} unmarked or mismarked write(s) "
         f"demonstrated failing across {len({c[1] for c in _SOURCE_CASES if c[1]})} rule(s), "

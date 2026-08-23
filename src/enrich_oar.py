@@ -41,7 +41,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import yaml
 
-from legal_status import bulletin_status_by_rule, resolve
+from legal_status import bulletin_status_by_rule, resolve, rule_number
 from repo_lib import REPO_ROOT, Checks, content_files, parse_frontmatter
 
 AUTH_RE = re.compile(r"Statutory/Other Authority:\s*(.*?)\s*(?=Statutes/Other Implemented:|History:|$)", re.S)
@@ -161,14 +161,20 @@ def parse_history(hist: str):
             bool(REPEAL_RE.search(newest)))
 
 
-def derive(body: str, doc_id: str, registry_by_chapter: dict, bulletin_status=None) -> dict:
+def derive(body: str, doc_id: str, registry_by_chapter: dict, bulletin_status=None,
+           existing_status=None) -> dict:
     """All derivable frontmatter values for one rule, from its own body text.
 
     `bulletin_status` is the legal status the Oregon Bulletin set for this rule, off the OAR
     catalog's `legal_status` key, or None where it has said nothing. It is a PARAMETER and
     not a lookup here because this function is called once per document by `main()` and once
     per rule by `ingest_oar`, and the catalog is read once by each of them rather than
-    36,955 times."""
+    36,953 times.
+
+    `existing_status` is what the document already says, and it is what a rule with NO
+    `History:` line falls back to: 39 rules OARD serves print none, and for those this
+    function has read no history rather than having read one that is not a repeal. The two
+    are different states and only one of them licenses restamping the field."""
     d = {}
     m = AUTH_RE.search(body)
     d["legal_authority"] = parse_citation_list(m.group(1)) if m else []
@@ -176,7 +182,10 @@ def derive(body: str, doc_id: str, registry_by_chapter: dict, bulletin_status=No
     d["statutes_implemented"] = parse_citation_list(m.group(1)) if m else []
     m = HIST_RE.search(body)
     action_id = eff = renum = None
-    repealed = False
+    # None, not False: a rule whose text prints no History line is one this function has not
+    # read a history for, which `legal_status.resolve()` distinguishes from a history read
+    # and found not to be a repeal. 39 of the 36,953 rules are in that state.
+    repealed = None
     if m:
         action_id, eff, renum, repealed = parse_history(m.group(1))
     d["effective_date"] = eff
@@ -192,7 +201,8 @@ def derive(body: str, doc_id: str, registry_by_chapter: dict, bulletin_status=No
     # the build for the Bulletin being right. What it knows -- whether the newest History
     # action is a repeal -- is now handed to the one writer, which weighs it against what
     # the Bulletin filed (ADR 0006).
-    d["status"] = resolve(bulletin=bulletin_status, history_repealed=repealed)
+    d["status"] = resolve(bulletin=bulletin_status, history_repealed=repealed,
+                          existing=existing_status)
     ch = doc_id.split("-")[1]
     org = registry_by_chapter.get(ch)
     if org is None:
@@ -255,7 +265,7 @@ def apply(path: Path, d: dict) -> bool:
                   text, count=1, flags=re.M)
     # LEGAL STATUS - READER: stamps the value `derive()` was given by the one writer. This
     # is the strongest write in the repository -- it replaces whatever a document already
-    # said, across 36,955 files -- and it names no status of its own.
+    # said, across 36,953 files -- and it names no status of its own.
     text = re.sub(r'^status: .*$', f'status: {d["status"]}', text, count=1, flags=re.M)
     if d["renumbered_from"]:
         sup = f'OAR {d["renumbered_from"]}'
@@ -368,7 +378,7 @@ def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     check = "--check" in sys.argv
     registry = load_registry_by_chapter()
-    # Read once, for all 36,955 rules. Empty until #229 records the first filed repeal;
+    # Read once, for all 36,953 rules. Empty until #229 records the first filed repeal;
     # `legal_status.py --check` is what prints the count so a zero stays visible.
     bulletin = bulletin_status_by_rule()
 
@@ -380,7 +390,8 @@ def main():
     changed = drift = 0
     for p in targets:
         fm, body = parse_frontmatter(p)
-        d = derive(body, fm["id"], registry, bulletin.get(str(fm["id"])[4:]))
+        d = derive(body, fm["id"], registry, bulletin.get(rule_number(fm["id"])),
+                   fm.get("status"))
         if check:
             bad = expected_mismatch(fm, d)
             if bad:
