@@ -236,6 +236,12 @@ jobs:
         run: python3 src/eval_conflicts.py --selftest
 
       # --- generated-file staleness gates (moderate; every run) ---
+      # #242: a suspension is not a repeal. Watched failing against three mutations --
+      # collapsing suspension into repeal, keeping repealed rules too, and an empty
+      # catalog -- so the distinction cannot quietly regress.
+      - name: A suspended rule keeps its authority edges, a repealed one does not
+        run: python3 src/link_graph.py --selftest
+
       - name: Relationship graph must be current
         run: python3 src/link_graph.py --check
       # The OAR honesty field (#78): every rule must say whether upstream drift
