@@ -170,6 +170,17 @@ jobs:
       # report_due(), taking every other group's due-state down with it. Synthetic fixtures.
       - name: Cadence rules must all be able to fail
         run: python3 src/check_updates.py --selftest
+      # The Oregon Bulletin reader applied nine rules — three refusals, three reported
+      # filing failures, and the parsing distinctions that keep a cited rule number from
+      # being read as a changed one — and not one of them had ever been watched fail
+      # (#226). All of them now fire against synthetic bulletin pages and synthetic
+      # filing text, together with the rules `--check` applies to the committed
+      # worklist. The two that matter most are the ones that would otherwise produce a
+      # CONFIDENT ZERO: an index page whose layout moved and a bulletin page with no
+      # filings table both yield "no filings", which is also what a quiet month yields.
+      # Synthetic fixtures, no network, no read of the committed worklist.
+      - name: Bulletin reader rules must all be able to fail
+        run: python3 src/check_bulletin.py --selftest
       # The measurement side of the same pipeline, and its failures are quieter than the
       # merge's: a recall number computed against the wrong ground truth, or a per-type
       # table built from hand labels attached to the wrong candidates, is a confident
@@ -296,6 +307,16 @@ jobs:
       # 55 seconds over all 36,953 rules, no network, no model.
       - name: Mechanical conflict findings must be current
         run: python3 src/detect_mechanical.py --check
+      # The monthly OAR re-ingest worklist, audited against what this corpus actually
+      # holds: every rule it marks held has a document and is named by the OAR catalog,
+      # every rule it marks not-held has neither, and the file says which bulletin
+      # produced it and when. The staleness rule is the one with teeth — a worklist
+      # whose bulletin predates the OAR group's own last look upstream has left filings
+      # unread, and a repeal among them is served here as though nothing had happened.
+      # ~4 s over all 36,953 rules; reads committed data only, no network — the fetching
+      # stays behind the mode that already did it.
+      - name: Bulletin worklist must hold up against the corpus
+        run: python3 src/check_bulletin.py --check
 
       # --- heaviest full-corpus scans: nightly / on-demand only ---
       # agency_profile selftest: scans every one of ~69k files' frontmatter with no
