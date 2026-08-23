@@ -190,6 +190,16 @@ RENUMBER_PAIR_RE = re.compile(
 # field, so no consumer branching on `action` can arrive at it, and no row can read as a
 # repeal because its destination is unknown.
 UNKNOWN_TARGET = "unknown"
+# THE WAYS A FILING CAN LOSE ITS RULES, WRITTEN ONCE. Each is a filing whose rules are
+# therefore absent from the worklist for a reason that is not "nothing happened to them",
+# and the criterion is that a filing which cannot be fetched OR PARSED leaves them
+# explicitly unknown — so all three reach the FILE, not only stderr. A notice on stderr is
+# the one corpus-toolkit#67 exists because nobody read. Each entry of `unread_filings`
+# names which of them it was, because the repairs differ: a filing the records app would
+# not serve is re-fetched, a table row with no link is looked up by hand, an action line
+# that ran off its own end is read by eye.
+INCOMPLETE_RULES = ("filing-unreadable", "filing-row-unreadable",
+                    "action-line-truncated")
 
 # The share of a month's filings that may be unreadable before the run is called a
 # failure rather than noise. Individual filings fail (a records-app hiccup, a PDF with
@@ -344,7 +354,15 @@ def filing_rows(bulletin_html: str) -> Table:
             "the bulletin page has no operative-filings table — the format changed; "
             "re-investigate before parsing, because a bulletin parsed without its "
             "filings table yields zero filings and says nothing about why"))
-    section = bulletin_html[idx:]
+    # BOUNDED AT THE TABLE'S OWN CLOSE. The scan used to run to the end of the page,
+    # which was harmless while an unmatched row was silently dropped and is not now: every
+    # later `<tr><td>` — a footer, a nav strip, anything the app grows — would be reported
+    # as a filing that could not be read AND counted into the systemic-failure ratio,
+    # turning page furniture into evidence that the month was unreadable. Measured on
+    # August 2026 (bulltnRsn 1761): all 160 `<tr>` fall inside this bound and no
+    # `<td>`-bearing row follows it.
+    end = bulletin_html.find("</table>", idx)
+    section = bulletin_html[idx:end if end > 0 else len(bulletin_html)]
     rows, problems = [], []
     for row in ROW_RE.findall(section):
         if "<td" not in row:
@@ -441,6 +459,15 @@ def actions_in(text: str, subject: str = "filing") -> Parse:
     that was renumbered, and where its text went. Only the first is a rule something was
     filed against. Destinations are dropped from EVERY verb on the line, which is what
     stops `AMEND & RENUMBER: X to Y` reporting Y as amended as well (#233).
+
+    THE DESTINATION COMES FROM THE FILING, AND ONLY FROM THE FILING. `_meta/catalog/
+    oar.yml` stores a `served_as` number for 484 rules and it is deliberately NOT
+    consulted here: that field is INGEST STATUS (CONTEXT.md), a record of the number
+    OARD served this mirror a document under, and it is a claim about this mirror rather
+    than about Oregon law. The Bulletin is authority about what was FILED (ADR 0006), so
+    filling a filing's silence from the catalog would publish a mirror's bookkeeping as a
+    thing the Secretary of State said. `unknown` is the honest answer, and it is a state
+    of its own precisely so that the silence can be seen rather than filled.
 
     `to` is read as a move ONLY on a line that renumbers. On any other verb it is prose,
     and a pair rule applied there would silently swallow the second number of a range.
@@ -597,12 +624,14 @@ def render_worklist(month, year, rsn, url, retrieved, rows, filings, unread) -> 
         lines.append("unread_filings:")
         for problem in unread:
             link = _UNREAD_PTID_RE.search(problem.detail)
-            # QUOTED: the subject is a filing's AON as the bulletin printed it, and a
-            # colon in one would end the key and take the record of an unread filing
-            # down with it — the one line in this file whose job is to survive.
             lines.append(f"- filing: {_quoted(problem.subject)}")
-            lines.append(
-                f"  url: {_quoted(VIEWER.format(link.group(1)) if link else '')}")
+            lines.append(f"  reason: {problem.rule}")
+            # Only when there IS one. A row dropped for carrying no filing link has no
+            # page to point at — that absence is the defect — and an empty string in its
+            # place would be a citation that leads nowhere wearing the shape of one that
+            # leads somewhere.
+            if link:
+                lines.append(f"  url: {_quoted(VIEWER.format(link.group(1)))}")
     else:
         lines.append("unread_filings: []")
     lines.append("rules:")
@@ -658,8 +687,8 @@ def audit(doc, coverage, catalogued, last_checked) -> list:
                         "is not a mapping — nothing can be read from it; regenerate "
                         f"with: {REGENERATE}")]
     # NOTHING TO CHECK AGAINST IS NOT A CLEAN BILL, AND IT IS NOT EVIDENCE OF DRIFT
-    # EITHER. Every `in_corpus: true` row would be reported as naming a rule this corpus
-    # does not hold, which is hundreds of confident findings derived from the checker
+    # EITHER. Every `corpus_state: held` row would be reported as naming a rule this
+    # corpus does not hold: hundreds of confident findings derived from the checker
     # having read nothing — "could not check" rendered as "is not there", the exact
     # substitution CONTEXT.md forbids. link_enabling_authority.py refuses on an empty
     # `constitution/` for the same reason.
@@ -751,6 +780,13 @@ def audit(doc, coverage, catalogued, last_checked) -> list:
                     "worklist-completeness", f"unread_filings[{i}]",
                     f"is {entry!r} and names no filing — an unknown recorded so that "
                     "nobody can go and look is not far from not recording it"))
+            elif entry.get("reason") not in INCOMPLETE_RULES:
+                problems.append(Problem(
+                    "worklist-completeness", f"unread_filings[{i}]",
+                    f"gives reason {entry.get('reason')!r}, which is not one of the ways "
+                    f"this reader loses a filing's rules ({', '.join(INCOMPLETE_RULES)}). "
+                    "The repairs differ, so an unknown that does not say which it is "
+                    "sends a human to look without saying what for"))
         if isinstance(filings, int) and not isinstance(filings, bool):
             if len(unread) > filings:
                 problems.append(Problem(
@@ -781,8 +817,10 @@ def audit(doc, coverage, catalogued, last_checked) -> list:
                 f"({last_checked.isoformat()}), and the Bulletin is published monthly — "
                 f"so {skipped} bulletin(s) between them were never read. Their filings "
                 "are absent from every worklist this corpus holds, which is indis"
-                f"tinguishable from months in which nothing was filed; re-run per month "
-                f"with --rsn, oldest first: {REGENERATE} --rsn <n>"))
+                "tinguishable from months in which nothing was filed. The anchor is the "
+                "OAR group's own record, whose cadence is monthly, so this fires either "
+                "because bulletins went unread or because that check itself slipped — "
+                f"read the missing months, oldest first: {REGENERATE} --rsn <n>"))
 
     rows = doc.get("rules")
     if isinstance(rows, list) and rows and filings == 0:
@@ -805,7 +843,7 @@ def audit(doc, coverage, catalogued, last_checked) -> list:
         if not isinstance(row, dict):
             problems.append(Problem("row-shape", where,
                                     f"is {row!r}, not a mapping of number/action/"
-                                    "in_corpus"))
+                                    "corpus_state"))
             continue
         number, action, state = row.get("number"), row.get("action"), \
             row.get("corpus_state")
@@ -1224,7 +1262,7 @@ def _case_bulletin_older_than_the_last_look_upstream(f):
 def _case_a_month_that_was_never_read_at_all(f):
     """The OAR group last looked upstream in April and the worklist reads July. MAY AND
     JUNE WERE NEVER READ, and nothing said so: the worklist is not stale — its bulletin
-    is the newest one — and every rule rule the reader applies to it passes. The bulletins
+    is the newest one — and every rule the reader applies to it passes. The bulletins
     are monthly and their identifiers monotonic, so a month with no reading behind it is
     detectable, and a repeal filed in one of them is served here as though the filing had
     never happened. Two months of filings, missing, behind a green check."""
@@ -1255,6 +1293,18 @@ def _case_worklist_with_rules_and_no_filings(f):
     and the census — and the two spellings contradict each other, so the worklist cannot
     say what it read."""
     f["doc"]["filings"] = 0
+    return _audit(f)
+
+
+def _case_unread_filing_that_does_not_say_why_its_rules_are_unknown(f):
+    """An entry naming a filing and not the rule that lost it. The reasons are different
+    repairs — a filing the records app would not serve is re-fetched, a row with no link
+    is looked up by hand, an action line that ran off its own end is read by eye — so an
+    unknown recorded without which of them it is tells a human to go and look without
+    saying what for."""
+    f["doc"]["filings"] = 8
+    f["doc"]["unread_filings"] = [{"filing": "AON 9-2026",
+                                   "url": VIEWER.format(909)}]
     return _audit(f)
 
 
@@ -1527,6 +1577,9 @@ _CASES = [
      _case_worklist_that_does_not_say_which_filings_it_could_not_read,
      "worklist-completeness"),
     ("worklist-with-rules-and-no-filings", _case_worklist_with_rules_and_no_filings,
+     "worklist-completeness"),
+    ("unread-filing-that-does-not-say-why-its-rules-are-unknown",
+     _case_unread_filing_that_does_not_say_why_its_rules_are_unknown,
      "worklist-completeness"),
     ("worklist-that-was-written-from-a-fraction-of-a-month",
      _case_worklist_that_was_written_from_a_fraction_of_a_month,
@@ -1835,6 +1888,54 @@ def _proof_an_action_line_is_read_past_its_own_end() -> int:
     return bad
 
 
+def _proof_every_way_of_losing_rules_reaches_the_file() -> int:
+    """A filing can lose its rules three ways, and ALL THREE have to reach the worklist
+    — the criterion is that a filing which cannot be fetched OR PARSED leaves its rules
+    explicitly unknown, and a loss reported only on stderr is the notice nobody read that
+    corpus-toolkit#67 exists because of. The row that could not be made into a filing and
+    the action line that ran off its own end are parse failures as much as a 503 is.
+
+    Each rule is produced for real here rather than asserted about, and the rules a
+    reader can lose rules by are one declaration that both ends use."""
+    losses = {
+        "filing-unreadable": _reading(("100", "999")),
+        "action-line-truncated": read_bulletin(
+            filing_rows(_bulletin_page(("100",))),
+            lambda pt_id: "AMEND: 999-001-0010,\n\nprose.\n", _COVERAGE),
+    }
+    bad = 0
+    for rule, reading in losses.items():
+        if not any(p.rule == rule for p in reading.problems):
+            print(f"FAIL every-way-of-losing-rules-reaches-the-file: {rule} did not "
+                  f"fire: {reading.problems!r}", file=sys.stderr)
+            bad += 1
+            continue
+        unread = [p for p in reading.problems if p.rule in INCOMPLETE_RULES]
+        doc = yaml.safe_load(render_worklist("July", 2026, _RSN, _URL, "2026-07-02",
+                                             reading.rows, 8, unread))
+        reasons = [u.get("reason") for u in doc["unread_filings"]]
+        if rule not in reasons:
+            print(f"FAIL every-way-of-losing-rules-reaches-the-file: {rule} is reported "
+                  f"and the worklist does not carry it: {doc['unread_filings']!r}",
+                  file=sys.stderr)
+            bad += 1
+    # `filing-row-unreadable` is the third, and it is raised by the table rather than by
+    # a reading, so it is produced where it lives.
+    table_loss = _refused_or_problems(_bulletin_page().replace(
+        "</table>",
+        "<tr><td>999</td><td>B</td><td>AON 9-2026</td><td>2026-06-15</td>"
+        "<td>Permanent</td><td>No link</td></tr></table>"))
+    if not any(p.rule == "filing-row-unreadable" for p in table_loss):
+        print(f"FAIL every-way-of-losing-rules-reaches-the-file: filing-row-unreadable "
+              f"did not fire: {table_loss!r}", file=sys.stderr)
+        bad += 1
+    if not set(INCOMPLETE_RULES) <= {rule for _, _, rule in _CASES}:
+        print("FAIL every-way-of-losing-rules-is-itself-watched-failing: "
+              f"{set(INCOMPLETE_RULES) - {r for _, _, r in _CASES}}", file=sys.stderr)
+        bad += 1
+    return bad
+
+
 def _proof_a_parse_failure_and_a_quiet_month_are_not_the_same_worklist() -> int:
     """THE SUBSTITUTION ADR 0006 NAMES, IN THE BYTES A CONSUMER READS. A month one of
     whose filings could not be fetched holds fewer rules than it should, and so does a
@@ -1886,6 +1987,7 @@ _PROOFS = [
     _proof_a_renumber_with_no_destination_is_not_a_repeal,
     _proof_an_action_line_is_read_past_its_own_end,
     _proof_a_parse_failure_and_a_quiet_month_are_not_the_same_worklist,
+    _proof_every_way_of_losing_rules_reaches_the_file,
     _proof_a_tolerated_filing_failure_is_not_a_systemic_one,
 ]
 
@@ -1966,8 +2068,7 @@ def read_a_bulletin(args) -> int:
     reading = read_bulletin(table, read_filing, corpus_coverage(), progress)
     _report(reading.problems)
     n_in = sum(1 for r in reading.rows if r["corpus_state"] == "held")
-    unread = [p for p in reading.problems
-              if p.rule in ("filing-unreadable", "filing-row-unreadable")]
+    unread = [p for p in reading.problems if p.rule in INCOMPLETE_RULES]
     unreadable, filings = len(unread), len(table.rows) + len(table.problems)
     # A SYSTEMIC FAILURE MAY NOT OVERWRITE THE LAST WORKLIST THAT WAS WHOLE. The rows
     # this run holds are missing an unknown share of the month, and a short worklist is

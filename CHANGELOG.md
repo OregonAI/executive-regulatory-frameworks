@@ -40,13 +40,21 @@ corpus-wide changes from 2026-08-02 forward.
   with an unknown target and repealed are three states and only the last means the text
   is gone. Two filings naming different destinations for one rule used to be resolved
   silently in favour of whichever the table listed first; that is now recorded.
+  The destination comes from the filing line and never from the OAR catalog's `served_as`:
+  that field is ingest status, a record of the number OARD served THIS MIRROR a document
+  under, and filling the Bulletin's silence from it would publish a mirror's bookkeeping
+  as a thing the Secretary of State said.
   August filed **0 renumbers**, so this half is proved on fixtures alone and reported as
   such — July filed 64, 32 against rules held here.
   **The worklist says how much of the month it is.** `filings` and `unread_filings` are
   new, and they are what keeps a month whose filings could not be fetched from reading as
   a month in which little was filed — the substitution ADR 0006 exists to prevent, which
   the file itself had no field to record. An unread filing is NAMED, with the link a
-  human would follow.
+  human would follow where there is one, and with the `reason` its rules are unknown:
+  a filing the records app would not serve is re-fetched, a table row with no link is
+  looked up by hand, an action line that ran off its own end is read by eye. All three
+  ways of losing rules reach the FILE — a loss reported only on stderr is the notice
+  corpus-toolkit#67 exists because nobody read.
   **Also fixed, both from #233 and both latent rather than occurring**: an action line
   wrapping onto the next line lost everything after the trailing comma, and a `<tr>` in
   the operative table that carried cells but no filing link was dropped where nobody could
@@ -58,7 +66,7 @@ corpus-wide changes from 2026-08-02 forward.
   group's last look upstream and the bulletin a worklist names are countable, and a
   worklist that skipped one is not stale by anything the file itself carries: it names the
   newest bulletin and every row in it is correct.
-  `--selftest` proves **39 violations across 26 rules**, with **13 reader proofs held**
+  `--selftest` proves **40 violations across 26 rules**, with **14 reader proofs held**
   (was 25 across 16, with 7). Every new rule was watched failing before it existed and
   again with its condition removed. Synthetic fixtures throughout — every OAR number is in
   chapter 999 or 998, which Oregon does not have — and the clean-month must-not-fire guard
