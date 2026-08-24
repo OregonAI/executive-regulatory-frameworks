@@ -330,6 +330,14 @@ jobs:
         run: python3 src/results_page_documents.py --check
       - name: ...and that rule must be able to fail
         run: python3 src/results_page_documents.py --selftest
+
+      # #247: the manifest holds 484 individual rule pages in 4 chapters -- 1.3% of the
+      # mirror -- and shares no rule with the Bulletin's worklist, so two of ADR 0006's
+      # four cases cannot occur. The ADR said otherwise. This holds it to the manifest.
+      - name: ADR 0006 must say what the OAR hash watch actually covers
+        run: python3 src/oar_watch_coverage.py --check
+      - name: ...and that rule must be able to fail
+        run: python3 src/oar_watch_coverage.py --selftest
       - name: Agency registry must keep its contract
         run: python3 src/catalog_agencies.py --check
       # WHAT `name` MEANS IS ABOUT TO CHANGE (ADR 0003), and nothing in the data shows which

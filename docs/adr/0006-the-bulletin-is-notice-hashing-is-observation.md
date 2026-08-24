@@ -6,8 +6,10 @@ official digest of rule filings. `src/check_bulletin.py` reads it and writes
 minor-correction filings adopt, amend, repeal, renumber or suspend. August 2026 (bulltnRsn
 1761): 549 rule actions from 159 filings, 418 against rules this corpus holds.
 
-Separately, `corpus-detect-changes` hashes the 484 OAR chapter sources and reports what
-moved.
+Separately, `corpus-detect-changes` hashes the 484 sources in `_meta/sources/oar.yml` and
+reports what moved. Those are **484 individual rule pages in four chapters** — 125 (420),
+122 (33), 128 (22), 105 (9) — not chapter sources, and they cover **1.3% of the 36,953
+rule documents on disk, in 4 of the 170 mirrored chapters** (#247).
 
 We decided the two run **side by side**, and that neither is the arbiter of the other.
 
@@ -37,8 +39,20 @@ changed" become the same observation, which is the substitution this repository 
 everywhere else: **could not check is never reported as is not there.**
 
 Hashing is kept for exactly one job it alone can do: detecting change nobody announced. It is
-no longer the primary signal, because it cannot name a rule — 484 chapter sources stand for
-36,955 rule documents, so a moved hash says only that something in a chapter changed.
+no longer the primary signal — but the reason first given here was wrong, and the correction
+matters more than the claim did.
+
+The manifest holds individual rule pages, so a moved hash **does** name a rule exactly. What
+it cannot do is name a rule the Bulletin also named: the 484 watched rules sit in chapters
+105, 122, 125 and 128, and the August 2026 worklist names 534 rules across 35 chapters, none
+of them those four. **The intersection is zero, and the chapter disjointness is structural
+rather than one month's accident** (#247).
+
+So two of the four cases below — *filed but not yet served* and *agreement* — cannot occur on
+the current manifest, and the one job hashing is kept for is scoped to 484 rules the Bulletin
+has never named. A drift run printing `oar 484/484` reads as coverage of the OAR mirror; it
+is coverage of 1.3% of it. `src/oar_watch_coverage.py --check` now says so on every run, and
+fails if this paragraph and the manifest stop agreeing.
 
 ## Consequences
 
