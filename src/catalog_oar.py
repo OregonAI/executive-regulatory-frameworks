@@ -56,15 +56,25 @@ def load_catalog():
     return {"note": "", "chapters": []}
 
 
+# What the note says when the catalog is first created and there is nothing to keep. It is
+# a FLOOR, not the note: #228 appended the paragraph distinguishing the two fields spelled
+# `status`, #229 appended the one describing what a marked row carries, and both are longer
+# than anything this module knows about. Restating this literal on every write deleted 1,430
+# characters of them, in a diff that also touched thousands of rule rows (#241).
+INITIAL_NOTE = (
+    "Discovery map of ALL OAR chapters (Gate #1 input for the mass import): every "
+    "chapter's divisions and rule numbers, discovered from oregon.public.law "
+    "chapter/division pages. Rule CONTENT always comes from the official OARD per-rule URL "
+    "at ingest time, never from the mirror. Per-rule status: 'ingested' means a "
+    "full document exists in rules/; renumbered/not_served/not_sliceable are "
+    "recorded by ingest_oar.py. Chapter titles from the agency registry.")
+
+
 def save_catalog(cat, discovered_note=True):
-    cat["note"] = (
-        "Discovery map of ALL OAR chapters (Gate #1 input for the mass import): every "
-        "chapter's divisions and rule numbers, discovered from oregon.public.law "
-        "chapter/division pages (static HTML; the official OARD listings are "
-        "JS-rendered). Rule CONTENT always comes from the official OARD per-rule URL "
-        "at ingest time, never from the mirror. Per-rule status: 'ingested' means a "
-        "full document exists in rules/; renumbered/not_served/not_sliceable are "
-        "recorded by ingest_oar.py. Chapter titles from the agency registry.")
+    # THE FILE'S NOTE IS THE FILE'S (#241). This module writes it only when there is none;
+    # it never restates one that exists, because it does not know what has been added to it.
+    if not cat.get("note"):
+        cat["note"] = INITIAL_NOTE
     cat["retrieved"] = TODAY
     cat["chapters"].sort(key=lambda c: (len(c["chapter"]), c["chapter"]))
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))

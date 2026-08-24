@@ -360,6 +360,14 @@ jobs:
         run: python3 src/enrich_oar.py --selftest
       - name: OAR discovery is keyed on the OAR name (selftest)
         run: python3 src/catalog_oar.py --selftest
+
+      # #237/#236/#241: the catalog names the chapters the registry and rules/ agree on,
+      # a division's status is what its rules say, and the file's note keeps what was
+      # appended to it. Three records that could disagree with what they describe.
+      - name: The OAR catalog must agree with the registry, the disk, and its own rules
+        run: python3 src/catalog_agreement.py --check
+      - name: ...and those rules must be able to fail
+        run: python3 src/catalog_agreement.py --selftest
       # `enabling_authority` is written by ONE thing — the hand-reviewed MAPPED/UNMAPPED
       # tables in link_enabling_authority.py — and this verifies the registry against them
       # in both directions, plus every citation against the mirrored ORS, the mirrored

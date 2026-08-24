@@ -669,6 +669,30 @@ def normalize_volatile(data: bytes) -> bytes:
     return data
 
 
+# A DIVISION'S INGEST STATUS IS DERIVED FROM ITS RULES', not written independently (#236).
+# It used to be stored and could disagree: 2,716 divisions said `not_ingested` while every
+# rule under them read `ingested`, because ingest_oar carried the previous value across on
+# the branch that looked like it was promoting it. A stored value that nothing reconciles
+# with the rows beneath it is a false statement about this mirror, which is CONTEXT.md's
+# `could not check is never is not there` in its data form.
+DIVISION_STATUSES = ("ingested", "partially_ingested", "not_ingested")
+
+
+def division_status(rules) -> str:
+    """THE ONE DECLARATION: what a division's ingest status means relative to its rules.
+
+    `partially_ingested` had been written onto exactly one row by nobody and read by
+    nothing. Deriving gives it the meaning it never had -- SOME but not all -- rather than
+    retiring a word the data turns out to need for 43 divisions.
+    """
+    if not rules:
+        return "not_ingested"
+    ingested = sum(1 for r in rules if r.get("status") == "ingested")
+    if ingested == len(rules):
+        return "ingested"
+    return "not_ingested" if ingested == 0 else "partially_ingested"
+
+
 def snapshot_text(raw: bytes) -> str:
     """THE TEXT OF AN HTML SNAPSHOT, declared once.
 
