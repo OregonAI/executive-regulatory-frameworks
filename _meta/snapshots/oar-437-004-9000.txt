@@ -268,8 +268,6 @@ Since Em (0.925) is less than unity (1), the exposure combination is within acce
  
  
  
- v2.1.7
- 
  
  
  

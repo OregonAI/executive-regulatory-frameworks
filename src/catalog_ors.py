@@ -21,7 +21,7 @@ import yaml
 
 from html_to_text import html_to_text
 from ingest_lib import fetch
-from repo_lib import REPO_ROOT, SNAPSHOT_DIR, ws_only
+from repo_lib import REPO_ROOT, SNAPSHOT_DIR, ws_only, snapshot_text
 
 CATALOG = REPO_ROOT / "_meta/catalog/ors.yml"
 
@@ -64,7 +64,7 @@ def fetch_chapter(ch):
         time.sleep(1.0)  # bulk runs walk hundreds of chapters; don't hammer the source
         raw = fetch(url)
         html_path.write_bytes(raw)
-        (SNAPSHOT_DIR / f"{snap_id}.txt").write_text(html_to_text(raw), encoding="utf-8")
+        (SNAPSHOT_DIR / f"{snap_id}.txt").write_text(snapshot_text(raw), encoding="utf-8")
     return (SNAPSHOT_DIR / f"{snap_id}.txt").read_text(encoding="utf-8", errors="replace")
 
 

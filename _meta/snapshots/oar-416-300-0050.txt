@@ -219,8 +219,6 @@ A formal parole revocation hearing will follow the preliminary hearing, unless t
  
  
  
- v2.1.7
- 
  
  
  

@@ -148,6 +148,27 @@ def cmd_selftest() -> int:
     if problem:
         fails.append(problem)
 
+    # THE FACT #244 ASSERTS, watched both ways: an OARD release must not move the hash
+    # of a rule whose text did not change. Proved against the REAL declared pattern set,
+    # and watched failing with the colophon pattern removed -- without that mutation this
+    # would pass on a corpus where the pattern was never added.
+    def _page(version: str) -> bytes:
+        return (f'<html><body><p>{_BODY}</p>'
+                f'<div class="colophon">\n    {version}\n</div></body></html>').encode()
+
+    a, b = _page("v2.1.7"), _page("v2.1.8")
+    if content_hash(a, "html", COMPILED_PATTERNS) != content_hash(b, "html", COMPILED_PATTERNS):
+        fails.append("FAIL an-oard-release-does-not-move-a-rules-hash: the same rule text "
+                     "hashed differently across v2.1.7 and v2.1.8, which is #244 unfixed")
+    without = tuple(c for c in COMPILED_PATTERNS if "colophon" not in c.pattern.decode())
+    if len(without) != len(COMPILED_PATTERNS) - 1:
+        fails.append(f"FAIL the-colophon-pattern-is-declared: removed "
+                     f"{len(COMPILED_PATTERNS) - len(without)} patterns, wanted exactly 1 -- "
+                     f"the mutation below proves nothing if it removed nothing")
+    elif content_hash(a, "html", without) == content_hash(b, "html", without):
+        fails.append("FAIL the-colophon-pattern-is-what-does-it: dropping it still gave "
+                     "equal hashes, so this proof passes whether or not #244 is fixed")
+
     # THE GUARD THAT MUST NOT FIRE. Identical derivation on both sides.
     import tempfile
     with tempfile.TemporaryDirectory() as d:

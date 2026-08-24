@@ -655,6 +655,11 @@ VOLATILE_PATTERNS = [
     rb";JSESSIONID_OARD=[^?'\" >]*",
     rb"/cdn-cgi/l/email-protection#[0-9a-f]+",
     rb"data-cfemail=\"[0-9a-f]+\"",
+    # The OARD application's own version, printed in every rule page's footer (#244). It
+    # moved v2.1.7 -> v2.1.8 and re-stamped every OAR hash without a word of rule text
+    # changing. UNLIKE THE THREE ABOVE this one matches VISIBLE text -- html_to_text keeps
+    # it -- which is exactly the case snapshot_identity.py (#207) was built to catch.
+    rb"(?<=class=\"colophon\">)\s*v\d+\.\d+\.\d+",
 ]
 
 
@@ -662,6 +667,24 @@ def normalize_volatile(data: bytes) -> bytes:
     for pat in VOLATILE_PATTERNS:
         data = re.sub(pat, b"", data)
     return data
+
+
+def snapshot_text(raw: bytes) -> str:
+    """THE TEXT OF AN HTML SNAPSHOT, declared once.
+
+    Both spellings of a snapshot's identity start here: the `.txt` committed beside the
+    `.html`, and the text `content_hash` hashes. They used to be derived separately --
+    `html_to_text(raw)` for the .txt, `html_to_text(normalize_volatile(raw))` for the
+    hash -- and agreed only by luck, because every volatile pattern happened to match
+    markup `html_to_text` discarded anyway.
+
+    #244 added a pattern that matches VISIBLE text (the OARD footer version), and the two
+    derivations disagreed on all 36,953 OAR rules at once. snapshot_identity.py (#207)
+    caught it and named it; this function removes the second derivation so it cannot
+    recur for the next pattern.
+    """
+    from html_to_text import html_to_text
+    return html_to_text(normalize_volatile(raw))
 
 
 def content_hash(raw: bytes, fmt: str) -> str:
@@ -682,8 +705,7 @@ def content_hash(raw: bytes, fmt: str) -> str:
                               capture_output=True, check=False)
         text = proc.stdout.decode("utf-8", errors="replace") if proc.returncode == 0 else ""
     elif fmt in ("html", "xml"):
-        from html_to_text import html_to_text
-        text = html_to_text(normalize_volatile(raw))
+        text = snapshot_text(raw)
     else:
         # binary formats with no text extractor (xls/xlsx/docx): raw-byte hash
         return hashlib.sha256(raw).hexdigest()
