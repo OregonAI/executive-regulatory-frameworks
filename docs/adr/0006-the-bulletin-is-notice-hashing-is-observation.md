@@ -6,10 +6,11 @@ official digest of rule filings. `src/check_bulletin.py` reads it and writes
 minor-correction filings adopt, amend, repeal, renumber or suspend. August 2026 (bulltnRsn
 1761): 549 rule actions from 159 filings, 418 against rules this corpus holds.
 
-Separately, `corpus-detect-changes` hashes the 484 sources in `_meta/sources/oar.yml` and
-reports what moved. Those are **484 individual rule pages in four chapters** — 125 (420),
-122 (33), 128 (22), 105 (9) — not chapter sources, and they cover **1.3% of the 36,953
-rule documents on disk, in 4 of the 170 mirrored chapters** (#247).
+Separately, `corpus-detect-changes` hashes the sources in `_meta/sources/oar.yml` and
+reports what moved. Those are individual rule pages, and **the set is seeded from this
+worklist** (#256): every rule the Bulletin named that this corpus holds, plus a rolling
+sample of held rules it did not name. Today that is **1,006 rule pages across 38 chapters —
+406 named and 600 sampled — covering 2.7% of the 36,953 rule documents on disk**.
 
 We decided the two run **side by side**, and that neither is the arbiter of the other.
 
@@ -40,19 +41,24 @@ everywhere else: **could not check is never reported as is not there.**
 
 Hashing is kept for exactly one job it alone can do: detecting change nobody announced. It is
 no longer the primary signal — but the reason first given here was wrong, and the correction
-matters more than the claim did.
+is what made the table work.
 
 The manifest holds individual rule pages, so a moved hash **does** name a rule exactly. What
-it cannot do is name a rule the Bulletin also named: the 484 watched rules sit in chapters
-105, 122, 125 and 128, and the August 2026 worklist names 534 rules across 35 chapters, none
-of them those four. **The intersection is zero, and the chapter disjointness is structural
-rather than one month's accident** (#247).
+it could not do was name a rule the Bulletin also named. The 484 rules watched before #256
+sat in chapters 105, 122, 125 and 128; the worklist names rules across 35 chapters, none of
+them those four. **The intersection was zero and the disjointness was structural**, so two of
+the four cases below — *filed but not yet served* and *agreement* — could never occur (#247).
 
-So two of the four cases below — *filed but not yet served* and *agreement* — cannot occur on
-the current manifest, and the one job hashing is kept for is scoped to 484 rules the Bulletin
-has never named. A drift run printing `oar 484/484` reads as coverage of the OAR mirror; it
-is coverage of 1.3% of it. `src/oar_watch_coverage.py --check` now says so on every run, and
-fails if this paragraph and the manifest stop agreeing.
+The watched set is now **derived from the notice it is compared against**, so all four cases
+are reachable by construction: 406 rules are in both signals this month. The rolling sample
+carries the other half of the job, because a rule nobody filed against is exactly the rule a
+silent correction would touch; the cursor advances and wraps, so at 600 a run the whole
+mirror is visited once every 62 runs — stated rather than implied, and a far weaker
+guarantee than the named half.
+
+`src/seed_oar_watch.py --check` fails if a rule this bulletin named and this corpus holds is
+not watched, and `src/oar_watch_coverage.py --check` fails if this paragraph and the manifest
+stop agreeing.
 
 ## Consequences
 
