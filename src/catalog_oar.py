@@ -30,7 +30,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import yaml
 
-from repo_lib import REPO_ROOT, Checks
+from repo_lib import REPO_ROOT, Checks, division_status
 
 BASE = "https://oregon.public.law"
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
@@ -70,14 +70,26 @@ INITIAL_NOTE = (
     "recorded by ingest_oar.py. Chapter titles from the agency registry.")
 
 
-def save_catalog(cat, discovered_note=True):
+def save_catalog(cat, discovered_note=True, stamp_retrieved=True):
     # THE FILE'S NOTE IS THE FILE'S (#241). This module writes it only when there is none;
     # it never restates one that exists, because it does not know what has been added to it.
     if not cat.get("note"):
         cat["note"] = INITIAL_NOTE
-    cat["retrieved"] = TODAY
+    # AND `retrieved` IS A CLAIM THAT SOMETHING WAS RETRIEVED (#259). A run that discovered
+    # nothing -- because the source does not carry the chapter -- used to stamp today's date
+    # anyway, which is the same substitution one field over.
+    if stamp_retrieved:
+        cat["retrieved"] = TODAY
     cat["chapters"].sort(key=lambda c: (len(c["chapter"]), c["chapter"]))
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
+
+
+class DiscoveredNothing(Exception):
+    """The source served no divisions for this chapter, so nothing was discovered."""
+
+    def __init__(self, chapter):
+        self.chapter = chapter
+        super().__init__(f"the discovery source lists no divisions for chapter {chapter}")
 
 
 def discover_chapter(ch: str, title: str, cat: dict) -> tuple:
@@ -88,6 +100,15 @@ def discover_chapter(ch: str, title: str, cat: dict) -> tuple:
     divs = DIV_LINK_RE.findall(raw)
 
     existing = next((c for c in cat["chapters"] if c["chapter"] == ch), None)
+    if not divs and not (existing or {}).get("divisions"):
+        # A FETCH THAT FOUND NOTHING IS NOT A DISCOVERY (#259). oregon.public.law serves a
+        # 200 with a not-found body for a chapter it does not carry -- 419 and 950 both
+        # return the same 34,781-byte page with zero division links, while 411 returns 76 --
+        # and `get()` cannot tell that from a real chapter with no divisions. Writing an
+        # entry here recorded `divisions: []` for a chapter holding 259 documents, stamped
+        # it `discovered`, and made every later run skip it. Could not check, written as is
+        # not there.
+        raise DiscoveredNothing(ch)
     if existing is None:
         existing = {"chapter": ch, "title": title,
                     "url": f"{BASE}/rules/oar_chapter_{ch}", "divisions": []}
@@ -115,8 +136,9 @@ def discover_chapter(ch: str, title: str, cat: dict) -> tuple:
         new_divisions.append({
             "division": div,
             "title": re.sub(r"\s+", " ", unescape(div_title)).strip(),
-            "status": ("ingested" if rules and all(
-                r.get("status") == "ingested" for r in rules) else "not_ingested"),
+            # THE SAME ONE DECLARATION ingest_oar uses (#236). This spelling was a third
+            # copy and could not produce `partially_ingested` at all.
+            "status": division_status(rules),
             "rules": rules,
         })
     # keep any old divisions that vanished from the mirror (never silently drop)
@@ -167,6 +189,7 @@ def cmd_discover(only: list):
     cat = load_catalog()
 
     total_d = total_r = total_new = skipped = 0
+    found_nothing = []
     for i, (ch, title) in enumerate(chapters, 1):
         existing = next((c for c in cat["chapters"] if c["chapter"] == ch), None)
         if (existing and existing.get("discovered") and not only
@@ -175,6 +198,11 @@ def cmd_discover(only: list):
             continue
         try:
             nd, nr, nn = discover_chapter(ch, title, cat)
+        except DiscoveredNothing as e:
+            found_nothing.append(ch)
+            print(f"NOT DISCOVERED chapter {ch}: {e} — no entry written, not marked "
+                  f"discovered, and the next run will try again (#259)")
+            continue
         except Exception as e:
             print(f"FAILED chapter {ch}: {e}")
             continue
@@ -184,9 +212,12 @@ def cmd_discover(only: list):
         print(f"[{i}/{len(chapters)}] ch {ch:>4} ({title[:50]}): "
               f"{nd} divisions, {nr} rules ({nn} new)")
         save_catalog(cat)  # checkpoint after every chapter — resumable
-    save_catalog(cat)
+    save_catalog(cat, stamp_retrieved=total_d > 0)
     print(f"\ndiscovered: {total_d} divisions, {total_r} rules ({total_new} new); "
           f"{skipped} chapters already discovered (use --redo to refresh)")
+    if found_nothing:
+        print(f"{len(found_nothing)} chapter(s) the discovery source does not carry, left "
+              f"UNDISCOVERED rather than recorded as empty: {', '.join(found_nothing)}")
 
 
 def cmd_summary():
