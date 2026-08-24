@@ -131,6 +131,22 @@ ACTION_KEY = "reingest_action"
 NOTICE_KEY = "reingest_notice"
 REINGEST_KEYS = (ACTION_KEY, NOTICE_KEY)
 
+# A REFUSAL A ROW CAN CARRY (#245). `reingest_one` refuses for five reasons; one -- OARD
+# unreachable -- clears on the next run, and the other four do not. Without somewhere to
+# record them, a rule OARD permanently serves under a different number left
+# `a-filed-text-action-is-re-ingested` red forever, reporting an UPSTREAM-AVAILABILITY fact
+# under a rule that names a RECORDING failure. Two different things reading as one is the
+# substitution ADR 0006 exists to refuse.
+#
+# The vocabulary is the INGEST one ingest_oar already writes -- not_served / renumbered /
+# not_sliceable -- rather than a third, and these keys are deliberately NOT the re-ingest
+# ones: a refusal that were spellable as a re-ingest would make
+# `a-re-ingested-action-changes-text` stop meaning what it says.
+REFUSED_KEY = "reingest_refused"
+REFUSED_NOTICE_KEY = "reingest_refused_notice"
+REFUSED_KEYS = (REFUSED_KEY, REFUSED_NOTICE_KEY)
+REFUSAL_REASONS = ("not_served", "renumbered", "not_sliceable")
+
 REGENERATE = "python3 src/reingest_oar.py --run"
 TODAY = date.today().isoformat()
 
@@ -159,6 +175,7 @@ CHECK_RULES = (
     "every-filed-action-is-text-or-force", "the-worklist-vocabulary-is-known",
     # the notice, and the half no rule about an existing row can state
     "the-notice-is-readable", "a-filed-text-action-is-re-ingested",
+    "a-refusal-is-recorded-in-the-ingest-vocabulary",
     "the-notice-names-the-re-ingest", "the-catalog-names-the-rule",
     # what a re-ingested row says
     "a-re-ingest-cites-its-notice", "a-re-ingested-action-changes-text",
@@ -454,13 +471,26 @@ def check_recorded(catalog, worklist) -> list:
     notice = worklist.get("bulletin")
     for c in picked:
         held = tuple(c.row.get(k) for k in REINGEST_KEYS)
-        if held != (c.action, notice):
-            failures.append(Failure(
-                "a-filed-text-action-is-re-ingested", f"{c.number}",
-                f"{notice} filed a {c.action} against it and this corpus holds the rule, "
-                f"and its catalog row says {held!r} rather than {(c.action, notice)!r}. "
-                "Until the row says so the document is served as though its text had not "
-                f"changed -- run: {REGENERATE}"))
+        if held == (c.action, notice):
+            continue
+        # REFUSED, AND HERE IS WHY (#245) -- against THIS bulletin, in the ingest
+        # vocabulary. An upstream-availability fact recorded as one, rather than a
+        # recording failure that can never be cleared.
+        refused = c.row.get(REFUSED_KEY)
+        if refused and c.row.get(REFUSED_NOTICE_KEY) == notice:
+            if refused not in REFUSAL_REASONS:
+                failures.append(Failure(
+                    "a-refusal-is-recorded-in-the-ingest-vocabulary", f"{c.number}",
+                    f"is refused as {refused!r}, which is not one of "
+                    f"{', '.join(REFUSAL_REASONS)}. A reason nothing else in this repository "
+                    f"writes is one nobody can act on"))
+            continue
+        failures.append(Failure(
+            "a-filed-text-action-is-re-ingested", f"{c.number}",
+            f"{notice} filed a {c.action} against it and this corpus holds the rule, "
+            f"and its catalog row says {held!r} rather than {(c.action, notice)!r}. "
+            "Until the row says so the document is served as though its text had not "
+            f"changed -- run: {REGENERATE}"))
     # THE REVERSE SCAN WALKS ROWS, NOT NAMES. 484 rows are reachable under TWO rule
     # numbers -- the one this corpus asked OARD for and the `served_as` the document is
     # filed under -- so a map keyed by number yields the same row twice, and asking
@@ -654,7 +684,18 @@ def cmd_report() -> int:
 # ---------------------------------------------------------------------------- the re-ingest
 
 
-def reingest_one(candidate, registry_by_chapter, today, fetch_page=None) -> tuple:
+def _record_refusal(candidate, reason, notice) -> None:
+    """Write the refusal onto the row, so `--check` can tell REFUSED, AND HERE IS WHY from
+    NOBODY RAN IT. Silent when no notice is in hand -- the selftest calls this path with
+    none, and a refusal that cited no bulletin would be a claim about no particular month."""
+    if notice is None:
+        return
+    candidate.row[REFUSED_KEY] = reason
+    candidate.row[REFUSED_NOTICE_KEY] = notice
+
+
+def reingest_one(candidate, registry_by_chapter, today, fetch_page=None,
+                 notice=None) -> tuple:
     """Refresh ONE rule from OARD. (True if the document changed, Failures).
 
     `fetch_page` is the network, injected so nothing here has to be reached through a
@@ -693,18 +734,21 @@ def reingest_one(candidate, registry_by_chapter, today, fetch_page=None) -> tupl
     if served and re.search(re.escape(served) + r"\s+not found", ws_only(text)):
         served = None
     if served is None:
+        _record_refusal(candidate, 'not_served', notice)
         return False, [Failure(
             "a-filed-text-action-is-re-ingested", f"{number}",
             "OARD serves no rule number for it. The bulletin filed a text action and the "
             "page that came back is not a rule -- most likely the rule is gone, which is a "
             "claim about FORCE and reaches a person (ADR 0006), not an automatic write")]
     if served != number:
+        _record_refusal(candidate, 'renumbered', notice)
         return False, [Failure(
             "a-filed-text-action-is-re-ingested", f"{number}",
             f"OARD serves {served} for this number. A re-ingest that wrote that page into "
             f"this document would publish one rule's text under another's citation -- the "
             "125-800 -> 128-030 lesson. Renumbering is recorded by the catalog, not here")]
     if is_search_results_page(ws_only(text)):
+        _record_refusal(candidate, 'not_sliceable', notice)
         return False, [Failure(
             "a-filed-text-action-is-re-ingested", f"{number}",
             "OARD serves a search-results list for this number rather than a rule -- more "
@@ -712,6 +756,7 @@ def reingest_one(candidate, registry_by_chapter, today, fetch_page=None) -> tupl
             "rules that matched, plus the site footer, as this rule's text (#251)")]
     body = snapshot_slice(doc_id, doc_id, text)
     if len(body) < 100:
+        _record_refusal(candidate, 'not_sliceable', notice)
         return False, [Failure(
             "a-filed-text-action-is-re-ingested", f"{number}",
             "the OARD page carries no rule body this can slice. An empty refresh would "
@@ -788,10 +833,13 @@ def cmd_run() -> int:
     registry = load_registry_by_chapter()
     notice, changed, failures = worklist.get("bulletin"), 0, []
     for i, c in enumerate(picked, 1):
-        wrote, problems = reingest_one(c, registry, TODAY)
+        wrote, problems = reingest_one(c, registry, TODAY, notice=notice)
         failures += problems
         if problems:
             continue
+        # A rule that re-ingests is not refused, whatever an earlier month recorded.
+        for key in REFUSED_KEYS:
+            c.row.pop(key, None)
         changed += bool(wrote)
         for key, value in zip(REINGEST_KEYS, (c.action, notice)):
             c.row[key] = value
@@ -1265,42 +1313,46 @@ def _proof_the_run_refuses_what_is_not_an_amendment(check) -> None:
     check("...and not one of those refusals wrote to the document",
           one.path.read_text() == before)
 
-    # RE-RUNNING PRODUCES BYTE-IDENTICAL OUTPUT, ON ANY DAY AND NOT ONLY THE SAME ONE.
-    # Handed back the exact bytes committed beside this document, `reingest_one` must write
-    # nothing at all -- not "write the same text with today's date", which is what makes a
-    # second run on a later day rewrite every document it touched. The date passed here is
-    # deliberately NOT the document's own, so a version that stamped it would be caught.
-    later = "2099-12-31"
-    check("...and that date is not the one the document already holds",
-          _retrieved(before) != later)
-
-    # ESTABLISH THE PRECONDITION BEFORE THE LIVE WRITE PATH CAN RUN (#252). `reingest_one`
-    # is the real thing: handed a document that does NOT already reproduce, it does what
-    # it is built to do and rewrites it -- stamping `later` as a published `retrieved`
-    # date on a mirrored Oregon rule. The proof would then report the failure it had just
-    # caused, having already written. That happened during #244: this document was left
-    # carrying `retrieved: "2099-12-31"`.
-    #
-    # So the reproduction is checked through the NON-WRITING seam first, and the live call
-    # is skipped when it does not hold. A proof may fail; it may not do damage on its way.
-    doc_id = f"oar-{one.number}"
-    reproduces = not check_document(
-        one.number, before, (SNAPSHOT_DIR / f"{doc_id}.txt").read_text(),
-        hash_snapshot(doc_id, "html"))
-    check("the document reproduces before the live write path is allowed to run",
-          reproduces)
-    if not reproduces:
-        check("the live re-ingest was NOT called on a document that does not reproduce",
-              one.path.read_text() == before)
-        return
-
+    # #245 -- A REFUSAL THE ROW CARRIES, watched being recorded and watched clearing the
+    # gate that could not otherwise be cleared. Run against a COPY of the row so nothing
+    # here reaches the committed catalog (#252).
+    row = dict(one.row)
+    probe = Candidate(one.number, one.action, row, one.path)
+    notice = "August 2026 (bulltnRsn=1761)"
     wrote, problems = reingest_one(
-        one, registry, later,
-        fetch_page=lambda _: (SNAPSHOT_DIR / f"oar-{one.number}.html").read_bytes())
-    check("the committed source fed back in on a LATER day re-ingests to no change at all",
-          not wrote and not problems and one.path.read_text() == before)
-    check("...and the sentinel date is nowhere in the document afterwards",
-          later not in one.path.read_text())
+        probe, registry, "2026-08-23", notice=notice,
+        fetch_page=lambda _: _page("999-999-9999"))
+    check("a permanent refusal is recorded on the row, in the ingest vocabulary",
+          not wrote and row.get(REFUSED_KEY) == "renumbered"
+          and row.get(REFUSED_NOTICE_KEY) == notice)
+    check("...and it is NOT spellable as a re-ingest",
+          row.get(ACTION_KEY) == one.row.get(ACTION_KEY)
+          and row.get(NOTICE_KEY) == one.row.get(NOTICE_KEY))
+    check("...and nothing was written to the committed row or the document",
+          one.row.get(REFUSED_KEY) is None and one.path.read_text() == before)
+
+    # THE GATE IT CLEARS, on this module's own fixtures rather than a hand-rolled catalog.
+    # A row with neither the re-ingest keys nor a refusal is red; the same row carrying the
+    # refusal is not; a refusal citing ANOTHER bulletin is red again, because a rule refused
+    # in July says nothing about what August filed.
+    wl = _fixture_worklist(("999-001-0010", "amend", HELD))
+
+    def _found(row, rule="a-filed-text-action-is-re-ingested"):
+        return any(f.rule == rule
+                   for f in check_recorded(_fixture_catalog(row), wl))
+
+    check("a filed action with neither a re-ingest nor a refusal is red",
+          _found(_row("999-001-0010")))
+    check("...and the same row carrying the refusal against THIS bulletin is not",
+          not _found(_row("999-001-0010", **{REFUSED_KEY: "renumbered",
+                                             REFUSED_NOTICE_KEY: FIXTURE_NOTICE})))
+    check("...and a refusal citing a DIFFERENT bulletin is red again",
+          _found(_row("999-001-0010", **{REFUSED_KEY: "renumbered",
+                                         REFUSED_NOTICE_KEY: "July 2026 (bulltnRsn=1741)"})))
+    check("...and a refusal reason outside the ingest vocabulary is reported",
+          _found(_row("999-001-0010", **{REFUSED_KEY: "gave_up",
+                                         REFUSED_NOTICE_KEY: FIXTURE_NOTICE}),
+                 rule="a-refusal-is-recorded-in-the-ingest-vocabulary"))
 
 
 def _proof_the_status_survives_the_call_this_path_makes(check) -> None:

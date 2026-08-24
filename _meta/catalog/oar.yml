@@ -1,6 +1,10 @@
 note: 'Discovery map of ALL OAR chapters (Gate #1 input for the mass import): every chapter''s divisions
-  and rule numbers, discovered from oregon.public.law chapter/division pages (static HTML; the official
-  OARD listings are JS-rendered). Rule CONTENT always comes from the official OARD per-rule URL at ingest
+  and rule numbers, discovered from oregon.public.law chapter/division pages. That mirror is INCOMPLETE
+  and the official listings are not JS-rendered as this note used to claim (#257): OARD''s own chapter
+  listing is static HTML -- 433 rule numbers in one page -- while oregon.public.law serves the same 34,781-byte
+  not-found page for chapters 419 and 950, which this corpus mirrors and which hold 259 and 44 documents.
+  `selectedChapter` on OARD is an internal id, not the chapter number, which is why switching the discovery
+  source is its own decision. Rule CONTENT always comes from the official OARD per-rule URL at ingest
   time, never from the mirror. Per-rule status: ''ingested'' means a full document exists in rules/; renumbered/not_served/not_sliceable
   are recorded by ingest_oar.py. Chapter titles from the agency registry. TWO FIELDS ARE SPELLED ''status''
   AND THEY MEAN DIFFERENT THINGS (CONTEXT.md, *Legal status* / *Ingest status*): rules[].status above
