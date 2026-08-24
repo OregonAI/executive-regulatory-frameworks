@@ -1,6 +1,6 @@
 # STATUS — Oregon Executive Regulatory Frameworks
 
-Generated 2026-08-22. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-08-23. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
@@ -21,7 +21,7 @@ Generated 2026-08-22. Non-authoritative; see DISCLAIMER.md.
 
 ## Source manifest
 
-1975 declared source(s) across 19 group(s) in `sources`.
+2497 declared source(s) across 19 group(s) in `sources`.
 
 ## Freshness (reverify every 90 days)
 

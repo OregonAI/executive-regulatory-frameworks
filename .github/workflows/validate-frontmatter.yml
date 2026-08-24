@@ -338,6 +338,14 @@ jobs:
         run: python3 src/oar_watch_coverage.py --check
       - name: ...and that rule must be able to fail
         run: python3 src/oar_watch_coverage.py --selftest
+
+      # #256: the watched set is seeded FROM the worklist, so all four of ADR 0006's cases
+      # are reachable. This fails the moment the worklist moves and the manifest is not
+      # re-seeded -- which is the forcing function, since the worklist refresh is manual.
+      - name: Every rule the Bulletin named and this corpus holds must be watched
+        run: python3 src/seed_oar_watch.py --check
+      - name: ...and that rule must be able to fail
+        run: python3 src/seed_oar_watch.py --selftest
       - name: Agency registry must keep its contract
         run: python3 src/catalog_agencies.py --check
       # WHAT `name` MEANS IS ABOUT TO CHANGE (ADR 0003), and nothing in the data shows which
