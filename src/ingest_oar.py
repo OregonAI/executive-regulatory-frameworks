@@ -27,7 +27,7 @@ from html_to_text import html_to_text
 from ingest_lib import fetch
 from legal_status import bulletin_status_by_rule, resolve
 from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, content_hash, normalize_ws,
-                      normalize_volatile, rule_title_from_html, snapshot_slice, ws_only, snapshot_text)
+                      normalize_volatile, rule_title_from_html, snapshot_slice, ws_only, snapshot_text, division_status)
 
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
 GROUP = REPO_ROOT / "_meta/sources/oar.yml"
@@ -76,7 +76,7 @@ def cmd_enumerate(chapters):
             existing = {r["number"]: r for r in d.get("rules", []) if isinstance(d.get("rules"), list)} \
                 if isinstance(d.get("rules"), list) else {}
             d["rules"] = [existing.get(n, {"number": n, "status": "not_ingested"}) for n in rules]
-            d["status"] = d.get("status") if any(r.get("status") == "ingested" for r in d["rules"]) else "not_ingested"
+            d["status"] = division_status(d["rules"])
             if div not in by_div:
                 c["divisions"].append(d)
                 by_div[div] = d
