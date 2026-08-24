@@ -91,6 +91,22 @@ def served_rule_number(text):
     return m.group(1) if m else None
 
 
+# OARD serves a RESULTS LIST, not a rule, when a number is ambiguous -- two rules sharing
+# 836-054-0020 in the same chapter, for instance. The page still carries the number, still
+# slices to something over the length floor, and still hashes; every existing guard passes
+# it. What gets published is the titles of the rules that matched plus the site footer,
+# under a document claiming to mirror one rule (#251).
+#
+# Declared once and read by both ingest paths: a predicate the two disagreed on would let
+# the refresh republish exactly what the first ingest refused.
+_RESULTS_LIST = re.compile(r"returned \d+ results\.\s*New Search")
+
+
+def is_search_results_page(ws_text: str) -> bool:
+    """True when this OARD page is a search-results list rather than a single rule."""
+    return bool(_RESULTS_LIST.search(ws_text))
+
+
 # THE INGESTER NO LONGER NAMES THE LEGAL STATUS. `status: current` used to be a hardcoded
 # literal in the template below, written onto every one of the 36,953 rule documents this
 # pipeline created. That is fine on a FIRST ingest -- nothing better is known about a rule
@@ -216,6 +232,13 @@ def cmd_ingest(chapters, skip_group=False):
                 # OARD's not-found shell echoes the requested number in its search box
                 if served and re.search(re.escape(served) + r"\s+not found", wt):
                     served = None
+                if is_search_results_page(wt):
+                    # NOT `not_served`: OARD served something, and it is not this rule.
+                    r["status"] = "not_sliceable"
+                    r["note"] = ("OARD serves a search-results list for this number, not a "
+                                 "rule -- more than one rule shares it (#251)")
+                    skipped += 1
+                    continue
                 if not served:
                     r["status"] = "not_served"
                     r["note"] = "OARD page contains no rule number (rule likely repealed)"

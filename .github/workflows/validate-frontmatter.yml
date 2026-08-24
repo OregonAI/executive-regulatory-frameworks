@@ -315,6 +315,21 @@ jobs:
         run: python3 src/snapshot_identity.py --check
       - name: Snapshot-identity gate must be able to fail (selftest)
         run: python3 src/snapshot_identity.py --selftest
+
+      # #253: a document publishes its source hash TWICE and corpus-verify-provenance
+      # reads only one. #244 left 36,952 provenance lines quoting a hash of nothing and
+      # every gate stayed green.
+      - name: A document's two spellings of its source hash must agree
+        run: python3 src/provenance_spelling.py --check
+      - name: ...and that rule must be able to fail
+        run: python3 src/provenance_spelling.py --selftest
+
+      # #251: OARD serves a search-results list when a rule number is ambiguous. 39
+      # documents published one as the rule. Recorded, not deleted -- ADR 0006.
+      - name: A document mirroring an OARD results list must be recorded as one
+        run: python3 src/results_page_documents.py --check
+      - name: ...and that rule must be able to fail
+        run: python3 src/results_page_documents.py --selftest
       - name: Agency registry must keep its contract
         run: python3 src/catalog_agencies.py --check
       # WHAT `name` MEANS IS ABOUT TO CHANGE (ADR 0003), and nothing in the data shows which
