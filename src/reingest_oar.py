@@ -91,7 +91,7 @@ from enrich_oar import derive as enrich_derive
 from enrich_oar import load_registry_by_chapter
 from html_to_text import html_to_text
 from ingest_lib import fetch, flow_to_lines
-from ingest_oar import served_rule_number
+from ingest_oar import is_search_results_page, served_rule_number
 from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, Checks, content_hash, hash_snapshot,
                       normalize_volatile, snapshot_slice, ws_only, snapshot_text)
 
@@ -704,6 +704,12 @@ def reingest_one(candidate, registry_by_chapter, today, fetch_page=None) -> tupl
             f"OARD serves {served} for this number. A re-ingest that wrote that page into "
             f"this document would publish one rule's text under another's citation -- the "
             "125-800 -> 128-030 lesson. Renumbering is recorded by the catalog, not here")]
+    if is_search_results_page(ws_only(text)):
+        return False, [Failure(
+            "a-filed-text-action-is-re-ingested", f"{number}",
+            "OARD serves a search-results list for this number rather than a rule -- more "
+            "than one rule shares it. Refreshing from it would publish the titles of the "
+            "rules that matched, plus the site footer, as this rule's text (#251)")]
     body = snapshot_slice(doc_id, doc_id, text)
     if len(body) < 100:
         return False, [Failure(
@@ -1245,6 +1251,10 @@ def _proof_the_run_refuses_what_is_not_an_amendment(check) -> None:
              lambda _: _page("999-999-9999")),
             ("the page carries no sliceable rule body",
              lambda _: _page(one.number, "short")),
+            ("the page is a search-results list rather than a rule (#251)",
+             lambda _: _page(one.number,
+                             f"{one.number} returned 2 results. New Search | Modify "
+                             f"Search Rows per page: 25 50 75 100 " + "x" * 200)),
     ):
         wrote, problems = run(page)
         check(f"a re-ingest is refused when {name}",
@@ -1263,11 +1273,34 @@ def _proof_the_run_refuses_what_is_not_an_amendment(check) -> None:
     later = "2099-12-31"
     check("...and that date is not the one the document already holds",
           _retrieved(before) != later)
+
+    # ESTABLISH THE PRECONDITION BEFORE THE LIVE WRITE PATH CAN RUN (#252). `reingest_one`
+    # is the real thing: handed a document that does NOT already reproduce, it does what
+    # it is built to do and rewrites it -- stamping `later` as a published `retrieved`
+    # date on a mirrored Oregon rule. The proof would then report the failure it had just
+    # caused, having already written. That happened during #244: this document was left
+    # carrying `retrieved: "2099-12-31"`.
+    #
+    # So the reproduction is checked through the NON-WRITING seam first, and the live call
+    # is skipped when it does not hold. A proof may fail; it may not do damage on its way.
+    doc_id = f"oar-{one.number}"
+    reproduces = not check_document(
+        one.number, before, (SNAPSHOT_DIR / f"{doc_id}.txt").read_text(),
+        hash_snapshot(doc_id, "html"))
+    check("the document reproduces before the live write path is allowed to run",
+          reproduces)
+    if not reproduces:
+        check("the live re-ingest was NOT called on a document that does not reproduce",
+              one.path.read_text() == before)
+        return
+
     wrote, problems = reingest_one(
         one, registry, later,
         fetch_page=lambda _: (SNAPSHOT_DIR / f"oar-{one.number}.html").read_bytes())
     check("the committed source fed back in on a LATER day re-ingests to no change at all",
           not wrote and not problems and one.path.read_text() == before)
+    check("...and the sentinel date is nowhere in the document afterwards",
+          later not in one.path.read_text())
 
 
 def _proof_the_status_survives_the_call_this_path_makes(check) -> None:

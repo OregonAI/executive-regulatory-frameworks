@@ -1829,6 +1829,9 @@ chapters:
     - number: 123-042-0020
       status: ingested
       path: rules/123/042/oar-123-042-0020.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 123-042-0026
       status: ingested
       path: rules/123/042/oar-123-042-0026.md
@@ -5775,6 +5778,9 @@ chapters:
     - number: 137-045-0070
       status: ingested
       path: rules/137/045/oar-137-045-0070.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 137-045-0080
       status: ingested
       path: rules/137/045/oar-137-045-0080.md
@@ -6907,6 +6913,9 @@ chapters:
     - number: 137-080-0020
       status: ingested
       path: rules/137/080/oar-137-080-0020.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 137-080-0025
       status: ingested
       path: rules/137/080/oar-137-080-0025.md
@@ -10787,6 +10796,9 @@ chapters:
     - number: 150-308-0540
       status: ingested
       path: rules/150/308/oar-150-308-0540.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 150-308-0550
       status: ingested
       path: rules/150/308/oar-150-308-0550.md
@@ -14024,6 +14036,9 @@ chapters:
     - number: 165-014-0090
       status: ingested
       path: rules/165/014/oar-165-014-0090.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 165-014-0100
       status: ingested
       path: rules/165/014/oar-165-014-0100.md
@@ -14080,6 +14095,9 @@ chapters:
     - number: 165-020-0125
       status: ingested
       path: rules/165/020/oar-165-020-0125.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 165-020-0445
       status: ingested
       path: rules/165/020/oar-165-020-0445.md
@@ -14220,6 +14238,9 @@ chapters:
     - number: 166-020-0045
       status: ingested
       path: rules/166/020/oar-166-020-0045.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
   - division: '25'
     title: Microfilm Standards
     status: not_ingested
@@ -18876,6 +18897,9 @@ chapters:
     - number: 255-075-0001
       status: ingested
       path: rules/255/075/oar-255-075-0001.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 255-075-0002
       status: ingested
       path: rules/255/075/oar-255-075-0002.md
@@ -24470,6 +24494,9 @@ chapters:
     - number: 309-022-0192
       status: ingested
       path: rules/309/022/oar-309-022-0192.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 309-022-0195
       status: ingested
       path: rules/309/022/oar-309-022-0195.md
@@ -27488,6 +27515,9 @@ chapters:
     - number: 331-430-0000
       status: ingested
       path: rules/331/430/oar-331-430-0000.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 331-430-0030
       status: ingested
       path: rules/331/430/oar-331-430-0030.md
@@ -29484,6 +29514,9 @@ chapters:
     - number: 333-015-0090
       status: ingested
       path: rules/333/015/oar-333-015-0090.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 333-015-0100
       status: ingested
       path: rules/333/015/oar-333-015-0100.md
@@ -30600,6 +30633,9 @@ chapters:
     - number: 333-030-0085
       status: ingested
       path: rules/333/030/oar-333-030-0085.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 333-030-0090
       status: ingested
       path: rules/333/030/oar-333-030-0090.md
@@ -40784,6 +40820,9 @@ chapters:
     - number: 340-222-0090
       status: ingested
       path: rules/340/222/oar-340-222-0090.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
   - division: '223'
     title: Regional Haze Rules
     status: not_ingested
@@ -42840,6 +42879,9 @@ chapters:
     - number: 345-020-0040
       status: ingested
       path: rules/345/020/oar-345-020-0040.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 345-020-0060
       status: ingested
       path: rules/345/020/oar-345-020-0060.md
@@ -45426,6 +45468,9 @@ chapters:
     - number: 409-015-0022
       status: ingested
       path: rules/409/015/oar-409-015-0022.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 409-015-0030
       status: ingested
       path: rules/409/015/oar-409-015-0030.md
@@ -47671,6 +47716,9 @@ chapters:
     - number: 410-146-0080
       status: ingested
       path: rules/410/146/oar-410-146-0080.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 410-146-0085
       status: ingested
       path: rules/410/146/oar-410-146-0085.md
@@ -55699,6 +55747,9 @@ chapters:
     - number: 415-065-0070
       status: ingested
       path: rules/415/065/oar-415-065-0070.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 415-065-0075
       status: ingested
       path: rules/415/065/oar-415-065-0075.md
@@ -57914,6 +57965,9 @@ chapters:
     - number: 436-105-0510
       status: ingested
       path: rules/436/105/oar-436-105-0510.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 436-105-0511
       status: ingested
       path: rules/436/105/oar-436-105-0511.md
@@ -66803,6 +66857,9 @@ chapters:
     - number: 575-037-0040
       status: ingested
       path: rules/575/037/oar-575-037-0040.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 575-037-0051
       status: ingested
       path: rules/575/037/oar-575-037-0051.md
@@ -69430,6 +69487,9 @@ chapters:
     - number: 581-023-0006
       status: ingested
       path: rules/581/023/oar-581-023-0006.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 581-023-0008
       status: ingested
       path: rules/581/023/oar-581-023-0008.md
@@ -71869,6 +71929,9 @@ chapters:
     - number: 586-030-0025
       status: ingested
       path: rules/586/030/oar-586-030-0025.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 586-030-0032
       status: ingested
       path: rules/586/030/oar-586-030-0032.md
@@ -76596,6 +76659,9 @@ chapters:
     - number: 629-001-0030
       status: ingested
       path: rules/629/001/oar-629-001-0030.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 629-001-0035
       status: ingested
       path: rules/629/001/oar-629-001-0035.md
@@ -77860,6 +77926,9 @@ chapters:
     - number: 629-620-0200
       status: ingested
       path: rules/629/620/oar-629-620-0200.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 629-620-0300
       status: ingested
       path: rules/629/620/oar-629-620-0300.md
@@ -82869,6 +82938,9 @@ chapters:
     - number: 635-140-0025
       status: ingested
       path: rules/635/140/oar-635-140-0025.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
   - division: '160'
     title: Wildlife Management Plan
     status: not_ingested
@@ -85240,6 +85312,9 @@ chapters:
     - number: 660-001-0105
       status: ingested
       path: rules/660/001/oar-660-001-0105.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 660-001-0201
       status: ingested
       path: rules/660/001/oar-660-001-0201.md
@@ -85541,6 +85616,9 @@ chapters:
     - number: 660-012-0016
       status: ingested
       path: rules/660/012/oar-660-012-0016.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 660-012-0020
       status: ingested
       path: rules/660/012/oar-660-012-0020.md
@@ -86016,6 +86094,9 @@ chapters:
     - number: 660-025-0230
       status: ingested
       path: rules/660/025/oar-660-025-0230.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 660-025-0250
       status: ingested
       path: rules/660/025/oar-660-025-0250.md
@@ -88384,6 +88465,9 @@ chapters:
     - number: 690-080-0010
       status: ingested
       path: rules/690/080/oar-690-080-0010.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
   - division: '82'
     title: Acceptance of Applications for Water Uses in Addition to Classified Uses
     status: not_ingested
@@ -95629,6 +95713,9 @@ chapters:
     - number: 735-080-0040
       status: ingested
       path: rules/735/080/oar-735-080-0040.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 735-080-0046
       status: ingested
       path: rules/735/080/oar-735-080-0046.md
@@ -100181,6 +100268,9 @@ chapters:
     - number: 804-010-0020
       status: ingested
       path: rules/804/010/oar-804-010-0020.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
   - division: '20'
     title: Examination Procedures
     status: not_ingested
@@ -100476,6 +100566,9 @@ chapters:
     - number: 808-001-0035
       status: ingested
       path: rules/808/001/oar-808-001-0035.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 808-001-0050
       status: ingested
       path: rules/808/001/oar-808-001-0050.md
@@ -100996,6 +101089,9 @@ chapters:
     - number: 808-005-0010
       status: ingested
       path: rules/808/005/oar-808-005-0010.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 808-005-0020
       status: ingested
       path: rules/808/005/oar-808-005-0020.md
@@ -102842,14 +102938,23 @@ chapters:
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 813-005-0025
       status: ingested
       path: rules/813/005/oar-813-005-0025.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 813-005-0030
       status: ingested
       path: rules/813/005/oar-813-005-0030.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 813-005-0040
       status: ingested
       path: rules/813/005/oar-813-005-0040.md
@@ -106578,6 +106683,9 @@ chapters:
     - number: 836-010-0014
       status: ingested
       path: rules/836/010/oar-836-010-0014.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 836-010-0021
       status: ingested
       path: rules/836/010/oar-836-010-0021.md
@@ -108640,6 +108748,9 @@ chapters:
     - number: 836-054-0020
       status: ingested
       path: rules/836/054/oar-836-054-0020.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 836-054-0201
       status: ingested
       path: rules/836/054/oar-836-054-0201.md
@@ -117504,6 +117615,9 @@ chapters:
     - number: 858-010-0037
       status: ingested
       path: rules/858/010/oar-858-010-0037.md
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 858-010-0038
       status: ingested
       path: rules/858/010/oar-858-010-0038.md
@@ -123872,6 +123986,9 @@ chapters:
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
+        shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
+        deleted: ADR 0006, deleting breaks every citation to it'
     - number: 918-674-0033
       status: ingested
       path: rules/918/674/oar-918-674-0033.md
