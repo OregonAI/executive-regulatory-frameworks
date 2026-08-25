@@ -524,4 +524,4 @@ the sibling corpus holds no such document.
 - Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-public-transit.pdf> · retrieved 2026-07-25 · sha256 `6bb9d9df67eebe96cf2fbe576f64d3096b3cd7d4abdad59fc568f78d7d4c1321`
 - Snapshot: `_meta/snapshots/schedule-public-transit.txt` (extracted text) and `_meta/snapshots/schedule-public-transit.pdf` (raw source, 14 pages).
 - Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 14 pages. No repeated publisher-chrome header/footer or bare page-number lines were found. Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
-- See [CHANGELOG](../CHANGELOG.md).
+- See [CHANGELOG](./CHANGELOG.md).

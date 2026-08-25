@@ -18,3 +18,9 @@ jobs:
       exclude-paths: |
         _meta/snapshots
         _meta/templates
+      # BY URL, AND ONLY FOR LINKS NOTHING HERE CAN FIX. Each was checked by hand before
+      # being listed; a host that merely failed once is NOT here, because excluding a
+      # working link is how a link check stops being one.
+      exclude-urls: |
+        ^http://deq05/
+        ^https://sharedsystems\.dhsoha\.state\.or\.us/

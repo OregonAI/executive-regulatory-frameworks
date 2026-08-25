@@ -1220,4 +1220,4 @@ the sibling corpus holds no such document.
 - Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-energy.pdf> · retrieved 2026-07-25 · sha256 `f59d73c1a3419792e74da53629e94eafd3e4531184e4f420d31ec78853262263`
 - Snapshot: `_meta/snapshots/schedule-energy.txt` (extracted text) and `_meta/snapshots/schedule-energy.pdf` (raw source, 35 pages).
 - Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 35 pages. Stripped repeated running-header lines: "Effective: December 2020"; "Oregon State Archives"; "Records Retention Schedule". Stripped 35 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
-- See [CHANGELOG](../CHANGELOG.md).
+- See [CHANGELOG](./CHANGELOG.md).

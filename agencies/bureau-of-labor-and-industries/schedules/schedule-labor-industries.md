@@ -747,4 +747,4 @@ the sibling corpus holds no such document.
 - Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-labor-industries.pdf> · retrieved 2026-07-25 · sha256 `365c95893b1304cd33b6f79673f96b17463d602265c87358643df55f60f50454`
 - Snapshot: `_meta/snapshots/schedule-labor-industries.txt` (extracted text) and `_meta/snapshots/schedule-labor-industries.pdf` (raw source, 21 pages).
 - Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 21 pages. Stripped repeated running-header lines: "Edition: September 2015"; "Oregon State Archives"; "Records Retention Schedule". Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
-- See [CHANGELOG](../CHANGELOG.md).
+- See [CHANGELOG](./CHANGELOG.md).

@@ -3165,4 +3165,4 @@ the sibling corpus holds no such document.
 - Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-agriculture.pdf> · retrieved 2026-07-25 · sha256 `67d72d6641a008dd90874537c7318e184a9358c7b8914b1b46a279eac25e0a20`
 - Snapshot: `_meta/snapshots/schedule-agriculture.txt` (extracted text) and `_meta/snapshots/schedule-agriculture.pdf` (raw source, 82 pages).
 - Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 82 pages. Stripped repeated running-header lines: "Effective Date: October 2022"; "Oregon State Archives"; "Records Retention Schedule". Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
-- See [CHANGELOG](../CHANGELOG.md).
+- See [CHANGELOG](./CHANGELOG.md).
