@@ -71,7 +71,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: OregonAI/corpus-toolkit
-          ref: v1.29.0
+          ref: v1.30.0
           path: .toolkit
       - run: pip install ./.toolkit
       # content_hash normalizes PDFs via pdftotext, same as the drift workflow. Without it
