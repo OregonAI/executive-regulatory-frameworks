@@ -264,6 +264,11 @@ jobs:
         run: python3 src/build_ors_disposition.py --check
       - name: llms.txt must be current
         run: python3 src/build_llms.py --check
+      # #237: staleness is not enough. llms.txt was CURRENT and wrong -- the OAR count came
+      # from the corpus and the chapter list from the discovery map, so 303 mirrored
+      # documents were named nowhere while the sentence around them said 36,953.
+      - name: ...and what we publish must name every chapter we mirror
+        run: python3 src/build_llms.py --selftest
       - name: Agency overview must be current
         run: python3 src/build_agency_index.py --check
       - name: Agency authority-graph visualization must be current
