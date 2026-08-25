@@ -281,4 +281,4 @@ the sibling corpus holds no such document.
 - Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-library.pdf> · retrieved 2026-07-25 · sha256 `a832eebe84be7622ae62a87a431832087648e3afa187919f73ac31ff3818ba13`
 - Snapshot: `_meta/snapshots/schedule-library.txt` (extracted text) and `_meta/snapshots/schedule-library.pdf` (raw source, 7 pages).
 - Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 7 pages. No repeated publisher-chrome header/footer or bare page-number lines were found. Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
-- See [CHANGELOG](../CHANGELOG.md).
+- See [CHANGELOG](./CHANGELOG.md).

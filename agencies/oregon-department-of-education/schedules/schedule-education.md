@@ -3924,4 +3924,4 @@ the sibling corpus holds no such document.
 - Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-education.pdf> · retrieved 2026-07-25 · sha256 `5c7e311e1040c87427e408dcb418c2dba7d947fcb7a04f780732e7a82cb9efc4`
 - Snapshot: `_meta/snapshots/schedule-education.txt` (extracted text) and `_meta/snapshots/schedule-education.pdf` (raw source, 116 pages).
 - Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 116 pages. Stripped repeated running-header lines: "Edition: May, 2007"; "OREGON STATE ARCHIVES"; "Records Retention Schedule". Stripped 115 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
-- See [CHANGELOG](../CHANGELOG.md).
+- See [CHANGELOG](./CHANGELOG.md).

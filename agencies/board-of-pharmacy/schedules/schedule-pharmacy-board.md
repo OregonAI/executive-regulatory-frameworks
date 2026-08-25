@@ -214,4 +214,4 @@ the sibling corpus holds no such document.
 - Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-pharmacy-board.pdf> · retrieved 2026-07-25 · sha256 `eb951fdbdffa1ea11c0b5e234255970fd2403f50cd4cc1688dde338869a83289`
 - Snapshot: `_meta/snapshots/schedule-pharmacy-board.txt` (extracted text) and `_meta/snapshots/schedule-pharmacy-board.pdf` (raw source, 4 pages).
 - Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 4 pages. Stripped repeated running-header lines: "Edition: May 2018"; "Oregon State Archives"; "Records Retention Schedule". Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
-- See [CHANGELOG](../CHANGELOG.md).
+- See [CHANGELOG](./CHANGELOG.md).

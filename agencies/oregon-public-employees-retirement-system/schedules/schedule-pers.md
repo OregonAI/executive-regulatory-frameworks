@@ -903,4 +903,4 @@ the sibling corpus holds no such document.
 - Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-pers.pdf> · retrieved 2026-07-25 · sha256 `a7a939e51367d34050d8c6015d90cbe506a03d699f695a0297f704c49425901a`
 - Snapshot: `_meta/snapshots/schedule-pers.txt` (extracted text) and `_meta/snapshots/schedule-pers.pdf` (raw source, 27 pages).
 - Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 27 pages. Stripped repeated running-header lines: "Edition: Feb. 2012"; "OREGON STATE ARCHIVES"; "Records Retention Schedule". Stripped 26 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
-- See [CHANGELOG](../CHANGELOG.md).
+- See [CHANGELOG](./CHANGELOG.md).

@@ -3337,4 +3337,4 @@ the sibling corpus holds no such document.
 - Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-housing.pdf> · retrieved 2026-07-25 · sha256 `c8e18ace47ff0f4b8de88fd96d3528dc28b09beb147b15979875d5531e61c831`
 - Snapshot: `_meta/snapshots/schedule-housing.txt` (extracted text) and `_meta/snapshots/schedule-housing.pdf` (raw source, 97 pages).
 - Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 97 pages. Stripped repeated running-header lines: "Edition: July 2022"; "Oregon State Archives"; "Records Retention Schedule". Stripped 96 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
-- See [CHANGELOG](../CHANGELOG.md).
+- See [CHANGELOG](./CHANGELOG.md).
