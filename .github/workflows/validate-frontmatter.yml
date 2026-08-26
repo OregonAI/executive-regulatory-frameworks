@@ -25,7 +25,24 @@ jobs:
 
   generated-views:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    # MEASURED, not guessed: 22.4 minutes for 71 gates on a warm local checkout
+    # (2026-08-25), and a CI runner is slower -- cold pip installs, shared hardware, no
+    # warm page cache. The job had been hitting the 30-minute cap and being CANCELLED,
+    # which is worse than failing: `cancelled` reads as somebody's choice, so nothing on
+    # `main` had actually completed this sweep for two days while the count grew from 55
+    # gates to 71.
+    #
+    # 60 is headroom, not a target. The slowest gates are full-corpus walks that will keep
+    # getting slower as the corpus grows:
+    #
+    #   206.7s  what we publish names every chapter we mirror   (llms.txt build)
+    #   159.2s  review queue must be current
+    #   107.1s  citation schemes must resolve, and refuse
+    #   100.2s  llms.txt must be current
+    #
+    # Splitting this into parallel jobs is the durable answer and is filed separately;
+    # raising the cap is what stops `main` going unverified in the meantime.
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
         with:

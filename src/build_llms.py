@@ -60,6 +60,9 @@ def scan_bodies():
     return dict(bodies)
 
 
+_MIRRORED_CACHE: dict = {}
+
+
 def mirrored_oar_chapters(cat=None):
     """THE CHAPTERS THIS CORPUS MIRRORS, read from `rules/` -- with titles, sorted.
 
@@ -75,6 +78,11 @@ def mirrored_oar_chapters(cat=None):
     Titles come from the catalog where it has one and the agency registry otherwise, which
     is where the catalog's own titles come from.
     """
+    # MEMOISED because this walks every rule document, and `--selftest` asks five times.
+    # Unmemoised it was the slowest gate in the whole sweep at 207s of a 30-minute budget
+    # -- five rglobs over 36,953 files to answer one question that cannot change mid-run.
+    if "v" in _MIRRORED_CACHE and cat is None:
+        return _MIRRORED_CACHE["v"]
     cat = cat if cat is not None else _cat("oar")
     titles = {str(c["chapter"]): c.get("title") for c in cat.get("chapters") or []}
     reg = yaml.safe_load((REPO_ROOT / "_meta/catalog/agencies.yml").read_text())
@@ -99,6 +107,7 @@ def mirrored_oar_chapters(cat=None):
         n = sum(1 for _ in d.rglob("oar-*.md"))
         if n:
             out.append((d.name, titles.get(d.name), n))
+    _MIRRORED_CACHE["v"] = out
     return out
 
 
