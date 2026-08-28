@@ -523,7 +523,7 @@ jobs:
 
   generated-views-shard-4:
     runs-on: ubuntu-latest
-    # 21 gate(s), 132.8s measured locally (warm checkout) -- see .github/generated-views-manifest.yml.
+    # 23 gate(s), 222.7s measured locally (warm checkout, 2026-08-28) -- see .github/generated-views-manifest.yml.
     # 55: see shard-1's comment -- comfortably above this shard's own summed per-step budget.
     timeout-minutes: 55
     steps:
