@@ -11,6 +11,23 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-08-27 — **The agency registry's own `note` was stale, and nothing checked it** (#185).
+  The top-level prose above `organizations` in `agencies.yml` — this file's self-description,
+  read by three sibling corpora — drifted from 669 characters describing 11 of the (then) 15
+  row fields, to 15 of a field set that had since grown to 16 with `curator_note` (#178):
+  measured on this branch, `oar_chapter`, `source_url`, `aliases`, `note` and `curator_note`
+  were declared in `FIELDS` and named nowhere in the note. Only a full `--refresh` — which
+  re-fetches all 189 chapter pages — rewrites the committed copy, so each prior ticket that
+  changed the field set updated the note text in `cmd_refresh()`'s source but left the
+  committed file behind, and nothing compared the two. `check_registry()` gains
+  `note-covers-fields`: every key `FIELDS` declares must be named somewhere in the registry's
+  own `note`, checked against `fields` itself rather than a second hand-maintained list, the
+  same reason `CURATED_KEYS` is derived rather than restated. Both the committed note and the
+  code-side literal `cmd_refresh()` writes are corrected to name all 16 fields and are now
+  byte-identical, so a future `--refresh` costs this paragraph a zero-line diff rather than a
+  reversion. `--selftest` grew from 71 to 72 demonstrations
+  (`note-missing-a-declared-field`, watched failing against the real gap — `curator_note` —
+  before the fix landed).
 - 2026-08-27 — **`note-requires-manual` refused the scrape's own fetch report** (#178). The
   guard #178 added to stop a hand-typed `note` from being silently rebuilt away by the next
   `--refresh` fired on the wrong condition: it refused ANY `note` on a row that was not

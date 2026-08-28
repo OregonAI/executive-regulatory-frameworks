@@ -1549,7 +1549,27 @@ def cmd_refresh():
                  "(src/link_enabling_authority.py), is NOT scraped, and is preserved "
                  "across --refresh. An ABSENT enabling_authority means nobody has reviewed "
                  "this body yet; it never means the body has no enabling authority, which "
-                 "is what the `none: ` form says and says with a reason."),
+                 "is what the `none: ` form says and says with a reason. "
+                 "oar_chapter is the OAR chapter this body's rules are filed under, "
+                 "scraped from the index tree; null on the chapterless rows is not a "
+                 "gap — a body is in this registry because it EXISTS, not because it "
+                 "issues rules. source_url is the chapter page each row was scraped "
+                 "from, null on those same rows. aliases, where present, are other "
+                 "names the same body is known by, including former names after a "
+                 "rename — hand-reviewed once, curated, and preserved across "
+                 "--refresh. note is scrape-only (#178): cmd_refresh() writes one of "
+                 "exactly three sentences into it, when a chapter page's title will "
+                 "not parse, its fetch fails, or a chapterless group's children "
+                 "disagree on a name prefix, and nothing else may live there, "
+                 "`manual` or not. curator_note holds hand-typed prose about a row "
+                 "instead, protected across --refresh the way das_agency_number is; "
+                 "the two rows carrying one today record why the row is `manual` at "
+                 "all, since the mirror's index omits the chapter. This paragraph is "
+                 "itself checked against FIELDS by name on every --check run "
+                 "(`note-covers-fields`, #185): a field FIELDS declares that these "
+                 "sentences do not mention fails the gate, so this note cannot go "
+                 "stale the way it did three times running before anything watched "
+                 "it."),
         "source_url": INDEX_URL,
         "retrieved": date.today().isoformat(),
         "organizations": sorted(orgs, key=lambda o: o["slug"]),
@@ -1937,6 +1957,27 @@ def check_registry(cat, fields=None) -> list:
         return [Failure("registry-populated", "agencies.yml",
                         "no bodies at all — every other rule is vacuously true of an "
                         "empty registry, so nothing was checked")]
+
+    # THE REGISTRY'S OWN `note`, AGAINST THE FIELDS IT ACTUALLY DECLARES (#185). `note` is
+    # this file's top-level self-description — read by three sibling corpora — and nothing
+    # compared it against FIELDS: it went stale describing eleven fields while rows carried
+    # fifteen, then again after #174 removed one and added four more, discovered only by
+    # someone reading it. The set checked against is DERIVED from `fields`, the same reason
+    # CURATED_KEYS is derived from FIELDS rather than restated (#165) — a second,
+    # hand-maintained list of "fields the note should cover" would drift exactly the way the
+    # note itself did. The bar is the field's name appearing anywhere in the prose, which is
+    # the same measurement this ticket's own triage used to find the fields the note had
+    # stopped naming — not a claim that a name-check proves the DESCRIPTION is current, only
+    # that a field added and never mentioned at all cannot pass silently again.
+    file_note = cat.get("note") if isinstance(cat, dict) else None
+    for key in sorted(fields):
+        if not isinstance(file_note, str) or key not in file_note:
+            failures.append(Failure(
+                "note-covers-fields", "agencies.yml",
+                f"field {key!r} is declared in FIELDS but is not named anywhere in the "
+                "registry's own top-level `note` — the note is this file's "
+                "self-description and a field it never mentions is one a reader of the "
+                "note alone would not know exists"))
 
     for i, o in enumerate(orgs):
         if not isinstance(o, dict):
@@ -2544,7 +2585,14 @@ def _fixture():
                         raw_index_name=None, source_url=None)
     gov["manual"] = True
     gov["aliases"] = ["Governor's Office"]
-    return {"organizations": [das, cfo, gov]}
+    # THE TOP-LEVEL `note`, WHICH `note-covers-fields` (#185) READS. Built from FIELDS
+    # itself rather than typed out, so adding a field to FIELDS without also touching this
+    # fixture does not itself start failing every case in _CASES — the same reason
+    # CURATED_KEYS is derived rather than restated. `_case_note_missing_a_declared_field`
+    # below is what actually exercises the rule; this is only the clean baseline every
+    # other case's fixture must already pass.
+    return {"note": "fixture note naming every field: " + ", ".join(sorted(FIELDS)),
+            "organizations": [das, cfo, gov]}
 
 
 def _case_undeclared_field(cat):
@@ -3050,6 +3098,17 @@ def _case_note_that_is_not_a_scrape_shape(cat):
     cat["organizations"][1]["note"] = "confirmed by phone with the agency, 2026-08-20"
 
 
+def _case_note_missing_a_declared_field(cat):
+    """The registry's own top-level `note` stops naming one field FIELDS declares — the
+    defect #185 measured against the real committed file three times running (669 chars
+    describing 11 of 15 fields, then 15 of a 15 that had become 16 with #178's
+    `curator_note`) before anything compared the two. `curator_note` is the field
+    actually missing on this branch before the fix in this commit, so the case is
+    grounded in the real drift rather than a field invented for the fixture."""
+    cat["note"] = cat["note"].replace("curator_note, ", "").replace(", curator_note", "")
+    assert "curator_note" not in cat["note"]   # the mutation removed the word, not a copy
+
+
 def _case_registry_emptied(cat):
     """Every row gone. A gate that reports a registry with no bodies in it as clean is a
     gate that passes without checking anything — and every rule below is vacuously true of
@@ -3107,6 +3166,8 @@ _CASES = [
     ("note-that-is-not-a-scrape-shape", _case_note_that_is_not_a_scrape_shape,
      "note-scrape-shape"),
     ("registry-emptied", _case_registry_emptied, "registry-populated"),
+    ("note-missing-a-declared-field", _case_note_missing_a_declared_field,
+     "note-covers-fields"),
     ("row-the-simulation-cannot-run-on", _case_row_the_simulation_cannot_run_on,
      "survives-refresh"),
     ("slug-the-scrape-would-not-produce", _case_slug_the_scrape_would_not_produce,
