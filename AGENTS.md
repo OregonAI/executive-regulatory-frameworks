@@ -563,11 +563,15 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   is declared ONCE, in that script's `CADENCES` table with the interval it means; the
   `recheck` enum in `_meta/schema/source-group.schema.json` is DERIVED from it
   (`--sync-schema` writes it, `--check` gates it in CI) so a cadence cannot exist on one side
-  only, and `--selftest` proves every one of those rules can fail. A group declaring a
-  cadence nobody declared is reported against the group — by `--check`, and by `--due` as
-  `UNKNOWN CADENCE`, which is neither DUE nor ok. `even_year_general_election` (765 days) is
-  the ballot-measure cycle and is deliberately NOT `biennial`, which is the odd-year
-  legislative session two years out of phase with it (ADR 0005's amendment). The
+  only, and `--selftest` proves every one of those rules can fail. `--check` also validates
+  every group in `_meta/sources/` against `source-group.schema.json` (#199), prints the
+  count checked, and FAILS — rather than passing on a silent `0 of 19` — if `jsonschema` is
+  not importable; `seed_oar_watch.py` calls the same function rather than running a second
+  copy. A group declaring a cadence nobody declared is reported against the group — by
+  `--check`, and by `--due` as `UNKNOWN CADENCE`, which is neither DUE nor ok.
+  `even_year_general_election` (765 days) is the ballot-measure cycle and is deliberately
+  NOT `biennial`, which is the odd-year legislative session two years out of phase with it
+  (ADR 0005's amendment). The
   `constitution` group is ONE source and ONE sha256 for the whole document, so a `CHANGED`
   line there says only that something moved: `python3 src/ingest_constitution.py --drift
   PAGE` is the diff that names WHICH sections' text moved, says nothing about the ones that

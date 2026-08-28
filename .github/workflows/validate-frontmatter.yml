@@ -417,9 +417,12 @@ jobs:
       - name: Relation kinds must match the derivation
         run: python3 src/derive_relation_kinds.py --check
       # The committed schema's `recheck` node against the declaration it is generated from,
-      # plus every source group's declared cadence against it. Reads committed data only
-      # (the schema and _meta/sources/*.yml), no network.
-      - name: Recheck cadences must be declared once
+      # plus every source group's declared cadence against it, plus every source group in
+      # _meta/sources/ against source-group.schema.json as a whole (#199) — a fast, local
+      # companion to corpus.yml's extra_schema_checks, which already runs the same schema
+      # over the same files. Reads committed data only (the schema and _meta/sources/*.yml),
+      # no network.
+      - name: Recheck cadences must be declared once, and every group must validate
         run: python3 src/check_updates.py --check
       # Conflict candidates that need no model. A hand-labelled taxonomy of the 137
       # frontier-pilot candidates found 29% were of four deterministic types, and code

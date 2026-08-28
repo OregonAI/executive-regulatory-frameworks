@@ -15,7 +15,10 @@ changing when knowledge bodies or agencies are added. Output is deliberately ter
   --check               CI: the cadence a group may declare is declared ONCE, in CADENCES
                         below, and the schema's `recheck` node is derived from it. Fails
                         when the committed node is not the one that table renders, or when
-                        a group declares a cadence nobody declared.
+                        a group declares a cadence nobody declared. Also validates every
+                        group in _meta/sources/ against source-group.schema.json (#199) and
+                        prints the count checked, failing if jsonschema could not be
+                        imported rather than reporting a silent zero as a clean pass.
   --sync-schema         rewrite the schema's `recheck` node from CADENCES
   --selftest            CI: every rule --check enforces, demonstrated failing, plus the
                         behaviours no rule can state (what a report does with data it
@@ -346,7 +349,7 @@ def cadence_census(groups=None):
     return ", ".join(f"{n}={c}" for n, c in counts.items())
 
 
-def check_schema(groups=None, schema=None):
+def check_schema(groups=None):
     """(failures, checked) — every group in `groups` (default: every file in
     `_meta/sources/`) validated against `_meta/schema/source-group.schema.json` (#199).
 
@@ -360,19 +363,35 @@ def check_schema(groups=None, schema=None):
     Returning the count alongside the failures, rather than failures alone, is deliberate:
     a run that validated zero groups because `jsonschema` was not importable must be able
     to say so — printed as `0 of 19`, not silently indistinguishable from `19 of 19`
-    groups that happened to pass."""
-    schema = json.loads(SCHEMA.read_text()) if schema is None else schema
-    groups = list(source_groups() if groups is None else groups)
+    groups that happened to pass.
+
+    Every keyword a group violates is reported (`iter_errors`, not `validate`, which stops
+    at the first), and the row is the FILE (`gpath.name`), never the group's own `group`
+    field — a group whose `group` key is itself what is wrong should still be reported
+    against something a curator can open, and `group` is data a human wrote, not an
+    identity this function should have to trust to report on it.
+
+    A schema that fails to parse, or is not itself a valid schema, is reported as ONE
+    `group-schema` failure with `checked=0` rather than raised. `seed_oar_watch.findings()`
+    calls this function with no try/except of its own (#199) — a traceback here would
+    surface exactly where that ticket's brief says a malformed input must not."""
     try:
         import jsonschema
     except ImportError:
         return [], 0
+    groups = list(source_groups() if groups is None else groups)
+    try:
+        schema = json.loads(SCHEMA.read_text())
+        validator = jsonschema.Draft202012Validator(schema)
+        validator.check_schema(schema)
+    except (OSError, json.JSONDecodeError, jsonschema.exceptions.SchemaError) as e:
+        return [Failure("group-schema", SCHEMA.name,
+                        f"{SCHEMA.name} could not be used to validate: "
+                        f"{type(e).__name__}: {e}")], 0
     failures = []
     for gpath, g in groups:
-        try:
-            jsonschema.validate(g, schema)
-        except jsonschema.exceptions.ValidationError as e:
-            failures.append(Failure("group-schema", g.get("group", gpath.name), e.message))
+        for e in validator.iter_errors(g):
+            failures.append(Failure("group-schema", gpath.name, e.message))
     return failures, len(groups)
 
 
@@ -392,9 +411,20 @@ def cmd_check() -> int:
           f"{SCHEMA.name} with the interval it means")
     print(f"groups per cadence: {cadence_census()}")
     total_groups = len(list(source_groups()))
+    checked_all = schema_checked == total_groups
     print(f"{schema_checked} of {total_groups} source group(s) validated against "
-          f"{SCHEMA.name}" +
-          ("" if schema_checked == total_groups else " (jsonschema not installed)"))
+          f"{SCHEMA.name}" + ("" if checked_all else " (jsonschema not installed)"))
+    if not checked_all:
+        # A run that validated zero groups must not exit the way a run that validated
+        # every one of them does — CONTEXT.md's overriding rule, applied to this gate's
+        # own exit code rather than only to what it prints: "could not check" is never
+        # reported as "is not there". `--due`, twenty lines of this file away, already
+        # exits non-zero for the equivalent case (a group nothing can be said about); this
+        # is the same choice made for `--check`.
+        print(f"\n{SCHEMA.name} was not checked against any group — jsonschema is not "
+              f"importable, so this run reported nothing rather than a clean pass",
+              file=sys.stderr)
+        return 1
     return 0
 
 
@@ -465,20 +495,83 @@ def _proof_a_group_declaring_an_undeclared_cadence_is_reported():
                                           groups=[_group_fixture(recheck="ballot_measure")])
 
 
-def _proof_a_group_violating_its_schema_is_reported():
-    """`_meta/schema/source-group.schema.json` describes every group's shape --
-    `additionalProperties: false` at the group and source level, three required top-level
-    keys. `check_schema`'s own docstring is where the finding that this schema was
-    already enforced corpus-wide lives (#199) -- this proof is only about the LOCAL copy
-    of that rule added here, watched failing on two independent violations (an extra key,
-    a missing required one) so it is shown catching more than one shape of mistake."""
+def _proof_a_group_with_an_undeclared_key_is_reported():
+    """`_meta/schema/source-group.schema.json` sets `additionalProperties: false` at the
+    group level. `check_schema`'s own docstring is where the finding that this schema was
+    already enforced corpus-wide lives (#199) -- this proof is only about the LOCAL copy of
+    that rule added here.
+
+    IN ITS OWN FIXTURE, and its own `_PROOFS` entry, rather than combined with the
+    missing-required-key proof below: a combined fixture list still reports a
+    `group-schema` failure with `additionalProperties: false` deleted from the schema
+    ENTIRELY, because the other fixture's violation is still there to satisfy
+    `any(f.rule == rule for f in failures)`. Proven by experiment while fixing #199: with
+    the two violations sharing one list, deleting either half of the schema left this
+    selftest passing."""
     _, extra = _group_fixture()
     extra = {**extra, "not_a_declared_key": True}
+    failures, _ = check_schema(groups=[(SOURCES_DIR / "extra.yml", extra)])
+    return "group-schema", failures
+
+
+def _proof_a_group_missing_a_required_key_is_reported():
+    """The sibling half of the proof above, isolated for the same reason: on its own, so
+    dropping `sources` out of the schema's top-level `required` list cannot hide behind
+    the OTHER fixture's failure the way the combined proof let it."""
     _, missing = _group_fixture()
     del missing["sources"]
-    failures, _ = check_schema(groups=[(SOURCES_DIR / "extra.yml", extra),
-                                        (SOURCES_DIR / "missing.yml", missing)])
+    failures, _ = check_schema(groups=[(SOURCES_DIR / "missing.yml", missing)])
     return "group-schema", failures
+
+
+def _proof_a_source_entry_missing_a_required_field_is_reported():
+    """The schema's `required: [id, url, sha256]` applies to each entry INSIDE `sources`,
+    not only to the group's own top-level keys -- #199's Agent Brief names this as its own
+    acceptance criterion ('a source entry missing a required field fails, watched
+    failing'), distinct from a group-level violation. Nothing before this proof watched it:
+    every other fixture in this file either carries `sources: []` or breaks a top-level
+    key, so a source ITEM's shape -- `sha256`'s 64-hex pattern, `url`'s `^https?://`
+    pattern, or (here) a missing required key -- was never exercised. A source entry with
+    no `sha256` is the shape a curator adding a source by hand is likeliest to leave
+    incomplete."""
+    _, g = _group_fixture(sources=[{"id": "oregon-constitution-full",
+                                    "url": "https://example.invalid/full-text"}])
+    failures, _ = check_schema(groups=[(SOURCES_DIR / "oregon-constitution.yml", g)])
+    return "group-schema", failures
+
+
+def _proof_check_schema_reports_a_malformed_schema_rather_than_raising():
+    """`seed_oar_watch.findings()` calls `check_schema()` with no try/except of its own
+    (#199) -- the narrowing that made that safe to do is IN `check_schema`, not at the call
+    site, so it is proved here rather than there. Before this rule, a schema file that
+    failed to parse, or that was not itself a valid schema, propagated as a traceback: the
+    old call site's `except Exception: append a Failure` caught anything, and deduplicating
+    the two validators narrowed that to `jsonschema.exceptions.ValidationError` only --
+    exactly the 'surfaces as a traceback from whatever reads it next' shape #199's own body
+    names as the thing to avoid. `checked` must read 0: a broken schema validated nothing,
+    which is a different fact from every group failing it."""
+    import tempfile
+    global SCHEMA
+    bad = json.dumps({"type": "not-a-real-type"})
+    with tempfile.TemporaryDirectory() as d:
+        p = Path(d) / "broken.schema.json"
+        p.write_text(bad)
+        orig = SCHEMA
+        SCHEMA = p
+        try:
+            failures, checked = check_schema(groups=[_group_fixture()])
+        except Exception as e:
+            print(f"FAIL check_schema on a malformed schema: raised "
+                  f"{type(e).__name__}: {e}", file=sys.stderr)
+            return 1
+        finally:
+            SCHEMA = orig
+    if checked != 0 or not any(f.rule == "group-schema" for f in failures):
+        print(f"FAIL check_schema on a malformed schema: expected a [group-schema] "
+              f"failure and checked=0, got failures={failures} checked={checked}",
+              file=sys.stderr)
+        return 1
+    return 0
 
 
 def _proof_due_reports_an_undeclared_cadence_rather_than_raising():
@@ -647,6 +740,7 @@ def _proof_the_ballot_measure_cadence_lands_after_an_election():
 _MEASURED = [_proof_due_reports_an_undeclared_cadence_rather_than_raising,
              _proof_due_reports_an_unreadable_last_checked_rather_than_raising,
              _proof_the_writer_refuses_a_mis_splice,
+             _proof_check_schema_reports_a_malformed_schema_rather_than_raising,
              _proof_the_ballot_measure_cadence_lands_after_an_election]
 
 _PROOFS = [
@@ -660,8 +754,12 @@ _PROOFS = [
      _proof_a_node_the_declaration_would_rewrite_is_reported),
     ("a source group declaring a cadence nobody declared",
      _proof_a_group_declaring_an_undeclared_cadence_is_reported),
-    ("a source group violating its schema (an extra key, a missing required one)",
-     _proof_a_group_violating_its_schema_is_reported),
+    ("a source group carrying a key its schema forbids",
+     _proof_a_group_with_an_undeclared_key_is_reported),
+    ("a source group missing a key its schema requires",
+     _proof_a_group_missing_a_required_key_is_reported),
+    ("a source entry missing a field its schema requires",
+     _proof_a_source_entry_missing_a_required_field_is_reported),
 ]
 
 
