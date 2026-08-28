@@ -92,3 +92,96 @@ municipalities are out of scope, but "Oregon state body" is doing that work by a
 until a case forces it to be written down. The commodity commissions are the first real
 test: nothing here says whether they should be admitted, only that a code import may not
 admit them.
+
+## Amendment (2026-08-28): the commodity commissions were already carried when this was written
+
+Filed as #156. The worked example above says OAM 70.10.00's "133 numbered rows include 22
+commodity commissions the registry has never carried" and that equal evidence "would have
+grown the registry by 12% and minted an entry for a category." Both describe the registry's
+state, and neither was ever true. `_meta/catalog/agencies.yml` added the Oregon Albacore
+Commission and twenty-two other Department of Agriculture child rows on 2026-07-19 — a month
+before this ADR was drafted (2026-08-19) — each with a `relations` entry naming the
+Department of Agriculture, and has carried them continuously since. They were invisible to
+whoever wrote the passage because the OAR index stores each one under the compound name
+`Department of Agriculture, <Child>`. A different obstacle affected the enabling-authority
+matcher: its catchline anchoring initially missed the nineteen rows tied to ORS 576.062
+because that section's own catchline names the *category* — "Establishment of commodity
+commissions" — not any individual commission. #159's enumerated-list matching, not the
+comma-splitting #155 added for compound registry names generally, is what recovered those
+nineteen.
+
+Measured now against the committed registry, two sets need to be told apart: OAM 70.10.00's
+`60310` heading names 22 commissions, and the registry carries 23 Department-of-Agriculture
+child rows. They overlap in 21 members. Two registry rows carry no name from OAM's list — the
+Oregon Alfalfa Seed Commission and the Oregon Invasive Species Council, ORS 570.770, which is
+not itself a commodity commission; its authority is invasive-species policy, not agricultural
+marketing. Going the other way, one OAM name has no registry row at all: the Oregon Hemp
+Commission, number 609, listed under `60310` alongside the other twenty-one. That is a real
+gap in the registry, filed separately as #281; it is not fixed here, because this ADR records
+a decision, not the registry's contents.
+
+Of the registry's 23 Department-of-Agriculture rows, 22 carry a reviewed `enabling_authority`.
+Nineteen share the enumerated ORS 576.062; three carry their own section — the Oregon Beef
+Council, ORS 577.210; the Oregon Wheat Commission, ORS 578.030; and the Invasive Species
+Council, ORS 570.770. Only the Oregon Alfalfa Seed Commission carries no
+`enabling_authority` key at all, which means nobody has reviewed it yet, not that a review
+found none to record. All 23 rows, the Alfalfa Seed Commission included, carry an OAR
+chapter, and were admitted on that evidence alone starting 2026-07-19, a month before this
+ADR existed to state the rule; the enabling-authority review is later, additional evidence
+for 22 of them, not the evidence that first admitted them. So the population the original
+passage counted as absent was present the whole time, admitted throughout on evidence this
+ADR treats as sufficient on its own — by OAR chapter first, and by a reviewed enabling
+authority today for all but the Alfalfa Seed Commission.
+
+The `60310` half of the same sentence is checked at the same time, and it stands: OAM
+70.10.00's 133 numbered rows still include `60310 Commodity Commissions (Individual
+commissions listed below)`, a grouping header naming no individual organization, followed
+by its twenty-two named commissions as separate indented rows. That header is not a body
+under any evidence this registry accepts, and nothing here changes it.
+
+**What the 12%-growth figure gets wrong, and what still holds without it.** The figure
+assumed a code import would mint 22 or 23 *new* entries; it would not have — all 23 of the
+Department-of-Agriculture rows already existed, admitted by OAR chapter, before OAM 70.10.00
+was ever read against the registry. What equal evidence would actually mint here is two
+entries: `60310` itself, a grouping header with no body behind it, and the Oregon Hemp
+Commission (#281), a real body OAM names that the registry does not yet carry. A single
+grouping header admitted as if it were a body is disqualifying on its own, so the argument
+does not need a percentage — but stated as one anyway, to keep the comparison honest: two
+entries against OAM's 133 numbered rows is 1.5%, and on the original figure's own base —
+growth against the 189 rows that existed beforehand — it is two rows over 189, 1.06%, not
+the twenty-two rows over 189 (11.64%) the original 12% assumed. Either base gives a far
+smaller fraction than the retired claim, from a different cause: nothing was being added,
+because almost everything counted was already there.
+
+**The closing paragraph's open question is answered, and was answered before this ADR was
+written — for the registry's own rows.** "The commodity commissions are the first real
+test: nothing here says whether they should be admitted" does not hold for any of the
+registry's 23 Department-of-Agriculture rows: every one carries an OAR chapter, which is
+admitting evidence under this ADR's own rule, and has since 2026-07-19. It does not hold for
+the Oregon Hemp Commission either, in the opposite direction — nothing has admitted it,
+because the registry carries no row for it to admit, which is exactly the gap #281 files.
+What was genuinely open, and stays open here, is what evidence beyond the OAR chapter each
+registry row carries and what relation it holds to the Department of Agriculture. Of the 23,
+22 — the 21 that match OAM's list plus the Invasive Species Council — now carry both a
+reviewed `enabling_authority` and an `administered_by`
+relation citing it (ADR 0004); the Alfalfa Seed Commission alone stays `undetermined` on
+both counts, because no enabling authority has yet been found for it, and a relation needs
+one to derive from. The worked example survives correction rather than being replaced: OAM
+70.10.00 is still the example, `60310` is still the disqualifying case, and the
+admitting/corroborating distinction still rests on it — only the counts of what a code
+import would have minted, and of what the registry already held, are corrected in place.
+
+The Consequences section above — "a standing report of numbers matching no body — 23 of
+them today, the 22 commissions plus `60310`" — is checked at the same time and needs no
+correction: it counts by `das_agency_number`, which none of the 23 Department-of-Agriculture
+rows carry, so all 22 OAM commission numbers plus `60310` still match no body under that
+join. That is a different join from the name match this amendment corrects above, over
+overlapping but non-identical sets, which is why the two give different counts without
+disagreeing.
+
+This correction follows the convention ADR 0004 already set with its own two `## Amendment`
+sections: the text above stands unedited, because it records what was believed and argued
+at the time, and the correction sits beside it rather than being folded silently into the
+original prose. Dating this section's heading is new here, not inherited — ADR 0004's two
+amendments carry no date in their own headings, only one landing date stated once in that
+section's prose — and is recorded as the convention going forward.

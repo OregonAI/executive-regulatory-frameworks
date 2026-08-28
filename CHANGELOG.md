@@ -11,6 +11,73 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-08-27 — **`CONTEXT.md` and the registry's own comments said all 189 rows carry no
+  `enabling_authority`** (#219). The claim was written when the field landed empty (#170,
+  2026-08-21) and never re-measured since: on this branch 113 of 189 rows carry a reviewed
+  authority, not the 0 that five of the six sites first found implied, nor the 107 that
+  both the ticket's own body and the sixth — `catalog_agencies.py:119`, rewritten in this
+  same change — quoted, two stale snapshots of a count that moves every time a review lands
+  (measured via `python3 src/catalog_agencies.py --check`). `catalog_agencies.py` already
+  computes this figure live, in `authority_census()`, and prints it on every `--check` run;
+  rather than pin a second, hand-maintained copy of it in CONTEXT.md's "Enabling authority"
+  entry and five comments across `catalog_agencies.py` (the `FIELDS` declaration among
+  them, which the ticket names directly), every one of those is reworded to state the
+  three-state reasoning — an absent key never means a body has no enabling authority —
+  without a number, pointing at `authority_census()` as the one live source instead. A
+  two-axis review of that change found the identical present-tense claim standing,
+  unmeasured, at six more sites across three more files: `src/link_enabling_authority.py`
+  — the module CONTEXT.md itself names as the field's only writer — in both its module
+  docstring and a `--selftest` fixture comment, `src/derive_relation_kinds.py`'s module
+  docstring and an `audit()` comment, and `docs/adr/0004`'s amendment section, twice. All
+  six are reworded the same way, except the ADR's two, which read as a decision record
+  rather than a description of today's registry and are dated (2026-08-21, when the
+  amendment landed) instead of stripped of a figure. The same review also caught a second
+  defect the first pass had introduced in `catalog_agencies.py`'s RELATION_KINDS comment:
+  its replacement sentence, "sits as a PROPOSED candidate," is false for 57 of the 76
+  not-yet-reviewed rows, which sit in the review sheet's `no_candidate` list instead — a
+  matcher finding nothing is a statement about the matcher, never a proposal (the sheet's
+  own note, AGENTS.md, and CONTEXT.md's "Undetermined" entry all say so), and the comment
+  now names both states rather than only the stronger one. No new `check_registry()` rule:
+  nothing in this tree parses CONTEXT.md, an ADR, or a Python comment the way
+  `note-covers-fields` (#185) parses the registry's own committed YAML, so there is no seam
+  for a gate to watch prose through, and building one to watch twelve sentences across five
+  files would be new, disproportionate machinery for a fact `--check` already reports on
+  every run. `--selftest` is unchanged (74 demonstrations) — no rule was added or changed,
+  only the prose describing existing ones.
+- 2026-08-27 — **The agency registry's own `note` was stale, and nothing checked it** (#185).
+  The top-level prose above `organizations` in `agencies.yml` — this file's self-description,
+  read by three sibling corpora — drifted from 669 characters naming 4 of the then-14 row
+  fields, through two more revisions that each still fell short (4,299 naming 9 of 13, then
+  5,260 naming 11 of 15), to a field set that had since grown to 16 with `curator_note`
+  (#178) while the note stayed at 5,260, unchanged: measured on this branch, `oar_chapter`,
+  `source_url`, `aliases`, `note` and `curator_note` were declared in `FIELDS` and named
+  nowhere in the note. Only a full `--refresh` — which re-fetches all 170 chapter pages
+  `rules/` mirrors — rewrites the committed copy, so each prior ticket that
+  changed the field set updated the note text in `cmd_refresh()`'s source but left the
+  committed file behind, and nothing compared the two. `check_registry()` gains
+  `note-covers-fields`: every key `FIELDS` declares must be named somewhere in the registry's
+  own `note`, checked against `fields` itself rather than a second hand-maintained list, the
+  same reason `CURATED_KEYS` is derived rather than restated. Both the committed note and the
+  code-side literal `cmd_refresh()` writes are corrected to name all 16 fields and are now
+  byte-identical, so a future `--refresh` costs this paragraph a zero-line diff rather than a
+  reversion. `--selftest` grew from 71 to 72 demonstrations
+  (`note-missing-a-declared-field`, watched failing against the real gap — `curator_note` —
+  before the fix landed).
+- 2026-08-27 — **`note-requires-manual` refused the scrape's own fetch report** (#178). The
+  guard #178 added to stop a hand-typed `note` from being silently rebuilt away by the next
+  `--refresh` fired on the wrong condition: it refused ANY `note` on a row that was not
+  `manual`, including the three sentences `cmd_refresh()` itself writes onto ordinary
+  scraped rows (a chapter page's title not parsing, its fetch failing, a chapterless
+  group's children disagreeing on a name prefix) — so the first refresh to hit a parse or
+  fetch failure would produce a registry `--check` rejects, with no correct fix short of
+  deleting the scrape's own report of its failure or freezing the row `manual`. `note` is
+  split by origin instead: it stays SCRAPED and holds only the three sentences the scrape
+  writes (`note-scrape-shape` refuses anything else), and curator prose about a row gets a
+  field of its own, `curator_note` (CURATED), carried across a refresh on ANY row by
+  `CURATED_KEYS` — no `manual: true` required. The two hand-typed notes committed today
+  (chapters 419, 950) move to `curator_note`. `--selftest` grew from 69 to 71 demonstrations
+  (one existing case corrected to the new rule, two new proofs that `curator_note` — unlike
+  `manual` — needs no whole-row protection to survive a refresh).
 - 2026-08-27 — **43 DHS/OHA sources are being watched again** (#140, #264, ADR 0007).
   `sharedsystems.dhsoha.state.or.us` serves its leaf certificate without the intermediate
   linking it to a root, so every fetch failed strictly and, at 3.2% of the run, sat under the
