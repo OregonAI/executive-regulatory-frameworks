@@ -458,20 +458,6 @@ def _selftest() -> int:
         ck(f"{other!r} is not this corpus's constitutional citation",
            resolve(other)[0] is None)
 
-    # THE REGRESSION GUARD for the flag trap above (#202): what `register_scheme` actually
-    # STORES for what the MCP server runs, using the toolkit's own compiled-pattern
-    # resolution (`corpus_toolkit.mcp.framework._compiled`) rather than reimplementing it —
-    # a hand-rolled guard here could drift from what the toolkit does and pass while the
-    # real mechanism changed underneath it. Tested here rather than assumed, because the
-    # failure is silent — the citation comes back as a format no scheme recognized, which
-    # reads as "this corpus does not do constitutional citations".
-    from corpus_toolkit.mcp.framework import _compiled as _tk_compiled
-    stored = _tk_compiled("or-const", OR_CONST_C)
-    ck("register_scheme stores the compiled pattern itself, not a re-compiled string",
-       stored is OR_CONST_C and bool(stored.flags & re.I))
-    ck("...so what it runs still matches lowercase",
-       stored.search("or. const. art. vi, sec. 1") is not None)
-
     ck("a citation ending a sentence still matches",
        resolve("Or. Const. Art. VI, sec. 1.")[0] == ["orconst-art-vi-sec-1"])
 
@@ -493,12 +479,47 @@ def _selftest() -> int:
     _proof_every_designation_round_trips_through_its_slug(ck)
     _proof_the_two_forms_accept_the_same_article(ck)
     _proof_the_gate_can_watch_the_two_forms_disagree(ck)
+    _proof_a_lost_flag_actually_fails_a_gate(ck)
     fw = _load_framework()
     if fw is not None:
+        _proof_registration_stores_the_flag(ck, fw)
         _proof_the_citation_resolves_end_to_end(ck, fw)
         _proof_flagged_schemes_survive_registration(ck, fw)
         _proof_federal_schemes_survive_registration(ck, fw)
     return ck.report("citation-schemes selftest")
+
+
+def _proof_a_lost_flag_actually_fails_a_gate(ck):
+    """CRITERION 3 OF #202: "a scheme whose flag is lost at registration fails a gate,
+    watched failing." Everything else in this file asserts real schemes SURVIVE
+    registration; none of it demonstrates what happens to one that does not — which is how
+    `eo` sat broken while `or-const` alone was fixed, with nothing anywhere failing to say
+    so.
+
+    Reproduces the exact mistake this issue is about, through the SAME function every real
+    scheme in this module calls — `register_scheme(name, pattern.pattern, ...)`, the
+    STRING, not the compiled object — for a throwaway scheme nothing else in this corpus
+    will ever match. Runs in `__main__`'s own top-level scope (this function is called
+    directly by `_selftest`, before any `CorpusFramework` is built), so the call lands in
+    `_SCHEMES`, the toolkit's module-level table, exactly where `register_scheme` puts an
+    entry when nothing is collecting for a framework — and what is read back is that
+    table's own entry, not a hand-rolled restatement of what registration does."""
+    from corpus_toolkit.mcp.framework import _SCHEMES as _tk_schemes
+    throwaway = re.compile(r"\bSELFTEST-THROWAWAY-(\d+)\b", re.I)
+    register_scheme("citation-schemes-selftest-throwaway-lossy", throwaway.pattern,
+                    resolver=lambda m: [f"throwaway-{m.group(1)}"])
+    entry = next((s for s in _tk_schemes
+                 if s[0] == "citation-schemes-selftest-throwaway-lossy"), None)
+    ck("the throwaway scheme registered", entry is not None)
+    if entry is None:
+        return
+    stored = entry[1]
+    ck("registered the lossy .pattern way, it matches uppercase",
+       stored.search("SELFTEST-THROWAWAY-1") is not None)
+    ck("...and the SAME check the proofs below make — lower behaves like upper — is FALSE "
+       "here: the gate can watch a lost flag fail, and this is that failure, caught",
+       (stored.search("selftest-throwaway-1") is not None)
+       != (stored.search("SELFTEST-THROWAWAY-1") is not None))
 
 
 def _proof_the_two_editions_of_article_vii_are_two_documents(ck):
@@ -630,9 +651,38 @@ def _load_framework():
         from corpus_toolkit.mcp.framework import CorpusFramework
         return CorpusFramework(config_mod.load(str(REPO_ROOT / "_meta/corpus.yml")))
     except Exception as e:                                     # noqa: BLE001
-        print(f"SKIP end-to-end resolution: the corpus could not be loaded here "
-              f"({type(e).__name__}: {e}) — NOT a pass", file=sys.stderr)
+        print(f"SKIP registration-stores-the-flag, end-to-end resolution, flagged-scheme "
+              f"registration and federal-scheme registration: the corpus could not be "
+              f"loaded here ({type(e).__name__}: {e}) — NOT a pass, and #202's own gates "
+              f"are silently absent from this run", file=sys.stderr)
         return None
+
+
+def _proof_registration_stores_the_flag(ck, fw):
+    """THE REGRESSION GUARD for the flag trap above (#202) — reading what
+    `register_scheme("or-const", …)` actually STORED in THIS corpus's own served scheme
+    table (`fw.schemes`, the exact list `resolve_citation` iterates), not what the toolkit's
+    `_compiled` helper does when handed whatever pattern the test happens to already have.
+
+    That is the guard this replaces. The old version called
+    `corpus_toolkit.mcp.framework._compiled("or-const", OR_CONST_C)` directly — handing the
+    toolkit the compiled object the test itself picked, rather than reading anything
+    registration actually stored — so it could not see a broken registration even in
+    principle. Measured on a build where all `register_scheme(...)` calls below were
+    reverted to `.pattern` (the pre-fix, lossy form): that old guard's two checks still
+    PASSED, in the same run where `resolve_citation("or. const. art. vi, sec. 1")` and four
+    other lowercase citations FAILED to resolve. Reading `fw.schemes` instead closes that:
+    if `or-const`'s entry there ever lost `re.I`, this fails, because it is reading the same
+    table the server reads."""
+    entry = next((s for s in fw.schemes if s[0] == "or-const"), None)
+    ck("or-const is in the scheme table the framework actually collected",
+       entry is not None)
+    if entry is None:
+        return
+    stored = entry[1]
+    ck("the stored pattern carries re.I", bool(stored.flags & re.I))
+    ck("...so what the served table runs still matches lowercase",
+       stored.search("or. const. art. vi, sec. 1") is not None)
 
 
 def _proof_the_citation_resolves_end_to_end(ck, fw):
@@ -672,22 +722,37 @@ def _proof_flagged_schemes_survive_registration(ck, fw):
     Every scheme with a flag is asserted here anyway, upper- and lower-case alike, through
     `fw.resolve_citation` — the served path — so a scheme that is unaffected today by luck
     of its pattern shape does not become tomorrow's silent miss the next time someone
-    tightens a prefix from optional to required."""
+    tightens a prefix from optional to required. `or-const` is here too — the one scheme
+    whose flag MECHANISM this commit actually changed, from an inline `(?i)` in the pattern
+    string to the same compiled-object `re.I` every other scheme carries — so the case this
+    proof would most need to catch was, for a while, the one case it skipped.
+
+    `oar-division` and `das-oam-number` expand to every rule id under a prefix, which pins
+    this proof to how many rules `rules/101/080/` (or `das-107-004-180`'s procedure sibling)
+    happens to hold today — a fact about corpus growth, not about the flag. `expected=None`
+    on those two means "matched something", so the case-insensitivity assertion
+    (`got_lower == got_upper`) stays the one doing the work; the pinned lists on the other
+    four are safe because each resolves one citation to one document, not a division's
+    membership."""
     cases = [
         ("ors",            "ORS 183.310",             "ors 183.310",             ["ors-183.310"]),
         ("oar-rule",       "OAR 101-080-0010",         "oar 101-080-0010",        ["oar-101-080-0010"]),
-        ("oar-division",   "OAR 101-080",              "oar 101-080",
-         ["oar-101-080-0010", "oar-101-080-0020"]),
+        ("oar-division",   "OAR 101-080",              "oar 101-080",             None),
         ("eo (EO form)",   "EO 20-03",                 "eo 20-03",                ["eo-20-03"]),
         ("eo (spelled)",   "Executive Order 20-03",    "executive order 20-03",   ["eo-20-03"]),
-        ("das-oam-number", "DAS 107-004-180",          "das 107-004-180",
-         ["das-107-004-180", "das-107-004-180_pr"]),
+        ("das-oam-number", "DAS 107-004-180",          "das 107-004-180",         None),
+        ("or-const",       "Or. Const. Art. VI, sec. 1", "or. const. art. vi, sec. 1",
+         ["orconst-art-vi-sec-1"]),
     ]
     for label, upper, lower, expected in cases:
         r_upper = fw.resolve_citation(upper)
         got_upper = sorted(m["id"] for m in r_upper["matches"])
-        ck(f"{label}: {upper!r} resolves through resolve_citation",
-           got_upper == sorted(expected))
+        if expected is None:
+            ck(f"{label}: {upper!r} resolves to at least one document",
+               got_upper != [])
+        else:
+            ck(f"{label}: {upper!r} resolves through resolve_citation",
+               got_upper == sorted(expected))
         r_lower = fw.resolve_citation(lower)
         got_lower = sorted(m["id"] for m in r_lower["matches"])
         ck(f"{label}: {lower!r} resolves THE SAME WAY through resolve_citation "
@@ -711,6 +776,11 @@ def _proof_federal_schemes_survive_registration(ck, fw):
     cases = [
         ("federal-cfr", "2 CFR 200.332", "2 cfr 200.332"),
         ("federal-public-law", "Pub. L. 111-5", "pub. l. 111-5"),
+        # No bare `IRS Pub 1075` here: `federal_ids.candidates` deliberately returns no
+        # candidate without a revision (a version this sibling would otherwise have to
+        # guess), which would fail this case for a reason that has nothing to do with the
+        # flag. The revision makes the id deterministic and the case pure.
+        ("federal-irs-pub", "IRS Pub 1075 (Rev. 09-2016)", "irs pub 1075 (rev. 09-2016)"),
         ("federal-cjis", "CJIS Security Policy v5.9", "cjis security policy v5.9"),
     ]
     for scheme, upper, lower in cases:
