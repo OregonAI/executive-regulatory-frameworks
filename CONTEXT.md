@@ -353,6 +353,21 @@ scrape's own three sentences (`NOTE_SCRAPE_TEMPLATES`): a chapter page's title n
 parsing, its fetch failing, or a chapterless group's children disagreeing on a name
 prefix
 
+**Registry note**:
+The agency registry file's OWN top-level `note` (`agencies.yml`, the prose above
+`organizations`, read by three sibling corpora) — a third, unrelated field of the same name
+as the two above, describing the FILE rather than any row in it. It is scrape-controlled,
+regenerated in full on every `--refresh` from `REGISTRY_NOTE`, and is NOT a place curator
+prose belongs (#278, closing AC4 of #185 as out of scope): measured across every commit that
+has ever touched `agencies.yml`, the committed field has never once carried more than its
+era's module literal, so nothing has ever needed the preservation a wholesale rewrite would
+threaten. A curator with something to say about the REGISTRY belongs in this file's own
+prose, discussed with whoever maintains `REGISTRY_NOTE`; a curator with something to say
+about one ROW has **Curator note** above, which is the field built for exactly that and
+already survives a refresh.
+_Avoid_: Curator note — that field is per-row and protected; this one is whole-file and
+regenerated
+
 **Relation basis**:
 What decided a relation's KIND, written on the relation itself and never the same fact as
 its source: the source says who places this body under that one, the basis says what settled

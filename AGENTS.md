@@ -516,23 +516,20 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   Naming every field is not the same as AGREEING with what `cmd_refresh()` would write, and
   #185's own follow-up commit added a second rule for that, `note-agrees-with-refresh`,
   comparing the committed `note` byte-for-byte against `REGISTRY_NOTE` (the one place that
-  literal string lives, read by `cmd_refresh()`). That rule caught the SYMPTOM — the two
-  copies falling out of sync — but its own fix was "run `--refresh`," which restated
-  `REGISTRY_NOTE` over the committed file WHOLESALE on every write, the exact mechanism that
-  deletes curator-appended prose (`curator_note`'s own #178 gets the row-level half of this
-  right; the top-level `note` did not). AC4 of #185 asked that the note not be regenerated
-  wholesale on every write and stayed unmet until #278, which found the precedent already
-  sitting in `catalog_oar.py`: its own top-level `note` handling (`save_catalog()`, #241
-  comment) writes `INITIAL_NOTE` only when the committed file has none, and never restates
-  one that exists — 4,425 committed characters today against an `INITIAL_NOTE` of 1,875,
-  because two tickets (#228, #229) appended paragraphs directly and nothing since has
-  touched them. `catalog_agencies.py`'s `refreshed_note()` now does the same: REGISTRY_NOTE
-  is a FLOOR, supplied only to a from-scratch catalog, and an existing note — curator prose
-  and all — is returned untouched. `note-agrees-with-refresh` is RETIRED rather than kept
-  red-by-design (an exact-equality check against a note that is now expected to accumulate
-  would fail forever the first time it did); `note-covers-fields` remains the standing
-  guard, tolerant of appended prose because it only requires each field's name to appear
-  somewhere in the text.
+  literal string lives, read by `cmd_refresh()`). AC4 of #185 asked, further, that the note
+  "not be regenerated wholesale on every write" — reasoning by analogy to `catalog_oar.py`'s
+  own top-level note, which genuinely does carry hand-appended curator prose an unconditional
+  rewrite would destroy (4,425 committed characters today against an `INITIAL_NOTE` of
+  1,875, #241). #278 tested that analogy against this registry's own history rather than
+  assuming it transferred, and found it does not: every one of the 23 commits that have ever
+  touched `agencies.yml` shows the committed top-level `note` never exceeding its era's
+  module literal, so no curator prose has ever lived in this field — the two rows people
+  point to when describing "curator prose on the note" are `curator_note` entries (#178,
+  CONTEXT.md), a different field entirely. AC4 is therefore closed as OUT OF SCOPE rather
+  than given a preservation mechanism nothing has ever needed: `note-agrees-with-refresh`
+  stays exactly as #185 left it, `cmd_refresh()` keeps writing `REGISTRY_NOTE` wholesale, and
+  the full reasoning (including the walked commit history) lives at its extraction site in
+  `catalog_agencies.py`, above `REGISTRY_NOTE`, rather than restated here a second time.
   The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
   `python3 src/link_budget_codes.py` from the hand-reviewed table in that file, whose
   `--check` verifies the registry against that table. The deprecated `budget_agency_code`

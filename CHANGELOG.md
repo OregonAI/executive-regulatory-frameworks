@@ -11,6 +11,63 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-08-28 — **AC4 of #185 ("the note is not regenerated wholesale on every write")
+  closed as out of scope, not implemented** (#278). #278 was filed on the theory that the
+  registry's own top-level `note` (`agencies.yml`, the prose above `organizations`) might
+  carry hand-appended curator prose that `cmd_refresh()`'s wholesale rewrite would silently
+  destroy, by analogy to `catalog_oar.py`'s genuinely different case (`INITIAL_NOTE`, #241:
+  4,425 committed characters today against a 1,875-character floor, from real appended
+  paragraphs). A first pass at the fix froze the whole note once any content existed and
+  retired the regression guard `note-agrees-with-refresh` — reviewed and found to reproduce
+  #185's own root cause one level up: **measured, not assumed, by walking every one of the 23
+  commits that have ever touched `_meta/catalog/agencies.yml` and comparing each commit's
+  committed `note` against that same revision's module literal, the committed field has
+  NEVER once exceeded its era's literal** — byte-identical at HEAD and at the commit
+  immediately before #185's own fix (5,260 == 5,260). No curator prose has ever lived in this
+  field; the two rows people point to when describing "curator prose on the note" are
+  `curator_note` entries (#178, chapters 419/950), a different, already-protected field.
+  AC4 is closed by #278's own second named option instead: `cmd_refresh()` keeps writing
+  `REGISTRY_NOTE` wholesale, `note-agrees-with-refresh` is restored exactly as #185 left it,
+  and the decision — the top-level `note` is scrape-only and never a place for curator
+  prose — is now explicit in `AGENTS.md` and `CONTEXT.md` (a new **Registry note** glossary
+  entry), not merely implied by an equality check nobody explained.
+
+  Gates, all re-run on this change:
+
+      python3 src/catalog_agencies.py --check     -> 189 rows against 16 declared fields;
+                                                       285 curated value(s) and 17 manual
+                                                       row(s) survive a simulated --refresh
+      python3 src/catalog_agencies.py --selftest  -> 76 violation(s) demonstrated failing,
+                                                       18 name resolution(s) proven
+
+- 2026-08-28 — **`assert_scrape_declared()` excluded `SCRAPED_KEYS` and `MERGED_KEYS` but
+  not `PER_ROW_KEYS`, so a real `--refresh` `sys.exit`'d before writing anything, every
+  invocation, on unmodified main** (#275). `scraped_entry()` writes `name`/`name_basis` on
+  every row it builds — the PER_ROW pair that lets an established statutory name survive
+  `preserve_name()` untouched while an unverified OAR title gets rebuilt — but the exclusion
+  guard only knew about SCRAPED and MERGED, so `{'name', 'name_basis'}` came back
+  "undeclared" every time, before any row could be written. Fixed by deriving the exclusion
+  from `FIELDS` (`admitted = set(FIELDS) - CURATED_KEYS - MANUAL_FLAG_KEYS`) rather than
+  naming SCRAPED_KEYS/MERGED_KEYS/PER_ROW_KEYS by hand at the one call site that needed
+  their union — the same shape #182 fixed for `preserve_curated()`'s key order, and the
+  shape this function itself had already gone stale under once, the day PER_ROW joined the
+  other two origins and this list did not. Verified live, not only against the fixture:
+  `--refresh` against oregon.public.law completed end to end, 189 rows in `organizations`,
+  106.48s wall-clock (2026-08-28, this branch); the committed registry was restored
+  unchanged afterward, since a network-dependent refresh's output is not this ticket's data
+  to commit. A follow-up code review of this fix found a fabricated timing figure and two
+  falsified claims elsewhere in the same commit and corrected them in place (no separate
+  CHANGELOG entry — folded into this one, since nothing it changed is user-visible beyond
+  what this entry already describes).
+
+  Gates, both re-run on this change (before the #278 entry above, which changed the
+  `--selftest` figure further):
+
+      python3 src/catalog_agencies.py --check     -> chapter pages: 170 of 189 row(s)
+                                                       carry oar_chapter (19 chapterless)
+      python3 src/catalog_agencies.py --selftest  -> 75 violation(s) demonstrated failing,
+                                                       18 name resolution(s) proven
+
 - 2026-08-28 — **170 vs 189: `expand_oar_name.py` and `record_name_basis.py` still said a
   full `--refresh` re-fetches 189 chapter pages** (#279). `CHANGELOG.md` and
   `catalog_agreement.py` already said 170 — measured, not copied forward: **170 is
