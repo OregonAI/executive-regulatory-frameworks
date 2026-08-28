@@ -47,7 +47,7 @@ from pathlib import Path
 
 import yaml
 
-from repo_lib import content_files
+from repo_lib import AUTHORITY_FIELDS, content_files, walk_strings
 
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG = ROOT / "_meta" / "catalog" / "external-citations.yml"
@@ -59,10 +59,9 @@ CONFIG = ROOT / "_meta" / "corpus.yml"
 FED = re.compile(r"\b(\d{1,2})\s+(U\.?\s?S\.?\s?C\.?|C\.?\s?F\.?\s?R\.?)"
                  r"\s*(?:Part\s+|§+\s*)?(\d+[A-Za-z]?)")
 
-# Frontmatter fields that constitute an AUTHORITY CLAIM rather than a mention. Measured,
-# not assumed: these two carry 725 and 473 documents' worth of federal citations, and no
-# other field carries more than one.
-AUTHORITY_FIELDS = ("legal_authority", "statutes_implemented")
+# AUTHORITY_FIELDS (imported from repo_lib, shared with scan_ors_citations.py): measured,
+# not assumed -- these two carry 725 and 473 documents' worth of federal citations here,
+# and no other field carries more than one.
 
 # Named instruments with no numeric citation form. Counted separately because they are
 # exactly the seed's Stage 1 list, and a regex over USC/CFR would never see them.
@@ -79,17 +78,6 @@ NAMED = {
 def norm(title: str, kind: str, num: str) -> str:
     k = "USC" if kind.upper().replace(" ", "").replace(".", "").startswith("USC") else "CFR"
     return f"{title} {k} {num}"
-
-
-def walk_strings(obj):
-    if isinstance(obj, str):
-        yield obj
-    elif isinstance(obj, list):
-        for v in obj:
-            yield from walk_strings(v)
-    elif isinstance(obj, dict):
-        for v in obj.values():
-            yield from walk_strings(v)
 
 
 def sibling_ids(config: dict) -> tuple[set[str], str]:

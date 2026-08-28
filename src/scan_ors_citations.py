@@ -6,7 +6,7 @@
   python3 src/scan_ors_citations.py --selftest  # the three-state classification, proved
 
 #210. `_meta/sources/ors.yml` is titled "ORS (ingested chapters)" -- a SELECTION, not
-complete coverage, and 59 citations into chapter 151 sat unreported until one reviewer
+complete coverage, and 154 citations into chapter 151 sat unreported until one reviewer
 happened to notice. `src/scan_external_citations.py` already does this shape for federal
 instruments; this is the same report for this corpus's OWN statute citations, so the next
 gap is a number a gate can fail on rather than a ticket someone has to notice by hand.
@@ -35,9 +35,13 @@ if dropped.
 
 NO EXTERNAL I/O, unlike the federal scan: chapter mirroring is entirely this repository's
 own committed state (`_meta/sources/ors.yml`, `_meta/catalog/ors.yml`), so nothing here
-depends on a sibling corpus publishing something, and `--check` compares the WHOLE
-generated file rather than stripping resolution-dependent lines the way the federal scan
-must.
+depends on a sibling corpus publishing something, and `--check` has no resolution-dependent
+line to strip the way the federal scan does. It still strips one thing before comparing --
+`documents_scanned` (see `_inventory_only`) -- because that line is a DENOMINATOR, not a
+claim, and comparing it whole-file reproduces the exact spurious-gate shape #158 fixed for
+the federal scan: any PR that adds or drops a content file, whether or not it cites ORS at
+all, would otherwise fail this gate for a reason that has nothing to do with the citation
+inventory.
 """
 from __future__ import annotations
 
@@ -51,8 +55,8 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from citation_schemes import _ors_catalog_chapters, _ors_mirrored_chapters
-from repo_lib import Checks, content_files
+from citation_schemes import ors_catalog_chapters, ors_mirrored_chapters
+from repo_lib import AUTHORITY_FIELDS, Checks, content_files, walk_strings
 
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG = ROOT / "_meta" / "catalog" / "ors-citation-gap.yml"
@@ -62,20 +66,7 @@ CATALOG = ROOT / "_meta" / "catalog" / "ors-citation-gap.yml"
 # This scans raw prose, where a bare decimal number is not evidence of a citation at all --
 # the same reason scan_external_citations.py's FED pattern anchors on a literal CFR/USC
 # token rather than matching any NN NNN.
-ORS_MENTION = re.compile(r"\bORS\s+(\d{2,3}[A-Za-z]?)\.(\d{3}[A-Za-z]?)\b")
-
-AUTHORITY_FIELDS = ("legal_authority", "statutes_implemented")
-
-
-def walk_strings(obj):
-    if isinstance(obj, str):
-        yield obj
-    elif isinstance(obj, list):
-        for v in obj:
-            yield from walk_strings(v)
-    elif isinstance(obj, dict):
-        for v in obj.values():
-            yield from walk_strings(v)
+ORS_MENTION = re.compile(r"\bORS\s+(\d{1,3}[A-Za-z]?)\.(\d{3}[A-Za-z]?)\b")
 
 
 def classify(chapter: str, mirrored: set, catalog: dict) -> tuple[str, str]:
@@ -93,8 +84,8 @@ def classify(chapter: str, mirrored: set, catalog: dict) -> tuple[str, str]:
 
 
 def scan() -> dict:
-    mirrored = _ors_mirrored_chapters()
-    catalog = _ors_catalog_chapters()
+    mirrored = ors_mirrored_chapters()
+    catalog = ors_catalog_chapters()
 
     authority = collections.Counter()
     mention = collections.Counter()
@@ -178,6 +169,31 @@ def scan() -> dict:
     }
 
 
+def _inventory_only(text: str) -> str:
+    """The catalog with `documents_scanned` removed -- the one line `--check` must not
+    compare, and the exact #158 shape `scan_external_citations.py`'s own `_inventory_only`
+    exists to fix, reproduced here in the sibling this module is modelled on.
+
+    `documents_scanned` is a DENOMINATOR, not a claim: this catalog asserts which ORS
+    chapters the corpus cites outside its mirrored selection, and how many documents were
+    read to find them is context. Comparing it whole-file means any PR that adds or drops
+    a content file -- one that cites no ORS chapter at all included -- moves this one line
+    and fails the gate for a reason that has nothing to do with the citation inventory.
+    Every other summary figure (`chapters_cited_outside_mirrored_set`,
+    `authority_claims_outside_mirrored_set`, `mentions_outside_mirrored_set`, ...) DOES
+    move when the inventory itself changes, and those stay compared -- so a lone move in
+    `documents_scanned` alone means the inventory is provably unchanged, same as the
+    federal scan's own resolution-stripped compare, just for a different reason (this
+    module has no resolution-dependent line to strip -- ORS chapter mirroring is entirely
+    this repository's own committed state).
+
+    Still WRITTEN and PRINTED on every run, so a scope change remains visible as an
+    obviously wrong count; it is just no longer a merge blocker on its own.
+    """
+    return "\n".join(l for l in text.splitlines()
+                      if not l.lstrip().startswith("documents_scanned:"))
+
+
 def _selftest() -> int:
     """The three-state classification, proved against synthetic mirrored/catalog sets --
     not the live corpus, so this stays fast and stays correct even as chapters are ingested
@@ -210,11 +226,31 @@ def _selftest() -> int:
            for t in data["targets"]))
     ck("chapter 151 is NOT in the report -- it is mirrored (#210's own fix)",
        not any(t["chapter"] == "151" for t in data["targets"]))
+    ck("single-digit chapters are visible to the scan too -- chapter 2 (Supreme Court/"
+       "Court of Appeals, ORS 2.570 et al.) is cited 67 times across 64 documents and is "
+       "absent from _meta/sources/ors.yml, so it must appear here rather than being "
+       "invisible to a regex anchored on two-to-three-digit chapters",
+       any(t["chapter"] == "2" for t in data["targets"]))
     ck("known-real + no-evidence targets add up to the reported total",
        s["chapters_known_real_not_ingested"] + s["chapters_no_corroborating_evidence"]
        == s["chapters_cited_outside_mirrored_set"])
     ck("there is at least one target of each kind on the committed corpus",
        s["chapters_known_real_not_ingested"] > 0 and s["chapters_no_corroborating_evidence"] > 0)
+
+    # #158's shape, reproduced for this module's own --check (`_inventory_only`): a
+    # change that moves ONLY documents_scanned -- a PR adding or dropping any content
+    # file, whether or not it cites ORS at all -- must not trip the gate, because it is
+    # provably not a change to the citation inventory the catalog exists to report.
+    a = "note: x\nsummary:\n  documents_scanned: 76313\n  chapters_mirrored: 547\ntargets: []\n"
+    b = "note: x\nsummary:\n  documents_scanned: 76312\n  chapters_mirrored: 547\ntargets: []\n"
+    ck("a whole-file compare WOULD fail on a documents_scanned-only diff (the bug, "
+       "reproduced synthetically as the control)", a != b)
+    ck("_inventory_only strips exactly that line, so the same pair compares equal",
+       _inventory_only(a) == _inventory_only(b))
+    c = "note: x\nsummary:\n  documents_scanned: 76313\n  chapters_mirrored: 548\ntargets: []\n"
+    ck("...but a real inventory change (chapters_mirrored moving here) still compares "
+       "unequal -- the strip removes the denominator, not the gate's teeth",
+       _inventory_only(a) != _inventory_only(c))
 
     return ck.report("scan-ors-citations selftest")
 
@@ -244,7 +280,10 @@ def main() -> int:
 
     if args.check:
         cur = CATALOG.read_text(encoding="utf-8") if CATALOG.is_file() else ""
-        if cur != text:
+        # Compare the INVENTORY, not the denominator -- see _inventory_only. Everything
+        # but `documents_scanned` compares whole-file, because unlike the federal scan
+        # this module has nothing resolution-dependent to also strip.
+        if _inventory_only(cur) != _inventory_only(text):
             print("ors-citation-gap.yml is STALE — re-run src/scan_ors_citations.py",
                   file=sys.stderr)
             return 1

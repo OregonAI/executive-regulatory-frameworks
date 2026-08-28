@@ -218,7 +218,7 @@ Whether an ORS chapter is in this corpus's mirror AT ALL — one level up from I
 which is about a document WITHIN a chapter already selected. It lives in
 `_meta/sources/ors.yml`'s `ors` group, titled "ingested chapters" to say a selection is
 intended rather than complete coverage (545+ of Oregon's chapters, and growing). #210 is
-the case that forced the distinction: 59 citations pointed at ORS chapter 151 and it was
+the case that forced the distinction: 154 citations pointed at ORS chapter 151 and it was
 outside the selection, and `citation_schemes._resolve_ors` answered exactly as it would
 have for a citation to a chapter number Oregon does not use — the ORS scheme's OWN version
 of collapsing "could not check" into "is not there" (AGENTS.md). A citation into an
@@ -233,8 +233,8 @@ chapter absent from both the mirrored set AND the discovery map
 to chapters "relevant to DAS/executive-branch administration" and was never asked about
 most of the numbering space — its silence proves nothing, and is reported as exactly that
 rather than guessed either way. `src/scan_ors_citations.py --check` (CI, every PR) is the
-gate: measured on the committed corpus, 80 chapters this corpus's own documents cite sit
-outside the selection (14 corroborated real via the discovery map, 66 with no evidence
+gate: measured on the committed corpus, 81 chapters this corpus's own documents cite sit
+outside the selection (14 corroborated real via the discovery map, 67 with no evidence
 either way) — chapter 151 among neither any more, having been mirrored for this fix, and
 chapter 31 the largest remaining single gap at 284 citations across 127 documents (status
 `not_mirrored_unknown` — not even in the discovery map, so its title is not asserted here

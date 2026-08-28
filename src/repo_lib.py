@@ -98,6 +98,29 @@ def content_files():
             yield p
 
 
+# Frontmatter fields that constitute an AUTHORITY CLAIM rather than a mention -- a
+# document DECLARING a citation as its own legal authority, as opposed to merely
+# discussing it in the body. Shared by every citation-inventory scan
+# (`scan_external_citations.py`, `scan_ors_citations.py`) rather than each keeping its own
+# copy: the same distinction, the same two fields, in every scan built to this shape.
+AUTHORITY_FIELDS = ("legal_authority", "statutes_implemented")
+
+
+def walk_strings(obj):
+    """Yield every string in a nested frontmatter value (str, or list/dict of same) --
+    `legal_authority` is sometimes a bare string and sometimes a list, so a caller reading
+    it for citations needs every leaf string regardless of shape. Shared by the same
+    citation-inventory scans as `AUTHORITY_FIELDS`, for the same reason."""
+    if isinstance(obj, str):
+        yield obj
+    elif isinstance(obj, list):
+        for v in obj:
+            yield from walk_strings(v)
+    elif isinstance(obj, dict):
+        for v in obj.values():
+            yield from walk_strings(v)
+
+
 def changed_content_files(base_ref: str | None = None):
     """Content files added/modified relative to base_ref (default: merge-base with
     origin/main, else HEAD~1). Includes uncommitted working-tree changes. Returns a

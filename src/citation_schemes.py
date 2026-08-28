@@ -52,7 +52,7 @@ def _ors_disposition(section):
     return _ORS_DISPOSITION.get(section)
 
 
-def _ors_mirrored_chapters():
+def ors_mirrored_chapters():
     """Every chapter number this corpus has actually selected and ingested — the `ors`
     source group's own sources, which is the ground truth `ingest_ors.py` reads and writes
     (CONTEXT.md's Ingest status, one level up: a CHAPTER selected, not a document held).
@@ -71,7 +71,7 @@ def _ors_mirrored_chapters():
     return _ORS_MIRRORED_CHAPTERS
 
 
-def _ors_catalog_chapters():
+def ors_catalog_chapters():
     """{chapter number: title} for every chapter `_meta/catalog/ors.yml`'s discovery map
     knows about — a live scrape of oregonlegislature.gov's chapter pages, NOT a complete
     enumeration of Oregon's ORS numbering space (the catalog's own note: "relevant to
@@ -98,9 +98,9 @@ def _ors_chapter_absence_note(chapter: str):
     is never reported as "is not there"). `None` when the chapter IS mirrored — the
     citation names a real, wrong, or renumbered SECTION instead, which is a different
     question this function does not answer."""
-    if chapter in _ors_mirrored_chapters():
+    if chapter in ors_mirrored_chapters():
         return None
-    title = _ors_catalog_chapters().get(chapter)
+    title = ors_catalog_chapters().get(chapter)
     if title is not None:
         named = f" ({title})" if title else ""
         return (f"this corpus does not mirror ORS chapter {chapter}{named}. It is a real "
@@ -853,13 +853,16 @@ def _proof_ors_unmirrored_chapter_states_absence(ck, fw):
         this corpus and is not mirrored. It IS a real chapter: `_meta/catalog/ors.yml`'s
         discovery map lists it, scraped from oregonlegislature.gov, just never selected for
         ingestion. This is the coverage-gap case #210 was filed about, generalized past the
-        one chapter (151) that happened to get noticed -- re-measured on this corpus, 21
-        other chapters share this exact shape (cited, real per the catalog, not mirrored).
-      * ORS 935.035 -- chapter 935 is cited once (an OAR rule's authority line, apparently
-        a transcription of chapter 835) and is absent from BOTH the mirrored set and the
-        discovery catalog. Nothing here can tell a real, un-ingested chapter apart from a
-        typo or a chapter Oregon does not use, and the note says so explicitly rather than
-        guessing either way.
+        one chapter (151) that happened to get noticed -- re-measured on this corpus, 13
+        other chapters share this exact shape (cited, real per the catalog, not mirrored;
+        `_meta/catalog/ors-citation-gap.yml`'s `chapters_known_real_not_ingested: 14`
+        counts 79 among them).
+      * ORS 935.035 -- chapter 935 is cited 62 times across 21 documents (935.035 x41,
+        935.040 x21 -- an OAR rule's authority line, apparently a transcription of chapter
+        835, is one of them, not the whole of it) and is absent from BOTH the mirrored set
+        and the discovery catalog. Nothing here can tell a real, un-ingested chapter apart
+        from a typo or a chapter Oregon does not use, and the note says so explicitly
+        rather than guessing either way -- regardless of how often it is cited.
       * ORS 151.999 -- chapter 151 IS mirrored (18 sections, landed for this same issue).
         Section .999 does not exist in it. This is the WRONG-citation case, and it must
         keep the answer it already had -- unaffected by the fix above."""
