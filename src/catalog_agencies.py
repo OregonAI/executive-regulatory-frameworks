@@ -38,7 +38,10 @@ validate_frontmatter.py requires every content file's agency: field to be 'state
 'external', or a slug from this registry. Sub-unit slugs are valid agency: values like
 any other; whether a sub-unit gets its own agencies/<slug>/ tree or files under its
 parent is an onboarding-time decision."""
+import json
+import os
 import re
+import subprocess
 import sys
 import time
 import urllib.request
@@ -895,7 +898,28 @@ def relation_census(orgs) -> str:
             f"rest on: {tally(bases, RELATION_BASES)}")
 
 
-CURATED_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == CURATED)
+def curated_keys_in_order(fields=None):
+    """The curated fields, in the order `fields` (default FIELDS) declares them.
+
+    WHY ORDER IS A SEPARATE QUESTION FROM CURATED_KEYS BELOW (#182). `CURATED_KEYS` answers
+    "is this key curated" and a `frozenset` is the right shape for that — membership, not
+    sequence. `preserve_curated()` also has to answer "in what order do I APPEND the curated
+    keys a rebuilt row is missing", because `yaml.safe_dump(sort_keys=False)` writes a row in
+    exactly the Python dict order its keys were inserted in, and a `frozenset`'s iteration
+    order is PYTHONHASHSEED-dependent — stable within one process, different across the next
+    `--refresh` run, so a curated field's line moves in the diff for no reason every time.
+    Three runs of `--refresh` over the same input used to produce three different files.
+    Restating an order by hand (alphabetical, e.g.) would be a second opinion about the
+    file's shape that nothing enforces; FIELDS is already an ordered mapping and the one
+    place a field is declared, so this is a VIEW of it filtered to CURATED, not a new rule.
+
+    `fields` is a parameter for the same reason it is on `check_registry()`: so a
+    differently-declared table orders its own curated keys rather than the module's."""
+    fields = FIELDS if fields is None else fields
+    return tuple(k for k, f in fields.items() if f.origin == CURATED)
+
+
+CURATED_KEYS = frozenset(curated_keys_in_order())
 SCRAPED_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == SCRAPED)
 # The fields --refresh writes even though it does not own all of what they hold. Derived
 # from the same table for the same reason CURATED_KEYS is: a hand-kept second list of
@@ -1120,8 +1144,14 @@ def preserve_curated(prev_orgs, by_slug, curated_keys=None):
     DAS agency numbers oregon-budget reports spending against — would be silently dropped on
     the next --refresh. Silently is the problem: the file would still parse, every slug would
     still resolve, and the loss would only surface as a cross-corpus join that quietly
-    stopped matching anything."""
-    curated_keys = CURATED_KEYS if curated_keys is None else curated_keys
+    stopped matching anything.
+
+    `curated_keys` defaults to `curated_keys_in_order()`, NOT `CURATED_KEYS` — the default
+    has to be the ORDERED view, because this loop appends a key the whole time it iterates,
+    and the order it iterates in is the order a newly-carried key lands in the rebuilt row
+    (#182). A caller may still pass an unordered set; the guarantee is only that the default
+    this function (and `simulate_refresh`) uses is deterministic."""
+    curated_keys = curated_keys_in_order() if curated_keys is None else curated_keys
     for o in prev_orgs:
         current = by_slug.get(o["slug"])
         if not current:
@@ -1788,7 +1818,10 @@ def check_registry(cat, fields=None) -> list:
     table — the two ways a curated field goes missing from CURATED_KEYS are statements about
     the declaration, and no registry row can express either one."""
     fields = FIELDS if fields is None else fields
-    curated = frozenset(k for k, f in fields.items() if f.origin == CURATED)
+    # ORDERED, not a frozenset: passed straight through to simulate_refresh() -> the same
+    # preserve_curated() a real --refresh calls, so the simulation stays faithful to it —
+    # including the order it now writes curated keys in (#182), not just which keys survive.
+    curated = curated_keys_in_order(fields)
     scraped = frozenset(k for k, f in fields.items() if f.origin == SCRAPED)
     merged = frozenset(k for k, f in fields.items() if f.origin == MERGED)
     per_row = frozenset(k for k, f in fields.items() if f.origin == PER_ROW)
@@ -3329,6 +3362,63 @@ def _proof_refresh_rejects_an_undeclared_scraped_field() -> int:
     return 1
 
 
+# The row this proof carries curated keys onto, deliberately holding all four of them (#182):
+# `preserve_curated()` only reorders keys it is APPENDING, so a row that starts with none of
+# them is the shape that shows the bug — a row that already carried one under a fixed
+# position would hide the defect behind that one stable key.
+_CURATED_ORDER_PROOF_SCRIPT = """
+import sys
+sys.path.insert(0, {src!r})
+import json
+import catalog_agencies as c
+das = c.scraped_entry(oar_name="Department of Administrative Services", oar_chapter="125",
+                       raw_index_name="Dept. of Administrative Services",
+                       source_url="{base}/rules/oar_chapter_125")
+c.write_das_agency_number(das, "107")
+das["aliases"] = ["DAS"]
+das["enabling_authority"] = "ORS 999.999"
+row = c.simulate_refresh([das])[das["slug"]]
+print(json.dumps([k for k in row if k in c.CURATED_KEYS]))
+"""
+
+
+def _proof_curated_keys_survive_in_declaration_order() -> int:
+    """A single process cannot see this bug (#182): a `frozenset`'s iteration order is fixed
+    for the life of one interpreter, so an in-process test of `preserve_curated()` would pass
+    whether the fix landed or not. What varies is PYTHONHASHSEED, which is fixed once per
+    process and different across processes — exactly the granularity `--refresh` runs at, one
+    process per invocation. So this proof is the one in the file that spawns real subprocesses,
+    pinning two different seeds, and asks whether independent processes still agree.
+
+    Demonstrated failing by reverting the fix locally and re-running: two runs of the
+    reproduction in #182's own report (three, even) landed `aliases` in three different
+    positions relative to `das_agency_number` and `budget_agency_code` — the same two keys
+    #175 deliberately writes adjacent. Reverting `preserve_curated()`'s default back to
+    `CURATED_KEYS` here reproduces exactly that.
+
+    Both runs are also checked against `curated_keys_in_order()` itself, not only against
+    each other — two seeds agreeing on the WRONG order (e.g. plain `sorted()`, which is not
+    what FIELDS declares) would pass an equality-only check and fail this one."""
+    src = str(REPO_ROOT / "src")
+    expected = list(curated_keys_in_order())
+    seen = {}
+    for seed in ("0", "1000003"):
+        proc = subprocess.run(
+            [sys.executable, "-c", _CURATED_ORDER_PROOF_SCRIPT.format(src=src, base=BASE)],
+            capture_output=True, text=True, cwd=str(REPO_ROOT),
+            env={**os.environ, "PYTHONHASHSEED": seed})
+        if proc.returncode != 0:
+            print(f"FAIL curated-key-order-survives-hashseed: seed {seed} crashed:\n"
+                  f"{proc.stderr}", file=sys.stderr)
+            return 1
+        seen[seed] = json.loads(proc.stdout)
+    if len(set(tuple(v) for v in seen.values())) != 1 or next(iter(seen.values())) != expected:
+        print(f"FAIL curated-key-order-survives-hashseed: expected {expected} from every "
+              f"seed, got {seen}", file=sys.stderr)
+        return 1
+    return 0
+
+
 # ------------------------------------------------------------------------- the search proof
 #
 # A BODY MUST STAY FINDABLE BY THE NAME ITS READER KNOWS, and after ADR 0003 there are two
@@ -3474,6 +3564,7 @@ def selftest() -> int:
                   file=sys.stderr)
             bad += 1
     bad += _proof_refresh_rejects_an_undeclared_scraped_field()
+    bad += _proof_curated_keys_survive_in_declaration_order()
     bad += _proof_the_walk_says_what_it_cannot_answer()
     bad += _proof_the_relation_census_counts_every_kind()
     bad += _proof_the_merge_is_what_carries_a_curated_relation()
@@ -3494,7 +3585,7 @@ def selftest() -> int:
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
-    print(f"{len(_CASES) + len(_PROOFS) + 6} violation(s) demonstrated failing, "
+    print(f"{len(_CASES) + len(_PROOFS) + 7} violation(s) demonstrated failing, "
           f"{resolutions} name resolution(s) proven"
           if not bad else f"{bad} rule(s) did not fire")
     return 1 if bad else 0
