@@ -69,6 +69,16 @@ CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 # ORIGIN is the load-bearing column, and it answers one question: what happens to this field
 # when --refresh rebuilds every row from oregon.public.law?
 #
+# THE DECLARATION ORDER OF THIS TABLE IS ALSO LOAD-BEARING (#182), not just the ORIGIN
+# column beside each key. `preserve_curated()` appends a rebuilt row's curated fields in
+# `curated_keys_in_order()`'s order, which is a VIEW of this table filtered to CURATED and
+# nothing else — so the sequence a curated field lands in inside every committed row, and
+# therefore the shape of every --refresh diff, is set by the order the entries are WRITTEN
+# below. Regrouping this table for readability regroups the committed registry with it, and
+# nothing above the ORIGIN column said so until this paragraph did. `check_registry()`'s own
+# read of this table (`curated_keys_in_order(fields)`) is what makes the simulation faithful
+# to that ordering, not only to which keys survive.
+#
 #   SCRAPED     the refresh writes it. `scraped_entry()` below is the only thing that may
 #               produce one, and --check verifies this column against that constructor, so
 #               calling a field scraped is a claim the code has to back up.
@@ -898,6 +908,22 @@ def relation_census(orgs) -> str:
             f"rest on: {tally(bases, RELATION_BASES)}")
 
 
+def keys_in_order(origin, fields=None):
+    """The fields of one ORIGIN, in the order `fields` (default FIELDS) declares them.
+
+    THE ONE PLACE AN ORDERED VIEW OF FIELDS IS FILTERED (#182 review). CURATED_KEYS,
+    SCRAPED_KEYS, MERGED_KEYS and PER_ROW_KEYS below, and `check_registry()`'s own read of
+    `fields`, all used to write `frozenset(k for k, f in fields.items() if f.origin == X)`
+    by hand, once per origin — the same shape as a hand-kept second copy of FIELDS, and the
+    kind of duplication this table exists to avoid everywhere else. Only CURATED_KEYS's order
+    matters TODAY (`preserve_curated()` is the only one of the four that APPENDS a key a
+    rebuilt row is missing, so it is the only one whose order changes a diff) — but the other
+    three are ordered the same cheap way rather than left as the one-off comprehension a
+    future append-style preserve function would have had to invent again from nothing."""
+    fields = FIELDS if fields is None else fields
+    return tuple(k for k, f in fields.items() if f.origin == origin)
+
+
 def curated_keys_in_order(fields=None):
     """The curated fields, in the order `fields` (default FIELDS) declares them.
 
@@ -908,26 +934,46 @@ def curated_keys_in_order(fields=None):
     exactly the Python dict order its keys were inserted in, and a `frozenset`'s iteration
     order is PYTHONHASHSEED-dependent — stable within one process, different across the next
     `--refresh` run, so a curated field's line moves in the diff for no reason every time.
-    Three runs of `--refresh` over the same input used to produce three different files.
+    No run of `--refresh` has actually produced three different files — #275 finds it
+    aborts before writing anything, on unmodified main, for a reason unrelated to key order.
+    The evidence is `simulate_refresh()`, the same `preserve_curated()` a real --refresh
+    calls: five subprocesses, one fresh PYTHONHASHSEED apiece, simulating a refresh of
+    department-of-administrative-services against unchanged committed data, landed
+    `enabling_authority`, `aliases`, `budget_agency_code` and `das_agency_number` in five
+    different relative orders (recorded in the #182 commit message) before this fix, and
+    FIELDS's own order every time after it —
+    `_proof_curated_keys_survive_in_declaration_order()` below asserts that across real
+    subprocesses rather than in one interpreter.
     Restating an order by hand (alphabetical, e.g.) would be a second opinion about the
     file's shape that nothing enforces; FIELDS is already an ordered mapping and the one
     place a field is declared, so this is a VIEW of it filtered to CURATED, not a new rule.
 
     `fields` is a parameter for the same reason it is on `check_registry()`: so a
-    differently-declared table orders its own curated keys rather than the module's."""
-    fields = FIELDS if fields is None else fields
-    return tuple(k for k, f in fields.items() if f.origin == CURATED)
+    differently-declared table orders its own curated keys rather than the module's.
+
+    WHERE ELSE THIS WAS CHECKED (#182's own acceptance criterion, so this is where a reader
+    looks rather than a commit message nobody greps): CURATED_KEYS is not the only frozenset
+    a rebuilt row is iterated over. SCRAPED_KEYS and MERGED_KEYS are read inside
+    `assert_scrape_declared()`, and MERGED_KEYS and PER_ROW_KEYS are iterated inside
+    `preserve_relations()` and `preserve_name()` respectively — but neither of those two
+    loops APPENDS a key the rebuilt row does not already carry, because `scraped_entry()`
+    always writes `relations` and the `name`/`name_basis` pair. Only a loop that can add a
+    missing key can move a line, which is what `preserve_curated()` alone was doing before
+    this fix. That safety is a property of `scraped_entry()`, not of those two loops: a
+    future `scraped_entry()` that stops writing one of those keys reintroduces this bug
+    silently, with nothing here to catch it."""
+    return keys_in_order(CURATED, fields)
 
 
 CURATED_KEYS = frozenset(curated_keys_in_order())
-SCRAPED_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == SCRAPED)
+SCRAPED_KEYS = frozenset(keys_in_order(SCRAPED))
 # The fields --refresh writes even though it does not own all of what they hold. Derived
 # from the same table for the same reason CURATED_KEYS is: a hand-kept second list of
 # "the fields that merge" is the list somebody forgets to add to.
-MERGED_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == MERGED)
+MERGED_KEYS = frozenset(keys_in_order(MERGED))
 # The fields whose origin is written on the ROW rather than on the field. Derived from the
 # same table for the same reason the three sets above are, and read by `preserve_name()`.
-PER_ROW_KEYS = frozenset(k for k, f in FIELDS.items() if f.origin == PER_ROW)
+PER_ROW_KEYS = frozenset(keys_in_order(PER_ROW))
 UA = "executive-regulatory-frameworks (+https://github.com/OregonAI/executive-regulatory-frameworks)"
 
 ENTRY_RE = re.compile(
@@ -1021,10 +1067,15 @@ def write_das_agency_number(row: dict, number) -> None:
     The keys are re-inserted rather than assigned, so that what THIS function writes prints
     the two copies of the number on adjacent lines — a plain assignment appends a new key at
     the end of the row, which puts the second copy under `aliases`, three lines below the
-    first. That is a courtesy to the human reading the diff, not an invariant of the file:
-    `preserve_curated()` re-appends every curated key in frozenset order, so a --refresh can
-    reorder them or split the pair with `aliases`, and does it differently per run (#182).
-    Nothing depends on the order — `deprecated-key-agrees` compares the VALUES.
+    first. That used to be a courtesy to the human reading the diff and not an invariant of
+    the file: before #182, `preserve_curated()` re-appended every curated key in frozenset
+    order, so a --refresh could reorder them or split the pair with `aliases`, differently
+    per run. `preserve_curated()` now appends in `curated_keys_in_order()`'s order — FIELDS's
+    own declaration order, das_agency_number/budget_agency_code/aliases/enabling_authority —
+    so a --refresh keeps the pair adjacent and lands it the same way every run. This
+    function's own re-insertion is still what keeps them adjacent on the FIRST write, before
+    any --refresh has had a row to append them to. Nothing depends on the order —
+    `deprecated-key-agrees` compares the VALUES.
     """
     ordered, landed = {}, False
     for key, value in row.items():
@@ -1822,9 +1873,9 @@ def check_registry(cat, fields=None) -> list:
     # preserve_curated() a real --refresh calls, so the simulation stays faithful to it —
     # including the order it now writes curated keys in (#182), not just which keys survive.
     curated = curated_keys_in_order(fields)
-    scraped = frozenset(k for k, f in fields.items() if f.origin == SCRAPED)
-    merged = frozenset(k for k, f in fields.items() if f.origin == MERGED)
-    per_row = frozenset(k for k, f in fields.items() if f.origin == PER_ROW)
+    scraped = frozenset(keys_in_order(SCRAPED, fields))
+    merged = frozenset(keys_in_order(MERGED, fields))
+    per_row = frozenset(keys_in_order(PER_ROW, fields))
 
     failures = []
     orgs = (cat or {}).get("organizations")
@@ -3378,8 +3429,22 @@ c.write_das_agency_number(das, "107")
 das["aliases"] = ["DAS"]
 das["enabling_authority"] = "ORS 999.999"
 row = c.simulate_refresh([das])[das["slug"]]
-print(json.dumps([k for k in row if k in c.CURATED_KEYS]))
+print(json.dumps(list(row)))
 """
+
+# FIELDS's curated columns, TRANSCRIBED BY HAND rather than read from `curated_keys_in_order()`
+# (#182 review). `curated_keys_in_order()` is the function under test, so computing "expected"
+# by calling it pins only cross-process AGREEMENT — two subprocesses independently landing the
+# WRONG order (`sorted()`, say: aliases, budget_agency_code, das_agency_number,
+# enabling_authority) would agree with each other and with a same-order call to the buggy
+# function, and an equality-only check against that call would pass. This tuple is what FIELDS
+# actually declares, copied by eye from the table above (das_agency_number, budget_agency_code,
+# aliases, enabling_authority) rather than derived from it, so a wrong-but-self-consistent order
+# is still caught. Reorder FIELDS's curated columns on purpose and this needs updating by hand
+# to match — that is the point, not a maintenance cost: it is where the review AC2 asks for
+# ("stated where the keys are declared") would have to be re-confirmed by a human.
+_DECLARED_CURATED_ORDER = ("das_agency_number", "budget_agency_code", "aliases",
+                           "enabling_authority")
 
 
 def _proof_curated_keys_survive_in_declaration_order() -> int:
@@ -3388,7 +3453,10 @@ def _proof_curated_keys_survive_in_declaration_order() -> int:
     whether the fix landed or not. What varies is PYTHONHASHSEED, which is fixed once per
     process and different across processes — exactly the granularity `--refresh` runs at, one
     process per invocation. So this proof is the one in the file that spawns real subprocesses,
-    pinning two different seeds, and asks whether independent processes still agree.
+    pinning two DIFFERENT, NONZERO seeds — 0 disables hash randomization rather than pinning
+    a seed, and already lands the FIELDS order before this fix (measured), so a proof that
+    used it would be resting on the other, single, seed — and asks whether independent
+    processes still agree.
 
     Demonstrated failing by reverting the fix locally and re-running: two runs of the
     reproduction in #182's own report (three, even) landed `aliases` in three different
@@ -3396,13 +3464,16 @@ def _proof_curated_keys_survive_in_declaration_order() -> int:
     #175 deliberately writes adjacent. Reverting `preserve_curated()`'s default back to
     `CURATED_KEYS` here reproduces exactly that.
 
-    Both runs are also checked against `curated_keys_in_order()` itself, not only against
-    each other — two seeds agreeing on the WRONG order (e.g. plain `sorted()`, which is not
-    what FIELDS declares) would pass an equality-only check and fail this one."""
+    Checks the FULL row from each seed, not only its curated keys, so a --refresh that
+    reordered something else in the row would also fail this — the closest this module can get
+    to AC1's byte-identical --refresh assertion while #275 blocks running --refresh itself.
+    Both full rows must also agree with each other, and the curated keys within them must
+    match `_DECLARED_CURATED_ORDER` — a literal independent of `curated_keys_in_order()`, so
+    two seeds agreeing on the WRONG order does not pass this the way it would an equality-only
+    check against that function's own output."""
     src = str(REPO_ROOT / "src")
-    expected = list(curated_keys_in_order())
     seen = {}
-    for seed in ("0", "1000003"):
+    for seed in ("3", "1000003"):
         proc = subprocess.run(
             [sys.executable, "-c", _CURATED_ORDER_PROOF_SCRIPT.format(src=src, base=BASE)],
             capture_output=True, text=True, cwd=str(REPO_ROOT),
@@ -3412,9 +3483,16 @@ def _proof_curated_keys_survive_in_declaration_order() -> int:
                   f"{proc.stderr}", file=sys.stderr)
             return 1
         seen[seed] = json.loads(proc.stdout)
-    if len(set(tuple(v) for v in seen.values())) != 1 or next(iter(seen.values())) != expected:
-        print(f"FAIL curated-key-order-survives-hashseed: expected {expected} from every "
-              f"seed, got {seen}", file=sys.stderr)
+    rows = list(seen.values())
+    if len(set(tuple(r) for r in rows)) != 1:
+        print(f"FAIL curated-key-order-survives-hashseed: seeds disagree on the full row: "
+              f"{seen}", file=sys.stderr)
+        return 1
+    curated_subsequence = tuple(k for k in rows[0] if k in _DECLARED_CURATED_ORDER)
+    if curated_subsequence != _DECLARED_CURATED_ORDER:
+        print("FAIL curated-key-order-survives-hashseed: both seeds agree, but not with "
+              f"FIELDS's declared order — expected {_DECLARED_CURATED_ORDER}, got "
+              f"{curated_subsequence} (full row {rows[0]})", file=sys.stderr)
         return 1
     return 0
 
