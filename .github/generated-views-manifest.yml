@@ -1,0 +1,223 @@
+# Gate name -> measured seconds (local, warm checkout, 2026-08-28) and the shard
+# it is bin-packed into for .github/workflows/validate-frontmatter.yml's
+# generated-views-shard-N jobs (#268). Regenerate the `shard` column with:
+#   python3 src/shard_generated_views.py --plan N
+# then hand-place any moved gate into its new shard job and update `shard:` here
+# to match -- `src/shard_generated_views.py --check` fails the run if this file
+# and the workflow disagree about which gate runs where, or if a gate the
+# workflow runs is missing here entirely.
+#
+# The llms.txt gate below (--check and --selftest, both proofs) is one CI step / one
+# process, not two -- a code-review follow-up to #268 folded the second gate's echo-only
+# step into this one so it stays a gate that can actually fail. build_llms.py's build()
+# walks the whole corpus, so sharing the call this way is what makes that walk get paid
+# once per run rather than twice.
+#
+# Nightly-only gates (generated-views-nightly; schedule/workflow_dispatch) are not
+# in this manifest at all -- #268 is explicit that they are "not what a PR waits
+# on", so they carry no PR-tier cost to account for.
+gates:
+  - name: "Executive-order signed-date parser"
+    seconds: 0.0
+    shard: 4
+  - name: "Constitution ingest skip rules must all be able to fail"
+    seconds: 0.1
+    shard: 1
+  - name: "The Constitution catalog must match what is on disk"
+    seconds: 2.3
+    shard: 1
+  - name: "The Constitution drift report must be silent on the committed snapshot"
+    seconds: 4.8
+    shard: 1
+  - name: "Citation schemes must resolve, and refuse, what they claim"
+    seconds: 85.0
+    shard: 3
+  - name: "Conflict-coverage ledger must be current"
+    seconds: 1.3
+    shard: 2
+  - name: "Triage write path must lose nothing"
+    seconds: 3.0
+    shard: 2
+  - name: "Conflict-catalog merge must not drop prior candidates"
+    seconds: 0.8
+    shard: 4
+  - name: "Agency-registry contract rules must all be able to fail"
+    seconds: 0.1
+    shard: 3
+  - name: "Enabling-authority rules must all be able to fail"
+    seconds: 0.1
+    shard: 4
+  - name: "Relation-kind derivation rules must all be able to fail"
+    seconds: 0.0
+    shard: 4
+  - name: "Cadence rules must all be able to fail"
+    seconds: 0.0
+    shard: 4
+  - name: "Bulletin reader rules must all be able to fail"
+    seconds: 0.1
+    shard: 1
+  - name: "Legal status must have exactly one writer"
+    seconds: 0.0
+    shard: 4
+  - name: "Amendments must re-ingest without reaching a rule out of force"
+    seconds: 12.6
+    shard: 2
+  - name: "The monthly Bulletin report must file one issue, or none"
+    seconds: 0.7
+    shard: 1
+  - name: "Conflict evaluation must measure against pinned ground truth"
+    seconds: 2.1
+    shard: 3
+  - name: "A suspended rule keeps its authority edges, a repealed one does not"
+    seconds: 1.2
+    shard: 3
+  - name: "Relationship graph must be current"
+    seconds: 81.7
+    shard: 4
+  - name: "OAR upstream_tracking field must match the source manifest"
+    seconds: 1.8
+    shard: 4
+  - name: "STATUS.md must be current"
+    seconds: 69.2
+    shard: 5
+  - name: "ORS disposition catalog must be current"
+    seconds: 6.0
+    shard: 2
+  # Was two entries (84.6s + 89.0s) for two separately-timed gates; the workflow now runs
+  # both proofs as one step, one process (build_llms.py --check --selftest), so this is one
+  # entry at the combined measured cost -- see the workflow's own comment on this step.
+  - name: "llms.txt must be current, and name every chapter we mirror"
+    seconds: 86.7
+    shard: 2
+  - name: "Agency overview must be current"
+    seconds: 72.7
+    shard: 5
+  - name: "Agency authority-graph visualization must be current"
+    seconds: 0.4
+    shard: 4
+  - name: "Policy-documentation-gap view must be current"
+    seconds: 0.4
+    shard: 2
+  - name: "Statute-operationalization view must be current"
+    seconds: 5.3
+    shard: 3
+  - name: "External-citation catalog must be current"
+    seconds: 90.8
+    shard: 1
+  - name: "Authority-chain explorer must be current"
+    seconds: 0.2
+    shard: 4
+  - name: "Semantic topic map must be current (reads committed UMAP cache)"
+    seconds: 0.5
+    shard: 1
+  - name: "Regulatory-freshness dataset must match the graph"
+    seconds: 0.1
+    shard: 2
+  - name: "Regulatory-freshness visualization must be current"
+    seconds: 0.2
+    shard: 2
+  - name: "Semantic vector index must be current (soft-pass if not built)"
+    seconds: 0.0
+    shard: 4
+  - name: "Policy-age visualization must be current"
+    seconds: 0.1
+    shard: 3
+  - name: "Governor-priorities dataset must match the graph"
+    seconds: 6.2
+    shard: 1
+  - name: "Conflict-candidates dataset must match the graph (verifies every citation)"
+    seconds: 7.3
+    shard: 1
+  - name: "Budget agency codes must match the reviewed mapping"
+    seconds: 0.1
+    shard: 4
+  - name: "A snapshot's two spellings must agree"
+    seconds: 33.8
+    shard: 3
+  - name: "Snapshot-identity gate must be able to fail (selftest)"
+    seconds: 0.0
+    shard: 4
+  - name: "A document's two spellings of its source hash must agree"
+    seconds: 2.7
+    shard: 2
+  - name: "...and that rule must be able to fail (source-hash spellings)"
+    seconds: 0.0
+    shard: 4
+  - name: "A document mirroring an OARD results list must be recorded as one"
+    seconds: 7.0
+    shard: 2
+  - name: "...and that rule must be able to fail (OARD results-list documents)"
+    seconds: 0.0
+    shard: 4
+  - name: "ADR 0006 must say what the OAR hash watch actually covers"
+    seconds: 0.3
+    shard: 1
+  - name: "...and that rule must be able to fail (OAR hash-watch coverage)"
+    seconds: 0.2
+    shard: 4
+  - name: "Every rule the Bulletin named and this corpus holds must be watched"
+    seconds: 6.8
+    shard: 2
+  - name: "...and that rule must be able to fail (Bulletin-named rules watched)"
+    seconds: 0.1
+    shard: 1
+  - name: "Agency registry must keep its contract"
+    seconds: 0.1
+    shard: 2
+  - name: "Every registry-name read must be classified"
+    seconds: 0.4
+    shard: 3
+  - name: "Registry-name classification gate must fire (selftest)"
+    seconds: 0.0
+    shard: 4
+  - name: "OAR enrichment stamps the OAR name (selftest)"
+    seconds: 0.0
+    shard: 4
+  - name: "OAR discovery is keyed on the OAR name (selftest)"
+    seconds: 0.0
+    shard: 4
+  - name: "The OAR catalog must agree with the registry, the disk, and its own rules"
+    seconds: 5.1
+    shard: 2
+  - name: "...and those rules must be able to fail"
+    seconds: 0.0
+    shard: 4
+  - name: "Enabling authorities must match the reviewed table"
+    seconds: 7.9
+    shard: 1
+  - name: "Relation kinds must match the derivation"
+    seconds: 0.1
+    shard: 3
+  - name: "Recheck cadences must be declared once"
+    seconds: 0.7
+    shard: 2
+  - name: "Mechanical conflict findings must be current"
+    seconds: 47.5
+    shard: 4
+  - name: "Bulletin worklist must hold up against the corpus"
+    seconds: 6.9
+    shard: 1
+  - name: "Legal status must be written once and read everywhere else"
+    seconds: 4.8
+    shard: 1
+  - name: "Every amendment the Bulletin filed must be recorded as re-ingested"
+    seconds: 4.8
+    shard: 3
+  - name: "The Bulletin report must carry what it counts, on the Bulletin's cadence"
+    seconds: 0.2
+    shard: 2
+  - name: "The generated-views shard manifest must cover every gate, once"
+    seconds: 0.1
+    shard: 1
+  - name: "...and that rule must be able to fail (shard manifest coverage)"
+    seconds: 0.1
+    shard: 1
+  - name: "ORS ingest title-anchoring check must refuse a one-shared-word mis-anchor"
+    seconds: 14.4
+    shard: 2
+  - name: "ORS chapter-gap catalog must be current"
+    seconds: 72.0
+    shard: 3
+  - name: "ORS chapter-gap classification must all be able to fail"
+    seconds: 89.8
+    shard: 4
