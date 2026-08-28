@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Generate llms.txt — the machine-readable master index — mechanically.
 
-  python3 src/build_llms.py           # regenerate llms.txt
-  python3 src/build_llms.py --check   # exit 1 if committed llms.txt is stale (CI)
+  python3 src/build_llms.py                    # regenerate llms.txt
+  python3 src/build_llms.py --check             # exit 1 if committed llms.txt is stale (CI)
+  python3 src/build_llms.py --check --selftest  # both gates, ONE build (#268)
 
 llms.txt used to be hand-maintained, which cost model tokens on every ingest and
 rotted (it shipped broken links through two agency renames). Now it is GENERATED,
@@ -235,14 +236,18 @@ def missing_chapters(text):
     return [(ch, t, n) for ch, t, n in mirrored_oar_chapters() if ch not in named]
 
 
-def selftest() -> int:
+def selftest(good=None) -> int:
+    """`good`: a pre-built llms.txt text, when the caller already has one (#268 --
+    build() walks the full corpus and used to run a second time here even when
+    `--check` in the same process had just built it once already). Pass None to
+    build fresh, e.g. when running --selftest standalone."""
     fails = []
     have = mirrored_oar_chapters()
     if not have:
         fails.append("FAIL there-are-mirrored-chapters-to-check: none found, so every "
                      "rule below is about nothing")
 
-    good = build()
+    good = good if good is not None else build()
     if missing_chapters(good):
         fails.append(f"FAIL the-generated-text-names-every-mirrored-chapter: "
                      f"{[c for c, _, _ in missing_chapters(good)]}")
@@ -283,31 +288,48 @@ def selftest() -> int:
     return 0
 
 
-def main():
-    text = build()
-    if "--selftest" in sys.argv:
-        sys.exit(selftest())
+def _run_check(text) -> int:
+    if not OUT.exists() or OUT.read_text() != text:
+        print("llms.txt is stale — run: python3 src/build_llms.py")
+        return 1
+    # STALENESS IS NOT ENOUGH (#237). llms.txt was current and WRONG: the OAR count
+    # came from the corpus and the chapter list from the discovery map, so 303 mirrored
+    # documents in chapters 419 and 950 were named nowhere while the sentence around
+    # them said 36,953. A regenerated file reproduces that faithfully.
+    missing = missing_chapters(text)
+    if missing:
+        for ch, title, n in missing[:10]:
+            print(f"  FAIL [what-we-publish-names-every-chapter-we-mirror] {ch}: "
+                  f"rules/{ch} holds {n} document(s)"
+                  + (f" ({title})" if title else "")
+                  + " and llms.txt does not name the chapter")
+        print(f"\n{len(missing)} mirrored chapter(s) missing from llms.txt.")
+        return 1
+    print(f"llms.txt is current, and names all "
+          f"{len(mirrored_oar_chapters())} mirrored OAR chapter(s).")
+    return 0
 
-    if "--check" in sys.argv:
-        if not OUT.exists() or OUT.read_text() != text:
-            print("llms.txt is stale — run: python3 src/build_llms.py")
-            sys.exit(1)
-        # STALENESS IS NOT ENOUGH (#237). llms.txt was current and WRONG: the OAR count
-        # came from the corpus and the chapter list from the discovery map, so 303 mirrored
-        # documents in chapters 419 and 950 were named nowhere while the sentence around
-        # them said 36,953. A regenerated file reproduces that faithfully.
-        missing = missing_chapters(text)
-        if missing:
-            for ch, title, n in missing[:10]:
-                print(f"  FAIL [what-we-publish-names-every-chapter-we-mirror] {ch}: "
-                      f"rules/{ch} holds {n} document(s)"
-                      + (f" ({title})" if title else "")
-                      + " and llms.txt does not name the chapter")
-            print(f"\n{len(missing)} mirrored chapter(s) missing from llms.txt.")
-            sys.exit(1)
-        print(f"llms.txt is current, and names all "
-              f"{len(mirrored_oar_chapters())} mirrored OAR chapter(s).")
-        return
+
+def main():
+    argv = sys.argv[1:]
+    do_selftest = "--selftest" in argv
+    do_check = "--check" in argv
+
+    # BUILT EXACTLY ONCE PER PROCESS (#268). These two gates used to run as separate
+    # CI steps -- `--check` and `--selftest` -- each paying the full corpus-walk cost
+    # of build() on its own (~100s each, measured). Co-located in one shard and
+    # invoked together (`--check --selftest`) they still run both proofs, sharing
+    # the one build() this function already had to do for --check's own comparison.
+    text = build()
+
+    if do_selftest or do_check:
+        rc = 0
+        if do_selftest:
+            rc = selftest(text) or rc
+        if do_check:
+            rc = _run_check(text) or rc
+        sys.exit(rc)
+
     OUT.write_text(text)
     n_sections = text.count("\n## ")
     print(f"llms.txt regenerated: {n_sections} sections, {len(text.splitlines())} lines")
