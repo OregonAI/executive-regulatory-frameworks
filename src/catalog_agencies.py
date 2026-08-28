@@ -240,6 +240,19 @@ FIELDS = {
     # while making `note` curated would resurrect a stale "title not parseable" note onto a
     # row whose title parsed fine on the next refresh, which is a false claim about the
     # scrape rather than preserved curation.
+    #
+    # THE FIELD WITH TWO ORIGINS AND NO WAY TO TELL THEM APART (CONTEXT.md, "Relation
+    # source"): most of `note` is the scrape's own "could not parse this title" flag, but
+    # the two rows that carry one today were typed by a person, and nothing on the row says
+    # which kind a given `note` is. `note-requires-manual` in check_registry() is what makes
+    # that unreadable state unreachable rather than merely undocumented (#178): a hand-typed
+    # note has nowhere to live but a `manual` row, because `manual` is preserved WHOLE and
+    # `note` on every other row is rebuilt from a live parse that a curated sentence would
+    # not survive. This is not `note` becoming PER_ROW like `name` — there is no `note_basis`
+    # naming which origin a given row's note has, only a rule that refuses the one shape
+    # that lets the two origins be confused. A future note with genuine hand-written
+    # curation on a NON-manual row still needs the shape `name`/`name_basis` has; that is
+    # unbuilt, and this guard's job is only to make sure nothing reaches that state quietly.
     "note": Field(SCRAPED, required=False),
     "manual": Field(MANUAL_FLAG, required=False),
     # THE DAS AGENCY NUMBER (CONTEXT.md): the number DAS assigns a body in the Oregon
@@ -2022,6 +2035,27 @@ def check_registry(cat, fields=None) -> list:
                 f"chapter title and nothing else, so this name was neither scraped nor "
                 f"read off an authority"))
 
+    # `note` HAS TWO ORIGINS AND NO WAY TO TELL THEM APART (CONTEXT.md, "Relation source"):
+    # `cmd_refresh()` writes one only when a chapter page's title would not parse, which is
+    # most of what this field is and why it is declared SCRAPED — but the two rows that
+    # carry one today were typed by a person. A SCRAPED field is skipped by
+    # `survives-refresh` on the assumption the refresh rewrites it faithfully, which is true
+    # of the scrape's own "could not parse" sentence and false of a hand-written one: the
+    # live scrape overwrites `note` with whatever the current parse produces (nothing, on a
+    # title that now parses fine) and never replays a sentence a human wrote, so that
+    # survival check would have to stay silent about exactly the loss it exists to catch.
+    # `manual` is what keeps a row whole instead of rebuilding it from the scrape — so a
+    # note is refused here rather than silently regenerated away, on the only row shape
+    # that already protects it (#178).
+    for i, o in rows:
+        if o.get("note") and not o.get("manual"):
+            failures.append(Failure(
+                "note-requires-manual", _row_id(o, i),
+                f"note {o['note']!r} is on a row that is not `manual: true` — `note` is "
+                "declared SCRAPED, so a --refresh rebuilds it from the live parse and "
+                "never replays this text; only a `manual` row is preserved whole enough "
+                "to keep a hand-written note across a refresh"))
+
     # IDENTITY. The slug is the only thing a sibling corpus joins on, and the chapter is
     # what put most rows here; either one claimed twice attributes one body's documents to
     # another. --refresh already calls a slug collision a human decision rather than silent
@@ -2963,6 +2997,21 @@ def _case_row_the_simulation_cannot_run_on(cat):
     del cat["organizations"][0]["oar_name"]
 
 
+def _case_curated_note_on_a_non_manual_row(cat):
+    """A hand-written note on a row nothing marks `manual`. #178: `note` is declared SCRAPED
+    because most of it is — `cmd_refresh()` writes one only when a chapter page's title
+    would not parse — but the two rows that carry one today were typed by a person, and
+    nothing on the row says which kind a given `note` is (CONTEXT.md, "Relation source").
+    `manual` is what keeps a row whole across a refresh; a row without it is rebuilt from
+    the live scrape, which writes `note` only on a parse failure and never replays a
+    sentence a human wrote. So a curated note on a non-manual row is silently destroyed on
+    the next --refresh with nothing to report it — not caught by `survives-refresh` either,
+    since a SCRAPED field is skipped by that comparison on the (here false) assumption that
+    the refresh rewrites it faithfully. The fixture's `cfo` carries no `manual` flag, which
+    is exactly the row this note must not be able to sit on."""
+    cat["organizations"][1]["note"] = "confirmed by phone with the agency, 2026-08-20"
+
+
 def _case_registry_emptied(cat):
     """Every row gone. A gate that reports a registry with no bodies in it as clean is a
     gate that passes without checking anything — and every rule below is vacuously true of
@@ -3017,6 +3066,8 @@ _CASES = [
      "index-relation-is-regenerated"),
     ("authority-hand-edited-onto-a-scraped-entry",
      _case_authority_hand_edited_onto_a_scraped_entry, "survives-refresh"),
+    ("curated-note-on-a-non-manual-row", _case_curated_note_on_a_non_manual_row,
+     "note-requires-manual"),
     ("registry-emptied", _case_registry_emptied, "registry-populated"),
     ("row-the-simulation-cannot-run-on", _case_row_the_simulation_cannot_run_on,
      "survives-refresh"),

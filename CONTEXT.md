@@ -290,8 +290,10 @@ other entry is curation the refresh carries across untouched. An `oar-index` ent
 the scrape cannot see is refused twice over: the index placed that body nowhere, and nothing
 can regenerate the entry. A relation with no source is
 refused, because it is one nothing can keep safe: `note` is the field that has two origins
-and no way to tell them apart, and a hand-written note there is destroyed by a refresh with
-nothing to report it.
+and no way to tell them apart, so a hand-written note is refused everywhere but the one row
+shape a refresh cannot rebuild out from under it — `catalog_agencies.py --check`'s
+`note-requires-manual` refuses a note on any row that is not `manual` (#178), rather than
+let a refresh destroy it with nothing to report it.
 _Avoid_: Provenance, origin — those name where a document came from, not who says the body
 sits here; and never *basis*, which is the key BESIDE this one on the same relation and
 answers a different question (what decided the kind)
