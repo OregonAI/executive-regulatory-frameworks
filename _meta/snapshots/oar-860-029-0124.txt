@@ -1,0 +1,181 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 29 REGULATIONS RELATED TO AGREEMENTS BETWEEN ELECTRIC UTILITIES AND ELECTRIC COGENERATION AND SMALL POWER PRODUCTION FACILITIES 
+ 860-029-0124 
+ Coordination between Qualifying Facility and Public Utility under Standard Power Purchase Agreements 
+ 
+ (1) Coordination with System. The qualifying facility's delivery of electricity to the purchasing public utility under a standard power purchase agreement must be at a voltage, phase, power factor, and frequency as reasonably specified by the purchasing public utility. The qualifying facility will furnish, install, operate, and maintain in good order and repair, and without cost to the purchasing public utility, such switching equipment, relays, locks and seals, breakers, automatic synchronizers, and other control and protective apparatus as required in the interconnection agreement or determined by the purchasing public utility to be reasonably necessary for the safe and reliable operation of the Facility in parallel with the System, or the qualifying facility may contract with the purchasing public utility to do so at the qualifying facility's expense. The purchasing public utility must at all times have access to all switching equipment capable of isolating the Facility from the System. 
+
+ (2) Planned Outages in standard power purchase agreements: 
+
+ (a) The qualifying facility must provide the purchasing public utility with an annual forecast of Planned Outages for each year of the purchase period at least one month, but no more than three months, before the first day of that year, and may update such Planned Outage forecast as necessary to comply with Prudent Electrical Practices. Any such update to the Planned Outage forecast must be promptly submitted to the purchasing public utility. Although the Planned Outage schedule should include predetermined outage duration, the outage may be extended when the original scope of work requires more time than originally scheduled, subject to notice of at least five days to the purchasing public utility when feasible. 
+
+ (b) The purchasing public utility may specify in the power purchase agreement two calendar months in each year in which the qualifying facility may not schedule Planned Outages during times when motive force is available to generate and deliver Net Output from the Facility ("High Demand Months") except to the extent reasonably required to enable a vendor to satisfy a guarantee requirement. Failure to identify the High Demand Months in the power purchase agreement shall constitute waiver of the purchasing public utility's right to require Planned Outages to not occur in such months. The purchasing public utility may change either or both High Demand Months no less than 12 months prior to the first contract year for which the purchasing public utility intends to change the High Demand Month(s). Nothing in the power purchase agreement's provisions limiting Planned Outages during High Demand Months may prohibit a qualifying facility from conducting Planned Outages during High Demand Months at times when motive force is unavailable to generate and deliver energy. 
+
+ (3) Maintenance Outages in standard power purchase agreements. 
+
+ (a) If the qualifying facility reasonably determines that it is necessary to schedule a Maintenance Outage, the qualifying facility must notify the purchasing public utility of the proposed Maintenance Outage as soon as practicable but in any event at least five days before the outage begins. The qualifying facility must take all reasonable measures consistent with Prudent Electrical Practices to not schedule any Maintenance Outage during the High Demand Months identified by the purchasing public utility in accordance with subsection (2)(b.). 
+
+ (b) Notice of a proposed Maintenance Outage by the qualifying facility must include the expected start date and time of the outage, the amount of generation capacity of the Facility that will not be available, and the expected completion date and time of the outage. The purchasing utility will promptly respond to such notice and may request reasonable modifications in the schedule for the outage. The qualifying facility must use all reasonable efforts to comply with any request to modify the schedule for a Maintenance Outage provided that such change has no substantial impact on the qualifying facility. 
+
+ (c) Once the Maintenance Outage has commenced, the qualifying facility must keep the purchasing public utility apprised of any changes in the generation capacity available from the Facility during the Maintenance Outage and any changes in the expected Maintenance Outage completion date and time. As soon as practicable, any notifications given orally must be confirmed in writing. Although the Notice of Proposed Maintenance Outage must include an expected completion date and time of the outage, the outage may be extended when the original scope of work requires more time than originally scheduled subject to notice of at least five days where feasible. The qualifying facility must take all reasonable measures consistent with Prudent Electrical Practices to minimize the frequency and duration of Maintenance Outages. 
+
+ (4) Forced Outages in standard power purchase agreements. The qualifying facility must promptly notify the purchasing public utility orally, via telephone to a number specified by the public utility (or other method approved by the public utility), of any Forced Outage resulting in more than ten percent of the Nameplate Capacity Rating of the Facility being unavailable. This report from qualifying facility must include the amount of the generation capacity of the Facility that will not be available because of the Forced Outage and the expected return date of such generation capacity. The qualifying facility must promptly update the report as necessary to advise the purchasing public utility of changed circumstances. As soon as practicable, any oral report of a Forced Outage must be confirmed in writing to the purchasing public utility. 
+
+ (5) Notice of Emergency Deratings and Outages in standard power purchase agreements. Notwithstanding the requirements of sections (2)-(4), the qualifying facility will inform the purchasing public utility, via telephone to a number specified by the purchasing public utility (or other method approved by public utility), of any limitations, restrictions, deratings or outages reasonably predicted by the qualifying facility to affect more than five percent of the Nameplate Capacity Rating of the Facility for the following day and will promptly update such notice to the extent of any material changes in this information. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 756, ORS 757 & ORS 758 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & ORS 758.505-758.555 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-2023, adopt filed 07/25/2023, effective 07/26/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -8358,7 +8358,7 @@ chapters:
   divisions:
   - division: '1'
     title: PROCEDURAL RULES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 141-001-0000
       status: ingested
@@ -8367,7 +8367,8 @@ chapters:
       status: ingested
       path: rules/141/001/oar-141-001-0005.md
     - number: 141-001-0007
-      status: not_ingested
+      status: ingested
+      path: rules/141/001/oar-141-001-0007.md
     - number: 141-001-0010
       status: ingested
       path: rules/141/001/oar-141-001-0010.md
@@ -8798,38 +8799,53 @@ chapters:
   - division: '68'
     title: IDENTIFICATION, NOTIFICATION, SALE AND EXCHANGE, CLEARING TITLE, OR RESERVATION OF HISTORICALLY
       FILLED LANDS, AND APPROVAL TO CREATE, SELL, EXCHANGE OR RESERVE NEW LANDS
-    status: not_ingested
+    status: ingested
     rules:
     - number: 141-068-0000
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0000.md
     - number: 141-068-0010
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0010.md
     - number: 141-068-0020
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0020.md
     - number: 141-068-0030
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0030.md
     - number: 141-068-0040
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0040.md
     - number: 141-068-0050
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0050.md
     - number: 141-068-0060
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0060.md
     - number: 141-068-0070
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0070.md
     - number: 141-068-0080
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0080.md
     - number: 141-068-0090
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0090.md
     - number: 141-068-0100
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0100.md
     - number: 141-068-0110
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0110.md
     - number: 141-068-0120
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0120.md
     - number: 141-068-0130
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0130.md
     - number: 141-068-0140
-      status: not_ingested
+      status: ingested
+      path: rules/141/068/oar-141-068-0140.md
   - division: '70'
     title: LEASING OF ONSHORE STATE-OWNED OIL AND GAS RIGHTS
     status: ingested
@@ -9076,10 +9092,11 @@ chapters:
       path: rules/141/073/oar-141-073-0215.md
   - division: '79'
     title: ELLIOTT STATE RESEARCH FOREST MANAGEMENT PLAN
-    status: not_ingested
+    status: ingested
     rules:
     - number: 141-079-0001
-      status: not_ingested
+      status: ingested
+      path: rules/141/079/oar-141-079-0001.md
   - division: '80'
     title: LOWER WILLAMETTE RIVER MANAGEMENT PLAN
     status: ingested
@@ -9480,7 +9497,7 @@ chapters:
   - division: '88'
     title: RULES GOVERNING THE ESTABLISHMENT OF RESTRICTIONS ON THE PUBLIC RECREATIONAL USE OF STATE-OWNED
       LAND
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 141-088-0000
       status: ingested
@@ -9516,7 +9533,8 @@ chapters:
       status: ingested
       path: rules/141/088/oar-141-088-0035.md
     - number: 141-088-0036
-      status: not_ingested
+      status: ingested
+      path: rules/141/088/oar-141-088-0036.md
     - number: 141-088-0040
       status: ingested
       path: rules/141/088/oar-141-088-0040.md
@@ -9587,9 +9605,11 @@ chapters:
       status: ingested
       path: rules/141/088/oar-141-088-0230.md
     - number: 141-088-0240
-      status: not_ingested
+      status: ingested
+      path: rules/141/088/oar-141-088-0240.md
     - number: 141-088-0250
-      status: not_ingested
+      status: ingested
+      path: rules/141/088/oar-141-088-0250.md
   - division: '89'
     title: ADMINISTRATIVE RULES GOVERNING THE ISSUANCE AND ENFORCEMENT OF GENERAL AUTHORIZATIONS WITHIN
       WATERS OF THIS STATE
@@ -10330,38 +10350,53 @@ chapters:
       path: rules/141/125/oar-141-125-0290.md
   - division: '126'
     title: ADMINISTRATIVE RULES FOR AUTHORIZING COMMUNICATION SITE FACILITIES ON STATE-OWNED LAND
-    status: not_ingested
+    status: ingested
     rules:
     - number: 141-126-0100
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0100.md
     - number: 141-126-0110
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0110.md
     - number: 141-126-0120
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0120.md
     - number: 141-126-0130
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0130.md
     - number: 141-126-0140
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0140.md
     - number: 141-126-0150
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0150.md
     - number: 141-126-0160
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0160.md
     - number: 141-126-0170
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0170.md
     - number: 141-126-0180
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0180.md
     - number: 141-126-0190
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0190.md
     - number: 141-126-0200
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0200.md
     - number: 141-126-0210
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0210.md
     - number: 141-126-0220
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0220.md
     - number: 141-126-0230
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0230.md
     - number: 141-126-0240
-      status: not_ingested
+      status: ingested
+      path: rules/141/126/oar-141-126-0240.md
   - division: '130'
     title: AGREEMENTS FOR VOLUNTEER SERVICES
     status: ingested
@@ -10469,7 +10504,7 @@ chapters:
     title: RULES GOVERNING THE ESTABLISHMENT OF AND AUTHORIZATION OF USES IN MARINE RESERVES, MARINE GARDENS,
       MARINE CONSERVATION AREAS, MARINE PROTECTED AREAS, MARINE RESEARCH AREAS, AND SEABIRD PROTECTION
       AREAS IN THE TERRITORIAL SEA
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 141-142-0010
       status: ingested
@@ -10526,53 +10561,77 @@ chapters:
       status: ingested
       path: rules/141/142/oar-141-142-0095.md
     - number: 141-142-0100
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0100.md
     - number: 141-142-0105
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0105.md
     - number: 141-142-0110
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0110.md
     - number: 141-142-0115
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0115.md
     - number: 141-142-0120
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0120.md
     - number: 141-142-0125
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0125.md
     - number: 141-142-0130
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0130.md
     - number: 141-142-0135
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0135.md
     - number: 141-142-0140
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0140.md
     - number: 141-142-0145
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0145.md
     - number: 141-142-0150
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0150.md
     - number: 141-142-0155
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0155.md
     - number: 141-142-0160
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0160.md
     - number: 141-142-0165
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0165.md
     - number: 141-142-0170
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0170.md
     - number: 141-142-0175
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0175.md
     - number: 141-142-0180
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0180.md
     - number: 141-142-0185
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0185.md
     - number: 141-142-0190
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0190.md
     - number: 141-142-0195
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0195.md
     - number: 141-142-0200
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0200.md
     - number: 141-142-0205
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0205.md
     - number: 141-142-0210
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0210.md
     - number: 141-142-0215
-      status: not_ingested
+      status: ingested
+      path: rules/141/142/oar-141-142-0215.md
   - division: '145'
     title: RULES GOVERNING THE MANAGEMENT OF STATE-OWNED SUBMERGED AND SUBMERSIBLE LAND SUBJECT TO REMEDIATION
       AND HABITAT RESTORATION ACTIVITIES
@@ -30011,7 +30070,7 @@ chapters:
       path: rules/330/135/oar-330-135-0060.md
   - division: '140'
     title: SELF DIRECTION OF PUBLIC PURPOSES CHARGES BY LARGE RETAIL ELECTRICITY CONSUMERS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 330-140-0010
       status: ingested
@@ -30029,7 +30088,8 @@ chapters:
       status: ingested
       path: rules/330/140/oar-330-140-0050.md
     - number: 330-140-0055
-      status: not_ingested
+      status: ingested
+      path: rules/330/140/oar-330-140-0055.md
     - number: 330-140-0060
       status: ingested
       path: rules/330/140/oar-330-140-0060.md
@@ -30037,7 +30097,8 @@ chapters:
       status: ingested
       path: rules/330/140/oar-330-140-0070.md
     - number: 330-140-0075
-      status: not_ingested
+      status: ingested
+      path: rules/330/140/oar-330-140-0075.md
     - number: 330-140-0080
       status: ingested
       path: rules/330/140/oar-330-140-0080.md
@@ -30409,178 +30470,253 @@ chapters:
       path: rules/330/240/oar-330-240-0170.md
   - division: '250'
     title: COMMUNITY RENEWABLE ENERGY PROJECT GRANT PROGRAM
-    status: not_ingested
+    status: ingested
     rules:
     - number: 330-250-0000
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0000.md
     - number: 330-250-0010
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0010.md
     - number: 330-250-0020
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0020.md
     - number: 330-250-0030
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0030.md
     - number: 330-250-0040
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0040.md
     - number: 330-250-0050
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0050.md
     - number: 330-250-0060
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0060.md
     - number: 330-250-0070
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0070.md
     - number: 330-250-0080
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0080.md
     - number: 330-250-0090
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0090.md
     - number: 330-250-0100
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0100.md
     - number: 330-250-0110
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0110.md
     - number: 330-250-0120
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0120.md
     - number: 330-250-0130
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0130.md
     - number: 330-250-0140
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0140.md
     - number: 330-250-0150
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0150.md
     - number: 330-250-0160
-      status: not_ingested
+      status: ingested
+      path: rules/330/250/oar-330-250-0160.md
   - division: '260'
     title: WILDFIRE RECOVERY ENERGY EFFICIENCY INCENTIVES
-    status: not_ingested
+    status: ingested
     rules:
     - number: 330-260-0000
-      status: not_ingested
+      status: ingested
+      path: rules/330/260/oar-330-260-0000.md
     - number: 330-260-0010
-      status: not_ingested
+      status: ingested
+      path: rules/330/260/oar-330-260-0010.md
     - number: 330-260-0020
-      status: not_ingested
+      status: ingested
+      path: rules/330/260/oar-330-260-0020.md
     - number: 330-260-0030
-      status: not_ingested
+      status: ingested
+      path: rules/330/260/oar-330-260-0030.md
     - number: 330-260-0040
-      status: not_ingested
+      status: ingested
+      path: rules/330/260/oar-330-260-0040.md
     - number: 330-260-0050
-      status: not_ingested
+      status: ingested
+      path: rules/330/260/oar-330-260-0050.md
     - number: 330-260-0060
-      status: not_ingested
+      status: ingested
+      path: rules/330/260/oar-330-260-0060.md
     - number: 330-260-0070
-      status: not_ingested
+      status: ingested
+      path: rules/330/260/oar-330-260-0070.md
     - number: 330-260-0080
-      status: not_ingested
+      status: ingested
+      path: rules/330/260/oar-330-260-0080.md
     - number: 330-260-0090
-      status: not_ingested
+      status: ingested
+      path: rules/330/260/oar-330-260-0090.md
     - number: 330-260-0100
-      status: not_ingested
+      status: ingested
+      path: rules/330/260/oar-330-260-0100.md
     - number: 330-260-0110
-      status: not_ingested
+      status: ingested
+      path: rules/330/260/oar-330-260-0110.md
   - division: '270'
     title: COMMUNITY HEAT PUMP DEPLOYMENT PROGRAM
-    status: not_ingested
+    status: ingested
     rules:
     - number: 330-270-0000
-      status: not_ingested
+      status: ingested
+      path: rules/330/270/oar-330-270-0000.md
     - number: 330-270-0010
-      status: not_ingested
+      status: ingested
+      path: rules/330/270/oar-330-270-0010.md
     - number: 330-270-0020
-      status: not_ingested
+      status: ingested
+      path: rules/330/270/oar-330-270-0020.md
     - number: 330-270-0030
-      status: not_ingested
+      status: ingested
+      path: rules/330/270/oar-330-270-0030.md
     - number: 330-270-0040
-      status: not_ingested
+      status: ingested
+      path: rules/330/270/oar-330-270-0040.md
     - number: 330-270-0050
-      status: not_ingested
+      status: ingested
+      path: rules/330/270/oar-330-270-0050.md
     - number: 330-270-0060
-      status: not_ingested
+      status: ingested
+      path: rules/330/270/oar-330-270-0060.md
     - number: 330-270-0070
-      status: not_ingested
+      status: ingested
+      path: rules/330/270/oar-330-270-0070.md
     - number: 330-270-0080
-      status: not_ingested
+      status: ingested
+      path: rules/330/270/oar-330-270-0080.md
   - division: '280'
     title: OREGON RENTAL HOME HEAT PUMP PROGRAM
-    status: not_ingested
+    status: ingested
     rules:
     - number: 330-280-0000
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0000.md
     - number: 330-280-0010
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0010.md
     - number: 330-280-0020
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0020.md
     - number: 330-280-0030
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0030.md
     - number: 330-280-0040
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0040.md
     - number: 330-280-0050
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0050.md
     - number: 330-280-0060
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0060.md
     - number: 330-280-0070
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0070.md
     - number: 330-280-0080
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0080.md
     - number: 330-280-0090
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0090.md
     - number: 330-280-0100
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0100.md
     - number: 330-280-0110
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0110.md
     - number: 330-280-0120
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0120.md
     - number: 330-280-0130
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0130.md
     - number: 330-280-0140
-      status: not_ingested
+      status: ingested
+      path: rules/330/280/oar-330-280-0140.md
   - division: '290'
     title: ENERGY EFFICIENCY TRAINING GRANT PROGRAM
-    status: not_ingested
+    status: ingested
     rules:
     - number: 330-290-0000
-      status: not_ingested
+      status: ingested
+      path: rules/330/290/oar-330-290-0000.md
     - number: 330-290-0010
-      status: not_ingested
+      status: ingested
+      path: rules/330/290/oar-330-290-0010.md
     - number: 330-290-0020
-      status: not_ingested
+      status: ingested
+      path: rules/330/290/oar-330-290-0020.md
     - number: 330-290-0030
-      status: not_ingested
+      status: ingested
+      path: rules/330/290/oar-330-290-0030.md
     - number: 330-290-0040
-      status: not_ingested
+      status: ingested
+      path: rules/330/290/oar-330-290-0040.md
     - number: 330-290-0050
-      status: not_ingested
+      status: ingested
+      path: rules/330/290/oar-330-290-0050.md
     - number: 330-290-0060
-      status: not_ingested
+      status: ingested
+      path: rules/330/290/oar-330-290-0060.md
     - number: 330-290-0070
-      status: not_ingested
+      status: ingested
+      path: rules/330/290/oar-330-290-0070.md
     - number: 330-290-0080
-      status: not_ingested
+      status: ingested
+      path: rules/330/290/oar-330-290-0080.md
     - number: 330-290-0090
-      status: not_ingested
+      status: ingested
+      path: rules/330/290/oar-330-290-0090.md
     - number: 330-290-0100
-      status: not_ingested
+      status: ingested
+      path: rules/330/290/oar-330-290-0100.md
     - number: 330-290-0110
-      status: not_ingested
+      status: ingested
+      path: rules/330/290/oar-330-290-0110.md
   - division: '300'
     title: BUILDING ENERGY PERFORMANCE STANDARDS
-    status: not_ingested
+    status: ingested
     rules:
     - number: 330-300-0000
-      status: not_ingested
+      status: ingested
+      path: rules/330/300/oar-330-300-0000.md
     - number: 330-300-0010
-      status: not_ingested
+      status: ingested
+      path: rules/330/300/oar-330-300-0010.md
     - number: 330-300-0100
-      status: not_ingested
+      status: ingested
+      path: rules/330/300/oar-330-300-0100.md
     - number: 330-300-0110
-      status: not_ingested
+      status: ingested
+      path: rules/330/300/oar-330-300-0110.md
     - number: 330-300-0120
-      status: not_ingested
+      status: ingested
+      path: rules/330/300/oar-330-300-0120.md
     - number: 330-300-0130
-      status: not_ingested
+      status: ingested
+      path: rules/330/300/oar-330-300-0130.md
     - number: 330-300-0140
-      status: not_ingested
+      status: ingested
+      path: rules/330/300/oar-330-300-0140.md
     - number: 330-300-0150
-      status: not_ingested
+      status: ingested
+      path: rules/330/300/oar-330-300-0150.md
     - number: 330-300-0160
-      status: not_ingested
+      status: ingested
+      path: rules/330/300/oar-330-300-0160.md
     - number: 330-300-0170
-      status: not_ingested
+      status: ingested
+      path: rules/330/300/oar-330-300-0170.md
   - division: '65'
     title: Oregon Residential Weatherization Tax Credit Program
     status: ingested
@@ -50562,152 +50698,224 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
   - division: '82'
     title: LAND USE ORDINANCE
-    status: not_ingested
+    status: ingested
     rules:
     - number: 350-082-0010
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0010.md
     - number: 350-082-0020
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0020.md
     - number: 350-082-0030
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0030.md
     - number: 350-082-0040
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0040.md
     - number: 350-082-0050
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0050.md
     - number: 350-082-0060
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0060.md
     - number: 350-082-0070
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0070.md
     - number: 350-082-0080
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0080.md
     - number: 350-082-0090
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0090.md
     - number: 350-082-0100
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0100.md
     - number: 350-082-0110
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0110.md
     - number: 350-082-0120
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0120.md
     - number: 350-082-0130
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0130.md
     - number: 350-082-0140
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0140.md
     - number: 350-082-0150
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0150.md
     - number: 350-082-0160
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0160.md
     - number: 350-082-0170
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0170.md
     - number: 350-082-0180
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0180.md
     - number: 350-082-0190
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0190.md
     - number: 350-082-0200
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0200.md
     - number: 350-082-0210
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0210.md
     - number: 350-082-0220
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0220.md
     - number: 350-082-0230
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0230.md
     - number: 350-082-0240
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0240.md
     - number: 350-082-0250
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0250.md
     - number: 350-082-0260
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0260.md
     - number: 350-082-0270
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0270.md
     - number: 350-082-0280
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0280.md
     - number: 350-082-0290
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0290.md
     - number: 350-082-0300
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0300.md
     - number: 350-082-0310
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0310.md
     - number: 350-082-0320
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0320.md
     - number: 350-082-0330
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0330.md
     - number: 350-082-0340
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0340.md
     - number: 350-082-0350
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0350.md
     - number: 350-082-0360
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0360.md
     - number: 350-082-0370
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0370.md
     - number: 350-082-0380
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0380.md
     - number: 350-082-0390
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0390.md
     - number: 350-082-0400
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0400.md
     - number: 350-082-0410
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0410.md
     - number: 350-082-0420
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0420.md
     - number: 350-082-0430
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0430.md
     - number: 350-082-0440
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0440.md
     - number: 350-082-0450
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0450.md
     - number: 350-082-0460
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0460.md
     - number: 350-082-0470
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0470.md
     - number: 350-082-0480
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0480.md
     - number: 350-082-0490
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0490.md
     - number: 350-082-0500
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0500.md
     - number: 350-082-0510
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0510.md
     - number: 350-082-0520
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0520.md
     - number: 350-082-0530
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0530.md
     - number: 350-082-0540
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0540.md
     - number: 350-082-0550
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0550.md
     - number: 350-082-0560
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0560.md
     - number: 350-082-0570
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0570.md
     - number: 350-082-0580
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0580.md
     - number: 350-082-0590
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0590.md
     - number: 350-082-0600
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0600.md
     - number: 350-082-0610
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0610.md
     - number: 350-082-0620
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0620.md
     - number: 350-082-0630
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0630.md
     - number: 350-082-0640
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0640.md
     - number: 350-082-0650
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0650.md
     - number: 350-082-0660
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0660.md
     - number: 350-082-0670
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0670.md
     - number: 350-082-0680
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0680.md
     - number: 350-082-0690
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0690.md
     - number: 350-082-0700
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0700.md
     - number: 350-082-0710
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0710.md
     - number: 350-082-0720
-      status: not_ingested
+      status: ingested
+      path: rules/350/082/oar-350-082-0720.md
   - division: '120'
     title: ECONOMIC DEVELOPMENT CERTIFICATION PROCESS
     status: ingested
@@ -51797,10 +52005,11 @@ chapters:
       path: rules/409/015/oar-409-015-0035.md
   - division: '17'
     title: 'DENTAL SERVICES : UNDERSERVED POPULATIONS'
-    status: not_ingested
+    status: ingested
     rules:
     - number: 409-017-0121
-      status: not_ingested
+      status: ingested
+      path: rules/409/017/oar-409-017-0121.md
   - division: '21'
     title: ACCESS OF DATA AND FEES FOR DATA SEARCH
     status: ingested
@@ -51850,7 +52059,7 @@ chapters:
       path: rules/409/022/oar-409-022-0070.md
   - division: '23'
     title: COMMUNITY BENEFIT REPORTING
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 409-023-0100
       status: ingested
@@ -51865,9 +52074,11 @@ chapters:
       status: ingested
       path: rules/409/023/oar-409-023-0115.md
     - number: 409-023-0120
-      status: not_ingested
+      status: ingested
+      path: rules/409/023/oar-409-023-0120.md
     - number: 409-023-0125
-      status: not_ingested
+      status: ingested
+      path: rules/409/023/oar-409-023-0125.md
   - division: '24'
     title: CAPITAL PROJECT REPORTING PROGRAM
     status: ingested
@@ -52037,7 +52248,7 @@ chapters:
       path: rules/409/035/oar-409-035-0060.md
   - division: '36'
     title: HEALTH CARE PROVIDER INCENTIVE PROGRAM
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 409-036-0000
       status: ingested
@@ -52046,7 +52257,8 @@ chapters:
       status: ingested
       path: rules/409/036/oar-409-036-0010.md
     - number: 409-036-0015
-      status: not_ingested
+      status: ingested
+      path: rules/409/036/oar-409-036-0015.md
     - number: 409-036-0020
       status: ingested
       path: rules/409/036/oar-409-036-0020.md
@@ -52054,7 +52266,8 @@ chapters:
       status: ingested
       path: rules/409/036/oar-409-036-0030.md
     - number: 409-036-0035
-      status: not_ingested
+      status: ingested
+      path: rules/409/036/oar-409-036-0035.md
     - number: 409-036-0040
       status: ingested
       path: rules/409/036/oar-409-036-0040.md
@@ -52062,7 +52275,8 @@ chapters:
       status: ingested
       path: rules/409/036/oar-409-036-0050.md
     - number: 409-036-0055
-      status: not_ingested
+      status: ingested
+      path: rules/409/036/oar-409-036-0055.md
     - number: 409-036-0060
       status: ingested
       path: rules/409/036/oar-409-036-0060.md
@@ -52095,34 +52309,47 @@ chapters:
       path: rules/409/036/oar-409-036-0150.md
   - division: '39'
     title: TEMPORARY HEALTH CARE STAFF RATE SETTING PROGRAM
-    status: not_ingested
+    status: ingested
     rules:
     - number: 409-039-0000
-      status: not_ingested
+      status: ingested
+      path: rules/409/039/oar-409-039-0000.md
     - number: 409-039-0010
-      status: not_ingested
+      status: ingested
+      path: rules/409/039/oar-409-039-0010.md
     - number: 409-039-0020
-      status: not_ingested
+      status: ingested
+      path: rules/409/039/oar-409-039-0020.md
     - number: 409-039-0030
-      status: not_ingested
+      status: ingested
+      path: rules/409/039/oar-409-039-0030.md
     - number: 409-039-0040
-      status: not_ingested
+      status: ingested
+      path: rules/409/039/oar-409-039-0040.md
     - number: 409-039-0050
-      status: not_ingested
+      status: ingested
+      path: rules/409/039/oar-409-039-0050.md
     - number: 409-039-0060
-      status: not_ingested
+      status: ingested
+      path: rules/409/039/oar-409-039-0060.md
     - number: 409-039-0070
-      status: not_ingested
+      status: ingested
+      path: rules/409/039/oar-409-039-0070.md
     - number: 409-039-0080
-      status: not_ingested
+      status: ingested
+      path: rules/409/039/oar-409-039-0080.md
     - number: 409-039-0090
-      status: not_ingested
+      status: ingested
+      path: rules/409/039/oar-409-039-0090.md
     - number: 409-039-0100
-      status: not_ingested
+      status: ingested
+      path: rules/409/039/oar-409-039-0100.md
     - number: 409-039-0110
-      status: not_ingested
+      status: ingested
+      path: rules/409/039/oar-409-039-0110.md
     - number: 409-039-0120
-      status: not_ingested
+      status: ingested
+      path: rules/409/039/oar-409-039-0120.md
   - division: '45'
     title: HEALTH CARE PRACTITIONER CREDENTIALING
     status: ingested
@@ -52240,12 +52467,14 @@ chapters:
       path: rules/409/055/oar-409-055-0090.md
   - division: '58'
     title: HEALTH EVIDENCE REVIEW COMMISSION
-    status: not_ingested
+    status: ingested
     rules:
     - number: 409-058-0100
-      status: not_ingested
+      status: ingested
+      path: rules/409/058/oar-409-058-0100.md
     - number: 409-058-0110
-      status: not_ingested
+      status: ingested
+      path: rules/409/058/oar-409-058-0110.md
   - division: '60'
     title: HEALTH EVIDENCE REVIEW COMMISSION MEDICAL TECHNOLOGY ASSESSMENTS
     status: ingested
@@ -52270,17 +52499,20 @@ chapters:
       path: rules/409/060/oar-409-060-0150.md
   - division: '62'
     title: VALUE-BASED BENEFITS SUBCOMMITTEE
-    status: not_ingested
+    status: ingested
     rules:
     - number: 409-062-0100
-      status: not_ingested
+      status: ingested
+      path: rules/409/062/oar-409-062-0100.md
     - number: 409-062-0110
-      status: not_ingested
+      status: ingested
+      path: rules/409/062/oar-409-062-0110.md
     - number: 409-062-0120
-      status: not_ingested
+      status: ingested
+      path: rules/409/062/oar-409-062-0120.md
   - division: '65'
     title: SUSTAINABLE HEALTH CARE COST GROWTH TARGET PROGRAM
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 409-065-0000
       status: ingested
@@ -52301,74 +52533,105 @@ chapters:
       status: ingested
       path: rules/409/065/oar-409-065-0025.md
     - number: 409-065-0028
-      status: not_ingested
+      status: ingested
+      path: rules/409/065/oar-409-065-0028.md
     - number: 409-065-0029
-      status: not_ingested
+      status: ingested
+      path: rules/409/065/oar-409-065-0029.md
     - number: 409-065-0030
       status: ingested
       path: rules/409/065/oar-409-065-0030.md
     - number: 409-065-0035
-      status: not_ingested
+      status: ingested
+      path: rules/409/065/oar-409-065-0035.md
     - number: 409-065-0040
-      status: not_ingested
+      status: ingested
+      path: rules/409/065/oar-409-065-0040.md
     - number: 409-065-0042
-      status: not_ingested
+      status: ingested
+      path: rules/409/065/oar-409-065-0042.md
     - number: 409-065-0045
-      status: not_ingested
+      status: ingested
+      path: rules/409/065/oar-409-065-0045.md
     - number: 409-065-0050
-      status: not_ingested
+      status: ingested
+      path: rules/409/065/oar-409-065-0050.md
     - number: 409-065-0055
-      status: not_ingested
+      status: ingested
+      path: rules/409/065/oar-409-065-0055.md
   - division: '70'
     title: HEALTH CARE MARKET OVERSIGHT PROGRAM
-    status: not_ingested
+    status: ingested
     rules:
     - number: 409-070-0000
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0000.md
     - number: 409-070-0005
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0005.md
     - number: 409-070-0010
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0010.md
     - number: 409-070-0015
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0015.md
     - number: 409-070-0020
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0020.md
     - number: 409-070-0022
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0022.md
     - number: 409-070-0025
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0025.md
     - number: 409-070-0030
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0030.md
     - number: 409-070-0035
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0035.md
     - number: 409-070-0040
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0040.md
     - number: 409-070-0042
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0042.md
     - number: 409-070-0045
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0045.md
     - number: 409-070-0050
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0050.md
     - number: 409-070-0055
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0055.md
     - number: 409-070-0060
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0060.md
     - number: 409-070-0062
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0062.md
     - number: 409-070-0065
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0065.md
     - number: 409-070-0067
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0067.md
     - number: 409-070-0070
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0070.md
     - number: 409-070-0075
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0075.md
     - number: 409-070-0080
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0080.md
     - number: 409-070-0082
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0082.md
     - number: 409-070-0085
-      status: not_ingested
+      status: ingested
+      path: rules/409/070/oar-409-070-0085.md
   - division: '27'
     title: Primary Care Services Reporting
     status: ingested
@@ -71397,7 +71660,7 @@ chapters:
       path: rules/441/135/oar-441-135-0020.md
   - division: '175'
     title: LICENSING OF BROKER-DEALERS, INVESTMENT ADVISERS, AND SALESPERSONS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 441-175-0002
       status: ingested
@@ -71478,9 +71741,11 @@ chapters:
       status: ingested
       path: rules/441/175/oar-441-175-0185.md
     - number: 441-175-0190
-      status: not_ingested
+      status: ingested
+      path: rules/441/175/oar-441-175-0190.md
     - number: 441-175-0195
-      status: not_ingested
+      status: ingested
+      path: rules/441/175/oar-441-175-0195.md
   - division: '195'
     title: RECORDS AND REPORTS
     status: ingested
@@ -72031,60 +72296,86 @@ chapters:
       path: rules/441/730/oar-441-730-0320.md
   - division: '735'
     title: PAYDAY AND TITLE LENDING
-    status: not_ingested
+    status: ingested
     rules:
     - number: 441-735-0000
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0000.md
     - number: 441-735-0010
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0010.md
     - number: 441-735-0015
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0015.md
     - number: 441-735-0025
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0025.md
     - number: 441-735-0030
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0030.md
     - number: 441-735-0050
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0050.md
     - number: 441-735-0060
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0060.md
     - number: 441-735-0070
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0070.md
     - number: 441-735-0080
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0080.md
     - number: 441-735-0100
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0100.md
     - number: 441-735-0110
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0110.md
     - number: 441-735-0120
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0120.md
     - number: 441-735-0130
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0130.md
     - number: 441-735-0140
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0140.md
     - number: 441-735-0160
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0160.md
     - number: 441-735-0165
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0165.md
     - number: 441-735-0205
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0205.md
     - number: 441-735-0240
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0240.md
     - number: 441-735-0250
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0250.md
     - number: 441-735-0255
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0255.md
     - number: 441-735-0271
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0271.md
     - number: 441-735-0272
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0272.md
     - number: 441-735-0275
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0275.md
     - number: 441-735-0280
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0280.md
     - number: 441-735-0310
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0310.md
     - number: 441-735-0320
-      status: not_ingested
+      status: ingested
+      path: rules/441/735/oar-441-735-0320.md
   - division: '740'
     title: PAWNBROKERS
     status: ingested
@@ -72323,26 +72614,35 @@ chapters:
       path: rules/441/820/oar-441-820-0180.md
   - division: '840'
     title: DATA BROKERS
-    status: not_ingested
+    status: ingested
     rules:
     - number: 441-840-0010
-      status: not_ingested
+      status: ingested
+      path: rules/441/840/oar-441-840-0010.md
     - number: 441-840-0020
-      status: not_ingested
+      status: ingested
+      path: rules/441/840/oar-441-840-0020.md
     - number: 441-840-0030
-      status: not_ingested
+      status: ingested
+      path: rules/441/840/oar-441-840-0030.md
     - number: 441-840-0040
-      status: not_ingested
+      status: ingested
+      path: rules/441/840/oar-441-840-0040.md
     - number: 441-840-0050
-      status: not_ingested
+      status: ingested
+      path: rules/441/840/oar-441-840-0050.md
     - number: 441-840-0060
-      status: not_ingested
+      status: ingested
+      path: rules/441/840/oar-441-840-0060.md
     - number: 441-840-0070
-      status: not_ingested
+      status: ingested
+      path: rules/441/840/oar-441-840-0070.md
     - number: 441-840-0080
-      status: not_ingested
+      status: ingested
+      path: rules/441/840/oar-441-840-0080.md
     - number: 441-840-0090
-      status: not_ingested
+      status: ingested
+      path: rules/441/840/oar-441-840-0090.md
   - division: '850'
     title: MORTGAGE LENDING GENERAL PROVISIONS
     status: ingested
@@ -72606,48 +72906,68 @@ chapters:
       path: rules/441/890/oar-441-890-0075.md
   - division: '895'
     title: STUDENT LOAN SERVICERS
-    status: not_ingested
+    status: ingested
     rules:
     - number: 441-895-0005
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0005.md
     - number: 441-895-0010
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0010.md
     - number: 441-895-0015
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0015.md
     - number: 441-895-0020
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0020.md
     - number: 441-895-0025
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0025.md
     - number: 441-895-0030
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0030.md
     - number: 441-895-0035
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0035.md
     - number: 441-895-0040
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0040.md
     - number: 441-895-0045
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0045.md
     - number: 441-895-0050
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0050.md
     - number: 441-895-0055
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0055.md
     - number: 441-895-0060
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0060.md
     - number: 441-895-0065
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0065.md
     - number: 441-895-0070
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0070.md
     - number: 441-895-0075
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0075.md
     - number: 441-895-0080
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0080.md
     - number: 441-895-0085
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0085.md
     - number: 441-895-0090
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0090.md
     - number: 441-895-0095
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0095.md
     - number: 441-895-0110
-      status: not_ingested
+      status: ingested
+      path: rules/441/895/oar-441-895-0110.md
   - division: '910'
     title: DEBT MANAGEMENT
     status: ingested
@@ -92827,7 +93147,7 @@ chapters:
       path: rules/635/004/oar-635-004-0690.md
   - division: '5'
     title: COMMERCIAL SHELLFISH AND MARINE INVERTEBRATE FISHERIES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-005-0225
       status: ingested
@@ -92972,7 +93292,8 @@ chapters:
       status: ingested
       path: rules/635/005/oar-635-005-0445.md
     - number: 635-005-0446
-      status: not_ingested
+      status: ingested
+      path: rules/635/005/oar-635-005-0446.md
     - number: 635-005-0450
       status: ingested
       path: rules/635/005/oar-635-005-0450.md
@@ -93013,7 +93334,8 @@ chapters:
       status: ingested
       path: rules/635/005/oar-635-005-0500.md
     - number: 635-005-0502
-      status: not_ingested
+      status: ingested
+      path: rules/635/005/oar-635-005-0502.md
     - number: 635-005-0505
       status: ingested
       path: rules/635/005/oar-635-005-0505.md
@@ -93270,7 +93592,8 @@ chapters:
       status: ingested
       path: rules/635/005/oar-635-005-0920.md
     - number: 635-005-0921
-      status: not_ingested
+      status: ingested
+      path: rules/635/005/oar-635-005-0921.md
     - number: 635-005-0925
       status: ingested
       path: rules/635/005/oar-635-005-0925.md
@@ -93811,7 +94134,7 @@ chapters:
       path: rules/635/008/oar-635-008-0211.md
   - division: '9'
     title: SALMON AND TROUT ENHANCEMENT PROGRAM AND RIPARIAN LANDS TAX INCENTIVE PROGRAM
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-009-0055
       status: ingested
@@ -93826,9 +94149,11 @@ chapters:
       status: ingested
       path: rules/635/009/oar-635-009-0095.md
     - number: 635-009-0096
-      status: not_ingested
+      status: ingested
+      path: rules/635/009/oar-635-009-0096.md
     - number: 635-009-0097
-      status: not_ingested
+      status: ingested
+      path: rules/635/009/oar-635-009-0097.md
     - number: 635-009-0100
       status: ingested
       path: rules/635/009/oar-635-009-0100.md
@@ -93836,9 +94161,11 @@ chapters:
       status: ingested
       path: rules/635/009/oar-635-009-0105.md
     - number: 635-009-0106
-      status: not_ingested
+      status: ingested
+      path: rules/635/009/oar-635-009-0106.md
     - number: 635-009-0107
-      status: not_ingested
+      status: ingested
+      path: rules/635/009/oar-635-009-0107.md
     - number: 635-009-0110
       status: ingested
       path: rules/635/009/oar-635-009-0110.md
@@ -93934,7 +94261,7 @@ chapters:
   - division: '10'
     title: LICENSING - PROCEDURES FOR ESTABLISHING, OPERATING, DISCONTINUING AND SUSPENDING LICENSES AND
       AGENTS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-010-0000
       status: ingested
@@ -94030,7 +94357,8 @@ chapters:
       status: ingested
       path: rules/635/010/oar-635-010-0158.md
     - number: 635-010-0159
-      status: not_ingested
+      status: ingested
+      path: rules/635/010/oar-635-010-0159.md
     - number: 635-010-0162
       status: ingested
       path: rules/635/010/oar-635-010-0162.md
@@ -94147,7 +94475,7 @@ chapters:
       path: rules/635/013/oar-635-013-0009.md
   - division: '14'
     title: NORTHWEST ZONE SPORT ANGLING REGULATIONS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-014-0080
       status: ingested
@@ -94156,28 +94484,36 @@ chapters:
       status: ingested
       path: rules/635/014/oar-635-014-0090.md
     - number: 635-014-0500
-      status: not_ingested
+      status: ingested
+      path: rules/635/014/oar-635-014-0500.md
     - number: 635-014-0510
-      status: not_ingested
+      status: ingested
+      path: rules/635/014/oar-635-014-0510.md
   - division: '16'
     title: SOUTHWEST ZONE SPORT ANGLING REGULATIONS
-    status: not_ingested
+    status: ingested
     rules:
     - number: 635-016-0080
-      status: not_ingested
+      status: ingested
+      path: rules/635/016/oar-635-016-0080.md
     - number: 635-016-0090
-      status: not_ingested
+      status: ingested
+      path: rules/635/016/oar-635-016-0090.md
     - number: 635-016-0500
-      status: not_ingested
+      status: ingested
+      path: rules/635/016/oar-635-016-0500.md
     - number: 635-016-0510
-      status: not_ingested
+      status: ingested
+      path: rules/635/016/oar-635-016-0510.md
     - number: 635-016-0520
-      status: not_ingested
+      status: ingested
+      path: rules/635/016/oar-635-016-0520.md
     - number: 635-016-0530
-      status: not_ingested
+      status: ingested
+      path: rules/635/016/oar-635-016-0530.md
   - division: '17'
     title: WILLAMETTE ZONE SPORT ANGLING REGULATIONS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-017-0080
       status: ingested
@@ -94189,16 +94525,20 @@ chapters:
       status: ingested
       path: rules/635/017/oar-635-017-0095.md
     - number: 635-017-0500
-      status: not_ingested
+      status: ingested
+      path: rules/635/017/oar-635-017-0500.md
     - number: 635-017-0510
-      status: not_ingested
+      status: ingested
+      path: rules/635/017/oar-635-017-0510.md
     - number: 635-017-0520
-      status: not_ingested
+      status: ingested
+      path: rules/635/017/oar-635-017-0520.md
     - number: 635-017-0530
-      status: not_ingested
+      status: ingested
+      path: rules/635/017/oar-635-017-0530.md
   - division: '18'
     title: CENTRAL ZONE SPORT ANGLING REGULATIONS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-018-0080
       status: ingested
@@ -94207,12 +94547,14 @@ chapters:
       status: ingested
       path: rules/635/018/oar-635-018-0090.md
     - number: 635-018-0500
-      status: not_ingested
+      status: ingested
+      path: rules/635/018/oar-635-018-0500.md
     - number: 635-018-0510
-      status: not_ingested
+      status: ingested
+      path: rules/635/018/oar-635-018-0510.md
   - division: '19'
     title: NORTHEAST ZONE SPORT ANGLING REGULATIONS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-019-0080
       status: ingested
@@ -94221,16 +94563,20 @@ chapters:
       status: ingested
       path: rules/635/019/oar-635-019-0090.md
     - number: 635-019-0500
-      status: not_ingested
+      status: ingested
+      path: rules/635/019/oar-635-019-0500.md
     - number: 635-019-0510
-      status: not_ingested
+      status: ingested
+      path: rules/635/019/oar-635-019-0510.md
     - number: 635-019-0520
-      status: not_ingested
+      status: ingested
+      path: rules/635/019/oar-635-019-0520.md
     - number: 635-019-0530
-      status: not_ingested
+      status: ingested
+      path: rules/635/019/oar-635-019-0530.md
   - division: '21'
     title: SOUTHEAST ZONE SPORT ANGLING REGULATIONS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-021-0080
       status: ingested
@@ -94239,12 +94585,14 @@ chapters:
       status: ingested
       path: rules/635/021/oar-635-021-0090.md
     - number: 635-021-0500
-      status: not_ingested
+      status: ingested
+      path: rules/635/021/oar-635-021-0500.md
     - number: 635-021-0510
-      status: not_ingested
+      status: ingested
+      path: rules/635/021/oar-635-021-0510.md
   - division: '23'
     title: COLUMBIA RIVER ZONE SPORT ANGLING REGULATIONS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-023-0080
       status: ingested
@@ -94259,7 +94607,8 @@ chapters:
       status: ingested
       path: rules/635/023/oar-635-023-0095.md
     - number: 635-023-0101
-      status: not_ingested
+      status: ingested
+      path: rules/635/023/oar-635-023-0101.md
     - number: 635-023-0125
       status: ingested
       path: rules/635/023/oar-635-023-0125.md
@@ -94280,12 +94629,14 @@ chapters:
       path: rules/635/023/oar-635-023-0140.md
   - division: '24'
     title: SNAKE RIVER ZONE SPORT ANGLING REGULATIONS
-    status: not_ingested
+    status: ingested
     rules:
     - number: 635-024-0080
-      status: not_ingested
+      status: ingested
+      path: rules/635/024/oar-635-024-0080.md
     - number: 635-024-0090
-      status: not_ingested
+      status: ingested
+      path: rules/635/024/oar-635-024-0090.md
   - division: '39'
     title: MARINE ZONE FISH, SHELLFISH AND MARINE INVERTEBRATES SPORT REGULATIONS
     status: ingested
@@ -94359,7 +94710,7 @@ chapters:
       path: rules/635/040/oar-635-040-0210.md
   - division: '41'
     title: COLUMBIA RIVER SYSTEM TREATY INDIAN FISHERIES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-041-0005
       status: ingested
@@ -94460,7 +94811,8 @@ chapters:
       status: ingested
       path: rules/635/041/oar-635-041-0610.md
     - number: 635-041-0620
-      status: not_ingested
+      status: ingested
+      path: rules/635/041/oar-635-041-0620.md
   - division: '42'
     title: COLUMBIA RIVER SYSTEM COMMERCIAL FISHERIES
     status: ingested
@@ -94579,13 +94931,17 @@ chapters:
       status: ingested
       path: rules/635/043/oar-635-043-0056.md
     - number: 635-043-0061
-      status: not_ingested
+      status: ingested
+      path: rules/635/043/oar-635-043-0061.md
     - number: 635-043-0066
-      status: not_ingested
+      status: ingested
+      path: rules/635/043/oar-635-043-0066.md
     - number: 635-043-0071
-      status: not_ingested
+      status: ingested
+      path: rules/635/043/oar-635-043-0071.md
     - number: 635-043-0076
-      status: not_ingested
+      status: ingested
+      path: rules/635/043/oar-635-043-0076.md
     - number: 635-043-0085
       status: ingested
       path: rules/635/043/oar-635-043-0085.md
@@ -94612,14 +94968,12 @@ chapters:
       path: rules/635/043/oar-635-043-0130.md
     - number: 635-043-0140
       status: renumbered
-      note: 'OARD serves 635-800-0700 for this number (not on OARD''s current chapter listing — history,
-        kept, ADR 0006 #270)'
+      note: OARD serves 635-800-0700 for this number
       served_as: 635-800-0700
       path: rules/635/800/oar-635-800-0700.md
     - number: 635-043-0150
       status: renumbered
-      note: 'OARD serves 635-800-0015 for this number (not on OARD''s current chapter listing — history,
-        kept, ADR 0006 #270)'
+      note: OARD serves 635-800-0015 for this number
       served_as: 635-800-0015
       path: rules/635/800/oar-635-800-0015.md
     - number: 635-043-0175
@@ -94930,7 +95284,7 @@ chapters:
       path: rules/635/049/oar-635-049-0350.md
   - division: '50'
     title: FURBEARING AND UNPROTECTED MAMMAL REGULATIONS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-050-0015
       status: ingested
@@ -94999,7 +95353,8 @@ chapters:
       status: ingested
       path: rules/635/050/oar-635-050-0210.md
     - number: 635-050-0300
-      status: not_ingested
+      status: ingested
+      path: rules/635/050/oar-635-050-0300.md
   - division: '51'
     title: GENERAL GAME BIRD REGULATIONS
     status: ingested
@@ -96058,49 +96413,64 @@ chapters:
       path: rules/635/090/oar-635-090-0200.md
   - division: '95'
     title: HABITAT CONSERVATION, UPLAND GAME BIRD, AND WATERFOWL STAMPS
-    status: not_ingested
+    status: ingested
     rules:
     - number: 635-095-0100
-      status: not_ingested
+      status: ingested
+      path: rules/635/095/oar-635-095-0100.md
     - number: 635-095-0105
-      status: not_ingested
+      status: ingested
+      path: rules/635/095/oar-635-095-0105.md
     - number: 635-095-0111
-      status: not_ingested
+      status: ingested
+      path: rules/635/095/oar-635-095-0111.md
     - number: 635-095-0125
-      status: not_ingested
+      status: ingested
+      path: rules/635/095/oar-635-095-0125.md
   - division: '97'
     title: PRIVATE FOREST ACCORD GRANT PROGRAM
-    status: not_ingested
+    status: ingested
     rules:
     - number: 635-097-0000
-      status: not_ingested
+      status: ingested
+      path: rules/635/097/oar-635-097-0000.md
     - number: 635-097-0010
-      status: not_ingested
+      status: ingested
+      path: rules/635/097/oar-635-097-0010.md
     - number: 635-097-0020
-      status: not_ingested
+      status: ingested
+      path: rules/635/097/oar-635-097-0020.md
     - number: 635-097-0030
-      status: not_ingested
+      status: ingested
+      path: rules/635/097/oar-635-097-0030.md
     - number: 635-097-0050
-      status: not_ingested
+      status: ingested
+      path: rules/635/097/oar-635-097-0050.md
     - number: 635-097-0070
-      status: not_ingested
+      status: ingested
+      path: rules/635/097/oar-635-097-0070.md
     - number: 635-097-0080
-      status: not_ingested
+      status: ingested
+      path: rules/635/097/oar-635-097-0080.md
     - number: 635-097-0090
-      status: not_ingested
+      status: ingested
+      path: rules/635/097/oar-635-097-0090.md
     - number: 635-097-0100
-      status: not_ingested
+      status: ingested
+      path: rules/635/097/oar-635-097-0100.md
     - number: 635-097-0110
-      status: not_ingested
+      status: ingested
+      path: rules/635/097/oar-635-097-0110.md
   - division: '98'
     title: OREGON CONSERVATION AND RECREATION FUND
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-098-0000
       status: ingested
       path: rules/635/098/oar-635-098-0000.md
     - number: 635-098-0005
-      status: not_ingested
+      status: ingested
+      path: rules/635/098/oar-635-098-0005.md
     - number: 635-098-0010
       status: ingested
       path: rules/635/098/oar-635-098-0010.md
@@ -96120,18 +96490,23 @@ chapters:
       status: ingested
       path: rules/635/098/oar-635-098-0060.md
     - number: 635-098-0070
-      status: not_ingested
+      status: ingested
+      path: rules/635/098/oar-635-098-0070.md
     - number: 635-098-0080
-      status: not_ingested
+      status: ingested
+      path: rules/635/098/oar-635-098-0080.md
     - number: 635-098-0090
-      status: not_ingested
+      status: ingested
+      path: rules/635/098/oar-635-098-0090.md
     - number: 635-098-0100
-      status: not_ingested
+      status: ingested
+      path: rules/635/098/oar-635-098-0100.md
     - number: 635-098-0110
-      status: not_ingested
+      status: ingested
+      path: rules/635/098/oar-635-098-0110.md
   - division: '100'
     title: 'WILDLIFE MANAGEMENT PLANS: WILDLIFE DIVERSITY PLAN'
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-100-0001
       status: ingested
@@ -96194,7 +96569,8 @@ chapters:
       status: ingested
       path: rules/635/100/oar-635-100-0137.md
     - number: 635-100-0138
-      status: not_ingested
+      status: ingested
+      path: rules/635/100/oar-635-100-0138.md
     - number: 635-100-0140
       status: ingested
       path: rules/635/100/oar-635-100-0140.md
@@ -96553,10 +96929,11 @@ chapters:
       path: rules/635/410/oar-635-410-0035.md
   - division: '412'
     title: FISH PASSAGE
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-412-0001
-      status: not_ingested
+      status: ingested
+      path: rules/635/412/oar-635-412-0001.md
     - number: 635-412-0005
       status: ingested
       path: rules/635/412/oar-635-412-0005.md
@@ -96582,15 +96959,20 @@ chapters:
       status: ingested
       path: rules/635/412/oar-635-412-0040.md
     - number: 635-412-0045
-      status: not_ingested
+      status: ingested
+      path: rules/635/412/oar-635-412-0045.md
     - number: 635-412-0050
-      status: not_ingested
+      status: ingested
+      path: rules/635/412/oar-635-412-0050.md
     - number: 635-412-0055
-      status: not_ingested
+      status: ingested
+      path: rules/635/412/oar-635-412-0055.md
     - number: 635-412-0060
-      status: not_ingested
+      status: ingested
+      path: rules/635/412/oar-635-412-0060.md
     - number: 635-412-0065
-      status: not_ingested
+      status: ingested
+      path: rules/635/412/oar-635-412-0065.md
   - division: '415'
     title: FISH AND WILDLIFE HABITAT MITIGATION POLICY
     status: ingested
@@ -96615,26 +96997,26 @@ chapters:
       path: rules/635/415/oar-635-415-0025.md
   - division: '418'
     title: REGIONAL DRY MAINTENANCE TIME PERIODS
-    status: not_ingested
+    status: partially_ingested
     rules:
     - number: 635-418-0005
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
     - number: 635-418-0015
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
     - number: 635-418-0025
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
     - number: 635-418-0100
-      status: not_ingested
+      status: ingested
+      path: rules/635/418/oar-635-418-0100.md
     - number: 635-418-0110
-      status: not_ingested
+      status: ingested
+      path: rules/635/418/oar-635-418-0110.md
     - number: 635-418-0120
-      status: not_ingested
+      status: ingested
+      path: rules/635/418/oar-635-418-0120.md
   - division: '420'
     title: CHEMICAL PROCESS MINING CONSOLIDATED APPLICATION AND PERMIT REVIEW STANDARDS
     status: ingested
@@ -96717,7 +97099,7 @@ chapters:
       path: rules/635/425/oar-635-425-0050.md
   - division: '430'
     title: TAX INCENTIVE PROGRAMS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-430-0000
       status: ingested
@@ -96732,7 +97114,8 @@ chapters:
       status: ingested
       path: rules/635/430/oar-635-430-0025.md
     - number: 635-430-0027
-      status: not_ingested
+      status: ingested
+      path: rules/635/430/oar-635-430-0027.md
     - number: 635-430-0030
       status: ingested
       path: rules/635/430/oar-635-430-0030.md
@@ -96756,7 +97139,8 @@ chapters:
       path: rules/635/430/oar-635-430-0090.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 635-430-0095
-      status: not_ingested
+      status: ingested
+      path: rules/635/430/oar-635-430-0095.md
     - number: 635-430-0100
       status: ingested
       path: rules/635/430/oar-635-430-0100.md
@@ -96872,7 +97256,7 @@ chapters:
       path: rules/635/440/oar-635-440-0035.md
   - division: '500'
     title: FISH MANAGEMENT PLANS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-500-0002
       status: ingested
@@ -96998,7 +97382,8 @@ chapters:
       status: ingested
       path: rules/635/500/oar-635-500-0450.md
     - number: 635-500-0455
-      status: not_ingested
+      status: ingested
+      path: rules/635/500/oar-635-500-0455.md
     - number: 635-500-0460
       status: ingested
       path: rules/635/500/oar-635-500-0460.md
@@ -97939,7 +98324,8 @@ chapters:
       status: ingested
       path: rules/635/500/oar-635-500-6780.md
     - number: 635-500-6785
-      status: not_ingested
+      status: ingested
+      path: rules/635/500/oar-635-500-6785.md
   - division: '600'
     title: CRIMINAL HISTORY CHECK AND FITNESS DETERMINATION RULES
     status: ingested
@@ -97979,18 +98365,23 @@ chapters:
       path: rules/635/600/oar-635-600-0065.md
   - division: '800'
     title: TRIBAL AGREEMENTS
-    status: not_ingested
+    status: ingested
     rules:
     - number: 635-800-0050
-      status: not_ingested
+      status: ingested
+      path: rules/635/800/oar-635-800-0050.md
     - number: 635-800-0100
-      status: not_ingested
+      status: ingested
+      path: rules/635/800/oar-635-800-0100.md
     - number: 635-800-0110
-      status: not_ingested
+      status: ingested
+      path: rules/635/800/oar-635-800-0110.md
     - number: 635-800-0300
-      status: not_ingested
+      status: ingested
+      path: rules/635/800/oar-635-800-0300.md
     - number: 635-800-0500
-      status: not_ingested
+      status: ingested
+      path: rules/635/800/oar-635-800-0500.md
   - division: '900'
     title: CLIMATE AND OCEAN CHANGE POLICY
     status: ingested
@@ -111522,7 +111913,7 @@ chapters:
   - division: '4'
     title: DISTRIBUTION OF ALL-TERRAIN VEHICLE FUNDS TO PUBLIC AND PRIVATELY OWNED LAND MANAGERS, ATV
       CLUBS AND ORGANIZATIONS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 736-004-0005
       status: ingested
@@ -111591,9 +111982,11 @@ chapters:
       status: ingested
       path: rules/736/004/oar-736-004-0130.md
     - number: 736-004-0150
-      status: not_ingested
+      status: ingested
+      path: rules/736/004/oar-736-004-0150.md
     - number: 736-004-0160
-      status: not_ingested
+      status: ingested
+      path: rules/736/004/oar-736-004-0160.md
   - division: '5'
     title: STATEWIDE PLANNING STANDARDS FOR PUBLIC OUTDOOR RECREATION
     status: ingested
@@ -111644,7 +112037,7 @@ chapters:
       path: rules/736/006/oar-736-006-0150.md
   - division: '7'
     title: DISTRIBUTION OF RECREATION VEHICLE LICENSE FEE REVENUES TO COUNTIES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 736-007-0000
       status: ingested
@@ -111674,9 +112067,11 @@ chapters:
       status: ingested
       path: rules/736/007/oar-736-007-0040.md
     - number: 736-007-0045
-      status: not_ingested
+      status: ingested
+      path: rules/736/007/oar-736-007-0045.md
     - number: 736-007-0050
-      status: not_ingested
+      status: ingested
+      path: rules/736/007/oar-736-007-0050.md
   - division: '8'
     title: DISTRIBUTION OF LAND AND WATER CONSERVATION FUNDING ASSISTANCE TO UNITS OF LOCAL GOVERNMENT
       FOR PUBLIC OUTDOOR RECREATION
@@ -111734,7 +112129,7 @@ chapters:
       path: rules/736/009/oar-736-009-0030.md
   - division: '10'
     title: GENERAL PARK AREA RULES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 736-010-0005
       status: ingested
@@ -111761,7 +112156,8 @@ chapters:
       status: ingested
       path: rules/736/010/oar-736-010-0027.md
     - number: 736-010-0028
-      status: not_ingested
+      status: ingested
+      path: rules/736/010/oar-736-010-0028.md
     - number: 736-010-0030
       status: ingested
       path: rules/736/010/oar-736-010-0030.md
@@ -111819,22 +112215,29 @@ chapters:
       path: rules/736/015/oar-736-015-0043.md
   - division: '16'
     title: NON-TRADITIONAL PARK ACTIVITIES
-    status: not_ingested
+    status: ingested
     rules:
     - number: 736-016-0005
-      status: not_ingested
+      status: ingested
+      path: rules/736/016/oar-736-016-0005.md
     - number: 736-016-0010
-      status: not_ingested
+      status: ingested
+      path: rules/736/016/oar-736-016-0010.md
     - number: 736-016-0012
-      status: not_ingested
+      status: ingested
+      path: rules/736/016/oar-736-016-0012.md
     - number: 736-016-0015
-      status: not_ingested
+      status: ingested
+      path: rules/736/016/oar-736-016-0015.md
     - number: 736-016-0020
-      status: not_ingested
+      status: ingested
+      path: rules/736/016/oar-736-016-0020.md
     - number: 736-016-0023
-      status: not_ingested
+      status: ingested
+      path: rules/736/016/oar-736-016-0023.md
     - number: 736-016-0025
-      status: not_ingested
+      status: ingested
+      path: rules/736/016/oar-736-016-0025.md
   - division: '17'
     title: VETERANS AND WAR MEMORIAL GRANTS
     status: ingested
@@ -112042,7 +112445,7 @@ chapters:
       path: rules/736/020/oar-736-020-0120.md
   - division: '21'
     title: GENERAL OCEAN SHORE STATE RECREATION AREA RULES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 736-021-0010
       status: ingested
@@ -112066,7 +112469,8 @@ chapters:
       status: ingested
       path: rules/736/021/oar-736-021-0065.md
     - number: 736-021-0066
-      status: not_ingested
+      status: ingested
+      path: rules/736/021/oar-736-021-0066.md
     - number: 736-021-0070
       status: ingested
       path: rules/736/021/oar-736-021-0070.md
@@ -112524,7 +112928,7 @@ chapters:
       path: rules/736/045/oar-736-045-0505.md
   - division: '50'
     title: HISTORIC PRESERVATION OFFICER
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 736-050-0001
       status: ingested
@@ -112536,7 +112940,8 @@ chapters:
       status: ingested
       path: rules/736/050/oar-736-050-0105.md
     - number: 736-050-0111
-      status: not_ingested
+      status: ingested
+      path: rules/736/050/oar-736-050-0111.md
     - number: 736-050-0112
       status: ingested
       path: rules/736/050/oar-736-050-0112.md
@@ -112574,7 +112979,8 @@ chapters:
       status: ingested
       path: rules/736/050/oar-736-050-0260.md
     - number: 736-050-0270
-      status: not_ingested
+      status: ingested
+      path: rules/736/050/oar-736-050-0270.md
   - division: '51'
     title: ARCHAEOLOGICAL PERMITS
     status: ingested
@@ -112765,7 +113171,7 @@ chapters:
       path: rules/736/055/oar-736-055-0015.md
   - division: '56'
     title: OREGON MAIN STREET
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 736-056-0000
       status: ingested
@@ -112774,13 +113180,17 @@ chapters:
       status: ingested
       path: rules/736/056/oar-736-056-0010.md
     - number: 736-056-0012
-      status: not_ingested
+      status: ingested
+      path: rules/736/056/oar-736-056-0012.md
     - number: 736-056-0014
-      status: not_ingested
+      status: ingested
+      path: rules/736/056/oar-736-056-0014.md
     - number: 736-056-0016
-      status: not_ingested
+      status: ingested
+      path: rules/736/056/oar-736-056-0016.md
     - number: 736-056-0018
-      status: not_ingested
+      status: ingested
+      path: rules/736/056/oar-736-056-0018.md
     - number: 736-056-0020
       status: ingested
       path: rules/736/056/oar-736-056-0020.md
@@ -112971,28 +113381,38 @@ chapters:
       path: rules/736/100/oar-736-100-0080.md
   - division: '140'
     title: CONFIDENTIALITY AND INADMISSIBILITY OF MEDIATION COMMUNICATIONS
-    status: not_ingested
+    status: ingested
     rules:
     - number: 736-140-0000
-      status: not_ingested
+      status: ingested
+      path: rules/736/140/oar-736-140-0000.md
     - number: 736-140-0001
-      status: not_ingested
+      status: ingested
+      path: rules/736/140/oar-736-140-0001.md
     - number: 736-140-0002
-      status: not_ingested
+      status: ingested
+      path: rules/736/140/oar-736-140-0002.md
     - number: 736-140-0003
-      status: not_ingested
+      status: ingested
+      path: rules/736/140/oar-736-140-0003.md
     - number: 736-140-0004
-      status: not_ingested
+      status: ingested
+      path: rules/736/140/oar-736-140-0004.md
     - number: 736-140-0006
-      status: not_ingested
+      status: ingested
+      path: rules/736/140/oar-736-140-0006.md
     - number: 736-140-0011
-      status: not_ingested
+      status: ingested
+      path: rules/736/140/oar-736-140-0011.md
     - number: 736-140-0015
-      status: not_ingested
+      status: ingested
+      path: rules/736/140/oar-736-140-0015.md
     - number: 736-140-0021
-      status: not_ingested
+      status: ingested
+      path: rules/736/140/oar-736-140-0021.md
     - number: 736-140-0025
-      status: not_ingested
+      status: ingested
+      path: rules/736/140/oar-736-140-0025.md
   - division: '146'
     title: GENERAL PROVISIONS RELATED TO PUBLIC CONTRACTING
     status: ingested
@@ -113066,7 +113486,7 @@ chapters:
       path: rules/736/147/oar-736-147-0070.md
   - division: '148'
     title: 'CONSULTANT SELECTION: ARCHITECTURAL, ENGINEERING, LAND SURVEYING AND RELATED SERVICES CONTRACTS'
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 736-148-0010
       status: ingested
@@ -113077,111 +113497,160 @@ chapters:
       path: rules/736/148/oar-736-148-0020.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 736-148-0100
-      status: not_ingested
+      status: ingested
+      path: rules/736/148/oar-736-148-0100.md
     - number: 736-148-0110
-      status: not_ingested
+      status: ingested
+      path: rules/736/148/oar-736-148-0110.md
     - number: 736-148-0120
-      status: not_ingested
+      status: ingested
+      path: rules/736/148/oar-736-148-0120.md
     - number: 736-148-0130
-      status: not_ingested
+      status: ingested
+      path: rules/736/148/oar-736-148-0130.md
     - number: 736-148-0200
-      status: not_ingested
+      status: ingested
+      path: rules/736/148/oar-736-148-0200.md
     - number: 736-148-0210
-      status: not_ingested
+      status: ingested
+      path: rules/736/148/oar-736-148-0210.md
     - number: 736-148-0220
-      status: not_ingested
+      status: ingested
+      path: rules/736/148/oar-736-148-0220.md
     - number: 736-148-0230
-      status: not_ingested
+      status: ingested
+      path: rules/736/148/oar-736-148-0230.md
     - number: 736-148-0240
-      status: not_ingested
+      status: ingested
+      path: rules/736/148/oar-736-148-0240.md
     - number: 736-148-0250
-      status: not_ingested
+      status: ingested
+      path: rules/736/148/oar-736-148-0250.md
     - number: 736-148-0270
-      status: not_ingested
+      status: ingested
+      path: rules/736/148/oar-736-148-0270.md
     - number: 736-148-0300
-      status: not_ingested
+      status: ingested
+      path: rules/736/148/oar-736-148-0300.md
   - division: '149'
     title: GENERAL PROVISIONS RELATED TO PUBLIC CONTRACTS FOR CONSTRUCTION SERVICES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 736-149-0010
       status: ingested
       path: rules/736/149/oar-736-149-0010.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 736-149-0020
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0020.md
     - number: 736-149-0100
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0100.md
     - number: 736-149-0120
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0120.md
     - number: 736-149-0130
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0130.md
     - number: 736-149-0160
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0160.md
     - number: 736-149-0200
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0200.md
     - number: 736-149-0210
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0210.md
     - number: 736-149-0230
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0230.md
     - number: 736-149-0240
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0240.md
     - number: 736-149-0245
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0245.md
     - number: 736-149-0250
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0250.md
     - number: 736-149-0260
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0260.md
     - number: 736-149-0270
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0270.md
     - number: 736-149-0280
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0280.md
     - number: 736-149-0290
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0290.md
     - number: 736-149-0310
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0310.md
     - number: 736-149-0340
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0340.md
     - number: 736-149-0350
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0350.md
     - number: 736-149-0360
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0360.md
     - number: 736-149-0370
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0370.md
     - number: 736-149-0380
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0380.md
     - number: 736-149-0385
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0385.md
     - number: 736-149-0390
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0390.md
     - number: 736-149-0395
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0395.md
     - number: 736-149-0400
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0400.md
     - number: 736-149-0410
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0410.md
     - number: 736-149-0430
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0430.md
     - number: 736-149-0440
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0440.md
     - number: 736-149-0450
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0450.md
     - number: 736-149-0460
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0460.md
     - number: 736-149-0830
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0830.md
     - number: 736-149-0840
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0840.md
     - number: 736-149-0850
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0850.md
     - number: 736-149-0870
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0870.md
     - number: 736-149-0880
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0880.md
     - number: 736-149-0900
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0900.md
     - number: 736-149-0910
-      status: not_ingested
+      status: ingested
+      path: rules/736/149/oar-736-149-0910.md
   discovered: '2026-08-27'
 - chapter: '737'
   title: Department of Transportation, Transportation Safety Division
@@ -129675,7 +130144,7 @@ chapters:
       path: rules/845/004/oar-845-004-0120.md
   - division: '5'
     title: CRITERIA FOR ISSUANCE AND MAINTENANCE OF LICENSES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 845-005-0301
       status: ingested
@@ -129780,7 +130249,8 @@ chapters:
       status: ingested
       path: rules/845/005/oar-845-005-0417.md
     - number: 845-005-0421
-      status: not_ingested
+      status: ingested
+      path: rules/845/005/oar-845-005-0421.md
     - number: 845-005-0424
       status: ingested
       path: rules/845/005/oar-845-005-0424.md
@@ -129810,10 +130280,11 @@ chapters:
       status: ingested
       path: rules/845/005/oar-845-005-0450.md
     - number: 845-005-0451
-      status: not_ingested
+      status: ingested
+      path: rules/845/005/oar-845-005-0451.md
   - division: '6'
     title: APPLICATIONS; REQUIREMENTS; RESTRICTIONS; PROHIBITED CONDUCT
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 845-006-0301
       status: ingested
@@ -129832,7 +130303,8 @@ chapters:
       status: ingested
       path: rules/845/006/oar-845-006-0340.md
     - number: 845-006-0341
-      status: not_ingested
+      status: ingested
+      path: rules/845/006/oar-845-006-0341.md
     - number: 845-006-0345
       status: ingested
       path: rules/845/006/oar-845-006-0345.md
@@ -129846,7 +130318,8 @@ chapters:
       status: ingested
       path: rules/845/006/oar-845-006-0349.md
     - number: 845-006-0350
-      status: not_ingested
+      status: ingested
+      path: rules/845/006/oar-845-006-0350.md
     - number: 845-006-0353
       status: ingested
       path: rules/845/006/oar-845-006-0353.md
@@ -130350,7 +130823,7 @@ chapters:
       path: rules/845/016/oar-845-016-0080.md
   - division: '20'
     title: BEVERAGE CONTAINERS AND REDEMPTION CENTERS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 845-020-0005
       status: ingested
@@ -130374,20 +130847,26 @@ chapters:
       status: ingested
       path: rules/845/020/oar-845-020-0027.md
     - number: 845-020-0028
-      status: not_ingested
+      status: ingested
+      path: rules/845/020/oar-845-020-0028.md
     - number: 845-020-0029
-      status: not_ingested
+      status: ingested
+      path: rules/845/020/oar-845-020-0029.md
     - number: 845-020-0030
       status: ingested
       path: rules/845/020/oar-845-020-0030.md
     - number: 845-020-0031
-      status: not_ingested
+      status: ingested
+      path: rules/845/020/oar-845-020-0031.md
     - number: 845-020-0032
-      status: not_ingested
+      status: ingested
+      path: rules/845/020/oar-845-020-0032.md
     - number: 845-020-0033
-      status: not_ingested
+      status: ingested
+      path: rules/845/020/oar-845-020-0033.md
     - number: 845-020-0034
-      status: not_ingested
+      status: ingested
+      path: rules/845/020/oar-845-020-0034.md
     - number: 845-020-0035
       status: ingested
       path: rules/845/020/oar-845-020-0035.md
@@ -130399,7 +130878,7 @@ chapters:
       path: rules/845/020/oar-845-020-0060.md
   - division: '25'
     title: RECREATIONAL MARIJUANA
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 845-025-1000
       status: ingested
@@ -130450,14 +130929,17 @@ chapters:
       status: ingested
       path: rules/845/025/oar-845-025-1160.md
     - number: 845-025-1165
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-1165.md
     - number: 845-025-1170
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-1170.md
     - number: 845-025-1175
       status: ingested
       path: rules/845/025/oar-845-025-1175.md
     - number: 845-025-1180
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-1180.md
     - number: 845-025-1190
       status: ingested
       path: rules/845/025/oar-845-025-1190.md
@@ -130489,7 +130971,8 @@ chapters:
       status: ingested
       path: rules/845/025/oar-845-025-1300.md
     - number: 845-025-1310
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-1310.md
     - number: 845-025-1330
       status: ingested
       path: rules/845/025/oar-845-025-1330.md
@@ -130690,7 +131173,8 @@ chapters:
       status: ingested
       path: rules/845/025/oar-845-025-3310.md
     - number: 845-025-3320
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-3320.md
     - number: 845-025-3500
       status: ingested
       path: rules/845/025/oar-845-025-3500.md
@@ -130740,7 +131224,8 @@ chapters:
       status: ingested
       path: rules/845/025/oar-845-025-5580.md
     - number: 845-025-5585
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-5585.md
     - number: 845-025-5590
       status: ingested
       path: rules/845/025/oar-845-025-5590.md
@@ -130760,24 +131245,32 @@ chapters:
       status: ingested
       path: rules/845/025/oar-845-025-5760.md
     - number: 845-025-5765
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-5765.md
     - number: 845-025-5790
       status: ingested
       path: rules/845/025/oar-845-025-5790.md
     - number: 845-025-5800
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-5800.md
     - number: 845-025-5810
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-5810.md
     - number: 845-025-5815
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-5815.md
     - number: 845-025-5820
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-5820.md
     - number: 845-025-5830
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-5830.md
     - number: 845-025-5840
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-5840.md
     - number: 845-025-5850
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-5850.md
     - number: 845-025-7000
       status: ingested
       path: rules/845/025/oar-845-025-7000.md
@@ -130821,7 +131314,8 @@ chapters:
       status: ingested
       path: rules/845/025/oar-845-025-7140.md
     - number: 845-025-7145
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-7145.md
     - number: 845-025-7150
       status: ingested
       path: rules/845/025/oar-845-025-7150.md
@@ -130853,7 +131347,8 @@ chapters:
       status: ingested
       path: rules/845/025/oar-845-025-7570.md
     - number: 845-025-7575
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-7575.md
     - number: 845-025-7580
       status: ingested
       path: rules/845/025/oar-845-025-7580.md
@@ -130864,7 +131359,8 @@ chapters:
       status: ingested
       path: rules/845/025/oar-845-025-7700.md
     - number: 845-025-7725
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-7725.md
     - number: 845-025-7750
       status: ingested
       path: rules/845/025/oar-845-025-7750.md
@@ -130893,7 +131389,8 @@ chapters:
       status: ingested
       path: rules/845/025/oar-845-025-8540.md
     - number: 845-025-8550
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-8550.md
     - number: 845-025-8560
       status: ingested
       path: rules/845/025/oar-845-025-8560.md
@@ -130916,77 +131413,111 @@ chapters:
       status: ingested
       path: rules/845/025/oar-845-025-8750.md
     - number: 845-025-8760
-      status: not_ingested
+      status: ingested
+      path: rules/845/025/oar-845-025-8760.md
   - division: '26'
     title: CANNABIS CONCENTRATION LIMITS & HEMP PRODUCT REGISTRY
-    status: not_ingested
+    status: ingested
     rules:
     - number: 845-026-0100
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-0100.md
     - number: 845-026-0200
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-0200.md
     - number: 845-026-0210
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-0210.md
     - number: 845-026-0220
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-0220.md
     - number: 845-026-0300
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-0300.md
     - number: 845-026-0400
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-0400.md
     - number: 845-026-0410
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-0410.md
     - number: 845-026-0415
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-0415.md
     - number: 845-026-4110
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-4110.md
     - number: 845-026-5700
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-5700.md
     - number: 845-026-5760
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-5760.md
     - number: 845-026-5770
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-5770.md
     - number: 845-026-6000
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6000.md
     - number: 845-026-6010
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6010.md
     - number: 845-026-6020
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6020.md
     - number: 845-026-6030
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6030.md
     - number: 845-026-6040
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6040.md
     - number: 845-026-6050
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6050.md
     - number: 845-026-6060
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6060.md
     - number: 845-026-6070
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6070.md
     - number: 845-026-6080
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6080.md
     - number: 845-026-6090
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6090.md
     - number: 845-026-6100
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6100.md
     - number: 845-026-6105
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6105.md
     - number: 845-026-6110
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6110.md
     - number: 845-026-6120
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-6120.md
     - number: 845-026-7000
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-7000.md
     - number: 845-026-7010
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-7010.md
     - number: 845-026-7030
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-7030.md
     - number: 845-026-7040
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-7040.md
     - number: 845-026-7060
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-7060.md
     - number: 845-026-7070
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-7070.md
     - number: 845-026-8570
-      status: not_ingested
+      status: ingested
+      path: rules/845/026/oar-845-026-8570.md
   discovered: '2026-08-27'
 - chapter: '847'
   title: Oregon Medical Board
@@ -132173,7 +132704,7 @@ chapters:
   divisions:
   - division: '1'
     title: RULES OF PRACTICE AND PROCEDURE
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 851-001-0000
       status: ingested
@@ -132192,7 +132723,8 @@ chapters:
       status: ingested
       path: rules/851/001/oar-851-001-0008.md
     - number: 851-001-0009
-      status: not_ingested
+      status: ingested
+      path: rules/851/001/oar-851-001-0009.md
     - number: 851-001-0010
       status: ingested
       path: rules/851/001/oar-851-001-0010.md
@@ -132210,12 +132742,14 @@ chapters:
       status: ingested
       path: rules/851/001/oar-851-001-0100.md
     - number: 851-001-0111
-      status: not_ingested
+      status: ingested
+      path: rules/851/001/oar-851-001-0111.md
     - number: 851-001-0115
       status: ingested
       path: rules/851/001/oar-851-001-0115.md
     - number: 851-001-0122
-      status: not_ingested
+      status: ingested
+      path: rules/851/001/oar-851-001-0122.md
     - number: 851-001-0125
       status: ingested
       path: rules/851/001/oar-851-001-0125.md
@@ -132229,9 +132763,11 @@ chapters:
       status: ingested
       path: rules/851/001/oar-851-001-0150.md
     - number: 851-001-0160
-      status: not_ingested
+      status: ingested
+      path: rules/851/001/oar-851-001-0160.md
     - number: 851-001-0170
-      status: not_ingested
+      status: ingested
+      path: rules/851/001/oar-851-001-0170.md
   - division: '2'
     title: AGENCY FEES
     status: ingested
@@ -132262,14 +132798,15 @@ chapters:
       path: rules/851/002/oar-851-002-0055.md
   - division: '6'
     title: DEFINITIONS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 851-006-0000
       status: ingested
       path: rules/851/006/oar-851-006-0000.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 851-006-0011
-      status: not_ingested
+      status: ingested
+      path: rules/851/006/oar-851-006-0011.md
   - division: '10'
     title: ADMINISTRATION
     status: ingested
@@ -132291,7 +132828,7 @@ chapters:
       path: rules/851/010/oar-851-010-0035.md
   - division: '21'
     title: STANDARDS FOR APPROVAL OF NURSING EDUCATION PROGRAMS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 851-021-0000
       status: ingested
@@ -132300,7 +132837,8 @@ chapters:
       status: ingested
       path: rules/851/021/oar-851-021-0010.md
     - number: 851-021-0012
-      status: not_ingested
+      status: ingested
+      path: rules/851/021/oar-851-021-0012.md
     - number: 851-021-0015
       status: ingested
       path: rules/851/021/oar-851-021-0015.md
@@ -132332,7 +132870,8 @@ chapters:
       status: ingested
       path: rules/851/021/oar-851-021-0050.md
     - number: 851-021-0051
-      status: not_ingested
+      status: ingested
+      path: rules/851/021/oar-851-021-0051.md
     - number: 851-021-0055
       status: ingested
       path: rules/851/021/oar-851-021-0055.md
@@ -132355,10 +132894,11 @@ chapters:
       path: rules/851/021/oar-851-021-0090.md
   - division: '31'
     title: LICENSE REQUIREMENTS FOR NURSES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 851-031-0001
-      status: not_ingested
+      status: ingested
+      path: rules/851/031/oar-851-031-0001.md
     - number: 851-031-0006
       status: ingested
       path: rules/851/031/oar-851-031-0006.md
@@ -132367,7 +132907,8 @@ chapters:
       path: rules/851/031/oar-851-031-0007.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 851-031-0008
-      status: not_ingested
+      status: ingested
+      path: rules/851/031/oar-851-031-0008.md
     - number: 851-031-0010
       status: ingested
       path: rules/851/031/oar-851-031-0010.md
@@ -132380,41 +132921,51 @@ chapters:
       status: ingested
       path: rules/851/031/oar-851-031-0035.md
     - number: 851-031-0039
-      status: not_ingested
+      status: ingested
+      path: rules/851/031/oar-851-031-0039.md
     - number: 851-031-0040
       status: ingested
       path: rules/851/031/oar-851-031-0040.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 851-031-0041
-      status: not_ingested
+      status: ingested
+      path: rules/851/031/oar-851-031-0041.md
     - number: 851-031-0042
-      status: not_ingested
+      status: ingested
+      path: rules/851/031/oar-851-031-0042.md
     - number: 851-031-0043
-      status: not_ingested
+      status: ingested
+      path: rules/851/031/oar-851-031-0043.md
     - number: 851-031-0045
       status: ingested
       path: rules/851/031/oar-851-031-0045.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 851-031-0048
-      status: not_ingested
+      status: ingested
+      path: rules/851/031/oar-851-031-0048.md
     - number: 851-031-0051
-      status: not_ingested
+      status: ingested
+      path: rules/851/031/oar-851-031-0051.md
     - number: 851-031-0052
-      status: not_ingested
+      status: ingested
+      path: rules/851/031/oar-851-031-0052.md
     - number: 851-031-0055
-      status: not_ingested
+      status: ingested
+      path: rules/851/031/oar-851-031-0055.md
     - number: 851-031-0060
       status: ingested
       path: rules/851/031/oar-851-031-0060.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 851-031-0065
-      status: not_ingested
+      status: ingested
+      path: rules/851/031/oar-851-031-0065.md
     - number: 851-031-0070
       status: ingested
       path: rules/851/031/oar-851-031-0070.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 851-031-0075
-      status: not_ingested
+      status: ingested
+      path: rules/851/031/oar-851-031-0075.md
     - number: 851-031-0080
       status: ingested
       path: rules/851/031/oar-851-031-0080.md
@@ -132426,7 +132977,8 @@ chapters:
       status: ingested
       path: rules/851/031/oar-851-031-0086.md
     - number: 851-031-0087
-      status: not_ingested
+      status: ingested
+      path: rules/851/031/oar-851-031-0087.md
     - number: 851-031-0088
       status: ingested
       path: rules/851/031/oar-851-031-0088.md
@@ -132436,23 +132988,29 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
   - division: '41'
     title: 'STANDARDS FOR THE NURSE INTERN: LICENSURE AND FUNCTIONS'
-    status: not_ingested
+    status: ingested
     rules:
     - number: 851-041-0000
-      status: not_ingested
+      status: ingested
+      path: rules/851/041/oar-851-041-0000.md
     - number: 851-041-0010
-      status: not_ingested
+      status: ingested
+      path: rules/851/041/oar-851-041-0010.md
     - number: 851-041-0020
-      status: not_ingested
+      status: ingested
+      path: rules/851/041/oar-851-041-0020.md
     - number: 851-041-0040
-      status: not_ingested
+      status: ingested
+      path: rules/851/041/oar-851-041-0040.md
     - number: 851-041-0070
-      status: not_ingested
+      status: ingested
+      path: rules/851/041/oar-851-041-0070.md
     - number: 851-041-0080
-      status: not_ingested
+      status: ingested
+      path: rules/851/041/oar-851-041-0080.md
   - division: '45'
     title: STANDARDS AND SCOPE OF PRACTICE FOR THE LICENSED PRACTICAL NURSE AND REGISTERED NURSE
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 851-045-0030
       status: ingested
@@ -132468,13 +133026,17 @@ chapters:
       status: ingested
       path: rules/851/045/oar-851-045-0060.md
     - number: 851-045-0062
-      status: not_ingested
+      status: ingested
+      path: rules/851/045/oar-851-045-0062.md
     - number: 851-045-0063
-      status: not_ingested
+      status: ingested
+      path: rules/851/045/oar-851-045-0063.md
     - number: 851-045-0064
-      status: not_ingested
+      status: ingested
+      path: rules/851/045/oar-851-045-0064.md
     - number: 851-045-0065
-      status: not_ingested
+      status: ingested
+      path: rules/851/045/oar-851-045-0065.md
     - number: 851-045-0070
       status: ingested
       path: rules/851/045/oar-851-045-0070.md
@@ -132487,7 +133049,7 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
   - division: '47'
     title: STANDARDS FOR REGISTERED NURSE DELEGATION PROCESS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 851-047-0000
       status: ingested
@@ -132504,13 +133066,17 @@ chapters:
       path: rules/851/047/oar-851-047-0040.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 851-047-0045
-      status: not_ingested
+      status: ingested
+      path: rules/851/047/oar-851-047-0045.md
     - number: 851-047-0050
-      status: not_ingested
+      status: ingested
+      path: rules/851/047/oar-851-047-0050.md
     - number: 851-047-0055
-      status: not_ingested
+      status: ingested
+      path: rules/851/047/oar-851-047-0055.md
     - number: 851-047-0060
-      status: not_ingested
+      status: ingested
+      path: rules/851/047/oar-851-047-0060.md
   - division: '48'
     title: STANDARDS FOR THE REGISTERED NURSE WHO TEACHES A DESIGNATED CAREGIVER HOW TO EXECUTE A MEDICAL
       ORDER
@@ -132525,20 +133091,26 @@ chapters:
   - division: '49'
     title: STANDARDS FOR LICENSED NURSE PROTOCOL DEVELOPMENT AND UTILIZATION, COMMUNICATING A PRESCRIBER'S
       RE-AUTHORIZATION OF A PRESCRIPTION AND RN DISPENSING
-    status: not_ingested
+    status: ingested
     rules:
     - number: 851-049-0000
-      status: not_ingested
+      status: ingested
+      path: rules/851/049/oar-851-049-0000.md
     - number: 851-049-0005
-      status: not_ingested
+      status: ingested
+      path: rules/851/049/oar-851-049-0005.md
     - number: 851-049-0010
-      status: not_ingested
+      status: ingested
+      path: rules/851/049/oar-851-049-0010.md
     - number: 851-049-0015
-      status: not_ingested
+      status: ingested
+      path: rules/851/049/oar-851-049-0015.md
     - number: 851-049-0020
-      status: not_ingested
+      status: ingested
+      path: rules/851/049/oar-851-049-0020.md
     - number: 851-049-0025
-      status: not_ingested
+      status: ingested
+      path: rules/851/049/oar-851-049-0025.md
   - division: '51'
     title: STANDARDS FOR APPROVAL OF EDUCATION PROGRAMS PREPARING NURSES FOR ADVANCED PRACTICE
     status: not_ingested
@@ -132551,32 +133123,44 @@ chapters:
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '55'
     title: SCOPE AND STANDARDS OF PRACTICE FOR THE ADVANCED PRACTICE REGISTERED NURSE
-    status: not_ingested
+    status: ingested
     rules:
     - number: 851-055-0000
-      status: not_ingested
+      status: ingested
+      path: rules/851/055/oar-851-055-0000.md
     - number: 851-055-0010
-      status: not_ingested
+      status: ingested
+      path: rules/851/055/oar-851-055-0010.md
     - number: 851-055-0020
-      status: not_ingested
+      status: ingested
+      path: rules/851/055/oar-851-055-0020.md
     - number: 851-055-0030
-      status: not_ingested
+      status: ingested
+      path: rules/851/055/oar-851-055-0030.md
     - number: 851-055-0040
-      status: not_ingested
+      status: ingested
+      path: rules/851/055/oar-851-055-0040.md
     - number: 851-055-0050
-      status: not_ingested
+      status: ingested
+      path: rules/851/055/oar-851-055-0050.md
     - number: 851-055-0070
-      status: not_ingested
+      status: ingested
+      path: rules/851/055/oar-851-055-0070.md
     - number: 851-055-0072
-      status: not_ingested
+      status: ingested
+      path: rules/851/055/oar-851-055-0072.md
     - number: 851-055-0076
-      status: not_ingested
+      status: ingested
+      path: rules/851/055/oar-851-055-0076.md
     - number: 851-055-0078
-      status: not_ingested
+      status: ingested
+      path: rules/851/055/oar-851-055-0078.md
     - number: 851-055-0080
-      status: not_ingested
+      status: ingested
+      path: rules/851/055/oar-851-055-0080.md
     - number: 851-055-0090
-      status: not_ingested
+      status: ingested
+      path: rules/851/055/oar-851-055-0090.md
   - division: '61'
     title: STANDARDS FOR EDUCATION PROGRAMS FOR NURSING ASSISTANTS AND MEDICATION AIDES
     status: ingested
@@ -132625,7 +133209,7 @@ chapters:
       path: rules/851/061/oar-851-061-0130.md
   - division: '62'
     title: STANDARDS FOR CERTIFICATION OF THE NURSING ASSISTANT AND MEDICATION AIDE
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 851-062-0011
       status: ingested
@@ -132650,7 +133234,8 @@ chapters:
       status: ingested
       path: rules/851/062/oar-851-062-0055.md
     - number: 851-062-0061
-      status: not_ingested
+      status: ingested
+      path: rules/851/062/oar-851-062-0061.md
     - number: 851-062-0070
       status: ingested
       path: rules/851/062/oar-851-062-0070.md
@@ -132689,13 +133274,14 @@ chapters:
   - division: '63'
     title: STANDARDS AND AUTHORIZED DUTIES FOR THE CERTIFIED NURSING ASSISTANT AND CERTIFIED MEDICATION
       AIDE
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 851-063-0010
       status: ingested
       path: rules/851/063/oar-851-063-0010.md
     - number: 851-063-0021
-      status: not_ingested
+      status: ingested
+      path: rules/851/063/oar-851-063-0021.md
     - number: 851-063-0030
       status: ingested
       path: rules/851/063/oar-851-063-0030.md
@@ -132713,7 +133299,7 @@ chapters:
       path: rules/851/063/oar-851-063-0100.md
   - division: '70'
     title: MONITORING BEHAVIORAL HEALTH AND COGNITIVE OR PHYSICAL IMPAIRMENT
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 851-070-0000
       status: ingested
@@ -132724,7 +133310,8 @@ chapters:
       path: rules/851/070/oar-851-070-0010.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 851-070-0011
-      status: not_ingested
+      status: ingested
+      path: rules/851/070/oar-851-070-0011.md
     - number: 851-070-0020
       status: ingested
       path: rules/851/070/oar-851-070-0020.md
@@ -132734,19 +133321,22 @@ chapters:
       path: rules/851/070/oar-851-070-0025.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 851-070-0026
-      status: not_ingested
+      status: ingested
+      path: rules/851/070/oar-851-070-0026.md
     - number: 851-070-0030
       status: ingested
       path: rules/851/070/oar-851-070-0030.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 851-070-0035
-      status: not_ingested
+      status: ingested
+      path: rules/851/070/oar-851-070-0035.md
     - number: 851-070-0040
       status: ingested
       path: rules/851/070/oar-851-070-0040.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 851-070-0041
-      status: not_ingested
+      status: ingested
+      path: rules/851/070/oar-851-070-0041.md
     - number: 851-070-0045
       status: ingested
       path: rules/851/070/oar-851-070-0045.md
@@ -132756,7 +133346,8 @@ chapters:
       path: rules/851/070/oar-851-070-0050.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 851-070-0051
-      status: not_ingested
+      status: ingested
+      path: rules/851/070/oar-851-070-0051.md
     - number: 851-070-0060
       status: ingested
       path: rules/851/070/oar-851-070-0060.md
@@ -136372,7 +136963,7 @@ chapters:
   divisions:
   - division: '1'
     title: GENERAL
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 860-001-0000
       status: ingested
@@ -136435,7 +137026,8 @@ chapters:
       status: ingested
       path: rules/860/001/oar-860-001-0200.md
     - number: 860-001-0205
-      status: not_ingested
+      status: ingested
+      path: rules/860/001/oar-860-001-0205.md
     - number: 860-001-0210
       status: ingested
       path: rules/860/001/oar-860-001-0210.md
@@ -136557,25 +137149,35 @@ chapters:
       status: ingested
       path: rules/860/001/oar-860-001-0720.md
     - number: 860-001-0800
-      status: not_ingested
+      status: ingested
+      path: rules/860/001/oar-860-001-0800.md
     - number: 860-001-0810
-      status: not_ingested
+      status: ingested
+      path: rules/860/001/oar-860-001-0810.md
     - number: 860-001-0820
-      status: not_ingested
+      status: ingested
+      path: rules/860/001/oar-860-001-0820.md
     - number: 860-001-0830
-      status: not_ingested
+      status: ingested
+      path: rules/860/001/oar-860-001-0830.md
     - number: 860-001-0840
-      status: not_ingested
+      status: ingested
+      path: rules/860/001/oar-860-001-0840.md
     - number: 860-001-0850
-      status: not_ingested
+      status: ingested
+      path: rules/860/001/oar-860-001-0850.md
     - number: 860-001-0860
-      status: not_ingested
+      status: ingested
+      path: rules/860/001/oar-860-001-0860.md
     - number: 860-001-0870
-      status: not_ingested
+      status: ingested
+      path: rules/860/001/oar-860-001-0870.md
     - number: 860-001-0890
-      status: not_ingested
+      status: ingested
+      path: rules/860/001/oar-860-001-0890.md
     - number: 860-001-0900
-      status: not_ingested
+      status: ingested
+      path: rules/860/001/oar-860-001-0900.md
   - division: '2'
     title: ALTERNATIVE DISPUTE RESOLUTION
     status: ingested
@@ -136661,7 +137263,7 @@ chapters:
       path: rules/860/016/oar-860-016-0050.md
   - division: '21'
     title: UTILITY REGULATION
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 860-021-0000
       status: ingested
@@ -136739,7 +137341,8 @@ chapters:
       status: ingested
       path: rules/860/021/oar-860-021-0170.md
     - number: 860-021-0180
-      status: not_ingested
+      status: ingested
+      path: rules/860/021/oar-860-021-0180.md
     - number: 860-021-0200
       status: ingested
       path: rules/860/021/oar-860-021-0200.md
@@ -136789,7 +137392,8 @@ chapters:
       status: ingested
       path: rules/860/021/oar-860-021-0405.md
     - number: 860-021-0406
-      status: not_ingested
+      status: ingested
+      path: rules/860/021/oar-860-021-0406.md
     - number: 860-021-0407
       status: ingested
       path: rules/860/021/oar-860-021-0407.md
@@ -136815,7 +137419,8 @@ chapters:
       status: ingested
       path: rules/860/021/oar-860-021-0510.md
     - number: 860-021-0520
-      status: not_ingested
+      status: ingested
+      path: rules/860/021/oar-860-021-0520.md
     - number: 860-021-0550
       status: ingested
       path: rules/860/021/oar-860-021-0550.md
@@ -136830,7 +137435,7 @@ chapters:
       path: rules/860/021/oar-860-021-0620.md
   - division: '22'
     title: RATES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 860-022-0000
       status: ingested
@@ -136902,13 +137507,17 @@ chapters:
       status: ingested
       path: rules/860/022/oar-860-022-0075.md
     - number: 860-022-0500
-      status: not_ingested
+      status: ingested
+      path: rules/860/022/oar-860-022-0500.md
     - number: 860-022-0550
-      status: not_ingested
+      status: ingested
+      path: rules/860/022/oar-860-022-0550.md
     - number: 860-022-0600
-      status: not_ingested
+      status: ingested
+      path: rules/860/022/oar-860-022-0600.md
     - number: 860-022-0650
-      status: not_ingested
+      status: ingested
+      path: rules/860/022/oar-860-022-0650.md
   - division: '23'
     title: SERVICE STANDARDS
     status: ingested
@@ -137014,7 +137623,8 @@ chapters:
       status: ingested
       path: rules/860/024/oar-860-024-0017.md
     - number: 860-024-0018
-      status: not_ingested
+      status: ingested
+      path: rules/860/024/oar-860-024-0018.md
     - number: 860-024-0020
       status: ingested
       path: rules/860/024/oar-860-024-0020.md
@@ -137029,53 +137639,43 @@ chapters:
       path: rules/860/024/oar-860-024-0050.md
     - number: 860-024-0060
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
     - number: 860-024-0061
-      status: not_ingested
+      status: ingested
+      path: rules/860/024/oar-860-024-0061.md
     - number: 860-024-0070
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
     - number: 860-024-0080
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
     - number: 860-024-0090
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
     - number: 860-024-0100
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
     - number: 860-024-0110
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
     - number: 860-024-0120
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
     - number: 860-024-0130
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
     - number: 860-024-0140
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
     - number: 860-024-0150
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
     - number: 860-024-0160
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
   - division: '25'
     title: REGULATIONS TO PREVENT DUPLICATION OF FACILITIES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 860-025-0000
       status: ingested
@@ -137105,9 +137705,11 @@ chapters:
       status: ingested
       path: rules/860/025/oar-860-025-0030.md
     - number: 860-025-0035
-      status: not_ingested
+      status: ingested
+      path: rules/860/025/oar-860-025-0035.md
     - number: 860-025-0040
-      status: not_ingested
+      status: ingested
+      path: rules/860/025/oar-860-025-0040.md
     - number: 860-025-0050
       status: ingested
       path: rules/860/025/oar-860-025-0050.md
@@ -137331,7 +137933,7 @@ chapters:
   - division: '29'
     title: REGULATIONS RELATED TO AGREEMENTS BETWEEN ELECTRIC UTILITIES AND ELECTRIC COGENERATION AND
       SMALL POWER PRODUCTION FACILITIES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 860-029-0001
       status: ingested
@@ -137355,14 +137957,17 @@ chapters:
       status: ingested
       path: rules/860/029/oar-860-029-0043.md
     - number: 860-029-0044
-      status: not_ingested
+      status: ingested
+      path: rules/860/029/oar-860-029-0044.md
     - number: 860-029-0045
-      status: not_ingested
+      status: ingested
+      path: rules/860/029/oar-860-029-0045.md
     - number: 860-029-0046
       status: ingested
       path: rules/860/029/oar-860-029-0046.md
     - number: 860-029-0047
-      status: not_ingested
+      status: ingested
+      path: rules/860/029/oar-860-029-0047.md
     - number: 860-029-0050
       status: ingested
       path: rules/860/029/oar-860-029-0050.md
@@ -137385,11 +137990,14 @@ chapters:
       status: ingested
       path: rules/860/029/oar-860-029-0120.md
     - number: 860-029-0121
-      status: not_ingested
+      status: ingested
+      path: rules/860/029/oar-860-029-0121.md
     - number: 860-029-0123
-      status: not_ingested
+      status: ingested
+      path: rules/860/029/oar-860-029-0123.md
     - number: 860-029-0124
-      status: not_ingested
+      status: ingested
+      path: rules/860/029/oar-860-029-0124.md
     - number: 860-029-0130
       status: ingested
       path: rules/860/029/oar-860-029-0130.md
@@ -138377,7 +138985,7 @@ chapters:
       path: rules/860/037/oar-860-037-0630.md
   - division: '38'
     title: DIRECT ACCESS REGULATION
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 860-038-0001
       status: ingested
@@ -138398,7 +139006,8 @@ chapters:
       status: ingested
       path: rules/860/038/oar-860-038-0160.md
     - number: 860-038-0170
-      status: not_ingested
+      status: ingested
+      path: rules/860/038/oar-860-038-0170.md
     - number: 860-038-0200
       status: ingested
       path: rules/860/038/oar-860-038-0200.md
@@ -138421,7 +139030,8 @@ chapters:
       status: ingested
       path: rules/860/038/oar-860-038-0280.md
     - number: 860-038-0290
-      status: not_ingested
+      status: ingested
+      path: rules/860/038/oar-860-038-0290.md
     - number: 860-038-0300
       status: ingested
       path: rules/860/038/oar-860-038-0300.md
@@ -138438,7 +139048,8 @@ chapters:
       status: ingested
       path: rules/860/038/oar-860-038-0400.md
     - number: 860-038-0405
-      status: not_ingested
+      status: ingested
+      path: rules/860/038/oar-860-038-0405.md
     - number: 860-038-0410
       status: ingested
       path: rules/860/038/oar-860-038-0410.md
@@ -138559,7 +139170,7 @@ chapters:
       path: rules/860/039/oar-860-039-0080.md
   - division: '82'
     title: SMALL GENERATOR INTERCONNECTION RULES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 860-082-0005
       status: ingested
@@ -138580,7 +139191,8 @@ chapters:
       status: ingested
       path: rules/860/082/oar-860-082-0030.md
     - number: 860-082-0033
-      status: not_ingested
+      status: ingested
+      path: rules/860/082/oar-860-082-0033.md
     - number: 860-082-0035
       status: ingested
       path: rules/860/082/oar-860-082-0035.md
@@ -138600,7 +139212,8 @@ chapters:
       status: ingested
       path: rules/860/082/oar-860-082-0060.md
     - number: 860-082-0063
-      status: not_ingested
+      status: ingested
+      path: rules/860/082/oar-860-082-0063.md
     - number: 860-082-0065
       status: ingested
       path: rules/860/082/oar-860-082-0065.md
@@ -138847,7 +139460,7 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
   - division: '88'
     title: COMMUNITY SOLAR PROGRAM RULES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 860-088-0005
       status: ingested
@@ -138910,10 +139523,11 @@ chapters:
       status: ingested
       path: rules/860/088/oar-860-088-0190.md
     - number: 860-088-0200
-      status: not_ingested
+      status: ingested
+      path: rules/860/088/oar-860-088-0200.md
   - division: '89'
     title: RESOURCE PROCUREMENT FOR ELECTRIC COMPANIES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 860-089-0010
       status: ingested
@@ -138943,7 +139557,8 @@ chapters:
       status: ingested
       path: rules/860/089/oar-860-089-0450.md
     - number: 860-089-0475
-      status: not_ingested
+      status: ingested
+      path: rules/860/089/oar-860-089-0475.md
     - number: 860-089-0500
       status: ingested
       path: rules/860/089/oar-860-089-0500.md
@@ -138952,92 +139567,128 @@ chapters:
       path: rules/860/089/oar-860-089-0550.md
   - division: '90'
     title: Integrated Resource Plans and Clean Energy Plans
-    status: not_ingested
+    status: ingested
     rules:
     - number: 860-090-0010
-      status: not_ingested
+      status: ingested
+      path: rules/860/090/oar-860-090-0010.md
     - number: 860-090-0020
-      status: not_ingested
+      status: ingested
+      path: rules/860/090/oar-860-090-0020.md
     - number: 860-090-0030
-      status: not_ingested
+      status: ingested
+      path: rules/860/090/oar-860-090-0030.md
     - number: 860-090-0040
-      status: not_ingested
+      status: ingested
+      path: rules/860/090/oar-860-090-0040.md
     - number: 860-090-0050
-      status: not_ingested
+      status: ingested
+      path: rules/860/090/oar-860-090-0050.md
     - number: 860-090-0060
-      status: not_ingested
+      status: ingested
+      path: rules/860/090/oar-860-090-0060.md
     - number: 860-090-0070
-      status: not_ingested
+      status: ingested
+      path: rules/860/090/oar-860-090-0070.md
     - number: 860-090-0080
-      status: not_ingested
+      status: ingested
+      path: rules/860/090/oar-860-090-0080.md
     - number: 860-090-0090
-      status: not_ingested
+      status: ingested
+      path: rules/860/090/oar-860-090-0090.md
     - number: 860-090-0100
-      status: not_ingested
+      status: ingested
+      path: rules/860/090/oar-860-090-0100.md
     - number: 860-090-0110
-      status: not_ingested
+      status: ingested
+      path: rules/860/090/oar-860-090-0110.md
   - division: '91'
     title: SMALL-SCALE RENEWABLE ENERGY PROJECT STANDARD
-    status: not_ingested
+    status: ingested
     rules:
     - number: 860-091-0000
-      status: not_ingested
+      status: ingested
+      path: rules/860/091/oar-860-091-0000.md
     - number: 860-091-0010
-      status: not_ingested
+      status: ingested
+      path: rules/860/091/oar-860-091-0010.md
     - number: 860-091-0020
-      status: not_ingested
+      status: ingested
+      path: rules/860/091/oar-860-091-0020.md
     - number: 860-091-0030
-      status: not_ingested
+      status: ingested
+      path: rules/860/091/oar-860-091-0030.md
     - number: 860-091-0040
-      status: not_ingested
+      status: ingested
+      path: rules/860/091/oar-860-091-0040.md
   - division: '95'
     title: Resource Adequacy
-    status: not_ingested
+    status: ingested
     rules:
     - number: 860-095-0000
-      status: not_ingested
+      status: ingested
+      path: rules/860/095/oar-860-095-0000.md
     - number: 860-095-0010
-      status: not_ingested
+      status: ingested
+      path: rules/860/095/oar-860-095-0010.md
     - number: 860-095-0020
-      status: not_ingested
+      status: ingested
+      path: rules/860/095/oar-860-095-0020.md
     - number: 860-095-0030
-      status: not_ingested
+      status: ingested
+      path: rules/860/095/oar-860-095-0030.md
     - number: 860-095-0040
-      status: not_ingested
+      status: ingested
+      path: rules/860/095/oar-860-095-0040.md
   - division: '100'
     title: OREGON UNIVERSAL SERVICE FUND (OUSF)
-    status: not_ingested
+    status: ingested
     rules:
     - number: 860-100-0001
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0001.md
     - number: 860-100-0005
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0005.md
     - number: 860-100-0100
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0100.md
     - number: 860-100-0105
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0105.md
     - number: 860-100-0110
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0110.md
     - number: 860-100-0115
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0115.md
     - number: 860-100-0120
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0120.md
     - number: 860-100-0125
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0125.md
     - number: 860-100-0130
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0130.md
     - number: 860-100-0140
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0140.md
     - number: 860-100-0150
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0150.md
     - number: 860-100-0160
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0160.md
     - number: 860-100-0200
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0200.md
     - number: 860-100-0251
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0251.md
     - number: 860-100-0300
-      status: not_ingested
+      status: ingested
+      path: rules/860/100/oar-860-100-0300.md
   - division: '110'
     title: Cost Caps (HB 2021)
     status: not_ingested
@@ -139109,28 +139760,38 @@ chapters:
       path: rules/860/250/oar-860-250-0050.md
   - division: '300'
     title: WILDFIRE MITIGATION PLANS
-    status: not_ingested
+    status: ingested
     rules:
     - number: 860-300-0001
-      status: not_ingested
+      status: ingested
+      path: rules/860/300/oar-860-300-0001.md
     - number: 860-300-0010
-      status: not_ingested
+      status: ingested
+      path: rules/860/300/oar-860-300-0010.md
     - number: 860-300-0020
-      status: not_ingested
+      status: ingested
+      path: rules/860/300/oar-860-300-0020.md
     - number: 860-300-0030
-      status: not_ingested
+      status: ingested
+      path: rules/860/300/oar-860-300-0030.md
     - number: 860-300-0040
-      status: not_ingested
+      status: ingested
+      path: rules/860/300/oar-860-300-0040.md
     - number: 860-300-0050
-      status: not_ingested
+      status: ingested
+      path: rules/860/300/oar-860-300-0050.md
     - number: 860-300-0060
-      status: not_ingested
+      status: ingested
+      path: rules/860/300/oar-860-300-0060.md
     - number: 860-300-0070
-      status: not_ingested
+      status: ingested
+      path: rules/860/300/oar-860-300-0070.md
     - number: 860-300-0080
-      status: not_ingested
+      status: ingested
+      path: rules/860/300/oar-860-300-0080.md
     - number: 860-300-0090
-      status: not_ingested
+      status: ingested
+      path: rules/860/300/oar-860-300-0090.md
   discovered: '2026-08-27'
 - chapter: '863'
   title: Real Estate Agency

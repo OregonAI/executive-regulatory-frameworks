@@ -1,0 +1,207 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 82 SMALL GENERATOR INTERCONNECTION RULES 
+ 860-082-0033 
+ Export Controls 
+ 
+ (1) If a small generator facility uses any configuration or operating mode in section (3) to limit the export of electrical power across the Point of Interconnection, then the export capacity is only the amount capable of being exported (not including any Inadvertent export). To prevent impacts on system safety and reliability, any inadvertent export from a small generator facility must comply with the limits identified in this rule. The export capacity specified by the interconnection customer in the application will subsequently be included as a limitation in the interconnection agreement. 
+
+ (2) An application proposing to use a configuration or operating mode to limit the export of electrical power across the Point of Interconnection must include proposed control and/or protection settings. 
+
+ (3) Acceptable export control methods. 
+
+ (a) Export control methods for non-exporting small generator facility: 
+
+ (A) Reverse Power Protection (Device 32R): To limit export of power across the Point of Interconnection, a reverse power protective function is implemented using a utility grade protective relay. The default setting for this protective function is 0.1 percent (export) of the service transformer's nominal base nameplate power rating, with a maximum 2.0 second time delay to limit inadvertent export. When a project is located on a circuit using high-speed reclosing, the utility may require a maximum delay of less than 2.0 seconds to safely facilitate the reclosing. To minimize the need for case-by-case design, which shall remain available, the utility handbook must provide: 
+
+ (i) The rationale and standards that interconnection applications must meet; 
+
+ (ii) A list of specific additional equipment that, if installed, will satisfy the requirement; and 
+
+ (iii) A list of any inverter specifications and options that, if configured, will satisfy the requirement without the need for additional equipment. 
+
+ (B) Minimum Power Protection (Device 32F): To limit export of power across the Point of Interconnection, a minimum import protective function is implemented utilizing a utility grade protective relay. The default setting for this protective function is 5 percent (import) of the small generator facility’s total nameplate rating, with a maximum 2.0 second time delay to limit Inadvertent export. When a project is located on a circuit using high-speed reclosing, the public utility may require a maximum delay of less than 2.0 seconds to safely facilitate the reclosing. To minimize the need for case-by-case design, which shall remain available, the utility handbook must provide: 
+
+ (i) The rationale and standards that interconnection applications must meet; 
+
+ (ii) A list of specific additional equipment that, if installed, will satisfy the requirement; and 
+
+ (iii) A list of any inverter specifications and options that, if configured, will satisfy the requirement without the need for additional equipment. 
+
+ (C) Relative distributed energy resource rating: This option requires the small generator facility's nameplate rating to be so small in comparison to its host facility's minimum load that the use of additional protective functions is not required to ensure that power will not be exported to the electric distribution system. This option requires the small generator facility's nameplate rating to be no greater than 50 percent of the interconnection customer's verifiable minimum host load during relevant hours over the past 12 months. This option is not available for interconnections to area networks or spot networks. 
+
+ (b) Export control methods for limited export small generator facility. 
+
+ (A) Directional Power Protection (Device 32): To limit export of power across the Point of Interconnection, a directional power protective function is implemented using a utility grade protective relay. The default setting for this protective function is the export capacity value, with a maximum 2.0 second time delay to limit Inadvertent export. When a project is located on a circuit using high-speed reclosing, the public utility may require a maximum delay of less than 2.0 seconds to safely facilitate the reclosing. To minimize the need for case-by-case design, which shall remain available, the utility handbook must provide: 
+
+ (i) The rationale and standards that interconnection applications must meet; 
+
+ (ii) A list of specific additional equipment that, if installed, will satisfy the requirement; and 
+
+ (iii) A list of any inverter specifications and options that, if configured, will satisfy the requirement without the need for additional equipment. 
+
+ (B) Configured power rating: A reduced output power rating utilizing the power rating configuration setting may be used to ensure the small generator facility does not generate power beyond a certain value lower than the nameplate rating. The configuration setting corresponds to the active or apparent power ratings in Table 28 of IEEE Std 1547-2018, as described in subclause 10.4. A local small generator facility communication interface is not required to utilize the configuration setting as long as it can be set by other means. The reduced power rating may be indicated by means of a nameplate rating replacement, a supplemental adhesive nameplate rating tag to indicate the reduced nameplate rating, or a signed attestation from the customer confirming the reduced capacity. 
+
+ (c) Export control methods for non-exporting small generator facility or limited export small generator facility. 
+
+ (A) Certified power control systems: Small generator facility may use certified power control systems to limit export. Small generator facility utilizing this option must use a power control system and inverter certified per UL 1741 by a NRTL with a maximum open loop response time of no more than 30 seconds to limit Inadvertent export. NRTL testing to the UL Power Control System Certification Requirement Decision must be accepted until similar test procedures for power control systems are included in a standard. This option is not available for interconnections to area networks or spot networks. 
+
+ (B) Agreed-upon means: Small generator facility may be designed with other control systems and/or protective functions to limit export and inadvertent export if mutual agreement is reached with the Distribution Provider. The limits may be based on technical limitations of the interconnection customer's equipment or the electric distribution system equipment. To ensure inadvertent export remains within mutually agreed-upon limits, the interconnection customer may use an uncertified power control system, an internal transfer relay, energy management system, or other customer facility hardware or software if approved by the Distribution Provider. 
+
+   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 756 & ORS 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & ORS 756.060 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 4-2024, adopt filed 04/09/2024, effective 04/09/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
