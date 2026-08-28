@@ -69,6 +69,7 @@ somebody running the command twice and looking."""
 import argparse
 import re
 import sys
+import tempfile
 from collections import namedtuple
 from datetime import date
 from pathlib import Path
@@ -1355,6 +1356,92 @@ def _proof_the_run_refuses_what_is_not_an_amendment(check) -> None:
                  rule="a-refusal-is-recorded-in-the-ingest-vocabulary"))
 
 
+def _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check) -> None:
+    """THE FIXED POINT `reingest_one` IS BUILT AROUND, watched actually holding (#269).
+
+    `refresh(old, full_text, sha, _retrieved(old)) == old` is the guard that stops a
+    re-ingest from rewriting `retrieved` over a document whose source did not move -- the
+    guard #252 found writing to a COMMITTED rule anyway, because the proof that exercised
+    it fed a real candidate's committed path straight to `reingest_one` and asserted
+    `not wrote` only AFTER the write it was testing for could already have happened. That
+    proof was removed in #261 as collateral (`grep -c "2099"` now returns 0) and nothing
+    replaced it: `the-re-ingest-reproduces-its-document` covers `refresh()` over all 306
+    re-ingested documents, but it never calls `reingest_one`, so it says nothing about
+    date handling on the WRITE PATH -- and the two calls to `reingest_one` still in this
+    selftest (`_proof_the_run_refuses_what_is_not_an_amendment`) both feed REFUSAL pages,
+    never a valid page fed back on a later date.
+
+    BUILT ENTIRELY FROM SYNTHETIC FIXTURES so this can never touch a committed file even
+    under the mutation it exists to catch (the lesson of #252, this time by construction
+    rather than by care): the source page is `_page()`, the document it is fed back into
+    is `_fixture_doc()` refreshed once so it already holds what that page computes, and
+    the candidate's path is a file in a TEMPORARY directory that stops existing when this
+    function returns -- `candidate.path.write_text()` can reach only that. `999-001-0010`
+    is the number every OTHER fixture in this file already uses for exactly this reason:
+    no committed snapshot carries it, so even the unconditional `SNAPSHOT_DIR` writes on
+    the write path -- reached under the mutation below -- land on nothing real.
+
+    THE INGEST ACTUALLY RUNS, rather than the proof passing because nothing was asked to
+    run at all. `fetch_page` is a counting stub: this is `reingest_one` itself fetching,
+    slicing, hashing and comparing and finding no change, not `select()` declining to
+    re-select an already-recorded row. And THE CLOCK ACTUALLY MOVES -- `today` is
+    2026-08-23 and the fixture's own `retrieved` is 2026-01-02, seven and a half months
+    earlier, not a rerun inside the same second -- which is the specific shape of #252's
+    failure: a re-run on a LATER DAY stamping today over bytes nobody re-fetched a change
+    in.
+
+    WATCHED FAILING. With the fixed-point guard at the top of `reingest_one` disabled, this
+    exact fixture writes `retrieved: "2026-08-23"` over the document -- confirmed by hand
+    against this fixture and reverted before commit. There is no `CHECK_RULES` entry for
+    it: `reingest_one` raises no `Failure` of its own when the fixed point holds, so this
+    proof is the only place in the module a regression here has anywhere to fail."""
+    number = "999-001-0010"
+    doc_id = f"oar-{number}"
+    raw = _page(number, "(1) Text a re-fetch of an unmoved source would serve again, "
+                        "comfortably past the hundred characters the slicer insists on "
+                        "before it will believe a page carries a rule at all.")
+    text = snapshot_text(raw)
+    body = snapshot_slice(doc_id, doc_id, text)
+    full_text = flow_to_lines(body)
+    sha = content_hash(raw, "html")
+    # THE DOCUMENT ALREADY HOLDS WHAT A RE-FETCH OF THE SAME PAGE WOULD COMPUTE -- built by
+    # calling `refresh()` itself rather than hand-assembling frontmatter, so this fixture
+    # cannot drift from what the function under test actually writes.
+    old = refresh(_fixture_doc(), full_text, sha, "2026-01-02")
+    check("the fixture document is buildable and dated before the re-ingest",
+          old is not None and _retrieved(old) == "2026-01-02")
+    # A REGISTRY THAT RESOLVES `999`, so that a REGRESSION reaching the write branch fails
+    # THIS proof's own assertions rather than crashing on an unrelated missing chapter --
+    # the fixed point is never exercised on the path this proof expects to take, but a
+    # broken guard must still land somewhere this can see, not in a SystemExit from
+    # `enrich_oar.derive()` three lines further in.
+    fake_registry = {"999": {"slug": "test-agency", "oar_name": "Test Agency"}}
+
+    calls = []
+
+    def fetch_page(url):
+        calls.append(url)
+        return raw
+
+    with tempfile.TemporaryDirectory() as d:
+        # A FILE IN A TEMP DIRECTORY, NEVER A COMMITTED ONE (#252). Whatever this function
+        # writes is invisible to the working tree whether or not the assertions below are
+        # right.
+        path = Path(d) / f"{doc_id}.md"
+        path.write_text(old)
+        candidate = Candidate(number, "amend", {}, path)
+        wrote, problems = reingest_one(
+            candidate, fake_registry, "2026-08-23", fetch_page=fetch_page)
+        check("the fetch actually ran -- this is not a re-ingest skipped as "
+              "already-present", len(calls) == 1)
+        check("a source that has not moved, re-ingested on a LATER day, writes nothing "
+              "and reports no problem", not wrote and not problems)
+        check("...and the document on disk is byte-for-byte what it was before the run",
+              path.read_text() == old)
+        check("...specifically: the retrieved date the re-ingest almost overwrote",
+              _retrieved(path.read_text()) == "2026-01-02")
+
+
 def _proof_the_status_survives_the_call_this_path_makes(check) -> None:
     """LAYER TWO, AT THE EXACT CALL SITE. `select()` refuses every rule the Bulletin took
     out of force, so nothing here should ever hand one to the enricher -- and this proves
@@ -1399,6 +1486,7 @@ def selftest() -> int:
     _proof_the_notice_and_the_catalog_agree(check)
     _proof_documents(check)
     _proof_the_run_refuses_what_is_not_an_amendment(check)
+    _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check)
     _proof_the_status_survives_the_call_this_path_makes(check)
     check("every rule this module can report is declared",
           legal_status.emitted_rules(Path(__file__).read_text()) == set(CHECK_RULES))
