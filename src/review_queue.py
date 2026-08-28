@@ -17,6 +17,7 @@ import yaml
 # respelled here. `legal_status.py` is their one writer (ADR 0006) and a second spelling of
 # a key is how a reader silently stops finding what the writer writes -- the arrangement
 # `CADENCES`/`recheck` and `CURATED_KEYS`/`FIELDS` already use in this repo.
+from catalog_oar import CLAIMED_ELSEWHERE_DIVISION_MARK, CONFIRMED_EMPTY_DIVISION_MARK, display_note
 from legal_status import ACTION_KEY, CATALOG_KEY, NOTICE_KEY
 from repo_lib import REPO_ROOT, content_files, parse_frontmatter
 
@@ -155,8 +156,14 @@ def scan():
             if isinstance(rules, list):
                 for r in rules:
                     if r.get("status") in ("renumbered", "not_served", "not_sliceable"):
+                        # display_note() drops merge_divisions's carry-forward history
+                        # suffix (#270 follow-up) -- redundant here, since a renumbered or
+                        # not_served row's own note already says why it's absent from
+                        # OARD's current listing under this number, and the truncation
+                        # below was pushing THAT fact out to make room for saying it twice.
                         cat_items["renumbered"].append(
-                            (f"OAR {r['number']}", f"{r['status']}: {r.get('note', '')[:90]}"))
+                            (f"OAR {r['number']}",
+                             f"{r['status']}: {display_note(r.get('note', ''))[:90]}"))
                     # A CLAIM ABOUT LEGAL FORCE REACHES A PERSON (ADR 0006, #229). An
                     # amendment is a text refresh the provenance chain verifies and it
                     # re-ingests on its own; a repeal or a suspension is a statement about
@@ -170,9 +177,21 @@ def scan():
                              f"stamped `status: {r[CATALOG_KEY]}` and stays retrievable; "
                              f"filed in {r.get(NOTICE_KEY)}"))
                 if not rules and d.get("status") == "not_ingested":
+                    # #270: discovery reads OARD directly now, not oregon.public.law, and
+                    # merge_divisions() marks the two ways it mechanically confirms a
+                    # division holds zero rows of its OWN -- already claimed under
+                    # another row (chapter or division), or OARD's own page saying so.
+                    # Both are resolved, not a gap; only an unmarked empty division (a
+                    # row some OTHER writer left this way, never touched by discovery)
+                    # still means "could not enumerate mechanically."
+                    note = d.get("note") or ""
+                    if CLAIMED_ELSEWHERE_DIVISION_MARK in note or CONFIRMED_EMPTY_DIVISION_MARK in note:
+                        continue
                     cat_items["gaps"].append(
                         (f"OAR chapter {c['chapter']} division {d['division']} ({d['title'][:50]})",
-                         "no rules enumerated — not mirrored on oregon.public.law; needs another enumeration route"))
+                         "no rules enumerated under this division by any discovery pass "
+                         "— needs a human look directly at the OARD chapter page "
+                         "(secure.sos.state.or.us/oard)"))
             elif d.get("status") == "not_ingested":
                 cat_items["gaps"].append(
                     (f"OAR chapter {c['chapter']} division {d['division']} ({d['title'][:50]})",

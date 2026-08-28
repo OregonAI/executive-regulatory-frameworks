@@ -13,10 +13,17 @@ was wrong, and the gate here is deliberately NOT the one it implies.
 
   All 303 of those documents ARE named, under the number OARD RENUMBERED THEM FROM: 303 rows
   carry `served_as` pointing into 419/950 with `path` on the document. The chapter directory
-  exists because that is the SERVED number; there is no chapter ENTRY because no rule was
+  exists because that is the SERVED number; there was no chapter ENTRY because no rule was
   ever discovered under it. Comparing chapter SETS therefore compares the wrong things, and
   adding the two chapters -- tried, measured, reverted -- gives 303 documents a SECOND row
   and breaks the re-ingest join that reads them by number.
+
+  #270 gives 419 and 950 chapter entries after all -- OARD's own chapter directory lists
+  both as real, current chapters, not a mirror artifact -- but not by repeating this
+  mistake: `catalog_oar.catalog_claimed_numbers()` reads every row's `served_as` the same
+  way this gate does, and a number a pointer already claims stays claimed by that one row.
+  The 303 documents above are unaffected; the entries 419 and 950 get name only the rules
+  OARD adds that no row anywhere already speaks for -- 37 and 15, measured 2026-08-27.
 
   So the rule is about DOCUMENTS, not chapters: every rule document on disk is named by
   EXACTLY ONE catalog row. That is the invariant the chapter comparison was reaching for, it
