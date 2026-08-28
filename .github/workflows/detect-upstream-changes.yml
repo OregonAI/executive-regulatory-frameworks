@@ -13,8 +13,8 @@ jobs:
     permissions:
       contents: write
       issues: write
-    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.30.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.31.0
     with:
       # Pin the CODE, not just the workflow file. Omitting this used to
       # silently install v1.0.5 regardless of the tag above.
-      toolkit-ref: v1.30.0
+      toolkit-ref: v1.31.0
