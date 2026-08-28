@@ -1132,8 +1132,13 @@ def curated_keys_in_order(fields=None):
     exactly the Python dict order its keys were inserted in, and a `frozenset`'s iteration
     order is PYTHONHASHSEED-dependent — stable within one process, different across the next
     `--refresh` run, so a curated field's line moves in the diff for no reason every time.
-    No run of `--refresh` has actually produced three different files — #275 finds it
-    aborts before writing anything, on unmodified main, for a reason unrelated to key order.
+    No run of `--refresh` has actually produced THREE different files to diff against each
+    other for hashseed-driven reordering — #275 is why, until #275's own fix landed in the
+    same commit that corrected this sentence: every `--refresh` aborted before writing
+    anything, for a reason unrelated to key order, so no such run ever existed to compare. A
+    single live `--refresh` now completes (189 organizations, 106.48s against
+    oregon.public.law, 2026-08-28, this branch), but one run says nothing about hashseed
+    variance ACROSS runs — that is still only demonstrated the way it always was, below.
     The evidence is `simulate_refresh()`, the same `preserve_curated()` a real --refresh
     calls: five subprocesses, one fresh PYTHONHASHSEED apiece, simulating a refresh of
     department-of-administrative-services against unchanged committed data, landed
@@ -1174,6 +1179,10 @@ MERGED_KEYS = frozenset(keys_in_order(MERGED))
 # The fields whose origin is written on the ROW rather than on the field. Derived from the
 # same table for the same reason the three sets above are, and read by `preserve_name()`.
 PER_ROW_KEYS = frozenset(keys_in_order(PER_ROW))
+# The one field the scrape may never write under any name (#275 review): `manual: true` is
+# asserted only by a human, via `preserve_manual()`, which runs AFTER the scrape. Derived
+# for the same reason the four sets above are, and read only by `assert_scrape_declared()`.
+MANUAL_FLAG_KEYS = frozenset(keys_in_order(MANUAL_FLAG))
 UA = "executive-regulatory-frameworks (+https://github.com/OregonAI/executive-regulatory-frameworks)"
 
 ENTRY_RE = re.compile(
@@ -1329,7 +1338,8 @@ def parse_index(raw: str):
 
 
 def assert_scrape_declared(orgs):
-    """Stop a refresh that produced a field FIELDS does not declare SCRAPED.
+    """Stop a refresh that produced a field FIELDS does not declare SCRAPED, MERGED or
+    PER_ROW.
 
     THE DECLARATION IS BINDING ON THE SCRAPE, and this is the half --check cannot reach: it
     reads committed data and never runs a scrape, so it can only ask whether the rows it can
@@ -1346,27 +1356,49 @@ def assert_scrape_declared(orgs):
     produce a field FIELDS does not know about at all" — whether a PER_ROW field's rebuilt
     VALUE then survives is a separate question, `preserve_name()`'s alone to answer, later.
     Without this, `{'name', 'name_basis'}` came back "undeclared" on every row a real scrape
-    ever built, so a real `--refresh` died here before writing anything, every invocation
-    (measured: `sys.exit` after ~110s of network, before this fix, on unmodified main).
+    ever built, so a real `--refresh` died here before writing anything, every invocation —
+    reproduced directly below against the exact row `scraped_entry()` builds, and matching
+    #275's own quoted `--refresh` transcript verbatim ("the scrape produced undeclared
+    field(s) ['name', 'name_basis']"; the ticket states no timing for that crash, and none is
+    claimed here — a number nobody measured is worse than no number). Fixed and verified
+    LIVE, not only against the fixture below: `--refresh` against oregon.public.law completed
+    end to end, 189 organizations, 106.48s wall-clock (2026-08-28, this branch); the
+    committed registry was restored unchanged afterward, since a network-dependent refresh's
+    output is not this ticket's data to commit.
 
-    CURATED_KEYS and the MANUAL_FLAG key are deliberately NOT joining this exclusion.
-    `scraped_entry()` never writes either kind of key — a curated field or `manual: true`
-    reaches a row only later, via `preserve_curated()`/`preserve_manual()`, which both run
-    AFTER this guard. So a curated or manual key showing up in a freshly-scraped `orgs` here
-    would be a real bug (the scrape asserting data only a human may assert), and folding
-    those two origins in as well — deriving the exclusion from "everything but the empty
-    set", say — would make this guard permanently silent on exactly the mistake it exists to
-    catch. The three names below are not a maintenance list to remember: each is already a
-    view of FIELDS, filtered to one origin `scraped_entry()` is documented to write
-    (SCRAPED wholly, MERGED in part, PER_ROW conditionally per row) — so the fourth key
-    class the docstring above warns about is caught the day `scraped_entry()` starts writing
-    it under a new origin this list does not yet name, by this comment sending the reader
-    back to FIELDS rather than by another 110-second crash."""
-    undeclared = {k for o in orgs for k in o} - SCRAPED_KEYS - MERGED_KEYS - PER_ROW_KEYS
+    THE EXCLUSION IS DERIVED, NOT A LIST (#275 review). It used to name SCRAPED_KEYS,
+    MERGED_KEYS and PER_ROW_KEYS by hand — three views of FIELDS restated at the one call
+    site that needed their union, the same shape #182 fixed for `preserve_curated()`'s key
+    order and this function itself went stale under, once already, the day PER_ROW joined
+    the other two origins and this list did not. `admitted` is now `set(FIELDS) -
+    CURATED_KEYS - MANUAL_FLAG_KEYS` — every field FIELDS declares, except the two origins
+    `scraped_entry()` may never produce. A field the scrape starts writing under any OTHER
+    origin is caught by being declared, not by this list remembering to grow: there is no
+    longer a per-origin name here for a future origin to be missing from.
+
+    CURATED_KEYS and MANUAL_FLAG_KEYS are the two that stay excluded, and that is a real,
+    checkable claim rather than an assumption: `scraped_entry()` never writes a curated field
+    or `manual: true` — both reach a row only later, via
+    `preserve_curated()`/`preserve_manual()`, which both run AFTER this guard. So a curated
+    or manual key on a freshly-scraped `orgs` here is a real bug — the scrape asserting data
+    only a human may assert — and admitting those two origins as well would make this guard
+    permanently silent on exactly the mistake it exists to catch."""
+    admitted = set(FIELDS) - CURATED_KEYS - MANUAL_FLAG_KEYS
+    undeclared = {k for o in orgs for k in o} - admitted
     if undeclared:
-        sys.exit(f"the scrape produced undeclared field(s) {sorted(undeclared)} — add them "
-                 "to FIELDS (origin SCRAPED, or MERGED if the refresh writes only some of "
-                 "what the field holds) before writing the registry")
+        unknown = sorted(undeclared - set(FIELDS))
+        stray = sorted(undeclared & (CURATED_KEYS | MANUAL_FLAG_KEYS))
+        parts = []
+        if unknown:
+            parts.append(f"{unknown} not declared in FIELDS at all — add them (origin "
+                         "SCRAPED, MERGED, or PER_ROW, whichever the scrape actually "
+                         "writes)")
+        if stray:
+            parts.append(f"{stray} ARE declared in FIELDS, as CURATED or MANUAL_FLAG — "
+                         "scraped_entry() is not supposed to write those; the bug is "
+                         "likely in the scrape, not a missing FIELDS declaration")
+        sys.exit("the scrape produced undeclared field(s): " + "; ".join(parts) +
+                 " — nothing was written")
 
 
 def preserve_manual(prev_orgs, orgs, by_slug):
@@ -3878,8 +3910,9 @@ def _proof_refresh_rejects_an_undeclared_scraped_field() -> int:
     writes on every row (PER_ROW, ADR 0003 — a body the scrape just found has no established
     statutory name, so it starts under `name_basis: unverified-oar-title`) came back as
     undeclared on every row a real scrape ever built — `['name', 'name_basis']`, exactly the
-    pair the ticket's own `--refresh` run died on after ~110s of network, before writing
-    anything."""
+    pair the ticket's own `--refresh` transcript quotes it dying on, before writing anything
+    (the ticket states no timing; a live post-fix `--refresh` completed in 106.48s, see
+    `assert_scrape_declared()`'s own docstring)."""
     bad = 0
     try:
         assert_scrape_declared([{"slug": "a-body", "headcount": 412}])
@@ -3955,9 +3988,13 @@ def _proof_curated_keys_survive_in_declaration_order() -> int:
     `CURATED_KEYS` here reproduces exactly that.
 
     Checks the FULL row from each seed, not only its curated keys, so a --refresh that
-    reordered something else in the row would also fail this — the closest this module can get
-    to AC1's byte-identical --refresh assertion while #275 blocks running --refresh itself.
-    Both full rows must also agree with each other, and the curated keys within them must
+    reordered something else in the row would also fail this — the closest this module gets
+    to AC1's byte-identical --refresh assertion without THREE real `--refresh` runs to diff
+    against each other (#275's fix, landed alongside this correction, lets a real `--refresh`
+    run at all now — verified live, 189 organizations, 106.48s against oregon.public.law,
+    2026-08-28 — but a single run says nothing about PYTHONHASHSEED variance across runs,
+    which is what this proof still stands in for). Both full rows must also agree with each
+    other, and the curated keys within them must
     match `_DECLARED_CURATED_ORDER` — a literal independent of `curated_keys_in_order()`, so
     two seeds agreeing on the WRONG order does not pass this the way it would an equality-only
     check against that function's own output."""
@@ -4171,7 +4208,18 @@ def selftest() -> int:
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
-    print(f"{len(_CASES) + len(_PROOFS) + 8} violation(s) demonstrated failing, "
+    # THE "+ 9" IS A HAND COUNT OF THE EIGHT PROOF CALLS ABOVE (#275 review) — one violation
+    # demonstrated per call, EXCEPT `_proof_refresh_rejects_an_undeclared_scraped_field()`,
+    # which #275 grew a second, independent demonstration inside (the guard must also stay
+    # QUIET on a row `scraped_entry()` genuinely produces) without this literal following it:
+    # the total silently undercounted by one until this line was corrected alongside it. This
+    # is the same shape #279/#299/93036cf name — a printed count that can drift from the
+    # thing it counts — one level down, and it is not fixed structurally here: doing that
+    # properly means every one of the eight functions returning its own demonstrated count,
+    # the way the two name-resolution proofs below already do (`failed, ran = proof()`), and
+    # summing those instead of a literal. Filed as its own issue rather than folded into
+    # #275's fix, which this literal is not: OregonAI/executive-regulatory-frameworks#301.
+    print(f"{len(_CASES) + len(_PROOFS) + 9} violation(s) demonstrated failing, "
           f"{resolutions} name resolution(s) proven"
           if not bad else f"{bad} rule(s) did not fire")
     return 1 if bad else 0
