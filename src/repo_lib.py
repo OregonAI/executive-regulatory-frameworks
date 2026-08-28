@@ -285,9 +285,14 @@ ORCONST_ARTICLE_RE = re.compile(
 #
 # Written here rather than in either consumer because this is where the id shape lives, and
 # the token and the id are the same fact read two ways — `orconst_article_slug` below turns
-# one into the other. Kept as a SOURCE STRING, not a compiled pattern, because
-# `register_scheme` compiles pattern strings itself (corpus-toolkit#202) and a compiled
-# object would have to be unwrapped again at every use.
+# one into the other. Kept as a SOURCE STRING, not a compiled pattern, because it is
+# interpolated into TWO different patterns (`citation_schemes.OR_CONST_C` and
+# `catalog_agencies.AUTHORITY_FORMS`' constitutional form) built with different flags, and a
+# pre-compiled fragment cannot be spliced into another pattern's source text. Unrelated to
+# #202 (misattributed to "corpus-toolkit#202" here before this correction) — that issue was
+# about `register_scheme` losing a flag off an ALREADY-COMPLETE pattern at registration, and
+# is fixed by passing the compiled object there, which this fragment is never passed to on
+# its own.
 #
 # Deliberately exact about the space before `(Amended)`: an allowlist is widened by a
 # decision, not by a `\s*`.

@@ -123,17 +123,28 @@ def _resolve_ors(m, nodes):
 # `catalog_agencies.AUTHORITY_FORMS`' constitutional form — see
 # `article_form_disagreements` below for what that fixes and what gates it.
 #
-# THE CASE FLAG IS IN THE PATTERN STRING, NOT THE compile() CALL. register_scheme takes
-# `OR_CONST_C.pattern` — the string — and compiles it itself, so a flag passed to
-# re.compile here reaches this module's own uses and NOT the resolver the MCP server runs.
-# Measured: with `re.I` passed as an argument, `Or. Const. Art. VI, sec. 1` matched here and
-# came back from resolve_citation as "no citation scheme recognized this format". The same
-# trap is set for ORS_C/OAR_*/EO_C/NUMS_C above, which all pass re.I the losing way — filed
-# as #202, and not fixed here.
+# #202, FIXED FOR ALL SIX SCHEMES, NOT WORKED AROUND FOR THIS ONE. `register_scheme` used
+# to be handed `OR_CONST_C.pattern` — the STRING — which the toolkit compiled itself with
+# no flags, so `re.I` passed here reached this module's own uses and NOT the resolver the
+# MCP server runs. Measured, before the fix: `Or. Const. Art. VI, sec. 1` matched here and
+# came back from resolve_citation as "no citation scheme recognized this format". This
+# scheme used to carry an inline `(?i)` in the pattern string as a one-off workaround —
+# ORS_C/OAR_*/EO_C/NUMS_C above did not, and sat broken (most visibly `eo`, since its
+# `EO`/`Executive Order` token is mandatory rather than optional).
+#
+# THE ACTUAL FIX IS IN THE REGISTRATION CALL, not the pattern: `register_scheme` accepts
+# either a string (compiled fresh, no flags) or an already-compiled pattern used AS GIVEN,
+# flags and all (corpus-toolkit#134, released in the v1.31.1 this corpus pins). Every
+# `register_scheme(...)` call below now passes the compiled object — `OR_CONST_C`, not
+# `OR_CONST_C.pattern` — so `re.I` on the object IS what the server runs, and a workaround
+# baked into one pattern's source text cannot be the only thing standing between this and
+# the same silent miss on whichever scheme is edited next.
+# `_proof_flagged_schemes_survive_registration` gates it end-to-end, for every scheme that
+# declares a flag, not just this one.
 OR_CONST_C = re.compile(
-    r"(?i)\b(?:Or|Ore|Oregon)\.?\s*Const(?:itution)?\.?,?\s*"
+    r"\b(?:Or|Ore|Oregon)\.?\s*Const(?:itution)?\.?,?\s*"
     rf"Art(?:icle)?\.?\s*({ORCONST_ARTICLE_TOKEN})\s*,?\s*"
-    rf"(?:§|Sec(?:tion|t|\.)?)\s*\.?\s*({ORCONST_SECTION_TOKEN})\.?\s*$")
+    rf"(?:§|Sec(?:tion|t|\.)?)\s*\.?\s*({ORCONST_SECTION_TOKEN})\.?\s*$", re.I)
 
 CONSTITUTION_CATALOG_PATH = REPO_ROOT / "_meta/catalog/constitution.yml"
 
@@ -296,9 +307,14 @@ _sys.path.insert(0, str(_pathlib.Path(__file__).resolve().parent))
 from federal_ids import CFR as _F_CFR, CJIS as _F_CJIS, IRSPUB as _F_IRS, PUBLAW as _F_PL  # noqa: E402
 from federal_ids import candidates as _federal_ids  # noqa: E402
 
+# THE SAME #202 TRAP, measured live here too: all four of CFR/PUBLAW/IRSPUB/CJIS declare
+# re.I on the compiled object, and `register_scheme(_name, _rx.pattern, ...)` handed the
+# toolkit the pattern STRING, which it compiled itself with no flags -- `2 cfr 200.332`
+# matched none of these schemes while `2 CFR 200.332` matched federal-cfr. Fixed the same
+# way as the six schemes above: pass `_rx`, the compiled object, not `_rx.pattern`.
 for _name, _rx in (("federal-cfr", _F_CFR), ("federal-public-law", _F_PL),
                    ("federal-irs-pub", _F_IRS), ("federal-cjis", _F_CJIS)):
-    register_scheme(_name, _rx.pattern,
+    register_scheme(_name, _rx,
                     # m.string, NOT m.group(0). group(0) is only the substring the
                     # instrument pattern matched, so `IRS Pub 1075 (Rev. 09-2016)` arrived
                     # here as `IRS Pub 1075` -- the revision was stripped before the id
@@ -308,15 +324,15 @@ for _name, _rx in (("federal-cfr", _F_CFR), ("federal-public-law", _F_PL),
                     corpus="federal-reference")
 
 
-register_scheme("ors", ORS_C.pattern, resolver=_resolve_ors)
+register_scheme("ors", ORS_C, resolver=_resolve_ors)
 # Before the ORS/OAR/EO schemes would not matter — no constitutional citation contains a
 # NNN.NNN, a NNN-NNN-NNNN or an EO number — but registered beside them because it is the
 # same kind of thing: this corpus's own legal-citation formats, in one place.
-register_scheme("or-const", OR_CONST_C.pattern, resolver=_resolve_or_const)
-register_scheme("oar-rule", OAR_RULE_C.pattern, resolver=_resolve_oar_rule)
-register_scheme("eo", EO_C.pattern, resolver=_resolve_eo)
-register_scheme("oar-division", OAR_DIV_C.pattern, resolver=_resolve_oar_div)
-register_scheme("das-oam-number", NUMS_C.pattern, resolver=_resolve_nums)
+register_scheme("or-const", OR_CONST_C, resolver=_resolve_or_const)
+register_scheme("oar-rule", OAR_RULE_C, resolver=_resolve_oar_rule)
+register_scheme("eo", EO_C, resolver=_resolve_eo)
+register_scheme("oar-division", OAR_DIV_C, resolver=_resolve_oar_div)
+register_scheme("das-oam-number", NUMS_C, resolver=_resolve_nums)
 
 
 # ---------------------------------------------- one declaration, and the gate on it (#195)
@@ -442,12 +458,19 @@ def _selftest() -> int:
         ck(f"{other!r} is not this corpus's constitutional citation",
            resolve(other)[0] is None)
 
-    # THE REGRESSION GUARD for the flag trap above: register_scheme compiles the pattern
-    # STRING, so this is the regex the MCP server actually runs. Tested here rather than
-    # assumed, because the failure is silent — the citation comes back as a format no
-    # scheme recognized, which reads as "this corpus does not do constitutional citations".
-    ck("the pattern the framework compiles is the one this module tests",
-       re.compile(OR_CONST_C.pattern).search("or. const. art. vi, sec. 1") is not None)
+    # THE REGRESSION GUARD for the flag trap above (#202): what `register_scheme` actually
+    # STORES for what the MCP server runs, using the toolkit's own compiled-pattern
+    # resolution (`corpus_toolkit.mcp.framework._compiled`) rather than reimplementing it —
+    # a hand-rolled guard here could drift from what the toolkit does and pass while the
+    # real mechanism changed underneath it. Tested here rather than assumed, because the
+    # failure is silent — the citation comes back as a format no scheme recognized, which
+    # reads as "this corpus does not do constitutional citations".
+    from corpus_toolkit.mcp.framework import _compiled as _tk_compiled
+    stored = _tk_compiled("or-const", OR_CONST_C)
+    ck("register_scheme stores the compiled pattern itself, not a re-compiled string",
+       stored is OR_CONST_C and bool(stored.flags & re.I))
+    ck("...so what it runs still matches lowercase",
+       stored.search("or. const. art. vi, sec. 1") is not None)
 
     ck("a citation ending a sentence still matches",
        resolve("Or. Const. Art. VI, sec. 1.")[0] == ["orconst-art-vi-sec-1"])
@@ -470,7 +493,11 @@ def _selftest() -> int:
     _proof_every_designation_round_trips_through_its_slug(ck)
     _proof_the_two_forms_accept_the_same_article(ck)
     _proof_the_gate_can_watch_the_two_forms_disagree(ck)
-    _proof_the_citation_resolves_end_to_end(ck)
+    fw = _load_framework()
+    if fw is not None:
+        _proof_the_citation_resolves_end_to_end(ck, fw)
+        _proof_flagged_schemes_survive_registration(ck, fw)
+        _proof_federal_schemes_survive_registration(ck, fw)
     return ck.report("citation-schemes selftest")
 
 
@@ -593,7 +620,22 @@ def _proof_the_gate_can_watch_the_two_forms_disagree(ck):
            for c in article_form_disagreements(constitution_form=lost_edition)))
 
 
-def _proof_the_citation_resolves_end_to_end(ck):
+def _load_framework():
+    """A `CorpusFramework` over this corpus as committed, or `None` with a LOUD skip
+    printed to stderr. Shared by every proof below that needs the served path — the seam
+    an agent actually calls, not this module's own regex — so the corpus is only loaded
+    once per selftest run."""
+    try:
+        from corpus_toolkit import config as config_mod
+        from corpus_toolkit.mcp.framework import CorpusFramework
+        return CorpusFramework(config_mod.load(str(REPO_ROOT / "_meta/corpus.yml")))
+    except Exception as e:                                     # noqa: BLE001
+        print(f"SKIP end-to-end resolution: the corpus could not be loaded here "
+              f"({type(e).__name__}: {e}) — NOT a pass", file=sys.stderr)
+        return None
+
+
+def _proof_the_citation_resolves_end_to_end(ck, fw):
     """THE WHOLE WAY THROUGH, against this corpus as committed — the seam an agent actually
     calls, not this module's own regex.
 
@@ -601,18 +643,7 @@ def _proof_the_citation_resolves_end_to_end(ck):
     that changes a scheme is exactly the one that can break it, and everything above this
     line would still pass while `resolve_citation` answered "no citation scheme recognized
     this format". That is not a hypothetical — it is what a re.I passed to `re.compile`
-    instead of written into the pattern did to this scheme while it was being built (#202).
-
-    Skipped, LOUDLY, where the corpus is not readable from here (no toolkit installed): a
-    proof that cannot run must not read as one that passed."""
-    try:
-        from corpus_toolkit import config as config_mod
-        from corpus_toolkit.mcp.framework import CorpusFramework
-        fw = CorpusFramework(config_mod.load(str(REPO_ROOT / "_meta/corpus.yml")))
-    except Exception as e:                                     # noqa: BLE001
-        print(f"SKIP end-to-end resolution: the corpus could not be loaded here "
-              f"({type(e).__name__}: {e}) — NOT a pass", file=sys.stderr)
-        return
+    instead of written into the pattern did to this scheme while it was being built (#202)."""
     r = fw.resolve_citation("Or. Const. Art. VI, sec. 1")
     ck("resolve_citation returns the document",
        [m["id"] for m in r["matches"]] == ["orconst-art-vi-sec-1"])
@@ -621,6 +652,74 @@ def _proof_the_citation_resolves_end_to_end(ck):
        bool(r.get("unresolved")) and not r["matches"])
     ck("...and the reason reaches the caller",
        "no section 99" in (r.get("note") or ""))
+
+
+def _proof_flagged_schemes_survive_registration(ck, fw):
+    """#202, THE WHOLE ISSUE — not just the `or-const` corner of it that #194 happened to
+    hit. Every scheme below declares `re.I` on its own compiled pattern, and
+    `register_scheme` used to be handed `X_C.pattern` — the STRING — which the toolkit
+    compiled itself with no flags. The flag then governed this module's own uses and
+    NOTHING the MCP server actually runs.
+
+    Measured on the committed code before this proof existed: of the five affected
+    schemes, only `eo` was live-broken, because `ORS_C`/`OAR_RULE_C`/`OAR_DIV_C`/`NUMS_C`
+    all make their letter prefix OPTIONAL, so a lowercase prefix is simply skipped rather
+    than refused — the digits still match unaided. `EO_C` makes `EO`/`Executive Order`
+    MANDATORY, so losing the flag made it case-sensitive for real:
+    `resolve_citation("executive order 20-03")` came back "no citation scheme recognized
+    this format" while `"EO 20-03"` resolved.
+
+    Every scheme with a flag is asserted here anyway, upper- and lower-case alike, through
+    `fw.resolve_citation` — the served path — so a scheme that is unaffected today by luck
+    of its pattern shape does not become tomorrow's silent miss the next time someone
+    tightens a prefix from optional to required."""
+    cases = [
+        ("ors",            "ORS 183.310",             "ors 183.310",             ["ors-183.310"]),
+        ("oar-rule",       "OAR 101-080-0010",         "oar 101-080-0010",        ["oar-101-080-0010"]),
+        ("oar-division",   "OAR 101-080",              "oar 101-080",
+         ["oar-101-080-0010", "oar-101-080-0020"]),
+        ("eo (EO form)",   "EO 20-03",                 "eo 20-03",                ["eo-20-03"]),
+        ("eo (spelled)",   "Executive Order 20-03",    "executive order 20-03",   ["eo-20-03"]),
+        ("das-oam-number", "DAS 107-004-180",          "das 107-004-180",
+         ["das-107-004-180", "das-107-004-180_pr"]),
+    ]
+    for label, upper, lower, expected in cases:
+        r_upper = fw.resolve_citation(upper)
+        got_upper = sorted(m["id"] for m in r_upper["matches"])
+        ck(f"{label}: {upper!r} resolves through resolve_citation",
+           got_upper == sorted(expected))
+        r_lower = fw.resolve_citation(lower)
+        got_lower = sorted(m["id"] for m in r_lower["matches"])
+        ck(f"{label}: {lower!r} resolves THE SAME WAY through resolve_citation "
+           f"— the flag reached the served resolver",
+           got_lower == got_upper)
+
+
+def _proof_federal_schemes_survive_registration(ck, fw):
+    """THE SAME #202 TRAP, found by the same measurement one scope over: CFR/PUBLAW/
+    IRSPUB/CJIS in the federal-instruments block below also declare `re.I` locally and
+    were ALSO registered by `.pattern` — `2 cfr 200.332` matched no scheme while
+    `2 CFR 200.332` matched `federal-cfr`. Fixed alongside the six above rather than
+    filed separately, since it is the identical one-line cause in the identical file.
+
+    Through `fw._match_schemes` — scheme matching and id derivation, the part the flag
+    governs — and not through `resolve_citation` all the way to a match: these candidates
+    live in the `federal-reference` sibling corpus, resolved over the network via
+    `siblings:` in corpus.yml, which this gate does not have and should not depend on to
+    stay green. `_match_schemes` is what `resolve_citation` calls before it ever reaches
+    the network, so this still proves the served regex, not this module's own copy of it."""
+    cases = [
+        ("federal-cfr", "2 CFR 200.332", "2 cfr 200.332"),
+        ("federal-public-law", "Pub. L. 111-5", "pub. l. 111-5"),
+        ("federal-cjis", "CJIS Security Policy v5.9", "cjis security policy v5.9"),
+    ]
+    for scheme, upper, lower in cases:
+        _, _, cands_upper, _ = fw._match_schemes(upper)
+        ck(f"{scheme}: {upper!r} matches through the served scheme table",
+           cands_upper != [])
+        _, _, cands_lower, _ = fw._match_schemes(lower)
+        ck(f"{scheme}: {lower!r} matches THE SAME WAY — the flag reached the served table",
+           cands_lower == cands_upper)
 
 
 if __name__ == "__main__":
