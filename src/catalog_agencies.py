@@ -93,10 +93,10 @@ CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 #               which is which is written on the entry. The whole-field question the three
 #               origins above answer ("does the refresh write this key?") has no true answer
 #               for such a field, so it is merged ENTRY BY ENTRY instead — see RELATIONS
-#               below for the field that forced it, and #178 for what happens to a field
-#               with two origins and no way to tell them apart: `note` is written both by
-#               the scrape and by hand, is declared SCRAPED because most of it is, and a
-#               hand-written note is destroyed by --refresh with nothing to report it.
+#               below for the field that forced it. `note` used to be a simpler version of
+#               the same problem and MERGED could not have fixed it either, since a mixed
+#               origin written per-list-entry has nowhere to live on a field that is one
+#               string: #178 gave the two origins separate FIELDS instead (`note` below).
 #   PER_ROW     the field's origin is written ON THE ROW, because it differs between rows
 #               rather than between fields. `name` is the field that forced it (#168): once
 #               `name` is the STATUTORY name, a row whose statutory name has been
@@ -234,27 +234,27 @@ FIELDS = {
     # `preserve_relations()` for the merge and `relation-origin` in check_registry() for
     # what states that this field may not be declared as either.
     "relations": Field(MERGED, required=True),
-    # Written by the refresh when a chapter page's title would not parse or its fetch
-    # failed. NOT curated even though the two rows carrying one today were hand-written:
-    # both are `manual` rows, preserved whole, so they need nothing from CURATED_KEYS —
-    # while making `note` curated would resurrect a stale "title not parseable" note onto a
-    # row whose title parsed fine on the next refresh, which is a false claim about the
-    # scrape rather than preserved curation.
-    #
-    # THE FIELD WITH TWO ORIGINS AND NO WAY TO TELL THEM APART (CONTEXT.md, "Relation
-    # source"): most of `note` is the scrape's own "could not parse this title" flag, but
-    # the two rows that carry one today were typed by a person, and nothing on the row says
-    # which kind a given `note` is. `note-requires-manual` in check_registry() is what makes
-    # that unreadable state unreachable rather than merely undocumented (#178): a hand-typed
-    # note has nowhere to live but a `manual` row, because `manual` is preserved WHOLE and
-    # `note` on every other row is rebuilt from a live parse that a curated sentence would
-    # not survive. This is not `note` becoming PER_ROW like `name` — there is no `note_basis`
-    # naming which origin a given row's note has, only a rule that refuses the one shape
-    # that lets the two origins be confused. A future note with genuine hand-written
-    # curation on a NON-manual row still needs the shape `name`/`name_basis` has; that is
-    # unbuilt, and this guard's job is only to make sure nothing reaches that state quietly.
+    # SCRAPE-ONLY (CONTEXT.md, "Relation source"). `cmd_refresh()` writes one of exactly
+    # three sentences — NOTE_SCRAPE_TEMPLATES, above `cmd_refresh()` — when a chapter page's
+    # title will not parse, its fetch fails, or a chapterless group's children disagree on a
+    # name prefix.
+    # #178: this field USED TO be where curator prose lived too (the two rows carrying one
+    # were both hand-typed), which made it a field with two origins and no way to tell them
+    # apart — declaring it CURATED would resurrect a stale "title not parseable" sentence
+    # forever, and leaving it SCRAPED let a hand-typed note get silently rebuilt away the
+    # first time it landed on a row `manual` did not protect. `note-scrape-shape` in
+    # check_registry() is what makes that unreadable state unreachable rather than merely
+    # undocumented: a `note` that is not one of the scrape's own sentences is refused,
+    # `manual` or not, because curator prose belongs in `curator_note` below instead of
+    # here.
     "note": Field(SCRAPED, required=False),
     "manual": Field(MANUAL_FLAG, required=False),
+    # CURATOR PROSE ABOUT A ROW (CONTEXT.md, "Relation source") — #178's other half. Nothing
+    # upstream ever produces this key, so it needs none of `manual`'s whole-row protection:
+    # CURATED_KEYS carries it across a refresh on ANY row, the same way `das_agency_number`
+    # survives one today. The two hand-typed sentences that used to sit in `note` (chapters
+    # 419, 950 — the mirror gap `manual` was already protecting them for) live here now.
+    "curator_note": Field(CURATED, required=False),
     # THE DAS AGENCY NUMBER (CONTEXT.md): the number DAS assigns a body in the Oregon
     # Accounting Manual (OAM 70.10.00). It identifies the body in the state's financial
     # administration and says nothing about whether it spends money — thirteen
@@ -1343,6 +1343,41 @@ def preserve_name(prev_orgs, by_slug, per_row_keys=None):
                 current[key] = o[key]
 
 
+# THE SCRAPE'S OWN THREE SENTENCES for `note` (#178), stated ONCE so `cmd_refresh()`, which
+# writes them, and `is_scrape_note()` below, which check_registry() reads them against, stay
+# the same claim rather than two hand-typed copies of it drifting apart the way the field's
+# own rationale already did (three places, before this fix). Two carry a `{...}` placeholder
+# for the one piece the scrape could not have predicted (the fetch error, the disagreeing
+# prefixes); `is_scrape_note()` turns each into the pattern that matches whatever the scrape
+# actually filled it with.
+NOTE_TITLE_NOT_PARSEABLE = "chapter page title not parseable; name from index (abbreviated)"
+NOTE_FETCH_FAILED = "chapter page fetch failed ({error}); name from index (abbreviated)"
+NOTE_PREFIXES_DISAGREE = ("chapterless group; children's name prefixes don't agree "
+                           "({prefixes}), name from index (abbreviated)")
+NOTE_SCRAPE_TEMPLATES = (NOTE_TITLE_NOT_PARSEABLE, NOTE_FETCH_FAILED, NOTE_PREFIXES_DISAGREE)
+
+
+def _note_shape_pattern(template: str):
+    """A regex matching exactly what `template.format(...)` can produce for any value of
+    its one placeholder — built from the literal template text via `re.escape()` rather
+    than hand-copied, so the shape `is_scrape_note()` checks against can never drift from
+    the sentence `cmd_refresh()` actually writes."""
+    before, _, rest = template.partition("{")
+    if not rest:
+        return re.compile("^" + re.escape(template) + "$")
+    _, _, after = rest.partition("}")
+    return re.compile("^" + re.escape(before) + ".+" + re.escape(after) + "$")
+
+
+NOTE_SCRAPE_SHAPES = tuple(_note_shape_pattern(t) for t in NOTE_SCRAPE_TEMPLATES)
+
+
+def is_scrape_note(note) -> bool:
+    """Whether `note` is one of the sentences `cmd_refresh()` itself writes — the only
+    thing `note` may hold now that curator prose has `curator_note` of its own (#178)."""
+    return isinstance(note, str) and any(p.match(note) for p in NOTE_SCRAPE_SHAPES)
+
+
 def cmd_refresh():
     raw = get(INDEX_URL)
     entries = parse_index(raw)
@@ -1369,10 +1404,10 @@ def cmd_refresh():
             if m:
                 name = re.sub(r"\s+", " ", unescape(m.group(1))).strip()
             else:
-                note = "chapter page title not parseable; name from index (abbreviated)"
+                note = NOTE_TITLE_NOT_PARSEABLE
                 fallbacks += 1
         except Exception as e:
-            note = f"chapter page fetch failed ({e}); name from index (abbreviated)"
+            note = NOTE_FETCH_FAILED.format(error=e)
             fallbacks += 1
         orgs[i] = scraped_entry(oar_name=name, oar_chapter=ch, raw_index_name=index_name,
                                 source_url=url, note=note)
@@ -1407,8 +1442,7 @@ def cmd_refresh():
             note = None
         else:
             name = index_name
-            note = ("chapterless group; children's name prefixes don't agree "
-                    f"({sorted(prefixes)}), name from index (abbreviated)")
+            note = NOTE_PREFIXES_DISAGREE.format(prefixes=sorted(prefixes))
         orgs[i] = scraped_entry(oar_name=name, oar_chapter=None, raw_index_name=index_name,
                                 source_url=INDEX_URL, note=note)
 
@@ -2035,26 +2069,25 @@ def check_registry(cat, fields=None) -> list:
                 f"chapter title and nothing else, so this name was neither scraped nor "
                 f"read off an authority"))
 
-    # `note` HAS TWO ORIGINS AND NO WAY TO TELL THEM APART (CONTEXT.md, "Relation source"):
-    # `cmd_refresh()` writes one only when a chapter page's title would not parse, which is
-    # most of what this field is and why it is declared SCRAPED — but the two rows that
-    # carry one today were typed by a person. A SCRAPED field is skipped by
-    # `survives-refresh` on the assumption the refresh rewrites it faithfully, which is true
-    # of the scrape's own "could not parse" sentence and false of a hand-written one: the
-    # live scrape overwrites `note` with whatever the current parse produces (nothing, on a
-    # title that now parses fine) and never replays a sentence a human wrote, so that
-    # survival check would have to stay silent about exactly the loss it exists to catch.
-    # `manual` is what keeps a row whole instead of rebuilding it from the scrape — so a
-    # note is refused here rather than silently regenerated away, on the only row shape
-    # that already protects it (#178).
+    # `note` IS SCRAPE-ONLY NOW (CONTEXT.md, "Relation source"; #178). A SCRAPED field is
+    # skipped by `survives-refresh` on the assumption the refresh rewrites it faithfully —
+    # true of one of `cmd_refresh()`'s own three sentences (`is_scrape_note()`, above
+    # `cmd_refresh()`) and false of anything else, so a `note` that is not one of them is
+    # not the scrape's and nothing preserves it, `manual` included: `manual` protects a row
+    # WHOLE, but declaring `note` refuses it regardless is what stops a hand-typed sentence
+    # from ever being mistaken for one of the three the scrape can produce on its own. The
+    # previous version of this rule required `manual` instead of a recognised shape, which
+    # refused the scrape's own fetch-failure and title-not-parseable notes on every ordinary
+    # row where they fire — the opposite of what #178 asked kept. Curator prose belongs in
+    # `curator_note` (CURATED, protected on any row) instead of here.
     for i, o in rows:
-        if o.get("note") and not o.get("manual"):
+        note = o.get("note")
+        if note and not is_scrape_note(note):
             failures.append(Failure(
-                "note-requires-manual", _row_id(o, i),
-                f"note {o['note']!r} is on a row that is not `manual: true` — `note` is "
-                "declared SCRAPED, so a --refresh rebuilds it from the live parse and "
-                "never replays this text; only a `manual` row is preserved whole enough "
-                "to keep a hand-written note across a refresh"))
+                "note-scrape-shape", _row_id(o, i),
+                f"note {note!r} matches none of the sentences cmd_refresh() writes "
+                f"({NOTE_SCRAPE_TEMPLATES!r}) — `note` is scrape-only; curator prose "
+                "about a row belongs in `curator_note`"))
 
     # IDENTITY. The slug is the only thing a sibling corpus joins on, and the chapter is
     # what put most rows here; either one claimed twice attributes one body's documents to
@@ -2500,6 +2533,13 @@ def _fixture():
                         {"target": das["slug"], "source": "statute",
                          "kind": ADMINISTERED_BY, "basis": REVIEWED_AUTHORITY,
                          "authority": "ORS 999.998"}]
+    # CURATOR PROSE ON A ROW `manual` DOES NOT PROTECT (#178): `cfo` is scraped, not manual,
+    # which is exactly the row `curator_note` has to survive a refresh on for AC1 ("the
+    # note is protected... not left to the regenerator's behaviour") to be a proof and not
+    # an assumption — CURATED_KEYS carries it across the same way it carries
+    # `das_agency_number` on `das` above. The text is made up, for the reason the citation
+    # above is: it is not a claim about the real Chief Financial Office.
+    cfo["curator_note"] = "fixture-only curator prose, not a claim about the real CFO"
     gov = scraped_entry(oar_name="Office of the Governor", oar_chapter=None,
                         raw_index_name=None, source_url=None)
     gov["manual"] = True
@@ -2997,18 +3037,16 @@ def _case_row_the_simulation_cannot_run_on(cat):
     del cat["organizations"][0]["oar_name"]
 
 
-def _case_curated_note_on_a_non_manual_row(cat):
-    """A hand-written note on a row nothing marks `manual`. #178: `note` is declared SCRAPED
-    because most of it is — `cmd_refresh()` writes one only when a chapter page's title
-    would not parse — but the two rows that carry one today were typed by a person, and
-    nothing on the row says which kind a given `note` is (CONTEXT.md, "Relation source").
-    `manual` is what keeps a row whole across a refresh; a row without it is rebuilt from
-    the live scrape, which writes `note` only on a parse failure and never replays a
-    sentence a human wrote. So a curated note on a non-manual row is silently destroyed on
-    the next --refresh with nothing to report it — not caught by `survives-refresh` either,
-    since a SCRAPED field is skipped by that comparison on the (here false) assumption that
-    the refresh rewrites it faithfully. The fixture's `cfo` carries no `manual` flag, which
-    is exactly the row this note must not be able to sit on."""
+def _case_note_that_is_not_a_scrape_shape(cat):
+    """A hand-typed sentence in `note`, which is scrape-only now (#178, CONTEXT.md,
+    "Relation source"): `cmd_refresh()` writes one of exactly three sentences
+    (`NOTE_SCRAPE_TEMPLATES`, above `cmd_refresh()`) and nothing else may live in the
+    field, `manual` or not — curator prose belongs in `curator_note` (CURATED) instead.
+    The previous version of this rule required `manual` rather than a recognised shape,
+    which refused the scrape's own fetch-failure and title-not-parseable sentences on
+    every ordinary row where they legitimately fire; this fixture value is deliberately
+    NOT one of the three, on `cfo`, which carries no `manual` flag either — so the case
+    also proves the fix does not silently start requiring `manual` again."""
     cat["organizations"][1]["note"] = "confirmed by phone with the agency, 2026-08-20"
 
 
@@ -3066,8 +3104,8 @@ _CASES = [
      "index-relation-is-regenerated"),
     ("authority-hand-edited-onto-a-scraped-entry",
      _case_authority_hand_edited_onto_a_scraped_entry, "survives-refresh"),
-    ("curated-note-on-a-non-manual-row", _case_curated_note_on_a_non_manual_row,
-     "note-requires-manual"),
+    ("note-that-is-not-a-scrape-shape", _case_note_that_is_not_a_scrape_shape,
+     "note-scrape-shape"),
     ("registry-emptied", _case_registry_emptied, "registry-populated"),
     ("row-the-simulation-cannot-run-on", _case_row_the_simulation_cannot_run_on,
      "survives-refresh"),
@@ -3152,6 +3190,18 @@ _PROOFS = [
      "survives-refresh"),
     ("enabling-authority-declared-scraped",
      dict(FIELDS, enabling_authority=Field(SCRAPED, required=False)),
+     "scraped-field"),
+    # THE SAME TWO STATEMENTS ABOUT `curator_note` (#178). This is the field AC1's "protected
+    # the way manual protects curation" is a proof about rather than an assumption: the
+    # fixture's `cfo` carries one and is NOT `manual`, so declaring the field anything but
+    # CURATED loses it exactly the way it would lose `enabling_authority` above — MANUAL_FLAG
+    # drops it on a refresh (nothing preserves a flag-declared field that isn't `manual`
+    # itself), and SCRAPED hides the drop behind a field `scraped_entry()` never writes.
+    ("curator-note-declared-manual-flag",
+     dict(FIELDS, curator_note=Field(MANUAL_FLAG, required=False)),
+     "survives-refresh"),
+    ("curator-note-declared-scraped",
+     dict(FIELDS, curator_note=Field(SCRAPED, required=False)),
      "scraped-field"),
     # THE THREE WAYS A MIXED-ORIGIN FIELD IS DECLARED AS A SINGLE-ORIGIN ONE. `relations`
     # holds entries the refresh regenerates beside entries only curation produces, so every

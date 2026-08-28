@@ -499,8 +499,13 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   regenerates the `oar-index` entries from the index tree and `preserve_relations()`
   carries every other entry across ENTRY BY ENTRY, and `--check`'s `relation-origin` rule
   refuses any other declaration of it — declaring the whole field SCRAPED would drop
-  curated entries behind a rule that passed, which is #178 (`note`, two origins, no way to
-  tell them apart, hand-written notes destroyed by `--refresh`). The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
+  curated entries behind a rule that passed, which `note` used to risk too until #178 split
+  it: `note` (SCRAPED) now holds only the three sentences `cmd_refresh()` itself writes, and
+  `curator_note` (CURATED) holds hand-typed prose about a row, carried across a refresh by
+  `CURATED_KEYS` on any row and needing none of `manual`'s whole-row protection.
+  `catalog_agencies.py --check`'s `note-scrape-shape` refuses a `note` that is not one of
+  those three sentences.
+  The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
   `python3 src/link_budget_codes.py` from the hand-reviewed table in that file, whose
   `--check` verifies the registry against that table. The deprecated `budget_agency_code`
   holds the same number for one more cycle (ADR 0003, removed by #177); that the two agree

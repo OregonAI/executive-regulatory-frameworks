@@ -1507,7 +1507,7 @@ organizations:
   raw_index_name: null
   source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=419-110-0000
   manual: true
-  note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from the OARD rule-page
+  curator_note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from the OARD rule-page
     header. Discovered via renumbering redirects during the 2026-07 mass OAR import.
 - slug: oregon-529-savings-board
   name: Oregon 529 Savings Board
@@ -1743,7 +1743,7 @@ organizations:
   raw_index_name: null
   source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=950-030-0000
   manual: true
-  note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from the OARD rule-page
+  curator_note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from the OARD rule-page
     header (name's own prefix ties it to OHA, parent per that prefix). Discovered via renumbering redirects
     during the 2026-07 mass OAR import.
 - slug: oregon-health-authority-health-licensing-office

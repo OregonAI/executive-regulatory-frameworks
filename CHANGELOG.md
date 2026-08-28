@@ -11,6 +11,21 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-08-27 — **`note-requires-manual` refused the scrape's own fetch report** (#178). The
+  guard #178 added to stop a hand-typed `note` from being silently rebuilt away by the next
+  `--refresh` fired on the wrong condition: it refused ANY `note` on a row that was not
+  `manual`, including the three sentences `cmd_refresh()` itself writes onto ordinary
+  scraped rows (a chapter page's title not parsing, its fetch failing, a chapterless
+  group's children disagreeing on a name prefix) — so the first refresh to hit a parse or
+  fetch failure would produce a registry `--check` rejects, with no correct fix short of
+  deleting the scrape's own report of its failure or freezing the row `manual`. `note` is
+  split by origin instead: it stays SCRAPED and holds only the three sentences the scrape
+  writes (`note-scrape-shape` refuses anything else), and curator prose about a row gets a
+  field of its own, `curator_note` (CURATED), carried across a refresh on ANY row by
+  `CURATED_KEYS` — no `manual: true` required. The two hand-typed notes committed today
+  (chapters 419, 950) move to `curator_note`. `--selftest` grew from 69 to 71 demonstrations
+  (one existing case corrected to the new rule, two new proofs that `curator_note` — unlike
+  `manual` — needs no whole-row protection to survive a refresh).
 - 2026-08-27 — **43 DHS/OHA sources are being watched again** (#140, #264, ADR 0007).
   `sharedsystems.dhsoha.state.or.us` serves its leaf certificate without the intermediate
   linking it to a root, so every fetch failed strictly and, at 3.2% of the run, sat under the
