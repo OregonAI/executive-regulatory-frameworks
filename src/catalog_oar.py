@@ -27,6 +27,39 @@ number; nothing in this repo reads it (rule titles are recovered per-rule, from
 the rule's own cached snapshot, by backfill_oar_titles.py) so it is parsed only
 far enough to find the rule number and is not carried into the catalog.
 
+EVERY CHAPTER ROW'S `url` IS RE-RESOLVED AGAINST THE ID MAP ON EVERY --discover
+RUN (#280), never carried forward untouched — `refresh_chapter_urls()` applies the
+id_map fetched at the top of this run to every catalogued chapter, whether or not that
+chapter is otherwise skipped this run for already being discovered. OARD gives this
+corpus no chapter-NUMBER-keyed alternative to fall back on instead: measured 2026-08-28,
+`displayChapterRules.action?selectedChapter=<n>` reads `<n>` as an id and only an id — a
+request built from a chapter NUMBER lands on whatever chapter OARD's dropdown happens to
+assign that number to as an id, silently, and `?chapterNumber=`, `?selectedChapterNumber=`
+and `?chapter=` are all ignored outright. So a stored id is refreshed rather than trusted:
+the id map itself is resolved fresh every run regardless (as above), and this is what
+makes that freshness reach the FIELD a reader would actually follow, not just this run's
+in-memory dict. A chapter absent from the id map (624 is the only one today — outside
+OARD's dropdown entirely) never held a `selectedChapter` url to refresh and keeps
+pointing at `ruleSearch.action`'s own chapter picker instead, where a human resolves the
+chapter for themselves. THE FIELD'S SHELF LIFE IS THIS CATALOG'S OWN `retrieved` DATE, not
+the moment a reader clicks it — nothing runs `--discover` continuously, so an id OARD
+renumbers between one run and the next is wrong for exactly that window, undetected until
+the next run resolves it fresh. That window is real and stated rather than hidden; it is
+the same tradeoff the id map itself already accepts by resolving fresh per run instead of
+per click, extended to the field a reader actually follows.
+
+WEIGHED AGAINST THE TICKET'S OTHER HONEST OPTION -- store the chapter NUMBER only and
+resolve `url` at read time -- and rejected for now, not on principle: that option closes
+the window this one leaves open, at the cost of a live network fetch (a full re-walk of
+`ruleSearch.action`'s dropdown, the same request this module already makes once per
+`--discover` run) at every point of use instead of once per run. No in-repo consumer reads
+this field today (module docstring, above) — `--discover`'s own summary print is the only
+reader that exists — so there is no call site yet to carry that cost, and building one to
+close a window nothing has walked into would be solving a problem this repo does not have
+one of. Should a consumer appear that clicks this field between `--discover` runs, this is
+the tradeoff to revisit, not re-litigate: the two options were never a question of which
+is more correct, only of where the volatility is cheapest to carry today.
+
 MERGE, NEVER REPLACE: OARD's chapter listing is a CURRENT rules view, so a
 rule already in this catalog and absent from it is history (a renumber or a
 repeal), not gone — and this corpus keeps history because deleting a document
@@ -39,6 +72,7 @@ import re
 import sys
 import time
 import urllib.request
+from collections import Counter
 from datetime import date
 from html import unescape
 from pathlib import Path
@@ -99,7 +133,16 @@ INITIAL_NOTE = (
     "drop an already-held rule row refuses to save. Rule CONTENT always comes from the "
     "official OARD per-rule URL at ingest time. Per-rule status: 'ingested' means a full "
     "document exists in rules/; renumbered/not_served/not_sliceable are recorded by "
-    "ingest_oar.py. Chapter titles from the agency registry.")
+    "ingest_oar.py. Chapter titles from the agency registry. EVERY CHAPTER'S `url` IS "
+    "RE-RESOLVED AGAINST THE ID MAP ON EVERY --discover RUN (#280), not carried forward "
+    "untouched, and not derived from the chapter number -- OARD accepts no chapter-number "
+    "route: `?selectedChapter=<n>` reads `<n>` as an id and lands on whatever chapter "
+    "OARD's dropdown currently assigns that id to, and `?chapterNumber=`/`?chapter=` are "
+    "silently ignored (measured 2026-08-28). A chapter absent from the id map (624, not in "
+    "OARD's dropdown) points at `ruleSearch.action`'s own chapter picker instead. The "
+    "field's shelf life is this catalog's own `retrieved` date, not the moment a reader "
+    "clicks it: an id OARD renumbers between one --discover run and the next is wrong for "
+    "exactly that window, undetected until the next run resolves it fresh.")
 
 
 def save_catalog(cat, discovered_note=True, stamp_retrieved=True):
@@ -162,6 +205,54 @@ def chapter_id_map(raw: str) -> dict:
     `ruleSearch.action` dropdown. Resolved fresh every run rather than hardcoded (#270):
     the id is OARD's own bookkeeping, not the chapter number, and may move."""
     return {chapter: chapter_id for chapter_id, chapter in CHAPTER_OPTION_RE.findall(raw)}
+
+
+def refresh_chapter_urls(cat: dict, id_map: dict) -> int:
+    """Re-resolve every already-catalogued chapter's `url` against THIS run's own
+    `id_map` (#280). `chapter_id_map()` was already re-fetched fresh every run before this
+    function existed; what was missing was anything that APPLIED that freshness to a
+    chapter's stored `url` once the chapter itself was no longer being walked --
+    `cmd_discover`'s already-discovered skip exists to avoid re-fetching and re-parsing a
+    chapter's own rules page every run, and had nothing to do with the id map, but it was
+    ALSO the only place `url` got written, so a skipped chapter kept whatever id an earlier
+    run had resolved, however long ago -- exactly the volatility `chapter_id_map()`'s own
+    docstring warns about, just not carried through to the field a reader clicks.
+
+    Measured 2026-08-28 that OARD has no chapter-NUMBER-keyed alternative to fall back on:
+    treating chapter 125's own NUMBER as if it belonged in the id slot --
+    `displayChapterRules.action?selectedChapter=125` -- served chapter 661, because 125 is
+    what OARD's dropdown assigns as the ID of a wholly different chapter, not what it
+    accepts as a chapter number. `?chapterNumber=125` and `?selectedChapterNumber=125` are
+    silently ignored, byte-identical (5,505 bytes, sha256 9f5b802449bd...) to the error
+    page a request with no parameter at all gets, which itself carries an explicit
+    `<div class="errors">...Error retrieving chapter and current rules.</div>`.
+    `?chapter=125` is ALSO ignored but not identically -- a shorter, different page (5,320
+    bytes, sha256 9fe7ee537c27...) that silently drops that error block rather than
+    reproducing it, so this one fails more quietly than the other two, not the same way.
+    None of the three route to a chapter by number regardless, so the distinction changes
+    nothing about the fix: the
+    id is the only key `displayChapterRules.action` accepts, so re-resolving it every run
+    -- rather than deriving a URL from the chapter number, which OARD gives this corpus no
+    way to do -- is the fix: a stale id is refreshed, not carried.
+
+    Every row whose chapter is in `id_map` gets its url set to what that map says today,
+    UNCONDITIONALLY -- cheap, since `id_map` is one dict already held in memory and this
+    touches no network. A chapter absent from `id_map` (624 is the live instance: not in
+    OARD's dropdown, so it never held a `selectedChapter` url and there is nothing here to
+    re-resolve it against) is left exactly as it is, same as `ChapterNotListed` already
+    treats it elsewhere in this module. Returns how many rows' `url` actually changed, so a
+    caller can report it rather than silently rewrite all 169 mapped rows to say the same
+    thing (170 catalogued chapters, minus 624, the one `id_map` never carries)."""
+    changed = 0
+    for c in cat.get("chapters", []):
+        chapter_id = id_map.get(c["chapter"])
+        if chapter_id is None:
+            continue
+        new_url = f"{OARD_BASE}/displayChapterRules.action?selectedChapter={chapter_id}"
+        if c.get("url") != new_url:
+            changed += 1
+        c["url"] = new_url
+    return changed
 
 
 def parse_chapter_rules(raw: str) -> list:
@@ -413,12 +504,19 @@ def discover_chapter(ch: str, title: str, chapter_id: str, cat: dict) -> tuple:
         raise WouldRemoveRules(ch, missing)
 
     if existing is None:
+        # `url` is set here ONLY because this row does not exist yet for
+        # `refresh_chapter_urls` (#280) to have already reached in cmd_discover's pass
+        # over `cat["chapters"]`, which runs before this loop. An EXISTING row's `url` is
+        # not touched here at all -- that pass already set it from this same id_map, and
+        # writing it twice from the same formula in the same run is not a second writer
+        # so much as an invitation for the two to be read as independent someday. One
+        # writer for a row that already exists; this is only the one-time exception for a
+        # row that, until this line, did not.
         existing = {"chapter": ch, "title": title,
                     "url": f"{OARD_BASE}/displayChapterRules.action?selectedChapter={chapter_id}",
                     "divisions": []}
         cat["chapters"].append(existing)
     existing["title"] = title
-    existing["url"] = f"{OARD_BASE}/displayChapterRules.action?selectedChapter={chapter_id}"
     n_new = sum(1 for d in new_divisions for r in (d.get("rules") or [])
                 if r["number"] not in before and r.get("status") == "not_ingested")
     n_rules = len(after)
@@ -470,15 +568,34 @@ def registry_chapters(reg: dict) -> list:
     return chapters
 
 
-def cmd_discover(only: list):
-    reg = yaml.safe_load(REGISTRY.read_text())
-    chapters = registry_chapters(reg)
-    if only:
-        chapters = [c for c in chapters if c[0] in only]
-    cat = load_catalog()
+def run_discovery(chapters: list, cat: dict, id_map: dict, only: list,
+                   discover_fn=discover_chapter) -> dict:
+    """The assembled body of a --discover run, once `chapters` and `id_map` are already
+    resolved: the #280 url-refresh call plus the per-chapter loop, EXTRACTED from
+    `cmd_discover` (#280 follow-up) so the wiring between them is something a selftest can
+    reach without network, not only the four `refresh_chapter_urls()` calls a selftest
+    already made in isolation.
 
-    id_map = chapter_id_map(get(CHAPTER_LIST_URL))
-    time.sleep(0.2)
+    That distinction is not decorative. Sabotage-tested against this repo's own working
+    tree: deleting `n_urls_changed = refresh_chapter_urls(cat, id_map)` from what was then
+    inline in `cmd_discover` left `--selftest` printing OK, because every #280 check
+    called `refresh_chapter_urls()` directly -- proving the helper works, never that
+    `cmd_discover` actually calls it. `cmd_discover` now HAS no code path of its own that
+    could drop this call silently: it delegates the whole assembly here, so a selftest
+    against `run_discovery` is a selftest against what a real run executes, not a
+    parallel reimplementation of it that could drift from the real one the way the four
+    isolated checks did.
+
+    `discover_fn` is injectable so a caller can drive the loop without touching the
+    network at all, by supplying `chapters`/`cat` that route every chapter through the
+    already-discovered skip below (real `--discover` runs always pass the default,
+    `discover_chapter`). Returns a dict of the totals `cmd_discover` prints."""
+    # RE-RESOLVED EVERY RUN, EVEN FOR A CHAPTER THIS RUN OTHERWISE SKIPS OR DOES NOT
+    # TARGET (#280): `id_map` is a fetch of OARD's WHOLE dropdown regardless of `only`, so
+    # applying it to every catalogued row costs no extra network call and closes the gap
+    # the already-discovered skip below left open -- a chapter's `url` used to go stale
+    # the moment nobody happened to re-walk its rules page.
+    n_urls_changed = refresh_chapter_urls(cat, id_map)
 
     total_d = total_da = total_r = total_new = total_claimed = skipped = 0
     found_nothing = []
@@ -508,7 +625,7 @@ def cmd_discover(only: list):
             skipped += 1
             continue
         try:
-            nd, nda, nr, nn, nc = discover_chapter(ch, title, id_map[ch], cat)
+            nd, nda, nr, nn, nc = discover_fn(ch, title, id_map[ch], cat)
         except DiscoveredNothing as e:
             found_nothing.append(ch)
             print(f"NOT DISCOVERED chapter {ch}: {e} — no entry written, not marked "
@@ -540,10 +657,41 @@ def cmd_discover(only: list):
               f"{nd} divisions ({nda} new), {nr} rules ({nn} new, {nr - pre_rule_count:+d} vs "
               f"catalog{claimed_note})")
         save_catalog(cat)  # checkpoint after every chapter — resumable
+    return {
+        "n_urls_changed": n_urls_changed, "total_d": total_d, "total_da": total_da,
+        "total_r": total_r, "total_new": total_new, "total_claimed": total_claimed,
+        "skipped": skipped, "found_nothing": found_nothing, "not_listed": not_listed,
+        "failed": failed,
+    }
+
+
+def cmd_discover(only: list):
+    reg = yaml.safe_load(REGISTRY.read_text())
+    chapters = registry_chapters(reg)
+    if only:
+        chapters = [c for c in chapters if c[0] in only]
+    cat = load_catalog()
+
+    id_map = chapter_id_map(get(CHAPTER_LIST_URL))
+    time.sleep(0.2)
+
+    stats = run_discovery(chapters, cat, id_map, only)
+    n_urls_changed = stats["n_urls_changed"]
+    total_d, total_da, total_r, total_new, total_claimed, skipped = (
+        stats["total_d"], stats["total_da"], stats["total_r"], stats["total_new"],
+        stats["total_claimed"], stats["skipped"])
+    found_nothing, not_listed, failed = (
+        stats["found_nothing"], stats["not_listed"], stats["failed"])
+
     save_catalog(cat, stamp_retrieved=total_d > 0)
     print(f"\ndiscovered: {total_d} divisions ({total_da} new to the catalog), {total_r} "
           f"rules ({total_new} new added to the catalog); {skipped} chapters already "
           f"discovered (use --redo to refresh)")
+    # #280: every catalogued chapter's `url` is re-resolved against this run's own id_map
+    # above, whether or not the chapter itself was walked this run -- this is that check's
+    # own report, so a moved id is visible in stdout and not just in the diff.
+    print(f"{n_urls_changed} chapter url(s) re-resolved to a different OARD id than the "
+          f"catalog held (0 means every id_map entry still matches; #280)")
     # THE OTHER HALF OF THE DELTA (#270 acceptance criteria): not just what OARD adds, but
     # what this catalog holds that OARD's CURRENT listing does not -- history, kept.
     print(f"{history_count(cat)} rule(s) in this catalog are absent from OARD's current "
@@ -568,21 +716,87 @@ def cmd_discover(only: list):
               f"{', '.join(ch for ch, _ in failed)}")
 
 
+# The per-rule `status` vocabulary this catalog declares (CONTEXT.md's "Ingest status"):
+# `ingested`, `not_ingested`, `renumbered` (carries `served_as`), `not_served`. A rule is
+# awaiting import when its status SAYS so, never when it merely fails to say `ingested` --
+# #282 found `--summary`'s "to import" computed as `total - ingested`, which counted
+# `renumbered` and `not_served` rows (recorded WITH A REASON precisely because they will
+# never be imported) as outstanding work, overcounting by 533 on the catalog measured
+# 2026-08-28. `ingest_oar.py` can also write a fifth value, `not_sliceable`, that this
+# glossary entry does not name (filed as #297) -- it is the same shape of reasoned-away
+# row and must not be counted as pending either, so counting below is done directly
+# against this closed allowlist rather than by subtraction, and anything the allowlist
+# does not name is surfaced by its own name instead of being folded into either bucket.
+RULE_STATUSES = ("ingested", "not_ingested", "renumbered", "not_served")
+
+
+def status_counts(cat):
+    """Tally every catalogued rule number by its own `status`, counting the thing each
+    bucket names rather than deriving one bucket from a total. Returns a dict keyed by
+    every value in `RULE_STATUSES`, plus `total` (every rule row seen) and `other` (a
+    Counter of any status outside that vocabulary -- empty on a catalog that matches
+    CONTEXT.md's declared vocabulary, which today's committed catalog does)."""
+    counts = {s: 0 for s in RULE_STATUSES}
+    other = Counter()
+    total = 0
+    for c in cat["chapters"]:
+        for d in c["divisions"]:
+            for r in d.get("rules") or []:
+                total += 1
+                st = r.get("status")
+                if st in counts:
+                    counts[st] += 1
+                else:
+                    other[st] += 1
+    counts["total"] = total
+    counts["other"] = other
+    return counts
+
+
+def summary_total_line(n_chapters, counts):
+    """THE ACTUAL PRINTED STRING for `--summary`'s TOTAL line, factored out of
+    `cmd_summary` so `--selftest` can assert on the printer itself rather than only on
+    `status_counts()` feeding it. #282's own review found the gap this closes: every new
+    selftest check exercised `status_counts`, and nothing exercised this line -- reverting
+    ONLY this f-string to the pre-#282 arithmetic (`total - ingested`) left `--selftest`
+    green while `--summary` printed the exact #282 bug again, verbatim. This function is
+    now the thing under test, not a copy of it."""
+    return (f"TOTAL: {n_chapters} chapters, {counts['total']} rules, "
+            f"{counts['ingested']} ingested, {counts['not_ingested']} to import "
+            f"-- {counts['renumbered']} renumbered and {counts['not_served']} not served, "
+            f"recorded with a reason and never counted as pending (#282)")
+
+
+def summary_other_line(counts):
+    """THE ACTUAL PRINTED STRING for `--summary`'s `other` line. Always printed, never
+    only `if counts["other"]` -- catalog_agencies.py's `tally()` names this rule
+    ("NAME THE ZEROES") for exactly this reason: a bucket silently skipped when it holds
+    zero looks identical to a bucket nobody thought to report. Names the declared
+    vocabulary as a plain list rather than interpolating `RULE_STATUSES` (a raw tuple
+    repr, `('ingested', 'not_ingested', ...)`, is not something a human reader asked for)."""
+    vocab = ", ".join(RULE_STATUSES)
+    other_total = sum(counts["other"].values())
+    if not other_total:
+        return f"0 rule(s) carry a status outside the declared vocabulary ({vocab})"
+    named = ", ".join(f"{n} {s!r}" for s, n in sorted(counts["other"].items(), key=str))
+    return (f"{other_total} rule(s) carry a status outside the declared vocabulary "
+            f"({vocab}) ({named}) -- reported rather than guessed, and not counted as "
+            f"pending")
+
+
 def cmd_summary():
     cat = load_catalog()
-    total = ingested = 0
     rows = []
     for c in sorted(cat["chapters"], key=lambda c: (len(c["chapter"]), c["chapter"])):
         n = sum(len(d.get("rules") or []) for d in c["divisions"])
         ing = sum(1 for d in c["divisions"] for r in d.get("rules") or []
                   if r.get("status") == "ingested")
-        total += n
-        ingested += ing
         rows.append((c["chapter"], c["title"], len(c["divisions"]), n, ing))
     for ch, title, nd, n, ing in rows:
         print(f"{ch:>4}  {nd:3d} div  {n:5d} rules  {ing:5d} ingested  {title[:55]}")
-    print(f"\nTOTAL: {len(rows)} chapters, {total} rules, {ingested} ingested, "
-          f"{total - ingested} to import")
+    counts = status_counts(cat)
+    print(f"\n{summary_total_line(len(rows), counts)}")
+    print(summary_other_line(counts))
 
 
 # ------------------------------------------------------------------------------ selftest
@@ -656,6 +870,79 @@ def selftest() -> int:
     check("the chapter id map excludes the -1 placeholder", "-1" not in id_map.values())
     check("chapter 624 -- absent from the live dropdown 2026-08-27 -- is absent here too",
           "624" not in id_map)
+
+    # THE URL FIELD IS RE-RESOLVED AGAINST id_map EVERY RUN, DECOUPLED FROM THE
+    # ALREADY-DISCOVERED SKIP (#280). cmd_discover's "skip a chapter already discovered"
+    # check exists so a routine run does not re-fetch and re-parse every chapter's own
+    # rules page -- it was never about the id map, which chapter_id_map() already
+    # re-resolves fresh on every invocation regardless. Before this fix that fresh map sat
+    # in memory two lines above the skip and was simply never applied to a skipped row's
+    # `url`, which is why 169 chapters could carry a `selectedChapter` id from whatever run
+    # last walked them, however long ago, while the module's own docstring says the id "is
+    # OARD's own bookkeeping and may move". Measured live 2026-08-28 that OARD has no
+    # chapter-NUMBER-keyed route to fall back on instead: treating chapter 125's own
+    # NUMBER as if it belonged in the id slot -- `displayChapterRules.action
+    # ?selectedChapter=125` -- actually serves chapter 661, because 125 is what OARD's
+    # dropdown assigns as the ID of a wholly different chapter, not what it accepts as a
+    # chapter number. `?chapterNumber=125` and `?selectedChapterNumber=125` are silently
+    # ignored, producing the identical error page a request with no parameter at all does;
+    # `?chapter=125` is ALSO ignored but produces a different, shorter page that drops that
+    # page's explicit error message rather than reproducing it (measured 2026-08-28: 5,505
+    # vs 5,320 bytes) -- quieter, not identical, and beside the point either way, since none
+    # of the three route by chapter number. So the id is the only key OARD accepts, and this
+    # catalog's answer is to keep
+    # RE-RESOLVING it every run rather than pretend a stored one can be trusted between runs.
+    stale_cat = {"chapters": [
+        {"chapter": "125", "title": "Department of Administrative Services",
+         "url": f"{OARD_BASE}/displayChapterRules.action?selectedChapter=31",
+         "divisions": []},
+        {"chapter": "624", "title": "Oregon Alfalfa Seed Commission",
+         "url": f"{OARD_BASE}/ruleSearch.action", "divisions": []},
+    ]}
+    moved_id_map = {"125": "999"}  # OARD renumbered chapter 125's own bookkeeping id
+    n_changed = refresh_chapter_urls(stale_cat, moved_id_map)
+    ch125 = next(c for c in stale_cat["chapters"] if c["chapter"] == "125")
+    ch624 = next(c for c in stale_cat["chapters"] if c["chapter"] == "624")
+    check("a skipped chapter's stale url is re-resolved against a moved id",
+          ch125["url"] == f"{OARD_BASE}/displayChapterRules.action?selectedChapter=999")
+    check("refresh_chapter_urls reports exactly the row(s) that changed", n_changed == 1)
+    check("a chapter absent from the id map (624 -- not in OARD's dropdown) is left alone",
+          ch624["url"] == f"{OARD_BASE}/ruleSearch.action")
+    check("re-running against an id map that has not moved changes and reports nothing",
+          refresh_chapter_urls(stale_cat, moved_id_map) == 0)
+
+    # THE WIRING, NOT JUST THE HELPER (#280 follow-up). Every check above calls
+    # `refresh_chapter_urls()` directly, which proves the helper is correct and proves
+    # nothing about whether `cmd_discover` still calls it -- sabotaged and confirmed
+    # against this working tree: deleting that one line from what was then inline in
+    # `cmd_discover` left every check above green and `--selftest` printing OK. This
+    # drives `run_discovery` -- the function `cmd_discover` now delegates its whole
+    # assembly to, verbatim -- through the already-discovered skip path (no `discover_fn`
+    # call, so no network) and checks the SAME fact the isolated checks above check, but
+    # reached through the real call path instead of a second one built to match it.
+    wiring_cat = {"chapters": [
+        {"chapter": "125", "title": "Department of Administrative Services",
+         "url": f"{OARD_BASE}/displayChapterRules.action?selectedChapter=31",
+         "divisions": [], "discovered": "2026-01-01"},
+    ]}
+    wiring_id_map = {"125": "999"}  # OARD renumbered chapter 125's id since 2026-01-01
+
+    def _discover_fn_must_not_be_called(*a, **kw):
+        raise AssertionError(
+            "discover_fn was called for an already-discovered chapter -- the skip path "
+            "this fixture depends on to prove no network is needed did not fire")
+
+    wiring_stats = run_discovery(
+        [("125", "Department of Administrative Services")], wiring_cat, wiring_id_map,
+        only=[], discover_fn=_discover_fn_must_not_be_called)
+    check("run_discovery skipped the already-discovered chapter (no network touched)",
+          wiring_stats["skipped"] == 1)
+    check("run_discovery's own call to refresh_chapter_urls reached an already-discovered "
+          "chapter's url -- the exact wiring a deleted call site would leave undetected",
+          wiring_cat["chapters"][0]["url"] ==
+          f"{OARD_BASE}/displayChapterRules.action?selectedChapter=999")
+    check("...and run_discovery reports it in the same total cmd_discover prints",
+          wiring_stats["n_urls_changed"] == 1)
 
     # PARSING ONE CHAPTER PAGE (#270). Fixture shaped like the real
     # displayChapterRules.action structure measured against chapter 813: each division
@@ -875,6 +1162,77 @@ def selftest() -> int:
              "rules": [{"number": "813-009-0000"}, {"number": "813-009-0010"}]}]}]}
     check("history_count finds a per-rule carried-forward row",
           history_count(history_cat) == 3)  # 1 per-rule + 2 in the vanished division
+
+    # #282: "to import" MUST count rows whose status SAYS they await import, never rows
+    # left over after subtracting `ingested` from a total drawn from a wider vocabulary.
+    # One row of every declared status, plus one `not_sliceable` -- `ingest_oar.py` writes
+    # that fifth value onto this same field and it is reasoned-away exactly like
+    # `renumbered`/`not_served`, so it must land in `other`, not silently become
+    # "not_ingested" or vanish from the total.
+    status_cat = {"chapters": [{"chapter": "1", "title": "T", "divisions": [
+        {"division": "1", "rules": [
+            {"number": "1-001-0001", "status": "ingested"},
+            {"number": "1-001-0002", "status": "not_ingested"},
+            {"number": "1-001-0003", "status": "renumbered", "served_as": "1-001-0009"},
+            {"number": "1-001-0004", "status": "not_served"},
+            {"number": "1-001-0005", "status": "not_sliceable"},
+        ]}]}]}
+    counts = status_counts(status_cat)
+    check("every rule in the fixture is counted exactly once",
+          counts["total"] == 5)
+    # RED, WATCHED AGAINST THE ACTUAL PRE-FIX ARITHMETIC: `total - ingested` is literally
+    # what `cmd_summary` printed as "to import" before this change (git blame this file at
+    # #282). Reproduced inline, over this fixture, to prove the failure mode is real and
+    # not asserted -- it counts renumbered, not_served AND not_sliceable as awaiting
+    # import, all three of which carry a reason they never will be.
+    naive_to_import = counts["total"] - counts["ingested"]
+    check("RED: the pre-#282 formula (total - ingested) overcounts by every reasoned-away "
+          "row -- 3 rows recorded as never-importable, counted as pending anyway",
+          naive_to_import == 4)
+    check("...while only the row whose status actually SAYS not_ingested is 1",
+          counts["not_ingested"] == 1)
+    check("GREEN: status_counts reports the correct 'to import' figure directly",
+          counts["not_ingested"] == 1 and counts["not_ingested"] != naive_to_import)
+    check("a renumbered row is never counted as awaiting import",
+          counts["renumbered"] == 1)
+    check("a not_served row is never counted as awaiting import",
+          counts["not_served"] == 1)
+    check("a status this vocabulary does not declare (not_sliceable) is reported by name, "
+          "not folded into not_ingested or dropped from the total",
+          counts["other"] == {"not_sliceable": 1})
+
+    # THE PRINTER ITSELF, not just status_counts() feeding it -- a code review of #282
+    # found that every prior check above stopped at status_counts, so a regression back
+    # to `total - ingested` inside summary_total_line would leave --selftest green while
+    # --summary printed the bug again (reproduced: reverting only the f-string to
+    # `{counts['total'] - counts['ingested']} to import` prints "4 to import" on this
+    # fixture and every check above still PASSes, because none of them call this
+    # function). Asserted against the exact naive figure so a reversion is caught here.
+    total_line = summary_total_line(1, counts)
+    naive_to_import = counts["total"] - counts["ingested"]
+    check("summary_total_line prints the counted 'to import' figure (1), not the naive "
+          "total-minus-ingested figure the naive formula over this fixture would print "
+          f"({naive_to_import})",
+          "1 to import" in total_line and f"{naive_to_import} to import" not in total_line)
+
+    other_line = summary_other_line(counts)
+    check("summary_other_line names the not_sliceable row by value, not as a raw tuple "
+          "repr of the declared vocabulary",
+          "not_sliceable" in other_line and "('ingested'" not in other_line)
+
+    # A catalog matching CONTEXT.md's declared vocabulary exactly (no not_sliceable rows,
+    # the shape of the real committed catalog measured 2026-08-28) reports no `other`.
+    clean_cat = {"chapters": [{"chapter": "1", "title": "T", "divisions": [
+        {"division": "1", "rules": [{"number": "1-001-0001", "status": "ingested"}]}]}]}
+    clean_counts = status_counts(clean_cat)
+    check("a catalog holding only declared statuses reports an empty 'other'",
+          not clean_counts["other"])
+    # NAME THE ZEROES (catalog_agencies.tally's own rule): a zero 'other' bucket must
+    # still be printed, not silently skipped -- a skipped zero looks identical to a
+    # zero nobody thought to report.
+    check("summary_other_line names the zero rather than printing nothing for it",
+          summary_other_line(clean_counts) == "0 rule(s) carry a status outside the "
+          "declared vocabulary (ingested, not_ingested, renumbered, not_served)")
 
     return check.report()
 
