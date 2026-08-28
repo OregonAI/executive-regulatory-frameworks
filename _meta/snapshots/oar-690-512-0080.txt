@@ -1,0 +1,210 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Resources Department 
+ Chapter 690 
+ 
+ 
+ 
+ 
+ 
+ Division 512 MALHEUR LAKE BASIN PROGRAM 
+ 690-512-0080 
+ Adaptive Management of the Harney Basin Critical Groundwater Area 
+ 
+ The purpose of this section is to define how the Department will adaptively manage the Harney Basin Critical Groundwater Area over a 30-year period starting in calendar year 2028, with adaptive management checkpoints in calendar years 2033, 2039, 2045, and 2051, which are the years immediately preceding the scheduled reductions in OAR 690-512-0070. 
+
+ (1) Weaver Springs subarea and Upper Blitzen subarea are exempt from the adaptive management process as defined in sections 2 through 5 of this rule. 
+
+ (2) Groundwater level changes will be evaluated using representative wells with sufficient data as determined by the Department. 
+
+ (a) For each representative well, the groundwater level change will be evaluated based on a reference groundwater level determined by the Department. The reference groundwater level for a well shall be the annual high static water level measurement in calendar year 2028, if one exists. Otherwise, the Department may establish the reference groundwater level based on an analysis of water level data from that well or other water level data in nearby wells; 
+
+ (b) For each representative well, the groundwater level change will be calculated as the difference between the annual high static water level measured at the a daptive management checkpoint being evaluated and the reference groundwater level. 
+
+ (3) The median groundwater level change for each subarea will be evaluated at each adaptive management checkpoint using representative wells with sufficient data as determined by the Department. 
+
+ (4) At each adaptive management checkpoint, the Department will compare the median groundwater level change for each subarea defined in OAR 690-512-0041 with the groundwater level change envelope defined in Exhibit 14. If the median groundwater level change for a subarea is: 
+
+ (a) At or below the 10th percentile, the scheduled quantity of reduction will be doubled; 
+
+ (b) Between the 10th and 25th percentiles, the scheduled quantity of reduction will be increased by one and a half times; 
+
+ (c) From the 25th and through the 75th percentiles, no adjustment will be made; 
+
+ (d) Between the 75th and 90th percentiles, the scheduled quantity of reduction will be halved unless 10 percent or more of the measured wells fall below the 10th percentile, in which case no adjustment will be made;  
+
+ (e) At or above the 90th percentile, the scheduled quantity of reduction will be reduced to zero unless 10 percent or more of the measured wells fall below the 10th percentile, in which case no adjustment will be made.  
+
+ (5) Ten percent of the total reductions implemented for a subarea shall be rescinded at the next adaptive management checkpoint if the following conditions exist within the subarea: 
+
+ (a) The median water level for the subarea recovers to above the measured 2028 median level; and 
+
+ (b) No wells have crossed the threshold for declined excessively or excessively declining. 
+
+ (6) At the end of each a daptive management checkpoint evaluation and after the Department has completed sections 3 through 5 of this rule, the Department will hold at least one public meeting at a location within the critical groundwater area at which the Department will prepare and present a technical memo including: 
+
+ (a) The findings of the evaluation of groundwater level changes; 
+
+ (b) The comparison to the groundwater level change envelope; and  
+
+ (c) Any adjustments to the scheduled reductions. 
+
+ (7) No sooner than 2058, the Department will evaluate the groundwater level decline rate for each subarea to identify if the target groundwater level trend has been achieved. The groundwater level decline rate will be calculated using the Sen’s slope method using annual high measurements for representative wells with sufficient data as determined by the Department from the six years leading up to the evaluation. After the evaluation in this section, if: 
+
+ (a) The target groundwater level trend has not been achieved, and all scheduled reductions have not been implemented, the Department may evaluate groundwater conditions and implement additional reductions as needed to achieve the target groundwater level trend; or 
+
+ (b) The target groundwater level trend has not been achieved, and all scheduled reductions have been implemented, the Department may initiate a rulemaking process to adjust the permissible total withdrawal as needed to achieve the target groundwater level trend. 
+
+ 
+ 
+ 
+ 
+ 
+ [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 537.742 & ORS 537.735 
+ 
+ 
+ Statutes/Other Implemented:  ORS 537.027, ORS 537.780, ORS 537.742, ORS 537.735, ORS 537.525 & ORS 536.300 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 1-2026, adopt filed 01/12/2026, effective 01/12/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

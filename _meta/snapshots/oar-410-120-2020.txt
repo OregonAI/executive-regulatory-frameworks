@@ -1,0 +1,349 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 10/27/2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 120 MEDICAL ASSISTANCE PROGRAMS 
+ 410-120-2020 
+ Authorization of HRSN Services; Referral to HRSN Service Provider. 
+ 
+ (1) If, after completing the HRSN Eligibility Screening in accordance with OAR 410-120-2015, an MCE or, as applicable, the Authority, determines the Member meets all of the applicable HRSN Eligibility criteria, the MCE or the Authority shall authorize the identified HRSN Services and provide the Member notice as expeditiously as the circumstances require in accordance with this rule, which must not exceed fourteen (14) calendar days following the receipt of the complete HRSN Request, with a possible extension of up to fourteen (14) additional calendar days if:   
+
+ (a) The Member, the Member’s representative, or provider requests an extension; or   
+
+ (b) The MCE requests approval from the Authority, which must be accompanied by a substantiated need for additional information and an explanation of how the extension will be in the Member’s interest.   
+
+ (2) The MCE or, as applicable, the Authority, must provide the Member with written notice of HRSN Rent and Utility Financial Assistance service authorization as expeditiously as the circumstances require following the receipt of the HRSN Request. In all cases, service authorization of HRSN Rent and Utility Financial Assistance must be made within fourteen (14) calendar days following the receipt of the complete HRSN Request; however, notice of service authorization for HRSN Rent and Utility Financial Assistance may be extended up to an additional fourteen (14) days following receipt of the HRSN Request so long as the extension complies with (1)(a) and (1)(b) of this rule OAR 410-120-2020.   
+
+ (a) The written notice must comply with the Authority’s formatting and readability standards in OAR 410-141-3585 and 42 CFR § 438.10 and be written in plain language so a layperson can understand the notice.   
+
+ (b) The written notice must include, at minimum, the following:    
+
+ (A) Authorized Member’s legal name,    
+
+ (B) Authorized Member’s Member ID and address,    
+
+ (C) Type of services authorized,    
+
+ (D) Date the Member’s HRSN Request was received,    
+
+ (E) Date of notice of HRSN Service Authorization,    
+
+ (F) Effective date of HRSN service authorization,    
+
+ (G) Language Access Taglines as defined in OAR 410-141-3575, and    
+
+ (H) MCE’s or, as applicable, the Authority’s contact information.    
+
+ (c) If a Member was authorized for HRSN Rent and Utility Financial Assistance on or before September 1, 2025, then the MCE or, as applicable, the Authority, must send the Member a written notice of authorization if the Member:   
+
+ (A) Was not provided with a written notice of that authorization; and   
+
+ (B) Requests a written notice.   
+
+ (C) Notices of HRSN Service Authorization sent to Members under this subsection (c), must comply with subsections (a) – (b) above and be sent as expeditiously as the Member’s circumstances require, but in all cases no later than seven (7) calendar days after the Member makes the request for written notice of HRSN Service Authorization.    
+
+ (3) If, after completing the HRSN Eligibility Screening in accordance with OAR 410-120-2015, the MCE or, as applicable, the Authority, determines the Member does not meet all of the applicable HRSN Eligibility criteria, the MCE or Authority shall deny the request HRSN Service and provide the Member notice as expeditiously as the circumstances require in accordance with this rule OAR 410-120-2020 and OAR 410-141-3835(12)(e), which must not exceed fourteen (14) calendar days (with a possible extension so long as the extension complies with (1)(a) and (1)(b) of this rule OAR 410-120-2020) following the receipt of the complete HRSN Request. Contractor shall document the reason for the denial.   
+
+ (4) In addition to the requirements set forth in section (1)(a)-(c) of this rule, all notices of HRSN Service Authorization must identify service duration, as is Clinically Appropriate. The duration of an Authorized HRSN Service shall not exceed the allowable service duration identified in the tables that are part of OAR 410-120-2005. The duration must be less than the maximum allowable service duration if and as required by the applicable tables in OAR 410-120-2005. The amount and scope of the Authorized HRSN Service must also be identified in all notices as required by and in accordance with 42 CFR 438.210.   
+
+ (5) MCEs and the Authority must use reasonable efforts to ensure that HRSN Eligible Members who are receiving a similar service from a state, local, or federally funded organization or agency are only Authorized for any similar HRSN Services in accordance with OAR 410-120-2015.   
+
+ (6) MCEs and the Authority must require clinical staff to review HRSN Service denials or reductions in scope, amount, or duration requested only when the following clinically-based eligibility circumstances exist:   
+
+ (a) Specific to HRSN Home Changes for Health: A decision by an MCE or the Authority to deny a Member’s request for a Home Changes for Health device based on a determination that the Member does not meet the HRSN Home Changes for Health Device Social Risk Factor must include review by clinical staff to ensure the device was not Clinically Appropriate as a component of health services treatment or prevention as set forth in Table 1 included in OAR 410-120-2005.   
+
+ (b) Specific to HRSN Home Changes for Safety: A decision by an MCE or the Authority to deny a Member’s request for a Home Changes for Safety service or reduce the scope, amount or duration of the service requested by the Member that is based on a determination that the Member does not meet the Home Changes for Safety service Social Risk Factors of the need to treat, improve, stabilize, or prevent their HRSN Clinical Risk Factor, must include a review by clinical staff to ensure the denial or limitation was Clinically Appropriate as set forth in OAR 410-120-0000.   
+
+ (c) For all types of HRSN Services: Any decision by an MCE or the Authority to deny or reduce a Member’s request for an HRSN Service based on a determination that the Member did not have the HRSN Clinical Risk Factor applicable to the HRSN Service for which they were screened, must include review by clinical staff to ensure such determination was made in accordance with applicable clinical standards.   
+
+ (d) Clinicians who review decisions to deny or reduce the scope, amount or duration of an HRSN Service must have appropriate expertise in addressing the Member’s HRSN needs.   
+
+ (7) All MCEs and the Authority must document the approval, or denial, or reduction of HRSN Services.   
+
+ (8) HRSN Services must be authorized before the expiration of HRSN Covered Populations eligible timeframes:   
+
+ (a) For Adults and Youths Discharged from an HRSN Eligible Behavioral Health Facility and Adults and Youth Released from Incarceration, services must be authorized prior to the 366th day post-discharge.   
+
+ (b) For Individuals Transitioning to Dual Eligible Status, services must be authorized within 90 days prior to the date Medicare coverage takes effect or prior to the 271st day after Medicare coverage takes effect.    
+
+ (9) In accordance with 42 CFR 438.210, all MCEs must:   
+
+ (a) Make available to their Members the same HRSN Services, in type, amount, duration and scope that the Authority offers to Fee-for-Service Members; and   
+
+ (b) Screen and Authorize of HRSN Services for their HRSN Eligible Members in a manner that is no less restrictive than the Authority Screens and Authorizes HRSN Services for HRSN Eligible Fee-for-Service Members.   
+
+ (10) All MCEs or, as applicable, the Authority, must notify HRSN Service Providers of an individual’s HRSN Service authorization or denial if the HRSN Service Provider submitted the HRSN Request for the individual and:   
+
+ (a) May be or may have been the HRSN Service Provider that would have provided the requested HRSN Service; or   
+
+ (b) Provided HRSN O&E Services to the individual who was authorized or denied the HRSN Service.   
+
+ (11) Members who have been screened and authorized to receive and have received HRSN Services, must not be rescreened for the same HRSN Services they have received, except as set out in OAR 410-120-2005 and as set forth below in this section (11). Members may be rescreened for a HRSN Housing-Related and Nutrition-Related Support Service authorization when:   
+
+ (a) The Member was screened but not authorized for the HRSN Service and their circumstances have since changed;   
+
+ (b) The Member was screened and authorized for the HRSN Service, but they never received the authorized HRSN Service.   
+
+ (12) In the event a Member is disenrolled from their MCE and enrolled in a new MCE or with the Authority, and the Member has been screened and authorized for, but not yet received, an HRSN Service, or was receiving HRSN services at the time of their disenrollment, and wishes to receive or continue to receive the authorized service, the new MCE, or as applicable, the Authority, must accept HRSN Eligibility Screening information used and provided by the predecessor MCE to conduct their own review as expeditiously as the Member’s circumstances require. In no event, however, shall the time for review exceed seven (7) calendar days following the receipt of the predecessor MCE’s information.    
+
+ (a) If it is determined by the new MCE or as applicable, the Authority, that the Member is still eligible for the HRSN service and wishes to receive it, the new MCE or as applicable, the Authority, must authorize and provide the HRSN service as expeditiously as the Member’s circumstances require, in accordance with this rule OAR 410-120-2020.    
+
+ (b) If it is determined by the new MCE or as applicable, the Authority, that the Member is no longer eligible for the HRSN service, the new MCE or as applicable, the Authority, must deny the HRSN service in accordance with this rule OAR 410-120-2020.    
+
+ (13) In situations described in (12) of this rule, to ensure continuity of care, the predecessor MCE or as applicable, the Authority, must provide the new MCE, or as applicable, the Authority, with the HRSN Eligibility Screening information used to support the HRSN service authorization and provision of HRSN service for the now-former Member. This information must be provided to the new MCE, or as applicable, the Authority, as expeditiously as the Member’s circumstances require, and no later than seven (7) calendar days following the Member’s disenrollment and receipt of the new MCE’s or Authority’s request for HRSN Eligibility Screening information.   
+
+ (14) In situations described in (12) of this rule, the new MCE or as applicable, the Authority, must avoid conducting unnecessary and redundant HRSN Eligibility Screenings and making requests to Members for documentation, if the predecessor MCE or the Authority is able to provide sufficient documentation to support the authorization and service provision of the HRSN service by the new MCE, or as applicable, the Authority.   
+
+ (15) HRSN Authorized Members must be referred to an HRSN Service Provider that provides the HRSN Service that has been authorized. The referral must be made through a Closed Loop Referral unless the MCE or Authority is providing the HRSN Service in accordance with OAR 410-120-2000 (7)(a).   
+
+ (a) The MCE or the Authority must inform the HRSN-Authorized Member they have the right to opt out of technology, like CIE, for Closed Loop Referrals and still receive HRSN Services;   
+
+ (b) Before an HRSN-Authorized Member is referred to the applicable HRSN Service Provider, the MCE, or as applicable, the Authority, must, if the HRSN Service Provider is not already a Medicaid covered entity, obtain prior written authorization from the HRSN Authorized Member to share the information necessary to make the referral. The prior written authorization must comply with all applicable state and federal laws, which may include without limitation, HIPAA regulations such as 45 CFR 164.508;   
+
+ (c) The provision of HRSN Services must not require an HRSN-Authorized Member to authorize the sharing of their personal information with the HRSN Service Provider;   
+
+ (d) If the HRSN Authorized Member declines to authorize the sharing of their personal information in writing with an HRSN Service Provider, then the MCE or the Authority must provide the HRSN Authorized Member with a written referral that they may deliver to the HRSN Service Provider to which they have been referred.   
+
+ (16) When referring HRSN-Authorized Members to HRSN Service Providers, MCEs and the Authority must:   
+
+ (a) To the extent capacity permits, support the HRSN-Authorized Member’s choice of HRSN Service Provider;   
+
+ (b) Identify and refer the HRSN Authorized Member to different HRSN Service Providers if the original provider is not able to provide the HRSN Service in a timely manner, and available in accordance with Care Coordination requirements outlined in OARs 410-141-3860, 410-141-3865, and 410-141-3870.   
+
+ (17) MCEs or, as applicable, the Authority, must make a referral to an HRSN Service Provider that is capable of delivering the authorized HRSN Service(s) as expeditiously as a Member’s circumstances require. The timeframe for delivery of the HRSN Service must not exceed four (4) weeks, which is the same timeframe for scheduling appointments for Well Care as set forth in OAR 410-141-3515. The four (4) week timeframe starts at the point of service authorization. The HRSN Service(s) is considered “delivered” once the Member receives at least one unit of the HRSN Service that was authorized. Some service authorizations will continue beyond one month, but at minimum, the first unit must be delivered within four (4) weeks.   
+
+ (18) In the event the HRSN Service Provider is not able to provide the authorized service within the required timeframe described in section (17) of this rule, the MCE may deliver the authorized HRSN Service provided conflicts of interest are guarded against as required and in keeping with OAR 410-120-2000(7)(a)-(c).   
+
+ (19) The timeframe identified in section (17) of this rule is not required to be met in circumstances of impossibility related to:   
+
+ (a) HRSN Service Vendor availability to deliver Home Changes for Health and Home Changes for Safety services, or    
+
+ (b) Noncooperation of landlords or property managers, or    
+
+ (c) Utility companies declining to accept payment for utility financial assistance, as determined by the Authority in its sole discretion, or  
+
+ (d) Pantry Stocking and Fruit and Vegetable benefit card system limitations requiring the benefit to begin on a certain day of the month (e.g., first of the month). In these situations, the timeframe from service authorization to service delivery may exceed four (4) weeks to allow for a required start date, but in no circumstance shall the timeframe for service delivery exceed more than two calendar months.   
+
+ (20) The timeframe identified in section (17) of this rule is not applicable to Members who are receiving HRSN Outreach and Engagement Services only. Instead, HRSN Outreach and Engagement Services must be delivered within a reasonable period of time in light of the Member’s availability.   
+
+ (21) For Members who have not authorized the sharing of their information with an HRSN Service Provider, the four (4) week timeframe identified in section (17) of this rule shall commence when the HRSN-Authorized Member has delivered the referral to the referred HRSN Service Provider and the HRSN Service Provider has confirmed with the MCE or, as applicable, the Authority, receipt of the referral.   
+
+ (22) If a Member is facing Imminent Eviction as defined in OAR 410-120-0000 when the Member first requests a HRSN Rent and Utility Financial Assistance, and the MCE or the Authority cannot provide the Member with rent service within the time frame necessary to keep the Member housed, MCEs and the Authority must, whenever possible, refer that Member to local or state providers or programs that may have the ability to address the Member’s Imminent Eviction. If the MCE or Authority cannot provide the requested rent service in the needed timeframe, the MCE or Authority may send a service denial.   
+
+ (23) Even though the Authority and MCEs are not responsible for preventing Imminent Eviction in circumstances described in section (22), MCEs and the Authority must still screen Members in these situations for eligibility for other HRSN Services, including other HRSN Housing Supports, and if Authorized for the other HRSN Service, refer the HRSN Authorized Member to the applicable HRSN Service Provider(s).   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & SB 690 (2025) 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.572, 414.605, 414.665, 414.719 & 414.632 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 14-2026, temporary amend filed 04/28/2026, effective 05/01/2026 through 10/27/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 97-2025, amend filed 12/29/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 62-2025, temporary amend filed 08/27/2025, effective 09/01/2025 through 02/27/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 42-2025, amend filed 04/29/2025, effective 05/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 130-2024, adopt filed 10/24/2024, effective 11/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

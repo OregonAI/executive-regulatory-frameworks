@@ -1,0 +1,173 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 305 GENERAL ADMINISTRATION OF REVENUE LAWS 
+ 150-305-0481 
+ Tax Professional Data Security Breach with Information Unavailable. 
+ 
+ (1) If, due to the breach of security, the tax professional does not have immediate access to the consumer information, whose personal information is compromised, the tax professional must notify the department of the breach and provide their preparer tax identification number (PTIN). 
+
+ (2) Once the tax professional has access to the consumer information for their clients and confirms the identity of the impacted consumer, they must provide the name, address and tax identification number of the consumer whose personal information is compromised, to the department within 15 days of obtaining the information. 
+
+ 
+ Example 1 .  Joe Smith, a CPA, notices that five of his efiled returns were rejected due to a return already having been received by the IRS.  Joe believes this may indicate a data security breach and a quick review of his records confirms this possibility.  Joe still has access to his client records and notifies the Oregon Department of Revenue within five days and provides the name, address and identification number of 30 of his clients impacted by the breach.   
+
+ Example 2 . Nancy works for a satellite office of CPA Inc., which is an international company.  CPA Inc. discovers a possible data security breach on February 15 and begins their investigation but doesn’t notify their satellite offices.  The investigation concludes on April 1 and on April 2 Nancy is notified of a data security breach.  Nancy notifies the department of the data security breach within five days of receiving this information and provides her PTIN.  On April 30 she receives a list of her impacted clients, which she then provides to the department within 15 days on May 15. 
+
+ Example 3 . Mary’s office is burglarized, and a couple of her computers were stolen on October 1.  All of Mary’s records are on these computers, after filing a police report, Mary notifies the department within five days of a possible data security breach and providers her PTIN.  On March 1, the computers are recovered but law enforcement needs to hold them as evidence and on July 1 they are returned to Mary.  Mary is able to access and identify the impacted clients of the data security breach and provides a list to the department within 15 days of receiving the laptops. 
+ 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 & Chapter 353, 2021 Oregon Laws 
+ 
+ 
+ Statutes/Other Implemented:  Chapter 353, 2021 Laws 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 26-2021, adopt filed 12/27/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,175 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Revenue 
+ Chapter 150 
+ 
+ 
+ 
+ 
+ 
+ Division 315 PERSONAL INCOME TAX CREDITS 
+ 150-315-0181 
+ Oregon Kids Credit: Calculation of losses to be added back. 
+ 
+ (1) For the purpose of calculating the modified adjusted gross income for the Oregon Kids Credit, each type of loss shall be considered individually. To determine individual losses, combine all income or loss from each separate source. If a net loss results from such combination, the net loss is used to calculate total losses. 
+
+ 
+ Example 1: Eva and Honza file a joint return. They each have their own sole proprietorship, and they each report the income on a separate Schedule C. Eva reports net profit of $125,000 on her Schedule C. Honza reports a net loss of ($140,000) on his Schedule C. They report a combined net loss of ($15,000) when reporting Schedule C income on their federal personal income tax return. They have no other losses. When calculating their modified adjusted gross income for the Oregon Kids Credit, they would report a Schedule C loss of ($15,000). Due to their net Schedule C loss being less than $20,000, no amount would be added back when calculating their modified adjusted gross income. 
+
+ Example 2: Milan files Schedule C, Schedule D, and Schedule E with his federal return. He has a ($14,000) net loss on his Schedule C, net capital gain of $20,000 on Schedule D, and a ($19,000) loss on Schedule E. He has no other losses. Since his Schedule D shows a net gain, it is not used to calculate his loss limit for the Oregon Kids Credit. His Schedule C loss and Schedule E loss total $33,000. The amount that exceeds $20,000, which is $13,000 ($33,000 - $20,000), would need to be added back when calculating his modified adjusted gross income. 
+ 
+
+ (2) Oregon modifications to federal profits and losses are taken into account when calculating loss limits of the credit. For example, subtractions for marijuana or psilocybin business expenses (other than cost of goods sold) are allowed for Oregon per ORS 316.680(1)(i)-(j) but are not claimed on a Schedule C due to Section 280E of the Internal Revenue Code. These subtractions need to be included in Schedule C profit or loss for the purpose of calculating the modified adjusted gross income for the Oregon Kids Credit. Other subtractions for Oregon that modify federal gains, profits, or losses and that must be used in the calculation of modified adjusted gross income include Oregon-only passive losses, suspended losses, net operating losses, losses due to basis or depreciation differences, and pass-through entity adjustments. 
+
+ 
+ Example 3: Jonathan has a marijuana business he owns as a sole proprietor that has gross profit of $30,000 on his federal Schedule C. He is not able to claim all his business expenses due to Section 280E of the Internal Revenue Code, but he is able to claim the expenses on his Oregon return as a subtraction. He claimed a subtraction for $55,000 in marijuana business expenses on his Oregon return. Combining his net Schedule C profit with his marijuana business expense subtraction leaves him with a net loss of ($25,000) ($30,000 - $55,000). He would need to add back $5,000 ($25,000 - $20,000) when calculating his modified adjusted gross income for the Oregon Kids Credit, the amount that exceeds $20,000. 
+ 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  2023 Oregon Laws ch. 538 § 2 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ REV 27-2023, adopt filed 12/26/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

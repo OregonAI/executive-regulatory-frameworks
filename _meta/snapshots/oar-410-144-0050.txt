@@ -1,0 +1,250 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 144 WORKFORCE DEVELOPMENT PROGRAMS 
+ 410-144-0050 
+ Supplemental Payments Methodology 
+ 
+ Supplemental payments are determined using the following methods: 
+
+ (1) The aggregate available supplemental payment amount for privately-owned Nursing Facilities (NFs) is calculated for each aggregate Medicaid supplemental payment limit calculation period by taking the difference between the aggregate upper payment limit (UPL) from paragraph (a) of this subsection and the aggregate Medicaid payment from paragraph (b) of this subsection. 
+
+ (a) The aggregate upper payment limit for privately-owned NFs, as presented in the most recently completed Medicaid NF UPL calculation submitted to CMS, shall be calculated in accordance with the Medicaid UPL provisions codified at Title 42 CFR § 447.272 as follows: 
+
+ (A) Determine aggregate costs under Medicare cost principles using the most recently filed or settled CMS 2540 skilled nursing facility cost reports for privately-owned NFs. 
+
+ (B) Determine the per diem cost by dividing the aggregate costs from subparagraph (A) of this paragraph by total days of service associated with the same cost reports. 
+
+ (C) Extract Medicaid days of service for privately-owned NFs from the state’s Medicaid Management Information System (MMIS) for the cost reporting periods associated with the cost reports described in clause (A) of this subparagraph. 
+
+ (D) Determine aggregate Medicaid costs by multiplying the per diem Medicaid cost from section (B) of this paragraph by Medicaid days of service from section 1(a)(C) of this rule. 
+
+ (b) The aggregate Medicaid payment is equal to sum of Medicaid payments for privately-owned NFs from the aggregate Medicaid supplemental payment limit calculation period. Payment data includes Medicaid regular per diem payments, per diem drug payments, and per diem client contributions. 
+
+ (2) The aggregate available supplemental payment amount is not to exceed the lower of 95 percent of the aggregate available supplemental payment amount for privately owned NFs from section (1) of this rule and the general fund revenue allocated to the program plus associated federal matching funds. 
+
+ (3) The state may further reduce the aggregate available supplement payment amount from section (2) of this rule if the aggregate upper payment limit for privately-owned NFs from section (1)(a) of this rule is projected to decrease between the aggregate Medicaid supplemental payment limit calculation period and the federal fiscal year within which the applicable NF-level Medicaid supplemental payment limit calculation period falls. 
+
+ (4) Methodology to calculate NF-specific supplemental payment amounts: 
+
+ (a) Divide the aggregate available supplemental payment amount from section (2) of this rule by a minimum of two (2); 
+
+ (b) Extract Medicaid days of service for privately-owned NFs that have qualified for a supplemental payment from the state’s MMIS for the NF-level Medicaid supplemental payment limit calculation period; 
+
+ (c) The allocation percentage for each qualifying NF shall be determined by dividing the individual NF’s total Medicaid days from section (2) of this rule by the aggregate sum of all qualifying NFs’ Medicaid days from the same section; 
+
+ (d) The NF-specific supplemental payment for the NF-level Medicaid supplemental payment limit calculation period shall equal the aggregate available supplemental payment amount from subsection (4)(a) of this rule multiplied by the NF’s allocation percentage from subsection (4)(c) of this rule. 
+
+ (e) The supplemental payment does not exceed applicable Federal upper payment limit requirements. 
+
+ (5) Methodology to calculate eligible behavioral health care provider (BHCP) supplemental payment amounts. 
+
+ (a) Establish a payment pool of total available supplemental payment amount for all qualifying BHCP which is equal to the general fund revenue appropriated plus associated federal matching funds. 
+
+ (b) Extract Medicaid payments for eligible BHCPs determined per Eligibility rule 410-144-0010 section (4)(a-d) from the state’s Medicaid Management Information System (MMIS) for effective dates of payments. 
+
+ (c) The allocation percentage for each eligible BHCP will be determined by dividing the BHCP’s total Medicaid revenue from subsection (4)(b) of this rule by the aggregate sum of all eligible BHCPs’ Medicaid revenue from the same subsection; 
+
+ (d) The BHCP-specific supplemental payment will equal the total available supplemental payment amount from subsection (4)(a) of this rule multiplied by the allocation percentage from subsection (4)(c) of this rule. 
+
+ (e) The supplemental payment does not exceed applicable Federal upper payment limit requirements. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 410.070 & 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 410.070, 414.033 & OL 2021 ch. 595 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 41-2025, amend filed 04/29/2025, effective 05/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 33-2025, amend filed 03/21/2025, effective 03/23/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 123-2024, temporary amend filed 09/25/2024, effective 09/25/2024 through 03/23/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 52-2023, adopt filed 06/30/2023, effective 06/30/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
