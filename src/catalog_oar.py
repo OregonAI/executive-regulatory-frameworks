@@ -27,6 +27,27 @@ number; nothing in this repo reads it (rule titles are recovered per-rule, from
 the rule's own cached snapshot, by backfill_oar_titles.py) so it is parsed only
 far enough to find the rule number and is not carried into the catalog.
 
+EVERY CHAPTER ROW'S `url` IS RE-RESOLVED AGAINST THE ID MAP ON EVERY --discover
+RUN (#280), never carried forward untouched — `refresh_chapter_urls()` applies the
+id_map fetched at the top of this run to every catalogued chapter, whether or not that
+chapter is otherwise skipped this run for already being discovered. OARD gives this
+corpus no chapter-NUMBER-keyed alternative to fall back on instead: measured 2026-08-28,
+`displayChapterRules.action?selectedChapter=<n>` reads `<n>` as an id and only an id — a
+request built from a chapter NUMBER lands on whatever chapter OARD's dropdown happens to
+assign that number to as an id, silently, and `?chapterNumber=`, `?selectedChapterNumber=`
+and `?chapter=` are all ignored outright. So a stored id is refreshed rather than trusted:
+the id map itself is resolved fresh every run regardless (as above), and this is what
+makes that freshness reach the FIELD a reader would actually follow, not just this run's
+in-memory dict. A chapter absent from the id map (624 is the only one today — outside
+OARD's dropdown entirely) never held a `selectedChapter` url to refresh and keeps
+pointing at `ruleSearch.action`'s own chapter picker instead, where a human resolves the
+chapter for themselves. THE FIELD'S SHELF LIFE IS THIS CATALOG'S OWN `retrieved` DATE, not
+the moment a reader clicks it — nothing runs `--discover` continuously, so an id OARD
+renumbers between one run and the next is wrong for exactly that window, undetected until
+the next run resolves it fresh. That window is real and stated rather than hidden; it is
+the same tradeoff the id map itself already accepts by resolving fresh per run instead of
+per click, extended to the field a reader actually follows.
+
 MERGE, NEVER REPLACE: OARD's chapter listing is a CURRENT rules view, so a
 rule already in this catalog and absent from it is history (a renumber or a
 repeal), not gone — and this corpus keeps history because deleting a document
@@ -99,7 +120,16 @@ INITIAL_NOTE = (
     "drop an already-held rule row refuses to save. Rule CONTENT always comes from the "
     "official OARD per-rule URL at ingest time. Per-rule status: 'ingested' means a full "
     "document exists in rules/; renumbered/not_served/not_sliceable are recorded by "
-    "ingest_oar.py. Chapter titles from the agency registry.")
+    "ingest_oar.py. Chapter titles from the agency registry. EVERY CHAPTER'S `url` IS "
+    "RE-RESOLVED AGAINST THE ID MAP ON EVERY --discover RUN (#280), not carried forward "
+    "untouched, and not derived from the chapter number -- OARD accepts no chapter-number "
+    "route: `?selectedChapter=<n>` reads `<n>` as an id and lands on whatever chapter "
+    "OARD's dropdown currently assigns that id to, and `?chapterNumber=`/`?chapter=` are "
+    "silently ignored (measured 2026-08-28). A chapter absent from the id map (624, not in "
+    "OARD's dropdown) points at `ruleSearch.action`'s own chapter picker instead. The "
+    "field's shelf life is this catalog's own `retrieved` date, not the moment a reader "
+    "clicks it: an id OARD renumbers between one --discover run and the next is wrong for "
+    "exactly that window, undetected until the next run resolves it fresh.")
 
 
 def save_catalog(cat, discovered_note=True, stamp_retrieved=True):
@@ -162,6 +192,47 @@ def chapter_id_map(raw: str) -> dict:
     `ruleSearch.action` dropdown. Resolved fresh every run rather than hardcoded (#270):
     the id is OARD's own bookkeeping, not the chapter number, and may move."""
     return {chapter: chapter_id for chapter_id, chapter in CHAPTER_OPTION_RE.findall(raw)}
+
+
+def refresh_chapter_urls(cat: dict, id_map: dict) -> int:
+    """Re-resolve every already-catalogued chapter's `url` against THIS run's own
+    `id_map` (#280). `chapter_id_map()` was already re-fetched fresh every run before this
+    function existed; what was missing was anything that APPLIED that freshness to a
+    chapter's stored `url` once the chapter itself was no longer being walked --
+    `cmd_discover`'s already-discovered skip exists to avoid re-fetching and re-parsing a
+    chapter's own rules page every run, and had nothing to do with the id map, but it was
+    ALSO the only place `url` got written, so a skipped chapter kept whatever id an earlier
+    run had resolved, however long ago -- exactly the volatility `chapter_id_map()`'s own
+    docstring warns about, just not carried through to the field a reader clicks.
+
+    Measured 2026-08-28 that OARD has no chapter-NUMBER-keyed alternative to fall back on:
+    treating chapter 125's own NUMBER as if it belonged in the id slot --
+    `displayChapterRules.action?selectedChapter=125` -- served chapter 661, because 125 is
+    what OARD's dropdown assigns as the ID of a wholly different chapter, not what it
+    accepts as a chapter number. `?chapterNumber=125` / `?selectedChapterNumber=125` /
+    `?chapter=125` are all silently ignored, byte-identical to the error page a request
+    with no parameter at all gets. The
+    id is the only key `displayChapterRules.action` accepts, so re-resolving it every run
+    -- rather than deriving a URL from the chapter number, which OARD gives this corpus no
+    way to do -- is the fix: a stale id is refreshed, not carried.
+
+    Every row whose chapter is in `id_map` gets its url set to what that map says today,
+    UNCONDITIONALLY -- cheap, since `id_map` is one dict already held in memory and this
+    touches no network. A chapter absent from `id_map` (624 is the live instance: not in
+    OARD's dropdown, so it never held a `selectedChapter` url and there is nothing here to
+    re-resolve it against) is left exactly as it is, same as `ChapterNotListed` already
+    treats it elsewhere in this module. Returns how many rows' `url` actually changed, so a
+    caller can report it rather than silently rewrite 170 rows to say the same thing."""
+    changed = 0
+    for c in cat.get("chapters", []):
+        chapter_id = id_map.get(c["chapter"])
+        if chapter_id is None:
+            continue
+        new_url = f"{OARD_BASE}/displayChapterRules.action?selectedChapter={chapter_id}"
+        if c.get("url") != new_url:
+            changed += 1
+        c["url"] = new_url
+    return changed
 
 
 def parse_chapter_rules(raw: str) -> list:
@@ -413,12 +484,19 @@ def discover_chapter(ch: str, title: str, chapter_id: str, cat: dict) -> tuple:
         raise WouldRemoveRules(ch, missing)
 
     if existing is None:
+        # `url` is set here ONLY because this row does not exist yet for
+        # `refresh_chapter_urls` (#280) to have already reached in cmd_discover's pass
+        # over `cat["chapters"]`, which runs before this loop. An EXISTING row's `url` is
+        # not touched here at all -- that pass already set it from this same id_map, and
+        # writing it twice from the same formula in the same run is not a second writer
+        # so much as an invitation for the two to be read as independent someday. One
+        # writer for a row that already exists; this is only the one-time exception for a
+        # row that, until this line, did not.
         existing = {"chapter": ch, "title": title,
                     "url": f"{OARD_BASE}/displayChapterRules.action?selectedChapter={chapter_id}",
                     "divisions": []}
         cat["chapters"].append(existing)
     existing["title"] = title
-    existing["url"] = f"{OARD_BASE}/displayChapterRules.action?selectedChapter={chapter_id}"
     n_new = sum(1 for d in new_divisions for r in (d.get("rules") or [])
                 if r["number"] not in before and r.get("status") == "not_ingested")
     n_rules = len(after)
@@ -479,6 +557,13 @@ def cmd_discover(only: list):
 
     id_map = chapter_id_map(get(CHAPTER_LIST_URL))
     time.sleep(0.2)
+
+    # RE-RESOLVED EVERY RUN, EVEN FOR A CHAPTER THIS RUN OTHERWISE SKIPS OR DOES NOT
+    # TARGET (#280): `id_map` above is a fetch of OARD's WHOLE dropdown regardless of
+    # `only`, so applying it to every catalogued row costs no extra network call and
+    # closes the gap the already-discovered skip below left open -- a chapter's `url`
+    # used to go stale the moment nobody happened to re-walk its rules page.
+    n_urls_changed = refresh_chapter_urls(cat, id_map)
 
     total_d = total_da = total_r = total_new = total_claimed = skipped = 0
     found_nothing = []
@@ -544,6 +629,11 @@ def cmd_discover(only: list):
     print(f"\ndiscovered: {total_d} divisions ({total_da} new to the catalog), {total_r} "
           f"rules ({total_new} new added to the catalog); {skipped} chapters already "
           f"discovered (use --redo to refresh)")
+    # #280: every catalogued chapter's `url` is re-resolved against this run's own id_map
+    # above, whether or not the chapter itself was walked this run -- this is that check's
+    # own report, so a moved id is visible in stdout and not just in the diff.
+    print(f"{n_urls_changed} chapter url(s) re-resolved to a different OARD id than the "
+          f"catalog held (0 means every id_map entry still matches; #280)")
     # THE OTHER HALF OF THE DELTA (#270 acceptance criteria): not just what OARD adds, but
     # what this catalog holds that OARD's CURRENT listing does not -- history, kept.
     print(f"{history_count(cat)} rule(s) in this catalog are absent from OARD's current "
@@ -656,6 +746,43 @@ def selftest() -> int:
     check("the chapter id map excludes the -1 placeholder", "-1" not in id_map.values())
     check("chapter 624 -- absent from the live dropdown 2026-08-27 -- is absent here too",
           "624" not in id_map)
+
+    # THE URL FIELD IS RE-RESOLVED AGAINST id_map EVERY RUN, DECOUPLED FROM THE
+    # ALREADY-DISCOVERED SKIP (#280). cmd_discover's "skip a chapter already discovered"
+    # check exists so a routine run does not re-fetch and re-parse every chapter's own
+    # rules page -- it was never about the id map, which chapter_id_map() already
+    # re-resolves fresh on every invocation regardless. Before this fix that fresh map sat
+    # in memory two lines above the skip and was simply never applied to a skipped row's
+    # `url`, which is why 169 chapters could carry a `selectedChapter` id from whatever run
+    # last walked them, however long ago, while the module's own docstring says the id "is
+    # OARD's own bookkeeping and may move". Measured live 2026-08-28 that OARD has no
+    # chapter-NUMBER-keyed route to fall back on instead: treating chapter 125's own
+    # NUMBER as if it belonged in the id slot -- `displayChapterRules.action
+    # ?selectedChapter=125` -- actually serves chapter 661, because 125 is what OARD's
+    # dropdown assigns as the ID of a wholly different chapter, not what it accepts as a
+    # chapter number. `?chapterNumber=125` / `?selectedChapterNumber=125` / `?chapter=125`
+    # are all silently
+    # ignored, producing the identical error page a request with no parameter at all does.
+    # So the id is the only key OARD accepts, and this catalog's answer is to keep
+    # RE-RESOLVING it every run rather than pretend a stored one can be trusted between runs.
+    stale_cat = {"chapters": [
+        {"chapter": "125", "title": "Department of Administrative Services",
+         "url": f"{OARD_BASE}/displayChapterRules.action?selectedChapter=31",
+         "divisions": []},
+        {"chapter": "624", "title": "Oregon Alfalfa Seed Commission",
+         "url": f"{OARD_BASE}/ruleSearch.action", "divisions": []},
+    ]}
+    moved_id_map = {"125": "999"}  # OARD renumbered chapter 125's own bookkeeping id
+    n_changed = refresh_chapter_urls(stale_cat, moved_id_map)
+    ch125 = next(c for c in stale_cat["chapters"] if c["chapter"] == "125")
+    ch624 = next(c for c in stale_cat["chapters"] if c["chapter"] == "624")
+    check("a skipped chapter's stale url is re-resolved against a moved id",
+          ch125["url"] == f"{OARD_BASE}/displayChapterRules.action?selectedChapter=999")
+    check("refresh_chapter_urls reports exactly the row(s) that changed", n_changed == 1)
+    check("a chapter absent from the id map (624 -- not in OARD's dropdown) is left alone",
+          ch624["url"] == f"{OARD_BASE}/ruleSearch.action")
+    check("re-running against an id map that has not moved changes and reports nothing",
+          refresh_chapter_urls(stale_cat, moved_id_map) == 0)
 
     # PARSING ONE CHAPTER PAGE (#270). Fixture shaped like the real
     # displayChapterRules.action structure measured against chapter 813: each division

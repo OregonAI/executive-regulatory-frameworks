@@ -28,7 +28,19 @@ note: 'Discovery map of ALL OAR chapters (Gate #1 input for the mass import): ev
   check the claim). Written by `python3 src/legal_status.py --mark` from _meta/bulletin-worklist.yml and
   stamped onto the documents by `python3 src/enrich_oar.py`. A MARKED RULE IS KEPT: its ingest status
   and path are untouched, because this corpus mirrors ORS sections that cite administrative rules and
-  deleting the document breaks every citation pointing at it.'
+  deleting the document breaks every citation pointing at it. EVERY CHAPTER''S `url` IS RE-RESOLVED AGAINST
+  THE ID MAP ON EVERY --discover RUN (#280), not carried forward untouched between runs, and not derived
+  from the chapter number: OARD accepts no chapter-NUMBER route, only the id -- `?selectedChapter=<n>`
+  reads `<n>` as an id and lands on whatever chapter OARD''s dropdown currently assigns that id to, silently,
+  and `?chapterNumber=`/`?selectedChapterNumber=`/`?chapter=` are all ignored outright (measured 2026-08-28:
+  treating chapter 125''s own number as if it belonged in the id slot served chapter 661, the chapter
+  OARD''s dropdown actually assigns id 125 to). `refresh_chapter_urls()` applies this run''s id_map to
+  every catalogued chapter regardless of whether that chapter is otherwise skipped for already being discovered,
+  so a stale `selectedChapter` id cannot survive a run simply by nobody re-walking that chapter''s rules
+  page. Chapter 624 (absent from OARD''s dropdown) has no `selectedChapter` id to refresh and points at
+  `ruleSearch.action`''s own chapter picker instead. The field''s shelf life is this catalog''s own `retrieved`
+  date, not the moment a reader clicks it: an id OARD renumbers between one --discover run and the next
+  is wrong for exactly that window, undetected until the next run resolves it fresh.'
 chapters:
 - chapter: '101'
   title: Oregon Health Authority, Public Employees' Benefit Board
