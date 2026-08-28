@@ -295,12 +295,25 @@ FIELDS = {
 }
 
 # THE COMMITTED FILE'S OWN TOP-LEVEL `note` (the prose above `organizations`, read by
-# three sibling corpora) AND THE STRING cmd_refresh() WRITES BACK ARE THE SAME OBJECT,
-# not two hand-synchronized copies — extracted here so check_registry()'s
-# `note-agrees-with-refresh` (#185 follow-up) can compare the committed file against it
-# directly, rather than only checking that every FIELDS name appears somewhere in the
-# committed prose (`note-covers-fields`), which says nothing about whether the two texts
-# actually agree.
+# three sibling corpora) IS A FLOOR, NOT THE NOTE — the same shape catalog_oar.py's
+# `INITIAL_NOTE` already is (its own comment, #241: "restating this literal on every write
+# deleted 1,430 characters of them, in a diff that also touched thousands of rule rows").
+# #185's follow-up commit made cmd_refresh() restate REGISTRY_NOTE on every write and added
+# `note-agrees-with-refresh` to catch the two copies drifting apart — which caught the
+# SYMPTOM (the committed file falling behind the field declaration) but did not ask why
+# nobody had run --refresh to fix it: doing so would have wiped the two rows of
+# hand-appended prose the committed note already carried at the time (curator paragraphs a
+# human added directly, the same way #228/#229 grew catalog_oar.py's note past its own
+# INITIAL_NOTE — 4,425 committed characters against an INITIAL_NOTE of 1,875, with nothing
+# comparing the two). AC4 of #185 asked that "the note is not regenerated wholesale on every
+# write" and stayed unmet until #278: `refreshed_note()` below now writes REGISTRY_NOTE only
+# when the committed file carries no note at all (a from-scratch catalog), and returns
+# whatever is already committed, untouched, otherwise — so `note-agrees-with-refresh`,
+# whose exact-equality check would fail forever the moment curator prose is appended (the
+# very thing this fix exists to preserve), is RETIRED rather than kept red-by-design.
+# `note-covers-fields` remains: a substring/word-boundary search tolerates appended prose
+# while still catching a field FIELDS declares that no committed text — floor or addendum —
+# mentions anywhere, which is the actual staleness #185 was filed for.
 # THE TWO SCRIPTS THAT STATE, IN PROSE, HOW MANY CHAPTER PAGES A --refresh FETCHES (#279).
 # `expand_oar_name.py` and `record_name_basis.py` each explain why they are a one-shot
 # script and not a --refresh by naming the network cost of the alternative — a number that
@@ -308,7 +321,8 @@ FIELDS = {
 # rows carry an `oar_chapter` and are ever fetched) because nothing compared the claim
 # against the data it describes. Extracted here, not typed into check_registry(), so
 # --selftest can inject synthetic text instead of reading these two files off disk (the
-# same reason `refresh_note` is a parameter and not a read of REGISTRY_NOTE inline).
+# same reason `chapter_page_docs` on check_registry() is a parameter and not a read off disk
+# inline).
 CHAPTER_PAGE_DOC_FILES = (
     REPO_ROOT / "src/expand_oar_name.py",
     REPO_ROOT / "src/record_name_basis.py",
@@ -441,6 +455,21 @@ REGISTRY_NOTE = (
     "sentences do not mention fails the gate, so this note cannot go "
     "stale the way it did before anything watched it."
 )
+
+
+def refreshed_note(existing_note):
+    """What --refresh writes for the top-level `note`, given whatever the committed file
+    held before this run (`None`/`""` for a from-scratch catalog).
+
+    THE FILE'S NOTE IS THE FILE'S — catalog_oar.py's `save_catalog()` states this rule for
+    its own module's note in these exact words (#241) and writes its `INITIAL_NOTE` only
+    when there is none; this is the same rule, one file over (#278, closing AC4 of #185).
+    Restating REGISTRY_NOTE whenever a note already exists is what silently deleted
+    curator-appended prose — this function does not know what has been added to an existing
+    note, so an existing note, of any content, is returned exactly as given. REGISTRY_NOTE
+    is a FLOOR, supplied only when the committed file has no note to preserve."""
+    return existing_note if existing_note else REGISTRY_NOTE
+
 
 # THE ONE NUMBER'S TWO KEYS, FIELD OF RECORD FIRST. ADR 0003 renames `budget_agency_code`
 # to `das_agency_number`, and this is the EXPAND half: every row that carries the number
@@ -1708,15 +1737,18 @@ def cmd_refresh():
 
     assert_scrape_declared(orgs)
 
+    prev_note = None
     if CATALOG.exists():
-        prev_orgs = yaml.safe_load(CATALOG.read_text()).get("organizations", [])
+        prev_cat = yaml.safe_load(CATALOG.read_text())
+        prev_orgs = prev_cat.get("organizations", [])
+        prev_note = prev_cat.get("note")
         preserve_manual(prev_orgs, orgs, by_slug)
         preserve_curated(prev_orgs, by_slug)
         preserve_relations(prev_orgs, by_slug)
         preserve_name(prev_orgs, by_slug)
 
     cat = {
-        "note": REGISTRY_NOTE,
+        "note": refreshed_note(prev_note),
         "source_url": INDEX_URL,
         "retrieved": date.today().isoformat(),
         "organizations": sorted(orgs, key=lambda o: o["slug"]),
@@ -2075,7 +2107,7 @@ def _row_id(o, i):
     return slug if isinstance(slug, str) and slug else f"organizations[{i}]"
 
 
-def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) -> list:
+def check_registry(cat, fields=None, chapter_page_docs=None) -> list:
     """Every way the registry violates its contract, as Failures.
 
     `fields` is the declaration to check against, defaulting to the one this module ships.
@@ -2083,18 +2115,20 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
     table — the two ways a curated field goes missing from CURATED_KEYS are statements about
     the declaration, and no registry row can express either one.
 
-    `refresh_note` is likewise a PARAMETER, defaulting to `REGISTRY_NOTE` — the string
-    `cmd_refresh()` writes — for the same reason: --selftest's fixture carries its own
-    synthetic note (built to name every FIELDS key without being the real prose), and a
-    real registry's `note` is checked against the real `REGISTRY_NOTE`, not the fixture's
-    stand-in.
+    `chapter_page_docs` is the same shape of parameter, for the same reason (#279):
+    defaulting to the real text of `CHAPTER_PAGE_DOC_FILES`, so --selftest can hand this a
+    synthetic `{name: text}` mapping sized to the fixture instead of reading two real files
+    off disk against a fixture that was never meant to match them.
 
-    `chapter_page_docs` is the same shape of parameter a third time, for the same reason
-    (#279): defaulting to the real text of `CHAPTER_PAGE_DOC_FILES`, so --selftest can
-    hand this a synthetic `{name: text}` mapping sized to the fixture instead of reading
-    two real files off disk against a fixture that was never meant to match them."""
+    THERE IS NO LONGER A `refresh_note` PARAMETER (#278): this used to also take the string
+    `cmd_refresh()` writes, to run an exact-equality `note-agrees-with-refresh` check against
+    it. Once `cmd_refresh()` stopped restating the top-level `note` on every write (AC4 of
+    #185, actually closed by #278 rather than only detected), that check would have failed
+    forever the first time anyone appended curator prose — the exact content this fix exists
+    to preserve — so it was retired rather than kept red-by-design. `note-covers-fields`
+    below is the standing guard: a substring/word-boundary search that tolerates appended
+    prose while still catching a field FIELDS declares that no committed text mentions."""
     fields = FIELDS if fields is None else fields
-    refresh_note = REGISTRY_NOTE if refresh_note is None else refresh_note
     chapter_page_docs = (_default_chapter_page_docs() if chapter_page_docs is None
                          else chapter_page_docs)
     # ORDERED, not a frozenset: passed straight through to simulate_refresh() -> the same
@@ -2152,21 +2186,17 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
                 "self-description and a field it never mentions is one a reader of the "
                 "note alone would not know exists"))
 
-    # THE TWO COPIES, DIRECTLY, NOT ONLY BY WHICH NAMES THEY EACH CONTAIN. Both copies
-    # can drift by thousands of characters — a sentence reworded, a clause dropped — while
-    # each still names every FIELDS key and passes `note-covers-fields` above cleanly;
-    # #185's own root cause was exactly this shape, five tickets in a row updating
-    # `cmd_refresh()`'s literal and leaving the committed file's prose behind with nothing
-    # comparing the two. `REGISTRY_NOTE` is the one place that literal now lives, read by
-    # both `cmd_refresh()` and here, so this is a real equality check rather than a second
-    # hand-maintained expectation.
-    if not isinstance(file_note, str) or file_note != refresh_note:
-        failures.append(Failure(
-            "note-agrees-with-refresh", "agencies.yml",
-            "the registry's own top-level `note` does not match `REGISTRY_NOTE`, the "
-            "string `cmd_refresh()` writes back — the two are meant to be kept "
-            "byte-identical (#185) and nothing but this rule notices when they stop "
-            "being so"))
+    # THERE USED TO BE A SECOND RULE HERE, `note-agrees-with-refresh`, comparing `file_note`
+    # to `REGISTRY_NOTE` for byte-identity. #185's own root cause was five tickets in a row
+    # updating `cmd_refresh()`'s literal and leaving the committed file's prose behind, and
+    # that rule caught the SYMPTOM — but its fix, at the time, was "run --refresh," which
+    # restated `REGISTRY_NOTE` over the committed file wholesale and would have destroyed
+    # the curator prose already appended there (AC4 of #185, actually closed by #278).
+    # `refreshed_note()` now preserves an existing note untouched instead of restating it,
+    # so a byte-identity check against `REGISTRY_NOTE` would fail forever the moment a human
+    # appends anything — the exact content this fix exists to keep. Retired rather than kept
+    # red-by-design; `note-covers-fields` above is the standing guard, tolerant of appended
+    # prose because it only requires each field's name to appear somewhere in the text.
 
     # HOW MANY CHAPTER PAGES A --refresh FETCHES, AGAINST WHAT TWO OTHER SCRIPTS SAY IT
     # DOES (#279). `expand_oar_name.py` and `record_name_basis.py` both explain, in prose,
@@ -2821,21 +2851,17 @@ def _fixture():
     # fixture does not itself start failing every case in _CASES — the same reason
     # CURATED_KEYS is derived rather than restated. `_case_note_missing_a_declared_field`
     # below is what actually exercises that rule; this is only the clean baseline every
-    # other case's fixture must already pass. It is also the baseline `note-agrees-
-    # with-refresh` compares against in the selftest loop — `check_registry()` is called
-    # there with `refresh_note` set to THIS string, not the real `REGISTRY_NOTE`, since
-    # this fixture is a synthetic stand-in and was never meant to be the real prose.
+    # other case's fixture must already pass.
     return {"note": "fixture note naming every field: " + ", ".join(sorted(FIELDS)),
             "organizations": [das, cfo, gov]}
 
 
-# THE FIXTURE'S OWN CHAPTER-PAGE COUNT, for `chapter-page-count-current` the same way
-# `baseline_note` is for `note-agrees-with-refresh` (#279): the fixture holds 2 chaptered
-# rows (`das`, `cfo`) and 1 chapterless one (`gov`), never 170 — a --selftest run that
-# checked this fixture against the REAL two scripts' real prose would fail regardless of
-# whether either script says the truth, which is not a demonstration of anything. No
-# `_CASES` mutation changes which rows carry `oar_chapter`, so this stays "2" for all of
-# them.
+# THE FIXTURE'S OWN CHAPTER-PAGE COUNT, for `chapter-page-count-current` (#279): the fixture
+# holds 2 chaptered rows (`das`, `cfo`) and 1 chapterless one (`gov`), never 170 — a --selftest
+# run that checked this fixture against the REAL two scripts' real prose would fail
+# regardless of whether either script says the truth, which is not a demonstration of
+# anything. No `_CASES` mutation changes which rows carry `oar_chapter`, so this stays "2"
+# for all of them.
 _FIXTURE_CHAPTER_PAGE_DOCS = {
     "fixture.py": "a refresh re-fetches all 2 chapter pages from the mirror.",
 }
@@ -3372,17 +3398,6 @@ def _case_note_omits_a_field_whose_name_is_a_substring_of_another(cat):
     # identifiers stay, so a substring match would wrongly call `note` and `name` covered
 
 
-def _case_note_diverges_from_what_refresh_would_write(cat):
-    """`note-covers-fields` only checks that every FIELDS name appears somewhere in the
-    note's prose, which says nothing about whether the prose still AGREES with what
-    `cmd_refresh()` would write next — #185's own root cause was exactly a note whose
-    WORDING fell behind while nothing compared the two copies. This appends a sentence
-    without touching a single field name, so `note-covers-fields` stays silent and only
-    `note-agrees-with-refresh` — which compares against the fixture's own baseline note
-    here, `REGISTRY_NOTE` on a real registry — catches the divergence."""
-    cat["note"] += " A sentence cmd_refresh() would never write."
-
-
 def _case_registry_emptied(cat):
     """Every row gone. A gate that reports a registry with no bodies in it as clean is a
     gate that passes without checking anything — and every rule below is vacuously true of
@@ -3445,9 +3460,6 @@ _CASES = [
     ("note-omits-a-field-whose-name-is-a-substring-of-another",
      _case_note_omits_a_field_whose_name_is_a_substring_of_another,
      "note-covers-fields"),
-    ("note-diverges-from-what-refresh-would-write",
-     _case_note_diverges_from_what_refresh_would_write,
-     "note-agrees-with-refresh"),
     ("row-the-simulation-cannot-run-on", _case_row_the_simulation_cannot_run_on,
      "survives-refresh"),
     ("slug-the-scrape-would-not-produce", _case_slug_the_scrape_would_not_produce,
@@ -3686,6 +3698,44 @@ def _proof_the_carry_is_what_keeps_an_established_statutory_name() -> int:
     return bad
 
 
+def _proof_curated_prose_survives_a_refresh_of_the_top_level_note() -> int:
+    """AC4 of #185 ("the note is not regenerated wholesale on every write") — filed against,
+    found still unmet, and closed by #278. `refreshed_note()` is the whole of `cmd_refresh()`'s
+    top-level `note` logic (the `cat = {"note": refreshed_note(prev_note), ...}` line), so
+    calling it directly proves the write path without a network fetch.
+
+    THREE demonstrations, the shape catalog_oar.py's `save_catalog()` note handling already
+    proves for its own module (#241): a note a human appended prose to comes back BYTE-
+    IDENTICAL, not rebuilt from REGISTRY_NOTE, which is the whole of what a wholesale rewrite
+    would destroy; REGISTRY_NOTE itself, unmodified, is also left alone rather than being
+    treated as "nothing to preserve" because it happens to equal the floor text; and a
+    from-scratch catalog (`None`, the value `prev_note` holds when `CATALOG.exists()` is
+    False, and `""`, in case a caller ever loads a note key present but empty) gets
+    REGISTRY_NOTE as its floor, since there `refreshed_note()` is the only source of a note
+    at all."""
+    bad = 0
+    appended = REGISTRY_NOTE + " CURATOR ADDENDUM: hand-appended, must survive --refresh."
+    got = refreshed_note(appended)
+    if got != appended:
+        print("FAIL curator-addendum-survives-refresh: refreshed_note() rebuilt a note "
+              f"carrying curator prose instead of returning it untouched (got {got!r})",
+              file=sys.stderr)
+        bad += 1
+    got = refreshed_note(REGISTRY_NOTE)
+    if got != REGISTRY_NOTE:
+        print("FAIL unmodified-note-also-survives: refreshed_note() must not require the "
+              f"existing note to differ from REGISTRY_NOTE before preserving it (got {got!r})",
+              file=sys.stderr)
+        bad += 1
+    for empty in (None, ""):
+        got = refreshed_note(empty)
+        if got != REGISTRY_NOTE:
+            print(f"FAIL registry_note-is-the-floor-for-{empty!r}: a from-scratch catalog "
+                  f"must get REGISTRY_NOTE, not {got!r}", file=sys.stderr)
+            bad += 1
+    return bad
+
+
 def _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry() -> int:
     """A kind decided for the OAR index's own placement survives a refresh, and survives it
     BECAUSE preserve_relations() carries it — watched working and watched failing on one
@@ -3853,21 +3903,21 @@ def _proof_chapter_page_count_check_fires_on_a_stale_docstring() -> int:
     rule = "chapter-page-count-current"
 
     fresh = {"a.py": "a refresh re-fetches all 2 chapter pages from the mirror."}
-    failures = check_registry(cat, refresh_note=cat["note"], chapter_page_docs=fresh)
+    failures = check_registry(cat, chapter_page_docs=fresh)
     if any(f.rule == rule for f in failures):
         print(f"FAIL {rule}-quiet-on-true-count: fired against text stating 2, the "
               "fixture's actual count", file=sys.stderr)
         bad += 1
 
     stale = {"a.py": "a refresh re-fetches all 3 chapter pages from the mirror."}
-    failures = check_registry(cat, refresh_note=cat["note"], chapter_page_docs=stale)
+    failures = check_registry(cat, chapter_page_docs=stale)
     if not any(f.rule == rule for f in failures):
         print(f"FAIL {rule}-fires-on-stale-count: did not fire against 3, when the "
               "fixture's actual count is 2", file=sys.stderr)
         bad += 1
 
     missing = {"a.py": "this docstring never says how many pages get fetched."}
-    failures = check_registry(cat, refresh_note=cat["note"], chapter_page_docs=missing)
+    failures = check_registry(cat, chapter_page_docs=missing)
     if not any(f.rule == rule for f in failures):
         print(f"FAIL {rule}-fires-on-missing-phrase: did not fire when the checked "
               "phrase was absent entirely", file=sys.stderr)
@@ -3880,7 +3930,7 @@ def _proof_chapter_page_count_check_fires_on_a_stale_docstring() -> int:
     # file's text is how a caller now reports "could not read this", the same shape
     # `readable-row` reports an unreadable registry row.
     unreadable = {"a.py": None}
-    failures = check_registry(cat, refresh_note=cat["note"], chapter_page_docs=unreadable)
+    failures = check_registry(cat, chapter_page_docs=unreadable)
     if not any(f.rule == rule for f in failures):
         print(f"FAIL {rule}-fires-on-unreadable-file: did not fire when the doc text "
               "was None (an unreadable file)", file=sys.stderr)
@@ -4183,6 +4233,7 @@ def selftest() -> int:
     bad += _proof_the_merge_is_what_carries_a_curated_relation()
     bad += _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry()
     bad += _proof_the_carry_is_what_keeps_an_established_statutory_name()
+    bad += _proof_curated_prose_survives_a_refresh_of_the_top_level_note()
     resolutions = 0
     for proof in (_proof_search_spans_every_name_a_body_is_known_by,
                   _proof_a_promoted_name_loses_no_resolution):
@@ -4191,35 +4242,34 @@ def selftest() -> int:
         resolutions += ran
     for name, mutate, rule in _CASES:
         cat = _fixture()
-        # THE FIXTURE'S OWN NOTE IS THE EXPECTED ONE HERE, not `REGISTRY_NOTE` — the
-        # fixture's `note` is a synthetic stand-in built to name every FIELDS key
-        # (see `_fixture()`), never the real prose, so `note-agrees-with-refresh` is
-        # told to expect exactly what this fixture actually carries. A case that mutates
-        # `cat["note"]` still trips it, same as production; a case that leaves `note`
-        # alone does not.
-        baseline_note = cat["note"]
-        assert not check_registry(cat, refresh_note=baseline_note,
-                                  chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS), \
+        assert not check_registry(cat, chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS), \
             f"fixture does not pass cleanly ({name})"
         mutate(cat)
-        failures = check_registry(cat, refresh_note=baseline_note,
-                                  chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS)
+        failures = check_registry(cat, chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS)
         if not any(f.rule == rule for f in failures):
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
-    # THE "+ 9" IS A HAND COUNT OF THE EIGHT PROOF CALLS ABOVE (#275 review) — one violation
-    # demonstrated per call, EXCEPT `_proof_refresh_rejects_an_undeclared_scraped_field()`,
-    # which #275 grew a second, independent demonstration inside (the guard must also stay
-    # QUIET on a row `scraped_entry()` genuinely produces) without this literal following it:
-    # the total silently undercounted by one until this line was corrected alongside it. This
+    # THE "+ 10" IS A HAND COUNT OF THE NINE PROOF CALLS ABOVE (#275 review, grown by one for
+    # #278's `_proof_curated_prose_survives_a_refresh_of_the_top_level_note()`) — one
+    # violation demonstrated per call, EXCEPT
+    # `_proof_refresh_rejects_an_undeclared_scraped_field()`,
+    # which #275 grew a second, independent demonstration inside (the guard must
+    # also stay QUIET on a row `scraped_entry()` genuinely produces) without this literal
+    # following it: the total silently undercounted by one until that line was corrected
+    # alongside it. #278's new proof has THREE internal demonstrations (curator prose
+    # survives, an unmodified note survives without needing to differ from REGISTRY_NOTE
+    # first, and a from-scratch catalog gets REGISTRY_NOTE as its floor for both `None` and
+    # `""`) and still counts as ONE call here, matching every other multi-assertion proof
+    # above it (`_proof_the_carry_is_what_keeps_an_established_statutory_name` has four and
+    # is also one) rather than repeating the one undercount #275's review already found. This
     # is the same shape #279/#299/93036cf name — a printed count that can drift from the
     # thing it counts — one level down, and it is not fixed structurally here: doing that
-    # properly means every one of the eight functions returning its own demonstrated count,
+    # properly means every one of these functions returning its own demonstrated count,
     # the way the two name-resolution proofs below already do (`failed, ran = proof()`), and
     # summing those instead of a literal. Filed as its own issue rather than folded into
     # #275's fix, which this literal is not: OregonAI/executive-regulatory-frameworks#301.
-    print(f"{len(_CASES) + len(_PROOFS) + 9} violation(s) demonstrated failing, "
+    print(f"{len(_CASES) + len(_PROOFS) + 10} violation(s) demonstrated failing, "
           f"{resolutions} name resolution(s) proven"
           if not bad else f"{bad} rule(s) did not fire")
     return 1 if bad else 0

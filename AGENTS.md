@@ -513,12 +513,26 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   against `FIELDS` (#185) — `--check`'s
   `note-covers-fields` now refuses a registry whose top-level `note` does not name every
   field `FIELDS` declares, derived from the declaration itself rather than a second list.
-  Naming every field is not the same as AGREEING with what `cmd_refresh()` would write —
-  the two copies drifted by rewording and dropping sentences too, not only by falling
-  behind on field names, so `REGISTRY_NOTE` is now the one place that literal string
-  lives, read by `cmd_refresh()` and compared against the committed file directly by
-  `note-agrees-with-refresh`, a second rule beside `note-covers-fields` rather than a
-  replacement for it.
+  Naming every field is not the same as AGREEING with what `cmd_refresh()` would write, and
+  #185's own follow-up commit added a second rule for that, `note-agrees-with-refresh`,
+  comparing the committed `note` byte-for-byte against `REGISTRY_NOTE` (the one place that
+  literal string lives, read by `cmd_refresh()`). That rule caught the SYMPTOM — the two
+  copies falling out of sync — but its own fix was "run `--refresh`," which restated
+  `REGISTRY_NOTE` over the committed file WHOLESALE on every write, the exact mechanism that
+  deletes curator-appended prose (`curator_note`'s own #178 gets the row-level half of this
+  right; the top-level `note` did not). AC4 of #185 asked that the note not be regenerated
+  wholesale on every write and stayed unmet until #278, which found the precedent already
+  sitting in `catalog_oar.py`: its own top-level `note` handling (`save_catalog()`, #241
+  comment) writes `INITIAL_NOTE` only when the committed file has none, and never restates
+  one that exists — 4,425 committed characters today against an `INITIAL_NOTE` of 1,875,
+  because two tickets (#228, #229) appended paragraphs directly and nothing since has
+  touched them. `catalog_agencies.py`'s `refreshed_note()` now does the same: REGISTRY_NOTE
+  is a FLOOR, supplied only to a from-scratch catalog, and an existing note — curator prose
+  and all — is returned untouched. `note-agrees-with-refresh` is RETIRED rather than kept
+  red-by-design (an exact-equality check against a note that is now expected to accumulate
+  would fail forever the first time it did); `note-covers-fields` remains the standing
+  guard, tolerant of appended prose because it only requires each field's name to appear
+  somewhere in the text.
   The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
   `python3 src/link_budget_codes.py` from the hand-reviewed table in that file, whose
   `--check` verifies the registry against that table. The deprecated `budget_agency_code`
