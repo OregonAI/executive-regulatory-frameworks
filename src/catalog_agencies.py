@@ -1151,9 +1151,11 @@ def curated_keys_in_order(fields=None):
 
     WHERE ELSE THIS WAS CHECKED (#182's own acceptance criterion, so this is where a reader
     looks rather than a commit message nobody greps): CURATED_KEYS is not the only frozenset
-    a rebuilt row is iterated over. SCRAPED_KEYS and MERGED_KEYS are read inside
-    `assert_scrape_declared()`, and MERGED_KEYS and PER_ROW_KEYS are iterated inside
-    `preserve_relations()` and `preserve_name()` respectively — but neither of those two
+    a rebuilt row is iterated over. SCRAPED_KEYS, MERGED_KEYS and PER_ROW_KEYS are all three
+    read inside `assert_scrape_declared()` (#275: PER_ROW_KEYS did not join the other two
+    until then, and a real --refresh could not get past that function as a result), and
+    MERGED_KEYS and PER_ROW_KEYS are also iterated inside `preserve_relations()` and
+    `preserve_name()` respectively — but neither of those two
     loops APPENDS a key the rebuilt row does not already carry, because `scraped_entry()`
     always writes `relations` and the `name`/`name_basis` pair. Only a loop that can add a
     missing key can move a line, which is what `preserve_curated()` alone was doing before
@@ -1334,8 +1336,33 @@ def assert_scrape_declared(orgs):
     see would survive. A field added to the scrape without being declared would make that
     simulation wrong in the direction that hides losses — the field would be compared as if
     curated and fail, or worse, be assumed rewritten — so the refresh that would introduce it
-    stops here instead, before anything is written."""
-    undeclared = {k for o in orgs for k in o} - SCRAPED_KEYS - MERGED_KEYS
+    stops here instead, before anything is written.
+
+    #275: PER_ROW_KEYS belongs in the exclusion beside SCRAPED_KEYS and MERGED_KEYS, and
+    was not. `scraped_entry()` writes `name`/`name_basis` on EVERY row it builds — PER_ROW
+    is what lets a name a human established survive `preserve_name()` untouched while a
+    still-unverified OAR title gets rebuilt, but the row's KEYS are as much the scrape's own
+    output as anything SCRAPED or MERGED names. This function only asks "did the scrape
+    produce a field FIELDS does not know about at all" — whether a PER_ROW field's rebuilt
+    VALUE then survives is a separate question, `preserve_name()`'s alone to answer, later.
+    Without this, `{'name', 'name_basis'}` came back "undeclared" on every row a real scrape
+    ever built, so a real `--refresh` died here before writing anything, every invocation
+    (measured: `sys.exit` after ~110s of network, before this fix, on unmodified main).
+
+    CURATED_KEYS and the MANUAL_FLAG key are deliberately NOT joining this exclusion.
+    `scraped_entry()` never writes either kind of key — a curated field or `manual: true`
+    reaches a row only later, via `preserve_curated()`/`preserve_manual()`, which both run
+    AFTER this guard. So a curated or manual key showing up in a freshly-scraped `orgs` here
+    would be a real bug (the scrape asserting data only a human may assert), and folding
+    those two origins in as well — deriving the exclusion from "everything but the empty
+    set", say — would make this guard permanently silent on exactly the mistake it exists to
+    catch. The three names below are not a maintenance list to remember: each is already a
+    view of FIELDS, filtered to one origin `scraped_entry()` is documented to write
+    (SCRAPED wholly, MERGED in part, PER_ROW conditionally per row) — so the fourth key
+    class the docstring above warns about is caught the day `scraped_entry()` starts writing
+    it under a new origin this list does not yet name, by this comment sending the reader
+    back to FIELDS rather than by another 110-second crash."""
+    undeclared = {k for o in orgs for k in o} - SCRAPED_KEYS - MERGED_KEYS - PER_ROW_KEYS
     if undeclared:
         sys.exit(f"the scrape produced undeclared field(s) {sorted(undeclared)} — add them "
                  "to FIELDS (origin SCRAPED, or MERGED if the refresh writes only some of "
@@ -3839,14 +3866,41 @@ def _proof_refresh_rejects_an_undeclared_scraped_field() -> int:
     field ADR 0003 said the registry was going to carry — and the day it started carrying
     one the proof stopped proving anything: the guard correctly said nothing, and the only
     reason that surfaced as a red build rather than a quiet pass is that the assertion is on
-    the guard firing. Any real field is a field FIELDS may legitimately declare tomorrow."""
+    the guard firing. Any real field is a field FIELDS may legitimately declare tomorrow.
+
+    #275's other half, and the one a made-up field cannot demonstrate: the guard must also
+    stay QUIET on a row the scrape genuinely produces. `scraped_entry()` is the only thing
+    that builds one, so THAT is the fixture here rather than a hand-typed dict — a hand-typed
+    row is a claim about what the scrape writes, and this proof exists because that claim was
+    wrong once already (`note` used to be typed by hand here too, before it grew `name` and
+    `name_basis`). Demonstrated failing on unmodified main: `assert_scrape_declared()` read
+    only `SCRAPED_KEYS` and `MERGED_KEYS`, so the `name`/`name_basis` pair `scraped_entry()`
+    writes on every row (PER_ROW, ADR 0003 — a body the scrape just found has no established
+    statutory name, so it starts under `name_basis: unverified-oar-title`) came back as
+    undeclared on every row a real scrape ever built — `['name', 'name_basis']`, exactly the
+    pair the ticket's own `--refresh` run died on after ~110s of network, before writing
+    anything."""
+    bad = 0
     try:
         assert_scrape_declared([{"slug": "a-body", "headcount": 412}])
     except SystemExit as e:
-        return 0 if "headcount" in str(e) else 1
-    print("FAIL refresh-rejects-undeclared-scraped-field: the scrape guard did not fire",
-          file=sys.stderr)
-    return 1
+        if "headcount" not in str(e):
+            bad += 1
+    else:
+        print("FAIL refresh-rejects-undeclared-scraped-field: the scrape guard did not fire",
+              file=sys.stderr)
+        bad += 1
+
+    row = scraped_entry(oar_name="Department of Administrative Services", oar_chapter="125",
+                        raw_index_name="Dept. of Administrative Services",
+                        source_url=f"{BASE}/rules/oar_chapter_125")
+    try:
+        assert_scrape_declared([row])
+    except SystemExit as e:
+        print("FAIL refresh-accepts-what-the-scrape-produces: assert_scrape_declared "
+              f"rejected a row scraped_entry() itself built ({e})", file=sys.stderr)
+        bad += 1
+    return bad
 
 
 # The row this proof carries curated keys onto, deliberately holding all four of them (#182):
