@@ -49,21 +49,20 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   and the reason there is none. It is hand-reviewed (src/link_enabling_authority.py), is NOT scraped,
   and is preserved across --refresh. An ABSENT enabling_authority means nobody has reviewed this body
   yet; it never means the body has no enabling authority, which is what the `none: ` form says and says
-  with a reason. oar_chapter is the OAR chapter this body''s rules are filed under, scraped from the
-  index tree; null on the chapterless rows is not a gap — a body is in this registry because it EXISTS,
-  not because it issues rules.
-  source_url is the chapter page each row was scraped from, where the scrape found one: null on 14 of the
-  19 chapterless rows, not all of them — the other five hold a source_url that is not a chapter page (four
-  hold the mirror''s own rules index, https://oregon.public.law/rules, and the manual saif-corporation row
-  holds its own site). aliases, where present,
-  are other names the same body is known by, including former names after a rename — hand-reviewed once,
-  curated, and preserved across --refresh. note is scrape-only (#178): cmd_refresh() writes one of exactly
-  three sentences into it, when a chapter page''s title will not parse, its fetch fails, or a chapterless
-  group''s children disagree on a name prefix, and nothing else may live there, `manual` or not. curator_note
-  holds hand-typed prose about a row instead, protected across --refresh the way das_agency_number is; the two
-  rows carrying one today record why the row is `manual` at all, since the mirror''s index omits the chapter.
-  This paragraph is itself checked against FIELDS by name on every --check run (`note-covers-fields`, #185): a
-  field FIELDS declares that these sentences do not mention fails the gate, so this note cannot go stale the
+  with a reason. oar_chapter is the OAR chapter this body''s rules are filed under, scraped from the index
+  tree; null on the chapterless rows is not a gap — a body is in this registry because it EXISTS, not
+  because it issues rules. source_url is the chapter page each row was scraped from, where the scrape
+  found one: null on 14 of the 19 chapterless rows, not all of them — the other five hold a source_url
+  that is not a chapter page (four hold the mirror''s own rules index, https://oregon.public.law/rules,
+  and the manual saif-corporation row holds its own site). aliases, where present, are other names the
+  same body is known by, including former names after a rename — hand-reviewed once, curated, and preserved
+  across --refresh. note is scrape-only (#178): cmd_refresh() writes one of exactly three sentences into
+  it, when a chapter page''s title will not parse, its fetch fails, or a chapterless group''s children
+  disagree on a name prefix, and nothing else may live there, `manual` or not. curator_note holds hand-typed
+  prose about a row instead, protected across --refresh the way das_agency_number is; the two rows carrying
+  one today record why the row is `manual` at all, since the mirror''s index omits the chapter. This paragraph
+  is itself checked against FIELDS by name on every --check run (`note-covers-fields`, #185): a field
+  FIELDS declares that these sentences do not mention fails the gate, so this note cannot go stale the
   way it did before anything watched it.'
 source_url: https://oregon.public.law/rules
 retrieved: '2026-07-20'
@@ -1522,8 +1521,8 @@ organizations:
   raw_index_name: null
   source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=419-110-0000
   manual: true
-  curator_note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from the OARD rule-page
-    header. Discovered via renumbering redirects during the 2026-07 mass OAR import.
+  curator_note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from the OARD
+    rule-page header. Discovered via renumbering redirects during the 2026-07 mass OAR import.
 - slug: oregon-529-savings-board
   name: Oregon 529 Savings Board
   name_basis: unverified-oar-title
@@ -1758,9 +1757,9 @@ organizations:
   raw_index_name: null
   source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=950-030-0000
   manual: true
-  curator_note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from the OARD rule-page
-    header (name's own prefix ties it to OHA, parent per that prefix). Discovered via renumbering redirects
-    during the 2026-07 mass OAR import.
+  curator_note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from the OARD
+    rule-page header (name's own prefix ties it to OHA, parent per that prefix). Discovered via renumbering
+    redirects during the 2026-07 mass OAR import.
 - slug: oregon-health-authority-health-licensing-office
   name: Oregon Health Authority, Health Licensing Office
   name_basis: unverified-oar-title
@@ -1970,6 +1969,22 @@ organizations:
   - target: oregon-health-authority
     source: oar-index
     kind: undetermined
+- slug: oregon-hemp-commission
+  name: Oregon Hemp Commission
+  name_basis: enabling-authority
+  oar_name: Oregon Hemp Commission
+  oar_chapter: null
+  raw_index_name: Oregon Hemp Commission
+  source_url: null
+  parent_chapter: '603'
+  relations:
+  - target: department-of-agriculture
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 571.406
+  manual: true
+  enabling_authority: ORS 571.406
 - slug: oregon-housing-and-community-services-department
   name: Oregon Housing and Community Services Department
   name_basis: unverified-oar-title

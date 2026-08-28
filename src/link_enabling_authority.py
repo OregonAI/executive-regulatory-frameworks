@@ -260,6 +260,21 @@ MAPPED: dict[str, str] = {
     "oregon-health-authority-health-licensing-office-long-term-care-administrators-board": "ORS 678.800",
     "oregon-health-authority-oregon-prescription-drug-program": "ORS 414.312",
     "oregon-health-authority-public-employees-benefit-board": "ORS 243.061",
+    # #281, read 2026-08-28. TIER 3, not tier 1: ORS 571.400 to 571.501 is the commission's
+    # whole standalone act (definitions, purposes, department duties, powers, budget, even
+    # abolishment), and none of its 34 catchlines puts "Oregon Hemp Commission" in CREATE's
+    # subject position the way ORS 577.210 puts "Oregon Beef Council" in one — this act never
+    # writes "there hereby is created". 571.406 is where the body is CONSTITUTED rather than
+    # merely described, the same question tier 3 asks of ORS 677.235 for the Oregon Medical
+    # Board: "In the same manner as that provided in ORS 576.206, the Director of Agriculture
+    # shall appoint seven temporary members to the Oregon Hemp Commission" — before this
+    # section the commission has no members and cannot act; subsection (6) of the same
+    # section then appoints its permanent commissioners the same way. NOT ORS 576.062: 571.435
+    # names "the Oregon Hemp Commission" separately from "commodity commissions created under
+    # ORS 576.051 to 576.455", so the enumerated-list citation the other 21 Department of
+    # Agriculture commissions carry does not reach this body — the issue's own suggested
+    # citation was wrong on this point and is corrected here.
+    "oregon-hemp-commission": "ORS 571.406",
     "oregon-investment-council": "ORS 293.706",
     "oregon-patient-safety-commission": "ORS 442.820",
     "oregon-racing-commission": "ORS 462.210",
@@ -353,6 +368,10 @@ STATUTORY_NAMES: dict[str, str] = {
     # looked. Agreement is a finding, not the absence of one.
     "appraiser-certification-and-licensure-board":
         "Appraiser Certification and Licensure Board",
+
+    # #281, read 2026-08-28 against ORS 571.406, the tier-3 authority above: "the Director of
+    # Agriculture shall appoint seven temporary members to the Oregon Hemp Commission."
+    "oregon-hemp-commission": "Oregon Hemp Commission",
 }
 
 CREATE = re.compile(

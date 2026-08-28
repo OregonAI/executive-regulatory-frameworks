@@ -446,7 +446,7 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   authority by a human, written only by `src/link_enabling_authority.py`'s `STATUTORY_NAMES`
   and resolved by `--check` against the mirrored text of the section it cites — or
   `unverified-oar-title`, which says nobody has established one and `name` still holds the
-  OAR chapter title, unchanged. 4 of 189 rows are established and 185 are not, and
+  OAR chapter title, unchanged. 5 of 190 rows are established and 185 are not, and
   `--check` prints both counts on every run: "established" and "not yet established" may
   never be the same state. `statutory-name-basis` fails a row claiming the first with no
   enabling authority behind it, and fails a row claiming the second whose `name` is not its
@@ -456,7 +456,7 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   `preserve_name()`, an unverified one is rebuilt from the chapter page.
   `_meta/corpus.yml` declares `plugins.issuing_body_name_fields: [name, oar_name, aliases]`
   (corpus-toolkit>=1.29.0), without which `issuing_body_profile` matches `name` alone and a
-  fully promoted registry leaves 189 of 189 bodies unfindable by their OAR name.
+  fully promoted registry leaves 190 of 190 bodies unfindable by their OAR name.
   Every row also carries `relations` (CONTEXT.md), and since #174 it is the ONLY place a
   body's placement under another is recorded — `parent_slug` is retired, and the allowlist
   in `FIELDS` refuses it if it comes back. Each entry names the

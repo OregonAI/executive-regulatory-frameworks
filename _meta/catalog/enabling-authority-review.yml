@@ -206,14 +206,6 @@ candidates:
   catchline: Oregon State Lottery Commission; members; duties; meetings
   text: (1) The Oregon State Lottery Commission is hereby created in state government.
   verdict: ''
-- slug: secretary-of-state
-  name: Secretary of State
-  tier: 2
-  basis: catchline-contains
-  candidate: ORS 56.014
-  catchline: Secretary of State as filing officer; duties
-  text: (1) The Operating Account is established in the General Fund of the State Treasury.
-  verdict: ''
 - slug: state-board-of-architect-examiners
   name: State Board of Architect Examiners
   tier: 3
@@ -289,18 +281,12 @@ no_candidate:
   name: Judicial Department
 - slug: land-conservation-and-development-department
   name: Land Conservation and Development Department
-- slug: legislative-assembly
-  name: Legislative Assembly
 - slug: legislative-commission-on-indian-services
   name: Legislative Commission on Indian Services
 - slug: legislative-counsel-office
   name: Legislative Counsel Office
 - slug: legislative-fiscal-officer
   name: Legislative Fiscal Officer
-- slug: office-of-public-defense-services
-  name: Office of Public Defense Services
-- slug: office-of-the-governor
-  name: Office of the Governor
 - slug: office-of-training-investigations-and-safety
   name: Office of Training, Investigations and Safety
 - slug: oregon-department-of-education-early-learning-division
@@ -319,8 +305,6 @@ no_candidate:
   name: Oregon Health Authority, Public Health Division
 - slug: oregon-liquor-control-commission
   name: Oregon Liquor Control Commission
-- slug: oregon-military-department
-  name: Oregon Military Department
 - slug: oregon-military-department-office-of-emergency-management
   name: Oregon Military Department, Office of Emergency Management
 - slug: oregon-public-employees-retirement-system
@@ -333,8 +317,6 @@ no_candidate:
   name: Oregon Youth Authority
 - slug: parks-and-recreation-department
   name: Parks and Recreation Department
-- slug: saif-corporation
-  name: SAIF Corporation
 - slug: secretary-of-state-archives-division
   name: Secretary of State, Archives Division
 - slug: secretary-of-state-audits-division
