@@ -25,9 +25,11 @@ keeps for an unmapped DAS number (`link_budget_codes.py`), for an absent enablin
 decided the kind of (`undetermined`). This field is that rule applied to the name.
 
 WHY A SCRIPT AND NOT A --refresh, for the reason `expand_oar_name.py` gives: a refresh
-re-fetches all 189 chapter pages and rewrites every row from what the mirror serves today,
-and adding a key to committed data is not a reason to re-open what every other field says.
-`catalog_agencies.py --refresh` writes this key from now on, because `scraped_entry()` does.
+re-fetches all 170 chapter pages and rewrites every row from what the mirror serves today
+— 170, not this registry's 189 total rows, for the same reason and checked the same way
+`expand_oar_name.py`'s docstring is (#279) — and adding a key to committed data is not a
+reason to re-open what every other field says. `catalog_agencies.py --refresh` writes this
+key from now on, because `scraped_entry()` does.
 
 RE-RUNNABLE AND IDEMPOTENT. A row that already carries `name_basis` is left exactly as it is,
 whatever it says — a second run writes the same bytes as the first, and it can never

@@ -56,11 +56,16 @@ from repo_lib import REPO_ROOT, division_status  # noqa: E402
 
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
 
-# The paragraphs #228 and #229 appended. They are the thing save_catalog used to delete, so
-# the gate names them rather than checking a length that could be met by any prose.
+# The paragraphs #228, #229 and #280 appended. They are the thing save_catalog used to
+# delete, so the gate names them rather than checking a length that could be met by any
+# prose. #280's phrase is the one AC3 ("stated where the field is written, not only in a
+# commit message") actually depends on: nothing else gates the committed note's copy of
+# that explanation, so a note that lost it would still pass every other check in this
+# module and in catalog_oar.py --selftest.
 NOTE_MUST_MENTION = (
     "TWO FIELDS ARE SPELLED 'status'",
     "legal_status",
+    "EVERY CHAPTER'S `url` IS RE-RESOLVED AGAINST THE ID MAP ON EVERY --discover RUN (#280)",
 )
 
 _FIRED: set[str] = set()
@@ -170,7 +175,9 @@ def cmd_selftest() -> int:
                     {"number": "407-045-0465", "status": "renumbered",
                      "served_as": "419-120-0060",
                      "path": "rules/419/120/oar-419-120-0060.md"}]}]}],
-            "note": "… TWO FIELDS ARE SPELLED 'status' … legal_status …"}
+            "note": "… TWO FIELDS ARE SPELLED 'status' … legal_status … EVERY CHAPTER'S "
+                    "`url` IS RE-RESOLVED AGAINST THE ID MAP ON EVERY --discover RUN "
+                    "(#280) …"}
     disk = {"rules/419/120/oar-419-120-0060.md"}
 
     def case(name, rule, cat, d=disk):
@@ -225,6 +232,17 @@ def cmd_selftest() -> int:
     stripped["note"] = "Discovery map of ALL OAR chapters (Gate #1 input for the mass import)…"
     case("a-note-with-the-appended-paragraphs-deleted",
          "the-catalogs-note-keeps-what-was-added-to-it", stripped)
+
+    # #280 FOLLOW-UP: the note losing ONLY the #280 paragraph, #228 and #229 intact -- the
+    # shape a future edit is far more likely to produce than deleting the whole note the way
+    # #241's own case above does, and the shape AC3 depends on this rule catching. Before
+    # NOTE_MUST_MENTION carried this phrase, `stripped` above was the only fixture missing
+    # it, and it is missing everything else too -- so this case is the one that actually
+    # proves the #280 phrase is checked on its own, not riding along on #241's coverage.
+    url_note_dropped = copy.deepcopy(good)
+    url_note_dropped["note"] = "… TWO FIELDS ARE SPELLED 'status' … legal_status …"
+    case("a-note-that-kept-#228/#229-but-lost-just-the-#280-paragraph",
+         "the-catalogs-note-keeps-what-was-added-to-it", url_note_dropped)
 
     declared = {"a-document-has-at-most-one-authoritative-catalog-row",
                 "a-divisions-status-is-what-its-rules-say",

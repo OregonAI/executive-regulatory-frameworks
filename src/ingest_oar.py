@@ -1,89 +1,64 @@
 #!/usr/bin/env python3
 """OAR chapter/division ingestion pipeline (full-text-first, HC-1 safe).
 
-  python3 src/ingest_oar.py --enumerate 125 128   # discover divisions+rules (gate #1 input)
   python3 src/ingest_oar.py --ingest 125 128      # fetch each rule from OARD; emit docs
+  python3 src/ingest_oar.py --selftest            # every rule, watched failing
 
-Enumeration uses oregon.public.law's server-rendered chapter/division pages ONLY to
-discover rule numbers; every rule's content is fetched from the authoritative OARD
-page (view.action?ruleNumber=). Renumbering guard: if OARD serves a different rule
-number than requested (the 125-800 -> 128-030 lesson), the document is filed under the
-SERVED number and the mapping recorded in the catalog. Enumeration results are cached
-to _meta/catalog/oar.yml so --ingest runs from the approved list."""
+Discovery of division/rule membership is `catalog_oar.py --discover` (OARD, since #270).
+This module's `--ingest` fetches each rule's CONTENT from the authoritative OARD page
+(view.action?ruleNumber=) for numbers the catalog already lists, and never discovers a
+number on its own. Renumbering guard: if OARD serves a different rule number than
+requested (the 125-800 -> 128-030 lesson), the document is filed under the SERVED number
+and the mapping recorded in the catalog.
+
+`--enumerate` is RETIRED (#276): it used to re-scrape oregon.public.law -- an unofficial
+mirror #270 measured 2026-08-27 to omit 5,730 rules across the 168 chapters this corpus
+then mirrored, missing chapters 419 and 950 entirely -- and rebuild each division's rule list
+from ONLY that scrape's current output, with no guard against dropping a row the catalog
+already held (`d["rules"] = [existing.get(n, ...) for n in rules]`, gone since #276: any
+number `existing` held and this run's `rules` did not re-name -- history OARD's own
+current-listing view does not repeat, same as its successor never repeats -- was silently
+dropped). `catalog_oar.py --discover` reads OARD instead and merges non-destructively
+(`merge_divisions` + `WouldRemoveRules`, watched failing before that guard existed). Two
+scrapers wrote `_meta/catalog/oar.yml`'s division/rule membership; #276 makes it one."""
 import argparse
+import ast
 import fcntl
 import os
 import re
-import subprocess
 import sys
 import time
-import urllib.request
 from datetime import date
 from pathlib import Path
 
 import yaml
 
-from html_to_text import html_to_text
 from ingest_lib import fetch
 from legal_status import bulletin_status_by_rule, resolve
-from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, content_hash, normalize_ws,
-                      normalize_volatile, rule_title_from_html, snapshot_slice, ws_only, snapshot_text, division_status)
+from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, Checks, content_hash, normalize_volatile,
+                      rule_title_from_html, snapshot_slice, ws_only, snapshot_text)
 
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
 GROUP = REPO_ROOT / "_meta/sources/oar.yml"
 TODAY = date.today().isoformat()
-PL = "https://oregon.public.law"
 
-
-def get(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return r.read().decode("utf-8", errors="replace")
-
-
-def enumerate_chapter(ch):
-    """[(division, division_title, [rule numbers])] from oregon.public.law."""
-    page = get(f"{PL}/rules/oar_chapter_{ch}")
-    # hrefs are relative (href="oar_chapter_125_division_55"); titles live in link text
-    divs = re.findall(rf'href="(?:/rules/)?(oar_chapter_{ch}_division_(\d+))"[^>]*>\s*([^<]*)', page)
-    seen, out = set(), []
-    for name, div, title in divs:
-        if div in seen:
-            continue
-        seen.add(div)
-        dpage = get(f"{PL}/rules/{name}")
-        rules = sorted(set(re.findall(rf'href="(?:/rules/)?oar_({ch}-\d{{3}}-\d{{4}})"', dpage)))
-        out.append((div, normalize_ws(title) or f"Division {div}", rules))
-        time.sleep(0.2)
-    return out
+_DISCOVER_REPLACEMENT = "python3 src/catalog_oar.py --discover"
 
 
 def cmd_enumerate(chapters):
-    cat = yaml.safe_load(CATALOG.read_text())
-    by_ch = {c["chapter"]: c for c in cat["chapters"]}
-    for ch in chapters:
-        found = enumerate_chapter(ch)
-        c = by_ch.get(ch)
-        if c is None:
-            c = {"chapter": ch, "title": f"Chapter {ch}", "divisions": []}
-            cat["chapters"].append(c)
-            by_ch[ch] = c
-        by_div = {d["division"]: d for d in c["divisions"]}
-        total = 0
-        for div, title, rules in found:
-            d = by_div.get(div) or {"division": div}
-            d["title"] = d.get("title") or title
-            existing = {r["number"]: r for r in d.get("rules", []) if isinstance(d.get("rules"), list)} \
-                if isinstance(d.get("rules"), list) else {}
-            d["rules"] = [existing.get(n, {"number": n, "status": "not_ingested"}) for n in rules]
-            d["status"] = division_status(d["rules"])
-            if div not in by_div:
-                c["divisions"].append(d)
-                by_div[div] = d
-            total += len(rules)
-            print(f"{ch}-{div} | {title[:55]} | {len(rules)} rules")
-        print(f"chapter {ch}: {len(found)} divisions, {total} rules")
-    CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
+    """RETIRED (#276): does not read or write anything -- not the catalog, not the
+    network. A pure refusal, so anyone with `--enumerate` in a script or in muscle
+    memory is told where the job moved rather than getting a silent no-op or, worse,
+    the old destructive merge back."""
+    sys.exit(
+        "ingest_oar.py --enumerate is retired (#276). It used to re-scrape an unofficial "
+        "mirror (see this module's docstring) and rebuild each division's rule list from "
+        "that scrape alone, which could silently drop a rule row the catalog already "
+        "held -- the same shape #270 fixed in catalog_oar.py's discovery, here left "
+        "unguarded.\n"
+        "Division/rule discovery is now catalog_oar.py --discover only, which reads OARD "
+        "(the authoritative source) and merges non-destructively:\n"
+        f"  {_DISCOVER_REPLACEMENT} " + " ".join(chapters))
 
 
 def served_rule_number(text):
@@ -173,20 +148,53 @@ history are in the full text below.
 """
 
 
+# Exactly the fields `cmd_ingest`'s loop ever assigns onto a rule row (`r["status"] = ...`,
+# `r["note"] = ...`, `r["served_as"] = ...`, `r["path"] = ...`). `_write_catalog_merged`
+# below copies only these, by number, onto the matching row already on disk -- never a
+# whole row, and never anything about which rows or divisions exist.
+_CHECKPOINT_FIELDS = ("status", "note", "served_as", "path")
+
+
 def _write_catalog_merged(cat, my_chapters):
     """Concurrent-safe catalog save for parallel --ingest workers: under an exclusive
-    lock, re-read the catalog from disk and replace ONLY this worker's chapters with
-    our in-memory state, then write atomically. Workers own disjoint chapter sets, so
-    merge-by-chapter is conflict-free — this exists because whole-file checkpoint
-    writes from parallel workers would silently revert each other's progress (the
-    lesson from the EO OCR concurrency incident)."""
+    lock, re-read the catalog from disk and write this worker's OWN field updates
+    (`_CHECKPOINT_FIELDS`) onto the matching rule rows, by number, then write atomically.
+
+    NEVER reassigns a chapter's `divisions` or a division's `rules` -- #276 measured that
+    the retired shape one level up (`disk["chapters"] = [mine.get(c["chapter"], c) for c
+    in disk["chapters"]]`) replaced a whole chapter with this worker's LOAD-TIME snapshot,
+    so a row the same chapter gained on disk after this worker loaded -- a concurrent
+    `catalog_oar.py --discover`, or simply an earlier checkpoint in this same run adding
+    rows this worker's stale in-memory copy never saw -- was silently gone from the next
+    checkpoint. Reproduced directly: a chapter holding 3 rules across 2 divisions on disk
+    dropped to 1 rule across 1 division after one checkpoint from a worker whose in-memory
+    copy predated the concurrent write. Merging by ROW instead of by chapter makes that
+    shape structurally impossible: this function only ever sets a few named keys on a row
+    dict already on disk -- the same idiom `cmd_ingest`'s own loop uses -- so disk's
+    membership, however it grew since this worker loaded, survives every checkpoint
+    untouched, and `--ingest` never removes a division or a rule row. Workers still own
+    disjoint chapter sets (`my_chapters`), so two workers never race to update the same
+    row; only the row-vs-chapter granularity of the write changed."""
     lock_path = REPO_ROOT / "_meta/.cache/oar-catalog.lock"
     lock_path.parent.mkdir(exist_ok=True)
-    mine = {c["chapter"]: c for c in cat["chapters"] if c["chapter"] in my_chapters}
+    mine_rules = {r["number"]: r
+                  for c in cat["chapters"] if c["chapter"] in my_chapters
+                  for d in (c.get("divisions") or [])
+                  for r in (d.get("rules") or [])}
     with open(lock_path, "w") as lk:
         fcntl.flock(lk, fcntl.LOCK_EX)
         disk = yaml.safe_load(CATALOG.read_text())
-        disk["chapters"] = [mine.get(c["chapter"], c) for c in disk["chapters"]]
+        for c in disk["chapters"]:
+            if c["chapter"] not in my_chapters:
+                continue
+            for d in (c.get("divisions") or []):
+                for r in (d.get("rules") or []):
+                    src = mine_rules.get(r["number"])
+                    if src is None:
+                        continue
+                    for key in _CHECKPOINT_FIELDS:
+                        if key in src:
+                            r[key] = src[key]
         tmp = CATALOG.parent / ".oar.yml.tmp"
         tmp.write_text(yaml.safe_dump(disk, sort_keys=False, allow_unicode=True, width=100))
         os.replace(tmp, CATALOG)
@@ -335,14 +343,208 @@ def cmd_ingest(chapters, skip_group=False):
     print(f"made {made}, renumbered {renumbered}, skipped {skipped}, failed {failed}")
 
 
+# ---------------------------------------------------------------------------------
+# #276's negative proof. `--enumerate` is retired outright, so there is no rebuild left
+# to watch fail on a bad input -- the acceptance criterion this module has to meet
+# instead is "no REMAINING path can remove a catalogued row", which is a claim about
+# every function in the file, not one call with a crafted fixture. Proved by walking
+# this module's own AST (not by re-reading a docstring's promise) for the exact shape
+# that dropped rows before: a wholesale reassignment of a division's `rules`, a chapter's
+# `divisions`, or the catalog's own `chapters`, or a `.pop()`/`.remove()`/`.clear()`/`del`
+# against any of the three. Every read-modify-write in this file -- `cmd_ingest`'s own
+# loop (`r["status"]`, `r["note"]`, ...) AND `_write_catalog_merged`'s checkpoint
+# (`_CHECKPOINT_FIELDS`, #276 follow-up: the checkpoint used to reassign a whole chapter
+# from a worker's load-time snapshot, which is the shape this set of keys exists to also
+# catch) -- instead sets named keys on an existing row it walks to, via `for r in
+# d["rules"]:` or a chapter/division/rule walk with the same shape, neither of which can
+# shrink a list it only reads. This detector proves that structural fact holds for the
+# WHOLE file, this run and every future one, rather than asserting it once in prose.
+_DESTRUCTIVE_KEYS = {"rules", "divisions", "chapters"}
+
+# Built at runtime, not as one literal, because the detector below scans THIS FILE'S own
+# AST: a single Constant spelling the retired host name at module level would itself be
+# a "functional reference outside a docstring" by the detector's own rule -- the search
+# needle cannot be indistinguishable from what it searches for.
+_RETIRED_HOST = "public" + ".law"
+
+
+def _subscript_key(node):
+    return node.slice.value if (isinstance(node, ast.Subscript)
+                                 and isinstance(node.slice, ast.Constant)) else None
+
+
+def _destructive_call(node: ast.Call) -> bool:
+    """True for a call shape that can remove a whole `_DESTRUCTIVE_KEYS` entry, beyond
+    the `x["rules"].pop()`/`.remove()`/`.clear()` shape the caller already checks: a
+    dict's OWN `.pop("rules")` (the key vanishes from its containing dict, not an
+    element from the list) and `.update({"rules": ...})` (a same-key overwrite is
+    exactly the wholesale-reassignment shape #276 fixed, just spelled as a call)."""
+    if not (isinstance(node.func, ast.Attribute)):
+        return False
+    attr = node.func.attr
+    if (attr == "pop" and node.args and isinstance(node.args[0], ast.Constant)
+            and node.args[0].value in _DESTRUCTIVE_KEYS):
+        return True
+    if attr == "update" and node.args and isinstance(node.args[0], ast.Dict):
+        return any(isinstance(k, ast.Constant) and k.value in _DESTRUCTIVE_KEYS
+                   for k in node.args[0].keys)
+    return False
+
+
+def membership_dropping_sites(tree: ast.AST) -> list:
+    """Line numbers of every AST shape in `tree` that could remove a catalogued rule
+    row or division wholesale. Empty means the negative is proved for that tree."""
+    hits = []
+    for node in ast.walk(tree):
+        if isinstance(node, ast.Assign):
+            for t in node.targets:
+                if _subscript_key(t) in _DESTRUCTIVE_KEYS:
+                    hits.append(t.lineno)
+                # a SLICE assign (`d["rules"][:] = [...]`) reassigns the same key one
+                # subscript down and is caught the same way `del d["rules"][0]` already is.
+                elif isinstance(t, ast.Subscript) and isinstance(t.slice, ast.Slice) \
+                        and _subscript_key(t.value) in _DESTRUCTIVE_KEYS:
+                    hits.append(t.lineno)
+        elif isinstance(node, ast.Delete):
+            for t in node.targets:
+                if _subscript_key(t) in _DESTRUCTIVE_KEYS:
+                    hits.append(node.lineno)
+                elif isinstance(t, ast.Subscript) and _subscript_key(t.value) in _DESTRUCTIVE_KEYS:
+                    hits.append(node.lineno)
+        elif (isinstance(node, ast.Call) and isinstance(node.func, ast.Attribute)
+              and node.func.attr in ("pop", "remove", "clear")
+              and _subscript_key(node.func.value) in _DESTRUCTIVE_KEYS):
+            hits.append(node.lineno)
+        elif isinstance(node, ast.Call) and _destructive_call(node):
+            hits.append(node.lineno)
+    return hits
+
+
+def _docstring_string_ids(tree: ast.AST) -> set:
+    """id() of every string constant that IS a docstring -- the first statement's value
+    in the module or any function/class -- so prose explaining history (module, function
+    or class level) is distinguishable from a string that is part of running code."""
+    ids = set()
+    for node in ast.walk(tree):
+        if isinstance(node, (ast.Module, ast.FunctionDef, ast.AsyncFunctionDef, ast.ClassDef)):
+            first = node.body[0] if node.body else None
+            if (isinstance(first, ast.Expr) and isinstance(first.value, ast.Constant)
+                    and isinstance(first.value.value, str)):
+                ids.add(id(first.value))
+    return ids
+
+
+def _non_docstring_public_law_refs(tree: ast.Module) -> list:
+    """String constants naming the retired mirror outside any docstring -- module,
+    function or class -- which is where #276 leaves the historical explanation, per the
+    ticket's own allowance ('historical comments explaining the switch are fine and
+    welcome'). A `#`-comment never reaches the AST at all, so combined with the
+    docstring exclusion this only ever catches a functional reference: code that could
+    still BUILD A URL against the retired host."""
+    doc_ids = _docstring_string_ids(tree)
+    return [n.lineno for n in ast.walk(tree)
+            if isinstance(n, ast.Constant) and isinstance(n.value, str)
+            and _RETIRED_HOST in n.value and id(n) not in doc_ids]
+
+
+def selftest() -> int:
+    check = Checks()
+    tree = ast.parse(Path(__file__).read_text())
+
+    # THE NEGATIVE, for the file as it stands: no remaining path can drop a row.
+    live_hits = membership_dropping_sites(tree)
+    check("no path in this module reassigns, pops, removes or clears "
+          "a division's rules or a chapter's divisions", live_hits == [])
+
+    # THE DETECTOR ITSELF IS PROVED, not just trusted: reproduce the exact retired line
+    # (`d["rules"] = [existing.get(n, ...) for n in rules]`, #276's own bug) as a fixture
+    # and confirm membership_dropping_sites still catches that shape today. Without this,
+    # a detector that catches nothing and a detector that never ran would look identical.
+    bug_fixture = ast.parse(
+        'd["rules"] = [existing.get(n, {"number": n, "status": "not_ingested"}) '
+        'for n in rules]')
+    check("RED: the detector catches the retired cmd_enumerate line reproduced as a "
+          "fixture -- proof the check itself fires, not just that it is silent today",
+          membership_dropping_sites(bug_fixture) != [])
+    # ...and the sibling shapes it must also catch: a pop/remove/clear/del against
+    # either key, none of which #276's bug used but all of which have the same effect.
+    for snippet, label in [
+        ('d["rules"].pop()', "pop"),
+        ('d["rules"].remove(x)', "remove"),
+        ('c["divisions"].clear()', "clear"),
+        ('del d["rules"][0]', "del-index"),
+        ('del d["rules"]', "del-whole-key"),
+        # #276 follow-up (code review): three shapes a probe found this detector missed
+        # entirely -- caught now by `_destructive_call` and the slice-assign branch above.
+        ('d["rules"][:] = []', "slice-assign"),
+        ('d.pop("rules")', "dict-pop-key"),
+        ('d.pop("rules", None)', "dict-pop-key-default"),
+        ('d.update({"rules": []})', "dict-update-key"),
+        # ...and the same three already-known shapes, now against the newly-watched
+        # `chapters` key -- what actually caught the live bug at `_write_catalog_merged`.
+        ('cat["chapters"] = []', "chapters-reassign"),
+        ('cat["chapters"].pop(0)', "chapters-pop-element"),
+        ('del cat["chapters"][0]', "chapters-del-index"),
+    ]:
+        check(f"RED: the detector also catches a .{label} shape",
+              membership_dropping_sites(ast.parse(snippet)) != [])
+    # ...and guards that must NOT fire: mutating a row's OWN field is what cmd_ingest's
+    # loop and _write_catalog_merged's checkpoint actually do, and neither may ever trip
+    # this detector.
+    check("GREEN: mutating an existing row's own field is not a membership-dropping site",
+          membership_dropping_sites(ast.parse('r["status"] = "ingested"')) == [])
+    check("GREEN: updating an existing row's own fields by dict, with no destructive "
+          "key among them, is not one either",
+          membership_dropping_sites(
+              ast.parse('r.update({"status": "ingested", "note": "n"})')) == [])
+    check("GREEN: popping a key that is not a destructive one is not one either",
+          membership_dropping_sites(ast.parse('r.pop("note", None)')) == [])
+
+    # NO FUNCTIONAL REFERENCE TO THE RETIRED MIRROR remains outside a docstring's own
+    # historical account of why it was retired.
+    check("the retired mirror is named only in a docstring, never in code that could "
+          "still build a URL from it",
+          _non_docstring_public_law_refs(tree) == [])
+    check("...and the module docstring's historical account is still there to be "
+          "excluded from", _RETIRED_HOST in ast.get_docstring(tree))
+
+    # THE RETIRED SYMBOLS ARE GONE, not just unreachable -- `enumerate_chapter` and `PL`
+    # were the actual scraper and its target host; if either still exists, the refusal
+    # below is decoration over a live path.
+    check("enumerate_chapter no longer exists", "enumerate_chapter" not in globals())
+    check("PL no longer exists", "PL" not in globals())
+
+    # THE REFUSAL ITSELF: touches neither the network nor the catalog file, and names
+    # the replacement. Checked against the REAL catalog on disk, byte for byte, so a
+    # future edit that sneaks a read/write back in is caught by content, not by
+    # assuming the function body says what it does.
+    before = CATALOG.read_bytes() if CATALOG.exists() else None
+    try:
+        cmd_enumerate(["999"])
+        check("cmd_enumerate exits rather than returning", False)
+    except SystemExit as e:
+        msg = str(e)
+        check("the refusal names the replacement command",
+              "catalog_oar.py --discover" in msg)
+        check("the refusal names this ticket", "#276" in msg)
+    after = CATALOG.read_bytes() if CATALOG.exists() else None
+    check("the refusal did not touch the catalog file on disk", before == after)
+
+    return check.report()
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--enumerate", nargs="+", metavar="CH")
+    ap.add_argument("--enumerate", nargs="+", metavar="CH",
+                    help="retired (#276) -- refuses and names catalog_oar.py --discover")
     ap.add_argument("--ingest", nargs="+", metavar="CH")
     ap.add_argument("--skip-group", action="store_true",
                     help="mass-import mode: no per-rule update-group entries (see cmd_ingest)")
+    ap.add_argument("--selftest", action="store_true")
     a = ap.parse_args()
-    if a.enumerate:
+    if a.selftest:
+        sys.exit(selftest())
+    elif a.enumerate:
         cmd_enumerate(a.enumerate)
     elif a.ingest:
         cmd_ingest(a.ingest, a.skip_group)

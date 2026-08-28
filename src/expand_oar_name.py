@@ -13,8 +13,14 @@ anything about `name` changes. This script does the "first" part, once, over dat
 already exists.
 
 WHY A SCRIPT AND NOT A --refresh. `catalog_agencies.py --refresh` writes `oar_name` from
-now on (it is a SCRAPED field), but a refresh re-fetches all 189 chapter pages from
-oregon.public.law and rewrites every row from what that mirror serves TODAY. Adding a field
+now on (it is a SCRAPED field), but a refresh re-fetches all 170 chapter pages from
+oregon.public.law and rewrites every row from what that mirror serves TODAY. 170, not 189
+(#279): 189 is `len(organizations)`, this registry's total ROW count — a body sits in the
+registry because it EXISTS, not because it issues rules (CONTEXT.md), so 19 of those rows
+carry no `oar_chapter` and are never fetched. The 170 is `chapter_census()`'s count of rows
+that do, printed on every `catalog_agencies.py --check` run and checked against THIS
+sentence by that command's own `chapter-page-count-current` rule — so this figure cannot
+drift the way it did the first time without `--check` failing. Adding a field
 to committed data is not a reason to re-open what every other field says, and the diff of
 "one new key per row" is one a human can read. This script therefore reads and writes only
 `oar_name`, from the `name` already committed for that row.

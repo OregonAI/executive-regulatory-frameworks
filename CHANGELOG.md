@@ -11,6 +11,61 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-08-28 — **170 vs 189: `expand_oar_name.py` and `record_name_basis.py` still said a
+  full `--refresh` re-fetches 189 chapter pages** (#279). `CHANGELOG.md` and
+  `catalog_agreement.py` already said 170 — measured, not copied forward: **170 is
+  `sum(1 for o in orgs if o.get("oar_chapter"))` over the committed `agencies.yml`, and
+  the OAR catalog's own 170 `chapters` (`_meta/catalog/oar.yml`) is the SAME 170 chapter
+  numbers, set-equal, measured directly rather than assumed**. 189 is `len(organizations)`,
+  this registry's total row count; 19 of those rows carry no `oar_chapter` (a body sits in
+  the registry because it EXISTS, not because it issues rules — CONTEXT.md) and are never
+  fetched by a refresh. Re-derived from first principles rather than trusting either
+  figure, because the ticket's own premise needed correcting too: OARD's `ruleSearch.action`
+  dropdown lists 181 chapters — not the 362 #270 quoted for that same dropdown, which
+  counted raw `<option>` tags rather than chapters; OARD prints two identical `<select>`
+  elements (`catalog_oar.py`'s own `chapter_id_map()` fixture, measured 2026-08-27), so 362
+  raw options over 181 chapters is 2 per chapter, and `chapter_id_map()`'s dict
+  comprehension dedupes them to one entry per chapter — reconciled here (code review of
+  #279), not merely noted as a coincidence: `CHAPTER_OPTION_RE.findall()` returns 2 matches
+  per chapter over that exact fixture, collapsing to 1 in the resulting map, so 181 is
+  `len(id_map)` (`catalog_oar.py:616`'s `ChapterNotListed(ch, len(id_map))`) and is the
+  correct chapter count either way. 181 sounded like a candidate for "the real number"
+  — but that dropdown is a fact about a THIRD thing (`catalog_oar.py`'s discovery source,
+  OARD itself, since #283) and has no bearing on what `catalog_agencies.py --refresh`
+  fetches, which still scrapes `oregon.public.law` (a 2026-07-19 decision, unchanged by
+  #283 — the two catalogs serve different jobs and #283 only moved rule-content discovery).
+  **The harder question — should a count like this live in prose at all (#219's shape,
+  four files over)** — answered *no* for these two files: `check_registry()` gains
+  `chapter-page-count-current`, reading the real text of both scripts (injected as a
+  parameter, defaulting to the real files, the same shape `refresh_note` already uses) and
+  refusing either a stale count or a rewording that drops the checked phrase entirely; the
+  live figure is now also `chapter_census()`, printed by `--check` on every run beside the
+  other censuses (`authority_census`, `name_census`) rather than pinned into two scripts'
+  docstrings to go stale independently again. `CHANGELOG.md`'s own 170 (a dated historical
+  entry, like the rest of this file) and `catalog_agreement.py`'s printed count (already
+  computed live, `len(cat.get('chapters', []))`, never hardcoded) needed no change.
+  `--selftest` grew from 74 to 75 demonstrations (three assertions under one:
+  `chapter-page-count-current` stays quiet on a true count, fires on a stale one, and fires
+  when the checked phrase is dropped entirely). Found and NOT fixed here, opened as
+  #299: the same docstring in `record_name_basis.py` carries two more stale counts (189
+  vs. the measured 185 `unverified-oar-title` rows; 107 vs. the measured 113 rows carrying
+  a reviewed enabling authority) — a different pair of fields, outside this ticket's own
+  acceptance criteria.
+
+  Gates, all re-run on this change:
+
+      python3 src/catalog_agencies.py --check     -> chapter pages: 170 of 189 row(s)
+                                                       carry oar_chapter (19 chapterless)
+      python3 src/catalog_agencies.py --selftest  -> 75 violation(s) demonstrated failing,
+                                                       18 name resolution(s) proven
+      python3 src/catalog_oar.py --selftest        -> selftest OK (unchanged)
+      python3 src/catalog_agreement.py --selftest  -> 3 rule(s) declared, every one watched
+                                                       firing; 2 guard(s) held (unchanged)
+      python3 src/catalog_agreement.py --check     -> 170 chapter(s), 42,615 rule row(s)
+                                                       (unchanged)
+      python3 src/shard_generated_views.py --check -> manifest and workflow agree: 68
+                                                       gate(s) across 5 shard(s) (no gate
+                                                       added or renamed)
 - 2026-08-28 — **A two-axis review of #268's own split found the fix strands every PR on a
   check that cannot report — the exact failure #268 exists to end.** Shards 1-4 lost the
   `corpus-toolkit` checkout and install that the pre-split job ran before every gate (only
