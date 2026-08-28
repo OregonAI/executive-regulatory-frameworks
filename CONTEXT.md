@@ -376,8 +376,11 @@ kind decided by a statute. TWO STRENGTHS, which may never be collapsed into one:
 `reviewed-enabling-authority` is the basis ADR 0004 describes — the authority the row itself
 carries, hand-reviewed — and `proposed-enabling-authority` is a CANDIDATE from
 `_meta/catalog/enabling-authority-review.yml` that nobody has read, which is a proposal and
-not evidence. 44 of the 81 kinds rest on the second today, and the row upgrades visibly when
-the review lands. A kind other than *undetermined* with no basis is refused, for the reason
+not evidence. The split between the two moves every time a review lands, so it is
+`relation_census()`'s live count, printed by `catalog_agencies.py --check` on every run,
+rather than a figure pinned in this glossary entry to go stale the next time it moves; the
+row upgrades visibly when the review lands. A kind other than *undetermined* with no basis
+is refused, for the reason
 `manual: true` was retired: an assertion records that someone decided, never what decided
 it. It is written by one thing, `src/derive_relation_kinds.py`.
 _Avoid_: Evidence, provenance, reason — a basis says what a KIND was derived from, and

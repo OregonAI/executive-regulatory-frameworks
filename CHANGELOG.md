@@ -11,6 +11,69 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-08-28 — **`AGENTS.md` and `CONTEXT.md` said all 44 decided relation kinds rest on
+  `proposed-enabling-authority`, the CANDIDATE basis "nobody has read"; `--check` measures
+  the opposite majority** (#277). Re-measured rather than trusted the ticket's own figures,
+  per this branch's standing rule that a number in a filing is a lead and not a fact:
+  `python3 src/catalog_agencies.py --check` on this branch reports "the 44 decided kind(s)
+  rest on: 3 proposed-enabling-authority, 41 reviewed-enabling-authority" — the ticket's
+  own re-measurement confirmed, not superseded. 44 is the correct count of DECIDED kinds
+  (`kinds: 37 undetermined, 0 part_of, 44 administered_by`, also unchanged), but both
+  documents attached it to the wrong half of the proposed/reviewed split: `AGENTS.md:482`
+  said "All 44 rest on `proposed-enabling-authority`"; `CONTEXT.md`'s **Relation basis**
+  entry said "44 of the 81 kinds rest on the second today" (the second = `proposed-
+  enabling-authority`, the weaker, unread basis). Both understated the registry's own
+  quality: a reader trusting either sentence would conclude 44 of 44 decided kinds are
+  still waiting on review, when 41 have already cleared it — the inverse of #219's shape
+  (that ticket's claim understated coverage too, in the same direction), but the third time
+  this branch has found a hand-typed count going stale in prose (#219, #279, now this).
+
+  Followed #219's own precedent exactly rather than re-deriving it: reworded both sites to
+  drop the number rather than update it to today's, pointing at `relation_census()` — already
+  live, already printed by `catalog_agencies.py --check` on every run — as the one place the
+  split is counted, instead of adding a third hand-maintained copy for a future review to
+  leave behind. Swept the same shape into `src/derive_relation_kinds.py`'s module docstring
+  in the same pass (found while reading it, not part of the ticket's own two named sites):
+  its "so 44 of the 81 children become `administered_by`. The other 37 stay `undetermined`"
+  and, twenty lines later, "37 undetermined rows are the correct answer" carried the same
+  present-tense count-in-prose risk one level down, in the module CONTEXT.md itself names as
+  the field's only writer; both are now number-free, pointing at the same `relation_census()`.
+  Left alone: `docs/adr/0004`'s own "so 44 of the 81 children become `administered_by`" (its
+  Amendment section, 2026-08-21) and `CHANGELOG.md`'s existing 2026-08-21 entry for #173 —
+  both read as dated decision/history narrative describing the state that motivated a
+  decision already made, the same register as this file's own dated entries, which this
+  repo does not rewrite for later data drift (#219's own stated distinction, applied here
+  rather than re-litigated).
+
+  **No new `check_registry()` or `derive_relation_kinds.py --check` rule.** Nothing in this
+  tree parses `AGENTS.md`, `CONTEXT.md`, or a Python module docstring the way
+  `note-covers-fields` (#185) parses the registry's own committed YAML — there is no seam a
+  gate could attach to without building a markdown/docstring scanner from nothing to watch
+  three sentences, and the split isn't a bounded invariant to assert (a review landing can
+  move it in either direction on the census, not toward a fixed target `--check` could
+  compare against). Removing the hand-typed number is the durable fix available today: with
+  no digit left in the prose, there is no fact left to drift, and the next reader is pointed
+  at the one live count rather than asked to trust a pinned one.
+
+  Gates, all re-run on this change:
+
+      python3 src/catalog_agencies.py --check         -> unchanged census, including
+                                                           "the 44 decided kind(s) rest on:
+                                                           3 proposed-enabling-authority,
+                                                           41 reviewed-enabling-authority"
+      python3 src/catalog_agencies.py --selftest       -> 76 violation(s) demonstrated
+                                                           failing, 18 name resolution(s)
+                                                           proven (unchanged — no rule added)
+      python3 src/derive_relation_kinds.py --check     -> unchanged: 44 of 81 derived, 37
+                                                           undetermined, 3 proposed / 41
+                                                           reviewed
+      python3 src/derive_relation_kinds.py --selftest  -> 6 violation(s) demonstrated
+                                                           failing, 4 derivation proof(s)
+                                                           held (unchanged)
+      python3 src/shard_generated_views.py --check     -> manifest and workflow agree: 68
+                                                           gate(s) across 5 shard(s) (no gate
+                                                           added or renamed)
+
 - 2026-08-28 — **AC4 of #185 ("the note is not regenerated wholesale on every write")
   closed as out of scope, not implemented** (#278). #278 was filed on the theory that the
   registry's own top-level `note` (`agencies.yml`, the prose above `organizations`) might

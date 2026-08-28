@@ -475,15 +475,18 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   `parent_chapter` survives as a different fact (the parent's OAR chapter, scraped from the
   same tree) and `parent-agrees` states that it may not disagree with the body the relations
   name. THE KIND IS DERIVED AND NEVER GUESSED, by `python3
-  src/derive_relation_kinds.py --apply`, its single writer: 44 of the 81 record
-  `administered_by` and 37 record `undetermined`. Every derived kind also records the
+  src/derive_relation_kinds.py --apply`, its single writer, into `administered_by` or
+  `undetermined` — never `part_of` (ADR 0004). Every derived kind also records the
   `basis` it came from, which is NOT the same fact as the source — the source says who
   places the body there, the basis says what settled the kind — and the two bases are
-  different strengths. All 44 rest on `proposed-enabling-authority`, a candidate in the
-  review sheet that NOBODY HAS READ, and upgrade to `reviewed-enabling-authority` when the
-  review lands (ADR 0004's amendment records that deviation). NO kind is derived from the
-  ABSENCE of a candidate: the 37 stay `undetermined` because a matcher finding nothing is a
-  statement about the matcher, and that list has already been wrong for 55 bodies. `--check`
+  different strengths: `proposed-enabling-authority`, a candidate in the review sheet that
+  NOBODY HAS READ, or `reviewed-enabling-authority`, once the review lands (ADR 0004's
+  amendment records that deviation). The split between kinds and the split between bases
+  both move as scrapes and reviews land, so neither is pinned here — `relation_census()`
+  prints both live, on every `catalog_agencies.py --check` run, rather than a figure this
+  guide would leave to go stale. NO kind is derived from the ABSENCE of a candidate: the
+  rest stay `undetermined` because a matcher finding nothing is a statement about the
+  matcher, and that list has already been wrong for 55 bodies. `--check`
   REPORTS the census — kinds, sources and bases, zeroes included — on every run, refuses a
   kind with no basis, an `administered_by` citing no authority, a `part_of` relation that
   cites one, and a `part_of` row carrying an enabling authority of its own;
