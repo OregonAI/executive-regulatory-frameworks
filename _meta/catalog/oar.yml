@@ -14963,13 +14963,14 @@ chapters:
       path: rules/161/015/oar-161-015-0090.md
   - division: '20'
     title: EDUCATIONAL COURSES, REQUIREMENTS AND PROVIDERS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 161-020-0005
       status: ingested
       path: rules/161/020/oar-161-020-0005.md
     - number: 161-020-0006
-      status: not_ingested
+      status: ingested
+      path: rules/161/020/oar-161-020-0006.md
     - number: 161-020-0015
       status: ingested
       path: rules/161/020/oar-161-020-0015.md
@@ -14986,7 +14987,8 @@ chapters:
       status: ingested
       path: rules/161/020/oar-161-020-0055.md
     - number: 161-020-0061
-      status: not_ingested
+      status: ingested
+      path: rules/161/020/oar-161-020-0061.md
     - number: 161-020-0065
       status: ingested
       path: rules/161/020/oar-161-020-0065.md
@@ -15014,7 +15016,8 @@ chapters:
       status: ingested
       path: rules/161/020/oar-161-020-0150.md
     - number: 161-020-0160
-      status: not_ingested
+      status: ingested
+      path: rules/161/020/oar-161-020-0160.md
   - division: '25'
     title: SCOPE OF PRACTICE AND PROCEDURES
     status: ingested
@@ -15085,10 +15088,11 @@ chapters:
       path: rules/161/500/oar-161-500-0000.md
   - division: '510'
     title: FEES
-    status: not_ingested
+    status: ingested
     rules:
     - number: 161-510-0010
-      status: not_ingested
+      status: ingested
+      path: rules/161/510/oar-161-510-0010.md
   - division: '520'
     title: REGISTRATION REQUIREMENTS
     status: ingested
@@ -21649,7 +21653,7 @@ chapters:
       path: rules/257/001/oar-257-001-0025.md
   - division: '10'
     title: OREGON CRIMINAL OFFENDER INFORMATION SYSTEM
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 257-010-0010
       status: ingested
@@ -21671,7 +21675,8 @@ chapters:
       status: ingested
       path: rules/257/010/oar-257-010-0035.md
     - number: 257-010-0041
-      status: not_ingested
+      status: ingested
+      path: rules/257/010/oar-257-010-0041.md
     - number: 257-010-0045
       status: ingested
       path: rules/257/010/oar-257-010-0045.md
@@ -21685,7 +21690,8 @@ chapters:
       status: ingested
       path: rules/257/010/oar-257-010-0060.md
     - number: 257-010-0065
-      status: not_ingested
+      status: ingested
+      path: rules/257/010/oar-257-010-0065.md
   - division: '15'
     title: LAW ENFORCEMENT DATA SYSTEM (LEDS)
     status: ingested
@@ -22042,7 +22048,7 @@ chapters:
       path: rules/257/095/oar-257-095-0100.md
   - division: '100'
     title: IGNITION INTERLOCK DEVICE PROGRAM
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 257-100-0005
       status: ingested
@@ -22093,7 +22099,8 @@ chapters:
       status: ingested
       path: rules/257/100/oar-257-100-0080.md
     - number: 257-100-0085
-      status: not_ingested
+      status: ingested
+      path: rules/257/100/oar-257-100-0085.md
   discovered: '2026-08-27'
 - chapter: '259'
   title: Department of Public Safety Standards and Training
@@ -42012,7 +42019,7 @@ chapters:
       path: rules/339/005/oar-339-005-0000.md
   - division: '10'
     title: IMPLEMENTATION AND ADMINISTRATION OF THE OCCUPATIONAL THERAPY PRACTICE ACT
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 339-010-0005
       status: ingested
@@ -42066,7 +42073,8 @@ chapters:
       status: ingested
       path: rules/339/010/oar-339-010-0045.md
     - number: 339-010-0047
-      status: not_ingested
+      status: ingested
+      path: rules/339/010/oar-339-010-0047.md
     - number: 339-010-0050
       status: ingested
       path: rules/339/010/oar-339-010-0050.md
@@ -42074,9 +42082,11 @@ chapters:
       status: ingested
       path: rules/339/010/oar-339-010-0055.md
     - number: 339-010-0057
-      status: not_ingested
+      status: ingested
+      path: rules/339/010/oar-339-010-0057.md
     - number: 339-010-0058
-      status: not_ingested
+      status: ingested
+      path: rules/339/010/oar-339-010-0058.md
   - division: '20'
     title: CONTINUING EDUCATION
     status: ingested
@@ -102109,7 +102119,7 @@ chapters:
       path: rules/668/030/oar-668-030-0040.md
   - division: '40'
     title: REIMBURSEMENT OF EXPENSES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 668-040-0010
       status: ingested
@@ -102121,15 +102131,20 @@ chapters:
       status: ingested
       path: rules/668/040/oar-668-040-0030.md
     - number: 668-040-0100
-      status: not_ingested
+      status: ingested
+      path: rules/668/040/oar-668-040-0100.md
     - number: 668-040-0110
-      status: not_ingested
+      status: ingested
+      path: rules/668/040/oar-668-040-0110.md
     - number: 668-040-0120
-      status: not_ingested
+      status: ingested
+      path: rules/668/040/oar-668-040-0120.md
     - number: 668-040-0130
-      status: not_ingested
+      status: ingested
+      path: rules/668/040/oar-668-040-0130.md
     - number: 668-040-0140
-      status: not_ingested
+      status: ingested
+      path: rules/668/040/oar-668-040-0140.md
   discovered: '2026-08-27'
 - chapter: '669'
   title: Department of Agriculture, Oregon Sweet Cherry Commission
@@ -102267,7 +102282,7 @@ chapters:
       path: rules/670/010/oar-670-010-0025.md
   - division: '20'
     title: RATES FOR COMMISSIONER PER DIEM AND REIMBURSEMENT
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 670-020-0010
       status: ingested
@@ -102282,15 +102297,20 @@ chapters:
       path: rules/670/020/oar-670-020-0030.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 670-020-0100
-      status: not_ingested
+      status: ingested
+      path: rules/670/020/oar-670-020-0100.md
     - number: 670-020-0110
-      status: not_ingested
+      status: ingested
+      path: rules/670/020/oar-670-020-0110.md
     - number: 670-020-0120
-      status: not_ingested
+      status: ingested
+      path: rules/670/020/oar-670-020-0120.md
     - number: 670-020-0130
-      status: not_ingested
+      status: ingested
+      path: rules/670/020/oar-670-020-0130.md
     - number: 670-020-0140
-      status: not_ingested
+      status: ingested
+      path: rules/670/020/oar-670-020-0140.md
   - division: '30'
     title: COMMISSION MAKE-UP, TERMS, QUALIFICATIONS, TERM LIMITS, REMOVAL FROM OFFICE
     status: ingested
@@ -102429,18 +102449,23 @@ chapters:
       path: rules/678/030/oar-678-030-0030.md
   - division: '40'
     title: COMMISSION PER DIEM COMPENSATION AND EXPENSE REIMBURSEMENT
-    status: not_ingested
+    status: ingested
     rules:
     - number: 678-040-0100
-      status: not_ingested
+      status: ingested
+      path: rules/678/040/oar-678-040-0100.md
     - number: 678-040-0110
-      status: not_ingested
+      status: ingested
+      path: rules/678/040/oar-678-040-0110.md
     - number: 678-040-0120
-      status: not_ingested
+      status: ingested
+      path: rules/678/040/oar-678-040-0120.md
     - number: 678-040-0130
-      status: not_ingested
+      status: ingested
+      path: rules/678/040/oar-678-040-0130.md
     - number: 678-040-0140
-      status: not_ingested
+      status: ingested
+      path: rules/678/040/oar-678-040-0140.md
   discovered: '2026-08-27'
 - chapter: '690'
   title: Water Resources Department
@@ -133332,10 +133357,11 @@ chapters:
       path: rules/848/005/oar-848-005-0030.md
   - division: '10'
     title: LICENSED PHYSICAL THERAPISTS AND LICENSED PHYSICAL THERAPIST ASSISTANTS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 848-010-0005
-      status: not_ingested
+      status: ingested
+      path: rules/848/010/oar-848-010-0005.md
     - number: 848-010-0010
       status: ingested
       path: rules/848/010/oar-848-010-0010.md
@@ -133355,7 +133381,8 @@ chapters:
       status: ingested
       path: rules/848/010/oar-848-010-0027.md
     - number: 848-010-0028
-      status: not_ingested
+      status: ingested
+      path: rules/848/010/oar-848-010-0028.md
     - number: 848-010-0033
       status: ingested
       path: rules/848/010/oar-848-010-0033.md
@@ -133421,7 +133448,7 @@ chapters:
       path: rules/848/035/oar-848-035-0040.md
   - division: '40'
     title: MINIMUM STANDARDS FOR PHYSICAL THERAPY PRACTICE AND RECORDS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 848-040-0100
       status: ingested
@@ -133430,7 +133457,8 @@ chapters:
       status: ingested
       path: rules/848/040/oar-848-040-0105.md
     - number: 848-040-0107
-      status: not_ingested
+      status: ingested
+      path: rules/848/040/oar-848-040-0107.md
     - number: 848-040-0110
       status: ingested
       path: rules/848/040/oar-848-040-0110.md
@@ -133494,8 +133522,7 @@ chapters:
       path: rules/848/045/oar-848-045-0020.md
     - number: 848-045-0030
       status: not_served
-      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
-        listing — history, kept, ADR 0006 #270)'
+      note: OARD page contains no rule number (rule likely repealed)
   - division: '55'
     title: COMPACT COMMISSION RULES
     status: ingested
@@ -136844,7 +136871,7 @@ chapters:
       path: rules/856/010/oar-856-010-0007.md
   - division: '15'
     title: Training and Licensing
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 856-015-0001
       status: ingested
@@ -136886,7 +136913,8 @@ chapters:
       status: ingested
       path: rules/856/015/oar-856-015-0035.md
     - number: 856-015-0036
-      status: not_ingested
+      status: ingested
+      path: rules/856/015/oar-856-015-0036.md
     - number: 856-015-0037
       status: ingested
       path: rules/856/015/oar-856-015-0037.md
@@ -136904,7 +136932,7 @@ chapters:
       path: rules/856/015/oar-856-015-0055.md
   - division: '16'
     title: License Renewal
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 856-016-0001
       status: ingested
@@ -136913,7 +136941,8 @@ chapters:
       status: ingested
       path: rules/856/016/oar-856-016-0010.md
     - number: 856-016-0020
-      status: not_ingested
+      status: ingested
+      path: rules/856/016/oar-856-016-0020.md
   - division: '19'
     title: Incidents, Complaints and Discipline
     status: ingested
@@ -136944,13 +136973,14 @@ chapters:
       path: rules/856/019/oar-856-019-0060.md
   - division: '25'
     title: Miscellaneous
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 856-025-0001
       status: ingested
       path: rules/856/025/oar-856-025-0001.md
     - number: 856-025-0005
-      status: not_ingested
+      status: ingested
+      path: rules/856/025/oar-856-025-0005.md
     - number: 856-025-0010
       status: ingested
       path: rules/856/025/oar-856-025-0010.md
@@ -145361,16 +145391,20 @@ chapters:
       path: rules/951/007/oar-951-007-0020.md
   - division: '8'
     title: OREGON PRODUCTION INVESTMENT FUND CREATIVE OPPORTUNITY PROGRAM
-    status: not_ingested
+    status: ingested
     rules:
     - number: 951-008-0000
-      status: not_ingested
+      status: ingested
+      path: rules/951/008/oar-951-008-0000.md
     - number: 951-008-0001
-      status: not_ingested
+      status: ingested
+      path: rules/951/008/oar-951-008-0001.md
     - number: 951-008-0005
-      status: not_ingested
+      status: ingested
+      path: rules/951/008/oar-951-008-0005.md
     - number: 951-008-0010
-      status: not_ingested
+      status: ingested
+      path: rules/951/008/oar-951-008-0010.md
   discovered: '2026-08-27'
 - chapter: '952'
   title: Oregon Utility Notification Center
@@ -145522,7 +145556,7 @@ chapters:
       path: rules/972/030/oar-972-030-0040.md
   - division: '40'
     title: COMMISSIONER PER DIEM AND REIMBURSEMENTS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 972-040-0000
       status: ingested
@@ -145537,15 +145571,20 @@ chapters:
       path: rules/972/040/oar-972-040-0020.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 972-040-0100
-      status: not_ingested
+      status: ingested
+      path: rules/972/040/oar-972-040-0100.md
     - number: 972-040-0110
-      status: not_ingested
+      status: ingested
+      path: rules/972/040/oar-972-040-0110.md
     - number: 972-040-0120
-      status: not_ingested
+      status: ingested
+      path: rules/972/040/oar-972-040-0120.md
     - number: 972-040-0130
-      status: not_ingested
+      status: ingested
+      path: rules/972/040/oar-972-040-0130.md
     - number: 972-040-0140
-      status: not_ingested
+      status: ingested
+      path: rules/972/040/oar-972-040-0140.md
   discovered: '2026-08-27'
 - chapter: '976'
   title: Oregon Tourism Commission
