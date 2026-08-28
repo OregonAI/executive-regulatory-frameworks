@@ -21,7 +21,15 @@ corpus-wide changes from 2026-08-02 forward.
   the registry because it EXISTS, not because it issues rules — CONTEXT.md) and are never
   fetched by a refresh. Re-derived from first principles rather than trusting either
   figure, because the ticket's own premise needed correcting too: OARD's `ruleSearch.action`
-  dropdown lists 181 chapters (#270), which sounded like a candidate for "the real number"
+  dropdown lists 181 chapters — not the 362 #270 quoted for that same dropdown, which
+  counted raw `<option>` tags rather than chapters; OARD prints two identical `<select>`
+  elements (`catalog_oar.py`'s own `chapter_id_map()` fixture, measured 2026-08-27), so 362
+  raw options over 181 chapters is 2 per chapter, and `chapter_id_map()`'s dict
+  comprehension dedupes them to one entry per chapter — reconciled here (code review of
+  #279), not merely noted as a coincidence: `CHAPTER_OPTION_RE.findall()` returns 2 matches
+  per chapter over that exact fixture, collapsing to 1 in the resulting map, so 181 is
+  `len(id_map)` (`catalog_oar.py:616`'s `ChapterNotListed(ch, len(id_map))`) and is the
+  correct chapter count either way. 181 sounded like a candidate for "the real number"
   — but that dropdown is a fact about a THIRD thing (`catalog_oar.py`'s discovery source,
   OARD itself, since #283) and has no bearing on what `catalog_agencies.py --refresh`
   fetches, which still scrapes `oregon.public.law` (a 2026-07-19 decision, unchanged by

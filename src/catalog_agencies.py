@@ -320,7 +320,22 @@ CHAPTER_PAGE_COUNT_RE = re.compile(r"re-fetches (?:all )?([\d,]+) chapter pages"
 
 
 def _default_chapter_page_docs():
-    return {str(p): p.read_text() for p in CHAPTER_PAGE_DOC_FILES}
+    """{path: text} for `CHAPTER_PAGE_DOC_FILES`, `None` in place of the text for a file
+    that could not be read (code review of #279: a bare `p.read_text()` here let a missing
+    file crash `--check` with an uncaught `FileNotFoundError` instead of a `Failure` line —
+    both files it reads are, by their own docstrings, one-shot migration scripts a future
+    cleanup may delete). Every other unreadable input in this module is REPORTED, not
+    raised: `cmd_check()` guards `CATALOG.exists()` for `readable-registry` and
+    `check_registry()` has `readable-row` for the same reason. `check_registry()` turns a
+    `None` here into a `chapter-page-count-current` failure naming the file, keeping the
+    failure inside the contract instead of outside it."""
+    docs = {}
+    for p in CHAPTER_PAGE_DOC_FILES:
+        try:
+            docs[str(p)] = p.read_text()
+        except OSError:
+            docs[str(p)] = None
+    return docs
 
 
 REGISTRY_NOTE = (
@@ -973,6 +988,18 @@ def tally(counts, allowed) -> str:
     return ", ".join(f"{counts.get(k, 0)} {k}" for k in named)
 
 
+def chaptered_rows(orgs) -> int:
+    """How many of the registry's rows carry `oar_chapter` — the chapter pages a full
+    --refresh fetches over the network. THE ONE PLACE THIS IS COUNTED (code review of
+    #279): `chapter_census()` (the figure --check PRINTS) and `check_registry()`'s
+    `chapter-page-count-current` rule (the figure it ENFORCES) each wrote this same
+    `sum(1 for o in orgs if o.get("oar_chapter"))` out separately, in the one change whose
+    entire subject was two copies of one fact drifting apart (189 vs 170, #279) — the fix
+    itself shipped a second copy of the expression that counts it. Extracted so the two
+    call sites can never again disagree about what counts as a fetched chapter."""
+    return sum(1 for o in orgs if isinstance(o, dict) and o.get("oar_chapter"))
+
+
 def chapter_census(orgs) -> str:
     """How many of the registry's rows carry `oar_chapter` — the chapter pages a full
     --refresh fetches over the network — counted over rows and printed by --check on every
@@ -985,7 +1012,7 @@ def chapter_census(orgs) -> str:
     both drifted to quoting 189 for a quantity that is actually smaller. This is that
     quantity, computed from the file on every run rather than pinned into either script's
     prose to go stale the next time a row is added or a chapter goes chapterless."""
-    chaptered = sum(1 for o in orgs if isinstance(o, dict) and o.get("oar_chapter"))
+    chaptered = chaptered_rows(orgs)
     return f"{chaptered} of {len(orgs)} row(s) carry oar_chapter ({len(orgs) - chaptered} chapterless)"
 
 
@@ -2090,16 +2117,28 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
     # from the FILE rather than trusted from either script, the same reason
     # `authority_census` reads the rows and not the table that writes them: on any failure
     # path the two disagree, and a check that read the docstring's own idea of the number
-    # would report the claim as evidence for itself.
-    chaptered = sum(1 for o in orgs if isinstance(o, dict) and o.get("oar_chapter"))
+    # would report the claim as evidence for itself. `chaptered_rows()` is the ONLY place
+    # that sum is written (code review of #279: this rule and `chapter_census()` — the
+    # figure printed beside it on every --check run — each wrote it out separately at
+    # first, two copies of one fact in a change about two copies of one fact disagreeing).
+    chaptered = chaptered_rows(orgs)
     for doc_name, doc_text in chapter_page_docs.items():
-        m = CHAPTER_PAGE_COUNT_RE.search(doc_text or "")
+        if doc_text is None:
+            failures.append(Failure(
+                "chapter-page-count-current", doc_name,
+                "could not be read (missing or unreadable), so no chapter-page count "
+                "could be checked against it — restore the file, or update "
+                "CHAPTER_PAGE_DOC_FILES in the same change if it was deliberately removed"))
+            continue
+        m = CHAPTER_PAGE_COUNT_RE.search(doc_text)
         if not m:
             failures.append(Failure(
                 "chapter-page-count-current", doc_name,
                 "does not state, in the phrase this check looks for ('re-fetches ... N "
                 "chapter pages'), how many chapter pages a --refresh fetches — reword "
-                "within that shape or update CHAPTER_PAGE_COUNT_RE in the same change"))
+                "within that shape, keeping the count and the words 'chapter pages' on "
+                "one line (CHAPTER_PAGE_COUNT_RE cannot match across a wrap), or update "
+                "CHAPTER_PAGE_COUNT_RE in the same change"))
             continue
         stated = int(m.group(1).replace(",", ""))
         if stated != chaptered:
@@ -3745,10 +3784,11 @@ def _proof_chapter_page_count_check_fires_on_a_stale_docstring() -> int:
     not) with synthetic doc text, not the real files, so this proves the RULE fires rather
     than that today's committed text happens to pass it.
 
-    Three demonstrations: the rule stays quiet on text stating the true count, fires on
-    text stating a stale one, and fires on text that dropped the phrase it looks for
+    Four demonstrations: the rule stays quiet on text stating the true count, fires on
+    text stating a stale one, fires on text that dropped the phrase it looks for
     entirely — a rewording that stopped saying anything checkable is exactly as wrong as a
-    rewording that started saying something false."""
+    rewording that started saying something false — and fires when the doc could not be
+    read at all (code review of #279)."""
     bad = 0
     cat = _fixture()
     rule = "chapter-page-count-current"
@@ -3772,6 +3812,19 @@ def _proof_chapter_page_count_check_fires_on_a_stale_docstring() -> int:
     if not any(f.rule == rule for f in failures):
         print(f"FAIL {rule}-fires-on-missing-phrase: did not fire when the checked "
               "phrase was absent entirely", file=sys.stderr)
+        bad += 1
+
+    # Code review of #279: `_default_chapter_page_docs()` used to hand `check_registry()`
+    # a bare `p.read_text()` result, so a missing or unreadable file crashed `--check` with
+    # an uncaught FileNotFoundError instead of a Failure line — the two migration scripts
+    # it reads are exactly the kind of file a future cleanup deletes. `None` in place of a
+    # file's text is how a caller now reports "could not read this", the same shape
+    # `readable-row` reports an unreadable registry row.
+    unreadable = {"a.py": None}
+    failures = check_registry(cat, refresh_note=cat["note"], chapter_page_docs=unreadable)
+    if not any(f.rule == rule for f in failures):
+        print(f"FAIL {rule}-fires-on-unreadable-file: did not fire when the doc text "
+              "was None (an unreadable file)", file=sys.stderr)
         bad += 1
     return bad
 
@@ -4019,7 +4072,14 @@ def _proof_search_spans_every_name_a_body_is_known_by():
 def selftest() -> int:
     bad = 0
     for name, declaration, rule in _PROOFS:
-        failures = check_registry(_fixture(), fields=declaration)
+        # `chapter_page_docs` fixed to the synthetic `_FIXTURE_CHAPTER_PAGE_DOCS` (code
+        # review of #279), the same reason the `_CASES` loop below passes it: left at the
+        # default, every one of these 15 proofs reads the two REAL scripts off disk and
+        # compares their real count against the fixture's — spurious noise in the `got
+        # {failures}` diagnostic this loop prints on an actual failure, and the opposite
+        # of the reason this parameter was extracted in the first place.
+        failures = check_registry(_fixture(), fields=declaration,
+                                  chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS)
         if not any(f.rule == rule for f in failures):
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
