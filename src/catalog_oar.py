@@ -48,6 +48,18 @@ the next run resolves it fresh. That window is real and stated rather than hidde
 the same tradeoff the id map itself already accepts by resolving fresh per run instead of
 per click, extended to the field a reader actually follows.
 
+WEIGHED AGAINST THE TICKET'S OTHER HONEST OPTION -- store the chapter NUMBER only and
+resolve `url` at read time -- and rejected for now, not on principle: that option closes
+the window this one leaves open, at the cost of a live network fetch (a full re-walk of
+`ruleSearch.action`'s dropdown, the same request this module already makes once per
+`--discover` run) at every point of use instead of once per run. No in-repo consumer reads
+this field today (module docstring, above) — `--discover`'s own summary print is the only
+reader that exists — so there is no call site yet to carry that cost, and building one to
+close a window nothing has walked into would be solving a problem this repo does not have
+one of. Should a consumer appear that clicks this field between `--discover` runs, this is
+the tradeoff to revisit, not re-litigate: the two options were never a question of which
+is more correct, only of where the volatility is cheapest to carry today.
+
 MERGE, NEVER REPLACE: OARD's chapter listing is a CURRENT rules view, so a
 rule already in this catalog and absent from it is history (a renumber or a
 repeal), not gone — and this corpus keeps history because deleting a document
@@ -209,9 +221,15 @@ def refresh_chapter_urls(cat: dict, id_map: dict) -> int:
     treating chapter 125's own NUMBER as if it belonged in the id slot --
     `displayChapterRules.action?selectedChapter=125` -- served chapter 661, because 125 is
     what OARD's dropdown assigns as the ID of a wholly different chapter, not what it
-    accepts as a chapter number. `?chapterNumber=125` / `?selectedChapterNumber=125` /
-    `?chapter=125` are all silently ignored, byte-identical to the error page a request
-    with no parameter at all gets. The
+    accepts as a chapter number. `?chapterNumber=125` and `?selectedChapterNumber=125` are
+    silently ignored, byte-identical (5,505 bytes, sha256 9f5b802449bd...) to the error
+    page a request with no parameter at all gets, which itself carries an explicit
+    `<div class="errors">...Error retrieving chapter and current rules.</div>`.
+    `?chapter=125` is ALSO ignored but not identically -- a shorter, different page (5,320
+    bytes, sha256 9fe7ee537c27...) that silently drops that error block rather than
+    reproducing it, so this one fails more quietly than the other two, not the same way.
+    None of the three route to a chapter by number regardless, so the distinction changes
+    nothing about the fix: the
     id is the only key `displayChapterRules.action` accepts, so re-resolving it every run
     -- rather than deriving a URL from the chapter number, which OARD gives this corpus no
     way to do -- is the fix: a stale id is refreshed, not carried.
@@ -222,7 +240,8 @@ def refresh_chapter_urls(cat: dict, id_map: dict) -> int:
     OARD's dropdown, so it never held a `selectedChapter` url and there is nothing here to
     re-resolve it against) is left exactly as it is, same as `ChapterNotListed` already
     treats it elsewhere in this module. Returns how many rows' `url` actually changed, so a
-    caller can report it rather than silently rewrite 170 rows to say the same thing."""
+    caller can report it rather than silently rewrite all 169 mapped rows to say the same
+    thing (170 catalogued chapters, minus 624, the one `id_map` never carries)."""
     changed = 0
     for c in cat.get("chapters", []):
         chapter_id = id_map.get(c["chapter"])
@@ -548,21 +567,33 @@ def registry_chapters(reg: dict) -> list:
     return chapters
 
 
-def cmd_discover(only: list):
-    reg = yaml.safe_load(REGISTRY.read_text())
-    chapters = registry_chapters(reg)
-    if only:
-        chapters = [c for c in chapters if c[0] in only]
-    cat = load_catalog()
+def run_discovery(chapters: list, cat: dict, id_map: dict, only: list,
+                   discover_fn=discover_chapter) -> dict:
+    """The assembled body of a --discover run, once `chapters` and `id_map` are already
+    resolved: the #280 url-refresh call plus the per-chapter loop, EXTRACTED from
+    `cmd_discover` (#280 follow-up) so the wiring between them is something a selftest can
+    reach without network, not only the four `refresh_chapter_urls()` calls a selftest
+    already made in isolation.
 
-    id_map = chapter_id_map(get(CHAPTER_LIST_URL))
-    time.sleep(0.2)
+    That distinction is not decorative. Sabotage-tested against this repo's own working
+    tree: deleting `n_urls_changed = refresh_chapter_urls(cat, id_map)` from what was then
+    inline in `cmd_discover` left `--selftest` printing OK, because every #280 check
+    called `refresh_chapter_urls()` directly -- proving the helper works, never that
+    `cmd_discover` actually calls it. `cmd_discover` now HAS no code path of its own that
+    could drop this call silently: it delegates the whole assembly here, so a selftest
+    against `run_discovery` is a selftest against what a real run executes, not a
+    parallel reimplementation of it that could drift from the real one the way the four
+    isolated checks did.
 
+    `discover_fn` is injectable so a caller can drive the loop without touching the
+    network at all, by supplying `chapters`/`cat` that route every chapter through the
+    already-discovered skip below (real `--discover` runs always pass the default,
+    `discover_chapter`). Returns a dict of the totals `cmd_discover` prints."""
     # RE-RESOLVED EVERY RUN, EVEN FOR A CHAPTER THIS RUN OTHERWISE SKIPS OR DOES NOT
-    # TARGET (#280): `id_map` above is a fetch of OARD's WHOLE dropdown regardless of
-    # `only`, so applying it to every catalogued row costs no extra network call and
-    # closes the gap the already-discovered skip below left open -- a chapter's `url`
-    # used to go stale the moment nobody happened to re-walk its rules page.
+    # TARGET (#280): `id_map` is a fetch of OARD's WHOLE dropdown regardless of `only`, so
+    # applying it to every catalogued row costs no extra network call and closes the gap
+    # the already-discovered skip below left open -- a chapter's `url` used to go stale
+    # the moment nobody happened to re-walk its rules page.
     n_urls_changed = refresh_chapter_urls(cat, id_map)
 
     total_d = total_da = total_r = total_new = total_claimed = skipped = 0
@@ -593,7 +624,7 @@ def cmd_discover(only: list):
             skipped += 1
             continue
         try:
-            nd, nda, nr, nn, nc = discover_chapter(ch, title, id_map[ch], cat)
+            nd, nda, nr, nn, nc = discover_fn(ch, title, id_map[ch], cat)
         except DiscoveredNothing as e:
             found_nothing.append(ch)
             print(f"NOT DISCOVERED chapter {ch}: {e} — no entry written, not marked "
@@ -625,6 +656,32 @@ def cmd_discover(only: list):
               f"{nd} divisions ({nda} new), {nr} rules ({nn} new, {nr - pre_rule_count:+d} vs "
               f"catalog{claimed_note})")
         save_catalog(cat)  # checkpoint after every chapter — resumable
+    return {
+        "n_urls_changed": n_urls_changed, "total_d": total_d, "total_da": total_da,
+        "total_r": total_r, "total_new": total_new, "total_claimed": total_claimed,
+        "skipped": skipped, "found_nothing": found_nothing, "not_listed": not_listed,
+        "failed": failed,
+    }
+
+
+def cmd_discover(only: list):
+    reg = yaml.safe_load(REGISTRY.read_text())
+    chapters = registry_chapters(reg)
+    if only:
+        chapters = [c for c in chapters if c[0] in only]
+    cat = load_catalog()
+
+    id_map = chapter_id_map(get(CHAPTER_LIST_URL))
+    time.sleep(0.2)
+
+    stats = run_discovery(chapters, cat, id_map, only)
+    n_urls_changed = stats["n_urls_changed"]
+    total_d, total_da, total_r, total_new, total_claimed, skipped = (
+        stats["total_d"], stats["total_da"], stats["total_r"], stats["total_new"],
+        stats["total_claimed"], stats["skipped"])
+    found_nothing, not_listed, failed = (
+        stats["found_nothing"], stats["not_listed"], stats["failed"])
+
     save_catalog(cat, stamp_retrieved=total_d > 0)
     print(f"\ndiscovered: {total_d} divisions ({total_da} new to the catalog), {total_r} "
           f"rules ({total_new} new added to the catalog); {skipped} chapters already "
@@ -760,10 +817,13 @@ def selftest() -> int:
     # NUMBER as if it belonged in the id slot -- `displayChapterRules.action
     # ?selectedChapter=125` -- actually serves chapter 661, because 125 is what OARD's
     # dropdown assigns as the ID of a wholly different chapter, not what it accepts as a
-    # chapter number. `?chapterNumber=125` / `?selectedChapterNumber=125` / `?chapter=125`
-    # are all silently
-    # ignored, producing the identical error page a request with no parameter at all does.
-    # So the id is the only key OARD accepts, and this catalog's answer is to keep
+    # chapter number. `?chapterNumber=125` and `?selectedChapterNumber=125` are silently
+    # ignored, producing the identical error page a request with no parameter at all does;
+    # `?chapter=125` is ALSO ignored but produces a different, shorter page that drops that
+    # page's explicit error message rather than reproducing it (measured 2026-08-28: 5,505
+    # vs 5,320 bytes) -- quieter, not identical, and beside the point either way, since none
+    # of the three route by chapter number. So the id is the only key OARD accepts, and this
+    # catalog's answer is to keep
     # RE-RESOLVING it every run rather than pretend a stored one can be trusted between runs.
     stale_cat = {"chapters": [
         {"chapter": "125", "title": "Department of Administrative Services",
@@ -783,6 +843,39 @@ def selftest() -> int:
           ch624["url"] == f"{OARD_BASE}/ruleSearch.action")
     check("re-running against an id map that has not moved changes and reports nothing",
           refresh_chapter_urls(stale_cat, moved_id_map) == 0)
+
+    # THE WIRING, NOT JUST THE HELPER (#280 follow-up). Every check above calls
+    # `refresh_chapter_urls()` directly, which proves the helper is correct and proves
+    # nothing about whether `cmd_discover` still calls it -- sabotaged and confirmed
+    # against this working tree: deleting that one line from what was then inline in
+    # `cmd_discover` left every check above green and `--selftest` printing OK. This
+    # drives `run_discovery` -- the function `cmd_discover` now delegates its whole
+    # assembly to, verbatim -- through the already-discovered skip path (no `discover_fn`
+    # call, so no network) and checks the SAME fact the isolated checks above check, but
+    # reached through the real call path instead of a second one built to match it.
+    wiring_cat = {"chapters": [
+        {"chapter": "125", "title": "Department of Administrative Services",
+         "url": f"{OARD_BASE}/displayChapterRules.action?selectedChapter=31",
+         "divisions": [], "discovered": "2026-01-01"},
+    ]}
+    wiring_id_map = {"125": "999"}  # OARD renumbered chapter 125's id since 2026-01-01
+
+    def _discover_fn_must_not_be_called(*a, **kw):
+        raise AssertionError(
+            "discover_fn was called for an already-discovered chapter -- the skip path "
+            "this fixture depends on to prove no network is needed did not fire")
+
+    wiring_stats = run_discovery(
+        [("125", "Department of Administrative Services")], wiring_cat, wiring_id_map,
+        only=[], discover_fn=_discover_fn_must_not_be_called)
+    check("run_discovery skipped the already-discovered chapter (no network touched)",
+          wiring_stats["skipped"] == 1)
+    check("run_discovery's own call to refresh_chapter_urls reached an already-discovered "
+          "chapter's url -- the exact wiring a deleted call site would leave undetected",
+          wiring_cat["chapters"][0]["url"] ==
+          f"{OARD_BASE}/displayChapterRules.action?selectedChapter=999")
+    check("...and run_discovery reports it in the same total cmd_discover prints",
+          wiring_stats["n_urls_changed"] == 1)
 
     # PARSING ONE CHAPTER PAGE (#270). Fixture shaped like the real
     # displayChapterRules.action structure measured against chapter 813: each division
