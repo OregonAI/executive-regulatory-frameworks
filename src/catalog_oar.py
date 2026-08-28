@@ -72,6 +72,7 @@ import re
 import sys
 import time
 import urllib.request
+from collections import Counter
 from datetime import date
 from html import unescape
 from pathlib import Path
@@ -715,21 +716,63 @@ def cmd_discover(only: list):
               f"{', '.join(ch for ch, _ in failed)}")
 
 
+# The per-rule `status` vocabulary this catalog declares (CONTEXT.md's "Ingest status"):
+# `ingested`, `not_ingested`, `renumbered` (carries `served_as`), `not_served`. A rule is
+# awaiting import when its status SAYS so, never when it merely fails to say `ingested` --
+# #282 found `--summary`'s "to import" computed as `total - ingested`, which counted
+# `renumbered` and `not_served` rows (recorded WITH A REASON precisely because they will
+# never be imported) as outstanding work, overcounting by 533 on the catalog measured
+# 2026-08-28. `ingest_oar.py` can also write a fifth value, `not_sliceable`, that this
+# glossary entry does not name (filed as #297) -- it is the same shape of reasoned-away
+# row and must not be counted as pending either, so counting below is done directly
+# against this closed allowlist rather than by subtraction, and anything the allowlist
+# does not name is surfaced by its own name instead of being folded into either bucket.
+RULE_STATUSES = ("ingested", "not_ingested", "renumbered", "not_served")
+
+
+def status_counts(cat):
+    """Tally every catalogued rule number by its own `status`, counting the thing each
+    bucket names rather than deriving one bucket from a total. Returns a dict keyed by
+    every value in `RULE_STATUSES`, plus `total` (every rule row seen) and `other` (a
+    Counter of any status outside that vocabulary -- empty on a catalog that matches
+    CONTEXT.md's declared vocabulary, which today's committed catalog does)."""
+    counts = {s: 0 for s in RULE_STATUSES}
+    other = Counter()
+    total = 0
+    for c in cat["chapters"]:
+        for d in c["divisions"]:
+            for r in d.get("rules") or []:
+                total += 1
+                st = r.get("status")
+                if st in counts:
+                    counts[st] += 1
+                else:
+                    other[st] += 1
+    counts["total"] = total
+    counts["other"] = other
+    return counts
+
+
 def cmd_summary():
     cat = load_catalog()
-    total = ingested = 0
     rows = []
     for c in sorted(cat["chapters"], key=lambda c: (len(c["chapter"]), c["chapter"])):
         n = sum(len(d.get("rules") or []) for d in c["divisions"])
         ing = sum(1 for d in c["divisions"] for r in d.get("rules") or []
                   if r.get("status") == "ingested")
-        total += n
-        ingested += ing
         rows.append((c["chapter"], c["title"], len(c["divisions"]), n, ing))
     for ch, title, nd, n, ing in rows:
         print(f"{ch:>4}  {nd:3d} div  {n:5d} rules  {ing:5d} ingested  {title[:55]}")
-    print(f"\nTOTAL: {len(rows)} chapters, {total} rules, {ingested} ingested, "
-          f"{total - ingested} to import")
+    counts = status_counts(cat)
+    print(f"\nTOTAL: {len(rows)} chapters, {counts['total']} rules, "
+          f"{counts['ingested']} ingested, {counts['not_ingested']} to import "
+          f"-- {counts['renumbered']} renumbered and {counts['not_served']} not served, "
+          f"recorded with a reason and never counted as pending (#282)")
+    if counts["other"]:
+        named = ", ".join(f"{n} {s!r}" for s, n in sorted(counts["other"].items(), key=str))
+        print(f"{sum(counts['other'].values())} rule(s) carry a status outside "
+              f"{RULE_STATUSES} ({named}) -- reported rather than guessed, and not "
+              f"counted as pending")
 
 
 # ------------------------------------------------------------------------------ selftest
@@ -1095,6 +1138,51 @@ def selftest() -> int:
              "rules": [{"number": "813-009-0000"}, {"number": "813-009-0010"}]}]}]}
     check("history_count finds a per-rule carried-forward row",
           history_count(history_cat) == 3)  # 1 per-rule + 2 in the vanished division
+
+    # #282: "to import" MUST count rows whose status SAYS they await import, never rows
+    # left over after subtracting `ingested` from a total drawn from a wider vocabulary.
+    # One row of every declared status, plus one `not_sliceable` -- `ingest_oar.py` writes
+    # that fifth value onto this same field and it is reasoned-away exactly like
+    # `renumbered`/`not_served`, so it must land in `other`, not silently become
+    # "not_ingested" or vanish from the total.
+    status_cat = {"chapters": [{"chapter": "1", "title": "T", "divisions": [
+        {"division": "1", "rules": [
+            {"number": "1-001-0001", "status": "ingested"},
+            {"number": "1-001-0002", "status": "not_ingested"},
+            {"number": "1-001-0003", "status": "renumbered", "served_as": "1-001-0009"},
+            {"number": "1-001-0004", "status": "not_served"},
+            {"number": "1-001-0005", "status": "not_sliceable"},
+        ]}]}]}
+    counts = status_counts(status_cat)
+    check("every rule in the fixture is counted exactly once",
+          counts["total"] == 5)
+    # RED, WATCHED AGAINST THE ACTUAL PRE-FIX ARITHMETIC: `total - ingested` is literally
+    # what `cmd_summary` printed as "to import" before this change (git blame this file at
+    # #282). Reproduced inline, over this fixture, to prove the failure mode is real and
+    # not asserted -- it counts renumbered, not_served AND not_sliceable as awaiting
+    # import, all three of which carry a reason they never will be.
+    naive_to_import = counts["total"] - counts["ingested"]
+    check("RED: the pre-#282 formula (total - ingested) overcounts by every reasoned-away "
+          "row -- 3 rows recorded as never-importable, counted as pending anyway",
+          naive_to_import == 4)
+    check("...while only the row whose status actually SAYS not_ingested is 1",
+          counts["not_ingested"] == 1)
+    check("GREEN: status_counts reports the correct 'to import' figure directly",
+          counts["not_ingested"] == 1 and counts["not_ingested"] != naive_to_import)
+    check("a renumbered row is never counted as awaiting import",
+          counts["renumbered"] == 1)
+    check("a not_served row is never counted as awaiting import",
+          counts["not_served"] == 1)
+    check("a status this vocabulary does not declare (not_sliceable) is reported by name, "
+          "not folded into not_ingested or dropped from the total",
+          counts["other"] == {"not_sliceable": 1})
+
+    # A catalog matching CONTEXT.md's declared vocabulary exactly (no not_sliceable rows,
+    # the shape of the real committed catalog measured 2026-08-28) reports no `other`.
+    clean_cat = {"chapters": [{"chapter": "1", "title": "T", "divisions": [
+        {"division": "1", "rules": [{"number": "1-001-0001", "status": "ingested"}]}]}]}
+    check("a catalog holding only declared statuses reports an empty 'other'",
+          not status_counts(clean_cat)["other"])
 
     return check.report()
 
