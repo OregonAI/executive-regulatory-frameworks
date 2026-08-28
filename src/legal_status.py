@@ -144,6 +144,13 @@ HELD_INGEST_STATUSES = ("ingested", "renumbered")
 
 # Where that vocabulary is written, and the only module allowed to write it.
 INGESTER = SRC / "ingest_oar.py"
+# THE INGEST VOCABULARY IS WRITTEN BY TWO MODULES, NOT ONE, SINCE #276. That ticket
+# retired `ingest_oar.py --enumerate`, and with it the only place this pipeline wrote
+# `not_ingested` -- membership is now `catalog_oar.py`'s to write, and it is where that
+# word lives. Reading only the ingester made the declaration below look like drift
+# (CI: "the ingester writes [...] and this module declares [...]") when nothing had
+# drifted: one writer had moved. Both are read, and the union is what must match.
+DISCOVERER = SRC / "catalog_oar.py"
 
 # The catalog key carrying a Bulletin-set legal status. Deliberately NOT `status`.
 CATALOG_KEY = "legal_status"
@@ -436,14 +443,24 @@ def _yields_a_status(node) -> bool:
 
 
 def ingest_vocabulary(source=None) -> set:
-    """Every word `ingest_oar.py` assigns to a `status` key -- the INGEST vocabulary, read
-    off the ingester rather than restated.
+    """Every word the pipeline assigns to a `status` key -- the INGEST vocabulary, read off
+    the modules that write it rather than restated.
+
+    TWO MODULES, since #276: `ingest_oar.py` writes what an ingest attempt concluded, and
+    `catalog_oar.py` writes `not_ingested` when discovery names a rule nothing has fetched
+    yet. Passing `source` reads that one text instead, which is what lets a rule be fired
+    against a synthetic ingester.
 
     A module that does not parse yields the EMPTY set, which fails
     `ingest-vocabulary-declared-once` against a non-empty declaration rather than passing:
     a vocabulary this could not read is not a vocabulary with no words in it."""
+    if source is None:
+        out = set()
+        for mod in (INGESTER, DISCOVERER):
+            out |= ingest_vocabulary(mod.read_text())
+        return out
     try:
-        tree = ast.parse(source if source is not None else INGESTER.read_text())
+        tree = ast.parse(source)
     except SyntaxError:
         return set()
     out = set()
