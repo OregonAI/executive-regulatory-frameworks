@@ -571,7 +571,19 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   `--check`, and by `--due` as `UNKNOWN CADENCE`, which is neither DUE nor ok.
   `even_year_general_election` (765 days) is the ballot-measure cycle and is deliberately
   NOT `biennial`, which is the odd-year legislative session two years out of phase with it
-  (ADR 0005's amendment). The
+  (ADR 0005's amendment). A cadence also declares — opt-in, per cadence, via
+  `Cadence.phase_capable` — whether it ADMITS a phase (#198): a group may state
+  `recheck_phase`, the date its own cycle is known to land on, so two groups sharing an
+  interval but on opposite halves of it are distinguishable, and `due_state()` schedules a
+  phased group against the next occurrence of that anchor rather than raw days since
+  `last_checked`. Only `biennial` opted in; `even_year_general_election` deliberately did
+  not become `biennial` + a phase — the 765-day interval is a different number from
+  `biennial`'s 730, not the same interval with a phase overlaid (CADENCES's own comment
+  records why). A group declaring `recheck_phase` on a cadence nothing marked
+  phase-capable is reported — by `--check`'s `group-phase` rule and by `--due` as
+  `PHASE NOT ADMITTED`; a `recheck_phase` nothing can parse as `YYYY-MM-DD` is reported by
+  `--due` as `UNREADABLE PHASE`. Both are neither DUE nor ok, same discipline as
+  `UNKNOWN CADENCE`. The
   `constitution` group is ONE source and ONE sha256 for the whole document, so a `CHANGED`
   line there says only that something moved: `python3 src/ingest_constitution.py --drift
   PAGE` is the diff that names WHICH sections' text moved, says nothing about the ones that

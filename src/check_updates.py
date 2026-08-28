@@ -164,11 +164,16 @@ def due_state(g, cadences=None):
                 f"recheck {g.get('recheck')!r} is not one of "
                 f"{', '.join(sorted(cadences))}; cannot say whether this group is due")
     try:
-        age = days_since(g["last_checked"])
+        checked = datetime.strptime(g["last_checked"], "%Y-%m-%d").date()
     except (KeyError, TypeError, ValueError):
         return (UNREADABLE_DATE,
                 f"last_checked {g.get('last_checked')!r} is not a YYYY-MM-DD date; "
                 f"cannot say whether this group is due")
+    # Parsed ONCE, here: `checked` (the date) feeds both the plain-age reading below and
+    # the phase-aligned scheduling further down, so this field's format string is written
+    # in exactly one place rather than twice — `days_since()` duplicated this same parse
+    # until #198 gave the phase branch its own second copy to compute `checked` from.
+    age = (date.today() - checked).days
     phase = g.get("recheck_phase")
     if phase is None:
         return ("DUE" if age >= cadence.days else "ok",
@@ -183,7 +188,6 @@ def due_state(g, cadences=None):
         return (UNREADABLE_PHASE,
                 f"recheck_phase {phase!r} is not a YYYY-MM-DD date; cannot say whether "
                 f"this group is due")
-    checked = datetime.strptime(g["last_checked"], "%Y-%m-%d").date()
     due_on = _phase_aligned_due_date(anchor, cadence.days, checked)
     return ("DUE" if date.today() >= due_on else "ok",
             f"last checked {age}d ago; cadence {g['recheck']} phased to {phase}, "
@@ -615,6 +619,49 @@ def _proof_a_source_entry_missing_a_required_field_is_reported():
     return "group-schema", failures
 
 
+def _proof_a_misdeclared_phase_fails_schema_validation():
+    """#198's schema half, gated: `recheck_phase` was added to
+    `_meta/schema/source-group.schema.json` alongside the `recheck` node, but nothing else
+    in this file ever ran a phased fixture through `check_schema` -- `check_cadences` only
+    compares the `recheck` enum node, none of the 19 committed groups declares a phase, and
+    `_proof_a_group_declaring_a_phase_on_a_cadence_that_admits_none_is_reported` (above)
+    exercises only `check_cadences`'s `group-phase` rule, never the schema. AC #5's own
+    text -- 'a group whose phase is misdeclared ... fails' -- names exactly this gap.
+    Verified before this fix: deleting `recheck_phase` from a copy of the committed schema,
+    or loosening its pattern to `.*`, left `--check` and `--selftest` both green.
+
+    This validates a group with a non-ISO `recheck_phase` ('January 1, 2027') against the
+    ACTUAL committed schema -- no `schema=` override, so this reads the same
+    module-level `SCHEMA` `--check` reads -- because the pattern is the only thing that can
+    catch it; deleting the property instead would ALSO fail this (via
+    `additionalProperties: false`), which is why the companion proof below asserts the
+    positive case too: a schema drifted back to not admitting the field at all must not be
+    confused with one that merely stopped checking its format."""
+    _, g = _group_fixture(recheck_phase="January 1, 2027")
+    failures, _ = check_schema(groups=[(SOURCES_DIR / "oregon-constitution.yml", g)])
+    return "group-schema", failures
+
+
+def _proof_a_well_formed_phase_validates_against_the_committed_schema():
+    """The additive-safety companion to the proof above, and to
+    `_proof_a_group_declaring_no_phase_behaves_exactly_as_today`'s no-phase case: a group
+    that DOES declare a well-formed `recheck_phase` must validate cleanly against the
+    committed schema. Without this, a schema drifted to omit the property entirely would
+    reject every phased group under `additionalProperties: false` -- silently breaking the
+    feature -- while the proof above still reports a `group-schema` failure on the
+    malformed fixture (for the wrong reason: the field is gone, not merely unchecked) and
+    would look, at a glance, like nothing had drifted. `checked` must read 1: this proves a
+    group was actually validated, not skipped."""
+    _, g = _group_fixture(recheck_phase="2026-05-20")
+    failures, checked = check_schema(groups=[(SOURCES_DIR / "oregon-constitution.yml", g)])
+    if failures or checked != 1:
+        print(f"FAIL well-formed recheck_phase should validate cleanly against the "
+              f"committed schema; got failures={failures} checked={checked}",
+              file=sys.stderr)
+        return 1
+    return 0
+
+
 def _proof_check_schema_reports_a_malformed_schema_rather_than_raising():
     """`seed_oar_watch.findings()` calls `check_schema()` with no try/except of its own
     (#199) -- the narrowing that made that safe to do is IN `check_schema`, not at the call
@@ -819,7 +866,22 @@ def _proof_a_phased_group_registered_off_cycle_lands_on_the_intended_cycle():
     before today. Nothing has happened since registration to justify skipping that cycle,
     so a correct scheduler must already call the group due; the un-phased formula cannot
     see the anchor at all and would leave it 'ok' for up to two more years — exactly the
-    'stays mid-cycle forever' defect #198 opens with."""
+    'stays mid-cycle forever' defect #198 opens with.
+
+    Asserts on the DATE `_phase_aligned_due_date` actually computed, not merely that the
+    anchor appears somewhere in `detail`: the anchor is echoed verbatim in every phased
+    group's `phased to {phase}` clause regardless of what the schedule computes (`phase ==
+    anchor.isoformat()` by construction of this fixture), so a bare substring check on the
+    anchor passes on that echo alone and proves nothing about the arithmetic — verified by
+    mutation: replacing `_phase_aligned_due_date`'s body with `return anchor -
+    timedelta(days=10000)` left this assertion (before this fix) green. Checking
+    specifically for the compound `next due {anchor}` pins the computed value instead: it
+    is only in `detail` when `due_on == anchor`, which is the one case this fixture can
+    prove correct on its own — `checked` falls strictly before `anchor`, so a group
+    registered mid-cycle must be scheduled to land ON the anchor itself (see
+    `_phase_aligned_due_date`'s docstring). The sibling proof below,
+    `_proof_a_phased_group_just_checked_is_not_immediately_due_again`, exercises the other
+    arithmetic path — `checked` AFTER `anchor` — that this fixture cannot reach."""
     today = date.today()
     anchor = today - timedelta(days=5)
     checked = today - timedelta(days=20)
@@ -831,9 +893,49 @@ def _proof_a_phased_group_registered_off_cycle_lands_on_the_intended_cycle():
               f"passed (last checked {checked.isoformat()}, 20d ago) so this must be DUE; "
               f"got {state!r} ({detail})", file=sys.stderr)
         return 1
-    if anchor.isoformat() not in detail:
-        print(f"FAIL phased biennial group: expected the phase-aligned due date "
-              f"{anchor.isoformat()} named in the detail, got {detail!r}", file=sys.stderr)
+    want = f"next due {anchor.isoformat()}"
+    if want not in detail:
+        print(f"FAIL phased biennial group: checked before its own anchor must be "
+              f"scheduled to come due AT the anchor ({want!r}), got {detail!r}",
+              file=sys.stderr)
+        return 1
+    return 0
+
+
+def _proof_a_phased_group_just_checked_is_not_immediately_due_again():
+    """THE OTHER HALF of `_phase_aligned_due_date`'s own docstring claim — 'a group just
+    checked is never immediately due again' — which the proof above cannot see: it only
+    ever checks a group BEFORE its anchor, where `k` (the docstring's whole-number-of-
+    intervals term) is always 0 and `due_on` collapses to `anchor` itself regardless of
+    whether the function's `+ 1` is even present. Here `checked` is TODAY and `anchor` is
+    200 days in the past — inside the current biennial cycle, not before it — so the
+    correct next due date is the FOLLOWING cycle's anchor, `anchor + cadence.days`,
+    computed independently by plain addition rather than by re-deriving
+    `_phase_aligned_due_date`'s own floor-division arithmetic.
+
+    This catches what the sibling proof cannot: a mutant that drops the function's `+ 1`
+    (the exact off-by-one its docstring warns against) computes `k=0` here too and
+    schedules this group's due date AT the 200-day-old anchor — already past — which flips
+    a freshly-checked group straight to DUE. That is the absorbing always-due state the
+    `even_year_general_election` comment 40 lines above exists to warn a walk-forward
+    cadence away from; verified by mutation before this fix (dropping the `+ 1` and
+    checking a biennial group with `last_checked` today against a 100-days-back anchor)."""
+    today = date.today()
+    anchor = today - timedelta(days=200)
+    days = CADENCES["biennial"].days
+    _, g = _group_fixture(recheck="biennial", last_checked=today.isoformat(),
+                          recheck_phase=anchor.isoformat())
+    state, detail = due_state(g)
+    if state != "ok":
+        print(f"FAIL just-checked phased group: checked today, anchor "
+              f"{anchor.isoformat()} 200d ago (mid-cycle, {days}d cadence) — the next "
+              f"cycle isn't due for ~{days - 200} more days; expected 'ok', got "
+              f"{state!r} ({detail})", file=sys.stderr)
+        return 1
+    want = f"next due {(anchor + timedelta(days=days)).isoformat()}"
+    if want not in detail:
+        print(f"FAIL just-checked phased group: expected {want!r} (the FOLLOWING cycle's "
+              f"anchor) in detail, got {detail!r}", file=sys.stderr)
         return 1
     return 0
 
@@ -844,28 +946,37 @@ def _proof_a_group_declaring_no_phase_behaves_exactly_as_today():
     independently of due_state() — the pre-#198 formula (age >= cadence.days) against the
     documented `biennial` constant — rather than by calling due_state() a second time, so a
     change to the phase branch that also perturbed the no-phase path could not hide behind
-    an assertion that recomputes whatever the code now does."""
-    checked = date(2020, 1, 1)
-    _, g = _group_fixture(recheck="biennial", last_checked=checked.isoformat())
-    state, detail = due_state(g)
-    age = (date.today() - checked).days
-    want_state = "DUE" if age >= CADENCES["biennial"].days else "ok"
-    if state != want_state:
-        print(f"FAIL unphased group: expected {want_state!r} from the pre-#198 formula "
-              f"(age {age}d vs {CADENCES['biennial'].days}d), got {state!r} ({detail})",
-              file=sys.stderr)
-        return 1
-    if "phased" in detail:
-        print(f"FAIL unphased group: detail mentions phase with none declared: {detail!r}",
-              file=sys.stderr)
-        return 1
-    return 0
+    an assertion that recomputes whatever the code now does.
+
+    TWO CASES, not one: a fixture that is always old enough to be DUE samples only one
+    side of `age >= cadence.days` — a mutant that made the un-phased branch return `DUE`
+    unconditionally left this proof green when it sampled only that side (verified before
+    this fix). The second case, checked TODAY, is comfortably 'ok' and exercises the
+    branch the first case cannot reach."""
+    bad = 0
+    for checked in (date(2020, 1, 1), date.today()):
+        _, g = _group_fixture(recheck="biennial", last_checked=checked.isoformat())
+        state, detail = due_state(g)
+        age = (date.today() - checked).days
+        want_state = "DUE" if age >= CADENCES["biennial"].days else "ok"
+        if state != want_state:
+            print(f"FAIL unphased group (checked {checked.isoformat()}): expected "
+                  f"{want_state!r} from the pre-#198 formula (age {age}d vs "
+                  f"{CADENCES['biennial'].days}d), got {state!r} ({detail})",
+                  file=sys.stderr)
+            bad += 1
+            continue
+        if "phased" in detail:
+            print(f"FAIL unphased group (checked {checked.isoformat()}): detail mentions "
+                  f"phase with none declared: {detail!r}", file=sys.stderr)
+            bad += 1
+    return bad
 
 
 def _proof_due_reports_an_unreadable_phase_rather_than_raising():
     """The sibling defect to unreadable `last_checked`, for the field this ticket adds: a
     hand-edited or generated `recheck_phase` that is not a YYYY-MM-DD date must be
-    REPORTED, not raise — CONTEXT.md's overriding rule ('could not check is never reported
+    REPORTED, not raise — ADR 0006's overriding rule ('could not check is never reported
     as is not there') applied to the new field the same way #198's issue asked it applied
     to the old one."""
     bad = 0
@@ -883,6 +994,61 @@ def _proof_due_reports_an_unreadable_phase_rather_than_raising():
             print(f"FAIL due-state on recheck_phase {g['recheck_phase']!r}: reported "
                   f"{state!r} ({detail}), which reads as an answer", file=sys.stderr)
             bad += 1
+    return bad
+
+
+def _proof_two_groups_sharing_an_interval_on_opposite_phases_are_distinguished():
+    """AC #1 ITSELF — #198's headline case, and the one no proof in this file asserted:
+    'two groups sharing an interval but on opposite phases are distinguishable, and the
+    due-check treats them differently at the right times.' Every other phase proof above
+    uses exactly one phased group; this is the first (and only) place two phased biennial
+    groups with the SAME `last_checked` and DIFFERENT anchors are compared against each
+    other and against the un-phased control, so the feature's actual scheduling contract —
+    not just that the phase branch runs — has an assertion behind it.
+
+    Both groups were checked 400 days ago — under the un-phased formula that is a single
+    'ok' (400d < 730d), which is also asserted here as the control. `anchor_due` sits 400
+    days before `checked` (830 days ago), so its cycle's next occurrence, `anchor_due +
+    730d`, already fell 70 days before today: DUE. `anchor_ok` sits only 300 days before
+    `checked` (700 days ago) — 100 days later in the cycle, the 'opposite phase' the
+    acceptance criterion names — so ITS next occurrence, `anchor_ok + 730d`, is still 30
+    days away: ok. Same interval, same `last_checked`, different phase, different
+    answer."""
+    bad = 0
+    checked = date.today() - timedelta(days=400)
+    days = CADENCES["biennial"].days
+    anchor_due = checked - timedelta(days=400)
+    anchor_ok = checked - timedelta(days=300)
+    _, g_due = _group_fixture(recheck="biennial", last_checked=checked.isoformat(),
+                              recheck_phase=anchor_due.isoformat())
+    _, g_ok = _group_fixture(recheck="biennial", last_checked=checked.isoformat(),
+                             recheck_phase=anchor_ok.isoformat())
+    _, g_control = _group_fixture(recheck="biennial", last_checked=checked.isoformat())
+    state_due, detail_due = due_state(g_due)
+    state_ok, detail_ok = due_state(g_ok)
+    state_control, detail_control = due_state(g_control)
+    want_due_on = (anchor_due + timedelta(days=days)).isoformat()
+    want_ok_on = (anchor_ok + timedelta(days=days)).isoformat()
+    if state_due != "DUE" or f"next due {want_due_on}" not in detail_due:
+        print(f"FAIL opposite-phase pair (due side): anchor {anchor_due.isoformat()} "
+              f"should be DUE with next due {want_due_on}, got {state_due!r} "
+              f"({detail_due})", file=sys.stderr)
+        bad += 1
+    if state_ok != "ok" or f"next due {want_ok_on}" not in detail_ok:
+        print(f"FAIL opposite-phase pair (ok side): anchor {anchor_ok.isoformat()} "
+              f"should be ok with next due {want_ok_on}, got {state_ok!r} "
+              f"({detail_ok})", file=sys.stderr)
+        bad += 1
+    if state_control != "ok" or "phased" in detail_control:
+        print(f"FAIL un-phased control (400d < 730d, same last_checked as both phased "
+              f"groups): expected 'ok' with no phase mention, got {state_control!r} "
+              f"({detail_control})", file=sys.stderr)
+        bad += 1
+    if state_due == state_ok:
+        print(f"FAIL opposite-phase pair: same interval, same last_checked "
+              f"({checked.isoformat()}), different phase must give different states; "
+              f"both read {state_due!r}", file=sys.stderr)
+        bad += 1
     return bad
 
 
@@ -917,9 +1083,12 @@ _MEASURED = [_proof_due_reports_an_undeclared_cadence_rather_than_raising,
              _proof_check_schema_reports_a_malformed_schema_rather_than_raising,
              _proof_the_ballot_measure_cadence_lands_after_an_election,
              _proof_a_phased_group_registered_off_cycle_lands_on_the_intended_cycle,
+             _proof_a_phased_group_just_checked_is_not_immediately_due_again,
              _proof_a_group_declaring_no_phase_behaves_exactly_as_today,
+             _proof_two_groups_sharing_an_interval_on_opposite_phases_are_distinguished,
              _proof_due_reports_an_unreadable_phase_rather_than_raising,
-             _proof_due_reports_a_phase_on_a_cadence_that_admits_none_rather_than_raising]
+             _proof_due_reports_a_phase_on_a_cadence_that_admits_none_rather_than_raising,
+             _proof_a_well_formed_phase_validates_against_the_committed_schema]
 
 _PROOFS = [
     ("a cadence declared in the checker and not the schema",
@@ -940,6 +1109,8 @@ _PROOFS = [
      _proof_a_group_missing_a_required_key_is_reported),
     ("a source entry missing a field its schema requires",
      _proof_a_source_entry_missing_a_required_field_is_reported),
+    ("a source group declaring a misdeclared (non-ISO) recheck_phase",
+     _proof_a_misdeclared_phase_fails_schema_validation),
 ]
 
 
