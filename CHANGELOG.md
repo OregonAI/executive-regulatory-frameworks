@@ -11,6 +11,82 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-08-28 — **A two-axis review of #268's own split found the fix strands every PR on a
+  check that cannot report — the exact failure #268 exists to end.** Shards 1-4 lost the
+  `corpus-toolkit` checkout and install that the pre-split job ran before every gate (only
+  shard-5 kept it), so `citation_schemes.py`, `snapshot_identity.py` (x2), and
+  `bulletin_report.py` (x2) die on `ModuleNotFoundError` / import-time failures across all
+  four of those shards on every PR — reproduced by running the exact CI commands with
+  `corpus_toolkit` import-blocked. Root cause was six jobs hand-repeating the same
+  toolchain preamble, so a re-shard could (and did) leave one shard subtly less capable
+  than its siblings; fixed by hoisting the preamble into one composite action
+  (`.github/actions/generated-views-setup`) every shard and the nightly job now call, and
+  by teaching `shard_generated_views.py --check` to assert every shard's non-gate setup
+  steps are identical (`setup_steps_by_shard()`) and that the fan-in job carries
+  `if: always()` — the two drifts that were invisible to the gate/manifest-parity checks
+  #268 shipped. Also fixed: every shard's job-level `timeout-minutes` was smaller than the
+  sum of its own step-level `timeout-minutes` (shard-5 by 1 minute on day one; shards 1-4
+  by 16–39 minutes once the toolkit-install fix restored their real running time), so a
+  broad slowdown — the "wall-clock grows with the gate count" scenario #268 is about —
+  would trip the job cap before any single step could and report `cancelled` with no gate
+  named, exactly the outcome #268's last acceptance criterion forbids; job caps are now
+  comfortably above their step sums (shard-1/2: 45m, shard-3: 35m, shard-4: 55m, shard-5:
+  20m) and nightly's own cap (30m → 80m) got the same treatment plus per-step timeouts on
+  all six of its gates, none of which had any before. The `...and what we publish must
+  name every chapter we mirror` step — an unconditional `echo`, unable to fail since the
+  proof it named moved into the neighboring step — is deleted; the neighboring step is
+  renamed `llms.txt must be current, and name every chapter we mirror` so it keeps
+  reporting both proofs under one name instead of one gate satisfied vacuously by an echo
+  (AGENTS.md: "A gate that cannot fail is worse than no gate"). The fan-in's six
+  hand-duplicated shard-result blocks are now one loop over `${{ toJSON(needs) }}`, so a
+  future re-shard only ever needs to edit the job's `needs:` list. Net effect on the
+  manifest: 65 gates → 64 (the two llms.txt entries merged into the one step that actually
+  runs), 760.4s → 673.5s serial; `shard_generated_views.py --check` and `--selftest` both
+  pass against the committed files. Declined: rolling `generated-views-nightly`'s result
+  into the `generated-views` required check, which the base job did on scheduled runs —
+  out of scope per #268's own words ("nightly-only gates... not what a PR waits on") and
+  reintroduces the skip-vs-fail handling the fan-in design deliberately keeps out of the
+  PR-tier path; filed as #288 instead.
+
+- 2026-08-28 — **`generated-views` was one 38.8-minute serial job against a 60-minute cap,
+  headroom that only shrank as the gate count grew (55 to 71 in two days)** (#268).
+  Branch protection requires a check named literally `generated-views`, so the fix keeps
+  that name as a FAN-IN job — `needs: [generated-views-shard-1..5]`, `if: always()`,
+  asserting every shard's `needs.*.result == 'success'` explicitly, so it goes red on
+  shard failure, cancellation, AND skip alike (a plain `needs:` job is silently SKIPPED
+  when an upstream fails, which is the "cancellation reads as somebody's choice" failure
+  this exists to end, one layer up). The 65 PR-tier gates are bin-packed by measured
+  seconds (longest-processing-time-first) into 5 parallel shards, committed as
+  `.github/generated-views-manifest.yml`; `src/shard_generated_views.py --check` (a new
+  gate, itself sharded in) fails the run if a gate in the workflow has no manifest entry,
+  if a manifest entry names a gate nothing runs, if a manifest's stated shard disagrees
+  with where the gate actually lives, or if a shard job exists that the fan-in does not
+  depend on — enforced rather than reviewed. The two llms.txt gates
+  (`llms.txt must be current` / `...and what we publish must name every chapter we
+  mirror`) are co-located in one shard and now run as a single `build_llms.py --check
+  --selftest` invocation, sharing the one full-corpus `build()` call both proofs need
+  (measured ~86.7s combined vs ~173.6s as two separate steps); `build_llms.py`'s
+  `selftest()` now accepts a pre-built text instead of re-walking the corpus itself.
+  Every gate step carries its own `timeout-minutes` (computed from its measured seconds,
+  generous margin) so a gate that runs long fails under its own name rather than the
+  whole shard timing out anonymously; job-level `timeout-minutes` stays only as a
+  backstop, per the ticket's "a hidden expiry date is what #267 bought time on." Also
+  fixed in passing: four different steps in the old job shared the literal name
+  `...and that rule must be able to fail` (after `provenance_spelling.py`,
+  `results_page_documents.py`, `oar_watch_coverage.py`, and `seed_oar_watch.py`'s
+  respective `--check` steps) — harmless to GitHub Actions, which does not require step
+  names to be unique, but it broke the manifest's own use of step name as a gate's
+  identity, so each now carries a distinguishing parenthetical. Measured, this branch,
+  2026-08-28: 65 PR-tier gates (63 timed individually, all passing, plus the two
+  shard-manifest-coverage gates below at their own ~0.1s, added after the timing pass),
+  760.4s serial;
+  bin-packed makespan 141.9s local, ~4.0 CI-minutes at the measured 1.7x slowdown — down
+  from the old job's 38.8 CI-minutes, and flat as gates are added, since wall-clock is now
+  set by the slowest shard rather than the sum of all of them. Nightly-only gates
+  (`generated-views-nightly`; schedule/workflow_dispatch) are out of scope for the
+  manifest by design and untouched in substance, only relocated to their own
+  conditioned job.
+
 - 2026-08-27 — **`CONTEXT.md` and the registry's own comments said all 189 rows carry no
   `enabling_authority`** (#219). The claim was written when the field landed empty (#170,
   2026-08-21) and never re-measured since: on this branch 113 of 189 rows carry a reviewed
