@@ -33,6 +33,15 @@ It also checks that the fan-in job's `needs:` list is exactly the set of shard
 jobs the workflow defines -- a shard job nothing depends on is a shard whose
 failure the required check would never see.
 
+TWO MORE DRIFTS a code-review follow-up to #268 found this file did not check for,
+because both are invisible to every rule above (they touch neither the gate steps
+nor the manifest): shards 1-4 lost the corpus-toolkit install that shard-5 kept,
+because nothing compared one shard's toolchain preamble against another's -- fixed
+by `setup_steps_by_shard()`, asserting every shard's non-gate steps are identical;
+and the fan-in job's `if: always()` could be dropped with every check above still
+green, silently reintroducing "a skipped required check does not report a failure"
+-- fixed by asserting `if: always()` directly on the fan-in job.
+
 Nightly-only gates (`generated-views-nightly`, conditioned on
 schedule/workflow_dispatch) are out of scope for this manifest by design -- #268
 says explicitly they are "not what a PR waits on", so they carry no measured
@@ -76,6 +85,25 @@ def gates_by_shard(doc):
     for job_id in shard_job_ids(doc):
         steps = jobs[job_id].get("steps", [])
         out[job_id] = [s["name"] for s in steps if "name" in s and "run" in s]
+    return out
+
+
+def setup_steps_by_shard(doc):
+    """{shard_job_id: [step, ...]} for every step that is NOT a gate -- the toolchain
+    preamble (checkout / setup-python / composite action) each shard runs before its
+    own gates. The inverse selection from gates_by_shard's: a step missing `name` or
+    `run` is setup, not a gate.
+
+    This is what shards 1-4 losing the corpus-toolkit install (the HARD finding this
+    file's own #268 code-review follow-up fixed) would have been caught by, had it
+    existed then: shard-5 kept two setup steps its siblings silently dropped, and
+    nothing compared the shards' preambles against each other.
+    """
+    jobs = doc.get("jobs", {})
+    out = {}
+    for job_id in shard_job_ids(doc):
+        steps = jobs[job_id].get("steps", [])
+        out[job_id] = [s for s in steps if not ("name" in s and "run" in s)]
     return out
 
 
@@ -148,6 +176,32 @@ def diff(workflow_doc, manifest_gates):
     for j in sorted(stale_needs):
         fails.append(f"{FANIN_JOB!r} needs {j!r}, which no longer exists as a job")
 
+    # A shard silently missing a setup step (e.g. the corpus-toolkit install) is not a
+    # drift the checks above can see at all -- they only look at gate steps. Compare
+    # every shard's non-gate preamble against the first shard's; any shard whose setup
+    # differs is exactly the "subtly less capable sibling" the HARD finding found.
+    setup = setup_steps_by_shard(workflow_doc)
+    if setup:
+        reference_job = min(setup)  # stable, file-order-independent pick
+        reference = setup[reference_job]
+        for job_id in sorted(setup):
+            if setup[job_id] != reference:
+                fails.append(
+                    f"{job_id!r}'s setup steps differ from {reference_job!r}'s -- every "
+                    f"shard must share one toolchain preamble (#268 code review)")
+
+    # `if: always()` is what makes the fan-in step run -- and its assertion fire -- when
+    # a shard fails, is cancelled, or is skipped, rather than the fan-in job itself being
+    # SKIPPED (a skipped required check does not report a failure). Losing this line is
+    # invisible to every check above: the `needs:` list, the gate/manifest parity, and
+    # the shard steps themselves are all untouched.
+    fanin_job = workflow_doc.get("jobs", {}).get(FANIN_JOB, {})
+    if fanin_job.get("if") != "always()":
+        fails.append(
+            f"{FANIN_JOB!r} must be `if: always()` -- without it, a failing shard "
+            f"SKIPS the fan-in instead of failing it, and a skipped required check "
+            f"does not report a failure (#268)")
+
     return fails
 
 
@@ -171,20 +225,22 @@ def check(workflow_path=None, manifest_path=None) -> int:
 
 # ---- synthetic fixtures for --selftest ----
 
-def _fixture_workflow(shard2_names=("gate-b",)):
+def _fixture_workflow(shard2_names=("gate-b",), shard2_setup=None):
+    setup = [{"uses": "./.github/actions/generated-views-setup"}]
     return {
         "jobs": {
             "generated-views-shard-1": {
-                "steps": [
-                    {"uses": "actions/checkout@v4"},
+                "steps": setup + [
                     {"name": "gate-a", "run": "true"},
                 ]
             },
             "generated-views-shard-2": {
-                "steps": [{"name": n, "run": "true"} for n in shard2_names]
+                "steps": (shard2_setup if shard2_setup is not None else setup)
+                + [{"name": n, "run": "true"} for n in shard2_names]
             },
             FANIN_JOB: {
                 "needs": ["generated-views-shard-1", "generated-views-shard-2"],
+                "if": "always()",
             },
         }
     }
@@ -244,6 +300,26 @@ def selftest() -> int:
         fails.append("FAIL stale-needs-entry-is-caught: needing a job that does not "
                       f"exist produced {found!r}")
 
+    # RULE 6: a shard whose setup steps differ from its siblings' is caught -- this is
+    # precisely how shards 1-4 lost the corpus-toolkit install while shard-5 kept it.
+    wf = _fixture_workflow(shard2_setup=[{"uses": "actions/checkout@v4"}])  # no toolkit
+    mf = _fixture_manifest()
+    found = diff(wf, mf)
+    if not any("generated-views-shard-2" in f and "setup steps differ" in f for f in found):
+        fails.append("FAIL divergent-shard-setup-is-caught: shard-2 missing the toolkit "
+                      f"install produced {found!r}")
+
+    # RULE 7: a fan-in missing `if: always()` is caught -- without it, a failing shard
+    # SKIPS the fan-in instead of failing it, and a skipped required check does not
+    # report a failure.
+    wf = _fixture_workflow()
+    del wf["jobs"][FANIN_JOB]["if"]
+    mf = _fixture_manifest()
+    found = diff(wf, mf)
+    if not any(FANIN_JOB in f and "always()" in f for f in found):
+        fails.append("FAIL missing-if-always-is-caught: dropping `if: always()` from the "
+                      f"fan-in produced {found!r}")
+
     # GUARD THAT MUST NOT FIRE: a fully consistent fixture reports nothing.
     wf = _fixture_workflow()
     mf = _fixture_manifest()
@@ -256,7 +332,7 @@ def selftest() -> int:
     if fails:
         print(f"{len(fails)} rule(s) did not hold")
         return 1
-    print("5 violation(s) demonstrated failing; 1 guard that must not fire held")
+    print("7 violation(s) demonstrated failing; 1 guard that must not fire held")
     return 0
 
 
@@ -302,12 +378,13 @@ def cmd_plan(argv):
         print("usage: shard_generated_views.py --plan N", file=sys.stderr)
         return 2
     gates = load_manifest()
-    # The two llms.txt gates share a build (measured ~87s combined vs ~174s run
-    # separately) and must be co-located -- see build_llms.py's combined
-    # --check --selftest entry point.
-    colocate = [(("llms.txt must be current",
-                  "...and what we publish must name every chapter we mirror"), 86.7)]
-    bins, totals = plan(gates, n, colocate=colocate)
+    # The two llms.txt gates used to be timed (and colocated here) separately; a
+    # code-review follow-up to #268 folded them into one workflow step and one manifest
+    # entry ("llms.txt must be current, and name every chapter we mirror", 86.7s combined
+    # -- see build_llms.py's combined --check --selftest entry point), so the manifest
+    # now carries the shared cost natively and no `colocate` group is needed to represent
+    # it: plain bin-packing already treats it as the one unit it actually is.
+    bins, totals = plan(gates, n)
     for i, (names, total) in enumerate(zip(bins, totals), start=1):
         print(f"shard {i}: {total:.1f}s ({len(names)} gates)")
         for name in names:

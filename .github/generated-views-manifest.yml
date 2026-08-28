@@ -7,10 +7,11 @@
 # and the workflow disagree about which gate runs where, or if a gate the
 # workflow runs is missing here entirely.
 #
-# The two llms.txt gates are pinned to the same shard on purpose: they share one
-# build() call (python3 src/build_llms.py --check --selftest, one CI step) rather
-# than each re-walking the whole corpus, which is only possible when both run on
-# the same runner.
+# The llms.txt gate below (--check and --selftest, both proofs) is one CI step / one
+# process, not two -- a code-review follow-up to #268 folded the second gate's echo-only
+# step into this one so it stays a gate that can actually fail. build_llms.py's build()
+# walks the whole corpus, so sharing the call this way is what makes that walk get paid
+# once per run rather than twice.
 #
 # Nightly-only gates (generated-views-nightly; schedule/workflow_dispatch) are not
 # in this manifest at all -- #268 is explicit that they are "not what a PR waits
@@ -82,11 +83,11 @@ gates:
   - name: "ORS disposition catalog must be current"
     seconds: 6.0
     shard: 2
-  - name: "llms.txt must be current"
-    seconds: 84.6
-    shard: 2
-  - name: "...and what we publish must name every chapter we mirror"
-    seconds: 89.0
+  # Was two entries (84.6s + 89.0s) for two separately-timed gates; the workflow now runs
+  # both proofs as one step, one process (build_llms.py --check --selftest), so this is one
+  # entry at the combined measured cost -- see the workflow's own comment on this step.
+  - name: "llms.txt must be current, and name every chapter we mirror"
+    seconds: 86.7
     shard: 2
   - name: "Agency overview must be current"
     seconds: 72.7

@@ -60,22 +60,28 @@ jobs:
   # silently dropped during a future re-shard is what this catches, rather than relying on
   # a reviewer to notice a missing line in a 700-line YAML diff.
   #
-  # MEASURED, local warm checkout, 2026-08-28 (each of the 63 PR-tier gates timed for
+  # MEASURED, local warm checkout, 2026-08-28 (each of the 65 PR-tier gates timed for
   # real, individually, then bin-packed by `src/shard_generated_views.py --plan 5`):
-  # 760.2s serial, 12.67 min -- well under the job's own prior comment's "22.4 minutes for
+  # 760.4s serial, 12.67 min -- well under the job's own prior comment's "22.4 minutes for
   # 71 gates" (2026-08-25), because that older figure was for a run that also counted
   # nightly-only gates (e.g. `Review queue must be current`, 159.2s on its own). Nightly
   # gates never ran on a PR to begin with, and #268 is explicit that they stay out of
-  # scope here -- they are sharded separately, below, and carry no PR-tier budget. The two
-  # llms.txt gates
+  # scope here -- they are sharded separately, below, and carry no PR-tier budget.
+  #
+  # UPDATED by a code-review follow-up to #268, same day: the two llms.txt gates
   # (`llms.txt must be current` / `...and what we publish must name every chapter we
-  # mirror`) are pinned to the same shard and now run as ONE combined invocation,
-  # `build_llms.py --check --selftest` -- build_llms.py's build() walks the whole corpus,
-  # and used to pay that cost twice as two separate CI steps (~173.6s); combined, measured
-  # ~86.7s. Bin-packed across 5 shards: makespan (slowest shard) 141.9s local, ~4.0
-  # CI-minutes at the measured 1.7x slowdown -- against the old job's 38.8 CI-minutes, and
-  # flat as gates are added from here, since wall-clock is now set by the slowest shard
-  # rather than the sum of all of them.
+  # mirror`) were pinned to the same shard, sharing one combined invocation,
+  # `build_llms.py --check --selftest`, but still kept as TWO steps -- the second an
+  # unconditional `echo`, a gate that could no longer fail (AGENTS.md: "worse than no
+  # gate, because it looks like evidence"). They are now genuinely one step and one
+  # manifest entry, `llms.txt must be current, and name every chapter we mirror`
+  # (86.7s, the combined measured cost -- build_llms.py's build() walks the whole
+  # corpus and used to pay that cost twice as two separate CI steps, ~173.6s). Current
+  # total: 64 PR-tier gates, 673.5s serial, 12.23 min. Bin-packed across 5 shards:
+  # makespan (slowest shard) 141.9s local, ~4.0 CI-minutes at the measured 1.7x
+  # slowdown -- against the old job's 38.8 CI-minutes, and flat as gates are added from
+  # here, since wall-clock is now set by the slowest shard rather than the sum of all
+  # of them.
   #
   # BUDGET AS A RED GATE, NOT A CANCELLATION (#268's explicit ask): every gate step below
   # carries its own `timeout-minutes`, computed from its measured seconds with a generous
@@ -92,15 +98,17 @@ jobs:
     # 16 gate(s), 133.0s measured locally (warm checkout) -- see .github/generated-views-manifest.yml.
     # (14 timed gates at 132.8s plus this shard's own two shard-manifest-coverage gates,
     # ~0.1s each, added after the timing pass -- see the first two steps below.)
-    timeout-minutes: 11
+    #
+    # 45: comfortably above the 38 minutes of summed per-step timeout-minutes below, plus
+    # setup -- a code-review follow-up to #268 found every shard's job cap SMALLER than its
+    # own step budget, which means a broad slowdown (the exact "wall-clock grows with the
+    # gate count" scenario #268 is about) trips this cap before any single step can, and the
+    # run reports `cancelled` with no gate named -- the outcome #268's last acceptance
+    # criterion forbids. This cap is a backstop for a genuine hang only (e.g. a step blocked
+    # on stdin); it should not ordinarily be the thing that fires.
+    timeout-minutes: 45
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0   # some of these scripts read git history
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: pip install pyyaml
+      - uses: ./.github/actions/generated-views-setup
       # THE SHARD SPLIT'S OWN GATE (#268), living here rather than in the fan-in job so
       # that job stays pure (its only work is depending on the shards and asserting their
       # results, as the ticket asks). Fails the run if a gate below (in ANY shard) has no
@@ -259,16 +267,11 @@ jobs:
 
   generated-views-shard-2:
     runs-on: ubuntu-latest
-    # 16 gate(s), 132.9s measured locally (warm checkout) -- see .github/generated-views-manifest.yml.
-    timeout-minutes: 11
+    # 15 gate(s), 132.9s measured locally (warm checkout) -- see .github/generated-views-manifest.yml.
+    # 45: see shard-1's comment -- comfortably above this shard's own summed per-step budget.
+    timeout-minutes: 45
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0   # some of these scripts read git history
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: pip install pyyaml
+      - uses: ./.github/actions/generated-views-setup
       # A re-analysis must never delete a prior run's candidates. The merge used to
       # replace an already-covered chapter's list wholesale, so a weaker model silently
       # destroyed findings a stronger one produced — 25 of 137 would have gone in a
@@ -306,18 +309,20 @@ jobs:
       # THE SHARED BUILD (#268): this step now runs both llms.txt proofs
       # (--check and --selftest) in ONE process, so build_llms.py's build()
       # -- a full corpus walk -- is paid once here rather than once per
-      # step. Measured: ~86.7s combined vs ~173.6s as two separate
-      # steps. The next step down covers the second gate's own name.
-      - name: llms.txt must be current
+      # step. Measured: ~86.7s combined vs ~173.6s as two separate steps.
+      #
+      # This USED to be two steps, the second an unconditional `echo` kept only so its
+      # gate name still appeared in the Actions UI and the manifest -- a code-review
+      # follow-up to #268 flagged that as a gate that can no longer fail (AGENTS.md:
+      # "A gate that cannot fail is worse than no gate, because it looks like
+      # evidence."). The substance was never lost -- build_llms.py --selftest ran here
+      # the whole time -- so this rename is the fix: one step, one name that says it
+      # carries both proofs, one manifest entry, so a regression in either proof
+      # reports under a name that is actually running it rather than under its
+      # neighbour's.
+      - name: llms.txt must be current, and name every chapter we mirror
         timeout-minutes: 8
         run: python3 src/build_llms.py --check --selftest
-      # Covered by "llms.txt must be current" above, in the same process
-      # (--check --selftest together) -- kept as its own named step so this
-      # gate keeps reporting under its own name here and in the manifest,
-      # rather than quietly disappearing from both (#268).
-      - name: ...and what we publish must name every chapter we mirror
-        timeout-minutes: 2
-        run: echo "covered by the combined --check --selftest run in 'llms.txt must be current', above"
       - name: Policy-documentation-gap view must be current
         timeout-minutes: 2
         run: python3 src/build_policy_gap.py --check
@@ -381,15 +386,10 @@ jobs:
   generated-views-shard-3:
     runs-on: ubuntu-latest
     # 10 gate(s), 132.9s measured locally (warm checkout) -- see .github/generated-views-manifest.yml.
-    timeout-minutes: 11
+    # 35: see shard-1's comment -- comfortably above this shard's own summed per-step budget.
+    timeout-minutes: 35
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0   # some of these scripts read git history
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: pip install pyyaml
+      - uses: ./.github/actions/generated-views-setup
       # The citation schemes' own proofs, and the half that matters is the refusals: an
       # `Or. Const.` citation to a section the page does not print must resolve to NOTHING
       # and say so, never to the article or to a neighbouring section. It holds apart the
@@ -498,15 +498,10 @@ jobs:
   generated-views-shard-4:
     runs-on: ubuntu-latest
     # 21 gate(s), 132.8s measured locally (warm checkout) -- see .github/generated-views-manifest.yml.
-    timeout-minutes: 11
+    # 55: see shard-1's comment -- comfortably above this shard's own summed per-step budget.
+    timeout-minutes: 55
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0   # some of these scripts read git history
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: pip install pyyaml
+      - uses: ./.github/actions/generated-views-setup
 
       # --- parser regression guards (fast; every run) ---
       # Signature-block dates are the single most OCR-damaged field in the corpus, and
@@ -640,26 +635,13 @@ jobs:
   generated-views-shard-5:
     runs-on: ubuntu-latest
     # 2 gate(s), 141.9s measured locally (warm checkout) -- see .github/generated-views-manifest.yml.
-    timeout-minutes: 12
+    # 20: see shard-1's comment. This shard's job cap was previously 12 against a 13-minute
+    # summed step budget -- already inverted on day one, caught by the same review pass.
+    # >= v1.22.0 required: earlier corpus-generate-status predates the M4 changes this
+    # corpus's STATUS.md was first generated with.
+    timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0   # some of these scripts read git history
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: pip install pyyaml
-      # corpus-toolkit for the STATUS.md gate below. THREE pins move together in this
-      # file (reusable-workflow `uses:`, its `toolkit-ref:`, and this checkout) — same
-      # trap oregon-audits documents in its generated job (corpus-toolkit#9).
-      # >= v1.22.0 required: earlier corpus-generate-status predates the M4 changes
-      # this corpus's STATUS.md was first generated with.
-      - uses: actions/checkout@v4
-        with:
-          repository: OregonAI/corpus-toolkit
-          ref: v1.31.1
-          path: .toolkit
-      - run: pip install ./.toolkit
+      - uses: ./.github/actions/generated-views-setup
       # STATUS.md derives from repo content, so a PR is exactly what can invalidate
       # it (oregon-audits' generated-job rationale). --check, not a raw diff: the
       # "Generated <date>" line is volatile by design.
@@ -673,15 +655,16 @@ jobs:
   generated-views-nightly:
     runs-on: ubuntu-latest
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
-    timeout-minutes: 30
+    # 80: raised from 30 in the same code-review follow-up to #268 that fixed the PR-tier
+    # shards' job caps -- #268's "budget as a red gate, not a cancellation" is stated for
+    # "the sweep" as a whole, not scoped to the PR-tier half, and 30 was already below the
+    # sum of the per-step timeouts just added below (~70 min, none of them individually
+    # measured the way the manifest's PR-tier seconds are -- these are generous backstops
+    # over full-corpus scans, not a re-timed budget). This cap is itself only a backstop
+    # for a genuine hang, per the same reasoning as the PR-tier shards above.
+    timeout-minutes: 80
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0   # some of these scripts read git history
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: pip install pyyaml
+      - uses: ./.github/actions/generated-views-setup
 
       # --- heaviest full-corpus scans: nightly / on-demand only ---
       # agency_profile selftest: scans every one of ~69k files' frontmatter with no
@@ -690,11 +673,12 @@ jobs:
       # too slow for the per-PR fast tier, same tradeoff as review_queue/enrich_oar/
       # enrich_statutes below.
       - name: Agency profile engine selftest (nightly)
+        timeout-minutes: 15
         run: python3 src/agency_profile.py --selftest
 
       - name: MCP query engine smoke test (nightly)
+        timeout-minutes: 10
         run: |
-          pip install "corpus-toolkit @ git+https://github.com/OregonAI/corpus-toolkit@v1.31.1"
           python3 -c "
           import sys
           from corpus_toolkit import config as config_mod
@@ -724,15 +708,19 @@ jobs:
           "
 
       - name: Policy-age dataset must match the corpus (nightly; full-corpus scan)
+        timeout-minutes: 10
         run: python3 src/build_policy_age_data.py --check
 
       - name: Review queue must be current (nightly)
+        timeout-minutes: 10
         run: python3 src/review_queue.py --check
 
       - name: ORS frontmatter must match each statute's own history notes (nightly)
+        timeout-minutes: 10
         run: python3 src/enrich_statutes.py --check
 
       - name: OAR frontmatter must match each rule's own structured lines (nightly)
+        timeout-minutes: 15
         run: python3 src/enrich_oar.py --check
 
 
@@ -747,43 +735,33 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      # Was six coordinated per-shard blocks (one echo + one `if` each) -- a code-review
+      # follow-up to #268 flagged that as Shotgun Surgery: changing the shard count meant
+      # editing this step AND the `needs:` list above in lockstep, by hand, with nothing
+      # to catch a block left behind. `${{ toJSON(needs) }}` carries every job this job
+      # `needs:` and its result, so looping over it makes the assertion shard-count-
+      # agnostic -- a shard added or removed only ever requires editing `needs:` above.
+      #
+      # THE TRAP this preserves (#268's own): still `if: always()`, so the loop below still
+      # runs and asserts on shard failure, cancellation, AND skip alike, rather than this
+      # job itself being skipped when an upstream job fails.
       - name: Every shard must have succeeded
         env:
-          SHARD_1: ${{ needs.generated-views-shard-1.result }}
-          SHARD_2: ${{ needs.generated-views-shard-2.result }}
-          SHARD_3: ${{ needs.generated-views-shard-3.result }}
-          SHARD_4: ${{ needs.generated-views-shard-4.result }}
-          SHARD_5: ${{ needs.generated-views-shard-5.result }}
+          NEEDS_JSON: ${{ toJSON(needs) }}
         run: |
           fail=0
-          echo "shard-1: $SHARD_1"
-          if [ "$SHARD_1" != "success" ]; then
-            echo "FAIL  generated-views-shard-1 reported '$SHARD_1', not success"
-            fail=1
-          fi
-          echo "shard-2: $SHARD_2"
-          if [ "$SHARD_2" != "success" ]; then
-            echo "FAIL  generated-views-shard-2 reported '$SHARD_2', not success"
-            fail=1
-          fi
-          echo "shard-3: $SHARD_3"
-          if [ "$SHARD_3" != "success" ]; then
-            echo "FAIL  generated-views-shard-3 reported '$SHARD_3', not success"
-            fail=1
-          fi
-          echo "shard-4: $SHARD_4"
-          if [ "$SHARD_4" != "success" ]; then
-            echo "FAIL  generated-views-shard-4 reported '$SHARD_4', not success"
-            fail=1
-          fi
-          echo "shard-5: $SHARD_5"
-          if [ "$SHARD_5" != "success" ]; then
-            echo "FAIL  generated-views-shard-5 reported '$SHARD_5', not success"
-            fail=1
-          fi
+          for job in $(echo "$NEEDS_JSON" | jq -r 'keys[]'); do
+            result=$(echo "$NEEDS_JSON" | jq -r --arg j "$job" '.[$j].result')
+            echo "$job: $result"
+            if [ "$result" != "success" ]; then
+              echo "FAIL  $job reported '$result', not success"
+              fail=1
+            fi
+          done
           if [ "$fail" -ne 0 ]; then
             echo "generated-views is red: at least one shard did not succeed"
             echo "(failure, cancellation, and skip all count -- see #268)."
             exit 1
           fi
-          echo "generated-views is green: all 5 shard(s) succeeded."
+          n=$(echo "$NEEDS_JSON" | jq -r 'keys | length')
+          echo "generated-views is green: all $n shard(s) succeeded."
