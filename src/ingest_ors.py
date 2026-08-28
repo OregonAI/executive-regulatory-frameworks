@@ -32,17 +32,63 @@ EDITION = "2025 Edition"
 CHAPTER_TITLES = {}  # filled from catalog
 
 
+# ORS itself delimits a section's catchline: every section is printed as
+# "NUMBER CATCHLINE. body...", the catchline running from right after the number to the
+# period that ends it (a closing quote may sit between the period and the following
+# whitespace, e.g. `indorsement "not a true bill." (1) When...`).
+_CATCHLINE_END_RE = re.compile(r"\.[”’\"']*(?:\s|$)")
+
+
+def _words(s: str) -> list:
+    return re.findall(r"[a-z]+", s.lower())
+
+
+def _catchline_words(slice_text: str, sec: str) -> list:
+    body = slice_text[len(sec):len(sec) + 600]
+    m = _CATCHLINE_END_RE.search(body)
+    return _words(body[:m.start()] if m else body)
+
+
 def anchor_ok(slice_text: str, sec: str, title: str) -> bool:
-    """Sanity check against mis-anchored slices: must start with the section number
-    and share vocabulary with the catalog catchline."""
+    """Anchoring evidence: the slice must start with the section number, and the
+    catalog title must agree, WORD FOR WORD IN ORDER FROM THE FRONT, with the text ORS
+    itself prints as this section's own catchline -- not merely share a word with it
+    (#201). A slice that begins with the wrong sentence is refused even when that
+    sentence later happens to use one of the title's words, because this checks
+    POSITION -- the one thing ORS's own convention (number, catchline, period, body)
+    gives us to check against -- rather than vocabulary. A bag-of-words check has no
+    such anchor: for a short catchline ("Purpose", "Definitions", "Scope") almost any
+    single shared word clears it, which is the defect this replaces.
+
+    Comparison runs only through the SHORTER of the two word lists, because the
+    catalog title is not always the clean catchline: `catalog_ors.py`'s TOC parser
+    truncates a title at 160 characters (sometimes mid-word) and, on a measured 27 of
+    37,534 currently-ingested sections, carries a stray trailing heading fragment or a
+    small transcription slip the printed catchline does not (OregonAI/
+    executive-regulatory-frameworks#286) -- always EXTRA or DIVERGENT words beyond
+    where the two agree, never a missing or reordered one for a genuinely-anchored
+    slice, which is what makes truncating the comparison to the shorter list sound
+    rather than merely permissive. The one place a mismatch is tolerated at all is the
+    final word compared, and only as a one-sided prefix (`recor` vs. `records`) -- the
+    shape a 160-character cut produces, not a stand-in for a different word.
+    """
     if not slice_text.startswith(sec):
         return False
-    head = normalize_ws(slice_text[:160]).lower()
-    words = [w for w in re.findall(r"[a-z]{4,}", title.lower())][:6]
-    if not words:
-        return True
-    hits = sum(1 for w in words if w in head)
-    return hits >= max(1, len(words) // 2)
+    title_words = _words(title)
+    if not title_words:
+        return False
+    catchline_words = _catchline_words(slice_text, sec)
+    n = min(len(title_words), len(catchline_words))
+    if n == 0:
+        return False
+    for i in range(n):
+        a, b = title_words[i], catchline_words[i]
+        if a == b:
+            continue
+        if i == n - 1 and a and b and (a.startswith(b) or b.startswith(a)):
+            continue
+        return False
+    return True
 
 
 # LEGAL STATUS - NOT-A-RULE: an ORS section, not an OAR rule. ADR 0006 gives a RULE's legal
@@ -134,10 +180,25 @@ def ingest_chapter(ch, cat_chapter):
             kept += 1
             continue
         sl = snapshot_slice(doc_id, snap_id, raw_txt)
-        if len(sl) < 120 or not anchor_ok(sl, sec, title):
+        if len(sl) < 120:
             s["status"] = "not_sliceable"
             s["note"] = ("no section body found in the chapter text (likely renumbered/"
                          "repealed or a TOC cross-reference artifact); not ingested")
+            s.pop("path", None)
+            skipped += 1
+            continue
+        if not anchor_ok(sl, sec, title):
+            # A body-length slice was found at the section number, but it does not
+            # start with this section's own catchline (#201) -- distinct from the
+            # "nothing there at all" case above, and reported as such rather than
+            # folded into the same note, so a human auditing not_sliceable rows can
+            # tell a renumbered/repealed section from a title that needs re-checking
+            # against the source (see OregonAI/executive-regulatory-frameworks#286
+            # for a catalog of the latter already found and not yet corrected).
+            s["status"] = "not_sliceable"
+            s["note"] = ("catalog title does not match this section's own printed "
+                         "catchline at the anchor point; not ingested (verify the "
+                         "catalog title against the source before re-running)")
             s.pop("path", None)
             skipped += 1
             continue
@@ -193,5 +254,89 @@ def main():
     (OUT / "_index.md").write_text("\n".join(lines))
 
 
+def _proof_the_one_shared_word_defect_is_refused(ck):
+    """CRITERION 1 OF #201: "A slice whose only catchline overlap is one common word is
+    refused — watched failing, with a real ORS section as the fixture rather than a
+    synthetic one."
+
+    The number and title are real, current catalog rows (`ors.yml`'s chapter 12,
+    section 12.420, "Purpose"), and the wrong body is real ORS text too — the opening of
+    12.020's own printed body, lifted verbatim from the committed chapter-12 snapshot —
+    just paired with 12.420's number and title instead of its own, so a slice that
+    physically began at the wrong place would look exactly like this: the right number,
+    a sentence that is not this section's catchline, and the word "purpose" sitting in
+    it anyway (not at the front — mid-sentence, the way #201 describes). The pre-fix
+    `anchor_ok` admitted this (a bag-of-words check with `hits >= max(1, len(words)//2)`
+    against a 1-word title needs exactly one hit, and "purpose" is in the first 160
+    characters); this proof is what watching that fail looked like, quoted in the commit
+    that lands alongside it."""
+    sec, title = "12.420", "Purpose"
+    wrong_slice = (sec + " Except as provided in subsection (2) of this section, for the "
+                   "purpose of determining whether an action has been commenced within "
+                   "the time limited, an action shall be deemed commenced as to each "
+                   "defendant, when the complaint is filed, and the summons served on "
+                   "the defendant, or on a codefendant who is a joint contractor.")
+    ck("pre-fix bag-of-words logic WOULD admit this (documented, not exercised): a title "
+       "word appearing anywhere in the opening text is enough",
+       "purpose" in normalize_ws(wrong_slice[:160]).lower())
+    ck("the real anchor_ok refuses it: 'purpose' is not where this section's own "
+       "catchline is printed", not anchor_ok(wrong_slice, sec, title))
+
+
+def _proof_real_anchors_still_pass(ck):
+    """CRITERION 2 OF #201: currently-ingested, correctly-anchored sections must still
+    pass. Runs the real slicer against committed chapter snapshots (no network) for a
+    spread of real catalog rows, including 12.420's OWN real slice (the section the
+    refusal proof above impersonates) and 1.860, whose catalog title carries the
+    trailing-heading noise `catalog_ors.py`'s `TRAILING_HEADING_RE` only partly strips
+    ("...justice courts COURTS") -- proving the fix tolerates that known, separate
+    catalog defect rather than refusing a section over it."""
+    cases = [
+        ("ors-chapter-1", "1.001", "State policy for courts"),
+        ("ors-chapter-1", "1.194", "Definitions for ORS 1.194 to 1.200"),
+        ("ors-chapter-1", "1.860", "Reports relating to municipal courts and justice courts COURTS"),
+        ("ors-chapter-12", "12.420", "Purpose"),
+    ]
+    for snap_id, sec, title in cases:
+        raw_txt = (SNAPSHOT_DIR / f"{snap_id}.txt").read_text(encoding="utf-8", errors="replace")
+        sl = snapshot_slice(f"ors-{sec.lower()}", snap_id, raw_txt)
+        ck(f"{sec}: real slice found in {snap_id}", len(sl) > 0)
+        ck(f"{sec}: real slice anchors against its own catalog title", anchor_ok(sl, sec, title))
+
+
+def _proof_a_measured_residual_is_named_not_absorbed(ck):
+    """CRITERION 4 (rule rationale) and the ticket's "measure before you tighten"
+    instruction: a tightened rule that happens to swallow every pre-existing catalog
+    defect would be indistinguishable from one that checks nothing. Measured against
+    the full currently-ingested corpus (37,534 sections, `_meta/catalog/ors.yml` +
+    every committed `_meta/snapshots/ors-chapter-*.txt`): 37,507 pass (99.93%); 27 do
+    not, because their catalog `title` diverges from the section's own printed
+    catchline by more than a trailing word or heading fragment -- filed as
+    OregonAI/executive-regulatory-frameworks#286 rather than silently patched here.
+    Re-running that full scan on every selftest would cost the better part of a minute
+    for no new information (the 27 are a fixed, filed list), so this proof instead
+    pins one of them -- 452.300, catalogued "VECTOR" against a real printed catchline
+    of "Oregon Health Authority vector control program" -- as a fast regression check
+    that the refusal for a genuinely bad title still fires, without re-deriving the
+    other 26."""
+    raw_txt = (SNAPSHOT_DIR / "ors-chapter-452.txt").read_text(encoding="utf-8", errors="replace")
+    sl = snapshot_slice("ors-452.300", "ors-chapter-452", raw_txt)
+    ck("452.300: real slice found", len(sl) > 0)
+    ck("452.300: refused — catalog title 'VECTOR' is not this section's printed "
+       "catchline (#286), and the fix must not paper over that with a looser match",
+       not anchor_ok(sl, "452.300", "VECTOR"))
+
+
+def _selftest() -> int:
+    from repo_lib import Checks
+    ck = Checks()
+    _proof_the_one_shared_word_defect_is_refused(ck)
+    _proof_real_anchors_still_pass(ck)
+    _proof_a_measured_residual_is_named_not_absorbed(ck)
+    return ck.report("ingest-ors selftest")
+
+
 if __name__ == "__main__":
+    if "--selftest" in sys.argv[1:]:
+        sys.exit(_selftest())
     main()
