@@ -14,19 +14,18 @@ corpus-wide changes from 2026-08-02 forward.
 - 2026-08-28 — **`AGENTS.md` and `CONTEXT.md` said all 44 decided relation kinds rest on
   `proposed-enabling-authority`, the CANDIDATE basis "nobody has read"; `--check` measures
   the opposite majority** (#277). Re-measured rather than trusted the ticket's own figures,
-  per this branch's standing rule that a number in a filing is a lead and not a fact:
-  `python3 src/catalog_agencies.py --check` on this branch reports "the 44 decided kind(s)
-  rest on: 3 proposed-enabling-authority, 41 reviewed-enabling-authority" — the ticket's
-  own re-measurement confirmed, not superseded. 44 is the correct count of DECIDED kinds
-  (`kinds: 37 undetermined, 0 part_of, 44 administered_by`, also unchanged), but both
+  per this cluster of tickets' standing rule that a number in a filing is a lead and not a
+  fact: `python3 src/catalog_agencies.py --check` on this branch reports "the 44 decided
+  kind(s) rest on: 3 proposed-enabling-authority, 41 reviewed-enabling-authority" — the
+  ticket's own re-measurement confirmed, not superseded. 44 is the correct count of DECIDED
+  kinds (`kinds: 37 undetermined, 0 part_of, 44 administered_by`, also unchanged), but both
   documents attached it to the wrong half of the proposed/reviewed split: `AGENTS.md:482`
   said "All 44 rest on `proposed-enabling-authority`"; `CONTEXT.md`'s **Relation basis**
   entry said "44 of the 81 kinds rest on the second today" (the second = `proposed-
   enabling-authority`, the weaker, unread basis). Both understated the registry's own
   quality: a reader trusting either sentence would conclude 44 of 44 decided kinds are
-  still waiting on review, when 41 have already cleared it — the inverse of #219's shape
-  (that ticket's claim understated coverage too, in the same direction), but the third time
-  this branch has found a hand-typed count going stale in prose (#219, #279, now this).
+  still waiting on review, when 41 have already cleared it — the third time this cluster of
+  tickets has found a hand-typed count going stale in prose (#219, #279, now this).
 
   Followed #219's own precedent exactly rather than re-deriving it: reworded both sites to
   drop the number rather than update it to today's, pointing at `relation_census()` — already
@@ -35,9 +34,23 @@ corpus-wide changes from 2026-08-02 forward.
   leave behind. Swept the same shape into `src/derive_relation_kinds.py`'s module docstring
   in the same pass (found while reading it, not part of the ticket's own two named sites):
   its "so 44 of the 81 children become `administered_by`. The other 37 stay `undetermined`"
-  and, twenty lines later, "37 undetermined rows are the correct answer" carried the same
-  present-tense count-in-prose risk one level down, in the module CONTEXT.md itself names as
-  the field's only writer; both are now number-free, pointing at the same `relation_census()`.
+  (line 32) and "37 undetermined rows are the correct answer" (line 39, seven lines later —
+  measured with `git show dc59fec:src/derive_relation_kinds.py | grep -n`, not estimated)
+  carried the same present-tense count-in-prose risk one level down, in the module CONTEXT.md
+  itself names as the field's only writer; both are now number-free, pointing at the same
+  `relation_census()`. Code review of #277 found the sweep still incomplete — a single grep
+  for the ticket's own sentence would have surfaced it — and this commit closes the rest:
+  `.github/workflows/validate-frontmatter.yml:563`, a hand-editable CI comment carrying the
+  ticket's exact sentence ("44 of the 81 are derived from candidates NOBODY HAS READ") in a
+  third live site — `shard_generated_views.py --check` gates the shard job NAMES there, not
+  the comment's wording, so nothing blocked the edit; two more pins in
+  `src/derive_relation_kinds.py` itself (the `_registry()` selftest fixture's "This is the
+  37."/"The 44." row labels, and an illustrative "44 bodies administered by their parent" in
+  `--check`'s own docstring, both pinning the exact counts the module docstring just stopped
+  naming); and one in an inline comment inside `src/catalog_agencies.py`'s
+  `relation_census()` ('A census reporting only "44 administered_by"'), inside the function
+  the other three sites now point readers at. Each is reworded to describe the shape without
+  pinning today's count, the same fix already applied to `AGENTS.md`/`CONTEXT.md` above.
   Left alone: `docs/adr/0004`'s own "so 44 of the 81 children become `administered_by`" (its
   Amendment section, 2026-08-21) and `CHANGELOG.md`'s existing 2026-08-21 entry for #173 —
   both read as dated decision/history narrative describing the state that motivated a

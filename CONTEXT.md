@@ -380,9 +380,8 @@ not evidence. The split between the two moves every time a review lands, so it i
 `relation_census()`'s live count, printed by `catalog_agencies.py --check` on every run,
 rather than a figure pinned in this glossary entry to go stale the next time it moves; the
 row upgrades visibly when the review lands. A kind other than *undetermined* with no basis
-is refused, for the reason
-`manual: true` was retired: an assertion records that someone decided, never what decided
-it. It is written by one thing, `src/derive_relation_kinds.py`.
+is refused, for the reason `manual: true` was retired: an assertion records that someone
+decided, never what decided it. It is written by one thing, `src/derive_relation_kinds.py`.
 _Avoid_: Evidence, provenance, reason — a basis says what a KIND was derived from, and
 `source` already answers where the relation came from
 

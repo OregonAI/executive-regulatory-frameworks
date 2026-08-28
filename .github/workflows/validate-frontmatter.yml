@@ -560,13 +560,16 @@ jobs:
       - name: Enabling-authority rules must all be able to fail
         timeout-minutes: 2
         run: python3 src/link_enabling_authority.py --selftest
-      # A relation's KIND is derived, and 44 of the 81 are derived from candidates NOBODY
-      # HAS READ (ADR 0004's amendment). The whole defence of that is the `basis` recorded
-      # beside each kind, so the rules that keep the two strengths apart — a kind with no
-      # basis, an `administered_by` citing nothing, a candidate the registry cannot record —
-      # are the ones this proves can fail, against a synthetic registry and a synthetic
-      # review sheet. It also proves the two things the derivation must NOT do: derive a kind
-      # from the absence of a candidate, and leave a reviewed row still recording a proposal.
+      # A relation's KIND is derived, and some of the decided kinds rest on candidates
+      # NOBODY HAS READ rather than on a reviewed enabling authority (ADR 0004's amendment)
+      # — the live split is `relation_census()`'s to print, on every `catalog_agencies.py
+      # --check` run, rather than a figure pinned here to go stale. The whole defence of
+      # that split is the `basis` recorded beside each kind, so the rules that keep the two
+      # strengths apart — a kind with no basis, an `administered_by` citing nothing, a
+      # candidate the registry cannot record — are the ones this proves can fail, against a
+      # synthetic registry and a synthetic review sheet. It also proves the two things the
+      # derivation must NOT do: derive a kind from the absence of a candidate, and leave a
+      # reviewed row still recording a proposal.
       - name: Relation-kind derivation rules must all be able to fail
         timeout-minutes: 2
         run: python3 src/derive_relation_kinds.py --selftest

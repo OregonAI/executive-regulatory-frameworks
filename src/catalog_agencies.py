@@ -1117,7 +1117,7 @@ def relation_census(orgs) -> str:
     # registry holds kinds derived from a PROPOSED enabling-authority candidate nobody has
     # read beside kinds derived from a REVIEWED authority, and those are not the same claim:
     # ADR 0004 derives the kind from admitting evidence, and a proposal is not evidence. A
-    # census reporting only "44 administered_by" would present the weaker population as the
+    # census reporting only the kind tally would present the weaker population as the
     # stronger one on every run. Counted over the relations that RECORD a decision, so an
     # entry with a decided kind and no basis shows up here as a basis this registry does not
     # name — which is `relation-shape`'s failure, reported rather than absorbed.

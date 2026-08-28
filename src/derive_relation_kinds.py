@@ -383,9 +383,9 @@ def check() -> int:
     decisions = derived(orgs, proposed)
     bases = collections.Counter(d.basis for d in decisions.values())
     # THE TWO POPULATIONS, NAMED APART AND BOTH COUNTED, on every run. The number that would
-    # be easiest to print is "44 bodies administered by their parent", and it is the one this
-    # module may not print alone: 44 of those rest on candidates nobody has read, and the
-    # count of bodies left `undetermined` is not a backlog to be quiet about — it is the
+    # be easiest to print is a single administered-by tally, and it is the one this module
+    # may not print alone: some of that population rest on candidates nobody has read, and
+    # the count of bodies left `undetermined` is not a backlog to be quiet about — it is the
     # answer for every body no evidence speaks to.
     children = [o for o in orgs if isinstance(o, dict) and relation_entries(o)]
     print(f"{len(decisions)} of {len(children)} bodies under another have a kind derived; "
@@ -436,9 +436,9 @@ def _registry():
     parent = "board-of-imaginary-affairs"
     orgs = [
         _row(parent),
-        # NO CANDIDATE AND NO REVIEW: stays undetermined. This is the 37.
+        # NO CANDIDATE AND NO REVIEW: stays undetermined.
         _row("imaginary-affairs-inspection-division", parent),
-        # A PROPOSED CANDIDATE NOBODY HAS READ: administered_by, on the weaker basis. The 44.
+        # A PROPOSED CANDIDATE NOBODY HAS READ: administered_by, on the weaker basis.
         _row("board-of-imagined-standards", parent),
         # A REVIEWED AUTHORITY, WITH A PROPOSAL STILL IN THE SHEET: the reviewed one wins,
         # and the basis says so. This is the upgrade, and the row it happens on.
