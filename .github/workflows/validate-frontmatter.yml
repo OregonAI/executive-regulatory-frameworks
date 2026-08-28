@@ -108,6 +108,9 @@ jobs:
     # on stdin); it should not ordinarily be the thing that fires.
     timeout-minutes: 45
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # some of these scripts read git history
       - uses: ./.github/actions/generated-views-setup
       # THE SHARD SPLIT'S OWN GATE (#268), living here rather than in the fan-in job so
       # that job stays pure (its only work is depending on the shards and asserting their
@@ -271,6 +274,9 @@ jobs:
     # 45: see shard-1's comment -- comfortably above this shard's own summed per-step budget.
     timeout-minutes: 45
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # some of these scripts read git history
       - uses: ./.github/actions/generated-views-setup
       # A re-analysis must never delete a prior run's candidates. The merge used to
       # replace an already-covered chapter's list wholesale, so a weaker model silently
@@ -389,6 +395,9 @@ jobs:
     # 35: see shard-1's comment -- comfortably above this shard's own summed per-step budget.
     timeout-minutes: 35
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # some of these scripts read git history
       - uses: ./.github/actions/generated-views-setup
       # The citation schemes' own proofs, and the half that matters is the refusals: an
       # `Or. Const.` citation to a section the page does not print must resolve to NOTHING
@@ -501,6 +510,9 @@ jobs:
     # 55: see shard-1's comment -- comfortably above this shard's own summed per-step budget.
     timeout-minutes: 55
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # some of these scripts read git history
       - uses: ./.github/actions/generated-views-setup
 
       # --- parser regression guards (fast; every run) ---
@@ -641,6 +653,9 @@ jobs:
     # corpus's STATUS.md was first generated with.
     timeout-minutes: 20
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # some of these scripts read git history
       - uses: ./.github/actions/generated-views-setup
       # STATUS.md derives from repo content, so a PR is exactly what can invalidate
       # it (oregon-audits' generated-job rationale). --check, not a raw diff: the
@@ -664,6 +679,9 @@ jobs:
     # for a genuine hang, per the same reasoning as the PR-tier shards above.
     timeout-minutes: 80
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # some of these scripts read git history
       - uses: ./.github/actions/generated-views-setup
 
       # --- heaviest full-corpus scans: nightly / on-demand only ---

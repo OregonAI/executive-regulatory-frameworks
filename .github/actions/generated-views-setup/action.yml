@@ -10,12 +10,16 @@ description: >
   requirements.txt's own `corpus-toolkit @ git+...@v1.31.1` pin) -- same trap
   oregon-audits documents in its generated job (corpus-toolkit#9).
 
+  THE REPO CHECKOUT IS NOT HERE, and cannot be: GitHub must read this file off disk to load
+  the action at all, so a local action cannot be what checks out the repo containing it. Every
+  caller does `actions/checkout` (with `fetch-depth: 0` -- some of these scripts read git
+  history) as its own first step, then calls this. Measured the hard way on the #268 PR: with
+  the checkout inside here, all five shards died in 2-4s with "Can't find 'action.yml' ...
+  Did you forget to run actions/checkout before running your local action?"
+
 runs:
   using: composite
   steps:
-    - uses: actions/checkout@v4
-      with:
-        fetch-depth: 0   # some of these scripts read git history
     - uses: actions/setup-python@v5
       with:
         python-version: "3.12"
