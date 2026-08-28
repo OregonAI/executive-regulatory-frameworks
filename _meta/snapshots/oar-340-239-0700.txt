@@ -1,0 +1,472 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 239 LANDFILL GAS EMISSIONS 
+ 340-239-0700 
+ Recordkeeping and Reporting Requirements 
+ 
+ When required as provided in OAR 340-239-0100 through 340-239-0800, the owner or operator of a landfill must comply with the recordkeeping and reporting requirements in this rule. 
+
+ (1) The electronic reporting requirements of 40 C.F.R. §§ 60.38f(j), 60.767(i), and 63.1981(i) are incorporated by reference herein. Owners or operators of landfills that meet the applicability or designated facility requirements in 40 C.F.R. §§ 60.31f, 60.760, or 63.1935 must comply with the electronic reporting requirements of 40 C.F.R. §§ 60.38f(j), 60.767(i), or 63.1981(i), respectively and as applicable. 
+
+ (2) Recordkeeping Requirements. 
+
+ (a) A landfill owner or operator subject to this division must maintain the following records for at least five years: 
+
+ (A) All gas collection system downtime exceeding five days, including dates of the downtime, individual well shutdown and disconnection times, the reason for the downtime, and any corrective actions conducted in response to the downtime; 
+
+ (B) All gas control system downtime in excess of one consecutive hour, the reason for the downtime, the length of time the gas control system was shutdown, and any corrective actions conducted in response to the downtime; 
+
+ (C) All instantaneous surface readings of 100 ppmv methane or greater. All exceedances of the limits in OAR 340-239-0100(6)(b) and 340-239-0200, including the location of the leak (or affected grid), leak concentration in ppmv methane, date and time of measurement, the action taken to repair the leak, date of repair, any required remonitoring and the remonitored concentration in ppmv methane, wind speed during surface sampling, and the installation date and location of each well installed as part of a gas collection system expansion; 
+
+ (D) Any positive wellhead gauge pressure measurements, the name of the individual that conducted the actions, the date and time of the measurements, the well identification number, and the corrective action taken; 
+
+ (E) Each wellhead temperature monitoring value of 62.8 degrees Celsius (145 degrees Fahrenheit) or above, each wellhead nitrogen level at or above 20 percent, and each wellhead oxygen level at or above 5 percent; 
+
+ (F) Monthly solid waste acceptance rate, for active landfills or landfills that have accepted waste within the last five years; 
+
+ (G) The current amount of waste-in-place including waste composition; 
+
+ (H) The nature, location, amount, and date of deposition of nondecomposable waste for any landfill areas excluded from the collection system; 
+
+ (I) Results of any performance tests conducted pursuant to OAR 340-239-0110(2)(f); 
+
+ (J) Descriptions of mitigation measures taken to prevent the release of methane or other emissions into the atmosphere: 
+
+ (i) When solid waste was brought to the surface during the installation or preparation of wells, piping, or other equipment; 
+
+ (ii) During repairs or the temporary shutdown of gas collection system components; and 
+
+ (iii) When solid waste was excavated and moved; 
+
+ (K) Any construction activities pursuant to OAR 340-239-0300. Records must contain the following information: 
+
+ (i) A description of the actions being taken, the areas of the landfill that will be affected by these actions, the reason the actions are required, and any landfill gas collection system components that will be affected by these actions; 
+
+ (ii) Construction start and finish dates, projected equipment installation dates, and projected shut down times for individual gas collection system components; and 
+
+ (iii) A description of the mitigation measures taken to minimize methane emissions and other potential air quality impacts; 
+
+ (L) For any root cause analysis for which corrective actions are required, records of the root cause analysis conducted, the corrective action analysis, the date for corrective action(s) already completed following the positive pressure reading or high temperature reading, for action(s) not already completed, a schedule for implementation, including proposed commencement and completion dates, and a copy of any comments or final approval on the corrective action analysis or schedule from DEQ; 
+
+ (M) The equipment operating parameters specified to be monitored under OAR 340-239-0600(2) as well as records for periods of operation during which the parameter boundaries established during the most recent performance test are exceeded. The records must include the following information: 
+
+ (i) For enclosed flares, all 3-hour periods of operation during which the average temperature difference was more than 28 degrees Celsius (or 50 degrees Fahrenheit) below the average combustion temperature during the most recent performance test at which compliance with OAR 340-239-0110(2)(b) and OAR 340-239-0110(2)(c) was determined; 
+
+ (ii) For any owner or operator who uses a boiler or process heater with a design heat input capacity of 44 megawatts per hour (150 million British thermal units per hour) or greater to comply with OAR 340-239-0110(2)(c), all periods of operation of the boiler or process heater (e.g., steam use, fuel use, or monitoring data collected pursuant to other federal, State, local, or tribal regulatory requirements), readily accessible continuous records of the equipment operating parameters specified to be monitored in OAR 340-239-0600(2) and up-to-date, readily accessible records for periods of operation during which the parameter boundaries established during the most recent performance test are exceeded; 
+
+ (iii) For open flares, continuous records of the flame or flare pilot flame monitoring, and up-to-date, readily accessible records of all periods of operation in which the flame or flare pilot flame is absent; and 
+
+ (iv) The indication of flow to the control system and the indication of bypass flow or records of monthly inspections of car-seals or lock-and-key configurations used to seal bypass lines; 
+
+ (N) All collection and control system exceedances of the operational standards; the reading in the subsequent month, whether or not the second reading is an exceedance; and the location of each exceedance; 
+
+ (O) Landfill owners or operators who convert waste-in-place from volume to mass, must keep readily accessible, records of the annual recalculation of site-specific density, design capacity, and the supporting documentation; 
+
+ (P) Landfill owners or operators demonstrating that site-specific surface methane emissions are below 200 ppmv by conducting surface emission monitoring under OAR 340-239-0100(6)(b) must keep for at least five years up-to-date, readily accessible records of all surface emissions monitoring and information related to monitoring instrument calibrations conducted according to sections 8 and 10 of Method 21 of appendix A of 40 C.F.R. Part 60, including all of the following items: 
+
+ (i) Calibration records, including: 
+
+ (I) Date of calibration and initials of operator performing the calibration; 
+
+ (II) Calibration gas cylinder identification, certification date, and certified concentration; 
+
+ (III) Instrument scale(s) used; 
+
+ (IV) A description of any corrective action taken if the meter readout could not be adjusted to correspond to the calibration gas value; and 
+
+ (V) If an owner or operator makes their own calibration gas, a description of the procedure(s) used; 
+
+ (ii) Digital photographs of the instrument setup, including the wind barrier. The photographs must be accurately time and date-stamped and taken at the first sampling location prior to sampling and at the last sampling location after sampling at the end of each sampling day; 
+
+ (iii) Timestamp of each surface scan reading which must be detailed to the nearest second, based on when the sample collection begins and log for the length of time each sample was taken using a stopwatch ( e.g., the time the probe was held over the area); 
+
+ (iv) Location of each surface scan reading. The owner or operator must determine the coordinates using an instrument with an accuracy of at least four meters. Coordinates must be in decimal degrees with at least five decimal places; 
+
+ (v) Monitored methane concentration (ppmv) of each reading; 
+
+ (vi) Background methane concentration (ppmv) after each instrument calibration test; 
+
+ (vii) For readings taken at each surface penetration, the unique identification location label matching the label specified in subparagraph OAR 340-239-0700(2)(a)(P) (iv); and 
+
+ (viii) Records of the operating hours of the gas collection system for each destruction device; 
+
+ (Q) For each owner or operator reporting leachate or other liquids addition under OAR 340-239-0700(3)(g), keep records of any engineering calculations or company records used to estimate the quantities of leachate or liquids added, the surface areas for which the leachate or liquids were applied, and the estimates of annual waste acceptance or total waste in place in the areas where leachate or liquids were applied; 
+
+ (R) The date of initial placement of waste in newly constructed landfill cells; and 
+
+ (S) Documentation of any component leaks above 250 ppmv methane detected pursuant to OAR 340-239-0600(2)(c) and all repairs performed in response to any component leaks above 500 ppmv. 
+
+ (T) The maximum design capacity of the landfill. 
+
+ (b) The landfill owner or operator must maintain the following records for the life of the control system equipment, as measured during the initial performance test or compliance determination. Records of subsequent tests or monitoring must be maintained for a minimum of five years. Records of the control device vendor specifications must be maintained until removal: 
+
+ (A) The density of wells, horizontal collectors, surface collectors, or other gas extraction devices determined using the procedures specified in OAR 340-239-0110(1)(a); 
+
+ (B) The expected gas generation flow rate as calculated pursuant to OAR 340-239-0800(5); 
+
+ (C) The percent reduction of methane achieved by the control device determined pursuant to OAR 340-239-0800(6); 
+
+ (D) For a boiler or process heater, the description of the location at which the collected gas vent stream is introduced into the boiler or process heater over the same time period of the performance test; 
+
+ (E) When an owner or operator subject to the provisions of this division is demonstrating compliance with OAR 340-239-0110(2) through use of an enclosed combustion device other than a boiler or process heater with a design heat input capacity equal to or greater than 44 megawatts per hour (150 million British thermal units per hour): 
+
+ (i) The average temperature measured at least every 15 minutes and averaged over the same time period of the performance test; and 
+
+ (ii) The percent reduction of methane determined as specified in OAR 340-239-0800(6) achieved by the control device; 
+
+ (F) For an open flare, the flare type (i.e., steam-assisted, air-assisted, or non-assisted), all visible emission readings, heat content determination, flow rate or bypass flow rate measurements, and exit velocity determinations made during the performance test as specified in 40 C.F.R. § 60.18, which is incorporated by reference herein; and records of the flare pilot flame or flare flame monitoring and records of all periods of operations during which the pilot flame or the flare flame is absent; 
+
+ (G) An up to date map showing each existing and planned gas collector in the system; 
+
+ (H) Where an owner or operator subject to the provisions of this division is demonstrating compliance with OAR 340-239-0110(2) through use of a landfill gas treatment system: 
+
+ (i) Bypass records. Records of the flow of landfill gas to, and bypass of, the treatment system; and 
+
+ (ii) Site-specific treatment monitoring plan meeting the requirements of OAR 340-239-0110(2)(d)(C). 
+
+ (I) An up-to-date, readily accessible plot map showing each existing and planned collectors in the system and providing a unique identification location label for each collector. 
+
+ (c) Bioreactor moisture content calculations: Any landfill owner or operator conducting calculations to determine the moisture content of a bioreactor must document the calculations and the basis of any assumptions. made to make such calculations. The records of the calculations must be kept for at least five years and until liquids addition ceases. 
+
+ (d) Record Retention: The landfill owner or operator must maintain copies of the records and reports required by this division and provide them to DEQ within five business days upon request. 
+
+ (3) Reporting Requirements. 
+
+ (a) Closure Notification. Any owner or operator of a landfill that has ceased accepting waste must submit a Closure Notification to DEQ within 30 days of waste acceptance cessation, and: 
+
+ (A) The Closure Notification must include the last day solid waste was accepted, the anticipated closure date of the landfill, and the estimated waste-in-place; and 
+
+ (B) DEQ may request additional information as necessary to verify that permanent closure has taken place in accordance with the requirements of any applicable regulations, requirements, or ordinances in effect at the time of closure. 
+
+ (b) Equipment Removal Report. The landfill owner or operator must submit a gas collection and control system Equipment Removal Report to DEQ 30 days prior to well capping, removal or cessation of operation of the gas collection, treatment, or control system equipment. The report must contain the following information: 
+
+ (A) A copy of the Closure Notification submitted pursuant to OAR 340-239-0700(3)(a); 
+
+ (B) A copy of the Initial Performance Test Report or other documentation demonstrating that the gas collection and control system has been installed and operated for a minimum of 15 years, unless the owner or operator can demonstrate to the satisfaction of DEQ that due to declining methane rates the landfill is unable to operate the gas collection and control system for a 15-year period; and 
+
+ (C) Surface emissions monitoring results needed to verify that landfill surface methane concentration measurements do not exceed the limits specified in OAR 340-239-0200. 
+
+ (c) Semi-Annual Report. A landfill owner or operator subject to this rule, must prepare semi-annual reports for the periods of January 1 through June 30 of each year, unless otherwise approved in writing by DEQ. The Semi-Annual Report will be due on July 30, unless otherwise approved in writing by DEQ. The Semi-Annual Report must contain the following information: 
+
+ (A) All instantaneous surface readings of 100 ppmv or greater. All exceedances of the limits in OAR 340-239-0100(6)(b), 340-239-0200 and 340-239-0600(2)(c) including the location of the leak (or affected grid), leak concentration in ppmv, date and time of measurement, the action taken to repair the leak, date of repair, any required remonitoring and the remonitored concentration in ppmv, wind speed during surface sampling, the concentration recorded at each location for which an exceedance was recorded in the previous month, and the installation date and location of each well installed as part of a gas collection system expansion ; 
+
+ (B) For any corrective action analysis for which corrective actions are required in OAR 340-239-0600(3)(a) and 340-239-0600(3)(b) and that take more than 60 days to correct the exceedance, the root cause analysis conducted, including a description of the recommended corrective action(s), the date for corrective action(s) already completed following the positive pressure or elevated temperature reading, and, for action(s) not already completed, a schedule for implementation, including proposed commencement and completion dates; 
+
+ (C) All known, prevented, or suspected subsurface landfill fire(s) along with potential causes and any efforts conducted to avoid or put out the fire(s). Any positive pressure readings that may have contributed to the known, prevented, or suspected fire; 
+
+ (D) The number of times that applicable parameters monitored under OAR 340-239-0110(2) or 340-239-0200, were exceeded and when the gas collection and control system was not operating in compliance with OAR 340-0110(2)(a) including periods of startup, shutdown, and malfunction. For each instance, report the date, time, and duration of each exceedance. Where an owner or operator subject to the requirements of this division is demonstrating compliance with the operational standard for temperature OAR 340-239-0600(3)(b), the owner or operator must provide a statement of the wellhead operational standard for temperature and oxygen the landfill is complying with for the period covered by the report. The report must indicate: 
+
+ (i) The number of times each of those parameters monitored under OAR 340-239-0600(3)(b), were exceeded. For each instance, report the date, time, and duration of each exceedance; and 
+
+ (ii) The number of times the parameters for the site-specific treatment system in OAR 340-239-0110(2)(d)(C) were exceeded; 
+
+ (E) Description and duration of all periods when the gas stream was diverted from the control device or treatment system through a bypass line or the indication of bypass flow as specified OAR 340-239-0110(2)(c); 
+
+ (F) Description and duration of all periods when the control device or treatment system was not operating and length of time the control device or treatment system was not operating; 
+
+ (G) All periods when the collection system was not operating; 
+
+ (H) The date of installation and the location of each well or collection system expansion; 
+
+ (I) Each owner or operator required to conduct enhanced monitoring in accordance with OAR 340-239-0800(8) for temperatures exceeding 62.8 degrees Celsius (145 degrees Fahrenheit) must include the results of all monitoring activities conducted during the period; 
+
+ (J) For enclosed combustors except for boilers and process heaters with design heat input capacity of 44 megawatts per hour (150 million British thermal units per hour) or greater, all three-hour periods of operation during which the average temperature was more than 28 degrees Celsius (82 degrees Fahrenheit) below the average combustion temperature during the most recent performance test; and 
+
+ (K) For boilers or process heaters, whenever there is a change in the location at which the vent stream is introduced into the flame zone. 
+
+ (d) Annual Report. An owner or operator subject to the requirements of this rule must prepare an Annual Report for the period of January 1 through December 31 of each year. Each Annual Report must be submitted to DEQ by February 15 of the following year, unless otherwise specified by DEQ, but may not be due later than March 15. The Annual Report must consist of the semi-annual and the following annual reporting requirements: 
+
+ (A) Landfill name, owner and operator, address, and permit number as issued according to division 216 or 218; 
+
+ (B) Total volume of landfill gas collected (reported in standard cubic feet); 
+
+ (C) Average composition of the landfill gas collected over the reporting period (reported in percent methane and percent carbon dioxide by volume); 
+
+ (D) Gas control device type, year of installation, rating, fuel type, and total amount of landfill gas combusted in each control device; 
+
+ (E) The date that the gas collection and control system was installed and in full operation; 
+
+ (F) The percent methane destruction efficiency of each gas control device(s); 
+
+ (G) Type and amount of supplemental fuels burned with the landfill gas in each device, if applicable; 
+
+ (H) Total volume of landfill gas shipped off-site (MMscf), the composition of the landfill gas collected (reported in percent methane and percent carbon dioxide by volume), and the recipient of the gas; 
+
+ (I) Most recent topographic map of the site showing the areas with final cover and a geomembrane and the areas with final cover without a geomembrane with corresponding percentages over the landfill surface; 
+
+ (J) The information required paragraphs (2)(a)(A) through (2)(a)(E), (2)(a)(G), (2)(a)(J) through (2)(a)(L) of this rule; 
+
+ (K) Instrument specifications for all instruments used for monitoring compliance with this division; and 
+
+ (e) Waste-in-Place Report. An owner or operator subject to the requirements of OAR 340-239-0100(1), 340-239-0100(2), 340-239-0100(3), or 340-239-0100(4) must prepare an initial Waste-in-Place Report and annual Waste-in-Place reports each following year. The initial Waste-in-Place Report must be submitted by October 1, 2022. Each annual Waste-in-Place Report must be prepared for the period of January 1 through December 31 of each year and be submitted to DEQ by January 31 of the following year. DEQ may extend this deadline through March 1 in the form of a permit condition. The report also must include: 
+
+ (A) Landfill name, owner and operator, address, and the permit number as issued according to division 216 or 218; 
+
+ (B) The landfill’s status (active, closed, or inactive) and the estimated waste-in-place, as of December 31 of the prior year, in tons; 
+
+ (C) A description of the known and assumed waste composition in the landfill; 
+
+ (D) The most recent topographic map of the site showing the areas with final cover and a geomembrane and the areas with final cover without a geomembrane with a calculation of the corresponding percentage geomembrane coverage over the landfill surface. 
+
+ (f) Methane Generation Rate Report. An owner or operator subject to the requirements of OAR 340-239-0100(1), 340-239-0100(2), 340-239-0100(3), or 340-239-0100(4) must calculate the methane generation rate using the calculation procedures specified in OAR 340-239-0800(2) and report the results, along with a summary of efforts being implemented at the landfill to reduce landfill gas emissions, to DEQ: 
+
+ (A) By October 1, 2022 for landfills with greater than 200,000 tons waste-in-place; 
+
+ (B) Within 90 days of reaching 200,000 tons of waste-in-place; 
+
+ (C) By March 15 of each subsequent year while waste-in-place is greater than 200,000 tons and the methane generation rate is less than 664 metric tons (732 tons) per year. The calculation, along with relevant parameters, must be provided as part of the report; and 
+
+ (D) The report must include the results of a visual inspection of the landfill cover and any actions done to fix leaks and minimize methane releases. 
+
+ (g) Liquids Addition Report. An owner or operator subject to OAR 340-239-0110 that has employed leachate recirculation or added liquids based on a Research, Development, and Demonstration permit (issued through Resource Conservation and Recovery Act, subtitle D, part 258) within the last 10 years must submit to DEQ, annually, the following information: 
+
+ (A) Volume of leachate recirculated (gallons per year) and the reported basis of those estimates (records or engineering estimates); 
+
+ (B) Total volume of all other liquids added (gallons per year) and the reported basis of those estimates (records or engineering estimates); 
+
+ (C) Surface area (acres) over which the leachate is recirculated (or otherwise applied); 
+
+ (D) Surface area (acres) over which any other liquids are applied; 
+
+ (E) The total waste disposed (megagrams) in the areas with recirculated leachate, added liquids, or both, based on on-site records to the extent data are available, or engineering estimates and the reported basis of those estimates; 
+
+ (F) The annual waste acceptance rates (megagrams per year) in the areas with recirculated leachate, added liquids, or both, based on on-site records to the extent data are available, or engineering estimates; 
+
+ (G) The initial report must contain items in OAR 340-239-0700(2)(g)(A) through 340-239-0700(2)(g)(F) per year for the initial annual reporting period as well as for each of the previous 10 years, to the extent historical data are available in on-site records, and the report must be submitted no later than 12 months after the date of commenced construction, modification, or reconstruction; 
+
+ (H) Subsequent annual reports must contain items in OAR 340-239-0700(2)(g) (A) through 340-239-0700(2)(g)(F) for the 365-day period following the 365-day period included in the previous annual report, and the report must be submitted no later than 365 days after the date the previous report was submitted; and 
+
+ (I) Landfills may cease annual reporting of items in paragraphs OAR 340-239-0700(2)(g) (A) through 340-239-0700(2)(g)(F) once they have submitted the Closure Notification in OAR 340-239-0700(3)(a). 
+
+ (h) Performance Test Report. For a control system designed and operated to meet the requirements of this division, the owner or operator must submit a Performance Test Report that establishes the reduction efficiency or parts per million by volume no later than 180 days after the initial startup of the approved control system using EPA Method 25 or 25C, 40 C.F.R. Part 60, Appendix A, which is incorporated by reference herein. The owner or operator must submit any additional Performance Test Reports within 30 days after the date of completing each performance test, including any associated fuel analyses. The Performance Test Report must meet the following requirements: 
+
+ (A) T he Performance Test Report must include the following information: 
+
+ (i) A diagram of the collection system showing collection system positioning including all wells, horizontal collectors, surface collectors, or other gas extraction devices, including the locations of any areas excluded from collection and the proposed sites for the future collection system expansion; 
+
+ (ii) The data upon which the sufficient density of wells, horizontal collectors, surface collectors, or other gas extraction devices and the gas mover equipment sizing are based; 
+
+ (iii) The documentation of the presence of asbestos or nondecomposable material for each area from which collection wells have been excluded based on the presence of asbestos or nondecomposable material; 
+
+ (iv) The sum of the gas generation flow rates for all areas from which collection wells have been excluded based on nonproductivity and the calculations of gas generation flow rate for each excluded area; 
+
+ (v) The provisions for increasing gas mover equipment capacity with increased gas generation flow rate, if the present gas mover equipment is inadequate to move the maximum flow rate expected over the life of the landfill; and 
+
+ (vi) The provisions for the control of off-site migration. 
+
+ (D) The control device must be operated within the parameter ranges established during the initial or most recent performance test, the most recent permit, or manufacturer written specifications. The operating parameters to be monitored are specified in OAR 340-239-0600(2); and 
+
+ (i) Collection and Control System Design Plan. The Collection and Control System Design Plan must be prepared and approved by a professional engineer and must meet the following requirements: 
+
+ (A) The collection and control system as described in the design plan must meet the design requirements in OAR 340-239-0110(1); 
+
+ (B) If DEQ does not approve or disapprove the Design Plan, or does not request that additional information be submitted within 90 days of receipt, then the owner or operator may continue with implementation of the Design Plan with the recognition that the owner or operator is proceeding at their own risk. In the event that the Design Plan is required to be modified to obtain approval, the owner or operator must take any steps necessary to conform any prior actions to the approved Design Plan; and 
+
+ (C) If the owner or operator chooses to demonstrate compliance with the emission control requirements of this division using a treatment system as defined in this division, then the owner or operator must prepare a site-specific treatment system monitoring plan as specified in OAR 340-0110(2)(d)(C). 
+
+ (j) Amended Design Plan. The owner or operator who has already been required to submit a design plan under OAR 340-239-0110(2) must submit an Amended Design Plan to DEQ within 90 days of any event that requires a change to the Design Plan as follows: 
+
+ (A) At least 90 days before expanding operations to an area not covered by the previously approved Design Plan; and 
+
+ (B) Prior to installing, repairing, or expanding the gas collection system in a way that is not consistent with the Design Plan previously approved by DEQ. 
+
+ (k) Corrective Action reports: 
+
+ (A) For corrective action that is required according to OAR 340-239-0600(3) and is expected to take longer than 120 days after the initial exceedance to complete, the landfill owner or operator must submit the root cause analysis, corrective action analysis, and corresponding implementation timeline to DEQ as soon as practicable but no later than 75 days after the first measurement of positive pressure or temperature monitoring value greater than 62.8 degrees Celsius (145 degrees Fahrenheit). The owner or operator must receive DEQ approval regarding the plan for corrective action and the corresponding timeline. 
+
+ (B) For corrective action that is required according to OAR 340-239-0600(3) and is not completed within 60 days after the initial exceedance, the landfill owner or operator must submit a notification to DEQ as soon as practicable but no later than 75 days after the first measurement of positive pressure or temperature exceedance. 
+
+ (C) If a landfill owner or operator cannot fully implement a corrective action described in paragraph (3)(k)(A) or (3)(k)(B) of this rule within 60 days following the positive pressure or excess temperature measurement for which the root cause analysis was required, the owner or operator must also conduct a corrective action analysis and develop an implementation schedule to complete the corrective action(s) as soon as practicable, but no more than 120 days following the positive pressure measurement. 
+
+ (l) Instantaneous Surface Emission Monitoring Report. 
+
+ (A) A landfill owner or operator conducting surface emission monitoring pursuant to OAR 340-239-0100(6)(b) must submit an Instantaneous Surface Monitoring Report within 30 days after the fourth consecutive quarter or monitoring if no exceedances are detected, or 30 days after a measured concentration of methane of 200 ppmv or greater, whichever is first. 
+
+ (B) An Instantaneous Surface Emissions Monitoring Report required under paragraph (3)(l)(A) or (3)(l)(B) of this rule must include documentation of the following: 
+
+ (i) Any corrective actions taken as a result of the surface emissions monitoring and clearly identify the location, date and time (to nearest second), average wind speeds including wind gusts, and reading (in parts per million) of concentrations of methane above 100 ppmv, other than non-repeatable, momentary readings. For location, the landfill owner or operator must determine the latitude and longitude coordinates using an instrument with an accuracy of at least four meters. The coordinates must be in decimal degrees with at least five decimal places; and 
+
+ (ii) The results of the most recent methane generation rate calculation. 
+
+ (m) 24-hour high temperature report. Where a landfill owner or operator must demonstrate compliance with the operational standard for temperature in OAR 340-239-0600(3)(b), a landfill gas temperature measured at either the wellhead or at any point in the well is greater than or equal to 76.7 degrees Celsius (170 degrees Fahrenheit), and the carbon monoxide concentration measured is greater than or equal to 1,000 ppmv, the owner or operator must report the date, time, well identifier, temperature and carbon monoxide reading to DEQ within 24 hours of the measurement unless a higher operating temperature value has been approved by DEQ for the well. 
+
+ (n) Repairs and Temporary Shutdown Notification. At least 30 days prior to a scheduled shutdown, any landfill owner or operator that temporarily shuts down a gas collection and control system per OAR 340-239-0110(5) must submit a notification of the shutdown that includes a justification for the shutdown, the system component(s) that will require shutdown, and the approximate timeline for the shutdown. If the shutdown occurred due to catastrophic or other unplanned event as stipulated in OAR 340-239-0110(5), the notification must be submitted within 10 days after the shutdown. 
+
+ (o) Root Cause Analysis Report. If a landfill owner or operator cannot fully implement a corrective action required according to OAR 340-239-0600(3) within 120 days after the initial exceedance, the landfill owner or operator must submit the root cause analysis and additional analysis and reporting according to OAR 340-239-0700(3)(k) as soon as practicable but no later than 75 days after the first measurement of positive pressure or temperature monitoring value greater than 62.8 degrees Celsius (145 degrees Fahrenheit). The root cause analysis must include a thorough investigation of the landfill gas collection and control system to determine the primary cause, and any other contributing causes, of positive pressure or high temperature at a wellhead. The report must include all factors investigated, methods used, and alternative causes that were analyzed. 
+
+ (p) Bioreactor Moisture Content Report. If a landfill owner or operator calculates moisture content to establish the date the bioreactor is required to begin operating the collection and control system, within 90 days after the bioreactor achieves 40-percent moisture content, the landfill owner or operator must submit a Bioreator Moisture Content Report that includes the results of the calculation, the date the bioreactor achieved 40-percent moisture content by weight, and the date the landfill owner or operator will begin collection and control system operation. 
+
+ (q) Notwithstanding any other provision of this division, when any provision of this division requires that any report, or information be submitted by a landfill owner or operator, the report must contain certification by a responsible official of the truth, accuracy, and completeness of the report. This certification, and any other certification required under this division, must state that, based on information and belief formed after reasonable inquiry, the statements and information in the report are true, accurate, and complete. 
+
+ (r) Design Capacity Report. An amended design capacity report must be submitted providing notification of an increase in the design capacity of the landfill, within 90 days of an increase in the maximum design capacity of the landfill to meet or exceed 2.5 million megagrams and 2.5 million cubic meters. This increase in design capacity may result from an increase in the permitted volume of the landfill or an increase in the density. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, ORS 468A.025, ORS 468A.040 & ORS 468A.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025, ORS 468A.040 & ORS 468A.050 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 10-2022, minor correction filed 08/09/2022, effective 08/09/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 16-2021, adopt filed 10/04/2021, effective 10/04/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

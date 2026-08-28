@@ -1,0 +1,346 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 239 LANDFILL GAS EMISSIONS 
+ 340-239-0110 
+ Gas Collection and Control System Requirements 
+ 
+ When required pursuant to OAR 340-239-0100 or 340-239-0400, the owner or operator of a landfill must comply with the gas collection and control system requirements, system operational standards, and well head sampling requirements in this rule. 
+
+ (1) Design Plan and Installation 
+
+ (a) If a gas collection and control system which meets the requirements of section (2) of this rule has not been installed, the owner or operator of a landfill must submit a Design Plan to DEQ within one year of becoming subject to this rule. The Design Plan must satisfy the requirements described in subsection (c). 
+
+ (b) If an owner or operator of a landfill is modifying an existing gas collection and control system to meet the requirements of this division, the owner or operator must submit an amended Design Plan to DEQ that includes any necessary updates or addenda, in accordance with OAR 340-239-0700(3)(j). The amended Design Plan must satisfy the requirements described in subsection (c). 
+
+ (c) At a minimum, the Design Plan must meet all of the following requirements: 
+
+ (A) The Design Plan must be prepared and certified by a professional engineer. The following issues must be addressed in the design: Depths of solid waste, solid waste gas generation rates and flow characteristics, cover properties, gas system expandability, leachate and condensate management, accessibility, compatibility with filling operations, integration with closure end use, air intrusion control, corrosion resistance, fill settlement, resistance to the solid waste decomposition heat, and ability to isolate individual components or sections for repair or troubleshooting without shutting down entire collection system. 
+
+ (B) The Design Plan must provide for the control of the collected gas through the use of a gas collection and control system meeting the requirements of OAR 340-239-0110(2) or an alternative method approved pursuant to OAR 340-239-0500. 
+
+ (C) The Design Plan must demonstrate that the gas collection and control system is designed to handle the maximum expected gas generation flow rate from the entire area of the landfill that warrants control over the intended use period of the gas control system equipment. The maximum expected gas generation flow rate must be calculated using the method in OAR 340-239-0800(5) or an alternative method approved pursuant to OAR 340-239-0500. 
+
+ (D) The Design Plan must include any proposed alternatives to the requirements, justification for the need for any proposed alternatives, test methods, procedures, compliance measures, monitoring, and recordkeeping or reporting requirements pursuant to OAR 340-239-0500. 
+
+ (E) The Design Plan must include a description of potential mitigation measures to be used to prevent the release of methane or other pollutants into the atmosphere during the installation or preparation of wells, piping, or other equipment; during repairs or the temporary shutdown of gas collection system components; or, when solid waste is to be excavated and moved. 
+
+ (F) For active landfills, the Design Plan must identify areas of the landfill that are closed or inactive. 
+
+ (G) The gas collection and control system must be designed to collect gas at an extraction rate to comply with the surface methane emission limits in OAR 340-239-0200, component leak standard in OAR 340-239-0600(2)(c), and be sufficient to meet all operational and performance standards in this division. The expected gas generation flow rate from the landfill must be calculated pursuant to OAR 340-239-0800(5). 
+
+ (H) The gas collection and control system must be designed to maintain a negative pressure at all wellheads in the collection system without causing air infiltration, including any wellheads connected to the system as a result of expansion or excess surface emissions. 
+
+ (I) Any areas of the landfill that contain only asbestos-containing waste, or nondecomposable solid waste may be excluded from collection provided that the owner or operator submits documentation to DEQ containing the nature of the waste, date of deposition, location and amount of asbestos or non-decomposable solid waste deposited in the area. This documentation may be included as part of the Design Plan. 
+
+ (J) The density of wells, horizontal collectors, surface collectors, or other gas extraction devices necessary to achieve compliance with section (2) of this rule. 
+
+ (d) The owner or operator must install and operate a gas collection and control system not later than 30 months after the date that the landfill is required to comply with this rule. 
+
+ (e) The owner or operator of a controlled landfill must place each well or design component as specified in the approved Design Plan. Following initial construction, the owner or operator of a controlled landfill must install each new component no later than 60 days after the date on which the area controlled by the well is required to be controlled pursuant to this division. 
+
+ (f) The owner or operator of a landfill subject to this rule must operate, maintain and expand the gas collection system in accordance with the procedures and schedules in the approved Design Plan. 
+
+ (2) Gas Collection and Control System Operational Standards 
+
+ (a) The owner or operator of a landfill subject to this rule must satisfy all of the following requirements when operating a gas collection and control system: 
+
+ (A) Route all collected gas to a gas control device or devices, and operate the gas collection and control system continuously except as provided in sections (4) and (5) of this rule. 
+
+ (B) Operate the gas collection and control system to comply with paragraph (1)(a)(G) of this rule. 
+
+ (C) Design and operate the gas collection system to draw all the gas toward the gas control device or devices. 
+
+ (D) Design and operate the gas collection system to minimize off-site and on-site migration of subsurface gas in compliance with OAR chapter 340, divisions 093, 094, and 095. 
+
+ (E) In the event the collection or control system is inoperable, the gas mover system shall be shut down and all valves in the collection and control system contributing to venting of the gas to the atmosphere shall be closed within one hour of the collection or control system not operating. 
+
+ (F) Efforts to repair the collection or control system must be initiated and completed in a manner such that downtime is kept to a minimum, and the collection and control system must be returned to operation. 
+
+ (G) Landfills with a design capacity equal to or greater than 2.5 million megagrams (Mg) and 2.5 million cubic meters (m 3 ) must install all passive collection systems with liners on the bottom and all sides in all areas in which gas is to be collected. The liners must be installed as required under 40 C.F.R. § 258.40. 
+
+ (H) Any area of the landfill may be excluded from control, provided that the total of all excluded areas can be shown to contribute less than one percent (1%) of the total amount of methane emissions from the landfill. The amount, location, and age of the material must be documented and provided to DEQ. If data on actual amounts and age is not available, the landfill owner or operator must estimate based on known information and provide all documentation used to make the estimates. A separate methane emissions estimate must be made for each section proposed for exclusion, and the sum of all such sections must be compared to the methane emissions estimate for the entire landfill, and all calculations, data and documentation used to perform the calculations must be submitted to DEQ. The methane emissions from each section proposed for exclusion must be computed using the methods provided in OAR 340-239-0800(5). 
+
+ (I) The landfill gas extraction components must be constructed of polyvinyl chloride (PVC), high density polyethylene (HDPE) pipe, fiberglass, stainless steel, or other nonporous corrosion resistant material of suitable dimensions to: Convey projected amounts of gases; withstand installation, static, and settlement forces; and withstand planned overburden or traffic loads. The collection system must extend as necessary to comply with emission and migration standards. Collection devices such as wells and horizontal collectors must be perforated to allow gas entry without head loss sufficient to impair performance across the intended extent of control. Perforations must be situated with regard to the need to prevent excessive air infiltration. 
+
+ (J) Vertical wells must be placed so as not to endanger underlying liners and must address the occurrence of water within the landfill. Holes and trenches constructed for piped wells and horizontal collectors must be of sufficient cross-section so as to allow for their proper construction and completion including, for example, centering of pipes and placement of gravel backfill. Collection devices must be designed so as not to allow indirect short circuiting of air into the cover, into the solid waste, into the collection system, or gas into the air. Any gravel used around pipe perforations should be of a dimension so as not to penetrate or block perforations. 
+
+ (K) Collection devices may be connected to the collection header pipes below or above the landfill surface. The connector assembly must include a positive closing throttle valve, any necessary seals and couplings, access couplings and at least one sampling port. The collection devices must be constructed of PVC, HDPE, fiberglass, stainless steel, or other nonporous material of suitable thickness. 
+
+ (L) Landfill gas must be conveyed to a control system in compliance with section (2) of this rule through the collection header pipe(s). The gas mover equipment must be sized to handle the maximum gas generation flow rate expected over the intended use period of the gas moving equipment using the following procedures: 
+
+ (i) For existing collection systems, the flow data must be used to project the maximum flow rate. If no flow data exists, the procedures in subparagraph (2)(a)(L)(ii) of this rule must be used; or 
+
+ (ii) For new collection systems, the maximum flow rate must be determined in accordance with OAR 340-239-0800(5). 
+
+ (b) Requirements for Enclosed Flares. A landfill owner or operator subject to this rule who operates an enclosed flare must route the collected gas to an enclosed flare that meets all of the following requirements: 
+
+ (A) Achieves a methane destruction efficiency of at least 99 percent by weight. 
+
+ (B) Is equipped with automatic dampers, an automatic shutdown device, a flame arrester, and continuous recording temperature sensors. 
+
+ (C) During restart or startup there must be a sufficient flow of propane, commercial natural gas, or other approved fuel source, to the pilot light to prevent unburned collected methane from being emitted to the atmosphere. 
+
+ (D) The gas control device must be operated within the parameter ranges established in the landfill’s Air Contaminant Discharge Permit or Oregon Title V Operating Permit. 
+
+ (c) Requirements for open flares: A landfill owner or operator subject to this rule who operates an open flare must route the collected gas to an open flare that meets the requirements of 40 C.F.R. § 60.18. The owner or operator of an open flare must comply with all of the following requirements: 
+
+ (A) Install, calibrate, maintain, and operate the following equipment according to the manufacturer's specifications: 
+
+ (i) A heat sensing device, such as an ultraviolet beam sensor or thermocouple, at the pilot light or the flame itself to indicate the continuous presence of a flame; and 
+
+ (ii) A device that records flow to the flare and bypass of the flare (if applicable). The owner or operator must: 
+
+ (I) Install, calibrate, and maintain a gas flow rate measuring device that records the flow to the control device at least every 15 minutes; and 
+
+ (II) Secure the bypass line valve in the closed position with a car-seal or a lock-and-key type configuration. A visual inspection of the seal or closure mechanism must be performed at least once every month to ensure that the valve is maintained in the closed position and that the gas flow is not diverted through the bypass line. 
+
+ (B) An open flare installed and operating prior to August 1, 2021, may operate until January 1, 2024, but is thereafter prohibited except as provided in paragraph (2)(c)(C) of this rule. 
+
+ (C) Operation of an open flare on or after January 1, 2024, is only allowed with DEQ’s written approval, which DEQ will determine based on whether the owner or operator demonstrates to the satisfaction of DEQ that one of the following conditions apply: 
+
+ (i) The methane generation rate is less than 664 metric tons per year pursuant to OAR 340-239-800(2) and is insufficient to support the continuous operation of an enclosed flare or other gas control device; 
+
+ (ii) The owner or operator is seeking to temporarily operate an open flare during the repair or maintenance of the gas control system, or while awaiting the installation of an enclosed flare, or to address offsite gas migration issues. An owner seeking to temporarily operate an open flare under this subparagraph must submit a written request to DEQ pursuant to OAR 340-239-0500; 
+
+ (iii) The owner or operator has landfill gas emissions that are unable to be controlled using enclosed flare gas control devices in the gas control system. These emissions being controlled using an open flare may not exceed 664 metric tons (732 tons) per year of methane. An owner or operator seeking to operate an open flare under this subparagraph must submit a written request to DEQ pursuant to OAR 340-239-0500. The request must include an analysis verifying that there is no feasible alternative control device configuration that would use the landfill gas emissions without use of an open flare; or 
+
+ (iv) The owner or operator otherwise has received written approval from DEQ to operate an open flare pursuant to OAR 340-239-0500. 
+
+ (d) Requirements for Gas Control Devices other than Flares. A landfill owner or operator subject to this rule may operate a gas control device other than a flare only if the owner or operator complies with one of the following requirements: 
+
+ (A) The device is a boiler or process heater with a design heat input capacity equal to or greater than 44 megawatts per hour (150 million British thermal units per hour), provided that the landfill gas stream is introduced into the flame zone. The performance test is not required for boilers and process heaters with design heat input capacities equal to or greater than 44 megawatts per hour (150 million British thermal units per hour) that burn landfill gas for compliance with this division; 
+
+ (B) Route the collected gas to an energy recovery device, or series of devices that meets all of the following requirements: 
+
+ (i) Achieves a methane destruction efficiency of at least 99 percent by weight pursuant to OAR 340-239-0800(6). Lean burn internal combustion engines must reduce the outlet methane concentration to less than 3,000 ppmv, dry basis, corrected to 15 percent oxygen. 
+
+ (ii) For new gas control devices, the destruction efficiency or parts per million by volume required according to OAR 340-239-0110(2)(d)(A)(i) must be established by an initial performance test to be completed no later than 180 days after the initial startup of the approved control system using the test methods specified in OAR 340-239-0800(6) and the DEQ Source Test Manual. 
+
+ (iii) Existing gas control devices must demonstrate compliance with this rule not later than 180 days from the effective date of this rule using the performance test methods specified in OAR 340-239-0800(6) and the DEQ Source Test Manual. 
+
+ (iv) Operate the gas control device within the parameter ranges established during the initial or most recent performance test that demonstrates compliance with the standard in OAR 340-239-0110(2)(d)(A)(i). Until a performance test is performed, operate the gas control device within engineering or manufacturer’s established parameter ranges. 
+
+ (C) Route the collected gas to a treatment system that processes the collected gas for subsequent sale or use. Venting of treated landfill gas to the ambient air is not allowed. If the treated landfill gas cannot be routed for subsequent sale or beneficial use, then the treated landfill gas must be controlled according to either subsection (2)(b), (2)(c) or (2)(d) of this rule. All emissions vented to the atmosphere from the gas treatment system are subject to the requirements of subsection (2)(b) or (2)(c) of this rule. The owner or operator must prepare a site-specific treatment monitoring plan to include all of the following: 
+
+ (i) Monitoring records of parameters that are identified in the treatment system monitoring plan and that ensure the treatment system is operating properly for each intended end use of the treated landfill gas. At a minimum, records must include records of filtration, de-watering, and compression parameters. 
+
+ (ii) Monitoring methods, frequencies, and operating ranges for each monitored operating parameter based on manufacturer's recommendations or engineering analysis for each intended end use of the treated landfill gas. 
+
+ (iii) Documentation of the monitoring methods and ranges, along with justification for their use. 
+
+ (iv) List of responsible staff (by name and job title) for data collection. 
+
+ (v) Processes and methods used to collect the necessary data. 
+
+ (vi) Description of the procedures and methods that are used for quality assurance, maintenance, and repair of all continuous monitoring systems (CMS). 
+
+ (e) An owner or operator complying with section (2)(d) of this rule by using a landfill gas treatment system must calibrate, maintain, and operate according to the manufacturer's specifications a device that records flow to the treatment system and bypass of the treatment system (if applicable). The owner or operator must maintain and operate all monitoring systems associated with the treatment system in accordance with the site-specific treatment system monitoring plan required by paragraph (2)(d)(C) of this rule. The owner or operator must: 
+
+ (A) Install, calibrate, and maintain a gas flow rate measuring device that records the flow to the treatment system at least every 15 minutes; 
+
+ (B) Install liners or equivalent non-permeable materials on the bottom and all sides in all areas in which gas is to be collected. The liners must be installed as required under 40 C.F.R. 258.40; and 
+
+ (C) Secure the bypass line valve in the closed position with a car-seal or a lock-and-key type configuration. A visual inspection of the seal or closure mechanism must be performed at least once every month to ensure that the valve is maintained in the closed position and that the gas flow is not diverted through the bypass line. 
+
+ (f) Performance Test Requirements. The owner or operator must conduct annual performance tests for any gas control device(s) subject to the requirements of section (2) of this rule using the test methods identified in OAR 340-239-0800(6). Following an initial performance test, the owner or operator must conduct a complete annual performance test each calendar year, no later than 45 days after the anniversary date of the initial performance test. Performance tests must be conducted in compliance with all of the following requirements: 
+
+ (A) An initial performance test must be conducted within 180 days of start up of the gas collection and control system. 
+
+ (B) Existing gas control devices must demonstrate compliance with this rule not later than 180 days from the effective date of this rule using the test methods specified in OAR 340-239-0800(6) and the DEQ Source Test Manual. 
+
+ (C) If a gas control device remains in compliance with standards in section (2) of this rule after three consecutive performance tests, the owner or operator may conduct performance tests once every three years, but no later than 45 days after each third anniversary date of the initial performance test. If a subsequent performance test shows the gas collection and control system does not demonstrate compliance with the standard(s) in section (2) of this rule, the performance testing frequency must return to annual. 
+
+ (D) The performance tests must be conducted under such conditions as DEQ specifies to the owner or operator based on representative performance of the affected source for the period being tested. Representative conditions exclude periods of startup and shutdown unless specified by DEQ. The owner or operator may not conduct performance tests during periods of malfunction. The owner or operator must record the process information that is necessary to document operating conditions during the test and include in such record an explanation to support that such conditions represent normal operation. Upon request, the owner or operator shall make available to DEQ such records as may be necessary to determine the conditions of performance tests. 
+
+ (3) Wellhead sampling. A landfill owner or operator required to comply with section (2) of this rule for an active gas collection system must install a sampling port and measuring devices, or an access port for measuring devices, at each wellhead and comply with the following, using measuring devices that meet the requirements of OAR 340-239-0800(7): 
+
+ (a) Monitor nitrogen or oxygen concentration in the landfill gas on a monthly basis as provided in OAR 340-239-0600(3); 
+
+ (b) Monitor temperature of the landfill gas on a monthly basis as provided in OAR 340-239-0600(3); and 
+
+ (c) Measure the gauge pressure in the gas collection header on a monthly basis as provided in OAR 340-239-0600(2)(d). 
+
+ (4) Well Raising. The requirements of paragraph (2)(a)(A), paragraph (2)(a)(B), and section (3) of this rule do not apply to individual wells involved in well raising provided the following conditions are met: 
+
+ (a) New fill is being added or compacted in the immediate vicinity around the well; and 
+
+ (b) Once installed, a gas collection well extension is sealed or capped until the raised well is reconnected to a vacuum source. 
+
+ (5) Repairs and Temporary Shutdown of Gas Collection System Components: The requirements of paragraphs (2)(a)(A) and (2)(a)(B) do not apply to individual landfill gas collection system components that must be temporarily shut down in order to repair the components due to emergencies, catastrophic events such as earthquakes, to extinguish landfill fires, to prevent landfill fires, to connect new landfill gas collection system components to the existing system, to perform construction activities pursuant to OAR 340-239-0300, or to conduct performance testing, provided the following requirements are met: 
+
+ (a) Any new gas collection system components required to maintain compliance with this division must be included in the most recent Design Plan pursuant to section (1) of this rule. The owner or operator must comply with applicable provisions of the Notice of Construction requirements in OAR chapter 340, division 210 and permit modification requirements of OAR chapter 340, division 216 or 218 prior to the construction, installation and operation of new landfill gas collection system components; 
+
+ (b) Methane emissions are minimized during shutdown pursuant to paragraph (2)(a)(E) of this rule; and 
+
+ (c) The owner or operator must submit a notification to DEQ after any temporary shutdown due to an emergency, catastrophic event or landfill fires in accordance with OAR 340-239-0700(3)(n). 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, ORS 468A.025, ORS 468A.040 & ORS 468A.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025, ORS 468A.040 & ORS 468A.050 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 9-2022, minor correction filed 08/09/2022, effective 08/09/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 16-2021, adopt filed 10/04/2021, effective 10/04/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

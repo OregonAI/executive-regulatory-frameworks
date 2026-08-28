@@ -1,0 +1,266 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 12/01/2026. 
+ 
+ 
+ 
+ 
+ 
+ Oregon Business Development Department 
+ Chapter 123 
+ 
+ 
+ 
+ 
+ 
+ Division 670 JOBS CREATION TAX CREDIT 
+ 123-670-0011 
+ Qualified Industry Definitions 
+ 
+ (1) This rule defines the qualified industries eligible for the Qualified Jobs Creation Tax Credit. A taxpayer must have its primary business activity in one of these industries to be eligible for certification. 
+
+ (2) A business whose primary business activity consists of providing services, supplies, or other support to a qualified industry, but that does not itself operate within a qualified industry as defined in this rule, is not eligible solely based on that relationship. 
+
+ (3) Corporate headquarters, regional administrative offices, and support offices whose primary function is to serve, manage, or support an employer whose primary business activity is in a qualified industry are included within the relevant qualified industry definition, provided the taxpayer demonstrates that its underlying operations are principally within that qualified industry. 
+
+ (4) Each qualified industry definition in this rule includes a list of North American Industry Classification System (NAICS) codes at the four-digit industry group level associated with that industry. A taxpayer whose NAICS code, whether reported at the four-digit, five-digit, or six-digit level, begins with one of the four-digit codes listed for the applicable qualified industry is presumed to operate within that qualified industry for purposes of Option A eligibility under OAR 123-670-0020(1)(a)(A). A taxpayer whose NAICS code does not begin with any four-digit code listed in this rule must demonstrate eligibility through Option B under OAR 123-670-0020(1)(a)(B) by submitting a written statement as provided in OAR 123-670-0040. 
+
+ (5) The qualifying NAICS codes listed in this rule are drawn from the most current edition of the North American Industry Classification System published by the United States Office of Management and Budget at the time of the applicable application period. When a new edition of NAICS is published, OBDD will review the qualifying NAICS code lists in this rule and update them through rulemaking as necessary to reflect code changes. For the first application period following publication of a new NAICS edition, a taxpayer whose code has been renumbered in the new edition may use either the prior or current edition code in their application, and OBDD will evaluate the application based on whichever code corresponds to the taxpayer's primary business activity under the applicable qualified industry definition. 
+
+ (6) "Advanced Manufacturing" has the meaning given in Oregon Laws 2026, chapter 142, section 12 (SB 1507), as amended by Oregon Laws 2026, chapter 50, section 16 (HB 4084). 
+
+ (7) Qualifying NAICS codes for Advanced Manufacturing: 3254 (Pharmaceutical and Medicine Manufacturing), 3311 (Iron and Steel Mills and Ferroalloy Manufacturing), 3312 (Steel Product manufacturing from Purchased Steel), 3313 (Alumina and Aluminum Production and Processing), 3314 Nonferrous Metal except Aluminum Production and Processing), 3315 (Foundries), 3321 (Forging and Stamping), 3323 (Architectural and Structural Metals Manufacturing), 3329 (Other Fabricated Metal Product Manufacturing), 3331 (Agriculture, Construction, and Mining Machinery Manufacturing), 3332 (Industrial machinery Manufacturing), 3334 (Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing), 3336 (Engine, Turbine, and Power Transmission Equipment Manufacturing), 3339 (Other Industrial Machinery Manufacturing), 3344 (Semiconductor and Other Electronic Component Manufacturing), 3345 (Navigational, Measuring, Electromedical, and Control Instruments Manufacturing), 3361 (Motor Vehicle Manufacturing), 3364 (Aerospace Product and Parts Manufacturing), 3369 (Other Transportation Equipment Manufacturing), 4238 (Machinery, Equipment, and Supplies Merchant Wholesalers). 
+
+ (8) "Bioscience and Biotechnology" means the research, development, manufacture, or commercialization of products or processes derived from or dependent upon biological systems, living organisms, or their derivatives, including but not limited to: 
+
+ (a) Pharmaceuticals, biologics, and therapeutic drugs; 
+
+ (b) Medical devices, diagnostic equipment, and laboratory instruments; 
+
+ (c) Agricultural biotechnology, including genetically modified organisms, biopesticides, and biofertilizers; 
+
+ (d) Industrial biotechnology, including biofuels, bioplastics, and bio-based chemicals; and 
+
+ (e) Research tools, laboratory services, and enabling technologies directly integral to the development or production or bioscience or biotechnology products. 
+
+ (9) Bioscience and Biotechnology does not include the retail sale of pharmaceutical products, provision of clinical healthcare services to patients, or provision of general laboratory, testing, or analytical services that are not directly integral to the development or production of a bioscience or biotechnology product. 
+
+ (10) Qualifying NAICS codes for Bioscience and Biotechnology: 3251 (Basic Chemical Manufacturing), 3252 (Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing), 3253 (Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing), 3254 (Pharmaceutical and Medicine Manufacturing), 3259 (Other Chemical Product and Preparation Manufacturing), 3391 (Medical Equipment and Supplies Manufacturing), 4242 (Drugs and Druggists’ Sundries Merchant Wholesalers), 4246 (Chemical and Allied Products Merchant Wholesalers), 5417 (Scientific Research and Development Services). 
+
+ (11) "Clean Technology" has the meaning given in Oregon Laws 2026, chapter 142, section 12 (SB 1507), as amended by Oregon Laws 2026, chapter 50, section 16 (HB 4084) and includes but is not limited to: solar, wind, geothermal, and other renewable energy equipment manufacturing and/or installation; energy storage and battery technology; energy efficiency products and systems; electric vehicle components and charging infrastructure; green building materials and systems; water treatment and conservation technology; and environmental remediation technology. 
+
+ (12) Clean Technology does not include the generation, transmission or distribution of energy as a utility, provision of environmental consulting or compliance services that do not involve the manufacture or development of clean technology products or the retail sale of clean technology products. 
+
+ (13) Qualifying NAICS codes for Clean Technology: 3353 (Electrical Equipment Manufacturing), 3359 (Other Electrical Equipment and Component Manufacturing), 3369 (Other Transportation Equipment Manufacturing), 5417 (Scientific Research and Development Services), 3559 (Special Industry Machinery Manufacturing). 
+
+ (14) "Food and Beverage Processing" means the transformation of raw agricultural commodities, ingredients, or other inputs into finished or semi-finished food or beverage products intended for wholesale distribution or further commercial sale, including but not limited to: 
+
+ (a) Processing, canning, freezing, drying, or otherwise preserving food products; 
+
+ (b) Milling, grinding, pressing, or refining of grains, oils, or other raw materials into food ingredients or finished products; 
+
+ (c) Brewing, distilling, fermenting, or otherwise manufacturing alcoholic or non-alcoholic beverages; and 
+
+ (d) Manufacturing of food ingredients, flavorings, additives, or related products. 
+
+ (15) Food and Beverage Processing does not include retail food service, including restaurants, cafes, food carts, and catering operations; retail grocery or specialty food stores; or provision of food safety testing, inspection, or consulting services that do not involve the manufacture of a food or beverage product. 
+
+ (16) Qualifying NAICS codes for Food and Beverage Processing: 1125 (Aquaculture), 3111 (Animal Food Manufacturing), 3112 (Grain and Oilseed Milling), 3113 (Sugar and Confectionery Product Manufacturing), 3114 (Fruit and Vegetable Preserving and Specialty Food Manufacturing), 3115 (Dairy Product Manufacturing), 3116 (Animal Slaughtering and Processing), 3117 (Seafood Product Preparation and Packaging), 3118 (Bakeries and Tortilla Manufacturing), 3119 (Other Food Manufacturing), 3121 (Beverage Manufacturing), 4244 (Grocery and Related product Merchant Wholesalers), 4245 (Farm Product Raw Material Merchant Wholesalers), 4248 (Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers). 
+
+ (17) "Forestry and Wood Products" means the harvesting of timber and the manufacturing or processing of wood-based materials and products, including but not limited to: 
+
+ (a) Timber harvesting, logging, and forest management operations; 
+
+ (b) Sawmill and lumber manufacturing, including primary and secondary wood processing; 
+
+ (c) Plywood, veneer, engineered wood, and mass timber product manufacturing, including cross-laminated timber and other innovative wood composites; 
+
+ (d) Wood pulp, paper, and paperboard manufacturing; and 
+
+ (e) Millwork, cabinetry, furniture, and other value-added wood product manufacturing. 
+
+ (18) Forestry and Wood products does not include the retail sale of lumber or building materials, landscape or grounds maintenance services, provision of forestry consulting, planning, or environmental assessment services that do not involve timber harvesting or wood product manufacturing, or construction activities using wood products. 
+
+ (19) Qualifying NAICS codes for Forestry and Wood Products: 1131 (Timber Tract Operations), 1132 (Forest Nurseries and Gathering of Forest Products), 1133 (Logging), 1153 (Support Activities for Forestry), 3211 (Sawmills and Wood Preservation), 3212 (Veneer, Plywood, and Engineered Wood Product Manufacturing), 3219 (Other Wood Product Manufacturing), 3221 (Pulp, Paper, and Paperboard Mills), 3371 (Household and Institutional Furniture and Kitchen Cabinet Manufacturing), 4233 (Lumber and Other Construction materials Merchant Wholesalers), 4241 (Paper and Paper Product merchant Wholesalers). 
+
+ (20) "High Technology" has the meaning given in Oregon Laws 2026, chapter 142, section 12 (SB 1507), as amended by Oregon Laws 2026, chapter 50, section 16 (HB 4084). 
+
+ (21) High Technology includes but is not limited to: software development and publishing; information technology systems design and integration; data processing and cloud computing services; semiconductor fabrication and design; electronic component and circuit board manufacturing; and development or manufacture of electronic devices, instruments, or systems that depend substantially on semiconductor technology. 
+
+ (22) High Technology does not include the retail sale of technology hardware or software, the provision of general information technology support, help desk, or managed services that do not involve the development of software or technology products, or provision of telecommunications services as a carrier or utility. 
+
+ (23) Qualifying NAICS codes for High Technology: 3341 (Computer and Peripheral Equipment Manufacturing), 5132 (Software Publishers), 5162 (Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers), 5182 (Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services), 5192 (Web Search Portals, Libraries, Archives, and Other Information Services), 5415 (Computer Systems Design and Related Services), 3344 (Semiconductor and Other Electronic Component Manufacturing), 3345 (Navigational, Measuring, Electromedical, and Control Instruments Manufacturing). 
+
+ (24) "Outdoor Gear and Apparel" means the development, design, manufacturing, or distribution of gear, equipment, apparel, or footwear intended primarily for use in outdoor recreational or sporting activities, including but not limited to: 
+
+ (a) Design and manufacturing of outdoor apparel, footwear, and accessories; 
+
+ (b) Manufacturing of outdoor sporting and recreational equipment, including camping, climbing, paddling, skiing, cycling, hunting, and fishing gear; 
+
+ (c) Research, development, and materials innovation in support of outdoor product manufacturing; and 
+
+ (d) Wholesale distribution of outdoor gear, apparel, or equipment where the taxpayer is the brand owner or primary manufacturer of the distributed products. 
+
+ (25) Outdoor Gear and Apparel does not include the retail sale of outdoor products to end consumers, operation of outdoor recreation facilities, resorts, or guided recreation services, or provision of repair, rental, or resale services for outdoor products. 
+
+ (26) Qualifying NAICS codes for Outdoor Gear and Apparel: 3132 (Fabric Mills), 3149 (Other Textile Product Mills), 3151 (Apparel Knitting Mills), 3152 (Cut and Sew Apparel manufacturing), 3159 (Apparel Accessories and Other Apparel Manufacturing), 3162 (Footwear Manufacturing), 3161 (Leather and Hide Tanning and Finishing), 3169 (Other Leather and Allied Product manufacturing), 3322 (Cutlery and Handtool Manufacturing), 3399 (Other Miscellaneous Manufacturing), 3362 (Motor Vehicle Body and Trailer manufacturing), 3366 (Ship and Boat Building), 4234 (Professional and Commercial Equipment and Supplies Merchant Wholesalers), 4239 (Miscellaneous Durable Goods Merchant Wholesalers), 4243 (Apparel, Piece Goods, and Notions Merchant Wholesalers). 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 285A.075 
+ 
+ 
+ Statutes/Other Implemented:  Oregon Laws 2026, Chapter 142 & Oregon Laws 2026, Chapter 50 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 15-2026, temporary adopt filed 08/10/2026, effective 08/10/2026 through 12/01/2026 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 9-2026, temporary adopt filed 06/02/2026, effective 06/05/2026 through 12/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

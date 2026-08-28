@@ -1,0 +1,259 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 257 OREGON LOW EMISSION VEHICLES 
+ 340-257-0220 
+ Fleet Reporting Requirement 
+ 
+ A person required to report under this rule as identified in OAR 340-257-0200 must report the information as required by and according to the requirements of each section of this rule. Such reporting must include information for each and every operation under common ownership or control. 
+
+ (1)(a) Name (i.e., if a business, the registered business name) and all business names that the person does business as (i.e., all “dba” or “doing business as” names); 
+
+ (b) Mailing address including street name or PO box, city, state, and zip code; 
+
+ (c) Name of the responsible official; 
+
+ (d) Responsible official’s email address; 
+
+ (e) Responsible official’s phone number; 
+
+ (f) Name of corporate parent or governing body, as applicable; 
+
+ (g) Federal Taxpayer Identification Number of corporate parent or other persons with which the reporting person has vehicles under common ownership or control; 
+
+ (h) For a government agency, the jurisdiction (federal, state, or local); 
+
+ (i) Federal Taxpayer Identification Number; 
+
+ (j) Primary six-digit North American Industry Classification System code; 
+
+ (k) For a non-governmental person, the total annual revenue for the person in the United States for 2021; 
+
+ (l) Broker authority under the Federal Motor Carrier Safety Administration; 
+
+ (m) The operating authority numbers, including motor carrier identification number, United States Department of Transportation number, and International Registration Plan number; 
+
+ (n) The number of persons with whom the reporting person had a contract to deliver items or to perform work in Oregon using vehicles over 8,500 pounds GVWR in 2021; 
+
+ (o) The estimated number of subhaulers, vehicles operated by subhaulers, and the number of vehicles operated by subhaulers that operated under the reporting person’s motor carrier authority; and 
+
+ (p) The number of vehicles with a GVWR over 8,500 pounds the reporting person owned and operated in Oregon in 2021 that do not have a vehicle home base in Oregon. 
+
+ (2) For each person required to report, they shall report general information about the vehicle home base. Vehicles that accrue a majority of their annual miles in Oregon but are not assigned to a particular location in Oregon must be reported as part of the person’s headquarters or another location where the vehicles’ operation is managed. The person must report for each vehicle home base: 
+
+ (a) Facility address including street name, city, state, and zip code; 
+
+ (b) Facility type category, using one of the following categories: 
+
+ (i) Administrative/office building; 
+
+ (ii) Distribution center/warehouse; 
+
+ (iii) Hotel/motel/resort; 
+
+ (iv) Manufacturer/factory/plant; 
+
+ (v) Medical/hospital/care; 
+
+ (vi) Multi-building campus/base; 
+
+ (vii) Restaurant; 
+
+ (viii)Service center; 
+
+ (ix) Store; 
+
+ (x) Truck/equipment yard; or 
+
+ (xi) Any other facility type; 
+
+ (c) Name of responsible official; 
+
+ (d) Responsible official’s email address; 
+
+ (e) Whether the facility is owned or leased by the person; 
+
+ (f) What type of fueling infrastructure is installed at the facility; 
+
+ (g) Whether the refueling infrastructure at the facility was initially installed on or after January 1, 2010; and 
+
+ (h) The types of trailers the reporting person pulls, if it has tractors assigned or domiciled at this facility. 
+
+ (3) For each vehicle home base, a person may report the information grouped by vehicle body type, and weight class bins and fuel type. A person may complete responses for each individual vehicle and include the vehicle’s body type, weight class bin, and fuel type. If applicable, a person shall separately report vehicles dispatched under their brokerage authority. When responding, each vehicle shall only be counted once for each response. A person shall report: 
+
+ (a)Number of vehicles in each vehicle group; 
+
+ (b) The percent of the vehicles in each vehicle group with operating characteristics including, but not limited to: daily mileage, usage patterns, refueling, trailer towing, and other such characteristics as specified by the Department; 
+
+ (c) The average annual mileage for a typical vehicle in this vehicle group; 
+
+ (d) The average length of time a typical vehicle in this vehicle group is retained by the reporting entity after acquisition; 
+
+ (e) Whether the reporting person is the fleet owner for this group of vehicles, or if they are dispatched under the reporting person’s brokerage authority; and 
+
+ (f) The start and end date of the analysis period selected by the reporting person as required under section (5). 
+
+ (4) A person must choose a period of time, for example annual or quarterly data averaged for work days during the period selected to determine responses. For example, if an entity selects annual data to determine vehicle daily mileage, the person must average the annual mileage accrued based on the number of workdays that year. 
+
+ (a) A shorter analysis period may be used if the reporting person deems it more representative of periods of high vehicle utilization when answering questions about typical daily operation. For example, if a reporting person with seasonal workload fluctuations determines that a week or month during the busy season is representative, average the data records for that week or month when determining a response. 
+
+ (b) If an alternative analysis period is used, the reporting person must be prepared to describe their reasoning at the request of the Department. 
+
+ (5) For information reported as required under OAR 340-257-0210(3)(a) through (f) for a vehicle group at one location, a reporting person may repeat that information for the same vehicle group at another vehicle home base if the reporting person determines that the operation at the second location is substantially similar to that at the first location. 
+
+ (6) A broker shall provide information about vehicle usage that is dispatched under contract, such as if a broker hires a truck to move a load, only the miles driven under that contract are required for the response. If known, the broker may voluntarily report information about the miles driven outside the contract. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025 & 468A.360 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.020 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2021, adopt filed 11/17/2021, effective 11/17/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,245 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 256 MOTOR VEHICLES 
+ 340-256-0467 
+ Remote OBD Testing Program: Requirements for Host Participation and Test Method in the Remote OBD Testing Program 
+ 
+ (1) Eligibility: Host participants in the Remote OBD Testing Program must meet the following eligibility requirements: 
+
+ (a) Must have provided a commercially viable primary automotive service or automotive service – related product for at least 12-months. A person who proposes to operate solely as an emissions testing business is not eligible; 
+
+ (b) Must be located in and provide service within the state of Oregon; and 
+
+ (c) Must be in compliance with environmental laws and demonstrate a history of compliance with environmental quality laws during the 10-year period prior to filing the application, as provided in ORS 468.0066; 
+
+ (d) Must not have committed any crimes or violated any state laws or rules, that included engagement in any fraudulent or deceptive activity; and 
+
+ (e)Must have been issued, maintain and comply with all other applicable business licensing, registration, and permitting requirements. 
+
+ (2) Application: A person who would like to participate as a Host Participant in the Remote OBD Testing program must submit an application to DEQ in the form and format required by the DEQ. All of the following information which must be marked as confidential the applicant asserts that is not subject to disclosure under ORS 468.006(2)(b): 
+
+ (a) A list of the applicant’s current corporate officers, managers, members of the board of directors, general partners or other persons who exercise substantial control on behalf of or over the applicant; 
+
+ (b) A list of: 
+
+ (A) Parent corporations, or similar business entities, that exercise substantial control over the applicant; and 
+
+ (B) subsidiary corporations, or similar business entities, over which the applicant exercises substantial control; and 
+
+ (c) Notices or other documents stating that a person has violated the provisions or ORS 448.305, 454.010 to 454.040, 454.205 to 454.255, 454.505 to 454.535 and 454.605 to 454.755 and ORS chapters 459, 459A, 465, 466, 468, 468A and 468B, any rule or standard adopted under those statutes or any order or permit issued by the department or the Environmental Quality Commission. 
+
+ (3) Upon receipt of an application as described in section (2); 
+
+ (a) DEQ will review the application to determine whether it is complete. DEQ will notify the applicant of its determination of completeness within 60 days of DEQ’s receipt of the application, however, if DEQ does not notify the applicant of its completeness determination within 60 days of receipt then the application will be deemed denied; 
+
+ (b) DEQ may request supplemental information in writing before making a final determination of completeness. If DEQ requests supplemental information, the applicant must provide the information to the DEQ within 30 calendar days of the date of DEQ’s request. If the applicant does not provide the supplemental information by that deadline, the application will be deemed denied. DEQ will again review the application to determine whether it is complete as provided in subsection (a), and the date that DEQ receives the supplemental information will be deemed the new application submittal date; and 
+
+ (c) DEQ will review complete applications to determine whether the applicant meets the eligibility criteria in section (1). Applicants that meet that criteria will be approved to be host participants. 
+
+ (4) Testing Procedures: Host participants must continuously meet the following program requirements: 
+
+ (a) Host participants must continuously maintain compliance with the eligibility requirements described in section (1). 
+
+ (b) All remote OBD testing must be done with equipment that is leased or owned by the host participant; 
+
+ (c) all leased or owned equipment used for remote OBD testing must meet the standards established in OAR 340-256-0466. 
+
+ (d) Vehicles with observable coolant, oil or fuel leaks or any other such defect that make conducting the emission test unsafe, must be rejected from the testing area; 
+
+ (e) Emissions test of light-duty motor vehicles may only be conducted on vehicles that are model year 2005 and newer model years; 
+
+ (f) Emissions test of heavy-duty gasoline vehicles may only be conducted on vehicles that are: 
+
+ (A) Model year 2013 and newer model years; and 
+
+ (B) Equipped with an OBD-II compliant or newer OBD system; 
+
+ (g) Emissions test may only be conducted on vehicles with a properly affixed and readable VIN; and 
+
+ (h) Emissions tests may only be conducted if a vehicle’s OBD system matches the original manufacturer’s information and communicates with the participant's OBD analytical equipment, and; 
+
+ (A) All 2005 and subsequent model year light-duty vehicles must have the VIN included in the vehicle OBD information and; 
+
+ (B) All 2013 and subsequent model year heavy-duty vehicles must have the VIN included in the vehicle OBD information, 
+
+ (5) All communications with customer about the test must comply with the following: 
+
+ (a) A host participant may not represent themselves or the testing devices as agents of the State of Oregon, DEQ, or the VIP program; and 
+
+ (b) A host participant may not communicate whether the vehicle has passed or failed the test; 
+
+ (6) Fees charged by Host Participants: Host participants may not request or require payment of fees for performing the Remote OBD testing other than as provided in this section. If a host participant charges such a fee, then the following are required: 
+
+ (a) Host participants are prohibited from setting a fee to same dollar amount as a Clean Air Certificate in the respective regions as set in OAR 340-256-0320 
+
+ (b) A statement, in clearly legible writing, must be included in the invoice or receipt provided to the customer: “DEQ does not require or charge any fees for testing via DEQ Too. The only fee required by the DEQ is the cost of the Clean Air Certificate. Any additional fees are at the discretion of the business conducting the emissions test and are not required by DEQ.” 
+
+ (c) On bills, receipts, or statements issued by the Host to the customer the Host must label the fee charged as “Third Party Fee”. 
+
+ (7) Record Keeping: host participants in the remote OBD testing program must keep a record of: 
+
+ (a) All devices used for testing and the manufacturing information for each device used; 
+
+ (b) A copy of the host participant’s application to DEQ to be approved as a host participant. 
+
+ (8) DEQ may audit participants in the remote OBD testing program to ensure testing method and recordkeeping compliance. Host participants must provide all records described in section (7), and all other relevant information, as requested by DEQ, and must cooperate fully with DEQ’s audit. 
+
+ 
+ [NOTE: This rule is included in the State of Oregon Clean Air Act Implementation that EQC adopted under OAR 340-200-0040.] 
+ 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468A.380 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.380 & 468.066 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 4-2025, adopt filed 01/10/2025, effective 07/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

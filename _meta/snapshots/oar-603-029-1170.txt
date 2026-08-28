@@ -1,0 +1,263 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Agriculture 
+ Chapter 603 
+ 
+ 
+ 
+ 
+ 
+ Division 29 STATE MEAT INSPECTION PROGRAM 
+ 603-029-1170 
+ Compliance Procedure for Cured Pork Products 
+ 
+ (1) Definitions. For the purposes of this rule: 
+
+ (a) A product is that cured pork article which is contained within one Group as defined in subsection (1)(b) of this rule and which purports to meet the criteria for a single product designated under the heading “Product Name and Qualifying Statements” in the chart in OAR 603-029-1226 or the chart in OAR 603-029-1228. 
+
+ (b) A Product Group or a Group means one of the following: 
+
+ (A) Group I, consisting of cured pork products which have been cooked while imperviously encased. Any product which fits into the Group will be placed in this Group regardless of any other considerations. 
+
+ (B) Group II, consisting of cured pork products which have been water cooked. Any product which does not fit into Group I but does fit into Group II will be placed into Group II regardless of any other considerations. 
+
+ (C) Group III, consisting of boneless smokehouse heated cured pork products. Any boneless product that does not fit into Group I or Group II shall be placed in Group III. 
+
+ (D) Group IV, consisting of bone-in or semi-boneless smokehouse heated cured pork products. Any product that is not completely boneless or still contains all the bone which is traditional for bone-in product, and does not fit into Group I, Group II, or Group III shall be placed in this Group. 
+
+ (c) A lot is that product from one production shift. 
+
+ (d) A production rate is frequency of production, expressed in days per week. 
+
+ (e) Protein fat free percentage, protein fat free content, PFF percentage, PFF content or PFF of a product means the meat protein (indigenous to the raw, unprocessed pork cut) content expressed as a percent of the non-fat portion of the finished product. 
+
+ (2) Normal Compliance Procedures. The Department shall collect samples of cured pork products and analyze them for their PFF content. Analyses shall be conducted in accordance with the “Official Methods of Analysis of the Association of Official Analytical Chemists §§950.46, and 928.08 (Chapter 39). See Subsection 2(a) . The “Official Methods of Analysis of the Association of Official Analytical Chemists,” 15th edition, 1990, is incorporated by reference with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Each analytical result shall be recorded and evaluated to determine whether future sampling of product Groups within a state-inspected establishment shall be periodic or daily under the provisions of subsection (2)(a) of this rule, and if the affected lot and subsequent production of like product shall be Oregon Retained, or administratively seized, embargoed, or detained, as appropriate, as provided in subparagraph (2)(b) of this rule. 
+
+ (a) A copy of the “Official Methods of Analysis of the Association of Official Analytical Chemists,” 15th edition, 1990, is on file with the Director, Office of the Federal Register, and may be purchased from the Association of Official Analytical Chemists, Inc., 2200 Wilson Boulevard, Suite 400, Arlington, Virginia 22201. 
+
+ (b) Rules for Rounding: 
+
+ (A) Laboratory results for percent meat protein and fat will be reported to the second decimal place (hundredths). 
+
+ (B) PFF and Sample Values for charting purposes will be calculated from the reported laboratory results to the second decimal place. Rounding of calculations to reach two decimal places will be done by the following rule: 
+
+ (i) All values of five-thousandths (0.005) or more will be rounded up to the next highest hundredth. 
+
+ (ii) All values of less than five-thousandths (0.005) will be dropped. 
+
+ (c) For compliance with the Absolute Minimum PFF requirements, the PFF will be rounded to the first decimal place (tenths). Rounding of calculations to reach one decimal place will be done by the following rule: 
+
+ (A) All PFF values of five-hundredths (0.05) or more will be rounded up to the next highest tenth. 
+
+ (B) All PFF values of less than five-hundredths (0.05) will be dropped. 
+
+ (d) For product disposition (pass-fail of a minimum PFF standard for retained product) the average PFF calculation will be rounded to the first decimal place. Individual PFF Values will be calculated to the nearest hundredth as in above. The average, however, will be rounded to the nearest tenth as in above. 
+
+ (e) Criteria to determine sampling frequency of Product Groups. For each state-inspected establishment preparing cured pork products, Product Groups shall be sampled periodically or daily. Analytical results shall be evaluated, and the sampling frequency determined as follows: 
+
+ (A) Determine the difference between the individual PFF analysis and the applicable minimum PFF percentage requirement of OAR 603-029-1226 or OAR 603-029-1228. The resulting figure shall be negative when the individual sample result is less than the applicable minimum PFF percentage requirement and shall be positive when the individual sample result is greater than the applicable minimum PFF percentage requirement. 
+
+ (B) Divide the resulting number by the standard deviation assigned to the Product Group represented by the sample to find the Standardized Difference. The standard deviation assigned to Groups I and II is 0.75 and to Groups III and IV is 0.91. 
+
+ (C) Add 0.25 to the Standardized Difference to find the Adjusted Standardized Difference. 
+
+ (D) Use the lesser of 1.90 and the Adjusted Standardized Difference as the Sample Value. 
+
+ (E) Cumulatively total Sample Values to determine the Group Value. The first Sample Value in a Group shall be the Group Value, and each succeeding Group Value shall be determined by adding the most recent Sample Value to the existing Group Value; provided, however, that in no event shall the Group Value exceed 1.00. When calculation of a Group Value results in a figure greater than 1.00, the Group Value shall be 1.00 and all previous Sample Values shall be ignored in determining future Group Values. 
+
+ (F) The frequency of sampling of a Group shall be periodic when the Group Value is greater than −1.40 (e.g., −1.39, −1.14, 0, 0.50, etc.) and shall be daily when the Group Value is −1.40 or less (e.g., −1.40, −1.45, −1.50, etc.); provided, however, that once daily sampling has been initiated, it shall continue until the Group Value is 0.00 or greater, and each of the last seven Sample Values is −1.65 or greater (e.g., −1.63, −1.50, etc.), and there is no other product within the affected Group being Oregon Retained as produced, under provisions of subsection (2)(b) or (3). 
+
+ (f) Criteria for Oregon retention or embargo of cured pork products for further analysis. Cured pork products shall be Oregon Retained or embargoed when prescribed by paragraphs (2)(c) (A) or (B) of this rule as follows: 
+
+ (A) Absolute Minimum PFF Requirement. In the event that an analysis of an individual sample indicates a PFF content below the applicable minimum requirement of OAR 603-029-1226 or OAR 603-029-1228 by 2.3 or more percentage points for a Group I or II product, or 2.7 or more percentage points for a Group III or IV product, the lot from which the sample was collected shall be Oregon Retained if in a state-inspected establishment and shall be subject to embargo if not in a State-inspected establishment unless returned to a state-inspected establishment and there Oregon Retained. Any subsequently produced lots of like product and any lots of like products for which production dates cannot be established shall be Oregon Retained or subject to embargo. Such embargoed product shall be handled in accordance with OAR 603-029-1500 to 603-029-1520 or shall be returned to a state-inspected establishment and subjected to the provisions of paragraph (3)(a) (A) or (B) of this rule or shall be relabeled in compliance with the applicable standard, under the supervision of a Department employee, at the expense of the product owner. Disposition of such Oregon Retained product shall be in accordance with section (3) of this rule. 
+
+ (B) Product Value requirement. The Department shall maintain, for each product prepared in a state-inspected establishment, a Product Value. Except as provided in subsection (3)(b) of this rule, calculation of the Product Value and its use to determine if a product shall be Oregon Retained shall be as follows: 
+
+ (i) Determine the difference between the individual PFF analysis and applicable minimum PFF percentage requirement of OAR 603-029-1226 and OAR 603-029-1228. The resulting figure shall be negative when the individual sample result is less than the applicable minimum PFF percentage requirement and shall be positive when the individual sample result is greater than the applicable minimum PFF percentage requirement. 
+
+ (ii) Divide the difference determined in subparagraph (2)(b)(B)(i) of this rule by the standard deviation assigned to the product's Group in paragraph (2)(a)(B) of this rule to find the standardized difference. 
+
+ (iii) Use the lesser of 1.65 and the standardized difference as the Sample Value. 
+
+ (iv) Cumulatively total Sample Values to determine the Product Value. The first Sample Value of a product shall be the Product Value, and each succeeding Product Value shall be determined by adding the most recent Sample Value to the existing Product Value; provided, however, that in no event shall the Product Value exceed 1.15. When calculation of a Product Value results in a figure greater than 1.15, the Product Value shall be 1.15, and all previous Sample Values shall be ignored in determining future Product Values. 
+
+ (v) Provided daily group sampling is in effect pursuant to the provisions of subsection (2)(a) of this rule and provided further the Product Value is −1.65 or less (e.g., −1.66), the affected lot (if within the state-inspected establishment) and all subsequent lots of like product prepared by and still within the state-inspected establishment shall be Oregon Retained and further evaluated under section (4) of this rule. Except for release of individual lot pursuant to subsection (4)(a), subsequently produced lots of like product shall continue to be Oregon Retained until discontinued pursuant to subsection (4)(b) of this rule. 
+
+ (3) Compliance procedure during product retention. When a product lot is Oregon Retained under the provisions of subsection (3)(b) of this rule, the Department shall collect three randomly selected samples from each such lot and analyze them individually for PFF content. The PFF content of the three samples shall be evaluated to determine disposition of the lot as provided in subsection (4)(a) of this rule and the action to be taken on subsequently produced lots of like product as provided in subsection (4)(b) of this rule. If the processor does not wish to have the product evaluated in this manner, alternate sampling plans may be used provided such plans have been formulated by the processor and approved by the Department prior to evaluation by the three-sample criteria, and provided the analyses specified in such plans are performed at the expense of the processor. 
+
+ (a) A product lot which is Oregon Retained under the provisions of subsection (3)(b) of this rule may be released for entry into commerce provided one of the following conditions is met: 
+
+ (A) The average PFF content of the three samples randomly selected from the lot is equal to or greater than the applicable minimum PFF percentage required by OAR 603-029-1226 or OAR 603-029-1228. Further processing to remove moisture for the purpose of meeting this provision is permissible. In lieu of further analysis to determine the effects of such processing, each 0.37 percent weight reduction due to moisture loss resulting from the processing may be considered the equivalent of a 0.1 percent PFF gain. 
+
+ (B) The lot of the product is relabeled to conform to the provisions of OAR 603-029-1226 or OAR 603-029-1228, under the supervision of a Department employee. 
+
+ (C) The lot is one that has been prepared subsequent to preparation of the lot which, under the provisions of subsection (4)(b) of this rule, resulted in discontinuance of Oregon retention of new lots of like product. Such lot may be released for entry into commerce prior to receipt of analytical results for which sampling has been conducted. Upon receipt of such results, they shall be subjected to the provisions of paragraphs (3)(b)(A) and (4)(b) of this rule. 
+
+ (b) The PFF content of three randomly selected samples from each Oregon Retained lot shall be used to maintain the Product Value described in paragraph (4)(b)(B). The manner and effect of such maintenance shall be as follows: 
+
+ (A) Find the average PFF content of the three samples. 
+
+ (B) Determine the difference between that average and the applicable minimum PFF percentage requirement of OAR 603-029-1226 or OAR 603-029-1228. The resulting figure shall be negative when the average of the sample results is less than the applicable minimum PFF percentage requirement and shall be positive when the average of the sample results is greater than the applicable minimum PFF requirements. 
+
+ (C) Divide the resulting figure by the standard deviation assigned to the product's Group in paragraph (3)(a)(B) of this rule, to find the standardized difference. 
+
+ (D) Use the lesser of 1.30 and the standardized difference as the Sample Value. 
+
+ (E) Add the first Sample Value thus calculated to the latest Product Value calculated under the provisions of paragraph (4)(b)(B) of this rule to find the new Product Value. To find each succeeding Product Value, add the most recent Sample Value to the existing Product Value; provided, however, that in no event shall the Product Value exceed 1.15. When the addition of a Sample Value to an existing Product Value results in a figure greater than 1.15, the Product Value shall be 1.15 and all previous Sample Values shall be ignored in determining future Product Values. 
+
+ (F) New lots of like product shall continue to be retained pending disposition in accordance with subsection (3)(a) of this rule until, after 5 days of production, the Product Value is 0.00 or greater, and the PFF content of no individual sample from a Oregon Retained lot is less than the Absolute Minimum PFF requirement specified in paragraph (3)(b)(A) of this rule. Should an individual sample fail to meet its Absolute Minimum PFF requirement, the 5-day count shall begin anew. 
+
+ (G) When Oregon Retention of new lots is discontinued under the above provisions, maintenance of the Product Value shall revert to the provisions of paragraph (3)(b)(B) of this rule. 
+
+ (c) For purposes of this rule, the plant owner or operator shall have the option of temporarily removing a product from its Product Group, provided product lots are being Oregon Retained, as produced, and provided further that the average production rate of the product, over the 8-week period preceding the week in which the first Oregon Retained lot was prepared, is not greater than 20 percent of the production rate of its Group. When a product is thus removed from its Group, analytical results of product samples shall not cause daily sampling of the Group. When pursuant to paragraph (4)(b)(F) of this rule, new lots of the product are no longer being Oregon Retained, the product shall again be considered with its Group. 
+
+ (4) Adulterated and misbranded products. Products not meeting specified PFF requirements, determined according to procedures set forth in this rule, may be deemed adulterated and misbranded. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 603.085, ORS 619.042 & ORS 619.046 
+ 
+ 
+ Statutes/Other Implemented:  ORS 619.042, ORS 619.046, ORS 619.026 & ORS 619.036 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 19-2022, adopt filed 07/27/2022, effective 07/28/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

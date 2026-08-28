@@ -1,0 +1,275 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 300 FUEL TANK SEISMIC STABILITY 
+ 340-300-0003 
+ Seismic Vulnerability Assessment Requirements and Timeline 
+ 
+ (1) A comprehensive Seismic Vulnerability Assessment or series of assessments submitted to DEQ must comply with Chapter 99 of Oregon Law (2022) and : 
+
+ (a) Be conducted and verified by the Assessment Team of qualified professionals; 
+
+ (b) Evaluate the ability of the facility to achieve the performance objective; 
+
+ (c) Describe each facility component included in 340-300-0003(1)(f)(A) in terms of construction, age, inspection and maintenance and operations; 
+
+ (d) Summarize currently implemented spill prevention and mitigation measures and their ability to achieve the performance objective defined in 340-300-0002; 
+
+ (e) Develop the Design Level Earthquake for the site in accordance with ASCE 7. 
+
+ (f) Use the Codes and Standards as defined by OAR 340-300-0002(4) and the Design Level Earthquake determined using ASCE 7 to evaluate the potential for a spill greater than the Maximum Allowable Uncontained Spill during or after the Design Level Earthquake of all components including: 
+
+ (A) Existing buildings, structures, and ancillary components; 
+
+ (B) Tanks, pipes and piping systems; 
+
+ (C) Spill containment measure and structures; 
+
+ (D) Transloading facilities, including wharves, piers, moorings and retaining structures; 
+
+ (E) Loading racks; 
+
+ (F) Control equipment; and 
+
+ (G) Any other structures related to or supporting facilities that constitute the bulk fuel terminal. 
+
+ (g) Evaluate soil’s vulnerability to liquefaction, lateral spreading and seismic-induced settlement; 
+
+ (h) Evaluate the safety of operating conditions, safe shutdown procedures, potential spills; 
+
+ (i) Evaluate the availability and integrity of automated sprinkler systems and sufficient supplies of firefighting foam and other emergency response equipment located in seismically resilient locations that will be accessible after an earthquake or secondary effects to mitigate the risk of fire and explosions following an earthquake; 
+
+ (j) Evaluate the integrity of fire control measures such as firewalls surrounding facility to limit fire spreading into surrounding communities; and 
+
+ (k) Evaluate the availability of day and night onsite personnel trained in emergency response and able to respond in the event of an earthquake. 
+
+ (2) Facility owner or operator must submit Seismic Vulnerability Assessment updates to DEQ: 
+
+ (a) Upon application for any permits for retrofit or reconstruction of facilities; 
+
+ (b) When retrofits or new construction of any part of the facility that require a permit occur; and 
+
+ (c) When notified by DEQ of the availability of new scientific, technical findings, best management practices or industry standards but no more frequently than once every three years. 
+
+ (3) Seismic Vulnerability Assessment timeline: 
+
+ (a) Facility owners or operators must reply to requests for information from DEQ related to regulated activities including but not limited to property ownership, equipment ownership, equipment design, fuels present, spill prevention and earthquake preparedness by a deadline specified by DEQ. 
+
+ (b) By June 1, 2024, facility must submit: 
+
+ (A) The facility-wide complete assessment final report; or 
+
+ (B) The initial assessment report, outlining the summary of work completed and work to be done, including a proposed schedule for completion with justification for an extension as provided in section (8) of this rule. 
+
+ (c) Within 30 calendar days or on a schedule approved by DEQ, after a magnitude five (5.0) or higher earthquake centered within 100 miles of the facility, facility owner or operator must provide DEQ with an interim report on facility status, any damage, and any potential effects of the event on Risk Mitigation Implementation plan actions implementation and timeline. 
+
+ (4) Seismic Vulnerability Assessment Modifications must be submitted no later than 90 days after DEQ notifies an owner and/or operator of new scientific or technical findings that may affect the submitted assessment as required in sections (1) and (2) of this rule. 
+
+ (5) A final Seismic Vulnerability Assessment report that contains a facility owner or operator letterhead signature page stating their responsibility for the report, an executive summary, introduction, a description, and summary of the observed conditions of the facility, any calculations and results from engineering analysis with noted deficiencies and appendices including all data and calculations, recommendations for mitigation with a priority list and explanation of priorities and references section must be submitted to DEQ for review and approval. 
+
+ (6) A final Seismic Vulnerability Assessment report must be stamped by professional engineers of record licensed in Oregon that specialize in geotechnical and structural engineering and include the following: 
+
+ (a) Geotechnical Assessment consisting of: 
+
+ (A) Site Conditions Assessment: 
+
+ (i) Description of site surface conditions, topography and bathymetry if adjacent to a body of water. 
+
+ (ii) Description of regional and site geology including soil stress history, deposition/erosion environment, and bedrock and soil geologic units. 
+
+ (iii) Description of field explorations per 2022 Oregon Structural Specialty Code including geotechnical and geophysical methods, standards, numbers and types of explorations, testing, and instrumentation. Description of results including final exploration logs, field data, and sub-surface site profiles. Field explorations (number, types, and depth) must be sufficient to categorize subsurface conditions at the site including extent and properties of subsurface geologic strata including that of compressible, liquefiable, soft or loose soils, and bearing layers. (iv) Summary of laboratory testing performed and results. 
+
+ (v) Description of site subsurface conditions including soil and rock units encountered, extents and properties of those layers, and groundwater conditions and include site cross sections. 
+
+ (B) Seismic Hazard Evaluation consisting of: 
+
+ (i) Description of seismic hazards at the site including seismic evaluation criteria (expected ground shaking), liquefaction, settlement, surface effects, loss of strength, lateral spread and slope stability as appropriate. 
+
+ (ii) Description of methods of analysis, assumptions, and results of analysis. 
+
+ (iii) Description of the resulting effects on the structures onsite. 
+
+ (C) Geotechnical Evaluation including but not limited to seismic design parameters, estimated vertical settlement and lateral ground deformation, foundation bearing and lateral capacity and wall design parameters. 
+
+ (b) Structural Assessment consisting of description of expected seismic performance of all onsite structures where damage could result in a potential release of fuel including any above or underground tanks, pipes, foundations of structures, buildings, structures, ancillary components, spill containment structures, transloading facilities, wharves, piers, moorings and retaining structures, loading racks, control equipment and any other structures within the property line or properties operated together. 
+
+ (c) Safety Assessment consisting of: 
+
+ (A) Description of fire control and suppression systems and procedures and the potential impacts of seismic hazards on these systems. 
+
+ (B) Description of spill containment systems, equipment, and procedures in the event of an earthquake and their vulnerabilities to the identified seismic hazards at the site. 
+
+ (C) Description of onsite emergency equipment, operational safety measures, and personnel policies/availability and their vulnerabilities to the identified seismic hazards at the site. 
+
+ (7) Upon a facility’s submission of the Seismic Vulnerability Assessment, DEQ will review the submittal. If DEQ determines that any additional information, corrections, or updates are required to approve the submittal, then DEQ will notify the owner or operator in writing of the information required and a deadline by which it must be provided. 
+
+ (8) An owner or operator may request an extension of time from a deadline established in section 3 by providing DEQ a written request no fewer than 14 calendar days prior to the submittal deadline. DEQ may grant an extension based on the following criteria: 
+
+ (a) The owner or operator has demonstrated progress in completing the submittal; and 
+
+ (b) A delay is necessary, for good cause shown by the owner or operator, related to obtaining more accurate or new data, performing additional analyses, or addressing changes in operations or other key parameters, any of which are likely to have a substantive impact on the outcomes of the submittal. 
+
+ (9) If DEQ determines it is not able to approve the owner or operator’s submittal, or if the owner or operator does not timely provide additional information or corrections requested by DEQ, then in addition to any other remedies available, DEQ may: 
+
+ (a) Inform the owner or operator of the deficiency and provide the owner or operator with a deadline to correct the deficiencies and re-submit. 
+
+ (b) Modify the submittal and approve it as modified. If DEQ modifies the submittal under this subsection the owner or operator must pay the assessment modification fee as required by 340-300-0006 (4). 
+
+ (10) Recordkeeping. The owner or operator of a facility that provides DEQ with any information related to a Seismic Vulnerability Assessment completed under this rule must retain all of its records related to the assessment for ten years from the date the information is submitted to DEQ. 
+
+ (11) Owner or operator must submit any information required by DEQ by DEQ established deadline. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020 & SB 1567 (2022) 
+ 
+ 
+ Statutes/Other Implemented:  SB 1567 (2022) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 13-2023, adopt filed 09/14/2023, effective 09/14/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,273 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 271 Rules Invalidated by the Oregon Court of Appeals (Northwest Natural Gas Co. v. Env’t Quality Comm’n, 329 Or App 648 (2023)): Oregon Climate Protection Program 
+ 340-271-0110 
+ Covered Entity and Covered Emissions Applicability 
+ 
+ (1) Calculations of covered emissions, compliance obligations and distribution of compliance instruments will be based on emissions data and information in emissions data reports submitted by a person described in this rule and required according to OAR chapter 340, division 215, which may be subject to verification according to OAR chapter 340, division 272. For any person that does not submit sufficient information in compliance with OAR chapter 340, divisions 215 and 272, calculations will be informed by additional best data available to DEQ. For any person that has not registered and reported according to division 215, such calculations will be based on the best data available to DEQ, following all reporting requirements and assumptions that would be applicable had the person reported according to that division. 
+
+ (2) A covered entity is subject to the requirements of this division for its covered emissions described in this rule. A person remains a covered entity until cessation is met according to OAR 340-271-0130. 
+
+ (3) Applicability for fuel suppliers and in-state producers. A person is a covered fuel supplier if the person is described in subsection (a) and has annual covered emissions described in subsection (b) in any applicability determination calendar year that equal or exceed the threshold for applicability listed in Table 1 in OAR 340-271-9000. All persons that are related entities must aggregate their emissions together to determine applicability and each becomes a covered fuel supplier if applicability is met. When applicability is met, each person is a covered fuel supplier beginning with the calendar year a person becomes a covered fuel supplier, as provided in Table 1 in OAR 340-271-9000. Once a person is a covered fuel supplier, the person remains a covered fuel supplier until the person has met the cessation requirements according to OAR 340-271-0130. 
+
+ (a) The person is a fuel supplier or in-state producer that imports, sells, or distributes fuel for use in Oregon, and is one or more of the following: 
+
+ (A) A dealer, as that term is defined in ORS 319.010 that is subject to the Oregon Motor Vehicle and Aircraft Fuel Dealer License Tax in OAR chapter 735, division 170; 
+
+ (B) A seller, as that term is defined in ORS 319.520, that is subject to the Oregon Use Fuel Tax in OAR chapter 735, division 176; 
+
+ (C) A person that produces, imports, sells, or distributes gasoline or distillate fuel oil for use in Oregon and that is not subject to the Oregon Motor Vehicle and Aircraft Fuel Dealer License Tax or the Oregon Use Fuel Tax in OAR chapter 735, divisions 170 and 176; or 
+
+ (D) A person that either produces propane in Oregon or imports propane for use in the state. 
+
+ (b) Except as provided in paragraph (B), covered emissions include emissions described in paragraph (A). 
+
+ (A) Covered emissions include emissions of anthropogenic greenhouse gases in metric tons of CO2e that would result from the complete combustion or oxidation of the annual quantity of propane and liquid fuels (including, for example and without limitation, gasoline and petroleum products) imported, sold, or distributed for use in this state. 
+
+ (B) Covered emissions do not include: 
+
+ (i) Emissions that are from the combustion of biomass-derived fuels; 
+
+ (ii) Emissions that are from the combustion of fuels used for aviation including, for example and without limitation, aviation gasoline, kerosene-type jet fuel, and alternative jet fuel; and 
+
+ (iii) Emissions described in 40 CFR part 98 subpart W – Petroleum and Natural Gas Systems. 
+
+ (4) Applicability for local distribution companies. A person is a covered fuel supplier if the person is described in subsection (a) and has annual covered emissions described in subsection (b) in 2018 or any subsequent calendar year, unless the person has met the cessation requirements according to OAR 340-271-0130. 
+
+ (a) The person is a local distribution company that either produces natural gas, compressed natural gas, or liquefied natural gas in Oregon, or that imports, sells, or distributes natural gas, compressed natural gas, or liquefied natural gas to end users in the state. 
+
+ (b) Except as provided in paragraph (B), covered emissions include emissions described in paragraph (A). 
+
+ (A) Covered emissions include emissions of anthropogenic greenhouse gases in metric tons of CO2e that would result from the complete combustion or oxidation of the annual quantity of natural gas imported, sold, or distributed for use in this state. 
+
+ (B) Covered emissions do not include: 
+
+ (i) Emissions that are from the combustion of biomass-derived fuels; 
+
+ (ii) Emissions described in 40 CFR part 98 subpart W – Petroleum and Natural Gas Systems; 
+
+ (iii); Emissions avoided where the use of natural gas results in greenhouse gas emissions captured and stored, if sufficiently documented by information provided to DEQ; and 
+
+ (iv) Emissions from natural gas delivered to an air contamination source that is an electric power generating plant with a total nominal electric generating capacity greater than or equal to 25 megawatts. 
+
+ (5) Applicability for stationary sources. A person is a covered stationary source if the person is described in subsection (a), unless the person has met the cessation requirements according to OAR 340-271-0130. 
+
+ (a) The person is one or more of the following: 
+
+ (A) The person owns or operates an existing source that has actual covered emissions described in subsection (b) that equal or exceed 25,000 MT CO2e in 2018 or in any subsequent calendar year; 
+
+ (B) The person owns or operates a new source, or proposes to own or operate a new source, that has a potential to emit covered emissions described in subsection (b) that will equal or exceed 25,000 MT CO2e per calendar year; or 
+
+ (C) The person owns or operates an existing source that is not a covered stationary source under (A), proposes to make a modification under OAR 340-216-0040(3), OAR 340-218-0170, OAR 340-218-0180, or OAR 340-218-0190, or a Type 2, 3 or 4 change under OAR 340-210-0225 to their source and: 
+
+ (i) The modification would increase the source’s potential to emit covered emissions described in subsection (b) by 10,000 MT CO2e per calendar year or more, and; 
+
+ (ii) After the modification, the source’s potential to emit covered emissions described in subsection (b) would equal or exceed 25,000 MT CO2e per calendar year. 
+
+ (b) Except as provided in paragraph (B), covered emissions include emissions described in paragraph (A). 
+
+ (A) Covered emissions include emissions of anthropogenic greenhouse gases in metric tons of CO2e that are from either or both processes or the combustion of solid or gaseous fuels, including emissions from combustion for both energy production and processes. 
+
+ (B) Covered emissions do not include: 
+
+ (i) Emissions that are from the combustion of biomass-derived fuels; 
+
+ (ii) Biogenic CO2 emissions from solid fuels; 
+
+ (iii) Emissions that are from the combustion of liquid fuels or propane; 
+
+ (iv) Emissions from natural gas, compressed natural gas, or liquefied natural gas used on-site that was delivered by a local distribution company; 
+
+ (v) Emissions described in 40 CFR part 98 subpart HH – Municipal Solid Waste Landfills; 
+
+ (vi) Emissions described in 40 CFR part 98 subpart TT – Industrial Waste Landfills; 
+
+ (vii) Emissions from an air contamination source that is owned or operated by an interstate natural gas pipeline that is operating under authority of a certificate of public convenience and necessity issued by the Federal Energy Regulatory Commission; and 
+
+ (viii) Emissions from an air contamination source that is an electric power generating plant with a total nominal electric generating capacity greater than or equal to 25 megawatts. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025, 468A.040 & 468A.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.020, 468A.025, 468A.040, 468A.050, 468.035, 468A.010, 468A.015 & 468A.045 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 17-2023, amend filed 11/16/2023, effective 11/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2022, temporary amend filed 11/18/2022, effective 11/18/2022 through 05/16/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 27-2021, adopt filed 12/16/2021, effective 12/16/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

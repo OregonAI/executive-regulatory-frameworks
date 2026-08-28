@@ -1,0 +1,245 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 239 LANDFILL GAS EMISSIONS 
+ 340-239-0600 
+ Monitoring Requirements 
+ 
+ When required as provided in OAR 340-239-0100 through 340-239-0800, the owner or operator of a landfill must comply with the monitoring requirements in this rule. 
+
+ (1) Surface Emissions Monitoring Requirements. The owner or operator of a landfill with a gas collection and control system must conduct quarterly instantaneous and integrated surface monitoring of the landfill surface using the procedures specified in OAR 340-239-0800(3). All of the following requirements apply to such monitoring: 
+
+ (a) Instantaneous Surface Monitoring. Any reading exceeding a limit specified in OAR 340-239-0100(6)(b), 340-239-0200(1)(a), or 340-239-0400(2)(c) must be recorded as an exceedance and all of the following actions must be taken: 
+
+ (A) The owner or operator must record the name of the individual that conducted SEM, date, location, and value of each exceedance, along with retest dates and results. The location of each exceedance must be clearly marked and identified on a topographic map of the landfill, drawn to scale with the location of both the grids and the gas collection system clearly identified. The documentation required under this subsection must be retained in the landfill’s files and reported to DEQ as provided in OAR 340-239-0700. 
+
+ (B) The owner or operator must take corrective action such as, but not limited to, cover maintenance or repair, or well vacuum adjustments. 
+
+ (C) The owner or operator must remonitor the location of the exceedance, and the location must be remonitored within ten days of a measured exceedance. The owner or operator must comply with all of the following requirements: 
+
+ (i) If the remonitoring of the location shows a second exceedance, the owner or operator must take additional corrective action and the location must be re-monitored again no later than 10 days after the second exceedance. 
+
+ (ii) If the remonitoring shows a third exceedance, the owner or owner or operator must install a new or replacement collection device and must demonstrate compliance no later than 120 days after detecting the third exceedance. 
+
+ (iii) Any location that initially showed an exceedance but has a methane concentration at the 10-day remonitoring of less than 500 ppmv methane, or 200 ppmv methane if this is to determine compliance with OAR 340-239-0100(6)(b), must be re-monitored one month from the initial exceedance. If the one-month re-monitoring shows a concentration less than 500 ppmv methane, or 200 ppmv methane if this is to determine compliance with OAR 340-239-0100(6)(b), no further monitoring of that location is required until the next quarterly monitoring period. If the one-month re-monitoring shows an exceedance, the owner or operator must install a new or replacement well to achieve compliance no later than 120 days after detecting the third exceedance. 
+
+ (iv) For any location where monitored methane concentration equals or exceeds 500 ppmv, or 200 ppmv methane if this is to determine compliance with OAR 340-239-0100(6)(b), three times within a quarterly period, a new well or other collection device must be installed within 120 days of the initial exceedance. An alternative remedy to the exceedance, such as upgrading the blower, header pipes or control device, and a corresponding timeline for installation may be submitted to DEQ for approval pursuant to OAR 340-239-0500. 
+
+ (D) The owner or operator of a closed or inactive landfill, or of any closed or inactive areas on an active landfill that has no monitored exceedances of the limits specified in OAR 340-239-0200(1)(a) after four consecutive quarterly instantaneous surface monitoring periods, may shift to annual instantaneous surface monitoring. 
+
+ (E) An owner or operator that has shifted to annual instantaneous surface monitoring under paragraph (1)(a)(C) of this rule must return to quarterly instantaneous surface monitoring upon any exceedances of the limits specified in OAR 340-239-0200(1)(a) that cannot be remediated within 10 days or upon any exceedances detected during a DEQ inspection. 
+
+ (b) Integrated Surface Monitoring. Any reading exceeding the limit specified in OAR 340-239-0200(1)(b) must be recorded as an exceedance and all of the following actions must be taken: 
+
+ (A) The owner or operator must record the average surface concentration measured as methane for each grid along with retest dates and results. The location of the grids and the gas collection system must be clearly marked and identified on a topographic map of the landfill drawn to scale. The documentation required under this subsection must be retained in the landfill’s files and reported to DEQ as provided in OAR 340-239-0700. 
+
+ (B) Within 10 days of a measured exceedance, corrective action must be taken by the owner or operator such as, but not limited to; cover maintenance or repair, or well vacuum adjustments and the grid must be remonitored. The owner or operator must comply with all of the following requirements: 
+
+ (i) If the remonitoring of the grid shows a second exceedance, additional corrective action must be taken and the location must be re-monitored again no later than 10 days after the second exceedance. 
+
+ (ii) If the remonitoring in subparagraph (1)(b)(B)(i) of this rule shows a third exceedance, the owner or operator must install a new or replacement well to achieve compliance no later than 120 days after detecting the third exceedance. 
+
+ (C) The owner or operator of a closed or inactive landfill, or of any closed or inactive areas on an active landfill that has no monitored exceedances of the limits specified in OAR 340-239-0200(1)(b) after four consecutive quarterly integrated surface monitoring periods, may shift to annual integrated surface monitoring. 
+
+ (D) An owner or operator that has shifted to annual integrated surface monitoring under paragraph (1)(b)(C) of this rule must return to quarterly integrated surface monitoring upon the occurrence of any exceedances of the limits specified in OAR 340-239-0200(1)(b) during annual monitoring or detected during any DEQ inspection. 
+
+ (2) Gas Control System Equipment Monitoring. The landfill owner or operator must monitor the gas control system using the following procedures: 
+
+ (a) For enclosed flares all of the following equipment must be installed, calibrated, maintained, and operated according to the manufacturer’s specifications: 
+
+ (A) A temperature monitoring device equipped with a continuous recorder that has an accuracy of plus or minus (±) one percent of the temperature being measured expressed in degrees Celsius or Fahrenheit. A temperature monitoring device is not required for boilers or process heaters with design heat input capacity equal to or greater than 44 megawatts per hour (150 million British thermal units per hour). 
+
+ (B) A device that records gas flow to the control device and bypass of the control device (if applicable). The owner or operator must: 
+
+ (i) Install, calibrate, and maintain a gas flow rate measuring device that records the flow to the control device at least every 15 minutes; and 
+
+ (ii) Secure the bypass line valve in the closed position with a car-seal or a lock-and-key type configuration. A visual inspection of the seal or closure mechanism must be performed at least once every month to ensure that the valve is maintained in the closed position and that the gas flow is not diverted through the bypass line. 
+
+ (b) For a gas control device other than an enclosed flare, the owner or operator must provide information describing the operation of the gas control device, the operating parameters that would indicate proper performance, and appropriate monitoring procedures. The owner or operator must maintain, operate, and monitor the device according to the written manufacturer instructions and specifications. Alternative compliance requests must be submitted to DEQ as specified in OAR 340-239-0500. DEQ may specify additional monitoring procedures. 
+
+ (c) Components containing landfill gas and under positive pressure must be monitored quarterly for leaks. Any component leak over 500 ppmv methane must be tagged and repaired within 10 days. Any component leak over 250 ppmv must be recorded pursuant to OAR 340-239-0700(2)(a)(S). Quarterly component leak testing at landfills having landfill gas-to-energy facilities may be conducted prior to scheduled maintenance or planned outage periods. 
+
+ (d) The owner or operator must measure gauge pressure in the gas collection header applied to each individual well on a monthly basis. If a positive pressure exists, other than as provided in OAR 340-239-0200(2), action must be initiated to correct the exceedance within 5 days. Any attempted corrective measure must not cause exceedances of other operational or performance standards. 
+
+ (3) Wellhead Monitoring. On a monthly basis for each individual wellhead, the landfill owner or operator must determine and record gauge pressure, temperature, and nitrogen or oxygen content of gas emissions. Such monitoring must comply with all of the following requirements: 
+
+ (a) If there is any positive pressure reading other than as provided in OAR 340-239-0110(4) or (5), the owner or operator must take the following actions. Any attempted corrective measure must not cause exceedances of other operational or performance standards: 
+
+ (A) Initiate corrective action within five days of the positive pressure measurement; 
+
+ (B) If negative pressure cannot be achieved without excess air infiltration within 15 days of the date the positive pressure was first measured, the owner or operator must conduct a root cause analysis and correct the exceedance as soon as practicable, but no later than 60 days after positive pressure was first measured. The owner or operator must submit a Corrective Action Report to DEQ pursuant to OAR 340-239-0700(3)(k); 
+
+ (C) If corrective actions cannot be fully implemented within 60 days following the positive pressure measurement for which the root cause analysis was required, the owner or operator must also conduct a corrective action analysis and develop an implementation schedule to complete the corrective action(s) as soon as practicable, but no more than 120 days following the positive pressure measurement; and 
+
+ (D) If corrective action is expected to take longer than 120 days to complete after the initial exceedance, the owner or operator must submit the root cause analysis, corrective action analysis, and corresponding implementation timeline to DEQ. 
+
+ (b) If a well exceeds the operating parameter for temperature, action must be initiated to correct the exceedance within five days. Any attempted corrective measure must not cause exceedances of other operational or performance standards, and the owner or operator must comply with all of the following requirements: 
+
+ (A) If a landfill gas temperature less than 62.8 degrees Celsius (145 degrees Fahrenheit), or as established in OAR 340-239-200(3), cannot be achieved within 15 days of the first measurement of landfill gas temperature greater than 62.8 degrees Celsius (145 degrees Fahrenheit), the owner or operator must conduct a root cause analysis and correct the exceedance as soon as practicable, but no later than 60 days after a landfill gas temperature greater than 62.8 degrees Celsius (145 degrees Fahrenheit) was first measured. The owner or operator must keep records according to OAR 340-239-0700(2). 
+
+ (B) If corrective actions cannot be fully implemented within 60 days following the temperature measurement for which the root cause analysis was required, the owner or operator must also conduct a corrective action analysis and develop an implementation schedule to complete the corrective action(s) as soon as practicable, but no more than 120 days following the measurement of landfill gas temperature greater than 62.8 degrees Celsius (145 degrees Fahrenheit). The owner or operator must submit the items listed in OAR 340-239-0700(3)(c)(A) as part of the next semi-annual report. The owner or operator must keep records according to OAR 340-239-0700(2). 
+
+ (C) If corrective action is expected to take longer than 120 days to complete after the initial exceedance, the owner or operator must submit the root cause analysis, corrective action analysis, and corresponding implementation timeline to DEQ, according to OAR 340-239-0700(3)(c)(A) and OAR 340-239-600(3)(a)(C). The owner or operator must keep records according to OAR 340-239-0700(2). 
+
+ (D) If a landfill gas temperature measured at either the wellhead or at any point in the well is greater than or equal to 76.7 degrees Celsius (170 degrees Fahrenheit) and the carbon monoxide concentration measured, according to the procedures in OAR 340-239-0800(7), is greater than or equal to 1,000 ppmv the corrective action(s) for the wellhead temperature standard (62.8 degrees Celsius or 145 degrees Fahrenheit) must be completed within 15 days. 
+
+ (E) If a higher operating temperature has not been approved by DEQ, the enhanced monitoring specified in OAR 340-239-0800(8) is required at each well with a measurement of landfill gas temperature greater than 62.8 degrees Celsius (145 degrees Fahrenheit). 
+
+ (4) Cover integrity. The landfill owner or operator shall implement a program to monitor for cover integrity and implement cover repairs as necessary on a monthly basis. The cover must conform with requirements in OAR chapter 340, divisions 094 and 095. 
+
+ (5) The monitoring requirements of this division apply at all times, except for periods of monitoring system malfunctions, repairs associated with monitoring system malfunctions, and required monitoring system quality assurance or quality control activities. A monitoring system malfunction is any sudden, infrequent, not reasonably preventable failure of the monitoring system to provide valid data. Monitoring system failures that are caused in part by poor maintenance or careless operation are not malfunctions. Monitoring system repairs completed in response to monitoring system malfunctions to return the monitoring system to operation must be completed as expeditiously as practicable. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, ORS 468A.025, ORS 468A.040 & ORS 468A.050 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468A.025, ORS 468A.040 & ORS 468A.050 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 16-2021, adopt filed 10/04/2021, effective 10/04/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

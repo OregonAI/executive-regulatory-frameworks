@@ -1,0 +1,241 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 90 RECYCLING AND WASTE REDUCTION 
+ 340-090-0700 
+ Market Share 
+ 
+ Market share as used in ORS 459A.860 to 968 and related rules is a producer’s percentage of all covered products sold in or into this state, as calculated in accordance with this rule. 
+
+ (1) Methods for Calculating Market Share. Market share will be calculated as follows: 
+
+ (a) Market share will be denominated by the percentage of weight (mass) of covered product measured in kilograms. 
+
+ (b) A producer's market share will be calculated by dividing the weight of all covered products reported as sold or distributed by the producer in or into Oregon in a particular program year by the total weight of all covered products reported as sold or distributed by all producers in or into Oregon in that year. The sum of market shares across all producers must equal 1.0000. 
+
+ (c) A producer responsibility organization's market share will be calculated by dividing the summed weight of all covered products reported as sold or distributed by all of the producer responsibility organization’s member producers in or into Oregon in a particular program year by the total weight of all covered products reported as sold or distributed by all producers in or into Oregon in that year. The sum of market shares across all producer responsibility organizations must equal 1.0000. 
+
+ (d) A producer must on an annual basis submit market data establishing the weight of covered products sold or distributed in or into Oregon to the producer responsibility organization to which it belongs. Producers must submit a description of their methodology for calculating covered product weight to the producer responsibility organization along with the data. Methodology used must be in accordance with applicable best practices. If estimated market data is submitted by a producer and better market data becomes available that demonstrates the estimates were not accurate, the producer must report corrections to the estimated data to the producer responsibility organization before the next annual reporting deadline. 
+
+ (e) When submitting market data to DEQ in an annual report, a producer responsibility organization will submit the methodological justifications along with the corresponding data. 
+
+ (2) Purpose of and Method for Calculating Modified Market Share. If DEQ approves more than one producer responsibility organization plan pursuant to ORS 459A.878, financial obligations of implementation of provisions ORS 459A.860 to 459A.975, including the costs of implementing assigned coordination tasks prior to the program start date per OAR 340-090-0680(1)(c), will be allocated among the producer responsibility organizations by modified market share, as provided by this section. 
+
+ (a) Modified market share will be denominated in percentage of financial burden measured in US dollars. 
+
+ (b) A producer responsibility organization’s modified market share will be calculated as follows: 
+
+ (A) The material-specific unit factor, described in subsection c of this section, is multiplied by the total weight of covered products of each material reported as sold or distributed in or into Oregon by each member producer; 
+
+ (B) The results of paragraph A for each material and each member producer of the producer responsibility organizations are summed; 
+
+ (C) the weight of all covered product of each material reported as sold or distributed in or into Oregon in a given year is multiplied by the material-specific unit factors and the result for each material are summed; 
+
+ (D) The result of paragraph B is divided by the result of paragraph C. 
+
+ (E) The result of paragraph D is a producer responsibility organization’s modified market share. The sum of modified market shares across all producer responsibility organizations must equal 1.0000. 
+
+ (c) The method and process for calculating material-specific unit factors for individual materials shall be included in any coordination plan approved by DEQ pursuant to OAR 340-090-0680. During the period of interim coordination pursuant to OAR 340-090-0680(1), DEQ will contract with an independent organization to develop and update as necessary an index of material-specific unit factors. 
+
+ (3) Interim Reporting of Market Share. By August 1, 2025, a producer responsibility organization must report information that will be used to calculate interim market share and interim modified market share for the 2025 program year to DEQ. Interim market share for the 2025 program year is calculated using the weight of covered product sold into Oregon in the 2024 calendar year by each member producer, organized by type of material. Pursuant to ORS 459A.869(12), a producer responsibility organization’s minimum interim market share is 10%. 
+
+ (4) Preliminary Reporting of Market Share.  Preliminary market share and preliminary modified market share will be calculated and used as follows: 
+
+ (a) By July 1 of each program year, a producer responsibility organization shall report supply information on the total amount of covered products sold or distributed in or into this state by participating producers in the prior calendar year to DEQ annually, pursuant to ORS 459A.887(2)(c). Beginning in the 2026 program year, DEQ and a producer responsibility organization coordination body will use the supply information to calculate preliminary market share and preliminary modified market share for the following program year. 
+
+ (b) A producer responsibility organization shall use the supply information described in subsection (a) to set fees for their producer members in accordance with ORS 459A.884(1). From 2026 onward, a producer responsibility organization will set producer fees using supply data from two years prior to that program year. For example, 2028 fees will be set on the basis of 2026 supply data. 
+
+ (c) A producer responsibility organization shall use interim market share and interim modified market share, as described in Section (3) of this rule, for the 2025 program year as preliminary market share and preliminary modified market share for the 2026 program year. 
+
+ (5) Final Reporting of Market Share. Final market share and final modified market share will be calculated and used as follows: 
+
+ (a) By March 31 of the following program year, a producer responsibility organization must submit corrections to the supply information used to calculate interim and preliminary market share and modified market share, as described in sections 3 and 4. The corrected data will be used to calculate final market share and final modified market share for the applicable program year. 
+
+ (b) If there is more than one producer responsibility organization expenses must be reconciled between the producer responsibility organizations in proportion to final modified market share. 
+
+ (6) DEQ may use interim, preliminary, or final market share or modified market share data for its administration and oversight purposes, including for enforcement of the 10 percent minimum PRO market share for operation in the state pursuant to ORS 459A.869(12) and identification of large producers subject to the life cycle evaluation requirement at ORS 459A.944(2). DEQ will use updated supply data for its administration and oversight purposes as it becomes available. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 459A.975 & 468.020 
+ 
+ 
+ Statutes/Other Implemented:  ORS 459A.860 - 459A.975 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 20-2024, amend filed 11/24/2024, effective 11/24/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 24-2023, minor correction filed 12/05/2023, effective 12/05/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2023, adopt filed 11/17/2023, effective 11/17/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

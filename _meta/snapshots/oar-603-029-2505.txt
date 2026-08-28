@@ -1,0 +1,233 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Agriculture 
+ Chapter 603 
+ 
+ 
+ 
+ 
+ 
+ Division 29 STATE MEAT INSPECTION PROGRAM 
+ 603-029-2505 
+ Control of Listeria Monocytogenes in Post-Lethality Exposed Ready-To-Eat Products 
+ 
+ (1) Listeria monocytogenes can contaminate RTE products that are exposed to the environment after they have undergone a lethality treatment. L. monocytogenes is a hazard that a state-inspected establishment producing post-lethality exposed RTE products must control through its HACCP plan or prevent in the processing environment through a Sanitation SOP or other prerequisite program. RTE product is adulterated if it contains L. monocytogenes , or if it comes into direct contact with a food contact surface that is contaminated with L. monocytogenes . Establishments must not release into commerce product that contains L. monocytogenes or that has been in contact with a food contact surface contaminated with L. monocytogenes without first reworking the product using a process that is destructive of L. monocytogenes . 
+
+ (2) In order to maintain the sanitary conditions necessary to meet this requirement, a state-inspected establishment producing post-lethality exposed RTE product must comply with the requirements included in one of the three following alternatives: 
+
+ (a) Alternative 1. Use of a post-lethality treatment (which may be an antimicrobial agent) that reduces or eliminates microorganisms on the product and an antimicrobial agent or process that suppresses or limits the growth of L. monocytogenes . If a state-inspected establishment chooses this alternative: 
+
+ (A) The post-lethality treatment must be included in the state-inspected establishment's HACCP plan. The antimicrobial agent or process used to suppress or limit the growth of the pathogen must be included in either the state-inspected establishment's HACCP plan or its Sanitation SOP or other prerequisite program. 
+
+ (B) The state-inspected establishment must validate the effectiveness of the post-lethality treatment incorporated in its HACCP plan in accordance with OAR 603-029-2215. The state-inspected establishment must document, either in its HACCP plan or in its Sanitation SOP or other prerequisite program, that the antimicrobial agent or process, as used, is effective in suppressing or limiting growth of L. monocytogenes . 
+
+ (b) Alternative 2. Use of either a post-lethality treatment (which may be an antimicrobial agent) that reduces or eliminates microorganisms on the product or an antimicrobial agent or process that suppresses or limits growth of L. monocytogenes . If a state-inspected establishment chooses this alternative: 
+
+ (A) The post-lethality treatment must be included in the state-inspected establishment's HACCP plan. The antimicrobial agent or process used to suppress or limit growth of the pathogen must be included in either the state-inspected establishment's HACCP plan or its Sanitation SOP or other prerequisite program. 
+
+ (B) The state-inspected establishment must validate the effectiveness of a post-lethality treatment incorporated in its HACCP plan in accordance with OAR 603-029-2215. The state-inspected establishment must document in its HACCP plan or in its Sanitation SOP or other prerequisite program that the antimicrobial agent or process, as used, is effective in suppressing or limiting growth of L. monocytogenes . 
+
+ (C) If a state-inspected establishment chooses this alternative and chooses to use only an antimicrobial agent or process that suppresses or limits the growth of L. monocytogenes , its sanitation program must: 
+
+ (i) Provide for testing of food contact surfaces in the post-lethality processing environment to ensure that the surfaces are sanitary and free of L. monocytogenes or of an indicator organism; 
+
+ (ii) Identify the conditions under which the establishment will implement hold-and-test procedures following a positive test of a food-contact surface for an indicator organism; 
+
+ (iii) State the frequency with which testing will be done; 
+
+ (iv) Identify the size and location of the sites that will be sampled; and 
+
+ (v) Include an explanation of why the testing frequency is sufficient to ensure that effective control of L. monocytogenes or of indicator organisms is maintained. 
+
+ (D) A state-inspected establishment that chooses this alternative and uses a post-lethality treatment of product will likely be subject to more frequent verification testing by the Department than if it had chosen Alternative 1. A state-inspected establishment that chooses this alternative and uses an antimicrobial agent or process that suppresses or limits the growth of L. monocytogenes will likely be subject to more frequent Department verification testing than if it uses a post-lethality treatment. 
+
+ (c) Alternative 3. Use of sanitation measures only. 
+
+ (A) If a state-inspected establishment chooses this alternative, its sanitation program must: 
+
+ (i) Provide for testing of food contact surfaces in the post-lethality processing environment to ensure that the surfaces are sanitary and free of L. monocytogenes or of an indicator organism; 
+
+ (ii) Identify the conditions under which the establishment will implement hold-and-test procedures following a positive test of a food-contact surface for an indicator organism; 
+
+ (iii) State the frequency with which testing will be done; 
+
+ (iv) Identify the size and location of the sites that will be sampled; and 
+
+ (v) Include an explanation of why the testing frequency is sufficient to ensure that effective control of L. monocytogenes or of indicator organisms is maintained. 
+
+ (B) A state-inspected establishment producing a deli product or a hotdog product, in addition to meeting the requirements of paragraph (2)(c)(A) of this rule, must meet the following requirements: 
+
+ (i) The state-inspected establishment must verify that the corrective actions that it takes with respect to sanitation after an initial positive test for L. monocytogenes or an indicator organism on a food contact surface in the post-lethality processing environment are effective by conducting follow-up testing that includes a targeted test of the specific site on the food contact surface area that is the most likely source of contamination by the organism and such additional tests in the surrounding food contact surface area as are necessary to ensure the effectiveness of the corrective actions. 
+
+ (ii) During this follow-up testing, if the state-inspected establishment obtains a second positive test for an indicator organism, the establishment must hold lots of product that may have become contaminated by contact with the food contact surface until the state-inspected establishment corrects the problem indicated by the test result. 
+
+ (iii) In order to release into commerce product held under this section, the state-inspected establishment must sample and test the lots for L. monocytogenes or an indicator organism using a sampling method and frequency that will provide a level of statistical confidence that ensures that each lot is not adulterated with L. monocytogenes . The state-inspected establishment must document the results of this testing. Alternatively, the state-inspected establishment may rework the held product using a process that is destructive of L. monocytogenes or the indicator organism. 
+
+ (C) A state-inspected establishment that chooses Alternative 3 is likely to be subject to more frequent verification testing by the Department than a state-inspected establishment that has chosen Alternative 1 or 2. A state-inspected establishment that chooses Alternative 3 and that produces deli meat or hotdog products is likely to be subject to more frequent verification testing than one that does not produce such products. 
+
+ (3) For all three alternatives in section (2): 
+
+ (a) State-inspected establishments may use verification testing that includes tests for L. monocytogenes or an indicator organism, such as Listeria species, to verify the effectiveness of their sanitation procedures in the post-lethality processing environment. 
+
+ (b) Sanitation measures for controlling L. monocytogenes and procedures for antimicrobial agents or processes that suppress or limit the growth of the pathogen may be incorporated either in the state-inspected establishment's HACCP plan or in its Sanitation SOP or other prerequisite program. When these control procedures are incorporated into the Sanitation SOP or prerequisite program, and not as a CCP in the HACCP plan, the state-inspected establishment must have documentation that supports the decision in its hazard analysis that L. monocytogenes is not a hazard that is reasonably likely to occur. 
+
+ (c) The state-inspected establishment must maintain sanitation in the post-lethality processing environment in accordance with OAR 603-029-2100 to 603-029-2160. 
+
+ (d) If L. monocytogenes control measures are included in the HACCP plan, the state-inspected establishment must validate and verify the effectiveness of measures for controlling L. monocytogenes included in its HACCP plan in accordance with OAR 603-029-2215. 
+
+ (e) If L. monocytogenes control measures are included in the Sanitation SOP, the effectiveness of the measures must be evaluated in accordance with OAR 603-029-2145. 
+
+ (f) If the measures for addressing L. monocytogenes are addressed in a prerequisite program other than the Sanitation SOP, the state-inspected establishment must include the program and the results produced by the program in the documentation that the state-inspected establishment is required to maintain under OAR 603-029-2220. 
+
+ (g) The state-inspected establishment must make the verification results that demonstrate the effectiveness of the measures it employs, whether under its HACCP plan or its Sanitation SOP or other prerequisite program, available upon request to Department inspection personnel. 
+
+ (4) A state-inspected establishment that controls L. monocytogenes by using a post-lethality treatment or an antimicrobial agent or process that eliminates or reduces or suppresses or limits the growth of the organism may declare this fact on the product label provided that the state-inspected establishment has validated the claim. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 603.085, ORS 619.042 & ORS 619.046 
+ 
+ 
+ Statutes/Other Implemented:  ORS 619.042, ORS 619.046, ORS 619.026 & ORS 619.036 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 19-2022, adopt filed 07/27/2022, effective 07/28/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

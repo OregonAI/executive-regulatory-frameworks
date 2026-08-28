@@ -1,0 +1,209 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 12/01/2026. 
+ 
+ 
+ 
+ 
+ 
+ Oregon Business Development Department 
+ Chapter 123 
+ 
+ 
+ 
+ 
+ 
+ Division 670 JOBS CREATION TAX CREDIT 
+ 123-670-0030 
+ Application Requirements 
+ 
+ (1) Application Period. OBDD shall announce the tax credit certification application period for each tax year on its website no later than June 30 of the calendar year in which the tax year begins. The application period shall open no earlier than July 1 and close no later than October 31 and shall remain open for a minimum of six consecutive weeks. Applications submitted after the close of the application period will not be accepted. 
+
+ (2) Submission. Applications must be submitted through OBDD's online application portal in the form and manner prescribed by OBDD. An application is not considered submitted until it has passed automated completeness screening as described in section (4) of this rule. OBDD is not required to notify an applicant of deficiencies in a submitted application. 
+
+ (3) Eligibility to Apply. Only taxpayers that meet the eligibility requirements of OAR 123-670-0020 may apply for certification. A taxpayer may submit only one application per tax year. 
+
+ (4) Automated Completeness Screening. The online application portal will perform automated completeness screening at the time of submission. An application that does not include all required information and documentation as described in section (5) of this rule will not be accepted by the portal and will be considered not submitted. An application that passes automated completeness screening is considered submitted as of the date and time of submission. Passing automated completeness screening does not constitute a determination of eligibility or approval of the application. 
+
+ (5) Required Application Content. A complete application must include all of the following: 
+
+ (a) Taxpayer identification. The legal name of the taxpayer, federal employer identification number (FEIN) or Social Security Number, Oregon business identification number (BIN), mailing address, and contact information for the authorized representative submitting the application. See OAR 123-670-0015(3)(e) and OAR 123-670-0015(4)(b) for information required for consolidated return filers and pass-through entities. 
+
+ (b) Authorized representative. The name, title, and contact information of the authorized representative, as defined in OAR 123-670-0010(4), and an attestation that the representative has legal authority to act on behalf of the taxpayer. 
+
+ (c) Tax year. The tax year for which the credit is sought. 
+
+ (d) Industry eligibility. A demonstration of industry eligibility, as provided in OAR 123-670-0020(1)(a)(A) or OAR 123-670-0020(1)(a)(B). 
+
+ (e) Employment and wage worksheet. A completed employment and wage worksheet in the form prescribed by OBDD, which must include: 
+
+ (A) The taxpayer's total covered employees and calculated average annual covered employment, expressed as the average monthly count of qualifying covered employees, rounded to the nearest whole number, for the 12-month measurement period ending June 30 of the calendar year immediately preceding the calendar year in which the tax year began (the "baseline period"); 
+
+ (B) The taxpayer's total covered employees and calculated average annual covered employment, expressed as the average monthly count of qualifying covered employees rounded to the nearest whole number, for the 12-month measurement period ending June 30 of the calendar year in which the tax year began (the "current period"); 
+
+ (C) The calculated number of net new jobs, equal to the positive difference between the current period average annual covered employment and the baseline period average annual covered employment, not to exceed 10; 
+
+ (D) For each position counted as a net new job, the county of the employee's primary work location, the applicable Oregon minimum wage rate for that county under ORS 653.025, and an attestation that the position's hourly rate of compensation met or exceeded 150 percent of that minimum wage rate during the current measurement period; and 
+
+ (E) The credit amount requested, calculated as the number of net new jobs, up to 10, multiplied by $1,000. 
+
+ (f)  Attestations. The authorized representative must attest that the taxpayer meets all eligibility requirements for the tax credit. If the taxpayer experienced a merger, conversion, reorganization, consolidation, or acquisition during or between the measurement periods as described in OAR 123-670-0080, the taxpayer must attest that: 
+
+ (A) The taxpayer experienced a qualifying transaction described in OAR 123-670-0080(2) during or between the measurement periods; 
+
+ (B) The adjusted baseline period calculation includes the covered employment of the predecessor entity or acquired portion as required by OAR 123-670-0080; 
+
+ (C) The net new jobs reported in the employment and wage worksheet reflect organic new job creation and not employment transferred, acquired, or otherwise consolidated through the qualifying transaction; and 
+
+ (D) The predecessor business records used to calculate the adjusted baseline are accurate and were obtained from reliable sources. 
+
+ (6) Amendments. A submitted application may be amended by the taxpayer at any time prior to the close of the application period. An amendment submitted after the close of the application period will not be accepted, except as provided in section (7) of this rule. The amended application must pass automated completeness screening at the time of resubmission. The date of the amendment, not the original submission date, controls for purposes of cap administration under OAR 123-670-0060 if the amendment increases the credit amount requested. 
+
+ (7) Downward Corrections After Certification. If a taxpayer determines after receiving certification that the certified credit amount was based on an overstatement of the taxpayer's actual net new jobs, the taxpayer must notify OBDD in writing of the correct number of net new jobs. OBDD shall issue a revised certification reflecting the corrected amount of the tax credit and notify the Oregon Department of Revenue of the revision. 
+
+ (8) Retention of Records. The taxpayer must retain all records supporting the application, including payroll records, quarterly unemployment insurance reports, wage documentation, and records supporting the industry eligibility determination, for a minimum of five years from the date of certification. Records must be made available to OBDD upon request. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 285A.075 
+ 
+ 
+ Statutes/Other Implemented:  Oregon Laws 2026, Chapter 142 & Oregon Laws 2026, Chapter 50 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 9-2026, temporary adopt filed 06/02/2026, effective 06/05/2026 through 12/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

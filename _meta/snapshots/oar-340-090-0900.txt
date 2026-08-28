@@ -1,0 +1,299 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 90 RECYCLING AND WASTE REDUCTION 
+ 340-090-0900 
+ Life Cycle Evaluation Definitions 
+ 
+ Terms used in OAR 340-090-0910 to 0940 have the meanings provided by this rule. 
+
+ (1) Allocation has the meaning provided by ISO 14044:2016: partitioning the input or output flows of a process or a product system between the product system under study and one or more other product systems. 
+
+ (2) Attributional Life Cycle Assessment means an approach to life cycle assessment that attempts to provide information about the portion of global environmental, human health, and natural resource use impacts that can be associated with a particular product and its life cycle. 
+
+ (3) Biogenic Carbon means carbon dioxide (CO2) that is removed from the atmosphere by plants, through photosynthesis. This is distinct from fossil carbon, which comes from the combustion of fossil fuels and is not part of the natural carbon cycle. 
+
+ (4) Break-even point means the number of reuses required for the environmental impact of a reusable or refillable packaging product to equal the environmental impact of an alternative single use covered product. Any additional reuse cycles of a reusable or refillable packaging product beyond the break-even point would result in environmental savings. 
+
+ (5) Characterization factor means a numeric value derived from environmental modeling that is used to convert a particular life cycle inventory analysis result expressed in distinct units to the common unit used for all inventory analysis results that feed into a particular category indicator. 
+
+ (6) Contaminant means trace amounts of chemicals that are incidental to manufacturing and that serve no intended function in the product component, including but not limited to: 
+
+ (a) Unintended by-products of chemical reactions during the manufacture of the product component; 
+
+ (b) Trace impurities in feedstock; 
+
+ (c) Incompletely reacted chemical mixtures; and 
+
+ (d) Degradation products. 
+
+ (7) Cradle-to-grave means a product’s life-cycle that includes all relevant inputs and outputs of raw material extraction, processing, distribution, storage, use, and disposal or recycling stages. 
+
+ (8) Cut-off criteria means thresholds for exclusion of particular flows or unit processes from a study on the basis of their amounts or the level of their environmental significance for the product system. 
+
+ (9) Double-Counting means an error in life cycle assessment whereby a flow, unit process, or other function is represented in a duplicative manner. 
+
+ (10) Durable means designed to accomplish as many use cycles as possible in normally predictable conditions of use. 
+
+ (11) Environmental relevance means, the connection to and contribution of, an input or output within the life cycle inventory to an overall environmental impact (e.g. global warming potential). 
+
+ (12) Flow means a quantified input to or output from a product system. Specific flow definitions are provided by ISO 14044 § 3.12, 3.13, 3.22, 3.27 and 3.29 apply. 
+
+ (13) Functional unit means a clearly defined and measurable reference unit for life cycle assessment that describes a fixed amount of material used to fulfill a particular function for a particular quantity, quality, and duration. All input and output data of the life cycle assessment, generated pursuant to OAR 340-090-0930 and 0940 must be expressed in terms of the functional unit in order to maximize potential for comparability. 
+
+ (14) Greenhouse global warming potential (GWP) means a characterization factor describing the radiative forcing impact of one mass-based unit of a given greenhouse gas relative to that of carbon dioxide over a given period of time. 
+
+ (15) Hazardous substance means chemicals that are considered potentially hazardous in consumer products in Oregon through their designation as a high priority chemical of concern to children pursuant to OAR 333-016-2020, or as a chemical pursuant to ORS 431A.345(1)-(2) or OAR 333-016-2020. 
+
+ (16) Highest and best reuse means use pathways that ensure reuse of a covered product in a similar or more environmentally preferential way, as opposed to reuse that leads to environmentally worse outcomes. 
+
+ (17) Information module means a compilation of data that describes a particular portion of the covered product’s life cycle. 
+
+ (18) Impact category means a class of environmental issues of concern, such as climate change or particulate matter, to which life cycle inventory analysis results may be assigned. 
+
+ (19) Impact category indicator means a quantifiable representation of an impact category. 
+
+ (20) Input means a product, material or energy flow that enters a unit process. 
+
+ (21) Intentionally-added means a substance that serves an intended function in the final covered product or in the manufacturing of the covered product or part of the covered product. 
+
+ (a) The use of a hazardous substance as a processing agent, mold release agent or intermediate is considered intentional introduction where the hazardous substance is present at a concentration above the practical quantification limit in the finished product. Producers may rebut this presumption by providing credible evidence to demonstrate that the product was not intentionally-added. 
+
+ (b) The use of PFAS is presumed intentional if any total fluorine is present in the finished covered product. Producers may rebut this presumption by providing credible evidence to demonstrate that PFAS were not intentionally added. 
+
+ (c) The use of flame retardants is presumed intentional if a hazardous substance that belongs to this chemical class is present in the finished product at a concentration above 1,000 parts per million. Producers may rebut this presumption by providing credible evidence to demonstrate that the flame retardant was not intentionally added. 
+
+ (d) The use of post-consumer recycled materials as feedstock for the manufacture of new covered products, where the covered product may contain amounts of the regulated chemicals but is neither desired nor deliberate, is not considered intentional addition for the purposes of this Act. 
+
+ (22) Internal normalization means that impact indicator results for the impact reduction scenario are divided by the same category of impact indicator results for the baseline scenario prior to impact reduction. 
+
+ (23) International Organization for Standardization (ISO) is a non-governmental organization that develops consensus-based standards for businesses and consumers. Many ISO standards are cross-referenced in these rules and can be obtained at https://www.iso.org/standards.html. 
+
+ (24) Life cycle impact assessment means a phase of a life cycle assessment aimed at understanding and evaluating the magnitude and significance of the potential environmental impacts for a product system throughout the life cycle of the product. 
+
+ (25) Life cycle inventory analysis means a phase of a life cycle assessment involving the compilation and quantification of inputs and outputs for a product throughout its life cycle. 
+
+ (26) Impact category means a class of environmental issues of concern, such as climate change or particulate matter, to which life cycle inventory analysis results may be assigned. 
+
+ (27) Impact category indicator means a quantifiable representation of an impact category. 
+
+ (28) Midpoint indicator means an environmental impact assessment method that focuses on singular environmental problems and measures impact at an intermediate stage of the cause-effect change, before the final endpoint is reached. 
+
+ (29) Output means a product, material, or energy flow that leaves a unit process. 
+
+ (30) PFAS means perfluoroalkyl and polyfluoroalkyl substances, a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom. 
+
+ (31) Plastic leakage means plastic leaving the technosphere and accumulating in the natural environment, be it soil, air, or rivers and ocean. 
+
+ (32) Practical quantification limit means the lowest concentration of a chemical that can be reliably measured within specified limits of precision, accuracy, representativeness, completeness and comparability during routine laboratory operating conditions. 
+
+ (a) The chemical-specific Practical Quantification Limits and methods of detection in OAR 333-016-2035, Exhibit A, apply. 
+
+ (b) The Practical Quantification Limit for Perfluorooctanoic acid and related substances (PFOA), a member of the PFAS class of chemicals for which no Practical Quantification Limit has yet been set in Oregon, is .001 parts per million, in alignment with Washington’s Children’s Safe Products Act. 
+
+ (c) The Practical Quantification Limit for lead, for which no Practical Quantification Limit has yet been set in Oregon, is one part per million, in alignment with Washington’s Toxic Free Cosmetics Act. 
+
+ (33) Process means a set of interrelated or interacting activities that transforms inputs into outputs. 
+
+ (34) Product category rule (PCR) means a set of specific rules, requirements, and guidelines for performing life cycle assessment for a particular product category. 
+
+ (35) Product System means the collection of unit processes with elementary and product flows, performing one or more defined functions, and which models the life cycle of a product. 
+
+ (36) Project report means a report detailing results of a life cycle evaluation of a covered product performed in accordance with OAR 340-090-0930 to 0940, containing all contents listed in OAR 340-090-0920. 
+
+ (37) Refill cycle means the processes and conditions associated with use of a refillable packaging product.  A refill cycle is considered complete when a consumer has emptied the packaging, obtained a new supply of the product intended to be used, and refilled the packaging with said supply. 
+
+ (38) Refillable packaging product means a packaging product that is: 
+
+ (a) Designed to be refilled by consumers multiple times for the same or similar purposes in its original format; 
+
+ (b) Refilled without the support of any commercial or publicly-owned infrastructure and without return of the packaging to the producer or a third-party after each use; and 
+
+ (c) Actually refilled by consumers. 
+
+ (39) Return rate factor means a numeric value generated by dividing the total amount of a covered packaging product returned to the system by the total amount of a covered packaging product placed into commerce. 
+
+ (40) Reuse cycle means the processes and conditions associated with use of a reusable packaging product.  A reuse cycle is considered complete when a package or product has been emptied by the consumer, returned to a producer or third-party system, reused for its original intended purpose in its original format, and returned to the market. 
+
+ (41) Reusable packaging product means a packaging product that is: 
+
+ (a) Designed to be recirculated multiple times for the same or similar purpose in its original format; 
+
+ (b) Supported with adequate commercial or publicly-owned infrastructure to enable the highest and best reuse; 
+
+ (c) Returned to a producer or third party after each use; and 
+
+ (d) Actually reused. 
+
+ (42) Scenario means a collection of assumptions and information relevant to possible future events. 
+
+ (43) Scenario analysis means a type of sensitivity analysis that evaluates impacts of a possible future situation and is based on specific assumptions about the future, and (when relevant) also includes the presentation of the development from the present to the future. 
+
+ (44) Sensitivity analysis means a systematic procedure for estimating the effects of the choices made regarding methods and data on the outcome of a life cycle assessment. 
+
+ (45) Stock keeping unit means a unique identifier, typically an eight-digit code or a scannable bar code, that is assigned by a producer to each product in the producer’s inventory. 
+
+ (46) Substantial impact reduction means a 10% or more reduction of impacts resulting from an impact reduction action undertaken by a producer and measured through comparison of two scenarios, before the producer action (e.g. the baseline scenario) and after the producer action, following the rules outlined in OAR 340-090-0930(3)(c). 
+
+ (47) Substitution credits means credits granted to the product system for outputs of end-of-life treatments, such as recycling. 
+
+ (48) System Boundary means a set of criteria specifying which unit processes are part of a product system. 
+
+ (49) Technosphere means the part of the environment made or modified by humans, pertaining to energy and material consumption. 
+
+ (50) Unit Process means the smallest element considered in life cycle inventory analysis for which input and output data are quantified. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 459A.944 & 459A.884 
+ 
+ 
+ Statutes/Other Implemented:  ORS 459A.944 & 459A.884 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 20-2024, adopt filed 11/24/2024, effective 11/24/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

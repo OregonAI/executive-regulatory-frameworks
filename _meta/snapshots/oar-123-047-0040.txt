@@ -1,0 +1,227 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Business Development Department 
+ Chapter 123 
+ 
+ 
+ 
+ 
+ 
+ Division 47 BROADBAND PROGRAMS 
+ 123-047-0040 
+ Application Process 
+ 
+ (1) Application Cycle and Process; Funding Notice. Each Broadband Program providing grant or loan financial assistance will be subject to an application cycle and process determined by the Department. However, Broadband Service Infrastructure Programs shall each include a funding notice, a process for providing public notice of pending applications, a public process for interested persons to submit comments on pending applications, and a process for challenging an application. Application cycle and process details will be described in specific funding notices. Each Broadband Program application cycle will conclude with notices of award(s) and ultimately financing contract(s) with recipient(s). A notice of award shall be a final order in an   other than contested case proceeding and reviewable pursuant to ORS 183.480 with jurisdiction for judicial review conferred by ORS 183.484. 
+
+ (2) Geospatial Data. To comply with Oregon Laws 2022, Chapter 60, Section 4, upon the Department’s request, Broadband Program applicants must provide geospatial data, including data that is reported to the Federal Communications Commission, and other data as necessary from the Internet service providers and entities with broadband infrastructure in the state for the purpose of complying with federal funding requirements and for determining eligibility for grants and loans issued by the Department. The collected data is subject to the following: 
+
+ (a) The collected information must be in a form that can be viewed, edited, and mapped by the Department. 
+
+ (b) The Department may require the data be submitted in a specific, templated format. 
+
+ (c) The Department may collect proprietary information subject to a nondisclosure agreement. Proprietary information subject to a nondisclosure agreement that is collected by the office under this section (2) is exempt from public disclosure under ORS 192.355. 
+
+ (3) Notice of Pending Applications and Notice of Awards. For Broadband Service Infrastructure Programs, the Department may use its Map Service described in OAR 123-047-0087 and the Department’s website to: 
+
+ (a) Publish notice of award recipients for projects providing for the development of Broadband Service Infrastructure. 
+
+ (b) Provide public notice of pending applications. 
+
+ (4) Applications Generally are Public Records.  Subject to Oregon Public Records Law exceptions, the Department may publish Broadband Program applications in part or in whole on the Oregon Broadband Office webpage. 
+
+ (5) Public Comment. The Department will solicit public comments based on the contents of pending Broadband Service Infrastructure Programs applications. 
+
+ (a) Public comments received in response to an application may be considered as part of the evaluation of the application at the Department’s sole discretion. 
+
+ (b) Public comments opposing an application are separate and distinct from formal challenges, which are addressed in section (6) of this rule. 
+
+ (6) Challenge Process. Except as provided in Section (6)(a) of this Rule below, the Department will establish a challenge process for each Broadband Service Infrastructure Program.  The process, including the period of time for challenging applications submitted for a Broadband Service Infrastructure Program, will be specified in the funding notice or Program Handbook. 
+
+ (a) If a Broadband Service Infrastructure Program is funded with federal funds and such federal funds or associated federal program provides for a challenge process, the Department may elect not to establish an independent challenge process, instead relying solely on the applicable federal challenge process to provide a process for challenging an application. 
+
+ (b) Applications for loans or grants funded from the federal Coronavirus Capital Projects Fund (42 U.S.C. 804) that are for broadband service infrastructure projects will be subject to challenge by a broadband service provider as provided by Section 1a(1)(c), chapter 338, Oregon Laws 2023. 
+
+ (c) The Department elects not to establish an independent challenge process, but instead to rely on the available federal challenge process for applications for loans or grants for broadband service infrastructure projects funded from the federal Broadband Equity, Access, and Deployment (BEAD) Program established under 47 U.S.C. 1702. 
+
+ (d) Challenge submissions of Broadband Service Infrastructure Program applications based on requisite broadband service speeds may only be made by broadband service providers that would be directly impacted by the project described in an application for the development of broadband service infrastructure. A successful challenge requires an entity making a formal challenge submission to effectively demonstrate at least one of the following to the Department’s satisfaction: 
+
+ (A) The broadband service provider provides broadband service at the requisite speeds to the location; or 
+
+ (B) The broadband service provider has an enforceable commitment to provide broadband service at the requisite speeds to the location; and the commitment to provide broadband services at the requisite speeds to the location is by a date that is earlier than the date the proposed broadband service infrastructure will begin to provide broadband services, as described in the application. 
+
+ (e) Any individual or entity may make a challenge submission where: 
+
+ (A) A challenge involves a credible allegation of a material misrepresentation made within a submitted application; or 
+
+ (B)   Another reason(s) is authorized and detailed in an accompanying funding notice or Program Handbook. 
+
+ (f) The burden for proving a challenge claim is on the challenger individual or entity, whose responsibility it will be to provide enough evidence to fully support their claim to the Department’s satisfaction. 
+
+ (g) Unless specified otherwise in the funding notice or Program Handbook, challenges submitted in response to an application will remain attached to and be considered alongside an application for as long as the application remains in consideration for funding. 
+
+ (h) The Department may reject or otherwise dismiss a challenge. The Department will notify a challenger in the event their submission is rejected or otherwise dismissed. 
+
+ (i) If a challenger proves a challenge claim to the Department’s satisfaction, including but not limited to effectively demonstrating service availability at or above the speeds required for eligibility, the Department will uphold the challenge and reject the application or request the applicant modify the application. 
+
+ (j) Abuse and disqualification. The Department may dismiss a challenge if the Department determines, in its sole discretion, that the individual or entity’s challenge is an abuse of the challenge process. Reasons for such a determination may include but are not limited to the following: 
+
+ (A) History of meritless challenges; 
+
+ (B) Intentional repeated challenges of a single project; 
+
+ (C) Multiple challenges containing no credible supporting information; or 
+
+ (D) Harassment of Department staff, applicants, or subject community members. 
+
+ (k) For entities and individuals found to have abused the challenge process, the Department may deny their eligibility to participate in, apply for, challenge, or appeal any current or future Broadband Program. 
+
+ (l) Dismissed challenges will not be considered in the scoring or evaluation of applications . 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 285A.075, ORS 285A.166, Oregon Laws 2020, chapter 17, Section 5(2) (First Special Session) (SB 1603), Oregon Laws 2021, chapter 524, 2022 Oregon Laws, chapter 60 & Oregon Laws 2023, chapter 338 (HB 3201) 
+ 
+ 
+ Statutes/Other Implemented:  Oregon Laws 2020, chapter 17, Section 5(2) (First Special Session) (SB 1603), Oregon Laws 2021, chapter 524, 2022 Oregon Laws, chapter 60 & Oregon Laws 2023, chapter 338 (HB 3201) 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 30-2023, adopt filed 11/14/2023, effective 11/14/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

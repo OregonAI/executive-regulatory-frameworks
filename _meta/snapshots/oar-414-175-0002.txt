@@ -1,0 +1,350 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Early Learning and Care 
+ Chapter 414 
+ 
+ 
+ 
+ 
+ 
+ Division 175 EMPLOYMENT RELATED DAY CARE PROGRAM 
+ 414-175-0002 
+ Definitions 
+ 
+ The following definitions apply to division 175, unless the context indicates otherwise:  
+(1) "Adjusted income" means the amount determined by subtracting income deductions from countable income.   
+(2) "Assets" mean income and resources.  
+(3) “Authorized representative” means an individual aged 18 years or older or an organization permitted by these rules to act on behalf of an applicant in assisting the applicant with their application, renewal of eligibility, and other ongoing communications with the Department.  
+(4) "Basic decision notice" means a decision notice mailed no later than the date of action given in the notice.  
+(5) "Budgeting" means the process of calculating the benefit level.  
+(6) "Budget month" means the calendar month from which nonfinancial and financial information is used to determine eligibility and benefit level for the payment month.  
+(7) "Capital asset" means property that contributes toward earning self-employment income, either directly or indirectly. A "capital asset" generally has a useful life of over one year and a value, alone or in combination, of $100 or more.  
+(8) “Categorically eligible” means eligible for the ERDC program based on the presence of a single factor, or set of factors, except that certain federal requirements apply.  
+(9) "Caretaker" means an individual who is responsible for the care, control, and supervision of a child. The status of "caretaker" ends once the individual no longer exercises care, control, and supervision of the child for 30 days.  
+(10) "Certification period" means the period for which a caretaker is certified eligible for a program.  
+(11) "Child" includes natural, step, and adoptive children. The term "child" does not include an unborn child. A "child" need not have a biological or legal relationship to the caretaker but must be in the care and custody of the caretaker, must meet the citizenship or noncitizen status requirements of OAR 414-175-0021, and must be:  
+(a) Under the age of 18; or  
+(b) Under the age of 19 and in secondary school or vocational training at least half time.  
+(12) "Continuing benefit decision notice" means a decision notice that informs a caretaker of the right to continued benefits and is mailed in time to be received by the date benefits are, or would be, received.  
+(13) "Countable" means that an available asset (either income or a resource) is not excluded and may be considered to determine eligibility.  
+(14) "Decision notice" means a written notice of a decision by the Department regarding a caretaker's eligibility for benefits in a program.  
+(15) “Department” means the Department of Early Learning and Care, or its delegate, the Oregon Department of Human Services, in accordance with ORS 327.274 and as described in rule.  
+(16) "Domestic violence" means the occurrence of one or more of the acts described in subsections (a) to (d) of this section between family members, intimate partners, or household members:  
+(a) Attempting to cause or intentionally, knowingly, or recklessly causing physical injury or emotional, mental, or verbal abuse.  
+(b) Intentionally, knowingly, or recklessly placing another in fear of imminent serious physical injury.  
+(c) Committing sexual abuse in any degree as defined in ORS 163.415, 163.425 and 163.427.  
+(d) Using coercive or controlling behavior.  
+(e) As used in this section, "family members" and "household members" mean any of the following:  
+(A) Spouse;  
+(B) Former spouse;  
+(C) Individuals related biologically or by marriage (see section (4546) of this rule), or adoption;  
+(D) Individuals who are cohabitating or have cohabited with each other;  
+(E) Individuals who have been involved in a sexually intimate or dating relationship; or  
+(F) Unmarried parents of a child.  
+(17) "Eligibility" means the decision as to whether an individual qualifies, under financial and nonfinancial requirements, to receive program benefits.  
+(18) “ERDC” or “Employment Related Day Care” means Oregon’s primary child care assistance program for eligible families under this rule set.  
+(19) "Equity value" means fair market value minus encumbrances.  
+(20) "Experiencing homelessness" means an individual in the ERDC filing group who is experiencing a lack of a fixed, regular, and adequate nighttime residence. This includes, but is not limited to, individuals who are:  
+(a) Living in an emergency or transitionary shelter,  
+(b) Sharing housing with others due to loss of housing or economic hardship, or  
+(c) Staying in motels, campgrounds, hotels, cars, parks, public places, tents, trailers, or other similar settings.  
+(21) “Facility” means an individual, group of individuals, or entity that is caring for a child younger than 13 years of age or a child 18 or younger with special needs.  
+(22) "Fair market value" means the amount an item is worth on the open market.  
+(23) "Financial institution" means a bank, credit union, savings and loan association, investment trust, or other organization held out to the public as a place receiving funds for deposit, savings, checking, or investment.  
+(24) “Illegal activity” means an activity that is illegal under either Oregon law or federal law, or both. Working in the marijuana or psilocybin industry is considered an “illegal activity” under this rule.  
+(25) "Income producing property" means real or personal property that generates income for the financial group. Examples of "income producing property" are:  
+(a) Livestock, poultry, and other animals.  
+(b) Farmland that is leased or rented to a party outside the financial group and generates income from that lease or rental agreement. This refers to the land itself as a source of income and does not include farmland used in the operation of a farming business that is owned or managed by a member of the financial group.   
+(c) Rental homes (including a room or other space in the home or on the property of a member of the financial group), vacation homes, and condominiums.  
+(26) "Initial month" of eligibility means any of the following:  
+(a) The first month a benefit group is eligible for a program benefit in Oregon after a period during which the group is not eligible, or  
+(b) The first month a benefit group is eligible for a program benefit after there has been a break in the program benefit of at least one full calendar month. If benefits are suspended for one month, that is not considered a break.  
+(27) "In-kind income" means income in a form other than money (such as food, clothing, cars, furniture, payments made to a third party, and fringe benefits).  
+(28) "Legally married" means a marriage uniting two individuals according to:  
+(a) The statutes of the state where the marriage occurred;  
+(b) The common law of the state in which the two individuals previously resided while meeting the requirements for common law marriage in that state; or  
+(c) The laws of a country in which the two individuals previously resided while meeting the requirements for legal or cultural marriage in that country.  
+(29) "Life estate" means the right to property limited to the lifetime of the individual holding it or the lifetime of some other individual. In general, a "life estate" enables the owner of the "life estate" to possess, use, and obtain profits from property during the lifetime of a designated individual while actual ownership of the property is held by another individual. A "life estate" is created when an individual owns property and then transfers ownership to another individual while retaining, for the rest of the individual's life, certain rights to that property. In addition, a "life estate" is established when a member of the financial group purchases a "life estate" interest in the home of another individual.  
+(30) "Lodger" means someone who:  
+(a) Is living with a caretaker receiving Department benefits;  
+(b) Is not a member of the caretaker’s filing group; and  
+(c) Pays the filing group for room and board.  
+(31) "Lump-sum income" means earned or unearned income received too infrequently or irregularly to be reasonably anticipated, or received as a one-time payment. "Lump-sum income" includes but is not limited to:  
+(a) Retroactive benefits covering more than one month, whether received in a single payment or several payments.  
+(b) Income from inheritance, gifts, winnings, and personal injury claims.  
+(c) Income received less frequently than annually.  
+(32) "Marriage" means the union of two individuals who are legally married.  
+(33) “Minor parent” means a parent under the age of 18.  
+(34) Nonstandard living arrangement” means each of the following locations:  
+(a) Foster care.  
+(b) Residential Care facility.  
+(c) Drug or alcohol residential treatment facility.  
+(d) Shelter for individuals who are homeless or domestic violence shelter.  
+(e) Lodging house if paying for room and board.  
+(f) Correctional facility.  
+(g) Medical institution.  
+(35) “Ongoing month” means any month following the initial month of eligibility, if there is no break in the program benefit of one or more calendar months.  
+(36) “ODHS” or “Oregon Department of Human Services” means the Oregon Department of Human Services.  
+(37) “Oregon ELMS” or “Oregon Early Learning Management System” means the Department’s online system used to manage child care provider licensing, enrollment, billing and payments processes.  
+(38) "Parent” means the biological or legal parent of a child or unborn child.  
+(a) If the person who gave birth (parent 1) to the child lives with an individual (parent 2) and either parent 1 or parent 2 claims that parent 2 is the other biological parent of the child or unborn, and no one else claims to be the other biological parent, parent 2 is treated as a parent even if parentage has not been legally established.  
+(b) A stepparent relationship exists if:  
+(A) The individual is legally married to the child's biological or adoptive parent; and  
+(B) The marriage has not been terminated by legal separation, divorce, or death.  
+(c) A legal adoption erases all prior legal and biological relationships and establishes the adoptive parent as the legal parent. However, the biological parent is also considered a "parent" if both of the following are true:  
+(A) The child lives with the biological parent; and  
+(B) The legal parent has given up care, control, and supervision of the child.  
+(39) "Payment month" means the calendar month for which benefits are issued.  
+(40) "Periodic income" means income received on a regular basis less often than monthly.  
+(41) "Primary person" means the filing group member who is responsible for providing information necessary to determine eligibility and calculate benefits. The caretaker is the primary person for ERDC.  
+(42) "Real property" means land, buildings, and whatever is erected on or affixed to the land and taxed as "real property".  
+(43) "Reimbursement" means money or in-kind compensation provided specifically for an identified expense.  
+(44) "Shelter-in-kind" means an agency or individual outside the financial group provides the shelter of the financial group, or makes a payment to a third party for some or all of the shelter costs of the financial group. "Shelter-in-kind" does not include temporary shelter provided by a domestic violence shelter, shelter for individuals who are homeless, or residential alcohol and drug treatment facilities or situations where no shelter is being provided, such as sleeping in a doorway, park, or bus station.  
+(45) "Sibling" means the brother or sister of an individual. "Biologically-related" means they share at least one biological or adoptive parent. "Step" means they are not biologically-related, but are related by the marriage of their parents.  
+(46) "Spousal support" means income paid (voluntarily, per court order, or per administrative order) by a separated or divorced spouse to a member of the financial group.  
+(47) "Spouse" means an individual who is legally married to another individual.  
+(48) "Stable income" means income that is the same amount each time it is received.  
+(49) "Standard living arrangement" means a location that does not qualify as a nonstandard living arrangement.  
+(50) "Timely continuing benefit decision notice" means a decision notice that informs the caretaker or the authorized representative of the filing group of the right to continued benefits.  
+(51) "Trust funds" mean money, securities, or similar property held by an individual or institution for the benefit of another individual.  
+(52) "USDA meal reimbursements" mean cash reimbursements made by the Oregon Department of Education for child-care providers who serve snacks and meals to children in their care.  
+(53) "Variable income" means earned or unearned income that is not always received in the same amount each month. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 329A.500 
+ 
+ 
+ Statutes/Other Implemented:  ORS 329A.500 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DELC 8-2026, amend filed 05/28/2026, effective 06/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DELC 2-2026, amend filed 02/26/2026, effective 03/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DELC 5-2025, amend filed 06/25/2025, effective 07/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DELC 139-2024, amend filed 12/11/2024, effective 01/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DELC 134-2024, amend filed 06/26/2024, effective 07/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DELC 45-2023, minor correction filed 10/31/2023, effective 10/31/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ELD 11-2023, adopt filed 06/28/2023, effective 07/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
