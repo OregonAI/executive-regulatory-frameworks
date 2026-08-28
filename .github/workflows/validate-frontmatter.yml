@@ -68,6 +68,18 @@ jobs:
       # a wrong date passes every other gate silently. Cases are real corpus lines.
       - name: Executive-order signed-date parser
         run: python3 src/ingest_eo.py --selftest
+      # A section is admitted only on evidence it is THIS section, not merely that its
+      # slice contains a word the catalog title also uses (#201) — checked by POSITION
+      # against the catchline ORS itself prints ("NUMBER CATCHLINE. body..."), not by
+      # vocabulary. Proves the one-shared-word defect the ticket names is refused (a real
+      # catalog row and real ORS prose standing in for a wrongly-anchored slice, run
+      # through a kept copy of the pre-#201 predicate so the failure is demonstrated
+      # against real code, not asserted), that currently-ingested, correctly-anchored
+      # sections still pass, and that the measured residual (21 of 37,534 catalog titles
+      # that diverge from their own printed catchline, OregonAI/
+      # executive-regulatory-frameworks#286) is refused rather than absorbed.
+      - name: ORS ingest title-anchoring check must refuse a one-shared-word mis-anchor
+        run: python3 src/ingest_ors.py --selftest
       # The Oregon Constitution is mirrored WHOLE (ADR 0005, #195), and a section is
       # published only when its slice passed every rule — missing, not anchored to the title
       # the page lists, printed as a repealed section's leadline and history bracket alone,
