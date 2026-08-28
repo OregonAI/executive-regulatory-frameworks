@@ -89990,18 +89990,23 @@ chapters:
       path: rules/607/010/oar-607-010-0030.md
   - division: '20'
     title: Per Diem Compensation
-    status: not_ingested
+    status: ingested
     rules:
     - number: 607-020-0100
-      status: not_ingested
+      status: ingested
+      path: rules/607/020/oar-607-020-0100.md
     - number: 607-020-0110
-      status: not_ingested
+      status: ingested
+      path: rules/607/020/oar-607-020-0110.md
     - number: 607-020-0120
-      status: not_ingested
+      status: ingested
+      path: rules/607/020/oar-607-020-0120.md
     - number: 607-020-0130
-      status: not_ingested
+      status: ingested
+      path: rules/607/020/oar-607-020-0130.md
     - number: 607-020-0140
-      status: not_ingested
+      status: ingested
+      path: rules/607/020/oar-607-020-0140.md
   - division: '30'
     title: COMMISSION MAKE UP, TERMS, QUALIFICATIONS, TERM LIMITS, REMOVAL FROM OFFICE
     status: ingested
@@ -90135,7 +90140,7 @@ chapters:
       path: rules/611/030/oar-611-030-0040.md
   - division: '40'
     title: Per Diem Compensation
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 611-040-0010
       status: ingested
@@ -90147,15 +90152,20 @@ chapters:
       status: ingested
       path: rules/611/040/oar-611-040-0030.md
     - number: 611-040-0100
-      status: not_ingested
+      status: ingested
+      path: rules/611/040/oar-611-040-0100.md
     - number: 611-040-0110
-      status: not_ingested
+      status: ingested
+      path: rules/611/040/oar-611-040-0110.md
     - number: 611-040-0120
-      status: not_ingested
+      status: ingested
+      path: rules/611/040/oar-611-040-0120.md
     - number: 611-040-0130
-      status: not_ingested
+      status: ingested
+      path: rules/611/040/oar-611-040-0130.md
     - number: 611-040-0140
-      status: not_ingested
+      status: ingested
+      path: rules/611/040/oar-611-040-0140.md
   discovered: '2026-08-27'
 - chapter: '617'
   title: Department of Agriculture, Oregon Dairy Products Commission
@@ -90362,7 +90372,7 @@ chapters:
       path: rules/623/030/oar-623-030-0030.md
   - division: '40'
     title: COMMISSIONER PER DIEM AND REIMBURSEMENTS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 623-040-0005
       status: ingested
@@ -90374,15 +90384,20 @@ chapters:
       status: ingested
       path: rules/623/040/oar-623-040-0015.md
     - number: 623-040-0100
-      status: not_ingested
+      status: ingested
+      path: rules/623/040/oar-623-040-0100.md
     - number: 623-040-0110
-      status: not_ingested
+      status: ingested
+      path: rules/623/040/oar-623-040-0110.md
     - number: 623-040-0120
-      status: not_ingested
+      status: ingested
+      path: rules/623/040/oar-623-040-0120.md
     - number: 623-040-0130
-      status: not_ingested
+      status: ingested
+      path: rules/623/040/oar-623-040-0130.md
     - number: 623-040-0140
-      status: not_ingested
+      status: ingested
+      path: rules/623/040/oar-623-040-0140.md
   discovered: '2026-08-27'
 - chapter: '624'
   title: Department of Agriculture, Oregon Alfalfa Seed Commission
@@ -99095,7 +99110,7 @@ chapters:
       path: rules/642/010/oar-642-010-0025.md
   - division: '20'
     title: RATES FOR COMMISSIONER PER DIEM AND REIMBURSEMENT
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 642-020-0010
       status: ingested
@@ -99110,15 +99125,20 @@ chapters:
       path: rules/642/020/oar-642-020-0030.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 642-020-0100
-      status: not_ingested
+      status: ingested
+      path: rules/642/020/oar-642-020-0100.md
     - number: 642-020-0110
-      status: not_ingested
+      status: ingested
+      path: rules/642/020/oar-642-020-0110.md
     - number: 642-020-0120
-      status: not_ingested
+      status: ingested
+      path: rules/642/020/oar-642-020-0120.md
     - number: 642-020-0130
-      status: not_ingested
+      status: ingested
+      path: rules/642/020/oar-642-020-0130.md
     - number: 642-020-0140
-      status: not_ingested
+      status: ingested
+      path: rules/642/020/oar-642-020-0140.md
   - division: '30'
     title: COMMISSION MAKE-UP, TERMS, QUALIFICATIONS, TERM LIMITS, REMOVAL FROM OFFICE
     status: ingested
@@ -99405,7 +99425,7 @@ chapters:
       path: rules/645/030/oar-645-030-0040.md
   - division: '40'
     title: COMMISSIONER PER DIEM AND REIMBURSEMENTS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 645-040-0010
       status: ingested
@@ -99420,15 +99440,20 @@ chapters:
       path: rules/645/040/oar-645-040-0030.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 645-040-0100
-      status: not_ingested
+      status: ingested
+      path: rules/645/040/oar-645-040-0100.md
     - number: 645-040-0110
-      status: not_ingested
+      status: ingested
+      path: rules/645/040/oar-645-040-0110.md
     - number: 645-040-0120
-      status: not_ingested
+      status: ingested
+      path: rules/645/040/oar-645-040-0120.md
     - number: 645-040-0130
-      status: not_ingested
+      status: ingested
+      path: rules/645/040/oar-645-040-0130.md
     - number: 645-040-0140
-      status: not_ingested
+      status: ingested
+      path: rules/645/040/oar-645-040-0140.md
   discovered: '2026-08-27'
 - chapter: '646'
   title: Department of Agriculture, Oregon Salmon Commission
@@ -99600,7 +99625,7 @@ chapters:
       path: rules/647/020/oar-647-020-0060.md
   - division: '40'
     title: COMMISSIONER PER DIEM AND REIMBURSEMENTS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 647-040-0000
       status: ingested
@@ -99615,15 +99640,20 @@ chapters:
       path: rules/647/040/oar-647-040-0020.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 647-040-0100
-      status: not_ingested
+      status: ingested
+      path: rules/647/040/oar-647-040-0100.md
     - number: 647-040-0110
-      status: not_ingested
+      status: ingested
+      path: rules/647/040/oar-647-040-0110.md
     - number: 647-040-0120
-      status: not_ingested
+      status: ingested
+      path: rules/647/040/oar-647-040-0120.md
     - number: 647-040-0130
-      status: not_ingested
+      status: ingested
+      path: rules/647/040/oar-647-040-0130.md
     - number: 647-040-0140
-      status: not_ingested
+      status: ingested
+      path: rules/647/040/oar-647-040-0140.md
   discovered: '2026-08-27'
 - chapter: '656'
   title: Department of Agriculture, Oregon Trawl Commission
@@ -99695,7 +99725,7 @@ chapters:
       path: rules/656/030/oar-656-030-0040.md
   - division: '40'
     title: COMMISSIONER PER DIEM AND REIMBURSEMENTS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 656-040-0010
       status: ingested
@@ -99710,15 +99740,20 @@ chapters:
       path: rules/656/040/oar-656-040-0030.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 656-040-0100
-      status: not_ingested
+      status: ingested
+      path: rules/656/040/oar-656-040-0100.md
     - number: 656-040-0110
-      status: not_ingested
+      status: ingested
+      path: rules/656/040/oar-656-040-0110.md
     - number: 656-040-0120
-      status: not_ingested
+      status: ingested
+      path: rules/656/040/oar-656-040-0120.md
     - number: 656-040-0130
-      status: not_ingested
+      status: ingested
+      path: rules/656/040/oar-656-040-0130.md
     - number: 656-040-0140
-      status: not_ingested
+      status: ingested
+      path: rules/656/040/oar-656-040-0140.md
   discovered: '2026-08-27'
 - chapter: '657'
   title: Department of Agriculture, Oregon Ryegrass Growers Seed Commission
@@ -99749,7 +99784,7 @@ chapters:
       path: rules/657/010/oar-657-010-0025.md
   - division: '20'
     title: RATES FOR COMMISSIONER PER DIEM AND REIMBURSEMENT
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 657-020-0010
       status: ingested
@@ -99764,15 +99799,20 @@ chapters:
       path: rules/657/020/oar-657-020-0030.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 657-020-0100
-      status: not_ingested
+      status: ingested
+      path: rules/657/020/oar-657-020-0100.md
     - number: 657-020-0110
-      status: not_ingested
+      status: ingested
+      path: rules/657/020/oar-657-020-0110.md
     - number: 657-020-0120
-      status: not_ingested
+      status: ingested
+      path: rules/657/020/oar-657-020-0120.md
     - number: 657-020-0130
-      status: not_ingested
+      status: ingested
+      path: rules/657/020/oar-657-020-0130.md
     - number: 657-020-0140
-      status: not_ingested
+      status: ingested
+      path: rules/657/020/oar-657-020-0140.md
   - division: '30'
     title: COMMISSION MAKE-UP, TERMS, QUALIFICATIONS, TERM LIMITS, REMOVAL FROM OFFICE
     status: ingested
@@ -99878,7 +99918,7 @@ chapters:
   - division: '40'
     title: PER DIEM COMPENSATION, REIMBURSEMENT OF TRAVEL AND OTHER EXPENSES AND REIMBURSEMENT FOR HIRING
       A SUBSTITUTE
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 658-040-0005
       status: ingested
@@ -99893,15 +99933,20 @@ chapters:
       path: rules/658/040/oar-658-040-0020.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 658-040-0100
-      status: not_ingested
+      status: ingested
+      path: rules/658/040/oar-658-040-0100.md
     - number: 658-040-0110
-      status: not_ingested
+      status: ingested
+      path: rules/658/040/oar-658-040-0110.md
     - number: 658-040-0120
-      status: not_ingested
+      status: ingested
+      path: rules/658/040/oar-658-040-0120.md
     - number: 658-040-0130
-      status: not_ingested
+      status: ingested
+      path: rules/658/040/oar-658-040-0130.md
     - number: 658-040-0140
-      status: not_ingested
+      status: ingested
+      path: rules/658/040/oar-658-040-0140.md
   - division: '50'
     title: RULES FOR PUBLIC RECORDS REQUESTS
     status: ingested
@@ -101942,7 +101987,7 @@ chapters:
   - division: '20'
     title: PER DIEM COMPENSATION, REIMBURSEMENT OF TRAVEL AND OTHER EXPENSES AND REIMBURSEMENT OF HIRING
       A SUBSTITUTE
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 664-020-0010
       status: ingested
@@ -101957,15 +102002,20 @@ chapters:
       path: rules/664/020/oar-664-020-0030.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 664-020-0100
-      status: not_ingested
+      status: ingested
+      path: rules/664/020/oar-664-020-0100.md
     - number: 664-020-0110
-      status: not_ingested
+      status: ingested
+      path: rules/664/020/oar-664-020-0110.md
     - number: 664-020-0120
-      status: not_ingested
+      status: ingested
+      path: rules/664/020/oar-664-020-0120.md
     - number: 664-020-0130
-      status: not_ingested
+      status: ingested
+      path: rules/664/020/oar-664-020-0130.md
     - number: 664-020-0140
-      status: not_ingested
+      status: ingested
+      path: rules/664/020/oar-664-020-0140.md
   - division: '30'
     title: Public Records Requests
     status: ingested

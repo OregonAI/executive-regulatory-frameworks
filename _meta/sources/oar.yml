@@ -22069,6 +22069,56 @@ sources:
   sha256: fa0c7b3ba82e7bf8c5bd4cac8f403ccd0b01272a722f45749253e6132399c739
   last_checked: '2026-08-28'
   notes: Fee Waiver or Reduction
+- id: oar-607-020-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=607-020-0100
+  sha256: a84f56dd8b85da8fc19eacd898d9a57d2db8ceb5e167a0950585aac5f9f818bc
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-607-020-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=607-020-0110
+  sha256: 3a048104438d1c5e0ebb6a546512408eec8868a3b64c22dc1e4ee5cd561af6c5
+  last_checked: '2026-08-28'
+  notes: Qualified Members
+- id: oar-607-020-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=607-020-0120
+  sha256: a08c988105731fab42961c74642e49627c1e4037b2a9110c8fcebb03de88b4b9
+  last_checked: '2026-08-28'
+  notes: Non-Qualified Members
+- id: oar-607-020-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=607-020-0130
+  sha256: 5f2e361e18e49b6544b452781c70a01317e1cdbe8b0a74c98642a8972a720599
+  last_checked: '2026-08-28'
+  notes: Procedures for Payment of Per Diem Compensation
+- id: oar-607-020-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=607-020-0140
+  sha256: eb7b156631d9b52bb085704aaf730ba2a7949359d38007bd57d36a93129312ba
+  last_checked: '2026-08-28'
+  notes: Procedures for Expense Reimbursement
+- id: oar-611-040-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=611-040-0100
+  sha256: b207cbcc751fbb02c730231c24672c7d5c319b4fc40a64f642d8baed26dfb702
+  last_checked: '2026-08-28'
+  notes: Commissioner Per Diem and Reimbursements
+- id: oar-611-040-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=611-040-0110
+  sha256: 44160184ec5f5167feac3a1921669b01ed9f094c6220b12bc34847f37db96df8
+  last_checked: '2026-08-28'
+  notes: Qualified Members
+- id: oar-611-040-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=611-040-0120
+  sha256: 133ff57141ca300b60efb70473509f2419aff7d7443f6a2fedfea6437ae28a42
+  last_checked: '2026-08-28'
+  notes: Non-Qualified Members
+- id: oar-611-040-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=611-040-0130
+  sha256: fc582a3c348d3137e6af0b970dbffd96b2b4a82a0b14fa5be7d0a24f327c9d79
+  last_checked: '2026-08-28'
+  notes: Procedures for Payment of Per Diem Compensation
+- id: oar-611-040-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=611-040-0140
+  sha256: a096011834e5dc893fe4f3a2813e8b73519352a6bb211fd080af90ecb4a4db2e
+  last_checked: '2026-08-28'
+  notes: Procedures for Expense Reimbursement
 - id: oar-617-040-0090
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=617-040-0090
   sha256: bceaff4ae0d0767ee337876a0e24361ebe5f4b322bc462def57abc82da1233c2
@@ -22129,6 +22179,31 @@ sources:
   sha256: 6405c4541185b5c95d5a5e1d7a5545970f0b03be6756dae708362c5ed4721fe8
   last_checked: '2026-08-28'
   notes: Fee Waiver or Reduction
+- id: oar-623-040-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=623-040-0100
+  sha256: 307f9bdc567cfe637933c4aa2d074519f41c8bd71726c4df5e0b39a268928a98
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-623-040-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=623-040-0110
+  sha256: 6b363429ab288590afb4adcb022435dc9ad7000b725891dcf2f837f446f8898d
+  last_checked: '2026-08-28'
+  notes: Qualified Members
+- id: oar-623-040-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=623-040-0120
+  sha256: 081633227bc29973949406fd592ea885c1237c66001923a2c8a5131becc600b8
+  last_checked: '2026-08-28'
+  notes: Non-Qualified Members
+- id: oar-623-040-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=623-040-0130
+  sha256: bfb352ecb5152a08f831c5ab32674c6bb477bef21ad1c8ccbeca75c1f6c35a76
+  last_checked: '2026-08-28'
+  notes: Procedures for Payment of Per Diem Compensation
+- id: oar-623-040-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=623-040-0140
+  sha256: 48b17e9677472181a04ba0988f7ea005ee14fc84a76acebe14e4aa3d4908b003
+  last_checked: '2026-08-28'
+  notes: Procedures for Expense Reimbursement
 - id: oar-629-025-0092
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=629-025-0092
   sha256: f345aee791e911c6165bf9466443df032473ae70796e395471d6e2a853020ce5
@@ -22960,6 +23035,31 @@ sources:
   sha256: 13e67f7cb9874b1eb5ca55f12cf36d9a9644e02598beff64e440a653eef004cd
   last_checked: '2026-08-28'
   notes: Memorandum of Agreement with the Confederated Tribes of Siletz Indians
+- id: oar-642-020-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=642-020-0100
+  sha256: 2bf38032489a5622bb0f56846ecff71a6536fda6222003a9228d67311b0ce4fe
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-642-020-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=642-020-0110
+  sha256: 77726a1af928bac72c158829ed9ddd6f904c755dbde33fc64436374a6aa64ea9
+  last_checked: '2026-08-28'
+  notes: Qualified Members
+- id: oar-642-020-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=642-020-0120
+  sha256: 4f01603c2cb155b614d0b086509bffb6350e8df8c5c802fcd57e9d9eff27a7ea
+  last_checked: '2026-08-28'
+  notes: Non-Qualified Members
+- id: oar-642-020-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=642-020-0130
+  sha256: 5f0d66d2cc4a015f50bd640e1db82212623e4e54b62371b587b5cc06282eac17
+  last_checked: '2026-08-28'
+  notes: Procedures for Payment of Per Diem Compensation
+- id: oar-642-020-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=642-020-0140
+  sha256: 00099e8b5fdc1eb2d59a0ba637d7e93a88b09975468d9b03015a54d0fe6d03a8
+  last_checked: '2026-08-28'
+  notes: Procedures for Expense Reimbursement
 - id: oar-644-020-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=644-020-0010
   sha256: a624eb08df09b142c9674bf4175d33571f928c98dbec1a8a0495791b3f050c89
@@ -23019,6 +23119,31 @@ sources:
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=645-010-0010
   sha256: f1be43de43cecea4439202b31ce928e087ffd7829482feacfb7b2de7a1f776c8
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
+- id: oar-645-040-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=645-040-0100
+  sha256: 0e7ece7103c692bde8e07ad149ea52fc2b97e4214af6f33356d9f0a2047871ac
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-645-040-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=645-040-0110
+  sha256: b30644d01fe3f0215d5506a7f2f941e9d46717457bd5991b81e1e903d7c10add
+  last_checked: '2026-08-28'
+  notes: Qualified Members
+- id: oar-645-040-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=645-040-0120
+  sha256: a692464b8f47a49b7df1f4bd565a61923265604afecf6e587f63b52923e5eca7
+  last_checked: '2026-08-28'
+  notes: Non-Qualified Members
+- id: oar-645-040-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=645-040-0130
+  sha256: 0fb23ae744d19fbb2fc2fa70200dec94c9ca7370a2fa365ad9f5eb86758f430a
+  last_checked: '2026-08-28'
+  notes: Procedures for Payment of Per Diem Compensation
+- id: oar-645-040-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=645-040-0140
+  sha256: 219e99c2f4dce9b7023867cf3123f7814f3dd587563c41a79a10af93ffa3ae51
+  last_checked: '2026-08-28'
+  notes: Procedures for Expense Reimbursement
 - id: oar-646-030-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=646-030-0010
   sha256: e1c0022de3389315db1f8182b286f35ab993ee517ad9ccd3b214517c3b2c0b9f
@@ -23062,6 +23187,106 @@ sources:
 - id: oar-646-040-0140
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=646-040-0140
   sha256: 75e0bb7618cf3d5477acbd4aeb70f6ebe3e4e541a81b53eb447519a02141a452
+  last_checked: '2026-08-28'
+  notes: Procedures for Expense Reimbursement
+- id: oar-647-040-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=647-040-0100
+  sha256: b2d3122fe7075e39aa4ff61b586351696bd762c4ddbbacac4224ea5f69138e4e
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-647-040-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=647-040-0110
+  sha256: 3fafae0296ffd4eb2dc6d274aa62ba8d06403cc9202e91d2478e74cb2fc0c243
+  last_checked: '2026-08-28'
+  notes: Qualified Members
+- id: oar-647-040-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=647-040-0120
+  sha256: 8959ecfe33ed05efb6a1144d5bc61f9e217223a201fd754ea225acdf454fde9e
+  last_checked: '2026-08-28'
+  notes: Non-Qualified Members
+- id: oar-647-040-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=647-040-0130
+  sha256: e96b77681d8e4f78800a24867575e14661886d993b46ad60234a50ac0debe9e6
+  last_checked: '2026-08-28'
+  notes: Procedures for Payment of Per Diem Compensation
+- id: oar-647-040-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=647-040-0140
+  sha256: 5da7a0737156c565d9cd8cb97798b375a39900e30c0c08e3cdacaadd1b812b69
+  last_checked: '2026-08-28'
+  notes: Procedures for Expense Reimbursement
+- id: oar-656-040-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=656-040-0100
+  sha256: 769a621eba52e932bcf7d1401dbf6744f742ef414c4dd1df17c93d12369d06f3
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-656-040-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=656-040-0110
+  sha256: 7c0fa575286f7a1da4e1bb75c3ca03affea870860ff99951231282f87ff2d492
+  last_checked: '2026-08-28'
+  notes: Qualified Members
+- id: oar-656-040-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=656-040-0120
+  sha256: 4a6f74503042273f48329b5c13a9cd13f7400c54eecd1e04f3b89f2c2ac315bf
+  last_checked: '2026-08-28'
+  notes: Non-qualified Members
+- id: oar-656-040-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=656-040-0130
+  sha256: 4eb4efa5fa9213e96477bbb492af810d680dea1d8fa94a10b9b55db5bbd7b203
+  last_checked: '2026-08-28'
+  notes: Procedures for Payment of Per Diem Compensation
+- id: oar-656-040-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=656-040-0140
+  sha256: c849cd90bb2b975f8a22db38cc6cd246b3ff51495becca5ae74dea367540798a
+  last_checked: '2026-08-28'
+  notes: Procedures for Expense Reimbursement
+- id: oar-657-020-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=657-020-0100
+  sha256: 95c71cc26f28eec4c4d902108dd9f01f94c802b314c38fe427c894c9ed613bcc
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-657-020-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=657-020-0110
+  sha256: daaa324223ad4adfdfd59f0e1c29739252b512efa6c0b641595a0d98aa6a69fa
+  last_checked: '2026-08-28'
+  notes: Qualified Members
+- id: oar-657-020-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=657-020-0120
+  sha256: 261970aebf0650d49881486fed10ba4806a1db1cfd0049a362c8a411d5d18524
+  last_checked: '2026-08-28'
+  notes: Non-Qualified Members
+- id: oar-657-020-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=657-020-0130
+  sha256: 39d701a8a0ec74e61bf636d542be723ef58a56fb19109cfdf56ef2233bea0ec3
+  last_checked: '2026-08-28'
+  notes: Procedures for Payment of Per Diem Compensation
+- id: oar-657-020-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=657-020-0140
+  sha256: 7adaabd52be6bcba6a2ba896b9f7d5c7c83400cb3e4aaed5117812b545a83569
+  last_checked: '2026-08-28'
+  notes: Procedures for Expense Reimbursement
+- id: oar-658-040-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=658-040-0100
+  sha256: ef2216711ba266e4ba9cdeee8375c233270a2f02ba86315b4485f23023793b6d
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-658-040-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=658-040-0110
+  sha256: 4e8b4c9add6d582b78ecd7bb65a4b3c2a5e705060b6d6cedca71ff05d721a9cd
+  last_checked: '2026-08-28'
+  notes: Qualified Members
+- id: oar-658-040-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=658-040-0120
+  sha256: 19d8a153c61f4584ff11d9e4a600dab04955390e9ddd942c97b3782cbf14bac9
+  last_checked: '2026-08-28'
+  notes: Non-Qualified Members
+- id: oar-658-040-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=658-040-0130
+  sha256: 400e24c09f1c2cda34b80ffd216d81f627f3c13b396b9ff1ad3c5d4724a8f7c3
+  last_checked: '2026-08-28'
+  notes: Procedures for Payment of Per Diem Compensation
+- id: oar-658-040-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=658-040-0140
+  sha256: b463c8c77f6ce03045b698f8e38bed973b1b329f0cbe73ebc92c61d812f19a93
   last_checked: '2026-08-28'
   notes: Procedures for Expense Reimbursement
 - id: oar-660-004-0050
@@ -23625,6 +23850,31 @@ sources:
   sha256: 0a0200f459640a995e746cfee142fe7ea827f99f736146b84c3cda0236fe74b4
   last_checked: '2026-08-28'
   notes: Transfers
+- id: oar-664-020-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=664-020-0100
+  sha256: 3e4c0b0209a08ab5f59bf9efea9212db0d2c74d86efc1030e33e933ce73d1044
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-664-020-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=664-020-0110
+  sha256: 4bbcc69fcf59704ab5e10e3048d2defb24c108edbff3ed2d9b9fee55f2330404
+  last_checked: '2026-08-28'
+  notes: Qualified Members
+- id: oar-664-020-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=664-020-0120
+  sha256: 06f5fa7c3e46cf1cee8a0449ea25e6e556488a18bb4516120fdd3f7a10bf5276
+  last_checked: '2026-08-28'
+  notes: Non-Qualified Members
+- id: oar-664-020-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=664-020-0130
+  sha256: 661ff6f576346affc71483ec6d413ccbdc16df511b45dde432f5fd8290b3fb6d
+  last_checked: '2026-08-28'
+  notes: Procedures for Payment of Per Diem Compensation
+- id: oar-664-020-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=664-020-0140
+  sha256: e6b695dc5124d401ff07f8240c5e67ce700c54c8cec414fa8a7ebc83c02d896c
+  last_checked: '2026-08-28'
+  notes: Procedures for Expense Reimbursement
 - id: oar-669-020-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=669-020-0010
   sha256: 79187618388009db545c295bc36822f642b85f28b17ddb7e3b0d1de59b0aba1a
