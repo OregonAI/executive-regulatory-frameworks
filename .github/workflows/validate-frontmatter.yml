@@ -184,7 +184,12 @@ jobs:
       # now derived from the table, and this proves the gate can fail: a cadence on one side
       # only, an interval the schema prints that the table no longer means, and a group
       # declaring a cadence nobody declared — which used to be a bare KeyError out of
-      # report_due(), taking every other group's due-state down with it. Synthetic fixtures.
+      # report_due(), taking every other group's due-state down with it. Also proves #198:
+      # a cadence names an interval but not a phase, so a group registered mid-cycle used
+      # to stay mid-cycle forever; a phased group now lands on the cycle it exists to
+      # catch, a phase declared on a cadence nothing marks phase-capable is reported rather
+      # than silently applied, and a group declaring no phase is unchanged. Synthetic
+      # fixtures.
       - name: Cadence rules must all be able to fail
         run: python3 src/check_updates.py --selftest
       # The Oregon Bulletin reader applied nine rules — three refusals, three reported

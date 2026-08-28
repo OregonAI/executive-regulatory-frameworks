@@ -47,6 +47,11 @@
       "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
       "description": "Group-level; bumped by check_updates.py"
     },
+    "recheck_phase": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "description": "Optional (#198): the date THIS group's own cycle is known to land on — an edition date, an election, a printed review date. Declared, the group comes due on the next occurrence of `recheck_phase + N * recheck's interval` rather than `recheck`'s days after `last_checked`, so a group registered mid-cycle still lands on the cycle it exists to catch instead of staying mid-cycle forever. Only cadences `src/check_updates.py`'s CADENCES marks phase-capable admit one (`--check`'s `group-phase` rule); a group with no `recheck_phase` behaves exactly as it did before this field existed."
+    },
     "listing_snapshot": {
       "type": "string",
       "description": "sp-listing groups: path to the normalized listing snapshot JSON (carries the REST endpoint, view GUIDs, rows, and checker field config)"
