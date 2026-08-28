@@ -2110,6 +2110,11 @@ sources:
   sha256: 199eb10aa9c2f912cf0a198229969169c1249fd1ae0fdb761598e60b6ac12020
   last_checked: '2026-08-28'
   notes: Recipient Responsibilities
+- id: oar-123-039-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=123-039-0110
+  sha256: 5fed20ec7c23f7af9b14a987fd8f8a54bd4712eafd491c5e57bf59fb2f2532fc
+  last_checked: '2026-08-28'
+  notes: Waivers and Appeals
 - id: oar-123-041-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=123-041-0000
   sha256: 9669edf307b77b63d3dca1f3ad3da145ecba943fd9c0dd9561f77fda9d1b1a22
@@ -26955,6 +26960,11 @@ sources:
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=813-060-0045
   sha256: 2e39a36a5200fc69b90433eb1dcfcd46ea7390899fe88acf99427f63dd9b6cd1
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
+- id: oar-813-065-0102
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=813-065-0102
+  sha256: c0a4cc9556efbca07a787fe0aa44e34013b27920bded6491438d6d51992ea383
+  last_checked: '2026-08-28'
+  notes: Notification and Delivery of Notification
 - id: oar-813-065-0103
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=813-065-0103
   sha256: 5eca9b688bd95784ef431db8902dbc50aa10150700f6d644864018e9e7553290
@@ -32029,6 +32039,11 @@ sources:
   sha256: aad5282a9a766505f1f3ed0604d732e924b709f36fea4c1c99a3a7ec50832a67
   last_checked: '2026-08-28'
   notes: Eligibility Determination and Application Process
+- id: oar-952-001-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=952-001-0005
+  sha256: d3910c0035f340ad7a4f4e9544e6f1b201ffa3eb2da9556027fbf9b6aa6eb874
+  last_checked: '2026-08-28'
+  notes: Recruitment Partner Organizations for Board of Directors
 - id: oar-972-040-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=972-040-0100
   sha256: 32b14916b10091d69340d9e35cc94fb8e4785f7293f65def955eb1a99e5f102b

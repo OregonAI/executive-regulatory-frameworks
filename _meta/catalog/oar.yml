@@ -1920,7 +1920,7 @@ chapters:
       path: rules/123/030/oar-123-030-0050.md
   - division: '39'
     title: AQUIFER RECHARGE TESTING FORGIVABLE LOAN PROGRAM
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 123-039-0000
       status: ingested
@@ -1956,7 +1956,8 @@ chapters:
       status: ingested
       path: rules/123/039/oar-123-039-0100.md
     - number: 123-039-0110
-      status: not_ingested
+      status: ingested
+      path: rules/123/039/oar-123-039-0110.md
   - division: '41'
     title: AQUIFER RECHARGE DUE DILIGENCE GRANT PROGRAM
     status: ingested
@@ -120948,13 +120949,14 @@ chapters:
       path: rules/813/060/oar-813-060-0070.md
   - division: '65'
     title: MANUFACTURED DWELLING PARKS AND MARINAS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 813-065-0100
       status: ingested
       path: rules/813/065/oar-813-065-0100.md
     - number: 813-065-0102
-      status: not_ingested
+      status: ingested
+      path: rules/813/065/oar-813-065-0102.md
     - number: 813-065-0103
       status: ingested
       path: rules/813/065/oar-813-065-0103.md
@@ -145438,7 +145440,7 @@ chapters:
   divisions:
   - division: '1'
     title: Oregon Utility Notification Center
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 952-001-0001
       status: ingested
@@ -145447,7 +145449,8 @@ chapters:
       status: ingested
       path: rules/952/001/oar-952-001-0003.md
     - number: 952-001-0005
-      status: not_ingested
+      status: ingested
+      path: rules/952/001/oar-952-001-0005.md
     - number: 952-001-0010
       status: ingested
       path: rules/952/001/oar-952-001-0010.md
