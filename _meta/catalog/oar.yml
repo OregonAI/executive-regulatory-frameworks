@@ -134617,7 +134617,7 @@ chapters:
       path: rules/852/005/oar-852-005-0035.md
   - division: '10'
     title: GENERAL
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 852-010-0005
       status: ingested
@@ -134638,7 +134638,8 @@ chapters:
       status: ingested
       path: rules/852/010/oar-852-010-0024.md
     - number: 852-010-0026
-      status: not_ingested
+      status: ingested
+      path: rules/852/010/oar-852-010-0026.md
     - number: 852-010-0030
       status: ingested
       path: rules/852/010/oar-852-010-0030.md

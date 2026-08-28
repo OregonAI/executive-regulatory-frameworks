@@ -29544,6 +29544,11 @@ sources:
   sha256: abce9c595f784771bb0fa78fc1640587377e66d461501260aafbe3c475ecda56
   last_checked: '2026-08-28'
   notes: Disqualification Criteria
+- id: oar-852-010-0026
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=852-010-0026
+  sha256: c655abe025212b9fc7dc938cdbda4d605a5ce37be904758ebf01358d4a906bb5
+  last_checked: '2026-08-28'
+  notes: Public Health Emergency or State of Emergency temporary license
 - id: oar-855-006-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=855-006-0005
   sha256: 3295baf44e5e0802cac8ecf3a3aa2617bdedee9b91a811c0c4b91fe0cbaef8ee
