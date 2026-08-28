@@ -346,17 +346,55 @@ def cadence_census(groups=None):
     return ", ".join(f"{n}={c}" for n, c in counts.items())
 
 
+def check_schema(groups=None, schema=None):
+    """(failures, checked) — every group in `groups` (default: every file in
+    `_meta/sources/`) validated against `_meta/schema/source-group.schema.json` (#199).
+
+    `_meta/corpus.yml`'s `extra_schema_checks` already runs this same schema over the same
+    glob in CI (`corpus-validate-frontmatter`'s `_check_corpus_config`, unconditional even
+    on `--changed` runs with nothing changed) — so this is not the first thing to validate
+    these 19 files, and every one already passes it. What it adds: a fast, local, printed-
+    count companion in the shape this repo already gives every other domain rule
+    (`--check`/`--selftest` beside a corpus-toolkit config check), and a single
+    implementation `seed_oar_watch.py` now calls instead of running its own copy.
+    Returning the count alongside the failures, rather than failures alone, is deliberate:
+    a run that validated zero groups because `jsonschema` was not importable must be able
+    to say so — printed as `0 of 19`, not silently indistinguishable from `19 of 19`
+    groups that happened to pass."""
+    schema = json.loads(SCHEMA.read_text()) if schema is None else schema
+    groups = list(source_groups() if groups is None else groups)
+    try:
+        import jsonschema
+    except ImportError:
+        return [], 0
+    failures = []
+    for gpath, g in groups:
+        try:
+            jsonschema.validate(g, schema)
+        except jsonschema.exceptions.ValidationError as e:
+            failures.append(Failure("group-schema", g.get("group", gpath.name), e.message))
+    return failures, len(groups)
+
+
 def cmd_check() -> int:
-    """Report every cadence violation in the committed declaration, schema and groups."""
+    """Report every cadence violation in the committed declaration, schema and groups,
+    plus every group in `_meta/sources/` that does not validate against
+    `source-group.schema.json` (#199)."""
     failures = check_cadences()
+    schema_failures, schema_checked = check_schema()
+    failures = failures + schema_failures
     for f in failures:
         print(f"  FAIL [{f.rule}] {f.row}: {f.detail}", file=sys.stderr)
     if failures:
-        print(f"\n{len(failures)} cadence violation(s)", file=sys.stderr)
+        print(f"\n{len(failures)} contract violation(s)", file=sys.stderr)
         return 1
     print(f"{len(CADENCES)} cadence(s) declared, each admitted by "
           f"{SCHEMA.name} with the interval it means")
     print(f"groups per cadence: {cadence_census()}")
+    total_groups = len(list(source_groups()))
+    print(f"{schema_checked} of {total_groups} source group(s) validated against "
+          f"{SCHEMA.name}" +
+          ("" if schema_checked == total_groups else " (jsonschema not installed)"))
     return 0
 
 
@@ -425,6 +463,22 @@ def _proof_a_group_declaring_an_undeclared_cadence_is_reported():
     from inside report_due(), which names the dict and not the group."""
     return "group-cadence", check_cadences(schema=_schema_fixture(),
                                           groups=[_group_fixture(recheck="ballot_measure")])
+
+
+def _proof_a_group_violating_its_schema_is_reported():
+    """`_meta/schema/source-group.schema.json` describes every group's shape --
+    `additionalProperties: false` at the group and source level, three required top-level
+    keys. `check_schema`'s own docstring is where the finding that this schema was
+    already enforced corpus-wide lives (#199) -- this proof is only about the LOCAL copy
+    of that rule added here, watched failing on two independent violations (an extra key,
+    a missing required one) so it is shown catching more than one shape of mistake."""
+    _, extra = _group_fixture()
+    extra = {**extra, "not_a_declared_key": True}
+    _, missing = _group_fixture()
+    del missing["sources"]
+    failures, _ = check_schema(groups=[(SOURCES_DIR / "extra.yml", extra),
+                                        (SOURCES_DIR / "missing.yml", missing)])
+    return "group-schema", failures
 
 
 def _proof_due_reports_an_undeclared_cadence_rather_than_raising():
@@ -606,6 +660,8 @@ _PROOFS = [
      _proof_a_node_the_declaration_would_rewrite_is_reported),
     ("a source group declaring a cadence nobody declared",
      _proof_a_group_declaring_an_undeclared_cadence_is_reported),
+    ("a source group violating its schema (an extra key, a missing required one)",
+     _proof_a_group_violating_its_schema_is_reported),
 ]
 
 
