@@ -11,6 +11,24 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-08-27 — **`CONTEXT.md` and the registry's own comments said all 189 rows carry no
+  `enabling_authority`** (#219). The claim was written when the field landed empty (#170,
+  2026-08-21) and never re-measured since: on this branch 113 of 189 rows carry a reviewed
+  authority, not the 0 six docstrings implied nor the 107 the ticket itself quoted — both
+  stale snapshots of a count that moves every time a review lands (measured via
+  `python3 src/catalog_agencies.py --check`). `catalog_agencies.py` already computes this
+  figure live, in `authority_census()`, and prints it on every `--check` run; rather than
+  pin a second, hand-maintained copy of it in CONTEXT.md's "Enabling authority" entry and
+  five comments across `catalog_agencies.py` (the `FIELDS` declaration among them, which
+  the ticket names directly), every one of those is reworded to state the three-state
+  reasoning — an absent key never means a body has no enabling authority — without a
+  number, pointing at `authority_census()` as the one live source instead. No new
+  `check_registry()` rule: nothing in this tree parses CONTEXT.md or a Python comment the
+  way `note-covers-fields` (#185) parses the registry's own committed YAML, so there is no
+  seam for a gate to watch prose through, and building one to watch a single sentence would
+  be new, disproportionate machinery for a fact `--check` already reports on every run.
+  `--selftest` is unchanged (74 demonstrations) — no rule was added or changed, only the
+  prose describing existing ones.
 - 2026-08-27 — **The agency registry's own `note` was stale, and nothing checked it** (#185).
   The top-level prose above `organizations` in `agencies.yml` — this file's self-description,
   read by three sibling corpora — drifted from 669 characters naming 4 of the then-14 row

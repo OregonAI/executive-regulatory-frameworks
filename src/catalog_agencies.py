@@ -116,9 +116,12 @@ PER_ROW = "per-row"
 #
 # WHICH OF THE TWO THINGS THIS ROW'S `name` IS, WRITTEN ON THE ROW. ADR 0003 makes `name` the
 # STATUTORY name — the name a body's enabling authority gives it — and #168 lands that
-# meaning. What it does NOT do is invent one: 107 of 189 rows carry a reviewed enabling
-# authority and the rest carry none, so most rows still hold the OAR chapter title they were
-# scraped with.
+# meaning. What it does NOT do is invent one: whether a row carries a reviewed enabling
+# authority is a separate fact from whether its `name` has been promoted from one —
+# `authority_census()` prints the live split of the first on every `--check` run, and
+# promotion still needs a second, hand-driven step (link_enabling_authority.py's
+# STATUTORY_NAMES) that most rows have not had yet, so most still hold the OAR chapter
+# title they were scraped with.
 #
 # THAT IS THE WHOLE POINT OF THIS FIELD. A row that quietly keeps its OAR title while the
 # field's documented meaning becomes "statutory name" is a false statement about Oregon law
@@ -283,10 +286,11 @@ FIELDS = {
     # MAPPED/UNMAPPED tables in that file — the same shape `das_agency_number` has, for the
     # same reason (#175): two writers of one field is drift nothing reports.
     #
-    # NOT required because an absent key is the honest default. All 189 rows are absent
-    # today, and that says nobody has looked yet — which is a different claim from a body
-    # that was looked at and has no separate enabling authority, and neither may be written
-    # as a blank.
+    # NOT required because an absent key is the honest default: an absent key says nobody
+    # has looked yet, however many rows that is today — `authority_census()` prints the
+    # live count on every `--check` run rather than a figure fixed here — which is a
+    # different claim from a body that was looked at and has no separate enabling
+    # authority, and neither may be written as a blank.
     "enabling_authority": Field(CURATED, required=False),
 }
 
@@ -475,8 +479,9 @@ RELATION_KINDS = (UNDETERMINED, PART_OF, ADMINISTERED_BY)
 # assignment).
 #
 # THE TWO BASES ARE NOT THE SAME STRENGTH, and keeping them apart is the whole of #173. ADR
-# 0004 derives the kind from ADMITTING EVIDENCE, and the registry does not hold any yet: all
-# 189 `enabling_authority` keys are absent. What it holds is 126 PROPOSED candidates in
+# 0004 derives the kind from ADMITTING EVIDENCE, and how much of it the registry holds moves
+# as reviews land — a live split `catalog_agencies.py --check` prints every run rather than
+# a count fixed here. What is not yet reviewed sits as a PROPOSED candidate in
 # _meta/catalog/enabling-authority-review.yml, and link_enabling_authority.py is explicit
 # that "a row that was pattern-matched and not read belongs in the review sheet, not here".
 # So a kind derived from a proposal is a weaker claim than one derived from a reviewed
@@ -843,7 +848,9 @@ AUTHORITY_FORMS = (
 # than as a null, because a null and an absent key are read alike by every consumer, and the
 # claims are opposite:
 #
-#   key absent                       nobody has looked yet         (all 189 rows today)
+#   key absent                       nobody has looked yet         (a live count —
+#                                                                    authority_census(),
+#                                                                    printed by --check)
 #   `ORS 576.062` / `Or. Const. …`   an authority is recorded
 #   `none: <reason>`                 someone looked, and this is what they found
 #
@@ -2079,7 +2086,7 @@ def check_registry(cat, fields=None, refresh_note=None) -> list:
                 "has one number, and nothing in the row says which of these is the "
                 "hand-reviewed one"))
     # THE ENABLING AUTHORITY'S THREE STATES, KEPT APART. A row carrying no key at all is
-    # saying nobody has looked yet, which is the state all 189 rows are in and the only one
+    # saying nobody has looked yet — however many rows that is today, which is the one state
     # this rule passes over in silence. Every row that DOES carry the key has been reviewed
     # by a human, so the value has to be something a reader can act on: an authority in one
     # of the accepted forms, or a stated reason there is none. What this rule refuses is the
