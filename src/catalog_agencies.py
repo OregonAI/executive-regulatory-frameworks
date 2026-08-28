@@ -301,6 +301,28 @@ FIELDS = {
 # directly, rather than only checking that every FIELDS name appears somewhere in the
 # committed prose (`note-covers-fields`), which says nothing about whether the two texts
 # actually agree.
+# THE TWO SCRIPTS THAT STATE, IN PROSE, HOW MANY CHAPTER PAGES A --refresh FETCHES (#279).
+# `expand_oar_name.py` and `record_name_basis.py` each explain why they are a one-shot
+# script and not a --refresh by naming the network cost of the alternative — a number that
+# went stale in both of them at once (189, the registry's ROW count, when only 170 of those
+# rows carry an `oar_chapter` and are ever fetched) because nothing compared the claim
+# against the data it describes. Extracted here, not typed into check_registry(), so
+# --selftest can inject synthetic text instead of reading these two files off disk (the
+# same reason `refresh_note` is a parameter and not a read of REGISTRY_NOTE inline).
+CHAPTER_PAGE_DOC_FILES = (
+    REPO_ROOT / "src/expand_oar_name.py",
+    REPO_ROOT / "src/record_name_basis.py",
+)
+# THE PHRASE THE CHECK LOOKS FOR. Both files were written to share it on purpose (#279's
+# fix), so one pattern catches both; a future rewording that drops this exact shape is
+# refused by `chapter-page-count-current` below rather than silently going unchecked.
+CHAPTER_PAGE_COUNT_RE = re.compile(r"re-fetches (?:all )?([\d,]+) chapter pages")
+
+
+def _default_chapter_page_docs():
+    return {str(p): p.read_text() for p in CHAPTER_PAGE_DOC_FILES}
+
+
 REGISTRY_NOTE = (
     "Canonical registry of Oregon agencies and their sub-units, keyed on "
     "the OAR chapter assignment scheme as presented by oregon.public.law/"
@@ -949,6 +971,22 @@ def tally(counts, allowed) -> str:
     """
     named = list(allowed) + sorted((k for k in counts if k not in allowed), key=str)
     return ", ".join(f"{counts.get(k, 0)} {k}" for k in named)
+
+
+def chapter_census(orgs) -> str:
+    """How many of the registry's rows carry `oar_chapter` — the chapter pages a full
+    --refresh fetches over the network — counted over rows and printed by --check on every
+    run, the same reason `authority_census` is (#279).
+
+    THE FIGURE #279 FOUND STATED IN FOUR PLACES, TWO OF THEM WRONG THE SAME WAY. 189 is
+    `len(orgs)`, the registry's total row count; a body is in this registry because it
+    EXISTS, not because it issues rules (CONTEXT.md: Agency registry), so a row can hold no
+    `oar_chapter` and never be fetched. Two scripts explaining --refresh's network cost had
+    both drifted to quoting 189 for a quantity that is actually smaller. This is that
+    quantity, computed from the file on every run rather than pinned into either script's
+    prose to go stale the next time a row is added or a chapter goes chapterless."""
+    chaptered = sum(1 for o in orgs if isinstance(o, dict) and o.get("oar_chapter"))
+    return f"{chaptered} of {len(orgs)} row(s) carry oar_chapter ({len(orgs) - chaptered} chapterless)"
 
 
 def name_census(orgs) -> str:
@@ -1951,7 +1989,7 @@ def _row_id(o, i):
     return slug if isinstance(slug, str) and slug else f"organizations[{i}]"
 
 
-def check_registry(cat, fields=None, refresh_note=None) -> list:
+def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) -> list:
     """Every way the registry violates its contract, as Failures.
 
     `fields` is the declaration to check against, defaulting to the one this module ships.
@@ -1963,9 +2001,16 @@ def check_registry(cat, fields=None, refresh_note=None) -> list:
     `cmd_refresh()` writes — for the same reason: --selftest's fixture carries its own
     synthetic note (built to name every FIELDS key without being the real prose), and a
     real registry's `note` is checked against the real `REGISTRY_NOTE`, not the fixture's
-    stand-in."""
+    stand-in.
+
+    `chapter_page_docs` is the same shape of parameter a third time, for the same reason
+    (#279): defaulting to the real text of `CHAPTER_PAGE_DOC_FILES`, so --selftest can
+    hand this a synthetic `{name: text}` mapping sized to the fixture instead of reading
+    two real files off disk against a fixture that was never meant to match them."""
     fields = FIELDS if fields is None else fields
     refresh_note = REGISTRY_NOTE if refresh_note is None else refresh_note
+    chapter_page_docs = (_default_chapter_page_docs() if chapter_page_docs is None
+                         else chapter_page_docs)
     # ORDERED, not a frozenset: passed straight through to simulate_refresh() -> the same
     # preserve_curated() a real --refresh calls, so the simulation stays faithful to it —
     # including the order it now writes curated keys in (#182), not just which keys survive.
@@ -2036,6 +2081,33 @@ def check_registry(cat, fields=None, refresh_note=None) -> list:
             "string `cmd_refresh()` writes back — the two are meant to be kept "
             "byte-identical (#185) and nothing but this rule notices when they stop "
             "being so"))
+
+    # HOW MANY CHAPTER PAGES A --refresh FETCHES, AGAINST WHAT TWO OTHER SCRIPTS SAY IT
+    # DOES (#279). `expand_oar_name.py` and `record_name_basis.py` both explain, in prose,
+    # why they are a one-shot script rather than a --refresh by naming that refresh's
+    # network cost — and the number drifted to 189 (this registry's ROW count) in both of
+    # them at once while only rows carrying `oar_chapter` are ever fetched. Measured here
+    # from the FILE rather than trusted from either script, the same reason
+    # `authority_census` reads the rows and not the table that writes them: on any failure
+    # path the two disagree, and a check that read the docstring's own idea of the number
+    # would report the claim as evidence for itself.
+    chaptered = sum(1 for o in orgs if isinstance(o, dict) and o.get("oar_chapter"))
+    for doc_name, doc_text in chapter_page_docs.items():
+        m = CHAPTER_PAGE_COUNT_RE.search(doc_text or "")
+        if not m:
+            failures.append(Failure(
+                "chapter-page-count-current", doc_name,
+                "does not state, in the phrase this check looks for ('re-fetches ... N "
+                "chapter pages'), how many chapter pages a --refresh fetches — reword "
+                "within that shape or update CHAPTER_PAGE_COUNT_RE in the same change"))
+            continue
+        stated = int(m.group(1).replace(",", ""))
+        if stated != chaptered:
+            failures.append(Failure(
+                "chapter-page-count-current", doc_name,
+                f"states a --refresh re-fetches {stated} chapter pages; the committed "
+                f"registry has {chaptered} row(s) carrying `oar_chapter` (of {len(orgs)} "
+                "total rows) — that is what a --refresh actually fetches"))
 
     for i, o in enumerate(orgs):
         if not isinstance(o, dict):
@@ -2566,6 +2638,9 @@ def cmd_check() -> int:
           f"{curated} curated value(s) and "
           f"{sum(1 for o in orgs if isinstance(o, dict) and o.get('manual'))} manual row(s) "
           "survive a simulated --refresh")
+    # HOW MANY CHAPTER PAGES A --refresh FETCHES (#279), printed rather than left for two
+    # other scripts' docstrings to state from memory.
+    print(f"chapter pages: {chapter_census(orgs)}")
     # THE ENABLING AUTHORITY'S CENSUS, PRINTED RATHER THAN LEFT TO BE COUNTED.
     print(f"enabling authority: {authority_census(orgs)}")
     # WHAT EACH ROW'S `name` IS (#168), on the same terms: `name` is the statutory name now,
@@ -2654,6 +2729,18 @@ def _fixture():
     # this fixture is a synthetic stand-in and was never meant to be the real prose.
     return {"note": "fixture note naming every field: " + ", ".join(sorted(FIELDS)),
             "organizations": [das, cfo, gov]}
+
+
+# THE FIXTURE'S OWN CHAPTER-PAGE COUNT, for `chapter-page-count-current` the same way
+# `baseline_note` is for `note-agrees-with-refresh` (#279): the fixture holds 2 chaptered
+# rows (`das`, `cfo`) and 1 chapterless one (`gov`), never 170 — a --selftest run that
+# checked this fixture against the REAL two scripts' real prose would fail regardless of
+# whether either script says the truth, which is not a demonstration of anything. No
+# `_CASES` mutation changes which rows carry `oar_chapter`, so this stays "2" for all of
+# them.
+_FIXTURE_CHAPTER_PAGE_DOCS = {
+    "fixture.py": "a refresh re-fetches all 2 chapter pages from the mirror.",
+}
 
 
 def _case_undeclared_field(cat):
@@ -3650,6 +3737,45 @@ def _proof_the_relation_census_counts_every_kind() -> int:
     return 0
 
 
+def _proof_chapter_page_count_check_fires_on_a_stale_docstring() -> int:
+    """#279's own bug: `expand_oar_name.py` and `record_name_basis.py` each state how many
+    chapter pages a --refresh fetches, and both had drifted to 189 (the registry's ROW
+    count) while the true figure — rows carrying `oar_chapter` — was 170. Demonstrated
+    against the FIXTURE (2 of its 3 rows carry oar_chapter, `das` and `cfo`; `gov` does
+    not) with synthetic doc text, not the real files, so this proves the RULE fires rather
+    than that today's committed text happens to pass it.
+
+    Three demonstrations: the rule stays quiet on text stating the true count, fires on
+    text stating a stale one, and fires on text that dropped the phrase it looks for
+    entirely — a rewording that stopped saying anything checkable is exactly as wrong as a
+    rewording that started saying something false."""
+    bad = 0
+    cat = _fixture()
+    rule = "chapter-page-count-current"
+
+    fresh = {"a.py": "a refresh re-fetches all 2 chapter pages from the mirror."}
+    failures = check_registry(cat, refresh_note=cat["note"], chapter_page_docs=fresh)
+    if any(f.rule == rule for f in failures):
+        print(f"FAIL {rule}-quiet-on-true-count: fired against text stating 2, the "
+              "fixture's actual count", file=sys.stderr)
+        bad += 1
+
+    stale = {"a.py": "a refresh re-fetches all 3 chapter pages from the mirror."}
+    failures = check_registry(cat, refresh_note=cat["note"], chapter_page_docs=stale)
+    if not any(f.rule == rule for f in failures):
+        print(f"FAIL {rule}-fires-on-stale-count: did not fire against 3, when the "
+              "fixture's actual count is 2", file=sys.stderr)
+        bad += 1
+
+    missing = {"a.py": "this docstring never says how many pages get fetched."}
+    failures = check_registry(cat, refresh_note=cat["note"], chapter_page_docs=missing)
+    if not any(f.rule == rule for f in failures):
+        print(f"FAIL {rule}-fires-on-missing-phrase: did not fire when the checked "
+              "phrase was absent entirely", file=sys.stderr)
+        bad += 1
+    return bad
+
+
 def _proof_refresh_rejects_an_undeclared_scraped_field() -> int:
     """--refresh's own half of the declaration, which --check cannot reach: it reads
     committed data and never runs a scrape, so a field the SCRAPE started writing without
@@ -3902,6 +4028,7 @@ def selftest() -> int:
     bad += _proof_curated_keys_survive_in_declaration_order()
     bad += _proof_the_walk_says_what_it_cannot_answer()
     bad += _proof_the_relation_census_counts_every_kind()
+    bad += _proof_chapter_page_count_check_fires_on_a_stale_docstring()
     bad += _proof_the_merge_is_what_carries_a_curated_relation()
     bad += _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry()
     bad += _proof_the_carry_is_what_keeps_an_established_statutory_name()
@@ -3920,15 +4047,17 @@ def selftest() -> int:
         # `cat["note"]` still trips it, same as production; a case that leaves `note`
         # alone does not.
         baseline_note = cat["note"]
-        assert not check_registry(cat, refresh_note=baseline_note), \
+        assert not check_registry(cat, refresh_note=baseline_note,
+                                  chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS), \
             f"fixture does not pass cleanly ({name})"
         mutate(cat)
-        failures = check_registry(cat, refresh_note=baseline_note)
+        failures = check_registry(cat, refresh_note=baseline_note,
+                                  chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS)
         if not any(f.rule == rule for f in failures):
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
-    print(f"{len(_CASES) + len(_PROOFS) + 7} violation(s) demonstrated failing, "
+    print(f"{len(_CASES) + len(_PROOFS) + 8} violation(s) demonstrated failing, "
           f"{resolutions} name resolution(s) proven"
           if not bad else f"{bad} rule(s) did not fire")
     return 1 if bad else 0
