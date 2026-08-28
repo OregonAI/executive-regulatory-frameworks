@@ -4302,6 +4302,131 @@ sources:
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=165-002-0010
   sha256: fc0f11325ceace38e5d0b829d5522c6559dcaae6fc521dbefc26c7aa2be9fa10
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
+- id: oar-166-150-0001
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-150-0001
+  sha256: fdfbf09cac8f9a2fdacc287f4cc4518ff11b212388aa25b2265a8cc6c26af6b9
+  last_checked: '2026-08-28'
+  notes: Definitions and Applicability
+- id: oar-166-150-0166
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-150-0166
+  sha256: 31be16ae0fc1ca99e151f6044bf793ba8d21c3ba9ced2dbce636205d1b4e5e28
+  last_checked: '2026-08-28'
+  notes: Property and Facilities Management Records
+- id: oar-166-150-0167
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-150-0167
+  sha256: 442dcd01ae9fc5f833ddbf46c7443af6efe465a16537863b4e547b7d736b686c
+  last_checked: '2026-08-28'
+  notes: Public Safety Records
+- id: oar-166-200-0410
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0410
+  sha256: 184d354b45fea816419a0793d3c040ddf2286adad5003597a6048a7ba1ae252b
+  last_checked: '2026-08-28'
+  notes: Definitions and Applicability
+- id: oar-166-200-0415
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0415
+  sha256: 08ad892a19020633ee05d0b9c90cad655f2cb291f5c71901c6af5edac5945e4f
+  last_checked: '2026-08-28'
+  notes: Administrative Records
+- id: oar-166-200-0420
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0420
+  sha256: fd89edb57823ca3f0b6bb61356adcaab3c37a6a9ab705d6f6c77609dce1cfca6
+  last_checked: '2026-08-28'
+  notes: Airport Records
+- id: oar-166-200-0425
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0425
+  sha256: 7e9d1357d44c01b743eaaf7dcb4077ef332d2eee187bf9acb40393c51cb8b2ee
+  last_checked: '2026-08-28'
+  notes: Building Records
+- id: oar-166-200-0430
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0430
+  sha256: 94315af5dd1253c6e7bbd19ba611ee0f3dab055e2a7766bb4195ea6bc513b05c
+  last_checked: '2026-08-28'
+  notes: City Recorder/City Clerk - Elections Records
+- id: oar-166-200-0435
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0435
+  sha256: 2670d12cafbc0c119db1b48a03c763f4ea6af8493e81e6b4fc0e15d48c925603
+  last_checked: '2026-08-28'
+  notes: City Recorder/City Clerk - General Records
+- id: oar-166-200-0440
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0440
+  sha256: ba20a1cb09808443ebbd0ed2f9987548395f73421a53352d1ffb38e0743afb3e
+  last_checked: '2026-08-28'
+  notes: Financial Records
+- id: oar-166-200-0445
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0445
+  sha256: b0ff5f32b0c97405fbfe674e237787a2eaa8b6d38c2b6fb49aff22f1ce45115d
+  last_checked: '2026-08-28'
+  notes: Information Systems Records
+- id: oar-166-200-0450
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0450
+  sha256: e3248699bd413201e2cbad41c14c5874c663e86db1ea47a3d4c24596bf9c9872
+  last_checked: '2026-08-28'
+  notes: Legal Records
+- id: oar-166-200-0455
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0455
+  sha256: a408c7b170161522e728c3534c69e4cea19aaca489f3673ecd94954ca14730c4
+  last_checked: '2026-08-28'
+  notes: Library Records
+- id: oar-166-200-0460
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0460
+  sha256: 795a7b4b8506dc963a096f7b77afda9975b0718eed8dd1250d46cb53dde951c0
+  last_checked: '2026-08-28'
+  notes: Mayor/Council Records
+- id: oar-166-200-0465
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0465
+  sha256: 1553a9acbce3b1d40f86b243b5fdfd526e54c86e68663cde0a11fbd8f40c070a
+  last_checked: '2026-08-28'
+  notes: Municipal Court Records
+- id: oar-166-200-0470
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0470
+  sha256: a75027cab89f1d987a82f1c3916a2c68607e16f1b1f0cff30233e7a4d4b70450
+  last_checked: '2026-08-28'
+  notes: Payroll Records
+- id: oar-166-200-0475
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0475
+  sha256: 83aa18d7e8b53e31185b257624df81ba458faee80861e7c7a63967a905f46458
+  last_checked: '2026-08-28'
+  notes: Personnel Records
+- id: oar-166-200-0480
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0480
+  sha256: adf311c4fe6d9b2eacf91558fa04f097b7c2559f34ac9758d786ea27305c9d91
+  last_checked: '2026-08-28'
+  notes: Planning Records
+- id: oar-166-200-0485
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0485
+  sha256: 4e51276dab80d7170982a69d86d1ee0fa181b614eaae4cdd75aa81963e31c4d6
+  last_checked: '2026-08-28'
+  notes: Property and Facilities Management Records
+- id: oar-166-200-0490
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0490
+  sha256: 8e2d779e417f4727584af2a7f391ac6b3588202009b9abe77a9a8f4953c691a3
+  last_checked: '2026-08-28'
+  notes: Public Safety Records
+- id: oar-166-200-0495
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0495
+  sha256: 243897aeaba1142af3fbe4f7df000154a22524893e0fc0334d5ff85216e85abc
+  last_checked: '2026-08-28'
+  notes: Public Works - General Records
+- id: oar-166-200-0500
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0500
+  sha256: aa126c69debaa89f9cf0f15faebd06e79517640fe19e908bc5480609d4114b72
+  last_checked: '2026-08-28'
+  notes: Public Works - Traffic Engineering and Maintenance Records
+- id: oar-166-200-0505
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-200-0505
+  sha256: 2c32b8adb70dc522ee045a9eee5fde41d771f03da518fc89e373d3a0c1f21059
+  last_checked: '2026-08-28'
+  notes: Risk Management Records
+- id: oar-166-300-0017
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-300-0017
+  sha256: 54cf7c5bda08ccbab9dac61308f022d66a000f7ba72f6d793765e9248739f2f2
+  last_checked: '2026-08-28'
+  notes: Board and Commission Records
+- id: oar-166-500-0080
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=166-500-0080
+  sha256: 214bd7b23d48049888e710eeeef53f42d320c61d5c30442a396058b478f6a0bb
+  last_checked: '2026-08-28'
+  notes: Rules Coordinator and Delegation of Rulemaking Authority Form
 - id: oar-170-001-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=170-001-0005
   sha256: 8938993d80179083d08eae56efc14010249c8d0013bbb1cb17eaec81f0966286
@@ -4567,6 +4692,161 @@ sources:
   sha256: f14f82bd07915e16979cdd1516cffe486c84baed578efd7e716885375cf684c2
   last_checked: '2026-08-28'
   notes: Notices and Reporting
+- id: oar-177-040-0053
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-040-0053
+  sha256: 1f4915b49bde59f10fc72e09d676fc79c61f92c6491d27ec879d065d7a31bfbc
+  last_checked: '2026-08-28'
+  notes: Courier Services
+- id: oar-177-084-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-084-0000
+  sha256: 5a6c62a0f4f53d9e264a9a4fcd9209eb26a2533aa097cca51591a09f25f0470a
+  last_checked: '2026-08-28'
+  notes: Purpose
+- id: oar-177-084-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-084-0005
+  sha256: 7570e21b1bba1f2444deb2acf273ab7baf5439e1f3e3e0cc6ffb566510f9e603
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-177-084-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-084-0010
+  sha256: dc84edfbced6251e8965ae019ca72f596192adb4f1f57a9f2ac1043f02db7466
+  last_checked: '2026-08-28'
+  notes: Game Description
+- id: oar-177-084-0015
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-084-0015
+  sha256: dcc4788e19262539438db2617855a08f0e5e02d7ce24e635d5026f921ece3f16
+  last_checked: '2026-08-28'
+  notes: Price
+- id: oar-177-084-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-084-0020
+  sha256: 5bc7eefb39e561f29b2b92a44e515030ab83f51ab3dc9d2bb5dfde3f58d20978
+  last_checked: '2026-08-28'
+  notes: Ticket Purchase, Characteristics, and Restrictions
+- id: oar-177-084-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-084-0025
+  sha256: 21ca18089a792f5d230d8b278df47c092694baa0700f381e5f1ced23068f56ea
+  last_checked: '2026-08-28'
+  notes: Cash Pop Drawings
+- id: oar-177-084-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-084-0030
+  sha256: af559f7574a323a755b2b4086742068893894b5dac8502f762ca438a1ff394c4
+  last_checked: '2026-08-28'
+  notes: Prize Claim and Ticket Validation Requirements
+- id: oar-177-084-0035
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-084-0035
+  sha256: 953249418fd4b38309ec3d328b74d96448a518073f0bc1f460a8f6ebafc23e45
+  last_checked: '2026-08-28'
+  notes: Prizes
+- id: oar-177-093-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-093-0000
+  sha256: 5ffad739cce6e71f27862a27eef70f9c872fd7dcf9bc3368caa3b19fc986ff60
+  last_checked: '2026-08-28'
+  notes: Purpose
+- id: oar-177-093-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-093-0005
+  sha256: a69bdf02d521159ea32d881b4c3583f12d80cd5bb50c3312db27ad5f013e8bf4
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-177-093-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-093-0010
+  sha256: 3dc978325d5c16b184f69b74a0de6bea7ddcd851c9b46c8d96c68792c378a33c
+  last_checked: '2026-08-28'
+  notes: General Game Description
+- id: oar-177-093-0015
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-093-0015
+  sha256: b0446c38d6635ddc64573a50bb4314b09e7c8954bcff1d63d194c4383113188e
+  last_checked: '2026-08-28'
+  notes: Eligibility
+- id: oar-177-093-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-093-0020
+  sha256: 30f4dfd56044619b82aeb1609ddca17748d40f60bad09a12f893c25f6cdce82d
+  last_checked: '2026-08-28'
+  notes: Purchasing a Share and Placing a Bet
+- id: oar-177-093-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-093-0025
+  sha256: 68393065a4c8919e0a69b4bc00fd90aea2de44e4356e0edbae38e76363797c9d
+  last_checked: '2026-08-28'
+  notes: Price
+- id: oar-177-093-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-093-0030
+  sha256: 5dab3eef38fbd60e1133173714f94c6400d2fa141212cf85363fac401ea94148
+  last_checked: '2026-08-28'
+  notes: Method for Validating Bets and Determining Winners
+- id: oar-177-093-0035
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-093-0035
+  sha256: e4fe5ef39dcf7c3106092d0fab76943949017d2440bd2430cbba04e412113a73
+  last_checked: '2026-08-28'
+  notes: Pools
+- id: oar-177-093-0040
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-093-0040
+  sha256: 10f5bbee1e9a2bbcac26eee41e0dfd5551e3a78656738e0f4c25d9ca05587091
+  last_checked: '2026-08-28'
+  notes: Prizes
+- id: oar-177-093-0045
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-093-0045
+  sha256: b3eb5d72495011e38cac12b085581c28a3d044545d54a7ff4dcbbf04e7ce7de4
+  last_checked: '2026-08-28'
+  notes: Voided Bets, Refunds, and Resettlements
+- id: oar-177-093-0050
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-093-0050
+  sha256: 3b43320a2d957ba6395a7965aab63f2432ecc5a14e0f5dcd45699709fa4982ea
+  last_checked: '2026-08-28'
+  notes: Prohibited Conduct
+- id: oar-177-093-0055
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-093-0055
+  sha256: 1eb71f459f752c8c363d4aeb54358d2e8f18fa42b80d0bb78694a819c85fe783
+  last_checked: '2026-08-28'
+  notes: Disputes and Decisions of the Director
+- id: oar-177-094-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-094-0000
+  sha256: d3bca920e23ead1c551310a24f52a9145e38e5bf6981589cf5273e7a7e4dcd1d
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-177-094-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-094-0010
+  sha256: cd4d4c64211fe84f5c6a52ea24a79952a942b2fdc232f694c18c3d9f20b1624d
+  last_checked: '2026-08-28'
+  notes: Game Description
+- id: oar-177-094-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-094-0020
+  sha256: e9445c7f222e7d6bb4a0920320cdb4719d13d882c4658f2adfd6bb8aaac252a9
+  last_checked: '2026-08-28'
+  notes: Price
+- id: oar-177-094-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-094-0030
+  sha256: 9ffbcfdcc23e2992efaa8d7b464d14368b1383701047760e8f78b04ef6ac2e1b
+  last_checked: '2026-08-28'
+  notes: Ticket Purchase, Characteristics, and Restrictions
+- id: oar-177-094-0040
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-094-0040
+  sha256: 61fcbd3a46a3b299815f0715d13639e3af2627ffbc663f2f6367ab82a950bc10
+  last_checked: '2026-08-28'
+  notes: Cancellation of Tickets
+- id: oar-177-094-0050
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-094-0050
+  sha256: fa5d0098879737259cb812c990a3188323fba471bce38b8787074e54d812c947
+  last_checked: '2026-08-28'
+  notes: Drawings
+- id: oar-177-094-0060
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-094-0060
+  sha256: 840f96f91c9fcd5d090f852902be098cd396e92e38731c0613271b6a2a631ef7
+  last_checked: '2026-08-28'
+  notes: Ticket Validation Requirements
+- id: oar-177-094-0080
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-094-0080
+  sha256: 2ba80f504dc5b4bfdb63c8cb262ae1d9f0883fe240e21adcf244e685d9c56619
+  last_checked: '2026-08-28'
+  notes: Prizes
+- id: oar-177-094-0085
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-094-0085
+  sha256: cef9cd213e35961da1b4ea806581d8f9adf514e5b14de11c900631173ccf57b1
+  last_checked: '2026-08-28'
+  notes: Retailer Selling Bonus
+- id: oar-177-094-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=177-094-0100
+  sha256: b26e11cfd275d57bcdae3135c6efe0453f64b58df428c7956ba9e75377739470
+  last_checked: '2026-08-28'
+  notes: Annual Affidavit Required for Prize Winners of the Win for LifeSM Scratch-itSM Ticket Game
 - id: oar-213-030-0011
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=213-030-0011
   sha256: 95d0cbe2c3703e581e862f379c053553bc56db332d98073efa9393d178a04d3f
@@ -7004,6 +7284,161 @@ sources:
   sha256: 5cf65c238da88ff1239b6fe04554fe0bd35bd5e2f7e4270d0fc93d3651a345ba
   last_checked: '2026-08-28'
   notes: Incentive Program Compliance
+- id: oar-331-020-0077
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-020-0077
+  sha256: 151a1ba67302a659965e6d24bbc6a54f784e82b6b848a17551623fa7c3d6cd5b
+  last_checked: '2026-08-28'
+  notes: Compliance with House Bill 2359 (2021) – The Use of Interpreters
+- id: oar-331-030-0007
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-030-0007
+  sha256: 33b65e906162d746319835fed288cafd2a5a4578869a5c076bc105fb60238a06
+  last_checked: '2026-08-28'
+  notes: Criminal Conviction Prequalification Determination
+- id: oar-331-250-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-250-0010
+  sha256: 218bd5c9a76dcf489e30574a8c70c7dbe7aa4265dc7686b77ac8023001c1a334
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-331-250-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-250-0020
+  sha256: e0202281e8f9c62157201806f27c18b319f270d6a7e66deab1b05d07909c44f7
+  last_checked: '2026-08-28'
+  notes: Fees
+- id: oar-331-255-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-255-0010
+  sha256: 05226ef3ef909a599526818cbade474315a6d30fe42364a7a2eae4e195bd8a53
+  last_checked: '2026-08-28'
+  notes: Application Requirements for Initial Licensure as a Licensed Genetic Counselor
+- id: oar-331-255-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-255-0020
+  sha256: c46ff7c406fd62ef1ca463c3130db580ee48daebcc4ae9619e505020148672fa
+  last_checked: '2026-08-28'
+  notes: Temporary License - Licensed Genetic Counselor Temporary License
+- id: oar-331-255-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-255-0030
+  sha256: 91c9c42ae6f449e26e374523b8d63bb8161a08bcb64ff2b59423624b3916a5ae
+  last_checked: '2026-08-28'
+  notes: Application Requirements for a Temporary Licensed Genetic Counselor License
+- id: oar-331-255-0040
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-255-0040
+  sha256: 77d2a8986c5b4cb4fdfa876160966a5c2b65ac640d877eafecf2bfd9a6ded005
+  last_checked: '2026-08-28'
+  notes: Licensure Issuance and Renewal
+- id: oar-331-260-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-260-0010
+  sha256: d5914a6741950a53a915cb7ca0133f288288357f1771bbb393e5ccd0d94b1187
+  last_checked: '2026-08-28'
+  notes: Guidelines for Licensed Genetic Counselors
+- id: oar-331-375-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-375-0005
+  sha256: b169bc18cdf7266152131eb338b3fd1400b161b95d864a9029c32875b76b8420
+  last_checked: '2026-08-28'
+  notes: OFFICE APPROVALS
+- id: oar-331-380-0026
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-380-0026
+  sha256: 3343a5726f50e16e5f08749888d6dbf16d60f24e55fb402c4bd225f117c96bc6
+  last_checked: '2026-08-28'
+  notes: APPLICATION REQUIREMENTS FOR INITIAL LICENSURE AS A PROVISIONAL LICENSED ART THERAPIST
+- id: oar-331-740-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-740-0000
+  sha256: 61bf71ae71a68afa54f9cd5f4a9757efcf787400a941a039c2d2ce64e1d80fbd
+  last_checked: '2026-08-28'
+  notes: Fees
+- id: oar-331-910-0007
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-910-0007
+  sha256: cafbeea06404feb52cec1a1b4880a87f43d040ee9e4b9110ab497447d58049cb
+  last_checked: '2026-08-28'
+  notes: Approved Electrology Training Program for Temporary Trainees
+- id: oar-331-910-0021
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-910-0021
+  sha256: ef250adc374e835199d64544a3f379af05d6888423bd51675b10f010a46500e8
+  last_checked: '2026-08-28'
+  notes: Electrology Temporary Trainee License
+- id: oar-331-910-0022
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-910-0022
+  sha256: f4d8a083835a10da46d65f7ee6b5fc10b2d37b759bb17a51908f165710dd6eed
+  last_checked: '2026-08-28'
+  notes: Application Requirements for Electrology Temporary Trainee License
+- id: oar-331-910-0023
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-910-0023
+  sha256: 0eb86ff1235f43c90dbe46e68a5b4faf2c87cdee46e09ae4007fe8a543c32054
+  last_checked: '2026-08-28'
+  notes: Electrology Supervisor
+- id: oar-331-910-0024
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-910-0024
+  sha256: 2163816de8e0928cbf033d2543459ac329264fdfca27259e3333e44fbfd05f8a
+  last_checked: '2026-08-28'
+  notes: Requirements for Electrology Supervisor
+- id: oar-331-960-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-960-0000
+  sha256: 726d92241c4a8df330b1554dd1080279add9ce2e635a1e0b9b69cb7327d07183
+  last_checked: '2026-08-28'
+  notes: DEFINITIONS
+- id: oar-331-960-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-960-0005
+  sha256: 6cb5bb1c7e04bbb6213adcd275fd0ad9e3d0bea009d22fed95b6717d80a033f5
+  last_checked: '2026-08-28'
+  notes: FEES
+- id: oar-331-960-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-960-0010
+  sha256: fb2b16849b87a7f08fe86c0f80ffa6180135d9e4444dfd1cbb7f38285235170e
+  last_checked: '2026-08-28'
+  notes: PUBLISHED LIST OF AUTHORIZED TSAS
+- id: oar-331-960-0015
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-960-0015
+  sha256: 01324a52c8e2bc781fcf34c8f1f825b00caa527690dd2cd8af822a016e0ab214
+  last_checked: '2026-08-28'
+  notes: EXEMPTIONS
+- id: oar-331-965-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-965-0000
+  sha256: 7f6cb990187b05246c565052922f2d6013363a5b23093d4e447414eb858ba596
+  last_checked: '2026-08-28'
+  notes: TEMPORARY STAFFING AGENCIES
+- id: oar-331-965-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-965-0005
+  sha256: 6973bbd82c55e6df79e7781879a657b4a6bcc54b1fda61841dcd215dc4b9f1b5
+  last_checked: '2026-08-28'
+  notes: AUTHORIZATION APPLICATION REQUIREMENTS
+- id: oar-331-965-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-965-0010
+  sha256: de2a93814cebc047e5c89ae49b6d39c579795d53d54f480f4610359512b7336f
+  last_checked: '2026-08-28'
+  notes: AUTHORIZATION ISSUANCE
+- id: oar-331-965-0015
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-965-0015
+  sha256: d2c9ac15a6073141aecd2a8ea18f09922d9cae2be2c99ec055db45b5937cf174
+  last_checked: '2026-08-28'
+  notes: NOTIFICATION REQUIREMENTS
+- id: oar-331-965-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-965-0020
+  sha256: 46b8d04ccfc9673f3442d88f026a1f885ea1e670520e66408574904362f9e9c5
+  last_checked: '2026-08-28'
+  notes: AUTHORIZATION RENEWAL
+- id: oar-331-970-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-970-0000
+  sha256: d09eb74e5a85128e3e06dbaa2e5fffbfd486d06300f029b9a2a068172165ecf7
+  last_checked: '2026-08-28'
+  notes: PROFESSIONAL AUTHORIZATION REQUIREMENTS
+- id: oar-331-970-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-970-0005
+  sha256: 899005b9b68cc0c6cc77857d88a01808ef39739ba3cfa07930599873192f0da6
+  last_checked: '2026-08-28'
+  notes: WORK EXPERIENCE FOR PERSONNEL
+- id: oar-331-970-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-970-0010
+  sha256: 1c96fb895a4b74743f67942c6f1528bf672ce67bf079d195c745fd69ef50ba6b
+  last_checked: '2026-08-28'
+  notes: RECORDS
+- id: oar-331-975-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-975-0000
+  sha256: 522e0689bd0167db0775c1d2f4f4dbfd2473fe1d135214510362813ed5e28e5c
+  last_checked: '2026-08-28'
+  notes: DISCIPLINE
+- id: oar-331-975-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=331-975-0005
+  sha256: 663060ffda21fbd5e168859f4c2ffe4b91fa6b5c4b9e1e58a8c4539d016414cd
+  last_checked: '2026-08-28'
+  notes: CIVIL PENALTIES
 - id: oar-333-004-3000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=333-004-3000
   sha256: b31fec323c317693f2b9ff9ab3ecd12c692569f9a3b2330107bf3cde1466706d
@@ -10217,6 +10652,146 @@ sources:
   sha256: 81ccb807ef81fd6511148367ea2a2e1cfcf1692479c17cdd9cd8a9aa4572f975
   last_checked: '2026-08-28'
   notes: DEQ Review and Approval of Seismic Vulnerability Assessments and Risk Mitigation Implement
+- id: oar-345-001-0101
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-001-0101
+  sha256: ec700a45285cb4e10aa4fc8beb7355376a738dc9fd15641ec07c910b6ee22a86
+  last_checked: '2026-08-28'
+  notes: Information Submission Requirements
+- id: oar-345-015-0115
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0115
+  sha256: 832f5e542a5b67dafc2742d844c60fec0d4e48824dc7441b2b2e2e8fcf145ae2
+  last_checked: '2026-08-28'
+  notes: Appointment of Special Advisory Groups
+- id: oar-345-015-0171
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0171
+  sha256: 19e5c6155507c98718f8103820ebdb21a7adb1835a5557a9d579fb993f8b0f96
+  last_checked: '2026-08-28'
+  notes: Public Notice of a Preliminary Application
+- id: oar-345-015-0194
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0194
+  sha256: 079b6538287ddf52a73924459d79cb382559457facb9d0ffa0305f680613bf30
+  last_checked: '2026-08-28'
+  notes: Public Notice of a Complete Application for Site Certificate
+- id: oar-345-015-0198
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0198
+  sha256: 9d51368ecf609b1a77131ec8eca7ce31cae7688fb9231f48fe1b4dad67ed70e8
+  last_checked: '2026-08-28'
+  notes: Informational Meeting on a Complete Application
+- id: oar-345-015-0205
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0205
+  sha256: 03500a092acb6035e585e12a873c9e021dc4b112fffcc192d154ae5780fbdf05
+  last_checked: '2026-08-28'
+  notes: Agency Coordination
+- id: oar-345-015-0400
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0400
+  sha256: 746a4d5b19600d6290729582e08b3c508991598e21a25babda162e89949e48ae
+  last_checked: '2026-08-28'
+  notes: Governing Provisions
+- id: oar-345-015-0403
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0403
+  sha256: 23be56d93d6dc1f92b9e282eae4df791ccdbe98a0bf1aef9ecff72cd6aba44de
+  last_checked: '2026-08-28'
+  notes: Contested Case Notices
+- id: oar-345-015-0405
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0405
+  sha256: f0dc7573b57957518f488c200186663a6630bcdc84d631d0cd454c509cfe53bf
+  last_checked: '2026-08-28'
+  notes: Appointment and Duties of Hearing Officer
+- id: oar-345-015-0410
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0410
+  sha256: eafb22993a5bc40bc224312c8a136dd66fb2b019b1392c70c6387dbc607baff1
+  last_checked: '2026-08-28'
+  notes: Filing and Service
+- id: oar-345-015-0415
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0415
+  sha256: adff2b00a7a21a88629414d491a6b2358240a67f4017106a383a207614b27332
+  last_checked: '2026-08-28'
+  notes: Requests for Party or Limited Party Status
+- id: oar-345-015-0420
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0420
+  sha256: 6820a47d19466124cef7244558fc71e77984a3f3869e485ef4386a15252a8254
+  last_checked: '2026-08-28'
+  notes: Petition for Indigent Status
+- id: oar-345-015-0425
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0425
+  sha256: fe7472a192b99aadcd9a79098019243368d4d49572b97f590048cdf76b8845c0
+  last_checked: '2026-08-28'
+  notes: Participation by Government Agencies
+- id: oar-345-015-0430
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0430
+  sha256: 008d089de1efd2dc49b2647b75c20c80e7da6868db7cfdb12043918a8c0496f4
+  last_checked: '2026-08-28'
+  notes: Prehearing Conference and Prehearing Order
+- id: oar-345-015-0435
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0435
+  sha256: 3108a6ab5007d4c56bf1f7279526d6b4459ff22c8e2e504d044aaa6750518e8b
+  last_checked: '2026-08-28'
+  notes: Suspension of Hearing and Exclusion of a Party
+- id: oar-345-015-0440
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0440
+  sha256: 7341cf129d1797a8fff79bcc8b37d155a99120cf9a121144f9397f84756bfe8c
+  last_checked: '2026-08-28'
+  notes: Burden of Presenting Evidence
+- id: oar-345-015-0445
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0445
+  sha256: bb835f83b17473346ebb813d23ebd3c8a9aff208d041863361357e90480d9616
+  last_checked: '2026-08-28'
+  notes: Submission of Evidence and Proposed Site Certificate Conditions
+- id: oar-345-015-0450
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0450
+  sha256: f224a584247a63e2ae1c770733ddf60423e536ce85c416c11c892dc3e9cb1e13
+  last_checked: '2026-08-28'
+  notes: Official Notice of Evidence
+- id: oar-345-015-0455
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0455
+  sha256: e8b05df5c4fe9bbd88e4d6406c20abdbfb1f6d2b4a56718d36050c587e16fbed
+  last_checked: '2026-08-28'
+  notes: Motions
+- id: oar-345-015-0460
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0460
+  sha256: 59d89c14c75046c73e131ed495657c56c06cb558e5e296e984408f42ce418111
+  last_checked: '2026-08-28'
+  notes: Interlocutory Appeals to Council
+- id: oar-345-015-0465
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0465
+  sha256: bfd08a3ad8b801c258a7c7070a82d3d7ec526f4abcb458e82b699666baaba831
+  last_checked: '2026-08-28'
+  notes: Stays
+- id: oar-345-015-0470
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0470
+  sha256: 7ea7d821de6bd5a7b226f7a4c7be675cbe41f93f022ddca1f3fd7ed7ec49ce0e
+  last_checked: '2026-08-28'
+  notes: Reopening Record Prior to Decision
+- id: oar-345-015-0475
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0475
+  sha256: c0d7a925d3270df0c662ba6cdd4ba6b462636fe9f6d5ace26d64fb54006dabad
+  last_checked: '2026-08-28'
+  notes: Hearing Officer's Proposed Contested Case Order
+- id: oar-345-015-0480
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-015-0480
+  sha256: 26c21bc5981953f297d9e6e48f0f42e2549be9fc84293603d38c41b54515910b
+  last_checked: '2026-08-28'
+  notes: Council's Final Order and Issuance of a Site Certificate
+- id: oar-345-022-0115
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-022-0115
+  sha256: 9a1ef44b0d9736fac973f8066d6667c7e7172c467c8af643c17d34322eeae590
+  last_checked: '2026-08-28'
+  notes: Wildfire Prevention and Risk Mitigation
+- id: oar-345-022-0160
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-022-0160
+  sha256: 73d562ce867f77bece3eb17ad68a1e3d87124fd50bba5ccd4c46c6a3d99815d6
+  last_checked: '2026-08-28'
+  notes: State and Local Laws and Regulations
+- id: oar-345-024-0503
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-024-0503
+  sha256: 5751948392f1d1d78c020eb92c36a222103c0890ddeb97d38a7eac25f252c4f3
+  last_checked: '2026-08-28'
+  notes: Definitions for OAR 345-024-0500 to 345-024-0720
+- id: oar-345-027-0001
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=345-027-0001
+  sha256: dac9007f86fc75058b7ca956ee789f245d1ca0e366388a0f2daccde320c8975b
+  last_checked: '2026-08-28'
+  notes: Applicability
 - id: oar-350-011-0001
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=350-011-0001
   sha256: 728e91eb6218145a6121c384bec7674f4eeeb7ac7ec2de0240f2a40e9dd02ed6
@@ -16827,6 +17402,146 @@ sources:
   sha256: 9580f3e5aaa45e3a539a872373927e5a61048ac8143f5061403fd2e6c940200d
   last_checked: '2026-08-28'
   notes: Penalty Amount When Employer Fails to File Report
+- id: oar-575-007-0200
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0200
+  sha256: d20d7c8bfb1317617befcb7a1dc958496406a49a2c5465b3800582171b4c002d
+  last_checked: '2026-08-28'
+  notes: Statement of Purpose and Statutory Authority
+- id: oar-575-007-0210
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0210
+  sha256: dadddf511cb2ff06c90692d65374ec0ede99697e4a810bf12277cbf24ed2e934
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-575-007-0220
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0220
+  sha256: 03ef1592ddb742237491d5230fe96c1ccab2b4f77f44752d9c26d1c5d63f6415
+  last_checked: '2026-08-28'
+  notes: Subject Individuals
+- id: oar-575-007-0230
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0230
+  sha256: 48e72336c1a55e6081c8e92a484798a543e33c1b8faa3fb07354dff465bf0b39
+  last_checked: '2026-08-28'
+  notes: Criminal Records Check Required
+- id: oar-575-007-0240
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0240
+  sha256: d9b2764447477153ac430a05194b1d4e335fd149d48369feb126c76ef37e7b71
+  last_checked: '2026-08-28'
+  notes: Contact Person and Authorized Designee
+- id: oar-575-007-0250
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0250
+  sha256: 2d5a88189202f041b2605fefb85032543304076cf2f938e29499dac54a1fa3d6
+  last_checked: '2026-08-28'
+  notes: Oregon Criminal Records Check Process
+- id: oar-575-007-0260
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0260
+  sha256: c2170e0e259bb2730f87107691a1b8666a413f21b3d216e50b2db628ed08a95f
+  last_checked: '2026-08-28'
+  notes: State-Specific Criminal Records Check Process
+- id: oar-575-007-0270
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0270
+  sha256: 163fa95379ac0722da7a1e6d8e39ed8963e840fa75da547919a20b852f8951af
+  last_checked: '2026-08-28'
+  notes: National Criminal Records Check Process
+- id: oar-575-007-0275
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0275
+  sha256: 2e8527409e6b8553c0e2e01ef652c93492bb156aa21cd2b49b61e8f33b2ad945
+  last_checked: '2026-08-28'
+  notes: Imminent Danger
+- id: oar-575-007-0280
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0280
+  sha256: 586a9347455ef88bd7346f32fb4ff59f4e3dc27ab2db3db3de8762652087d8bd
+  last_checked: '2026-08-28'
+  notes: Potentially Disqualifying Crimes
+- id: oar-575-007-0290
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0290
+  sha256: d820dbf0395ec23e26d906122aba5515e711a1293ba6b847e53de4c8087475df
+  last_checked: '2026-08-28'
+  notes: Other Potentially Disqualifying Conditions
+- id: oar-575-007-0300
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0300
+  sha256: 36b2d6ae0fe6929bfaff46ab6f414c7b9312045030f79b1d7034eccb675df053
+  last_checked: '2026-08-28'
+  notes: Other Information Considered
+- id: oar-575-007-0310
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0310
+  sha256: 73ff4ea1369aaf462149e4aaa9471ca56315e74c1ab37766a9b08b0143885f1e
+  last_checked: '2026-08-28'
+  notes: Hiring on a Preliminary Basis
+- id: oar-575-007-0320
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0320
+  sha256: a6ce5335e05e40594cbde9b121d671b361c9cffbb32935888fd9dc106b0f38c3
+  last_checked: '2026-08-28'
+  notes: Fitness Determinations
+- id: oar-575-007-0330
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0330
+  sha256: d2e30f47862c7108482f403c810ffb2d1230570e2f803db28e752cdea209ca45
+  last_checked: '2026-08-28'
+  notes: Contesting a Fitness Determination
+- id: oar-575-007-0340
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0340
+  sha256: 66c37777a1c54bb46931a43220f23f3932ac7ff7a124fa423b1548f634b7c1b2
+  last_checked: '2026-08-28'
+  notes: Record Keeping, Confidentiality
+- id: oar-575-007-0350
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0350
+  sha256: 3db5a67a8198a644dc4b051671d658eeb8bd2a1824bac377acd42bb9a990969a
+  last_checked: '2026-08-28'
+  notes: Immunity from Liability
+- id: oar-575-007-0380
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0380
+  sha256: f1fbcd296592fb7ed408ed7af0e068024c4d683f8711dd6a5ca9d32e76e15737
+  last_checked: '2026-08-28'
+  notes: Fees
+- id: oar-575-031-0027
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-031-0027
+  sha256: a36264385530ff390ebbb89dc3339d516a9cd247f74ca64b9a8334e792a5c07f
+  last_checked: '2026-08-28'
+  notes: Persistence and Completion
+- id: oar-575-066-0007
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-066-0007
+  sha256: 2e11c9f698f3805721b2853120084250b85908140ce242c2899352486566ca4a
+  last_checked: '2026-08-28'
+  notes: Temporary Special Eligibility for Certain Renewal Students
+- id: oar-575-066-0021
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-066-0021
+  sha256: 70d35735ce47b92c6712437b26de2939daded243c41d293272aff048987c0c47
+  last_checked: '2026-08-28'
+  notes: Record Keeping
+- id: oar-575-105-0001
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-105-0001
+  sha256: 5a8211d2b007d2489de7a795f60273afd4713573fb7b07665430bec1d057c778
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-575-105-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-105-0005
+  sha256: 88a771fe0fdeacfcea02b085818b9693de1f86c80d17b5be3f5e112bf2f8dae1
+  last_checked: '2026-08-28'
+  notes: Student Eligibility
+- id: oar-575-105-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-105-0010
+  sha256: 27b74464ab1cc071a95e1e1c51b29a4291239cd091da95e43ceba6e72c848efe
+  last_checked: '2026-08-28'
+  notes: Application Process
+- id: oar-575-105-0015
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-105-0015
+  sha256: 81b7c46feb9de4f5e097dff9befd607ca1e6c21756a99745f9f155d308f897a9
+  last_checked: '2026-08-28'
+  notes: Grant Amount
+- id: oar-575-105-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-105-0020
+  sha256: 2ec2a2ae168ec64174f695ceec0080807c038e82ffb552a3741fc7c228ce0662
+  last_checked: '2026-08-28'
+  notes: Disbursements of Grant Funds to Students
+- id: oar-575-105-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-105-0025
+  sha256: 4db45e796af7407788c4c3d47401496d05da46059354e24c85b5cad4933ac83b
+  last_checked: '2026-08-28'
+  notes: Requirements for Concurrently Enrolled Students
+- id: oar-575-105-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-105-0030
+  sha256: 1e2e0d6ea2b4d36eb1e37b7a7a25a05303e74958d576284ce4702cddb4e6e7f0
+  last_checked: '2026-08-28'
+  notes: Recordkeeping
 - id: oar-581-001-0111
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=581-001-0111
   sha256: 4335a9b2ae57d3e3d55a26857705a22fbc27b862e73ba61e0c34056dd8d63915
@@ -17661,6 +18376,176 @@ sources:
   sha256: 0aa9ae5d93496c7fec52b483fd67893e25372e584ae5ab2879d7bb38f6a4bc9a
   last_checked: '2026-08-28'
   notes: Judicial Review and Reconsideration of Orders Related to Division 22 Standards
+- id: oar-584-019-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-019-0100
+  sha256: b318a639c1988ddb8e259df68e82de042e755969c33e6a21953fb0080568b0e2
+  last_checked: '2026-08-28'
+  notes: Procedures for an Investigation of a Sexual Conduct Report
+- id: oar-584-200-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-200-0130
+  sha256: d2ea67ed6f03b6ad98ad21d2b997606aec43eb68bd9205135a32c9d6de466f53
+  last_checked: '2026-08-28'
+  notes: Oregon Licensure Expense Reimbursement Program
+- id: oar-584-210-0151
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-210-0151
+  sha256: 063e62e53a4c8ddcf1b9f6b3ce61069fbe08ba89c2cf7018199a8aa16399e0e0
+  last_checked: '2026-08-28'
+  notes: District Substitute Teaching License
+- id: oar-584-235-0060
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-235-0060
+  sha256: acf822f3d4d3265f0a299d217f206474c44fb193f04e0601631a85b2efe14578
+  last_checked: '2026-08-28'
+  notes: Emergency Administrator License
+- id: oar-584-245-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0100
+  sha256: c6ea485a50dd70fd91451833762c8e6f5234cc1c996f74f06e11fe01e3864593
+  last_checked: '2026-08-28'
+  notes: Scope of School Counselor License
+- id: oar-584-245-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0110
+  sha256: 8b8147c5fd58177956240a932b5c8d85fc1fb9c09b7695355ef57155ed404da4
+  last_checked: '2026-08-28'
+  notes: School Counselor License
+- id: oar-584-245-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0120
+  sha256: fb37efe49485d2f26c99a93f873c7e3e4bd1a531ecbe3548785ccd0a78d545ef
+  last_checked: '2026-08-28'
+  notes: Professional School Counselor License
+- id: oar-584-245-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0130
+  sha256: 39bfbd73c83d6d4302aae2fb8f2e1cee89aabcc9548b4cd5cabe3a9f3123ee66
+  last_checked: '2026-08-28'
+  notes: Restricted School Counselor License
+- id: oar-584-245-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0140
+  sha256: ee546018d2e20e4dd41379d9e58fd914c1465d5d81032032dc4810b90f75ecc2
+  last_checked: '2026-08-28'
+  notes: Emergency School Counselor License
+- id: oar-584-245-0150
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0150
+  sha256: fefccd26b843c0a01a0899a84e89a341e45d28d0558220f6804cd70cb42cb20e
+  last_checked: '2026-08-28'
+  notes: Legacy School Counselor License
+- id: oar-584-245-0160
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0160
+  sha256: f82e0caafe144667e85c47ba97e90167b5c9f3e271b0d338c5c12e4095e986d8
+  last_checked: '2026-08-28'
+  notes: Reinstatement of Expired School Counselor Licenses
+- id: oar-584-245-0200
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0200
+  sha256: 9ae482e06f660278e7e4293e1c1503fd09e76fb56d6348f9b250218bacff7d88
+  last_checked: '2026-08-28'
+  notes: Scope of School Psychologist
+- id: oar-584-245-0210
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0210
+  sha256: dc7a8bb7cc0d3870c612cf271c12d5ac13bcf1bc5a6ef55e0051f76633bcafe1
+  last_checked: '2026-08-28'
+  notes: School Psychologist License
+- id: oar-584-245-0230
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0230
+  sha256: 9acf386939d518609ee0d8a2e36c2ffca9db06ff4348c1e054dd748495864180
+  last_checked: '2026-08-28'
+  notes: Professional School Psychologist License
+- id: oar-584-245-0240
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0240
+  sha256: 282bc9399bd04e7b0e4ddfb96f093c35093815fe5bd372628ecea1a5cb36eba9
+  last_checked: '2026-08-28'
+  notes: Reinstatement of Expired School Psychologist Licenses
+- id: oar-584-245-0300
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0300
+  sha256: 2534ceb14f1ef5c3182aba4971ed35854f113e05d5fdc6c1ca70023acdbb528e
+  last_checked: '2026-08-28'
+  notes: Scope of School Social Worker License
+- id: oar-584-245-0310
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0310
+  sha256: 04b7e2cda9d96d3d7a0eb7f4d430dcebdb31bbbcfa0ac82c21a5e70645e95d75
+  last_checked: '2026-08-28'
+  notes: School Social Worker License
+- id: oar-584-245-0320
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0320
+  sha256: b933ae15d2d275d7d8d72eccfece60210c7aa72529ab59daab3116ae28d914c5
+  last_checked: '2026-08-28'
+  notes: Professional School Social Worker License
+- id: oar-584-245-0330
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0330
+  sha256: d43df04d25d42c6f9d4f73f391c060e5be4b6ace80286c2d32aa14f21fd70568
+  last_checked: '2026-08-28'
+  notes: Restricted School Social Worker License
+- id: oar-584-245-0340
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0340
+  sha256: 312657e2dc27ec6e9d6968e58fa488b79ffc7f6f74a60e436f19a01df7e569f7
+  last_checked: '2026-08-28'
+  notes: Emergency School Social Worker License
+- id: oar-584-245-0350
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0350
+  sha256: 4bc333af2c9894e06c65edeed2a0d4041d6e60cbc1e6d92e9eb5afa10a1b1abe
+  last_checked: '2026-08-28'
+  notes: Reinstatement of Expired School Social Worker License
+- id: oar-584-245-0400
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-245-0400
+  sha256: 52f13ddc9081e6a092ff0f6add775eac0ac7468bfeeccbdf89a1f2fed29e3410
+  last_checked: '2026-08-28'
+  notes: Limited Student Service License
+- id: oar-584-255-0007
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-255-0007
+  sha256: d70e41c5fe2956ef8f5840376e387e6516eebc701dcf727c7a89da0f1ed17360
+  last_checked: '2026-08-28'
+  notes: Suspension of Professional Development Unit Reporting Requirements
+- id: oar-584-400-0155
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-400-0155
+  sha256: 495f4dccbabea76e39f2eacf7ab2357078020296a6fb85ecaacdc3e74d1d6f94
+  last_checked: '2026-08-28'
+  notes: Registered Apprenticeships
+- id: oar-584-410-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-410-0005
+  sha256: c51b089fb91bf266a86be6f59514032c8126ccd87094087d02136b1f8cd5f249
+  last_checked: '2026-08-28'
+  notes: 'State Approval of Unit: Preconditions for First-Time Unit or Program Approval'
+- id: oar-584-410-0075
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-410-0075
+  sha256: 86e9a34bc328c90af66715321cd76f5a45eaf1282a6ab8365ffcf5bfaf6c0e78
+  last_checked: '2026-08-28'
+  notes: Social and Emotional Development to Promote Equity
+- id: oar-584-420-0480
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-420-0480
+  sha256: 53c408df817776aa03ac36d43eff86b73cb947dec2fa7ee89e6cf6aa98626b5b
+  last_checked: '2026-08-28'
+  notes: 'Special Education – Visually Impaired: Program Standards'
+- id: oar-584-420-0700
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-420-0700
+  sha256: 4c21f1bba626f5fb993ddca8c6243858f2de89b92e42d2b24a832a7f74be2550
+  last_checked: '2026-08-28'
+  notes: 'Social and Emotional Learning Specialization: Program Standards'
+- id: oar-584-420-0710
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-420-0710
+  sha256: 140152176413dab2074f9ce7ab3ac7f8d6bacf3dd6ec2097f31ae810d62c4ae4
+  last_checked: '2026-08-28'
+  notes: 'Trauma-Informed Practices Specialization: Program Standards'
+- id: oar-584-430-0300
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-430-0300
+  sha256: 587d0b582a890cb95d85882e75c5db8414aef420e3a5116bb7e72c3ef19fbd09
+  last_checked: '2026-08-28'
+  notes: 'Administrator Literacy: Program Standards'
+- id: oar-584-435-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-435-0010
+  sha256: ba8b19075317861f651f36bd8d8c13ceb8603e73308373d2384fc6ea9c04321c
+  last_checked: '2026-08-28'
+  notes: Effective Date and Supersedure
+- id: oar-584-435-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-435-0100
+  sha256: 756c8d0320381713afd6e5c3a62f28d88b6fc28aa07756f8cd889a520bfea7f8
+  last_checked: '2026-08-28'
+  notes: School Counselor Program Standards
+- id: oar-584-435-0200
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-435-0200
+  sha256: ac69844fe2fd262fb542d891b71358c8ec8db3ddb98efee495be6846c505e726
+  last_checked: '2026-08-28'
+  notes: 'School Psychologist License: Program Standards'
+- id: oar-584-435-0300
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-435-0300
+  sha256: af9c1f8636db55e13e8aa3847be891dfb5c1bd884d5e3f829d54d2abf0258b21
+  last_checked: '2026-08-28'
+  notes: 'School Social Worker License: Program Standards'
 - id: oar-603-008-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=603-008-0000
   sha256: 0e43d89ca3d1822154954d7d0ee2286a95f85ea5a6e739e8706239ba16f605b1
@@ -21956,6 +22841,61 @@ sources:
   sha256: 3822476aa5af53e49c9c6e901d1eb0ec615a9f624998afc54a9a00b2c1041368
   last_checked: '2026-08-28'
   notes: Program Evaluation
+- id: oar-695-005-0045
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-005-0045
+  sha256: e3fd72c35d376acd11420f69eb275eca3e2287085201af65640036096216b8ef
+  last_checked: '2026-08-28'
+  notes: Climate-Related Evaluation Criteria
+- id: oar-695-030-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-030-0005
+  sha256: ab7c39c7ae20275af202dfd9b2fe2ea259c9d00c70c00e3cf974729a96753640
+  last_checked: '2026-08-28'
+  notes: Purpose
+- id: oar-695-030-0015
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-030-0015
+  sha256: 486c6e877de7c9d8c377de8dc5abe116397c6995577f582e8a7be6d01084c396
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-695-030-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-030-0025
+  sha256: 037e7b0dc83e58bba70f2f62d33ba1a9beddede50ce2bd789615fdbeb6605518
+  last_checked: '2026-08-28'
+  notes: Eligibility
+- id: oar-695-030-0035
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-030-0035
+  sha256: 69bc5bcfd409e6ed2a0e6e3581727226fd259422eb988e2c40cb7b8ef9ad9354
+  last_checked: '2026-08-28'
+  notes: Application Requirements
+- id: oar-695-030-0045
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-030-0045
+  sha256: 57760ef3296ae4248278c1b2198e47d706ec1b5bf8aec525009d5e31b6afa21c
+  last_checked: '2026-08-28'
+  notes: Evaluation Criteria
+- id: oar-695-030-0055
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-030-0055
+  sha256: 101ded38550fe56026dc1b2d8926aa145aa3a95ef7d6f0b992ecf8bf1eeebbd5
+  last_checked: '2026-08-28'
+  notes: Technical Review Process
+- id: oar-695-030-0065
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-030-0065
+  sha256: 20669e39047145da5b970e2933cad1857dca2937a7ad9ecb02e32255cf839ce4
+  last_checked: '2026-08-28'
+  notes: Staff Funding Recommendation Process
+- id: oar-695-030-0075
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-030-0075
+  sha256: f1b33e88c77aba6078c3755edb77e85f6c25fe4a872c9b48b17b753faaa67c67
+  last_checked: '2026-08-28'
+  notes: Funding Decision
+- id: oar-695-030-0085
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-030-0085
+  sha256: c3875c48840098fa7456297016af3329a0e6815c4575d0fadf73f6618d2ccd19
+  last_checked: '2026-08-28'
+  notes: Grant Agreement Conditions
+- id: oar-695-030-0095
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-030-0095
+  sha256: 2f2647d68de1c3c93ef72f41d83e35baa61c8077681c90cb8b50783324f98f87
+  last_checked: '2026-08-28'
+  notes: Waiver and Periodic Review of Rules
 - id: oar-695-046-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-046-0010
   sha256: e159540d2aaf492d2b22d4bd245c55974525d36995c0c7a3c41607add0b1b184
@@ -22012,6 +22952,101 @@ sources:
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-046-0230
   sha256: 1eb4dbbb1b290dd99b0dc73db05f1c90901b229ae5b1864f09d2e1412eef049c
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
+- id: oar-695-048-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0010
+  sha256: 6d16389ffebe4da51a796cce879ca3e6fb6801640e8ff240b682f5bd9c6e9de5
+  last_checked: '2026-08-28'
+  notes: Purpose
+- id: oar-695-048-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0020
+  sha256: 59a1904e50baec90390ca50adb76535acd3c853c09b793a3388e5700e94327d2
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-695-048-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0030
+  sha256: 797dcffbb9e4c05cab45ae004e82cc9d83b8bd1c09a27b5a734e65e06d0ed887
+  last_checked: '2026-08-28'
+  notes: Protective Instrument Requirements
+- id: oar-695-048-0040
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0040
+  sha256: 11ace5dd37ae656a6241cd99c0ae22215b93ecce616dc872bcd8dc92a0a8bf6c
+  last_checked: '2026-08-28'
+  notes: Eligible Applicants
+- id: oar-695-048-0050
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0050
+  sha256: 68f9fc829ebbab14ac565cbdc21d7b4a27e1250785edee5336db0b8196dfbfd7
+  last_checked: '2026-08-28'
+  notes: Eligible Properties
+- id: oar-695-048-0060
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0060
+  sha256: 53f9f44c5d899bb62c521206820413f15f1241ac0dbd7dd1093458e1810e9964
+  last_checked: '2026-08-28'
+  notes: Eligible Systems
+- id: oar-695-048-0070
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0070
+  sha256: 3a1e8cccd2197479b56a82f4239ce2de592af572fe14562bbc521ac3f9c58743
+  last_checked: '2026-08-28'
+  notes: Maximum Grant Amount
+- id: oar-695-048-0080
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0080
+  sha256: 514626804129d8a1dd972ac2f673f3c8fc83e7b358bd938241060f69fc74c963
+  last_checked: '2026-08-28'
+  notes: Matching Contributions
+- id: oar-695-048-0090
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0090
+  sha256: 22c536163fae7a03e5ad42c8af6f8086e94475e61c6d7964a6a011238210dcb2
+  last_checked: '2026-08-28'
+  notes: Application Requirements
+- id: oar-695-048-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0100
+  sha256: c41f442bb6a4a4ad98764dd7e0838f4ef13bf05e5ea677236398e8f5f968d399
+  last_checked: '2026-08-28'
+  notes: Use of Grant Funds
+- id: oar-695-048-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0110
+  sha256: f144c9afaea69e71ca85b8822788efa22496bfaa692c8e69df9cdc785f5fae5c
+  last_checked: '2026-08-28'
+  notes: Evaluation Criteria
+- id: oar-695-048-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0120
+  sha256: 4c939a50dc8db8ea6de1dd55d9f5812c8de4b2a20854a7fd4afd4f32450224ad
+  last_checked: '2026-08-28'
+  notes: First Grant Solicitation Cycle
+- id: oar-695-048-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0130
+  sha256: a3f113f8bbb57cc9b9c2f6eda32dc545414c2becdafa2f7dc2309fd6004bc53b
+  last_checked: '2026-08-28'
+  notes: Grant Agreement Conditions
+- id: oar-695-048-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0140
+  sha256: 17c0b86347ba97d8d2d764c4e2a53a32920acb4e4d57cbc91414c967f194ed7c
+  last_checked: '2026-08-28'
+  notes: Board Approval and Delegation of Authority
+- id: oar-695-048-0150
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0150
+  sha256: 43a625504a144d66ff4d7f00d5f793cc959339f302686116145e8da628473af5
+  last_checked: '2026-08-28'
+  notes: Public Comment on Grant Applications
+- id: oar-695-048-0160
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0160
+  sha256: eb73365cdbe8057eb2fa9765375a90f76fbc4ad78a5549a8223f338a68beec3a
+  last_checked: '2026-08-28'
+  notes: Distribution of Funds
+- id: oar-695-048-0170
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0170
+  sha256: 9ed0eba4ba1185f1e97ba5c702da75fff365b8153c221e7375a57f06a13d7cfb
+  last_checked: '2026-08-28'
+  notes: Compliance and Enforcement
+- id: oar-695-048-0180
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0180
+  sha256: c41db6b521ae90be181efd5bba83ee69cf3e125f403340e1edf49caf2a58f089
+  last_checked: '2026-08-28'
+  notes: Subsequent Conveyances
+- id: oar-695-048-0190
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-048-0190
+  sha256: e4a65cd4ad5b251a072e43d31a1df7ce418551fac347d80dda2fdd2b6707fb9c
+  last_checked: '2026-08-28'
+  notes: Waiver of Rules
 - id: oar-715-012-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=715-012-0005
   sha256: 5ef6adb7fc711f5ca9330471927fa8914de9b986d8a47ede06d706b469607391
@@ -22617,6 +23652,121 @@ sources:
   sha256: cef8b568de369cdd439dfe0dcf6b46831b49d3291e387b9183ea305b1521e345
   last_checked: '2026-08-28'
   notes: Clean Diesel Construction Standard
+- id: oar-735-018-0165
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-018-0165
+  sha256: eefe47e35c652f772ee7dbfbe4cace83c367d1b3ec1b90d4470769964c7da004
+  last_checked: '2026-08-28'
+  notes: 'Renewal of Real ID or Non-Real ID Driver License, Driver Permit or Identification Card by '
+- id: oar-735-018-0180
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-018-0180
+  sha256: d2547399d77015f0d029c48e4065e3de3d7c45920c946df77df8d76f926d035b
+  last_checked: '2026-08-28'
+  notes: Emergency Contact
+- id: oar-735-020-0014
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-020-0014
+  sha256: 754c1fb9ed4995974044b967ba0f0706afef754aa7668627d319ffe93abfb8f5
+  last_checked: '2026-08-28'
+  notes: Possessory Lien - Surety Bond or Irrevocable Letter of Credit Required Under ORS 87.152
+- id: oar-735-022-0160
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-022-0160
+  sha256: 9ac9da30d9129122dfdad1bdfcaf8adf51b171b5511b87bf160f314a6c343103
+  last_checked: '2026-08-28'
+  notes: Titling Former PMRVs as Provided in ORS 803.036
+- id: oar-735-028-0160
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-028-0160
+  sha256: 677595bf203fe188c6982cbbdc255f5b0099abafa17dd5d72883e8e0e8eff13c
+  last_checked: '2026-08-28'
+  notes: Secure Forms Limited Availability
+- id: oar-735-030-0125
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-030-0125
+  sha256: ff7495ac202272722349d7d4f28ef86138850d89abdeb297fdbf3665a5fc4513
+  last_checked: '2026-08-28'
+  notes: Per-mile Road Usage Charge Program Removal and Fees
+- id: oar-735-050-0004
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-050-0004
+  sha256: 7e4cee0ed17fd154b5515031b9620e2eff3e713821f6e695b842bfbaf36ec5c8
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-735-050-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-050-0005
+  sha256: 36cb9edbaf4384a40a5db9e198f33c9658afbbb7c60e99608a25181d52ecfddf
+  last_checked: '2026-08-28'
+  notes: Collision Reporting to DMV
+- id: oar-735-062-0084
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-062-0084
+  sha256: ae97482ac84e515738d650ebcf0378d8c1916d5e251349d3d8625dfcc1feca41
+  last_checked: '2026-08-28'
+  notes: Waiving Examination Requirements for Certain Farm Endorsement Applicants
+- id: oar-735-062-0133
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-062-0133
+  sha256: 9d6916a86a45b003abaa9fb33530da77b78941d9867c97afe1c3acb155118e91
+  last_checked: '2026-08-28'
+  notes: Identification Card Issuances to Applicants Experiencing Homelessness, Nonprofit Organizat
+- id: oar-735-063-0262
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-063-0262
+  sha256: 0aa4220d9f2d425da30c2b69f1efab86d9cf3624f92b4746abac95c993ec0339
+  last_checked: '2026-08-28'
+  notes: Entry-Level Driver Training Requirements
+- id: oar-735-063-0269
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-063-0269
+  sha256: 2af9007d6254178b68fb71749d8bba17dfacd70df2ba32239fa6d4c82ebc72d4
+  last_checked: '2026-08-28'
+  notes: Commercial Driving Privileges
+- id: oar-735-063-0315
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-063-0315
+  sha256: 171695e93eec4d2bb8772d34d59249804d7d46a0e3a4da2124f402f8b9a0dae7
+  last_checked: '2026-08-28'
+  notes: Commercial Driving Privileges; Federal Drug and Alcohol Clearinghouse; Cancellations
+- id: oar-735-063-0390
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-063-0390
+  sha256: 98311e9fa645af6259da62335ef7f46963274957c7f36c55ea219b225f534e7d
+  last_checked: '2026-08-28'
+  notes: CMV Used In Human Trafficking
+- id: oar-735-074-0072
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-074-0072
+  sha256: f4789893f190d8425dd0c95f874bf5886f6a9a85e49bc66bd1f98791ca97627b
+  last_checked: '2026-08-28'
+  notes: Designating At-Risk Medical Determination Standards
+- id: oar-735-074-0185
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-074-0185
+  sha256: 8b74aaf184beac243e86bcb608969d41638535c75852598f73fccdc94c4c2f61
+  last_checked: '2026-08-28'
+  notes: When a Driver Medical Report Form or Certificate of Vision Form is Required
+- id: oar-735-076-0008
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-076-0008
+  sha256: 5606255279a755497f2e91d950ee043f0c27ae5f64ee38fcfda3db8a0a11d167
+  last_checked: '2026-08-28'
+  notes: Designating At-Risk Medical Determination Standards
+- id: oar-735-080-0011
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-080-0011
+  sha256: b512d20317b325e76a49ff968f26a1eae5adad4227a09c01b33347b9aff6e00b
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-735-080-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-080-0100
+  sha256: 8ee734537e7a88835f62e7af56462c1e27cf9f664c81c91a415b5eb9053146c7
+  last_checked: '2026-08-28'
+  notes: Submission of Disabled Person Parking Permit Applications and Renewals
+- id: oar-735-152-0007
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-152-0007
+  sha256: a142c26df1a2f4863dfcd5a2dcb3f292395bdd32b7895399a83a3389e3f0e56c
+  last_checked: '2026-08-28'
+  notes: Fire Inspection Report
+- id: oar-735-160-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-160-0140
+  sha256: d1177329bf4e7dcceabf32a649749c8018ad9370415ff8e582b83366ea79ef81
+  last_checked: '2026-08-28'
+  notes: Customer Feedback Process
+- id: oar-735-170-0075
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-170-0075
+  sha256: eee0405dc6954b0721ff415ddae78b3bad46b253bfe3d60ef8a531dd352dbbda
+  last_checked: '2026-08-28'
+  notes: Tax Exempt Sales to Indian Tribes
+- id: oar-735-170-0085
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=735-170-0085
+  sha256: a593bb127303bb02854a8a80cf328dedd265d949c85e351c6307a1eab2014edd
+  last_checked: '2026-08-28'
+  notes: Annual Tribal Certification
 - id: oar-736-004-0150
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=736-004-0150
   sha256: a9b3a2b3e111d9e8614462b91f655793d281aad76d805123b0e9120c7e4de52d
@@ -25411,14 +26561,114 @@ sources:
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-005-0008
   sha256: c349ec918cb5229494b592830d74d097938b42810911c735114c4587bc505113
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
+- id: oar-847-007-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-007-0010
+  sha256: fb12b7b4eb40441d60f21c7ffea6b4ef6342c539969c4bf82be2f81039f67d0d
+  last_checked: '2026-08-28'
+  notes: Criminal Conviction Determination Process
 - id: oar-847-008-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-008-0010
   sha256: a035dbeb253dbcf40da946392f3f0c9655981693c7b6eeda0549b0477a748bc8
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
+- id: oar-847-008-0077
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-008-0077
+  sha256: 2cf17c5f3550ae4f977aefc577d1f8ba915e75579b7264f34ebdb3dab90cefde
+  last_checked: '2026-08-28'
+  notes: Mandatory Cultural Competency Education
+- id: oar-847-010-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-010-0130
+  sha256: 64c2ff394d820b1642397eb33063653a3905a249fc9dbb4a067760200f7f15a1
+  last_checked: '2026-08-28'
+  notes: Medical Chaperones
+- id: oar-847-010-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-010-0140
+  sha256: c14dbe6fa25cdfdb7742fe4068e25397e689e1a914eb1d4f69eeca3e3580a63e
+  last_checked: '2026-08-28'
+  notes: Health Care Interpreters
+- id: oar-847-010-0200
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-010-0200
+  sha256: a497233866eb16eacd3e4ae6cb774229141f96a05afb724f60b6441542efa739
+  last_checked: '2026-08-28'
+  notes: Physician and Physician Associate Volunteer Practice
+- id: oar-847-010-0300
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-010-0300
+  sha256: 3152c47c98c4b06f382d4e5578b4d33851ca9d2716b96f267c400b523876ad27
+  last_checked: '2026-08-28'
+  notes: Access to Mental Health Assessment, Treatment, or Services
+- id: oar-847-015-0050
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-015-0050
+  sha256: 10780df70c51501a460d74ee6924bffb9304c7a26005ad43111ea8319ded630b
+  last_checked: '2026-08-28'
+  notes: Expedited Partner Therapy for Sexually Transmitted Infection
+- id: oar-847-017-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-017-0000
+  sha256: 8efe99c7b1209112ddcd319240f2e4a9fcfede830f6c07d77f8767bef2f523db
+  last_checked: '2026-08-28'
+  notes: Preamble
+- id: oar-847-017-0003
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-017-0003
+  sha256: b028a07aefbf1838dc3b7653ada216ffe379de8fe70d0c5ab78ff264d0e8e069
+  last_checked: '2026-08-28'
+  notes: Classification of Office-Based Surgery
+- id: oar-847-017-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-017-0005
+  sha256: 116dde5538a97330dd774759666be8eb18fba7f67a4b8bb796d7f0455badd628
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-847-017-0008
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-017-0008
+  sha256: a5ef66c633e3b8b4495295728bc0f97b86bd79a0c3639da2d2d18a2c4acdd351
+  last_checked: '2026-08-28'
+  notes: Standard of Practice
+- id: oar-847-017-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-017-0010
+  sha256: 5da9ee154d6165872b3e11b6ccf81bd03f8de80b723639e03b8a2e6672165a54
+  last_checked: '2026-08-28'
+  notes: Licensee Use of Office-Based Surgical Facilities
+- id: oar-847-017-0015
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-017-0015
+  sha256: 06315605563b0b25fa5eb7453167d79a4dfbe67a452969fea9c4d44beaf7b06d
+  last_checked: '2026-08-28'
+  notes: Selection of Procedures and Patients
+- id: oar-847-017-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-017-0020
+  sha256: fa0923c11f9bc054902f12c5554085eccdcc26c0b59e70fa951fabe253c99191
+  last_checked: '2026-08-28'
+  notes: Patient Medical Records
+- id: oar-847-017-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-017-0025
+  sha256: c644878f269402d2af884f71b0c853b3c34b986300251d3b627efde6a1d746c0
+  last_checked: '2026-08-28'
+  notes: Discharge Evaluation
+- id: oar-847-017-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-017-0030
+  sha256: 7ec70865bbdd9f5ee30cccdcc7ebf11bcb74d08c84ffbd3cc310fe7e7e0b09dd
+  last_checked: '2026-08-28'
+  notes: Emergency Care and Transfer Protocols
+- id: oar-847-017-0035
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-017-0035
+  sha256: ada343d0045daf7684e4c5ac838600bc8d35c804e6340e24c937f7b815c4dfb5
+  last_checked: '2026-08-28'
+  notes: Quality Assessment
+- id: oar-847-017-0037
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-017-0037
+  sha256: 38a4f6f6dcdf5a3b500ed1b4dacaadd379e2aab1b9eedeab864071351d26dc3e
+  last_checked: '2026-08-28'
+  notes: Reporting Requirement
+- id: oar-847-017-0040
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-017-0040
+  sha256: 8d40472a05e2301ee4a28e6d4be826acf80c031f134f7a35b1287e41528a63bd
+  last_checked: '2026-08-28'
+  notes: Facility Administration and Equipment
 - id: oar-847-020-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-020-0110
   sha256: f0333dc9ebecdd090014b1ba0bf6822455a78bc2703fa9b95c73a8fcb336048f
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
+- id: oar-847-026-0500
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-026-0500
+  sha256: 0059c93389f2a54ea95272324525318999b8cd6771aa1b9f3e9e4ada8db2f9bd
+  last_checked: '2026-08-28'
+  notes: Servicemember, Spouse or Domestic Partner Practice
 - id: oar-847-028-0030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-028-0030
   sha256: 5af0b860f8dbc0e4a1babcc9f48495f5f58ad55cf42ed074eae6d2a39d28b602
@@ -25431,14 +26681,79 @@ sources:
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-050-0015
   sha256: 41040b3e3f68332b70224c18617a42d659bd7d65b20fe8549a7e6200cd5b0cd9
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
+- id: oar-847-050-0021
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-050-0021
+  sha256: cc94d80f6b85f89f3162b711b7b58e22e202bc547312fbc4d023b840922ae96b
+  last_checked: '2026-08-28'
+  notes: Documents to be Submitted for Licensure
+- id: oar-847-050-0080
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-050-0080
+  sha256: 936e576c08e2e5583d02d1022d42af31c0359b54cb5f2e50734c7d7050e8e229
+  last_checked: '2026-08-28'
+  notes: Collaborative Practice Model
+- id: oar-847-050-0082
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-050-0082
+  sha256: 7b234f38b1aacb92e76b6d64c1913e2528cff5ca6fbe8bd1f40630ccc14806bb
+  last_checked: '2026-08-28'
+  notes: Collaboration Agreements
 - id: oar-847-070-0015
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-070-0015
   sha256: 96710136738e6a62aa79a6fa4d607476404e136ccc2e33708d5a00d0d46552fb
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
+- id: oar-847-071-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-071-0000
+  sha256: 7e80bf97d514995375b8571d02712c2ff2cddaa9385b594e8ad2f5a32e78e7c4
+  last_checked: '2026-08-28'
+  notes: Purpose Statement
+- id: oar-847-071-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-071-0005
+  sha256: e40c1650f4edae9e405931a4ce659a2a58280c9df119eeffd227f06fa2253964
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-847-071-0007
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-071-0007
+  sha256: 39df1f45a94a3a83ffabde64d0b5fc7563022674c004edaa3d842f8e226063c8
+  last_checked: '2026-08-28'
+  notes: Five-Needle Protocol Registration Required
+- id: oar-847-071-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-071-0020
+  sha256: 788ad558b9f50c71563b8105b205c6aca390a15824f7374cda14b13b2aa812fb
+  last_checked: '2026-08-28'
+  notes: Qualifications
+- id: oar-847-071-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-071-0025
+  sha256: a51d784aee1a2621ff29dee64e89d5f58edb4ed555e2ed924dbc616a12f6e8ee
+  last_checked: '2026-08-28'
+  notes: Five-Needle Protocol Training
+- id: oar-847-071-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-071-0030
+  sha256: b9b8909c037819b969805c551b808f17705ca17b8488442bcd09029a97b510c2
+  last_checked: '2026-08-28'
+  notes: Application
+- id: oar-847-071-0035
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-071-0035
+  sha256: b9feecc933ea5ea4c2cc7e7dd52f490cef04c592641b104d92b65e86bdd7cac7
+  last_checked: '2026-08-28'
+  notes: Registration
+- id: oar-847-071-0040
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-071-0040
+  sha256: dabdd0b2438724a50a1c1bdca7a25d56a6466fea0185c73ea7533b2befff9dac
+  last_checked: '2026-08-28'
+  notes: Five-Needle Protocol Regulations
+- id: oar-847-071-0050
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-071-0050
+  sha256: bb7123f0bdf7795197765220d23e8acdef3e35169cecc10dddd83d44c57717b8
+  last_checked: '2026-08-28'
+  notes: Disciplinary Proceedings
 - id: oar-847-080-0002
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-080-0002
   sha256: 88c6098b4ff27c2ad1be330f9b805919f06e26d28bf41876eedf58a5c200af5d
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
+- id: oar-847-080-0042
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=847-080-0042
+  sha256: 6b1c812fdce421f9d9f61ecfa588aca69bfd09343062122c6fc8b42622f1efa9
+  last_checked: '2026-08-28'
+  notes: Practice of Podiatry
 - id: oar-851-001-0009
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=851-001-0009
   sha256: 927128ca469d049b7381f140e922199837f828adeec6eacdf64f282279a3993f
@@ -27397,6 +28712,131 @@ sources:
   sha256: fea6560d9714288d013591465213db52148d3dee194101efa70dc7b18d258dfd
   last_checked: '2026-08-28'
   notes: Consumer-owned Utility Plans
+- id: oar-863-015-0133
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-015-0133
+  sha256: 2a4e74cb754c3021966f10b701e2712cbc8a68f66548f2979a1710bd41d37c54
+  last_checked: '2026-08-28'
+  notes: Buyer Agreements
+- id: oar-863-015-0143
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-015-0143
+  sha256: 9c6be0f2d4c99a55adccddfdcfcc8ede26e431e45b3b7a3a769d6427efcb71ee
+  last_checked: '2026-08-28'
+  notes: Real Estate Team Disclosure
+- id: oar-863-015-0245
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-015-0245
+  sha256: f5df47b564f30b325540d9bb9784752b9d3f12b5689232e98e1e718a3910ee83
+  last_checked: '2026-08-28'
+  notes: Residential Property Wholesaling Disclosure Requirements for Brokers
+- id: oar-863-017-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-017-0000
+  sha256: 9b1473f989330c8117a0535dc5e5c5e4913eaf7fd5845688aec66d459e7f5f7e
+  last_checked: '2026-08-28'
+  notes: Applicability and Purpose
+- id: oar-863-017-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-017-0005
+  sha256: fbf214419bfe6f54b2bffc5c1a298158b7e279369bc7ce22e4417a83b41fff84
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-863-017-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-017-0010
+  sha256: 045f0d5d1b915989fce9037bbef09c78f1c801b51ef2a3c947e5230feae55563
+  last_checked: '2026-08-28'
+  notes: Registration Application Content
+- id: oar-863-017-0015
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-017-0015
+  sha256: 60cbc11913977f9611ad71a5014fac8cb82dd2c3ca0139902e0e5a95918aaf20
+  last_checked: '2026-08-28'
+  notes: Background Check Application and Fingerprint
+- id: oar-863-017-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-017-0020
+  sha256: 2e5bd3c79903a524f9d43603903c7583808ccd5ad56ff0ae209e9a5aa2bfa523
+  last_checked: '2026-08-28'
+  notes: Term of Registration
+- id: oar-863-017-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-017-0025
+  sha256: 124097bab5b7c7ee8c448aa43c103554c201d2e2ef52b68574195706767611f4
+  last_checked: '2026-08-28'
+  notes: Disclosure Requirements
+- id: oar-863-022-0013
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-022-0013
+  sha256: 588c9713c3c638db7386675968e6004aaa6002ec4c681e5743e2c9d17ef8f4d7
+  last_checked: '2026-08-28'
+  notes: Course Requirements for Timeshare Sales Agent License Applicants
+- id: oar-863-022-0057
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-022-0057
+  sha256: f7d107857606a6d6a6651cd6d008aa5b8773113551b677c1e398fea4772d8a7e
+  last_checked: '2026-08-28'
+  notes: Board Approval of State and Federal Fair Housing Course
+- id: oar-863-035-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0000
+  sha256: 063f4b32d74496ffddea31ff8404e22070d57557e17fe95d3ec42b69f0189e97
+  last_checked: '2026-08-28'
+  notes: Application and Purpose
+- id: oar-863-035-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0010
+  sha256: a137e819da236059933732b2022f5ca2c0f5a1c87b49e2786197cccfc0fa23ce
+  last_checked: '2026-08-28'
+  notes: Definitions
+- id: oar-863-035-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0020
+  sha256: af0e858b02637bcf629545689dc7b647c753c8aebdb54966d6bf79346a14c625
+  last_checked: '2026-08-28'
+  notes: License Application Content
+- id: oar-863-035-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0030
+  sha256: 578138ab647f1e36eb83477137e19bc73488e947e4dfc75665bbd763751a1a25
+  last_checked: '2026-08-28'
+  notes: Background Check Application and Fingerprint
+- id: oar-863-035-0040
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0040
+  sha256: 8ecce20b42a057c050b88468d5510f566e8677feba7fc03f9c88a7a26c311949
+  last_checked: '2026-08-28'
+  notes: Examinations
+- id: oar-863-035-0050
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0050
+  sha256: 6535ae86178d650584e6315ec0a88239537deb4663be728b4e4d26ec682956de
+  last_checked: '2026-08-28'
+  notes: License Issue, Term and Form
+- id: oar-863-035-0060
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0060
+  sha256: d9ef416fc3794a52303b6e00e996150527830009910c01c00da5c9fc6859711d
+  last_checked: '2026-08-28'
+  notes: Timeshare Sales Agent Licensing Requirements
+- id: oar-863-035-0070
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0070
+  sha256: bde184e263565a3a894e54bf892e052518b9491fba069f4dce942f931600e67c
+  last_checked: '2026-08-28'
+  notes: License Renewal
+- id: oar-863-035-0080
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0080
+  sha256: a7b4b9992e2cb45d83ffc433966e244404c1da78c6abb1aafc25976fcdaebb50
+  last_checked: '2026-08-28'
+  notes: Authorization for Armed Forces Servicemembers and Their Spouses or Domestic Partners
+- id: oar-863-035-0090
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0090
+  sha256: c8a68122a7bf41b1b93378c06b2cca0b387b0a8eebfb0569765343327ad61943
+  last_checked: '2026-08-28'
+  notes: Timeshare Sales Agent Transfers, Managing Principal Brokers' Responsibilities, Authority t
+- id: oar-863-035-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0100
+  sha256: af4262afec12194b13597f90ecc2c5c7a27bee004c952ccddff1b6db2e533609
+  last_checked: '2026-08-28'
+  notes: Inactive License, Change License Status to Active, License Reactivation
+- id: oar-863-035-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0110
+  sha256: d23edd91a522c70bfecfc94d46afd3d621ccb6807ee03fc825593114182c7d9e
+  last_checked: '2026-08-28'
+  notes: Licensee Name Change
+- id: oar-863-035-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0120
+  sha256: 3ef5bf0dea1faeabb9a2ca3284b3f46421926c7a20ccb193c23ba2cc1fee103c
+  last_checked: '2026-08-28'
+  notes: License Surrender
+- id: oar-863-035-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=863-035-0130
+  sha256: 337f6a9677e1ec194b996ef84492c6b9b03bf7afb21782e014a1168134ba5804
+  last_checked: '2026-08-28'
+  notes: Reissuing Suspended License
 - id: oar-875-010-0031
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=875-010-0031
   sha256: d621daa0ec2f96d15dc6cd89a6e356bce61824883e3c1660c770c52e5109f176

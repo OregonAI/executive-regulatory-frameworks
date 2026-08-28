@@ -1,0 +1,185 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Energy 
+ Energy Facility Siting Council - Chapter 345 
+ 
+ 
+ 
+ 
+ Division 24 SPECIFIC STANDARDS FOR SITING FACILITIES 
+ 345-024-0503 
+ Definitions for OAR 345-024-0500 to 345-024-0720 
+ 
+ In OAR 345-024-0500 to 345-024-0720, unless the context requires otherwise terms have the meaning provided in ORS 469.300, 469.503(2)(e) and the following definitions: 
+
+ (1) “Gross carbon dioxide emissions” as defined in ORS 469.503(2)(e). The Council must measure the gross carbon dioxide emissions of a fossil-fueled power plant on a new and clean basis. For nongenerating energy facilities that emit carbon dioxide, the Council must measure the gross carbon dioxide emissions as described in OAR 345-024-0620(1). 
+
+ (2) “Natural gas-fired facility” means an energy facility that is intended to be fueled by natural gas except for infrequent periods when the natural gas supply is interrupted, during which an alternate fuel may be used. Such alternate fuel use may not exceed 10 percent of expected fuel use in British thermal units, higher heating value on an annual basis. 
+
+ (3) “New and clean basis” means the average carbon dioxide emissions rate per hour and net electric power output of the energy facility, without degradation. The site certificate holder must determine the new and clean basis: 
+
+ (a) By a 100-hour test at full power that the site certificate holder completes during the first 12 months of commercial operation of the energy facility, unless the Council specifies a different testing period for a non-base load power plant (or power augmentation) or a nongenerating energy facility. A 100-hour test performed for purposes of the certificate holder’s commercial acceptance of the facility may suffice in lieu of testing after beginning commercial operation; 
+
+ (b) With the results adjusted for the average annual site condition for temperature, barometric pressure and relative humidity and use of alternative fuels unless the Council specifies that the results for a non-base load power plant (or power augmentation) or a nongenerating energy facility be adjusted for the average temperature, barometric pressure and relative humidity at the site during the times of the year when the facility is intended to operate; 
+
+ (c) Using a rate of 117 pounds of carbon dioxide per million Btu of natural gas fuel (higher heating value); and, 
+
+ (d) Using a rate of 161 pounds of carbon dioxide per million Btu of distillate fuel (higher heating value), if such fuel use is proposed by the applicant. 
+
+ (e) Notwithstanding subsection (a) and including subsections (b) through (d), for a facility that employs major power generating equipment that has previously been used, the new and clean basis means the average carbon dioxide emissions rate and net electric power output for the first use of the equipment at the site, as determined by historical data from the previous usage or by testing on site. 
+
+ (4) “Non-base load power plant” means a fossil-fueled generating facility that is limited by the site certificate to an average number of hours of operation per year of not more than 6,600 hours. For a non-base load power plant designed to operate at variable loads, the facility’s annual hours of operation are determined by dividing the actual annual electric output of the facility in megawatt-hours by the facility’s nominal electric generating capacity in megawatts. The Council will assume a 30-year life for the plants for purposes of determining gross carbon dioxide emissions, unless the applicant requests and the Council approves a shorter operational life in the site certificate. If the Council approves a shorter operational life, the certificate holder must operate the facility for no longer than the approved operational life or, before the expiration of the approved operational life, must request an amendment of the site certificate to extend the operational life. 
+
+ (5) “Offset funds” means the amount of funds determined by the Council to satisfy the applicable carbon dioxide emissions standard pursuant to OAR 345-024-0560(3), 345-024-0600(3) or 345-024-0630(2) and (4). 
+
+ (6) “Power augmentation” means technologies that increase the capacity and the heat rate of the plant above the capacity and heat rate of the base load gas plant. These include, but are not limited to, duct burning and some forms of steam augmentation. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 469.470 
+ 
+ 
+ Statutes/Other Implemented:  ORS 469.413, 469.501 & 469.503 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EFSC 1-2022, adopt filed 07/25/2022, effective 07/25/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
