@@ -154,6 +154,11 @@ jobs:
       # builds the FTS index from scratch on a fresh checkout.
       - name: Citation schemes must resolve, and refuse, what they claim
         run: python3 src/citation_schemes.py --selftest
+      # #210's own three-state classification (mirrored / not-mirrored-but-known-real /
+      # not-mirrored-and-unknown), proved against synthetic mirrored/catalog sets so it
+      # stays fast and stays correct as chapters are ingested out from under it.
+      - name: ORS chapter-gap classification must all be able to fail
+        run: python3 src/scan_ors_citations.py --selftest
       # A re-analysis must never delete a prior run's candidates. The merge used to
       # replace an already-covered chapter's list wholesale, so a weaker model silently
       # destroyed findings a stronger one produced — 25 of 137 would have gone in a
@@ -316,6 +321,13 @@ jobs:
       # it changes when federal-reference publishes and no PR here causes or fixes that.
       - name: External-citation catalog must be current
         run: python3 src/scan_external_citations.py --check
+      # #210: every ORS chapter this corpus's own documents cite that is outside
+      # _meta/sources/ors.yml's mirrored selection, so the next chapter-151 is a number
+      # this gate fails on rather than a ticket someone happens to notice. No siblings and
+      # no network here (chapter mirroring is entirely this repo's own committed state),
+      # so unlike the federal scan above, the WHOLE generated file is compared.
+      - name: ORS chapter-gap catalog must be current
+        run: python3 src/scan_ors_citations.py --check
       - name: Authority-chain explorer must be current
         run: python3 src/build_authority_explorer.py --check
       - name: Semantic topic map must be current (reads committed UMAP cache)

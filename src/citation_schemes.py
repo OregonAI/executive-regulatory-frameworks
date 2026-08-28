@@ -24,9 +24,15 @@ EO_C = re.compile(r"(?:EO|Executive\s+Order)\s*(?:No\.?\s*)?(?:20)?(\d{2})-(\d{1
 NUMS_C = re.compile(r"(?:DAS|policy|statewide policy|OAM)?\s*([\d]{2,3}[.\-][\d]{3}[.\-][\d]{2,4})\s*$", re.I)
 
 ORS_DISPOSITION_PATH = REPO_ROOT / "_meta/catalog/ors-disposition.yml"
+ORS_SOURCES_PATH = REPO_ROOT / "_meta/sources/ors.yml"
+ORS_CATALOG_PATH = REPO_ROOT / "_meta/catalog/ors.yml"
 
 _RENUM = None
 _ORS_DISPOSITION = None
+_ORS_MIRRORED_CHAPTERS = None
+_ORS_CATALOG_CHAPTERS = None
+
+_ORS_CHAPTER_RE = re.compile(r"^(\d+[a-z]?)\.")
 
 
 def _renumber(rule):
@@ -44,6 +50,69 @@ def _ors_disposition(section):
             cat = yaml_load(ORS_DISPOSITION_PATH.read_text())
             _ORS_DISPOSITION = {s["section"]: s for s in cat.get("sections", [])}
     return _ORS_DISPOSITION.get(section)
+
+
+def _ors_mirrored_chapters():
+    """Every chapter number this corpus has actually selected and ingested — the `ors`
+    source group's own sources, which is the ground truth `ingest_ors.py` reads and writes
+    (CONTEXT.md's Ingest status, one level up: a CHAPTER selected, not a document held).
+    Lowercased, so '45A' and '45a' are the same key a citation's own lowercased chapter
+    can look up."""
+    global _ORS_MIRRORED_CHAPTERS
+    if _ORS_MIRRORED_CHAPTERS is None:
+        chapters = set()
+        if ORS_SOURCES_PATH.exists():
+            group = yaml_load(ORS_SOURCES_PATH.read_text()) or {}
+            for s in group.get("sources", []):
+                m = re.match(r"ors-chapter-(\w+)$", str(s.get("id", "")))
+                if m:
+                    chapters.add(m.group(1).lower())
+        _ORS_MIRRORED_CHAPTERS = chapters
+    return _ORS_MIRRORED_CHAPTERS
+
+
+def _ors_catalog_chapters():
+    """{chapter number: title} for every chapter `_meta/catalog/ors.yml`'s discovery map
+    knows about — a live scrape of oregonlegislature.gov's chapter pages, NOT a complete
+    enumeration of Oregon's ORS numbering space (the catalog's own note: "relevant to
+    DAS/executive-branch administration"). A chapter appearing here, mirrored or not, is
+    POSITIVE evidence it is real — Oregon's own chapter page was fetched and titled. A
+    chapter's absence here is never evidence it is NOT real; the catalog was never asked
+    about most of the numbering space, so silence from it answers nothing."""
+    global _ORS_CATALOG_CHAPTERS
+    if _ORS_CATALOG_CHAPTERS is None:
+        out = {}
+        if ORS_CATALOG_PATH.exists():
+            cat = yaml_load(ORS_CATALOG_PATH.read_text()) or {}
+            for c in cat.get("chapters", []):
+                out[str(c.get("chapter", "")).lower()] = c.get("title", "")
+        _ORS_CATALOG_CHAPTERS = out
+    return _ORS_CATALOG_CHAPTERS
+
+
+def _ors_chapter_absence_note(chapter: str):
+    """#210. TWO ANSWERS, and they must never collapse into one: a chapter this corpus
+    chose not to ingest is a coverage gap and a claim about THIS MIRROR; a chapter number
+    nothing here can corroborate is neither confirmed real nor confirmed bogus, and is
+    reported as exactly that rather than guessed either way (AGENTS.md: "could not check"
+    is never reported as "is not there"). `None` when the chapter IS mirrored — the
+    citation names a real, wrong, or renumbered SECTION instead, which is a different
+    question this function does not answer."""
+    if chapter in _ors_mirrored_chapters():
+        return None
+    title = _ors_catalog_chapters().get(chapter)
+    if title is not None:
+        named = f" ({title})" if title else ""
+        return (f"this corpus does not mirror ORS chapter {chapter}{named}. It is a real "
+                f"chapter — recorded in _meta/catalog/ors.yml's discovery map, scraped "
+                f"from oregonlegislature.gov — that was not selected for ingestion; this "
+                f"is a coverage gap, not a citation to nothing.")
+    return (f"this corpus does not mirror ORS chapter {chapter}, and cannot tell whether "
+            f"it is a real, un-ingested chapter or not a chapter Oregon uses. "
+            f"_meta/catalog/ors.yml's discovery map — the only source of positive "
+            f"evidence this corpus keeps — is scoped to chapters relevant to "
+            f"DAS/executive-branch administration and was never asked about this one, so "
+            f"its silence proves nothing either way. Reported as unmirrored, not guessed.")
 
 
 _MINED_CAVEAT = ("Mechanically mined from the chapter's own legislative-history "
@@ -96,6 +165,16 @@ def _resolve_ors(m, nodes):
                 ("Returning the current text. " if held else
                  "The destination is not held in this corpus. ") + _MINED_CAVEAT)
         return held, note
+    # #210: neither repealed nor renumbered explains the miss, so before falling through
+    # to "no such document exists" — the answer a genuinely WRONG citation earns — check
+    # whether the miss is explained one level up, at the CHAPTER: a citation into a
+    # chapter this corpus never selected for ingestion is a stated ABSENCE, never the
+    # generic unresolved answer, and the two must not read alike (CONTEXT.md).
+    m2 = _ORS_CHAPTER_RE.match(section)
+    if m2:
+        note = _ors_chapter_absence_note(m2.group(1))
+        if note is not None:
+            return [], note
     return [cid]
 
 
@@ -486,6 +565,7 @@ def _selftest() -> int:
         _proof_the_citation_resolves_end_to_end(ck, fw)
         _proof_flagged_schemes_survive_registration(ck, fw)
         _proof_federal_schemes_survive_registration(ck, fw)
+        _proof_ors_unmirrored_chapter_states_absence(ck, fw)
     return ck.report("citation-schemes selftest")
 
 
@@ -758,6 +838,61 @@ def _proof_flagged_schemes_survive_registration(ck, fw):
         ck(f"{label}: {lower!r} resolves THE SAME WAY through resolve_citation "
            f"— the flag reached the served resolver",
            got_lower == got_upper)
+
+
+def _proof_ors_unmirrored_chapter_states_absence(ck, fw):
+    """#210. A citation to an ORS chapter this corpus never selected for ingestion must
+    resolve to a stated ABSENCE ("this corpus does not mirror ORS chapter N") and never to
+    the generic "no such document exists" a citation to a genuinely WRONG section — one
+    inside a chapter this corpus DOES hold — gets. CONTEXT.md: those are two different
+    facts, and before this fix `resolve_citation` answered both identically.
+
+    THREE CASES, measured on the committed corpus rather than assumed:
+
+      * ORS 79.010 -- chapter 79 (Secured Transactions, Former Provisions) is cited by
+        this corpus and is not mirrored. It IS a real chapter: `_meta/catalog/ors.yml`'s
+        discovery map lists it, scraped from oregonlegislature.gov, just never selected for
+        ingestion. This is the coverage-gap case #210 was filed about, generalized past the
+        one chapter (151) that happened to get noticed -- re-measured on this corpus, 21
+        other chapters share this exact shape (cited, real per the catalog, not mirrored).
+      * ORS 935.035 -- chapter 935 is cited once (an OAR rule's authority line, apparently
+        a transcription of chapter 835) and is absent from BOTH the mirrored set and the
+        discovery catalog. Nothing here can tell a real, un-ingested chapter apart from a
+        typo or a chapter Oregon does not use, and the note says so explicitly rather than
+        guessing either way.
+      * ORS 151.999 -- chapter 151 IS mirrored (18 sections, landed for this same issue).
+        Section .999 does not exist in it. This is the WRONG-citation case, and it must
+        keep the answer it already had -- unaffected by the fix above."""
+    r = fw.resolve_citation("ORS 151.211")
+    ck("ORS 151.211 resolves now that chapter 151 is mirrored",
+       [m["id"] for m in r["matches"]] == ["ors-151.211"])
+
+    r = fw.resolve_citation("ORS 79.010")
+    ck("a citation to a real, un-mirrored chapter resolves to nothing",
+       bool(r.get("unresolved")) and not r["matches"])
+    note = r.get("note") or ""
+    ck("...and states the absence explicitly, naming the chapter",
+       "does not mirror ORS chapter 79" in note)
+    ck("...and says it IS a real chapter, backed by the discovery catalog",
+       "discovery" in note.lower() and "cannot tell" not in note.lower())
+    ck("...and does not read like the generic wrong-citation answer",
+       "no such document exists" not in note)
+
+    r = fw.resolve_citation("ORS 935.035")
+    ck("a citation to a chapter with no corroborating evidence resolves to nothing",
+       bool(r.get("unresolved")) and not r["matches"])
+    note = r.get("note") or ""
+    ck("...and says explicitly it cannot tell a real un-mirrored chapter from a chapter "
+       "number Oregon does not use",
+       "does not mirror ORS chapter 935" in note and "cannot tell" in note.lower())
+    ck("...and does not fabricate a claim the discovery catalog does not support",
+       "discovery" in note.lower())
+
+    r = fw.resolve_citation("ORS 151.999")
+    ck("a wrong section inside a chapter this corpus DOES hold keeps the OLD generic "
+       "answer, unaffected by the chapter-level fix",
+       bool(r.get("unresolved")) and not r["matches"]
+       and "no such document exists" in (r.get("note") or ""))
 
 
 def _proof_federal_schemes_survive_registration(ck, fw):

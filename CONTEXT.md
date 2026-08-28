@@ -213,6 +213,35 @@ first collide nothing else in the repository would notice.
 _Avoid_: Status, unqualified. The two fields share a name and mean different things, which is
 why both entries exist
 
+**Chapter selection**:
+Whether an ORS chapter is in this corpus's mirror AT ALL — one level up from Ingest status,
+which is about a document WITHIN a chapter already selected. It lives in
+`_meta/sources/ors.yml`'s `ors` group, titled "ingested chapters" to say a selection is
+intended rather than complete coverage (545+ of Oregon's chapters, and growing). #210 is
+the case that forced the distinction: 59 citations pointed at ORS chapter 151 and it was
+outside the selection, and `citation_schemes._resolve_ors` answered exactly as it would
+have for a citation to a chapter number Oregon does not use — the ORS scheme's OWN version
+of collapsing "could not check" into "is not there" (AGENTS.md). A citation into an
+unselected chapter is a claim about THIS MIRROR and never about Oregon law, so it is now a
+stated ABSENCE ("this corpus does not mirror ORS chapter N"), distinct from the generic
+answer a citation to a genuinely WRONG section — one inside a chapter this corpus DOES
+hold — gets. TWO STATES BENEATH THAT ABSENCE, which may never be collapsed into one: a
+chapter `_meta/catalog/ors.yml`'s discovery map also lists (`not_mirrored_known_real`) is a
+REAL chapter, scraped from oregonlegislature.gov, simply not selected — a coverage gap; a
+chapter absent from both the mirrored set AND the discovery map
+(`not_mirrored_unknown`) gets neither verdict, because the discovery map is itself scoped
+to chapters "relevant to DAS/executive-branch administration" and was never asked about
+most of the numbering space — its silence proves nothing, and is reported as exactly that
+rather than guessed either way. `src/scan_ors_citations.py --check` (CI, every PR) is the
+gate: measured on the committed corpus, 80 chapters this corpus's own documents cite sit
+outside the selection (14 corroborated real via the discovery map, 66 with no evidence
+either way) — chapter 151 among neither any more, having been mirrored for this fix, and
+chapter 31 the largest remaining single gap at 284 citations across 127 documents (status
+`not_mirrored_unknown` — not even in the discovery map, so its title is not asserted here
+either), dwarfing the one chapter this ticket happened to notice.
+_Avoid_: Coverage, ingested — the first is vague about which of the two levels (chapter or
+document) it means, and the second is Ingest status's word for the level below this one
+
 **Worklist corpus state**:
 What the Oregon Bulletin's monthly worklist knows about a rule a filing named, and it is
 THREE things: `held` (a document is in `rules/`), `missing_from_mirrored_chapter` (this
