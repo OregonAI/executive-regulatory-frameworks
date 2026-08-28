@@ -392,7 +392,7 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   it is — WRITER, READER, NOT-A-RULE or NOT-A-LEGAL-STATUS — and
   `python3 src/legal_status.py --check` (CI, every PR) fails on an unmarked one, on a second
   module marked WRITER, on a "reader" that kept a literal of its own, on either field named
-  `status` holding the other's vocabulary across the 37,007 catalog rule entries, and on a
+  `status` holding the other's vocabulary across the 42,615 catalog rule entries, and on a
   document that stopped agreeing with the catalog row it was stamped from. `--selftest` proves
   every one of those can fail, the two mutations included.
   A REPEALED OR SUSPENDED RULE IS MARKED, NEVER DELETED (#229, ADR 0006). The August 2026
@@ -561,11 +561,16 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
 
 ## Commit conventions
 
-Record agent authorship with a commit trailer, e.g.:
+Record agent authorship with commit trailers, e.g.:
 
 ```
-Assisted-by: Claude Code (supervised)
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_...
 ```
+
+(This replaces an earlier documented convention, `Assisted-by: Claude Code (supervised)`,
+which none of this branch's or main's recent commits carry — a document describing a
+convention nobody follows is a claim that stopped being true, and this is the actual one.)
 
 ## Relationship graph
 

@@ -21,8 +21,11 @@ every division and every CURRENT rule number with its leadline, in one static
 page. Discovery only: rule CONTENT is always fetched from the official OARD
 per-rule URL by ingest_oar.py, same as before. Chapter titles come from the
 agency registry's OAR name (`oar_name` in _meta/catalog/agencies.yml — the title
-this same upstream index prints for the chapter); division titles and rule
-leadlines from OARD's own chapter page.
+this same upstream index prints for the chapter); division titles from OARD's
+own chapter page. The chapter page also prints a leadline beside every rule
+number; nothing in this repo reads it (rule titles are recovered per-rule, from
+the rule's own cached snapshot, by backfill_oar_titles.py) so it is parsed only
+far enough to find the rule number and is not carried into the catalog.
 
 MERGE, NEVER REPLACE: OARD's chapter listing is a CURRENT rules view, so a
 rule already in this catalog and absent from it is history (a renumber or a
@@ -162,14 +165,20 @@ def chapter_id_map(raw: str) -> dict:
 
 
 def parse_chapter_rules(raw: str) -> list:
-    """One `displayChapterRules.action` page -> [(division, title, [(rule, leadline)])].
+    """One `displayChapterRules.action` page -> [(division, title, [rule_number, ...])].
 
     Pure parsing, no network -- the seam `--selftest` exercises directly. Each division's
     heading is printed TWICE on the page (once as "Division N - TITLE", once as bare
     "TITLE"); matching only the "Division N -" form and slicing the raw HTML between one
     match and the next is what keeps a division's rules from leaking into its neighbour's,
     and needs `re.S` -- a title that wraps a newline (`INTELLECTUAL PROPERTY\\n`) is exactly
-    where a `.` without DOTALL silently drops 23 of chapter 813's 82 divisions."""
+    where a `.` without DOTALL silently drops 23 of chapter 813's 82 divisions.
+
+    RULE_RE's second group matches the leadline text printed beside each rule number, which
+    the page requires `re.S` to reach across too (a leadline that wraps a newline before its
+    closing `</p>` is chapter 813 division 4, live) -- but nothing in this module or its
+    callers reads the captured text itself (module docstring), so it is discarded here
+    rather than threaded through merge_divisions and the catalog schema for no reader."""
     matches = list(DIVISION_RE.finditer(raw))
     divisions = []
     for i, m in enumerate(matches):
@@ -178,9 +187,8 @@ def parse_chapter_rules(raw: str) -> list:
         start = m.end()
         end = matches[i + 1].start() if i + 1 < len(matches) else len(raw)
         chunk = raw[start:end]
-        rules = [(num, re.sub(r"\s+", " ", unescape(lead)).strip())
-                 for num, lead in RULE_RE.findall(chunk)]
-        divisions.append((div_num, div_title, rules))
+        rule_numbers = [num for num, _leadline in RULE_RE.findall(chunk)]
+        divisions.append((div_num, div_title, rule_numbers))
     return divisions
 
 
@@ -208,6 +216,34 @@ def catalog_claimed_numbers(cat: dict) -> set:
     return claimed
 
 
+# Marks written by merge_divisions, read back by history_count() and (the division-level
+# ones) by review_queue.py -- named here, not underscored, because they cross that module
+# boundary the same way legal_status.ACTION_KEY/CATALOG_KEY/NOTICE_KEY do: imported rather
+# than respelled, so a reader stops finding what the writer writes only if this constant
+# itself changes.
+HISTORY_MARK = "not on OARD's current chapter listing"
+VANISHED_DIVISION_MARK = "no longer listed on OARD"
+CLAIMED_ELSEWHERE_DIVISION_MARK = "every rule OARD lists here is already claimed under another row"
+CONFIRMED_EMPTY_DIVISION_MARK = "OARD lists no current rules under this division"
+_HISTORY_SUFFIX_RE = re.compile(r" \(" + re.escape(HISTORY_MARK) + r".*\)$")
+
+
+def display_note(note: str) -> str:
+    """The note a HUMAN should read, with a carry-forward HISTORY_MARK suffix stripped.
+
+    merge_divisions appends that suffix to whatever note a row already had (#270 follow-up:
+    the mark must land even on a row ingest_oar.py already wrote one for, or history_count()
+    undercounts -- see merge_divisions's own comment). For the 533 renumbered/not_served
+    rows, that existing note ALREADY says why the row is absent from OARD's current listing
+    under its own number ("OARD serves 123-021-2100 for this number" implies exactly that),
+    so the appended suffix is true but redundant -- and review_queue.py's renumbered section
+    truncates at 90 characters, so the redundant half was pushing the useful half (which
+    number OARD actually serves) out of what a reviewer sees. Callers that want the raw,
+    unstripped note for counting (history_count) read `note` directly; callers building
+    something a HUMAN reads should call this first."""
+    return _HISTORY_SUFFIX_RE.sub("", note or "")
+
+
 def merge_divisions(old_divisions: list, discovered: list, claimed_elsewhere: set = frozenset()) -> tuple:
     """MERGE, NEVER REPLACE (#270). `discovered` is what OARD's chapter page names today
     (a CURRENT rules view); `old_divisions` is what the catalog already holds for THIS
@@ -219,10 +255,17 @@ def merge_divisions(old_divisions: list, discovered: list, claimed_elsewhere: se
     IS still named.
 
     `claimed_elsewhere` is `catalog_claimed_numbers()` computed BEFORE this chapter's own
-    numbers exist in it (#237): a number OARD names for this chapter that some OTHER
-    chapter's row already authoritatively claims is named in the returned skip list, never
-    given a second row here -- the one existing row remains the only one, exactly as
-    #237 requires.
+    numbers exist in it (#237): a number OARD names for this chapter that some OTHER row
+    already authoritatively claims -- another chapter's, or, live 2026-08-27 in chapter
+    199, a row filed under a DIFFERENT DIVISION of this SAME chapter -- is named in the
+    returned skip list, never given a second row here. "Other chapter" is the common case,
+    not the rule; #237's invariant is about rows, not chapters.
+
+    NEVER MUTATES `old_divisions` OR ANYTHING IN IT. A run whose merge would drop a rule
+    row raises before saving (WouldRemoveRules), and `cmd_discover` is written on the
+    assumption that a raised merge leaves the caller's catalog exactly as it found it --
+    which requires every dict this function hands back to be a fresh one, never the same
+    object a mutated `old_divisions` row already was.
 
     Returns (new_divisions, skipped_claimed_elsewhere)."""
     old_rules_by_number = {}
@@ -234,43 +277,85 @@ def merge_divisions(old_divisions: list, discovered: list, claimed_elsewhere: se
 
     new_divisions = []
     skipped = []
-    for div_num, div_title, rules in discovered:
-        named_numbers = {num for num, _leadline in rules}
+    for div_num, div_title, rule_numbers in discovered:
+        named_numbers = set(rule_numbers)
         row_list = []
+        division_skipped = []
         # DEDUPE BY NUMBER. OARD's chapter page prints a number MORE THAN ONCE when a
         # single number is ambiguous and its own per-rule page is a search-results list,
         # not a rule (#251's live case: 165-020-0125, 5 leadlines under one number on the
-        # chapter page too). Walking `rules` unfiltered gave that one number 5 identical
-        # rows, caught by catalog_agreement.py's #237 gate: "2 document(s) are claimed by
-        # more than one non-renumbered row." One row per NUMBER, same as every other rule.
-        for num in dict.fromkeys(num for num, _leadline in rules):
-            entry = old_rules_by_number.get(num)
-            if entry is None:
+        # chapter page too). Walking `rule_numbers` unfiltered gave that one number 5
+        # identical rows, caught by catalog_agreement.py's #237 gate: "2 document(s) are
+        # claimed by more than one non-renumbered row." One row per NUMBER, same as every
+        # other rule.
+        for num in dict.fromkeys(rule_numbers):
+            old_entry = old_rules_by_number.get(num)
+            if old_entry is None:
                 if num in claimed_elsewhere:
                     skipped.append(num)
+                    division_skipped.append(num)
                     continue
-                entry = {"number": num, "status": "not_ingested"}
-            entry["number"] = num
-            row_list.append(entry)
+                row_list.append({"number": num, "status": "not_ingested"})
+            else:
+                # A FRESH COPY, never the object living inside `old_divisions` -- see the
+                # docstring above. `entry["number"] = num` used to write straight into that
+                # shared object, which is harmless when `num` already equals it (the only
+                # way it gets here) but was still a mutation the caller never asked for.
+                row_list.append(dict(old_entry, number=num))
         old_div = old_by_division.get(div_num)
         for r in (old_div.get("rules") if old_div else []) or []:
             if r["number"] not in named_numbers:
-                r.setdefault("note", "not on OARD's current chapter listing "
-                                      "— history, kept (ADR 0006, #270)")
+                r = dict(r)  # a fresh copy -- see the docstring above
+                # THE HISTORY MARK IS A FACT, THE NOTE TEXT IS PROSE (#270 follow-up). A
+                # row can already carry a note from an earlier writer -- ingest_oar.py
+                # overwrites `note` directly for its own per-rule cases, and #241 is why
+                # this module never does the same. `setdefault` used to mean such a row
+                # was carried forward SILENTLY, unmarked, and invisible to history_count():
+                # live chapter 813 has 52 rows OARD's current listing does not name, and
+                # the old setdefault-only code marked only 51 -- 813-005-0020 already
+                # carried the #251 search-results-list note and the mark never landed.
+                # Appending keeps that existing note intact (#241's lesson) while still
+                # guaranteeing HISTORY_MARK ends up in it either way.
+                existing_note = r.get("note")
+                if not existing_note:
+                    r["note"] = f"{HISTORY_MARK} — history, kept (ADR 0006, #270)"
+                elif HISTORY_MARK not in existing_note:
+                    r["note"] = f"{existing_note} ({HISTORY_MARK} — history, kept, ADR 0006 #270)"
                 row_list.append(r)
         row_list.sort(key=lambda r: r["number"])
-        new_divisions.append({
+        division = {
             "division": div_num,
             "title": div_title,
             # THE SAME ONE DECLARATION ingest_oar uses (#236).
             "status": division_status(row_list),
             "rules": row_list,
-        })
+        }
+        if not row_list:
+            # AN EMPTY DIVISION IS A CLAIM, NOT A GAP (#270 follow-up). Both cases below
+            # were mechanically confirmed by this run, not left unenumerated -- neither
+            # belongs in REVIEW.md's "could not enumerate mechanically" section, and
+            # review_queue.py reads these two marks to say so.
+            if division_skipped:
+                # Every number OARD lists here is a served_as target some other row
+                # already claims (live case: chapter 199 division 8 -- OARD lists six
+                # numbers, all six already claimed by rows filed under divisions 1 and 5
+                # of this SAME chapter). The division is real; there is nothing to
+                # enumerate a SECOND time under its own number.
+                division["note"] = (
+                    f"{CLAIMED_ELSEWHERE_DIVISION_MARK} ({len(division_skipped)} rule(s): "
+                    f"{', '.join(sorted(division_skipped))}) — covered, not a gap")
+            elif not rule_numbers:
+                # OARD's own page said so ("There are no rules to display."), live case
+                # chapter 104 division 25 -- a confirmed-empty division, not one this run
+                # failed to enumerate.
+                division["note"] = f"{CONFIRMED_EMPTY_DIVISION_MARK} — confirmed, not a gap"
+        new_divisions.append(division)
 
     # keep any old divisions OARD no longer lists at all (never silently drop)
     seen = {d["division"] for d in new_divisions}
     for d in old_divisions:
         if d["division"] not in seen and (d.get("rules") or []):
+            d = dict(d)  # a fresh copy -- see the docstring above
             d.setdefault("note", "division no longer listed on OARD — verify upstream")
             new_divisions.append(d)
     return new_divisions, skipped
@@ -278,10 +363,6 @@ def merge_divisions(old_divisions: list, discovered: list, claimed_elsewhere: se
 
 def _rule_numbers(divisions: list) -> set:
     return {r["number"] for d in divisions for r in (d.get("rules") or [])}
-
-
-_HISTORY_MARK = "not on OARD's current chapter listing"
-_VANISHED_DIVISION_MARK = "no longer listed on OARD"
 
 
 def history_count(cat: dict) -> int:
@@ -293,17 +374,18 @@ def history_count(cat: dict) -> int:
     n = 0
     for c in cat.get("chapters", []):
         for d in c.get("divisions") or []:
-            if _VANISHED_DIVISION_MARK in (d.get("note") or ""):
+            if VANISHED_DIVISION_MARK in (d.get("note") or ""):
                 n += len(d.get("rules") or [])
                 continue
             n += sum(1 for r in (d.get("rules") or [])
-                     if _HISTORY_MARK in (r.get("note") or ""))
+                     if HISTORY_MARK in (r.get("note") or ""))
     return n
 
 
 def discover_chapter(ch: str, title: str, chapter_id: str, cat: dict) -> tuple:
     """Fetch one chapter's divisions + rule numbers from OARD; merge into cat preserving
-    existing rule statuses. Returns (n_divisions, n_rules, n_new, n_claimed_elsewhere)."""
+    existing rule statuses. Returns
+    (n_divisions, n_divisions_added, n_rules, n_new, n_claimed_elsewhere)."""
     raw = get(f"{OARD_BASE}/displayChapterRules.action?selectedChapter={chapter_id}")
     time.sleep(0.2)
     discovered = parse_chapter_rules(raw)
@@ -318,6 +400,7 @@ def discover_chapter(ch: str, title: str, chapter_id: str, cat: dict) -> tuple:
         raise DiscoveredNothing(ch)
 
     old_divisions = (existing or {}).get("divisions", [])
+    old_division_numbers = {d["division"] for d in old_divisions}
     before = _rule_numbers(old_divisions)
     # Computed from `cat` BEFORE this chapter's merge touches it (#237) -- a number OARD
     # names here that some OTHER row already claims (own number OR served_as) never gets a
@@ -339,17 +422,23 @@ def discover_chapter(ch: str, title: str, chapter_id: str, cat: dict) -> tuple:
     n_new = sum(1 for d in new_divisions for r in (d.get("rules") or [])
                 if r["number"] not in before and r.get("status") == "not_ingested")
     n_rules = len(after)
+    n_divisions_added = sum(1 for d in new_divisions if d["division"] not in old_division_numbers)
     existing["divisions"] = new_divisions
     existing["discovered"] = TODAY
+    # SELF-CLEARING (#270 follow-up): this chapter WAS just found in OARD's dropdown and
+    # walked, so whatever an earlier run's NOT LISTED refusal recorded on this row is no
+    # longer true. See the marker's own write site below in cmd_discover.
+    existing.pop("not_in_oard_dropdown", None)
     # RECORDED, NOT SILENT (#237, #270): named on the row itself so a reader of the catalog
     # -- not just this run's stdout -- sees why OARD names more rules for this chapter than
     # this row lists. Cleared when a later run finds nothing to record, rather than left
     # stating a fact about a run that is no longer this run's.
+    existing.pop("claimed_by_other_chapters", None)  # migrate off the #270 field name (below)
     if skipped:
-        existing["claimed_by_other_chapters"] = sorted(set(skipped))
+        existing["claimed_by_another_row"] = sorted(set(skipped))
     else:
-        existing.pop("claimed_by_other_chapters", None)
-    return len(new_divisions), n_rules, n_new, len(set(skipped))
+        existing.pop("claimed_by_another_row", None)
+    return len(new_divisions), n_divisions_added, n_rules, n_new, len(set(skipped))
 
 
 def registry_chapters(reg: dict) -> list:
@@ -391,21 +480,25 @@ def cmd_discover(only: list):
     id_map = chapter_id_map(get(CHAPTER_LIST_URL))
     time.sleep(0.2)
 
-    total_d = total_r = total_new = total_claimed = skipped = 0
+    total_d = total_da = total_r = total_new = total_claimed = skipped = 0
     found_nothing = []
     not_listed = []
+    failed = []
     for i, (ch, title) in enumerate(chapters, 1):
         existing = next((c for c in cat["chapters"] if c["chapter"] == ch), None)
         pre_rule_count = sum(len(d.get("rules") or []) for d in (existing or {}).get("divisions", []))
-        try:
-            if ch not in id_map:
-                raise ChapterNotListed(ch, len(id_map))
-        except ChapterNotListed as e:
+        if ch not in id_map:
             # A RECORDED REFUSAL, not a silent skip (#270, same shape as #259's
             # DiscoveredNothing): checked -- and reported -- on EVERY run, ahead of the
             # already-discovered skip below, because a chapter's absence from OARD's
             # dropdown is a fact about this run and not something one run can clear for
-            # every run after it. The catalog entry is left exactly as it was.
+            # every run after it. The catalog entry is left exactly as it was, except for
+            # the marker below, which makes the refusal survive on the row itself and not
+            # just in this run's stdout -- and self-clears in discover_chapter the day the
+            # chapter reappears in the dropdown, rather than asserting it forever.
+            e = ChapterNotListed(ch, len(id_map))
+            if existing is not None:
+                existing["not_in_oard_dropdown"] = True
             not_listed.append((ch, title, pre_rule_count))
             print(f"NOT LISTED chapter {ch} ({title[:50]}): {e} — catalog entry untouched "
                   f"({pre_rule_count} rules held), and the next run will try again")
@@ -415,7 +508,7 @@ def cmd_discover(only: list):
             skipped += 1
             continue
         try:
-            nd, nr, nn, nc = discover_chapter(ch, title, id_map[ch], cat)
+            nd, nda, nr, nn, nc = discover_chapter(ch, title, id_map[ch], cat)
         except DiscoveredNothing as e:
             found_nothing.append(ch)
             print(f"NOT DISCOVERED chapter {ch}: {e} — no entry written, not marked "
@@ -429,29 +522,37 @@ def cmd_discover(only: list):
             print(f"REFUSED chapter {ch}: {e}", file=sys.stderr)
             raise
         except Exception as e:
+            # COULD NOT CHECK IS NEVER IS NOT THERE (CONTEXT.md): a transient fetch error
+            # or a malformed page is not the same fact as ChapterNotListed or
+            # DiscoveredNothing, and unlike them it used to get named once mid-scroll and
+            # then vanish -- a run short by N chapters ended with a summary that did not
+            # say so. `failed` is read below, same shape as `found_nothing`/`not_listed`.
+            failed.append((ch, str(e)))
             print(f"FAILED chapter {ch}: {e}")
             continue
         total_d += nd
+        total_da += nda
         total_r += nr
         total_new += nn
         total_claimed += nc
-        claimed_note = f", {nc} already claimed under another chapter (#237)" if nc else ""
+        claimed_note = f", {nc} already claimed under another row (#237)" if nc else ""
         print(f"[{i}/{len(chapters)}] ch {ch:>4} ({title[:50]}): "
-              f"{nd} divisions, {nr} rules ({nn} new, {nr - pre_rule_count:+d} vs "
+              f"{nd} divisions ({nda} new), {nr} rules ({nn} new, {nr - pre_rule_count:+d} vs "
               f"catalog{claimed_note})")
         save_catalog(cat)  # checkpoint after every chapter — resumable
     save_catalog(cat, stamp_retrieved=total_d > 0)
-    print(f"\ndiscovered: {total_d} divisions, {total_r} rules ({total_new} new added to "
-          f"the catalog); {skipped} chapters already discovered (use --redo to refresh)")
+    print(f"\ndiscovered: {total_d} divisions ({total_da} new to the catalog), {total_r} "
+          f"rules ({total_new} new added to the catalog); {skipped} chapters already "
+          f"discovered (use --redo to refresh)")
     # THE OTHER HALF OF THE DELTA (#270 acceptance criteria): not just what OARD adds, but
     # what this catalog holds that OARD's CURRENT listing does not -- history, kept.
     print(f"{history_count(cat)} rule(s) in this catalog are absent from OARD's current "
           f"listing (history: a renumber, a repeal) and were kept, not dropped")
     if total_claimed:
         print(f"{total_claimed} rule number(s) OARD names were NOT given a second row: "
-              f"already authoritatively claimed (by number or served_as) under a different "
-              f"chapter's row -- #237's invariant, not a #270 regression. Recorded per "
-              f"chapter in claimed_by_other_chapters.")
+              f"already authoritatively claimed (by number or served_as) under another row "
+              f"-- #237's invariant, not a #270 regression, and not always a different "
+              f"chapter's row: recorded per chapter in claimed_by_another_row.")
     if found_nothing:
         print(f"{len(found_nothing)} chapter(s) the discovery source does not carry, left "
               f"UNDISCOVERED rather than recorded as empty: {', '.join(found_nothing)}")
@@ -460,6 +561,11 @@ def cmd_discover(only: list):
         names = ", ".join(f"{c} ({n} held)" for c, _, n in not_listed)
         print(f"{len(not_listed)} chapter(s) not in OARD's dropdown, REFUSED rather than "
               f"skipped ({held} rules held here and unwatched by this run): {names}")
+    if failed:
+        print(f"{len(failed)} chapter(s) FAILED with an unexpected error and were NOT "
+              f"discovered this run -- a transient fetch or a malformed page, not a "
+              f"recorded refusal like NOT LISTED, so the next run should be watched: "
+              f"{', '.join(ch for ch, _ in failed)}")
 
 
 def cmd_summary():
@@ -573,12 +679,13 @@ def selftest() -> int:
     check("every division in the fixture is parsed", len(parsed) == 2)
     div2 = next(d for d in parsed if d[0] == "2")
     check("division 2's rules are its own, not division 3's",
-          [n for n, _ in div2[2]] == ["813-002-0005", "813-002-0010"])
+          div2[2] == ["813-002-0005", "813-002-0010"])
     div3 = next(d for d in parsed if d[0] == "3")
     check("a division title that wraps a newline is still read (needs re.S)",
           div3[1] == "INTELLECTUAL PROPERTY")
-    check("a leadline that wraps onto the next line is still read whole",
-          div3[2][0][1] == "Confidentiality and Inadmissibility of Mediation Communications")
+    check("a rule whose leadline wraps onto the next line before its </p> is still "
+          "discovered by number (needs re.S on RULE_RE too)",
+          div3[2] == ["813-003-0001"])
 
     # AN AMBIGUOUS NUMBER IS PRINTED MORE THAN ONCE (#251's shape, found live in chapter
     # 165 running this discovery for real 2026-08-27): OARD's per-rule page for
@@ -592,8 +699,8 @@ def selftest() -> int:
         "<p><strong><a href='x?ruleVrsnRsn=1'>165-020-0125</a></strong>&nbsp;&nbsp;First rule</p>"
         "<p><strong><a href='x?ruleVrsnRsn=2'>165-020-0125</a></strong>&nbsp;&nbsp;Second rule</p>"
     ) if d[0] == "20")
-    check("parse_chapter_rules reports the ambiguous number as many leadlines",
-          len(div_dup[2]) == 2)
+    check("parse_chapter_rules reports the ambiguous number once per <p> entry on the page",
+          div_dup[2] == ["165-020-0125", "165-020-0125"])
 
     # THE LOAD-BEARING GUARD: MERGE, NEVER REPLACE (#270). Chapter 813 division 1's live
     # 2026-08-27 case: 813-001-0002 and 813-001-0003 are both already in this catalog;
@@ -605,7 +712,7 @@ def selftest() -> int:
                        "rules": [{"number": "813-001-0002", "status": "ingested"},
                                  {"number": "813-001-0003", "status": "ingested",
                                   "served_as": "813-001-0002"}]}]
-    discovered = [("1", "GENERAL PROVISIONS", [("813-001-0002", "Purpose")])]
+    discovered = [("1", "GENERAL PROVISIONS", ["813-001-0002"])]
 
     # RED, WATCHED BEFORE THE GUARD EXISTED: a merge that does what the pre-#270 code did
     # -- rebuild each division's rules from ONLY what the source names today -- silently
@@ -613,7 +720,7 @@ def selftest() -> int:
     # division-rebuild loop, reproduced here to prove the failure mode is real rather than
     # asserted.
     naive_merge = [{"division": d, "title": t,
-                     "rules": [{"number": n, "status": "not_ingested"} for n, _ in rs]}
+                     "rules": [{"number": n, "status": "not_ingested"} for n in rs]}
                     for d, t, rs in discovered]
     naive_missing = _rule_numbers(old_divisions) - _rule_numbers(naive_merge)
     check("RED: a rebuild-from-source-only merge is caught DROPPING a history row",
@@ -664,14 +771,97 @@ def selftest() -> int:
     claimed = catalog_claimed_numbers(other_chapter_cat)
     check("catalog_claimed_numbers reads a served_as target as claimed",
           "419-050-0000" in claimed)
-    ch419_discovered = [("050", "SOME DIVISION", [("419-050-0000", "Some Leadline"),
-                                                    ("419-050-9999", "A Genuinely New Rule")])]
+    ch419_discovered = [("050", "SOME DIVISION", ["419-050-0000", "419-050-9999"])]
     ch419_merged, ch419_skipped = merge_divisions([], ch419_discovered, claimed)
-    check("a number another chapter's row already claims is skipped here, not duplicated",
+    check("a number another row already claims is skipped here, not duplicated",
           "419-050-0000" in ch419_skipped and
           "419-050-0000" not in _rule_numbers(ch419_merged))
     check("...while a genuinely new number under the same chapter is still added",
           "419-050-9999" in _rule_numbers(ch419_merged))
+
+    # A DIVISION MAY BE ENTIRELY CLAIMED ELSEWHERE (#270 follow-up, live case chapter 199
+    # division 8: OARD lists six numbers, all six already claimed by rows filed under
+    # DIVISIONS 1 AND 5 OF THIS SAME CHAPTER -- "another row", not always "another
+    # chapter"). merge_divisions must not write that as an unexplained zero-rule
+    # not_ingested division -- review_queue.py would read it as an enumeration gap needing
+    # "another route", when it is already fully covered.
+    claimed_div_discovered = [("8", "COMPLIANCE AND SANCTIONS", ["199-008-0005", "199-008-0008"])]
+    claimed_div_merged, claimed_div_skipped = merge_divisions(
+        [], claimed_div_discovered, {"199-008-0005", "199-008-0008"})
+    div8 = claimed_div_merged[0]
+    check("a division whose every rule is claimed under another row gets zero rows here",
+          div8["rules"] == [] and set(claimed_div_skipped) == {"199-008-0005", "199-008-0008"})
+    check("...and is marked covered, not left an unexplained gap",
+          CLAIMED_ELSEWHERE_DIVISION_MARK in (div8.get("note") or ""))
+
+    # A DIVISION MAY GENUINELY HOLD ZERO CURRENT RULES (live case chapter 104 division 25:
+    # OARD's own page prints "There are no rules to display."). This was mechanically
+    # confirmed, not left unenumerated, and needs a DIFFERENT explanation than the
+    # claimed-elsewhere case above -- nothing was skipped, nothing was found.
+    empty_div_discovered = [("25", "OREGON DISASTER RESPONSE ASSISTANCE MATCHING FUND", [])]
+    empty_div_merged, empty_div_skipped = merge_divisions([], empty_div_discovered)
+    div25 = empty_div_merged[0]
+    check("a division OARD confirms holds no current rules gets zero rows and no skips",
+          div25["rules"] == [] and empty_div_skipped == [])
+    check("...and is marked confirmed-empty, not left an unexplained gap",
+          CONFIRMED_EMPTY_DIVISION_MARK in (div25.get("note") or ""))
+
+    # DIVISIONS ADDED IS PART OF THE PRINTED DELTA (#270 acceptance criteria: "the run
+    # prints the delta -- rules added, divisions added..."). discover_chapter computes it
+    # as (division numbers in the merge result) - (division numbers the catalog already
+    # held); reproduced here as a unit rather than through discover_chapter, which needs
+    # network.
+    added_old = [{"division": "1", "rules": [{"number": "813-001-0002", "status": "ingested"}]}]
+    added_discovered = [("1", "T", ["813-001-0002"]), ("2", "NEW DIVISION", ["813-002-0001"])]
+    added_merged, _ = merge_divisions(added_old, added_discovered)
+    added_old_numbers = {d["division"] for d in added_old}
+    n_divisions_added = sum(1 for d in added_merged if d["division"] not in added_old_numbers)
+    check("a division OARD lists that the catalog did not have before counts as newly added",
+          n_divisions_added == 1)
+
+    # MERGE_DIVISIONS NEVER MUTATES THE CALLER'S `old_divisions` (#270 follow-up). The
+    # WouldRemoveRules guard's own comment says a refused chapter's "merge is never
+    # written" -- true only if nothing this function hands back shares an object with what
+    # the caller passed in. Every row below is carried forward (none is dropped), so this
+    # exercises the ordinary carry-forward path, not just the refusal path.
+    mutation_old = [{"division": "1", "title": "T", "status": "ingested",
+                      "rules": [{"number": "813-001-0002", "status": "ingested"},
+                                {"number": "813-001-0003", "status": "ingested"}]}]
+    mutation_snapshot = yaml.safe_load(yaml.safe_dump(mutation_old))  # a true deep copy
+    merge_divisions(mutation_old, [("1", "T", ["813-001-0002"])])
+    check("merge_divisions does not mutate the row dicts inside old_divisions",
+          mutation_old == mutation_snapshot)
+
+    # THE HISTORY MARK SURVIVES A ROW THAT ALREADY HAD A NOTE (#270 follow-up). Live case
+    # chapter 813: 813-005-0020 already carries the #251 search-results-list note by the
+    # time it goes absent from OARD's current listing, and `setdefault` used to mean the
+    # history mark never landed on it -- measured live, 52 rows absent from chapter 813's
+    # current listing, only 51 marked. history_count() must find rows in both states.
+    prior_note = ("OARD serves a search-results list for this number rather than a rule "
+                  "(#251). Kept rather than deleted: ADR 0006.")
+    noted_old = [{"division": "5", "rules": [
+        {"number": "813-005-0020", "status": "ingested", "note": prior_note}]}]
+    noted_merged, _ = merge_divisions(noted_old, [("5", "T", [])])
+    noted_row = noted_merged[0]["rules"][0]
+    check("a carried-forward row that already had a note keeps that note",
+          "search-results list" in noted_row["note"])
+    check("...and still gets the history mark appended, not silently skipped",
+          HISTORY_MARK in noted_row["note"])
+    check("...so history_count finds it (the #241-lesson case setdefault used to miss)",
+          history_count({"chapters": [{"chapter": "813", "divisions": noted_merged}]}) == 1)
+    # ...AND A HUMAN READING review_queue.py's renumbered/not_served section still sees the
+    # useful half. Every one of the catalog's 533 renumbered/not_served rows already carries
+    # a note from ingest_oar.py ("OARD serves X for this number") BEFORE this ever runs, so
+    # the appended suffix above is the common case there, not the exception -- and that
+    # section truncates at 90 characters, so the appended half was pushing the useful half
+    # out. display_note() is what review_queue.py calls before truncating.
+    check("display_note() strips the appended history suffix, keeping the original note",
+          display_note(noted_row["note"]) == prior_note)
+    plain_old = [{"division": "1", "rules": [{"number": "813-001-0099", "status": "ingested"}]}]
+    plain_merged, _ = merge_divisions(plain_old, [("1", "T", [])])
+    check("...and leaves a row with no prior note as the plain history sentence",
+          display_note(plain_merged[0]["rules"][0]["note"]) ==
+          f"{HISTORY_MARK} — history, kept (ADR 0006, #270)")
 
     # THE OTHER HALF OF THE DELTA the run summary prints: rules held here and absent from
     # OARD's current listing. Built from the two ways merge_divisions marks that fact --
@@ -679,9 +869,9 @@ def selftest() -> int:
     history_cat = {"chapters": [
         {"chapter": "813", "divisions": [
             {"division": "1", "rules": [
-                {"number": "813-001-0003", "note": _HISTORY_MARK + " -- history, kept"},
+                {"number": "813-001-0003", "note": HISTORY_MARK + " -- history, kept"},
                 {"number": "813-001-0002"}]},
-            {"division": "9", "note": _VANISHED_DIVISION_MARK + " — verify upstream",
+            {"division": "9", "note": VANISHED_DIVISION_MARK + " — verify upstream",
              "rules": [{"number": "813-009-0000"}, {"number": "813-009-0010"}]}]}]}
     check("history_count finds a per-rule carried-forward row",
           history_count(history_cat) == 3)  # 1 per-rule + 2 in the vanished division

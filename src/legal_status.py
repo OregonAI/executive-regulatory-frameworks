@@ -60,12 +60,13 @@ entries for exactly this reason):
 
   the document's `status`        whether the rule is IN FORCE -- a claim about Oregon law
   the catalog's `rules[].status` whether THIS MIRROR holds a copy, and in what shape:
-                                 `ingested` (36,474), `renumbered` (484), `not_served` (49)
+                                 `ingested` (36,474), `not_ingested` (5,608, #270),
+                                 `renumbered` (484), `not_served` (49)
 
 A rule can be in force and absent here, or repealed and still held. So the Bulletin's claim
 about force gets its OWN key on the catalog row -- `legal_status` -- and never borrows the
 one already there. `--check` refuses either field holding the other's vocabulary, over all
-37,007 committed rule entries, because the day those two collide the collision is invisible.
+42,615 committed rule entries, because the day those two collide the collision is invisible.
 
 THE GATE IS AN ALLOWLIST, NOT A BLOCKLIST (CONTEXT.md's overriding rule). Any site in `src/`
 that writes a legal-status value must say, where it sits, which of four things it is; a
@@ -1273,10 +1274,10 @@ def _proof_the_two_fields_named_status(check) -> None:
           any(f.rule == "bulletin-status-is-known"
               for f in check_committed(_fixture_catalog(status="ingested",
                                                         legal_status="retired"), {})))
-    # THE MUST-NOT-FIRE GUARD. Every committed row today is exactly this shape -- an ingest
-    # status and no legal status -- so a rule that fired on it would fire 37,007 times, and
-    # a "clean catalog produces no finding" proof is what stops a blanket refusal passing
-    # for a working gate.
+    # THE MUST-NOT-FIRE GUARD. All but 100 of the 42,615 committed rows are exactly this
+    # shape -- an ingest status and no legal status -- so a rule that fired on it would
+    # fire 42,515 times, and a "clean catalog produces no finding" proof is what stops a
+    # blanket refusal passing for a working gate.
     check("a catalog carrying only ingest statuses produces no finding",
           not check_committed(_fixture_catalog(status="ingested",
                                                path="rules/101/015/oar-101-015-0056.md"),

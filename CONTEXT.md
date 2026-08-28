@@ -198,12 +198,14 @@ way and this is a third fact about the same rule
 **Ingest status**:
 Whether this corpus holds a copy of a rule, and in what shape. It lives in
 `_meta/catalog/oar.yml` as `rules[].status`, with its own vocabulary — `ingested` (36,474),
-`renumbered` (484, carrying `served_as`), `not_served` (49). It is a claim about THIS MIRROR,
-never about Oregon law: a rule can be in force and absent here, or repealed and still held.
-The Bulletin's claim about force sits on the SAME ROW under different keys — `legal_status`,
-`legal_status_action` and `legal_status_notice`, none of which may appear without the others —
-and the two vocabularies never borrow each other's words — `legal_status.py --check` reads
-all 37,007 entries and refuses either field holding the other's vocabulary, because on the day they
+`not_ingested` (5,608, added by #270's OARD-direct discovery: a number OARD names that no
+document exists for yet, the ingest ticket's own delta), `renumbered` (484, carrying
+`served_as`), `not_served` (49). It is a claim about THIS MIRROR, never about Oregon law: a
+rule can be in force and absent here, or repealed and still held. The Bulletin's claim about
+force sits on the SAME ROW under different keys — `legal_status`, `legal_status_action` and
+`legal_status_notice`, none of which may appear without the others — and the two
+vocabularies never borrow each other's words — `legal_status.py --check` reads all 42,615
+entries and refuses either field holding the other's vocabulary, because on the day they
 first collide nothing else in the repository would notice.
 _Avoid_: Status, unqualified. The two fields share a name and mean different things, which is
 why both entries exist

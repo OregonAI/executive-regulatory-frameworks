@@ -344,6 +344,7 @@ chapters:
     title: OREGON DISASTER RESPONSE ASSISTANCE MATCHING FUND
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '30'
     title: ADOPTION OF A UNIFORM TSUNAMI WARNING SIGNAL
     status: ingested
@@ -722,6 +723,7 @@ chapters:
     title: PUBLIC GUARDIAN FEE STRUCTURE
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   discovered: '2026-08-27'
 - chapter: '115'
   title: Employment Relations Board
@@ -1368,6 +1370,7 @@ chapters:
     title: TARGETED INDUSTRY CLUSTERS
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '8'
     title: QUALITY DEVELOPMENT AND LAND USE COORDINATION
     status: ingested
@@ -1680,12 +1683,14 @@ chapters:
     rules:
     - number: 123-021-0000
       status: renumbered
-      note: OARD serves 123-021-2100 for this number
+      note: 'OARD serves 123-021-2100 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-2100
       path: rules/123/021/oar-123-021-2100.md
     - number: 123-021-0010
       status: renumbered
-      note: OARD serves 123-021-2300 for this number
+      note: 'OARD serves 123-021-2300 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-2300
       path: rules/123/021/oar-123-021-2300.md
     - number: 123-021-0015
@@ -1694,62 +1699,74 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 123-021-0020
       status: renumbered
-      note: OARD serves 123-021-2400 for this number
+      note: 'OARD serves 123-021-2400 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-2400
       path: rules/123/021/oar-123-021-2400.md
     - number: 123-021-0040
       status: renumbered
-      note: OARD serves 123-021-2500 for this number
+      note: 'OARD serves 123-021-2500 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-2500
       path: rules/123/021/oar-123-021-2500.md
     - number: 123-021-0050
       status: renumbered
-      note: OARD serves 123-021-2600 for this number
+      note: 'OARD serves 123-021-2600 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-2600
       path: rules/123/021/oar-123-021-2600.md
     - number: 123-021-0060
       status: renumbered
-      note: OARD serves 123-021-2700 for this number
+      note: 'OARD serves 123-021-2700 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-2700
       path: rules/123/021/oar-123-021-2700.md
     - number: 123-021-0070
       status: renumbered
-      note: OARD serves 123-021-2800 for this number
+      note: 'OARD serves 123-021-2800 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-2800
       path: rules/123/021/oar-123-021-2800.md
     - number: 123-021-0080
       status: renumbered
-      note: OARD serves 123-021-2900 for this number
+      note: 'OARD serves 123-021-2900 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-2900
       path: rules/123/021/oar-123-021-2900.md
     - number: 123-021-0090
       status: renumbered
-      note: OARD serves 123-021-3000 for this number
+      note: 'OARD serves 123-021-3000 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-3000
       path: rules/123/021/oar-123-021-3000.md
     - number: 123-021-0100
       status: renumbered
-      note: OARD serves 123-021-3500 for this number
+      note: 'OARD serves 123-021-3500 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-3500
       path: rules/123/021/oar-123-021-3500.md
     - number: 123-021-0110
       status: renumbered
-      note: OARD serves 123-021-3600 for this number
+      note: 'OARD serves 123-021-3600 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-3600
       path: rules/123/021/oar-123-021-3600.md
     - number: 123-021-0120
       status: renumbered
-      note: OARD serves 123-021-3700 for this number
+      note: 'OARD serves 123-021-3700 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-3700
       path: rules/123/021/oar-123-021-3700.md
     - number: 123-021-0130
       status: renumbered
-      note: OARD serves 123-021-2200 for this number
+      note: 'OARD serves 123-021-2200 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-2200
       path: rules/123/021/oar-123-021-2200.md
     - number: 123-021-0140
       status: renumbered
-      note: OARD serves 123-021-3800 for this number
+      note: 'OARD serves 123-021-3800 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-021-3800
       path: rules/123/021/oar-123-021-3800.md
     - number: 123-021-3100
@@ -1989,27 +2006,32 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 123-042-0065
       status: renumbered
-      note: OARD serves 123-042-0042 for this number
+      note: 'OARD serves 123-042-0042 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-042-0042
       path: rules/123/042/oar-123-042-0042.md
     - number: 123-042-0076
       status: renumbered
-      note: OARD serves 123-042-0052 for this number
+      note: 'OARD serves 123-042-0052 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-042-0052
       path: rules/123/042/oar-123-042-0052.md
     - number: 123-042-0122
       status: renumbered
-      note: OARD serves 123-042-0062 for this number
+      note: 'OARD serves 123-042-0062 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-042-0062
       path: rules/123/042/oar-123-042-0062.md
     - number: 123-042-0132
       status: renumbered
-      note: OARD serves 123-042-0072 for this number
+      note: 'OARD serves 123-042-0072 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-042-0072
       path: rules/123/042/oar-123-042-0072.md
     - number: 123-042-0155
       status: renumbered
-      note: OARD serves 123-042-0082 for this number
+      note: 'OARD serves 123-042-0082 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 123-042-0082
       path: rules/123/042/oar-123-042-0082.md
     - number: 123-042-0165
@@ -2992,6 +3014,7 @@ chapters:
     title: DISADVANTAGED AND EMERGING SMALL BUSINESS LOAN FUND
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '300'
     title: COMMUNITY LENDER LOAN LOSS ACCOUNT PROGRAM
     status: not_ingested
@@ -3945,7 +3968,7 @@ chapters:
     - number: 123-710-0050
       status: not_ingested
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 123-021-2100
   - 123-021-2200
   - 123-021-2300
@@ -4390,14 +4413,16 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 125-090-0010
       status: renumbered
-      note: OARD serves 125-090-0004 for this number
+      note: 'OARD serves 125-090-0004 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 125-090-0004
       path: rules/125/090/oar-125-090-0004.md
     - number: 125-090-0015
       status: not_ingested
     - number: 125-090-0020
       status: renumbered
-      note: OARD serves 125-090-0035 for this number
+      note: 'OARD serves 125-090-0035 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 125-090-0035
       path: rules/125/090/oar-125-090-0035.md
     - number: 125-090-0025
@@ -4424,7 +4449,8 @@ chapters:
       status: not_ingested
     - number: 125-090-0090
       status: renumbered
-      note: OARD serves 125-090-0145 for this number
+      note: 'OARD serves 125-090-0145 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 125-090-0145
       path: rules/125/090/oar-125-090-0145.md
     - number: 125-090-0095
@@ -4449,19 +4475,22 @@ chapters:
       status: not_ingested
     - number: 125-090-0130
       status: renumbered
-      note: OARD serves 125-090-0155 for this number
+      note: 'OARD serves 125-090-0155 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 125-090-0155
       path: rules/125/090/oar-125-090-0155.md
     - number: 125-090-0132
       status: not_ingested
     - number: 125-090-0135
       status: renumbered
-      note: OARD serves 125-090-0175 for this number
+      note: 'OARD serves 125-090-0175 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 125-090-0175
       path: rules/125/090/oar-125-090-0175.md
     - number: 125-090-0140
       status: renumbered
-      note: OARD serves 125-090-0065 for this number
+      note: 'OARD serves 125-090-0065 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 125-090-0065
       path: rules/125/090/oar-125-090-0065.md
     - number: 125-090-0150
@@ -4470,7 +4499,8 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 125-090-0160
       status: renumbered
-      note: OARD serves 125-090-0138 for this number
+      note: 'OARD serves 125-090-0138 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 125-090-0138
       path: rules/125/090/oar-125-090-0138.md
     - number: 125-090-0165
@@ -5456,12 +5486,14 @@ chapters:
     rules:
     - number: 125-600-0005
       status: renumbered
-      note: OARD serves 128-050-0005 for this number
+      note: 'OARD serves 128-050-0005 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 128-050-0005
       path: rules/128/050/oar-128-050-0005.md
     - number: 125-600-7550
       status: renumbered
-      note: OARD serves 128-040-0005 for this number
+      note: 'OARD serves 128-040-0005 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 128-040-0005
       path: rules/128/040/oar-128-040-0005.md
   - division: '700'
@@ -5500,18 +5532,21 @@ chapters:
     rules:
     - number: 125-800-0005
       status: renumbered
-      note: OARD serves 128-030-0005 for this number
+      note: 'OARD serves 128-030-0005 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 128-030-0005
     - number: 125-800-0010
       status: renumbered
-      note: OARD serves 128-030-0010 for this number
+      note: 'OARD serves 128-030-0010 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 128-030-0010
     - number: 125-800-0020
       status: renumbered
-      note: OARD serves 128-030-0020 for this number
+      note: 'OARD serves 128-030-0020 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 128-030-0020
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 125-090-0004
   - 125-090-0035
   - 125-090-0065
@@ -7479,6 +7514,7 @@ chapters:
     title: TRAUMA INFORMED RESPONSE TRAINING GRANT PROGRAM
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '74'
     title: CHILDREN'S ADVOCACY CENTER ONE-TIME GRANT
     status: not_ingested
@@ -7997,7 +8033,8 @@ chapters:
       path: rules/137/105/oar-137-105-0050.md
     - number: 137-105-0060
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 137-105-0065
       status: not_ingested
   - division: '106'
@@ -11128,7 +11165,8 @@ chapters:
       path: rules/150/305/oar-150-305-0068.md
     - number: 150-305-0070
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 150-305-0071
       status: not_ingested
     - number: 150-305-0080
@@ -13872,6 +13910,7 @@ chapters:
     title: Paid Family and Medical Leave Insurance
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '670'
     title: INDEPENDENT CONTRACTOR
     status: ingested
@@ -17480,6 +17519,7 @@ chapters:
     title: POWERBALL Xs & OS
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '90'
     title: SPORTS ACTION
     status: ingested
@@ -17833,17 +17873,20 @@ chapters:
       path: rules/199/001/oar-199-001-0010.md
     - number: 199-001-0014
       status: renumbered
-      note: OARD serves 199-008-0014 for this number
+      note: 'OARD serves 199-008-0014 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 199-008-0014
       path: rules/199/008/oar-199-008-0014.md
     - number: 199-001-0015
       status: renumbered
-      note: OARD serves 199-008-0015 for this number
+      note: 'OARD serves 199-008-0015 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 199-008-0015
       path: rules/199/008/oar-199-008-0015.md
     - number: 199-001-0020
       status: renumbered
-      note: OARD serves 199-008-0020 for this number
+      note: 'OARD serves 199-008-0020 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 199-008-0020
       path: rules/199/008/oar-199-008-0020.md
     - number: 199-001-0030
@@ -17851,7 +17894,8 @@ chapters:
       path: rules/199/001/oar-199-001-0030.md
     - number: 199-001-0035
       status: renumbered
-      note: OARD serves 199-008-0035 for this number
+      note: 'OARD serves 199-008-0035 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 199-008-0035
       path: rules/199/008/oar-199-008-0035.md
     - number: 199-001-0040
@@ -17891,18 +17935,22 @@ chapters:
       path: rules/199/005/oar-199-005-0030.md
     - number: 199-005-0035
       status: renumbered
-      note: OARD serves 199-008-0005 for this number
+      note: 'OARD serves 199-008-0005 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 199-008-0005
       path: rules/199/008/oar-199-008-0005.md
     - number: 199-005-0080
       status: renumbered
-      note: OARD serves 199-008-0008 for this number
+      note: 'OARD serves 199-008-0008 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 199-008-0008
       path: rules/199/008/oar-199-008-0008.md
   - division: '8'
     title: COMPLIANCE AND SANCTIONS
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (6 rule(s): 199-008-0005, 199-008-0008,
+      199-008-0014, 199-008-0015, 199-008-0020, 199-008-0035) — covered, not a gap'
   - division: '10'
     title: LOBBYING REGISTRATION AND REPORTING
     status: ingested
@@ -18017,7 +18065,7 @@ chapters:
     - number: 199-050-0085
       status: not_ingested
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 199-008-0005
   - 199-008-0008
   - 199-008-0014
@@ -19343,6 +19391,7 @@ chapters:
     title: MEDICAL PROVISIONS
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '120'
     title: Conduct of Bout - Kickboxing
     status: ingested
@@ -20414,6 +20463,7 @@ chapters:
     title: HEARINGS TECHNOLOGY AND MEDIA
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '30'
     title: PRISON TERM HEARING AND HEARING PROCEDURES
     status: ingested
@@ -22549,10 +22599,12 @@ chapters:
     title: PROCESSING OF UNCLAIMED [HUMAN] CREMATED REMAINS OF VETERAN OR SURVIVOR OF VETERAN
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '34'
     title: VETERAN SUICIDE PREVENTION GRANT
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '35'
     title: GRANTS, DONATIONS AND GIFTS ACCEPTED BY ODVA
     status: ingested
@@ -22849,6 +22901,7 @@ chapters:
     title: VETERANS' HOME LOAN PROGRAM - 2025
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   discovered: '2026-08-27'
 - chapter: '291'
   title: Department of Corrections
@@ -26750,12 +26803,14 @@ chapters:
       path: rules/309/019/oar-309-019-0320.md
     - number: 309-019-0324
       status: renumbered
-      note: OARD serves 309-019-0162 for this number
+      note: 'OARD serves 309-019-0162 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 309-019-0162
       path: rules/309/019/oar-309-019-0162.md
     - number: 309-019-0326
       status: renumbered
-      note: OARD serves 309-019-0163 for this number
+      note: 'OARD serves 309-019-0163 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 309-019-0163
       path: rules/309/019/oar-309-019-0163.md
   - division: '20'
@@ -28137,7 +28192,7 @@ chapters:
       note: OARD page contains no rule number (rule likely repealed)
     note: division no longer listed on OARD — verify upstream
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 309-019-0162
   - 309-019-0163
 - chapter: '325'
@@ -30188,6 +30243,7 @@ chapters:
     title: TEMPORARY SIGN LANGUAGE INTERPRETER LICENSING
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '105'
     title: GENERAL ADMINISTRATION
     status: ingested
@@ -30625,6 +30681,7 @@ chapters:
     title: TEMPORARY STAFFING AGENCY PROGRAM GENERAL ADMINISTRATION
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '705'
     title: RESPIRATORY THERAPIST AND POLYSOMNOGRAPHIC TECHNOLOGISTS LICENSING BOARD — GENERAL ADMINISTRATION
     status: ingested
@@ -30757,22 +30814,27 @@ chapters:
     title: DENTAL LABORATORY GENERAL ADMINISTRATION
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '755'
     title: DENTAL LABORATORIES GENERAL ADMINISTRATION
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '760'
     title: QUALIFICATIONS, APPLICATIONS AND RENEWALS
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '765'
     title: REQUIREMENTS, QUALIFICATIONS, APPLICATIONS, AND RENEWAL REQUIREMENTS
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '770'
     title: CIVIL PENALTIES
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '800'
     title: SEXUAL OFFENSE TREATMENT BOARD GENERAL ADMINISTRATION
     status: ingested
@@ -31517,7 +31579,8 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 333-003-4000
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 333-003-5000
       status: ingested
       path: rules/333/003/oar-333-003-5000.md
@@ -32654,7 +32717,8 @@ chapters:
       status: not_ingested
     - number: 333-015-0220
       status: renumbered
-      note: OARD serves 333-015-0272 for this number
+      note: 'OARD serves 333-015-0272 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-015-0272
       path: rules/333/015/oar-333-015-0272.md
     - number: 333-015-0222
@@ -33903,62 +33967,74 @@ chapters:
     rules:
     - number: 333-035-0045
       status: renumbered
-      note: OARD serves 333-035-0110 for this number
+      note: 'OARD serves 333-035-0110 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-035-0110
       path: rules/333/035/oar-333-035-0110.md
     - number: 333-035-0050
       status: renumbered
-      note: OARD serves 333-035-0120 for this number
+      note: 'OARD serves 333-035-0120 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-035-0120
       path: rules/333/035/oar-333-035-0120.md
     - number: 333-035-0055
       status: renumbered
-      note: OARD serves 333-035-0125 for this number
+      note: 'OARD serves 333-035-0125 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-035-0125
       path: rules/333/035/oar-333-035-0125.md
     - number: 333-035-0060
       status: renumbered
-      note: OARD serves 333-035-0210 for this number
+      note: 'OARD serves 333-035-0210 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-035-0210
       path: rules/333/035/oar-333-035-0210.md
     - number: 333-035-0065
       status: renumbered
-      note: OARD serves 333-035-0220 for this number
+      note: 'OARD serves 333-035-0220 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-035-0220
       path: rules/333/035/oar-333-035-0220.md
     - number: 333-035-0070
       status: renumbered
-      note: OARD serves 333-035-0230 for this number
+      note: 'OARD serves 333-035-0230 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-035-0230
       path: rules/333/035/oar-333-035-0230.md
     - number: 333-035-0075
       status: renumbered
-      note: OARD serves 333-035-0240 for this number
+      note: 'OARD serves 333-035-0240 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-035-0240
       path: rules/333/035/oar-333-035-0240.md
     - number: 333-035-0080
       status: renumbered
-      note: OARD serves 333-035-0250 for this number
+      note: 'OARD serves 333-035-0250 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-035-0250
       path: rules/333/035/oar-333-035-0250.md
     - number: 333-035-0085
       status: renumbered
-      note: OARD serves 333-035-0260 for this number
+      note: 'OARD serves 333-035-0260 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-035-0260
       path: rules/333/035/oar-333-035-0260.md
     - number: 333-035-0090
       status: renumbered
-      note: OARD serves 333-035-0270 for this number
+      note: 'OARD serves 333-035-0270 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-035-0270
       path: rules/333/035/oar-333-035-0270.md
     - number: 333-035-0095
       status: renumbered
-      note: OARD serves 333-035-0280 for this number
+      note: 'OARD serves 333-035-0280 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-035-0280
       path: rules/333/035/oar-333-035-0280.md
     - number: 333-035-0100
       status: renumbered
-      note: OARD serves 333-035-0290 for this number
+      note: 'OARD serves 333-035-0290 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-035-0290
       path: rules/333/035/oar-333-035-0290.md
     - number: 333-035-0105
@@ -35533,12 +35609,14 @@ chapters:
       path: rules/333/076/oar-333-076-0270.md
     - number: 333-076-0450
       status: renumbered
-      note: OARD serves 333-077-0010 for this number
+      note: 'OARD serves 333-077-0010 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-077-0010
       path: rules/333/077/oar-333-077-0010.md
     - number: 333-076-0470
       status: renumbered
-      note: OARD serves 333-077-0015 for this number
+      note: 'OARD serves 333-077-0015 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-077-0015
       path: rules/333/077/oar-333-077-0015.md
     - number: 333-076-0490
@@ -35547,17 +35625,20 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 333-076-0510
       status: renumbered
-      note: OARD serves 333-077-0035 for this number
+      note: 'OARD serves 333-077-0035 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-077-0035
       path: rules/333/077/oar-333-077-0035.md
     - number: 333-076-0530
       status: renumbered
-      note: OARD serves 333-077-0030 for this number
+      note: 'OARD serves 333-077-0030 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-077-0030
       path: rules/333/077/oar-333-077-0030.md
     - number: 333-076-0550
       status: renumbered
-      note: OARD serves 333-077-0045 for this number
+      note: 'OARD serves 333-077-0045 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-077-0045
       path: rules/333/077/oar-333-077-0045.md
     - number: 333-076-0560
@@ -35574,12 +35655,14 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 333-076-0610
       status: renumbered
-      note: OARD serves 333-077-0055 for this number
+      note: 'OARD serves 333-077-0055 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-077-0055
       path: rules/333/077/oar-333-077-0055.md
     - number: 333-076-0630
       status: renumbered
-      note: OARD serves 333-077-0070 for this number
+      note: 'OARD serves 333-077-0070 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-077-0070
       path: rules/333/077/oar-333-077-0070.md
     - number: 333-076-0650
@@ -35588,17 +35671,20 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 333-076-0670
       status: renumbered
-      note: OARD serves 333-077-0090 for this number
+      note: 'OARD serves 333-077-0090 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-077-0090
       path: rules/333/077/oar-333-077-0090.md
     - number: 333-076-0690
       status: renumbered
-      note: OARD serves 333-077-0130 for this number
+      note: 'OARD serves 333-077-0130 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-077-0130
       path: rules/333/077/oar-333-077-0130.md
     - number: 333-076-0710
       status: renumbered
-      note: OARD serves 333-077-0220 for this number
+      note: 'OARD serves 333-077-0220 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-077-0220
       path: rules/333/077/oar-333-077-0220.md
     - number: 333-076-0800
@@ -38389,17 +38475,20 @@ chapters:
       path: rules/333/265/oar-333-265-0000.md
     - number: 333-265-0010
       status: renumbered
-      note: OARD serves 333-264-0030 for this number
+      note: 'OARD serves 333-264-0030 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-264-0030
       path: rules/333/264/oar-333-264-0030.md
     - number: 333-265-0012
       status: renumbered
-      note: OARD serves 333-264-0040 for this number
+      note: 'OARD serves 333-264-0040 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-264-0040
       path: rules/333/264/oar-333-264-0040.md
     - number: 333-265-0014
       status: renumbered
-      note: OARD serves 333-264-0050 for this number
+      note: 'OARD serves 333-264-0050 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-264-0050
       path: rules/333/264/oar-333-264-0050.md
     - number: 333-265-0015
@@ -38412,17 +38501,20 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 333-265-0018
       status: renumbered
-      note: OARD serves 333-264-0100 for this number
+      note: 'OARD serves 333-264-0100 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-264-0100
       path: rules/333/264/oar-333-264-0100.md
     - number: 333-265-0020
       status: renumbered
-      note: OARD serves 333-264-0110 for this number
+      note: 'OARD serves 333-264-0110 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-264-0110
       path: rules/333/264/oar-333-264-0110.md
     - number: 333-265-0022
       status: renumbered
-      note: OARD serves 333-264-0120 for this number
+      note: 'OARD serves 333-264-0120 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-264-0120
       path: rules/333/264/oar-333-264-0120.md
     - number: 333-265-0023
@@ -38529,6 +38621,7 @@ chapters:
     title: NONOPIOID DIRECTIVE
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '275'
     title: STANDARDS FOR CERTIFICATION OF HEMODIALYSIS TECHNICIANS
     status: partially_ingested
@@ -39641,27 +39734,32 @@ chapters:
     rules:
     - number: 333-675-0000
       status: renumbered
-      note: OARD serves 333-675-0110 for this number
+      note: 'OARD serves 333-675-0110 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-675-0110
       path: rules/333/675/oar-333-675-0110.md
     - number: 333-675-0020
       status: renumbered
-      note: OARD serves 333-675-0200 for this number
+      note: 'OARD serves 333-675-0200 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-675-0200
       path: rules/333/675/oar-333-675-0200.md
     - number: 333-675-0030
       status: renumbered
-      note: OARD serves 333-675-0210 for this number
+      note: 'OARD serves 333-675-0210 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-675-0210
       path: rules/333/675/oar-333-675-0210.md
     - number: 333-675-0040
       status: renumbered
-      note: OARD serves 333-675-0220 for this number
+      note: 'OARD serves 333-675-0220 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-675-0220
       path: rules/333/675/oar-333-675-0220.md
     - number: 333-675-0050
       status: renumbered
-      note: OARD serves 333-675-0230 for this number
+      note: 'OARD serves 333-675-0230 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 333-675-0230
       path: rules/333/675/oar-333-675-0230.md
     - number: 333-675-0100
@@ -39887,7 +39985,7 @@ chapters:
       path: rules/950/050/oar-950-050-0150.md
     note: division no longer listed on OARD — verify upstream
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 333-015-0272
   - 333-035-0110
   - 333-035-0120
@@ -45971,7 +46069,8 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 340-242-0520
       status: renumbered
-      note: OARD serves 340-244-0247 for this number
+      note: 'OARD serves 340-244-0247 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 340-244-0247
       path: rules/340/244/oar-340-244-0247.md
     - number: 340-242-0600
@@ -46035,12 +46134,14 @@ chapters:
       path: rules/340/244/oar-340-244-0238.md
     - number: 340-244-0239
       status: renumbered
-      note: OARD serves 340-244-0235 for this number
+      note: 'OARD serves 340-244-0235 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 340-244-0235
       path: rules/340/244/oar-340-244-0235.md
     - number: 340-244-0240
       status: renumbered
-      note: OARD serves 340-244-0245 for this number
+      note: 'OARD serves 340-244-0245 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 340-244-0245
       path: rules/340/244/oar-340-244-0245.md
     - number: 340-244-0241
@@ -46052,7 +46153,8 @@ chapters:
       status: not_ingested
     - number: 340-244-0244
       status: renumbered
-      note: OARD serves 340-244-0249 for this number
+      note: 'OARD serves 340-244-0249 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 340-244-0249
       path: rules/340/244/oar-340-244-0249.md
     - number: 340-244-0246
@@ -47342,7 +47444,7 @@ chapters:
     - number: 340-300-0007
       status: not_ingested
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 340-244-0235
   - 340-244-0245
   - 340-244-0247
@@ -47649,7 +47751,8 @@ chapters:
       path: rules/345/020/oar-345-020-0040.md
       note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
         shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
-        deleted: ADR 0006, deleting breaks every citation to it'
+        deleted: ADR 0006, deleting breaks every citation to it (not on OARD''s current chapter listing
+        — history, kept, ADR 0006 #270)'
     - number: 345-020-0060
       status: ingested
       path: rules/345/020/oar-345-020-0060.md
@@ -49881,6 +49984,7 @@ chapters:
     title: Office of Resilience and Emergency Management
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '120'
     title: PROVIDER RULES
     status: ingested
@@ -54007,6 +54111,7 @@ chapters:
     title: GRIEVANCES
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '11'
     title: PROVISION OF SERVICES BY AREA AGENCIES ON AGING AND COMPETITIVE PROCUREMENT
     status: ingested
@@ -55905,10 +56010,12 @@ chapters:
     title: ESSENTIAL WORKFORCE HEALTH CARE PROGRAM
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '76'
     title: LICENSING COMPLAINT UNIT
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '85'
     title: NURSING FACILITIES/LICENSING — GENERALLY
     status: ingested
@@ -59153,37 +59260,44 @@ chapters:
       path: rules/413/120/oar-413-120-0246.md
     - number: 413-120-0400
       status: renumbered
-      note: OARD serves 413-208-0005 for this number
+      note: 'OARD serves 413-208-0005 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 413-208-0005
       path: rules/413/208/oar-413-208-0005.md
     - number: 413-120-0440
       status: renumbered
-      note: OARD serves 413-208-0010 for this number
+      note: 'OARD serves 413-208-0010 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 413-208-0010
       path: rules/413/208/oar-413-208-0010.md
     - number: 413-120-0450
       status: renumbered
-      note: OARD serves 413-208-0015 for this number
+      note: 'OARD serves 413-208-0015 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 413-208-0015
       path: rules/413/208/oar-413-208-0015.md
     - number: 413-120-0455
       status: renumbered
-      note: OARD serves 413-208-0020 for this number
+      note: 'OARD serves 413-208-0020 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 413-208-0020
       path: rules/413/208/oar-413-208-0020.md
     - number: 413-120-0457
       status: renumbered
-      note: OARD serves 413-208-0025 for this number
+      note: 'OARD serves 413-208-0025 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 413-208-0025
       path: rules/413/208/oar-413-208-0025.md
     - number: 413-120-0460
       status: renumbered
-      note: OARD serves 413-208-0030 for this number
+      note: 'OARD serves 413-208-0030 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 413-208-0030
       path: rules/413/208/oar-413-208-0030.md
     - number: 413-120-0475
       status: renumbered
-      note: OARD serves 413-208-0035 for this number
+      note: 'OARD serves 413-208-0035 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 413-208-0035
       path: rules/413/208/oar-413-208-0035.md
     - number: 413-120-0600
@@ -60618,7 +60732,7 @@ chapters:
       path: rules/413/350/oar-413-350-0140.md
     note: division no longer listed on OARD — verify upstream
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 413-208-0005
   - 413-208-0010
   - 413-208-0015
@@ -62194,6 +62308,7 @@ chapters:
     title: TRIBAL EARLY LEARNING HUB
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '900'
     title: EARLY LEARNING HUBS
     status: partially_ingested
@@ -62607,17 +62722,20 @@ chapters:
     rules:
     - number: 415-050-0000
       status: renumbered
-      note: OARD serves 415-050-0100 for this number
+      note: 'OARD serves 415-050-0100 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 415-050-0100
       path: rules/415/050/oar-415-050-0100.md
     - number: 415-050-0005
       status: renumbered
-      note: OARD serves 415-050-0105 for this number
+      note: 'OARD serves 415-050-0105 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 415-050-0105
       path: rules/415/050/oar-415-050-0105.md
     - number: 415-050-0010
       status: renumbered
-      note: OARD serves 415-050-0110 for this number
+      note: 'OARD serves 415-050-0110 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 415-050-0110
       path: rules/415/050/oar-415-050-0110.md
     - number: 415-050-0015
@@ -62626,12 +62744,14 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 415-050-0020
       status: renumbered
-      note: OARD serves 415-050-0120 for this number
+      note: 'OARD serves 415-050-0120 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 415-050-0120
       path: rules/415/050/oar-415-050-0120.md
     - number: 415-050-0025
       status: renumbered
-      note: OARD serves 415-050-0140 for this number
+      note: 'OARD serves 415-050-0140 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 415-050-0140
       path: rules/415/050/oar-415-050-0140.md
     - number: 415-050-0030
@@ -62640,7 +62760,8 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 415-050-0035
       status: renumbered
-      note: OARD serves 415-050-0150 for this number
+      note: 'OARD serves 415-050-0150 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 415-050-0150
       path: rules/415/050/oar-415-050-0150.md
     - number: 415-050-0040
@@ -62649,7 +62770,8 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 415-050-0045
       status: renumbered
-      note: OARD serves 415-050-0155 for this number
+      note: 'OARD serves 415-050-0155 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 415-050-0155
       path: rules/415/050/oar-415-050-0155.md
     - number: 415-050-0050
@@ -62670,32 +62792,38 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 415-050-0070
       status: renumbered
-      note: OARD serves 415-050-0170 for this number
+      note: 'OARD serves 415-050-0170 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 415-050-0170
       path: rules/415/050/oar-415-050-0170.md
     - number: 415-050-0075
       status: renumbered
-      note: OARD serves 415-050-0175 for this number
+      note: 'OARD serves 415-050-0175 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 415-050-0175
       path: rules/415/050/oar-415-050-0175.md
     - number: 415-050-0080
       status: renumbered
-      note: OARD serves 415-050-0180 for this number
+      note: 'OARD serves 415-050-0180 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 415-050-0180
       path: rules/415/050/oar-415-050-0180.md
     - number: 415-050-0085
       status: renumbered
-      note: OARD serves 415-050-0185 for this number
+      note: 'OARD serves 415-050-0185 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 415-050-0185
       path: rules/415/050/oar-415-050-0185.md
     - number: 415-050-0090
       status: renumbered
-      note: OARD serves 415-050-0190 for this number
+      note: 'OARD serves 415-050-0190 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 415-050-0190
       path: rules/415/050/oar-415-050-0190.md
     - number: 415-050-0095
       status: renumbered
-      note: OARD serves 415-050-0195 for this number
+      note: 'OARD serves 415-050-0195 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 415-050-0195
       path: rules/415/050/oar-415-050-0195.md
     - number: 415-050-0115
@@ -62941,7 +63069,7 @@ chapters:
       status: ingested
       path: rules/415/065/oar-415-065-0080.md
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 415-050-0100
   - 415-050-0105
   - 415-050-0110
@@ -63077,6 +63205,7 @@ chapters:
     title: OYA Financial Grant Standards
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '105'
     title: Disclosure of Youth in Custody Case Record Information
     status: ingested
@@ -63973,26 +64102,42 @@ chapters:
     title: HEARINGS - ADULT ABUSE
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (2 rule(s): 419-050-0000, 419-050-0010)
+      — covered, not a gap'
   - division: '100'
     title: ADULT ABUSE INVESTIGATIONS IN DEVELOPMENTAL DISABILITIES SERVICES
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (13 rule(s): 419-100-0000,
+      419-100-0010, 419-100-0020, 419-100-0030, 419-100-0040, 419-100-0050, 419-100-0060, 419-100-0070,
+      419-100-0080, 419-100-0090, 419-100-0100, 419-100-0110, 419-100-0120) — covered, not a gap'
   - division: '105'
     title: SERIOUS EVENT ASSESSMENTS
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (1 rule(s): 419-105-0000) —
+      covered, not a gap'
   - division: '110'
     title: ADULT ABUSE INVESTIGATIONS IN MENTAL HEALTH SERVICES
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (13 rule(s): 419-110-0000,
+      419-110-0010, 419-110-0020, 419-110-0030, 419-110-0040, 419-110-0050, 419-110-0060, 419-110-0070,
+      419-110-0080, 419-110-0090, 419-110-0100, 419-110-0110, 419-110-0120) — covered, not a gap'
   - division: '120'
     title: PATIENT ABUSE INVESTIGATIONS AT THE OREGON STATE HOSPITALS
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (10 rule(s): 419-120-0000,
+      419-120-0010, 419-120-0020, 419-120-0030, 419-120-0040, 419-120-0050, 419-120-0060, 419-120-0070,
+      419-120-0080, 419-120-0090) — covered, not a gap'
   - division: '130'
     title: ABUSE INVESTIGATIONS IN RESIDENTIAL SUBSTANCE USE DISORDER TREATMENT SERVICES
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (12 rule(s): 419-130-0000,
+      419-130-0010, 419-130-0020, 419-130-0030, 419-130-0040, 419-130-0050, 419-130-0060, 419-130-0070,
+      419-130-0080, 419-130-0090, 419-130-0100, 419-130-0110) — covered, not a gap'
   - division: '200'
     title: HEARINGS – CHILD ABUSE
     status: not_ingested
@@ -64013,6 +64158,9 @@ chapters:
     title: CHILD ABUSE INVESTIGATIONS IN CHILD CARE
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (11 rule(s): 419-220-0100,
+      419-220-0110, 419-220-0120, 419-220-0130, 419-220-0140, 419-220-0150, 419-220-0160, 419-220-0170,
+      419-220-0180, 419-220-0190, 419-220-0200) — covered, not a gap'
   - division: '230'
     title: CHILD ABUSE INVESTIGATIONS IN SCHOOLS
     status: not_ingested
@@ -64023,6 +64171,9 @@ chapters:
     title: CHILD ABUSE INVESTIGATIONS BY THIRD-PARTY
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (12 rule(s): 419-240-0100,
+      419-240-0110, 419-240-0120, 419-240-0130, 419-240-0135, 419-240-0140, 419-240-0150, 419-240-0160,
+      419-240-0170, 419-240-0180, 419-240-0190, 419-240-0200) — covered, not a gap'
   - division: '300'
     title: REFERRAL AGENTS FOR PROGRAMS
     status: not_ingested
@@ -64075,30 +64226,58 @@ chapters:
     title: ACADEMIC BOARDING SCHOOLS
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (15 rule(s): 419-410-0010,
+      419-410-0020, 419-410-0030, 419-410-0040, 419-410-0050, 419-410-0060, 419-410-0070, 419-410-0080,
+      419-410-0090, 419-410-0100, 419-410-0110, 419-410-0120, 419-410-0130, 419-410-0140, 419-410-0150)
+      — covered, not a gap'
   - division: '420'
     title: ADOPTION AGENCIES
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (16 rule(s): 419-420-0010,
+      419-420-0020, 419-420-0030, 419-420-0040, 419-420-0050, 419-420-0060, 419-420-0070, 419-420-0080,
+      419-420-0090, 419-420-0100, 419-420-0110, 419-420-0120, 419-420-0130, 419-420-0140, 419-420-0150,
+      419-420-0160) — covered, not a gap'
   - division: '430'
     title: DAY TREATMENT AGENCIES
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (11 rule(s): 419-430-0010,
+      419-430-0020, 419-430-0030, 419-430-0040, 419-430-0050, 419-430-0060, 419-430-0070, 419-430-0080,
+      419-430-0090, 419-430-0100, 419-430-0110) — covered, not a gap'
   - division: '440'
     title: FOSTER CARE AGENCIES
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (21 rule(s): 419-440-0010,
+      419-440-0020, 419-440-0030, 419-440-0040, 419-440-0050, 419-440-0060, 419-440-0070, 419-440-0080,
+      419-440-0090, 419-440-0100, 419-440-0110, 419-440-0120, 419-440-0130, 419-440-0140, 419-440-0150,
+      419-440-0160, 419-440-0170, 419-440-0180, 419-440-0190, 419-440-0200, 419-440-0210) — covered, not
+      a gap'
   - division: '450'
     title: HOMELESS, RUNAWAY, AND TRANSITIONAL LIVING SHELTERS
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (12 rule(s): 419-450-0010,
+      419-450-0020, 419-450-0030, 419-450-0040, 419-450-0050, 419-450-0060, 419-450-0070, 419-450-0080,
+      419-450-0090, 419-450-0100, 419-450-0110, 419-450-0120) — covered, not a gap'
   - division: '460'
     title: OUTDOOR YOUTH PROGRAMS
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (26 rule(s): 419-460-0010,
+      419-460-0020, 419-460-0030, 419-460-0040, 419-460-0050, 419-460-0060, 419-460-0070, 419-460-0080,
+      419-460-0090, 419-460-0100, 419-460-0110, 419-460-0120, 419-460-0130, 419-460-0140, 419-460-0150,
+      419-460-0160, 419-460-0170, 419-460-0180, 419-460-0190, 419-460-0200, 419-460-0210, 419-460-0220,
+      419-460-0230, 419-460-0240, 419-460-0250, 419-460-0260) — covered, not a gap'
   - division: '470'
     title: RESIDENTIAL CARE AGENCIES
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (18 rule(s): 419-470-0010,
+      419-470-0020, 419-470-0030, 419-470-0040, 419-470-0050, 419-470-0060, 419-470-0070, 419-470-0080,
+      419-470-0090, 419-470-0100, 419-470-0110, 419-470-0120, 419-470-0130, 419-470-0140, 419-470-0150,
+      419-470-0160, 419-470-0170, 419-470-0180) — covered, not a gap'
   - division: '480'
     title: SECURE TRANSPORTATION SERVICES
     status: not_ingested
@@ -64131,8 +64310,12 @@ chapters:
     title: THERAPEUTIC BOARDING SCHOOLS
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (17 rule(s): 419-490-0010,
+      419-490-0020, 419-490-0030, 419-490-0040, 419-490-0050, 419-490-0060, 419-490-0070, 419-490-0080,
+      419-490-0090, 419-490-0100, 419-490-0110, 419-490-0120, 419-490-0130, 419-490-0140, 419-490-0150,
+      419-490-0160, 419-490-0170) — covered, not a gap'
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 419-050-0000
   - 419-050-0010
   - 419-100-0000
@@ -72019,7 +72202,8 @@ chapters:
       path: rules/461/135/oar-461-135-0497.md
     - number: 461-135-0498
       status: renumbered
-      note: OARD serves 461-135-1511 for this number
+      note: 'OARD serves 461-135-1511 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 461-135-1511
       path: rules/461/135/oar-461-135-1511.md
     - number: 461-135-0505
@@ -73445,7 +73629,7 @@ chapters:
     - number: 461-198-0040
       status: not_ingested
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 461-135-1511
 - chapter: '462'
   title: Oregon Racing Commission
@@ -73574,6 +73758,7 @@ chapters:
     title: Civil Penalties, Appeals, and Collections
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '140'
     title: DUTIES
     status: ingested
@@ -74043,6 +74228,7 @@ chapters:
     title: Third-Party Information Security Audits
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   discovered: '2026-08-27'
 - chapter: '471'
   title: Employment Department
@@ -74333,7 +74519,8 @@ chapters:
       path: rules/471/030/oar-471-030-0083.md
     - number: 471-030-0090
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 471-030-0095
       status: ingested
       path: rules/471/030/oar-471-030-0095.md
@@ -74918,12 +75105,14 @@ chapters:
       path: rules/543/010/oar-543-010-0034.md
     - number: 543-010-0035
       status: renumbered
-      note: OARD serves 543-080-0020 for this number
+      note: 'OARD serves 543-080-0020 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 543-080-0020
       path: rules/543/080/oar-543-080-0020.md
     - number: 543-010-0036
       status: renumbered
-      note: OARD serves 543-080-0030 for this number
+      note: 'OARD serves 543-080-0030 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 543-080-0030
       path: rules/543/080/oar-543-080-0030.md
   - division: '20'
@@ -74998,7 +75187,8 @@ chapters:
       path: rules/543/060/oar-543-060-0040.md
     - number: 543-060-0060
       status: renumbered
-      note: OARD serves 543-080-0040 for this number
+      note: 'OARD serves 543-080-0040 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 543-080-0040
       path: rules/543/080/oar-543-080-0040.md
     - number: 543-060-0070
@@ -75020,7 +75210,7 @@ chapters:
     - number: 543-080-0010
       status: not_ingested
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 543-080-0020
   - 543-080-0030
   - 543-080-0040
@@ -78577,6 +78767,7 @@ chapters:
     title: STANDARDS FOR THE ACCREDITATION OF EMERGENCY MEDICAL TECHNOLOGY EDUCATION AND TRAINING PROGRAMS
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '51'
     title: SCHOOL FOOD AND NUTRITION SERVICES
     status: partially_ingested
@@ -79231,6 +79422,7 @@ chapters:
     title: Self-Employment
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '150'
     title: Transition Services and Coordination for Students and Youth with Disabilities
     status: ingested
@@ -79538,7 +79730,8 @@ chapters:
       path: rules/584/021/oar-584-021-0115.md
     - number: 584-021-0117
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 584-021-0120
       status: ingested
       path: rules/584/021/oar-584-021-0120.md
@@ -79718,7 +79911,8 @@ chapters:
       path: rules/584/200/oar-584-200-0110.md
     - number: 584-200-0120
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 584-200-0130
       status: not_ingested
   - division: '210'
@@ -79733,7 +79927,8 @@ chapters:
       path: rules/584/210/oar-584-210-0020.md
     - number: 584-210-0025
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 584-210-0030
       status: ingested
       path: rules/584/210/oar-584-210-0030.md
@@ -79961,7 +80156,8 @@ chapters:
       path: rules/584/230/oar-584-230-0010.md
     - number: 584-230-0015
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 584-230-0020
       status: ingested
       path: rules/584/230/oar-584-230-0020.md
@@ -80001,7 +80197,8 @@ chapters:
       path: rules/584/235/oar-584-235-0010.md
     - number: 584-235-0015
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 584-235-0020
       status: ingested
       path: rules/584/235/oar-584-235-0020.md
@@ -80021,16 +80218,20 @@ chapters:
       path: rules/584/235/oar-584-235-0100.md
     - number: 584-235-0200
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 584-235-0210
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 584-235-0220
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 584-235-0230
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
   - division: '245'
     title: PERSONNEL SERVICE LICENSES
     status: not_ingested
@@ -80194,12 +80395,14 @@ chapters:
       path: rules/584/420/oar-584-420-0050.md
     - number: 584-420-0060
       status: renumbered
-      note: OARD serves 584-430-0100 for this number
+      note: 'OARD serves 584-430-0100 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 584-430-0100
       path: rules/584/430/oar-584-430-0100.md
     - number: 584-420-0070
       status: renumbered
-      note: OARD serves 584-430-0200 for this number
+      note: 'OARD serves 584-430-0200 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 584-430-0200
       path: rules/584/430/oar-584-430-0200.md
     - number: 584-420-0310
@@ -80541,7 +80744,7 @@ chapters:
       path: rules/584/080/oar-584-080-0171.md
     note: division no longer listed on OARD — verify upstream
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 584-430-0100
   - 584-430-0200
 - chapter: '585'
@@ -81152,6 +81355,7 @@ chapters:
     title: AGRICULTURAL ASSISTANCE PROGRAMS
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '8'
     title: OREGON MEAT PROCESS INFRASTRUCTURE AND CAPACITY BUILDING GRANT PROGRAM
     status: not_ingested
@@ -81235,7 +81439,8 @@ chapters:
       path: rules/603/011/oar-603-011-0201.md
     - number: 603-011-0212
       status: renumbered
-      note: OARD serves 603-011-0214 for this number
+      note: 'OARD serves 603-011-0214 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-0214
       path: rules/603/011/oar-603-011-0214.md
       reingest_action: amend
@@ -81248,37 +81453,44 @@ chapters:
       status: not_ingested
     - number: 603-011-0250
       status: renumbered
-      note: OARD serves 603-011-1000 for this number
+      note: 'OARD serves 603-011-1000 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1000
       path: rules/603/011/oar-603-011-1000.md
     - number: 603-011-0255
       status: renumbered
-      note: OARD serves 603-011-1100 for this number
+      note: 'OARD serves 603-011-1100 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1100
       path: rules/603/011/oar-603-011-1100.md
     - number: 603-011-0256
       status: renumbered
-      note: OARD serves 603-011-1245 for this number
+      note: 'OARD serves 603-011-1245 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1245
       path: rules/603/011/oar-603-011-1245.md
     - number: 603-011-0263
       status: renumbered
-      note: OARD serves 603-011-1110 for this number
+      note: 'OARD serves 603-011-1110 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1110
       path: rules/603/011/oar-603-011-1110.md
     - number: 603-011-0264
       status: renumbered
-      note: OARD serves 603-011-1111 for this number
+      note: 'OARD serves 603-011-1111 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1111
       path: rules/603/011/oar-603-011-1111.md
     - number: 603-011-0265
       status: renumbered
-      note: OARD serves 603-011-1240 for this number
+      note: 'OARD serves 603-011-1240 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1240
       path: rules/603/011/oar-603-011-1240.md
     - number: 603-011-0270
       status: renumbered
-      note: OARD serves 603-011-1215 for this number
+      note: 'OARD serves 603-011-1215 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1215
       path: rules/603/011/oar-603-011-1215.md
     - number: 603-011-0275
@@ -81291,17 +81503,20 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 603-011-0305
       status: renumbered
-      note: OARD serves 603-011-1220 for this number
+      note: 'OARD serves 603-011-1220 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1220
       path: rules/603/011/oar-603-011-1220.md
     - number: 603-011-0310
       status: renumbered
-      note: OARD serves 603-011-1320 for this number
+      note: 'OARD serves 603-011-1320 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1320
       path: rules/603/011/oar-603-011-1320.md
     - number: 603-011-0340
       status: renumbered
-      note: OARD serves 603-011-1235 for this number
+      note: 'OARD serves 603-011-1235 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1235
       path: rules/603/011/oar-603-011-1235.md
     - number: 603-011-0345
@@ -81310,12 +81525,14 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 603-011-0370
       status: renumbered
-      note: OARD serves 603-011-1225 for this number
+      note: 'OARD serves 603-011-1225 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1225
       path: rules/603/011/oar-603-011-1225.md
     - number: 603-011-0375
       status: renumbered
-      note: OARD serves 603-011-1230 for this number
+      note: 'OARD serves 603-011-1230 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1230
       path: rules/603/011/oar-603-011-1230.md
     - number: 603-011-0376
@@ -81328,12 +81545,14 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 603-011-0381
       status: renumbered
-      note: OARD serves 603-011-1315 for this number
+      note: 'OARD serves 603-011-1315 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1315
       path: rules/603/011/oar-603-011-1315.md
     - number: 603-011-0382
       status: renumbered
-      note: OARD serves 603-011-1310 for this number
+      note: 'OARD serves 603-011-1310 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1310
       path: rules/603/011/oar-603-011-1310.md
     - number: 603-011-0384
@@ -81346,7 +81565,8 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 603-011-0388
       status: renumbered
-      note: OARD serves 603-011-1450 for this number
+      note: 'OARD serves 603-011-1450 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1450
       path: rules/603/011/oar-603-011-1450.md
     - number: 603-011-0392
@@ -81363,17 +81583,20 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 603-011-0398
       status: renumbered
-      note: OARD serves 603-011-1730 for this number
+      note: 'OARD serves 603-011-1730 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1730
       path: rules/603/011/oar-603-011-1730.md
     - number: 603-011-0402
       status: renumbered
-      note: OARD serves 603-011-1505 for this number
+      note: 'OARD serves 603-011-1505 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1505
       path: rules/603/011/oar-603-011-1505.md
     - number: 603-011-0420
       status: renumbered
-      note: OARD serves 603-011-1325 for this number
+      note: 'OARD serves 603-011-1325 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1325
       path: rules/603/011/oar-603-011-1325.md
     - number: 603-011-0500
@@ -81390,12 +81613,14 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 603-011-0515
       status: renumbered
-      note: OARD serves 603-011-1720 for this number
+      note: 'OARD serves 603-011-1720 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1720
       path: rules/603/011/oar-603-011-1720.md
     - number: 603-011-0525
       status: renumbered
-      note: OARD serves 603-011-1610 for this number
+      note: 'OARD serves 603-011-1610 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1610
       path: rules/603/011/oar-603-011-1610.md
     - number: 603-011-0530
@@ -81404,7 +81629,8 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 603-011-0535
       status: renumbered
-      note: OARD serves 603-011-1735 for this number
+      note: 'OARD serves 603-011-1735 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1735
       path: rules/603/011/oar-603-011-1735.md
     - number: 603-011-0540
@@ -81433,12 +81659,14 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 603-011-0565
       status: renumbered
-      note: OARD serves 603-011-1510 for this number
+      note: 'OARD serves 603-011-1510 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1510
       path: rules/603/011/oar-603-011-1510.md
     - number: 603-011-0570
       status: renumbered
-      note: OARD serves 603-011-1500 for this number
+      note: 'OARD serves 603-011-1500 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1500
       path: rules/603/011/oar-603-011-1500.md
     - number: 603-011-0601
@@ -81447,7 +81675,8 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 603-011-0606
       status: renumbered
-      note: OARD serves 603-011-1725 for this number
+      note: 'OARD serves 603-011-1725 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1725
       path: rules/603/011/oar-603-011-1725.md
     - number: 603-011-0610
@@ -81456,12 +81685,14 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 603-011-0615
       status: renumbered
-      note: OARD serves 603-011-1210 for this number
+      note: 'OARD serves 603-011-1210 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1210
       path: rules/603/011/oar-603-011-1210.md
     - number: 603-011-0620
       status: renumbered
-      note: OARD serves 603-011-1715 for this number
+      note: 'OARD serves 603-011-1715 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-011-1715
       path: rules/603/011/oar-603-011-1715.md
     - number: 603-011-0630
@@ -81470,45 +81701,54 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 603-011-0680
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 603-011-0700
       status: renumbered
-      note: OARD serves 603-015-0500 for this number
+      note: 'OARD serves 603-015-0500 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-015-0500
       path: rules/603/015/oar-603-015-0500.md
     - number: 603-011-0701
       status: renumbered
-      note: OARD serves 603-015-0505 for this number
+      note: 'OARD serves 603-015-0505 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-015-0505
       path: rules/603/015/oar-603-015-0505.md
     - number: 603-011-0705
       status: renumbered
-      note: OARD serves 603-015-0510 for this number
+      note: 'OARD serves 603-015-0510 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-015-0510
       path: rules/603/015/oar-603-015-0510.md
     - number: 603-011-0706
       status: renumbered
-      note: OARD serves 603-015-0515 for this number
+      note: 'OARD serves 603-015-0515 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-015-0515
       path: rules/603/015/oar-603-015-0515.md
     - number: 603-011-0710
       status: renumbered
-      note: OARD serves 603-015-0520 for this number
+      note: 'OARD serves 603-015-0520 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-015-0520
       path: rules/603/015/oar-603-015-0520.md
     - number: 603-011-0715
       status: renumbered
-      note: OARD serves 603-015-0525 for this number
+      note: 'OARD serves 603-015-0525 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-015-0525
       path: rules/603/015/oar-603-015-0525.md
     - number: 603-011-0720
       status: renumbered
-      note: OARD serves 603-015-0530 for this number
+      note: 'OARD serves 603-015-0530 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-015-0530
       path: rules/603/015/oar-603-015-0530.md
     - number: 603-011-0725
       status: renumbered
-      note: OARD serves 603-015-0535 for this number
+      note: 'OARD serves 603-015-0535 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 603-015-0535
       path: rules/603/015/oar-603-015-0535.md
     - number: 603-011-1050
@@ -82386,7 +82626,8 @@ chapters:
       path: rules/603/025/oar-603-025-0410.md
     - number: 603-025-0425
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 603-025-0426
       status: not_ingested
     - number: 603-025-0500
@@ -83611,7 +83852,8 @@ chapters:
       status: not_ingested
     - number: 603-048-9002
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
   - division: '50'
     title: PLANT INDUSTRY GENERAL
     status: ingested
@@ -84294,7 +84536,8 @@ chapters:
       path: rules/603/052/oar-603-052-1380.md
     - number: 603-052-1390
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 603-052-1391
       status: not_ingested
     - number: 603-052-1400
@@ -85892,7 +86135,7 @@ chapters:
       status: ingested
       path: rules/603/111/oar-603-111-0040.md
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 603-011-0214
   - 603-011-1000
   - 603-011-1100
@@ -86507,7 +86750,7 @@ chapters:
   discovered: '2026-08-27'
 - chapter: '624'
   title: Department of Agriculture, Oregon Alfalfa Seed Commission
-  url: https://oregon.public.law/rules/oar_chapter_624
+  url: https://secure.sos.state.or.us/oard/ruleSearch.action
   divisions:
   - division: '1'
     title: Procedural Rules
@@ -86571,6 +86814,7 @@ chapters:
       status: ingested
       path: rules/624/040/oar-624-040-0030.md
   discovered: '2026-07-19'
+  not_in_oard_dropdown: true
 - chapter: '628'
   title: Oregon Forest Resources Institute
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=142
@@ -91615,12 +91859,14 @@ chapters:
       path: rules/635/043/oar-635-043-0130.md
     - number: 635-043-0140
       status: renumbered
-      note: OARD serves 635-800-0700 for this number
+      note: 'OARD serves 635-800-0700 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 635-800-0700
       path: rules/635/800/oar-635-800-0700.md
     - number: 635-043-0150
       status: renumbered
-      note: OARD serves 635-800-0015 for this number
+      note: 'OARD serves 635-800-0015 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 635-800-0015
       path: rules/635/800/oar-635-800-0015.md
     - number: 635-043-0175
@@ -93620,13 +93866,16 @@ chapters:
     rules:
     - number: 635-418-0005
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 635-418-0015
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 635-418-0025
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 635-418-0100
       status: not_ingested
     - number: 635-418-0110
@@ -95021,7 +95270,7 @@ chapters:
       status: ingested
       path: rules/635/900/oar-635-900-0020.md
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 635-800-0015
   - 635-800-0700
 - chapter: '642'
@@ -95169,6 +95418,7 @@ chapters:
     title: COMMISSIONER PER DIEM AND REIMBURSEMENTS
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   discovered: '2026-08-27'
 - chapter: '644'
   title: Department of Agriculture, Oregon Sheep Commission
@@ -96059,6 +96309,7 @@ chapters:
     title: METROPOLITAN HOUSING
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '8'
     title: INTERPRETATION OF GOAL 10 HOUSING
     status: partially_ingested
@@ -96266,7 +96517,8 @@ chapters:
       path: rules/660/012/oar-660-012-0016.md
       note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
         shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
-        deleted: ADR 0006, deleting breaks every citation to it'
+        deleted: ADR 0006, deleting breaks every citation to it (not on OARD''s current chapter listing
+        — history, kept, ADR 0006 #270)'
     - number: 660-012-0020
       status: ingested
       path: rules/660/012/oar-660-012-0020.md
@@ -97616,10 +97868,12 @@ chapters:
     title: Oregon Homes Program
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '48'
     title: GOAL 17 COASTAL PUBLIC ACCESS
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   discovered: '2026-08-27'
 - chapter: '661'
   title: Land Use Board of Appeals
@@ -97996,6 +98250,7 @@ chapters:
     title: Per Diem Compensation
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   discovered: '2026-08-27'
 - chapter: '670'
   title: Department of Agriculture, Oregon Blueberry Commission
@@ -100585,6 +100840,7 @@ chapters:
     title: PETITIONS FOR JUDICIAL REVIEW
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '300'
     title: DEFINITIONS
     status: ingested
@@ -103432,37 +103688,44 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 731-007-0270
       status: renumbered
-      note: OARD serves 734-010-0500 for this number
+      note: 'OARD serves 734-010-0500 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 734-010-0500
       path: rules/734/010/oar-734-010-0500.md
     - number: 731-007-0280
       status: renumbered
-      note: OARD serves 734-010-0420 for this number
+      note: 'OARD serves 734-010-0420 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 734-010-0420
       path: rules/734/010/oar-734-010-0420.md
     - number: 731-007-0290
       status: renumbered
-      note: OARD serves 734-010-0430 for this number
+      note: 'OARD serves 734-010-0430 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 734-010-0430
       path: rules/734/010/oar-734-010-0430.md
     - number: 731-007-0300
       status: renumbered
-      note: OARD serves 734-010-0440 for this number
+      note: 'OARD serves 734-010-0440 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 734-010-0440
       path: rules/734/010/oar-734-010-0440.md
     - number: 731-007-0310
       status: renumbered
-      note: OARD serves 734-010-0450 for this number
+      note: 'OARD serves 734-010-0450 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 734-010-0450
       path: rules/734/010/oar-734-010-0450.md
     - number: 731-007-0320
       status: renumbered
-      note: OARD serves 734-010-0460 for this number
+      note: 'OARD serves 734-010-0460 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 734-010-0460
       path: rules/734/010/oar-734-010-0460.md
     - number: 731-007-0330
       status: renumbered
-      note: OARD serves 734-010-0470 for this number
+      note: 'OARD serves 734-010-0470 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 734-010-0470
       path: rules/734/010/oar-734-010-0470.md
     - number: 731-007-0340
@@ -103796,6 +104059,7 @@ chapters:
     title: MULTIMODAL MATCHING FUND
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '40'
     title: TOLLWAY PROJECTS
     status: partially_ingested
@@ -104929,6 +105193,7 @@ chapters:
     title: Environmental Product Declaration Support Fund
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '26'
     title: ROADSIDE MEMORIAL SIGN PROGRAM
     status: ingested
@@ -105598,10 +105863,12 @@ chapters:
       Signs
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '67'
     title: Portable Signs on Right of Way
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '70'
     title: VEHICLE WEIGHT AND DIMENSION LIMITS — PERMITS
     status: ingested
@@ -106117,7 +106384,7 @@ chapters:
       status: ingested
       path: rules/734/082/oar-734-082-0085.md
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 734-010-0420
   - 734-010-0430
   - 734-010-0440
@@ -106329,7 +106596,8 @@ chapters:
       status: not_ingested
     - number: 735-018-0170
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 735-018-0180
       status: not_ingested
   - division: '20'
@@ -114980,7 +115248,8 @@ chapters:
       legal_status_notice: August 2026 (bulltnRsn=1761)
       note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
         shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
-        deleted: ADR 0006, deleting breaks every citation to it'
+        deleted: ADR 0006, deleting breaks every citation to it (not on OARD''s current chapter listing
+        — history, kept, ADR 0006 #270)'
     - number: 813-005-0025
       status: ingested
       path: rules/813/005/oar-813-005-0025.md
@@ -117136,6 +117405,7 @@ chapters:
     title: EVICTION PREVENTION RAPID RESPONSE (EPRR) PROGRAM
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '270'
     title: OREGON REHOUSING INITIATIVE (ORI)
     status: not_ingested
@@ -117180,6 +117450,7 @@ chapters:
     title: TRIBAL HOUSING GRANT FUND (THGF)
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '300'
     title: INDIVIDUAL DEVELOPMENT ACCOUNTS (IDA)
     status: ingested
@@ -117312,6 +117583,7 @@ chapters:
     title: SUBSIDIZED DEVELOPMENT ACCESSIBILITY
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '350'
     title: GENERAL GUARANTEE PROGRAM
     status: ingested
@@ -117397,6 +117669,7 @@ chapters:
     title: ACQUISITION OF NATURALLY OCCURRING AFFORDABLE HOUSING (ANOAH) PROGRAM
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '375'
     title: MODULAR HOUSING FUND
     status: not_ingested
@@ -117441,6 +117714,7 @@ chapters:
     title: ARH CREDIT COMMITTEE
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '395'
     title: PUBLICLY SUPPORTED HOUSING SELLER'S TAX CREDIT
     status: not_ingested
@@ -117469,6 +117743,7 @@ chapters:
     title: MIXED INCOME DEVELOPMENT LOAN FUND
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '405'
     title: CONSTRUCTION LOAN GUARANTEE PROGRAM
     status: not_ingested
@@ -127773,6 +128048,7 @@ chapters:
     title: RULES FOR LICENSURE OF INTERNATIONALLY TRAINED PHYSICIANS
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '25'
     title: RULES FOR LICENSURE TO PRACTICE MEDICINE ACROSS STATE LINES
     status: ingested
@@ -128369,7 +128645,8 @@ chapters:
       path: rules/848/045/oar-848-045-0020.md
     - number: 848-045-0030
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
   - division: '55'
     title: COMPACT COMMISSION RULES
     status: ingested
@@ -128956,10 +129233,12 @@ chapters:
     title: STANDARDS FOR APPROVAL OF EDUCATION PROGRAMS PREPARING NURSES FOR ADVANCED PRACTICE
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '53'
     title: STANDARDS FOR LICENSURE AS AN ADVANCED PRACTICE REGISTERED NURSE
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '55'
     title: SCOPE AND STANDARDS OF PRACTICE FOR THE ADVANCED PRACTICE REGISTERED NURSE
     status: not_ingested
@@ -131631,7 +131910,8 @@ chapters:
       path: rules/858/010/oar-858-010-0037.md
       note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
         shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
-        deleted: ADR 0006, deleting breaks every citation to it'
+        deleted: ADR 0006, deleting breaks every citation to it (not on OARD''s current chapter listing
+        — history, kept, ADR 0006 #270)'
     - number: 858-010-0038
       status: ingested
       path: rules/858/010/oar-858-010-0038.md
@@ -133190,39 +133470,50 @@ chapters:
       path: rules/860/024/oar-860-024-0050.md
     - number: 860-024-0060
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 860-024-0061
       status: not_ingested
     - number: 860-024-0070
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 860-024-0080
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 860-024-0090
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 860-024-0100
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 860-024-0110
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 860-024-0120
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 860-024-0130
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 860-024-0140
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 860-024-0150
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
     - number: 860-024-0160
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
   - division: '25'
     title: REGULATIONS TO PREVENT DUPLICATION OF FACILITIES
     status: partially_ingested
@@ -135192,6 +135483,7 @@ chapters:
     title: Cost Caps (HB 2021)
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '150'
     title: Renewable Natural Gas
     status: ingested
@@ -135227,6 +135519,7 @@ chapters:
     title: Commission-Ordered Sale of Water Utility
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '250'
     title: BIAS PROVIDERS CONTRACTING WITH PUBLIC BODIES - DISCLOSURES AND DETERMINATIONS
     status: ingested
@@ -137983,7 +138276,8 @@ chapters:
       status: not_ingested
     - number: 918-440-1001
       status: not_served
-      note: OARD page contains no rule number (rule likely repealed)
+      note: 'OARD page contains no rule number (rule likely repealed) (not on OARD''s current chapter
+        listing — history, kept, ADR 0006 #270)'
   - division: '450'
     title: SEASONAL FARM-WORKER HOUSING
     status: ingested
@@ -138394,35 +138688,40 @@ chapters:
     rules:
     - number: 918-674-0000
       status: renumbered
-      note: OARD serves 918-674-0500 for this number
+      note: 'OARD serves 918-674-0500 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0500
       path: rules/918/674/oar-918-674-0500.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0005
       status: renumbered
-      note: OARD serves 918-674-0510 for this number
+      note: 'OARD serves 918-674-0510 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0510
       path: rules/918/674/oar-918-674-0510.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0013
       status: renumbered
-      note: OARD serves 918-674-0520 for this number
+      note: 'OARD serves 918-674-0520 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0520
       path: rules/918/674/oar-918-674-0520.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0015
       status: renumbered
-      note: OARD serves 918-674-0530 for this number
+      note: 'OARD serves 918-674-0530 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0530
       path: rules/918/674/oar-918-674-0530.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0023
       status: renumbered
-      note: OARD serves 918-674-0550 for this number
+      note: 'OARD serves 918-674-0550 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0550
       path: rules/918/674/oar-918-674-0550.md
       reingest_action: amend
@@ -138435,7 +138734,8 @@ chapters:
       legal_status_notice: August 2026 (bulltnRsn=1761)
       note: 'OARD serves a search-results list for this number rather than a rule -- more than one rule
         shares it -- so this document''s full text is that list, not the rule (#251). Kept rather than
-        deleted: ADR 0006, deleting breaks every citation to it'
+        deleted: ADR 0006, deleting breaks every citation to it (not on OARD''s current chapter listing
+        — history, kept, ADR 0006 #270)'
     - number: 918-674-0033
       status: ingested
       path: rules/918/674/oar-918-674-0033.md
@@ -138452,14 +138752,16 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 918-674-0043
       status: renumbered
-      note: OARD serves 918-674-0560 for this number
+      note: 'OARD serves 918-674-0560 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0560
       path: rules/918/674/oar-918-674-0560.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0055
       status: renumbered
-      note: OARD serves 918-674-0570 for this number
+      note: 'OARD serves 918-674-0570 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0570
       path: rules/918/674/oar-918-674-0570.md
       reingest_action: amend
@@ -138473,42 +138775,48 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 918-674-0060
       status: renumbered
-      note: OARD serves 918-674-0580 for this number
+      note: 'OARD serves 918-674-0580 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0580
       path: rules/918/674/oar-918-674-0580.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0065
       status: renumbered
-      note: OARD serves 918-674-0590 for this number
+      note: 'OARD serves 918-674-0590 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0590
       path: rules/918/674/oar-918-674-0590.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0075
       status: renumbered
-      note: OARD serves 918-674-0600 for this number
+      note: 'OARD serves 918-674-0600 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0600
       path: rules/918/674/oar-918-674-0600.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0085
       status: renumbered
-      note: OARD serves 918-674-0610 for this number
+      note: 'OARD serves 918-674-0610 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0610
       path: rules/918/674/oar-918-674-0610.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0090
       status: renumbered
-      note: OARD serves 918-674-0620 for this number
+      note: 'OARD serves 918-674-0620 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0620
       path: rules/918/674/oar-918-674-0620.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0095
       status: renumbered
-      note: OARD serves 918-674-0630 for this number
+      note: 'OARD serves 918-674-0630 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0630
       path: rules/918/674/oar-918-674-0630.md
       reingest_action: amend
@@ -138522,133 +138830,152 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 918-674-0105
       status: renumbered
-      note: OARD serves 918-674-0640 for this number
+      note: 'OARD serves 918-674-0640 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0640
       path: rules/918/674/oar-918-674-0640.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0115
       status: renumbered
-      note: OARD serves 918-674-0650 for this number
+      note: 'OARD serves 918-674-0650 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0650
       path: rules/918/674/oar-918-674-0650.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0125
       status: renumbered
-      note: OARD serves 918-674-0660 for this number
+      note: 'OARD serves 918-674-0660 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0660
       path: rules/918/674/oar-918-674-0660.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0130
       status: renumbered
-      note: OARD serves 918-674-0670 for this number
+      note: 'OARD serves 918-674-0670 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0670
       path: rules/918/674/oar-918-674-0670.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0135
       status: renumbered
-      note: OARD serves 918-674-0680 for this number
+      note: 'OARD serves 918-674-0680 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0680
       path: rules/918/674/oar-918-674-0680.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0145
       status: renumbered
-      note: OARD serves 918-674-0690 for this number
+      note: 'OARD serves 918-674-0690 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0690
       path: rules/918/674/oar-918-674-0690.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0150
       status: renumbered
-      note: OARD serves 918-674-0720 for this number
+      note: 'OARD serves 918-674-0720 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0720
       path: rules/918/674/oar-918-674-0720.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0155
       status: renumbered
-      note: OARD serves 918-674-0740 for this number
+      note: 'OARD serves 918-674-0740 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0740
       path: rules/918/674/oar-918-674-0740.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0200
       status: renumbered
-      note: OARD serves 918-674-0800 for this number
+      note: 'OARD serves 918-674-0800 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0800
       path: rules/918/674/oar-918-674-0800.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0210
       status: renumbered
-      note: OARD serves 918-674-0810 for this number
+      note: 'OARD serves 918-674-0810 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0810
       path: rules/918/674/oar-918-674-0810.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0220
       status: renumbered
-      note: OARD serves 918-674-0820 for this number
+      note: 'OARD serves 918-674-0820 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0820
       path: rules/918/674/oar-918-674-0820.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0230
       status: renumbered
-      note: OARD serves 918-674-0830 for this number
+      note: 'OARD serves 918-674-0830 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0830
       path: rules/918/674/oar-918-674-0830.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0240
       status: renumbered
-      note: OARD serves 918-674-0840 for this number
+      note: 'OARD serves 918-674-0840 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0840
       path: rules/918/674/oar-918-674-0840.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0250
       status: renumbered
-      note: OARD serves 918-674-0850 for this number
+      note: 'OARD serves 918-674-0850 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0850
       path: rules/918/674/oar-918-674-0850.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0260
       status: renumbered
-      note: OARD serves 918-674-0870 for this number
+      note: 'OARD serves 918-674-0870 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0870
       path: rules/918/674/oar-918-674-0870.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0270
       status: renumbered
-      note: OARD serves 918-674-0880 for this number
+      note: 'OARD serves 918-674-0880 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0880
       path: rules/918/674/oar-918-674-0880.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0280
       status: renumbered
-      note: OARD serves 918-674-0890 for this number
+      note: 'OARD serves 918-674-0890 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0890
       path: rules/918/674/oar-918-674-0890.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0290
       status: renumbered
-      note: OARD serves 918-674-0900 for this number
+      note: 'OARD serves 918-674-0900 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0900
       path: rules/918/674/oar-918-674-0900.md
       reingest_action: amend
       reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 918-674-0300
       status: renumbered
-      note: OARD serves 918-674-0910 for this number
+      note: 'OARD serves 918-674-0910 for this number (not on OARD''s current chapter listing — history,
+        kept, ADR 0006 #270)'
       served_as: 918-674-0910
       path: rules/918/674/oar-918-674-0910.md
       reingest_action: amend
@@ -138837,7 +139164,7 @@ chapters:
       status: ingested
       path: rules/918/780/oar-918-780-0140.md
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 918-674-0500
   - 918-674-0510
   - 918-674-0520
@@ -139467,6 +139794,7 @@ chapters:
     title: PROCEDURAL RULES, PURPOSE AND RULEMAKING AUTHORITY
     status: not_ingested
     rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '20'
     title: REGIONAL HEALTH EQUITY COALITIONS
     status: not_ingested
@@ -139507,10 +139835,14 @@ chapters:
     title: REALD AND SOGI ADVISORY COMMITTEE
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (1 rule(s): 950-038-0010) —
+      covered, not a gap'
   - division: '40'
     title: CULTURAL COMPETENCY CONTINUING EDUCATION FOR HEALTH CARE PROFESSIONALS
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (3 rule(s): 950-040-0000, 950-040-0010,
+      950-040-0020) — covered, not a gap'
   - division: '50'
     title: STANDARDS FOR HEALTH CARE INTERPRETER REGISTRY ENROLLMENT AND REQUIREMENTS TO WORK WITH QUALIFIED
       OR CERTIFIED HEALTH CARE INTERPRETERS
@@ -139526,8 +139858,12 @@ chapters:
     title: TRADITIONAL HEALTH WORKERS
     status: not_ingested
     rules: []
+    note: 'every rule OARD lists here is already claimed under another row (17 rule(s): 950-060-0000,
+      950-060-0010, 950-060-0020, 950-060-0030, 950-060-0040, 950-060-0050, 950-060-0060, 950-060-0070,
+      950-060-0080, 950-060-0090, 950-060-0100, 950-060-0110, 950-060-0120, 950-060-0130, 950-060-0140,
+      950-060-0150, 950-060-0160) — covered, not a gap'
   discovered: '2026-08-27'
-  claimed_by_other_chapters:
+  claimed_by_another_row:
   - 950-030-0000
   - 950-030-0010
   - 950-030-0020
