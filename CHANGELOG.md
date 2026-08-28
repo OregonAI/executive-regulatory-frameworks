@@ -11,6 +11,43 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-08-28 — **`generated-views` was one 38.8-minute serial job against a 60-minute cap,
+  headroom that only shrank as the gate count grew (55 to 71 in two days)** (#268).
+  Branch protection requires a check named literally `generated-views`, so the fix keeps
+  that name as a FAN-IN job — `needs: [generated-views-shard-1..5]`, `if: always()`,
+  asserting every shard's `needs.*.result == 'success'` explicitly, so it goes red on
+  shard failure, cancellation, AND skip alike (a plain `needs:` job is silently SKIPPED
+  when an upstream fails, which is the "cancellation reads as somebody's choice" failure
+  this exists to end, one layer up). The 63 PR-tier gates are bin-packed by measured
+  seconds (longest-processing-time-first) into 5 parallel shards, committed as
+  `.github/generated-views-manifest.yml`; `src/shard_generated_views.py --check` (a new
+  gate, itself sharded in) fails the run if a gate in the workflow has no manifest entry,
+  if a manifest entry names a gate nothing runs, if a manifest's stated shard disagrees
+  with where the gate actually lives, or if a shard job exists that the fan-in does not
+  depend on — enforced rather than reviewed. The two llms.txt gates
+  (`llms.txt must be current` / `...and what we publish must name every chapter we
+  mirror`) are co-located in one shard and now run as a single `build_llms.py --check
+  --selftest` invocation, sharing the one full-corpus `build()` call both proofs need
+  (measured ~86.7s combined vs ~173.6s as two separate steps); `build_llms.py`'s
+  `selftest()` now accepts a pre-built text instead of re-walking the corpus itself.
+  Every gate step carries its own `timeout-minutes` (computed from its measured seconds,
+  generous margin) so a gate that runs long fails under its own name rather than the
+  whole shard timing out anonymously; job-level `timeout-minutes` stays only as a
+  backstop, per the ticket's "a hidden expiry date is what #267 bought time on." Also
+  fixed in passing: four different steps in the old job shared the literal name
+  `...and that rule must be able to fail` (after `provenance_spelling.py`,
+  `results_page_documents.py`, `oar_watch_coverage.py`, and `seed_oar_watch.py`'s
+  respective `--check` steps) — harmless to GitHub Actions, which does not require step
+  names to be unique, but it broke the manifest's own use of step name as a gate's
+  identity, so each now carries a distinguishing parenthetical. Measured, this branch,
+  2026-08-28: 63 PR-tier gates timed individually (all passing), 760.2s serial;
+  bin-packed makespan 141.9s local, ~4.0 CI-minutes at the measured 1.7x slowdown — down
+  from the old job's 38.8 CI-minutes, and flat as gates are added, since wall-clock is now
+  set by the slowest shard rather than the sum of all of them. Nightly-only gates
+  (`generated-views-nightly`; schedule/workflow_dispatch) are out of scope for the
+  manifest by design and untouched in substance, only relocated to their own
+  conditioned job.
+
 - 2026-08-27 — **`CONTEXT.md` and the registry's own comments said all 189 rows carry no
   `enabling_authority`** (#219). The claim was written when the field landed empty (#170,
   2026-08-21) and never re-measured since: on this branch 113 of 189 rows carry a reviewed
