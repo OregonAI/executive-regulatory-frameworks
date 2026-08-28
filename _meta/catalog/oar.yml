@@ -20131,7 +20131,7 @@ chapters:
       path: rules/250/001/oar-250-001-0060.md
   - division: '10'
     title: STATEWIDE RULES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 250-010-0010
       status: ingested
@@ -20212,7 +20212,8 @@ chapters:
       status: ingested
       path: rules/250/010/oar-250-010-0164.md
     - number: 250-010-0166
-      status: not_ingested
+      status: ingested
+      path: rules/250/010/oar-250-010-0166.md
     - number: 250-010-0201
       status: ingested
       path: rules/250/010/oar-250-010-0201.md
@@ -20405,7 +20406,7 @@ chapters:
       path: rules/250/011/oar-250-011-0230.md
   - division: '14'
     title: MARINE FACILITY PROGRAM RULES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 250-014-0001
       status: ingested
@@ -20435,14 +20436,17 @@ chapters:
       status: ingested
       path: rules/250/014/oar-250-014-0510.md
     - number: 250-014-0550
-      status: not_ingested
+      status: ingested
+      path: rules/250/014/oar-250-014-0550.md
     - number: 250-014-0555
-      status: not_ingested
+      status: ingested
+      path: rules/250/014/oar-250-014-0555.md
     - number: 250-014-0560
-      status: not_ingested
+      status: ingested
+      path: rules/250/014/oar-250-014-0560.md
   - division: '15'
     title: OCEAN CHARTER VESSELS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 250-015-0001
       status: ingested
@@ -20451,7 +20455,8 @@ chapters:
       status: ingested
       path: rules/250/015/oar-250-015-0002.md
     - number: 250-015-0004
-      status: not_ingested
+      status: ingested
+      path: rules/250/015/oar-250-015-0004.md
     - number: 250-015-0005
       status: ingested
       path: rules/250/015/oar-250-015-0005.md
@@ -20613,7 +20618,7 @@ chapters:
       path: rules/250/018/oar-250-018-0210.md
   - division: '20'
     title: LOCAL AND SPECIAL RULES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 250-020-0005
       status: ingested
@@ -20854,9 +20859,11 @@ chapters:
       path: rules/250/020/oar-250-020-0385.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 250-020-0400
-      status: not_ingested
+      status: ingested
+      path: rules/250/020/oar-250-020-0400.md
     - number: 250-020-0410
-      status: not_ingested
+      status: ingested
+      path: rules/250/020/oar-250-020-0410.md
   - division: '21'
     title: PERSONAL WATERCRAFT RULES
     status: ingested
@@ -41649,18 +41656,23 @@ chapters:
       path: rules/335/060/oar-335-060-0060.md
   - division: '70'
     title: PROFESSIONAL DEVELOPMENT
-    status: not_ingested
+    status: ingested
     rules:
     - number: 335-070-0020
-      status: not_ingested
+      status: ingested
+      path: rules/335/070/oar-335-070-0020.md
     - number: 335-070-0040
-      status: not_ingested
+      status: ingested
+      path: rules/335/070/oar-335-070-0040.md
     - number: 335-070-0050
-      status: not_ingested
+      status: ingested
+      path: rules/335/070/oar-335-070-0050.md
     - number: 335-070-0080
-      status: not_ingested
+      status: ingested
+      path: rules/335/070/oar-335-070-0080.md
     - number: 335-070-0090
-      status: not_ingested
+      status: ingested
+      path: rules/335/070/oar-335-070-0090.md
   - division: '80'
     title: CONDITIONAL LICENSES
     status: ingested
@@ -67466,7 +67478,7 @@ chapters:
   divisions:
   - division: '1'
     title: PROCEDURAL RULES, ATTORNEY FEES, AND GENERAL PROVISIONS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 436-001-0003
       status: ingested
@@ -67526,12 +67538,14 @@ chapters:
       status: ingested
       path: rules/436/001/oar-436-001-0430.md
     - number: 436-001-0432
-      status: not_ingested
+      status: ingested
+      path: rules/436/001/oar-436-001-0432.md
     - number: 436-001-0435
       status: ingested
       path: rules/436/001/oar-436-001-0435.md
     - number: 436-001-0438
-      status: not_ingested
+      status: ingested
+      path: rules/436/001/oar-436-001-0438.md
     - number: 436-001-0440
       status: ingested
       path: rules/436/001/oar-436-001-0440.md
@@ -68103,7 +68117,7 @@ chapters:
       path: rules/436/045/oar-436-045-0030.md
   - division: '50'
     title: EMPLOYER/INSURER COVERAGE RESPONSIBILITY
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 436-050-0003
       status: ingested
@@ -68199,7 +68213,8 @@ chapters:
       status: ingested
       path: rules/436/050/oar-436-050-0340.md
     - number: 436-050-0500
-      status: not_ingested
+      status: ingested
+      path: rules/436/050/oar-436-050-0500.md
   - division: '55'
     title: CERTIFICATION OF CLAIMS EXAMINERS
     status: ingested
@@ -68628,7 +68643,7 @@ chapters:
       path: rules/436/110/oar-436-110-0900.md
   - division: '120'
     title: VOCATIONAL ASSISTANCE TO INJURED WORKERS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 436-120-0003
       status: ingested
@@ -68640,7 +68655,8 @@ chapters:
       status: ingested
       path: rules/436/120/oar-436-120-0008.md
     - number: 436-120-0009
-      status: not_ingested
+      status: ingested
+      path: rules/436/120/oar-436-120-0009.md
     - number: 436-120-0012
       status: ingested
       path: rules/436/120/oar-436-120-0012.md
@@ -68693,7 +68709,8 @@ chapters:
       status: ingested
       path: rules/436/120/oar-436-120-0510.md
     - number: 436-120-0511
-      status: not_ingested
+      status: ingested
+      path: rules/436/120/oar-436-120-0511.md
     - number: 436-120-0520
       status: ingested
       path: rules/436/120/oar-436-120-0520.md
@@ -84357,22 +84374,29 @@ chapters:
       path: rules/589/005/oar-589-005-0500.md
   - division: '6'
     title: COMMUNITY COLLEGE COURSE AND PROGRAM APPROVAL
-    status: not_ingested
+    status: ingested
     rules:
     - number: 589-006-0050
-      status: not_ingested
+      status: ingested
+      path: rules/589/006/oar-589-006-0050.md
     - number: 589-006-0100
-      status: not_ingested
+      status: ingested
+      path: rules/589/006/oar-589-006-0100.md
     - number: 589-006-0150
-      status: not_ingested
+      status: ingested
+      path: rules/589/006/oar-589-006-0150.md
     - number: 589-006-0200
-      status: not_ingested
+      status: ingested
+      path: rules/589/006/oar-589-006-0200.md
     - number: 589-006-0300
-      status: not_ingested
+      status: ingested
+      path: rules/589/006/oar-589-006-0300.md
     - number: 589-006-0350
-      status: not_ingested
+      status: ingested
+      path: rules/589/006/oar-589-006-0350.md
     - number: 589-006-0400
-      status: not_ingested
+      status: ingested
+      path: rules/589/006/oar-589-006-0400.md
   - division: '7'
     title: PROGRAMS
     status: ingested
@@ -89781,18 +89805,23 @@ chapters:
       path: rules/604/010/oar-604-010-0015.md
   - division: '20'
     title: Per Diem Compensation
-    status: not_ingested
+    status: ingested
     rules:
     - number: 604-020-0100
-      status: not_ingested
+      status: ingested
+      path: rules/604/020/oar-604-020-0100.md
     - number: 604-020-0110
-      status: not_ingested
+      status: ingested
+      path: rules/604/020/oar-604-020-0110.md
     - number: 604-020-0120
-      status: not_ingested
+      status: ingested
+      path: rules/604/020/oar-604-020-0120.md
     - number: 604-020-0130
-      status: not_ingested
+      status: ingested
+      path: rules/604/020/oar-604-020-0130.md
     - number: 604-020-0140
-      status: not_ingested
+      status: ingested
+      path: rules/604/020/oar-604-020-0140.md
   - division: '30'
     title: COMMISSION MAKE UP, TERMS, QUALIFICATIONS, TERM LIMITS, REMOVAL FROM OFFICE
     status: ingested
@@ -101774,7 +101803,7 @@ chapters:
       path: rules/661/001/oar-661-001-0005.md
   - division: '10'
     title: RULES OF PROCEDURE FOR APPEALS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 661-010-0000
       status: ingested
@@ -101786,11 +101815,14 @@ chapters:
       status: ingested
       path: rules/661/010/oar-661-010-0010.md
     - number: 661-010-0011
-      status: not_ingested
+      status: ingested
+      path: rules/661/010/oar-661-010-0011.md
     - number: 661-010-0012
-      status: not_ingested
+      status: ingested
+      path: rules/661/010/oar-661-010-0012.md
     - number: 661-010-0014
-      status: not_ingested
+      status: ingested
+      path: rules/661/010/oar-661-010-0014.md
     - number: 661-010-0015
       status: ingested
       path: rules/661/010/oar-661-010-0015.md
@@ -101804,7 +101836,8 @@ chapters:
       status: ingested
       path: rules/661/010/oar-661-010-0026.md
     - number: 661-010-0029
-      status: not_ingested
+      status: ingested
+      path: rules/661/010/oar-661-010-0029.md
     - number: 661-010-0030
       status: ingested
       path: rules/661/010/oar-661-010-0030.md
@@ -101821,12 +101854,14 @@ chapters:
       status: ingested
       path: rules/661/010/oar-661-010-0040.md
     - number: 661-010-0043
-      status: not_ingested
+      status: ingested
+      path: rules/661/010/oar-661-010-0043.md
     - number: 661-010-0045
       status: ingested
       path: rules/661/010/oar-661-010-0045.md
     - number: 661-010-0046
-      status: not_ingested
+      status: ingested
+      path: rules/661/010/oar-661-010-0046.md
     - number: 661-010-0050
       status: ingested
       path: rules/661/010/oar-661-010-0050.md
@@ -101846,7 +101881,8 @@ chapters:
       status: ingested
       path: rules/661/010/oar-661-010-0068.md
     - number: 661-010-0069
-      status: not_ingested
+      status: ingested
+      path: rules/661/010/oar-661-010-0069.md
     - number: 661-010-0070
       status: ingested
       path: rules/661/010/oar-661-010-0070.md
@@ -118212,7 +118248,7 @@ chapters:
       path: rules/811/001/oar-811-001-0070.md
   - division: '10'
     title: GENERAL RULES AND LICENSING
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 811-010-0005
       status: ingested
@@ -118224,7 +118260,8 @@ chapters:
       status: ingested
       path: rules/811/010/oar-811-010-0015.md
     - number: 811-010-0021
-      status: not_ingested
+      status: ingested
+      path: rules/811/010/oar-811-010-0021.md
     - number: 811-010-0025
       status: ingested
       path: rules/811/010/oar-811-010-0025.md
@@ -118271,7 +118308,8 @@ chapters:
       status: ingested
       path: rules/811/010/oar-811-010-0110.md
     - number: 811-010-0112
-      status: not_ingested
+      status: ingested
+      path: rules/811/010/oar-811-010-0112.md
     - number: 811-010-0115
       status: ingested
       path: rules/811/010/oar-811-010-0115.md
@@ -118282,10 +118320,11 @@ chapters:
       status: ingested
       path: rules/811/010/oar-811-010-0130.md
     - number: 811-010-0140
-      status: not_ingested
+      status: ingested
+      path: rules/811/010/oar-811-010-0140.md
   - division: '15'
     title: CONSUMER PROTECTION
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 811-015-0000
       status: ingested
@@ -118303,7 +118342,8 @@ chapters:
       status: ingested
       path: rules/811/015/oar-811-015-0010.md
     - number: 811-015-0011
-      status: not_ingested
+      status: ingested
+      path: rules/811/015/oar-811-015-0011.md
     - number: 811-015-0025
       status: ingested
       path: rules/811/015/oar-811-015-0025.md
@@ -118311,7 +118351,8 @@ chapters:
       status: ingested
       path: rules/811/015/oar-811-015-0030.md
     - number: 811-015-0031
-      status: not_ingested
+      status: ingested
+      path: rules/811/015/oar-811-015-0031.md
     - number: 811-015-0045
       status: ingested
       path: rules/811/015/oar-811-015-0045.md
@@ -118356,7 +118397,7 @@ chapters:
       path: rules/811/030/oar-811-030-0030.md
   - division: '35'
     title: CODE OF ETHICS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 811-035-0000
       status: ingested
@@ -118371,12 +118412,14 @@ chapters:
       status: ingested
       path: rules/811/035/oar-811-035-0007.md
     - number: 811-035-0008
-      status: not_ingested
+      status: ingested
+      path: rules/811/035/oar-811-035-0008.md
     - number: 811-035-0015
       status: ingested
       path: rules/811/035/oar-811-035-0015.md
     - number: 811-035-0019
-      status: not_ingested
+      status: ingested
+      path: rules/811/035/oar-811-035-0019.md
     - number: 811-035-0025
       status: ingested
       path: rules/811/035/oar-811-035-0025.md
@@ -123393,20 +123436,26 @@ chapters:
       path: rules/820/020/oar-820-020-0055.md
   - division: '25'
     title: DIGITAL SEAL AND SIGNATURE
-    status: not_ingested
+    status: ingested
     rules:
     - number: 820-025-0001
-      status: not_ingested
+      status: ingested
+      path: rules/820/025/oar-820-025-0001.md
     - number: 820-025-0005
-      status: not_ingested
+      status: ingested
+      path: rules/820/025/oar-820-025-0005.md
     - number: 820-025-0010
-      status: not_ingested
+      status: ingested
+      path: rules/820/025/oar-820-025-0010.md
     - number: 820-025-0015
-      status: not_ingested
+      status: ingested
+      path: rules/820/025/oar-820-025-0015.md
     - number: 820-025-0020
-      status: not_ingested
+      status: ingested
+      path: rules/820/025/oar-820-025-0020.md
     - number: 820-025-0025
-      status: not_ingested
+      status: ingested
+      path: rules/820/025/oar-820-025-0025.md
   - division: '30'
     title: THE PRACTICE OF LAND SURVEYING
     status: ingested
@@ -128846,7 +128895,7 @@ chapters:
       path: rules/839/001/oar-839-001-0800.md
   - division: '2'
     title: PROCEDURAL RULES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 839-002-0001
       status: ingested
@@ -128900,7 +128949,8 @@ chapters:
       status: ingested
       path: rules/839/002/oar-839-002-0080.md
     - number: 839-002-0405
-      status: not_ingested
+      status: ingested
+      path: rules/839/002/oar-839-002-0405.md
   - division: '3'
     title: CIVIL RIGHTS COMPLAINT PROCEDURES
     status: ingested
@@ -129279,7 +129329,7 @@ chapters:
       path: rules/839/006/oar-839-006-0480.md
   - division: '7'
     title: OREGON SICK TIME
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 839-007-0000
       status: ingested
@@ -129312,7 +129362,8 @@ chapters:
       status: ingested
       path: rules/839/007/oar-839-007-0032.md
     - number: 839-007-0033
-      status: not_ingested
+      status: ingested
+      path: rules/839/007/oar-839-007-0033.md
     - number: 839-007-0035
       status: ingested
       path: rules/839/007/oar-839-007-0035.md
@@ -129371,10 +129422,11 @@ chapters:
       path: rules/839/008/oar-839-008-0035.md
   - division: '9'
     title: EMPLOYEE LEAVE LAWS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 839-009-0150
-      status: not_ingested
+      status: ingested
+      path: rules/839/009/oar-839-009-0150.md
     - number: 839-009-0200
       status: ingested
       path: rules/839/009/oar-839-009-0200.md
@@ -129383,7 +129435,8 @@ chapters:
       status: ingested
       path: rules/839/009/oar-839-009-0210.md
     - number: 839-009-0215
-      status: not_ingested
+      status: ingested
+      path: rules/839/009/oar-839-009-0215.md
     - number: 839-009-0220
       status: ingested
       path: rules/839/009/oar-839-009-0220.md
@@ -129391,7 +129444,8 @@ chapters:
       status: ingested
       path: rules/839/009/oar-839-009-0230.md
     - number: 839-009-0235
-      status: not_ingested
+      status: ingested
+      path: rules/839/009/oar-839-009-0235.md
     - number: 839-009-0240
       status: ingested
       path: rules/839/009/oar-839-009-0240.md
@@ -130514,7 +130568,7 @@ chapters:
       path: rules/839/021/oar-839-021-0500.md
   - division: '25'
     title: PREVAILING WAGE RATES ON PUBLIC WORKS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 839-025-0000
       status: ingested
@@ -130538,7 +130592,8 @@ chapters:
       status: ingested
       path: rules/839/025/oar-839-025-0008.md
     - number: 839-025-0009
-      status: not_ingested
+      status: ingested
+      path: rules/839/025/oar-839-025-0009.md
     - number: 839-025-0010
       status: ingested
       path: rules/839/025/oar-839-025-0010.md
@@ -130668,7 +130723,8 @@ chapters:
       path: rules/839/025/oar-839-025-0750.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 839-025-0800
-      status: not_ingested
+      status: ingested
+      path: rules/839/025/oar-839-025-0800.md
   - division: '26'
     title: EMPLOYEE WORK SCHEDULES
     status: ingested
@@ -141720,20 +141776,26 @@ chapters:
       path: rules/877/010/oar-877-010-0045.md
   - division: '15'
     title: REGISTRATION AS A BACCALAUREATE SOCIAL WORKER AND LICENSURE AS A MASTER’S SOCIAL WORKER
-    status: not_ingested
+    status: ingested
     rules:
     - number: 877-015-0105
-      status: not_ingested
+      status: ingested
+      path: rules/877/015/oar-877-015-0105.md
     - number: 877-015-0108
-      status: not_ingested
+      status: ingested
+      path: rules/877/015/oar-877-015-0108.md
     - number: 877-015-0131
-      status: not_ingested
+      status: ingested
+      path: rules/877/015/oar-877-015-0131.md
     - number: 877-015-0136
-      status: not_ingested
+      status: ingested
+      path: rules/877/015/oar-877-015-0136.md
     - number: 877-015-0146
-      status: not_ingested
+      status: ingested
+      path: rules/877/015/oar-877-015-0146.md
     - number: 877-015-0155
-      status: not_ingested
+      status: ingested
+      path: rules/877/015/oar-877-015-0155.md
   - division: '20'
     title: PROCEDURE FOR CERTIFICATION OF CLINICAL SOCIAL WORK ASSOCIATES AND LICENSING OF LICENSED CLINICAL
       SOCIAL WORKERS
