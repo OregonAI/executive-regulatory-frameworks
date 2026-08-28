@@ -753,6 +753,37 @@ def status_counts(cat):
     return counts
 
 
+def summary_total_line(n_chapters, counts):
+    """THE ACTUAL PRINTED STRING for `--summary`'s TOTAL line, factored out of
+    `cmd_summary` so `--selftest` can assert on the printer itself rather than only on
+    `status_counts()` feeding it. #282's own review found the gap this closes: every new
+    selftest check exercised `status_counts`, and nothing exercised this line -- reverting
+    ONLY this f-string to the pre-#282 arithmetic (`total - ingested`) left `--selftest`
+    green while `--summary` printed the exact #282 bug again, verbatim. This function is
+    now the thing under test, not a copy of it."""
+    return (f"TOTAL: {n_chapters} chapters, {counts['total']} rules, "
+            f"{counts['ingested']} ingested, {counts['not_ingested']} to import "
+            f"-- {counts['renumbered']} renumbered and {counts['not_served']} not served, "
+            f"recorded with a reason and never counted as pending (#282)")
+
+
+def summary_other_line(counts):
+    """THE ACTUAL PRINTED STRING for `--summary`'s `other` line. Always printed, never
+    only `if counts["other"]` -- catalog_agencies.py's `tally()` names this rule
+    ("NAME THE ZEROES") for exactly this reason: a bucket silently skipped when it holds
+    zero looks identical to a bucket nobody thought to report. Names the declared
+    vocabulary as a plain list rather than interpolating `RULE_STATUSES` (a raw tuple
+    repr, `('ingested', 'not_ingested', ...)`, is not something a human reader asked for)."""
+    vocab = ", ".join(RULE_STATUSES)
+    other_total = sum(counts["other"].values())
+    if not other_total:
+        return f"0 rule(s) carry a status outside the declared vocabulary ({vocab})"
+    named = ", ".join(f"{n} {s!r}" for s, n in sorted(counts["other"].items(), key=str))
+    return (f"{other_total} rule(s) carry a status outside the declared vocabulary "
+            f"({vocab}) ({named}) -- reported rather than guessed, and not counted as "
+            f"pending")
+
+
 def cmd_summary():
     cat = load_catalog()
     rows = []
@@ -764,15 +795,8 @@ def cmd_summary():
     for ch, title, nd, n, ing in rows:
         print(f"{ch:>4}  {nd:3d} div  {n:5d} rules  {ing:5d} ingested  {title[:55]}")
     counts = status_counts(cat)
-    print(f"\nTOTAL: {len(rows)} chapters, {counts['total']} rules, "
-          f"{counts['ingested']} ingested, {counts['not_ingested']} to import "
-          f"-- {counts['renumbered']} renumbered and {counts['not_served']} not served, "
-          f"recorded with a reason and never counted as pending (#282)")
-    if counts["other"]:
-        named = ", ".join(f"{n} {s!r}" for s, n in sorted(counts["other"].items(), key=str))
-        print(f"{sum(counts['other'].values())} rule(s) carry a status outside "
-              f"{RULE_STATUSES} ({named}) -- reported rather than guessed, and not "
-              f"counted as pending")
+    print(f"\n{summary_total_line(len(rows), counts)}")
+    print(summary_other_line(counts))
 
 
 # ------------------------------------------------------------------------------ selftest
@@ -1177,12 +1201,38 @@ def selftest() -> int:
           "not folded into not_ingested or dropped from the total",
           counts["other"] == {"not_sliceable": 1})
 
+    # THE PRINTER ITSELF, not just status_counts() feeding it -- a code review of #282
+    # found that every prior check above stopped at status_counts, so a regression back
+    # to `total - ingested` inside summary_total_line would leave --selftest green while
+    # --summary printed the bug again (reproduced: reverting only the f-string to
+    # `{counts['total'] - counts['ingested']} to import` prints "4 to import" on this
+    # fixture and every check above still PASSes, because none of them call this
+    # function). Asserted against the exact naive figure so a reversion is caught here.
+    total_line = summary_total_line(1, counts)
+    naive_to_import = counts["total"] - counts["ingested"]
+    check("summary_total_line prints the counted 'to import' figure (1), not the naive "
+          "total-minus-ingested figure the naive formula over this fixture would print "
+          f"({naive_to_import})",
+          "1 to import" in total_line and f"{naive_to_import} to import" not in total_line)
+
+    other_line = summary_other_line(counts)
+    check("summary_other_line names the not_sliceable row by value, not as a raw tuple "
+          "repr of the declared vocabulary",
+          "not_sliceable" in other_line and "('ingested'" not in other_line)
+
     # A catalog matching CONTEXT.md's declared vocabulary exactly (no not_sliceable rows,
     # the shape of the real committed catalog measured 2026-08-28) reports no `other`.
     clean_cat = {"chapters": [{"chapter": "1", "title": "T", "divisions": [
         {"division": "1", "rules": [{"number": "1-001-0001", "status": "ingested"}]}]}]}
+    clean_counts = status_counts(clean_cat)
     check("a catalog holding only declared statuses reports an empty 'other'",
-          not status_counts(clean_cat)["other"])
+          not clean_counts["other"])
+    # NAME THE ZEROES (catalog_agencies.tally's own rule): a zero 'other' bucket must
+    # still be printed, not silently skipped -- a skipped zero looks identical to a
+    # zero nobody thought to report.
+    check("summary_other_line names the zero rather than printing nothing for it",
+          summary_other_line(clean_counts) == "0 rule(s) carry a status outside the "
+          "declared vocabulary (ingested, not_ingested, renumbered, not_served)")
 
     return check.report()
 
