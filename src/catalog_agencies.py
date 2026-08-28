@@ -290,6 +290,117 @@ FIELDS = {
     "enabling_authority": Field(CURATED, required=False),
 }
 
+# THE COMMITTED FILE'S OWN TOP-LEVEL `note` (the prose above `organizations`, read by
+# three sibling corpora) AND THE STRING cmd_refresh() WRITES BACK ARE THE SAME OBJECT,
+# not two hand-synchronized copies — extracted here so check_registry()'s
+# `note-agrees-with-refresh` (#185 follow-up) can compare the committed file against it
+# directly, rather than only checking that every FIELDS name appears somewhere in the
+# committed prose (`note-covers-fields`), which says nothing about whether the two texts
+# actually agree.
+REGISTRY_NOTE = (
+    "Canonical registry of Oregon agencies and their sub-units, keyed on "
+    "the OAR chapter assignment scheme as presented by oregon.public.law/"
+    "rules (an unofficial but well-maintained mirror; official chapter "
+    "assignment lives with the SoS Administrative Rules Unit). The names "
+    "the scrape produces come from each chapter page's own title; the index tree "
+    "provides the parent/sub-unit hierarchy, recorded in `relations` "
+    "(ADR 0004) with parent_chapter beside it. "
+    "Third registry source: a data.oregon.gov dataset and the SoS Blue "
+    "Book directory were both previously used and dropped after review "
+    "(2026-07-18/19). validate_frontmatter.py requires every content "
+    "file's agency: field to resolve to 'statewide', 'external', or a "
+    "slug here. THREE NAME FIELDS, WHICH ARE THREE DIFFERENT STRINGS. name "
+    "is the STATUTORY name (ADR 0003) — the name the body's enabling "
+    "authority gives it — and name_basis, on every row, says whether this "
+    "row actually holds one: enabling-authority means a human read the "
+    "body's enabling authority and recorded what it calls the body, and "
+    "unverified-oar-title means nobody has established a statutory name and "
+    "name still holds the OAR chapter title it was scraped with, unchanged "
+    "(#168). The two are never the same state, and --check reports both "
+    "counts on every run: a row quietly keeping its OAR title under a field "
+    "that means `statutory name` is a false statement about Oregon law "
+    "published under provenance. Which of the two a row is decides what "
+    "--refresh does to its name, so name is neither scraped nor curated: an "
+    "established name is carried across untouched, and an unverified one is "
+    "rebuilt from the chapter page so an upstream retitle reaches it. "
+    "oar_name is the OAR name — the chapter page's own title, "
+    "which is the string OAR-derived joins must match; it is scraped, so an "
+    "upstream chapter retitle moves it. raw_index_name is a different "
+    "string: the index's own abbreviated spelling. "
+    "das_agency_number, where present, is the three-digit number DAS "
+    "assigns the body in the Oregon Accounting Manual (OAM 70.10.00) — it "
+    "identifies the body in the state's financial administration and is not "
+    "evidence that the body spends money, and it is what the oregon-budget "
+    "corpus joins on; it is "
+    "hand-reviewed (src/link_budget_codes.py), is NOT scraped from the "
+    "source above, and is preserved across --refresh. Its absence on an "
+    "entry means no counterpart was found, not that none was sought. "
+    "relations, on every row, is where each body's placement under another "
+    "is recorded (ADR 0004): a target slug, the source whose evidence places "
+    "it there, a kind, and — where one has been established — the authority "
+    "that makes it true. It REPLACED parent_slug, which this registry no "
+    "longer carries (#174): a bare parent slug could not say whose reading a "
+    "placement was, which of ADR 0004's two kinds it is, or on what authority. "
+    "A kind other than undetermined also records the BASIS it was derived "
+    "from, which is a different fact from the source: the source says who "
+    "places this body under that one, the basis says what settled which of ADR "
+    "0004's two kinds it is, and a relation the OAR index discovered can have "
+    "its kind decided by a statute. The two bases are not the same strength. "
+    "proposed-enabling-authority means the kind was derived from a CANDIDATE in "
+    "_meta/catalog/enabling-authority-review.yml that nobody has read — a "
+    "proposal, not evidence — and the row upgrades to "
+    "reviewed-enabling-authority when the review lands (ADR 0004 records this "
+    "deviation and why it was taken). Only administered_by is derived: the "
+    "absence of a candidate is never read as evidence that a body is part_of "
+    "anything, so a relation nothing speaks to stays undetermined, which is the "
+    "answer and not a gap. The kind is never guessed, and --check reports every "
+    "kind, every source and every basis with its count on each run. Kinds are "
+    "written by ONE thing, src/derive_relation_kinds.py, and carried across a "
+    "--refresh per key: the scrape rebuilds the placement and the decision "
+    "rides along. A body may hold more than "
+    "one relation, because the OAR index, DAS and statute may place it under "
+    "different parents and the disagreement is kept rather than reconciled "
+    "(ADR 0003). MIXED ORIGIN, which is why the field is neither scraped nor "
+    "curated: entries whose source is oar-index are REGENERATED by --refresh "
+    "from the index tree, so an upstream re-filing reaches this file, and "
+    "every other entry is carried across untouched. A manual row's placement "
+    "is sourced `registry` and never `oar-index`: the index does not carry "
+    "that body, so it has placed it nowhere and no refresh can rebuild the "
+    "entry. An empty list means this registry places the body under no other. "
+    "budget_agency_code is the same number under the name it used to carry, "
+    "readable for one deprecation cycle (ADR 0003); the two always hold the "
+    "same value. enabling_authority, where present, is what created the body "
+    "— an ORS citation, a constitutional article, or an executive order (ADR "
+    "0003) — or `none: ` and the reason there is none. It is hand-reviewed "
+    "(src/link_enabling_authority.py), is NOT scraped, and is preserved "
+    "across --refresh. An ABSENT enabling_authority means nobody has reviewed "
+    "this body yet; it never means the body has no enabling authority, which "
+    "is what the `none: ` form says and says with a reason. "
+    "oar_chapter is the OAR chapter this body's rules are filed under, "
+    "scraped from the index tree; null on the chapterless rows is not a "
+    "gap — a body is in this registry because it EXISTS, not because it "
+    "issues rules. source_url is the chapter page each row was scraped "
+    "from, where the scrape found one: null on 14 of the 19 chapterless "
+    "rows, not all of them — the other five hold a source_url that is "
+    "not a chapter page (four hold the mirror's own rules index, "
+    "https://oregon.public.law/rules, and the manual saif-corporation "
+    "row holds its own site). aliases, where present, are other "
+    "names the same body is known by, including former names after a "
+    "rename — hand-reviewed once, curated, and preserved across "
+    "--refresh. note is scrape-only (#178): cmd_refresh() writes one of "
+    "exactly three sentences into it, when a chapter page's title will "
+    "not parse, its fetch fails, or a chapterless group's children "
+    "disagree on a name prefix, and nothing else may live there, "
+    "`manual` or not. curator_note holds hand-typed prose about a row "
+    "instead, protected across --refresh the way das_agency_number is; "
+    "the two rows carrying one today record why the row is `manual` at "
+    "all, since the mirror's index omits the chapter. This paragraph is "
+    "itself checked against FIELDS by name on every --check run "
+    "(`note-covers-fields`, #185): a field FIELDS declares that these "
+    "sentences do not mention fails the gate, so this note cannot go "
+    "stale the way it did before anything watched it."
+)
+
 # THE ONE NUMBER'S TWO KEYS, FIELD OF RECORD FIRST. ADR 0003 renames `budget_agency_code`
 # to `das_agency_number`, and this is the EXPAND half: every row that carries the number
 # carries it under BOTH keys, with the same value, until #177 deletes the old one. Both keys
@@ -1472,104 +1583,7 @@ def cmd_refresh():
         preserve_name(prev_orgs, by_slug)
 
     cat = {
-        "note": ("Canonical registry of Oregon agencies and their sub-units, keyed on "
-                 "the OAR chapter assignment scheme as presented by oregon.public.law/"
-                 "rules (an unofficial but well-maintained mirror; official chapter "
-                 "assignment lives with the SoS Administrative Rules Unit). The names "
-                 "the scrape produces come from each chapter page's own title; the index tree "
-                 "provides the parent/sub-unit hierarchy, recorded in `relations` "
-                 "(ADR 0004) with parent_chapter beside it. "
-                 "Third registry source: a data.oregon.gov dataset and the SoS Blue "
-                 "Book directory were both previously used and dropped after review "
-                 "(2026-07-18/19). validate_frontmatter.py requires every content "
-                 "file's agency: field to resolve to 'statewide', 'external', or a "
-                 "slug here. THREE NAME FIELDS, WHICH ARE THREE DIFFERENT STRINGS. name "
-                 "is the STATUTORY name (ADR 0003) — the name the body's enabling "
-                 "authority gives it — and name_basis, on every row, says whether this "
-                 "row actually holds one: enabling-authority means a human read the "
-                 "body's enabling authority and recorded what it calls the body, and "
-                 "unverified-oar-title means nobody has established a statutory name and "
-                 "name still holds the OAR chapter title it was scraped with, unchanged "
-                 "(#168). The two are never the same state, and --check reports both "
-                 "counts on every run: a row quietly keeping its OAR title under a field "
-                 "that means `statutory name` is a false statement about Oregon law "
-                 "published under provenance. Which of the two a row is decides what "
-                 "--refresh does to its name, so name is neither scraped nor curated: an "
-                 "established name is carried across untouched, and an unverified one is "
-                 "rebuilt from the chapter page so an upstream retitle reaches it. "
-                 "oar_name is the OAR name — the chapter page's own title, "
-                 "which is the string OAR-derived joins must match; it is scraped, so an "
-                 "upstream chapter retitle moves it. raw_index_name is a different "
-                 "string: the index's own abbreviated spelling. "
-                 "das_agency_number, where present, is the three-digit number DAS "
-                 "assigns the body in the Oregon Accounting Manual (OAM 70.10.00) — it "
-                 "identifies the body in the state's financial administration and is not "
-                 "evidence that the body spends money, and it is what the oregon-budget "
-                 "corpus joins on; it is "
-                 "hand-reviewed (src/link_budget_codes.py), is NOT scraped from the "
-                 "source above, and is preserved across --refresh. Its absence on an "
-                 "entry means no counterpart was found, not that none was sought. "
-                 "relations, on every row, is where each body's placement under another "
-                 "is recorded (ADR 0004): a target slug, the source whose evidence places "
-                 "it there, a kind, and — where one has been established — the authority "
-                 "that makes it true. It REPLACED parent_slug, which this registry no "
-                 "longer carries (#174): a bare parent slug could not say whose reading a "
-                 "placement was, which of ADR 0004's two kinds it is, or on what authority. "
-                 "A kind other than undetermined also records the BASIS it was derived "
-                 "from, which is a different fact from the source: the source says who "
-                 "places this body under that one, the basis says what settled which of ADR "
-                 "0004's two kinds it is, and a relation the OAR index discovered can have "
-                 "its kind decided by a statute. The two bases are not the same strength. "
-                 "proposed-enabling-authority means the kind was derived from a CANDIDATE in "
-                 "_meta/catalog/enabling-authority-review.yml that nobody has read — a "
-                 "proposal, not evidence — and the row upgrades to "
-                 "reviewed-enabling-authority when the review lands (ADR 0004 records this "
-                 "deviation and why it was taken). Only administered_by is derived: the "
-                 "absence of a candidate is never read as evidence that a body is part_of "
-                 "anything, so a relation nothing speaks to stays undetermined, which is the "
-                 "answer and not a gap. The kind is never guessed, and --check reports every "
-                 "kind, every source and every basis with its count on each run. Kinds are "
-                 "written by ONE thing, src/derive_relation_kinds.py, and carried across a "
-                 "--refresh per key: the scrape rebuilds the placement and the decision "
-                 "rides along. A body may hold more than "
-                 "one relation, because the OAR index, DAS and statute may place it under "
-                 "different parents and the disagreement is kept rather than reconciled "
-                 "(ADR 0003). MIXED ORIGIN, which is why the field is neither scraped nor "
-                 "curated: entries whose source is oar-index are REGENERATED by --refresh "
-                 "from the index tree, so an upstream re-filing reaches this file, and "
-                 "every other entry is carried across untouched. A manual row's placement "
-                 "is sourced `registry` and never `oar-index`: the index does not carry "
-                 "that body, so it has placed it nowhere and no refresh can rebuild the "
-                 "entry. An empty list means this registry places the body under no other. "
-                 "budget_agency_code is the same number under the name it used to carry, "
-                 "readable for one deprecation cycle (ADR 0003); the two always hold the "
-                 "same value. enabling_authority, where present, is what created the body "
-                 "— an ORS citation, a constitutional article, or an executive order (ADR "
-                 "0003) — or `none: ` and the reason there is none. It is hand-reviewed "
-                 "(src/link_enabling_authority.py), is NOT scraped, and is preserved "
-                 "across --refresh. An ABSENT enabling_authority means nobody has reviewed "
-                 "this body yet; it never means the body has no enabling authority, which "
-                 "is what the `none: ` form says and says with a reason. "
-                 "oar_chapter is the OAR chapter this body's rules are filed under, "
-                 "scraped from the index tree; null on the chapterless rows is not a "
-                 "gap — a body is in this registry because it EXISTS, not because it "
-                 "issues rules. source_url is the chapter page each row was scraped "
-                 "from, null on those same rows. aliases, where present, are other "
-                 "names the same body is known by, including former names after a "
-                 "rename — hand-reviewed once, curated, and preserved across "
-                 "--refresh. note is scrape-only (#178): cmd_refresh() writes one of "
-                 "exactly three sentences into it, when a chapter page's title will "
-                 "not parse, its fetch fails, or a chapterless group's children "
-                 "disagree on a name prefix, and nothing else may live there, "
-                 "`manual` or not. curator_note holds hand-typed prose about a row "
-                 "instead, protected across --refresh the way das_agency_number is; "
-                 "the two rows carrying one today record why the row is `manual` at "
-                 "all, since the mirror's index omits the chapter. This paragraph is "
-                 "itself checked against FIELDS by name on every --check run "
-                 "(`note-covers-fields`, #185): a field FIELDS declares that these "
-                 "sentences do not mention fails the gate, so this note cannot go "
-                 "stale the way it did three times running before anything watched "
-                 "it."),
+        "note": REGISTRY_NOTE,
         "source_url": INDEX_URL,
         "retrieved": date.today().isoformat(),
         "organizations": sorted(orgs, key=lambda o: o["slug"]),
@@ -1928,14 +1942,21 @@ def _row_id(o, i):
     return slug if isinstance(slug, str) and slug else f"organizations[{i}]"
 
 
-def check_registry(cat, fields=None) -> list:
+def check_registry(cat, fields=None, refresh_note=None) -> list:
     """Every way the registry violates its contract, as Failures.
 
     `fields` is the declaration to check against, defaulting to the one this module ships.
     It is a PARAMETER so that --selftest can check a registry against a differently-declared
     table — the two ways a curated field goes missing from CURATED_KEYS are statements about
-    the declaration, and no registry row can express either one."""
+    the declaration, and no registry row can express either one.
+
+    `refresh_note` is likewise a PARAMETER, defaulting to `REGISTRY_NOTE` — the string
+    `cmd_refresh()` writes — for the same reason: --selftest's fixture carries its own
+    synthetic note (built to name every FIELDS key without being the real prose), and a
+    real registry's `note` is checked against the real `REGISTRY_NOTE`, not the fixture's
+    stand-in."""
     fields = FIELDS if fields is None else fields
+    refresh_note = REGISTRY_NOTE if refresh_note is None else refresh_note
     # ORDERED, not a frozenset: passed straight through to simulate_refresh() -> the same
     # preserve_curated() a real --refresh calls, so the simulation stays faithful to it —
     # including the order it now writes curated keys in (#182), not just which keys survive.
@@ -1969,15 +1990,43 @@ def check_registry(cat, fields=None) -> list:
     # the same measurement this ticket's own triage used to find the fields the note had
     # stopped naming — not a claim that a name-check proves the DESCRIPTION is current, only
     # that a field added and never mentioned at all cannot pass silently again.
+    #
+    # A WORD-BOUNDARY MATCH, NOT `in`. Bare substring containment cannot fire for `note`
+    # (a substring of `curator_note`) or `name` (a substring of `name_basis`, `oar_name`,
+    # `raw_index_name` and `curator_note`): with every other field named, dropping either
+    # of those two from the note's prose left it undetected, measured directly by calling
+    # this function on `_fixture()` with each field's name struck from the fixture note in
+    # turn — the field-name characters are still present as part of a longer identifier,
+    # so `in` reports the field as named when the note never mentions it on its own. `note`
+    # is one of the five fields #185 found the pre-fix note actually missing, so the bare
+    # bar could not have caught a recurrence of the exact drift it exists to catch.
     file_note = cat.get("note") if isinstance(cat, dict) else None
     for key in sorted(fields):
-        if not isinstance(file_note, str) or key not in file_note:
+        if not isinstance(file_note, str) or not re.search(
+            r"(?<![A-Za-z0-9_])" + re.escape(key) + r"(?![A-Za-z0-9_])", file_note
+        ):
             failures.append(Failure(
                 "note-covers-fields", "agencies.yml",
                 f"field {key!r} is declared in FIELDS but is not named anywhere in the "
                 "registry's own top-level `note` — the note is this file's "
                 "self-description and a field it never mentions is one a reader of the "
                 "note alone would not know exists"))
+
+    # THE TWO COPIES, DIRECTLY, NOT ONLY BY WHICH NAMES THEY EACH CONTAIN. Both copies
+    # can drift by thousands of characters — a sentence reworded, a clause dropped — while
+    # each still names every FIELDS key and passes `note-covers-fields` above cleanly;
+    # #185's own root cause was exactly this shape, five tickets in a row updating
+    # `cmd_refresh()`'s literal and leaving the committed file's prose behind with nothing
+    # comparing the two. `REGISTRY_NOTE` is the one place that literal now lives, read by
+    # both `cmd_refresh()` and here, so this is a real equality check rather than a second
+    # hand-maintained expectation.
+    if not isinstance(file_note, str) or file_note != refresh_note:
+        failures.append(Failure(
+            "note-agrees-with-refresh", "agencies.yml",
+            "the registry's own top-level `note` does not match `REGISTRY_NOTE`, the "
+            "string `cmd_refresh()` writes back — the two are meant to be kept "
+            "byte-identical (#185) and nothing but this rule notices when they stop "
+            "being so"))
 
     for i, o in enumerate(orgs):
         if not isinstance(o, dict):
@@ -2589,8 +2638,11 @@ def _fixture():
     # itself rather than typed out, so adding a field to FIELDS without also touching this
     # fixture does not itself start failing every case in _CASES — the same reason
     # CURATED_KEYS is derived rather than restated. `_case_note_missing_a_declared_field`
-    # below is what actually exercises the rule; this is only the clean baseline every
-    # other case's fixture must already pass.
+    # below is what actually exercises that rule; this is only the clean baseline every
+    # other case's fixture must already pass. It is also the baseline `note-agrees-
+    # with-refresh` compares against in the selftest loop — `check_registry()` is called
+    # there with `refresh_note` set to THIS string, not the real `REGISTRY_NOTE`, since
+    # this fixture is a synthetic stand-in and was never meant to be the real prose.
     return {"note": "fixture note naming every field: " + ", ".join(sorted(FIELDS)),
             "organizations": [das, cfo, gov]}
 
@@ -3100,13 +3152,41 @@ def _case_note_that_is_not_a_scrape_shape(cat):
 
 def _case_note_missing_a_declared_field(cat):
     """The registry's own top-level `note` stops naming one field FIELDS declares — the
-    defect #185 measured against the real committed file three times running (669 chars
-    describing 11 of 15 fields, then 15 of a 15 that had become 16 with #178's
-    `curator_note`) before anything compared the two. `curator_note` is the field
+    defect #185 measured against the real committed file's own history: 669 characters
+    naming 4 of the then-14 row fields from 2026-07-20 to 2026-08-21, then two more
+    revisions that each still fell short (4,299 naming 9 of 13, then 5,260 naming 11 of
+    15), then #178 grew the field set to 16 with `curator_note` while the note stayed at
+    5,260, unchanged — before anything compared the two. `curator_note` is the field
     actually missing on this branch before the fix in this commit, so the case is
     grounded in the real drift rather than a field invented for the fixture."""
     cat["note"] = cat["note"].replace("curator_note, ", "").replace(", curator_note", "")
     assert "curator_note" not in cat["note"]   # the mutation removed the word, not a copy
+
+
+def _case_note_omits_a_field_whose_name_is_a_substring_of_another(cat):
+    """`note-covers-fields` matched with bare `in` before this fix, which cannot fire for
+    `note` (a substring of `curator_note`) or `name` (a substring of `name_basis`,
+    `oar_name`, `raw_index_name` and `curator_note`) as long as every other declared
+    field is still named — `note` is one of the five fields #185 found the pre-fix
+    registry note actually missing, so the bare bar could not have caught a recurrence
+    of that exact drift. This case drops `note` and `name` from the fixture note while
+    leaving every longer identifier that contains their letters in place, the shape a
+    prose sentence takes when it stops mentioning a field on its own."""
+    remaining = [k for k in sorted(FIELDS) if k not in ("note", "name")]
+    cat["note"] = "fixture note naming every field: " + ", ".join(remaining)
+    assert "curator_note" in cat["note"] and "name_basis" in cat["note"]  # the longer
+    # identifiers stay, so a substring match would wrongly call `note` and `name` covered
+
+
+def _case_note_diverges_from_what_refresh_would_write(cat):
+    """`note-covers-fields` only checks that every FIELDS name appears somewhere in the
+    note's prose, which says nothing about whether the prose still AGREES with what
+    `cmd_refresh()` would write next — #185's own root cause was exactly a note whose
+    WORDING fell behind while nothing compared the two copies. This appends a sentence
+    without touching a single field name, so `note-covers-fields` stays silent and only
+    `note-agrees-with-refresh` — which compares against the fixture's own baseline note
+    here, `REGISTRY_NOTE` on a real registry — catches the divergence."""
+    cat["note"] += " A sentence cmd_refresh() would never write."
 
 
 def _case_registry_emptied(cat):
@@ -3168,6 +3248,12 @@ _CASES = [
     ("registry-emptied", _case_registry_emptied, "registry-populated"),
     ("note-missing-a-declared-field", _case_note_missing_a_declared_field,
      "note-covers-fields"),
+    ("note-omits-a-field-whose-name-is-a-substring-of-another",
+     _case_note_omits_a_field_whose_name_is_a_substring_of_another,
+     "note-covers-fields"),
+    ("note-diverges-from-what-refresh-would-write",
+     _case_note_diverges_from_what_refresh_would_write,
+     "note-agrees-with-refresh"),
     ("row-the-simulation-cannot-run-on", _case_row_the_simulation_cannot_run_on,
      "survives-refresh"),
     ("slug-the-scrape-would-not-produce", _case_slug_the_scrape_would_not_produce,
@@ -3818,9 +3904,17 @@ def selftest() -> int:
         resolutions += ran
     for name, mutate, rule in _CASES:
         cat = _fixture()
-        assert not check_registry(cat), f"fixture does not pass cleanly ({name})"
+        # THE FIXTURE'S OWN NOTE IS THE EXPECTED ONE HERE, not `REGISTRY_NOTE` — the
+        # fixture's `note` is a synthetic stand-in built to name every FIELDS key
+        # (see `_fixture()`), never the real prose, so `note-agrees-with-refresh` is
+        # told to expect exactly what this fixture actually carries. A case that mutates
+        # `cat["note"]` still trips it, same as production; a case that leaves `note`
+        # alone does not.
+        baseline_note = cat["note"]
+        assert not check_registry(cat, refresh_note=baseline_note), \
+            f"fixture does not pass cleanly ({name})"
         mutate(cat)
-        failures = check_registry(cat)
+        failures = check_registry(cat, refresh_note=baseline_note)
         if not any(f.rule == rule for f in failures):
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)

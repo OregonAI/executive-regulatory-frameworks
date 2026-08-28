@@ -315,7 +315,9 @@ carrying one today (chapters 419, 950) record why the row is `manual` at all —
 index omits the chapter, discovered via a renumbering redirect during the 2026-07 mass
 import — which is also the one placement `relation source` `registry` can cite as evidence.
 _Avoid_: Note — that is `note`, the field this one was split from, and now names only the
-scrape's own fetch-failure and title-not-parseable sentences
+scrape's own three sentences (`NOTE_SCRAPE_TEMPLATES`): a chapter page's title not
+parsing, its fetch failing, or a chapterless group's children disagreeing on a name
+prefix
 
 **Relation basis**:
 What decided a relation's KIND, written on the relation itself and never the same fact as

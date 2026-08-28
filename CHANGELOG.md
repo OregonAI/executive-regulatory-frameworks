@@ -13,11 +13,13 @@ corpus-wide changes from 2026-08-02 forward.
 ### Fixed
 - 2026-08-27 — **The agency registry's own `note` was stale, and nothing checked it** (#185).
   The top-level prose above `organizations` in `agencies.yml` — this file's self-description,
-  read by three sibling corpora — drifted from 669 characters describing 11 of the (then) 15
-  row fields, to 15 of a field set that had since grown to 16 with `curator_note` (#178):
-  measured on this branch, `oar_chapter`, `source_url`, `aliases`, `note` and `curator_note`
-  were declared in `FIELDS` and named nowhere in the note. Only a full `--refresh` — which
-  re-fetches all 189 chapter pages — rewrites the committed copy, so each prior ticket that
+  read by three sibling corpora — drifted from 669 characters naming 4 of the then-14 row
+  fields, through two more revisions that each still fell short (4,299 naming 9 of 13, then
+  5,260 naming 11 of 15), to a field set that had since grown to 16 with `curator_note`
+  (#178) while the note stayed at 5,260, unchanged: measured on this branch, `oar_chapter`,
+  `source_url`, `aliases`, `note` and `curator_note` were declared in `FIELDS` and named
+  nowhere in the note. Only a full `--refresh` — which re-fetches all 170 chapter pages
+  `rules/` mirrors — rewrites the committed copy, so each prior ticket that
   changed the field set updated the note text in `cmd_refresh()`'s source but left the
   committed file behind, and nothing compared the two. `check_registry()` gains
   `note-covers-fields`: every key `FIELDS` declares must be named somewhere in the registry's

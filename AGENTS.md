@@ -506,9 +506,19 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   `catalog_agencies.py --check`'s `note-scrape-shape` refuses a `note` that is not one of
   those three sentences. THE FILE'S OWN TOP-LEVEL `note` (the prose above `organizations`,
   read by three sibling corpora) is a THIRD, unrelated field of the same name, and it
-  drifted stale three times before anything compared it against `FIELDS` (#185) — `--check`'s
+  drifted stale — measured across its own git history: 669 characters naming 4 of the
+  then-14 row fields for a month, then two more revisions that each still fell short
+  (4,299 naming 9 of 13, then 5,260 naming 11 of 15), then #178 grew the field set to 16
+  with `curator_note` while the note stayed at 5,260 — before anything compared it
+  against `FIELDS` (#185) — `--check`'s
   `note-covers-fields` now refuses a registry whose top-level `note` does not name every
   field `FIELDS` declares, derived from the declaration itself rather than a second list.
+  Naming every field is not the same as AGREEING with what `cmd_refresh()` would write —
+  the two copies drifted by rewording and dropping sentences too, not only by falling
+  behind on field names, so `REGISTRY_NOTE` is now the one place that literal string
+  lives, read by `cmd_refresh()` and compared against the committed file directly by
+  `note-agrees-with-refresh`, a second rule beside `note-covers-fields` rather than a
+  replacement for it.
   The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
   `python3 src/link_budget_codes.py` from the hand-reviewed table in that file, whose
   `--check` verifies the registry against that table. The deprecated `budget_agency_code`
