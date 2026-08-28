@@ -371,7 +371,7 @@ jobs:
       # The committed schema's `recheck` node against the declaration it is generated from,
       # plus every source group's declared cadence against it. Reads committed data only
       # (the schema and _meta/sources/*.yml), no network.
-      - name: Recheck cadences must be declared once
+      - name: Recheck cadences must be declared once, and every group must validate
         timeout-minutes: 2
         run: python3 src/check_updates.py --check
       # The same report against committed data, and the half no rule about its shape can

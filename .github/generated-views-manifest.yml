@@ -188,7 +188,7 @@ gates:
   - name: "Relation kinds must match the derivation"
     seconds: 0.1
     shard: 3
-  - name: "Recheck cadences must be declared once"
+  - name: "Recheck cadences must be declared once, and every group must validate"
     seconds: 0.7
     shard: 2
   - name: "Mechanical conflict findings must be current"

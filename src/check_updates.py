@@ -6,6 +6,8 @@ changing when knowledge bodies or agencies are added. Output is deliberately ter
 (silent on unchanged sources) so an agent can drive it cheaply.
 
   --due                 no-network report: which groups are due per their recheck cadence
+                        and, for a group declaring `recheck_phase` (#198), per when its own
+                        cycle is anchored to land rather than raw days since last_checked
   --group NAME ...      check specific group(s)
   --all                 check every group
   --refresh             with a check: re-fetch changed docs and regenerate their
@@ -15,11 +17,17 @@ changing when knowledge bodies or agencies are added. Output is deliberately ter
   --check               CI: the cadence a group may declare is declared ONCE, in CADENCES
                         below, and the schema's `recheck` node is derived from it. Fails
                         when the committed node is not the one that table renders, or when
-                        a group declares a cadence nobody declared.
+                        a group declares a cadence nobody declared, or a phase (#198) on a
+                        cadence CADENCES did not mark phase-capable. Also validates every
+                        group in _meta/sources/ against source-group.schema.json (#199) and
+                        prints the count checked, failing if jsonschema could not be
+                        imported rather than reporting a silent zero as a clean pass.
   --sync-schema         rewrite the schema's `recheck` node from CADENCES
   --selftest            CI: every rule --check enforces, demonstrated failing, plus the
                         behaviours no rule can state (what a report does with data it
-                        cannot read; where this cadence lands against the ballot cycle)
+                        cannot read; where this cadence lands against the ballot cycle;
+                        that a phased group registered mid-cycle lands on its own cycle
+                        rather than staying mid-cycle forever, #198)
 """
 import argparse
 import json
@@ -35,7 +43,9 @@ from repo_lib import (REPO_ROOT, SCHEMA_DIR, SOURCES_DIR, content_files, content
 
 SCHEMA = SCHEMA_DIR / "source-group.schema.json"
 
-Cadence = namedtuple("Cadence", "days note")
+# `phase_capable` defaults False so every existing 2-arg `Cadence(days, note)` call site —
+# fixtures included — keeps meaning what it always meant; a cadence opts IN to phase.
+Cadence = namedtuple("Cadence", "days note phase_capable", defaults=(False,))
 
 # One contract violation: which rule, which group (or file), and what is wrong with it. A
 # type rather than a formatted string, so --selftest asserts on the RULE that fired instead
@@ -46,8 +56,13 @@ CADENCES = {
     "weekly": Cadence(7, "a listing that moves within a week"),
     "monthly": Cadence(30, "the Oregon Bulletin, first business day of each month"),
     "quarterly": Cadence(90, "a listing that moves a few times a year"),
+    # phase_capable=True (#198): TWO groups can both be `biennial` and land on opposite
+    # halves of the cycle — the ORS edition follows the odd-year session, but nothing about
+    # the WORD `biennial` says which two-year-old date a given group's own edition landed
+    # on. `recheck_phase` lets a group state that anchor instead of drifting from whatever
+    # day it happened to be registered (see `_phase_aligned_due_date`).
     "biennial": Cadence(730, "the ORS edition, published after each ODD-YEAR "
-                             "legislative session"),
+                             "legislative session", phase_capable=True),
     "on_review_date": Cadence(365, "a document carrying its own printed review date, with "
                                    "the year as a backstop re-crawl rather than a signal"),
     # THE BALLOT-MEASURE CYCLE, and NOT a second spelling of `biennial` (ADR 0005). Both
@@ -77,9 +92,20 @@ CADENCES = {
     # construction, and that is the choice: a cadence shorter than the cycle walks backward
     # into an absorbing state — due before the election, finds nothing, re-anchors earlier,
     # never sees an amendment again — while walking late still catches them and lets an
-    # out-of-phase group drift toward the window. A cadence that could state its own phase
-    # is #198; until then the phase is a decision made when the group is created (#194,
-    # #197) and re-made by hand when the walk has gone far enough.
+    # out-of-phase group drift toward the window.
+    #
+    # #198 DECIDED: this stays a NAMED CADENCE, phase_capable left False (the default),
+    # rather than becoming `biennial` + a `recheck_phase` anchor. Two reasons, not one. The
+    # 765-day interval above is not a phase overlaid on `biennial`'s 730 — it is a
+    # DIFFERENT number, measured (--selftest) as the one that keeps this cadence from ever
+    # landing before an election, which `biennial` cannot do from the natural anchor;
+    # collapsing the two into one interval plus a phase would need the phase to also change
+    # the interval, which is a different mechanism from the one this ticket adds. And #198
+    # is explicit that "any corpus's actual cadence values" is out of scope — the
+    # constitution group already declares this cadence today, so rewriting it to
+    # `biennial` + phase would be an in-scope tool change forcing an out-of-scope data
+    # migration. The walk-forward drift this cadence still has is therefore unresolved by
+    # this ticket, same as before; only groups declaring `biennial` gained the anchor.
     "even_year_general_election": Cadence(765, "constitutional amendments referred to "
                                                "voters and decided at the general "
                                                "election, November of EVEN-numbered "
@@ -103,7 +129,21 @@ def days_since(iso: str) -> int:
 # a human writes, so both are REPORTED against the group rather than raised out of it.
 UNKNOWN_CADENCE = "UNKNOWN CADENCE"
 UNREADABLE_DATE = "UNREADABLE DATE"
-UNREADABLE = (UNKNOWN_CADENCE, UNREADABLE_DATE)
+# #198: the two ways a declared `recheck_phase` can be a mistake in the group's own data,
+# reported rather than raised or silently applied — same discipline as the two states above.
+UNREADABLE_PHASE = "UNREADABLE PHASE"
+PHASE_NOT_ADMITTED = "PHASE NOT ADMITTED"
+UNREADABLE = (UNKNOWN_CADENCE, UNREADABLE_DATE, UNREADABLE_PHASE, PHASE_NOT_ADMITTED)
+
+
+def _phase_aligned_due_date(anchor: date, days: int, checked: date) -> date:
+    """#198: the next date on or after `checked` that lands on the ANCHOR's own cycle —
+    `anchor` plus a whole number of `days`-long intervals — rather than `days` after
+    whatever day `checked` happened to be. A group registered mid-cycle (`checked` before
+    `anchor`) lands on `anchor` itself; one already past a cycle boundary lands on the next
+    one strictly after `checked`, so a group just checked is never immediately due again."""
+    k = (checked - anchor).days // days + 1
+    return anchor + timedelta(days=k * days)
 
 
 def due_state(g, cadences=None):
@@ -112,7 +152,11 @@ def due_state(g, cadences=None):
     A cadence nobody declared, and a `last_checked` nothing can read, are REPORTED here
     rather than raised: a KeyError out of a dict lookup or a ValueError out of strptime
     names the dict or the format string instead of the group, and takes every other
-    group's reading down with it."""
+    group's reading down with it. #198 adds the same discipline for `recheck_phase`: a
+    group that declares none is untouched (the pre-#198 formula, unchanged); one that
+    declares an anchor is scheduled against it via `_phase_aligned_due_date` instead of
+    `age >= cadence.days`, unless the cadence never opted into phase (`phase_capable`) or
+    the anchor itself cannot be read, either of which is reported rather than applied."""
     cadences = CADENCES if cadences is None else cadences
     cadence = cadences.get(g.get("recheck"))
     if cadence is None:
@@ -120,13 +164,34 @@ def due_state(g, cadences=None):
                 f"recheck {g.get('recheck')!r} is not one of "
                 f"{', '.join(sorted(cadences))}; cannot say whether this group is due")
     try:
-        age = days_since(g["last_checked"])
+        checked = datetime.strptime(g["last_checked"], "%Y-%m-%d").date()
     except (KeyError, TypeError, ValueError):
         return (UNREADABLE_DATE,
                 f"last_checked {g.get('last_checked')!r} is not a YYYY-MM-DD date; "
                 f"cannot say whether this group is due")
-    return ("DUE" if age >= cadence.days else "ok",
-            f"last checked {age}d ago; cadence {g['recheck']}")
+    # Parsed ONCE, here: `checked` (the date) feeds both the plain-age reading below and
+    # the phase-aligned scheduling further down, so this field's format string is written
+    # in exactly one place rather than twice — `days_since()` duplicated this same parse
+    # until #198 gave the phase branch its own second copy to compute `checked` from.
+    age = (date.today() - checked).days
+    phase = g.get("recheck_phase")
+    if phase is None:
+        return ("DUE" if age >= cadence.days else "ok",
+                f"last checked {age}d ago; cadence {g['recheck']}")
+    if not cadence.phase_capable:
+        return (PHASE_NOT_ADMITTED,
+                f"recheck_phase {phase!r} declared but recheck {g['recheck']!r} "
+                f"({cadence.days}d) admits no phase; cannot say whether this group is due")
+    try:
+        anchor = datetime.strptime(phase, "%Y-%m-%d").date()
+    except (TypeError, ValueError):
+        return (UNREADABLE_PHASE,
+                f"recheck_phase {phase!r} is not a YYYY-MM-DD date; cannot say whether "
+                f"this group is due")
+    due_on = _phase_aligned_due_date(anchor, cadence.days, checked)
+    return ("DUE" if date.today() >= due_on else "ok",
+            f"last checked {age}d ago; cadence {g['recheck']} phased to {phase}, "
+            f"next due {due_on.isoformat()}")
 
 
 def report_due() -> int:
@@ -331,6 +396,14 @@ def check_cadences(cadences=None, schema=None, groups=None):
             failures.append(Failure("group-cadence", g.get("group", gpath.name),
                                     f"declares recheck {name!r}, which is not one of "
                                     f"{', '.join(sorted(cadences))}"))
+        # #198: PHASE IS OPT-IN PER CADENCE, not automatic — `Cadence.phase_capable` is the
+        # table CADENCES already is, so this reads it rather than repeating the decision.
+        # Only checked when `name` resolved above; an unknown cadence is already reported.
+        elif g.get("recheck_phase") is not None and not cadences[name].phase_capable:
+            failures.append(Failure("group-phase", g.get("group", gpath.name),
+                                    f"declares recheck_phase {g['recheck_phase']!r} but "
+                                    f"recheck {name!r} ({cadences[name].days}d) admits no "
+                                    f"phase — CADENCES marks which cadences do"))
     return failures
 
 
@@ -346,17 +419,82 @@ def cadence_census(groups=None):
     return ", ".join(f"{n}={c}" for n, c in counts.items())
 
 
+def check_schema(groups=None):
+    """(failures, checked) — every group in `groups` (default: every file in
+    `_meta/sources/`) validated against `_meta/schema/source-group.schema.json` (#199).
+
+    `_meta/corpus.yml`'s `extra_schema_checks` already runs this same schema over the same
+    glob in CI (`corpus-validate-frontmatter`'s `_check_corpus_config`, unconditional even
+    on `--changed` runs with nothing changed) — so this is not the first thing to validate
+    these 19 files, and every one already passes it. What it adds: a fast, local, printed-
+    count companion in the shape this repo already gives every other domain rule
+    (`--check`/`--selftest` beside a corpus-toolkit config check), and a single
+    implementation `seed_oar_watch.py` now calls instead of running its own copy.
+    Returning the count alongside the failures, rather than failures alone, is deliberate:
+    a run that validated zero groups because `jsonschema` was not importable must be able
+    to say so — printed as `0 of 19`, not silently indistinguishable from `19 of 19`
+    groups that happened to pass.
+
+    Every keyword a group violates is reported (`iter_errors`, not `validate`, which stops
+    at the first), and the row is the FILE (`gpath.name`), never the group's own `group`
+    field — a group whose `group` key is itself what is wrong should still be reported
+    against something a curator can open, and `group` is data a human wrote, not an
+    identity this function should have to trust to report on it.
+
+    A schema that fails to parse, or is not itself a valid schema, is reported as ONE
+    `group-schema` failure with `checked=0` rather than raised. `seed_oar_watch.findings()`
+    calls this function with no try/except of its own (#199) — a traceback here would
+    surface exactly where that ticket's brief says a malformed input must not."""
+    try:
+        import jsonschema
+    except ImportError:
+        return [], 0
+    groups = list(source_groups() if groups is None else groups)
+    try:
+        schema = json.loads(SCHEMA.read_text())
+        validator = jsonschema.Draft202012Validator(schema)
+        validator.check_schema(schema)
+    except (OSError, json.JSONDecodeError, jsonschema.exceptions.SchemaError) as e:
+        return [Failure("group-schema", SCHEMA.name,
+                        f"{SCHEMA.name} could not be used to validate: "
+                        f"{type(e).__name__}: {e}")], 0
+    failures = []
+    for gpath, g in groups:
+        for e in validator.iter_errors(g):
+            failures.append(Failure("group-schema", gpath.name, e.message))
+    return failures, len(groups)
+
+
 def cmd_check() -> int:
-    """Report every cadence violation in the committed declaration, schema and groups."""
+    """Report every cadence violation in the committed declaration, schema and groups,
+    plus every group in `_meta/sources/` that does not validate against
+    `source-group.schema.json` (#199)."""
     failures = check_cadences()
+    schema_failures, schema_checked = check_schema()
+    failures = failures + schema_failures
     for f in failures:
         print(f"  FAIL [{f.rule}] {f.row}: {f.detail}", file=sys.stderr)
     if failures:
-        print(f"\n{len(failures)} cadence violation(s)", file=sys.stderr)
+        print(f"\n{len(failures)} contract violation(s)", file=sys.stderr)
         return 1
     print(f"{len(CADENCES)} cadence(s) declared, each admitted by "
           f"{SCHEMA.name} with the interval it means")
     print(f"groups per cadence: {cadence_census()}")
+    total_groups = len(list(source_groups()))
+    checked_all = schema_checked == total_groups
+    print(f"{schema_checked} of {total_groups} source group(s) validated against "
+          f"{SCHEMA.name}" + ("" if checked_all else " (jsonschema not installed)"))
+    if not checked_all:
+        # A run that validated zero groups must not exit the way a run that validated
+        # every one of them does — CONTEXT.md's overriding rule, applied to this gate's
+        # own exit code rather than only to what it prints: "could not check" is never
+        # reported as "is not there". `--due`, twenty lines of this file away, already
+        # exits non-zero for the equivalent case (a group nothing can be said about); this
+        # is the same choice made for `--check`.
+        print(f"\n{SCHEMA.name} was not checked against any group — jsonschema is not "
+              f"importable, so this run reported nothing rather than a clean pass",
+              file=sys.stderr)
+        return 1
     return 0
 
 
@@ -425,6 +563,137 @@ def _proof_a_group_declaring_an_undeclared_cadence_is_reported():
     from inside report_due(), which names the dict and not the group."""
     return "group-cadence", check_cadences(schema=_schema_fixture(),
                                           groups=[_group_fixture(recheck="ballot_measure")])
+
+
+def _proof_a_group_declaring_a_phase_on_a_cadence_that_admits_none_is_reported():
+    """#198: phase is opt-in PER CADENCE (`Cadence.phase_capable`), not automatic — a
+    `weekly` listing has no meaningful 'wrong half' of a week to land on, so CADENCES
+    admits no phase for it, and a group declaring `recheck_phase` anyway is a mistake in
+    that group's own data rather than a value the phase math should silently apply."""
+    return "group-phase", check_cadences(schema=_schema_fixture(),
+        groups=[_group_fixture(recheck="weekly", recheck_phase="2026-08-01")])
+
+
+def _proof_a_group_with_an_undeclared_key_is_reported():
+    """`_meta/schema/source-group.schema.json` sets `additionalProperties: false` at the
+    group level. `check_schema`'s own docstring is where the finding that this schema was
+    already enforced corpus-wide lives (#199) -- this proof is only about the LOCAL copy of
+    that rule added here.
+
+    IN ITS OWN FIXTURE, and its own `_PROOFS` entry, rather than combined with the
+    missing-required-key proof below: a combined fixture list still reports a
+    `group-schema` failure with `additionalProperties: false` deleted from the schema
+    ENTIRELY, because the other fixture's violation is still there to satisfy
+    `any(f.rule == rule for f in failures)`. Proven by experiment while fixing #199: with
+    the two violations sharing one list, deleting either half of the schema left this
+    selftest passing."""
+    _, extra = _group_fixture()
+    extra = {**extra, "not_a_declared_key": True}
+    failures, _ = check_schema(groups=[(SOURCES_DIR / "extra.yml", extra)])
+    return "group-schema", failures
+
+
+def _proof_a_group_missing_a_required_key_is_reported():
+    """The sibling half of the proof above, isolated for the same reason: on its own, so
+    dropping `sources` out of the schema's top-level `required` list cannot hide behind
+    the OTHER fixture's failure the way the combined proof let it."""
+    _, missing = _group_fixture()
+    del missing["sources"]
+    failures, _ = check_schema(groups=[(SOURCES_DIR / "missing.yml", missing)])
+    return "group-schema", failures
+
+
+def _proof_a_source_entry_missing_a_required_field_is_reported():
+    """The schema's `required: [id, url, sha256]` applies to each entry INSIDE `sources`,
+    not only to the group's own top-level keys -- #199's Agent Brief names this as its own
+    acceptance criterion ('a source entry missing a required field fails, watched
+    failing'), distinct from a group-level violation. Nothing before this proof watched it:
+    every other fixture in this file either carries `sources: []` or breaks a top-level
+    key, so a source ITEM's shape -- `sha256`'s 64-hex pattern, `url`'s `^https?://`
+    pattern, or (here) a missing required key -- was never exercised. A source entry with
+    no `sha256` is the shape a curator adding a source by hand is likeliest to leave
+    incomplete."""
+    _, g = _group_fixture(sources=[{"id": "oregon-constitution-full",
+                                    "url": "https://example.invalid/full-text"}])
+    failures, _ = check_schema(groups=[(SOURCES_DIR / "oregon-constitution.yml", g)])
+    return "group-schema", failures
+
+
+def _proof_a_misdeclared_phase_fails_schema_validation():
+    """#198's schema half, gated: `recheck_phase` was added to
+    `_meta/schema/source-group.schema.json` alongside the `recheck` node, but nothing else
+    in this file ever ran a phased fixture through `check_schema` -- `check_cadences` only
+    compares the `recheck` enum node, none of the 19 committed groups declares a phase, and
+    `_proof_a_group_declaring_a_phase_on_a_cadence_that_admits_none_is_reported` (above)
+    exercises only `check_cadences`'s `group-phase` rule, never the schema. AC #5's own
+    text -- 'a group whose phase is misdeclared ... fails' -- names exactly this gap.
+    Verified before this fix: deleting `recheck_phase` from a copy of the committed schema,
+    or loosening its pattern to `.*`, left `--check` and `--selftest` both green.
+
+    This validates a group with a non-ISO `recheck_phase` ('January 1, 2027') against the
+    ACTUAL committed schema -- no `schema=` override, so this reads the same
+    module-level `SCHEMA` `--check` reads -- because the pattern is the only thing that can
+    catch it; deleting the property instead would ALSO fail this (via
+    `additionalProperties: false`), which is why the companion proof below asserts the
+    positive case too: a schema drifted back to not admitting the field at all must not be
+    confused with one that merely stopped checking its format."""
+    _, g = _group_fixture(recheck_phase="January 1, 2027")
+    failures, _ = check_schema(groups=[(SOURCES_DIR / "oregon-constitution.yml", g)])
+    return "group-schema", failures
+
+
+def _proof_a_well_formed_phase_validates_against_the_committed_schema():
+    """The additive-safety companion to the proof above, and to
+    `_proof_a_group_declaring_no_phase_behaves_exactly_as_today`'s no-phase case: a group
+    that DOES declare a well-formed `recheck_phase` must validate cleanly against the
+    committed schema. Without this, a schema drifted to omit the property entirely would
+    reject every phased group under `additionalProperties: false` -- silently breaking the
+    feature -- while the proof above still reports a `group-schema` failure on the
+    malformed fixture (for the wrong reason: the field is gone, not merely unchecked) and
+    would look, at a glance, like nothing had drifted. `checked` must read 1: this proves a
+    group was actually validated, not skipped."""
+    _, g = _group_fixture(recheck_phase="2026-05-20")
+    failures, checked = check_schema(groups=[(SOURCES_DIR / "oregon-constitution.yml", g)])
+    if failures or checked != 1:
+        print(f"FAIL well-formed recheck_phase should validate cleanly against the "
+              f"committed schema; got failures={failures} checked={checked}",
+              file=sys.stderr)
+        return 1
+    return 0
+
+
+def _proof_check_schema_reports_a_malformed_schema_rather_than_raising():
+    """`seed_oar_watch.findings()` calls `check_schema()` with no try/except of its own
+    (#199) -- the narrowing that made that safe to do is IN `check_schema`, not at the call
+    site, so it is proved here rather than there. Before this rule, a schema file that
+    failed to parse, or that was not itself a valid schema, propagated as a traceback: the
+    old call site's `except Exception: append a Failure` caught anything, and deduplicating
+    the two validators narrowed that to `jsonschema.exceptions.ValidationError` only --
+    exactly the 'surfaces as a traceback from whatever reads it next' shape #199's own body
+    names as the thing to avoid. `checked` must read 0: a broken schema validated nothing,
+    which is a different fact from every group failing it."""
+    import tempfile
+    global SCHEMA
+    bad = json.dumps({"type": "not-a-real-type"})
+    with tempfile.TemporaryDirectory() as d:
+        p = Path(d) / "broken.schema.json"
+        p.write_text(bad)
+        orig = SCHEMA
+        SCHEMA = p
+        try:
+            failures, checked = check_schema(groups=[_group_fixture()])
+        except Exception as e:
+            print(f"FAIL check_schema on a malformed schema: raised "
+                  f"{type(e).__name__}: {e}", file=sys.stderr)
+            return 1
+        finally:
+            SCHEMA = orig
+    if checked != 0 or not any(f.rule == "group-schema" for f in failures):
+        print(f"FAIL check_schema on a malformed schema: expected a [group-schema] "
+              f"failure and checked=0, got failures={failures} checked={checked}",
+              file=sys.stderr)
+        return 1
+    return 0
 
 
 def _proof_due_reports_an_undeclared_cadence_rather_than_raising():
@@ -584,6 +853,224 @@ def _proof_the_ballot_measure_cadence_lands_after_an_election():
     return bad
 
 
+# #198: A REGISTERED-MID-CYCLE GROUP MUST LAND ON THE CYCLE IT EXISTS TO CATCH, not on
+# `cadence.days` after whatever day registration happened to be. `recheck_phase` (an
+# anchor date) is the fix; this proves the SCHEDULING, not merely that the field parses —
+# a group checked before a known anchor must come DUE once that anchor has passed, which
+# un-phased `age >= cadence.days` math would miss for up to two years.
+def _proof_a_phased_group_registered_off_cycle_lands_on_the_intended_cycle():
+    """THE #198 CASE ITSELF. A biennial group is registered (`last_checked`) 20 days ago —
+    comfortably 'ok' under the un-phased formula, which would not call it due again until
+    ~730 days from then. But its `recheck_phase` anchor — the date THIS group's cycle is
+    known to land on, e.g. an edition date — fell 5 days ago, after registration and
+    before today. Nothing has happened since registration to justify skipping that cycle,
+    so a correct scheduler must already call the group due; the un-phased formula cannot
+    see the anchor at all and would leave it 'ok' for up to two more years — exactly the
+    'stays mid-cycle forever' defect #198 opens with.
+
+    Asserts on the DATE `_phase_aligned_due_date` actually computed, not merely that the
+    anchor appears somewhere in `detail`: the anchor is echoed verbatim in every phased
+    group's `phased to {phase}` clause regardless of what the schedule computes (`phase ==
+    anchor.isoformat()` by construction of this fixture), so a bare substring check on the
+    anchor passes on that echo alone and proves nothing about the arithmetic — verified by
+    mutation: replacing `_phase_aligned_due_date`'s body with `return anchor -
+    timedelta(days=10000)` left this assertion (before this fix) green. Checking
+    specifically for the compound `next due {anchor}` pins the computed value instead: it
+    is only in `detail` when `due_on == anchor`, which is the one case this fixture can
+    prove correct on its own — `checked` falls strictly before `anchor`, so a group
+    registered mid-cycle must be scheduled to land ON the anchor itself (see
+    `_phase_aligned_due_date`'s docstring). The sibling proof below,
+    `_proof_a_phased_group_just_checked_is_not_immediately_due_again`, exercises the other
+    arithmetic path — `checked` AFTER `anchor` — that this fixture cannot reach."""
+    today = date.today()
+    anchor = today - timedelta(days=5)
+    checked = today - timedelta(days=20)
+    _, g = _group_fixture(recheck="biennial", last_checked=checked.isoformat(),
+                          recheck_phase=anchor.isoformat())
+    state, detail = due_state(g)
+    if state != "DUE":
+        print(f"FAIL phased biennial group: anchor {anchor.isoformat()} has already "
+              f"passed (last checked {checked.isoformat()}, 20d ago) so this must be DUE; "
+              f"got {state!r} ({detail})", file=sys.stderr)
+        return 1
+    want = f"next due {anchor.isoformat()}"
+    if want not in detail:
+        print(f"FAIL phased biennial group: checked before its own anchor must be "
+              f"scheduled to come due AT the anchor ({want!r}), got {detail!r}",
+              file=sys.stderr)
+        return 1
+    return 0
+
+
+def _proof_a_phased_group_just_checked_is_not_immediately_due_again():
+    """THE OTHER HALF of `_phase_aligned_due_date`'s own docstring claim — 'a group just
+    checked is never immediately due again' — which the proof above cannot see: it only
+    ever checks a group BEFORE its anchor, where `k` (the docstring's whole-number-of-
+    intervals term) is always 0 and `due_on` collapses to `anchor` itself regardless of
+    whether the function's `+ 1` is even present. Here `checked` is TODAY and `anchor` is
+    200 days in the past — inside the current biennial cycle, not before it — so the
+    correct next due date is the FOLLOWING cycle's anchor, `anchor + cadence.days`,
+    computed independently by plain addition rather than by re-deriving
+    `_phase_aligned_due_date`'s own floor-division arithmetic.
+
+    This catches what the sibling proof cannot: a mutant that drops the function's `+ 1`
+    (the exact off-by-one its docstring warns against) computes `k=0` here too and
+    schedules this group's due date AT the 200-day-old anchor — already past — which flips
+    a freshly-checked group straight to DUE. That is the absorbing always-due state the
+    `even_year_general_election` comment 40 lines above exists to warn a walk-forward
+    cadence away from; verified by mutation before this fix (dropping the `+ 1` and
+    checking a biennial group with `last_checked` today against a 100-days-back anchor)."""
+    today = date.today()
+    anchor = today - timedelta(days=200)
+    days = CADENCES["biennial"].days
+    _, g = _group_fixture(recheck="biennial", last_checked=today.isoformat(),
+                          recheck_phase=anchor.isoformat())
+    state, detail = due_state(g)
+    if state != "ok":
+        print(f"FAIL just-checked phased group: checked today, anchor "
+              f"{anchor.isoformat()} 200d ago (mid-cycle, {days}d cadence) — the next "
+              f"cycle isn't due for ~{days - 200} more days; expected 'ok', got "
+              f"{state!r} ({detail})", file=sys.stderr)
+        return 1
+    want = f"next due {(anchor + timedelta(days=days)).isoformat()}"
+    if want not in detail:
+        print(f"FAIL just-checked phased group: expected {want!r} (the FOLLOWING cycle's "
+              f"anchor) in detail, got {detail!r}", file=sys.stderr)
+        return 1
+    return 0
+
+
+def _proof_a_group_declaring_no_phase_behaves_exactly_as_today():
+    """ADDITIVE, ASSERTED RATHER THAN ASSUMED (#198's own acceptance criterion): a group
+    that declares no `recheck_phase` must be untouched by any of this. Computed here
+    independently of due_state() — the pre-#198 formula (age >= cadence.days) against the
+    documented `biennial` constant — rather than by calling due_state() a second time, so a
+    change to the phase branch that also perturbed the no-phase path could not hide behind
+    an assertion that recomputes whatever the code now does.
+
+    TWO CASES, not one: a fixture that is always old enough to be DUE samples only one
+    side of `age >= cadence.days` — a mutant that made the un-phased branch return `DUE`
+    unconditionally left this proof green when it sampled only that side (verified before
+    this fix). The second case, checked TODAY, is comfortably 'ok' and exercises the
+    branch the first case cannot reach."""
+    bad = 0
+    for checked in (date(2020, 1, 1), date.today()):
+        _, g = _group_fixture(recheck="biennial", last_checked=checked.isoformat())
+        state, detail = due_state(g)
+        age = (date.today() - checked).days
+        want_state = "DUE" if age >= CADENCES["biennial"].days else "ok"
+        if state != want_state:
+            print(f"FAIL unphased group (checked {checked.isoformat()}): expected "
+                  f"{want_state!r} from the pre-#198 formula (age {age}d vs "
+                  f"{CADENCES['biennial'].days}d), got {state!r} ({detail})",
+                  file=sys.stderr)
+            bad += 1
+            continue
+        if "phased" in detail:
+            print(f"FAIL unphased group (checked {checked.isoformat()}): detail mentions "
+                  f"phase with none declared: {detail!r}", file=sys.stderr)
+            bad += 1
+    return bad
+
+
+def _proof_due_reports_an_unreadable_phase_rather_than_raising():
+    """The sibling defect to unreadable `last_checked`, for the field this ticket adds: a
+    hand-edited or generated `recheck_phase` that is not a YYYY-MM-DD date must be
+    REPORTED, not raise — ADR 0006's overriding rule ('could not check is never reported
+    as is not there') applied to the new field the same way #198's issue asked it applied
+    to the old one."""
+    bad = 0
+    for group in (_group_fixture(recheck_phase=date(2027, 1, 1)),      # unquoted YAML date
+                  _group_fixture(recheck_phase="January 1, 2027")):    # not YYYY-MM-DD
+        _, g = group
+        try:
+            state, detail = due_state(g)
+        except Exception as e:
+            print(f"FAIL due-state on recheck_phase {g['recheck_phase']!r}: raised "
+                  f"{type(e).__name__}: {e}", file=sys.stderr)
+            bad += 1
+            continue
+        if state != UNREADABLE_PHASE:
+            print(f"FAIL due-state on recheck_phase {g['recheck_phase']!r}: reported "
+                  f"{state!r} ({detail}), which reads as an answer", file=sys.stderr)
+            bad += 1
+    return bad
+
+
+def _proof_two_groups_sharing_an_interval_on_opposite_phases_are_distinguished():
+    """AC #1 ITSELF — #198's headline case, and the one no proof in this file asserted:
+    'two groups sharing an interval but on opposite phases are distinguishable, and the
+    due-check treats them differently at the right times.' Every other phase proof above
+    uses exactly one phased group; this is the first (and only) place two phased biennial
+    groups with the SAME `last_checked` and DIFFERENT anchors are compared against each
+    other and against the un-phased control, so the feature's actual scheduling contract —
+    not just that the phase branch runs — has an assertion behind it.
+
+    Both groups were checked 400 days ago — under the un-phased formula that is a single
+    'ok' (400d < 730d), which is also asserted here as the control. `anchor_due` sits 400
+    days before `checked` (830 days ago), so its cycle's next occurrence, `anchor_due +
+    730d`, already fell 70 days before today: DUE. `anchor_ok` sits only 300 days before
+    `checked` (700 days ago) — 100 days later in the cycle, the 'opposite phase' the
+    acceptance criterion names — so ITS next occurrence, `anchor_ok + 730d`, is still 30
+    days away: ok. Same interval, same `last_checked`, different phase, different
+    answer."""
+    bad = 0
+    checked = date.today() - timedelta(days=400)
+    days = CADENCES["biennial"].days
+    anchor_due = checked - timedelta(days=400)
+    anchor_ok = checked - timedelta(days=300)
+    _, g_due = _group_fixture(recheck="biennial", last_checked=checked.isoformat(),
+                              recheck_phase=anchor_due.isoformat())
+    _, g_ok = _group_fixture(recheck="biennial", last_checked=checked.isoformat(),
+                             recheck_phase=anchor_ok.isoformat())
+    _, g_control = _group_fixture(recheck="biennial", last_checked=checked.isoformat())
+    state_due, detail_due = due_state(g_due)
+    state_ok, detail_ok = due_state(g_ok)
+    state_control, detail_control = due_state(g_control)
+    want_due_on = (anchor_due + timedelta(days=days)).isoformat()
+    want_ok_on = (anchor_ok + timedelta(days=days)).isoformat()
+    if state_due != "DUE" or f"next due {want_due_on}" not in detail_due:
+        print(f"FAIL opposite-phase pair (due side): anchor {anchor_due.isoformat()} "
+              f"should be DUE with next due {want_due_on}, got {state_due!r} "
+              f"({detail_due})", file=sys.stderr)
+        bad += 1
+    if state_ok != "ok" or f"next due {want_ok_on}" not in detail_ok:
+        print(f"FAIL opposite-phase pair (ok side): anchor {anchor_ok.isoformat()} "
+              f"should be ok with next due {want_ok_on}, got {state_ok!r} "
+              f"({detail_ok})", file=sys.stderr)
+        bad += 1
+    if state_control != "ok" or "phased" in detail_control:
+        print(f"FAIL un-phased control (400d < 730d, same last_checked as both phased "
+              f"groups): expected 'ok' with no phase mention, got {state_control!r} "
+              f"({detail_control})", file=sys.stderr)
+        bad += 1
+    if state_due == state_ok:
+        print(f"FAIL opposite-phase pair: same interval, same last_checked "
+              f"({checked.isoformat()}), different phase must give different states; "
+              f"both read {state_due!r}", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_due_reports_a_phase_on_a_cadence_that_admits_none_rather_than_raising():
+    """RUNTIME half of the `group-phase` --check rule below: `--check` gates this at
+    commit time, but due_state() must not trust that every committed group last passed it
+    — a hand-edit after the last `--check` run must be reported, not silently mis-scheduled
+    by applying phase math to a cadence (`weekly`) CADENCES never marked phase-capable."""
+    _, g = _group_fixture(recheck="weekly", recheck_phase="2026-08-01")
+    try:
+        state, detail = due_state(g)
+    except Exception as e:
+        print(f"FAIL due-state on a phase declared for a non-phase-capable cadence: "
+              f"raised {type(e).__name__}: {e}", file=sys.stderr)
+        return 1
+    if state != PHASE_NOT_ADMITTED:
+        print(f"FAIL due-state on a phase declared for a non-phase-capable cadence: "
+              f"reported {state!r} ({detail}), which reads as an answer", file=sys.stderr)
+        return 1
+    return 0
+
+
 # TWO KINDS OF PROOF, kept apart because they demonstrate different things. `_PROOFS`
 # each break one rule of `check_cadences` and assert THAT rule fires. `_MEASURED` are the
 # behaviours no --check rule can state: what a report does with data it cannot read, what
@@ -593,7 +1080,15 @@ def _proof_the_ballot_measure_cadence_lands_after_an_election():
 _MEASURED = [_proof_due_reports_an_undeclared_cadence_rather_than_raising,
              _proof_due_reports_an_unreadable_last_checked_rather_than_raising,
              _proof_the_writer_refuses_a_mis_splice,
-             _proof_the_ballot_measure_cadence_lands_after_an_election]
+             _proof_check_schema_reports_a_malformed_schema_rather_than_raising,
+             _proof_the_ballot_measure_cadence_lands_after_an_election,
+             _proof_a_phased_group_registered_off_cycle_lands_on_the_intended_cycle,
+             _proof_a_phased_group_just_checked_is_not_immediately_due_again,
+             _proof_a_group_declaring_no_phase_behaves_exactly_as_today,
+             _proof_two_groups_sharing_an_interval_on_opposite_phases_are_distinguished,
+             _proof_due_reports_an_unreadable_phase_rather_than_raising,
+             _proof_due_reports_a_phase_on_a_cadence_that_admits_none_rather_than_raising,
+             _proof_a_well_formed_phase_validates_against_the_committed_schema]
 
 _PROOFS = [
     ("a cadence declared in the checker and not the schema",
@@ -606,6 +1101,16 @@ _PROOFS = [
      _proof_a_node_the_declaration_would_rewrite_is_reported),
     ("a source group declaring a cadence nobody declared",
      _proof_a_group_declaring_an_undeclared_cadence_is_reported),
+    ("a source group declaring a phase on a cadence that admits none",
+     _proof_a_group_declaring_a_phase_on_a_cadence_that_admits_none_is_reported),
+    ("a source group carrying a key its schema forbids",
+     _proof_a_group_with_an_undeclared_key_is_reported),
+    ("a source group missing a key its schema requires",
+     _proof_a_group_missing_a_required_key_is_reported),
+    ("a source entry missing a field its schema requires",
+     _proof_a_source_entry_missing_a_required_field_is_reported),
+    ("a source group declaring a misdeclared (non-ISO) recheck_phase",
+     _proof_a_misdeclared_phase_fails_schema_validation),
 ]
 
 

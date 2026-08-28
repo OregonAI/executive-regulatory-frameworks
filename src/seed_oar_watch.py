@@ -37,6 +37,7 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from repo_lib import REPO_ROOT, SNAPSHOT_DIR, content_hash  # noqa: E402
+from check_updates import check_schema  # noqa: E402  (#199: the shared group-schema gate)
 
 MANIFEST = REPO_ROOT / "_meta/sources/oar.yml"
 WORKLIST = REPO_ROOT / "_meta/bulletin-worklist.yml"
@@ -162,22 +163,18 @@ def findings(man: dict, catalog: dict, worklist: dict) -> list:
             f"`filed but not yet served` and `agreement` cannot occur — the defect #247 "
             f"reported, in the state it was reported in"))
 
-    # AND THE GROUP STILL VALIDATES. Nothing else in this repository checks a source group
-    # against _meta/schema/source-group.schema.json (#199), and this ticket added two keys
-    # to it -- a schema nobody runs is one a change like that silently invalidates.
-    try:
-        import json
-        import jsonschema
-        schema = json.loads((REPO_ROOT / "_meta/schema/source-group.schema.json").read_text())
-        jsonschema.validate(man, schema)
-    except ImportError:
-        pass
-    except Exception as e:                                          # noqa: BLE001
-        out.append(Failure(
-            "the-seeded-group-still-validates-against-its-schema",
-            f"{str(e).splitlines()[0]} — the manifest this tool writes must stay a legal "
-            f"source group, and `additionalProperties: false` means a new key is a "
-            f"violation until the schema declares it"))
+    # AND THE GROUP STILL VALIDATES. #199 gave every group in _meta/sources/ a shared
+    # LOCAL gate, check_updates.check_schema() -- this calls THAT function rather than
+    # running a second jsonschema.validate of its own, so this manifest is checked by one
+    # implementation instead of two that could drift from each other. (The schema itself
+    # was never unenforced -- corpus.yml's extra_schema_checks has run it corpus-wide
+    # since 2026-07-25 -- this is about not hand-rolling a second copy of the same check.)
+    # This ticket is the reason the shared gate exists: it added two keys to the schema,
+    # and a check that only one caller runs is one a change like that can silently break
+    # for everybody else.
+    schema_failures, _ = check_schema(groups=[(MANIFEST, man)])
+    for f in schema_failures:
+        out.append(Failure("the-seeded-group-still-validates-against-its-schema", f.detail))
 
     if man.get("sample_cursor") is None:
         out.append(Failure(
