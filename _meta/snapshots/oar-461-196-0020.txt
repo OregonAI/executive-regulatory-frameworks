@@ -1,0 +1,284 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Self-Sufficiency Programs - Chapter 461 
+ 
+ 
+ 
+ 
+ Division 196 SUMMER EBT PROGRAM 
+ 461-196-0020 
+ Definitions; Summer Electronic Benefits Transfer (SEBT) 
+ 
+ The following definitions apply to the rules of the Summer EBT (SEBT) program in Chapter 461. 
+
+ (1) Adult means an individual 18 years of age or older. 
+
+ (2) Benefit means the value of SEBT provided to a filing group by means of an EBT system. 
+
+ (3) Categorically eligible means considered eligible for SEBT, as applicable, based on documentation that a child is a member of a filing group, as defined in this rule, and one or more children in that filing group are receiving assistance under the Supplemental Nutrition Assistance Program (SNAP) , Temporary Assistance for Needy Families (TANF), Medicaid or Food Distribution Program on Indian Reservations ( FDPIR) . A foster child, homeless child, migrant child, Head Start child  or  runaway child, as defined in this rule is also categorically eligible. Categorically eligible and streamlined eligibility may be used synonymously. 
+
+ (4) Department refers to the SEBT Agency. 
+
+ (5) Direct verification means the process of verifying the filing group’s income or categorial eligibility by matching against data sources or other records without the need to contact the filing group for documentation. 
+
+ (6) Dual participation means a child simultaneously receiving benefits from more than one SEBT Program administered by a State, US Territory or Tribal Lands; receiving SEBT in more than one household; or receiving multiple allotments from the same State administered SEBT Program. 
+
+ (7) Electronic Benefit Transfer (EBT) account means a set of records containing demographic, card, benefit, transaction, and balance data for an individual household within the EBT system that is maintained and managed by the Department  or its contractor as part of the client case record. 
+
+ (8) Electronic Benefit Transfer (EBT) card means a method to access EBT benefits issued to a household member or authorized representative through the EBT system by a benefit issuer. This method may include an on-line magnetic stripe card, an off-line smart card, a chip card, a contactless digital wallet with a stored card, or any other similar benefit access technology approved by FNS . 
+
+ (9) Electronic Benefit Transfer (EBT) contractor or vendor means an entity that is selected to perform EBT–related services for the State agency. 
+
+ (10)  Electronic Benefit Transfer (EBT) system means an electronic payments system under which household benefits are issued from and stored in a central databank, maintained, and managed by a State or its contractor, and uses electronic funds transfer technology for the delivery and control of food and other public assistance benefits. 
+
+ (11)  Eligible child(ren) means a child who meets the requirements to receive SEBT benefits as provided in OAR 461-196-0060 . 
+
+ (12) Eligible household means a household that includes at least one eligible child. 
+
+ (13) Eligibility period means the  period of time from the first day of instructional year, as defined in this rule, immediately preceding the summer operational period, as defined in this rule, through the last day of the summer operational period. 
+
+ (14) Enrolled students means students who are enrolled in and attending a school participating in the USDA National School Lunch Program (NSLP) and who have access to a meal service (breakfast or lunch) on a regular basis. 
+
+ (15) Expungement means the removal of SEBT benefits from the EBT account to which they were issued, typically by an EBT processor on behalf of the Department . 
+
+ (16) FDPIR means the Food Distribution Program on Indian Reservations. 
+
+ (17)  Filing group means a group of related or nonrelated individuals who are living together as one economic unit. 
+
+ (18) FNS means the Food and Nutrition Service, United States Department of Agriculture. 
+
+ (19)  Foster child means a child who is formally placed by a court or an agency that administers a State plan under parts B or E of title IV of the Social Security Act ( 42 U.S.C. 621 et seq. ). 
+
+ (20) Free or reduced-price meal eligible means a student which is determined by the school as eligible to receive free or reduced-price National School Lunch Program. 
+
+ (21) Head Start child means a child enrolled as a participant in a Head Start program authorized under the Head Start Act ( 42 U.S.C. 9831 et seq. ) 
+
+ (22) Homeless child means a child identified as lacking a fixed, regular and adequate nighttime residence, as specified under section 725(a) of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11434a(2) ) by the local educational agency liaison, director of a homeless shelter, or other individual identified by FNS. 
+
+ (23) Instructional year means the period from July 1 of the prior year through one day prior to the summer operational period. 
+
+ (24) Medicaid means medical assistance under title XIX of the Social Security Act, as amended. For the purposes for SEBT eligibility, this applies only to individuals eligible under 185% of the federal poverty level. 
+
+ (25) Migrant child means a child identified as meeting the definition of migrant in section 1309 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6399 ) by the State or local Migrant Education Program coordinator, the local educational liaison, or other individual identified by FNS. 
+
+ (26) NSLP/SBP means the National School Lunch Program established under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq. ) and the School Breakfast Program established under the Child Nutrition Act of 1996 (42 U.S.C. 1771 et seq.).  
+
+ (27) NSLP/SBP application means an application for free and reduced-price meals, submitted by a household for a child or children enrolled at an NSLP/SBP participating school(s). Eligibility determinations based on NSLP/SBP applications may be used to confer eligibility for SEBT. 
+
+ (28) NSLP school means an Oregon public school, nonprofit private school, or residential childcare institution that is a sponsor of the National School Lunch Program . 
+
+ (29) NSLP student means an individual enrolled in an Oregon public school, nonprofit private school, or residential childcare institution that provides meal service as a sponsored National School Lunch Program school. 
+
+ (30) ODE means the Oregon Department of Education. 
+
+ (31) ODHS means the Oregon Department of Human Services. 
+
+ (32) Runaway child means a child identified as a runaway receiving assistance under a program under the Runaway and Homeless Youth Act ( 42 U.S.C. 5701 et seq. ) by the local educational liaison or other individual in accordance with guidance issued by FNS. 
+
+ (33) School aged means the years in which a child is required to attend school or an equivalent program as defined by State or Tribal law. Also known as the age requirement for compulsory education, which is defined as six (6) to eighteen (18) years old in Oregon. 
+
+ (34) SEBT means Summer Electronic Benefits Transfer. 
+
+ (35) Signature means a person's name written in a distinctive way as a form of identification. For the purposes of SEBT the following signatures are acceptable: hand-written, telephonic, and electronic signature including a typed signature. 
+
+ (36) SNAP means Supplemental Nutrition Assistance Program, w hich is a Federal food benefits program for low-income individuals to supplement their grocery budget. 
+
+ (37) SNAP participant means an individual who is a member of a SNAP filing group (see OAR 461-110-0370 ) that receives more than $0 in SNAP benefits. 
+
+ (38) Streamlined certification means automatically enrolling an eligible child for SEBT without need for further application or confirmation of school enrollment. Streamlined certification and categorically eligible may be used synonymously. 
+
+ (39) Summer EBT agency means the Oregon Department of Human Services. 
+
+ (40) Summer EBT application means an application for SEBT benefits submitted to the Department by a filing group for a child or children who are enrolled at a NSLP/SBP participating school. 
+
+ (41) Summer operational period means the benefit period that generally reflects the period between the end of classes during the current school year and the start of classes for the next school year, as determined by the Department . 
+
+ (42) TANF means Temporary Assistance to Needy Families, which is the State funded program under part A of title IV of the Social Security Act. 
+
+ (43) USDA means United States Department of Agriculture.  
+
+ (44) Verification means confirmation of eligibility for the Summer EBT Program when a child's eligibility is established through a Summer EBT application . Verification includes confirmation of income eligibility and may also include confirmation of any other information required in the application. 
+
+ (45) Verification for cause means verification of questionable applications, on a case-by-case basis, such as an instance when the Department is made aware of conflicting or inconsistent information than what was provided on the application. 
+  
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 411.060 
+ 
+ 
+ Statutes/Other Implemented:  ORS 411.060 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 27-2025, amend filed 12/23/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 58-2024, adopt filed 11/27/2024, effective 12/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SSP 40-2024, temporary adopt filed 06/18/2024, effective 06/18/2024 through 12/14/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
