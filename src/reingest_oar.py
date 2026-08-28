@@ -1363,13 +1363,14 @@ def _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check) -> No
     re-ingest from rewriting `retrieved` over a document whose source did not move -- the
     guard #252 found writing to a COMMITTED rule anyway, because the proof that exercised
     it fed a real candidate's committed path straight to `reingest_one` and asserted
-    `not wrote` only AFTER the write it was testing for could already have happened. That
-    proof was removed in #261 as collateral (`grep -c "2099"` now returns 0) and nothing
-    replaced it: `the-re-ingest-reproduces-its-document` covers `refresh()` over all 306
-    re-ingested documents, but it never calls `reingest_one`, so it says nothing about
-    date handling on the WRITE PATH -- and the two calls to `reingest_one` still in this
-    selftest (`_proof_the_run_refuses_what_is_not_an_amendment`) both feed REFUSAL pages,
-    never a valid page fed back on a later date.
+    `not wrote` only AFTER the write it was testing for could already have happened.
+    Before this docstring existed to say so, `grep -c "2099"` over this file returned 0:
+    that proof (and the sentinel date it watched for) was removed in #261 as collateral,
+    and nothing replaced it -- `the-re-ingest-reproduces-its-document` covers `refresh()`
+    over all 306 re-ingested documents, but it never calls `reingest_one`, so it says
+    nothing about date handling on the WRITE PATH, and the two calls to `reingest_one`
+    still in this selftest (`_proof_the_run_refuses_what_is_not_an_amendment`) both feed
+    REFUSAL pages, never a valid page fed back on a later date.
 
     BUILT ENTIRELY FROM SYNTHETIC FIXTURES so this can never touch a committed file even
     under the mutation it exists to catch (the lesson of #252, this time by construction
@@ -1378,25 +1379,44 @@ def _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check) -> No
     the candidate's path is a file in a TEMPORARY directory that stops existing when this
     function returns -- `candidate.path.write_text()` can reach only that. `999-001-0010`
     is the number every OTHER fixture in this file already uses for exactly this reason:
-    no committed snapshot carries it, so even the unconditional `SNAPSHOT_DIR` writes on
-    the write path -- reached under the mutation below -- land on nothing real.
+    no committed snapshot carries it, so the unconditional `SNAPSHOT_DIR` writes on the
+    write path clobber nothing already committed even when reached -- under the mutation
+    below, or by the moved-text case further down, which reaches that path on every green
+    run and for that reason redirects `SNAPSHOT_DIR` itself rather than leaning on the
+    fixture number's inertness alone (untracked files beside the real ones are still real
+    files; "nothing real" overstated what inertness alone bought).
 
-    THE INGEST ACTUALLY RUNS, rather than the proof passing because nothing was asked to
-    run at all. `fetch_page` is a counting stub: this is `reingest_one` itself fetching,
-    slicing, hashing and comparing and finding no change, not `select()` declining to
-    re-select an already-recorded row. And THE CLOCK ACTUALLY MOVES -- `today` is
-    2026-08-23 and the fixture's own `retrieved` is 2026-01-02, seven and a half months
-    earlier, not a rerun inside the same second -- which is the specific shape of #252's
-    failure: a re-run on a LATER DAY stamping today over bytes nobody re-fetched a change
-    in.
+    THE INGEST ACTUALLY RUNS on the case immediately below, rather than the proof passing
+    because nothing was asked to run at all: `fetch_page` is a counting stub, so this is
+    `reingest_one` itself fetching, slicing, hashing and comparing and finding no change --
+    not `select()` declining to re-select an already-recorded row. And THE CLOCK ACTUALLY
+    MOVES -- `today` is 2026-08-23 and the fixture's own `retrieved` is 2026-01-02, seven
+    and a half months earlier, not a rerun inside the same second -- which is the specific
+    shape of #252's failure: a re-run on a LATER DAY stamping today over bytes nobody
+    re-fetched a change in.
 
-    WATCHED FAILING. With the fixed-point guard at the top of `reingest_one` disabled, this
-    exact fixture writes `retrieved: "2026-08-23"` over the document -- confirmed by hand
-    against this fixture and reverted before commit. There is no `CHECK_RULES` entry for
-    it: `reingest_one` raises no `Failure` of its own when the fixed point holds, so this
-    proof is the only place in the module a regression here has anywhere to fail."""
+    WHAT THIS DOES NOT PIN: the fixed-point compare's own reason for existing, over a
+    hash-only check (`if sha in old:` in place of `refresh(...) == old`). Both fixtures
+    below are built so the document already holds exactly what its own page computes, so
+    a hash-only guard would pass this proof too -- the drifted-document case the fixed
+    point exists for (an unchanged page whose document had drifted from it, per the
+    comment at the guard's own call site) is unreachable here by construction, not
+    covered by a second fixture. Known boundary, not a claim this proof does not make
+    elsewhere.
+
+    WATCHED FAILING, both directions, both reverted before commit. With the fixed-point
+    guard at the top of `reingest_one` disabled, the not-moved case below writes
+    `retrieved: "2026-08-23"` over the in-memory fixture. There is no `CHECK_RULES` entry
+    for it: `reingest_one` raises no `Failure` of its own when the fixed point holds, so
+    this proof is the only place in the module a regression here has anywhere to fail.
+    And with `reingest_one` short-circuited to `return False, []` before it ever reads,
+    hashes or compares -- the trap #269's own triage comment named, because `not wrote`
+    alone is trivially satisfied by a path that never writes at all -- the not-moved case
+    stays green (it still expects `not wrote`) but the moved-text case below goes red:
+    `wrote` comes back `False` where the fixture demands `True`."""
     number = "999-001-0010"
     doc_id = f"oar-{number}"
+    today = "2026-08-23"
     raw = _page(number, "(1) Text a re-fetch of an unmoved source would serve again, "
                         "comfortably past the hundred characters the slicer insists on "
                         "before it will believe a page carries a rule at all.")
@@ -1408,8 +1428,9 @@ def _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check) -> No
     # calling `refresh()` itself rather than hand-assembling frontmatter, so this fixture
     # cannot drift from what the function under test actually writes.
     old = refresh(_fixture_doc(), full_text, sha, "2026-01-02")
-    check("the fixture document is buildable and dated before the re-ingest",
-          old is not None and _retrieved(old) == "2026-01-02")
+    check("the fixture document is buildable and dated before `today` -- the gap itself, "
+          "not just two literals that happen to differ",
+          old is not None and _retrieved(old) == "2026-01-02" and _retrieved(old) < today)
     # A REGISTRY THAT RESOLVES `999`, so that a REGRESSION reaching the write branch fails
     # THIS proof's own assertions rather than crashing on an unrelated missing chapter --
     # the fixed point is never exercised on the path this proof expects to take, but a
@@ -1431,7 +1452,7 @@ def _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check) -> No
         path.write_text(old)
         candidate = Candidate(number, "amend", {}, path)
         wrote, problems = reingest_one(
-            candidate, fake_registry, "2026-08-23", fetch_page=fetch_page)
+            candidate, fake_registry, today, fetch_page=fetch_page)
         check("the fetch actually ran -- this is not a re-ingest skipped as "
               "already-present", len(calls) == 1)
         check("a source that has not moved, re-ingested on a LATER day, writes nothing "
@@ -1440,6 +1461,50 @@ def _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check) -> No
               path.read_text() == old)
         check("...specifically: the retrieved date the re-ingest almost overwrote",
               _retrieved(path.read_text()) == "2026-01-02")
+
+    # THE OTHER DIRECTION, IN THE SAME PROOF (#269's own triage comment): a guard that
+    # never writes at all satisfies every check above, so a page whose text HAS moved is
+    # fed back too -- the same fixture document, a page whose body differs from what it
+    # already holds. This is the one case in this proof that reaches the real write
+    # path, so `SNAPSHOT_DIR` and `hash_snapshot` are redirected to a scratch directory
+    # for the one call that needs them, both restored in `finally` whether or not the
+    # call raises: reassigning `hash_snapshot` itself rather than its bound default,
+    # because that default is baked into `__defaults__` at `repo_lib` import time, so
+    # reassigning `repo_lib.SNAPSHOT_DIR` afterward would not move it.
+    moved_raw = _page(number, "(1) Text a re-fetch would now serve, because the source "
+                              "moved between visits and this line replaced the one the "
+                              "document above was built from.")
+    moved_calls = []
+
+    def moved_fetch_page(url):
+        moved_calls.append(url)
+        return moved_raw
+
+    with tempfile.TemporaryDirectory() as d:
+        path = Path(d) / f"{doc_id}.md"
+        path.write_text(old)
+        candidate = Candidate(number, "amend", {}, path)
+        scratch = Path(d) / "snapshots"
+        scratch.mkdir()
+        global SNAPSHOT_DIR, hash_snapshot
+        real_snapshot_dir, real_hash_snapshot = SNAPSHOT_DIR, hash_snapshot
+        SNAPSHOT_DIR = scratch
+        hash_snapshot = lambda doc_id, fmt: real_hash_snapshot(doc_id, fmt, scratch)
+        try:
+            wrote, problems = reingest_one(
+                candidate, fake_registry, today, fetch_page=moved_fetch_page)
+        finally:
+            SNAPSHOT_DIR, hash_snapshot = real_snapshot_dir, real_hash_snapshot
+        check("the fetch ran for the moved-text case too", len(moved_calls) == 1)
+        check("a source that HAS moved, re-ingested on a later day, writes and reports "
+              "no problem -- the assertion `not wrote` alone could never make, the trap "
+              "#269's triage comment named", wrote and not problems)
+        check("...and the retrieved date becomes the day of THIS run, not the day the "
+              "document already carried", _retrieved(path.read_text()) == today)
+        check("...and the SNAPSHOT_DIR writes this call made landed in the redirected "
+              "scratch directory, never the real one",
+              (scratch / f"{doc_id}.html").exists()
+              and not (real_snapshot_dir / f"{doc_id}.html").exists())
 
 
 def _proof_the_status_survives_the_call_this_path_makes(check) -> None:
