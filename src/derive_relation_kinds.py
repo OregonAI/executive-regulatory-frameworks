@@ -13,14 +13,17 @@ authority: a statute that constitutes the Oregon Albacore Commission is a statut
 Highway Division does not have and never will.
 
 THIS DERIVES KINDS FROM PROPOSALS, WHICH IS A DEVIATION FROM ADR 0004 AS WRITTEN, and ADR
-0004 now records it. The registry holds no admitting evidence yet — all 189
-`enabling_authority` keys are absent. What it holds is 126 CANDIDATES in
-_meta/catalog/enabling-authority-review.yml, and link_enabling_authority.py is explicit that
-"a row that was pattern-matched and not read belongs in the review sheet, not here". A
-candidate is a proposal, not evidence. Deriving from one anyway is a decision taken to ship
-the split now rather than wait on the review of 126 rows, and it is only defensible because
-the file SAYS SO: every kind records the `basis` it was derived from, so a claim resting on
-an unread proposal cannot be mistaken for one resting on a reviewed authority, and the row
+0004 now records it. Most of the registry holds no admitting evidence yet — a row with no
+`enabling_authority` key has not been reviewed, however many that is today
+(`authority_census()`, printed by `catalog_agencies.py --check`, rather than fixed here) —
+and only some of those sit as a CANDIDATE in _meta/catalog/enabling-authority-review.yml; the
+rest sit in that same sheet's `no_candidate` list, which is a statement about the matcher and
+not about the body. link_enabling_authority.py is explicit that "a row that was
+pattern-matched and not read belongs in the review sheet, not here". A candidate is a
+proposal, not evidence. Deriving from one anyway is a decision taken to ship the split now
+rather than wait for every candidate to be reviewed, and it is only defensible because the
+file SAYS SO: every kind records the `basis` it was derived from, so a claim resting on an
+unread proposal cannot be mistaken for one resting on a reviewed authority, and the row
 upgrades visibly the day the review lands. Without that the registry would assert a
 relationship on evidence it does not hold — which is exactly what `manual: true` was retired
 for (ADR 0003: an assertion records that someone decided, never what decided it).
@@ -282,9 +285,9 @@ def audit(orgs, proposed, verdicts) -> list:
     by_slug = {o["slug"]: o for o in orgs if isinstance(o, dict) and o.get("slug")}
 
     # ONLY THE BODIES THIS MODULE DERIVES FOR. A sheet row for a body that sits under no
-    # other is link_enabling_authority.py's to answer for — 45 of the 126 candidates name
-    # such a body — and reporting them here would fail this gate over work that is not its
-    # own, which is the shape of a gate nobody can act on.
+    # other is link_enabling_authority.py's to answer for — most of the sheet's candidates
+    # name such a body — and reporting them here would fail this gate over work that is not
+    # its own, which is the shape of a gate nobody can act on.
     decides_for = {slug for slug, o in by_slug.items() if relation_entries(o)}
     for slug, citation in sorted(proposed.items()):
         if slug not in decides_for:

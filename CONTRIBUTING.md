@@ -30,7 +30,8 @@ provenance mechanically. AI agents are welcome contributors under the rules in
       `_index.md`
 - [ ] Knowledge body `CHANGELOG.md` updated (Keep a Changelog format; change types:
       Added / Source-Updated / Superseded / Repealed / Removed / Verified / Fixed / Security)
-- [ ] Agent-assisted commits carry an `Assisted-by:` trailer
+- [ ] Agent-assisted commits carry `Co-Authored-By:`/`Claude-Session:` trailers (see
+      AGENTS.md, Commit conventions)
 
 ## Branch protection (repository settings)
 

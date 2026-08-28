@@ -67,13 +67,18 @@ def mirrored_oar_chapters(cat=None):
     """THE CHAPTERS THIS CORPUS MIRRORS, read from `rules/` -- with titles, sorted.
 
     NOT from the catalog's chapter list (#237). `_meta/catalog/oar.yml` is a DISCOVERY MAP
-    -- its own note says so -- and it lists what discovery walked. Chapters 419 and 950 were
-    never walked: oregon.public.law does not carry them, and their 303 documents arrived
-    under rules RENUMBERED INTO those chapters, whose catalog rows keep the number OARD
-    renumbered them FROM. Both readings are correct about their own question, and llms.txt
-    was asking the wrong one: it printed `36953 OAR rules ... chapters 101, 104, ...` --
-    a count taken from the corpus and a list taken from the map, disagreeing inside one
-    sentence, with 303 mirrored documents named nowhere.
+    -- its own note says so -- and it lists what discovery walked, which is not always the
+    same as what this corpus holds documents for. #270 now walks chapters 419 and 950 too
+    (OARD's own chapter directory lists both as real, current chapters, and gives both
+    catalog rows), but the general shape #237 found survives: 303 documents under
+    rules/419 and rules/950 predate that catalog row and are filed under a NUMBER OARD
+    RENUMBERED THEM FROM, named only via `served_as` on a row filed under a different
+    chapter (catalog_claimed_numbers() is what keeps them from getting a second row now
+    that 419/950 are walked). llms.txt used to ask the wrong question: it printed
+    `36953 OAR rules ... chapters 101, 104, ...` -- a count taken from the corpus and a
+    list taken from the map, disagreeing inside one sentence, with those 303 mirrored
+    documents named nowhere. Reading chapters from `rules/` itself, as this function does,
+    is what keeps that from happening again regardless of what the catalog goes on to name.
 
     Titles come from the catalog where it has one and the agency registry otherwise, which
     is where the catalog's own titles come from.
@@ -242,18 +247,23 @@ def selftest() -> int:
         fails.append(f"FAIL the-generated-text-names-every-mirrored-chapter: "
                      f"{[c for c, _, _ in missing_chapters(good)]}")
 
-    # WATCHED FAILING against the shape #237 found: the chapter list taken from the
-    # discovery map while the count is taken from the corpus.
-    cat = _cat("oar")
-    from_map = ", ".join(f"{c['chapter']} ({c.get('title')})"
-                         for c in cat.get("chapters") or [])
-    stale = f"- [Index](rules/_index.md): 36953 OAR rules, full text each — chapters {from_map}."
+    # WATCHED FAILING against the shape #237 found: a chapter list that omits a chapter
+    # this corpus mirrors documents for is caught, whichever chapter that is. This used to
+    # take its "stale" fixture straight from the live catalog's own chapter list, naming
+    # 419 and 950 as the proof, because the catalog omitted them and the corpus didn't --
+    # #270 gave both their own catalog rows, so `from_map` stopped omitting anything and
+    # the proof stopped proving anything (a fault-injection test whose fault is no longer
+    # there passes for the wrong reason, same shape as a guard that cannot fire). Omitting
+    # a chapter BY CONSTRUCTION, rather than relying on which one the catalog happens to
+    # be missing today, is what keeps this from rotting the same way twice.
+    omit_ch = have[0][0]
+    named = ", ".join(f"{c} ({t or 'x'})" for c, t, _ in have if c != omit_ch)
+    stale = f"- [Index](rules/_index.md): 1 OAR rules, full text each — chapters {named}."
     caught = missing_chapters(stale)
     if not caught:
-        fails.append("FAIL a-chapter-list-taken-from-the-discovery-map-is-caught: the "
-                     "catalog names every mirrored chapter, so this proof cannot fail and "
-                     "is not a proof — it held only while 419 and 950 were missing")
-    elif {c for c, _, _ in caught} != {"419", "950"}:
+        fails.append("FAIL a-chapter-list-omitting-a-mirrored-chapter-is-caught: "
+                     f"omitted {omit_ch} and nothing was caught")
+    elif {c for c, _, _ in caught} != {omit_ch}:
         fails.append(f"FAIL ...and it names exactly which: {sorted(c for c, _, _ in caught)}")
 
     # AND A GUARD THAT MUST NOT FIRE: a line naming every chapter is clean, so the rule

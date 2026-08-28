@@ -392,7 +392,7 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   it is — WRITER, READER, NOT-A-RULE or NOT-A-LEGAL-STATUS — and
   `python3 src/legal_status.py --check` (CI, every PR) fails on an unmarked one, on a second
   module marked WRITER, on a "reader" that kept a literal of its own, on either field named
-  `status` holding the other's vocabulary across the 37,007 catalog rule entries, and on a
+  `status` holding the other's vocabulary across the 42,615 catalog rule entries, and on a
   document that stopped agreeing with the catalog row it was stamped from. `--selftest` proves
   every one of those can fail, the two mutations included.
   A REPEALED OR SUSPENDED RULE IS MARKED, NEVER DELETED (#229, ADR 0006). The August 2026
@@ -499,8 +499,27 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   regenerates the `oar-index` entries from the index tree and `preserve_relations()`
   carries every other entry across ENTRY BY ENTRY, and `--check`'s `relation-origin` rule
   refuses any other declaration of it — declaring the whole field SCRAPED would drop
-  curated entries behind a rule that passed, which is #178 (`note`, two origins, no way to
-  tell them apart, hand-written notes destroyed by `--refresh`). The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
+  curated entries behind a rule that passed, which `note` used to risk too until #178 split
+  it: `note` (SCRAPED) now holds only the three sentences `cmd_refresh()` itself writes, and
+  `curator_note` (CURATED) holds hand-typed prose about a row, carried across a refresh by
+  `CURATED_KEYS` on any row and needing none of `manual`'s whole-row protection.
+  `catalog_agencies.py --check`'s `note-scrape-shape` refuses a `note` that is not one of
+  those three sentences. THE FILE'S OWN TOP-LEVEL `note` (the prose above `organizations`,
+  read by three sibling corpora) is a THIRD, unrelated field of the same name, and it
+  drifted stale — measured across its own git history: 669 characters naming 4 of the
+  then-14 row fields for a month, then two more revisions that each still fell short
+  (4,299 naming 9 of 13, then 5,260 naming 11 of 15), then #178 grew the field set to 16
+  with `curator_note` while the note stayed at 5,260 — before anything compared it
+  against `FIELDS` (#185) — `--check`'s
+  `note-covers-fields` now refuses a registry whose top-level `note` does not name every
+  field `FIELDS` declares, derived from the declaration itself rather than a second list.
+  Naming every field is not the same as AGREEING with what `cmd_refresh()` would write —
+  the two copies drifted by rewording and dropping sentences too, not only by falling
+  behind on field names, so `REGISTRY_NOTE` is now the one place that literal string
+  lives, read by `cmd_refresh()` and compared against the committed file directly by
+  `note-agrees-with-refresh`, a second rule beside `note-covers-fields` rather than a
+  replacement for it.
+  The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
   `python3 src/link_budget_codes.py` from the hand-reviewed table in that file, whose
   `--check` verifies the registry against that table. The deprecated `budget_agency_code`
   holds the same number for one more cycle (ADR 0003, removed by #177); that the two agree
@@ -561,11 +580,16 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
 
 ## Commit conventions
 
-Record agent authorship with a commit trailer, e.g.:
+Record agent authorship with commit trailers, e.g.:
 
 ```
-Assisted-by: Claude Code (supervised)
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_...
 ```
+
+(This replaces an earlier documented convention, `Assisted-by: Claude Code (supervised)`,
+which none of this branch's or main's recent commits carry — a document describing a
+convention nobody follows is a claim that stopped being true, and this is the actual one.)
 
 ## Relationship graph
 
