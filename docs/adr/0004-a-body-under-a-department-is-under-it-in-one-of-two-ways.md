@@ -64,16 +64,19 @@ and Inclusion Division` has a parent and no comma, alone among the 81.
 ## Amendment: the kinds are derived from PROPOSED evidence, and each one says so
 
 The decision above derives the kind from admitting evidence, and when the time came to
-derive it there was none. All 189 `enabling_authority` keys are absent — nobody has reviewed
-a single body — and what the repository holds instead is 126 CANDIDATES in
-`_meta/catalog/enabling-authority-review.yml`, produced by a matcher. `link_enabling_authority.py`
-is explicit about what those are worth: "a row that was pattern-matched and not read belongs
-in the review sheet, not here." A candidate is a proposal. It is not evidence.
+derive it there was none. On 2026-08-21, when this amendment landed, all 189
+`enabling_authority` keys were absent — nobody had reviewed a single body — and what the
+repository held instead was 126 CANDIDATES in `_meta/catalog/enabling-authority-review.yml`,
+produced by a matcher. (Both figures move as reviews land — `authority_census()`, printed by
+`catalog_agencies.py --check`, is the current split, not this paragraph.)
+`link_enabling_authority.py` is explicit about what those are worth: "a row that was
+pattern-matched and not read belongs in the review sheet, not here." A candidate is a
+proposal. It is not evidence.
 
 **We decided to derive the kinds from the proposals anyway, and to record on every kind what
-it was derived from.** The alternative was to wait on the review of 126 rows, and the split
-is worth more now than the review is worth later. What makes that defensible is not the
-speed, it is the `basis`: a kind resting on a candidate nobody has read carries
+it was derived from.** The alternative was to wait for every candidate to be reviewed, and
+the split was worth more then than the review was worth later. What makes that defensible is
+not the speed, it is the `basis`: a kind resting on a candidate nobody has read carries
 `proposed-enabling-authority`, a kind resting on a reviewed authority carries
 `reviewed-enabling-authority`, and the registry therefore never presents the weaker
 population as the stronger one. The row upgrades — visibly, in the diff — the day the review
@@ -101,7 +104,7 @@ Above, this ADR says 25 of the 81 children have their own statutory authority an
 That is a claim about Oregon law. The 44 is a claim about the review sheet — how many
 children a matcher has proposed a section for — and it is the only one of the two anything
 in this repository can check today, which is why it is the one the derivation runs on. Where
-the 25 came from is not recorded, and until the 126 candidates are reviewed neither number
+the 25 came from is not recorded, and until every candidate is reviewed neither number
 can correct the other. What the derivation records is which sheet row each kind came from, so
 the reconciliation is a reading rather than a re-count.
 

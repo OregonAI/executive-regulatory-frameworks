@@ -481,10 +481,14 @@ RELATION_KINDS = (UNDETERMINED, PART_OF, ADMINISTERED_BY)
 # THE TWO BASES ARE NOT THE SAME STRENGTH, and keeping them apart is the whole of #173. ADR
 # 0004 derives the kind from ADMITTING EVIDENCE, and how much of it the registry holds moves
 # as reviews land — a live split `catalog_agencies.py --check` prints every run rather than
-# a count fixed here. What is not yet reviewed sits as a PROPOSED candidate in
-# _meta/catalog/enabling-authority-review.yml, and link_enabling_authority.py is explicit
-# that "a row that was pattern-matched and not read belongs in the review sheet, not here".
-# So a kind derived from a proposal is a weaker claim than one derived from a reviewed
+# a count fixed here. What is not yet reviewed sits in
+# _meta/catalog/enabling-authority-review.yml — as a PROPOSED candidate where the matcher
+# found one, or in that sheet's `no_candidate` list where it did not, which is a statement
+# about the matcher and not about the body (link_enabling_authority.py's own note;
+# CONTEXT.md's Undetermined entry) and never a proposal for anything.
+# link_enabling_authority.py is explicit that "a row that was pattern-matched and not read
+# belongs in the review sheet, not here". So a kind derived from a proposal is a weaker
+# claim than one derived from a reviewed
 # authority, and a reader must be able to tell them apart in the file — otherwise the
 # registry asserts a relationship on evidence it does not hold, which is what `manual: true`
 # was retired for (ADR 0003: an assertion records that someone decided, never what decided
@@ -848,9 +852,7 @@ AUTHORITY_FORMS = (
 # than as a null, because a null and an absent key are read alike by every consumer, and the
 # claims are opposite:
 #
-#   key absent                       nobody has looked yet         (a live count —
-#                                                                    authority_census(),
-#                                                                    printed by --check)
+#   key absent                       nobody has looked yet
 #   `ORS 576.062` / `Or. Const. …`   an authority is recorded
 #   `none: <reason>`                 someone looked, and this is what they found
 #

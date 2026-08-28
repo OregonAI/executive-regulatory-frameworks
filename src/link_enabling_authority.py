@@ -90,8 +90,10 @@ this corpus, and a reviewer has to be told which.
 
 THE THREE STATES, and the reason MAPPED and UNMAPPED are both explicit. A row carrying
 `ORS 576.062` has an authority; a row carrying `none: <reason>` was looked at and has none;
-a row carrying no `enabling_authority` key at all has not been looked at. All 189 are in the
-third state today. Absence is never a claim that a body has no enabling authority.
+a row carrying no `enabling_authority` key at all has not been looked at — however many rows
+that is today, which is `authority_census()`'s live count, printed by `catalog_agencies.py
+--check` on every run rather than fixed here. Absence is never a claim that a body has no
+enabling authority.
 
 UNMAPPED IS EXPLICIT, never implied by absence — "we looked and there is no counterpart" and
 "nobody has looked yet" must not be the same state (CONTEXT.md; link_budget_codes.py).
@@ -1128,7 +1130,8 @@ def _fixture():
     orgs = [{"slug": slug, "name": slug.replace("-", " ").title(),
              "enabling_authority": want[slug]} for slug in sorted(want)]
     # THE THIRD STATE, carried by the fixture itself: a body no table mentions and whose row
-    # holds no `enabling_authority` key. It is the state all 189 committed rows are in, and
+    # holds no `enabling_authority` key. It is the state every not-yet-reviewed committed row
+    # is in, however many that is today (`authority_census()`, printed by `--check`), and
     # the fixture has to pass cleanly with it — a gate that treated "nobody has looked yet"
     # as a violation would make the honest default impossible to hold.
     orgs.append({"slug": "board-nobody-has-reviewed", "name": "Board Nobody Has Reviewed"})

@@ -123,8 +123,8 @@ to enable); and an absent key means nobody has looked yet, whatever today's spli
 the three states is — that split moves as reviews land, so it is `authority_census()`'s
 live count, printed by `catalog_agencies.py --check` on every run, rather than a figure
 pinned in this glossary entry to go stale the next time it moves. A body recorded *part of*
-another may never carry an authority in the first
-form: the two are opposite claims about one body, and `catalog_agencies.py --check` refuses
+another may never carry an authority in the first form: the two are opposite claims about
+one body, and `catalog_agencies.py --check` refuses
 a row asserting both. Absence is never the claim that a body has no enabling authority, and
 a blank value is refused for making that claim with nobody behind it.
 _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a statute
