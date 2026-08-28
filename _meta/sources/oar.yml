@@ -19576,6 +19576,11 @@ sources:
   sha256: 0aa9ae5d93496c7fec52b483fd67893e25372e584ae5ab2879d7bb38f6a4bc9a
   last_checked: '2026-08-28'
   notes: Judicial Review and Reconsideration of Orders Related to Division 22 Standards
+- id: oar-582-100-0018
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=582-100-0018
+  sha256: 6a2cda817efa91c497a8765a56b3bd9ee2491fa0af263c3384f12cbbecc712fd
+  last_checked: '2026-08-28'
+  notes: Assignment of Priority Categories
 - id: oar-583-030-0048
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=583-030-0048
   sha256: 7b8869a708807459f22ab6444edc4c70f6f7d75e50b0b64c1d60d5e11842b500
@@ -22719,6 +22724,11 @@ sources:
   sha256: 17324fffefcb2a510ceeb19a96c321830a03ca88ea07fdea5d5c87018e7d5194
   last_checked: '2026-08-28'
   notes: Reports
+- id: oar-632-030-0023
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=632-030-0023
+  sha256: 27f0b9240b443b7e3357b175e45df3c19a1f3ac12bcea4f2a8cd8e4c56579ed0
+  last_checked: '2026-08-28'
+  notes: Aggregate Mining on High Value Farmland in the Willamette Valley
 - id: oar-635-004-0275
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=635-004-0275
   sha256: 9c6eed78539fc038b25a553e3c71436c755702235ab8789c46776a91c63b2d77
@@ -26187,6 +26197,16 @@ sources:
   sha256: 4ed945919c60f0c61a98db51339e8e160e0a252bd685983195f04f51a0caa3e5
   last_checked: '2026-08-28'
   notes: Safe Routes to School Infrastructure Plan
+- id: oar-738-050-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=738-050-0005
+  sha256: f4f751db73b99e46c5d1fe013512c1d4ddd2b1bbf85fffbcec871a4199f795a8
+  last_checked: '2026-08-28'
+  notes: Vehicle/Pedestrian Deviations and Civil Penalties
+- id: oar-740-300-0055
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=740-300-0055
+  sha256: e2516baa0e39f0a3e99d19fd6c5ec1d7f2a21972a92f619bde84b7c4b556126b
+  last_checked: '2026-08-28'
+  notes: Mitigation for Violations Described in OAR 740-300-0035
 - id: oar-741-015-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=741-015-0010
   sha256: 507a53612731d8d83d2581b69ab5758a4bb324b161fd2b4d06b3339ec5cc390b
@@ -26437,6 +26457,26 @@ sources:
   sha256: da8aebdc9126d041fb8b48480d9e8e750e33c37af69e502fee09f04bcea511a0
   last_checked: '2026-08-28'
   notes: Grantee Reporting Requirements
+- id: oar-804-001-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=804-001-0025
+  sha256: 74f2a68b55bd5507273924f28b7701c284eefc35cccc247f24d6f1c9b58df000
+  last_checked: '2026-08-28'
+  notes: Criminal Conviction Determination Process
+- id: oar-806-010-0014
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=806-010-0014
+  sha256: 878eab58b07deaf258b71a18da7dc4c28823e49a2fb9447fe3cd5e5289fbeae1
+  last_checked: '2026-08-28'
+  notes: Criminal Conviction Determination Process
+- id: oar-808-002-0881
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=808-002-0881
+  sha256: 46debe6eb1559a4698c808000a44991b8592dea7918dc00408b782705216e603
+  last_checked: '2026-08-28'
+  notes: Trees
+- id: oar-809-050-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=809-050-0025
+  sha256: d6194b88f65c921a809376ceb1184b59559ac856e96c53b06042c56dbdceea39
+  last_checked: '2026-08-28'
+  notes: Criminal Conviction Determination Process
 - id: oar-811-010-0021
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=811-010-0021
   sha256: f4d03d3f692dac1151a68ea54b0af7d80783a7fe9cb9fc8e5532e70232f086ed
@@ -27794,6 +27834,11 @@ sources:
   sha256: edcfd88e3eddfd1f1701100cf17c0ea283b0583da00a56bfbfa0d68181a2ad42
   last_checked: '2026-08-28'
   notes: Local Anesthesia Functions of Dental Assistants
+- id: oar-819-030-0001
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=819-030-0001
+  sha256: 1fbf4d6fd30e0fd360ed23ae2a093feffe32254c8574995ea3f2ddebf54245fe
+  last_checked: '2026-08-28'
+  notes: Definition of Advanced Esthetics Device
 - id: oar-820-025-0001
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=820-025-0001
   sha256: 541593a1294e68e760fc698c58ad48810dc29757da55e6124e35246c18c62fed
@@ -27824,6 +27869,11 @@ sources:
   sha256: 60acf40932ebee142cd71606bc0aa11f61d2a710d3e2f6ecef826659e3fde165
   last_checked: '2026-08-28'
   notes: Dual Stamping Documents
+- id: oar-824-060-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=824-060-0020
+  sha256: d595eae622a1bfe474a081e2264514d23c10ad209ff4d349ce1f966c08c11a14
+  last_checked: '2026-08-28'
+  notes: Behavior Analysis Interventionist Professional Methods and Procedures
 - id: oar-833-001-0030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=833-001-0030
   sha256: 26985c0935af786288d63a592756c11a81a6390aafba6c0c1c8797b904849004

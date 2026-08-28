@@ -82543,7 +82543,7 @@ chapters:
       path: rules/582/090/oar-582-090-0030.md
   - division: '100'
     title: ORDER OF SELECTION FOR VOCATIONAL REHABILITATION SERVICES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 582-100-0000
       status: ingested
@@ -82558,7 +82558,8 @@ chapters:
       status: ingested
       path: rules/582/100/oar-582-100-0015.md
     - number: 582-100-0018
-      status: not_ingested
+      status: ingested
+      path: rules/582/100/oar-582-100-0018.md
     - number: 582-100-0021
       status: ingested
       path: rules/582/100/oar-582-100-0021.md
@@ -93059,7 +93060,7 @@ chapters:
     title: OREGON MINED LAND RECLAMATION ACT — APPLICABLE TO ALL SURFACE MINING EXCEPT AS SPECIFICALLY
       PROVIDED UNDER OAR CHAPTER 632, DIVISION 035 (COAL AND METAL-BEARING ORE OPERATIONS), AND OAR CHAPTER
       632, DIVISION 037 (CHEMICAL PROCESS MINING)
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 632-030-0005
       status: ingested
@@ -93092,7 +93093,8 @@ chapters:
       status: ingested
       path: rules/632/030/oar-632-030-0022.md
     - number: 632-030-0023
-      status: not_ingested
+      status: ingested
+      path: rules/632/030/oar-632-030-0023.md
     - number: 632-030-0024
       status: ingested
       path: rules/632/030/oar-632-030-0024.md
@@ -114954,10 +114956,11 @@ chapters:
       path: rules/738/040/oar-738-040-0040.md
   - division: '50'
     title: AURORA STATE AIRPORT OPERATION REGULATIONS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 738-050-0005
-      status: not_ingested
+      status: ingested
+      path: rules/738/050/oar-738-050-0005.md
     - number: 738-050-0010
       status: ingested
       path: rules/738/050/oar-738-050-0010.md
@@ -115904,7 +115907,7 @@ chapters:
       path: rules/740/200/oar-740-200-0045.md
   - division: '300'
     title: PENALTIES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 740-300-0005
       status: ingested
@@ -115931,7 +115934,8 @@ chapters:
       status: ingested
       path: rules/740/300/oar-740-300-0050.md
     - number: 740-300-0055
-      status: not_ingested
+      status: ingested
+      path: rules/740/300/oar-740-300-0055.md
     - number: 740-300-0060
       status: ingested
       path: rules/740/300/oar-740-300-0060.md
@@ -116937,7 +116941,7 @@ chapters:
   divisions:
   - division: '1'
     title: PROCEDURAL RULES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 804-001-0000
       status: ingested
@@ -116958,7 +116962,8 @@ chapters:
       status: ingested
       path: rules/804/001/oar-804-001-0020.md
     - number: 804-001-0025
-      status: not_ingested
+      status: ingested
+      path: rules/804/001/oar-804-001-0025.md
   - division: '3'
     title: DEFINITIONS
     status: ingested
@@ -117159,7 +117164,7 @@ chapters:
       path: rules/806/001/oar-806-001-0004.md
   - division: '10'
     title: GENERAL
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 806-010-0001
       status: ingested
@@ -117171,7 +117176,8 @@ chapters:
       status: ingested
       path: rules/806/010/oar-806-010-0010.md
     - number: 806-010-0014
-      status: not_ingested
+      status: ingested
+      path: rules/806/010/oar-806-010-0014.md
     - number: 806-010-0020
       status: ingested
       path: rules/806/010/oar-806-010-0020.md
@@ -117296,7 +117302,7 @@ chapters:
       path: rules/808/001/oar-808-001-0060.md
   - division: '2'
     title: DEFINITIONS AND STANDARDS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 808-002-0020
       status: ingested
@@ -117488,7 +117494,8 @@ chapters:
       status: ingested
       path: rules/808/002/oar-808-002-0880.md
     - number: 808-002-0881
-      status: not_ingested
+      status: ingested
+      path: rules/808/002/oar-808-002-0881.md
     - number: 808-002-0882
       status: ingested
       path: rules/808/002/oar-808-002-0882.md
@@ -118262,7 +118269,7 @@ chapters:
       path: rules/809/040/oar-809-040-0030.md
   - division: '50'
     title: GENERAL
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 809-050-0000
       status: ingested
@@ -118277,7 +118284,8 @@ chapters:
       status: ingested
       path: rules/809/050/oar-809-050-0015.md
     - number: 809-050-0025
-      status: not_ingested
+      status: ingested
+      path: rules/809/050/oar-809-050-0025.md
     - number: 809-050-0050
       status: ingested
       path: rules/809/050/oar-809-050-0050.md
@@ -123254,10 +123262,11 @@ chapters:
       path: rules/819/025/oar-819-025-0030.md
   - division: '30'
     title: BOARD OF CERTIFIED ADVANCED ESTHETICIANS, PRACTICE STANDARDS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 819-030-0001
-      status: not_ingested
+      status: ingested
+      path: rules/819/030/oar-819-030-0001.md
     - number: 819-030-0005
       status: ingested
       path: rules/819/030/oar-819-030-0005.md
@@ -123657,13 +123666,14 @@ chapters:
       path: rules/824/050/oar-824-050-0010.md
   - division: '60'
     title: STANDARDS OF PRACTICE, PROFESSIONAL METHODS AND PROCEDURES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 824-060-0010
       status: ingested
       path: rules/824/060/oar-824-060-0010.md
     - number: 824-060-0020
-      status: not_ingested
+      status: ingested
+      path: rules/824/060/oar-824-060-0020.md
   - division: '70'
     title: CONTINUING EDUCATION
     status: ingested
