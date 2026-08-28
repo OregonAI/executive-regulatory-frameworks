@@ -651,6 +651,15 @@ jobs:
       - name: ...and those rules must be able to fail
         timeout-minutes: 2
         run: python3 src/catalog_agreement.py --selftest
+      # #276: two scrapers wrote _meta/catalog/oar.yml's division/rule membership --
+      # catalog_oar.py --discover (OARD, guarded since #270) and ingest_oar.py
+      # --enumerate (oregon.public.law, unguarded). Retiring the second rather than
+      # teaching it the guard the first already has: this proves the negative that no
+      # remaining path in ingest_oar.py can drop a catalogued row, by walking the
+      # module's own AST for the exact shape that used to drop one.
+      - name: OAR catalog membership has exactly one writer (selftest)
+        timeout-minutes: 2
+        run: python3 src/ingest_oar.py --selftest
       # Conflict candidates that need no model. A hand-labelled taxonomy of the 137
       # frontier-pilot candidates found 29% were of four deterministic types, and code
       # finds far more of them than the models did — the pilot reported 21 dead citations

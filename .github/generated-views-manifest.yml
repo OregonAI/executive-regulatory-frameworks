@@ -182,6 +182,9 @@ gates:
   - name: "...and those rules must be able to fail"
     seconds: 0.0
     shard: 4
+  - name: "OAR catalog membership has exactly one writer (selftest)"
+    seconds: 0.1
+    shard: 4
   - name: "Enabling authorities must match the reviewed table"
     seconds: 7.9
     shard: 1
