@@ -388,6 +388,12 @@ jobs:
       - name: The Bulletin report must carry what it counts, on the Bulletin's cadence
         timeout-minutes: 2
         run: python3 src/bulletin_report.py --check
+      # A section is admitted only on evidence it is THIS section, not merely that its slice
+      # contains a word the catalog title also uses (#201) -- checked by POSITION against the
+      # catchline ORS itself prints, not by vocabulary. A stopword list would have been a
+      # second opinion nobody can check.
+      - name: ORS ingest title-anchoring check must refuse a one-shared-word mis-anchor
+        run: python3 src/ingest_ors.py --selftest
 
   generated-views-shard-3:
     runs-on: ubuntu-latest
@@ -509,6 +515,11 @@ jobs:
       - name: Every amendment the Bulletin filed must be recorded as re-ingested
         timeout-minutes: 2
         run: python3 src/reingest_oar.py --check
+      # Compares the INVENTORY only, not the whole file: `documents_scanned` is a denominator
+      # that moves whenever any content file is added or dropped, and comparing it made the
+      # gate fail on PRs that changed no citation at all (#158's shape, #210 review).
+      - name: ORS chapter-gap catalog must be current
+        run: python3 src/scan_ors_citations.py --check
 
   generated-views-shard-4:
     runs-on: ubuntu-latest
@@ -649,6 +660,12 @@ jobs:
       - name: Mechanical conflict findings must be current
         timeout-minutes: 5
         run: python3 src/detect_mechanical.py --check
+      # A citation into a chapter this corpus does not mirror must state the ABSENCE, never the
+      # generic unresolved answer a WRONG citation gets (#210). Its scanner reads \d{1,3}:
+      # anchored on \d{2,3} it could not see single-digit chapters at all, which is a fifth
+      # of the chapter space and includes chapter 2, real and unmirrored.
+      - name: ORS chapter-gap classification must all be able to fail
+        run: python3 src/scan_ors_citations.py --selftest
 
   generated-views-shard-5:
     runs-on: ubuntu-latest

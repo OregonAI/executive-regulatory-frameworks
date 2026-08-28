@@ -212,3 +212,12 @@ gates:
   - name: "...and that rule must be able to fail (shard manifest coverage)"
     seconds: 0.1
     shard: 1
+  - name: "ORS ingest title-anchoring check must refuse a one-shared-word mis-anchor"
+    seconds: 14.4
+    shard: 2
+  - name: "ORS chapter-gap catalog must be current"
+    seconds: 72.0
+    shard: 3
+  - name: "ORS chapter-gap classification must all be able to fail"
+    seconds: 89.8
+    shard: 4
