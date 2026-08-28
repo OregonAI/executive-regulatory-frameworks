@@ -269,6 +269,11 @@ sources:
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=101-060-0015
   sha256: ee6f95c3f8c53b7b34b0bbafbd4757269f52983c677994214dbabcaba2f8b708
   notes: rolling sample; baseline from the committed snapshot, not fetched
+- id: oar-101-065-0001
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=101-065-0001
+  sha256: b9d28a4782271f7436f622dc90c082284ce2f6d05b9a5e3bf9bfa803427b5fcf
+  last_checked: '2026-08-28'
+  notes: Administration of SB 551 Program
 - id: oar-101-070-0001
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=101-070-0001
   sha256: f1d985fac8943bc1a14c4f1a5f4f3203ca64aee77389b8b57ac592d35e659208
@@ -1057,6 +1062,11 @@ sources:
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=115-040-0032
   sha256: dde218f8844db5ef90d287f62cc79eaec3ba3f58f13dc4bb77d7367589bc0b4a
   notes: rolling sample; baseline from the committed snapshot, not fetched
+- id: oar-115-040-0034
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=115-040-0034
+  sha256: 25cb9436de614d9323cc56a0013733ef24e68f440124696f564c5e25c5847290
+  last_checked: '2026-08-28'
+  notes: Appoint Arbitrator for Arbitration proceedings under ORS 243.706(3)
 - id: oar-115-040-0035
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=115-040-0035
   sha256: dc60a716f74158c43d309c134df6fef56c302f804576af3896d9599daf3d08db
@@ -4523,6 +4533,16 @@ sources:
   sha256: 0cff50c1bf12a50ed01d94d45e4e9cf2a62a307d8c6273dfd84b6705d060796c
   last_checked: '2026-08-28'
   notes: Civil Penalties for Unregistered Kratom Processors
+- id: oar-156-001-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=156-001-0000
+  sha256: fad150b88ae84bcf5f60b8662a9e22addfd6d736afea19cb4230f2d750acd566
+  last_checked: '2026-08-28'
+  notes: Notice of Proposed Rulemaking
+- id: oar-156-001-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=156-001-0005
+  sha256: 05673bdbcc5ce6b6f0ea71f40604c5fe13b218e440e598a213015192b07902a2
+  last_checked: '2026-08-28'
+  notes: Model Rules of Procedure
 - id: oar-161-010-0035
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=161-010-0035
   sha256: bed69a44f5679f9f61b8e98e2c22db6a01ad57063588e0f424ce13f6fa1d4b77
@@ -4563,6 +4583,16 @@ sources:
   sha256: 23ea609b8bb9439d62a04ae780cf35851c054b8f5aff98dcb3c126c190c85b6d
   last_checked: '2026-08-28'
   notes: Fees
+- id: oar-162-040-0165
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=162-040-0165
+  sha256: f6863ea10ad0238804e7f63ac7ffa00c3be1ea54b60d352c1e6bfa5300380bfc
+  last_checked: '2026-08-28'
+  notes: Agreed-Upon Procedures
+- id: oar-162-040-0170
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=162-040-0170
+  sha256: c7d2fdd3b9ab99ae2e8c59fd6559cf48ceede01460677d784f69c5aaa0e8a1c7
+  last_checked: '2026-08-28'
+  notes: Reporting Results of Additional Procedures
 - id: oar-165-002-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=165-002-0010
   sha256: fc0f11325ceace38e5d0b829d5522c6559dcaae6fc521dbefc26c7aa2be9fa10
@@ -18562,6 +18592,16 @@ sources:
   sha256: 9580f3e5aaa45e3a539a872373927e5a61048ac8143f5061403fd2e6c940200d
   last_checked: '2026-08-28'
   notes: Penalty Amount When Employer Fails to File Report
+- id: oar-543-080-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=543-080-0005
+  sha256: 7115d221f9785e0ad3a0eff00d85271be70483063d57ebfb3cb16dc5be97907b
+  last_checked: '2026-08-28'
+  notes: Scope
+- id: oar-543-080-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=543-080-0010
+  sha256: 70aa4a8a2bc0562dafc589dde304ea946f53590d2b5e1f8a76b33696895b706e
+  last_checked: '2026-08-28'
+  notes: Definitions
 - id: oar-575-007-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=575-007-0200
   sha256: d20d7c8bfb1317617befcb7a1dc958496406a49a2c5465b3800582171b4c002d
@@ -19536,6 +19576,16 @@ sources:
   sha256: 0aa9ae5d93496c7fec52b483fd67893e25372e584ae5ab2879d7bb38f6a4bc9a
   last_checked: '2026-08-28'
   notes: Judicial Review and Reconsideration of Orders Related to Division 22 Standards
+- id: oar-583-030-0048
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=583-030-0048
+  sha256: 7b8869a708807459f22ab6444edc4c70f6f7d75e50b0b64c1d60d5e11842b500
+  last_checked: '2026-08-28'
+  notes: Application Procedure for Dual Credit
+- id: oar-583-030-0061
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=583-030-0061
+  sha256: e8c9ca91f415b2d7f26db0067e26ca6e35ffcb36793b77288afde08726bac097
+  last_checked: '2026-08-28'
+  notes: School Closures
 - id: oar-584-019-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=584-019-0100
   sha256: b318a639c1988ddb8e259df68e82de042e755969c33e6a21953fb0080568b0e2
@@ -24897,6 +24947,16 @@ sources:
   sha256: e4a65cd4ad5b251a072e43d31a1df7ce418551fac347d80dda2fdd2b6707fb9c
   last_checked: '2026-08-28'
   notes: Waiver of Rules
+- id: oar-698-005-0045
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=698-005-0045
+  sha256: 877de4112950a4200b9fec26d85741d48c5503f81e11a04551c6cb1a2d368ecf
+  last_checked: '2026-08-28'
+  notes: Climate-Related Evaluation Criteria
+- id: oar-698-010-0045
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=698-010-0045
+  sha256: 831148dfb7d1eba26f3811f82f935efdd30c8bcd77c6242e8a12f397e06663b6
+  last_checked: '2026-08-28'
+  notes: Eligible Properties
 - id: oar-715-012-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=715-012-0005
   sha256: 5ef6adb7fc711f5ca9330471927fa8914de9b986d8a47ede06d706b469607391
@@ -25502,6 +25562,16 @@ sources:
   sha256: cef8b568de369cdd439dfe0dcf6b46831b49d3291e387b9183ea305b1521e345
   last_checked: '2026-08-28'
   notes: Clean Diesel Construction Standard
+- id: oar-732-042-0045
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=732-042-0045
+  sha256: 8459eee2361a092d25a58e20708147d3ec41e75f032a9632172d20a02733401d
+  last_checked: '2026-08-28'
+  notes: Agency Amendment of STIF Plan
+- id: oar-732-042-0055
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=732-042-0055
+  sha256: d5c9acd2d97d380939c8681d3cac18b920fe574abbe57e79dae29843fab97edc
+  last_checked: '2026-08-28'
+  notes: Contractor Compliance
 - id: oar-734-020-0013
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=734-020-0013
   sha256: 0cd2cec440807a1edd7f1cd07e263d707fc4f1715a26ebdd45782f8c3d1d75ee
@@ -26107,6 +26177,16 @@ sources:
   sha256: 1901baaf8361535746ae111efc0fc321f07a0b5ea35b22b6cec0e14eb06e5cb2
   last_checked: '2026-08-28'
   notes: Changes to the Work; Contract Amendments
+- id: oar-737-015-0095
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=737-015-0095
+  sha256: ec4b7da3320c6c39042902b1d0e154892b6c8b6fb1b4bcec15b548f533898319
+  last_checked: '2026-08-28'
+  notes: Electronic Driver Education Entry
+- id: oar-737-025-0094
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=737-025-0094
+  sha256: 4ed945919c60f0c61a98db51339e8e160e0a252bd685983195f04f51a0caa3e5
+  last_checked: '2026-08-28'
+  notes: Safe Routes to School Infrastructure Plan
 - id: oar-741-015-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=741-015-0010
   sha256: 507a53612731d8d83d2581b69ab5758a4bb324b161fd2b4d06b3339ec5cc390b
@@ -31347,10 +31427,20 @@ sources:
   sha256: 337f6a9677e1ec194b996ef84492c6b9b03bf7afb21782e014a1168134ba5804
   last_checked: '2026-08-28'
   notes: Reissuing Suspended License
+- id: oar-875-005-0006
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=875-005-0006
+  sha256: 507e951e97bd8d58cab6f2194136ca295f2a716036954ca84de09b64963e4f11
+  last_checked: '2026-08-28'
+  notes: Fees
 - id: oar-875-010-0031
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=875-010-0031
   sha256: d621daa0ec2f96d15dc6cd89a6e356bce61824883e3c1660c770c52e5109f176
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
+- id: oar-875-010-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=875-010-0100
+  sha256: c30f12e4ec3e11d0b80ea4340819ab329f06dc9bac5d0d8ff6bd754d7e6984aa
+  last_checked: '2026-08-28'
+  notes: Criminal Conviction Determination Process
 - id: oar-877-015-0105
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=877-015-0105
   sha256: 375795683d1b588f67c4116726c99864c7595342b0a467173ca5727b15fc634d

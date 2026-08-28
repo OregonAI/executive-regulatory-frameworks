@@ -272,10 +272,11 @@ chapters:
       path: rules/101/060/oar-101-060-0015.md
   - division: '65'
     title: SB 551
-    status: not_ingested
+    status: ingested
     rules:
     - number: 101-065-0001
-      status: not_ingested
+      status: ingested
+      path: rules/101/065/oar-101-065-0001.md
   - division: '70'
     title: LOCAL GOVERNMENT PARTICIPATION
     status: ingested
@@ -973,7 +974,7 @@ chapters:
       path: rules/115/035/oar-115-035-0075.md
   - division: '40'
     title: DISPUTE RESOLUTION IN PUBLIC EMPLOYMENT
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 115-040-0000
       status: ingested
@@ -1003,7 +1004,8 @@ chapters:
       status: ingested
       path: rules/115/040/oar-115-040-0032.md
     - number: 115-040-0034
-      status: not_ingested
+      status: ingested
+      path: rules/115/040/oar-115-040-0034.md
     - number: 115-040-0035
       status: ingested
       path: rules/115/040/oar-115-040-0035.md
@@ -14310,12 +14312,14 @@ chapters:
   divisions:
   - division: '1'
     title: PROCEDURAL RULES
-    status: not_ingested
+    status: ingested
     rules:
     - number: 156-001-0000
-      status: not_ingested
+      status: ingested
+      path: rules/156/001/oar-156-001-0000.md
     - number: 156-001-0005
-      status: not_ingested
+      status: ingested
+      path: rules/156/001/oar-156-001-0005.md
   - division: '10'
     title: COMPARABILITY OF VALUE OF WORK
     status: ingested
@@ -15291,7 +15295,7 @@ chapters:
       path: rules/162/010/oar-162-010-0330.md
   - division: '40'
     title: MINIMUM STANDARDS FOR AGREED-UPON PROCEDURES OF OREGON MUNICIPAL CORPORATIONS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 162-040-0001
       status: ingested
@@ -15339,9 +15343,11 @@ chapters:
       path: rules/162/040/oar-162-040-0160.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 162-040-0165
-      status: not_ingested
+      status: ingested
+      path: rules/162/040/oar-162-040-0165.md
     - number: 162-040-0170
-      status: not_ingested
+      status: ingested
+      path: rules/162/040/oar-162-040-0170.md
   - division: '50'
     title: AUDITS CONDUCTED BY SECRETARY OF STATE
     status: ingested
@@ -78088,14 +78094,12 @@ chapters:
       path: rules/543/010/oar-543-010-0034.md
     - number: 543-010-0035
       status: renumbered
-      note: 'OARD serves 543-080-0020 for this number (not on OARD''s current chapter listing — history,
-        kept, ADR 0006 #270)'
+      note: OARD serves 543-080-0020 for this number
       served_as: 543-080-0020
       path: rules/543/080/oar-543-080-0020.md
     - number: 543-010-0036
       status: renumbered
-      note: 'OARD serves 543-080-0030 for this number (not on OARD''s current chapter listing — history,
-        kept, ADR 0006 #270)'
+      note: OARD serves 543-080-0030 for this number
       served_as: 543-080-0030
       path: rules/543/080/oar-543-080-0030.md
   - division: '20'
@@ -78170,8 +78174,7 @@ chapters:
       path: rules/543/060/oar-543-060-0040.md
     - number: 543-060-0060
       status: renumbered
-      note: 'OARD serves 543-080-0040 for this number (not on OARD''s current chapter listing — history,
-        kept, ADR 0006 #270)'
+      note: OARD serves 543-080-0040 for this number
       served_as: 543-080-0040
       path: rules/543/080/oar-543-080-0040.md
     - number: 543-060-0070
@@ -78186,12 +78189,14 @@ chapters:
       path: rules/543/070/oar-543-070-0000.md
   - division: '80'
     title: PUBLIC LIBRARIES
-    status: not_ingested
+    status: ingested
     rules:
     - number: 543-080-0005
-      status: not_ingested
+      status: ingested
+      path: rules/543/080/oar-543-080-0005.md
     - number: 543-080-0010
-      status: not_ingested
+      status: ingested
+      path: rules/543/080/oar-543-080-0010.md
   discovered: '2026-08-27'
   claimed_by_another_row:
   - 543-080-0020
@@ -82661,7 +82666,7 @@ chapters:
   - division: '30'
     title: STANDARDS AND PROCEDURES FOR SCHOOLS REQUIRED TO OBTAIN AUTHORIZATION TO OFFER ACADEMIC DEGREES
       IN OREGON, OR REQUIRED TO ESTABLISH EXEMPTION
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 583-030-0005
       status: ingested
@@ -82721,7 +82726,8 @@ chapters:
       status: ingested
       path: rules/583/030/oar-583-030-0046.md
     - number: 583-030-0048
-      status: not_ingested
+      status: ingested
+      path: rules/583/030/oar-583-030-0048.md
     - number: 583-030-0049
       status: ingested
       path: rules/583/030/oar-583-030-0049.md
@@ -82744,7 +82750,8 @@ chapters:
       status: ingested
       path: rules/583/030/oar-583-030-0059.md
     - number: 583-030-0061
-      status: not_ingested
+      status: ingested
+      path: rules/583/030/oar-583-030-0061.md
     - number: 583-030-0063
       status: ingested
       path: rules/583/030/oar-583-030-0063.md
@@ -106947,7 +106954,7 @@ chapters:
   divisions:
   - division: '5'
     title: Oregon Agricultural Heritage Program Administration
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 698-005-0010
       status: ingested
@@ -106962,7 +106969,8 @@ chapters:
       status: ingested
       path: rules/698/005/oar-698-005-0040.md
     - number: 698-005-0045
-      status: not_ingested
+      status: ingested
+      path: rules/698/005/oar-698-005-0045.md
     - number: 698-005-0050
       status: ingested
       path: rules/698/005/oar-698-005-0050.md
@@ -106984,7 +106992,7 @@ chapters:
       path: rules/698/005/oar-698-005-0100.md
   - division: '10'
     title: Conservation Management Plans
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 698-010-0010
       status: ingested
@@ -107000,7 +107008,8 @@ chapters:
       path: rules/698/010/oar-698-010-0040.md
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 698-010-0045
-      status: not_ingested
+      status: ingested
+      path: rules/698/010/oar-698-010-0045.md
     - number: 698-010-0050
       status: ingested
       path: rules/698/010/oar-698-010-0050.md
@@ -108963,7 +108972,7 @@ chapters:
       path: rules/732/040/oar-732-040-0055.md
   - division: '42'
     title: STATEWIDE TRANSPORTATION IMPROVEMENT FUND - FORMULA
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 732-042-0000
       status: ingested
@@ -108993,9 +109002,11 @@ chapters:
       status: ingested
       path: rules/732/042/oar-732-042-0040.md
     - number: 732-042-0045
-      status: not_ingested
+      status: ingested
+      path: rules/732/042/oar-732-042-0045.md
     - number: 732-042-0055
-      status: not_ingested
+      status: ingested
+      path: rules/732/042/oar-732-042-0055.md
   - division: '44'
     title: STATEWIDE TRANSPORTATION IMPROVEMENT FUND - DISCRETIONARY FUNDS
     status: ingested
@@ -114534,7 +114545,7 @@ chapters:
       path: rules/737/010/oar-737-010-0020.md
   - division: '15'
     title: TRAFFIC SAFETY EDUCATION
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 737-015-0010
       status: ingested
@@ -114570,7 +114581,8 @@ chapters:
       status: ingested
       path: rules/737/015/oar-737-015-0090.md
     - number: 737-015-0095
-      status: not_ingested
+      status: ingested
+      path: rules/737/015/oar-737-015-0095.md
     - number: 737-015-0100
       status: ingested
       path: rules/737/015/oar-737-015-0100.md
@@ -114619,7 +114631,7 @@ chapters:
       path: rules/737/020/oar-737-020-0090.md
   - division: '25'
     title: OREGON SAFE ROUTES TO SCHOOL FUND
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 737-025-0000
       status: ingested
@@ -114668,7 +114680,8 @@ chapters:
       status: ingested
       path: rules/737/025/oar-737-025-0093.md
     - number: 737-025-0094
-      status: not_ingested
+      status: ingested
+      path: rules/737/025/oar-737-025-0094.md
   - division: '100'
     title: EMERGENCY VEHICLE DESIGNATION
     status: ingested
@@ -141652,7 +141665,7 @@ chapters:
       path: rules/875/001/oar-875-001-0040.md
   - division: '5'
     title: GENERAL
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 875-005-0000
       status: ingested
@@ -141661,13 +141674,14 @@ chapters:
       status: ingested
       path: rules/875/005/oar-875-005-0005.md
     - number: 875-005-0006
-      status: not_ingested
+      status: ingested
+      path: rules/875/005/oar-875-005-0006.md
     - number: 875-005-0010
       status: ingested
       path: rules/875/005/oar-875-005-0010.md
   - division: '10'
     title: PERMITS AND LICENSES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 875-010-0000
       status: ingested
@@ -141706,7 +141720,8 @@ chapters:
       status: ingested
       path: rules/875/010/oar-875-010-0095.md
     - number: 875-010-0100
-      status: not_ingested
+      status: ingested
+      path: rules/875/010/oar-875-010-0100.md
   - division: '11'
     title: DISCIPLINE AND CITATIONS
     status: ingested
