@@ -15,6 +15,14 @@ _meta/catalog/ors-ingest-log.txt
 .cloudflared/
 *.pem
 cert.pem
+# ONE EXCEPTION, and it is the opposite kind of file. `_meta/tls-chain/*.pem` holds PUBLIC CA
+# certificates -- intermediates a misconfigured server fails to send, which every client on
+# the internet is meant to have (ADR 0007). A private key here would be a catastrophe, so the
+# exception is narrowed to one directory AND `corpus-detect-changes` refuses to load a
+# supplement containing a private key block at all: the ignore rule is the safety net, and
+# refusing to run is the gate.
+!_meta/tls-chain/*.pem
+
 cloudflared-*.json
 tunnel-*.json
 *.env

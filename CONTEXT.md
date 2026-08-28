@@ -375,6 +375,20 @@ An absent `changed-sources.tsv` is a distinct answer again — nobody hashed any
 byte-identical to the file a corpus with no drift produces.
 _Avoid_: Change detection, hash check — both suggest a verdict where this is a reading
 
+**Access failure**:
+A fetch that did not complete. It is a fact about OUR access and never about the source: a
+document nobody could reach has not been shown to be unchanged, changed, or gone. It is
+neither drift nor absence, and a source that produced one was not compared — which is why it
+is counted apart from both, and why `changed-sources.tsv` not naming a source is three
+different answers rather than one. The live instance is the 43 DHS/OHA sources on
+`sharedsystems.dhsoha.state.or.us`, which served its leaf certificate without the intermediate
+that links it to a root: strictly unfetchable from 2026-08-05, 3.3% of the run and so under
+the systemic threshold, reported `success` every time. An access failure is fixable on our
+side exactly when fixing it does not relax verification (ADR 0007), and is otherwise reported
+and left alone.
+_Avoid_: Unverifiable, unreachable, dead link, gone — the first writes our problem into a
+claim about the document, and the rest assert about upstream what we only know about ourselves
+
 **Group-wide move**:
 A drift run in which more than a fifth of a group's compared sources moved together. It is
 ONE event with one cause — a footer, a template, or a stale baseline — and not that many

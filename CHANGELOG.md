@@ -10,6 +10,19 @@ corpus-wide changes from 2026-08-02 forward.
 
 ## [Unreleased]
 
+### Fixed
+- 2026-08-27 — **43 DHS/OHA sources are being watched again** (#140, #264, ADR 0007).
+  `sharedsystems.dhsoha.state.or.us` serves its leaf certificate without the intermediate
+  linking it to a root, so every fetch failed strictly and, at 3.2% of the run, sat under the
+  20% systemic guard: from 2026-08-05 those sources had **no drift detection at all** while
+  every scheduled run reported `success`. `_meta/tls-chain/sharedsystems.dhsoha.state.or.us.pem`
+  now supplies the intermediate for **that host only**. Verification is not relaxed —
+  measured, the same certificate ALONE is refused, because the path must still terminate at a
+  root the system already trusts. The 43 documents are unchanged: their `source_url` is
+  correct, and each already carries `source_sha256` plus a committed snapshot. The `check-links`
+  URL exclusion for the host is removed. First comparison after the outage: **all 43 unchanged**
+  against their recorded baselines. Needs corpus-toolkit v1.31.0 (ADR 0012); all pins move.
+
 ### Changed
 - 2026-08-23 — The Bulletin runs monthly, files one issue, and reports what disagrees with
   the hash (#231, ADR 0006). The last of #226–#231 and **the only one that acts outward**:

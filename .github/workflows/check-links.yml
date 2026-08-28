@@ -10,11 +10,11 @@ on:
 
 jobs:
   links:
-    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.30.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.31.0
     with:
       # Pin the CODE, not just the workflow file. Omitting this used to
       # silently install v1.0.5 regardless of the tag above.
-      toolkit-ref: v1.30.0
+      toolkit-ref: v1.31.0
       exclude-paths: |
         _meta/snapshots
         _meta/templates
@@ -23,4 +23,10 @@ jobs:
       # working link is how a link check stops being one.
       exclude-urls: |
         ^http://deq05/
-        ^https://sharedsystems\.dhsoha\.state\.or\.us/
+      # ADR 0007. The dhsoha exclusion is GONE, not muted differently: `_meta/tls-chain/`
+      # supplies the intermediate that host omits, so its links can be checked strictly
+      # rather than skipped. Whether lychee reads SSL_CERT_FILE depends on its TLS backend
+      # and is not assumed here — if this run goes red on those 43 links, the exclusion
+      # comes back with lychee's backend named as the cause, so the mute is attributed to
+      # our checker instead of to Oregon's server.
+      chain-supplements: true
