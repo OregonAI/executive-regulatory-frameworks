@@ -262,7 +262,7 @@ MAPPED: dict[str, str] = {
     "oregon-health-authority-public-employees-benefit-board": "ORS 243.061",
     # #281, read 2026-08-28. TIER 3, not tier 1: ORS 571.400 to 571.501 is the commission's
     # whole standalone act (definitions, purposes, department duties, powers, budget, even
-    # abolishment), and none of its 34 catchlines puts "Oregon Hemp Commission" in CREATE's
+    # abolishment), and none of its 37 catchlines puts "Oregon Hemp Commission" in CREATE's
     # subject position the way ORS 577.210 puts "Oregon Beef Council" in one — this act never
     # writes "there hereby is created". 571.406 is where the body is CONSTITUTED rather than
     # merely described, the same question tier 3 asks of ORS 677.235 for the Oregon Medical
@@ -332,13 +332,13 @@ UNMAPPED: dict[str, str] = {
 # the strongest claim a gate can make. What it rules out is the failure that matters: a name
 # nobody read, sitting in `name` under a basis that says an authority gave it.
 #
-# THIS TABLE IS DELIBERATELY SMALL AND EXPECTED TO STAY THAT WAY FOR A WHILE. 107 rows carry
-# a reviewed enabling authority and could have their names read off it; four have been. The
-# rest record `unverified-oar-title` and say so on every row, which is the honest state and
-# the whole point of #168 — a registry that quietly promoted 189 OAR titles to statutory
-# names would be 189 false statements about Oregon law, and one that promoted the 107 by
-# pattern-matching would be an unknown number of them. A name that was matched and not read
-# does not belong here, for the reason MAPPED gives about citations.
+# THIS TABLE IS DELIBERATELY SMALL AND EXPECTED TO STAY THAT WAY FOR A WHILE. 114 rows carry a
+# reviewed enabling authority and could have their names read off it (#279, re-measured for
+# #281); five have been. The rest record `unverified-oar-title` and say so on every row, which
+# is the honest state and the whole point of #168 — a registry that quietly promoted 190 OAR
+# titles to statutory names would be 190 false statements about Oregon law, and one that
+# promoted the 114 by pattern-matching would be an unknown number of them. A name that was
+# matched and not read does not belong here, for the reason MAPPED gives about citations.
 STATUTORY_NAMES: dict[str, str] = {
     # READ BY A HUMAN AGAINST THE CITED TEXT, 2026-08-22, EACH WITH THE SENTENCE IT WAS READ
     # OFF. The sentence is quoted here for the reason `--propose` quotes one into the review
@@ -404,9 +404,10 @@ def _variants(name: str) -> set[str]:
     """Spellings of one body. ORS writes `State Board of X` where the rules index writes
     `Board of X`, and `Oregon` floats to either end.
 
-    The registry stores a sub-unit as `Parent, Child` — 81 of 189 bodies — because the OAR
-    index nests by chapter. ORS catchlines name the CHILD ALONE, so matching the compound
-    string finds nothing: `Department of Agriculture, Oregon Wheat Commission` never matches
+    The registry stores a sub-unit as `Parent, Child` — 81 of 190 bodies (#279, re-measured
+    for #281) — because the OAR index nests by chapter. ORS catchlines name the CHILD ALONE,
+    so matching the compound string finds nothing: `Department of Agriculture, Oregon Wheat
+    Commission` never matches
     the catchline `Oregon Wheat Commission; members; appointment process; rules`. Measured,
     the tail segment recovers 21 tier-1 rows that were sitting in `no_candidate` looking
     like bodies statute forgot to create.

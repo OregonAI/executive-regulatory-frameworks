@@ -11,6 +11,175 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-08-28 — **Code review of #281 found five fabricated or inverted figures in the
+  commit that added the Oregon Hemp Commission's registry row, two of them load-bearing
+  evidence quoted in the commit's own message and therefore uncorrectable there** (this
+  repo's convention, established by prior commits in this cluster, is a new commit, never
+  an amend). The row itself and its `enabling_authority: ORS 571.406` were sound and are
+  unchanged; every correction below is to PROSE that mis-stated a re-measurement, not to
+  the registry's own data.
+
+  **Restated, because it cannot be corrected in place.** `180bb020b9`'s message states its
+  evidence that the Hemp Commission has no OAR chapter as "`grep -in hemp
+  _meta/catalog/oar.yml` returns nothing." Run against the mirrored catalog, that command
+  returns THREE hits — `MARIJUANA AND HEMP TESTING`, `INDUSTRIAL HEMP`, and `CANNABIS
+  CONCENTRATION LIMITS & HEMP PRODUCT REGISTRY` — none of them a `chapter:` title, and no
+  chapter numbered 609 exists in `oar.yml` at all. The conclusion (`oar_chapter: null`) is
+  correct; the quoted command is not the one that supports it. The evidence that does: no
+  `chapter:` entry in `_meta/catalog/oar.yml` is titled for the Oregon Hemp Commission. The
+  same message's opening paragraph also inverts the OAM 70.10.00 join it answers — it says
+  21 of 22 OAM-named commissions have a registry row "(the 22nd, Alfalfa Seed, also carries
+  one)". OAM 70.10.00's `60310` heading names exactly 22 commissions and Hemp (609) is one
+  of them; `grep -i alfalfa` over the mirrored OAM returns nothing, so Alfalfa Seed is not
+  in OAM's list at all and cannot be its 22nd name. Issue #281 and ADR 0003's amendment
+  both state the join correctly ("21 that match OAM's list plus the Invasive Species
+  Council"); the commit is the one place it reads backwards. A third commit-message claim
+  does not survive re-measurement either: the message calls the `--propose` regeneration of
+  `_meta/catalog/enabling-authority-review.yml` "required to confirm the matcher's own read
+  of the new row" — `propose()` skips every slug already in `MAPPED` (`src/
+  link_enabling_authority.py:522`), and the same commit put `oregon-hemp-commission` into
+  `MAPPED` first, so the regenerated sheet carries no Hemp entry in either `candidates` or
+  `no_candidate` and never produced an independent read. The tier-3 determination rests
+  entirely on the implementer's manual reading, which is permitted for a `MAPPED` entry —
+  the corroboration claim just did not happen. And the same message undercounts what
+  `--propose` dropped: it says "5 already-decided entries," a direct diff of the sheet
+  before and after shows 6 (`secretary-of-state` out of `candidates`, plus
+  `legislative-assembly`, `office-of-public-defense-services`, `office-of-the-governor`,
+  `oregon-military-department` and `saif-corporation` out of `no_candidate`) — legitimate
+  drops, every one already carrying a reviewed `enabling_authority` on the base branch, so
+  this is a miscount and not a lost review item, but worth naming because `secretary-of-
+  state` is the one that left `candidates` on a `verdict: ''` row, which reads at a glance
+  like an undecided item being discarded.
+
+  **Fixed in place**, because these live in files rather than in commit-message prose:
+  `_meta/catalog/agencies.yml`'s top-level note stated "null on 14 of the 19 chapterless
+  rows" through a whitespace-only re-wrap of that exact sentence in the same commit that
+  made the true count 15 of 20 — measured directly (20 rows carry `oar_chapter: null`, 15
+  of those carry no `source_url`) and confirmed against `--check`'s own live "(20
+  chapterless)" report, which the note contradicted in the same run that printed it. Fixed
+  at the source of truth, `REGISTRY_NOTE` in `src/catalog_agencies.py`, and carried into the
+  committed YAML by re-serializing the same `cat` dict through the same `yaml.safe_dump`
+  call `cmd_refresh()` uses (diff against the previous commit: one line). The `FIELDS`
+  doc-comment on `oar_chapter` carried the identical stale "19" one screen up in the same
+  module, fixed alongside it. `src/link_enabling_authority.py`'s new `#281` comment claimed
+  "none of its 34 catchlines" for ORS 571.400 to 571.501; the mirror holds 37 sections in
+  that range (`ors-571.400.md` … `ors-571.501.md`), every one bracketed to the same 2021
+  session law, so all 37 belong to the act — fixed to 37.
+
+  **The wider sweep AGENTS.md already applied.** The commit correctly moved AGENTS.md's two
+  inline counts from 189/4 to 190/5, which is the discipline this cluster of tickets keeps
+  asking for — it just did not reach the other places carrying the same live counts.
+  Re-measured and corrected in the same modules `#279` already fixed once for the shape of
+  this exact drift: `src/expand_oar_name.py` ("189 is `len(organizations)`" → 190, "19 of
+  those rows" → 20; its gated "170 chapter pages" sentence is untouched, since the chaptered
+  count did not move), `src/catalog_oar.py` (two sites: "186 of the 189" → "187 of the 190",
+  and the `--selftest` fixture docstring's "19 rows hold none" → 20), `src/agency_profile.py`
+  and `src/name_readers.py` ("186 of the 189" → "187 of the 190" in both), `src/
+  enrich_oar.py` ("all 189 rows today" → "187 of the 190" — this one was already inaccurate
+  before #281, predating the three rows #168 gave an established name that differs from the
+  OAR title; corrected to the true figure rather than just bumped), `src/
+  record_name_basis.py` (two sites: "189 rows are carrying..." → 190, and its own "189 total
+  rows" cross-reference to the gated sentence → 190), `src/build_policy_gap.py` ("returned
+  for all 189" → 190), and `src/link_enabling_authority.py` (three further sites: "107 rows
+  carry a reviewed enabling authority... four have been" → 114 and five, matching the live
+  `MAPPED`/`STATUTORY_NAMES` table sizes; "189 OAR titles... 189 false statements... the 107
+  by pattern-matching" → 190/190/114; "81 of 189 bodies" → "81 of 190" — the compound-name
+  count itself did not move, since the new row's name carries no comma). Left alone as dated
+  narrative, per this repo's own convention for text that records what was true at a
+  specific past point rather than a live claim (`docs/adr/0004`'s two Amendment sections,
+  and this file's own older entries): `link_enabling_authority.py:16`'s "matched 78 of 189
+  bodies" describing the module's very first matcher attempt, and `:100`'s "63 of 189
+  bodies have no candidate" describing the review sheet's state before three later tickets
+  each closed part of that gap — both are history, not a claim about today's registry.
+
+  **`note-numbers-current`, a new `check_registry()` rule**, closes the gap that let the
+  "14 of the 19" sentence pass: `note-covers-fields` (#185) only proves every `FIELDS` name
+  is mentioned somewhere in the registry's own top-level `note`, and `note-agrees-with-
+  refresh` only proves the committed note matches the `REGISTRY_NOTE` literal — neither
+  reads a number, so `REGISTRY_NOTE` going stale on its own, as it did here, passed both.
+  The new rule extracts the note's "null on N of the M chapterless" claim
+  (`NOTE_CHAPTERLESS_RE`) and checks it against `chapterless_source_url_census()`, computed
+  from the committed rows the same run — the same shape as `#279`'s
+  `chapter-page-count-current`, one field over. OPTIONAL, not required: the phrase is
+  checked only when present, so the synthetic `--selftest` fixture (built to name every
+  `FIELDS` key, never to be the real prose) does not need to carry it. Watched failing
+  first: temporarily disabled the new check, re-ran `--selftest`, and got `FAIL
+  note-chapterless-count-stale: expected a [note-numbers-current] failure, got
+  [Failure(rule='note-agrees-with-refresh', ...)]` — confirming the new `_case_` actually
+  exercises the new rule rather than piggybacking on an existing one — then restored it.
+
+  **Two decisions recorded on the new row itself, in `curator_note`, rather than left
+  silent.** First: the row's slug carries no `department-of-agriculture-` prefix (ADR 0003:
+  no compound `Parent, Child` OAR name to split), so after this row the registry has 23
+  rows matching that slug prefix and 24 rows whose `relations` target
+  `department-of-agriculture` — measured, and no longer the same number; ADR 0003's
+  amendment reasons in terms of "the registry's 23 Department-of-Agriculture rows" and a
+  future reader re-deriving that sentence needs to know which join it meant. Second: OAM
+  70.10.00 numbers this body 609 — stated in the same commit's own first paragraph — but
+  `das_agency_number` stays unset, because `link_budget_codes.py` (the field's single
+  writer) has not reviewed it and #281 closes only the OAR-index name gap, deliberately
+  leaving the `das_agency_number` join at ADR 0003's standing "23 numbers matching no body"
+  report (confirmed unchanged: `link_budget_codes.py --check` still reports 80 codes
+  mapped; mapping 609 would drop that to 22, contradicting the ADR's own "still 23" claim
+  from earlier the same day).
+
+  **One pointer added to `docs/adr/0003`**, as a new dated `## Amendment` section rather
+  than an edit to existing text, per that file's own append-beside convention: its
+  2026-08-28 amendment says, in the present tense, that nothing has admitted the Oregon
+  Hemp Commission "because the registry carries no row for it to admit" — true when
+  written, false a few hours later the same day once `180bb020b9` landed. The new section
+  says so and points at the citation that actually applies (ORS 571.406, not 576.062); the
+  original sentence is left exactly as drafted.
+
+  Gates, all re-run on this change:
+
+      python3 src/catalog_agencies.py --check          -> 190 rows against 16 declared
+                                                            fields; 287 curated value(s) and
+                                                            18 manual row(s) survive a
+                                                            simulated --refresh; chapter
+                                                            pages: 170 of 190 (20
+                                                            chapterless); enabling authority:
+                                                            114 recorded, 76 not looked at
+                                                            yet; name: 5 enabling-authority,
+                                                            185 unverified-oar-title
+      python3 src/catalog_agencies.py --selftest        -> 77 violation(s) demonstrated
+                                                            failing, 18 name resolution(s)
+                                                            proven (was 76; +1 is
+                                                            `note-numbers-current`'s new
+                                                            case, not a second copy of an
+                                                            existing one)
+      python3 src/link_enabling_authority.py --check    -> 114 recorded, 0 reviewed with
+                                                            none to record, 76 of 190 not
+                                                            looked at yet; 5 of 114 reviewed
+                                                            authorities carry a read
+                                                            statutory name
+      python3 src/link_enabling_authority.py --selftest -> 29 violation(s) demonstrated
+                                                            failing (unchanged)
+      python3 src/derive_relation_kinds.py --check      -> 45 of 82 bodies have a kind
+                                                            derived, 37 undetermined; 3
+                                                            proposed / 42 reviewed
+                                                            (unchanged)
+      python3 src/derive_relation_kinds.py --selftest   -> 6 violation(s) demonstrated
+                                                            failing, 4 derivation proof(s)
+                                                            held (unchanged)
+      python3 src/link_budget_codes.py --check          -> 80 codes mapped, 2 deliberately
+                                                            unmapped, 14 manual entries, 17
+                                                            aliases (unchanged)
+      python3 src/catalog_oar.py --selftest             -> selftest OK
+      python3 src/name_readers.py --check / --selftest  -> both OK (unchanged census)
+      python3 src/enrich_oar.py --selftest              -> selftest OK
+      python3 src/agency_profile.py --selftest          -> selftest OK
+      python3 src/build_policy_gap.py --check           -> policy-documentation-gap.html is
+                                                            current
+      python3 src/shard_generated_views.py --check      -> manifest and workflow agree: 68
+                                                            gate(s) across 5 shard(s) (no
+                                                            gate added or renamed — the new
+                                                            rule lives inside an existing
+                                                            gated step)
+
+  Refs #281
+
+
 - 2026-08-28 — **`AGENTS.md` and `CONTEXT.md` said all 44 decided relation kinds rest on
   `proposed-enabling-authority`, the CANDIDATE basis "nobody has read"; `--check` measures
   the opposite majority** (#277). Re-measured rather than trusted the ticket's own figures,

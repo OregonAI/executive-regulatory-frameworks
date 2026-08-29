@@ -7,7 +7,8 @@ THE PROMOTION HALF OF ADR 0003's RENAME, AND THE HONESTY IT COSTS. `expand_oar_n
 the first half: the OAR chapter title landed in `oar_name` while `name` still held it too,
 so consumers could move off `name` before it changed meaning. #187 moved the last two
 OAR-derived joins. This is what is left — `name` is the STATUTORY name now (ADR 0003), and
-189 rows are carrying a rules-index title under a field that says otherwise.
+190 rows are carrying a rules-index title under a field that says otherwise (#279,
+re-measured for #281).
 
 WHAT THIS SCRIPT DOES NOT DO IS INVENT ONE. Establishing a body's statutory name means
 reading the authority that created it, and that is human work recorded in
@@ -26,8 +27,9 @@ decided the kind of (`undetermined`). This field is that rule applied to the nam
 
 WHY A SCRIPT AND NOT A --refresh, for the reason `expand_oar_name.py` gives: a refresh
 re-fetches all 170 chapter pages and rewrites every row from what the mirror serves today
-— 170, not this registry's 189 total rows, for the same reason and checked the same way
-`expand_oar_name.py`'s docstring is (#279) — and adding a key to committed data is not a
+— 170, not this registry's 190 total rows (#279, re-measured for #281), for the same
+reason and checked the same way `expand_oar_name.py`'s docstring is (#279) — and adding a
+key to committed data is not a
 reason to re-open what every other field says. `catalog_agencies.py --refresh` writes this
 key from now on, because `scraped_entry()` does.
 

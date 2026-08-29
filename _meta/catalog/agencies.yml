@@ -52,7 +52,7 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   with a reason. oar_chapter is the OAR chapter this body''s rules are filed under, scraped from the index
   tree; null on the chapterless rows is not a gap — a body is in this registry because it EXISTS, not
   because it issues rules. source_url is the chapter page each row was scraped from, where the scrape
-  found one: null on 14 of the 19 chapterless rows, not all of them — the other five hold a source_url
+  found one: null on 15 of the 20 chapterless rows, not all of them — the other five hold a source_url
   that is not a chapter page (four hold the mirror''s own rules index, https://oregon.public.law/rules,
   and the manual saif-corporation row holds its own site). aliases, where present, are other names the
   same body is known by, including former names after a rename — hand-reviewed once, curated, and preserved
@@ -1984,6 +1984,13 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 571.406
   manual: true
+  curator_note: 'OAM 70.10.00''s `60310` heading numbers this body 609, but das_agency_number stays unset:
+    link_budget_codes.py (the field''s single writer) has not reviewed it, and #281 closes only the OAR-index
+    name gap ADR 0003''s amendment describes, deliberately leaving the das_agency_number join at 23 unmatched
+    OAM numbers as that ADR''s standing report expects. Also unlike its 22 department-of-agriculture-*
+    siblings this row''s slug carries no parent prefix (ADR 0003: no compound `Parent, Child` name to
+    split), so after this row the registry has 23 rows matching that slug prefix and 24 rows whose relations
+    target department-of-agriculture — pick the join deliberately; they now differ.'
   enabling_authority: ORS 571.406
 - slug: oregon-housing-and-community-services-department
   name: Oregon Housing and Community Services Department

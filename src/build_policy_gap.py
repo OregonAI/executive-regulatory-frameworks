@@ -63,7 +63,8 @@ def root(slug, orgs, unrolled=None):
     `unrolled` for the caller to report — ON ITS OWN ROW and not only in a total, because a
     total of zero is exactly what would hide the first one. No committed row is in that state
     today, so this returns exactly what the retired `parent_slug` pointer returned for all
-    189; `catalog_agencies.py --selftest` is where the other branches are watched running."""
+    190 (#279, re-measured for #281); `catalog_agencies.py --selftest` is where the other
+    branches are watched running."""
     got = catalog_agencies.root_body(slug, orgs)
     if got.stopped in NOT_A_ROOT and unrolled is not None:
         unrolled[got.slug] = NOT_A_ROOT[got.stopped]

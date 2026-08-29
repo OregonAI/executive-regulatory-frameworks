@@ -9,9 +9,9 @@ derive a hierarchy from it.
 
 WHY THIS EXISTS. ADR 0003 changes what `name` MEANS: it becomes the body's statutory name,
 and the OAR chapter title it held moved to `oar_name`. Almost nothing about that change is
-visible in the data — the two fields still hold identical bytes on 186 of the 189 rows, and
-differ on the three whose established statutory name is not the rules index's title (#168)
-— so a consumer that should
+visible in the data — the two fields still hold identical bytes on 187 of the 190 rows
+(#279, re-measured for #281), and differ on the three whose established statutory name is
+not the rules index's title (#168) — so a consumer that should
 have moved and did not keeps matching a string that quietly changed meaning, which is the
 failure the sibling crosswalks exist to prevent (ADR 0003, "the risky half").
 

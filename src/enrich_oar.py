@@ -307,8 +307,10 @@ def expected_mismatch(fm: dict, d: dict) -> list:
 #
 # THE PROOF THAT THE ENRICHER STAMPS THE OAR NAME, and the reason it is a synthetic fixture
 # rather than a row from the committed registry: `name` and `oar_name` hold the same bytes
-# on all 189 rows today, so a fixture taken from committed data passes whichever field the
-# code reads. The fixture below is FAULT-INJECTED in the sense ADR 0003 makes real — `name`
+# on 187 of the 190 rows today (#279, re-measured for #281 — differing only on the three
+# whose established statutory name is not the rules index's title, #168), so a fixture
+# taken from committed data passes whichever field the code reads. The fixture below is
+# FAULT-INJECTED in the sense ADR 0003 makes real — `name` already moved to the statutory
 # already moved to the statutory name, `oar_name` left where the rules index put it — which
 # is the only state in which the two readings can be told apart.
 

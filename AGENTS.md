@@ -533,6 +533,14 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   stays exactly as #185 left it, `cmd_refresh()` keeps writing `REGISTRY_NOTE` wholesale, and
   the full reasoning (including the walked commit history) lives at its extraction site in
   `catalog_agencies.py`, above `REGISTRY_NOTE`, rather than restated here a second time.
+  Neither `note-covers-fields` nor `note-agrees-with-refresh` reads a NUMBER inside the
+  note's prose, only whether every field is named and whether the two copies match each
+  other — so a hand-typed count beside a field name (the "null on N of the M chapterless
+  rows" sentence) could go stale on its own, in `REGISTRY_NOTE` itself, and both rules
+  would still pass (#281's own code review: it did, surviving a whitespace-only re-wrap of
+  that exact sentence in the commit that made it wrong). `note-numbers-current` closes that
+  gap: it extracts the note's own chapterless claim and checks it against
+  `chapterless_source_url_census()`, computed from the committed rows the same run.
   The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
   `python3 src/link_budget_codes.py` from the hand-reviewed table in that file, whose
   `--check` verifies the registry against that table. The deprecated `budget_agency_code`

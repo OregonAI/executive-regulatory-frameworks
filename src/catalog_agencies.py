@@ -207,8 +207,9 @@ FIELDS = {
     # at a title the rules index no longer prints. A field that cannot track an upstream
     # retitle cannot be the string OAR-derived joins match on.
     "oar_name": Field(SCRAPED, required=True),
-    # Null on 19 rows and that is not a gap: a body is in the registry because it EXISTS,
-    # not because it issues rules (ADR 0003). Required means the KEY is present.
+    # Null on 20 rows (#281, re-measured; live count printed by --check as "N chapterless")
+    # and that is not a gap: a body is in the registry because it EXISTS, not because it
+    # issues rules (ADR 0003). Required means the KEY is present.
     "oar_chapter": Field(SCRAPED, required=True),
     "raw_index_name": Field(SCRAPED, required=True),
     "source_url": Field(SCRAPED, required=True),
@@ -340,6 +341,16 @@ CHAPTER_PAGE_DOC_FILES = (
 # refused by `chapter-page-count-current` below rather than silently going unchecked.
 CHAPTER_PAGE_COUNT_RE = re.compile(r"re-fetches (?:all )?([\d,]+) chapter pages")
 
+# THE REGISTRY'S OWN "null on N of the M chapterless" CLAIM, IN ITS OWN NOTE (code review
+# of #281). `REGISTRY_NOTE` states, in prose, how many chapterless rows carry no
+# `source_url` — a hand-typed pair of numbers that went stale a second time in the commit
+# that added the 20th chapterless row: the sentence survived a whitespace-only re-wrap
+# unchanged at "14 of the 19" while `chapter_census()` printed "(20 chapterless)" in the
+# same `--check` run. `note-covers-fields` (#185) only proves every FIELDS name appears
+# somewhere in the note; `note-agrees-with-refresh` only proves the committed note matches
+# `REGISTRY_NOTE`, which can be wrong the same way and was — neither reads a number.
+NOTE_CHAPTERLESS_RE = re.compile(r"null on (\d+) of the (\d+) chapterless")
+
 
 def _default_chapter_page_docs():
     """{path: text} for `CHAPTER_PAGE_DOC_FILES`, `None` in place of the text for a file
@@ -443,7 +454,7 @@ REGISTRY_NOTE = (
     "scraped from the index tree; null on the chapterless rows is not a "
     "gap — a body is in this registry because it EXISTS, not because it "
     "issues rules. source_url is the chapter page each row was scraped "
-    "from, where the scrape found one: null on 14 of the 19 chapterless "
+    "from, where the scrape found one: null on 15 of the 20 chapterless "
     "rows, not all of them — the other five hold a source_url that is "
     "not a chapter page (four hold the mirror's own rules index, "
     "https://oregon.public.law/rules, and the manual saif-corporation "
@@ -1037,6 +1048,17 @@ def chapter_census(orgs) -> str:
     prose to go stale the next time a row is added or a chapter goes chapterless."""
     chaptered = chaptered_rows(orgs)
     return f"{chaptered} of {len(orgs)} row(s) carry oar_chapter ({len(orgs) - chaptered} chapterless)"
+
+
+def chapterless_source_url_census(orgs) -> tuple[int, int]:
+    """(chapterless rows with no `source_url`, chapterless rows total) — the pair
+    `REGISTRY_NOTE` states in prose as "null on N of the M chapterless rows" (code review
+    of #281). THE ONE PLACE THIS IS COUNTED, the same reason `chaptered_rows()` is (#279):
+    `check_registry()`'s `note-numbers-current` rule is the only reader, so there is
+    nowhere else for this and the note's own claim to disagree about what counts."""
+    chapterless = [o for o in orgs if isinstance(o, dict) and not o.get("oar_chapter")]
+    null_source = sum(1 for o in chapterless if not o.get("source_url"))
+    return null_source, len(chapterless)
 
 
 def name_census(orgs) -> str:
@@ -2200,6 +2222,31 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
             "string `cmd_refresh()` writes back — the two are meant to be kept "
             "byte-identical (#185) and nothing but this rule notices when they stop "
             "being so"))
+
+    # THE NOTE'S OWN "null on N of the M chapterless" CLAIM, AGAINST A LIVE COUNT (code
+    # review of #281). Reads the COMMITTED file's note, not `refresh_note`: the defect this
+    # rule exists to catch is `REGISTRY_NOTE` itself going stale, which `note-agrees-with-
+    # refresh` above cannot see because it only proves the two copies match each other, not
+    # that either still describes the file. OPTIONAL, not required — the phrase is matched
+    # if present and left alone if not: forcing every note (including the synthetic
+    # `--selftest` fixture's, built only to name every FIELDS key) to carry this exact
+    # sentence would couple every other rule's fixture to a sentence about this one. The
+    # real committed note always has it; when it does, its two numbers must agree with the
+    # file's own chapterless census or the sentence is reporting a state the same run's own
+    # numbers contradict.
+    if isinstance(file_note, str):
+        m = NOTE_CHAPTERLESS_RE.search(file_note)
+        if m:
+            stated = (int(m.group(1)), int(m.group(2)))
+            live = chapterless_source_url_census(orgs)
+            if stated != live:
+                failures.append(Failure(
+                    "note-numbers-current", "agencies.yml",
+                    f"the registry's own top-level `note` states \"null on {stated[0]} of "
+                    f"the {stated[1]} chapterless rows\"; the committed registry has "
+                    f"{live[0]} of {live[1]} chapterless rows carrying no `source_url` — "
+                    "update the literal in REGISTRY_NOTE (src/catalog_agencies.py) and "
+                    "re-run --refresh so the committed note picks it up"))
 
     # HOW MANY CHAPTER PAGES A --refresh FETCHES, AGAINST WHAT TWO OTHER SCRIPTS SAY IT
     # DOES (#279). `expand_oar_name.py` and `record_name_basis.py` both explain, in prose,
@@ -3415,6 +3462,20 @@ def _case_note_diverges_from_what_refresh_would_write(cat):
     cat["note"] += " A sentence cmd_refresh() would never write."
 
 
+def _case_note_chapterless_count_stale(cat):
+    """The note's own "null on N of the M chapterless" claim, wrong against the fixture's
+    own data (code review of #281: the real committed note carried this exact sentence
+    unchanged, at "14 of the 19", through the commit that made the true count "15 of the
+    20" — surviving both `note-covers-fields`, which only proves every FIELDS name is
+    named, and `note-agrees-with-refresh`, which only proves the committed note matches
+    `REGISTRY_NOTE` and says nothing about whether `REGISTRY_NOTE` itself is still true).
+    The fixture holds exactly one chapterless row (`gov`), which carries no `source_url`
+    either, so the true sentence would read "null on 1 of the 1 chapterless rows"; this
+    appends "0 of 1", which the fixture's own two rows above (`das`, `cfo`, both chaptered)
+    contradict."""
+    cat["note"] += " null on 0 of the 1 chapterless rows, not all of them."
+
+
 def _case_registry_emptied(cat):
     """Every row gone. A gate that reports a registry with no bodies in it as clean is a
     gate that passes without checking anything — and every rule below is vacuously true of
@@ -3480,6 +3541,8 @@ _CASES = [
     ("note-diverges-from-what-refresh-would-write",
      _case_note_diverges_from_what_refresh_would_write,
      "note-agrees-with-refresh"),
+    ("note-chapterless-count-stale", _case_note_chapterless_count_stale,
+     "note-numbers-current"),
     ("row-the-simulation-cannot-run-on", _case_row_the_simulation_cannot_run_on,
      "survives-refresh"),
     ("slug-the-scrape-would-not-produce", _case_slug_the_scrape_would_not_produce,
