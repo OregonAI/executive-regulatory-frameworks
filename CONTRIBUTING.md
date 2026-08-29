@@ -18,6 +18,17 @@ provenance mechanically. AI agents are welcome contributors under the rules in
    integrity) and provenance/quote verification. Link checking runs weekly and on demand,
    not on PRs. a CODEOWNER reviews against the PR checklist and merges (review gate #2).
 
+## Before pushing
+
+Run `python3 src/check_all.py`. It runs every generated-view gate CI runs — all five
+`generated-views-shard-N` jobs' worth PLUS `generated-views-nightly`'s (the schedule/
+workflow_dispatch-only job; ~76 gates combined) — locally, in one command, and fails on
+every one that is red rather than just the first. **GitHub stops a job at its first failing
+step**, so CI itself only ever reports one failure per shard; `main` has gone red three
+times from a single ingest (#238) because each round's fix only unmasked the shard's *next*
+failing gate on the *next* push (#302, #309, #318). `check_all.py` is the only way to see
+the whole set before you push, not one gate per round-trip to CI.
+
 ## Definition of done (any content PR)
 
 - [ ] Frontmatter complete and schema-valid (`corpus-validate-frontmatter --config

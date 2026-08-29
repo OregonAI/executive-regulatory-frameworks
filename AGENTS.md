@@ -743,3 +743,32 @@ the nightly cron and manual dispatch validate the full corpus — so between a m
 
 Dependencies: `pip install -r requirements.txt` (installs corpus-toolkit, pinned in
 that file, plus pyyaml/jsonschema for the local scripts under `src/`).
+
+## Before pushing: run every generated-view gate locally (#318)
+
+```bash
+python3 src/check_all.py            # every gate the workflow runs, one command, no push
+python3 src/check_all.py --list     # what would run, without running it
+```
+
+Run this **before pushing, by default** — not only when you suspect something broke.
+
+WHY. **GitHub stops a job at its first failing step.** `generated-views` is a fan-in over
+five `generated-views-shard-N` jobs (#268), and each shard can hold a dozen-plus gates —
+but CI only ever reports exactly one failure per shard, however many it actually holds. `main`
+went red three times from a single ingest (#238) because of this: #302 fixed the views that
+ingest regenerated, by hand; #309 fixed five more once CI reported them, one shard-failure
+at a time; #318 found CI naming three more and a manual sweep of the workflow YAML turning
+up two beyond that. Each round only ever surfaced the *next* layer — fixing shard-2's
+reported failure just let shard-2 run far enough to hit its *next* one, on the *next* push.
+**A push that turns one shard green can still be hiding three more failures in that same
+shard**, invisible until the next round-trip to CI.
+
+`src/check_all.py` is the local mirror of the entire sweep: it derives its gate list from
+`src/shard_generated_views.py` (never a second parse of the workflow YAML — see that
+module's own docstring) and runs every gate in every shard, PLUS `generated-views-nightly`'s
+(the schedule/workflow_dispatch-only job, out of scope for that module's PR-tier manifest by
+design but still a job CI runs — #329), without stopping at the first failure, so **all** of
+them are named together instead of one shard-failure at a time across however many pushes it
+takes to surface the rest. A gate that could not even be run (missing command, timeout) is
+reported as its own status, not folded into a pass or a silent skip.

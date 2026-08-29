@@ -73,19 +73,45 @@ def shard_job_ids(doc):
     return [j for j in jobs if j.startswith(SHARD_PREFIX)]
 
 
-def gates_by_shard(doc):
-    """{shard_job_id: [gate name, ...]} for every named+run step in each shard job.
+NIGHTLY_JOB = "generated-views-nightly"
 
-    A step missing either `name` or `run` (checkout, setup-python, pip install) is
-    not a gate and is skipped -- gates are the steps this corpus's own code runs
-    as a pass/fail check.
-    """
+
+def gate_steps_for_job(doc, job_id):
+    """[(gate name, run command), ...] for every named+run step in ONE job, in file
+    order. A step missing either `name` or `run` (checkout, setup-python, pip
+    install) is not a gate and is skipped -- gates are the steps this corpus's own
+    code runs as a pass/fail check. This is the underlying filter every other
+    gate-step reader in this module applies to a single job's `steps:` list; it
+    exists so that filter is written once."""
     jobs = doc.get("jobs", {})
-    out = {}
-    for job_id in shard_job_ids(doc):
-        steps = jobs[job_id].get("steps", [])
-        out[job_id] = [s["name"] for s in steps if "name" in s and "run" in s]
-    return out
+    steps = jobs.get(job_id, {}).get("steps", [])
+    return [(s["name"], s["run"]) for s in steps if "name" in s and "run" in s]
+
+
+def gate_steps_by_shard(doc):
+    """{shard_job_id: [(gate name, run command), ...]} for every named+run step in
+    each shard job, in file order -- `gate_steps_for_job` applied to every
+    `generated-views-shard-N` job. This is the one parser of the workflow's
+    PR-tier gate steps; `gates_by_shard` (the names alone, for the manifest-drift
+    check below) and `check_all.py` (the runnable commands, #318) both read it
+    rather than each holding its own regex over the YAML -- a second reader would
+    be one fact declared twice with nothing gating agreement, the `CONTEXT.md`
+    *Stated figure* defect class this repo keeps paying for.
+
+    Deliberately excludes `generated-views-nightly` (see that job's steps via
+    `gate_steps_for_job(doc, NIGHTLY_JOB)` instead) -- #268 scoped THIS shard/
+    manifest/bin-packing system to what a PR waits on, and the nightly job's own
+    `if:` keeps it off every PR run. `check_all.py` reads both, because "every
+    gate CI runs" is a broader claim than "every gate the PR-tier manifest bin-
+    packs" -- #329.
+    """
+    return {job_id: gate_steps_for_job(doc, job_id) for job_id in shard_job_ids(doc)}
+
+
+def gates_by_shard(doc):
+    """{shard_job_id: [gate name, ...]} -- the names alone, off gate_steps_by_shard."""
+    return {job_id: [name for name, _run in steps]
+            for job_id, steps in gate_steps_by_shard(doc).items()}
 
 
 def setup_steps_by_shard(doc):
