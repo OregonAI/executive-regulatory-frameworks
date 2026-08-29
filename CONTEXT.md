@@ -132,8 +132,8 @@ _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a 
 **Legal status**:
 Whether a rule is in force. It lives in the document's `status` frontmatter field, whose values
 corpus-toolkit's schema fixes as `current | superseded | repealed | proposed | draft`, and it
-is a claim about Oregon law. Measured over the committed corpus: 34,836 rules read `current`,
-2,083 `repealed` and 34 `superseded`. ITS WRITER IS THE OREGON BULLETIN (ADR 0006), and since
+is a claim about Oregon law. Measured over the committed corpus: 40,442 rules read `current`,
+2,085 `repealed` and 34 `superseded`. ITS WRITER IS THE OREGON BULLETIN (ADR 0006), and since
 #228 that is a single function — `legal_status.resolve()` — rather than a convention. It had
 two writers: `ingest_oar.py` wrote `status: current` as a hardcoded literal on every rule it
 created, and `enrich_oar.py` derived the field from the rule's own History line and compared it
@@ -158,7 +158,7 @@ an automatic re-ingest. It lives on the OAR catalog row in `legal_status_action`
 together or `legal_status.py --check` refuses the row. IT IS ON THE ROW BECAUSE THE SCHEMA
 ENUM CANNOT HOLD IT: `current | superseded | repealed | proposed | draft` has one word for a
 loss of force and it means a permanent one, while every suspension Oregon files carries an
-end date — 185 History lines in this corpus read `temporary suspend filed …, effective …
+end date — 242 History lines in this corpus read `temporary suspend filed …, effective …
 through …`. So a suspension is stamped `superseded`, the strongest thing the shared enum can
 truthfully say (this is not the operative text right now), and the action is what says the
 loss is temporary (the gap in the shared enum is corpus-toolkit#159). Without it, 34
@@ -200,16 +200,17 @@ way and this is a third fact about the same rule
 
 **Ingest status**:
 Whether this corpus holds a copy of a rule, and in what shape. It lives in
-`_meta/catalog/oar.yml` as `rules[].status`, with its own vocabulary — `ingested` (36,474),
-`not_ingested` (5,608, added by #270's OARD-direct discovery: a number OARD names that no
-document exists for yet, the ingest ticket's own delta), `renumbered` (484, carrying
-`served_as`), `not_served` (49). It is a claim about THIS MIRROR, never about Oregon law: a
-rule can be in force and absent here, or repealed and still held. The Bulletin's claim about
-force sits on the SAME ROW under different keys — `legal_status`, `legal_status_action` and
-`legal_status_notice`, none of which may appear without the others — and the two
-vocabularies never borrow each other's words — `legal_status.py --check` reads all 42,615
-entries and refuses either field holding the other's vocabulary, because on the day they
-first collide nothing else in the repository would notice.
+`_meta/catalog/oar.yml` as `rules[].status`, with its own vocabulary — `ingested` (42,082),
+`not_ingested` (0 since #238 ingested the 5,608 rules #270's OARD-direct discovery had found:
+the word means OARD names a rule this mirror holds no document for, and a count of zero says
+the mirror is complete against what OARD lists TODAY, never that the state has been retired),
+`renumbered` (484, carrying `served_as`), `not_served` (49). It is a claim about THIS MIRROR,
+never about Oregon law: a rule can be in force and absent here, or repealed and still held.
+The Bulletin's claim about force sits on the SAME ROW under different keys — `legal_status`,
+`legal_status_action` and `legal_status_notice`, none of which may appear without the others
+— and the two vocabularies never borrow each other's words — `legal_status.py --check` reads
+all 42,615 entries and refuses either field holding the other's vocabulary, because on the
+day they first collide nothing else in the repository would notice.
 _Avoid_: Status, unqualified. The two fields share a name and mean different things, which is
 why both entries exist
 
@@ -233,8 +234,8 @@ chapter absent from both the mirrored set AND the discovery map
 to chapters "relevant to DAS/executive-branch administration" and was never asked about
 most of the numbering space — its silence proves nothing, and is reported as exactly that
 rather than guessed either way. `src/scan_ors_citations.py --check` (CI, every PR) is the
-gate: measured on the committed corpus, 81 chapters this corpus's own documents cite sit
-outside the selection (14 corroborated real via the discovery map, 67 with no evidence
+gate: measured on the committed corpus, 92 chapters this corpus's own documents cite sit
+outside the selection (14 corroborated real via the discovery map, 78 with no evidence
 either way) — chapter 151 among neither any more, having been mirrored for this fix, and
 chapter 31 the largest remaining single gap at 284 citations across 127 documents (status
 `not_mirrored_unknown` — not even in the discovery map, so its title is not asserted here
@@ -388,7 +389,7 @@ _Avoid_: Evidence, provenance, reason — a basis says what a KIND was derived f
 **Undetermined**:
 The kind of a relation nobody has decided yet. Choosing between *part of* and *administered
 by* turns on whether the body carries its own admitting evidence (ADR 0004), and 37 of the
-81 relations have none of any strength — so `undetermined` is what they record, and
+82 relations have none of any strength — so `undetermined` is what they record, and
 `catalog_agencies.py --check` reports the count on every run. It says the relation is REAL
 and its kind unestablished, which is neither of the two kinds and is never a third one. It
 is also never derived FROM an absence: that a matcher found no candidate for a body is a
