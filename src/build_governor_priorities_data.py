@@ -11,6 +11,15 @@ rulemaking generally?).
 Light step (only reads rule files in the ~14 mapped chapters, not the full corpus), but
 cached separately so the HTML generator's --check runs without re-reading files.
 
+REGENERATION ORDER MATTERS (#326). This reads freshness.json's already-computed per-rule
+effective years for its baseline rather than re-scanning the corpus (see the `FRESHNESS`
+comment below), so `build_freshness_data.py --write` must run BEFORE this script's own
+--write -- writing this cache against a freshness.json that is about to be regenerated
+commits a baseline that already disagrees with the file sitting beside it. --check catches
+it either way (this one goes stale the moment freshness.json's content moves), but the
+correct order is: build_freshness_data --write, then this. `detect_mechanical.py` reads the
+same cache the same way and carries the identical note.
+
   python3 src/build_governor_priorities_data.py          # scan + write cache
   python3 src/build_governor_priorities_data.py --check   # exit 1 if stale (CI)
 """

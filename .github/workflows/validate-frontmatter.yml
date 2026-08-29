@@ -77,11 +77,27 @@ jobs:
   # manifest entry, `llms.txt must be current, and name every chapter we mirror`
   # (86.7s, the combined measured cost -- build_llms.py's build() walks the whole
   # corpus and used to pay that cost twice as two separate CI steps, ~173.6s). Current
-  # total: 64 PR-tier gates, 673.5s serial, 12.23 min. Bin-packed across 5 shards:
-  # makespan (slowest shard) 141.9s local, ~4.0 CI-minutes at the measured 1.7x
-  # slowdown -- against the old job's 38.8 CI-minutes, and flat as gates are added from
-  # here, since wall-clock is now set by the slowest shard rather than the sum of all
-  # of them.
+  # total, AT THAT POINT: 64 PR-tier gates, 673.5s serial, 12.23 min, makespan (slowest
+  # shard) 141.9s local, ~4.0 CI-minutes at the measured 1.7x slowdown -- against the old
+  # job's 38.8 CI-minutes, and flat as gates are added from here, since wall-clock is set
+  # by the slowest shard rather than the sum of all of them.
+  #
+  # RE-MEASURED 2026-08-29 (#310): this aggregate had drifted 18-21% low, unnoticed,
+  # because nothing compared it against `.github/generated-views-manifest.yml` --
+  # `src/shard_generated_views.py --check` (the gate that runs on every PR) verifies gate
+  # NAMES and SHARD PLACEMENT against the manifest, never this free-text total. Current:
+  # 71 PR-tier gates, 858.8s serial, 14.3 min (`python3 -c "import yaml;
+  # d=yaml.safe_load(open('.github/generated-views-manifest.yml'));
+  # print(len(d['gates']), sum(g['seconds'] for g in d['gates']))"`). Makespan is the
+  # slowest ACTUAL shard below, not `--plan 5`'s re-optimized bin-packing (which would get
+  # it to ~171.8s if the shards below were rebalanced to match it, and are not) -- today
+  # that is shard-4 at 222.7s local, ~6.3 CI-minutes at the same 1.7x. Hand-recomputed
+  # rather than gated: this comment states a fact about the whole file's shard PLACEMENT
+  # (its own header plus every shard job's), not a single measurement a `<!--census:ns.
+  # key-->` tag can point at, and `stated_census.py` gates prose read as one document's
+  # text, not a workflow's parsed job structure -- see #310 for why folding this into
+  # `shard_generated_views.py --check` instead, so it can never drift again, was judged
+  # worth its own change rather than this one's.
   #
   # BUDGET AS A RED GATE, NOT A CANCELLATION (#268's explicit ask): every gate step below
   # carries its own `timeout-minutes`, computed from its measured seconds with a generous
@@ -284,11 +300,17 @@ jobs:
       # a 484-page, four-chapter manifest to 6,614 pages across 136, unnoticed because nothing
       # read the glossary the way `oar_watch_coverage.py`'s own gate reads the ADR. Also
       # carries #305's follow-on: a docstring citing CONTEXT.md as authority for a refusal
-      # must name a glossary term CONTEXT.md actually has. ~6 s, reads committed data only
-      # (the OAR and agency catalogs, the OAR hash-watch manifest and worklist), no network.
+      # must name a glossary term CONTEXT.md actually has. AS OF #299, also points at
+      # `src/record_name_basis.py`'s own module docstring -- the first non-CONTEXT.md
+      # document this mechanism gates, and the third time that docstring's own count went
+      # stale the same way (#279 hand-corrected it once; #299 found it stale again). Gated
+      # rather than hand-corrected a third time, since the glossary block the mechanism scans
+      # for is one `**Term**:` line, not something specific to CONTEXT.md or to Markdown.
+      # ~6 s, reads committed data only (the OAR and agency catalogs, the OAR hash-watch
+      # manifest and worklist), no network.
       - name: A stated figure must be gated against the census that produces it
         timeout-minutes: 2
-        run: python3 src/stated_census.py --check
+        run: python3 src/stated_census.py --check CONTEXT.md src/record_name_basis.py
       - name: ...and that rule must be able to fail (stated-figure census)
         timeout-minutes: 2
         run: python3 src/stated_census.py --selftest
@@ -308,7 +330,8 @@ jobs:
 
   generated-views-shard-2:
     runs-on: ubuntu-latest
-    # 15 gate(s), 132.9s measured locally (warm checkout) -- see .github/generated-views-manifest.yml.
+    # 16 gate(s), 147.3s measured locally (warm checkout, re-measured 2026-08-29, #310) --
+    # see .github/generated-views-manifest.yml.
     # 45: see shard-1's comment -- comfortably above this shard's own summed per-step budget.
     timeout-minutes: 45
     steps:
@@ -435,7 +458,8 @@ jobs:
 
   generated-views-shard-3:
     runs-on: ubuntu-latest
-    # 10 gate(s), 132.9s measured locally (warm checkout) -- see .github/generated-views-manifest.yml.
+    # 11 gate(s), 204.9s measured locally (warm checkout, re-measured 2026-08-29, #310) --
+    # see .github/generated-views-manifest.yml.
     # 35: see shard-1's comment -- comfortably above this shard's own summed per-step budget.
     timeout-minutes: 35
     steps:
