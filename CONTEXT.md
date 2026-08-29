@@ -4,6 +4,22 @@ A corpus of Oregon statutes, administrative rules, executive orders, and agency-
 policy documents, mirrored verbatim from their official sources. This file is the
 glossary: what the words mean here, and which near-synonyms to avoid.
 
+## The word that outranks the rest
+
+**Could not check**:
+The state of having been unable to determine something — a fetch that did not complete, a
+file that would not parse, a record nobody has looked at yet, a gate that never ran. It is a
+fact about THIS CORPUS's reach, never about the thing out of reach, and it is a finding in
+its own right rather than the absence of one. Reports name it: `bulletin_report.py` publishes
+a literal `## Could not check` section, because a rule the report could not read and a rule
+the report read and found unchanged are two different answers that must not arrive as one.
+**Could not check is never reported as is not there**, and that prohibition outranks every
+other entry in this glossary — where a definition here and that rule could conflict, the rule
+wins. It is stated as a rule, with its forms and what to do instead, in AGENTS.md.
+_Avoid_: Not found, absent, none, no results, empty — every one of them reports a completed
+search that returned nothing, which is the other finding. An absence may be claimed only when
+it was MEASURED, and then it is cited as a search that ran
+
 ## Documents
 
 **Document**:
@@ -222,7 +238,8 @@ intended rather than complete coverage (545+ of Oregon's chapters, and growing).
 the case that forced the distinction: 154 citations pointed at ORS chapter 151 and it was
 outside the selection, and `citation_schemes._resolve_ors` answered exactly as it would
 have for a citation to a chapter number Oregon does not use — the ORS scheme's OWN version
-of collapsing "could not check" into "is not there" (AGENTS.md). A citation into an
+of collapsing "could not check" into "is not there" (see **Could not check** above, and
+AGENTS.md for the rule). A citation into an
 unselected chapter is a claim about THIS MIRROR and never about Oregon law, so it is now a
 stated ABSENCE ("this corpus does not mirror ORS chapter N"), distinct from the generic
 answer a citation to a genuinely WRONG section — one inside a chapter this corpus DOES

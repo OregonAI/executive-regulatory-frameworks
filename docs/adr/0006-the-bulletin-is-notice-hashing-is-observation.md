@@ -37,7 +37,10 @@ corpus-toolkit#78's premise was replacement — "read ONE document a month inste
 36k rules" — and the arithmetic is compelling. We rejected it because a silent upstream
 correction files no notice. Under a Bulletin-only design "no filing this month" and "nothing
 changed" become the same observation, which is the substitution this repository refuses
-everywhere else: **could not check is never reported as is not there.**
+everywhere else: **could not check is never reported as is not there.** (This ADR applies
+that rule; it is not where it lives. It is stated in AGENTS.md and defined in `CONTEXT.md`
+under **Could not check** — which is where two docstrings in `src/` citing "ADR 0006" for it
+should have been pointing.)
 
 Hashing is kept for exactly one job it alone can do: detecting change nobody announced. It is
 no longer the primary signal — but the reason first given here was wrong, and the correction
