@@ -1987,7 +1987,7 @@ organizations:
   curator_note: 'OAM 70.10.00''s `60310` heading numbers this body 609, but das_agency_number stays unset:
     link_budget_codes.py (the field''s single writer) has not reviewed it, and #281 closes only the OAR-index
     name gap ADR 0003''s amendment describes, deliberately leaving the das_agency_number join at 23 unmatched
-    OAM numbers as that ADR''s standing report expects. Also unlike its 22 department-of-agriculture-*
+    OAM numbers as that ADR''s standing report expects. Also unlike its 23 department-of-agriculture-*
     siblings this row''s slug carries no parent prefix (ADR 0003: no compound `Parent, Child` name to
     split), so after this row the registry has 23 rows matching that slug prefix and 24 rows whose relations
     target department-of-agriculture — pick the join deliberately; they now differ.'
