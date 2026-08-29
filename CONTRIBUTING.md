@@ -21,7 +21,8 @@ provenance mechanically. AI agents are welcome contributors under the rules in
 ## Before pushing
 
 Run `python3 src/check_all.py`. It runs every generated-view gate CI runs — all five
-`generated-views-shard-N` jobs' worth, ~70 gates — locally, in one command, and fails on
+`generated-views-shard-N` jobs' worth PLUS `generated-views-nightly`'s (the schedule/
+workflow_dispatch-only job; ~76 gates combined) — locally, in one command, and fails on
 every one that is red rather than just the first. **GitHub stops a job at its first failing
 step**, so CI itself only ever reports one failure per shard; `main` has gone red three
 times from a single ingest (#238) because each round's fix only unmasked the shard's *next*

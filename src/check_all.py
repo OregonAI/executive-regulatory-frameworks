@@ -39,6 +39,7 @@ OUT OF SCOPE (#318): changing the sharding, the manifest, or any gate's own logi
 this script itself a CI gate (CI already runs the gates -- this is the local mirror).
 """
 import argparse
+import shlex
 import subprocess
 import sys
 import time
@@ -62,6 +63,40 @@ DEFAULT_TIMEOUT_SECONDS = 600
 # disagreed": 126 (found, not executable) and 127 (not found at all). Anything else nonzero
 # is the gate's own program disagreeing with reality, i.e. an ordinary failure.
 SHELL_DISPATCH_FAILURE_CODES = {126, 127}
+
+# 126/127 alone leave the "could not run" status unreachable for the large majority of this
+# repo's real gates (#330; 74 of 76 measured -- almost every gate but not a number worth
+# restating here a second time and letting it drift, see CONTEXT.md's *Stated figure*):
+# nearly every gate is `python3 src/<script>.py ...`, and a MISSING script is not a shell
+# dispatch failure -- the shell found and ran `python3` just fine. `python3` itself then
+# exits 2 ("can't open file ... No such file or directory"), indistinguishable by exit code
+# alone from a gate script's own `sys.exit(2)`. So this repo's realistic "command missing"
+# case is checked for directly, before the subprocess ever starts, rather than inferred from
+# an exit code shared with an ordinary failure.
+_SCRIPT_INTERPRETERS = {"python3", "python"}
+
+
+def _missing_script(run_cmd: str):
+    """None if `run_cmd` does not invoke `python3 <script>` at all, or if it does and the
+    script file exists. Otherwise, the missing path, as a string, for the "error" detail.
+
+    Deliberately narrow: only a bare positional script argument is checked (`-c`, `-m`,
+    and any other flag-shaped second token are left alone -- there is no script FILE to
+    have gone missing). A command this can't parse (mismatched quotes) is left to the
+    shell to report as an ordinary failure, same as before this existed."""
+    try:
+        tokens = shlex.split(run_cmd)
+    except ValueError:
+        return None
+    if len(tokens) < 2 or tokens[0] not in _SCRIPT_INTERPRETERS:
+        return None
+    script = tokens[1]
+    if script.startswith("-"):
+        return None
+    path = Path(script)
+    if not path.is_absolute():
+        path = REPO_ROOT / path
+    return None if path.is_file() else script
 
 
 @dataclass
@@ -90,7 +125,20 @@ class GateResult:
 
 def load_gates(workflow_path=None) -> list:
     """Every gate the workflow runs, in shard/file order -- the one thing this module
-    reads out of shard_generated_views.gate_steps_by_shard() rather than re-parsing."""
+    reads out of shard_generated_views.gate_steps_by_shard() rather than re-parsing.
+
+    Includes generated-views-nightly's gates too (#329): that job is out of scope for
+    shard_generated_views.py's manifest/bin-packing BY DESIGN (#268 -- it is "not what
+    a PR waits on"), but it is still a job CI runs, on a schedule/workflow_dispatch,
+    and #318's own binding scope decision (issue comment 2) named one of its gates,
+    `review_queue`, as in-scope for this ticket. A tool that claims to be "the local
+    mirror of every generated-views gate" (AGENTS.md, CONTRIBUTING.md) and silently
+    excludes a whole job's worth is exactly the kind of omission AGENTS.md's overriding
+    rule forbids: reported nowhere is not the same as checked and found green. Nightly
+    gates surface under their own `generated-views-nightly` shard_job label in --list
+    and --run output -- never merged into a shard-N bucket -- so a reader can still see
+    at a glance which gates the PR-tier manifest actually costs and bin-packs and which
+    it doesn't."""
     workflow_path = workflow_path or WORKFLOW
     doc = shard._yaml_load_workflow(workflow_path.read_text())
     steps_by_shard = shard.gate_steps_by_shard(doc)
@@ -98,6 +146,8 @@ def load_gates(workflow_path=None) -> list:
     for job_id in shard.shard_job_ids(doc):
         for name, run_cmd in steps_by_shard.get(job_id, []):
             gates.append(Gate(name=name, shard_job=job_id, run_cmd=run_cmd))
+    for name, run_cmd in shard.gate_steps_for_job(doc, shard.NIGHTLY_JOB):
+        gates.append(Gate(name=name, shard_job=shard.NIGHTLY_JOB, run_cmd=run_cmd))
     return gates
 
 
@@ -106,6 +156,10 @@ def run_gate(gate: Gate, timeout=DEFAULT_TIMEOUT_SECONDS) -> GateResult:
     boundary, not a mock of one). Never raises -- every way a gate can fail to even start
     is caught and reported as status "error", distinct from "fail" (ran, disagreed)."""
     start = time.monotonic()
+    missing = _missing_script(gate.run_cmd)
+    if missing is not None:
+        return GateResult(gate, "error", time.monotonic() - start,
+                           f"could not run: python3 script does not exist: {missing}")
     try:
         proc = subprocess.run(
             gate.run_cmd, shell=True, cwd=REPO_ROOT,
@@ -185,6 +239,15 @@ def cmd_run(gates, jobs=1, timeout=DEFAULT_TIMEOUT_SECONDS) -> int:
     results = run_all(gates, jobs=jobs, timeout=timeout)
     total = time.monotonic() - start
 
+    # run_all reports the parallel-regular phase and the serial --selftest phase back to
+    # back, so a straight loop over `results` prints every shard TWICE, split across a
+    # boundary this output never names (#331). Reorder to the input `gates` order (the
+    # same order --list prints) instead -- a reader diffing this run against --list then
+    # sees one pass, shard by shard, matching what they already expect, and the phase
+    # split stops being something they have to reverse-engineer from repeated shard names.
+    by_gate_id = {id(r.gate): r for r in results}
+    results = [by_gate_id[id(g)] for g in gates]
+
     for r in results:
         label = {"pass": "PASS ", "fail": "FAIL ", "error": "ERROR"}[r.status]
         print(f"{label} {r.gate.name}  ({r.gate.shard_job}, {r.seconds:.2f}s)")
@@ -199,6 +262,11 @@ def cmd_run(gates, jobs=1, timeout=DEFAULT_TIMEOUT_SECONDS) -> int:
     print(f"\n==== {len(results)} gate(s) across "
           f"{len({r.gate.shard_job for r in results})} shard(s) in {total:.1f}s ====")
     print(f"{len(passed)} passed, {len(failed)} failed, {len(errored)} could not be run.")
+    if jobs > 1:
+        print(f"NOTE: ran with -j {jobs} -- the seconds printed above are CONTENDED wall-clock "
+              f"time, not gate cost (measured 3.2x inflation at oversubscription, #331). Do not "
+              f"copy them into .github/generated-views-manifest.yml's cost column; re-run with "
+              f"-j 1 (the default) first if you need real per-gate numbers.")
 
     if failed or errored:
         print("\nFAILING / COULD-NOT-RUN GATES, named together (not just the first):")
@@ -253,6 +321,23 @@ def _rule_could_not_run_is_distinct_from_failed():
         return (f"FAIL could-not-run-is-distinct: an ordinary nonzero exit reported "
                 f"{results.get('ordinary-fail')!r}, wanted 'fail' -- 'error' must not "
                 f"swallow real failures too")
+    return None
+
+
+def _rule_missing_python_script_is_error():
+    """The realistic "could not run" shape for THIS repo (#330): almost every real gate is
+    `python3 src/<script>.py ...`, not a bare missing binary -- `this-binary-does-not-
+    exist-zzz` above proves the 126/127 path but is a command shape no real gate has.
+    A script path that does not exist must report 'error', the same as a missing binary,
+    never 'fail' -- python3 itself exiting 2 for "can't open file" must not be folded in
+    with a gate script's own ordinary nonzero exit."""
+    gate = _fake_gate("missing-python-script",
+                       "python3 src/this_script_does_not_exist_selftest.py --check")
+    result = run_gate(gate)
+    if result.status != "error":
+        return (f"FAIL missing-python-script-is-error: a missing python3 script reported "
+                 f"{result.status!r}, wanted 'error' -- exit code alone cannot tell this "
+                 f"apart from the script's own ordinary failure")
     return None
 
 
@@ -317,6 +402,7 @@ def selftest() -> int:
     checks = [
         ("does-not-stop-at-first-failure", _rule_does_not_stop_at_first_failure),
         ("could-not-run-is-distinct-from-failed", _rule_could_not_run_is_distinct_from_failed),
+        ("missing-python-script-is-error", _rule_missing_python_script_is_error),
         ("zero-gates-is-a-failure", _rule_zero_gates_is_a_failure),
     ]
     fails = []
