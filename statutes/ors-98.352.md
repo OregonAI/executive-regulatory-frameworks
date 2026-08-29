@@ -31,6 +31,10 @@ relationships:
   implements: []
   implemented_by:
     - oam-10-40-00
+    - oar-170-145-0015
+    - oar-170-145-0020
+    - oar-170-145-0025
+    - oar-471-070-1465
   references_external: []
   related: []
   supersedes: []

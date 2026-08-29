@@ -31,6 +31,7 @@ relationships:
   implements: []
   implemented_by:
     - oar-150-317-1020
+    - oar-150-317-1023
     - oar-150-317-1025
     - oar-150-317-1200
     - oar-150-317-1320

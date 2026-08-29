@@ -31,6 +31,13 @@ relationships:
   implements: []
   implemented_by:
     - oar-340-256-0010
+    - oar-340-256-0500
+    - oar-340-256-0510
+    - oar-340-256-0520
+    - oar-340-256-0530
+    - oar-340-256-0540
+    - oar-340-256-0550
+    - oar-340-256-0560
   references_external: []
   related: []
   supersedes: []

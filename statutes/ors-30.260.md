@@ -30,6 +30,17 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
+    - oar-413-330-1100
+    - oar-413-330-1105
+    - oar-413-330-1110
+    - oar-413-330-1115
+    - oar-413-330-1120
+    - oar-413-330-1125
+    - oar-413-330-1130
+    - oar-413-330-1135
+    - oar-413-330-1140
+    - oar-413-330-1145
+    - oar-413-330-1150
     - oya-i-a-4-0
   references_external: []
   related: []

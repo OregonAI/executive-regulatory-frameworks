@@ -26,10 +26,15 @@ verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements:
+    - oar-847-010-0130
     - oar-851-045-0030
     - oar-851-045-0040
     - oar-851-045-0050
     - oar-851-045-0060
+    - oar-851-045-0062
+    - oar-851-045-0063
+    - oar-851-045-0064
+    - oar-851-045-0065
     - oar-851-045-0070
     - oar-851-045-0090
     - oar-851-045-0100

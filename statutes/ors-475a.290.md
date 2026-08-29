@@ -29,7 +29,13 @@ verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by: []
+  implemented_by:
+    - oar-333-333-2010
+    - oar-333-333-2020
+    - oar-333-333-2040
+    - oar-333-333-4060
+    - oar-333-333-4110
+    - oar-333-333-4130
   references_external: []
   related: []
   supersedes: []

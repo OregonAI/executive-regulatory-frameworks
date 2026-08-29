@@ -31,6 +31,8 @@ relationships:
   implements: []
   implemented_by:
     - oar-230-030-0200
+    - oar-259-059-0010
+    - oar-259-059-0020
     - oar-259-060-0010
     - oar-259-060-0136
   references_external: []

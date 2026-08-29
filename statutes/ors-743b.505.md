@@ -32,7 +32,11 @@ relationships:
   implemented_by:
     - oar-836-053-0300
     - oar-836-053-0310
+    - oar-836-053-0325
+    - oar-836-053-0335
+    - oar-836-053-0345
     - oar-836-053-0350
+    - oar-836-053-0355
   references_external: []
   related: []
   supersedes: []

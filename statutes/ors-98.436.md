@@ -30,6 +30,10 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
+    - oar-170-145-0005
+    - oar-170-145-0010
+    - oar-170-145-0045
+    - oar-170-145-0100
     - oar-291-158-0015
     - oha-osh-4-011
   references_external: []

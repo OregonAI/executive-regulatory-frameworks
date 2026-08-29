@@ -30,7 +30,11 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
+    - oar-123-650-0105
+    - oar-123-650-9500
+    - oar-123-650-9600
     - oar-123-662-2000
+    - oar-123-662-2100
     - oar-123-668-1600
     - oar-123-668-1700
     - oar-123-674-0700
@@ -46,6 +50,7 @@ relationships:
     - oar-123-674-3500
     - oar-123-674-3700
     - oar-123-674-4000
+    - oar-123-674-5050
     - oar-150-285-3100
   references_external: []
   related: []

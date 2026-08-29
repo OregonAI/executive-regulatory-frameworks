@@ -26,6 +26,10 @@ verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements:
+    - oar-416-106-0010
+    - oar-416-106-0020
+    - oar-416-106-0030
+    - oar-416-106-0040
     - ors-147.405
     - ors-147.421
     - ors-419c.450

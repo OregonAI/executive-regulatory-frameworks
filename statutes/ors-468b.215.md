@@ -31,8 +31,10 @@ relationships:
   implements: []
   implemented_by:
     - oar-603-074-0010
+    - oar-603-074-0011
     - oar-603-074-0012
     - oar-603-074-0018
+    - oar-603-074-0019
     - oar-603-074-0020
   references_external: []
   related: []

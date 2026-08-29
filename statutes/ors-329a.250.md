@@ -32,8 +32,13 @@ relationships:
   implemented_by:
     - eo-20-12
     - eo-20-19
+    - oar-414-305-0100
+    - oar-414-305-0110
+    - oar-414-305-0120
+    - oar-414-305-1620
     - oar-414-425-0040
     - oar-414-450-0040
+    - oar-660-012-0430
   references_external: []
   related: []
   supersedes: []
