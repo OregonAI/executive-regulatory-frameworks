@@ -6,9 +6,15 @@
 THE PROMOTION HALF OF ADR 0003's RENAME, AND THE HONESTY IT COSTS. `expand_oar_name.py` did
 the first half: the OAR chapter title landed in `oar_name` while `name` still held it too,
 so consumers could move off `name` before it changed meaning. #187 moved the last two
-OAR-derived joins. This is what is left — `name` is the STATUTORY name now (ADR 0003), and
-190 rows are carrying a rules-index title under a field that says otherwise (#279,
-re-measured for #281).
+OAR-derived joins. This is what is left — `name` is the STATUTORY name now (ADR 0003).
+
+**Name-basis backlog**: 185 <!--census:agencies.name_unverified-oar-title--> rows are
+carrying a rules-index title under a field that says otherwise (#279, re-measured for #281,
+and gated here rather than hand-corrected a third time: #299 found this count and the two
+below stale again, the same shape `src/stated_census.py` (#306) already exists to keep
+honest -- applied here to a docstring, not only to CONTEXT.md's glossary, since the mechanism
+never asked for markdown, only an anchored `**Term**:` block, and this docstring can carry
+one as well as any other document can).
 
 WHAT THIS SCRIPT DOES NOT DO IS INVENT ONE. Establishing a body's statutory name means
 reading the authority that created it, and that is human work recorded in
@@ -25,11 +31,21 @@ keeps for an unmapped DAS number (`link_budget_codes.py`), for an absent enablin
 (CONTEXT.md: absence is never the claim that a body has none) and for a relation nobody has
 decided the kind of (`undetermined`). This field is that rule applied to the name.
 
+## the first figure below is gated separately, by catalog_agencies.py's own
+## `chapter-page-count-current` rule (#279), which requires this exact adjacency
+## ("re-fetches ... N chapter pages" on one line) -- left un-tagged and outside any
+## `**Term**:` block on purpose, so `stated_census.py` does not ALSO gate a figure
+## that already has a dedicated, working check reading this same sentence. The two
+## figures restating that fact below (170 of how many, 190 of what) are NOT covered by
+## that rule -- CHAPTER_PAGE_COUNT_RE reads only the first line -- so they are tagged
+## to the same census instead, rather than left for a sixth hand sweep to find stale.
 WHY A SCRIPT AND NOT A --refresh, for the reason `expand_oar_name.py` gives: a refresh
-re-fetches all 170 chapter pages and rewrites every row from what the mirror serves today
-— 170, not this registry's 190 total rows (#279, re-measured for #281), for the same
-reason and checked the same way `expand_oar_name.py`'s docstring is (#279) — and adding a
-key to committed data is not a
+re-fetches all 170 chapter pages and rewrites every row from what the mirror serves today.
+
+**Refresh footprint vs. registry size**: 170 <!--census:agencies.chapter_chaptered--> of
+this registry's 190 <!--census:agencies.chapter_total--> total rows (#279, re-measured for
+#281), for the same reason and checked the same way `expand_oar_name.py`'s docstring is
+(#279) — and adding a key to committed data is not a
 reason to re-open what every other field says. `catalog_agencies.py --refresh` writes this
 key from now on, because `scraped_entry()` does.
 
@@ -41,11 +57,15 @@ states is one the row can support, are rules of the registry's contract, gated o
 `catalog_agencies.py --check`. A fact stated by two gates is a fact that can be true in one
 and false in the other.
 
-WHY EVERY ROW, INCLUDING THE MANUAL ONES, and including the 107 that carry a reviewed
-enabling authority. Carrying an authority is not the same as having read a name off it: the
-authority answers "what created this body", and the name answers "what does that authority
-call it". 107 rows can now be reviewed for the second question; none of them has been by this
-script, and recording them as anything but unverified would credit a review nobody did.
+**Name-basis backlog (reviewed authorities)**: 114
+<!--census:agencies.authority_recorded--> rows carry a reviewed enabling authority,
+including all of the manual ones. Carrying an authority is not the same as having read a
+name off it: the authority answers "what created this body", and the name answers "what
+does that authority call it". 114 <!--census:agencies.authority_recorded--> rows can now be
+reviewed for the second question; none of them has been by this script, and recording them
+as anything but unverified would credit a review nobody did.
+
+## end of gated prose -- everything below this line is code, not a stated figure
 """
 import sys
 

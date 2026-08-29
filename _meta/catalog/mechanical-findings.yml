@@ -7,7 +7,7 @@ note: 'Conflict candidates decidable BY CODE — no model involved. A hand-label
   of things to actually resolve, and they are heavily concentrated, so the top handful clear thousands
   of documents. The magnitude is expected: Oregon has renumbered wholesale (ORS 181 to 181A in 2015, ORS
   279 split into 279A/B/C in 2003, the 2015 higher-education restructuring), and every rule written before
-  those still cites the old numbers. A decades-spanning corpus of 36,953 rules showing NO stale citations
+  those still cites the old numbers. A decades-spanning corpus of 42,561 rules showing NO stale citations
   would be the surprising result. Verified against the live source: six sampled flagged sections were
   all genuinely absent, and a live control section was correctly not flagged. Everything here is a CANDIDATE,
   not a finding, and not legally reviewed. The model''s budget belongs on the other 71% — what a rule

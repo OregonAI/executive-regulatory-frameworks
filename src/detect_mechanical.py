@@ -49,6 +49,15 @@ no effective_date at all — only source_version and status — so a from-scratc
 here silently returned zero every time. freshness.json already derives rule year vs
 statute amendment year, and is CI-gated for freshness.
 
+REGENERATION ORDER MATTERS (#326). `build_freshness_data.py --write` must run BEFORE this
+script's own --write, since this reads freshness.json's content rather than recomputing it
+-- writing this catalog against a freshness.json that is about to be regenerated commits a
+catalog that already disagrees with the file sitting beside it. The --check gates catch it
+either way (this one goes stale the moment freshness.json's content moves, same as
+`build_conflict_candidates_data.py`'s note about `detect_mechanical.py` itself), but the
+correct order is: build_freshness_data --write, then this. `build_governor_priorities_
+data.py` reads the same cache the same way and carries the identical note.
+
   python3 src/detect_mechanical.py --check all
   python3 src/detect_mechanical.py --check xref --limit 4000
   python3 src/detect_mechanical.py --check all --out _meta/.cache/mechanical.json
@@ -207,7 +216,8 @@ def render_catalog(res: dict, n_scanned: int) -> str:
             "Oregon has renumbered wholesale (ORS 181 to 181A in 2015, ORS 279 split into "
             "279A/B/C in 2003, the 2015 higher-education restructuring), and every rule "
             "written before those still cites the old numbers. A decades-spanning corpus "
-            "of 36,953 rules showing NO stale citations would be the surprising result. "
+            f"of {n_scanned:,} rules showing NO stale citations would be the surprising "
+            "result. "
             "Verified against the live source: six sampled flagged sections were all "
             "genuinely absent, and a live control section was correctly not flagged. "
             f"Everything here is a CANDIDATE, not a finding, and not legally "
