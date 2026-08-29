@@ -31,16 +31,21 @@ keeps for an unmapped DAS number (`link_budget_codes.py`), for an absent enablin
 (CONTEXT.md: absence is never the claim that a body has none) and for a relation nobody has
 decided the kind of (`undetermined`). This field is that rule applied to the name.
 
-## the next figure is gated separately, by catalog_agencies.py's own
+## the first figure below is gated separately, by catalog_agencies.py's own
 ## `chapter-page-count-current` rule (#279), which requires this exact adjacency
 ## ("re-fetches ... N chapter pages" on one line) -- left un-tagged and outside any
 ## `**Term**:` block on purpose, so `stated_census.py` does not ALSO gate a figure
-## that already has a dedicated, working check reading this same sentence.
+## that already has a dedicated, working check reading this same sentence. The two
+## figures restating that fact below (170 of how many, 190 of what) are NOT covered by
+## that rule -- CHAPTER_PAGE_COUNT_RE reads only the first line -- so they are tagged
+## to the same census instead, rather than left for a sixth hand sweep to find stale.
 WHY A SCRIPT AND NOT A --refresh, for the reason `expand_oar_name.py` gives: a refresh
-re-fetches all 170 chapter pages and rewrites every row from what the mirror serves today
-— 170, not this registry's 190 total rows (#279, re-measured for #281), for the same
-reason and checked the same way `expand_oar_name.py`'s docstring is (#279) — and adding a
-key to committed data is not a
+re-fetches all 170 chapter pages and rewrites every row from what the mirror serves today.
+
+**Refresh footprint vs. registry size**: 170 <!--census:agencies.chapter_chaptered--> of
+this registry's 190 <!--census:agencies.chapter_total--> total rows (#279, re-measured for
+#281), for the same reason and checked the same way `expand_oar_name.py`'s docstring is
+(#279) — and adding a key to committed data is not a
 reason to re-open what every other field says. `catalog_agencies.py --refresh` writes this
 key from now on, because `scraped_entry()` does.
 

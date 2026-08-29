@@ -40,7 +40,7 @@ GRAPH = REPO_ROOT / "_meta/graph.json"
 FRESHNESS = REPO_ROOT / "_meta/freshness.json"  # reused for the exact corpus-wide OAR
                                                  # recent-activity baseline (already computes
                                                  # every rule's effective year; no need to
-                                                 # re-scan all 36,953 rule files here too)
+                                                 # re-scan all 42,561 rule files here too)
 THIS_YEAR = date.today().year
 
 

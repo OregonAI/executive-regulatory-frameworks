@@ -77,27 +77,30 @@ jobs:
   # manifest entry, `llms.txt must be current, and name every chapter we mirror`
   # (86.7s, the combined measured cost -- build_llms.py's build() walks the whole
   # corpus and used to pay that cost twice as two separate CI steps, ~173.6s). Current
-  # total, AT THAT POINT: 64 PR-tier gates, 673.5s serial, 12.23 min, makespan (slowest
+  # total, AT THAT POINT: 64 PR-tier gates, 673.5s serial, 11.22 min, makespan (slowest
   # shard) 141.9s local, ~4.0 CI-minutes at the measured 1.7x slowdown -- against the old
   # job's 38.8 CI-minutes, and flat as gates are added from here, since wall-clock is set
   # by the slowest shard rather than the sum of all of them.
   #
-  # RE-MEASURED 2026-08-29 (#310): this aggregate had drifted 18-21% low, unnoticed,
-  # because nothing compared it against `.github/generated-views-manifest.yml` --
+  # RE-MEASURED 2026-08-29 (#310): this aggregate had drifted low, unnoticed, because
+  # nothing compared it against `.github/generated-views-manifest.yml` --
   # `src/shard_generated_views.py --check` (the gate that runs on every PR) verifies gate
   # NAMES and SHARD PLACEMENT against the manifest, never this free-text total. Current:
   # 71 PR-tier gates, 858.8s serial, 14.3 min (`python3 -c "import yaml;
   # d=yaml.safe_load(open('.github/generated-views-manifest.yml'));
-  # print(len(d['gates']), sum(g['seconds'] for g in d['gates']))"`). Makespan is the
-  # slowest ACTUAL shard below, not `--plan 5`'s re-optimized bin-packing (which would get
-  # it to ~171.8s if the shards below were rebalanced to match it, and are not) -- today
-  # that is shard-4 at 222.7s local, ~6.3 CI-minutes at the same 1.7x. Hand-recomputed
-  # rather than gated: this comment states a fact about the whole file's shard PLACEMENT
-  # (its own header plus every shard job's), not a single measurement a `<!--census:ns.
-  # key-->` tag can point at, and `stated_census.py` gates prose read as one document's
-  # text, not a workflow's parsed job structure -- see #310 for why folding this into
-  # `shard_generated_views.py --check` instead, so it can never drift again, was judged
-  # worth its own change rather than this one's.
+  # print(len(d['gates']), sum(g['seconds'] for g in d['gates']))"`) -- 9.9% low on gate
+  # count, 21.6% low on total seconds, against the "AT THAT POINT" figures above. Makespan
+  # is the slowest ACTUAL shard below, not `--plan 5`'s re-optimized bin-packing (which
+  # would get it to ~171.8s if the shards below were rebalanced to match it, and are not)
+  # -- today that is shard-4 at 222.7s local, ~6.3 CI-minutes at the same 1.7x, 36.3% low
+  # against the "141.9s" above and the actual driver of CI wall-clock, so the drift on
+  # gate count and seconds understates the one number that matters most here. Hand-
+  # recomputed rather than gated: this comment states a fact about the whole file's shard
+  # PLACEMENT (its own header plus every shard job's), not a single measurement a
+  # `<!--census:ns.key-->` tag can point at, and `stated_census.py` gates prose read as
+  # one document's text, not a workflow's parsed job structure -- see #310 for why folding
+  # this into `shard_generated_views.py --check` instead, so it can never drift again, was
+  # judged worth its own change rather than this one's.
   #
   # BUDGET AS A RED GATE, NOT A CANCELLATION (#268's explicit ask): every gate step below
   # carries its own `timeout-minutes`, computed from its measured seconds with a generous
@@ -268,7 +271,7 @@ jobs:
       # produced it and when. The staleness rule is the one with teeth — a worklist
       # whose bulletin predates the OAR group's own last look upstream has left filings
       # unread, and a repeal among them is served here as though nothing had happened.
-      # ~4 s over all 36,953 rules; reads committed data only, no network — the fetching
+      # ~4 s over all 42,561 rules; reads committed data only, no network — the fetching
       # stays behind the mode that already did it.
       - name: Bulletin worklist must hold up against the corpus
         timeout-minutes: 2
@@ -330,7 +333,8 @@ jobs:
 
   generated-views-shard-2:
     runs-on: ubuntu-latest
-    # 16 gate(s), 147.3s measured locally (warm checkout, re-measured 2026-08-29, #310) --
+    # 16 gate(s), 147.3s (sum of the manifest's committed per-gate seconds, corrected in
+    # this header 2026-08-29, #310 -- not a fresh local run: see manifest header date) --
     # see .github/generated-views-manifest.yml.
     # 45: see shard-1's comment -- comfortably above this shard's own summed per-step budget.
     timeout-minutes: 45
@@ -458,7 +462,8 @@ jobs:
 
   generated-views-shard-3:
     runs-on: ubuntu-latest
-    # 11 gate(s), 204.9s measured locally (warm checkout, re-measured 2026-08-29, #310) --
+    # 11 gate(s), 204.9s (sum of the manifest's committed per-gate seconds, corrected in
+    # this header 2026-08-29, #310 -- not a fresh local run: see manifest header date) --
     # see .github/generated-views-manifest.yml.
     # 35: see shard-1's comment -- comfortably above this shard's own summed per-step budget.
     timeout-minutes: 35
@@ -667,7 +672,7 @@ jobs:
         run: python3 src/link_graph.py --check
       # The OAR honesty field (#78): every rule must say whether upstream drift
       # detection actually covers it (`manifest`) or nothing does (`none`), and the
-      # values must match _meta/sources/oar.yml. ~2 s over all 36,953 rules.
+      # values must match _meta/sources/oar.yml. ~2 s over all 42,561 rules.
       - name: OAR upstream_tracking field must match the source manifest
         timeout-minutes: 2
         run: python3 src/mark_upstream_tracking.py --check
@@ -730,7 +735,7 @@ jobs:
       # finds far more of them than the models did — the pilot reported 21 dead citations
       # in total, this scan finds 5,734. It was written, worked, and was wired into
       # nothing; the artifact could drift from the corpus indefinitely with no signal.
-      # 55 seconds over all 36,953 rules, no network, no model.
+      # 55 seconds over all 42,561 rules, no network, no model.
       - name: Mechanical conflict findings must be current
         timeout-minutes: 5
         run: python3 src/detect_mechanical.py --check
