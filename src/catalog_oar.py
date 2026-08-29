@@ -81,6 +81,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import yaml
 
+from ingest_status import INGEST_STATUS_VALUES
 from repo_lib import REPO_ROOT, Checks, division_status
 
 OARD_BASE = "https://secure.sos.state.or.us/oard"
@@ -716,27 +717,28 @@ def cmd_discover(only: list):
               f"{', '.join(ch for ch, _ in failed)}")
 
 
-# The per-rule `status` vocabulary this catalog declares (CONTEXT.md's "Ingest status"):
-# `ingested`, `not_ingested`, `renumbered` (carries `served_as`), `not_served`. A rule is
-# awaiting import when its status SAYS so, never when it merely fails to say `ingested` --
-# #282 found `--summary`'s "to import" computed as `total - ingested`, which counted
-# `renumbered` and `not_served` rows (recorded WITH A REASON precisely because they will
-# never be imported) as outstanding work, overcounting by 533 on the catalog measured
-# 2026-08-28. `ingest_oar.py` can also write a fifth value, `not_sliceable`, that this
-# glossary entry does not name (filed as #297) -- it is the same shape of reasoned-away
-# row and must not be counted as pending either, so counting below is done directly
-# against this closed allowlist rather than by subtraction, and anything the allowlist
-# does not name is surfaced by its own name instead of being folded into either bucket.
-RULE_STATUSES = ("ingested", "not_ingested", "renumbered", "not_served")
+# The per-rule `status` vocabulary this catalog declares (CONTEXT.md's "Ingest status") is
+# NOT DECLARED HERE (#333, closing #297): `ingest_status.INGEST_STATUS_VALUES` is the one
+# declaration, gated against what `ingest_oar.py` and this module actually write
+# (`ingest_status.py --check`), and this used to be a second, narrower copy of it --
+# `ingested`, `not_ingested`, `renumbered`, `not_served` only, four of the six words the
+# pipeline writes, missing `not_sliceable` and `needs_registry` (ingest_oar.py writes both).
+# A rule is awaiting import when its status SAYS so, never when it merely fails to say
+# `ingested` -- #282 found `--summary`'s "to import" computed as `total - ingested`, which
+# counted `renumbered` and `not_served` rows (recorded WITH A REASON precisely because they
+# will never be imported) as outstanding work, overcounting by 533 on the catalog measured
+# 2026-08-28. Counting below is done directly against the full six-word allowlist rather
+# than by subtraction, and anything the allowlist does not name is surfaced by its own name
+# instead of being folded into either bucket.
 
 
 def status_counts(cat):
     """Tally every catalogued rule number by its own `status`, counting the thing each
     bucket names rather than deriving one bucket from a total. Returns a dict keyed by
-    every value in `RULE_STATUSES`, plus `total` (every rule row seen) and `other` (a
-    Counter of any status outside that vocabulary -- empty on a catalog that matches
+    every value in `INGEST_STATUS_VALUES`, plus `total` (every rule row seen) and `other`
+    (a Counter of any status outside that vocabulary -- empty on a catalog that matches
     CONTEXT.md's declared vocabulary, which today's committed catalog does)."""
-    counts = {s: 0 for s in RULE_STATUSES}
+    counts = {s: 0 for s in INGEST_STATUS_VALUES}
     other = Counter()
     total = 0
     for c in cat["chapters"]:
@@ -760,11 +762,21 @@ def summary_total_line(n_chapters, counts):
     selftest check exercised `status_counts`, and nothing exercised this line -- reverting
     ONLY this f-string to the pre-#282 arithmetic (`total - ingested`) left `--selftest`
     green while `--summary` printed the exact #282 bug again, verbatim. This function is
-    now the thing under test, not a copy of it."""
+    now the thing under test, not a copy of it.
+
+    NAMES ALL SIX WORDS, not the four `RULE_STATUSES` used to name before #333. A
+    `not_sliceable` or `needs_registry` row is counted into `status_counts()`'s dict by
+    that ticket, which is exactly what makes it stop being an `other` row -- and a row this
+    line does not also print BY NAME has been counted somewhere with no visible trace of
+    it, a strictly worse version of the #282/#297 failure this ticket exists to end (found
+    by code review of #333, over a fixture carrying one row of each: both counted, neither
+    printed here nor in `summary_other_line`, which only reports `other`)."""
     return (f"TOTAL: {n_chapters} chapters, {counts['total']} rules, "
             f"{counts['ingested']} ingested, {counts['not_ingested']} to import "
-            f"-- {counts['renumbered']} renumbered and {counts['not_served']} not served, "
-            f"recorded with a reason and never counted as pending (#282)")
+            f"-- {counts['renumbered']} renumbered, {counts['not_served']} not served, "
+            f"{counts['not_sliceable']} not sliceable and {counts['needs_registry']} "
+            f"needing registry work, every one recorded with a reason and never counted "
+            f"as pending (#282, #333)")
 
 
 def summary_other_line(counts):
@@ -772,9 +784,10 @@ def summary_other_line(counts):
     only `if counts["other"]` -- catalog_agencies.py's `tally()` names this rule
     ("NAME THE ZEROES") for exactly this reason: a bucket silently skipped when it holds
     zero looks identical to a bucket nobody thought to report. Names the declared
-    vocabulary as a plain list rather than interpolating `RULE_STATUSES` (a raw tuple
-    repr, `('ingested', 'not_ingested', ...)`, is not something a human reader asked for)."""
-    vocab = ", ".join(RULE_STATUSES)
+    vocabulary as a plain list rather than interpolating `INGEST_STATUS_VALUES` (a raw
+    tuple repr, `('ingested', 'not_ingested', ...)`, is not something a human reader asked
+    for)."""
+    vocab = ", ".join(INGEST_STATUS_VALUES)
     other_total = sum(counts["other"].values())
     if not other_total:
         return f"0 rule(s) carry a status outside the declared vocabulary ({vocab})"
@@ -1166,30 +1179,64 @@ def selftest() -> int:
 
     # #282: "to import" MUST count rows whose status SAYS they await import, never rows
     # left over after subtracting `ingested` from a total drawn from a wider vocabulary.
-    # One row of every declared status, plus one `not_sliceable` -- `ingest_oar.py` writes
-    # that fifth value onto this same field and it is reasoned-away exactly like
-    # `renumbered`/`not_served`, so it must land in `other`, not silently become
-    # "not_ingested" or vanish from the total.
+    # One row of every declared status -- the SIX `ingest_status.INGEST_STATUS_VALUES`
+    # words, not the four `RULE_STATUSES` used to name (#333, closing #297: `not_sliceable`
+    # and `needs_registry` are now declared, so both must be counted BY NAME below and land
+    # in neither `not_ingested` nor `other`) -- plus one genuinely undeclared word
+    # (`quarantined`), which must still be the only thing `other` reports.
+    #
+    # `quarantined` is assigned through a variable, not a `"status": "quarantined"` literal
+    # -- `ingest_status.ingest_vocabulary()` scans this module's OWN source file for the
+    # words the real pipeline writes (`DISCOVERER = catalog_oar.py`, since #276), file-wide,
+    # not scoped to any one function. A literal fixture word here would read to that scan
+    # exactly like a real write site, which is the same narrowing `legal_status.py`'s own
+    # scan documents ("a status held in a variable and assigned from somewhere else passes
+    # it") -- watched firing once while writing this fixture: `ingest_status.py --check`
+    # failed against the real ingest_oar.py/catalog_oar.py the moment this word was a bare
+    # string literal here, over a corpus this test never touches.
+    _undeclared_test_word = "quarantined"
+    # THE SAME NARROWING, APPLIED TO EVERY DECLARED WORD TOO -- not only the undeclared
+    # one. Found by code review of #333: with `needs_registry` written as a bare
+    # `"status": "needs_registry"` literal below, `ingest_status.ingest_vocabulary()`'s
+    # file-wide scan of `catalog_oar.py` (`DISCOVERER`) reads this SELFTEST FIXTURE as a
+    # live write site indistinguishable from a real one -- retiring `ingest_oar.py`'s
+    # only actual `needs_registry` write site left `ingest_status.py --check` green,
+    # because this fixture alone kept the word looking written. Demonstrated: with the
+    # literal in place, changing `ingest_oar.py`'s one real `needs_registry` write to
+    # write an already-declared word instead still reported "6 ingest-status word(s)
+    # declared, matching what ... write" (rc=0) -- a retired write site invisible to the
+    # gate meant to catch exactly that. Every declared word below is therefore assigned
+    # through its own variable first, same as `_undeclared_test_word` above, so none of
+    # them is a literal for the scan to find.
+    _fixture_ingested = "ingested"
+    _fixture_not_ingested = "not_ingested"
+    _fixture_renumbered = "renumbered"
+    _fixture_not_served = "not_served"
+    _fixture_not_sliceable = "not_sliceable"
+    _fixture_needs_registry = "needs_registry"
     status_cat = {"chapters": [{"chapter": "1", "title": "T", "divisions": [
         {"division": "1", "rules": [
-            {"number": "1-001-0001", "status": "ingested"},
-            {"number": "1-001-0002", "status": "not_ingested"},
-            {"number": "1-001-0003", "status": "renumbered", "served_as": "1-001-0009"},
-            {"number": "1-001-0004", "status": "not_served"},
-            {"number": "1-001-0005", "status": "not_sliceable"},
+            {"number": "1-001-0001", "status": _fixture_ingested},
+            {"number": "1-001-0002", "status": _fixture_not_ingested},
+            {"number": "1-001-0003", "status": _fixture_renumbered,
+             "served_as": "1-001-0009"},
+            {"number": "1-001-0004", "status": _fixture_not_served},
+            {"number": "1-001-0005", "status": _fixture_not_sliceable},
+            {"number": "1-001-0006", "status": _fixture_needs_registry},
+            {"number": "1-001-0007", "status": _undeclared_test_word},
         ]}]}]}
     counts = status_counts(status_cat)
     check("every rule in the fixture is counted exactly once",
-          counts["total"] == 5)
-    # RED, WATCHED AGAINST THE ACTUAL PRE-FIX ARITHMETIC: `total - ingested` is literally
-    # what `cmd_summary` printed as "to import" before this change (git blame this file at
-    # #282). Reproduced inline, over this fixture, to prove the failure mode is real and
-    # not asserted -- it counts renumbered, not_served AND not_sliceable as awaiting
-    # import, all three of which carry a reason they never will be.
+          counts["total"] == 7)
+    # RED, WATCHED AGAINST THE ACTUAL PRE-#282 ARITHMETIC: `total - ingested` is literally
+    # what `cmd_summary` printed as "to import" before that fix (git blame this file).
+    # Reproduced inline, over this fixture, to prove the failure mode is real and not
+    # asserted -- it counts renumbered, not_served, not_sliceable, needs_registry AND the
+    # undeclared `quarantined` row as awaiting import, none of which will ever be.
     naive_to_import = counts["total"] - counts["ingested"]
-    check("RED: the pre-#282 formula (total - ingested) overcounts by every reasoned-away "
-          "row -- 3 rows recorded as never-importable, counted as pending anyway",
-          naive_to_import == 4)
+    check("RED: the pre-#282 formula (total - ingested) overcounts by every row that is "
+          "not literally 'ingested' -- 6 rows counted as pending, only 1 actually is",
+          naive_to_import == 6)
     check("...while only the row whose status actually SAYS not_ingested is 1",
           counts["not_ingested"] == 1)
     check("GREEN: status_counts reports the correct 'to import' figure directly",
@@ -1198,15 +1245,24 @@ def selftest() -> int:
           counts["renumbered"] == 1)
     check("a not_served row is never counted as awaiting import",
           counts["not_served"] == 1)
-    check("a status this vocabulary does not declare (not_sliceable) is reported by name, "
-          "not folded into not_ingested or dropped from the total",
-          counts["other"] == {"not_sliceable": 1})
+    # #333's OWN FINDING, CAPTURED AS A PROOF: before this ticket these two rows fell into
+    # `other` (the four-word `RULE_STATUSES` did not declare them) -- measured against the
+    # real committed catalog to be zero rows either way (2026-08-29), but the BUCKET a row
+    # with either word lands in changes here, which is exactly the drift #282 already hit
+    # once for a different word.
+    check("a not_sliceable row is now counted BY NAME, not folded into 'other'",
+          counts["not_sliceable"] == 1)
+    check("...and so is a needs_registry row",
+          counts["needs_registry"] == 1)
+    check("a status neither this module nor ingest_status.py declares (quarantined) is "
+          "still reported by name in 'other', not folded into not_ingested or dropped",
+          counts["other"] == {"quarantined": 1})
 
     # THE PRINTER ITSELF, not just status_counts() feeding it -- a code review of #282
     # found that every prior check above stopped at status_counts, so a regression back
     # to `total - ingested` inside summary_total_line would leave --selftest green while
     # --summary printed the bug again (reproduced: reverting only the f-string to
-    # `{counts['total'] - counts['ingested']} to import` prints "4 to import" on this
+    # `{counts['total'] - counts['ingested']} to import` prints "6 to import" on this
     # fixture and every check above still PASSes, because none of them call this
     # function). Asserted against the exact naive figure so a reversion is caught here.
     total_line = summary_total_line(1, counts)
@@ -1215,14 +1271,31 @@ def selftest() -> int:
           "total-minus-ingested figure the naive formula over this fixture would print "
           f"({naive_to_import})",
           "1 to import" in total_line and f"{naive_to_import} to import" not in total_line)
+    # FOUND BY CODE REVIEW OF #333: `not_sliceable` and `needs_registry` are counted into
+    # `status_counts()`'s dict by this ticket, which is exactly what stops either row from
+    # landing in `other` -- but nothing printed them BY NAME either, so both rows vanished
+    # from `--summary` entirely, reachable nowhere in its output. The check this replaced
+    # asserted the words appeared in `summary_other_line`'s output, which is true on ANY
+    # fixture regardless of these rows' counts (that line always interpolates the full
+    # vocabulary list) -- a proof that cannot fail is not a proof. Asserted here against
+    # the actual per-word COUNT in the line that reports it now.
+    check("summary_total_line names the not_sliceable row BY COUNT, not silently absorbed",
+          "1 not sliceable" in total_line)
+    check("...and the needs_registry row, the same way",
+          "1 needing registry work" in total_line)
 
     other_line = summary_other_line(counts)
-    check("summary_other_line names the not_sliceable row by value, not as a raw tuple "
+    check("summary_other_line names the quarantined row by value, not as a raw tuple "
           "repr of the declared vocabulary",
-          "not_sliceable" in other_line and "('ingested'" not in other_line)
+          "quarantined" in other_line and "('ingested'" not in other_line)
+    check("...and the declared vocabulary it interpolates into that line is the full six "
+          "words, not the four RULE_STATUSES used to declare before #333 (this is the "
+          "vocabulary LIST always printed there, not a claim these two rows are counted "
+          "in 'other' -- they are not; see summary_total_line above)",
+          "not_sliceable" in other_line and "needs_registry" in other_line)
 
-    # A catalog matching CONTEXT.md's declared vocabulary exactly (no not_sliceable rows,
-    # the shape of the real committed catalog measured 2026-08-28) reports no `other`.
+    # A catalog matching CONTEXT.md's declared vocabulary exactly (no undeclared rows, the
+    # shape of the real committed catalog measured 2026-08-29) reports no `other`.
     clean_cat = {"chapters": [{"chapter": "1", "title": "T", "divisions": [
         {"division": "1", "rules": [{"number": "1-001-0001", "status": "ingested"}]}]}]}
     clean_counts = status_counts(clean_cat)
@@ -1233,7 +1306,8 @@ def selftest() -> int:
     # zero nobody thought to report.
     check("summary_other_line names the zero rather than printing nothing for it",
           summary_other_line(clean_counts) == "0 rule(s) carry a status outside the "
-          "declared vocabulary (ingested, not_ingested, renumbered, not_served)")
+          "declared vocabulary (ingested, renumbered, not_ingested, not_served, "
+          "not_sliceable, needs_registry)")
 
     return check.report()
 

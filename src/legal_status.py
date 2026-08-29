@@ -110,8 +110,10 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import yaml
 
+import ingest_status
 from check_rule_ledger import RuleLedger
-from repo_lib import REPO_ROOT, Checks
+from ingest_status import HELD_INGEST_STATUSES, INGEST_STATUS_VALUES
+from repo_lib import REPO_ROOT, Checks, assigned_string_constants
 
 SRC = REPO_ROOT / "src"
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
@@ -124,34 +126,20 @@ LEGAL_STATUS_VALUES = ("current", "superseded", "repealed", "proposed", "draft")
 # What a fresh ingest may assert, and only where nothing better is known (step 4 above).
 UNKNOWN_BUT_SERVED = "current"
 
-# The OAR catalog's OWN `status` vocabulary -- ingest status, a claim about this mirror.
-# Declared here so `--check` can refuse either field holding the other's words, WHICH MAKES
-# IT THE SAME FACT WRITTEN IN TWO PLACES: `ingest_oar.py` writes these words and this is a
-# second copy of them, which is the shape this whole module exists to refuse. So it is not
-# trusted. `ingest-vocabulary-declared-once` reads what the ingester actually writes, out of
-# its syntax tree, and fails if the two sets differ -- the arrangement AGENTS.md already
-# describes for `CADENCES` versus the `recheck` enum and for `CURATED_KEYS` versus `FIELDS`,
-# where a value curated in one place and forgotten in the other is the failure. A word added
-# to the ingester is caught by that rule the moment it is added, and by
-# `ingest-status-is-known` again if it reaches the committed catalog first.
-INGEST_STATUS_VALUES = ("ingested", "renumbered", "not_served", "not_sliceable",
-                        "not_ingested", "needs_registry")
-
-# The ingest statuses that mean THIS MIRROR STILL HOLDS THE RULE. A Bulletin-set legal
-# status is a mark on a document that stays; a row carrying one while saying this mirror
-# no longer serves the rule is what DELETING the document leaves behind, and ADR 0006's
-# whole point is that deleting breaks every citation pointing at it.
-HELD_INGEST_STATUSES = ("ingested", "renumbered")
-
-# Where that vocabulary is written, and the only module allowed to write it.
-INGESTER = SRC / "ingest_oar.py"
-# THE INGEST VOCABULARY IS WRITTEN BY TWO MODULES, NOT ONE, SINCE #276. That ticket
-# retired `ingest_oar.py --enumerate`, and with it the only place this pipeline wrote
-# `not_ingested` -- membership is now `catalog_oar.py`'s to write, and it is where that
-# word lives. Reading only the ingester made the declaration below look like drift
-# (CI: "the ingester writes [...] and this module declares [...]") when nothing had
-# drifted: one writer had moved. Both are read, and the union is what must match.
-DISCOVERER = SRC / "catalog_oar.py"
+# THE OAR CATALOG'S OWN `status` VOCABULARY -- ingest status, a claim about this mirror --
+# IS NOT DECLARED HERE (#333). It used to be: a module about LEGAL status hosting the
+# INGEST vocabulary was the exact collision CONTEXT.md's *Ingest status* entry keeps an
+# `_Avoid_` line to name ("Status, unqualified. The two fields share a name and mean
+# different things, which is why both entries exist"). `ingest_status.py` is that
+# vocabulary's one module now -- the value set, the held/not-held partition derived from
+# it, the writers' census and the gate that compares them (`ingest-vocabulary-declared-once`,
+# moved there with it). `HELD_INGEST_STATUSES` and `INGEST_STATUS_VALUES` (imported at the
+# top of this file) are what `--check` below still needs, to refuse a catalog row holding
+# either field's words in the other's key; the `ingest_status` module itself is imported so
+# `cmd_check()` can still run ITS gate as part of `legal_status.py --check` -- the CI step
+# already wired into `.github/workflows/validate-frontmatter.yml` keeps enforcing the rule
+# with no workflow change, because the enforcement moved with the code that decides it, not
+# with the process that happens to run it.
 
 # The catalog key carrying a Bulletin-set legal status. Deliberately NOT `status`.
 CATALOG_KEY = "legal_status"
@@ -243,9 +231,10 @@ CHECK_RULES = (
     # the census -- who may decide a rule's legal status, and where
     "readable-module", "legal-status-write-classified", "known-purpose",
     "a-reader-decides-nothing", "one-writer",
-    # the two fields spelled `status`, and this module's copy of the other one's words
+    # the two fields spelled `status` -- "ingest-vocabulary-declared-once" moved to
+    # ingest_status.py with the vocabulary it gates (#333); this module still refuses
+    # either field holding the other's words on a committed catalog row
     "two-fields-named-status", "ingest-status-is-known", "bulletin-status-is-known",
-    "ingest-vocabulary-declared-once",
     # a marked row: what it must say, and that the document still carries it
     "legal-status-cites-its-notice", "legal-status-action-is-known",
     "legal-status-derives-from-the-action", "a-marked-rule-is-still-served",
@@ -447,61 +436,9 @@ def _frontmatter_writes(lines):
             yield i
 
 
-def _assigned_constants(node) -> set:
-    """The string constants an expression can EVALUATE TO, rather than merely mention.
-
-    `"repealed" if gone else "current"` yields both; `[r for r in rows if r["status"] ==
-    "current"]` yields none, and the difference is a filter versus a decision. The narrowing
-    matters in both directions -- a walk of every constant under the node reports the test of
-    a conditional as though it were the answer, and `d["status"] = d.get("status") if
-    any(r.get("status") == "ingested" for ...) else "not_ingested"` would name `ingested`,
-    `status` and `rules` as vocabulary the ingester writes."""
-    if isinstance(node, ast.Constant):
-        return {node.value} if isinstance(node.value, str) else set()
-    if isinstance(node, ast.IfExp):
-        return _assigned_constants(node.body) | _assigned_constants(node.orelse)
-    if isinstance(node, ast.BoolOp):
-        return set().union(*(_assigned_constants(v) for v in node.values))
-    return set()
-
-
 def _yields_a_status(node) -> bool:
     """Whether an expression evaluates to a legal-status literal."""
-    return bool(_assigned_constants(node) & set(LEGAL_STATUS_VALUES))
-
-
-def ingest_vocabulary(source=None) -> set:
-    """Every word the pipeline assigns to a `status` key -- the INGEST vocabulary, read off
-    the modules that write it rather than restated.
-
-    TWO MODULES, since #276: `ingest_oar.py` writes what an ingest attempt concluded, and
-    `catalog_oar.py` writes `not_ingested` when discovery names a rule nothing has fetched
-    yet. Passing `source` reads that one text instead, which is what lets a rule be fired
-    against a synthetic ingester.
-
-    A module that does not parse yields the EMPTY set, which fails
-    `ingest-vocabulary-declared-once` against a non-empty declaration rather than passing:
-    a vocabulary this could not read is not a vocabulary with no words in it."""
-    if source is None:
-        out = set()
-        for mod in (INGESTER, DISCOVERER):
-            out |= ingest_vocabulary(mod.read_text())
-        return out
-    try:
-        tree = ast.parse(source)
-    except SyntaxError:
-        return set()
-    out = set()
-    for node in ast.walk(tree):
-        if isinstance(node, ast.Assign):
-            if any(isinstance(x, ast.Subscript) and isinstance(x.slice, ast.Constant)
-                   and x.slice.value == "status" for x in node.targets):
-                out |= _assigned_constants(node.value)
-        elif isinstance(node, ast.Dict):
-            for k, v in zip(node.keys, node.values):
-                if isinstance(k, ast.Constant) and k.value == "status":
-                    out |= _assigned_constants(v)
-    return out
+    return bool(assigned_string_constants(node) & set(LEGAL_STATUS_VALUES))
 
 
 def _status_key_writes(tree):
@@ -702,23 +639,6 @@ def check_sites(sites) -> list:
 
 
 # ------------------------------------------------------------------- committed data
-
-
-def check_vocabulary(written) -> list:
-    """The rule that this module's copy of the ingest vocabulary still matches the ingester's.
-
-    `written` is what `ingest_vocabulary()` read out of `ingest_oar.py`, passed in rather
-    than read here so the rule can be fired against a synthetic ingester."""
-    declared = set(INGEST_STATUS_VALUES)
-    if declared == set(written):
-        return []
-    return [Failure(
-        "ingest-vocabulary-declared-once", str(_label(INGESTER)),
-        f"the ingester writes {sorted(written) or '(nothing this could read)'} and this "
-        f"module declares {sorted(declared)}. That second copy is the ONLY thing that tells "
-        "an ingest status apart from a legal status here, so a word on one side only stops "
-        "the two fields named `status` from being distinguishable -- update "
-        "INGEST_STATUS_VALUES, or stop the ingester writing a word nobody declared")]
 
 
 def check_committed(catalog, doc_status) -> list:
@@ -1195,7 +1115,8 @@ def cmd_check() -> int:
     catalog = yaml.safe_load(CATALOG.read_text())
     worklist = load_worklist()
     bulletin_set = bulletin_status_by_rule(catalog)
-    failures = (check_sites(sites) + check_vocabulary(ingest_vocabulary())
+    failures = (check_sites(sites)
+                + ingest_status.check_vocabulary(ingest_status.ingest_vocabulary())
                 + check_committed(catalog, doc_status_by_rule(catalog, bulletin_set))
                 + check_filings(catalog, worklist))
     if report(failures):
@@ -1546,44 +1467,35 @@ def _proof_the_two_fields_named_status(check) -> None:
     check("...for every one of the ingest vocabulary's words",
           not [f for v in INGEST_STATUS_VALUES
                for f in check_committed(_fixture_catalog(status=v), {})])
-    # THE SECOND COPY OF THE INGEST VOCABULARY, GATED. `INGEST_STATUS_VALUES` restates what
-    # `ingest_oar.py` writes, and an unchecked second copy of a fact is what this whole
-    # module is about -- so a word this list has not got is reported rather than passed over
-    # as "not a legal status, therefore fine".
+    # THE IMPORTED INGEST VOCABULARY, STILL GATED HERE. `INGEST_STATUS_VALUES` used to be a
+    # second copy of what `ingest_oar.py` writes, restated in this module -- the exact
+    # unchecked-second-copy shape this whole module is about -- until #333 moved the
+    # declaration to `ingest_status.py` and made this an import of the SAME tuple (proved
+    # by identity in `_proof_the_ingest_vocabulary_is_imported_not_restated` below). What
+    # this module still checks, on the object it now imports rather than owns: a word this
+    # vocabulary has not got is reported rather than passed over as "not a legal status,
+    # therefore fine".
     check("an ingest status this module does not know is caught",
           any(f.rule == "ingest-status-is-known"
               for f in check_committed(_fixture_catalog(status="quarantined"), {})))
 
 
-def _proof_the_ingest_vocabulary_is_not_a_second_copy(check) -> None:
-    """`INGEST_STATUS_VALUES` restates what `ingest_oar.py` writes, and an unchecked second
-    copy of a fact is the shape this module exists to refuse -- so the copy is compared with
-    the original rather than trusted, out of the ingester's own syntax tree."""
-    real = ingest_vocabulary()
-    check("the declared ingest vocabulary is what the ingester writes",
-          not check_vocabulary(real))
-    check("...and it is not empty", bool(real))
-    # THE NARROWING THAT MAKES THAT READING TRUE. The ingester's division line is
-    # `d["status"] = d.get("status") if any(r.get("status") == "ingested" for r in
-    # d["rules"]) else "not_ingested"`, and a walk of every constant beneath it reports
-    # `status` and `rules` as vocabulary.
-    divisionish = ('def f(d, r):\n'
-                   '    d["status"] = d.get("status") if any(x.get("status") == "ingested"\n'
-                   '                  for x in d["rules"]) else "not_ingested"\n')
-    check("a conditional's test is not read as vocabulary",
-          ingest_vocabulary(divisionish) == {"not_ingested"})
-    check("a word the ingester writes and this module has not declared is caught",
+def _proof_the_ingest_vocabulary_is_imported_not_restated(check) -> None:
+    """`INGEST_STATUS_VALUES` and `HELD_INGEST_STATUSES` used to be declared here, a second
+    copy of `ingest_status.py`'s own vocabulary -- the exact shape this module exists to
+    refuse everywhere else (#333). The AST-scanned writers'-check that used to prove that
+    copy agreed with `ingest_oar.py` moved with the vocabulary; what stays provable HERE is
+    that this module reads the SAME objects `ingest_status` declares, not two tuples that
+    happen to agree today."""
+    check("this module's INGEST_STATUS_VALUES IS ingest_status's, not a copy of it",
+          INGEST_STATUS_VALUES is ingest_status.INGEST_STATUS_VALUES)
+    check("...and the same for the held/not-held partition",
+          HELD_INGEST_STATUSES is ingest_status.HELD_INGEST_STATUSES)
+    check("cmd_check() reaches ingest_status's own gate: a synthetic writer missing a word "
+          "this module declares is still caught through the imported functions",
           any(f.rule == "ingest-vocabulary-declared-once"
-              for f in check_vocabulary(set(INGEST_STATUS_VALUES) | {"quarantined"})))
-    check("...and so is a word declared here that the ingester no longer writes",
-          any(f.rule == "ingest-vocabulary-declared-once"
-              for f in check_vocabulary(set(INGEST_STATUS_VALUES) - {"needs_registry"})))
-    # An ingester this could not parse yields no words, which must fail rather than agree
-    # with an empty expectation -- could not check is never reported as is not there.
-    check("an ingester that does not parse is not a vocabulary of no words",
-          ingest_vocabulary("def f(d)\n    d['status'] = 'ingested'\n") == set()
-          and any(f.rule == "ingest-vocabulary-declared-once"
-                  for f in check_vocabulary(set())))
+              for f in ingest_status.check_vocabulary(
+                  set(INGEST_STATUS_VALUES) - {"needs_registry"})))
 
 
 def _proof_only_frontmatter_is_read_for_a_status(check) -> None:
@@ -2009,7 +1921,7 @@ def selftest() -> int:
     _proof_the_gate_sees_a_second_writer(check)
     _proof_the_agreement_rule_reads_real_documents(check)
     _proof_the_two_fields_named_status(check)
-    _proof_the_ingest_vocabulary_is_not_a_second_copy(check)
+    _proof_the_ingest_vocabulary_is_imported_not_restated(check)
     _proof_only_frontmatter_is_read_for_a_status(check)
     _proof_a_marked_row_says_where_it_came_from(check)
     _proof_every_filed_force_action_is_recorded(check)

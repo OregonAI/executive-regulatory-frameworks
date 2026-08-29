@@ -262,13 +262,23 @@ way and this is a third fact about the same rule
 
 **Ingest status**:
 Whether this corpus holds a copy of a rule, and in what shape. It lives in
-`_meta/catalog/oar.yml` as `rules[].status`, with its own vocabulary — `ingested`
-(42,082 <!--census:oar.ingested-->), `not_ingested` (0 <!--census:oar.not_ingested--> since
-#238 ingested the 5,608 <!--observed:2026-08-28--> rules #270's OARD-direct discovery had
-found: the word means OARD names a rule this mirror holds no document for, and a count of
-zero says the mirror is complete against what OARD lists TODAY, never that the state has
-been retired), `renumbered` (484 <!--census:oar.renumbered-->, carrying `served_as`),
-`not_served` (49 <!--census:oar.not_served-->). It is a claim about THIS MIRROR,
+`_meta/catalog/oar.yml` as `rules[].status`, and its vocabulary — all SIX words, declared
+in one module, `ingest_status.py` (#333, not restated here or anywhere that reads it) —
+is `ingested` (42,082 <!--census:oar.ingested-->), `not_ingested`
+(0 <!--census:oar.not_ingested--> since #238 ingested the 5,608
+<!--observed:2026-08-28--> rules #270's OARD-direct discovery had found: the word means
+OARD names a rule this mirror holds no document for, and a count of zero says the mirror is
+complete against what OARD lists TODAY, never that the state has been retired), `renumbered`
+(484 <!--census:oar.renumbered-->, carrying `served_as`), `not_served`
+(49 <!--census:oar.not_served-->), `not_sliceable`
+(0 <!--census:oar.not_sliceable-->, written when OARD serves a search-results page for the
+number rather than a single rule — more than one rule shares it, #251) and
+`needs_registry` (0 <!--census:oar.needs_registry-->, written when a renumbered rule's
+enrichment cannot proceed because the agency registry does not yet know the chapter OARD
+renumbered it into — a quarantine, resolved by a registry fix and a re-run). The last two
+were long written by `ingest_oar.py` and undeclared by this entry (#297, closed by #333):
+`ingest_status.py --check` is what now refuses that gap the moment either word's write site
+changes and this vocabulary does not. It is a claim about THIS MIRROR,
 never about Oregon law: a rule can be in force and absent here, or repealed and still held.
 The Bulletin's claim about force sits on the SAME ROW under different keys — `legal_status`,
 `legal_status_action` and `legal_status_notice`, none of which may appear without the others

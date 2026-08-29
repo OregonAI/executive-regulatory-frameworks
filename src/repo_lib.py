@@ -1,4 +1,5 @@
 """Shared helpers for repo validation tooling."""
+import ast
 import datetime
 import hashlib
 import html
@@ -18,6 +19,31 @@ SCHEMA_DIR = REPO_ROOT / "_meta" / "schema"
 SOURCES_DIR = REPO_ROOT / "_meta" / "sources"
 
 _YAML_LOADER = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
+
+
+def assigned_string_constants(node) -> set:
+    """The string constants an AST expression can EVALUATE TO, rather than merely mention.
+
+    `"repealed" if gone else "current"` yields both; `[r for r in rows if r["status"] ==
+    "current"]` yields none, and the difference is a filter versus a decision. The narrowing
+    matters in both directions -- a walk of every constant under the node reports the test of
+    a conditional as though it were the answer, and `d["status"] = d.get("status") if
+    any(r.get("status") == "ingested" for ...) else "not_ingested"` would name `ingested`,
+    `status` and `rules` as vocabulary the ingester writes.
+
+    SHARED BY `legal_status.py` (which vocabulary a write DECIDES a document's legal status
+    with) and `ingest_status.py` (which vocabulary `ingest_oar.py`/`catalog_oar.py` write to
+    the catalog's own `status` field, #333) -- two different AST scans over two different
+    vocabularies, reading the same shape of expression. A THIRD private copy of this is
+    exactly the failure both of those modules exist to refuse elsewhere, so it lives here
+    once instead."""
+    if isinstance(node, ast.Constant):
+        return {node.value} if isinstance(node.value, str) else set()
+    if isinstance(node, ast.IfExp):
+        return assigned_string_constants(node.body) | assigned_string_constants(node.orelse)
+    if isinstance(node, ast.BoolOp):
+        return set().union(*(assigned_string_constants(v) for v in node.values))
+    return set()
 
 
 def repo_state() -> str:

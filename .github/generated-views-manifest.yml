@@ -56,6 +56,9 @@ gates:
   - name: "Bulletin reader rules must all be able to fail"
     seconds: 0.1
     shard: 1
+  - name: "Ingest-status vocabulary rule must be able to fail"
+    seconds: 0.0
+    shard: 4
   - name: "Legal status must have exactly one writer"
     seconds: 0.0
     shard: 4
@@ -199,6 +202,9 @@ gates:
     shard: 4
   - name: "Bulletin worklist must hold up against the corpus"
     seconds: 6.9
+    shard: 1
+  - name: "Ingest-status vocabulary must be declared once"
+    seconds: 0.0
     shard: 1
   - name: "Legal status must be written once and read everywhere else"
     seconds: 6.4
