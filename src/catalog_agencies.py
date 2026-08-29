@@ -38,19 +38,24 @@ validate_frontmatter.py requires every content file's agency: field to be 'state
 'external', or a slug from this registry. Sub-unit slugs are valid agency: values like
 any other; whether a sub-unit gets its own agencies/<slug>/ tree or files under its
 parent is an onboarding-time decision."""
+import contextlib
+import io
 import json
 import os
 import re
 import subprocess
 import sys
+import tempfile
 import time
 import urllib.request
 from collections import Counter, namedtuple
 from datetime import date
 from html import unescape
+from pathlib import Path
 
 import yaml
 
+from check_rule_ledger import RuleLedger
 from repo_lib import ORCONST_ARTICLE_TOKEN, ORCONST_SECTION_TOKEN, REPO_ROOT
 
 BASE = "https://oregon.public.law"
@@ -159,10 +164,68 @@ NAME_KEYS = ("name", NAME_BASIS_KEY)
 
 Field = namedtuple("Field", "origin required")
 
-# One contract violation: which rule, which row, and what is wrong with it. A type rather
-# than a formatted string so --selftest asserts on the RULE that fired instead of pattern-
-# matching prose, which is how a test starts passing for the wrong reason.
-Failure = namedtuple("Failure", "rule row detail")
+# EVERY RULE THIS MODULE CAN REPORT (#320). Declared rather than counted at run time so a
+# rule added with no proof is visible as a list that did not grow, matching
+# `legal_status.CHECK_RULES` and `stated_census.CHECK_RULES` -- `--selftest` asserts both
+# that this is what the code actually emits (the AST scan) and that every name here was
+# watched firing during the run (`_LEDGER.fired`).
+CHECK_RULES = (
+    # can the registry be read at all, and does it hold anything
+    "readable-registry", "registry-populated", "readable-row",
+    # a row's own shape: the fields it must carry, and the ones it may not
+    "required-field", "declared-field",
+    # the two fields spelled almost alike, and the one this module reads off two scripts
+    "chapter-page-count-current",
+    # the DAS number's deprecation-cycle pair, the enabling authority's form, the statutory
+    # name's provenance, and the two names a body must stay findable by
+    "deprecated-key-agrees", "enabling-authority-form", "statutory-name-basis",
+    "name-origin", "findable-by-both-names",
+    # the relations: their shape, uniqueness, resolution, what `part_of` may not carry, and
+    # the field's own mixed origin
+    "relation-shape", "relation-unique", "relation-resolves",
+    "part-of-has-nothing-to-enable", "relation-origin",
+    # what the OAR index tree itself asserts, and the parent chapter beside it
+    "index-relation-is-regenerated", "parent-agrees",
+    # the two things a sibling corpus joins on, claimed twice
+    "unique-slug", "unique-chapter",
+    # the registry's own top-level `note`, checked three ways
+    "note-covers-fields", "note-agrees-with-refresh", "note-numbers-current",
+    "note-scrape-shape",
+    # a field's declared origin, checked against what a simulated --refresh actually does
+    "scraped-field", "survives-refresh",
+)
+
+# THE CHECK-RULE LEDGER (#319, adopted here by #320). Recording a rule name when a Failure
+# is built (`_LEDGER.fired`, the ledger's own set rather than a module global), the AST scan
+# of this module's own source for the rule names a `Failure(...)` call can EMIT
+# (`_LEDGER.emitted_rules`), and the both-directions comparison of the two against
+# `CHECK_RULES` (`_LEDGER.gaps()`) are the one shared implementation `legal_status.py` and
+# `stated_census.py` already carry -- this module had none of it (#320's own measurement:
+# no `CHECK_RULES`, no recording, no gate in either direction), and adopting it is what
+# surfaced two rules this module could report and nothing demonstrated
+# (`chapter-page-count-current` turned out to already have a proof; `readable-registry` did
+# not), a rule spelled a second time as a bare print string outside any `Failure(...)` call,
+# and two rules (`unique-slug`, `unique-chapter`) the code emitted through a variable rather
+# than a literal -- invisible to the AST scan by the SAME narrowing
+# `check_rule_ledger.py`'s own proof deliberately keeps, so the fix is the call sites, not
+# the scanner (see the loop `check_registry()` used to share between them, now two literal
+# call sites below).
+_LEDGER = RuleLedger(CHECK_RULES, __file__)
+
+
+class Failure(_LEDGER.Failure):
+    """One rule, the registry site it is about, and what is wrong with it -- recorded on
+    construction by the shared ledger (like `legal_status.Failure` and
+    `stated_census.Failure`) so no proof has to remember to say it fired, and a rule name
+    not in `CHECK_RULES` refuses construction rather than passing an unmarked write through.
+    Only `__str__` is added here, matching `stated_census.Failure`: `cmd_check()` prints a
+    failure directly, so both of the rule's call sites -- the per-row loop and the
+    registry-missing guard that used to spell it separately -- format it identically."""
+    __slots__ = ()
+
+    def __str__(self):
+        return f"  FAIL [{self.rule}] {self.site}: {self.detail}"
+
 
 FIELDS = {
     "slug": Field(SCRAPED, required=True),
@@ -2189,6 +2252,26 @@ def _row_id(o, i):
     return slug if isinstance(slug, str) and slug else f"organizations[{i}]"
 
 
+def _claimed_twice(key, rows):
+    """(row_id, first_row_id, value) for every row whose `key` a PRECEDING row in `rows`
+    already claims. Shared by both uniqueness checks below so the walk itself is written
+    once -- but the RULE NAME stays a literal at each call site rather than a parameter
+    passed through this function, because a `Failure(rule, ...)` call whose first argument
+    is a variable is invisible to `_LEDGER.emitted_rules()`'s AST scan (#320: this is what
+    left `unique-slug` and `unique-chapter` undeclarable from the scan's own evidence, the
+    one gap adopting the ledger could not close by declaring a name -- only rewriting the
+    call site to a literal closes it)."""
+    seen = {}
+    for i, o in rows:
+        value = o.get(key)
+        if value is None:   # 19 bodies hold no chapter, which is not a collision
+            continue
+        if value in seen:
+            yield _row_id(o, i), seen[value], value
+        else:
+            seen[value] = _row_id(o, i)
+
+
 def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) -> list:
     """Every way the registry violates its contract, as Failures.
 
@@ -2510,18 +2593,12 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
     # what put most rows here; either one claimed twice attributes one body's documents to
     # another. --refresh already calls a slug collision a human decision rather than silent
     # dedup, and this is the same rule applied to what is already committed.
-    for key, rule in (("slug", "unique-slug"), ("oar_chapter", "unique-chapter")):
-        seen = {}
-        for i, o in rows:
-            value = o.get(key)
-            if value is None:   # 19 bodies hold no chapter, which is not a collision
-                continue
-            if value in seen:
-                failures.append(Failure(rule, _row_id(o, i),
-                                        f"{key} {value!r} is already claimed by "
-                                        f"{seen[value]!r}"))
-            else:
-                seen[value] = _row_id(o, i)
+    for row_id, first_id, value in _claimed_twice("slug", rows):
+        failures.append(Failure("unique-slug", row_id,
+                                f"slug {value!r} is already claimed by {first_id!r}"))
+    for row_id, first_id, value in _claimed_twice("oar_chapter", rows):
+        failures.append(Failure("unique-chapter", row_id,
+                                f"oar_chapter {value!r} is already claimed by {first_id!r}"))
 
     # THE PARENT'S CHAPTER, AGAINST THE BODY THE RELATIONS NAME. #174 retired `parent_slug`,
     # so `relations` is the registry's only statement of where a body sits and this is the
@@ -2865,15 +2942,27 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
     return failures
 
 
-def cmd_check() -> int:
-    """Report every contract violation in the committed registry. Exit 1 if any."""
-    if not CATALOG.exists():
-        print(f"FAIL [readable-registry] {CATALOG}: no registry to check", file=sys.stderr)
+def cmd_check(catalog_path=None) -> int:
+    """Report every contract violation in the committed registry. Exit 1 if any.
+
+    `catalog_path` is a PARAMETER, defaulting to `CATALOG`, for the same reason
+    `check_registry()`'s own three parameters are (its docstring): so --selftest can point
+    this at a path that does not exist and watch `readable-registry` fire through the real
+    command line, not only through `check_registry()`'s own in-memory early return. Before
+    #320 this guard was a bare `print(f"FAIL [readable-registry] ...")` -- the rule's name
+    spelled as text with no `Failure` behind it, invisible to `_LEDGER.fired` and to the AST
+    scan alike, and free to drift from the declared spelling with nothing to notice. It now
+    constructs the same `Failure` the loop below prints, so there is exactly one call site
+    that emits `readable-registry` for a missing file, and one `__str__` that formats it."""
+    catalog_path = CATALOG if catalog_path is None else catalog_path
+    if not catalog_path.exists():
+        print(Failure("readable-registry", str(catalog_path), "no registry to check"),
+              file=sys.stderr)
         return 1
     cat = load()
     failures = check_registry(cat)
     for f in failures:
-        print(f"  FAIL [{f.rule}] {f.row}: {f.detail}", file=sys.stderr)
+        print(f, file=sys.stderr)
     orgs = cat.get("organizations") or []
     if failures:
         print(f"\n{len(failures)} contract violation(s) across {len(orgs)} row(s)",
@@ -3551,6 +3640,16 @@ def _case_registry_emptied(cat):
     cat["organizations"] = []
 
 
+def _case_organizations_is_not_a_list(cat):
+    """`organizations:` holding something that parsed but is not a list — a scalar, a
+    mapping, a YAML typo one indent off — which is a different failure from an empty list
+    (`registry-populated`, above) and from a row that is not a mapping (`readable-row`,
+    below): this one is caught before either of those ever gets to run, by the same early
+    return `cmd_check()`'s own missing-file guard now shares a spelling with (#320: this
+    rule had 24 siblings each demonstrated in `_CASES` or `_PROOFS` and none of its own)."""
+    cat["organizations"] = None
+
+
 _CASES = [
     ("undeclared-field", _case_undeclared_field, "declared-field"),
     ("relations-that-are-not-a-list", _case_relations_that_are_not_a_list,
@@ -3659,6 +3758,7 @@ _CASES = [
      "findable-by-both-names"),
     ("statutory-name-that-matches-nothing", _case_statutory_name_that_matches_nothing,
      "findable-by-both-names"),
+    ("organizations-is-not-a-list", _case_organizations_is_not_a_list, "readable-registry"),
 ]
 
 
@@ -4051,6 +4151,34 @@ def _proof_chapter_page_count_check_fires_on_a_stale_docstring() -> int:
     return bad
 
 
+def _proof_missing_registry_is_refused() -> int:
+    """`cmd_check()`'s OWN guard for a registry file that does not exist at all -- the
+    SECOND spelling of `readable-registry` #320 found, a bare f-string with no `Failure`
+    behind it that the `organizations-is-not-a-list` case above cannot reach (that case
+    mutates an in-memory registry `check_registry()` already loaded; this one is about the
+    file never being loadable in the first place). Demonstrated against the real command
+    line via `catalog_path` (`cmd_check()`'s own docstring), not a synthetic call into
+    `check_registry()`, because the whole point is proving the SITE that used to spell the
+    rule differently now emits the one declared spelling."""
+    bad = 0
+    with tempfile.TemporaryDirectory() as d:
+        missing = Path(d) / "does-not-exist.yml"
+        captured = io.StringIO()
+        with contextlib.redirect_stderr(captured):
+            rc = cmd_check(catalog_path=missing)
+        out = captured.getvalue()
+        if rc != 1:
+            print(f"FAIL missing-registry-file-exits-nonzero: cmd_check() returned {rc}",
+                  file=sys.stderr)
+            bad += 1
+        if f"[readable-registry] {missing}: no registry to check" not in out:
+            print(f"FAIL missing-registry-file-is-refused: expected one "
+                  f"[readable-registry] line naming {missing!r}, got {out!r}",
+                  file=sys.stderr)
+            bad += 1
+    return bad
+
+
 def _proof_refresh_rejects_an_undeclared_scraped_field() -> int:
     """--refresh's own half of the declaration, which --check cannot reach: it reads
     committed data and never runs a scrape, so a field the SCRAPE started writing without
@@ -4343,6 +4471,7 @@ def selftest() -> int:
     bad += _proof_the_walk_says_what_it_cannot_answer()
     bad += _proof_the_relation_census_counts_every_kind()
     bad += _proof_chapter_page_count_check_fires_on_a_stale_docstring()
+    bad += _proof_missing_registry_is_refused()
     bad += _proof_the_merge_is_what_carries_a_curated_relation()
     bad += _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry()
     bad += _proof_the_carry_is_what_keeps_an_established_statutory_name()
@@ -4371,24 +4500,38 @@ def selftest() -> int:
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
-    # THE "+ 9" IS A HAND COUNT OF THE EIGHT PROOF CALLS ABOVE (#275 review) — one violation
-    # demonstrated per call, EXCEPT `_proof_refresh_rejects_an_undeclared_scraped_field()`,
-    # which #275 grew a second, independent demonstration inside (the guard must also stay
-    # QUIET on a row `scraped_entry()` genuinely produces) without this literal following it:
-    # the total silently undercounted by one until this line was corrected alongside it.
-    # (#278 briefly added a ninth call, a top-level-note preservation proof, and bumped this
-    # to "+ 10" — retired along with the function it was counting once #278's review found the
-    # top-level `note` has never carried curator prose in its committed history, so nothing
-    # needed the preservation path that proof exercised; see the comment above
-    # `REGISTRY_NOTE`'s own extraction site.) This is the same shape
-    # #279/#299/93036cf name — a printed count that can drift from the thing it counts — one
-    # level down, and it is not fixed structurally here: doing that properly means every one
-    # of the eight functions returning its own demonstrated count, the way the two
-    # name-resolution proofs below already do (`failed, ran = proof()`), and summing those
-    # instead of a literal. Filed as its own issue rather than folded into #275's fix, which
-    # this literal is not: OregonAI/executive-regulatory-frameworks#301.
-    print(f"{len(_CASES) + len(_PROOFS) + 9} violation(s) demonstrated failing, "
-          f"{resolutions} name resolution(s) proven"
+    # THE DECLARATION, GATED FROM BOTH SIDES (#320, matching legal_status.py and
+    # stated_census.py; both directions are `_LEDGER.gaps()`'s one call since #319). A rule
+    # can go undetected by being DECLARED WITH NO PROOF (did it fire during this run) or by
+    # being EMITTED WITH NO DECLARATION (does the AST agree with CHECK_RULES) — the second
+    # failure mode is exactly the hole a hand-typed table left open, and #320's own
+    # measurement (this module carried neither direction) is what this replaces.
+    gaps = _LEDGER.gaps()
+    if gaps.emitted_but_undeclared or gaps.unemitted_but_declared:
+        print("FAIL every-rule-this-module-can-report-is-declared: "
+              f"emitted-not-declared={sorted(gaps.emitted_but_undeclared)} "
+              f"declared-not-emitted={sorted(gaps.unemitted_but_declared)}", file=sys.stderr)
+        bad += 1
+    if gaps.unfired:
+        print(f"FAIL every-declared-rule-was-watched-firing: unfired={sorted(gaps.unfired)}",
+              file=sys.stderr)
+        bad += 1
+    # THE COUNT NOW COMES FROM THE LEDGER, NOT FROM A LITERAL (#320, closes #301). The old
+    # "+ 9" here was a hand count of eight proof calls above it — one violation demonstrated
+    # per call, except `_proof_refresh_rejects_an_undeclared_scraped_field()`, which #275
+    # grew a second, independent demonstration inside without this literal following it: the
+    # total silently undercounted by one until #275's review corrected it alongside the
+    # function, and #278 briefly grew and then retired a ninth call the same literal had to
+    # be hand-updated for again. `_LEDGER.demonstrated_count` — how many DECLARED rules this
+    # process watched fire, from `_LEDGER.fired` rather than a count anyone maintains by
+    # hand — cannot go stale the way that literal did three times: it is not a count of how
+    # many proof calls happen to exist above it, it is what actually happened when they ran,
+    # and the two gates just above are what make it EQUAL to `len(CHECK_RULES)` on any clean
+    # run rather than merely close to it.
+    print(f"{len(_CASES)} case(s) and {len(_PROOFS)} declaration(s) demonstrated failing, "
+          f"{resolutions} name resolution(s) proven, "
+          f"{_LEDGER.demonstrated_count} rule(s) declared, every one both emitted by this "
+          "module and watched firing here"
           if not bad else f"{bad} rule(s) did not fire")
     return 1 if bad else 0
 
