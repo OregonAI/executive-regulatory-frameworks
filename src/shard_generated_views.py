@@ -73,19 +73,31 @@ def shard_job_ids(doc):
     return [j for j in jobs if j.startswith(SHARD_PREFIX)]
 
 
-def gates_by_shard(doc):
-    """{shard_job_id: [gate name, ...]} for every named+run step in each shard job.
+def gate_steps_by_shard(doc):
+    """{shard_job_id: [(gate name, run command), ...]} for every named+run step in
+    each shard job, in file order.
 
     A step missing either `name` or `run` (checkout, setup-python, pip install) is
     not a gate and is skipped -- gates are the steps this corpus's own code runs
-    as a pass/fail check.
+    as a pass/fail check. This is the one parser of the workflow's gate steps;
+    `gates_by_shard` (the names alone, for the manifest-drift check below) and
+    `check_all.py` (the runnable commands, #318) both read it rather than each
+    holding its own regex over the YAML -- a second reader would be one fact
+    declared twice with nothing gating agreement, the `CONTEXT.md` *Stated figure*
+    defect class this repo keeps paying for.
     """
     jobs = doc.get("jobs", {})
     out = {}
     for job_id in shard_job_ids(doc):
         steps = jobs[job_id].get("steps", [])
-        out[job_id] = [s["name"] for s in steps if "name" in s and "run" in s]
+        out[job_id] = [(s["name"], s["run"]) for s in steps if "name" in s and "run" in s]
     return out
+
+
+def gates_by_shard(doc):
+    """{shard_job_id: [gate name, ...]} -- the names alone, off gate_steps_by_shard."""
+    return {job_id: [name for name, _run in steps]
+            for job_id, steps in gate_steps_by_shard(doc).items()}
 
 
 def setup_steps_by_shard(doc):

@@ -7,7 +7,7 @@
 #   selection. Not a fault.
 bulletin: August 2026 (bulltnRsn=1761)
 bulletin_url: https://secure.sos.state.or.us/oard/displayBulletin.action?bulltnRsn=1761
-retrieved: '2026-08-22'
+retrieved: '2026-08-29'
 filings: 159
 unread_filings: []
 rules:
@@ -52,25 +52,25 @@ rules:
   corpus_state: held
 - number: 170-002-0147
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 170-002-0147
   action: repeal
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 170-150-0005
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 170-150-0010
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 170-150-0015
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 170-150-0020
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 170-150-0025
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 250-020-0161
   action: amend
   corpus_state: held
@@ -115,7 +115,7 @@ rules:
   corpus_state: held
 - number: 291-048-0305
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 291-048-0310
   action: amend
   corpus_state: held
@@ -190,31 +190,31 @@ rules:
   corpus_state: held
 - number: 309-035-0158
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 309-035-0158
   action: suspend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 309-037-0200
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 309-037-0210
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 309-037-0220
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 309-072-0100
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 309-072-0110
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 309-072-0120
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 333-090-0100
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 333-102-0285
   action: amend
   corpus_state: held
@@ -547,16 +547,16 @@ rules:
   corpus_state: held
 - number: 410-173-0005
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 410-173-0010
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 410-173-0020
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 410-173-0045
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 411-049-0102
   action: amend
   corpus_state: held
@@ -613,7 +613,7 @@ rules:
   corpus_state: held
 - number: 411-057-0165
   action: suspend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 411-057-0170
   action: suspend
   corpus_state: held
@@ -652,7 +652,7 @@ rules:
   corpus_state: held
 - number: 459-005-0015
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 459-005-0210
   action: amend
   corpus_state: held
@@ -763,7 +763,7 @@ rules:
   corpus_state: held
 - number: 461-145-0254
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 461-145-0455
   action: amend
   corpus_state: held
@@ -817,19 +817,19 @@ rules:
   corpus_state: held
 - number: 581-075-0200
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 581-075-0205
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 603-011-0214
   action: amend
   corpus_state: held
 - number: 603-011-0215
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 603-011-0216
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 603-025-0030
   action: amend
   corpus_state: held
@@ -865,10 +865,10 @@ rules:
   corpus_state: held
 - number: 635-016-0500
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 635-016-0500
   action: suspend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 635-023-0130
   action: amend
   corpus_state: held
@@ -898,7 +898,7 @@ rules:
   corpus_state: held
 - number: 660-008-0001
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 660-021-0030
   action: amend
   corpus_state: held
@@ -910,10 +910,10 @@ rules:
   corpus_state: held
 - number: 660-024-0001
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 690-002-0005
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 690-002-0010
   action: amend
   corpus_state: held
@@ -931,22 +931,22 @@ rules:
   corpus_state: held
 - number: 690-002-0205
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 690-002-0210
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 690-002-0215
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 690-002-0220
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 690-002-0225
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 690-002-0235
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 690-017-0600
   action: amend
   corpus_state: held
@@ -1138,7 +1138,7 @@ rules:
   corpus_state: chapter_not_mirrored
 - number: 811-035-0008
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-001-0002
   action: repeal
   corpus_state: held
@@ -1159,16 +1159,16 @@ rules:
   corpus_state: held
 - number: 813-002-0005
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-002-0015
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-002-0051
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-002-0053
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-005-0001
   action: amend
   corpus_state: held
@@ -1210,7 +1210,7 @@ rules:
   corpus_state: held
 - number: 813-012-0065
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-012-0070
   action: amend
   corpus_state: held
@@ -1228,7 +1228,7 @@ rules:
   corpus_state: held
 - number: 813-012-0115
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-012-0120
   action: suspend
   corpus_state: held
@@ -1258,7 +1258,7 @@ rules:
   corpus_state: held
 - number: 813-030-0014
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-030-0020
   action: suspend
   corpus_state: held
@@ -1294,7 +1294,7 @@ rules:
   corpus_state: held
 - number: 813-030-0050
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-030-0060
   action: suspend
   corpus_state: held
@@ -1351,7 +1351,7 @@ rules:
   corpus_state: held
 - number: 813-135-0025
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-207-0000
   action: amend
   corpus_state: held
@@ -1372,52 +1372,52 @@ rules:
   corpus_state: held
 - number: 813-245-0000
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-245-0010
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-245-0020
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-245-0030
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-245-0040
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-245-0050
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-245-0060
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-245-0070
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-245-0080
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-245-0090
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-245-0100
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-245-0110
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-270-0090
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-410-0005
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 813-410-0010
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 836-053-0480
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 836-200-0406
   action: amend
   corpus_state: held
@@ -1429,7 +1429,7 @@ rules:
   corpus_state: held
 - number: 836-200-0418
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 836-200-0421
   action: amend
   corpus_state: held
@@ -1459,7 +1459,7 @@ rules:
   corpus_state: held
 - number: 837-030-0275
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 839-025-0200
   action: amend
   corpus_state: held
@@ -1507,13 +1507,13 @@ rules:
   corpus_state: held
 - number: 855-115-0025
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 855-115-0125
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 855-143-0500
   action: amend
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 875-010-0031
   action: amend
   corpus_state: held
@@ -1561,7 +1561,7 @@ rules:
   corpus_state: held
 - number: 918-674-0540
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 918-674-0550
   action: amend
   corpus_state: held
@@ -1609,10 +1609,10 @@ rules:
   corpus_state: held
 - number: 918-674-0700
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 918-674-0710
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 918-674-0720
   action: amend
   corpus_state: held
@@ -1639,7 +1639,7 @@ rules:
   corpus_state: held
 - number: 918-674-0860
   action: adopt
-  corpus_state: missing_from_mirrored_chapter
+  corpus_state: held
 - number: 918-674-0870
   action: amend
   corpus_state: held

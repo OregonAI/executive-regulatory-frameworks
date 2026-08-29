@@ -1,7 +1,7 @@
 note: 'Conflict candidates decidable BY CODE — no model involved. A hand-labelled taxonomy of the 137
   frontier-pilot candidates found 29% of them were of these four deterministic types, and a regex finds
   far more of them than the models did: the pilot reported 21 dead citations in total, this scan finds
-  2,153 DISTINCT dead targets, cited 5,738 times across 4,624 documents. READ THE DISTINCT COUNT, NOT
+  1,968 DISTINCT dead targets, cited 5,515 times across 4,528 documents. READ THE DISTINCT COUNT, NOT
   THE OCCURRENCES: they differ by ~2.7x because a single repealed section is cited by many rules — ORS
   184.616 alone is cited by 727 of them. Occurrences are the blast radius; distinct targets are the number
   of things to actually resolve, and they are heavily concentrated, so the top handful clear thousands
@@ -13,78 +13,78 @@ note: 'Conflict candidates decidable BY CODE — no model involved. A hand-label
   not a finding, and not legally reviewed. The model''s budget belongs on the other 71% — what a rule
   omits, adds without authority, or redefines — which SYSTEM_V3 enumerates and which explicitly disqualifies
   these four types so the two passes do not overlap.'
-scanned_rules: 36953
+scanned_rules: 42561
 counts:
-  distinct_dead_targets: 2153
-  dead_citation_occurrences: 5738
-  documents_affected: 4624
-  dead_citations: 5738
-  corpus_gap_not_ingested: 428
-  lapsed_but_current: 75
-  rule_predates_statute_amendment: 4602
-  malformed_citations: 50
+  distinct_dead_targets: 1968
+  dead_citation_occurrences: 5515
+  documents_affected: 4528
+  dead_citations: 5515
+  corpus_gap_not_ingested: 575
+  lapsed_but_current: 78
+  rule_predates_statute_amendment: 4452
+  malformed_citations: 65
 dead_citations_by_cause:
-  chapter_absent: 70
-  oar_unclassified: 1652
-  renumbered_or_repealed: 4016
+  chapter_absent: 146
+  oar_unclassified: 1022
+  renumbered_or_repealed: 4347
 cause_meanings:
   renumbered_or_repealed: the chapter is current, but this section has left its table of contents
   chapter_absent: no such ORS chapter page exists upstream
   oar_unclassified: an OAR-to-OAR citation that did not resolve
-corpus_gap_note: 428 citations point at ORS sections that ARE catalogued upstream but have no document
+corpus_gap_note: 575 citations point at ORS sections that ARE catalogued upstream but have no document
   here. That is this corpus's ingestion gap, not a defect in the rule, and is counted separately so it
   is never reported as an agency's citation error.
 most_cited_dead_targets:
 - cites: ORS 184.616
-  cited_by_rules: 727
+  cited_by_rules: 736
 - cites: ORS 192.410
-  cited_by_rules: 158
+  cited_by_rules: 162
 - cites: ORS 181.534
-  cited_by_rules: 102
+  cited_by_rules: 104
 - cites: ORS 480.110
   cited_by_rules: 84
 - cites: ORS 192.440
-  cited_by_rules: 56
+  cited_by_rules: 59
+- cites: ORS 279.025
+  cited_by_rules: 49
 - cites: ORS 342.950
   cited_by_rules: 41
 - cites: ORS 192.430
   cited_by_rules: 40
+- cites: ORS 183.090
+  cited_by_rules: 38
 - cites: ORS 79.0526
   cited_by_rules: 38
 - cites: ORS 192.501
-  cited_by_rules: 36
+  cited_by_rules: 37
 - cites: ORS 391.800
   cited_by_rules: 36
-- cites: ORS 183.090
-  cited_by_rules: 35
 - cites: ORS 183.545
   cited_by_rules: 32
 - cites: ORS 197.758
-  cited_by_rules: 30
+  cited_by_rules: 31
 - cites: ORS 701.350
   cited_by_rules: 25
 - cites: ORS 348.853
   cited_by_rules: 23
+- cites: ORS 407.115
+  cited_by_rules: 22
 - cites: ORS 197.150
   cited_by_rules: 22
 - cites: ORS 657A.260
   cited_by_rules: 22
-- cites: ORS 407.115
-  cited_by_rules: 21
+- cites: ORS 192.502
+  cited_by_rules: 20
 - cites: ORS 935.035
   cited_by_rules: 20
 - cites: ORS 675.360
   cited_by_rules: 19
+- cites: ORS 676.607
+  cited_by_rules: 19
+- cites: ORS 725A.092
+  cited_by_rules: 19
 - cites: ORS 541.423
   cited_by_rules: 19
-- cites: ORS 192.502
-  cited_by_rules: 18
-- cites: ORS 181.440
-  cited_by_rules: 18
-- cites: ORS 676.607
-  cited_by_rules: 18
-- cites: ORS 431.925
-  cited_by_rules: 18
 dead_citations:
 - rule: oar-101-005-0020
   cites: ORS 242.135
@@ -344,9 +344,21 @@ dead_citations:
 - rule: oar-123-042-0052
   cites: OAR 123-042-0035
   cause: oar_unclassified
+- rule: oar-123-049-0026
+  cites: ORS 285.213
+  cause: renumbered_or_repealed
+- rule: oar-123-049-0027
+  cites: ORS 285.213
+  cause: renumbered_or_repealed
 - rule: oar-123-052-2400
   cites: ORS 192.410
   cause: renumbered_or_repealed
+- rule: oar-123-053-0071
+  cites: OAR 123-053-0080
+  cause: oar_unclassified
+- rule: oar-123-053-0101
+  cites: OAR 123-053-0100
+  cause: oar_unclassified
 - rule: oar-123-056-0020
   cites: ORS 295B.260
   cause: chapter_absent
@@ -377,11 +389,11 @@ dead_citations:
 - rule: oar-123-080-0040
   cites: ORS 184.125
   cause: renumbered_or_repealed
+- rule: oar-123-084-0065
+  cites: OAR 123-086-0070
+  cause: oar_unclassified
 - rule: oar-123-087-0020
   cites: OAR 123-087-0040
-  cause: oar_unclassified
-- rule: oar-123-092-0020
-  cites: OAR 123-092-0065
   cause: oar_unclassified
 - rule: oar-123-093-1000
   cites: ORS 192.430
@@ -389,6 +401,9 @@ dead_citations:
 - rule: oar-123-097-2200
   cites: OAR 123-097-2600
   cause: oar_unclassified
+- rule: oar-123-130-0020
+  cites: ORS 442.0015
+  cause: renumbered_or_repealed
 - rule: oar-123-135-0020
   cites: ORS 79.1050
   cause: renumbered_or_repealed
@@ -428,12 +443,6 @@ dead_citations:
 - rule: oar-123-623-1100
   cites: OAR 123-632-1115
   cause: oar_unclassified
-- rule: oar-123-623-1950
-  cites: OAR 123-623-1975
-  cause: oar_unclassified
-- rule: oar-123-623-4000
-  cites: OAR 123-623-2500
-  cause: oar_unclassified
 - rule: oar-123-630-0070
   cites: ORS 743.730
   cause: renumbered_or_repealed
@@ -446,114 +455,45 @@ dead_citations:
 - rule: oar-123-650-0066
   cites: ORS 285C.075
   cause: renumbered_or_repealed
-- rule: oar-123-650-4100
-  cites: OAR 123-650-5300
-  cause: oar_unclassified
-- rule: oar-123-650-4100
-  cites: OAR 123-674-0300
-  cause: oar_unclassified
-- rule: oar-123-650-4400
-  cites: OAR 123-662-2100
-  cause: oar_unclassified
-- rule: oar-123-650-4400
-  cites: OAR 123-674-0300
-  cause: oar_unclassified
-- rule: oar-123-650-4600
-  cites: OAR 123-650-9500
-  cause: oar_unclassified
-- rule: oar-123-650-4600
-  cites: OAR 123-650-9600
-  cause: oar_unclassified
-- rule: oar-123-650-4800
-  cites: OAR 123-650-5300
-  cause: oar_unclassified
-- rule: oar-123-650-4800
-  cites: OAR 123-662-2100
-  cause: oar_unclassified
-- rule: oar-123-650-4800
-  cites: OAR 123-674-0300
-  cause: oar_unclassified
-- rule: oar-123-650-4900
-  cites: OAR 123-662-2100
-  cause: oar_unclassified
-- rule: oar-123-656-1000
-  cites: OAR 123-668-4000
-  cause: oar_unclassified
+- rule: oar-123-650-0105
+  cites: ORS 285.600
+  cause: renumbered_or_repealed
+- rule: oar-123-650-9500
+  cites: ORS 285.140
+  cause: renumbered_or_repealed
+- rule: oar-123-650-9600
+  cites: ORS 285C.075
+  cause: renumbered_or_repealed
+- rule: oar-123-650-9700
+  cites: ORS 285C.075
+  cause: renumbered_or_repealed
 - rule: oar-123-656-1600
   cites: ORS 285C.309
   cause: renumbered_or_repealed
-- rule: oar-123-656-2300
-  cites: OAR 123-650-9500
-  cause: oar_unclassified
 - rule: oar-123-662-1200
   cites: OAR 123-662-1100
   cause: oar_unclassified
-- rule: oar-123-662-2000
-  cites: OAR 123-650-9500
-  cause: oar_unclassified
-- rule: oar-123-668-1600
-  cites: OAR 123-668-4000
-  cause: oar_unclassified
-- rule: oar-123-668-2000
-  cites: OAR 123-674-0300
-  cause: oar_unclassified
-- rule: oar-123-668-2000
-  cites: OAR 123-674-0400
-  cause: oar_unclassified
+- rule: oar-123-668-4200
+  cites: ORS 285C.075
+  cause: renumbered_or_repealed
 - rule: oar-123-674-0600
   cites: OAR 123-065-0200
   cause: oar_unclassified
-- rule: oar-123-674-0700
-  cites: OAR 123-668-3000
+- rule: oar-123-674-5050
+  cites: OAR 123-674-9500
   cause: oar_unclassified
-- rule: oar-123-674-0700
-  cites: OAR 123-668-4000
-  cause: oar_unclassified
-- rule: oar-123-674-2500
-  cites: OAR 123-662-2100
-  cause: oar_unclassified
-- rule: oar-123-674-2500
-  cites: OAR 123-674-0350
-  cause: oar_unclassified
-- rule: oar-123-674-2500
-  cites: OAR 123-674-0400
-  cause: oar_unclassified
-- rule: oar-123-674-3700
-  cites: OAR 123-650-9500
-  cause: oar_unclassified
-- rule: oar-123-674-4100
-  cites: OAR 123-674-0400
-  cause: oar_unclassified
-- rule: oar-123-674-5400
-  cites: OAR 123-674-5050
-  cause: oar_unclassified
-- rule: oar-123-674-6000
-  cites: OAR 123-650-9500
-  cause: oar_unclassified
-- rule: oar-123-674-6400
-  cites: OAR 123-650-9600
-  cause: oar_unclassified
-- rule: oar-123-674-6400
-  cites: OAR 123-674-0300
-  cause: oar_unclassified
-- rule: oar-123-674-6400
-  cites: OAR 123-674-0400
-  cause: oar_unclassified
-- rule: oar-123-680-1200
-  cites: OAR 123-668-4000
-  cause: oar_unclassified
-- rule: oar-123-690-2000
-  cites: OAR 123-668-3000
-  cause: oar_unclassified
-- rule: oar-123-690-2000
-  cites: OAR 123-668-4000
-  cause: oar_unclassified
-- rule: oar-123-690-2400
-  cites: OAR 123-650-9500
-  cause: oar_unclassified
+- rule: oar-123-690-3000
+  cites: ORS 285.403
+  cause: renumbered_or_repealed
 - rule: oar-123-690-5200
   cites: ORS 285.412
   cause: renumbered_or_repealed
+- rule: oar-123-690-6900
+  cites: OAR 123-674-9500
+  cause: oar_unclassified
+- rule: oar-123-700-0010
+  cites: OAR 123-001-0010
+  cause: oar_unclassified
 - rule: oar-124-010-0010
   cites: ORS 265B.165
   cause: chapter_absent
@@ -650,14 +590,8 @@ dead_citations:
 - rule: oar-125-085-0000
   cites: ORS 279.545
   cause: renumbered_or_repealed
-- rule: oar-125-090-0000
-  cites: OAR 125-090-0003
-  cause: oar_unclassified
-- rule: oar-125-090-0000
-  cites: OAR 125-090-0015
-  cause: oar_unclassified
-- rule: oar-125-090-0000
-  cites: OAR 125-090-0132
+- rule: oar-125-090-0105
+  cites: OAR 125-080-0075
   cause: oar_unclassified
 - rule: oar-125-110-0001
   cites: ORS 283.060
@@ -695,9 +629,6 @@ dead_citations:
 - rule: oar-125-247-0185
   cites: ORS 184.477
   cause: renumbered_or_repealed
-- rule: oar-125-247-0200
-  cites: OAR 125-246-0230
-  cause: oar_unclassified
 - rule: oar-125-247-0287
   cites: ORS 192.410
   cause: renumbered_or_repealed
@@ -719,9 +650,6 @@ dead_citations:
 - rule: oar-125-300-0200
   cites: ORS 689.125
   cause: renumbered_or_repealed
-- rule: oar-125-700-0125
-  cites: OAR 125-700-0126
-  cause: oar_unclassified
 - rule: oar-125-700-0155
   cites: ORS 192.496
   cause: renumbered_or_repealed
@@ -878,9 +806,6 @@ dead_citations:
 - rule: oar-137-049-0800
   cites: ORS 297C.505
   cause: chapter_absent
-- rule: oar-137-050-0735
-  cites: OAR 414-175-0075
-  cause: oar_unclassified
 - rule: oar-137-055-1020
   cites: OAR 137-050-0705
   cause: oar_unclassified
@@ -892,6 +817,21 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-137-060-0320
   cites: ORS 18.900
+  cause: renumbered_or_repealed
+- rule: oar-137-081-0010
+  cites: ORS 180.270
+  cause: renumbered_or_repealed
+- rule: oar-137-081-0020
+  cites: ORS 180.270
+  cause: renumbered_or_repealed
+- rule: oar-137-081-0020
+  cites: ORS 24.190
+  cause: chapter_absent
+- rule: oar-137-081-0030
+  cites: ORS 180.270
+  cause: renumbered_or_repealed
+- rule: oar-137-081-0040
+  cites: ORS 180.270
   cause: renumbered_or_repealed
 - rule: oar-137-100-0005
   cites: ORS 23.240
@@ -1007,6 +947,9 @@ dead_citations:
 - rule: oar-141-071-0590
   cites: OAR 141-071-0690
   cause: oar_unclassified
+- rule: oar-141-079-0001
+  cites: ORS 530.450
+  cause: renumbered_or_repealed
 - rule: oar-141-081-0050
   cites: ORS 274.029
   cause: renumbered_or_repealed
@@ -1103,9 +1046,6 @@ dead_citations:
 - rule: oar-150-305-0068
   cites: ORS 305.230
   cause: renumbered_or_repealed
-- rule: oar-150-305-0090
-  cites: OAR 150-305-0193
-  cause: oar_unclassified
 - rule: oar-150-305-0170
   cites: ORS 305.230
   cause: renumbered_or_repealed
@@ -1127,6 +1067,9 @@ dead_citations:
 - rule: oar-150-305-0390
   cites: ORS 305.727
   cause: renumbered_or_repealed
+- rule: oar-150-305-0442
+  cites: OAR 150-305-0406
+  cause: oar_unclassified
 - rule: oar-150-307-0030
   cites: ORS 311.211
   cause: renumbered_or_repealed
@@ -1286,9 +1229,6 @@ dead_citations:
 - rule: oar-150-316-0020
   cites: ORS 316.021
   cause: renumbered_or_repealed
-- rule: oar-150-316-0135
-  cites: OAR 150-316-0136
-  cause: oar_unclassified
 - rule: oar-150-316-0171
   cites: OAR 150-316-0005
   cause: oar_unclassified
@@ -1351,6 +1291,12 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-150-321-0610
   cites: ORS 305.230
+  cause: renumbered_or_repealed
+- rule: oar-150-323-0280
+  cites: ORS 323.380
+  cause: renumbered_or_repealed
+- rule: oar-150-323-0305
+  cites: ORS 475B.177
   cause: renumbered_or_repealed
 - rule: oar-160-005-0007
   cites: ORS 68.675
@@ -1694,9 +1640,6 @@ dead_citations:
 - rule: oar-161-008-0030
   cites: ORS 192.440
   cause: renumbered_or_repealed
-- rule: oar-161-010-0025
-  cites: OAR 161-020-0061
-  cause: oar_unclassified
 - rule: oar-161-010-0035
   cites: OAR 161-015-0025
   cause: oar_unclassified
@@ -1712,23 +1655,14 @@ dead_citations:
 - rule: oar-161-520-0010
   cites: OAR 161-510-0005
   cause: oar_unclassified
-- rule: oar-161-520-0030
-  cites: OAR 161-510-0010
-  cause: oar_unclassified
 - rule: oar-161-520-0040
   cites: OAR 161-510-0030
   cause: oar_unclassified
-- rule: oar-161-520-0045
-  cites: OAR 161-510-0010
-  cause: oar_unclassified
-- rule: oar-161-520-0050
-  cites: OAR 161-510-0010
-  cause: oar_unclassified
-- rule: oar-161-550-0010
-  cites: OAR 161-510-0010
-  cause: oar_unclassified
 - rule: oar-162-001-0000
   cites: ORS 183.351
+  cause: renumbered_or_repealed
+- rule: oar-162-040-0165
+  cites: ORS 294.050
   cause: renumbered_or_repealed
 - rule: oar-165-001-0010
   cites: ORS 260.285
@@ -1832,8 +1766,11 @@ dead_citations:
 - rule: oar-166-030-0060
   cites: OAR 166-017-0061
   cause: oar_unclassified
-- rule: oar-166-150-0185
-  cites: OAR 734-020-0013
+- rule: oar-166-150-0001
+  cites: OAR 166-017-0011
+  cause: oar_unclassified
+- rule: oar-166-200-0410
+  cites: OAR 166-017-0011
   cause: oar_unclassified
 - rule: oar-166-300-0010
   cites: OAR 166-017-0011
@@ -1934,12 +1871,42 @@ dead_citations:
 - rule: oar-170-061-0000
   cites: OAR 170-055-0000
   cause: oar_unclassified
-- rule: oar-170-061-0015
-  cites: OAR 170-071-0005
-  cause: oar_unclassified
 - rule: oar-170-080-0025
   cites: OAR 436-050-0420
   cause: oar_unclassified
+- rule: oar-170-130-0000
+  cites: ORS 179.540
+  cause: renumbered_or_repealed
+- rule: oar-170-130-0010
+  cites: ORS 116.235
+  cause: renumbered_or_repealed
+- rule: oar-170-130-0015
+  cites: ORS 116.235
+  cause: renumbered_or_repealed
+- rule: oar-170-130-0020
+  cites: ORS 116.235
+  cause: renumbered_or_repealed
+- rule: oar-170-130-0025
+  cites: ORS 722.262
+  cause: renumbered_or_repealed
+- rule: oar-170-130-0025
+  cites: ORS 722.660
+  cause: renumbered_or_repealed
+- rule: oar-170-135-0010
+  cites: ORS 111.045
+  cause: renumbered_or_repealed
+- rule: oar-170-135-0015
+  cites: ORS 113.328
+  cause: renumbered_or_repealed
+- rule: oar-170-140-0105
+  cites: ORS 98.932
+  cause: renumbered_or_repealed
+- rule: oar-170-140-0110
+  cites: OAR 170-040-0105
+  cause: oar_unclassified
+- rule: oar-170-150-0005
+  cites: ORS 170.050
+  cause: chapter_absent
 - rule: oar-171-002-0000
   cites: ORS 192.420
   cause: renumbered_or_repealed
@@ -2075,12 +2042,6 @@ dead_citations:
 - rule: oar-177-010-0100
   cites: ORS 192.440
   cause: renumbered_or_repealed
-- rule: oar-177-046-0015
-  cites: OAR 177-093-0005
-  cause: oar_unclassified
-- rule: oar-177-046-0100
-  cites: OAR 177-094-0080
-  cause: oar_unclassified
 - rule: oar-177-090-0000
   cites: ORS 461.213
   cause: renumbered_or_repealed
@@ -2095,6 +2056,15 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-199-008-0035
   cites: OAR 199-001-0020
+  cause: oar_unclassified
+- rule: oar-199-050-0010
+  cites: ORS 244.610
+  cause: renumbered_or_repealed
+- rule: oar-199-050-0040
+  cites: ORS 244.940
+  cause: renumbered_or_repealed
+- rule: oar-199-050-0080
+  cites: OAR 199-005-0085
   cause: oar_unclassified
 - rule: oar-213-001-0010
   cites: ORS 136.656
@@ -2207,6 +2177,18 @@ dead_citations:
 - rule: oar-213-021-0010
   cites: ORS 475B.354
   cause: renumbered_or_repealed
+- rule: oar-213-030-0031
+  cites: OAR 213-030-0010
+  cause: oar_unclassified
+- rule: oar-213-030-0061
+  cites: OAR 213-030-0050
+  cause: oar_unclassified
+- rule: oar-213-030-0071
+  cites: OAR 213-030-0040
+  cause: oar_unclassified
+- rule: oar-213-030-0071
+  cites: OAR 213-030-0050
+  cause: oar_unclassified
 - rule: oar-213-050-0055
   cites: ORS 417.845
   cause: renumbered_or_repealed
@@ -2216,9 +2198,6 @@ dead_citations:
 - rule: oar-230-020-0060
   cites: ORS 463.115
   cause: renumbered_or_repealed
-- rule: oar-230-020-0450
-  cites: OAR 230-110-0080
-  cause: oar_unclassified
 - rule: oar-230-030-0000
   cites: ORS 463.135
   cause: renumbered_or_repealed
@@ -2549,12 +2528,6 @@ dead_citations:
 - rule: oar-259-013-0290
   cites: OAR 259-008-0070
   cause: oar_unclassified
-- rule: oar-259-060-0450
-  cites: OAR 259-060-0012
-  cause: oar_unclassified
-- rule: oar-259-060-0450
-  cites: OAR 259-060-0201
-  cause: oar_unclassified
 - rule: oar-259-070-0010
   cites: OAR 430-030-0055
   cause: oar_unclassified
@@ -2660,12 +2633,18 @@ dead_citations:
 - rule: oar-274-021-0020
   cites: ORS 407.115
   cause: renumbered_or_repealed
+- rule: oar-274-025-0010
+  cites: ORS 59.840
+  cause: renumbered_or_repealed
+- rule: oar-274-025-0020
+  cites: ORS 291.021
+  cause: renumbered_or_repealed
+- rule: oar-274-025-0050
+  cites: ORS 407.115
+  cause: renumbered_or_repealed
 - rule: oar-274-028-0001
   cites: ORS 407.115
   cause: renumbered_or_repealed
-- rule: oar-274-028-0005
-  cites: OAR 274-025-0010
-  cause: oar_unclassified
 - rule: oar-274-028-0015
   cites: ORS 407.115
   cause: renumbered_or_repealed
@@ -2723,6 +2702,12 @@ dead_citations:
 - rule: oar-291-013-0140
   cites: OAR 291-013-0105
   cause: oar_unclassified
+- rule: oar-291-037-0035
+  cites: ORS 192.440
+  cause: renumbered_or_repealed
+- rule: oar-291-037-0040
+  cites: ORS 192.440
+  cause: renumbered_or_repealed
 - rule: oar-291-039-0010
   cites: ORS 181.010
   cause: renumbered_or_repealed
@@ -2752,6 +2737,18 @@ dead_citations:
   cause: oar_unclassified
 - rule: oar-291-097-0235
   cites: ORS 475.840
+  cause: renumbered_or_repealed
+- rule: oar-291-100-0090
+  cites: ORS 137.550
+  cause: renumbered_or_repealed
+- rule: oar-291-100-0095
+  cites: ORS 137.373
+  cause: renumbered_or_repealed
+- rule: oar-291-100-0130
+  cites: OAR 291-097-0020
+  cause: oar_unclassified
+- rule: oar-291-100-0140
+  cites: ORS 144.390
   cause: renumbered_or_repealed
 - rule: oar-291-117-0008
   cites: ORS 170.040
@@ -2786,6 +2783,12 @@ dead_citations:
 - rule: oar-291-156-0005
   cites: ORS 421.608
   cause: renumbered_or_repealed
+- rule: oar-291-159-0010
+  cites: OAR 291-159-0140
+  cause: oar_unclassified
+- rule: oar-291-159-0130
+  cites: OAR 125-247-0240
+  cause: oar_unclassified
 - rule: oar-291-202-0030
   cites: ORS 144.625
   cause: renumbered_or_repealed
@@ -2800,24 +2803,6 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-291-207-0100
   cites: OAR 735-062-0015
-  cause: oar_unclassified
-- rule: oar-309-009-0000
-  cites: OAR 309-019-0181
-  cause: oar_unclassified
-- rule: oar-309-009-0000
-  cites: OAR 309-019-0182
-  cause: oar_unclassified
-- rule: oar-309-009-0000
-  cites: OAR 309-019-0183
-  cause: oar_unclassified
-- rule: oar-309-009-0030
-  cites: OAR 309-019-0181
-  cause: oar_unclassified
-- rule: oar-309-009-0030
-  cites: OAR 309-019-0182
-  cause: oar_unclassified
-- rule: oar-309-009-0030
-  cites: OAR 309-019-0183
   cause: oar_unclassified
 - rule: oar-309-011-0026
   cites: OAR 309-011-0230
@@ -2858,17 +2843,11 @@ dead_citations:
 - rule: oar-309-018-0125
   cites: OAR 410-180-0310
   cause: oar_unclassified
-- rule: oar-309-018-0125
-  cites: OAR 877-015-0105
-  cause: oar_unclassified
 - rule: oar-309-018-0130
   cites: OAR 333-071-0057
   cause: oar_unclassified
 - rule: oar-309-019-0105
   cites: OAR 410-180-0310
-  cause: oar_unclassified
-- rule: oar-309-019-0105
-  cites: OAR 877-015-0105
   cause: oar_unclassified
 - rule: oar-309-019-0105
   cites: ORS 414.625
@@ -2879,9 +2858,6 @@ dead_citations:
 - rule: oar-309-019-0115
   cites: ORS 109.610
   cause: renumbered_or_repealed
-- rule: oar-309-019-0125
-  cites: OAR 877-015-0105
-  cause: oar_unclassified
 - rule: oar-309-019-0162
   cites: OAR 410-180-0300
   cause: oar_unclassified
@@ -2891,15 +2867,15 @@ dead_citations:
 - rule: oar-309-019-0163
   cites: OAR 410-180-0305
   cause: oar_unclassified
-- rule: oar-309-019-0240
-  cites: OAR 309-019-0233
+- rule: oar-309-019-0231
+  cites: OAR 410-180-0300
   cause: oar_unclassified
 - rule: oar-309-019-0270
   cites: OAR 331-995-0000
   cause: oar_unclassified
-- rule: oar-309-019-0280
-  cites: OAR 410-173-0005
-  cause: oar_unclassified
+- rule: oar-309-021-0110
+  cites: ORS 414.625
+  cause: renumbered_or_repealed
 - rule: oar-309-022-0100
   cites: OAR 943-120-0000
   cause: oar_unclassified
@@ -2960,9 +2936,12 @@ dead_citations:
 - rule: oar-309-033-0210
   cites: ORS 677.755
   cause: renumbered_or_repealed
-- rule: oar-309-033-0280
-  cites: OAR 309-033-0282
-  cause: oar_unclassified
+- rule: oar-309-033-0265
+  cites: ORS 426.241
+  cause: renumbered_or_repealed
+- rule: oar-309-033-0282
+  cites: ORS 422.005
+  cause: chapter_absent
 - rule: oar-309-033-0432
   cites: OAR 333-250-0040
   cause: oar_unclassified
@@ -2978,24 +2957,15 @@ dead_citations:
 - rule: oar-309-033-0810
   cites: ORS 426.241
   cause: renumbered_or_repealed
+- rule: oar-309-033-0811
+  cites: OAR 309-033-0570
+  cause: oar_unclassified
 - rule: oar-309-033-0820
   cites: ORS 426.241
   cause: renumbered_or_repealed
 - rule: oar-309-033-0830
   cites: ORS 426.241
   cause: renumbered_or_repealed
-- rule: oar-309-033-0940
-  cites: OAR 309-033-0222
-  cause: oar_unclassified
-- rule: oar-309-035-0105
-  cites: OAR 410-173-0005
-  cause: oar_unclassified
-- rule: oar-309-035-0105
-  cites: OAR 410-173-0025
-  cause: oar_unclassified
-- rule: oar-309-035-0105
-  cites: OAR 410-173-0040
-  cause: oar_unclassified
 - rule: oar-309-035-0105
   cites: ORS 414.625
   cause: renumbered_or_repealed
@@ -3005,26 +2975,17 @@ dead_citations:
 - rule: oar-309-035-0130
   cites: OAR 410-172-0045
   cause: oar_unclassified
+- rule: oar-309-035-0156
+  cites: OAR 309-035-0157
+  cause: oar_unclassified
 - rule: oar-309-035-0170
   cites: OAR 309-035-0280
-  cause: oar_unclassified
-- rule: oar-309-035-0190
-  cites: OAR 410-173-0025
-  cause: oar_unclassified
-- rule: oar-309-035-0190
-  cites: OAR 410-173-0035
-  cause: oar_unclassified
-- rule: oar-309-035-0190
-  cites: OAR 410-173-0040
   cause: oar_unclassified
 - rule: oar-309-035-0215
   cites: ORS 689.684
   cause: renumbered_or_repealed
 - rule: oar-309-039-0570
   cites: OAR 413-210-0100
-  cause: oar_unclassified
-- rule: oar-309-040-0315
-  cites: OAR 410-173-0035
   cause: oar_unclassified
 - rule: oar-309-040-0360
   cites: OAR 407-007-0280
@@ -3035,6 +2996,21 @@ dead_citations:
 - rule: oar-309-040-0410
   cites: ORS 192.310
   cause: renumbered_or_repealed
+- rule: oar-309-045-1000
+  cites: ORS 430.730
+  cause: renumbered_or_repealed
+- rule: oar-309-045-1220
+  cites: OAR 309-045-0160
+  cause: oar_unclassified
+- rule: oar-309-045-1240
+  cites: ORS 183.746
+  cause: renumbered_or_repealed
+- rule: oar-309-048-0060
+  cites: OAR 309-032-1505
+  cause: oar_unclassified
+- rule: oar-309-048-0100
+  cites: OAR 309-032-1535
+  cause: oar_unclassified
 - rule: oar-309-060-0105
   cites: ORS 414.625
   cause: renumbered_or_repealed
@@ -3047,21 +3023,36 @@ dead_citations:
 - rule: oar-309-060-0170
   cites: ORS 413.485
   cause: renumbered_or_repealed
-- rule: oar-309-088-0105
-  cites: OAR 309-088-0130
+- rule: oar-309-072-0160
+  cites: OAR 410-180-0305
   cause: oar_unclassified
-- rule: oar-309-088-0105
-  cites: OAR 309-088-0146
+- rule: oar-309-073-0025
+  cites: OAR 309-073-0160
   cause: oar_unclassified
-- rule: oar-309-088-0115
-  cites: OAR 309-083-0010
+- rule: oar-309-073-0035
+  cites: OAR 309-073-0130
+  cause: oar_unclassified
+- rule: oar-309-073-0060
+  cites: ORS 689.684
+  cause: renumbered_or_repealed
+- rule: oar-309-073-0095
+  cites: ORS 192.410
+  cause: renumbered_or_repealed
+- rule: oar-309-073-0105
+  cites: ORS 183.746
+  cause: renumbered_or_repealed
+- rule: oar-309-081-0010
+  cites: OAR 309-081-0000
+  cause: oar_unclassified
+- rule: oar-309-083-0010
+  cites: OAR 309-083-0600
+  cause: oar_unclassified
+- rule: oar-309-083-0010
+  cites: OAR 410-180-0310
   cause: oar_unclassified
 - rule: oar-309-088-0115
   cites: ORS 426.238
   cause: renumbered_or_repealed
-- rule: oar-309-088-0125
-  cites: OAR 309-088-0130
-  cause: oar_unclassified
 - rule: oar-309-088-0125
   cites: ORS 426.238
   cause: renumbered_or_repealed
@@ -3269,6 +3260,9 @@ dead_citations:
 - rule: oar-330-140-0070
   cites: ORS 469.165
   cause: renumbered_or_repealed
+- rule: oar-330-140-0075
+  cites: ORS 469.165
+  cause: renumbered_or_repealed
 - rule: oar-330-140-0080
   cites: ORS 754.054
   cause: chapter_absent
@@ -3316,6 +3310,18 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-331-180-0010
   cites: OAR 331-020-0060
+  cause: oar_unclassified
+- rule: oar-331-250-0010
+  cites: OAR 331-200-0010
+  cause: oar_unclassified
+- rule: oar-331-250-0010
+  cites: OAR 331-210-0010
+  cause: oar_unclassified
+- rule: oar-331-255-0040
+  cites: OAR 331-200-0020
+  cause: oar_unclassified
+- rule: oar-331-255-0040
+  cites: OAR 331-205-0000
   cause: oar_unclassified
 - rule: oar-331-375-0020
   cites: ORS 676.592
@@ -3369,9 +3375,6 @@ dead_citations:
   cites: ORS 676.605
   cause: renumbered_or_repealed
 - rule: oar-331-710-0023
-  cites: OAR 331-740-0000
-  cause: oar_unclassified
-- rule: oar-331-710-0023
   cites: ORS 688.860
   cause: renumbered_or_repealed
 - rule: oar-331-710-0045
@@ -3391,6 +3394,9 @@ dead_citations:
   cause: oar_unclassified
 - rule: oar-331-715-0010
   cites: ORS 676.586
+  cause: renumbered_or_repealed
+- rule: oar-331-740-0000
+  cites: ORS 676.607
   cause: renumbered_or_repealed
 - rule: oar-331-800-0010
   cites: ORS 675.360
@@ -3452,30 +3458,9 @@ dead_citations:
 - rule: oar-331-905-0110
   cites: OAR 331-905-0065
   cause: oar_unclassified
-- rule: oar-331-910-0000
-  cites: OAR 331-910-0021
-  cause: oar_unclassified
-- rule: oar-331-910-0000
-  cites: OAR 331-910-0023
-  cause: oar_unclassified
-- rule: oar-331-910-0000
-  cites: OAR 331-910-0024
-  cause: oar_unclassified
-- rule: oar-331-910-0025
-  cites: OAR 331-910-0007
-  cause: oar_unclassified
-- rule: oar-331-910-0025
-  cites: OAR 331-910-0024
-  cause: oar_unclassified
-- rule: oar-331-910-0030
-  cites: OAR 331-910-0007
-  cause: oar_unclassified
 - rule: oar-331-910-0040
   cites: ORS 676.607
   cause: renumbered_or_repealed
-- rule: oar-331-910-0045
-  cites: OAR 331-910-0007
-  cause: oar_unclassified
 - rule: oar-331-915-0000
   cites: ORS 676.607
   cause: renumbered_or_repealed
@@ -3569,44 +3554,17 @@ dead_citations:
 - rule: oar-333-007-0220
   cites: ORS 475B.625
   cause: renumbered_or_repealed
-- rule: oar-333-007-0320
-  cites: OAR 333-007-0415
-  cause: oar_unclassified
-- rule: oar-333-007-0320
-  cites: OAR 333-007-0425
-  cause: oar_unclassified
-- rule: oar-333-007-0330
-  cites: OAR 333-007-0415
-  cause: oar_unclassified
-- rule: oar-333-007-0330
-  cites: OAR 333-007-0425
-  cause: oar_unclassified
 - rule: oar-333-007-0440
   cites: ORS 475B.555
   cause: renumbered_or_repealed
 - rule: oar-333-008-0010
   cites: ORS 678.245
   cause: renumbered_or_repealed
-- rule: oar-333-008-0570
-  cites: OAR 603-048-0520
-  cause: oar_unclassified
-- rule: oar-333-008-0570
-  cites: OAR 603-048-0540
-  cause: oar_unclassified
 - rule: oar-333-008-1110
   cites: OAR 333-008-1500
   cause: oar_unclassified
-- rule: oar-333-008-1200
-  cites: OAR 333-008-1785
-  cause: oar_unclassified
 - rule: oar-333-008-1690
   cites: OAR 333-008-1825
-  cause: oar_unclassified
-- rule: oar-333-008-1740
-  cites: OAR 333-008-1785
-  cause: oar_unclassified
-- rule: oar-333-008-1740
-  cites: OAR 845-026-0200
   cause: oar_unclassified
 - rule: oar-333-008-1820
   cites: ORS 192.501
@@ -3689,8 +3647,8 @@ dead_citations:
 - rule: oar-333-015-0105
   cites: ORS 422.015
   cause: chapter_absent
-- rule: oar-333-015-0305
-  cites: OAR 150-323-0500
+- rule: oar-333-015-0267
+  cites: OAR 333-015-0001
   cause: oar_unclassified
 - rule: oar-333-016-0095
   cites: ORS 480.110
@@ -3725,9 +3683,9 @@ dead_citations:
 - rule: oar-333-019-0017
   cites: ORS 686.350
   cause: renumbered_or_repealed
-- rule: oar-333-020-0132
-  cites: OAR 950-050-0160
-  cause: oar_unclassified
+- rule: oar-333-019-1011
+  cites: ORS 435.415
+  cause: renumbered_or_repealed
 - rule: oar-333-021-0700
   cites: ORS 677.365
   cause: renumbered_or_repealed
@@ -3780,15 +3738,6 @@ dead_citations:
   cites: ORS 443.355
   cause: renumbered_or_repealed
 - rule: oar-333-027-0060
-  cites: OAR 333-027-0115
-  cause: oar_unclassified
-- rule: oar-333-027-0060
-  cites: OAR 333-027-0125
-  cause: oar_unclassified
-- rule: oar-333-027-0060
-  cites: OAR 950-050-0160
-  cause: oar_unclassified
-- rule: oar-333-027-0060
   cites: ORS 43.085
   cause: renumbered_or_repealed
 - rule: oar-333-027-0190
@@ -3800,9 +3749,6 @@ dead_citations:
 - rule: oar-333-029-0020
   cites: ORS 446.3320
   cause: renumbered_or_repealed
-- rule: oar-333-030-0120
-  cites: OAR 837-045-0040
-  cause: oar_unclassified
 - rule: oar-333-031-0003
   cites: ORS 446.0315
   cause: renumbered_or_repealed
@@ -3814,9 +3760,6 @@ dead_citations:
   cause: oar_unclassified
 - rule: oar-333-031-0061
   cites: OAR 660-031-0020
-  cause: oar_unclassified
-- rule: oar-333-035-0125
-  cites: OAR 333-035-0160
   cause: oar_unclassified
 - rule: oar-333-039-0010
   cites: OAR 333-028-0000
@@ -3830,15 +3773,15 @@ dead_citations:
 - rule: oar-333-050-0095
   cites: ORS 431.262
   cause: renumbered_or_repealed
+- rule: oar-333-050-0350
+  cites: ORS 431.262
+  cause: renumbered_or_repealed
 - rule: oar-333-060-0055
   cites: ORS 440.011
   cause: renumbered_or_repealed
 - rule: oar-333-060-0090
   cites: ORS 448.031
   cause: renumbered_or_repealed
-- rule: oar-333-064-0025
-  cites: OAR 333-333-1010
-  cause: oar_unclassified
 - rule: oar-333-071-0205
   cites: ORS 441.005
   cause: renumbered_or_repealed
@@ -3872,18 +3815,6 @@ dead_citations:
 - rule: oar-333-071-0360
   cites: ORS 441.152
   cause: renumbered_or_repealed
-- rule: oar-333-071-0400
-  cites: OAR 333-071-0423
-  cause: oar_unclassified
-- rule: oar-333-071-0400
-  cites: OAR 333-071-0425
-  cause: oar_unclassified
-- rule: oar-333-071-0400
-  cites: OAR 950-050-0160
-  cause: oar_unclassified
-- rule: oar-333-071-0420
-  cites: OAR 333-071-0423
-  cause: oar_unclassified
 - rule: oar-333-071-0485
   cites: ORS 441.151
   cause: renumbered_or_repealed
@@ -3893,9 +3824,6 @@ dead_citations:
 - rule: oar-333-076-0118
   cites: ORS 441.226
   cause: renumbered_or_repealed
-- rule: oar-333-076-0160
-  cites: OAR 950-050-0160
-  cause: oar_unclassified
 - rule: oar-333-076-0260
   cites: ORS 441.170
   cause: renumbered_or_repealed
@@ -3905,65 +3833,20 @@ dead_citations:
 - rule: oar-333-076-0890
   cites: ORS 441.226
   cause: renumbered_or_repealed
-- rule: oar-333-076-0940
-  cites: OAR 950-050-0160
-  cause: oar_unclassified
 - rule: oar-333-076-1090
   cites: ORS 441.170
   cause: renumbered_or_repealed
-- rule: oar-333-077-0010
-  cites: OAR 333-077-0000
-  cause: oar_unclassified
-- rule: oar-333-077-0010
-  cites: OAR 333-077-0260
-  cause: oar_unclassified
-- rule: oar-333-077-0015
-  cites: OAR 333-077-0040
-  cause: oar_unclassified
-- rule: oar-333-077-0055
-  cites: OAR 333-077-0060
-  cause: oar_unclassified
-- rule: oar-333-077-0070
-  cites: OAR 333-077-0200
-  cause: oar_unclassified
-- rule: oar-333-077-0090
-  cites: OAR 333-077-0080
-  cause: oar_unclassified
-- rule: oar-333-077-0090
-  cites: OAR 333-077-0125
-  cause: oar_unclassified
-- rule: oar-333-077-0090
-  cites: OAR 333-077-0170
-  cause: oar_unclassified
-- rule: oar-333-077-0090
-  cites: OAR 333-077-0180
-  cause: oar_unclassified
-- rule: oar-333-077-0090
-  cites: OAR 333-077-0190
-  cause: oar_unclassified
-- rule: oar-333-077-0090
-  cites: OAR 950-050-0160
-  cause: oar_unclassified
-- rule: oar-333-077-0130
-  cites: OAR 333-077-0100
-  cause: oar_unclassified
-- rule: oar-333-077-0130
-  cites: OAR 333-077-0125
-  cause: oar_unclassified
-- rule: oar-333-077-0220
-  cites: OAR 333-077-0190
-  cause: oar_unclassified
+- rule: oar-333-077-0060
+  cites: ORS 192.410
+  cause: renumbered_or_repealed
+- rule: oar-333-077-0170
+  cites: ORS 433.285
+  cause: renumbered_or_repealed
 - rule: oar-333-100-0005
   cites: ORS 438.110
   cause: renumbered_or_repealed
-- rule: oar-333-101-0020
-  cites: OAR 333-103-0055
-  cause: oar_unclassified
 - rule: oar-333-102-0355
   cites: OAR 333-102-0003
-  cause: oar_unclassified
-- rule: oar-333-103-0003
-  cites: OAR 333-103-0055
   cause: oar_unclassified
 - rule: oar-333-103-0015
   cites: OAR 333-102-0103
@@ -3976,9 +3859,6 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-333-109-0045
   cites: OAR 333-104-0035
-  cause: oar_unclassified
-- rule: oar-333-116-0330
-  cites: OAR 333-116-1011
   cause: oar_unclassified
 - rule: oar-333-118-0020
   cites: OAR 333-118-0035
@@ -4076,9 +3956,6 @@ dead_citations:
 - rule: oar-333-124-0010
   cites: ORS 431.925
   cause: renumbered_or_repealed
-- rule: oar-333-150-0000
-  cites: OAR 603-029-4000
-  cause: oar_unclassified
 - rule: oar-333-157-0000
   cites: ORS 624.100
   cause: renumbered_or_repealed
@@ -4121,18 +3998,6 @@ dead_citations:
 - rule: oar-333-200-0080
   cites: ORS 181.640
   cause: renumbered_or_repealed
-- rule: oar-333-250-0250
-  cites: OAR 333-264-0010
-  cause: oar_unclassified
-- rule: oar-333-250-0265
-  cites: OAR 333-255-0095
-  cause: oar_unclassified
-- rule: oar-333-250-0265
-  cites: OAR 333-265-0027
-  cause: oar_unclassified
-- rule: oar-333-250-0280
-  cites: OAR 333-265-0027
-  cause: oar_unclassified
 - rule: oar-333-260-0000
   cites: ORS 682.205
   cause: renumbered_or_repealed
@@ -4157,45 +4022,12 @@ dead_citations:
 - rule: oar-333-260-0070
   cites: ORS 682.205
   cause: renumbered_or_repealed
-- rule: oar-333-264-0050
-  cites: OAR 333-264-0070
-  cause: oar_unclassified
-- rule: oar-333-264-0050
-  cites: OAR 333-264-0090
-  cause: oar_unclassified
-- rule: oar-333-264-0100
-  cites: OAR 333-264-0140
-  cause: oar_unclassified
-- rule: oar-333-264-0110
-  cites: OAR 333-264-0140
-  cause: oar_unclassified
-- rule: oar-333-264-0120
-  cites: OAR 333-264-0140
-  cause: oar_unclassified
-- rule: oar-333-265-0025
-  cites: OAR 333-264-0140
-  cause: oar_unclassified
-- rule: oar-333-265-0050
-  cites: OAR 333-265-0027
-  cause: oar_unclassified
-- rule: oar-333-265-0060
-  cites: OAR 333-265-0027
-  cause: oar_unclassified
-- rule: oar-333-265-0090
-  cites: OAR 333-265-0027
-  cause: oar_unclassified
-- rule: oar-333-275-0080
-  cites: OAR 333-275-0085
-  cause: oar_unclassified
 - rule: oar-333-500-0010
   cites: OAR 333-535-0120
   cause: oar_unclassified
 - rule: oar-333-500-0010
   cites: ORS 441.005
   cause: renumbered_or_repealed
-- rule: oar-333-500-0025
-  cites: OAR 333-505-0045
-  cause: oar_unclassified
 - rule: oar-333-500-0031
   cites: ORS 441.021
   cause: renumbered_or_repealed
@@ -4205,12 +4037,9 @@ dead_citations:
 - rule: oar-333-501-0045
   cites: ORS 441.175
   cause: renumbered_or_repealed
-- rule: oar-333-505-0030
-  cites: OAR 333-505-0045
-  cause: oar_unclassified
-- rule: oar-333-505-0033
-  cites: OAR 950-050-0160
-  cause: oar_unclassified
+- rule: oar-333-503-0010
+  cites: ORS 441.151
+  cause: renumbered_or_repealed
 - rule: oar-333-510-0030
   cites: ORS 441.160
   cause: renumbered_or_repealed
@@ -4241,15 +4070,9 @@ dead_citations:
 - rule: oar-333-520-0035
   cites: OAR 855-041-0135
   cause: oar_unclassified
-- rule: oar-333-536-0005
-  cites: OAR 333-536-0052
-  cause: oar_unclassified
 - rule: oar-333-536-0043
   cites: ORS 192.410
   cause: renumbered_or_repealed
-- rule: oar-333-536-0070
-  cites: OAR 333-536-0051
-  cause: oar_unclassified
 - rule: oar-333-536-0125
   cites: ORS 183.746
   cause: renumbered_or_repealed
@@ -4262,14 +4085,8 @@ dead_citations:
 - rule: oar-333-540-0050
   cites: ORS 192.410
   cause: renumbered_or_repealed
-- rule: oar-333-550-0000
-  cites: OAR 333-545-0020
-  cause: oar_unclassified
 - rule: oar-333-560-0140
   cites: OAR 333-500-0070
-  cause: oar_unclassified
-- rule: oar-333-570-0050
-  cites: OAR 333-545-0020
   cause: oar_unclassified
 - rule: oar-333-580-0070
   cites: ORS 442.583
@@ -4277,18 +4094,9 @@ dead_citations:
 - rule: oar-333-580-0070
   cites: ORS 442.584
   cause: renumbered_or_repealed
-- rule: oar-333-590-0010
-  cites: OAR 333-545-0020
-  cause: oar_unclassified
 - rule: oar-333-590-0050
   cites: ORS 442.025
   cause: renumbered_or_repealed
-- rule: oar-333-590-0060
-  cites: OAR 333-545-0020
-  cause: oar_unclassified
-- rule: oar-333-675-0230
-  cites: OAR 333-675-0130
-  cause: oar_unclassified
 - rule: oar-333-700-0005
   cites: ORS 441.005
   cause: renumbered_or_repealed
@@ -4301,9 +4109,6 @@ dead_citations:
 - rule: oar-333-700-0063
   cites: ORS 441.170
   cause: renumbered_or_repealed
-- rule: oar-333-700-0115
-  cites: OAR 950-050-0160
-  cause: oar_unclassified
 - rule: oar-334-010-0010
   cites: ORS 192.410
   cause: renumbered_or_repealed
@@ -4313,15 +4118,15 @@ dead_citations:
 - rule: oar-334-020-0055
   cites: OAR 333-019-1010
   cause: oar_unclassified
-- rule: oar-334-020-0055
-  cites: OAR 333-019-1011
-  cause: oar_unclassified
 - rule: oar-335-005-0026
   cites: ORS 181.534
   cause: renumbered_or_repealed
 - rule: oar-335-005-0026
   cites: ORS 183.414
   cause: renumbered_or_repealed
+- rule: oar-335-070-0020
+  cites: OAR 335-070-0010
+  cause: oar_unclassified
 - rule: oar-335-090-0010
   cites: ORS 192.410
   cause: renumbered_or_repealed
@@ -4337,6 +4142,9 @@ dead_citations:
 - rule: oar-337-021-0075
   cites: ORS 192.410
   cause: renumbered_or_repealed
+- rule: oar-337-030-0031
+  cites: OAR 333-019-1010
+  cause: oar_unclassified
 - rule: oar-339-001-0018
   cites: ORS 192.410
   cause: renumbered_or_repealed
@@ -4415,54 +4223,9 @@ dead_citations:
 - rule: oar-340-012-0028
   cites: ORS 183.090
   cause: renumbered_or_repealed
-- rule: oar-340-012-0054
-  cites: OAR 340-239-0100
-  cause: oar_unclassified
-- rule: oar-340-012-0054
-  cites: OAR 340-239-0110
-  cause: oar_unclassified
-- rule: oar-340-012-0054
-  cites: OAR 340-239-0200
-  cause: oar_unclassified
-- rule: oar-340-012-0054
-  cites: OAR 340-239-0400
-  cause: oar_unclassified
-- rule: oar-340-012-0054
-  cites: OAR 340-239-0600
-  cause: oar_unclassified
-- rule: oar-340-012-0054
-  cites: OAR 340-273-0110
-  cause: oar_unclassified
-- rule: oar-340-012-0054
-  cites: OAR 340-273-0120
-  cause: oar_unclassified
-- rule: oar-340-012-0054
-  cites: OAR 340-273-0150
-  cause: oar_unclassified
-- rule: oar-340-012-0054
-  cites: OAR 340-273-0450
-  cause: oar_unclassified
-- rule: oar-340-012-0054
-  cites: OAR 340-273-0500
-  cause: oar_unclassified
 - rule: oar-340-012-0083
   cites: ORS 783.600
   cause: renumbered_or_repealed
-- rule: oar-340-012-0135
-  cites: OAR 340-273-0110
-  cause: oar_unclassified
-- rule: oar-340-012-0135
-  cites: OAR 340-273-0150
-  cause: oar_unclassified
-- rule: oar-340-012-0135
-  cites: OAR 340-273-0450
-  cause: oar_unclassified
-- rule: oar-340-012-0140
-  cites: OAR 340-239-0110
-  cause: oar_unclassified
-- rule: oar-340-012-0140
-  cites: OAR 340-239-0800
-  cause: oar_unclassified
 - rule: oar-340-012-0140
   cites: ORS 459A.675
   cause: renumbered_or_repealed
@@ -4641,17 +4404,20 @@ dead_citations:
   cites: ORS 459.020
   cause: renumbered_or_repealed
 - rule: oar-340-050-0032
-  cites: OAR 340-052-0015
-  cause: oar_unclassified
-- rule: oar-340-050-0032
   cites: OAR 340-096-0020
   cause: oar_unclassified
-- rule: oar-340-054-0022
-  cites: OAR 340-054-0066
-  cause: oar_unclassified
-- rule: oar-340-054-0060
-  cites: OAR 340-052-0015
-  cause: oar_unclassified
+- rule: oar-340-052-0005
+  cites: ORS 454.626
+  cause: renumbered_or_repealed
+- rule: oar-340-052-0010
+  cites: ORS 454.626
+  cause: renumbered_or_repealed
+- rule: oar-340-052-0025
+  cites: ORS 454.425
+  cause: renumbered_or_repealed
+- rule: oar-340-052-0040
+  cites: ORS 454.626
+  cause: renumbered_or_repealed
 - rule: oar-340-056-0100
   cites: OAR 340-041-0006
   cause: oar_unclassified
@@ -4709,32 +4475,8 @@ dead_citations:
 - rule: oar-340-071-0115
   cites: ORS 454.775
   cause: renumbered_or_repealed
-- rule: oar-340-071-0130
-  cites: OAR 340-071-0132
-  cause: oar_unclassified
 - rule: oar-340-071-0135
   cites: OAR 340-071-0116
-  cause: oar_unclassified
-- rule: oar-340-071-0162
-  cites: OAR 340-071-0132
-  cause: oar_unclassified
-- rule: oar-340-071-0185
-  cites: OAR 340-071-0132
-  cause: oar_unclassified
-- rule: oar-340-071-0275
-  cites: OAR 340-071-0132
-  cause: oar_unclassified
-- rule: oar-340-071-0290
-  cites: OAR 340-071-0132
-  cause: oar_unclassified
-- rule: oar-340-071-0302
-  cites: OAR 340-071-0132
-  cause: oar_unclassified
-- rule: oar-340-071-0340
-  cites: OAR 340-071-0132
-  cause: oar_unclassified
-- rule: oar-340-071-0345
-  cites: OAR 340-071-0132
   cause: oar_unclassified
 - rule: oar-340-071-0415
   cites: ORS 310.630
@@ -4775,21 +4517,9 @@ dead_citations:
 - rule: oar-340-083-0100
   cites: ORS 45A.025
   cause: chapter_absent
-- rule: oar-340-090-0010
-  cites: OAR 340-090-0630
-  cause: oar_unclassified
-- rule: oar-340-090-0030
-  cites: OAR 340-090-0630
-  cause: oar_unclassified
 - rule: oar-340-090-0030
   cites: ORS 495A.929
   cause: chapter_absent
-- rule: oar-340-090-0040
-  cites: OAR 340-090-0630
-  cause: oar_unclassified
-- rule: oar-340-090-0110
-  cites: OAR 340-090-0630
-  cause: oar_unclassified
 - rule: oar-340-090-0320
   cites: OAR 340-012-0042
   cause: oar_unclassified
@@ -4799,65 +4529,23 @@ dead_citations:
 - rule: oar-340-090-0430
   cites: OAR 340-012-0042
   cause: oar_unclassified
+- rule: oar-340-090-0640
+  cites: ORS 495A.896
+  cause: chapter_absent
+- rule: oar-340-090-0650
+  cites: ORS 495A.887
+  cause: chapter_absent
 - rule: oar-340-091-0030
   cites: OAR 340-091-0100
-  cause: oar_unclassified
-- rule: oar-340-093-0030
-  cites: OAR 340-096-0260
-  cause: oar_unclassified
-- rule: oar-340-093-0030
-  cites: OAR 340-096-0290
-  cause: oar_unclassified
-- rule: oar-340-093-0030
-  cites: OAR 340-096-0300
-  cause: oar_unclassified
-- rule: oar-340-093-0030
-  cites: OAR 340-096-0310
   cause: oar_unclassified
 - rule: oar-340-093-0040
   cites: ORS 468.850
   cause: renumbered_or_repealed
-- rule: oar-340-093-0050
-  cites: OAR 340-096-0210
-  cause: oar_unclassified
-- rule: oar-340-093-0050
-  cites: OAR 340-096-0260
-  cause: oar_unclassified
-- rule: oar-340-093-0050
-  cites: OAR 340-096-0300
-  cause: oar_unclassified
-- rule: oar-340-093-0070
-  cites: OAR 340-096-0220
-  cause: oar_unclassified
-- rule: oar-340-093-0070
-  cites: OAR 340-096-0230
-  cause: oar_unclassified
-- rule: oar-340-093-0160
-  cites: OAR 340-090-0630
-  cause: oar_unclassified
 - rule: oar-340-093-0190
   cites: OAR 340-025-0850
   cause: oar_unclassified
 - rule: oar-340-096-0010
   cites: OAR 340-025-0850
-  cause: oar_unclassified
-- rule: oar-340-098-0000
-  cites: OAR 340-098-0230
-  cause: oar_unclassified
-- rule: oar-340-098-0000
-  cites: OAR 340-098-0270
-  cause: oar_unclassified
-- rule: oar-340-098-0000
-  cites: OAR 340-098-0400
-  cause: oar_unclassified
-- rule: oar-340-098-0000
-  cites: OAR 340-098-0460
-  cause: oar_unclassified
-- rule: oar-340-098-0010
-  cites: OAR 340-098-0230
-  cause: oar_unclassified
-- rule: oar-340-098-0010
-  cites: OAR 340-098-0270
   cause: oar_unclassified
 - rule: oar-340-100-0003
   cites: ORS 192.410
@@ -4870,9 +4558,6 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-340-100-0021
   cites: OAR 340-100-0011
-  cause: oar_unclassified
-- rule: oar-340-102-0041
-  cites: OAR 340-102-0230
   cause: oar_unclassified
 - rule: oar-340-105-0012
   cites: ORS 192.501
@@ -5033,20 +4718,11 @@ dead_citations:
 - rule: oar-340-172-0130
   cites: ORS 466.895
   cause: renumbered_or_repealed
-- rule: oar-340-200-0020
-  cites: OAR 340-212-0200
-  cause: oar_unclassified
-- rule: oar-340-200-0020
-  cites: OAR 340-247-8010
-  cause: oar_unclassified
 - rule: oar-340-210-0240
   cites: OAR 230-210-0225
   cause: oar_unclassified
-- rule: oar-340-210-0250
-  cites: OAR 340-212-0120
-  cause: oar_unclassified
-- rule: oar-340-210-0250
-  cites: OAR 340-212-0140
+- rule: oar-340-212-0130
+  cites: OAR 340-224-0200
   cause: oar_unclassified
 - rule: oar-340-214-0130
   cites: ORS 192.410
@@ -5060,18 +4736,6 @@ dead_citations:
 - rule: oar-340-216-0082
   cites: ORS 183.468
   cause: renumbered_or_repealed
-- rule: oar-340-218-0020
-  cites: OAR 340-212-0010
-  cause: oar_unclassified
-- rule: oar-340-218-0040
-  cites: OAR 340-212-0130
-  cause: oar_unclassified
-- rule: oar-340-218-0040
-  cites: OAR 340-212-0200
-  cause: oar_unclassified
-- rule: oar-340-218-0050
-  cites: OAR 340-212-0200
-  cause: oar_unclassified
 - rule: oar-340-222-0035
   cites: OAR 340-222-0043
   cause: oar_unclassified
@@ -5120,14 +4784,8 @@ dead_citations:
 - rule: oar-340-225-0060
   cites: OAR 340-020-0040
   cause: oar_unclassified
-- rule: oar-340-230-0230
-  cites: OAR 340-212-0120
-  cause: oar_unclassified
 - rule: oar-340-230-0350
   cites: OAR 340-210-0200
-  cause: oar_unclassified
-- rule: oar-340-232-0110
-  cites: OAR 340-212-0140
   cause: oar_unclassified
 - rule: oar-340-236-0320
   cites: ORS 192.410
@@ -5141,41 +4799,8 @@ dead_citations:
 - rule: oar-340-242-0370
   cites: OAR 340-014-0025
   cause: oar_unclassified
-- rule: oar-340-244-0232
-  cites: OAR 340-244-0231
-  cause: oar_unclassified
-- rule: oar-340-244-0234
-  cites: OAR 340-244-0231
-  cause: oar_unclassified
-- rule: oar-340-244-0238
-  cites: OAR 340-244-0237
-  cause: oar_unclassified
-- rule: oar-340-244-0238
-  cites: OAR 340-244-0251
-  cause: oar_unclassified
-- rule: oar-340-244-0242
-  cites: OAR 340-244-0241
-  cause: oar_unclassified
-- rule: oar-340-245-0020
-  cites: OAR 340-247-0020
-  cause: oar_unclassified
-- rule: oar-340-245-0040
-  cites: OAR 340-247-8010
-  cause: oar_unclassified
-- rule: oar-340-245-0200
-  cites: OAR 340-247-8010
-  cause: oar_unclassified
-- rule: oar-340-245-0210
-  cites: OAR 340-247-8010
-  cause: oar_unclassified
 - rule: oar-340-245-0220
   cites: OAR 340-244-9000
-  cause: oar_unclassified
-- rule: oar-340-245-0310
-  cites: OAR 340-247-8010
-  cause: oar_unclassified
-- rule: oar-340-245-0320
-  cites: OAR 340-247-8010
   cause: oar_unclassified
 - rule: oar-340-245-9000
   cites: OAR 340-244-9000
@@ -5213,8 +4838,14 @@ dead_citations:
 - rule: oar-340-246-0010
   cites: OAR 340-244-9000
   cause: oar_unclassified
-- rule: oar-340-246-0030
-  cites: OAR 340-247-0020
+- rule: oar-340-247-0030
+  cites: ORS 468.025
+  cause: renumbered_or_repealed
+- rule: oar-340-247-0040
+  cites: OAR 340-247-0300
+  cause: oar_unclassified
+- rule: oar-340-247-0040
+  cites: OAR 340-247-8020
   cause: oar_unclassified
 - rule: oar-340-248-0250
   cites: OAR 437-003-1926
@@ -5222,32 +4853,26 @@ dead_citations:
 - rule: oar-340-253-0000
   cites: ORS 468A.270
   cause: renumbered_or_repealed
-- rule: oar-340-253-0040
-  cites: OAR 340-257-0030
-  cause: oar_unclassified
-- rule: oar-340-253-0450
-  cites: OAR 340-253-1060
-  cause: oar_unclassified
 - rule: oar-340-253-0600
   cites: ORS 192.410
   cause: renumbered_or_repealed
-- rule: oar-340-253-1000
-  cites: OAR 340-253-1060
-  cause: oar_unclassified
 - rule: oar-340-253-1040
   cites: OAR 340-243-1030
   cause: oar_unclassified
 - rule: oar-340-256-0010
-  cites: OAR 340-256-0467
-  cause: oar_unclassified
-- rule: oar-340-256-0010
-  cites: OAR 340-256-0510
-  cause: oar_unclassified
-- rule: oar-340-256-0010
-  cites: OAR 340-256-0560
-  cause: oar_unclassified
-- rule: oar-340-256-0010
   cites: OAR 340-265-0469
+  cause: oar_unclassified
+- rule: oar-340-256-0467
+  cites: ORS 468.006
+  cause: renumbered_or_repealed
+- rule: oar-340-256-0467
+  cites: ORS 468.0066
+  cause: renumbered_or_repealed
+- rule: oar-340-256-0530
+  cites: OAR 345-256-0520
+  cause: oar_unclassified
+- rule: oar-340-257-0200
+  cites: OAR 340-270-0210
   cause: oar_unclassified
 - rule: oar-340-258-0230
   cites: OAR 340-252-0180
@@ -5273,47 +4898,11 @@ dead_citations:
 - rule: oar-340-266-0120
   cites: OAR 837-110-0100
   cause: oar_unclassified
-- rule: oar-340-270-0020
-  cites: OAR 340-270-0600
-  cause: oar_unclassified
-- rule: oar-340-270-0020
-  cites: OAR 340-270-0700
-  cause: oar_unclassified
-- rule: oar-340-270-0030
-  cites: OAR 340-270-0600
-  cause: oar_unclassified
-- rule: oar-340-270-0030
-  cites: OAR 340-270-0700
-  cause: oar_unclassified
-- rule: oar-340-270-0100
-  cites: OAR 340-270-0600
-  cause: oar_unclassified
-- rule: oar-340-270-0100
-  cites: OAR 340-270-0700
-  cause: oar_unclassified
-- rule: oar-340-270-0120
-  cites: OAR 340-270-0600
-  cause: oar_unclassified
-- rule: oar-340-270-0120
-  cites: OAR 340-270-0700
-  cause: oar_unclassified
-- rule: oar-340-270-0410
-  cites: OAR 340-270-0600
-  cause: oar_unclassified
-- rule: oar-340-270-0410
-  cites: OAR 340-270-0700
-  cause: oar_unclassified
 - rule: oar-340-270-0430
   cites: OAR 230-270-0200
   cause: oar_unclassified
 - rule: oar-340-270-0430
   cites: OAR 230-270-0300
-  cause: oar_unclassified
-- rule: oar-340-270-0430
-  cites: OAR 340-270-0600
-  cause: oar_unclassified
-- rule: oar-340-270-0430
-  cites: OAR 340-270-0700
   cause: oar_unclassified
 - rule: oar-340-272-0020
   cites: OAR 240-272-0450
@@ -5327,38 +4916,14 @@ dead_citations:
 - rule: oar-340-272-0405
   cites: OAR 240-272-0500
   cause: oar_unclassified
-- rule: oar-345-001-0010
-  cites: OAR 345-015-0115
-  cause: oar_unclassified
-- rule: oar-345-015-0180
-  cites: OAR 345-015-0115
-  cause: oar_unclassified
-- rule: oar-345-015-0200
-  cites: OAR 345-015-0415
-  cause: oar_unclassified
-- rule: oar-345-015-0230
-  cites: OAR 345-015-0415
-  cause: oar_unclassified
 - rule: oar-345-015-0500
   cites: ORS 192.410
   cause: renumbered_or_repealed
-- rule: oar-345-022-0000
-  cites: OAR 345-015-0115
-  cause: oar_unclassified
-- rule: oar-345-024-0500
-  cites: OAR 345-024-0503
-  cause: oar_unclassified
-- rule: oar-345-024-0550
-  cites: OAR 345-024-0503
-  cause: oar_unclassified
 - rule: oar-345-025-0006
   cites: OAR 345-027-0410
   cause: oar_unclassified
 - rule: oar-345-026-0080
   cites: OAR 345-027-0050
-  cause: oar_unclassified
-- rule: oar-345-027-0210
-  cites: OAR 345-022-0115
   cause: oar_unclassified
 - rule: oar-345-027-0210
   cites: OAR 345-027-0510
@@ -5377,12 +4942,6 @@ dead_citations:
   cause: oar_unclassified
 - rule: oar-345-027-0353
   cites: OAR 345-027-0510
-  cause: oar_unclassified
-- rule: oar-345-029-0070
-  cites: OAR 345-015-0400
-  cause: oar_unclassified
-- rule: oar-345-029-0100
-  cites: OAR 345-015-0400
   cause: oar_unclassified
 - rule: oar-350-011-0006
   cites: ORS 197.150
@@ -5483,21 +5042,9 @@ dead_citations:
 - rule: oar-407-007-0100
   cites: ORS 181.537
   cause: renumbered_or_repealed
-- rule: oar-407-007-0210
-  cites: OAR 333-333-4100
-  cause: oar_unclassified
-- rule: oar-407-007-0220
-  cites: OAR 333-333-4100
-  cause: oar_unclassified
-- rule: oar-407-007-0250
-  cites: OAR 333-333-4100
-  cause: oar_unclassified
 - rule: oar-407-007-0279
   cites: ORS 443.005
   cause: renumbered_or_repealed
-- rule: oar-407-007-0281
-  cites: OAR 333-333-4100
-  cause: oar_unclassified
 - rule: oar-407-007-0281
   cites: OAR 413-120-0400
   cause: oar_unclassified
@@ -5510,9 +5057,6 @@ dead_citations:
 - rule: oar-407-007-0281
   cites: ORS 475.992
   cause: renumbered_or_repealed
-- rule: oar-407-007-0290
-  cites: OAR 333-333-4100
-  cause: oar_unclassified
 - rule: oar-407-007-0430
   cites: OAR 137-003-0570
   cause: oar_unclassified
@@ -5615,9 +5159,6 @@ dead_citations:
 - rule: oar-409-022-0070
   cites: ORS 442.120
   cause: renumbered_or_repealed
-- rule: oar-409-023-0115
-  cites: OAR 409-023-0120
-  cause: oar_unclassified
 - rule: oar-409-025-0110
   cites: ORS 442.464
   cause: renumbered_or_repealed
@@ -5657,54 +5198,21 @@ dead_citations:
 - rule: oar-409-028-0020
   cites: ORS 413.432
   cause: renumbered_or_repealed
-- rule: oar-409-036-0010
-  cites: OAR 409-036-0015
-  cause: oar_unclassified
-- rule: oar-409-036-0020
-  cites: OAR 409-036-0035
-  cause: oar_unclassified
-- rule: oar-409-036-0030
-  cites: OAR 409-036-0015
-  cause: oar_unclassified
-- rule: oar-409-036-0050
-  cites: OAR 409-036-0015
-  cause: oar_unclassified
-- rule: oar-409-036-0070
-  cites: OAR 409-036-0015
-  cause: oar_unclassified
-- rule: oar-409-036-0070
-  cites: OAR 409-036-0035
-  cause: oar_unclassified
-- rule: oar-409-036-0080
-  cites: OAR 409-036-0035
-  cause: oar_unclassified
-- rule: oar-409-036-0090
-  cites: OAR 409-036-0015
-  cause: oar_unclassified
-- rule: oar-409-036-0110
-  cites: OAR 409-036-0015
-  cause: oar_unclassified
-- rule: oar-409-036-0120
-  cites: OAR 409-036-0035
-  cause: oar_unclassified
 - rule: oar-409-045-0030
   cites: ORS 441.226
   cause: renumbered_or_repealed
-- rule: oar-409-065-0005
-  cites: OAR 409-065-0040
+- rule: oar-409-070-0005
+  cites: OAR 406-070-0085
   cause: oar_unclassified
-- rule: oar-409-065-0010
-  cites: OAR 409-065-0050
+- rule: oar-409-070-0025
+  cites: OAR 407-070-0030
   cause: oar_unclassified
-- rule: oar-409-065-0015
-  cites: OAR 409-065-0035
-  cause: oar_unclassified
-- rule: oar-409-065-0020
-  cites: OAR 409-065-0050
-  cause: oar_unclassified
-- rule: oar-409-065-0030
-  cites: OAR 409-065-0042
-  cause: oar_unclassified
+- rule: oar-409-070-0067
+  cites: ORS 514.501
+  cause: chapter_absent
+- rule: oar-409-070-0082
+  cites: ORS 501.501
+  cause: renumbered_or_repealed
 - rule: oar-410-050-0720
   cites: ORS 192.501
   cause: renumbered_or_repealed
@@ -5717,47 +5225,14 @@ dead_citations:
 - rule: oar-410-110-0030
   cites: OAR 409-110-0025
   cause: oar_unclassified
-- rule: oar-410-120-0000
-  cites: OAR 410-115-0030
-  cause: oar_unclassified
-- rule: oar-410-120-0000
-  cites: OAR 410-120-1215
-  cause: oar_unclassified
+- rule: oar-410-115-0040
+  cites: ORS 414.610
+  cause: renumbered_or_repealed
 - rule: oar-410-120-0000
   cites: OAR 410-120-1230
   cause: oar_unclassified
 - rule: oar-410-120-0000
-  cites: OAR 410-120-2005
-  cause: oar_unclassified
-- rule: oar-410-120-0000
-  cites: OAR 410-120-2010
-  cause: oar_unclassified
-- rule: oar-410-120-0000
-  cites: OAR 410-120-2015
-  cause: oar_unclassified
-- rule: oar-410-120-0000
-  cites: OAR 410-120-2025
-  cause: oar_unclassified
-- rule: oar-410-120-0000
-  cites: OAR 410-120-2030
-  cause: oar_unclassified
-- rule: oar-410-120-0000
-  cites: OAR 410-134-0004
-  cause: oar_unclassified
-- rule: oar-410-120-0000
-  cites: OAR 410-134-0005
-  cause: oar_unclassified
-- rule: oar-410-120-0000
   cites: OAR 410-141-0520
-  cause: oar_unclassified
-- rule: oar-410-120-0000
-  cites: OAR 410-155-0000
-  cause: oar_unclassified
-- rule: oar-410-120-0000
-  cites: OAR 410-200-0455
-  cause: oar_unclassified
-- rule: oar-410-120-1160
-  cites: OAR 410-120-2000
   cause: oar_unclassified
 - rule: oar-410-120-1160
   cites: OAR 410-141-0520
@@ -5765,30 +5240,12 @@ dead_citations:
 - rule: oar-410-120-1210
   cites: OAR 140-120-0000
   cause: oar_unclassified
-- rule: oar-410-120-1210
-  cites: OAR 410-120-2000
-  cause: oar_unclassified
-- rule: oar-410-120-1210
-  cites: OAR 410-120-2005
-  cause: oar_unclassified
-- rule: oar-410-120-1210
-  cites: OAR 410-120-2015
-  cause: oar_unclassified
-- rule: oar-410-120-1210
-  cites: OAR 410-200-0445
-  cause: oar_unclassified
-- rule: oar-410-120-1210
-  cites: OAR 410-200-0455
+- rule: oar-410-120-1215
+  cites: OAR 410-120-1220
   cause: oar_unclassified
 - rule: oar-410-120-1260
   cites: ORS 414.610
   cause: renumbered_or_repealed
-- rule: oar-410-120-1280
-  cites: OAR 410-120-0001
-  cause: oar_unclassified
-- rule: oar-410-120-1280
-  cites: OAR 410-134-0005
-  cause: oar_unclassified
 - rule: oar-410-120-1285
   cites: ORS 414.685
   cause: renumbered_or_repealed
@@ -5819,48 +5276,15 @@ dead_citations:
 - rule: oar-410-120-1990
   cites: ORS 109.610
   cause: renumbered_or_repealed
-- rule: oar-410-121-0147
-  cites: OAR 410-134-0003
-  cause: oar_unclassified
-- rule: oar-410-121-0185
-  cites: OAR 855-115-0305
-  cause: oar_unclassified
 - rule: oar-410-121-0580
   cites: OAR 410-120-0760
-  cause: oar_unclassified
-- rule: oar-410-122-0080
-  cites: OAR 410-151-0001
-  cause: oar_unclassified
-- rule: oar-410-122-0080
-  cites: OAR 410-200-0455
-  cause: oar_unclassified
-- rule: oar-410-122-0720
-  cites: OAR 410-151-0001
   cause: oar_unclassified
 - rule: oar-410-123-1060
   cites: OAR 410-121-0144
   cause: oar_unclassified
-- rule: oar-410-123-1060
-  cites: OAR 410-151-0000
-  cause: oar_unclassified
-- rule: oar-410-123-1060
-  cites: OAR 410-151-0001
-  cause: oar_unclassified
-- rule: oar-410-123-1060
-  cites: OAR 410-200-0445
-  cause: oar_unclassified
-- rule: oar-410-123-1060
-  cites: OAR 410-200-0450
-  cause: oar_unclassified
-- rule: oar-410-123-1060
-  cites: OAR 410-200-0455
-  cause: oar_unclassified
 - rule: oar-410-123-1600
   cites: ORS 414.725
   cause: renumbered_or_repealed
-- rule: oar-410-124-0010
-  cites: OAR 410-134-0003
-  cause: oar_unclassified
 - rule: oar-410-125-0045
   cites: OAR 333-520-0700
   cause: oar_unclassified
@@ -5894,63 +5318,24 @@ dead_citations:
 - rule: oar-410-133-0040
   cites: OAR 410-141-0001
   cause: oar_unclassified
-- rule: oar-410-133-0040
-  cites: OAR 410-151-0001
-  cause: oar_unclassified
-- rule: oar-410-133-0040
-  cites: OAR 851-006-0011
-  cause: oar_unclassified
-- rule: oar-410-133-0090
-  cites: OAR 410-120-0001
-  cause: oar_unclassified
 - rule: oar-410-133-0340
   cites: ORS 192.410
   cause: renumbered_or_repealed
-- rule: oar-410-136-3000
-  cites: OAR 333-004-3030
-  cause: oar_unclassified
-- rule: oar-410-136-3000
-  cites: OAR 333-004-3070
-  cause: oar_unclassified
-- rule: oar-410-136-3000
-  cites: OAR 410-120-0001
-  cause: oar_unclassified
 - rule: oar-410-136-3010
   cites: ORS 414.625
   cause: renumbered_or_repealed
 - rule: oar-410-136-3120
   cites: ORS 414.420
   cause: renumbered_or_repealed
-- rule: oar-410-138-0000
-  cites: OAR 410-155-0000
-  cause: oar_unclassified
-- rule: oar-410-138-0000
-  cites: OAR 410-155-0010
-  cause: oar_unclassified
-- rule: oar-410-138-0020
-  cites: OAR 410-155-0000
-  cause: oar_unclassified
-- rule: oar-410-138-0020
-  cites: OAR 410-155-0010
-  cause: oar_unclassified
-- rule: oar-410-138-0060
-  cites: OAR 309-083-0010
-  cause: oar_unclassified
-- rule: oar-410-138-0060
-  cites: OAR 410-155-0010
-  cause: oar_unclassified
 - rule: oar-410-138-0060
   cites: ORS 192.518
   cause: renumbered_or_repealed
-- rule: oar-410-140-0140
-  cites: OAR 410-140-0420
+- rule: oar-410-140-0010
+  cites: OAR 410-121-0144
   cause: oar_unclassified
 - rule: oar-410-141-3501
   cites: ORS 414.610
   cause: renumbered_or_repealed
-- rule: oar-410-141-3515
-  cites: OAR 410-120-2020
-  cause: oar_unclassified
 - rule: oar-410-141-3520
   cites: ORS 414.610
   cause: renumbered_or_repealed
@@ -6002,48 +5387,9 @@ dead_citations:
 - rule: oar-410-141-3800
   cites: ORS 414.610
   cause: renumbered_or_repealed
-- rule: oar-410-141-3805
-  cites: OAR 410-134-0003
-  cause: oar_unclassified
-- rule: oar-410-141-3805
-  cites: OAR 410-134-0005
-  cause: oar_unclassified
-- rule: oar-410-141-3805
-  cites: OAR 410-146-5000
-  cause: oar_unclassified
-- rule: oar-410-141-3805
-  cites: OAR 410-173-0035
-  cause: oar_unclassified
 - rule: oar-410-141-3815
   cites: ORS 414.610
   cause: renumbered_or_repealed
-- rule: oar-410-141-3820
-  cites: OAR 410-120-2000
-  cause: oar_unclassified
-- rule: oar-410-141-3820
-  cites: OAR 410-120-2005
-  cause: oar_unclassified
-- rule: oar-410-141-3820
-  cites: OAR 410-151-0002
-  cause: oar_unclassified
-- rule: oar-410-141-3820
-  cites: OAR 410-155-0000
-  cause: oar_unclassified
-- rule: oar-410-141-3820
-  cites: OAR 410-155-0010
-  cause: oar_unclassified
-- rule: oar-410-141-3835
-  cites: OAR 410-120-2000
-  cause: oar_unclassified
-- rule: oar-410-141-3835
-  cites: OAR 410-120-2005
-  cause: oar_unclassified
-- rule: oar-410-141-3835
-  cites: OAR 410-120-2015
-  cause: oar_unclassified
-- rule: oar-410-141-3835
-  cites: OAR 410-120-2020
-  cause: oar_unclassified
 - rule: oar-410-141-3840
   cites: ORS 414.610
   cause: renumbered_or_repealed
@@ -6088,24 +5434,6 @@ dead_citations:
   cause: oar_unclassified
 - rule: oar-410-141-5045
   cites: OAR 410-141-5082
-  cause: oar_unclassified
-- rule: oar-410-141-5080
-  cites: OAR 410-141-5278
-  cause: oar_unclassified
-- rule: oar-410-141-5260
-  cites: OAR 409-070-0000
-  cause: oar_unclassified
-- rule: oar-410-141-5260
-  cites: OAR 409-070-0005
-  cause: oar_unclassified
-- rule: oar-410-141-5260
-  cites: OAR 409-070-0085
-  cause: oar_unclassified
-- rule: oar-410-141-5260
-  cites: OAR 410-141-5278
-  cause: oar_unclassified
-- rule: oar-410-141-5280
-  cites: OAR 410-141-5278
   cause: oar_unclassified
 - rule: oar-410-145-0070
   cites: ORS 192.410
@@ -6185,6 +5513,12 @@ dead_citations:
 - rule: oar-410-147-0560
   cites: OAR 943-120-0360
   cause: oar_unclassified
+- rule: oar-410-152-0030
+  cites: OAR 410-152-0040
+  cause: oar_unclassified
+- rule: oar-410-153-0075
+  cites: OAR 410-120-0080
+  cause: oar_unclassified
 - rule: oar-410-165-0020
   cites: OAR 410-165-0010
   cause: oar_unclassified
@@ -6197,12 +5531,6 @@ dead_citations:
 - rule: oar-410-172-0650
   cites: OAR 410-141-3061
   cause: oar_unclassified
-- rule: oar-410-172-0660
-  cites: OAR 309-083-0010
-  cause: oar_unclassified
-- rule: oar-410-172-0660
-  cites: OAR 877-015-0105
-  cause: oar_unclassified
 - rule: oar-410-172-0680
   cites: OAR 309-012-0130
   cause: oar_unclassified
@@ -6212,20 +5540,17 @@ dead_citations:
 - rule: oar-410-172-0705
   cites: OAR 410-172-0005
   cause: oar_unclassified
-- rule: oar-410-172-0705
-  cites: OAR 410-173-0005
+- rule: oar-410-172-0776
+  cites: OAR 309-045-0310
   cause: oar_unclassified
-- rule: oar-410-172-0720
-  cites: OAR 410-173-0005
-  cause: oar_unclassified
-- rule: oar-410-172-0720
-  cites: OAR 410-173-0015
-  cause: oar_unclassified
-- rule: oar-410-172-0820
-  cites: OAR 410-172-0776
+- rule: oar-410-172-0776
+  cites: OAR 309-045-0320
   cause: oar_unclassified
 - rule: oar-410-172-0840
   cites: OAR 410-120-1500
+  cause: oar_unclassified
+- rule: oar-410-172-0845
+  cites: OAR 309-045-0390
   cause: oar_unclassified
 - rule: oar-410-172-0860
   cites: OAR 410-141-0420
@@ -6233,59 +5558,14 @@ dead_citations:
 - rule: oar-410-172-0860
   cites: OAR 410-141-3420
   cause: oar_unclassified
-- rule: oar-410-200-0015
-  cites: OAR 410-134-0001
-  cause: oar_unclassified
-- rule: oar-410-200-0105
-  cites: OAR 410-200-0455
-  cause: oar_unclassified
-- rule: oar-410-200-0110
-  cites: OAR 410-200-0437
-  cause: oar_unclassified
-- rule: oar-410-200-0110
-  cites: OAR 410-200-0438
-  cause: oar_unclassified
-- rule: oar-410-200-0110
-  cites: OAR 410-200-0445
-  cause: oar_unclassified
-- rule: oar-410-200-0110
-  cites: OAR 410-200-0450
-  cause: oar_unclassified
-- rule: oar-410-200-0110
-  cites: OAR 410-200-0455
-  cause: oar_unclassified
+- rule: oar-410-173-0060
+  cites: ORS 411.025
+  cause: renumbered_or_repealed
 - rule: oar-410-200-0110
   cites: OAR 410-200-0505
   cause: oar_unclassified
-- rule: oar-410-200-0115
-  cites: OAR 410-200-0438
-  cause: oar_unclassified
-- rule: oar-410-200-0115
-  cites: OAR 410-200-0445
-  cause: oar_unclassified
-- rule: oar-410-200-0115
-  cites: OAR 410-200-0450
-  cause: oar_unclassified
-- rule: oar-410-200-0115
-  cites: OAR 410-200-0455
-  cause: oar_unclassified
-- rule: oar-410-200-0135
-  cites: OAR 410-200-0438
-  cause: oar_unclassified
-- rule: oar-410-200-0135
-  cites: OAR 410-200-0455
-  cause: oar_unclassified
-- rule: oar-410-200-0140
-  cites: OAR 410-200-0455
-  cause: oar_unclassified
-- rule: oar-410-200-0205
-  cites: OAR 410-200-0455
-  cause: oar_unclassified
 - rule: oar-410-200-0230
   cites: OAR 420-200-0400
-  cause: oar_unclassified
-- rule: oar-410-200-0240
-  cites: OAR 410-134-0005
   cause: oar_unclassified
 - rule: oar-410-200-0315
   cites: ORS 435.112
@@ -6299,8 +5579,11 @@ dead_citations:
 - rule: oar-411-005-0035
   cites: ORS 411.117
   cause: renumbered_or_repealed
-- rule: oar-411-015-0005
-  cites: OAR 461-135-1080
+- rule: oar-411-016-0090
+  cites: OAR 411-014-0010
+  cause: oar_unclassified
+- rule: oar-411-017-0010
+  cites: OAR 411-004-0017
   cause: oar_unclassified
 - rule: oar-411-020-0010
   cites: OAR 411-050-0665
@@ -6308,9 +5591,6 @@ dead_citations:
 - rule: oar-411-020-0010
   cites: ORS 443.435
   cause: renumbered_or_repealed
-- rule: oar-411-027-0005
-  cites: OAR 411-027-0160
-  cause: oar_unclassified
 - rule: oar-411-027-0150
   cites: OAR 411-027-0010
   cause: oar_unclassified
@@ -6320,6 +5600,12 @@ dead_citations:
 - rule: oar-411-034-0020
   cites: OAR 851-047-0010
   cause: oar_unclassified
+- rule: oar-411-039-0010
+  cites: ORS 411.375
+  cause: renumbered_or_repealed
+- rule: oar-411-039-0240
+  cites: ORS 183.746
+  cause: renumbered_or_repealed
 - rule: oar-411-045-0010
   cites: OAR 410-141-0480
   cause: oar_unclassified
@@ -6344,15 +5630,6 @@ dead_citations:
 - rule: oar-411-054-0005
   cites: OAR 333-675-0000
   cause: oar_unclassified
-- rule: oar-411-054-0005
-  cites: OAR 411-054-0037
-  cause: oar_unclassified
-- rule: oar-411-054-0013
-  cites: OAR 411-054-0037
-  cause: oar_unclassified
-- rule: oar-411-054-0019
-  cites: OAR 411-054-0037
-  cause: oar_unclassified
 - rule: oar-411-054-0025
   cites: ORS 181.534
   cause: renumbered_or_repealed
@@ -6361,9 +5638,6 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-411-054-0050
   cites: OAR 333-019-1010
-  cause: oar_unclassified
-- rule: oar-411-054-0050
-  cites: OAR 333-019-1011
   cause: oar_unclassified
 - rule: oar-411-054-0055
   cites: OAR 333-035-0050
@@ -6389,18 +5663,9 @@ dead_citations:
 - rule: oar-411-065-0048
   cites: OAR 411-050-0400
   cause: oar_unclassified
-- rule: oar-411-068-0085
-  cites: OAR 411-068-0008
-  cause: oar_unclassified
 - rule: oar-411-069-0020
   cites: ORS 192.501
   cause: renumbered_or_repealed
-- rule: oar-411-070-0005
-  cites: OAR 411-070-0436
-  cause: oar_unclassified
-- rule: oar-411-070-0005
-  cites: OAR 411-070-0438
-  cause: oar_unclassified
 - rule: oar-411-070-0035
   cites: ORS 414.070
   cause: renumbered_or_repealed
@@ -6437,9 +5702,6 @@ dead_citations:
 - rule: oar-411-086-0330
   cites: OAR 333-019-1010
   cause: oar_unclassified
-- rule: oar-411-086-0330
-  cites: OAR 333-019-1011
-  cause: oar_unclassified
 - rule: oar-411-087-0230
   cites: OAR 441-087-0320
   cause: oar_unclassified
@@ -6461,45 +5723,9 @@ dead_citations:
 - rule: oar-411-310-0050
   cites: ORS 279.348
   cause: renumbered_or_repealed
-- rule: oar-411-317-0000
-  cites: OAR 411-440-0020
-  cause: oar_unclassified
 - rule: oar-411-318-0010
   cites: ORS 109.610
   cause: renumbered_or_repealed
-- rule: oar-411-323-0020
-  cites: OAR 411-323-0033
-  cause: oar_unclassified
-- rule: oar-411-323-0020
-  cites: OAR 411-450-0090
-  cause: oar_unclassified
-- rule: oar-411-323-0020
-  cites: OAR 411-450-0095
-  cause: oar_unclassified
-- rule: oar-411-323-0030
-  cites: OAR 411-323-0029
-  cause: oar_unclassified
-- rule: oar-411-323-0030
-  cites: OAR 411-323-0033
-  cause: oar_unclassified
-- rule: oar-411-323-0075
-  cites: OAR 411-323-0055
-  cause: oar_unclassified
-- rule: oar-411-325-0020
-  cites: OAR 411-325-0355
-  cause: oar_unclassified
-- rule: oar-411-325-0390
-  cites: OAR 411-323-0033
-  cause: oar_unclassified
-- rule: oar-411-346-0190
-  cites: OAR 411-346-0195
-  cause: oar_unclassified
-- rule: oar-411-348-0020
-  cites: OAR 411-348-0355
-  cause: oar_unclassified
-- rule: oar-411-348-0350
-  cites: OAR 411-348-0355
-  cause: oar_unclassified
 - rule: oar-411-360-0020
   cites: ORS 475B.400
   cause: renumbered_or_repealed
@@ -6509,42 +5735,6 @@ dead_citations:
 - rule: oar-411-360-0220
   cites: ORS 192.410
   cause: renumbered_or_repealed
-- rule: oar-411-415-0020
-  cites: OAR 411-440-0020
-  cause: oar_unclassified
-- rule: oar-411-415-0050
-  cites: OAR 411-450-0065
-  cause: oar_unclassified
-- rule: oar-411-415-0070
-  cites: OAR 411-450-0065
-  cause: oar_unclassified
-- rule: oar-411-435-0030
-  cites: OAR 411-440-0030
-  cause: oar_unclassified
-- rule: oar-411-450-0020
-  cites: OAR 411-440-0020
-  cause: oar_unclassified
-- rule: oar-411-450-0020
-  cites: OAR 411-450-0090
-  cause: oar_unclassified
-- rule: oar-411-450-0020
-  cites: OAR 411-450-0095
-  cause: oar_unclassified
-- rule: oar-411-450-0030
-  cites: OAR 411-440-0030
-  cause: oar_unclassified
-- rule: oar-411-450-0060
-  cites: OAR 411-450-0065
-  cause: oar_unclassified
-- rule: oar-411-450-0080
-  cites: OAR 411-440-0050
-  cause: oar_unclassified
-- rule: oar-411-450-0080
-  cites: OAR 411-440-0060
-  cause: oar_unclassified
-- rule: oar-411-450-0080
-  cites: OAR 411-450-0090
-  cause: oar_unclassified
 - rule: oar-411-455-0010
   cites: OAR 851-047-0010
   cause: oar_unclassified
@@ -6588,9 +5778,6 @@ dead_citations:
   cites: OAR 413-090-0075
   cause: oar_unclassified
 - rule: oar-413-010-0500
-  cites: OAR 413-208-0000
-  cause: oar_unclassified
-- rule: oar-413-010-0500
   cites: OAR 413-215-0121
   cause: oar_unclassified
 - rule: oar-413-010-0716
@@ -6606,22 +5793,19 @@ dead_citations:
   cites: ORS 419B.024
   cause: renumbered_or_repealed
 - rule: oar-413-015-0400
-  cites: OAR 413-015-0801
-  cause: oar_unclassified
-- rule: oar-413-015-0400
   cites: ORS 419.050
   cause: renumbered_or_repealed
 - rule: oar-413-015-0415
   cites: ORS 419.050
   cause: renumbered_or_repealed
-- rule: oar-413-015-0604
-  cites: OAR 413-205-0000
+- rule: oar-413-015-0801
+  cites: OAR 413-015-0800
   cause: oar_unclassified
-- rule: oar-413-015-0608
-  cites: OAR 413-205-0000
+- rule: oar-413-015-0809
+  cites: OAR 413-015-0800
   cause: oar_unclassified
-- rule: oar-413-015-0608
-  cites: OAR 413-205-0025
+- rule: oar-413-015-0815
+  cites: OAR 413-015-0800
   cause: oar_unclassified
 - rule: oar-413-015-1005
   cites: ORS 419.005
@@ -6629,9 +5813,6 @@ dead_citations:
 - rule: oar-413-015-1100
   cites: ORS 181.537
   cause: renumbered_or_repealed
-- rule: oar-413-015-1105
-  cites: OAR 413-208-0000
-  cause: oar_unclassified
 - rule: oar-413-015-1105
   cites: ORS 181.537
   cause: renumbered_or_repealed
@@ -6644,9 +5825,6 @@ dead_citations:
 - rule: oar-413-015-1120
   cites: ORS 181.557
   cause: renumbered_or_repealed
-- rule: oar-413-015-1125
-  cites: OAR 413-208-0000
-  cause: oar_unclassified
 - rule: oar-413-015-1125
   cites: ORS 181.537
   cause: renumbered_or_repealed
@@ -6691,12 +5869,6 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-413-040-0010
   cites: OAR 413-070-0515
-  cause: oar_unclassified
-- rule: oar-413-040-0222
-  cites: OAR 413-203-0040
-  cause: oar_unclassified
-- rule: oar-413-040-0268
-  cites: OAR 413-203-0000
   cause: oar_unclassified
 - rule: oar-413-040-0268
   cites: OAR 413-420-0100
@@ -6773,9 +5945,6 @@ dead_citations:
 - rule: oar-413-080-0052
   cites: OAR 413-215-0136
   cause: oar_unclassified
-- rule: oar-413-090-0000
-  cites: OAR 413-208-0000
-  cause: oar_unclassified
 - rule: oar-413-090-0210
   cites: OAR 413-190-0150
   cause: oar_unclassified
@@ -6802,6 +5971,9 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-413-115-0040
   cites: ORS 109.304
+  cause: renumbered_or_repealed
+- rule: oar-413-115-0045
+  cites: ORS 109.309
   cause: renumbered_or_repealed
 - rule: oar-413-115-0090
   cites: ORS 419.627
@@ -6836,14 +6008,8 @@ dead_citations:
 - rule: oar-413-120-0175
   cites: ORS 109.315
   cause: renumbered_or_repealed
-- rule: oar-413-120-0220
-  cites: OAR 413-208-0000
-  cause: oar_unclassified
 - rule: oar-413-120-0246
   cites: OAR 413-203-0220
-  cause: oar_unclassified
-- rule: oar-413-120-0246
-  cites: OAR 413-208-0000
   cause: oar_unclassified
 - rule: oar-413-120-0246
   cites: OAR 413-215-0401
@@ -6888,9 +6054,6 @@ dead_citations:
   cites: ORS 109.309
   cause: renumbered_or_repealed
 - rule: oar-413-120-0830
-  cites: OAR 413-203-0025
-  cause: oar_unclassified
-- rule: oar-413-120-0830
   cites: OAR 413-215-0001
   cause: oar_unclassified
 - rule: oar-413-120-0830
@@ -6902,36 +6065,45 @@ dead_citations:
 - rule: oar-413-130-0000
   cites: OAR 413-215-0401
   cause: oar_unclassified
-- rule: oar-413-200-0260
-  cites: OAR 413-203-0000
+- rule: oar-413-140-0000
+  cites: ORS 109.309
+  cause: renumbered_or_repealed
+- rule: oar-413-140-0010
+  cites: OAR 413-215-0401
   cause: oar_unclassified
-- rule: oar-413-200-0260
-  cites: OAR 413-205-0000
+- rule: oar-413-140-0030
+  cites: ORS 109.239
+  cause: renumbered_or_repealed
+- rule: oar-413-140-0030
+  cites: ORS 109.243
+  cause: renumbered_or_repealed
+- rule: oar-413-140-0032
+  cites: ORS 109.243
+  cause: renumbered_or_repealed
+- rule: oar-413-140-0033
+  cites: OAR 413-215-0456
+  cause: oar_unclassified
+- rule: oar-413-140-0033
+  cites: ORS 181.537
+  cause: renumbered_or_repealed
+- rule: oar-413-140-0035
+  cites: OAR 413-215-0451
+  cause: oar_unclassified
+- rule: oar-413-140-0035
+  cites: OAR 413-215-0476
+  cause: oar_unclassified
+- rule: oar-413-140-0065
+  cites: ORS 181.534
+  cause: renumbered_or_repealed
+- rule: oar-413-140-0065
+  cites: ORS 181.537
+  cause: renumbered_or_repealed
+- rule: oar-413-140-0110
+  cites: OAR 413-130-0400
   cause: oar_unclassified
 - rule: oar-413-200-0272
   cites: ORS 109.319
   cause: renumbered_or_repealed
-- rule: oar-413-200-0274
-  cites: OAR 413-208-0000
-  cause: oar_unclassified
-- rule: oar-413-200-0275
-  cites: OAR 413-208-0000
-  cause: oar_unclassified
-- rule: oar-413-200-0276
-  cites: OAR 413-208-0000
-  cause: oar_unclassified
-- rule: oar-413-200-0281
-  cites: OAR 413-208-0000
-  cause: oar_unclassified
-- rule: oar-413-200-0283
-  cites: OAR 413-208-0000
-  cause: oar_unclassified
-- rule: oar-413-200-0287
-  cites: OAR 413-208-0000
-  cause: oar_unclassified
-- rule: oar-413-200-0314
-  cites: OAR 413-208-0000
-  cause: oar_unclassified
 - rule: oar-413-200-0379
   cites: ORS 418.105
   cause: renumbered_or_repealed
@@ -6941,14 +6113,20 @@ dead_citations:
 - rule: oar-413-200-0393
   cites: ORS 418.105
   cause: renumbered_or_repealed
-- rule: oar-413-208-0005
-  cites: OAR 413-203-0020
+- rule: oar-413-203-0145
+  cites: OAR 413-020-0500
   cause: oar_unclassified
-- rule: oar-413-208-0010
-  cites: OAR 413-203-0020
+- rule: oar-413-205-0010
+  cites: OAR 413-200-0027
   cause: oar_unclassified
-- rule: oar-413-208-0010
-  cites: OAR 413-208-0000
+- rule: oar-413-205-0025
+  cites: OAR 413-120-0450
+  cause: oar_unclassified
+- rule: oar-413-205-0027
+  cites: ORS 409.005
+  cause: renumbered_or_repealed
+- rule: oar-413-205-0057
+  cites: OAR 413-208-0400
   cause: oar_unclassified
 - rule: oar-413-208-0015
   cites: ORS 475.858
@@ -6977,9 +6155,6 @@ dead_citations:
 - rule: oar-413-208-0030
   cites: ORS 181.555
   cause: renumbered_or_repealed
-- rule: oar-413-208-0035
-  cites: OAR 413-208-0000
-  cause: oar_unclassified
 - rule: oar-413-330-0900
   cites: ORS 279.727
   cause: renumbered_or_repealed
@@ -7031,9 +6206,27 @@ dead_citations:
 - rule: oar-413-330-1010
   cites: ORS 279.727
   cause: renumbered_or_repealed
+- rule: oar-413-330-1105
+  cites: OAR 419-330-1100
+  cause: oar_unclassified
+- rule: oar-414-002-0001
+  cites: ORS 192.410
+  cause: renumbered_or_repealed
 - rule: oar-414-061-0030
   cites: ORS 329.170
   cause: renumbered_or_repealed
+- rule: oar-414-070-0310
+  cites: OAR 137-027-0290
+  cause: oar_unclassified
+- rule: oar-414-070-0330
+  cites: ORS 660.342
+  cause: renumbered_or_repealed
+- rule: oar-414-070-0410
+  cites: ORS 184.477
+  cause: renumbered_or_repealed
+- rule: oar-414-075-0230
+  cites: ORS 320A.255
+  cause: chapter_absent
 - rule: oar-414-100-0000
   cites: ORS 657A.010
   cause: renumbered_or_repealed
@@ -7052,9 +6245,27 @@ dead_citations:
 - rule: oar-414-150-0055
   cites: ORS 329.010
   cause: renumbered_or_repealed
-- rule: oar-414-150-0130
-  cites: OAR 414-175-0050
+- rule: oar-414-175-0035
+  cites: OAR 411-050-0602
   cause: oar_unclassified
+- rule: oar-414-175-0080
+  cites: OAR 414-305-0000
+  cause: oar_unclassified
+- rule: oar-414-175-0082
+  cites: OAR 407-007-0270
+  cause: oar_unclassified
+- rule: oar-414-175-0082
+  cites: OAR 407-007-0280
+  cause: oar_unclassified
+- rule: oar-414-175-0097
+  cites: OAR 410-014-0030
+  cause: oar_unclassified
+- rule: oar-414-175-0097
+  cites: OAR 410-014-0040
+  cause: oar_unclassified
+- rule: oar-414-175-0097
+  cites: ORS 411.117
+  cause: renumbered_or_repealed
 - rule: oar-414-180-0010
   cites: ORS 329.010
   cause: renumbered_or_repealed
@@ -7075,6 +6286,9 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-414-205-0170
   cites: ORS 329.610
+  cause: renumbered_or_repealed
+- rule: oar-414-210-0100
+  cites: ORS 189.020
   cause: renumbered_or_repealed
 - rule: oar-414-300-0040
   cites: ORS 657A.260
@@ -7142,6 +6356,33 @@ dead_citations:
 - rule: oar-414-300-0390
   cites: ORS 657A.260
   cause: renumbered_or_repealed
+- rule: oar-414-305-0100
+  cites: ORS 189.020
+  cause: renumbered_or_repealed
+- rule: oar-414-305-0110
+  cites: OAR 414-305-0000
+  cause: oar_unclassified
+- rule: oar-414-305-0120
+  cites: ORS 329.250
+  cause: renumbered_or_repealed
+- rule: oar-414-305-0350
+  cites: OAR 414-305-0000
+  cause: oar_unclassified
+- rule: oar-414-305-0380
+  cites: ORS 329A.490
+  cause: renumbered_or_repealed
+- rule: oar-414-305-0385
+  cites: ORS 329A.490
+  cause: renumbered_or_repealed
+- rule: oar-414-310-0100
+  cites: ORS 189.020
+  cause: renumbered_or_repealed
+- rule: oar-414-320-0100
+  cites: ORS 189.020
+  cause: renumbered_or_repealed
+- rule: oar-414-360-0100
+  cites: ORS 189.020
+  cause: renumbered_or_repealed
 - rule: oar-414-400-0000
   cites: ORS 657A.010
   cause: renumbered_or_repealed
@@ -7187,6 +6428,15 @@ dead_citations:
 - rule: oar-415-050-0120
   cites: ORS 109.610
   cause: renumbered_or_repealed
+- rule: oar-415-050-0125
+  cites: OAR 333-071-0057
+  cause: oar_unclassified
+- rule: oar-415-050-0130
+  cites: OAR 410-180-0300
+  cause: oar_unclassified
+- rule: oar-415-050-0130
+  cites: OAR 410-180-0305
+  cause: oar_unclassified
 - rule: oar-415-054-0464
   cites: OAR 943-007-0010
   cause: oar_unclassified
@@ -7265,9 +6515,6 @@ dead_citations:
 - rule: oar-416-700-0011
   cites: ORS 192.410
   cause: renumbered_or_repealed
-- rule: oar-416-800-0010
-  cites: OAR 416-450-0010
-  cause: oar_unclassified
 - rule: oar-416-800-0031
   cites: ORS 181.557
   cause: renumbered_or_repealed
@@ -7304,21 +6551,9 @@ dead_citations:
 - rule: oar-419-210-0190
   cites: OAR 413-215-0136
   cause: oar_unclassified
-- rule: oar-419-230-0110
-  cites: OAR 419-230-0173
-  cause: oar_unclassified
-- rule: oar-419-230-0170
-  cites: OAR 419-230-0173
-  cause: oar_unclassified
 - rule: oar-419-240-0110
   cites: ORS 416.400
   cause: renumbered_or_repealed
-- rule: oar-419-400-0010
-  cites: OAR 419-480-0010
-  cause: oar_unclassified
-- rule: oar-419-400-0270
-  cites: OAR 419-480-0110
-  cause: oar_unclassified
 - rule: oar-419-400-0310
   cites: OAR 413-090-0090
   cause: oar_unclassified
@@ -7334,14 +6569,8 @@ dead_citations:
 - rule: oar-419-460-0010
   cites: OAR 409-400-0005
   cause: oar_unclassified
-- rule: oar-419-460-0030
-  cites: OAR 419-400-0150
-  cause: oar_unclassified
-- rule: oar-419-460-0030
-  cites: OAR 419-400-0180
-  cause: oar_unclassified
-- rule: oar-419-460-0260
-  cites: OAR 419-400-0150
+- rule: oar-419-480-0040
+  cites: OAR 407-007-2000
   cause: oar_unclassified
 - rule: oar-419-490-0160
   cites: OAR 413-215-0046
@@ -7361,6 +6590,9 @@ dead_citations:
 - rule: oar-423-110-0010
   cites: OAR 423-010-0025
   cause: oar_unclassified
+- rule: oar-423-120-0020
+  cites: OAR 413-120-0015
+  cause: oar_unclassified
 - rule: oar-423-125-0020
   cites: OAR 413-125-0025
   cause: oar_unclassified
@@ -7376,50 +6608,11 @@ dead_citations:
 - rule: oar-436-010-0225
   cites: ORS 676.765
   cause: renumbered_or_repealed
-- rule: oar-436-030-0175
-  cites: OAR 436-001-0432
-  cause: oar_unclassified
-- rule: oar-436-030-0175
-  cites: OAR 436-001-0438
-  cause: oar_unclassified
 - rule: oar-436-085-0030
   cites: OAR 436-051-0020
   cause: oar_unclassified
 - rule: oar-437-001-0090
   cites: OAR 436-046-0096
-  cause: oar_unclassified
-- rule: oar-437-001-0145
-  cites: OAR 437-001-0142
-  cause: oar_unclassified
-- rule: oar-437-001-0155
-  cites: OAR 437-001-0142
-  cause: oar_unclassified
-- rule: oar-437-001-0155
-  cites: OAR 437-001-0150
-  cause: oar_unclassified
-- rule: oar-437-001-0160
-  cites: OAR 437-001-0142
-  cause: oar_unclassified
-- rule: oar-437-001-0165
-  cites: OAR 437-001-0142
-  cause: oar_unclassified
-- rule: oar-437-001-0170
-  cites: OAR 437-001-0142
-  cause: oar_unclassified
-- rule: oar-437-001-0171
-  cites: OAR 437-001-0142
-  cause: oar_unclassified
-- rule: oar-437-001-0175
-  cites: OAR 437-001-0142
-  cause: oar_unclassified
-- rule: oar-437-001-0180
-  cites: OAR 437-001-0142
-  cause: oar_unclassified
-- rule: oar-437-001-0201
-  cites: OAR 437-001-0142
-  cause: oar_unclassified
-- rule: oar-437-001-0203
-  cites: OAR 437-001-0142
   cause: oar_unclassified
 - rule: oar-437-001-0275
   cites: OAR 437-004-0110
@@ -7432,9 +6625,6 @@ dead_citations:
   cause: oar_unclassified
 - rule: oar-437-002-0122
   cites: OAR 437-002-1920
-  cause: oar_unclassified
-- rule: oar-437-002-0280
-  cites: OAR 437-002-0299
   cause: oar_unclassified
 - rule: oar-437-002-1063
   cites: OAR 437-002-1910
@@ -7486,9 +6676,6 @@ dead_citations:
   cause: oar_unclassified
 - rule: oar-437-004-1105
   cites: OAR 437-004-9990
-  cause: oar_unclassified
-- rule: oar-437-004-1120
-  cites: OAR 437-004-1131
   cause: oar_unclassified
 - rule: oar-437-004-3410
   cites: ORS 483.457
@@ -7610,6 +6797,180 @@ dead_citations:
 - rule: oar-441-730-0246
   cites: ORS 86.737
   cause: renumbered_or_repealed
+- rule: oar-441-735-0000
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0010
+  cites: ORS 725A.024
+  cause: chapter_absent
+- rule: oar-441-735-0010
+  cites: ORS 725A.062
+  cause: chapter_absent
+- rule: oar-441-735-0025
+  cites: ORS 725A.012
+  cause: chapter_absent
+- rule: oar-441-735-0025
+  cites: ORS 725A.022
+  cause: chapter_absent
+- rule: oar-441-735-0025
+  cites: ORS 725A.024
+  cause: chapter_absent
+- rule: oar-441-735-0030
+  cites: ORS 725A.022
+  cause: chapter_absent
+- rule: oar-441-735-0030
+  cites: ORS 725A.028
+  cause: chapter_absent
+- rule: oar-441-735-0030
+  cites: ORS 725A.050
+  cause: chapter_absent
+- rule: oar-441-735-0050
+  cites: ORS 725A.010
+  cause: chapter_absent
+- rule: oar-441-735-0050
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0060
+  cites: ORS 725A.060
+  cause: chapter_absent
+- rule: oar-441-735-0060
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0070
+  cites: ORS 725A.032
+  cause: chapter_absent
+- rule: oar-441-735-0070
+  cites: ORS 725A.058
+  cause: chapter_absent
+- rule: oar-441-735-0070
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0080
+  cites: ORS 725A.010
+  cause: chapter_absent
+- rule: oar-441-735-0080
+  cites: ORS 725A.024
+  cause: chapter_absent
+- rule: oar-441-735-0080
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0100
+  cites: ORS 725A.026
+  cause: chapter_absent
+- rule: oar-441-735-0100
+  cites: ORS 725A.034
+  cause: chapter_absent
+- rule: oar-441-735-0100
+  cites: ORS 725A.084
+  cause: chapter_absent
+- rule: oar-441-735-0100
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0110
+  cites: ORS 725A.052
+  cause: chapter_absent
+- rule: oar-441-735-0110
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0120
+  cites: ORS 725A.052
+  cause: chapter_absent
+- rule: oar-441-735-0120
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0130
+  cites: ORS 725A.052
+  cause: chapter_absent
+- rule: oar-441-735-0130
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0140
+  cites: ORS 725A.052
+  cause: chapter_absent
+- rule: oar-441-735-0140
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0160
+  cites: ORS 725A.062
+  cause: chapter_absent
+- rule: oar-441-735-0160
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0165
+  cites: ORS 725A.010
+  cause: chapter_absent
+- rule: oar-441-735-0165
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0205
+  cites: ORS 725A.056
+  cause: chapter_absent
+- rule: oar-441-735-0205
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0240
+  cites: ORS 725A.052
+  cause: chapter_absent
+- rule: oar-441-735-0240
+  cites: ORS 725A.056
+  cause: chapter_absent
+- rule: oar-441-735-0240
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0250
+  cites: ORS 725A.056
+  cause: chapter_absent
+- rule: oar-441-735-0250
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0255
+  cites: ORS 725A.056
+  cause: chapter_absent
+- rule: oar-441-735-0255
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0271
+  cites: ORS 725A.056
+  cause: chapter_absent
+- rule: oar-441-735-0271
+  cites: ORS 725A.080
+  cause: chapter_absent
+- rule: oar-441-735-0272
+  cites: ORS 725A.024
+  cause: chapter_absent
+- rule: oar-441-735-0272
+  cites: ORS 725A.056
+  cause: chapter_absent
+- rule: oar-441-735-0272
+  cites: ORS 725A.062
+  cause: chapter_absent
+- rule: oar-441-735-0272
+  cites: ORS 725A.080
+  cause: chapter_absent
+- rule: oar-441-735-0275
+  cites: ORS 725A.056
+  cause: chapter_absent
+- rule: oar-441-735-0275
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0280
+  cites: ORS 725A.056
+  cause: chapter_absent
+- rule: oar-441-735-0280
+  cites: ORS 725A.060
+  cause: chapter_absent
+- rule: oar-441-735-0310
+  cites: ORS 725A.056
+  cause: chapter_absent
+- rule: oar-441-735-0310
+  cites: ORS 725A.092
+  cause: chapter_absent
+- rule: oar-441-735-0320
+  cites: ORS 725A.030
+  cause: chapter_absent
+- rule: oar-441-735-0320
+  cites: ORS 725A.092
+  cause: chapter_absent
 - rule: oar-441-755-0120
   cites: OAR 441-755-0020
   cause: oar_unclassified
@@ -7631,12 +6992,6 @@ dead_citations:
 - rule: oar-441-880-0009
   cites: OAR 441-880-0010
   cause: oar_unclassified
-- rule: oar-459-005-0001
-  cites: OAR 459-005-0020
-  cause: oar_unclassified
-- rule: oar-459-005-0025
-  cites: OAR 459-005-0020
-  cause: oar_unclassified
 - rule: oar-459-005-0300
   cites: ORS 243.800
   cause: renumbered_or_repealed
@@ -7646,12 +7001,6 @@ dead_citations:
 - rule: oar-459-005-0525
   cites: ORS 237.001
   cause: renumbered_or_repealed
-- rule: oar-459-010-0003
-  cites: OAR 459-005-0020
-  cause: oar_unclassified
-- rule: oar-459-010-0014
-  cites: OAR 459-005-0015
-  cause: oar_unclassified
 - rule: oar-459-035-0001
   cites: ORS 1.314
   cause: renumbered_or_repealed
@@ -7676,27 +7025,12 @@ dead_citations:
 - rule: oar-459-060-0200
   cites: ORS 192.410
   cause: renumbered_or_repealed
-- rule: oar-459-070-0001
-  cites: OAR 459-005-0020
-  cause: oar_unclassified
-- rule: oar-459-075-0010
-  cites: OAR 459-005-0015
-  cause: oar_unclassified
 - rule: oar-459-075-0060
   cites: ORS 238A.010
   cause: renumbered_or_repealed
-- rule: oar-459-075-0150
-  cites: OAR 459-005-0015
-  cause: oar_unclassified
 - rule: oar-459-080-0060
   cites: ORS 238A.010
   cause: renumbered_or_repealed
-- rule: oar-461-025-0310
-  cites: OAR 461-196-0020
-  cause: oar_unclassified
-- rule: oar-461-101-0010
-  cites: OAR 461-135-1080
-  cause: oar_unclassified
 - rule: oar-461-101-0010
   cites: OAR 461-135-1305
   cause: oar_unclassified
@@ -7712,32 +7046,14 @@ dead_citations:
 - rule: oar-461-115-0020
   cites: ORS 411.050
   cause: renumbered_or_repealed
-- rule: oar-461-120-0110
-  cites: OAR 461-135-1080
-  cause: oar_unclassified
-- rule: oar-461-120-0125
-  cites: OAR 461-135-0665
-  cause: oar_unclassified
 - rule: oar-461-130-0310
   cites: OAR 461-130-0503
-  cause: oar_unclassified
-- rule: oar-461-130-0327
-  cites: OAR 414-175-0080
   cause: oar_unclassified
 - rule: oar-461-135-0085
   cites: ORS 475.840
   cause: renumbered_or_repealed
 - rule: oar-461-135-0089
   cites: OAR 461-110-0201
-  cause: oar_unclassified
-- rule: oar-461-135-0505
-  cites: OAR 461-140-0263
-  cause: oar_unclassified
-- rule: oar-461-135-0520
-  cites: OAR 461-135-0665
-  cause: oar_unclassified
-- rule: oar-461-135-0755
-  cites: OAR 410-173-0010
   cause: oar_unclassified
 - rule: oar-461-135-0837
   cites: ORS 414.106
@@ -7748,20 +7064,8 @@ dead_citations:
 - rule: oar-461-135-0843
   cites: ORS 414.105
   cause: renumbered_or_repealed
-- rule: oar-461-135-1197
-  cites: OAR 414-175-0080
-  cause: oar_unclassified
-- rule: oar-461-145-0090
-  cites: OAR 461-145-0375
-  cause: oar_unclassified
 - rule: oar-461-145-0105
   cites: OAR 461-135-0210
-  cause: oar_unclassified
-- rule: oar-461-145-0170
-  cites: OAR 461-135-0665
-  cause: oar_unclassified
-- rule: oar-461-145-0210
-  cites: OAR 461-140-0263
   cause: oar_unclassified
 - rule: oar-461-145-0525
   cites: ORS 411.700
@@ -7773,26 +7077,14 @@ dead_citations:
   cites: OAR 161-145-0930
   cause: oar_unclassified
 - rule: oar-461-145-0910
-  cites: OAR 410-172-0776
-  cause: oar_unclassified
-- rule: oar-461-145-0910
   cites: OAR 411-050-0602
   cause: oar_unclassified
 - rule: oar-461-145-0915
-  cites: OAR 410-172-0776
-  cause: oar_unclassified
-- rule: oar-461-145-0915
   cites: OAR 411-050-0602
-  cause: oar_unclassified
-- rule: oar-461-145-0915
-  cites: OAR 414-175-0080
   cause: oar_unclassified
 - rule: oar-461-145-0930
   cites: ORS 414.826
   cause: renumbered_or_repealed
-- rule: oar-461-160-0420
-  cites: OAR 461-135-0665
-  cause: oar_unclassified
 - rule: oar-461-160-0430
   cites: OAR 461-140-0265
   cause: oar_unclassified
@@ -7823,9 +7115,6 @@ dead_citations:
 - rule: oar-461-165-0430
   cites: ORS 181.537
   cause: renumbered_or_repealed
-- rule: oar-461-180-0050
-  cites: OAR 461-190-0215
-  cause: oar_unclassified
 - rule: oar-461-180-0105
   cites: OAR 461-130-0320
   cause: oar_unclassified
@@ -7835,29 +7124,8 @@ dead_citations:
 - rule: oar-461-195-0301
   cites: OAR 410-141-0000
   cause: oar_unclassified
-- rule: oar-461-195-0501
-  cites: OAR 461-196-0160
-  cause: oar_unclassified
-- rule: oar-461-195-0521
-  cites: OAR 414-175-0002
-  cause: oar_unclassified
-- rule: oar-461-195-0521
-  cites: OAR 414-175-0015
-  cause: oar_unclassified
-- rule: oar-461-195-0521
-  cites: OAR 414-175-0040
-  cause: oar_unclassified
-- rule: oar-461-195-0521
-  cites: OAR 414-175-0060
-  cause: oar_unclassified
-- rule: oar-461-195-0541
-  cites: OAR 461-196-0020
-  cause: oar_unclassified
-- rule: oar-461-195-0541
-  cites: OAR 461-196-0030
-  cause: oar_unclassified
-- rule: oar-461-195-0601
-  cites: OAR 461-196-0020
+- rule: oar-461-196-0080
+  cites: OAR 461-196-0200
   cause: oar_unclassified
 - rule: oar-471-008-0000
   cites: ORS 192.410
@@ -7883,9 +7151,6 @@ dead_citations:
 - rule: oar-471-020-0030
   cites: ORS 657.925
   cause: renumbered_or_repealed
-- rule: oar-471-030-0053
-  cites: OAR 471-030-0320
-  cause: oar_unclassified
 - rule: oar-543-001-0010
   cites: ORS 192.410
   cause: renumbered_or_repealed
@@ -7961,6 +7226,78 @@ dead_citations:
 - rule: oar-575-001-0030
   cites: ORS 348.397
   cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 163.673
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 163.675
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 163.680
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 164.369
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 166.115
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 167.065
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 167.070
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 167.087
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 181.599
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 418.130
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 418.140
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 475.805
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 475.981
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 475.982
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 475.984
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 475.986
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 475.991
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 475.992
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 475.993
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 475.994
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 475.995
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 475.996
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 475.999
+  cause: renumbered_or_repealed
+- rule: oar-575-007-0280
+  cites: ORS 657A.280
+  cause: renumbered_or_repealed
 - rule: oar-575-030-0005
   cites: ORS 348.230
   cause: renumbered_or_repealed
@@ -8006,9 +7343,6 @@ dead_citations:
 - rule: oar-575-065-0065
   cites: ORS 183.348
   cause: renumbered_or_repealed
-- rule: oar-575-067-0002
-  cites: OAR 589-006-0300
-  cause: oar_unclassified
 - rule: oar-575-070-0005
   cites: ORS 329.757
   cause: renumbered_or_repealed
@@ -8216,6 +7550,9 @@ dead_citations:
 - rule: oar-581-002-0035
   cites: ORS 329.555
   cause: renumbered_or_repealed
+- rule: oar-581-003-0030
+  cites: OAR 571-003-0020
+  cause: oar_unclassified
 - rule: oar-581-010-0200
   cites: ORS 330.535
   cause: renumbered_or_repealed
@@ -8230,6 +7567,9 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-581-011-0090
   cites: ORS 337.065
+  cause: renumbered_or_repealed
+- rule: oar-581-011-0165
+  cites: ORS 337.055
   cause: renumbered_or_repealed
 - rule: oar-581-012-0001
   cites: ORS 324.943
@@ -8321,6 +7661,9 @@ dead_citations:
 - rule: oar-581-015-2805
   cites: ORS 343.473
   cause: renumbered_or_repealed
+- rule: oar-581-015-2940
+  cites: ORS 327.036
+  cause: renumbered_or_repealed
 - rule: oar-581-016-0526
   cites: OAR 581-015-0051
   cause: oar_unclassified
@@ -8392,6 +7735,9 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-581-017-0744
   cites: ORS 327.222
+  cause: renumbered_or_repealed
+- rule: oar-581-017-0807
+  cites: ORS 328.827
   cause: renumbered_or_repealed
 - rule: oar-581-018-0005
   cites: ORS 351.009
@@ -8618,9 +7964,9 @@ dead_citations:
 - rule: oar-581-020-0637
   cites: OAR 581-020-0639
   cause: oar_unclassified
-- rule: oar-581-020-0652
-  cites: OAR 581-020-0655
-  cause: oar_unclassified
+- rule: oar-581-021-0003
+  cites: ORS 329.251
+  cause: renumbered_or_repealed
 - rule: oar-581-021-0017
   cites: ORS 329.170
   cause: renumbered_or_repealed
@@ -8660,9 +8006,6 @@ dead_citations:
 - rule: oar-581-021-0037
   cites: ORS 333.055
   cause: renumbered_or_repealed
-- rule: oar-581-021-0045
-  cites: OAR 581-021-0655
-  cause: oar_unclassified
 - rule: oar-581-021-0046
   cites: ORS 659.550
   cause: renumbered_or_repealed
@@ -8714,12 +8057,9 @@ dead_citations:
 - rule: oar-581-021-0380
   cites: ORS 418.750
   cause: renumbered_or_repealed
-- rule: oar-581-021-0570
-  cites: OAR 581-075-0001
-  cause: oar_unclassified
-- rule: oar-581-021-0570
-  cites: OAR 581-075-0045
-  cause: oar_unclassified
+- rule: oar-581-021-0660
+  cites: ORS 337.102
+  cause: renumbered_or_repealed
 - rule: oar-581-022-0102
   cites: OAR 581-022-1030
   cause: oar_unclassified
@@ -8738,15 +8078,12 @@ dead_citations:
 - rule: oar-581-022-2310
   cites: ORS 659.150
   cause: renumbered_or_repealed
-- rule: oar-581-022-2330
-  cites: OAR 581-075-0205
-  cause: oar_unclassified
-- rule: oar-581-022-2370
-  cites: OAR 581-075-0001
-  cause: oar_unclassified
 - rule: oar-581-022-2505
   cites: OAR 581-022-1110
   cause: oar_unclassified
+- rule: oar-581-022-2515
+  cites: ORS 329.545
+  cause: renumbered_or_repealed
 - rule: oar-581-023-0008
   cites: ORS 36.051
   cause: renumbered_or_repealed
@@ -8775,9 +8112,6 @@ dead_citations:
   cites: ORS 336.071
   cause: renumbered_or_repealed
 - rule: oar-581-027-0005
-  cites: OAR 581-027-0043
-  cause: oar_unclassified
-- rule: oar-581-027-0005
   cites: ORS 286.806
   cause: renumbered_or_repealed
 - rule: oar-581-027-0005
@@ -8795,9 +8129,6 @@ dead_citations:
 - rule: oar-581-027-0020
   cites: ORS 286.806
   cause: renumbered_or_repealed
-- rule: oar-581-027-0040
-  cites: OAR 581-027-0043
-  cause: oar_unclassified
 - rule: oar-581-051-0550
   cites: OAR 581-015-0570
   cause: oar_unclassified
@@ -8822,18 +8153,9 @@ dead_citations:
 - rule: oar-581-053-0650
   cites: ORS 327.100
   cause: renumbered_or_repealed
-- rule: oar-581-055-0001
-  cites: OAR 581-055-0003
-  cause: oar_unclassified
-- rule: oar-581-055-0004
-  cites: OAR 581-055-0006
-  cause: oar_unclassified
-- rule: oar-581-055-0007
-  cites: OAR 581-055-0003
-  cause: oar_unclassified
-- rule: oar-581-055-0007
-  cites: OAR 581-055-0006
-  cause: oar_unclassified
+- rule: oar-581-075-0020
+  cites: ORS 339.700
+  cause: renumbered_or_repealed
 - rule: oar-582-010-0015
   cites: OAR 309-047-0000
   cause: oar_unclassified
@@ -8852,17 +8174,8 @@ dead_citations:
 - rule: oar-583-001-0000
   cites: ORS 351.735
   cause: renumbered_or_repealed
-- rule: oar-583-030-0035
-  cites: OAR 333-333-3020
-  cause: oar_unclassified
-- rule: oar-583-030-0035
-  cites: OAR 333-333-3030
-  cause: oar_unclassified
 - rule: oar-583-030-0039
   cites: OAR 583-030-0037
-  cause: oar_unclassified
-- rule: oar-583-030-0044
-  cites: OAR 583-030-0061
   cause: oar_unclassified
 - rule: oar-583-030-0051
   cites: ORS 348.080
@@ -8884,9 +8197,6 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-584-019-0010
   cites: OAR 137-003-0570
-  cause: oar_unclassified
-- rule: oar-584-020-0040
-  cites: OAR 584-019-0100
   cause: oar_unclassified
 - rule: oar-584-021-0120
   cites: OAR 584-036-0062
@@ -8948,12 +8258,6 @@ dead_citations:
 - rule: oar-584-220-0020
   cites: OAR 584-420-0300
   cause: oar_unclassified
-- rule: oar-584-255-0010
-  cites: OAR 584-255-0007
-  cause: oar_unclassified
-- rule: oar-584-255-0030
-  cites: OAR 584-255-0007
-  cause: oar_unclassified
 - rule: oar-584-400-0010
   cites: ORS 342.533
   cause: renumbered_or_repealed
@@ -8984,6 +8288,9 @@ dead_citations:
 - rule: oar-584-420-0460
   cites: OAR 584-017-1100
   cause: oar_unclassified
+- rule: oar-584-420-0480
+  cites: OAR 584-017-1100
+  cause: oar_unclassified
 - rule: oar-584-420-0490
   cites: OAR 584-017-1100
   cause: oar_unclassified
@@ -9002,9 +8309,6 @@ dead_citations:
 - rule: oar-589-001-0300
   cites: ORS 351.762
   cause: renumbered_or_repealed
-- rule: oar-589-002-0120
-  cites: OAR 589-006-0100
-  cause: oar_unclassified
 - rule: oar-589-002-0200
   cites: ORS 351.647
   cause: renumbered_or_repealed
@@ -9119,6 +8423,9 @@ dead_citations:
 - rule: oar-603-012-0205
   cites: ORS 604.360
   cause: renumbered_or_repealed
+- rule: oar-603-013-0603
+  cites: ORS 616.697
+  cause: renumbered_or_repealed
 - rule: oar-603-014-0045
   cites: ORS 561.180
   cause: renumbered_or_repealed
@@ -9137,27 +8444,12 @@ dead_citations:
 - rule: oar-603-015-0510
   cites: OAR 603-011-0700
   cause: oar_unclassified
-- rule: oar-603-017-0110
-  cites: OAR 603-025-0520
-  cause: oar_unclassified
-- rule: oar-603-021-0660
-  cites: OAR 603-025-0520
-  cause: oar_unclassified
 - rule: oar-603-021-0760
   cites: OAR 603-021-0709
   cause: oar_unclassified
 - rule: oar-603-021-0765
   cites: ORS 635.010
   cause: renumbered_or_repealed
-- rule: oar-603-021-0770
-  cites: OAR 603-025-0520
-  cause: oar_unclassified
-- rule: oar-603-022-1010
-  cites: OAR 603-025-0520
-  cause: oar_unclassified
-- rule: oar-603-024-0235
-  cites: OAR 603-025-0520
-  cause: oar_unclassified
 - rule: oar-603-024-0379
   cites: ORS 621.201
   cause: renumbered_or_repealed
@@ -9167,15 +8459,9 @@ dead_citations:
 - rule: oar-603-024-0544
   cites: ORS 616.060
   cause: renumbered_or_repealed
-- rule: oar-603-024-0549
-  cites: OAR 603-025-0520
-  cause: oar_unclassified
 - rule: oar-603-024-0584
   cites: ORS 621.085
   cause: renumbered_or_repealed
-- rule: oar-603-024-0746
-  cites: OAR 603-025-0520
-  cause: oar_unclassified
 - rule: oar-603-024-0920
   cites: ORS 622.161
   cause: renumbered_or_repealed
@@ -9185,39 +8471,114 @@ dead_citations:
 - rule: oar-603-025-0020
   cites: ORS 346.620
   cause: renumbered_or_repealed
-- rule: oar-603-025-0315
-  cites: OAR 603-025-0311
-  cause: oar_unclassified
-- rule: oar-603-025-0320
-  cites: OAR 603-025-0328
-  cause: oar_unclassified
-- rule: oar-603-025-0325
-  cites: OAR 603-025-0335
-  cause: oar_unclassified
-- rule: oar-603-025-0330
-  cites: OAR 603-025-0311
-  cause: oar_unclassified
-- rule: oar-603-025-0330
-  cites: OAR 603-025-0328
-  cause: oar_unclassified
+- rule: oar-603-025-0335
+  cites: ORS 616.273
+  cause: renumbered_or_repealed
+- rule: oar-603-025-0520
+  cites: ORS 616.692
+  cause: renumbered_or_repealed
+- rule: oar-603-025-0520
+  cites: ORS 616.697
+  cause: renumbered_or_repealed
+- rule: oar-603-025-0525
+  cites: ORS 616.697
+  cause: renumbered_or_repealed
+- rule: oar-603-025-0530
+  cites: ORS 616.697
+  cause: renumbered_or_repealed
+- rule: oar-603-025-0535
+  cites: ORS 616.697
+  cause: renumbered_or_repealed
 - rule: oar-603-027-0450
   cites: ORS 192.410
   cause: renumbered_or_repealed
 - rule: oar-603-027-0470
   cites: OAR 603-207-0490
   cause: oar_unclassified
-- rule: oar-603-028-0560
-  cites: OAR 603-025-0520
-  cause: oar_unclassified
-- rule: oar-603-028-0725
-  cites: OAR 603-028-0722
-  cause: oar_unclassified
 - rule: oar-603-028-0730
   cites: ORS 616.085
   cause: renumbered_or_repealed
-- rule: oar-603-028-0735
-  cites: OAR 603-028-0732
+- rule: oar-603-029-0010
+  cites: OAR 603-029-1000
   cause: oar_unclassified
+- rule: oar-603-029-0115
+  cites: OAR 603-029-1000
+  cause: oar_unclassified
+- rule: oar-603-029-0225
+  cites: OAR 603-029-0220
+  cause: oar_unclassified
+- rule: oar-603-029-0310
+  cites: OAR 603-029-0400
+  cause: oar_unclassified
+- rule: oar-603-029-0315
+  cites: ORS 603.026
+  cause: renumbered_or_repealed
+- rule: oar-603-029-0340
+  cites: ORS 603.036
+  cause: renumbered_or_repealed
+- rule: oar-603-029-0405
+  cites: ORS 617.700
+  cause: chapter_absent
+- rule: oar-603-029-0500
+  cites: ORS 593.392
+  cause: chapter_absent
+- rule: oar-603-029-0570
+  cites: ORS 649.046
+  cause: chapter_absent
+- rule: oar-603-029-0610
+  cites: OAR 603-029-1000
+  cause: oar_unclassified
+- rule: oar-603-029-0620
+  cites: OAR 603-029-0400
+  cause: oar_unclassified
+- rule: oar-603-029-0700
+  cites: ORS 613.065
+  cause: chapter_absent
+- rule: oar-603-029-0900
+  cites: OAR 603-029-1000
+  cause: oar_unclassified
+- rule: oar-603-029-0905
+  cites: OAR 603-029-1000
+  cause: oar_unclassified
+- rule: oar-603-029-0910
+  cites: OAR 603-029-1000
+  cause: oar_unclassified
+- rule: oar-603-029-0945
+  cites: OAR 603-029-1000
+  cause: oar_unclassified
+- rule: oar-603-029-0950
+  cites: OAR 603-029-1000
+  cause: oar_unclassified
+- rule: oar-603-029-0955
+  cites: OAR 603-029-1000
+  cause: oar_unclassified
+- rule: oar-603-029-1004
+  cites: OAR 603-029-1000
+  cause: oar_unclassified
+- rule: oar-603-029-1004
+  cites: ORS 616.046
+  cause: renumbered_or_repealed
+- rule: oar-603-029-1034
+  cites: OAR 603-029-1000
+  cause: oar_unclassified
+- rule: oar-603-029-2010
+  cites: OAR 603-029-1000
+  cause: oar_unclassified
+- rule: oar-603-029-2405
+  cites: OAR 603-029-1000
+  cause: oar_unclassified
+- rule: oar-603-029-2410
+  cites: OAR 603-029-1000
+  cause: oar_unclassified
+- rule: oar-603-029-4020
+  cites: OAR 603-029-0220
+  cause: oar_unclassified
+- rule: oar-603-029-4050
+  cites: OAR 603-029-0400
+  cause: oar_unclassified
+- rule: oar-603-029-4075
+  cites: ORS 619.700
+  cause: renumbered_or_repealed
 - rule: oar-603-042-0015
   cites: ORS 576.372
   cause: renumbered_or_repealed
@@ -9254,15 +8615,6 @@ dead_citations:
 - rule: oar-603-043-0050
   cites: ORS 576.044
   cause: renumbered_or_repealed
-- rule: oar-603-048-0010
-  cites: OAR 603-048-0126
-  cause: oar_unclassified
-- rule: oar-603-048-0200
-  cites: OAR 603-048-0126
-  cause: oar_unclassified
-- rule: oar-603-048-0200
-  cites: OAR 603-048-0640
-  cause: oar_unclassified
 - rule: oar-603-048-0200
   cites: ORS 561.120
   cause: renumbered_or_repealed
@@ -9272,30 +8624,15 @@ dead_citations:
 - rule: oar-603-048-0300
   cites: ORS 561.120
   cause: renumbered_or_repealed
-- rule: oar-603-048-0400
-  cites: OAR 603-048-0640
-  cause: oar_unclassified
-- rule: oar-603-048-0500
-  cites: OAR 603-048-0640
-  cause: oar_unclassified
-- rule: oar-603-048-0600
-  cites: OAR 603-048-0640
-  cause: oar_unclassified
+- rule: oar-603-048-0520
+  cites: ORS 475B.301
+  cause: renumbered_or_repealed
 - rule: oar-603-048-0600
   cites: ORS 561.120
   cause: renumbered_or_repealed
-- rule: oar-603-048-0630
-  cites: OAR 603-048-0640
-  cause: oar_unclassified
 - rule: oar-603-048-0650
   cites: ORS 561.120
   cause: renumbered_or_repealed
-- rule: oar-603-048-0800
-  cites: OAR 845-026-0400
-  cause: oar_unclassified
-- rule: oar-603-048-1000
-  cites: OAR 603-048-0640
-  cause: oar_unclassified
 - rule: oar-603-048-1000
   cites: OAR 603-048-2000
   cause: oar_unclassified
@@ -9303,29 +8640,17 @@ dead_citations:
   cites: ORS 561.120
   cause: renumbered_or_repealed
 - rule: oar-603-048-1500
-  cites: OAR 845-026-0100
-  cause: oar_unclassified
-- rule: oar-603-048-1500
-  cites: OAR 845-026-0300
-  cause: oar_unclassified
-- rule: oar-603-048-1500
-  cites: OAR 845-026-0400
-  cause: oar_unclassified
-- rule: oar-603-048-1500
   cites: ORS 571.300
   cause: renumbered_or_repealed
-- rule: oar-603-048-2310
-  cites: OAR 603-048-3280
-  cause: oar_unclassified
 - rule: oar-603-048-2340
   cites: ORS 571.300
   cause: renumbered_or_repealed
-- rule: oar-603-048-2350
-  cites: OAR 845-026-0400
-  cause: oar_unclassified
 - rule: oar-603-048-2440
   cites: ORS 571.300
   cause: renumbered_or_repealed
+- rule: oar-603-048-3260
+  cites: OAR 603-048-3030
+  cause: oar_unclassified
 - rule: oar-603-050-0300
   cites: ORS 632.226
   cause: renumbered_or_repealed
@@ -9368,6 +8693,9 @@ dead_citations:
 - rule: oar-603-052-1340
   cites: ORS 570.205
   cause: renumbered_or_repealed
+- rule: oar-603-052-1391
+  cites: ORS 185.335
+  cause: renumbered_or_repealed
 - rule: oar-603-056-0030
   cites: ORS 633.711
   cause: renumbered_or_repealed
@@ -9380,6 +8708,18 @@ dead_citations:
 - rule: oar-603-056-0500
   cites: ORS 183.550
   cause: renumbered_or_repealed
+- rule: oar-603-058-0115
+  cites: OAR 603-011-0170
+  cause: oar_unclassified
+- rule: oar-603-058-0115
+  cites: ORS 663.067
+  cause: renumbered_or_repealed
+- rule: oar-603-058-0116
+  cites: ORS 663.067
+  cause: renumbered_or_repealed
+- rule: oar-603-058-0117
+  cites: ORS 663.067
+  cause: renumbered_or_repealed
 - rule: oar-603-058-0120
   cites: ORS 663.067
   cause: renumbered_or_repealed
@@ -9387,20 +8727,11 @@ dead_citations:
   cites: ORS 663.067
   cause: renumbered_or_repealed
 - rule: oar-603-058-0130
-  cites: OAR 603-058-0115
-  cause: oar_unclassified
-- rule: oar-603-058-0130
-  cites: OAR 603-058-0116
-  cause: oar_unclassified
-- rule: oar-603-058-0130
   cites: ORS 663.067
   cause: renumbered_or_repealed
 - rule: oar-603-058-0140
   cites: ORS 663.067
   cause: renumbered_or_repealed
-- rule: oar-603-058-0160
-  cites: OAR 603-058-0115
-  cause: oar_unclassified
 - rule: oar-603-058-0160
   cites: ORS 663.067
   cause: renumbered_or_repealed
@@ -9410,9 +8741,6 @@ dead_citations:
 - rule: oar-603-058-0180
   cites: ORS 663.067
   cause: renumbered_or_repealed
-- rule: oar-603-058-0190
-  cites: OAR 603-058-0116
-  cause: oar_unclassified
 - rule: oar-603-058-0190
   cites: OAR 603-508-0140
   cause: oar_unclassified
@@ -9464,15 +8792,6 @@ dead_citations:
 - rule: oar-603-074-0005
   cites: ORS 561.175
   cause: renumbered_or_repealed
-- rule: oar-603-074-0010
-  cites: OAR 603-074-0011
-  cause: oar_unclassified
-- rule: oar-603-074-0012
-  cites: OAR 603-074-0019
-  cause: oar_unclassified
-- rule: oar-603-074-0020
-  cites: OAR 603-074-0011
-  cause: oar_unclassified
 - rule: oar-603-074-0050
   cites: ORS 561.175
   cause: renumbered_or_repealed
@@ -9485,8 +8804,11 @@ dead_citations:
 - rule: oar-603-075-0010
   cites: ORS 36.250
   cause: renumbered_or_repealed
-- rule: oar-603-076-0005
-  cites: OAR 603-076-0018
+- rule: oar-603-076-0018
+  cites: OAR 603-076-0020
+  cause: oar_unclassified
+- rule: oar-603-076-0021
+  cites: OAR 603-076-0020
   cause: oar_unclassified
 - rule: oar-603-076-0051
   cites: ORS 62.845
@@ -9533,6 +8855,9 @@ dead_citations:
 - rule: oar-603-095-4020
   cites: OAR 605-095-4030
   cause: oar_unclassified
+- rule: oar-603-100-0105
+  cites: ORS 616.697
+  cause: renumbered_or_repealed
 - rule: oar-603-110-0100
   cites: ORS 541.423
   cause: renumbered_or_repealed
@@ -9572,12 +8897,24 @@ dead_citations:
 - rule: oar-603-111-0010
   cites: OAR 234-253-8100
   cause: oar_unclassified
+- rule: oar-611-040-0100
+  cites: ORS 576.264
+  cause: renumbered_or_repealed
 - rule: oar-617-010-0025
   cites: ORS 621.055
   cause: renumbered_or_repealed
 - rule: oar-617-010-0085
   cites: ORS 621.152
   cause: renumbered_or_repealed
+- rule: oar-617-040-0111
+  cites: OAR 617-040-0130
+  cause: oar_unclassified
+- rule: oar-617-040-0111
+  cites: OAR 617-040-0140
+  cause: oar_unclassified
+- rule: oar-617-040-0121
+  cites: OAR 617-040-0140
+  cause: oar_unclassified
 - rule: oar-619-001-0010
   cites: ORS 576.766
   cause: renumbered_or_repealed
@@ -9785,77 +9122,11 @@ dead_citations:
 - rule: oar-629-047-0190
   cites: ORS 477.6750
   cause: renumbered_or_repealed
-- rule: oar-629-048-0500
-  cites: OAR 629-615-0300
-  cause: oar_unclassified
-- rule: oar-629-600-0100
-  cites: OAR 629-603-0200
-  cause: oar_unclassified
-- rule: oar-629-600-0100
-  cites: OAR 629-603-0300
-  cause: oar_unclassified
-- rule: oar-629-600-0100
-  cites: OAR 629-603-0400
-  cause: oar_unclassified
-- rule: oar-629-600-0100
-  cites: OAR 629-603-0450
-  cause: oar_unclassified
-- rule: oar-629-600-0100
-  cites: OAR 629-643-0140
-  cause: oar_unclassified
 - rule: oar-629-605-0210
   cites: ORS 527.7210
   cause: renumbered_or_repealed
-- rule: oar-629-605-0500
-  cites: OAR 629-643-0300
-  cause: oar_unclassified
 - rule: oar-629-610-0000
   cites: OAR 629-024-0400
-  cause: oar_unclassified
-- rule: oar-629-623-0300
-  cites: OAR 629-643-0000
-  cause: oar_unclassified
-- rule: oar-629-625-0300
-  cites: OAR 629-625-0800
-  cause: oar_unclassified
-- rule: oar-629-625-0300
-  cites: OAR 629-625-0910
-  cause: oar_unclassified
-- rule: oar-629-630-0000
-  cites: OAR 629-630-0900
-  cause: oar_unclassified
-- rule: oar-629-630-0700
-  cites: OAR 629-630-0905
-  cause: oar_unclassified
-- rule: oar-629-635-0100
-  cites: OAR 629-643-0000
-  cause: oar_unclassified
-- rule: oar-629-635-0100
-  cites: OAR 629-643-0400
-  cause: oar_unclassified
-- rule: oar-629-635-0200
-  cites: OAR 629-603-0000
-  cause: oar_unclassified
-- rule: oar-629-635-0200
-  cites: OAR 629-643-0100
-  cause: oar_unclassified
-- rule: oar-629-635-0200
-  cites: OAR 629-643-0130
-  cause: oar_unclassified
-- rule: oar-629-635-0200
-  cites: OAR 629-643-0143
-  cause: oar_unclassified
-- rule: oar-629-635-0310
-  cites: OAR 629-643-0100
-  cause: oar_unclassified
-- rule: oar-629-655-0000
-  cites: OAR 629-643-0135
-  cause: oar_unclassified
-- rule: oar-629-655-0000
-  cites: OAR 629-643-0145
-  cause: oar_unclassified
-- rule: oar-629-670-0350
-  cites: OAR 629-670-0225
   cause: oar_unclassified
 - rule: oar-629-672-0100
   cites: ORS 527.662
@@ -9866,15 +9137,6 @@ dead_citations:
 - rule: oar-632-020-0032
   cites: ORS 522.0065
   cause: renumbered_or_repealed
-- rule: oar-632-030-0020
-  cites: OAR 632-030-0023
-  cause: oar_unclassified
-- rule: oar-632-030-0021
-  cites: OAR 632-030-0023
-  cause: oar_unclassified
-- rule: oar-632-030-0030
-  cites: OAR 632-030-0023
-  cause: oar_unclassified
 - rule: oar-632-030-0030
   cites: ORS 215.428
   cause: renumbered_or_repealed
@@ -9950,9 +9212,6 @@ dead_citations:
 - rule: oar-635-005-0455
   cites: ORS 506.931
   cause: renumbered_or_repealed
-- rule: oar-635-005-0466
-  cites: OAR 603-025-0426
-  cause: oar_unclassified
 - rule: oar-635-005-0600
   cites: ORS 183.550
   cause: renumbered_or_repealed
@@ -9974,15 +9233,15 @@ dead_citations:
 - rule: oar-635-007-0940
   cites: OAR 635-011-0220
   cause: oar_unclassified
-- rule: oar-635-009-0115
-  cites: OAR 635-009-0107
-  cause: oar_unclassified
 - rule: oar-635-009-0415
   cites: OAR 635-007-0817
   cause: oar_unclassified
 - rule: oar-635-009-0450
   cites: OAR 635-007-0525
   cause: oar_unclassified
+- rule: oar-635-010-0159
+  cites: ORS 496.497
+  cause: renumbered_or_repealed
 - rule: oar-635-040-0001
   cites: OAR 635-007-0521
   cause: oar_unclassified
@@ -9997,6 +9256,9 @@ dead_citations:
   cause: oar_unclassified
 - rule: oar-635-040-0022
   cites: OAR 635-007-0810
+  cause: oar_unclassified
+- rule: oar-635-043-0076
+  cites: OAR 635-043-0070
   cause: oar_unclassified
 - rule: oar-635-044-0550
   cites: OAR 603-011-0255
@@ -10052,6 +9314,9 @@ dead_citations:
 - rule: oar-635-056-0075
   cites: ORS 503.006
   cause: chapter_absent
+- rule: oar-635-097-0030
+  cites: OAR 635-097-0040
+  cause: oar_unclassified
 - rule: oar-635-100-0135
   cites: OAR 635-007-0527
   cause: oar_unclassified
@@ -10097,15 +9362,6 @@ dead_citations:
 - rule: oar-635-425-0010
   cites: ORS 590.140
   cause: chapter_absent
-- rule: oar-635-430-0010
-  cites: OAR 635-430-0027
-  cause: oar_unclassified
-- rule: oar-635-430-0040
-  cites: OAR 635-430-0027
-  cause: oar_unclassified
-- rule: oar-635-430-0060
-  cites: OAR 635-430-0027
-  cause: oar_unclassified
 - rule: oar-635-435-0005
   cites: OAR 635-044-0130
   cause: oar_unclassified
@@ -10224,21 +9480,6 @@ dead_citations:
   cites: ORS 197.475
   cause: renumbered_or_repealed
 - rule: oar-660-008-0005
-  cites: OAR 660-008-0075
-  cause: oar_unclassified
-- rule: oar-660-008-0005
-  cites: OAR 660-008-0200
-  cause: oar_unclassified
-- rule: oar-660-008-0005
-  cites: OAR 660-008-0230
-  cause: oar_unclassified
-- rule: oar-660-008-0005
-  cites: OAR 660-012-0360
-  cause: oar_unclassified
-- rule: oar-660-008-0005
-  cites: OAR 813-385-0010
-  cause: oar_unclassified
-- rule: oar-660-008-0005
   cites: ORS 197.475
   cause: renumbered_or_repealed
 - rule: oar-660-008-0010
@@ -10340,6 +9581,18 @@ dead_citations:
 - rule: oar-660-008-0070
   cites: ORS 197.303
   cause: renumbered_or_repealed
+- rule: oar-660-008-0075
+  cites: ORS 197.475
+  cause: renumbered_or_repealed
+- rule: oar-660-008-0080
+  cites: ORS 197.475
+  cause: renumbered_or_repealed
+- rule: oar-660-008-0120
+  cites: ORS 197.475
+  cause: renumbered_or_repealed
+- rule: oar-660-008-0125
+  cites: ORS 197.475
+  cause: renumbered_or_repealed
 - rule: oar-660-011-0015
   cites: ORS 197.185
   cause: renumbered_or_repealed
@@ -10347,25 +9600,55 @@ dead_citations:
   cites: ORS 197.190
   cause: renumbered_or_repealed
 - rule: oar-660-011-0060
-  cites: OAR 660-014-0090
-  cause: oar_unclassified
-- rule: oar-660-011-0060
   cites: ORS 215.303
   cause: renumbered_or_repealed
 - rule: oar-660-012-0000
   cites: ORS 195.012
   cause: renumbered_or_repealed
 - rule: oar-660-012-0005
-  cites: OAR 660-012-0910
-  cause: oar_unclassified
-- rule: oar-660-012-0005
   cites: ORS 197.758
+  cause: renumbered_or_repealed
+- rule: oar-660-012-0012
+  cites: ORS 197.296
   cause: renumbered_or_repealed
 - rule: oar-660-012-0015
   cites: ORS 184.618
   cause: renumbered_or_repealed
 - rule: oar-660-012-0020
   cites: ORS 195.012
+  cause: renumbered_or_repealed
+- rule: oar-660-012-0100
+  cites: ORS 197.200
+  cause: renumbered_or_repealed
+- rule: oar-660-012-0140
+  cites: ORS 197.301
+  cause: renumbered_or_repealed
+- rule: oar-660-012-0160
+  cites: ORS 486A.205
+  cause: chapter_absent
+- rule: oar-660-012-0170
+  cites: ORS 197.899
+  cause: renumbered_or_repealed
+- rule: oar-660-012-0190
+  cites: ORS 197.200
+  cause: renumbered_or_repealed
+- rule: oar-660-012-0315
+  cites: ORS 197.296
+  cause: renumbered_or_repealed
+- rule: oar-660-012-0340
+  cites: ORS 197.296
+  cause: renumbered_or_repealed
+- rule: oar-660-012-0430
+  cites: ORS 456.250
+  cause: renumbered_or_repealed
+- rule: oar-660-012-0900
+  cites: ORS 197.301
+  cause: renumbered_or_repealed
+- rule: oar-660-014-0090
+  cites: ORS 197.298
+  cause: renumbered_or_repealed
+- rule: oar-660-014-0090
+  cites: ORS 197A.320
   cause: renumbered_or_repealed
 - rule: oar-660-018-0020
   cites: ORS 197.763
@@ -10394,21 +9677,12 @@ dead_citations:
 - rule: oar-660-023-0110
   cites: ORS 192.501
   cause: renumbered_or_repealed
-- rule: oar-660-023-0190
-  cites: OAR 660-023-0195
-  cause: oar_unclassified
 - rule: oar-660-024-0010
   cites: ORS 197.478
   cause: renumbered_or_repealed
 - rule: oar-660-024-0040
   cites: ORS 197.478
   cause: renumbered_or_repealed
-- rule: oar-660-024-0050
-  cites: OAR 660-008-0100
-  cause: oar_unclassified
-- rule: oar-660-024-0050
-  cites: OAR 660-008-0150
-  cause: oar_unclassified
 - rule: oar-660-024-0050
   cites: ORS 197.478
   cause: renumbered_or_repealed
@@ -10572,9 +9846,6 @@ dead_citations:
   cites: ORS 192.410
   cause: renumbered_or_repealed
 - rule: oar-660-033-0130
-  cites: OAR 660-023-0195
-  cause: oar_unclassified
-- rule: oar-660-033-0130
   cites: ORS 197.247
   cause: renumbered_or_repealed
 - rule: oar-660-033-0130
@@ -10673,9 +9944,6 @@ dead_citations:
 - rule: oar-660-041-0510
   cites: ORS 197.352
   cause: renumbered_or_repealed
-- rule: oar-660-044-0005
-  cites: OAR 660-012-0125
-  cause: oar_unclassified
 - rule: oar-660-044-0060
   cites: ORS 197.301
   cause: renumbered_or_repealed
@@ -10790,21 +10058,9 @@ dead_citations:
 - rule: oar-660-046-0370
   cites: ORS 197.758
   cause: renumbered_or_repealed
-- rule: oar-661-010-0005
-  cites: OAR 661-010-0011
-  cause: oar_unclassified
-- rule: oar-661-010-0010
-  cites: OAR 661-010-0012
-  cause: oar_unclassified
-- rule: oar-661-010-0015
-  cites: OAR 661-010-0012
-  cause: oar_unclassified
-- rule: oar-661-010-0015
-  cites: OAR 661-010-0014
-  cause: oar_unclassified
-- rule: oar-661-010-0050
-  cites: OAR 661-010-0012
-  cause: oar_unclassified
+- rule: oar-661-010-0014
+  cites: ORS 279.545
+  cause: renumbered_or_repealed
 - rule: oar-664-001-0000
   cites: ORS 576.305
   cause: renumbered_or_repealed
@@ -10823,15 +10079,9 @@ dead_citations:
 - rule: oar-690-002-0023
   cites: ORS 537.792
   cause: renumbered_or_repealed
-- rule: oar-690-002-0025
-  cites: OAR 690-002-0005
-  cause: oar_unclassified
-- rule: oar-690-002-0030
-  cites: OAR 690-002-0005
-  cause: oar_unclassified
-- rule: oar-690-002-0075
-  cites: OAR 690-002-0005
-  cause: oar_unclassified
+- rule: oar-690-002-0225
+  cites: ORS 536.060
+  cause: renumbered_or_repealed
 - rule: oar-690-003-0100
   cites: ORS 192.410
   cause: renumbered_or_repealed
@@ -10892,15 +10142,6 @@ dead_citations:
 - rule: oar-690-005-0015
   cites: ORS 197.190
   cause: renumbered_or_repealed
-- rule: oar-690-009-0010
-  cites: OAR 690-009-0060
-  cause: oar_unclassified
-- rule: oar-690-009-0020
-  cites: OAR 690-009-0060
-  cause: oar_unclassified
-- rule: oar-690-009-0050
-  cites: OAR 690-009-0060
-  cause: oar_unclassified
 - rule: oar-690-013-0005
   cites: ORS 537.325
   cause: renumbered_or_repealed
@@ -10934,24 +10175,9 @@ dead_citations:
 - rule: oar-690-013-0350
   cites: ORS 537.325
   cause: renumbered_or_repealed
-- rule: oar-690-017-0600
-  cites: OAR 690-002-0235
-  cause: oar_unclassified
-- rule: oar-690-017-0700
-  cites: OAR 690-002-0235
-  cause: oar_unclassified
 - rule: oar-690-018-0040
   cites: ORS 541.375
   cause: renumbered_or_repealed
-- rule: oar-690-018-0050
-  cites: OAR 690-002-0220
-  cause: oar_unclassified
-- rule: oar-690-018-0050
-  cites: OAR 690-002-0235
-  cause: oar_unclassified
-- rule: oar-690-018-0090
-  cites: OAR 690-018-0065
-  cause: oar_unclassified
 - rule: oar-690-028-0010
   cites: ORS 537.599
   cause: renumbered_or_repealed
@@ -10982,36 +10208,6 @@ dead_citations:
 - rule: oar-690-077-0015
   cites: ORS 547.346
   cause: renumbered_or_repealed
-- rule: oar-690-077-0043
-  cites: OAR 690-002-0235
-  cause: oar_unclassified
-- rule: oar-690-077-0047
-  cites: OAR 690-002-0235
-  cause: oar_unclassified
-- rule: oar-690-077-0051
-  cites: OAR 690-002-0220
-  cause: oar_unclassified
-- rule: oar-690-077-0054
-  cites: OAR 690-002-0235
-  cause: oar_unclassified
-- rule: oar-690-077-0065
-  cites: OAR 690-077-0105
-  cause: oar_unclassified
-- rule: oar-690-077-0065
-  cites: OAR 690-077-0110
-  cause: oar_unclassified
-- rule: oar-690-077-0070
-  cites: OAR 690-077-0071
-  cause: oar_unclassified
-- rule: oar-690-077-0075
-  cites: OAR 690-380-4005
-  cause: oar_unclassified
-- rule: oar-690-077-0076
-  cites: OAR 690-077-0071
-  cause: oar_unclassified
-- rule: oar-690-077-0076
-  cites: OAR 690-077-0105
-  cause: oar_unclassified
 - rule: oar-690-078-0040
   cites: OAR 690-014-0150
   cause: oar_unclassified
@@ -11060,6 +10256,9 @@ dead_citations:
 - rule: oar-690-095-0100
   cites: ORS 541.646
   cause: renumbered_or_repealed
+- rule: oar-690-100-0025
+  cites: OAR 690-060-0045
+  cause: oar_unclassified
 - rule: oar-690-200-0028
   cites: OAR 690-215-0200
   cause: oar_unclassified
@@ -11078,29 +10277,14 @@ dead_citations:
 - rule: oar-690-310-0120
   cites: OAR 340-041-0006
   cause: oar_unclassified
-- rule: oar-690-310-0160
-  cites: OAR 690-002-0235
-  cause: oar_unclassified
 - rule: oar-690-310-0200
   cites: ORS 537.077
   cause: renumbered_or_repealed
-- rule: oar-690-310-0210
-  cites: OAR 690-002-0220
-  cause: oar_unclassified
-- rule: oar-690-310-0220
-  cites: OAR 690-002-0235
-  cause: oar_unclassified
 - rule: oar-690-310-0220
   cites: ORS 537.077
   cause: renumbered_or_repealed
-- rule: oar-690-315-0060
-  cites: OAR 690-002-0235
-  cause: oar_unclassified
 - rule: oar-690-320-0030
   cites: OAR 690-340-0220
-  cause: oar_unclassified
-- rule: oar-690-325-0100
-  cites: OAR 690-002-0235
   cause: oar_unclassified
 - rule: oar-690-340-0020
   cites: OAR 690-011-0020
@@ -11111,48 +10295,6 @@ dead_citations:
 - rule: oar-690-340-0060
   cites: ORS 537.017
   cause: renumbered_or_repealed
-- rule: oar-690-380-0010
-  cites: OAR 690-380-7000
-  cause: oar_unclassified
-- rule: oar-690-380-0010
-  cites: OAR 690-380-7300
-  cause: oar_unclassified
-- rule: oar-690-380-2110
-  cites: OAR 690-380-7000
-  cause: oar_unclassified
-- rule: oar-690-380-2110
-  cites: OAR 690-380-7300
-  cause: oar_unclassified
-- rule: oar-690-380-2260
-  cites: OAR 690-002-0235
-  cause: oar_unclassified
-- rule: oar-690-380-4000
-  cites: OAR 690-380-4005
-  cause: oar_unclassified
-- rule: oar-690-380-4010
-  cites: OAR 690-380-4005
-  cause: oar_unclassified
-- rule: oar-690-380-4020
-  cites: OAR 690-380-4005
-  cause: oar_unclassified
-- rule: oar-690-380-4030
-  cites: OAR 690-002-0235
-  cause: oar_unclassified
-- rule: oar-690-380-5050
-  cites: OAR 690-380-4005
-  cause: oar_unclassified
-- rule: oar-690-380-9000
-  cites: OAR 690-002-0235
-  cause: oar_unclassified
-- rule: oar-690-382-0400
-  cites: OAR 690-382-0550
-  cause: oar_unclassified
-- rule: oar-690-382-0600
-  cites: OAR 690-382-0550
-  cause: oar_unclassified
-- rule: oar-690-382-1000
-  cites: OAR 690-002-0235
-  cause: oar_unclassified
 - rule: oar-690-400-0000
   cites: ORS 536.430
   cause: renumbered_or_repealed
@@ -11174,13 +10316,13 @@ dead_citations:
 - rule: oar-690-509-0160
   cites: ORS 536.358
   cause: renumbered_or_repealed
-- rule: oar-690-512-0010
-  cites: OAR 690-512-0070
-  cause: oar_unclassified
-- rule: oar-690-512-0010
-  cites: OAR 690-512-0080
-  cause: oar_unclassified
 - rule: oar-690-512-0020
+  cites: ORS 537.027
+  cause: renumbered_or_repealed
+- rule: oar-690-512-0041
+  cites: ORS 537.027
+  cause: renumbered_or_repealed
+- rule: oar-690-512-0080
   cites: ORS 537.027
   cause: renumbered_or_repealed
 - rule: oar-690-522-0060
@@ -11189,6 +10331,9 @@ dead_citations:
 - rule: oar-690-600-0010
   cites: ORS 391.802
   cause: renumbered_or_repealed
+- rule: oar-690-601-0500
+  cites: OAR 690-601-0004
+  cause: oar_unclassified
 - rule: oar-695-003-0010
   cites: ORS 192.410
   cause: renumbered_or_repealed
@@ -11207,21 +10352,18 @@ dead_citations:
 - rule: oar-695-003-0040
   cites: ORS 192.410
   cause: renumbered_or_repealed
-- rule: oar-695-046-0200
-  cites: OAR 695-005-0045
-  cause: oar_unclassified
 - rule: oar-695-046-0215
   cites: OAR 659-046-0185
   cause: oar_unclassified
 - rule: oar-695-046-0215
   cites: OAR 659-046-0215
   cause: oar_unclassified
-- rule: oar-695-047-0070
-  cites: OAR 695-005-0045
-  cause: oar_unclassified
 - rule: oar-695-050-0045
   cites: ORS 541.350
   cause: renumbered_or_repealed
+- rule: oar-698-005-0045
+  cites: OAR 698-020-0160
+  cause: oar_unclassified
 - rule: oar-705-001-0010
   cites: ORS 192.440
   cause: renumbered_or_repealed
@@ -11243,12 +10385,6 @@ dead_citations:
 - rule: oar-715-011-0065
   cites: ORS 354.120
   cause: renumbered_or_repealed
-- rule: oar-715-011-0070
-  cites: OAR 715-045-0006
-  cause: oar_unclassified
-- rule: oar-715-011-0070
-  cites: OAR 715-045-0190
-  cause: oar_unclassified
 - rule: oar-715-011-0075
   cites: ORS 648.596
   cause: renumbered_or_repealed
@@ -11267,8 +10403,41 @@ dead_citations:
 - rule: oar-715-013-0064
   cites: ORS 351.715
   cause: renumbered_or_repealed
+- rule: oar-715-045-0003
+  cites: ORS 181.534
+  cause: renumbered_or_repealed
+- rule: oar-715-045-0003
+  cites: ORS 324.143
+  cause: renumbered_or_repealed
+- rule: oar-715-045-0006
+  cites: OAR 581-045-0036
+  cause: oar_unclassified
+- rule: oar-715-045-0012
+  cites: ORS 345.400
+  cause: renumbered_or_repealed
+- rule: oar-715-045-0018
+  cites: OAR 581-045-0019
+  cause: oar_unclassified
+- rule: oar-715-045-0032
+  cites: OAR 581-045-0063
+  cause: oar_unclassified
+- rule: oar-715-045-0067
+  cites: OAR 715-045-0026
+  cause: oar_unclassified
+- rule: oar-715-045-0200
+  cites: ORS 345.400
+  cause: renumbered_or_repealed
+- rule: oar-715-045-0210
+  cites: ORS 345.440
+  cause: renumbered_or_repealed
+- rule: oar-715-045-0220
+  cites: ORS 345.400
+  cause: renumbered_or_repealed
 - rule: oar-715-100-0004
   cites: ORS 418.658
+  cause: renumbered_or_repealed
+- rule: oar-715-102-0025
+  cites: ORS 418.653
   cause: renumbered_or_repealed
 - rule: oar-731-001-0005
   cites: OAR 737-003-0566
@@ -11284,12 +10453,6 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-731-005-0440
   cites: OAR 731-005-0659
-  cause: oar_unclassified
-- rule: oar-731-005-0470
-  cites: OAR 731-005-0900
-  cause: oar_unclassified
-- rule: oar-731-005-0470
-  cites: OAR 731-005-0910
   cause: oar_unclassified
 - rule: oar-731-005-0500
   cites: ORS 184.616
@@ -11468,6 +10631,9 @@ dead_citations:
 - rule: oar-731-030-0160
   cites: ORS 184.616
   cause: renumbered_or_repealed
+- rule: oar-731-040-0039
+  cites: ORS 383.0004
+  cause: renumbered_or_repealed
 - rule: oar-731-040-0052
   cites: ORS 184.616
   cause: renumbered_or_repealed
@@ -11480,9 +10646,6 @@ dead_citations:
 - rule: oar-731-040-0055
   cites: ORS 184.616
   cause: renumbered_or_repealed
-- rule: oar-731-040-0056
-  cites: OAR 731-040-0065
-  cause: oar_unclassified
 - rule: oar-731-040-0057
   cites: ORS 184.616
   cause: renumbered_or_repealed
@@ -11606,20 +10769,20 @@ dead_citations:
 - rule: oar-731-090-0090
   cites: ORS 184.616
   cause: renumbered_or_repealed
+- rule: oar-731-145-0040
+  cites: ORS 184.285
+  cause: renumbered_or_repealed
 - rule: oar-731-146-0060
   cites: ORS 271.047
   cause: renumbered_or_repealed
 - rule: oar-731-146-0200
   cites: OAR 731-148-0210
   cause: oar_unclassified
+- rule: oar-731-147-0810
+  cites: ORS 279.050
+  cause: renumbered_or_repealed
 - rule: oar-731-148-0250
   cites: OAR 731-148-0210
-  cause: oar_unclassified
-- rule: oar-731-149-0010
-  cites: OAR 731-005-0800
-  cause: oar_unclassified
-- rule: oar-731-149-0010
-  cites: OAR 731-149-0020
   cause: oar_unclassified
 - rule: oar-732-005-0000
   cites: ORS 184.616
@@ -11885,12 +11048,6 @@ dead_citations:
 - rule: oar-732-035-0080
   cites: ORS 184.616
   cause: renumbered_or_repealed
-- rule: oar-732-040-0005
-  cites: OAR 732-042-0055
-  cause: oar_unclassified
-- rule: oar-732-040-0015
-  cites: OAR 732-042-0055
-  cause: oar_unclassified
 - rule: oar-732-040-0025
   cites: ORS 184.658
   cause: renumbered_or_repealed
@@ -11910,9 +11067,6 @@ dead_citations:
   cites: ORS 184.658
   cause: renumbered_or_repealed
 - rule: oar-732-042-0010
-  cites: OAR 732-042-0045
-  cause: oar_unclassified
-- rule: oar-732-042-0010
   cites: OAR 734-042-0015
   cause: oar_unclassified
 - rule: oar-732-042-0010
@@ -11921,8 +11075,11 @@ dead_citations:
 - rule: oar-732-042-0030
   cites: ORS 184.658
   cause: renumbered_or_repealed
-- rule: oar-732-042-0035
-  cites: OAR 732-042-0045
+- rule: oar-732-042-0045
+  cites: ORS 184.755
+  cause: renumbered_or_repealed
+- rule: oar-732-042-0055
+  cites: OAR 732-042-0050
   cause: oar_unclassified
 - rule: oar-732-044-0005
   cites: ORS 184.658
@@ -12032,12 +11189,6 @@ dead_citations:
 - rule: oar-734-020-0010
   cites: ORS 184.616
   cause: renumbered_or_repealed
-- rule: oar-734-020-0014
-  cites: OAR 734-020-0013
-  cause: oar_unclassified
-- rule: oar-734-020-0015
-  cites: OAR 734-020-0013
-  cause: oar_unclassified
 - rule: oar-734-020-0017
   cites: ORS 184.616
   cause: renumbered_or_repealed
@@ -12531,9 +11682,6 @@ dead_citations:
   cites: ORS 814.619
   cause: renumbered_or_repealed
 - rule: oar-735-001-0050
-  cites: OAR 735-063-0315
-  cause: oar_unclassified
-- rule: oar-735-001-0050
   cites: ORS 339.254
   cause: renumbered_or_repealed
 - rule: oar-735-001-0100
@@ -12683,9 +11831,6 @@ dead_citations:
 - rule: oar-735-028-0120
   cites: ORS 184.616
   cause: renumbered_or_repealed
-- rule: oar-735-028-0125
-  cites: OAR 735-028-0160
-  cause: oar_unclassified
 - rule: oar-735-028-0150
   cites: ORS 184.616
   cause: renumbered_or_repealed
@@ -12824,15 +11969,6 @@ dead_citations:
 - rule: oar-735-050-0120
   cites: ORS 184.616
   cause: renumbered_or_repealed
-- rule: oar-735-060-0055
-  cites: OAR 735-063-0262
-  cause: oar_unclassified
-- rule: oar-735-060-0105
-  cites: OAR 735-063-0262
-  cause: oar_unclassified
-- rule: oar-735-060-0145
-  cites: OAR 735-063-0262
-  cause: oar_unclassified
 - rule: oar-735-061-0460
   cites: ORS 184.616
   cause: renumbered_or_repealed
@@ -12896,21 +12032,12 @@ dead_citations:
 - rule: oar-735-063-0270
   cites: ORS 184.616
   cause: renumbered_or_repealed
-- rule: oar-735-063-0290
-  cites: OAR 735-063-0262
-  cause: oar_unclassified
-- rule: oar-735-063-0290
-  cites: OAR 735-063-0269
-  cause: oar_unclassified
 - rule: oar-735-063-0320
   cites: ORS 184.616
   cause: renumbered_or_repealed
 - rule: oar-735-063-0330
   cites: ORS 184.616
   cause: renumbered_or_repealed
-- rule: oar-735-063-0340
-  cites: OAR 735-063-0269
-  cause: oar_unclassified
 - rule: oar-735-063-0350
   cites: ORS 184.616
   cause: renumbered_or_repealed
@@ -12968,9 +12095,6 @@ dead_citations:
 - rule: oar-735-074-0130
   cites: ORS 184.616
   cause: renumbered_or_repealed
-- rule: oar-735-074-0140
-  cites: OAR 735-074-0072
-  cause: oar_unclassified
 - rule: oar-735-074-0200
   cites: ORS 184.616
   cause: renumbered_or_repealed
@@ -12979,12 +12103,6 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-735-080-0020
   cites: OAR 735-008-0100
-  cause: oar_unclassified
-- rule: oar-735-080-0020
-  cites: OAR 735-080-0100
-  cause: oar_unclassified
-- rule: oar-735-080-0070
-  cites: OAR 735-080-0100
   cause: oar_unclassified
 - rule: oar-735-100-0020
   cites: OAR 581-053-0015
@@ -13205,9 +12323,6 @@ dead_citations:
 - rule: oar-735-152-0045
   cites: ORS 184.616
   cause: renumbered_or_repealed
-- rule: oar-735-152-0060
-  cites: OAR 735-152-0007
-  cause: oar_unclassified
 - rule: oar-735-152-0070
   cites: ORS 184.616
   cause: renumbered_or_repealed
@@ -13373,12 +12488,6 @@ dead_citations:
 - rule: oar-736-009-0006
   cites: OAR 735-009-0005
   cause: oar_unclassified
-- rule: oar-736-010-0040
-  cites: OAR 736-016-0005
-  cause: oar_unclassified
-- rule: oar-736-010-0040
-  cites: OAR 736-016-0012
-  cause: oar_unclassified
 - rule: oar-736-018-0090
   cites: OAR 137-001-0015
   cause: oar_unclassified
@@ -13400,9 +12509,6 @@ dead_citations:
 - rule: oar-736-021-0060
   cites: ORS 390.668
   cause: renumbered_or_repealed
-- rule: oar-736-021-0130
-  cites: OAR 736-016-0005
-  cause: oar_unclassified
 - rule: oar-736-022-0005
   cites: ORS 183.545
   cause: renumbered_or_repealed
@@ -13511,12 +12617,6 @@ dead_citations:
 - rule: oar-736-040-0075
   cites: ORS 183.545
   cause: renumbered_or_repealed
-- rule: oar-736-050-0220
-  cites: OAR 736-050-0270
-  cause: oar_unclassified
-- rule: oar-736-050-0230
-  cites: OAR 736-050-0270
-  cause: oar_unclassified
 - rule: oar-736-052-0001
   cites: OAR 125-050-0000
   cause: oar_unclassified
@@ -13538,8 +12638,164 @@ dead_citations:
 - rule: oar-736-060-0020
   cites: OAR 690-077-0045
   cause: oar_unclassified
+- rule: oar-736-140-0006
+  cites: OAR 137-050-0052
+  cause: oar_unclassified
 - rule: oar-736-146-0120
   cites: ORS 279A.0656
+  cause: renumbered_or_repealed
+- rule: oar-736-148-0100
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-148-0110
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-148-0120
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-148-0130
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-148-0200
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-148-0210
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-148-0220
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-148-0230
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-148-0240
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-148-0250
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-148-0270
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-148-0300
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0020
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0100
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0120
+  cites: OAR 736-149-1040
+  cause: oar_unclassified
+- rule: oar-736-149-0120
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0130
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0160
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0200
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0210
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0230
+  cites: OAR 736-149-1035
+  cause: oar_unclassified
+- rule: oar-736-149-0230
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0240
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0245
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0250
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0260
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0270
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0280
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0290
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0310
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0340
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0350
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0360
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0370
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0380
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0385
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0390
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0395
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0400
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0410
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0430
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0440
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0450
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0460
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0830
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0840
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0850
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0870
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0880
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0900
+  cites: ORS 279.025
+  cause: renumbered_or_repealed
+- rule: oar-736-149-0910
+  cites: ORS 279.025
   cause: renumbered_or_repealed
 - rule: oar-737-010-0020
   cites: ORS 184.616
@@ -13564,15 +12820,6 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-737-015-0120
   cites: OAR 735-015-0095
-  cause: oar_unclassified
-- rule: oar-737-025-0010
-  cites: OAR 737-025-0094
-  cause: oar_unclassified
-- rule: oar-737-025-0090
-  cites: OAR 737-025-0094
-  cause: oar_unclassified
-- rule: oar-737-025-0091
-  cites: OAR 737-025-0094
   cause: oar_unclassified
 - rule: oar-738-005-0010
   cites: ORS 935.035
@@ -13690,9 +12937,6 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-738-130-0075
   cites: OAR 731-130-0035
-  cause: oar_unclassified
-- rule: oar-738-140-0020
-  cites: OAR 738-050-0005
   cause: oar_unclassified
 - rule: oar-738-140-0020
   cites: ORS 837.020
@@ -13973,6 +13217,15 @@ dead_citations:
 - rule: oar-741-060-0110
   cites: ORS 184.616
   cause: renumbered_or_repealed
+- rule: oar-741-065-0020
+  cites: ORS 192.502
+  cause: renumbered_or_repealed
+- rule: oar-741-065-0040
+  cites: ORS 192.410
+  cause: renumbered_or_repealed
+- rule: oar-741-065-0076
+  cites: ORS 192.502
+  cause: renumbered_or_repealed
 - rule: oar-741-100-0005
   cites: ORS 184.616
   cause: renumbered_or_repealed
@@ -13988,18 +13241,39 @@ dead_citations:
 - rule: oar-741-100-0040
   cites: ORS 184.616
   cause: renumbered_or_repealed
-- rule: oar-741-115-0010
-  cites: OAR 741-110-0030
-  cause: oar_unclassified
+- rule: oar-741-110-0010
+  cites: ORS 184.616
+  cause: renumbered_or_repealed
+- rule: oar-741-110-0020
+  cites: ORS 184.616
+  cause: renumbered_or_repealed
+- rule: oar-741-110-0030
+  cites: ORS 184.616
+  cause: renumbered_or_repealed
+- rule: oar-741-110-0040
+  cites: ORS 184.616
+  cause: renumbered_or_repealed
+- rule: oar-741-110-0050
+  cites: ORS 184.616
+  cause: renumbered_or_repealed
+- rule: oar-741-110-0060
+  cites: ORS 184.616
+  cause: renumbered_or_repealed
+- rule: oar-741-110-0070
+  cites: ORS 184.616
+  cause: renumbered_or_repealed
+- rule: oar-741-110-0080
+  cites: ORS 184.616
+  cause: renumbered_or_repealed
+- rule: oar-741-110-0090
+  cites: ORS 184.616
+  cause: renumbered_or_repealed
 - rule: oar-741-115-0010
   cites: ORS 184.616
   cause: renumbered_or_repealed
 - rule: oar-741-115-0020
   cites: ORS 184.616
   cause: renumbered_or_repealed
-- rule: oar-741-115-0030
-  cites: OAR 741-110-0040
-  cause: oar_unclassified
 - rule: oar-741-115-0030
   cites: ORS 184.616
   cause: renumbered_or_repealed
@@ -14039,9 +13313,6 @@ dead_citations:
 - rule: oar-741-125-0030
   cites: ORS 184.616
   cause: renumbered_or_repealed
-- rule: oar-741-200-0020
-  cites: OAR 741-110-0050
-  cause: oar_unclassified
 - rule: oar-741-200-0020
   cites: ORS 184.616
   cause: renumbered_or_repealed
@@ -14268,9 +13539,6 @@ dead_citations:
   cites: ORS 192.410
   cause: renumbered_or_repealed
 - rule: oar-801-005-0010
-  cites: OAR 801-010-0119
-  cause: oar_unclassified
-- rule: oar-801-005-0010
   cites: ORS 673.020
   cause: renumbered_or_repealed
 - rule: oar-801-010-0065
@@ -14291,9 +13559,6 @@ dead_citations:
 - rule: oar-801-010-0085
   cites: ORS 673.040
   cause: renumbered_or_repealed
-- rule: oar-801-010-0130
-  cites: OAR 801-010-0140
-  cause: oar_unclassified
 - rule: oar-801-010-0340
   cites: ORS 673.040
   cause: renumbered_or_repealed
@@ -14363,9 +13628,6 @@ dead_citations:
 - rule: oar-808-003-0501
   cites: ORS 670.320
   cause: renumbered_or_repealed
-- rule: oar-808-003-0511
-  cites: OAR 808-002-0881
-  cause: oar_unclassified
 - rule: oar-808-003-0612
   cites: OAR 808-003-0113
   cause: oar_unclassified
@@ -14402,15 +13664,15 @@ dead_citations:
 - rule: oar-809-025-0015
   cites: ORS 672.5050
   cause: renumbered_or_repealed
+- rule: oar-809-050-0025
+  cites: OAR 804-040-0001
+  cause: oar_unclassified
 - rule: oar-811-001-0060
   cites: ORS 192.440
   cause: renumbered_or_repealed
 - rule: oar-811-015-0080
   cites: ORS 183.684
   cause: renumbered_or_repealed
-- rule: oar-811-035-0015
-  cites: OAR 811-035-0019
-  cause: oar_unclassified
 - rule: oar-812-001-0160
   cites: ORS 192.410
   cause: renumbered_or_repealed
@@ -14597,6 +13859,24 @@ dead_citations:
 - rule: oar-813-001-0060
   cites: ORS 446.547
   cause: renumbered_or_repealed
+- rule: oar-813-002-0005
+  cites: ORS 456.250
+  cause: renumbered_or_repealed
+- rule: oar-813-002-0010
+  cites: ORS 456.250
+  cause: renumbered_or_repealed
+- rule: oar-813-002-0025
+  cites: ORS 456.250
+  cause: renumbered_or_repealed
+- rule: oar-813-002-0030
+  cites: ORS 456.250
+  cause: renumbered_or_repealed
+- rule: oar-813-002-0045
+  cites: ORS 456.250
+  cause: renumbered_or_repealed
+- rule: oar-813-002-0055
+  cites: ORS 456.250
+  cause: renumbered_or_repealed
 - rule: oar-813-004-0200
   cites: ORS 181.534
   cause: renumbered_or_repealed
@@ -14678,26 +13958,8 @@ dead_citations:
 - rule: oar-813-030-0060
   cites: ORS 295.005
   cause: renumbered_or_repealed
-- rule: oar-813-037-0010
-  cites: OAR 813-037-0012
-  cause: oar_unclassified
-- rule: oar-813-041-0006
-  cites: OAR 813-002-0010
-  cause: oar_unclassified
 - rule: oar-813-041-0010
   cites: OAR 813-041-0025
-  cause: oar_unclassified
-- rule: oar-813-055-0040
-  cites: OAR 813-002-0005
-  cause: oar_unclassified
-- rule: oar-813-055-0040
-  cites: OAR 813-002-0055
-  cause: oar_unclassified
-- rule: oar-813-055-0050
-  cites: OAR 813-002-0005
-  cause: oar_unclassified
-- rule: oar-813-055-0050
-  cites: OAR 813-002-0055
   cause: oar_unclassified
 - rule: oar-813-060-0055
   cites: ORS 295.005
@@ -14708,15 +13970,6 @@ dead_citations:
 - rule: oar-813-070-0055
   cites: ORS 295.005
   cause: renumbered_or_repealed
-- rule: oar-813-110-0010
-  cites: OAR 813-002-0010
-  cause: oar_unclassified
-- rule: oar-813-110-0010
-  cites: OAR 813-110-0011
-  cause: oar_unclassified
-- rule: oar-813-110-0013
-  cites: OAR 813-110-0011
-  cause: oar_unclassified
 - rule: oar-813-115-0050
   cites: ORS 456.250
   cause: renumbered_or_repealed
@@ -14741,21 +13994,18 @@ dead_citations:
 - rule: oar-813-115-0070
   cites: ORS 456.263
   cause: renumbered_or_repealed
-- rule: oar-813-135-0020
-  cites: OAR 813-135-0025
-  cause: oar_unclassified
-- rule: oar-813-135-0050
-  cites: OAR 813-135-0025
-  cause: oar_unclassified
-- rule: oar-813-135-0060
-  cites: OAR 813-135-0025
-  cause: oar_unclassified
 - rule: oar-813-140-0010
   cites: ORS 458.710
   cause: renumbered_or_repealed
 - rule: oar-813-145-0030
   cites: ORS 458.555
   cause: renumbered_or_repealed
+- rule: oar-813-203-0005
+  cites: OAR 813-203-0030
+  cause: oar_unclassified
+- rule: oar-813-203-0010
+  cites: OAR 813-203-0030
+  cause: oar_unclassified
 - rule: oar-813-230-0000
   cites: ORS 184.082
   cause: renumbered_or_repealed
@@ -14771,15 +14021,15 @@ dead_citations:
 - rule: oar-813-240-0005
   cites: OAR 813-240-0007
   cause: oar_unclassified
-- rule: oar-817-005-0005
-  cites: OAR 817-015-0040
-  cause: oar_unclassified
-- rule: oar-817-005-0005
-  cites: OAR 817-015-0045
-  cause: oar_unclassified
-- rule: oar-817-008-0000
-  cites: OAR 817-006-0025
-  cause: oar_unclassified
+- rule: oar-813-380-0015
+  cites: ORS 485.610
+  cause: chapter_absent
+- rule: oar-813-395-0010
+  cites: ORS 456.250
+  cause: renumbered_or_repealed
+- rule: oar-813-410-0010
+  cites: ORS 183.331
+  cause: renumbered_or_repealed
 - rule: oar-817-010-0069
   cites: ORS 676.605
   cause: renumbered_or_repealed
@@ -14789,15 +14039,15 @@ dead_citations:
 - rule: oar-817-010-0101
   cites: ORS 676.605
   cause: renumbered_or_repealed
+- rule: oar-817-015-0040
+  cites: OAR 819-030-0000
+  cause: oar_unclassified
 - rule: oar-817-060-0020
   cites: ORS 676.605
   cause: renumbered_or_repealed
 - rule: oar-817-060-0030
   cites: ORS 676.605
   cause: renumbered_or_repealed
-- rule: oar-817-090-0105
-  cites: OAR 817-015-0025
-  cause: oar_unclassified
 - rule: oar-817-100-0100
   cites: ORS 442.025
   cause: renumbered_or_repealed
@@ -14819,14 +14069,8 @@ dead_citations:
 - rule: oar-818-012-0015
   cites: ORS 192.502
   cause: renumbered_or_repealed
-- rule: oar-818-021-0018
-  cites: OAR 818-021-0076
-  cause: oar_unclassified
 - rule: oar-818-021-0026
   cites: OAR 125-007-0030
-  cause: oar_unclassified
-- rule: oar-818-021-0080
-  cites: OAR 818-021-0076
   cause: oar_unclassified
 - rule: oar-819-020-0110
   cites: ORS 676.583
@@ -14873,12 +14117,6 @@ dead_citations:
 - rule: oar-819-050-0020
   cites: ORS 676.586
   cause: renumbered_or_repealed
-- rule: oar-820-020-0015
-  cites: OAR 820-025-0005
-  cause: oar_unclassified
-- rule: oar-820-020-0015
-  cites: OAR 820-025-0015
-  cause: oar_unclassified
 - rule: oar-830-030-0000
   cites: ORS 432.312
   cause: renumbered_or_repealed
@@ -14888,8 +14126,11 @@ dead_citations:
 - rule: oar-830-040-0090
   cites: ORS 413.825
   cause: renumbered_or_repealed
-- rule: oar-833-020-0021
-  cites: OAR 833-020-0202
+- rule: oar-833-110-0042
+  cites: OAR 333-019-1010
+  cause: oar_unclassified
+- rule: oar-833-110-0042
+  cites: OAR 333-019-1030
   cause: oar_unclassified
 - rule: oar-834-040-0000
   cites: ORS 676.605
@@ -15133,6 +14374,9 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-836-053-0431
   cites: ORS 743.745
+  cause: renumbered_or_repealed
+- rule: oar-836-053-0447
+  cites: ORS 743B.280
   cause: renumbered_or_repealed
 - rule: oar-836-053-0465
   cites: ORS 743.766
@@ -15539,11 +14783,8 @@ dead_citations:
 - rule: oar-836-200-0505
   cites: OAR 826-200-0515
   cause: oar_unclassified
-- rule: oar-836-200-0520
-  cites: OAR 836-200-0531
-  cause: oar_unclassified
-- rule: oar-836-200-0555
-  cites: OAR 836-200-0553
+- rule: oar-836-200-0650
+  cites: OAR 836-200-0665
   cause: oar_unclassified
 - rule: oar-837-001-0015
   cites: ORS 183.455
@@ -15872,6 +15113,18 @@ dead_citations:
 - rule: oar-837-039-0050
   cites: ORS 480.355
   cause: renumbered_or_repealed
+- rule: oar-837-045-0080
+  cites: ORS 183.090
+  cause: renumbered_or_repealed
+- rule: oar-837-045-0090
+  cites: ORS 183.090
+  cause: renumbered_or_repealed
+- rule: oar-837-045-0095
+  cites: ORS 183.025
+  cause: renumbered_or_repealed
+- rule: oar-837-045-0100
+  cites: ORS 183.090
+  cause: renumbered_or_repealed
 - rule: oar-837-085-0190
   cites: ORS 401.710
   cause: renumbered_or_repealed
@@ -15983,9 +15236,6 @@ dead_citations:
 - rule: oar-839-006-0115
   cites: ORS 659A.100
   cause: renumbered_or_repealed
-- rule: oar-839-009-0220
-  cites: OAR 471-070-1100
-  cause: oar_unclassified
 - rule: oar-839-009-0250
   cites: OAR 839-011-0240
   cause: oar_unclassified
@@ -16271,12 +15521,6 @@ dead_citations:
 - rule: oar-845-004-0100
   cites: ORS 471.205
   cause: renumbered_or_repealed
-- rule: oar-845-006-0345
-  cites: OAR 845-026-0100
-  cause: oar_unclassified
-- rule: oar-845-006-0345
-  cites: OAR 845-026-0300
-  cause: oar_unclassified
 - rule: oar-845-006-0441
   cites: ORS 471.478
   cause: renumbered_or_repealed
@@ -16289,86 +15533,20 @@ dead_citations:
 - rule: oar-845-010-0300
   cites: ORS 471.335
   cause: renumbered_or_repealed
-- rule: oar-845-025-1015
-  cites: OAR 845-025-1165
-  cause: oar_unclassified
-- rule: oar-845-025-1015
-  cites: OAR 845-025-5800
-  cause: oar_unclassified
-- rule: oar-845-025-1015
-  cites: OAR 845-026-0100
-  cause: oar_unclassified
-- rule: oar-845-025-1045
-  cites: OAR 845-025-1165
-  cause: oar_unclassified
 - rule: oar-845-025-1080
   cites: ORS 181.534
   cause: renumbered_or_repealed
-- rule: oar-845-025-1100
-  cites: OAR 845-025-1170
-  cause: oar_unclassified
-- rule: oar-845-025-1115
-  cites: OAR 845-025-1165
-  cause: oar_unclassified
 - rule: oar-845-025-1115
   cites: OAR 845-026-4100
-  cause: oar_unclassified
-- rule: oar-845-025-1115
-  cites: OAR 845-026-4110
   cause: oar_unclassified
 - rule: oar-845-025-1275
   cites: ORS 79.0102
   cause: renumbered_or_repealed
-- rule: oar-845-025-1330
-  cites: OAR 845-026-0210
-  cause: oar_unclassified
-- rule: oar-845-025-2020
-  cites: OAR 845-025-1310
-  cause: oar_unclassified
-- rule: oar-845-025-2750
-  cites: OAR 845-025-5800
-  cause: oar_unclassified
-- rule: oar-845-025-2755
-  cites: OAR 845-025-1310
-  cause: oar_unclassified
-- rule: oar-845-025-2755
-  cites: OAR 845-025-5800
-  cause: oar_unclassified
-- rule: oar-845-025-2775
-  cites: OAR 845-025-5850
-  cause: oar_unclassified
-- rule: oar-845-025-2785
-  cites: OAR 845-025-5800
-  cause: oar_unclassified
-- rule: oar-845-025-2800
-  cites: OAR 845-025-1310
-  cause: oar_unclassified
-- rule: oar-845-025-2800
-  cites: OAR 845-026-0210
-  cause: oar_unclassified
-- rule: oar-845-025-2900
-  cites: OAR 845-026-0220
-  cause: oar_unclassified
+- rule: oar-845-025-1310
+  cites: ORS 192.501
+  cause: renumbered_or_repealed
 - rule: oar-845-025-2910
   cites: OAR 333-008-1190
-  cause: oar_unclassified
-- rule: oar-845-025-2910
-  cites: OAR 845-026-0210
-  cause: oar_unclassified
-- rule: oar-845-025-3210
-  cites: OAR 845-025-1310
-  cause: oar_unclassified
-- rule: oar-845-025-3215
-  cites: OAR 845-025-1310
-  cause: oar_unclassified
-- rule: oar-845-025-3215
-  cites: OAR 845-025-3320
-  cause: oar_unclassified
-- rule: oar-845-025-3220
-  cites: OAR 845-026-0200
-  cause: oar_unclassified
-- rule: oar-845-025-3220
-  cites: OAR 845-026-0210
   cause: oar_unclassified
 - rule: oar-845-025-3290
   cites: ORS 192.501
@@ -16376,35 +15554,8 @@ dead_citations:
 - rule: oar-845-025-3310
   cites: OAR 333-008-0160
   cause: oar_unclassified
-- rule: oar-845-025-3310
-  cites: OAR 845-026-0210
-  cause: oar_unclassified
-- rule: oar-845-025-3500
-  cites: OAR 845-025-1310
-  cause: oar_unclassified
-- rule: oar-845-025-5790
-  cites: OAR 845-025-3320
-  cause: oar_unclassified
-- rule: oar-845-025-7000
-  cites: OAR 845-025-1310
-  cause: oar_unclassified
-- rule: oar-845-025-7000
-  cites: OAR 845-026-0210
-  cause: oar_unclassified
-- rule: oar-845-025-7030
-  cites: OAR 845-026-0200
-  cause: oar_unclassified
-- rule: oar-845-025-7160
-  cites: OAR 845-025-1310
-  cause: oar_unclassified
-- rule: oar-845-025-7190
-  cites: OAR 845-025-1310
-  cause: oar_unclassified
-- rule: oar-845-025-7520
-  cites: OAR 845-025-7575
-  cause: oar_unclassified
-- rule: oar-845-025-8520
-  cites: OAR 845-025-1180
+- rule: oar-845-026-7010
+  cites: OAR 846-026-7000
   cause: oar_unclassified
 - rule: oar-847-003-0100
   cites: ORS 431.264
@@ -16412,15 +15563,12 @@ dead_citations:
 - rule: oar-847-006-0000
   cites: ORS 192.410
   cause: renumbered_or_repealed
-- rule: oar-847-008-0070
-  cites: OAR 847-008-0077
+- rule: oar-847-008-0077
+  cites: OAR 943-090-0020
   cause: oar_unclassified
 - rule: oar-847-010-0064
   cites: ORS 677.120
   cause: renumbered_or_repealed
-- rule: oar-847-010-0066
-  cites: OAR 847-017-0010
-  cause: oar_unclassified
 - rule: oar-847-015-0020
   cites: ORS 682.015
   cause: renumbered_or_repealed
@@ -16445,12 +15593,6 @@ dead_citations:
 - rule: oar-847-050-0010
   cites: ORS 58.375
   cause: renumbered_or_repealed
-- rule: oar-847-050-0035
-  cites: OAR 847-050-0082
-  cause: oar_unclassified
-- rule: oar-847-050-0041
-  cites: OAR 847-015-0050
-  cause: oar_unclassified
 - rule: oar-847-050-0041
   cites: ORS 677.545
   cause: renumbered_or_repealed
@@ -16484,17 +15626,32 @@ dead_citations:
 - rule: oar-851-001-0000
   cites: ORS 678.335
   cause: renumbered_or_repealed
-- rule: oar-851-021-0035
-  cites: OAR 583-030-0061
+- rule: oar-851-001-0122
+  cites: ORS 181.010
+  cause: renumbered_or_repealed
+- rule: oar-851-001-0160
+  cites: OAR 333-019-1010
   cause: oar_unclassified
+- rule: oar-851-001-0160
+  cites: OAR 333-019-1030
+  cause: oar_unclassified
+- rule: oar-851-031-0008
+  cites: ORS 678.385
+  cause: renumbered_or_repealed
 - rule: oar-851-031-0035
   cites: ORS 678.308
   cause: renumbered_or_repealed
+- rule: oar-851-031-0039
+  cites: OAR 851-006-0030
+  cause: oar_unclassified
 - rule: oar-851-031-0040
   cites: ORS 678.061
   cause: renumbered_or_repealed
-- rule: oar-851-031-0085
-  cites: OAR 851-031-0055
+- rule: oar-851-031-0043
+  cites: ORS 678.385
+  cause: renumbered_or_repealed
+- rule: oar-851-031-0075
+  cites: OAR 851-031-0026
   cause: oar_unclassified
 - rule: oar-851-045-0060
   cites: ORS 689.681
@@ -16510,6 +15667,150 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-851-054-0100
   cites: ORS 678.385
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0000
+  cites: ORS 678.255
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0000
+  cites: ORS 678.265
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0000
+  cites: ORS 678.275
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0000
+  cites: ORS 678.278
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0010
+  cites: ORS 678.255
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0010
+  cites: ORS 678.265
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0010
+  cites: ORS 678.275
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0010
+  cites: ORS 678.278
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0020
+  cites: ORS 678.255
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0020
+  cites: ORS 678.265
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0020
+  cites: ORS 678.275
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0020
+  cites: ORS 678.278
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0030
+  cites: ORS 678.255
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0030
+  cites: ORS 678.265
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0030
+  cites: ORS 678.275
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0030
+  cites: ORS 678.278
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0040
+  cites: ORS 678.255
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0040
+  cites: ORS 678.265
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0040
+  cites: ORS 678.275
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0040
+  cites: ORS 678.278
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0050
+  cites: ORS 678.255
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0050
+  cites: ORS 678.265
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0050
+  cites: ORS 678.275
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0050
+  cites: ORS 678.278
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0070
+  cites: ORS 678.255
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0070
+  cites: ORS 678.265
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0070
+  cites: ORS 678.275
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0070
+  cites: ORS 678.278
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0072
+  cites: ORS 278.278
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0072
+  cites: ORS 678.255
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0072
+  cites: ORS 678.265
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0072
+  cites: ORS 678.275
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0076
+  cites: ORS 678.255
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0076
+  cites: ORS 678.265
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0076
+  cites: ORS 678.275
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0076
+  cites: ORS 678.278
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0078
+  cites: ORS 678.255
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0078
+  cites: ORS 678.265
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0078
+  cites: ORS 678.275
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0078
+  cites: ORS 678.278
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0080
+  cites: ORS 678.255
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0080
+  cites: ORS 678.265
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0080
+  cites: ORS 678.275
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0080
+  cites: ORS 678.278
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0090
+  cites: ORS 678.255
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0090
+  cites: ORS 678.265
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0090
+  cites: ORS 678.275
+  cause: renumbered_or_repealed
+- rule: oar-851-055-0090
+  cites: ORS 678.278
   cause: renumbered_or_repealed
 - rule: oar-851-056-0006
   cites: ORS 678.385
@@ -16559,15 +15860,6 @@ dead_citations:
 - rule: oar-853-050-0005
   cites: ORS 678.000
   cause: renumbered_or_repealed
-- rule: oar-855-006-0005
-  cites: OAR 855-041-3200
-  cause: oar_unclassified
-- rule: oar-855-006-0005
-  cites: OAR 855-041-3250
-  cause: oar_unclassified
-- rule: oar-855-006-0020
-  cites: OAR 855-104-0005
-  cause: oar_unclassified
 - rule: oar-855-007-0010
   cites: ORS 401.043
   cause: renumbered_or_repealed
@@ -16622,18 +15914,45 @@ dead_citations:
 - rule: oar-855-019-0460
   cites: ORS 689.684
   cause: renumbered_or_repealed
-- rule: oar-855-041-1010
-  cites: OAR 855-115-0205
-  cause: oar_unclassified
-- rule: oar-855-041-1010
-  cites: OAR 855-115-0210
-  cause: oar_unclassified
 - rule: oar-855-041-1035
   cites: ORS 689.686
   cause: renumbered_or_repealed
 - rule: oar-855-041-1046
   cites: ORS 495A.218
   cause: chapter_absent
+- rule: oar-855-041-1190
+  cites: ORS 438.030
+  cause: renumbered_or_repealed
+- rule: oar-855-041-1190
+  cites: ORS 438.050
+  cause: renumbered_or_repealed
+- rule: oar-855-041-1190
+  cites: ORS 438.055
+  cause: renumbered_or_repealed
+- rule: oar-855-041-1190
+  cites: ORS 438.070
+  cause: renumbered_or_repealed
+- rule: oar-855-041-1190
+  cites: ORS 438.110
+  cause: renumbered_or_repealed
+- rule: oar-855-041-1190
+  cites: ORS 438.120
+  cause: renumbered_or_repealed
+- rule: oar-855-041-1190
+  cites: ORS 438.130
+  cause: renumbered_or_repealed
+- rule: oar-855-041-1190
+  cites: ORS 438.140
+  cause: renumbered_or_repealed
+- rule: oar-855-041-1190
+  cites: ORS 438.210
+  cause: renumbered_or_repealed
+- rule: oar-855-041-1190
+  cites: ORS 438.320
+  cause: renumbered_or_repealed
+- rule: oar-855-041-1190
+  cites: ORS 438.420
+  cause: renumbered_or_repealed
 - rule: oar-855-041-2310
   cites: OAR 855-041-2300
   cause: oar_unclassified
@@ -16646,33 +15965,30 @@ dead_citations:
 - rule: oar-855-041-2340
   cites: ORS 689.682
   cause: renumbered_or_repealed
-- rule: oar-855-041-4120
-  cites: OAR 855-115-0145
-  cause: oar_unclassified
 - rule: oar-855-041-5005
   cites: OAR 855-041-5000
   cause: oar_unclassified
 - rule: oar-855-041-6050
   cites: OAR 855-041-6000
   cause: oar_unclassified
-- rule: oar-855-041-6200
-  cites: OAR 855-115-0210
-  cause: oar_unclassified
 - rule: oar-855-041-7050
   cites: OAR 855-041-7000
-  cause: oar_unclassified
-- rule: oar-855-041-7070
-  cites: OAR 855-115-0145
   cause: oar_unclassified
 - rule: oar-855-042-0015
   cites: OAR 855-041-0040
   cause: oar_unclassified
-- rule: oar-855-043-0540
-  cites: OAR 855-043-0004
-  cause: oar_unclassified
 - rule: oar-855-043-0610
   cites: OAR 855-041-0177
   cause: oar_unclassified
+- rule: oar-855-080-0029
+  cites: ORS 181A.680
+  cause: renumbered_or_repealed
+- rule: oar-855-080-0029
+  cites: ORS 183.073
+  cause: renumbered_or_repealed
+- rule: oar-855-104-0060
+  cites: ORS 192.440
+  cause: renumbered_or_repealed
 - rule: oar-855-110-0015
   cites: ORS 192.410
   cause: renumbered_or_repealed
@@ -16681,6 +15997,57 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-855-110-0015
   cites: ORS 192.440
+  cause: renumbered_or_repealed
+- rule: oar-855-115-0035
+  cites: ORS 689.448
+  cause: renumbered_or_repealed
+- rule: oar-855-115-0105
+  cites: ORS 689.682
+  cause: renumbered_or_repealed
+- rule: oar-855-115-0130
+  cites: ORS 127.860
+  cause: renumbered_or_repealed
+- rule: oar-855-115-0130
+  cites: ORS 413A.890
+  cause: chapter_absent
+- rule: oar-855-115-0130
+  cites: ORS 413A.895
+  cause: chapter_absent
+- rule: oar-855-115-0130
+  cites: ORS 413A.896
+  cause: chapter_absent
+- rule: oar-855-115-0130
+  cites: ORS 413A.898
+  cause: chapter_absent
+- rule: oar-855-115-0310
+  cites: ORS 438.130
+  cause: renumbered_or_repealed
+- rule: oar-855-115-0350
+  cites: ORS 689.681
+  cause: renumbered_or_repealed
+- rule: oar-855-115-0350
+  cites: ORS 689.682
+  cause: renumbered_or_repealed
+- rule: oar-855-115-0350
+  cites: ORS 689.684
+  cause: renumbered_or_repealed
+- rule: oar-855-139-0155
+  cites: ORS 689.686
+  cause: renumbered_or_repealed
+- rule: oar-855-139-0460
+  cites: ORS 495A.218
+  cause: chapter_absent
+- rule: oar-855-139-0710
+  cites: ORS 689.681
+  cause: renumbered_or_repealed
+- rule: oar-855-141-0155
+  cites: ORS 689.654
+  cause: renumbered_or_repealed
+- rule: oar-855-143-0155
+  cites: OAR 855-143-0410
+  cause: oar_unclassified
+- rule: oar-855-143-0155
+  cites: ORS 689.654
   cause: renumbered_or_repealed
 - rule: oar-856-001-0000
   cites: ORS 183.025
@@ -16715,6 +16082,12 @@ dead_citations:
 - rule: oar-858-010-0075
   cites: ORS 675.065
   cause: renumbered_or_repealed
+- rule: oar-858-020-0116
+  cites: OAR 333-019-1010
+  cause: oar_unclassified
+- rule: oar-858-020-0116
+  cites: OAR 333-019-1030
+  cause: oar_unclassified
 - rule: oar-859-040-0020
   cites: ORS 161.345
   cause: renumbered_or_repealed
@@ -16727,9 +16100,6 @@ dead_citations:
 - rule: oar-859-200-0045
   cites: ORS 192.505
   cause: renumbered_or_repealed
-- rule: oar-859-200-0070
-  cites: OAR 859-200-0147
-  cause: oar_unclassified
 - rule: oar-859-400-0040
   cites: ORS 161.835
   cause: renumbered_or_repealed
@@ -16745,29 +16115,17 @@ dead_citations:
 - rule: oar-860-001-0070
   cites: ORS 192.420
   cause: renumbered_or_repealed
-- rule: oar-860-001-0080
-  cites: OAR 860-001-0205
-  cause: oar_unclassified
 - rule: oar-860-001-0350
   cites: ORS 192.502
   cause: renumbered_or_repealed
 - rule: oar-860-016-0015
   cites: ORS 192.410
   cause: renumbered_or_repealed
-- rule: oar-860-021-0008
-  cites: OAR 860-021-0180
-  cause: oar_unclassified
 - rule: oar-860-021-0033
   cites: OAR 860-011-0110
   cause: oar_unclassified
 - rule: oar-860-021-0037
   cites: OAR 860-011-0080
-  cause: oar_unclassified
-- rule: oar-860-021-0328
-  cites: OAR 860-021-0180
-  cause: oar_unclassified
-- rule: oar-860-021-0335
-  cites: OAR 860-021-0406
   cause: oar_unclassified
 - rule: oar-860-021-0505
   cites: ORS 757.060
@@ -16778,21 +16136,18 @@ dead_citations:
 - rule: oar-860-022-0042
   cites: ORS 759.105
   cause: renumbered_or_repealed
+- rule: oar-860-022-0550
+  cites: ORS 757.025
+  cause: renumbered_or_repealed
+- rule: oar-860-022-0600
+  cites: ORS 767.090
+  cause: renumbered_or_repealed
 - rule: oar-860-024-0050
   cites: ORS 759.030
   cause: renumbered_or_repealed
-- rule: oar-860-025-0030
-  cites: OAR 860-025-0040
-  cause: oar_unclassified
 - rule: oar-860-027-0052
   cites: ORS 759.100
   cause: renumbered_or_repealed
-- rule: oar-860-029-0046
-  cites: OAR 860-029-0045
-  cause: oar_unclassified
-- rule: oar-860-029-0120
-  cites: OAR 860-029-0044
-  cause: oar_unclassified
 - rule: oar-860-030-0018
   cites: ORS 469.185
   cause: renumbered_or_repealed
@@ -16841,48 +16196,15 @@ dead_citations:
 - rule: oar-860-037-0309
   cites: ORS 183.090
   cause: renumbered_or_repealed
-- rule: oar-860-038-0590
-  cites: OAR 860-038-0290
-  cause: oar_unclassified
-- rule: oar-860-038-0740
-  cites: OAR 860-038-0170
-  cause: oar_unclassified
-- rule: oar-860-039-0005
-  cites: OAR 860-082-0033
-  cause: oar_unclassified
-- rule: oar-860-039-0030
-  cites: OAR 860-082-0063
-  cause: oar_unclassified
-- rule: oar-860-039-0035
-  cites: OAR 860-082-0063
-  cause: oar_unclassified
-- rule: oar-860-082-0015
-  cites: OAR 860-082-0033
-  cause: oar_unclassified
-- rule: oar-860-082-0045
-  cites: OAR 860-082-0063
-  cause: oar_unclassified
-- rule: oar-860-082-0050
-  cites: OAR 860-082-0063
-  cause: oar_unclassified
-- rule: oar-860-082-0055
-  cites: OAR 860-082-0063
-  cause: oar_unclassified
-- rule: oar-860-082-0060
-  cites: OAR 860-082-0033
-  cause: oar_unclassified
-- rule: oar-860-089-0020
-  cites: OAR 860-090-0020
-  cause: oar_unclassified
-- rule: oar-860-089-0020
-  cites: OAR 860-090-0110
-  cause: oar_unclassified
-- rule: oar-860-089-0450
-  cites: OAR 860-089-0475
-  cause: oar_unclassified
-- rule: oar-860-089-0500
-  cites: OAR 860-089-0475
-  cause: oar_unclassified
+- rule: oar-860-091-0010
+  cites: ORS 756.005
+  cause: renumbered_or_repealed
+- rule: oar-860-095-0020
+  cites: ORS 756.700
+  cause: renumbered_or_repealed
+- rule: oar-860-300-0001
+  cites: ORS 759.030
+  cause: renumbered_or_repealed
 - rule: oar-863-001-0000
   cites: ORS 183.385
   cause: renumbered_or_repealed
@@ -16955,32 +16277,17 @@ dead_citations:
 - rule: oar-863-015-0125
   cites: OAR 863-015-0142
   cause: oar_unclassified
+- rule: oar-863-015-0133
+  cites: ORS 686.810
+  cause: renumbered_or_repealed
 - rule: oar-863-015-0140
   cites: ORS 696.222
   cause: renumbered_or_repealed
-- rule: oar-863-020-0000
-  cites: OAR 863-022-0057
-  cause: oar_unclassified
-- rule: oar-863-020-0005
-  cites: OAR 863-022-0057
-  cause: oar_unclassified
-- rule: oar-863-020-0010
-  cites: OAR 863-022-0057
-  cause: oar_unclassified
-- rule: oar-863-020-0035
-  cites: OAR 863-022-0057
-  cause: oar_unclassified
 - rule: oar-863-020-0050
   cites: OAR 862-022-0055
-  cause: oar_unclassified
-- rule: oar-863-020-0050
-  cites: OAR 863-022-0057
   cause: oar_unclassified
 - rule: oar-863-020-0055
   cites: OAR 862-022-0055
-  cause: oar_unclassified
-- rule: oar-863-022-0005
-  cites: OAR 863-022-0057
   cause: oar_unclassified
 - rule: oar-863-022-0005
   cites: ORS 352.720
@@ -17039,14 +16346,8 @@ dead_citations:
 - rule: oar-875-040-0000
   cites: ORS 606.110
   cause: renumbered_or_repealed
-- rule: oar-877-001-0028
-  cites: OAR 877-015-0108
-  cause: oar_unclassified
 - rule: oar-877-020-0060
   cites: OAR 877-025-0016
-  cause: oar_unclassified
-- rule: oar-877-022-0005
-  cites: OAR 877-015-0108
   cause: oar_unclassified
 - rule: oar-877-022-0005
   cites: ORS 181.534
@@ -17057,9 +16358,6 @@ dead_citations:
 - rule: oar-918-001-0005
   cites: ORS 192.440
   cause: renumbered_or_repealed
-- rule: oar-918-020-0015
-  cites: OAR 918-020-0240
-  cause: oar_unclassified
 - rule: oar-918-020-0450
   cites: OAR 918-020-0330
   cause: oar_unclassified
@@ -17084,14 +16382,14 @@ dead_citations:
 - rule: oar-918-305-0020
   cites: ORS 470.730
   cause: renumbered_or_repealed
-- rule: oar-918-305-0030
-  cites: OAR 918-460-0200
-  cause: oar_unclassified
 - rule: oar-918-305-0510
   cites: OAR 918-311-0030
   cause: oar_unclassified
 - rule: oar-918-400-0525
   cites: ORS 460.048
+  cause: renumbered_or_repealed
+- rule: oar-918-460-0200
+  cites: ORS 197.758
   cause: renumbered_or_repealed
 - rule: oar-918-470-0030
   cites: ORS 401.539
@@ -17141,6 +16439,9 @@ dead_citations:
 - rule: oar-918-674-0670
   cites: OAR 918-674-0730
   cause: oar_unclassified
+- rule: oar-918-674-0700
+  cites: OAR 918-674-0730
+  cause: oar_unclassified
 - rule: oar-918-674-0720
   cites: OAR 918-674-0730
   cause: oar_unclassified
@@ -17148,6 +16449,9 @@ dead_citations:
   cites: OAR 918-674-0130
   cause: oar_unclassified
 - rule: oar-918-674-0810
+  cites: OAR 918-674-0730
+  cause: oar_unclassified
+- rule: oar-918-674-0860
   cites: OAR 918-674-0730
   cause: oar_unclassified
 - rule: oar-918-674-0870
@@ -17237,9 +16541,27 @@ dead_citations:
 - rule: oar-945-040-0160
   cites: OAR 945-040-0100
   cause: oar_unclassified
-- rule: oar-950-030-0020
-  cites: OAR 950-030-0060
-  cause: oar_unclassified
+- rule: oar-950-033-0000
+  cites: ORS 413.446
+  cause: renumbered_or_repealed
+- rule: oar-950-033-0010
+  cites: ORS 413.116
+  cause: renumbered_or_repealed
+- rule: oar-950-033-0020
+  cites: ORS 413.116
+  cause: renumbered_or_repealed
+- rule: oar-950-033-0025
+  cites: ORS 413.446
+  cause: renumbered_or_repealed
+- rule: oar-950-033-0035
+  cites: ORS 413.446
+  cause: renumbered_or_repealed
+- rule: oar-950-033-0040
+  cites: ORS 413.446
+  cause: renumbered_or_repealed
+- rule: oar-950-033-0045
+  cites: ORS 413.446
+  cause: renumbered_or_repealed
 - rule: oar-950-050-0010
   cites: ORS 438.110
   cause: renumbered_or_repealed
@@ -17248,6 +16570,15 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-950-050-0150
   cites: ORS 183.441
+  cause: renumbered_or_repealed
+- rule: oar-950-050-0160
+  cites: ORS 419.558
+  cause: renumbered_or_repealed
+- rule: oar-950-050-0170
+  cites: ORS 419.558
+  cause: renumbered_or_repealed
+- rule: oar-950-050-0180
+  cites: ORS 419.558
   cause: renumbered_or_repealed
 - rule: oar-950-060-0000
   cites: ORS 414.635
@@ -17317,6 +16648,8 @@ lapsed_but_current:
   evidence: sunset on December 31, 1991
 - rule: oar-340-228-0606
   evidence: expires July 1, 2016
+- rule: oar-410-173-0015
+  evidence: expire when an Individual is found to be no longer eligible for 1915
 - rule: oar-411-033-0020
   evidence: Sunset on 09-28-2017 [SSD 4-1993
 - rule: oar-411-054-0065
@@ -17329,6 +16662,10 @@ lapsed_but_current:
   evidence: expire on, and will no longer be effective after December 31, 2017
 - rule: oar-461-135-0701
   evidence: Terminate GA and GAM Programs October 1, 2005; Reinstate GA July 1, 2016
+- rule: oar-471-070-1010
+  evidence: expires on November 1, 2025
+- rule: oar-581-017-0809
+  evidence: expire March 29, 2024
 - rule: oar-581-018-0148
   evidence: expires on July 1, 2025
 - rule: oar-581-021-0009
@@ -17455,6 +16792,12 @@ malformed_citations:
 - rule: oar-123-019-0050
   why: missing space after ORS
   evidence: ORS2
+- rule: oar-123-049-0025
+  why: missing space after ORS
+  evidence: ORS2
+- rule: oar-123-049-0027
+  why: missing space after ORS
+  evidence: ORS2
 - rule: oar-123-650-4800
   why: missing space after ORS
   evidence: ORS2
@@ -17497,6 +16840,9 @@ malformed_citations:
 - rule: oar-330-100-0005
   why: missing space after ORS
   evidence: ORS1
+- rule: oar-340-098-0440
+  why: missing space after ORS
+  evidence: ORS4
 - rule: oar-350-011-0011
   why: missing period in section number
   evidence: ORS 196150
@@ -17515,6 +16861,12 @@ malformed_citations:
 - rule: oar-414-061-0080
   why: missing space after ORS
   evidence: ORS1
+- rule: oar-414-320-1610
+  why: missing space after ORS
+  evidence: ORS3
+- rule: oar-414-320-1620
+  why: missing space after ORS
+  evidence: ORS3
 - rule: oar-415-012-0057
   why: too many digits after the period
   evidence: ORS 430.01030
@@ -17530,6 +16882,9 @@ malformed_citations:
 - rule: oar-581-053-0120
   why: missing space after ORS
   evidence: ORS8
+- rule: oar-603-025-0525
+  why: missing space after ORS
+  evidence: ORS6
 - rule: oar-603-048-0125
   why: missing space after ORS
   evidence: ORS5
@@ -17557,6 +16912,9 @@ malformed_citations:
 - rule: oar-660-012-0065
   why: missing space after ORS
   evidence: ORS1
+- rule: oar-660-023-0195
+  why: missing space after ORS
+  evidence: ORS1
 - rule: oar-660-024-0060
   why: missing space after ORS
   evidence: ORS1
@@ -17566,6 +16924,21 @@ malformed_citations:
 - rule: oar-690-014-0005
   why: missing space after ORS
   evidence: ORS5
+- rule: oar-731-145-0000
+  why: missing space after ORS
+  evidence: ORS1
+- rule: oar-731-145-0010
+  why: missing space after ORS
+  evidence: ORS1
+- rule: oar-731-145-0020
+  why: missing space after ORS
+  evidence: ORS1
+- rule: oar-731-145-0030
+  why: missing space after ORS
+  evidence: ORS1
+- rule: oar-731-145-0040
+  why: missing space after ORS
+  evidence: ORS1
 - rule: oar-804-027-0005
   why: missing period in section number
   evidence: ORS 671345
@@ -17575,12 +16948,18 @@ malformed_citations:
 - rule: oar-812-005-0210
   why: missing space after ORS
   evidence: ORS7
+- rule: oar-839-025-0009
+  why: missing space after ORS
+  evidence: ORS3
 - rule: oar-845-025-8590
   why: missing space after ORS
   evidence: ORS4
 - rule: oar-859-400-0005
   why: missing space after ORS
   evidence: ORS1
+- rule: oar-918-311-0090
+  why: missing space after ORS
+  evidence: ORS2
 - rule: oar-943-003-0000
   why: missing space after ORS
   evidence: ORS1
@@ -17600,6 +16979,9 @@ malformed_citations:
   why: missing space after ORS
   evidence: ORS2
 - rule: oar-951-007-0020
+  why: missing space after ORS
+  evidence: ORS2
+- rule: oar-951-008-0001
   why: missing space after ORS
   evidence: ORS2
 rule_predates_statute_amendment_top:
@@ -17822,12 +17204,6 @@ rule_predates_statute_amendment_top:
 - rule: oar-836-080-0220
   statute: ors-746.230
   lag_years: 44
-- rule: oar-340-013-0005
-  statute: ors-468.035
-  lag_years: 43
-- rule: oar-340-013-0020
-  statute: ors-468.035
-  lag_years: 43
 - rule: oar-471-031-0060
   statute: ors-657.065
   lag_years: 43
@@ -17901,5 +17277,11 @@ rule_predates_statute_amendment_top:
   statute: ors-820.010
   lag_years: 41
 - rule: oar-735-124-0130
+  statute: ors-820.010
+  lag_years: 41
+- rule: oar-735-124-0140
+  statute: ors-820.010
+  lag_years: 41
+- rule: oar-735-124-0150
   statute: ors-820.010
   lag_years: 41
