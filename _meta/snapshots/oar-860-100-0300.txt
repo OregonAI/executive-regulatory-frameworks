@@ -1,0 +1,191 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 100 OREGON UNIVERSAL SERVICE FUND (OUSF) 
+ 860-100-0300 
+ OUS Fund Support Disbursement Calculations 
+ 
+ (1) The provisions of this rule apply to the calculation of disbursements made on or after January 1, 2023 . 
+
+ (2) The Commission uses the Cost Quest model, or a similar model approved by the Commission to calculate total support amounts.  The model will be used to assist in setting a benchmark for basic telephone service, calculate the cost of providing basic telephone service, and to calculate the difference between the cost and the benchmark, minus the explicit compensation and support identified in ORS 759.425 . When the cost, after subtracting the explicit compensation and support identified in ORS 759.425, as applicable , exceeds the applicable benchmark in a particular geographic support area, the Commission may designate the support area as one requiring support from the OUS Fund . 
+
+ (a) For purposes of this rule, “support area” may mean a census block or a wire center . 
+
+ (b) The Commission may establish a different benchmark for a support area, based on the following considerations: 
+
+ (A) changes in competition in the telecommunications industry; 
+
+ (B) changes in federal universal service support; or 
+
+ (C) other relevant factors as determined by the commission, including but not limited to whether it contains tribal lands, as defined in 47 C.F.R. 54.5. 
+
+ (3) T he Commission will identify initial total required support amounts for all support areas using the approved cost model and adjust the required support for a support area as necessary annually in 2023 and 2024 and then every five years thereafter, beginning in 2029.  On or before October 31 of a year in which support amounts must be identified, Commission staff shall prepare a report that details the calculation of required support amounts for Commission review and approval and submit a recommendation to the Commission to designate the amount to be disbursed from the fund to ensure basic telephone service beginning the next calendar year. In making its recommendations, Staff will consider stakeholder feedback through a public process and Staff’s annual report will be filed sufficiently in advance to allow for public comment. 
+
+ (a) The available amount to be disbursed from the fund will be split into two categories for purposes of allocating the required support at the support area level between : 
+
+ (A) Category one: The large company pool, which consists of support for support areas served by a telecommunications provider or affiliated group of telecommunications providers that serves 50,000 or more access lines in Oregon . 
+
+ (B) Category two: The small company pool, which consists of support for support areas served by a telecommunications provider or affiliated group of telecommunications providers that serves fewer than 50,000 access lines in Oregon . 
+
+ (b) The size of the Category one and Category two pools will be proportionally reduced to reflect the amount available to be disbursed from the fund when the amount available from the fund, given statutory limits, is less than the required support amount in a given year . 
+
+ (c) The support amount for an individual telecommunications provider is based on an allocation of the applicable category pool. Each pool will be allocated among eligible telecommunications providers as follows : 
+
+ (A) Category one: The large company pool will be allocated using the Cost Quest or a similar model approved by the Commission, with annual updates, as necessary . 
+
+ (B) Category two: The small company pool will be allocated using the historic embedded cost model as described in Commission Order No. 03-082. The Commission will use historic cost data submitted by a provider on Form I to the Commission .   
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 192, ORS 756 & ORS 759 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040, ORS 759.015 & ORS 759.425 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 5-2022, adopt filed 07/26/2022, effective 07/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

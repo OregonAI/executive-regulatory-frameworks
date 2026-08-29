@@ -1,0 +1,280 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Human Services 
+ Aging and People with Disabilities and Developmental Disabilities - Chapter 411 
+ 
+ 
+ 
+ 
+ Division 14 OREGON PROJECT INDEPENDENCE - MEDICAID (OPI-M) ELIGIBILITY 
+ 411-014-0005 
+ Definitions 
+ 
+ Unless the context indicates otherwise, the following definitions apply to the rules in OAR chapter 411, division 014: 
+
+ (1) "Activities of Daily Living (ADL)" mean those personal functional activities required by an individual for continued well-being, which are essential for health and safety and defined in OAR 411-015-0006. Activities include bathing and personal hygiene, cognition, dressing and grooming, eating, elimination, and mobility. 
+
+ (2) "Adult" means any person at least 18 years of age. 
+
+ (3) "Alternative Service Resources" means other possible resources for the provision of services to meet an individual's needs. Alternative service resources include, but are not limited to, natural supports, risk intervention services, Veterans programs or other community supports. Alternative service resources are not paid by Medicaid. 
+
+ (4) "Area Agency on Aging (AAA)" means the Department designated agency charged with the responsibility to provide a comprehensive and coordinated system of services to older adults and adults with disabilities in a planning and service area. The term Area Agency on Aging (AAA) is inclusive of both Type A and Type B AAAs as defined in ORS 410.040 to 410.300. 
+
+ (a) “Type A Area Agency on Aging” means an Area Agency on Aging for which either the local government or the area agency board does not agree to accept local administrative responsibility for Title XIX Medicaid except OPI-M; and that provides a service to adults. 
+
+ (b) “Type B Area Agency on Aging” means an Area Agency on Aging: 
+
+ (A) For which the local government agrees to accept local administrative responsibility for Title XIX Medicaid; 
+
+ (B) That provides a service to older adults or to older adults and persons with disabilities who require services similar to those required by older adults; and 
+
+ (C) Are one of two models of Type B AAAs – Type B Contract or Type B Transfer: 
+
+ (i) Type B Contract- Staff are employed by the AAA and only administer Older Americans Act, Oregon Project Independence and Oregon Project Independence Medicaid services case management services. 
+
+ (ii) Type B Transfer- Staff are employed by the AAA and administer all of the following programs: Medicaid, financial services, Supplemental Nutrition Assistance Program, adult protective services, regulatory programs, Older Americans Act, Oregon Project Independence and all Oregon Project Independence-Medicaid services. 
+
+ (5) "Assistive Devices" means any category of durable medical equipment, mechanical apparatus, electrical appliance, instrument of technology, service animal, general household items, or furniture used to assist and enhance an individual's independence in performing any activity of daily living. 
+
+ (6) "Client Assessment and Planning System (CA/PS)" means: 
+
+ (a) The single-entry data system used for - 
+
+ (A) Completing a comprehensive and holistic assessment; 
+
+ (B) Surveying an individual's physical, mental, and social functioning; and 
+
+ (C) Identifying risk factors, individual choices and preferences, and the status of service needs. 
+
+ (b) The CA/PS documents the level of need and calculates the individual's service priority level in accordance with these rules and requires that the individual or the individual’s representative participate in service planning. 
+
+ (7) “Conflict-free Case Management” means that assessment and coordination of services are separate from the delivery of services, with the goal to limit any conscious or unconscious bias that a case manager or agency may have, and ultimately promote the individual's choice and independence. 
+
+ (8) "Department" means the Oregon Department of Human Services (ODHS). 
+
+ (9) “Developmental Disability” means a neurological condition as defined in OAR 411-320-0020. 
+
+ (10) "Disability" means people aged 18-59 meeting the criteria for disability as a basis of need in OAR 461-125-0370. 
+
+ (11) "Eligibility Case Manager" means an employee of the Department or Type B Transfer Area Agency on Aging who assesses the financial eligibility and service eligibility of individuals and determines Oregon Project Independence-Medicaid. 
+
+ (12) “Family Caregiver Support Program (FCSP)” means the Title IIIE Older Americans Act funded program to assist family caregivers as described in the Family Caregiver Support Program Standards. 
+
+ (13) "Functional Impairment" means an individual's pattern of mental and physical limitations that restricts the individual's ability to perform activities of daily living and instrumental activities of daily living without the assistance of another person. 
+
+ (14) "Health and Safety" means the essential actions necessary to meet an individual’s health care, food, shelter, clothing, personal hygiene, and other care needs without which serious physical injury or illness is likely to occur that would result in hospitalization, death or permanent disability. 
+
+ (15) "Home" or “In-Home” means a setting that exhibits the characteristics described in OAR 411-030-0033. 
+
+ (16) “Implementation Phase” means the initial period where the Department will prioritize individuals at-risk of institutionalization who have been unable to access Oregon Project Independence or whose needs are not being met by Oregon Project Independence. The implementation phase will conclude no later than February 28, 2025. 
+
+ (17) "Individual" means an older adult or an adult with a disability applying for or eligible for services. The term “individual” is synonymous with "consumer" or "client". 
+
+ (18) “Instrumental Activities of Daily Living (IADL)” means those activities, other than activities of daily living, required by an individual to continue independent living. The definitions and parameters for assessing needs in IADL are identified in OAR 411-015-0007. 
+
+ (19) “Intellectual Disability” means significantly sub average general intellectual functioning as defined in OAR 411-320-0020. 
+
+ (20) “Medicare Savings Programs” means the Qualified Medicare Beneficiary (QMB) and Supplemental Low Income Medicare Beneficiary Programs (SMB & SLMB) in OAR chapter 461. 
+
+ (21) "Mental or Emotional Disorder" means: 
+
+ (a) A schizophrenic, mood, paranoid, panic, or other anxiety disorder; 
+
+ (b) A somatoform, personality, dissociative, factitious, eating, sleeping, impulse control, or adjustment disorder; or 
+
+ (c) Other psychotic disorders as defined by the American Psychiatric Association in the Diagnostic and Statistical Manual. 
+
+ (22) "Natural Supports" or "Natural Support System" means resources and supports (e.g., relatives, friends, significant others, neighbors, roommates, or the community) who are willing to voluntarily provide services to an individual without the expectation of compensation. Natural Supports are identified in collaboration with the individual and the potential natural support. The Natural Support is required to have or be able to readily acquire the skills, knowledge, and ability to provide the needed services and supports. 
+
+ (23) "Oregon Project Independence- Medicaid (OPI-M)" means the services approved and funded by the Centers for Medicare and Medicaid Services (CMS) for eligible individuals in accordance with the 1115 demonstration waiver for the Oregon Project Independence-Medicaid program and including the services defined in these rules. 
+
+ (24) "Older Adult" means any person at least 60 years of age. 
+
+ (25) “Oregon Supplemental Income Program Medical” (OSIPM) means medical coverage for individuals who are 65 years of age or older, who are blind, or who have a disability as described in OAR chapter 461. 
+
+ (26) “Program consultation” means presenting service options, resources, and alternatives to the individual to assist the individual in making informed choices and decisions about programs. This includes options available through Medicaid long term services and support, OPI-M or other state funded programs. 
+
+ (27) “Representative” is the person appointed by the individual or a person with longstanding involvement in assuring the individual’s health, safety and welfare. For the purposes of these rules, representative also includes guardians, legal representatives and designated representatives. 
+
+ (28) “Services Case Manager” means an employee of a AAA or the Department who is providing OPI-M conflict-free case management. The Services Case Manager provides person-centered service planning for and with eligible individuals. This includes developing, authorizing and implementing an individual's service plan and monitoring service provision as described in OAR chapter 411, division 016. 
+
+ (29) “Substance Use Disorder” means disorders related to the taking of a drug or toxin, including alcohol. 
+
+ (a) Substance use disorders include: 
+
+ (A) Substance dependency and substance abuse; 
+
+ (B) Alcohol dependency and alcohol abuse; and 
+
+ (C) Substance induced disorders and alcohol induced disorders as defined by the American Psychiatric Association in the Diagnostic and Statistical Manual. 
+
+ (b) Substance use disorders are not considered physical disabilities. Dementia or other long term physical or health impairments resulting from substance abuse may be considered physical disabilities. 
+
+ (30) "Title XIX Medicaid” means a joint federal and state funded program for medical assistance established by Title XIX of the Social Security Act as amended and administered in Oregon. 
+
+ (31) "These Rules" means the rules in OAR chapter 411, division 014. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 410.070 
+ 
+ 
+ Statutes/Other Implemented:  ORS 410.060, 410.070 & 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 65-2024, adopt filed 11/20/2024, effective 11/22/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ APD 23-2024, temporary adopt filed 05/20/2024, effective 05/31/2024 through 11/26/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -92,6 +92,9 @@ def is_search_results_page(ws_text: str) -> bool:
 # the only thing that decides it (ADR 0006).
 def doc_body(rule, title_line, url, sha, ch, div, status):
     return f"""---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: oar-{rule}
 title: "{title_line.replace(chr(34), chr(39))}"
 doc_type: rule
@@ -111,8 +114,8 @@ status: {status}
 supersedes: null
 content_mode: verbatim
 conversion_notes: "rule text sliced from the OARD page (site chrome excluded); whitespace-collapsed with breaks at subsection markers"
-last_verified: "{TODAY}"
-verified_by: "@morficflux"
+last_verified: ""
+verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements: []
@@ -320,6 +323,19 @@ def cmd_ingest(chapters, skip_group=False):
                 if made % 100 == 0:
                     print(f"...{made} ingested")
                     _write_catalog_merged(cat, set(chapters))
+    # A DIVISION'S STATUS IS WHAT ITS RULES SAY, and only --enumerate used to restate it.
+    # `cmd_ingest` moved rules to `ingested` and left every touched division declaring the
+    # status it held before the run, so `catalog_agreement.py --check` failed on the very
+    # catalog this command had just written -- measured on one rule: "1 division(s) disagree
+    # with the rules beneath them: 101-65 says 'not_ingested' not 'ingested'".
+    #
+    # Recomputed HERE rather than left to `--enumerate` (which #276 retires) or to
+    # `catalog_oar.py --discover` (a 170-chapter re-scrape). A command that writes a rule's
+    # status owns the aggregate that reads it.
+    for ch in chapters:
+        for d in by_ch[ch]["divisions"]:
+            if isinstance(d.get("rules"), list):
+                d["status"] = division_status(d["rules"])
     if not skip_group:
         group["sources"] = sorted(gsrc.values(), key=lambda s: s["id"])
         GROUP.write_text(yaml.safe_dump(group, sort_keys=False, allow_unicode=True, width=110))

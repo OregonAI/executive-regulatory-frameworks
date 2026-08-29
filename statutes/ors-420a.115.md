@@ -30,6 +30,10 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
+    - oar-416-106-0010
+    - oar-416-106-0020
+    - oar-416-106-0030
+    - oar-416-106-0040
     - oar-416-300-0000
     - oar-416-300-0010
     - oar-416-300-0015

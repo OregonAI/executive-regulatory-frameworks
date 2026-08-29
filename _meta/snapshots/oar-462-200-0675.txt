@@ -1,0 +1,187 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Racing Commission 
+ Chapter 462 
+ 
+ 
+ 
+ 
+ 
+ Division 200 PARI-MUTUEL RULES AND REGULATIONS 
+ 462-200-0675 
+ Best (X) of (Y) 
+ 
+ (1) Definitions: X: Position of the finisher. Example: X=1 is Win, X=2 is Win/Place, X=3 is Win/Place/Show; Y: Subset of the number of betting interests in a races. Example: Y=6 in a race with 10 runners would be the first 6 horses to finish. 
+
+ (2) The Best (X) of (Y) requires the player to select a betting interest ("interest") that finishes within the first (X) positions to win. For example, in a Best(1) of (3) pool, the player must select an interest that finishes in the first position. Or, in a Best(3) of (6), the player must select an interest that finishes in the top 3. 
+
+ (3) Betting interests that finish outside of the top (Y) positions are deemed ineligible, and all wagers on those interests are refunded. For example, in a Best (2) of (5), any entry that finishes the race in position 6 or higher is considered ineligible, and all wagers on that interest, and all others finishing higher than 5, are refunded. 
+
+ (4) The sum of monies wagered on eligible betting interests minus takeout constitutes to the net pool. 
+
+ (5) The amounts wagered on the first (X) betting interests to finish are deducted from the net pool, the balance remaining being the profit. The profit is divided into (X) equal portions, one being assigned to each winning betting interest and divided by the amount wagered on that betting interest, the resulting quotient is the profit per dollar (“profit”) wagered on that betting interest. 
+
+ (6) The net pool shall be distributed to winning wagers in the following precedence, based upon the order of finish: 
+
+ (a) As a profit split to those whose selection is included within the first (X) finishers; but if there are no such wagers; then 
+
+ (b) As a single price pool to those who selected the one covered betting interest included within the first (X) finishers; but if there are no such wagers; then 
+
+ (c) As a single price pool to those who selected the first covered betting interest that finished in positions between (X) and (Y); but if there are no such wagers; then 
+
+ (d) The entire pool shall be refunded for that contest. 
+
+ (7) In the event of a dead heat in the first (X) finishing positions between contestants with unique betting interests, the share of the profit assigned to those betting interests is equal to the sum of the profit assigned to winning positions encompassed by the dead heat. The share of the profit assigned to each dead heat position is then split between the unique covered betting interests in that position. For example, in a Best (3) of (8) contest: 
+
+ (a) A dead heat for first involving two betting interests, and a single third-place finisher would be distributed as though no dead heat had occurred. 
+
+ (b) A single winning finisher, a single second place finisher and a dead heat for third involving three betting interests would result in one third of the profit being distributed to wagers on the first-place finisher, one third of the profit being distributed to wagers on the second-place finisher and one sixth of the profit being distributed to wagers on each of the third-place finishers. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 462.270(3) & ORS 462.270 
+ 
+ 
+ Statutes/Other Implemented:  ORS 462.270(3) & ORS 462.270 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RC 5-2025, adopt filed 04/02/2025, effective 04/02/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

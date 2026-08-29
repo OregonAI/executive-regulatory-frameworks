@@ -1,0 +1,352 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Forestry 
+ Chapter 629 
+ 
+ 
+ 
+ 
+ 
+ Division 625 FOREST ROAD CONSTRUCTION AND MAINTENANCE 
+ 629-625-0900 
+ Forest Road Inventory and Assessment 
+ 
+ (1) The purpose of the Forest Road Inventory and Assessment (FRIA) is to reduce chronic and catastrophic sediment entry to waters of the state and to ensure passage for covered species during all mobile life-history stages by identifying existing roads not meeting the Forest Practices Rules and bring those roads into compliance with the Forest Practice Administrative Rules. 
+
+ (2) OAR 629-625-0900 does not apply to small forestland owners, as defined in OAR 629-600-0100. Small forestland owners shall submit a road condition assessment when they submit a notification of operation for a timber harvest that will use a road to haul timber, as described in OAR 629-625-0920. 
+
+ (3) The department shall publish Forest Practices Technical Guidance for compliance with the Forest Road Inventory and Assessment process to avoid and prevent potential impacts to fish, wildlife, habitat resources, and waters of the state. 
+
+ (4) The Forest Road Inventory and Assessment rules apply to segments of roads located on a large forest landowners’ property, excluding roads that are owned or controlled by a government entity, including, but not limited to, the United States, and federally recognized Indian Tribes. For the purposes of this section, both ownership and control mean any right, interest, or agreement that precludes the large forest landowner from being able to conduct road work without prior authorization. 
+
+ (5) Pre-inventory. Landowners shall submit a pre-inventory of high conservation value sites on each road management block to the State Forester no later than January 1, 2025. 
+
+ (a) Landowners shall include high conservation value sites in the pre-inventory that address the following sites: 
+
+ (A) Areas of known chronic sedimentation. Consideration will be given to areas where log hauling will occur during the 5-year inventory phase. 
+
+ (B) Fish passage barriers known to be of significant concern. Priorities will be based on locations where fish passage would provide the greatest benefit to native migratory fish consistent with OAR 635-412-0015 and other criteria as determined by the Department of Fish and Wildlife in consultation with the department and consistent with the Oregon Fish Passage Barrier Data Standard developed by the ODFW Fish Screening and Passage Program. 
+
+ (C) Ongoing stream diversions at stream crossings and areas with stream diversion potential. 
+
+ (D) Areas of known hydrologic connectivity. 
+
+ (b) From the list of high conservation value sites identified, landowners shall prioritize projects on high conservation value sites within the pre-inventory submission that: 
+
+ (A) Remove fish passage barriers consistent with Department of Fish and Wildlife requirements; 
+
+ (B) Minimize the potential for sediment delivery to waters of the state; 
+
+ (C) Minimize stream diversions at water crossings; 
+
+ (D) Minimize hydrologic connectivity between roads and waters of the state; and 
+
+ (E) Meet other relevant criteria as determined by the department in consultation with other state and federal agencies. 
+
+ (c) Landowners shall meet with the department and Department of Fish and Wildlife to review the pre-inventory list no later than January 1, 2026. 
+
+ (A) The department shall meet with the Department of Fish and Wildlife to review the list and coordinate to ensure that high conservation value sites are prioritized based on habitat values, road conditions, sediment delivery to waters of the state, hydrologic connectivity, and fish passage in alignment with the barrier assessment and inventory prioritization under the ODFW Fish Passage Program.   
+
+ (B) The department and the Department of Fish and Wildlife may propose additional projects to the pre-inventory list if they believe that high conservation value sites have not been addressed. 
+
+ (C) The department shall coordinate with the Department of Fish and Wildlife to ensure that information collected in the pre-inventory process is standardized and is in a format consistent with the Oregon Fish Passage Barrier Data Standard. 
+
+ (d) Landowners shall address prioritized pre-inventory projects after review from the department and Department of Fish and Wildlife beginning no sooner than January 1, 2026, and no later than January 1, 2029. 
+
+ (e) Landowners shall report annually to the department and Department of Fish and Wildlife on the status and completion of pre-inventory projects through January 1, 2029. 
+
+ (6) Landowners shall submit an initial inventory of all active, inactive, and known vacated or abandoned roads no later than January 1, 2029. 
+
+ (a) The initial inventory shall include three documents: 
+
+ (A) Paper or electronic maps showing the roads within each road management block; 
+
+ (B) A work matrix documenting actions necessary to bring all roads into compliance with the Forest Practice Rules. The document shall include prioritization of work; and 
+
+ (C) A Forest Road Inventory and Assessment initial inventory plan describing how the landowner intends to bring the road network into compliance no later than January 1, 2044. The plan shall include: 
+
+ (i) Actions likely to be addressed in the upcoming year; 
+
+ (ii) A general description of how work will occur during the Forest Roads Inventory and Assessment period; and 
+
+ (iii) A description of how the landowner is prioritizing work with the goal of optimizing environmental benefits. 
+
+ (D) At minimum, the FRIA initial inventory submission shall include: 
+
+ (i) The location and length of active roads, inactive roads, and vacated roads within each road management block. 
+
+ (ii) The location of streams within the road management block, classified as: 
+
+ (I) Fish; 
+
+ (II) Non-fish; 
+
+ (III) SSBT; 
+
+ (IV) Fish presence unknown; or 
+
+ (V) Streams that are 303(d) listed shall be depicted as such in addition to fish use designation. 
+
+ (iii) Known or potential road-related fish passage barriers. Data collected shall be consistent with the Oregon Fish Passage Barrier Data Standard in consultation with Department of Fish and Wildlife. 
+
+ (iv) Prioritization of known or potential road related fish passage barriers. Prioritization of fish passage barriers shall be done in a manner consistent with the ODFW Fish Passage Program. 
+
+ (v) The location and status of all water crossing culverts including: 
+
+ (I) Date of installation, if known; and 
+
+ (II) Assessment of culvert material used. 
+
+ (vi) Each water crossing culvert shall be classified as one of the following: 
+
+ (I) A fully functioning culvert in a Type F or Type SSBT stream; 
+
+ (II) A fully functioning culvert in a Type N or Type D stream; 
+
+ (III) A culvert with imminent risk of failure; 
+
+ (IV) A culvert with minimum risks to public resources; or 
+
+ (V) Undetermined status. Culverts with undetermined status must be prioritized for improvement. The status may be changed as more detailed information is gathered. 
+
+ (b) The FRIA initial inventory submission shall identify each road segment as: 
+
+ (A) Meeting the Forest Practices Rules; 
+
+ (B) Not meeting the Forest Practices Rules; 
+
+ (C) Vacated in compliance with OAR 629-625-0650; or 
+
+ (D) Abandoned. 
+
+ (7) In the year following submitting the initial inventory but no later than January 1, 2029, landowners shall submit annual inventory reports and plans until January 1, 2044, which shall include: 
+
+ (a) Updates to the maps required by OAR 629-625-0900(6)(a)(A) reflecting: 
+
+ (A) Work accomplished during the prior year; 
+
+ (B) Additional information discovered; and 
+
+ (C) Potential changes in prioritizations. 
+
+ (b) Update to the work matrix required by OAR 629-625-0900(6)(a)(B) showing: 
+
+ (A) Improvements completed; 
+
+ (B) Work to be completed; 
+
+ (C) Additional information discovered; and 
+
+ (D) Changes in prioritization. 
+
+ (c) Update to the annual plan required by OAR 629-625-0900(6)(a)(C) reflecting: 
+
+ (A) Work conducted in the prior year; 
+
+ (B) Work likely to be completed in the upcoming year; and 
+
+ (C) General plan to complete all necessary work no later than the January 1, 2044. 
+
+ (8) The documents required by OAR 629-625-0900(7) must contain all the following: 
+
+ (a) Total length of forest roads improved , including as a subset, length improved by compliance with OAR 629-625-0330(1) Drainage. 
+
+ (b) Total length of forest roads still requiring improvement. 
+
+ (c) Total length of forest roads planned for improvement in the upcoming year. 
+
+ (d) Total length of forest roads vacated. 
+
+ (e) Total length of forest roads planned to be vacated in the upcoming year. 
+
+ (f) Number of fish barriers brought into compliance with OAR 629-625-0320 Water Crossing Structures. 
+
+ (g) Number of fish barriers to be improved in the upcoming year. 
+
+ (h) Certification by the landowner that they remain on track for completing required improvements no later than January 1, 2044. 
+
+ (9) Landowners shall improve all road segments identified in the initial inventory as not meeting the Forest Practice Administrative Rules so that those segments either meet the Forest Practice Administrative Rules or are vacated no later than January 1, 2044. 
+
+ (10) For culverts that meet the definition of pre-existing culverts, landowners shall: 
+
+ (a) Inspect them every five years when the installation date is not known; and 
+
+ (b) Maintain them to end of service life or until they no longer meet the definition of pre-existing culverts. 
+
+ (11) For culverts that do not meet the definition of pre-existing culverts, landowners shall: 
+
+ (a) Prioritize them for improvement during the initial inventory; 
+
+ (b) Bring them into compliance with Forest Practice Rules no later than January 1, 2044; or 
+
+ (c) For culverts not meeting the definition of pre-existing, consult with the Department of Fish and Wildlife to assign them a status of low priority and maintain them to the end of their service life when they meet the following criteria: 
+
+ (A) The culvert is partially functioning to provide fish passage and the cost of repair or replacement is disproportionate to the benefits of the repair or replacement; or 
+
+ (B) The culvert provides valuable wetland or pond habitat. 
+
+ (12) For culverts meeting the definition of having imminent risk of failure, landowners shall repair or replace the culvert as soon as practicable but no later than two years after having been identified. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 527.710 & Section 2(1), Chapter 33, Oregon Laws 2022 
+ 
+ 
+ Statutes/Other Implemented:  ORS 527.715, 527.765 & Section 2(2), Chapter 33, Oregon Laws 2022 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 1-2024, amend filed 01/03/2024, effective 01/03/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOF 7-2022, adopt filed 11/21/2022, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

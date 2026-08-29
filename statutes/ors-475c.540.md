@@ -36,6 +36,8 @@ relationships:
     - oar-845-025-5720
     - oar-845-025-5740
     - oar-845-025-5760
+    - oar-845-026-5760
+    - oar-845-026-5770
   references_external: []
   related: []
   supersedes: []

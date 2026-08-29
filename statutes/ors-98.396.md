@@ -29,7 +29,9 @@ verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by: []
+  implemented_by:
+    - oar-170-140-0130
+    - oar-170-140-0135
   references_external: []
   related: []
   supersedes: []

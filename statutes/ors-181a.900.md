@@ -29,7 +29,33 @@ verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by: []
+  implemented_by:
+    - oar-259-059-0010
+    - oar-259-059-0020
+    - oar-259-059-0030
+    - oar-259-059-0040
+    - oar-259-059-0050
+    - oar-259-059-0060
+    - oar-259-059-0070
+    - oar-259-059-0080
+    - oar-259-059-0100
+    - oar-259-059-0110
+    - oar-259-059-0120
+    - oar-259-059-0130
+    - oar-259-059-0140
+    - oar-259-059-0150
+    - oar-259-059-0160
+    - oar-259-059-0170
+    - oar-259-059-0180
+    - oar-259-059-0190
+    - oar-259-059-0200
+    - oar-259-059-0300
+    - oar-259-059-0310
+    - oar-259-059-0400
+    - oar-259-059-0410
+    - oar-259-059-0420
+    - oar-259-059-0430
+    - oar-259-059-0440
   references_external: []
   related: []
   supersedes: []

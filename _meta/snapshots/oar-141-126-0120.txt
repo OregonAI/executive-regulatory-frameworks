@@ -1,0 +1,249 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of State Lands 
+ Chapter 141 
+ 
+ 
+ 
+ 
+ 
+ Division 126 ADMINISTRATIVE RULES FOR AUTHORIZING COMMUNICATION SITE FACILITIES ON STATE-OWNED LAND 
+ 141-126-0120 
+ Definitions 
+ 
+ (1) “Additional Rent” means any amounts in excess of base rent that a lessee is required to pay the department or third parties pursuant to these Division 126 rules. 
+
+ (2) “Applicant” is any person applying for a communication site facility lease. 
+
+ (3) “Asset Management Plan” is the plan adopted by the State Land Board that provides the policy direction and management principles to guide both the short- and long-term management by the Department of State Lands of the Common School Fund’s real estate assets. 
+
+ (4) “Base Lease” means a communication site facility lease issued to the owner of the communication site facility who has entered into a sublease with a co-locator. 
+
+ (5) “Base Rent” means the annual rent to establish, occupy and use a communication site facility on the leased premises that a lessee is required to pay the department pursuant to these Division 126 rules. 
+
+ (6) “Cellular Communications” means transmission and receiving of signals for mobile telecommunications over a cellular network operated by business entities that sell wireless cellular communications services. Cellular communications include “Macro Cellular Facility” and “Small Wireless Facility” sites. 
+
+ (7) “Co-location” means more than one person sharing the same communication site facility under a sublease. 
+
+ (8) “Co-locator” means a person sharing a communication site facility under a sublease. 
+
+ (9) “Commercial” means a communication site use that results in, strives to achieve, or is associated with, a financial profit, monetary consideration, or gain as a direct result of use of the site. 
+
+ (10) “Communication Site” means a portion of state-owned land being occupied by developments for the purposes of a communication site facilities lease. A communication site may be wholly, or partially open for public uses, or wholly or partially closed to public uses. A communication site may include multiple developments and may have uses other than communication site facilities leases. 
+
+ (11) “Communication Site Facility” consists of the towers, antennas, dishes, buildings, generators, propane tanks, solar panels, fences, and other associated structures, equipment, or developments used by a lessee, or by a lessee and one or more co-locators, to transmit or receive radio, microwave, wireless communications, and other electronic signals. The roads, pipes, conduits, and fiber optic, electrical and other cables that cross state-owned land to serve a communications facility, however, may be governed by the administrative rules for granting easements on state-owned land (OAR 141-122 and OAR 141-123). 
+
+ (12) “Communication Site Facility Lease” or “Lease” means a written authorization granted by the department to a lessee to use a specific portion of a communication site for an authorized purpose in accordance with terms and conditions in the lease. 
+
+ (13) “Compensation” is the amount of money paid or services provided by a lessee to the department under a communication site facility lease. 
+
+ (14) “Constitutional Common School Fund Lands” or “School Lands” is land granted to the state upon its admission into the Union, obtained by the state as a result of an exchange of school lands, obtained in-lieu of originally granted school lands, purchased with Constitutional Common School Fund moneys, or obtained through foreclosure of loans using Constitutional Common School Fund moneys. 
+
+ (15) “Decommissioning Plan” means a plan to retire and remove the physical facilities, structures, or developments authorized in a communication site facility lease including, but not limited to, dismantlement, site rehabilitation, costs, and timelines for decommissioning. 
+
+ (16) “Department” means the Oregon Department of State Lands. 
+
+ (17) “Development” is any structure or series of related structures authorized by the department in, on, or over state-owned land. 
+
+ (18) “Director” means the Director of the Oregon Department of State Lands or their designee. 
+
+ (19) “Emergency Services” means the primary use of the communication site facility is for local 911/Emergency Medical Services (EMS), wildfire radio communications facilities, wildfire detection cameras, law enforcement services, and emergency alert systems, and does not include commercial wireless cellular facilities. 
+
+ (20) “Facility Manager” means a person employed by a lessee to manage a communication site facility on their behalf for the purposes of site maintenance, management, or administration. 
+
+ (21) “Large Commercial” means a communication site facility lease that is for a commercial purpose and is in a county that has a population of 150,000 or more people. 
+
+ (22) “Leased Premises” means that portion of a communication site that the Department grants a lessee a leasehold interest in to establish, occupy, and use a communication site facility pursuant to these Division 126 rules. 
+
+ (23) “Lessee” refers to any person having a communication site facility lease granted by the department authorizing a communication site facility on state-owned land. 
+
+ (24) “Macro Cellular Facility” refers to any cellular communications facility that is not a small wireless facility. Macro cellular facilities are traditional cell towers and including but not limited to affiliated equipment such as buildings, towers, antennas, panels, and generators. 
+
+ (25) “Market Value” means the most probable price, as of a specified date, in cash or in terms equivalent to cash for which the specified property rights should sell after reasonable exposure in a competitive market under all conditions requisite to a fair sale, with the buyer and seller acting prudently, knowledgeably, and assuming neither is under undue duress. 
+
+ (26) “Medium Commercial” means a communication site facility lease that is for a commercial purpose and is located in a county that has a population of 50,000 to 150,000 people. 
+
+ (27) “Non-Commercial” means use by a local, county, state, federal or Tribal government, fire protection association, quasi-government entity, publicly owned and operated utility, a Person that qualifies as a state designated not-for-profit (non-profit), personal use, research and scientific use, or any other government or non-profit entity as determined by the director. 
+
+ (28) “Person” includes individuals, corporations, associations, firms, partnerships, limited liability companies and joint stock companies as defined in ORS 174.100(6). For the purposes of these rules “Person” also includes any state or other governmental or political subdivision or agency, public corporation, public authority, or federally recognized Tribes in Oregon. 
+
+ (29) “Personal Use” means the use of a communication site facility for amateur radio communications with no monetary gain to the lessee. 
+
+ (30) “Research and Scientific Use” refers to using a communication site facility for scientific research communication with no monetary gain to the lessee. 
+
+ (31) “Small Commercial” means a communication site facility lease that is for a commercial purpose and is located in a county that has a population of less than 50,000 people. 
+
+ (32) “Small Wireless Facility” or “SWF” means a facility that meets each of the following conditions: 
+
+ (a) The facilities: 
+
+ (A) Are mounted on structures 50 feet or less in height including the antennas, or 
+
+ (B) Are mounted on structures no more than 10 percent taller than other adjacent structures, or 
+
+ (C) Do not extend existing structures on which they are located to a height of more than 50 feet or by more than 10 percent, whichever is greater. 
+
+ (b) Each antenna associated with the deployment, excluding associated antenna equipment, is no more than three cubic feet in volume. 
+
+ (c) All other wireless equipment associated with the structure, including wireless equipment associated with the antenna and any pre-existing associated equipment on the structure, is no more than 28 cubic feet in volume. 
+
+ (d) The facilities do not result in human exposure to radio frequency in excess of the applicable safety standards specified in the Federal Communications Commission’s (FCC) Rules and Regulations 47 C.F.R.§ 1.1307(b). 
+
+ (33) “State-Owned Land” is land owned or managed by the department or its agents and includes school lands and statutory lands. 
+
+ (34)“Statutory Common School Fund Lands” or “Statutory Lands” is land owned or managed by the department other than Constitutional Common School Fund Lands, but are not limited to state-owned Swamp Land Act lands and submerged and submersible land (land below ordinary high water) under navigable and tidally influenced waterways. 
+
+ (35) “Sublease” means a lease for co-location between a lessee and a co-locator. 
+
+ (36) “Submerged Land” means land lying below the line of ordinary low water of all title navigable and tidally influenced water within the boundaries of the State of Oregon 
+
+ (37) “Submersible Land” means land lying above the line of ordinary low water and below the line of ordinary high water of all title navigable and tidally influenced water within the boundaries of the State of Oregon. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 273.045, ORS 273.051(2)(b) & ORS 273.245 
+ 
+ 
+ Statutes/Other Implemented:  OR Const. Art. VIII, Sec. 2 & 5 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DSL 7-2024, adopt filed 12/10/2024, effective 12/13/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,199 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Water Resources Department 
+ Chapter 690 
+ 
+ 
+ 
+ 
+ 
+ Division 9 GROUNDWATER INTERFERENCE WITH SURFACE WATER 
+ 690-009-0060 
+ Groundwater Controls: Determination of Hydraulic Connection and Potential for Substantial Interference 
+ 
+ Solely for the purpose of applying OAR 690-009-0050 to control or regulate groundwater rights in Hydraulic Connection with surface water, determination of the Potential for Substantial Interference with a surface water source shall be according to these OAR 690-009-0060 rules. 
+
+ (1) The Department shall determine whether wells produce water from an unconfined or confined aquifer. Except for wells that satisfy the conditions in section (2) of this rule the Department shall further determine whether the aquifer is hydraulically connected to the surface water source. The basis of the determination shall be information provided on the Water Well Report for any well in question. If there is no Water Well Report available or if the information provided is inadequate, the Department shall make the determination on the basis of the best available information. Such information may include other Water Well Reports, topographic maps, hydrogeologic maps or reports, water level and other pertinent data collected during a field inspection, or any other available data or information that is appropriate, including any that is provided by potentially affected parties. 
+
+ (2) All wells located a horizontal distance less than one-fourth mile from a surface water source that produce water from an unconfined aquifer shall be assumed to be hydraulically connected to the surface water source, unless the applicant or appropriator provides satisfactory information or demonstration to the contrary. Department staff may provide reasonable assistance to the applicant or appropriator in acquiring the satisfactory information. 
+
+ (3) The Department shall determine the horizontal distance between any well in question and the nearest surface water source on the basis of the edge of the surface water source as also determined by the Department. 
+
+ (4) All wells that produce water from an aquifer that is determined to be hydraulically connected to a surface water source shall be assumed to have the potential to cause substantial interference with the surface water source if the existing groundwater appropriation is within one of the following categories: 
+
+ (a) The point of appropriation is a horizontal distance less than one-fourth mile from the surface water source; or 
+
+ (b) The rate of appropriation is greater than five cubic feet per second, if the point of appropriation is a horizontal distance less than one mile from the surface water source; or 
+
+ (c) The rate of appropriation is greater than one percent of the pertinent adopted minimum perennial streamflow or instream water right with a senior priority date, if one is applicable, or of the discharge that is equaled or exceeded 80 percent of time, as determined or estimated by the Department, and if the point of appropriation is a horizontal distance less than one mile from the surface water source; or 
+
+ (d) The groundwater appropriation, if continued for a period of 30 days, would result in stream depletion greater than 25 percent of the rate of appropriation, if the point of appropriation is a horizontal distance less than one mile from the surface water source. Using the best available information, stream depletion shall be determined or estimated by the Department, employing at least one of the following methods: 
+
+ (A) Suitable equations and graphical techniques that are described in pertinent publications (such as “Computation of Rate and Volume of Stream Depletion by Wells,” by C.T. Jenkins, 1968, Book 4, Chapter D1 in Techniques of Water-Resources Investigations of the United States Geological Survey); 
+
+ (B) A computer program or groundwater model that is based on such or similar equations or techniques. 
+
+ (5) Any wells, other than those covered in section (4) of this rule, that produce water from an aquifer that is determined to be hydraulically connected to the surface water source may be determined by the Department to have the potential to cause substantial interference with the surface water source. In making this determination, the Department shall consider at least the following factors: 
+
+ (a) The potential for a reduction in streamflow or surface water supply; or 
+
+ (b) The potential to impair or detrimentally affect the public interest as expressed by an applicable closure on surface water appropriation, minimum perennial streamflow, or instream water right with a senior priority date; or 
+
+ (c) The percentage of the groundwater appropriation that was, or would have become, surface water; or 
+
+ (d) Whether the potential interference would be immediate or delayed; or 
+
+ (e) The potential for a cumulative adverse impact on streamflow or surface water supply. 
+
+ (6) All wells that produce water from an aquifer that is not hydraulically connected to a surface water source shall be assumed not to interfere with the surface water source. 
+
+ [NOTE: Publications referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 536.027 & ORS 537 
+ 
+ 
+ Statutes/Other Implemented:  ORS 536.027 & ORS 537 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRD 5-2024, adopt filed 09/17/2024, effective 09/17/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

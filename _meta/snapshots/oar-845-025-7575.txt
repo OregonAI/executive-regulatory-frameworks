@@ -1,0 +1,216 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Liquor and Cannabis Commission 
+ Chapter 845 
+ 
+ 
+ 
+ 
+ 
+ Division 25 RECREATIONAL MARIJUANA 
+ 845-025-7575 
+ Seed-To-Sale Tracking - Processing 
+ 
+ (1) For purposes of this section, “SOP” means the standard policy or procedure required by OAR 845-025-3230. 
+
+ (2) On and after April 15, 2023, for each process lot, all licensees and medical marijuana processing sites must utilize “Processing Jobs” in CTS to record: 
+
+ (a) The unique process lot number or name; 
+
+ (b) The UID and quantity of all cannabis material being used for the lot; 
+
+ (c) The UID and quantity of all outputs of the lot; 
+
+ (d) The date that processing of the lot is completed; and 
+
+ (e) The quantity of waste generated from the source cannabis material during processing. 
+
+ (A) For methods that are an extraction of cannabinoids as described in paragraph (3)(b)(A) of this rule, the waste weight should be calculated as the difference between the weight of the source cannabis material and the weight of any cannabinoid concentrates or extracts created during the processing job. 
+
+ (B) For methods that are an incorporation of cannabinoids as described in paragraph (3)(b)(B) of this rule, the waste weight should be determined by directly weighing any portion of the source cannabis material being disposed of as waste. 
+
+ (3) Each process lot must be associated with a job type in CTS that contains: 
+
+ (a) The unique name of the SOP or SOPs being utilized. 
+
+ (b) Whether the processing method or methods are: 
+
+ (A) An extraction of cannabinoids, resulting in outputs less than the total weight of the source material; or 
+
+ (B) An incorporation of cannabinoids, resulting in outputs that are equal to or exceed the total weight of the source material. 
+
+ (c) Whether the processing method or methods include any of the following processes or results in any of the following outputs: 
+
+ (A) Processes that result in effective sterilization. 
+
+ (B) Processes that use hydrocarbon solvents. 
+
+ (C) Processes that are purely mechanical and do not include the use of solvents. 
+
+ (D) Outputs that are intended for oral consumption or intended to be used as an ingredient in a product intended for oral consumption. 
+
+ (E) Outputs that contain any major food allergen, as that term is defined in OAR 845-025-7000. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 475C.017 & 475C.177 
+ 
+ 
+ Statutes/Other Implemented:  ORS 475C.085 & 475C.177 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OLCC 7-2023, amend filed 11/17/2023, effective 01/02/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OLCC 202-2022, adopt filed 11/21/2022, effective 01/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

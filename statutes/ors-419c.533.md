@@ -33,10 +33,13 @@ relationships:
     - oar-859-300-0210
     - oar-859-400-0210
     - oar-859-510-0005
+    - oar-859-530-0015
+    - oar-859-530-0020
     - oar-859-540-0010
     - oar-859-550-0100
     - oar-859-560-0015
     - oar-859-600-0025
+    - oar-859-600-0030
   references_external: []
   related: []
   supersedes: []

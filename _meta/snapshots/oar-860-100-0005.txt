@@ -1,0 +1,276 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 100 OREGON UNIVERSAL SERVICE FUND (OUSF) 
+ 860-100-0005 
+ Definitions for the Oregon Universal Service Fund
+ 
+ 
+ For the purpose of this Division: 
+
+ (1) “Basic telephone service” has the same meaning as provided in OAR 860-032-0190. 
+
+ (2) “Certificate of Authority” means a certificate of authority to provide intrastate telecommunications service on a for-hire basis that may be issued by the Commission under ORS 759.020. 
+
+ (3) “Commercial mobile radio service provider” means a person that provides commercial mobile radio service. 
+
+ (4) “Commercial mobile radio service” has the meaning given that term in ORS 759.400. 
+
+ (5) "Competitive provider" means a competitive telecommunications provider as defined in ORS 759.005(1), who provides services authorized pursuant to ORS 759.020. 
+
+ (6) "Cooperative" means a cooperative corporation or association, which provides local exchange telecommunications service within its own exchanges, which is organized under ORS Chapter 62, and which is certified under ORS 759.025(2). 
+
+ (7) “Exchange” has the same meaning as provided in OAR 860-032-0012. 
+
+ (8) "Gross retail intrastate revenue" means the total amount derived from intrastate retail telecommunications services sold in Oregon. Gross revenue as defined by generally accepted accounting principles (GAAP) is the total amount of sales recognized on the income statement in the period when realized and earned- not necessarily when cash is received. "Gross retail intrastate revenue" includes all billable revenue earned from a final customer. 
+
+ (9) “Interconnected voice over internet protocol service provider” or “interconnected VoIP service provider” means a person that provides interconnected voice over internet protocol services. 
+
+  (10) “Interconnected voice over internet protocol service” or “interconnected VoIP service” has the meaning given the term “interconnected voice over internet protocol service” in ORS 759.400. For purposes of contribution to the OUS Fund nomadic interconnected VoIP providers are responsible for identifying intrastate revenues attributable to Oregon consistent with the safe harbor and intrastate revenue allocation provisions of OR Laws 2020 Ch. 17, Section 2. 
+
+ (11) "Local exchange service" means local exchange telecommunications service as defined in ORS 759.005(3). Local exchange service includes "shared service." 
+
+ (12) “Loop facilities” consists of the cables, poles, conduit, microwave, or carrier equipment used by a telecommunication service provider to connect a customer’s premise to a central office. 
+
+ (13) “OUSF Board” means the advisory board selected by the Commission to provide advice on the administration of the OUS Fund. 
+
+ (14) “OUS Administrator” means the person selected by the Commission to administer the OUS Fund. 
+
+ (15) “OUS Fund” means the Oregon Universal Service Fund. 
+
+ (16) “OUS retail telecommunications service” includes retail telecommunications service, retail commercial mobile radio service and retail interconnected VoIP service. 
+
+ (17) "Pay telephone" means a telephone instrument, generally placed in public areas, for transient use on a pay-per-call basis. Pay telephone instruments may be coin operated, noncoin operated, prepay, postpay, central office controlled, instrument controlled, provided by local exchange carriers, or provided by other persons or entities. 
+
+ (18) "Private telecommunications network" means a system, including the construction, maintenance, or operation of the system, for the provision of a service or any portion of a service, by a person for the exclusive use of that person and not for resale, directly or indirectly. Private telecommunications network includes services provided by the State of Oregon pursuant to ORS 190.240 and 283.140. 
+
+ (19) “Retail telecommunications service” has the same meaning as provided in ORS 759.400. 
+
+ (20) "Shared service" means shared telecommunications service as defined in ORS 759.005(6) and: 
+
+ (a) The provision of telecommunications and information management services and equipment: 
+
+ (A) To a user group comprised of one person or association served by a single telecommunications system; 
+
+ (B) Located in a single building or in several buildings on contiguous property; 
+
+ (C) By a commercial shared service provider or by a users' association; 
+
+ (D) Through privately owned customer premises equipment and associated data processing and information management services; and 
+
+ (b) Includes connection to local exchange service. 
+
+ (21) "Telecommunications provider" or "provider" includes competitive providers, cooperatives, telecommunications utilities and includes, for the purpose of this Division, commercial mobile radio service providers and interconnected VoIP service providers. 
+
+ (22) "Telecommunications service" or "service" means two-way switched access and transport of voice communications, and all services provided in connection with such services. For the purpose of this Division "telecommunication service" or "service" includes commercial mobile radio service and interconnected VoIP service, and does not include: 
+
+ (a) One-way transmission of television signals; 
+
+ (b) Surveying; 
+
+ (c) Private telecommunications networks; and 
+
+ (d) Customer communications that take place on the customer's side of the network interface. 
+
+ (23) “Telecommunications utility” means a person who is not a competitive provider and is designated as a telecommunications utility under OAR 860-032-0010. 
+
+ (24) “UNE loop” means an unbundled network element loop. 
+
+ (25) “Wire center” has the same meaning as provided in OAR 860-032-0012. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS Ch. 183, ORS 192, ORS 756 & ORS 759 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040, ORS 759.005 & ORS 759.020 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 9-2022, amend filed 09/29/2022, effective 09/29/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 8-2020, amend filed 12/30/2020, effective 01/01/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 7-2017, amend filed 10/06/2017, effective 10/06/2017 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 5-2016, f. & cert. ef. 11-22-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

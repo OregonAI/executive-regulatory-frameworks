@@ -1,0 +1,223 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Agriculture 
+ Chapter 603 
+ 
+ 
+ 
+ 
+ 
+ Division 29 STATE MEAT INSPECTION PROGRAM 
+ 603-029-0498 
+ Contamination with Microorganisms; Process Control Verification Criteria and Testing; Pathogen Reduction Standards 
+ 
+ (1) Criteria for verifying process control; E. coli testing. 
+
+ (a) Each state-inspected establishment that slaughters meat animals must test for Escherichia coli Biotype 1 (E.coli). State-inspected establishments that slaughter more than one type of meat animal shall test the type of meat animal slaughtered in the greatest number. The state-inspected establishment shall: 
+
+ (A) Collect samples in accordance with the sampling techniques, methodology, and frequency requirements in section (1)(b) of this rule; 
+
+ (B) Obtain analytic results in accordance with section (1)(c) of this rule; and 
+
+ (C) Maintain records of such analytic results in accordance with section (1)(d) of this rule. 
+
+ (b) Sampling requirements. 
+
+ (A) Written procedures. Each state-inspected establishment shall prepare written specimen collection procedures which shall identify employees designated to collect samples, and shall address location(s) of sampling, how sampling randomness is achieved, and handling of the sample to ensure sample integrity. The written procedure shall be made available to the Department upon request. 
+
+ (B) Sample collection. The state-inspected establishment must collect samples from all chilled meat animal carcasses, except those boned before chilling (hot-boned), which must be sampled after the final wash. Samples must be collected in the following manner; 
+
+ (i) For cattle, state-inspected establishments must sponge or excise tissue from the flank, brisket and rump, except for hide-on calves, in which case state-inspected establishments must take samples by sponging from inside the flank, inside the brisket, and inside the rump. 
+
+ (ii) For sheep or goat carcasses, state-inspected establishments must sponge from the flank, brisket and rump, except for hide-on carcasses, in which case state-inspected establishments must take samples by sponging from inside the flank, inside the brisket, and inside the rump. 
+
+ (C) Sampling frequency. State-inspected slaughter establishments, except very low volume establishments as defined in section (1)(b)(E) of this rule, must take samples at a frequency proportional to the volume of production at the following rates: Cattle, sheep, and goats: 1 test per 300 carcasses, but, a minimum of one sample during each week of operation. 
+
+ (D) Sampling frequency alternatives. A state-inspected establishment operating under a validated HACCP plan in accordance with OAR 603-029-2205(2 may substitute an alternative frequency for the frequency of sampling required under section (1)(b)(C) of this rule if, 
+
+ (i) The alternative is an integral part of the state-inspected establishment's verification procedures for its HACCP plan and, 
+
+ (ii) The Department does not determine, and notify the state-inspected establishment in writing, that the alternative frequency is inadequate to verify the effectiveness of the establishment's processing controls. 
+
+ (E) Sampling in very low volume establishments. 
+
+ (i) Very low volume establishments annually slaughter no more than 6,000 cattle, 6,000 sheep, 6,000 goats, or a combination of meat animals not exceeding 6,000 cattle and 20,000 total of all meat animals. Very low volume establishments that collect samples by sponging shall collect at least one sample per week, starting the first full week of operation after June 1 of each year, and continue sampling at a minimum of once each week the state-inspected establishment operates until June 1 of the following year or until 13 samples have been collected, whichever comes first. Very low volume establishments collecting samples by excising tissue from carcasses shall collect one sample per week, starting the first full week of operation after June 1 of each year, and continue sampling at a minimum of once each week the establishment operates until one series of 13 tests meets the criteria set forth in paragraph (1)(e)(A) of this rule. 
+
+ (ii) Upon the state-inspected establishment's meeting requirements of subparagraph (1)(b)(E)(i) of this rule, weekly sampling and testing is optional, unless changes are made in state-inspected establishment facilities, equipment, personnel, or procedures that may affect the adequacy of existing process control measures, as determined by the state-inspected establishment or the Department. Department determinations that changes have been made requiring resumption of weekly testing shall be provided to the state-inspected establishment in writing. 
+
+ (c) Analysis of samples. Laboratories may use any quantitative method for analysis of E. coli that is approved as an AOAC Official Method of the AOAC International (formerly the Association of Official Analytical Chemists) or approved and published by a scientific body and based on the results of a collaborative trial conducted in accordance with an internationally recognized protocol on collaborative trials and compared against the three tube Most Probable Number (MPN) method and agreeing with the 95 percent upper and lower confidence limit of the appropriate MPN index. 
+
+ (d) Recording of test results. The state-inspected establishment shall maintain accurate records of all test results, in terms of CFU/cm 2 of surface area sponged or excised. Results shall be recorded onto a process control chart or table showing at least the most recent 13 test results, by type of meat animal slaughtered. Records shall be retained at the state-inspected establishment for a period of 12 months and shall be made available to the Department upon request. 
+
+ (e) Criteria for evaluation of test results. 
+
+ (A) A state-inspected establishment excising samples from carcasses is operating within the criteria when the most recent E. coli test result does not exceed the upper limit (M), and the number of samples, if any, testing positive at levels above (m) is three or fewer out of the most recent 13 samples (n) taken, as follows: [Table 603-029-0498(1)(A)] 
+
+ (B) State-inspected establishments sponging carcasses shall evaluate E. coli test results using statistical process control techniques. 
+
+ (f) Failure to meet criteria. Test results that do not meet the criteria described in subsection (1)(e) of this rule are an indication that the state-inspected establishment may not be maintaining process controls sufficient to prevent fecal contamination. The Department shall take further action as appropriate to ensure that all applicable provisions of the law are being met. 
+
+ (g) Failure to test and record. Inspection shall be suspended in accordance with rules of practice that will be adopted for such proceedings upon a finding by the Department that one or more provisions of subsections (1) (a) to (d) of this rule have not been complied with and written notice of same has been provided to the state-inspected establishment. 
+
+ (2) Pathogen reduction performance standard; Salmonella - 
+
+ (a) Raw meat product performance standards for Salmonella. A state-inspected establishment's raw meat products, when sampled and tested by the Department for Salmonella, as set forth in this rule, may not test positive for Salmonella at a rate exceeding the applicable pathogen reduction performance standard, as provided in Table 1 to this section: [Table 603-029-0498(2)(a) 
+
+ (b) Enforcement. The Department will sample and test raw meat products in an individual state-inspected establishment on an unannounced basis to determine prevalence of Salmonella in such products to determine compliance with the standard. The frequency and timing of such testing will be based on the state-inspected establishment's previous test results and other information concerning the state-inspected establishment's performance. In a state-inspected establishment producing more than one class of product subject to the pathogen reduction standard, the Department may sample any or all such classes of products. [3] [1] 
+
+ (c) Noncompliance and establishment response. When the Department determines that a state-inspected establishment has not met the performance standard: 
+
+ (A) The state-inspected establishment shall take immediate action to meet the standard. 
+
+ (B) If the state-inspected establishment fails to meet the standard on the next series of compliance tests for that product, the state-inspected establishment shall reassess its HACCP plan for that product and take appropriate corrective actions. 
+
+ (C) Failure by the state-inspected establishment to act in accordance with paragraph (2)(c)(B) of this rule, or failure to meet the standard on the third consecutive series of Department-conducted tests for that product, constitutes failure to maintain sanitary conditions and failure to maintain an adequate HACCP plan, in accordance with OAR 603-029-2200 to 603-029-2235, for that product, and will cause the Department to suspend inspection services. Such suspension will remain in effect until the state-inspected establishment submits to the Director or his/her designee satisfactory written assurances detailing the action taken to correct the HACCP system and, as appropriate, other measures taken by the state-inspected establishment to reduce the prevalence of pathogens. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 603.085, ORS 616.700, ORS 619.042 & ORS 619.046 
+ 
+ 
+ Statutes/Other Implemented:  ORS 619.042, ORS 619.046, ORS 619.026 & ORS 619.036 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 19-2022, adopt filed 07/27/2022, effective 07/28/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

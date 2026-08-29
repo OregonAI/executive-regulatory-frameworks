@@ -1,0 +1,475 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Secretary of State 
+ Audits Division - Chapter 162 
+ 
+ 
+ 
+ 
+ Division 40 MINIMUM STANDARDS FOR AGREED-UPON PROCEDURES OF OREGON MUNICIPAL CORPORATIONS 
+ 162-040-0165 
+ Agreed-Upon Procedures 
+ 
+ The following procedures are required for agreed-upon procedures engagements performed in accordance with ORS 297.435. In performing procedures and reporting the results: 
+
+ (1) Total amounts must include all funds and activities of the municipal corporation. 
+
+ (a) The accountant should not report personally identifiable or confidential information. The accountant may consider including position titles rather than individual names, where appropriate, and refrain from referencing payment card numbers or other potentially sensitive information when reporting results of procedures performed. The accountant should retain information and support as necessary for their records only. 
+
+ (b) The type of procedure is noted in parenthesis after each procedure or procedure category and includes the following: 
+
+ (A) I – Informational/Procedural 
+
+ (B) A - Accounting/financial reporting 
+
+ (C) IC - Internal Control over either accounting/financial reporting or compliance 
+
+ (D) C – Compliance 
+
+ (2) OBTAIN AND REPORT GENERAL INFORMATION (I) 
+
+ (a) Municipal Corporation Name 
+
+ (b) Fiscal Year-End date (Month XX, 20XX) 
+
+ (c) Municipal corporation type and Oregon Statute of formation (for example: Water District, ORS 264) 
+
+ (3) FINANCIAL REPORT 
+
+ (a) Obtain a copy of the municipal corporation’s financial report. 
+
+ (b) Threshold Calculation (I): For the purposes of performing these procedures calculate a threshold where the threshold equals total expenses multiplied by five percent. Total expenses are the total primary government expenses reported on the government-wide statement of activities, including depreciation if applicable to the basis of accounting used. If the municipal corporation reports only Proprietary funds, expenses for the purposes of calculating the threshold include operating and non-operating expenses. 
+
+ (c) Compare amounts reported on the financial report to the municipal corporation’s general ledger/trial balance used to prepare the financial report plus all the adjustments to the financial report basis. Inspect any differences greater than the calculated threshold and inquire of management about the reason for difference(s). The accountants’ report should include a list of the reporting categories (for example: Materials and Services, or Accounts Payable) and managements’ description justifying the differences noted. (A) 
+
+ (d) Does the financial report include the names and addresses of officers of the municipal corporation and members of its governing body? (A) 
+
+ (e) If a special district, does the financial report include the name and address of the registered agent or the fact that one has not been designated? (OAR 162-040-0095) 
+
+ (f) Does the financial report include the statements and schedules required by GAAP as dictated by GASB and considering the basis of accounting used? (A) 
+
+ (g) Does the financial report include a budget to actual schedule for each fund for which budgets are legally required? (OAR 162-040-0060) (A/C) 
+
+ (h) Does the financial report include management’s representations regarding compliance required by rule? (OAR 162-040-0096) (C) 
+
+ (4) OPERATIONS, POLICIES + PROCEDURES 
+
+ (a) Obtain and inspect the municipal corporation’s written policies and procedures and determine whether they address each of the categories listed in subsection (b): (IC) 
+
+ (b) A municipal corporation’s written policies and procedures should address each of the following topics: 
+
+ (A) Budgeting 
+
+ (B) Purchasing 
+
+ (C) Disbursements 
+
+ (D) Receipts/collections 
+
+ (E) Payroll/personnel 
+
+ (F) Contracting + procurement 
+
+ (G) Travel and expense reimbursement 
+
+ (H) Credit cards (debit, fuel cards, P-cards) 
+
+ (I) Ethics 
+
+ (J) Debt service 
+
+ (c) Report Y or N next to each category, or report N/A if the category does not apply to the municipal corporation. 
+
+ (5) PUBLIC MEETINGS (C) 
+
+ (a) Public meetings are generally governed by ORS 192.610 to 192.695. 
+
+ (b) Obtain access to (or copies of) meeting minutes of the governing body. 
+
+ (c) Haphazardly select two meetings held during the reporting period and perform the following: 
+
+ (A) Was required notice given? 
+
+ (B) Did the notice include an agenda? 
+
+ (C) Was there a process for public comment? 
+
+ (D) If a portion of the meeting was closed to the public, determine that: 
+
+ (i) before the meeting was closed, the reason for holding the closed meeting was documented in the meeting minutes and a roll call vote was taken, 
+
+ (ii) the reason for closing the meeting was permitted under statute. 
+
+ (6) ACCOUNTING RECORDS 
+
+ (a) Inquire of management regarding whether policies and procedures are current and reflect the operations in place during the reporting period. Report management’s response. (I) 
+
+ (b) Inquire of the governing body chairperson whether they receive periodic financial information updating them on budgeted vs. actual spending and report the chairperson’s response. (I/IC) 
+
+ (c) Inquire of the governing body chairperson whether the governing body, or certain members of the governing body, approves payments and contracts and report the chairperson’s response. If not, report the position title approval authority is delegated to. (IC) 
+
+ (7) RELATED PARTIES (A/IC) 
+
+ (a) Obtain a list of payments during the reporting period by payee/vendor. 
+
+ (b) Inquire of management whether any of the payees listed are related parties (as defined in standards). 
+
+ (c) Recalculate payments to related parties and report the total paid to each party, and the nature of the payments (for example: goods or services, reimbursement). 
+
+ (8) PAYMENT CARDS (A/IC) 
+
+ (a) Obtain from management a complete listing of all active payment cards (i.e., credit cards, purchase cards) for the fiscal period, including the name(s) of the person(s) who maintained possession of the cards. 
+
+ (b) Haphazardly select one month and request the monthly statement from each active card (but not more than 5 cards) and observe whether: 
+
+ (A) The card had assessed finance charges or late fees. Report amounts if applicable. 
+
+ (B) The monthly statement was reviewed and approved for payment, in writing by someone other than the cardholder (for example: initials and date, or electronically approved, approved as noted in the governing body meeting minutes). 
+
+ (9) PROPERTY TAXES (A) 
+
+ (a) If the municipality receives property tax revenue perform the following: 
+
+ (b) Obtain a property tax revenue schedule or turnover report from the municipality. 
+
+ (c) Report the property tax revenue received by type (for example: permanent rate tax, local option tax). 
+
+ (d) Trace amounts to the financial records, such as the trial balance or general ledger. 
+
+ (10) ACCOUNTS RECEIVABLE (A) 
+
+ (a) For municipal corporations reporting on an accrual basis of accounting perform the following: 
+
+ (b) Obtain an accounts receivable aging report as of the last day of the fiscal year and agree to accounting records (trial balance). 
+
+ (c) For all accounts greater than 90 days, inquire of management whether the amount is collectible. 
+
+ (d) Report the balance that is considered by management to be uncollectable, if any. 
+
+ (e) If the accountant is unable to agree the aging report to the accounting records, report the reason(s) why, if known. 
+
+ (11) ACCOUNTS PAYABLE (A) 
+
+ (a) For municipal corporations reporting on an accrual basis of accounting perform the following: 
+
+ (b) Obtain an accounts payable listing and agree to the accounting records (trial balance). 
+
+ (c) Obtain a listing of disbursements subsequent to fiscal year end and haphazardly select a sample of five transactions (or transactions totaling the calculated threshold, whichever is less). 
+
+ (d) Inspect supporting documentation (invoice, purchase order, contract, etc.) for each sample transaction and confirm it was reported in the correct period. 
+
+ (12) FUND BALANCE/NET POSITION (A) 
+
+ (a) Agree beginning fund balance/net position to prior year ending fund balance/net position and reconcile any differences. 
+
+ (b) If there are any changes to beginning fund balance/net position, confirm that the financial report discloses the changes to fund balance/net position and the reason for the difference (for example: error, implementation of new accounting policy, change in accounting estimate, change in reporting entity). 
+
+ (13) REVENUE – CHARGES FOR SERVICES (A) 
+
+ (a) If the municipal corporation reports charges for services perform the following: 
+
+ (b) Obtain the fee schedule(s). 
+
+ (c) Haphazardly select a sample of 10 transactions (or transactions totaling the calculated threshold, whichever is less). 
+
+ (d) Based on the fee schedule(s), recalculate the charges for services. 
+
+ (14) PAYROLL (A) 
+
+ (a) If the municipal corporation has employees, perform the following: 
+
+ (b) Calculate the amount of payroll expenditures for the reporting period (year) compared to total operating costs. If payroll expenditures are greater than 20 percent of annual operating cost, perform the following: 
+
+ (A) Obtain all payroll checks or direct deposit records, but not more than five, for one haphazardly selected month during the reporting period. Compare the names and pay rates to employee records. 
+
+ (B) Obtain a listing of employees and officials employed during the fiscal period. Haphazardly select five employees or officials (or all, if fewer than five) and obtain related paid salaries or pay rates and personnel files. Person(s) with the ability to enter payroll or who approves payroll related payments must be included in the sample selected. 
+
+ (i) Agree annual paid salaries and bonuses to authorized salaries/pay rates in the personnel files. 
+
+ (ii) Observe that individuals selected and receiving pay have a corresponding personnel file and were employees or officers during the reporting period. 
+
+ (15) CASH (A/IC/C) 
+
+ (a) Obtain a listing of all bank accounts from management. 
+
+ (b) Obtain year-end statements and trace ending balances to the year-end bank reconciliations. If possible, the year-end statement should be viewed via online account access as confirmation. 
+
+ (c) If the independent accountant can view accounts online, vouch that each account listed online was included in the list of accounts provided by management. 
+
+ (d) For each depository account, obtain the year-end bank reconciliation and one additional month’s reconciliation, haphazardly selected from a different quarter, and observe whether: 
+
+ (A) Reconciliations were prepared and reviewed within 2 months of the related statement’s closing date. If not, report the date prepared and reason given by management for why the reconciliation was prepared after two months. 
+
+ (B) The statement balance traces to the reconciliation. 
+
+ (C) The reconciled book balance traces to the general ledger and the trial balance or summary schedule. 
+
+ (D) Mathematically, the reconciliation and detailed supporting schedules are accurate. 
+
+ (e) Obtain a check register for the fiscal year and confirm if there are any gaps in check numbers issued during the year. Account for all voided checks by obtaining supporting documentation (for example: voided check). 
+
+ (f) Inquire of the municipal corporation whether they are required to maintain any separate bank accounts for a particular fund, program, loan, grant, or other purpose. If yes, observe whether the municipal corporation maintains a separate bank account as required. 
+
+ (g) If account(s) were opened or closed during the year (determined by comparing the current listing to prior years), inspect the minutes of the governing body and observe that the decision(s) are included. If approval authority is delegated to open and close accounts and not approved by the governing body, report the position title that authority is delegated to only if there were new or closed accounts during the year. 
+
+ (h) Determine whether deposits are covered by Federal Deposit Insurance Corporation (FDIC) or National Credit Union Administration (NCUA) insurance, or deposited with institutions participating in the public funds collateralization pool. (ORS 295 – Depositories of Public Funds and Securities) 
+
+ (16) DEBT (A/C) 
+
+ (a) Obtain a complete list of debt (loans, mortgages, bonds, notes, or other debt instruments) and management’s representations that the listing is complete. 
+
+ (b) Obtain supporting documentation for all newly issued debt (new during the engagement period and fiscal period reported) and carried forward debt. 
+
+ (c) Reconcile new debt to the list of debt, and the list of debt to the reported amount(s) on the financial report, as applicable. 
+
+ (d) Inquire of management about any debt covenants, such as a required cash reserve or coverage ratio. If such covenants exist, report the requirement(s) and report management’s responses on: 
+
+ (A) how the entity monitors the requirement(s) and 
+
+ (B) whether the municipal corporation met the requirement(s) throughout the year. 
+
+ (17) LOCAL BUDGET LAW (C) 
+
+ (a) This section describes procedures over compliance with legal requirements relating to the preparation, adoption, and execution of the annual or biennial budget for the fiscal year engaged for AUP and included in the annual financial report, and the preparation and adoption of the budget for the next succeeding year. If the municipal corporation is subject to local budget law (ORS 294) complete the following procedures (b) through (f): 
+
+ (b) Adopted Budget 
+
+ (A) Obtain a copy of the original approved and adopted budget. 
+
+ (B) Determine whether the budget was adopted before the start of the budget year. (ORS 294.408) 
+
+ (C) Determine whether the budget committee passed a motion to approve each tax levy and the budget dollar amount. (ORS 294.428) 
+
+ (D) Compare the original adopted budget levy and the budget amount to the approved budget levy and budget. If there were any changes/differences, determine whether procedures were followed to make the change. (ORS 294.456) 
+
+ (E) If resources do not equal requirements, document which funds are not balanced and report management’s response as to why they are not balanced. Report N/A if the budget is balanced. 
+
+ (c) Budget Resolution - Obtain a copy of the resolution and observe whether the municipal corporation has appropriated by organization unit or program. (ORS 294.388(2)) 
+
+ (d) Budget Meetings 
+
+ (A) Obtain a copy of budget committee meeting notice(s). 
+
+ (B) Compare the dates of published notice to the meeting dates and conclude whether notices were published timely. (ORS 294.426) 
+
+ (e) Budget Hearing 
+
+ (A) Obtain a copy of the notice of budget hearing (LB-1, ED-1, UR-1 or CC-1). 
+
+ (B) Observe each statement to ensure the notices of budget hearing are complete and published timely. (ORS 294.438) 
+
+ (f) Budget Execution, Resolution Transfer or Supplemental Budget: The following procedures relate to the execution of the budget for the fiscal year engaged for AUP and as reported in the annual financial report. 
+
+ (A) Compare the budget resolution to final, actual spending and report whether the municipal corporation overspent any appropriation category. If a budget exception exists per ORS 294.338, there is no violation and the accountant should exclude an overspending comment from the report. (ORS 294.338) 
+
+ (B) Obtain a copy of any resolution transfer or supplemental budget. 
+
+ (C) Determine whether the transfer or changes were made prior to overspending appropriation authority. (ORS 294.463 and ORS 294.471) 
+
+ (18) FIDELITY BOND + INSURANCE (C) 
+
+ (a) Obtain from management a copy of the fidelity or faithful performance bond covering the principal responsible official (those responsible for receiving and disbursing moneys on behalf of the municipality). 
+
+ (b) Observe that the bond was in force during the fiscal period. 
+
+ (c) Observe that the bond was in an amount sufficient as required by ORS 297.435(3). 
+
+ (19) CONTRACTING + PROCUREMENT (A/IC/C) 
+
+ (a) Obtain, from management, a list of contracts and agreements for professional services, materials and supplies, leases, and construction activities that were initiated or renewed during the fiscal period. 
+
+ (b) For contracts or agreements over $25,000 or the calculated threshold, whichever is greater, obtain the procurement documentation and observe whether there is evidence of obtaining multiple quotes (or bids if required due to the total contract amount) or documentation as to why sole source selection was reasonable in the circumstance. (Y/N) If N, document the goods or services purchased and the total amount of the purchase or contract. 
+
+ (20) PROGRAMS FUNDED FROM OUTSIDE SOURCES (C) 
+
+ (a) Inquire of municipal corporation management and obtain a listing of any grant or similar funding, to identify any outside sources of funding, and whether there are requirements restricting the use those funds or related to the timing of spending the funding. 
+
+ (b) Report on the source(s) and amount(s) received during the year reported for any source that exceeds the calculated threshold, or 10 percent of revenues, whichever is greater. 
+
+ (21) HIGHWAY FUNDS (C) - ORS 294, 368, and 373; Article IX section 3a of the Oregon Constitution 
+
+ (a) If the municipal corporation spent highway funds during the year, perform the following (highway funds refer specifically to revenue from taxes on motor vehicle use and fuel, and road funds): 
+
+ (b) Inquire of management if funds were spent in compliance with the law (as contained in Article IX, section 3a of the Oregon Constitution and ORS 294, 368, and 373 pertaining to the use of road funds). (Y/N) If N, report the violation. 
+
+ (c) Inquire of management whether highway funds were loaned to any other funds. Y/N, and if Y report whether amounts were repaid by the end of the following fiscal year. (ORS 294.050) 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 297 
+ 
+ 
+ Statutes/Other Implemented:  ORS 297.465 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AUDIT 1-2025, amend filed 04/30/2025, effective 05/01/2025 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AUDIT 1-2024, minor correction filed 01/30/2024, effective 01/30/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AUDIT 1-2023, adopt filed 10/31/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

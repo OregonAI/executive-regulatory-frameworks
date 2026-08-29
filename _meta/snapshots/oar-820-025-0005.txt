@@ -1,0 +1,489 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Board of Examiners for Engineering and Land Surveying 
+ Chapter 820 
+ 
+ 
+ 
+ 
+ 
+ Division 25 DIGITAL SEAL AND SIGNATURE 
+ 820-025-0005 
+ Official Seal
+ 
+ 
+ (1) Seals, as referenced by ORS 672.020(2) and 672.025(2), must be legible and contain the printed name of the registrant, the date of registration, the number of the registrant's certificate of registration, and the registrant's professional title. The registrant's printed name on the seal will be exactly the same as the registrant’s name on file with the Board. 
+
+ (2) The size of the seal must be at least 2 inches from point to point.  The design and content of the seal will be an exact replica, in style, of the examples shown in Exhibit 1 (Official Seals) for the profession or branch of the profession in which the registrant is licensed.  The expiration or renewal date may be made part of the seal. If the expiration or renewal date is not made part of the seal, it must be handwritten, in permanent ink, after the word "Expires" or “Renews.” Reduced or enlarged seals are not permitted on final documents. In addition to these requirements, registrants will use the following seals: 
+
+ (a) Professional engineers holding a structural engineering certificate will use the seal with the designation "Structural" above the words "Registered Professional Engineer," as shown in Exhibit 1-b. Other registered professional engineers will use the seal shown in Exhibit 1-a; [Exhibit not included. See ED. NOTE.] 
+
+ (b) Registered professional traffic engineer, who may practice only traffic engineering will use the seal shown in Exhibit 1-f; [Exhibit not included. See ED. NOTE.] 
+
+ (c) Registered professional land surveyors will use the seal shown in Exhibit 1-c; [Exhibit not included. See ED. NOTE.] 
+
+ (d) Registered professional photogrammetrists will use the seal shown in Exhibit 1-d; [Exhibit not included. See ED. NOTE.] 
+
+ (e) Registered water right examiners will use the seal shown in Exhibit 1-e. [Exhibit not included. See ED. NOTE.] 
+
+ (3) The seal may be applied to a document by rubber stamp or it may be computer-generated onto the document. 
+
+ (4) The registrant will sign through the middle of the seal or in the place on the seal as indicated for signature, in handwriting, and in permanent ink. 
+
+ (5) A digital signature, for final documents is acceptable as an alternative to a handwritten signature in permanent ink if the digital signature: 
+
+ (a) Is unique to the registrant using it; 
+
+ (b) Is independently verifiable by a Certificate Authority (3rd Party); 
+
+ (c) Is under the sole control of the registrant using it; 
+
+ (d) Is linked to the document in such a manner that the digital signature is invalidated if any data in the document is changed; and 
+
+ (e) Bears the phrase “digitally signed” in place of a handwritten signature. 
+
+ (6) Only individuals registered as professional engineers, professional traffic engineers, professional land surveyors, professional photogrammetrists, or certified water rights examiners may use a seal with a shape, form or wording similar to those shown in Exhibit 1. Using such a seal without registration constitutes falsely representing that the person is authorized to practice the profession. 
+
+ [ED. NOTE: Exhibits referenced are available from the agency.] 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 670.310 & 672.255 
+ 
+ 
+ Statutes/Other Implemented:  ORS 672.002 - 672.325 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 3-2024, amend filed 09/11/2024, effective 09/11/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 4-2017, f. & cert. ef. 7-12-17 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 8-2016, f. & cert. ef. 12-29-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 5-2016, f. & cert. ef. 5-12-16 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 820-010-0620 by BEELS 7-2015, f. & cert. ef. 9-16-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 2-2014, f. & cert. ef. 2-26-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 10-2013(Temp), f. & cert. ef. 12-5-13 thru 3-14-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 7-2013(Temp), f. & cert. ef. 11-12-13 thru 5-9-14 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 6-2013, f. & cert. ef. 9-11-13 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 2-2009, f. & cert. ef. 11-13-09 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 2-2008, f. & cert. ef. 7-9-08 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 4-2007, f. & cert. ef. 8-15-07 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to BEELS 1-2000, f. & cert. ef. 1-14-00 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 3-2006(Temp), f. & cert. ef. 12-5-06 thru 6-3-07 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 1-2000, f. & cert. ef. 1-14-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 1-1998, f. & cert. ef. 2-10-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EE 1-1995, f. 8-15-95, cert. ef. 9-1-95 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EE 1-1992, f. & cert. ef. 2-3-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EE 4-1987, f. & ef. 12-1-87 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EE 2-1986, f. 3-26-86, ef. 3-31-86 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EE 20, f. & ef. 12-15-77 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EE 16, f. 3-5-74, ef. 3-25-74 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ EE 13, f. 3-29-72, ef. 4-15-72 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

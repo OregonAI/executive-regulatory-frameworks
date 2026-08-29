@@ -1,0 +1,193 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+   Temporary rule language in effect until 12/01/2026. 
+ 
+ 
+ 
+ 
+ 
+ Oregon Business Development Department 
+ Chapter 123 
+ 
+ 
+ 
+ 
+ 
+ Division 670 JOBS CREATION TAX CREDIT 
+ 123-670-0070 
+ Net New Job Calculation 
+ 
+ (1) Purpose. This rule establishes the methodology for calculating net new jobs for purposes of determining a taxpayer's eligibility and credit amount under these rules. The calculation is based on the change in a taxpayer's average annual covered employment between two consecutive 12-month measurement periods ending June 30, measured as the average monthly count of qualifying covered employees. 
+
+ (2) Measurement Periods. The net new job calculation uses two consecutive 12-month measurement periods. These measurement periods apply to all taxpayers regardless of whether the taxpayer uses a calendar or fiscal tax year. 
+
+ (a) Baseline period: The 12 months ending June 30 of the calendar year immediately preceding the calendar year in which the taxpayer's tax year began; and 
+
+ (b) Current period: The 12 months ending June 30 of the calendar year in which the taxpayer's tax year began. 
+
+ (3) Average Annual Covered Employment Calculation. A taxpayer's average annual covered employment for each measurement period is calculated as follows: 
+
+ (a) For each calendar month in the measurement period, count the number of covered employees whose hourly rate of compensation, as defined in OAR 123-670-0010(7), met or exceeded the wage threshold as defined in OAR 123-670-0010(17) during that month. This is the monthly qualifying covered employee count for that month; 
+
+ (b) Add together the monthly qualifying covered employee counts for all 12 calendar months in the measurement period; and 
+
+ (c) Divide the sum by 12. Round the result to the nearest whole number using standard rounding. This figure is the taxpayer's average annual covered employment for the measurement period. 
+
+ (4) Net New Jobs. The number of net new jobs is the positive difference, if any, between the taxpayer's average annual covered employment for the current period and the taxpayer's average annual covered employment for the baseline period. If the current period average annual covered employment does not exceed the baseline period average annual covered employment, the taxpayer has zero net new jobs and is not eligible for the credit for that tax year. 
+
+ (5) Wage Threshold Application. Only covered employees whose hourly rate of compensation, as defined in OAR 123-670-0010(7), met or exceeded the wage threshold as defined in OAR 123-670-0010(17) during a given calendar month may be included in the monthly qualifying covered employee count for that month. A covered employee whose hourly rate of compensation did not meet the wage threshold in a given month must be excluded from that month's count but may be included in other months where the wage threshold is met. A covered employee who does not meet the wage threshold in any month of the measurement period does not contribute to average annual covered employment for that period. 
+
+ (6) New Taxpayers. A taxpayer that had no covered employees during the baseline period shall have a baseline period average annual covered employment of zero. The taxpayer's net new jobs shall equal its current period average annual covered employment, subject to the per-taxpayer cap of 10 net new jobs. 
+
+ (7) Per-Taxpayer Cap. The number of net new jobs counted for purposes of the credit may not exceed 10 for any taxpayer in any tax year. The maximum credit amount for any taxpayer in any tax year is $1,000 multiplied by the number of certified net new jobs, not to exceed $10,000, subject to any proportionate reduction under OAR 123-670-0060. 
+
+ (8) Seasonal and Temporary Employees. Seasonal and temporary employees are not excluded from the calculation of average annual covered employment, provided they are covered employees who meet the wage threshold in the months they are employed. 
+
+ (9) Source Records. Taxpayers shall calculate average annual covered employment using any reliable business records that accurately reflect monthly covered employee counts and hourly rates of compensation per covered employee during the measurement period. Reliable business records include but are not limited to payroll system reports, monthly payroll summaries, quarterly unemployment insurance reports, or other employer records maintained in the ordinary course of business. Taxpayers must retain source records in accordance with OAR 123-670-0030(8). 
+
+ (10) Worksheet. Taxpayers shall report their net new job calculation using the employment and wage worksheet required under OAR 123-670-0030(5)(e). The worksheet shall reflect the calculations described in this rule. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 285A.075 
+ 
+ 
+ Statutes/Other Implemented:  Oregon Laws 2026, Chapter 142 & Oregon Laws 2026, Chapter 50 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBDD 9-2026, temporary adopt filed 06/02/2026, effective 06/05/2026 through 12/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

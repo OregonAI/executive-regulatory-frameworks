@@ -1,0 +1,215 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 90 RECYCLING AND WASTE REDUCTION 
+ 340-090-0910 
+ Scope and Applicability 
+ 
+ (1) OAR 340-090-0900 to 0940 are collectively referred to as the life cycle evaluation or LCE rules. The LCE rules implement ORS 459A.944 and provide standards for the evaluation and disclosure of the environmental impacts of covered products through the life cycle of the products. The LCE rules shall be used by large producers to meet the requirements of ORS 459A.944(2), as provided by Section 2 of this rule, and by producer responsibility organizations to meet the requirements of ORS 459A.884(4), as provided by Section 3 of this rule. 
+
+ (2) Large producers shall do the following: 
+
+ (a) Perform an evaluation, using the standards and methods of the LCE rules, of the life cycle impacts of at least one percent of the covered products that the large producer sells or distributes in or into this state. 
+
+ (b) Identify the one percent of the covered products for evaluation and disclosure as follows as provided by this Subsection. 
+
+ (A) A Large producer must order by annual Oregon sales volumes, measured by the number of units, all individual Stock Keeping Units that the producer sold in or distributed into the state that are covered products or that have associated packaging which is a covered product. Producers may use national data pro-rated to Oregon’s population or other approximations for the purpose of identifying the one percent of Stock Keeping Units for evaluation, as long as they conform with best available estimation methods. 
+
+ (i) If a covered product is not associated with a Stock Keeping Unit, the producer shall instead represent the product using an alternative code that is associated with data on the amount of covered product sold or distributed in or into Oregon. 
+
+ (ii) Stock Keeping Units produced by multiple associated producers as defined in OAR 340-090-0860(5) must be grouped together for the purpose of ordering the Stock Keeping Units by sales volumes. 
+
+ (B) The evaluation required by Subsection (a) shall be performed on each of the Stock Keeping Units that make up the one percent of Stock Keeping Units with the highest sales volume from the list described in paragraph (b)(A). The evaluation must include any primary, secondary, and tertiary packaging associated with a Stock Keeping Unit, as well as the product contained or protected by the packaging if it is a covered product. Stock Keeping Units may be batched together in an evaluation, as provided by Paragraph (D). 
+
+ (C) Except as described in Paragraph (D), large producers must submit individual project reports for each evaluation conducted according to the LCE rules for the covered products represented by or used to package each Stock Keeping Unit. 
+
+ (D) Batch evaluations may be performed covering multiple Stock Keeping Units if the Stock Keeping Units are part of the same product line or family, such as paperboard cereal boxes of different sizes. If multiple Stock Keeping Units are included in a single batch evaluation, all Stock Keeping Units in the batch evaluation are counted toward fulfillment of the requirement for evaluation of one percent of covered products and can be submitted in a single project report. 
+
+ (c) Submit complete life cycle evaluations to the department and to the producer responsibility organization of which it is a member at the end of every other program year beginning with 2026. 
+
+ (A) A producer may submit its life cycle evaluation 6 months after the time provided by Subsection (c) if the producer was not a large producer based on interim market share but becomes a large producer based on preliminary market share. 
+
+ (B) If a producer is a large producer in multiple 2 year periods the producer must re-order its Stock Keeping Units, as provided by Subsection (b) and assess impacts of covered products for the next, not previously assessed one percent of Stock Keeping Units. Stock Keeping Units that have already been assessed may be repeated after 10 years, or earlier if all Stock Keeping Units have been assessed. 
+
+ (3) Producer responsibility organizations must apply fee adjustments pursuant to ORS 459A.884(4) as provided by this Section. 
+
+ (a) Producer responsibility organizations will provide a fee reduction to producers that perform a voluntary evaluation and disclosure of the life cycle impacts of covered products conducted according to the standards and methods in the LCE rules. 
+
+ (A) Evaluation results must be made available on a producer responsibility organization website and submitted to the department. 
+
+ (B) Within a given program year, producers may claim bonuses for up to 100 Stock Keeping Units for which a life cycle evaluation is performed and disclosed.  DEQ may approve a temporary variance to this limit should the producer responsibility organization propose, through the program plan, a lower limit. 
+
+ (C) An evaluation used to qualify for this bonus must be completed on or after July 1, 2025, and no earlier than one year prior to submission to the producer responsibility organization. 
+
+ (b) Producer responsibility organizations will provide a fee reduction to producers that perform a voluntary or statutorily required, per ORS 459A.944(2), evaluation and disclosure of the life cycle impacts of covered products according to the standards and methods in the LCE rules and that include proof of substantial impact reduction as defined according to OAR 340-090-0900(42) and calculated according to OAR 340-090-0930(3)(c). 
+
+ (A) The magnitude of the fee reduction pursuant to Subsection (b) must be larger than the magnitude of the fee reduction pursuant to Subsection (a), both in terms of the proportion of base fee adjustments and any cap placed on each available fee reduction. 
+
+ (B) Evaluation results must be made available on a producer responsibility organization website and submitted to the department. 
+
+ (C) A producer may claim the fee reduction pursuant to Subsection (b) only if the change resulting in reduction of life cycle impacts has been undertaken directly by the producer or its suppliers. 
+
+ (D) The substantial impact reduction action examined in the evaluation must have been undertaken on or after December 1, 2024, and no earlier than two years prior to submission of the evaluation to the producer responsibility organization. 
+
+ (E) A producer responsibility organization must offer larger fee reductions for larger impact reductions, by delineating up to five impact reduction tiers, each representing progressively greater impact reduction and receiving progressively larger fee reductions. 
+
+ (F) An evaluation used to qualify for the fee reduction pursuant to Subsection (b) must be completed on or after July 1, 2025, and no earlier than one year prior to submission of the evaluation to the producer responsibility organization. 
+
+ (c) The fee reductions described in Subsection (a) and (b) of this Section do not preclude the producer responsibility organization offering other fee adjustments to its member producers. Any fee adjustments must be included in a program plan or plan amendment reviewed and approved by the department and incentivize the reduction of environmental and human health impacts. 
+
+ (d) With respect to the fee reductions described in Subsection (a) and (b) of this Section, the producer responsibility organization may set limits in the program plan regarding the timing, submission and re-submission of both fee reductions, including limits related to the frequency of the submission of life cycle evaluations for the same Stock Keeping Units. Any limits must be included in a program plan or plan amendment reviewed and approved by the department. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 459A.944 & 459A.884 
+ 
+ 
+ Statutes/Other Implemented:  ORS 459A.944 & 459A.884 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 20-2024, adopt filed 11/24/2024, effective 11/24/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

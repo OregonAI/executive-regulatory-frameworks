@@ -1,0 +1,162 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Board of Examiners for Engineering and Land Surveying 
+ Chapter 820 
+ 
+ 
+ 
+ 
+ 
+ Division 25 DIGITAL SEAL AND SIGNATURE 
+ 820-025-0001 
+ Definitions 
+ 
+ (1) "Digital signature" means a type of electronic signature that transforms a message through the use of an algorithm or series of algorithms that provide a key pair, private and public, for signor verification, document security and authentication.  (2) “Certificate Authority” is the trusted third party that issues and manages digital certificates (private and public keys) for digital signatures.  (3) “Digital certificate” is required to affix a digital signature, for the recipient to verify the identity of the signor, and for the recipient to verify that the contents of the document have not been altered since the signature was affixed. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 670.310 & 672.255 
+ 
+ 
+ Statutes/Other Implemented:  ORS 672.002 - 672.325 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BEELS 7-2015, f. & cert. ef. 9-16-15 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

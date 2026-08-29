@@ -12,181 +12,181 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 
 | Agency | Governance | Policies published | Docs | Verbatim | OCR-recovered | Unrecoverable | Last checked |
 |---|---|---|---|---|---|---|---|
-| Appraiser Certification and Licensure Board | semi-independent | unknown | 92 | 92 | 0 | 0 | — |
-| State Board of Chiropractic Examiners | executive branch | unknown | 52 | 52 | 0 | 0 | — |
-| Board of Examiners for Engineering and Land Surveying | semi-independent | unknown | 84 | 84 | 0 | 0 | — |
-| State Board of Examiners for Speech-Language Pathology and Audiology | executive branch | unknown | 40 | 40 | 0 | 0 | — |
-| Board of Geologist Examiners | semi-independent | unknown | 62 | 62 | 0 | 0 | — |
-| State Board of Licensed Social Workers | executive branch | unknown | 55 | 55 | 0 | 0 | — |
+| Appraiser Certification and Licensure Board | semi-independent | unknown | 96 | 96 | 0 | 0 | — |
+| State Board of Chiropractic Examiners | executive branch | unknown | 59 | 59 | 0 | 0 | — |
+| Board of Examiners for Engineering and Land Surveying | semi-independent | unknown | 90 | 90 | 0 | 0 | — |
+| State Board of Examiners for Speech-Language Pathology and Audiology | executive branch | unknown | 45 | 45 | 0 | 0 | — |
+| Board of Geologist Examiners | semi-independent | unknown | 63 | 63 | 0 | 0 | — |
+| State Board of Licensed Social Workers | executive branch | unknown | 61 | 61 | 0 | 0 | — |
 | Board of Massage Therapists | semi-independent | unknown | 36 | 36 | 0 | 0 | — |
-| Board of Medical Imaging | executive branch | unknown | 44 | 44 | 0 | 0 | — |
-| Board of Nursing | executive branch | unknown | 168 | 168 | 0 | 0 | — |
-| Board of Optometry | semi-independent | unknown | 60 | 60 | 0 | 0 | — |
-| Board of Parole and Post-Prison Supervision | executive branch | unknown | 171 | 171 | 0 | 0 | — |
-| Board of Pharmacy | executive branch | unknown | 350 | 350 | 0 | 0 | — |
-| Bureau of Labor and Industries | executive branch | unknown | 682 | 682 | 0 | 0 | — |
+| Board of Medical Imaging | executive branch | unknown | 55 | 55 | 0 | 0 | — |
+| Board of Nursing | executive branch | unknown | 228 | 228 | 0 | 0 | — |
+| Board of Optometry | semi-independent | unknown | 61 | 61 | 0 | 0 | — |
+| Board of Parole and Post-Prison Supervision | executive branch | unknown | 181 | 181 | 0 | 0 | — |
+| Board of Pharmacy | executive branch | unknown | 599 | 599 | 0 | 0 | — |
+| Bureau of Labor and Industries | executive branch | unknown | 689 | 689 | 0 | 0 | — |
 | Chief Education Office | executive branch | unknown | 20 | 20 | 0 | 0 | — |
 | Citizens' Initiative Review Commission | semi-independent | unknown | 5 | 5 | 0 | 0 | — |
-| Columbia River Gorge Commission | executive branch | unknown | 259 | 259 | 0 | 0 | — |
+| Columbia River Gorge Commission | executive branch | unknown | 331 | 331 | 0 | 0 | — |
 | Commission for the Blind | executive branch | unknown | 57 | 57 | 0 | 0 | — |
 | Construction Contractors Board | executive branch | unknown | 319 | 319 | 0 | 0 | — |
-| [Department of Administrative Services](department-of-administrative-services/_index.md) | executive branch | web | 748 | 736 | 3 | 12 | 2026-07-18 |
+| [Department of Administrative Services](department-of-administrative-services/_index.md) | executive branch | web | 764 | 752 | 3 | 12 | 2026-07-18 |
 | Department of Administrative Services, Chief Financial Office | executive branch | web | 33 | 33 | 0 | 0 | 2026-07-18 |
 | Department of Administrative Services, Chief Human Resources Office | executive branch | web | 9 | 9 | 0 | 0 | 2026-07-18 |
 | Department of Administrative Services, Office of the State Chief Information Officer | executive branch | web | 22 | 22 | 0 | 0 | 2026-07-18 |
-| Department of Agriculture | executive branch | unknown | 1184 | 1184 | 0 | 0 | — |
-| Department of Agriculture, Oregon Albacore Commission | executive branch | unknown | 18 | 18 | 0 | 0 | — |
+| Department of Agriculture | executive branch | unknown | 1638 | 1638 | 0 | 0 | — |
+| Department of Agriculture, Oregon Albacore Commission | executive branch | unknown | 23 | 23 | 0 | 0 | — |
 | Department of Agriculture, Oregon Alfalfa Seed Commission | executive branch | unknown | 15 | 15 | 0 | 0 | — |
-| Department of Agriculture, Oregon Beef Council | executive branch | unknown | 14 | 14 | 0 | 0 | — |
-| Department of Agriculture, Oregon Blueberry Commission | executive branch | unknown | 19 | 19 | 0 | 0 | — |
-| Department of Agriculture, Oregon Clover Seed Commission | executive branch | unknown | 18 | 18 | 0 | 0 | — |
-| Department of Agriculture, Oregon Dairy Products Commission | executive branch | unknown | 16 | 16 | 0 | 0 | — |
-| Department of Agriculture, Oregon Dungeness Crab Commission | executive branch | unknown | 19 | 19 | 0 | 0 | — |
-| Department of Agriculture, Oregon Fine Fescue Commission | executive branch | unknown | 14 | 14 | 0 | 0 | — |
-| Department of Agriculture, Oregon Hazelnut Commission | executive branch | unknown | 16 | 16 | 0 | 0 | — |
+| Department of Agriculture, Oregon Beef Council | executive branch | unknown | 25 | 25 | 0 | 0 | — |
+| Department of Agriculture, Oregon Blueberry Commission | executive branch | unknown | 24 | 24 | 0 | 0 | — |
+| Department of Agriculture, Oregon Clover Seed Commission | executive branch | unknown | 23 | 23 | 0 | 0 | — |
+| Department of Agriculture, Oregon Dairy Products Commission | executive branch | unknown | 28 | 28 | 0 | 0 | — |
+| Department of Agriculture, Oregon Dungeness Crab Commission | executive branch | unknown | 24 | 24 | 0 | 0 | — |
+| Department of Agriculture, Oregon Fine Fescue Commission | executive branch | unknown | 19 | 19 | 0 | 0 | — |
+| Department of Agriculture, Oregon Hazelnut Commission | executive branch | unknown | 21 | 21 | 0 | 0 | — |
 | Department of Agriculture, Oregon Hop Commission | executive branch | unknown | 11 | 11 | 0 | 0 | — |
 | Department of Agriculture, Oregon Invasive Species Council | executive branch | unknown | 5 | 5 | 0 | 0 | — |
-| Department of Agriculture, Oregon Mint Commission | executive branch | unknown | 18 | 18 | 0 | 0 | — |
-| Department of Agriculture, Oregon Potato Commission | executive branch | unknown | 24 | 24 | 0 | 0 | — |
-| Department of Agriculture, Oregon Processed Vegetable Commission | executive branch | unknown | 18 | 18 | 0 | 0 | — |
-| Department of Agriculture, Oregon Raspberry and Blackberry Commission | executive branch | unknown | 19 | 19 | 0 | 0 | — |
-| Department of Agriculture, Oregon Ryegrass Growers Seed Commission | executive branch | unknown | 17 | 17 | 0 | 0 | — |
-| Department of Agriculture, Oregon Salmon Commission | executive branch | unknown | 16 | 16 | 0 | 0 | — |
-| Department of Agriculture, Oregon Sheep Commission | executive branch | unknown | 19 | 19 | 0 | 0 | — |
-| Department of Agriculture, Oregon Strawberry Commission | executive branch | unknown | 19 | 19 | 0 | 0 | — |
-| Department of Agriculture, Oregon Sweet Cherry Commission | executive branch | unknown | 14 | 14 | 0 | 0 | — |
-| Department of Agriculture, Oregon Tall Fescue Commission | executive branch | unknown | 15 | 15 | 0 | 0 | — |
-| Department of Agriculture, Oregon Trawl Commission | executive branch | unknown | 19 | 19 | 0 | 0 | — |
-| Department of Agriculture, Oregon Wheat Commission | executive branch | unknown | 24 | 24 | 0 | 0 | — |
+| Department of Agriculture, Oregon Mint Commission | executive branch | unknown | 23 | 23 | 0 | 0 | — |
+| Department of Agriculture, Oregon Potato Commission | executive branch | unknown | 29 | 29 | 0 | 0 | — |
+| Department of Agriculture, Oregon Processed Vegetable Commission | executive branch | unknown | 23 | 23 | 0 | 0 | — |
+| Department of Agriculture, Oregon Raspberry and Blackberry Commission | executive branch | unknown | 24 | 24 | 0 | 0 | — |
+| Department of Agriculture, Oregon Ryegrass Growers Seed Commission | executive branch | unknown | 22 | 22 | 0 | 0 | — |
+| Department of Agriculture, Oregon Salmon Commission | executive branch | unknown | 25 | 25 | 0 | 0 | — |
+| Department of Agriculture, Oregon Sheep Commission | executive branch | unknown | 30 | 30 | 0 | 0 | — |
+| Department of Agriculture, Oregon Strawberry Commission | executive branch | unknown | 24 | 24 | 0 | 0 | — |
+| Department of Agriculture, Oregon Sweet Cherry Commission | executive branch | unknown | 25 | 25 | 0 | 0 | — |
+| Department of Agriculture, Oregon Tall Fescue Commission | executive branch | unknown | 20 | 20 | 0 | 0 | — |
+| Department of Agriculture, Oregon Trawl Commission | executive branch | unknown | 24 | 24 | 0 | 0 | — |
+| Department of Agriculture, Oregon Wheat Commission | executive branch | unknown | 29 | 29 | 0 | 0 | — |
 | Department of Consumer and Business Services | executive branch | unknown | 1 | 1 | 0 | 0 | — |
-| Department of Consumer and Business Services, Building Codes Division | executive branch | unknown | 670 | 670 | 0 | 0 | — |
+| Department of Consumer and Business Services, Building Codes Division | executive branch | unknown | 718 | 718 | 0 | 0 | — |
 | Department of Consumer and Business Services, Director's Office | executive branch | unknown | 24 | 24 | 0 | 0 | — |
-| Department of Consumer and Business Services, Finance and Securities Regulation | executive branch | unknown | 472 | 472 | 0 | 0 | — |
+| Department of Consumer and Business Services, Finance and Securities Regulation | executive branch | unknown | 529 | 529 | 0 | 0 | — |
 | Department of Consumer and Business Services, Health Insurance Marketplace | executive branch | unknown | 26 | 26 | 0 | 0 | — |
-| Department of Consumer and Business Services, Insurance Regulation | executive branch | unknown | 1001 | 1001 | 0 | 0 | — |
-| Department of Consumer and Business Services, Oregon Occupational Safety and Health Division | executive branch | unknown | 639 | 639 | 0 | 0 | — |
-| Department of Consumer and Business Services, Workers' Compensation Board | executive branch | unknown | 220 | 220 | 0 | 0 | — |
-| Department of Consumer and Business Services, Workers' Compensation Division | executive branch | unknown | 462 | 462 | 0 | 0 | — |
-| [Department of Corrections](department-of-corrections/_index.md) | executive branch | web | 992 | 992 | 0 | 0 | 2026-07-20 |
-| Department of Energy | executive branch | unknown | 421 | 421 | 0 | 0 | — |
-| Department of Energy, Energy Facility Siting Council | executive branch | unknown | 248 | 248 | 0 | 0 | — |
-| [Department of Environmental Quality](department-of-environmental-quality/_index.md) | executive branch | web | 1929 | 1929 | 0 | 0 | 2026-07-22 |
-| Department of Fish and Wildlife | executive branch | unknown | 1694 | 1694 | 0 | 0 | — |
-| Department of Forestry | executive branch | unknown | 523 | 523 | 0 | 0 | — |
-| Department of Geology and Mineral Industries | executive branch | unknown | 224 | 224 | 0 | 0 | — |
-| [Department of Human Services](department-of-human-services/_index.md) | executive branch | web | 164 | 164 | 0 | 0 | 2026-07-21 |
-| Department of Human Services, Aging and People with Disabilities and Developmental Disabilities | executive branch | unknown | 955 | 955 | 0 | 0 | 2026-07-21 |
-| Department of Human Services, Child Welfare Programs | executive branch | unknown | 661 | 661 | 0 | 0 | 2026-07-21 |
+| Department of Consumer and Business Services, Insurance Regulation | executive branch | unknown | 1095 | 1095 | 0 | 0 | — |
+| Department of Consumer and Business Services, Oregon Occupational Safety and Health Division | executive branch | unknown | 649 | 649 | 0 | 0 | — |
+| Department of Consumer and Business Services, Workers' Compensation Board | executive branch | unknown | 228 | 228 | 0 | 0 | — |
+| Department of Consumer and Business Services, Workers' Compensation Division | executive branch | unknown | 467 | 467 | 0 | 0 | — |
+| [Department of Corrections](department-of-corrections/_index.md) | executive branch | web | 1102 | 1102 | 0 | 0 | 2026-07-20 |
+| Department of Energy | executive branch | unknown | 498 | 498 | 0 | 0 | — |
+| Department of Energy, Energy Facility Siting Council | executive branch | unknown | 276 | 276 | 0 | 0 | — |
+| [Department of Environmental Quality](department-of-environmental-quality/_index.md) | executive branch | web | 2199 | 2199 | 0 | 0 | 2026-07-22 |
+| Department of Fish and Wildlife | executive branch | unknown | 1770 | 1770 | 0 | 0 | — |
+| Department of Forestry | executive branch | unknown | 606 | 606 | 0 | 0 | — |
+| Department of Geology and Mineral Industries | executive branch | unknown | 225 | 225 | 0 | 0 | — |
+| [Department of Human Services](department-of-human-services/_index.md) | executive branch | web | 173 | 173 | 0 | 0 | 2026-07-21 |
+| Department of Human Services, Aging and People with Disabilities and Developmental Disabilities | executive branch | unknown | 1099 | 1099 | 0 | 0 | 2026-07-21 |
+| Department of Human Services, Child Welfare Programs | executive branch | unknown | 764 | 764 | 0 | 0 | 2026-07-21 |
 | Department of Human Services, Home Care Commission | executive branch | unknown | 24 | 24 | 0 | 0 | 2026-07-21 |
-| Department of Human Services, Self-Sufficiency Programs | executive branch | unknown | 519 | 519 | 0 | 0 | 2026-07-21 |
-| Department of Human Services, Vocational Rehabilitation Services | executive branch | unknown | 105 | 105 | 0 | 0 | 2026-07-21 |
-| Department of Justice | executive branch | unknown | 748 | 748 | 0 | 0 | — |
-| Department of Public Safety Standards and Training | executive branch | unknown | 142 | 142 | 0 | 0 | — |
-| Department of Revenue | executive branch | unknown | 929 | 929 | 0 | 0 | — |
-| Department of State Lands | executive branch | unknown | 723 | 723 | 0 | 0 | — |
+| Department of Human Services, Self-Sufficiency Programs | executive branch | unknown | 565 | 565 | 0 | 0 | 2026-07-21 |
+| Department of Human Services, Vocational Rehabilitation Services | executive branch | unknown | 106 | 106 | 0 | 0 | 2026-07-21 |
+| Department of Justice | executive branch | unknown | 769 | 769 | 0 | 0 | — |
+| Department of Public Safety Standards and Training | executive branch | unknown | 189 | 189 | 0 | 0 | — |
+| Department of Revenue | executive branch | unknown | 1026 | 1026 | 0 | 0 | — |
+| Department of State Lands | executive branch | unknown | 782 | 782 | 0 | 0 | — |
 | Department of State Lands, South Slough National Estuarine Research Reserve | executive branch | unknown | 23 | 23 | 0 | 0 | — |
-| Department of State Police | executive branch | unknown | 130 | 130 | 0 | 0 | — |
-| Department of State Police, Office of State Fire Marshal | executive branch | unknown | 324 | 324 | 0 | 0 | — |
-| Department of State Police, Oregon State Athletic Commission | executive branch | unknown | 209 | 209 | 0 | 0 | — |
-| Department of Transportation | executive branch | unknown | 249 | 249 | 0 | 0 | — |
-| Department of Transportation, Driver and Motor Vehicle Services Division | executive branch | unknown | 580 | 580 | 0 | 0 | — |
-| Department of Transportation, Highway Division | executive branch | unknown | 419 | 419 | 0 | 0 | — |
-| Department of Transportation, Motor Carrier Transportation Division | executive branch | unknown | 194 | 194 | 0 | 0 | — |
-| Department of Transportation, Public Transit Division | executive branch | unknown | 81 | 81 | 0 | 0 | — |
-| Department of Transportation, Rail Division | executive branch | unknown | 158 | 158 | 0 | 0 | — |
-| Department of Transportation, Transportation Safety Division | executive branch | unknown | 47 | 47 | 0 | 0 | — |
-| Department of Veterans' Affairs | executive branch | unknown | 226 | 226 | 0 | 0 | — |
+| Department of State Police | executive branch | unknown | 133 | 133 | 0 | 0 | — |
+| Department of State Police, Office of State Fire Marshal | executive branch | unknown | 359 | 359 | 0 | 0 | — |
+| Department of State Police, Oregon State Athletic Commission | executive branch | unknown | 244 | 244 | 0 | 0 | — |
+| Department of Transportation | executive branch | unknown | 285 | 285 | 0 | 0 | — |
+| Department of Transportation, Driver and Motor Vehicle Services Division | executive branch | unknown | 603 | 603 | 0 | 0 | — |
+| Department of Transportation, Highway Division | executive branch | unknown | 439 | 439 | 0 | 0 | — |
+| Department of Transportation, Motor Carrier Transportation Division | executive branch | unknown | 195 | 195 | 0 | 0 | — |
+| Department of Transportation, Public Transit Division | executive branch | unknown | 83 | 83 | 0 | 0 | — |
+| Department of Transportation, Rail Division | executive branch | unknown | 195 | 195 | 0 | 0 | — |
+| Department of Transportation, Transportation Safety Division | executive branch | unknown | 49 | 49 | 0 | 0 | — |
+| Department of Veterans' Affairs | executive branch | unknown | 243 | 243 | 0 | 0 | — |
 | Eastern Oregon Border Economic Development Board | executive branch | unknown | 8 | 8 | 0 | 0 | — |
 | Economic Recovery Review Council | executive branch | unknown | 9 | 9 | 0 | 0 | — |
-| Employment Department | executive branch | unknown | 173 | 173 | 0 | 0 | — |
-| Employment Relations Board | executive branch | unknown | 126 | 126 | 0 | 0 | — |
-| Higher Education Coordinating Commission | executive branch | unknown | 37 | 37 | 0 | 0 | — |
-| Higher Education Coordinating Commission, Office of Community Colleges and Workforce Development | executive branch | unknown | 58 | 58 | 0 | 0 | — |
-| Higher Education Coordinating Commission, Office of Degree Authorization | executive branch | unknown | 43 | 43 | 0 | 0 | — |
-| Higher Education Coordinating Commission, Office of Student Access and Completion | executive branch | unknown | 191 | 191 | 0 | 0 | — |
+| Employment Department | executive branch | unknown | 299 | 299 | 0 | 0 | — |
+| Employment Relations Board | executive branch | unknown | 127 | 127 | 0 | 0 | — |
+| Higher Education Coordinating Commission | executive branch | unknown | 122 | 122 | 0 | 0 | — |
+| Higher Education Coordinating Commission, Office of Community Colleges and Workforce Development | executive branch | unknown | 65 | 65 | 0 | 0 | — |
+| Higher Education Coordinating Commission, Office of Degree Authorization | executive branch | unknown | 45 | 45 | 0 | 0 | — |
+| Higher Education Coordinating Commission, Office of Student Access and Completion | executive branch | unknown | 219 | 219 | 0 | 0 | — |
 | Judicial Department | executive branch | unknown | 3 | 3 | 0 | 0 | — |
-| Land Conservation and Development Department | executive branch | unknown | 449 | 449 | 0 | 0 | — |
-| Land Use Board of Appeals | executive branch | unknown | 25 | 25 | 0 | 0 | — |
-| Landscape Architect Board | semi-independent | unknown | 50 | 50 | 0 | 0 | — |
-| Landscape Contractors Board | semi-independent | unknown | 255 | 255 | 0 | 0 | — |
-| Legislative Administration Committee | executive branch | unknown | 1 | 1 | 0 | 0 | — |
+| Land Conservation and Development Department | executive branch | unknown | 551 | 551 | 0 | 0 | — |
+| Land Use Board of Appeals | executive branch | unknown | 32 | 32 | 0 | 0 | — |
+| Landscape Architect Board | semi-independent | unknown | 51 | 51 | 0 | 0 | — |
+| Landscape Contractors Board | semi-independent | unknown | 256 | 256 | 0 | 0 | — |
+| Legislative Administration Committee | executive branch | unknown | 3 | 3 | 0 | 0 | — |
 | Long Term Care Ombudsman | executive branch | unknown | 21 | 21 | 0 | 0 | — |
-| Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists | executive branch | unknown | 70 | 70 | 0 | 0 | — |
-| Mental Health Regulatory Agency, Oregon Board of Psychology | executive branch | unknown | 48 | 48 | 0 | 0 | — |
+| Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists | executive branch | unknown | 79 | 79 | 0 | 0 | — |
+| Mental Health Regulatory Agency, Oregon Board of Psychology | executive branch | unknown | 56 | 56 | 0 | 0 | — |
 | Mortuary and Cemetery Board | executive branch | unknown | 44 | 44 | 0 | 0 | — |
-| Occupational Therapy Licensing Board | executive branch | unknown | 34 | 34 | 0 | 0 | — |
+| Occupational Therapy Licensing Board | executive branch | unknown | 37 | 37 | 0 | 0 | — |
 | Office of the Governor | unclassified | unknown | 1 | 1 | 0 | 0 | — |
-| Office of Training, Investigations and Safety | executive branch | unknown | 259 | 259 | 0 | 0 | — |
+| Office of Training, Investigations and Safety | executive branch | unknown | 296 | 296 | 0 | 0 | — |
 | Oregon 529 Savings Board | executive branch | unknown | 28 | 28 | 0 | 0 | — |
-| Oregon Board of Accountancy | executive branch | unknown | 60 | 60 | 0 | 0 | — |
-| Oregon Board of Dentistry | executive branch | unknown | 108 | 108 | 0 | 0 | — |
-| Oregon Board of Naturopathic Medicine | executive branch | unknown | 45 | 45 | 0 | 0 | — |
-| Oregon Board of Physical Therapy | semi-independent | unknown | 54 | 54 | 0 | 0 | — |
-| Oregon Business Development Department | executive branch | unknown | 613 | 613 | 0 | 0 | — |
-| Oregon Criminal Justice Commission | executive branch | unknown | 157 | 157 | 0 | 0 | — |
-| Oregon Department of Aviation | executive branch | unknown | 172 | 172 | 0 | 0 | — |
-| Oregon Department of Education | executive branch | unknown | 856 | 856 | 0 | 0 | — |
-| Oregon Department of Education, Early Learning Division | executive branch | unknown | 251 | 251 | 0 | 0 | — |
+| Oregon Board of Accountancy | executive branch | unknown | 73 | 73 | 0 | 0 | — |
+| Oregon Board of Dentistry | executive branch | unknown | 122 | 122 | 0 | 0 | — |
+| Oregon Board of Naturopathic Medicine | executive branch | unknown | 56 | 56 | 0 | 0 | — |
+| Oregon Board of Physical Therapy | semi-independent | unknown | 57 | 57 | 0 | 0 | — |
+| Oregon Business Development Department | executive branch | unknown | 827 | 827 | 0 | 0 | — |
+| Oregon Criminal Justice Commission | executive branch | unknown | 195 | 195 | 0 | 0 | — |
+| Oregon Department of Aviation | executive branch | unknown | 173 | 173 | 0 | 0 | — |
+| Oregon Department of Education | executive branch | unknown | 1018 | 1018 | 0 | 0 | — |
+| Oregon Department of Education, Early Learning Division | executive branch | unknown | 681 | 681 | 0 | 0 | — |
 | Oregon Department of Education, Fair Dismissal Appeals Board | executive branch | unknown | 31 | 31 | 0 | 0 | — |
-| Oregon Department of Education, Youth Development Division | executive branch | unknown | 37 | 37 | 0 | 0 | — |
+| Oregon Department of Education, Youth Development Division | executive branch | unknown | 45 | 45 | 0 | 0 | — |
 | Oregon Facilities Authority | executive branch | unknown | 11 | 11 | 0 | 0 | — |
-| Oregon Film and Video Office | semi-independent | unknown | 31 | 31 | 0 | 0 | — |
+| Oregon Film and Video Office | semi-independent | unknown | 35 | 35 | 0 | 0 | — |
 | Oregon Forest Resources Institute | executive branch | unknown | 12 | 12 | 0 | 0 | — |
-| Oregon Government Ethics Commission | executive branch | unknown | 42 | 42 | 0 | 0 | — |
+| Oregon Government Ethics Commission | executive branch | unknown | 59 | 59 | 0 | 0 | — |
 | [Oregon Health Authority](oregon-health-authority/_index.md) | executive branch | web | 308 | 308 | 0 | 0 | 2026-07-21 |
-| Oregon Health Authority Equity and Inclusion Division | executive branch | unknown | 44 | 44 | 0 | 0 | 2026-07-21 |
-| Oregon Health Authority, Health Licensing Office | executive branch | unknown | 284 | 284 | 0 | 0 | 2026-07-21 |
-| Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board | executive branch | unknown | 11 | 11 | 0 | 0 | 2026-07-21 |
-| Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians | executive branch | unknown | 20 | 20 | 0 | 0 | 2026-07-21 |
-| Oregon Health Authority, Health Licensing Office, Board of Cosmetology | executive branch | unknown | 65 | 65 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority Equity and Inclusion Division | executive branch | unknown | 59 | 59 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Licensing Office | executive branch | unknown | 315 | 315 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board | executive branch | unknown | 12 | 12 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians | executive branch | unknown | 21 | 21 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Licensing Office, Board of Cosmetology | executive branch | unknown | 77 | 77 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery | executive branch | unknown | 25 | 25 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians | executive branch | unknown | 8 | 8 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board | executive branch | unknown | 14 | 14 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board | executive branch | unknown | 18 | 18 | 0 | 0 | 2026-07-21 |
-| Oregon Health Authority, Health Policy and Analytics | executive branch | unknown | 134 | 134 | 0 | 0 | 2026-07-21 |
-| Oregon Health Authority, Health Systems Division: Addiction Services | executive branch | unknown | 128 | 128 | 0 | 0 | 2026-07-21 |
-| Oregon Health Authority, Health Systems Division: Behavioral Health Services | executive branch | unknown | 495 | 495 | 0 | 0 | 2026-07-21 |
-| Oregon Health Authority, Health Systems Division: Medical Assistance Programs | executive branch | unknown | 717 | 717 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Policy and Analytics | executive branch | unknown | 189 | 189 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Systems Division: Addiction Services | executive branch | unknown | 136 | 136 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Systems Division: Behavioral Health Services | executive branch | unknown | 649 | 649 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Systems Division: Medical Assistance Programs | executive branch | unknown | 859 | 859 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Oregon Prescription Drug Program | executive branch | unknown | 7 | 7 | 0 | 0 | 2026-07-21 |
-| Oregon Health Authority, Public Employees' Benefit Board | executive branch | unknown | 70 | 70 | 0 | 0 | 2026-07-21 |
-| Oregon Health Authority, Public Health Division | executive branch | unknown | 2294 | 2294 | 0 | 0 | 2026-07-21 |
-| Oregon Housing and Community Services Department | executive branch | unknown | 603 | 603 | 0 | 0 | — |
+| Oregon Health Authority, Public Employees' Benefit Board | executive branch | unknown | 71 | 71 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Public Health Division | executive branch | unknown | 2657 | 2657 | 0 | 0 | 2026-07-21 |
+| Oregon Housing and Community Services Department | executive branch | unknown | 788 | 788 | 0 | 0 | — |
 | Oregon Investment Council | executive branch | unknown | 3 | 3 | 0 | 0 | — |
-| Oregon Liquor Control Commission | executive branch | unknown | 415 | 415 | 0 | 0 | — |
-| Oregon Medical Board | executive branch | unknown | 189 | 189 | 0 | 0 | — |
+| Oregon Liquor Control Commission | executive branch | unknown | 477 | 477 | 0 | 0 | — |
+| Oregon Medical Board | executive branch | unknown | 222 | 222 | 0 | 0 | — |
 | [Oregon Military Department](oregon-military-department/_index.md) | executive branch | web | 5 | 5 | 0 | 0 | 2026-07-21 |
-| Oregon Military Department, Office of Emergency Management | executive branch | unknown | 70 | 70 | 0 | 0 | 2026-07-21 |
-| Oregon Patient Safety Commission | semi-independent | unknown | 80 | 80 | 0 | 0 | — |
-| Oregon Public Employees Retirement System | executive branch | unknown | 272 | 272 | 0 | 0 | — |
-| Oregon Racing Commission | executive branch | unknown | 168 | 168 | 0 | 0 | — |
-| Oregon State Library | executive branch | unknown | 37 | 37 | 0 | 0 | — |
-| Oregon State Lottery | semi-independent | unknown | 252 | 252 | 0 | 0 | — |
-| Oregon State Marine Board | executive branch | unknown | 254 | 254 | 0 | 0 | — |
-| Oregon State Treasury | constitutional elected | unknown | 70 | 70 | 0 | 0 | — |
+| Oregon Military Department, Office of Emergency Management | executive branch | unknown | 82 | 82 | 0 | 0 | 2026-07-21 |
+| Oregon Patient Safety Commission | semi-independent | unknown | 95 | 95 | 0 | 0 | — |
+| Oregon Public Employees Retirement System | executive branch | unknown | 281 | 281 | 0 | 0 | — |
+| Oregon Racing Commission | executive branch | unknown | 178 | 178 | 0 | 0 | — |
+| Oregon State Library | executive branch | unknown | 39 | 39 | 0 | 0 | — |
+| Oregon State Lottery | semi-independent | unknown | 283 | 283 | 0 | 0 | — |
+| Oregon State Marine Board | executive branch | unknown | 261 | 261 | 0 | 0 | — |
+| Oregon State Treasury | constitutional elected | unknown | 123 | 123 | 0 | 0 | — |
 | Oregon Tourism Commission | semi-independent | unknown | 6 | 6 | 0 | 0 | — |
-| Oregon Utility Notification Center | executive branch | unknown | 12 | 12 | 0 | 0 | — |
-| [Oregon Watershed Enhancement Board](oregon-watershed-enhancement-board/_index.md) | executive branch | web | 123 | 123 | 0 | 0 | 2026-07-21 |
-| Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program | executive branch | unknown | 63 | 63 | 0 | 0 | 2026-07-21 |
+| Oregon Utility Notification Center | executive branch | unknown | 13 | 13 | 0 | 0 | — |
+| [Oregon Watershed Enhancement Board](oregon-watershed-enhancement-board/_index.md) | executive branch | web | 153 | 153 | 0 | 0 | 2026-07-21 |
+| Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program | executive branch | unknown | 65 | 65 | 0 | 0 | 2026-07-21 |
 | Oregon Wine Board | semi-independent | unknown | 6 | 6 | 0 | 0 | — |
-| [Oregon Youth Authority](oregon-youth-authority/_index.md) | executive branch | web | 397 | 397 | 0 | 0 | 2026-07-21 |
-| Parks and Recreation Department | executive branch | unknown | 462 | 462 | 0 | 0 | — |
-| Psychiatric Security Review Board | executive branch | unknown | 208 | 208 | 0 | 0 | — |
+| [Oregon Youth Authority](oregon-youth-authority/_index.md) | executive branch | web | 410 | 410 | 0 | 0 | 2026-07-21 |
+| Parks and Recreation Department | executive branch | unknown | 540 | 540 | 0 | 0 | — |
+| Psychiatric Security Review Board | executive branch | unknown | 227 | 227 | 0 | 0 | — |
 | Public Records Advocate | unclassified | unknown | 1 | 1 | 0 | 0 | — |
-| [Public Utility Commission](public-utility-commission/_index.md) | executive branch | web | 797 | 797 | 0 | 0 | 2026-07-21 |
-| Public Utility Commission, Oregon Board of Maritime Pilots | executive branch | unknown | 54 | 54 | 0 | 0 | 2026-07-21 |
-| Real Estate Agency | executive branch | unknown | 204 | 204 | 0 | 0 | — |
+| [Public Utility Commission](public-utility-commission/_index.md) | executive branch | web | 878 | 878 | 0 | 0 | 2026-07-21 |
+| Public Utility Commission, Oregon Board of Maritime Pilots | executive branch | unknown | 57 | 57 | 0 | 0 | 2026-07-21 |
+| Real Estate Agency | executive branch | unknown | 229 | 229 | 0 | 0 | — |
 | SAIF Corporation | unclassified | unknown | 1 | 1 | 0 | 0 | — |
 | Secretary of State | constitutional elected | unknown | 1 | 1 | 0 | 0 | 2026-08-01 |
-| Secretary of State, Archives Division | constitutional elected | unknown | 210 | 210 | 0 | 0 | 2026-08-01 |
-| Secretary of State, Audits Division | constitutional elected | unknown | 42 | 42 | 0 | 0 | 2026-08-01 |
+| Secretary of State, Archives Division | constitutional elected | unknown | 235 | 235 | 0 | 0 | 2026-08-01 |
+| Secretary of State, Audits Division | constitutional elected | unknown | 44 | 44 | 0 | 0 | 2026-08-01 |
 | Secretary of State, Business Services Division | constitutional elected | unknown | 33 | 33 | 0 | 0 | 2026-08-01 |
 | Secretary of State, Corporation Division | constitutional elected | unknown | 153 | 153 | 0 | 0 | 2026-08-01 |
-| Secretary of State, Elections Division | constitutional elected | unknown | 99 | 99 | 0 | 0 | 2026-08-01 |
+| Secretary of State, Elections Division | constitutional elected | unknown | 120 | 120 | 0 | 0 | 2026-08-01 |
 | Southern Oregon University | executive branch | unknown | 10 | 10 | 0 | 0 | — |
-| State Board of Architect Examiners | semi-independent | unknown | 31 | 31 | 0 | 0 | — |
-| Teacher Standards and Practices Commission | executive branch | unknown | 296 | 296 | 0 | 0 | — |
+| State Board of Architect Examiners | semi-independent | unknown | 32 | 32 | 0 | 0 | — |
+| Teacher Standards and Practices Commission | executive branch | unknown | 330 | 330 | 0 | 0 | — |
 | Travel Information Council | semi-independent | unknown | 39 | 39 | 0 | 0 | — |
-| Veterinary Medical Examining Board | executive branch | unknown | 38 | 38 | 0 | 0 | — |
-| Water Resources Department | executive branch | unknown | 1059 | 1059 | 0 | 0 | — |
+| Veterinary Medical Examining Board | executive branch | unknown | 40 | 40 | 0 | 0 | — |
+| Water Resources Department | executive branch | unknown | 1151 | 1151 | 0 | 0 | — |
 
 Sub-units are listed under their own slug when they carry their own documents; a sub-unit's documents may also live under its parent's tree (see each agency's `_index.md`). 'Unrecoverable' = content_exception documents (image-only scans no OCR pass could pass the quality gate on).

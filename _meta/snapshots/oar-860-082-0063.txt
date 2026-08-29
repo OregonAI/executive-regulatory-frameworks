@@ -1,0 +1,217 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Utility Commission 
+ Chapter 860 
+ 
+ 
+ 
+ 
+ 
+ Division 82 SMALL GENERATOR INTERCONNECTION RULES 
+ 860-082-0063 
+ Supplemental Review 
+ 
+ (1) To accept the offer of a supplemental review, the applicant must submit a signed copy of the Supplemental Review Agreement and pay a supplemental review fee of $1,000, both within 10 business days of the offer. If the written agreement and fee have not been received within that timeframe, the Application will be deemed withdrawn unless the applicant has notified the public utility that they wish to continue being evaluated under the Tier 4 review procedures. 
+
+ (2) Within 20 business days of an applicant’s election to undergo supplemental review, the public utility must perform supplemental review using the screens set forth below, notify the applicant of the results, and include with the notification a written report of the analysis and data underlying the public utility’s determinations under the screens. 
+
+ (a) Supplemental Review Penetration Screen: Where 12 months of line section minimum load data (including onsite load, but not station service load served by the proposed small generator facility) are available, can be calculated, can be estimated from existing data, or can be determined from a power flow model, the aggregate export capacity on the feeder or line section is less than 100 percent of the relevant minimum load on the feeder. If minimum load data are not available, or cannot be calculated, estimated, or determined, the aggregated export capacity on the line section is less than 30 percent of the peak load for all line Sections bounded by automatic sectionalizing devices upstream of the proposed project. 
+
+ (A) Load that is co-located with load-following, non-exporting, or export-limited projects should be appropriately accounted for. The public utility may take the impacts of non-export or export limited generation on the calculation of daytime minimum load when evaluating potential system impacts. 
+
+ (B) The interconnecting public utility will not consider as part of the aggregate export capacity for purposes of this screen the export capacity of generators known to be already reflected in the minimum load data, including combined heat and power (CHP) facility capacity. 
+
+ (b) Voltage and Power Quality Screen. In aggregate with existing generation on the line section: 
+
+ (A) The voltage regulation on the line section can be maintained in compliance with relevant requirements under all system conditions; 
+
+ (B) The voltage fluctuation is within acceptable limits as defined by IEEE Std 1547™; 
+
+ (C) The harmonic levels meet IEEE 1547 limits at the Point of Interconnection; and 
+
+ (D) Substation transformer backfeed screen. Where existing protective devices and equipment cannot adequately support backfeed, the aggregated export capacity on the substation transformer must be less than 80 percent of the relevant minimum load for the substation transformer. 
+
+ (E) Supplemental Grounding Screen: If the project failed the Line Configuration Screen, apply the Supplemental Grounding Screen in paragraphs (F)-(H). If the project limits export pursuant to OAR 860-082-0033, the export capacity must be included in any analysis including power flow simulations. 
+
+ (F) For projects with a rotating machine, if effective grounding is maintained, the project passes the screen. 
+
+ (G) For projects with a three-phase inverter, apply one of the following screens: 
+
+ (i) If the line-to-neutral connected load on the feeder or line section is greater than 33 percent of peak load on the feeder or line-section, the project passes the screen. 
+
+ (ii) If using a supplemental grounding software tool: 
+
+ (I)  If the tool determines that supplemental grounding is not required to maintain effective grounding, the project passes this screen. 
+
+ (II) If the tool determines that supplemental grounding is required, the applicant must agree to modify the project to include supplemental grounding. If the applicant does not agree to modify the project, the project fails this screen. 
+
+ (H) If using detailed hosting capacity analysis that incorporates evaluation of temporary overvoltage risk for inverters, the project passes the screen if the nameplate rating of the project is below the available hosting capacity at the Point of Interconnection. 
+
+ (c) Safety and Reliability Screen. The location of the proposed small generator facility and the aggregate export capacity on the line section do not create impacts to safety or reliability that cannot be adequately addressed without application of the study process. If the project limits export pursuant to OAR 860-082-0033, the export capacity must be included in any analysis, including power flow simulations, except when assessing fault current contribution. To assess fault current contribution, the analysis must use the rated fault current; for example, the applicant may provide manufacturer test data (pursuant to the fault current test described in IEEE 1547.1-2020 clause 5.18) showing that the fault current is independent of the nameplate rating. The interconnecting public utility may consider the following factors and others in determining potential impacts to safety and reliability in applying this screen: 
+
+ (A) Whether the line section has significant minimum loading levels dominated by a small number of customers (i.e., several large commercial customers). 
+
+ (B) Whether the loading along the line section is uniform or even. 
+
+ (C) Whether the project is located in close proximity to the substation (i.e., less than 2.5 electrical circuit miles), and whether the line section from the substation to the Point of Interconnection is a Mainline rated for normal and emergency ampacity. 
+
+ (D) Whether the project incorporates an adjustable time delay function to prevent reconnection of the generator to the system until system voltage and frequency are within normal limits for a prescribed time. 
+
+ (E) Whether operational flexibility is reduced by the project, such that transfer of the line section(s) of the Project to a neighboring distribution circuit/substation may trigger overloads or voltage issues. 
+
+ (F) Whether the project employs equipment or systems certified by a recognized standards organization to address technical issues such as, but not limited to, islanding, reverse power flow, or voltage quality. 
+
+ (3) If the proposed interconnection passes the supplemental screens, the Application must be approved, and the public utility will provide the applicant an executed Interconnection Agreement pursuant to the procedure set forth in OAR 860-082-0025(7)(e). 
+
+ (4) After receiving an Interconnection Agreement executed by the public utility, the applicant must proceed under the terms of the applicable level of review under which the Application was initially studied. 
+
+ (5) Applicants undergoing Supplemental Review will be able to access, review, and verify minimum load calculations except in cases where the minimum load data contain identifiable individual customer data. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 183, ORS 756 & ORS 757 
+ 
+ 
+ Statutes/Other Implemented:  ORS 756.040 & ORS 756.060 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUC 4-2024, adopt filed 04/09/2024, effective 04/09/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

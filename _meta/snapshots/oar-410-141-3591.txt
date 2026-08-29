@@ -1,0 +1,273 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 141 OREGON HEALTH PLAN 
+ 410-141-3591 
+ MCE Interoperability Requirements 
+ 
+ (1) Interoperability and Access to Health Information 
+
+ (a) MCEs shall comply with all federal regulations set forth in the CMS Interoperability and Patient Access Final Rule. 
+
+ (b) All MCEs shall review the Office of National Coordinator for Health Information Technology (ONC) 21st Century Cures Act Final Rule relating to determine the applicably of the rule to their organizations’ s obligation to comply with the final rule. This includes the organization’s status as an Actor and the applicability of information blocking. 
+
+ (2) For the purpose of this rule, the following definitions shall apply: 
+
+ (a) “Application Programming Interface” (API) – means a technological interface defining the kinds of programming calls or requests that may be performed against an underlying data source; 
+
+ (b) “Publicly Accessible’’ means that any person using commonly available technology to browse the internet could access the information without any preconditions or additional steps, such as: 
+
+ (A) A fee for access to the documentation; 
+
+ (B) A requirement to receive a copy of the material via email; 
+
+ (C) A requirement to register or create an account to receive the documentation; or 
+
+ (D) A requirement to read promotional material or agree to receive future communications from the organization making the documentation available. 
+
+ (c) “Third-Party Application” means a computer program that is developed and distributed by an organization or individual other than that which owns, administers, or manufactures the data being accessed; 
+
+ (d) “Data Sharing Agreement” means a formal contract detailing what data are being shared and the appropriate use of those data; 
+
+ (e) “Information blocking” means a practice by a health care provider, health IT developer, health information exchange, or health information network that, except as required by law or specified by the Secretary of Health & Human Services (HHS) as a reasonable and necessary activity, is likely to interfere with access, exchange, or use of electronic health information. 
+
+ (3) MCEs must implement and maintain standards-based APIs that permits Third-Party Applications to retrieve data, with the approval and at the direction of the current individual member or the member’s personal representative through the use of common technologies, without special effort from the member or Data Sharing Agreement with the Third-Party Application. APIs must meet the following requirements: 
+
+ (a) Interoperability requirements at 45 CFR 170.215 and technical requirements found at Federal Regulation § 422.119(c) including identity proofing and authentication processes that must be met by Third-Party Application developers in order to connect to the API and access the specific member’s data through the API; 
+
+ (b) MCEs must comply with content and vocabulary standard requirements as applicable to the data type or data element found at 45 CFR 170.213 and 45 CFR part 162 and 42 CFR Part 406 § 423.160 unless alternate standards are required by other applicable law; 
+
+ (c) For each API implemented, MCEs shall make publicly accessible, by posting directly on its website or via publicly accessible hyperlink(s), complete accompanying documentation that contains, at a minimum the following information: 
+
+ (A) API syntax, function names, required and optional parameters supported and their data types, return variables and their types/structures, exceptions and exception handling methods and their returns; 
+
+ (B) The software components and configurations that an application must use in order to successfully interact with the API and process its response(s); and 
+
+ (C) All applicable technical requirements and attributes necessary for an application to be registered with any authorization server(s) deployed in conjunction with the API. 
+
+ (4) MCEs must conduct routine monitoring and testing and update as appropriate to ensure the API functions properly, including assessments to verify that the API is fully and successfully implementing privacy and security features to ensure compliance with all state and federal laws to protect the privacy and security of individually identifiable data. 
+
+ (5) MCEs shall deny or discontinue any third-party application’s connection to the API if it: 
+
+ (a) Reasonably determines, consistent with its security risk analysis under 45 CFR part 164 subpart C, that allowing an application to connect or remain connected to the API would present an unacceptable level of risk to the security of protected health information on the MCE’s systems; and 
+
+ (b) Makes this determination using objective, verifiable criteria that are applied fairly and consistently across all applications and developers through which members seek to access their electronic health information as defined at 45 CFR 171.102, including but not limited to criteria that may rely on automated monitoring and risk mitigation tools. 
+
+ (6) MCEs must provide in a readily accessible manner on their public website and through other appropriate mechanisms through which it ordinarily communicates with current and former members seeking to access their health information held by the MCE, educational resources in non-technical, simple and easy-to-understand language explaining at a minimum: 
+
+ (a) General information on steps the member may consider taking to help protect the privacy and security of their health information, including factors to consider in selecting an application including secondary uses of data, and the importance of understanding the security and privacy practices of any application to which they will entrust their health information; and 
+
+ (b) An overview of which types of organizations or individuals are and are not likely to be HIPAA covered entities, the oversight responsibilities of the US Department of Health and Human Services, Office of Civil Rights (OCR) and the Federal Trade Commission (FTC), and how to submit a complaint to both agencies. 
+
+ (7) MCEs must implement and maintain a standards-based API that permits third-party applications to retrieve, with the approval and at the direction of a member or the member’s personal representative, data specified in this section through the use of common technologies and without special effort from the member: 
+
+ (a) Data concerning adjudicated claims, including claims data for payment decisions that may be appealed, were appealed, or are in the process of appeal, and provider remittances no later than one (1) business day after a claim is adjudicated; 
+
+ (b) Data concerning adjudicated claims for prescription drug utilization including those carved out from MCE contracts, including remittances, no later than one (1) business day after a claim is adjudicated or carve-out utilization is reported to the MCE; 
+
+ (c) All encounter data, including encounter data from any network providers the MCE is compensating on the basis of capitation payments, adjudicated claims and encounter data from any subcontractors must be available no later than one (1) business day after data concerning the encounter is received by the MCE; 
+
+ (d) Clinical data, including laboratory results, if the MCE maintains any such data, no later than one (1) business day after the data is received by the MCE; and 
+
+ (e) Formulary data that includes covered outpatient drugs, and any tiered formulary structure or utilization management procedure which pertains to those drugs. 
+
+ (8) MCEs shall make provider directory information available publicly through a standards-based API. Information shall include provider names, addresses, phone numbers, and specialty. APIs shall be implemented consistent with Federal Regulation §422.119. Information shall be updated no later than 30 calendar days after the MCE receives provider directory information or updates to provider directory information. 
+
+ (9) MCEs shall provide a process for the electronic exchange of, at a minimum, the data classes and elements included in the content standard adopted at 45 CFR 170.213 and identified in the United States Core Data for Interoperability (USCDI): 
+
+ (a) Such information received by the MCE shall be incorporated into the MCE’s records about the current member; 
+
+ (b) Upon approval and at the direction of a current or former member or their personal representative, the MCE shall: 
+
+ (A) Receive all such data for a current member from any other payer obligated to provide it under federal regulations, that has provided coverage to the enrollee within the preceding 5 years; 
+
+ (B) At any time the member is currently enrolled in the MCE and up to 5 years after disenrollment, send all such data to any other payer that currently covers the enrollee or a payer the enrollee or the enrollee’s personal representative specifically requests receive the data; and 
+
+ (C) Send data received from another payer obligated to provide it under federal regulations, in the electronic form and format it was received. 
+
+ (c) MCEs shall comply with the requirements of this section with regard to data they maintain with a date of service on or after January 1, 2016. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 & ORS 414.065 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 94-2025, amend filed 12/22/2025, effective 01/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 56-2021, amend filed 12/30/2021, effective 01/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 28-2021, adopt filed 06/28/2021, effective 07/01/2021 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

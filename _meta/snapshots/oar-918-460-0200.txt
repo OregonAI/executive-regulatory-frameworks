@@ -1,0 +1,199 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Building Codes Division - Chapter 918 
+ 
+ 
+ 
+ 
+ Division 460 STRUCTURAL AND ENERGY EFFICIENCY SPECIALTY CODES 
+ 918-460-0200 
+ Electric Vehicle Charging Station Infrastructure Requirements 
+ 
+ (1) This rule amends the Oregon Structural Specialty Code to require certain buildings to install electric vehicle charging infrastructure at a minimum of 20 percent of the vehicle parking spaces in the garage or parking area on the building’s site, or the minimum percentage required by local government, in accordance with the requirements of ORS 455.417. 
+
+ (2) This rule only applies to newly constructed buildings and newly constructed garages or parking areas located on the site and serving the following building types, excluding townhouses as defined in ORS 197.758: 
+
+ (a) Commercial buildings under private ownership; 
+
+ (b) Multifamily residential buildings with five or more residential dwelling units; and 
+
+ (c) Mixed-use buildings consisting of privately owned commercial space and five or more residential dwelling units. 
+
+ (3) Coordination with the Oregon Electrical Specialty Code (OESC). 
+
+ (a) Unless otherwise specified in this rule, when terms used in this rule have been defined in the OESC, the OESC definitions will be used. 
+
+ (b) For purposes of this rule a Level 2 charger means Level 2 Electric Vehicle Supply Equipment supplied by not less than 40 amps at 208/240 volts, unless otherwise defined in the OESC. 
+
+ (c) The use or planned use of energy management systems in compliance with the requirements of the OESC may be included when determining the infrastructure requirements of this rule, including the size or planned size of a service. 
+
+ (d) All electrical installations must comply with the provisions of the OESC. 
+
+ (4) The calculation of the minimum number of parking spaces required to have electric vehicle charging infrastructure is determined by the following methods: 
+
+ (a) No less than 20 percent, rounded up to the nearest whole number, of the spaces in the garage or parking area for the building, excluding overflow or seasonal parking; or 
+
+ (b) When a local jurisdiction has increased the minimum required percentage of spaces to be provided with electric vehicle charging station infrastructure through a land use process in accordance with ORS 455.417(4), the number of spaces will be determined by the local process. The calculated number of spaces may not be less than the calculated number of spaces under section (4)(a) of this rule. 
+
+ (5) Newly constructed buildings identified in section (2) are required to install electric vehicle charging station infrastructure consisting of a conduit system described in section (6) and at least one of the following options: 
+
+ (a) Provision of building electrical service, sized for the anticipated load of electric vehicle charging stations, that has overcurrent devices necessary for electric vehicle charging stations or has adequate space to add overcurrent devices; 
+
+ (b) A designated space within a building to add electrical service with capacity for electric vehicle charging stations; or 
+
+ (c) A designated location on building property, in or adjacent to a landscaped area, for installing remote service for electric vehicle charging stations. 
+
+ (6) A conduit system installed from the building electrical service, or from the dedicated space or location for a future electrical service as described in subsection (5)(b) or (5)(c), to parking spaces that can support, at a minimum, electrical wiring for the installation of one level 2 charger for each parking space. Both ends of the conduit must be labelled to show that the conduit is provided for future electric vehicle supply equipment. 
+
+ (7) The installation of a level 2 charger or level 3 DC fast charger at a parking space satisfies the infrastructure requirements of this rule for that parking space. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 455.030 & ORS 455.417 
+ 
+ 
+ Statutes/Other Implemented:  ORS 455.417 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BCD 6-2022, adopt filed 06/30/2022, effective 07/01/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

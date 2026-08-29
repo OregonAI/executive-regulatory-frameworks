@@ -1,0 +1,197 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
+ 
+ 
+ 
+ 
+ Division 127 HOME HEALTH CARE SERVICES 
+ 410-127-0046 
+ Electronic Visit Verification (EVV) 
+ 
+ (1) The Home Health Care Agencies must comply with Section 12006(a) of the 21st Century Cures Act by electronically verifying Home Health services. Oregon Medicaid has selected the Provider Choice Model for EVV. Home Health Care agencies must provide a method to capture EVV information that meets the requirements of the 21st Century Cures Act. 
+
+ (2) The submission of EVV data to the Authority by the Home Health Care agency provider is certification that the foregoing information is true, accurate, and complete. 
+
+ (a) Provider specific EVV solutions that do not capture the start time and end time to the minute are not EVV compliant; 
+
+ (b) Provider specific EVV solutions that do not capture geo location coordinates at the start time and again at the end time of service provided are not EVV compliant; 
+
+ (c) Provider alteration of one or more data points in a provider specific EVV solution record, prior to sending that record to the Department or Authority for payment is prohibited; 
+
+ (d) Home health services that are not EVV compliant are not eligible for payment and payments may be denied or recovered from the Home Health Care agency provider; 
+
+ (e) The Authority does not grant exceptions to Home Health Care agency providers for provider specific EVV solutions. A provider who is enrolled by the Authority shall comply with department guidance to determine whether a limited exception for an individual or a rendering provider employed by the provider may be permitted by the Authority. See administrative rule chapter 411; 
+
+ (f) The requirement to use EVV does not apply to individuals enrolled and living in a residential service setting, including 24-hour group homes, foster care homes, supported living, or receiving On the Job Attendant Care, or Day Support Activities. EVV does not include any employment or community transportation services. 
+
+ (3) The following data elements are required to be reported to Oregon Health Authority monthly: 
+
+ (a) Provider number of Agency; 
+
+ (b) Individual name of provider rendering the service; 
+
+ (c) Client prime number; 
+
+ (d) Service Date; 
+
+ (e) Start and end time (to the minute); 
+
+ (f) Location (geo location) of service delivery; 
+
+ (g) Type of service performed; 
+
+ (4) Home Health Agencies must use the reporting template and submit reports each month to HH.EVVData@oha.oregon.gov. 
+
+ (5) Payment by the Authority or Department does not restrict or limit the Authority or any state or federal oversight entity’s right to review or audit a claim before or after the payment. Payment may be denied or subject to recovery if the review or audit determines the care, service or item was not provided in accordance with this EVV rule or does not meet the criteria for quality or medical appropriateness of the care, service or item or payment. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 413.042 
+ 
+ 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 91-2023, adopt filed 12/21/2023, effective 01/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

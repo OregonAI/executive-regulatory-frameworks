@@ -29,7 +29,14 @@ verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by: []
+  implemented_by:
+    - oar-471-070-1020
+    - oar-471-070-1030
+    - oar-471-070-1410
+    - oar-471-070-1445
+    - oar-471-070-1450
+    - oar-471-070-1470
+    - oar-471-070-1480
   references_external: []
   related: []
   supersedes: []

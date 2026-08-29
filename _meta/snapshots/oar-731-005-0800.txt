@@ -1,0 +1,253 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Transportation 
+ Chapter 731 
+ 
+ 
+ 
+ 
+ 
+ Division 5 PUBLIC CONTRACT RULES; HIGHWAY AND BRIDGE PROJECTS 
+ 731-005-0800 
+ Clean Diesel Construction Standard 
+ 
+ (1) The Oregon Department of Transportation does not adopt any Oregon Department of Justice Division 049 rule related to diesel engine requirements pursuant to ORS 279C.537. The Oregon Department of Transportation has adopted OAR 731-005-0800 and OAR 731-149-0020 to implement ORS 279C.537. 
+
+ (2) The definitions provided in OAR 731-005-0430 apply to sections (3) through (12) of this rule. 
+
+ (3) For a Public Improvement Contract where the majority of the project site is located within Clackamas, Multnomah, or Washington County, the Public Improvement Contract is subject to the following requirements: 
+
+ (a) For a Public Improvement Contract with a Solicitation Document advertisement date on or after January 1, 2022 but before January 1, 2025, when the Public Improvement Contract will have an awarded Contract Amount of $20 million or more, 60 percent of the total Non-Road Diesel Equipment used on the Project Site during the performance of the Public Improvement Contract must meet or exceed United States Environmental Protection Agency Tier 4 Exhaust Emission Standards for non-road compression ignition diesel engines; or if not equipped with a Tier 4 compression ignition diesel engine, must be retrofit with a Verified Diesel Oxidation Catalyst or Verified Diesel Particulate Filter; 
+
+ (b) For a Public Improvement Contract with a Solicitation Document advertisement date on or after January 1, 2025 but before January 1, 2029, when the Public Improvement Contract will have an awarded Contract Amount of $15 million or more, 70 percent of the total Non-Road Diesel Equipment used on the Project Site during the performance of the Public Improvement Contract must meet or exceed United States Environmental Protection Agency Tier 4 Exhaust Emission Standards for non-road compression ignition diesel engines; or if not equipped with a Tier 4 compression ignition diesel engine, must be retrofit with a Verified Diesel Oxidation Catalyst or Verified Diesel Particulate Filter; 
+
+ (c) For a Public Improvement Contract with a Solicitation Document advertisement date on or after January 1, 2029, when the Public Improvement Contract will have an awarded Contract Amount of $10 million or more, 80 percent of the total Non-Road Diesel Equipment used on the Project Site during the performance of the Public Improvement Contract must meet or exceed United States Environmental Protection Agency Tier 4 Exhaust Emission Standards for non-road compression ignition diesel engines; or if not equipped with a Tier 4 compression ignition diesel engine, must be retrofit with a Verified Diesel Oxidation Catalyst or Verified Diesel Particulate Filter. 
+
+ (4) Notwithstanding the requirements of section (3) of this rule, 80 percent of the total Non-Road Diesel Equipment used on the Project Site during the performance of the Public Improvement Contract must meet or exceed United States Environmental Protection Agency Tier 4 Exhaust Emission Standards for non-road compression ignition diesel engines; or if not equipped with a Tier 4 compression ignition diesel engine, be retrofit with a Verified Diesel Oxidation Catalyst or Verified Diesel Particulate Filter, for the following projects: 
+
+ (a) The Interstate 5 Rose Quarter Project; 
+
+ (b) The Interstate 205 Abernethy Bridge Project; 
+
+ (c) The Interstate 205 Freeway Widening Project; 
+
+ (d) The State Highway 217 Northbound Project; and 
+
+ (e) The State Highway 217 Southbound Project. 
+
+ (5) The following categories of Non-Road Diesel Equipment are exempt from sections (3) and (4) of this rule: 
+
+ (a) Non-Road Diesel Equipment required for an Emergency, as determined by the Contracting Agency responsible for administering the Public Improvement Contract; and 
+
+ (b) For a Public Improvement Contract with a Solicitation Document advertisement date before January 1, 2029, Non-Road Diesel Equipment owned and operated by a Certified Firm. For a Public Improvement Contract with an advertisement date before January 1, 2029, Non-Road Diesel Equipment that is owned and operated by a Certified Firm, and is otherwise compliant with the requirements of sections (3) and (4) of this rule, may be counted as compliant equipment for purposes of the calculation under section (7). 
+
+ (6) To verify compliance with sections (3) and (4) of this rule, the Contractor must submit all required or necessary data to the Contracting Agency, according to the specifications of the Public Improvement Contract. 
+
+ (7) Contractor compliance with sections (3) and (4) of this rule will be determined by the following calculation: 
+
+ (a) Total pieces of Non-Road Diesel Equipment used on the Project Site =_______ 
+
+ (b) Multiply the answer to (7)(a) by the required percentage under sections (3) or (4) of this rule (round to the nearest whole number) = _______ 
+
+ (c) Total pieces of Non-Road Diesel Equipment that qualify for an exemption under sections (5)(a) and (5)(b) of this rule =_______ 
+
+ (d) Subtract the number under section (7)(c) from the number under (7)(b) =_______ 
+
+ (e) Total pieces of Non-Road Diesel Equipment used on the Project Site that must meet or exceed United States Environmental Protection Agency Tier 4 Exhaust Emission Standards for non-road compression ignition diesel engines; or if not equipped with a Tier 4 compression ignition diesel engine, be retrofit with a Verified Diesel Oxidation Catalyst or Verified Diesel Particulate Filter (equal to 7(d)) =_______ 
+
+ (8) For a Public Improvement Contract where the majority of the Project Site is located within Clackamas, Multnomah, or Washington County, the Public Improvement Contract is subject to the following requirements: 
+
+ (a) For a Public Improvement Contract with a Solicitation Document advertisement date on or after January 1, 2022 but before January 1, 2025, when the Public Improvement Contract will have an awarded Contract Amount of $20 million or more, and for the Interstate 5 Rose Quarter Project, the Interstate 205 Abernethy Bridge Project, the Interstate 205 Freeway Widening Project, the State Highway 217 Northbound Project, and the State Highway 217 Southbound Project; 50 percent of the total on-road concrete mixer trucks and on-road dump trucks powered by compression ignition diesel engines, used on the Project Site during the performance of the Public Improvement Contract must be powered by a model year 2010 or newer engine; 
+
+ (b) For a Public Improvement Contract with a Solicitation Document advertisement date on or after January 1, 2025 but before January 1, 2029, when the Public Improvement Contract will have an awarded Contract Amount of $15 million or more, 75 percent of the total on-road concrete mixer trucks and on-road dump trucks, powered by compression ignition diesel engines, used on the Project Site during the performance of the Public Improvement Contract must be powered by a model year 2010 or newer engine; 
+
+ (c) For a Public Improvement Contract with a Solicitation Document advertisement date on or after January 1, 2029, when the Public Improvement Contract will have an awarded Contract Amount of $10 million or more, 100 percent of the total concrete mixer trucks and dump trucks, powered by compression ignition diesel engines, used on the Project Site during the performance of the contract must be powered by a model year 2010 or newer engine. 
+
+ (9) The requirements of section (8) of this rule apply to on-road concrete mixer trucks and on-road dump trucks, powered by compression ignition diesel engines that are owned or operated by Contractors, subcontractors, and those operated under trucking services agreements. 
+
+ (10) The requirements of section (8) of this rule do not apply to the following: 
+
+ (a) Concrete mixer trucks or dump trucks powered by compression ignition diesel engines that are owned and operated by a Certified Firm under a Public Improvement Contract with a Solicitation Document advertisement date before January 1, 2029; and 
+
+ (b) Concrete mixer trucks or dump trucks powered by compression ignition diesel engines that are owned and operated by suppliers or vendors delivering materials to a Project Site, that are not operated under a trucking services agreement or subcontract. 
+
+ (11) The Contracting Agency may at any time suspend, extend, or otherwise modify the timeline provided in sections (5)(b) and (10)(a) of this rule related to exemptions provided to Certified Firms, if the Contracting Agency finds that market conditions, or other factors, exist that would render the expiration of the exemption unreasonable, or would inflict undue burden on Certified Firms. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 184.619 & ORS 279C 
+ 
+ 
+ Statutes/Other Implemented:  ORS 279C 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOT 1-2024, amend filed 05/09/2024, effective 06/01/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOT 3-2022, minor correction filed 03/08/2022, effective 03/08/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOT 2-2022, adopt filed 01/25/2022, effective 01/25/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

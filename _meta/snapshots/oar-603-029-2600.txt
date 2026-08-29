@@ -1,0 +1,223 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Agriculture 
+ Chapter 603 
+ 
+ 
+ 
+ 
+ 
+ Division 29 STATE MEAT INSPECTION PROGRAM 
+ 603-029-2600 
+ Definitions 
+ 
+ For purposes of OAR 603-029-2600 to 603-029-2655, the following definitions apply: 
+
+ (1) “Abnormal container” means a container with any sign of swelling or product leakage or any evidence that the contents of the unopened container may be spoiled. 
+
+ (2) “Acidified low acid product” means a canned product which has been formulated or treated so that every component of the finished product has a pH of 4.6 or lower within 24 hours after the completion of the thermal process unless data are available from the state-inspected establishment's processing authority demonstrating that a longer time period is safe. 
+
+ (3) “Bleeders” means small orifices on a retort through which steam, other gasses, and condensate are emitted from the retort throughout the entire thermal process. 
+
+ (4) “Canned product” means a meat or poultry product with a water activity above 0.85 which receives a thermal process either before or after being packed in a hermetically sealed container. Unless otherwise specified, the term “product” as used in OAR 603-029-2600 to 603-029-2655 means “canned product.” 
+
+ (5) “Closure technician” means the individual(s) identified by the state-inspected establishment as being trained to perform specific container integrity examinations as required by OAR 603-029-2600 to 603-029-2655 and designated by the state-inspected establishment to perform such examinations. 
+
+ (6) “Code lot” means all production of a particular product in a specific size container marked with a specific container code. 
+
+ (7) “Come-up time” means the elapsed time, including venting time (if applicable), between the introduction of the heating medium into a closed retort and the start of process timing. 
+
+ (8) “Critical factor” means any characteristic, condition or aspect of a product, container, or procedure that affects the adequacy of the process schedule. Critical factors are established by processing authorities. 
+
+ (9) “Headspace” means that portion of a container not occupied by the product. 
+
+ (a) “Gross headspace” means the vertical distance between the level of the product (generally the liquid surface) in an upright rigid container and the top edge of the container (i.e., the flange of an unsealed can, the top of the double seam on a sealed can, or the top edge of an unsealed jar). 
+
+ (b) “Net headspace” means the vertical distance between the level of the product (generally the liquid surface) in an upright rigid container and the inside surface of the lid. 
+
+ (10) “Hermetically sealed containers” means air-tight containers which are designed and intended to protect the contents against the entry of microorganisms during and after thermal processing. 
+
+ (a) “Rigid container” means a container, the shape or contour of which, when filled and sealed, is neither affected by the enclosed product nor deformed by external mechanical pressure of up to 10 pounds per square inch gauge (0.7 kg/cm2) (i.e., normal firm finger pressure). 
+
+ (b) “Semirigid container” means a container, the shape or contour of which, when filled and sealed, is not significantly affected by the enclosed product under normal atmospheric temperature and pressure, but can be deformed by external mechanical pressure of less than 10 pounds per square inch gauge (0.7 kg/cm2) (i.e., normal firm finger pressure). 
+
+ (c) “Flexible container” means a container, the shape or contour of which, when filled and sealed, is significantly affected by the enclosed product. 
+
+ (11) “Incubation tests” means tests in which the thermally processed product is kept at a specific temperature for a specified period of time in order to determine if outgrowth of microorganisms occurs. 
+
+ (12) “Initial temperature” (IT) means the temperature, determined at the initiation of a thermal process cycle, of the contents of the coldest container to be processed. 
+
+ (13) “Low acid product” means a canned product in which any component has a pH value above 4.6. 
+
+ (14) “Process schedule” means the thermal process and any specified critical factors for a given canned product required to achieve shelf stability. 
+
+ (15) “Process temperature” means the minimum temperature(s) of the heating medium to be maintained as specified in the process schedule. 
+
+ (16) “Process time” means the intended time(s) a container is to be exposed to the heating medium while the heating medium is at or above the process temperature(s). 
+
+ (17) “Processing authority” means the person(s) or organization(s) having expert knowledge of thermal processing requirements for foods in hermetically sealed containers, having access to facilities for making such determinations, and designated by the state-inspected establishment to perform certain functions as indicated in OAR 603-029-2600 to 603-029-2655. 
+
+ (18) “Retort” means a pressure vessel designed for thermal processing of product packed in hermetically sealed containers. 
+
+ (19) “Seals” means those parts of a semirigid container and lid or of a flexible container that are fused together in order to hermetically close the container. 
+
+ (20) “Shelf stability” means the condition achieved by application of heat, sufficient, alone or in combination with other ingredients and/or treatments, to render the product free of microorganisms capable of growing in the product at nonrefrigerated conditions (over 50°F or 10 °C) at which the product is intended to be held during distribution and storage. Shelf stability and shelf stable are synonymous with commercial sterility and commercially sterile, respectively. 
+
+ (21) “Thermal process” means the heat treatment necessary to achieve shelf stability as determined by the state-inspected establishment's processing authority. It is quantified in terms of: 
+
+ (a) Time(s) and temperature(s); or 
+
+ (b) Minimum product temperature. 
+
+ (22) “Venting” means the removal of air from a retort before the start of process timing. 
+
+ (23) “Water activity” means the ratio of the water vapor pressure of the product to the vapor pressure of pure water at the same temperature. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 603.085, ORS 619.042 & ORS 619.046 
+ 
+ 
+ Statutes/Other Implemented:  ORS 619.042, ORS 619.046, ORS 603.055, ORS 619.026 & ORS 619.036 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOA 19-2022, adopt filed 07/27/2022, effective 07/28/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

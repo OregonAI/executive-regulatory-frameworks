@@ -1,0 +1,263 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Environmental Quality 
+ Chapter 340 
+ 
+ 
+ 
+ 
+ 
+ Division 273 OREGON CLIMATE PROTECTION PROGRAM 
+ 340-273-0420 
+ Distribution of Compliance Instruments to Covered Fuel Suppliers 
+ 
+ (1) DEQ will distribute compliance instruments to covered fuel suppliers according to this rule. DEQ will distribute compliance instruments from a cap according to sections (2), (3), (4), (5), (6), and (7) no later than June 30 of the calendar year of that cap. 
+
+ (2) Annual distribution of compliance instruments to covered fuel suppliers that are local distribution companies. DEQ will annually distribute to each local distribution company, or to its successor(s) due to a change in ownership or operation, the percentage of compliance instruments from the calendar year’s cap stated in Table 4 in OAR 340-273-9000. This percentage shall be derived from the remaining compliance instruments under the cap after the number of compliance instruments distributed to covered EITE sources and covered DNG sources according to OAR 340-273-0410 are subtracted from the cap. 
+
+ (3) DEQ will establish a compliance instrument reserve for covered fuel suppliers that are new to the program and are not local distribution companies. DEQ will hold, according to subsection (4)(a), a subset of compliance instruments in the reserve from the caps identified in Table 2 in OAR 340-273-9000. Once a compliance instrument is held in the reserve, it remains in the reserve until DEQ determines, at its discretion, to undertake one of the following actions: 
+
+ (a) DEQ distributes the compliance instrument according to section (6) to a new covered fuel supplier that is not a local distribution company; 
+
+ (b) DEQ retires the compliance instrument because the compliance instrument reserve exceeds the size described in Table 3 OAR 340-273-9000, provided that after such retirement the size of the compliance instrument reserve will equal or exceed the reserve size described in Table 3; or 
+
+ (c) DEQ distributes the compliance instrument to a covered fuel supplier that is not a local distribution company because the size of the compliance instrument reserve exceeds the reserve size described in Table 3 in OAR 340-273-9000. DEQ will only distribute compliance instruments from the reserve according to this subsection if there are at least 10,000 compliance instruments to distribute and if the remaining size of the reserve after this distribution will equal or exceed the reserve size described in Table 3 in OAR 340-273-9000. DEQ will calculate the number of compliance instruments to distribute to each covered fuel supplier that is not a local distribution company according to subsection (4)(b), except “total compliance instruments to distribute” means the total number of compliance instruments DEQ is distributing from the reserve according to this subsection. 
+
+ (4) Annual distribution of compliance instruments to covered fuel suppliers that are not local distribution companies. DEQ will annually distribute compliance instruments from the applicable calendar year’s cap to covered fuel suppliers that are not local distribution companies as follows: 
+
+ (a) If the size of the compliance instrument reserve is less than the reserve size described in Table 3 in OAR 340-273-9000 for the calendar year, then DEQ will calculate the difference and hold in the compliance instrument reserve that quantity of compliance instruments. Otherwise, the number of compliance instruments in the reserve will not be changed. 
+
+ (b) Except for compliance instruments identified in Table 4 in OAR 340-273-9000 for distribution according to section (2) and the compliance instruments held in the reserve according to section (3) and subsection (4)(a), DEQ will calculate the number of compliance instruments to distribute to each covered fuel supplier that is not a local distribution company as described in this subsection, including paragraphs (A) through (E), based on emissions data from the prior calendar year as reported by each covered fuel supplier as required by OAR chapter 340, division 215, and subject to DEQ’s initial review for errors, but prior to completion of third-party verification as required by OAR chapter 340, division 272. A person that becomes a covered fuel supplier after DEQ has distributed the compliance instruments for that year will not receive a distribution under this subsection. 
+
+ (A) Beginning with the 2026 annual distribution of compliance instruments, prior to each calculation of compliance instrument distribution described in paragraph (B), DEQ will apply a “Verified emissions data correction factor” to the annual compliance instrument distribution of each covered fuel supplier. DEQ will recalculate the compliance instrument distribution from the previous year using third-party verified emissions data. If DEQ determines that the reported emission data used for the previous year’s compliance instrument distribution resulted in a lesser or greater number of compliance instruments being distributed to a covered fuel supplier, when compared to the recalculation using the third-party verified data, DEQ will increase or reduce, respectively, the number of compliance instruments distributed to the covered fuel supplier by an equal amount in the current compliance instrument distribution. 
+
+ (B) DEQ will use the following formula to calculate the number of compliance instruments to distribute to each covered fuel supplier: 
+
+ 
+ Number of Compliance Instruments = (Total compliance instruments to distribute * ([Covered fuel supplier covered emissions + covered fuel supplier biofuel emissions] / Total emissions)) ± Verified emissions data correction factor – Compliance instrument holding limit reduction 
+ 
+
+ (C) As used in the formula in paragraph (B): 
+
+ (i) “Total compliance instruments to distribute” means the cap for the calendar year, according to Table 2 in OAR 340-273-9000, minus the number of compliance instruments identified in Table 4 in OAR 340-273-9000; and minus the number of compliance instruments held in the compliance instrument reserve; 
+
+ (ii)(I) For the 2026 and all subsequent annual distributions, “covered fuel supplier covered emissions” means the sum of a covered fuel supplier’s covered emissions for the prior calendar year; 
+
+ (II) For the 2025 annual distribution of compliance instruments, each covered fuel supplier’s “covered fuel supplier covered emissions” will be either the sum of the covered fuel supplier’s verified covered emissions for the 2023 calendar year or the sum of the covered fuel supplier’s unverified covered emissions for the 2024 calendar year. The verified 2023 data will be used if the sum of a covered fuel supplier’s verified 2023 covered emissions plus the verified emissions described in OAR 340-271- 0110(3)(b)(B)(i) that result from the complete combustion or oxidation of all biomass- derived fuels that the covered fuel supplier imported, sold, or distributed for use in the state in 2023 is greater than the sum of a covered fuel supplier’s unverified 2024 covered emissions plus the unverified emissions described in OAR 340-271-0110(3)(b)(B)(i) that result from the complete combustion or oxidation of all biomass- derived fuels that the covered fuel supplier imported, sold, or distributed for use in the state in 2024. The unverified 2024 data will be used if the sum of a covered fuel supplier’s unverified 2024 covered emissions plus the unverified emissions described in OAR 340-271-0110(3)(b)(B)(i) that result from the complete combustion or oxidation of all biomass-derived fuels that the covered fuel supplier imported, sold, or distributed for use in the state in 2024 is greater than the sum of a covered fuel supplier’s verified 2023 covered emissions plus the verified emissions described in OAR 340-271- 0110(3)(b)(B)(i) that result from the complete combustion or oxidation of all biomass- derived fuels that the covered fuel supplier imported, sold, or distributed for use in the state in2023; 
+
+ (iii)(I) For the 2026 and all subsequent annual distributions, “covered fuel supplier biofuel emissions” means emissions described in OAR 340-273-0110(3)(b)(B)(i) that result from the complete combustion or oxidation of the annual quantity of biomass- derived fuels that the covered fuel supplier imported, sold, or distributed for use in the state for the prior calendar year; 
+
+ (II) For the 2025 annual distribution of compliance instruments, if a covered fuel supplier’s covered fuel supplier covered emissions, as determined under sub- subparagraph (ii)(II), are its verified 2023 calendar year emissions, then its “covered fuel supplier biofuel emissions” will be based on verified 2023 calendar year emissions data, but if a covered fuel supplier’s covered fuel supplier covered emissions, as determined under sub-subparagraph (ii)(II), are its unverified 2024 calendar year emissions, then its “covered fuel supplier biofuel emissions” will be based on unverified 2024 calendar year emissions data; 
+
+ (iv) “Total emissions” means the sum of “covered fuel supplier covered emissions” and “covered fuel supplier biofuel emissions” for the prior calendar year for all covered fuel suppliers whose compliance instrument distribution is calculated according to this section. For the 2025 annual distribution of compliance instruments, “Total emissions” means the sum of “covered fuel supplier covered emissions” and “covered fuel supplier biofuel emissions” used for that year’s calculation, as described in subparagraphs (ii) and (iii); and 
+
+ (v) “Verified emissions data correction factor” means a correction applied as a result of changes to reported data since the previous distribution of compliance instruments, as described in paragraph (A); and 
+
+ (vi) “Compliance instrument holding limit reduction” means the number of compliance instruments described in OAR 340-273-0430(2). If the compliance instrument holding limit reduction exceeds the number of compliance instruments that a covered fuel supplier would have received in the distribution before subtracting the compliance instrument holding limit reduction, then the covered fuel supplier will not receive any compliance instruments in the distribution, and a compliance instrument holding limit reduction equal to the amount by which it exceeded the number of compliance instruments that a covered fuel supplier would have received in the distribution before subtracting the compliance instrument holding limit will be applied in the following year. 
+
+ (D) DEQ will distribute a number of compliance instruments to each covered fuel supplier using the formula in paragraph (B) and rounded down to the nearest whole number. 
+
+ (E) Any remaining compliance instruments not distributed due to rounding as described in paragraph (D) will be held in the compliance instrument reserve. 
+
+ (5) DEQ will distribute any additional 2025 compliance instruments generated as described in OAR 340-273-0400 no later than June 30, 2025 as follows: 
+
+ (a) DEQ will use the following formula to calculate the number of additional 2025 compliance instruments to distribute to each covered fuel supplier: 
+
+ 
+ Number of Additional Compliance Instruments = Total additional compliance instruments to distribute * (Sum of covered fuel supplier biofuel emissions / Total biofuel emissions) 
+ 
+
+ (b) As used in subsection (5)(a): 
+
+ (A) “Total additional compliance instruments to distribute” means the number of additional compliance instruments generated as described in OAR 340-273-0400, if any; 
+
+ (B) “Sum of covered fuel supplier biofuel emissions” means the sum of a covered fuel supplier’s emissions described in OAR 340-273-0110(3)(b)(B)(i) that result from the complete use of the quantity of biomass-derived fuels that the covered fuel supplier imported, sold, or distributed for use in the state in 2022, 2023, and 2024; and 
+
+ (C) “Total biofuel emissions” means the sum of emissions described in OAR 340-273- 0110(3)(b)(B)(i) that result from the complete use of the quantity of biomass-derived fuels that all covered fuel suppliers whose compliance instrument distribution is calculated according to this section imported, sold, or distributed for use in the state in 2022, 2023, and 2024. 
+
+ (6) Distribution from compliance instrument reserve for new covered fuel suppliers that are not local distribution companies. 
+
+ (a) A covered fuel supplier is eligible for a distribution from the compliance instrument reserve if it is not a local distribution company and if the person was not included in the distribution of compliance instruments for that year according to section (4). 
+
+ (b) A covered fuel supplier meeting the requirements of subsection (a) is not eligible for a distribution of compliance instruments from the reserve if the person is a related entity  to a covered fuel supplier that received a distribution of compliance instruments under section (4). 
+
+ (c) A covered fuel supplier identified according to subsection (a) and not ineligible under subsection (b) may request a distribution of compliance instruments from the reserve by submitting an application to DEQ, on a form approved by DEQ, that includes the information described in paragraphs (A) through (D), no later than June 1 of the year after the calendar year of the annual distribution of compliance instruments from which the covered fuel supplier was not included. The covered fuel supplier must submit a separate application for each year for which it is seeking distribution of compliance instruments from the reserve. 
+
+ (A) Information about the covered fuel supplier, including: 
+
+ (i) Name and full mailing address; and 
+
+ (ii) Designated representative’s contact information including name, title or position, phone number, and email address; 
+
+ (B) The calendar year of covered emissions for which compliance instruments are requested; 
+
+ (C) The reason for the request, including description of eligibility according to subsection (a); and 
+
+ (D) The following attestation, signed by the designated representative of the covered fuel supplier: 
+
+ 
+ I certify under penalty of perjury under the laws of the State of Oregon that I am a representative of [covered fuel supplier], am authorized to submit this application on its behalf, and that, to the best of my knowledge and belief, the information provided in this form is true, accurate, and complete. [Covered fuel supplier] is a covered fuel supplier in the year indicated in this application and requests compliance instruments from the reserve according to the information included in this application. 
+ 
+
+ (d) DEQ will review an application submitted according to subsection (b) to ensure that it meets the requirements of this section. DEQ will inform the applicant either that the submitted application is complete or that additional specific information is required to make the application complete. If the application is incomplete, DEQ will not consider the application further until the applicant provides the additional information requested by DEQ. 
+
+ (e) If DEQ approves an application, DEQ will distribute one or more compliance instruments to the covered fuel supplier from the reserve no later than June 15 of the year after the calendar year of the annual distribution of compliance instruments from which the covered fuel supplier was not included. DEQ will distribute compliance instruments from the reserve to the covered fuel supplier, as follows: 
+
+ (A) A maximum distribution amount that will not exceed the covered fuel supplier’s covered emissions in that calendar year using emissions data from the prior calendar year as reported by each covered fuel supplier as required by OAR 340, division 215, and subject to DEQ’s initial review for errors, but prior to completion of third-party verification as required by OAR 340, division 272; and 
+
+ (B) If there are fewer compliance instruments in the reserve at the time of distribution than have been requested by all covered fuel suppliers who are approved for a reserve distribution for a calendar year, DEQ shall allocate compliance instruments in the reserve according to the ratio of each covered fuel supplier’s covered emissions in that calendar year to the total covered emissions from all covered fuel suppliers in that calendar year. 
+
+ (7) Each year, the sum of all compliance instruments that are not distributed to fuel suppliers in the distribution under section (4) as a result of compliance instrument holding limit reductions will be distributed to all covered fuel suppliers that did not have any compliance instrument holding limit reduction using the formula described in paragraph OAR 340-273-0420(4)(b)(B), except that, for purposes of such redistribution, “total compliance instruments to distribute” means the total number of compliance instruments that DEQ did not distribute to fuel suppliers in the general distribution under section (4) as a result of compliance instrument holding limit reductions. Such additional distribution of compliance instruments shall be made at the same time as the distribution described in section (4). Any remaining compliance instruments not distributed due to rounding will be held in the compliance instrument reserve. 
+
+ (8) Upon distribution of compliance instruments according to sections (2), (4), (5), (6), and (7), DEQ will notify the designated representative of each covered fuel supplier in writing of the availability of compliance instruments. 
+
+ (9) DEQ will track distributed compliance instruments. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 468.020, 468A.025 & 468A.040 
+ 
+ 
+ Statutes/Other Implemented:  ORS 468.020, 468A.025, 468A.040, 468.035, 468A.010, 468A.015 & 468A.045 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DEQ 18-2024, adopt filed 11/22/2024, effective 11/22/2024 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
