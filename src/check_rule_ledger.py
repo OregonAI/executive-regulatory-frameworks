@@ -14,14 +14,16 @@ declaration is invisible to the other, and #306 found `stated_census.py` missing
 direction entirely: an emitted-but-undeclared `Failure` passed its `--selftest` green.
 
 ELEVEN MODULES COPY PART OF THIS BY HAND, IN THREE STRENGTHS (#319's own measurement, `main`
-at d8de9f50a6, corrected by #323 -- the original count of ten missed `snapshot_identity`):
-two have the full pattern (`legal_status`, `stated_census`), two have `CHECK_RULES` and
-`_FIRED` with no AST scan (`reingest_oar`, `bulletin_report` -- an emitted-but-undeclared
-refusal these two cannot catch), five have `_FIRED` alone (`provenance_spelling`,
-`catalog_agreement`, `oar_watch_coverage`, `seed_oar_watch`, `snapshot_identity`), and two
-have neither (`catalog_agencies`, `catalog_oar`). THIS TICKET EXTRACTS THE SHAPE FROM THE TWO
-THAT ALREADY HAVE IT WHOLE AND ADOPTS IT IN EXACTLY THOSE TWO -- proving the extraction is
-faithful (identical `--check`/`--selftest` output, before and after) is the point, and mixing
+at d8de9f50a6, corrected by #323 -- the original count of ten missed `snapshot_identity` --
+and by #320, which adopted the pattern in `catalog_agencies`, moving it out of the "neither"
+bucket #319 measured it in): three have the full pattern (`legal_status`, `stated_census`,
+`catalog_agencies`), two have `CHECK_RULES` and `_FIRED` with no AST scan (`reingest_oar`,
+`bulletin_report` -- an emitted-but-undeclared refusal these two cannot catch), five have
+`_FIRED` alone (`provenance_spelling`, `catalog_agreement`, `oar_watch_coverage`,
+`seed_oar_watch`, `snapshot_identity`), and one has neither (`catalog_oar`). THIS TICKET
+EXTRACTED THE SHAPE FROM THE TWO THAT ALREADY HAD IT WHOLE AND ADOPTED IT IN EXACTLY THOSE
+TWO -- proving the extraction is faithful (identical `--check`/`--selftest` output, before
+and after) is the point, and mixing
 in a module that lacks the pattern would hide a regression behind a module's first-ever
 findings. `catalog_agencies` and the rest are a later ticket's, not this one's.
 

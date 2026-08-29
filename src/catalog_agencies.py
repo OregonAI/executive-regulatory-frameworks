@@ -38,20 +38,16 @@ validate_frontmatter.py requires every content file's agency: field to be 'state
 'external', or a slug from this registry. Sub-unit slugs are valid agency: values like
 any other; whether a sub-unit gets its own agencies/<slug>/ tree or files under its
 parent is an onboarding-time decision."""
-import contextlib
-import io
 import json
 import os
 import re
 import subprocess
 import sys
-import tempfile
 import time
 import urllib.request
 from collections import Counter, namedtuple
 from datetime import date
 from html import unescape
-from pathlib import Path
 
 import yaml
 
@@ -174,7 +170,7 @@ CHECK_RULES = (
     "readable-registry", "registry-populated", "readable-row",
     # a row's own shape: the fields it must carry, and the ones it may not
     "required-field", "declared-field",
-    # the two fields spelled almost alike, and the one this module reads off two scripts
+    # the one this module reads off two scripts
     "chapter-page-count-current",
     # the DAS number's deprecation-cycle pair, the enabling authority's form, the statutory
     # name's provenance, and the two names a body must stay findable by
@@ -190,6 +186,8 @@ CHECK_RULES = (
     "unique-slug", "unique-chapter",
     # the registry's own top-level `note`, checked three ways
     "note-covers-fields", "note-agrees-with-refresh", "note-numbers-current",
+    # a ROW's own `note` (a different field of the same name), checked against the shape
+    # only cmd_refresh() can write
     "note-scrape-shape",
     # a field's declared origin, checked against what a simulated --refresh actually does
     "scraped-field", "survives-refresh",
@@ -4160,6 +4158,11 @@ def _proof_missing_registry_is_refused() -> int:
     line via `catalog_path` (`cmd_check()`'s own docstring), not a synthetic call into
     `check_registry()`, because the whole point is proving the SITE that used to spell the
     rule differently now emits the one declared spelling."""
+    import contextlib
+    import io
+    import tempfile
+    from pathlib import Path
+
     bad = 0
     with tempfile.TemporaryDirectory() as d:
         missing = Path(d) / "does-not-exist.yml"
