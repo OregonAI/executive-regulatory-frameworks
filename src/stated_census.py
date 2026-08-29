@@ -203,16 +203,37 @@ def line_of(text: str, pos: int) -> int:
 # ------------------------------------------------------------------------- the censuses
 
 # {namespace: () -> {key: int}}. Each callable reads COMMITTED data fresh on every call --
-# no caching across a run, matching how `legal_status.py` and `oar_watch_coverage.py` read
+# no caching ACROSS a run, matching how `legal_status.py` and `oar_watch_coverage.py` read
 # their sources once per invocation -- so a --check run always measures the corpus as it
 # stands right now, never a value memoized from an earlier document read in the same run.
+
+
+_OAR_CATALOG_CACHE = {}
+
+
+def _oar_catalog() -> dict:
+    """`_meta/catalog/oar.yml`, parsed ONCE PER PROCESS and shared by every namespace that
+    reads it (`oar`, `legal_status_docs`) -- not a value carried between separate `--check`
+    invocations (the banner comment above still holds: each run is its own process, and
+    this cache does not survive past it), but two namespaces in the SAME run independently
+    calling `catalog_oar.load_catalog()` is the same source read twice for one measurement
+    #307 exists to close everywhere else -- found by code review measuring
+    `stated_census.py --check`'s wall time: parsing this 42,615-entry catalog is most of
+    the run's cost, and `catalog_force_action_counts()`'s own default read (added by that
+    review, to the `legal_status_docs` namespace) paid it a second time until this existed.
+    `measured()`'s per-namespace `cache` (below) cannot hold this, because it is keyed by
+    the very namespaces that need to SHARE one parse."""
+    if "catalog" not in _OAR_CATALOG_CACHE:
+        import catalog_oar
+        _OAR_CATALOG_CACHE["catalog"] = catalog_oar.load_catalog()
+    return _OAR_CATALOG_CACHE["catalog"]
 
 
 def _oar_measurement() -> dict:
     """`_meta/catalog/oar.yml`'s ingest-status tally (CONTEXT.md's *Ingest status*),
     read via `catalog_oar.status_counts()` -- the one place that count is computed."""
     import catalog_oar
-    counts = catalog_oar.status_counts(catalog_oar.load_catalog())
+    counts = catalog_oar.status_counts(_oar_catalog())
     return {k: v for k, v in counts.items() if isinstance(v, int)}
 
 
@@ -258,37 +279,63 @@ def _oar_watch_measurement() -> dict:
 
 
 def _legal_status_docs_measurement() -> dict:
-    """`legal_status.py`'s two DOCUMENT-level censuses (#307): the `status:` distribution
-    over every committed rule document (CONTEXT.md's *Legal status*) and the temporary-
-    suspension History-line count (CONTEXT.md's *Filed force action*) -- both counting
-    committed rule DOCUMENTS, unlike `legal_status.census()`, which counts legal-status
-    WRITE SITES in src/ MODULES. Same word, two different measurements; kept as two
-    separate functions in that module rather than one overloading the other's name (see
-    its "the document-level censuses" section banner). `status_*` and `temp_suspend_*`
-    prefix the two so their keys can never collide the way `authority_total` and
-    `chapter_total` would without `_agencies_measurement`'s own prefixing."""
+    """`legal_status.py`'s three censuses (#307): the `status:` distribution over every
+    committed rule document (CONTEXT.md's *Legal status*), the temporary-suspension
+    History count (CONTEXT.md's *Filed force action*), and the Bulletin-filed force-action
+    tally over the committed OAR catalog (CONTEXT.md's *Legal status* and *Filed force
+    action* -- "66 repeals and 34 suspensions", added by #307 code review: `legal_status.py
+    --check` already printed this `Counter` every run, and it sat as an `observed:` mark
+    only because nothing exposed it by name). All THREE count something different --
+    document status VALUES, History TEXT, and catalog-row ACTIONS -- unlike
+    `legal_status.census()`, which counts legal-status WRITE SITES in src/ MODULES. Same
+    word, four different measurements; kept as separate functions in that module rather
+    than one overloading another's name (see its "the document-level censuses" section
+    banner). `status_*`, `temp_suspend_*` and `filed_*` prefix the three so their keys can
+    never collide the way `authority_total` and `chapter_total` would without
+    `_agencies_measurement`'s own prefixing."""
     import legal_status as ls
-    # ONE READ OF THE CORPUS, shared by both -- `_rule_document_texts()` materializes a
-    # list for exactly this, and calling each `*_counts()` with `texts=None` here would
-    # read all 42,561 rule documents twice for one measurement.
-    doc_texts = ls._rule_document_texts()
+    # ONE PASS OVER THE CORPUS, shared by the first two, AT FLAT MEMORY -- `document_
+    # censuses()` reads each document once and discards it rather than materializing every
+    # document's text into a list first (`_rule_document_texts()`'s shape, which this
+    # replaced at both live call sites after #307 code review measured it at 2.3x peak RSS
+    # -- see that function's own docstring). THE CATALOG READ SHARES `_oar_catalog()`'s
+    # process cache with the `oar` namespace, rather than calling `catalog_force_action_
+    # counts()` with no argument (which would parse the same 42,615-entry
+    # `_meta/catalog/oar.yml` a second time in this run -- code review found exactly this
+    # after the first version of this line shipped, see `_oar_catalog()`'s own docstring).
+    status_counts, temp_counts = ls.document_censuses()
     out = {}
-    out.update({f"status_{k}": v for k, v in ls.document_status_counts(doc_texts).items()})
-    out.update({f"temp_suspend_{k}": v
-               for k, v in ls.temporary_suspension_counts(doc_texts).items()})
+    out.update({f"status_{k}": v for k, v in status_counts.items()})
+    out.update({f"temp_suspend_{k}": v for k, v in temp_counts.items()})
+    out.update({f"filed_{k}": v
+               for k, v in ls.catalog_force_action_counts(_oar_catalog()).items()})
     return out
 
 
 def _ors_citation_gap_measurement(text=None) -> dict:
-    """The committed ORS chapter-gap catalog's own `summary:` block (#307) --
-    CONTEXT.md's *Chapter selection* entry's "chapters cited outside the selection"
-    figures. `scan_ors_citations.py --check` (CI, every PR) ALREADY computes these over the
-    whole corpus and keeps `_meta/catalog/ors-citation-gap.yml` current; this reads that
-    committed, already-gated view RATHER THAN RECOMPUTING -- re-running the scan here would
-    pay its full-corpus cost a second time for numbers the view already carries, and it
-    would let this reader's idea of the gap and the file's own summary drift into two
-    different measurements of the same thing, which is the shape #307 exists to close
-    everywhere else.
+    """The committed ORS chapter-gap catalog's `summary:` block AND per-chapter `targets:`
+    figures (#307) -- CONTEXT.md's *Chapter selection* entry's "chapters cited outside the
+    selection" figures, and any single chapter's own numbers (its "citations across N
+    documents" line for the largest remaining gap, currently chapter 31). `scan_ors_
+    citations.py --check` (CI, every PR) ALREADY computes these over the whole corpus and
+    keeps `_meta/catalog/ors-citation-gap.yml` current; this reads that committed,
+    already-gated view RATHER THAN RECOMPUTING -- re-running the scan here would pay its
+    full-corpus cost a second time for numbers the view already carries, and it would let
+    this reader's idea of the gap and the file's own summary drift into two different
+    measurements of the same thing, which is the shape #307 exists to close everywhere else.
+
+    Per-chapter keys are `target_<chapter>_<field>` for every integer field on every listed
+    target (`authority_claims`, `mentions`, `distinct_sections_cited`) -- not just chapter
+    31's, so a future entry naming a DIFFERENT chapter's gap does not need this reader
+    extended first. `cited_by_sample` and `catalog_title` are not integers and are left out
+    the same way `note` is below.
+
+    `documents_scanned` IS DELIBERATELY EXCLUDED, even though it is an integer in
+    `summary:`: it is the one figure `scan_ors_citations._inventory_only` refuses to compare
+    on `--check` (a denominator, not a claim -- see that function's own docstring), so
+    nothing keeps it current and a tag against it would be a gate that looks like evidence
+    and is not (#307 code review). If a real gate for it is ever built, it should be added
+    back here alongside that gate, not before.
 
     `text=None` reads the committed file; `--selftest` passes synthetic YAML text instead."""
     if text is None:
@@ -296,7 +343,16 @@ def _ors_citation_gap_measurement(text=None) -> dict:
         text = path.read_text()
     data = yaml.safe_load(text) or {}
     summary = data.get("summary") if isinstance(data, dict) else None
-    return {k: v for k, v in (summary or {}).items() if isinstance(v, int)}
+    out = {k: v for k, v in (summary or {}).items()
+          if isinstance(v, int) and k != "documents_scanned"}
+    for t in (data.get("targets") or []) if isinstance(data, dict) else []:
+        if not isinstance(t, dict) or t.get("chapter") is None:
+            continue
+        for field in ("authority_claims", "mentions", "distinct_sections_cited"):
+            v = t.get(field)
+            if isinstance(v, int):
+                out[f"target_{t['chapter']}_{field}"] = v
+    return out
 
 
 CENSUSES = {
@@ -671,10 +727,45 @@ def selftest() -> int:
         fails.append(f"FAIL ors-citation-gap-reader-moves-with-its-source: {moved}")
     # A non-integer summary value (a string, a null) is left out rather than gated on --
     # `known-census-key` is what refuses a tag naming a key this reader did not carry.
-    with_a_string = "summary:\n  documents_scanned: 5\n  note: not a count\n"
+    with_a_string = "summary:\n  chapters_mirrored: 5\n  note: not a count\n"
     stringy = _ors_citation_gap_measurement(with_a_string)
-    if "note" in stringy or stringy.get("documents_scanned") != 5:
+    if "note" in stringy or stringy.get("chapters_mirrored") != 5:
         fails.append(f"FAIL ors-citation-gap-reader-keeps-only-integers: {stringy}")
+
+    # `documents_scanned` IS AN INTEGER AND IS STILL EXCLUDED -- code review of #307 found
+    # it exposed here with no gate keeping it current (`scan_ors_citations._inventory_only`
+    # deliberately excludes it from `--check`'s comparison, so a tag against it here would
+    # be gated against a number nothing actually rechecks).
+    with_scanned = "summary:\n  documents_scanned: 81921\n  chapters_mirrored: 5\n"
+    scanned = _ors_citation_gap_measurement(with_scanned)
+    if "documents_scanned" in scanned:
+        fails.append("FAIL ors-citation-gap-reader-excludes-the-ungated-denominator: "
+                     f"{scanned}")
+
+    # PER-CHAPTER TARGET FIGURES are exposed too, prefixed `target_<chapter>_<field>` --
+    # CONTEXT.md's *Chapter selection* entry cites a single chapter's own "N citations
+    # across M documents" line, and that chapter's `mentions` is a committed, CI-gated
+    # number the same file already carries (#307 code review).
+    with_targets = (
+        "summary:\n  chapters_mirrored: 5\n"
+        "targets:\n"
+        "- chapter: '31'\n  status: not_mirrored_unknown\n  catalog_title: ''\n"
+        "  authority_claims: 0\n  mentions: 284\n  distinct_sections_cited: 13\n"
+        "  cited_by_sample: []\n")
+    targeted = _ors_citation_gap_measurement(with_targets)
+    if targeted.get("target_31_mentions") != 284:
+        fails.append(f"FAIL ors-citation-gap-reader-exposes-per-chapter-targets: {targeted}")
+    # THE MUTATION: change the underlying data, watch the figure move.
+    with_targets_moved = with_targets.replace("mentions: 284", "mentions: 285")
+    moved_target = _ors_citation_gap_measurement(with_targets_moved)
+    if moved_target.get("target_31_mentions") != 285:
+        fails.append("FAIL ors-citation-gap-per-chapter-target-moves-with-its-source: "
+                     f"{moved_target}")
+    # `cited_by_sample` (a list) and `catalog_title` (a string) are not integers and are
+    # left out, same as `note` above.
+    if "target_31_cited_by_sample" in targeted or "target_31_catalog_title" in targeted:
+        fails.append(f"FAIL ors-citation-gap-reader-keeps-only-integer-target-fields: "
+                     f"{targeted}")
 
     # ---------------- citation-integrity rule (#305's follow-on) ----------------
     #

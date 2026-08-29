@@ -194,7 +194,8 @@ assert only where nothing better is known. A Bulletin-set status is carried on t
 row in `legal_status` and stamped onto the document from there, so the catalog writes and the
 document reads. `legal_status.py --check` fails if a second writer appears and `--selftest`
 proves it, a re-ingest overwriting a Bulletin-set status included. Since #229 the August 2026
-bulletin's 66 <!--observed:2026-08-28--> repeals and 34 <!--observed:2026-08-28--> suspensions
+bulletin's 66 <!--census:legal_status_docs.filed_repeal--> repeals and 34
+<!--census:legal_status_docs.filed_suspend--> suspensions
 against rules held here are recorded, and the rules
 are MARKED AND KEPT — path, ingest status and document untouched, because deleting a repealed
 rule breaks every citation pointing at it.
@@ -208,8 +209,10 @@ an automatic re-ingest. It lives on the OAR catalog row in `legal_status_action`
 together or `legal_status.py --check` refuses the row. IT IS ON THE ROW BECAUSE THE SCHEMA
 ENUM CANNOT HOLD IT: `current | superseded | repealed | proposed | draft` has one word for a
 loss of force and it means a permanent one, while every suspension Oregon files carries an
-end date — 248 <!--census:legal_status_docs.temp_suspend_full--> History lines in this
-corpus read `temporary suspend filed …, effective … through …`, computed by
+end date — 248 <!--census:legal_status_docs.temp_suspend_full--> occurrences in this
+corpus's History text read `temporary suspend filed …, effective … through …`, across 241
+<!--census:legal_status_docs.temp_suspend_lines--> distinct History lines (a rule can print
+more than one filing on the same line), computed by
 `legal_status.temporary_suspension_counts()` (#307). The shorter phrase `temporary suspend
 filed` alone matches exactly as many, 248
 <!--census:legal_status_docs.temp_suspend_filed_mentions-->, meaning no suspension in this
@@ -219,7 +222,8 @@ visible as a measurement rather than an assumption. So a
 suspension is stamped `superseded`, the strongest thing the shared enum can
 truthfully say (this is not the operative text right now), and the action is what says the
 loss is temporary (the gap in the shared enum is corpus-toolkit#159). Without it, 34
-<!--observed:2026-08-28--> suspended rules and 66 <!--observed:2026-08-28--> repealed ones
+<!--census:legal_status_docs.filed_suspend--> suspended rules and 66
+<!--census:legal_status_docs.filed_repeal--> repealed ones
 would be one undifferentiated set, which is the collapse #229 exists to prevent.
 _Avoid_: Bulletin action, filing type — a filing also adopts, amends and renumbers, and those
 three change TEXT, re-ingest without asking (#230) and set no legal status at all
@@ -306,7 +310,7 @@ evidence either way — the same three counts already living in
 `ors-citation-gap.yml`'s own `summary:` block and printed line, exposed here as named
 quantities rather than recomputed, #307) — chapter 151 among neither any more,
 having been mirrored for this fix, and chapter 31 the largest remaining single gap at
-284 <!--observed:2026-08-28--> citations across
+284 <!--census:ors_citation_gap.target_31_mentions--> citations across
 127 <!--observed:2026-08-28--> documents (status
 `not_mirrored_unknown` — not even in the discovery map, so its title is not asserted here
 either), dwarfing the one chapter this ticket happened to notice.
