@@ -446,7 +446,7 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   authority by a human, written only by `src/link_enabling_authority.py`'s `STATUTORY_NAMES`
   and resolved by `--check` against the mirrored text of the section it cites — or
   `unverified-oar-title`, which says nobody has established one and `name` still holds the
-  OAR chapter title, unchanged. 4 of 189 rows are established and 185 are not, and
+  OAR chapter title, unchanged. 5 of 190 rows are established and 185 are not, and
   `--check` prints both counts on every run: "established" and "not yet established" may
   never be the same state. `statutory-name-basis` fails a row claiming the first with no
   enabling authority behind it, and fails a row claiming the second whose `name` is not its
@@ -456,7 +456,7 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   `preserve_name()`, an unverified one is rebuilt from the chapter page.
   `_meta/corpus.yml` declares `plugins.issuing_body_name_fields: [name, oar_name, aliases]`
   (corpus-toolkit>=1.29.0), without which `issuing_body_profile` matches `name` alone and a
-  fully promoted registry leaves 189 of 189 bodies unfindable by their OAR name.
+  fully promoted registry leaves 190 of 190 bodies unfindable by their OAR name.
   Every row also carries `relations` (CONTEXT.md), and since #174 it is the ONLY place a
   body's placement under another is recorded — `parent_slug` is retired, and the allowlist
   in `FIELDS` refuses it if it comes back. Each entry names the
@@ -475,15 +475,18 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   `parent_chapter` survives as a different fact (the parent's OAR chapter, scraped from the
   same tree) and `parent-agrees` states that it may not disagree with the body the relations
   name. THE KIND IS DERIVED AND NEVER GUESSED, by `python3
-  src/derive_relation_kinds.py --apply`, its single writer: 44 of the 81 record
-  `administered_by` and 37 record `undetermined`. Every derived kind also records the
+  src/derive_relation_kinds.py --apply`, its single writer, into `administered_by` or
+  `undetermined` — never `part_of` (ADR 0004). Every derived kind also records the
   `basis` it came from, which is NOT the same fact as the source — the source says who
   places the body there, the basis says what settled the kind — and the two bases are
-  different strengths. All 44 rest on `proposed-enabling-authority`, a candidate in the
-  review sheet that NOBODY HAS READ, and upgrade to `reviewed-enabling-authority` when the
-  review lands (ADR 0004's amendment records that deviation). NO kind is derived from the
-  ABSENCE of a candidate: the 37 stay `undetermined` because a matcher finding nothing is a
-  statement about the matcher, and that list has already been wrong for 55 bodies. `--check`
+  different strengths: `proposed-enabling-authority`, a candidate in the review sheet that
+  NOBODY HAS READ, or `reviewed-enabling-authority`, once the review lands (ADR 0004's
+  amendment records that deviation). The split between kinds and the split between bases
+  both move as scrapes and reviews land, so neither is pinned here — `relation_census()`
+  prints both live, on every `catalog_agencies.py --check` run, rather than a figure this
+  guide would leave to go stale. NO kind is derived from the ABSENCE of a candidate: the
+  rest stay `undetermined` because a matcher finding nothing is a statement about the
+  matcher, and that list has already been wrong for 55 bodies. `--check`
   REPORTS the census — kinds, sources and bases, zeroes included — on every run, refuses a
   kind with no basis, an `administered_by` citing no authority, a `part_of` relation that
   cites one, and a `part_of` row carrying an enabling authority of its own;
@@ -513,12 +516,31 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   against `FIELDS` (#185) — `--check`'s
   `note-covers-fields` now refuses a registry whose top-level `note` does not name every
   field `FIELDS` declares, derived from the declaration itself rather than a second list.
-  Naming every field is not the same as AGREEING with what `cmd_refresh()` would write —
-  the two copies drifted by rewording and dropping sentences too, not only by falling
-  behind on field names, so `REGISTRY_NOTE` is now the one place that literal string
-  lives, read by `cmd_refresh()` and compared against the committed file directly by
-  `note-agrees-with-refresh`, a second rule beside `note-covers-fields` rather than a
-  replacement for it.
+  Naming every field is not the same as AGREEING with what `cmd_refresh()` would write, and
+  #185's own follow-up commit added a second rule for that, `note-agrees-with-refresh`,
+  comparing the committed `note` byte-for-byte against `REGISTRY_NOTE` (the one place that
+  literal string lives, read by `cmd_refresh()`). AC4 of #185 asked, further, that the note
+  "not be regenerated wholesale on every write" — reasoning by analogy to `catalog_oar.py`'s
+  own top-level note, which genuinely does carry hand-appended curator prose an unconditional
+  rewrite would destroy (4,425 committed characters today against an `INITIAL_NOTE` of
+  1,875, #241). #278 tested that analogy against this registry's own history rather than
+  assuming it transferred, and found it does not: every one of the 23 commits that have ever
+  touched `agencies.yml` shows the committed top-level `note` never exceeding its era's
+  module literal, so no curator prose has ever lived in this field — the two rows people
+  point to when describing "curator prose on the note" are `curator_note` entries (#178,
+  CONTEXT.md), a different field entirely. AC4 is therefore closed as OUT OF SCOPE rather
+  than given a preservation mechanism nothing has ever needed: `note-agrees-with-refresh`
+  stays exactly as #185 left it, `cmd_refresh()` keeps writing `REGISTRY_NOTE` wholesale, and
+  the full reasoning (including the walked commit history) lives at its extraction site in
+  `catalog_agencies.py`, above `REGISTRY_NOTE`, rather than restated here a second time.
+  Neither `note-covers-fields` nor `note-agrees-with-refresh` reads a NUMBER inside the
+  note's prose, only whether every field is named and whether the two copies match each
+  other — so a hand-typed count beside a field name (the "null on N of the M chapterless
+  rows" sentence) could go stale on its own, in `REGISTRY_NOTE` itself, and both rules
+  would still pass (#281's own code review: it did, surviving a whitespace-only re-wrap of
+  that exact sentence in the commit that made it wrong). `note-numbers-current` closes that
+  gap: it extracts the note's own chapterless claim and checks it against
+  `chapterless_source_url_census()`, computed from the committed rows the same run.
   The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
   `python3 src/link_budget_codes.py` from the hand-reviewed table in that file, whose
   `--check` verifies the registry against that table. The deprecated `budget_agency_code`

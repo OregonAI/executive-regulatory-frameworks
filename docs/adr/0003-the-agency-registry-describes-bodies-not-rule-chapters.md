@@ -185,3 +185,15 @@ at the time, and the correction sits beside it rather than being folded silently
 original prose. Dating this section's heading is new here, not inherited — ADR 0004's two
 amendments carry no date in their own headings, only one landing date stated once in that
 section's prose — and is recorded as the convention going forward.
+
+## Amendment (2026-08-28, later the same day): #281 closed the gap this amendment names
+
+The paragraph above states, in the present tense, that the Oregon Hemp Commission carries
+no row "because the registry carries no row for it to admit, which is exactly the gap #281
+files." Commit `180bb020b9` landed on this branch later the same day and added that row
+(`oregon-hemp-commission`), admitted on ORS 571.406 rather than the ORS 576.062 the other 21
+commodity commissions rest on — ORS 571.435 lists the Hemp Commission separately from the
+commissions created under ORS 576.051 to 576.455, so the enumerated-list evidence the other
+21 rest on does not reach it and it needed its own citation. The sentence above is left
+exactly as it stood when drafted, per this ADR's own convention two paragraphs up; this note
+is the pointer forward, not a correction of it.

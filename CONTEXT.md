@@ -353,6 +353,21 @@ scrape's own three sentences (`NOTE_SCRAPE_TEMPLATES`): a chapter page's title n
 parsing, its fetch failing, or a chapterless group's children disagreeing on a name
 prefix
 
+**Registry note**:
+The agency registry file's OWN top-level `note` (`agencies.yml`, the prose above
+`organizations`, read by three sibling corpora) — a third, unrelated field of the same name
+as the two above, describing the FILE rather than any row in it. It is scrape-controlled,
+regenerated in full on every `--refresh` from `REGISTRY_NOTE`, and is NOT a place curator
+prose belongs (#278, closing AC4 of #185 as out of scope): measured across every commit that
+has ever touched `agencies.yml`, the committed field has never once carried more than its
+era's module literal, so nothing has ever needed the preservation a wholesale rewrite would
+threaten. A curator with something to say about the REGISTRY belongs in this file's own
+prose, discussed with whoever maintains `REGISTRY_NOTE`; a curator with something to say
+about one ROW has **Curator note** above, which is the field built for exactly that and
+already survives a refresh.
+_Avoid_: Curator note — that field is per-row and protected; this one is whole-file and
+regenerated
+
 **Relation basis**:
 What decided a relation's KIND, written on the relation itself and never the same fact as
 its source: the source says who places this body under that one, the basis says what settled
@@ -361,10 +376,12 @@ kind decided by a statute. TWO STRENGTHS, which may never be collapsed into one:
 `reviewed-enabling-authority` is the basis ADR 0004 describes — the authority the row itself
 carries, hand-reviewed — and `proposed-enabling-authority` is a CANDIDATE from
 `_meta/catalog/enabling-authority-review.yml` that nobody has read, which is a proposal and
-not evidence. 44 of the 81 kinds rest on the second today, and the row upgrades visibly when
-the review lands. A kind other than *undetermined* with no basis is refused, for the reason
-`manual: true` was retired: an assertion records that someone decided, never what decided
-it. It is written by one thing, `src/derive_relation_kinds.py`.
+not evidence. The split between the two moves every time a review lands, so it is
+`relation_census()`'s live count, printed by `catalog_agencies.py --check` on every run,
+rather than a figure pinned in this glossary entry to go stale the next time it moves; the
+row upgrades visibly when the review lands. A kind other than *undetermined* with no basis
+is refused, for the reason `manual: true` was retired: an assertion records that someone
+decided, never what decided it. It is written by one thing, `src/derive_relation_kinds.py`.
 _Avoid_: Evidence, provenance, reason — a basis says what a KIND was derived from, and
 `source` already answers where the relation came from
 

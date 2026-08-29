@@ -29,15 +29,17 @@ relationship on evidence it does not hold — which is exactly what `manual: tru
 for (ADR 0003: an assertion records that someone decided, never what decided it).
 
 ONLY THE POSITIVE HALF IS DERIVED, AND THAT IS THE WHOLE OF CONTEXT.md'S OVERRIDING RULE.
-A candidate is evidence that a body is separately constituted, so 44 of the 81 children
-become `administered_by`. The other 37 stay `undetermined`. NOTHING here reads the ABSENCE
-of a candidate as evidence of `part_of`: the matcher finding nothing is a statement about
-the matcher, and this repository has watched that statement be wrong 55 times in one
-session — the no-candidate list went 118 -> 95 -> 82 -> 63 as `_variants`, the enumerated-list
-tier and the catchline tiers closed gaps in link_enabling_authority.py, each time turning
-bodies "statute forgot to create" into bodies statute plainly created. "Could not check" is
-never reported as "is not there", and 37 undetermined rows are the correct answer rather
-than a gap.
+A candidate is evidence that a body is separately constituted, so a body with one becomes
+`administered_by`; every body without one stays `undetermined` (the live split of both, and
+of the basis each decided kind rests on, is `relation_census()`'s count, printed by
+`catalog_agencies.py --check` on every run, rather than a figure fixed here). NOTHING here
+reads the ABSENCE of a candidate as evidence of `part_of`: the matcher finding nothing is a
+statement about the matcher, and this repository has watched that statement be wrong 55
+times in one session — the no-candidate list went 118 -> 95 -> 82 -> 63 as `_variants`, the
+enumerated-list tier and the catchline tiers closed gaps in link_enabling_authority.py, each
+time turning bodies "statute forgot to create" into bodies statute plainly created. "Could
+not check" is never reported as "is not there", and staying `undetermined` is the correct
+answer for such a row rather than a gap.
 
 A REVIEWED ABSENCE IS NOT A CANDIDATE FOR ANYTHING HERE EITHER. `none: <reason>` on a row
 means a human looked and found no separate authority, which is ADR 0004's own description of
@@ -381,9 +383,9 @@ def check() -> int:
     decisions = derived(orgs, proposed)
     bases = collections.Counter(d.basis for d in decisions.values())
     # THE TWO POPULATIONS, NAMED APART AND BOTH COUNTED, on every run. The number that would
-    # be easiest to print is "44 bodies administered by their parent", and it is the one this
-    # module may not print alone: 44 of those rest on candidates nobody has read, and the
-    # count of bodies left `undetermined` is not a backlog to be quiet about — it is the
+    # be easiest to print is a single administered-by tally, and it is the one this module
+    # may not print alone: some of that population rest on candidates nobody has read, and
+    # the count of bodies left `undetermined` is not a backlog to be quiet about — it is the
     # answer for every body no evidence speaks to.
     children = [o for o in orgs if isinstance(o, dict) and relation_entries(o)]
     print(f"{len(decisions)} of {len(children)} bodies under another have a kind derived; "
@@ -434,9 +436,9 @@ def _registry():
     parent = "board-of-imaginary-affairs"
     orgs = [
         _row(parent),
-        # NO CANDIDATE AND NO REVIEW: stays undetermined. This is the 37.
+        # NO CANDIDATE AND NO REVIEW: stays undetermined.
         _row("imaginary-affairs-inspection-division", parent),
-        # A PROPOSED CANDIDATE NOBODY HAS READ: administered_by, on the weaker basis. The 44.
+        # A PROPOSED CANDIDATE NOBODY HAS READ: administered_by, on the weaker basis.
         _row("board-of-imagined-standards", parent),
         # A REVIEWED AUTHORITY, WITH A PROPOSAL STILL IN THE SHEET: the reviewed one wins,
         # and the basis says so. This is the upgrade, and the row it happens on.

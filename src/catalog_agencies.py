@@ -207,8 +207,9 @@ FIELDS = {
     # at a title the rules index no longer prints. A field that cannot track an upstream
     # retitle cannot be the string OAR-derived joins match on.
     "oar_name": Field(SCRAPED, required=True),
-    # Null on 19 rows and that is not a gap: a body is in the registry because it EXISTS,
-    # not because it issues rules (ADR 0003). Required means the KEY is present.
+    # Null on 20 rows (#281, re-measured; live count printed by --check as "N chapterless")
+    # and that is not a gap: a body is in the registry because it EXISTS, not because it
+    # issues rules (ADR 0003). Required means the KEY is present.
     "oar_chapter": Field(SCRAPED, required=True),
     "raw_index_name": Field(SCRAPED, required=True),
     "source_url": Field(SCRAPED, required=True),
@@ -301,6 +302,28 @@ FIELDS = {
 # directly, rather than only checking that every FIELDS name appears somewhere in the
 # committed prose (`note-covers-fields`), which says nothing about whether the two texts
 # actually agree.
+#
+# #278 asked whether that equality check was itself the bug — AC4 of #185 wanted "the note
+# not regenerated wholesale on every write," reasoning by analogy to catalog_oar.py's
+# `INITIAL_NOTE` (#241: restating that literal on every write once deleted 1,430 characters
+# of genuine curator prose). The analogy does not transfer: measured by walking every one of
+# the 23 commits that have ever touched `_meta/catalog/agencies.yml` and comparing each
+# commit's committed `note` against that same revision's module literal, the committed
+# top-level note has NEVER been longer than the literal — byte-identical in most revisions,
+# a stale SHORTER earlier version in the rest, at every single commit including the one
+# immediately before #185's own fix (committed 5,260 == literal 5,260, exact). No curator
+# prose has ever been appended to this field. `catalog_oar.py`'s case is real (4,425
+# committed characters against an `INITIAL_NOTE` of 1,875, from #228/#229 appending
+# paragraphs directly) because that module never split a curator-prose field out of its
+# note the way #178 split this registry's row-level `note`/`curator_note` — a curator here
+# who wants to say something about a specific row already has `curator_note` (CURATED,
+# survives any refresh via `CURATED_KEYS`, CONTEXT.md), needing none of this field's
+# whole-note protection. AC4 is closed by option 2 of #278's own two named shapes: the
+# top-level `note` is declared out of scope for curator prose, in AGENTS.md and CONTEXT.md,
+# rather than given a preservation mechanism for content that has never once been written to
+# it. `note-agrees-with-refresh` stays exactly as #185 left it — a real regression guard,
+# not a check that would fail forever the first time someone used a capability nothing here
+# actually needs.
 # THE TWO SCRIPTS THAT STATE, IN PROSE, HOW MANY CHAPTER PAGES A --refresh FETCHES (#279).
 # `expand_oar_name.py` and `record_name_basis.py` each explain why they are a one-shot
 # script and not a --refresh by naming the network cost of the alternative — a number that
@@ -317,6 +340,16 @@ CHAPTER_PAGE_DOC_FILES = (
 # fix), so one pattern catches both; a future rewording that drops this exact shape is
 # refused by `chapter-page-count-current` below rather than silently going unchecked.
 CHAPTER_PAGE_COUNT_RE = re.compile(r"re-fetches (?:all )?([\d,]+) chapter pages")
+
+# THE REGISTRY'S OWN "null on N of the M chapterless" CLAIM, IN ITS OWN NOTE (code review
+# of #281). `REGISTRY_NOTE` states, in prose, how many chapterless rows carry no
+# `source_url` — a hand-typed pair of numbers that went stale a second time in the commit
+# that added the 20th chapterless row: the sentence survived a whitespace-only re-wrap
+# unchanged at "14 of the 19" while `chapter_census()` printed "(20 chapterless)" in the
+# same `--check` run. `note-covers-fields` (#185) only proves every FIELDS name appears
+# somewhere in the note; `note-agrees-with-refresh` only proves the committed note matches
+# `REGISTRY_NOTE`, which can be wrong the same way and was — neither reads a number.
+NOTE_CHAPTERLESS_RE = re.compile(r"null on (\d+) of the (\d+) chapterless")
 
 
 def _default_chapter_page_docs():
@@ -421,7 +454,7 @@ REGISTRY_NOTE = (
     "scraped from the index tree; null on the chapterless rows is not a "
     "gap — a body is in this registry because it EXISTS, not because it "
     "issues rules. source_url is the chapter page each row was scraped "
-    "from, where the scrape found one: null on 14 of the 19 chapterless "
+    "from, where the scrape found one: null on 15 of the 20 chapterless "
     "rows, not all of them — the other five hold a source_url that is "
     "not a chapter page (four hold the mirror's own rules index, "
     "https://oregon.public.law/rules, and the manual saif-corporation "
@@ -441,6 +474,7 @@ REGISTRY_NOTE = (
     "sentences do not mention fails the gate, so this note cannot go "
     "stale the way it did before anything watched it."
 )
+
 
 # THE ONE NUMBER'S TWO KEYS, FIELD OF RECORD FIRST. ADR 0003 renames `budget_agency_code`
 # to `das_agency_number`, and this is the EXPAND half: every row that carries the number
@@ -1016,6 +1050,17 @@ def chapter_census(orgs) -> str:
     return f"{chaptered} of {len(orgs)} row(s) carry oar_chapter ({len(orgs) - chaptered} chapterless)"
 
 
+def chapterless_source_url_census(orgs) -> tuple[int, int]:
+    """(chapterless rows with no `source_url`, chapterless rows total) — the pair
+    `REGISTRY_NOTE` states in prose as "null on N of the M chapterless rows" (code review
+    of #281). THE ONE PLACE THIS IS COUNTED, the same reason `chaptered_rows()` is (#279):
+    `check_registry()`'s `note-numbers-current` rule is the only reader, so there is
+    nowhere else for this and the note's own claim to disagree about what counts."""
+    chapterless = [o for o in orgs if isinstance(o, dict) and not o.get("oar_chapter")]
+    null_source = sum(1 for o in chapterless if not o.get("source_url"))
+    return null_source, len(chapterless)
+
+
 def name_census(orgs) -> str:
     """What each row's `name` IS, counted over rows — printed by --check on every run.
 
@@ -1094,7 +1139,7 @@ def relation_census(orgs) -> str:
     # registry holds kinds derived from a PROPOSED enabling-authority candidate nobody has
     # read beside kinds derived from a REVIEWED authority, and those are not the same claim:
     # ADR 0004 derives the kind from admitting evidence, and a proposal is not evidence. A
-    # census reporting only "44 administered_by" would present the weaker population as the
+    # census reporting only the kind tally would present the weaker population as the
     # stronger one on every run. Counted over the relations that RECORD a decision, so an
     # entry with a decided kind and no basis shows up here as a basis this registry does not
     # name — which is `relation-shape`'s failure, reported rather than absorbed.
@@ -1132,8 +1177,14 @@ def curated_keys_in_order(fields=None):
     exactly the Python dict order its keys were inserted in, and a `frozenset`'s iteration
     order is PYTHONHASHSEED-dependent — stable within one process, different across the next
     `--refresh` run, so a curated field's line moves in the diff for no reason every time.
-    No run of `--refresh` has actually produced three different files — #275 finds it
-    aborts before writing anything, on unmodified main, for a reason unrelated to key order.
+    No run of `--refresh` has actually produced THREE different files to diff against each
+    other for hashseed-driven reordering — #275 is why, until #275's own fix landed in the
+    same commit that corrected this sentence: every `--refresh` aborted before writing
+    anything, for a reason unrelated to key order, so no such run ever existed to compare. A
+    single live `--refresh` now completes (timing and count recorded once, at
+    `assert_scrape_declared()`'s own docstring, rather than restated here), but one run says
+    nothing about hashseed variance ACROSS runs — that is still only demonstrated the way it
+    always was, below.
     The evidence is `simulate_refresh()`, the same `preserve_curated()` a real --refresh
     calls: five subprocesses, one fresh PYTHONHASHSEED apiece, simulating a refresh of
     department-of-administrative-services against unchanged committed data, landed
@@ -1151,9 +1202,11 @@ def curated_keys_in_order(fields=None):
 
     WHERE ELSE THIS WAS CHECKED (#182's own acceptance criterion, so this is where a reader
     looks rather than a commit message nobody greps): CURATED_KEYS is not the only frozenset
-    a rebuilt row is iterated over. SCRAPED_KEYS and MERGED_KEYS are read inside
-    `assert_scrape_declared()`, and MERGED_KEYS and PER_ROW_KEYS are iterated inside
-    `preserve_relations()` and `preserve_name()` respectively — but neither of those two
+    a rebuilt row is iterated over. SCRAPED_KEYS, MERGED_KEYS and PER_ROW_KEYS are all three
+    read inside `assert_scrape_declared()` (#275: PER_ROW_KEYS did not join the other two
+    until then, and a real --refresh could not get past that function as a result), and
+    MERGED_KEYS and PER_ROW_KEYS are also iterated inside `preserve_relations()` and
+    `preserve_name()` respectively — but neither of those two
     loops APPENDS a key the rebuilt row does not already carry, because `scraped_entry()`
     always writes `relations` and the `name`/`name_basis` pair. Only a loop that can add a
     missing key can move a line, which is what `preserve_curated()` alone was doing before
@@ -1172,6 +1225,10 @@ MERGED_KEYS = frozenset(keys_in_order(MERGED))
 # The fields whose origin is written on the ROW rather than on the field. Derived from the
 # same table for the same reason the three sets above are, and read by `preserve_name()`.
 PER_ROW_KEYS = frozenset(keys_in_order(PER_ROW))
+# The one field the scrape may never write under any name (#275 review): `manual: true` is
+# asserted only by a human, via `preserve_manual()`, which runs AFTER the scrape. Derived
+# for the same reason the four sets above are, and read only by `assert_scrape_declared()`.
+MANUAL_FLAG_KEYS = frozenset(keys_in_order(MANUAL_FLAG))
 UA = "executive-regulatory-frameworks (+https://github.com/OregonAI/executive-regulatory-frameworks)"
 
 ENTRY_RE = re.compile(
@@ -1327,19 +1384,67 @@ def parse_index(raw: str):
 
 
 def assert_scrape_declared(orgs):
-    """Stop a refresh that produced a field FIELDS does not declare SCRAPED.
+    """Stop a refresh that produced a field FIELDS does not declare SCRAPED, MERGED or
+    PER_ROW.
 
     THE DECLARATION IS BINDING ON THE SCRAPE, and this is the half --check cannot reach: it
     reads committed data and never runs a scrape, so it can only ask whether the rows it can
     see would survive. A field added to the scrape without being declared would make that
     simulation wrong in the direction that hides losses — the field would be compared as if
     curated and fail, or worse, be assumed rewritten — so the refresh that would introduce it
-    stops here instead, before anything is written."""
-    undeclared = {k for o in orgs for k in o} - SCRAPED_KEYS - MERGED_KEYS
+    stops here instead, before anything is written.
+
+    #275: PER_ROW_KEYS belongs in the exclusion beside SCRAPED_KEYS and MERGED_KEYS, and
+    was not. `scraped_entry()` writes `name`/`name_basis` on EVERY row it builds — PER_ROW
+    is what lets a name a human established survive `preserve_name()` untouched while a
+    still-unverified OAR title gets rebuilt, but the row's KEYS are as much the scrape's own
+    output as anything SCRAPED or MERGED names. This function only asks "did the scrape
+    produce a field FIELDS does not know about at all" — whether a PER_ROW field's rebuilt
+    VALUE then survives is a separate question, `preserve_name()`'s alone to answer, later.
+    Without this, `{'name', 'name_basis'}` came back "undeclared" on every row a real scrape
+    ever built, so a real `--refresh` died here before writing anything, every invocation —
+    reproduced directly below against the exact row `scraped_entry()` builds, and matching
+    #275's own quoted `--refresh` transcript verbatim ("the scrape produced undeclared
+    field(s) ['name', 'name_basis']"; the ticket states no timing for that crash, and none is
+    claimed here — a number nobody measured is worse than no number). Fixed and verified
+    LIVE, not only against the fixture below: `--refresh` against oregon.public.law completed
+    end to end, 189 rows in `organizations`, 106.48s wall-clock (2026-08-28, this branch); the
+    committed registry was restored unchanged afterward, since a network-dependent refresh's
+    output is not this ticket's data to commit.
+
+    THE EXCLUSION IS DERIVED, NOT A LIST (#275 review). It used to name SCRAPED_KEYS,
+    MERGED_KEYS and PER_ROW_KEYS by hand — three views of FIELDS restated at the one call
+    site that needed their union, the same shape #182 fixed for `preserve_curated()`'s key
+    order and this function itself went stale under, once already, the day PER_ROW joined
+    the other two origins and this list did not. `admitted` is now `set(FIELDS) -
+    CURATED_KEYS - MANUAL_FLAG_KEYS` — every field FIELDS declares, except the two origins
+    `scraped_entry()` may never produce. A field the scrape starts writing under any OTHER
+    origin is caught by being declared, not by this list remembering to grow: there is no
+    longer a per-origin name here for a future origin to be missing from.
+
+    CURATED_KEYS and MANUAL_FLAG_KEYS are the two that stay excluded, and that is a real,
+    checkable claim rather than an assumption: `scraped_entry()` never writes a curated field
+    or `manual: true` — both reach a row only later, via
+    `preserve_curated()`/`preserve_manual()`, which both run AFTER this guard. So a curated
+    or manual key on a freshly-scraped `orgs` here is a real bug — the scrape asserting data
+    only a human may assert — and admitting those two origins as well would make this guard
+    permanently silent on exactly the mistake it exists to catch."""
+    admitted = set(FIELDS) - CURATED_KEYS - MANUAL_FLAG_KEYS
+    undeclared = {k for o in orgs for k in o} - admitted
     if undeclared:
-        sys.exit(f"the scrape produced undeclared field(s) {sorted(undeclared)} — add them "
-                 "to FIELDS (origin SCRAPED, or MERGED if the refresh writes only some of "
-                 "what the field holds) before writing the registry")
+        unknown = sorted(undeclared - set(FIELDS))
+        stray = sorted(undeclared & (CURATED_KEYS | MANUAL_FLAG_KEYS))
+        parts = []
+        if unknown:
+            parts.append(f"{unknown} not declared in FIELDS at all — add them (origin "
+                         "SCRAPED, MERGED, or PER_ROW, whichever the scrape actually "
+                         "writes)")
+        if stray:
+            parts.append(f"{stray} ARE declared in FIELDS, as CURATED or MANUAL_FLAG — "
+                         "scraped_entry() is not supposed to write those; the bug is "
+                         "likely in the scrape, not a missing FIELDS declaration")
+        sys.exit("the scrape produced undeclared field(s): " + "; ".join(parts) +
+                 " — nothing was written")
 
 
 def preserve_manual(prev_orgs, orgs, by_slug):
@@ -2028,7 +2133,12 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
     `cmd_refresh()` writes — for the same reason: --selftest's fixture carries its own
     synthetic note (built to name every FIELDS key without being the real prose), and a
     real registry's `note` is checked against the real `REGISTRY_NOTE`, not the fixture's
-    stand-in.
+    stand-in. #278 asked whether this check should be relaxed, on the theory that the
+    top-level `note` might carry hand-appended curator prose the way catalog_oar.py's does
+    — measured against all 23 commits that have ever touched agencies.yml and found false
+    (see the comment above `REGISTRY_NOTE`'s own extraction site): the committed note has
+    never once exceeded the literal, so this stays a real equality check rather than one
+    designed to fail the first time a capability nothing here uses gets used.
 
     `chapter_page_docs` is the same shape of parameter a third time, for the same reason
     (#279): defaulting to the real text of `CHAPTER_PAGE_DOC_FILES`, so --selftest can
@@ -2100,7 +2210,11 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
     # `cmd_refresh()`'s literal and leaving the committed file's prose behind with nothing
     # comparing the two. `REGISTRY_NOTE` is the one place that literal now lives, read by
     # both `cmd_refresh()` and here, so this is a real equality check rather than a second
-    # hand-maintained expectation.
+    # hand-maintained expectation. #278 proposed retiring this rule on the theory that the
+    # top-level `note` might carry hand-appended curator prose a wholesale rewrite would
+    # destroy — measured false across the field's entire committed history (see the comment
+    # above `REGISTRY_NOTE`'s own extraction site): nothing has ever been appended here, so
+    # the rule stays.
     if not isinstance(file_note, str) or file_note != refresh_note:
         failures.append(Failure(
             "note-agrees-with-refresh", "agencies.yml",
@@ -2108,6 +2222,31 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
             "string `cmd_refresh()` writes back — the two are meant to be kept "
             "byte-identical (#185) and nothing but this rule notices when they stop "
             "being so"))
+
+    # THE NOTE'S OWN "null on N of the M chapterless" CLAIM, AGAINST A LIVE COUNT (code
+    # review of #281). Reads the COMMITTED file's note, not `refresh_note`: the defect this
+    # rule exists to catch is `REGISTRY_NOTE` itself going stale, which `note-agrees-with-
+    # refresh` above cannot see because it only proves the two copies match each other, not
+    # that either still describes the file. OPTIONAL, not required — the phrase is matched
+    # if present and left alone if not: forcing every note (including the synthetic
+    # `--selftest` fixture's, built only to name every FIELDS key) to carry this exact
+    # sentence would couple every other rule's fixture to a sentence about this one. The
+    # real committed note always has it; when it does, its two numbers must agree with the
+    # file's own chapterless census or the sentence is reporting a state the same run's own
+    # numbers contradict.
+    if isinstance(file_note, str):
+        m = NOTE_CHAPTERLESS_RE.search(file_note)
+        if m:
+            stated = (int(m.group(1)), int(m.group(2)))
+            live = chapterless_source_url_census(orgs)
+            if stated != live:
+                failures.append(Failure(
+                    "note-numbers-current", "agencies.yml",
+                    f"the registry's own top-level `note` states \"null on {stated[0]} of "
+                    f"the {stated[1]} chapterless rows\"; the committed registry has "
+                    f"{live[0]} of {live[1]} chapterless rows carrying no `source_url` — "
+                    "update the literal in REGISTRY_NOTE (src/catalog_agencies.py) and "
+                    "re-run --refresh so the committed note picks it up"))
 
     # HOW MANY CHAPTER PAGES A --refresh FETCHES, AGAINST WHAT TWO OTHER SCRIPTS SAY IT
     # DOES (#279). `expand_oar_name.py` and `record_name_basis.py` both explain, in prose,
@@ -2770,13 +2909,12 @@ def _fixture():
             "organizations": [das, cfo, gov]}
 
 
-# THE FIXTURE'S OWN CHAPTER-PAGE COUNT, for `chapter-page-count-current` the same way
-# `baseline_note` is for `note-agrees-with-refresh` (#279): the fixture holds 2 chaptered
-# rows (`das`, `cfo`) and 1 chapterless one (`gov`), never 170 — a --selftest run that
-# checked this fixture against the REAL two scripts' real prose would fail regardless of
-# whether either script says the truth, which is not a demonstration of anything. No
-# `_CASES` mutation changes which rows carry `oar_chapter`, so this stays "2" for all of
-# them.
+# THE FIXTURE'S OWN CHAPTER-PAGE COUNT, for `chapter-page-count-current` (#279): the fixture
+# holds 2 chaptered rows (`das`, `cfo`) and 1 chapterless one (`gov`), never 170 — a --selftest
+# run that checked this fixture against the REAL two scripts' real prose would fail
+# regardless of whether either script says the truth, which is not a demonstration of
+# anything. No `_CASES` mutation changes which rows carry `oar_chapter`, so this stays "2"
+# for all of them.
 _FIXTURE_CHAPTER_PAGE_DOCS = {
     "fixture.py": "a refresh re-fetches all 2 chapter pages from the mirror.",
 }
@@ -3324,6 +3462,20 @@ def _case_note_diverges_from_what_refresh_would_write(cat):
     cat["note"] += " A sentence cmd_refresh() would never write."
 
 
+def _case_note_chapterless_count_stale(cat):
+    """The note's own "null on N of the M chapterless" claim, wrong against the fixture's
+    own data (code review of #281: the real committed note carried this exact sentence
+    unchanged, at "14 of the 19", through the commit that made the true count "15 of the
+    20" — surviving both `note-covers-fields`, which only proves every FIELDS name is
+    named, and `note-agrees-with-refresh`, which only proves the committed note matches
+    `REGISTRY_NOTE` and says nothing about whether `REGISTRY_NOTE` itself is still true).
+    The fixture holds exactly one chapterless row (`gov`), which carries no `source_url`
+    either, so the true sentence would read "null on 1 of the 1 chapterless rows"; this
+    appends "0 of 1", which the fixture's own two rows above (`das`, `cfo`, both chaptered)
+    contradict."""
+    cat["note"] += " null on 0 of the 1 chapterless rows, not all of them."
+
+
 def _case_registry_emptied(cat):
     """Every row gone. A gate that reports a registry with no bodies in it as clean is a
     gate that passes without checking anything — and every rule below is vacuously true of
@@ -3389,6 +3541,8 @@ _CASES = [
     ("note-diverges-from-what-refresh-would-write",
      _case_note_diverges_from_what_refresh_would_write,
      "note-agrees-with-refresh"),
+    ("note-chapterless-count-stale", _case_note_chapterless_count_stale,
+     "note-numbers-current"),
     ("row-the-simulation-cannot-run-on", _case_row_the_simulation_cannot_run_on,
      "survives-refresh"),
     ("slug-the-scrape-would-not-produce", _case_slug_the_scrape_would_not_produce,
@@ -3839,14 +3993,42 @@ def _proof_refresh_rejects_an_undeclared_scraped_field() -> int:
     field ADR 0003 said the registry was going to carry — and the day it started carrying
     one the proof stopped proving anything: the guard correctly said nothing, and the only
     reason that surfaced as a red build rather than a quiet pass is that the assertion is on
-    the guard firing. Any real field is a field FIELDS may legitimately declare tomorrow."""
+    the guard firing. Any real field is a field FIELDS may legitimately declare tomorrow.
+
+    #275's other half, and the one a made-up field cannot demonstrate: the guard must also
+    stay QUIET on a row the scrape genuinely produces. `scraped_entry()` is the only thing
+    that builds one, so THAT is the fixture here rather than a hand-typed dict — a hand-typed
+    row is a claim about what the scrape writes, and this proof exists because that claim was
+    wrong once already (`note` used to be typed by hand here too, before it grew `name` and
+    `name_basis`). Demonstrated failing on unmodified main: `assert_scrape_declared()` read
+    only `SCRAPED_KEYS` and `MERGED_KEYS`, so the `name`/`name_basis` pair `scraped_entry()`
+    writes on every row (PER_ROW, ADR 0003 — a body the scrape just found has no established
+    statutory name, so it starts under `name_basis: unverified-oar-title`) came back as
+    undeclared on every row a real scrape ever built — `['name', 'name_basis']`, exactly the
+    pair the ticket's own `--refresh` transcript quotes it dying on, before writing anything
+    (the ticket states no timing; a live post-fix `--refresh` completed in 106.48s, see
+    `assert_scrape_declared()`'s own docstring)."""
+    bad = 0
     try:
         assert_scrape_declared([{"slug": "a-body", "headcount": 412}])
     except SystemExit as e:
-        return 0 if "headcount" in str(e) else 1
-    print("FAIL refresh-rejects-undeclared-scraped-field: the scrape guard did not fire",
-          file=sys.stderr)
-    return 1
+        if "headcount" not in str(e):
+            bad += 1
+    else:
+        print("FAIL refresh-rejects-undeclared-scraped-field: the scrape guard did not fire",
+              file=sys.stderr)
+        bad += 1
+
+    row = scraped_entry(oar_name="Department of Administrative Services", oar_chapter="125",
+                        raw_index_name="Dept. of Administrative Services",
+                        source_url=f"{BASE}/rules/oar_chapter_125")
+    try:
+        assert_scrape_declared([row])
+    except SystemExit as e:
+        print("FAIL refresh-accepts-what-the-scrape-produces: assert_scrape_declared "
+              f"rejected a row scraped_entry() itself built ({e})", file=sys.stderr)
+        bad += 1
+    return bad
 
 
 # The row this proof carries curated keys onto, deliberately holding all four of them (#182):
@@ -3901,9 +4083,13 @@ def _proof_curated_keys_survive_in_declaration_order() -> int:
     `CURATED_KEYS` here reproduces exactly that.
 
     Checks the FULL row from each seed, not only its curated keys, so a --refresh that
-    reordered something else in the row would also fail this — the closest this module can get
-    to AC1's byte-identical --refresh assertion while #275 blocks running --refresh itself.
-    Both full rows must also agree with each other, and the curated keys within them must
+    reordered something else in the row would also fail this — the closest this module gets
+    to AC1's byte-identical --refresh assertion without THREE real `--refresh` runs to diff
+    against each other (#275's fix, landed alongside this correction, lets a real `--refresh`
+    run at all now — verified live, timing and count at `assert_scrape_declared()`'s own
+    docstring rather than restated here — but a single run says nothing about PYTHONHASHSEED
+    variance across runs, which is what this proof still stands in for). Both full rows must
+    also agree with each other, and the curated keys within them must
     match `_DECLARED_CURATED_ORDER` — a literal independent of `curated_keys_in_order()`, so
     two seeds agreeing on the WRONG order does not pass this the way it would an equality-only
     check against that function's own output."""
@@ -4117,7 +4303,23 @@ def selftest() -> int:
             print(f"FAIL {name}: expected a [{rule}] failure, got {failures}",
                   file=sys.stderr)
             bad += 1
-    print(f"{len(_CASES) + len(_PROOFS) + 8} violation(s) demonstrated failing, "
+    # THE "+ 9" IS A HAND COUNT OF THE EIGHT PROOF CALLS ABOVE (#275 review) — one violation
+    # demonstrated per call, EXCEPT `_proof_refresh_rejects_an_undeclared_scraped_field()`,
+    # which #275 grew a second, independent demonstration inside (the guard must also stay
+    # QUIET on a row `scraped_entry()` genuinely produces) without this literal following it:
+    # the total silently undercounted by one until this line was corrected alongside it.
+    # (#278 briefly added a ninth call, a top-level-note preservation proof, and bumped this
+    # to "+ 10" — retired along with the function it was counting once #278's review found the
+    # top-level `note` has never carried curator prose in its committed history, so nothing
+    # needed the preservation path that proof exercised; see the comment above
+    # `REGISTRY_NOTE`'s own extraction site.) This is the same shape
+    # #279/#299/93036cf name — a printed count that can drift from the thing it counts — one
+    # level down, and it is not fixed structurally here: doing that properly means every one
+    # of the eight functions returning its own demonstrated count, the way the two
+    # name-resolution proofs below already do (`failed, ran = proof()`), and summing those
+    # instead of a literal. Filed as its own issue rather than folded into #275's fix, which
+    # this literal is not: OregonAI/executive-regulatory-frameworks#301.
+    print(f"{len(_CASES) + len(_PROOFS) + 9} violation(s) demonstrated failing, "
           f"{resolutions} name resolution(s) proven"
           if not bad else f"{bad} rule(s) did not fire")
     return 1 if bad else 0
