@@ -9,6 +9,36 @@ before doing anything else in the repo.
 It is **not** the official text of Oregon law or policy. Never present its contents as
 authoritative. Every answer you derive from it should cite the document's `source_url`.
 
+## The overriding rule: could not check is never reported as is not there
+
+**Not having been able to determine something is never written down, printed, or returned as
+having determined it is absent.** This outranks every other rule in this file and every
+convention in the codebase. When the two conflict, this wins.
+
+It applies to the same substitution in all its forms:
+
+- A fetch that failed, a file that could not be read, a parse that raised — none of these is
+  a measurement of zero. A source that could not be fetched is a source that was **not
+  compared**, never a source that **did not change**.
+- A field a scraper's response did not carry is not a field the upstream lacks. A `get()`
+  that returns nothing cannot tell "absent upstream" from "not in this response".
+- A record nobody has looked at yet is not a record reviewed and found empty. Ingestion
+  writes `last_verified` and `verified_by` as empty strings for exactly this reason: an
+  empty string says *unverified*, and any value there would be a verification nobody did.
+- A count that omits a category because it happened to be zero cannot be told apart from a
+  count that was never asked. **Name every category, the zeroes included.**
+- A gate that could not run has not passed. A skipped check is not a green one.
+
+**What to do instead.** Report the state you are actually in, with a name for it — the
+corpus's published reports carry a literal `## Could not check` section for this. An absence
+may be asserted only when it was **measured**: a search that ran to completion and found
+none, cited as such. "Could not check" and "found none" are different findings, and this
+repository never lets the first be served as the second.
+
+This is why an unfixed defect gets an issue rather than silence (see *Found a bug you are
+not fixing right now?*), and why a summary may never stand in for text nobody read (see
+*Content policy*). Both are this rule applied to a particular surface.
+
 ## How to navigate
 
 1. **Start at [`llms.txt`](llms.txt)** — the master index of every document, with
