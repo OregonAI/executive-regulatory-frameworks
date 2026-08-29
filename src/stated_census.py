@@ -115,7 +115,6 @@ CHECK_RULES = (
 # comparison against `CHECK_RULES` used to be hand-rolled here -- `legal_status.py` carried
 # the identical shape, character for character, and this is the one copy both now share.
 _LEDGER = RuleLedger(CHECK_RULES, __file__)
-_FIRED: set = _LEDGER.fired
 
 
 class Failure(_LEDGER.Failure):
@@ -126,18 +125,6 @@ class Failure(_LEDGER.Failure):
 
     def __str__(self):
         return f"  FAIL [{self.rule}] {self.site}: {self.detail}"
-
-
-def emitted_rules(source=None) -> set:
-    """Every rule name this module can report, read out of its own syntax tree -- delegates
-    to the shared ledger (#319), same arrangement as `legal_status.emitted_rules()`.
-    `Failure.__new__` already refuses an undeclared rule name the moment that construction
-    actually RUNS, but a site that is unreachable in every `--selftest` fixture never runs,
-    so a dynamic-only check (`set(CHECK_RULES) - _FIRED`, below) is blind to it -- it would
-    first crash in production, with a raw `ValueError`, the day some real document finally
-    took that branch. Reading the AST instead catches it in `--selftest`, on every run,
-    without needing the branch to execute."""
-    return _LEDGER.emitted_rules(source)
 
 
 # --------------------------------------------------------------------- the figure detector

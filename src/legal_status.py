@@ -267,7 +267,6 @@ CHECK_RULES = (
 # and neither has anything to change: the names they import still resolve the same way.
 _LEDGER = RuleLedger(CHECK_RULES, __file__)
 Failure = _LEDGER.Failure
-_FIRED = _LEDGER.fired
 emitted_rules = _LEDGER.emitted_rules
 
 

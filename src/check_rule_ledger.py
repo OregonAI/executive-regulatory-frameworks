@@ -13,11 +13,12 @@ the two -- a rule DECLARED with no proof is invisible to one direction, a rule E
 declaration is invisible to the other, and #306 found `stated_census.py` missing the second
 direction entirely: an emitted-but-undeclared `Failure` passed its `--selftest` green.
 
-TEN MODULES COPY PART OF THIS BY HAND, IN THREE STRENGTHS (#319's own measurement, `main` at
-d8de9f50a6): two have the full pattern (`legal_status`, `stated_census`), two have
-`CHECK_RULES` and `_FIRED` with no AST scan (`reingest_oar`, `bulletin_report` -- an emitted-
-but-undeclared refusal these two cannot catch), four have `_FIRED` alone
-(`provenance_spelling`, `catalog_agreement`, `oar_watch_coverage`, `seed_oar_watch`), and two
+ELEVEN MODULES COPY PART OF THIS BY HAND, IN THREE STRENGTHS (#319's own measurement, `main`
+at d8de9f50a6, corrected by #323 -- the original count of ten missed `snapshot_identity`):
+two have the full pattern (`legal_status`, `stated_census`), two have `CHECK_RULES` and
+`_FIRED` with no AST scan (`reingest_oar`, `bulletin_report` -- an emitted-but-undeclared
+refusal these two cannot catch), five have `_FIRED` alone (`provenance_spelling`,
+`catalog_agreement`, `oar_watch_coverage`, `seed_oar_watch`, `snapshot_identity`), and two
 have neither (`catalog_agencies`, `catalog_oar`). THIS TICKET EXTRACTS THE SHAPE FROM THE TWO
 THAT ALREADY HAVE IT WHOLE AND ADOPTS IT IN EXACTLY THOSE TWO -- proving the extraction is
 faithful (identical `--check`/`--selftest` output, before and after) is the point, and mixing
@@ -280,6 +281,26 @@ def _proof_demonstrated_count(check) -> None:
           ledger.demonstrated_count == len(ledger.check_rules))
 
 
+def orphaned_proofs(source) -> set:
+    """Proof functions defined in this module that `selftest()` never calls (#324).
+
+    The checks above can catch a mutation to code a proof exercises, but not a proof that
+    was written and never wired into `selftest()` at all -- it never runs, so nothing above
+    can turn it red. A proof nobody runs is indistinguishable from one that passes, and it
+    is worse than no proof at all: the file reads as though the claim were watched. Same
+    shape as `bulletin_report.py`'s own gate of this kind, and the same move
+    `RuleLedger.emitted_rules()` already makes for rule names -- read off the syntax tree
+    rather than trusted -- applied here to proof functions instead."""
+    tree = ast.parse(source)
+    defined = {n.name for n in ast.walk(tree)
+               if isinstance(n, ast.FunctionDef) and n.name.startswith("_proof_")}
+    body = next((n for n in ast.walk(tree)
+                 if isinstance(n, ast.FunctionDef) and n.name == "selftest"), None)
+    called = {n.func.id for n in ast.walk(body) if isinstance(n, ast.Call)
+              and isinstance(n.func, ast.Name)} if body else set()
+    return defined - called
+
+
 def selftest() -> int:
     check = Checks()
     _proof_recording(check)
@@ -289,6 +310,18 @@ def selftest() -> int:
     _proof_emitted_rules_reads_module_path_by_default(check)
     _proof_gaps(check)
     _proof_demonstrated_count(check)
+    # AND EVERY PROOF IS ACTUALLY RUN (#324). The checks above compare declared rules
+    # against emitted and fired rules, and neither can see a proof that was written and
+    # never called -- exactly how a future `_proof_something_new` could sit in this file,
+    # fully written, contributing nothing, while the selftest reported OK. This module is
+    # what every adopting module's own rule discipline is checked against, so an unexercised
+    # claim here is the worst place in the repo for one to hide.
+    source = Path(__file__).read_text()
+    check("a proof written in this file and never called is caught",
+          orphaned_proofs(source.replace("    _proof_demonstrated_count(check)\n", ""))
+          == {"_proof_demonstrated_count"})
+    check("...and every proof written in this file is one selftest() calls",
+          orphaned_proofs(source) == set())
     return check.report(
         "the check-rule ledger's own recording, scan, both-directions comparison and "
         "demonstrated count all watched working, and an undeclared rule refused at "
