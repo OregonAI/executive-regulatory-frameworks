@@ -712,6 +712,14 @@ jobs:
       - name: OAR discovery is keyed on the OAR name (selftest)
         timeout-minutes: 2
         run: python3 src/catalog_oar.py --selftest
+      # The OAR catalog row's own declared shape (#334): twelve keys, five writers, three
+      # both-or-neither groups, and the two status-derived pairings (served_as <->
+      # status: renumbered, path <-> whether anything was fetched) -- against the real
+      # committed catalog, matching `catalog_agencies.py --check`'s role for agencies.yml.
+      # ~4.6 s (42,615 rule rows), reads committed data only, no network.
+      - name: OAR catalog row matches its declared shape
+        timeout-minutes: 2
+        run: python3 src/catalog_oar.py --check
       - name: ...and those rules must be able to fail
         timeout-minutes: 2
         run: python3 src/catalog_agreement.py --selftest

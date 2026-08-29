@@ -179,6 +179,9 @@ gates:
   - name: "OAR discovery is keyed on the OAR name (selftest)"
     seconds: 0.0
     shard: 4
+  - name: "OAR catalog row matches its declared shape"
+    seconds: 4.6
+    shard: 4
   - name: "The OAR catalog must agree with the registry, the disk, and its own rules"
     seconds: 5.1
     shard: 2
