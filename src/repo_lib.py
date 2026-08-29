@@ -46,6 +46,19 @@ def assigned_string_constants(node) -> set:
     return set()
 
 
+def oar_rule_path(number: str, root: Path = REPO_ROOT) -> Path:
+    """Where an OAR rule document for `number` lives (or would live) on disk --
+    rules/{chapter}/{division}/oar-{number}.md. THE ONE DEFINITION (#334 code review):
+    `ingest_oar.py`'s renumbered-write site and `catalog_oar.py`'s
+    `renumbered_without_path()` both need this path, and used to compute it independently
+    -- the same writer/reader-drift shape #334 exists to close for this catalog's other
+    fields, just not yet closed for this one. `root` is a parameter, not always
+    `REPO_ROOT`, so a `--selftest` can point this at a temporary directory and prove the
+    disk check both ways without touching or depending on the real `rules/` tree."""
+    ch, div, _ = number.split("-")
+    return root / "rules" / ch / div / f"oar-{number}.md"
+
+
 def repo_state() -> str:
     """Cheap fingerprint of the corpus: HEAD commit + hash of `git status` porcelain
     (captures uncommitted adds/edits well enough for a cache key). Shared by every

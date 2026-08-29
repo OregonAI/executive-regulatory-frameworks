@@ -85,7 +85,7 @@ import yaml
 
 from check_rule_ledger import RuleLedger
 from ingest_status import INGEST_STATUS_VALUES
-from repo_lib import REPO_ROOT, Checks, division_status
+from repo_lib import REPO_ROOT, Checks, division_status, oar_rule_path
 
 OARD_BASE = "https://secure.sos.state.or.us/oard"
 CHAPTER_LIST_URL = f"{OARD_BASE}/ruleSearch.action"
@@ -460,7 +460,25 @@ def merge_divisions(old_divisions: list, discovered: list, claimed_elsewhere: se
             # only this literal (`sed -i 's/division no longer listed on OARD/division is
             # no longer listed by OARD/'`) left `--selftest` printing OK, because nothing in
             # it ever called this line -- see the selftest fixture below, which now does.
-            d.setdefault("note", f"division {VANISHED_DIVISION_MARK} — verify upstream")
+            #
+            # APPEND, NEVER `setdefault` (#334 code review, closing the SAME BUG the
+            # rule-level carry-forward above was fixed for, live, at #270's own follow-up:
+            # `setdefault` only ever WRITES when `note` is absent, so a division that
+            # vanishes while already carrying a note -- from an earlier CLAIMED_ELSEWHERE_
+            # DIVISION_MARK/CONFIRMED_EMPTY_DIVISION_MARK pass, or any other writer -- would
+            # keep that note UNCHANGED and never gain VANISHED_DIVISION_MARK, invisible to
+            # history_count() exactly the way 813-005-0020's rule-level row was before #270's
+            # follow-up. No division in the catalog committed at this ticket's own HEAD hits
+            # this today (measured 2026-08-29: every division holding both rules and a note
+            # already carries the mark), so the old code never failed a real run -- but the
+            # selftest fixture below exercised only the note-less branch, which is exactly
+            # the shape this review was asked to hunt: a proof silent on the case where its
+            # own docstring's claim would be false.
+            existing_note = d.get("note")
+            if not existing_note:
+                d["note"] = f"division {VANISHED_DIVISION_MARK} — verify upstream"
+            elif VANISHED_DIVISION_MARK not in existing_note:
+                d["note"] = f"{existing_note} (division {VANISHED_DIVISION_MARK} — verify upstream)"
             new_divisions.append(d)
     return new_divisions, skipped
 
@@ -488,7 +506,7 @@ def history_count(cat: dict) -> int:
 
 # --------------------------------------------------------------------- the row's own shape
 #
-# THE OAR CATALOG ROW HAS TWELVE KEYS, FIVE WRITERS, AND UNTIL NOW NO DECLARED SHAPE (#334).
+# THE OAR CATALOG ROW HAS TWELVE KEYS, FOUR WRITERS, AND UNTIL NOW NO DECLARED SHAPE (#334).
 # `agencies.yml` has `FIELDS` (`catalog_agencies.py`) -- a `declared-field` rule refusing an
 # undeclared key on any row -- and this catalog, bigger and joined through by more modules
 # (`ingest_oar.py`, `reingest_oar.py`, `legal_status.py`, `link_graph.py`,
@@ -508,7 +526,7 @@ def history_count(cat: dict) -> int:
 # day a text action is first refused, on a field that module has written since #245.
 FieldSpec = namedtuple("FieldSpec", "writers required")
 
-# THE FIVE WRITERS, named once so FIELDS below reads as a table rather than five repeated
+# THE FOUR WRITERS, named once so FIELDS below reads as a table rather than four repeated
 # strings. `catalog_oar.py` (this module) is DISCOVERY: it is the only writer that can
 # create a row at all (merge_divisions/discover_chapter), and the only writer of `number`.
 DISCOVERY = "catalog_oar.py (discovery)"
@@ -580,7 +598,7 @@ PAIRS = (
 # already carry, adopted here rather than a sixth hand-rolled copy of it (this module carried
 # NONE of the pattern before #334).
 CHECK_RULES = (
-    "readable-catalog", "catalog-populated",
+    "readable-catalog", "catalog-populated", "readable-row",
     "declared-field", "required-field", "field-group-complete",
     "served-as-tracks-renumbered", "path-matches-ingest-status",
 )
@@ -611,7 +629,20 @@ def _all_rows(cat: dict):
 # not. `ingested` is the opposite claim (a document WAS written) and is the only status
 # `path-matches-ingest-status` requires the key for; `renumbered` is neither -- see the
 # module-level `renumbered_without_path()` below for why it is not gated as a third case.
-_NOTHING_FETCHED_STATUSES = ("not_served", "not_sliceable", "needs_registry")
+#
+# DERIVED FROM `INGEST_STATUS_VALUES`, NOT HAND-TYPED (#334 code review). The six-word
+# vocabulary has exactly two statuses that assert a document WAS fetched -- handled above --
+# and every other declared status means nothing was, `not_ingested` included: it is the
+# status every row is born with at discovery, before `ingest_oar.py` has touched it, and a
+# `path` present alongside it is exactly as impossible a claim as a `path` alongside
+# `not_served`. Hand-listing the "nothing fetched" three rather than deriving them as
+# everything-but-`ingested`-and-`renumbered` is the identical drift shape #333 fixed one
+# section up (`RULE_STATUSES` vs. `INGEST_STATUS_VALUES`) -- and it had already reopened:
+# `not_ingested` was left off this tuple, so a `not_ingested` row carrying a `path` passed
+# `path-matches-ingest-status` silently. Verified live before this fix: a `not_ingested` row
+# with a `path` attached, run through `check_row_shape`, produced zero failures.
+_FETCHED_STATUSES = ("ingested", "renumbered")
+_NOTHING_FETCHED_STATUSES = tuple(s for s in INGEST_STATUS_VALUES if s not in _FETCHED_STATUSES)
 
 
 def check_row_shape(cat: dict, fields=FIELDS, pairs=PAIRS) -> list:
@@ -621,7 +652,19 @@ def check_row_shape(cat: dict, fields=FIELDS, pairs=PAIRS) -> list:
     anything was fetched). Pure function of `cat` -- no network, no disk beyond `cat`
     itself -- so `--selftest` can fire every rule against a synthetic fixture."""
     failures = []
-    for r in _all_rows(cat):
+    for i, r in enumerate(_all_rows(cat)):
+        if not isinstance(r, dict):
+            # `readable-row` (#334 code review, matching `catalog_agencies.py`'s rule of
+            # the same name): a rule row that is not a mapping -- a bare string in the YAML
+            # where a `{number: ..., status: ...}` block belongs -- crashed every check
+            # below with an unhandled AttributeError instead of a named failure. CI still
+            # goes red on the traceback, so this was never a SILENT pass; it is a coverage
+            # gap in what the gate can name, closed the same way the sibling module already
+            # closed it for its own rows.
+            failures.append(Failure(
+                "readable-row", f"<row {i}>",
+                "not a mapping, so no rule below could be evaluated against it"))
+            continue
         num = str(r.get("number", "<no number>"))
         for key in r:
             if key not in fields:
@@ -671,7 +714,7 @@ def check_row_shape(cat: dict, fields=FIELDS, pairs=PAIRS) -> list:
     return failures
 
 
-def renumbered_without_path(cat: dict) -> list:
+def renumbered_without_path(cat: dict, root: Path = REPO_ROOT) -> list:
     """Renumbered rows whose `path` is absent even though the document their `served_as`
     names is real and on disk -- REPORTED, not gated (#334, filed as #338).
 
@@ -680,6 +723,18 @@ def renumbered_without_path(cat: dict) -> list:
     claim); this is a row SILENT about a document that DOES exist, which is a different
     failure and this repository's overriding rule treats the two directions alike --
     could-not-check is never is-not-there, and is-not-there is never could-not-check either.
+
+    THE DISK CLAIM IS MEASURED, NOT ASSUMED (#334 code review). This used to be a pure
+    status filter -- `status == "renumbered" and not path` -- with no reference to `served_as`
+    or to disk at all, so the sentence this prints ("despite naming a served_as target OARD
+    serves") was true only by luck of what `ingest_oar.py`'s control flow happens to do
+    today, and the selftest fixture proving it only ever built a row whose served_as target
+    was ABSENT from disk -- the one case this function's own contract says should NOT be
+    reported. `oar_rule_path()` (`repo_lib.py`, the same definition `ingest_oar.py`'s
+    renumbered-write site now uses) is what turns "renumbered and pathless" into "renumbered,
+    pathless, AND the target is really there" -- a row that is pathless because nothing was
+    ever fetched (a `not_served`/`not_sliceable` sibling, or a renumber whose target was never
+    ingested either) is correctly excluded rather than folded into this bucket by name alone.
 
     THE PROVEN CAUSE (#334, reproduced against the catalog committed at this ticket's own
     HEAD, 2026-08-29): `ingest_oar.py`'s `out.exists()` branch sets `r["path"]` only when
@@ -692,14 +747,15 @@ def renumbered_without_path(cat: dict) -> list:
     acceptance criteria, which are about the row's declared SHAPE); reported here, by name,
     every `--check` run, rather than silently narrowing FIELDS' contract to paper over it."""
     return [r for r in _all_rows(cat)
-            if r.get("status") == "renumbered" and not r.get("path")]
+            if r.get("status") == "renumbered" and not r.get("path")
+            and r.get("served_as") and oar_rule_path(r["served_as"], root).exists()]
 
 
 def cmd_check(catalog_path=None) -> int:
     """Report every contract violation in the committed catalog's row shape. Exit 1 if any.
 
     `catalog_path` is a PARAMETER, defaulting to `CATALOG`, so --selftest can point this at
-    a path that does not exist (or one that parses to no chapters) and watch
+    a path that does not exist, does not parse, or parses to no chapters and watch
     `readable-catalog`/`catalog-populated` fire through the real command line, matching
     `catalog_agencies.cmd_check()`'s own reason for the same parameter."""
     catalog_path = CATALOG if catalog_path is None else catalog_path
@@ -707,7 +763,17 @@ def cmd_check(catalog_path=None) -> int:
         print(Failure("readable-catalog", str(catalog_path), "no catalog to check"),
               file=sys.stderr)
         return 1
-    cat = yaml.safe_load(catalog_path.read_text())
+    try:
+        cat = yaml.safe_load(catalog_path.read_text())
+    except yaml.YAMLError as e:
+        # A CATALOG THAT DOES NOT PARSE IS UNREADABLE, THE SAME AS ONE THAT DOES NOT EXIST
+        # (#334 code review) -- both are `readable-catalog`, not two different rules, because
+        # both leave this function with no `cat` to check anything else against. Before this,
+        # a parse error escaped as a raw YAMLError traceback rather than a named failure; CI
+        # still went red either way, so this was a naming gap, not a silent pass.
+        print(Failure("readable-catalog", str(catalog_path), f"does not parse: {e}"),
+              file=sys.stderr)
+        return 1
     if not cat or not cat.get("chapters"):
         print(Failure("catalog-populated", str(catalog_path), "catalog holds no chapters"),
               file=sys.stderr)
@@ -1445,6 +1511,24 @@ def selftest() -> int:
     check("a division OARD's current listing no longer names carries the vanished-division "
           "mark WRITTEN BY merge_divisions ITSELF, not hand-typed by this fixture",
           VANISHED_DIVISION_MARK in (vanished_division.get("note") or ""))
+
+    # THE `setdefault`-VS-APPEND CASE (#334 code review), same shape as the rule-level
+    # 813-005-0020 case the comment above HISTORY_MARK's write site documents: a division
+    # that ALREADY carries a note gets the mark APPENDED, never silently skipped because
+    # `note` was non-empty. Not reachable against the catalog committed at this ticket's
+    # own HEAD (measured 2026-08-29), which is exactly why this fixture has to build the
+    # case rather than pull it from the corpus.
+    vanish_old_noted = [{"division": "10", "title": "T", "status": "ingested",
+                         "note": "an earlier writer's note, not about vanishing at all",
+                         "rules": [{"number": "813-010-0000", "status": "ingested"}]}]
+    vanish_merged_noted, _ = merge_divisions(vanish_old_noted, [])
+    vanished_division_noted = next(d for d in vanish_merged_noted if d["division"] == "10")
+    noted = vanished_division_noted.get("note") or ""
+    check("a division that already carried a note before vanishing keeps that note AND "
+          "gains the vanished-division mark -- proven by breaking it back to `setdefault`, "
+          "which drops this to only the pre-existing note and no mark",
+          "an earlier writer's note" in noted and VANISHED_DIVISION_MARK in noted)
+
     history_cat = {"chapters": [
         {"chapter": "813", "divisions": [
             {"division": "1", "rules": [
@@ -1621,6 +1705,17 @@ def selftest() -> int:
     check("a clean catalog (one row of every shape) passes check_row_shape with no "
           "violations", check_row_shape(_fixture_row_shape()) == [])
 
+    # readable-row (#334 code review, matching catalog_agencies.py's rule of the same name):
+    # a rule row that is not a mapping -- a bare string where a `{number: ..., status: ...}`
+    # block belongs -- used to crash check_row_shape() with an unhandled AttributeError
+    # instead of reporting a named rule.
+    unreadable_cat = {"chapters": [{"chapter": "1", "title": "T", "divisions": [
+        {"division": "1", "rules": ["1-001-0001"]}]}]}
+    failures = check_row_shape(unreadable_cat)
+    check("a rule row that is not a mapping is refused by readable-row, proven by feeding "
+          "check_row_shape a bare string where a row belongs, rather than raising",
+          any(f.rule == "readable-row" for f in failures))
+
     failures = _shape_mutation(
         lambda cat: _row(cat, "1-001-0001").__setitem__("bogus_key", "x"))
     check("an undeclared key on a row is refused, proven by adding one and watching the "
@@ -1667,9 +1762,12 @@ def selftest() -> int:
     check("status: not_served with a path present is refused, proven by breaking it",
           any(f.rule == "path-matches-ingest-status" for f in failures))
 
-    # THE THREE OTHER "NOTHING FETCHED" STATUSES, the same direction as not_served above --
-    # ingest_oar.py writes all three the same way (module docstring, _NOTHING_FETCHED_STATUSES).
-    for extra_status in ("not_sliceable", "needs_registry"):
+    # THE OTHER "NOTHING FETCHED" STATUSES, the same direction as not_served above -- every
+    # word `INGEST_STATUS_VALUES` declares other than `ingested`/`renumbered`
+    # (`_NOTHING_FETCHED_STATUSES`, derived, not hand-listed). `not_ingested` is in this
+    # loop, not treated as a special case (#334 code review: it used to be left off the
+    # hand-typed tuple entirely, so this exact mutation passed silently).
+    for extra_status in ("not_sliceable", "needs_registry", "not_ingested"):
         failures = _shape_mutation(
             lambda cat, s=extra_status: (
                 _row(cat, "1-001-0003").__setitem__("status", s),
@@ -1690,19 +1788,42 @@ def selftest() -> int:
         empty_path.write_text(yaml.safe_dump({"chapters": []}))
         check("catalog-populated fires when the catalog parses but holds no chapters",
               cmd_check(catalog_path=empty_path) == 1)
+        # readable-catalog ALSO COVERS A CATALOG THAT DOES NOT PARSE, NOT ONLY ONE THAT
+        # DOES NOT EXIST (#334 code review). Before this fix a YAML parse error escaped
+        # cmd_check() as a raw traceback instead of a named failure.
+        unparseable_path = Path(tmp) / "unparseable.yml"
+        unparseable_path.write_text("chapters:\n  - [unclosed")
+        check("readable-catalog fires when the catalog file exists but does not parse, "
+              "instead of a raw YAMLError traceback escaping cmd_check()",
+              cmd_check(catalog_path=unparseable_path) == 1)
         clean_path = Path(tmp) / "clean.yml"
         clean_path.write_text(yaml.safe_dump(_fixture_row_shape()))
         check("cmd_check() exits 0 on a catalog that passes every declared rule",
               cmd_check(catalog_path=clean_path) == 0)
 
     # THE KNOWN, REPORTED GAP (#334/#338) -- not gated, but named, and its own function
-    # proven to find exactly the rows the rule above declines to fail on.
+    # proven to find exactly the rows the rule above declines to fail on. Proven in BOTH
+    # directions (#334 code review): the old version was a pure status filter that read no
+    # disk at all, so its docstring's disk claim was never exercised by the case where it
+    # would be FALSE. `root` points this at a temporary directory so neither direction
+    # touches or depends on the real `rules/` tree.
     gap_cat = _fixture_row_shape()
-    _row(gap_cat, "1-001-0002").pop("path")  # renumbered, served_as intact, path absent
-    check("renumbered_without_path finds a renumbered row missing path, and "
-          "check_row_shape does NOT fail it (reported, not gated -- #338)",
-          [r["number"] for r in renumbered_without_path(gap_cat)] == ["1-001-0002"]
-          and not any(f.site == "1-001-0002" for f in check_row_shape(gap_cat)))
+    _row(gap_cat, "1-001-0002").pop("path")  # renumbered, served_as="1-001-0009", path absent
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp_root = Path(tmp)
+        check("RED: renumbered_without_path finds NOTHING when the served_as target is "
+              "NOT on disk -- the direction the old pure-status-filter implementation "
+              "could never fail, because it never looked",
+              renumbered_without_path(gap_cat, root=tmp_root) == [])
+        served_target = oar_rule_path("1-001-0009", root=tmp_root)
+        served_target.parent.mkdir(parents=True, exist_ok=True)
+        served_target.write_text("stub rule body")
+        check("GREEN: ...and finds exactly that renumbered row once its served_as target "
+              "is really on disk, and check_row_shape does NOT fail it (reported, not "
+              "gated -- #338)",
+              [r["number"] for r in renumbered_without_path(gap_cat, root=tmp_root)]
+              == ["1-001-0002"]
+              and not any(f.site == "1-001-0002" for f in check_row_shape(gap_cat)))
 
     # THE DECLARATION, GATED FROM BOTH SIDES (#319, matching legal_status.py,
     # stated_census.py, catalog_agencies.py and ingest_status.py). A rule can go undetected

@@ -712,7 +712,7 @@ jobs:
       - name: OAR discovery is keyed on the OAR name (selftest)
         timeout-minutes: 2
         run: python3 src/catalog_oar.py --selftest
-      # The OAR catalog row's own declared shape (#334): twelve keys, five writers, three
+      # The OAR catalog row's own declared shape (#334): twelve keys, four writers, three
       # both-or-neither groups, and the two status-derived pairings (served_as <->
       # status: renumbered, path <-> whether anything was fetched) -- against the real
       # committed catalog, matching `catalog_agencies.py --check`'s role for agencies.yml.
@@ -720,7 +720,7 @@ jobs:
       - name: OAR catalog row matches its declared shape
         timeout-minutes: 2
         run: python3 src/catalog_oar.py --check
-      - name: ...and those rules must be able to fail
+      - name: ...and those rules must be able to fail (catalog agreement)
         timeout-minutes: 2
         run: python3 src/catalog_agreement.py --selftest
       # #276: two scrapers wrote _meta/catalog/oar.yml's division/rule membership --

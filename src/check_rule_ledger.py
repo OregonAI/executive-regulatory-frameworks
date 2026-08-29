@@ -15,12 +15,13 @@ direction entirely: an emitted-but-undeclared `Failure` passed its `--selftest` 
 
 ELEVEN MODULES COPY PART OF THIS BY HAND, IN THREE STRENGTHS (#319's own measurement, `main`
 at d8de9f50a6, corrected by #323 -- the original count of ten missed `snapshot_identity` --
-and by #320, which adopted the pattern in `catalog_agencies`, moving it out of the "neither"
-bucket #319 measured it in): three have the full pattern (`legal_status`, `stated_census`,
-`catalog_agencies`), two have `CHECK_RULES` and `_FIRED` with no AST scan (`reingest_oar`,
+by #320, which adopted the pattern in `catalog_agencies`, moving it out of the "neither"
+bucket #319 measured it in, and by #334, which adopted it in `catalog_oar`, emptying that
+bucket): four have the full pattern (`legal_status`, `stated_census`, `catalog_agencies`,
+`catalog_oar`), two have `CHECK_RULES` and `_FIRED` with no AST scan (`reingest_oar`,
 `bulletin_report` -- an emitted-but-undeclared refusal these two cannot catch), five have
 `_FIRED` alone (`provenance_spelling`, `catalog_agreement`, `oar_watch_coverage`,
-`seed_oar_watch`, `snapshot_identity`), and one has neither (`catalog_oar`). THIS TICKET
+`seed_oar_watch`, `snapshot_identity`), and none has neither. THIS TICKET
 EXTRACTED THE SHAPE FROM THE TWO THAT ALREADY HAD IT WHOLE AND ADOPTED IT IN EXACTLY THOSE
 TWO -- proving the extraction is faithful (identical `--check`/`--selftest` output, before
 and after) is the point, and mixing

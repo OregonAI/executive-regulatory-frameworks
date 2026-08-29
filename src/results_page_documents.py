@@ -24,11 +24,15 @@ import yaml
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from ingest_oar import is_search_results_page  # noqa: E402  THE ONE DECLARATION
+# SEARCH_RESULTS_MARK: THE ONE DECLARATION (#334 code review) lives in ingest_oar.py, the
+# writer -- imported here rather than retyped, same discipline as is_search_results_page
+# below and catalog_oar.py's own marks (CLAIMED_ELSEWHERE_DIVISION_MARK etc., imported by
+# review_queue.py the same way).
+from ingest_oar import SEARCH_RESULTS_MARK, is_search_results_page  # noqa: E402
 from repo_lib import REPO_ROOT, ws_only  # noqa: E402
 
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
-MARK = "search-results list"
+MARK = SEARCH_RESULTS_MARK
 
 
 def catalog_notes() -> dict:

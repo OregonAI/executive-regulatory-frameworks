@@ -185,7 +185,7 @@ gates:
   - name: "The OAR catalog must agree with the registry, the disk, and its own rules"
     seconds: 5.1
     shard: 2
-  - name: "...and those rules must be able to fail"
+  - name: "...and those rules must be able to fail (catalog agreement)"
     seconds: 0.0
     shard: 4
   - name: "OAR catalog membership has exactly one writer (selftest)"
