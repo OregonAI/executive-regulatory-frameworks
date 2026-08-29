@@ -82,6 +82,7 @@ rule is unscoped to the path argument -- it is a repo-wide invariant about `src/
 every run regardless of which document's figures were asked about.
 """
 import argparse
+import ast
 import datetime
 import re
 import sys
@@ -106,6 +107,7 @@ CHECK_RULES = (
     "figure-is-accounted-for",
     "observation-date-is-valid",
     "citation-names-an-existing-term",
+    "src-file-is-readable",
 )
 
 _FIRED: set = set()
@@ -124,6 +126,22 @@ class Failure:
 
     def __str__(self):
         return f"  FAIL [{self.rule}] {self.site}: {self.detail}"
+
+
+def emitted_rules(source=None) -> set:
+    """Every rule name this module can report, read out of its own syntax tree -- same
+    arrangement as `legal_status.emitted_rules()`. `Failure.__init__` already refuses an
+    undeclared rule name the moment that construction actually RUNS, but a site that is
+    unreachable in every `--selftest` fixture never runs, so a dynamic-only check
+    (`set(CHECK_RULES) - _FIRED`, below) is blind to it -- it would first crash in
+    production, with a raw `ValueError`, the day some real document finally took that
+    branch. Reading the AST instead catches it in `--selftest`, on every run, without
+    needing the branch to execute."""
+    tree = ast.parse(source if source is not None else Path(__file__).read_text())
+    return {n.args[0].value for n in ast.walk(tree)
+            if isinstance(n, ast.Call) and isinstance(n.func, ast.Name)
+            and n.func.id == "Failure" and n.args
+            and isinstance(n.args[0], ast.Constant) and isinstance(n.args[0].value, str)}
 
 
 # --------------------------------------------------------------------- the figure detector
@@ -355,21 +373,29 @@ def cited_terms(source: str) -> list:
     return out
 
 
+def citable_paths() -> list:
+    """Every `src/*.py` this module's citation rule reads -- EXCLUDING ITSELF.
+    `stated_census.py` is the one file in `src/` whose job is to talk ABOUT the
+    `CONTEXT.md, *Term*` citation shape -- its own docstring and its own selftest fixtures
+    necessarily contain literal example occurrences of it (including the very f-string this
+    rule's own failure message is built from), and none of them is a refusal citing
+    CONTEXT.md as its authority. Scanning itself would be the pattern matching its own
+    definition, not a second instance of #305's defect -- the same reason a proof function
+    is not counted as a writer elsewhere in this codebase (`legal_status.PROOF_FUNCTIONS`).
+
+    The ONE place this exclusion is applied, so `check_citations()`'s count of what it
+    checked and `cmd_check()`'s printed count of what it claims to have checked cannot
+    drift apart the way they did before this function existed (#311)."""
+    return sorted(p for p in SRC.glob("*.py") if p.resolve() != Path(__file__).resolve())
+
+
 def check_citations(paths=None, glossary_text=None) -> list:
-    """Every `CONTEXT.md, *Term*` citation in `paths` (default: every `src/*.py`) whose
+    """Every `CONTEXT.md, *Term*` citation in `paths` (default: `citable_paths()`) whose
     named term CONTEXT.md's own glossary does not carry -- the general form of the 25 sites
     #305 fixed by hand. `glossary_text` is CONTEXT.md's text, passed in so `--selftest` can
     fire this against a synthetic glossary without touching the committed file."""
     if paths is None:
-        # EXCLUDES THIS MODULE ITSELF. `stated_census.py` is the one file in `src/` whose
-        # job is to talk ABOUT the `CONTEXT.md, *Term*` citation shape -- its own docstring
-        # and its own selftest fixtures necessarily contain literal example occurrences of
-        # it (including the very f-string this rule's own failure message is built from),
-        # and none of them is a refusal citing CONTEXT.md as its authority. Scanning itself
-        # would be the pattern matching its own definition, not a second instance of #305's
-        # defect -- the same reason a proof function is not counted as a writer elsewhere
-        # in this codebase (`legal_status.PROOF_FUNCTIONS`).
-        paths = sorted(p for p in SRC.glob("*.py") if p.resolve() != Path(__file__).resolve())
+        paths = citable_paths()
     if glossary_text is None:
         glossary_text = DEFAULT_DOC.read_text()
     known = {term for term, _, _ in glossary_blocks(glossary_text)}
@@ -377,7 +403,21 @@ def check_citations(paths=None, glossary_text=None) -> list:
     for p in paths:
         try:
             source = Path(p).read_text()
-        except OSError:
+        except (OSError, UnicodeDecodeError) as e:
+            # Could not check is never reported as is not there (AGENTS.md's overriding
+            # rule): a src file this rule could not read had its citations NOT checked,
+            # which is not the same as their all naming a real term. Before this rule
+            # existed the bare `continue` this replaced reported the same outcome as a
+            # file with no bad citations in it -- silently, with no rule behind it (#312).
+            label = str(p)
+            try:
+                label = str(Path(p).relative_to(REPO_ROOT))
+            except ValueError:
+                pass
+            failures.append(Failure(
+                "src-file-is-readable", label,
+                f"could not be read ({type(e).__name__}: {e}) -- its citations were not "
+                "checked, which is not the same as their all naming a real term"))
             continue
         for term, line in cited_terms(source):
             if term not in known:
@@ -442,7 +482,9 @@ def cmd_check(paths) -> int:
                     n_tagged += 1
                 elif OBSERVED_TAG_RE.match(after):
                     n_marked += 1
-    n_cited = sum(len(cited_terms(Path(p).read_text())) for p in sorted(SRC.glob("*.py")))
+    # SAME PATH LIST check_citations() ACTUALLY CHECKED, not a fresh `SRC.glob()` that
+    # re-includes this module and reports a citation nothing above verified (#311).
+    n_cited = sum(len(cited_terms(Path(p).read_text())) for p in citable_paths())
     print(f"{n_tagged} figure(s) tagged to a census, {n_marked} marked as observations, "
           f"across {len(paths)} document(s); {n_cited} CONTEXT.md citation(s) across "
           f"src/*.py, every one naming a term CONTEXT.md carries")
@@ -591,6 +633,27 @@ def selftest() -> int:
         found = [f.rule for f in check_citations(paths=[compound], glossary_text=glossary)]
         if "citation-names-an-existing-term" not in found:
             fails.append(f"FAIL a-compound-citation-checks-every-term: {found}")
+
+        # A src file that cannot be read is REFUSED, never silently skipped as one with
+        # no bad citations (#312) -- "could not check" reported as its own rule, matching
+        # `document-is-readable` twenty lines above rather than a bare `continue`.
+        missing_src = Path(d) / "does-not-exist.py"
+        found = [f.rule for f in check_citations(paths=[missing_src], glossary_text=glossary)]
+        if found != ["src-file-is-readable"]:
+            fails.append(f"FAIL an-unreadable-src-file-is-refused: {found}")
+
+    # THE DECLARATION, GATED FROM BOTH SIDES (#313, matching legal_status.py). A rule
+    # can go undetected by BEING DECLARED WITH NO PROOF (below, dynamic: did it fire during
+    # this run) or by BEING EMITTED WITH NO DECLARATION (here, static: does the AST agree
+    # with CHECK_RULES) -- the second failure mode never reaches the first check at all if
+    # the emitting branch is unreachable in every fixture above, so it needs its own gate.
+    unemitted_but_declared = set(CHECK_RULES) - emitted_rules()
+    emitted_but_undeclared = emitted_rules() - set(CHECK_RULES)
+    if unemitted_but_declared or emitted_but_undeclared:
+        fails.append(
+            "FAIL every-declared-rule-is-emitted-and-every-emitted-rule-is-declared: "
+            f"declared-not-emitted={sorted(unemitted_but_declared)} "
+            f"emitted-not-declared={sorted(emitted_but_undeclared)}")
 
     unfired = set(CHECK_RULES) - _FIRED
     if unfired:
