@@ -36,11 +36,20 @@ import yaml
 from ingest_lib import fetch
 from legal_status import bulletin_status_by_rule, resolve
 from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, Checks, content_hash, normalize_volatile,
-                      rule_title_from_html, snapshot_slice, ws_only, snapshot_text)
+                      oar_rule_path, rule_title_from_html, snapshot_slice, ws_only,
+                      snapshot_text)
 
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
 GROUP = REPO_ROOT / "_meta/sources/oar.yml"
 TODAY = date.today().isoformat()
+
+# THE ONE DECLARATION (#334 code review, same discipline as `catalog_oar.py`'s
+# VANISHED_DIVISION_MARK/HISTORY_MARK). `results_page_documents.py` reads a rule's `note`
+# for this phrase, by substring, to tell an ALREADY-PUBLISHED search-results-list document
+# (#251) apart from an ordinary rule -- it used to carry its own retyped copy of these words
+# rather than importing this one, so rewording the note here without also rewording that
+# copy would silently stop `results_page_documents.py` from finding what this line writes.
+SEARCH_RESULTS_MARK = "search-results list"
 
 _DISCOVER_REPLACEMENT = "python3 src/catalog_oar.py --discover"
 
@@ -246,8 +255,8 @@ def cmd_ingest(chapters, skip_group=False):
                 if is_search_results_page(wt):
                     # NOT `not_served`: OARD served something, and it is not this rule.
                     r["status"] = "not_sliceable"
-                    r["note"] = ("OARD serves a search-results list for this number, not a "
-                                 "rule -- more than one rule shares it (#251)")
+                    r["note"] = (f"OARD serves a {SEARCH_RESULTS_MARK} for this number, not "
+                                 "a rule -- more than one rule shares it (#251)")
                     skipped += 1
                     continue
                 if not served:
@@ -263,8 +272,12 @@ def cmd_ingest(chapters, skip_group=False):
                     renumbered += 1
                 doc_id = f"oar-{target}"
                 s_ch, s_div, _ = target.split("-")
-                out_dir = REPO_ROOT / "rules" / s_ch / s_div
-                out = out_dir / f"{doc_id}.md"
+                # THE ONE DEFINITION (#334 code review): `repo_lib.oar_rule_path` is the
+                # single place this layout is computed, so `catalog_oar.py`'s
+                # `renumbered_without_path()` reads this same path rather than a second,
+                # independently-typed copy of it.
+                out = oar_rule_path(target)
+                out_dir = out.parent
                 if out.exists():
                     if served == num:
                         r["status"] = "ingested"

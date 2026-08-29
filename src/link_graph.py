@@ -104,9 +104,19 @@ def build_renumber_map():
             if not isinstance(rules, list):
                 continue
             for r in rules:
-                served = r.get("served_as") or (
-                    r.get("note", "").split("OARD serves ")[-1].split(" ")[0]
-                    if r.get("status") == "renumbered" else None)
+                # `served_as` ALONE, not a fallback that re-derives the same fact by
+                # splitting `note` on the words "OARD serves " (#334). That parse was a
+                # FACT A READER PULLS OUT OF PROSE BY SUBSTRING -- exactly the pattern #334
+                # found live in catalog_oar.py's VANISHED_DIVISION_MARK -- and it read a
+                # field `served_as` already carries structurally, defensively, for a case
+                # that could not happen: ingest_oar.py's one renumbered write site sets
+                # `status`, `note` and `served_as` together, in the same statement, so a
+                # `renumbered` row with a note and no `served_as` is not a shape this
+                # pipeline produces. catalog_oar.py's own `served-as-tracks-renumbered`
+                # check (part of `catalog_oar.py --check`, in CI) now GATES that as a
+                # contract violation rather than leaving it to be inferred here, so this
+                # reads the structured field and nothing else.
+                served = r.get("served_as")
                 if r.get("status") == "renumbered" and served and OAR_RULE_RE.fullmatch(served):
                     rule_map[r["number"]] = served
                     old_div = "-".join(r["number"].split("-")[:2])
