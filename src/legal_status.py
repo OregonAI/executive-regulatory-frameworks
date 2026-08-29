@@ -110,6 +110,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import yaml
 
+from check_rule_ledger import RuleLedger
 from repo_lib import REPO_ROOT, Checks
 
 SRC = REPO_ROOT / "src"
@@ -232,25 +233,6 @@ FRONTMATTER_RE = re.compile(r"^\s*status:\s*(" + "|".join(LEGAL_STATUS_VALUES) +
 
 Site = namedtuple("Site", "path line text function purpose")
 
-# Every rule name a Failure has been built under in this process. `--selftest` asserts that
-# it covers `CHECK_RULES`, which is the difference between a rule DECLARED and a rule
-# WATCHED FIRING: the declaration alone could be satisfied by adding a name to two lists,
-# and a refusal nobody has seen fire is not known to work.
-_FIRED = set()
-
-
-class Failure(namedtuple("Failure", "rule site detail")):
-    """One rule, the thing it is about, and what is wrong with it.
-
-    Recorded on construction rather than at the call sites, so no proof has to remember to
-    say it fired and no rule can be exempted from the count by being checked a new way."""
-
-    __slots__ = ()
-
-    def __new__(cls, rule, site, detail):
-        _FIRED.add(rule)
-        return super().__new__(cls, rule, site, detail)
-
 # EVERY RULE THIS MODULE CAN REPORT, and each is demonstrated failing by a proof below.
 # Declared rather than counted at run time so a rule added with no proof is visible as a
 # list that did not grow -- and compared against what the code actually emits, read out of
@@ -272,6 +254,20 @@ CHECK_RULES = (
     "catalog-reaches-the-rule", "a-filed-force-action-is-recorded",
     "the-notice-names-the-filing", "the-notice-is-readable",
 )
+
+# THE CHECK-RULE LEDGER (#319). Recording a rule name when a Failure is built (`_FIRED`), the
+# AST scan of this module's own source for the rule names it can EMIT (`emitted_rules()`),
+# and the both-directions comparison of the two against `CHECK_RULES` used to be hand-rolled
+# here -- `stated_census.py` carried the identical shape, character for character, and this
+# is the one copy both now share. `Failure` and `emitted_rules` stay module-level names with
+# the same signatures they always had: `reingest_oar.py` subclasses `Failure` (overriding
+# `__new__` to record into ITS OWN `_FIRED`, never this one) and `bulletin_report.py` does
+# the same; both call `legal_status.emitted_rules(...)` by name. Neither is touched by this
+# ticket ("no caller outside these two modules changes" -- #319's own acceptance criterion),
+# and neither has anything to change: the names they import still resolve the same way.
+_LEDGER = RuleLedger(CHECK_RULES, __file__)
+Failure = _LEDGER.Failure
+emitted_rules = _LEDGER.emitted_rules
 
 
 # ------------------------------------------------------------------- the one writer
@@ -506,21 +502,6 @@ def ingest_vocabulary(source=None) -> set:
                 if isinstance(k, ast.Constant) and k.value == "status":
                     out |= _assigned_constants(v)
     return out
-
-
-def emitted_rules(source=None) -> set:
-    """Every rule name this module can report, read out of its own syntax tree.
-
-    So that `CHECK_RULES` -- the list `--selftest` counts its proofs against -- is compared
-    with what the code actually emits rather than trusted. A rule added to `check_committed`
-    or `check_filings` and to no proof is a rule nobody has watched fire, and the whole
-    discipline here is that a refusal nobody has seen fire is not known to work. Same
-    arrangement as `ingest-vocabulary-declared-once` one field over."""
-    tree = ast.parse(source if source is not None else Path(__file__).read_text())
-    return {n.args[0].value for n in ast.walk(tree)
-            if isinstance(n, ast.Call) and isinstance(n.func, ast.Name)
-            and n.func.id == "Failure" and n.args
-            and isinstance(n.args[0], ast.Constant) and isinstance(n.args[0].value, str)}
 
 
 def _status_key_writes(tree):
@@ -2037,19 +2018,32 @@ def selftest() -> int:
     _proof_temporary_suspension_counts(check)
     _proof_document_censuses(check)
     _proof_a_corpus_that_could_not_be_walked_is_refused(check)
-    # THE DECLARATION, GATED FROM BOTH SIDES. A rule the code can emit and `CHECK_RULES`
-    # does not name would go uncounted; a rule named there that nothing above actually made
-    # fire is one nobody has watched work, and a name in two lists is not a proof.
-    check("every rule this module can report is declared",
-          emitted_rules() == set(CHECK_RULES))
-    check("...and every declared rule was watched firing, not merely listed",
-          set(CHECK_RULES) <= _FIRED)
+    # THE DECLARATION, GATED FROM BOTH SIDES -- `_LEDGER.gaps()` (#319), replacing the two
+    # hand-rolled comparisons this module and `stated_census.py` used to each carry a copy
+    # of. A rule the code can emit and `CHECK_RULES` does not name would go uncounted; a rule
+    # named there that nothing above actually made fire is one nobody has watched work, and a
+    # name in two lists is not a proof.
+    gaps = _LEDGER.gaps()
+    # THE RULE NAME IS IN THE CHECK'S OWN LABEL, not only in its boolean, so a failure here
+    # names what is missing rather than only saying that something is -- `Checks` prints the
+    # label unconditionally and the boolean separately, and a label that says the same thing
+    # whether the check passed or failed would make a `--selftest` failure here as mute as
+    # the boolean it wraps. Silent on a clean run: the appended detail is the empty string
+    # exactly when there is nothing to name, so the PASS line is unchanged.
+    declared_gap = (f" (emitted-not-declared={sorted(gaps.emitted_but_undeclared)}, "
+                    f"declared-not-emitted={sorted(gaps.unemitted_but_declared)})"
+                    if gaps.emitted_but_undeclared or gaps.unemitted_but_declared else "")
+    check("every rule this module can report is declared" + declared_gap,
+          not declared_gap)
+    unfired_gap = f" (unfired={sorted(gaps.unfired)})" if gaps.unfired else ""
+    check("...and every declared rule was watched firing, not merely listed" + unfired_gap,
+          not unfired_gap)
     return check.report(
         f"{sum(1 for c in _SOURCE_CASES if c[1])} unmarked or mismarked write(s) "
         f"demonstrated failing across {len({c[1] for c in _SOURCE_CASES if c[1]})} rule(s), "
         f"{sum(1 for c in _SOURCE_CASES if not c[1])} clean module(s) left alone, "
-        f"{len(CHECK_RULES)} rule(s) declared, every one both emitted by this module "
-        "and watched firing here; "
+        f"{_LEDGER.demonstrated_count} rule(s) declared, every one both emitted by this "
+        "module and watched firing here; "
         "a second writer, an overwritten bulletin status and a suspension written as a "
         "repeal all watched failing -- selftest")
 

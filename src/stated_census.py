@@ -82,7 +82,6 @@ rule is unscoped to the path argument -- it is a repo-wide invariant about `src/
 every run regardless of which document's figures were asked about.
 """
 import argparse
-import ast
 import datetime
 import re
 import sys
@@ -92,6 +91,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import yaml
 
+from check_rule_ledger import RuleLedger
 from repo_lib import REPO_ROOT
 
 SRC = REPO_ROOT / "src"
@@ -110,38 +110,21 @@ CHECK_RULES = (
     "src-file-is-readable",
 )
 
-_FIRED: set = set()
+# THE CHECK-RULE LEDGER (#319). Recording a rule when a Failure is built, the AST scan of
+# this module's own source for the rule names it can emit, and the both-directions
+# comparison against `CHECK_RULES` used to be hand-rolled here -- `legal_status.py` carried
+# the identical shape, character for character, and this is the one copy both now share.
+_LEDGER = RuleLedger(CHECK_RULES, __file__)
 
 
-class Failure:
-    """One rule, the site it is about, and what is wrong -- recorded on construction (like
-    `legal_status.Failure`) so no proof has to remember to say it fired."""
-    __slots__ = ("rule", "site", "detail")
-
-    def __init__(self, rule, site, detail):
-        if rule not in CHECK_RULES:
-            raise ValueError(f"{rule!r} is not a declared rule -- add it to CHECK_RULES")
-        self.rule, self.site, self.detail = rule, site, detail
-        _FIRED.add(rule)
+class Failure(_LEDGER.Failure):
+    """One rule, the site it is about, and what is wrong -- recorded on construction by the
+    shared ledger (like `legal_status.Failure`) so no proof has to remember to say it fired.
+    Only `__str__` is added here: `cmd_check()` prints a failure directly."""
+    __slots__ = ()
 
     def __str__(self):
         return f"  FAIL [{self.rule}] {self.site}: {self.detail}"
-
-
-def emitted_rules(source=None) -> set:
-    """Every rule name this module can report, read out of its own syntax tree -- same
-    arrangement as `legal_status.emitted_rules()`. `Failure.__init__` already refuses an
-    undeclared rule name the moment that construction actually RUNS, but a site that is
-    unreachable in every `--selftest` fixture never runs, so a dynamic-only check
-    (`set(CHECK_RULES) - _FIRED`, below) is blind to it -- it would first crash in
-    production, with a raw `ValueError`, the day some real document finally took that
-    branch. Reading the AST instead catches it in `--selftest`, on every run, without
-    needing the branch to execute."""
-    tree = ast.parse(source if source is not None else Path(__file__).read_text())
-    return {n.args[0].value for n in ast.walk(tree)
-            if isinstance(n, ast.Call) and isinstance(n.func, ast.Name)
-            and n.func.id == "Failure" and n.args
-            and isinstance(n.args[0], ast.Constant) and isinstance(n.args[0].value, str)}
 
 
 # --------------------------------------------------------------------- the figure detector
@@ -806,29 +789,28 @@ def selftest() -> int:
         if found != ["src-file-is-readable"]:
             fails.append(f"FAIL an-unreadable-src-file-is-refused: {found}")
 
-    # THE DECLARATION, GATED FROM BOTH SIDES (#313, matching legal_status.py). A rule
-    # can go undetected by BEING DECLARED WITH NO PROOF (below, dynamic: did it fire during
-    # this run) or by BEING EMITTED WITH NO DECLARATION (here, static: does the AST agree
-    # with CHECK_RULES) -- the second failure mode never reaches the first check at all if
-    # the emitting branch is unreachable in every fixture above, so it needs its own gate.
-    unemitted_but_declared = set(CHECK_RULES) - emitted_rules()
-    emitted_but_undeclared = emitted_rules() - set(CHECK_RULES)
-    if unemitted_but_declared or emitted_but_undeclared:
+    # THE DECLARATION, GATED FROM BOTH SIDES (#313, matching legal_status.py; both directions
+    # are `_LEDGER.gaps()`'s one call since #319). A rule can go undetected by BEING DECLARED
+    # WITH NO PROOF (dynamic: did it fire during this run) or by BEING EMITTED WITH NO
+    # DECLARATION (static: does the AST agree with CHECK_RULES) -- the second failure mode
+    # never reaches the first check at all if the emitting branch is unreachable in every
+    # fixture above, so it needs its own gate.
+    gaps = _LEDGER.gaps()
+    if gaps.unemitted_but_declared or gaps.emitted_but_undeclared:
         fails.append(
             "FAIL every-declared-rule-is-emitted-and-every-emitted-rule-is-declared: "
-            f"declared-not-emitted={sorted(unemitted_but_declared)} "
-            f"emitted-not-declared={sorted(emitted_but_undeclared)}")
+            f"declared-not-emitted={sorted(gaps.unemitted_but_declared)} "
+            f"emitted-not-declared={sorted(gaps.emitted_but_undeclared)}")
 
-    unfired = set(CHECK_RULES) - _FIRED
-    if unfired:
-        fails.append(f"FAIL every-declared-rule-was-watched-firing: {sorted(unfired)}")
+    if gaps.unfired:
+        fails.append(f"FAIL every-declared-rule-was-watched-firing: {sorted(gaps.unfired)}")
 
     for f in fails:
         print(f)
     if fails:
         print(f"{len(fails)} rule(s) did not hold")
         return 1
-    print(f"{len(CHECK_RULES)} rule(s) declared, every one watched firing; "
+    print(f"{_LEDGER.demonstrated_count} rule(s) declared, every one watched firing; "
           "guards that must not fire held")
     return 0
 

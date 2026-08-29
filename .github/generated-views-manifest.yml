@@ -230,3 +230,6 @@ gates:
   - name: "ORS chapter-gap classification must all be able to fail"
     seconds: 89.8
     shard: 4
+  - name: "Check-rule ledger must be able to fail (selftest)"
+    seconds: 0.1
+    shard: 1
