@@ -95,11 +95,14 @@ jobs:
 
   generated-views-shard-1:
     runs-on: ubuntu-latest
-    # 18 gate(s), 139.1s measured locally (warm checkout) -- see .github/generated-views-manifest.yml.
-    # (14 timed gates at 132.8s plus this shard's own two shard-manifest-coverage gates,
-    # ~0.1s each, added after the timing pass, plus #306's stated-census pair (6.0s + 0.1s),
-    # bin-packed here as the least-loaded shard by measured cost at the time -- see the
-    # first two and the last two steps below.)
+    # 18 gate(s), 141.9s measured locally (warm checkout) -- see .github/generated-views-manifest.yml.
+    # (14 timed gates at 134.4s -- #307 moved one of them, "Legal status must be written
+    # once and read everywhere else", from 4.8s to 6.4s: it now also reads every committed
+    # rule document once for the two document-level censuses that ticket added -- plus this
+    # shard's own two shard-manifest-coverage gates, ~0.1s each, added after the timing
+    # pass, plus #306's stated-census pair, also grown by #307's new namespaces (6.0s + 0.1s
+    # -> 7.2s + 0.1s), bin-packed here as the least-loaded shard by measured cost at the
+    # time -- see the first two and the last two steps below.)
     #
     # 45: comfortably above the 38 minutes of summed per-step timeout-minutes below, plus
     # setup -- a code-review follow-up to #268 found every shard's job cap SMALLER than its

@@ -115,6 +115,7 @@ from repo_lib import REPO_ROOT, Checks
 
 SRC = REPO_ROOT / "src"
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
+RULES_DIR = REPO_ROOT / "rules"
 
 # corpus-toolkit's schema enum for a document's `status`. Not this repository's to extend:
 # it is shared by every corpus, and #225 put renaming it out of scope.
@@ -165,8 +166,11 @@ CATALOG_KEY = "legal_status"
 # A SUSPENSION IS NOT A REPEAL, and the schema enum cannot say what it is. Its five words
 # are `current | superseded | repealed | proposed | draft`; `repealed` is the only one that
 # names a loss of force and it means a PERMANENT one. Every suspension this corpus holds
-# text for prints an END DATE -- 185 History lines read `temporary suspend filed ...,
-# effective ... THROUGH ...` -- so writing `repealed` for one is a claim the corpus can
+# text for prints an END DATE -- 248 History lines read `temporary suspend filed ...,
+# effective ... THROUGH ...` (measured by `temporary_suspension_counts()` below, #307;
+# this comment predates that function and had drifted from 185 to the true count with
+# nothing rechecking it, which is the same failure #307 exists to close, one level up) --
+# so writing `repealed` for one is a claim the corpus can
 # disprove from its own committed text, and #229 forbids it in as many words. Leaving
 # `current` is the other direction and it is worse: CONTEXT.md defines this field as
 # WHETHER THE RULE IS IN FORCE, and corpus-toolkit's consumers print `current` with no
@@ -932,6 +936,127 @@ def rule_number(doc_id: str) -> str:
     return doc_id[4:] if doc_id.startswith("oar-") else doc_id
 
 
+# ------------------------------------------------------- the document-level censuses (#307)
+#
+# `census()` ABOVE COUNTS SOMETHING ELSE WEARING THE SAME WORD. It walks `src/*.py` and
+# counts WRITE SITES -- lines of code that decide a legal status. The two functions below
+# walk `rules/` and count STATUS VALUES -- what the committed DOCUMENTS actually say. A
+# module writing legal status once and a corpus holding 42,561 claims about it are
+# different facts, and #304 found both pinned by hand in CONTEXT.md with nothing behind
+# either. Giving the second one `census()`'s name would make the collision this comment is
+# about invisible again the next time someone reads the function list and assumes there is
+# one census per module; two names for two measurements is the fix, not a docstring apology
+# next to an overloaded one.
+
+TEMP_SUSPEND_FULL_RE = re.compile(
+    r"temporary suspend filed \d{2}/\d{2}/\d{4}, effective \d{2}/\d{2}/\d{4} "
+    r"through \d{2}/\d{2}/\d{4}")
+# The shorter phrase alone -- every occurrence of this is a filed temporary suspension,
+# whether or not this corpus's own text goes on to record where it ends. Compared against
+# `TEMP_SUSPEND_FULL_RE`'s count rather than trusted alone: an OPEN-ENDED suspension (filed,
+# in force, with no closing date on record yet) would match this and not that, and the two
+# counts are reported side by side so a gap between them is a visible fact rather than a
+# silent undercount hiding inside one number.
+TEMP_SUSPEND_MENTION_RE = re.compile(r"temporary suspend filed")
+
+
+def _rule_document_texts() -> list:
+    """The full text of every committed rule document -- `rules/oar-*.md` rather than
+    `rules/*.md`, which also matches `rules/_index.md` and `rules/CHANGELOG.md`: two files
+    that are not claims about Oregon law and whose absence of a `status:` line would
+    otherwise be reported as a corpus gap rather than left out as never having been one.
+    #229's own worklist reader (`check_bulletin.py`) already names this glob `RULES_DIR`
+    for the same reason; this module gets its own constant because it is a different corpus
+    of callers and `import check_bulletin` for one glob would be the heavier dependency.
+
+    A LIST, NOT A GENERATOR, because both censuses below read every document's full text
+    and a caller wanting both -- `cmd_check()`, and `stated_census._legal_status_docs_
+    measurement()` one process over -- would otherwise pay a 42,561-file read twice for one
+    invocation, the exact cost `_ors_citation_gap_measurement()` elsewhere in this ticket
+    refuses to pay a second time for a different reason."""
+    return [p.read_text() for p in RULES_DIR.rglob("oar-*.md")]
+
+
+def document_status_counts(texts=None) -> dict:
+    """The `status:` distribution over every committed rule document -- CONTEXT.md's *Legal
+    status* entry's "40,442 current / 2,085 repealed / 34 superseded" (#307). A DIFFERENT
+    MEASUREMENT FROM `census()` ABOVE, wearing the same word -- see this section's banner
+    comment.
+
+    Every value in `LEGAL_STATUS_VALUES` is a named key, THE ZEROES INCLUDED (AGENTS.md): a
+    schema word this corpus currently holds none of must still read as a measured zero, not
+    as a key absent because nobody asked. `no_status` counts a document whose frontmatter
+    block carries no `status:` line at all -- read the same way `doc_status_by_rule` does,
+    off the FRONTMATTER BLOCK ONLY, because a rule's own served text can print a line that
+    starts `status:` in its body (the exact case `_proof_only_frontmatter_is_read_for_a_
+    status` exists to prove `doc_status_by_rule` does not misread), and a bare frontmatter
+    value this module has no name for -- a schema drift nothing else here would catch --
+    surfaces under its own literal key rather than being folded into `no_status` and hidden.
+
+    `texts=None` reads the committed corpus (`_rule_document_texts()`); `--selftest` passes
+    a list of synthetic document strings instead, so this can be proved without touching
+    disk."""
+    if texts is None:
+        texts = _rule_document_texts()
+    counts = {v: 0 for v in LEGAL_STATUS_VALUES}
+    counts["no_status"] = 0
+    total = 0
+    for text in texts:
+        total += 1
+        block = FRONTMATTER_BLOCK_RE.match(text)
+        m = DOC_STATUS_RE.search(block.group(1)) if block else None
+        key = m.group(1) if m else "no_status"
+        counts[key] = counts.get(key, 0) + 1
+    counts["total"] = total
+    return counts
+
+
+def document_status_census(texts=None) -> str:
+    """`document_status_counts()`, formatted -- printed by `--check` on every run, the same
+    reason `catalog_agencies.py`'s `*_census()` functions are (#306's own precedent): a
+    figure that can only be watched NOT changing is one nobody can tell from a figure that
+    stopped being measured. FORMATS the dict rather than measuring anything itself, so this
+    sentence and a `census:legal_status_docs.status_*` tag elsewhere can never disagree
+    about what the corpus holds."""
+    c = document_status_counts(texts)
+    named = ", ".join(f"{c[v]} {v}" for v in LEGAL_STATUS_VALUES)
+    return f"{c['total']} rule document(s): {named} ({c['no_status']} carry no status: line)"
+
+
+def temporary_suspension_counts(texts=None) -> dict:
+    """How many committed rule documents' History text reads `temporary suspend filed …,
+    effective … through …` -- CONTEXT.md's *Filed force action* entry's figure for why a
+    suspension is stamped `superseded` rather than `repealed` (#307): every suspension
+    Oregon files carries an end date, which is the fact this counts.
+
+    `full` is the complete shape (a filed date AND a recorded effective/through pair);
+    `filed_mentions` is the bare `temporary suspend filed` phrase alone, which every `full`
+    match is also an instance of. THE TWO ARE REPORTED SEPARATELY ON PURPOSE -- see
+    `TEMP_SUSPEND_MENTION_RE`'s comment -- so a suspension filed with no closing date on
+    record yet would move `filed_mentions` without moving `full`, visibly, rather than being
+    silently absorbed into one count that cannot tell the two shapes apart. On the corpus
+    committed here today the two agree; a future filing that makes them diverge is exactly
+    what keeping both is for.
+
+    `texts=None` reads the committed corpus; `--selftest` passes synthetic strings."""
+    if texts is None:
+        texts = _rule_document_texts()
+    full = mentions = 0
+    for text in texts:
+        full += len(TEMP_SUSPEND_FULL_RE.findall(text))
+        mentions += len(TEMP_SUSPEND_MENTION_RE.findall(text))
+    return {"full": full, "filed_mentions": mentions}
+
+
+def temporary_suspension_census(texts=None) -> str:
+    """`temporary_suspension_counts()`, formatted -- printed by `--check` on every run,
+    same reason `document_status_census()` is."""
+    c = temporary_suspension_counts(texts)
+    return (f"{c['full']} temporary-suspend History line(s) read in full "
+            f"(effective ... through ...); {c['filed_mentions']} `temporary suspend filed` "
+            "mention(s) in all")
+
+
 # ------------------------------------------------------------------- commands
 
 
@@ -996,6 +1121,14 @@ def cmd_check() -> int:
                        for a, n in sorted(by_action.items())) or "none")
           + f"; {len(filed_force_actions(worklist))} filed by "
           f"{worklist.get('bulletin')}, every one recorded")
+    # THE TWO DOCUMENT-LEVEL CENSUSES (#307), printed the same way every other census in
+    # this run is: a figure `stated_census.py` resolves a `census:legal_status_docs.*` tag
+    # against, so CONTEXT.md's prose and this line can never quietly disagree about what
+    # the corpus holds. `census()` above counted WRITE SITES; this counts STATUS VALUES.
+    # ONE READ OF THE CORPUS, shared by both -- see `_rule_document_texts()`.
+    doc_texts = _rule_document_texts()
+    print(document_status_census(doc_texts))
+    print(temporary_suspension_census(doc_texts))
     return 0
 
 
@@ -1560,6 +1693,83 @@ def _proof_every_filed_force_action_is_recorded(check) -> None:
               bulletin="September 2026 (bulltnRsn=1762)")))
 
 
+def _fixture_rule_doc(status: str) -> str:
+    """A minimal committed rule document's text, frontmatter and all -- the shape
+    `document_status_counts` and `temporary_suspension_counts` read."""
+    return f"---\nid: oar-1-001-0001\nstatus: {status}\n---\n\n## Full text\n\nbody.\n"
+
+
+def _proof_document_status_counts(check) -> None:
+    """`document_status_counts()`: CONTEXT.md's *Legal status* headline figure (#307), and
+    a DIFFERENT MEASUREMENT from `census()` above wearing the same word -- see this
+    module's "the document-level censuses" section banner. Proven against synthetic
+    document texts, not the corpus, so this stays fast and independent of the corpus's
+    current distribution -- and so the mutation below (the point of #307's own ticket:
+    "change the underlying data, watch the figure move") is a controlled one rather than a
+    coincidence of whatever the committed corpus happens to hold today."""
+    docs = [_fixture_rule_doc("current"), _fixture_rule_doc("current"),
+            _fixture_rule_doc("repealed")]
+    counts = document_status_counts(docs)
+    check("every LEGAL_STATUS_VALUES word is a named category, the zeroes included",
+          set(LEGAL_STATUS_VALUES) <= set(counts))
+    check("a mixed set of documents counts each status correctly",
+          (counts["current"], counts["repealed"], counts["superseded"]) == (2, 1, 0))
+    check("the total is every document counted, whatever its status",
+          counts["total"] == len(docs))
+    # THE MUTATION: change the underlying data, watch the figure move.
+    moved = document_status_counts(docs + [_fixture_rule_doc("repealed")])
+    check("...and the count MOVES when the underlying data does",
+          moved["repealed"] == counts["repealed"] + 1
+          and moved["current"] == counts["current"])
+    # A document with no status: line at all is a NAMED category, not a silent drop --
+    # "could not check is never reported as is not there" applied to this census itself.
+    no_status = document_status_counts(docs + ["---\nid: oar-1-001-0002\n---\n\nbody\n"])
+    check("a document with no status: line is counted as its own named category",
+          no_status.get("no_status") == 1)
+    # A rule's own served text can print a `status:` line INSIDE its body -- this corpus's
+    # whole content policy is that the full text is reproduced unaltered, and reading such
+    # a line as the document's legal status would misclassify it. Same rule
+    # `doc_status_by_rule` keeps by reading the frontmatter block only
+    # (`_proof_only_frontmatter_is_read_for_a_status`, above).
+    body_only = document_status_counts(
+        ["---\nid: oar-1-001-0003\n---\n\nstatus: current shall be recorded by the agency.\n"])
+    check("a `status:` line in a document's own BODY is not read as its frontmatter status",
+          body_only.get("no_status") == 1 and body_only.get("current", 0) == 0)
+
+
+def _proof_temporary_suspension_counts(check) -> None:
+    """`temporary_suspension_counts()`: CONTEXT.md's *Filed force action* entry's History-
+    line figure (#307) -- why a suspension is stamped `superseded` rather than `repealed`:
+    every suspension Oregon files carries an end date, and this counts the lines that say
+    so. Proven against synthetic History text, not the corpus."""
+    full_line = ("History: BHS 1-2024, temporary suspend filed 01/01/2024, effective "
+                "01/01/2024 through 06/01/2024 BHS 2-2023, adopt filed 03/03/2023, "
+                "effective 03/03/2023\n")
+    # AN OPEN-ENDED SUSPENSION: filed, and in force, with no closing date on record yet --
+    # a real possibility this corpus's own text distinguishes with the `full` vs
+    # `filed_mentions` split (see the module docstring at `TEMP_SUSPEND_MENTION_RE`).
+    open_ended = "History: BHS 3-2024, temporary suspend filed 02/02/2024, effective 02/02/2024\n"
+
+    counts = temporary_suspension_counts([full_line])
+    check("a full temporary-suspend History line is counted in both figures",
+          (counts["full"], counts["filed_mentions"]) == (1, 1))
+
+    diverging = temporary_suspension_counts([full_line, open_ended])
+    check("a filed suspension with no recorded through-date moves filed_mentions and not "
+          "full -- the two figures CAN diverge, and this is what that looks like",
+          (diverging["filed_mentions"], diverging["full"]) == (2, 1))
+
+    # THE MUTATION: change the underlying data, watch the figure move.
+    doubled = temporary_suspension_counts([full_line, full_line])
+    check("...and full MOVES when a second complete line is added",
+          doubled["full"] == counts["full"] + 1)
+
+    clean = temporary_suspension_counts(["History: BHS 1-2024, adopt filed 01/01/2024, "
+                                         "effective 01/01/2024\n"])
+    check("a History line with no temporary suspension at all counts zero, not absent",
+          clean == {"full": 0, "filed_mentions": 0})
+
+
 def selftest() -> int:
     check = Checks()
     _proof_resolve(check)
@@ -1579,6 +1789,8 @@ def selftest() -> int:
     _proof_only_frontmatter_is_read_for_a_status(check)
     _proof_a_marked_row_says_where_it_came_from(check)
     _proof_every_filed_force_action_is_recorded(check)
+    _proof_document_status_counts(check)
+    _proof_temporary_suspension_counts(check)
     # THE DECLARATION, GATED FROM BOTH SIDES. A rule the code can emit and `CHECK_RULES`
     # does not name would go uncounted; a rule named there that nothing above actually made
     # fire is one nobody has watched work, and a name in two lists is not a proof.

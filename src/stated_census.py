@@ -257,10 +257,54 @@ def _oar_watch_measurement() -> dict:
     }
 
 
+def _legal_status_docs_measurement() -> dict:
+    """`legal_status.py`'s two DOCUMENT-level censuses (#307): the `status:` distribution
+    over every committed rule document (CONTEXT.md's *Legal status*) and the temporary-
+    suspension History-line count (CONTEXT.md's *Filed force action*) -- both counting
+    committed rule DOCUMENTS, unlike `legal_status.census()`, which counts legal-status
+    WRITE SITES in src/ MODULES. Same word, two different measurements; kept as two
+    separate functions in that module rather than one overloading the other's name (see
+    its "the document-level censuses" section banner). `status_*` and `temp_suspend_*`
+    prefix the two so their keys can never collide the way `authority_total` and
+    `chapter_total` would without `_agencies_measurement`'s own prefixing."""
+    import legal_status as ls
+    # ONE READ OF THE CORPUS, shared by both -- `_rule_document_texts()` materializes a
+    # list for exactly this, and calling each `*_counts()` with `texts=None` here would
+    # read all 42,561 rule documents twice for one measurement.
+    doc_texts = ls._rule_document_texts()
+    out = {}
+    out.update({f"status_{k}": v for k, v in ls.document_status_counts(doc_texts).items()})
+    out.update({f"temp_suspend_{k}": v
+               for k, v in ls.temporary_suspension_counts(doc_texts).items()})
+    return out
+
+
+def _ors_citation_gap_measurement(text=None) -> dict:
+    """The committed ORS chapter-gap catalog's own `summary:` block (#307) --
+    CONTEXT.md's *Chapter selection* entry's "chapters cited outside the selection"
+    figures. `scan_ors_citations.py --check` (CI, every PR) ALREADY computes these over the
+    whole corpus and keeps `_meta/catalog/ors-citation-gap.yml` current; this reads that
+    committed, already-gated view RATHER THAN RECOMPUTING -- re-running the scan here would
+    pay its full-corpus cost a second time for numbers the view already carries, and it
+    would let this reader's idea of the gap and the file's own summary drift into two
+    different measurements of the same thing, which is the shape #307 exists to close
+    everywhere else.
+
+    `text=None` reads the committed file; `--selftest` passes synthetic YAML text instead."""
+    if text is None:
+        path = REPO_ROOT / "_meta" / "catalog" / "ors-citation-gap.yml"
+        text = path.read_text()
+    data = yaml.safe_load(text) or {}
+    summary = data.get("summary") if isinstance(data, dict) else None
+    return {k: v for k, v in (summary or {}).items() if isinstance(v, int)}
+
+
 CENSUSES = {
     "oar": _oar_measurement,
     "agencies": _agencies_measurement,
     "oar_watch": _oar_watch_measurement,
+    "legal_status_docs": _legal_status_docs_measurement,
+    "ors_citation_gap": _ors_citation_gap_measurement,
 }
 
 
@@ -602,6 +646,35 @@ def selftest() -> int:
         fails.append(f"FAIL an-unreadable-document-is-refused: {got}")
 
     CENSUSES = real_censuses
+
+    # ------------- #307: the ors_citation_gap reader reads its source, and moves --------
+    #
+    # `scan_ors_citations.py` ALREADY computes chapters-cited-outside-the-selection --
+    # it is in the committed catalog's `summary:` block and in the printed line. This
+    # namespace exposes those numbers as named quantities rather than recomputing them, so
+    # the reading logic (not the scan itself, which is `scan_ors_citations.py --selftest`'s
+    # job) is what needs proving here -- against synthetic YAML text, not the committed
+    # catalog, so the mutation below is controlled rather than a coincidence of whatever
+    # the corpus's gap happens to be today.
+    synthetic_a = ("summary:\n  chapters_cited_outside_mirrored_set: 5\n"
+                  "  chapters_known_real_not_ingested: 2\n"
+                  "  chapters_no_corroborating_evidence: 3\n")
+    got = _ors_citation_gap_measurement(synthetic_a)
+    if got.get("chapters_cited_outside_mirrored_set") != 5:
+        fails.append(f"FAIL ors-citation-gap-reader-parses-the-summary-block: {got}")
+    # THE MUTATION: change the underlying data, watch the figure move.
+    synthetic_b = ("summary:\n  chapters_cited_outside_mirrored_set: 6\n"
+                  "  chapters_known_real_not_ingested: 2\n"
+                  "  chapters_no_corroborating_evidence: 4\n")
+    moved = _ors_citation_gap_measurement(synthetic_b)
+    if moved.get("chapters_cited_outside_mirrored_set") != 6:
+        fails.append(f"FAIL ors-citation-gap-reader-moves-with-its-source: {moved}")
+    # A non-integer summary value (a string, a null) is left out rather than gated on --
+    # `known-census-key` is what refuses a tag naming a key this reader did not carry.
+    with_a_string = "summary:\n  documents_scanned: 5\n  note: not a count\n"
+    stringy = _ors_citation_gap_measurement(with_a_string)
+    if "note" in stringy or stringy.get("documents_scanned") != 5:
+        fails.append(f"FAIL ors-citation-gap-reader-keeps-only-integers: {stringy}")
 
     # ---------------- citation-integrity rule (#305's follow-on) ----------------
     #

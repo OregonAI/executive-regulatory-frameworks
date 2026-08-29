@@ -201,10 +201,10 @@ gates:
     seconds: 6.9
     shard: 1
   - name: "Legal status must be written once and read everywhere else"
-    seconds: 4.8
+    seconds: 6.4
     shard: 1
   - name: "A stated figure must be gated against the census that produces it"
-    seconds: 6.0
+    seconds: 7.2
     shard: 1
   - name: "...and that rule must be able to fail (stated-figure census)"
     seconds: 0.1

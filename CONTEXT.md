@@ -175,10 +175,13 @@ _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a 
 **Legal status**:
 Whether a rule is in force. It lives in the document's `status` frontmatter field, whose values
 corpus-toolkit's schema fixes as `current | superseded | repealed | proposed | draft`, and it
-is a claim about Oregon law. Measured over the committed corpus: 40,442 <!--observed:2026-08-28-->
-rules read `current`, 2,085 <!--observed:2026-08-28--> `repealed` and 34 <!--observed:2026-08-28-->
-`superseded` — the distribution itself has no producing measurement yet (#307; a stated
-figure this ticket marked an observation rather than invent one for). ITS WRITER IS THE
+is a claim about Oregon law. Measured over the committed corpus: 40,442
+<!--census:legal_status_docs.status_current--> rules read `current`, 2,085
+<!--census:legal_status_docs.status_repealed--> `repealed` and 34
+<!--census:legal_status_docs.status_superseded--> `superseded`, computed by
+`legal_status.document_status_counts()` and printed on every `legal_status.py --check` run
+— a DIFFERENT MEASUREMENT from that module's own `census()`, which counts WRITE SITES in
+`src/` modules rather than status values in documents (#307). ITS WRITER IS THE
 OREGON BULLETIN (ADR 0006), and since
 #228 that is a single function — `legal_status.resolve()` — rather than a convention. It had
 two writers: `ingest_oar.py` wrote `status: current` as a hardcoded literal on every rule it
@@ -205,8 +208,14 @@ an automatic re-ingest. It lives on the OAR catalog row in `legal_status_action`
 together or `legal_status.py --check` refuses the row. IT IS ON THE ROW BECAUSE THE SCHEMA
 ENUM CANNOT HOLD IT: `current | superseded | repealed | proposed | draft` has one word for a
 loss of force and it means a permanent one, while every suspension Oregon files carries an
-end date — 242 <!--observed:2026-08-28--> History lines in this corpus read `temporary
-suspend filed …, effective … through …` (no producing measurement yet, #307). So a
+end date — 248 <!--census:legal_status_docs.temp_suspend_full--> History lines in this
+corpus read `temporary suspend filed …, effective … through …`, computed by
+`legal_status.temporary_suspension_counts()` (#307). The shorter phrase `temporary suspend
+filed` alone matches exactly as many, 248
+<!--census:legal_status_docs.temp_suspend_filed_mentions-->, meaning no suspension in this
+corpus is currently on record filed with no closing date — the two figures are counted
+separately (and can diverge; `--selftest` proves it) precisely so that agreement stays
+visible as a measurement rather than an assumption. So a
 suspension is stamped `superseded`, the strongest thing the shared enum can
 truthfully say (this is not the operative text right now), and the action is what says the
 loss is temporary (the gap in the shared enum is corpus-toolkit#159). Without it, 34
@@ -288,10 +297,14 @@ chapter absent from both the mirrored set AND the discovery map
 to chapters "relevant to DAS/executive-branch administration" and was never asked about
 most of the numbering space — its silence proves nothing, and is reported as exactly that
 rather than guessed either way. `src/scan_ors_citations.py --check` (CI, every PR) is the
-gate: measured on the committed corpus, 92 <!--observed:2026-08-28--> chapters this corpus's
-own documents cite sit outside the selection (14 <!--observed:2026-08-28--> corroborated
-real via the discovery map, 78 <!--observed:2026-08-28--> with no evidence either way; no
-producing measurement yet for these three, #307) — chapter 151 among neither any more,
+gate: measured on the committed corpus, 92
+<!--census:ors_citation_gap.chapters_cited_outside_mirrored_set--> chapters this corpus's
+own documents cite sit outside the selection (14
+<!--census:ors_citation_gap.chapters_known_real_not_ingested--> corroborated real via the
+discovery map, 78 <!--census:ors_citation_gap.chapters_no_corroborating_evidence--> with no
+evidence either way — the same three counts already living in
+`ors-citation-gap.yml`'s own `summary:` block and printed line, exposed here as named
+quantities rather than recomputed, #307) — chapter 151 among neither any more,
 having been mirrored for this fix, and chapter 31 the largest remaining single gap at
 284 <!--observed:2026-08-28--> citations across
 127 <!--observed:2026-08-28--> documents (status
