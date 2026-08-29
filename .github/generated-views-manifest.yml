@@ -203,6 +203,12 @@ gates:
   - name: "Legal status must be written once and read everywhere else"
     seconds: 4.8
     shard: 1
+  - name: "A stated figure must be gated against the census that produces it"
+    seconds: 6.0
+    shard: 1
+  - name: "...and that rule must be able to fail (stated-figure census)"
+    seconds: 0.1
+    shard: 1
   - name: "Every amendment the Bulletin filed must be recorded as re-ingested"
     seconds: 4.8
     shard: 3

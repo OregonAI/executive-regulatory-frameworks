@@ -20,6 +20,33 @@ _Avoid_: Not found, absent, none, no results, empty — every one of them report
 search that returned nothing, which is the other finding. An absence may be claimed only when
 it was MEASURED, and then it is cited as a search that ran
 
+**Stated figure**:
+A number written in this file's prose that claims to count something about the corpus. It is
+either TAGGED to the measurement that produces it — `<!--census:namespace.key-->`, placed
+immediately after the number and read by `src/stated_census.py --check` on every run — or
+marked an OBSERVATION (below), never neither. #304 corrected five figures a generated view
+had already moved past while this file had not; `stated_census.py` exists so the sixth one
+is a red run instead of a sixth hand sweep, and while proving itself against the real corpus
+rather than a fixture it found and fixed exactly that sixth one, in the *Hash observation*
+entry below.
+_Avoid_: Number, count, figure — unqualified, none of them say whether this file is
+answerable for keeping the value current
+
+**Observation**:
+A stated figure about a dated, closed event, which cannot drift because the event it
+describes is already over — the August 2026 bulletin's rule count does not change when a
+later bulletin is read, so gating it against a live measurement would be gating it against
+something it was never a claim about. Marked `<!--observed:YYYY-MM-DD-->`, immediately after
+the number; the date is when a human confirmed the figure describes a closed event rather
+than the corpus's current state, never the event's own date. It is accepted unconditionally
+— `stated_census.py --check` never compares it to a measurement, unlike a `census:`-tagged
+figure. Marking a figure this way is never a substitute for building the measurement that
+would let it be tagged instead: it is honest only for a figure that is genuinely about the
+past, and #306 is explicit that inventing a measurement it did not already have was the next
+ticket's job, not licence to mark broadly and not come back.
+_Avoid_: Snapshot, historical figure, fixed value — none of them say WHY the number cannot
+drift, which is what tells a reader whether marking one this way is honest
+
 ## Documents
 
 **Document**:
@@ -148,8 +175,11 @@ _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a 
 **Legal status**:
 Whether a rule is in force. It lives in the document's `status` frontmatter field, whose values
 corpus-toolkit's schema fixes as `current | superseded | repealed | proposed | draft`, and it
-is a claim about Oregon law. Measured over the committed corpus: 40,442 rules read `current`,
-2,085 `repealed` and 34 `superseded`. ITS WRITER IS THE OREGON BULLETIN (ADR 0006), and since
+is a claim about Oregon law. Measured over the committed corpus: 40,442 <!--observed:2026-08-28-->
+rules read `current`, 2,085 <!--observed:2026-08-28--> `repealed` and 34 <!--observed:2026-08-28-->
+`superseded` — the distribution itself has no producing measurement yet (#307; a stated
+figure this ticket marked an observation rather than invent one for). ITS WRITER IS THE
+OREGON BULLETIN (ADR 0006), and since
 #228 that is a single function — `legal_status.resolve()` — rather than a convention. It had
 two writers: `ingest_oar.py` wrote `status: current` as a hardcoded literal on every rule it
 created, and `enrich_oar.py` derived the field from the rule's own History line and compared it
@@ -161,7 +191,8 @@ assert only where nothing better is known. A Bulletin-set status is carried on t
 row in `legal_status` and stamped onto the document from there, so the catalog writes and the
 document reads. `legal_status.py --check` fails if a second writer appears and `--selftest`
 proves it, a re-ingest overwriting a Bulletin-set status included. Since #229 the August 2026
-bulletin's 66 repeals and 34 suspensions against rules held here are recorded, and the rules
+bulletin's 66 <!--observed:2026-08-28--> repeals and 34 <!--observed:2026-08-28--> suspensions
+against rules held here are recorded, and the rules
 are MARKED AND KEPT — path, ingest status and document untouched, because deleting a repealed
 rule breaks every citation pointing at it.
 _Avoid_: Status, unqualified — the catalog has a different field by that name
@@ -174,12 +205,13 @@ an automatic re-ingest. It lives on the OAR catalog row in `legal_status_action`
 together or `legal_status.py --check` refuses the row. IT IS ON THE ROW BECAUSE THE SCHEMA
 ENUM CANNOT HOLD IT: `current | superseded | repealed | proposed | draft` has one word for a
 loss of force and it means a permanent one, while every suspension Oregon files carries an
-end date — 242 History lines in this corpus read `temporary suspend filed …, effective …
-through …`. So a suspension is stamped `superseded`, the strongest thing the shared enum can
+end date — 242 <!--observed:2026-08-28--> History lines in this corpus read `temporary
+suspend filed …, effective … through …` (no producing measurement yet, #307). So a
+suspension is stamped `superseded`, the strongest thing the shared enum can
 truthfully say (this is not the operative text right now), and the action is what says the
 loss is temporary (the gap in the shared enum is corpus-toolkit#159). Without it, 34
-suspended rules and 66 repealed ones would be one
-undifferentiated set, which is the collapse #229 exists to prevent.
+<!--observed:2026-08-28--> suspended rules and 66 <!--observed:2026-08-28--> repealed ones
+would be one undifferentiated set, which is the collapse #229 exists to prevent.
 _Avoid_: Bulletin action, filing type — a filing also adopts, amends and renumbers, and those
 three change TEXT, re-ingest without asking (#230) and set no legal status at all
 
@@ -192,11 +224,12 @@ read by nothing, a verb in both is re-ingested and reviewed with the re-ingest r
 first, and `reingest_oar.py --check` fails on all three. The table is DECLARED rather than
 derived as "everything that is not a force action", because a complement makes a verb
 nobody has classified re-ingest unattended the day it appears upstream. A rule the same
-bulletin ALSO took out of force is refused by rule and not by row: August 2026 amended 12
-rules it repealed or suspended, and re-ingesting them would leave the whole safety property
-resting on `legal_status.resolve()` being handed the right argument one line later.
-Measured on the August 2026 bulletin: 318 amendments against rules this corpus holds, 306
-re-ingested and 12 refused by name.
+bulletin ALSO took out of force is refused by rule and not by row: August 2026 amended
+12 <!--observed:2026-08-28--> rules it repealed or suspended, and re-ingesting them would
+leave the whole safety property resting on `legal_status.resolve()` being handed the right
+argument one line later. Measured on the August 2026 bulletin: 318 <!--observed:2026-08-28-->
+amendments against rules this corpus holds, 306 <!--observed:2026-08-28--> re-ingested and
+12 <!--observed:2026-08-28--> refused by name.
 _Avoid_: Amendment, text change — an adoption and a renumber are neither, and a renumber
 that changes a rule's number does not change the text under it
 
@@ -216,16 +249,19 @@ way and this is a third fact about the same rule
 
 **Ingest status**:
 Whether this corpus holds a copy of a rule, and in what shape. It lives in
-`_meta/catalog/oar.yml` as `rules[].status`, with its own vocabulary — `ingested` (42,082),
-`not_ingested` (0 since #238 ingested the 5,608 rules #270's OARD-direct discovery had found:
-the word means OARD names a rule this mirror holds no document for, and a count of zero says
-the mirror is complete against what OARD lists TODAY, never that the state has been retired),
-`renumbered` (484, carrying `served_as`), `not_served` (49). It is a claim about THIS MIRROR,
+`_meta/catalog/oar.yml` as `rules[].status`, with its own vocabulary — `ingested`
+(42,082 <!--census:oar.ingested-->), `not_ingested` (0 <!--census:oar.not_ingested--> since
+#238 ingested the 5,608 <!--observed:2026-08-28--> rules #270's OARD-direct discovery had
+found: the word means OARD names a rule this mirror holds no document for, and a count of
+zero says the mirror is complete against what OARD lists TODAY, never that the state has
+been retired), `renumbered` (484 <!--census:oar.renumbered-->, carrying `served_as`),
+`not_served` (49 <!--census:oar.not_served-->). It is a claim about THIS MIRROR,
 never about Oregon law: a rule can be in force and absent here, or repealed and still held.
 The Bulletin's claim about force sits on the SAME ROW under different keys — `legal_status`,
 `legal_status_action` and `legal_status_notice`, none of which may appear without the others
 — and the two vocabularies never borrow each other's words — `legal_status.py --check` reads
-all 42,615 entries and refuses either field holding the other's vocabulary, because on the
+all 42,615 <!--census:oar.total--> entries and refuses either field holding the other's
+vocabulary, because on the
 day they first collide nothing else in the repository would notice.
 _Avoid_: Status, unqualified. The two fields share a name and mean different things, which is
 why both entries exist
@@ -235,7 +271,8 @@ Whether an ORS chapter is in this corpus's mirror AT ALL — one level up from I
 which is about a document WITHIN a chapter already selected. It lives in
 `_meta/sources/ors.yml`'s `ors` group, titled "ingested chapters" to say a selection is
 intended rather than complete coverage (545+ of Oregon's chapters, and growing). #210 is
-the case that forced the distinction: 154 citations pointed at ORS chapter 151 and it was
+the case that forced the distinction: 154 <!--observed:2026-08-28--> citations pointed at
+ORS chapter 151 and it was
 outside the selection, and `citation_schemes._resolve_ors` answered exactly as it would
 have for a citation to a chapter number Oregon does not use — the ORS scheme's OWN version
 of collapsing "could not check" into "is not there" (see **Could not check** above, and
@@ -251,10 +288,13 @@ chapter absent from both the mirrored set AND the discovery map
 to chapters "relevant to DAS/executive-branch administration" and was never asked about
 most of the numbering space — its silence proves nothing, and is reported as exactly that
 rather than guessed either way. `src/scan_ors_citations.py --check` (CI, every PR) is the
-gate: measured on the committed corpus, 92 chapters this corpus's own documents cite sit
-outside the selection (14 corroborated real via the discovery map, 78 with no evidence
-either way) — chapter 151 among neither any more, having been mirrored for this fix, and
-chapter 31 the largest remaining single gap at 284 citations across 127 documents (status
+gate: measured on the committed corpus, 92 <!--observed:2026-08-28--> chapters this corpus's
+own documents cite sit outside the selection (14 <!--observed:2026-08-28--> corroborated
+real via the discovery map, 78 <!--observed:2026-08-28--> with no evidence either way; no
+producing measurement yet for these three, #307) — chapter 151 among neither any more,
+having been mirrored for this fix, and chapter 31 the largest remaining single gap at
+284 <!--observed:2026-08-28--> citations across
+127 <!--observed:2026-08-28--> documents (status
 `not_mirrored_unknown` — not even in the discovery map, so its title is not asserted here
 either), dwarfing the one chapter this ticket happened to notice.
 _Avoid_: Coverage, ingested — the first is vague about which of the two levels (chapter or
@@ -267,19 +307,22 @@ corpus mirrors the chapter and holds no document — a coverage gap) and
 `chapter_not_mirrored` (the chapter is outside the selection — a boundary, not a fault).
 It lives in `_meta/bulletin-worklist.yml` as `rules[].corpus_state`. It is a claim about
 THIS MIRROR and about nothing in Oregon law, which it shares with ingest status and not
-with legal status. The August 2026 bulletin put 121 rules in the second state, 43 of them
+with legal status. The August 2026 bulletin put 121 <!--observed:2026-08-28--> rules in the
+second state, 43 <!--observed:2026-08-28--> of them
 amendments; the field it replaced, `in_corpus: true|false`, had no way to say so.
 _Avoid_: `in_corpus`, in corpus, held — the first is the two-state field this replaced,
 and reading the new spelling off the old name finds every value truthy
 
 **Monthly bulletin report**:
 The one issue a scheduled run files about a month's Oregon Bulletin, and the last piece of
-ADR 0006 (#231). It is ONE issue per RUN, never one per rule: August 2026 filed 549 rule
-actions and the tracker caps a drift run at 25 issues, so per-rule filing reports 25
+ADR 0006 (#231). It is ONE issue per RUN, never one per rule: August 2026 filed
+549 <!--observed:2026-08-28--> rule actions and the tracker caps a drift run at
+25 <!--observed:2026-08-28--> issues, so per-rule filing reports 25 <!--observed:2026-08-28-->
 findings and drops the rest on stderr — which is corpus-toolkit#67. It carries the counts
 by action and by corpus state, every filing `check_bulletin.py` could not open, every
-renumber whose destination the filing did not state, all 121 rules missing from a chapter
-this corpus mirrors BY NUMBER rather than as a total, and the disagreement between the
+renumber whose destination the filing did not state, all 121 <!--observed:2026-08-28-->
+rules missing from a chapter this corpus mirrors BY NUMBER rather than as a total, and the
+disagreement between the
 Bulletin and hashing. It is written by `src/bulletin_report.py`, runs from
 `.github/workflows/bulletin-report.yml` on the 6th of each month — the Bulletin's first
 BUSINESS day is as late as the 4th — writes nothing in the repository, and files NO issue at
@@ -288,8 +331,9 @@ all from a run holding no finding. Every command typed by hand is a dry run; onl
 same month finds the first run's issue. IT READS THE COMMITTED WORKLIST AND CANNOT WRITE
 ONE, so A MONTH NOBODY HAS RE-READ IS ITS LOUDEST FINDING: `months_unread()` counts the
 bulletins published since the committed one and the issue leads with the count. Without it
-the September run rebuilds August's report, matches August's issue title and exits 0 having
-filed nothing — a green run for a month nobody read, indistinguishable from a month with
+the September run rebuilds August's report, matches August's issue title and exits
+0 <!--observed:2026-08-28--> having filed nothing — a green run for a month nobody read,
+indistinguishable from a month with
 nothing in it. The module itself fetches nothing; the hash observation is produced by a
 separate step of that workflow.
 _Avoid_: Drift report, worklist — the first is `corpus-detect-changes`'s per-source ticket
@@ -405,13 +449,16 @@ _Avoid_: Evidence, provenance, reason — a basis says what a KIND was derived f
 
 **Undetermined**:
 The kind of a relation nobody has decided yet. Choosing between *part of* and *administered
-by* turns on whether the body carries its own admitting evidence (ADR 0004), and 37 of the
-82 relations have none of any strength — so `undetermined` is what they record, and
+by* turns on whether the body carries its own admitting evidence (ADR 0004), and
+37 <!--census:agencies.relation_kind__undetermined--> of the
+82 <!--census:agencies.relation_total_relations--> relations have none of any strength — so
+`undetermined` is what they record, and
 `catalog_agencies.py --check` reports the count on every run. It says the relation is REAL
 and its kind unestablished, which is neither of the two kinds and is never a third one. It
 is also never derived FROM an absence: that a matcher found no candidate for a body is a
 statement about the matcher, so a relation nothing speaks to stays undetermined rather than
-becoming *part of*, and 37 of them is the answer rather than a backlog.
+becoming *part of*, and 37 <!--census:agencies.relation_kind__undetermined--> of them is the
+answer rather than a backlog.
 _Avoid_: Unknown, null, blank — an absent kind lets a consumer read whichever it prefers
 
 **DAS agency number**:
@@ -454,10 +501,17 @@ What one `corpus-detect-changes` run saw: the sources whose fetched bytes differ
 RECORDED baseline, written to `changed-sources.tsv`. It is the second of ADR 0006's two
 signals and it is OBSERVATION of what is served, where the Bulletin is AUTHORITY about what
 was filed — neither arbitrates the other, and the disagreement is the finding. Its universe
-is the manifest, not the corpus: `_meta/sources/oar.yml` watches 484 individual rule pages
-in chapters 105, 122, 125 and 128, and the August 2026 bulletin named 534 rules in 35 other
-chapters, so THE OVERLAP IS ZERO (#247) and for every rule that bulletin named there is no
-observation at all. A rule's absence from the drift file is therefore never read as "the
+is the manifest, not the corpus: `_meta/sources/oar.yml` now watches
+6,614 <!--census:oar_watch.watched--> individual rule pages across
+136 <!--census:oar_watch.watched_chapters--> chapters — grown from the
+484 <!--observed:2026-08-28--> pages in four chapters #247 found the manifest holding, which
+is what made THE OVERLAP ZERO true when it was written and false now, gated rather than
+restated by hand so the next growth is caught here too. The August 2026 bulletin named
+534 <!--census:oar_watch.named--> rules in 35 <!--census:oar_watch.named_chapters--> chapters,
+of which 477 <!--census:oar_watch.overlap--> are now ALSO watched — so ADR 0006's *filed but
+not yet served* and *agreement* cases, empty at #247's writing, are live for that many rules,
+and for the remaining named rules there is still no observation at all. A rule's absence
+from the drift file is therefore never read as "the
 hash did not move"; `bulletin_report.py` claims *filed but not yet served* only for a rule
 the manifest watches AND that carries a recorded baseline to differ from, and everything
 else is reported as not checked. The file lists only what CHANGED, so a source whose fetch
@@ -472,7 +526,8 @@ A fetch that did not complete. It is a fact about OUR access and never about the
 document nobody could reach has not been shown to be unchanged, changed, or gone. It is
 neither drift nor absence, and a source that produced one was not compared — which is why it
 is counted apart from both, and why `changed-sources.tsv` not naming a source is three
-different answers rather than one. The live instance is the 43 DHS/OHA sources on
+different answers rather than one. The live instance is the
+43 <!--observed:2026-08-28--> DHS/OHA sources on
 `sharedsystems.dhsoha.state.or.us`, which served its leaf certificate without the intermediate
 that links it to a root: strictly unfetchable from 2026-08-05, 3.3% of the run and so under
 the systemic threshold, reported `success` every time. An access failure is fixable on our
@@ -488,7 +543,8 @@ independent changes, so `bulletin_report.py` reports the group, says how many ru
 declined to name and why, and emits no per-rule *changed with nobody announcing it* claim.
 The live instance is #244: the OARD page footer prints the app version inside the hashed
 text and `v2.1.7` became `v2.1.8`, so every recorded `source_sha256` is stale and every
-watched source reports as moved. Named per rule that is ~484 confident claims about rule
+watched source reports as moved. Named per rule that is
+~484 <!--observed:2026-08-28--> confident claims about rule
 text nobody observed — the manufactured-absence failure inverted. This is
 corpus-toolkit's ADR 0010 one level up: a group drift finding reports correlation, not cause.
 _Avoid_: Systemic drift, mass change — the first is the toolkit's FETCH-FAILURE threshold
