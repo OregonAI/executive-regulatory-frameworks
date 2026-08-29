@@ -986,6 +986,24 @@ def classify_authority(value):
                   f"{NO_AUTHORITY!r} and the reason there is none")
 
 
+def authority_counts(orgs) -> dict:
+    """The measurement `authority_census` formats -- the three states of `enabling_authority`,
+    counted over registry ROWS (#306). ONE MEASUREMENT, TWO READERS: this dict is what
+    `authority_census`'s sentence below reads, and it is what `stated_census.py` resolves a
+    `census:agencies.authority_*` tag against, so the printed prose and the gated figure can
+    never read two different counts of the same file.
+
+    Counted from the file rather than from the reviewed table, for the reason the original
+    docstring gave: the table says what SHOULD be recorded, and on any failure path the two
+    disagree -- a census taken from the writer would report the intended state as the actual
+    one."""
+    values = [o["enabling_authority"] for o in orgs
+              if isinstance(o, dict) and "enabling_authority" in o]
+    none_recorded = sum(1 for v in values if classify_authority(v)[0] == "reviewed-none")
+    return {"recorded": len(values) - none_recorded, "reviewed_none": none_recorded,
+            "not_looked_at": len(orgs) - len(values), "total": len(orgs)}
+
+
 def authority_census(orgs) -> str:
     """The three states of `enabling_authority`, counted over registry ROWS.
 
@@ -994,12 +1012,14 @@ def authority_census(orgs) -> str:
     census that mixed them would report the intended state as the actual one. A summary that
     counted only the bodies carrying an authority would leave a reader to infer that the rest
     have none, which is the one reading this registry never permits.
+
+    FORMATS `authority_counts()` (#306) rather than measuring anything itself, so this
+    sentence and a `census:agencies.authority_*` tag elsewhere can never disagree about what
+    the file holds -- see that function for the measurement.
     """
-    values = [o["enabling_authority"] for o in orgs
-              if isinstance(o, dict) and "enabling_authority" in o]
-    none_recorded = sum(1 for v in values if classify_authority(v)[0] == "reviewed-none")
-    return (f"{len(values) - none_recorded} recorded, {none_recorded} reviewed with none to "
-            f"record, {len(orgs) - len(values)} of {len(orgs)} bodies not looked at yet")
+    c = authority_counts(orgs)
+    return (f"{c['recorded']} recorded, {c['reviewed_none']} reviewed with none to "
+            f"record, {c['not_looked_at']} of {c['total']} bodies not looked at yet")
 
 
 def tally(counts, allowed) -> str:
@@ -1034,6 +1054,14 @@ def chaptered_rows(orgs) -> int:
     return sum(1 for o in orgs if isinstance(o, dict) and o.get("oar_chapter"))
 
 
+def chapter_counts(orgs) -> dict:
+    """The measurement `chapter_census` formats (#306) -- see `authority_counts` for why a
+    census is split into a dict a `census:` tag can resolve and a sentence that formats it
+    rather than measuring twice."""
+    chaptered = chaptered_rows(orgs)
+    return {"chaptered": chaptered, "total": len(orgs), "chapterless": len(orgs) - chaptered}
+
+
 def chapter_census(orgs) -> str:
     """How many of the registry's rows carry `oar_chapter` — the chapter pages a full
     --refresh fetches over the network — counted over rows and printed by --check on every
@@ -1045,9 +1073,12 @@ def chapter_census(orgs) -> str:
     `oar_chapter` and never be fetched. Two scripts explaining --refresh's network cost had
     both drifted to quoting 189 for a quantity that is actually smaller. This is that
     quantity, computed from the file on every run rather than pinned into either script's
-    prose to go stale the next time a row is added or a chapter goes chapterless."""
-    chaptered = chaptered_rows(orgs)
-    return f"{chaptered} of {len(orgs)} row(s) carry oar_chapter ({len(orgs) - chaptered} chapterless)"
+    prose to go stale the next time a row is added or a chapter goes chapterless.
+
+    FORMATS `chapter_counts()` (#306) rather than measuring anything itself."""
+    c = chapter_counts(orgs)
+    return (f"{c['chaptered']} of {c['total']} row(s) carry oar_chapter "
+            f"({c['chapterless']} chapterless)")
 
 
 def chapterless_source_url_census(orgs) -> tuple[int, int]:
@@ -1059,6 +1090,16 @@ def chapterless_source_url_census(orgs) -> tuple[int, int]:
     chapterless = [o for o in orgs if isinstance(o, dict) and not o.get("oar_chapter")]
     null_source = sum(1 for o in chapterless if not o.get("source_url"))
     return null_source, len(chapterless)
+
+
+def name_counts(orgs) -> dict:
+    """The measurement `name_census` formats (#306) -- every row's `name_basis`, tallied,
+    with the row total alongside it under `"total"`. `"total"` is NOT itself a `name_basis`
+    value -- a caller re-deriving `name_census`'s tally must exclude it, the way that
+    function does below, or it prints as a bogus fourth basis nobody's row actually holds."""
+    counts = Counter(o.get(NAME_BASIS_KEY) for o in orgs if isinstance(o, dict))
+    counts["total"] = len(orgs)
+    return dict(counts)
 
 
 def name_census(orgs) -> str:
@@ -1076,9 +1117,13 @@ def name_census(orgs) -> str:
     nobody asked for. Counted from the FILE rather than from the table that writes it, for
     the reason `authority_census` is — on any failure path the two disagree, and a census
     taken from the writer reports the intended state as the actual one.
+
+    FORMATS `name_counts()` (#306) rather than measuring anything itself.
     """
-    counts = Counter(o.get(NAME_BASIS_KEY) for o in orgs if isinstance(o, dict))
-    return f"{tally(counts, NAME_BASES)}; {len(orgs)} row(s)"
+    counts = name_counts(orgs)
+    total = counts["total"]
+    tallyable = {k: v for k, v in counts.items() if k != "total"}
+    return f"{tally(tallyable, NAME_BASES)}; {total} row(s)"
 
 
 def placement_witnesses(orgs) -> str:
@@ -1107,6 +1152,29 @@ def placement_witnesses(orgs) -> str:
             "in this file")
 
 
+def relation_counts(orgs) -> dict:
+    """The measurement `relation_census` formats (#306) -- everything that sentence reads,
+    flattened into one dict a `census:agencies.relation_*` tag can resolve a single key out
+    of. `kinds`, `sources` and `basis` are each Counters over what the registry's relation
+    entries actually hold (unrecognised values included, exactly as `relation_census` names
+    them rather than absorbing them) -- flattened here with a `kind__` / `source__` /
+    `basis__` prefix so the three vocabularies, which are not disjoint (`registry` is both a
+    `source` value and could in principle collide with a `kind` or `basis` spelling), can
+    never be read as one namespace by a caller pulling a single key out of this dict."""
+    entries = [e for o in orgs for e in relation_entries(o) if isinstance(e, dict)]
+    held_by = sum(1 for o in orgs if relation_entries(o))
+    kinds = Counter(e.get("kind") for e in entries)
+    sources = Counter(e.get("source") for e in entries)
+    bases = Counter(e.get("basis") for e in entries
+                    if e.get("kind") not in (None, UNDETERMINED))
+    d = {"total_relations": len(entries), "held_by": held_by, "total_orgs": len(orgs),
+         "decided_total": sum(bases.values())}
+    d.update({f"kind__{k}": v for k, v in kinds.items()})
+    d.update({f"source__{k}": v for k, v in sources.items()})
+    d.update({f"basis__{k}": v for k, v in bases.items()})
+    return d
+
+
 def relation_census(orgs) -> str:
     """What the registry's relations say, counted over ENTRIES and over the bodies holding
     them, with every kind and every source named — the zeroes included.
@@ -1120,11 +1188,12 @@ def relation_census(orgs) -> str:
 
     Counted from the FILE rather than from anything that writes it, for the reason
     `authority_census` is: on any failure path the two disagree, and a census taken from the
-    writer would report the intended state as the actual one."""
-    entries = [e for o in orgs for e in relation_entries(o) if isinstance(e, dict)]
-    held_by = sum(1 for o in orgs if relation_entries(o))
-    kinds = Counter(e.get("kind") for e in entries)
-    sources = Counter(e.get("source") for e in entries)
+    writer would report the intended state as the actual one.
+
+    FORMATS `relation_counts()` (#306) rather than measuring anything itself -- unpacking its
+    three prefixed vocabularies back into the Counters `tally()` expects.
+    """
+    d = relation_counts(orgs)
     # Unrecognised values are named too, after the allowlists — `relation-shape` refuses
     # them, and a census that silently left them out of its own total would be the one
     # reader that agreed with the file about how many relations it holds while disagreeing
@@ -1135,19 +1204,18 @@ def relation_census(orgs) -> str:
     # than absorb. Sorting them against the strings beside them raises TypeError, which would
     # take down the one report that was supposed to surface them: --apply prints the census
     # before it reports anything, so the crash would land in front of the diagnosis.
+    kinds = {k[len("kind__"):]: v for k, v in d.items() if k.startswith("kind__")}
+    sources = {k[len("source__"):]: v for k, v in d.items() if k.startswith("source__")}
     # WHAT THE DECIDED KINDS REST ON, COUNTED APART FROM HOW MANY THERE ARE (#173). The
     # registry holds kinds derived from a PROPOSED enabling-authority candidate nobody has
     # read beside kinds derived from a REVIEWED authority, and those are not the same claim:
     # ADR 0004 derives the kind from admitting evidence, and a proposal is not evidence. A
     # census reporting only the kind tally would present the weaker population as the
-    # stronger one on every run. Counted over the relations that RECORD a decision, so an
-    # entry with a decided kind and no basis shows up here as a basis this registry does not
-    # name — which is `relation-shape`'s failure, reported rather than absorbed.
-    bases = Counter(e.get("basis") for e in entries
-                    if e.get("kind") not in (None, UNDETERMINED))
-    return (f"{len(entries)} relation(s) on {held_by} of {len(orgs)} bodies; kinds: "
-            f"{tally(kinds, RELATION_KINDS)}; sources: "
-            f"{tally(sources, RELATION_SOURCES)}; the {sum(bases.values())} decided kind(s) "
+    # stronger one on every run.
+    bases = {k[len("basis__"):]: v for k, v in d.items() if k.startswith("basis__")}
+    return (f"{d['total_relations']} relation(s) on {d['held_by']} of {d['total_orgs']} "
+            f"bodies; kinds: {tally(kinds, RELATION_KINDS)}; sources: "
+            f"{tally(sources, RELATION_SOURCES)}; the {d['decided_total']} decided kind(s) "
             f"rest on: {tally(bases, RELATION_BASES)}")
 
 

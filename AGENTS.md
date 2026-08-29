@@ -464,10 +464,14 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   for and it is exactly what a stale baseline manufactures in bulk — #244 is doing it now —
   so when more than a fifth of a group's compared sources move together the run reports ONE
   GROUP-WIDE MOVE, says how many rules it declined to name, and emits no per-rule claim
-  (corpus-toolkit's ADR 0010, one level up). And THE TWO SIGNALS DO NOT OVERLAP: the
-  manifest watches 484 rule pages in chapters 105/122/125/128 while the August bulletin
-  named 534 rules in 35 other chapters, overlap ZERO, so every rule that bulletin named is
-  reported as NOT CHECKED rather than as one whose hash held still (#247). This module ACTS
+  (corpus-toolkit's ADR 0010, one level up). And THE TWO SIGNALS DID NOT OVERLAP AT #247's
+  WRITING: the manifest then watched 484 rule pages in four chapters while the August 2026
+  bulletin named 534 rules in 35 other chapters, overlap ZERO, so every rule that bulletin
+  named was reported as NOT CHECKED rather than as one whose hash held still (#247). The
+  manifest has since grown (#306 fixed CONTEXT.md's own copy of this figure after finding
+  it stale the same way) — the CURRENT watched/named/overlap counts are gated against the
+  measurement, not restated by hand here a second time to go stale again, and live in
+  CONTEXT.md's *Hash observation* entry. This module ACTS
   OUTWARD and nothing else in the series does: it holds `contents: read`, writes no file,
   pushes no commit, files at most one issue, is idempotent by title, and files nothing at
   all unless `--file-issue` is passed — every command typed by hand is a dry run.

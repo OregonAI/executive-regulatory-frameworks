@@ -95,9 +95,14 @@ jobs:
 
   generated-views-shard-1:
     runs-on: ubuntu-latest
-    # 16 gate(s), 133.0s measured locally (warm checkout) -- see .github/generated-views-manifest.yml.
-    # (14 timed gates at 132.8s plus this shard's own two shard-manifest-coverage gates,
-    # ~0.1s each, added after the timing pass -- see the first two steps below.)
+    # 18 gate(s), 141.9s measured locally (warm checkout) -- see .github/generated-views-manifest.yml.
+    # (14 timed gates at 134.4s -- #307 moved one of them, "Legal status must be written
+    # once and read everywhere else", from 4.8s to 6.4s: it now also reads every committed
+    # rule document once for the two document-level censuses that ticket added -- plus this
+    # shard's own two shard-manifest-coverage gates, ~0.1s each, added after the timing
+    # pass, plus #306's stated-census pair, also grown by #307's new namespaces (6.0s + 0.1s
+    # -> 7.2s + 0.1s), bin-packed here as the least-loaded shard by measured cost at the
+    # time -- see the first two and the last two steps below.)
     #
     # 45: comfortably above the 38 minutes of summed per-step timeout-minutes below, plus
     # setup -- a code-review follow-up to #268 found every shard's job cap SMALLER than its
@@ -267,6 +272,25 @@ jobs:
       - name: Legal status must be written once and read everywhere else
         timeout-minutes: 2
         run: python3 src/legal_status.py --check
+      # A number written in CONTEXT.md's prose against the measurement that produces it
+      # (#306): five figures went stale there while every generated view stayed current
+      # (#304), the fifth hand sweep of one shape -- an anchored `<!--census:ns.key-->` tag
+      # gates a figure against a live measurement, an `<!--observed:DATE-->` mark accepts one
+      # that is a dated, closed fact and never gates it, and every figure in the glossary
+      # must carry one or the other or the run refuses. Proving itself against the real
+      # corpus rather than a fixture found and fixed a sixth stale figure this ticket's own
+      # hand sweeps never suspected -- CONTEXT.md's *Hash observation* entry had drifted from
+      # a 484-page, four-chapter manifest to 6,614 pages across 136, unnoticed because nothing
+      # read the glossary the way `oar_watch_coverage.py`'s own gate reads the ADR. Also
+      # carries #305's follow-on: a docstring citing CONTEXT.md as authority for a refusal
+      # must name a glossary term CONTEXT.md actually has. ~6 s, reads committed data only
+      # (the OAR and agency catalogs, the OAR hash-watch manifest and worklist), no network.
+      - name: A stated figure must be gated against the census that produces it
+        timeout-minutes: 2
+        run: python3 src/stated_census.py --check
+      - name: ...and that rule must be able to fail (stated-figure census)
+        timeout-minutes: 2
+        run: python3 src/stated_census.py --selftest
 
   generated-views-shard-2:
     runs-on: ubuntu-latest
