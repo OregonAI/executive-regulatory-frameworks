@@ -7,10 +7,17 @@ minor-correction filings adopt, amend, repeal, renumber or suspend. August 2026 
 1761): 549 rule actions from 159 filings, 418 against rules this corpus holds.
 
 Separately, `corpus-detect-changes` hashes the sources in `_meta/sources/oar.yml` and
-reports what moved. Those are individual rule pages, and **the set is seeded from this
-worklist** (#256): every rule the Bulletin named that this corpus holds, plus a rolling
-sample of held rules it did not name. Today that is **1,006 rule pages across 38 chapters —
-406 named and 600 sampled — covering 2.7% of the 36,953 rule documents on disk**.
+reports what moved. Those are individual rule pages. The set was **seeded** from this
+worklist (#256) — every rule the Bulletin named that this corpus holds, plus a rolling
+sample of held rules it did not name — and it **grows with ingestion**: `ingest_oar.py`
+registers every rule it mirrors, so a newly-held rule is watched from the day it arrives.
+
+Today that is **6,614 rule pages across 136 chapters — covering 15.5% of the 42,561 rule
+documents on disk**. Of those, 1,006 carry the #256 seeding (406 Bulletin-named, 600
+sampled) and 5,608 arrived with #238's ingest of the OAR catalog. The seeded 1,006 was
+2.7% of the 36,953 documents held when this ADR was written; the growth since is ingestion,
+not a reseed, and whether *watch everything mirrored* is the policy this ADR should state —
+rather than a behaviour it acquired — is #308.
 
 We decided the two run **side by side**, and that neither is the arbiter of the other.
 
