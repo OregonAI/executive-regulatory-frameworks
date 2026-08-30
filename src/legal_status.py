@@ -42,8 +42,8 @@ THE ORDER OF AUTHORITY, and why each step sits where it does:
                        property #230 is blocked on.
   2. the rule's own    `history_repealed=` -- whether the NEWEST History action OARD prints
      served text       inside the rule says it was repealed. It is the rule's own text and
-                       it beats what a document happens to hold, which is how the 2,031
-                       documents reading `repealed` today came to say so.
+                       it beats what a document happens to hold, which is how documents
+                       reading `repealed` today came to say so.
   3. what the document `existing=` -- a caller that has learned nothing new keeps what the
      already says      document says rather than asserting over it. This is the state 39
                        rules are in: OARD prints no History line inside them, so
@@ -820,7 +820,7 @@ def check_filings(catalog, worklist) -> list:
 
 
 # The `status:` line of a rule document, read off the text. The whole frontmatter is not
-# parsed here for one field: `mark_upstream_tracking --check` reads the whole corpus in
+# parsed here for one field: `mark_upstream_tracking --check` reads every rule document in
 # about two seconds this way and a YAML parse of the same set costs thirty. Applied to the
 # FRONTMATTER BLOCK ONLY -- a rule's verbatim text can print `status:` at the start of a
 # line, and a body line read as the document's legal status would report a disagreement

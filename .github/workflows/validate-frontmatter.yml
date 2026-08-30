@@ -557,8 +557,8 @@ jobs:
       # source with volatile patterns stripped. `source_sha256` is WRITTEN with the second
       # and VERIFIED with the first, so they must agree -- and nothing enforced that.
       # Measured: adding corpus-toolkit#244's colophon pattern makes 36,953 of 37,524
-      # snapshots disagree, and without this gate that surfaces as 36,953 provenance errors
-      # naming the wrong cause. It took three wrong diagnoses to find. No network.
+      # snapshots disagree, and without this gate that surfaces as a provenance error per
+      # rule pointing at the wrong thing. It took three wrong diagnoses to find. No network.
       - name: A snapshot's two spellings must agree
         timeout-minutes: 3
         run: python3 src/snapshot_identity.py --check

@@ -642,13 +642,12 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   reviewed that body yet — never that the body has none; a reviewed body with no separate
   authority carries `none: ` and the reason.
 
-### Before gating a figure, ask whether it should exist
-
-A number in prose earns its place only if a reader would act differently were it different.
-**Load-bearing** — a ratio, a threshold, a cost someone budgets against — gate it against the
-measurement that produces it. **Standing in for "all", "every", or "the corpus"** — delete it
-and write the word; a number used to mean "all" is a worse way of saying "all", and it rots.
-**A dated observation**, what one run found on one day — leave it, it cannot go stale.
+  **Before gating a figure, ask whether it should exist.** A number in prose earns its place
+  only if a reader would act differently were it different. **Load-bearing** — a ratio, a
+  threshold, a cost someone budgets against — gate it against the measurement that produces
+  it. **Standing in for "all", "every", or "the corpus"** — delete it and write the word; a
+  number used to mean "all" is a worse way of saying "all", and it rots. **A dated
+  observation**, what one run found on one day — leave it, it cannot go stale.
 
 - **Agency profiles**: `_meta/agency-profiles.yml` carries curated context ABOUT each
   agency's data — governance class (citation basis REQUIRED; 'unclassified' is the
