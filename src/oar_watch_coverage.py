@@ -6,18 +6,19 @@
 
 WHY THIS EXISTS (#247). ADR 0006 said `corpus-detect-changes` hashes "the 484 OAR CHAPTER
 sources" standing for "36,955 rule documents". Neither half was true. `_meta/sources/oar.yml`
-holds 484 INDIVIDUAL RULE PAGES in four chapters -- 125 (420), 122 (33), 128 (22), 105 (9) --
-covering 1.3% of the 36,953 rule documents on disk, in 4 of the 170 mirrored chapters.
+held 484 INDIVIDUAL RULE PAGES in four chapters -- 125 (420), 122 (33), 128 (22), 105 (9) --
+before #256 seeded it from the Bulletin worklist. `--check` prints what it covers now, live,
+on every run (the "OAR hash watch: ..." line below).
 
-The consequence is worse than the arithmetic. The August 2026 worklist names 534 rules across
-35 chapters and NONE of them is 105, 122, 125 or 128, so the intersection of "rules the
-Bulletin named" and "rules hashing watches" is ZERO. Two of ADR 0006's four cases -- *filed
-but not yet served* and *agreement* -- require a rule in both sets, and there is none. The
-table cannot produce them.
+The consequence was worse than the arithmetic. Before #256, the August 2026 worklist named
+534 rules across 35 chapters and NONE of them was 105, 122, 125 or 128, so the intersection
+of "rules the Bulletin named" and "rules hashing watches" was ZERO. Two of ADR 0006's four
+cases -- *filed but not yet served* and *agreement* -- require a rule in both sets, and there
+was none. The table could not produce them.
 
-And it failed silently: a drift run prints `oar 484/484` and an operator concludes the OAR
-mirror is under upstream-change surveillance. It is under surveillance at 1.3%. That is the
-substitution CONTEXT.md forbids -- could not check reported as is not there -- reached by
+And it failed silently: a drift run printed `oar 484/484` and an operator concluded the OAR
+mirror was under upstream-change surveillance. It was under surveillance at 1.3%. That was
+the substitution CONTEXT.md forbids -- could not check reported as is not there -- reached by
 arithmetic rather than by a missing file.
 
 THIS IS THE NINTH INSTANCE of one fact declared twice with nothing gating agreement: the ADR

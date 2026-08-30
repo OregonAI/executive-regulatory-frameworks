@@ -40,7 +40,7 @@ THE GUARD THAT KEEPS THE LOUD CASE HONEST. `changed`-with-no-filing is the findi
 whole series is for, and it is exactly the finding a stale baseline manufactures in bulk.
 It is manufacturing one right now: #244 -- the OARD page footer prints the app version
 inside the hashed text and `v2.1.7` became `v2.1.8`, so every recorded baseline over an
-OARD page is stale: the 36,953 documents' `source_sha256` and all 484 of this manifest's.
+OARD page is stale: every such document's `source_sha256` and all 484 of this manifest's.
 Measured here on 2026-08-23, a full `corpus-detect-changes --group oar` run reported 484 of
 484 sources CHANGED. Named per rule, that is 484 confident "changed with nobody announcing
 it" claims of which zero are about a rule's text. So when the moved share of the compared sources exceeds

@@ -14,13 +14,13 @@ human-readable line, the one a reader actually follows -- was read in exactly on
 in this repository: reingest_oar.py's byte-identical rule, over the 306 documents that
 path has ever written. 306 of 76,313.
 
-WHAT THAT COST. #244 re-stamped the frontmatter field on all 36,953 OAR rules and not the
+WHAT THAT COST. #244 re-stamped the frontmatter field on every OAR rule and not the
 prose line:
 
   prose sha disagreed with frontmatter : 36,952
   already agreed                       :      1
 
-`corpus-verify-provenance` passed on all 36,953 in that state and said nothing. The
+`corpus-verify-provenance` passed on all of them in that state and said nothing. The
 disagreement surfaced only because reingest_oar happened to cover 306 of them. Had #244
 touched a body of documents that path has never written, the corpus would be publishing
 36,952 provenance lines quoting a hash of nothing, with every gate green.

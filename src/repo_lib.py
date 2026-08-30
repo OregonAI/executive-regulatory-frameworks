@@ -770,7 +770,7 @@ def snapshot_text(raw: bytes) -> str:
     markup `html_to_text` discarded anyway.
 
     #244 added a pattern that matches VISIBLE text (the OARD footer version), and the two
-    derivations disagreed on all 36,953 OAR rules at once. snapshot_identity.py (#207)
+    derivations disagreed on every OAR rule at once. snapshot_identity.py (#207)
     caught it and named it; this function removes the second derivation so it cannot
     recur for the next pattern.
     """

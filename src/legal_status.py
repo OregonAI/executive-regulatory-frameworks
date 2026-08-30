@@ -16,7 +16,7 @@ OREGON LAW (CONTEXT.md, *Legal status*). ADR 0006 gives it ONE writer, the Orego
 It had two. Measured on `main` the day this module landed:
 
   src/ingest_oar.py   `status: current` written as a hardcoded literal into every rule
-                      document it creates -- 36,953 of them
+                      document it creates
   src/enrich_oar.py   `d["status"] = "repealed" if repealed else "current"`, derived from
                       the newest History action in the rule's own served text, stamped over
                       `^status: .*$` by `apply()` -- and COMPARED by `--check`, a gate that
@@ -42,11 +42,11 @@ THE ORDER OF AUTHORITY, and why each step sits where it does:
                        property #230 is blocked on.
   2. the rule's own    `history_repealed=` -- whether the NEWEST History action OARD prints
      served text       inside the rule says it was repealed. It is the rule's own text and
-                       it beats what a document happens to hold, which is how the 2,031
-                       documents reading `repealed` today came to say so.
+                       it beats what a document happens to hold, which is how documents
+                       reading `repealed` today came to say so.
   3. what the document `existing=` -- a caller that has learned nothing new keeps what the
-     already says      document says rather than asserting over it. This is the state 39 of
-                       the 36,953 rules are in: OARD prints no History line inside them, so
+     already says      document says rather than asserting over it. This is the state 39
+                       rules are in: OARD prints no History line inside them, so
                        the enricher has read no history rather than one that is not a
                        repeal, and without this step it would restamp `current` over
                        whatever those documents said.
@@ -374,7 +374,7 @@ def mark(catalog, worklist) -> tuple:
 
     THE CATALOG WRITES AND THE DOCUMENT READS. This function stops at the catalog;
     `enrich_oar.py` stamps the document from `bulletin_status_by_rule()`, so a legal status
-    is decided in one place and written into 36,953 files from one other.
+    is decided in one place and written into every file from one other.
 
     A ROW IS ONLY WRITTEN FOR A RULE RECORDED `held`. A claim about Oregon law needs a
     document to carry it, and `the-document-reads-it` refuses a row stating one for a
@@ -503,7 +503,7 @@ def _status_key_writes(tree):
 
 def _status_line_rewrites(tree):
     """Lines rewriting a document's existing `status:` line in place -- the `re.sub` shape
-    the enricher stamps 36,953 files with.
+    the enricher stamps every file with.
 
     Its VALUE is not a constant, so nothing above finds it, and it is the most powerful
     write in the repository: it replaces whatever a document already said."""
@@ -820,8 +820,8 @@ def check_filings(catalog, worklist) -> list:
 
 
 # The `status:` line of a rule document, read off the text. The whole frontmatter is not
-# parsed here for one field: `mark_upstream_tracking --check` reads 36,953 rules in about
-# two seconds this way and a YAML parse of the same set costs thirty. Applied to the
+# parsed here for one field: `mark_upstream_tracking --check` reads every rule document in
+# about two seconds this way and a YAML parse of the same set costs thirty. Applied to the
 # FRONTMATTER BLOCK ONLY -- a rule's verbatim text can print `status:` at the start of a
 # line, and a body line read as the document's legal status would report a disagreement
 # that is not there.
@@ -834,7 +834,7 @@ def doc_status_by_rule(catalog, numbers) -> dict:
 
     Scoped to the rules the catalog states a Bulletin-set legal status for, because those
     are the only ones there is a second declaration of the fact to compare against -- and
-    because reading all 36,953 documents to check a handful is what turns a per-run gate
+    because reading every document to check a handful is what turns a per-run gate
     into one somebody moves to the nightly tier and stops watching.
 
     A rule whose row names no path, or whose file is unreadable or prints no `status:`

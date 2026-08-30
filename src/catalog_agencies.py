@@ -4344,7 +4344,7 @@ def _search_fixture():
 _SEARCH_CASES = [
     # (what a reader typed, whether it must find the body, why)
     ("liquor and cannabis", True, "its statutory name"),
-    ("liquor control", True, "its OAR name — the name 36,953 rule documents carry"),
+    ("liquor control", True, "its OAR name — the name every rule document carries"),
     ("olcc", True, "a curated alias, the registry's reviewed 'also known as'"),
     ("Oregon Liquor Control Commission", True, "the OAR name as printed, case and all"),
     ("board of nursing", False, "a name this body is not known by"),

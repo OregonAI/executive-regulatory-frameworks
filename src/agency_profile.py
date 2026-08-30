@@ -135,8 +135,8 @@ def search(registry: dict, query: str) -> list:
     `catalog_agencies.name_matches()`, which is the ONE place that question is answered for
     both this search and the command-line one. Searching `name` alone was the same behaviour
     while `name` held the OAR title; once ADR 0003 promotes the statutory name, a reader who
-    knows the body by the name the rules index prints (the name all 36,953 rule documents
-    carry) would stop finding it, and a search that answers "no such body" to a name the
+    knows the body by the name the rules index prints (the name every rule document
+    carries) would stop finding it, and a search that answers "no such body" to a name the
     body really has is worse than one that asks which of two bodies was meant.
 
     `registry` is a PARAMETER rather than a load, so the behaviour can be proven against a
@@ -248,7 +248,7 @@ def selftest():
     # THE SEARCH THE MCP SERVER SERVES, against a registry whose two names disagree. A
     # reader arrives holding whichever name their source printed; the tool has to reach the
     # same body from either one, because promoting `name` (#168) must not make a body
-    # unfindable by the name 36,953 rule documents call it.
+    # unfindable by the name every rule document calls it.
     fx = _SEARCH_FIXTURE
     check("search resolves a body by its statutory name",
           search(fx, "liquor and cannabis") == ["oregon-liquor-control-commission"])

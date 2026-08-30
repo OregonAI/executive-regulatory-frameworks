@@ -92,7 +92,7 @@ def is_search_results_page(ws_text: str) -> bool:
 
 
 # THE INGESTER NO LONGER NAMES THE LEGAL STATUS. `status: current` used to be a hardcoded
-# literal in the template below, written onto every one of the 36,953 rule documents this
+# literal in the template below, written onto every one of the rule documents this
 # pipeline created. That is fine on a FIRST ingest -- nothing better is known about a rule
 # OARD is serving normally -- and it is the whole hazard on a re-ingest: once #230 refreshes
 # an amended rule automatically, the literal would restamp `current` over a repeal the
