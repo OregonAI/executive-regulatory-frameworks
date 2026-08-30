@@ -7,7 +7,8 @@
 WHY THIS EXISTS (#247). ADR 0006 said `corpus-detect-changes` hashes "the 484 OAR CHAPTER
 sources" standing for "36,955 rule documents". Neither half was true. `_meta/sources/oar.yml`
 holds 484 INDIVIDUAL RULE PAGES in four chapters -- 125 (420), 122 (33), 128 (22), 105 (9) --
-covering 1.3% of the 36,953 rule documents on disk, in 4 of the 170 mirrored chapters.
+and `--check` prints the coverage that gives against the corpus and the mirrored chapters,
+live, on every run (the "OAR hash watch: ..." line below).
 
 The consequence is worse than the arithmetic. The August 2026 worklist names 534 rules across
 35 chapters and NONE of them is 105, 122, 125 or 128, so the intersection of "rules the

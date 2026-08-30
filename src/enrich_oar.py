@@ -169,7 +169,7 @@ def derive(body: str, doc_id: str, registry_by_chapter: dict, bulletin_status=No
     catalog's `legal_status` key, or None where it has said nothing. It is a PARAMETER and
     not a lookup here because this function is called once per document by `main()` and once
     per rule by `ingest_oar`, and the catalog is read once by each of them rather than
-    36,953 times.
+    once per rule document.
 
     `existing_status` is what the document already says, and it is what a rule with NO
     `History:` line falls back to: 39 rules OARD serves print none, and for those this
@@ -184,7 +184,7 @@ def derive(body: str, doc_id: str, registry_by_chapter: dict, bulletin_status=No
     action_id = eff = renum = None
     # None, not False: a rule whose text prints no History line is one this function has not
     # read a history for, which `legal_status.resolve()` distinguishes from a history read
-    # and found not to be a repeal. 39 of the 36,953 rules are in that state.
+    # and found not to be a repeal. 39 rules are in that state.
     repealed = None
     if m:
         action_id, eff, renum, repealed = parse_history(m.group(1))
@@ -210,12 +210,12 @@ def derive(body: str, doc_id: str, registry_by_chapter: dict, bulletin_status=No
                          "catalog_agencies.py --refresh first")
     d["agency"] = org["slug"]
     # NAME READER — JOIN (OAR-derived). THE MOST CONSEQUENTIAL NAME READ IN THIS REPOSITORY:
-    # it stamps a registry string into 36,953 rule documents' frontmatter. The document says
+    # it stamps a registry string into every rule document's frontmatter. The document says
     # who issued the rule, the rule reached this body through its OAR chapter, and the name
     # every one of those documents carries today is the rules index's title — so the field
     # read here is `oar_name` (CONTEXT.md, *OAR name*: "the string OAR-derived joins must
     # match"). Reading `name` instead would leave newly enriched documents carrying a
-    # statutory issuing body while 36,953 existing ones carry the OAR title, with nothing
+    # statutory issuing body while every existing one carries the OAR title, with nothing
     # reporting the split; `expected_mismatch` below now compares the field, so a split that
     # does happen is reported by --check rather than discovered later.
     if not org.get("oar_name"):
@@ -265,7 +265,7 @@ def apply(path: Path, d: dict) -> bool:
                   text, count=1, flags=re.M)
     # LEGAL STATUS - READER: stamps the value `derive()` was given by the one writer. This
     # is the strongest write in the repository -- it replaces whatever a document already
-    # said, across 36,953 files -- and it names no status of its own.
+    # said, across every file -- and it names no status of its own.
     text = re.sub(r'^status: .*$', f'status: {d["status"]}', text, count=1, flags=re.M)
     if d["renumbered_from"]:
         sup = f'OAR {d["renumbered_from"]}'
@@ -293,7 +293,7 @@ def expected_mismatch(fm: dict, d: dict) -> list:
     # and checked by nothing, so a document whose issuing body had drifted from the registry
     # read exactly like one that agreed with it. It matters now because ADR 0003 splits the
     # two names apart: `name` becomes the statutory name while `oar_name` keeps the string
-    # these 36,953 documents hold, and the only way "nothing changed" is a measurement
+    # every document holds, and the only way "nothing changed" is a measurement
     # rather than an assumption is if the disagreement is reported. Measured across the
     # whole corpus when this comparison landed: 0 of 36,953 documents disagree.
     if fm.get("issuing_body") != d["issuing_body"]:
@@ -338,7 +338,7 @@ def selftest() -> int:
     check = Checks()
     reg = _fixture_registry_by_chapter()
     d = derive(_FIXTURE_BODY, "oar-125-010-0005", reg)
-    # THE FIELD THE DOCUMENT CARRIES. `issuing_body` is stamped into 36,953 rule documents,
+    # THE FIELD THE DOCUMENT CARRIES. `issuing_body` is stamped into every rule document,
     # and the rules index's title is what every one of them holds today — so the enricher
     # reads the field that holds that string and keeps holding it after ADR 0003 promotes
     # `name`. Both halves are asserted: reading `name` would pass an equality test against
@@ -380,7 +380,7 @@ def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     check = "--check" in sys.argv
     registry = load_registry_by_chapter()
-    # Read once, for all 36,953 rules. Empty until #229 records the first filed repeal;
+    # Read once, for every rule. Empty until #229 records the first filed repeal;
     # `legal_status.py --check` is what prints the count so a zero stays visible.
     bulletin = bulletin_status_by_rule()
 

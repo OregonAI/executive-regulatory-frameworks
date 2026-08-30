@@ -443,7 +443,7 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   which is the string OAR-derived joins match on, distinct from `raw_index_name`'s
   abbreviated spelling — landed by `src/expand_oar_name.py` and written from then on by
   `--refresh`. THE IN-REPO CONSUMERS HAVE MOVED (#187): the two OAR-derived joins match
-  `oar_name` — `enrich_oar.py`, which stamps `issuing_body` into 36,953 rule documents, and
+  `oar_name` — `enrich_oar.py`, which stamps `issuing_body` into every rule document, and
   `catalog_oar.py`, which discovers chapters — while agency SEARCH (the command line's
   `find()` and the MCP server's `agency_profile`) spans every name a body is known by:
   statutory name, OAR name and curated aliases, so promoting `name` cannot make a body
@@ -641,6 +641,15 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   every one of those rules can fail. An ABSENT `enabling_authority` means nobody has
   reviewed that body yet — never that the body has none; a reviewed body with no separate
   authority carries `none: ` and the reason.
+
+### Before gating a figure, ask whether it should exist
+
+A number in prose earns its place only if a reader would act differently were it different.
+**Load-bearing** — a ratio, a threshold, a cost someone budgets against — gate it against the
+measurement that produces it. **Standing in for "all", "every", or "the corpus"** — delete it
+and write the word; a number used to mean "all" is a worse way of saying "all", and it rots.
+**A dated observation**, what one run found on one day — leave it, it cannot go stale.
+
 - **Agency profiles**: `_meta/agency-profiles.yml` carries curated context ABOUT each
   agency's data — governance class (citation basis REQUIRED; 'unclassified' is the
   only uncited value allowed), where the agency publishes policies (or that it

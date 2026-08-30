@@ -25,13 +25,13 @@ ingest status (#228). Every one was invisible until something moved.
 WHAT MAKES IT URGENT NOW. corpus-toolkit#244: the OARD application's version string sits in
 every rule page's footer, moved v2.1.7 -> v2.1.8, and is VISIBLE TEXT -- so it survives
 html_to_text into the `.txt`. Adding it to the volatile patterns makes `content_hash` skip
-it while `hash_snapshot` still sees it, and provenance fails for all 36,953 OAR rules. That
+it while `hash_snapshot` still sees it, and provenance fails for every OAR rule. That
 was measured, not predicted: an attempt to fix #244 produced exactly that, and the cause
 took three wrong diagnoses to find because nothing named the disagreement.
 
 This gate names it. Add a pattern that touches visible text and `--check` goes red the same
-day, saying which snapshots and why -- instead of 36,953 provenance errors pointing at the
-wrong thing.
+day, saying which snapshots and why -- instead of a provenance error per rule pointing at
+the wrong thing.
 """
 import argparse
 import re

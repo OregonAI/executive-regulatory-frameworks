@@ -86,7 +86,7 @@ def mirrored_oar_chapters(cat=None):
     """
     # MEMOISED because this walks every rule document, and `--selftest` asks five times.
     # Unmemoised it was the slowest gate in the whole sweep at 207s of a 30-minute budget
-    # -- five rglobs over 36,953 files to answer one question that cannot change mid-run.
+    # -- five rglobs over the whole corpus to answer one question that cannot change mid-run.
     if "v" in _MIRRORED_CACHE and cat is None:
         return _MIRRORED_CACHE["v"]
     cat = cat if cat is not None else _cat("oar")

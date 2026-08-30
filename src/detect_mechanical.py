@@ -16,8 +16,8 @@ model.
 
 Asking a language model to eyeball the deterministic ones costs ~636s per bundle on local
 hardware, can hallucinate, and finds fewer of them than a regex does — a first pass over
-4,000 of 36,953 rules turned up 486 distinct dead citations across 772 documents, where
-the pilot's frontier models reported 21 such candidates in total.
+4,000 rules turned up 486 distinct dead citations across 772 documents, where the pilot's
+frontier models reported 21 such candidates in total.
 
 So these are code, not prompts. The model's budget belongs on the other 97 (71%), which
 genuinely require reading comprehension: what a rule omits, what it adds without

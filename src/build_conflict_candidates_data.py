@@ -365,7 +365,7 @@ def compute(collect_ungrounded: list | None = None) -> dict:
 
     def doc_status(doc_id):
         """A document's frontmatter `status`, cached. `repealed` is the value that
-        matters: 2,031 of the corpus's 36,953 rules carry it."""
+        matters: 2,031 of the corpus's rules carry it."""
         if doc_id not in status_cache:
             path = paths.get(doc_id)
             status_cache[doc_id] = (parse_frontmatter(REPO_ROOT / path)[0].get("status")
