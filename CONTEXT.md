@@ -345,6 +345,26 @@ having been mirrored for this fix, and chapter 31 the largest remaining single g
 127 <!--observed:2026-08-28--> documents (status
 `not_mirrored_unknown` — not even in the discovery map, so its title is not asserted here
 either), dwarfing the one chapter this ticket happened to notice.
+#292 IS A THIRD STATE, and it sits BENEATH the selection rather than outside it: a chapter
+can be selected (its source page fetched, a row in `_meta/sources/ors.yml`) and still hold
+ZERO documents — 15
+<!--census:ors_citation_gap.chapters_mirrored_no_documents--> of the 547
+<!--census:ors_citation_gap.chapters_mirrored--> mirrored chapters this corpus's own
+documents actually cite (16 <!--observed:2026-08-30--> total, one of them uncited), every one a
+`(Former Provisions)` chapter whose own printed text is entirely bracketed
+`[renumbered ...]`/`[repealed ...]` history with nothing current left to ingest — confirmed
+against the committed snapshots and against `_meta/catalog/ors.yml`'s own discovery-map row
+for each, which independently lists zero sections too (`citation_schemes.
+ors_chapters_holding_documents`'s own docstring has the full evidence). Selected is not the
+same claim as held, on purpose: `ors_mirrored_chapters()` still answers only the selection
+question (Chapter selection is unchanged by this), and `_ors_chapter_absence_note` now asks
+BOTH before staying silent — a citation into one of these chapters gets its own stated absence
+("this corpus selected ORS chapter N for mirroring... but holds zero documents from it"),
+never the generic wrong-citation answer #210 was filed to stop one level up. `src/scan_ors_
+citations.py`'s own report keeps this THIRD state out of `chapters_cited_outside_mirrored_
+set` (`mirrored_no_documents_targets` and its own `summary:` fields instead) — these
+chapters are not outside the selection, so counting them there would make that figure's own
+name a false claim.
 _Avoid_: Coverage, ingested — the first is vague about which of the two levels (chapter or
 document) it means, and the second is Ingest status's word for the level below this one
 

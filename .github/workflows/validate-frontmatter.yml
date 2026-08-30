@@ -475,6 +475,15 @@ jobs:
       # second opinion nobody can check.
       - name: ORS ingest title-anchoring check must refuse a one-shared-word mis-anchor
         run: python3 src/ingest_ors.py --selftest
+      # #286's own regression guard: `parse_toc`'s `XREF_RE` widened to cover "to"-joined
+      # ranges and comma/"and"/"to" chains, not just an "and"-joined list -- proved against
+      # the actual committed chapter snapshots that produced the bug (691.485/452.300
+      # heading-fragment theft, 735.345/824.200 range-truncation), the same reproduction
+      # #286 itself measured with. Not previously wired into any workflow -- a future
+      # revert of XREF_RE would have gone undetected by every gate CI runs.
+      - name: ORS catalog TOC xref-range parsing must be able to fail (selftest)
+        timeout-minutes: 2
+        run: python3 src/catalog_ors.py --selftest
 
   generated-views-shard-3:
     runs-on: ubuntu-latest

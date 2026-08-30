@@ -112,7 +112,24 @@ def extract_chapter_title(raw_text, ch):
 # ORS 283.140 and 283.143") contains section-number-looking substrings that would
 # otherwise be mistaken for real TOC-entry boundaries below, truncating the entry that
 # contains them and stealing/discarding the real entry those numbers actually belong to.
-XREF_RE = re.compile(r"\bORS\s+\d{3}[A-Z]?\.\d{3}(?:\s+and\s+\d{3}[A-Z]?\.\d{3})*\b")
+#
+# #286: was `(?:\s+and\s+\d{3}[A-Z]?\.\d{3})*` -- covered only an "and"-joined LIST
+# ("283.140 and 283.143"), not a "to"-joined RANGE ("691.405 to 691.485"), Oregon's other
+# ordinary way of citing a span of sections, or a chain mixing both ("824.020 to 824.042,
+# 824.050 to 824.110 and 824.200 to 824.256" -- one "ORS" governing three ranges joined by
+# comma and "and"). The uncovered continuation reproduced this exact bug ONE TOKEN OVER
+# from the case the comment above already understood: `691.485` matched, mistaken for the
+# START of a new TOC entry, and stole the bare part heading trailing it ("BOARD") --
+# or, worse, both fed to `TRAILING_HEADING_RE` (452.300 stole "VECTOR CONTROL DISTRICTS",
+# then lost everything but "VECTOR" to that SECOND regex) -- while the section's own real
+# entry, appearing later with the same number, was silently dropped as a duplicate
+# (#286's two heading-fragment cases, `691.485`/`452.300`). The same gap also TRUNCATED
+# an entry whose own catchline names its own range ("735.345 Violation of ORS 735.300 to
+# 735.365" cut to "...to" at the false boundary; "824.200 Definitions for ORS 824.200 to
+# 824.256" the same way) -- #286's other two parser-attributed rows. `,`/`and`/`to` cover
+# every join word measured across every xref chain on the committed chapter snapshots.
+XREF_RE = re.compile(
+    r"\bORS\s+\d{3}[A-Z]?\.\d{3}(?:\s*(?:,|and|to)\s*\d{3}[A-Z]?\.\d{3})*\b")
 # A bare part/subpart heading ("TREATMENT OF PRISONERS") between two numbered TOC entries
 # has no section number of its own, so it isn't a split boundary either — it trails onto
 # the PRECEDING entry's catchline instead. Distinguished from real title text by being an
@@ -151,6 +168,21 @@ def parse_toc(raw_text, ch):
     if not all_matches:
         return []
     GAP = 600
+    # #346: when the chapter's own genuinely LAST TOC entry is itself immediately
+    # followed by a >600-char gap (no nearby xref keeps the density high past it --
+    # ORS 221.928 is the one instance measured so far), `all_matches[cut]` here IS that
+    # last entry, not a body reoccurrence, and excluding it from `bounds` below drops it
+    # from the catalog entirely. NOT fixed here: the obvious fix -- only exclude
+    # `all_matches[cut]` when its own number is already in an earlier bound, otherwise
+    # advance `cut` past it -- was tried and measured (full 569-chapter regression) to
+    # avoid every entry LOSS it targets, but it does so by handing that entry's own
+    # `toc` slice everything up to the NEXT match instead of a bounded catchline, and on
+    # 221.928 (and 3 similar cases elsewhere) that slice runs on into trailing chapter
+    # furniture -- a heading, a temporary-provisions note -- producing a garbage-suffixed
+    # title, which is a worse defect than the current silent drop. A real fix needs its
+    # own end-of-entry boundary, not just a corrected `cut`; out of scope here, still
+    # #346, decision documented in that issue's thread rather than repeated by the next
+    # person who tries the same one-line patch.
     cut = len(all_matches) - 1
     for k in range(len(all_matches) - 1):
         if all_matches[k + 1].start() - all_matches[k].start() > GAP:
@@ -183,7 +215,70 @@ def parse_toc(raw_text, ch):
     return out
 
 
+def _selftest() -> int:
+    """#286. `XREF_RE` widened to cover "to"-joined ranges and comma/"and"/"to" chains,
+    not just an "and"-joined list -- proved against the actual committed chapter
+    snapshots that produced the bug, the same reproduction #286 itself measured with,
+    not a synthetic fixture. `python3 src/catalog_ors.py --selftest`."""
+    from repo_lib import Checks
+    ck = Checks()
+
+    def secs(ch: str) -> dict:
+        path = SNAPSHOT_DIR / f"ors-chapter-{ch.lower()}.txt"
+        raw = path.read_text(encoding="utf-8", errors="replace")
+        return {s["number"]: s["title"] for s in parse_toc(raw, ch)}
+
+    # THE TWO HEADING-FRAGMENT CASES: an in-catchline "to" range's own tail number
+    # ("...ORS 691.405 to 691.485") used to be an uncovered false TOC-entry boundary,
+    # stealing a bare part heading ("BOARD") as 691.485's title while the real entry
+    # later in the text was dropped as a `seen` duplicate.
+    s691 = secs("691")
+    ck("691.485 no longer captures the bare 'BOARD' heading fragment",
+       s691.get("691.485") == "Board of Licensed Dietitians")
+    s452 = secs("452")
+    ck("452.300 no longer captures 'VECTOR' (TRAILING_HEADING_RE's own further bite "
+       "into the stolen heading text)",
+       s452.get("452.300") == "Oregon Health Authority vector control program")
+
+    # THE TWO IN-CHAPTER XREF-TRUNCATION CASES: a section naming its OWN range in its
+    # own catchline ("735.345 Violation of ORS 735.300 to 735.365; penalties") used to
+    # be truncated at the false boundary the untracked "to" continuation created.
+    s735 = secs("735")
+    ck("735.345 is no longer truncated at the in-catchline 'to'",
+       s735.get("735.345") == "Violation of ORS 735.300 to 735.365; penalties")
+    s824 = secs("824")
+    ck("824.200 is no longer truncated at the in-catchline 'to'",
+       s824.get("824.200") == "Definitions for ORS 824.200 to 824.256")
+
+    # A COLLATERAL CASUALTY OF THE SAME BUG, not named in #286's own list: the false
+    # boundary a section's OWN self-referencing range created also shadowed the LATER,
+    # genuinely separate entry sharing that same number (735.365 itself, "Short
+    # title") via the `seen` dedup -- fixed by the same regex change, not a second fix.
+    ck("735.365 (the range's own endpoint, a separate real entry) is no longer "
+       "shadowed by the false boundary inside 735.345's catchline",
+       s735.get("735.365") == "Short title")
+
+    # THE ORIGINAL "and"-ONLY CASE THIS REGEX ALREADY COVERED MUST KEEP WORKING: an
+    # "and"-joined cross-reference embedded in an earlier entry's own catchline
+    # ("283.130 'Agency' defined for ORS 283.140 and 283.143") must still not be
+    # mistaken for a real TOC-entry boundary -- 283.140 and 283.143 must each keep
+    # their OWN separate, correct titles, not 283.130's leftover text.
+    s283 = secs("283")
+    ck("283.130 keeps its own full catchline, not truncated at the embedded xref",
+       s283.get("283.130") == "“Agency” defined for ORS 283.140 and 283.143")
+    ck("283.140 (the xref's first target) keeps its own real title",
+       s283.get("283.140") == "Telephone and telecommunications, mail, shuttle bus "
+       "and messenger services; recovery of costs; rules")
+    ck("283.143 (the xref's second target) keeps its own real title",
+       s283.get("283.143") == "Surcharge for telecommunications services; purpose; "
+       "exempt agencies")
+
+    return ck.report("catalog-ors selftest")
+
+
 def main():
+    if "--selftest" in sys.argv[1:]:
+        sys.exit(_selftest())
     # ORS prints a lettered chapter uppercase (86A, 657B) and the catalog follows suit;
     # accept either case from the caller so "86a" doesn't create a duplicate entry.
     chapters = [c.upper() for c in sys.argv[1:]]
