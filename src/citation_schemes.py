@@ -17,7 +17,27 @@ from repo_lib import (ORCONST_ARTICLE_TOKEN, ORCONST_SECTION_TOKEN, REPO_ROOT,
 
 from corpus_toolkit.mcp.framework import register_scheme
 
-ORS_C = re.compile(r"(?:ORS\s*)?(\d{2,3}[A-Za-z]?\.\d{3})\s*$", re.I)
+# #293: ONE OPINION OF ORS'S NUMBERING GRAMMAR, not three independent copies of the
+# digit-count question. Both halves measured against `_meta/catalog/ors.yml`'s discovery
+# map and this corpus's own mirrored statute filenames before being written, not assumed
+# from Oregon's usual "NNN.NNN" shape (`_proof_ors_chapter_and_section_widths` below
+# re-measures both live rather than trusting this comment to stay true):
+#   - CHAPTER: 1-3 digits, optional trailing letter. Measured chapter-number lengths on
+#     both the catalog and the mirrored filenames: 1, 2 and 3 only (chapters 1/3/5/7/8/9
+#     are real single-digit chapters; nothing 4+ digits exists). No single-digit chapter
+#     carries a letter suffix (163A, 79A etc. are all 2-3 digits) — checked, not assumed,
+#     since Oregon's numbering could in principle put one there.
+#   - SECTION: 3 OR 4 digits, no letter suffix seen on any held section. The UCC chapters
+#     (71-80) use 4-digit section numbers (ORS 71.1010 and many more like it) that a
+#     3-digit-only section pattern would silently fail to match — the same shape of miss
+#     as the chapter floor below, just one token over.
+# `_ORS_CHAPTER_RE` derives from the same chapter token rather than restating the digit
+# count on its own — the fragmentation into three separate opinions (this pattern, that
+# one, and scan_ors_citations.ORS_MENTION) was what let the chapter floor below go
+# unnoticed as long as it did.
+ORS_CHAPTER_TOKEN = r"\d{1,3}[A-Za-z]?"
+ORS_SECTION_TOKEN = r"\d{3,4}"
+ORS_C = re.compile(rf"(?:ORS\s*)?({ORS_CHAPTER_TOKEN}\.{ORS_SECTION_TOKEN})\s*$", re.I)
 OAR_RULE_C = re.compile(r"(?:OAR\s*)?(\d{3}-\d{3}-\d{4})\s*$", re.I)
 OAR_DIV_C = re.compile(r"(?:OAR\s*)?(\d{3}-\d{3})\s*$", re.I)
 EO_C = re.compile(r"(?:EO|Executive\s+Order)\s*(?:No\.?\s*)?(?:20)?(\d{2})-(\d{1,2})\s*$", re.I)
@@ -32,7 +52,11 @@ _ORS_DISPOSITION = None
 _ORS_MIRRORED_CHAPTERS = None
 _ORS_CATALOG_CHAPTERS = None
 
-_ORS_CHAPTER_RE = re.compile(r"^(\d+[a-z]?)\.")
+# #293: was `\d+[a-z]?` — unboundedly wider than ORS_C's old `\d{2,3}` floor, so this
+# regex's own coverage read as intentional and was unreachable: a citation had to survive
+# ORS_C's match first to ever reach here. Now derived from the SAME token ORS_C matches
+# on, so the two cannot drift back into disagreeing about what a chapter number looks like.
+_ORS_CHAPTER_RE = re.compile(rf"^({ORS_CHAPTER_TOKEN})\.", re.I)
 
 
 def _renumber(rule):
@@ -367,9 +391,10 @@ def _resolve_nums(m, nodes):
 #
 # REGISTERED FIRST, and this ordering is load-bearing -- it also fixes a PRE-EXISTING bug.
 #
-# ORS_C is `(?:ORS\s*)?(\d{2,3}[A-Za-z]?\.\d{3})\s*$`: the "ORS" is OPTIONAL, so the
-# pattern matches any bare NNN.NNN at the end of a string. Registered ahead of these, it
-# captured `2 CFR 200.332` and derived `ors-200.332`, and `45 CFR 75.352` -> `ors-75.352`.
+# ORS_C is `(?:ORS\s*)?(ORS_CHAPTER_TOKEN\.ORS_SECTION_TOKEN)\s*$`: the "ORS" is OPTIONAL,
+# so the pattern matches any bare NNN.NNN (or NNN.NNNN) at the end of a string. Registered
+# ahead of these, it captured `2 CFR 200.332` and derived `ors-200.332`, and
+# `45 CFR 75.352` -> `ors-75.352`.
 # First pattern to MATCH wins whether or not it resolves, so the federal schemes never ran.
 #
 # That has been happening since before this change; it produced misses rather than wrong
@@ -566,6 +591,7 @@ def _selftest() -> int:
         _proof_flagged_schemes_survive_registration(ck, fw)
         _proof_federal_schemes_survive_registration(ck, fw)
         _proof_ors_unmirrored_chapter_states_absence(ck, fw)
+        _proof_ors_chapter_and_section_widths(ck, fw)
     return ck.report("citation-schemes selftest")
 
 
@@ -896,6 +922,33 @@ def _proof_ors_unmirrored_chapter_states_absence(ck, fw):
        "answer, unaffected by the chapter-level fix",
        bool(r.get("unresolved")) and not r["matches"]
        and "no such document exists" in (r.get("note") or ""))
+
+
+def _proof_ors_chapter_and_section_widths(ck, fw):
+    """#293. `ORS_C`'s old `\\d{2,3}` chapter floor made every single-digit ORS chapter
+    invisible to the SCHEME MATCH itself -- before `_resolve_ors` is ever reached, not
+    after. `_ORS_CHAPTER_RE`'s independently-wider `\\d+` never caught this, because a
+    citation had to survive `ORS_C`'s match first to reach it at all -- the fix is a
+    shared token, not a second widening of the same question.
+
+    Every case here resolves a REAL HELD DOCUMENT through `fw.resolve_citation` -- the
+    served path -- because a proof the pattern object matches is not a proof the resolver
+    answers (#202's own lesson, one scheme over): `statutes/ors-1.001.md`,
+    `ors-9.005.md` and `ors-71.1010.md` all exist on disk before this proof runs.
+
+      * ORS 1.001, ORS 9.005 -- single-digit chapters (1 = "General Provisions", 9 =
+        "Limitations"), refused by the old floor before ever reaching `_resolve_ors`.
+      * ORS 71.1010 -- the UCC chapters (71-80) number sections in 4 digits, not 3; the
+        old `\\.\\d{3}` tail refused these the same way, one token over.
+      * ORS 12.010, ORS 151.010 -- 2- and 3-digit-chapter controls, already working before
+        this fix; asserted here so a future edit to the chapter token cannot silently
+        narrow back past what already worked."""
+    for section, cid in (("ORS 1.001", "ors-1.001"), ("ORS 9.005", "ors-9.005"),
+                        ("ORS 71.1010", "ors-71.1010"), ("ORS 12.010", "ors-12.010"),
+                        ("ORS 151.010", "ors-151.010")):
+        r = fw.resolve_citation(section)
+        ck(f"{section!r} resolves to the held document {cid!r}",
+           [m["id"] for m in r["matches"]] == [cid])
 
 
 def _proof_federal_schemes_survive_registration(ck, fw):

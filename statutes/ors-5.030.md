@@ -29,7 +29,9 @@ verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by: []
+  implemented_by:
+    - oha-osh-5-021
+    - oha-osh-5-030
   references_external: []
   related: []
   supersedes: []

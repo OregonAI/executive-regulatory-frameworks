@@ -28,6 +28,7 @@ relationships:
   implements:
     - oar-333-150-0000
     - oar-333-520-0020
+    - ors-1.012
   implemented_by: []
   references_external: []
   related:

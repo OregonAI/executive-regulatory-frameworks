@@ -28,6 +28,8 @@ relationships:
   implements:
     - oar-333-505-0020
     - oar-333-520-0070
+    - ors-1.001
+    - ors-1.003
   implemented_by: []
   references_external: []
   related:

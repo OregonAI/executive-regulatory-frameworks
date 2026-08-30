@@ -33,6 +33,8 @@ relationships:
     - oar-309-112-0000
     - oar-309-112-0015
     - oar-309-112-0035
+    - ors-1.001
+    - ors-1.003
     - ors-124.105
     - ors-426.070
     - ors-426.072
@@ -43,6 +45,7 @@ relationships:
     - ors-426.415
     - ors-430.021
     - ors-654.414
+    - ors-9.010
   implemented_by: []
   references_external: []
   related:

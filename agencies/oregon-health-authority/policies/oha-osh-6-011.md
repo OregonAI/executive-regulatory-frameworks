@@ -29,6 +29,8 @@ relationships:
     - oar-309-035-0185
     - oar-333-071-0480
     - oar-333-510-0020
+    - ors-1.001
+    - ors-1.006
     - ors-179.360
     - ors-426.010
   implemented_by: []

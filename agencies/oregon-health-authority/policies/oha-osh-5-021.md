@@ -30,6 +30,7 @@ relationships:
     - oar-407-007-0100
     - oar-407-007-0400
     - oar-407-007-0460
+    - ors-1.012
     - ors-181a.170
     - ors-181a.190
     - ors-181a.200
@@ -39,6 +40,7 @@ relationships:
     - ors-413.036
     - ors-443.004
     - ors-443.008
+    - ors-5.030
   implemented_by: []
   references_external: []
   related: []

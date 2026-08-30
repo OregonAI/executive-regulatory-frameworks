@@ -28,7 +28,16 @@ from repo_lib import (REPO_ROOT, content_files, extract_fulltext, parse_frontmat
 GRAPH = REPO_ROOT / "_meta/graph.json"
 OAR_CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
 
-ORS_RE = re.compile(r"\b(\d{2,3}[A-Z]?\.\d{3})\b")
+# #293: the same chapter/section digit-count question `citation_schemes.ORS_C` answers,
+# widened the same way and for the same reason — measured on this corpus, not assumed
+# (see the comment above `citation_schemes.ORS_CHAPTER_TOKEN`). Duplicated rather than
+# imported: `citation_schemes` imports FROM this module (`build_renumber_map`), so the
+# reverse import would be circular; `repo_lib` is the natural shared home if a third site
+# ever needs this token. Currently a no-op on the committed corpus (no rule's own
+# authority-header text cites a single-digit chapter or a 4-digit UCC section) — fixed
+# anyway because leaving the same floor here would be #293 again, just unnoticed until an
+# authority header happened to use one.
+ORS_RE = re.compile(r"\b(\d{1,3}[A-Z]?\.\d{3,4})\b")
 OAR_RULE_RE = re.compile(r"\b(\d{3}-\d{3}-\d{4})\b")
 OAR_DIV_RE = re.compile(r"OAR\s+(\d{3}-\d{3})(?!-)")
 DIV_LINK_CAP = 12  # division-level citations link all its rules only if small

@@ -26,6 +26,7 @@ verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements:
+    - ors-1.012
     - ors-240.145
     - ors-240.240
     - ors-240.250

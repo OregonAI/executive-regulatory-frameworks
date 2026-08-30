@@ -26,6 +26,7 @@ verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements:
+    - ors-1.012
     - ors-659a.103
   implemented_by: []
   references_external: []
