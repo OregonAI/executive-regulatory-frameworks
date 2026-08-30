@@ -356,7 +356,7 @@ chapters:
       path: rules/104/020/oar-104-020-0040.md
   - division: '25'
     title: OREGON DISASTER RESPONSE ASSISTANCE MATCHING FUND
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '30'
@@ -746,7 +746,7 @@ chapters:
       path: rules/114/006/oar-114-006-0000.md
   - division: '7'
     title: PUBLIC GUARDIAN FEE STRUCTURE
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   discovered: '2026-08-27'
@@ -1394,7 +1394,7 @@ chapters:
       path: rules/123/006/oar-123-006-0045.md
   - division: '7'
     title: TARGETED INDUSTRY CLUSTERS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '8'
@@ -1705,7 +1705,7 @@ chapters:
       path: rules/123/020/oar-123-020-0140.md
   - division: '21'
     title: OPERATION OF OREGON CREDIT ENHANCEMENT FUND
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 123-021-0000
       status: renumbered
@@ -2009,7 +2009,7 @@ chapters:
       path: rules/123/041/oar-123-041-0100.md
   - division: '42'
     title: SPECIAL PUBLIC WORKS FUND PROGRAM
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 123-042-0010
       status: ingested
@@ -3143,7 +3143,7 @@ chapters:
       path: rules/123/200/oar-123-200-2300.md
   - division: '250'
     title: DISADVANTAGED AND EMERGING SMALL BUSINESS LOAN FUND
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '300'
@@ -4618,7 +4618,7 @@ chapters:
       path: rules/125/085/oar-125-085-0000.md
   - division: '90'
     title: PARKING FACILITIES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 125-090-0000
       status: ingested
@@ -5711,7 +5711,7 @@ chapters:
       path: rules/125/300/oar-125-300-0200.md
   - division: '600'
     title: IDENTITY AUTHENTICATION/ELECTRONIC SIGNATURES
-    status: not_ingested
+    status: ingested
     rules:
     - number: 125-600-0005
       status: renumbered
@@ -5756,7 +5756,7 @@ chapters:
       path: rules/125/700/oar-125-700-0155.md
   - division: '800'
     title: STATE INFORMATION SECURITY
-    status: not_ingested
+    status: ingested
     rules:
     - number: 125-800-0005
       status: renumbered
@@ -7742,7 +7742,7 @@ chapters:
       path: rules/137/068/oar-137-068-0050.md
   - division: '73'
     title: TRAUMA INFORMED RESPONSE TRAINING GRANT PROGRAM
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '74'
@@ -14308,7 +14308,7 @@ chapters:
       path: rules/150/475/oar-150-475-6030.md
   - division: '657'
     title: Paid Family and Medical Leave Insurance
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '670'
@@ -18033,7 +18033,7 @@ chapters:
       path: rules/177/085/oar-177-085-0070.md
   - division: '86'
     title: POWERBALL Xs & OS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '90'
@@ -18395,7 +18395,7 @@ chapters:
   divisions:
   - division: '1'
     title: PROCEDURAL RULES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 199-001-0000
       status: ingested
@@ -18438,7 +18438,7 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
   - division: '5'
     title: GIFTS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 199-005-0001
       status: ingested
@@ -18479,7 +18479,7 @@ chapters:
       path: rules/199/008/oar-199-008-0008.md
   - division: '8'
     title: COMPLIANCE AND SANCTIONS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (6 rule(s): 199-008-0005, 199-008-0008,
       199-008-0014, 199-008-0015, 199-008-0020, 199-008-0035) — covered, not a gap'
@@ -20011,7 +20011,7 @@ chapters:
       path: rules/230/150/oar-230-150-0140.md
   - division: '160'
     title: MEDICAL PROVISIONS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '120'
@@ -21090,7 +21090,7 @@ chapters:
       path: rules/255/025/oar-255-025-0035.md
   - division: '28'
     title: HEARINGS TECHNOLOGY AND MEDIA
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '30'
@@ -23294,12 +23294,12 @@ chapters:
       path: rules/274/032/oar-274-032-0140.md
   - division: '33'
     title: PROCESSING OF UNCLAIMED [HUMAN] CREMATED REMAINS OF VETERAN OR SURVIVOR OF VETERAN
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '34'
     title: VETERAN SUICIDE PREVENTION GRANT
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '35'
@@ -23605,7 +23605,7 @@ chapters:
       path: rules/274/045/oar-274-045-0481.md
   - division: '50'
     title: VETERANS' HOME LOAN PROGRAM - 2025
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   discovered: '2026-08-27'
@@ -27464,7 +27464,7 @@ chapters:
       path: rules/309/018/oar-309-018-0215.md
   - division: '19'
     title: OUTPATIENT BEHAVIORAL HEALTH SERVICES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 309-019-0100
       status: ingested
@@ -29153,7 +29153,7 @@ chapters:
       path: rules/309/120/oar-309-120-0295.md
   - division: '231'
     title: Requests for Grant Proposals and Applications
-    status: not_ingested
+    status: not_served
     rules:
     - number: 309-231-0100
       status: not_served
@@ -31303,7 +31303,7 @@ chapters:
       path: rules/331/030/oar-331-030-0040.md
   - division: '50'
     title: TEMPORARY SIGN LANGUAGE INTERPRETER LICENSING
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '105'
@@ -31750,7 +31750,7 @@ chapters:
       path: rules/331/680/oar-331-680-0010.md
   - division: '690'
     title: TEMPORARY STAFFING AGENCY PROGRAM GENERAL ADMINISTRATION
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '705'
@@ -31884,27 +31884,27 @@ chapters:
       path: rules/331/740/oar-331-740-0000.md
   - division: '750'
     title: DENTAL LABORATORY GENERAL ADMINISTRATION
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '755'
     title: DENTAL LABORATORIES GENERAL ADMINISTRATION
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '760'
     title: QUALIFICATIONS, APPLICATIONS AND RENEWALS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '765'
     title: REQUIREMENTS, QUALIFICATIONS, APPLICATIONS, AND RENEWAL REQUIREMENTS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '770'
     title: CIVIL PENALTIES
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '800'
@@ -33725,7 +33725,7 @@ chapters:
   - division: '15'
     title: INDOOR CLEAN AIR ACT, NUTRITIONAL INFORMATION AT CHAIN RESTAURANTS AND RETAIL SALE OF TOBACCO
       PRODUCTS AND INHALANT DELIVERY SYSTEMS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 333-015-0025
       status: ingested
@@ -35134,7 +35134,7 @@ chapters:
       path: rules/333/031/oar-333-031-0090.md
   - division: '35'
     title: HOSPICE PROGRAM LICENSURE
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 333-035-0045
       status: renumbered
@@ -36727,7 +36727,7 @@ chapters:
       path: rules/333/072/oar-333-072-0225.md
   - division: '76'
     title: AMBULATORY SURGICAL CENTERS (ASC) AND EXTENDED STAY CENTERS (ESC)
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 333-076-0001
       status: ingested
@@ -39730,7 +39730,7 @@ chapters:
       path: rules/333/264/oar-333-264-0140.md
   - division: '265'
     title: EMERGENCY MEDICAL SERVICES PROVIDERS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 333-265-0000
       status: ingested
@@ -39878,7 +39878,7 @@ chapters:
       path: rules/333/270/oar-333-270-0080.md
   - division: '271'
     title: NONOPIOID DIRECTIVE
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '275'
@@ -41143,7 +41143,7 @@ chapters:
   - division: '675'
     title: PROJECT PLANS AND CONSTRUCTION REVIEW FOR HEALTH CARE FACILITIES AND RESIDENTIAL CARE AND ASSISTED
       LIVING FACILITIES
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 333-675-0000
       status: renumbered
@@ -41317,7 +41317,7 @@ chapters:
       path: rules/333/700/oar-333-700-0131.md
   - division: '2'
     title: Standards for Registry Enrollment, Qualification and Certification of Health Care Interpreters
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 333-002-0000
       status: renumbered
@@ -47485,7 +47485,7 @@ chapters:
       path: rules/340/240/oar-340-240-0630.md
   - division: '242'
     title: RULES APPLICABLE TO THE PORTLAND AREA
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 340-242-0010
       status: ingested
@@ -47640,7 +47640,7 @@ chapters:
       path: rules/340/242/oar-340-242-0630.md
   - division: '244'
     title: OREGON FEDERAL HAZARDOUS AIR POLLUTANT PROGRAM
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 340-244-0010
       status: ingested
@@ -51795,7 +51795,7 @@ chapters:
       path: rules/407/100/oar-407-100-0080.md
   - division: '105'
     title: Office of Resilience and Emergency Management
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '120'
@@ -51888,7 +51888,7 @@ chapters:
       path: rules/407/120/oar-407-120-1505.md
   - division: '45'
     title: Office of Training, Investigations and Safety
-    status: not_ingested
+    status: ingested
     rules:
     - number: 407-045-0120
       status: renumbered
@@ -52231,7 +52231,7 @@ chapters:
     note: division no longer listed on OARD — verify upstream
   - division: '47'
     title: Office of Training, Investigations and Safety - Child Abuse
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 407-047-0200
       status: renumbered
@@ -55905,7 +55905,7 @@ chapters:
     note: division no longer listed on OARD — verify upstream
   - division: '180'
     title: Traditional Health Workers
-    status: not_ingested
+    status: ingested
     rules:
     - number: 410-180-0300
       status: renumbered
@@ -56125,7 +56125,7 @@ chapters:
       path: rules/411/005/oar-411-005-0045.md
   - division: '6'
     title: GRIEVANCES
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '11'
@@ -58135,12 +58135,12 @@ chapters:
       path: rules/411/073/oar-411-073-0150.md
   - division: '74'
     title: ESSENTIAL WORKFORCE HEALTH CARE PROGRAM
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '76'
     title: LICENSING COMPLAINT UNIT
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '85'
@@ -61348,7 +61348,7 @@ chapters:
       path: rules/413/115/oar-413-115-0150.md
   - division: '120'
     title: ADOPTION
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 413-120-0000
       status: ingested
@@ -62140,7 +62140,7 @@ chapters:
       path: rules/413/330/oar-413-330-1150.md
   - division: '215'
     title: Licensing Child-Caring Agencies
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 413-215-0000
       status: renumbered
@@ -64973,7 +64973,7 @@ chapters:
       note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
   - division: '875'
     title: TRIBAL EARLY LEARNING HUB
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '900'
@@ -65399,7 +65399,7 @@ chapters:
       path: rules/415/020/oar-415-020-0096.md
   - division: '50'
     title: STANDARDS FOR ALCOHOL DETOXIFICATION CENTERS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 415-050-0000
       status: renumbered
@@ -65878,7 +65878,7 @@ chapters:
       path: rules/416/070/oar-416-070-0060.md
   - division: '80'
     title: OYA Financial Grant Standards
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '105'
@@ -66788,40 +66788,40 @@ chapters:
   divisions:
   - division: '50'
     title: HEARINGS - ADULT ABUSE
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (2 rule(s): 419-050-0000, 419-050-0010)
       — covered, not a gap'
   - division: '100'
     title: ADULT ABUSE INVESTIGATIONS IN DEVELOPMENTAL DISABILITIES SERVICES
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (13 rule(s): 419-100-0000,
       419-100-0010, 419-100-0020, 419-100-0030, 419-100-0040, 419-100-0050, 419-100-0060, 419-100-0070,
       419-100-0080, 419-100-0090, 419-100-0100, 419-100-0110, 419-100-0120) — covered, not a gap'
   - division: '105'
     title: SERIOUS EVENT ASSESSMENTS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (1 rule(s): 419-105-0000) —
       covered, not a gap'
   - division: '110'
     title: ADULT ABUSE INVESTIGATIONS IN MENTAL HEALTH SERVICES
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (13 rule(s): 419-110-0000,
       419-110-0010, 419-110-0020, 419-110-0030, 419-110-0040, 419-110-0050, 419-110-0060, 419-110-0070,
       419-110-0080, 419-110-0090, 419-110-0100, 419-110-0110, 419-110-0120) — covered, not a gap'
   - division: '120'
     title: PATIENT ABUSE INVESTIGATIONS AT THE OREGON STATE HOSPITALS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (10 rule(s): 419-120-0000,
       419-120-0010, 419-120-0020, 419-120-0030, 419-120-0040, 419-120-0050, 419-120-0060, 419-120-0070,
       419-120-0080, 419-120-0090) — covered, not a gap'
   - division: '130'
     title: ABUSE INVESTIGATIONS IN RESIDENTIAL SUBSTANCE USE DISORDER TREATMENT SERVICES
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (12 rule(s): 419-130-0000,
       419-130-0010, 419-130-0020, 419-130-0030, 419-130-0040, 419-130-0050, 419-130-0060, 419-130-0070,
@@ -66848,7 +66848,7 @@ chapters:
       path: rules/419/210/oar-419-210-0156.md
   - division: '220'
     title: CHILD ABUSE INVESTIGATIONS IN CHILD CARE
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (11 rule(s): 419-220-0100,
       419-220-0110, 419-220-0120, 419-220-0130, 419-220-0140, 419-220-0150, 419-220-0160, 419-220-0170,
@@ -66862,7 +66862,7 @@ chapters:
       path: rules/419/230/oar-419-230-0173.md
   - division: '240'
     title: CHILD ABUSE INVESTIGATIONS BY THIRD-PARTY
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (12 rule(s): 419-240-0100,
       419-240-0110, 419-240-0120, 419-240-0130, 419-240-0135, 419-240-0140, 419-240-0150, 419-240-0160,
@@ -66937,7 +66937,7 @@ chapters:
       path: rules/419/400/oar-419-400-0190.md
   - division: '410'
     title: ACADEMIC BOARDING SCHOOLS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (15 rule(s): 419-410-0010,
       419-410-0020, 419-410-0030, 419-410-0040, 419-410-0050, 419-410-0060, 419-410-0070, 419-410-0080,
@@ -66945,7 +66945,7 @@ chapters:
       — covered, not a gap'
   - division: '420'
     title: ADOPTION AGENCIES
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (16 rule(s): 419-420-0010,
       419-420-0020, 419-420-0030, 419-420-0040, 419-420-0050, 419-420-0060, 419-420-0070, 419-420-0080,
@@ -66953,14 +66953,14 @@ chapters:
       419-420-0160) — covered, not a gap'
   - division: '430'
     title: DAY TREATMENT AGENCIES
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (11 rule(s): 419-430-0010,
       419-430-0020, 419-430-0030, 419-430-0040, 419-430-0050, 419-430-0060, 419-430-0070, 419-430-0080,
       419-430-0090, 419-430-0100, 419-430-0110) — covered, not a gap'
   - division: '440'
     title: FOSTER CARE AGENCIES
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (21 rule(s): 419-440-0010,
       419-440-0020, 419-440-0030, 419-440-0040, 419-440-0050, 419-440-0060, 419-440-0070, 419-440-0080,
@@ -66969,14 +66969,14 @@ chapters:
       a gap'
   - division: '450'
     title: HOMELESS, RUNAWAY, AND TRANSITIONAL LIVING SHELTERS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (12 rule(s): 419-450-0010,
       419-450-0020, 419-450-0030, 419-450-0040, 419-450-0050, 419-450-0060, 419-450-0070, 419-450-0080,
       419-450-0090, 419-450-0100, 419-450-0110, 419-450-0120) — covered, not a gap'
   - division: '460'
     title: OUTDOOR YOUTH PROGRAMS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (26 rule(s): 419-460-0010,
       419-460-0020, 419-460-0030, 419-460-0040, 419-460-0050, 419-460-0060, 419-460-0070, 419-460-0080,
@@ -66985,7 +66985,7 @@ chapters:
       419-460-0230, 419-460-0240, 419-460-0250, 419-460-0260) — covered, not a gap'
   - division: '470'
     title: RESIDENTIAL CARE AGENCIES
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (18 rule(s): 419-470-0010,
       419-470-0020, 419-470-0030, 419-470-0040, 419-470-0050, 419-470-0060, 419-470-0070, 419-470-0080,
@@ -67033,7 +67033,7 @@ chapters:
       path: rules/419/480/oar-419-480-0120.md
   - division: '490'
     title: THERAPEUTIC BOARDING SCHOOLS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (17 rule(s): 419-490-0010,
       419-490-0020, 419-490-0030, 419-490-0040, 419-490-0050, 419-490-0060, 419-490-0070, 419-490-0080,
@@ -74926,7 +74926,7 @@ chapters:
       path: rules/461/130/oar-461-130-0335.md
   - division: '135'
     title: SPECIFIC PROGRAM REQUIREMENTS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 461-135-0010
       status: ingested
@@ -76629,7 +76629,7 @@ chapters:
       path: rules/462/130/oar-462-130-0070.md
   - division: '135'
     title: Civil Penalties, Appeals, and Collections
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '140'
@@ -77103,7 +77103,7 @@ chapters:
       path: rules/462/230/oar-462-230-0020.md
   - division: '240'
     title: Third-Party Information Security Audits
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   discovered: '2026-08-27'
@@ -78076,7 +78076,7 @@ chapters:
       path: rules/543/001/oar-543-001-0010.md
   - division: '10'
     title: ADMINISTRATION
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 543-010-0003
       status: ingested
@@ -78168,7 +78168,7 @@ chapters:
       path: rules/543/040/oar-543-040-0040.md
   - division: '60'
     title: OREGON STATEWIDE REFERENCE ASSISTANCE PROGRAM
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 543-060-0000
       status: ingested
@@ -81934,7 +81934,7 @@ chapters:
       path: rules/581/045/oar-581-045-0587.md
   - division: '49'
     title: STANDARDS FOR THE ACCREDITATION OF EMERGENCY MEDICAL TECHNOLOGY EDUCATION AND TRAINING PROGRAMS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '51'
@@ -82612,7 +82612,7 @@ chapters:
       path: rules/582/115/oar-582-115-0070.md
   - division: '120'
     title: Self-Employment
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '150'
@@ -83583,7 +83583,7 @@ chapters:
       path: rules/584/410/oar-584-410-0100.md
   - division: '420'
     title: STATE STANDARDS FOR TEACHER PREPARATION PROGRAMS
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 584-420-0015
       status: ingested
@@ -84577,7 +84577,7 @@ chapters:
       path: rules/603/005/oar-603-005-0001.md
   - division: '7'
     title: AGRICULTURAL ASSISTANCE PROGRAMS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '8'
@@ -95591,7 +95591,7 @@ chapters:
       path: rules/635/042/oar-635-042-0190.md
   - division: '43'
     title: 'OTHER REGULATIONS: MISCELLANEOUS PERMITS AND RECORDS'
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 635-043-0000
       status: ingested
@@ -99258,7 +99258,7 @@ chapters:
       path: rules/643/030/oar-643-030-0040.md
   - division: '40'
     title: COMMISSIONER PER DIEM AND REIMBURSEMENTS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   discovered: '2026-08-27'
@@ -100195,7 +100195,7 @@ chapters:
       path: rules/660/006/oar-660-006-0060.md
   - division: '7'
     title: METROPOLITAN HOUSING
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '8'
@@ -101855,12 +101855,12 @@ chapters:
       path: rules/660/046/oar-660-046-0370.md
   - division: '47'
     title: Oregon Homes Program
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '48'
     title: GOAL 17 COASTAL PUBLIC ACCESS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   discovered: '2026-08-27'
@@ -102265,7 +102265,7 @@ chapters:
       path: rules/669/030/oar-669-030-0140.md
   - division: '40'
     title: Per Diem Compensation
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   discovered: '2026-08-27'
@@ -104917,7 +104917,7 @@ chapters:
       path: rules/690/260/oar-690-260-0110.md
   - division: '290'
     title: PETITIONS FOR JUDICIAL REVIEW
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '300'
@@ -107895,7 +107895,7 @@ chapters:
       path: rules/731/005/oar-731-005-0910.md
   - division: '7'
     title: PUBLIC IMPROVEMENT CONTRACTS; HIGHWAY AND BRIDGE CONSTRUCTION
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 731-007-0200
       status: ingested
@@ -108297,7 +108297,7 @@ chapters:
       path: rules/731/036/oar-731-036-0120.md
   - division: '37'
     title: MULTIMODAL MATCHING FUND
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '40'
@@ -109468,7 +109468,7 @@ chapters:
       path: rules/734/024/oar-734-024-0040.md
   - division: '25'
     title: Environmental Product Declaration Support Fund
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '26'
@@ -110145,12 +110145,12 @@ chapters:
   - division: '66'
     title: Digital Sign Illumination, Temporary Sign Variances, Governmental Unit & Public Convenience
       Signs
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '67'
     title: Portable Signs on Right of Way
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '70'
@@ -121990,7 +121990,7 @@ chapters:
       path: rules/813/262/oar-813-262-0040.md
   - division: '263'
     title: EVICTION PREVENTION RAPID RESPONSE (EPRR) PROGRAM
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '270'
@@ -122051,7 +122051,7 @@ chapters:
       path: rules/813/275/oar-813-275-0070.md
   - division: '290'
     title: TRIBAL HOUSING GRANT FUND (THGF)
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '300'
@@ -122184,7 +122184,7 @@ chapters:
       path: rules/813/310/oar-813-310-0110.md
   - division: '315'
     title: SUBSIDIZED DEVELOPMENT ACCESSIBILITY
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '350'
@@ -122270,7 +122270,7 @@ chapters:
       path: rules/813/365/oar-813-365-0070.md
   - division: '370'
     title: ACQUISITION OF NATURALLY OCCURRING AFFORDABLE HOUSING (ANOAH) PROGRAM
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '375'
@@ -122329,7 +122329,7 @@ chapters:
       path: rules/813/385/oar-813-385-0025.md
   - division: '390'
     title: ARH CREDIT COMMITTEE
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '395'
@@ -122368,7 +122368,7 @@ chapters:
       path: rules/813/395/oar-813-395-0050.md
   - division: '400'
     title: MIXED INCOME DEVELOPMENT LOAN FUND
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '405'
@@ -122452,7 +122452,7 @@ chapters:
     note: division no longer listed on OARD — verify upstream
   - division: '201'
     title: Energy Assistance Stability Program (Eas)
-    status: not_ingested
+    status: not_served
     rules:
     - number: 813-201-0003
       status: not_served
@@ -132943,7 +132943,7 @@ chapters:
       path: rules/847/020/oar-847-020-0200.md
   - division: '22'
     title: RULES FOR LICENSURE OF INTERNATIONALLY TRAINED PHYSICIANS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '25'
@@ -134196,12 +134196,12 @@ chapters:
       path: rules/851/049/oar-851-049-0025.md
   - division: '51'
     title: STANDARDS FOR APPROVAL OF EDUCATION PROGRAMS PREPARING NURSES FOR ADVANCED PRACTICE
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '53'
     title: STANDARDS FOR LICENSURE AS AN ADVANCED PRACTICE REGISTERED NURSE
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '55'
@@ -140805,7 +140805,7 @@ chapters:
       path: rules/860/100/oar-860-100-0300.md
   - division: '110'
     title: Cost Caps (HB 2021)
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '150'
@@ -140841,7 +140841,7 @@ chapters:
       path: rules/860/150/oar-860-150-0600.md
   - division: '225'
     title: Commission-Ordered Sale of Water Utility
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '250'
@@ -144094,7 +144094,7 @@ chapters:
       path: rules/918/650/oar-918-650-0080.md
   - division: '674'
     title: PREFABRICATED CONSTRUCTION
-    status: partially_ingested
+    status: ingested
     rules:
     - number: 918-674-0000
       status: renumbered
@@ -144991,7 +144991,7 @@ chapters:
       path: rules/943/120/oar-943-120-1505.md
   - division: '70'
     title: Race, Ethnicity, Language, and Disability Demographic Data Collection Standards
-    status: not_ingested
+    status: ingested
     rules:
     - number: 943-070-0000
       status: renumbered
@@ -145036,7 +145036,7 @@ chapters:
     note: division no longer listed on OARD — verify upstream
   - division: '90'
     title: Cultural Competency Continuing Education for Heatlh Care Professionals
-    status: not_ingested
+    status: ingested
     rules:
     - number: 943-090-0000
       status: renumbered
@@ -145174,7 +145174,7 @@ chapters:
   divisions:
   - division: '10'
     title: PROCEDURAL RULES, PURPOSE AND RULEMAKING AUTHORITY
-    status: not_ingested
+    status: no_rules
     rules: []
     note: OARD lists no current rules under this division — confirmed, not a gap
   - division: '20'
@@ -145227,13 +145227,13 @@ chapters:
       path: rules/950/033/oar-950-033-0045.md
   - division: '38'
     title: REALD AND SOGI ADVISORY COMMITTEE
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (1 rule(s): 950-038-0010) —
       covered, not a gap'
   - division: '40'
     title: CULTURAL COMPETENCY CONTINUING EDUCATION FOR HEALTH CARE PROFESSIONALS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (3 rule(s): 950-040-0000, 950-040-0010,
       950-040-0020) — covered, not a gap'
@@ -145253,7 +145253,7 @@ chapters:
       path: rules/950/050/oar-950-050-0180.md
   - division: '60'
     title: TRADITIONAL HEALTH WORKERS
-    status: not_ingested
+    status: no_rules
     rules: []
     note: 'every rule OARD lists here is already claimed under another row (17 rule(s): 950-060-0000,
       950-060-0010, 950-060-0020, 950-060-0030, 950-060-0040, 950-060-0050, 950-060-0060, 950-060-0070,

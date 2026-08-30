@@ -433,6 +433,57 @@ def membership_dropping_sites(tree: ast.AST) -> list:
     return hits
 
 
+def _folded_str_concat(node: ast.AST):
+    """The string a chain of `ast.BinOp(ast.Add)` string constants would produce at
+    RUNTIME, or `None` if any operand is not itself a string constant or a foldable
+    chain -- Python's `ast` module does not fold `"a" + "b"` into one `Constant` at
+    parse time (unlike adjacent-literal concatenation, or an f-string with no
+    interpolation, which the parser DOES merge into one `Constant`), so a needle split
+    across two or more `+`-joined literals leaves each half its own node and neither
+    half contains the whole needle alone (#296). This walks the same chain by hand and
+    hands back what it would evaluate to. NOT COVERED, same as before this function
+    existed: an f-string WITH interpolation (`f"public{v}.law"`, parsed as `JoinedStr`,
+    never merged), `.join`/`.format`/`%`-formatting, `chr()`, or either operand being a
+    `Name` rather than a literal -- #296 scoped the fix to the one obfuscation this
+    module's own `_RETIRED_HOST` constant demonstrates is realistic, not every
+    conceivable one ('unbounded', in the ticket's own words)."""
+    if isinstance(node, ast.Constant) and isinstance(node.value, str):
+        return node.value
+    if isinstance(node, ast.BinOp) and isinstance(node.op, ast.Add):
+        left = _folded_str_concat(node.left)
+        right = _folded_str_concat(node.right)
+        if left is not None and right is not None:
+            return left + right
+    return None
+
+
+def _self_reference_ids(tree: ast.Module) -> set:
+    """id() of this module's OWN `_RETIRED_HOST = "public" + ".law"` value expression
+    and everything nested inside it. Folding `BinOp(Add)` chains (#296) would otherwise
+    flag that declaration as a violation of itself -- it is deliberately built as a
+    split literal precisely so a single-`Constant` scan can't self-match, and a
+    folding-aware scan needs the same immunity, granted BY NAME to this one assignment
+    rather than by re-permitting every two-part string concatenation in the module.
+
+    THE EXEMPTION IS NARROW ON PURPOSE, in both scope and value, because #296's own
+    complaint was a by-name exemption wide enough to hide a real reintroduction:
+    MODULE-LEVEL ONLY (`tree.body` directly, never `ast.walk` into every function and
+    class) so a function-local `_RETIRED_HOST = "<a live URL>"` -- a plain single
+    string, needing no folding immunity at all -- gets none, and VALUE-CHECKED (the
+    assignment's folded value must equal `_RETIRED_HOST` itself) so a module-level
+    `_RETIRED_HOST` rebound to the actual retired URL is not laundered through the same
+    name. A rebind that fails either test is not this declaration and is not exempted."""
+    ids = set()
+    for node in tree.body:
+        if (isinstance(node, ast.Assign) and len(node.targets) == 1
+                and isinstance(node.targets[0], ast.Name)
+                and node.targets[0].id == "_RETIRED_HOST"
+                and _folded_str_concat(node.value) == _RETIRED_HOST):
+            for sub in ast.walk(node.value):
+                ids.add(id(sub))
+    return ids
+
+
 def _docstring_string_ids(tree: ast.AST) -> set:
     """id() of every string constant that IS a docstring -- the first statement's value
     in the module or any function/class -- so prose explaining history (module, function
@@ -453,11 +504,31 @@ def _non_docstring_public_law_refs(tree: ast.Module) -> list:
     ticket's own allowance ('historical comments explaining the switch are fine and
     welcome'). A `#`-comment never reaches the AST at all, so combined with the
     docstring exclusion this only ever catches a functional reference: code that could
-    still BUILD A URL against the retired host."""
+    still BUILD A URL against the retired host.
+
+    #296: also catches the needle FOLDED out of a `"a" + "b" + ...` chain -- a single
+    `ast.Constant` scan is blind to the host spelled as a run-time string
+    concatenation, because neither half of a split literal contains the whole needle on
+    its own. The module's own `_RETIRED_HOST = "public" + ".law"` is excluded BY NAME,
+    at MODULE LEVEL ONLY, and only when its value folds to the real `_RETIRED_HOST`
+    (`_self_reference_ids`) -- not by re-permitting two-part concatenation generally,
+    and not by trusting the name alone. Whatever dodges this scan for the gate's own
+    constant would dodge it for a real reintroduction too, which is exactly the gap
+    #296 closes."""
     doc_ids = _docstring_string_ids(tree)
-    return [n.lineno for n in ast.walk(tree)
-            if isinstance(n, ast.Constant) and isinstance(n.value, str)
-            and _RETIRED_HOST in n.value and id(n) not in doc_ids]
+    self_ids = _self_reference_ids(tree)
+    hits = []
+    for n in ast.walk(tree):
+        if id(n) in doc_ids or id(n) in self_ids:
+            continue
+        if isinstance(n, ast.Constant) and isinstance(n.value, str):
+            if _RETIRED_HOST in n.value:
+                hits.append(n.lineno)
+        elif isinstance(n, ast.BinOp) and isinstance(n.op, ast.Add):
+            folded = _folded_str_concat(n)
+            if folded is not None and _RETIRED_HOST in folded:
+                hits.append(n.lineno)
+    return hits
 
 
 def selftest() -> int:
@@ -520,6 +591,62 @@ def selftest() -> int:
           _non_docstring_public_law_refs(tree) == [])
     check("...and the module docstring's historical account is still there to be "
           "excluded from", _RETIRED_HOST in ast.get_docstring(tree))
+
+    # #296 RED: reproduce the exact reintroduction a single-`Constant` scan is blind to
+    # -- the retired host spelled as a run-time string concatenation split across three
+    # literals, the same shape this module's OWN `_RETIRED_HOST` is built as. Proof the
+    # folding detector actually fires on it, not just that today's file is silent.
+    split_fixture = ast.parse('BASE = "https://oregon." + "public" + ".law"')
+    check("RED: a split-literal string concat naming the retired host still fires the "
+          "detector",
+          _non_docstring_public_law_refs(split_fixture) != [])
+    # ...a two-part split is caught the same way, and so is the needle broken across the
+    # join point itself rather than kept whole in either half.
+    check("RED: a two-part split ('public' + '.law', spelled with a different variable "
+          "name) still fires",
+          _non_docstring_public_law_refs(
+              ast.parse('HOST = "public" + ".law"')) != [])
+    check("RED: the needle split ACROSS the join point ('public.' + 'law', neither half "
+          "a whole word) still fires",
+          _non_docstring_public_law_refs(
+              ast.parse('HOST = "oregon.public." + "law"')) != [])
+    # GREEN: an unrelated two-part concatenation, naming nothing retired, must not fire
+    # -- the fold only matters when the RESULT contains the needle.
+    check("GREEN: an unrelated string concatenation does not fire",
+          _non_docstring_public_law_refs(
+              ast.parse('GREETING = "hello" + "world"')) == [])
+    # GREEN: this module's own `_RETIRED_HOST = "public" + ".law"` -- the self-reference
+    # the detector must not mistake for a violation of itself -- is excluded BY NAME, and
+    # that exclusion does not spill over to protect a DIFFERENTLY-named split literal
+    # naming the same host (already proved RED above via `HOST = ...`).
+    check("GREEN: the module's own _RETIRED_HOST declaration is excluded by name, not "
+          "by permitting all two-part concatenation",
+          _non_docstring_public_law_refs(
+              ast.parse('_RETIRED_HOST = "public" + ".law"')) == [])
+
+    # #296 code review: the by-name exemption above must not be wider than the ONE
+    # declaration it names. A FUNCTION-LOCAL `_RETIRED_HOST` needs no folding immunity
+    # at all -- it is a plain single Constant, not a split literal -- and granting it
+    # one anyway would blind the gate to a live URL-building site with that name.
+    # (Spelled as a split literal here too, same as the fixtures above -- this whole
+    # file gets re-parsed and self-scanned a few lines up, and a CONTIGUOUS needle
+    # sitting in one of ITS OWN string literals would trip that self-scan the same way
+    # a real reintroduction would.)
+    check("RED: a function-local _RETIRED_HOST holding the real retired URL still "
+          "fires -- the by-name exemption is module-level only",
+          _non_docstring_public_law_refs(ast.parse(
+              'def f():\n'
+              '    _RETIRED_HOST = "https://oregon." + "public" + ".law" + "/oar/"\n'
+              '    return _RETIRED_HOST + "125"')) != [])
+    # A MODULE-LEVEL `_RETIRED_HOST` rebound to the actual retired URL -- not the
+    # split-literal decoy the real declaration is -- must also still fire: the
+    # exemption is granted to the declaration's VALUE, not to every future value the
+    # same name could hold.
+    check("RED: a module-level _RETIRED_HOST rebound to the real retired URL still "
+          "fires -- the exemption is value-checked, not name-only",
+          _non_docstring_public_law_refs(ast.parse(
+              '_RETIRED_HOST = "https://oregon." + "public" + ".law" + "/oar/"'
+          )) != [])
 
     # THE RETIRED SYMBOLS ARE GONE, not just unreachable -- `enumerate_chapter` and `PL`
     # were the actual scraper and its target host; if either still exists, the refusal

@@ -686,6 +686,12 @@ jobs:
       - name: Ingest-status vocabulary rule must be able to fail
         timeout-minutes: 2
         run: python3 src/ingest_status.py --selftest
+      # #316/#298: content_files() used to treat a missing declared CONTENT_DIR as an empty
+      # one, and division_status() collapsed five distinct rule-composition states into one
+      # word. `check_rule_ledger`-gated in both directions, same shape as the rule above.
+      - name: Shared corpus-walk and division-status rules must both be able to fail
+        timeout-minutes: 2
+        run: python3 src/repo_lib.py --selftest
       - name: Legal status must have exactly one writer
         timeout-minutes: 2
         run: python3 src/legal_status.py --selftest
