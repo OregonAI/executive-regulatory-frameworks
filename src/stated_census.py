@@ -142,20 +142,91 @@ OBSERVED_TAG_RE = re.compile(r"<!--observed:(?P<date>\d{4}-\d{2}-\d{2})-->")
 # CONTEXTUAL exclusion: a number that survives the structural filter but sits in a LIST
 # introduced by a citation-scheme word or a month name -- "chapters 105, 122, 125 and 128",
 # "August 2026" -- is still naming which thing, not counting how many. The lookback window is
-# generous (80 chars) because a list can run several items long; what stops it from matching
-# across a real sentence boundary is that every character between the introducing word and
-# here must itself be a digit, comma, "and"/"&", or whitespace -- any other word breaks it.
+# generous (80 chars) because a list can run several items long.
+#
+# #315: the first version of this pattern (`\b(word)\b(?:[\s,]|and|&|\d)*$`) let a bare
+# "and"/"&" match ANYWHERE after the introducing word, with no digit required in between --
+# so "12 divisions and 43 people attended" excluded the real count 43 as though it were a
+# fourth list item, because "divisions" appeared upstream followed only by whitespace and
+# the literal word "and" before the target number. Narrowed here to require the introducing
+# word be followed by AT LEAST ONE digit before any "and"/"&"/comma is accepted -- an
+# optional group, so "chapters 105" (the word directly before the FIRST list item, nothing
+# to require yet) still matches, but "divisions and 43" (the word, then a bare "and" with no
+# digit of its own) no longer does. Verified against every figure in CONTEXT.md's glossary
+# (30 currently excluded): identical 30/30 before and after this narrowing.
+#
+# THIS IS STILL A HEURISTIC, not a parse of English -- a pathological construction can still
+# fool it (comma-then-and combinations one item longer than the digit-list group allows, for
+# instance), and by design it fails toward REQUIRING a tag rather than toward silently
+# excluding, so a construction it cannot classify confidently makes `--check` demand a
+# <!--census:--> or <!--observed:--> mark rather than passing it through unseen. `cmd_check`
+# additionally reports the COUNT and SITE of every number `check_figures` passed over on
+# every run -- both this contextual exclusion AND the separate `+`-floor exemption below,
+# via the ONE walk both share (`_figure_sites`) -- so what it declined to check is never
+# indistinguishable from what it checked and found to agree (AGENTS.md's overriding rule).
+# NOT COVERED by that report: the STRUCTURAL half (`NUMBER_RE`, above) is a pattern match,
+# not an enumeration -- a number this heuristic never recognizes as number-shaped at all
+# (`1.5`, glued to a decimal point; `137-odd`, glued to a hyphen -- both structurally
+# indistinguishable from a citation's own punctuation, see the module docstring's "WHAT
+# COUNTS AS A FIGURE" section) cannot be counted or sited by a walk built on `NUMBER_RE`
+# matches, because it produces no match to walk. That is a known limit of the structural
+# design, not something this report closes.
 _EXCLUDED_CONTEXT_RE = re.compile(
     r"\b(chapters?|divisions?|sections?|articles?|adr|oar|ors|eo|oam|"
     r"january|february|march|april|may|june|july|august|september|october|"
-    r"november|december)\b(?:[\s,]|and|&|\d)*$", re.I)
+    r"november|december)\b"
+    r"(?:\s*\d+(?:\s*,\s*\d+)*\s*(?:,|and|&)?)?"
+    r"\s*$", re.I)
 
 
 def _excluded_by_context(text: str, start: int) -> bool:
     """Whether the number at `start` is an identifier named in a citation-scheme or
     month-name list, rather than a stated count -- see the module docstring's
-    "WHAT COUNTS AS A FIGURE" section for the full reasoning and examples."""
+    "WHAT COUNTS AS A FIGURE" section for the full reasoning and examples, and #315's
+    comment above `_EXCLUDED_CONTEXT_RE` for what this heuristic still cannot resolve."""
     return bool(_EXCLUDED_CONTEXT_RE.search(text[max(0, start - 80):start]))
+
+
+def _figure_sites(text: str) -> list:
+    """[(pos, end, line, term, stated, skip), ...] for every `NUMBER_RE` match inside a
+    glossary block of `text` -- ONE walk, shared by `check_figures` (what to gate) and
+    `cmd_check`'s summary (what was skipped, and which of the two reasons). `skip` is
+    `None` for a candidate figure `check_figures` goes on to require a tag for,
+    `"floor"` for a stated FLOOR (`545+`, exempt by design -- see the module docstring),
+    or `"context"` for an identifier `_excluded_by_context` names (a citation-scheme or
+    month-name list).
+
+    Three copies of this exact walk used to exist -- `check_figures`, the summary
+    counter in `cmd_check`, and an earlier version of this function that only handled
+    the `"context"` case -- and the THIRD one is why #315's own report stayed blind to
+    the `+`-floor skip: it re-implemented just the context-exclusion half of the walk it
+    was supposed to describe, so a number `check_figures` skipped for the OTHER reason
+    was never listed as skipped at all. One walk, three consumers, cannot drift apart
+    the same way."""
+    sites = []
+    for term, start, end in glossary_blocks(text):
+        block = text[start:end]
+        for m in NUMBER_RE.finditer(block):
+            pos = start + m.start("num")
+            end_abs = start + m.end("num")
+            stated = m.group("num")
+            if text[end_abs:end_abs + 1] == "+":
+                skip = "floor"
+            elif _excluded_by_context(text, pos):
+                skip = "context"
+            else:
+                skip = None
+            sites.append((pos, end_abs, line_of(text, pos), term, stated, skip))
+    return sites
+
+
+def _skipped_figures(text: str) -> list:
+    """[(line, stated, skip), ...] for every figure `_figure_sites` marked `"floor"` or
+    `"context"` -- everything `check_figures` passed over without comparing to a
+    measurement, and why, so a caller can SAY what this run skipped rather than let a
+    declined check look identical to a passed one (#315, AGENTS.md's overriding rule)."""
+    return [(line, stated, skip) for _, _, line, _, stated, skip in _figure_sites(text)
+            if skip is not None]
 
 
 TERM_HEADER_RE = re.compile(r"^\*\*([^*]+)\*\*:", re.M)
@@ -364,75 +435,71 @@ def check_figures(path: Path, text: str, cache: dict) -> list:
     census without touching the committed corpus."""
     failures = []
     label = str(path)
-    for term, start, end in glossary_blocks(text):
-        block = text[start:end]
-        for m in NUMBER_RE.finditer(block):
-            pos = start + m.start("num")
-            if text[start + m.end("num"):start + m.end("num") + 1] == "+":
-                continue  # a stated FLOOR ("545+"), exempt by design -- see module docstring
-            if _excluded_by_context(text, pos):
-                continue  # an identifier (a chapter/ORS/ADR/month reference), not a count
-            site = f"{label}:{line_of(text, pos)}"
-            stated = m.group("num")
+    for pos, end_abs, line, term, stated, skip in _figure_sites(text):
+        if skip == "floor":
+            continue  # a stated FLOOR ("545+"), exempt by design -- see module docstring
+        if skip == "context":
+            continue  # an identifier (a chapter/ORS/ADR/month reference), not a count
+        site = f"{label}:{line}"
 
-            after = text[start + m.end("num"):start + m.end("num") + 80]
-            census_m = CENSUS_TAG_RE.match(after.lstrip())
-            observed_m = OBSERVED_TAG_RE.match(after.lstrip())
+        after = text[end_abs:end_abs + 80]
+        census_m = CENSUS_TAG_RE.match(after.lstrip())
+        observed_m = OBSERVED_TAG_RE.match(after.lstrip())
 
-            if census_m:
-                ns, key = census_m.group("ns"), census_m.group("key")
-                tag = f"census:{ns}.{key}"
-                if ns not in CENSUSES:
-                    failures.append(Failure(
-                        "known-census-namespace", site,
-                        f"{stated!r} is tagged {tag!r}, and {ns!r} is not a registered "
-                        f"census namespace ({', '.join(sorted(CENSUSES))}). A tag naming an "
-                        "unknown measurement is refused rather than skipped -- a mistyped "
-                        "namespace must not read as 'nothing to check'"))
-                    continue
-                try:
-                    values = measured(ns, cache)
-                except Exception as e:
-                    failures.append(Failure(
-                        "census-is-measurable", site,
-                        f"{stated!r} is tagged {tag!r}, and measuring {ns!r} raised "
-                        f"{type(e).__name__}: {e}. Could not measure is never reported as "
-                        "agrees -- fix the measurement, or the figure cannot be gated"))
-                    continue
-                if key not in values:
-                    failures.append(Failure(
-                        "known-census-key", site,
-                        f"{stated!r} is tagged {tag!r}, and the {ns!r} census has no "
-                        f"{key!r} -- it has {', '.join(sorted(values))}"))
-                    continue
-                measured_value = values[key]
-                stated_value = int(stated.replace(",", ""))
-                if stated_value != measured_value:
-                    failures.append(Failure(
-                        "stated-figure-matches-its-census", site,
-                        f"states {stated!r} tagged {tag!r}, and the measurement reads "
-                        f"{measured_value:,}. The stated figure and the census disagree"))
-            elif observed_m:
-                date = observed_m.group("date")
-                try:
-                    datetime.date.fromisoformat(date)
-                except ValueError:
-                    failures.append(Failure(
-                        "observation-date-is-valid", site,
-                        f"{stated!r} is marked <!--observed:{date}-->, and {date!r} is not "
-                        "a real calendar date"))
-                # An observed mark is accepted and never gated further -- CONTEXT.md's
-                # *Observation* entry is what makes that promise, and this is where it is
-                # kept: nothing here compares the figure to any measurement.
-            else:
+        if census_m:
+            ns, key = census_m.group("ns"), census_m.group("key")
+            tag = f"census:{ns}.{key}"
+            if ns not in CENSUSES:
                 failures.append(Failure(
-                    "figure-is-accounted-for", site,
-                    f"{stated!r} in the {term!r} entry carries neither a "
-                    "<!--census:namespace.key--> tag nor an <!--observed:YYYY-MM-DD--> "
-                    "mark. Every figure in a glossary entry must be tagged to the "
-                    "measurement that produces it, or marked as a dated observation that "
-                    "cannot drift -- an untagged figure is exactly how #304's five stale "
-                    "figures went unnoticed"))
+                    "known-census-namespace", site,
+                    f"{stated!r} is tagged {tag!r}, and {ns!r} is not a registered "
+                    f"census namespace ({', '.join(sorted(CENSUSES))}). A tag naming an "
+                    "unknown measurement is refused rather than skipped -- a mistyped "
+                    "namespace must not read as 'nothing to check'"))
+                continue
+            try:
+                values = measured(ns, cache)
+            except Exception as e:
+                failures.append(Failure(
+                    "census-is-measurable", site,
+                    f"{stated!r} is tagged {tag!r}, and measuring {ns!r} raised "
+                    f"{type(e).__name__}: {e}. Could not measure is never reported as "
+                    "agrees -- fix the measurement, or the figure cannot be gated"))
+                continue
+            if key not in values:
+                failures.append(Failure(
+                    "known-census-key", site,
+                    f"{stated!r} is tagged {tag!r}, and the {ns!r} census has no "
+                    f"{key!r} -- it has {', '.join(sorted(values))}"))
+                continue
+            measured_value = values[key]
+            stated_value = int(stated.replace(",", ""))
+            if stated_value != measured_value:
+                failures.append(Failure(
+                    "stated-figure-matches-its-census", site,
+                    f"states {stated!r} tagged {tag!r}, and the measurement reads "
+                    f"{measured_value:,}. The stated figure and the census disagree"))
+        elif observed_m:
+            date = observed_m.group("date")
+            try:
+                datetime.date.fromisoformat(date)
+            except ValueError:
+                failures.append(Failure(
+                    "observation-date-is-valid", site,
+                    f"{stated!r} is marked <!--observed:{date}-->, and {date!r} is not "
+                    "a real calendar date"))
+            # An observed mark is accepted and never gated further -- CONTEXT.md's
+            # *Observation* entry is what makes that promise, and this is where it is
+            # kept: nothing here compares the figure to any measurement.
+        else:
+            failures.append(Failure(
+                "figure-is-accounted-for", site,
+                f"{stated!r} in the {term!r} entry carries neither a "
+                "<!--census:namespace.key--> tag nor an <!--observed:YYYY-MM-DD--> "
+                "mark. Every figure in a glossary entry must be tagged to the "
+                "measurement that produces it, or marked as a dated observation that "
+                "cannot drift -- an untagged figure is exactly how #304's five stale "
+                "figures went unnoticed"))
     return failures
 
 
@@ -550,27 +617,46 @@ def cmd_check(paths) -> int:
         return 1
 
     n_tagged = n_marked = 0
+    # #315: SAY what `check_figures` skipped, and which of the two reasons -- both drawn
+    # from `_figure_sites`, the SAME walk `check_figures` itself used a few lines above,
+    # so this report cannot describe a different walk than the one that actually ran.
+    excluded_context = []  # (path, line, stated) -- an identifier, not a count
+    excluded_floor = []    # (path, line, stated) -- a stated FLOOR ("545+"), exempt by design
     for p in paths:
         text = p.read_text()
-        for term, start, end in glossary_blocks(text):
-            block = text[start:end]
-            for m in NUMBER_RE.finditer(block):
-                pos = start + m.start("num")
-                if text[start + m.end("num"):start + m.end("num") + 1] == "+":
-                    continue
-                if _excluded_by_context(text, pos):
-                    continue
-                after = text[start + m.end("num"):start + m.end("num") + 80].lstrip()
-                if CENSUS_TAG_RE.match(after):
-                    n_tagged += 1
-                elif OBSERVED_TAG_RE.match(after):
-                    n_marked += 1
+        for pos, end_abs, line, term, stated, skip in _figure_sites(text):
+            if skip == "floor":
+                excluded_floor.append((p, line, stated))
+                continue
+            if skip == "context":
+                excluded_context.append((p, line, stated))
+                continue
+            after = text[end_abs:end_abs + 80].lstrip()
+            if CENSUS_TAG_RE.match(after):
+                n_tagged += 1
+            elif OBSERVED_TAG_RE.match(after):
+                n_marked += 1
     # SAME PATH LIST check_citations() ACTUALLY CHECKED, not a fresh `SRC.glob()` that
     # re-includes this module and reports a citation nothing above verified (#311).
     n_cited = sum(len(cited_terms(Path(p).read_text())) for p in citable_paths())
     print(f"{n_tagged} figure(s) tagged to a census, {n_marked} marked as observations, "
           f"across {len(paths)} document(s); {n_cited} CONTEXT.md citation(s) across "
           f"src/*.py, every one naming a term CONTEXT.md carries")
+    # #315: a number this heuristic decided is an identifier, or a stated floor, is
+    # declared here rather than left indistinguishable from one that was checked and
+    # agreed -- "could not check is never reported as is not there" applied to an
+    # EXCLUSION, not just a failure. Printed every run, not gated behind a flag, so it
+    # stays visible. Two categories, named separately (AGENTS.md: name every category,
+    # the zeroes included) -- conflating them would say "identifier" of a number that is
+    # actually a stated floor, which is not what either skip means.
+    print(f"{len(excluded_context)} figure(s) excluded as identifiers (chapter/ORS/ADR/"
+          "month lists), not gated:")
+    for p, line, stated in excluded_context:
+        print(f"  {p}:{line} {stated!r}")
+    print(f"{len(excluded_floor)} figure(s) excluded as stated floors (a number "
+          "immediately followed by '+'), not gated:")
+    for p, line, stated in excluded_floor:
+        print(f"  {p}:{line} {stated!r}+")
     return 0
 
 
@@ -676,6 +762,49 @@ def selftest() -> int:
     got = fired(text)
     if got:
         fails.append(f"FAIL identifiers-are-not-figures: {got}")
+
+    # #315 RED: the OLD context-exclusion regex swallowed a real count sitting downstream
+    # of a citation-scheme word with a bare "and" and no digit of its own in between -- an
+    # untagged genuine count read as though it were one more item in an upstream list. The
+    # narrowed pattern must catch it as an ordinary unaccounted figure instead of excusing
+    # it silently.
+    # (Code review: asserting merely `"figure-is-accounted-for" not in got` does not
+    # discriminate here -- "12" itself, with nothing preceding it in the block, was
+    # ALREADY unaccounted for under the OLD regex too, so that assertion holds either
+    # way and proves nothing about the narrowing. The real property is that BOTH "12"
+    # and "43" are now unaccounted -- the OLD regex only ever caught "12".)
+    text = _fixture_glossary("12 divisions and 43 people attended, no tag at all")
+    got = fired(text)
+    if got.count("figure-is-accounted-for") != 2:
+        fails.append(
+            "FAIL context-exclusion-does-not-swallow-a-real-count-after-a-bare-and: "
+            f"want 2 unaccounted figures ('12' and '43'), got {got}")
+    text = _fixture_glossary("see chapters and 43 items filed, no tag at all")
+    got = fired(text)
+    if "figure-is-accounted-for" not in got:
+        fails.append(
+            "FAIL context-exclusion-requires-a-digit-before-the-word-can-exclude: "
+            f"{got}")
+
+    # #315: the exclusion is not just narrower, it is also OBSERVABLE -- every number the
+    # heuristic still passes over is reported, not left indistinguishable from one that was
+    # checked and agreed.
+    text = _fixture_glossary("see ADR 0006 and chapters 105, 122 and 128")
+    got = [(line, stated) for line, stated, skip in _skipped_figures(text)
+           if skip == "context"]
+    if sorted(v for _, v in got) != ["0006", "105", "122", "128"]:
+        fails.append(f"FAIL context-excluded-figures-are-reported: {got}")
+
+    # #315 code review: the report above covered the context-exclusion path only -- the
+    # SEPARATE `+`-floor exemption ("545+") was just as silently skipped by
+    # `check_figures` and just as silently absent from what got reported. It is live
+    # today, not hypothetical: CONTEXT.md's own *Chapter selection* entry states its one
+    # figure this way.
+    text = _fixture_glossary("545+ of Oregon's chapters, and growing")
+    got = [(line, stated) for line, stated, skip in _skipped_figures(text)
+           if skip == "floor"]
+    if [v for _, v in got] != ["545"]:
+        fails.append(f"FAIL floor-excluded-figures-are-reported: {got}")
 
     # An unreadable document is REFUSED, never reported as agreeing (CONTEXT.md's
     # overriding rule, applied to this gate itself).

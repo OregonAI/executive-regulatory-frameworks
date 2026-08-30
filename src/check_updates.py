@@ -38,8 +38,8 @@ from pathlib import Path
 
 import yaml
 
-from repo_lib import (REPO_ROOT, SCHEMA_DIR, SOURCES_DIR, content_files, content_hash,
-                      parse_frontmatter, source_groups)
+from repo_lib import (REPO_ROOT, SCHEMA_DIR, SOURCES_DIR, MissingContentDir, content_files,
+                      content_hash, parse_frontmatter, source_groups)
 
 SCHEMA = SCHEMA_DIR / "source-group.schema.json"
 
@@ -465,13 +465,166 @@ def check_schema(groups=None):
     return failures, len(groups)
 
 
+# --------------------------------------------------------- #287: chapter-html id accounting
+#
+# `source-group.schema.json` (`check_schema` above) validates SHAPE only: a `sources[].id`
+# is a string, full stop. It cannot say whether a `chapter-html` group's declared id
+# corresponds to anything real -- a `chapter-html` group's id is a SHARED SNAPSHOT id
+# (`ingest_ors.py`'s `snap_id = f"ors-chapter-{ch.lower()}"`, or the constitution's single
+# `oregon-constitution`), and every document sliced out of that snapshot carries it as its
+# `snapshot_id`. This closes HALF of that gap: an id must be either the `snapshot_id`/`id`
+# of some document this corpus actually holds, or -- `ors` only -- a chapter the ORS catalog
+# itself records as carrying zero sections.
+#
+# THE OTHER HALF IS STILL OPEN, and still #287: this only walks source-id -> document. #287
+# asks for an id that is "EXACTLY the snapshot ids its member documents declare" -- a
+# bidirectional property -- and a document carrying a chapter-shaped `snapshot_id` that NO
+# group declares (upstream adds a chapter and nobody updates `ors.yml`) is unwatched by
+# anything here. Left undone rather than folded into this pass on purpose: closing it needs
+# a real design call this comment cannot make for a future reader by itself -- which
+# documents in the WHOLE corpus count as "a chapter-html group's member" for this purpose
+# (a `snapshot_id` shape match risks a false positive on an unrelated future id that happens
+# to look like one), and that determination is exactly the kind of judgment AGENTS.md asks
+# be made deliberately, not folded into an unrelated pass as a side effect. Measured on the
+# corpus committed alongside this change: no live violation today (548 declared, 532 of them
+# document-backed, matching exactly the 532 chapter-shaped `snapshot_id`s the corpus holds)
+# -- latent, not live, which is why #287 stays open rather than being reopened as new.
+#
+# THAT SECOND BRANCH IS NOT DECORATION. Measured against the corpus committed alongside this
+# change (2026-08-29): of `ors.yml`'s 547 source ids, 16 name no document at all --
+# `ors-chapter-156`, `-181`, `-285`, `-286`, `-351`, `-419`, `-445`, `-472`, `-475b`, `-483`,
+# `-487`, `-579`, `-606`, `-657a`, `-722`, `-761`. Every one of those 16 IS a real chapter
+# in `_meta/catalog/ors.yml`, and every one carries `sections: []` -- the Oregon
+# Legislature's own "(Former Provisions)" chapters, repealed down to nothing but still
+# fetched and hashed here because an amendment REVIVING one would move the hash and this
+# corpus wants to notice. `ingest_ors.py` never writes a document for a chapter with no
+# sections, so these 16 ids legitimately name no document, by design, not by drift -- a
+# strict "every id equals some document's snapshot_id" gate would come up red on correct,
+# unchanged data on day one, which is worse than not gating at all (a gate that cries wolf
+# on its own committed corpus gets silenced, not trusted). The `constitution` group's own
+# single id (`oregon-constitution`) needs no such exemption: it names the one document
+# ADR 0005 mirrors the whole page into, with no per-chapter absence possible.
+#
+# THE EXEMPTION IS SCOPED BY GROUP NAME, not granted to every chapter-html group -- a
+# THIRD such group, were one ever added, would need either every source id to have a
+# document or its own accounting branch here, the same way `check_group()` already
+# special-cases `kind == "sp-listing"` by importing `sp_listing` rather than pretending
+# every kind reduces to the same shape.
+
+def _ors_empty_chapter_ids(catalog=None) -> set:
+    """Chapter-html source ids `_meta/catalog/ors.yml` itself records as carrying NO
+    sections -- read from the ONE place that decision is recorded (`ingest_ors.py` writes
+    `sections: []` there when a chapter's page prints no live section), not re-derived
+    here from the absence alone, because an absence with no recorded reason is exactly the
+    'could not check' AGENTS.md forbids reporting as 'is not there'. `catalog=None` reads
+    the committed file; a dict lets `--selftest` fire this against a synthetic catalog
+    without touching the real one. A catalog that cannot be read or parsed grants no
+    exemptions at all (empty set) rather than being silently skipped as if it had none to
+    give -- the caller still reports every id this leaves unaccounted for."""
+    if catalog is None:
+        try:
+            catalog = yaml.safe_load(
+                (REPO_ROOT / "_meta/catalog/ors.yml").read_text())
+        except (OSError, yaml.YAMLError):
+            return set()
+    return {f"ors-chapter-{c['chapter'].lower()}"
+            for c in catalog.get("chapters", []) if not c.get("sections")}
+
+
+_ChapterHtmlAccounting = namedtuple(
+    "_ChapterHtmlAccounting", "verified exempt failures content_dir_error")
+
+
+def _chapter_html_id_accounting(groups=None, doc_ids=None, ors_empty=None):
+    """The full per-id classification #287's rule is built on -- for every `chapter-html`
+    group's declared source id, which of three states it is in: VERIFIED (the
+    `snapshot_id`, or lacking one the `id`, of a document this corpus holds), EXEMPT
+    (the `ors` group only -- a chapter `_ors_empty_chapter_ids` says carries zero
+    sections by design), or unaccounted, which becomes a Failure -- #287's whole point.
+    `check_chapter_html_ids()` below is a thin wrapper returning only the `failures`
+    field, kept for the callers and proofs written against a plain failures list;
+    `cmd_check()`'s summary uses the full breakdown so an EXEMPTED id is never printed
+    identically to one actually matched to a document (AGENTS.md's overriding rule: a
+    skipped check is not a green one).
+
+    `doc_ids=None` reads the live corpus via `doc_paths_by_id()`, which walks
+    `content_files()` and can raise `MissingContentDir` -- #316's lesson applied here: a
+    missing or unreadable content dir is a corpus this process could not read, never one
+    confirmed to hold nothing. Caught and reported as a single named `Failure` (also
+    left on `content_dir_error` for a caller that wants the exception itself) rather than
+    raised, so `--check` fails toward one honest refusal instead of either a traceback or
+    -- worse -- every declared id coming back 'names nothing real', which would misdescribe
+    'could not check' as 'is not there'. On that path `verified`/`exempt` are both empty:
+    nothing below was accounted for one way or the other, not confirmed absent.
+
+    `doc_ids`/`ors_empty`/`groups` default to reading the live corpus, catalog and
+    `_meta/sources/` -- `None` for any of the three reads fresh, a value lets
+    `--selftest` fire this against a synthetic corpus without touching the real one."""
+    groups = list(source_groups() if groups is None else groups)
+    if doc_ids is None:
+        try:
+            doc_ids = set(doc_paths_by_id())
+        except MissingContentDir as e:
+            failure = Failure(
+                "chapter-html-content-dir-readable", "content_files()",
+                f"could not enumerate this corpus's documents to verify chapter-html "
+                f"source ids against them ({e}) -- a content directory that cannot be "
+                "read is never reported as an id naming nothing real")
+            return _ChapterHtmlAccounting(verified=set(), exempt=set(),
+                                           failures=[failure], content_dir_error=e)
+    ors_empty = _ors_empty_chapter_ids() if ors_empty is None else ors_empty
+    verified, exempt, failures = set(), set(), []
+    for gpath, g in groups:
+        if g.get("kind") != "chapter-html":
+            continue
+        group_exempt = ors_empty if g.get("group") == "ors" else set()
+        for s in g.get("sources", []):
+            sid = s.get("id")
+            if sid in doc_ids:
+                verified.add(sid)
+            elif sid in group_exempt:
+                exempt.add(sid)
+            else:
+                extra = (", and the ORS catalog does not record it as a zero-section "
+                         "chapter either" if g.get("group") == "ors" else "")
+                failures.append(Failure(
+                    "chapter-html-id-names-something-real", f"{gpath.name}/{sid}",
+                    f"{sid!r} is not the snapshot_id/id of any document in this "
+                    f"corpus{extra} -- a chapter-html source id must name something "
+                    "real, not just be a well-formed string"))
+    return _ChapterHtmlAccounting(verified=verified, exempt=exempt, failures=failures,
+                                   content_dir_error=None)
+
+
+def check_chapter_html_ids(groups=None, doc_ids=None, ors_empty=None) -> list:
+    """Failures for every `chapter-html` group's source id that names nothing real
+    (#287) -- the content half of what `check_schema` can only check the shape of. An id
+    is accounted for when it is the `snapshot_id` (or, lacking one, the `id`) of some
+    document this corpus holds, or -- the `ors` group only -- a chapter
+    `_ors_empty_chapter_ids` says carries zero sections by design. Every other
+    unaccounted id is reported: a `chapter-html` source id that is a well-formed string
+    and names nothing real is exactly the gap #287 opened this to close.
+
+    `doc_ids`/`ors_empty`/`groups` default to reading the live corpus, catalog and
+    `_meta/sources/` -- `None` for any of the three reads fresh, a value lets
+    `--selftest` fire this against a synthetic corpus without touching the real one.
+    Thin wrapper over `_chapter_html_id_accounting` -- see it for the full
+    verified/exempt/failures breakdown `cmd_check()`'s summary uses."""
+    return _chapter_html_id_accounting(groups, doc_ids, ors_empty).failures
+
+
 def cmd_check() -> int:
     """Report every cadence violation in the committed declaration, schema and groups,
-    plus every group in `_meta/sources/` that does not validate against
-    `source-group.schema.json` (#199)."""
-    failures = check_cadences()
-    schema_failures, schema_checked = check_schema()
+    every group in `_meta/sources/` that does not validate against
+    `source-group.schema.json` (#199), and every `chapter-html` source id that names
+    nothing real (#287)."""
+    groups = list(source_groups())  # read ONCE; every consumer below shares this list
+    failures = check_cadences(groups=groups)
+    schema_failures, schema_checked = check_schema(groups=groups)
     failures = failures + schema_failures
+    chapter_html_groups = [(p, g) for p, g in groups if g.get("kind") == "chapter-html"]
+    chapter_html = _chapter_html_id_accounting(groups=chapter_html_groups)
+    failures = failures + chapter_html.failures
     for f in failures:
         print(f"  FAIL [{f.rule}] {f.row}: {f.detail}", file=sys.stderr)
     if failures:
@@ -479,11 +632,25 @@ def cmd_check() -> int:
         return 1
     print(f"{len(CADENCES)} cadence(s) declared, each admitted by "
           f"{SCHEMA.name} with the interval it means")
-    print(f"groups per cadence: {cadence_census()}")
-    total_groups = len(list(source_groups()))
+    print(f"groups per cadence: {cadence_census(groups=groups)}")
+    total_groups = len(groups)
     checked_all = schema_checked == total_groups
     print(f"{schema_checked} of {total_groups} source group(s) validated against "
           f"{SCHEMA.name}" + ("" if checked_all else " (jsonschema not installed)"))
+    n_chapter_html_ids = sum(len(g.get("sources", [])) for _, g in chapter_html_groups)
+    print(f"{len(chapter_html.verified)} of {n_chapter_html_ids} chapter-html source "
+          f"id(s) across {len(chapter_html_groups)} group(s) verified to name a real "
+          "snapshot")
+    if chapter_html.exempt:
+        # A skipped check is not a green one (AGENTS.md's overriding rule) -- these ids
+        # were never compared against a document, they were excused BY NAME as
+        # zero-section "(Former Provisions)" chapters (#287, `_ors_empty_chapter_ids`).
+        # Printed identically to a verified id, this line would say "checked and agrees"
+        # for something that was "not gated, and here is why" instead.
+        print(f"{len(chapter_html.exempt)} more exempt as zero-section chapters, not "
+              "gated (the ORS catalog records them as carrying no sections):")
+        for sid in sorted(chapter_html.exempt):
+            print(f"  {sid}")
     if not checked_all:
         # A run that validated zero groups must not exit the way a run that validated
         # every one of them does — CONTEXT.md's overriding rule, applied to this gate's
@@ -694,6 +861,165 @@ def _proof_check_schema_reports_a_malformed_schema_rather_than_raising():
               file=sys.stderr)
         return 1
     return 0
+
+
+# ------------------------------------------------------------------------------------- #287
+
+def _proof_a_chapter_html_id_naming_nothing_real_is_reported():
+    """A `chapter-html` source id that is neither a document's `snapshot_id`/`id` NOR
+    (the group is not `ors`, so the exemption cannot even apply) a zero-section chapter.
+    `doc_ids=set()` and `ors_empty=set()` make this fixture fully synthetic -- no real
+    corpus document or real ORS catalog entry happens to coincidentally carry the invented
+    id, so a pass here would mean the rule never actually compared against anything."""
+    _, g = _group_fixture(kind="chapter-html", group="fixture-group",
+                          sources=[{"id": "fixture-chapter-999",
+                                    "url": "https://example.invalid/x",
+                                    "sha256": "0" * 64}])
+    failures = check_chapter_html_ids(
+        groups=[(SOURCES_DIR / "fixture-group.yml", g)], doc_ids=set(), ors_empty=set())
+    return "chapter-html-id-names-something-real", failures
+
+
+def _proof_chapter_html_id_accounting_is_scoped_correctly():
+    """The two ways #287's rule accounts for an id, and the one way its exemption must
+    NOT leak -- a rule proved only by its RED case (above) tells you it can fire, not
+    that it fires on the RIGHT thing. Three checks: (1) an id matching a document's own
+    `snapshot_id` is accounted for and never reported; (2) a zero-section chapter id is
+    accounted for under the `ors` group specifically -- the branch measured load-bearing
+    against the real corpus (16 of `ors.yml`'s 547 ids, see this module's #287 comment);
+    (3) the SAME zero-section exemption set does not excuse a differently-named
+    chapter-html group -- the exemption is scoped by group name, not granted to every
+    group of this kind."""
+    bad = 0
+    _, g_doc = _group_fixture(kind="chapter-html", group="fixture-group",
+                              sources=[{"id": "fixture-chapter-1",
+                                        "url": "https://example.invalid/x",
+                                        "sha256": "0" * 64}])
+    failures = check_chapter_html_ids(
+        groups=[(SOURCES_DIR / "fixture-group.yml", g_doc)],
+        doc_ids={"fixture-chapter-1"}, ors_empty=set())
+    if failures:
+        print(f"FAIL a source id matching a real document's snapshot_id must not be "
+              f"reported: {failures}", file=sys.stderr)
+        bad += 1
+
+    _, g_ors = _group_fixture(kind="chapter-html", group="ors",
+                              sources=[{"id": "ors-chapter-999",
+                                        "url": "https://example.invalid/x",
+                                        "sha256": "0" * 64}])
+    failures = check_chapter_html_ids(
+        groups=[(SOURCES_DIR / "ors.yml", g_ors)],
+        doc_ids=set(), ors_empty={"ors-chapter-999"})
+    if failures:
+        print(f"FAIL a zero-section ORS chapter id must be accounted for under the "
+              f"`ors` group: {failures}", file=sys.stderr)
+        bad += 1
+
+    _, g_other = _group_fixture(kind="chapter-html", group="fixture-group",
+                                sources=[{"id": "ors-chapter-999",
+                                          "url": "https://example.invalid/x",
+                                          "sha256": "0" * 64}])
+    failures = check_chapter_html_ids(
+        groups=[(SOURCES_DIR / "fixture-group.yml", g_other)],
+        doc_ids=set(), ors_empty={"ors-chapter-999"})
+    if not failures:
+        print("FAIL the ORS zero-section exemption leaked to a differently-named "
+              "chapter-html group", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_ors_empty_chapter_ids_reads_the_catalogs_own_accounting():
+    """`_ors_empty_chapter_ids` against a synthetic catalog: a chapter with `sections: []`
+    grants its (lowercased) id, a chapter WITH sections grants nothing, and a chapter
+    missing the key entirely (never populated) is treated the same as an explicit empty
+    list -- `not c.get("sections")` -- rather than raising or silently granting nothing
+    for a different, unintended reason. A catalog this cannot read grants NO exemptions
+    (empty set), not all of them -- the missing-file/unparsable case must fail toward
+    reporting more, never toward excusing more."""
+    bad = 0
+    catalog = {"chapters": [
+        {"chapter": "156", "sections": []},
+        {"chapter": "475B", "sections": []},
+        {"chapter": "10", "sections": [{"number": "10.010"}]},
+        {"chapter": "999"},
+    ]}
+    got = _ors_empty_chapter_ids(catalog)
+    want = {"ors-chapter-156", "ors-chapter-475b", "ors-chapter-999"}
+    if got != want:
+        print(f"FAIL _ors_empty_chapter_ids over a synthetic catalog: want {want}, "
+              f"got {got}", file=sys.stderr)
+        bad += 1
+
+    # THE UNREADABLE CASE fails toward reporting MORE, never toward excusing more: a
+    # catalog that cannot be read or parsed grants zero exemptions, so every id that
+    # would have relied on it is still reported unaccounted, exactly like #316's
+    # unreadable-content-dir lesson applied to this one exemption instead of the whole
+    # corpus walk.
+    global REPO_ROOT
+    import tempfile
+    orig_root = REPO_ROOT
+    with tempfile.TemporaryDirectory() as d:
+        REPO_ROOT = Path(d)  # no _meta/catalog/ors.yml under here at all
+        try:
+            got_missing = _ors_empty_chapter_ids()
+        finally:
+            REPO_ROOT = orig_root
+    if got_missing != set():
+        print(f"FAIL an unreadable ORS catalog must grant zero exemptions, got "
+              f"{got_missing}", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_chapter_html_accounting_reports_an_unreadable_content_dir_rather_than_raising():
+    """`_chapter_html_id_accounting()` calls `doc_paths_by_id()` when `doc_ids=None`,
+    which walks `content_files()` (#316: raises `MissingContentDir` on a missing or
+    unreadable declared content dir, never returns an empty corpus silently). Before
+    this proof existed, `cmd_check()` had no try/except around that call at all, so an
+    unreadable content dir turned `--check` into a traceback -- and worse, a caller that
+    DID catch it and substituted an empty `doc_ids` would have every one of 548 real
+    source ids come back 'names nothing real', misreporting 'could not check' as
+    'confirmed absent' (AGENTS.md's overriding rule, the one this whole file exists to
+    serve). Both failure shapes are checked: no raise escapes, and the single reported
+    Failure names the refusal rather than 548 fabricated ones."""
+    bad = 0
+    global doc_paths_by_id
+    orig = doc_paths_by_id
+
+    def _raises():
+        raise MissingContentDir("rules: declared but not on disk (fixture)")
+
+    doc_paths_by_id = _raises
+    try:
+        result = _chapter_html_id_accounting(
+            groups=[(SOURCES_DIR / "ors.yml",
+                     {"kind": "chapter-html", "group": "ors",
+                      "sources": [{"id": "ors-chapter-1"}]})])
+    except MissingContentDir as e:
+        print(f"FAIL _chapter_html_id_accounting raised MissingContentDir instead of "
+              f"reporting it: {e}", file=sys.stderr)
+        return bad + 1
+    finally:
+        doc_paths_by_id = orig
+
+    if result.verified or result.exempt:
+        print(f"FAIL an unreadable content dir must verify or exempt nothing, got "
+              f"verified={result.verified} exempt={result.exempt}", file=sys.stderr)
+        bad += 1
+    if len(result.failures) != 1:
+        print(f"FAIL an unreadable content dir must report exactly ONE refusal, not "
+              f"one-per-id: {result.failures}", file=sys.stderr)
+        bad += 1
+    elif result.failures[0].rule != "chapter-html-content-dir-readable":
+        print(f"FAIL the refusal must be distinguishable from 'names nothing real' by "
+              f"rule name, got {result.failures[0].rule!r}", file=sys.stderr)
+        bad += 1
+    if not isinstance(result.content_dir_error, MissingContentDir):
+        print(f"FAIL content_dir_error must carry the original exception, got "
+              f"{result.content_dir_error!r}", file=sys.stderr)
+        bad += 1
+    return bad
 
 
 def _proof_due_reports_an_undeclared_cadence_rather_than_raising():
@@ -1088,7 +1414,10 @@ _MEASURED = [_proof_due_reports_an_undeclared_cadence_rather_than_raising,
              _proof_two_groups_sharing_an_interval_on_opposite_phases_are_distinguished,
              _proof_due_reports_an_unreadable_phase_rather_than_raising,
              _proof_due_reports_a_phase_on_a_cadence_that_admits_none_rather_than_raising,
-             _proof_a_well_formed_phase_validates_against_the_committed_schema]
+             _proof_a_well_formed_phase_validates_against_the_committed_schema,
+             _proof_chapter_html_id_accounting_is_scoped_correctly,
+             _proof_ors_empty_chapter_ids_reads_the_catalogs_own_accounting,
+             _proof_chapter_html_accounting_reports_an_unreadable_content_dir_rather_than_raising]
 
 _PROOFS = [
     ("a cadence declared in the checker and not the schema",
@@ -1111,6 +1440,8 @@ _PROOFS = [
      _proof_a_source_entry_missing_a_required_field_is_reported),
     ("a source group declaring a misdeclared (non-ISO) recheck_phase",
      _proof_a_misdeclared_phase_fails_schema_validation),
+    ("a chapter-html source id naming nothing real",
+     _proof_a_chapter_html_id_naming_nothing_real_is_reported),
 ]
 
 
