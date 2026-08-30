@@ -28,7 +28,6 @@ relationships:
   implements:
     - oar-943-014-0000
     - oar-943-014-0465
-    - ors-1.010
   implemented_by: []
   references_external: []
   related:

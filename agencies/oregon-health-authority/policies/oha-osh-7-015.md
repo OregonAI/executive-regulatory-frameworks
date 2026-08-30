@@ -28,7 +28,6 @@ relationships:
   implements:
     - oar-309-035-0175
     - oar-333-505-0033
-    - ors-1.001
     - ors-127.700
     - ors-127.737
     - ors-179.485
@@ -37,7 +36,6 @@ relationships:
     - ors-426.395
     - ors-430.205
     - ors-430.210
-    - ors-7.015
   implemented_by: []
   references_external: []
   related: []

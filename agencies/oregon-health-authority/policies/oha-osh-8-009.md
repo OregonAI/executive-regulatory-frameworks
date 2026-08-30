@@ -29,7 +29,6 @@ relationships:
     - oar-166-300-0045
     - oar-437-001-0001
     - oar-437-002-2324
-    - ors-1.003
     - ors-654.001
     - ors-654.991
   implemented_by: []

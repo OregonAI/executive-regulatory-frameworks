@@ -28,7 +28,6 @@ relationships:
   implements:
     - oar-333-505-0030
     - oar-333-505-0040
-    - ors-1.001
     - ors-127.649
     - ors-127.703
     - ors-179.040

@@ -35,8 +35,6 @@ relationships:
     - oar-333-019-1025
     - oar-333-505-0040
     - oar-333-505-0070
-    - ors-1.001
-    - ors-1.010
   implemented_by: []
   references_external: []
   related: []

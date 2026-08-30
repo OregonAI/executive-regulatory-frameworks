@@ -27,12 +27,10 @@ maintainer: "@morficflux"
 relationships:
   implements:
     - oar-839-020-0050
-    - ors-1.001
     - ors-240.145
     - ors-240.240
     - ors-240.250
     - ors-240.551
-    - ors-9.010
   implemented_by: []
   references_external: []
   related:

@@ -37,7 +37,22 @@ from corpus_toolkit.mcp.framework import register_scheme
 # unnoticed as long as it did.
 ORS_CHAPTER_TOKEN = r"\d{1,3}[A-Za-z]?"
 ORS_SECTION_TOKEN = r"\d{3,4}"
-ORS_C = re.compile(rf"(?:ORS\s*)?({ORS_CHAPTER_TOKEN}\.{ORS_SECTION_TOKEN})\s*$", re.I)
+# The single-digit chapters (1/3/5/7/8/9) are also this corpus's own internal-numbering
+# shape — OSH "Policy 1.005", "Pharmacy protocol 1.010", DAS-OAM dotted ids, phone
+# numbers — and none of those carry an "ORS" prefix, while every single-digit ORS
+# citation actually held in this corpus does (measured: 0 counterexamples among 135
+# single-digit-chapter matches that resolve to a real ORS document across the corpus's
+# whole-body-scanned agency text — see the matching fix and measurement in
+# link_graph.ORS_RE). So unlike the 2-3-digit case below, where "ORS" stays optional (the
+# pre-#293 shape, safe because a wrong guess there is gated on actually resolving to a
+# held document — see the federal-schemes comment further down this file for the same
+# argument made about CFR), a single-digit chapter requires a literal "ORS" immediately
+# before it. Two branches sharing one capture group would require the same group number
+# to mean two different things depending on which branch fired, so this is genuinely two
+# groups; `_resolve_ors` reads whichever one is not None.
+ORS_C = re.compile(
+    rf"\bORS\s+(\d\.{ORS_SECTION_TOKEN})\s*$"
+    rf"|(?:ORS\s*)?(\d{{2,3}}[A-Za-z]?\.{ORS_SECTION_TOKEN})\s*$", re.I)
 OAR_RULE_C = re.compile(r"(?:OAR\s*)?(\d{3}-\d{3}-\d{4})\s*$", re.I)
 OAR_DIV_C = re.compile(r"(?:OAR\s*)?(\d{3}-\d{3})\s*$", re.I)
 EO_C = re.compile(r"(?:EO|Executive\s+Order)\s*(?:No\.?\s*)?(?:20)?(\d{2})-(\d{1,2})\s*$", re.I)
@@ -164,7 +179,27 @@ def _follow_renumbering(section, disp, hops_left=5):
 
 
 def _resolve_ors(m, nodes):
-    section = m.group(1).lower()
+    # #293's 3-to-4-digit SECTION widening means ORS_C's 2-3-digit-chapter branch now
+    # also matches the TAIL of a genuine three-part dotted/dashed number -- a das-oam
+    # policy id, a phone number, any `NNN.NNN.NNNN`-shaped string -- as if its last two
+    # groups were an ORS chapter and section (measured on real corpus text: the phone
+    # number `503.229.5408` in `agencies/department-of-environmental-quality/policies/
+    # deq-imd-7070200.md` matches as chapter 229 section 5408). Fixing this by reordering
+    # `register_scheme` calls does NOT work -- tried, measured, reverted: this framework
+    # (corpus-toolkit v1.31.1, the version this corpus actually pins and runs, not the
+    # "first pattern to match wins" model the comment above `register_scheme("ors", ...)`
+    # describes for an older one) tries EVERY scheme whose pattern matches and MERGES
+    # their candidates and notes -- registration order changes nothing about which one's
+    # note is reported. The actual fix has to be in the resolver: NUMS_C requires THREE
+    # dot/dash-separated numeric groups, so a string it also matches structurally cannot
+    # be a genuine 2-part ORS citation (ORS is always exactly chapter.section) -- checked
+    # here rather than assumed, because a chapter.section substring at the true end of a
+    # real citation string never has a THIRD numeric group in front of it.
+    if NUMS_C.search(m.string):
+        return []
+    # ORS_C has two capture groups (single-digit chapter, ORS-prefix mandatory; 2-3-digit
+    # chapter, prefix optional) — exactly one is non-None depending on which branch matched.
+    section = (m.group(1) or m.group(2)).lower()
     cid = f"ors-{section}"
     if cid in nodes:
         return [cid]
@@ -391,10 +426,10 @@ def _resolve_nums(m, nodes):
 #
 # REGISTERED FIRST, and this ordering is load-bearing -- it also fixes a PRE-EXISTING bug.
 #
-# ORS_C is `(?:ORS\s*)?(ORS_CHAPTER_TOKEN\.ORS_SECTION_TOKEN)\s*$`: the "ORS" is OPTIONAL,
-# so the pattern matches any bare NNN.NNN (or NNN.NNNN) at the end of a string. Registered
-# ahead of these, it captured `2 CFR 200.332` and derived `ors-200.332`, and
-# `45 CFR 75.352` -> `ors-75.352`.
+# ORS_C's 2-3-digit-chapter branch keeps "ORS" OPTIONAL (the single-digit-chapter branch
+# does not, see the comment above ORS_C itself), so the pattern still matches a bare
+# NNN.NNN (or NNN.NNNN) at the end of a string. Registered ahead of these, it captured
+# `2 CFR 200.332` and derived `ors-200.332`, and `45 CFR 75.352` -> `ors-75.352`.
 # First pattern to MATCH wins whether or not it resolves, so the federal schemes never ran.
 #
 # That has been happening since before this change; it produced misses rather than wrong
@@ -592,6 +627,7 @@ def _selftest() -> int:
         _proof_federal_schemes_survive_registration(ck, fw)
         _proof_ors_unmirrored_chapter_states_absence(ck, fw)
         _proof_ors_chapter_and_section_widths(ck, fw)
+        _proof_ors_does_not_shadow_das_oam_number(ck, fw)
     return ck.report("citation-schemes selftest")
 
 
@@ -931,24 +967,77 @@ def _proof_ors_chapter_and_section_widths(ck, fw):
     citation had to survive `ORS_C`'s match first to reach it at all -- the fix is a
     shared token, not a second widening of the same question.
 
-    Every case here resolves a REAL HELD DOCUMENT through `fw.resolve_citation` -- the
-    served path -- because a proof the pattern object matches is not a proof the resolver
-    answers (#202's own lesson, one scheme over): `statutes/ors-1.001.md`,
-    `ors-9.005.md` and `ors-71.1010.md` all exist on disk before this proof runs.
+    Every positive case here resolves a REAL HELD DOCUMENT through `fw.resolve_citation`
+    -- the served path -- because a proof the pattern object matches is not a proof the
+    resolver answers (#202's own lesson, one scheme over): every id asserted below has a
+    file on disk (`statutes/ors-<id-without-prefix>.md`) before this proof runs.
 
       * ORS 1.001, ORS 9.005 -- single-digit chapters (1 = "General Provisions", 9 =
         "Limitations"), refused by the old floor before ever reaching `_resolve_ors`.
       * ORS 71.1010 -- the UCC chapters (71-80) number sections in 4 digits, not 3; the
         old `\\.\\d{3}` tail refused these the same way, one token over.
+      * ORS 79A.1010, ORS 163A.005, ORS 86A.095 -- lettered chapters, held (79A.1010 is
+        the SAME shape as 71.1010: a lettered chapter with a 4-digit section, newly
+        enabled by the SAME fix, not exercised above), omitted from every one of the
+        review that found this gap's six predecessors and the review that closed it.
       * ORS 12.010, ORS 151.010 -- 2- and 3-digit-chapter controls, already working before
         this fix; asserted here so a future edit to the chapter token cannot silently
-        narrow back past what already worked."""
+        narrow back past what already worked.
+
+    ONE NEGATIVE CASE, the regression a five-positives-zero-negatives proof could not
+    catch and in fact did not: widening the chapter floor to 1 digit also made every
+    bare (no "ORS" prefix) `N.NNN`-shaped string in this corpus's own internal document
+    numbering -- OSH "Policy 1.005", "Pharmacy protocol 1.010", and the like -- match as
+    an ORS citation and resolve to an unrelated real statute. `'OSH Policy 1.005'` is a
+    real string this corpus holds (`agencies/oregon-health-authority/policies/oha-
+    osh-1-005.md`'s own `citation:` frontmatter field) and `ors-1.005` is a real held
+    document ("Credit card transactions...", nothing to do with IT hardware) -- so this
+    is not a synthetic fixture, it is the actual failure the graph-edge audit found,
+    reproduced through the same served path the positive cases above use."""
     for section, cid in (("ORS 1.001", "ors-1.001"), ("ORS 9.005", "ors-9.005"),
-                        ("ORS 71.1010", "ors-71.1010"), ("ORS 12.010", "ors-12.010"),
-                        ("ORS 151.010", "ors-151.010")):
+                        ("ORS 71.1010", "ors-71.1010"), ("ORS 79A.1010", "ors-79a.1010"),
+                        ("ORS 163A.005", "ors-163a.005"), ("ORS 86A.095", "ors-86a.095"),
+                        ("ORS 12.010", "ors-12.010"), ("ORS 151.010", "ors-151.010")):
         r = fw.resolve_citation(section)
         ck(f"{section!r} resolves to the held document {cid!r}",
            [m["id"] for m in r["matches"]] == [cid])
+
+    r = fw.resolve_citation("OSH Policy 1.005")
+    ck("'OSH Policy 1.005' (an internal agency policy number, not an ORS citation) "
+       "does NOT resolve to ors-1.005",
+       "ors-1.005" not in [m["id"] for m in r["matches"]])
+
+
+def _proof_ors_does_not_shadow_das_oam_number(ck, fw):
+    """#293's SECTION widening (3-to-4 digits) has a second edge, distinct from the
+    chapter-floor false-positive above: it lets `ORS_C`'s 2-3-digit-chapter branch match
+    the TRAILING TWO groups of a genuine three-part dotted/dashed number -- a das-oam
+    policy id, a phone number, anything shaped `NNN.NNN.NNNN` -- as if they were an ORS
+    chapter and section. `'503.229.5408'` is not a fixture: it is the phone number in
+    `agencies/department-of-environmental-quality/policies/deq-imd-7070200.md`, and
+    `_resolve_ors` used to answer it with "this corpus does not mirror ORS chapter 229"
+    -- a specific, false claim about a chapter number that exists only as a misparse of
+    someone's phone number.
+
+    TRIED AND REVERTED before landing this: reordering `register_scheme("das-oam-number",
+    ...)` ahead of `register_scheme("ors", ...)` so the more specific pattern would win.
+    It does not change the answer, measured, because corpus-toolkit v1.31.1 (what this
+    corpus actually pins and runs) does not do first-pattern-wins -- it tries every
+    scheme whose pattern matches and merges their candidates and notes, so registration
+    order was never the mechanism. The comment above `register_scheme("ors", ...)`
+    describing "First pattern to MATCH wins" is about an older corpus-toolkit shape, not
+    this one; left alone here because rewriting it is not part of what this proof closes,
+    but the mechanism THIS fix relies on is not that comment's, and this docstring says so
+    rather than repeat the same assumption a second place. The real fix lives in
+    `_resolve_ors`: `NUMS_C` requires three dot/dash-separated numeric groups, which no
+    genuine 2-part ORS citation ever has, so a string `NUMS_C` also matches structurally
+    cannot be one -- checked directly rather than raced through registration order."""
+    r = fw.resolve_citation("503.229.5408")
+    ck("'503.229.5408' (a phone number this corpus holds, not a citation) resolves "
+       "to nothing", r["matches"] == [])
+    ck("...and the note does not claim a specific ORS chapter 229 is unmirrored -- that "
+       "chapter number is an artifact of the misparse, not a real citation",
+       "chapter 229" not in (r.get("note") or ""))
 
 
 def _proof_federal_schemes_survive_registration(ck, fw):

@@ -37,7 +37,6 @@ relationships:
     - ors-659a.150
     - ors-659a.186
     - ors-659a.306
-    - ors-9.010
   implemented_by: []
   references_external: []
   related: []
