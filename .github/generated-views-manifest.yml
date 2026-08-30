@@ -59,6 +59,9 @@ gates:
   - name: "Ingest-status vocabulary rule must be able to fail"
     seconds: 0.0
     shard: 4
+  - name: "Verification-stamp rule must be able to fail"
+    seconds: 0.34
+    shard: 4
   - name: "Shared corpus-walk and division-status rules must both be able to fail"
     seconds: 0.0
     shard: 4
@@ -211,6 +214,9 @@ gates:
     shard: 1
   - name: "Ingest-status vocabulary must be declared once"
     seconds: 0.0
+    shard: 1
+  - name: "Ingest scripts must not write a verification stamp nobody earned"
+    seconds: 0.35
     shard: 1
   - name: "Legal status must be written once and read everywhere else"
     seconds: 6.4

@@ -11,6 +11,34 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-08-30 — **#295 found `ingest_ors.py`, `ingest_eo.py`, `ingest_policies.py` and
+  `ingest_constitution.py` writing a fabricated `last_verified`/`verified_by` value at
+  ingestion time (AGENTS.md rule 6: those fields are the human reviewer's alone to set, at
+  approval); this closes it with a fix AND a gate, not just the fix.** All four generators
+  now write both fields empty, matching the two OCR scripts (`ocr_fallback_eo.py`,
+  `ocr_promote.py`) that already did it correctly. Every document across the affected
+  content roots carrying the fabricated value from those four generators is un-stamped back
+  to empty — a verification claim nobody made is worse than an honestly empty one, whatever
+  the count.
+
+  The gate is `src/verification_stamp.py` (`--check`/`--selftest`, wired into CI): an AST
+  scan of every `src/*.py` except itself for a write to either field that is not the
+  literal empty string. A review of this fix found and closed three gaps in the gate before
+  it landed: (1) its field-value regex matched only `"..."`, missing the single-quoted
+  spelling this corpus's own retention-schedule generator (780b192a53) already writes and a
+  bare-unquoted spelling nothing stops a future generator from using — proved live with two
+  synthetic evasion scripts that passed `--check` clean before the fix; (2) its population
+  was `SRC.glob("ingest_*.py")`, a name-prefix filter that excluded `ocr_promote.py` and
+  `ocr_fallback_eo.py` — the gate's own docstring names them as the correct exemplars — and
+  a live mutation of `ocr_promote.py` to write a fabricated stamp passed `--check` clean
+  under that population; the population is now every `src/*.py`, with the gate excluding
+  only itself (the one file whose job is to talk ABOUT this shape); (3) widening the AST
+  walk to a bare-value match introduced a false-positive path of its own (an f-string's
+  interpolation boundary visited twice by `ast.walk()`, `_joinedstr_child_ids()`), caught
+  by this fix's own adversarial testing and closed before landing, not left for a later
+  review. `--selftest` now proves all of the above, including that a module explaining this
+  rule in its own docstring cannot fail it by quoting the forbidden shape in prose.
+
 - 2026-08-28 — **Code review of #281 found five fabricated or inverted figures in the
   commit that added the Oregon Hemp Commission's registry row, two of them load-bearing
   evidence quoted in the commit's own message and therefore uncorrectable there** (this

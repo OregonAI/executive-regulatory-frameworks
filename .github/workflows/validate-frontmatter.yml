@@ -308,6 +308,23 @@ jobs:
       - name: Legal status must be written once and read everywhere else
         timeout-minutes: 2
         run: python3 src/legal_status.py --check
+      # AGENTS.md rule 6: ingestion writes `last_verified`/`verified_by` as empty strings
+      # -- the human reviewer sets them at approval, never the pipeline. #109 un-stamped
+      # every document carrying a fabricated value and fixed the generators that wrote
+      # them; #295 found the fix had not reached `ingest_ors.py`, `ingest_eo.py`,
+      # `ingest_policies.py` or `ingest_constitution.py`, which still wrote
+      # `last_verified: "{TODAY}"` (a rule stated in AGENTS.md, demonstrated correctly by
+      # two OCR scripts in this same repo, and enforced by nothing). This is that gate --
+      # an AST scan of every `src/*.py` except this gate itself (discovered by glob, not a
+      # hand-typed list or a name-prefix filter -- a review of this fix found the original
+      # `ingest_*.py`-only glob excluded the two OCR scripts named above) for a write to
+      # either field that is not the literal empty string, double-quoted, single-quoted,
+      # or bare -- catching a hardcoded non-empty literal the same way it catches an
+      # f-string interpolation (the #293 warning: a scanner built for only the one shape
+      # found would miss the other). ~0.1 s, reads committed source only, no network.
+      - name: Ingest scripts must not write a verification stamp nobody earned
+        timeout-minutes: 2
+        run: python3 src/verification_stamp.py --check
       # A number written in CONTEXT.md's prose against the measurement that produces it
       # (#306): five figures went stale there while every generated view stayed current
       # (#304), the fifth hand sweep of one shape -- an anchored `<!--census:ns.key-->` tag
@@ -695,6 +712,20 @@ jobs:
       - name: Ingest-status vocabulary rule must be able to fail
         timeout-minutes: 2
         run: python3 src/ingest_status.py --selftest
+      # The verification-stamp rule itself must be able to fail (#295): a double- and a
+      # single-quoted f-string interpolation, a quoted and a bare hardcoded non-empty
+      # literal, and a docstring-only mention (which must NOT fire) are each fired against
+      # a synthetic module; an unparseable module is caught rather than passed as clean; a
+      # real file dropped into src/ under any name (not only `ingest_*`) proves the
+      # population is discovered by glob rather than a hand-typed list or a name-prefix
+      # filter; the two OCR scripts this gate's own docstring names as exemplars are
+      # confirmed present in the scanned population by name; and the real committed
+      # `src/*.py` (excluding this gate itself) are separately proved to agree with a
+      # clean scan. `check_rule_ledger`-gated in both directions, same shape as the rule
+      # above.
+      - name: Verification-stamp rule must be able to fail
+        timeout-minutes: 2
+        run: python3 src/verification_stamp.py --selftest
       # #316/#298: content_files() used to treat a missing declared CONTENT_DIR as an empty
       # one, and division_status() collapsed five distinct rule-composition states into one
       # word. `check_rule_ledger`-gated in both directions, same shape as the rule above.

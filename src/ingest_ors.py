@@ -164,8 +164,8 @@ status: current
 supersedes: null
 content_mode: verbatim
 conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
-last_verified: "{TODAY}"
-verified_by: "@morficflux"
+last_verified: ""
+verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements: []

@@ -364,10 +364,11 @@ def render(q, cat_items, body_counts):
 
     L += ["## Standing item: human verification stamps",
           "",
-          "`verified_by`/`last_verified` across the corpus record *machine* verification at",
-          "ingestion time. No document has yet had a human read-through against its official",
-          "source. When you review a file, update its `last_verified` to that date — that is",
-          "the attestation the review gates call for. Corpus size by directory:",
+          "`verified_by`/`last_verified` are written empty at ingestion time (AGENTS.md:",
+          "never a stamp nobody earned) and stay that way until a human reads the document",
+          "against its official source. When you review a file, update its `last_verified`",
+          "to that date — that is the attestation the review gates call for. Corpus size",
+          "by directory:",
           ""]
     for k in sorted(body_counts):
         L.append(f"- `{k}/`: {body_counts[k]} documents")

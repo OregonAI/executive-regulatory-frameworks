@@ -335,8 +335,8 @@ conversion_notes: "{conv.replace('"', "'")}"
         common += f"""content_mode: summary
 content_exception: "{exception}"
 """
-    common += f"""last_verified: "{TODAY}"
-verified_by: "@morficflux"
+    common += f"""last_verified: ""
+verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements: []

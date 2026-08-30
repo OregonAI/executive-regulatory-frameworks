@@ -377,8 +377,8 @@ status: current
 supersedes: null
 content_mode: verbatim
 conversion_notes: "sliced the section's text out of the shared constitution snapshot (one page carries all 18 articles); line breaks inserted at subsection markers (whitespace-only)"
-last_verified: "{today}"
-verified_by: "@morficflux"
+last_verified: ""
+verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements: []
