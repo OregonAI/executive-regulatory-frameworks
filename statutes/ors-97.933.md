@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-97.933
-title: "Certification of provider of prearrangement or preconstruction sales; rules; annual reports; audits; fees"
+title: "Certification of provider of prearrangement or preconstruction sales; annual reports; rules; audits; fees"
 doc_type: statute
 citation: "ORS 97.933"
 authority_level: statute
@@ -49,11 +49,11 @@ tags: ["ors", "chapter-97"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors097.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Certification of provider of prearrangement or preconstruction sales; rules; annual reports; audits; fees (ORS 97.933)
+# Certification of provider of prearrangement or preconstruction sales; annual reports; rules; audits; fees (ORS 97.933)
 
 ## At a glance
 
-ORS 97.933 — Certification of provider of prearrangement or preconstruction sales; rules; annual reports; audits; fees. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
+ORS 97.933 — Certification of provider of prearrangement or preconstruction sales; annual reports; rules; audits; fees. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
 
 ## Full text
 

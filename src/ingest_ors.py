@@ -90,18 +90,27 @@ def anchor_ok(slice_text: str, sec: str, title: str) -> bool:
 
     Neither tolerance is a proof that every divergence beyond it is harmless --
     measured against every currently-ingested section (37,534, against the committed
-    chapter snapshots), 21 titles diverge from their own printed catchline in ways
-    this function still correctly refuses: a word missing from the catalog title that
-    the printed catchline carries (468A.830's catalog title ends "...impacts of
-    smoke"; the printed catchline reads "...impacts of wildfire smoke"), words
-    reordered (624.020's catalog title orders "fee payment; rules", the printed
-    catchline orders "rules; fee payment"), and a catalog title itself shorter than
-    the real catchline it truncated nothing from (315.123's catalog title is 8
-    words against the printed catchline's line-wrapped "record- keeping", 9) --
-    catalogued in full at OregonAI/executive-regulatory-frameworks#286 rather than
-    tuned away here. A missing word, a reorder, or a genuinely different word at a
-    shared position is never a one-sided prefix of the other, so none of the 21 are
-    let through by the tolerance above -- only inflection and truncation are.
+    chapter snapshots), 21 titles diverged from their own printed catchline in ways
+    this function still correctly refuses, catalogued in full at
+    OregonAI/executive-regulatory-frameworks#286: a word missing from the catalog
+    title that the printed catchline carries, words reordered, a catalog title itself
+    shorter than the real catchline it truncated nothing from, and two `catalog_ors.py`
+    parser bugs (a bare TOC heading fragment captured in place of the real catchline;
+    an in-catchline "ORS N.NNN to N.NNN" cross-reference mistaken for a TOC-entry
+    boundary, truncating the entry that names it). 18 of the 21 are now corrected by
+    hand in `_meta/catalog/ors.yml` (`src/backfill_ors_286_titles.py`, run once) --
+    verified against the section's own printed catchline exactly as this function
+    checks it, not tuned away here. THREE are left AS-IS, all for the same reason: the
+    catalog title is already correct and the printed SOURCE carries the defect --
+    341.305's catalog title reads "tax levy" against the chapter-341 snapshot's own
+    typo ("tex levy"); 315.123 and 470.540 read "recordkeeping"/"timetable" against a
+    mid-word hyphen the source's own line-wrapped PDF-to-text extraction introduced
+    ("record- keeping"/"time- table") where that same chapter's TOC prints the word
+    cleanly. A fact about the source, never laundered into the catalog to make this
+    check pass (CONTEXT.md's Access-failure/Upstream-drift split). A missing word, a
+    reorder, or a genuinely different word at a shared position is never a one-sided
+    prefix of the other, so none of these were ever let through by the tolerance
+    above -- only inflection and truncation are.
     """
     if not slice_text.startswith(sec):
         return False
@@ -389,33 +398,53 @@ def _proof_a_measured_residual_is_named_not_absorbed(ck):
     defect would be indistinguishable from one that checks nothing. Measured against
     the full currently-ingested corpus (37,534 sections, `_meta/catalog/ors.yml` +
     every committed `_meta/snapshots/ors-chapter-*.txt`): 37,510 pass (99.94%); 3 have
-    no section-length slice at all and never reach `anchor_ok`; 21 titles diverge from
+    no section-length slice at all and never reach `anchor_ok`; 21 titles diverged from
     the section's own printed catchline by more than this function's inflection/
     truncation tolerance -- filed as OregonAI/executive-regulatory-frameworks#286
     rather than silently patched here (6 of #286's original 27 -- 137.593, 197A.302,
     249.850, 480.560, 673.370, 708A.475 -- turn out to be nothing but a plural or
     similar inflection at a non-final word, and now pass under this function's
     any-position prefix tolerance rather than sit in that list marked correctly-
-    anchored-but-refused). Re-running that full scan on every selftest would cost the
-    better part of a minute for no new information (the 21 are a fixed, filed list),
-    so this proof instead pins one of them as a fast regression check that the
-    refusal for a genuinely bad title still fires, without re-deriving the other 20.
+    anchored-but-refused). 18 of the remaining 21 are now hand-corrected
+    (`src/backfill_ors_286_titles.py`); THREE -- 341.305, 315.123, 470.540 -- are
+    deliberately left diverging, all for the same reason: the catalog title is already
+    right and the printed SOURCE carries the defect (341.305: a typo, "tex levy" for
+    "tax levy"; 315.123/470.540: a mid-word hyphen from the source's own line-wrapped
+    PDF-to-text extraction, "record- keeping"/"time- table" where the chapter's own TOC
+    prints "recordkeeping"/"timetable" cleanly), so correcting the CATALOG to match
+    would mean writing the source's own error into a curated field, the opposite of
+    what this function exists to catch. An earlier version of the 315.123/470.540
+    backfill got this backwards -- writing the hyphenated artifact INTO the catalog and
+    the ingested files -- caught in code review and reverted before landing, on exactly
+    the reasoning #286's own follow-up comment already applied to 341.305. Re-running
+    that full scan on every selftest would cost the better part of a minute for no new
+    information (the residual is now a fixed, permanent list of exactly these three
+    rows), so this proof instead pins all three as a fast regression check that the
+    refusal for a genuinely-diverging title still fires, for both of the two distinct
+    reasons a printed source can diverge from a correct catalog.
 
-    452.300's title is read from `_catalog_titles()`, not pinned as a string literal:
-    today the catalog holds "VECTOR" against a real printed catchline of "Oregon Health
-    Authority vector control program", and this check is refused as it should be: but a
-    literal "VECTOR" would keep passing, testing nothing about the corpus, on the day
-    #286's own remedy corrects that row's title by hand. Reading the catalog makes the
-    check self-maintaining instead -- it starts failing the moment the row it is about
-    stops being a defect, which is the signal a human should update the pinned section
-    (or drop this proof for a still-open one from the #286 list)."""
+    Every title is read from `_catalog_titles()`, not pinned as a string literal: this
+    proof starts failing the moment either side of any comparison changes (a catalog
+    title drifting, or oregonlegislature.gov correcting its own upstream defect), which
+    is the signal a human should re-examine these pins rather than a silent stale
+    pass."""
     titles = _catalog_titles()
-    raw_txt = (SNAPSHOT_DIR / "ors-chapter-452.txt").read_text(encoding="utf-8", errors="replace")
-    sl = snapshot_slice("ors-452.300", "ors-chapter-452", raw_txt)
-    ck("452.300: real slice found", len(sl) > 0)
-    ck(f"452.300: refused — catalog title {titles['452.300']!r} is not this section's "
-       "printed catchline (#286), and the fix must not paper over that with a looser "
-       "match", not anchor_ok(sl, "452.300", titles["452.300"]))
+    cases = [
+        ("341", "341.305", "a typo -- 'tex levy' for 'tax levy'"),
+        ("315", "315.123", "a line-wrap hyphenation artifact -- 'record- keeping' where "
+                            "the chapter's own TOC prints 'recordkeeping'"),
+        ("470", "470.540", "a line-wrap hyphenation artifact -- 'time- table' where the "
+                            "chapter's own TOC prints 'timetable'"),
+    ]
+    for ch, sec, why in cases:
+        raw_txt = (SNAPSHOT_DIR / f"ors-chapter-{ch}.txt").read_text(encoding="utf-8",
+                                                                       errors="replace")
+        sl = snapshot_slice(f"ors-{sec}", f"ors-chapter-{ch}", raw_txt)
+        ck(f"{sec}: real slice found", len(sl) > 0)
+        ck(f"{sec}: refused — catalog title {titles[sec]!r} does not word-for-word match "
+           f"this section's own printed catchline (#286: the PRINTED SOURCE carries "
+           f"{why} -- the catalog is right and must not be changed to match it)",
+           not anchor_ok(sl, sec, titles[sec]))
 
 
 def _proof_a_refusal_never_publishes_through_the_real_consumer(ck):

@@ -28,7 +28,40 @@ from repo_lib import (REPO_ROOT, content_files, extract_fulltext, parse_frontmat
 GRAPH = REPO_ROOT / "_meta/graph.json"
 OAR_CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
 
-ORS_RE = re.compile(r"\b(\d{2,3}[A-Z]?\.\d{3})\b")
+# #293: the same chapter/section digit-count question `citation_schemes.ORS_C` answers,
+# widened the same way and for the same reason — measured on this corpus, not assumed
+# (see the comment above `citation_schemes.ORS_CHAPTER_TOKEN`). Duplicated rather than
+# imported: `citation_schemes` imports FROM this module (`build_renumber_map`), so the
+# reverse import would be circular; `repo_lib` is the natural shared home if a third site
+# ever needs this token.
+#
+# NOT a no-op on the committed corpus — an earlier version of this comment claimed it was
+# and that was false, disproved by this same commit: `rules/137/003/oar-137-003-0002.md`'s
+# own "Statutes/Other Implemented:" line reads "ORS 9.320, 183.341(1), ...", a single-digit
+# chapter, and `rules/137/055/oar-137-055-5030.md` cites "ORS 73.0114 & 73.0401", a 4-digit
+# UCC section — both real, both previously invisible to this floor.
+#
+# The single-digit-chapter half of the widening is ALSO what turned this function's
+# whole-body scan (below, `authority_text`'s OHA/DHS/OWEB/PUC/DEQ branch) into a false-
+# positive generator: those agencies' own internal numbering (OSH "Policy 1.005",
+# "Pharmacy protocol 1.010", DOC "protocol 1.002", ...) is chapter-shaped and 1-9-chapter-
+# heavy, and unlike a real ORS citation it never carries an "ORS" prefix. Measured graph-
+# edge audit (main vs this branch): of 212 added directed edges, 204 involve a single-
+# digit-chapter id and every one of those is spurious (verified against each source
+# document's own text — none contains the word "ORS" near the number); the other 8 involve
+# a 2-3-digit chapter picking up the new 4-digit section width (ORS 72.6010/72.7250,
+# 73.0114/73.0401) and every one of those is a real citation, "ORS" prefix and all.
+# Requiring a literal "ORS" immediately before a single-digit chapter — never optional,
+# unlike the 2-3-digit case's still-optional prefix, which is what #293 needed and is safe
+# because it is gated on the id resolving to a real held document either way — closes the
+# false-positive hole without narrowing what #293 fixed: every single-digit ORS citation
+# actually cited in this corpus's whole-body-scanned text already carries an explicit
+# "ORS" prefix (measured: 0 counterexamples among 135 single-digit-chapter matches that
+# resolve to a real ORS document, across the 5 whole-body-scanned agencies).
+ORS_RE = re.compile(
+    r"\bORS\s+(\d\.\d{3,4})\b"            # single-digit chapter: "ORS" prefix mandatory
+    r"|\b(\d{2,3}[A-Z]?\.\d{3,4})\b"      # 2-3-digit chapter: prefix optional, as before #293
+)
 OAR_RULE_RE = re.compile(r"\b(\d{3}-\d{3}-\d{4})\b")
 OAR_DIV_RE = re.compile(r"OAR\s+(\d{3}-\d{3})(?!-)")
 DIV_LINK_CAP = 12  # division-level citations link all its rules only if small
@@ -181,7 +214,8 @@ def authority_text(fm, body):
 def resolve_citations(text, docs, rule_map, div_map, rules_by_div, self_id, ors_renumber_map):
     """Set of in-repo ids this authority text cites."""
     out = set()
-    for sec in ORS_RE.findall(text):
+    for single_digit, wider in ORS_RE.findall(text):
+        sec = single_digit or wider
         tid = f"ors-{sec.lower()}"
         if tid in docs:
             out.add(tid)

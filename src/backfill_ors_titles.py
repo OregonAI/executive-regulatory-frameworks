@@ -14,6 +14,17 @@ each patched file (full text, citations, dates, verified_by, etc.) is left untou
 
   python3 src/backfill_ors_titles.py            # apply
   python3 src/backfill_ors_titles.py --check    # report only, no writes; exit 1 if any diff
+
+REFUSES to touch a section number `backfill_ors_286_titles.FIXES` claims (#292's own code
+review). This is unscoped and rerunnable, unlike that module — for two of its rows
+(735.345, 824.200) `parse_toc()`'s TOC-derived text is a KNOWN-WRONG source (the section's
+own catchline differs between the chapter's TOC and its body; `anchor_ok` and this
+document's own `## Full text` are anchored to the body, not the TOC — see that module's
+docstring for the measured evidence). Without this refusal, rerunning this tool after
+`backfill_ors_286_titles.py` would silently overwrite those two hand-verified,
+body-anchored titles with the TOC-derived one it was specifically NOT applied there
+because it disagrees with the ground truth `anchor_ok` checks against — re-diverging a row
+this repository already paid to get right.
 """
 import re
 import sys
@@ -48,11 +59,22 @@ def patch_statute_file(path: Path, sec: str, ch: str, ch_title: str, old_title: 
     return n
 
 
+def _protected_sections():
+    """Section numbers a hand-verified backfill has already settled — never overwritten
+    by this module's own bulk, TOC-derived re-parse. Imported lazily (not at module top)
+    so the two modules' mutual `patch_statute_file`/`FIXES` dependency does not become a
+    circular top-level import — by the time `main()` runs, both modules load cleanly
+    either order."""
+    from backfill_ors_286_titles import FIXES
+    return set(FIXES)
+
+
 def main():
     check = "--check" in sys.argv
     cat = yaml.safe_load(CATALOG.read_text())
+    protected = _protected_sections()
 
-    n_chapters = n_section_diffs = n_files_patched = n_incomplete = 0
+    n_chapters = n_section_diffs = n_files_patched = n_incomplete = n_protected = 0
     for c in cat["chapters"]:
         ch = c["chapter"]
         snap = SNAP / f"ors-chapter-{ch.lower()}.txt"
@@ -66,6 +88,9 @@ def main():
         for s in c["sections"]:
             new_title = new_by_num.get(s["number"])
             if not new_title or new_title == s["title"]:
+                continue
+            if s["number"] in protected:
+                n_protected += 1
                 continue
             n_section_diffs += 1
             old_title = s["title"]
@@ -87,18 +112,21 @@ def main():
         if touched:
             n_chapters += 1
 
+    protected_note = (f" ({n_protected} protected row(s) skipped — see "
+                      f"backfill_ors_286_titles.FIXES)" if n_protected else "")
     if check:
         if n_section_diffs:
             print(f"FAILED: {n_section_diffs} section title(s) across catalog would change — "
-                  "run: python3 src/backfill_ors_titles.py")
+                  f"run: python3 src/backfill_ors_titles.py{protected_note}")
             sys.exit(1)
-        print("OK: catalog section titles match the fixed parser.")
+        print(f"OK: catalog section titles match the fixed parser.{protected_note}")
         return
 
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
     print(f"backfilled {n_section_diffs} section title(s) across {n_chapters} chapter(s) "
           f"in the catalog; patched {n_files_patched} already-ingested statute file(s)"
-          + (f" ({n_incomplete} incomplete, see WARN lines above)" if n_incomplete else ""))
+          + (f" ({n_incomplete} incomplete, see WARN lines above)" if n_incomplete else "")
+          + protected_note)
 
 
 if __name__ == "__main__":

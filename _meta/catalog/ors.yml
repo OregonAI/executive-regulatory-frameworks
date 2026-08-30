@@ -35160,7 +35160,7 @@ chapters:
     status: ingested
     path: statutes/ors-273.511.md
   - number: '273.522'
-    title: Definition of “forest products”
+    title: Definition for “forest products”
     status: ingested
     path: statutes/ors-273.522.md
   - number: '273.523'
@@ -35507,7 +35507,7 @@ chapters:
     status: ingested
     path: statutes/ors-274.404.md
   - number: '274.406'
-    title: Declaration of state’s claim; effect; filing with county clerk
+    title: Declaration of state’s claim; effect; filing with the county clerk
     status: ingested
     path: statutes/ors-274.406.md
   - number: '274.408'
@@ -49263,7 +49263,7 @@ chapters:
     status: ingested
     path: statutes/ors-316.177.md
   - number: '316.182'
-    title: Withholding statement or exemption certificate; default withholding rate
+    title: Withholding statement of exemption certificate; default withholding rate
     status: ingested
     path: statutes/ors-316.182.md
   - number: '316.187'
@@ -69831,7 +69831,7 @@ chapters:
     path: statutes/ors-415.062.md
   - number: '415.063'
     title: Permissible use of compliance self-evaluative audit document by Oregon Health Authority; consideration
-      of document in determining civil penalty
+      of document in determining of civil penalty
     status: ingested
     path: statutes/ors-415.063.md
   - number: '415.064'
@@ -74022,7 +74022,7 @@ chapters:
     status: ingested
     path: statutes/ors-423.100.md
   - number: '423.105'
-    title: Payment of inmate court-ordered financial obligations; rules
+    title: Payment of court-ordered financial obligations; rules
     status: ingested
     path: statutes/ors-423.105.md
   - number: '423.110'
@@ -76416,7 +76416,7 @@ chapters:
     status: ingested
     path: statutes/ors-432.183.md
   - number: '432.223'
-    title: Reports of adoption; reports of amendments or annulments to judgment of adoption; persons required
+    title: Reports of adoption; reports of amendments or annulments of judgment of adoption; persons required
       to report; rules
     status: ingested
     path: statutes/ors-432.223.md
@@ -81066,7 +81066,7 @@ chapters:
     status: ingested
     path: statutes/ors-452.010.md
   - number: '452.300'
-    title: VECTOR
+    title: Oregon Health Authority vector control program
     status: ingested
     path: statutes/ors-452.300.md
   - number: '452.020'
@@ -88566,7 +88566,7 @@ chapters:
     status: ingested
     path: statutes/ors-468a.820.md
   - number: 468A.830
-    title: Program for environmental and public health impacts of smoke
+    title: Program for environmental and public health impacts of wildfire smoke
     status: ingested
     path: statutes/ors-468a.830.md
   - number: 468A.833
@@ -88779,7 +88779,7 @@ chapters:
     status: ingested
     path: statutes/ors-468b.125.md
   - number: 468B.130
-    title: Prohibition on sale or distribution of cleaning agents containing phosphorous; rules
+    title: Prohibition on sale or distribution of cleaning agents containing phosphorus; rules
     status: ingested
     path: statutes/ors-468b.130.md
   - number: 468B.135
@@ -92047,7 +92047,7 @@ chapters:
     status: ingested
     path: statutes/ors-475.866.md
   - number: '475.868'
-    title: Unlawful manufacture of 3,4-methylene-dioxymethamphetamine within 1,000 feet of school
+    title: Unlawful manufacture of 3,4-methylenedioxymethamphetamine within 1,000 feet of school
     status: ingested
     path: statutes/ors-475.868.md
   - number: '475.870'
@@ -92055,7 +92055,7 @@ chapters:
     status: ingested
     path: statutes/ors-475.870.md
   - number: '475.872'
-    title: Unlawful delivery of 3,4-methylenedioxy-methamphetamine within 1,000 feet of school
+    title: Unlawful delivery of 3,4-methylenedioxymethamphetamine within 1,000 feet of school
     status: ingested
     path: statutes/ors-475.872.md
   - number: '475.874'
@@ -112667,7 +112667,7 @@ chapters:
     status: ingested
     path: statutes/ors-624.010.md
   - number: '624.020'
-    title: License; fee payment; rules; denial, suspension and revocation of licenses; posting; nontransferability
+    title: License; rules; fee payment; denial, suspension and revocation of licenses; posting; nontransferability
     status: ingested
     path: statutes/ors-624.020.md
   - number: '624.029'
@@ -117486,7 +117486,7 @@ chapters:
     status: ingested
     path: statutes/ors-651.185.md
   - number: '651.190'
-    title: Demographic data collection of reporting requirements for hospitals; list hospitals required
+    title: Demographic data collection reporting requirements for hospitals; list of hospitals required
       to report; civil penalty; rules
     status: ingested
     path: statutes/ors-651.190.md
@@ -119528,7 +119528,7 @@ chapters:
     status: ingested
     path: statutes/ors-657.044.md
   - number: '657.045'
-    title: Employment; agricultural labor excluded; election; exceptions
+    title: Employment; agricultural labor excluded; exceptions
     status: ingested
     path: statutes/ors-657.045.md
   - number: '657.046'
@@ -127990,7 +127990,7 @@ chapters:
     status: ingested
     path: statutes/ors-691.477.md
   - number: '691.485'
-    title: LICENSING
+    title: Board of Licensed Dietitians
     status: ingested
     path: statutes/ors-691.485.md
 - chapter: '692'
@@ -135976,7 +135976,7 @@ chapters:
     status: ingested
     path: statutes/ors-735.340.md
   - number: '735.345'
-    title: Violation of ORS 735.300 to
+    title: Violation of 735.300 to 735.365; penalties
     status: ingested
     path: statutes/ors-735.345.md
   - number: '735.350'
@@ -150521,7 +150521,7 @@ chapters:
     status: ingested
     path: statutes/ors-824.110.md
   - number: '824.200'
-    title: Definitions for ORS 824.200 to
+    title: Definitions for 824.200 to 824.256
     status: ingested
     path: statutes/ors-824.200.md
   - number: '824.202'
@@ -157426,7 +157426,7 @@ chapters:
     status: ingested
     path: statutes/ors-97.931.md
   - number: '97.933'
-    title: Certification of provider of prearrangement or preconstruction sales; rules; annual reports;
+    title: Certification of provider of prearrangement or preconstruction sales; annual reports; rules;
       audits; fees
     status: ingested
     path: statutes/ors-97.933.md

@@ -21,6 +21,17 @@ simply never asked about most of the numbering space, so its silence proves noth
 this scan says so rather than guessing whether the chapter is real ("could not check" is
 never reported as "is not there" -- AGENTS.md).
 
+#292 ADDS A THIRD, DIFFERENT-SHAPED GAP: a chapter can be IN the mirrored selection --
+its source page fetched, a row in `_meta/sources/ors.yml` -- and still hold zero
+documents (16 of 547, all `(Former Provisions)` chapters with nothing current left to
+ingest; `citation_schemes.ors_chapters_holding_documents`'s own docstring has the
+evidence). That is not "outside the selection" in this module's own sense, so it is kept
+OUT of `targets`/`chapters_cited_outside_mirrored_set` (that count would stop meaning what
+its name says if a chapter that IS selected joined it) and reported separately, as
+`mirrored_no_documents_targets` and its own `summary:` fields -- same shape, same reason
+this scan exists, one level inside the boundary it already draws rather than blended into
+it.
+
 AGGREGATED BY CHAPTER, not by section: the question a reader has ("do we hold ORS 151 at
 all") lives one level up from any one citation, and #210 itself was found and fixed at the
 chapter grain (the `ors` source group gaining one entry, not 18).
@@ -55,7 +66,8 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from citation_schemes import ors_catalog_chapters, ors_mirrored_chapters
+from citation_schemes import (ors_catalog_chapters, ors_chapters_holding_documents,
+                              ors_mirrored_chapters)
 from repo_lib import AUTHORITY_FIELDS, Checks, content_files, walk_strings
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -69,14 +81,21 @@ CATALOG = ROOT / "_meta" / "catalog" / "ors-citation-gap.yml"
 ORS_MENTION = re.compile(r"\bORS\s+(\d{1,3}[A-Za-z]?)\.(\d{3}[A-Za-z]?)\b")
 
 
-def classify(chapter: str, mirrored: set, catalog: dict) -> tuple[str, str]:
+def classify(chapter: str, mirrored: set, with_docs: set, catalog: dict) -> tuple[str, str]:
     """(status, catalog_title) for one lowercased chapter number.
 
-    THREE STATES, the same three `citation_schemes._ors_chapter_absence_note` answers a
-    live citation with -- this is that same rule read back as a report instead of a single
-    resolution, so the two can never quietly disagree about what a chapter is."""
+    FOUR STATES (#292 added the third), the same four `citation_schemes.
+    _ors_chapter_absence_note` answers a live citation with -- this is that same rule read
+    back as a report instead of a single resolution, so the two can never quietly disagree
+    about what a chapter is. `mirrored` now requires BOTH `chapter in mirrored` (the
+    selection) AND `chapter in with_docs` (at least one document actually held) --
+    `mirrored_no_documents` is the selected-but-empty case that used to be silently folded
+    into `mirrored`, invisible to this scan the same way it was invisible to the resolver
+    before #292."""
     if chapter in mirrored:
-        return "mirrored", ""
+        if chapter in with_docs:
+            return "mirrored", ""
+        return "mirrored_no_documents", catalog.get(chapter) or ""
     title = catalog.get(chapter)
     if title is not None:
         return "not_mirrored_known_real", title
@@ -85,6 +104,7 @@ def classify(chapter: str, mirrored: set, catalog: dict) -> tuple[str, str]:
 
 def scan() -> dict:
     mirrored = ors_mirrored_chapters()
+    with_docs = ors_chapters_holding_documents()
     catalog = ors_catalog_chapters()
 
     authority = collections.Counter()
@@ -122,12 +142,13 @@ def scan() -> dict:
             cited_by[chapter].add(doc_id)
 
     targets = []
+    mirrored_empty = []
     for ch in sorted(set(authority) | set(mention),
                      key=lambda x: (-authority[x], -mention[x], x)):
-        status, title = classify(ch, mirrored, catalog)
+        status, title = classify(ch, mirrored, with_docs, catalog)
         if status == "mirrored":
             continue
-        targets.append({
+        row = {
             "chapter": ch,
             "status": status,
             "catalog_title": title,
@@ -135,13 +156,31 @@ def scan() -> dict:
             "mentions": mention[ch],
             "distinct_sections_cited": len(sections[ch]),
             "cited_by_sample": sorted(cited_by[ch])[:5],
-        })
+        }
+        # #292: `mirrored_no_documents` is INSIDE the selection this module's own name and
+        # docstring scope `targets` to (chapters cited OUTSIDE the mirrored set) -- folding
+        # it in would make `chapters_cited_outside_mirrored_set` count a chapter that IS
+        # selected, which is the same kind of false claim the note text below refuses to
+        # make. Reported in its own list/summary block instead, not silently dropped.
+        if status == "mirrored_no_documents":
+            mirrored_empty.append(row)
+        else:
+            targets.append(row)
 
     known_real = [t for t in targets if t["status"] == "not_mirrored_known_real"]
     unknown = [t for t in targets if t["status"] == "not_mirrored_unknown"]
-    all_cited_by = set()
-    for ch in {t["chapter"] for t in targets}:
-        all_cited_by |= cited_by[ch]
+
+    def documents_citing(rows):
+        """Union of `cited_by[chapter]` across every chapter in `rows` — the same
+        one-line question `targets` and `mirrored_empty` both ask of the same `cited_by`
+        map, asked once instead of twice."""
+        out = set()
+        for ch in {t["chapter"] for t in rows}:
+            out |= cited_by[ch]
+        return out
+
+    all_cited_by = documents_citing(targets)
+    mirrored_empty_cited_by = documents_citing(mirrored_empty)
 
     return {
         "note": (
@@ -152,7 +191,14 @@ def scan() -> dict:
             "_meta/catalog/ors.yml's discovery map -- a real chapter simply not selected\n"
             "for ingestion, a coverage gap) or 'not_mirrored_unknown' (absent from both\n"
             "the mirrored set and the discovery map -- this corpus has no evidence either\n"
-            "way, and says so rather than guessing). Mirrored chapters are not listed.\n"
+            "way, and says so rather than guessing). Mirrored chapters are not listed here.\n\n"
+            "mirrored_no_documents_targets (#292) is a THIRD, separately-scoped list: "
+            "chapters that ARE in the mirrored selection -- a source row in\n"
+            "_meta/sources/ors.yml -- but hold zero documents (summary.chapters_mirrored_\n"
+            "no_documents counts them; on this corpus every one is a '(Former Provisions)'\n"
+            "chapter with nothing current left to ingest). Kept out of targets/\n"
+            "chapters_cited_outside_mirrored_set because they are not outside the\n"
+            "selection; still a coverage gap, reported on its own.\n"
         ),
         "summary": {
             "documents_scanned": ndocs,
@@ -164,7 +210,13 @@ def scan() -> dict:
                                                           for t in targets),
             "mentions_outside_mirrored_set": sum(t["mentions"] for t in targets),
             "distinct_documents_citing_outside_mirrored_set": len(all_cited_by),
+            "chapters_mirrored_no_documents": len(mirrored_empty),
+            "authority_claims_mirrored_no_documents": sum(t["authority_claims"]
+                                                           for t in mirrored_empty),
+            "mentions_mirrored_no_documents": sum(t["mentions"] for t in mirrored_empty),
+            "distinct_documents_citing_mirrored_no_documents": len(mirrored_empty_cited_by),
         },
+        "mirrored_no_documents_targets": mirrored_empty,
         "targets": targets,
     }
 
@@ -195,29 +247,39 @@ def _inventory_only(text: str) -> str:
 
 
 def _selftest() -> int:
-    """The three-state classification, proved against synthetic mirrored/catalog sets --
-    not the live corpus, so this stays fast and stays correct even as chapters are ingested
-    out from under it."""
+    """The four-state classification, proved against synthetic mirrored/with-docs/catalog
+    sets -- not the live corpus, so this stays fast and stays correct even as chapters are
+    ingested out from under it."""
     ck = Checks()
-    mirrored = {"151", "1"}
-    catalog = {"151": "Public Defenders", "79": "Secured Transactions (Former Provisions)"}
+    mirrored = {"151", "1", "351"}
+    with_docs = {"151", "1"}
+    catalog = {"151": "Public Defenders", "79": "Secured Transactions (Former Provisions)",
+              "351": "Higher Education Generally (Former Provisions)"}
 
-    status, title = classify("151", mirrored, catalog)
-    ck("a mirrored chapter classifies as mirrored", status == "mirrored")
+    status, title = classify("151", mirrored, with_docs, catalog)
+    ck("a mirrored chapter that holds documents classifies as mirrored",
+       status == "mirrored")
 
-    status, title = classify("79", mirrored, catalog)
+    status, title = classify("351", mirrored, with_docs, catalog)
+    ck("#292: a mirrored chapter that holds ZERO documents classifies as its own state, "
+       "never folded into plain 'mirrored'", status == "mirrored_no_documents")
+    ck("...and carries the catalog's own title, same as a not-mirrored known-real row",
+       title == "Higher Education Generally (Former Provisions)")
+
+    status, title = classify("79", mirrored, with_docs, catalog)
     ck("an unmirrored chapter the discovery catalog knows classifies as known-real",
        status == "not_mirrored_known_real")
     ck("...and carries the catalog's own title", title == "Secured Transactions "
        "(Former Provisions)")
 
-    status, title = classify("935", mirrored, catalog)
+    status, title = classify("935", mirrored, with_docs, catalog)
     ck("an unmirrored chapter absent from the catalog too classifies as unknown, "
        "never as known-real by default", status == "not_mirrored_unknown")
     ck("...and carries no fabricated title", title == "")
 
-    ck("the three states are pairwise distinct",
-       len({"mirrored", "not_mirrored_known_real", "not_mirrored_unknown"}) == 3)
+    ck("the four states are pairwise distinct",
+       len({"mirrored", "mirrored_no_documents", "not_mirrored_known_real",
+            "not_mirrored_unknown"}) == 4)
 
     data = scan()
     s = data["summary"]
@@ -236,6 +298,21 @@ def _selftest() -> int:
        == s["chapters_cited_outside_mirrored_set"])
     ck("there is at least one target of each kind on the committed corpus",
        s["chapters_known_real_not_ingested"] > 0 and s["chapters_no_corroborating_evidence"] > 0)
+
+    # #292: the live corpus's own measured 16 mirrored-but-empty chapters, reported
+    # separately rather than folded into `targets` (which is scoped to chapters OUTSIDE
+    # the selection -- these are inside it).
+    ck("#292: the live scan finds chapter 351 among the mirrored-but-empty targets "
+       "(measured, not assumed)",
+       any(t["chapter"] == "351" for t in data["mirrored_no_documents_targets"]))
+    ck("...and it is NOT also counted among the outside-the-selection targets",
+       not any(t["chapter"] == "351" for t in data["targets"]))
+    ck("...and the summary count matches the list actually returned",
+       s["chapters_mirrored_no_documents"] == len(data["mirrored_no_documents_targets"]))
+    ck("...and every mirrored-but-empty chapter really is in the mirrored selection "
+       "(never a not-mirrored chapter misclassified into this bucket)",
+       all(t["chapter"] in ors_mirrored_chapters()
+           for t in data["mirrored_no_documents_targets"]))
 
     # #158's shape, reproduced for this module's own --check (`_inventory_only`): a
     # change that moves ONLY documents_scanned -- a PR adding or dropping any content
@@ -261,7 +338,7 @@ def main() -> int:
     ap.add_argument("--check", action="store_true",
                     help="exit 1 if the committed catalog is not what a scan produces")
     ap.add_argument("--selftest", action="store_true",
-                    help="prove the three-state classification can fail")
+                    help="prove the four-state classification can fail")
     args = ap.parse_args()
 
     if args.selftest:
@@ -276,7 +353,11 @@ def main() -> int:
           f"{s['chapters_no_corroborating_evidence']} with no corroborating evidence); "
           f"{s['authority_claims_outside_mirrored_set']} authority claims, "
           f"{s['mentions_outside_mirrored_set']} mentions, across "
-          f"{s['distinct_documents_citing_outside_mirrored_set']} documents")
+          f"{s['distinct_documents_citing_outside_mirrored_set']} documents; "
+          f"{s['chapters_mirrored_no_documents']} mirrored chapters cited but holding "
+          f"zero documents ({s['authority_claims_mirrored_no_documents']} authority "
+          f"claims, {s['mentions_mirrored_no_documents']} mentions, across "
+          f"{s['distinct_documents_citing_mirrored_no_documents']} documents)")
 
     if args.check:
         cur = CATALOG.read_text(encoding="utf-8") if CATALOG.is_file() else ""

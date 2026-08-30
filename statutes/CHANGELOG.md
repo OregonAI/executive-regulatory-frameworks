@@ -8,6 +8,22 @@ file's frontmatter).
 
 ## [Unreleased]
 
+### Fixed
+
+- Catalog `title` divergences from their own printed catchline (#286): the TOC parser's
+  `XREF_RE` widened to also mask "to"-joined section ranges, not just "and"-joined lists,
+  fixing the truncation/heading-theft bug at its cause (`src/catalog_ors.py`). Of the 27
+  already-ingested sections whose catalog title diverged from `anchor_ok`'s word-for-word
+  check, 6 resolved by widening that check's own inflection tolerance and 18 more are
+  hand-corrected here against each section's own body catchline
+  (`src/backfill_ors_286_titles.py`), updating `title`, the `# {title}` heading, and the
+  "At a glance" line in each affected `statutes/ors-*.md`. Three rows (341.305, 315.123,
+  470.540) are deliberately left diverging: the printed source itself carries the defect
+  (a typo; a line-wrap hyphenation artifact) and the catalog title was already correct —
+  writing the source's own artifact into a curated field to make a mechanical check pass
+  would be the fabrication this corpus's Access-failure/Upstream-drift split exists to
+  prevent.
+
 ## [2026-07-18] (3)
 
 ### Added

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468b.130
-title: "Prohibition on sale or distribution of cleaning agents containing phosphorous; rules"
+title: "Prohibition on sale or distribution of cleaning agents containing phosphorus; rules"
 doc_type: statute
 citation: "ORS 468B.130"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Prohibition on sale or distribution of cleaning agents containing phosphorous; rules (ORS 468B.130)
+# Prohibition on sale or distribution of cleaning agents containing phosphorus; rules (ORS 468B.130)
 
 ## At a glance
 
-ORS 468B.130 — Prohibition on sale or distribution of cleaning agents containing phosphorous; rules. Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.130 — Prohibition on sale or distribution of cleaning agents containing phosphorus; rules. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 

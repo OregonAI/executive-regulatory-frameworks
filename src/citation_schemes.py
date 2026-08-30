@@ -12,12 +12,47 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from link_graph import build_renumber_map
 from repo_lib import (ORCONST_ARTICLE_TOKEN, ORCONST_SECTION_TOKEN, REPO_ROOT,
-                      orconst_article_designation, orconst_article_slug, orconst_id,
-                      yaml_load)
+                      SNAPSHOT_DIR, MissingContentDir, orconst_article_designation,
+                      orconst_article_slug, orconst_id, yaml_load)
 
 from corpus_toolkit.mcp.framework import register_scheme
 
-ORS_C = re.compile(r"(?:ORS\s*)?(\d{2,3}[A-Za-z]?\.\d{3})\s*$", re.I)
+# #293: ONE OPINION OF ORS'S NUMBERING GRAMMAR, not three independent copies of the
+# digit-count question. Both halves measured against `_meta/catalog/ors.yml`'s discovery
+# map and this corpus's own mirrored statute filenames before being written, not assumed
+# from Oregon's usual "NNN.NNN" shape (`_proof_ors_chapter_and_section_widths` below
+# re-measures both live rather than trusting this comment to stay true):
+#   - CHAPTER: 1-3 digits, optional trailing letter. Measured chapter-number lengths on
+#     both the catalog and the mirrored filenames: 1, 2 and 3 only (chapters 1/3/5/7/8/9
+#     are real single-digit chapters; nothing 4+ digits exists). No single-digit chapter
+#     carries a letter suffix (163A, 79A etc. are all 2-3 digits) — checked, not assumed,
+#     since Oregon's numbering could in principle put one there.
+#   - SECTION: 3 OR 4 digits, no letter suffix seen on any held section. The UCC chapters
+#     (71-80) use 4-digit section numbers (ORS 71.1010 and many more like it) that a
+#     3-digit-only section pattern would silently fail to match — the same shape of miss
+#     as the chapter floor below, just one token over.
+# `_ORS_CHAPTER_RE` derives from the same chapter token rather than restating the digit
+# count on its own — the fragmentation into three separate opinions (this pattern, that
+# one, and scan_ors_citations.ORS_MENTION) was what let the chapter floor below go
+# unnoticed as long as it did.
+ORS_CHAPTER_TOKEN = r"\d{1,3}[A-Za-z]?"
+ORS_SECTION_TOKEN = r"\d{3,4}"
+# The single-digit chapters (1/3/5/7/8/9) are also this corpus's own internal-numbering
+# shape — OSH "Policy 1.005", "Pharmacy protocol 1.010", DAS-OAM dotted ids, phone
+# numbers — and none of those carry an "ORS" prefix, while every single-digit ORS
+# citation actually held in this corpus does (measured: 0 counterexamples among 135
+# single-digit-chapter matches that resolve to a real ORS document across the corpus's
+# whole-body-scanned agency text — see the matching fix and measurement in
+# link_graph.ORS_RE). So unlike the 2-3-digit case below, where "ORS" stays optional (the
+# pre-#293 shape, safe because a wrong guess there is gated on actually resolving to a
+# held document — see the federal-schemes comment further down this file for the same
+# argument made about CFR), a single-digit chapter requires a literal "ORS" immediately
+# before it. Two branches sharing one capture group would require the same group number
+# to mean two different things depending on which branch fired, so this is genuinely two
+# groups; `_resolve_ors` reads whichever one is not None.
+ORS_C = re.compile(
+    rf"\bORS\s+(\d\.{ORS_SECTION_TOKEN})\s*$"
+    rf"|(?:ORS\s*)?(\d{{2,3}}[A-Za-z]?\.{ORS_SECTION_TOKEN})\s*$", re.I)
 OAR_RULE_C = re.compile(r"(?:OAR\s*)?(\d{3}-\d{3}-\d{4})\s*$", re.I)
 OAR_DIV_C = re.compile(r"(?:OAR\s*)?(\d{3}-\d{3})\s*$", re.I)
 EO_C = re.compile(r"(?:EO|Executive\s+Order)\s*(?:No\.?\s*)?(?:20)?(\d{2})-(\d{1,2})\s*$", re.I)
@@ -26,13 +61,20 @@ NUMS_C = re.compile(r"(?:DAS|policy|statewide policy|OAM)?\s*([\d]{2,3}[.\-][\d]
 ORS_DISPOSITION_PATH = REPO_ROOT / "_meta/catalog/ors-disposition.yml"
 ORS_SOURCES_PATH = REPO_ROOT / "_meta/sources/ors.yml"
 ORS_CATALOG_PATH = REPO_ROOT / "_meta/catalog/ors.yml"
+ORS_STATUTES_DIR = REPO_ROOT / "statutes"
 
 _RENUM = None
 _ORS_DISPOSITION = None
 _ORS_MIRRORED_CHAPTERS = None
 _ORS_CATALOG_CHAPTERS = None
+_ORS_CHAPTERS_WITH_DOCUMENTS = None
+_ORS_CHAPTER_SNAPSHOT_SECTIONS = {}
 
-_ORS_CHAPTER_RE = re.compile(r"^(\d+[a-z]?)\.")
+# #293: was `\d+[a-z]?` — unboundedly wider than ORS_C's old `\d{2,3}` floor, so this
+# regex's own coverage read as intentional and was unreachable: a citation had to survive
+# ORS_C's match first to ever reach here. Now derived from the SAME token ORS_C matches
+# on, so the two cannot drift back into disagreeing about what a chapter number looks like.
+_ORS_CHAPTER_RE = re.compile(rf"^({ORS_CHAPTER_TOKEN})\.", re.I)
 
 
 def _renumber(rule):
@@ -71,6 +113,61 @@ def ors_mirrored_chapters():
     return _ORS_MIRRORED_CHAPTERS
 
 
+def ors_chapters_holding_documents():
+    """Every ORS chapter with at least one document actually HELD under `statutes/` —
+    Ingest status aggregated up to the chapter, one level below Chapter selection
+    (CONTEXT.md). Answers a DIFFERENT question than `ors_mirrored_chapters()`, on
+    purpose: that function says a chapter's SOURCE PAGE was selected and fetched into
+    `_meta/sources/ors.yml`, which is a claim about what this corpus tried to mirror, not
+    about what it actually holds. #292: 16 of the 547 chapters `ors_mirrored_chapters()`
+    reports as selected hold ZERO documents here — every one of them a `(Former
+    Provisions)` chapter whose own printed text is entirely bracketed `[renumbered ...]`/
+    `[repealed ...]` history with no current section left to slice, confirmed against the
+    committed snapshots and against `_meta/catalog/ors.yml`'s own discovery-map row for
+    each (which independently lists zero sections for all 16 — the TOC parser found
+    nothing to catalog either, not just nothing ingest_ors.py chose to keep). That is
+    still a real gap in what a citation into the chapter can be checked against, so a
+    caller that treats `chapter in ors_mirrored_chapters()` alone as "this corpus can
+    answer" reproduces exactly the #210 bug one level deeper — collapsing "selected" and
+    "held" back into one fact after CONTEXT.md's Chapter selection / Ingest status split
+    was written specifically to keep them apart. Reads `statutes/ors-<chapter>.<section>
+    .md` filenames directly (the reproduction #292 itself measured with), not the
+    discovery map's per-chapter section count, because the ground truth for "is there
+    anything here to resolve a citation against" is the files that exist. Lowercased, same
+    convention as `ors_mirrored_chapters()`."""
+    global _ORS_CHAPTERS_WITH_DOCUMENTS
+    if _ORS_CHAPTERS_WITH_DOCUMENTS is None:
+        # #337 code review, one commit after #316 closed this exact substitution in
+        # `repo_lib.content_files()`: a missing or unreadable `statutes/` (a declared
+        # `repo_lib.CONTENT_DIRS` entry) used to read as "walked, zero documents" here too
+        # -- indistinguishable from every one of this chapter's documents genuinely being
+        # absent, which is precisely the fact `_ors_chapter_absence_note` below turns into
+        # a claim about the corpus. Measured: pointing this at a nonexistent path made
+        # `_ors_chapter_absence_note("151")` assert chapter 151 "holds zero documents from
+        # it" for a chapter that in fact holds 18. Refuse instead, the same way
+        # `content_files()` refuses for the identical reason.
+        if not ORS_STATUTES_DIR.is_dir():
+            raise MissingContentDir(
+                f"{ORS_STATUTES_DIR} does not exist on disk -- a missing declared content "
+                "directory is a corpus this process could not read, never one confirmed "
+                "to hold zero ORS documents")
+        try:
+            entries = list(ORS_STATUTES_DIR.iterdir())
+        except OSError as e:
+            raise MissingContentDir(
+                f"{ORS_STATUTES_DIR} exists and could not be listed ({e.strerror or e}) -- "
+                "a directory that exists but cannot be read is a corpus this process could "
+                "not read, never one confirmed to hold zero ORS documents") from e
+        pat = re.compile(rf"^ors-({ORS_CHAPTER_TOKEN})\.", re.I)
+        chapters = set()
+        for p in entries:
+            m = pat.match(p.name)
+            if m:
+                chapters.add(m.group(1).lower())
+        _ORS_CHAPTERS_WITH_DOCUMENTS = chapters
+    return _ORS_CHAPTERS_WITH_DOCUMENTS
+
+
 def ors_catalog_chapters():
     """{chapter number: title} for every chapter `_meta/catalog/ors.yml`'s discovery map
     knows about — a live scrape of oregonlegislature.gov's chapter pages, NOT a complete
@@ -90,19 +187,130 @@ def ors_catalog_chapters():
     return _ORS_CATALOG_CHAPTERS
 
 
-def _ors_chapter_absence_note(chapter: str):
-    """#210. TWO ANSWERS, and they must never collapse into one: a chapter this corpus
-    chose not to ingest is a coverage gap and a claim about THIS MIRROR; a chapter number
-    nothing here can corroborate is neither confirmed real nor confirmed bogus, and is
-    reported as exactly that rather than guessed either way (AGENTS.md: "could not check"
-    is never reported as "is not there"). `None` when the chapter IS mirrored — the
-    citation names a real, wrong, or renumbered SECTION instead, which is a different
-    question this function does not answer."""
-    if chapter in ors_mirrored_chapters():
+def _ors_chapter_snapshot_has_section(chapter: str, secnum: str):
+    """Does chapter `chapter`'s OWN committed snapshot (`_meta/snapshots/ors-chapter-
+    <chapter>.txt`) print `<chapter>.<secnum>` anywhere — TOC, body, or bracketed
+    renumbered/repealed history alike? `True`/`False` when the snapshot could be checked,
+    `None` when it could not (no snapshot file at all — could-not-check, never guessed as
+    either answer, AGENTS.md's overriding rule).
+
+    For the 16 chapters `ors_chapters_holding_documents()` finds hold zero current
+    documents, every section the chapter ever had is exactly this kind of bracketed
+    history — so a number that DOES appear here is corroborated as a real (if now
+    repealed or renumbered) section of this chapter, the same evidence
+    `_ors_disposition`'s mining draws from, just checked directly rather than trusting the
+    mined table caught every bracket. A number that does NOT appear here was never printed
+    by this chapter under any status this corpus can see — measured, not assumed, exactly
+    the #292 code-review population (351.141, 286.806, 419.050, ...) where the old
+    unconditional "not a citation to a wrong or nonexistent section" was itself false."""
+    global _ORS_CHAPTER_SNAPSHOT_SECTIONS
+    key = chapter.lower()
+    if key not in _ORS_CHAPTER_SNAPSHOT_SECTIONS:
+        path = SNAPSHOT_DIR / f"ors-chapter-{key}.txt"
+        if not path.is_file():
+            _ORS_CHAPTER_SNAPSHOT_SECTIONS[key] = None
+        else:
+            text = path.read_text(encoding="utf-8", errors="replace")
+            nums = re.findall(rf"\b{re.escape(chapter)}\.(\d{{3,4}}[A-Za-z]?)\b", text, re.I)
+            _ORS_CHAPTER_SNAPSHOT_SECTIONS[key] = {n.lower() for n in nums}
+    found = _ORS_CHAPTER_SNAPSHOT_SECTIONS[key]
+    if found is None:
         return None
+    return secnum.lower() in found
+
+
+def _ors_lettered_chapter_hit(chapter: str, secnum: str):
+    """A held document under a LETTERED sibling of `chapter` at the same section number —
+    `ors-286a.806.md` for a citation to `286.806`, say. Oregon appends a letter to an
+    existing chapter number when it splits or extends one (286 -> 286A, 419 -> 419A/B/C);
+    a citation whose year or transcription drops the letter reads, in this corpus's own
+    data, exactly like a wrong-section citation into the bare chapter -- except the text
+    it is actually asking for is held right here under the sibling. Only 26 plausible
+    letters, and `ORS_STATUTES_DIR` is read once per call (cheap; this path is not hot),
+    so no caching -- this only runs after `_ors_chapter_absence_note` has already decided
+    the bare chapter itself is a genuine gap."""
+    if not ORS_STATUTES_DIR.is_dir():
+        return None
+    for letter in "ABCDEFGHIJKLMNOPQRSTUVWXYZ":
+        cand = ORS_STATUTES_DIR / f"ors-{chapter.lower()}{letter.lower()}.{secnum.lower()}.md"
+        if cand.is_file():
+            return f"ORS {chapter}{letter}.{secnum}"
+    return None
+
+
+def _ors_chapter_absence_note(chapter: str, secnum: str = ""):
+    """#210, widened by #292, corrected by #292's own code review. THREE ANSWERS, and they
+    must never collapse into one: a chapter this corpus chose not to select is a coverage
+    gap; a chapter it SELECTED but holds no document from is a different coverage gap, and
+    must not read as either the first or as "nothing wrong here" just because a source row
+    exists for it; a chapter number nothing here can corroborate is neither confirmed real
+    nor confirmed bogus, and is reported as exactly that rather than guessed either way
+    (AGENTS.md: "could not check" is never reported as "is not there"). `None` only when
+    the chapter is BOTH selected and holds at least one document — the citation names a
+    real, wrong, or renumbered SECTION instead, which is a different question this
+    function does not answer.
+
+    #292's own case is the middle one: `chapter in ors_mirrored_chapters()` alone used to
+    mean "say nothing, `_resolve_ors` will find the section or won't" — true for 531 of
+    the 547 mirrored chapters, false for 16 `(Former Provisions)` chapters whose source
+    page was fetched but which hold zero documents (see `ors_chapters_holding_documents`'s
+    own docstring for the evidence). Those 16 fell through to the generic "no such
+    document exists" answer, indistinguishable from a genuinely wrong section number —
+    exactly the substitution #210 was filed to stop, one level deeper than #210 itself
+    reached.
+
+    THE CODE REVIEW OF #292 ITSELF: the fix above answered the CHAPTER question correctly
+    and then asserted a SECTION-level claim it had no evidence for -- "not a citation to a
+    wrong or nonexistent section" -- for every citation into one of the 16, unconditionally.
+    Measured against the corpus: 11 of the 116 sections actually cited into these 16
+    chapters never appear anywhere in their own chapter's committed snapshot (351.141,
+    286.806, 419.050, ...) -- the old note denied these were wrong exactly as confidently
+    as it denied it for the 105 that DO appear as bracketed history. `secnum`, when given,
+    is checked against the chapter's own snapshot (`_ors_chapter_snapshot_has_section`)
+    before that sentence is written, and a lettered-chapter sibling
+    (`_ors_lettered_chapter_hit`) is checked too -- 10 of those 11 are actually HELD here
+    under one. `secnum=""` (no section available to the caller) keeps the old,
+    chapter-only wording; this only ever narrows the claim, never widens it beyond what
+    was checked."""
+    mirrored = chapter in ors_mirrored_chapters()
     title = ors_catalog_chapters().get(chapter)
+    named = f" ({title})" if title else ""
+    if mirrored:
+        if chapter in ors_chapters_holding_documents():
+            return None
+        corroborated = (_ors_chapter_snapshot_has_section(chapter, secnum)
+                        if secnum else None)
+        base = (f"this corpus selected ORS chapter {chapter}{named} for mirroring "
+               f"(recorded in _meta/sources/ors.yml) but holds zero documents from it — "
+               f"every section the chapter's own printed text lists is bracketed "
+               f"renumbered/repealed history with nothing current left to slice. This is "
+               f"a coverage gap in what this mirror actually holds.")
+        if corroborated is True:
+            return (base + f" ORS {chapter}.{secnum} itself IS printed in this chapter's "
+                    f"own committed snapshot (as that bracketed history), so this is that "
+                    f"coverage gap, not a citation to a wrong or nonexistent section — "
+                    f"verify against oregonlegislature.gov.")
+        if corroborated is False:
+            # Only worth the (cheap, but non-zero: up to 26 stat calls) lookup once the
+            # chapter is confirmed mirrored-but-empty AND the section is confirmed
+            # uncorroborated -- the two branches below never use it.
+            lettered = _ors_lettered_chapter_hit(chapter, secnum)
+            lettered_note = (f" This corpus DOES hold a document at {lettered} — a "
+                             f"lettered sibling of chapter {chapter} — which is very "
+                             f"likely what this citation actually means if its letter "
+                             f"was dropped or mistranscribed." if lettered else "")
+            return (base + f" It does NOT, by itself, confirm ORS {chapter}.{secnum} is a "
+                    f"real section of this chapter — this corpus's own snapshot of "
+                    f"chapter {chapter} does not print {chapter}.{secnum} anywhere, under "
+                    f"any status, which is affirmative evidence this may be a wrong or "
+                    f"mistyped section number rather than a section this mirror is simply "
+                    f"missing." + lettered_note +
+                    f" Verify against oregonlegislature.gov.")
+        return (base + f" Whether ORS {chapter}.{secnum or '<section>'} itself is a real "
+                f"section of this chapter was not checked here (no section number "
+                f"reached this note), so this does not confirm — and does not deny — a "
+                f"wrong or nonexistent section. Verify against oregonlegislature.gov.")
     if title is not None:
-        named = f" ({title})" if title else ""
         return (f"this corpus does not mirror ORS chapter {chapter}{named}. It is a real "
                 f"chapter — recorded in _meta/catalog/ors.yml's discovery map, scraped "
                 f"from oregonlegislature.gov — that was not selected for ingestion; this "
@@ -140,7 +348,27 @@ def _follow_renumbering(section, disp, hops_left=5):
 
 
 def _resolve_ors(m, nodes):
-    section = m.group(1).lower()
+    # #293's 3-to-4-digit SECTION widening means ORS_C's 2-3-digit-chapter branch now
+    # also matches the TAIL of a genuine three-part dotted/dashed number -- a das-oam
+    # policy id, a phone number, any `NNN.NNN.NNNN`-shaped string -- as if its last two
+    # groups were an ORS chapter and section (measured on real corpus text: the phone
+    # number `503.229.5408` in `agencies/department-of-environmental-quality/policies/
+    # deq-imd-7070200.md` matches as chapter 229 section 5408). Fixing this by reordering
+    # `register_scheme` calls does NOT work -- tried, measured, reverted: this framework
+    # (corpus-toolkit v1.31.1, the version this corpus actually pins and runs, not the
+    # "first pattern to match wins" model the comment above `register_scheme("ors", ...)`
+    # describes for an older one) tries EVERY scheme whose pattern matches and MERGES
+    # their candidates and notes -- registration order changes nothing about which one's
+    # note is reported. The actual fix has to be in the resolver: NUMS_C requires THREE
+    # dot/dash-separated numeric groups, so a string it also matches structurally cannot
+    # be a genuine 2-part ORS citation (ORS is always exactly chapter.section) -- checked
+    # here rather than assumed, because a chapter.section substring at the true end of a
+    # real citation string never has a THIRD numeric group in front of it.
+    if NUMS_C.search(m.string):
+        return []
+    # ORS_C has two capture groups (single-digit chapter, ORS-prefix mandatory; 2-3-digit
+    # chapter, prefix optional) — exactly one is non-None depending on which branch matched.
+    section = (m.group(1) or m.group(2)).lower()
     cid = f"ors-{section}"
     if cid in nodes:
         return [cid]
@@ -172,7 +400,7 @@ def _resolve_ors(m, nodes):
     # generic unresolved answer, and the two must not read alike (CONTEXT.md).
     m2 = _ORS_CHAPTER_RE.match(section)
     if m2:
-        note = _ors_chapter_absence_note(m2.group(1))
+        note = _ors_chapter_absence_note(m2.group(1), section[m2.end():])
         if note is not None:
             return [], note
     return [cid]
@@ -367,9 +595,10 @@ def _resolve_nums(m, nodes):
 #
 # REGISTERED FIRST, and this ordering is load-bearing -- it also fixes a PRE-EXISTING bug.
 #
-# ORS_C is `(?:ORS\s*)?(\d{2,3}[A-Za-z]?\.\d{3})\s*$`: the "ORS" is OPTIONAL, so the
-# pattern matches any bare NNN.NNN at the end of a string. Registered ahead of these, it
-# captured `2 CFR 200.332` and derived `ors-200.332`, and `45 CFR 75.352` -> `ors-75.352`.
+# ORS_C's 2-3-digit-chapter branch keeps "ORS" OPTIONAL (the single-digit-chapter branch
+# does not, see the comment above ORS_C itself), so the pattern still matches a bare
+# NNN.NNN (or NNN.NNNN) at the end of a string. Registered ahead of these, it captured
+# `2 CFR 200.332` and derived `ors-200.332`, and `45 CFR 75.352` -> `ors-75.352`.
 # First pattern to MATCH wins whether or not it resolves, so the federal schemes never ran.
 #
 # That has been happening since before this change; it produced misses rather than wrong
@@ -559,6 +788,7 @@ def _selftest() -> int:
     _proof_the_two_forms_accept_the_same_article(ck)
     _proof_the_gate_can_watch_the_two_forms_disagree(ck)
     _proof_a_lost_flag_actually_fails_a_gate(ck)
+    _proof_ors_holding_documents_refuses_unreadable_dir(ck)
     fw = _load_framework()
     if fw is not None:
         _proof_registration_stores_the_flag(ck, fw)
@@ -566,6 +796,8 @@ def _selftest() -> int:
         _proof_flagged_schemes_survive_registration(ck, fw)
         _proof_federal_schemes_survive_registration(ck, fw)
         _proof_ors_unmirrored_chapter_states_absence(ck, fw)
+        _proof_ors_chapter_and_section_widths(ck, fw)
+        _proof_ors_does_not_shadow_das_oam_number(ck, fw)
     return ck.report("citation-schemes selftest")
 
 
@@ -600,6 +832,45 @@ def _proof_a_lost_flag_actually_fails_a_gate(ck):
        "here: the gate can watch a lost flag fail, and this is that failure, caught",
        (stored.search("selftest-throwaway-1") is not None)
        != (stored.search("SELFTEST-THROWAWAY-1") is not None))
+
+
+def _proof_ors_holding_documents_refuses_unreadable_dir(ck):
+    """#292 code review, the same substitution #316 closed one commit earlier in
+    `repo_lib.content_files()` -- reproduced here because `ors_chapters_holding_documents`
+    had its OWN, separate walk of `statutes/` that #316 never touched. Break the fixture
+    (point `ORS_STATUTES_DIR` at a path that does not exist), watch `MissingContentDir`
+    fire by name, restore.
+
+    Measured on the pre-fix code: pointing `ORS_STATUTES_DIR` at a nonexistent path made
+    `_ors_chapter_absence_note("151", "999")` return "...but holds zero documents from
+    it" -- a specific, false, positive claim about chapter 151, which this corpus holds 18
+    documents from -- instead of refusing to answer."""
+    global ORS_STATUTES_DIR, _ORS_CHAPTERS_WITH_DOCUMENTS
+    real_dir = ORS_STATUTES_DIR
+    real_cache = _ORS_CHAPTERS_WITH_DOCUMENTS
+    ORS_STATUTES_DIR = REPO_ROOT / "selftest-nonexistent-statutes-dir"
+    _ORS_CHAPTERS_WITH_DOCUMENTS = None
+    try:
+        raised = False
+        try:
+            ors_chapters_holding_documents()
+        except MissingContentDir:
+            raised = True
+        ck("a missing statutes/ directory raises MissingContentDir, never a silently "
+           "empty set", raised)
+        raised_from_note = False
+        try:
+            _ors_chapter_absence_note("151", "999")
+        except MissingContentDir:
+            raised_from_note = True
+        ck("...and a caller two levels up (the resolver's own absence note) sees the "
+           "same refusal, not a false 'holds zero documents' claim about a chapter this "
+           "corpus actually holds 18 documents from", raised_from_note)
+    finally:
+        ORS_STATUTES_DIR = real_dir
+        _ORS_CHAPTERS_WITH_DOCUMENTS = real_cache
+    ck("the fixture is restored -- the real statutes/ dir is readable again",
+       ORS_STATUTES_DIR.is_dir())
 
 
 def _proof_the_two_editions_of_article_vii_are_two_documents(ck):
@@ -841,13 +1112,14 @@ def _proof_flagged_schemes_survive_registration(ck, fw):
 
 
 def _proof_ors_unmirrored_chapter_states_absence(ck, fw):
-    """#210. A citation to an ORS chapter this corpus never selected for ingestion must
-    resolve to a stated ABSENCE ("this corpus does not mirror ORS chapter N") and never to
-    the generic "no such document exists" a citation to a genuinely WRONG section — one
-    inside a chapter this corpus DOES hold — gets. CONTEXT.md: those are two different
-    facts, and before this fix `resolve_citation` answered both identically.
+    """#210, widened by #292, corrected by #292's own code review. A citation to an ORS
+    chapter this corpus never selected for ingestion must resolve to a stated ABSENCE
+    ("this corpus does not mirror ORS chapter N") and never to the generic "no such
+    document exists" a citation to a genuinely WRONG section — one inside a chapter this
+    corpus DOES hold — gets. CONTEXT.md: those are two different facts, and before this
+    fix `resolve_citation` answered both identically.
 
-    THREE CASES, measured on the committed corpus rather than assumed:
+    SIX CASES, measured on the committed corpus rather than assumed:
 
       * ORS 79.010 -- chapter 79 (Secured Transactions, Former Provisions) is cited by
         this corpus and is not mirrored. It IS a real chapter: `_meta/catalog/ors.yml`'s
@@ -857,15 +1129,39 @@ def _proof_ors_unmirrored_chapter_states_absence(ck, fw):
         other chapters share this exact shape (cited, real per the catalog, not mirrored;
         `_meta/catalog/ors-citation-gap.yml`'s `chapters_known_real_not_ingested: 14`
         counts 79 among them).
+      * ORS 606.010 -- chapter 606 (Grazing and Ranging, Former Provisions) IS mirrored
+        but holds ZERO documents (one of the 16 `(Former Provisions)` chapters
+        `ors_chapters_holding_documents`'s own docstring documents), AND 606.010 itself is
+        printed in the chapter's own committed snapshot as bracketed history -- corroborated,
+        not merely un-refuted. This is #292's own original case, done right: the note may
+        say "not a wrong or nonexistent section" ONLY when that was actually checked, which
+        it now is.
+      * ORS 351.141 -- chapter 351 (Higher Education Generally, Former Provisions) is ALSO
+        mirrored-but-empty, but 351.141 itself is measured NOT to appear anywhere in
+        chapter 351's own committed snapshot -- 351.130/.140/.150/.153/.155 are the
+        neighbors actually printed there, no .141. #292's code review: the pre-fix note
+        asserted "not a citation to a wrong or nonexistent section" for this exact case
+        anyway, unconditionally, for every section number in every one of the 16 chapters
+        -- true for 606.010 above, false here. The three citing rules
+        (`rules/330/170/oar-330-170-0020.md` and two siblings) read "ORS 351.141
+        Statutes/Other Implemented: ORS 315.141 & 469B.403" right next to it, and this
+        corpus holds `ors-315.141.md` ("Biomass production or collection..."): a
+        transposed-chapter typo for a section already held here, not a coverage gap in
+        chapter 351 at all.
+      * ORS 286.806 -- same mirrored-but-empty, not-in-the-snapshot shape as 351.141, but
+        this corpus additionally holds `ors-286a.806.md` -- a lettered sibling of chapter
+        286 -- so the note surfaces that document as the likely intended target rather
+        than leaving a reader who cannot check `oregonlegislature.gov` right now with
+        nothing.
       * ORS 935.035 -- chapter 935 is cited 62 times across 21 documents (935.035 x41,
         935.040 x21 -- an OAR rule's authority line, apparently a transcription of chapter
         835, is one of them, not the whole of it) and is absent from BOTH the mirrored set
         and the discovery catalog. Nothing here can tell a real, un-ingested chapter apart
         from a typo or a chapter Oregon does not use, and the note says so explicitly
         rather than guessing either way -- regardless of how often it is cited.
-      * ORS 151.999 -- chapter 151 IS mirrored (18 sections, landed for this same issue).
-        Section .999 does not exist in it. This is the WRONG-citation case, and it must
-        keep the answer it already had -- unaffected by the fix above."""
+      * ORS 151.999 -- chapter 151 IS mirrored (18 sections, landed for this same issue)
+        AND holds documents. Section .999 does not exist in it. This is the WRONG-citation
+        case, and it must keep the answer it already had -- unaffected by the fixes above."""
     r = fw.resolve_citation("ORS 151.211")
     ck("ORS 151.211 resolves now that chapter 151 is mirrored",
        [m["id"] for m in r["matches"]] == ["ors-151.211"])
@@ -880,6 +1176,44 @@ def _proof_ors_unmirrored_chapter_states_absence(ck, fw):
        "discovery" in note.lower() and "cannot tell" not in note.lower())
     ck("...and does not read like the generic wrong-citation answer",
        "no such document exists" not in note)
+
+    r = fw.resolve_citation("ORS 606.010")
+    ck("a citation into a chapter this corpus SELECTED but holds zero documents from "
+       "resolves to nothing",
+       bool(r.get("unresolved")) and not r["matches"])
+    note = r.get("note") or ""
+    ck("...and states the absence explicitly, naming the chapter",
+       "ORS chapter 606" in note)
+    ck("...and says it WAS selected, not that it was never chosen for ingestion -- the "
+       "351.010-shaped note #210 gives a real un-mirrored chapter would be a FALSE claim "
+       "here",
+       "selected ORS chapter 606" in note and "was not selected for ingestion" not in note)
+    ck("...and does not read like the generic wrong-citation answer",
+       "no such document exists" not in note)
+    ck("#292 code review: 606.010 IS corroborated in the chapter's own snapshot, so THIS "
+       "note may say it is not a wrong/nonexistent section -- and does",
+       "IS printed in this chapter's own committed snapshot" in note
+       and "not a citation to a wrong or nonexistent section" in note)
+
+    r = fw.resolve_citation("ORS 351.141")
+    ck("a citation into a mirrored-but-empty chapter, to a section the chapter's own "
+       "snapshot does NOT print anywhere, still resolves to nothing (a coverage-gap "
+       "chapter, same as 606.010)",
+       bool(r.get("unresolved")) and not r["matches"])
+    note = r.get("note") or ""
+    ck("#292 code review: this section is NOT corroborated, so the note must NOT make "
+       "606.010's reassurance -- the old unconditional claim was FALSE for this exact "
+       "citation",
+       "not a citation to a wrong or nonexistent section" not in note)
+    ck("...and instead states the negative evidence explicitly, naming the section",
+       "does not print 351.141 anywhere" in note and "may be a wrong or mistyped "
+       "section number" in note)
+
+    r = fw.resolve_citation("ORS 286.806")
+    note = r.get("note") or ""
+    ck("#292 code review: an uncorroborated section in a chapter that ALSO holds a "
+       "lettered sibling at the same number surfaces that document by name",
+       "DOES hold a document at ORS 286A.806" in note)
 
     r = fw.resolve_citation("ORS 935.035")
     ck("a citation to a chapter with no corroborating evidence resolves to nothing",
@@ -896,6 +1230,86 @@ def _proof_ors_unmirrored_chapter_states_absence(ck, fw):
        "answer, unaffected by the chapter-level fix",
        bool(r.get("unresolved")) and not r["matches"]
        and "no such document exists" in (r.get("note") or ""))
+
+
+def _proof_ors_chapter_and_section_widths(ck, fw):
+    """#293. `ORS_C`'s old `\\d{2,3}` chapter floor made every single-digit ORS chapter
+    invisible to the SCHEME MATCH itself -- before `_resolve_ors` is ever reached, not
+    after. `_ORS_CHAPTER_RE`'s independently-wider `\\d+` never caught this, because a
+    citation had to survive `ORS_C`'s match first to reach it at all -- the fix is a
+    shared token, not a second widening of the same question.
+
+    Every positive case here resolves a REAL HELD DOCUMENT through `fw.resolve_citation`
+    -- the served path -- because a proof the pattern object matches is not a proof the
+    resolver answers (#202's own lesson, one scheme over): every id asserted below has a
+    file on disk (`statutes/ors-<id-without-prefix>.md`) before this proof runs.
+
+      * ORS 1.001, ORS 9.005 -- single-digit chapters (1 = "General Provisions", 9 =
+        "Limitations"), refused by the old floor before ever reaching `_resolve_ors`.
+      * ORS 71.1010 -- the UCC chapters (71-80) number sections in 4 digits, not 3; the
+        old `\\.\\d{3}` tail refused these the same way, one token over.
+      * ORS 79A.1010, ORS 163A.005, ORS 86A.095 -- lettered chapters, held (79A.1010 is
+        the SAME shape as 71.1010: a lettered chapter with a 4-digit section, newly
+        enabled by the SAME fix, not exercised above), omitted from every one of the
+        review that found this gap's six predecessors and the review that closed it.
+      * ORS 12.010, ORS 151.010 -- 2- and 3-digit-chapter controls, already working before
+        this fix; asserted here so a future edit to the chapter token cannot silently
+        narrow back past what already worked.
+
+    ONE NEGATIVE CASE, the regression a five-positives-zero-negatives proof could not
+    catch and in fact did not: widening the chapter floor to 1 digit also made every
+    bare (no "ORS" prefix) `N.NNN`-shaped string in this corpus's own internal document
+    numbering -- OSH "Policy 1.005", "Pharmacy protocol 1.010", and the like -- match as
+    an ORS citation and resolve to an unrelated real statute. `'OSH Policy 1.005'` is a
+    real string this corpus holds (`agencies/oregon-health-authority/policies/oha-
+    osh-1-005.md`'s own `citation:` frontmatter field) and `ors-1.005` is a real held
+    document ("Credit card transactions...", nothing to do with IT hardware) -- so this
+    is not a synthetic fixture, it is the actual failure the graph-edge audit found,
+    reproduced through the same served path the positive cases above use."""
+    for section, cid in (("ORS 1.001", "ors-1.001"), ("ORS 9.005", "ors-9.005"),
+                        ("ORS 71.1010", "ors-71.1010"), ("ORS 79A.1010", "ors-79a.1010"),
+                        ("ORS 163A.005", "ors-163a.005"), ("ORS 86A.095", "ors-86a.095"),
+                        ("ORS 12.010", "ors-12.010"), ("ORS 151.010", "ors-151.010")):
+        r = fw.resolve_citation(section)
+        ck(f"{section!r} resolves to the held document {cid!r}",
+           [m["id"] for m in r["matches"]] == [cid])
+
+    r = fw.resolve_citation("OSH Policy 1.005")
+    ck("'OSH Policy 1.005' (an internal agency policy number, not an ORS citation) "
+       "does NOT resolve to ors-1.005",
+       "ors-1.005" not in [m["id"] for m in r["matches"]])
+
+
+def _proof_ors_does_not_shadow_das_oam_number(ck, fw):
+    """#293's SECTION widening (3-to-4 digits) has a second edge, distinct from the
+    chapter-floor false-positive above: it lets `ORS_C`'s 2-3-digit-chapter branch match
+    the TRAILING TWO groups of a genuine three-part dotted/dashed number -- a das-oam
+    policy id, a phone number, anything shaped `NNN.NNN.NNNN` -- as if they were an ORS
+    chapter and section. `'503.229.5408'` is not a fixture: it is the phone number in
+    `agencies/department-of-environmental-quality/policies/deq-imd-7070200.md`, and
+    `_resolve_ors` used to answer it with "this corpus does not mirror ORS chapter 229"
+    -- a specific, false claim about a chapter number that exists only as a misparse of
+    someone's phone number.
+
+    TRIED AND REVERTED before landing this: reordering `register_scheme("das-oam-number",
+    ...)` ahead of `register_scheme("ors", ...)` so the more specific pattern would win.
+    It does not change the answer, measured, because corpus-toolkit v1.31.1 (what this
+    corpus actually pins and runs) does not do first-pattern-wins -- it tries every
+    scheme whose pattern matches and merges their candidates and notes, so registration
+    order was never the mechanism. The comment above `register_scheme("ors", ...)`
+    describing "First pattern to MATCH wins" is about an older corpus-toolkit shape, not
+    this one; left alone here because rewriting it is not part of what this proof closes,
+    but the mechanism THIS fix relies on is not that comment's, and this docstring says so
+    rather than repeat the same assumption a second place. The real fix lives in
+    `_resolve_ors`: `NUMS_C` requires three dot/dash-separated numeric groups, which no
+    genuine 2-part ORS citation ever has, so a string `NUMS_C` also matches structurally
+    cannot be one -- checked directly rather than raced through registration order."""
+    r = fw.resolve_citation("503.229.5408")
+    ck("'503.229.5408' (a phone number this corpus holds, not a citation) resolves "
+       "to nothing", r["matches"] == [])
+    ck("...and the note does not claim a specific ORS chapter 229 is unmirrored -- that "
+       "chapter number is an artifact of the misparse, not a real citation",
+       "chapter 229" not in (r.get("note") or ""))
 
 
 def _proof_federal_schemes_survive_registration(ck, fw):
