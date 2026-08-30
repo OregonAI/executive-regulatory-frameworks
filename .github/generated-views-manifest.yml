@@ -59,6 +59,9 @@ gates:
   - name: "Ingest-status vocabulary rule must be able to fail"
     seconds: 0.0
     shard: 4
+  - name: "Shared corpus-walk and division-status rules must both be able to fail"
+    seconds: 0.0
+    shard: 4
   - name: "Legal status must have exactly one writer"
     seconds: 0.0
     shard: 4

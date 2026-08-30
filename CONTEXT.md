@@ -289,6 +289,27 @@ day they first collide nothing else in the repository would notice.
 _Avoid_: Status, unqualified. The two fields share a name and mean different things, which is
 why both entries exist
 
+**Division status**:
+A division's Ingest status, aggregated up from the rules beneath it — one level up from
+Ingest status the way Ingest status is one level up from a single rule, and one level down
+from Chapter selection. It lives in `_meta/catalog/oar.yml` as `divisions[].status`, derived
+rather than stored (`repo_lib.division_status()`, the one writer, read by `catalog_oar.py`
+and gated in both directions by `catalog_agreement.py --check`, which refuses a stored value
+that disagrees with what the rules beneath it say). `ingested` and `partially_ingested` need
+no Ingest-status word of their own — they mean every rule is HELD, or some but not all are —
+but the rest of `DIVISION_STATUSES` deliberately REUSES `not_ingested`, `not_served`,
+`not_sliceable` and `needs_registry` from the rule-level vocabulary rather than inventing
+division-scoped synonyms: a division whose rules are UNIFORMLY one reasoned-absence word
+keeps that same word, because coining a second spelling for the same reason would be the
+thing `_Avoid_` lines exist to prevent, one level up from where they usually apply. `no_rules`
+is the one word Ingest status has no counterpart for — nothing about an empty division's
+rules has been enumerated FROM THIS FUNCTION'S OWN VANTAGE, whatever a division-level note
+elsewhere happens to already say about it.
+_Avoid_: Status, unqualified — this is a fourth fact spelled that way, and four of its five
+non-`partially_ingested` words are also literally Ingest-status words; a rule row and the
+division row above it can each carry `status` in the same document and mean two different
+things by it
+
 **Chapter selection**:
 Whether an ORS chapter is in this corpus's mirror AT ALL — one level up from Ingest status,
 which is about a document WITHIN a chapter already selected. It lives in

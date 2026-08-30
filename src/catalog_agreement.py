@@ -34,7 +34,9 @@ is the one declaration -- and was stored. 2,716 of 2,815 divisions said `not_ing
 every rule beneath them read `ingested`, because the ingest carried the previous value across
 on the branch that looked like it was promoting it. `partially_ingested` sat on exactly one
 row, written by nobody and read by nothing; deriving gives it the meaning it never had -- SOME
-but not all -- on 43 divisions.
+but not all -- for a real, if small, share of divisions (the live count prints on every
+`--check` run below rather than being restated here to go stale the way #306 already found
+one such count had).
 
 #241 THE FILE'S OWN NOTE. `save_catalog()` restated a hardcoded literal on every write. The
 committed note is 1,937 characters and that literal is a 507-character PREFIX of it, so any
@@ -171,7 +173,11 @@ def cmd_selftest() -> int:
     fails = []
     import copy
     good = {"chapters": [{"chapter": "407", "divisions": [{
-                "division": "045", "status": "not_ingested", "rules": [
+                # "ingested", not "not_ingested" -- #298: a division whose only rule is
+                # `renumbered` IS served, just under another number, and
+                # `repo_lib.division_status` counts `renumbered` on the HELD side of
+                # `ingest_status.HELD_INGEST_STATUSES` the same way it counts `ingested`.
+                "division": "045", "status": "ingested", "rules": [
                     {"number": "407-045-0465", "status": "renumbered",
                      "served_as": "419-120-0060",
                      "path": "rules/419/120/oar-419-120-0060.md"}]}]}],
@@ -217,11 +223,18 @@ def cmd_selftest() -> int:
                      "2 committed documents are in exactly that shape")
 
     # #236, both directions: stored-too-low was the defect, stored-too-high is what a fix
-    # that simply wrote `ingested` everywhere would introduce.
-    low = copy.deepcopy(good); low["chapters"][0]["divisions"][0]["status"] = "ingested"
+    # that simply wrote `ingested` everywhere would introduce. Both set `rules` AND `status`
+    # explicitly rather than inheriting either from `good` -- #298 changed what `good`'s own
+    # `status` correctly is, and a case that only overrides one of the two fields would stop
+    # testing what its name says the moment the other field's baseline value changed under it.
+    low = copy.deepcopy(good)
+    low["chapters"][0]["divisions"][0]["status"] = "ingested"
+    low["chapters"][0]["divisions"][0]["rules"] = [
+        {"number": "407-045-0465", "status": "not_ingested"}]
     case("a-division-claiming-ingested-over-rules-that-are-not",
          "a-divisions-status-is-what-its-rules-say", low)
     high = copy.deepcopy(good)
+    high["chapters"][0]["divisions"][0]["status"] = "not_ingested"
     high["chapters"][0]["divisions"][0]["rules"] = [
         {"number": "x", "status": "ingested", "path": "rules/419/120/oar-419-120-0060.md"}]
     case("...and one saying not_ingested over rules that are",

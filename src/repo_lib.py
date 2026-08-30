@@ -1,8 +1,10 @@
 """Shared helpers for repo validation tooling."""
+import argparse
 import ast
 import datetime
 import hashlib
 import html
+import os
 import re
 import subprocess
 import sys
@@ -125,16 +127,88 @@ def _is_content_path(p: Path) -> bool:
     return rel.parts and rel.parts[0] in CONTENT_DIRS
 
 
+class MissingContentDir(RuntimeError):
+    """Raised by content_files() when a directory CONTENT_DIRS declares does not exist on
+    disk, OR EXISTS BUT COULD NOT BE WALKED TO THE BOTTOM (permissions, a bad mount, a `git
+    sparse-checkout` slice). CONTENT_DIRS is a fixed, declared list -- a missing or
+    unreadable entry is not an empty corpus section, it is a corpus this process COULD NOT
+    READ (AGENTS.md's overriding rule: could not check is never reported as is not there).
+    Silently skipping the missing case (#316, measured on `main` at 7e850ecca6) let a
+    one-character typo in a directory name drop the yield from 81,921 to 39,360 documents --
+    42,561 gone, exit 0, no warning -- and every gate that says "measured across the corpus"
+    walks this function, so each of them would have reported green on a corpus half its size
+    with a wrong denominator in every finding. THE UNREADABLE CASE IS THE SAME SUBSTITUTION
+    ONE LEVEL DOWN, and #316 names it explicitly: `Path.rglob` swallows a `PermissionError`
+    from any directory it cannot list and simply yields fewer files -- no exception, no
+    warning (measured: `list(unreadable_dir.rglob("*.md"))` is `[]` on Python 3.12.3, not a
+    raise). A directory that exists but cannot be listed reads exactly like one that was
+    walked and genuinely holds zero documents unless something probes it on purpose."""
+
+
 def content_files():
-    """Yield every content document (excludes _index.md and CHANGELOG.md)."""
+    """Yield every content document (excludes _index.md and CHANGELOG.md).
+
+    Checks every directory CONTENT_DIRS declares exists, and eagerly walks all of them to
+    the bottom, BEFORE returning anything to the caller (#316) -- content_files() forces
+    `_walk_content_dirs()`'s generator to completion and hands back an iterator over the
+    materialized result, rather than being a generator function itself whose body (and these
+    checks with it) would not run a single line until the caller's first `next()`. Raising
+    eagerly, at call time, means a refusal -- missing directory, or one `os.walk` could not
+    read all the way down -- cannot be hidden by a caller who only partially consumes the
+    result (`itertools.islice`, a `break` after the first few) -- every real caller in this
+    repo just does `for p in content_files():`, so MissingContentDir propagates as a loud
+    crash the moment it's called, never a quietly undercounted corpus that happens not to
+    hit the missing or unreadable directory before the caller stops looking.
+    """
+    missing = [d for d in CONTENT_DIRS if not (REPO_ROOT / d).is_dir()]
+    if missing:
+        raise MissingContentDir(
+            f"CONTENT_DIRS declares {missing} but "
+            + ("it does" if len(missing) == 1 else "they do")
+            + " not exist on disk under REPO_ROOT -- a missing declared content directory "
+            "is a corpus this process could not read, never an empty one")
+    # A directory can exist and still refuse to be listed (chmod 000, a failed bind mount, a
+    # sparse-checkout slice) -- `Path.is_dir()` above is silent about that, and so is
+    # `Path.rglob` further down, which is why this checks each declared top-level dir
+    # directly with `os.scandir` before ever walking into it.
+    unreadable = []
+    for d in CONTENT_DIRS:
+        try:
+            next(os.scandir(REPO_ROOT / d), None)
+        except OSError as e:
+            unreadable.append((d, e))
+    if unreadable:
+        names = [d for d, _ in unreadable]
+        detail = "; ".join(f"{d}: {e.strerror or e}" for d, e in unreadable)
+        raise MissingContentDir(
+            f"CONTENT_DIRS declares {names} but "
+            + ("it exists and could not be listed" if len(names) == 1
+               else "they exist and could not be listed")
+            + f" ({detail}) -- a directory that exists but cannot be read is a corpus this "
+            "process could not read, never one confirmed empty")
+    return iter(list(_walk_content_dirs()))
+
+
+def _walk_content_dirs():
     for d in CONTENT_DIRS:
         root = REPO_ROOT / d
-        if not root.is_dir():
-            continue
-        for p in sorted(root.rglob("*.md")):
-            if p.name.startswith("_") or p.name in NON_CONTENT_NAMES:
-                continue
-            yield p
+        found = []
+
+        def _onerror(err):
+            # A directory nested under a declared content dir can be unreadable even when
+            # the top-level scan above succeeded (chmod on a subdirectory, a partial mount).
+            # `os.walk` swallows this silently unless `onerror` is given -- give it one that
+            # refuses instead, the same substitution one level deeper than the top-level check.
+            raise MissingContentDir(
+                f"{d} could not be walked to the bottom -- {err.filename!r} raised "
+                f"{err.strerror or err} -- a directory that exists but cannot be fully read "
+                "is a corpus this process could not read, never one confirmed empty")
+
+        for dirpath, _dirnames, filenames in os.walk(root, onerror=_onerror):
+            found.extend(Path(dirpath) / name for name in filenames)
+        for p in sorted(found):
+            if p.suffix == ".md" and not p.name.startswith("_") and p.name not in NON_CONTENT_NAMES:
+                yield p
 
 
 # Frontmatter fields that constitute an AUTHORITY CLAIM rather than a mention -- a
@@ -742,7 +816,34 @@ def normalize_volatile(data: bytes) -> bytes:
 # the branch that looked like it was promoting it. A stored value that nothing reconciles
 # with the rows beneath it is a false statement about this mirror, which is CONTEXT.md's
 # `could not check is never is not there` in its data form.
-DIVISION_STATUSES = ("ingested", "partially_ingested", "not_ingested")
+#
+# FIVE WORDS, NOT THREE (#298). The original three-word aggregate (`ingested`,
+# `partially_ingested`, `not_ingested`) counted only the literal rule-level word `ingested`
+# and folded everything else -- no rules at all, every rule `renumbered`, every rule
+# `not_served`, rules with an undeclared status -- into `not_ingested`. Three of those were
+# wrong in different ways, measured on `main` at 7e850ecca6: NO RULES AT ALL is *could not
+# check* reported as *is not there*, the exact substitution AGENTS.md's overriding rule
+# names; EVERY RULE `renumbered` means the division IS served, just under other numbers --
+# `not_ingested` is a false claim about the mirror, not merely an imprecise one; EVERY RULE
+# `not_served` is a *reasoned* absence (OARD serves nothing recognizable for it, likely
+# repealed) whose reason `not_ingested` throws away. `no_rules` and `not_served` are the two
+# new words that give those states back a name; `renumbered` gets no new word of its own --
+# it joins `ingested` in the HELD side of `ingest_status.HELD_INGEST_STATUSES`, which is
+# exactly what "IS served, elsewhere" means at the granularity this aggregate already
+# reports at (a `served_as` pointer is one attribute of a rule row, readable directly, not
+# a distinction this coarser aggregate has ever tried to preserve for the literally-ingested
+# case either).
+# THE FIVE ORIGINAL WORDS, PLUS THE TWO REASONED-ABSENCE WORDS #298 LEFT GENERIC (below).
+# `not_sliceable` and `needs_registry` are declared, specific ingest-status words
+# (`ingest_status.INGEST_STATUS_VALUES`, #333) the same way `not_served` is -- a division
+# whose rules are UNIFORMLY one of them is exactly the shape #298 already carved `not_served`
+# out for, so it gets the same treatment rather than falling into the generic word. Neither
+# has ever been written to a rule in this corpus (CONTEXT.md's *Ingest status* census reads
+# 0 for both), so nothing in `division_status()` below could return either of these two
+# TODAY -- they are declared here so that the day one is, the return value is a member of
+# this tuple rather than a silent seventh word nothing named.
+DIVISION_STATUSES = ("ingested", "partially_ingested", "not_ingested", "not_served",
+                     "not_sliceable", "needs_registry", "no_rules")
 
 
 def division_status(rules) -> str:
@@ -750,14 +851,47 @@ def division_status(rules) -> str:
 
     `partially_ingested` had been written onto exactly one row by nobody and read by
     nothing. Deriving gives it the meaning it never had -- SOME but not all -- rather than
-    retiring a word the data turns out to need for 43 divisions.
+    retiring a word the data turns out to need for a real, if small, share of divisions
+    (`catalog_agreement.py --check` prints the live count on every run rather than this
+    docstring restating one that would only go stale the way #306 already found one had).
+
+    HELD comes from `ingest_status.HELD_INGEST_STATUSES` (#333's declared vocabulary),
+    imported here rather than restated -- a rule counts toward this division being served
+    if it is `ingested` OR `renumbered`, the same two words that vocabulary already marks
+    held. Imported lazily (inside the function body, not at module top level): see
+    `_ledger()`'s docstring below for why a top-level import of anything that itself
+    imports `repo_lib` would be a real, invocation-order-dependent cycle from this
+    particular module, not merely an unlikely one.
     """
     if not rules:
-        return "not_ingested"
-    ingested = sum(1 for r in rules if r.get("status") == "ingested")
-    if ingested == len(rules):
+        # NO RULES AT ALL IS NOT A MEASUREMENT OF ZERO (#298). `division_status()` sees
+        # only this list, never the division row it came from -- so even on the days every
+        # committed empty division carries a mechanically-confirmed
+        # CONFIRMED_EMPTY_DIVISION_MARK or CLAIMED_ELSEWHERE_DIVISION_MARK note
+        # (`catalog_oar.py`'s own "AN EMPTY DIVISION IS A CLAIM, NOT A GAP"), THIS function
+        # has no way to tell that confirmation apart from a division nobody has enumerated
+        # yet -- so it names the state neutrally, `no_rules`, rather than asserting either.
+        return "no_rules"
+    from ingest_status import HELD_INGEST_STATUSES, INGEST_STATUS_VALUES
+    held = sum(1 for r in rules if r.get("status") in HELD_INGEST_STATUSES)
+    if held == len(rules):
         return "ingested"
-    return "not_ingested" if ingested == 0 else "partially_ingested"
+    if held > 0:
+        return "partially_ingested"
+    # HELD == 0 from here down: nothing in this division is served. A REASONED ABSENCE --
+    # not_served, not_sliceable, needs_registry: every declared word #333 marks NOT held and
+    # is not the generic `not_ingested` -- keeps its own reason rather than being flattened,
+    # the same move #298 made for `not_served` alone, generalized to every word that
+    # vocabulary declares rather than one literal restated here (#298's own scope note: "or,
+    # symmetrically, some other named state ... a judgment call for whoever picks this up").
+    # A division whose rules mix TWO DIFFERENT reasoned-absence words, or mix a reasoned
+    # word with a rule that literally says `not_ingested`, has no single reason to report and
+    # still falls to the generic word -- #298 only names the UNIFORM case as a defect.
+    reasoned = set(INGEST_STATUS_VALUES) - set(HELD_INGEST_STATUSES) - {"not_ingested"}
+    statuses = {r.get("status") for r in rules}
+    if len(statuses) == 1 and statuses <= reasoned:
+        return next(iter(statuses))
+    return "not_ingested"
 
 
 def snapshot_text(raw: bytes) -> str:
@@ -877,3 +1011,213 @@ class Checks:
         """Print the verdict and return the exit code it means."""
         print(f"{label} {'OK' if not self.failed else 'FAILED'}")
         return 1 if self.failed else 0
+
+
+# ------------------------------------------------------------------------------ check rules
+#
+# THE TWO PROPERTIES #316 AND #298 FIXED, given named rules and a `--selftest` that watches
+# each one fire -- `content-dir-declared-present` against a real fixture on disk, broken and
+# restored; `division-status-not-collapsed` against `division_status()`, a pure function,
+# fed each collapsed state's input directly rather than a fixture mutated on disk -- the same
+# discipline every other `--check`/`--selftest` pair in this repo proves itself with, adopted
+# here via `check_rule_ledger.RuleLedger` (#319) rather than a fourth hand-rolled `_FIRED` set.
+
+CHECK_RULES = (
+    "content-dir-declared-present",
+    "division-status-not-collapsed",
+)
+
+# BUILT LAZILY, NOT AT MODULE TOP LEVEL. `check_rule_ledger.py` itself does `from repo_lib
+# import Checks` -- a top-level `from check_rule_ledger import RuleLedger` HERE would be a
+# real, invocation-order-dependent cycle, not merely an unlikely one: every existing
+# `--check`/`--selftest` that imports `check_rule_ledger` (legal_status.py, ingest_status.py,
+# catalog_agencies.py, catalog_oar.py, and check_rule_ledger.py's own `--selftest`) imports
+# IT first, which starts loading THIS file fresh to satisfy `from repo_lib import Checks` --
+# and if this file's own top level then tried `import check_rule_ledger`, Python would find
+# `check_rule_ledger` already registered in `sys.modules` but paused mid-execution, at the
+# exact line waiting on THIS import, with its `RuleLedger` class not yet defined --
+# `ImportError: cannot import name 'RuleLedger' from partially initialized module`, on the
+# single most common invocation shape in this repo's CI. Deferred to call time instead: by
+# the time any code actually CALLS `_ledger()`, this module -- whatever name it was loaded
+# under -- has already finished executing its own top level, so there is nothing left to be
+# circular about. `division_status()` above imports `ingest_status` the same way and for
+# the same reason.
+_LEDGER = None
+Failure = None  # bound by _ledger(); AST-scanned by name, so proofs below call it bare
+
+
+def _ledger():
+    global _LEDGER, Failure
+    if _LEDGER is None:
+        from check_rule_ledger import RuleLedger
+        _LEDGER = RuleLedger(CHECK_RULES, __file__)
+        Failure = _LEDGER.Failure
+    return _LEDGER
+
+
+def _proof_missing_content_dir_refuses(check) -> None:
+    """#316, broken on a scratch tree standing in for REPO_ROOT -- never the real corpus --
+    so this proves the refusal without depending on `rules/` actually existing to fail.
+
+    TWO WAYS TO BREAK IT, because #316 names two: a declared dir that does not exist, and one
+    that exists but cannot be listed (permissions, a bad mount, a `git sparse-checkout`
+    slice) -- `Path.rglob` silently drops the latter's files rather than raising, so a
+    `--selftest` that only proved the first case would leave the second exactly as blind as
+    the defect it was written to catch."""
+    import tempfile
+    global REPO_ROOT
+    real_root = REPO_ROOT
+    try:
+        with tempfile.TemporaryDirectory() as d:
+            root = Path(d)
+            for name in CONTENT_DIRS:
+                (root / name).mkdir()
+            REPO_ROOT = root
+            check("every declared content dir present yields no findings and raises nothing",
+                  list(content_files()) == [])
+
+            (root / "rules").rmdir()  # BREAK IT: one declared dir goes missing
+            raised = None
+            try:
+                list(content_files())
+            except MissingContentDir as e:
+                raised = e
+            if raised is not None:
+                Failure("content-dir-declared-present", "content_files()", str(raised))
+            check("a missing declared content dir raises MissingContentDir, naming it",
+                  raised is not None and "rules" in str(raised))
+
+            running_as_root = os.geteuid() == 0 if hasattr(os, "geteuid") else True
+            if running_as_root:
+                # Permission bits don't restrict root, so chmod 000 can't reproduce the
+                # unreadable case here -- report that honestly rather than letting a
+                # would-be-refusal read as one that fired (the same substitution this rule
+                # exists to catch, one level up: an environment that could not exercise the
+                # mutation is not an environment that found the guard unnecessary).
+                check("present-but-unreadable content dir raises MissingContentDir, naming it "
+                      "(SKIPPED: running as root, permission bits do not apply)", True)
+            else:
+                (root / "rules").mkdir()  # BREAK IT DIFFERENTLY: present, but unlistable
+                os.chmod(root / "rules", 0o000)
+                raised = None
+                try:
+                    list(content_files())
+                except MissingContentDir as e:
+                    raised = e
+                finally:
+                    os.chmod(root / "rules", 0o755)  # RESTORE IT -- TemporaryDirectory
+                    # cleanup below has to be able to walk back into this directory
+                if raised is not None:
+                    Failure("content-dir-declared-present", "content_files()", str(raised))
+                check("a present-but-unreadable content dir raises MissingContentDir, naming it",
+                      raised is not None and "rules" in str(raised))
+    finally:
+        REPO_ROOT = real_root  # RESTORE IT
+
+
+def _proof_division_status_distinguishes_the_five_states(check) -> None:
+    """#298, exercised directly -- division_status() is a pure function, so "break it" is
+    feeding it each collapsed state's input rather than mutating a fixture on disk.
+
+    Every case below also has its return value checked against DIVISION_STATUSES -- the
+    declared table this function may return from -- so a case that started returning a
+    seventh word nothing declared would fail here even though nothing scans for it the way
+    `ingest_status.py`'s AST-based ledger scans a vocabulary's writers."""
+    def in_table(word):
+        return word in DIVISION_STATUSES
+
+    no_rules = division_status([])
+    check("a division with no rules at all is not conflated with not_ingested",
+          no_rules == "no_rules" and in_table(no_rules))
+
+    check("every rule explicitly not_ingested is genuinely not_ingested",
+          division_status([{"status": "not_ingested"}]) == "not_ingested")
+
+    every_not_served = division_status(
+        [{"status": "not_served"}, {"status": "not_served"}])
+    check("every rule not_served keeps its own reasoned word, not the generic one",
+          every_not_served == "not_served" and in_table(every_not_served))
+
+    # THE SAME TREATMENT, FOR THE OTHER TWO REASONED-ABSENCE WORDS #333 DECLARES. Neither
+    # has ever been written to a real rule (CONTEXT.md's census reads 0 for both), so this is
+    # the only place either composition is exercised at all -- a `--selftest` that only
+    # proved `not_served` would leave `not_sliceable` and `needs_registry` exactly as
+    # untested as the defect #298 exists to catch, one word over.
+    every_not_sliceable = division_status(
+        [{"status": "not_sliceable"}, {"status": "not_sliceable"}])
+    check("every rule not_sliceable keeps its own reasoned word too",
+          every_not_sliceable == "not_sliceable" and in_table(every_not_sliceable))
+    every_needs_registry = division_status([{"status": "needs_registry"}])
+    check("...and so does every rule needs_registry",
+          every_needs_registry == "needs_registry" and in_table(every_needs_registry))
+
+    every_renumbered = division_status([{"status": "renumbered"}])
+    check("every rule renumbered means the division IS served, not not_ingested",
+          every_renumbered == "ingested" and in_table(every_renumbered))
+
+    ingested_and_not_served = division_status(
+        [{"status": "ingested"}, {"status": "not_served"}])
+    check("ingested beside not_served -- the shape nearly every real partially_ingested "
+          "division in the committed catalog actually has -- is partially, not fully, ingested",
+          ingested_and_not_served == "partially_ingested" and in_table(ingested_and_not_served))
+    check("renumbered and ingested rules together are still fully served",
+          division_status([{"status": "renumbered"}, {"status": "ingested"}]) == "ingested")
+    check("one held rule among several unheld ones is partially, not not, ingested",
+          division_status([{"status": "renumbered"}, {"status": "not_ingested"}])
+          == "partially_ingested")
+    check("a mix of two DIFFERENT reasoned-absence words has no single reason to report "
+          "and falls to the generic word",
+          division_status([{"status": "not_served"}, {"status": "not_sliceable"}])
+          == "not_ingested")
+    check("a mix of not_served and other unheld reasons falls to the generic word",
+          division_status([{"status": "not_served"}, {"status": "not_ingested"}])
+          == "not_ingested")
+    check("a status nobody declared is not silently counted as held",
+          division_status([{"status": "an-undeclared-word"}]) == "not_ingested")
+
+    if (no_rules == "no_rules" and every_not_served == "not_served"
+            and every_not_sliceable == "not_sliceable"
+            and every_needs_registry == "needs_registry"
+            and every_renumbered == "ingested"
+            and ingested_and_not_served == "partially_ingested"):
+        Failure("division-status-not-collapsed", "division_status()",
+                "no rules, every reasoned-absence word (not_served, not_sliceable, "
+                "needs_registry) and every-renumbered are told apart from not_ingested and "
+                "from each other, rather than all of them reading as one word")
+
+
+def selftest() -> int:
+    check = Checks()
+    _ledger()  # binds the module-level `Failure` name before the proofs above call it bare
+    _proof_missing_content_dir_refuses(check)
+    _proof_division_status_distinguishes_the_five_states(check)
+
+    gaps = _LEDGER.gaps()
+    declared_gap = (f" (emitted-not-declared={sorted(gaps.emitted_but_undeclared)}, "
+                    f"declared-not-emitted={sorted(gaps.unemitted_but_declared)})"
+                    if gaps.emitted_but_undeclared or gaps.unemitted_but_declared else "")
+    check("every rule this module can report is declared" + declared_gap, not declared_gap)
+    unfired_gap = f" (unfired={sorted(gaps.unfired)})" if gaps.unfired else ""
+    check("...and every declared rule was watched firing, not merely listed" + unfired_gap,
+          not unfired_gap)
+    return check.report(
+        f"{_LEDGER.demonstrated_count} rule(s) declared, every one watched firing -- "
+        "content-dir-declared-present against a broken fixture and restored, "
+        "division-status-not-collapsed against every collapsed input directly -- selftest")
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=(__doc__ or "").splitlines()[0]
+                                  if __doc__ else "repo_lib")
+    ap.add_argument("--selftest", action="store_true",
+                     help="prove content_files() and division_status() can each fail, "
+                          "named rule by named rule")
+    a = ap.parse_args()
+    if a.selftest:
+        return selftest()
+    ap.print_help()
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
