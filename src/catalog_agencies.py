@@ -795,8 +795,9 @@ def relation_fault(entry):
         if form is None or form == "reviewed-none":
             return (f"relation {entry!r} cites no authority this registry can record "
                     "— expected an ORS citation (`ORS 576.066`), a constitutional article, "
-                    "or an executive order; leave the key off where no authority has been "
-                    "established for the relation" + ("" if form else f" ({detail})"))
+                    "an executive order, or a session law; leave the key off where no "
+                    "authority has been established for the relation"
+                    + ("" if form else f" ({detail})"))
     return None
 
 
@@ -976,6 +977,68 @@ AUTHORITY_FORMS = (
     # turns out to be created by that order, it is a decision to record here rather than a
     # surprise at the gate.
     ("executive-order", re.compile(r"Executive Order \d\d-\d\d")),
+    # `Oregon Laws 1975, chapter 789` — an uncodified SESSION LAW (#211). A body created by
+    # one has admitting evidence exactly as a body created by an ORS section does; before
+    # this form existed the registry could only leave the row empty (reading as "nobody
+    # looked") or cite a codified section that merely carries the body's OPERATION forward
+    # without restating its creation. #211's OWN WORKED CASE is the Legislative Fiscal
+    # Office (Oregon Laws 1959, chapter 70; codified ORS 173.410-173.465, none of which
+    # creates the office — 173.410 defines "appointing authority", 173.465 creates the
+    # FUND). This module's example is the Legislative Revenue Office instead, a second,
+    # independently-supplied instance of the same shape: ORS 173.800-173.855 mirror
+    # everything the 1975 act did to that office except the sentence that created it, and
+    # citing 173.800 anyway would be the same wrong-section failure ADR 0004 already refuses
+    # for `administered_by` (576.066 in place of 576.062).
+    #
+    # DERIVED FROM THE CORPUS, MEASURED, NOT FROM A STYLE GUIDE. Two independent measurements
+    # anchor this shape, both against MIRRORED (verbatim) text, never curated prose:
+    #   (1) `\d{4} c\.\d+` — the Legislative Counsel's own bracket citation of a session law
+    #       inside a codified section's history note — occurs 294,366 times across 34,163
+    #       mirrored ORS sections (23,213 distinct year/chapter pairs), establishing that a
+    #       session law's identity IS its year and chapter number. `statutes/ors-173.800.md`
+    #       itself carries `[1975 c.789 §1]` — the exact enactment behind this ticket's
+    #       verified instance.
+    #   (2) `Oregon Laws \d{4}, chapter \d+` — the SAME identity spelled out in prose — is not
+    #       curator commentary; it is mirrored text. `rules/603/008/oar-603-008-0000.md`
+    #       reads "...as authorized by Oregon Laws 2020, chapter 6" — a genuine, unspliced
+    #       instance. RE-MEASURED 2026-08-30, because this comment's first cited example
+    #       (`statutes/ors-174.535.md`) turned out to be a misread: that section's history
+    #       note is an enumerated list actually written `chapter <n>, Oregon Laws <year>` —
+    #       chapter FIRST — and every one of the 36 matches this form's own pattern finds
+    #       there is a SPLICE across two adjacent list items, not a genuine instance of this
+    #       spelling; the section demonstrates the reversed order, not this one. Corpus-wide
+    #       (statutes, rules, constitution, executive-orders) the adopted spelling occurs 566
+    #       times across 257 documents, 486 of them not immediately preceded by ", " (i.e.
+    #       not a splice); the reversed order `chapter \d+, Oregon Laws \d{4}` occurs 4,115
+    #       times across 1,844 documents — MORE common, not less. So this is NOT the
+    #       majority spelling and the form does not claim to be: it is chosen the same way
+    #       the `ors` form's own spelling is chosen — as the single spelling a reviewer must
+    #       write, deliberately, out of several the corpus itself uses inconsistently, not
+    #       because a frequency count backs it.
+    #
+    # NOT MIRRORED, so NOT RESOLVED. Unlike the three forms above, this corpus holds no
+    # `session-laws/` — there is nothing on disk for a citation to name. This form says only
+    # that the VALUE IS SPELLED LIKE a session-law citation; `link_enabling_authority.py`'s
+    # `check()` reports every row in this form as "form-checked, not resolved" and counts it
+    # SEPARATELY from the forms that resolve against a mirror, never folded into the same
+    # "verified" a resolved ORS or constitutional citation earns (CONTEXT.md: "could not
+    # check" is never reported as "is not there", and its mirror image — reporting a weaker
+    # check as the stronger one — is just as false).
+    #
+    # MEASURE WHAT ELSE THE WIDER FORM ADMITS (this week's own lesson, applied to itself): the
+    # pattern is deliberately narrow — full "Oregon Laws" (not "Or Laws"/"Or. Laws"), a comma,
+    # lowercase "chapter" (not "Chapter"/"ch."/"ch"), one or more digits, nothing else. Every
+    # one of the other 345 measured shapes — "Or Laws 1975, ch. 789", "Oregon Laws 1975
+    # Chapter 789" (no comma), a bare "1975 c.789" bracket citation, "chapter 789" alone, a
+    # year with no chapter, a chapter with no year — is REFUSED by this exact pattern
+    # (`_proof_session_law_form_boundary` in this module's own selftest proves ten
+    # of them failing, not merely asserted). ONE SECTION, DELIBERATELY, as the `ors` form's own
+    # comment states it: no section suffix is admitted (`Or Laws 1961, ch 454 §19`, the real
+    # citation quoted in #211 for a different body, oregon-military-department, does not
+    # fullmatch this pattern), because a session law's identity for this field is the ACT,
+    # and admitting a lettered or numbered subdivision of one is a decision to take later,
+    # not a formatting tweak now.
+    ("session-law", re.compile(r"Oregon Laws \d{4}, chapter \d+")),
 )
 
 # THE OTHER THING THE FIELD MAY SAY, and what makes the third state honest. A body that was
@@ -1043,7 +1106,8 @@ def classify_authority(value):
             return form, value
     return None, (f"{value!r} is not an authority this registry can record — expected an ORS "
                   "citation (`ORS 576.062`), a constitutional article (`Or. Const. Art. VI, "
-                  "sec. 1`), an executive order (`Executive Order 20-03`), or "
+                  "sec. 1`), an executive order (`Executive Order 20-03`), a session law "
+                  "(`Oregon Laws 1975, chapter 789`), or "
                   f"{NO_AUTHORITY!r} and the reason there is none")
 
 
@@ -3171,6 +3235,15 @@ def _case_enabling_authority_that_is_not_an_authority(cat):
     cat["organizations"][1]["enabling_authority"] = "created by statute"
 
 
+def _case_enabling_authority_session_law_near_miss(cat):
+    """A session-law citation one punctuation mark from the accepted spelling (#211) —
+    `_proof_session_law_form_boundary` proves the ten near misses refused at the
+    `classify_authority` level directly; this proves the SAME boundary is what the registry's
+    own row-level contract enforces, not a rule that exists only in the function that backs
+    it."""
+    cat["organizations"][1]["enabling_authority"] = "Oregon Laws 1975, Chapter 789"
+
+
 def _case_oar_name_that_matches_nothing(cat):
     """An `oar_name` that is present, is a string, and names nothing — so `required-field`
     passes it and every consumer reads it as a name. The body is then unfindable by the OAR
@@ -3749,6 +3822,8 @@ _CASES = [
      _case_enabling_authority_with_stray_whitespace, "enabling-authority-form"),
     ("enabling-authority-that-almost-records-an-absence",
      _case_enabling_authority_that_almost_records_an_absence, "enabling-authority-form"),
+    ("enabling-authority-session-law-near-miss",
+     _case_enabling_authority_session_law_near_miss, "enabling-authority-form"),
     ("row-is-not-a-mapping", _case_row_is_not_a_mapping, "readable-row"),
     # THE TWO WAYS A BODY STOPS BEING FINDABLE BY A NAME IT HAS, which is what promoting
     # `name` (#168) must not be able to do to a reader.
@@ -3944,6 +4019,72 @@ def _proof_the_carry_is_what_keeps_an_established_statutory_name() -> int:
               f"not asked to take ({cfo['name']!r}, {cfo[NAME_BASIS_KEY]!r})",
               file=sys.stderr)
         bad += 1
+    return bad
+
+
+# THE TEN NEAR MISSES `_proof_session_law_form_boundary` proves REFUSED, most one letter or
+# one punctuation mark from the accepted spelling. A pair (the string, a short label for the
+# diagnostic) rather than bare strings, so a failing proof names WHICH near miss got through
+# rather than making a reader diff two long lists.
+#
+# EIGHT OF THE TEN ARE MEASURED SHAPES (see AUTHORITY_FORMS' own comment for the corpus
+# counts each is drawn from). TWO ARE NOT, and say so where they sit below: the corpus
+# happens to contain no two-digit-year session-law citation and no session-law citation with
+# a trailing section marker in otherwise-canonical spelling, so those two are constructed
+# boundary probes rather than measured ones — a deliberate exception to "measured, not
+# invented", not an unnoticed one.
+_SESSION_LAW_NEAR_MISSES = (
+    ("Oregon Laws 1975, Chapter 789", "capital Chapter"),
+    ("Or Laws 1975, chapter 789", "abbreviated prefix, no period"),
+    ("Or. Laws 1975, chapter 789", "abbreviated prefix, with period"),
+    ("Oregon Laws 1975 chapter 789", "no comma"),
+    ("Oregon Laws 1975, ch. 789", "abbreviated chapter"),
+    # NOT MEASURED — constructed, because the corpus carries no two-digit-year session-law
+    # citation to draw one from (re-measured 2026-08-30: `Oregon Laws \d{2}, chapter \d+`
+    # occurs zero times across statutes/rules/constitution/executive-orders). Kept anyway
+    # because the form's own comment states the year is `\d{4}`, deliberately, and this is
+    # what proves that digit count is enforced rather than merely assumed.
+    ("Oregon Laws 75, chapter 789", "two-digit year"),
+    ("Oregon Laws 1975, chapter", "no chapter number"),
+    ("chapter 789, Oregon Laws 1975", "reversed order"),
+    # ALSO NOT MEASURED, for the same reason (re-measured 2026-08-30: `Oregon Laws \d{4},
+    # chapter \d+ §\d+` occurs zero times too). Constructed to ISOLATE the trailing-section
+    # defect from every other one — every other character of it fullmatches the accepted
+    # shape — which the real #211 citation below cannot do, because that one is malformed
+    # three ways at once and would not tell a failing proof which of the three broke.
+    ("Oregon Laws 1975, chapter 789 §19", "trailing section marker, isolated"),
+    # THE REAL CITATION FROM #211 ITSELF: `Or Laws 1961, ch 454 §19` (oregon-military-
+    # department, per the issue). Refused, but NOT "for exactly one reason" the way the
+    # isolated case above is — measured against this form's own pattern, it fails THREE
+    # independent ways at once: an abbreviated prefix ("Or" not "Oregon"), an abbreviated
+    # chapter word ("ch" not "chapter"), and the trailing section marker the case above
+    # isolates. Kept as its own case so neither this one nor the isolated one is asked to do
+    # the other's job.
+    ("Or Laws 1961, ch 454 §19", "the real #211 citation, refused three ways at once"),
+)
+
+
+def _proof_session_law_form_boundary() -> int:
+    """The session-law form (#211) admits the shape it was built for and refuses everything
+    adjacent to it — TESTED BOTH DIRECTIONS, which is this week's own lesson applied to the
+    form that lesson is about: a field loose enough to admit `Oregon Laws 1975, chapter 789`
+    could easily have been loose enough to admit strings that are not authorities at all, and
+    the only way to know it is not is to throw the near misses at it and watch them bounce.
+
+    THE TRUE POSITIVE FIRST, because a form that refuses everything is not a working form —
+    the ten refusals below would pass vacuously if this one line were deleted."""
+    bad = 0
+    true_form, true_detail = classify_authority("Oregon Laws 1975, chapter 789")
+    if true_form != "session-law":
+        print(f"FAIL session-law-form-accepts-the-real-shape: classify_authority returned "
+              f"{(true_form, true_detail)!r}", file=sys.stderr)
+        bad += 1
+    for value, label in _SESSION_LAW_NEAR_MISSES:
+        form, detail = classify_authority(value)
+        if form is not None:
+            print(f"FAIL session-law-form-refuses-near-misses ({label}): {value!r} was "
+                  f"accepted as form {form!r} ({detail!r})", file=sys.stderr)
+            bad += 1
     return bad
 
 
@@ -4478,6 +4619,7 @@ def selftest() -> int:
     bad += _proof_the_merge_is_what_carries_a_curated_relation()
     bad += _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry()
     bad += _proof_the_carry_is_what_keeps_an_established_statutory_name()
+    bad += _proof_session_law_form_boundary()
     resolutions = 0
     for proof in (_proof_search_spans_every_name_a_body_is_known_by,
                   _proof_a_promoted_name_loses_no_resolution):

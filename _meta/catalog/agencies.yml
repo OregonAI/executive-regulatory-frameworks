@@ -1384,6 +1384,7 @@ organizations:
   manual: true
   das_agency_number: '145'
   budget_agency_code: '145'
+  enabling_authority: Oregon Laws 1959, chapter 70
 - slug: legislative-policy-and-research-committee
   name: Legislative Policy and Research Committee
   name_basis: unverified-oar-title
@@ -1409,6 +1410,7 @@ organizations:
   manual: true
   das_agency_number: '144'
   budget_agency_code: '144'
+  enabling_authority: Oregon Laws 1975, chapter 789
 - slug: long-term-care-ombudsman
   name: Long Term Care Ombudsman
   name_basis: unverified-oar-title
@@ -2300,7 +2302,7 @@ organizations:
   enabling_authority: ORS 656.752
 - slug: secretary-of-state
   name: Secretary of State
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Secretary of State
   oar_chapter: null
   raw_index_name: Secretary of State
