@@ -176,10 +176,12 @@ CHECK_RULES = (
     # name's provenance, and the two names a body must stay findable by
     "deprecated-key-agrees", "enabling-authority-form", "statutory-name-basis",
     "name-origin", "findable-by-both-names",
-    # the relations: their shape, uniqueness, resolution, what `part_of` may not carry, and
-    # the field's own mixed origin
+    # the relations: their shape, uniqueness, resolution, what `part_of` may not carry, an
+    # `administered_by` authority that belongs to a different body (#212), and the field's
+    # own mixed origin
     "relation-shape", "relation-unique", "relation-resolves",
-    "part-of-has-nothing-to-enable", "relation-origin",
+    "part-of-has-nothing-to-enable", "relation-authority-is-not-another-bodys-own",
+    "relation-origin",
     # what the OAR index tree itself asserts, and the parent chapter beside it
     "index-relation-is-regenerated", "parent-agrees",
     # the two things a sibling corpus joins on, claimed twice
@@ -527,9 +529,11 @@ REGISTRY_NOTE = (
     "not parse, its fetch fails, or a chapterless group's children "
     "disagree on a name prefix, and nothing else may live there, "
     "`manual` or not. curator_note holds hand-typed prose about a row "
-    "instead, protected across --refresh the way das_agency_number is; "
-    "the two rows carrying one today record why the row is `manual` at "
-    "all, since the mirror's index omits the chapter. This paragraph is "
+    "instead, protected across --refresh the way das_agency_number is: a "
+    "finding a hand edit cannot safely fold into a gated field, such as "
+    "why a manual row is manual when the mirror's index omits its "
+    "chapter, or a body's identity change the current derivation "
+    "contract cannot yet state as a relation (#212). This paragraph is "
     "itself checked against FIELDS by name on every --check run "
     "(`note-covers-fields`, #185): a field FIELDS declares that these "
     "sentences do not mention fails the gate, so this note cannot go "
@@ -610,10 +614,10 @@ RELATION_KINDS = (UNDETERMINED, PART_OF, ADMINISTERED_BY)
 # a kind to one that cannot state it (ADR 0004 rejects inferring the relation from a chapter
 # assignment).
 #
-# THE TWO BASES ARE NOT THE SAME STRENGTH, and keeping them apart is the whole of #173. ADR
-# 0004 derives the kind from ADMITTING EVIDENCE, and how much of it the registry holds moves
-# as reviews land — a live split `catalog_agencies.py --check` prints every run rather than
-# a count fixed here. What is not yet reviewed sits in
+# THE THREE BASES ARE NOT THE SAME STRENGTH, and keeping them apart is the whole of #173 and
+# #222. ADR 0004 derives the kind from ADMITTING EVIDENCE, and how much of it the registry
+# holds moves as reviews land — a live split `catalog_agencies.py --check` prints every run
+# rather than a count fixed here. What is not yet reviewed sits in
 # _meta/catalog/enabling-authority-review.yml — as a PROPOSED candidate where the matcher
 # found one, or in that sheet's `no_candidate` list where it did not, which is a statement
 # about the matcher and not about the body (link_enabling_authority.py's own note;
@@ -633,13 +637,23 @@ RELATION_KINDS = (UNDETERMINED, PART_OF, ADMINISTERED_BY)
 #   reviewed-enabling-authority   the authority the registry row itself carries, written by
 #                                 link_enabling_authority.py from its hand-reviewed table.
 #                                 This is the basis ADR 0004 describes.
+#   reviewed-absence              `enabling_authority` records `none: <reason>` — A HUMAN
+#                                 LOOKED and found nothing separately constitutes this body.
+#                                 That is ADR 0004's own description of *part of*, and unlike
+#                                 the other two bases it decides the OTHER kind: nothing to
+#                                 cite, so the relation carries no `authority` (#222 — the
+#                                 second derivation #173 deliberately left untaken, because
+#                                 the ABSENCE of a candidate is a statement about the matcher
+#                                 and not about the body, and must never be confused with a
+#                                 human having looked and found none).
 #
 # ALLOWLIST, NOT BLOCKLIST, as everywhere else in this module. A basis this registry has no
 # meaning for is a provenance nobody can act on, and it is indistinguishable from a typo in
 # one that matters.
 PROPOSED_AUTHORITY = "proposed-enabling-authority"
 REVIEWED_AUTHORITY = "reviewed-enabling-authority"
-RELATION_BASES = (PROPOSED_AUTHORITY, REVIEWED_AUTHORITY)
+REVIEWED_ABSENCE = "reviewed-absence"
+RELATION_BASES = (PROPOSED_AUTHORITY, REVIEWED_AUTHORITY, REVIEWED_ABSENCE)
 
 # The keys one relation entry may carry. `authority` and `basis` are the OPTIONAL two, and
 # they are optional in exactly one state: an `undetermined` relation, which records no
@@ -2816,6 +2830,55 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
                     "says Oregon law did; one of the two is wrong and the registry states "
                     "both"))
 
+    # AN AUTHORITY ADMITS ONE BODY (#212), AND A RELATION CITING IT FOR A DIFFERENT ONE IS
+    # THE SHAPE OF THE BUG THIS TICKET FOUND. `oregon-military-department-office-of-
+    # emergency-management` sat under the Military Department for four years after HB 2927
+    # (2021) made the Office of Emergency Management a standalone department (ORS 401.052) —
+    # and nothing could have caught it, because the row never carried `enabling_authority`
+    # at all: no evidence, nothing for a gate to compare against. The check this omission
+    # leaves behind is narrow and MECHANICAL, not a claim about what a citation's TEXT says
+    # (this repository does not parse statute prose for meaning at check time; that is
+    # exactly the "confidently wrong matcher" trap `link_enabling_authority.py`'s own
+    # docstring is about): an `enabling_authority` citation is EXCLUSIVE to the one row it
+    # admits unless MORE THAN ONE row already carries it (ORS 576.062's nineteen commodity
+    # commissions, admitted by one enumerated list, are the reason this is "exclusive to the
+    # rows that share it" and not "exclusive to one row" — sharing is EVIDENCE, recorded on
+    # both sides, not a coincidence to refuse). A relation's `administered_by` `authority`
+    # citing a DIFFERENT row's exclusive citation asserts that ONE statute simultaneously
+    # constitutes body A on its own and places body A under body B — ADR 0004's own
+    # distinction between the section that CONSTITUTES a body and the section that
+    # ADMINISTERS it, collapsed into one citation that cannot honestly be both.
+    #
+    # A citation carried by exactly one row is not "no evidence of sharing" and does not
+    # become the general rule from a single instance; it is the state every enabling
+    # authority is in on the day it is FIRST recorded, and the check does not fire again once
+    # a genuine second row cites the same section for the same reason ORS 576.062 does not
+    # fire it 19 times over.
+    exclusive_authority = {}
+    for i, o in rows:
+        ea = o.get("enabling_authority")
+        if not ea:
+            continue
+        exclusive_authority.setdefault(ea, []).append(o.get("slug"))
+    exclusive_authority = {a: slugs[0] for a, slugs in exclusive_authority.items()
+                           if len(slugs) == 1}
+    for i, o in rows:
+        for entry in relation_entries(o):
+            if not isinstance(entry, dict) or entry.get("kind") != ADMINISTERED_BY:
+                continue
+            auth = entry.get("authority")
+            owner = exclusive_authority.get(auth)
+            if owner is not None and owner != o.get("slug"):
+                failures.append(Failure(
+                    "relation-authority-is-not-another-bodys-own", _row_id(o, i),
+                    f"is recorded {ADMINISTERED_BY!r} under {entry.get('target')!r} on the "
+                    f"authority of {auth!r} — but {auth!r} is {owner!r}'s own "
+                    "`enabling_authority`, cited by no other row, so it is what constitutes "
+                    f"{owner!r} as a body, not evidence of what {o.get('slug')!r} is placed "
+                    "under. One citation cannot honestly be recorded as both — either this "
+                    "row has its own authority and cites that instead, or the citation is "
+                    "wrong"))
+
     # EVERY BODY FINDABLE BY BOTH OF THE NAMES IT HAS, BEFORE AND AFTER `name` IS PROMOTED.
     # This is the search half of #187 stated over the whole registry rather than over a
     # fixture: for all 189 rows, the body must be among the hits when a reader searches the
@@ -3350,10 +3413,12 @@ def _case_relation_kind_with_no_basis(cat):
 
 
 def _case_relation_basis_this_registry_has_no_meaning_for(cat):
-    """A basis nobody declared. The two #173 records differ in STRENGTH — an unreviewed
-    proposal against a reviewed authority — so the value is what a reader weighs the kind by,
-    and a third word published there is a weight nothing can read. Widening the allowlist is
-    a decision taken beside RELATION_BASES, which is what makes it deliberate."""
+    """A basis nobody declared. The three RELATION_BASES differ in STRENGTH and in which
+    kind they decide — an unreviewed proposal and a reviewed authority both decide
+    `administered_by` (#173), a reviewed absence decides `part_of` (#222) — so the value is
+    what a reader weighs the kind by, and a fourth word published there is a weight nothing
+    can read. Widening the allowlist is a decision taken beside RELATION_BASES, which is
+    what makes it deliberate."""
     cat["organizations"][1]["relations"][1]["basis"] = "seemed-right"
 
 
@@ -3375,6 +3440,19 @@ def _case_administered_by_citing_no_authority(cat):
     constitutes this body and names nothing a reader can check. `part_of` is not held to this:
     it records that there is nothing separate to cite."""
     del cat["organizations"][1]["relations"][1]["authority"]
+
+
+def _case_relation_authority_is_a_different_bodys_own(cat):
+    """An `administered_by` relation citing another row's OWN, exclusive `enabling_authority`
+    (#212). `das` above carries `enabling_authority: "ORS 999.999"` and is the only row that
+    does, so that citation is what constitutes `das` as a body — not evidence of what a
+    DIFFERENT row is placed under. `cfo`'s administered_by relation citing it instead is
+    exactly the shape `oregon-military-department-office-of-emergency-management` was never
+    caught by: it never carried an `enabling_authority` at all, so no gate had anything to
+    compare its relation against. This is the gate that omission left missing, proven on a
+    row that does carry one."""
+    cat["organizations"][1]["relations"][1]["authority"] = cat["organizations"][0][
+        "enabling_authority"]
 
 
 def _case_part_of_body_that_carries_an_enabling_authority(cat):
@@ -3744,6 +3822,9 @@ _CASES = [
      _case_relation_basis_on_a_relation_that_decided_nothing, "relation-shape"),
     ("administered-by-citing-no-authority", _case_administered_by_citing_no_authority,
      "relation-shape"),
+    ("relation-authority-is-a-different-bodys-own",
+     _case_relation_authority_is_a_different_bodys_own,
+     "relation-authority-is-not-another-bodys-own"),
     ("part-of-body-that-carries-an-enabling-authority",
      _case_part_of_body_that_carries_an_enabling_authority,
      "part-of-has-nothing-to-enable"),

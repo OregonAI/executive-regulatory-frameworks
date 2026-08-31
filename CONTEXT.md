@@ -412,7 +412,16 @@ and this reports the DISAGREEMENT with it, and the second is the file this reads
 The relation a unit bears to the body it is internal structure of. A unit is *part of* a
 body when nothing separately constitutes it — the Highway Division is how the Department of
 Transportation organises itself, not a second body. It has no enabling authority because
-there is nothing separate to enable, which is a decision with a reason and not a gap.
+there is nothing separate to enable, which is a decision with a reason and not a gap. It is
+DERIVED from a reviewed absence — `enabling_authority` recording `none: <reason>`, a human
+having looked and found no separate authority — on basis `reviewed-absence`
+(`src/derive_relation_kinds.py`, #222). It is never derived from a matcher merely finding no
+candidate: that is a statement about the matcher, not about the body, and such a relation
+stays *undetermined*. REVERSED, NOT SILENTLY: if a later matcher pass proposes a candidate
+for a body already reviewed as having none, `--check` reports the conflict
+(`reviewed-absence-conflicts-with-candidate`) rather than either re-deriving the kind or
+staying quiet — the same discipline that keeps a mere absence from ever becoming *part of*
+applies to a reviewed absence that stops being the last word.
 _Avoid_: Under, belongs to, child of — all three also describe *administered by*
 
 **Administered by**:
@@ -474,10 +483,12 @@ other half, `note`, is written only by the scrape, and before the split a hand-t
 sentence had nowhere else to live — a curator writing one onto a row `manual` did not
 protect had it destroyed by the next `--refresh` with nothing to report the loss.
 `curator_note` needs none of `manual`'s whole-row protection: `CURATED_KEYS` carries it
-across a refresh on ANY row, the same way it carries `das_agency_number`. Both rows
-carrying one today (chapters 419, 950) record why the row is `manual` at all — the mirror's
-index omits the chapter, discovered via a renumbering redirect during the 2026-07 mass
-import — which is also the one placement `relation source` `registry` can cite as evidence.
+across a refresh on ANY row, the same way it carries `das_agency_number`. The rows carrying
+one today record findings a gated field cannot state on its own — a `manual` row whose
+chapter the mirror's index omits (discovered via a renumbering redirect during the 2026-07
+mass import), which is also the one placement `relation source` `registry` can cite as
+evidence, or a body's identity change the current relation model has no way to express
+(#212).
 _Avoid_: Note — that is `note`, the field this one was split from, and now names only the
 scrape's own three sentences (`NOTE_SCRAPE_TEMPLATES`): a chapter page's title not
 parsing, its fetch failing, or a chapterless group's children disagreeing on a name
@@ -502,16 +513,20 @@ regenerated
 What decided a relation's KIND, written on the relation itself and never the same fact as
 its source: the source says who places this body under that one, the basis says what settled
 which of ADR 0004's two kinds it is, and a relation the OAR index discovered can have its
-kind decided by a statute. TWO STRENGTHS, which may never be collapsed into one:
-`reviewed-enabling-authority` is the basis ADR 0004 describes — the authority the row itself
-carries, hand-reviewed — and `proposed-enabling-authority` is a CANDIDATE from
-`_meta/catalog/enabling-authority-review.yml` that nobody has read, which is a proposal and
-not evidence. The split between the two moves every time a review lands, so it is
-`relation_census()`'s live count, printed by `catalog_agencies.py --check` on every run,
-rather than a figure pinned in this glossary entry to go stale the next time it moves; the
-row upgrades visibly when the review lands. A kind other than *undetermined* with no basis
-is refused, for the reason `manual: true` was retired: an assertion records that someone
-decided, never what decided it. It is written by one thing, `src/derive_relation_kinds.py`.
+kind decided by a statute. THREE STRENGTHS, which may never be collapsed into one:
+`reviewed-enabling-authority` and `proposed-enabling-authority` both decide *administered
+by* — the first is the basis ADR 0004 describes, the authority the row itself carries,
+hand-reviewed; the second is a CANDIDATE from `_meta/catalog/enabling-authority-review.yml`
+that nobody has read, which is a proposal and not evidence. `reviewed-absence` decides the
+OTHER kind, *part of* — `enabling_authority` recording `none: <reason>`, a human having
+looked and found nothing separate to enable (#222; ADR 0004's second derivation, deferred by
+#173 and taken up once the field existed to review an absence into). The split between all
+three moves every time a review lands, so it is `relation_census()`'s live count, printed by
+`catalog_agencies.py --check` on every run, rather than a figure pinned in this glossary
+entry to go stale the next time it moves; the row upgrades visibly when the review lands. A
+kind other than *undetermined* with no basis is refused, for the reason `manual: true` was
+retired: an assertion records that someone decided, never what decided it. It is written by
+one thing, `src/derive_relation_kinds.py`.
 _Avoid_: Evidence, provenance, reason — a basis says what a KIND was derived from, and
 `source` already answers where the relation came from
 
@@ -523,10 +538,12 @@ by* turns on whether the body carries its own admitting evidence (ADR 0004), and
 `undetermined` is what they record, and
 `catalog_agencies.py --check` reports the count on every run. It says the relation is REAL
 and its kind unestablished, which is neither of the two kinds and is never a third one. It
-is also never derived FROM an absence: that a matcher found no candidate for a body is a
+is also never derived from a MERE absence: that a matcher found no candidate for a body is a
 statement about the matcher, so a relation nothing speaks to stays undetermined rather than
-becoming *part of*, and 37 <!--census:agencies.relation_kind__undetermined--> of them is the
-answer rather than a backlog.
+becoming *part of* — that is distinct from a REVIEWED absence, `none: <reason>`, which a
+human recorded and which does derive *part of* (#222; see **Part of** above). 37
+<!--census:agencies.relation_kind__undetermined--> of them is the answer rather than a
+backlog.
 _Avoid_: Unknown, null, blank — an absent kind lets a consumer read whichever it prefers
 
 **DAS agency number**:

@@ -363,6 +363,58 @@ MAPPED: dict[str, str] = {
     # bodies #169 names as blocked on this form's absence, and #169's own review population
     # should be read as updated for it now that the form exists.
     "legislative-fiscal-officer": "Oregon Laws 1959, chapter 70",
+    # #169's REMAINING POPULATION, read and verified 2026-08-30 against the mirrored text.
+    # Each sat in `no_candidate` or as an unread tier-2 candidate; none was accepted on a
+    # tier alone.
+    #
+    # ORS 172.100(1): "The State of Oregon shall establish a Commission on Indian Services
+    # for the purposes of improving services to American Indians in this state..." The
+    # matcher never proposed this one — the catchline is "Legislative policy", which names
+    # no body, and the creating sentence sits inside the section's text instead. This is NOT
+    # the same shape as ORS 576.062's enumerated commissions ("The following commodity
+    # commissions ARE ESTABLISHED as state commissions") — that is present-tense operative
+    # establishment, where 172.100 is a declaration of legislative policy directing that the
+    # state "shall establish" one. The rest of the chapter (ORS 172.110 members, ORS 172.120
+    # duties) has no closer candidate, so this is the section that constitutes the
+    # commission, but the citation records that statute DIRECTS the establishment, not that
+    # it performs one. The registry's name carries a "Legislative" prefix the statute does
+    # not use; that is #168's question, not this one.
+    "legislative-commission-on-indian-services": "ORS 172.100",
+    # legislative-counsel-office was entered here as ORS 173.111 and reverted (code review,
+    # 2026-08-31): the section's OPERATIVE text establishes only the Legislative Counsel
+    # COMMITTEE ("The Legislative Counsel Committee is established as a joint committee of
+    # the Legislative Assembly. The Legislative Counsel Committee shall select a Legislative
+    # Counsel to serve as its executive officer."). "office of Legislative Counsel
+    # established" is the section's CATCHLINE, which ORS 174.540 — mirrored in this repo —
+    # states is not part of the law: "Title heads, chapter heads, division heads, section and
+    # subsection heads or titles and explanatory notes ... do not constitute any part of the
+    # law." Nothing else in the mirrored statutes uses that phrase outside this catchline. Not
+    # re-guessed at a different citation — reverted to could-not-check, still `no_candidate`
+    # in the review sheet, exactly as it stood before this entry.
+    #
+    # ORS 173.900(2): "The Legislative Equity Office is established as a nonpartisan office
+    # of the Legislative Assembly that is independent of any other nonpartisan office."
+    # Tier 2 in the review sheet (catchline CONTAINS the name, not merely names it as
+    # subject) — read directly against the text rather than accepted on the tier: subsection
+    # (1) creates a different body (the Joint Committee on Conduct) in the same section, and
+    # subsection (2) is what creates this one.
+    "legislative-equity-office": "ORS 173.900",
+    # #212 — ORS 401.052(1), read and verified 2026-08-30: "The Oregon Department of
+    # Emergency Management is established." [Formerly 401.257; 2021 c.539 §2; 2025 c.229
+    # §1] — the 2021 bracket citation is HB 2927 (Oregon Laws 2021, chapter 539), which spun
+    # the body out of the Oregon Military Department as a standalone department. Read, but
+    # DELIBERATELY NOT ENTERED HERE: the registry carries this body as one row
+    # (`oregon-military-department-office-of-emergency-management`, #212 — two rows for one
+    # body that moved was rejected, not two bodies), and that row's only relation is the
+    # scraped, stale OAR-index placement under the Military Department ORS 401.052 itself
+    # abolished. Recording this citation as that row's `enabling_authority` would derive
+    # `administered_by oregon-military-department` on that relation
+    # (`src/derive_relation_kinds.py`) — a citation-backed claim of exactly the attachment
+    # this statute ends. ADR 0004 has no third kind for a body an index page still places
+    # under a parent statute has removed it from ("whether that is a third relation or an
+    # absence of one is not decided here"), so entering it here would derive a wrong answer
+    # rather than leave a true `undetermined` one. The citation is recorded as verified prose
+    # on the row's own `curator_note` instead, until that gap is closed.
 }
 
 # slug -> why this body has no enabling authority TO RECORD. A DECISION with a stated reason,

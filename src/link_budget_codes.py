@@ -109,8 +109,13 @@ ALIASES = {
     "department-of-state-police-office-of-state-fire-marshal": [
         "State Fire Marshal", "Department of the State Fire Marshal",
         "Office of State Fire Marshal"],
+    # "Oregon Department of Emergency Management" IS an alias of this row (#212): HB 2927
+    # (Oregon Laws 2021, ch.539) renamed the body and made it standalone, but the registry
+    # carries this as ONE row, not two ("it is one body that moved, not two bodies," #212) —
+    # the current statutory name is recorded as an alias so DAS budget code 258 still
+    # resolves it, until this row's own `name` is promoted (see its `curator_note`).
     "oregon-military-department-office-of-emergency-management": [
-        "Oregon Department of Emergency Management", "Office of Emergency Management"],
+        "Office of Emergency Management", "Oregon Department of Emergency Management"],
     "oregon-department-of-education-early-learning-division": [
         "Early Learning Division of the Department of Education",
         "Department of Early Learning and Care", "Early Learning Division"],
