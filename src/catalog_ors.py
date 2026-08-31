@@ -137,6 +137,39 @@ XREF_RE = re.compile(
 # at the end of a real title ("...eligibility for TANF") isn't mistaken for one.
 TRAILING_HEADING_RE = re.compile(r"\s+[A-Z][A-Z '\-]{7,}$")
 
+# #346: the two shapes chapter furniture takes right after a chapter's own genuinely LAST
+# TOC entry (measured against all 4 affected chapters -- see `_catchline_end`'s own
+# docstring): the SAME all-caps part/subpart heading TRAILING_HEADING_RE already knows,
+# here searched from the START of the tail rather than anchored to its end (there is no
+# further real TOC entry to anchor an end-position search against); and a standalone
+# "Note" -- the source's own marker introducing editorial marginalia ("Note: The following
+# list ... is provided for the user's convenience"), Title Case rather than ALL CAPS, so
+# the heading pattern alone does not catch it (measured: 171.992, 186.520 have no all-caps
+# run before their own "Note", only 221.928 and 306.815 do).
+_RECOVERED_ALLCAPS_RE = re.compile(r"[A-Z][A-Z '\-]{7,}")
+_RECOVERED_NOTE_RE = re.compile(r"\bNote\b")
+# A cap on how far a recovered entry's own catchline can run when NEITHER marker appears --
+# not measured against any of the 4 known chapters (both markers appear in all four, well
+# under this), but an explicit bound rather than the unbounded run into arbitrary body text
+# the naive fix was rejected for producing (#346's thread).
+_RECOVERED_TAIL_CAP = 2000
+
+
+def _catchline_end(tail: str) -> int:
+    """Where a RECOVERED final TOC entry's own catchline ends, within `tail` (the chapter
+    text starting at that entry's own section-number match) -- the earliest of
+    `_RECOVERED_ALLCAPS_RE`, `_RECOVERED_NOTE_RE`, or `_RECOVERED_TAIL_CAP`, never past the
+    end of `tail` itself. Exists so a genuinely recovered entry (see `parse_toc`'s own
+    comment at its `cut` computation) gets a boundary anchored to ITS OWN catchline rather
+    than either silently dropping (the pre-#346 behavior) or running on into whatever
+    chapter furniture follows (the naive fix #346's thread measured and rejected)."""
+    limit = min(len(tail), _RECOVERED_TAIL_CAP)
+    for pat in (_RECOVERED_ALLCAPS_RE, _RECOVERED_NOTE_RE):
+        m = pat.search(tail[:limit])
+        if m:
+            limit = min(limit, m.start())
+    return limit
+
 
 def parse_toc(raw_text, ch):
     t = ws_only(raw_text)
@@ -169,29 +202,32 @@ def parse_toc(raw_text, ch):
         return []
     GAP = 600
     # #346: when the chapter's own genuinely LAST TOC entry is itself immediately
-    # followed by a >600-char gap (no nearby xref keeps the density high past it --
-    # ORS 221.928 is the one instance measured so far), `all_matches[cut]` here IS that
-    # last entry, not a body reoccurrence, and excluding it from `bounds` below drops it
-    # from the catalog entirely. NOT fixed here: the obvious fix -- only exclude
-    # `all_matches[cut]` when its own number is already in an earlier bound, otherwise
-    # advance `cut` past it -- was tried and measured (full 569-chapter regression) to
-    # avoid every entry LOSS it targets, but it does so by handing that entry's own
-    # `toc` slice everything up to the NEXT match instead of a bounded catchline, and on
-    # 221.928 (and 3 similar cases elsewhere) that slice runs on into trailing chapter
-    # furniture -- a heading, a temporary-provisions note -- producing a garbage-suffixed
-    # title, which is a worse defect than the current silent drop. A real fix needs its
-    # own end-of-entry boundary, not just a corrected `cut`; out of scope here, still
-    # #346, decision documented in that issue's thread rather than repeated by the next
-    # person who tries the same one-line patch.
+    # followed by a >600-char gap (no nearby xref keeps the density high past it),
+    # `all_matches[cut]` here IS that last entry, not a body reoccurrence -- unconditionally
+    # excluding it from `bounds` would drop it from the catalog entirely (measured: 4 of the
+    # 569 committed chapters -- 171, 186, 221, 306 -- named in `_selftest` below).
     cut = len(all_matches) - 1
     for k in range(len(all_matches) - 1):
         if all_matches[k + 1].start() - all_matches[k].start() > GAP:
             cut = k
             break
     last = all_matches[cut]
-    toc = chunk[:last.start()]
 
-    bounds = [m.start() for m in all_matches[:cut]]
+    # A body reoccurrence of an already-claimed number (the ordinary case: `last`'s own
+    # number matches an EARLIER bound) means `all_matches[cut]` really is the TOC/body
+    # boundary -- exclude it, exactly as before. Otherwise `last` is a genuine, never-yet
+    # -seen entry with no next TOC match near enough to bound it, and it gets included as
+    # one more bound, with `_catchline_end` giving IT a boundary anchored to its own
+    # catchline rather than the unbounded run into chapter furniture a plain "include it"
+    # fix was measured and rejected for (#346's thread: recovers the entry but glues on
+    # a heading, a temporary-provisions note, or both).
+    earlier_numbers = {m.group(0).upper() for m in all_matches[:cut]}
+    if last.group(0).upper() in earlier_numbers:
+        toc = chunk[:last.start()]
+        bounds = [m.start() for m in all_matches[:cut]]
+    else:
+        toc = chunk[:last.start() + _catchline_end(chunk[last.start():])]
+        bounds = [m.start() for m in all_matches[:cut]] + [last.start()]
     parts = [toc[b:(bounds[i + 1] if i + 1 < len(bounds) else len(toc))]
              for i, b in enumerate(bounds)]
     out, seen = [], set()
@@ -219,7 +255,9 @@ def _selftest() -> int:
     """#286. `XREF_RE` widened to cover "to"-joined ranges and comma/"and"/"to" chains,
     not just an "and"-joined list -- proved against the actual committed chapter
     snapshots that produced the bug, the same reproduction #286 itself measured with,
-    not a synthetic fixture. `python3 src/catalog_ors.py --selftest`."""
+    #346 too (see the second block below) -- neither is a synthetic fixture; both are the
+    real 569 `_meta/snapshots/ors-chapter-*.txt` this parser runs against in production.
+    `python3 src/catalog_ors.py --selftest`."""
     from repo_lib import Checks
     ck = Checks()
 
@@ -272,6 +310,42 @@ def _selftest() -> int:
     ck("283.143 (the xref's second target) keeps its own real title",
        s283.get("283.143") == "Surcharge for telecommunications services; purpose; "
        "exempt agencies")
+
+    # #346: THE FOUR CHAPTERS MEASURED AFFECTED (of all 569 committed snapshots) by the
+    # cut-exclusion off-by-one -- each chapter's own genuinely last TOC entry, previously
+    # dropped from the catalog entirely because `all_matches[cut]` unconditionally excluded
+    # it rather than checking whether it was a body reoccurrence. Two shapes of chapter
+    # furniture follow the real catchline in these four: an ALL-CAPS part/subpart heading
+    # (221, 306) and a standalone "Note" introducing editorial marginalia (171, 186,
+    # arriving with no all-caps heading first) -- `_catchline_end` covers both, and each
+    # assertion below is exact-match against the SOURCE's own text, not a substring, so a
+    # regression that reintroduces the dropped-entry bug OR reintroduces the naive fix's
+    # garbage-suffixed title (measured and rejected in #346's own thread) both fail here.
+    s171 = secs("171")
+    ck("171.992 (last TOC entry, immediately followed by a standalone 'Note', no "
+       "all-caps heading first) is recovered, not dropped, and not garbage-suffixed",
+       s171.get("171.992") == "Civil penalty for violation of lobby regulation")
+    s186 = secs("186")
+    ck("186.520 (same 'Note'-first shape as 171.992) is recovered clean",
+       s186.get("186.520") == "Compact provisions")
+    s221 = secs("221")
+    ck("221.928 (last TOC entry, followed by an ALL-CAPS part heading before its own "
+       "'Note') is recovered, not dropped, and not garbage-suffixed with the heading or "
+       "the temporary-provisions note that follow it in the source",
+       s221.get("221.928") == "Record of ordinances; compilation accepted as evidence")
+    s306 = secs("306")
+    ck("306.815 (same ALL-CAPS-heading-first shape as 221.928) is recovered clean",
+       s306.get("306.815") == "Tax on transfer of real property prohibited; exceptions")
+
+    # THE ORDINARY CASE (565 of the 569 committed chapters) MUST KEEP WORKING: chapter 691's
+    # own density-cut match (691.405) IS a body reoccurrence already claimed by an earlier
+    # bound, so it must still be EXCLUDED exactly as before -- not turned into a spurious
+    # extra entry now that the cut can also recover a genuine last entry. 8 sections, ending
+    # at 691.485 (already loaded above for the unrelated heading-fragment case), is this
+    # chapter's true, unchanged catalog.
+    ck("an ordinary chapter's density-cut match is still excluded as a body reoccurrence, "
+       "not turned into a spurious extra entry",
+       len(s691) == 8 and s691.get("691.485") == "Board of Licensed Dietitians")
 
     return ck.report("catalog-ors selftest")
 

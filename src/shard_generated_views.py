@@ -29,9 +29,18 @@ manifest that says where it lives. `--check` reads the ACTUAL steps committed in
     disagree, which is exactly the drift a reviewable manifest is supposed to make
     visible instead of silent)
 
-It also checks that the fan-in job's `needs:` list is exactly the set of shard
-jobs the workflow defines -- a shard job nothing depends on is a shard whose
-failure the required check would never see.
+It also checks that the fan-in job's `needs:` list depends on EVERY shard job the
+workflow defines, and (#288) on `generated-views-nightly` too whenever that job
+exists -- a shard, or the nightly job, that nothing depends on is a job whose
+failure the required check would never see. `needs:` is no longer required to be
+EXACTLY the set of shard jobs (it was, before #288): a stale entry is now one
+naming a job that is not a shard AND is not `generated-views-nightly` while that
+job exists, so THAT one real, non-shard dependency is accepted rather than
+reported as nonexistent, without opening the door to anything else -- an earlier
+version of this fix compared `needs:` against every real job the workflow
+defines at all (code review measured what that widening now admitted: the fan-in
+depending on an unrelated real job, or on ITSELF -- a dependency cycle GitHub
+refuses to even run -- both went uncaught).
 
 TWO MORE DRIFTS a code-review follow-up to #268 found this file did not check for,
 because both are invisible to every rule above (they touch neither the gate steps
@@ -43,9 +52,15 @@ green, silently reintroducing "a skipped required check does not report a failur
 -- fixed by asserting `if: always()` directly on the fan-in job.
 
 Nightly-only gates (`generated-views-nightly`, conditioned on
-schedule/workflow_dispatch) are out of scope for this manifest by design -- #268
+schedule/workflow_dispatch) are out of scope for THIS MANIFEST by design -- #268
 says explicitly they are "not what a PR waits on", so they carry no measured
-PR-tier seconds and are not bin-packed.
+PR-tier seconds and are not bin-packed, and `shard_job_ids()`/`gates_by_shard()`
+still exclude the job by the same `generated-views-shard-` prefix match as ever.
+That is a narrower claim than it once was, though (#288): being out of the PR-tier
+manifest does not mean the job's own PASS/FAIL is invisible to `generated-views`
+any more -- the fan-in now depends on it and asserts its result too, with the
+schedule-vs-PR skip handled in the fan-in step's own shell script (not here; this
+module only guards that the DEPENDENCY exists, the same way it guards every shard's).
 """
 import sys
 from pathlib import Path
@@ -198,9 +213,36 @@ def diff(workflow_doc, manifest_gates):
     for j in sorted(missing_needs):
         fails.append(f"shard job {j!r} exists but {FANIN_JOB!r} does not depend on it "
                       f"-- its failure would never be asserted")
-    stale_needs = needs - workflow_shards
+    # A STALE `needs:` entry is one naming a job that is not a shard AND is not the one
+    # deliberate non-shard dependency #288 wired in (`generated-views-nightly`, only while
+    # that job actually exists). Comparing against every job the workflow defines at all
+    # (an earlier version of this fix, code review measured) accepted far more than that
+    # one exception: a fixture identical to the real workflow with one extra `needs:` entry
+    # showed `generated-views` (the FAN-IN NAMING ITSELF -- a dependency cycle GitHub
+    # refuses to run at all) and `frontmatter` (a real, but completely unrelated, job) both
+    # went uncaught, alongside the genuinely stale case the rule was built to still catch.
+    # `all_jobs` stays -- it is what makes `NIGHTLY_JOB in all_jobs` below correct when the
+    # job has been removed from the workflow entirely -- but `stale_needs` itself compares
+    # against the narrow ALLOWED set, not "any real job."
+    all_jobs = set(workflow_doc.get("jobs", {}))
+    allowed_needs = workflow_shards | ({NIGHTLY_JOB} if NIGHTLY_JOB in all_jobs else set())
+    stale_needs = needs - allowed_needs
     for j in sorted(stale_needs):
-        fails.append(f"{FANIN_JOB!r} needs {j!r}, which no longer exists as a job")
+        if j not in all_jobs:
+            fails.append(f"{FANIN_JOB!r} needs {j!r}, which no longer exists as a job")
+        else:
+            fails.append(f"{FANIN_JOB!r} needs {j!r}, which exists but is neither a shard "
+                          f"job nor {NIGHTLY_JOB!r} -- not an allowed dependency")
+
+    # #288: `generated-views-nightly`'s six gates rolled up into nothing -- a nightly
+    # failure was visible only to whoever opened the run. If the job exists, the fan-in
+    # must depend on it (its own schedule-vs-PR skip handling lives in the fan-in step's
+    # shell script, not here -- this only guards the WIRING, the same "a shard job nothing
+    # depends on is a shard whose failure the required check would never see" property the
+    # rule above already enforces for shard jobs).
+    if NIGHTLY_JOB in workflow_doc.get("jobs", {}) and NIGHTLY_JOB not in needs:
+        fails.append(f"{NIGHTLY_JOB!r} exists but {FANIN_JOB!r} does not depend on it -- "
+                      f"a nightly gate failure would roll up into no aggregate check (#288)")
 
     # A shard silently missing a setup step (e.g. the corpus-toolkit install) is not a
     # drift the checks above can see at all -- they only look at gate steps. Compare
@@ -251,25 +293,30 @@ def check(workflow_path=None, manifest_path=None) -> int:
 
 # ---- synthetic fixtures for --selftest ----
 
-def _fixture_workflow(shard2_names=("gate-b",), shard2_setup=None):
+def _fixture_workflow(shard2_names=("gate-b",), shard2_setup=None,
+                       nightly=False, needs_nightly=False):
     setup = [{"uses": "./.github/actions/generated-views-setup"}]
-    return {
-        "jobs": {
-            "generated-views-shard-1": {
-                "steps": setup + [
-                    {"name": "gate-a", "run": "true"},
-                ]
-            },
-            "generated-views-shard-2": {
-                "steps": (shard2_setup if shard2_setup is not None else setup)
-                + [{"name": n, "run": "true"} for n in shard2_names]
-            },
-            FANIN_JOB: {
-                "needs": ["generated-views-shard-1", "generated-views-shard-2"],
-                "if": "always()",
-            },
-        }
+    needs = ["generated-views-shard-1", "generated-views-shard-2"]
+    jobs = {
+        "generated-views-shard-1": {
+            "steps": setup + [
+                {"name": "gate-a", "run": "true"},
+            ]
+        },
+        "generated-views-shard-2": {
+            "steps": (shard2_setup if shard2_setup is not None else setup)
+            + [{"name": n, "run": "true"} for n in shard2_names]
+        },
     }
+    if nightly:
+        jobs[NIGHTLY_JOB] = {
+            "if": "github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'",
+            "steps": setup + [{"name": "nightly-gate", "run": "true"}],
+        }
+    if needs_nightly:
+        needs = needs + [NIGHTLY_JOB]
+    jobs[FANIN_JOB] = {"needs": needs, "if": "always()"}
+    return {"jobs": jobs}
 
 
 def _fixture_manifest(entries=(("gate-a", 1), ("gate-b", 2))):
@@ -346,19 +393,83 @@ def selftest() -> int:
         fails.append("FAIL missing-if-always-is-caught: dropping `if: always()` from the "
                       f"fan-in produced {found!r}")
 
-    # GUARD THAT MUST NOT FIRE: a fully consistent fixture reports nothing.
+    # RULE 8 (#288): `generated-views-nightly` existing as a real job with the fan-in NOT
+    # depending on it is caught -- a nightly gate failure rolling up into no aggregate
+    # check at all, the defect #288 exists for.
+    wf = _fixture_workflow(nightly=True, needs_nightly=False)
+    mf = _fixture_manifest()
+    found = diff(wf, mf)
+    if not any(NIGHTLY_JOB in f and "does not depend on it" in f and "#288" in f
+               for f in found):
+        fails.append("FAIL missing-nightly-dependency-is-caught: "
+                      f"{NIGHTLY_JOB!r} existing with no `needs:` entry produced {found!r}")
+
+    # RULE 9 (#288): the fan-in DEPENDING on `generated-views-nightly` -- a real, non-
+    # shard job -- must NOT be reported as a stale `needs:` entry. Before the stale-needs
+    # check compared against every real job rather than only shard jobs, this exact,
+    # correct fixture would have failed with "which no longer exists as a job", which is
+    # what made #288's fix (adding the dependency) unsafe to land without this rule's own
+    # fix alongside it.
+    wf = _fixture_workflow(nightly=True, needs_nightly=True)
+    mf = _fixture_manifest()
+    found = diff(wf, mf)
+    if any(NIGHTLY_JOB in f and "no longer exists" in f for f in found):
+        fails.append("FAIL a-real-non-shard-dependency-is-not-stale: depending on "
+                      f"{NIGHTLY_JOB!r} (a real job) produced {found!r}")
+
+    # RULE 10 (code review of #288): a stale `needs:` entry naming a job that DOES exist in
+    # the workflow, but is neither a shard nor `generated-views-nightly`, is still caught.
+    # Comparing `stale_needs` against "every real job the workflow defines" (an earlier
+    # version of this very fix, before its own code review) let this slip -- measured
+    # directly against the real workflow file with one extra `needs:` entry: adding the
+    # real, unrelated `frontmatter` job went uncaught, exactly this shape.
     wf = _fixture_workflow()
+    wf["jobs"]["some-unrelated-job"] = {"steps": [{"name": "x", "run": "true"}]}
+    wf["jobs"][FANIN_JOB]["needs"] = wf["jobs"][FANIN_JOB]["needs"] + ["some-unrelated-job"]
+    mf = _fixture_manifest()
+    found = diff(wf, mf)
+    if not any("some-unrelated-job" in f and "not an allowed dependency" in f
+               for f in found):
+        fails.append("FAIL unrelated-real-job-dependency-is-caught: depending on a real "
+                      f"job that is neither a shard nor nightly produced {found!r}")
+
+    # RULE 11 (code review of #288): the fan-in depending on ITSELF is caught. GitHub
+    # would refuse to even run a cycle like this, but this check reads the committed YAML
+    # directly and would have missed it just as silently as RULE 10's case -- the same
+    # "every real job" comparison accepted `generated-views` needing `generated-views`.
+    wf = _fixture_workflow()
+    wf["jobs"][FANIN_JOB]["needs"] = wf["jobs"][FANIN_JOB]["needs"] + [FANIN_JOB]
+    mf = _fixture_manifest()
+    found = diff(wf, mf)
+    if not any(f"needs {FANIN_JOB!r}" in f and "not an allowed dependency" in f
+               for f in found):
+        fails.append("FAIL self-dependency-is-caught: the fan-in needing itself "
+                      f"produced {found!r}")
+
+    # GUARD THAT MUST NOT FIRE: a fully consistent fixture, WITH the nightly job wired in
+    # as #288 now requires, reports nothing.
+    wf = _fixture_workflow(nightly=True, needs_nightly=True)
     mf = _fixture_manifest()
     found = diff(wf, mf)
     if found:
         fails.append(f"FAIL a-consistent-manifest-produces-no-finding: {found!r}")
+
+    # A fixture with no nightly job at all (the shape every fixture above RULE 8 used) must
+    # still be silent on the nightly rule -- it is conditional on the job existing, not a
+    # blanket requirement every workflow must carry one.
+    wf = _fixture_workflow()
+    mf = _fixture_manifest()
+    found = diff(wf, mf)
+    if found:
+        fails.append("FAIL no-nightly-job-is-not-an-error: a workflow with no "
+                      f"{NIGHTLY_JOB!r} job at all produced {found!r}")
 
     for f in fails:
         print(f)
     if fails:
         print(f"{len(fails)} rule(s) did not hold")
         return 1
-    print("7 violation(s) demonstrated failing; 1 guard that must not fire held")
+    print("11 violation(s) demonstrated failing; 2 guards that must not fire held")
     return 0
 
 

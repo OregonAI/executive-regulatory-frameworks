@@ -15406,8 +15406,7 @@ chapters:
     status: ingested
     path: statutes/ors-171.990.md
   - number: '171.992'
-    title: Civil penalty for violation of lobby regulation Note The following lists of appointments and
-      recommendations by presiding officers and appointments requiring Se
+    title: Civil penalty for violation of lobby regulation
     status: ingested
     path: statutes/ors-171.992.md
 - chapter: '172'
@@ -19910,6 +19909,9 @@ chapters:
     title: Oregon-Washington Columbia River Boundary Compact adopted
     status: ingested
     path: statutes/ors-186.510.md
+  - number: '186.520'
+    title: Compact provisions
+    status: not_ingested
 - chapter: '187'
   title: Holidays; Standard of Time; Commemorations
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors187.html
@@ -26415,8 +26417,7 @@ chapters:
     status: ingested
     path: statutes/ors-221.927.md
   - number: '221.928'
-    title: 'Record of ordinances; compilation accepted as evidence INCORPORATION OF CITIES (Temporary
-      provisions relating to annexation of certain industrial lands) Note: S'
+    title: Record of ordinances; compilation accepted as evidence
     status: ingested
     path: statutes/ors-221.928.md
 - chapter: '222'
@@ -44879,6 +44880,9 @@ chapters:
     title: Service of orders of department
     status: ingested
     path: statutes/ors-306.805.md
+  - number: '306.815'
+    title: Tax on transfer of real property prohibited; exceptions
+    status: not_ingested
 - chapter: '307'
   title: Property Subject to Taxation; Exemptions
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors307.html

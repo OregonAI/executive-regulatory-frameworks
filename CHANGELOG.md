@@ -11,6 +11,96 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-08-30 — **#341: `stated_census.py --check` had no floor, so a document's tagged-figure
+  coverage could drop to zero and the run stayed green.** A stated figure, or a whole
+  glossary entry, deleted outright removes it from `glossary_blocks()`'s scan — not an
+  untagged-figure failure, since there is no longer a figure there to call untagged. Per
+  AGENTS.md's "before gating a figure, ask whether it should exist," the floor is not a
+  hand-maintained expected-count in prose; it is derived: the new `coverage-has-not-regressed`
+  rule compares each PATH's accounted-for figure count (tagged or marked, matching or not)
+  against that same path's text as of `repo_lib.resolve_base_ref()` (merge-base with
+  origin/main, else HEAD~1 — now shared with `changed_content_files`'s own resolution rather
+  than a second copy) and refuses a run whose coverage dropped. A path new since that ref, or
+  a ref git cannot read, has nothing to compare against and is reported as such rather than
+  left indistinguishable from a floor that held. `--selftest` proves it against the exact
+  mutation #341's own repro used (a `**Term**:` header reworded to plain prose) and against a
+  grown-coverage case that must NOT fail.
+
+  Two gaps closed by code review before this landed further. (1) `repo_lib.committed_text()`
+  used to report "nothing to compare against" for a path RENAMED in the same commit range —
+  measured: copying `CONTEXT.md` to a new name and deleting a whole glossary entry from the
+  copy, then `--check`ing the new name, exited 0 with "no comparison available," the exact
+  silence this rule exists to close; the same edit in place correctly failed. Fixed: it now
+  asks `git diff -M` for a committed rename pairing the miss, and reads the OLD name's text
+  at the base ref instead of giving up (`--selftest` proves it against a disposable git repo,
+  never the real corpus). (2) the failure message named a specific cause — a reworded or
+  deleted `**Term**:` header — that is USUALLY not what actually happened: measured over
+  every one of CONTEXT.md's 47 `**Term**:` headers and all 5 `##` section breaks, rewording or
+  deleting one leaves the accounted count unchanged in every case tried, because
+  `glossary_blocks()` merges that content into the PRECEDING entry rather than dropping it
+  (real exception, not exercised by today's content: a term that is the FIRST one after a
+  `##` break, with no earlier sibling to absorb the overflow). The message and both
+  docstrings now say what is actually likely (a figure or an entry's whole body deleted) and
+  name the header case as the narrower exception it is.
+- 2026-08-30 — **#346: `catalog_ors.py`'s `parse_toc` could drop a chapter's own last TOC
+  entry.** The TOC/body boundary is found by density — the first >600-char gap between
+  section-number matches — and the match at that boundary was always excluded as though it
+  were a body reoccurrence of an earlier entry. When a chapter's genuinely last TOC entry is
+  itself followed by a large gap (no nearby cross-reference to its own number keeps density
+  high past it), that exclusion silently dropped the entry instead. Measured against all 569
+  committed `_meta/snapshots/ors-chapter-*.txt`: 4 chapters affected — 171 (`171.992`), 186
+  (`186.520`), 221 (`221.928`), 306 (`306.815`) — with 565 chapters producing byte-identical
+  catalogs before and after. Fixed by only excluding the boundary match when its own section
+  number is already claimed by an earlier bound; when it is not, it becomes one more entry,
+  bounded by its own catchline's end (`_catchline_end`) — the first of an ALL-CAPS
+  part/subpart heading or a standalone "Note" marking editorial marginalia — rather than
+  running on into chapter furniture the way an earlier, rejected version of this fix did
+  (documented in #346's own thread). `_meta/catalog/ors.yml` gains the two entries this
+  latent bug had kept out of a fresh catalog run entirely (`186.520`, `306.815`).
+  `171.992` and `221.928` were ALREADY in the catalog (`catalog_ors.py` only ever adds a
+  section not already known to a chapter, so this fix's own diff to `ors.yml` never touched
+  either row) — code review measured that claiming they were "hand-verified" was false: both
+  carried the exact garbage-suffixed title (heading and/or "Note" marginalia glued onto the
+  real catchline) this fix's own `--selftest` now asserts must not exist, and neither is in
+  `backfill_ors_286_titles.FIXES`, the repo's actual record of a hand-verified row. Backfilled
+  those two titles alongside this fix, from the same corrected `parse_toc`, the same way
+  `backfill_ors_titles.py` (unrelated, pre-existing, and untouched by this fix) would for any
+  other stale catalog title — `_meta/catalog/ors.yml`, and `statutes/ors-171.992.md` /
+  `statutes/ors-221.928.md`'s `title:` frontmatter, `#` heading, and "At a glance" line, are
+  all now the clean, `anchor_ok`-agreeing title. `backfill_ors_titles.py --check` still fails
+  on 1443 unrelated stale catalog titles (unchanged by this fix, present before it too) — a
+  pre-existing backlog outside this issue's scope, tracked separately (#348).
+- 2026-08-30 — **#288: `generated-views-nightly`'s six gates no longer rolled up into any
+  aggregate check.** After #268's shard split, the nightly-only job ran under its own name
+  with nothing depending on it, so a nightly gate failure was visible only to whoever opened
+  the Actions run. `generated-views` now depends on `generated-views-nightly` too, with its
+  schedule-vs-PR skip handled deliberately in the fan-in step (a `skipped` result is accepted
+  ONLY for that one job, and ONLY on a non-schedule/workflow_dispatch event — every other
+  result, and every other dependency, keeps the original uniform rule) rather than folded into
+  the per-shard loop. `shard_generated_views.py`'s stale-`needs:` check used to compare
+  against shard jobs only, which would have flagged this exact, legitimate dependency as
+  nonexistent; a new rule requires the fan-in to depend on `generated-views-nightly`
+  whenever that job exists. `check_all.py` already covered the nightly job's six gates
+  locally (#329, confirmed here); this closes the CI-side gap.
+
+  Code review measured what the stale-`needs:` check's first fix admitted: comparing
+  `needs:` against every real job the workflow defines (not just shard jobs) accepted the
+  ONE dependency #288 actually needed, but also silently accepted a `needs:` entry naming
+  any other real job — including the fan-in depending on ITSELF (a cycle GitHub would
+  refuse to even run) or on `frontmatter` (real, but completely unrelated) — three of the
+  four shapes the original rule caught, gone. Narrowed to the actual allowed set: a shard
+  job, or `generated-views-nightly` while it exists, nothing else. Also fixed: the fan-in's
+  own green-summary line counted a correctly-skipped `generated-views-nightly` among the
+  jobs that "succeeded" ("all 2 dependency job(s) succeeded" when only 1 ran), and its
+  qualifying clause was split across two `echo` statements, printing as a truncated
+  sentence — now one accurate line either way. Also recorded: the job-level
+  `timeout-minutes: 80` cap had no
+  measured basis — `gh run list`/`gh run view` against the only real history the job has (it
+  did not exist as a separate job before #268's split) finds 3 scheduled runs since then, two
+  completing all six steps in 13.2 and 19.5 minutes and one failing partway at 19.7 minutes;
+  the cap comfortably covers that with the generous, rarely-firing margin #268 asks for, so it
+  is left unchanged with the measurement now recorded in its comment.
+
 - 2026-08-30 — **#295 found `ingest_ors.py`, `ingest_eo.py`, `ingest_policies.py` and
   `ingest_constitution.py` writing a fabricated `last_verified`/`verified_by` value at
   ingestion time (AGENTS.md rule 6: those fields are the human reviewer's alone to set, at
