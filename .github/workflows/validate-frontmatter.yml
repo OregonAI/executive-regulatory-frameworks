@@ -308,6 +308,23 @@ jobs:
       - name: Legal status must be written once and read everywhere else
         timeout-minutes: 2
         run: python3 src/legal_status.py --check
+      # AGENTS.md rule 6: ingestion writes `last_verified`/`verified_by` as empty strings
+      # -- the human reviewer sets them at approval, never the pipeline. #109 un-stamped
+      # every document carrying a fabricated value and fixed the generators that wrote
+      # them; #295 found the fix had not reached `ingest_ors.py`, `ingest_eo.py`,
+      # `ingest_policies.py` or `ingest_constitution.py`, which still wrote
+      # `last_verified: "{TODAY}"` (a rule stated in AGENTS.md, demonstrated correctly by
+      # two OCR scripts in this same repo, and enforced by nothing). This is that gate --
+      # an AST scan of every `src/*.py` except this gate itself (discovered by glob, not a
+      # hand-typed list or a name-prefix filter -- a review of this fix found the original
+      # `ingest_*.py`-only glob excluded the two OCR scripts named above) for a write to
+      # either field that is not the literal empty string, double-quoted, single-quoted,
+      # or bare -- catching a hardcoded non-empty literal the same way it catches an
+      # f-string interpolation (the #293 warning: a scanner built for only the one shape
+      # found would miss the other). ~0.1 s, reads committed source only, no network.
+      - name: Ingest scripts must not write a verification stamp nobody earned
+        timeout-minutes: 2
+        run: python3 src/verification_stamp.py --check
       # A number written in CONTEXT.md's prose against the measurement that produces it
       # (#306): five figures went stale there while every generated view stayed current
       # (#304), the fifth hand sweep of one shape -- an anchored `<!--census:ns.key-->` tag
@@ -695,6 +712,20 @@ jobs:
       - name: Ingest-status vocabulary rule must be able to fail
         timeout-minutes: 2
         run: python3 src/ingest_status.py --selftest
+      # The verification-stamp rule itself must be able to fail (#295): a double- and a
+      # single-quoted f-string interpolation, a quoted and a bare hardcoded non-empty
+      # literal, and a docstring-only mention (which must NOT fire) are each fired against
+      # a synthetic module; an unparseable module is caught rather than passed as clean; a
+      # real file dropped into src/ under any name (not only `ingest_*`) proves the
+      # population is discovered by glob rather than a hand-typed list or a name-prefix
+      # filter; the two OCR scripts this gate's own docstring names as exemplars are
+      # confirmed present in the scanned population by name; and the real committed
+      # `src/*.py` (excluding this gate itself) are separately proved to agree with a
+      # clean scan. `check_rule_ledger`-gated in both directions, same shape as the rule
+      # above.
+      - name: Verification-stamp rule must be able to fail
+        timeout-minutes: 2
+        run: python3 src/verification_stamp.py --selftest
       # #316/#298: content_files() used to treat a missing declared CONTENT_DIR as an empty
       # one, and division_status() collapsed five distinct rule-composition states into one
       # word. `check_rule_ledger`-gated in both directions, same shape as the rule above.
@@ -825,6 +856,19 @@ jobs:
     # measured the way the manifest's PR-tier seconds are -- these are generous backstops
     # over full-corpus scans, not a re-timed budget). This cap is itself only a backstop
     # for a genuine hang, per the same reasoning as the PR-tier shards above.
+    #
+    # MEASURED (#288), against the only real history this job has -- `generated-views-
+    # nightly` did not exist as a separate job before #268's split, so no scheduled run
+    # before it carries a comparable per-job duration; `gh run list --workflow=
+    # validate-frontmatter.yml --event schedule` then `gh run view <id> --json jobs` on
+    # each, 2026-08-30: 3 scheduled runs since the split, 2 completing all six steps
+    # (793s / 13.2 min on 2026-08-30, 1171s / 19.5 min on 2026-08-28) and 1 failing
+    # partway (1181s / 19.7 min on 2026-08-29, "Review queue must be current" itself the
+    # failure, 442s into ITS OWN 10-minute step budget, not a timeout). A real full run
+    # costs 13-20 minutes today; 80 stays 4-6x that, which is exactly the generous,
+    # rarely-firing backstop #268 asks for, not a tight budget -- this comment records the
+    # basis the issue asked for rather than changing a cap the measurement gives no reason
+    # to move.
     timeout-minutes: 80
     steps:
       - uses: actions/checkout@v4
@@ -897,6 +941,14 @@ jobs:
       - generated-views-shard-3
       - generated-views-shard-4
       - generated-views-shard-5
+      # #288: generated-views-nightly no longer reports only to whoever happens to open
+      # the run. It is NOT a sixth shard (shard_generated_views.py's SHARD_PREFIX match,
+      # its manifest, and its bin-packing all still exclude it by design -- #268's "not
+      # what a PR waits on" stands) -- it is simply one more job this fan-in depends on
+      # and asserts the result of, with its own schedule-vs-PR skip handled deliberately
+      # in the step below rather than folded into the uniform per-shard loop (#288's own
+      # "what to decide": design it deliberately, don't just widen the loop).
+      - generated-views-nightly
     if: always()
     runs-on: ubuntu-latest
     timeout-minutes: 5
@@ -911,14 +963,33 @@ jobs:
       # THE TRAP this preserves (#268's own): still `if: always()`, so the loop below still
       # runs and asserts on shard failure, cancellation, AND skip alike, rather than this
       # job itself being skipped when an upstream job fails.
-      - name: Every shard must have succeeded
+      #
+      # #288's ADDITION: `generated-views-nightly` is the one dependency in `needs:` that
+      # is EXPECTED to report `skipped` on most runs -- its own `if:` keeps it off every
+      # PR and push event by design, and that is not a failure to catch, it is the job
+      # correctly not running. The loop below special-cases exactly that one job and
+      # exactly that one result: `skipped` is accepted ONLY for
+      # `generated-views-nightly`, and ONLY when this run's own `github.event_name` is
+      # not `schedule`/`workflow_dispatch` (the same condition that job's `if:` uses) --
+      # so a scheduled run where nightly is unexpectedly skipped, or ANY run where it
+      # fails or is cancelled, still fails this gate exactly like every shard already
+      # does. Every other job in `needs:` keeps the original, uniform rule.
+      - name: Every shard must have succeeded, and the nightly job must not have failed
         env:
           NEEDS_JSON: ${{ toJSON(needs) }}
+          EVENT_NAME: ${{ github.event_name }}
         run: |
           fail=0
+          n_expected_skip=0
           for job in $(echo "$NEEDS_JSON" | jq -r 'keys[]'); do
             result=$(echo "$NEEDS_JSON" | jq -r --arg j "$job" '.[$j].result')
             echo "$job: $result"
+            if [ "$job" = "generated-views-nightly" ] && [ "$result" = "skipped" ] \
+                && [ "$EVENT_NAME" != "schedule" ] && [ "$EVENT_NAME" != "workflow_dispatch" ]; then
+              echo "  (expected: generated-views-nightly only runs on schedule/workflow_dispatch, this run is '$EVENT_NAME')"
+              n_expected_skip=$((n_expected_skip + 1))
+              continue
+            fi
             if [ "$result" != "success" ]; then
               echo "FAIL  $job reported '$result', not success"
               fail=1
@@ -926,8 +997,13 @@ jobs:
           done
           if [ "$fail" -ne 0 ]; then
             echo "generated-views is red: at least one shard did not succeed"
-            echo "(failure, cancellation, and skip all count -- see #268)."
+            echo "(failure, cancellation, and skip all count -- see #268 and #288)."
             exit 1
           fi
           n=$(echo "$NEEDS_JSON" | jq -r 'keys | length')
-          echo "generated-views is green: all $n shard(s) succeeded."
+          n_succeeded=$((n - n_expected_skip))
+          if [ "$n_expected_skip" -gt 0 ]; then
+            echo "generated-views is green: $n_succeeded of $n dependency job(s) succeeded, and $n_expected_skip correctly did not run (generated-views-nightly on a non-schedule event)."
+          else
+            echo "generated-views is green: all $n dependency job(s) succeeded."
+          fi

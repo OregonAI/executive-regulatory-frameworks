@@ -234,6 +234,65 @@ def walk_strings(obj):
             yield from walk_strings(v)
 
 
+def _git(*args):
+    return subprocess.run(["git", "-C", str(REPO_ROOT), *args],
+                          capture_output=True, text=True)
+
+
+def resolve_base_ref() -> str:
+    """"Before this change" as a commit: merge-base with origin/main, else HEAD~1 --
+    THE ONE RESOLUTION, shared by every gate that compares the working tree against
+    "what was already committed" rather than a hand-maintained number (AGENTS.md
+    "before gating a figure, ask whether it should exist" -- a floor derived from git
+    history is not a number in prose). `changed_content_files` had this inline first;
+    `stated_census.py`'s coverage floor (#341) is the second caller, so it moved here
+    rather than becoming a second, driftable copy."""
+    base_ref = "HEAD~1"
+    mb = _git("merge-base", "origin/main", "HEAD")
+    if mb.returncode == 0 and mb.stdout.strip():
+        base_ref = mb.stdout.strip()
+    return base_ref
+
+
+def committed_text(path: Path, ref: str, head_ref: str = "HEAD") -> str | None:
+    """`path`'s text as of `ref` -- or None if `path` did not exist at that ref under
+    ANY name reachable by rename detection (a genuinely new file has nothing to compare
+    against, not a regression) or `ref` cannot be read (no git history, a shallow clone
+    missing that commit). `path` may be absolute or relative to REPO_ROOT.
+
+    Tries the path's OWN name at `ref` first; if that misses, asks `git diff -M` for a
+    committed rename between `ref` and `head_ref` (default `HEAD` -- every real caller's
+    "now") whose NEW side is this path, and if one exists, reads the OLD side's text at
+    `ref` instead -- found by code review: without this, a document renamed in the same
+    commit/PR that also shrank it (`git show ref:new-name` -- nothing there under that
+    name) reads as "new since `ref`, nothing to compare against" rather than "renamed,
+    and its coverage dropped," silently disabling any caller (e.g. `stated_census.py`'s
+    coverage floor, #341) that treats a miss here as vacuously satisfied. Only resolves
+    a rename already committed to `head_ref` -- an uncommitted rename in the working
+    tree (nothing unusual for local, uncommitted edits, but not the CI shape this
+    closes) is not detected, since `git diff -M` between two commits never sees
+    working-tree-only state. `head_ref` is a parameter (not hardcoded) only so
+    `selftest()` can point it at a real historical rename commit instead of today's
+    HEAD -- every production call site keeps the default."""
+    try:
+        rel = path.resolve().relative_to(REPO_ROOT)
+    except ValueError:
+        rel = path
+    rel_s = rel.as_posix()
+    res = _git("show", f"{ref}:{rel_s}")
+    if res.returncode == 0:
+        return res.stdout
+    status = _git("diff", "-M", "--name-status", ref, head_ref)
+    if status.returncode == 0:
+        for line in status.stdout.splitlines():
+            parts = line.split("\t")
+            if len(parts) == 3 and parts[0].startswith("R") and parts[2] == rel_s:
+                old = _git("show", f"{ref}:{parts[1]}")
+                if old.returncode == 0:
+                    return old.stdout
+    return None
+
+
 def changed_content_files(base_ref: str | None = None):
     """Content files added/modified relative to base_ref (default: merge-base with
     origin/main, else HEAD~1). Includes uncommitted working-tree changes. Returns a
@@ -241,17 +300,8 @@ def changed_content_files(base_ref: str | None = None):
 
     Used by verify_provenance.py / validate_frontmatter.py --changed so PR CI only
     checks the diff; full-corpus runs stay on push-to-main / nightly."""
-    import subprocess
-
-    def _git(*args):
-        return subprocess.run(["git", "-C", str(REPO_ROOT), *args],
-                              capture_output=True, text=True)
-
     if base_ref is None:
-        base_ref = "HEAD~1"
-        mb = _git("merge-base", "origin/main", "HEAD")
-        if mb.returncode == 0 and mb.stdout.strip():
-            base_ref = mb.stdout.strip()
+        base_ref = resolve_base_ref()
 
     names = set()
     # committed diff base..HEAD, plus staged and unstaged working-tree changes
@@ -1115,6 +1165,55 @@ def _proof_missing_content_dir_refuses(check) -> None:
         REPO_ROOT = real_root  # RESTORE IT
 
 
+def _proof_committed_text_resolves_a_rename(check) -> None:
+    """Code review of #341: `committed_text()` used to answer "nothing to compare against"
+    for a path renamed in the same commit range it is being compared across -- exactly the
+    silence a caller like `stated_census.py`'s coverage floor treats as vacuously satisfied,
+    so a renamed-and-shrunk document passed with no warning at all. A disposable git repo
+    (never REPO_ROOT -- `git diff -M`/`git show` must never run against the real corpus
+    mid-selftest) proves the fix directly: commit A creates `old.md`; commit B (`git mv`)
+    renames it to `new.md` with different content. `committed_text(new.md, A, head_ref=B)`
+    must recover commit A's TEXT UNDER THE OLD NAME, not None."""
+    import subprocess
+    import tempfile
+    global REPO_ROOT
+    real_root = REPO_ROOT
+    try:
+        with tempfile.TemporaryDirectory() as d:
+            root = Path(d)
+
+            def g(*args):
+                return subprocess.run(["git", "-C", str(root), *args],
+                                      capture_output=True, text=True, check=True)
+            g("init", "-q")
+            g("config", "user.email", "selftest@example.invalid")
+            g("config", "user.name", "selftest")
+            # Mostly-identical, longer content -- `git diff -M`'s DEFAULT 50% similarity
+            # threshold does not pair a tiny file whose content changes as much as the
+            # shrink itself does (measured: a one-line "12 things" -> "5 things" file was
+            # NOT detected as a rename at all, understating what real prose looks like).
+            body = "figure: 12 things\n" + ("filler line unrelated to the count\n" * 20)
+            (root / "old.md").write_text(body)
+            g("add", "old.md")
+            g("commit", "-q", "-m", "A")
+            commit_a = g("rev-parse", "HEAD").stdout.strip()
+            g("mv", "old.md", "new.md")
+            (root / "new.md").write_text(body.replace("12 things", "5 things"))  # shrunk,
+            g("commit", "-a", "-q", "-m", "B: rename and shrink")               # same commit
+            commit_b = g("rev-parse", "HEAD").stdout.strip()
+
+            REPO_ROOT = root
+            got = committed_text(Path("new.md"), commit_a, head_ref=commit_b)
+            check("a same-range rename is resolved to the OLD name's text at the base ref, "
+                  "not reported as nothing-to-compare", got == body)
+
+            still_new = committed_text(Path("genuinely-new.md"), commit_a, head_ref=commit_b)
+            check("a path that is genuinely new since the base ref (no rename pairs with "
+                  "it) is still None, not a false match", still_new is None)
+    finally:
+        REPO_ROOT = real_root  # RESTORE IT
+
+
 def _proof_division_status_distinguishes_the_five_states(check) -> None:
     """#298, exercised directly -- division_status() is a pure function, so "break it" is
     feeding it each collapsed state's input rather than mutating a fixture on disk.
@@ -1190,6 +1289,7 @@ def selftest() -> int:
     check = Checks()
     _ledger()  # binds the module-level `Failure` name before the proofs above call it bare
     _proof_missing_content_dir_refuses(check)
+    _proof_committed_text_resolves_a_rename(check)
     _proof_division_status_distinguishes_the_five_states(check)
 
     gaps = _LEDGER.gaps()

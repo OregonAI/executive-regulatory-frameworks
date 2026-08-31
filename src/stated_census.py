@@ -80,6 +80,27 @@ DOCUMENT-AGNOSTIC. `cmd_check()` takes a list of paths; CONTEXT.md is the defaul
 first adapter, not the only one a future document can point this at. The citation-integrity
 rule is unscoped to the path argument -- it is a repo-wide invariant about `src/`, checked on
 every run regardless of which document's figures were asked about.
+
+THE FLOOR (#341). Everything above gates a figure that IS tagged -- but content stating a
+figure can be deleted outright, or a glossary entry can lose the header that put it in
+`glossary_blocks()`'s scan (measured: only when that entry is the FIRST `**Term**:` after a
+`##` break, with no earlier entry in the same section to absorb its span -- rewording or
+deleting any OTHER entry's header just merges its content into the PRECEDING entry, so its
+figures are still scanned, only re-attributed). Either way, `--check` can end up quietly
+verifying fewer things than last time and exiting 0 -- not a `figure-is-accounted-for`
+failure, because there is no longer a figure there to call untagged. Per AGENTS.md's "before
+gating a figure, ask whether it should exist," the fix is not a hand-maintained
+expected-count in prose (one more figure to keep in sync by hand, the exact disease this
+module treats) -- it is DERIVED: `coverage-has-not-regressed` reads each PATH's own text as
+of `repo_lib.resolve_base_ref()` (merge-base with origin/main, else HEAD~1 -- the same
+"before this change" `changed_content_files` already uses) and refuses a run whose
+accounted-for count (tagged + marked, matching or not) is lower than that commit's. A PATH
+new since the base ref, or a base ref git cannot resolve, has nothing to compare against --
+the floor is then silently satisfied, not silently failed; `cmd_check` reports which case
+happened rather than leaving "no floor" indistinguishable from "floor held." A path RENAMED
+since the base ref is not "new" either -- `repo_lib.committed_text()` resolves a same-range
+rename to the old name's text (code review of this fix: a rename used to read as "nothing to
+compare against" too, silently disabling the floor for exactly the document it renamed).
 """
 import argparse
 import datetime
@@ -92,7 +113,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import yaml
 
 from check_rule_ledger import RuleLedger
-from repo_lib import REPO_ROOT
+from repo_lib import REPO_ROOT, committed_text, resolve_base_ref
 
 SRC = REPO_ROOT / "src"
 DEFAULT_DOC = REPO_ROOT / "CONTEXT.md"
@@ -108,6 +129,7 @@ CHECK_RULES = (
     "observation-date-is-valid",
     "citation-names-an-existing-term",
     "src-file-is-readable",
+    "coverage-has-not-regressed",
 )
 
 # THE CHECK-RULE LEDGER (#319). Recording a rule when a Failure is built, the AST scan of
@@ -227,6 +249,21 @@ def _skipped_figures(text: str) -> list:
     declined check look identical to a passed one (#315, AGENTS.md's overriding rule)."""
     return [(line, stated, skip) for _, _, line, _, stated, skip in _figure_sites(text)
             if skip is not None]
+
+
+def _accounted_count(text: str) -> int:
+    """How many figures in `text` are IN SCOPE to be gated at all -- every `_figure_sites`
+    site that is not a `"floor"`/`"context"` skip, whether or not it turns out to carry a
+    tag `check_figures` accepts (this counts CANDIDATES for that check, not its verdicts --
+    an untagged figure `check_figures` would go on to fail is still counted here; only a
+    `"floor"`/`"context"` skip removes a site from this count). This is the number
+    `coverage-has-not-regressed` (#341) compares between this run's text and the base ref's:
+    a glossary entry taken out of `glossary_blocks()`'s scan (its own figures deleted, or --
+    only when it is the FIRST `**Term**:` after a `##` break, with no earlier entry to
+    absorb its span -- its header reworded or removed) drops its figures from this count
+    with no other rule noticing, because there is no longer a figure there to call
+    untagged."""
+    return sum(1 for _, _, _, _, _, skip in _figure_sites(text) if skip is None)
 
 
 TERM_HEADER_RE = re.compile(r"^\*\*([^*]+)\*\*:", re.M)
@@ -503,6 +540,38 @@ def check_figures(path: Path, text: str, cache: dict) -> list:
     return failures
 
 
+# -------------------------------------------------------------------- rule: coverage floor
+
+def check_coverage_floor(path: Path, text: str, base_text) -> list:
+    """#341: `text`'s accounted-for figure count must not be lower than `base_text`'s --
+    `base_text` is the SAME path's text as of `repo_lib.resolve_base_ref()`, or `None` when
+    there is nothing to compare against (a path new since that ref, or a ref git could not
+    resolve). `base_text=None` is never a failure -- "no floor available" and "floor held"
+    are different outcomes, and `cmd_check` reports which one happened rather than
+    conflating them. Passed in explicitly (matching `check_figures`'s own `text`/`cache`
+    parameters) so `--selftest` can fire this against synthetic before/after text without
+    shelling out to git or touching the committed corpus."""
+    if base_text is None:
+        return []
+    now = _accounted_count(text)
+    was = _accounted_count(base_text)
+    if now < was:
+        return [Failure(
+            "coverage-has-not-regressed", str(path),
+            f"{now} figure(s) are accounted for (tagged or marked) in this run, down from "
+            f"{was} at the comparison commit -- diff this document against the comparison "
+            "commit directly to find which. Likely causes: a stated figure, or an entire "
+            "glossary entry's body, deleted outright; or (only when the entry is the "
+            "FIRST `**Term**:` after a `##` break, with no earlier entry in the same "
+            "section to absorb its span) that entry's own header reworded or removed -- "
+            "`glossary_blocks()` otherwise merges a reworded/removed header's content into "
+            "the PRECEDING entry rather than dropping it, so that alone usually just "
+            "re-attributes a figure, not loses it. This is not a lower figure count "
+            "agreeing with a smaller corpus; it is `--check` quietly verifying fewer "
+            "things than the commit it is compared against did")]
+    return []
+
+
 # -------------------------------------------------------------- rule: docstring citations
 
 # `CONTEXT.md, *Term*` -- the one citation shape every module in src/ that names CONTEXT.md
@@ -588,26 +657,39 @@ def check_citations(paths=None, glossary_text=None) -> list:
 
 # ---------------------------------------------------------------------------- commands
 
-def check_document(path: Path, cache: dict) -> list:
+def check_document(path: Path, cache: dict, base_text) -> list:
     """Every figure-accounting failure in one document -- refuses (rather than skips) a
     document that cannot be read, per CONTEXT.md's *Could not check*: an unreadable
     document's figures are not verified, and that is a different finding from every figure
-    in it agreeing."""
+    in it agreeing. `base_text` feeds `check_coverage_floor` (#341) -- the SAME path's text
+    as of `repo_lib.resolve_base_ref()`, or `None` when there is nothing to compare against.
+    Required, not defaulted: the one real caller (`cmd_check`) already needs `committed_
+    text(path, base_ref)` a second time for its own no-floor report, so it resolves the ref
+    once and passes the text down rather than this function shelling out to git a second
+    time per path for a value the caller already has."""
     try:
         text = path.read_text()
     except OSError as e:
         return [Failure("document-is-readable", str(path),
                         f"could not be read ({e}) -- its figures were not checked, which "
                         "is not the same as their all agreeing")]
-    return check_figures(path, text, cache)
+    failures = check_figures(path, text, cache)
+    failures += check_coverage_floor(path, text, base_text)
+    return failures
 
 
 def cmd_check(paths) -> int:
     paths = [Path(p) for p in paths] if paths else [DEFAULT_DOC]
     cache: dict = {}
+    base_ref = resolve_base_ref()
     failures = []
+    no_floor = []  # (path,) -- new since base_ref, or base_ref unreadable for it
+    base_texts = {}  # path -> committed_text(path, base_ref), fetched once per path
     for p in paths:
-        failures += check_document(p, cache)
+        base_texts[p] = committed_text(p, base_ref)
+        failures += check_document(p, cache, base_texts[p])
+        if base_texts[p] is None:
+            no_floor.append(p)
     failures += check_citations()
 
     if failures:
@@ -657,6 +739,14 @@ def cmd_check(paths) -> int:
           "immediately followed by '+'), not gated:")
     for p, line, stated in excluded_floor:
         print(f"  {p}:{line} {stated!r}+")
+    # #341: the coverage floor held for every path with something to compare against --
+    # named here so "held" and "nothing to compare" cannot look like the same silence.
+    checked_floor = [p for p in paths if p not in no_floor]
+    print(f"coverage floor (against {base_ref[:12]}): held for {len(checked_floor)} "
+          f"document(s), no comparison available for {len(no_floor)} "
+          f"(new since that commit, or unreadable at it):")
+    for p in no_floor:
+        print(f"  {p}")
     return 0
 
 
@@ -809,9 +899,59 @@ def selftest() -> int:
     # An unreadable document is REFUSED, never reported as agreeing (CONTEXT.md's
     # overriding rule, applied to this gate itself).
     missing = Path("/nonexistent/path/for-stated-census-selftest.md")
-    got = [f.rule for f in check_document(missing, {})]
+    got = [f.rule for f in check_document(missing, {}, base_text=None)]
     if got != ["document-is-readable"]:
         fails.append(f"FAIL an-unreadable-document-is-refused: {got}")
+
+    # -------------------------- #341: the coverage floor --------------------------
+    #
+    # `check_coverage_floor` directly, against synthetic before/after text -- no git, no
+    # committed corpus -- so the RED case reproduces #341's own repro (a `**Term**:` header
+    # reworded to plain prose, dropping a tagged figure out of scope entirely) as a
+    # controlled mutation rather than a coincidence of today's CONTEXT.md.
+    before = _fixture_glossary("not_served (49 <!--census:fixture_ns.n-->)")
+    # THE MUTATION #341 NAMES: the header itself, reworded to plain prose -- the entry (and
+    # its tagged figure) leaves glossary_blocks()'s scan entirely. Nothing about the figure
+    # changed; only its header did.
+    after_reworded = before.replace("**Fixture**:", "Fixture:")
+    if _accounted_count(after_reworded) != 0 or _accounted_count(before) != 1:
+        fails.append(
+            "FAIL coverage-floor-fixture-shape: reworded header must drop the block from "
+            f"scope (want 0, got {_accounted_count(after_reworded)}); the un-mutated "
+            f"fixture must carry exactly one accounted figure (want 1, got "
+            f"{_accounted_count(before)})")
+    got = [f.rule for f in check_coverage_floor(Path("fixture.md"), after_reworded, before)]
+    if "coverage-has-not-regressed" not in got:
+        fails.append(f"FAIL a-reworded-header-drops-coverage-and-is-caught: {got}")
+
+    # The un-mutated pair (same text both sides) is clean.
+    got = [f.rule for f in check_coverage_floor(Path("fixture.md"), before, before)]
+    if got:
+        fails.append(f"FAIL unchanged-coverage-produces-no-finding: {got}")
+
+    # MORE coverage than the base ref is never a failure -- the floor is a floor, not a
+    # fixed target.
+    grown = before + "\nmore_served (7 <!--census:fixture_ns.m-->)\n"
+    got = [f.rule for f in check_coverage_floor(Path("fixture.md"), grown, before)]
+    if got:
+        fails.append(f"FAIL grown-coverage-produces-no-finding: {got}")
+
+    # `base_text=None` (nothing to compare against -- a new path, or an unreadable base
+    # ref) is satisfied vacuously, never a failure -- "no floor" is not "floor broken".
+    got = [f.rule for f in check_coverage_floor(Path("fixture.md"), after_reworded, None)]
+    if got:
+        fails.append(f"FAIL no-base-text-is-not-a-failure: {got}")
+
+    # Wired through check_document with an explicit base_text (no git, no _UNSET
+    # resolution): the coverage failure surfaces alongside check_figures's own findings, for
+    # a document actually READ off disk (check_document's real code path, not a stand-in).
+    import tempfile
+    with tempfile.TemporaryDirectory() as d:
+        reworded_doc = Path(d) / "reworded.md"
+        reworded_doc.write_text(after_reworded)
+        got = [f.rule for f in check_document(reworded_doc, {}, base_text=before)]
+        if "coverage-has-not-regressed" not in got:
+            fails.append(f"FAIL check-document-wires-the-coverage-floor: {got}")
 
     CENSUSES = real_censuses
 

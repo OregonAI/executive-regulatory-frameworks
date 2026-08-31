@@ -529,8 +529,8 @@ status: current
 supersedes: {sup_field}
 content_mode: verbatim
 conversion_notes: "{conv.replace(chr(34), chr(39))}"
-last_verified: "{TODAY}"
-verified_by: "{HANDLE}"
+last_verified: ""
+verified_by: ""
 maintainer: "{HANDLE}"
 relationships:
   implements: []

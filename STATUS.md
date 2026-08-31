@@ -1,6 +1,6 @@
 # STATUS — Oregon Executive Regulatory Frameworks
 
-Generated 2026-08-28. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-08-30. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
@@ -25,7 +25,7 @@ Generated 2026-08-28. Non-authoritative; see DISCLAIMER.md.
 
 ## Freshness (reverify every 90 days)
 
-81513 of 81921 document(s) overdue for re-verification.
+81921 of 81921 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
@@ -79,5 +79,5 @@ Generated 2026-08-28. Non-authoritative; see DISCLAIMER.md.
 | ors-1.199 | statute | never |
 | ors-1.200 | statute | never |
 | ors-1.202 | statute | never |
-| … | *81463 more* | |
+| … | *81871 more* | |
 
