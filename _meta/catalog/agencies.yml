@@ -59,11 +59,12 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   across --refresh. note is scrape-only (#178): cmd_refresh() writes one of exactly three sentences into
   it, when a chapter page''s title will not parse, its fetch fails, or a chapterless group''s children
   disagree on a name prefix, and nothing else may live there, `manual` or not. curator_note holds hand-typed
-  prose about a row instead, protected across --refresh the way das_agency_number is; the two rows carrying
-  one today record why the row is `manual` at all, since the mirror''s index omits the chapter. This paragraph
-  is itself checked against FIELDS by name on every --check run (`note-covers-fields`, #185): a field
-  FIELDS declares that these sentences do not mention fails the gate, so this note cannot go stale the
-  way it did before anything watched it.'
+  prose about a row instead, protected across --refresh the way das_agency_number is: a finding a hand
+  edit cannot safely fold into a gated field, such as why a manual row is manual when the mirror''s index
+  omits its chapter, or a body''s identity change the current derivation contract cannot yet state as
+  a relation (#212). This paragraph is itself checked against FIELDS by name on every --check run (`note-covers-fields`,
+  #185): a field FIELDS declares that these sentences do not mention fails the gate, so this note cannot
+  go stale the way it did before anything watched it.'
 source_url: https://oregon.public.law/rules
 retrieved: '2026-07-20'
 organizations:
@@ -1350,6 +1351,7 @@ organizations:
   manual: true
   das_agency_number: '425'
   budget_agency_code: '425'
+  enabling_authority: ORS 172.100
 - slug: legislative-counsel-office
   name: Legislative Counsel Office
   name_basis: unverified-oar-title
@@ -1372,6 +1374,7 @@ organizations:
   parent_chapter: null
   relations: []
   manual: true
+  enabling_authority: ORS 173.900
 - slug: legislative-fiscal-officer
   name: Legislative Fiscal Officer
   name_basis: unverified-oar-title
@@ -1384,6 +1387,7 @@ organizations:
   manual: true
   das_agency_number: '145'
   budget_agency_code: '145'
+  enabling_authority: Oregon Laws 1959, chapter 70
 - slug: legislative-policy-and-research-committee
   name: Legislative Policy and Research Committee
   name_basis: unverified-oar-title
@@ -1409,6 +1413,7 @@ organizations:
   manual: true
   das_agency_number: '144'
   budget_agency_code: '144'
+  enabling_authority: Oregon Laws 1975, chapter 789
 - slug: long-term-care-ombudsman
   name: Long Term Care Ombudsman
   name_basis: unverified-oar-title
@@ -2068,6 +2073,34 @@ organizations:
   aliases:
   - Office of Emergency Management
   - Oregon Department of Emergency Management
+  curator_note: 'STANDALONE since HB 2927 (Oregon Laws 2021, chapter 539, section 2), operative 2022-07-01
+    (OLIS measure overview for HB 2927, 2021 regular session): renamed the Office of Emergency Management
+    as the Oregon Department of Emergency Management and established it as an independent state agency,
+    spun out of the Oregon Military Department. Codified at ORS 401.052(1): "The Oregon Department of
+    Emergency Management is established." (#212). #212 named three options for the old identity -- delete,
+    alias, or keep as a second body -- and ruled the third one out explicitly: "it is one body that moved,
+    not two bodies." This row IS that one body; no second row exists, and the current statutory name is
+    kept as an `aliases` entry so a lookup for either name resolves here (the mechanism #212 itself names:
+    "Keeping it as an alias of the new row records the identity change"). `name`/`name_basis`/`oar_name`
+    are deliberately NOT promoted to the statutory name yet, even though ORS 401.052 is read and verified:
+    promoting requires `name_basis: enabling-authority`, which requires `enabling_authority` (link_enabling_authority.py''s
+    STATUTORY_NAMES is read off the same authority MAPPED records), and recording `enabling_authority:
+    ORS 401.052` on THIS row derives a kind (`src/derive_relation_kinds.py`) onto the relation above:
+    `administered_by oregon-military-department, reviewed-enabling-authority, ORS 401.052` -- asserting
+    exactly the administrative attachment ORS 401.052 abolished. The relation is SCRAPED and stale (oregon.public.law''s
+    chapter index still nests chapter 104 under the Military Department as of 2026-08-30, confirmed by
+    direct fetch, so --refresh regenerates it regardless of what is written here), and ADR 0004 has no
+    third kind for a body an index page still places under a parent statute has removed it from -- "whether
+    that is a third relation or an absence of one is not decided here." Recording the authority before
+    that gap is closed would derive a citation-backed claim that is false rather than merely undetermined,
+    which is worse. OARD''s own page (https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=96)
+    already titles chapter 104 "Oregon Department of Emergency Management" with no mention of the Military
+    Department, confirmed by direct fetch 2026-08-30 -- the two sources disagree and the disagreement
+    is kept (ADR 0003) rather than resolved by hand-editing a scraped field or by writing a derivation
+    this repository''s own model cannot yet state correctly. The same act (HB 2927) also made the State
+    Fire Marshal''s office an independent agency -- link_budget_codes.py''s REORGANIZED note for DAS code
+    260 documents that this registry has not caught up on that one either; out of scope here, reported
+    as a sibling.'
 - slug: oregon-patient-safety-commission
   name: Oregon Patient Safety Commission
   name_basis: unverified-oar-title
@@ -2300,7 +2333,7 @@ organizations:
   enabling_authority: ORS 656.752
 - slug: secretary-of-state
   name: Secretary of State
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Secretary of State
   oar_chapter: null
   raw_index_name: Secretary of State

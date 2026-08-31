@@ -72,21 +72,24 @@ against this table in both directions, so a row that acquired an authority some 
 a failure rather than a fact.
 
 WHAT THE FIELD MAY SAY is declared once, in catalog_agencies.AUTHORITY_FORMS — an ORS
-citation, a constitutional article, or an executive order (ADR 0003), or `none: ` and the
-reason there is none. This gate reads that grammar rather than restating it, so a value
-cannot be legal in the table and illegal in the file the table is written to. It checks the
-TABLE against the grammar; the registry's own contract check (catalog_agencies.py --check)
-checks the ROWS. Same rule, two populations, and neither one covers the other: an authority
-can be wrong in the table before it is ever written, and a row can be hand-edited after.
+citation, a constitutional article, an executive order, or (since #211) an uncodified
+session law, or `none: ` and the reason there is none. This gate reads that grammar rather
+than restating it, so a value cannot be legal in the table and illegal in the file the table
+is written to. It checks the TABLE against the grammar; the registry's own contract check
+(catalog_agencies.py --check) checks the ROWS. Same rule, two populations, and neither one
+covers the other: an authority can be wrong in the table before it is ever written, and a row
+can be hand-edited after.
 
-AND SPELLED LIKE A CITATION IS NOT THE SAME AS NAMES SOMETHING. Every one of ADR 0003's three
-forms is RESOLVED here against a mirrored document — an ORS section, an executive order, and
-since #196 a section of the Oregon Constitution. The constitutional form was the last one
-taken on form alone, which mattered because an enabling authority is admitting evidence: a
-class of it nothing could check meant `Or. Const. Art. XVII, sec. 99` admitted a body, and
-Article XVII has two sections. `constitutional_resolver` is the half of that worth reading —
-resolving to nothing is FIVE different findings about the Constitution and two more about
-this corpus, and a reviewer has to be told which.
+AND SPELLED LIKE A CITATION IS NOT THE SAME AS NAMES SOMETHING. Three of the four forms are
+RESOLVED here against a mirrored document — an ORS section, an executive order, and since
+#196 a section of the Oregon Constitution — and the fourth, a session law, is CHECKED FOR
+SHAPE ONLY, because this corpus mirrors no session laws for a citation to resolve against
+(#211's own scope: expressible, not resolvable). The constitutional form was the last of the
+resolved three taken on form alone, which mattered because an enabling authority is admitting
+evidence: a class of it nothing could check meant `Or. Const. Art. XVII, sec. 99` admitted a
+body, and Article XVII has two sections. `constitutional_resolver` is the half of that worth
+reading — resolving to nothing is FIVE different findings about the Constitution and two more
+about this corpus, and a reviewer has to be told which.
 
 THE THREE STATES, and the reason MAPPED and UNMAPPED are both explicit. A row carrying
 `ORS 576.062` has an authority; a row carrying `none: <reason>` was looked at and has none;
@@ -118,6 +121,7 @@ import yaml
 from catalog_agencies import (ENABLING_AUTHORITY_NAME, NAME_BASIS_KEY, NO_AUTHORITY,
                               UNVERIFIED_OAR_TITLE, authority_census, classify_authority,
                               name_census, no_authority_value)
+from check_rule_ledger import RuleLedger
 from repo_lib import REPO_ROOT
 
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
@@ -126,11 +130,41 @@ EXECUTIVE_ORDERS = REPO_ROOT / "executive-orders"
 CONSTITUTION = REPO_ROOT / "constitution"
 REVIEW_SHEET = REPO_ROOT / "_meta/catalog/enabling-authority-review.yml"
 
-# One thing wrong with the reviewed table or with the registry it writes: which rule, which
-# body, and what is wrong. A type rather than a formatted string, so --selftest asserts on
-# the RULE that fired instead of pattern-matching prose — the way a proof starts passing for
-# the wrong reason (catalog_agencies.Failure, same lesson).
-Problem = collections.namedtuple("Problem", "rule slug detail")
+# EVERY RULE THIS MODULE CAN REPORT (#211/#220 adopt `check_rule_ledger` here — this module
+# was the twelfth #319 missed counting: a `Problem` namedtuple with a `rule` string field and
+# no declared table, no AST scan, and no record of which rules a run actually watched fire.
+# Widening `audit_statutory_names` to dispatch across four forms instead of one is exactly
+# the kind of change a hand-rolled rule name can go stale under silently — this table and the
+# scan below are what `catalog_agencies.CHECK_RULES` already keeps honest one module over.
+CHECK_RULES = (
+    "slug-in-registry", "not-both-tables", "authority-form", "authority-resolves",
+    "unmapped-has-reason", "unmapped-is-not-an-authority",
+    "statutory-name-slug-in-registry", "statutory-name-is-a-name",
+    "statutory-name-has-an-authority", "statutory-name-in-the-cited-text",
+    "registry-agrees", "statutory-name-agrees",
+)
+
+_LEDGER = RuleLedger(CHECK_RULES, __file__)
+
+
+class Failure(_LEDGER.Failure):
+    """One thing wrong with the reviewed tables or with the registry they write: which rule,
+    which body, and what is wrong — recorded on construction by the shared ledger
+    (catalog_agencies.Failure, same lesson), so no proof has to remember to say a rule fired
+    and a rule name not in CHECK_RULES refuses construction rather than passing an unmarked
+    write through.
+
+    `.slug` IS `.site` UNDER ITS LONG-STANDING NAME HERE. The shared ledger's `Failure` is a
+    `namedtuple("Failure", "rule site detail")` — one field name for every adopting module,
+    because the ledger cannot know a domain's own word for "the thing this finding is
+    about". This module's own word has been `slug` since before the ledger existed, and
+    every construction call and every `.slug` read below stays exactly as written; only the
+    definition changes."""
+    __slots__ = ()
+
+    @property
+    def slug(self):
+        return self.site
 
 # ---------------------------------------------------------------- reviewed registry data
 #
@@ -302,6 +336,85 @@ MAPPED: dict[str, str] = {
     "oregon-housing-and-community-services-department": "ORS 456.555",
     "travel-information-council": "ORS 377.835",
     "veterinary-medical-examining-board": "ORS 686.210",
+    # A SECOND INSTANCE OF THE SESSION-LAW FORM, read and verified 2026-08-22 — NOT #211's
+    # own worked case (that is `legislative-fiscal-officer`, below); this one is a separate,
+    # independently-supplied authority of the same shape. All seven sections of ORS
+    # 173.800-173.855 are mirrored, and NONE creates the office: they cover appointment,
+    # staffing, duties, funds, federal-program status, department assistance and
+    # confidentiality — codifying the office's OPERATION, never its creation. The one hit for
+    # creating language in the range is a false positive naming a different body entirely
+    # ("173.800: '...if no Interim Committee on Revenue is created, means the Speaker of the
+    # House...'" — an interim COMMITTEE, not the Office). The creating act is uncodified:
+    # Oregon Laws 1975, chapter 789 (Senate Bill 1024), which separated tax research and
+    # revenue forecasting from the Legislative Fiscal Office to create a standalone,
+    # nonpartisan service agency. `statutes/ors-173.800.md` itself carries the Legislative
+    # Counsel's own bracket citation of that act, `[1975 c.789 §1]`, at the very section
+    # (173.800(2)) that names the appointing authority — corroborating the act without being
+    # the creating sentence, which is exactly the distinction this form exists to record.
+    "legislative-revenue-office": "Oregon Laws 1975, chapter 789",
+    # #211's OWN WORKED CASE — the "case that found it" section of the issue itself, read and
+    # verified 2026-08-22. Oregon Laws 1959, chapter 70 established the position of
+    # Legislative Fiscal Officer and its nonpartisan staff; it is codified at ORS
+    # 173.410-173.465, all five mirrored sections of which are read in the issue and NONE
+    # creates the office: 173.410 defines "appointing authority", 173.420 states duties,
+    # 173.450 covers staff employment, and 173.465 creates the FUND, not the office (173.430,
+    # .440 and .460 are not mirrored — #210). The codification describes an office it assumes
+    # already exists; the creating act is the session law. This is also one of the three
+    # bodies #169 names as blocked on this form's absence, and #169's own review population
+    # should be read as updated for it now that the form exists.
+    "legislative-fiscal-officer": "Oregon Laws 1959, chapter 70",
+    # #169's REMAINING POPULATION, read and verified 2026-08-30 against the mirrored text.
+    # Each sat in `no_candidate` or as an unread tier-2 candidate; none was accepted on a
+    # tier alone.
+    #
+    # ORS 172.100(1): "The State of Oregon shall establish a Commission on Indian Services
+    # for the purposes of improving services to American Indians in this state..." The
+    # matcher never proposed this one — the catchline is "Legislative policy", which names
+    # no body, and the creating sentence sits inside the section's text instead. This is NOT
+    # the same shape as ORS 576.062's enumerated commissions ("The following commodity
+    # commissions ARE ESTABLISHED as state commissions") — that is present-tense operative
+    # establishment, where 172.100 is a declaration of legislative policy directing that the
+    # state "shall establish" one. The rest of the chapter (ORS 172.110 members, ORS 172.120
+    # duties) has no closer candidate, so this is the section that constitutes the
+    # commission, but the citation records that statute DIRECTS the establishment, not that
+    # it performs one. The registry's name carries a "Legislative" prefix the statute does
+    # not use; that is #168's question, not this one.
+    "legislative-commission-on-indian-services": "ORS 172.100",
+    # legislative-counsel-office was entered here as ORS 173.111 and reverted (code review,
+    # 2026-08-31): the section's OPERATIVE text establishes only the Legislative Counsel
+    # COMMITTEE ("The Legislative Counsel Committee is established as a joint committee of
+    # the Legislative Assembly. The Legislative Counsel Committee shall select a Legislative
+    # Counsel to serve as its executive officer."). "office of Legislative Counsel
+    # established" is the section's CATCHLINE, which ORS 174.540 — mirrored in this repo —
+    # states is not part of the law: "Title heads, chapter heads, division heads, section and
+    # subsection heads or titles and explanatory notes ... do not constitute any part of the
+    # law." Nothing else in the mirrored statutes uses that phrase outside this catchline. Not
+    # re-guessed at a different citation — reverted to could-not-check, still `no_candidate`
+    # in the review sheet, exactly as it stood before this entry.
+    #
+    # ORS 173.900(2): "The Legislative Equity Office is established as a nonpartisan office
+    # of the Legislative Assembly that is independent of any other nonpartisan office."
+    # Tier 2 in the review sheet (catchline CONTAINS the name, not merely names it as
+    # subject) — read directly against the text rather than accepted on the tier: subsection
+    # (1) creates a different body (the Joint Committee on Conduct) in the same section, and
+    # subsection (2) is what creates this one.
+    "legislative-equity-office": "ORS 173.900",
+    # #212 — ORS 401.052(1), read and verified 2026-08-30: "The Oregon Department of
+    # Emergency Management is established." [Formerly 401.257; 2021 c.539 §2; 2025 c.229
+    # §1] — the 2021 bracket citation is HB 2927 (Oregon Laws 2021, chapter 539), which spun
+    # the body out of the Oregon Military Department as a standalone department. Read, but
+    # DELIBERATELY NOT ENTERED HERE: the registry carries this body as one row
+    # (`oregon-military-department-office-of-emergency-management`, #212 — two rows for one
+    # body that moved was rejected, not two bodies), and that row's only relation is the
+    # scraped, stale OAR-index placement under the Military Department ORS 401.052 itself
+    # abolished. Recording this citation as that row's `enabling_authority` would derive
+    # `administered_by oregon-military-department` on that relation
+    # (`src/derive_relation_kinds.py`) — a citation-backed claim of exactly the attachment
+    # this statute ends. ADR 0004 has no third kind for a body an index page still places
+    # under a parent statute has removed it from ("whether that is a third relation or an
+    # absence of one is not decided here"), so entering it here would derive a wrong answer
+    # rather than leave a true `undetermined` one. The citation is recorded as verified prose
+    # on the row's own `curator_note` instead, until that gap is closed.
 }
 
 # slug -> why this body has no enabling authority TO RECORD. A DECISION with a stated reason,
@@ -372,6 +485,21 @@ STATUTORY_NAMES: dict[str, str] = {
     # #281, read 2026-08-28 against ORS 571.406, the tier-3 authority above: "the Director of
     # Agriculture shall appoint seven temporary members to the Oregon Hemp Commission."
     "oregon-hemp-commission": "Oregon Hemp Commission",
+
+    # #220's OWN WORKED CASE, read 2026-08-30 against `Or. Const. Art. VI, sec. 1` — the
+    # authority MAPPED already carried — and against the REST of Article VI beside it. Section
+    # 1 creates the office by requiring an election and never once prints the words "Secretary
+    # of State": "There shall be elected ... a Secretary, and Treasurer of State ...". Section
+    # 2, "Duties of Secretary of State", prints them five times: "The Secretary of State shall
+    # keep a fair record ... The Secretary of State shall be by virtue of holding the office,
+    # Auditor of Public Accounts, and shall perform such other duties as shall be assigned to
+    # the Secretary of State by law." Both sections are Article VI; the citation names the one
+    # that CREATES the office (consistent with ADR 0004's own rule that a derived relation
+    # cites the creating section and not the administering one), and the name it creates is
+    # confirmed two sections later in the same article — which is why this gate resolves a
+    # constitutional citation against its whole ARTICLE and not the one cited section alone
+    # (#220's acceptance criterion; `constitution_article_texts()` below).
+    "secretary-of-state": "Secretary of State",
 }
 
 CREATE = re.compile(
@@ -593,7 +721,16 @@ def propose() -> int:
                  "Constitution by --check exactly as an ORS citation is resolved against "
                  "the mirrored statutes, and a wrong article or section fails the build "
                  "with the reason it failed — so recording one is review whose output is "
-                 "verified rather than taken on faith. "
+                 "verified rather than taken on faith. A body this matcher cannot find "
+                 "may also have been created by an UNCODIFIED SESSION LAW rather than by "
+                 "the Constitution — #211's own worked case is the Legislative Fiscal "
+                 "Office (Oregon Laws 1959, chapter 70): its codified range, ORS "
+                 "173.410-173.465, mirrors the office's operation and never once "
+                 "creates it. Since #211 "
+                 "`Oregon Laws 1975, chapter 789` is a recordable form too, but it is "
+                 "CHECKED FOR SHAPE ONLY — this corpus mirrors no session laws, so nothing "
+                 "here can confirm the citation names the right chapter, and getting the "
+                 "session law right is entirely on the human who verifies it. "
                  "Tier 1 means the section's catchline subject IS this body AND the "
                  "section says it is created or established. Tier 2 means the catchline "
                  "merely contains the name, or names it in a later clause. Tier 3 means "
@@ -659,6 +796,14 @@ def resolvable_citations() -> set[str]:
     ever say "absent" — which is precisely the collapse ADR 0005 refuses. So the
     constitutional form is resolved by a function that can answer with a reason, and the
     other two by membership.
+
+    A SESSION LAW IS NOT IN HERE EITHER (#211), and that is a statement about COVERAGE, not
+    about shape: this corpus mirrors no session laws at all, so there is no list — however
+    resolved — for a citation of this form to be looked up in. `audit_table()`'s own
+    per-form dispatch is what keeps this set from ever being asked the question for that
+    form; a set that returned False for every session-law citation would report every one of
+    them as citing a document that does not exist, which is a different (and false) finding
+    from "this corpus does not mirror the kind of document that would confirm it".
     """
     return {c for c, _t, _s, _b, _m in _statute_sections()} | _executive_order_citations()
 
@@ -768,8 +913,8 @@ def reviewed(mapped=None, unmapped=None) -> dict[str, str]:
     return out
 
 
-def audit_table(orgs, mapped, unmapped, citations, why_unresolved) -> list[Problem]:
-    """Everything wrong with the reviewed tables themselves, as Problems.
+def audit_table(orgs, mapped, unmapped, citations, why_unresolved) -> list[Failure]:
+    """Everything wrong with the reviewed tables themselves, as Failures.
 
     Separate from `audit_registry` below because `--apply` must run this one and not that
     one: the registry disagreeing with the table is precisely what --apply is for, while a
@@ -786,10 +931,10 @@ def audit_table(orgs, mapped, unmapped, citations, why_unresolved) -> list[Probl
 
     for slug in sorted(set(mapped) | set(unmapped)):
         if slug not in by_slug:
-            problems.append(Problem("slug-in-registry", slug,
+            problems.append(Failure("slug-in-registry", slug,
                                     "named here but not in the registry"))
     for slug in sorted(set(mapped) & set(unmapped)):
-        problems.append(Problem("not-both-tables", slug,
+        problems.append(Failure("not-both-tables", slug,
                                 "is in BOTH MAPPED and UNMAPPED — a body either has an "
                                 "enabling authority or has a reason it has none, and "
                                 "whichever table a reader consults would be the answer"))
@@ -797,9 +942,9 @@ def audit_table(orgs, mapped, unmapped, citations, why_unresolved) -> list[Probl
     for slug, authority in sorted(mapped.items()):
         form, detail = classify_authority(authority)
         if form is None:
-            problems.append(Problem("authority-form", slug, detail))
+            problems.append(Failure("authority-form", slug, detail))
         elif form == "reviewed-none":
-            problems.append(Problem(
+            problems.append(Failure(
                 "authority-form", slug,
                 f"{authority!r} records that there is no authority, which is UNMAPPED's "
                 "job — MAPPED holds authorities, and a row in the wrong table is a body "
@@ -811,15 +956,27 @@ def audit_table(orgs, mapped, unmapped, citations, why_unresolved) -> list[Probl
             # `constitutional_resolver`. Same rule, same failure, a longer answer.
             why = why_unresolved(authority)
             if why:
-                problems.append(Problem(
+                problems.append(Failure(
                     "authority-resolves", slug,
                     f"cites {authority}, which resolves to no section of the mirrored "
                     f"Oregon Constitution. {why}"))
+        elif form == "session-law":
+            # THE FOURTH FORM DOES NOT RESOLVE, AND SAYS SO (#211). Unlike the three above,
+            # this corpus mirrors no session laws — there is nothing on disk for a citation to
+            # name, so there is nothing membership of `citations` or a resolver could check
+            # existence against. `classify_authority` already confirmed the value is SPELLED
+            # like a session-law citation; that is the whole of what this rule can verify for
+            # this form, and `check()` below reports the count as "form-checked, not
+            # resolved" rather than folding it into the resolved counts beside it — never the
+            # same "verified" a citation this corpus can actually look up earns.
+            pass
         elif authority not in citations:
             # Not "not a mirrored ORS section": an executive order is an authority too
-            # (ADR 0003) and this corpus mirrors 526 of them, so all three forms now resolve
-            # against something mirrored.
-            problems.append(Problem(
+            # (ADR 0003) and this corpus mirrors 526 of them, so ORS and executive-order
+            # citations both resolve against something mirrored — the constitution resolves
+            # above, by its own five-answer resolver, and a session law does not resolve at
+            # all (the branch above this one).
+            problems.append(Failure(
                 "authority-resolves", slug,
                 f"cites {authority}, which no document in this corpus carries. Either the "
                 "citation is wrong or upstream changed — both are worth knowing"))
@@ -827,14 +984,14 @@ def audit_table(orgs, mapped, unmapped, citations, why_unresolved) -> list[Probl
     for slug, reason in sorted(unmapped.items()):
         form, detail = classify_authority(no_authority_value(reason))
         if form != "reviewed-none":
-            problems.append(Problem("unmapped-has-reason", slug, detail))
+            problems.append(Failure("unmapped-has-reason", slug, detail))
         # THE MIRROR IMAGE OF THE RULE ABOVE, and the one this table walked into once: a
         # reason that IS a citation says the body has an authority while filing it as a body
         # that has none. Constitutional offices are how it happens — the field could hold
         # only statutes when this table was written, so `Or. Const. Art. VI, sec. 1` was a
         # reason rather than a value. It is a value now.
         elif classify_authority(str(reason).strip())[0] is not None:
-            problems.append(Problem(
+            problems.append(Failure(
                 "unmapped-is-not-an-authority", slug,
                 f"the reason recorded here IS an authority ({str(reason).strip()!r}) — a "
                 "body with one belongs in MAPPED, and filing it here reports it as a body "
@@ -854,15 +1011,150 @@ def statute_texts() -> dict[str, str]:
     return {cite: f"{title} {body}" for cite, title, _, body, _ in _statute_sections()}
 
 
-def audit_statutory_names(orgs, mapped, names, text_of) -> list[Problem]:
-    """Everything wrong with STATUTORY_NAMES itself, as Problems.
+def eo_texts(root=None) -> dict[str, str]:
+    """{Executive Order citation: its mirrored title and body, as one string} — the
+    executive-order half of #220.
+
+    THE WHOLE ORDER, because an executive order has no narrower or wider unit to check a
+    name against the way an ORS chapter or a constitutional article does: the order IS its
+    own enabling authority, in full. Read from the mirror, never fetched, the same discipline
+    `_executive_order_citations()` keeps for the citations themselves — this is that same
+    directory read a second time, for TEXT rather than for the citation string alone.
+    `root` is the executive-orders directory, parameterised the way
+    `constitution_article_texts`'s already is, so a proof can point this at a directory
+    holding fewer or differently-shaped documents than the committed one without touching
+    disk.
+
+    CONCATENATED WHEN TWO FILES SHARE ONE CITATION, the same way `constitution_article_texts`
+    concatenates two sections of one article, and for the same reason: 526 mirrored orders
+    carry only 523 distinct citations — `Executive Order 03-03` and `08-16` each have a
+    companion `-letter.md` file, and `Executive Order 24-15` has an `-amended.md` one. A
+    last-write-wins dict would silently drop whichever file sorts first, which for `24-15`
+    is the AMENDED text — a name introduced by the amendment would then be checked against
+    the unamended order alone and reported absent from an authority whose full mirrored text
+    was never read. Refuses an empty result for the reason `_executive_order_citations`
+    does: with no orders on disk this would silently make every name-against-text check
+    report "not found" rather than "could not check" (CONTEXT.md)."""
+    parts: dict[str, list[str]] = collections.defaultdict(list)
+    for path in sorted((EXECUTIVE_ORDERS if root is None else root).glob("eo-*.md")):
+        text = path.read_text(errors="replace")
+        fm = text.split("---", 2)[1] if text.startswith("---") else ""
+        title = (re.search(r'(?m)^title:\s*"?([^"\n]+)', fm) or [None, ""])[1].strip()
+        cite = (re.search(r'(?m)^citation:\s*"?([^"\n]+)', fm) or [None, ""])[1].strip()
+        cite = cite.rstrip('"')
+        if not cite:
+            continue
+        body = " ".join(text.split("---", 2)[-1].split())
+        parts[cite].append(f"{title} {body}")
+    if not parts:
+        sys.exit("no mirrored executive orders were found — refusing to report a statutory "
+                 "name checked against executive-order text as unresolvable. Is "
+                 "`executive-orders/` populated?")
+    return {cite: " ".join(chunks) for cite, chunks in parts.items()}
+
+
+def constitution_article_texts(root=None) -> dict[str, str]:
+    """{article slug: the concatenated title and mirrored body of EVERY section in that
+    article} — the constitutional half of #220, and RESOLVED AGAINST THE ARTICLE rather than
+    the one cited section, which is the acceptance criterion this function exists to meet.
+
+    WHY THE ARTICLE AND NOT THE SECTION. An ORS citation names one section and that section's
+    own text is the whole of what it has to say (`statute_texts` reads one section). A
+    constitutional article is not shaped that way: Article VI is split across ten sections by
+    the source page's own layout, and a body it creates can be NAMED in a different section
+    than the one that creates it. Article VI section 1 creates the Secretary of State's
+    office by requiring an election ("a Secretary, and Treasurer of State") and never once
+    prints the words "Secretary of State"; section 2, two sections later in the same article,
+    prints them five times ("Duties of Secretary of State. The Secretary of State shall keep
+    a fair record..."). Checking section 1 alone would refuse a name the SAME enabling
+    authority states — `AUTHORITY_FORMS` still requires the citation to name one section
+    (#170's own form, unchanged by this); this is what TEXT that citation is checked against,
+    not what a row may cite.
+
+    Read from the mirror, never fetched, the same discipline `_statute_sections` keeps.
+    `root` is the constitution directory, parameterised the way
+    `published_constitutional_sections` already is, so a selftest can point this at a
+    directory holding fewer documents than the committed one without touching disk.
+
+    Refuses an empty result for the reason `published_constitutional_sections` does: an
+    empty `by_slug` here would make every constitutional statutory-name check silently read
+    as "the article does not print that name" rather than "there was no article to check
+    against" — an answer about Oregon law drawn from a directory that was never read."""
+    from repo_lib import ORCONST_ID_RE
+    by_slug: dict[str, list[str]] = collections.defaultdict(list)
+    for path in sorted((CONSTITUTION if root is None else root).glob("orconst-art-*-sec-*.md")):
+        m = ORCONST_ID_RE.match(path.stem)
+        if not m:
+            continue
+        text = path.read_text(errors="replace")
+        fm = text.split("---", 2)[1] if text.startswith("---") else ""
+        title = (re.search(r'(?m)^title:\s*"?([^"\n]+)', fm) or [None, ""])[1].strip()
+        body = " ".join(text.split("---", 2)[-1].split())
+        by_slug[m.group(1)].append(f"{title} {body}")
+    if not by_slug:
+        sys.exit("no mirrored constitutional sections were found — refusing to report a "
+                 "statutory name checked against constitutional text as unresolvable. Is "
+                 "`constitution/` populated?")
+    return {slug: " ".join(parts) for slug, parts in by_slug.items()}
+
+
+def constitution_name_lookup(article_texts=None):
+    """Build the function that answers, for one constitutional `enabling_authority` value,
+    the text its recorded statutory name is checked against — `constitution_article_texts()`
+    read back through the citation's own article, the way `statute_texts().get` answers the
+    same question for one ORS section.
+
+    A CLOSURE, NOT A DICT, unlike `statute_texts`/`eo_texts`: those two are keyed by the exact
+    citation MAPPED holds, one document per citation. This one is keyed by ARTICLE, and more
+    than one section citation can name the same article (Article VI section 1 and section 2
+    both resolve to the SAME combined text) — parsing the citation on lookup is what lets a
+    single `article_texts` dict serve every section citation of an article rather than
+    duplicating the combined text once per section it could have named."""
+    from citation_schemes import OR_CONST_C
+    from repo_lib import orconst_article_slug
+    article_texts = constitution_article_texts() if article_texts is None else article_texts
+
+    def lookup(authority: str):
+        m = OR_CONST_C.search(authority)
+        if not m:
+            return None
+        try:
+            slug = orconst_article_slug(m.group(1))
+        except ValueError:
+            return None
+        return article_texts.get(slug)
+
+    return lookup
+
+
+def name_text_lookups(ors_texts=None, eo=None, constitution=None) -> dict:
+    """{form: the function `audit_statutory_names` calls to get the text a recorded name of
+    that form is checked against} — the single place the three RESOLVABLE forms' text
+    lookups are assembled, for `check()` and `cmd_apply()` to build once and pass down rather
+    than each re-deriving its own answer to "what may a name be checked against".
+
+    ONLY THE THREE FORMS THIS CORPUS MIRRORS ARE HERE (#220). A session law (#211) is not,
+    deliberately: `audit_statutory_names` reads a form's ABSENCE from this mapping as "this
+    gate cannot read the text of this form" and reports it as such — so adding a form here
+    is a claim that this corpus holds something to check a name against, and a session law is
+    exactly the form that claim is false for."""
+    ors_texts = statute_texts() if ors_texts is None else ors_texts
+    eo = eo_texts() if eo is None else eo
+    constitution_lookup = (constitution_name_lookup() if constitution is None
+                           else constitution_name_lookup(constitution))
+    return {"ors": ors_texts.get, "executive-order": eo.get, "constitution": constitution_lookup}
+
+
+def audit_statutory_names(orgs, mapped, names, text_lookups) -> list[Failure]:
+    """Everything wrong with STATUTORY_NAMES itself, as Failures.
 
     ITS OWN FUNCTION RATHER THAN A BLOCK INSIDE `audit_table`, because it needs a different
     thing from the corpus: `audit_table` asks whether a citation names a mirrored document,
-    and this asks what that document SAYS. `text_of` is the mirrored text by citation and has
-    NO DEFAULT, for the reason `why_unresolved` has none — a default would let a caller check
-    the table's shape and take the names on faith, which would look exactly like a clean run
-    and is the state this table exists to leave.
+    and this asks what that document SAYS. `text_lookups` is `{form: text-of-authority
+    function}` (`name_text_lookups()`) and has NO DEFAULT, for the reason `why_unresolved`
+    has none — a default would let a caller check the table's shape and take the names on
+    faith, which would look exactly like a clean run and is the state this table exists to
+    leave.
 
     A NAME NEEDS AN AUTHORITY, AND THE AUTHORITY HAS TO SAY IT. Those are the two rules, and
     they are separate: the first is a claim about this repository's own tables (a body whose
@@ -871,6 +1163,12 @@ def audit_statutory_names(orgs, mapped, names, text_of) -> list[Problem]:
     check states the first over the committed rows too (`statutory-name-basis` in
     catalog_agencies.py) — same rule, two populations, and neither covers the other: a name
     can be wrong in the table before it is ever written, and a row can be hand-edited after.
+
+    THREE FORMS RESOLVE AND ONE DOES NOT (#211/#220), and `text_lookups` is what tells them
+    apart: a form present as a key is checked against real text — ORS, an executive order, or
+    (since #220) a constitutional article read WHOLE, not just the cited section — and a form
+    absent from it (a session law, until this corpus mirrors one) is reported as unchecked
+    rather than passed over, because "could not check" is never reported as "is correct".
     """
     by_slug = {o["slug"] for o in orgs if isinstance(o, dict) and o.get("slug")}
     problems = []
@@ -879,11 +1177,11 @@ def audit_statutory_names(orgs, mapped, names, text_of) -> list[Problem]:
             # REPORTED AND NOT EVALUATED FURTHER. There is no row for the rules below to be
             # about, and stacking "and its authority is wrong" onto a body this registry does
             # not carry would report two faults where there is one.
-            problems.append(Problem("statutory-name-slug-in-registry", slug,
+            problems.append(Failure("statutory-name-slug-in-registry", slug,
                                     "named here but not in the registry"))
             continue
         if not isinstance(name, str) or not name.strip() or name != name.strip():
-            problems.append(Problem(
+            problems.append(Failure(
                 "statutory-name-is-a-name", slug,
                 f"{name!r} is not a name — a blank, a null or a string with stray "
                 "whitespace becomes the value three sibling corpora read as what Oregon "
@@ -891,7 +1189,7 @@ def audit_statutory_names(orgs, mapped, names, text_of) -> list[Problem]:
             continue
         authority = mapped.get(slug)
         if authority is None:
-            problems.append(Problem(
+            problems.append(Failure(
                 "statutory-name-has-an-authority", slug,
                 f"records the statutory name {name!r} and MAPPED records no enabling "
                 "authority for this body — the statutory name is the name a body's "
@@ -899,33 +1197,35 @@ def audit_statutory_names(orgs, mapped, names, text_of) -> list[Problem]:
                 "could have been read off"))
             continue
         form = classify_authority(authority)[0]
-        if form != "ors":
-            # ALLOWLIST, NOT BLOCKLIST, as everywhere in this file. A constitutional article
-            # and an executive order are both enabling authorities (ADR 0003) and both are
-            # mirrored by this corpus, but neither is reachable by citation as TEXT here yet
-            # — and a form this gate cannot read is a name nobody checked, which must not be
-            # the same state as a name that passed. No row is in it today; the day one is,
-            # this is the line that says what has to be built.
-            problems.append(Problem(
+        text_of = text_lookups.get(form)
+        if text_of is None:
+            # ALLOWLIST, NOT BLOCKLIST, as everywhere in this file. A form this corpus does
+            # not mirror (a session law, #211) — or does not yet have a lookup wired in for —
+            # is a name nobody checked, which must not be the same state as a name that
+            # passed. Before #220 this branch caught the constitution and executive-order
+            # forms too, both mirrored and neither reachable as TEXT by citation here; now it
+            # catches exactly the one form the acceptance criterion says must STAY here.
+            problems.append(Failure(
                 "statutory-name-in-the-cited-text", slug,
                 f"cites {authority}, whose form ({form}) this gate cannot read the text of "
                 "— so the recorded name could not be checked against it. That is 'could "
                 "not check', not 'is correct'"))
         elif (text := text_of(authority)) is None:
             # THE THIRD LEG, AND THE ONE THAT LOOKS LIKE THE SECOND. A citation naming no
-            # mirrored section has no text, and comparing a name against nothing would report
-            # "the statute does not print that name" — an answer about Oregon law drawn from
-            # a file this corpus does not hold. "Could not check" is never reported as "is
-            # not there" (CONTEXT.md). `authority-resolves` in audit_table() is what says the
-            # citation itself resolves to nothing; this says what that cost THIS rule, so a
-            # reviewer is not left to infer that the name was checked and failed.
-            problems.append(Problem(
+            # mirrored document has no text, and comparing a name against nothing would
+            # report "the authority does not print that name" — an answer about Oregon law
+            # drawn from a file this corpus does not hold. "Could not check" is never
+            # reported as "is not there" (CONTEXT.md). `authority-resolves` in audit_table()
+            # is what says the citation itself resolves to nothing; this says what that cost
+            # THIS rule, so a reviewer is not left to infer that the name was checked and
+            # failed.
+            problems.append(Failure(
                 "statutory-name-in-the-cited-text", slug,
-                f"records the statutory name {name!r} and cites {authority}, which no "
-                "mirrored ORS section carries — so there was no text to check the name "
-                "against. That is 'could not check', not 'the statute does not print it'"))
+                f"records the statutory name {name!r} and cites {authority}, whose text "
+                f"this corpus does not mirror — so there was no text to check the name "
+                "against. That is 'could not check', not 'the authority does not print it'"))
         elif name not in text:
-            problems.append(Problem(
+            problems.append(Failure(
                 "statutory-name-in-the-cited-text", slug,
                 f"records the statutory name {name!r}, which does not appear anywhere in "
                 f"the mirrored text of {authority} — the authority this registry says "
@@ -933,7 +1233,7 @@ def audit_statutory_names(orgs, mapped, names, text_of) -> list[Problem]:
     return problems
 
 
-def audit_registry(orgs, mapped=None, unmapped=None, names=None) -> list[Problem]:
+def audit_registry(orgs, mapped=None, unmapped=None, names=None) -> list[Failure]:
     """Every way the registry and the reviewed tables disagree, in BOTH directions.
 
     THIS FILE IS THE FIELD'S SINGLE WRITER, so the second direction is the one that matters:
@@ -953,12 +1253,12 @@ def audit_registry(orgs, mapped=None, unmapped=None, names=None) -> list[Problem
             continue                      # `slug-in-registry` above already reported it
         got = by_slug[slug].get("enabling_authority")
         if got != value:
-            problems.append(Problem("registry-agrees", slug,
+            problems.append(Failure("registry-agrees", slug,
                                     f"registry has {got!r}, this table says {value!r} — "
                                     "run --apply"))
     for slug, o in sorted(by_slug.items()):
         if "enabling_authority" in o and slug not in want:
-            problems.append(Problem(
+            problems.append(Failure(
                 "registry-agrees", slug,
                 f"registry carries enabling_authority {o['enabling_authority']!r} and this "
                 "table does not. This file is the field's single writer: either the row was "
@@ -981,14 +1281,14 @@ def audit_registry(orgs, mapped=None, unmapped=None, names=None) -> list[Problem
         if o is None:
             continue                      # `statutory-name-slug-in-registry` reported it
         if o.get("name") != name or o.get(NAME_BASIS_KEY) != ENABLING_AUTHORITY_NAME:
-            problems.append(Problem(
+            problems.append(Failure(
                 "statutory-name-agrees", slug,
                 f"registry has name {o.get('name')!r} on basis "
                 f"{o.get(NAME_BASIS_KEY)!r}, this table says {name!r} was read off the "
                 "body's enabling authority — run --apply"))
     for slug, o in sorted(by_slug.items()):
         if o.get(NAME_BASIS_KEY) == ENABLING_AUTHORITY_NAME and slug not in names:
-            problems.append(Problem(
+            problems.append(Failure(
                 "statutory-name-agrees", slug,
                 f"registry records name {o.get('name')!r} as the statutory name and this "
                 "table does not name the body at all. This file is the only thing that "
@@ -1047,10 +1347,9 @@ def cmd_apply() -> int:
     """Write MAPPED/UNMAPPED into the registry. The only writer of `enabling_authority`."""
     cat = yaml.safe_load(CATALOG.read_text())
     orgs = cat["organizations"]
-    texts = statute_texts()
     problems = (audit_table(orgs, MAPPED, UNMAPPED, resolvable_citations(),
                             constitutional_resolver(published_constitutional_sections()))
-                + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, texts.get))
+                + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, name_text_lookups()))
     if problems:
         print("refusing to write: the reviewed tables do not match the corpus",
               file=sys.stderr)
@@ -1078,39 +1377,57 @@ def check() -> int:
     # READ ONCE, and reported from the same read. The count in the report below is the
     # population the rule above resolved against, not a second scan that could differ.
     published = published_constitutional_sections()
+    # READ ONCE TOO, for the same reason: `checked`/`could_not_check` below reports which
+    # forms THIS read could resolve a name against, not a second read that could disagree.
+    text_lookups = name_text_lookups()
     problems = (audit_table(orgs, MAPPED, UNMAPPED, citations,
                             constitutional_resolver(published))
-                + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, statute_texts().get)
+                + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, text_lookups)
                 + audit_registry(orgs, MAPPED, UNMAPPED))
     if problems:
         print("the reviewed tables do not match the corpus:", file=sys.stderr)
         _report(problems)
         return 1
 
-    # ONE COUNT NOW, and the second line is what it replaced. There used to be a "form
-    # checked, not resolved" line here, holding the constitutional authorities apart because
-    # nothing could resolve them: ADR 0003 makes an enabling authority ADMITTING evidence,
-    # and folding an unverified claim into a "verified" count would have reported a body as
-    # admitted on evidence nobody had checked. Since #196 every form ADR 0003 admits resolves
-    # against a mirrored document, so the class that line described is empty — not small, and
-    # not quietly folded in. The line that follows says what a constitutional citation is
-    # resolved against, because a reader who remembers the old one needs to know which
-    # happened.
+    # THREE FORMS RESOLVE, ONE DOES NOT, AND THE COUNTS SAY WHICH IS WHICH — never collapsed
+    # into one "verified" figure (#211/#220). There used to be a permanent "form checked, not
+    # resolved" line here, for the constitutional authorities, because nothing could resolve
+    # them; since #196 the constitution resolves too, so that line retired — and #211 gives
+    # it a real successor rather than leaving the retirement permanent: a session-law
+    # authority is admitting evidence ADR 0003 accepts and this corpus cannot look up, so it
+    # is counted on its own line, not folded into "resolved against the mirror" beside it.
     forms = collections.Counter(classify_authority(a)[0] for a in MAPPED.values())
     print(f"enabling-authority table is consistent with the corpus: "
           f"{authority_census(orgs)}.")
-    print(f"  resolved against the mirror : {forms['ors']} ORS, "
+    print(f"  resolved against the mirror  : {forms['ors']} ORS, "
           f"{forms['executive-order']} executive order(s), "
           f"{forms['constitution']} constitutional")
-    print(f"  nothing is form-checked and left unresolved: a constitutional authority is "
-          f"resolved against the {len(published)} mirrored sections of the Oregon "
-          f"Constitution (#196), the same way an ORS citation is.")
+    print(f"  form-checked, not resolved   : {forms['session-law']} session law(s) — this "
+          f"corpus mirrors no session laws, so these are verified for SHAPE only "
+          "(CONTEXT.md: 'could not check' is never reported as 'is correct')")
+    print(f"  resolved against the {len(published)} mirrored sections of the Oregon "
+          "Constitution (#196), the same way an ORS citation is; a constitutional statutory "
+          "name is checked against its WHOLE article, not the one cited section (#220)")
     # THE NAMES, COUNTED SEPARATELY FROM THE AUTHORITIES, because carrying an authority is
     # not the same as having read a name off it (#168): 107 rows could have their statutory
     # name established and a much smaller number has. Reporting the two as one number would
     # present the population that COULD be reviewed as the one that HAS been.
+    #
+    # AND, SEPARATELY, HOW MANY OF THOSE COULD BE CHECKED AGAINST TEXT (#220's acceptance
+    # criterion 4: "The report states how many names were checked and how many could not
+    # be"). A name is only ever admitted to STATUTORY_NAMES once `audit_statutory_names` has
+    # passed it — so on a green run every one here was in fact checked against mirrored text,
+    # and `could_not_check` is structurally zero today; it stops being zero the day a name is
+    # recorded for a form `name_text_lookups` cannot read (a session law, #211), which is
+    # exactly the case this line exists to make visible rather than silently implied.
+    checkable_forms = frozenset(text_lookups.keys())
+    name_forms = collections.Counter(
+        classify_authority(MAPPED[slug])[0] for slug in STATUTORY_NAMES if slug in MAPPED)
+    checked = sum(v for form, v in name_forms.items() if form in checkable_forms)
+    could_not_check = len(STATUTORY_NAMES) - checked
     print(f"statutory names read off those authorities: {len(STATUTORY_NAMES)} of "
-          f"{len(MAPPED)} reviewed authorities; registry: {name_census(orgs)}")
+          f"{len(MAPPED)} reviewed authorities ({checked} checked against mirrored text, "
+          f"{could_not_check} could not be); registry: {name_census(orgs)}")
     return 0
 
 
@@ -1142,7 +1459,13 @@ def _fixture():
     """
     mapped = {"board-of-imaginary-affairs": "ORS 999.999",
               "office-of-imagined-orders": "Executive Order 99-99",
-              "imaginary-constitutional-office": "Or. Const. Art. XVII, sec. 1"}
+              "imaginary-constitutional-office": "Or. Const. Art. XVII, sec. 1",
+              # THE FOURTH FORM (#211). Session laws are not resolved against anything, so
+              # this citation does not need to be well-formed-but-fake the way the other
+              # three do to avoid being mistaken for a reviewed row — it only needs to be
+              # SPELLED like one, and no session law of Oregon 1899 created anything, because
+              # Oregon did not hold a 1899 regular session under this numbering.
+              "legislative-imaginary-office": "Oregon Laws 1899, chapter 999"}
     unmapped = {"imaginary-affairs-inspection-division":
                 "Part of the Board of Imaginary Affairs; nothing separately constitutes "
                 "it (ADR 0004), so there is no enabling authority to record."}
@@ -1156,34 +1479,59 @@ def _fixture():
     # as a violation would make the honest default impossible to hold.
     orgs.append({"slug": "board-nobody-has-reviewed", "name": "Board Nobody Has Reviewed"})
     # THE STATUTORY NAME, READ OFF ONE OF THOSE AUTHORITIES (#168), and the mirrored text it
-    # was read off. One body of the four, deliberately: the other three carry their OAR title
-    # under `unverified-oar-title`, which is the state 185 of the 189 committed rows are in
-    # and the one a fixture holding only reviewed rows would make impossible to hold.
+    # was read off — for one body of each RESOLVABLE form (#220 widens this fixture from one
+    # body to three, matching the widened gate: ORS, executive order and constitution each
+    # get a name that is genuinely present in their synthetic text, so the base fixture
+    # proves the TRUE POSITIVE for every resolvable form on every single case run via the
+    # "fixture passes cleanly" assertion below, not only in a dedicated case). The rest carry
+    # their OAR title under `unverified-oar-title`, which is the state 185 of the 189
+    # committed rows are in and the one a fixture holding only reviewed rows would make
+    # impossible to hold. `legislative-imaginary-office` (session law) is deliberately NOT
+    # among them: #211's form does not resolve, so there is no text a name could be checked
+    # against, and giving it one here would test a mechanism this form does not have.
     #
-    # THE TEXT IS SYNTHETIC AND THE CITATION IS IMPOSSIBLE, for the reason every other value
-    # here is: this proves the gate reads the cited section and refuses a name it does not
-    # print, and a real ORS section quoted here would read as a verdict on what it names.
-    names = {"board-of-imaginary-affairs": "Board of Imaginary Affairs"}
+    # THE TEXT IS SYNTHETIC AND THE CITATIONS ARE IMPOSSIBLE, for the reason every other
+    # value here is: this proves the gate reads the cited text and refuses a name it does not
+    # print, and real mirrored text quoted here would read as a verdict on what it names.
+    names = {"board-of-imaginary-affairs": "Board of Imaginary Affairs",
+             "office-of-imagined-orders": "Office of Imagined Orders",
+             "imaginary-constitutional-office": "Board of Imaginary Amendments"}
     texts = {"ORS 999.999": "Board of Imaginary Affairs; appointment. There is established "
                             "the Board of Imaginary Affairs."}
+    eo_texts_ = {"Executive Order 99-99": "Office of Imagined Orders; established. There is "
+                                          "established the Office of Imagined Orders."}
+    # KEYED BY ARTICLE SLUG, not by citation — `constitution_name_lookup()` parses the
+    # citation and looks up its ARTICLE, so one entry here serves any section citation of
+    # Article XVII (#220's own acceptance criterion: resolved against the article, not the
+    # one cited section). "xvii" is `orconst_article_slug("XVII")`.
+    const_texts = {"xvii": "Board of Imaginary Amendments; established. There is "
+                          "established the Board of Imaginary Amendments."}
     for o in orgs:
         if o["slug"] in names:
             o["name"] = names[o["slug"]]
             o[NAME_BASIS_KEY] = ENABLING_AUTHORITY_NAME
         else:
             o[NAME_BASIS_KEY] = UNVERIFIED_OAR_TITLE
-    # THE CONSTITUTIONAL HALF IS RESOLVED AGAINST THE REAL MIRROR, and the ORS and
-    # executive-order halves against a set of two made-up strings. That asymmetry is a
-    # decision. A synthetic `citations` set keeps these proofs off a 37,465-file scan and
-    # costs nothing, because membership of a set is the whole of what the rule does. The
+    # THE CONSTITUTIONAL CITATION'S OWN RESOLUTION (does `Or. Const. Art. XVII, sec. 1` name
+    # a mirrored section at all) IS STILL CHECKED AGAINST THE REAL MIRROR, and the ORS and
+    # executive-order citations still against made-up strings. That asymmetry is a decision.
+    # A synthetic `citations` set keeps those two proofs off a 37,465-file scan and costs
+    # nothing, because membership of a set is the whole of what the rule does. The
     # constitutional rule is not a membership test — it is the resolver in
     # `citation_schemes`, reading the committed catalog — and a synthetic stand-in for it
-    # would be a second implementation of the thing under proof, which is how a proof
-    # starts passing for the wrong reason. Still no network and still no read of the
-    # committed registry; what it reads is one catalog and the 339 committed section
-    # documents.
+    # would be a second implementation of the thing under proof, which is how a proof starts
+    # passing for the wrong reason. Still no network and still no read of the committed
+    # registry; what it reads is one catalog and the 339 committed section documents.
+    #
+    # THE NAME-TEXT LOOKUPS ARE SYNTHETIC FOR ALL THREE FORMS, including the constitutional
+    # one, unlike the resolution above — `name_text_lookups()` composes them from plain
+    # {key: text} dicts (`texts`, `eo_texts_`, `const_texts`), and reading a name off text
+    # already fetched is not the resolver `constitutional_resolver` is; a synthetic stand-in
+    # for THIS half is not a second implementation of anything under proof.
     return {"mapped": mapped, "unmapped": unmapped, "orgs": orgs, "names": names,
-            "texts": texts,
+            "texts": texts, "eo_texts": eo_texts_, "const_texts": const_texts,
+            "text_lookups": name_text_lookups(ors_texts=texts, eo=eo_texts_,
+                                              constitution=const_texts),
             "citations": {"ORS 999.999", "Executive Order 99-99"},
             "why_unresolved": constitutional_resolver(published_constitutional_sections())}
 
@@ -1211,10 +1559,10 @@ def _set_name(f, slug, name):
             o[NAME_BASIS_KEY] = ENABLING_AUTHORITY_NAME
 
 
-def _audit(f) -> list[Problem]:
+def _audit(f) -> list[Failure]:
     return (audit_table(f["orgs"], f["mapped"], f["unmapped"], f["citations"],
                         f["why_unresolved"])
-            + audit_statutory_names(f["orgs"], f["mapped"], f["names"], f["texts"].get)
+            + audit_statutory_names(f["orgs"], f["mapped"], f["names"], f["text_lookups"])
             + audit_registry(f["orgs"], f["mapped"], f["unmapped"], f["names"]))
 
 
@@ -1242,6 +1590,16 @@ def _case_executive_order_that_resolves_to_nothing(f):
     mirrored — 526 of them — so taking an EO citation on faith would be a choice, not a
     limitation like the unmirrored constitution."""
     _set(f, "office-of-imagined-orders", "Executive Order 98-98")
+
+
+def _case_session_law_malformed(f):
+    """A session-law citation one punctuation mark from the accepted spelling (#211) —
+    `catalog_agencies._proof_session_law_form_boundary` proves the same boundary at the
+    `classify_authority` level directly, over nine near misses; this proves this file's OWN
+    table-audit rule fires on one of them too, the same way `authority-that-cites-nothing`
+    above proves `enabling-authority-that-is-not-an-authority` does in
+    `catalog_agencies.py`."""
+    _set(f, "legislative-imaginary-office", "Oregon Laws 1899, Chapter 999")
 
 
 def _case_constitutional_section_the_page_does_not_print(f):
@@ -1326,14 +1684,32 @@ def _case_statutory_name_the_cited_section_does_not_print(f):
     _set_name(f, "board-of-imaginary-affairs", "Bureau of Imaginary Affairs")
 
 
+def _case_statutory_name_the_executive_order_does_not_print(f):
+    """The same failure, on the executive-order form (#220). Before #220 this form could not
+    be checked at all; now it is checked exactly as the ORS form is, and a name the mirrored
+    order does not print must be refused the same way — a passing base fixture that never
+    exercised a WRONG executive-order name would prove the form is read, not that it is
+    read CORRECTLY."""
+    _set_name(f, "office-of-imagined-orders", "Bureau of Imagined Orders")
+
+
+def _case_statutory_name_the_constitution_does_not_print(f):
+    """The same failure, on the constitutional form (#220), resolved against the WHOLE
+    article this fixture's synthetic text stands in for. Before #220 this form could not be
+    checked at all — see `_case_statutory_name_on_an_authority_this_gate_cannot_read`'s
+    history, now told about a form this corpus genuinely cannot check instead."""
+    _set_name(f, "imaginary-constitutional-office", "Board of Imaginary Repeals")
+
+
 def _case_statutory_name_on_an_authority_this_gate_cannot_read(f):
-    """A name recorded against an authority whose text this gate cannot reach. An executive
-    order and a constitutional article are both enabling authorities (ADR 0003) and both are
-    mirrored here, but neither is reachable as TEXT by citation in this file yet — so a name
-    recorded against one is a name nobody checked. It is REPORTED as unchecked rather than
-    passed over, because "could not check" is never reported as "is not there"
-    (CONTEXT.md)."""
-    _set(f, "board-of-imaginary-affairs", "Executive Order 99-99")
+    """A name recorded against an authority whose text this gate cannot reach. A session law
+    is an enabling authority (ADR 0003, #211) and this corpus mirrors none — unlike the
+    executive order and the constitutional article beside it, BOTH resolvable and BOTH
+    text-checkable since #220 — so a name recorded against one is a name nobody checked. It
+    is REPORTED as unchecked rather than passed over, because "could not check" is never
+    reported as "is not there" (CONTEXT.md). This is the third form in that state; it used to
+    be the executive order, until #220 closed that gap."""
+    _set(f, "board-of-imaginary-affairs", "Oregon Laws 1899, chapter 1")
 
 
 def _case_statutory_name_cited_to_a_section_the_mirror_does_not_hold(f):
@@ -1432,6 +1808,7 @@ _CASES = [
      "authority-resolves"),
     ("executive-order-that-resolves-to-nothing",
      _case_executive_order_that_resolves_to_nothing, "authority-resolves"),
+    ("session-law-malformed", _case_session_law_malformed, "authority-form"),
     ("constitutional-section-the-page-does-not-print",
      _case_constitutional_section_the_page_does_not_print, "authority-resolves"),
     ("constitutional-article-the-page-does-not-print",
@@ -1460,6 +1837,12 @@ _CASES = [
      "statutory-name-has-an-authority"),
     ("statutory-name-the-cited-section-does-not-print",
      _case_statutory_name_the_cited_section_does_not_print,
+     "statutory-name-in-the-cited-text"),
+    ("statutory-name-the-executive-order-does-not-print",
+     _case_statutory_name_the_executive_order_does_not_print,
+     "statutory-name-in-the-cited-text"),
+    ("statutory-name-the-constitution-does-not-print",
+     _case_statutory_name_the_constitution_does_not_print,
      "statutory-name-in-the-cited-text"),
     ("statutory-name-on-an-authority-this-gate-cannot-read",
      _case_statutory_name_on_an_authority_this_gate_cannot_read,
@@ -1518,7 +1901,11 @@ _KINDS_OF_NOTHING = [
 _STATUTORY_NAME_ANSWERS = [
     ("ORS 999.999", "does not appear anywhere in the mirrored text", "could not check"),
     ("ORS 999.997", "could not check", "does not appear anywhere"),
-    ("Executive Order 99-99", "cannot read the text of", "does not appear anywhere"),
+    # THE THIRD ROW MOVED FROM AN EXECUTIVE-ORDER CITATION TO A SESSION-LAW ONE (#211/#220).
+    # Before #220 an executive order sat here as the exemplar of "a form this gate cannot
+    # read the text of"; #220 closes that gap, so the exemplar moves to the one form #211
+    # opened that is STILL in that state by design — this corpus mirrors no session laws.
+    ("Oregon Laws 1899, chapter 1", "cannot read the text of", "does not appear anywhere"),
 ]
 
 
@@ -1544,7 +1931,7 @@ def _proof_the_ways_a_name_goes_unchecked_are_told_apart() -> int:
             if o["slug"] == "board-of-imaginary-affairs":
                 o["name"] = f["names"]["board-of-imaginary-affairs"]
         got = [p for p in audit_statutory_names(f["orgs"], f["mapped"], f["names"],
-                                                f["texts"].get)
+                                                f["text_lookups"])
                if p.rule == "statutory-name-in-the-cited-text"]
         if len(got) != 1:
             print(f"FAIL statutory-name-answer for {authority}: expected one answer, got "
@@ -1690,12 +2077,98 @@ def _proof_apply_writes_the_same_bytes_twice() -> int:
     return 0
 
 
+def _proof_article_texts_actually_concatenate() -> int:
+    """`constitution_article_texts()` ITSELF, called for real — not the synthetic
+    `const_texts` dict `_fixture()` substitutes for it everywhere else in this file's
+    selftest. That substitution is deliberate (see `_fixture`'s own comment: the concatenation
+    is what is under proof, and a synthetic stand-in for it would be a second implementation
+    of the thing being tested), but it means nothing here previously called the real function
+    at all — the acceptance criterion it exists to meet (#220: resolved against the WHOLE
+    article, not the one cited section) was covered only by `--check` against the one
+    committed row that happens to exercise it. This proof builds a two-section article in a
+    temp directory — the shape the docstring says `root` was added for — and checks that a
+    name printed only in the second section is found when the citation names the first."""
+    with tempfile.TemporaryDirectory() as tmp:
+        root = pathlib.Path(tmp)
+        (root / "orconst-art-xix-sec-1.md").write_text(
+            "---\ntitle: \"Creation of the Imaginary Council\"\n---\n"
+            "There is created the Imaginary Council of Oregon.\n")
+        (root / "orconst-art-xix-sec-2.md").write_text(
+            "---\ntitle: \"Duties\"\n---\n"
+            "The Board of Imaginary Amendments Overseers shall advise the Council.\n")
+        texts = constitution_article_texts(root=root)
+    if "xix" not in texts:
+        print("FAIL article-texts-actually-concatenate: no 'xix' key in "
+              f"{sorted(texts)!r}", file=sys.stderr)
+        return 1
+    if "Imaginary Council" not in texts["xix"] or "Overseers" not in texts["xix"]:
+        print("FAIL article-texts-actually-concatenate: section 1's citation must resolve "
+              f"to BOTH sections' text; got {texts['xix']!r}", file=sys.stderr)
+        return 1
+    return 0
+
+
+def _proof_eo_texts_concatenate_on_collision() -> int:
+    """`eo_texts()`, called for real against the committed mirror: 526 files carry only 523
+    distinct citations (`Executive Order 03-03`, `08-16` and `24-15` each have a companion
+    file), and a dict built by last-write-wins would silently drop one text per collision —
+    for `24-15`, the AMENDED one, because `eo-24-15-amended.md` sorts before `eo-24-15.md`.
+    Proves the fix reads as text from BOTH files, not the sort order's winner alone."""
+    texts = eo_texts()
+    combined = texts.get("Executive Order 24-15", "")
+    amended_only = pathlib.Path(
+        EXECUTIVE_ORDERS, "eo-24-15-amended.md").read_text(errors="replace")
+    base_only = pathlib.Path(EXECUTIVE_ORDERS, "eo-24-15.md").read_text(errors="replace")
+    # A marker string unlikely to appear in the other file: the last dozen non-whitespace
+    # characters of each file's body, past its front matter.
+    amended_tail = " ".join(amended_only.split("---", 2)[-1].split())[-40:]
+    base_tail = " ".join(base_only.split("---", 2)[-1].split())[-40:]
+    if amended_tail not in combined or base_tail not in combined:
+        print("FAIL eo-texts-concatenate-on-collision: 'Executive Order 24-15' must read "
+              "as the text of BOTH eo-24-15.md and eo-24-15-amended.md, not the winner of "
+              "a last-write-wins collision", file=sys.stderr)
+        return 1
+    return 0
+
+
+def _proof_text_lookups_refuse_an_empty_mirror() -> int:
+    """The refuse-on-empty guard `eo_texts()` and `constitution_article_texts()` each carry,
+    proved directly rather than left to depend on `check()`/`cmd_apply()` always calling a
+    guarded citation-set function first — which is ALL that protected them before this proof
+    existed: nothing stopped a future caller from asking either for text against an empty
+    mirror and quietly getting `{}`, which would make every name-against-text check read as
+    "the authority does not print that name" instead of "there was nothing to check"
+    (CONTEXT.md), the same failure `_proof_an_unreadable_mirror_is_not_an_absent_one` proves
+    against for the constitution's CITATION half."""
+    bad = 0
+    with tempfile.TemporaryDirectory() as empty:
+        for label, fn in (("eo_texts", lambda: eo_texts(root=pathlib.Path(empty))),
+                          ("constitution_article_texts",
+                           lambda: constitution_article_texts(root=pathlib.Path(empty)))):
+            try:
+                fn()
+            except SystemExit as exit_:
+                if "refusing" not in str(exit_):
+                    print(f"FAIL text-lookups-refuse-an-empty-mirror ({label}): exited with "
+                          f"{exit_!s}", file=sys.stderr)
+                    bad += 1
+                continue
+            print(f"FAIL text-lookups-refuse-an-empty-mirror ({label}): an empty directory "
+                  "was read as a mirror, so every name checked against this form would "
+                  "read as absent from text that was never there", file=sys.stderr)
+            bad += 1
+    return 1 if bad else 0
+
+
 _PROOFS = [_proof_apply_writes_the_same_bytes_twice,
            _proof_the_kinds_of_nothing_are_told_apart,
            _proof_the_ways_a_name_goes_unchecked_are_told_apart,
            _proof_an_unreadable_mirror_is_not_an_absent_one,
            _proof_a_catalogued_section_with_no_document_is_not_resolved,
-           _proof_a_citation_the_scheme_refuses_is_not_called_resolved]
+           _proof_a_citation_the_scheme_refuses_is_not_called_resolved,
+           _proof_article_texts_actually_concatenate,
+           _proof_eo_texts_concatenate_on_collision,
+           _proof_text_lookups_refuse_an_empty_mirror]
 
 
 def selftest() -> int:
@@ -1709,7 +2182,24 @@ def selftest() -> int:
             print(f"FAIL {name}: expected a [{rule}] problem, got {problems}",
                   file=sys.stderr)
             bad += 1
-    print(f"{len(_CASES) + len(_PROOFS)} violation(s) demonstrated failing"
+    # THE DECLARATION, GATED FROM BOTH SIDES (check_rule_ledger.py, adopted here by
+    # #211/#220 — matching `catalog_agencies.py`'s own `_LEDGER.gaps()` call). A rule can go
+    # undetected by being DECLARED WITH NO PROOF (did it fire during this run) or by being
+    # EMITTED WITH NO DECLARATION (does the AST agree with CHECK_RULES); this module carried
+    # neither direction before this ticket, the same state #320 found in `catalog_agencies`.
+    gaps = _LEDGER.gaps()
+    if gaps.emitted_but_undeclared or gaps.unemitted_but_declared:
+        print("FAIL every-rule-this-module-can-report-is-declared: "
+              f"emitted-not-declared={sorted(gaps.emitted_but_undeclared)} "
+              f"declared-not-emitted={sorted(gaps.unemitted_but_declared)}", file=sys.stderr)
+        bad += 1
+    if gaps.unfired:
+        print(f"FAIL every-declared-rule-was-watched-firing: unfired={sorted(gaps.unfired)}",
+              file=sys.stderr)
+        bad += 1
+    print(f"{len(_CASES) + len(_PROOFS)} violation(s) demonstrated failing, "
+          f"{_LEDGER.demonstrated_count} rule(s) declared, every one both emitted by this "
+          "module and watched firing here"
           if not bad else f"{bad} rule(s) did not fire")
     return 1 if bad else 0
 

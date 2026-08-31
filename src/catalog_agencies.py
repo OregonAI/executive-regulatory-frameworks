@@ -176,10 +176,12 @@ CHECK_RULES = (
     # name's provenance, and the two names a body must stay findable by
     "deprecated-key-agrees", "enabling-authority-form", "statutory-name-basis",
     "name-origin", "findable-by-both-names",
-    # the relations: their shape, uniqueness, resolution, what `part_of` may not carry, and
-    # the field's own mixed origin
+    # the relations: their shape, uniqueness, resolution, what `part_of` may not carry, an
+    # `administered_by` authority that belongs to a different body (#212), and the field's
+    # own mixed origin
     "relation-shape", "relation-unique", "relation-resolves",
-    "part-of-has-nothing-to-enable", "relation-origin",
+    "part-of-has-nothing-to-enable", "relation-authority-is-not-another-bodys-own",
+    "relation-origin",
     # what the OAR index tree itself asserts, and the parent chapter beside it
     "index-relation-is-regenerated", "parent-agrees",
     # the two things a sibling corpus joins on, claimed twice
@@ -527,9 +529,11 @@ REGISTRY_NOTE = (
     "not parse, its fetch fails, or a chapterless group's children "
     "disagree on a name prefix, and nothing else may live there, "
     "`manual` or not. curator_note holds hand-typed prose about a row "
-    "instead, protected across --refresh the way das_agency_number is; "
-    "the two rows carrying one today record why the row is `manual` at "
-    "all, since the mirror's index omits the chapter. This paragraph is "
+    "instead, protected across --refresh the way das_agency_number is: a "
+    "finding a hand edit cannot safely fold into a gated field, such as "
+    "why a manual row is manual when the mirror's index omits its "
+    "chapter, or a body's identity change the current derivation "
+    "contract cannot yet state as a relation (#212). This paragraph is "
     "itself checked against FIELDS by name on every --check run "
     "(`note-covers-fields`, #185): a field FIELDS declares that these "
     "sentences do not mention fails the gate, so this note cannot go "
@@ -610,10 +614,10 @@ RELATION_KINDS = (UNDETERMINED, PART_OF, ADMINISTERED_BY)
 # a kind to one that cannot state it (ADR 0004 rejects inferring the relation from a chapter
 # assignment).
 #
-# THE TWO BASES ARE NOT THE SAME STRENGTH, and keeping them apart is the whole of #173. ADR
-# 0004 derives the kind from ADMITTING EVIDENCE, and how much of it the registry holds moves
-# as reviews land — a live split `catalog_agencies.py --check` prints every run rather than
-# a count fixed here. What is not yet reviewed sits in
+# THE THREE BASES ARE NOT THE SAME STRENGTH, and keeping them apart is the whole of #173 and
+# #222. ADR 0004 derives the kind from ADMITTING EVIDENCE, and how much of it the registry
+# holds moves as reviews land — a live split `catalog_agencies.py --check` prints every run
+# rather than a count fixed here. What is not yet reviewed sits in
 # _meta/catalog/enabling-authority-review.yml — as a PROPOSED candidate where the matcher
 # found one, or in that sheet's `no_candidate` list where it did not, which is a statement
 # about the matcher and not about the body (link_enabling_authority.py's own note;
@@ -633,13 +637,23 @@ RELATION_KINDS = (UNDETERMINED, PART_OF, ADMINISTERED_BY)
 #   reviewed-enabling-authority   the authority the registry row itself carries, written by
 #                                 link_enabling_authority.py from its hand-reviewed table.
 #                                 This is the basis ADR 0004 describes.
+#   reviewed-absence              `enabling_authority` records `none: <reason>` — A HUMAN
+#                                 LOOKED and found nothing separately constitutes this body.
+#                                 That is ADR 0004's own description of *part of*, and unlike
+#                                 the other two bases it decides the OTHER kind: nothing to
+#                                 cite, so the relation carries no `authority` (#222 — the
+#                                 second derivation #173 deliberately left untaken, because
+#                                 the ABSENCE of a candidate is a statement about the matcher
+#                                 and not about the body, and must never be confused with a
+#                                 human having looked and found none).
 #
 # ALLOWLIST, NOT BLOCKLIST, as everywhere else in this module. A basis this registry has no
 # meaning for is a provenance nobody can act on, and it is indistinguishable from a typo in
 # one that matters.
 PROPOSED_AUTHORITY = "proposed-enabling-authority"
 REVIEWED_AUTHORITY = "reviewed-enabling-authority"
-RELATION_BASES = (PROPOSED_AUTHORITY, REVIEWED_AUTHORITY)
+REVIEWED_ABSENCE = "reviewed-absence"
+RELATION_BASES = (PROPOSED_AUTHORITY, REVIEWED_AUTHORITY, REVIEWED_ABSENCE)
 
 # The keys one relation entry may carry. `authority` and `basis` are the OPTIONAL two, and
 # they are optional in exactly one state: an `undetermined` relation, which records no
@@ -795,8 +809,9 @@ def relation_fault(entry):
         if form is None or form == "reviewed-none":
             return (f"relation {entry!r} cites no authority this registry can record "
                     "— expected an ORS citation (`ORS 576.066`), a constitutional article, "
-                    "or an executive order; leave the key off where no authority has been "
-                    "established for the relation" + ("" if form else f" ({detail})"))
+                    "an executive order, or a session law; leave the key off where no "
+                    "authority has been established for the relation"
+                    + ("" if form else f" ({detail})"))
     return None
 
 
@@ -976,6 +991,68 @@ AUTHORITY_FORMS = (
     # turns out to be created by that order, it is a decision to record here rather than a
     # surprise at the gate.
     ("executive-order", re.compile(r"Executive Order \d\d-\d\d")),
+    # `Oregon Laws 1975, chapter 789` — an uncodified SESSION LAW (#211). A body created by
+    # one has admitting evidence exactly as a body created by an ORS section does; before
+    # this form existed the registry could only leave the row empty (reading as "nobody
+    # looked") or cite a codified section that merely carries the body's OPERATION forward
+    # without restating its creation. #211's OWN WORKED CASE is the Legislative Fiscal
+    # Office (Oregon Laws 1959, chapter 70; codified ORS 173.410-173.465, none of which
+    # creates the office — 173.410 defines "appointing authority", 173.465 creates the
+    # FUND). This module's example is the Legislative Revenue Office instead, a second,
+    # independently-supplied instance of the same shape: ORS 173.800-173.855 mirror
+    # everything the 1975 act did to that office except the sentence that created it, and
+    # citing 173.800 anyway would be the same wrong-section failure ADR 0004 already refuses
+    # for `administered_by` (576.066 in place of 576.062).
+    #
+    # DERIVED FROM THE CORPUS, MEASURED, NOT FROM A STYLE GUIDE. Two independent measurements
+    # anchor this shape, both against MIRRORED (verbatim) text, never curated prose:
+    #   (1) `\d{4} c\.\d+` — the Legislative Counsel's own bracket citation of a session law
+    #       inside a codified section's history note — occurs 294,366 times across 34,163
+    #       mirrored ORS sections (23,213 distinct year/chapter pairs), establishing that a
+    #       session law's identity IS its year and chapter number. `statutes/ors-173.800.md`
+    #       itself carries `[1975 c.789 §1]` — the exact enactment behind this ticket's
+    #       verified instance.
+    #   (2) `Oregon Laws \d{4}, chapter \d+` — the SAME identity spelled out in prose — is not
+    #       curator commentary; it is mirrored text. `rules/603/008/oar-603-008-0000.md`
+    #       reads "...as authorized by Oregon Laws 2020, chapter 6" — a genuine, unspliced
+    #       instance. RE-MEASURED 2026-08-30, because this comment's first cited example
+    #       (`statutes/ors-174.535.md`) turned out to be a misread: that section's history
+    #       note is an enumerated list actually written `chapter <n>, Oregon Laws <year>` —
+    #       chapter FIRST — and every one of the 36 matches this form's own pattern finds
+    #       there is a SPLICE across two adjacent list items, not a genuine instance of this
+    #       spelling; the section demonstrates the reversed order, not this one. Corpus-wide
+    #       (statutes, rules, constitution, executive-orders) the adopted spelling occurs 566
+    #       times across 257 documents, 486 of them not immediately preceded by ", " (i.e.
+    #       not a splice); the reversed order `chapter \d+, Oregon Laws \d{4}` occurs 4,115
+    #       times across 1,844 documents — MORE common, not less. So this is NOT the
+    #       majority spelling and the form does not claim to be: it is chosen the same way
+    #       the `ors` form's own spelling is chosen — as the single spelling a reviewer must
+    #       write, deliberately, out of several the corpus itself uses inconsistently, not
+    #       because a frequency count backs it.
+    #
+    # NOT MIRRORED, so NOT RESOLVED. Unlike the three forms above, this corpus holds no
+    # `session-laws/` — there is nothing on disk for a citation to name. This form says only
+    # that the VALUE IS SPELLED LIKE a session-law citation; `link_enabling_authority.py`'s
+    # `check()` reports every row in this form as "form-checked, not resolved" and counts it
+    # SEPARATELY from the forms that resolve against a mirror, never folded into the same
+    # "verified" a resolved ORS or constitutional citation earns (CONTEXT.md: "could not
+    # check" is never reported as "is not there", and its mirror image — reporting a weaker
+    # check as the stronger one — is just as false).
+    #
+    # MEASURE WHAT ELSE THE WIDER FORM ADMITS (this week's own lesson, applied to itself): the
+    # pattern is deliberately narrow — full "Oregon Laws" (not "Or Laws"/"Or. Laws"), a comma,
+    # lowercase "chapter" (not "Chapter"/"ch."/"ch"), one or more digits, nothing else. Every
+    # one of the other 345 measured shapes — "Or Laws 1975, ch. 789", "Oregon Laws 1975
+    # Chapter 789" (no comma), a bare "1975 c.789" bracket citation, "chapter 789" alone, a
+    # year with no chapter, a chapter with no year — is REFUSED by this exact pattern
+    # (`_proof_session_law_form_boundary` in this module's own selftest proves ten
+    # of them failing, not merely asserted). ONE SECTION, DELIBERATELY, as the `ors` form's own
+    # comment states it: no section suffix is admitted (`Or Laws 1961, ch 454 §19`, the real
+    # citation quoted in #211 for a different body, oregon-military-department, does not
+    # fullmatch this pattern), because a session law's identity for this field is the ACT,
+    # and admitting a lettered or numbered subdivision of one is a decision to take later,
+    # not a formatting tweak now.
+    ("session-law", re.compile(r"Oregon Laws \d{4}, chapter \d+")),
 )
 
 # THE OTHER THING THE FIELD MAY SAY, and what makes the third state honest. A body that was
@@ -1043,7 +1120,8 @@ def classify_authority(value):
             return form, value
     return None, (f"{value!r} is not an authority this registry can record — expected an ORS "
                   "citation (`ORS 576.062`), a constitutional article (`Or. Const. Art. VI, "
-                  "sec. 1`), an executive order (`Executive Order 20-03`), or "
+                  "sec. 1`), an executive order (`Executive Order 20-03`), a session law "
+                  "(`Oregon Laws 1975, chapter 789`), or "
                   f"{NO_AUTHORITY!r} and the reason there is none")
 
 
@@ -2752,6 +2830,55 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
                     "says Oregon law did; one of the two is wrong and the registry states "
                     "both"))
 
+    # AN AUTHORITY ADMITS ONE BODY (#212), AND A RELATION CITING IT FOR A DIFFERENT ONE IS
+    # THE SHAPE OF THE BUG THIS TICKET FOUND. `oregon-military-department-office-of-
+    # emergency-management` sat under the Military Department for four years after HB 2927
+    # (2021) made the Office of Emergency Management a standalone department (ORS 401.052) —
+    # and nothing could have caught it, because the row never carried `enabling_authority`
+    # at all: no evidence, nothing for a gate to compare against. The check this omission
+    # leaves behind is narrow and MECHANICAL, not a claim about what a citation's TEXT says
+    # (this repository does not parse statute prose for meaning at check time; that is
+    # exactly the "confidently wrong matcher" trap `link_enabling_authority.py`'s own
+    # docstring is about): an `enabling_authority` citation is EXCLUSIVE to the one row it
+    # admits unless MORE THAN ONE row already carries it (ORS 576.062's nineteen commodity
+    # commissions, admitted by one enumerated list, are the reason this is "exclusive to the
+    # rows that share it" and not "exclusive to one row" — sharing is EVIDENCE, recorded on
+    # both sides, not a coincidence to refuse). A relation's `administered_by` `authority`
+    # citing a DIFFERENT row's exclusive citation asserts that ONE statute simultaneously
+    # constitutes body A on its own and places body A under body B — ADR 0004's own
+    # distinction between the section that CONSTITUTES a body and the section that
+    # ADMINISTERS it, collapsed into one citation that cannot honestly be both.
+    #
+    # A citation carried by exactly one row is not "no evidence of sharing" and does not
+    # become the general rule from a single instance; it is the state every enabling
+    # authority is in on the day it is FIRST recorded, and the check does not fire again once
+    # a genuine second row cites the same section for the same reason ORS 576.062 does not
+    # fire it 19 times over.
+    exclusive_authority = {}
+    for i, o in rows:
+        ea = o.get("enabling_authority")
+        if not ea:
+            continue
+        exclusive_authority.setdefault(ea, []).append(o.get("slug"))
+    exclusive_authority = {a: slugs[0] for a, slugs in exclusive_authority.items()
+                           if len(slugs) == 1}
+    for i, o in rows:
+        for entry in relation_entries(o):
+            if not isinstance(entry, dict) or entry.get("kind") != ADMINISTERED_BY:
+                continue
+            auth = entry.get("authority")
+            owner = exclusive_authority.get(auth)
+            if owner is not None and owner != o.get("slug"):
+                failures.append(Failure(
+                    "relation-authority-is-not-another-bodys-own", _row_id(o, i),
+                    f"is recorded {ADMINISTERED_BY!r} under {entry.get('target')!r} on the "
+                    f"authority of {auth!r} — but {auth!r} is {owner!r}'s own "
+                    "`enabling_authority`, cited by no other row, so it is what constitutes "
+                    f"{owner!r} as a body, not evidence of what {o.get('slug')!r} is placed "
+                    "under. One citation cannot honestly be recorded as both — either this "
+                    "row has its own authority and cites that instead, or the citation is "
+                    "wrong"))
+
     # EVERY BODY FINDABLE BY BOTH OF THE NAMES IT HAS, BEFORE AND AFTER `name` IS PROMOTED.
     # This is the search half of #187 stated over the whole registry rather than over a
     # fixture: for all 189 rows, the body must be among the hits when a reader searches the
@@ -3171,6 +3298,15 @@ def _case_enabling_authority_that_is_not_an_authority(cat):
     cat["organizations"][1]["enabling_authority"] = "created by statute"
 
 
+def _case_enabling_authority_session_law_near_miss(cat):
+    """A session-law citation one punctuation mark from the accepted spelling (#211) —
+    `_proof_session_law_form_boundary` proves the ten near misses refused at the
+    `classify_authority` level directly; this proves the SAME boundary is what the registry's
+    own row-level contract enforces, not a rule that exists only in the function that backs
+    it."""
+    cat["organizations"][1]["enabling_authority"] = "Oregon Laws 1975, Chapter 789"
+
+
 def _case_oar_name_that_matches_nothing(cat):
     """An `oar_name` that is present, is a string, and names nothing — so `required-field`
     passes it and every consumer reads it as a name. The body is then unfindable by the OAR
@@ -3277,10 +3413,12 @@ def _case_relation_kind_with_no_basis(cat):
 
 
 def _case_relation_basis_this_registry_has_no_meaning_for(cat):
-    """A basis nobody declared. The two #173 records differ in STRENGTH — an unreviewed
-    proposal against a reviewed authority — so the value is what a reader weighs the kind by,
-    and a third word published there is a weight nothing can read. Widening the allowlist is
-    a decision taken beside RELATION_BASES, which is what makes it deliberate."""
+    """A basis nobody declared. The three RELATION_BASES differ in STRENGTH and in which
+    kind they decide — an unreviewed proposal and a reviewed authority both decide
+    `administered_by` (#173), a reviewed absence decides `part_of` (#222) — so the value is
+    what a reader weighs the kind by, and a fourth word published there is a weight nothing
+    can read. Widening the allowlist is a decision taken beside RELATION_BASES, which is
+    what makes it deliberate."""
     cat["organizations"][1]["relations"][1]["basis"] = "seemed-right"
 
 
@@ -3302,6 +3440,19 @@ def _case_administered_by_citing_no_authority(cat):
     constitutes this body and names nothing a reader can check. `part_of` is not held to this:
     it records that there is nothing separate to cite."""
     del cat["organizations"][1]["relations"][1]["authority"]
+
+
+def _case_relation_authority_is_a_different_bodys_own(cat):
+    """An `administered_by` relation citing another row's OWN, exclusive `enabling_authority`
+    (#212). `das` above carries `enabling_authority: "ORS 999.999"` and is the only row that
+    does, so that citation is what constitutes `das` as a body — not evidence of what a
+    DIFFERENT row is placed under. `cfo`'s administered_by relation citing it instead is
+    exactly the shape `oregon-military-department-office-of-emergency-management` was never
+    caught by: it never carried an `enabling_authority` at all, so no gate had anything to
+    compare its relation against. This is the gate that omission left missing, proven on a
+    row that does carry one."""
+    cat["organizations"][1]["relations"][1]["authority"] = cat["organizations"][0][
+        "enabling_authority"]
 
 
 def _case_part_of_body_that_carries_an_enabling_authority(cat):
@@ -3671,6 +3822,9 @@ _CASES = [
      _case_relation_basis_on_a_relation_that_decided_nothing, "relation-shape"),
     ("administered-by-citing-no-authority", _case_administered_by_citing_no_authority,
      "relation-shape"),
+    ("relation-authority-is-a-different-bodys-own",
+     _case_relation_authority_is_a_different_bodys_own,
+     "relation-authority-is-not-another-bodys-own"),
     ("part-of-body-that-carries-an-enabling-authority",
      _case_part_of_body_that_carries_an_enabling_authority,
      "part-of-has-nothing-to-enable"),
@@ -3749,6 +3903,8 @@ _CASES = [
      _case_enabling_authority_with_stray_whitespace, "enabling-authority-form"),
     ("enabling-authority-that-almost-records-an-absence",
      _case_enabling_authority_that_almost_records_an_absence, "enabling-authority-form"),
+    ("enabling-authority-session-law-near-miss",
+     _case_enabling_authority_session_law_near_miss, "enabling-authority-form"),
     ("row-is-not-a-mapping", _case_row_is_not_a_mapping, "readable-row"),
     # THE TWO WAYS A BODY STOPS BEING FINDABLE BY A NAME IT HAS, which is what promoting
     # `name` (#168) must not be able to do to a reader.
@@ -3944,6 +4100,72 @@ def _proof_the_carry_is_what_keeps_an_established_statutory_name() -> int:
               f"not asked to take ({cfo['name']!r}, {cfo[NAME_BASIS_KEY]!r})",
               file=sys.stderr)
         bad += 1
+    return bad
+
+
+# THE TEN NEAR MISSES `_proof_session_law_form_boundary` proves REFUSED, most one letter or
+# one punctuation mark from the accepted spelling. A pair (the string, a short label for the
+# diagnostic) rather than bare strings, so a failing proof names WHICH near miss got through
+# rather than making a reader diff two long lists.
+#
+# EIGHT OF THE TEN ARE MEASURED SHAPES (see AUTHORITY_FORMS' own comment for the corpus
+# counts each is drawn from). TWO ARE NOT, and say so where they sit below: the corpus
+# happens to contain no two-digit-year session-law citation and no session-law citation with
+# a trailing section marker in otherwise-canonical spelling, so those two are constructed
+# boundary probes rather than measured ones — a deliberate exception to "measured, not
+# invented", not an unnoticed one.
+_SESSION_LAW_NEAR_MISSES = (
+    ("Oregon Laws 1975, Chapter 789", "capital Chapter"),
+    ("Or Laws 1975, chapter 789", "abbreviated prefix, no period"),
+    ("Or. Laws 1975, chapter 789", "abbreviated prefix, with period"),
+    ("Oregon Laws 1975 chapter 789", "no comma"),
+    ("Oregon Laws 1975, ch. 789", "abbreviated chapter"),
+    # NOT MEASURED — constructed, because the corpus carries no two-digit-year session-law
+    # citation to draw one from (re-measured 2026-08-30: `Oregon Laws \d{2}, chapter \d+`
+    # occurs zero times across statutes/rules/constitution/executive-orders). Kept anyway
+    # because the form's own comment states the year is `\d{4}`, deliberately, and this is
+    # what proves that digit count is enforced rather than merely assumed.
+    ("Oregon Laws 75, chapter 789", "two-digit year"),
+    ("Oregon Laws 1975, chapter", "no chapter number"),
+    ("chapter 789, Oregon Laws 1975", "reversed order"),
+    # ALSO NOT MEASURED, for the same reason (re-measured 2026-08-30: `Oregon Laws \d{4},
+    # chapter \d+ §\d+` occurs zero times too). Constructed to ISOLATE the trailing-section
+    # defect from every other one — every other character of it fullmatches the accepted
+    # shape — which the real #211 citation below cannot do, because that one is malformed
+    # three ways at once and would not tell a failing proof which of the three broke.
+    ("Oregon Laws 1975, chapter 789 §19", "trailing section marker, isolated"),
+    # THE REAL CITATION FROM #211 ITSELF: `Or Laws 1961, ch 454 §19` (oregon-military-
+    # department, per the issue). Refused, but NOT "for exactly one reason" the way the
+    # isolated case above is — measured against this form's own pattern, it fails THREE
+    # independent ways at once: an abbreviated prefix ("Or" not "Oregon"), an abbreviated
+    # chapter word ("ch" not "chapter"), and the trailing section marker the case above
+    # isolates. Kept as its own case so neither this one nor the isolated one is asked to do
+    # the other's job.
+    ("Or Laws 1961, ch 454 §19", "the real #211 citation, refused three ways at once"),
+)
+
+
+def _proof_session_law_form_boundary() -> int:
+    """The session-law form (#211) admits the shape it was built for and refuses everything
+    adjacent to it — TESTED BOTH DIRECTIONS, which is this week's own lesson applied to the
+    form that lesson is about: a field loose enough to admit `Oregon Laws 1975, chapter 789`
+    could easily have been loose enough to admit strings that are not authorities at all, and
+    the only way to know it is not is to throw the near misses at it and watch them bounce.
+
+    THE TRUE POSITIVE FIRST, because a form that refuses everything is not a working form —
+    the ten refusals below would pass vacuously if this one line were deleted."""
+    bad = 0
+    true_form, true_detail = classify_authority("Oregon Laws 1975, chapter 789")
+    if true_form != "session-law":
+        print(f"FAIL session-law-form-accepts-the-real-shape: classify_authority returned "
+              f"{(true_form, true_detail)!r}", file=sys.stderr)
+        bad += 1
+    for value, label in _SESSION_LAW_NEAR_MISSES:
+        form, detail = classify_authority(value)
+        if form is not None:
+            print(f"FAIL session-law-form-refuses-near-misses ({label}): {value!r} was "
+                  f"accepted as form {form!r} ({detail!r})", file=sys.stderr)
+            bad += 1
     return bad
 
 
@@ -4478,6 +4700,7 @@ def selftest() -> int:
     bad += _proof_the_merge_is_what_carries_a_curated_relation()
     bad += _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry()
     bad += _proof_the_carry_is_what_keeps_an_established_statutory_name()
+    bad += _proof_session_law_form_boundary()
     resolutions = 0
     for proof in (_proof_search_spans_every_name_a_body_is_known_by,
                   _proof_a_promoted_name_loses_no_resolution):
