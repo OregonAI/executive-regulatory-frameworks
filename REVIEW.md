@@ -243,7 +243,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/166/ (93 rules)` — correct non-links — 79 cite only chapter-level authority (no section to link to); 14 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/166/020/oar-166-020-0045.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/167/ (20 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 17 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/170/ (17 rules)` — correct non-links — 17 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/170/ (18 rules)` — correct non-links — 18 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/171/ (3 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
 - `rules/173/ (23 rules)` — correct non-links — 23 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/177/ (35 rules)` — correct non-links — 35 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
