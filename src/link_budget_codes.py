@@ -4,12 +4,13 @@
   python3 src/link_budget_codes.py           # write das_agency_number into agencies.yml
   python3 src/link_budget_codes.py --check   # verify the registry matches this table
 
-THE FIELD IS `das_agency_number` (CONTEXT.md), and every row that carries one also carries
-the same value under the deprecated `budget_agency_code` until #177 removes that key.
-catalog_agencies.py declares the pair once (DAS_NUMBER_KEYS), writes both keys in one place
-(write_das_agency_number) and states that they may not disagree (its --check). The number identifies a body in the state's financial administration and is not
-evidence that the body spends money; the names below (`MAPPING`, `UNMAPPED`, `REORGANIZED`)
-still read "code" because they are keyed by the budget dataset's own vocabulary.
+THE FIELD IS `das_agency_number` (CONTEXT.md). It used to also carry the same value under a
+deprecated `budget_agency_code` key, for one deprecation cycle (#175); #177 removed that key,
+and catalog_agencies.py now refuses it (`budget-agency-code-retired`) if it ever reappears.
+catalog_agencies.py writes the field in one place (write_das_agency_number). The number
+identifies a body in the state's financial administration and is not evidence that the body
+spends money; the names below (`MAPPING`, `UNMAPPED`, `REORGANIZED`) still read "code" because
+they are keyed by the budget dataset's own vocabulary.
 
 WHY THIS EXISTS. `oregon-budget` reports spending against three-digit DAS agency numbers
 (`107` = Department of Administrative Services). This registry keys agencies on OAR chapter
@@ -348,12 +349,9 @@ def main() -> int:
 
     if check:
         bad = 0
-        # AGAINST `das_agency_number`, THE FIELD OF RECORD. The registry carries the same
-        # number under the deprecated `budget_agency_code` for one more cycle (ADR 0003,
-        # #177), and this gate deliberately does not read that key: whether the two agree is
-        # a rule of the registry's contract, gated by `catalog_agencies.py --check`, and a
-        # fact stated by two gates is a fact that can be true in one and false in the other.
-        # What this gate owns is whether the number matches the REVIEWED TABLE below.
+        # AGAINST `das_agency_number`, THE FIELD OF RECORD and, since #177, the only key the
+        # registry carries the number under. What this gate owns is whether the number
+        # matches the REVIEWED TABLE below.
         for slug, code in want.items():
             got = by_slug[slug].get("das_agency_number")
             if got != code:
@@ -408,10 +406,8 @@ def main() -> int:
         by_slug[slug] = entry
         added += 1
 
-    # WRITTEN UNDER BOTH KEYS BY THE REGISTRY'S OWN WRITER. `das_agency_number` is the
-    # field of record and `budget_agency_code` is the same number under the name it used to
-    # have, readable until #177 removes it; writing them here by hand would be a second
-    # place that has to remember the second key exists.
+    # WRITTEN BY THE REGISTRY'S OWN WRITER, not assigned here by hand — one place that owns
+    # the field's name.
     for slug, code in want.items():
         catalog_agencies.write_das_agency_number(by_slug[slug], code)
     for slug, names in ALIASES.items():
@@ -420,7 +416,7 @@ def main() -> int:
 
     cat["organizations"].sort(key=lambda o: o["slug"])
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
-    print(f"wrote das_agency_number (and the deprecated budget_agency_code) for "
+    print(f"wrote das_agency_number for "
           f"{len(want)} of {len(cat['organizations'])} organizations")
     print(f"  added {added} manual entry(ies) for agencies that issue no OAR rules")
     print(f"  wrote aliases on {sum(1 for s in ALIASES if s in by_slug)} entry(ies)")

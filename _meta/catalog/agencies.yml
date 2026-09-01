@@ -43,28 +43,26 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   re-filing reaches this file, and every other entry is carried across untouched. A manual row''s placement
   is sourced `registry` and never `oar-index`: the index does not carry that body, so it has placed it
   nowhere and no refresh can rebuild the entry. An empty list means this registry places the body under
-  no other. budget_agency_code is the same number under the name it used to carry, readable for one deprecation
-  cycle (ADR 0003); the two always hold the same value. enabling_authority, where present, is what created
-  the body — an ORS citation, a constitutional article, or an executive order (ADR 0003) — or `none: `
-  and the reason there is none. It is hand-reviewed (src/link_enabling_authority.py), is NOT scraped,
-  and is preserved across --refresh. An ABSENT enabling_authority means nobody has reviewed this body
-  yet; it never means the body has no enabling authority, which is what the `none: ` form says and says
-  with a reason. oar_chapter is the OAR chapter this body''s rules are filed under, scraped from the index
-  tree; null on the chapterless rows is not a gap — a body is in this registry because it EXISTS, not
-  because it issues rules. source_url is the chapter page each row was scraped from, where the scrape
-  found one: null on 15 of the 20 chapterless rows, not all of them — the other five hold a source_url
-  that is not a chapter page (four hold the mirror''s own rules index, https://oregon.public.law/rules,
-  and the manual saif-corporation row holds its own site). aliases, where present, are other names the
-  same body is known by, including former names after a rename — hand-reviewed once, curated, and preserved
-  across --refresh. note is scrape-only (#178): cmd_refresh() writes one of exactly three sentences into
-  it, when a chapter page''s title will not parse, its fetch fails, or a chapterless group''s children
-  disagree on a name prefix, and nothing else may live there, `manual` or not. curator_note holds hand-typed
-  prose about a row instead, protected across --refresh the way das_agency_number is: a finding a hand
-  edit cannot safely fold into a gated field, such as why a manual row is manual when the mirror''s index
-  omits its chapter, or a body''s identity change the current derivation contract cannot yet state as
-  a relation (#212). This paragraph is itself checked against FIELDS by name on every --check run (`note-covers-fields`,
-  #185): a field FIELDS declares that these sentences do not mention fails the gate, so this note cannot
-  go stale the way it did before anything watched it.'
+  no other. enabling_authority, where present, is what created the body — an ORS citation, a constitutional
+  article, or an executive order (ADR 0003) — or `none: ` and the reason there is none. It is hand-reviewed
+  (src/link_enabling_authority.py), is NOT scraped, and is preserved across --refresh. An ABSENT enabling_authority
+  means nobody has reviewed this body yet; it never means the body has no enabling authority, which is
+  what the `none: ` form says and says with a reason. oar_chapter is the OAR chapter this body''s rules
+  are filed under, scraped from the index tree; null on the chapterless rows is not a gap — a body is
+  in this registry because it EXISTS, not because it issues rules. source_url is the chapter page each
+  row was scraped from, where the scrape found one: null on 15 of the 20 chapterless rows, not all of
+  them — the other five hold a source_url that is not a chapter page (four hold the mirror''s own rules
+  index, https://oregon.public.law/rules, and the manual saif-corporation row holds its own site). aliases,
+  where present, are other names the same body is known by, including former names after a rename — hand-reviewed
+  once, curated, and preserved across --refresh. note is scrape-only (#178): cmd_refresh() writes one
+  of exactly three sentences into it, when a chapter page''s title will not parse, its fetch fails, or
+  a chapterless group''s children disagree on a name prefix, and nothing else may live there, `manual`
+  or not. curator_note holds hand-typed prose about a row instead, protected across --refresh the way
+  das_agency_number is: a finding a hand edit cannot safely fold into a gated field, such as why a manual
+  row is manual when the mirror''s index omits its chapter, or a body''s identity change the current derivation
+  contract cannot yet state as a relation (#212). This paragraph is itself checked against FIELDS by name
+  on every --check run (`note-covers-fields`, #185): a field FIELDS declares that these sentences do not
+  mention fails the gate, so this note cannot go stale the way it did before anything watched it.'
 source_url: https://oregon.public.law/rules
 retrieved: '2026-07-20'
 organizations:
@@ -88,7 +86,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '811'
-  budget_agency_code: '811'
   enabling_authority: ORS 684.130
 - slug: board-of-examiners-for-engineering-and-land-surveying
   name: Board of Examiners for Engineering and Land Surveying
@@ -128,7 +125,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '124'
-  budget_agency_code: '124'
   enabling_authority: ORS 675.590
 - slug: board-of-massage-therapists
   name: Board of Massage Therapists
@@ -159,7 +155,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '851'
-  budget_agency_code: '851'
   enabling_authority: ORS 678.140
 - slug: board-of-optometry
   name: Board of Optometry
@@ -180,7 +175,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '255'
-  budget_agency_code: '255'
   enabling_authority: ORS 144.005
 - slug: board-of-pharmacy
   name: Board of Pharmacy
@@ -192,7 +186,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '855'
-  budget_agency_code: '855'
 - slug: bureau-of-labor-and-industries
   name: Bureau of Labor and Industries
   name_basis: unverified-oar-title
@@ -203,7 +196,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '839'
-  budget_agency_code: '839'
   enabling_authority: ORS 651.020
 - slug: chief-education-office
   name: Chief Education Office
@@ -215,7 +207,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '524'
-  budget_agency_code: '524'
 - slug: citizens-initiative-review-commission
   name: Citizens' Initiative Review Commission
   name_basis: unverified-oar-title
@@ -236,7 +227,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '350'
-  budget_agency_code: '350'
 - slug: commission-for-the-blind
   name: Commission for the Blind
   name_basis: unverified-oar-title
@@ -247,7 +237,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '585'
-  budget_agency_code: '585'
   enabling_authority: ORS 346.120
 - slug: commission-on-judicial-fitness-and-disability
   name: Commission on Judicial Fitness and Disability
@@ -260,7 +249,6 @@ organizations:
   relations: []
   manual: true
   das_agency_number: '175'
-  budget_agency_code: '175'
   enabling_authority: ORS 1.410
 - slug: construction-contractors-board
   name: Construction Contractors Board
@@ -272,7 +260,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '915'
-  budget_agency_code: '915'
   enabling_authority: ORS 701.205
 - slug: department-of-administrative-services
   name: Department of Administrative Services
@@ -284,7 +271,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '107'
-  budget_agency_code: '107'
   enabling_authority: ORS 184.305
 - slug: department-of-administrative-services-chief-financial-office
   name: Department of Administrative Services, Chief Financial Office
@@ -332,7 +318,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '603'
-  budget_agency_code: '603'
   enabling_authority: ORS 561.010
 - slug: department-of-agriculture-oregon-albacore-commission
   name: Department of Agriculture, Oregon Albacore Commission
@@ -686,7 +671,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '440'
-  budget_agency_code: '440'
   enabling_authority: ORS 705.105
 - slug: department-of-consumer-and-business-services-building-codes-division
   name: Department of Consumer and Business Services, Building Codes Division
@@ -797,7 +781,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '291'
-  budget_agency_code: '291'
   enabling_authority: ORS 423.020
 - slug: department-of-energy
   name: Department of Energy
@@ -809,7 +792,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '330'
-  budget_agency_code: '330'
   enabling_authority: ORS 469.030
 - slug: department-of-energy-energy-facility-siting-council
   name: Department of Energy, Energy Facility Siting Council
@@ -836,7 +818,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '340'
-  budget_agency_code: '340'
   enabling_authority: ORS 468.030
 - slug: department-of-fish-and-wildlife
   name: Department of Fish and Wildlife
@@ -848,7 +829,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '635'
-  budget_agency_code: '635'
   enabling_authority: ORS 496.080
 - slug: department-of-forestry
   name: Department of Forestry
@@ -860,7 +840,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '629'
-  budget_agency_code: '629'
   aliases:
   - State Forestry Department
 - slug: department-of-geology-and-mineral-industries
@@ -873,7 +852,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '632'
-  budget_agency_code: '632'
 - slug: department-of-human-services
   name: Department of Human Services
   name_basis: unverified-oar-title
@@ -884,7 +862,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '100'
-  budget_agency_code: '100'
   enabling_authority: ORS 409.010
 - slug: department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities
   name: Department of Human Services, Aging and People with Disabilities and Developmental Disabilities
@@ -961,7 +938,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '137'
-  budget_agency_code: '137'
 - slug: department-of-public-safety-standards-and-training
   name: Department of Public Safety Standards and Training
   name_basis: unverified-oar-title
@@ -972,7 +948,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '259'
-  budget_agency_code: '259'
 - slug: department-of-revenue
   name: Department of Revenue
   name_basis: unverified-oar-title
@@ -983,7 +958,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '150'
-  budget_agency_code: '150'
   enabling_authority: ORS 305.025
 - slug: department-of-state-lands
   name: Department of State Lands
@@ -995,7 +969,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '141'
-  budget_agency_code: '141'
   enabling_authority: ORS 273.041
 - slug: department-of-state-lands-south-slough-national-estuarine-research-reserve
   name: Department of State Lands, South Slough National Estuarine Research Reserve
@@ -1021,7 +994,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '257'
-  budget_agency_code: '257'
   enabling_authority: ORS 181A.015
 - slug: department-of-state-police-office-of-state-fire-marshal
   name: Department of State Police, Office of State Fire Marshal
@@ -1036,7 +1008,6 @@ organizations:
     source: oar-index
     kind: undetermined
   das_agency_number: '260'
-  budget_agency_code: '260'
   aliases:
   - Department of the State Fire Marshal
   - Office of State Fire Marshal
@@ -1066,7 +1037,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '730'
-  budget_agency_code: '730'
   enabling_authority: ORS 184.615
 - slug: department-of-transportation-driver-and-motor-vehicle-services-division
   name: Department of Transportation, Driver and Motor Vehicle Services Division
@@ -1150,7 +1120,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '274'
-  budget_agency_code: '274'
   enabling_authority: ORS 406.005
 - slug: district-attorneys-and-deputies
   name: District Attorneys and Deputies
@@ -1163,7 +1132,6 @@ organizations:
   relations: []
   manual: true
   das_agency_number: '196'
-  budget_agency_code: '196'
   enabling_authority: Or. Const. Art. VII (Original), sec. 17
 - slug: eastern-oregon-border-economic-development-board
   name: Eastern Oregon Border Economic Development Board
@@ -1194,7 +1162,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '471'
-  budget_agency_code: '471'
   enabling_authority: ORS 657.601
 - slug: employment-relations-board
   name: Employment Relations Board
@@ -1206,7 +1173,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '115'
-  budget_agency_code: '115'
 - slug: higher-education-coordinating-commission
   name: Higher Education Coordinating Commission
   name_basis: unverified-oar-title
@@ -1217,7 +1183,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '525'
-  budget_agency_code: '525'
   aliases:
   - Higher Education Coordinating Commission
   enabling_authority: ORS 350.050
@@ -1270,7 +1235,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '198'
-  budget_agency_code: '198'
 - slug: land-conservation-and-development-department
   name: Land Conservation and Development Department
   name_basis: unverified-oar-title
@@ -1281,7 +1245,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '660'
-  budget_agency_code: '660'
   aliases:
   - Department of Land Conservation and Development
 - slug: land-use-board-of-appeals
@@ -1294,7 +1257,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '662'
-  budget_agency_code: '662'
   enabling_authority: ORS 197.810
 - slug: landscape-architect-board
   name: Landscape Architect Board
@@ -1324,7 +1286,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '156'
-  budget_agency_code: '156'
   enabling_authority: ORS 173.710
 - slug: legislative-assembly
   name: Legislative Assembly
@@ -1337,7 +1298,6 @@ organizations:
   relations: []
   manual: true
   das_agency_number: '155'
-  budget_agency_code: '155'
   enabling_authority: Or. Const. Art. IV, sec. 1
 - slug: legislative-commission-on-indian-services
   name: Legislative Commission on Indian Services
@@ -1350,7 +1310,6 @@ organizations:
   relations: []
   manual: true
   das_agency_number: '425'
-  budget_agency_code: '425'
   enabling_authority: ORS 172.100
 - slug: legislative-counsel-office
   name: Legislative Counsel Office
@@ -1363,7 +1322,6 @@ organizations:
   relations: []
   manual: true
   das_agency_number: '142'
-  budget_agency_code: '142'
 - slug: legislative-equity-office
   name: Legislative Equity Office
   name_basis: unverified-oar-title
@@ -1386,7 +1344,6 @@ organizations:
   relations: []
   manual: true
   das_agency_number: '145'
-  budget_agency_code: '145'
   enabling_authority: Oregon Laws 1959, chapter 70
 - slug: legislative-policy-and-research-committee
   name: Legislative Policy and Research Committee
@@ -1399,7 +1356,6 @@ organizations:
   relations: []
   manual: true
   das_agency_number: '143'
-  budget_agency_code: '143'
   enabling_authority: ORS 173.605
 - slug: legislative-revenue-office
   name: Legislative Revenue Office
@@ -1412,7 +1368,6 @@ organizations:
   relations: []
   manual: true
   das_agency_number: '144'
-  budget_agency_code: '144'
   enabling_authority: Oregon Laws 1975, chapter 789
 - slug: long-term-care-ombudsman
   name: Long Term Care Ombudsman
@@ -1424,7 +1379,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '114'
-  budget_agency_code: '114'
   enabling_authority: ORS 441.403
 - slug: mental-health-regulatory-agency
   name: Mental Health Regulatory Agency
@@ -1436,7 +1390,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '108'
-  budget_agency_code: '108'
   enabling_authority: ORS 675.160
 - slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
   name: Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
@@ -1499,7 +1452,6 @@ organizations:
   relations: []
   manual: true
   das_agency_number: '404'
-  budget_agency_code: '404'
   aliases:
   - Public Defense Services Commission
   enabling_authority: ORS 151.213
@@ -1514,7 +1466,6 @@ organizations:
   relations: []
   manual: true
   das_agency_number: '121'
-  budget_agency_code: '121'
   enabling_authority: Or. Const. Art. V, sec. 1
 - slug: office-of-training-investigations-and-safety
   name: Office of Training, Investigations and Safety
@@ -1549,7 +1500,6 @@ organizations:
   relations: []
   manual: true
   das_agency_number: '131'
-  budget_agency_code: '131'
   enabling_authority: ORS 185.005
 - slug: oregon-board-of-accountancy
   name: Oregon Board of Accountancy
@@ -1561,7 +1511,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '120'
-  budget_agency_code: '120'
   enabling_authority: ORS 673.410
 - slug: oregon-board-of-dentistry
   name: Oregon Board of Dentistry
@@ -1573,7 +1522,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '834'
-  budget_agency_code: '834'
 - slug: oregon-board-of-naturopathic-medicine
   name: Oregon Board of Naturopathic Medicine
   name_basis: unverified-oar-title
@@ -1603,7 +1551,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '123'
-  budget_agency_code: '123'
   enabling_authority: ORS 285A.070
 - slug: oregon-criminal-justice-commission
   name: Oregon Criminal Justice Commission
@@ -1615,7 +1562,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '213'
-  budget_agency_code: '213'
   enabling_authority: ORS 137.654
 - slug: oregon-department-of-aviation
   name: Oregon Department of Aviation
@@ -1627,7 +1573,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '109'
-  budget_agency_code: '109'
   enabling_authority: ORS 835.100
 - slug: oregon-department-of-education
   name: Oregon Department of Education
@@ -1639,7 +1584,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '581'
-  budget_agency_code: '581'
   enabling_authority: ORS 326.111
 - slug: oregon-department-of-education-early-learning-division
   name: Oregon Department of Education, Early Learning Division
@@ -1654,7 +1598,6 @@ organizations:
     source: oar-index
     kind: undetermined
   das_agency_number: '588'
-  budget_agency_code: '588'
   aliases:
   - Department of Early Learning and Care
   - Early Learning Division
@@ -1701,7 +1644,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '172'
-  budget_agency_code: '172'
   enabling_authority: ORS 289.100
 - slug: oregon-film-and-video-office
   name: Oregon Film and Video Office
@@ -1723,7 +1665,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '628'
-  budget_agency_code: '628'
   enabling_authority: ORS 526.610
 - slug: oregon-government-ethics-commission
   name: Oregon Government Ethics Commission
@@ -1735,7 +1676,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '199'
-  budget_agency_code: '199'
   enabling_authority: ORS 244.250
 - slug: oregon-health-authority
   name: Oregon Health Authority
@@ -1747,7 +1687,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '443'
-  budget_agency_code: '443'
   enabling_authority: ORS 413.032
 - slug: oregon-health-authority-equity-and-inclusion-division
   name: Oregon Health Authority Equity and Inclusion Division
@@ -2007,7 +1946,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '914'
-  budget_agency_code: '914'
   enabling_authority: ORS 456.555
 - slug: oregon-investment-council
   name: Oregon Investment Council
@@ -2029,7 +1967,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '845'
-  budget_agency_code: '845'
   aliases:
   - Liquor and Cannabis Commission
   - Oregon Liquor and Cannabis Commission
@@ -2043,7 +1980,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '847'
-  budget_agency_code: '847'
 - slug: oregon-military-department
   name: Oregon Military Department
   name_basis: unverified-oar-title
@@ -2054,7 +1990,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '248'
-  budget_agency_code: '248'
   enabling_authority: ORS 396.305
 - slug: oregon-military-department-office-of-emergency-management
   name: Oregon Military Department, Office of Emergency Management
@@ -2069,7 +2004,6 @@ organizations:
     source: oar-index
     kind: undetermined
   das_agency_number: '258'
-  budget_agency_code: '258'
   aliases:
   - Office of Emergency Management
   - Oregon Department of Emergency Management
@@ -2121,7 +2055,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '459'
-  budget_agency_code: '459'
 - slug: oregon-racing-commission
   name: Oregon Racing Commission
   name_basis: unverified-oar-title
@@ -2132,7 +2065,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '862'
-  budget_agency_code: '862'
   enabling_authority: ORS 462.210
 - slug: oregon-state-library
   name: Oregon State Library
@@ -2144,7 +2076,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '543'
-  budget_agency_code: '543'
 - slug: oregon-state-lottery
   name: Oregon State Lottery
   name_basis: unverified-oar-title
@@ -2164,7 +2095,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '250'
-  budget_agency_code: '250'
   enabling_authority: ORS 830.105
 - slug: oregon-state-treasury
   name: Oregon State Treasury
@@ -2176,7 +2106,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '170'
-  budget_agency_code: '170'
   aliases:
   - Office of the State Treasurer
   - State Treasurer
@@ -2210,7 +2139,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '691'
-  budget_agency_code: '691'
   enabling_authority: ORS 541.900
 - slug: oregon-watershed-enhancement-board-oregon-agricultural-heritage-program
   name: Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program
@@ -2244,7 +2172,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '415'
-  budget_agency_code: '415'
 - slug: parks-and-recreation-department
   name: Parks and Recreation Department
   name_basis: unverified-oar-title
@@ -2255,7 +2182,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '634'
-  budget_agency_code: '634'
 - slug: psychiatric-security-review-board
   name: Psychiatric Security Review Board
   name_basis: unverified-oar-title
@@ -2266,7 +2192,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '399'
-  budget_agency_code: '399'
   enabling_authority: ORS 161.385
 - slug: public-records-advocate
   name: Public Records Advocate
@@ -2279,7 +2204,6 @@ organizations:
   relations: []
   manual: true
   das_agency_number: '104'
-  budget_agency_code: '104'
   enabling_authority: ORS 192.461
 - slug: public-utility-commission
   name: Public Utility Commission
@@ -2291,7 +2215,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '860'
-  budget_agency_code: '860'
   enabling_authority: ORS 756.014
 - slug: public-utility-commission-oregon-board-of-maritime-pilots
   name: Public Utility Commission, Oregon Board of Maritime Pilots
@@ -2318,7 +2241,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '919'
-  budget_agency_code: '919'
   enabling_authority: ORS 696.375
 - slug: saif-corporation
   name: SAIF Corporation
@@ -2341,7 +2263,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '165'
-  budget_agency_code: '165'
   enabling_authority: Or. Const. Art. VI, sec. 1
 - slug: secretary-of-state-archives-division
   name: Secretary of State, Archives Division
@@ -2432,7 +2353,6 @@ organizations:
   relations: []
   manual: true
   das_agency_number: '119'
-  budget_agency_code: '119'
   enabling_authority: ORS 673.725
 - slug: teacher-standards-and-practices-commission
   name: Teacher Standards and Practices Commission
@@ -2444,7 +2364,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '584'
-  budget_agency_code: '584'
 - slug: travel-information-council
   name: Travel Information Council
   name_basis: unverified-oar-title
@@ -2475,5 +2394,4 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '690'
-  budget_agency_code: '690'
   enabling_authority: ORS 536.039

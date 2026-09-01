@@ -172,9 +172,9 @@ CHECK_RULES = (
     "required-field", "declared-field",
     # the one this module reads off two scripts
     "chapter-page-count-current",
-    # the DAS number's deprecation-cycle pair, the enabling authority's form, the statutory
+    # the retired DAS-number alias, the enabling authority's form, the statutory
     # name's provenance, and the two names a body must stay findable by
-    "deprecated-key-agrees", "enabling-authority-form", "statutory-name-basis",
+    "budget-agency-code-retired", "enabling-authority-form", "statutory-name-basis",
     "name-origin", "findable-by-both-names",
     # the relations: their shape, uniqueness, resolution, what `part_of` may not carry, an
     # `administered_by` authority that belongs to a different body (#212), and the field's
@@ -329,13 +329,6 @@ FIELDS = {
     # system, which is why ADR 0003 renames the field off a name that says "budget".
     # Hand-reviewed, one number per body; the table is src/link_budget_codes.py.
     "das_agency_number": Field(CURATED, required=False),
-    # THE SAME NUMBER UNDER THE NAME IT USED TO HAVE, readable for one deprecation cycle so
-    # no consumer breaks mid-flight: #163 has 474 published documents to regenerate before
-    # #177 can delete this key. Both keys are CURATED because both are committed data
-    # nothing upstream produces — declaring the deprecated one anything else would have
-    # --refresh drop the copy consumers are still reading. DAS_NUMBER_KEYS below is what
-    # keeps the two from drifting apart.
-    "budget_agency_code": Field(CURATED, required=False),
     # Other names the same body is known by, including former names after a rename. An
     # ASSERTION of identity, reviewed once, rather than a similarity score computed at
     # query time.
@@ -504,9 +497,7 @@ REGISTRY_NOTE = (
     "is sourced `registry` and never `oar-index`: the index does not carry "
     "that body, so it has placed it nowhere and no refresh can rebuild the "
     "entry. An empty list means this registry places the body under no other. "
-    "budget_agency_code is the same number under the name it used to carry, "
-    "readable for one deprecation cycle (ADR 0003); the two always hold the "
-    "same value. enabling_authority, where present, is what created the body "
+    "enabling_authority, where present, is what created the body "
     "— an ORS citation, a constitutional article, or an executive order (ADR "
     "0003) — or `none: ` and the reason there is none. It is hand-reviewed "
     "(src/link_enabling_authority.py), is NOT scraped, and is preserved "
@@ -541,18 +532,18 @@ REGISTRY_NOTE = (
 )
 
 
-# THE ONE NUMBER'S TWO KEYS, FIELD OF RECORD FIRST. ADR 0003 renames `budget_agency_code`
-# to `das_agency_number`, and this is the EXPAND half: every row that carries the number
-# carries it under BOTH keys, with the same value, until #177 deletes the old one. Both keys
-# hold the value rather than one key holding it and an accessor resolving the other, because
-# the consumers this cycle protects do not run this code — three sibling corpora read
-# agencies.yml as YAML, and one of them (#163) has 474 published documents keyed on the old
-# name. A Python accessor is unreadable from there; a key in the file is not.
+# THE RETIRED KEY, NAMED SO IT CANNOT COME BACK UNNOTICED. ADR 0003 renamed
+# `budget_agency_code` to `das_agency_number`; #175 was the EXPAND half (every row carrying
+# the number carried it under both keys, with the same value, for one deprecation cycle) and
+# this is the CONTRACT half (#177): the old key is gone from FIELDS, and `das_agency_number`
+# is the only key the number is ever written under, by `write_das_agency_number()` below.
 #
-# Two copies of one fact can disagree, so `deprecated-key-agrees` in check_registry() states
-# that they may not: a row carrying one key and not the other, or the two holding different
-# numbers, is a contract violation rather than something a reader has to notice.
-DAS_NUMBER_KEYS = ("das_agency_number", "budget_agency_code")
+# Removing it from FIELDS already makes `declared-field` refuse any row that still carries
+# it — an undeclared key. That generic message ("declare it") is the wrong instruction for a
+# key ADR 0003 retired on purpose, so `budget-agency-code-retired` in check_registry() names
+# the reappearance specifically, with the instruction that fits it: this key does not get
+# declared, it gets deleted again. See #177.
+BUDGET_AGENCY_CODE = "budget_agency_code"
 
 # ------------------------------------------------------------------- what a relation is
 #
@@ -1515,40 +1506,33 @@ def set_index_relations(orgs, index_parents) -> None:
 
 
 def write_das_agency_number(row: dict, number) -> None:
-    """Write `number` onto `row` under BOTH keys of DAS_NUMBER_KEYS, field of record first.
+    """Write `number` onto `row` under `das_agency_number`, the field of record.
 
-    THE ONE PLACE THE NUMBER IS WRITTEN, so nothing can put it under a single key. Two
-    copies of one fact are only safe while every writer maintains both, and a second
-    hand-written spelling of "set the code" is how one of them starts being forgotten —
-    which is the same drift `deprecated-key-agrees` reports when it has already happened.
+    THE ONE PLACE THE NUMBER IS WRITTEN, so nothing can put it under a second, hand-typed
+    key. Before #177 this wrote a second copy under the deprecated `budget_agency_code`
+    (ADR 0003's expand half, #175); the field of record is the only key now, and
+    `budget-agency-code-retired` in check_registry() is what refuses the old one if
+    anything ever writes it again.
 
     IN PLACE, because the row object is shared. link_budget_codes.py holds the same dict in
     its slug index and in the organizations list, and returning a new row would update one
     of those and leave the other holding the old one.
 
-    The keys are re-inserted rather than assigned, so that what THIS function writes prints
-    the two copies of the number on adjacent lines — a plain assignment appends a new key at
-    the end of the row, which puts the second copy under `aliases`, three lines below the
-    first. That used to be a courtesy to the human reading the diff and not an invariant of
-    the file: before #182, `preserve_curated()` re-appended every curated key in frozenset
-    order, so a --refresh could reorder them or split the pair with `aliases`, differently
-    per run. `preserve_curated()` now appends in `curated_keys_in_order()`'s order — FIELDS's
-    own declaration order, das_agency_number/budget_agency_code/aliases/enabling_authority —
-    so a --refresh keeps the pair adjacent and lands it the same way every run. This
-    function's own re-insertion is still what keeps them adjacent on the FIRST write, before
-    any --refresh has had a row to append them to. Nothing depends on the order —
-    `deprecated-key-agrees` compares the VALUES.
+    The key is re-inserted rather than assigned, so a row that already carried a number
+    keeps it in the same position on a rewrite — a plain assignment would instead delete
+    and re-append it, moving it to the end past `aliases` and `enabling_authority`. A row
+    that carried no number gets it appended at the end, same as any other first write of a
+    curated field.
     """
     ordered, landed = {}, False
     for key, value in row.items():
-        if key in DAS_NUMBER_KEYS:
-            if not landed:
-                ordered.update(dict.fromkeys(DAS_NUMBER_KEYS, number))
-                landed = True
+        if key == "das_agency_number":
+            ordered[key] = number
+            landed = True
         else:
             ordered[key] = value
-    if not landed:      # a row that carried no number: the pair goes at the end
-        ordered.update(dict.fromkeys(DAS_NUMBER_KEYS, number))
+    if not landed:      # a row that carried no number: it goes at the end
+        ordered["das_agency_number"] = number
     row.clear()
     row.update(ordered)
 
@@ -2521,7 +2505,14 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
                                     "against it"))
             continue
         for key in o:
-            if key not in fields:
+            if key == BUDGET_AGENCY_CODE:
+                failures.append(Failure(
+                    "budget-agency-code-retired", _row_id(o, i),
+                    "budget_agency_code has reappeared — ADR 0003 renamed it to "
+                    "das_agency_number and #177 retired the deprecated alias for good. "
+                    "The field of record is das_agency_number; this key does not get "
+                    "declared back into FIELDS, it gets deleted"))
+            elif key not in fields:
                 failures.append(Failure(
                     "declared-field", _row_id(o, i),
                     f"field {key!r} is not declared in FIELDS — if it is curated, "
@@ -2540,30 +2531,6 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
     # committed file rather than its place among the rows that happened to be readable.
     rows = [(i, o) for i, o in enumerate(orgs) if isinstance(o, dict)]
 
-    # ONE NUMBER, TWO KEYS, WHICH MAY NOT DRIFT APART. DAS_NUMBER_KEYS is the EXPAND half of
-    # ADR 0003's rename, and a duplicated value is only safe while something states that the
-    # copies agree. A row carrying the number under one key and not the other is the failure
-    # that matters most: it does not look like an error from either side. Whichever consumer
-    # reads the key that is missing sees a body with no DAS agency number, and this registry
-    # is explicit that absence means no counterpart was found, never that nobody looked.
-    for i, o in rows:
-        held = {k: o[k] for k in DAS_NUMBER_KEYS if k in o}
-        if not held:
-            continue     # 109 bodies carry no number at all, which is not drift
-        absent = [k for k in DAS_NUMBER_KEYS if k not in o]
-        if absent:
-            failures.append(Failure(
-                "deprecated-key-agrees", _row_id(o, i),
-                f"the DAS agency number is on {', '.join(sorted(held))} but absent from "
-                f"{', '.join(absent)} — both keys are readable for one deprecation cycle "
-                "(#177 removes the old one), so a row carrying one and not the other reads "
-                "as 'no number' to whichever consumer read the other"))
-        elif len(set(held.values())) > 1:
-            failures.append(Failure(
-                "deprecated-key-agrees", _row_id(o, i),
-                f"the DAS agency number differs between its two keys ({held!r}) — one body "
-                "has one number, and nothing in the row says which of these is the "
-                "hand-reviewed one"))
     # THE ENABLING AUTHORITY'S THREE STATES, KEPT APART. A row carrying no key at all is
     # saying nobody has looked yet — however many rows that is today, which is the one state
     # this rule passes over in silence. Every row that DOES carry the key has been reviewed
@@ -3130,7 +3097,7 @@ def _fixture():
     das = scraped_entry(oar_name="Department of Administrative Services", oar_chapter="125",
                         raw_index_name="Dept. of Administrative Services",
                         source_url=f"{BASE}/rules/oar_chapter_125")
-    write_das_agency_number(das, "107")   # the pair, written the way every writer writes it
+    write_das_agency_number(das, "107")   # written the way every writer writes it
     # AN IMPOSSIBLE CITATION ON PURPOSE. This gate checks the FORM of an authority and
     # resolves nothing (link_enabling_authority.py --check does that, against the mirror),
     # and ORS has no chapter 999 — so the fixture exercises the field without asserting
@@ -3239,26 +3206,15 @@ def _case_missing_name(cat):
     del cat["organizations"][1]["name"]
 
 
-def _case_das_number_without_the_deprecated_key(cat):
-    """The number under its own name only. Every consumer still reading
-    `budget_agency_code` — 474 published documents' worth (#163) — silently loses this
-    body's number, and loses it as "this body has none" rather than as an error, which is
-    the state the deprecation cycle exists to make impossible."""
-    del cat["organizations"][0]["budget_agency_code"]
-
-
-def _case_deprecated_key_without_the_das_number(cat):
-    """The number under the deprecated name only — a row the rename skipped. It reads
-    clean to anyone still on the old key and reads as "no number" to everyone who has
-    already moved, so the half-migrated row is invisible from both sides."""
-    del cat["organizations"][0]["das_agency_number"]
-
-
-def _case_das_number_keys_disagree(cat):
-    """Two keys, two different numbers. Whichever a consumer read is the answer it got,
-    so one body's spending attaches to two identities — and nothing in the row says which
-    number is the reviewed one."""
-    cat["organizations"][0]["budget_agency_code"] = "999"
+def _case_budget_agency_code_reappears(cat):
+    """The retired key, written back onto a row exactly the way a stale writer or a bad
+    merge would put it there — #177's own mutation proof (its acceptance criterion 2 is
+    literally "--check fails if it reappears"). Every consumer that migrated to
+    `das_agency_number` (oregon-budget#49, oregon-kpm, oregon-stories) already ignores this
+    key; the risk this rule guards against is a FUTURE writer resurrecting it, silently,
+    with nothing to notice until a sibling corpus reads two disagreeing sources again."""
+    cat["organizations"][0]["budget_agency_code"] = cat["organizations"][0][
+        "das_agency_number"]
 
 
 def _case_enabling_authority_left_blank(cat):
@@ -3883,14 +3839,9 @@ _CASES = [
     ("missing-required-field", _case_missing_required_field, "required-field"),
     ("missing-oar-name", _case_missing_oar_name, "required-field"),
     ("missing-name", _case_missing_name, "required-field"),
-    # THE THREE WAYS THE TWO KEYS HOLDING THE DAS AGENCY NUMBER COME APART, which is the
-    # whole risk this deprecation cycle carries: one key holding what the other does not,
-    # in either direction, and the two holding different numbers.
-    ("das-number-without-the-deprecated-key", _case_das_number_without_the_deprecated_key,
-     "deprecated-key-agrees"),
-    ("deprecated-key-without-the-das-number", _case_deprecated_key_without_the_das_number,
-     "deprecated-key-agrees"),
-    ("das-number-keys-disagree", _case_das_number_keys_disagree, "deprecated-key-agrees"),
+    # THE RETIRED KEY, WRITTEN BACK — #177's own mutation proof.
+    ("budget-agency-code-reappears", _case_budget_agency_code_reappears,
+     "budget-agency-code-retired"),
     # THE THREE WAYS THE ENABLING AUTHORITY STOPS SAYING WHICH STATE A BODY IS IN: a value
     # that cites nothing, a blank, and a reviewed absence with no reason behind it.
     ("enabling-authority-that-is-not-an-authority",
@@ -3928,10 +3879,8 @@ _CASES = [
 #                   survival comparison as if the scrape rewrote it, while scraped_entry()
 #                   — the only thing that writes a scraped field — never produces it.
 #
-# Both name `das_agency_number` — the FIELD OF RECORD for the number, not the deprecated
-# `budget_agency_code` beside it. Either would demonstrate the mechanism today, because both
-# are curated; the deprecated one goes away with #177, and a proof pinned to it would have to
-# be repointed by whoever does that instead of just continuing to hold.
+# Both name `das_agency_number` — the field of record for the number, and since #177 the
+# only key it is ever declared under.
 _PROOFS = [
     ("curated-field-declared-manual-flag",
      dict(FIELDS, das_agency_number=Field(MANUAL_FLAG, required=False)),
@@ -4467,6 +4416,7 @@ das = c.scraped_entry(oar_name="Department of Administrative Services", oar_chap
 c.write_das_agency_number(das, "107")
 das["aliases"] = ["DAS"]
 das["enabling_authority"] = "ORS 999.999"
+das["curator_note"] = "fixture-only, not a claim about the real DAS"
 row = c.simulate_refresh([das])[das["slug"]]
 print(json.dumps(list(row)))
 """
@@ -4474,15 +4424,15 @@ print(json.dumps(list(row)))
 # FIELDS's curated columns, TRANSCRIBED BY HAND rather than read from `curated_keys_in_order()`
 # (#182 review). `curated_keys_in_order()` is the function under test, so computing "expected"
 # by calling it pins only cross-process AGREEMENT — two subprocesses independently landing the
-# WRONG order (`sorted()`, say: aliases, budget_agency_code, das_agency_number,
-# enabling_authority) would agree with each other and with a same-order call to the buggy
-# function, and an equality-only check against that call would pass. This tuple is what FIELDS
-# actually declares, copied by eye from the table above (das_agency_number, budget_agency_code,
-# aliases, enabling_authority) rather than derived from it, so a wrong-but-self-consistent order
-# is still caught. Reorder FIELDS's curated columns on purpose and this needs updating by hand
+# WRONG order (`sorted()`, say: aliases, das_agency_number, curator_note, enabling_authority)
+# would agree with each other and with a same-order call to the buggy function, and an
+# equality-only check against that call would pass. This tuple is what FIELDS actually
+# declares, copied by eye from the table above (curator_note, das_agency_number, aliases,
+# enabling_authority) rather than derived from it, so a wrong-but-self-consistent order is
+# still caught. Reorder FIELDS's curated columns on purpose and this needs updating by hand
 # to match — that is the point, not a maintenance cost: it is where the review AC2 asks for
 # ("stated where the keys are declared") would have to be re-confirmed by a human.
-_DECLARED_CURATED_ORDER = ("das_agency_number", "budget_agency_code", "aliases",
+_DECLARED_CURATED_ORDER = ("curator_note", "das_agency_number", "aliases",
                            "enabling_authority")
 
 
