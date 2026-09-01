@@ -552,10 +552,10 @@ the body in the state's financial administration and is not evidence that the bo
 money: semi-independent bodies carry a number and are explicitly outside the state's
 accounting system. It lives in `das_agency_number` on the registry entries that carry one,
 hand-reviewed in `src/link_budget_codes.py`; absence means no counterpart was found, never
-that none was sought. The same number is also written to `budget_agency_code`, the name the
-field carried before ADR 0003 — a deprecated key kept readable for one cycle so consumers
-can move at their own pace, and required by `catalog_agencies.py --check` to hold exactly
-what `das_agency_number` holds.
+that none was sought. The field carried a different name, `budget_agency_code`, before ADR
+0003; that name was kept readable as a deprecated alias for one cycle so consumers could move
+at their own pace, and was retired by #177 once they had — `catalog_agencies.py --check`
+now refuses the old key (`budget-agency-code-retired`) if it ever reappears.
 _Avoid_: Budget code, agency code, spending code — those name a consumer, not the identifier
 
 **Semi-independent**:

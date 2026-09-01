@@ -10,6 +10,35 @@ corpus-wide changes from 2026-08-02 forward.
 
 ## [Unreleased]
 
+### Removed
+- 2026-08-31 — **`budget_agency_code` retired from the agency registry** (#177, the
+  contract half of the two-step rename #175 began; parent #164 / ADR 0003). Deleted from
+  all 80 rows that carried it, along with the sentence in the registry's own top-level
+  `note` describing the pair. `das_agency_number` is now the only key the number is
+  written under: `write_das_agency_number()` (`src/catalog_agencies.py`) writes one key,
+  not two, and `link_budget_codes.py` writes and checks only that field. The equality
+  assertion the deprecation cycle depended on (`deprecated-key-agrees`) is gone with the
+  second key it compared; in its place, `catalog_agencies.py --check` gained
+  `budget-agency-code-retired`, which fails any row where the old key reappears — proved
+  by `--selftest`'s `budget-agency-code-reappears` case, which writes the key back onto a
+  fixture row and asserts the rule fires.
+
+  Confirmed safe before deleting: every one of the 80 rows carried both keys with equal
+  values on the committed registry (verified directly against `_meta/catalog/agencies.yml`
+  before this change), so no data was lost and no side was silently chosen. Re-verified the
+  fleet against each sibling repo's `origin/main` immediately before this change
+  (`git grep -l budget_agency_code origin/main`, run from a fresh clone of each repo):
+  `oregon-budget` carries it only in its #37 dual-key detection guard
+  (`build_joins.py:112,116`, which reads either key on purpose and needs no change), a code
+  comment explaining the absence of a fallback (`link_agency_registry.py:375`), its own
+  CHANGELOG, and tests asserting the deprecated key resolves to nothing
+  (`test_agency_crosswalk.py`, `test_registry_join.py`); `oregon-kpm` carries it only in a
+  comment pointing readers at `das_agency_number`; `oregon-stories` carries it only in
+  comments and `test_the_deprecated_budget_agency_code_joins_nothing`, which asserts the
+  deprecated key joins nothing. `oregon-counties`, `oregon-audits`, `federal-reference`,
+  `oregon-legislature`, `oregon-collective-bargaining`, `corpus-gateway` and `corpus-chat`
+  carry no occurrence at all. No repo reads the key for a live join.
+
 ### Fixed
 - 2026-08-30 — **#341: `stated_census.py --check` had no floor, so a document's tagged-figure
   coverage could drop to zero and the run stayed green.** A stated figure, or a whole

@@ -621,10 +621,10 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   `chapterless_source_url_census()`, computed from the committed rows the same run.
   The DAS agency number (CONTEXT.md) lives in `das_agency_number`, written by
   `python3 src/link_budget_codes.py` from the hand-reviewed table in that file, whose
-  `--check` verifies the registry against that table. The deprecated `budget_agency_code`
-  holds the same number for one more cycle (ADR 0003, removed by #177); that the two agree
-  is a rule of the registry's contract, so it is `catalog_agencies.py --check` that fails a
-  row where they disagree or where only one of them is present.
+  `--check` verifies the registry against that table. It carried a deprecated alias,
+  `budget_agency_code`, for one cycle (ADR 0003) until #177 retired it; the field of record
+  is now the only key, and `catalog_agencies.py --check`'s `budget-agency-code-retired`
+  fails any row where the old key reappears.
   The enabling authority (CONTEXT.md) lives in `enabling_authority`, written by
   `python3 src/link_enabling_authority.py --apply` from the hand-reviewed `MAPPED` /
   `UNMAPPED` tables in that file — its single writer, the same arrangement the DAS number
