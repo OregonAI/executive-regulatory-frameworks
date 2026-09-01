@@ -175,9 +175,9 @@ _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a 
 **Legal status**:
 Whether a rule is in force. It lives in the document's `status` frontmatter field, whose values
 corpus-toolkit's schema fixes as `current | superseded | repealed | proposed | draft`, and it
-is a claim about Oregon law. Measured over the committed corpus: 40,442
-<!--census:legal_status_docs.status_current--> rules read `current`, 2,085
-<!--census:legal_status_docs.status_repealed--> `repealed` and 34
+is a claim about Oregon law. Measured over the committed corpus: 40,438
+<!--census:legal_status_docs.status_current--> rules read `current`, 2,086
+<!--census:legal_status_docs.status_repealed--> `repealed` and 37
 <!--census:legal_status_docs.status_superseded--> `superseded`, computed by
 `legal_status.document_status_counts()` and printed on every `legal_status.py --check` run
 — a DIFFERENT MEASUREMENT from that module's own `census()`, which counts WRITE SITES in
@@ -194,7 +194,7 @@ assert only where nothing better is known. A Bulletin-set status is carried on t
 row in `legal_status` and stamped onto the document from there, so the catalog writes and the
 document reads. `legal_status.py --check` fails if a second writer appears and `--selftest`
 proves it, a re-ingest overwriting a Bulletin-set status included. Since #229 the August 2026
-bulletin's 66 <!--census:legal_status_docs.filed_repeal--> repeals and 34
+bulletin's 67 <!--census:legal_status_docs.filed_repeal--> repeals and 37
 <!--census:legal_status_docs.filed_suspend--> suspensions
 against rules held here are recorded, and the rules
 are MARKED AND KEPT — path, ingest status and document untouched, because deleting a repealed
@@ -221,8 +221,8 @@ separately (and can diverge; `--selftest` proves it) precisely so that agreement
 visible as a measurement rather than an assumption. So a
 suspension is stamped `superseded`, the strongest thing the shared enum can
 truthfully say (this is not the operative text right now), and the action is what says the
-loss is temporary (the gap in the shared enum is corpus-toolkit#159). Without it, 34
-<!--census:legal_status_docs.filed_suspend--> suspended rules and 66
+loss is temporary (the gap in the shared enum is corpus-toolkit#159). Without it, 37
+<!--census:legal_status_docs.filed_suspend--> suspended rules and 67
 <!--census:legal_status_docs.filed_repeal--> repealed ones
 would be one undifferentiated set, which is the collapse #229 exists to prevent.
 _Avoid_: Bulletin action, filing type — a filing also adopts, amends and renumbers, and those
