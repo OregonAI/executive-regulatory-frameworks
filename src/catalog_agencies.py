@@ -1518,23 +1518,15 @@ def write_das_agency_number(row: dict, number) -> None:
     its slug index and in the organizations list, and returning a new row would update one
     of those and leave the other holding the old one.
 
-    The key is re-inserted rather than assigned, so a row that already carried a number
-    keeps it in the same position on a rewrite — a plain assignment would instead delete
-    and re-append it, moving it to the end past `aliases` and `enabling_authority`. A row
-    that carried no number gets it appended at the end, same as any other first write of a
-    curated field.
+    A plain assignment: Python dicts keep an existing key's position on reassignment and
+    only append on first insertion, so a row that already carried a number keeps its
+    position and a row that carried none gets it appended at the end, same as any other
+    first write of a curated field. Before #177, when this also wrote a second copy under
+    the deprecated `budget_agency_code` key, the rebuild-and-reinsert here kept the two
+    keys adjacent; with `das_agency_number` the only key left to write, that reason is
+    gone and the rebuild is exactly equivalent to this assignment.
     """
-    ordered, landed = {}, False
-    for key, value in row.items():
-        if key == "das_agency_number":
-            ordered[key] = number
-            landed = True
-        else:
-            ordered[key] = value
-    if not landed:      # a row that carried no number: it goes at the end
-        ordered["das_agency_number"] = number
-    row.clear()
-    row.update(ordered)
+    row["das_agency_number"] = number
 
 
 def get(url: str) -> str:
@@ -3644,10 +3636,9 @@ def _case_slug_the_scrape_would_not_produce(cat):
     rebuilds the row under the DERIVED slug, so the hand-edited row — and the curated
     fields riding on it — is not preserved onto anything; it just stops existing.
 
-    The number is written by write_das_agency_number() rather than assigned, so this case
-    breaks exactly one rule: setting one of the two keys by hand would also trip
-    `deprecated-key-agrees`, and a case that fires two rules stops saying which one it is
-    about."""
+    The number is written by write_das_agency_number() rather than hand-assigned, same as
+    every other writer since #177 — that function is THE ONE PLACE das_agency_number is
+    written, not a special case for this fixture."""
     write_das_agency_number(cat["organizations"][1], "107")
     cat["organizations"][1]["slug"] = "cfo"
 
@@ -4450,8 +4441,11 @@ def _proof_curated_keys_survive_in_declaration_order() -> int:
     Demonstrated failing by reverting the fix locally and re-running: two runs of the
     reproduction in #182's own report (three, even) landed `aliases` in three different
     positions relative to `das_agency_number` and `budget_agency_code` — the same two keys
-    #175 deliberately writes adjacent. Reverting `preserve_curated()`'s default back to
-    `CURATED_KEYS` here reproduces exactly that.
+    #175 deliberately wrote adjacent, before #177 retired `budget_agency_code` for good.
+    Reverting `preserve_curated()`'s default back to `CURATED_KEYS` here still reproduces a
+    PYTHONHASHSEED-driven reordering, now among today's curated keys — `curator_note`,
+    `das_agency_number`, `aliases`, `enabling_authority` — though not the exact #182
+    symptom, which needed a key this branch retired.
 
     Checks the FULL row from each seed, not only its curated keys, so a --refresh that
     reordered something else in the row would also fail this — the closest this module gets
