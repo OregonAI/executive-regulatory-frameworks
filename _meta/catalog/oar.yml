@@ -16829,6 +16829,9 @@ chapters:
     - number: 170-002-0147
       status: ingested
       path: rules/170/002/oar-170-002-0147.md
+      legal_status: repealed
+      legal_status_action: repeal
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 170-002-0150
       status: ingested
       path: rules/170/002/oar-170-002-0150.md
@@ -28145,6 +28148,9 @@ chapters:
     - number: 309-035-0158
       status: ingested
       path: rules/309/035/oar-309-035-0158.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 309-035-0163
       status: ingested
       path: rules/309/035/oar-309-035-0163.md
@@ -57395,6 +57401,9 @@ chapters:
     - number: 411-057-0165
       status: ingested
       path: rules/411/057/oar-411-057-0165.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 411-057-0170
       status: ingested
       path: rules/411/057/oar-411-057-0170.md
@@ -95195,6 +95204,9 @@ chapters:
     - number: 635-016-0500
       status: ingested
       path: rules/635/016/oar-635-016-0500.md
+      legal_status: superseded
+      legal_status_action: suspend
+      legal_status_notice: August 2026 (bulltnRsn=1761)
     - number: 635-016-0510
       status: ingested
       path: rules/635/016/oar-635-016-0510.md

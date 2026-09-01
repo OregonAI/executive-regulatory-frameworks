@@ -669,16 +669,18 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 92.990` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 94.785` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 
-## Rules the Oregon Bulletin took out of force — verify each (100)
+## Rules the Oregon Bulletin took out of force — verify each (104)
 
 The Bulletin is the official monthly digest of rule filings, and these are the rules it repealed or suspended that this corpus holds. Per ADR 0006 the document is MARKED and KEPT: every citation pointing at it still resolves, and its `status` frontmatter now says it is not current text. An amendment is a text refresh that re-ingests on its own; a claim about legal FORCE is not applied silently, which is why these are listed here. A SUSPENSION IS NOT A REPEAL — every suspension Oregon files carries an end date, so check whether one has lapsed before treating the rule as gone. Derived from `_meta/catalog/oar.yml` (`legal_status`), written by `python3 src/legal_status.py --mark`; verify each against the bulletin named beside it and record the review in the file.
 
 - `OAR 165-002-0010` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 170-002-0147` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 250-020-0161` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 291-082-0105` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 291-082-0110` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 291-104-0111` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 291-104-0125` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 309-035-0158` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 350-011-0001` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 350-011-0003` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 350-011-0004` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
@@ -725,12 +727,14 @@ The Bulletin is the official monthly digest of rule filings, and these are the r
 - `OAR 411-057-0110` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 411-057-0140` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 411-057-0160` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 411-057-0165` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 411-057-0170` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 461-135-0880` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 461-145-0455` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 461-170-0011` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 635-004-0275` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 635-004-0585` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
+- `OAR 635-016-0500` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 635-041-0076` — suspend — the document is stamped `status: superseded` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 695-046-0195` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
 - `OAR 813-001-0002` — repeal — the document is stamped `status: repealed` and stays retrievable; filed in August 2026 (bulltnRsn=1761)
