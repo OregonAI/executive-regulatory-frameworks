@@ -205,13 +205,40 @@ def report_due() -> int:
     return unreadable
 
 
-def doc_paths_by_id():
-    m = {}
-    for p in content_files():
-        fm, _ = parse_frontmatter(p)
-        m.setdefault(fm.get("snapshot_id") or fm["id"], []).append(p)
-        m.setdefault(fm["id"], []).append(p)
-    return m
+_DOC_PATHS_BY_ID_CACHE = {}
+
+
+def doc_paths_by_id(dirs=None):
+    """`snapshot_id`/`id` -> the document path(s) that carry it, across the corpus (or,
+    with `dirs`, across only the content directories named -- see `_CHAPTER_HTML_DIRS`
+    below for the one caller that scopes it, and why that scope is provably complete for
+    what it asks).
+
+    MEMOIZED per `dirs`, process-lifetime. Every caller in this file wants the answer for
+    the SAME corpus: `check_group()` (below) runs once per source group under `--all` /
+    `--refresh` -- up to 19 times in one process, one per file under `_meta/sources/` --
+    and `_chapter_html_id_accounting()` runs it under `--check`. Measured before this
+    cache existed: ~74-85s PER CALL (content_files() walks and parse_frontmatter() reads
+    every document in scope), so a 19-group `--all` run paid to rebuild an identical map
+    19 times, and `--check` alone was measured within ~1.5s of a bare single call -- the
+    whole cost of `--check` is this one walk. `check_group()` (below) DOES mutate content
+    documents mid-run, via `ingest_lib.refresh_document()` -- but never in a way this cache
+    would need to see: `refresh_document()` rewrites `retrieved`, `source_sha256`,
+    `conversion_notes` and `## Full text` in place on the SAME path it was given, and
+    never touches `id` or `snapshot_id` (the two keys this map is built from) or adds or
+    removes a document (a refreshed snapshot lands under `_meta/snapshots/`, outside
+    CONTENT_DIRS entirely). So no call in this process, at any point, could see a set of
+    id-to-path mappings a fresh walk would disagree with -- caching this is
+    correctness-preserving, not an approximation."""
+    key = tuple(sorted(dirs)) if dirs is not None else None
+    if key not in _DOC_PATHS_BY_ID_CACHE:
+        m = {}
+        for p in content_files(dirs=dirs):
+            fm, _ = parse_frontmatter(p)
+            m.setdefault(fm.get("snapshot_id") or fm["id"], []).append(p)
+            m.setdefault(fm["id"], []).append(p)
+        _DOC_PATHS_BY_ID_CACHE[key] = m
+    return _DOC_PATHS_BY_ID_CACHE[key]
 
 
 def check_group(gpath, g, refresh, today):
@@ -531,6 +558,36 @@ def _ors_empty_chapter_ids(catalog=None) -> set:
             for c in catalog.get("chapters", []) if not c.get("sections")}
 
 
+# THE WALK doc_paths_by_id() DOES NOT NEED. #287's rule tests 548 chapter-html source ids
+# for membership; building the FULL id index first (81,921 documents, 82,453 id keys once
+# each document's `id` and, where distinct, its `snapshot_id` are both indexed -- ~74-85s
+# of disk and YAML parsing) to answer that is doing 150x the reading this rule needs. But
+# scoping the walk is only safe where it is PROVEN safe, not assumed: `ingest_ors.py`
+# writes every ORS chapter slice into statutes/ and nowhere else, `ingest_constitution.py`
+# (ADR 0005) writes the constitution's one document into constitution/ and nowhere else,
+# and `ors` and `constitution` are the only two `chapter-html` groups this corpus declares today
+# (`grep -l 'kind: chapter-html' _meta/sources/*.yml`, verified 2026-09-02) -- so a
+# snapshot_id or id any chapter-html group's source could match was never going to be
+# found under rules/, agencies/, executive-orders/ or external-references/, which together
+# hold more than half this corpus's documents. `_chapter_html_scope()` checks that
+# assumption at runtime rather than baking it in silently: every chapter-html group
+# actually present must be one of the two names this scope was measured against, or the
+# scope is refused and the caller walks the whole corpus instead (slower, never wrong) --
+# the same "scoped by name, not granted to every group of this kind" discipline
+# `_ors_empty_chapter_ids`'s own exemption already uses one function up.
+_CHAPTER_HTML_DIRS = ("statutes", "constitution")
+_CHAPTER_HTML_GROUP_NAMES = {"ors", "constitution"}
+
+
+def _chapter_html_scope(groups):
+    """`_CHAPTER_HTML_DIRS` if every `chapter-html` group in `groups` is one that scope
+    was proven against, else `None` (walk the whole corpus) -- a chapter-html group under
+    a name this list does not know is not assumed to write into the same two directories,
+    so it gets the safe, unscoped answer rather than a silently incomplete one."""
+    names = {g.get("group") for _, g in groups if g.get("kind") == "chapter-html"}
+    return _CHAPTER_HTML_DIRS if names and names <= _CHAPTER_HTML_GROUP_NAMES else None
+
+
 _ChapterHtmlAccounting = namedtuple(
     "_ChapterHtmlAccounting", "verified exempt failures content_dir_error")
 
@@ -563,7 +620,7 @@ def _chapter_html_id_accounting(groups=None, doc_ids=None, ors_empty=None):
     groups = list(source_groups() if groups is None else groups)
     if doc_ids is None:
         try:
-            doc_ids = set(doc_paths_by_id())
+            doc_ids = set(doc_paths_by_id(dirs=_chapter_html_scope(groups)))
         except MissingContentDir as e:
             failure = Failure(
                 "chapter-html-content-dir-readable", "content_files()",
@@ -987,7 +1044,7 @@ def _proof_chapter_html_accounting_reports_an_unreadable_content_dir_rather_than
     global doc_paths_by_id
     orig = doc_paths_by_id
 
-    def _raises():
+    def _raises(dirs=None):
         raise MissingContentDir("rules: declared but not on disk (fixture)")
 
     doc_paths_by_id = _raises
@@ -1018,6 +1075,48 @@ def _proof_chapter_html_accounting_reports_an_unreadable_content_dir_rather_than
     if not isinstance(result.content_dir_error, MissingContentDir):
         print(f"FAIL content_dir_error must carry the original exception, got "
               f"{result.content_dir_error!r}", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_chapter_html_scope_falls_back_to_the_whole_corpus_when_unproven():
+    """`_chapter_html_scope()` is the entire safety argument the `statutes`/`constitution`
+    walk-scoping optimization rests on -- nothing had proved it can actually fall back
+    before this. Four shapes: (1) only the two names the scope was measured against ->
+    the scoped dirs; (2) a THIRD chapter-html group this scope was never checked against
+    -> None (whole-corpus, slower, never wrong), not silently trusted as covered; (3) no
+    chapter-html group at all (a `--check` run against a corpus with none declared) ->
+    None, the same safe default; (4) an empty group list -> None, not a vacuous 'every
+    known name is present' true."""
+    bad = 0
+    _, g_ors = _group_fixture(kind="chapter-html", group="ors")
+    _, g_const = _group_fixture(kind="chapter-html", group="constitution")
+    _, g_other = _group_fixture(kind="chapter-html", group="oar")
+    _, g_not_chapter_html = _group_fixture(kind="listing", group="ors")
+
+    got = _chapter_html_scope([("ors.yml", g_ors), ("constitution.yml", g_const)])
+    if got != _CHAPTER_HTML_DIRS:
+        print(f"FAIL both proven chapter-html group names must scope to "
+              f"{_CHAPTER_HTML_DIRS!r}, got {got!r}", file=sys.stderr)
+        bad += 1
+
+    got = _chapter_html_scope([("ors.yml", g_ors), ("oar.yml", g_other)])
+    if got is not None:
+        print(f"FAIL an UNPROVEN chapter-html group name alongside a proven one must "
+              f"fall back to None (whole corpus), not trust the scope anyway: {got!r}",
+              file=sys.stderr)
+        bad += 1
+
+    got = _chapter_html_scope([("listing.yml", g_not_chapter_html)])
+    if got is not None:
+        print(f"FAIL no chapter-html group present must fall back to None, not "
+              f"{got!r}", file=sys.stderr)
+        bad += 1
+
+    got = _chapter_html_scope([])
+    if got is not None:
+        print(f"FAIL an empty group list must fall back to None, not {got!r}",
+              file=sys.stderr)
         bad += 1
     return bad
 
@@ -1417,7 +1516,8 @@ _MEASURED = [_proof_due_reports_an_undeclared_cadence_rather_than_raising,
              _proof_a_well_formed_phase_validates_against_the_committed_schema,
              _proof_chapter_html_id_accounting_is_scoped_correctly,
              _proof_ors_empty_chapter_ids_reads_the_catalogs_own_accounting,
-             _proof_chapter_html_accounting_reports_an_unreadable_content_dir_rather_than_raising]
+             _proof_chapter_html_accounting_reports_an_unreadable_content_dir_rather_than_raising,
+             _proof_chapter_html_scope_falls_back_to_the_whole_corpus_when_unproven]
 
 _PROOFS = [
     ("a cadence declared in the checker and not the schema",
