@@ -35,10 +35,86 @@ FOUR PROPERTIES MATTER MORE THAN THE ERGONOMICS (#318's acceptance criteria):
      non-selftest gates; every `--selftest` gate then runs alone, one at a time, after the
      parallel pool has fully drained.
 
-OUT OF SCOPE (#318): changing the sharding, the manifest, or any gate's own logic; making
-this script itself a CI gate (CI already runs the gates -- this is the local mirror).
+OUT OF SCOPE (#318): changing the sharding, or any gate's own logic; making this script
+itself a CI gate (CI already runs the gates -- this is the local mirror). The manifest's
+`seconds:` COLUMN is now IN scope, narrowly: #359 (below) found it can drift arbitrarily
+far from reality with nothing catching it, including this very script, which measures
+every gate's real cost and used to throw the number away unread. Checking and correcting
+that one column is additive to #318's own job -- this section does not touch the
+sharding, gate discovery, or gate logic #318 put out of scope, and does not make this
+script itself a CI gate either (see REPORT, NOT (SILENTLY) PASS below for why running
+locally and exiting non-zero is not the same thing).
+
+DECLARED-COST DRIFT (closing #359). #359 found
+`.github/generated-views-manifest.yml` declaring 0.7s for a gate that actually cost 40.1s
+(measured 82.5s/81.3s before a cache+scope fix to `check_updates.py`'s corpus walk, still
+40.1s after it) -- wrong by two orders of magnitude, and NOTHING caught it:
+`shard_generated_views.py --check` only verifies gate EXISTENCE and shard PLACEMENT
+against the manifest, never the declared `seconds:` figure against a real measurement.
+This module already measures every gate's real wall-clock (`GateResult.seconds`) and, per
+its own docstring above, used to throw that number away the moment it was printed.
+`--check-drift` (on by default for a `-j 1` run; skipped, not silently trusted, at `-j
+>1`) compares each measured second against the manifest's declared one and reports every
+gate whose ratio clears `DRIFT_RATIO_THRESHOLD`. `--refresh-manifest` writes the measured
+numbers back, so "hand-edit the YAML" -- how #359's own 0.7s got stale in the first
+place -- stops being the only way to correct it. #359 itself asked whether local timing is
+even representative of CI's; it is not answered here, because it cannot be from local
+data alone -- see the CI paragraph below.
+
+THE THRESHOLD (`DRIFT_RATIO_THRESHOLD = 4.0`), justified from measured spread, not a round
+number picked in the abstract. One data point anchors the REAL-drift side, a real
+measurement, not an estimate: this repo's known real drift is 0.7s declared vs 40.1s
+measured, a 57x ratio. NO CI figure anchors it on that side, honestly: CI never
+completed this gate's step even once after the accounting #359 traces the drift to was
+added -- every post-#287 run was killed by the step's own `timeout-minutes` ceiling before
+finishing (see the workflow's own comment on this step for the measured shape of that),
+so there is no CI-measured number for the unscoped work to compare against, faster or
+slower, and none is claimed here. The last CI runs that DID complete this step, before
+that accounting landed, measured 4s each -- faster than local, the opposite of what would
+make 57x look aggressive. Absent a completed CI measurement, 57x stands as the only real
+anchor, and it is treated as conservative on that basis alone, not backed by a second,
+faster-than-local data point that does not exist. This repo's known NOISE is the rest of
+the manifest: `check_all.py` itself, run three times back to back on this warm checkout
+while calibrating this feature (this branch's own measurement, not any prior commit's),
+varied by at most ~1% run to run (82.5s/81.3s, 40.1s/40.1s/40.4s) --
+and the four gates with the most declared/measured headroom on record (`Relationship graph`
+81.7s declared, `STATUS.md` 69.2s, `External-citation catalog` 90.8s, `A snapshot's two
+spellings` 33.8s) all sit within the 1.0x-1.1x band when measured, the "noise" example this
+ticket was handed (81.7s declared vs ~90s measured is noise). 4x sits an order of magnitude
+above the highest noise ever observed on this repo (~1.1x) and well under two orders of
+magnitude below the smallest real drift on record (57x) -- there is no measured data point
+anywhere near the middle of that gap to place the line more precisely, so it is placed with
+maximum margin on both sides rather than split arbitrarily.
+
+MACHINE TIMING VARIANCE. Two guards, not one, keep this from becoming noise on a slower or
+busier machine: (1) drift is computed ONLY against a `-j 1` (serial, uncontended) run --
+`-j >1` gates are already documented as up to 3.2x inflated by oversubscription (#331), and
+comparing THAT number to a serial-measured manifest would manufacture drift out of pure
+contention, so `--check-drift` is skipped outright at `-j >1`, with a note saying why, not
+silently computed and printed as if trustworthy. (2) the 4x threshold has real headroom on
+BOTH sides in ratio terms, not just in raw distance: 4x / 1.1x (the highest noise measured)
+is ~3.6x of margin above typical noise, and 57x / 4x (the smallest confirmed real drift) is
+~14x of margin below it. A machine running every gate more than ~3.6x slower, uniformly,
+than this checkout would be needed before a currently-honest gate's ratio alone crossed 4x
+and false-flagged -- and that same uniform slowdown would still leave a genuine 57x drift
+enormously over the line, not anywhere near it. A gate whose measured
+cost is also close to its own workflow `timeout-minutes` is flagged as a separate NOTE
+(not gated by the ratio) since that is a distinct risk (the run may itself be at genuine
+risk of a CI timeout) from "the declared number in the manifest is stale."
+
+REPORT, NOT (SILENTLY) PASS: `cmd_run`'s exit code goes non-zero if drift is found, same as
+a failed or errored gate, printed in its own section so a reader never confuses "a gate's
+own check disagreed with reality" with "the manifest's cost figure disagreed with reality."
+Reporting-only was considered and rejected: a run that finds a gate declared at 0.7s costing
+40x that and still exits 0 is the exact shape of defect this repo's `check_rule_ledger.py`
+and `stated_census.py` both exist to refuse elsewhere (a check that found a problem and said
+nothing is not a check). This script staying "not a CI gate" (the #318 scope note above)
+means no workflow step runs `check_all.py` itself -- it says nothing about what a human
+running it locally should see when it finds a stale figure the same class of bug already
+took `main` down over.
 """
 import argparse
+import re
 import shlex
 import subprocess
 import sys
@@ -74,6 +150,45 @@ SHELL_DISPATCH_FAILURE_CODES = {126, 127}
 # case is checked for directly, before the subprocess ever starts, rather than inferred from
 # an exit code shared with an ordinary failure.
 _SCRIPT_INTERPRETERS = {"python3", "python"}
+
+# See the module docstring's DECLARED-COST DRIFT section for the measured justification.
+DRIFT_RATIO_THRESHOLD = 4.0
+
+# When even the LARGER of declared/measured is under this many seconds, a ratio is
+# meaningless noise -- a gate declared at 0.0s (rounds anything under ~0.05s) measuring
+# 0.3s is technically "infinite" drift and is really just subprocess-startup jitter
+# (measured: a bare `python3 src/foo.py --selftest` with near-nothing to do costs
+# 0.04s-0.27s on this checkout). Below this floor, drift is judged on absolute seconds
+# instead of a ratio; at or above it, a fixed multiple is used against the smaller
+# number (floored only at DRIFT_RATIO_MIN_DENOMINATOR, a numerical safety rail, not a
+# second dampener) -- deliberately NOT "both numbers must clear the floor": a gate
+# measured well above the floor with a small declared figure (found live on this
+# checkout: "The monthly Bulletin report must file one issue, or none", 0.7s declared,
+# ~3.1s measured three times running, 4.4-4.5x) is exactly the shape of drift this
+# exists to catch, and requiring the SMALL side to also clear the floor would have
+# hidden it by construction.
+DRIFT_FLOOR_SECONDS = 2.0
+# The absolute-seconds rule that applies only when BOTH numbers are under the floor
+# above (so both are always < DRIFT_FLOOR_SECONDS apart by construction): flag it if
+# they differ by more than this many seconds even though neither alone clears the
+# floor. MUST stay strictly below DRIFT_FLOOR_SECONDS or this branch becomes
+# unreachable (caught by this module's own --selftest).
+DRIFT_FLOOR_ABS_SECONDS = 1.0
+# Purely a division-by-zero guard for the ratio branch (declared or measured can be
+# exactly 0.0) -- NOT a second noise dampener the way flooring at DRIFT_FLOOR_SECONDS
+# would be; that dampening already happens by routing anything with max < the floor
+# into the absolute-difference branch above instead.
+DRIFT_RATIO_MIN_DENOMINATOR = 0.01
+
+# A gate whose measured cost eats more than this fraction of its OWN workflow step's
+# timeout-minutes is flagged as a separate note, regardless of manifest drift -- the
+# `check_updates.py --check` gate #359 traces the drift to is fine on this axis after the
+# cache+scope fix (40.1s against the raised 300s/5min timeout) but was NOT fine before it
+# in CI specifically: its step was killed by its own 2-minute `timeout-minutes` ceiling on
+# every one of the five runs that turned `main` red, never a clean pass or fail (see the
+# workflow's own comment on that step), so this is worth surfacing even on a gate whose
+# declared manifest figure happens to still be honest.
+TIMEOUT_HEADROOM_WARN_FRACTION = 0.5
 
 
 def _missing_script(run_cmd: str):
@@ -209,6 +324,145 @@ def run_all(gates, jobs=1, timeout=DEFAULT_TIMEOUT_SECONDS) -> list:
     return results
 
 
+# ---- declared-cost drift (module docstring's DECLARED-COST DRIFT section) ----
+
+@dataclass
+class DriftResult:
+    name: str
+    declared: float
+    measured: float
+    gate_status: str  # the underlying gate's "pass"/"fail" -- informational only here
+    ratio: float | None  # None when judged by the below-floor absolute rule instead
+    drifted: bool
+    reason: str
+
+
+def compute_drift(results, manifest_gates) -> list:
+    """One DriftResult per gate that has BOTH a real result and a manifest entry -- a
+    gate the manifest has never heard of (nightly-only, out of PR-tier scope by design,
+    see shard_generated_views.py's own module docstring) has nothing to compare against
+    and is silently excluded here, not flagged as drifted.
+
+    Only "pass"/"fail" results are compared. An "error" result (timeout, missing
+    script) measures how long the harness waited before giving up, not how long the
+    gate actually takes -- comparing THAT to a declared cost would manufacture drift
+    out of a completely different, already separately-reported problem."""
+    declared_by_name = {g["name"]: float(g["seconds"]) for g in manifest_gates}
+    out = []
+    for r in results:
+        name = r.gate.name
+        if name not in declared_by_name or r.status not in ("pass", "fail"):
+            continue
+        declared, measured = declared_by_name[name], r.seconds
+        if max(declared, measured) < DRIFT_FLOOR_SECONDS:
+            diff = abs(measured - declared)
+            drifted = diff > DRIFT_FLOOR_ABS_SECONDS
+            ratio = None
+            reason = (f"declared {declared:.2f}s, measured {measured:.2f}s -- both under "
+                      f"the {DRIFT_FLOOR_SECONDS:.0f}s floor, judged by absolute "
+                      f"difference ({diff:.2f}s vs a {DRIFT_FLOOR_ABS_SECONDS:.0f}s limit)")
+        else:
+            hi = max(declared, measured)
+            lo = max(min(declared, measured), DRIFT_RATIO_MIN_DENOMINATOR)
+            ratio = hi / lo
+            drifted = ratio >= DRIFT_RATIO_THRESHOLD
+            reason = f"declared {declared:.1f}s, measured {measured:.1f}s ({ratio:.1f}x)"
+        out.append(DriftResult(name, declared, measured, r.status, ratio, drifted, reason))
+    return out
+
+
+def _step_timeout_minutes(workflow_path=None) -> dict:
+    """{gate name: timeout-minutes} for every named+run step in ANY job the workflow
+    defines. A purely local, additive read of the already-parsed workflow doc: this is
+    not a duplicate of shard_generated_views.py's "one parser" of gate steps (name+run,
+    matched against the manifest) -- timeout-minutes appears in neither the manifest
+    nor any comparison that module makes, so nothing there already owns reading it."""
+    workflow_path = workflow_path or WORKFLOW
+    doc = shard._yaml_load_workflow(workflow_path.read_text())
+    out = {}
+    for job in doc.get("jobs", {}).values():
+        for step in job.get("steps", []):
+            if "name" in step and "run" in step and "timeout-minutes" in step:
+                out[step["name"]] = step["timeout-minutes"]
+    return out
+
+
+def timeout_headroom_notes(results) -> list:
+    """One string per gate whose measured cost already eats more than
+    TIMEOUT_HEADROOM_WARN_FRACTION of its OWN workflow step's timeout-minutes --
+    independent of manifest drift, since a gate can have an honest declared figure and
+    still be one slow CI runner away from a real timeout (the `check_updates.py --check`
+    gate #359 traces the drift to measured 40.1s locally against a 300s timeout after the
+    cache+scope fix, comfortable; the SAME unscoped work, in CI, never finished the step
+    at all -- its own 2-minute timeout killed it on every one of the five runs that turned
+    `main` red)."""
+    timeouts = _step_timeout_minutes()
+    notes = []
+    for r in results:
+        limit = timeouts.get(r.gate.name)
+        if limit is None or r.status == "error":
+            continue
+        limit_seconds = limit * 60
+        if limit_seconds <= 0:
+            continue
+        fraction = r.seconds / limit_seconds
+        if fraction >= TIMEOUT_HEADROOM_WARN_FRACTION:
+            notes.append(f"{r.gate.name!r}: measured {r.seconds:.1f}s is {fraction:.0%} of "
+                         f"its {limit}-minute step timeout ({limit_seconds:.0f}s)")
+    return notes
+
+
+def refresh_manifest(results, manifest_path=None):
+    """Rewrite `seconds:` in the manifest to each gate's just-measured cost, preserving
+    every comment and every other field byte-for-byte -- a regex substitution over the
+    manifest's own file text, not a YAML round-trip (`yaml.safe_load` + a plain `dump`
+    would silently discard every explanatory comment the file carries, including the
+    one this branch's own hand-made 0.7s -> 40.1s correction added to explain itself,
+    while calibrating this feature -- see #359). Returns
+    (new_text, [(name, old_seconds, new_seconds), ...]) for every entry actually
+    changed -- the caller decides whether to write it and what to print.
+
+    Only "pass"/"fail" results are eligible, for the same reason `compute_drift` only
+    compares those two statuses: an "error" result's timing is how long the harness
+    waited, not how long the gate takes, and writing that into the manifest would
+    plant a new version of the exact bug this whole feature exists to catch."""
+    manifest_path = manifest_path or shard.MANIFEST
+    text = manifest_path.read_text()
+    measured_by_name = {r.gate.name: r.seconds for r in results if r.status in ("pass", "fail")}
+
+    name_re = re.compile(r'^(\s*-\s*name:\s*")([^"]*)("\s*)$')
+    seconds_re = re.compile(r'^(\s*seconds:\s*)([0-9.]+)(\s*)$')
+    # A comment or blank line between `name:` and `seconds:` (this branch's own manifest
+    # correction, #359, added exactly this shape) must not make the scan give up on the entry --
+    # only content that is neither the seconds line nor a comment/blank line abandons it,
+    # as a safety rail against guessing across a genuinely malformed entry.
+    comment_or_blank_re = re.compile(r'^\s*(#.*)?$')
+
+    lines = text.splitlines(keepends=True)
+    changed = []
+    pending_name = None
+    for i, raw in enumerate(lines):
+        line = raw.rstrip("\r\n")
+        nm = name_re.match(line)
+        if nm:
+            pending_name = nm.group(2)
+            continue
+        if pending_name is not None:
+            sm = seconds_re.match(line)
+            if sm:
+                if pending_name in measured_by_name:
+                    new_val = round(measured_by_name[pending_name], 1)
+                    old_val = float(sm.group(2))
+                    if old_val != new_val:
+                        ending = raw[len(line):]  # the newline(s) stripped above, preserved
+                        lines[i] = f"{sm.group(1)}{new_val}{sm.group(3)}{ending}"
+                        changed.append((pending_name, old_val, new_val))
+                pending_name = None
+            elif not comment_or_blank_re.match(line):
+                pending_name = None
+    return "".join(lines), changed
+
+
 def cmd_list(gates) -> int:
     if not gates:
         print("0 gates discovered -- refusing to print a plan for nothing.")
@@ -227,7 +481,8 @@ def cmd_list(gates) -> int:
     return 0
 
 
-def cmd_run(gates, jobs=1, timeout=DEFAULT_TIMEOUT_SECONDS) -> int:
+def cmd_run(gates, jobs=1, timeout=DEFAULT_TIMEOUT_SECONDS, check_drift=True,
+            do_refresh_manifest=False, manifest_path=None) -> int:
     # PROPERTY: discovering zero gates is a FAILURE, never a green run -- a parse change
     # that silently emptied the list must not be able to print "0 gates, all passed".
     if not gates:
@@ -268,15 +523,68 @@ def cmd_run(gates, jobs=1, timeout=DEFAULT_TIMEOUT_SECONDS) -> int:
               f"copy them into .github/generated-views-manifest.yml's cost column; re-run with "
               f"-j 1 (the default) first if you need real per-gate numbers.")
 
-    if failed or errored:
-        print("\nFAILING / COULD-NOT-RUN GATES, named together (not just the first):")
-        for r in failed:
-            print(f"  FAIL   {r.gate.name}  ({r.gate.shard_job})")
-        for r in errored:
-            print(f"  ERROR  {r.gate.name}  ({r.gate.shard_job}): {r.detail}")
+    # DECLARED-COST DRIFT (module docstring's DECLARED-COST DRIFT section). Only against
+    # an uncontended (-j 1) run -- see that section for why -j >1 timings would manufacture
+    # drift out of pure contention rather than a real stale manifest figure.
+    resolved_manifest_path = manifest_path or shard.MANIFEST
+    drifted = []
+    if check_drift:
+        if jobs > 1:
+            print("\nNOTE: declared-cost drift check skipped -- ran with -j "
+                  f"{jobs}, and drift is only meaningful against uncontended (-j 1) "
+                  "timings (see NOTE above). Re-run with -j 1 to check drift.")
+        else:
+            manifest_gates = shard.load_manifest(resolved_manifest_path)
+            drift_results = compute_drift(results, manifest_gates)
+            drifted = [d for d in drift_results if d.drifted]
+            if drifted:
+                print(f"\nDECLARED-COST DRIFT ({len(drifted)} of {len(drift_results)} "
+                      f"manifest-tracked gate(s) compared):")
+                for d in sorted(drifted, key=lambda d: -(d.ratio or 0)):
+                    print(f"  DRIFT  {d.name!r}: {d.reason}")
+                print(f".github/generated-views-manifest.yml's declared seconds no longer "
+                      f"reflect reality for the gate(s) above -- re-run with "
+                      f"--refresh-manifest to correct them from this run's own measurements.")
+            else:
+                print(f"\ndeclared-cost drift: {len(drift_results)} manifest-tracked gate(s) "
+                      f"compared, none drifted (ratio >= {DRIFT_RATIO_THRESHOLD:.0f}x, "
+                      f"or >{DRIFT_FLOOR_ABS_SECONDS:.0f}s apart under the "
+                      f"{DRIFT_FLOOR_SECONDS:.0f}s floor).")
+            for note in timeout_headroom_notes(results):
+                print(f"  NOTE (timeout headroom): {note}")
+
+    if do_refresh_manifest:
+        if jobs > 1:
+            print("\nNOTE: --refresh-manifest skipped -- ran with -j "
+                  f"{jobs}; refresh only writes from uncontended (-j 1) timings, the same "
+                  "restriction as the drift check above. Re-run with -j 1.")
+        else:
+            new_text, changed = refresh_manifest(results, resolved_manifest_path)
+            if changed:
+                resolved_manifest_path.write_text(new_text)
+                print(f"\nrefreshed {resolved_manifest_path}: "
+                      f"{len(changed)} gate(s) corrected from this run's measurements:")
+                for name, old, new in changed:
+                    print(f"  {name!r}: {old:.1f}s -> {new:.1f}s")
+            else:
+                print("\n--refresh-manifest: every manifest-tracked gate's declared "
+                      "seconds already matched this run's measurements -- nothing written.")
+
+    if failed or errored or drifted:
+        if failed or errored:
+            print("\nFAILING / COULD-NOT-RUN GATES, named together (not just the first):")
+            for r in failed:
+                print(f"  FAIL   {r.gate.name}  ({r.gate.shard_job})")
+            for r in errored:
+                print(f"  ERROR  {r.gate.name}  ({r.gate.shard_job}): {r.detail}")
+        if drifted:
+            print("\nDRIFTED MANIFEST ENTRIES, named together:")
+            for d in drifted:
+                print(f"  DRIFT  {d.name!r}: {d.reason}")
         return 1
 
-    print(f"\nall {len(results)} gate(s) green.")
+    print(f"\nall {len(results)} gate(s) green"
+          + (", declared costs current" if check_drift and jobs == 1 else "") + ".")
     return 0
 
 
@@ -396,6 +704,237 @@ def _guard_a_fully_passing_run_reports_green():
     return None
 
 
+# ---- --selftest: declared-cost drift (see module docstring's DECLARED-COST DRIFT
+# section) -- the two calibration points that section argues the threshold from, both
+# proved directly against compute_drift() rather than a real gate's real timing, so
+# these proofs are exact and fast rather than hostage to this machine's own jitter.
+
+def _rule_drift_flags_real_drift_and_spares_noise():
+    """#359's own defect (0.7s declared, 40.1s measured, 57x) must be flagged; this
+    ticket's own 'noise' example (81.7s declared, ~90s measured, ~1.1x) must not."""
+    manifest_gates = [
+        {"name": "drifted-gate", "seconds": 0.7, "shard": 1},
+        {"name": "noisy-gate", "seconds": 81.7, "shard": 1},
+    ]
+    results = [
+        GateResult(_fake_gate("drifted-gate", "true"), "pass", 40.1),
+        GateResult(_fake_gate("noisy-gate", "true"), "pass", 90.0),
+    ]
+    by_name = {d.name: d for d in compute_drift(results, manifest_gates)}
+    if not by_name["drifted-gate"].drifted:
+        return (f"FAIL drift-flags-real-drift: 0.7s declared vs 40.1s measured (57x, "
+                f"#359's own defect) was not flagged: {by_name['drifted-gate']!r}")
+    if by_name["noisy-gate"].drifted:
+        return (f"FAIL drift-spares-noise: 81.7s declared vs 90.0s measured (~1.1x, "
+                f"this ticket's own 'noise' example) was flagged: "
+                f"{by_name['noisy-gate']!r}")
+    return None
+
+
+def _rule_drift_uses_ratio_when_only_one_side_clears_the_floor():
+    """The exact shape live drift on this checkout took (#359's own manifest, found
+    while calibrating this feature): a small DECLARED figure (well under the floor)
+    against a MEASURED cost well above it. Requiring BOTH sides to clear the floor
+    before trusting a ratio -- an earlier version of this rule -- would have floored
+    the denominator at DRIFT_FLOOR_SECONDS and diluted a real ~4.4x drift down under
+    the threshold; only the smaller-of-the-two mattering is what a lone big MEASURED
+    number should not survive."""
+    manifest_gates = [{"name": "small-declared-big-measured", "seconds": 0.7, "shard": 1}]
+    results = [GateResult(_fake_gate("small-declared-big-measured", "true"), "pass", 3.1)]
+    d = compute_drift(results, manifest_gates)[0]
+    if d.ratio is None or d.ratio < DRIFT_RATIO_THRESHOLD:
+        return (f"FAIL drift-uses-ratio-when-one-side-clears-floor: 0.7s declared vs "
+                f"3.1s measured (4.4x, above the {DRIFT_RATIO_THRESHOLD:.0f}x threshold) "
+                f"was not flagged -- a floored denominator would dilute this exact "
+                f"live-found case: {d!r}")
+    if not d.drifted:
+        return f"FAIL drift-uses-ratio-when-one-side-clears-floor: ratio cleared the threshold but drifted was False: {d!r}"
+    return None
+
+
+def _rule_drift_below_floor_uses_absolute_difference():
+    """A near-zero gate a whisker off in RATIO terms (0.0s declared, 0.3s measured is
+    technically 'infinite' drift) must not be flagged -- that is subprocess-startup
+    jitter, not drift, and the floor exists precisely to keep it from becoming noise.
+    But real absolute growth while BOTH numbers stay under the ratio floor (0.1s ->
+    1.9s) must still be caught -- the floor swaps the rule, it does not disable it."""
+    manifest_gates = [
+        {"name": "trivial-jitter", "seconds": 0.0, "shard": 1},
+        {"name": "trivial-growth", "seconds": 0.1, "shard": 1},
+    ]
+    results = [
+        GateResult(_fake_gate("trivial-jitter", "true"), "pass", 0.3),
+        GateResult(_fake_gate("trivial-growth", "true"), "pass", 1.9),
+    ]
+    by_name = {d.name: d for d in compute_drift(results, manifest_gates)}
+    if by_name["trivial-jitter"].drifted:
+        return (f"FAIL drift-floor-absolute: 0.0s declared vs 0.3s measured (pure "
+                f"subprocess jitter under the floor) was flagged: "
+                f"{by_name['trivial-jitter']!r}")
+    if not by_name["trivial-growth"].drifted:
+        return (f"FAIL drift-floor-absolute: 0.1s declared vs 1.9s measured (1.8s "
+                f"absolute growth, over the {DRIFT_FLOOR_ABS_SECONDS}s limit) was not "
+                f"flagged even though both stay under the {DRIFT_FLOOR_SECONDS}s ratio "
+                f"floor: {by_name['trivial-growth']!r}")
+    return None
+
+
+def _rule_a_run_that_finds_drift_does_not_exit_0():
+    """The design decision the module docstring argues for: every gate can PASS and the
+    run must still exit non-zero if the manifest's declared cost has drifted -- the
+    'green run that hid a defect' shape #359 itself is built to refuse."""
+    import contextlib
+    import io
+    import tempfile
+
+    gate = _fake_gate("drift-guard-gate", "true")
+    with tempfile.TemporaryDirectory() as td:
+        manifest_path = Path(td) / "manifest.yml"
+        # `true` measures near 0s; declared far above it clears the ratio threshold by
+        # a wide margin (10.0s / ~0s, floored only at the numerical-safety epsilon).
+        manifest_path.write_text(
+            'gates:\n  - name: "drift-guard-gate"\n    seconds: 10.0\n    shard: 1\n'
+        )
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            rc = cmd_run([gate], check_drift=True, manifest_path=manifest_path)
+    if rc == 0:
+        return (f"FAIL drift-fails-the-run: the only gate passed but its declared cost "
+                f"(10.0s) drifted >=4x from what it measured -- exited 0 anyway: "
+                f"{buf.getvalue()!r}")
+    if "DRIFT" not in buf.getvalue():
+        return (f"FAIL drift-fails-the-run: exited nonzero but printed no DRIFT line: "
+                f"{buf.getvalue()!r}")
+    return None
+
+
+def _guard_no_drift_reports_green():
+    """The companion guard: a gate whose measured cost still matches its declared one
+    must not be reported as drifted, and the run must still exit 0."""
+    import contextlib
+    import io
+    import tempfile
+
+    gate = _fake_gate("no-drift-gate", "true")
+    with tempfile.TemporaryDirectory() as td:
+        manifest_path = Path(td) / "manifest.yml"
+        manifest_path.write_text(
+            'gates:\n  - name: "no-drift-gate"\n    seconds: 0.0\n    shard: 1\n'
+        )
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            rc = cmd_run([gate], check_drift=True, manifest_path=manifest_path)
+    if rc != 0:
+        return (f"FAIL no-drift-reports-green: a gate matching its declared cost was "
+                f"reported drifted, exit {rc}: {buf.getvalue()!r}")
+    return None
+
+
+def _rule_check_drift_is_skipped_at_j_greater_than_1():
+    """-j >1 timings are contended (up to 3.2x inflated, #331) -- comparing THAT to a
+    serially-measured manifest would manufacture drift out of pure contention, so the
+    drift check must be skipped outright, not silently computed, above -j 1."""
+    import contextlib
+    import io
+    import tempfile
+
+    gate = _fake_gate("would-drift-if-checked", "true")
+    with tempfile.TemporaryDirectory() as td:
+        manifest_path = Path(td) / "manifest.yml"
+        manifest_path.write_text(
+            'gates:\n  - name: "would-drift-if-checked"\n    seconds: 999.0\n    shard: 1\n'
+        )
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            rc = cmd_run([gate], jobs=2, check_drift=True, manifest_path=manifest_path)
+    if rc != 0:
+        return (f"FAIL drift-skipped-at-j-gt-1: a gate that would drift under -j 1 "
+                f"failed the run under -j 2, where drift is not meaningful: "
+                f"{buf.getvalue()!r}")
+    if "DRIFT" in buf.getvalue():
+        return (f"FAIL drift-skipped-at-j-gt-1: printed a DRIFT line despite running "
+                f"at -j 2: {buf.getvalue()!r}")
+    return None
+
+
+def _rule_refresh_manifest_rewrites_only_drifted_pass_fail_gates():
+    """Three gates in one manifest, one text: a drifted PASS gets rewritten, a
+    matching PASS is left untouched (no spurious diff when old==new), and an ERROR
+    result's timing -- how long the harness waited, not how long the gate takes -- is
+    never written, even though its declared figure is stale by the fixture's own
+    construction. A hand-written comment between entries must survive verbatim."""
+    manifest_text = (
+        'gates:\n'
+        '  - name: "refresh-me"\n'
+        '    seconds: 1.0\n'
+        '    shard: 1\n'
+        '  # a comment that must survive the rewrite\n'
+        '  - name: "leave-me-alone"\n'
+        '    seconds: 2.0\n'
+        '    shard: 2\n'
+        '  - name: "errored-gate"\n'
+        '    seconds: 3.0\n'
+        '    shard: 3\n'
+    )
+    results = [
+        GateResult(_fake_gate("refresh-me", "true"), "pass", 9.5),
+        GateResult(_fake_gate("leave-me-alone", "true"), "pass", 2.0),
+        GateResult(_fake_gate("errored-gate", "true"), "error", 600.0),
+    ]
+    import tempfile
+    with tempfile.TemporaryDirectory() as td:
+        p = Path(td) / "manifest.yml"
+        p.write_text(manifest_text)
+        new_text, changed = refresh_manifest(results, p)
+    if [c[0] for c in changed] != ["refresh-me"]:
+        return (f"FAIL refresh-manifest: expected only 'refresh-me' rewritten (an "
+                f"unchanged value and an error-status result must both be left alone), "
+                f"got {changed!r}")
+    if "seconds: 9.5" not in new_text:
+        return f"FAIL refresh-manifest: new measured value not written: {new_text!r}"
+    if "a comment that must survive the rewrite" not in new_text:
+        return "FAIL refresh-manifest: a hand-written comment was lost during rewrite"
+    if "seconds: 3.0" not in new_text:
+        return ("FAIL refresh-manifest: an ERROR-status gate's declared seconds was "
+                 "overwritten with its timeout-bound elapsed time")
+    return None
+
+
+def _rule_refresh_manifest_rewrites_through_a_comment_between_name_and_seconds():
+    """The exact shape this branch's own manifest correction added (see
+    `.github/generated-views-manifest.yml`'s multi-line comment explaining the 40.1s
+    figure, which sits between that gate's `name:` and `seconds:` lines): a comment (or
+    several, or a blank line) between the two must not make the scan give up on the entry
+    and silently skip it -- that would make `--refresh-manifest` claim 'nothing to
+    correct' on an entry that visibly drifted, the exact false-green shape this whole
+    feature exists to refuse."""
+    manifest_text = (
+        'gates:\n'
+        '  - name: "commented-gate"\n'
+        '    # why this gate costs what it costs, line one\n'
+        '    # line two of the explanation\n'
+        '\n'
+        '    seconds: 0.7\n'
+        '    shard: 1\n'
+    )
+    results = [GateResult(_fake_gate("commented-gate", "true"), "pass", 40.1)]
+    import tempfile
+    with tempfile.TemporaryDirectory() as td:
+        p = Path(td) / "manifest.yml"
+        p.write_text(manifest_text)
+        new_text, changed = refresh_manifest(results, p)
+    if [c[0] for c in changed] != ["commented-gate"]:
+        return (f"FAIL refresh-manifest-through-comment: a comment (and a blank line) "
+                f"between `name:` and `seconds:` made the scan lose track of the entry "
+                f"-- expected 'commented-gate' rewritten, got {changed!r}")
+    if "seconds: 40.1" not in new_text:
+        return (f"FAIL refresh-manifest-through-comment: new measured value not "
+                f"written: {new_text!r}")
+    if "why this gate costs what it costs, line one" not in new_text:
+        return "FAIL refresh-manifest-through-comment: the comment was lost during rewrite"
+    return None
+
+
 def selftest() -> int:
     import tempfile
 
@@ -404,6 +943,16 @@ def selftest() -> int:
         ("could-not-run-is-distinct-from-failed", _rule_could_not_run_is_distinct_from_failed),
         ("missing-python-script-is-error", _rule_missing_python_script_is_error),
         ("zero-gates-is-a-failure", _rule_zero_gates_is_a_failure),
+        ("drift-flags-real-drift-and-spares-noise", _rule_drift_flags_real_drift_and_spares_noise),
+        ("drift-uses-ratio-when-only-one-side-clears-the-floor",
+         _rule_drift_uses_ratio_when_only_one_side_clears_the_floor),
+        ("drift-below-floor-uses-absolute-difference", _rule_drift_below_floor_uses_absolute_difference),
+        ("a-run-that-finds-drift-does-not-exit-0", _rule_a_run_that_finds_drift_does_not_exit_0),
+        ("check-drift-is-skipped-at-j-greater-than-1", _rule_check_drift_is_skipped_at_j_greater_than_1),
+        ("refresh-manifest-rewrites-only-drifted-pass-fail-gates",
+         _rule_refresh_manifest_rewrites_only_drifted_pass_fail_gates),
+        ("refresh-manifest-rewrites-through-a-comment-between-name-and-seconds",
+         _rule_refresh_manifest_rewrites_through_a_comment_between_name_and_seconds),
     ]
     fails = []
     for label, fn in checks:
@@ -420,11 +969,16 @@ def selftest() -> int:
         else:
             print("demonstrated: selftest-gates-never-run-concurrently")
 
-    guard_msg = _guard_a_fully_passing_run_reports_green()
-    if guard_msg:
-        fails.append(guard_msg)
-    else:
-        print("guard held: a fully passing run reports green")
+    guards = [
+        ("a fully passing run reports green", _guard_a_fully_passing_run_reports_green),
+        ("a non-drifted gate reports green", _guard_no_drift_reports_green),
+    ]
+    for label, fn in guards:
+        guard_msg = fn()
+        if guard_msg:
+            fails.append(guard_msg)
+        else:
+            print(f"guard held: {label}")
 
     for f in fails:
         print(f)
@@ -432,7 +986,7 @@ def selftest() -> int:
         print(f"\n{len(fails)} rule(s) did not hold")
         return 1
     print(f"\n{len(checks) + 1} violation(s) demonstrated failing; "
-          f"1 guard that must not fire held")
+          f"{len(guards)} guard(s) that must not fire held")
     return 0
 
 
@@ -448,6 +1002,15 @@ def main():
                           "other gate has finished -- this flag never touches them.")
     ap.add_argument("--timeout", type=float, default=DEFAULT_TIMEOUT_SECONDS,
                      help=f"per-gate timeout in seconds (default {DEFAULT_TIMEOUT_SECONDS})")
+    ap.add_argument("--no-check-drift", action="store_true",
+                     help="skip comparing measured seconds against "
+                          ".github/generated-views-manifest.yml's declared seconds "
+                          "(on by default for a -j 1 run; always skipped at -j >1)")
+    ap.add_argument("--refresh-manifest", action="store_true",
+                     help="after running (must be -j 1), rewrite "
+                          ".github/generated-views-manifest.yml's declared seconds from "
+                          "this run's own measurements, for every pass/fail gate whose "
+                          "measured cost differs from what's declared")
     args = ap.parse_args()
 
     if args.selftest:
@@ -458,7 +1021,9 @@ def main():
     if args.list:
         sys.exit(cmd_list(gates))
 
-    sys.exit(cmd_run(gates, jobs=max(1, args.jobs), timeout=args.timeout))
+    sys.exit(cmd_run(gates, jobs=max(1, args.jobs), timeout=args.timeout,
+                      check_drift=not args.no_check_drift,
+                      do_refresh_manifest=args.refresh_manifest))
 
 
 if __name__ == "__main__":

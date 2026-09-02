@@ -468,9 +468,25 @@ jobs:
         run: python3 src/catalog_agreement.py --check
       # The committed schema's `recheck` node against the declaration it is generated from,
       # plus every source group's declared cadence against it. Reads committed data only
-      # (the schema and _meta/sources/*.yml), no network.
+      # (the schema and _meta/sources/*.yml), no network -- but #287's chapter-html id
+      # accounting (below) walks and parses frontmatter for every document under
+      # statutes/ and constitution/ to verify 548 source ids, which is what this step's
+      # time is actually spent on. Measured on this branch, local warm checkout:
+      # 40.1s/40.1s (was 82.5s/81.3s before doc_paths_by_id() gained a cache and a
+      # provably-safe directory scope -- see check_updates.py). That is STILL O(corpus
+      # subset), not O(548) -- it will grow again as statutes/constitution/ do. This
+      # step's own 2-minute timeout killed it, as an orphan process, on all five runs
+      # that turned `main` red -- every one at ~2m12s-2m13s (the ceiling plus teardown),
+      # never a clean pass or fail, so no completed CI duration exists for the unscoped
+      # work to compare against local (the whole shard-2 JOB those runs took, ~9m44s
+      # including checkout/install/13 other gates, is not this step's own time -- do not
+      # requote it as if it were). The last runs that DID complete this step, before the
+      # accounting above was added, measured 4s -- faster than local, not slower.
+      # `timeout-minutes` below is raised as insurance against CI being slower than this
+      # checkout for reasons unmeasured here (a colder cache, a busier runner), not
+      # because any completed measurement showed 40s locally needing more room.
       - name: Recheck cadences must be declared once, and every group must validate
-        timeout-minutes: 2
+        timeout-minutes: 5
         run: python3 src/check_updates.py --check
       # The same report against committed data, and the half no rule about its shape can
       # state: the issue body must NAME every one of the 121 rules missing from a chapter

@@ -145,10 +145,10 @@ class MissingContentDir(RuntimeError):
     walked and genuinely holds zero documents unless something probes it on purpose."""
 
 
-def content_files():
+def content_files(dirs=None):
     """Yield every content document (excludes _index.md and CHANGELOG.md).
 
-    Checks every directory CONTENT_DIRS declares exists, and eagerly walks all of them to
+    Checks every directory in scope exists, and eagerly walks all of them to
     the bottom, BEFORE returning anything to the caller (#316) -- content_files() forces
     `_walk_content_dirs()`'s generator to completion and hands back an iterator over the
     materialized result, rather than being a generator function itself whose body (and these
@@ -159,6 +159,23 @@ def content_files():
     repo just does `for p in content_files():`, so MissingContentDir propagates as a loud
     crash the moment it's called, never a quietly undercounted corpus that happens not to
     hit the missing or unreadable directory before the caller stops looking.
+
+    `dirs=None` (every existing caller) walks all of CONTENT_DIRS, unchanged. `dirs=(...)`
+    scopes the WALK (the expensive part -- `os.walk` plus every caller's own frontmatter
+    parse) to that subset, for a caller that can prove, from where the corpus's ingest
+    scripts actually write, that what it is looking for could never be under the
+    directories it left out (see `check_updates.py`'s `_CHAPTER_HTML_DIRS`).
+
+    The #316 missing/unreadable checks below are NOT scoped by `dirs` -- they always run
+    over the full, declared CONTENT_DIRS, regardless of what the caller asked to walk.
+    Checking a directory's existence and top-level readability is an `is_dir()` plus one
+    `os.scandir()` peek per entry -- O(#CONTENT_DIRS), not O(#files) -- so scoping it
+    would buy no measurable speed while quietly narrowing what every caller of a scoped
+    walk is protected against: a caller that asks only for `("statutes", "constitution")`
+    is still told, loudly, if `rules/` went missing or unreadable, even though it never
+    reads a document from `rules/`. A directory a caller chose not to WALK is still one
+    this function has an opinion about; only the file-materialization step below is
+    limited to what was actually requested.
     """
     missing = [d for d in CONTENT_DIRS if not (REPO_ROOT / d).is_dir()]
     if missing:
@@ -186,11 +203,12 @@ def content_files():
                else "they exist and could not be listed")
             + f" ({detail}) -- a directory that exists but cannot be read is a corpus this "
             "process could not read, never one confirmed empty")
-    return iter(list(_walk_content_dirs()))
+    scope = CONTENT_DIRS if dirs is None else list(dirs)
+    return iter(list(_walk_content_dirs(scope)))
 
 
-def _walk_content_dirs():
-    for d in CONTENT_DIRS:
+def _walk_content_dirs(dirs=None):
+    for d in (CONTENT_DIRS if dirs is None else dirs):
         root = REPO_ROOT / d
         found = []
 
@@ -1136,6 +1154,24 @@ def _proof_missing_content_dir_refuses(check) -> None:
                 Failure("content-dir-declared-present", "content_files()", str(raised))
             check("a missing declared content dir raises MissingContentDir, naming it",
                   raised is not None and "rules" in str(raised))
+
+            # THE SCOPED-CALLER CASE (`dirs=(...)`, added for check_updates.py's
+            # `_chapter_html_scope()`): the #316 guarantee must hold even for a caller
+            # that never asked about `rules/` -- a missing/unreadable check that only
+            # covered the requested subset would let a scoped caller report a clean,
+            # narrower corpus while a directory it never looked at silently vanished.
+            raised_scoped = None
+            try:
+                list(content_files(dirs=("statutes", "constitution")))
+            except MissingContentDir as e:
+                raised_scoped = e
+            check("a missing content dir OUTSIDE a caller's requested `dirs=` scope still "
+                  "raises MissingContentDir, naming it (the #316 guarantee is not narrowed "
+                  "by scoping the walk)",
+                  raised_scoped is not None and "rules" in str(raised_scoped))
+
+            # `rules` is left missing here on purpose -- both branches below re-create it
+            # themselves (present-but-unreadable needs it to exist first).
 
             running_as_root = os.geteuid() == 0 if hasattr(os, "geteuid") else True
             if running_as_root:
