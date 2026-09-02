@@ -472,7 +472,8 @@ jobs:
       # accounting (below) walks and parses frontmatter for every document under
       # statutes/ and constitution/ to verify 548 source ids, which is what this step's
       # time is actually spent on. Measured on this branch, local warm checkout:
-      # 40.1s/40.1s (was 82.5s/81.3s before doc_paths_by_id() gained a cache and a
+      # 40.1s/40.1s standalone, 38.3s inside a full check_all.py run -- the manifest
+      # declares the latter (was 82.5s/81.3s before doc_paths_by_id() gained a cache and a
       # provably-safe directory scope -- see check_updates.py). That is STILL O(corpus
       # subset), not O(548) -- it will grow again as statutes/constitution/ do. This
       # step's own 2-minute timeout killed it, as an orphan process, on all five runs

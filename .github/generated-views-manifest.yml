@@ -208,9 +208,10 @@ gates:
   # ids, not the near-zero cost the cadence-declaration check alone would cost). 40.1s
   # measured twice, local warm checkout, 2026-09-02, after doc_paths_by_id() gained a
   # cache and a directory scope (see check_updates.py); was 82.5s/81.3s before. A later
-  # `check_all.py --refresh-manifest` run the same day measured 38.3s -- within this
-  # repo's normal ~1% run-to-run noise band, not a second correction (see
-  # check_all.py's DECLARED-COST DRIFT section for that band). This gate's own step was
+  # `check_all.py --refresh-manifest` run the same day measured 38.3s, which is what
+  # this row now declares -- a ~4% spread against the 40.1s standalone runs (a whole-
+  # suite run, not a standalone one), well inside the drift threshold and not a second
+  # correction (see check_all.py's DECLARED-COST DRIFT section). This gate's own step was
   # what blew CI's 2-minute timeout-minutes on `main` -- killed by that ceiling, as an
   # orphan process, every one of the five times (~2m12s-2m13s each, never a clean
   # finish; ~9m44s is the whole shard-2 JOB one of those runs took, checkout/install/
