@@ -78,6 +78,9 @@ jobs:
       contents: write
       pull-requests: write
     uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1
+    # The drift PR is opened and merged with DRIFT_BOT_TOKEN, an org secret (corpus-toolkit
+    # v1.34.1): the built-in token cannot open a PR here, and one it opened would run no CI.
+    secrets: inherit
     with:
       groups: |
         department-of-administrative-services-policies
@@ -101,3 +104,6 @@ jobs:
       contents: write
       pull-requests: write
     uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1
+    # The drift PR is opened and merged with DRIFT_BOT_TOKEN, an org secret (corpus-toolkit
+    # v1.34.1): the built-in token cannot open a PR here, and one it opened would run no CI.
+    secrets: inherit
