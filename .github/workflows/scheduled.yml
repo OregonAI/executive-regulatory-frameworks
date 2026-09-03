@@ -69,8 +69,8 @@ on:
 jobs:
   # The per-cadence monthly check. A PLAIN job rather than the reusable workflow: the
   # reusable detect-upstream-changes.yml hardcodes its CLI invocation
-  # (`corpus-detect-changes --config _meta/corpus.yml --open-issues`) and exposes only
-  # `toolkit-ref` — there is no input that passes `--group` through. So this job
+  # (`corpus-detect-changes --config _meta/corpus.yml --open-issues`) and has no input
+  # that passes `--group` through. So this job
   # mirrors the reusable workflow's steps and invokes the module directly with the
   # monthly groups. If the reusable workflow ever grows an args input, fold this back.
   monthly-drift:
@@ -82,19 +82,15 @@ jobs:
       issues: write
     steps:
       - uses: actions/checkout@v4
-      # Requires corpus-toolkit >= v1.22.0 (--group filter + partial-failure
-      # tolerance both landed in corpus-toolkit#47).
-      - uses: actions/checkout@v4
-        with:
-          repository: OregonAI/corpus-toolkit
-          ref: v1.32.0
-          path: .toolkit
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       # content_hash normalizes PDFs via pdftotext, same as the reusable workflow.
       - run: sudo apt-get update -q && sudo apt-get install -y poppler-utils
-      - run: pip install ./.toolkit
+      # Install the toolkit at the SERVING pin -- the one requirements.txt names and the
+      # Dockerfile bakes -- so these gates prove the toolkit this corpus actually ships. The
+      # reusable workflows run the CI track at `@v1` (corpus-toolkit ADR-0014).
+      - run: pip install -r requirements.txt
       - name: Check monthly-cadence groups, open an issue per drifted source
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -131,9 +127,4 @@ jobs:
       # ceiling for a reusable workflow, so the toolkit
       # declaring this is not enough on its own.
       pull-requests: write
-    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1.32.0
-    with:
-      # Pin the CODE, not just the workflow file above — separate knobs.
-      # Requires >= v1.22.0: the partial-failure tolerance is what makes an
-      # unattended 1,972-source sweep survivable at all.
-      toolkit-ref: v1.32.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1
