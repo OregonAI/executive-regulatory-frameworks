@@ -67,66 +67,37 @@ on:
   workflow_dispatch:
 
 jobs:
-  # The per-cadence monthly check. A PLAIN job rather than the reusable workflow: the
-  # reusable detect-upstream-changes.yml hardcodes its CLI invocation
-  # (`corpus-detect-changes --config _meta/corpus.yml --open-issues`) and has no input
-  # that passes `--group` through. So this job
-  # mirrors the reusable workflow's steps and invokes the module directly with the
-  # monthly groups. If the reusable workflow ever grows an args input, fold this back.
+  # The per-cadence monthly check, through the reusable workflow's `groups:` input
+  # (corpus-toolkit ADR 0015 grew it — this job's old comment asked for exactly that and
+  # mirrored the workflow's steps by hand until then). State for the groups NOT listed is
+  # held, not cleared, and everything the run writes — DRIFT.md, drift-state.json, seeded
+  # baselines, STATUS.md — rides the same self-merging chore/drift PR as the quarterly sweep.
   monthly-drift:
     if: github.event.schedule == '0 14 5 * *'
-    runs-on: ubuntu-latest
-    timeout-minutes: 120
     permissions:
-      contents: read
-      issues: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      # content_hash normalizes PDFs via pdftotext, same as the reusable workflow.
-      - run: sudo apt-get update -q && sudo apt-get install -y poppler-utils
-      # Install the toolkit at the SERVING pin -- the exact tag requirements.txt names and the
-      # Dockerfile bakes -- so these gates prove the toolkit this corpus actually ships. ONLY that
-      # line: this repo's requirements.txt also pulls torch and sentence-transformers for
-      # serve-time semantic search, which no CI gate touches. The reusable workflows run the CI
-      # track at `@v1` (corpus-toolkit ADR-0014); requirements.txt is the one pin left to move.
-      - run: pip install "$(grep -E '^corpus-toolkit' requirements.txt)"
-      - name: Check monthly-cadence groups, open an issue per drifted source
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        # Default (non --strict) mode: isolated fetch failures are reported, not
-        # fatal — the failure mode that got the old cron retired.
-        run: >-
-          python3 -m corpus_toolkit.sources.changes
-          --config _meta/corpus.yml
-          --open-issues
-          --group department-of-administrative-services-policies
-          --group department-of-corrections-policies
-          --group department-of-environmental-quality-policies
-          --group department-of-human-services-policies
-          --group oam
-          --group oar
-          --group oregon-health-authority-irb-policies
-          --group oregon-health-authority-ispo-policies
-          --group oregon-health-authority-osh-policies
-          --group oregon-military-department-policies
-          --group oregon-watershed-enhancement-board-policies
-          --group oregon-youth-authority-policies
-          --group public-utility-commission-policies
+      contents: write
+      pull-requests: write
+    uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1
+    with:
+      groups: |
+        department-of-administrative-services-policies
+        department-of-corrections-policies
+        department-of-environmental-quality-policies
+        department-of-human-services-policies
+        oam
+        oar
+        oregon-health-authority-irb-policies
+        oregon-health-authority-ispo-policies
+        oregon-health-authority-osh-policies
+        oregon-military-department-policies
+        oregon-watershed-enhancement-board-policies
+        oregon-youth-authority-policies
+        public-utility-commission-policies
 
-  # Quarterly (and on-demand) sweep of EVERY group — this one CAN use the reusable
-  # workflow, because a full sweep is exactly the hardcoded invocation. It also
-  # regenerates and commits STATUS.md, which is why it keeps contents: write.
+  # Quarterly (and on-demand) sweep of EVERY group. Writes the same chore/drift PR.
   full-sweep:
     if: github.event.schedule == '0 15 12 1,4,7,10 *' || github.event_name == 'workflow_dispatch'
     permissions:
       contents: write
-      issues: write
-      # v1.31.0 opens a PR for STATUS.md instead of pushing to
-      # this protected branch. A CALLER's permissions are the
-      # ceiling for a reusable workflow, so the toolkit
-      # declaring this is not enough on its own.
       pull-requests: write
     uses: OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1
