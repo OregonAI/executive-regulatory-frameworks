@@ -14,11 +14,11 @@ on:
 
 jobs:
   verify:
-    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.31.1
+    uses: OregonAI/corpus-toolkit/.github/workflows/verify-provenance.yml@v1.32.0
     with:
       # Pin the CODE, not just the workflow file. Omitting this used to
       # silently install v1.0.5 regardless of the tag above.
-      toolkit-ref: v1.31.1
+      toolkit-ref: v1.32.0
     # jobs: left unset — the CLI auto-detects the runner's own cpu_count rather than
     # a hardcoded worker number, so this scales automatically with whatever runner
     # (GitHub-hosted or self-hosted) actually executes it.
