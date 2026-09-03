@@ -10,11 +10,8 @@ on:
 
 jobs:
   links:
-    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1.32.0
+    uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1
     with:
-      # Pin the CODE, not just the workflow file. Omitting this used to
-      # silently install v1.0.5 regardless of the tag above.
-      toolkit-ref: v1.32.0
       exclude-paths: |
         _meta/snapshots
         _meta/templates
