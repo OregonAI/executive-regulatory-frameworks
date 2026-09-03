@@ -836,7 +836,32 @@ def workflow(text):
             if isinstance(st, dict) and "run" in st \
                     and str(st.get("if", "")).strip().lower() != "false":
                 runs.append(" ".join(str(st["run"]).split()))
+        # A JOB THAT `uses:` THE TOOLKIT'S DRIFT WORKFLOW IS A LIVE FETCH of the groups its
+        # `groups:` input names -- every group when it names none. corpus-toolkit ADR 0015
+        # grew that input and this repo's bespoke `monthly-drift` step became such a call, so
+        # a reader that counted only `run:` steps watched `--group oar` vanish from a
+        # workflow that still hashes it on the 5th, and failed a gate about a change that
+        # had not happened. The call is rendered here in the shape the run step had, so the
+        # two predicates below keep asking one question of one list.
+        uses = str(j.get("uses", ""))
+        if "corpus-toolkit/.github/workflows/detect-upstream-changes.yml" in uses:
+            groups = [g.strip() for g in str((j.get("with") or {}).get("groups") or "").splitlines()
+                      if g.strip()]
+            runs.append("corpus-detect-changes " + (" ".join(f"--group {g}" for g in groups)
+                                                     if groups else EVERY_GROUP))
     return crons, runs
+
+
+EVERY_GROUP = "(every group)"
+
+
+def _fetches_group(runs, group) -> bool:
+    """Whether a LIVE step -- a `run:` or a reusable drift call -- fetches `group`.
+
+    A reusable drift call with no `groups:` input fetches every group, which includes this
+    one; `workflow` renders that as `EVERY_GROUP` rather than inventing a `--group` line
+    for a group nobody typed."""
+    return any(f"--group {group}" in r or EVERY_GROUP in r for r in runs)
 
 
 def _runs_that(runs, needle) -> bool:
@@ -889,7 +914,7 @@ def check_schedule(text) -> list:
                 f"BUSINESS day, which is as late as the {EARLIEST_DAY}th -- the 1st a "
                 "Saturday, the 2nd a Sunday, the 3rd a Monday holiday. A run before it is "
                 "published reads last month's bulletin and reports it as this month's"))
-    if not _runs_that(runs, f"--group {DRIFT_GROUP}"):
+    if not _fetches_group(runs, DRIFT_GROUP):
         failures.append(Failure(
             "the-scheduled-run-fetches-the-group-this-reader-joins", f"--group {DRIFT_GROUP}",
             "is the group this reader joins the drift observation on, and the workflow "
@@ -924,11 +949,11 @@ def check_drift_still_runs(text) -> list:
         failures.append(Failure("hash-drift-still-runs", str(DRIFT_WORKFLOW),
                                 "schedules no cron at all, so the drift detection this "
                                 "report reads runs only when somebody asks for it"))
-    if not _runs_that(runs, f"--group {DRIFT_GROUP}"):
+    if not _fetches_group(runs, DRIFT_GROUP):
         failures.append(Failure(
             "hash-drift-still-runs", f"--group {DRIFT_GROUP}",
-            "is in no LIVE step of the scheduled drift workflow, so the OAR sources are "
-            "no longer "
+            "is in no LIVE step of the scheduled drift workflow -- neither a `run:` nor a "
+            "`groups:` input on a reusable drift call -- so the OAR sources are no longer "
             "hashed on the monthly cadence. Hashing is the ONLY signal that can see a "
             "change nobody announced, and without it `silent` and `unchanged` become the "
             "same observation -- the substitution ADR 0006 rejected replacement over"))
@@ -1407,18 +1432,25 @@ def _proof_no_observation_is_not_no_disagreement(check, tmp) -> None:
 
 
 def _wf(cron=CRON, module="python3 src/bulletin_report.py --file-issue",
-        group=None, job_if=None, step_if=None) -> str:
+        group=None, job_if=None, step_if=None, reusable_groups=None) -> str:
     """A workflow file in the committed one's shape. Real YAML, because both gates parse
     rather than scan -- a fixture that was only a string would prove nothing about the
     thing that broke them, which was a job switched off and a comment left behind."""
     group = f"changes --group {DRIFT_GROUP}" if group is None else group
+    jobs = {"report": dict(
+        {"if": job_if} if job_if is not None else {},
+        **{"steps": [{"run": group},
+                     dict({"if": step_if} if step_if is not None else {},
+                          **{"run": module})]})}
+    if reusable_groups is not None:
+        # The ADR 0015 shape: the drift job is a call to the toolkit's reusable workflow and
+        # the groups are its input, not a `run:` line. The report step stays a run step.
+        jobs = {"drift": {"uses": "OregonAI/corpus-toolkit/.github/workflows/detect-upstream-changes.yml@v1",
+                          "with": {"groups": "\n".join(reusable_groups)}},
+                "report": {"steps": [{"run": module}]}}
     return yaml.safe_dump({
         "on": {"schedule": [{"cron": cron}] if cron else [], "workflow_dispatch": None},
-        "jobs": {"report": dict(
-            {"if": job_if} if job_if is not None else {},
-            **{"steps": [{"run": group},
-                         dict({"if": step_if} if step_if is not None else {},
-                              **{"run": module})]})},
+        "jobs": jobs,
     }, sort_keys=False)
 
 
@@ -1473,6 +1505,18 @@ def _proof_the_two_facts_in_workflow_files(check) -> None:
           "file that explains its own history in sixty lines of comments would not be",
           any(f.rule == "hash-drift-still-runs"
               for f in check_drift_still_runs(_wf(cron="0 14 5 * *", job_if=False))))
+    check("a drift job that CALLS the reusable workflow with the OAR group among its "
+          "`groups:` is a live fetch -- the ADR 0015 shape, which a reader counting only "
+          "`run:` steps failed a gate over",
+          not any(f.rule == "hash-drift-still-runs"
+                  for f in check_drift_still_runs(_wf(cron="0 14 5 * *",
+                                                      reusable_groups=["oam", DRIFT_GROUP]))))
+    check("...and one whose `groups:` OMIT the OAR group is caught",
+          any(f.rule == "hash-drift-still-runs"
+              for f in check_drift_still_runs(_wf(cron="0 14 5 * *", reusable_groups=["oam"]))))
+    check("...and one with NO `groups:` input fetches every group, this one included",
+          not any(f.rule == "hash-drift-still-runs"
+                  for f in check_drift_still_runs(_wf(cron="0 14 5 * *", reusable_groups=[]))))
     check("a drift workflow with its cron removed is caught",
           any(f.rule == "hash-drift-still-runs"
               for f in check_drift_still_runs(_wf(cron=None))))
