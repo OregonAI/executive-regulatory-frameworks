@@ -6,9 +6,11 @@ description: >
   siblings -- which is exactly how shards 1-4 lost the corpus-toolkit install
   that shard-5 kept, in the change this action was added to fix.
 
-  THREE PINS MOVE TOGETHER here (the corpus-toolkit checkout ref below and
-  requirements.txt's own `corpus-toolkit @ git+...@v1.31.1` pin) -- same trap
-  oregon-audits documents in its generated job (corpus-toolkit#9).
+  ONE PIN, and it is not in this file: the toolkit is installed at the exact tag
+  requirements.txt names (corpus-toolkit ADR-0014), so the gates prove the toolkit this
+  corpus actually ships and a release moves one line in one file. This action used to
+  carry its own checkout ref, which sat at v1.31.1 while requirements.txt said v1.32.0 --
+  the drift corpus-toolkit#9 was about, one shape over.
 
   THE REPO CHECKOUT IS NOT HERE, and cannot be: GitHub must read this file off disk to load
   the action at all, so a local action cannot be what checks out the repo containing it. Every
@@ -25,10 +27,10 @@ runs:
         python-version: "3.12"
     - run: pip install pyyaml
       shell: bash
-    - uses: actions/checkout@v4
-      with:
-        repository: OregonAI/corpus-toolkit
-        ref: v1.31.1
-        path: .toolkit
-    - run: pip install ./.toolkit
+    # Install the toolkit at the SERVING pin -- the exact tag requirements.txt names and the
+    # Dockerfile bakes -- so these gates prove the toolkit this corpus actually ships. ONLY that
+    # line: this repo's requirements.txt also pulls torch and sentence-transformers for
+    # serve-time semantic search, which no CI gate touches. The reusable workflows run the CI
+    # track at `@v1` (corpus-toolkit ADR-0014); requirements.txt is the one pin left to move.
+    - run: pip install "$(grep -E '^corpus-toolkit' requirements.txt)"
       shell: bash

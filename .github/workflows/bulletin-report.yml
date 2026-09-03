@@ -65,15 +65,12 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install pyyaml
-      # PINNED, and NOT `pip install -r requirements.txt`: that file pulls torch and
-      # sentence-transformers for serve-time semantic search, which this job never touches.
-      # Same three-pins-move-together trap `validate-frontmatter.yml` documents.
-      - uses: actions/checkout@v4
-        with:
-          repository: OregonAI/corpus-toolkit
-          ref: v1.32.0
-          path: .toolkit
-      - run: pip install ./.toolkit
+      # Install the toolkit at the SERVING pin -- the exact tag requirements.txt names and the
+      # Dockerfile bakes -- so these gates prove the toolkit this corpus actually ships. ONLY that
+      # line: this repo's requirements.txt also pulls torch and sentence-transformers for
+      # serve-time semantic search, which no CI gate touches. The reusable workflows run the CI
+      # track at `@v1` (corpus-toolkit ADR-0014); requirements.txt is the one pin left to move.
+      - run: pip install "$(grep -E '^corpus-toolkit' requirements.txt)"
       # content_hash normalizes PDFs via pdftotext, same as the drift workflow. Without it
       # a PDF source hashes its raw bytes and reports drift a re-render alone produced.
       - run: sudo apt-get update -q && sudo apt-get install -y poppler-utils
