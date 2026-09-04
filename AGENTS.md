@@ -807,7 +807,9 @@ python3 -m pytest --collect-only -q                   # what would run
 ```
 
 Run both phases **before pushing, by default** — not only when you suspect something broke.
-This is exactly what CI's `generated-views` job runs, from the same list.
+This is the same list CI runs. CI spreads it over runners (`GATE_SLICE=n/k`, one gate at a
+time per runner, because every gate's budget assumes a runner to itself); a developer
+machine can run it all at once with `-n auto`.
 
 **The gates are a test suite.** `tests/gates.py` is the one registry — name, argv, tier,
 whether the gate may run beside others, and its timeout — and `tests/test_gates.py` runs

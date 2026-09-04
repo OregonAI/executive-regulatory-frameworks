@@ -9,6 +9,7 @@ A failing gate prints its argv and the tail of its own output, which is what the
 workflow showed one step at a time. Timeouts are per gate, from the registry; the subprocess
 is killed at that limit and the failure names the gate rather than cancelling a job.
 """
+import os
 import subprocess
 import sys
 
@@ -20,8 +21,34 @@ from gates import GATES
 TAIL = 80
 
 
+def _slice():
+    """GATE_SLICE=n/k keeps every k-th gate starting at n, in name order, WITHIN each phase.
+
+    The first CI run of this suite measured why: four full-corpus walks on one 4-core
+    runner ran 4-5x slower than locally (410 s for a 92 s gate) and one gate hit a budget
+    written for a runner to itself. Every gate's timeout in the registry assumes exclusive
+    use of a runner, as the old shards gave it. So CI runs one gate at a time per runner and
+    spreads the gates over runners instead -- round-robin by sorted name, computed here at
+    collection time, so the registry stays the only list and nothing is bin-packed by hand.
+    Unset (a developer's `pytest -n auto`) means every gate; fast machines parallelise fine.
+    """
+    spec = os.environ.get("GATE_SLICE", "").strip()
+    if not spec:
+        return lambda i: True
+    n, k = (int(x) for x in spec.split("/"))
+    assert 1 <= n <= k, f"GATE_SLICE={spec!r}: expected n/k with 1 <= n <= k"
+    return lambda i: i % k == n - 1
+
+
 def _params():
+    keep = _slice()
+    by_phase = {"check": [], "selftest": []}
+    for g in sorted(GATES, key=lambda g: (g.tier, g.name)):
+        by_phase["selftest" if g.serial else "check"].append(g)
+    chosen = {id(g) for phase in by_phase.values() for i, g in enumerate(phase) if keep(i)}
     for g in GATES:
+        if id(g) not in chosen:
+            continue
         marks = [pytest.mark.selftest if g.serial else pytest.mark.check,
                  pytest.mark.timeout(g.timeout + 60)]  # backstop; the subprocess limit fires first
         if g.tier == "nightly":
@@ -45,7 +72,9 @@ def test_gate(gate, request):
         pytest.fail(f"exit {p.returncode}:\n  $ {' '.join(gate.argv)}\n{tail}")
 
 
+@pytest.mark.check
 def test_every_gate_has_a_unique_name_and_a_tier():
+    """Runs in every check slice (it is not a gate, so it is never sliced away)."""
     names = [g.name for g in GATES]
     assert len(names) == len(set(names))
     assert {g.tier for g in GATES} <= {"pr", "nightly"}

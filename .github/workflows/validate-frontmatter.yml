@@ -19,8 +19,9 @@ name: validate-frontmatter
 # names a test; a timeout fails that test and no other; `--durations` prints the real cost
 # every run instead of a declared column that drifted two orders of magnitude (#359).
 #
-# TWO PHASES, ONE JOB, and the job keeps the name `generated-views` so branch protection —
-# which requires that literal check name — needs no edit and no transition window.
+# TWO PHASES, SPREAD OVER RUNNERS, and the required check keeps the name `generated-views`
+# (a fan-in) so branch protection — which requires that literal check name — needs no edit
+# and no transition window.
 # Phase 1 runs the `--check` gates in parallel: they read the tree. Phase 2 runs the
 # `--selftest` gates one at a time: each breaks a fixture in the working tree, watches a
 # rule fire, and restores it, so none may run beside ANY other gate — the constraint
@@ -39,28 +40,76 @@ jobs:
   frontmatter:
     uses: OregonAI/corpus-toolkit/.github/workflows/validate-frontmatter.yml@v1
 
-  # THE REQUIRED CHECK. Every PR-tier gate, both phases. Measured before the change:
-  # 42 check gates 626 s serial, 36 selftest gates 205 s serial; on one 4-core runner that
-  # is ~160 s parallel + 205 s serial + setup, against 11.6 min median across five shards.
-  # If four full-corpus walks at once turn out to be memory-bound, `-n 2` is the lever.
-  generated-views:
+  # THE GATES, SPREAD OVER RUNNERS. The first CI run of this suite (PR #370) measured the
+  # one thing a local run could not: four full-corpus walks on one 4-core runner ran 4-5x
+  # slower than on a developer machine (410 s for a gate that takes 92 s locally; phase 1
+  # 15 min against 3:46) and one gate hit a budget that had been written for a runner to
+  # itself. Every timeout in tests/gates.py assumes that exclusive use, as the old shards
+  # gave it. So each runner runs ONE gate at a time, and the gates are spread over runners
+  # instead: GATE_SLICE=n/k keeps every k-th gate by sorted name within the phase, computed
+  # at collection time from the registry, so there is still no manifest, no hand-packing,
+  # and adding a gate is still one entry. Phase 1 (42 read-only checks, 626 s serial) over
+  # four runners; phase 2 (36 tree-mutating selftests, 205 s serial, 9 min on a runner)
+  # over two. Expected wall clock ~5 min against 11.6 before.
+  gates-check:
+    strategy:
+      fail-fast: false
+      matrix:
+        slice: ["1/4", "2/4", "3/4", "4/4"]
     runs-on: ubuntu-latest
-    # A backstop for a genuine hang only; every gate carries its own timeout in the
-    # registry and is killed there, by name. This must not ordinarily be the thing that fires.
-    timeout-minutes: 45
+    timeout-minutes: 30   # a backstop for a hang only; every gate is killed by its own budget, by name
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0   # some gates read git history
       - uses: ./.github/actions/generated-views-setup
-      - run: pip install pytest pytest-xdist pytest-timeout
-      - name: Phase 1 — every parallel-safe gate, in parallel
-        run: python3 -m pytest -n auto -m "check and not nightly"
-      - name: Phase 2 — every tree-mutating gate, one at a time
-        # `if: always()` so phase 2 still runs and reports when phase 1 is red: the whole
-        # point of one job is that every failing gate is named together, not one per push.
-        if: always()
-        run: python3 -m pytest -p no:xdist -m "selftest and not nightly"
+      - run: pip install pytest pytest-timeout
+      - name: Phase 1 — parallel-safe gates, slice ${{ matrix.slice }}
+        env:
+          GATE_SLICE: ${{ matrix.slice }}
+        run: python3 -m pytest -m "check and not nightly"
+
+  gates-selftest:
+    strategy:
+      fail-fast: false
+      matrix:
+        slice: ["1/2", "2/2"]
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: ./.github/actions/generated-views-setup
+      - run: pip install pytest pytest-timeout
+      - name: Phase 2 — tree-mutating gates, one at a time, slice ${{ matrix.slice }}
+        env:
+          GATE_SLICE: ${{ matrix.slice }}
+        run: python3 -m pytest -m "selftest and not nightly"
+
+  # THE REQUIRED CHECK, and only a fan-in: branch protection requires the literal name
+  # `generated-views`, so the name stays and the work moved into the two matrices above.
+  # `if: always()` so a failed, cancelled OR skipped slice fails this job -- a skipped
+  # required check does not report a failure, which is the "cancelled reads as somebody's
+  # choice" trap this repo has paid for twice.
+  generated-views:
+    needs: [gates-check, gates-selftest]
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Every slice of both phases must have succeeded
+        env:
+          NEEDS_JSON: ${{ toJSON(needs) }}
+        run: |
+          echo "$NEEDS_JSON"
+          fail=0
+          for job in $(echo "$NEEDS_JSON" | jq -r 'keys[]'); do
+            result=$(echo "$NEEDS_JSON" | jq -r --arg j "$job" '.[$j].result')
+            echo "$job: $result"
+            [ "$result" = "success" ] || { echo "FAIL  $job reported '$result', not success"; fail=1; }
+          done
+          exit $fail
 
   # NIGHTLY TIER: gates too slow for a PR (full-corpus scans, the MCP smoke test). Not what
   # a PR waits on; branch protection does not require this job. Same two phases.
@@ -73,9 +122,9 @@ jobs:
         with:
           fetch-depth: 0
       - uses: ./.github/actions/generated-views-setup
-      - run: pip install pytest pytest-xdist pytest-timeout
+      - run: pip install pytest pytest-timeout
       - name: Phase 1 — nightly parallel-safe gates
-        run: python3 -m pytest -n auto -m "check and nightly"
+        run: python3 -m pytest -m "check and nightly"
       - name: Phase 2 — nightly tree-mutating gates, one at a time
         if: always()
         run: python3 -m pytest -p no:xdist -m "selftest and nightly"
