@@ -3,8 +3,7 @@ name: scheduled
 # Scheduled upstream-change detection, REINSTATED 2026-08-02 (M4 stage 3).
 #
 # History: the original cron was retired 2026-07-18 because one dead fetch failed the
-# whole 813-source run (see the header of detect-upstream-changes.yml and
-# .claude/skills/check-updates/SKILL.md), leaving this — the platform's largest corpus —
+# whole 813-source run (see .claude/skills/check-updates/SKILL.md), leaving this — the platform's largest corpus —
 # as the only one with NO scheduled drift detection at all. corpus-toolkit v1.22.0
 # removed both blockers: `corpus-detect-changes` now tolerates isolated fetch failures
 # (systemic >20% still fails) and takes a repeatable `--group` filter, so the cron can
