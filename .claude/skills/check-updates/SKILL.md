@@ -112,8 +112,8 @@ changes.
   Given a path it touches no network, and it refuses to report at all if `constitution/`
   does not carry what the catalog claims.
 - The old all-sources sweep is now `corpus-detect-changes` (from corpus-toolkit)
-  behind the `detect-upstream-changes` workflow's manual `workflow_dispatch`
-  (cron removed).
+  behind `scheduled.yml`: quarterly on cron, and on demand via its `workflow_dispatch`
+  (the `full-sweep` job).
 - Adding a new group: copy an existing `_meta/sources/*.yml`, fill `kind`/`recheck`/
   `upstream_signal`/`sources`; it appears in `--due` immediately. `recheck` must be one of
   the cadences declared in `src/check_updates.py`'s `CADENCES` table — the schema's enum is
