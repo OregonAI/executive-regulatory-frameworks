@@ -22,30 +22,52 @@ TAIL = 80
 
 
 def _slice():
-    """GATE_SLICE=n/k keeps every k-th gate starting at n, in name order, WITHIN each phase.
+    """GATE_SLICE=n/k: this runner's share of each phase, balanced by the registry's timeouts.
 
-    The first CI run of this suite measured why: four full-corpus walks on one 4-core
-    runner ran 4-5x slower than locally (410 s for a 92 s gate) and one gate hit a budget
-    written for a runner to itself. Every gate's timeout in the registry assumes exclusive
-    use of a runner, as the old shards gave it. So CI runs one gate at a time per runner and
-    spreads the gates over runners instead -- round-robin by sorted name, computed here at
-    collection time, so the registry stays the only list and nothing is bin-packed by hand.
-    Unset (a developer's `pytest -n auto`) means every gate; fast machines parallelise fine.
+    The first CI run of this suite measured why slices exist: four full-corpus walks on one
+    4-core runner ran 4-5x slower than locally (410 s for a 92 s gate) and one gate hit a
+    budget written for a runner to itself. So CI runs one gate at a time per runner and
+    spreads the gates over runners. The second run measured why the spread must be
+    cost-aware: round-robin by name put six of the heaviest walks on two runners -- 19.6 and
+    13.2 minutes beside 2.3 and 1.8 -- for a 19.8-minute wall clock against 11.6 before.
+
+    Each gate's `timeout` was set from its measured seconds with headroom, so it is the cost
+    proxy the old manifest kept by hand, already in the registry. Gates are assigned longest
+    budget first to the slice with the least budget so far (LPT), deterministically, within
+    each phase. No manifest, no hand-packing; a gate added with an honest budget lands where
+    it should. Unset (a developer's `pytest -n auto`) means every gate.
     """
     spec = os.environ.get("GATE_SLICE", "").strip()
     if not spec:
-        return lambda i: True
+        return None
     n, k = (int(x) for x in spec.split("/"))
     assert 1 <= n <= k, f"GATE_SLICE={spec!r}: expected n/k with 1 <= n <= k"
-    return lambda i: i % k == n - 1
+    return n - 1, k
+
+
+def assign_slices(gates, k):
+    """Gate -> slice index, longest budget first onto the least-loaded slice (LPT)."""
+    load = [0] * k
+    out = {}
+    for g in sorted(gates, key=lambda g: (-g.timeout, g.name)):
+        i = min(range(k), key=lambda j: (load[j], j))
+        out[id(g)] = i
+        load[i] += g.timeout
+    return out
 
 
 def _params():
-    keep = _slice()
+    spec = _slice()
     by_phase = {"check": [], "selftest": []}
-    for g in sorted(GATES, key=lambda g: (g.tier, g.name)):
+    for g in GATES:
         by_phase["selftest" if g.serial else "check"].append(g)
-    chosen = {id(g) for phase in by_phase.values() for i, g in enumerate(phase) if keep(i)}
+    chosen = set()
+    for phase_gates in by_phase.values():
+        if spec is None:
+            chosen.update(id(g) for g in phase_gates)
+        else:
+            n, k = spec
+            chosen.update(gid for gid, i in assign_slices(phase_gates, k).items() if i == n)
     for g in GATES:
         if id(g) not in chosen:
             continue
