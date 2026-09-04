@@ -39,6 +39,10 @@ import yaml
 sys.path.insert(0, str(Path(__file__).parent))
 from ingest_lib import fetch
 from repo_lib import REPO_ROOT, content_files, content_hash
+# The toolkit's render-and-compare: missing, unreadable, stale and current kept apart,
+# and never raising (corpus-toolkit repo.check_generated). Replaces a hand-rolled compare
+# that 22 scripts each carried (card 3 of the 2026-09-02 review).
+from corpus_toolkit.repo import check_generated as _tk_check_generated  # noqa: E402
 
 # (edition label, source URL) - hand-verified this session: each PDF's own printed title
 # ("OREGON REVISED STATUTES <year> Renumbering") was checked to match the label. 2017 is the
@@ -245,7 +249,7 @@ def main():
             sys.exit(1)
         data = compute()
         text = yaml.safe_dump(data, sort_keys=False, allow_unicode=True, width=100)
-        if not OUT.exists() or OUT.read_text() != text:
+        if not _tk_check_generated(OUT, text)[0]:
             print(f"{OUT.relative_to(REPO_ROOT)} is stale — run: "
                   "python3 src/ingest_ors_renumbering.py")
             sys.exit(1)

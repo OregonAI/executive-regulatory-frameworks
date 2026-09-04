@@ -54,6 +54,10 @@ import yaml
 sys.path.insert(0, str(Path(__file__).parent))
 from repo_lib import REPO_ROOT, extract_fulltext, parse_frontmatter
 from enrich_oar import load_registry_by_chapter
+# The toolkit's render-and-compare: missing, unreadable, stale and current kept apart,
+# and never raising (corpus-toolkit repo.check_generated). Replaces a hand-rolled compare
+# that 22 scripts each carried (card 3 of the 2026-09-02 review).
+from corpus_toolkit.repo import check_generated as _tk_check_generated  # noqa: E402
 
 CATALOG = REPO_ROOT / "_meta/catalog/conflict-candidates.yml"
 GRAPH = REPO_ROOT / "_meta/graph.json"
@@ -526,7 +530,7 @@ def main():
             return
 
     if "--check" in sys.argv:
-        stale = [p for p, t in outs.items() if not p.exists() or p.read_text() != t]
+        stale = [p for p, t in outs.items() if not _tk_check_generated(p, t)[0]]
         if stale:
             print(f"{OUT.relative_to(REPO_ROOT)} is stale — run: "
                   "python3 src/build_conflict_candidates_data.py")

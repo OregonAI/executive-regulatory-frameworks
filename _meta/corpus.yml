@@ -193,3 +193,19 @@ status:
 provenance:
   coverage_fail_threshold: 0.70
   coverage_warn_threshold: 0.90
+
+# VOLATILE PATTERNS (corpus-toolkit#66) -- per-fetch or per-release bytes that OARD and its
+# CDN embed in every rule page, stripped BEFORE hashing so they cannot read as content
+# changing. These lived only in src/repo_lib.py until 2026-09-04, so the ingest stripped them
+# and corpus-detect-changes did not: the drift detector recorded baselines with the OARD
+# footer version in them, and one footer bump read as every OAR rule changing. Declared here,
+# one list drives both (repo_lib.VOLATILE_PATTERNS is this list, compiled). Regexes over the
+# RAW bytes; the toolkit compiles them as bytes patterns.
+volatile_patterns:
+  - ';JSESSIONID_OARD=[^?''" >]*'
+  - '/cdn-cgi/l/email-protection#[0-9a-f]+'
+  - 'data-cfemail="[0-9a-f]+"'
+  # The OARD application's own version, printed in every rule page's footer (#244). It moved
+  # v2.1.7 -> v2.1.8 and re-stamped every OAR hash without a word of rule text changing.
+  - '(?<=class="colophon">)\s*v\d+\.\d+\.\d+'
+

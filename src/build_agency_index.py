@@ -14,6 +14,10 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 from agency_profile import overview
 from repo_lib import REPO_ROOT
+# The toolkit's render-and-compare: missing, unreadable, stale and current kept apart,
+# and never raising (corpus-toolkit repo.check_generated). Replaces a hand-rolled compare
+# that 22 scripts each carried (card 3 of the 2026-09-02 review).
+from corpus_toolkit.repo import check_generated as _tk_check_generated  # noqa: E402
 
 OUT = REPO_ROOT / "agencies" / "_index.md"
 
@@ -65,7 +69,7 @@ def build() -> str:
 def main():
     text = build()
     if "--check" in sys.argv:
-        if not OUT.exists() or OUT.read_text() != text:
+        if not _tk_check_generated(OUT, text)[0]:
             print("agencies/_index.md is stale — run: python3 src/build_agency_index.py")
             sys.exit(1)
         print("agencies/_index.md is current.")

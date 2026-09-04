@@ -13,9 +13,55 @@ from pathlib import Path
 
 import yaml
 
+# ---------------------------------------------------------------------------------------
+# THE SEAM (card 3 of the 2026-09-02 architecture review; corpus-toolkit ADR-0006's spirit).
+# corpus-toolkit was extracted FROM this file in 2026-07 and this file never switched back:
+# 75 of 88 scripts imported this fork, one imported the toolkit, and the two drifted --
+# `content_hash` most consequentially (see VOLATILE_PATTERNS below). Every name below that
+# the toolkit also provides is now the toolkit's, bound to this corpus's config where the
+# toolkit takes one. The 75 importers are untouched: `from repo_lib import parse_frontmatter`
+# still works and is now the toolkit's function. What remains this module's own is what only
+# this corpus knows -- Constitution slicing, OAR paths, division status, the snapshot slice,
+# the selftest harness -- plus the corpus walk, kept for the #316 refusal guarantee.
+# ---------------------------------------------------------------------------------------
+from corpus_toolkit import config as _config_mod
+from corpus_toolkit import repo as _tk
+from corpus_toolkit.repo import (  # noqa: F401 -- re-exported for the 75 importers
+    Reporter, _stringify_dates, extract_fulltext, extract_verbatim_quotes, normalize_ws,
+    parse_frontmatter, ws_only, yaml_load)
+
+
+
+def repo_state() -> str:
+    """Cheap fingerprint of the corpus (HEAD + hash of `git status`); the toolkit's, at this root."""
+    return _tk.repo_state(REPO_ROOT)
+
+
+def normalize_volatile(data: bytes) -> bytes:
+    """Strip this corpus's declared volatile byte patterns -- the toolkit's function over the
+    toolkit's list, so ingest and drift strip the same bytes (see VOLATILE_PATTERNS)."""
+    return _tk.normalize_volatile(data, CONFIG.volatile_patterns)
+
+
+def content_hash(raw: bytes, fmt: str) -> str:
+    """Content hash of freshly fetched bytes -- the toolkit's, with this corpus's patterns:
+    the hash `corpus-detect-changes` records in the manifest and compares against."""
+    return _tk.content_hash(raw, fmt, CONFIG.volatile_patterns)
+
+
+def hash_snapshot(doc_id: str, fmt: str, snapshot_dir: Path = None) -> str:
+    """CI-stable hash of the committed .txt beside a snapshot -- the toolkit's, which is what
+    `corpus-verify-provenance` checks. Identical on all 44,081 snapshots (2026-09-04 census)."""
+    return _tk.hash_snapshot(doc_id, fmt, SNAPSHOT_DIR if snapshot_dir is None else snapshot_dir)
+
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
-CONTENT_DIRS = ["statutes", "rules", "executive-orders", "agencies", "external-references",
-                "constitution"]
+CONFIG = _config_mod.load(REPO_ROOT / "_meta" / "corpus.yml")  # the toolkit's view of this corpus
+# DERIVED from _meta/corpus.yml, never restated: the toolkit walks `content_dirs` from the
+# same file, and two lists of "where the content is" is the Stated-figure defect class this
+# repo keeps paying for. The walk below stays this module's own for the #316 guarantee (a
+# directory that exists but cannot be read is a refusal, never an empty corpus).
+CONTENT_DIRS = list(CONFIG.content_dirs)
 SNAPSHOT_DIR = REPO_ROOT / "_meta" / "snapshots"
 SCHEMA_DIR = REPO_ROOT / "_meta" / "schema"
 SOURCES_DIR = REPO_ROOT / "_meta" / "sources"
@@ -59,28 +105,6 @@ def oar_rule_path(number: str, root: Path = REPO_ROOT) -> Path:
     disk check both ways without touching or depending on the real `rules/` tree."""
     ch, div, _ = number.split("-")
     return root / "rules" / ch / div / f"oar-{number}.md"
-
-
-def repo_state() -> str:
-    """Cheap fingerprint of the corpus: HEAD commit + hash of `git status` porcelain
-    (captures uncommitted adds/edits well enough for a cache key). Shared by every
-    module-level cache keyed on "has the corpus changed" (mcp_lib's FTS index,
-    agency_profile's derived stats) so they invalidate together and consistently."""
-    head = subprocess.run(["git", "rev-parse", "HEAD"], cwd=REPO_ROOT,
-                          capture_output=True, text=True).stdout.strip()
-    status = subprocess.run(["git", "status", "--porcelain"], cwd=REPO_ROOT,
-                            capture_output=True, text=True).stdout
-    return head + ":" + hashlib.sha256(status.encode()).hexdigest()[:16]
-
-
-def yaml_load(text: str):
-    """yaml.safe_load, but via the libyaml-backed CSafeLoader when available. Matters at
-    this corpus's scale: the big catalogs (oar.yml ~3.8MB, ors.yml ~4.5MB) take ~24-28s each
-    under PyYAML's pure-Python SafeLoader vs ~5s under CSafeLoader — a real cost when paid
-    repeatedly (every MCP corpus_overview/resolve_citation call, every full-corpus script
-    run) rather than once. Falls back to plain SafeLoader if libyaml bindings aren't
-    installed in a given environment; same result either way, just slower."""
-    return yaml.load(text, Loader=_YAML_LOADER)
 
 
 def source_groups():
@@ -338,46 +362,7 @@ def changed_content_files(base_ref: str | None = None):
     return sorted(out)
 
 
-def parse_frontmatter(path: Path):
-    """Return (frontmatter dict, body str). Raises ValueError if malformed."""
-    text = path.read_text(encoding="utf-8")
-    if not text.startswith("---\n"):
-        raise ValueError("missing YAML frontmatter (file must start with ---)")
-    end = text.find("\n---", 4)
-    if end == -1:
-        raise ValueError("unterminated YAML frontmatter")
-    fm = yaml.safe_load(text[4:end])
-    if not isinstance(fm, dict):
-        raise ValueError("frontmatter is not a YAML mapping")
-    body = text[end + 4:]
-    return _stringify_dates(fm), body
-
-
-def _stringify_dates(value):
-    """YAML parses bare dates into datetime.date; canonicalize to ISO strings."""
-    if isinstance(value, datetime.date):
-        return value.isoformat()
-    if isinstance(value, dict):
-        return {k: _stringify_dates(v) for k, v in value.items()}
-    if isinstance(value, list):
-        return [_stringify_dates(v) for v in value]
-    return value
-
-
 _PUNCT_MAP = str.maketrans({"‘": "'", "’": "'", "“": '"', "”": '"', " ": " "})
-
-
-def ws_only(s: str) -> str:
-    """Collapse whitespace runs WITHOUT touching punctuation — for producing rendered
-    text (e.g. '## Full text' slices) where original curly quotes must be preserved."""
-    return re.sub(r"\s+", " ", s).strip()
-
-
-def normalize_ws(s: str) -> str:
-    """Collapse whitespace runs to single spaces (PDF extraction wraps lines) and map
-    curly quotes/apostrophes to straight ones, so punctuation style in the rendered
-    Markdown never causes a false quote mismatch."""
-    return re.sub(r"\s+", " ", s.translate(_PUNCT_MAP)).strip()
 
 
 # Quotes are authored between straight double quotes; curly quotes are reserved for
@@ -385,19 +370,7 @@ def normalize_ws(s: str) -> str:
 VERBATIM_RE = re.compile(r"\*\*\[VERBATIM\]\*\*\s*\"(.*?)\"", re.DOTALL)
 
 
-def extract_verbatim_quotes(body: str):
-    """Return the quoted text of every **[VERBATIM]** "..." block, blockquote markers stripped."""
-    cleaned = re.sub(r"^\s*>\s?", "", body, flags=re.MULTILINE)
-    return [m.group(1) for m in VERBATIM_RE.finditer(cleaned)]
-
-
 FULLTEXT_RE = re.compile(r"^## Full text\s*$(.*?)(?=^## |\Z)", re.MULTILINE | re.DOTALL)
-
-
-def extract_fulltext(body: str):
-    """Return the '## Full text' section body, or None if absent."""
-    m = FULLTEXT_RE.search(body)
-    return m.group(1) if m else None
 
 
 ITCS_FAMILY_CODES = ["AC", "AT", "AU", "CA", "CM", "CP", "IA", "IR", "MA", "MP",
@@ -860,22 +833,14 @@ def snapshot_slice(doc_id: str, snapshot_id: str, raw_text: str) -> str:
 # Cloudflare email-protection keys). HTML snapshots are stored and hashed with these
 # stripped, and detect_changes strips them before comparing, so hash drift means real
 # content drift.
-VOLATILE_PATTERNS = [
-    rb";JSESSIONID_OARD=[^?'\" >]*",
-    rb"/cdn-cgi/l/email-protection#[0-9a-f]+",
-    rb"data-cfemail=\"[0-9a-f]+\"",
-    # The OARD application's own version, printed in every rule page's footer (#244). It
-    # moved v2.1.7 -> v2.1.8 and re-stamped every OAR hash without a word of rule text
-    # changing. UNLIKE THE THREE ABOVE this one matches VISIBLE text -- html_to_text keeps
-    # it -- which is exactly the case snapshot_identity.py (#207) was built to catch.
-    rb"(?<=class=\"colophon\">)\s*v\d+\.\d+\.\d+",
-]
-
-
-def normalize_volatile(data: bytes) -> bytes:
-    for pat in VOLATILE_PATTERNS:
-        data = re.sub(pat, b"", data)
-    return data
+# THE PATTERNS LIVE IN _meta/corpus.yml NOW (`volatile_patterns:`, corpus-toolkit#66), and this
+# name is the toolkit's compiled list, so every hash in this repo -- ingest, drift, the
+# snapshot-identity gate -- strips the same bytes the drift detector strips. Measured on
+# 2026-09-04 over 44,081 snapshots: with the four patterns declared only here, this module
+# and corpus-detect-changes disagreed on the hash of every one of 36,951 HTML pages; with the
+# patterns declared in corpus.yml they agreed on all of them. That disagreement is what made
+# an OARD footer bump read as 6,614 of 6,614 OAR rules changing (ADR 0015's first DRIFT.md).
+VOLATILE_PATTERNS = CONFIG.volatile_patterns
 
 
 # A DIVISION'S INGEST STATUS IS DERIVED FROM ITS RULES', not written independently (#236).
@@ -980,31 +945,6 @@ def snapshot_text(raw: bytes) -> str:
     return html_to_text(normalize_volatile(raw))
 
 
-def content_hash(raw: bytes, fmt: str) -> str:
-    """Content hash of a freshly-fetched source: sha256 of the whitespace-normalized
-    extracted text (pdftotext for PDFs, tag-stripping for HTML). Some servers stamp
-    different bytes on every download (Cloudflare scripts, PDF metadata), so raw-byte
-    hashes drift without content change. Falls back to the raw-byte hash when extraction
-    yields <200 chars (e.g. image-only scans), where text hashing would be meaningless.
-
-    Used only by detect_changes.py (comparing a fresh fetch against the manifest) and at
-    ingestion time. NOT used by verify_provenance.py — pdftotext's output can differ by
-    poppler version, so re-deriving text from the .pdf at CI verification time is
-    nondeterministic across machines. See hash_snapshot() for the CI-stable check, which
-    hashes the .txt already committed alongside the .pdf instead of re-extracting it."""
-    if fmt == "pdf":
-        import subprocess
-        proc = subprocess.run(["pdftotext", "-layout", "-", "-"], input=raw,
-                              capture_output=True, check=False)
-        text = proc.stdout.decode("utf-8", errors="replace") if proc.returncode == 0 else ""
-    elif fmt in ("html", "xml"):
-        text = snapshot_text(raw)
-    else:
-        # binary formats with no text extractor (xls/xlsx/docx): raw-byte hash
-        return hashlib.sha256(raw).hexdigest()
-    return normalized_text_hash(text) or hashlib.sha256(raw).hexdigest()
-
-
 # Below this many characters of extracted text, hashing the text says nothing about the
 # content (an image-only scan, a page that failed to render), so every caller falls back to
 # the raw bytes it was extracted from.
@@ -1024,39 +964,6 @@ def normalized_text_hash(text: str) -> str | None:
     if len(norm) < MIN_HASHABLE_TEXT_CHARS:
         return None
     return hashlib.sha256(norm.encode("utf-8")).hexdigest()
-
-
-def hash_snapshot(doc_id: str, fmt: str, snapshot_dir: Path = SNAPSHOT_DIR) -> str:
-    """CI-stable content hash: sha256 of the whitespace-normalized text already
-    committed in <id>.txt (produced once at ingestion time), never re-derived from the
-    .pdf/.html at verification time. Falls back to the raw source file's bytes if no
-    .txt exists or it's too short to be meaningful (image-only scans)."""
-    raw = (snapshot_dir / f"{doc_id}.{fmt}").read_bytes()
-    txt_path = snapshot_dir / f"{doc_id}.txt"
-    if txt_path.is_file():
-        committed = normalized_text_hash(
-            txt_path.read_text(encoding="utf-8", errors="replace"))
-        if committed:
-            return committed
-    return hashlib.sha256(raw).hexdigest()
-
-
-class Reporter:
-    def __init__(self):
-        self.errors = 0
-
-    def error(self, path, msg):
-        print(f"ERROR   {path}: {msg}")
-        self.errors += 1
-
-    def warn(self, path, msg):
-        print(f"warning {path}: {msg}")
-
-    def finish(self, ok_msg):
-        if self.errors:
-            print(f"\nFAILED with {self.errors} error(s).")
-            sys.exit(1)
-        print(ok_msg)
 
 
 class Checks:

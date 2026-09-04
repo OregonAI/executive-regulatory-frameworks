@@ -24,6 +24,10 @@ from pathlib import Path
 
 from repo_lib import (REPO_ROOT, content_files, extract_fulltext, parse_frontmatter, ws_only,
                       yaml_load)
+# The toolkit's render-and-compare: missing, unreadable, stale and current kept apart,
+# and never raising (corpus-toolkit repo.check_generated). Replaces a hand-rolled compare
+# that 22 scripts each carried (card 3 of the 2026-09-02 review).
+from corpus_toolkit.repo import check_generated as _tk_check_generated  # noqa: E402
 
 GRAPH = REPO_ROOT / "_meta/graph.json"
 OAR_CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
@@ -435,7 +439,7 @@ def main():
     if "--check" in sys.argv:
         graph, _ = compute(write=False)
         current = json.dumps(graph, indent=1, ensure_ascii=False) + "\n"
-        if not GRAPH.exists() or GRAPH.read_text() != current:
+        if not _tk_check_generated(GRAPH, current)[0]:
             print("_meta/graph.json is stale — run: python3 src/link_graph.py")
             sys.exit(1)
         print("_meta/graph.json is current.")

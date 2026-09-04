@@ -73,6 +73,10 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).parent))
 from repo_lib import REPO_ROOT, extract_fulltext, parse_frontmatter
+# The toolkit's render-and-compare: missing, unreadable, stale and current kept apart,
+# and never raising (corpus-toolkit repo.check_generated). Replaces a hand-rolled compare
+# that 22 scripts each carried (card 3 of the 2026-09-02 review).
+from corpus_toolkit.repo import check_generated as _tk_check_generated  # noqa: E402
 
 GRAPH = REPO_ROOT / "_meta/graph.json"
 ORS_CAT = REPO_ROOT / "_meta/catalog/ors.yml"
@@ -303,7 +307,7 @@ def main():
             if not CATALOG.is_file():
                 sys.exit(f"{CATALOG.relative_to(REPO_ROOT)} is missing — run "
                          f"`python3 src/detect_mechanical.py --write`")
-            if CATALOG.read_text() != text:
+            if not _tk_check_generated(CATALOG, text)[0]:
                 sys.exit(f"{CATALOG.relative_to(REPO_ROOT)} is stale — rerun "
                          f"`python3 src/detect_mechanical.py --write`")
             print(f"{CATALOG.relative_to(REPO_ROOT)} is current.")

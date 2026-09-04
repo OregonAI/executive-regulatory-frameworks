@@ -16,6 +16,10 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from repo_lib import REPO_ROOT
+# The toolkit's render-and-compare: missing, unreadable, stale and current kept apart,
+# and never raising (corpus-toolkit repo.check_generated). Replaces a hand-rolled compare
+# that 22 scripts each carried (card 3 of the 2026-09-02 review).
+from corpus_toolkit.repo import check_generated as _tk_check_generated  # noqa: E402
 
 GRAPH = REPO_ROOT / "_meta/graph.json"
 OUT = REPO_ROOT / "viz/authority-explorer.html"
@@ -67,7 +71,7 @@ def outputs():
 def main():
     outs = outputs()
     if "--check" in sys.argv:
-        stale = [p for p, t in outs.items() if not p.exists() or p.read_text() != t]
+        stale = [p for p, t in outs.items() if not _tk_check_generated(p, t)[0]]
         if stale:
             print(f"{OUT.relative_to(REPO_ROOT)} is stale — run: python3 src/build_authority_explorer.py")
             sys.exit(1)
