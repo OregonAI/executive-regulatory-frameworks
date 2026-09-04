@@ -180,7 +180,7 @@ def main():
     outs = outputs()
     if "--check" in sys.argv:
         stale = [p for p, text in outs.items()
-                 if not p.exists() or p.read_text() != text]
+                 if not _tk_check_generated(p, text)[0]]
         if stale:
             names = ", ".join(str(p.relative_to(REPO_ROOT)) for p in stale)
             print(f"{names} is stale — run: python3 src/build_agency_graph.py")
@@ -200,6 +200,10 @@ def main():
 
 # The HTML template lives in a sibling module string to keep this file readable.
 from _agency_graph_html import HTML_TEMPLATE  # noqa: E402
+# The toolkit's render-and-compare: missing, unreadable, stale and current kept apart,
+# and never raising (corpus-toolkit repo.check_generated). Replaces a hand-rolled compare
+# that 22 scripts each carried (card 3 of the 2026-09-02 review).
+from corpus_toolkit.repo import check_generated as _tk_check_generated  # noqa: E402
 
 
 if __name__ == "__main__":

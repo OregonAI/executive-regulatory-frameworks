@@ -20,6 +20,10 @@ import yaml
 from catalog_oar import CLAIMED_ELSEWHERE_DIVISION_MARK, CONFIRMED_EMPTY_DIVISION_MARK, display_note
 from legal_status import ACTION_KEY, CATALOG_KEY, NOTICE_KEY
 from repo_lib import REPO_ROOT, content_files, parse_frontmatter
+# The toolkit's render-and-compare: missing, unreadable, stale and current kept apart,
+# and never raising (corpus-toolkit repo.check_generated). Replaces a hand-rolled compare
+# that 22 scripts each carried (card 3 of the 2026-09-02 review).
+from corpus_toolkit.repo import check_generated as _tk_check_generated  # noqa: E402
 
 OUT = REPO_ROOT / "REVIEW.md"
 TODO_MARK = "TODO: human verification required"
@@ -380,7 +384,7 @@ def main():
     q, cat_items, body_counts = scan()
     text = render(q, cat_items, body_counts)
     if "--check" in sys.argv:
-        if not OUT.exists() or OUT.read_text() != text:
+        if not _tk_check_generated(OUT, text)[0]:
             print("REVIEW.md is stale — run: python3 src/review_queue.py")
             sys.exit(1)
         print("REVIEW.md is current.")

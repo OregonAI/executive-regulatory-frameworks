@@ -30,6 +30,10 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import analyze_conflicts as AC  # noqa: E402
+# The toolkit's render-and-compare: missing, unreadable, stale and current kept apart,
+# and never raising (corpus-toolkit repo.check_generated). Replaces a hand-rolled compare
+# that 22 scripts each carried (card 3 of the 2026-09-02 review).
+from corpus_toolkit.repo import check_generated as _tk_check_generated  # noqa: E402
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CATALOG = REPO_ROOT / "_meta/catalog/conflict-candidates.yml"
@@ -149,7 +153,7 @@ def main() -> int:
     data = build()
     text = yaml.safe_dump(data, sort_keys=False, allow_unicode=True, width=100)
     if "--check" in sys.argv:
-        if not OUT.is_file() or OUT.read_text() != text:
+        if not _tk_check_generated(OUT, text)[0]:
             print(f"{OUT.relative_to(REPO_ROOT)} is stale — run: "
                   f"python3 src/build_conflict_coverage.py", file=sys.stderr)
             return 1
