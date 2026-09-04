@@ -54,3 +54,4 @@ _meta/.cache/conflict-eval/
 # markdown files for a living — which is exactly how it broke the external-citations
 # gate in the first place.
 .toolkit/
+.pytest_cache/

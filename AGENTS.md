@@ -796,31 +796,38 @@ the nightly cron and manual dispatch validate the full corpus — so between a m
 Dependencies: `pip install -r requirements.txt` (installs corpus-toolkit, pinned in
 that file, plus pyyaml/jsonschema for the local scripts under `src/`).
 
-## Before pushing: run every generated-view gate locally (#318)
+## Before pushing: run the gates locally
 
 ```bash
-python3 src/check_all.py            # every gate the workflow runs, one command, no push
-python3 src/check_all.py --list     # what would run, without running it
+pip install pytest pytest-xdist pytest-timeout       # once
+python3 -m pytest -n auto -m "check and not nightly"      # phase 1: every parallel-safe gate
+python3 -m pytest -p no:xdist -m "selftest and not nightly"   # phase 2: tree-mutating gates, serial
+python3 -m pytest -k "STATUS.md"                      # one gate, by (part of) its name
+python3 -m pytest --collect-only -q                   # what would run
 ```
 
-Run this **before pushing, by default** — not only when you suspect something broke.
+Run both phases **before pushing, by default** — not only when you suspect something broke.
+This is the same list CI runs. CI spreads it over runners (`GATE_SLICE=n/k`, one gate at a
+time per runner, because every gate's budget assumes a runner to itself); a developer
+machine can run it all at once with `-n auto`.
 
-WHY. **GitHub stops a job at its first failing step.** `generated-views` is a fan-in over
-five `generated-views-shard-N` jobs (#268), and each shard can hold a dozen-plus gates —
-but CI only ever reports exactly one failure per shard, however many it actually holds. `main`
-went red three times from a single ingest (#238) because of this: #302 fixed the views that
-ingest regenerated, by hand; #309 fixed five more once CI reported them, one shard-failure
-at a time; #318 found CI naming three more and a manual sweep of the workflow YAML turning
-up two beyond that. Each round only ever surfaced the *next* layer — fixing shard-2's
-reported failure just let shard-2 run far enough to hit its *next* one, on the *next* push.
-**A push that turns one shard green can still be hiding three more failures in that same
-shard**, invisible until the next round-trip to CI.
+**The gates are a test suite.** `tests/gates.py` is the one registry — name, argv, tier,
+whether the gate may run beside others, and its timeout — and `tests/test_gates.py` runs
+each as a subprocess from the repository root with that exact argv. Adding a gate is adding
+an entry. There is no workflow step to write, no manifest to update, no shard to choose.
+Until 2026-09-04 that list lived as 79 steps in a 1,009-line workflow, hand-packed into five
+shard jobs by a cost manifest, with a 547-line script checking the two agreed and a 465-line
+local runner re-deriving the list from the YAML; a gate that grew a full-corpus walk inside a
+two-minute step kept `main` red for five days. Now a red X names a test, a timeout fails that
+test alone, and `--durations` prints the real cost of every gate on every run.
 
-`src/check_all.py` is the local mirror of the entire sweep: it derives its gate list from
-`src/shard_generated_views.py` (never a second parse of the workflow YAML — see that
-module's own docstring) and runs every gate in every shard, PLUS `generated-views-nightly`'s
-(the schedule/workflow_dispatch-only job, out of scope for that module's PR-tier manifest by
-design but still a job CI runs — #329), without stopping at the first failure, so **all** of
-them are named together instead of one shard-failure at a time across however many pushes it
-takes to surface the rest. A gate that could not even be run (missing command, timeout) is
-reported as its own status, not folded into a pass or a silent skip.
+**Why two phases.** A `--selftest` gate breaks a fixture in the working tree, watches a rule
+fire, and restores it, so it must never run beside ANY other gate — not another selftest,
+not a `--check` reading the fixture mid-mutation. Phase 1 is the parallel-safe checks; phase
+2 runs every tree-mutating gate one at a time, and a guard fails, by name, any gate that
+left the tree dirty, then resets the tree so the next one starts clean. A gate that could not
+run to completion (timeout) fails as its own message, distinct from one that ran and failed:
+could not check is never reported as is not there.
+
+The scripts keep their own `--check` and `--selftest` flags for direct use; the suite is a
+thin runner over them, and the interface it tests is the one CI always ran.
