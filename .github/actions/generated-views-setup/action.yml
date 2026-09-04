@@ -1,10 +1,9 @@
 name: generated-views setup
 description: >
-  Shared toolchain preamble for every generated-views-shard-N and
-  generated-views-nightly job (#268 code review). Single-sourced so a future
-  re-shard cannot produce a shard that is subtly less capable than its
-  siblings -- which is exactly how shards 1-4 lost the corpus-toolkit install
-  that shard-5 kept, in the change this action was added to fix.
+  Shared toolchain preamble for the generated-views and generated-views-nightly
+  jobs. Single-sourced (#268 code review) so the two jobs cannot drift apart in
+  what they install -- which is exactly how, under the old five-shard layout,
+  shards 1-4 lost the corpus-toolkit install that shard-5 kept.
 
   ONE PIN, and it is not in this file: the toolkit is installed at the exact tag
   requirements.txt names (corpus-toolkit ADR-0014), so the gates prove the toolkit this
