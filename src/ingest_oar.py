@@ -279,9 +279,14 @@ def cmd_ingest(chapters, skip_group=False):
                 out = oar_rule_path(target)
                 out_dir = out.parent
                 if out.exists():
+                    # #338: the document at `out` is the same document either way -- what
+                    # differs is only whether THIS row's own number is also the served
+                    # one. A renumbered row (served != num) still names it via
+                    # `served_as`, and that target is real, so `path` is stamped the same
+                    # way a same-numbered row's already was.
+                    r["path"] = str(out.relative_to(REPO_ROOT))
                     if served == num:
                         r["status"] = "ingested"
-                        r["path"] = str(out.relative_to(REPO_ROOT))
                     continue
                 out_dir.mkdir(parents=True, exist_ok=True)
                 (SNAPSHOT_DIR / f"{doc_id}.html").write_bytes(raw)
@@ -531,6 +536,69 @@ def _non_docstring_public_law_refs(tree: ast.Module) -> list:
     return hits
 
 
+def _renumbered_out_exists_stamps_path() -> bool:
+    """#338 fixture: a row whose OARD-served number differs from its own (a renumber)
+    must still get `path` set when the served target's file already exists on disk --
+    the `out.exists()` branch used to gate that write on `served == num`, so a row like
+    125-800-0005 (serves 128-030-0005, whose file another row already wrote) named its
+    `served_as` target but never recorded where it lives. Runs `cmd_ingest` itself
+    against a temporary catalog/group/rules tree and a stubbed `fetch`, rather than
+    re-deriving the expected path the way the code does, so this fails if the real
+    write site regresses.
+    """
+    import tempfile
+    num, served = "125-800-0005", "128-030-0005"
+    with tempfile.TemporaryDirectory() as td:
+        tmp_root = Path(td)
+        served_path = oar_rule_path(served, root=tmp_root)
+        served_path.parent.mkdir(parents=True, exist_ok=True)
+        served_path.write_text("the document OARD already serves 128-030-0005 under")
+        (tmp_root / "_meta" / ".cache").mkdir(parents=True, exist_ok=True)
+
+        catalog_path = tmp_root / "oar.yml"
+        catalog_path.write_text(yaml.safe_dump({
+            "chapters": [{"chapter": "125",
+                          "divisions": [{"rules": [{"number": num}]}]}]
+        }))
+        group_path = tmp_root / "sources.yml"
+        group_path.write_text(yaml.safe_dump({"sources": []}))
+
+        raw = (f"<html><body><p>{served}</p><p>" +
+               "lorem ipsum rule body text. " * 20 + "</p></body></html>").encode()
+
+        # `division_status` (repo_lib) is not among this module's own imports -- cmd_ingest
+        # reaches it unconditionally after the per-rule loop, on any nonempty chapter, so a
+        # fixture run through the real function needs it in scope the same as a live run
+        # would. Out of #338's seam (the out.exists()/path write), so supplied here rather
+        # than added to the module's imports.
+        from repo_lib import division_status
+        g = globals()
+        _unset = object()
+        keys = ("CATALOG", "GROUP", "REPO_ROOT", "fetch", "oar_rule_path", "division_status")
+        saved = {k: g.get(k, _unset) for k in keys}
+        try:
+            g["CATALOG"] = catalog_path
+            g["GROUP"] = group_path
+            g["REPO_ROOT"] = tmp_root
+            g["fetch"] = lambda url: raw
+            g["oar_rule_path"] = lambda number, root=tmp_root: (
+                tmp_root / "rules" / number.split("-")[0] / number.split("-")[1] /
+                f"oar-{number}.md")
+            g["division_status"] = division_status
+            cmd_ingest(["125"], skip_group=True)
+        finally:
+            for k, v in saved.items():
+                if v is _unset:
+                    g.pop(k, None)
+                else:
+                    g[k] = v
+
+        result = yaml.safe_load(catalog_path.read_text())
+        row = result["chapters"][0]["divisions"][0]["rules"][0]
+        return (row.get("served_as") == served and
+                row.get("path") == str(served_path.relative_to(tmp_root)))
+
+
 def selftest() -> int:
     check = Checks()
     tree = ast.parse(Path(__file__).read_text())
@@ -669,6 +737,12 @@ def selftest() -> int:
         check("the refusal names this ticket", "#276" in msg)
     after = CATALOG.read_bytes() if CATALOG.exists() else None
     check("the refusal did not touch the catalog file on disk", before == after)
+
+    # #338: the out.exists() branch must stamp `path` for a RENUMBERED row the same way
+    # it already does for a same-numbered one -- watched RED before the fix, since the
+    # branch used to `continue` without ever setting `path` when `served != num`.
+    check("a renumbered row whose served target's file already exists ends with `path` "
+          "set to that file (#338)", _renumbered_out_exists_stamps_path())
 
     return check.report()
 
