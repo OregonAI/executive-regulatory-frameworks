@@ -83,7 +83,7 @@ sources:
     Standards|Land Quality|
 - id: deq-imd-7070232
   url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/DocumentStream.ashx?uri=7070232
-  sha256: b84cd892d37d265efc7d272ced886940da9b7a138f0d7d1d3454fdd26563b365
+  sha256: "d2fed3056574c3a2e8eefc5307e5ff895e5f59374ba9e2fdc1c0af03c180021e"
   last_checked: '2026-07-22'
   notes: 7070232|Clean Fill Determinations|Land Quality|2019
 - id: deq-imd-7070243
@@ -128,12 +128,12 @@ sources:
   notes: 7070221|Antidegradation Policy Implementation|Water Quality|2001
 - id: deq-imd-7070228
   url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/DocumentStream.ashx?uri=7070228
-  sha256: f14deb23c5b723a9044cef569ddb4f4e1dff93f9691d2b60e8fdfb0d1a4c19f6
+  sha256: "e84290f383c1ad3d3fab91649fb80ff714bd7a7c0d7af257bfd66b4094723f16"
   last_checked: '2026-07-22'
   notes: 7070228|Arsenic Reduction Policy in Surface Water Drinking Water Source Area|Water Quality|2013
 - id: deq-imd-7070230
   url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/DocumentStream.ashx?uri=7070230
-  sha256: dcb70161b2d10eb6bc735120d8592b0de64f830767efc5c2b5ad8b6db5f105b0
+  sha256: "0345d03758302f534d20a8773e9544282818b1f1d4aa253eac6c791c0b48b9e3"
   last_checked: '2026-07-22'
   notes: 7070230|Bacterial Criteria for Marine and Estuarine Waters|Water Quality|2012
 - id: deq-imd-7070207
@@ -192,7 +192,7 @@ sources:
     Quality|2002
 - id: deq-imd-7070211
   url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/DocumentStream.ashx?uri=7070211
-  sha256: dcb70161b2d10eb6bc735120d8592b0de64f830767efc5c2b5ad8b6db5f105b0
+  sha256: "0345d03758302f534d20a8773e9544282818b1f1d4aa253eac6c791c0b48b9e3"
   last_checked: '2026-07-22'
   notes: '7070211|Oregon Bacterial Rule: Bacterial Criteria for Marine and Estuarine Waters|Water Quality|'
 - id: deq-imd-7070294
@@ -207,7 +207,7 @@ sources:
   notes: 7070202|Reasonable Potential Analysis Process for Toxic Pollutants|Water Quality|2024
 - id: deq-imd-7070285
   url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/DocumentStream.ashx?uri=7070285
-  sha256: a27a5345997037379febac01a044acf5f714e6dd1f8f23149510e035e69018f4
+  sha256: "fc71154c570d2e9005b7521d8fc48579f999a523608eafd078536cf1aae75056"
   last_checked: '2026-07-22'
   notes: 7070285|Recycled Water|Water Quality|2009
 - id: deq-imd-7070208
@@ -217,7 +217,7 @@ sources:
   notes: 7070208|Regulatory Mixing Zone IMD - part 1|Water Quality|
 - id: deq-imd-7070209
   url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/DocumentStream.ashx?uri=7070209
-  sha256: c47e6537707993321ac63f0dcf35b18ad64d74ff96b51598603952905ef1b6f2
+  sha256: "a75c5fa80ab6c039cafc40bd3bcc13ba0101c82d25fdf089fb4388bacef12bda"
   last_checked: '2026-07-22'
   notes: 7070209|Regulatory Mixing Zone IMD - part 2|Water Quality|2013
 - id: deq-imd-7070281
@@ -249,7 +249,7 @@ sources:
     Memo|Water Quality|
 - id: deq-imd-7070300
   url: https://ormswd2.synergydcs.com/ORMSCMSearchDEQ/Search/DocumentStream.ashx?uri=7070300
-  sha256: b0868bc05e2375f2ef944f1267139024b9687830eb157795b3e02a05e0c3a90c
+  sha256: "91bb26a95624d6ea88bacc2c6ecb45708cd785f5c2c322febd5304d61b247328"
   last_checked: '2026-07-22'
   notes: 7070300|Variances for NPDES Permit Holders|Water Quality|2012
 - id: deq-imd-7070198
