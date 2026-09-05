@@ -35,9 +35,9 @@ import yaml
 
 from ingest_lib import fetch
 from legal_status import bulletin_status_by_rule, resolve
-from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, Checks, content_hash, normalize_volatile,
-                      oar_rule_path, rule_title_from_html, snapshot_slice, ws_only,
-                      snapshot_text)
+from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, Checks, content_hash, division_status,
+                      normalize_volatile, oar_rule_path, rule_title_from_html,
+                      snapshot_slice, ws_only, snapshot_text)
 
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
 GROUP = REPO_ROOT / "_meta/sources/oar.yml"
@@ -566,25 +566,20 @@ def _renumbered_out_exists_stamps_path() -> bool:
         raw = (f"<html><body><p>{served}</p><p>" +
                "lorem ipsum rule body text. " * 20 + "</p></body></html>").encode()
 
-        # `division_status` (repo_lib) is not among this module's own imports -- cmd_ingest
-        # reaches it unconditionally after the per-rule loop, on any nonempty chapter, so a
-        # fixture run through the real function needs it in scope the same as a live run
-        # would. Out of #338's seam (the out.exists()/path write), so supplied here rather
-        # than added to the module's imports.
-        from repo_lib import division_status
+        real_oar_rule_path = oar_rule_path
         g = globals()
         _unset = object()
-        keys = ("CATALOG", "GROUP", "REPO_ROOT", "fetch", "oar_rule_path", "division_status")
+        keys = ("CATALOG", "GROUP", "REPO_ROOT", "fetch", "oar_rule_path")
         saved = {k: g.get(k, _unset) for k in keys}
         try:
             g["CATALOG"] = catalog_path
             g["GROUP"] = group_path
             g["REPO_ROOT"] = tmp_root
             g["fetch"] = lambda url: raw
-            g["oar_rule_path"] = lambda number, root=tmp_root: (
-                tmp_root / "rules" / number.split("-")[0] / number.split("-")[1] /
-                f"oar-{number}.md")
-            g["division_status"] = division_status
+            # Same derivation `repo_lib.oar_rule_path` uses, just pointed at `tmp_root`
+            # via its own documented `root=` parameter (#334's ONE DEFINITION) rather
+            # than re-deriving the path by hand.
+            g["oar_rule_path"] = lambda number, root=tmp_root: real_oar_rule_path(number, root=root)
             cmd_ingest(["125"], skip_group=True)
         finally:
             for k, v in saved.items():
