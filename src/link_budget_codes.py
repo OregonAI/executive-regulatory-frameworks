@@ -237,11 +237,15 @@ UNMAPPED = {
 # older one, and an answer that quotes it should say so.
 REORGANIZED = {
     "258": "Budget reports 'EMERGENCY MANAGEMENT, DEPT OF' as its own department; OAR "
-           "chapter 104 is still registered under the Oregon Military Department.",
+           "chapter 104 is still registered under the Oregon Military Department. Cause "
+           "confirmed (#212): ORS 401.052(1), HB 2927 (Oregon Laws 2021, ch. 539).",
     "260": "Budget reports 'STATE FIRE MARSHAL, DEPT OF' as its own department; OAR "
-           "chapter 837 is still registered under the Department of State Police.",
+           "chapter 837 is still registered under the Department of State Police. Cause "
+           "confirmed (#354, same act as #212): ORS 476.020(1), HB 2927 (Oregon Laws 2021, "
+           "ch. 539).",
     "588": "Budget reports 'EARLY LEARNING & CARE, DEPT OF' as its own department; OAR "
-           "chapter 414 is still registered under the Department of Education.",
+           "chapter 414 is still registered under the Department of Education. Cause "
+           "confirmed (#354): ORS 326.430(1)(a), HB 3073 (2021 regular session).",
 }
 
 

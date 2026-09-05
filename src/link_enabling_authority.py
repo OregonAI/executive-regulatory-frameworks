@@ -416,29 +416,21 @@ MAPPED: dict[str, str] = {
     # rather than leave a true `undetermined` one. The citation is recorded as verified prose
     # on the row's own `curator_note` instead, until that gap is closed.
     #
-    # #354 — the same act named in #212 (HB 2927, Oregon Laws 2021, chapter 539) also made
-    # the State Fire Marshal's office an independent agency: ORS 476.020(1), read and
-    # verified 2026-09-02: "The Department of the State Fire Marshal is established. The
-    # department is under the supervision and control of the State Fire Marshal." Read, but
-    # DELIBERATELY NOT ENTERED HERE, for #212's own reason restated exactly: the registry
-    # carries this body as one row (`department-of-state-police-office-of-state-fire-
-    # marshal`), and that row's only relation is the scraped, stale OAR-index placement
-    # under the Department of State Police ORS 476.020 itself ends. Recording this citation
-    # as that row's `enabling_authority` would derive `administered_by department-of-state-
-    # police` on that relation (`src/derive_relation_kinds.py`) — a citation-backed claim of
-    # exactly the attachment this statute ends. The citation is recorded as verified prose on
-    # the row's own `curator_note` instead, until the same gap #212 left open is closed.
+    # #354 — the same act named above (HB 2927, Oregon Laws 2021, chapter 539) also made the
+    # State Fire Marshal's office an independent agency: ORS 476.020(1), read and verified
+    # 2026-09-02: "The Department of the State Fire Marshal is established. The department is
+    # under the supervision and control of the State Fire Marshal." Read, but DELIBERATELY NOT
+    # ENTERED HERE, for exactly the reason given above for #212's row (see that comment: one
+    # row not two, and recording the citation here would derive an `administered_by` relation
+    # onto a link this statute ends). Recorded as verified prose on this row's
+    # (`department-of-state-police-office-of-state-fire-marshal`) own `curator_note` instead.
     #
     # #354 — HB 3073 (2021 regular session), read and verified 2026-09-02, made the Early
     # Learning Division an independent agency, the Department of Early Learning and Care:
-    # ORS 326.430(1)(a), "The Department of Early Learning and Care is established." Read,
-    # but DELIBERATELY NOT ENTERED HERE for the identical reason: the registry carries this
-    # body as one row (`oregon-department-of-education-early-learning-division`), whose only
-    # relation is the scraped, stale OAR-index placement under the Department of Education
-    # ORS 326.430 itself ends. Recording this citation as that row's `enabling_authority`
-    # would derive `administered_by oregon-department-of-education` on that relation —
-    # exactly the attachment this statute ends. Recorded as verified prose on the row's own
-    # `curator_note` instead.
+    # ORS 326.430(1)(a), "The Department of Early Learning and Care is established." Read, but
+    # DELIBERATELY NOT ENTERED HERE for the identical reason given above for #212's row.
+    # Recorded as verified prose on this row's
+    # (`oregon-department-of-education-early-learning-division`) own `curator_note` instead.
 }
 
 # slug -> why this body has no enabling authority TO RECORD. A DECISION with a stated reason,
