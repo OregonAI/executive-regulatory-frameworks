@@ -5762,14 +5762,17 @@ chapters:
       status: renumbered
       note: OARD serves 128-030-0005 for this number
       served_as: 128-030-0005
+      path: rules/128/030/oar-128-030-0005.md
     - number: 125-800-0010
       status: renumbered
       note: OARD serves 128-030-0010 for this number
       served_as: 128-030-0010
+      path: rules/128/030/oar-128-030-0010.md
     - number: 125-800-0020
       status: renumbered
       note: OARD serves 128-030-0020 for this number
       served_as: 128-030-0020
+      path: rules/128/030/oar-128-030-0020.md
   discovered: '2026-08-27'
   claimed_by_another_row:
   - 125-090-0004

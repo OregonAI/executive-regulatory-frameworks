@@ -40,6 +40,23 @@ corpus-wide changes from 2026-08-02 forward.
   carry no occurrence at all. No repo reads the key for a live join.
 
 ### Fixed
+- 2026-09-02 — **#338: a renumbered OAR row whose served target's file already existed on
+  disk never got its `path` recorded.** `ingest_oar.py`'s `out.exists()` branch gated the
+  `r["path"]` write on `served == num`, so a row like 125-800-0005 (served as
+  128-030-0005, whose file another row already wrote) recorded `served_as` but not where
+  the document lives. `path` is now stamped from `out` in that branch regardless of the
+  `served == num` status gate. Fixture in `--selftest` (`_renumbered_out_exists_stamps_path`)
+  runs `cmd_ingest` itself against a temporary catalog/group/rules tree rather than
+  re-deriving the expected path by hand, and delegates to the real `repo_lib.oar_rule_path`
+  via its documented `root=` parameter (#334) instead of a hand-rolled copy.
+
+  In wiring the fixture through the real `cmd_ingest`, found it calling
+  `repo_lib.division_status` without that name ever being imported into `ingest_oar.py` —
+  a pre-existing `NameError` on any live nonempty-chapter `--ingest` run, invisible until
+  now because nothing had exercised that path through the real function. Added the
+  missing import as part of this fix. The 3 catalog rows this bug had already left with a
+  stale or missing `path` (`_meta/catalog/oar.yml`) were hand-corrected to match what the
+  fixed code writes.
 - 2026-08-30 — **#341: `stated_census.py --check` had no floor, so a document's tagged-figure
   coverage could drop to zero and the run stayed green.** A stated figure, or a whole
   glossary entry, deleted outright removes it from `glossary_blocks()`'s scan — not an
