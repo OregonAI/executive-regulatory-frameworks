@@ -10,6 +10,40 @@ corpus-wide changes from 2026-08-02 forward.
 
 ## [Unreleased]
 
+### Verified
+- 2026-09-04 — **DAS codes 260 and 588 identified as the same reorganization class #212
+  fixed for DAS code 258** (#354). `link_budget_codes.py`'s own `REORGANIZED` table already
+  named all three codes as affected by this staleness, but only 258 carried the research;
+  260 (State Fire Marshal) and 588 (Early Learning) now do too. Confirmed: ORS 476.020(1)
+  establishes the Department of the State Fire Marshal (HB 2927, Oregon Laws 2021, ch. 539 —
+  the same act #212 read for 258), and ORS 326.430(1)(a) establishes the Department of Early
+  Learning and Care (HB 3073, 2021 regular session). Chapter 837 was checked against OARD
+  directly; chapter 414's OARD page could not be resolved to a `selectedChapter` id this
+  session (retried 2026-09-04), so it is cited through three independent mirrors instead and
+  recorded as "could not check" against OARD, not "confirmed" — **that one measurement is
+  still outstanding, and #354 should stay open (or a narrow follow-up filed) for it rather
+  than being treated as fully closed.**
+
+  Both bodies stay `#212`'s one-row treatment (current statutory name as an `aliases` entry,
+  no second row, no `enabling_authority` recorded — see the `oregon-military-department-
+  office-of-emergency-management` row's `curator_note` for the full reasoning, referenced
+  rather than repeated on the new notes). This is a deliberate departure from #354's literal
+  Ask, which asked for `#212`'s *full* treatment on both rows (a new row for the standalone
+  body, the predecessor marked superseded) — that reading is not applied here, following the
+  precedent #212 itself set for 258 (one row, not two, on `main`); flagged for maintainer
+  sign-off or an issue amendment rather than decided unilaterally.
+
+  Citations recorded as verified prose on each row's own `curator_note`
+  (`_meta/catalog/agencies.yml`) and cross-referenced from `link_enabling_authority.py`'s
+  `MAPPED` table and `link_budget_codes.py`'s `REORGANIZED` table, rather than entered into
+  `enabling_authority`, because doing so would derive (`src/derive_relation_kinds.py`) an
+  `administered_by` relation onto each row's still-scraped, still-stale OAR-index placement —
+  asserting exactly the administrative attachment each statute ends.
+
+  Gates re-run: `derive_relation_kinds.py --check`, `catalog_agencies.py --check`,
+  `link_enabling_authority.py --check`, `link_budget_codes.py --check` — all exit 0, tree
+  clean.
+
 ### Removed
 - 2026-08-31 — **`budget_agency_code` retired from the agency registry** (#177, the
   contract half of the two-step rename #175 began; parent #164 / ADR 0003). Deleted from

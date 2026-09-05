@@ -1012,6 +1012,28 @@ organizations:
   - Department of the State Fire Marshal
   - Office of State Fire Marshal
   - State Fire Marshal
+  curator_note: 'STANDALONE since HB 2927 (Oregon Laws 2021, chapter 539), operative 2023-07-01
+    (confirmed by direct fetch 2026-09-02 against this body''s own section of the act -- NOT
+    the same as the 2022-07-01 date the emergency-management row below cites: that is section
+    2''s own operative date, for a different body under the same act; this row''s section was
+    not independently numbered in this session''s research, only its own operative date was
+    confirmed): renamed the Office of State Fire Marshal as the Department of the State Fire Marshal
+    and established it as an independent state agency, spun out of the Department of State
+    Police -- the same act #212 fixed for DAS code 258, named here as a sibling by
+    link_budget_codes.py''s own REORGANIZED table (#354). Codified at ORS 476.020(1): "The
+    Department of the State Fire Marshal is established. The department is under the
+    supervision and control of the State Fire Marshal." (confirmed by direct fetch 2026-09-02).
+    #212''s own resolution for the sibling body applies unchanged here (see this file''s
+    `oregon-military-department-office-of-emergency-management` row for the full reasoning):
+    one row, not two, current statutory name carried as an `aliases` entry above;
+    `name`/`name_basis`/`oar_name`/`enabling_authority` deliberately not promoted/recorded, for
+    the identical reason -- recording ORS 476.020 here would derive
+    (`src/derive_relation_kinds.py`) an `administered_by department-of-state-police` relation
+    onto the still-scraped, still-stale OAR-index placement, asserting exactly the attachment
+    this statute ends. OARD''s own chapter 837 page already titles it "Department of the State
+    Fire Marshal" with no mention of the Department of State Police (confirmed by direct fetch
+    2026-09-02) -- the two sources disagree and the disagreement is kept (ADR 0003) rather than
+    resolved by hand-editing a scraped field.'
 - slug: department-of-state-police-oregon-state-athletic-commission
   name: Department of State Police, Oregon State Athletic Commission
   name_basis: unverified-oar-title
@@ -1602,6 +1624,31 @@ organizations:
   - Department of Early Learning and Care
   - Early Learning Division
   - Early Learning Division of the Department of Education
+  curator_note: 'STANDALONE since HB 3073 (2021 regular session), operative 2023-07-01
+    (confirmed by direct fetch 2026-09-02): made the Early Learning Division an independent
+    state agency, titled the Department of Early Learning and Care, spun out of the
+    Department of Education -- the same reorganization class #212 fixed for DAS code 258.
+    Issue #354, which reported this row as a sibling of #212''s own fix, could not confirm this
+    one shared #212''s cause; this session''s own research closes that gap. Codified at ORS
+    326.430(1)(a): "The Department of Early Learning and Care is established." (confirmed by
+    direct fetch 2026-09-02). #212''s own resolution applies unchanged (see this file''s
+    `oregon-military-department-office-of-emergency-management` row for the full reasoning):
+    one row, not two, current statutory name carried as an `aliases` entry above;
+    `name`/`name_basis`/`oar_name`/`enabling_authority` deliberately not promoted/recorded, for
+    the identical reason -- recording ORS 326.430 here would derive
+    (`src/derive_relation_kinds.py`) an `administered_by oregon-department-of-education`
+    relation onto the still-scraped, still-stale OAR-index placement, asserting exactly the
+    attachment this statute ends. Chapter 414''s own title is confirmed "Department of Early
+    Learning and Care", with no mention of the Department of Education, by three independent
+    mirrors of the OARD text (oregon.public.law, law.cornell.edu, regulations.justia.com), all
+    checked 2026-09-02 -- OARD''s own site (secure.sos.state.or.us) could not be resolved to
+    chapter 414''s specific selectedChapter id in this session (re-attempted 2026-09-04, still
+    could not resolve), so it is not cited directly here the way chapter 837 and chapter 104
+    were; could not check is recorded as such, not as confirmed, and this leaves the direct-OARD
+    measurement #354 asked for unmet for this row -- #354 should stay open, or a narrow
+    follow-up filed, for that one gap rather than being closed outright. The two sources
+    disagree and the disagreement is kept (ADR 0003) rather than resolved by hand-editing a
+    scraped field.'
 - slug: oregon-department-of-education-fair-dismissal-appeals-board
   name: Oregon Department of Education, Fair Dismissal Appeals Board
   name_basis: unverified-oar-title
