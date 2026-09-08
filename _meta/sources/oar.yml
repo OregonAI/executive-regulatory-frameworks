@@ -14248,7 +14248,7 @@ sources:
   notes: Informal Respite Care, Certified Respite Care and Child Care
 - id: oar-413-203-0050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=413-203-0050
-  sha256: af00a2c6a09efe7b5e571d9346f8667b257828c33d0f0e24ae5b013661f00995
+  sha256: "f29f392b253c93bc63bc452d1f029ef1370a14ccdca9a339f4332d5233cecffd"
   last_checked: '2026-08-28'
   notes: Responsibilities Regarding a When a Relative Family Moves
 - id: oar-413-203-0055
@@ -17924,7 +17924,7 @@ sources:
   notes: Additional Meetings
 - id: oar-462-120-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=462-120-0010
-  sha256: 00bf673e26b95302290e5c178feee5be0ba00e01efde02f7fafc1061fb42480a
+  sha256: "f266fa8ff01d59d14f1ed4c8c881a1fd1f21d3f22cea358c7a1219b82f41a2f7"
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-462-120-0040
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=462-120-0040
@@ -22893,7 +22893,7 @@ sources:
   notes: Sturgeon Season Above Bonneville Dam
 - id: oar-635-023-0130
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=635-023-0130
-  sha256: 5728b8e5cf1596c584a0b351ddf728f487a7f8c6030a65c8839c8c1a19bb5cbe
+  sha256: "32a62de39d7290a4c936be106f7dadcdc9b402dd3a57ba0c661054f77eb6d217"
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-635-024-0080
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=635-024-0080
@@ -29341,7 +29341,7 @@ sources:
   notes: Exceptions to Rules
 - id: oar-851-031-0055
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=851-031-0055
-  sha256: 1ff7fcd80031ea8927ab2ad1714c5bf0d0a9a6d39423516aca0406d53ae52a93
+  sha256: "c5b0675b27126f0220fe7b5d17af4f23629f99a44ade961214ca959a95aa52bf"
   last_checked: '2026-08-28'
   notes: Disciplinary Reinstatement
 - id: oar-851-031-0065
