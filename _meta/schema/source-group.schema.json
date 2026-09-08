@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "source-group.schema.json",
   "title": "Upstream source group",
-  "description": "One file per update group under _meta/sources/. Groups are the unit of update checking (src/check_updates.py) \u2014 bodies update at different rates, and new agencies join by adding group files, never by changing tools.",
+  "description": "One file per update group under _meta/sources/. Groups are the unit of update checking (src/check_updates.py) — bodies update at different rates, and new agencies join by adding group files, never by changing tools.",
   "type": "object",
   "required": [
     "group",
@@ -90,6 +90,19 @@
           },
           "notes": {
             "type": "string"
+          },
+          "format": {
+            "type": "string",
+            "enum": [
+              "pdf",
+              "html",
+              "xml",
+              "json",
+              "docx",
+              "xlsx",
+              "xls"
+            ],
+            "description": "What the URL serves, declared when the URL's extension does not say so. corpus-toolkit's detector otherwise infers the format from the URL, and a records-system stream endpoint such as DocumentStream.ashx?uri=N serves a PDF from a URL that reads as HTML -- every DEQ source then hashes as changed on every run (ERF#139, 2026-09-08). Declaring it makes the detector hash the document the way the baseline was computed."
           }
         }
       }

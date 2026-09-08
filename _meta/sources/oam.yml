@@ -178,7 +178,7 @@ sources:
   notes: Securities lending
 - id: oam-15-35-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/15.35.00.pdf
-  sha256: eb19cedef7b03130374e9eb59d75a19ba1031bbb00224424080a28eadb895b76
+  sha256: "f976a3a48f96eae54d4bdcbb23ea6dcd64da76a6b3d293f2d4993098cf40ec13"
   last_checked: '2026-07-18'
   notes: Revenues and receivables
 - id: oam-15-40-00
@@ -318,7 +318,7 @@ sources:
   notes: Budget adoption and reporting
 - id: oam-20-20-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/20.20.00.pdf
-  sha256: e3b0e42d759edb3d3c650fe72ee61cabce835dc2e5b9fc9866db8eb5da074cf5
+  sha256: "365a1477a468736c606ab05c2f1313e8165188488ec5e012577f8835cbb284f0"
   last_checked: '2026-07-18'
   notes: Encumbrances
 - id: oam-20-30-00-po
