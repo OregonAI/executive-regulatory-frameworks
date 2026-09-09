@@ -10,6 +10,36 @@ corpus-wide changes from 2026-08-02 forward.
 
 ## [Unreleased]
 
+### Source-Updated
+- 2026-09-09 — **16 chapter-414 rules re-ingested: a cross-reference renumbering, and nothing
+  else** (first group of the ~191-document re-ingest queue). Each of these rules cites a
+  definition by subsection number in its own division's `-0100` definitions rule, and DELC's
+  September 2026 filings inserted definitions ahead of those, shifting every later number.
+  The corpus was serving the old pointers: `414-210-0100(19)` where the rule now reads `(21)`,
+  `414-305-0100(32)` → `(34)`, `414-360-0100(21)` → `(24)`, and so on across divisions 210,
+  305, 320 and 360.
+
+  Measured before re-ingesting, not after: all 44 chapter-414 rows in `DRIFT.md` were fetched
+  and their rule slices diffed word-by-word against the committed snapshots. 16 differ ONLY in
+  a cross-reference number (`oar-414-210-0840` also gains a space in `(9)No` → `(9) No`); those
+  16 are this PR. The other 28 carry substantive edits — a new subsection (7) on Every Child
+  Belongs notification in the four `-0720` rules, new suspension-and-expulsion-policy clauses
+  in the `-0260` rules, and larger rewrites in the `-0100` definitions rules themselves — and
+  are deliberately left for their own PR rather than folded in behind a mechanical banner.
+  Per-rule diffs: `/tmp/oregonai-handoff/oar-414-measured-2026-09-09.json`.
+
+  Manifest baselines in `_meta/sources/oar.yml` were re-seeded from the committed `.html`
+  snapshots with `content_hash(raw, "html", volatile_patterns)` — the drift detector's own
+  formula — and each of the 16 reproduces the `now` hash that run observed. Note for whoever
+  re-ingests the next group: `check_updates.py --refresh` writes this baseline with
+  `repo_lib.content_hash(raw, fmt)`, which omits `volatile_patterns`. The two agree only when
+  the page happens to carry no volatile bytes, and OARD sets `JSESSIONID_OARD` intermittently,
+  so that path can write a baseline the drift detector will never reproduce. Filed separately;
+  the 16 entries here were edited directly instead.
+
+  Effective/reviewed dates carry `refresh_document`'s TODO marker for human transcription
+  (HC-1) and reach `review_queue.py`.
+
 ### Verified
 - 2026-09-04 — **DAS codes 260 and 588 identified as the same reorganization class #212
   fixed for DAS code 258** (#354). `link_budget_codes.py`'s own `REORGANIZED` table already

@@ -15113,8 +15113,8 @@ sources:
   notes: Toilets, Hand Washing Sinks, and Bathing
 - id: oar-414-210-0840
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-0840
-  sha256: 433030b1cbd33bf2f5ad2be70182f86140ed124fa2a22404fe05087974e21890
-  last_checked: '2026-08-28'
+  sha256: dcf5100c7dde74faf61f9f4195685d28a3bbfd32a45a567499ff4288b1dab52b
+  last_checked: '2026-09-09'
   notes: Prevention and Management of Hazards
 - id: oar-414-210-0850
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-0850
@@ -15153,8 +15153,8 @@ sources:
   notes: Injuries
 - id: oar-414-210-1030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-1030
-  sha256: 0410d1853bb1d7b81cda012a05fe0c9ed19f574370193a585cb7872d553490b8
-  last_checked: '2026-08-28'
+  sha256: 134c2d6cd534d76f1c64e8e637a660f042f73cb7f8286f218dfc5107f9786c66
+  last_checked: '2026-09-09'
   notes: Medications
 - id: oar-414-210-1050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-1050
@@ -15188,8 +15188,8 @@ sources:
   notes: Animals
 - id: oar-414-210-1500
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-1500
-  sha256: e91d229ada44f8f1255abde2f9bce6a41beff5524336d30209fa762ef47dc2d2
-  last_checked: '2026-08-28'
+  sha256: 4d04d8bac73b14c6e8059d5acbc557db34033843737b39176c17fa0253822ba5
+  last_checked: '2026-09-09'
   notes: Night Care
 - id: oar-414-210-1610
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-1610
@@ -15198,8 +15198,8 @@ sources:
   notes: Sanctions-Suspension, Denial, and Revocation
 - id: oar-414-210-1620
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-1620
-  sha256: 65a36782d9068d00cbe4ba0f0a816977d9b9cc21d4ab7be486981afbabf978b5
-  last_checked: '2026-08-28'
+  sha256: c11b6b9efe28952f13ec3757c39d73a520fec477f668f658d630681181421641
+  last_checked: '2026-09-09'
   notes: Civil Penalty
 - id: oar-414-305-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-0100
@@ -15433,8 +15433,8 @@ sources:
   notes: Toilets, Sinks, and Bathing
 - id: oar-414-305-0840
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-0840
-  sha256: 807af095e99755eaeaae3a38f5791652f93f4de95c70b0b3df75267cd03e931a
-  last_checked: '2026-08-28'
+  sha256: 4bdc6c2428d3ef1cf46d6f6479bcd1bc00d2829ef13c768094120478dc4f6db0
+  last_checked: '2026-09-09'
   notes: Prevention and Management of Hazards
 - id: oar-414-305-0850
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-0850
@@ -15543,8 +15543,8 @@ sources:
   notes: Animals
 - id: oar-414-305-1500
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-1500
-  sha256: 76ff81461c447ba89b45d1b89c4609bafa1549de66bd584c8fbf8498b3d822fd
-  last_checked: '2026-08-28'
+  sha256: f96987cd450d2b8d98771a93b7c26c0d71b7b9b1ded40fb4030d5e7cc790d390
+  last_checked: '2026-09-09'
   notes: Night Care
 - id: oar-414-305-1600
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-1600
@@ -15558,8 +15558,8 @@ sources:
   notes: SANCTIONS-Suspension, Denial and Revocation
 - id: oar-414-305-1620
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-1620
-  sha256: a91d67c8368c7c3e47ed49a8581c37adcd7eb634e0e7d948dfc03260d581cf0b
-  last_checked: '2026-08-28'
+  sha256: 38f2c368318479c92ce031c4ce38fa18e46c278401f6624e15e95b1bd7119c23
+  last_checked: '2026-09-09'
   notes: Civil Penalty
 - id: oar-414-310-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-310-0100
@@ -16083,8 +16083,8 @@ sources:
   notes: Toilets and Sinks
 - id: oar-414-320-0840
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-0840
-  sha256: fb543fdb612aebe8f154692a83580eef467d3ad42a1aea44dc60f4e825eadb77
-  last_checked: '2026-08-28'
+  sha256: a958608149ccd65ca0848e7bae969cf1260dfebe7deef926441bfa280534f62b
+  last_checked: '2026-09-09'
   notes: Prevention and Management of Hazards
 - id: oar-414-320-0850
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-0850
@@ -16133,13 +16133,13 @@ sources:
   notes: Illness
 - id: oar-414-320-1020
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-1020
-  sha256: ce5ee74aac761d5469710405e9c32bae2248b158fa87c241ffa87c04a12db462
-  last_checked: '2026-08-28'
+  sha256: 08a5e79ccd18a9458bd4d3531a21a0b28711001c956dc98c0e74f45c16c6163a
+  last_checked: '2026-09-09'
   notes: Injuries
 - id: oar-414-320-1030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-1030
-  sha256: 6617325450fdc85f86a26b27968f0757103b06a96c35d0f5b2914b9d519f18e4
-  last_checked: '2026-08-28'
+  sha256: bbf409dc564717e8963b039999a1d9f1da1be9b70c487efe6ac7cbd1e1c8055e
+  last_checked: '2026-09-09'
   notes: Medications
 - id: oar-414-320-1050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-1050
@@ -16233,8 +16233,8 @@ sources:
   notes: Sanctions-Suspension, Denial and Revocation
 - id: oar-414-320-1620
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-1620
-  sha256: 4b61742f9ee0bbd124313651275ac9db376deb28bcbf961000695552783fe1e1
-  last_checked: '2026-08-28'
+  sha256: f3ca96884c9d1e7c4d42300eac750406e43cd802764e84cb0fab7b0defbb3c99
+  last_checked: '2026-09-09'
   notes: Civil Penalty
 - id: oar-414-330-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-330-0100
@@ -16393,8 +16393,8 @@ sources:
   notes: Training Criteria
 - id: oar-414-360-0400
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-0400
-  sha256: 2b662387814bb2314dcd37fbdfa5c03c6d9e0fa48b7b465013f30b5d3892b63f
-  last_checked: '2026-08-28'
+  sha256: 9845901e15aca378104dd7e22c765010f1ae64c6f25b8d58bea756190febbbb0
+  last_checked: '2026-09-09'
   notes: Children in Care & Caregiver to Child Ratios
 - id: oar-414-360-0500
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-0500
@@ -16478,8 +16478,8 @@ sources:
   notes: Toilets, Hand washing Sinks, and Bathing
 - id: oar-414-360-0840
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-0840
-  sha256: dac6d5525f688c388b7f153da8defe2092beeb2b08359e3c3e7bc3621544697f
-  last_checked: '2026-08-28'
+  sha256: d1d46bc8d169c39d4f1ab0ffa4a1e3cbfe5c478f3b85b68d4be644f1ac3a9300
+  last_checked: '2026-09-09'
   notes: Prevention and Management of Hazards
 - id: oar-414-360-0850
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-0850
@@ -16518,8 +16518,8 @@ sources:
   notes: Injuries
 - id: oar-414-360-1030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-1030
-  sha256: 1132e23f1f7b75ef00f40b29427a0057e92743c22feb2059d6faab826961c3af
-  last_checked: '2026-08-28'
+  sha256: dadd4e3e6467807f8f94f978cac45ed0e9bcbbe5ad5d95bb5f8a3f6c7b852950
+  last_checked: '2026-09-09'
   notes: Medications
 - id: oar-414-360-1050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-1050
@@ -16553,8 +16553,8 @@ sources:
   notes: Animals
 - id: oar-414-360-1500
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-1500
-  sha256: 8b65869c709f8f4d060a17ac50492e1bbd026a54895f0bc60dea37cc54714994
-  last_checked: '2026-08-28'
+  sha256: 722d15717d4ff74cf2068fa39f89a762f3addab6cd006055a987757741878a2a
+  last_checked: '2026-09-09'
   notes: Night Care
 - id: oar-414-360-1610
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-1610
@@ -16563,8 +16563,8 @@ sources:
   notes: Sanctions-Suspension, Denial, and Revocation
 - id: oar-414-360-1620
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-1620
-  sha256: 42f2a79db645ecc2001a9a3e27a443b388e7eabe2741bab310e36d47b4cd39b6
-  last_checked: '2026-08-28'
+  sha256: ea1b16eae24761f52c4d11d0d05d6ae92ea42eaf90b2d4b8e47cc80b7ee77f30
+  last_checked: '2026-09-09'
   notes: Civil Penalty
 - id: oar-414-480-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-480-0000
