@@ -4,14 +4,13 @@ never from model knowledge. Effective/version dates are NEVER updated automatica
 a changed source gets a TODO marker for human transcription."""
 import re
 import subprocess
-import urllib.request
 from collections import Counter
 from pathlib import Path
 
+from corpus_toolkit.sources.fetch import Fetcher
+
 from repo_lib import (DIR_DOC_TYPE, JURISDICTION_WIDE_DIRS, REPO_ROOT, SNAPSHOT_DIR,
                       content_hash, normalize_ws, parse_frontmatter, snapshot_slice)
-
-USER_AGENT = "Mozilla/5.0 (executive-regulatory-frameworks updater; +https://github.com/OregonAI/executive-regulatory-frameworks)"
 
 FURN_RE = re.compile(
     r"(Page[s]? \d+ of \d+\s*$)|(^Level 1, Published)|(^\.\d+ OF \.\d+$)|"
@@ -118,10 +117,33 @@ def output_dir_for(doc_type: str, agency: str | None = None) -> Path:
     return REPO_ROOT / "agencies" / agency / body_dir
 
 
+_FETCHER = None
+
+
+def _fetcher() -> Fetcher:
+    """The one Fetcher this process uses. Rate limiting is per-instance state, so the
+    nine ingesters that import `fetch` have to share an instance to share a host clock."""
+    global _FETCHER
+    if _FETCHER is None:
+        from corpus_toolkit import config as config_mod
+        _FETCHER = Fetcher(config_mod.load(REPO_ROOT / "_meta" / "corpus.yml"))
+    return _FETCHER
+
+
 def fetch(url: str) -> bytes:
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return resp.read()
+    """Fetch a source's bytes through the platform's fetch discipline (ADR 0016).
+
+    This is the choke point every ingester in this repo reaches the network through, which
+    is why it is the thing worth getting right once. It used to send
+    `Mozilla/5.0 (executive-regulatory-frameworks updater; ...)` -- a browser's name with
+    ours in the comment -- at agency servers, unthrottled. `Fetcher` sends
+    `OregonAI-CivicCorpus/<version> (+<this repo>; public-records archival)`, completes this
+    corpus's declared TLS chains, and keeps requests to one host `min_interval` apart.
+
+    Raises rather than returning an error body: `Refused`/`Challenge` (both `FetchError`)
+    for a refusal, httpx's `HTTPStatusError` for any other non-2xx. Callers that treated
+    urllib's `HTTPError` as an exception keep working unchanged."""
+    return _fetcher().get(url).body
 
 
 def build_fulltext(fm: dict) -> tuple:
