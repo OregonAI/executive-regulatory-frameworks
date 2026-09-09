@@ -12,9 +12,9 @@ agency: oregon-health-authority
 legal_authority: []
 source_url: "https://www.oregon.gov/oha/OSH/Policies/5.005%20Staff-Owned%20Equipment/5.005%20Staff-Owned%20Equipment.pdf"
 source_format: pdf
-retrieved: "2026-07-21"
-source_sha256: "b33511437bcf56803b67c3538ea6f03914b18c0d5b466d08c6fb5de7cbb5368a"
-effective_date: "2023-06-07"
+retrieved: "2026-09-09"
+source_sha256: "7b429d3f33982b3363c284ff6ce2e0f0de3d108a9c019a0d7d3648f5d7b46afb"
+effective_date: "2023-06-07"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new source -->
 last_reviewed: null
 source_version: "Effective JUNE 7, 2023"
 status: current
@@ -46,21 +46,20 @@ OSH Policy 5.005 — Staff-Owned Equipment. Oregon State Hospital (Oregon Health
 
                          OREGON STATE HOSPITAL
                                               POLICY
-  SECTION 5:         Human Resources Management                                  POLICY: 5.005
+  SECTION 5:         Human Resources Management                                   POLICY: 5.005
 
   SUBJECT:           Staff-Owned Equipment
 
-  POINT PERSON:      Chief Financial Officer/Chief Operations Officer
+  POINT PERSON:      Chief Financial Officer/Chief
+                     Operations Officer
 
-  APPROVED:          Dolores Matteucci                                     DATE: JUNE 7, 2023
+  APPROVED:          Jim Diegel                                              DATE: JULY 6, 2026
+                                   James Diegel (Jul 6, 2026 13:26:06 PDT)
 
-                     Superintendent
+                     Interim Superintendent
 
-  SELECT ONE:                                                 Minor/technical revision of
-                     New policy
-                                                              existing policy
-
-                     Reaffirmation of existing policy         Major revision of existing policy
+  SELECT ONE:     ☐ New Policy                                ☒ Policy Revision
+                  ☐ Reaffirmation of Existing Policy
 
 I.    PURPOSE AND APPLICABILITY
       A. This policy establishes Oregon State Hospital (OSH) guidelines for staff-owned
@@ -68,76 +67,61 @@ I.    PURPOSE AND APPLICABILITY
       B. This policy does not apply to staff-owned vehicles. Staff-owned vehicles may
          only be used per OSH policy 6.006, “Vehicle Usage,” and applicable Department
          of Administrative Services or Shared Services policies and regulations.
-      C. This policy applies to all staff.
+      C. This policy applies to all Staff.
 
 II.   POLICY
-      A. Staff may not use personally owned equipment to conduct OSH business including,
-         but not limited to, patient treatment, unless an exception is authorized as delineated
-         in this policy or other Department of Administrative Services (DAS) or Shared
-         Services policies.
+      A. Staff may not use personally owned equipment to conduct OSH business,
+         including, but not limited to, patient treatment, unless an exception is authorized
+         as delineated in this policy or other Department of Administrative Services (DAS)
+         or Shared Services policies.
       B. Staff may request an exception to this policy in writing from the Superintendent or
-         designee, the appropriate member of the Executive Team, and department director
-         or Program Director when the following conditions exist:
-         1. the equipment is not available at OSH;
-         2. the equipment can be operated safely and meets required safety standards;
-         3. the equipment is not directly used by patients; and
-         4. the staff member accepts liability for damage to, or loss of, equipment.
+         designee, the appropriate member of the Senior Leadership Team, and the
+         department director or Program Director when the following conditions exist:
+         1. The equipment is not available at OSH;
+         2. The equipment can be operated safely and meets required safety standards;
+         3. The equipment is not directly used by patients; and
+         4. The staff member accepts liability for damage to, or loss of, equipment.
 
-       SUBJECT: Staff-Owned Equipment                                    POLICY NUMBER: 5.005
+       Subject:                                                         Policy Number: 5.005
+                  Staff-Owned Equipment
+       Date:
+                  July 6, 2026                                                   P AGE 2 OF 2
 
-       DATE:     June 7, 2023                                                       PAGE 2 OF 3
+         C. If the Superintendent or designee, the appropriate member of the Senior
+            Leadership Team, and the department director or Program Director approve the
+            request for an exception, they must authorize their approval in writing before staff
+            uses the equipment.
+         D. For safety, security, and patient privacy reasons, staff may not use personally
+            owned cellphones in patient care areas or when patients are present with them.
+            Staff may only use personal cellphones to make brief phone calls during working
+            hours, except when they are on break. Departments may establish additional
+            restrictions for safety reasons.
+         E. All information on any device used while conducting state business (e.g., any
+            text, browsing history) is discoverable under public records requests state laws.
+         F. Oregon State Hospital (OSH) follows all applicable regulations, including federal
+            and state statutes and rules; Oregon Department of Administrative Services
+            (DAS), Shared Services, and Oregon Health Authority (OHA) policies; and
+            relevant accreditation standards. Such regulations supersede the provisions of
+            this policy unless this policy is more restrictive.
+         G. Staff who fail to comply with this policy or related policy attachments or protocols
+            may be subject to disciplinary action.
 
-        C. If the Superintendent or designee, the appropriate member of the Executive Team,
-           and department director or Program Director approve the request for an exception,
-           they must authorize their approval in writing before staff use the equipment.
-        D. For safety, security, and patient privacy reasons, staff may not use personally owned
-           cellphones in patient care areas or when patients are present with them. With the
-           exception of break times, staff may only use personal cellphones to make brief
-           phone calls during working hours as allowed by Shared Services policy 060-037,
-           “Use of State Property.” Departments may establish additional restrictions for safety
-           reasons.
-        E. All information on any device used while conducting state business (e.g., any text,
-           browsing history) is discoverable under public records requests state laws.
-        F. Oregon State Hospital (OSH) follows all applicable regulations, including federal
-           and state statutes and rules; Oregon Department of Administrative Services
-           (DAS), Shared Services, and Oregon Health Authority (OHA) policies; and
-           relevant accreditation standards. Such regulations supersede the provisions of
-           this policy unless this policy is more restrictive.
-        G. Staff who fail to comply with this policy or related policy attachments or protocols
-           may be subject to disciplinary action, up to and including dismissal.
+III.     DEFINITIONS (SEE GLOSSARY)
 
-III.    DEFINITIONS
-        A. “Patient care area” is as defined in OSH policy 5.017, “Dress Code for Staff.”
-           Patient care area for the purpose of this policy means any portion of the facility
-           wherein a patient is intended to be examined or treated.
-        B. “Personally owned equipment” in this policy means equipment owned by staff
-           such as cellphones, tools, supplies, or other items. In this policy, equipment does not
-           include books.
-        C. “Staff” includes employees, volunteers, trainees, interns, contractors, vendors,
-           and other state employees assigned to work at Oregon State Hospital (OSH).
+IV.      PROCEDURES
+   None
 
-IV.     PROCEDURES
+V.       ATTACHMENTS
+   None
 
-V.      ATTACHMENTS
-
-VI.     RELATED OSH POLICIES AND PROTOCOLS
-        3.002 Electrical Equipment and Resource Conservation
-        5.017 Dress Code for Staff
-        8.034 Property Claims for Employee Personal Property
-
-       SUBJECT: Staff-Owned Equipment                                            POLICY NUMBER: 5.005
-
-       DATE:       June 7, 2023                                                               PAGE 3 OF 3
-
-        8.006 Vehicle Usage
-
-VII.    REFERENCES
-        Department of Administrative Services. Liability self-insurance policy manual, 125-7-201. Author.
-
-        Shared Services. Use of state property, DHS-060-037. Author.
+VI.      RELATED OSH POLICIES AND PROTOCOLS
+   3.002 Electrical Equipment and Resource Conservation
+   5.017 Dress Code for Staff
+   8.034 Property Claims for Employee Personal Property
+   8.006 Vehicle Usage
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oha/OSH/Policies/5.005%20Staff-Owned%20Equipment/5.005%20Staff-Owned%20Equipment.pdf> · retrieved 2026-07-21 · sha256 `b33511437bcf56803b67c3538ea6f03914b18c0d5b466d08c6fb5de7cbb5368a`
+- Source: <https://www.oregon.gov/oha/OSH/Policies/5.005%20Staff-Owned%20Equipment/5.005%20Staff-Owned%20Equipment.pdf> · retrieved 2026-07-21 · sha256 `7b429d3f33982b3363c284ff6ce2e0f0de3d108a9c019a0d7d3648f5d7b46afb`
 - Snapshot: `_meta/snapshots/oha-osh-5-005.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

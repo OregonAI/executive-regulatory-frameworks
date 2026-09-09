@@ -11,6 +11,30 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Source-Updated
+- 2026-09-09 — **Oregon State Hospital: 6 re-ingested, 3 recovered from renamed paths, and a
+  pre-existing document/source mismatch fixed** (fifth group of the re-ingest queue).
+
+  **Three more "withdrawn" documents were relocations.** OSH dropped the
+  `(ADMINISTRATIVE DIRECTIVE)` suffix from two folder names and renamed one file:
+  `8.027 Weapons on Campus`, `8.037 Patient Property and Valuables - Handling and Storage`,
+  and `6.053`. Re-pointed and re-ingested. **`oha-osh-8-027` came back `unchanged`** — the
+  bytes at the new address hash identical to the committed baseline, which is the re-point
+  verifying itself: same document, new URL.
+
+  **`oha-osh-6-053` was mirroring the wrong file, and had been.** The document declares
+  `doc_type: policy`, `citation: OSH Policy 6.053`, title *Education Services for Patients
+  Under 21* — but its `## Full text` was `POLICY ATTACHMENT / PROCEDURES A: School Enrollment`.
+  The ingester's `fileref_re` had taken the first PDF in the folder. It now points at the
+  policy itself (`6.053 Education Services for Patients 18 through 21 Years of Age.pdf`), and
+  the title follows the source: *Educational Services for Patients 18 through 21 Years of Age*.
+  Noted in passing: the attachment OSH now publishes as `6.053 Procedures **B** - School
+  Enrollment.pdf` still reads `PROCEDURES **A**: School Enrollment` inside, checkboxed
+  "Revision of existing policy", dated 2026-08-10.
+
+  Manifest baselines re-seeded with the drift detector's formula; **6 of 9 reproduce the hash
+  the drift run observed** — the three that do not are exactly the re-pointed ones, which that
+  run could not fetch.
+
 - 2026-09-09 — **OAM: 15 re-ingested, 4 of them at URLs the corpus had lost, and chapter 45's
   policy/procedure split recorded as superseded** (fourth group of the re-ingest queue).
 
@@ -185,6 +209,22 @@ corpus-wide changes from 2026-08-02 forward.
   (HC-1) and reach `review_queue.py`.
 
 ### Verified
+- 2026-09-09 — **`oha-osh-6-006` must NOT be removed; `oha-osh-6-001` is the only OSH document
+  the evidence supports removing.** Both were on the withdrawn-19 list, both 404, both with no
+  policy folder in the live SharePoint library. They are not the same case:
+
+  - **`oha-osh-6-006`** (Ongrounds/Offgrounds Movement) — OSH's own **current** administrative
+    directives cite policy 6.006 by number: `Supt Directive - Outings Risk Mitigation 6.006
+    11-15-24.pdf`, and `Superintendent-Directive-8.041-6.029-6.006-8.014-Personal-Searches-2023.06.26.pdf`.
+    A hospital does not issue a directive modifying a policy it has repealed. The PDF is
+    unpublished; the policy is operative. Under this repo's overriding rule — *could not check
+    is never reported as is not there* — that is an unavailable source, not an absent policy.
+  - **`oha-osh-6-001`** (Patient Transfers) — the string `6.001` appears in **zero** of the 544
+    live library paths, and there is no folder. Nothing cites it. Consistent with withdrawal.
+
+  Measured by re-querying the library through `ingest_policies._sp_pdf_rows`. No document was
+  removed in this PR.
+
 - 2026-09-04 — **DAS codes 260 and 588 identified as the same reorganization class #212
   fixed for DAS code 258** (#354). `link_budget_codes.py`'s own `REORGANIZED` table already
   named all three codes as affected by this staleness, but only 258 carried the research;

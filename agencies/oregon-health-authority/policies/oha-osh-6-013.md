@@ -12,16 +12,16 @@ agency: oregon-health-authority
 legal_authority: []
 source_url: "https://www.oregon.gov/oha/OSH/Policies/6.013%20Discharge%20and%20Conditional%20Release%20Planning/6.013%20Procedures%20A%20-%20Discharge%20Readiness.pdf"
 source_format: pdf
-retrieved: "2026-07-21"
-source_sha256: "0cfced610193c8adc3db59342af3b3485f6f4567a40ea19fe6e1dce77dc3eae6"
-effective_date: "2024-12-24"
+retrieved: "2026-09-09"
+source_sha256: "249a092ecdcd0c3f7172ddbcc040987fe9f95d18fc594ba495b79e1fa4c95ecd"
+effective_date: "2024-12-24"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new source -->
 last_reviewed: null
 source_version: "Effective DECEMBER 24,
                                                                                  2024"
 status: current
 supersedes: null
 content_mode: verbatim
-conversion_notes: "stripped page line 'DATE: December N, N Page N of N' x3"
+conversion_notes: "stripped page line 'DATE: September N, N Page N of N' x3"
 last_verified: ""
 verified_by: ""
 maintainer: "@morficflux"
@@ -49,147 +49,155 @@ OSH Policy 6.013 — Discharge and Conditional Release Planning. Oregon State Ho
 
 ## Full text
 
-                OREGON STATE HOSPITAL
-                                 POLICY ATTACHMENT
-
-PROCEDURES A:       Discharge Readiness                                     POLICY : 6.013
+                    OREGON STATE HOSPITAL
+                                    POLICY ATTACHMENT
+PROCEDURES A:       Discharge Readiness                                      POLICY : 6.013
 
 POINT PERSON:       Director of Social Work
 
-APPROVED:           Sara Walker, MD                                 DATE: DECEMBER 24,
-                                                                                 2024
-                    Chief Medical Officer/Interim
-                    Superintendent
-
-SELECT ONE:                                             Minor/technical revision of
-                      New policy attachment
-                                                        existing policy attachment
-                      Reaffirmation of existing         Major revision of existing
-                      policy attachment                 policy attachment
+APPROVED:           Chief Medical Officer                       DATE: SEPTEMBER 2, 2026
+                    ☐ New policy attachment        ☒ Revision of existing policy attachment
+SELECT ONE:
+                    ☐ Reaffirmation of existing
+                    policy attachment
 
     RESPONSIBLE                                   PROCEDURES
-  PERSON/GROUP
-Interdisciplinary     1. Encourage patient involvement whenever possible in
-Treatment Team           decisions regarding community placement when planning
-(IDT)                    discharge or conditional release.
-                      2. Identify barriers that could impede or delay discharge, and:
-                         a. develop Treatment Care Plan (TCP) goals and
-                             interventions specific to the identified discharge barrier
-                             with identified completion dates, and
-                         b. assign IDT resources to mitigate identified barriers.
-                      3. The IDT, Risk Review Panel, or Program Executive Team
-                         (PET) (as applicable) determines the patient is “ready to
-                         transition” or “conditional release ready.”
-                      4. Document discharge readiness status in the patient’s medical
-                         record at the time the IDT determines the patient’s discharge
-                         readiness per department protocols.
-                      5. After determining that a patient under the PSRB can be safely
-                         supervised in the community, request the Risk Review Panel
-                         review and approve or deny a conditional release readiness
-                         request.
-                      6. Provide the patient’s guardian with opportunity to participate
-                         in discharge planning.
-                      7. If a patient refuses to participate in all or part of the discharge
-                         planning process, document the refusal, the reasons for
+   PERSON/GROUP
+Interdisciplinary          1. Include the patient as much as possible when making
+Treatment Team                plans for discharge or conditional release.
+(IDT)                      2. Find issues that could delay discharge and:
+                                  a. Create Treatment Care Plan (TCP) goals to
+                                     address each issue.
+                                  b. Set target dates for Completion.
+                                  c. Assign team members to help remove these
+                                     barriers.
+                           3. Decide if the patient is:
+                                  a. Ready to transition, or
+                                  b. Ready for conditional release.
+                       (This decision may be made by the IDT, Risk Review Panel, or
+                       Program Executive Team, depending on jurisdiction type.)
+                           4. Record the patient’s discharge readiness in the medical
+                              record following department rules.
+                           5. If the patient is under the PSRB and can be safely
+                              supervised in the community, request a Risk Review Panel
+                              decision on conditional release readiness.
+                           6. Give the patient’s guardian a chance to take part in
+                              discharge planning.
+                           7. If a patient refuses to take part in discharge planning:
+                                   a. Document the refusal,
+                                   b. Explain why the patient refused,
+                                   c. List of what plans were offered, and
+                                   d. Describe efforts made to help the patient.
+                           8. Use clinical judgment and ask the patient who they want
+                              notified about their discharge.
+                                   a. Identify who should be legally notified.
 
-PROCEDURES A: Discharge Readiness                             POLICY NUMBER : 6.013
+PROCEDURES A:        Discharge Readiness                      POLICY NUMBER : 6.013
 
-                         refusal, the nature of the plans offered, and efforts made on
-                         behalf of the patient.
-                     8. Use clinical judgment and include the patient to identify whom
-                         the patient wants to be notified of their discharge.
-                         a. Identify who is legally required to be notified of the
-                              patient’s discharge.
-                         b. Notify the identified persons.
-                     9. Assess the patient’s risk for suicide in accordance with OSH
-                         Policy and Procedure 6.056, “Suicide Risk Screening and
-                         Assessment”.
-                     10. Include input from the patient’s lay caregiver, when
-                         applicable, and other supports.
-                     11. If a patient must be unexpectedly discharged, (e.g., due to
-                         court action or a voluntary admit patient request), attempt to
-                         connect with community-based services and supports for
-                         continuing care. Document such efforts.
-Psychiatrist/PMHNP    1. For patients under Oregon Revised Statute (ORS)
-                         161.370, complete a Clinical Hospital Level of Care
-                         Assessment in collaboration with other members of the
-                         IDT at the 10 Day Review and at each subsequent
-                         Treatment Care Plan Meeting. For Patients under
-                         ORS 426.130 and 426.220 complete a Ready to
-                         Transition Assessment in collaboration with Social
-                         Work and other members of the IDT at every
-                         Treatment Care Plan meeting.
-                      2. For all patients, identify the individual’s s discharge
-                         readiness in a progress note, including barriers to
-                         discharge and associated interventions for those not
-                         deemed ready.
-                      3. Collaborate with the social worker and patient on
-                         discharge planning.
-                      4. Complete the medical record and discharge order,
-                         including destination of patient’s discharge, and sign
-                         the discharge order.
-                      5. Complete the Psychiatry Discharge Summary within 10
-                         days of patient discharge and include the course of
-                         hospitalization, continuing care plan, and
-                         recommendations for needed treatment.
+                                 b. Notify the required people.
+                         9. Check the patient’s suicide risk following OSH Policy
+                             6.056, Suicide Risk Screening and Assessment.
+                         10. Include input from the patient’s caregiver and other
+                             supports when appropriate.
+                         11. If a patient is discharged unexpectedly (for example, due
+                             to court action or a voluntary discharge request):
+                                 a. Try to connect the patient with community services.
+                                 b. Document all efforts made.
+Psychiatrist/PMHNP       1. Complete required discharge readiness assessments:
+                                a. For ORS 161.370 patients: complete a Hospital
+                                   Level of Care Assessment at the 10-Day Review
+                                   and each TCP meeting.
+                                b. For ORS 426.130 and 426.220 patients: complete a
+                                   Ready to Transition Assessment at every TCP
+                                   meeting with Social Work and the IDT.
+                         2. Write a progress note stating:
+                                a. Whether the patient is ready for discharge, and
+                                b. Any barriers and steps to address them if the
+                                   patient is not ready.
+                         3. Work with the social worker and patient on discharge
+                            planning.
+                         4. Complete and sign the Discharge Medication
+                            Reconciliation Orders, which also serve as the discharge
+                            orders, and include the discharge location.
+                         5. Complete prescriptions for medications appropriate for the
+                            patient and their discharge location, including any
+                            necessary medications for opioid overdose reversal, in
+                            alignment with OAR 333-505-0055.
+                         6. Complete the Psychiatry Discharge Summary within 20
+                            days of discharge, including:
+                                a. Hospital course,
+                                b. Continuing care plan, and
+                                c. Treatment recommendations.
+Pharmacy                 1. Process discharge medication orders and supply to unit,
+                            including any required medications for opioid overdose
+                            reversal.
+Registered Nurse         2. Follow Nursing Protocol 2.027, Discharge of Patients, and
+(RN)                        complete the Nursing Discharge Bundle within 24 hours
+                            before discharge. This includes:
+                                a. Nursing Discharge Assessment, and
+                                b. Suicide Risk Screening at discharge.
+                         3. Review discharge instructions with the patient and
+                            caregiver when possible.
 
-PROCEDURES A: Discharge Readiness                                POLICY NUMBER : 6.013
+PROCEDURES A:   Discharge Readiness                       POLICY NUMBER : 6.013
 
-Registered Nurse     1. Per Nursing protocol 2,027 “Discharge of Patients,” complete
-(RN)                    the Nursing Discharge Bundle, which includes the Discharge
-                        Nursing Assessment and Suicide Risk Screening (Discharge),
-                        within 24 hours prior to the patient’s discharge.
-                     2. Review the Patient Discharge Instructions report with the
-                        patient and caregiver, when possible.
-                     3. Facilitate treatment and medical equipment to send with the
-                        patient per Nursing protocol.
-Social worker        1. Document community integration and discharge planning
-                        progress throughout the patient’s hospitalization in progress
-                        notes in accordance with applicable protocols.
-                     2. Complete a continuing care discharge plan (CCDP),
-                        including information such as housing, supervision,
-                        addresses, support systems, persons to contact, medical
-                        needs, appointments, special care needs, an evaluation of
-                        the likelihood the patient needs post-hospital services and
-                        the availability of the services, and recommendations in
-                        accordance with ORS 441.196.
-                     3. Schedule follow-up appointments for no later than seven
-                        days after discharge
-                     4. If follow-up appointments cannot be scheduled within seven
-                        days after discharge, document why the seven-day goal
-                        could not be met.
-                     5. Include recommendations for mental health care in the CCDP
-                        for a patient going to another institutional setting (e.g., jail,
-                        correctional facility, medical hospital) both for that institutional
-                        setting and for discharge planning to the community from that
-                        setting.
-                     6. If the patient or legal guardian refuses to sign the CCDP,
-                        write, "patient (or guardian) refuses to sign" in the open
-                        space provided for the signature, and initial the statement.
-                     7. Attach lists of resources specific for the patient’s needs which
-                        could include skilled nursing facilities (SNF), intermediate
-                        care facilities (ICF), local housing, shelters, food banks, etc.
-                     8. For patients under civil commitment or conditionally
-                        releasing under the PSRB, ensure transport is arranged.
-                     9. Complete notification to external partners of discharge,
-                        including phone contact with the receiving facility or provider,
-                        if there are immediate risks identified by the IDT. Document
-                        contact.
+                    4. Prepare medications, supplies, and medical equipment to
+                       go with the patient as required.
+Social Worker       1. Document discharge planning and community integration
+                        progress throughout the hospital stay.
+                    2. Complete a Continuing Care Discharge Plan (CCDP) that
+                        includes:
+                            a. Housing and supervision,
+                            b. Addresses and contact persons,
+                            c. Support systems,
+                            d. Medical and mental health needs,
+                            e. Appointments,
+                            f. Special care needs,
+                            g. Likelihood of needing post-hospital services, and
+                            h. Available services and recommendations, per ORS
+                                441.196.
+                    3. Schedule follow-up appointments within 7 days of
+                        discharge.
+                    4. If follow-up appointments cannot be scheduled within 7
+                        days, document the reason.
+                    5. For patients discharged to another institution (such as jail
+                        or a medical hospital):
+                            a. Include mental health care recommendations for
+                                that setting and for future community discharge.
+                    6. If the patient or guardian refuses to sign the CCDP:
+                            a. Write “patient (or guardian) refuses to sign,” and
+                            b. Initial the statement.
+                    7. Attach resource lists based on the patient’s needs, such
+                        as (when applicable):
+                            a. Skilled nursing facilities,
+                            b. Intermediate care facilities,
+                            c. Substance use disorder treatment services,
+                            d. Housing options,
+                            e. Shelters,
+                            f. Food banks.
+                    8. Arrange transportation for patients who are civilly
+                        committed, voluntary by guardian, at the end of their
+                        jurisdiction under the PSRB, or conditionally released
+                        under the PSRB.
+                    9. Notify outside providers and partners of the discharge.
+                            a. Make phone contact if the IDT identifies immediate
+                                risks.
+                            b. Document all contact.
+                    10. Sign the CCDP and send copies to:
+                            a. The patient,
+                            b. Care providers,
 
-PROCEDURES A: Discharge Readiness                               POLICY NUMBER : 6.013
+PROCEDURES A:        Discharge Readiness                    POLICY NUMBER : 6.013
 
-                       10. When completed, sign the CCDP, and send copies of the
-                           CCDP form to the patient, care provider, community mental
-                           health plan representative, and other involved agencies at
-                           discharge.
-Health Information      1. When the Psychiatry Discharge Summary is completed,
-                           check the CCDP and send out with other identified clinical
-                           documents identified by the Psychiatrist/PMHNP to
-                           continuing care providers.
-                        2. Document the date of the disclosure(s).
+                               c. Community mental health representatives, and
+                               d. Other involved agencies at discharge.
+Health Information       1. After the Psychiatry Discharge Summary is completed:
+                               a. Send the CCDP and other required clinical
+                                    documents to continuing care providers.
+                         2. Document the date all information was shared.
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oha/OSH/Policies/6.013%20Discharge%20and%20Conditional%20Release%20Planning/6.013%20Procedures%20A%20-%20Discharge%20Readiness.pdf> · retrieved 2026-07-21 · sha256 `0cfced610193c8adc3db59342af3b3485f6f4567a40ea19fe6e1dce77dc3eae6`
+- Source: <https://www.oregon.gov/oha/OSH/Policies/6.013%20Discharge%20and%20Conditional%20Release%20Planning/6.013%20Procedures%20A%20-%20Discharge%20Readiness.pdf> · retrieved 2026-07-21 · sha256 `249a092ecdcd0c3f7172ddbcc040987fe9f95d18fc594ba495b79e1fa4c95ecd`
 - Snapshot: `_meta/snapshots/oha-osh-6-013.pdf`
 - See [CHANGELOG](./CHANGELOG.md).
