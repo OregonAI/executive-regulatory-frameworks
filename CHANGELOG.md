@@ -11,6 +11,35 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Source-Updated
+- 2026-09-09 — **DAS re-issued its 26 drifted statewide policies in August 2026** (third group
+  of the re-ingest queue). Every one is on a new masthead — `NUMBER:` / `EFFECTIVE DATE:` /
+  `POLICY OWNER:` / `DIVISION:` / `INTERNAL OR STATEWIDE POLICY:` / `LAST REVIEWED DATE:` /
+  `SUPERSEDES:` / `PAGE NUMBER:` / `REFERENCE/AUTHORITY:` — with new effective dates (mostly
+  August 1 or August 21, 2026) and a `SUPERSEDES:` line naming the prior version.
+
+  The re-template is not the whole story, which is why this was measured with the repo's own
+  extractor (`ingest_lib.clean_pdf_text`, furniture stripped) rather than by eyeballing the
+  header. Body-text retention, as 8-word shingles surviving from the old text — a lower bound,
+  since reflow alone breaks shingles:
+
+  | policy | body kept | words |
+  |---|---|---|
+  | `das-107-009-0030` | **1.1%** | 555 → 1,035 |
+  | `das-10-011-01` Personnel Records | **13.1%** | 581 → 800 |
+  | `das-50-035-01` | 35.3% | 393 → 395 |
+  | `das-60-000-11` | 36.8% | 377 → 390 |
+  | `das-40-080-01` | 40.9% | 249 → 269 |
+  | the other 21 | 50–82% | — |
+
+  `das-107-009-0030` is not a re-template at all: 1.1% of its body survives and it is retitled
+  from *Business Equity, Inclusion and Engagement in Public Procurement* to *Fair Access in
+  Public Procurement*. It is a replacement policy wearing the old number. See the retitling
+  entry below.
+
+  Manifest baselines re-seeded from the committed `.pdf` snapshots with the drift detector's
+  formula; **26 of 26 reproduce the hash the drift run observed**. Dates carry
+  `refresh_document`'s TODO marker for human transcription (HC-1).
+
 - 2026-09-09 — **The other 28 chapter-414 rules re-ingested: DELC rolls Every Child Belongs
   through the chapter** (second group of the re-ingest queue; the mechanical 16 landed in the
   entry below). These are the rows the renumbering PR deliberately left behind because they
