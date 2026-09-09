@@ -41,6 +41,18 @@ corpus-wide changes from 2026-08-02 forward.
   cited `414-360-0720` where it means `414-210-0720` — a wrong-division cross-reference this
   corpus was mirroring faithfully, now corrected upstream.
 
+  Two things this re-ingest exposed, both left as found rather than edited:
+
+  - **The corpus holds none of the four `-0750` rules the new text points at.**
+    `_meta/catalog/mechanical-findings.yml` gains five dead citations against
+    `OAR 414-210-0750`, `414-305-0750`, `414-320-0750` and `414-360-0750` — the suspension and
+    expulsion prevention rules that the whole Every Child Belongs programme hangs on. Distinct
+    dead targets 1,968 → 1,972. They are a corpus gap, not a drafting error; filed for ingest.
+  - **`oar-414-320-0200(7)(d)` cites `OAR 414-305-0750`** — the certified-centers division's
+    rule — inside a certified-ONB-program rule, where every sibling reference in the same
+    document reads `414-320-`. It reads like an upstream slip, but it is what DELC filed, so it
+    is mirrored as filed and reported here rather than silently corrected.
+
   Manifest baselines re-seeded from the committed `.html` snapshots with the drift detector's
   formula, `content_hash(raw, "html", volatile_patterns)`; **28 of 28 reproduce the hash the
   2026-09-03 drift run observed**. Not written through `check_updates.py --refresh` (#383).
