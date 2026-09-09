@@ -14918,8 +14918,8 @@ sources:
   notes: Children in the Head Start Program
 - id: oar-414-210-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-0100
-  sha256: fa392c41f596be25d4ecc96f9975823c4c677b74ee249f404b09c83fd719301f
-  last_checked: '2026-08-28'
+  sha256: a2d97b088e9b089a7c9288caa99ddf7129f6496ee9cfc4f460a4534aae2b9e2e
+  last_checked: '2026-09-09'
   notes: Definitions
 - id: oar-414-210-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-0110
@@ -14948,8 +14948,8 @@ sources:
   notes: Exceptions to Rules
 - id: oar-414-210-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-0200
-  sha256: edc756a7b1eb41576170b2dc0c7981f76c2d3d8a6aa5ef59d42123abe2d0b9e1
-  last_checked: '2026-08-28'
+  sha256: 34a3e8c20288be1291e65c085f76f372876d03592c4b02ff913ad610f65625f4
+  last_checked: '2026-09-09'
   notes: Policies
 - id: oar-414-210-0210
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-0210
@@ -14993,13 +14993,13 @@ sources:
   notes: Record Retention and Access
 - id: oar-414-210-0260
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-0260
-  sha256: 630075b5174d48fc376e460ffde6a7a4b20835ca404490599b78656e69e076d2
-  last_checked: '2026-08-28'
+  sha256: 3e1b5e1cd176f2a505babae46cb5fa309f6756611e9a897dab34125f1477d7d4
+  last_checked: '2026-09-09'
   notes: Items Available for Review
 - id: oar-414-210-0270
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-0270
-  sha256: 894ea9b93dc5baa1c376762026fb755d4456bb754c6e700df922dc24e4b04703
-  last_checked: '2026-08-28'
+  sha256: d06c5ec1153ab0a6bf83c5e6781b7fb143c523cf205717151916a862d8cca22a
+  last_checked: '2026-09-09'
   notes: Notifications
 - id: oar-414-210-0300
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-0300
@@ -15093,8 +15093,8 @@ sources:
   notes: Prohibited Discipline and Actions
 - id: oar-414-210-0720
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-0720
-  sha256: 9ebb71d6df40583544d594292ff75922c73e32fe530dd1a82f98f3cb86476186
-  last_checked: '2026-08-28'
+  sha256: 50c02ef68b8ee02e1c0fa18395a16bfcce1916584ab16530139fadc19ff5e7c9
+  last_checked: '2026-09-09'
   notes: Physical Restraint
 - id: oar-414-210-0810
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-0810
@@ -15158,8 +15158,8 @@ sources:
   notes: Medications
 - id: oar-414-210-1050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-1050
-  sha256: bfa433408d6269784ea2e8747f333e01f21a7b04644e38d6878d97f64ac30de9
-  last_checked: '2026-08-28'
+  sha256: cae532a8050486820cb0ace0a069a1daeec11e8e8c76b4d519230f29d1db6e0e
+  last_checked: '2026-09-09'
   notes: Care of Children with Specific Needs
 - id: oar-414-210-1100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-210-1100
@@ -15203,8 +15203,8 @@ sources:
   notes: Civil Penalty
 - id: oar-414-305-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-0100
-  sha256: b38facca3b32e0ffedca2fa4f0a31693799fe89d64bc271f320fdbbf9c5cb42b
-  last_checked: '2026-08-28'
+  sha256: 65773d763722d93e1bccddadb7aa6355e9130a5d8b614ef2c897b4ebb2903e4d
+  last_checked: '2026-09-09'
   notes: Definitions
 - id: oar-414-305-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-0110
@@ -15238,8 +15238,8 @@ sources:
   notes: Exceptions to Rules
 - id: oar-414-305-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-0200
-  sha256: e647a0fca229dd3a888807f8739c74da40c3a3a7dd6c45db590df0b24fa56edf
-  last_checked: '2026-08-28'
+  sha256: edf6f5fb13da3e9517e10f795045694204d72d84027ea1485593a6a319ead945
+  last_checked: '2026-09-09'
   notes: Policies
 - id: oar-414-305-0210
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-0210
@@ -15278,13 +15278,13 @@ sources:
   notes: Program Records
 - id: oar-414-305-0260
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-0260
-  sha256: 21a5e436db9dee33349b9dfd986999f3549533b8787df541a4c4b1bb1b402f01
-  last_checked: '2026-08-28'
+  sha256: 6ee228a9d1f1010ee1a01b084fcf3c972b3d7cdb0b99c3137097ade586d82ae2
+  last_checked: '2026-09-09'
   notes: Items Available to View
 - id: oar-414-305-0270
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-0270
-  sha256: 49fe1fbad13055e47cd3621f8d0683532efb21fc579fe2154fb4bec58da72295
-  last_checked: '2026-08-28'
+  sha256: ddd1b88056e8023bf5ef7acd2ad28b6a5148eb056d859e40c1919410062bfccb
+  last_checked: '2026-09-09'
   notes: Notifications
 - id: oar-414-305-0300
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-0300
@@ -15408,8 +15408,8 @@ sources:
   notes: Prohibited Discipline and Actions
 - id: oar-414-305-0720
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-0720
-  sha256: 7420979d7e632fea63e6e4d1545c5832237a843ab1b810cb5061940670a99463
-  last_checked: '2026-08-28'
+  sha256: cb3b1dfb417ef81787a06afc13271794c638bec3cbe3ce59a80683bd55e85925
+  last_checked: '2026-09-09'
   notes: Physical Restraint
 - id: oar-414-305-0800
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-0800
@@ -15483,8 +15483,8 @@ sources:
   notes: Medications
 - id: oar-414-305-1050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-1050
-  sha256: dd33910c78d48da9b8df6e0491e8f1ffce852da18f9b410a8e586897d7f633f4
-  last_checked: '2026-08-28'
+  sha256: 009f30f1f4918a9a43127cd1181f0e8ce18214cb58e2439220bcab84b05f6b70
+  last_checked: '2026-09-09'
   notes: Care of Children with Special Needs
 - id: oar-414-305-1100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-305-1100
@@ -15878,8 +15878,8 @@ sources:
   notes: Civil Penalty
 - id: oar-414-320-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-0100
-  sha256: 28cdc1ad52a5cb2432245aaa0e62fedcb024441ea90a556b18b7b897157f0196
-  last_checked: '2026-08-28'
+  sha256: 06b471fe41ab6891ea3a20714566807f5a670e4cb47258c86bdadaaff93b3369
+  last_checked: '2026-09-09'
   notes: Definitions
 - id: oar-414-320-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-0110
@@ -15908,8 +15908,8 @@ sources:
   notes: Exceptions to Rules
 - id: oar-414-320-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-0200
-  sha256: cd5aa4bb07b7dae5548d15cbf878cc8fcb16312c4a0f4387381da5119a565310
-  last_checked: '2026-08-28'
+  sha256: 7c1656b7a28bc1c30d41ad55751a79168802b1bd26ea3744cb3c6d8b82cf09e6
+  last_checked: '2026-09-09'
   notes: Policies
 - id: oar-414-320-0210
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-0210
@@ -15958,13 +15958,13 @@ sources:
   notes: Record Retention and Access
 - id: oar-414-320-0260
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-0260
-  sha256: 6397a17db14ea534720ee8e897e20cbbbdfba572403791cb23708b1b41a6f886
-  last_checked: '2026-08-28'
+  sha256: 1f0c480ccd5485adaccc88858ea130293d39595aa7402e9bf2cfa70cc795eb79
+  last_checked: '2026-09-09'
   notes: Items Available to View
 - id: oar-414-320-0270
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-0270
-  sha256: 7417613f0f82decfb47d6a4f1a0e53e00bf004619ba75c216519673aab5733ec
-  last_checked: '2026-08-28'
+  sha256: f27c7e09677591dc4d1e3f22afa82a270767f641e937d7da77c172acbe540c4d
+  last_checked: '2026-09-09'
   notes: Notifications
 - id: oar-414-320-0300
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-0300
@@ -16058,8 +16058,8 @@ sources:
   notes: Prohibited Discipline and Actions
 - id: oar-414-320-0720
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-0720
-  sha256: 60cc83e8cf04e7ee883cabccba518ea904ecd161c197e37d6dfae99602dca839
-  last_checked: '2026-08-28'
+  sha256: de8635e578f8bd986b09661b9759486f2718153af539b8394d25b4484819ad2d
+  last_checked: '2026-09-09'
   notes: Physical Restraint
 - id: oar-414-320-0800
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-0800
@@ -16143,8 +16143,8 @@ sources:
   notes: Medications
 - id: oar-414-320-1050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-1050
-  sha256: 044601e6047af609d609ddbc537977d36cb1e6b7484dd85d16ac70f213fe9e7d
-  last_checked: '2026-08-28'
+  sha256: f1b2271a98e09ddd26b4428f850c10054cf241dbf42f2280e6fa0f4266ab02d9
+  last_checked: '2026-09-09'
   notes: Care of Children with Specific Needs
 - id: oar-414-320-1100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-320-1100
@@ -16268,8 +16268,8 @@ sources:
   notes: Program Guidelines
 - id: oar-414-360-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-0100
-  sha256: 4f45ddecda4cdc49d41aa5ea58e984a0ce4e55651e2109639a79877973330646
-  last_checked: '2026-08-28'
+  sha256: 3401bb141f1684760493b3b081a6e01ed7206d10bbcd9ed6e3031210e9510128
+  last_checked: '2026-09-09'
   notes: Definitions
 - id: oar-414-360-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-0110
@@ -16298,8 +16298,8 @@ sources:
   notes: Exceptions to Rules
 - id: oar-414-360-0200
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-0200
-  sha256: f7d1f1f6b812074e94d400d1d7476f99bcef070be3296be4598c6c9cc1464e02
-  last_checked: '2026-08-28'
+  sha256: f7e8babf128fd14fc76634e1fd023e72e70cacb508a9d3857a2e2a03e2866981
+  last_checked: '2026-09-09'
   notes: Policies
 - id: oar-414-360-0210
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-0210
@@ -16343,13 +16343,13 @@ sources:
   notes: Record Retention and Access
 - id: oar-414-360-0260
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-0260
-  sha256: c58de8a1ce412e5564f458f6e8a0211ce55a6e12e1940ced0999cb7517d28869
-  last_checked: '2026-08-28'
+  sha256: e1aa5a9960e497cc1b5f09a0d2e0c9f7b16b96618b7239e49f677cd7f138dab2
+  last_checked: '2026-09-09'
   notes: Items Available for Review
 - id: oar-414-360-0270
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-0270
-  sha256: 1f45a8ea4deeb6febf12a4d05b51eec5e2f0ca695af1e68cfe967c79086972db
-  last_checked: '2026-08-28'
+  sha256: 2cec21ed80a4220654065e15792e9c4e2dbde67b2d1983238e9dbd17231426f1
+  last_checked: '2026-09-09'
   notes: Notifications
 - id: oar-414-360-0300
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-0300
@@ -16453,8 +16453,8 @@ sources:
   notes: Prohibited Discipline and Actions
 - id: oar-414-360-0720
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-0720
-  sha256: d9149e2b4c905d201836cff33c344267a2277a9e6986cc04465580918e1bf09f
-  last_checked: '2026-08-28'
+  sha256: 70b3bca9ce722cfd6df07a64932194e763e6f54c4eb6004602841ca1086711df
+  last_checked: '2026-09-09'
   notes: Physical Restraint
 - id: oar-414-360-0800
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-0800
@@ -16523,8 +16523,8 @@ sources:
   notes: Medications
 - id: oar-414-360-1050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-1050
-  sha256: d9ff95891c4d2ac5f0e352f1f8b19188873d262737c3d7e587bfa1b66819188f
-  last_checked: '2026-08-28'
+  sha256: be780583a090e5d22201d37242970e2cdf474c857a5a920810d065d545cb7e39
+  last_checked: '2026-09-09'
   notes: Care of Children with Specific Needs
 - id: oar-414-360-1100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-360-1100
@@ -16613,23 +16613,23 @@ sources:
   notes: Evaluation
 - id: oar-414-580-0000
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-580-0000
-  sha256: e8e1467d1d47533454975d20f017fbc08d8de7ca132e66999a35acc6783ef708
-  last_checked: '2026-08-28'
+  sha256: 8c8f0694cec0048c40950bce01b8acfe1c6ed798cad42823792f503706b1b419
+  last_checked: '2026-09-09'
   notes: Definitions
 - id: oar-414-580-0005
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-580-0005
-  sha256: fc6db226607e0c267c7186c73d3edd012fb80ea485ee3c40714326e77c5cac7e
-  last_checked: '2026-08-28'
+  sha256: 52c50a1f59749b8e9124df8a6685b8ec903de726532f95abbba61dd61209b580
+  last_checked: '2026-09-09'
   notes: Purpose
 - id: oar-414-580-0010
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-580-0010
-  sha256: 7bb4e49ab36121b78a2344595178f06f07af75d8360fb5eeefe25cbfe0c07839
-  last_checked: '2026-08-28'
+  sha256: 08f64c96f60dd6441efce0dc66bd2efaa317c8c4f2f41c1464a618a53dc7142b
+  last_checked: '2026-09-09'
   notes: Regional Service Provider Requirements
 - id: oar-414-580-0030
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-580-0030
-  sha256: 31683c82ecde92139162bb285a9822c07c4977f87dae96de32917b12a442dcda
-  last_checked: '2026-08-28'
+  sha256: 6dd0362844f1d27da0926f70809f55f88034b264a56abc588bab631197848c66
+  last_checked: '2026-09-09'
   notes: Reporting
 - id: oar-414-900-0011
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=414-900-0011

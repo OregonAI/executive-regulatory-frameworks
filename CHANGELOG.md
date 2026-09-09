@@ -11,6 +11,42 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Source-Updated
+- 2026-09-09 — **The other 28 chapter-414 rules re-ingested: DELC rolls Every Child Belongs
+  through the chapter** (second group of the re-ingest queue; the mechanical 16 landed in the
+  entry below). These are the rows the renumbering PR deliberately left behind because they
+  carry substantive edits. One filing programme accounts for nearly all of them:
+
+  - **A new defined term.** `“Every Child Belongs (ECB)” is Oregon's early childhood suspension
+    and expulsion prevention program` enters the definitions rule of divisions 210, 305 and 320
+    (`-0100`), which is what shifted every later subsection number and produced the 16
+    cross-reference renumberings. Division 360's `-0100` re-numbers from a new `(1)` instead.
+  - **A new required policy.** Each program's records/handbook list gains a
+    "Suspension and expulsion prevention policy" item citing the division's own `-0750` rule —
+    `(h)` in 210, `(u)` in 305, `(z)` in 320, `(j)` in 360 (`-0200`), and again in the parent
+    handbook rules (`-0260`).
+  - **A new notification duty.** Each `-0720` (physical restraint) rule gains subsection (7):
+    the provider must contact Every Child Belongs when physical restraint is used more than
+    once on a specific young child. Transcribed as filed, including division 320's
+    `In not done previously` where the other three read `If not done previously`.
+  - **Temporary safety-based intervention** added to the reportable-actions lists in the
+    `-0270` rules.
+  - **Medical care plans rewritten** in the `-1050` rules: a new subsection (1) defining
+    "qualified professional", and the duty restated around a written care plan rather than
+    around a child "who has or is at increased risk for" a condition.
+  - **Division 580 renamed throughout**: "Early Childhood Care and Education Provider" becomes
+    "Early Learning and Care Program", and "the Early Childhood Suspension and Expulsion
+    Prevention Program" becomes "Every Child Belongs".
+
+  Also picked up in passing, since re-ingest takes the page as filed: `oar-414-210-0270` had
+  cited `414-360-0720` where it means `414-210-0720` — a wrong-division cross-reference this
+  corpus was mirroring faithfully, now corrected upstream.
+
+  Manifest baselines re-seeded from the committed `.html` snapshots with the drift detector's
+  formula, `content_hash(raw, "html", volatile_patterns)`; **28 of 28 reproduce the hash the
+  2026-09-03 drift run observed**. Not written through `check_updates.py --refresh` (#383).
+  Effective/reviewed dates carry `refresh_document`'s TODO marker for human transcription
+  (HC-1) and reach `review_queue.py`.
+
 - 2026-09-09 — **16 chapter-414 rules re-ingested: a cross-reference renumbering, and nothing
   else** (first group of the ~191-document re-ingest queue). Each of these rules cites a
   definition by subsection number in its own division's `-0100` definitions rule, and DELC's
