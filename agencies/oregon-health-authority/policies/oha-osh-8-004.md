@@ -25,15 +25,7 @@ last_verified: ""
 verified_by: ""
 maintainer: "@morficflux"
 relationships:
-  implements:
-    - oar-257-010-0010
-    - oar-257-010-0060
-    - oar-407-007-0000
-    - oar-407-007-0460
-    - oar-943-007-0001
-    - ors-161.327
-    - ors-161.370
-    - ors-426.095
+  implements: []
   implemented_by: []
   references_external: []
   related: []

@@ -27,12 +27,14 @@ verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements:
+    - oar-333-505-0055
     - ors-161.370
     - ors-426.130
     - ors-426.220
   implemented_by: []
   references_external: []
-  related: []
+  related:
+    - oha-osh-6-056
   supersedes: []
 tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
 ---

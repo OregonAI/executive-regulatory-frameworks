@@ -25,14 +25,11 @@ last_verified: ""
 verified_by: ""
 maintainer: "@morficflux"
 relationships:
-  implements:
-    - oar-309-108-0015
-    - ors-179.040
-    - ors-426.380
-    - ors-426.395
+  implements: []
   implemented_by: []
   references_external: []
-  related: []
+  related:
+    - oha-osh-4-018
   supersedes: []
 tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
 ---
