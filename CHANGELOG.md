@@ -74,6 +74,25 @@ corpus-wide changes from 2026-08-02 forward.
   carry no occurrence at all. No repo reads the key for a live join.
 
 ### Fixed
+- 2026-09-09 — **Every ingester's fetch went out under a browser's name.** `ingest_lib.fetch`
+  is the single point the nine ingesters that reach the network go through (`ingest_oar`,
+  `reingest_oar`, `ingest_eo`, `ingest_policies`, `ingest_ors`, `ingest_ors_renumbering`,
+  `ingest_constitution`, `catalog_ors`, `check_updates`). It sent
+  `Mozilla/5.0 (executive-regulatory-frameworks updater; ...)` — a browser's name with ours
+  demoted to the comment — over bare `urllib`, with no rate limit between requests to one
+  host and none of this corpus's declared TLS supplements. It now delegates to
+  `corpus_toolkit.sources.fetch.Fetcher` (ADR 0016), which sends
+  `OregonAI-CivicCorpus/<version> (+<this repo>; public-records archival)`, completes the
+  declared chains, and spaces requests to a host by `min_interval`. One `Fetcher` is built
+  lazily and shared process-wide, because its rate limiting is per-instance state and nine
+  importers sharing the name have to share the host clock to mean anything.
+
+  Behaviour change for callers: a non-2xx now raises (`Refused`/`Challenge`, both
+  `FetchError`, or httpx's `HTTPStatusError`) rather than returning a body — the same shape
+  `urllib.error.HTTPError` already gave them, so the existing `except Exception` handlers in
+  `refresh_document` and friends are unchanged. Found while preparing the ~191-document
+  re-ingest queue: that campaign is 191 fetches at agency servers, and they should not go out
+  under a name that is not ours.
 - 2026-09-02 — **#338: a renumbered OAR row whose served target's file already existed on
   disk never got its `path` recorded.** `ingest_oar.py`'s `out.exists()` branch gated the
   `r["path"]` write on `served == num`, so a row like 125-800-0005 (served as
