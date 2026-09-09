@@ -36,6 +36,29 @@ corpus-wide changes from 2026-08-02 forward.
   Public Procurement*. It is a replacement policy wearing the old number. See the retitling
   entry below.
 
+  **Five of the 26 were retitled upstream**, so the document's `title`, its `# ` heading and the
+  manifest `notes` now name what the source names itself:
+
+  | id | was | is |
+  |---|---|---|
+  | `das-107-009-0030` | Business Equity, Inclusion and Engagement in Public Procurement | **Fair Access in Public Procurement** |
+  | `das-40-080-01` | Reemployment | Rehire |
+  | `das-50-030-01` | Restoration of **Removed** Management Service Employees | Restoration of Management Service Employees |
+  | `das-60-000-03` | Oregon Family Leave Act | Oregon Family Leave Act (OFLA) |
+  | `das-60-000-15` | Family and Medical Leave | Federal Family and Medical Leave Act (FMLA) |
+
+  Each document's `## At a glance` line still carries the older name, because that line is
+  explicitly attributed to the *policies listing of record* — the committed listing snapshot,
+  dated 2026-07-18 — and refreshing that snapshot is intake-gated. The two are now visibly
+  dated claims about two dated sources rather than one silent contradiction. `citation` is
+  listing-derived for the same reason and keeps `(under revision)` on `das-107-009-0030`.
+
+  **`das-107-009-0030` answers a question that was open about the withdrawn-document list.** Its
+  own masthead reads: `SUPERSEDES: Policy 107-009-0030 and Procedure 107-009-0030_PR (Business
+  Equity, Inclusion and Engagement in Public Procurement, 2020)`. So `das-107-009-0030_pr` — one
+  of the documents a 404 had suggested was simply withdrawn — is *superseded*, and Oregon says
+  so in the replacing document. That is a supersession to record, not an absence to delete.
+
   Manifest baselines re-seeded from the committed `.pdf` snapshots with the drift detector's
   formula; **26 of 26 reproduce the hash the drift run observed**. Dates carry
   `refresh_document`'s TODO marker for human transcription (HC-1).

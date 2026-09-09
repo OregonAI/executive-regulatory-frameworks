@@ -255,7 +255,7 @@ sources:
   url: https://www.oregon.gov/das/Policies/107-009-0030.pdf
   sha256: 1cde88d5ee2e329f628fb8cfb0cbd4c6216b03e769d1273dfa856e68581c9755
   last_checked: '2026-09-09'
-  notes: Business Equity, Inclusion and Engagement in Public Procurement
+  notes: Fair Access in Public Procurement
 - id: das-107-009-0030_pr
   url: https://www.oregon.gov/das/Policies/107-009-0030_PR.pdf
   sha256: d7e0587a200f22abb359f51e1ac9f90d127df5d4cf40f13ee60ca018720a6544
@@ -470,7 +470,7 @@ sources:
   url: https://www.oregon.gov/das/Policies/40-080-01.pdf
   sha256: 04d018cee4659effd48323309b67de75a867aedd69d759bd025c7427f3bdbbd6
   last_checked: '2026-09-09'
-  notes: Reemployment
+  notes: Rehire
 - id: das-50-000-01
   url: https://www.oregon.gov/das/Policies/50-000-01.pdf
   sha256: d1a7a7fab37d3730b6e4c90fd8e8d4d144b0e1b0a3739e42e5edba7468a1a61d
@@ -545,7 +545,7 @@ sources:
   url: https://www.oregon.gov/das/Policies/50-030-01.pdf
   sha256: abc6ac4b307dadb28a07c50e65b174f1630015af6ca039d99ae10a906614c772
   last_checked: '2026-09-09'
-  notes: Restoration of Removed Management Service Employees
+  notes: Restoration of Management Service Employees
 - id: das-50-035-01
   url: https://www.oregon.gov/das/Policies/50-035-01.pdf
   sha256: 00640a17be4dbac346f528b7a533bda01448d6de49515554a81e74dcf3c7228b
@@ -585,7 +585,7 @@ sources:
   url: https://www.oregon.gov/das/Policies/60-000-03.pdf
   sha256: 60b19f4e4430ae062c5a1a11a7773e3e64c7c456b0b25754f4824d169a88354a
   last_checked: '2026-09-09'
-  notes: Oregon Family Leave Act
+  notes: Oregon Family Leave Act (OFLA)
 - id: das-60-000-04
   url: https://www.oregon.gov/das/Policies/60-000-04.pdf
   sha256: 7a86ca67f2ef28ea039656139efbd81f9fe95f4bcb0a617a7e7a930a776698ec
@@ -615,7 +615,7 @@ sources:
   url: https://www.oregon.gov/das/Policies/60-000-15.pdf
   sha256: a62703a6dc3a7cdb7615fa8c7112b849c675a0f6421144e51d2b0624a8d13a8d
   last_checked: '2026-09-09'
-  notes: Family and Medical Leave
+  notes: Federal Family and Medical Leave Act (FMLA)
 - id: das-60-000-20
   url: https://www.oregon.gov/das/Policies/60-000-20.pdf
   sha256: b84722b9dd3a0182897afa1596e286a9a5c0777912cf76259933abcd57e77a6b
