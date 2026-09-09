@@ -1,39 +1,56 @@
-                                                                                                Statewide Policy
-
-
-
 OREGON ACCOUNTING MANUAL
-Subject:       Accounting and Financial Reporting                             Number:         45.40.00
-Division:      State Controller’s Division                                    Effective date: February 27, 2008
-Chapter:       Payroll
-Part:          Reimbursement of Employee Expenses Through OSPA
-Section:
+Statewide Policy
 
-Approved:      John Radford, State Controller                                 Signature on file at SCD
+NUMBER: 45.40.00
+SUBJECT: Payroll: Paying Expense Reimbursements and Document Retention
+EFFECTIVE DATE: 08/07/2026
+POLICY OWNER: Office of the State Controller | Oregon Statewide Payroll Services (OSPS)
+DIVISION: Chief Financial Office
+LAST REVIEWED DATE: 08/07/2026
+SUPERSEDES: Policy # 45.40.00 (02/27/2008)
+PAGE NUMBER: Page 1 of 2
+REFERENCE/AUTHORITY:
 
+   •   ORS 292.016
+   •   ORS 292.018
+   •   OAR 166-300-0025
 
-Authority         ORS 292.016
-                  ORS 292.018
-
-
-Using OSPA to Pay Expense Reimbursements
-
-        .101      The Oregon Statewide Payroll Application (OSPA) has functionality to process transactions for
-                  the reimbursement of employee expenses. Using OSPA may be a cost efficient way to reimburse
-                  employees as long as the payroll schedule provides acceptable timing for the reimbursement.
-                  When this functionality is used, expenses must be documented and their payment approved by
-                  the supervisor or other staff member charged with approving such payments before the payment
-                  is entered into OSPA. The approval and documentation requirements are the same as would be
-                  required if the payments were processed through accounts payable.
+APPROVED BY:
+Kate Nass, Chief Financial Officer | Approval on File
 
 
+Statement
+This is the state’s policy on using the Workday Payroll System to pay expense
+reimbursements and required document retention.
+
+Applicability
+This policy applies to all state agencies that are subject to the Oregon Accounting Manual
+(OAM), as outlined in OAM 01.05.00, Introduction: Scope and Applicability. If any
+provisions of OAM policies or procedures conflict with collective bargaining agreements,
+the provisions of collective bargaining agreements would supersede OAM guidance.
+
+Definitions
+Refer to OAM 65.00.00, Glossary for definitions.
+
+
+
+Oregon Accounting Manual             Policy No: 45.40.00                         Page 1 of 2
+Policy
+Using Workday Payroll System to Pay Expense Reimbursements
+101. The Workday Payroll System has functionality to process transactions for the
+     reimbursement of employee expenses. Using the Workday Payroll System may be a
+     cost-efficient way to reimburse employees as long as the payroll schedule provides
+     acceptable timing for the reimbursement. When this functionality is used, expenses
+     must be documented and their payment approved by the supervisor or other staff
+     member charged with approving such payments before the payment is entered into
+     Workday. The approval and documentation requirements are the same as would be
+     required if the payments were processed through accounts payable.
 Retention of Documentation
-
-        .102      The agency payroll unit will retain the supporting documentation for six years after the date of
-                  payment.
-
+102. The agency payroll unit will retain the supporting documentation for six years after
+     the date of payment.
 
 
 
-                                                                                                         45.40.00.PO.1
+
+Oregon Accounting Manual            Policy No: 45.40.00                          Page 2 of 2
 

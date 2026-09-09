@@ -1,46 +1,64 @@
-                                                                              Number
- OREGON ACCOUNTING MANUAL                                                     45.45.00
+OREGON ACCOUNTING MANUAL
+Statewide Policy
 
- Oregon Department of                            Policy                       Effective Date
- Administrative Services
- State Controller's Division                                                  July 1, 2005
+NUMBER: 45.45.00
+SUBJECT: Payroll: Separation of Duties
+EFFECTIVE DATE: 06/29/2026
+POLICY OWNER: Office of the State Controller | Oregon Statewide Payroll Services (OSPS)
+DIVISION: Chief Financial Office
+LAST REVIEWED DATE: 06/29/2026
+SUPERSEDES: Policy # 45.45.00 (07/01/2005)
+PAGE NUMBER: Page 1 of 2
+REFERENCE/AUTHORITY:
 
- Chapter          Payroll
-                                                                              .1 OF .1
- Part             Separation of Duties
+   •   ORS 292.018
+   •   ORS 292.036
+   •   OAM 10.10.00 PO & PR
 
- Section                                                                      Approval
-
-                                                                              Signature on file at SCD
-
-Authority       ORS 292.018
-                ORS 292.036
-                OAM 10.10.00.PO & PR
+APPROVED BY:
+Kate Nass, Chief Financial Officer | Approval on File
 
 
+Statement
+This is the state’s policy to define what processes are appropriate for agencies to maintain
+adequate internal controls with respect to separation of duties, taking into consideration
+what staffing limitations may exist within a given agency.
+
+Applicability
+This policy applies to all state agencies that are subject to the Oregon Accounting Manual
+(OAM), as outlined in OAM 01.05.00, Introduction: Scope and Applicability. If any
+provisions of OAM policies or procedures conflict with collective bargaining agreements,
+the provisions of collective bargaining agreements would supersede OAM guidance.
+
+
+
+
+Oregon Accounting Manual             Policy No: 45.45.00                          Page 1 of 2
+Definitions
+Separation of Duties: Placing key duties with different people to detect errors and prevent
+wrongful acts; no single person should cross the three responsibilities of authorizing,
+recording, and maintaining custody.
+Refer to OAM 65.00.00, Glossary for definitions.
+
+Policy
 Distribution of Payroll Checks
-
-        .101    For effective internal control, an agency payroll or fiscal employee having update access to the
-                Oregon State Payroll Application (OSPA) should not receive or distribute payroll checks or direct
-                deposit pay stubs. This includes daily manual payroll checks.
-
-
-OSPA Access and Personal Payroll Transactions
-
-        .102    No person with update access to the OSPA should perform data entry for their own paper
-                timesheets, gross pay adjustments, changes in tax withholding, or any correction to their own pay
-                amounts. Agencies with a single payroll technician with no opportunity for a second person to
-                process entries related to the payroll technician must ensure a monthly review is conducted by a
-                person in another section, preferably management personnel.
-
-        .103    Agencies that use OSPA Online Daily Time perform an adequate review of the payroll officer’s
-                time entry when the supervisor locks the timesheet. Agency owned time systems that batch
-                upload time to OSPA, as long as that system provides for supervisory review of time and an
-                approval mechanism that prevents alteration of time once approved, also provide adequate
-                internal control.
+101. For effective internal control, an agency payroll or fiscal employee having update
+      access to the Workday Payroll System should not receive or distribute payroll
+      checks or direct deposit pay stubs. This includes daily agency manual or off-cycle
+      payroll checks.
+Workday Payroll System Access and Personal Payroll Transactions
+102. No person with update access to the Workday Payroll System may perform data
+     entry for their own pay input adjustments, or any correction to their own pay
+     amounts. Agencies with a single payroll partner with no opportunity for a second
+     person to process entries related to the payroll partner must create a case with
+     Workday Help Desk to request that they make these entries on their behalf. The
+     payroll partner’s manager must review all entries made on a payroll partner’s profile
+     prior to payroll processing.
+103.   Agency-owned time systems that have an integration with the Workday Payroll
+       System must provide adequate internal controls as referenced in paragraph 102.
 
 
 
 
-                                                                                                     45.45.00.PO. 1
+Oregon Accounting Manual             Policy No: 45.45.00                         Page 2 of 2
 

@@ -483,8 +483,8 @@ sources:
   notes: Interagency receivables- billings/payments/progressive actions
 - id: oam-40-10-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/40.10.00.pdf
-  sha256: 470b8f2903a3e5226ae6291ec6cfa3787ebd0f39db6853fc483a1631c0f6b4bd
-  last_checked: '2026-07-18'
+  sha256: c9f9fa3e6f26431a0da5331222eef8a0c94d7ad17676af57a5b0e91c71da32e1
+  last_checked: '2026-09-09'
   notes: Statewide travel policy
 - id: oam-40-20-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/40.20.00.pdf
@@ -503,13 +503,13 @@ sources:
   notes: Corporate travel card-procedure
 - id: oam-45-05-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.05.00.pdf
-  sha256: c9bb145083855061e5ec2019b5ce5cb3e7b3b40fecd05a3cf615a66e5b1a16e9
-  last_checked: '2026-07-18'
+  sha256: 6294a1b165de4e1a81c8c6c3c4e3ac17d662b794ca1b9207ea6a09dc80e48905
+  last_checked: '2026-09-09'
   notes: Regular Pay Days
 - id: oam-45-06-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.06.00.pdf
-  sha256: 46fa401c49996ddd66e4d8e8ace19fefab2685664a1f816be4c7a6d3b3b3b107
-  last_checked: '2026-07-18'
+  sha256: 5556c979b106373451139086406e6b6dd1115d23e843def3c684623c117d6655
+  last_checked: '2026-09-09'
   notes: Sick Leave Balances at Retirement
 - id: oam-45-07-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.07.00.pdf
@@ -517,10 +517,10 @@ sources:
   last_checked: '2026-07-18'
   notes: Time record approval and leave report review
 - id: oam-45-10-00
-  url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.10.00%20Voluntary%20Deductions-Final%20Draft.pdf
-  sha256: 90cdd6e2471b8331f20287a1e27ee62135f242a0430cd92a8baf318b44db667f
-  last_checked: '2026-07-18'
-  notes: Voluntary Deductions
+  url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.10.00.pdf
+  sha256: 63fc87f50b16052e0a215ba10cdaeed8b6ca3f8967c2160de7f6a43437c0dc59
+  last_checked: '2026-09-09'
+  notes: "Payroll: Voluntary Deductions"
 - id: oam-45-10-00-po
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.10.00.po.pdf
   sha256: cdaf5f707fe3708c5cb3216b55d810bd0e58732b3dd643cdbab0baa2c6d1daf3
@@ -532,10 +532,10 @@ sources:
   last_checked: '2026-07-18'
   notes: Voluntary deductions-procedure
 - id: oam-45-15-00
-  url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.15.00%20Payroll%20Accounts%20Reimb-Final%20Draft.pdf
-  sha256: 97e2fa4e49a24026c8336e41d36799635271ff16571c976d77e742132f89eb65
-  last_checked: '2026-07-18'
-  notes: Payroll Accounts Reimbursement
+  url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.15.00.pdf
+  sha256: a53bd9e9e03bcb3100d57d3c7baa5cb20b60b4d8e3eccc37a64308349193db73
+  last_checked: '2026-09-09'
+  notes: "Payroll: Payroll Accounts Reimbursement"
 - id: oam-45-15-00-po
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.15.00.po.pdf
   sha256: cca654913cb2c2326473f57f0ebc7003815132026950a295d755be735d1a05d2
@@ -548,19 +548,19 @@ sources:
   notes: Payroll accounts reimbursement-procedure
 - id: oam-45-17-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.17.00.pdf
-  sha256: 7f27fb41ed2a37d6cfe0572f469687667a0769c12f420263181b7b9c6ad31131
-  last_checked: '2026-07-18'
+  sha256: 00713ab56ce167e84d5414c2ed6c37240f46374ccad203b0866c55883d5283c0
+  last_checked: '2026-09-09'
   notes: Payroll Data Integrity
 - id: oam-45-20-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.20.00.pdf
-  sha256: 11dcfa4364e25bb0b31c925b16d990fb2933c7180ac7c9c281214309084fd3b5
-  last_checked: '2026-07-18'
+  sha256: 803c111f6b0febba50fca7692e8a47076850c0103eb51ed496cae840983ab3c4
+  last_checked: '2026-09-09'
   notes: Cash Insurance Payments
 - id: oam-45-25-00
-  url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.25.00%20Salary%20Advances-DRAFT.pdf
-  sha256: 7b228623f7531ad5ee78e1b40e5c39e2d2ec6158a6029ce9c21c9f5ce4179ce6
-  last_checked: '2026-07-18'
-  notes: Salary Advances
+  url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.25.00.pdf
+  sha256: 199d23627111db63a81f374dbc9ff92e277acae6e9e8294f466e3f4e4339a2e5
+  last_checked: '2026-09-09'
+  notes: "Payroll: Payroll Advance"
 - id: oam-45-25-00-po
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.25.00.po.pdf
   sha256: 7d06fa05bd92a8d19001933b7e33700dde35d6c3dd3c0e6408ee128ae41a8ec0
@@ -573,14 +573,14 @@ sources:
   notes: Salary advances-procedures
 - id: oam-45-30-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.30.00.pdf
-  sha256: d21f4114f13df6f4d23f7d84579a5424aa5d900d5d132d3e085c4e5caafeff3e
-  last_checked: '2026-07-18'
+  sha256: e0841ed2700b52ed96aed02170731231036d4f2859ca8184fa34770d7578e75b
+  last_checked: '2026-09-09'
   notes: Dual Update Access to PPDB and OSPA
 - id: oam-45-35-00
-  url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.35.00%20Review%20of%20Gross%20Pay%20Adjustments%20-%20DRAFT.pdf
-  sha256: 27de27ea96fd438c31b1946cabb85243d6f1a20a5f0a3202136da59ea13adf04
-  last_checked: '2026-07-18'
-  notes: Review of Gross Pay Adjustments
+  url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.35.00.pdf
+  sha256: 3dd6629ed126eb670fc58135481e6463ecc4553ba861f3a9e045b33ba32e43cd
+  last_checked: '2026-09-09'
+  notes: "Payroll: Review of Gross Pay Adjustments"
 - id: oam-45-35-00-po
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.35.00.po.pdf
   sha256: d5ef2e2a3da57685b808c77dbce083fee62c5dd96511fe93aac17c00ce04383e
@@ -593,23 +593,23 @@ sources:
   notes: Review of gross pay adjust. reports-procedure
 - id: oam-45-37-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.37.00.pdf
-  sha256: ebc6f8e3774a74c2ad0fa0d1c5b4434bb01e7b710c378d8fecdc5f9180df0da6
-  last_checked: '2026-07-18'
+  sha256: 3d23c4a298012fe27c7c3463c8acfd7e4a9b0fe5505cfac16c672b3426199b0c
+  last_checked: '2026-09-09'
   notes: Review of Month End Leave Reports
 - id: oam-45-40-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.40.00.pdf
-  sha256: c8ba5563dd436bbad6bf33f6ba497ca2fd7fe253af5c6a051e10ba512741e7d4
-  last_checked: '2026-07-18'
+  sha256: 3c7767a974ede2fa175da4422a0abd94d3737e9cf9bfafa5c763eb938dee35ab
+  last_checked: '2026-09-09'
   notes: Reimbursement of Employee Expenses Through OSPA
 - id: oam-45-42-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.42.00.pdf
-  sha256: c1db66cf488f57a837a5173cf91af08d49a54b66e0dad199ab42e844d4dcc745
-  last_checked: '2026-07-18'
+  sha256: 239b93f0e7116ffe77a9980b86503385b50e6712c0e5011e6fc5c18b22b4a526
+  last_checked: '2026-09-09'
   notes: Distributions Accompanying Payroll Payment
 - id: oam-45-45-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.45.00.pdf
-  sha256: 42675b36fc3987a0a5c4472855c375b459f345307cb6a4a094794308834347ab
-  last_checked: '2026-07-18'
+  sha256: e1d4f1bb5e891ab4b4077234757bc97bd85a29b941121c56ae4f3138066d657c
+  last_checked: '2026-09-09'
   notes: Separation of Duties
 - id: oam-45-50-00
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/45.50.00.pdf
@@ -828,8 +828,8 @@ sources:
   notes: 'Annual Certification: Write-off, Abated, and Canceled Debt'
 - id: oam-75-40-01-fo
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/75.40.01.fo.xlsx
-  sha256: 7cfc0c3b730ba8fb3dfa592cfceaecd7d994d98f108447782dd2af1529223a40
-  last_checked: '2026-07-18'
+  sha256: a91fba11ee19fc823804192e27d81cd24bf22cbf64c02f7f3d5e00a9733f4858
+  last_checked: '2026-09-09'
   notes: Travel Expense Detail Sheet
 - id: oam-75-40-02-fo
   url: https://www.oregon.gov/das/Financial/Acctng/Documents/75.40.02.FO.pdf

@@ -1,38 +1,62 @@
-                                                                                                  Statewide Policy
-
-
-
 OREGON ACCOUNTING MANUAL
-Subject:       Accounting and Financial Reporting                              Number:         45.30.00
-Division:      State Controller’s Division                                     Effective date: June 29, 2007
-Chapter:       Payroll
-Part:          Dual Update Access to PPDB and OSPA
-Section:
+Statewide Policy
 
-Approved:      John Radford, State Controller                                  Signature on file at SCD
+NUMBER: 45.30.00
+SUBJECT: Payroll: Dual Update Access Within the Workday Payroll System
+EFFECTIVE DATE: 08/07/2026
+POLICY OWNER: Office of the State Controller | Oregon Statewide Payroll Services (OSPS)
+DIVISION: Chief Financial Office
+LAST REVIEWED DATE: 08/07/2026
+SUPERSEDES: Policy # 45.30.00 (06/29/2007)
+PAGE NUMBER: Page 1 of 2
+REFERENCE/AUTHORITY:
 
+   •   ORS 240.145
+   •   ORS 292.018
+   •   ORS 292.036
+   •   OAM 45.45.00
 
-
-Authority         ORS 240.145
-                  ORS 292.018
-                  ORS 292.036
-
-        .101      As a matter of internal control, no individual will be authorized to have general update authority
-                  for employee records in both the Position and Personnel Data Base (PPDB) system and the
-                  Oregon State Payroll Application (OSPA).
-
-        .102      Any agency employee who has update authority to an agency owned and operated time and
-                  attendance application which interfaces data to OSPA is considered to have update access to
-                  OSPA. Update access is defined as the ability to create a time record for another employee; add,
-                  change, or delete hours to the time record of another employee; or enter any other transaction
-                  that would have an affect on the amount of money paid to another person. Employees with this
-                  level of access to the agency owned time and attendance application shall not have simultaneous
-                  update authority to the PPDB system. This does not include employees whose access to an
-                  agency owned time and attendance application is limited or controlled to only permit them to
-                  enter their own time or supervisors who validate or approve the time of subordinates.
+APPROVED BY:
+Kate Nass, Chief Financial Officer | Approval on File
 
 
+Statement
+This is the state’s policy on internal control and security roles for payroll data in the
+Workday Payroll System.
+
+Applicability
+This policy applies to all state agencies that are subject to the Oregon Accounting Manual
+(OAM), as outlined in OAM 01.05.00, Introduction: Scope and Applicability. If any
+provisions of OAM policies or procedures conflict with collective bargaining agreements,
+the provisions of collective bargaining agreements would supersede OAM guidance.
 
 
-                                                                                                          45.30.00.PO.1
+
+
+Oregon Accounting Manual               Policy No: 45.30.00                             Page 1 of 2
+Definitions
+Refer to OAM 65.00.00, Glossary for definitions
+
+Policy
+101.   As a matter of internal control, no individual will be authorized to have system
+       permission to update employee records in the Workday Payroll System for both
+       human resource (HR) and payroll data.
+102.   Any agency employee who has update authority to an agency owned and operated
+       time and attendance application which interfaces data to Workday Payroll System
+       is considered to have been assigned the Agency Payroll Partner security role in the
+       Workday Payroll System. This security role allows for update access which includes
+       the ability to create a time record for another employee; add, change, or delete
+       hours to the time record of another employee; or enter any other transaction that
+       would have an effect on the amount of money paid to another person. Employees
+       with this level of access to the agency’s owned time and attendance application
+       shall not have a security role that allows for update access to the HR data within the
+       Workday Payroll System. This does not include employees whose access to an
+       agency’s owned time and attendance application is limited or controlled to only
+       permit them to enter their own time or supervisors who validate or approve the time
+       of subordinates.
+
+
+
+
+Oregon Accounting Manual             Policy No: 45.30.00                           Page 2 of 2
 

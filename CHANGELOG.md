@@ -11,6 +11,50 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Source-Updated
+- 2026-09-09 — **OAM: 15 re-ingested, 4 of them at URLs the corpus had lost, and chapter 45's
+  policy/procedure split recorded as superseded** (fourth group of the re-ingest queue).
+
+  **The four "withdrawn" chapter-45 policies were never withdrawn.** `oam-45-10-00`,
+  `-45-15-00`, `-45-25-00` and `-45-35-00` were mirrored from `…/45.10.00 Voluntary
+  Deductions-Final Draft.pdf`-style URLs — *draft* PDFs, which is why all four carried
+  `status: draft` and no effective date. DAS has since published the adopted policies at short
+  URLs (`45.10.00.pdf` …), effective 08/07/2026, and retired the draft URLs. The corpus read
+  the 404s as withdrawal. Manifest `url` and each document's `source_url` are re-pointed, the
+  documents re-ingested, and `status: draft` → `current`: this corpus now mirrors the adopted
+  policy rather than a draft that no longer exists.
+
+  **The policy/procedure split is over, and the sources say so.** Each combined policy states
+  what it replaces in its own masthead — `SUPERSEDES: Policy # 45.10.00.PO and 45.10.00.PR
+  (2/27/2008)`, and likewise for 45.15.00 (08/15/2001), 45.25.00 (03/04/2003) and 45.35.00
+  (06/29/2007). Every one of those dates matches the effective date the committed listing
+  snapshot records for that `.po`/`.pr` row. So the eight `-po`/`-pr` documents get
+  `status: superseded`, and each combined policy's `relationships.supersedes` names the two it
+  replaced. **This is recorded because Oregon states it, not because a fetch returned 404.**
+
+  Retitled to follow their sources: *Voluntary Deductions* → *Payroll: Voluntary Deductions*;
+  *Payroll Accounts Reimbursement* → *Payroll: Payroll Accounts Reimbursement*; ***Salary
+  Advances* → *Payroll: Payroll Advance***; *Review of Gross Pay Adjustments* → *Payroll:
+  Review of Gross Pay Adjustments*.
+
+  **A triage finding corrected.** The 2026-09-08 triage recorded `oam-75-40-01-fo` as "the
+  `.pdf` URL now serves a **.docx** (58,562 B); committed snapshot is a PDF". It is none of
+  those things: the manifest URL is `75.40.01.fo.xlsx`, the declared format is `xlsx`, and both
+  the old and new snapshots are valid XLSX workbooks (`xl/workbook.xml` present, no `word/`
+  parts). The byte count was right and the diagnosis was wrong. It is an ordinary content
+  change to a spreadsheet form; `## Full text` is untouched, as it should be for a format with
+  no text extraction.
+
+  Manifest baselines re-seeded with the drift detector's formula. **11 of 15 reproduce the hash
+  the drift run observed** — the four that do not are exactly the re-pointed ones, which that
+  run could not fetch at all.
+
+  **Left for a decision, not guessed at:** the eight `-po`/`-pr` manifest entries still point at
+  URLs that now 404, so they will report as access failures every run. The corpus has no
+  precedent for a source that is both superseded and withdrawn upstream — the other superseded
+  documents in the repo (`schedule-public-safety`, `schedule-military`, `schedule-puc`) keep
+  manifest entries whose URLs still resolve. Entries left in place; the rule is worth setting
+  once rather than per-document.
+
 - 2026-09-09 — **DAS re-issued its 26 drifted statewide policies in August 2026** (third group
   of the re-ingest queue). Every one is on a new masthead — `NUMBER:` / `EFFECTIVE DATE:` /
   `POLICY OWNER:` / `DIVISION:` / `INTERNAL OR STATEWIDE POLICY:` / `LAST REVIEWED DATE:` /
