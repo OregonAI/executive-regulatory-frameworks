@@ -32,6 +32,7 @@ relationships:
   implemented_by:
     - das-107-004-030
     - das-107-004-030_pr
+    - das-107-009-0030
     - eo-23-02
     - eo-23-03
     - eo-24-02
