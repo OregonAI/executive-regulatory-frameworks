@@ -76,8 +76,6 @@
  
  
  
-   Temporary rule language in effect until 12/27/2026. 
- 
  
  
  
@@ -94,19 +92,9 @@
  Resident Services in a Memory Care Community
  
  
- (1) Individuals with a diagnosis of dementia who require support for the symptoms of dementia for physical safety or physical or cognitive function may reside in a memory care community. A memory care community may also admit an individual who does not have a diagnosis of dementia when: 
+ (1) Only individuals with a diagnosis of dementia who are in need of support for the progressive symptoms of dementia for physical safety, or physical or cognitive function may reside in a memory care community. Services must be delivered in a manner that promotes the autonomy and dignity of each resident, to maintain or enhance the resident's remaining abilities for self-care. 
 
- (a) The individual seeks to reside with a spouse, partner, or companion who has dementia; 
-
- (b) The facility completes an evaluation demonstrating the individual can safely reside in a secured memory care environment and does not pose a risk to residents with dementia; 
-
- (c) The individual does not require services that exceed the facility’s license or staffing capacity; 
-
- (d) The facility documents how the individual’s presence will not interfere with meeting the needs of residents with dementia; and 
-
- (e) The facility develops a service plan that addresses the individual’s needs and supports safe co-residence. 
-
- (2) At time of move-in and at least quarterly, the memory care community must make reasonable attempts to identify the preferred customary routines of each resident and the resident's preferences in how services may be delivered. Minimum services to be provided include: 
+ (2) At time of move-in and quarterly, the community must make reasonable attempts to identify the preferred customary routines of each resident and the resident's preferences in how services may be delivered. Minimum services to be provided include: 
 
  (a) Assistance with activities of daily living that addresses the needs of each resident with dementia due to cognitive or physical limitations. These services must meet or be in addition to the requirements in the licensing rules for the facility. Services must be provided in a manner that promotes resident choice, dignity, and sustains the resident's abilities. 
 
@@ -118,7 +106,7 @@
 
  (B) Adaptive eating utensils for those residents who have been evaluated as needing them to maintain their eating skills. 
 
- (d) Meaningful activities that promote or help sustain the physical, cognitive and emotional well-being of residents. The activities must be person-centered and available during residents’ waking hours. 
+ (d) Meaningful activities that promote or help sustain the physical and emotional well-being of residents. The activities must be person centered and available during residents’ waking hours. 
 
  (A) Each resident must be evaluated for activities according to the licensing rules of the facility. In addition, the evaluation must address the following: 
 
@@ -144,7 +132,7 @@
 
  (iii) Spontaneous activities for enjoyment or those that may help diffuse a behavior; 
 
- (iv) One to one activities that encourage positive relationships between residents and staff (e.g., life story, reminiscing, music); 
+ (iv) One to one activities that encourage positive relationships between residents and staff (e.g. life story, reminiscing, music); 
 
  (v) Spiritual, creative, and intellectual activities; 
 
@@ -154,7 +142,7 @@
 
  (viii) Outdoor activities. 
 
- (e) Behavioral symptoms which negatively impact the resident or others in the community must be evaluated and included on the service or care plan. The memory care community must initiate and coordinate outside consultation or acute care when indicated. 
+ (e) Behavioral symptoms which negatively impact the resident and others in the community must be evaluated and included on the service or care plan. The memory care community must initiate and coordinate outside consultation or acute care when indicated. 
 
  (f) Support must be offered to family and other significant relationships on a regularly scheduled basis not less than quarterly. Examples in which support may be provided include support groups, community gatherings, social events, or meetings that address the needs of individual residents or their family or significant relationships. 
 
@@ -177,23 +165,8 @@
  
  
  
- APD 22-2026, temporary amend filed 08/04/2026, effective 08/11/2026 through 12/27/2026 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- 
  
  APD 18-2026, temporary suspends temporary APD 13-2026, filed 07/01/2026, effective 07/01/2026 through 12/27/2026 
- 
  
  
  

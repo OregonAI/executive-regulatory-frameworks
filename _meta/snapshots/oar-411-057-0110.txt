@@ -76,8 +76,6 @@
  
  
  
-   Temporary rule language in effect until 12/27/2026. 
- 
  
  
  
@@ -108,9 +106,9 @@
 
  (6) “Competency” means competency as defined in OAR 411-054-0005. 
 
- (7) “Competency Assessment” means competency as defined in OAR 411-054-0005. 
+ (7) “Competency Assessment” means competency as defined in OAR 411-054-0005” 
 
- (8) "Dementia" is a syndrome characterized by a progressive decline in cognitive functioning severe enough to interfere with an individual’s ability to perform daily activities. Dementia may affect an individual's memory, ability to think, reason, communicate, perform complex tasks, and move. Symptoms may also include changes in personality, mood, and behavior. There are several causes and types of dementia including but not limited to: 
+ (8) "Dementia" means major neurocognitive disorders, listed in the Diagnostic and Statistical Manual of Mental Disorders (DSM-5), which result in the loss of cognitive function severe enough to interfere with an individual's daily functioning. Dementia affects an individual's memory, ability to think, reason, speak, and move. Symptoms may also include changes in personality, mood, and behavior. Irreversible dementias include but are not limited to: 
 
  (a) Alzheimer’s disease; 
 
@@ -128,25 +126,9 @@
 
  (9) "Dementia Trained Staff" means any employee who has completed the minimum training requirements and has demonstrated competency in supporting individuals with dementia. 
 
- (10) "Department" means the Oregon Department of Human Services (ODHS). 
+ (10) "Department" means the Department of Human Services (DHS). 
 
- (11) “Designated representative” means an adult chosen by the resident or the resident’s legal representative, to participate in service planning, receive information, support communication, or otherwise assist the resident in matters related to services provided by the facility. 
-
- (a) A designated representative: 
-
- (A) Must be authorized by the resident or, as applicable, the legal representative. 
-
- (B) May be a family member, friend, advocate, or other person chosen by the resident. 
-
- (C) May not be a paid provider for the resident. 
-
- (b) A resident is not required to appoint a designated representative. 
-
- (c) Authorization of a designated representative remains in effect until modified or withdrawn by the resident or legal representative. 
-
- (d) The designated representative may be the same individual as the resident’s legal representative or designated contact person. 
-
- (12) "Direct Care Staff" means a facility employed person whose primary responsibility is to provide personal care services to residents. These personal care services may include: 
+ (11) "Direct Care Staff" means a facility employed person whose primary responsibility is to provide personal care services to residents. These personal care services may include: 
 
  (a) Medication administration; 
 
@@ -158,49 +140,43 @@
 
  (e) Serving meals, but not meal preparation. 
 
- (13) "Disclosure" means the written information the facility is required to provide to consumers to enhance the understanding of memory care community services, costs, and operations. 
+ (12) "Disclosure" means the written information the facility is required to provide to consumers to enhance the understanding of memory care community services, costs, and operations. 
 
- (14) "Division" means the Oregon Department of Human Services, Office of Aging and People with Disabilities Program (APD). 
+ (13) "Division" means the Department of Human Services, Aging and People with Disabilities Program (APD). 
 
- (15) “Egress control system” means a door or gate locking system installed in accordance with the Oregon Fire Code and Oregon Structural Specialty Code that restricts or controls exit from a memory care community, including controlled egress systems as permitted by those codes. 
+ (14) "Emergency Situation" means a disruption to normal care and services caused by an unforeseen occurrence beyond the control of the licensee whether natural, technological, or human-caused where staff who are trained as required in these rules are not available. 
 
- (16) “Elopement” means a memory care resident leaves the secured memory care area unsupervised, without the facility’s knowledge. 
+ (15) “Endorsed Memory Care Community” means a special care unit in a designated, separated area for residents with Alzheimer’s disease or other forms of dementia that is locked or secured to prevent or limit access by a resident outside the designated or separated area. For purposes of these rules an endorsed memory care community will be referred to as a memory care community. 
 
- (17) "Emergency Situation" means a disruption to normal care and services caused by an unforeseen occurrence beyond the control of the licensee whether natural, technological, or human-caused where staff who are trained as required in these rules are not available. 
+ (16) "Endorsement" means the community has met the requirements to provide specialized services in a memory care community and the requirements for the community's underlying license. An endorsement does not constitute a recommendation of any memory care community by the Division. 
 
- (18) “Endorsed Memory Care Community” means a special care unit in a designated, separated area for residents with Alzheimer’s disease or other forms of dementia that is locked or secured to prevent or limit access by a resident outside the designated or separated area. For purposes of these rules an endorsed memory care community will be referred to as a memory care community. 
+ (17) "Facility" for the purpose of these rules, means a nursing facility, residential care facility, or assisted living facility. 
 
- (19) "Endorsement" means the community has met the requirements to provide specialized services in a memory care community and the requirements for the community's underlying license. An endorsement does not constitute a recommendation of any memory care community by the Division. 
+ (18) "Interdisciplinary Team" means persons including the resident, community staff, family members, healthcare providers, and case managers as applicable, who support the resident with direct care, nursing, activities, nutrition, and case management. 
 
- (20) "Facility" for the purpose of these rules, means a nursing facility, residential care facility, or assisted living facility. 
+ (19) "Licensee" means the entity that owns the residential care, assisted living, or nursing facility business, and to whom a residential care, assisted living, or nursing facility license has been issued. 
 
- (21) “Independent family council” means a self-directed group of residents, family members of residents, or designated representatives who may meet in private, either in person or online, to identify, discuss, and collectively present concerns, grievances, or recommendations to facility administration regarding any aspect of facility operations affecting residents, for the purpose of seeking improvements in care, services, safety and quality of life. 
+ (20) "Management" or "Operator" means the entity possessing the right to exercise operational or management control over, or directly or indirectly conduct, the day-to-day operation of a facility. 
 
- (22) "Interdisciplinary Team" means persons including the resident, community staff, family members, healthcare providers, and case managers as applicable, who support the resident with direct care, nursing, activities, nutrition, and case management. 
+ (21) "Nursing Facility" means a nursing facility as defined in OAR 411-085-0005. 
 
- (23) "Licensee" means the entity that owns the residential care, assisted living, or nursing facility business, and to whom a residential care, assisted living, or nursing facility license has been issued. 
+ (22) “Orientation” means the training that all employees must complete, as required in OAR 411-054-0070, before performing any job duties. 
 
- (24) "Management" or "Operator" means the entity possessing the right to exercise operational or management control over, or directly or indirectly conduct, the day-to-day operation of a facility. 
+ (23) "Person Centered Care" is an approach that supports a resident to direct their own care by focusing on what is important to them while taking into account all the factors that impact their life. Person centered care promotes a positive relationship between the resident and staff which is accomplished by staff being knowledgeable about the resident's life story, routines, and habits, and incorporating that information into the individual's daily care and activities. 
 
- (25) "Nursing Facility" means a nursing facility as defined in OAR 411-085-0005. 
+ (24) "Pre-Service Training" means training that must be completed prior to staff independently providing care and services to residents. Pre-service training addresses specific dementia topics as well as other topics related to resident care. Training may include various methods of instruction, for example, classroom style, web-based training, video training, one-to-one or mentoring training, or a combination thereof. 
 
- (26) “Orientation” means the training that all employees must complete, as required in OAR 411-054-0070, before performing any job duties. 
+ (25) "Remodel" means a renovation or conversion of a building that requires a building permit and meets the criteria for review by the Facilities Planning and Safety Program, Oregon Health Authority, as required by OAR 333-675-0000. 
 
- (27) "Person-centered Care" is an approach that supports a resident to direct their own care by focusing on what is important to them while taking into account all the factors that impact their life. Person-centered care promotes a positive relationship between the resident and staff which is accomplished by staff being knowledgeable about the resident's life story, routines, and habits, and incorporating that information into the individual's daily care and activities. 
+ (26) "Residency Agreement" means the information required to be disclosed prior to admission to a residential care or assisted living facility as described in OAR 411-054-0025(10). 
 
- (28) "Pre-Service Training" means training that must be completed prior to staff independently providing care and services to residents. Pre-service training addresses specific dementia topics as well as other topics related to resident care. Training may include various methods of instruction, for example, classroom style, web-based training, video training, one-to-one or mentoring training, or a combination thereof. 
+ (27) "Resident" as used in these rules, means any individual with Alzheimer's disease or other dementia who lives in a memory care community. 
 
- (29) "Remodel" means a renovation or conversion of a building that requires a building permit and meets the criteria for review by the Facilities Planning and Safety Program, Oregon Health Authority, as required by OAR 333-675-0000 
+ (28) "Residential Care Facility" means residential care facility as defined in OAR 411-054-0005. 
 
- (30) "Residency Agreement" means the information required to be disclosed prior to admission to a residential care or assisted living facility as described in OAR 411-054-0025(10). 
+ (29) "These Rules" mean the rules in OAR chapter 411, division 057. 
 
- (31) "Resident" as used in these rules, means any individual with Alzheimer's disease or other dementia who lives in a memory care community. 
-
- (32) "Residential Care Facility" means residential care facility as defined in OAR 411-054-0005. 
-
- (33) "These Rules" mean the rules in OAR chapter 411, division 057. 
-
- (34) "Universal Worker" means a universal worker as defined in OAR 411-054-0005. 
+ (30) "Universal Worker" means a universal worker as defined in OAR 411-054-0005. 
 
  
  
@@ -219,23 +195,8 @@
  
  
  
- APD 22-2026, temporary amend filed 08/04/2026, effective 08/11/2026 through 12/27/2026 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- 
  
  APD 18-2026, temporary suspends temporary APD 13-2026, filed 07/01/2026, effective 07/01/2026 through 12/27/2026 
- 
  
  
  

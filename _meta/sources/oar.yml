@@ -5729,7 +5729,7 @@ sources:
   notes: Optional Charter Licensing for Uninspected Passenger Vessels
 - id: oar-250-020-0161
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=250-020-0161
-  sha256: ff7f55bca5014133ddd810679fbd634472392da2d30c7eed8e564a7196ccb4f3
+  sha256: 6a2faa1019e5224997e1a4b46f67e8da7ecd8289eba559185c607531c794f3df
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-250-020-0400
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=250-020-0400
@@ -6262,11 +6262,11 @@ sources:
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-291-082-0105
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=291-082-0105
-  sha256: d347943ca57d73e1c757a47abbb4afaf2a8c3a28080689d24c8e92423e18d24c
+  sha256: 074b7d588f61c79309725cde91c07039a03231b35a3a40f999bf47f123910123
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-291-082-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=291-082-0110
-  sha256: 6910078242ae70e935804da84f6d566154b170f839e3f075e17d114418722266
+  sha256: 86c4aa26df7e15f43e4ec0b1d4001a3d662eccba82624112d8dfb8278a373ba5
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-291-082-0115
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=291-082-0115
@@ -6417,7 +6417,7 @@ sources:
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-291-104-0111
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=291-104-0111
-  sha256: 3b777eda8a10d52f2f33956d7d362d716afc835043cd1928cc3e724c9bb9a5fe
+  sha256: 2996a3e8f3da5c4c56256c8380a816684383d48bdaeb8c8fdb1fb124d846638c
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-291-104-0116
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=291-104-0116
@@ -6425,7 +6425,7 @@ sources:
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-291-104-0125
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=291-104-0125
-  sha256: bff33fb4ea622db044256394d43c69b8d242a045d10b6a7804f1e76a22c3d977
+  sha256: 5cc3a394faa55f5515e1ce40b54637467072b63cdd7bfdb5700c73c49e944f91
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-291-104-0135
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=291-104-0135
@@ -12747,7 +12747,7 @@ sources:
   notes: Responsibility for Particular Covered Services Based on Plan Type
 - id: oar-410-141-3830
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=410-141-3830
-  sha256: 70ce69752ad85065a651e16e2597565cc2d114a94051a06ce0acb28edefd2bb1
+  sha256: d509775abe2e6c274e1b4bd2d6c38ee619f74aabac0e4258db8c5fc55de71068
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-410-141-3846
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=410-141-3846
@@ -13740,19 +13740,19 @@ sources:
   notes: Acuity-Based Staffing Tool
 - id: oar-411-057-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=411-057-0100
-  sha256: 109fe36e2422646bcf5bd0b0713c0d2b554f0cbb49272789f2804a5fe2a439db
+  sha256: b8422d33275da5ae87e448a6dcd008a9c6ef0e506474f38839bf555d2a735868
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-411-057-0110
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=411-057-0110
-  sha256: 1d52cca7a460364e789d117ce75e1d8a89378d88bbce3c33d29c708a05841145
+  sha256: 45a8a5a9212cbba2f1660376a4b1b5bd0fc224cc875c21e1bb1b2a0aa5e34f07
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-411-057-0140
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=411-057-0140
-  sha256: 5bc89e873d51e11215aa60a433912c1df9b7aba63151ef5527a2867f35bb8172
+  sha256: 0ace32f59d270036a9664081d222b7d1d4e27491b795d162ef53ccd73460350d
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-411-057-0160
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=411-057-0160
-  sha256: 5e97b554d4ba4cefaa77cca03c151c93de10103c6aa3456bd774ac2d10fd0736
+  sha256: 9bb46b8994c29ded2e3819fd751ce75307c787149fad357c52e44464c946268a
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-411-057-0165
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=411-057-0165
@@ -22736,11 +22736,11 @@ sources:
   notes: Aggregate Mining on High Value Farmland in the Willamette Valley
 - id: oar-635-004-0275
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=635-004-0275
-  sha256: a9109eb2c68701b0cb29f22e4c49831f8cafa09507e823c5a47146d7891b09f3
+  sha256: 9c6eed78539fc038b25a553e3c71436c755702235ab8789c46776a91c63b2d77
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-635-004-0585
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=635-004-0585
-  sha256: 76e1cb37042a0def925b040fbee663553386eccfbe3922ac64822d518fbd31c1
+  sha256: 38e4953980b27e17ee5cd1d07b2f58344dacbc5c64296a5e97a319f1a4bccdfd
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-635-005-0446
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=635-005-0446
@@ -22915,7 +22915,7 @@ sources:
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-635-041-0076
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=635-041-0076
-  sha256: 18a3a731cdcbb69f6b37fa9740c3e3f2a9d7f103b32e2f90bb514f71e63e7578
+  sha256: 7cee85eee8242623e48185237f50bc80fc8f835e13a497ba38aaaf704e11f70f
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-635-041-0620
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=635-041-0620
@@ -24833,7 +24833,7 @@ sources:
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-695-046-0195
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-046-0195
-  sha256: e7e4361b6d455e4b8b3b1e2c092d96d306eb511144afb9b67600ec6e998d5801
+  sha256: 0a1d17f41913e8e46ebcddc78f0aa7a3733af90e8a9d67fa11b5b518dfc7e94f
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-695-046-0196
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=695-046-0196
@@ -29346,8 +29346,8 @@ sources:
   notes: Disciplinary Reinstatement
 - id: oar-851-031-0065
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=851-031-0065
-  sha256: 84363d60356cad97050fa5e789943e2fafcf2c9dd97653accfadcbb8a94a2f54
-  last_checked: '2026-09-10'
+  sha256: 450927b43f4b05b872fbf7da029137d483c8f7e3c1c256181d56d3d621867c48
+  last_checked: '2026-08-28'
   notes: Standards for individualized re-entry plans
 - id: oar-851-031-0075
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=851-031-0075
@@ -31499,7 +31499,7 @@ sources:
   notes: Fees
 - id: oar-875-010-0031
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=875-010-0031
-  sha256: 6be09890a93ed47abd5f175fdc76de879e376aa2905cf4b1cb81db9d4f0eb412
+  sha256: d621daa0ec2f96d15dc6cd89a6e356bce61824883e3c1660c770c52e5109f176
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-875-010-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=875-010-0100

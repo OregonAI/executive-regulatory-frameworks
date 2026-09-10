@@ -16,6 +16,16 @@ corpus-wide changes from 2026-08-02 forward.
   Chapters touched: 333 (10), 851 (8), 291/309/635 (5 each), 411/413 (4 each), 410/660 (2 each),
   and one each in 123, 165, 250, 259, 695, 813, 839, 856, 875.
 
+  **16 of the 56 were reverted before this landed, and the repo's own design is why.** Those
+  rules carry `status: repealed` or `superseded`, and `reingest_oar.py` refuses by name to
+  text-refresh a rule whose force the Bulletin changed — *"its text is left as served and a
+  person reviews it"*. Driving them through the generic `refresh_document` path bypassed that
+  judgement, and for two of them it did real damage: `oar-695-046-0195` went **140 → 37 words**
+  and `oar-851-031-0065` **369 → 34**, because OARD now serves those pages as a repeal notice and
+  nothing else. That is the same deletion-under-provenance the 41 chapter-350 rules were spared,
+  reached by a different route. All 16 documents, snapshots and manifest baselines are restored
+  to their pre-refresh state; none of them appears in this PR's diff.
+
   `oar-333-333-5080` came back **unchanged**. It was the one *new* access failure in the
   2026-09-09 drift run, first seen that day and never escalated; the page serves the psilocybin
   safety-and-support-plan rule normally and its bytes still hash to the committed baseline. That

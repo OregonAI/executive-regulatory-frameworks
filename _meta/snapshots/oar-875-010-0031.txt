@@ -76,6 +76,8 @@
  
  
  
+   Temporary rule language in effect until 12/14/2026. 
+ 
  
  
  
@@ -188,7 +190,7 @@
 
  (11) Facility closure.  In the event that a registered facility will be closed and no longer providing patient care: 
 
- (a) Within 15 days of the closure, the Board must be notified in writing by the facility of the closure, including the effective date, and a plan for the disposition of any patient records, if applicable. 
+ (a) Within 15 days of the closure, the Board must be notified by the facility in writing of the closure, including the effective date, and a plan for the disposition of any patient records, if applicable. 
 
  (b) The facility must notify all clients of the closure, including the effective date, and instructions for obtaining patient records as required by (c), if applicable.    
 
@@ -206,21 +208,6 @@
  Statutes/Other Implemented:  ORS 686.130 
  
  History: 
- 
- 
- 
- 
- 
- 
- 
- VMEB 4-2026, amend filed 07/31/2026, effective 07/31/2026 
- 
- 
- 
- 
- 
-
-
  
  
  
