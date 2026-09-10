@@ -95,16 +95,6 @@
  
  
  
- 
- 
- 
- 
- 
-
- 
-
-
- 
 
 
  
@@ -113,10 +103,6 @@
  
 
  
-
- 
- 
-
  
  
  
@@ -410,14 +396,11 @@
  
  
  
- CONSTITUTION OF OREGON 
-   
  
  
  
- 
- The Oregon Constitution was framed by a convention of 60 delegates chosen by the people. The convention met on the third Monday in August 1857 and adjourned on September 18 of the same year. On November 9, 1857, the Constitution was approved by the vote of the people of Oregon Territory. The Act of Congress admitting Oregon into the Union was approved February 14, 1859, and on that date the Constitution went into effect. 
- The Constitution is here published as it is in effect following the approval of amendments and revisions on November 5, 2024. At the 2024 general election, the people adopted a new section 34 to Article IV.​ There have been no changes to the text since 2024. 
+ Th e Or egon Constitution was framed by a convention of 60 delegates chosen by the people. The convention met on the third Monday in August 1857 and adjourned on September 18 of the same year. On November 9, 1857, the Constitution was approved by the vote of the people of Oregon Territory. The Act of Congress admitting Oregon into the Union was approved February 14, 1859, and on that date the Constitution went into effect. 
+ The Constitution is here published as it is in effect following the approval of amendments and revisions on November 5, 2024. At the 2024 general election, the people adopted a new section 34 to Article IV.​ There have been no changes to the text since 2024.​ 
  The text of the original signed copy of the Constitution filed in the office of the Secretary of State is retained unless it has been repealed or superseded by amendment or revision. Where the original text has been amended or revised or where a new provision has been added to the original Constitution, the source of the amendment, revision or addition is indicated in the source note immediately following the text of the amended, revised or new section. Notations also have been made setting out the history of repealed sections. 
  Unless otherwise specifically noted, the leadlines for the sections have been supplied by Legislative Counsel. 
    
@@ -463,12 +446,11 @@
  
  PREAMBLE 
    
- We the people of the State of Oregon to the end that Justice be established, 
- order maintained, and liberty perpetuated, do ordain this Constitution.— 
+ We the people of the State of Oregon to the end that Justice be established, ​ order maintained, and liberty perpetuated, do ordain this Constitution.— 
     
   ​ 
  ARTICLE I 
- BILL OF RIGHTS 
+ ​BILL OF ​RIGHTS 
    
  
  

@@ -12,9 +12,9 @@ agency: oregon-youth-authority
 legal_authority: []
 source_url: "https://www.oregon.gov/oya/policies/III-D-3.6.pdf"
 source_format: pdf
-retrieved: "2026-07-21"
-source_sha256: "13977d5a16c0e0510a10b0169846e40a25d1c999aca83dd53e18a9dbbe36bd68"
-effective_date: "2022-08-01"
+retrieved: "2026-09-10"
+source_sha256: "1f3151490c4d9946ca7a0d6f194225e13eb80419de5c15c5448c487bc833af7e"
+effective_date: "2022-08-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new source -->
 last_reviewed: null
 source_version: "Effective 08/01/2022"
 status: current
@@ -54,7 +54,7 @@ OYA Policy III-D-3.6 — Family Planning Services - Youth. Oregon Youth Authorit
      Section – Policy Number:                   Supersedes:            Effective Date:     Date of Last
                                                                                            Review:
      D: Case Management – 3.6                III-F-3.2 (01/20) 08/01/2022
-                                                                             08/01/2024
+                                                                             08/01/2026
                                              III-F-3.2 (06/08)
                                              III-F-3.2 (01/96)
      Related           ORS 435.200-235 (Family Planning and Birth Control)
@@ -128,6 +128,6 @@ V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oya/policies/III-D-3.6.pdf> · retrieved 2026-07-21 · sha256 `13977d5a16c0e0510a10b0169846e40a25d1c999aca83dd53e18a9dbbe36bd68`
+- Source: <https://www.oregon.gov/oya/policies/III-D-3.6.pdf> · retrieved 2026-07-21 · sha256 `1f3151490c4d9946ca7a0d6f194225e13eb80419de5c15c5448c487bc833af7e`
 - Snapshot: `_meta/snapshots/oya-iii-d-3-6.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

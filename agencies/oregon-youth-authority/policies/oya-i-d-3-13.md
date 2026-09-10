@@ -12,9 +12,9 @@ agency: oregon-youth-authority
 legal_authority: []
 source_url: "https://www.oregon.gov/oya/policies/I-D-3.13.pdf"
 source_format: pdf
-retrieved: "2026-07-21"
-source_sha256: "f7c7876a2ac362c32a331b7c6b7677cc122892c6ce3e4d3908644b4a9ed9dded"
-effective_date: "2024-04-26"
+retrieved: "2026-09-10"
+source_sha256: "6182c992a6a3ce28c1e13dcee96b61f9ffebdea9110c5dfbc27eaaef1112939e"
+effective_date: "2024-04-26"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new source -->
 last_reviewed: null
 source_version: "Effective 04/26/2024"
 status: current
@@ -53,9 +53,9 @@ OYA Policy I-D-3.13 — Staff Dress Standards. Oregon Youth Authority. Effective
  Subject:
  Staff Dress Standards
  Section – Policy Number:                    Supersedes:         Effective Date:   Date of Last
-                                             I-D-3.13 (01/16)                      Revision/Review:
+                                             I-D-3.13 (01/16)                      Review:
  D: Personnel Management – 3.13              Revision (02/09)    04/26/2024
-                                                                                   None
+                                                                                   04/26/2026
                                              I-D-3.13 (04/02)
                                              I-D-3.6 (3/00)
  Related             Oregon Uniform Trial Court Rules, Chapter 3, Decorum in
@@ -211,6 +211,6 @@ V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oya/policies/I-D-3.13.pdf> · retrieved 2026-07-21 · sha256 `f7c7876a2ac362c32a331b7c6b7677cc122892c6ce3e4d3908644b4a9ed9dded`
+- Source: <https://www.oregon.gov/oya/policies/I-D-3.13.pdf> · retrieved 2026-07-21 · sha256 `6182c992a6a3ce28c1e13dcee96b61f9ffebdea9110c5dfbc27eaaef1112939e`
 - Snapshot: `_meta/snapshots/oya-i-d-3-13.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

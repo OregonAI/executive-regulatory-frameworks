@@ -73,8 +73,8 @@ sources:
   notes: USE OF NALOXONE NASAL SPRAY (DOC 10.3.3)
 - id: doc-10-4-01
   url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-4-1-directive-development.pdf
-  sha256: e3edf31031d34df8f520eeb7461f2eeb0d76217eec5de01413458e496b665608
-  last_checked: '2026-07-20'
+  sha256: 729f77c27de38882e5eca526295e2f8358d28005fed2cc207ac089c00b0e0610
+  last_checked: '2026-09-10'
   notes: Directive Development (DOC 10.4.01)
 - id: doc-10-4-2
   url: https://www.oregon.gov/doc/rules-and-policies/Documents/10-4-2-procedure-development.pdf

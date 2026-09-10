@@ -11,6 +11,34 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Source-Updated
+- 2026-09-10 — **The four remaining small groups: OYA 5, DOC 1, retention schedules 2, and the
+  Constitution** (sixth group of the re-ingest queue; only OAR is left after this, plus the Gorge
+  repeals awaiting a decision).
+
+  - **OYA (5)** — small, and measured rather than assumed: 98%+ of each body survives. Three are
+    review-date bumps (`07/25/2024`→`07/25/2026`, `08/01/2024`→`08/01/2026`,
+    `08/12/2024`→`08/12/2026`) and a `Revision/Review:` → `Review:` label change. One is real:
+    `oya-i-e-1-0` renames the responsible office from **Media Relations** to **OYA External
+    Communications**.
+  - **DOC (1)** — `doc-10-4-01`, 96.1% of body retained; its `Supersedes:` date moves
+    `11/12/20` → `8/7/24`.
+  - **Retention schedules (2)** — both new editions. `schedule-psrb` (75.2% retained) gains an
+    `05 Hearing Exhibit Files — retain 25 years after case closed` series and renumbers around it.
+    `schedule-forestry` is a substantial rewrite: **23.4% retained, 11,072 → 9,934 words**, edition
+    `2015-0014` → **`2026-0006`**.
+  - **The Constitution** — baseline refreshed, no text re-ingested, because
+    `ingest_constitution.py --drift` proves there is no text to re-ingest: **371 section numbers
+    compared, 0 changed, 0 could not be checked, 371 unchanged.** The page hash moved on text
+    outside every section this mirror slices. This is the operator's verified-refresh carve-out
+    used exactly as intended — proven per source that the live words equal the mirrored words —
+    and it touches 339 section documents because they all carry the one page hash (678 hash
+    occurrences, frontmatter and provenance line, plus their `retrieved` dates). `--drift` now
+    reports *page unchanged*, and `provenance_spelling.py --check` agrees across all 81,921
+    documents.
+
+  Manifest baselines re-seeded with the drift detector's formula; **all 8 PDF sources reproduce
+  the hash the drift run observed**. Dates carry `refresh_document`'s TODO marker (HC-1).
+
 - 2026-09-09 — **Oregon State Hospital: 6 re-ingested, 3 recovered from renamed paths, and a
   pre-existing document/source mismatch fixed** (fifth group of the re-ingest queue).
 
@@ -288,6 +316,22 @@ corpus-wide changes from 2026-08-02 forward.
   carry no occurrence at all. No repo reads the key for a live join.
 
 ### Fixed
+- 2026-09-10 — **`refresh_document` destroyed the frontmatter of any document whose
+  `conversion_notes` wraps over more than one line.** The substitution was
+  `re.sub(r'^conversion_notes: .*$', ..., flags=re.M)`, which replaces the *first line* of the
+  scalar and leaves its indented continuation lines behind as orphaned text. The result is not
+  valid YAML — the document's frontmatter stops parsing at all, which is how it was found:
+  `parse_frontmatter` raised on `schedule-forestry` immediately after re-ingesting it.
+
+  **76 documents are exposed** — every retention schedule carries a multi-line
+  `conversion_notes`, because the extractor writes a paragraph naming exactly which running
+  headers it stripped and what it deliberately left alone. Any of them re-ingested through this
+  path would have been silently corrupted; two were, in this branch, and are restored and re-run
+  through the fixed code.
+
+  The pattern now consumes the whole scalar (`(?:\n[ \t]+\S.*)*`). Frontmatter keys sit at
+  column 0, so any following indented line belongs to the scalar being replaced.
+
 - 2026-09-09 — **Every ingester's fetch went out under a browser's name.** `ingest_lib.fetch`
   is the single point the nine ingesters that reach the network go through (`ingest_oar`,
   `reingest_oar`, `ingest_eo`, `ingest_policies`, `ingest_ors`, `ingest_ors_renumbering`,

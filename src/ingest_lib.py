@@ -201,7 +201,13 @@ def refresh_document(md_path: Path, today: str) -> str:
     if ft is not None and "## Full text" in text:
         text = re.sub(r"^## Full text\s*$.*?(?=^## |\Z)",
                       f"## Full text\n\n{ft}\n\n", text, count=1, flags=re.M | re.S)
-        text = re.sub(r'^conversion_notes: .*$',
+        # CONSUME THE WHOLE SCALAR, not its first line. 76 documents -- every retention
+        # schedule -- carry a conversion_notes that YAML wraps over several indented
+        # continuation lines. Matching only `^conversion_notes: .*$` replaced the first
+        # line and left the continuations behind as orphaned text, which is not valid
+        # YAML: the document's frontmatter stopped parsing at all. Frontmatter keys sit at
+        # column 0, so any following line that is indented belongs to this scalar.
+        text = re.sub(r'^conversion_notes: .*(?:\n[ \t]+\S.*)*$',
                       f'conversion_notes: "{(conv or "").replace(chr(34), chr(39))}"',
                       text, count=1, flags=re.M)
     # dates must be re-transcribed by a human from the new source, never assumed

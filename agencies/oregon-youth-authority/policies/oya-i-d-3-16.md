@@ -12,9 +12,9 @@ agency: oregon-youth-authority
 legal_authority: []
 source_url: "https://www.oregon.gov/oya/policies/I-D-3.16.pdf"
 source_format: pdf
-retrieved: "2026-07-21"
-source_sha256: "f35c7f8ee092d52e016818a380f963b4f2ece79557a9eade9fcdf9e5550215dd"
-effective_date: "2021-02-01"
+retrieved: "2026-09-10"
+source_sha256: "b0b1562f7cfe99e7be53166892a224596559fdb36cb65afcbac7f6fe25fc1fad"
+effective_date: "2021-02-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new source -->
 last_reviewed: null
 source_version: "Effective 02/01/2021"
 status: current
@@ -54,8 +54,8 @@ OYA Policy I-D-3.16 — Volunteer Services. Oregon Youth Authority. Effective 02
  Volunteer Services
  Section – Policy Number:                  Supersedes:        Effective Date:   Date of Last
  D – Personnel Management: 3.16 I-D-3.16 (12/18) 02/01/2021
-                                                                        Revision:
-                                       I-D-3.16 (4/16)                  08/12/2024
+                                                                        Review:
+                                       I-D-3.16 (4/16)                  08/12/2026
                                        I-D-3.16 (3/12)
                                        I-D-3.16 (7/04)
                                        I-D-3.16 (6/03)
@@ -247,6 +247,6 @@ XI.     GENERAL PROCEDURE REQUIRED: YES
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oya/policies/I-D-3.16.pdf> · retrieved 2026-07-21 · sha256 `f35c7f8ee092d52e016818a380f963b4f2ece79557a9eade9fcdf9e5550215dd`
+- Source: <https://www.oregon.gov/oya/policies/I-D-3.16.pdf> · retrieved 2026-07-21 · sha256 `b0b1562f7cfe99e7be53166892a224596559fdb36cb65afcbac7f6fe25fc1fad`
 - Snapshot: `_meta/snapshots/oya-i-d-3-16.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

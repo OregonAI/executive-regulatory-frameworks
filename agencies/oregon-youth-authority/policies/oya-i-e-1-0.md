@@ -12,9 +12,9 @@ agency: oregon-youth-authority
 legal_authority: []
 source_url: "https://www.oregon.gov/oya/policies/I-E-1.0.pdf"
 source_format: pdf
-retrieved: "2026-07-21"
-source_sha256: "ad72cdaa963738fdb97e5bedb94550ee78783f0d174ba77e104653bf027dfe7a"
-effective_date: "2021-02-01"
+retrieved: "2026-09-10"
+source_sha256: "ab1a732a54f1d291db1eac33cf8fd312b2f61b8f3bed6b3d89251355b4daa5cf"
+effective_date: "2021-02-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new source -->
 last_reviewed: null
 source_version: "Effective 02/01/2021"
 status: current
@@ -66,7 +66,7 @@ OYA Policy I-E-1.0 — Director's Incident Notification and Report. Oregon Youth
  Related          Incident Notification, Report, and Review Matrix
  Standards        Attachment A: OYA Notification Tree
  and              OYA policies: I-E-3.3 (Information Security Incident Response)
- References:       I-E-3.0 (Media Relations)
+ References:       I-E-3.0 (OYA External Communications)
                    II-D-2.2(Suicide Prevention in Close Custody)
                    III-A-1.0 (Youth Incident Reports - Community)
                    III-D-3.4 (Suicide Prevention in Community Placements)
@@ -189,7 +189,7 @@ IV.        GENERAL STANDARDS:
        D.     Public Notification
 
               Director’s Office staff will determine when public notification is necessary
-              (see OYA policy I-E-3.0 Media Relations).
+              (see OYA policy I-E-3.0 OYA External Communications).
 
 V.     LOCAL OPERATING PROCEDURE REQUIRED: NO
 
@@ -243,6 +243,6 @@ Attachment A: OYA Notification Tree
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oya/policies/I-E-1.0.pdf> · retrieved 2026-07-21 · sha256 `ad72cdaa963738fdb97e5bedb94550ee78783f0d174ba77e104653bf027dfe7a`
+- Source: <https://www.oregon.gov/oya/policies/I-E-1.0.pdf> · retrieved 2026-07-21 · sha256 `ab1a732a54f1d291db1eac33cf8fd312b2f61b8f3bed6b3d89251355b4daa5cf`
 - Snapshot: `_meta/snapshots/oya-i-e-1-0.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

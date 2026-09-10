@@ -1,9 +1,7 @@
-Oregon State Archives
-Records Retention Schedule
-Edition: June 2026                                            Schedule Number: 2026-0005
-1
-
-Agency:  Psychiatric Security Review Board (PSRB)
+                             Oregon State Archives
+                           Records Retention Schedule
+Edition: August 2026                                          Schedule Number: 2026-0005
+Agency:       Psychiatric Security Review Board (PSRB)
 
 Program Description
 The Psychiatric Security Review Board (PSRB) is an independent, quasi-judicial state
@@ -31,34 +29,43 @@ determinations and to ensure due process, statutory compliance, and defensible
 decision-making.
 
 Program Records
-001  I ncomplete Sex Offender or Firearm Prohibition Relief Applications
-Retain 1 year after date received, destroy
-002 Law Enforcement Data System (LEDS) Records for Hearings
-(a) If there is no appeal, retain 90 days from the date the associated hearing
-order is signed, destroy
-(b) If appealed, retain according to OAR 166-300-0017(1)
-003 Psychiatric Security Review Board Internal Case Files
-Retain 1 year after case closed, destroy
-004 Source Files for Reporting, Reclassification, and Relief
-Retain 120 years after individual’s date of birth, destroy
+05     Hearing Exhibit Files
+       Retain 25 years after case closed, destroy
+01     Incomplete Sex Offender or Firearm Prohibition Relief Applications
+       Retain 1 year after date received, destroy
+02     Law Enforcement Data System (LEDS) Records for Hearings
+       (a) If there is no appeal, retain 90 days from the date the associated hearing
+           order is signed, destroy
+       (b) If appealed, retain according to OAR 166-300-0017(1)
+03     Psychiatric Security Review Board Internal Case Files
+       Retain 1 year after case closed, destroy
+04     Source Files for Reporting, Reclassification, and Relief
+       Retain 120 years after individual’s date of birth, destroy
 
+
+
+                                                                                          1
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0005
 State Agency General Records Retention Schedule Records
 Includes but is not limited to:
+
 Administrative Records (OAR 166-300-0015)
-
-Oregon State Archives
-Records Retention Schedule
-Edition: June 2026                                            Schedule Number: 2026-0005
-2
-
 Board and Commission Records (OAR 166-300-0017)
 Financial Records (OAR 166-300-0025)
-Information Systems Records (166-300-0030)
-Payroll Records (166-300-0035)
-Personnel Records (166-300-0040)
-Risk Management Records (166-300-0045)
+Information Systems Records (OAR 166-300-0030)
+Payroll Records (OAR 166-300-0035)
+Personnel Records (OAR 166-300-0040)
+Risk Management Records (OAR 166-300-0045)
 
 Systems of Record
-Agency shared drive
 FileCloud
+Agency shared drive
 Microsoft 365/SharePoint
+
+
+
+
+                                                                                    2
+
