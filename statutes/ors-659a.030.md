@@ -30,6 +30,7 @@ maintainer: "@morficflux"
 relationships:
   implements: []
   implemented_by:
+    - das-40-010-02
     - das-50-010-01
     - dhs-060-044
     - oar-839-005-0010

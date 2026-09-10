@@ -31,6 +31,7 @@ relationships:
   implements: []
   implemented_by:
     - das-40-010-02
+    - das-50-025-01
     - eo-19-03
     - oya-i-d-2-0
   references_external: []
