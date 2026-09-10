@@ -22,13 +22,147 @@ These carry `content_exception`: their sources are image-only scans or binary fo
 - `agencies/department-of-administrative-services/policies/das-105-050-0030.md` — Upstream serves a placeholder, not the policy: the source PDF is a 7,319-byte file (shared byte-for-byte by all nine DAS 105-* policies) whose entire text content is the single line 'BLANK DOCUMENT TO BE USED FOR STATEWIDE POLICY PAGE'. It is NOT an image-only scan and OCR cannot recover anything. DAS publishes this policy as an administrative rule instead - the operative text is oar-105-050-0030, held verbatim in this corpus and linked under relationships.related.
 - `executive-orders/ (2 documents)` — image-only scans or unusable OCR layers — metadata stubs only; resolvable only by an OCR + human-verification pass; per-order detail in `_meta/catalog/eo.yml` (`text_layer` field)
 
-## Explicit TODO markers (0)
+## Explicit TODO markers (135)
 
 Files containing `TODO: human verification required` — usually inserted by a source refresh: effective/version dates must be re-transcribed by a human from the changed source (HC-1 forbids assuming them). Resolve by editing the file and removing the marker.
 
-_(none)_
+- `agencies/department-of-administrative-services/accounting-manual/oam-40-10-00.md` — effective_date: "2026-01-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-05-00.md` — effective_date: "2007-03-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-06-00.md` — effective_date: "2007-03-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-10-00.md` — effective_date: null  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new 
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-15-00.md` — effective_date: null  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new 
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-17-00.md` — effective_date: "2001-08-15"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-20-00.md` — effective_date: "2008-02-27"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-25-00.md` — effective_date: null  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new 
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-30-00.md` — effective_date: "2007-06-29"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-35-00.md` — effective_date: null  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new 
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-37-00.md` — effective_date: "2007-06-29"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-40-00.md` — effective_date: "2008-02-27"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-42-00.md` — effective_date: "2006-03-24"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/accounting-manual/oam-45-45-00.md` — effective_date: "2005-07-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/accounting-manual/oam-75-40-01-fo.md` — effective_date: null  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new 
+- `agencies/department-of-administrative-services/policies/das-10-011-01.md` — effective_date: "2019-02-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-10-040-01.md` — effective_date: "2024-11-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-107-004-052.md` — effective_date: 2026-02-17  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from th
+- `agencies/department-of-administrative-services/policies/das-107-009-0030.md` — effective_date: "2020-12-16"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-20-005-20.md` — effective_date: "2024-01-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-40-010-02.md` — effective_date: "2025-03-21"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-40-055-04.md` — effective_date: "2025-03-21"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-40-080-01.md` — effective_date: "2025-03-21"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-50-000-01.md` — effective_date: "2024-11-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-50-000-02.md` — effective_date: "2025-01-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-50-010-04.md` — effective_date: "2025-03-21"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-50-025-01.md` — effective_date: "2025-03-21"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-50-030-01.md` — effective_date: "2025-01-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-50-035-01.md` — effective_date: "2025-03-21"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-50-070-01.md` — effective_date: "2025-03-21"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-50-090-01.md` — effective_date: "2025-01-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-60-000-01.md` — effective_date: "2023-09-03"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-60-000-03.md` — effective_date: "2024-08-19"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-60-000-04.md` — effective_date: "2024-07-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-60-000-11.md` — effective_date: "2025-03-21"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-60-000-15.md` — effective_date: "2024-07-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-60-000-25.md` — effective_date: "2024-01-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-60-010-01.md` — effective_date: "2024-01-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-60-020-05.md` — effective_date: "2025-01-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/policies/das-60-025-01.md` — effective_date: "2025-03-21"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-administrative-services/procedures/das-107-004-052_pr.md` — effective_date: "2026-02-17"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-corrections/policies/doc-10-4-01.md` — effective_date: "2024-05-07"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/department-of-forestry/schedules/schedule-forestry.md` — effective_date: null  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new 
+- `agencies/oregon-health-authority/policies/oha-osh-4-013.md` — effective_date: "2023-05-18"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/oregon-health-authority/policies/oha-osh-5-005.md` — effective_date: "2023-06-07"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/oregon-health-authority/policies/oha-osh-5-016.md` — effective_date: "2023-04-06"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/oregon-health-authority/policies/oha-osh-5-020.md` — effective_date: "2023-04-06"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/oregon-health-authority/policies/oha-osh-6-013.md` — effective_date: "2024-12-24"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/oregon-health-authority/policies/oha-osh-6-053.md` — effective_date: "2023-06-13"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/oregon-health-authority/policies/oha-osh-8-004.md` — effective_date: "2023-05-30"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/oregon-health-authority/policies/oha-osh-8-037.md` — effective_date: "2015-02-13"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/oregon-youth-authority/policies/oya-i-d-1-6.md` — effective_date: "2018-01-25"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/oregon-youth-authority/policies/oya-i-d-3-13.md` — effective_date: "2024-04-26"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/oregon-youth-authority/policies/oya-i-d-3-16.md` — effective_date: "2021-02-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/oregon-youth-authority/policies/oya-i-e-1-0.md` — effective_date: "2021-02-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/oregon-youth-authority/policies/oya-iii-d-3-6.md` — effective_date: "2022-08-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `agencies/psychiatric-security-review-board/schedules/schedule-psrb.md` — effective_date: null  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new 
+- `rules/123/001/oar-123-001-0050.md` — effective_date: "2020-02-07"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/165/016/oar-165-016-9901.md` — effective_date: "2026-03-04"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/259/059/oar-259-059-0070.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/291/078/oar-291-078-0021.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/309/073/oar-309-073-0000.md` — effective_date: "2026-03-20"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/309/073/oar-309-073-0100.md` — effective_date: "2026-03-20"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/309/073/oar-309-073-0105.md` — effective_date: "2026-03-20"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/309/073/oar-309-073-0110.md` — effective_date: "2026-03-20"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/309/073/oar-309-073-0115.md` — effective_date: "2026-03-20"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/333/004/oar-333-004-3010.md` — effective_date: "2025-01-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/333/004/oar-333-004-3020.md` — effective_date: "2024-11-26"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/333/004/oar-333-004-3030.md` — effective_date: "2024-11-26"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/333/004/oar-333-004-3050.md` — effective_date: "2024-11-26"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/333/004/oar-333-004-3070.md` — effective_date: "2025-01-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/333/004/oar-333-004-3080.md` — effective_date: "2025-01-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/333/004/oar-333-004-3090.md` — effective_date: "2024-11-26"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/333/004/oar-333-004-3100.md` — effective_date: "2025-01-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/333/004/oar-333-004-3230.md` — effective_date: "2024-11-26"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/410/151/oar-410-151-0004.md` — effective_date: "2026-06-05"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/413/015/oar-413-015-0822.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/413/140/oar-413-140-0010.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/413/140/oar-413-140-0032.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/413/203/oar-413-203-0020.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/210/oar-414-210-0100.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/210/oar-414-210-0200.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/210/oar-414-210-0260.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/210/oar-414-210-0270.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/210/oar-414-210-0720.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/210/oar-414-210-0840.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/210/oar-414-210-1030.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/210/oar-414-210-1050.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/210/oar-414-210-1500.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/210/oar-414-210-1620.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/305/oar-414-305-0100.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/305/oar-414-305-0200.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/305/oar-414-305-0260.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/305/oar-414-305-0270.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/305/oar-414-305-0720.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/305/oar-414-305-0840.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/305/oar-414-305-1050.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/305/oar-414-305-1500.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/305/oar-414-305-1620.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/320/oar-414-320-0100.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/320/oar-414-320-0200.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/320/oar-414-320-0260.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/320/oar-414-320-0270.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/320/oar-414-320-0720.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/320/oar-414-320-0840.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/320/oar-414-320-1020.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/320/oar-414-320-1030.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/320/oar-414-320-1050.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/320/oar-414-320-1620.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/360/oar-414-360-0100.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/360/oar-414-360-0200.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/360/oar-414-360-0260.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/360/oar-414-360-0270.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/360/oar-414-360-0400.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/360/oar-414-360-0720.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/360/oar-414-360-0840.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/360/oar-414-360-1030.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/360/oar-414-360-1050.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/360/oar-414-360-1500.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/360/oar-414-360-1620.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/580/oar-414-580-0000.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/580/oar-414-580-0005.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/580/oar-414-580-0010.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/414/580/oar-414-580-0030.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/635/019/oar-635-019-0500.md` — effective_date: "2026-06-16"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/660/046/oar-660-046-0226.md` — effective_date: "2026-05-18"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/813/022/oar-813-022-0045.md` — effective_date: "2026-02-03"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/851/031/oar-851-031-0008.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/851/031/oar-851-031-0039.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/851/031/oar-851-031-0041.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/851/031/oar-851-031-0042.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/851/031/oar-851-031-0043.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/851/031/oar-851-031-0048.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/851/031/oar-851-031-0051.md` — effective_date: "2026-09-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
+- `rules/856/016/oar-856-016-0020.md` — effective_date: "2026-05-07"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
 
-## Pending drafts — not current policy (13)
+## Pending drafts — not current policy (9)
 
 Documents whose own source (or the listing of record) marks them draft/proposed. No action needed until the upstream finalizes them (`/check-updates` will notice); review only if you need to know what's coming.
 
@@ -36,10 +170,6 @@ Documents whose own source (or the listing of record) marks them draft/proposed.
 - `agencies/department-of-administrative-services/accounting-manual/oam-15-92-00.md` — status: proposed — Effective date as printed: 07/01/2019
 - `agencies/department-of-administrative-services/accounting-manual/oam-15-95-00.md` — status: draft — Effective date as printed: MM/DD/YYYY
 - `agencies/department-of-administrative-services/accounting-manual/oam-15-97-00.md` — status: proposed — Effective date as printed: July 1, 2012
-- `agencies/department-of-administrative-services/accounting-manual/oam-45-10-00.md` — status: draft — Effective date as printed: MM/DD/YYYY
-- `agencies/department-of-administrative-services/accounting-manual/oam-45-15-00.md` — status: draft — Effective date as printed: MM/DD/YYYY
-- `agencies/department-of-administrative-services/accounting-manual/oam-45-25-00.md` — status: draft — Effective date as printed: MM/DD/YYYY
-- `agencies/department-of-administrative-services/accounting-manual/oam-45-35-00.md` — status: draft — Effective date as printed: XX/XX/XXXX
 - `agencies/department-of-administrative-services/accounting-manual/oam-50-10-00.md` — status: draft — Effective date as printed: TBD
 - `agencies/department-of-administrative-services/accounting-manual/oam-50-30-00.md` — status: draft — Effective date as printed: TBD
 - `agencies/department-of-administrative-services/accounting-manual/oam-50-50-00.md` — status: draft — Effective date as printed: TBD
@@ -174,6 +304,7 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/oregon-health-authority/policies/oha-osh-5-005.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-5-014.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-5-015.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-health-authority/policies/oha-osh-5-016.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-5-017.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-5-024.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-6-001.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -185,7 +316,6 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/oregon-health-authority/policies/oha-osh-6-046.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-6-049.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-6-052.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `agencies/oregon-health-authority/policies/oha-osh-6-053.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-6-054.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-6-056.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-6-060.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -197,6 +327,7 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/oregon-health-authority/policies/oha-osh-6-071.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-7-001.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-7-017.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
+- `agencies/oregon-health-authority/policies/oha-osh-8-004.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-8-015.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-8-016.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `agencies/oregon-health-authority/policies/oha-osh-8-022.md` — policy has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
@@ -280,7 +411,6 @@ The document prints a different date than its listing of record (known site typo
 - `rules/345/020/oar-345-020-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/350/ (144 rules)` — correct non-links — 144 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/350/011/oar-350-011-0005.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/350/011/oar-350-011-0010.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/350/013/oar-350-013-0001.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/407/ (14 rules)` — correct non-links — 14 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/409/ (27 rules)` — correct non-links — 27 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
