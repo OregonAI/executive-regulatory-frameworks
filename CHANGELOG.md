@@ -255,6 +255,34 @@ corpus-wide changes from 2026-08-02 forward.
   (HC-1) and reach `review_queue.py`.
 
 ### Verified
+- 2026-09-10 — **The Columbia River Gorge Commission chapter-350 rules: 44 rows, not 21, and
+  re-ingesting 41 of them would destroy mirrored text.** Measured by fetching every chapter-350
+  row in `DRIFT.md` and slicing it with `repo_lib.snapshot_slice`. No document was changed for
+  the 41; the 3 live rules are re-ingested in the entry above.
+
+  - **41 are already `status: repealed` in this corpus.** The legal status was recorded when the
+    Bulletin filed it; nothing about that decision is outstanding. What changed is the *page*:
+    OARD now serves only the History block — `CRGC 1-2026, repeal filed 07/22/2026, effective
+    09/01/2026`, plus prior filings — and no rule text at all.
+  - **Re-ingesting them would replace rule text with filing history.** `oar-350-012-0008` holds
+    **1,735 words** of mirrored rule text; the page now yields **53**. `oar-350-016-0004`: 1,446 →
+    112. `oar-350-016-0009`: 1,256 → 109. Across the 41 the pages yield 33–112 words, all of it
+    history. Under this corpus's reproduction policy — mirror the full text, because a summary
+    makes a corpus worthless — a re-ingest here is not an update. It is the deletion of the only
+    readily accessible copy of what these rules said, performed under provenance.
+  - **3 of the 44 are not repeals at all**: `oar-350-011-0010` (36 → 360 words),
+    `oar-350-016-0010` (171 → 681), `oar-350-016-0020` (212 → 657), all `status: current` and all
+    substantially expanded — the Gorge Commission's replacement rules on delegating rulemaking
+    authority and on what counts as a rule. Those are ordinary re-ingests and are done.
+
+  **Recommendation, for the maintainer to rule on:** do not re-ingest the 41. Their text is the
+  last text in force and their status is already correct. That leaves them reporting as drift on
+  every run, which is *true* — upstream no longer serves what this corpus holds — and the
+  verified-refresh carve-out does not apply, because the live words demonstrably do not equal the
+  mirrored words. The real question is what a drift report should do with a source whose upstream
+  has stopped publishing it, which is the same question the 8 superseded OAM `-po`/`-pr` entries
+  raise. One rule should answer both.
+
 - 2026-09-09 — **`oha-osh-6-006` must NOT be removed; `oha-osh-6-001` is the only OSH document
   the evidence supports removing.** Both were on the withdrawn-19 list, both 404, both with no
   policy folder in the live SharePoint library. They are not the same case:
