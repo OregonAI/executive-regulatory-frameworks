@@ -97,15 +97,15 @@
 
  (3) Starting January 1, 2028, all renewal applicants must complete the required CE hours for their license type before submitting their renewal application: 
 
- (a) LPN or RN applicants, 20 hours within two years; 
+ (a) LPN or RN applicants, 20 hours within the prior two years; 
 
- (b) Nurse emeritus applicants, 10 hours within two years; or 
+ (b) Nurse emeritus applicants, 10 hours within the prior two years; or 
 
- (c)  All Oregon NP and CRNA applicants must provide primary source evidence of national certification. 
+ (c)  All Oregon Nurse Practioner (NP) and Certified Registered Nurse Anesthetist (CRNA) applicants must provide primary source evidence of national certification. 
 
- (d) Clinical Nurse Specialist’s without current national certification, must complete 75 hours within five years. 
+ (d) A  Clinical Nurse Specialist (CNS) applicant without current national certification, must complete 75 hours within the prior five years. 
 
- (4) All reinstatement or disciplinary reinstatement applicants must complete the following amount of CE: 
+ (4) All reinstatement or disciplinary reinstatement applicants must complete within the prior two years the following amount of CE: 
 
  (a) If the license has expired for more than 90 days but no more than two years, 20 hours; 
 
@@ -119,9 +119,7 @@
 
  (5) The CE listed in sections (1) and (2) of this rule may be counted toward the applicant’s required number of CE hours under section (3) or (4) of this rule. 
 
- (6) An LPN or RN renewal applicant may satisfy the requirement in subsection (4) of this rule by providing proof of passing the NCLEX® at the level of licensure sought within two years prior to submission of the renewal application form. 
-
- (7) Unless otherwise indicated in this rule, all CE must be in nursing topics relevant to the applicant’s level of licensure. 
+ (6) Unless otherwise indicated in this rule, all CE must be in nursing topics relevant to the applicant’s area of practice and license type. 
 
  
  
@@ -140,8 +138,8 @@
  
  
  
- 
  BN 4-2026, amend filed 08/21/2026, effective 09/01/2026 
+ 
  
  
  

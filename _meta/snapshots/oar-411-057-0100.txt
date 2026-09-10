@@ -76,6 +76,8 @@
  
  
  
+   Temporary rule language in effect until 12/27/2026. 
+ 
  
  
  
@@ -92,7 +94,7 @@
  Statement of Purpose
  
  
- The purpose of the rules in OAR chapter 411, division 057 is to establish standards for the endorsement of memory care communities. Memory care communities provide specialized services in a secured environment for individuals with dementia. These rules are designed to ensure that residents living in memory care communities have positive quality of life, consumer protection, and person directed care. Resident’s rights, dignity, choice, comfort, and independence are promoted in this setting. The endorsement does not constitute a recommendation of any endorsed memory care community by the Department of Human Services, Aging and People with Disabilities Program. 
+ The purpose of the rules in OAR chapter 411, division 057 is to establish standards for the endorsement of memory care communities. Memory care communities provide specialized services in a secured environment for individuals with dementia. These rules are designed to ensure that residents living in memory care communities have positive quality of life, consumer protection, and person directed care. Resident’s rights, dignity, choice, comfort, and independence are promoted in this setting. The endorsement does not constitute a recommendation of any endorsed memory care community by the Oregon Department of Human Services, Aging and People with Disabilities Program. 
 
  
  
@@ -111,8 +113,23 @@
  
  
  
+ APD 22-2026, temporary amend filed 08/04/2026, effective 08/11/2026 through 12/27/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
  
  APD 18-2026, temporary suspends temporary APD 13-2026, filed 07/01/2026, effective 07/01/2026 through 12/27/2026 
+ 
  
  
  

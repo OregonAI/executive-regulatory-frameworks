@@ -76,8 +76,6 @@
  
  
  
-   Temporary rule language in effect until 09/15/2026. 
- 
  
  
  
@@ -89,13 +87,13 @@
  
  
  
- Division 73 BEHAVIORAL HEALTH CRISIS RECEIVING AND STABILIZATION CENTERS 
+ Division 73 CRISIS STABILIZATION CENTERS 
  309-073-0000 
  Purpose and Scope 
  
  (1) The purposes of 309-073-000 through 309-073-0195 are to build upon and improve the statewide coordinated crisis system and to: 
 
- (a) Remove barriers to accessing quality behavioral health crisis services. 
+ (a) Remove barriers to accessing quality crisis stabilization center services. 
 
  (b) Improve equity in behavioral health treatment and ensure culturally, linguistically, and developmentally appropriate responses to individuals experiencing behavioral health crises, in recognition that, historically, crisis response services place marginalized communities at disproportionate risk of poor outcomes and criminal justice involvement. 
 
@@ -115,6 +113,21 @@
  Statutes/Other Implemented:  183.310 - 183.750, 426.500, 428.205-428.270, 430.010, 430.021, 430.205 - 430.210, 430.254, 430.335, 430.620, 430.626 - 430.630, 430.637 & 414.665 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BHS 24-2026, adopt filed 09/04/2026, effective 09/04/2026 
+ 
+ 
+ 
+ 
+
+
  
  
  

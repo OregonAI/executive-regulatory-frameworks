@@ -76,8 +76,6 @@
  
  
  
-   Temporary rule language in effect until 11/21/2026. 
- 
  
  
  
@@ -91,65 +89,56 @@
  
  Division 82 ASSESSMENT, ASSIGNMENT, AND SUPERVISION OF ADULTS IN CUSTODY FOR WORK ASSIGNMENTS AND UNFENCED MINIMUM HOUSING 
  291-082-0110 
- Work Housing Assignment Level Evaluation (WHALE) Eligibility
+ Work Housing Assignment Level Evaluation Eligibility
  
  
- (1) Inside Work Assignment: All inmates at custody classification Level 1 or 2 are minimally eligible for an inside work assignment. 
+ (1) Inside Work Assignment: All adults in custody at custody classification Level 1 or 2 are minimally eligible for an inside work assignment. 
 
- (2) On-Site Work Assignment: An inmate must meet the following criteria to be considered for an on-site work assignment: 
+ (2) On-Site Work Assignment: An adult in custody must meet the following criteria to be considered for an on-site work assignment: 
 
- (a) Meets criteria for an inside work assignment on the WHALE. 
+ (a) Meets Work Housing Assignment Level Evaluation criteria for an inside work assignment on ; 
 
- (b) Has served more than 90 days in DOC custody. 
+ (b) Has served more than 90 days in Department of Corrections custody ; 
 
- (c) Has no predatory sex offender designation in Oregon or any other state, and if a sex offender, score 5 or below on the Static 99R or is not classified as a Level III sex offender under OAR 255-085-0020, Sex Offender Risk Assessment Methodology. The Static 99R and definitions are attached and available under OAR 291-062-0130 exhibits.  
+ (c) Has no predatory sex offender designation in Oregon or any other state, and if a sex offender, score 5 or below on the Static 99R (see Static 99R and Definitions available under OAR 291-062-0130, Attachment B) or is not classified as a Level III sex offender under OAR 255-085-0020 Sex Offender Risk Assessment Methodology ; 
 
- (d) Has not been sentenced under the sexually violent dangerous offender law. 
+ (d) Has not been sentenced under the sexually violent dangerous offender law ; and 
 
  (e) Is approved by the functional unit manager or designee. 
 
- (3) Community Work Assignment: An inmate must meet the following criteria to be considered for a community work assignment: 
+ (3) Community Work Assignment: An adult in custody must meet the following criteria to be considered for a community work assignment: 
 
- (a) Served more than 90 days in DOC custody. 
+ (a) Has served more than 90 days in Department of Corrections custody ; 
 
- (b) No active designator for conviction for Arson I or Attempted Arson I. 
+ (b) Has no active designator for conviction for Arson I or Attempted Arson I ; 
 
- (c) No active designator for conviction for a sex offense or a crime with a sexual element. 
+ (c) Has no active designator for conviction for a sex offense or a crime with a sexual element : 
 
- (d) No active protection/restraining order(s). 
+ (d) Has no active protection order or restraining order ; 
 
- (e) No conviction for a Stalking offense. 
+ (e) Has no Stalking Conviction ; 
 
- (f) No active court Stalking Order. 
+ (f) Has no active Stalking Order ; 
 
- (g) Not found in violation of Sexual Assault or Sexual Coercion as described in OAR 291-105-0015, Rules of Misconduct. 
+ (g) Has not been found in violation of Sexual Assault or Sexual Coercion as described in OAR 291-105-0015 Rules of Misconduct ; 
 
- (h) Minimal escape risk as defined in the Custody Classification Guide and the rule on Classification (Inmate) (OAR 291-104). 
+ (h) Is a minimal escape risk as defined in the Custody Classification Guide (OAR 291-104-0111 , Attachment 1 ) and the department’s rules on Classification ( Adult in Custody ) (OAR 291-104 ); 
 
- (i) No felony detainer(s) that are untried or expire after the inmate’s projected release date. 
+ (i) Has no felony detainer(s) that are untried or expire after the adult in custody’s projected release date ; and 
 
- (j) No multiple misdemeanor detainers that expire after the inmate’s projected release date. 
+ (j) Has no active designators that make a community assignment inappropriate . 
 
- (k) No active designators on file disqualifying community assignment. 
+ (4) Unfenced Housing: An adult in custody must meet the following criteria to be considered for an unfenced housing assignment: 
 
- (4) Unfenced Housing: An inmate must meet the following criteria to be considered for an unfenced housing assignment: 
-
- (a) Custody Classification Level 1. 
+ (a) Is Custody Classification Level 1. 
 
  (b) Meets all community work assignment criteria listed in subsection (3) above. 
 
- (c) No active designator for conviction for Arson II, Attempted Arson II, or other related arson crimes, including attempts. 
+ (c) Has no active designator for conviction for Arson II, Attempted Arson II, or other related arson crimes, including attempts. 
 
- (d) No current active escape designator, or any active ESMO or ESSV designators, as defined in the Custody Classification Guide (OAR 291-104-0116). 
-
-   
+ (d) Has no current active escape designator or any active moderate escape risk ( ESMO ) or severe escape risk ( ESSV ) designators, as defined in the Custody Classification Guide (OAR 291-104-0111 , Attachment 1 ). 
 
  
- 
- 
- 
- 
- [ED. NOTE: To view attachments referenced in rule text, click here for PDF copy.] 
  
  
  
@@ -159,6 +148,21 @@
  Statutes/Other Implemented:  ORS 179.040, 421.425, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 23-2026, amend filed 07/29/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  

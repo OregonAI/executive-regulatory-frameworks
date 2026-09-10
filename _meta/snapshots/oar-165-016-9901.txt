@@ -28,8 +28,8 @@
  
  
  
-
-
+ 
+ 
  Skip to main content. 
  
  
@@ -54,102 +54,477 @@
 
 
  
+ Oregon Administrative Rules 
+ Current Rules Search 
  
- 
-
- 
- OARD Home 
- Search Current Rules 
- Search Filings 
- Access the Oregon Bulletin 
- Access the Annual Compilation 
- FAQ 
- 
- Rules Coordinator / Rules Writer Login 
  
  
  
 
- 
- 
+ For full functionality of this site, it is necessary to enable JavaScript. Here are the instructions on how to enable JavaScript in your web browser. 
 
  
  
  
-   Temporary rule language in effect until 08/30/2026. 
  
  
  
  
  
  
- Secretary of State 
- Elections Division - Chapter 165 
+ 
+ Browse By Chapter 
  
  
  
  
- Division 16 VOTERS’ PAMPHLET 
- 165-016-9901 
- Filing Process and Deadlines for Measure 120 Arguments and Statements 
+ Select a chapter... 
+ 101 - Oregon Health Authority, Public Employees' Benefit Board 
+ 104 - Oregon Department of Emergency Management 
+ 105 - Department of Administrative Services, Chief Human Resources Office 
+ 111 - Oregon Health Authority, Oregon Educators Benefit Board 
+ 114 - Long Term Care Ombudsman 
+ 115 - Employment Relations Board 
+ 122 - Department of Administrative Services, Chief Financial Office 
+ 123 - Oregon Business Development Department 
+ 124 - Eastern Oregon Border Economic Development Board 
+ 125 - Department of Administrative Services 
+ 128 - Department of Administrative Services, Office of the State Chief Information Officer 
+ 137 - Department of Justice 
+ 141 - Department of State Lands 
+ 142 - Department of State Lands, South Slough National Estuarine Research Reserve 
+ 150 - Department of Revenue 
+ 156 - Legislative Administration Committee 
+ 160 - Secretary of State, Corporation Division 
+ 161 - Appraiser Certification and Licensure Board 
+ 162 - Secretary of State, Audits Division 
+ 165 - Secretary of State, Elections Division 
+ 166 - Secretary of State, Archives Division 
+ 167 - Secretary of State, Business Services Division 
+ 170 - Oregon State Treasury 
+ 171 - Oregon Investment Council 
+ 172 - Oregon Facilities Authority 
+ 173 - Oregon 529 Savings Board 
+ 177 - Oregon State Lottery 
+ 180 - Office of the Public Records Advocate 
+ 198 - Judicial Department 
+ 199 - Oregon Government Ethics Commission 
+ 213 - Oregon Criminal Justice Commission 
+ 230 - Department of State Police, Oregon State Athletic Commission 
+ 250 - Oregon State Marine Board 
+ 255 - Board of Parole and Post-Prison Supervision 
+ 257 - Department of State Police 
+ 259 - Department of Public Safety Standards and Training 
+ 265 - Commission on Statewide Law Enforcement Standards of Conduct and Discipline 
+ 274 - Department of Veterans' Affairs 
+ 291 - Department of Corrections 
+ 309 - Oregon Health Authority, Health Systems Division: Behavioral Health Services 
+ 325 - Oregon Patient Safety Commission 
+ 330 - Department of Energy 
+ 331 - Oregon Health Authority, Health Licensing Office 
+ 332 - Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery 
+ 333 - Oregon Health Authority, Public Health Division 
+ 334 - Board of Massage Therapists 
+ 335 - Board of Examiners for Speech-Language Pathology and Audiology 
+ 337 - Board of Medical Imaging 
+ 338 - Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board 
+ 339 - Occupational Therapy Licensing Board 
+ 340 - Department of Environmental Quality 
+ 345 - Department of Energy, Energy Facility Siting Council 
+ 350 - Columbia River Gorge Commission 
+ 404 - Oregon Public Defense Commission 
+ 407 - Department of Human Services 
+ 409 - Oregon Health Authority, Health Policy and Analytics 
+ 410 - Oregon Health Authority, Health Systems Division: Medical Assistance Programs 
+ 411 - Department of Human Services, Aging and People with Disabilities and Developmental Disabilities 
+ 413 - Department of Human Services, Child Welfare Programs 
+ 414 - Department of Early Learning and Care 
+ 415 - Oregon Health Authority, Health Systems Division: Addiction Services 
+ 416 - Oregon Youth Authority 
+ 418 - Department of Human Services, Home Care Commission 
+ 419 - Department of Human Services, Office of Training, Investigations and Safety 
+ 423 - Oregon Department of Education, Youth Development Division 
+ 431 - Oregon Health Authority, Oregon Prescription Drug Program 
+ 436 - Department of Consumer and Business Services, Workers' Compensation Division 
+ 437 - Department of Consumer and Business Services, Oregon Occupational Safety and Health Division 
+ 438 - Department of Consumer and Business Services, Workers' Compensation Board 
+ 440 - Department of Consumer and Business Services, Director's Office 
+ 441 - Department of Consumer and Business Services, Finance and Securities Regulation 
+ 459 - Oregon Public Employees Retirement System 
+ 461 - Department of Human Services, Self-Sufficiency Programs 
+ 462 - Oregon Racing Commission 
+ 471 - Employment Department 
+ 543 - State Library 
+ 573 - Southern Oregon University 
+ 575 - Higher Education Coordinating Commission, Office of Student Access and Completion 
+ 581 - Oregon Department of Education 
+ 582 - Department of Human Services, Vocational Rehabilitation Services 
+ 583 - Higher Education Coordinating Commission, Office of Degree Authorization 
+ 584 - Teacher Standards and Practices Commission 
+ 585 - Commission for the Blind 
+ 586 - Oregon Department of Education, Fair Dismissal Appeals Board 
+ 589 - Higher Education Coordinating Commission, Office of Community Colleges and Workforce Development 
+ 603 - Department of Agriculture 
+ 604 - Department of Agriculture, Oregon Fine Fescue Commission 
+ 605 - Department of Agriculture, Oregon Beef Council 
+ 607 - Department of Agriculture, Oregon Tall Fescue Commission 
+ 609 - Department of Agriculture, Oregon Invasive Species Council 
+ 611 - Department of Agriculture, Oregon Raspberry and Blackberry Commission 
+ 617 - Department of Agriculture, Oregon Dairy Products Commission 
+ 619 - Oregon Wine Board 
+ 623 - Department of Agriculture, Oregon Hazelnut Commission 
+ 628 - Oregon Forest Resources Institute 
+ 629 - Department of Forestry 
+ 632 - Department of Geology and Mineral Industries 
+ 635 - Department of Fish and Wildlife 
+ 642 - Department of Agriculture, Oregon Mint Commission 
+ 643 - Department of Agriculture, Oregon Hop Commission 
+ 644 - Department of Agriculture, Oregon Sheep Commission 
+ 645 - Department of Agriculture, Oregon Dungeness Crab Commission 
+ 646 - Department of Agriculture, Oregon Salmon Commission 
+ 647 - Department of Agriculture, Oregon Processed Vegetable Commission 
+ 648 - Department of Agriculture, Oregon Hemp Commission 
+ 656 - Department of Agriculture, Oregon Trawl Commission 
+ 657 - Department of Agriculture, Oregon Ryegrass Growers Seed Commission 
+ 658 - Department of Agriculture, Oregon Potato Commission 
+ 660 - Land Conservation and Development Department 
+ 661 - Land Use Board of Appeals 
+ 664 - Department of Agriculture, Oregon Clover Seed Commission 
+ 668 - Department of Agriculture, Oregon Strawberry Commission 
+ 669 - Department of Agriculture, Oregon Sweet Cherry Commission 
+ 670 - Department of Agriculture, Oregon Blueberry Commission 
+ 678 - Department of Agriculture, Oregon Wheat Commission 
+ 690 - Water Resources Department 
+ 695 - Oregon Watershed Enhancement Board 
+ 698 - Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program 
+ 699 - Oregon Watershed Enhancement Board, Oregon Watershed Enhancement Board, Environmental Restoration Council 
+ 705 - Chief Education Office 
+ 710 - Citizens' Initiative Review Commission 
+ 715 - Higher Education Coordinating Commission 
+ 731 - Department of Transportation 
+ 732 - Department of Transportation, Public Transportation Division 
+ 733 - Travel Information Council 
+ 734 - Department of Transportation, Delivery and Operations Division 
+ 735 - Department of Transportation, Driver and Motor Vehicle Services Division 
+ 736 - Parks and Recreation Department 
+ 737 - Department of Transportation, Transportation Safety Office 
+ 738 - Oregon Department of Aviation 
+ 740 - Department of Transportation, Commerce and Compliance Division 
+ 741 - Department of Transportation, Rail Division 
+ 750 - State Board of Towing 
+ 800 - State Board of Tax Practitioners 
+ 801 - Oregon Board of Accountancy 
+ 804 - Landscape Architect Board 
+ 806 - State Board of Architect Examiners 
+ 808 - Landscape Contractors Board 
+ 809 - Board of Geologist Examiners 
+ 811 - Board of Chiropractic Examiners 
+ 812 - Construction Contractors Board 
+ 813 - Oregon Housing and Community Services Department 
+ 816 - Oregon Health Authority, Health Licensing Office, State Board of Sign Language Interpreters 
+ 817 - Oregon Health Authority, Health Licensing Office, Board of Cosmetology 
+ 818 - Oregon Board of Dentistry 
+ 819 - Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians 
+ 820 - Board of Examiners for Engineering and Land Surveying 
+ 824 - Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board 
+ 830 - Mortuary and Cemetery Board 
+ 831 - Mental Health Regulatory Agency 
+ 833 - Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists 
+ 834 - Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians 
+ 836 - Department of Consumer and Business Services, Insurance Regulation 
+ 837 - Department of the State Fire Marshal 
+ 839 - Bureau of Labor and Industries 
+ 845 - Oregon Liquor and Cannabis Commission 
+ 847 - Oregon Medical Board 
+ 848 - Oregon Board of Physical Therapy 
+ 850 - Oregon Board of Naturopathic Medicine 
+ 851 - Board of Nursing 
+ 852 - Board of Optometry 
+ 853 - Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board 
+ 855 - Board of Pharmacy 
+ 856 - Public Utility Commission, Oregon Board of Maritime Pilots 
+ 858 - Mental Health Regulatory Agency, Oregon Board of Psychology 
+ 859 - Psychiatric Security Review Board 
+ 860 - Public Utility Commission 
+ 863 - Real Estate Agency 
+ 875 - Veterinary Medical Examining Board 
+ 877 - Board of Licensed Social Workers 
+ 918 - Department of Consumer and Business Services, Building Codes Division 
+ 925 - Department of Consumer and Business Services, Prescription Drug Affordability Board 
+ 943 - Oregon Health Authority 
+ 944 - Oregon Health Authority, Drug Treatment and Recovery Services 
+ 945 - Oregon Health Authority, Health Insurance Marketplace 
+ 950 - Oregon Health Authority, Equity and Inclusion Division 
+ 951 - Oregon Film and Video Office 
+ 952 - Oregon Utility Notification Center 
+ 966 - Economic Recovery Review Council 
+ 972 - Department of Agriculture, Oregon Albacore Commission 
+ 976 - Oregon Tourism Commission 
+
+
  
- (1) Unless otherwise specified in Senate Bill 1599 (SB 1599) (2026), the Secretary of State designates the State Voters’ Pamphlet Manual, revised 1/2026 and associated forms as the procedures and forms to be used to submit arguments for and against Measure 120, filer submitted translations allowed by statute, explanatory statements, financial estimates and statements, and statements prepared by the Legislative Counsel Committee under ORS 251.225. The State Voters’ Pamphlet Manual is adopted by OAR 165-016-0000. 
 
- (2)(a) To obtain and maintain uniformity in the application and operation of the State Voters’ Pamphlet filing, production, and translation process, the Secretary of State establishes March 12, 2026, at 5:00:00 p.m. as the deadline for filing arguments and statements outlined in section 1 of this administrative rule. 
+ 
+ Order by: 
+Chapter Number  
+Chapter Name
+ 
+ 
+ 
+ Quick Search By Rule Number 
+ 
+ 
+ 
+ 
+ Rule with number 165-016-9901 not found. 
+ 
+ 
+ Rule Number 
+ 
+    
+ 
+ 
+ 
+ 
+ Rule Text Search 
+ 
+ 
+ 
+ 
+ 
+ Filter By Chapter 
+ 
+ 
+ Select a Chapter... 
+ 101 - Oregon Health Authority, Public Employees' Benefit Board 
+ 104 - Oregon Department of Emergency Management 
+ 105 - Department of Administrative Services, Chief Human Resources Office 
+ 111 - Oregon Health Authority, Oregon Educators Benefit Board 
+ 114 - Long Term Care Ombudsman 
+ 115 - Employment Relations Board 
+ 122 - Department of Administrative Services, Chief Financial Office 
+ 123 - Oregon Business Development Department 
+ 124 - Eastern Oregon Border Economic Development Board 
+ 125 - Department of Administrative Services 
+ 128 - Department of Administrative Services, Office of the State Chief Information Officer 
+ 137 - Department of Justice 
+ 141 - Department of State Lands 
+ 142 - Department of State Lands, South Slough National Estuarine Research Reserve 
+ 150 - Department of Revenue 
+ 156 - Legislative Administration Committee 
+ 160 - Secretary of State, Corporation Division 
+ 161 - Appraiser Certification and Licensure Board 
+ 162 - Secretary of State, Audits Division 
+ 165 - Secretary of State, Elections Division 
+ 166 - Secretary of State, Archives Division 
+ 167 - Secretary of State, Business Services Division 
+ 170 - Oregon State Treasury 
+ 171 - Oregon Investment Council 
+ 172 - Oregon Facilities Authority 
+ 173 - Oregon 529 Savings Board 
+ 177 - Oregon State Lottery 
+ 180 - Office of the Public Records Advocate 
+ 198 - Judicial Department 
+ 199 - Oregon Government Ethics Commission 
+ 213 - Oregon Criminal Justice Commission 
+ 230 - Department of State Police, Oregon State Athletic Commission 
+ 250 - Oregon State Marine Board 
+ 255 - Board of Parole and Post-Prison Supervision 
+ 257 - Department of State Police 
+ 259 - Department of Public Safety Standards and Training 
+ 265 - Commission on Statewide Law Enforcement Standards of Conduct and Discipline 
+ 274 - Department of Veterans' Affairs 
+ 291 - Department of Corrections 
+ 309 - Oregon Health Authority, Health Systems Division: Behavioral Health Services 
+ 325 - Oregon Patient Safety Commission 
+ 330 - Department of Energy 
+ 331 - Oregon Health Authority, Health Licensing Office 
+ 332 - Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery 
+ 333 - Oregon Health Authority, Public Health Division 
+ 334 - Board of Massage Therapists 
+ 335 - Board of Examiners for Speech-Language Pathology and Audiology 
+ 337 - Board of Medical Imaging 
+ 338 - Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board 
+ 339 - Occupational Therapy Licensing Board 
+ 340 - Department of Environmental Quality 
+ 345 - Department of Energy, Energy Facility Siting Council 
+ 350 - Columbia River Gorge Commission 
+ 404 - Oregon Public Defense Commission 
+ 407 - Department of Human Services 
+ 409 - Oregon Health Authority, Health Policy and Analytics 
+ 410 - Oregon Health Authority, Health Systems Division: Medical Assistance Programs 
+ 411 - Department of Human Services, Aging and People with Disabilities and Developmental Disabilities 
+ 413 - Department of Human Services, Child Welfare Programs 
+ 414 - Department of Early Learning and Care 
+ 415 - Oregon Health Authority, Health Systems Division: Addiction Services 
+ 416 - Oregon Youth Authority 
+ 418 - Department of Human Services, Home Care Commission 
+ 419 - Department of Human Services, Office of Training, Investigations and Safety 
+ 423 - Oregon Department of Education, Youth Development Division 
+ 431 - Oregon Health Authority, Oregon Prescription Drug Program 
+ 436 - Department of Consumer and Business Services, Workers' Compensation Division 
+ 437 - Department of Consumer and Business Services, Oregon Occupational Safety and Health Division 
+ 438 - Department of Consumer and Business Services, Workers' Compensation Board 
+ 440 - Department of Consumer and Business Services, Director's Office 
+ 441 - Department of Consumer and Business Services, Finance and Securities Regulation 
+ 459 - Oregon Public Employees Retirement System 
+ 461 - Department of Human Services, Self-Sufficiency Programs 
+ 462 - Oregon Racing Commission 
+ 471 - Employment Department 
+ 543 - State Library 
+ 573 - Southern Oregon University 
+ 575 - Higher Education Coordinating Commission, Office of Student Access and Completion 
+ 581 - Oregon Department of Education 
+ 582 - Department of Human Services, Vocational Rehabilitation Services 
+ 583 - Higher Education Coordinating Commission, Office of Degree Authorization 
+ 584 - Teacher Standards and Practices Commission 
+ 585 - Commission for the Blind 
+ 586 - Oregon Department of Education, Fair Dismissal Appeals Board 
+ 589 - Higher Education Coordinating Commission, Office of Community Colleges and Workforce Development 
+ 603 - Department of Agriculture 
+ 604 - Department of Agriculture, Oregon Fine Fescue Commission 
+ 605 - Department of Agriculture, Oregon Beef Council 
+ 607 - Department of Agriculture, Oregon Tall Fescue Commission 
+ 609 - Department of Agriculture, Oregon Invasive Species Council 
+ 611 - Department of Agriculture, Oregon Raspberry and Blackberry Commission 
+ 617 - Department of Agriculture, Oregon Dairy Products Commission 
+ 619 - Oregon Wine Board 
+ 623 - Department of Agriculture, Oregon Hazelnut Commission 
+ 628 - Oregon Forest Resources Institute 
+ 629 - Department of Forestry 
+ 632 - Department of Geology and Mineral Industries 
+ 635 - Department of Fish and Wildlife 
+ 642 - Department of Agriculture, Oregon Mint Commission 
+ 643 - Department of Agriculture, Oregon Hop Commission 
+ 644 - Department of Agriculture, Oregon Sheep Commission 
+ 645 - Department of Agriculture, Oregon Dungeness Crab Commission 
+ 646 - Department of Agriculture, Oregon Salmon Commission 
+ 647 - Department of Agriculture, Oregon Processed Vegetable Commission 
+ 648 - Department of Agriculture, Oregon Hemp Commission 
+ 656 - Department of Agriculture, Oregon Trawl Commission 
+ 657 - Department of Agriculture, Oregon Ryegrass Growers Seed Commission 
+ 658 - Department of Agriculture, Oregon Potato Commission 
+ 660 - Land Conservation and Development Department 
+ 661 - Land Use Board of Appeals 
+ 664 - Department of Agriculture, Oregon Clover Seed Commission 
+ 668 - Department of Agriculture, Oregon Strawberry Commission 
+ 669 - Department of Agriculture, Oregon Sweet Cherry Commission 
+ 670 - Department of Agriculture, Oregon Blueberry Commission 
+ 678 - Department of Agriculture, Oregon Wheat Commission 
+ 690 - Water Resources Department 
+ 695 - Oregon Watershed Enhancement Board 
+ 698 - Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program 
+ 699 - Oregon Watershed Enhancement Board, Oregon Watershed Enhancement Board, Environmental Restoration Council 
+ 705 - Chief Education Office 
+ 710 - Citizens' Initiative Review Commission 
+ 715 - Higher Education Coordinating Commission 
+ 731 - Department of Transportation 
+ 732 - Department of Transportation, Public Transportation Division 
+ 733 - Travel Information Council 
+ 734 - Department of Transportation, Delivery and Operations Division 
+ 735 - Department of Transportation, Driver and Motor Vehicle Services Division 
+ 736 - Parks and Recreation Department 
+ 737 - Department of Transportation, Transportation Safety Office 
+ 738 - Oregon Department of Aviation 
+ 740 - Department of Transportation, Commerce and Compliance Division 
+ 741 - Department of Transportation, Rail Division 
+ 750 - State Board of Towing 
+ 800 - State Board of Tax Practitioners 
+ 801 - Oregon Board of Accountancy 
+ 804 - Landscape Architect Board 
+ 806 - State Board of Architect Examiners 
+ 808 - Landscape Contractors Board 
+ 809 - Board of Geologist Examiners 
+ 811 - Board of Chiropractic Examiners 
+ 812 - Construction Contractors Board 
+ 813 - Oregon Housing and Community Services Department 
+ 816 - Oregon Health Authority, Health Licensing Office, State Board of Sign Language Interpreters 
+ 817 - Oregon Health Authority, Health Licensing Office, Board of Cosmetology 
+ 818 - Oregon Board of Dentistry 
+ 819 - Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians 
+ 820 - Board of Examiners for Engineering and Land Surveying 
+ 824 - Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board 
+ 830 - Mortuary and Cemetery Board 
+ 831 - Mental Health Regulatory Agency 
+ 833 - Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists 
+ 834 - Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians 
+ 836 - Department of Consumer and Business Services, Insurance Regulation 
+ 837 - Department of the State Fire Marshal 
+ 839 - Bureau of Labor and Industries 
+ 845 - Oregon Liquor and Cannabis Commission 
+ 847 - Oregon Medical Board 
+ 848 - Oregon Board of Physical Therapy 
+ 850 - Oregon Board of Naturopathic Medicine 
+ 851 - Board of Nursing 
+ 852 - Board of Optometry 
+ 853 - Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board 
+ 855 - Board of Pharmacy 
+ 856 - Public Utility Commission, Oregon Board of Maritime Pilots 
+ 858 - Mental Health Regulatory Agency, Oregon Board of Psychology 
+ 859 - Psychiatric Security Review Board 
+ 860 - Public Utility Commission 
+ 863 - Real Estate Agency 
+ 875 - Veterinary Medical Examining Board 
+ 877 - Board of Licensed Social Workers 
+ 918 - Department of Consumer and Business Services, Building Codes Division 
+ 925 - Department of Consumer and Business Services, Prescription Drug Affordability Board 
+ 943 - Oregon Health Authority 
+ 944 - Oregon Health Authority, Drug Treatment and Recovery Services 
+ 945 - Oregon Health Authority, Health Insurance Marketplace 
+ 950 - Oregon Health Authority, Equity and Inclusion Division 
+ 951 - Oregon Film and Video Office 
+ 952 - Oregon Utility Notification Center 
+ 966 - Economic Recovery Review Council 
+ 972 - Department of Agriculture, Oregon Albacore Commission 
+ 976 - Oregon Tourism Commission 
 
- (b) The filing must be accompanied by the required filing fee or a completed voters’ pamphlet petition having the required number of signatures in lieu of the filing fee. 
 
- (A) If filing by fee, the filing fee must be paid and received not later than 5:00:00 p.m. on March 12, 2026. 
+ 
 
- (B) If filing by petition in lieu of the filing fee, the petition must be filed and the signatures verified by the Secretary of State not later than 5:00:00 p.m. on March 12, 2026. The measure argument filer must ensure the petition is filed with sufficient time for the Secretary of State to verify the signatures prior to the filing deadline. The Secretary of State will verify petition signatures in the order received by filers. 
 
- (3) The joint legislative committee responsible for preparing the explanatory statement and financial estimate of the measure must supply written notification to the Elections Division of the ORESTAR account username, first and last name and contact information for the person chosen to file the statements electronically. Notification of designated filers must be delivered to the Elections Division via email to ORESTAR-support.sos@sos.oregon.gov not later than 5:00:00 p.m. on March 11, 2026. 
+ 
+ 
+ 
+ Search By 
+ 
+   Exact 
+  Contains 
+  Exclude 
+ 
+ 
+ 
+   Exact 
+  Contains 
+  Exclude 
+ 
+ 
+ 
+   Exact 
+  Contains 
+  Exclude 
+ 
+ 
+ 
+ All must match (AND) 
 
- (4) The following deadlines will apply if a member of the Legislative Assembly from each major political party requests the Oregon Criminal Justice Commission to prepare a racial and ethnic impact statement for Measure 120. 
+ 
+ 
+ Any matches (OR) 
 
- (a) The racial and ethnic impact statement must be filed with the Secretary of State no later than March 6, 2026 at 5:00:00 p.m. 
-
- (b) The Secretary of State will begin accepting written suggestions and any other information from members of the public on the date the racial and ethnic impact statement is filed.  Those written comments must be delivered to the Elections Division via email to ORESTAR-support.sos@sos.oregon.gov or elections.sos@sos.oregon.gov. 
-
- (c) The Secretary of State will hold a hearing in Salem and accept written and oral suggestions and any other information from members of the public until the conclusion of the hearing. The hearing will be held on March 10, 2026. 
-
- (d) The commission may file a revised statement with the Secretary of State not later than March 12, 2026, at 5:00:00 p.m. 
-
- (e) The Secretary of State will certify the statement not later than March 13, 2026. 
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    
-
  
  
  
- 
- Statutory/Other Authority:  ORS 246.150, ORS 251.014, ORS 251.055, ORS 251.167, ORS 251.170, ORS 251.255 & SB 1599 (2026) 
- 
- 
- Statutes/Other Implemented:  ORS 251.026, ORS 251.046, ORS 251.167, ORS 251.170, ORS 251.185, ORS 251.255, SB 1599 (2026) & OAR 165-016-0000 
- 
- History: 
- 
- 
- 
- 
- 
- 
- 
- ELECT 5-2026, temporary adopt filed 03/04/2026, effective 03/04/2026 through 08/30/2026 
- 
- 
- 
- 
- 
-
-
- 
- 
- 
- 
- 
- Please use this link to bookmark or link to this rule. 
  
  
 
@@ -182,7 +557,7 @@
  
  
  
-
+ 
  
  
  

@@ -76,8 +76,6 @@
  
  
  
-   Temporary rule language in effect until 11/21/2026. 
- 
  
  
  
@@ -91,30 +89,66 @@
  
  Division 104 CLASSIFICATION (AIC) 
  291-104-0125 
- Classification Review
+ Custody Classification Level Review
  
  
- (1) An inmate’s custody classification level will be reviewed when new information is received that affects a classification scoring policy element or when an inmate’s Violence Predictor Score has expired. 
+ (1) An adult in custody’s custody classification level will be reviewed when new information is received that affects a classification scoring policy element or when an adult in custody’s Violence Predictor Score has expired. 
 
- (2) Custody Classification Levels 1–4: When new information is received that affects the inmate’s custody classification level, the inmate’s assigned counselor will review the classification action for accuracy and forward it to the functional unit manager for approval. 
+ (2) Custody C lassification Levels 1- 4: When new information is received that affects the adult in custody’s custody classification level, the adult in custody’s assigned counselor will review the classification action for accuracy and forward it to the Correctional Rehabilitation Manager for approval. 
 
- (a) No classification action is official until the functional unit manager or designee approves the classification action. 
+ (a) No classification action is official until the Correctional Rehabilitation Manager or designee approves the classification action. 
 
- (b) Final approval for any override of one step will be made at the institutional level and shall be documented on the classification override comment screen describing the override reason. 
+ (b) Final approval for any override of one step will be made by the Intake Manager, Correctional Rehabilitation Manager or their designee and shall be documented on the classification override comment screen describing the override reason. 
 
- (c) Overrides of more than a single step are not official until approved by the designated institution committee and the Classification Manager or designee. 
+ (c) Overrides of more than a single step are not official until approved by the Intake Manager or institution Correctional Rehabilitation Manager or their designee, and the Classification Manager or designee. 
 
- (d) An inmate may request a copy of his/her official classification action. 
+ (d) An adult in custody may request a copy of their official classification action. 
 
- (e) All official classification actions are historically recorded and maintained in the CIS. 
+ (e) All official classification actions are recorded in the Corrections Information System and the records maintained in accordance with the department’s retention schedule. 
 
- (f) The Office of Population Management may modify any classification action. In such cases, the affected facility will be formally notified of the reason(s) for the modification. 
+ (f) The Office of Population Management may modify any classification action. In such cases, the affected Department of Corrections facility will be formally notified of the reason(s) for the modification. 
 
  (3) Custody Classification Level 5: 
 
- (a) When an inmate’s institutional behavior is determined to create serious management concerns, the classification action will be reviewed by the designated institution committee and forwarded to the Special Population Management (SPM) Committee for review. If the SPM committee approves an inmate’s classification at Level 5, the Office of Population Management will add an IMU5 designator and generate a new classification, which will be scored as custody classification Level 5. 
+ (a) No Level 5 (maximum security) adults in custody shall be housed in a general population housing unit. 
 
- (b) Once an inmate is assigned to custody classification Level 5, the automated classification program will maintain the inmate’s Level 5 custody classification status until the IMU5 designator is removed, an IMUR designator is added, and a new classification is generated. The new classification will be scored at custody classification Level 4 for one year. 
+ (b ) When an adult in custody’s behavior creates serious management concerns, the classification will be reviewed by the designated institution committee . If the designated institution committee approves a change in the classification, a “Pending IMU” (PIMU) designator will be placed by the institution and a referral will be forwarded to the Special Population Management Committee for review. If the Special Population Management Committee approves an adult in custody’s classification at Level 5, the Office of Population Management will approve the “Intensive Management Unit Level 5” ( IMU5 ) designator and generate a new classification action , which will be scored as custody classification Level 5. 
+
+ (c ) Once an adult in custody is assigned to custody classification Level 5, the automated classification program will maintain the adult in custody’s Level 5 custody classification status until the “Intensive Management Unit Level 5” ( IMU5 ) designator is closed. Upon completion of Intensive Management Unit programming, the designator will be closed using the code of Intensive Management Unit Release (IMUR) and a new classification is generated. The new classification will be scored at custody classification Level 4 for one year. 
+
+ (d) If an adult in custody releases from custody with an Intensive Management Unit-related designator (PIMU or IMU5) and later returns to the department’s custody, a determination will be made by Special Population Management Committee regarding completion of Intensive Management Unit programming. If the adult in custody is not returned to the Intensive Management Unit, a determination will be made regarding how long they will remain at classification Level 4. 
+
+ (e) If an adult in custody successfully challenges their Intensive Management Unit placement and related classification Level 5 designation, a new classification action will be completed to determine appropriate classification.   
+
+ (4) Discretionary Override to Lower Custody: Factors that may cause override to a lower custody classification level can include, but are not limited to: 
+
+ (a) Low concern of management problems; 
+
+ (b) Minimal escape threat; 
+
+ (c) No serious violence threat; 
+
+ (d) Criminal History less serious than the score; 
+
+ (e) Mental health status; and 
+
+ (f) Other factors as determined by professional discretion. 
+
+ (5) Discretionary Override to Higher Custody: Factors that may cause override to higher custody classification level can include, but are not limited to: 
+
+ (a) Known management problem; 
+
+ (b) Escape threat; 
+
+ (c) Serious violence threat; 
+
+ (d) Criminal history more serious than the score; 
+
+ (e) Mental health status; 
+
+ (f) Security Threat Group activity; and 
+
+ (g) Other factors as determined by professional discretion. 
 
  
  
@@ -126,6 +160,21 @@
  Statutes/Other Implemented:  ORS 179.040, 423.020, 423.030 & 423.075 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DOC 24-2026, amend filed 07/29/2026, effective 08/01/2026 
+ 
+ 
+ 
+ 
+ 
+
+
  
  
  

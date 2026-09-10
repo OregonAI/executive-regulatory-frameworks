@@ -89,9 +89,9 @@
  
  Division 31 LICENSE REQUIREMENTS FOR NURSES 
  851-031-0039 
- Initial Licensure by Endorsement – PN and RN 
+ Initial Licensure by Endorsement – Practical Nurse and Registered Nurse 
  
- (1) An individual who holds or has held a practical, vocational or registered nurse license in another state or U.S. territory may apply for licensure by endorsement by submitting a completed application, which includes: 
+ (1) An individual who holds or has held a practical, vocational or registered nurse license in another state, U.S. territory , or a country with comparable nursing educaiton may apply for licensure by endorsement by submitting a completed application, which includes: 
 
  (a) The Board’s initial application by endorsement form; 
 
@@ -109,11 +109,13 @@
 
  (2) Confirmation of graduation includes: 
 
- (a) An official transcript that includes the degree, certificate, or diploma awarded, the graduation date, and documentation of a clinical component as defined in OAR 851-006-0030; and 
+ (a) An official transcript that includes the degree, certificate, or diploma awarded, the graduation date, and documentation of a clinical component as defined in Chapter 851 Division 6. 
 
- (b) Verification that the nursing education program was approved by the appropriate agency in the state or U.S. territory. 
+ (A) The nursing educaiton program must be approved by the appropriate regulatory body. 
 
- (c) A credential evaluation for graduates of international nursing education program that does not have an NCLEX® code, which includes: 
+ (B) If education records no longer exist, verification from the jurisdiction in which the program was located confirming the program was approved at the time of graduation and that the applicatant graduated; or 
+
+ (b)  A credential evaluation for graduates of international nursing education programs that does not have an NCLEX® code, which includes: 
 
  (A) Confirmation of completion of a nursing education program approved by the appropriate regulatory body; 
 
@@ -121,7 +123,9 @@
 
  (C) Verification that the education is comparable to an Oregon nursing education program; and 
 
- (D) If available, licensure details from the issuing authority. 
+ (D) If available, licensure details from the issuing authority; or 
+
+ (c) A Joint Services transcript that shows evidence of completion of a U.S. military practical nursing educaiton program, Air Force 4N051 5 skill level or Army 68WM6. 
 
  (3) Incomplete applications expire 12 months from the initial submission date. 
 
@@ -142,8 +146,8 @@
  
  
  
- 
  BN 4-2026, amend filed 08/21/2026, effective 09/01/2026 
+ 
  
  
  

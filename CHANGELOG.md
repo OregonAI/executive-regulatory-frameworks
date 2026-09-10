@@ -11,6 +11,24 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Source-Updated
+- 2026-09-10 — **The remaining OAR rules: 54 ordinary re-ingests plus 3 live Columbia River
+  Gorge Commission rules** (final group of the re-ingest queue except the repeals, below).
+  Chapters touched: 333 (10), 851 (8), 291/309/635 (5 each), 411/413 (4 each), 410/660 (2 each),
+  and one each in 123, 165, 250, 259, 695, 813, 839, 856, 875.
+
+  `oar-333-333-5080` came back **unchanged**. It was the one *new* access failure in the
+  2026-09-09 drift run, first seen that day and never escalated; the page serves the psilocybin
+  safety-and-support-plan rule normally and its bytes still hash to the committed baseline. That
+  failure was a flake during a five-hour sweep, not a withdrawal.
+
+  Manifest baselines re-seeded with the drift detector's formula. **51 of 57 reproduce the hash
+  the drift run observed.** The six that do not are accounted for: `oar-333-333-5080` had no
+  `now` hash recorded (it was a fetch failure that run), and the five `oar-309-073-*` Crisis
+  Stabilization Center rules were edited again upstream between the sweep (2026-09-09 03:10Z)
+  and this ingest — their pages hash stably across repeated fetches today, just to a different
+  value than yesterday. Every baseline written equals the bytes actually mirrored, which is the
+  invariant that matters.
+
 - 2026-09-10 — **The four remaining small groups: OYA 5, DOC 1, retention schedules 2, and the
   Constitution** (sixth group of the re-ingest queue; only OAR is left after this, plus the Gorge
   repeals awaiting a decision).
