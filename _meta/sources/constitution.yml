@@ -8,12 +8,12 @@ upstream_signal: Amendments referred to the voters and decided at the general el
   and never what. The diff does that work, and it has a name - `python3 src/ingest_constitution.py --drift PAGE`
   names WHICH sections' text moved, stays silent about the ones that did not, and reports a section it could not
   slice out of the new page as COULD NOT CHECK rather than as one that was deleted (#197).
-last_checked: '2026-08-21'
+last_checked: '2026-09-10'
 sources:
 - id: oregon-constitution
   url: https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx
-  sha256: c8c579f8c97ccdab38f78755587215ce32f046f0ab021597a7482816d5d1a43f
-  last_checked: '2026-08-21'
+  sha256: c36f7b22cfba0c4addc61eaf52ed600834490a9355689e52af2801c8884a7cea
+  last_checked: '2026-09-10'
   notes: 'THE WHOLE DOCUMENT, and that is the decision this group is defined by (ADR 0005, #195). Every article
     heading the page prints is catalogued and every section under it is published or refused with a reason - not
     the 43 targets this corpus cites in the precise `Article X, section Y` form, and not the articles it happens

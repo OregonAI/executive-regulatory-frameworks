@@ -12,9 +12,9 @@ agency: oregon-youth-authority
 legal_authority: []
 source_url: "https://www.oregon.gov/oya/policies/I-D-1.6.pdf"
 source_format: pdf
-retrieved: "2026-07-21"
-source_sha256: "64163b0bc1276e1ee3672f9d24020960e6292582f66d21eb18062e2298024e5e"
-effective_date: "2018-01-25"
+retrieved: "2026-09-10"
+source_sha256: "10562f8e2baa0b1e6d299eb9b64853ffcdaac838a499caf575a26ec03637137c"
+effective_date: "2018-01-25"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new source -->
 last_reviewed: null
 source_version: "Effective 01/25/2018"
 status: current
@@ -52,7 +52,7 @@ OYA Policy I-D-1.6 — OYA Staff Wellness. Oregon Youth Authority. Effective 01/
  OYA Staff Wellness
  Section – Policy Number:                  Supersedes:      Effective Date:     Date of Last
  D: Personnel Management – 1.6             N/A              01/25/2018          Review:
-                                                                                07/25/2024
+                                                                                07/25/2026
  Related             Executive Order 17-01 State Agency Employee Wellness
  Standards           DAS Chief Human Resources Office policy: 50-010-06 Employee
  and                   Health and Wellness
@@ -155,6 +155,6 @@ V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oya/policies/I-D-1.6.pdf> · retrieved 2026-07-21 · sha256 `64163b0bc1276e1ee3672f9d24020960e6292582f66d21eb18062e2298024e5e`
+- Source: <https://www.oregon.gov/oya/policies/I-D-1.6.pdf> · retrieved 2026-07-21 · sha256 `10562f8e2baa0b1e6d299eb9b64853ffcdaac838a499caf575a26ec03637137c`
 - Snapshot: `_meta/snapshots/oya-i-d-1-6.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

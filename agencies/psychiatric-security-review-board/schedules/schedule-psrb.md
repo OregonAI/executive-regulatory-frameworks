@@ -14,9 +14,9 @@ schedule_number: 2026-0005
 legal_authority: []
 source_url: https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-PSRB.pdf
 source_format: pdf
-retrieved: '2026-07-25'
-source_sha256: e23501b09dc4ebfa47de19947e2f3932beddf687883fc1e0295db2e9ffc68b9c
-effective_date: null
+retrieved: "2026-09-10"
+source_sha256: 77d7106f3ce59150c1e6d39144144a28e558203c82cc3f166884961d3b63115b
+effective_date: null  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new source -->
 effective_date_text: June 2026                                            Schedul
 expires: null
 expires_text: null
@@ -24,12 +24,7 @@ last_reviewed: null
 source_version: 2026-0005
 status: current
 content_mode: verbatim
-conversion_notes: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 2 pages.
-  No repeated publisher-chrome header/footer or bare page-number lines were found. Only lines that BOTH
-  repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number
-  line, bare page number) were removed; every other repeated line, including per-page 'Organizational
-  Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and
-  blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
+conversion_notes: "no page furniture detected"
 last_verified: ''
 verified_by: ''
 maintainer: '@morficflux'
@@ -60,12 +55,10 @@ Special records retention schedule for Psychiatric Security Review Board (PSRB),
 
 ## Full text
 
-Oregon State Archives
-Records Retention Schedule
-Edition: June 2026                                            Schedule Number: 2026-0005
-1
-
-Agency:  Psychiatric Security Review Board (PSRB)
+                             Oregon State Archives
+                           Records Retention Schedule
+Edition: August 2026                                          Schedule Number: 2026-0005
+Agency:       Psychiatric Security Review Board (PSRB)
 
 Program Description
 The Psychiatric Security Review Board (PSRB) is an independent, quasi-judicial state
@@ -93,37 +86,41 @@ determinations and to ensure due process, statutory compliance, and defensible
 decision-making.
 
 Program Records
-001  I ncomplete Sex Offender or Firearm Prohibition Relief Applications
-Retain 1 year after date received, destroy
-002 Law Enforcement Data System (LEDS) Records for Hearings
-(a) If there is no appeal, retain 90 days from the date the associated hearing
-order is signed, destroy
-(b) If appealed, retain according to OAR 166-300-0017(1)
-003 Psychiatric Security Review Board Internal Case Files
-Retain 1 year after case closed, destroy
-004 Source Files for Reporting, Reclassification, and Relief
-Retain 120 years after individual’s date of birth, destroy
+05     Hearing Exhibit Files
+       Retain 25 years after case closed, destroy
+01     Incomplete Sex Offender or Firearm Prohibition Relief Applications
+       Retain 1 year after date received, destroy
+02     Law Enforcement Data System (LEDS) Records for Hearings
+       (a) If there is no appeal, retain 90 days from the date the associated hearing
+           order is signed, destroy
+       (b) If appealed, retain according to OAR 166-300-0017(1)
+03     Psychiatric Security Review Board Internal Case Files
+       Retain 1 year after case closed, destroy
+04     Source Files for Reporting, Reclassification, and Relief
+       Retain 120 years after individual’s date of birth, destroy
 
+                                                                                          1
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0005
 State Agency General Records Retention Schedule Records
 Includes but is not limited to:
+
 Administrative Records (OAR 166-300-0015)
-
-Oregon State Archives
-Records Retention Schedule
-Edition: June 2026                                            Schedule Number: 2026-0005
-2
-
 Board and Commission Records (OAR 166-300-0017)
 Financial Records (OAR 166-300-0025)
-Information Systems Records (166-300-0030)
-Payroll Records (166-300-0035)
-Personnel Records (166-300-0040)
-Risk Management Records (166-300-0045)
+Information Systems Records (OAR 166-300-0030)
+Payroll Records (OAR 166-300-0035)
+Personnel Records (OAR 166-300-0040)
+Risk Management Records (OAR 166-300-0045)
 
 Systems of Record
-Agency shared drive
 FileCloud
+Agency shared drive
 Microsoft 365/SharePoint
+
+                                                                                    2
 
 ## Cross-references
 
@@ -144,7 +141,7 @@ the sibling corpus holds no such document.
 
 ## Provenance & change history
 
-- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-PSRB.pdf> · retrieved 2026-07-25 · sha256 `e23501b09dc4ebfa47de19947e2f3932beddf687883fc1e0295db2e9ffc68b9c`
+- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-PSRB.pdf> · retrieved 2026-07-25 · sha256 `77d7106f3ce59150c1e6d39144144a28e558203c82cc3f166884961d3b63115b`
 - Snapshot: `_meta/snapshots/schedule-psrb.txt` (extracted text) and `_meta/snapshots/schedule-psrb.pdf` (raw source, 2 pages).
 - Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 2 pages. No repeated publisher-chrome header/footer or bare page-number lines were found. Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
 - See [CHANGELOG](./CHANGELOG.md).
