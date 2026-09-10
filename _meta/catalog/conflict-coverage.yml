@@ -251,10 +251,10 @@ chapters:
   sections_with_rules: 24
   sections_screened: 0
   n_agencies: 5
-  n_rules: 480
+  n_rules: 481
   audit_cited: false
   runs: []
-  priority: 109.5
+  priority: 109.7
 - chapter: '441'
   depth: sections-partial
   sections_with_rules: 81
