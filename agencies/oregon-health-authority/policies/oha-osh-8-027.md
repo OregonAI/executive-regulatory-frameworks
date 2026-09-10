@@ -10,7 +10,7 @@ authority_level: state_policy
 issuing_body: "Oregon State Hospital (Oregon Health Authority)"
 agency: oregon-health-authority
 legal_authority: []
-source_url: "https://www.oregon.gov/oha/OSH/Policies/8.027%20Weapons%20on%20Campus%20%28ADMINISTRATIVE%20DIRECTIVE%29/8.027%20Weapons%20on%20Campus.pdf"
+source_url: "https://www.oregon.gov/oha/OSH/Policies/8.027%20Weapons%20on%20Campus/8.027%20Weapons%20on%20Campus.pdf"
 source_format: pdf
 retrieved: "2026-07-21"
 source_sha256: "4a4c58d5692c3b3a94c732dba3e032e07cfc7e008376b34dd0e3ea05cc86748b"

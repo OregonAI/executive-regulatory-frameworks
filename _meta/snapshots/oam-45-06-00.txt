@@ -1,54 +1,83 @@
-                                                                                                    Statewide Policy
-
-
-
 OREGON ACCOUNTING MANUAL
-Subject:       Accounting and Financial Reporting                                Number:          45.06.00
-Division:      State Controller’s Division                                       Effective date: March 1, 2007
-Chapter:       Payroll
-Part:          Sick Leave Balances at Retirement
-Section:
+Statewide Policy
 
-Approved:      John Radford, State Controller                                    Original signature on file in SCD
+NUMBER: 45.06.00
+SUBJECT: Payroll: Sick Leave Balances at Retirement
+EFFECTIVE DATE: 08/07/2026
+POLICY OWNER: Office of the State Controller | Oregon Statewide Payroll Services (OSPS)
+DIVISION: Chief Financial Office
+LAST REVIEWED DATE: 08/07/2026
+SUPERSEDES: Policy # 45.06.00 (03/01/2007)
+PAGE NUMBER: Page 1 of 3
+REFERENCE/AUTHORITY:
 
+   •   ORS 238.350
+   •   ORS 238A.130
+   •   OAR 459-017-0060
 
-
-Authority         ORS 238.350
-                  OAR 459-017-0060
-
-
-Sick Leave Balance Expiration
-
-        .101      When a state employee retires, the employing agency shall report all accumulated unused sick
-                  leave to the Public Employees Retirement System (PERS). Thereafter, the unused sick leave is
-                  no longer available to a retiree who is reemployed or rehired, in any appointment or position, by
-                  the State.
-
-        .102      This provision applies to all unused sick leave hours that are reported to PERS. Under no
-                  circumstances can reported hours be restored to a retiree, regardless of the specific retirement
-                  option elected by the individual (including disability retirement) or the type of appointment or
-                  position filled upon reemployment or rehire.
-
-        .103      At retirement, an employee’s sick leave balances shall be:
-                      a. Entered into the Oregon State Payroll Application (OSPA) clearing account;
-                      b. Documented as “retired” in the comment field; and
-                      c.   Flagged to be adjusted to zero at 60 days following the date of retirement.
+APPROVED BY:
+Kate Nass, Chief Financial Officer | Approval on File
 
 
-Recoupment of Benefit Overpayment
+Statement
+This is the state’s policy on sick leave balances at the time of retirement.
 
-        .104      Any agency that discovers it has restored sick leave hours to a retiree must take the following
-                  steps:
-                      a. Immediately remove any remaining sick leave hours restored to the employee’s
-                         account following reemployment or rehire;
-                      b. Change the employee’s status to leave without pay for absences where the
-                         employee applied restored sick leave hours to cover the absence; and
-                      c.   Notify the employee of any amount of benefits to be repaid and adhere to
-                           applicable policy or the relevant collective bargaining agreement to recoup such
-                           amounts.
+Applicability
+This policy applies to all state agencies that are subject to the Oregon Accounting Manual
+(OAM), as outlined in OAM 01.05.00, Introduction: Scope and Applicability. If any
+provisions of OAM policies or procedures conflict with collective bargaining agreements,
+the provisions of collective bargaining agreements would supersede OAM guidance.
+
+Definitions
+Employer agency: The state agency who employs staff in the exempt, unclassified,
+classified, and management service providing personnel services to the employer.
+
+
+Oregon Accounting Manual              Policy No: 45.06.00                        Page 1 of 3
+Refer to OAM 65.00.00, Glossary for definitions.
+
+Policy
+Disposition of Sick Leave Upon Retirement
+101. When a PERS Tier 1 or Tier 2 state employee retires, the employer agency shall
+     report all accumulated unused sick leave to PERS. As of the effective date of
+     retirement, all sick leave will be considered ‘used’ for employees who receive
+     retirement benefits based on the full formula, money match, and formula plus
+     annuity calculations. Thereafter, the unused sick leave is no longer available to a
+     retiree who is reemployed or rehired, in any appointment or position, by the state.
+     For OPSRP employees, refer to paragraph 103.
+102.   This provision applies to all unused sick leave hours that are reported to PERS for
+       retirees described in 101. Under no circumstances can the reported hours be
+       restored to a PERS Tier 1 and Tier 2 retiree, regardless of the specific retirement
+       option elected by the individual (including disability retirement) or the type of
+       appointment or position filled upon reemployment or rehire. For OPSRP employees,
+       refer to paragraph 103.
+103.   Paragraphs 101 and 102 do not apply to Oregon Public Service Retirement Plan
+       (OPSRP) retirees. Under ORS Chapter 238A.130, unused sick leave is not used by
+       the Public Employees Retirement System (PERS) as the part of the OPSRP
+       retirement calculation and may be reinstated to eligible employees. Refer to State
+       HR policy 60.000.01, Sick Leave with Pay.
+104.   At retirement, an employee’s sick leave balances shall:
+       a. Remain in their time off balance for up to two years for OPSRP retirees, OR
+       b. Be adjusted to zero for Tier 1 and Tier 2 retirees.
+
+Correcting an Overpayment
+105. An employer agency that discovers it has restored sick leave hours to a rehired
+     retiree described in paragraph 101, must take the following steps:
+       a. Determine if an employee is eligible for any temporary sick leave or regular sick
+          leave upon rehire and update the employee’s balance as needed.
+       b. Communicate with the employee and the employee’s manager about the
+          necessary updates to correct their sick leave balances.
 
 
 
 
-                                                                                                         45.06.00.PO .1
+Oregon Accounting Manual              Policy No: 45.06.00                         Page 2 of 3
+      c. If an erroneous overpayment of wages has occurred for paid use of sick leave
+         the employee was ineligible for, refer to OAM 45.50.00, Collection of
+         Overpayment of Wages, on how to collect the overpayment from the employee.
+
+
+
+
+Oregon Accounting Manual          Policy No: 45.06.00                       Page 3 of 3
 
