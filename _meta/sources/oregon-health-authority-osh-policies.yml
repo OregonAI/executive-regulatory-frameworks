@@ -128,8 +128,8 @@ sources:
   notes: Code Status (OSH Policy 6.012)
 - id: oha-osh-6-013
   url: https://www.oregon.gov/oha/OSH/Policies/6.013%20Discharge%20and%20Conditional%20Release%20Planning/6.013%20Procedures%20A%20-%20Discharge%20Readiness.pdf
-  sha256: 0cfced610193c8adc3db59342af3b3485f6f4567a40ea19fe6e1dce77dc3eae6
-  last_checked: '2026-07-21'
+  sha256: 249a092ecdcd0c3f7172ddbcc040987fe9f95d18fc594ba495b79e1fa4c95ecd
+  last_checked: '2026-09-09'
   notes: Discharge and Conditional Release Planning (OSH Policy 6.013)
 - id: oha-osh-6-025
   url: https://www.oregon.gov/oha/OSH/Policies/6.025%20Advance%20Directives/6.025%20Advance%20Directives.pdf
@@ -172,10 +172,10 @@ sources:
   last_checked: '2026-07-21'
   notes: Trauma Screening (OSH Policy 6.052)
 - id: oha-osh-6-053
-  url: https://www.oregon.gov/oha/OSH/Policies/6.053%20Education%20Services%20for%20Patients%20Under%2021/6.053%20-%20Procedures%20A%20-%20School%20Enrollment.pdf
-  sha256: a1aefe366a7ae53a2cc17fb78f962c020290555c6592c1e6804418d95e04e1bb
-  last_checked: '2026-07-21'
-  notes: Education Services for Patients Under 21 (OSH Policy 6.053)
+  url: https://www.oregon.gov/oha/OSH/Policies/6.053%20Education%20Services%20for%20Patients%20Under%2021/6.053%20Education%20Services%20for%20Patients%2018%20through%2021%20Years%20of%20Age.pdf
+  sha256: e5896765a78da85d78645d2e777939cb4c43d832b1c0472774688d50b0955d51
+  last_checked: '2026-09-09'
+  notes: Educational Services for Patients 18 through 21 Years of Age (OSH Policy 6.053)
 - id: oha-osh-6-054
   url: https://www.oregon.gov/oha/OSH/Policies/6.054%20Critical%20Values%20or%20Results/6.054%20Critical%20Values%20or%20Results.pdf
   sha256: 4a2219a98c05c14c2c7816d49905836f94575c07ed49558cd6eeb6c42373dc88
@@ -277,9 +277,9 @@ sources:
   last_checked: '2026-07-21'
   notes: Parking and Parking Registration (OSH Policy 8.023)
 - id: oha-osh-8-027
-  url: https://www.oregon.gov/oha/OSH/Policies/8.027%20Weapons%20on%20Campus%20%28ADMINISTRATIVE%20DIRECTIVE%29/8.027%20Weapons%20on%20Campus.pdf
+  url: https://www.oregon.gov/oha/OSH/Policies/8.027%20Weapons%20on%20Campus/8.027%20Weapons%20on%20Campus.pdf
   sha256: 4a4c58d5692c3b3a94c732dba3e032e07cfc7e008376b34dd0e3ea05cc86748b
-  last_checked: '2026-07-21'
+  last_checked: '2026-09-09'
   notes: Weapons on Campus (ADMINISTRATIVE DIRECTIVE) (OSH Policy 8.027)
 - id: oha-osh-8-029
   url: https://www.oregon.gov/oha/OSH/Policies/8.029%20Safety%20Grant/8.029%20Safety%20Grant.pdf
@@ -378,13 +378,13 @@ sources:
   notes: Non-Discrimination and Alternate Language Access (OSH Policy 1.012)
 - id: oha-osh-5-016
   url: https://www.oregon.gov/oha/OSH/Policies/5.016%20Adults%20in%20Custody%20Workforce/5.016%20Adults%20in%20Custody%20Workforce.pdf
-  sha256: 9e10fda4c27a915b5502b7184f393a5aaec4dddfa54805b2a2a5f0383c89e26d
-  last_checked: '2026-07-21'
+  sha256: 309286ebbaa2d1dca9dab54cba5c6236c2387ba35491b5bee97b069bf4d82f87
+  last_checked: '2026-09-09'
   notes: Adults in Custody Workforce (OSH Policy 5.016)
 - id: oha-osh-5-020
   url: https://www.oregon.gov/oha/OSH/Policies/5.020%20Staff%20and%20Adult%20in%20Custody%20Worker%20Relationships/5.020%20Staff%20and%20Adult%20in%20Custody%20Worker%20Relationships.pdf
-  sha256: ab914441774268df43a6d49aa90ba6579ff0be41959c9d2d6334ec61ce1dab20
-  last_checked: '2026-07-21'
+  sha256: ed8a3a4858551e8e1bb09e305043fd3f1a2389134616fdb0b55257d83d3fbf9b
+  last_checked: '2026-09-09'
   notes: Staff and Adult in Custody Worker Relationships (OSH Policy 5.020)
 - id: oha-osh-1-016
   url: https://www.oregon.gov/oha/OSH/Policies/1.016%20OSH%20Delegation%20of%20Authority/1.016%20-%20OSH%20Delegation%20of%20Authority.pdf
@@ -418,8 +418,8 @@ sources:
   notes: Faiths Beliefs and Practices (OSH Policy 7.011)
 - id: oha-osh-4-013
   url: https://www.oregon.gov/oha/OSH/Policies/4.013%20Professional%20Credential%20and%20Membership%20Fees/4.013%20Professional%20Credential%20and%20Membership%20Fees.pdf
-  sha256: 43d205f4473304156b62405609a25c295846c419e3bf1fe18334f50c12873b13
-  last_checked: '2026-07-21'
+  sha256: fe4db11efbb56e2227822dcba612fd46de4d6ff987a2ab7b0d0d6d8e23610027
+  last_checked: '2026-09-09'
   notes: Professional Credential and Membership Fees (OSH Policy 4.013)
 - id: oha-osh-1-001
   url: https://www.oregon.gov/oha/OSH/Policies/1.001%20Policy%20System%20at%20OSH/1.001%20Policy%20System%20at%20OSH.pdf
@@ -443,13 +443,13 @@ sources:
   notes: Meal Service for Staff and Others (OSH Policy 4.006)
 - id: oha-osh-8-004
   url: https://www.oregon.gov/oha/OSH/Policies/8.004%20Criminal%20Offender%20Information%20Access/8.004%20Criminal%20Offender%20Information%20Access.pdf
-  sha256: 4ac6c2245dd816c1f5858ba5a9e5977f87eadd4ff37981719725c8ac49b4f177
-  last_checked: '2026-07-21'
+  sha256: 2639f0323ae43a7dd42a1ba7af703428d9c98c09dcdcd2f29348aab88eb6b470
+  last_checked: '2026-09-09'
   notes: Criminal Offender Information Access (OSH Policy 8.004)
 - id: oha-osh-5-005
   url: https://www.oregon.gov/oha/OSH/Policies/5.005%20Staff-Owned%20Equipment/5.005%20Staff-Owned%20Equipment.pdf
-  sha256: b33511437bcf56803b67c3538ea6f03914b18c0d5b466d08c6fb5de7cbb5368a
-  last_checked: '2026-07-21'
+  sha256: 7b429d3f33982b3363c284ff6ce2e0f0de3d108a9c019a0d7d3648f5d7b46afb
+  last_checked: '2026-09-09'
   notes: Staff-Owned Equipment (OSH Policy 5.005)
 - id: oha-osh-8-009
   url: https://www.oregon.gov/oha/OSH/Policies/8.009%20OSH%20Safety%20Programs/8.009%20OSH%20Safety%20Programs.pdf
@@ -477,9 +477,9 @@ sources:
   last_checked: '2026-07-21'
   notes: Employee Recognition (OSH Policy 5.006)
 - id: oha-osh-8-037
-  url: https://www.oregon.gov/oha/OSH/Policies/8.037%20Patient%20Property%20and%20Valuables%20%28ADMINISTRATIVE%20DIRECTIVE%29/8.037%20Patient%20Property%20and%20Valuables.pdf
-  sha256: 840953f87a8c35a49585c53fefc9ca5763259d1d6a4e38df92efcf3607d07124
-  last_checked: '2026-07-21'
+  url: https://www.oregon.gov/oha/OSH/Policies/8.037%20Patient%20Property%20and%20Valuables/8.037%20Patient%20Property%20and%20Valuables%20-%20Handling%20and%20Storage.pdf
+  sha256: f9c7101956a2505c60b45b13082be24a27996cf3f670230dae74624c1f251daf
+  last_checked: '2026-09-09'
   notes: Patient Property and Valuables (ADMINISTRATIVE DIRECTIVE) (OSH Policy 8.037)
 - id: oha-osh-8-033
   url: https://www.oregon.gov/oha/OSH/Policies/8.033%20Workplace%20Violence%20Prevention/8.033%20Procedures%20A%20-%20Type%20I%20.pdf
