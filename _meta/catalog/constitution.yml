@@ -1,12 +1,12 @@
 document: Oregon Constitution
 url: https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx
 snapshot_id: oregon-constitution
-retrieved: '2026-08-21'
+retrieved: '2026-09-10'
 source_version: in effect following the approval of amendments and revisions on November 5, 2024
 articles:
 - article: I
   title: BILL OF RIGHTS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Natural rights inherent in people
@@ -261,7 +261,7 @@ articles:
     path: constitution/orconst-art-i-sec-47.md
 - article: II
   title: SUFFRAGE AND ELECTIONS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Elections free
@@ -376,7 +376,7 @@ articles:
     path: constitution/orconst-art-ii-sec-24.md
 - article: III
   title: DISTRIBUTION OF POWERS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Separation of powers
@@ -401,7 +401,7 @@ articles:
     path: constitution/orconst-art-iii-sec-4.md
 - article: IV
   title: LEGISLATIVE BRANCH
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Legislative power; initiative and referendum
@@ -615,7 +615,7 @@ articles:
     path: constitution/orconst-art-iv-sec-34.md
 - article: V
   title: EXECUTIVE BRANCH
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Governor as chief executive; term of office; period of eligibility
@@ -728,7 +728,7 @@ articles:
     path: constitution/orconst-art-v-sec-18.md
 - article: VI
   title: ADMINISTRATIVE DEPARTMENT
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Election of Secretary and Treasurer of state; terms of office; period of eligibility
@@ -789,7 +789,7 @@ articles:
     path: constitution/orconst-art-vi-sec-10.md
 - article: VII (Amended)
   title: JUDICIAL BRANCH
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Courts; election of judges; term of office; compensation
@@ -855,7 +855,7 @@ articles:
     path: constitution/orconst-art-vii-amended-sec-9.md
 - article: VII (Original)
   title: THE JUDICIAL BRANCH
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Courts in which judicial power vested
@@ -966,7 +966,7 @@ articles:
     path: constitution/orconst-art-vii-original-sec-21.md
 - article: VIII
   title: EDUCATION AND SCHOOL LANDS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Superintendent of Public Instruction
@@ -1011,7 +1011,7 @@ articles:
     path: constitution/orconst-art-viii-sec-8.md
 - article: IX
   title: FINANCE
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Assessment and taxation; uniform rules; uniformity of operation of laws
@@ -1118,7 +1118,7 @@ articles:
     path: constitution/orconst-art-ix-sec-15.md
 - article: X
   title: THE MILITIA
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State militia
@@ -1155,7 +1155,7 @@ articles:
       them (the shape of a repealed section); there is no text to mirror, so it is not ingested
 - article: X-A
   title: CATASTROPHIC DISASTERS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Definitions; declaration of catastrophic disaster; convening of Legislative Assembly
@@ -1190,7 +1190,7 @@ articles:
     path: constitution/orconst-art-x-a-sec-6.md
 - article: XI
   title: CORPORATIONS AND INTERNAL IMPROVEMENTS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Prohibition of state banks
@@ -1350,7 +1350,7 @@ articles:
 - article: XI-A
   occurrence: 0
   title: RURAL CREDITS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   status: not_mirrored
   rule: no-sections
   note: the page prints no 'Section N.' heading between this article's heading and the next — what it
@@ -1361,7 +1361,7 @@ articles:
 - article: XI-A
   occurrence: 1
   title: FARM AND HOME LOANS TO VETERANS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to make farm and home loans to veterans; standards and priorities for loans
@@ -1395,7 +1395,7 @@ articles:
     path: constitution/orconst-art-xi-a-sec-6.md
 - article: XI-B
   title: STATE PAYMENT OF IRRIGATION AND DRAINAGE DISTRICT INTEREST
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   status: not_mirrored
   rule: no-sections
   note: the page prints no 'Section N.' heading between this article's heading and the next — what it
@@ -1404,7 +1404,7 @@ articles:
   sections: []
 - article: XI-C
   title: WORLD WAR VETERANS' STATE AID SINKING FUND
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   status: not_mirrored
   rule: no-sections
   note: the page prints no 'Section N.' heading between this article's heading and the next — what it
@@ -1413,7 +1413,7 @@ articles:
   sections: []
 - article: XI-D
   title: STATE POWER DEVELOPMENT
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State's rights, title and interest to water and water-power sites to be held in perpetuity
@@ -1437,7 +1437,7 @@ articles:
     path: constitution/orconst-art-xi-d-sec-4.md
 - article: XI-E
   title: STATE REFORESTATION
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to lend credit for forest rehabilitation and reforestation; bonds; taxation
@@ -1446,7 +1446,7 @@ articles:
     path: constitution/orconst-art-xi-e-sec-1.md
 - article: XI-F(1)
   title: HIGHER EDUCATION BUILDING PROJECTS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to lend credit for higher education building projects
@@ -1475,7 +1475,7 @@ articles:
     path: constitution/orconst-art-xi-f-1-sec-5.md
 - article: XI-F(2)
   title: VETERANS' BONUS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to lend credit to pay veterans' bonus; issuance of bonds
@@ -1529,7 +1529,7 @@ articles:
     path: constitution/orconst-art-xi-f-2-sec-10.md
 - article: XI-G
   title: HIGHER EDUCATION INSTITUTIONS AND ACTIVITIES; COMMUNITY COLLEGES
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to lend credit for financing higher education institutions and activities,
@@ -1549,7 +1549,7 @@ articles:
     path: constitution/orconst-art-xi-g-sec-3.md
 - article: XI-H
   title: POLLUTION CONTROL
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to lend credit for financing pollution control facilities or related activities
@@ -1583,7 +1583,7 @@ articles:
     path: constitution/orconst-art-xi-h-sec-6.md
 - article: XI-I(1)
   title: WATER DEVELOPMENT PROJECTS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to lend credit to establish Water Development Fund; eligibility; use
@@ -1612,7 +1612,7 @@ articles:
     path: constitution/orconst-art-xi-i-1-sec-5.md
 - article: XI-I(2)
   title: MULTIFAMILY HOUSING FOR ELDERLY AND DISABLED
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to lend credit for multifamily housing for elderly and disabled persons
@@ -1636,7 +1636,7 @@ articles:
     path: constitution/orconst-art-xi-i-2-sec-4.md
 - article: XI-J
   title: SMALL SCALE LOCAL ENERGY LOANS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to loan credit for small scale local energy loans; eligibility; use
@@ -1665,7 +1665,7 @@ articles:
     path: constitution/orconst-art-xi-j-sec-5.md
 - article: XI-K
   title: GUARANTEE OF BONDED INDEBTEDNESS OF EDUCATION DISTRICTS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to guarantee bonded indebtedness of education districts
@@ -1699,7 +1699,7 @@ articles:
     path: constitution/orconst-art-xi-k-sec-6.md
 - article: XI-L
   title: OREGON HEALTH AND SCIENCE UNIVERSITY
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to lend credit for financing capital costs of Oregon Health and Science University;
@@ -1729,7 +1729,7 @@ articles:
     path: constitution/orconst-art-xi-l-sec-5.md
 - article: XI-M
   title: SEISMIC REHABILITATION OF PUBLIC EDUCATION BUILDINGS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to lend credit for seismic rehabilitation of public education buildings; bonds
@@ -1758,7 +1758,7 @@ articles:
     path: constitution/orconst-art-xi-m-sec-5.md
 - article: XI-N
   title: SEISMIC REHABILITATION OF EMERGENCY SERVICES BUILDINGS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to lend credit for seismic rehabilitation of emergency services buildings;
@@ -1788,7 +1788,7 @@ articles:
     path: constitution/orconst-art-xi-n-sec-5.md
 - article: XI-O
   title: PENSION LIABILITIES
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to lend credit for pension liabilities
@@ -1812,7 +1812,7 @@ articles:
     path: constitution/orconst-art-xi-o-sec-4.md
 - article: XI-P
   title: SCHOOL DISTRICT CAPITAL COSTS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to lend credit for grants or loans to school districts to finance capital costs;
@@ -1852,7 +1852,7 @@ articles:
     path: constitution/orconst-art-xi-p-sec-7.md
 - article: XI-Q
   title: REAL OR PERSONAL PROPERTY OWNED OR OPERATED BY STATE
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State empowered to lend credit for real or personal property to be owned or operated by state;
@@ -1877,7 +1877,7 @@ articles:
     path: constitution/orconst-art-xi-q-sec-4.md
 - article: XII
   title: STATE PRINTING
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State printing; State Printer
@@ -1886,7 +1886,7 @@ articles:
     path: constitution/orconst-art-xii-sec-1.md
 - article: XIII
   title: SALARIES
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Salaries or other compensation of state officers
@@ -1896,7 +1896,7 @@ articles:
       them (the shape of a repealed section); there is no text to mirror, so it is not ingested
 - article: XIV
   title: SEAT OF GOVERNMENT
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Seat of government
@@ -1918,7 +1918,7 @@ articles:
       them (the shape of a repealed section); there is no text to mirror, so it is not ingested
 - article: XV
   title: MISCELLANEOUS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Officers to hold office until successors elected; exceptions; effect on defeated incumbent
@@ -2023,7 +2023,7 @@ articles:
     path: constitution/orconst-art-xv-sec-11.md
 - article: XVI
   title: BOUNDARIES
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: State boundaries
@@ -2032,7 +2032,7 @@ articles:
     path: constitution/orconst-art-xvi-sec-1.md
 - article: XVII
   title: AMENDMENTS AND REVISIONS
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Method of amending Constitution
@@ -2046,7 +2046,7 @@ articles:
     path: constitution/orconst-art-xvii-sec-2.md
 - article: XVIII
   title: SCHEDULE
-  discovered: '2026-08-21'
+  discovered: '2026-09-10'
   sections:
   - number: '1'
     title: Election to accept or reject Constitution

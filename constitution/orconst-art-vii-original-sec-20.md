@@ -36,7 +36,7 @@ tags: ["constitution", "article-vii-original"]
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** The official text of the Oregon
 > Constitution is the one published by the Legislative Counsel Committee. Verify against
-> the official source: <https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx> (retrieved 2026-08-21, in effect following the approval of amendments and revisions on November 5, 2024).
+> the official source: <https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx> (retrieved 2026-09-10, in effect following the approval of amendments and revisions on November 5, 2024).
 
 # Removal of Judges of Supreme Court and prosecuting attorneys from office (Or. Const. Art. VII (Original), sec. 20)
 
