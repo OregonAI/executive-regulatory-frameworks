@@ -99,7 +99,7 @@
 
  (2) To reactivate a license from inactive status to active status, a pilot shall submit a written request on a form provided by the Board and signed by the applicant, and: 
 
- (a) Provide documentation of meeting relicensing each requirement described in OAR 856-016-0010 subsections (2) to (6).  
+ (a) Provide documentation of meeting each relicensing requirement described in OAR 856-016-0010 subsections (2) to (6).  
 
  (b) Pay the annual license fee in OAR 856-015-0045(1). 
 
@@ -127,6 +127,21 @@
  Statutes/Other Implemented:  ORS 776.115 & ORS 670.310 
  
  History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BMP 10-2026, minor correction filed 09/08/2026, effective 09/08/2026 
+ 
+ 
+ 
+ 
+
+
  
  
  

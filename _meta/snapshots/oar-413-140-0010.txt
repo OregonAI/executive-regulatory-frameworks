@@ -120,39 +120,35 @@
 
  (8) "Extended family member" has the meaning given that term by the law or custom of an Indian child ’s tribe. If the meaning of “ extended family member ” cannot be determined, by law or custom of the Indian child 's tribe “ extended family member ” means a person who has attained 18 years of age and who is the Indian child ’s grandparent , aunt, uncle, brother, sister, sister-in-law, brother-in-law, niece, nephew, first cousin, second cousin, stepparent or, as determined by the Indian child ’s tribe, clan or band member . 
 
- (9) “Gestational surrogate” means an individual who is not an intended parent and who agrees to become pregnant through assisted reproduction using embryos that are not the individual’s own, under a gestational surrogacy agreement. 
+ (9) "Household" means all individuals living in the home. 
 
- (10) "Household" means all individuals living in the home. 
+ (10) “ICWA Compliance Report” is a report completed by the Department that reflects the Department’s review of the adoption petition or amended petition and advises the court on whether the documentation submitted by the petitioner is sufficient and complete for the court to find if the inquiry and, if applicable, the notice and placement preference requirements under the ORICWA have been met. 
 
- (11) “ICWA Compliance Report” is a report completed by the Department that reflects the Department’s review of the adoption petition or amended petition and advises the court on whether the documentation submitted by the petitioner is sufficient and complete for the court to find if the inquiry and, if applicable, the notice and placement preference requirements under the ORICWA have been met. 
-
- (12) "Independent adoption" means an adoption that is being finalized in Oregon of a child: 
+ (11) "Independent adoption" means an adoption that is being finalized in Oregon of a child: 
 
  (a) That is not a re-adoption, private agency adoption, or out-of-state public agency adoption; and 
 
  (b) The child is not in the custody of the Department. 
 
- (13) "Indian child" means any unmarried person who has not attained 18 years of age and: 
+ (12) "Indian child" means any unmarried person who has not attained 18 years of age and: 
 
  (a) Is a member or citizen of an Indian tribe ; or 
 
  (b) Is eligible for membership or citizenship in an Indian tribe and is the biological child of a member or citizen of an Indian tribe . 
 
- (14) “Indian custodian” means an Indian, other than the Indian child’s parent, who has physical custody or legal custody of the Indian child under any applicable tribal law, tribal custom or state law, or to whom temporary physical care, custody and control has been transferred by the Indian child’s parent. 
+ (13) “Indian custodian” means an Indian, other than the Indian child’s parent, who has physical custody or legal custody of the Indian child under any applicable tribal law, tribal custom or state law, or to whom temporary physical care, custody and control has been transferred by the Indian child’s parent. 
 
- (15) "Indian tribe" or "tribe" means any Indian tribe , band, nation, or other organized group or community of Indian s federally recognized as eligible for services provided to Indians by the Secretary of the Interior because of their status as Indians , including any Alaska Native village as defined in 43 U.S.C. § 1602(c).   
+ (14) "Indian tribe" or "tribe" means any Indian tribe , band, nation, or other organized group or community of Indian s federally recognized as eligible for services provided to Indians by the Secretary of the Interior because of their status as Indians , including any Alaska Native village as defined in 43 U.S.C. § 1602(c). 
 
- (16) “Intended Parent” means an individual, married or unmarried, who manifests an intent to be legally bound as a parent of a child conceived by assisted reproduction, including under a gestational surrogacy agreement. Intended parent does not include the parent who gives birth to the child conceived by assisted reproduction. 
-
- (17) "Licensed adoption agency" means: 
+ (15) "Licensed adoption agency" means: 
 
  (a) An approved child-caring agency of this state acting by authority of ORS 418.270 and OAR 413-215-0401 to 413-215-0481; and 
 
  (b) An agency or other organization that is licensed, or otherwise authorized, to provide adoption services pursuant to the laws of that state, country or territory. 
 
- (18) “Member” or “membership” means a determination by an Indian tribe that a person is a member , enrolled or citizen in that Indian tribe . 
+ (16) “Member” or “membership” means a determination by an Indian tribe that a person is a member , enrolled or citizen in that Indian tribe . 
 
- (19) "Non-Departmental adoption" means an adoption that is finalized in Oregon for a child who is not in the custody of the Department, and includes: 
+ (17) "Non-Departmental adoption" means an adoption that is finalized in Oregon for a child who is not in the custody of the Department, and includes: 
 
  (a) Re-adoption; 
 
@@ -162,13 +158,13 @@
 
  (d) Out-of-state public agency adoption. 
 
- (20) “ORICWA” means the Oregon Indian Child Welfare Act, Oregon Laws 2020, ch. 14, sections 1-66 and Oregon Laws 2021, ch. 398, sections 1-84. 
+ (18) “ORICWA” means the Oregon Indian Child Welfare Act, Oregon Laws 2020, ch. 14, sections 1-66 and Oregon Laws 2021, ch. 398, sections 1-84. 
 
- (21) "Out-of-state public agency adoption" means an adoption of a child who is a ward of another state and consent for the adoption to finalize in Oregon is given by the out-of-state child welfare agency in loco parentis. 
+ (19) "Out-of-state public agency adoption" means an adoption of a child who is a ward of another state and consent for the adoption to finalize in Oregon is given by the out-of-state child welfare agency in loco parentis. 
 
- (22) "Petitioner" as used in this rule, means an individual person who has filed an adoption petition in an Oregon court. 
+ (20) "Petitioner" as used in this rule, means an individual person who has filed an adoption petition in an Oregon court. 
 
- (23) "Placement report" commonly known as "court report" or "post-placement report" is a comprehensive written report and recommendation to the court prepared after: 
+ (21) "Placement report" commonly known as "court report" or "post-placement report" is a comprehensive written report and recommendation to the court prepared after: 
 
  (a) The filing of an adoption petition; 
 
@@ -176,11 +172,11 @@
 
  (c) A licensed adoption agency has evaluated the status and adjustment of the child and the adoptive parents. 
 
- (24) "Private agency adoption" means an adoption of a child that is being finalized in Oregon in which consent in loco parentis from a licensed adoption agency is required. 
+ (22) "Private agency adoption" means an adoption of a child that is being finalized in Oregon in which consent in loco parentis from a licensed adoption agency is required. 
 
- (25) "Re-adoption" means an adoption of a child who was originally adopted in another country and who is being re-adopted in Oregon. 
+ (23) "Re-adoption" means an adoption of a child who was originally adopted in another country and who is being re-adopted in Oregon. 
 
- (26) “Reason to Know.” A court or person has reason to know that a child is an Indian child if: 
+ (24) “Reason to Know.” A court or person has reason to know that a child is an Indian child if: 
 
  (a) The person knows that the child is an Indian child ; 
 
@@ -202,7 +198,9 @@
 
  (j) Any other indicia provided to the court, or within the court’s knowledge, indicates that the child is an Indian child . 
 
- (27) “Surrogacy agreement” means an agreement between one or more intended parents and an individual who is not an intended parent in which the individual agrees to become pregnant through assisted reproduction and which provides that each intended parent is a parent of a child conceived under the agreement. Unless otherwise specified, the term refers to both a gestational surrogacy agreement and a genetic surrogacy agreement. 
+ (25) “Surrogacy agreement” means an agreement between one or more intended parents, as defined in ORS 109.002(10) and an individual who is not an intended parent in which the individual agrees to become pregnant through assisted reproduction and which provides that each intended parent is a parent of a child conceived under the agreement. Unless otherwise specified, the term refers to both a gestational surrogacy agreement and a genetic surrogacy agreement. 
+
+ (26) “Surrogate” means an individual who is not an intended parent, as defined in ORS 109.002(10), and who agrees to become pregnant through assisted reproduction, as defined in ORS 109.002(4), for the purpose of giving birth to a child for the intended parent(s), and includes both a gestational surrogate, as defined in ORS 109.002(9), and a genetic surrogate. 
 
  
  
@@ -221,8 +219,8 @@
  
  
  
- 
  CWP 65-2026, amend filed 08/19/2026, effective 09/01/2026 
+ 
  
  
  
