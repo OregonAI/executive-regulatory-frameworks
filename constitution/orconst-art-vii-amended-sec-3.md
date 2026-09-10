@@ -36,7 +36,7 @@ tags: ["constitution", "article-vii-amended"]
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** The official text of the Oregon
 > Constitution is the one published by the Legislative Counsel Committee. Verify against
-> the official source: <https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx> (retrieved 2026-08-21, in effect following the approval of amendments and revisions on November 5, 2024).
+> the official source: <https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx> (retrieved 2026-09-10, in effect following the approval of amendments and revisions on November 5, 2024).
 
 # Jury trial; re-examination of issues by appellate court; record on appeal to Supreme Court; affirmance notwithstanding error; determination of case by Supreme Court (Or. Const. Art. VII (Amended), sec. 3)
 
