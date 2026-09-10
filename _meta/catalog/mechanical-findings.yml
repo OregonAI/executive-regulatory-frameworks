@@ -1,7 +1,7 @@
 note: 'Conflict candidates decidable BY CODE — no model involved. A hand-labelled taxonomy of the 137
   frontier-pilot candidates found 29% of them were of these four deterministic types, and a regex finds
   far more of them than the models did: the pilot reported 21 dead citations in total, this scan finds
-  1,968 DISTINCT dead targets, cited 5,515 times across 4,528 documents. READ THE DISTINCT COUNT, NOT
+  1,972 DISTINCT dead targets, cited 5,520 times across 4,532 documents. READ THE DISTINCT COUNT, NOT
   THE OCCURRENCES: they differ by ~2.7x because a single repealed section is cited by many rules — ORS
   184.616 alone is cited by 727 of them. Occurrences are the blast radius; distinct targets are the number
   of things to actually resolve, and they are heavily concentrated, so the top handful clear thousands
@@ -15,17 +15,17 @@ note: 'Conflict candidates decidable BY CODE — no model involved. A hand-label
   these four types so the two passes do not overlap.'
 scanned_rules: 42561
 counts:
-  distinct_dead_targets: 1968
-  dead_citation_occurrences: 5515
-  documents_affected: 4528
-  dead_citations: 5515
+  distinct_dead_targets: 1972
+  dead_citation_occurrences: 5520
+  documents_affected: 4532
+  dead_citations: 5520
   corpus_gap_not_ingested: 575
   lapsed_but_current: 78
   rule_predates_statute_amendment: 4452
   malformed_citations: 65
 dead_citations_by_cause:
   chapter_absent: 146
-  oar_unclassified: 1022
+  oar_unclassified: 1027
   renumbered_or_repealed: 4347
 cause_meanings:
   renumbered_or_repealed: the chapter is current, but this section has left its table of contents
@@ -6290,6 +6290,9 @@ dead_citations:
 - rule: oar-414-210-0100
   cites: ORS 189.020
   cause: renumbered_or_repealed
+- rule: oar-414-210-0200
+  cites: OAR 414-210-0750
+  cause: oar_unclassified
 - rule: oar-414-300-0040
   cites: ORS 657A.260
   cause: renumbered_or_repealed
@@ -6365,6 +6368,9 @@ dead_citations:
 - rule: oar-414-305-0120
   cites: ORS 329.250
   cause: renumbered_or_repealed
+- rule: oar-414-305-0200
+  cites: OAR 414-305-0750
+  cause: oar_unclassified
 - rule: oar-414-305-0350
   cites: OAR 414-305-0000
   cause: oar_unclassified
@@ -6380,9 +6386,18 @@ dead_citations:
 - rule: oar-414-320-0100
   cites: ORS 189.020
   cause: renumbered_or_repealed
+- rule: oar-414-320-0200
+  cites: OAR 414-305-0750
+  cause: oar_unclassified
+- rule: oar-414-320-0200
+  cites: OAR 414-320-0750
+  cause: oar_unclassified
 - rule: oar-414-360-0100
   cites: ORS 189.020
   cause: renumbered_or_repealed
+- rule: oar-414-360-0200
+  cites: OAR 414-360-0750
+  cause: oar_unclassified
 - rule: oar-414-400-0000
   cites: ORS 657A.010
   cause: renumbered_or_repealed

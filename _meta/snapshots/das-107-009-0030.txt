@@ -1,113 +1,174 @@
-                                                       NUMBER                        SUPERSEDES
+FAIR ACCESS IN PUBLIC PROCUREMENT
+NUMBER: 107-009-0030
+EFFECTIVE DATE: July 27, 2026
+DIVISION: Enterprise Goods & Services
+POLICY OWNER: State Procurement Services
+INTERNAL OR STATEWIDE: Statewide
+LAST REVIEWED DATE: July 27, 2026
+SUPERSEDES: Policy 107-009-0030 and Procedure 107-009-0030_PR
+(Business Equity, Inclusion and Engagement in Public Procurement, 2020)
+PAGE NUMBER: Page 1 of 5
+REFERENCE/AUTHORITY:
 
-                                                       107-009-0030                  Policy 107-009-0030-PO
-                                                                                     Jan. 1, 2014
- STATEWIDE POLICY                                      EFFECTIVE DATE                PAGE NUMBER
-                                                       December 16, 2020
-                                                       REVIEWED DATE                 Pages 1 of 2
-                                                       December 16, 2020
- Division                                              REFERENCE
- Enterprise Goods & Services                           Oregon Revised Statute (ORS) 174.112, 184.340, 200.005-
-                                                       200.045, 200.090, 279A.100, and 279A.140; Oregon
- Policy Owner                                          Administrative Rules (OAR) 125-246-0200 and 125-246-0110;
-                                                       Executive Order 18-03; DAS Statewide Policy 107-009-0020
- Procurement Services                                  Statewide Procedure 107-009-0030_PR
-
- SUBJECT                                               APPROVED SIGNATURE
- Business Equity, Inclusion and Engagement
- in Public Procurement                                 Katy Coba, Director/Chief Operating Officer
-                                                                            N
-                                                       (signature on file with DAS Business Services)
-
-PURPOSE
-                                                       EV
-policy and related procedure.                             IS
-This policy provides direction to state agencies for the advancement of business equity, inclusion and
-engagement in procurement activities and identifies those with the authority and responsibility to implement the
-
-                                                             IO
-POLICY
-
-                                                       R
-Business Equity, Inclusion and Engagement in Public Procurement refers to the process of intentionally
-including businesses owned by minorities, women, service-disabled veterans and emerging small businesses
-to participate in procurement activities and to promote business engagement.
-                                        ER
-It is the policy of Oregon state government to provide equal access and opportunity to all Oregon businesses
-by facilitating equity and fairness in the procurement activities administered by state agencies, boards and
-commissions.
-
-APPLICABILITY
-                             ND
-                        U
-This policy applies to all state agencies, boards and commissions within the Executive Branch, as defined by
-ORS 174.112. State agencies, cities, counties, and other public entities outside the Executive Branch are
-encouraged to develop, implement, and participate in accordance with this policy and related procedure as
-appropriate and to the extent allowable by law.
-
-The policy is intended to function in addition to other existing legal responsibilities related to the procurements
-of state agencies, boards or commissions.
-
-INSTRUCTIONS
-
-Refer to DAS Statewide Procedure 107-009-0030_PR: https://www.oregon.gov/das/Policies/107-009-
-0030_PR.pdf.
+   •   ORS 184.340, 200.005-200.045, 200.090, 279A, 279B
+   •   House Bill 2337 (2025)/ Oregon Laws 2025, Chapter 483
+   •   OAR 125-246-0200,125-246-0230, 125-247-0200, 125-247-0265, 125-247-0270
+   •   Executive Order 22-15
+APPROVED SIGNATURE:
 
 
 
 
-Policy No: 107-009-0030 | Effective Date: 12/16/2020                                                          Page 1 of 2
-DEFINITIONS
-
-All capitalized terms in this policy are defined in OAR 125-246-0110. Capitalized terms not defined in the
-aforementioned OAR, are defined as set forth below.
-
-Agencies means all state agencies, boards and commissions within the Executive Branch, as defined by ORS
-174.112.
-
-COBID Certified Firms means qualified COBID firms certified by COBID and listed in the COBID Vendor
-Directory.
-
-Engagement is a value-added set of strategies, activities and partnerships designed to support and promote
-economic prosperity by providing valuable information, tools and resources to businesses interested in
-contracting with public agencies.
-
-Equity means seeking to ensure fair treatment, equality of opportunity, and fairness in access to information
-and resources for all Oregon businesses.
-
-Inclusion is actively inviting the participation of Oregon businesses, with intentional invitation expanding to
-COBID Certified Firms.                                                    N
-                                                       EV
-Provider means collectively or in the alternative, the Supplier, Contractor, Consultant or Business.
-
-
-
-                                                          IS
-EXPECTATIONS
-
-Roles and Responsibilities:
-                                                             IO
-    1. Executive Branch agencies must follow the procedures outlined in Statewide Procedure
-       107-009-0300_PR in complying with this policy.
-                                                       R
-    2. The State Chief Procurement Officer will provide training and instructional opportunities to ensure
-       Agencies staff are equipped with the necessary knowledge and skills to comply with the standards,
-                                        ER
-       duties and responsibilities set out in this policy and related procedure.
-
-    3. Agencies managers must ensure any person under their control has adequate training and is prepared
-
-                             N
-       to conduct a procurement activity in accordance with this policy.
-
-                              D
-    4. Any person who conducts a procurement activity for state agencies, boards or commissions must
-       adhere to the requirements of this policy and related procedure in conducting the procurement
-       activities.
-                        U
+_______________________________________
+Betsy Imholt, DAS Director
 
 
 
 
-Policy No: 107-009-0030 | Effective Date: 12/16/2020                                                     Page 2 of 2
+Statement
+It is the policy of Oregon state government to ensure fair access and opportunity for all
+Oregon businesses by promoting Equity, Inclusion, and Engagement in Procurement
+activities. This policy provides the framework and standards State Agencies must follow to
+promote fair access throughout the Procurement process and to support consistent,
+transparent, and equitable Procurement practices.
+
+
+
+
+Policy No: 107-009-0030 | Effective: 7/27/2026 | Reviewed: 7/27/2026            Page 1 of 5
+Applicability
+This policy applies to all State Agencies unless an agency has its own statutory
+Procurement authority under ORS 279A.050 or another law. All State Agencies and units of
+Local Government are encouraged to adopt this policy as appropriate and allowed by law.
+This policy supplements existing public Procurement requirements.
+
+Definitions
+Capitalized terms are defined in ORS 279A.010 unless otherwise defined below:
+
+Certification Office for Business Inclusion and Diversity (COBID): The office in Business
+Oregon that certifies eligible businesses interested in contracting with government
+entities.
+
+COBID Certified Firms: Businesses certified by COBID and listed in the COBID Certified
+Vendor Directory.
+
+COBID Certified Vendor Directory: The official, online listing of COBID Certified Firms.
+
+Engagement: Strategies, activities, and partnerships designed to support and promote
+economic opportunities by providing businesses with tools, resources, and information to
+participate in public Procurement.
+
+Equity: Ensuring fair treatment, equal opportunity, and access to information and
+resources for all Oregon businesses.
+
+Governor’s Policy Advisor: The Policy Advisor for Economic and Business Equity,
+appointed by the Governor.
+
+Inclusion: Actively inviting participation from Oregon businesses, with a focus on COBID
+Certified Firms.
+
+Oregon Small Business Enterprise (OSBE): A type of COBID Certified Firm, specifically
+designated as an Oregon Small Business Enterprise.
+
+Supplier: A general term for a vendor, provider, Contractor, or Consultant.
+
+
+
+
+Policy No: 107-009-0030 | Effective: 7/27/2026 | Reviewed: 7/27/2026             Page 2 of 5
+Targets and Goals
+To address the inequities shown in Oregon’s 2023 Disparity Study, State Agencies must
+strive to allocate at least 11% of their non-Price Agreement Public Contract spend to
+COBID Certified Firms.
+
+General Information
+Expectations
+1. State Agencies that use a Procurement system other than the state’s e-Procurement
+   system must collect race and gender data for its Suppliers, including prime and
+   subcontractors, as outlined in Executive Order 22-15.
+2. The state’s e-Procurement system will collect race and gender data from all Suppliers,
+   including prime and subcontractors, for Procurements stored in the system. This data
+   will rely on voluntary self-identification by Suppliers.
+3. State Agencies are responsible for determining whether Suppliers, Goods, and Services
+   meet their needs. This determination may include schedule and budget constraints.
+4. DAS will provide training and resources to help State Agencies implement this policy.
+5. DAS will analyze data and publish dashboards and reports on state Procurements,
+   including usage of COBID Certified Firms, to the extent data is available.
+Business Engagement
+When possible, seek to expand Procurement opportunities for COBID Certified Firms by
+engaging in activities such as:
+1. Hosting or participating in open houses, trade shows, and local and regional outreach
+    events;
+2. Attending or supporting events coordinated by the Governor’s Office;
+3. Forecasting and publishing planned Procurement opportunities well in advance of the
+    Procurement;
+4. Advertising Procurement opportunities in publications or through alternative channels
+    that target COBID Certified Firms;
+5. Contacting COBID for assistance finding or reaching COBID Certified Firms and
+    selecting appropriate NIGP codes;
+6. Providing information and training to help Suppliers prepare for Public Contracts;
+7. Exploring outreach strategies to connect with diverse Suppliers;
+8. Assisting COBID Certified Firms with using the state’s e-Procurement system;
+9. Using the contract preferences available under ORS 279A; and
+10. Offering post-award debriefs as a best practice to support future participation.
+
+
+
+
+Policy No: 107-009-0030 | Effective: 7/27/2026 | Reviewed: 7/27/2026           Page 3 of 5
+Notify the Governor’s Policy Advisor
+Posting solicitations and Public Contracts in the state’s e-Procurement system satisfies
+the notification requirements in ORS 200.035. State Agencies that use other Procurement
+systems must establish their own processes to comply with ORS 200.035.
+
+Promote Fair Access in Solicitations and Public Contracts
+State Agencies must ensure solicitation and Public Contract requirements promote fair
+access. To encourage competition and access, consider the following practices:
+1. Use plain language and straightforward requirements;
+2. Limit addenda and attachments to those required to conduct the Procurement;
+3. Align risk with insurance and use the Risk Assessment Tool;
+4. Conduct market research on industry standards and pricing;
+5. Consider the size, scope, and location of the Procurement;
+6. Set experience requirements based on actual need;
+7. Allow Suppliers to determine their availability and willingness to travel; and
+8. Use payment terms that support prompt pay to Suppliers.
+
+Mandatory Solicitation Language
+All solicitations must include:
+1. The statement of values required by Executive Order 22-15 and available on DAS’
+   website; and
+2. Notice that an OSBE preference will be applied according to OAR 125-246-0230, as
+   applicable.
+
+Oregon Small Business Enterprise Preference
+State Agencies must apply the OSBE preference according to OAR 125-246-0230
+(Preference for Oregon Small Business Enterprises) and OAR 125-247-0200 (Buy Decision
+and Methods of Source Selection). This requirement applies regardless of payment
+method, including a SPOTS card.
+1. If an OSBE can meet a need, and the State Agency awards to a Supplier that is not an
+   OSBE, the Procurement file must include documentation to explain the award decision.
+2. If no OSBE can meet the need, the Procurement file must contain evidence of the
+   attempt to use an OSBE (e.g., screenshots of COBID Certified Vendor Directory
+   searches, email exchanges with COBID or OSBEs, a failed solicitation, etc.). State
+   Agencies are encouraged to contact COBID at biz.cobid@bizoregon.gov for search
+   assistance.
+3. Procurement records related to the OSBE preference must be made available for
+   review upon request by the Governor’s Policy Advisor, the Chief Procurement Officer,
+   or COBID.
+
+
+
+Policy No: 107-009-0030 | Effective: 7/27/2026 | Reviewed: 7/27/2026           Page 4 of 5
+4. State Agencies must submit semi-annual OSBE Procurement activity reports to DAS,
+   using a DAS reporting process, as follows:
+
+   Table: Reporting Due Dates
+    Reporting Period                            Due Date
+    Period 1 (January – June)                   August 15
+    Period 2 (July – December)                  February 15
+
+
+
+
+Policy No: 107-009-0030 | Effective: 7/27/2026 | Reviewed: 7/27/2026        Page 5 of 5
 

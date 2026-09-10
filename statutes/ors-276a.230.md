@@ -31,6 +31,7 @@ relationships:
   implements: []
   implemented_by:
     - das-107-004-030
+    - das-107-004-052
   references_external: []
   related: []
   supersedes: []

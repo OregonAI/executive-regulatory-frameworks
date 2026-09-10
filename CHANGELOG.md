@@ -11,6 +11,106 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Source-Updated
+- 2026-09-09 — **DAS re-issued its 26 drifted statewide policies in August 2026** (third group
+  of the re-ingest queue). Every one is on a new masthead — `NUMBER:` / `EFFECTIVE DATE:` /
+  `POLICY OWNER:` / `DIVISION:` / `INTERNAL OR STATEWIDE POLICY:` / `LAST REVIEWED DATE:` /
+  `SUPERSEDES:` / `PAGE NUMBER:` / `REFERENCE/AUTHORITY:` — with new effective dates (mostly
+  August 1 or August 21, 2026) and a `SUPERSEDES:` line naming the prior version.
+
+  The re-template is not the whole story, which is why this was measured with the repo's own
+  extractor (`ingest_lib.clean_pdf_text`, furniture stripped) rather than by eyeballing the
+  header. Body-text retention, as 8-word shingles surviving from the old text — a lower bound,
+  since reflow alone breaks shingles:
+
+  | policy | body kept | words |
+  |---|---|---|
+  | `das-107-009-0030` | **1.1%** | 555 → 1,035 |
+  | `das-10-011-01` Personnel Records | **13.1%** | 581 → 800 |
+  | `das-50-035-01` | 35.3% | 393 → 395 |
+  | `das-60-000-11` | 36.8% | 377 → 390 |
+  | `das-40-080-01` | 40.9% | 249 → 269 |
+  | the other 21 | 50–82% | — |
+
+  `das-107-009-0030` is not a re-template at all: 1.1% of its body survives and it is retitled
+  from *Business Equity, Inclusion and Engagement in Public Procurement* to *Fair Access in
+  Public Procurement*. It is a replacement policy wearing the old number. See the retitling
+  entry below.
+
+  **Five of the 26 were retitled upstream**, so the document's `title`, its `# ` heading and the
+  manifest `notes` now name what the source names itself:
+
+  | id | was | is |
+  |---|---|---|
+  | `das-107-009-0030` | Business Equity, Inclusion and Engagement in Public Procurement | **Fair Access in Public Procurement** |
+  | `das-40-080-01` | Reemployment | Rehire |
+  | `das-50-030-01` | Restoration of **Removed** Management Service Employees | Restoration of Management Service Employees |
+  | `das-60-000-03` | Oregon Family Leave Act | Oregon Family Leave Act (OFLA) |
+  | `das-60-000-15` | Family and Medical Leave | Federal Family and Medical Leave Act (FMLA) |
+
+  Each document's `## At a glance` line still carries the older name, because that line is
+  explicitly attributed to the *policies listing of record* — the committed listing snapshot,
+  dated 2026-07-18 — and refreshing that snapshot is intake-gated. The two are now visibly
+  dated claims about two dated sources rather than one silent contradiction. `citation` is
+  listing-derived for the same reason and keeps `(under revision)` on `das-107-009-0030`.
+
+  **`das-107-009-0030` answers a question that was open about the withdrawn-document list.** Its
+  own masthead reads: `SUPERSEDES: Policy 107-009-0030 and Procedure 107-009-0030_PR (Business
+  Equity, Inclusion and Engagement in Public Procurement, 2020)`. So `das-107-009-0030_pr` — one
+  of the documents a 404 had suggested was simply withdrawn — is *superseded*, and Oregon says
+  so in the replacing document. That is a supersession to record, not an absence to delete.
+
+  Manifest baselines re-seeded from the committed `.pdf` snapshots with the drift detector's
+  formula; **26 of 26 reproduce the hash the drift run observed**. Dates carry
+  `refresh_document`'s TODO marker for human transcription (HC-1).
+
+- 2026-09-09 — **The other 28 chapter-414 rules re-ingested: DELC rolls Every Child Belongs
+  through the chapter** (second group of the re-ingest queue; the mechanical 16 landed in the
+  entry below). These are the rows the renumbering PR deliberately left behind because they
+  carry substantive edits. One filing programme accounts for nearly all of them:
+
+  - **A new defined term.** `“Every Child Belongs (ECB)” is Oregon's early childhood suspension
+    and expulsion prevention program` enters the definitions rule of divisions 210, 305 and 320
+    (`-0100`), which is what shifted every later subsection number and produced the 16
+    cross-reference renumberings. Division 360's `-0100` re-numbers from a new `(1)` instead.
+  - **A new required policy.** Each program's records/handbook list gains a
+    "Suspension and expulsion prevention policy" item citing the division's own `-0750` rule —
+    `(h)` in 210, `(u)` in 305, `(z)` in 320, `(j)` in 360 (`-0200`), and again in the parent
+    handbook rules (`-0260`).
+  - **A new notification duty.** Each `-0720` (physical restraint) rule gains subsection (7):
+    the provider must contact Every Child Belongs when physical restraint is used more than
+    once on a specific young child. Transcribed as filed, including division 320's
+    `In not done previously` where the other three read `If not done previously`.
+  - **Temporary safety-based intervention** added to the reportable-actions lists in the
+    `-0270` rules.
+  - **Medical care plans rewritten** in the `-1050` rules: a new subsection (1) defining
+    "qualified professional", and the duty restated around a written care plan rather than
+    around a child "who has or is at increased risk for" a condition.
+  - **Division 580 renamed throughout**: "Early Childhood Care and Education Provider" becomes
+    "Early Learning and Care Program", and "the Early Childhood Suspension and Expulsion
+    Prevention Program" becomes "Every Child Belongs".
+
+  Also picked up in passing, since re-ingest takes the page as filed: `oar-414-210-0270` had
+  cited `414-360-0720` where it means `414-210-0720` — a wrong-division cross-reference this
+  corpus was mirroring faithfully, now corrected upstream.
+
+  Two things this re-ingest exposed, both left as found rather than edited:
+
+  - **The corpus holds none of the four `-0750` rules the new text points at.**
+    `_meta/catalog/mechanical-findings.yml` gains five dead citations against
+    `OAR 414-210-0750`, `414-305-0750`, `414-320-0750` and `414-360-0750` — the suspension and
+    expulsion prevention rules that the whole Every Child Belongs programme hangs on. Distinct
+    dead targets 1,968 → 1,972. They are a corpus gap, not a drafting error; filed for ingest.
+  - **`oar-414-320-0200(7)(d)` cites `OAR 414-305-0750`** — the certified-centers division's
+    rule — inside a certified-ONB-program rule, where every sibling reference in the same
+    document reads `414-320-`. It reads like an upstream slip, but it is what DELC filed, so it
+    is mirrored as filed and reported here rather than silently corrected.
+
+  Manifest baselines re-seeded from the committed `.html` snapshots with the drift detector's
+  formula, `content_hash(raw, "html", volatile_patterns)`; **28 of 28 reproduce the hash the
+  2026-09-03 drift run observed**. Not written through `check_updates.py --refresh` (#383).
+  Effective/reviewed dates carry `refresh_document`'s TODO marker for human transcription
+  (HC-1) and reach `review_queue.py`.
+
 - 2026-09-09 — **16 chapter-414 rules re-ingested: a cross-reference renumbering, and nothing
   else** (first group of the ~191-document re-ingest queue). Each of these rules cites a
   definition by subsection number in its own division's `-0100` definitions rule, and DELC's

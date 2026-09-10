@@ -13,8 +13,8 @@ sources:
   notes: Definitions, Human Resource
 - id: das-10-011-01
   url: https://www.oregon.gov/das/Policies/10-011-01.pdf
-  sha256: 6a06eca86fa41fce9d9b77021defa2e949dd9a3f21cfcbc532f547605714be2c
-  last_checked: '2026-07-18'
+  sha256: cb4a7dbef077ff177b8653d232f27423a9bc2129bd979c65d21a64b97d5d0a4f
+  last_checked: '2026-09-09'
   notes: Personnel Records
 - id: das-10-025-01
   url: https://www.oregon.gov/das/Policies/10-025-01.pdf
@@ -28,8 +28,8 @@ sources:
   notes: Support of Employee's Work and Life Balance
 - id: das-10-040-01
   url: https://www.oregon.gov/das/Policies/10-040-01.pdf
-  sha256: 13ea56cdd4aba3a2d554152369271ab295a22b15b89b969dfe5760bc729342b5
-  last_checked: '2026-07-18'
+  sha256: f39a0f96ea530d5ef3b86fcfc48278bc4ec1efc06b2a532d27178249ca394d48
+  last_checked: '2026-09-09'
   notes: Statewide Workforce Learning and Development
 - id: das-105-001-0000
   url: https://www.oregon.gov/das/Policies/Link%20to%20OAR-02.pdf
@@ -148,13 +148,13 @@ sources:
   notes: Controlling Portable and Removable Storage Devices
 - id: das-107-004-052
   url: https://www.oregon.gov/das/Policies/107-004-052.pdf
-  sha256: f1f6759cf76b92ade851db5ec0a57cf45ad94ecf642ad56f3d14bc1dcb61d312
-  last_checked: '2026-07-18'
+  sha256: cd45fb18094f59b9daf13d7149cecb1be8a0ee78f05d0fda9804dc44cb92262e
+  last_checked: '2026-09-09'
   notes: Cyber and Information Security
 - id: das-107-004-052_pr
   url: https://www.oregon.gov/das/Policies/107-004-052_PR.pdf
-  sha256: 4b4e7159961cfc11a6ed28d79f9fed4d3fcda7295f63a6ff7651608233dc76b0
-  last_checked: '2026-07-18'
+  sha256: 1ac81c1d6606b4a00eae0e2c1a2fd3adac3dd939f39fb19de34949acaef5e3e8
+  last_checked: '2026-09-09'
   notes: Cyber and Information Security Procedure
 - id: das-107-004-053
   url: https://www.oregon.gov/das/Policies/107-004-053.pdf
@@ -253,9 +253,9 @@ sources:
   notes: Oregon Procurement Information Network (ORPIN)
 - id: das-107-009-0030
   url: https://www.oregon.gov/das/Policies/107-009-0030.pdf
-  sha256: fa14470044167c0f87f2836221c2b54dc61c5a091110427588c14e1a1a04fc73
-  last_checked: '2026-07-18'
-  notes: Business Equity, Inclusion and Engagement in Public Procurement
+  sha256: 1cde88d5ee2e329f628fb8cfb0cbd4c6216b03e769d1273dfa856e68581c9755
+  last_checked: '2026-09-09'
+  notes: Fair Access in Public Procurement
 - id: das-107-009-0030_pr
   url: https://www.oregon.gov/das/Policies/107-009-0030_PR.pdf
   sha256: d7e0587a200f22abb359f51e1ac9f90d127df5d4cf40f13ee60ca018720a6544
@@ -403,8 +403,8 @@ sources:
   notes: Exceptions to Hay Evaluated Salary
 - id: das-20-005-20
   url: https://www.oregon.gov/das/Policies/20-005-20.pdf
-  sha256: 7017c865628a7b65ac82fa0ea77d3f409dc21b2892ff95af289c407383de319a
-  last_checked: '2026-07-18'
+  sha256: 1094844092fb328241c05bb136c968122b8a51864e1cd94686815926c0573153
+  last_checked: '2026-09-09'
   notes: Fair Labor Standards Act
 - id: das-30-000-01
   url: https://www.oregon.gov/das/Policies/30-000-01.pdf
@@ -423,8 +423,8 @@ sources:
   notes: Effect of Position Classification Change on Incumbents
 - id: das-40-010-02
   url: https://www.oregon.gov/das/Policies/40-010-02.pdf
-  sha256: c615ff258f64e0ec4e5ba70e1d1afa986134113a0bee863f6153438d13242b7c
-  last_checked: '2026-07-18'
+  sha256: ddaba8fbaa880d1233223e5511403334feb06ea5229b75c0d679089052bf2bd2
+  last_checked: '2026-09-09'
   notes: Recruitment and Selection
 - id: das-40-025-01
   url: https://www.oregon.gov/das/Policies/40-025-01.pdf
@@ -448,8 +448,8 @@ sources:
   notes: Transfers
 - id: das-40-055-04
   url: https://www.oregon.gov/das/Policies/40-055-04.pdf
-  sha256: 6e25716c2930d00f031a4908f828775d53e142ef7cd5696261cf48c1e4243d12
-  last_checked: '2026-07-18'
+  sha256: 3c53d531b6651023ec7ef3fe92355b4118e2e812534c74f17e9dd3d0d4c2d79a
+  last_checked: '2026-09-09'
   notes: Candidate Preference in Employment
 - id: das-40-055-10
   url: https://www.oregon.gov/das/Policies/40-055-10.pdf
@@ -468,18 +468,18 @@ sources:
   notes: Trial Service Period
 - id: das-40-080-01
   url: https://www.oregon.gov/das/Policies/40-080-01.pdf
-  sha256: 9195263bf0f5a56d5356d0a46408ca148cfa60e23f300a2b7ddcdc538d554d39
-  last_checked: '2026-07-18'
-  notes: Reemployment
+  sha256: 04d018cee4659effd48323309b67de75a867aedd69d759bd025c7427f3bdbbd6
+  last_checked: '2026-09-09'
+  notes: Rehire
 - id: das-50-000-01
   url: https://www.oregon.gov/das/Policies/50-000-01.pdf
-  sha256: 652a7e94cf677c677a38565ddc92113d1d0c2cbdad806c7df140177b4678ac83
-  last_checked: '2026-07-18'
+  sha256: d1a7a7fab37d3730b6e4c90fd8e8d4d144b0e1b0a3739e42e5edba7468a1a61d
+  last_checked: '2026-09-09'
   notes: Drug Free Workplace
 - id: das-50-000-02
   url: https://www.oregon.gov/das/Policies/50-000-02.pdf
-  sha256: bb9f434a723782eeb1412d28d1d488bfbd20859aac01c297beb9401a1a7a5098
-  last_checked: '2026-07-18'
+  sha256: 8596d4d42f4e78f37666d153eb46e02ecfe33a5e8c824434ff6cc21ace199b5a
+  last_checked: '2026-09-09'
   notes: Drug Testing of Employees in Designated Job Profiles
 - id: das-50-010-01
   url: https://www.oregon.gov/das/Policies/50-010-01.pdf
@@ -498,8 +498,8 @@ sources:
   notes: Maintaining a Professional Workplace
 - id: das-50-010-04
   url: https://www.oregon.gov/das/Policies/50-010-04.pdf
-  sha256: 9fec51a831dade9b24c6adb24fac52935b76351474b8d8d9dda853e2418929e5
-  last_checked: '2026-07-18'
+  sha256: d5087a9f0887f655a31510d8c714051cd41324bae240d5185771a83d75a641f1
+  last_checked: '2026-09-09'
   notes: Workplace Effects of Domestic Violence, Harassment, Sexual Assault, and Stalking
 - id: das-50-010-05
   url: https://www.oregon.gov/das/Policies/50-010-05.pdf
@@ -538,18 +538,18 @@ sources:
   notes: ADA and Reasonable Accommodation in Employment
 - id: das-50-025-01
   url: https://www.oregon.gov/das/Policies/50-025-01.pdf
-  sha256: cc4bb085bdb33dcb57c6aa177409909261a6dabdc0ef2f561f195cb8437b12cc
-  last_checked: '2026-07-18'
+  sha256: 9c8a0803a0b55bcf109a71951401d00126d4e51f0d7db6deacaaee462dd050da
+  last_checked: '2026-09-09'
   notes: Layoff/Removal
 - id: das-50-030-01
   url: https://www.oregon.gov/das/Policies/50-030-01.pdf
-  sha256: 73bb9f0be48cc4f6ccf2c3d8d46178bb1ba0ad39c7e717a303ff5425ab08f0e4
-  last_checked: '2026-07-18'
-  notes: Restoration of Removed Management Service Employees
+  sha256: abc6ac4b307dadb28a07c50e65b174f1630015af6ca039d99ae10a906614c772
+  last_checked: '2026-09-09'
+  notes: Restoration of Management Service Employees
 - id: das-50-035-01
   url: https://www.oregon.gov/das/Policies/50-035-01.pdf
-  sha256: 2da88d46a01d795291138e1daab7ed939163f346ea86aacbb50f0981a9ba7e13
-  last_checked: '2026-07-18'
+  sha256: 00640a17be4dbac346f528b7a533bda01448d6de49515554a81e74dcf3c7228b
+  last_checked: '2026-09-09'
   notes: Performance Management Process
 - id: das-50-040-01
   url: https://www.oregon.gov/das/Policies/50-040-01.pdf
@@ -568,28 +568,28 @@ sources:
   notes: Transition of Agency Head
 - id: das-50-070-01
   url: https://www.oregon.gov/das/Policies/50-070-01.pdf
-  sha256: 70eaee0bb9dbcf75a85bc180cbe012471f47aaf2d9e790a9f8a51768606f8014
-  last_checked: '2026-07-18'
+  sha256: 50705cc0b5918660888f062b0999fa2c8b789e406a85bfb79981d51e01ee29fe
+  last_checked: '2026-09-09'
   notes: Patient Protection and Affordable Care Act
 - id: das-50-090-01
   url: https://www.oregon.gov/das/Policies/50-090-01.pdf
-  sha256: 8c5ea918062551c7a7465d0ed87cfbbd4006598a5bca558a8f045169c70e289e
-  last_checked: '2026-07-18'
+  sha256: 4689b0e19626585d98e4a7101fc4ee876122e94678758553e53cc7ebca4e9b89
+  last_checked: '2026-09-09'
   notes: Managing Improper Governmental Conduct
 - id: das-60-000-01
   url: https://www.oregon.gov/das/Policies/60-000-01.pdf
-  sha256: 2e6162f9438911022fc1b7af73d940c7c52ad5d27ae25b4e96dde3a0033c4d71
-  last_checked: '2026-07-18'
+  sha256: 6713ddc78ff713a8f8fff0721aee7472389b76ad50ccbdda994bf65c3a5b60bd
+  last_checked: '2026-09-09'
   notes: Sick Leave With Pay
 - id: das-60-000-03
   url: https://www.oregon.gov/das/Policies/60-000-03.pdf
-  sha256: cc49730406789708693f3c859b7dec2ba6e60bef4b98dde681de1a4ed87e4e1e
-  last_checked: '2026-07-18'
-  notes: Oregon Family Leave Act
+  sha256: 60b19f4e4430ae062c5a1a11a7773e3e64c7c456b0b25754f4824d169a88354a
+  last_checked: '2026-09-09'
+  notes: Oregon Family Leave Act (OFLA)
 - id: das-60-000-04
   url: https://www.oregon.gov/das/Policies/60-000-04.pdf
-  sha256: 301ad0d2e9c7e83f0d087dda159b7ff30bfc0702c6352d0cb671ec58f67ca27f
-  last_checked: '2026-07-18'
+  sha256: 7a86ca67f2ef28ea039656139efbd81f9fe95f4bcb0a617a7e7a930a776698ec
+  last_checked: '2026-09-09'
   notes: Paid Leave Oregon
 - id: das-60-000-05
   url: https://www.oregon.gov/das/Policies/60-000-05.pdf
@@ -603,8 +603,8 @@ sources:
   notes: Special Leaves With Pay
 - id: das-60-000-11
   url: https://www.oregon.gov/das/Policies/60-000-11.pdf
-  sha256: dc9ce74fe02da0cf2ff40b4fb9f32e28ed2e8107eeab78438f4c2cd2c88a002b
-  last_checked: '2026-07-18'
+  sha256: c01cc5ae33fb21313214d2800c9093db1ac13e68f8d03db64cc461a431122516
+  last_checked: '2026-09-09'
   notes: Leaves without Pay
 - id: das-60-000-12
   url: https://www.oregon.gov/das/Policies/60-000-12.pdf
@@ -613,9 +613,9 @@ sources:
   notes: Statutorily Required Leaves with and without Pay
 - id: das-60-000-15
   url: https://www.oregon.gov/das/Policies/60-000-15.pdf
-  sha256: 1407445c46afff2e1af246ce1f411f92935ac62d63a27c7f752f0b131d229027
-  last_checked: '2026-07-18'
-  notes: Family and Medical Leave
+  sha256: a62703a6dc3a7cdb7615fa8c7112b849c675a0f6421144e51d2b0624a8d13a8d
+  last_checked: '2026-09-09'
+  notes: Federal Family and Medical Leave Act (FMLA)
 - id: das-60-000-20
   url: https://www.oregon.gov/das/Policies/60-000-20.pdf
   sha256: b84722b9dd3a0182897afa1596e286a9a5c0777912cf76259933abcd57e77a6b
@@ -623,8 +623,8 @@ sources:
   notes: Alternate Leave Provisions
 - id: das-60-000-25
   url: https://www.oregon.gov/das/Policies/60-000-25.pdf
-  sha256: 20957ac8ed8297e0052132a1b1c734d8d06e35e3beb0a858c70f716c8540656e
-  last_checked: '2026-07-18'
+  sha256: 3b22aac8b48bfbde58a88a5dd283a0372d83761382d71437566625858c31aee6
+  last_checked: '2026-09-09'
   notes: Military Leave
 - id: das-60-000-30
   url: https://www.oregon.gov/das/Policies/60-000-30.pdf
@@ -633,8 +633,8 @@ sources:
   notes: Expression of Milk and Unpaid Rest Periods
 - id: das-60-010-01
   url: https://www.oregon.gov/das/Policies/60-010-01.pdf
-  sha256: d6c8e20fbc921f038ba68c52e94a3402948fa95c378f741fef383d19ed3501f4
-  last_checked: '2026-07-18'
+  sha256: 08e53772ebb381402b488db4398a42e7f3ab5879c2df35c7322751bc944f5acb
+  last_checked: '2026-09-09'
   notes: Holiday Leave with Pay
 - id: das-60-015-01
   url: https://www.oregon.gov/das/Policies/60-015-01.pdf
@@ -643,13 +643,13 @@ sources:
   notes: Temporary Interruption of Employment
 - id: das-60-020-05
   url: https://www.oregon.gov/das/Policies/60-020-05.pdf
-  sha256: cf284b20c6deb942ec5bbebac850daaf225e025299f9bd7712d6c7b769a747ba
-  last_checked: '2026-07-18'
+  sha256: df59db630b478643e465833230d2992d9727424c7b32dfdb293e24ea01e49c6d
+  last_checked: '2026-09-09'
   notes: Military Donated Leave Program
 - id: das-60-025-01
   url: https://www.oregon.gov/das/Policies/60-025-01.pdf
-  sha256: 679183ce27208530409e8485e69a349975da0052eb4fa0753fee062803bb1dd7
-  last_checked: '2026-07-18'
+  sha256: 470e5c9e358078dabf6aa8b0f779a3fb53ced81c173e490636f72aef982a533c
+  last_checked: '2026-09-09'
   notes: Donated Leave
 - id: das-70-000-02
   url: https://www.oregon.gov/das/Policies/70-000-02.pdf

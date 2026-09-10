@@ -31,7 +31,6 @@ relationships:
   implements: []
   implemented_by:
     - das-107-009-0020
-    - das-107-009-0030
     - das-107-009-0030_pr
     - das-107-009-0080
     - oar-125-055-0100

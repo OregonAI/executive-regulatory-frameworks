@@ -28,13 +28,13 @@ summary:
   documents_scanned: 81921
   distinct_targets: 1358
   authority_claims_total: 1127
-  mentions_total: 9571
-  targets_resolving: 1
-  unresolved_authority_claims: 1112
+  mentions_total: 9573
+  targets_resolving: 42
+  unresolved_authority_claims: 528
 named_instruments:
 - instrument: hipaa
   authority_claims: 2
-  mentions: 404
+  mentions: 406
   resolves: false
 - instrument: wioa
   authority_claims: 0
@@ -42,7 +42,7 @@ named_instruments:
   resolves: false
 - instrument: ferpa
   authority_claims: 0
-  mentions: 23
+  mentions: 25
   resolves: false
 - instrument: perkins-cte
   authority_claims: 0
@@ -60,7 +60,7 @@ targets:
 - citation: 34 CFR 300
   authority_claims: 105
   mentions: 129
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-410-133-0040
   - oar-414-460-0000
@@ -120,7 +120,7 @@ targets:
 - citation: 7 CFR 273
   authority_claims: 33
   mentions: 57
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-461-001-0015
   - oar-461-001-0020
@@ -130,7 +130,7 @@ targets:
 - citation: 34 CFR 99
   authority_claims: 27
   mentions: 39
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-333-010-0600
   - oar-581-015-2000
@@ -140,7 +140,7 @@ targets:
 - citation: 34 CFR 303
   authority_claims: 20
   mentions: 28
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-410-133-0040
   - oar-581-015-2080
@@ -150,7 +150,7 @@ targets:
 - citation: 49 CFR 1520
   authority_claims: 19
   mentions: 21
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-741-065-0010
   - oar-741-065-0020
@@ -160,7 +160,7 @@ targets:
 - citation: 49 CFR 15
   authority_claims: 19
   mentions: 20
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-741-065-0010
   - oar-741-065-0020
@@ -170,7 +170,7 @@ targets:
 - citation: 45 CFR 260
   authority_claims: 17
   mentions: 22
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-461-135-0220
   - oar-461-135-1200
@@ -180,7 +180,7 @@ targets:
 - citation: 42 CFR 435
   authority_claims: 16
   mentions: 50
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-309-015-0052
   - oar-410-115-0010
@@ -190,7 +190,7 @@ targets:
 - citation: 17 CFR 230
   authority_claims: 16
   mentions: 32
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-123-052-1500
   - oar-170-061-0100
@@ -210,7 +210,7 @@ targets:
 - citation: 49 CFR 674
   authority_claims: 16
   mentions: 17
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-741-060-0010
   - oar-741-060-0020
@@ -220,7 +220,7 @@ targets:
 - citation: 45 CFR 400
   authority_claims: 16
   mentions: 16
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-461-110-0430
   - oar-461-110-0630
@@ -230,7 +230,7 @@ targets:
 - citation: 49 CFR 670
   authority_claims: 16
   mentions: 16
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-741-060-0010
   - oar-741-060-0020
@@ -240,7 +240,7 @@ targets:
 - citation: 49 CFR 671
   authority_claims: 16
   mentions: 16
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-741-060-0010
   - oar-741-060-0020
@@ -250,7 +250,7 @@ targets:
 - citation: 49 CFR 672
   authority_claims: 16
   mentions: 16
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-741-060-0010
   - oar-741-060-0020
@@ -260,7 +260,7 @@ targets:
 - citation: 49 CFR 673
   authority_claims: 16
   mentions: 16
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-741-060-0010
   - oar-741-060-0020
@@ -280,7 +280,7 @@ targets:
 - citation: 7 CFR 210
   authority_claims: 15
   mentions: 26
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-166-400-0010
   - oar-581-051-0100
@@ -290,7 +290,7 @@ targets:
 - citation: 28 CFR 23
   authority_claims: 15
   mentions: 16
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-137-090-0000
   - oar-137-090-0060
@@ -300,7 +300,7 @@ targets:
 - citation: 24 CFR 576
   authority_claims: 14
   mentions: 25
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-813-046-0011
   - oar-813-051-0010
@@ -310,7 +310,7 @@ targets:
 - citation: 49 CFR 580
   authority_claims: 14
   mentions: 15
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-735-024-0130
   - oar-735-028-0000
@@ -320,7 +320,7 @@ targets:
 - citation: 49 CFR 383
   authority_claims: 13
   mentions: 24
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-735-060-0001
   - oar-735-062-0084
@@ -330,7 +330,7 @@ targets:
 - citation: 6 CFR 37
   authority_claims: 12
   mentions: 25
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-735-062-0001
   - oar-735-062-0002
@@ -340,7 +340,7 @@ targets:
 - citation: 7 CFR 220
   authority_claims: 12
   mentions: 20
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-581-051-0305
   - oar-581-051-0306
@@ -350,7 +350,7 @@ targets:
 - citation: 7 CFR 226
   authority_claims: 12
   mentions: 19
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-581-051-0120
   - oar-581-051-0125
@@ -370,7 +370,7 @@ targets:
 - citation: 45 CFR 84
   authority_claims: 11
   mentions: 29
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-309-014-0035
   - oar-333-010-0165
@@ -400,7 +400,7 @@ targets:
 - citation: 7 CFR 225
   authority_claims: 10
   mentions: 17
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-581-051-0500
   - oar-581-051-0510
@@ -410,7 +410,7 @@ targets:
 - citation: 28 CFR 35
   authority_claims: 9
   mentions: 23
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-291-111-0110
   - oar-407-005-0010
@@ -420,7 +420,7 @@ targets:
 - citation: 42 CFR 600
   authority_claims: 9
   mentions: 14
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-410-115-0005
   - oar-410-115-0020
@@ -440,7 +440,7 @@ targets:
 - citation: 42 CFR 433
   authority_claims: 8
   mentions: 25
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-407-120-0320
   - oar-410-050-0700
@@ -450,7 +450,7 @@ targets:
 - citation: 45 CFR 261
   authority_claims: 8
   mentions: 21
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-461-025-0310
   - oar-461-110-0330
@@ -460,7 +460,7 @@ targets:
 - citation: 10 CFR 440
   authority_claims: 8
   mentions: 11
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-813-205-0000
   - oar-813-205-0005
@@ -470,7 +470,7 @@ targets:
 - citation: 7 CFR 250
   authority_claims: 8
   mentions: 10
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-581-051-0500
   - oar-581-051-0510
@@ -520,7 +520,7 @@ targets:
 - citation: 42 CFR 440
   authority_claims: 7
   mentions: 21
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-410-120-0000
   - oar-410-122-0080
@@ -530,7 +530,7 @@ targets:
 - citation: 23 CFR 645
   authority_claims: 7
   mentions: 7
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-734-054-0005
   - oar-734-054-0010
@@ -540,7 +540,7 @@ targets:
 - citation: 7 CFR 280
   authority_claims: 7
   mentions: 7
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-461-135-0492
   - oar-461-135-0493
@@ -560,7 +560,7 @@ targets:
 - citation: 7 CFR 248
   authority_claims: 6
   mentions: 15
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-333-052-0040
   - oar-333-052-0080
@@ -570,7 +570,7 @@ targets:
 - citation: 7 CFR 249
   authority_claims: 6
   mentions: 14
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-333-052-0040
   - oar-333-052-0080
@@ -639,7 +639,7 @@ targets:
 - citation: 45 CFR 98
   authority_claims: 3
   mentions: 8
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-414-061-0020
   - oar-414-061-0090
@@ -854,7 +854,7 @@ targets:
 - citation: 45 CFR 155
   authority_claims: 1
   mentions: 25
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-410-115-0015
   - oar-836-053-0050
@@ -913,7 +913,7 @@ targets:
   - oar-715-045-0019
 - citation: 29 CFR 825
   authority_claims: 1
-  mentions: 15
+  mentions: 16
   resolves: false
   cited_by_sample:
   - das-60-000-15
@@ -960,6 +960,16 @@ targets:
   - oar-461-001-0035
   - oar-461-125-0370
   - oar-461-135-0700
+- citation: 21 USC 812
+  authority_claims: 1
+  mentions: 8
+  resolves: false
+  cited_by_sample:
+  - das-50-000-01
+  - doc-20-6-2
+  - oar-407-005-0015
+  - oar-855-080-0020
+  - ors-475.065
 - citation: 42 USC 9902
   authority_claims: 1
   mentions: 8
@@ -970,16 +980,6 @@ targets:
   - oar-732-040-0005
   - ors-285a.194
   - ors-285b.178
-- citation: 21 USC 812
-  authority_claims: 1
-  mentions: 7
-  resolves: false
-  cited_by_sample:
-  - das-50-000-01
-  - doc-20-6-2
-  - oar-407-005-0015
-  - oar-855-080-0020
-  - ors-475.065
 - citation: 26 USC 414
   authority_claims: 1
   mentions: 7
@@ -1037,7 +1037,7 @@ targets:
 - citation: 45 CFR 75
   authority_claims: 1
   mentions: 3
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-410-153-0005
   - oar-461-135-1230
@@ -1419,7 +1419,7 @@ targets:
 - citation: 42 CFR 455
   authority_claims: 0
   mentions: 55
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-309-045-1020
   - oar-407-120-0310
@@ -2263,7 +2263,7 @@ targets:
 - citation: 42 CFR 447
   authority_claims: 0
   mentions: 12
-  resolves: false
+  resolves: true
   cited_by_sample:
   - oar-410-120-0000
   - oar-410-120-1260

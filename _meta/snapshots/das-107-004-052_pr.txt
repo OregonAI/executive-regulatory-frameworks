@@ -1,120 +1,141 @@
-                                                    NUMBER                          SUPERSEDES
+CYBER AND INFORMATION SECURITY
+NUMBER: 107-004-052_PR
+EFFECTIVE DATE: October 1, 2026
+DIVISION: Enterprise Information Services (State CIO)
+POLICY OWNER: Cyber Security Services
+INTERNAL/STATEWIDE: Statewide
+LAST REVIEWED DATE: July 28, 2026
+SUPERSEDES: Procedure #107-004-052_PR (2/17/2026)
+PAGE NUMBER: Page 1 of 3
+REFERENCE/AUTHORITY:
 
-                                                    107-004-052_PR                  New
- STATEWIDE PROCEDURE                                EFFECTIVE DATE                  PAGE NUMBER
-                                                    February 17, 2026
-                                                    REVIEWED DATE                   Pages 1 of 3
-                                                    December 2, 2025
- DIVISION                                           REFERENCE
+•   ORS 276A.300, 276A.303, 276A.306, 276A.323, 276A.326, 276A.329, 276A.332, 276A.335
+•   OAR 128-30
+•   Cyber and Information Security policy 107-004-052
 
- Enterprise Information Services                     •   ORS 276A.300, 276A.303, 276A.306, 276A.323,
-                                                         276A.326, 276A.329, 276A.332, 276A.335
- POLICY OWNER
-                                                     •   OAR 125-800
- Cyber Security Services                             •   Cyber and Information Security Policy 107-004-
-                                                         052
+APPROVED SIGNATURE:
 
- SUBJECT                                            APPROVED
 
- Cyber and Information Security                     ____________________________________________________________
-                                                    Terrence Woods, State Chief Information Officer
 
-PURPOSE
 
-This procedure describes Enterprise Information Services (EIS) and agency responsibilities and actions that
-must be followed to comply with Statewide Policy 107-004-052, Cyber and Information Security.
+_____________________________________________
+Terrence Woods, State Chief Information Officer
 
-APPLICABILITY
 
-Refer to Statewide Policy 107-004-052, Cyber and Information Security, for applicability of this procedure.
 
-EXHIBITS
 
+Statement
+This procedure describes Enterprise Information Services (EIS) and agency responsibilities
+and actions that must be followed to comply with Statewide Policy 107-004-052, Cyber
+and Information Security.
+
+Applicability
+Refer to Statewide Policy 107-004-052, Cyber and Information Security, for applicability of
+this procedure.
+
+
+
+
+Procedure No: 107-004-052_PREffective: 10/1/2026 Reviewed: 7/28/2026              Page 1 of 3
+Exhibits
    •   Cyber Security Services (CSS) Assessment Schedule
-   •   Attachment A: CSS assessment finding and recommendations template
+   •   Attachment A: CSS assessment findings and recommendations template
    •   Attachment B: Plan of Action and Milestones template
-   •   Attachment C: Request to use offshore or foreign services
+   •   Attachment C: Use of offshore or foreign computing services disclosure data
+       elements
 
-DEFINITIONS
-
+Definitions
 Refer to Statewide Policy 107-004-052, Cyber and Information Security, for definitions.
 
-
-
-
-Statewide Procedure No: 107-004-155_PR | Effective: 2/17/2026 Reviewed: 12/2/2025                        Page 1 of 3
-PROCEDURE
-
+Procedure
 ASSESSMENTS
 
- RESPONSIBILITY           STEP ACTION
- Cyber Security              1     Biennially, publish the CSS Assessment Schedule for two calendar years.
- Services (CSS)
+ RESPONSIBILITY         STEP    ACTION
+ Cyber Security           1     Biennially, publish the CSS Assessment Schedule for two
+ Services (CSS)                 calendar years.
 
- CSS                         2     Send assessment engagement letter to agency head and agency IT leader
-                                   for agency assessments in the upcoming quarter.
+ CSS                      2     Send assessment engagement letter to agency head and
+                                agency IT leader for agency assessments in the upcoming
+                                quarter.
 
- Agency head and             3     Attend CSS assessment engagement kickoff meeting with CSS.
+ Agency head and          3     Attend CSS assessment engagement kickoff meeting with CSS.
  agency IT leader
 
- CSS                         4     Conduct assessment of agency security program.
+ CSS                      4     Conduct assessment of agency security program.
 
- Agency                      5     Participate in CSS assessment of agency security program.
+ Agency                   5     Participate in CSS assessment of agency security program.
 
- Agency head and             6     Attend CSS assessment exit briefing where CSS will deliver and discuss
- agency IT leader                  findings and recommendations with the agency.
+ Agency head and          6     Attend CSS assessment exit briefing where CSS will deliver and
+ agency IT leader               discuss findings and recommendations with the agency.
 
- CSS                         7     Deliver final report to agency head and agency IT leader. (Attachments A)
- Agency                      8     Document plans of actions and milestones (POAM) and review at least
-                                   monthly. Quarterly, deliver updated status of identifying and implementing
-                                   remediations of findings and recommendations for outstanding critical
-                                   and severe findings. Required POAM elements are defined in Attachment
-                                   B.
+ CSS                      7     Deliver final report to agency head and agency IT leader.
+                                (Attachment A)
 
-                                   Note: CSS may meet with the agency quarterly or as needed to provide
-                                   consultation for remediation of findings.
+ Agency                   8     Document plans of actions and milestones (POAM) and review
+                                at least monthly. Quarterly, deliver updated status of identifying
+                                and implementing remediations of findings and
+                                recommendations for outstanding critical and severe findings.
+                                Required POAM elements are defined in Attachment B.
+
+                                Note: CSS may meet with the agency quarterly or as needed to
+                                provide consultation for remediation of findings.
 
 
-ANNUAL TRAINING
 
- RESPONSIBILITY           STEP ACTION
- CSS                         1     Update and upload annual cybersecurity training in Workday.
 
- Agency                      2     Coordinate with CSS for scheduling training for users.
+Procedure No: 107-004-052_PREffective: 10/1/2026 Reviewed: 7/28/2026                    Page 2 of 3
+ANNUAL TRAINING
 
- Chief Human                 3     Schedule training in Workday for all users.
+ RESPONSIBILITY        STEP    ACTION
+ CSS                     1     Update and upload annual cybersecurity training in Workday.
+
+ Agency                  2     Coordinate with CSS for scheduling training for users.
+
+ Chief Human             3     Schedule training in Workday for all users.
  Resource Office and
  agencies as
  applicable
 
- Users                       4     Complete annual cybersecurity training by December 31 of each year.
+ Users                   4     Complete annual cybersecurity training by December 31 of
+                               each year.
+
+
+
+OFFSHORE AND FOREIGN SERVICES
+
+ RESPONSIBILITY        STEP    ACTION
+ Agency                  1     Identify current use (as of the effective date of statewide policy
+                               107-004-052) of offshore or foreign computing services.
+ Agency                  2     Provide the information detailed in Attachment C (Use of
+                               offshore or foreign computing services disclosure data
+                               elements) by submitting to this form.
+ CSS                     3     Review request and make recommendations to State Chief
+                               Information Officer.
+ State CIO or            4     Make decision on request.
+ delegated EIS
+ authority
+ CSS                     5     Respond to agency submission with decision.
+
+                               Decision to approve offshore or foreign computing services may
+                               be accompanied by conditions for risk mitigating controls.
+
+                               Decision to disapprove offshore or foreign computing services
+                               may be accompanied by expectations for discontinuing
+                               offshore or foreign computing services.
+
+ Agency                  6     Return decision communication with signature
+                               acknowledgement by responsible role.
 
 
 
 
-Statewide Procedure No: 107-004-155_PR | Effective: 2/17/2026 Reviewed: 12/2/2025                   Page 2 of 3
-OFFSHORE AND FOREIGN SERVICES
-
- RESPONSIBILITY           STEP     ACTION
- Agency                      1     Identifies need for services that can only be completed via offshore or
-                                   foreign means.
- Agency                      2     Submit request to use offshore or foreign services to
-                                   ESO.INFO@das.oregon.gov. (Attachment C)
- CSS                         3     Review request and make recommendations to State Chief Information
-                                   Officer.
- State CIO                   4     Make determination on request.
- CSS                         5     Respond to agency request.
-
-
-
-
-Statewide Procedure No: 107-004-155_PR | Effective: 2/17/2026 Reviewed: 12/2/2025                   Page 3 of 3
+Procedure No: 107-004-052_PREffective: 10/1/2026 Reviewed: 7/28/2026                    Page 3 of 3
 Attachment A: CSS assessment ﬁndings and recommendations template
 
 
 Findings and Recommendations
 Finding 1:
- Finding Title                                                                        Finding Severity
+ Finding Title                                                                            Finding Severity
 
  FINDING TITLE
 
@@ -131,7 +152,7 @@ Impact: Content.
 Recommendation: Content.
 
 
- Finding Title                                                                        Finding Severity
+ Finding Title                                                                            Finding Severity
 
  FINDING TITLE
 
@@ -150,107 +171,156 @@ Recommendation: Content.
 
 
 
-Attachment A to Procedure No: 107-004-052_PR | Effective: 2/17/2026; Reviewed: 12/2/2025
+Attachment A to Procedure No: 107-004-052_PR   Effective: 10/1/2026 Reviewed: 7/28/2026             Page 1 of 1
 Attachment B: Plan of Action and Milestones (POAM) template
- Plan Element               Plan Element                   Input by    Input Example
-                            Description
- POAM ID                    Unique identifier for          Agency      AGCY-0101
-                            each POAM item
- Safeguard                  Applicable control             EIS         01.01
- Finding                    Brief description of           EIS         Agency’s consolidated asset inventory
-                            finding                                    contained 2000 deployed items with
-                                                                       nearly all expected attributes
-                                                                       enumerated. Comparison of Defender
-                                                                       and Tenable data with inventory found
-                                                                       350 assets not listed by agency.
- Recommended                Proposed remediation           EIS         Agency should leverage its existing
- remediation                action                                     hardware asset management tools to
-                                                                       develop and maintain an authoritative
-                                                                       inventory of all authorized devices with
-                                                                       the potential to receive, store, or
-                                                                       process data. The inventory should
-                                                                       include end-use devices (including
-                                                                       mobile devices), network devices that
-                                                                       the organization manages, IoT devices
-                                                                       that the organization manages, and
-                                                                       servers. For each device, the inventory
-                                                                       should document the network address
-                                                                       (if static), hardware (MAC) address,
-                                                                       machine name, data asset owner,
-                                                                       department, and whether the asset has
-                                                                       been approved to connect to the
-                                                                       network. The inventory should be
-                                                                       reviewed for accuracy and updated, at a
-                                                                       minimum, bi-annually.
-                                                                       Once agency has documented its
-                                                                       authorized hardware asset inventory, it
-                                                                       should periodically compare output
-                                                                       from its asset inventory tools to its
-                                                                       authorized hardware asset inventory to
-                                                                       review for unauthorized devices.
- Criticality                Assigned criticality           EIS         Critical
- Assessed score             Safeguard score at the         EIS         59.6%
-                            time of assessment
- Issue Date                 Date finding was issued        EIS         12/31/2024
- Recommended                Calculated based on            EIS         1/30/2025
- remediation date           criticality
- Agency internal point      Agency personnel               Agency      Butch Cassidy
- of contact                 assigned to POAM
- Remediation Plan           Overall plan to                Agency      Create asset inventory
-                            remediate deficiency
+ Plan Element            Plan Element                 Input      Input Example
+                         Description                  by
+ POAM ID                 Unique identifier for each   Agency     AGCY-0101
+                         POAM item
+ Safeguard               Applicable control           EIS        01.01
+ Finding                 Brief description of         EIS        Agency’s consolidated asset inventory
+                         finding                                 contained 2000 deployed items with
+                                                                 nearly all expected attributes
+                                                                 enumerated. Comparison of Defender
+                                                                 and Tenable data with inventory found
+                                                                 350 assets not listed by agency.
+ Recommended             Proposed remediation         EIS        Agency should leverage its existing
+ remediation             action                                  hardware asset management tools to
+                                                                 develop and maintain an authoritative
+                                                                 inventory of all authorized devices with
+                                                                 the potential to receive, store, or process
+                                                                 data. The inventory should include end-
+                                                                 use devices (including mobile devices),
+                                                                 network devices that the organization
+                                                                 manages, IoT devices that the
+                                                                 organization manages, and servers. For
+                                                                 each device, the inventory should
+                                                                 document the network address (if static),
+                                                                 hardware (MAC) address, machine
+                                                                 name, data asset owner, department,
+                                                                 and whether the asset has been
+                                                                 approved to connect to the network. The
+                                                                 inventory should be reviewed for
+                                                                 accuracy and updated, at a minimum,
+                                                                 bi-annually.
+                                                                 Once agency has documented its
+                                                                 authorized hardware asset inventory, it
+                                                                 should periodically compare output from
+                                                                 its asset inventory tools to its authorized
+                                                                 hardware asset inventory to review for
+                                                                 unauthorized devices.
+ Criticality             Assigned criticality         EIS        Critical
+ Assessed score          Safeguard score at the       EIS        59.6%
+                         time of assessment
+ Issue Date              Date finding was issued      EIS        12/31/2024
+ Recommended             Calculated based on          EIS        1/30/2025
+ remediation date        criticality
+ Agency internal point   Agency personnel             Agency     Butch Cassidy
+ of contact              assigned to POAM
+ Remediation Plan        Overall plan to remediate    Agency     Create asset inventory
+                         deficiency
 
 
 
-Attachment B to Procedure No: 107-004-052_PR | Effective: 2/17/2026 Reviewed: 12/2/2025               Page 1 of 2
- Plan Element               Plan Element                   Input by    Input Example
-                            Description
- Planned milestones         Planned milestones with        Agency      (01) 2025-01-10: Extract full
-                            project completion                            inventory of all systems.
-                            dates                                         (COMPLETE)
-                                                                       (02) 2025-01-15: Evaluate assets for
-                                                                          approval. (COMPLETE)
-                                                                       (03) 2025-01-31: Develop procedure
-                                                                          to update inventory. (COMPLETE)
+Attachment B to Procedure No: 107-004-052_PR   Effective: 10/1/2026 Reviewed: 7/28/2026            Page 1 of 2
+ Plan Element            Plan Element                Input       Input Example
+                         Description                 by
+ Planned milestones      Planned milestones with     Agency      (01)    2025-01-10: Extract full inventory
+                         project completion dates                    of all systems. (COMPLETE)
+                                                                 (02)    2025-01-15: Evaluate assets for
+                                                                     approval. (COMPLETE)
+                                                                 (03)    2025-01-31: Develop procedure
+                                                                     to update inventory. (COMPLETE)
 
- Internal comments          Internal agency                Agency      Working with BSA and ASCIO-supplied
-                            comments                                   template.
- Dependency                 Description of any             Agency
-                            dependencies
- Support documents          List any supporting            Agency      AssetInventory.xlsx
-                            documents
- Date closed                Date remediation               Agency      1/31/2025
-                            actions completed
-
-
-
-
-Attachment B to Procedure No: 107-004-052_PR | Effective: 2/17/2026 Reviewed: 12/2/2025             Page 2 of 2
-Attachment C: Agency request to use offshore or foreign services
-
-Date:
-
-To: ESO.INFO@das.oregon.gov
-
-From:
-
-Re: Request to use offshore or foreign services
-
-Agency:
-
-Vendor name:
-
-Vendor system:
-
-Needed service(s):
-
-Location of services(s):
-
-Vendor explanation:
-
-Agency director emergency declaration attached: Y / N
+ Internal comments       Internal agency             Agency      Working with BSA and ASCIO-supplied
+                         comments                                template.
+ Dependency              Description of any          Agency
+                         dependencies
+ Support documents       List any supporting         Agency      AssetInventory.xlsx
+                         documents
+ Date closed             Date remediation actions    Agency      1/31/2025
+                         completed
 
 
 
 
-Attachment C to Procedure No: 107-004-052_PR | Effective: 2/17/2026 Reviewed: 12/2/2025   Page 1 of 1
+Attachment B to Procedure No: 107-004-052_PR   Effective: 10/1/2026 Reviewed: 7/28/2026           Page 2 of 2
+Attachment C: Use of offshore or foreign computing services disclosure data elements
+
+ Agency Information
+ Agency
+ Submitted by
+ Submitter Email
+
+ Submitter Phone Number
+
+ Agency Business Owner
+
+ Agency Business Owner Email
+
+ Agency Business Owner Phone Number
+
+ Application/Software Details
+ Is this a new, renewing, or existing service/application?
+
+ Application Name
+ Version Number
+ Hosting Architecture: on-premises (state/agency hosted), cloud – SaaS,
+ cloud – PaaS, Cloud – IaaS, hybrid (on-prem + cloud), vendor or
+ contractor hosted (containerized/serverless), other
+ Vendor and Contract Information
+ Contracted Vendor Name
+ Contract Start Date
+ Contract End Date
+ Renewal Frequency (i.e., 6 months, 2 years, etc.)
+ Data Handling and Sensitivity
+ Highest data classification level (Refer to the Information Asset
+ Classification Policy for additional information
+ https://www.oregon.gov/das/Policies/107-004-050.pdf): level 1 –
+ published, level 2 – limited, level 3 – restricted, level 4 - critical
+
+ What regulated data exists in the environment? (HIPAA, FIT, CJIS, PCI,
+ FERPA, not applicable, other)
+
+ Offshore Usage Details
+ Offshore Country Locations (list all offshore countries)
+
+ Does data currently reside outside the United States, or is it anticipated
+ that it will reside outside the United States as part of future offshore
+ services?
+
+ Does offshore staff access any data?
+
+
+
+
+Attachment C to Procedure No: 107-004-052_PR    Effective: 10/1/2026 Reviewed: 7/28/2026   Page 1 of 2
+ What type(s) of access does offshore staff have? no access,
+ standard/non-privileged, privileged/administrative access, other
+
+ What access method(s) do offshore contractors use to access state
+ systems? secure VPN (e.g., F5, Cisco AnyConnect), remote desktop /
+ VDI Gateway, privileged access management (PAM) (e.g., Beyond Trust,
+ CyberArk), browser based secure access gateway / zero-trust broker
+ (e.g., ZTNA, Azure Bastion), remote support tools (e.g., TeamViewer,
+ AnyDesk), SSH / RDP via approved management interface, other
+
+ Does the agency ensure that current offshore IT services and any future
+ offshore services use phishing resistant MFA when accessing state
+ systems?
+
+ What type of data is accessed offshore? metadata, internal, restricted
+ or critical (level 3 or above), regulated (HIPAA, FTI, CJIS, PCA, FERPA,
+ etc.), full database (DB), logs, not applicable, other
+
+ What services are performed offshore? administrative support,
+ application / infrastructure hosting, data storage / processing,
+ development (applications, coding, infrastructure, etc.), incident
+ response or data recovery, support services, quality assurance (QA),
+ other
+
+
+
+
+Attachment C to Procedure No: 107-004-052_PR    Effective: 10/1/2026 Reviewed: 7/28/2026   Page 2 of 2
 
