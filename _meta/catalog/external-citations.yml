@@ -27,10 +27,10 @@ siblings_consulted: 'federal-reference: consulted'
 summary:
   documents_scanned: 81921
   distinct_targets: 1359
-  authority_claims_total: 1127
+  authority_claims_total: 1128
   mentions_total: 9580
   targets_resolving: 42
-  unresolved_authority_claims: 528
+  unresolved_authority_claims: 529
 named_instruments:
 - instrument: hipaa
   authority_claims: 2
@@ -68,7 +68,7 @@ targets:
   - oar-581-015-2010
   - oar-581-015-2015
 - citation: 16 USC 544
-  authority_claims: 89
+  authority_claims: 88
   mentions: 90
   resolves: false
   cited_by_sample:
@@ -88,7 +88,7 @@ targets:
   - oar-350-082-0010
   - oar-350-082-0020
 - citation: 16 USC 544c
-  authority_claims: 55
+  authority_claims: 57
   mentions: 60
   resolves: false
   cited_by_sample:
