@@ -97,9 +97,9 @@
 
  (b) The frequency of measurable contacts with adults on supervision shall be determined by the associated supervision level in accordance with these rules. 
 
- (2) High Supervision: Adults on supervision with a high supervision level shall receive a minimum of three measurable contacts every 30 days. 
+ (2) High Supervision: Adults on supervision with a high supervision level shall receive a minimum of two measurable contacts every month. 
 
- (3) Medium Supervision: Adults on supervision with a medium supervision level shall receive a minimum of two measurable contacts every 30 days. 
+ (3) Medium Supervision: Adults on supervision with a medium supervision level shall receive a minimum of one measurable contact every month. 
 
  (4) Low Supervision: 
 
@@ -164,8 +164,8 @@
  
  
  
- 
  DOC 28-2026, amend filed 08/27/2026, effective 09/01/2026 
+ 
  
  
  

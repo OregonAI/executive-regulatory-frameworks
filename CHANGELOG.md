@@ -11,6 +11,62 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Source-Updated
+- 2026-09-10 — **The remaining OAR rules: 54 ordinary re-ingests plus 3 live Columbia River
+  Gorge Commission rules** (final group of the re-ingest queue except the repeals, below).
+  Chapters touched: 333 (10), 851 (8), 291/309/635 (5 each), 411/413 (4 each), 410/660 (2 each),
+  and one each in 123, 165, 250, 259, 695, 813, 839, 856, 875.
+
+  **16 of the 56 were reverted before this landed, and the repo's own design is why.** Those
+  rules carry `status: repealed` or `superseded`, and `reingest_oar.py` refuses by name to
+  text-refresh a rule whose force the Bulletin changed — *"its text is left as served and a
+  person reviews it"*. Driving them through the generic `refresh_document` path bypassed that
+  judgement, and for two of them it did real damage: `oar-695-046-0195` went **140 → 37 words**
+  and `oar-851-031-0065` **369 → 34**, because OARD now serves those pages as a repeal notice and
+  nothing else. That is the same deletion-under-provenance the 41 chapter-350 rules were spared,
+  reached by a different route. All 16 documents, snapshots and manifest baselines are restored
+  to their pre-refresh state; none of them appears in this PR's diff.
+
+  `oar-333-333-5080` came back **unchanged**. It was the one *new* access failure in the
+  2026-09-09 drift run, first seen that day and never escalated; the page serves the psilocybin
+  safety-and-support-plan rule normally and its bytes still hash to the committed baseline. That
+  failure was a flake during a five-hour sweep, not a withdrawal.
+
+  Manifest baselines re-seeded with the drift detector's formula. **51 of 57 reproduce the hash
+  the drift run observed.** The six that do not are accounted for: `oar-333-333-5080` had no
+  `now` hash recorded (it was a fetch failure that run), and the five `oar-309-073-*` Crisis
+  Stabilization Center rules were edited again upstream between the sweep (2026-09-09 03:10Z)
+  and this ingest — their pages hash stably across repeated fetches today, just to a different
+  value than yesterday. Every baseline written equals the bytes actually mirrored, which is the
+  invariant that matters.
+
+- 2026-09-10 — **The four remaining small groups: OYA 5, DOC 1, retention schedules 2, and the
+  Constitution** (sixth group of the re-ingest queue; only OAR is left after this, plus the Gorge
+  repeals awaiting a decision).
+
+  - **OYA (5)** — small, and measured rather than assumed: 98%+ of each body survives. Three are
+    review-date bumps (`07/25/2024`→`07/25/2026`, `08/01/2024`→`08/01/2026`,
+    `08/12/2024`→`08/12/2026`) and a `Revision/Review:` → `Review:` label change. One is real:
+    `oya-i-e-1-0` renames the responsible office from **Media Relations** to **OYA External
+    Communications**.
+  - **DOC (1)** — `doc-10-4-01`, 96.1% of body retained; its `Supersedes:` date moves
+    `11/12/20` → `8/7/24`.
+  - **Retention schedules (2)** — both new editions. `schedule-psrb` (75.2% retained) gains an
+    `05 Hearing Exhibit Files — retain 25 years after case closed` series and renumbers around it.
+    `schedule-forestry` is a substantial rewrite: **23.4% retained, 11,072 → 9,934 words**, edition
+    `2015-0014` → **`2026-0006`**.
+  - **The Constitution** — baseline refreshed, no text re-ingested, because
+    `ingest_constitution.py --drift` proves there is no text to re-ingest: **371 section numbers
+    compared, 0 changed, 0 could not be checked, 371 unchanged.** The page hash moved on text
+    outside every section this mirror slices. This is the operator's verified-refresh carve-out
+    used exactly as intended — proven per source that the live words equal the mirrored words —
+    and it touches 339 section documents because they all carry the one page hash (678 hash
+    occurrences, frontmatter and provenance line, plus their `retrieved` dates). `--drift` now
+    reports *page unchanged*, and `provenance_spelling.py --check` agrees across all 81,921
+    documents.
+
+  Manifest baselines re-seeded with the drift detector's formula; **all 8 PDF sources reproduce
+  the hash the drift run observed**. Dates carry `refresh_document`'s TODO marker (HC-1).
+
 - 2026-09-09 — **Oregon State Hospital: 6 re-ingested, 3 recovered from renamed paths, and a
   pre-existing document/source mismatch fixed** (fifth group of the re-ingest queue).
 
@@ -209,6 +265,34 @@ corpus-wide changes from 2026-08-02 forward.
   (HC-1) and reach `review_queue.py`.
 
 ### Verified
+- 2026-09-10 — **The Columbia River Gorge Commission chapter-350 rules: 44 rows, not 21, and
+  re-ingesting 41 of them would destroy mirrored text.** Measured by fetching every chapter-350
+  row in `DRIFT.md` and slicing it with `repo_lib.snapshot_slice`. No document was changed for
+  the 41; the 3 live rules are re-ingested in the entry above.
+
+  - **41 are already `status: repealed` in this corpus.** The legal status was recorded when the
+    Bulletin filed it; nothing about that decision is outstanding. What changed is the *page*:
+    OARD now serves only the History block — `CRGC 1-2026, repeal filed 07/22/2026, effective
+    09/01/2026`, plus prior filings — and no rule text at all.
+  - **Re-ingesting them would replace rule text with filing history.** `oar-350-012-0008` holds
+    **1,735 words** of mirrored rule text; the page now yields **53**. `oar-350-016-0004`: 1,446 →
+    112. `oar-350-016-0009`: 1,256 → 109. Across the 41 the pages yield 33–112 words, all of it
+    history. Under this corpus's reproduction policy — mirror the full text, because a summary
+    makes a corpus worthless — a re-ingest here is not an update. It is the deletion of the only
+    readily accessible copy of what these rules said, performed under provenance.
+  - **3 of the 44 are not repeals at all**: `oar-350-011-0010` (36 → 360 words),
+    `oar-350-016-0010` (171 → 681), `oar-350-016-0020` (212 → 657), all `status: current` and all
+    substantially expanded — the Gorge Commission's replacement rules on delegating rulemaking
+    authority and on what counts as a rule. Those are ordinary re-ingests and are done.
+
+  **Recommendation, for the maintainer to rule on:** do not re-ingest the 41. Their text is the
+  last text in force and their status is already correct. That leaves them reporting as drift on
+  every run, which is *true* — upstream no longer serves what this corpus holds — and the
+  verified-refresh carve-out does not apply, because the live words demonstrably do not equal the
+  mirrored words. The real question is what a drift report should do with a source whose upstream
+  has stopped publishing it, which is the same question the 8 superseded OAM `-po`/`-pr` entries
+  raise. One rule should answer both.
+
 - 2026-09-09 — **`oha-osh-6-006` must NOT be removed; `oha-osh-6-001` is the only OSH document
   the evidence supports removing.** Both were on the withdrawn-19 list, both 404, both with no
   policy folder in the live SharePoint library. They are not the same case:
@@ -288,6 +372,22 @@ corpus-wide changes from 2026-08-02 forward.
   carry no occurrence at all. No repo reads the key for a live join.
 
 ### Fixed
+- 2026-09-10 — **`refresh_document` destroyed the frontmatter of any document whose
+  `conversion_notes` wraps over more than one line.** The substitution was
+  `re.sub(r'^conversion_notes: .*$', ..., flags=re.M)`, which replaces the *first line* of the
+  scalar and leaves its indented continuation lines behind as orphaned text. The result is not
+  valid YAML — the document's frontmatter stops parsing at all, which is how it was found:
+  `parse_frontmatter` raised on `schedule-forestry` immediately after re-ingesting it.
+
+  **76 documents are exposed** — every retention schedule carries a multi-line
+  `conversion_notes`, because the extractor writes a paragraph naming exactly which running
+  headers it stripped and what it deliberately left alone. Any of them re-ingested through this
+  path would have been silently corrupted; two were, in this branch, and are restored and re-run
+  through the fixed code.
+
+  The pattern now consumes the whole scalar (`(?:\n[ \t]+\S.*)*`). Frontmatter keys sit at
+  column 0, so any following indented line belongs to the scalar being replaced.
+
 - 2026-09-09 — **Every ingester's fetch went out under a browser's name.** `ingest_lib.fetch`
   is the single point the nine ingesters that reach the network go through (`ingest_oar`,
   `reingest_oar`, `ingest_eo`, `ingest_policies`, `ingest_ors`, `ingest_ors_renumbering`,

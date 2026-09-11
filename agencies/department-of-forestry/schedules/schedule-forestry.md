@@ -14,9 +14,9 @@ schedule_number: 2015-0014
 legal_authority: []
 source_url: https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-forestry.pdf
 source_format: pdf
-retrieved: '2026-07-25'
-source_sha256: 70baec019000e584fa7c3fa65c632e36c0d44cd3c7a02be0a2ae8dad585a0e9a
-effective_date: null
+retrieved: "2026-09-10"
+source_sha256: a97f1e6250e7618acbfe13c7b78ed9817ded78772166a3c2207f8c69026a54e9
+effective_date: null  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from the new source -->
 effective_date_text: November 2015
 expires: null
 expires_text: null
@@ -24,13 +24,7 @@ last_reviewed: null
 source_version: 2015-0014
 status: current
 content_mode: verbatim
-conversion_notes: 'Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 61 pages.
-  Stripped repeated running-header lines: "Edition: November 2015"; "OREGON STATE ARCHIVES"; "Records
-  Retention Schedule". Stripped 1 bare page-number line(s). Only lines that BOTH repeat at a page edge
-  on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number
-  line, bare page number) were removed; every other repeated line, including per-page ''Organizational
-  Placement'' / ''Agency'' / ''Systems of Record'' blocks, was left in place. Trailing whitespace removed
-  and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.'
+conversion_notes: "no page furniture detected"
 last_verified: ''
 verified_by: ''
 maintainer: '@morficflux'
@@ -65,2347 +59,1988 @@ Special records retention schedule for Oregon Department of Forestry, published 
 
 ## Full text
 
-Oregon Department of Forestry
-Records Retention Schedule 2015-0014
-Effective August 2015
-Table of Contents
+                            Oregon Department of Forestry
 
-Oregon Board of Forestry ............................................................................................................... 2
-Executive/Administration
+                    Records Retention Schedule 2026-0006
 
-Area, District, Unit .......................................................................................................................... 7
-D.L. Phipps Forest Nursery .......................................................................................................... 13
-J.E. Schroeder Seed Orchard ........................................................................................................ 15
-South Fork Camp .......................................................................................................................... 16
-Tillamook Forest Center (TFC) .................................................................................................... 18
-Administrative Services ................................................................................................................ 20
-Information Technology (IT) ........................................................................................................ 25
-Forest Protection ........................................................................................................................... 29
-State Forests ..... ………………………………………………………………………………….43
-Private Forests ............................................................................................................................... 52
-Forest Resources Planning ............................................................................................................ 59
+                                      Effective Date: August 2026
 
-Oregon Department of Forestry
-Records Retention Schedule
+                                              Table of Contents
 
- Edition: November 2015
+Division:   Agency Administration ................................................................................... 1
 
- 2
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division: Executive/Administration
-Program: Oregon Board of Forestry
+Division:   Area ................................................................................................................. 10
+
+Division:   Business Services ........................................................................................... 12
+
+Division:   Human Resources .......................................................................................... 16
+
+Division:   Forest Resources ........................................................................................... 17
+
+Division:   Protection from Fire ...................................................................................... 28
+
+Division:   Resource Planning Office ............................................................................. 45
+
+Division:   State Forests ................................................................................................... 46
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Agency Administration
 
 Program Description
-The Oregon Department of Forestry is responsible for serving the people of Oregon by
-protecting, managing and promoting stewardship of Oregon's forests thereby enhancing the
-environmental and economic livability of Oregon for its residents. Approximately half of
-Oregon, 30 million acres, is comprised of forestlands. Of these 3% are state owned forests, 35%
-are privately held forestlands and 59% are federal forests.
+The Agency Administration Division’s purpose is to provide accountability and
+oversight of the agency’s administrative functions in compliance with Oregon Revised
+Statutes, Oregon Administrative Rules, Board of Forestry policies, and State
+Government Expectations. This division provides critical support to all areas of the
+agency, setting guidance, and leadership in the execution of the agency’s mission.
 
-The Oregon Board of Forestry makes policy and provides vision for the management and
-protection of Oregon's 11 million acres of state and private owned forestland per ORS 526.009.
-The Board sets policy, authorizes Oregon's forestry program to ensure adequate supplies of
-forest products and forestland health for use and enjoyment by Oregonians and visitors.  The
-Board is comprised of seven members appointed by the Governor requiring senate confirmation.
-
-Support staff provides administrative support to the State Forester, Associate State Forester, and
-Deputy Chiefs. Staff maintains correspondence files, meeting minutes, and various other
-administrative records.
-
-Support staff is responsible for providing administrative support for the Board of Forestry.  Staff
-maintains meeting minutes, agendas and attachments, meeting audio tapes, and policy and
-procedure decisions concerning the Oregon Department of Forestry.
+Agency Administration Division consists of all administrative programs of the agency
+including Equipment and Motor Pool, Facilities, Information Technology, Federal
+Grant Support, and Public Affairs. This division, along with the other operating
+divisions, are responsible for policy development, interpretation of statutes,
+legislative proposals, and program alignment necessary to carry out the mission of
+the Board of Forestry and the Department to protect and promote resilient forests
+that benefit all Oregonians.
 
 Program Records
-001 Board of Forestry Conservation Meeting Minutes, 1911 – [ongoing] .5 c.f.
- Retain permanently, transfer to State Archives after 20 years
-002 Board of Forestry Field Tour Records
- Retain 10 years, destroy
-003 Board of Forestry Hearing Records
- (a) Retain transcripts and exhibits 20 years, destroy
- (b) Retain sound recordings 5 years, destroy
-004 Board of Forestry Meeting Records, 1911 – [ongoing] 1 c.f.
- (a) Retain minutes permanently, transfer to State Archives after 20 years
- (b) Retain transcription 1 year after minutes produced, destroy
- (c) Retain audio tapes 1 year, destroy or recycle
-005 Board of Forestry Policy Statements, 1911 – [ongoing] .45 c.f.
- Retain permanently, transfer to State Archives after 20 years
-006 Board of Forestry Resolutions, 1911 – [ongoing] .30 c.f.
- Retain permanently, transfer to State Archives after 20 years
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 3
-007 District and Protection Association Correspondence
- Retain 10 years, destroy
-008 Executive Correspondence, 1911 – [ongoing] 1 c.f.
- (a) Retain significant and policy-setting permanently, transfer to State Archives after 20
-  years
- (b) Retain all other correspondence 5 years after departure of State Forester, destroy
+001     Agency Policy and Development Records
+        (a) Retain development records 1 year after final document produced, destroy
+        (b) Retain final documents 20 years after superseded, destroy
 
 State Agency General Records Retention Schedule Records
 Includes but is not limited to:
 Administrative Records (OAR 166-300-0015)
-Calendar and Scheduling Records
-Correspondence
-Boards and Commission Records (OAR 166-350)
-Board and Commission Member Records
 
-Databases
+Systems of Record
 None
 
-Oregon Department of Forestry
-Records Retention Schedule
+                                                                                       1
 
- Edition: November 2015
-
- 4
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Executive/Administration
-Program:  Agency Affairs
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                         Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Agency Administration
+Program:         Audit
 
 Program Description
-The Agency Affairs Program is responsible for public relations activities and legislative tracking
-activities of the Oregon Department of Forestry. Responsibilities include communications, media
-contacts, compilation and publication of agency-wide publications and reports, creation and
-delivery of informational presentations, public affairs support for the Board of Forestry and
-coordination of agency legislative activities. The program, in conjunction with the Tillamook
-Forest Center and Forest History Center, maintains records pertaining to the history of the
-Oregon department of Forestry.
+The internal auditing function for the Department of Forestry provides independent,
+objective assurance and consulting services designed to add value to, and improve,
+the performance of Department operations, while facilitating oversight,
+accountability, and transparency. Internal audit services are guided by standards and
+policies for management of internal audit defined in OAR 125-700 with oversight
+provided by the ODF Audit Committee and the State Forester.
 
 Program Records
-009 Forest for Oregon Records
- (a) Retain final publication 10 years, destroy
- (b) Retain drafts, work notes, etc 1 year after publication accepted, destroy
-010 Forest Log Records
- (a) Retain final publication 10 years, destroy
- (b) Retain drafts, work notes, etc 1 year after publication accepted, destroy
-011 Oregon Forests Report Records
- (a) Retain final publication 10 years, destroy
- (b) Retain drafts, work notes, etc 1 year after publication accepted, destroy
-012 Photographs, 1911 – [ongoing]  1 c.f.
- (a) Retain photographs of historic events and persons permanently, transfer to
-  State Archives after administrative need ends
- (b) Retain all other photographs until administrative need ends, destroy
-013 Tillamook Burn Records 1933 – [ongoing] 30 c.f.
- Retain permanently, transfer to State Archives after administrative need ends
-014 Work Plans
- Retain until superseded or obsolete, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records - OAR (166-300-0015)
-Correspondence Publication Preparation Records
-Legislative Tracking Records Public Records Requests
-Press Releases
-
-Databases
-FIRES
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 5
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Executive/Administration
-Program:   Human Resources/Safety/Training
-
-Program Description
-The Human Resources/Safety/Training Program is responsible for maintaining records
-concerning employee hiring, termination (of employment), disciplinary actions, and any other
-actions taken by or on behalf of Department of Forestry employees.  Personnel actions may
-originate at the district, area, or unit level; however, all documentation is filed with the Human
-Resources Section.  The Human Resources Program maintains official/record copy employee
-files on all permanent and seasonal employees.  In addition, Human Resources provides HR
-support to the Oregon Forest Resources Institute (OFRI).
-
-Program Records
-015 Minor Employment Records
- Retain 10 years, destroy
-016 Seasonal Employee Personnel Records
- Retain 30 years, destroy
-017 Temporary (AD) Employee Appointment Records
- Retain 10 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records – (OAR 166-300-0015)
-Correspondence
-Personnel Records – (OAR 166-300-0040)
-Employee Personal Records
-Employee Medical Records
-Position Description and Reclassification Records
-Recruitment and Selection Records
-
-Databases
-PPDB
-TRAINING and SAFETY
-SFMA
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 6
-Organizational Placement Schedule number: 2015-0014
-Agency: Oregon Department of Forestry
-Division:   Executive/Administration
-Program:   Quality Assurance
-
-Program Description
-The Quality Assurance program serves as the internal auditing function for the Department and
-provides independent assurance and consulting services intended to improve or assure the
-performance of Department operations. Internal audit functions in Oregon State Government are
-guided by OAR 125-700. The quality Assurance Director reports functionally to the ODF Audit
-Committee and administratively to the State Forester.
-
-Program Records
-018 Internal Audit Engagement Records
- Retain 5 years after Quality Assurance Review performed, destroy
-019 Quality Assurance Program Charter/Directive Records
- (a) Retain final charter 5 years after superseded or obsolete, destroy
- (b) Retain drafts, work notes, etc 1 year after charter/directive accepted, destroy
-020 Training and CPE Certification Records
- Retain 5 years after superseded or obsolete, destroy
+002     Internal Audit Charter Records
+        (a) Retain final charter 5 years after superseded or obsolete, destroy
+        (b) Retain all other records 1 year after charter accepted, destroy
 
 State Agency General Records Retention Schedule Records
 Includes but is not limited to:
 Administrative Records (OAR 166-300-0015)
-Correspondence
-Policy and Procedure Guidelines and Manuals (Internal Audit Standards)
 Financial Records (OAR 166-300-0025)
-Internal Audit Reports
 
-Databases
+Systems of Record
+Workday
+
+                                                                                      2
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Agency Administration
+Program:         Equipment Pool
+Unit:            Communications
+
+Program Description
+The Communications Unit is responsible for maintaining and administrating all
+communications activity and equipment for the Department of Forestry. Maintaining
+authority for FCC frequencies, equipment allocation, equipment maintenance, and
+licensing are responsibilities of the Communications Unit.
+
+Program Records
+003     Property Number Registers
+        Retain until superseded or obsolete, destroy
+004     Radio Pool Cost Reports
+        Retain 6 years, destroy
+005     Radio Rental and Maintenance Invoices
+        Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Facilities/Property Records (OAR 166-300-0020)
+Financial Records (OAR 166-300-0025)
+Information Systems Records (OAR 166-300-0030)
+
+Systems of Record
+Asset Works
+
+                                                                                    3
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                        Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Agency Administration
+Program:         Equipment Pool
+Unit:            Motor Pool
+
+Program Description
+The Motor Pool Unit is responsible for the administration, maintenance, and
+allocation of vehicles and equipment for use by Department of Forestry personnel at
+all agency area, district and unit offices. The unit monitors the use and maintenance
+of all vehicles, fuel, and equipment for the Department of Forestry. In addition, the
+Motor Pool oversees the purchase and repair of vehicles and equipment as well as
+monitoring vehicles used during Department of Forestry activities.
+
+Program Records
+006     Equipment Rental Billings Registers
+        Retain 6 years, destroy
+007     Monthly Petroleum Products Records
+        Retain 10 years, destroy
+008     Oversize/Overweight Permits
+        Retain 2 years, destroy
+009     Vehicle Depreciation Reports
+        Retain 2 years after disposal of vehicle, destroy
+010     Vehicle Mileage Reports
+        Retain through 2 biennia, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Systems of Record
+Access
+Asset Works
+FML
+VOL
+
+                                                                                        4
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Agency Administration
+Program:         Facilities Capital Management
+
+Program Description
+The Facilities Capital Management Program is responsible for managing, monitoring
+and developing the department’s facility assets to meet long-term strategic capital
+needs, lifecycle replacement and sustainability performance requirements. It also
+manages the Salem Headquarters Campus operations and maintenance activities,
+which comprises ten commercial buildings, structures and adjacent grounds.
+
+Program Records
+011     Administrative Site Inventory Records
+        Retain 6 years after site abandoned, destroy
+012     Agency Provided Housing Records
+        Retain 6 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Facilities/Property Records (OAR 166-300-0020)
+Financial Records (OAR 166-300-0025)
+
+Systems of Record
 None
 
-Oregon Department of Forestry
-Records Retention Schedule
+                                                                                      5
 
- Edition: November 2015
-
- 7
-Organizational Placement Schedule number: 2015-0014
-Agency:    Oregon Department of Forestry
-Division: Area, District, Unit
-Section:  Administration
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                        Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Agency Administration
+Program:         Information Technology (IT)
 
 Program Description
-Areas, districts, and units act as centers of operation and information on behalf of the Oregon
-Department of Forestry. ODF is organized into three areas of operations each containing multiple
-districts and units.  Areas and districts are staffed on a full time, permanent basis.   Some units
-are staffed on a seasonal basis. Areas, districts and units house the field operations of programs
-headquartered in Salem and are dedicated to the management and protection of state forest lands
-and private forests.  Responsibilities include managing state forest lands and ensuring safe and
-productive forest lands throughout the state. Staff also oversees forest operations, harvesting,
-reforestation and compliance with the Forest Practices Act. Fire protection also constitutes a
-major portion of the duties and responsibilities of area, district, and unit offices.  Monitoring,
-smoke management, and fire fighting are all essential components of the Protection from Fire
-program in areas, districts, and units.
+The Information Technology Program is critical in advancing the agency's mission by
+providing secure, reliable, and innovative technology solutions that enhance the
+accessibility and efficiency of the services offered. This program is foundational to the
+agency’s operations, ensuring all technological systems and platforms function
+smoothly, securely, and efficiently. These include computer hardware, software, data,
+and mobile device management. The program assists the agency’s operational units
+in Salem and in district and unit offices. The program is a cornerstone in enabling the
+agency to deliver on its mission, ensuring that technology remains a powerful enabler
+of service excellence and organizational success.
 
 Program Records
-021 Annual District Reports
- Retain 20 years, destroy
-022 Citizen Complaint Records
- Retain 3 years after resolution, destroy
-023 Closed Area Entry Permits
- Retain 5 years, destroy
-024 Deeds
- Retain as long as ODF owns property, destroy
- Deeds are maintained at ODF's Salem Headquarters
-025 Fire Maps
- Retain until filed as part of fire incident reports
-026 Forest Practices Maps
- Retain 5 years, destroy
-027 Law Enforcement Record
- Retain 6 years, destroy
-028 Log Load Receipts and Stubbooks
- Retain 3 years after termination of sale, destroy
-029 Maps (Operation and Protection)
- Retain until superseded or obsolete, destroy
-030 Operations Plats
- Retain 5 years after operation completed, destroy
-031 Property Survey Records
- Retain until superseded or obsolete, destroy
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 8
-032 Recreational Event Permits
- Retain 3 years, destroy
-033 Recreational Use Reports
- (a) Summary Reports: Retain 50 years, destroy
- (b) All Other Records: Retain 5 years, destroy
-034 Right of Way Survey Records
- Retain 5 years after right of way abandoned, destroy
-035 Service Forestry Activity and Accomplishment Reports
- (a) Input Sheets: Retain 3 months, destroy
- (b) SFAARS Reports: Retain until summaries received, destroy
- (c) Summary Reports: Retain 10 years, destroy
-036 Survey Records
- Retain permanently
-037 Threatened and Endangered Species (T&E) Records, 1990 - [ongoing] 5 c.f.
- (a)  Retain site records permanently, transfer to State Archives after 20 years
- (b) Retain all other records 20 years, destroy
-038 Tillamook Burn Historical Collection, 1933 – [ongoing] 10 c.f.
- Retain permanently, transfer to State Archives after administrative need ends
-039 Western Oregon Small Tract Optional Landowner Case Files
- Retain 20 years after landowner leaves program, destroy
+013     Cartographic Products
+        Retain until superseded or obsolete, destroy
+014     Geographic Information Systems Aerial Photographs and Photo Indexes
+        Retain 99 years, destroy
+015     Forest Products Brand Register /Log Brand Directory Records
+        Retain 6 years after superseded, destroy
+016     Log Brand Records
+        (a) Retain approved/accepted log brand application records 6 years after
+        brand abandoned, destroy
+        (b) Retain rejected log brand application records 3 years, destroy
+017     Protection District Maps
+        Retain 25 years after superseded or obsolete, destroy
 
 State Agency General Records Retention Schedule Records
 Includes but is not limited to:
 Administrative Records (OAR 166-300-0015)
-Conference, Seminar and Training Program Records
-Contracts and Agreements
-Correspondence
-Financial Records (OAR 166-300-0025)
-Account Reconciliation Records
-Expenditure and Revenue Reports
-Grant Records
-
-Databases
-FACTS
-FIRES
-SFAARS
-OSPS
-WOODCUTTING PERMITS
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 9
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Area, District, Unit
-Program:  Protection from Fire
-
-Program Description
-The Protection from Fire Program is responsible for providing protection on private and public
-forest lands.  The program focuses upon fire prevention, suppression, and fuels management to
-reduce/mitigate the incidents of forest fires in Oregon.
-
-The Oregon Forestland-Urban Interface Fire Protection Act, often referred to as Senate Bill 360,
-enlists the aid of property owners toward the goal of turning fire-vulnerable urban and
-suburban properties into less-volatile zones where firefighters may more safely and effectively
-defend homes from wildfires. Forestland-urban interface areas are identified in each county by a
-classification committee. The process of identifying forestland-urban interface areas follows
-steps and definitions described in OAR 629-044-1005 to 0145. ODF supplies information about
-the act’s fuel-reduction standards to forestland-urban interface property owners. ODF sends each
-of these property owners a certification form, which may be signed and returned to ODF after the
-fuel-reduction standards have been met. Certification relieves a property owner from the act’s
-fire cost-recovery liability. The state of Oregon may seek to recover certain fire suppression
-costs from a property owner if a fire originates on the owner's property, the fuel reduction
-standards have not been met, and ODF incurs extraordinary suppression costs. The cost-recovery
-liability under the Oregon Forestland-Urban Interface Fire Protection Act is capped at $100,000.
-
-Certification cards become void whenever a property is sold, a structure is added, or a county's
-classification committee has convened and reclassified forestland-urban interface lands.
-Committee’s convene every five years to review forestland-urban interface classifications.
-
-Program Records
-040 District Fire Prevention and Mobilization Plans
- Retain 4 years, destroy
-041 Environmental Resource Maps
- Retain until superseded, destroy
-042 Fire Protection Act Homeowner Certification Card Records
- Retain 10 years, destroy
-043 Flight Records
- Retain 1 year, destroy
-044 Incident Reports
- (a) Retain standalone reports 10 years, destroy
- (b) Retain reports in accordance fire report retention
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 10
-045 Lookout Records 1911 – [ongoing] 5 c.f.
- (a) Retain individual lookout records permanently, transfer to State Archives 20 years
-  after lookout abandoned
- (b) Retain program records 10 years after program sunsets, destroy
-046 Radio Call Logs
- Retain 10 years, destroy
-047 Record of Fire Conditions
- Retain 10 years, destroy
-048 Weather Charts
- Retain 10 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Contracts and Agreements
-Correspondence
-Financial Records (OAR 166-300-0025)
-Grant Records
-
-Databases
-FACTS
-FIRES
-SFAARS
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 11
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Area, District Unit
-Program:  State Forests/Private Forests
-
-Program Description
-The State Forests/Private Forests Program is responsible for the care, management, and
-reforestation of state and private forest lands. Staff provides technical expertise and oversight of
-the sale and harvesting of forest products.  In selected location, agency staff manages
-recreational facilities and infrastructure of state forest lands.
-
-Program Records
-049 Aerial Photographs
- Retain 99 years, destroy
-050 Aerial Seeding Program Records
- Retain 50 years, destroy
-051 Aerial Spraying Program Records
- (a) Retain maps and summary reports 20 years, destroy
- (b) Retain all other records 5 years, destroy
-052 Forest Management Plans
- Retain 5 years, destroy
-053 Forest Operations Inspection Records
- Retain 6 years, destroy
-054 Forest Practices Act Citations
- Retain 6 years, destroy
-055 Free Use Permits
- Retain 1 year after expiration date, destroy
-056 Miscellaneous Forest Product Sale Permits
- Retain 3 years, destroy
-057 Notifications of Operations
- Retain 6 years after operation completed, destroy
-058 Operator of the Year Program Records
- Retain 5 years, destroy
-059 Outstanding Tree Farmer of the Year Nominations
- Retain 5 years, destroy
-060 Pre-Commercial Thinning Program Records
-(a) Retain accomplishment reports, maps, and summary reports 50 years, destroy
-(b) Retain all other records 1 year, destroy
-062 Recreation Program Records
- (a) Retain recreation plan until superseded, destroy
- (b) Retain all other program records 10 years after program sun sets, destroy
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 12
-062 Reforestation Check Reports
- Retain 10 years, destroy
-063 Scaling Certificates
- Retain 3 years after timber sale contract completed, destroy
-064 Slash Burn Permits
- Retain 3 years, destroy
-065 Surplus Tree Sale Records
- Retain 4 years, destroy
-066 Timber Sale Reforestation Reports
- Retain 50 years, destroy
-067 Tree Planting Plans
- Retain 1 year, destroy
-068 Woodcutting Permit
- Retain permit receipts and audit records 4 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Contracts and Agreements
-Correspondence
-Financial Records (OAR 166-300-0025)
-Grant Records
-
-Databases
-FACTS
-FIRES
-SFAARS
-OSPS
-WOODCUTTING PERMITS
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 13
-Organizational Placement Schedule number: 2015-0014
-Agency:  Oregon Department of Forestry
-Division:   D.L. Phipps Forest Nursery
-
-Program Description
-The Dwight L. Phipps Nursery, was closed in July 2008, and was Oregon's only state owned
-forestry nursery, producing seedlings for state and other public and private forests.  The nursery
-produced between six and twelve million seedlings annually.  The nursery was self-supporting
-and maintaining its own operations at the Elkton facility.  The nursery contracted the delivery of
-seedlings to its customers.
-
-The Department of Forestry had grown and sold seedlings for Oregon's forest lands from 1927 to
-2008.  In 1957, the nursery was established in Elkton using funds from the federal Soil Bank Act
-and in 1965 was named the Dwight L. Phipps Nursery.  The 261 acre facility will be sold as
-surplus property.
-
-Program Records
-069 Accident Trend Control and Statistical Reports
- Retain 10 years, destroy
-070 Annual Nursery Reports
- Retain 75 years, destroy
-071   Nursery Program Records, 1957 – 2008 4.00 c.f.
- Retain permanently, transfer to State Archives 10 years after program sunsets
-072 Research Studies
- (a) Retain final report 20 years after accepted, destroy
- (b) Retain drafts, work notes, etc 1 year after final report accepted, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Business Plan Records
-Contracts and Agreements
-Correspondence
-Facilities and Building Records (OAR 166-300-0020)
-Asset Inventory Reports
-Financial Records (OAR 166-300-0025)
-Budget Preparation Records
-Payroll Records (OAR 166-300-0035)
-Employee Time Records
-Personnel Records (OAR 166-300-0040)
-Employee Personnel Records
-Recruitment and Selection Records
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 14
-Risk Management Records (OAR 166-300-0045)
-Safety Program Records
-
-Databases
-TREE
-FINANCIAL
-ITS
-WEATHER
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 15
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   J.E. Schroeder Seed Orchard
-
-Program Description
-Established in 1960, the J.E. Schroeder Seed Orchard is responsible for the selective breeding of
-tree seed with desirable characteristics.  Seeds are used to start seedlings for reforestation
-programs by government and private forest interests.  The Orchard has multiple "orchards"
-where species specific propagation and harvesting takes place.
-
-Program Records
-073 Individual Orchard Records
- Retain 10 years after life of the orchard, destroy
-074   Seed Orchard Program Records, 1960 – [ongoing] 2 c.f.
- Retain permanently, transfer to State Archives 10 years after program sunsets
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Contracts and Agreements
-Correspondence
 Facilities/Property Records (OAR 166-300-0020)
-Asset Inventory Reports
-Building Records
-Pesticide Application Records
-Financial Records (OAR 166-300-0025)
-Invoices (Billing Records)
+Information Systems Records (OAR 166-300-0030)
 
-Databases
-Excel databases are created for each orchard to document the genetics, status and position of the
-orchard.
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 16
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   South Fork Camp
-
-Program Description
-South Fork Camp is an inmate work camp run cooperatively by the Department of Forestry and
-the Department of Corrections.  The camp was established in response to the Tillamook Burn
-Rehabilitation Program and under ORS 421.450, which allows for the establishing of forest work
-camps.  The Department of Forestry is able to utilize inmate labor in a productive and mutually
-beneficial manner, with inmates gaining technical skills and work experience while completing
-their sentences.  The facility can house and manage a maximum of two-hundred inmates.  On
-average seven-hundred inmates process through the center every year.  Projects including on-
-and off-site construction, fish hatchery maintenance, fire fighting, tree planting and brush
-clearing. Projects are organized and directed by camp staff.  South Fork fields crews providing
-services to eleven counties.  Crews are under the direction of Forest Inmate Crew Coordinators.
-The Department of Corrections furnishes security and operates the camp as a minimum security
-facility maintaining records and documentation on individual inmates. Department of Forestry
-controls and manages crews during the four ten hour work days.
-
-Program Records
-075 Accomplishment Reports
- Retain 10 years, destroy
-076 Annual Reports
- Retain 10 years, destroy
-077 Crew Roster Reports
- (a) Retain monthly crew reports 6 years, destroy
-(b) Retain daily crew rosters 2 years, destroy
-078 Reforestation Records
- Retain 30 years, destroy
-079 Tree Inventories
- Retain 1 year, destroy
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 17
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Calendar and Scheduling Records
-Conference, Training Program and Seminar Records
-Contracts and Agreements
-Correspondence
-Facilities and Property Records (OAR 166-300-0020)
-Building Records
-Equipment Maintenance Records
-Pesticide Application Records
-Vehicle Records
-Payroll Records (OAR 166-300-0035)
-Employee (Inmate) Payroll Records
-Employee (Inmate) Time Records
-Risk Management Records (OAR 166-300-0045)
-Hazard Exposure Records
-
-Databases
-ACCOMPLISHMENT REPORTS
-MONTHLY CREW ROSTER REPORTS
-TREE INVENTORIES
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 18
-Organizational Placement Schedule number: 2015-0014
-Agency Oregon Department of Forestry
-Division: Tillamook Forest Center (TFC)
-
-Program Description
-The Tillamook Forest Center (TFC) is a public facility designed to educate the general public
-thorough interpretive exhibits and programs on Oregon forest practices, the history of the
-Tillamook State Forest and the Tillamook Burn.  The Center opened April 1, 2006.  A mix of
-public and private monies fund the TFC.  Private funding sources includes the Tillamook Forest
-Heritage Trust, a non-profit corporation.  Volunteers provide assistance in the operation of the
-gift shop, grounds work, educational and interpretation programs.
-
-Program Records
-080 Annual Educational Reports
- Retain 5 years, destroy
-081 Educational Program Records
-Retain 5 years after program ends or is superseded, destroy
-082 Interpretive Program Outlines/Records
- Retain 20 years, destroy
-083 Oral Histories, 2002 – [ongoing] 1.5 c.f.
- (a) Retain transcripts and photographs permanently, transfer to State Archives after
-  administrative use ends
- (b) Retain audio tapes 5 years after administrative need ends, destroy or recycle
-084 The Lookout Newsletter
- Retain 2 years, destroy
-085 Tillamook Interpretive Center Development Records, 1998 – [ongoing] 5.00 c.f.
- (a) Retain site and structure design and development records permanently, transfer to State
-  Archives after administrative use ends
- (b) Retain photographs including Tillamook Burn photos permanently, transfer to State
-  Archives after administrative use ends
- (c) Retain Tillamook Burn/Reforestation Records permanently, transfer to State Archives
-  after administrative need ends
- (d) Retain maps until superseded or obsolete destroy
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 19
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Business Plan Records (TFC Guidance Document)
-Contracts and Agreements
-Correspondence
-Policy and Procedure Guidelines and Manuals (Gift Shop, Volunteers)
-Policy Development and Planning Records
-Press Releases
-Publication Preparation Records
-Security Records
-Visitor Logs
-Facilities/Property Records (OAR 166-300-0020)
-Asset Inventory Reports
-Building Records (Site Records)
-Financial Records (OAR 166-300-0025)
-Account Reconciliation Records
-Cash Receipt Records
-Deposit Slips
-Personnel Records (OAR 166-300-0040)
-Criminal Background Check Records
-Volunteer Program Records
-
-Databases
-ADDRESS
-ORPIN
-SCHEDULING
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 20
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Administrative Services
-Program: Facilities
-
-Program Description
-The Facilities Program is responsible for maintaining and building the physical facilities owned
-by or necessary to the Department of Forestry. Responsibilities often include repair and
-maintenance duties as well as the planning and construction of new facilities on Department of
-Forestry property. The Program is responsible for acquisitions and management of various
-properties and equipment owned by the Department of Forestry.  As the administrative authority,
-the Program works with Risk Management regarding any legal activity concerning ODF
-properties.
-
-Program Records
-086 Administrative Site Inventory Records
- Retain 6 years after site abandoned, destroy
-087 Agency Provided Housing Records
- Retain 6 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Contracts and Agreements
-Correspondence
-Key Assignment Records
-Security Records
-Facilities/Property Records (OAR 166-300-0020)
-Asset Inventory Reports
-Building Records
-Equipment/Property Disposition Records
-Facility Work Orders
-Pesticide Application Records
-Financial Records (OAR 166-300-0025)
-Competitive Bid Records
-Purchasing Records
-
-Databases
+Systems of Record
 None
 
-Oregon Department of Forestry
-Records Retention Schedule
+                                                                                        6
 
- Edition: November 2015
-
- 21
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Administrative Services
-Program: Finance
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                         Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Agency Administration
+Program:         Oregon Board of Forestry
 
 Program Description
-The Finance Program is responsible for overseeing and maintaining all fiscal matters for the
-Department of Forestry.  The Finance Program is responsible for providing fiscal accounting and
-reporting according to sound business practices and agency policy.
+The Board of Forestry is comprised of seven members appointed by the Governor
+and confirmed by the senate for a term of four years. The Board of Forestry is
+charged with supervising all matters of forest policy and management under the
+jurisdiction of this state. The Board of Forestry is responsible for Support staff
+provides administrative support to the State Forester, Associate State Forester, and
+Deputy Chiefs. Staff maintains correspondence files, meeting minutes, and various
+other administrative records.
+
+Support staff is responsible for providing administrative support for the Board of
+Forestry. Staff maintains meeting minutes, agendas and attachments, meeting audio
+tapes, and policy and procedure decisions concerning the Oregon Department of
+Forestry.
 
 Program Records
-088 Administrative Site/Lands Inventory Reports
- Retain until site abandoned or structure no longer exists, destroy
-089 Annual Financial Statement Preparation Records
- Retain 6 years, destroy
-090 Automated Finance System Documentation
- Retain until system deleted, destroy
-091 Blanket Assignments
- Retain 6 years after superseded or cancelled, destroy
-092 Census Revenue Reports
- Retain current decade, destroy
-093 Collection Records
- Retain 6 years, destroy
-094 Cost Code Listing
- Retain 10 years, destroy
-095 Depreciation Schedules
- Retain 6 years after superseded, destroy
-096 Emergency Fire Cost Committee Financial Records
- Retain 10 years, destroy
-097 Expenditure Coding Corrections
- (a) Retain capital outlay corrections (Internal Service Funds Only) 10 years after
-  contributed capital repaid, destroy
- (b) Retain capital improvement and capital construction (All Funds) 6 years after sale of
-  property, destroy
- (c) Retain all other corrections 6 years, destroy
-098 Finance Reports
- Retain 6 years, destroy
-099 Fire Expenditure Actual Cost Computation Statements
- Retain 50 years, destroy
-100 Finance System Records
- Retain 1 year after superseded or obsolete, destroy
+018     Board of Forestry Field Tour Records
+        Retain 10 years, destroy
+019     Board of Forestry Hearing Records
+        (a) Retain transcripts and exhibits 20 years, destroy
+        (b) Retain audio recordings 5 years, destroy
+020     Board of Forestry Policy Statements, 1911 – [ongoing] .45 c.f.
+        Retain permanently, transfer to State Archives after 20 years
+021     Board of Forestry Resolutions, 1911 – [ongoing] .30 c.f.
+        Retain permanently, transfer to State Archives after 20 years
+022     Board of Forestry Work Plans
+        Retain until superseded or obsolete, destroy
+023     District and Protection Association Correspondence
+        Retain 10 years, destroy
+024     Executive Correspondence, 1911 – [ongoing] 1 c.f.
+        (a) Retain significant and policy-setting permanently, transfer to State Archives
+        after 20 years
+        (b) Retain all other correspondence 5 years after departure of State Forester,
+        destroy
 
-Oregon Department of Forestry
-Records Retention Schedule
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+                                                                                            7
 
- Edition: November 2015
+                        Oregon State Archives
+                       Records Retention Schedule
+Edition: August 2026                               Schedule Number: 2026-0006
+Administrative Records (OAR 166-300-0015)
+Boards and Commission Records (OAR 166-300-0017)
 
- 22
-101 Slash Account Records
- Retain 10 years, destroy
+Systems of Record
+None
+
+                                                                            8
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Agency Administration
+Program:         Public Affairs
+
+Program Description
+The Public Affairs Program tells ODF’s story and helps the department’s broad array
+of stakeholders connect with and understand the department’s core business areas. It
+does this by establishing department-wide policies and procedures for
+communications activities, and supporting and assisting divisions and programs in
+sustaining, enhancing and expanding their communications efforts.
+
+The Public Affairs Program is responsible for public relations activities of the Oregon
+Department of Forestry. Responsibilities include internal and external
+communications, media relations, management of external website and agency social
+media accounts, and coordination and fulfillment of public records requests. The
+program, in conjunction with the Tillamook Forest Center and Forest History Center,
+maintains records pertaining to the history of the Oregon Department of Forestry.
+
+Program Records
+025     Public Affairs Photographs of events and persons, 1911 – [ongoing] 1 c.f.
+        (a) Retain photographs of historic events and persons permanently, transfer to
+        State Archives after administrative need ends
+        (b) Retain all other photographs until administrative need ends, destroy
 
 State Agency General Records Retention Schedule Records
 Includes but is not limited to:
 Administrative Records (OAR 166-300-0015)
-Correspondence
-Facilities/Property Records (OAR 166-300-0020)
-Building Records
-Financial Records (OAR 166-300-0025)
-Account Transfer Records
-Account Reconciliation Records
-Asset Inventory Reports
-Budget Allotment Records
-Budget Preparation Records
-Deposit Slip (Records)
-Invoice Registers
-Purchasing Records
-Receipts
 
-Database
+Systems of Record
+PUBREX (public records request submission and management portal)
+
+                                                                                      9
+
+                             Oregon State Archives
+                          Records Retention Schedule
+Edition: August 2026                                          Schedule Number: 2026-0006
+Agency:      Oregon Department of Forestry
+Division:    Area
+Program:     District Offices
+
+Program Description
+Areas, districts, and units act as centers of operation and information on behalf of the
+Oregon Department of Forestry. ODF is organized into three areas of operations
+each containing multiple districts and units. Areas and districts are staffed on a full
+time, permanent basis. Some units are staffed on a seasonal basis. Areas, districts and
+units house the field operations of programs headquartered in Salem and are
+dedicated to the management and protection of state forest lands and private forests.
+Responsibilities include managing state forest lands and ensuring safe and
+productive forest lands throughout the state. Staff also oversees forest operations,
+harvesting, reforestation and compliance with the Forest Practices Act. Fire protection
+also constitutes a major portion of the duties and responsibilities of area, district, and
+unit offices. Monitoring, smoke management, and firefighting are all essential
+components of the Protection from Fire program in areas, districts, and units.
+
+Program Records
+026   Annual District Reports
+      Retain 20 years, destroy
+027   Citizen Complaint Records
+      Retain 3 years after resolution, destroy
+028   Districts Deeds
+      Retain as long as ODF owns property, destroy
+      Deeds are maintained at ODF's Salem Headquarters
+029   Districts Fire Maps
+      Retain until filed as part of fire incident reports, destroy
+030   Districts Operations Plats
+      Retain 5 years after operation completed, destroy
+031   Forest Practices Maps
+      Retain 5 years, destroy
+032   Property Survey Records
+      Retain until superseded or obsolete, destroy
+033   Recreational Event Permits
+      Retain 3 years, destroy
+034   Recreational Use Reports
+      (a) Retain summary reports 50 years, destroy
+      (b) Retain all other records 5 years, destroy
+035   Right of Way Survey Records
+      Retain 5 years after right of way abandoned, destroy
+                                                                                       10
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+036     Western Oregon Small Tract Optional Landowner Case Files
+        Retain 20 years after landowner leaves program, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Financial Records (OAR 166-300-0025)
+
+Systems of Record
+Woodcutting Permits
+
+                                                                                   11
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                          Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Business Services
+Program:         Financial Services
+
+Program Description
+The Finance Program is responsible for overseeing and maintaining all fiscal matters
+for the Department of Forestry. The Finance Program is responsible for providing
+fiscal accounting and reporting according to sound business practices and agency
+policy.
+
+Program Records
+037     Blanket Assignments
+        Retain 6 years after superseded or cancelled, destroy
+038     Cost Code Listing
+        Retain 10 years, destroy
+039     Depreciation Schedules
+        Retain 6 years after superseded, destroy
+040     Emergency Fire Cost Committee Financial Records
+        Retain 10 years, destroy
+041     Expenditure Coding Corrections
+        (a) Retain capital outlay corrections (Internal Service Funds Only) 10 years after
+        contributed capital repaid, destroy
+        (b) Retain capital improvement and capital construction (All Funds) 6 years
+        after sale of property, destroy
+        (c) Retain all other corrections 6 years, destroy
+042     Fire Expenditure Actual Cost Computation Statements
+        Retain 50 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Facilities/Property Records (OAR 166-300-0020)
+Financial Records (OAR 166-300-0025)
+
+Systems of Record
 SFMS
 
-Oregon Department of Forestry
-Records Retention Schedule
+                                                                                        12
 
- Edition: November 2015
-
- 23
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Administrative Services Division
-Program: Payroll
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                         Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Business Services
+Program:         Fire Business
 
 Program Description
-The Payroll Program within the Department of Forestry is responsible for providing payroll
-services, expertise and support to agency staff.  Salem is the repository for the record copy of all
-payroll records. Area, district, and unit staff independently enter payroll information into the
-payroll system.  In addition to handling payroll for permanent ODF staff, the Program handles
-payroll functions for seasonal and temporary hires.
+The Protection Finance Unit (PFU) is responsible for maintaining incident and
+Protection budgeting financial data. The Unit is responsible for managing the fire
+finance function which includes fiscal accountability and accounting for funds
+requested and claimed as part of a fire suppression action. The Unit is also
+responsible for maintaining positive communication within the Oregon Department
+of Forestry, private landowners, and the general public.
 
 Program Records
-102 Moving Expenses Records
- Retain 6 years, destroy
+043     Acreage Summary Reports, 1940 – [ongoing] 2.00 c.f.
+        Retain permanently, transfer to State Archives after 50 years
+044     Allocations for Cost Allocation Tool (CAT) Codes and Revenue
+        Distributions
+        Retain permanently, transfer to State Archives after 10 years
+045     Assessment Summaries and County Land Classification Reports
+        (a) Retain assessment summaries 50 years, destroy
+        (b) Retain all other records 6 years, destroy
+046     Fire Business Annual Public Budget Meeting Records
+        Retain 10 years, destroy
+047     Fire Expenditure actual Cost Computation Statements
+        Retain 50 years, destroy
+048     General Fire Business Reports
+        (a) Retain fund/project reconciliations 6 years, destroy
+        (b) Retain Forest Protection Association audit reports 10 years, destroy
+        (c) Retain county receivable reports and final forest patrol data reports
+        permanently, transfer to State Archives after 10 years
 
 State Agency General Records Retention Schedule Records
 Includes but is not limited to:
 Administrative Records (OAR 166-300-0015)
-Correspondence
+Financial Records (OAR 166-300-0025)
 Payroll Records (OAR 166-300-0035)
-Employee Payroll Records
-Employee Time Records
-
-Databases
-OREGON STATE PAYROLL SYSTEM (OSPS)
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 24
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Administrative Services
-Program: Risk Management
-
-Program Description
-Risk Management is responsible for addressing and answering all claims and incidents arising
-from the actions of Department of Forestry personal including but not limited to automobile and
-equipment accidents as well as any and all damage to property and/or persons.  The unit
-forwards all pertinent risk management claims to the Department of Administrative Services.
-
-Program Records
-None
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Correspondence
-Risk Management Records (OAR 166-300-0045)
-Incident Reports
-
-Databases
-INTERNAL ACCESS APPLICATION
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 25
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Administrative Services
-Program:   Information Technology (IT)
-
-Program Description
-The Information Technology Program supports the mission of ODF by providing information
-services and support to assure business continuity, accountability, leadership and program
-improvement. IT supports department information technology resources.
-
-IT is responsible for the development, implementation and maintenance of internal information
-services used by department staff.  IT provides support to internal and external customers, is
-responsible for application development and maintenance, supports the agency’s network and
-servers, and provides desktop support and video teleconference scheduling and training.  In
-addition, IT staff provides application development, maintenance and support to external
-customers including addressing technical issues relating to information technology and services.
-
-Program Records
-None
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records - OAR 166-300-0015
-Calendar and Scheduling Records
-Correspondence
-Information and Records Management Records (OAR 166-300-0030)
-Computer System Maintenance Records
-Computer System Program Documentation
-Computer System Security Records
-Information System Planning and Development Records
-User Support Records
-
-Databases
-Information Technology staff access all ODF databases
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 26
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Administrative Services
-Program:   Information Technology
-Unit:   Geographic Information Services (GIS)
-
-Program Description
-The Geographic Information Services (GIS) Unit is responsible for mapping fires, roads, district
-boundaries, and land ownership boundaries for the Department of Forestry using Geo-Spatial
-data. The GIS Unit is frequently asked to produce cartographic products used for Department of
-Forestry presentations and publications.  Unit members also provide GIS support to ODF’s
-incident management teams. The GIS Unit produces a variety of GIS and cartographic products
-on-site during large fire incidents.
-
-Program Records
-103 Aerial Photographs and Photo Indexes
- Retain 99 years, destroy
-104 Cartographic Products
- Retain until superseded or obsolete, destroy
-106 Protection District Maps
- Retain 25 years after superseded or obsolete, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Correspondence
-Facilities/Property Records (OAR 166-300-0020)
-Asset Inventory Reports
-Financial Records (OAR 166-300-0025)
-Invoices (Billing)
-
-Databases
-None
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 27
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Administrative Services
-Program:  Information Technology
-Section:   Administrative Resources
-Unit:  Log Brands
-
-Program Description
-The Log Brands Unit is responsible for administering the statewide Log Brands Program for the
-purpose of identification of forest products per ORS 532.020.  Log Brands maintains current lists
-of log brand owners and their brands which identify ownership of forest products on privately
-held forest lands.  The Log Brands Unit is responsible for processing applications for and
-assigning log brands to landowners and monitoring their subsequent use on Oregon forest lands.
-
-Program Records
-107 Forest Products Brand Register /Log Brand Directory Records
- Retain 6 years after superseded, destroy
-108 Log Brand Records
- (a) Retain approved/accepted log brand application records 6 years after brand abandoned,
-  destroy
- (b)  Retain rejected log brand application records 3 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Correspondence
-
-Databases
-LOG BRANDS
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 28
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Administrative Services
-Program:  Information Technology
-Section:   Administrative Resources
-Unit:  Records Management
-
-Program Description
-The Records Unit is responsible for administering the agency-wide records management
-program.  The Records Officer and IT Business Manager,  act as the on-site authority on all
-issues concerning records storage, files management, disposition, and scheduling.  The Records
-Unit works in conjunction with the State Archives Records Management Unit to ensure
-compliance with Oregon Public Records Law and the records retention schedule.  The Records
-Unit also maintains records documenting policy changes and directives from the main
-administrative branch of the Department of Forestry.  These administrative responsibilities lie
-mainly in keeping records of the Administrative Core Group.
-
-Program Records
-109 Directives/Policy
- Retain 5 years after superseded or revoked, destroy
-110 Policy Procedures & Guidance Documents
- Retain until superseded or revoked, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Contracts and Agreements
-Correspondence
-Policy and Procedure Guidelines and Manuals
-
-Databases
-ARCHIVING
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 29
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Forest Protection
-Program:  Protection from Fire
-
-Program Description
-The Protection from Fire Program is responsible for providing protection to 15.8 million acres of
-private and public forest land from fire.  The program focuses upon fire prevention, suppression
-and fuels management to reduce/mitigate the incidents of forest fires in Oregon.
-
-Program Records
-111  Annual Forest Fire Summary Reports, 2001 –[ongoing] 1.00 c.f.
- Retain permanently, transfer to State Archives after 10 years
-112   Fire Reports, 1911 – [ongoing] 5.c.f.
- (a) Retain fire reports for historically significant fires permanently, transfer to State
-     Archives after 20 years
- (b) Retain fire reports involving fatalities 20 years, destroy
- (c) Retain all other fire reports 10 years, destroy
- (d) Retain fire reports on cost collectible fires 3 years after claim filed
- (e) Retain fire reports on FMAG declared fires 3 years after claim filed
-113  Pacific Northwest Coordinating Group Records
- Retain 10 years, destroy
-114   Annual Public Budget Meeting Records
- Retain 10 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records – (OAR 166-300-0015)
-Administrative Rule Preparation Records
-Correspondence
-
-Databases
-FIRES
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 30
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Forest Protection
-Unit:  Air Operations
-
-Program Description
-The Air Operations Unit is responsible for all airborne activity used to identify fires, smoke
-management activity, and suppression activities.  Air Operations manages Department of
-Forestry pilots and aircraft; as well as employing private pilots for fire patrols and suppression
-operations.  The Air Operations Program is responsible for ensuring all pilots, aircraft, and
-equipment are qualified and meet the standards of safety and quality operation set by the
-Department of Forestry, Federal Aviation Administration, and any other regulatory commission.
-
-Program Records
-115 Air Operations Studies
- Retain 25 years, destroy
-116 Air Operations Summary Report
- Retain 10 years, destroy
-117 Aircraft Accident Records
- Retain 10 years, destroy
-118 Daily Flight Records
- Retain 10 years, destroy
-119 Flight Requests
- Retain 4 years, destroy
-120 Insurance Reports
- Retain 4 years, destroy
-121    Aviation Planning Records
- Retain 5 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Correspondence
-Facilities/Property Records (OAR 166-300-0020)
-Vehicle Records (Agency Owned Aircraft)
 Personnel Records (OAR 166-300-0040)
-Employee Personnel Records
 
-Databases
-Aviation Billing Database
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 31
-Organizational Placemen tSchedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Forest Protection
-Program: Equipment Pool
-Unit: Communications
-
-Program Description
-The Communications Unit is responsible for maintaining and administrating all communications
-activity and equipment for the Department of Forestry.  Maintaining authority for FCC
-frequencies, equipment allocation, equipment maintenance, and licensing are responsibilities of
-the Communications Unit.
-
-Program Records
-122 Property Number Register
- Retain until superseded or obsolete, destroy
-123 Radio Pool Cost Reports
- Retain 6 years, destroy
-124 Radio Rental and Maintenance Invoices
- Retain 6 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records - OAR 166-300-0015
-Contracts and Agreements
-Correspondence
-Work Orders
-Facilities/Property Records (OAR 166-300-0020)
-Asset Inventory Records
-Building Records (Communication Site Records)
-Equipment Maintenance Records
-Equipment/Property Disposition Records
-Financial Records (OAR 166-300-0025)
-Purchasing Records
-Information and Records Management Records (OAR 166-300-0030)
-Radio System Records
-
-Databases
-CommAnywhere
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 32
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:  Forest Protection
-Program:   Equipment Pool
-Unit: Motor Pool
-
-Program Description
-The Motor Pool Unit is responsible for the administration, maintenance, and allocation of
-vehicles and equipment for use by Department of Forestry personnel at all agency area, district
-and unit offices.  The unit monitors the use and maintenance of all vehicles, fuel, and equipment
-for the Department of Forestry.  In addition, the Motor Pool oversees the purchase and repair of
-vehicles and equipment as well as monitoring vehicles used during Department of Forestry
-activities.
-
-Program Records
-125 Depreciation Reports
- Retain until vehicle surplused s, destroy
-126 Equipment Rental Billings Register
- Retain 6 years, destroy
-127 Mileage Reports
- Retain through 2 biennia, destroy
-128 Monthly Petroleum Products Records
- Retain 6 years, destroy
-129   Equipment Development Committee Records
- Retain 20 years, destroy
-130 Oversize/Overweight Permits
- Retain 2 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Contracts and Agreements
-Correspondence
-
-Databases
-FVOL
-FML
-FleetAnywhere
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 33
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Forest Protection
-Program:  Protection from Fire
-Unit:   Emergency Fire Cost Committee
-
-Program Description
-The Emergency Fire Cost Committee is responsible for allocating special funds to aid in fire
-fighting and protection activities in times of fire emergency.  Committee members are appointed
-by the Board of Forestry.  The committee is active year-round, and meets at a minimum of four
-times a year in January, March, June, and September.
-
-Program Records
-131 Emergency Fire Cost Committee Records
- (a) Retain meeting minutes 10 years, destroy
- (b) Retain committee appointment records 4 years after membership expires, destroy
- (c) Retain handbooks 6 years after superseded, destroy
-132 Oregon Forest Land Protection Fund Records
- (a) Retain balance certifications 50 years, destroy
- (b) Retain funds summaries until superseded, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Administrative Rule Preparation Records
-Correspondence
-
-Databases
-None
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 34
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Forest Protection
-Program:   Protection from Fire
-Section:   Fire Business
-
-Program Description
-The Fire Business Section is responsible for maintaining the administrative duties of the
-Protection from Fire Program.  The Unit is also responsible for maintaining positive
-communication within the Department of Forestry, private landowners, and the general public.
-Business Administration staff is responsible for managing the fire finance function which
-includes fiscal accountability and accounting for funds requested and claimed as part of a fire
-suppression action.
-
-Program Records
-133 Acreage Summary Reports, 1940 – [ongoing] 2.00 c.f.
- Retain permanently, transfer to State Archives after 50 years
-134 Annual Public Budget Meeting Records
- Retain 10 years, destroy
-135 Assessment Summaries and County Land Classification Reports
- (a) Retain assessment summaries 50 years, destroy
- (b) Retain all other records 6 years, destroy
-136 Fire Finance Committee Records
- Retain 6 years, destroy
-137 Ocean Shores Protection Records
- Retain 6 years after agreement expires, destroy
-138 VFA/RFA Funded Equipment/Property Records
- Retain 5 years after equipment/property surpluses or disposed of, destroy
-139 Rates and Fees
- (a) SPA resource rates; Fire cache rates; AD, emergency equipment rental rates; Contract
-  crew use fees; Aviation flight rate; FEPP/FFP transport fees; retain 10 years, destroy
- (b) Assessment Rates; Communication assessment rates; Motor Pool assessment rates;
-  retain permanently, transfer to State Archives after 10 years
-140 Allocations for CAT Codes and Revenue Distributions
- Retain permanently, transfer to State Archives after 10 years
-141 General Fire Business Reports
- (a) Fund/Project reconciliations retain 6 years, destroy
- (b) FPA audit reports retain 10 years, destroy
- (c) County receivable reports; Final forest patrol data report; retain permanently, transfer
-  to State Archives after 10 years
-142 Fire Expenditure actual Cost Computation Statements
- Retain 50 years, destroy
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 35
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Contracts and Agreements
-Correspondence
-Business Plan Records (Short Range Planning)
-Public Records Disclosure Request Records
-Facilities/Property Records (OAR 166-300-0020)
-Equipment/Property Disposition Records
-Financial Records (OAR 166-300-0025)
-Account Reconciliation Records
-Accounts Payable Reports
-Accounts Receivable Reports
-Audit Reports
-Budget Preparation Records
-Grant Records
-Invoices
-Payroll Records (OAR 166-300-0035)
-Employee Time Records
-Personnel Records (OAR 166-300-0040)
-Employee Personnel Records
-
-Database
-FIRE COST BUDGETING SYSTEM
-IN-KIND CONTRIBUTION
-FIRES
+Systems of Record
+AssetWorks,
 DIRECT BILL
-FEPP ALLOCATION
-ISUITE DATABASES FOR INDIVIDUAL FIRES
+                                                                                     13
 
-Oregon Department of Forestry
-Records Retention Schedule
+                        Oregon State Archives
+                       Records Retention Schedule
+Edition: August 2026                            Schedule Number: 2026-0006
+FireWeb
+OBIEE
+OregonBuys
+Sage
+SharePoint
+SPOTS Portal
+TeamsFIRES
 
- Edition: November 2015
+                                                                        14
 
- 36
- Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Forest Protection
-Program:   Protection from Fire
-Section: Fire Business
-Unit:   Legal
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Business Services
+Program:         Protection Finance Unit
+Unit:            Emergency Fire Cost Committee
 
 Program Description
-The Legal Unit is responsible for representing the Department of Forestry in any legal action
-taken against an individual or group accused of criminal activity on state forestlands.
+The Emergency Fire Cost Committee (EFCC) is responsible for allocating special
+funds to aid in firefighting and protection activities in times of fire emergency.
+Committee members are appointed by the Board of Forestry. The committee is active
+year-round and meets at a minimum of four times a year in January, March, June, and
+September.
 
 Program Records
-143 Cost Recovery Case Files
- (a) Retain complex or controversial fire records 25 years after cost recovery, destroy
- (b) Retain all other fires 6 years after cost recovery, destroy
-144 Cost Recovery Department of Justice/Department of Revenue Resources
- Retain 10 years, destroy
-145 Cost Recovery Status Reports
- Retain 15 years, destroy
-146 Investigator Certifications
- Retain 10 years after superseded or revoked, destroy
-147 Slash Budget and Spending Plan
- Retain 6 years, destroy
+049     Emergency Fire Cost Committee Records
+        (a) Retain meeting minutes 10 years, destroy
+        (b) Retain committee appointment records 4 years after membership expires,
+        destroy
+        (c) Retain handbooks 6 years after superseded, destroy
+050     Oregon Forest Land Protection Fund Records
+        (a) Retain balance certifications 50 years, destroy
+        (b) Retain funds summaries until superseded, destroy
 
 State Agency General Records Retention Schedule Records
 Includes but is not limited to:
 Administrative Records (OAR 166-300-0015)
-Correspondence
-Policy and Procedure Guidelines and Manuals
 
-Databases
-IQS
-COST COLLECTION DATABASE
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 37
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Forest Protection
-Program:   Protection from Fire
-Section:   Operations
-
-Program Description
-The Operations Section is responsible for the logistical planning and operation tasks of the
-Department of Forestry fire suppression personnel/teams.  The program monitors weather and
-forest conditions, monitors and coordinates firefighting efforts throughout the state.
-
-Program Records
-148 Oversize/Overweight Permits
- Retain 2 years, destroy
-149 Equipment Development Committee Records
- Retain 10 years, destroy
-150 Fire Cache Administration Records
- Retain 2 years, destroy
-151 Fire Cache Billing Records
- Retain 6 years, destroy
-152 Fire Cache System Inventories
- Retain 6 years, destroy
-153 Fire Incident Reports Records
- (a) Retain reports and investigation records for controversial fires or those resulting in
-  death 25 years after investigation completed, destroy
- (b)  Retain all other reports/investigations 10 years, destroy
-154 Incident Dispatch Records
- Retain 25 years, destroy
-155 Fire Mobilization Plans
- Retain 25 years, destroy
-156 Fire Overhead Performance Rating Records
- Retain 5 years, transfer to employee personnel file
-157 Fire Season Reviews
- Retain 15 years, destroy
-158 National Fire Danger Rating System Records
- Retain 5 years, destroy
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 39
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Business Plan Records
-Conference, Seminar and Training Program Records
-Contracts and Agreements
-Correspondence
-Policy and Procedure Guidelines and Manuals
-Facilities/Property Records (OAR 166-300-0020)
-Asset Inventory Records
-Financial Records (OAR 166-300-0025)
-Account Reconciliation Records
-Invoices
-Personnel Records (OAR 166-300-0040)
-Employee Training Records
-
-Databases
-ROSS
-FIRES
-IQS
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 40
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Forest Protection
-Program:  Protection from Fire
-Section:   Policy/Workforce Capacity
-
-Program Description
-The Policy/Workforce Capacity Section is responsible for creating, implementing and
-monitoring general and training policies and procedures in relation to protection responsibilities.
-Section staff works in conjunction with other ODF planning programs as well as the Protection
-Division to compile long and short term planning policies.
-
-Program Records
-159 Case/Action Compliance File Records
- (a) Retain founded case/action records 6 years after closure, destroy
- (b) Retain unfounded case/action records 3 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Administrative Rule Preparation Records
-Attorney General Opinions
-Conference, Seminar and Training Program Records
-Contracts and Agreements
-Correspondence
-Policy and Procedure Guidelines and Manuals
-Policy  Development and Planning Records
-Public Record Disclosure Request Records
-Financial Records (OAR 166-300-0025)
-Account Reconciliation Records
-
-Databases
-IQS
-Training/Scheduled Training (Contracts Section)
-Contractor Information
-Firefighter Class Results
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 41
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   Forest Protection
-Program:   Protection from Fire
-Section:   Prevention/Meteorology
-
-Program Description
-The Prevention/Meteorology Section is responsible for creating, implementing and monitoring
-forest fire prevention policies and procedures. The section also monitors weather and
-forest conditions and manages smoke management initiatives required by ODF.
-
-Program Records
-160 Aerial Observation Reports
- Retain 3 years, destroy
-161 Annual Smoke Management Report
-(a) Retain final, accepted report 10 years, destroy
-(b) Retain drafts and work notes 1 year after final report produced, destroy
-162 Investigator Certifications
- Retain 10 years after superseded or revoked, destroy
-163 Daily Weather Maps
- Retain 5 years, destroy
-164 Fire Risk Methodology Records
- Retain 5 years after superseded, destroy
-165 Forest Closure Proclamations
- Retain 20 years, destroy
-166 Guide to Legal Requirements
- Retain 6 years after superseded or obsolete, destroy
-167 Hazard Control Records
- Retain 5 years, destroy
-168 Initial Attack Analysis Records
- (a) Retain complex or controversial fire records 25 years after cost recovery, destroy
- (b) Retain all other fires 6 years after cost recovery, destroy
-169 Monitoring - Fuels Evaluation
- Retain 10 years, destroy
-170 National Fire Danger Rating System Records
- Retain 5 years, destroy
-171 National Weather Service (NWS) Coordination Records
- (a) Retain meetings and activities records 10 years, destroy
- (b) Retain all other NWS records/material until superseded, destroy
-172 Smoke Intrusion Reports
- Retain 15 years, destroy
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 42
-173 Smoke Management Advisory Committee Records
- Retain 5 years, destroy
-174 Smoke Management Audit Records
- Retain 10 years, destroy
-175 Smoke Management Forecasts, Advisories, and Instructions
- Retain 5 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Conference, Seminar and Training Program Records
-Contracts and Agreements
-Correspondence
-Policy and Procedure Guidelines and Manuals
-Financial Records (OAR 166-300-0025)
-Grant Records (Biomass)
-Invoices
-Personnel Records (OAR 166-300-0040)
-Employee Training Records
-
-Databases
-COST RECOVERY
-FIRE WARDEN
-RAWS STATION WEATHER OBSERVATIONS
-MIXING HEIGHT AND TRANSPORT WIND VERIFICATION
-SMOKE MANAGEMENT DATA SYSTEM
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 43
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   State Forests
-Program:   State Forests
-Unit:  Administration
-
-Program Description
-The State Forests Program is responsible for actively managing Oregon's public forest lands to
-provide economic, environmental and social benefits for all Oregonians.
-
-Staff are responsible for the administrative duties of the State Forests Program as well as
-maintaining communications between the program and other ODF programs.  The unit maintains
-policies, procedures, and orders directed at improving the Forest Management aspects on Oregon
-forestlands.  In addition, records created and maintained reflect policies and procedures
-generated by the leadership of the Forest Management Division and State Forests Program.
-
-Program Records
-176 Annual Operations Plans
- (a) Retain final plans 10 years, destroy
- (b) Retain drafts, notes, working files 1 year after adoption of plan, destroy
-177 District Implementation Plans
- (a) Retain final plans 20 years, destroy
- (b) Retain drafts, notes, working files 1 year after adoption of plan, destroy
-178 Forest Management Plans, 1979– [ongoing] 4.00 c.f.
- Retain permanently, transfer to State Archives after 10 years
-179 Resolutions and Orders
- Retain until ODF is no longer required to manage the land, destroy
-180 State Forest Accomplishment Reports
- Retain 15 years, destroy
-
-State Agency General Records Retention Schedule Records
-Administrative Records - OAR 166-300-0015
-Correspondence
-
-Databases
+Systems of Record
 None
 
-Oregon Department of Forestry
-Records Retention Schedule
+                                                                                   15
 
- Edition: November 2015
-
- 44
- Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   State Forests
-Program:   State Forests
-Unit:   Adaptive Management
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Human Resources
+Program:         Human Resources
 
 Program Description
-The Adaptive Management Unit is responsible for monitoring the forest resource activities of the
+Personnel actions may originate at the district, area, or unit level; however, all
+documentation is filed with the Human Resources Section. The Human Resources
+Program maintains official/record copy employee files on all permanent and seasonal
+employees. In addition, Human Resources provides HR support to the Oregon Forest
+Resources Institute (OFRI).
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Personnel Records (OAR 166-300-0040)
+
+Systems of Record
+None
+
+                                                                                   16
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Forest Resources
+Program:         Field Support
+
+Program Description
+Field Support is responsible for assisting Stewardship Foresters to provide private
+landowners with guidance and assistance in the management of their forestlands.
+Resource protection and responsible use of Oregon forestlands is one of the
+responsibilities of Field Support, which is promoted through education about, and
+enforcement of the Forest Practices Act and associated programs.
+
+Program Records
+051     Advisory Committee to State Forester on Selection and Protection of
+        Resource Sites Records, 1984 – [ongoing] .5 c.f.
+        Retain permanently, transfer to State Archives after administrative need ends
+052     Forest Operations Notification and Inspection Records
+        Retain 10 years after last action, destroy
+053     Forest Practices Activities Summary Reports, 1972 – [ongoing] 1 c.f.
+        Retain permanently, transfer to State Archives after administrative need ends
+054     Forestry Resources Special Study Reports
+        Retain 20 years, destroy
+055     Nonpoint Source Technical Specialists Panel Records
+        Retain 10 years, destroy
+056     Sensitive Bird Site Hearing Records
+        Retain 25 years, destroy
+057     State Forester's Annual Rule Review Records
+        Retain 20 years, destroy
+058     Stream Classification Records
+        Retain 10 years, destroy
+059     Wetlands (Inventory) Project Records
+        Retain until superseded or obsolete, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Systems of Record
+FACTS
+FERNS
+CIVIL PENALTIES
+
+                                                                                        17
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Forest Resources
+Program:         Forest Health
+
+Program Description
+Forest Health is responsible for the research and prevention of insect and disease
+impact on forestlands throughout Oregon. Forest Health conducts surveys, provides
+evaluations, and monitors forest insects and tree diseases. This program performs
+research activities on insect and disease development and expands upon various
+activities within Oregon’s forestlands to manage insect populations and disease that
+may be detrimental to forest health. The Forest Health team utilizes and develops
+current methods for insect and tree disease control throughout the state. Funding
+includes but is not limited to federal forest grants. This program is an asset to both
+private and public landowners.
+
+Program Records
+060     Animal Damage Studies
+        Retain 20 years, destroy
+061     Board of Forestry Presentation Records
+        Retain 5 years, destroy
+062     Cooperative Insect Control Project Records, 1975 – [ongoing] 2 c.f.
+        Retain permanently, transfer to State Archives 20 years after project
+        completion
+063     Disease Pathology Studies
+        Retain 99 years, destroy
+064     Insect and Disease Aerial/Ground Survey Records
+        Retain 99 years, destroy
+065     Insect and Disease Program Development Records
+        Retain 25 years, destroy
+067     Insect (Entomology) Studies
+        Retain 99 years, destroy
+068     Service Forestry Activity and Accomplishment Report (SFAAR) Records
+        (a) Retain SFAAR Reports 50 years, destroy
+        (b) Retain SFAAR Input Reports 3 months, destroy
+        (c) Retain all other accomplishment reports 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Financial Records (OAR 166-300-0025)
+
+                                                                                     18
+
+                        Oregon State Archives
+                       Records Retention Schedule
+Edition: August 2026                            Schedule Number: 2026-0006
+Systems of Record
+SFAAR
+LRAFT
+
+                                                                        19
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                           Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Forest Resources
+Program:         Forest Resources Policy and Administrative
+
+Program Description
+Forest Resources works with landowners, the timber industry, the conservation
+community, and other organizations to keep forests healthy and productive. The
+division’s work is twofold: to protect and preserve fish and wildlife habitat, soil, air,
+and water resources while encouraging economically efficient forest practices that
+ensure the continuous growing and harvesting of forest tree species.
+
+Program Records
+069     Forest Resources Aerial Photographs
+        Retain 99 years, destroy
+070     Recognition Program Records
+        Retain 5 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Systems of Record
+FERNS
+
+                                                                                            20
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Forest Resources
+Program:         J.E. Schroeder Seed Orchard
+
+Program Description
+Established in 1973, the J.E. Schroeder Seed Orchard is responsible for the selective
+breeding of tree seeds with desirable characteristics. These seeds are used to start
+seedlings for reforestation programs by government and private forest interests. The
+Orchard has multiple orchards within where species specific propagation and
+harvesting take place. ODF participates in individual orchards while serving as the
+site manager and host for cooperative programs.
+
+Program Records
+071     Individual Orchard Records
+        Retain 10 years after life of the orchard, destroy
+072     Seed Orchard Aerial Spraying Program Records
+        (a) Retain maps and summary reports 20 years, destroy
+        (b) Retain all other records 5 years, destroy
+073     Seed Orchard Program Records, 1960 – [unknown] 2 c.f.
+        Retain permanently, transfer to State Archives 10 years after program sunsets
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Facilities/Property Records (OAR 166-300-0020)
+Financial Records (OAR 166-300-0025)
+
+Systems of Record
+Shared Drive
+
+                                                                                        21
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                         Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Forest Resources
+Program:         Monitoring
+
+Program Description
+Monitoring ensures high water quality by conducting monitoring and research
+internally and with partners to protect drinking water and fish habitat from
+unnecessary human-caused impacts. This program embraces statutory requirements
+to conduct research and monitoring to verify that current forest management
+practices are protective and develop new rules or policies to maintain water quality
+and fish habitat. Within Monitoring are the Compliance Monitoring Program (CMP)
+and Adaptive Management Program (AMP). CMP develops studies to evaluate state-
+wide landowner compliance rates with the Forest Practices Rules (Div. 678). CMP
+works closely with ODF foresters, subject matter experts, the CMP Committee
+(CMPC) and a contracted statistician to plan, strategize, and implement compliance
+monitoring studies. AMP evaluates whether forestry practices are meeting their goals
+to protect natural resources through a science-based and transparent process (Div.
+603). The AMP Committee (AMPC) guides the overall policy and process, and the
+Independent Research and Science Team (IRST) coordinates research in support of
+policy decisions. The committees make recommendations to the Board of Forestry on
+any proposed rule changes.
+
+Program Records
+074     Adaptive Management Program (AMP) Records
+        (a) Retain drafts of records outlined in Division 603 (AMP rules) 1 year, destroy
+        (b) Retain final versions of records outlined in Division 603 (AMP rules) 30
+        years, destroy
+075     Adaptive Management Program Committee and Independent Research
+        and Science Team Records
+        Retain 10 years, destroy
+076     Chemical Application Rule Adequacy Monitoring Program Records
+        Retain 25 years, destroy
+077     Compliance Monitoring Program (CMP) Records
+        Retain until superseded or obsolete, destroy
+078     Compliance Monitoring Program Committee Records
+        Retain 10 years, destroy
+079     Water Quality Studies
+        Retain 20 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+                                                                                        22
+
+                        Oregon State Archives
+                       Records Retention Schedule
+Edition: August 2026                            Schedule Number: 2026-0006
+
+Systems of Record
+None
+
+                                                                        23
+
+                           Oregon State Archives
+                         Records Retention Schedule
+Edition: August 2026                                      Schedule Number: 2026-0006
+Agency:      Oregon Department of Forestry
+Division:    Forest Resources
+Program:     Small Forestland Owner Incentives and Assistance
+
+Program Description
+Small Forestland Owner (SFO) Assistance and Incentives supports various programs
+including the Small Forestland Grant Program, Landscape Resiliency Program, Forest
+Stewardship Program, Forest Resource Trust, and Forest Legacy Program. SFO
+Assistance and Incentives helps connect federal funds, state general funds, and state
+grant programs with eligible small forestland owners. This program is responsible for
+maintaining positive relationships with numerous state and federal governmental
+agencies, private landowners, and the public on issues concerning forest resources
+planning and the future development, conservation, and preservation of Oregon
+forestlands.
+
+Program Records
+080   Chief's Attainment and Forest Operator Landowner Law Administration
+      Data Reports
+      Retain 20 years, destroy
+081   Forest Legacy Program Records
+      Retain permanently in agency
+082   Forest Management Plans
+      Retain 5 years, destroy
+083   Forest Resource Trust Advisory Committee Records (FRTAC)
+      Retain 10 years, destroy
+084   Forest Resource Trust Loan and Donation Records
+      (a) Retain loan records 10 years after loan repaid or lien expires, destroy
+      (b) Retain donation records 10 years, destroy
+085   Stewardship Program Records
+      Retain 5 years after grant completed, destroy
+086   Western Oregon Small Tract Optional Tax Program Records
+      (a) Retain card index and landowner case files 6 years after landowner leaves
+      program, destroy
+      (b) Retain case file register 6 years after case completed, destroy
+      (c) Retain true cash value reports 50 years, destroy
+087   Western Oregon Small Tract Optional Tax Program Summary Reports
+      (a) Retain annual summary 50 years, destroy
+      (b) Retain six-month summary 2 years, destroy
+      (c) Retain monthly reports 1 year, destroy
+      (d) Retain certificate listing until superseded, destroy
+
+                                                                                      24
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Financial Records (OAR 166-300-0025)
+
+Systems of Record
+SFAAR
+LRAFT
+
+                                                                                   25
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                            Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Forest Resources
+Program:         Small Forestland Owner Support
+
+Program Description
+Small Forestland Owner (SFO) Support was established to aid small forestland
+owners in understanding and following forest practices regulations. SFO Support
+provides technical assistance, supporting services, and administration of programs
+such as the Small Forestland Investment in Stream Habitat (SFISH) Program and the
+Forest Conservation Tax Credit. This program is also responsible for Road Condition
+Assessments (RCAs) and several other small forestland owner minimum options that
+became available due to the Private Forest Accord and the Forest Practices Act.
+
+Program Records
+088     Forest Conservation Tax Credit Records
+        (a) Retain certifications of tax credit eligibility permanently in agency
+        (b) Retain area deed restriction 50 years after certification of tax credit or until
+            restriction is removed, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Financial Records (OAR 166-300-0025)
+
+Systems of Record
+FERNS
+
+                                                                                           26
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Forest Resources
+Program:         Urban and Community Forestry
+
+Program Description
+Urban and Community Forestry (UCF) is responsible for helping all Oregonians
+improve their quality of life by promoting strategic investments in trees and green
+infrastructure in and around towns and cities. This program provides technical,
+educational, and financial assistance to urban and rural communities throughout the
+state. UCF staff work with city and regional governments as well as with other state
+agencies, academic institutions, non-profits, private landowners, and business owners
+to help them maximize the benefits of their trees while minimizing costs and
+liabilities.
+
+Program Records
+089     National Arbor Day Foundation Award Program Records
+        Retain 10 years, destroy
+090     Special Research Studies
+        Retain 25 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Financial Records (OAR 166-300-0025)
+
+Systems of Record
+None
+
+                                                                                   27
+
+                            Oregon State Archives
+                          Records Retention Schedule
+Edition: August 2026                                        Schedule Number: 2026-0006
+Agency:      Oregon Department of Forestry
+Division:    Protection from Fire
+
+Program Description
+The Protection from Fire Program is Oregon’s largest fire department responsible for
+providing protection from fire to 16.2 million acres of private and public forest lands.
+The Program focuses on fire prevention, investigation, suppression, and fuels
+management to reduce or mitigate incidents of wildland fires in Oregon.
+
+The Protection from Fire Division of the Oregon Department of Forestry is divided
+into two sections: Operations and Policy and Planning. The Program includes all
+Protection from Fire Division sections and forest protection districts as designated
+under ORS 477.225 with wildland fire protection responsibilities. Other agencies and
+agency partners may participate as part of the Protection from Fire Program through
+contract or agreement.
+
+Program Records
+091   Annual Forest Fire Summary Reports, 2001 – [ongoing] 1 c.f.
+      Retain permanently, transfer to State Archives after 10 years
+092   EnviroVision Solutions (EVS) Camera Imagery Records
+      Retain 10 years, destroy
+093   Fire Protection Act Homeowner Certification Card Records
+      Retain 10 years, destroy
+094   Fire Protection Maps (Operation and Protection)
+      Retain until superseded or obsolete, destroy
+095   Fire Protection Rates and Fees Records
+      Retain 10 years, destroy
+096   Fire Reports, 1911 – [ongoing] 5.c.f.
+      (a) Retain fire reports for historically significant fires permanently, transfer to
+      State Archives after 20 years
+      (b) Retain fire reports involving fatalities 20 years, destroy
+      (c) Retain fire reports on cost collectible fires 3 years after total payment has
+      been received or 10 years whichever is longer, destroy.
+      (d) Retain fire reports on Fire Management Assistance declared fires 3 years
+      after claim filed, destroy
+      (e) Retain all other fire reports 10 years, destroy
+097   Fire Season Reviews
+      Retain 15 years, destroy
+098   Lookout Records 1911 – [ongoing] 5 c.f.
+      (a) Retain individual lookout records permanently, transfer to State Archives 20
+      years after lookout abandoned
+      (b) Retain program records 10 years after program sunsets, destroy
+                                                                                       28
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+099     Protection from Fire Annual Public Budget Meeting Records
+        Retain 10 years, destroy
+100     Protection Operations and Mobilization Plans
+        Retain 25 years, destroy
+101     Radio Call Logs
+        Retain 10 years, destroy
+102     Severity Program Records
+        Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Facilities/Property Records (OAR 166-300-0020)
+Financial Records (OAR 166-300-0025)
+
+Systems of Record
+FireWeb
+Smoke Management Data System
+State of Oregon Fire Situation Analyst Application
+
+                                                                                   29
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Protection from Fire
+Program:         Operations
+Unit:            Agreements
+
+Program Description
+The Agreements Unit develops, negotiates, and maintains complex wildfire
+protection agreements with federal agencies, forest protective associations, public
+entities, and private business or individuals on behalf of the Oregon Department of
+Forestry.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Personnel Records (OAR 166-300-0040)
+
+Systems of Record
+SharePoint
+
+                                                                                      30
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                         Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Protection from Fire
+Program:         Operations
+Unit:            Fire Aviation
+
+Program Description
+The Fire Aviation Unit is responsible for all airborne activity used to identify fires,
+smoke management activity, and suppression activities. The Fire Aviation Unit
+manages Oregon Department of Forestry pilots and aircraft and employs private
+pilots for fire patrols and suppression operations. This Unit is responsible for
+ensuring all pilots, aircraft, and equipment are qualified and meet the standards of
+safety and quality operation set by the Oregon Department of Forestry, Federal
+Aviation Administration, and any other relevant regulatory commission.
+
+Program Records
+103     Air Operations Studies
+        Retain 25 years, destroy
+104     Air Operations Summary Report
+        Retain 10 years, destroy
+105     Aircraft Accident Records
+        Retain 10 years, destroy
+106     Agency-owned Aircraft Flight Records
+        Retain for life of agency-owned aircraft or transfer to new owner on aircraft sale
+        or decommission, destroy
+107     Flight Requests
+        Retain 4 years, destroy
+108     Insurance Reports
+        Retain 4 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Facilities/Property Records (OAR 166-300-0020)
+Personnel Records (OAR 166-300-0040)
+
+Systems of Record
+Aviation Billing Database
+SharePoint
+
+                                                                                          31
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Protection from Fire
+Program:         Operations
+Unit:            Fire Intelligence
+
+Program Description
+The Fire Intelligence Unit provides data, fire planning, and intelligence analysis to
+support the Division’s wildfire management strategy decision-making and a variety of
+statewide initiatives.
+
+Program Records
+109     Fire Danger Pocket Cards
+        Retain until superseded, destroy
+110     Fire Season Narratives
+        Retain 10 years, destroy
+111     Technical Fire Data Analysis Records
+        Retain until superseded, destroy.
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Information Systems Records (166-300-0030)
+
+Systems of Record
+GIS
+Fire Intelligence Data Systems
+RAWS STATION WEATHER OBSERVATIONS
+Significant Fire Potential Website
+State of Oregon Fire Situation Analyst application
+
+                                                                                   32
+
+                           Oregon State Archives
+                         Records Retention Schedule
+Edition: August 2026                                      Schedule Number: 2026-0006
+Agency:      Oregon Department of Forestry
+Division:    Protection from Fire
+Program:     Operations
+Unit:        Fire Operations
+
+Program Description
+The Fire Operations Unit is comprised of the Fire Cache, Salem Coordination Center
+(SCC), and Protection Contract Services (PCSU). The Fire Operations Unit is
+responsible for the logistical planning and operation tasks of the Department of
+Forestry fire suppression personnel/teams.
+
+ODF Fire Cache provides statewide logistical support to the Department’s Incident
+Management Teams, forest protection districts as designated under ORS 477.225,
+and other state and federal agencies in their efforts toward wildland fire suppression
+and other emergency operations. Fire Cache provides trained personnel, equipment,
+and supplies to any location throughout Oregon and cooperating states. SCC
+coordinates fire dispatching operations and mobilization of state and national level
+wildfire resources in accordance with established policies and guidelines. SCC
+position plays a key role in maintaining the complete and coordinated statewide
+protection from fire system.
+
+Private contractors provide an array of firefighting resources to ODF and its
+partnering agencies for wildfire mitigation, including hand crews, water
+handling/heavy equipment, medical units, security services, mobile kitchens and
+more. These assets and services are secured by ODF Call-When-Needed (CWN)
+Incident Resource Agreements (IRA). PCSU manages these agreements and contracts
+with ODF partners.
+
+Program Records
+112   Federal Excess Personal Property Program Records
+      Retain 6 years, destroy
+113   Fire Cache Billing Records
+      Retain 10 years after equipment is surplused or decommissioned, whichever is
+      later, destroy
+114   Fire Cache System Inventories
+      Retain 10 years, destroy
+115   Fire Weather Charts
+      Retain 10 years, destroy
+116   Incident Dispatch Records
+      Retain 25 years, destroy
+117   Initial Attack Analysis Records
+
+                                                                                    33
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                         Schedule Number: 2026-0006
+        (a) Retain complex or controversial fire records 25 years after cost recovery,
+        destroy
+        (b) Retain all other fires 6 years after cost recovery, destroy
+118     Volunteer Fire Assistance (VFA)/Rural Fire Assistance (RFA) Funded
+        Equipment/Property Records
+        Retain 5 years after equipment/property surpluses or disposed of, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Facilities/Property Records (OAR 166-300-0020)
+Financial Records (OAR 166-300-0025)
+Information Systems Records (OAR 166-300-0030)
+Personnel Records (OAR 166-300-0040)
+Risk Management Records (OAR 166-300-0045)
+
+Systems of Record
+FIRES
+FireWeb
+IQSIROC
+Microsoft Access
+ODF N Drive
+ODF Property Access Program
+ROSS
+SharePoint
+
+                                                                                         34
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                           Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Protection from Fire
+Program:         Operations
+Unit:            Geographic Information Systems (GIS)
+
+Program Description
+The overall agency Geographic Information Systems (GIS) Unit is responsible for
+systems administration, development, and maintenance of enterprise GIS data that is
+widely used throughout the Oregon Department of Forestry (e.g., hydrography,
+transportation, administrative boundaries, etc.). GIS is a mapping, analysis, and data
+management technology that is used widely to inform business decisions and
+support Protection from Fire Division operations. GIS connects data to maps by
+integrating spatial data (where things are) with tabular data (what things are like) to
+help users understand patterns, relationships, and geographic context. In addition to
+traditional data visualization tools (e.g., maps and graphics), GIS also uses web-based
+tools to serve information in more interactive platforms such as websites, dashboards,
+applications, and survey forms.
+
+Program Records
+119     Environmental Resource Maps
+        Retain until superseded, destroy
+120     Geographic Information Systems Curriculum Records
+        Retain for the life of the project, destroy
+121     Prescribed Fire Liability Program Records
+        Retain for life of Prescribed Fire Liability Program, destroy.
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Information Systems Records (OAR 166-300-0030)
+
+Systems of Record
+ArcGIS Online (AGOL)
+GIS Data Library
+GIS Projects
+ODF Portal
+Spatial Database Engine (SDE)
+
+                                                                                       35
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                        Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Protection from Fire
+Program:         Operations
+Unit:            Incident Management Teams (IMTs)
+
+Program Description
+Incident management team (IMT) is a term used to refer to a group of highly trained
+personnel that respond to an emergency. Although the incident management team
+concept was originally developed for wildfire response, it has been expended into
+what is now known as "All-Hazards Incident Management Team”. An All Hazard IMT
+can respond to a wide range of emergencies including fires, floods, earthquakes,
+hurricanes, tornadoes, tsunami, riots, spilling of hazardous materials, and other
+natural or human-caused incidents.
+
+The Oregon Department of Forestry proudly fields three Incident Management
+Teams that are utilized primarily for wildfire emergencies within Oregon but have also
+been mobilized to fellow states and internationally for wildfires, hurricanes, pandemic
+response, flooding, cyber-attacks, and winter ice storms.
+
+Program Records
+122     Authority Delegation Records
+        Retain 6 years after authorization superseded or expired, whichever is later,
+        destroy
+123     Fire Overhead Position Performance Rating Records
+        Retain 5 years, transfer to employee personnel file
+124     Incident Action Plans
+        Retain until superseded or obsolete, destroy
+125     Incident Management Team Rosters
+        Retain 75 years, destroy.
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Payroll Records (OAR 166-300-0035)
+Personnel Records (OAR 166-300-0040)
+Risk Management Records (OAR 166-300-0045)
+
+Systems of Record
+IQS
+IROC
+SharePoint
+                                                                                        36
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                         Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Protection from Fire
+Program:         Policy and Planning
+Unit:            Mitigation
+
+Program Description
+The Mitigation Unit is comprised of Smoke Management, Meteorology, National Fire
+Planning and Protection Grants, Prescribed Fire, and The Certified Burn Manager
+Program. The Mitigation Unit is responsible for implementing and monitoring the
+Oregon Smoke Management Plan and procedures. The section issues daily forecasts
+for smoke, conducts field audits, assists landowners and burners with certifications for
+prescribed fire, and coordinates various grant opportunities.
+
+Program Records
+126     Annual Smoke Management Report
+        (a) Retain final, accepted report 10 years, destroy
+        (b) Retain all other records 1 year after final report produced, destroy
+127     Certified Burn Manager Records
+        Retain 10 years, destroy
+128     Smoke Intrusion Reports
+        Retain 15 years, destroy
+129     Smoke Management Audit Records
+        Retain 10 years, destroy
+130     Smoke Management Forecasts, Advisories, and Instructions
+        Retain 5 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Board and Commission Records (OAR 166-300-0017)
+Financial Records (OAR 166-300-0025)
+Personnel Records (OAR 166-300-0040)
+
+Systems of Record
+Mixing Height and Transport Wind Verification
+Smoke Management Data System
+SharePoint
+
+                                                                                     37
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Protection from Fire
+Program:         Policy and Planning
+Unit:            Planning
+
+Program Description
+The Planning Unit is responsible for maintaining the planning duties of the Protection
+from Fire Program. The Unit is also responsible for maintaining positive
+communication within the Department of Forestry, partner agencies, private
+landowners, and the general public. Planning staff is responsible for managing the
+project planning functions, administrative rules and some accounting functions as
+part of short- and long-term project needs. The Planning Unit is tasked with seeking
+solutions to capitalize on efficiency and modernization through legislative concepts,
+policy option packages, database improvements, and other traditional or non-
+traditional solutions.
+
+Program Records
+None
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Information Systems Records (OAR 166-300-0030)
+
+Systems of Record
+SharePoint
+
+                                                                                    38
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                           Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Protection from Fire
+Program:         Policy and Planning
+Unit:            Prevention and Policy – Cost Recovery
+
+Program Description
+The Prevention and Policy - Cost Recovery Unit works with all Oregon Department of
+Forestry forest protection districts as designated under ORS 477.225, and forest
+protective associations to review investigations of human caused fires and determine
+a fire’s eligibility for cost collection. For fires that are approved for cost recovery, this
+Unit communicates with the responsible party (party named liable for the fire),
+insurance companies, and lawyers to attempt to collect fire suppression costs
+consistent with agency policy.
+
+Program Records
+131     Cost Recovery Department of Justice
+        Retain 10 years, destroy
+132     Cost Recovery Quarterly Status Report – Districts
+        Retain 5 years, destroy
+133     Fire Cost Recovery Database Case Records
+        Retain 10 years after case closure, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Systems of Record
+Fire Cost Recovery Database
+SharePoint
+
+                                                                                           39
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                        Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Protection from Fire
+Program:         Policy and Planning
+Unit:            Prevention and Policy – Policy
+
+Program Description
+The Prevention and Policy – Policy Unit is responsible for creating, implementing, and
+monitoring policies and procedures of the Protection from Fire Program including,
+but not limited to, fire prevention, investigation, fire operation and Incident
+Management Teams, cost recovery, mitigation, and administration for the Protection
+from Fire Division. This Unit works in conjunction with other agency planning
+programs to compile long and short-term planning policies and procedures.
+
+Program Records
+134     Case/Action Compliance File Records
+        (a) Retain founded case/action records 6 years after closure, destroy
+        (b) Retain unfounded case/action records 3 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Financial Records (OAR 166-300-0025)
+
+Systems of Record
+SharePoint
+
+                                                                                    40
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                        Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Protection from Fire
+Program:         Policy and Planning
+Unit:            Prevention and Policy – Prevention
+
+Program Description
+The Oregon Department of Forestry fire prevention program primarily works to
+modify human behaviors to reduce unnecessary or careless fire ignitions and fire
+spread. To meet this objective, the Prevention and Policy - Prevention Unit analyzes
+statewide fire problems through data collection; determines where prevention efforts
+will be effective; and prioritizes efforts with respect to suppression costs, number of
+fires, and acres burned. This Unit plans, coordinates, and implements agency policies
+and actions that relate to wildfire prevention on state, municipal, private, and certain
+federally owned forestlands in Oregon.
+
+Program Records
+135     Closed Area Entry Permits
+        Retain 5 years, destroy
+136     Fire Danger Rating System Records
+        Retain 5 years, destroy
+137     Fire Prevention and Readiness Education Materials
+        Retain 5 years, destroy
+138     Fire Warden Appointment Records
+        Retain 3 years after employee separation or 3 years after any related ongoing
+        investigation or legal proceeding is closed, whichever is later, destroy
+139     Forest Closure Proclamations
+        Retain 20 years, destroy
+140     Law Enforcement Records
+        Retain 6 years, destroy
+141     Records of Fire Condition
+        Retain 10 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Personnel Records (OAR 166-300-0040)
+
+Systems of Record
+Enforcement
+FACTS
+FERNS
+                                                                                      41
+
+                        Oregon State Archives
+                       Records Retention Schedule
+Edition: August 2026                            Schedule Number: 2026-0006
+Fire Wardens
+FIRES
+SharePoint
+
+                                                                        42
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                              Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Protection from Fire
+Program:         Policy and Planning
+Unit:            Prevention and Policy – Wildfire Investigation
+
+Program Description
+The Oregon Department of Forestry (ODF) is statutorily mandated to investigate all
+wildland fires that occur on or threaten ODF protected lands. Investigations are for
+the purpose of unbiased fact finding to determine origin, cause, responsible party,
+and other information relevant to agency needs. ODF does not conduct criminal
+investigations; however, ODF does work closely with law enforcement agencies when
+criminal activities are suspected.
+
+Program Records
+142     Fire Investigations Records
+        (a) Retain fire investigation records for controversial fires or those resulting in
+        death 25 years after investigation completed, destroy
+        (b) Retain all other fire investigations 10 years, destroy
+143     Investigator Certifications
+        Retain 10 years after superseded or revoked, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Systems of Record
+IQS
+SharePoint
+
+                                                                                              43
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Protection from Fire
+Program:         Policy and Planning
+Unit:            Training
+
+Program Description
+The Training Unit coordinates the wildland fire training and certification program for
+the Oregon Department of Forestry (ODF). This Unit provides technical expertise to
+ensure ODF responders of wildland fire and all hazard assignments meet national,
+regional, state, and agency training requirements, including but not limited to
+National Interagency Incident Management System (NIMS).
+
+Program Records
+144     Incident Qualification System Card Reports
+        Retain 10 years, destroy
+145     Incident Qualification System Master Records Reports
+        Retain 10 years, destroy
+146     Position Task Books
+        Retain 10 years after employee separation, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+Personnel Records (OAR 166-300-0040)
+
+Systems of Record
+Fireweb
+IQS
+IROC
+SharePoint
+
+                                                                                     44
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                          Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        Resource Planning Office
+Program:         Resource Planning Office
+
+Program Description
+The mission of the Forest Resources Planning Program is to lead strategic planning,
+provide analysis services to the State Board of Forestry and Department of Forestry
+and to actively promote policies that encourage sustainable forest management and
+further the strategies and actions of the Forestry Program for Oregon and all Oregon
+forestlands. The Program is responsible for the short- and long-term planning for the
+forest resources activities of the Department of Forestry. The program is also
+responsible for maintaining positive relationships with numerous state and federal
+governmental agencies, private landowners, and the public on issues concerning
+forest resources planning and the future development, conservation, and
+preservation of Oregon forestlands.
+
+Program Records
+147     Forest Resources Planning Accomplishment Reports
+        Retain 10 years, destroy
+148     Forest Resources Planning Research Studies and Reports, 1921 –
+        [ongoing] 2.5 c.f.
+        (a) Retain final report/findings permanently, transfer to State Archives after 10
+        years
+        (b) Retain all other records 10 years after study or report completed, destroy
+149     Forestry Program for Oregon Report Records
+        Retain 10 years after report published, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Systems of Record
+None
+
+                                                                                        45
+
+                            Oregon State Archives
+                          Records Retention Schedule
+Edition: August 2026                                        Schedule Number: 2026-0006
+Agency:      Oregon Department of Forestry
+Division:    State Forests
+Program:     Administration
+
+Program Description
+The State Forests Program is responsible for actively managing Oregon's public
+forest lands to provide economic, environmental and social benefits for all
+Oregonians.
+Staff are responsible for the administrative duties of the State Forests Program as well
+as maintaining communications between the program and other ODF programs. The
+unit maintains policies, procedures, and orders directed at improving the Forest
+Management aspects on Oregon forestlands. In addition, records created and
+maintained reflect policies and procedures generated by the leadership of the Forest
+Management Division and State Forests Program. Staff are also responsible for
+compiling information and advising Department of Forestry personnel on short- and
+long-term activities and projects related to policy and planning and the development
+of management plans. The unit maintains relationships with public and private
+institutions (including the public) regarding issues involving Department of Forestry
+policies and procedures. Forest Management Plans are established as Oregon
+Administrative Rules. The unit develops and maintains Comprehensive Recreation
+Management Plans.
+
+Program Records
+150   Annual Operations Plans
+      (a) Retain final plans 10 years, destroy
+      (b) Retain all other records 1 year after adoption of plan, destroy
+151   Comprehensive Recreation Management Plans
+      Retain 10 years after superseded, destroy
+152   District Implementation Plans
+      (a) Retain final plans 20 years, destroy
+      (b) Retain all other records 1 year after adoption of plan, destroy
+153   Forest Management Plans, 1979– [ongoing] 4.00 c.f.
+      Retain permanently, transfer to State Archives after 10 years
+154   Recreation Program Records
+      Retain 10 years after program sunsets, destroy
+155   Reforestation Check Reports
+      Retain 10 years, destroy
+156   Slash Burn Permits
+      Retain 3 years, destroy
+157   State Forest Accomplishment Reports
+      Retain 15 years, destroy
+158   State Forester Resolutions and Orders
+                                                                                      46
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+        Retain until ODF is no longer required to manage the land, destroy
+159     State Forests Aerial Photographs
+        Retain 99 years, destroy
+160     Surplus Tree Sale Records
+        Retain 4 years, destroy
+161     Timber Sale Reforestation Reports
+        Retain 50 years, destroy
+162     Tree Planting Plans
+        Retain 1 year, destroy
+163     Woodcutting Permit
+        Retain permit receipts and audit records 4 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Systems of Record
+None
+
+                                                                                   47
+
+                            Oregon State Archives
+                         Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:      Oregon Department of Forestry
+Division:    State Forests
+Program:     Asset Management
+Unit:        Lands and Access
+
+Program Description
+The Asset Management Unit is responsible for providing direction in the preparation
+and administration of timber sales, special forest products and other miscellaneous
+contracts, through their completion. This unit is also responsible for coordinating the
+land exchange program and coordination of legal actions. The Asset Management
+Unit is responsible for managing and overseeing the ownership and activity of public
+lands and lands owned by the Department of Forestry. As part of the Asset
+Management Unit, the Lands and Access Section is responsible for monitoring use
+and access to Oregon forestlands through a determination of public and private
+forestlands. Permits, registries, agreements, and numerous other monitoring tools are
+used to ensure proper use and responsible access to forestlands throughout the
+state.
+
+Program Records
+164   Acreage Summary Reports
+      Retain 3 years, destroy
+165   County Acreage Inventory
+      Retain until superseded, destroy
+166   Easement Maps, 1951 – [ongoing] 1.5 c.f.
+      Retain permanently, transfer to State Archives after administrative need ends
+167   Forest Land Management Agreements
+      Retain 6 years after agreement expires, destroy
+168   Forest Land Management Plat Books, 1936 – [ongoing] 3 c.f.
+      Retain permanently, transfer to State Archives after administrative need ends
+169   Forest Lands Transaction Records, 1911 - [ongoing] 2 c.f.
+      (a) Retain Forest Lands Transaction Reports permanently, transfer to State
+      Archives after 20 years
+      (b) Retain all others 50 years after land sold, destroy
+170   Forest Product Sale Permit Records
+      Retain 3 years, destroy
+171   Free Use Permits
+      Retain 1 year after expiration date, destroy
+172   Land Deed Records
+      Retain until property sold, destroy
+173   Land Resolutions and Orders
+      Retain until ODF is no longer required to manage the land, destroy
+174   Land Rights Index
+                                                                                      48
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+        Retain until superseded, destroy
+175     Permanent Land Ownership Records
+        Retain until property sold/surplused, destroy
+176     Purchased State Forest Lands Property Ledger
+        Retain 75 years, destroy
+177     Right-of-way Permits and other Special Use Permits
+        Retain 6 years after permit expires or is terminated, destroy
+178     Right-of-way Register, 1951 – [ongoing] 3 c.f.
+        Retain permanently, transfer to State Archives after administrative need ends
+179     Temporary Land Ownership Records
+        Retain 6 years after agreement expires or is terminated, destroy
+180     Title Clearance Records
+        Retain as long as ODF owns the land, destroy
+181     Title Insurance and Timber Reservation Plat Book, 1936 – [ongoing] 3 c.f.
+        Retain permanently, transfer to State Archives after administrative use ends
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Systems of Record
+ACREAGE
+
+                                                                                    49
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        State Forests
+Program:         Asset Management
+Unit:            Legal
+
+Program Description
+The Legal Section is responsible for providing technical expertise and direction to the
+State Forests Program on the legal authority and ramifications of actions and projects.
+The section is responsible for representing the Department of Forestry in cases in
+criminal activity or civil actions on Department of Forestry property and forestlands.
+The Department of Justice represents the Department of Forestry in all legal actions.
+
+Program Records
+182     Forestry Legal Register
+        Retain 2 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Systems of Record
+None
+
+                                                                                     50
+
+                           Oregon State Archives
+                         Records Retention Schedule
+Edition: August 2026                                     Schedule Number: 2026-0006
+Agency:      Oregon Department of Forestry
+Division:    State Forests
+Program:     Asset Management
+Unit:        Timber Sales
+
+Program Description
+The Timber Sales Section is responsible for overseeing and managing the sale of
+timber from Oregon forestlands. The section is responsible for monitoring forest
+harvesting activities to ensure compliance with the Forest Practices Act.
+
+Program Records
+183   Advertised Timber Sale Contract Work Records
+      Retain 2 years, destroy
+184   Awarded Timber Sale Contract Records
+      Retain 10 years after contract termination, destroy
+185   Exceptional Conditions Reports
+      Retain 1 year, destroy
+186   Flood Damage Project Records (FEMA)
+      Retain 20 years, destroy
+187   Log Export Records, 1990 – [ongoing] .5 c.f.
+      Retain permanently, transfer to State Archives after 10 years
+188   Log Load Receipts and Stubbooks
+      Retain 3 years after termination of sale, destroy
+189   Monthly Certification Reports
+      Retain 1 year, destroy
+190   Scaling Certificates
+      Retain 4 years after timber sale contract terminated, destroy
+191   Timber Payment Bonds
+      Retain 6 years after last activity, destroy
+192   Timber Sale Book, 1956 – [ongoing] 10 c.f.
+      Retain permanently, transfer to State Archives when administrative need ends
+193   Timber Sale Ledger, 1910 – [ongoing] 10 c.f.
+      Retain permanently, transfer to State Archives when administrative need ends
+194   Timber Sale Plan Change Reports
+      Retain 10 years, destroy
+195   Timber Sale Status and Auction Schedules
+      Retain 5 years, destroy
+196   Timber Sale Status Reports
+      Retain 5 years, destroy
+197   Timber Volume/Value Reports
+      Retain 25 years, destroy
+
+                                                                                   51
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Systems of Record
+Sale Plan Database
+TRAS Q&R
+TAS
+WALT
+
+                                                                                   52
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                        Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        State Forests
+Program:         Biological Support
+
+Program Description
+The Biological Support Unit is responsible for ensuring minimal negative
+environmental impact on state forestlands and managing habitat for fish and wildlife
+(especially threatened and endangered species). The unit is responsible for the
+coordination of federal and state endangered species act compliance and forest
+management plan implementation with regard to wildlife habitat, and strives to
+provide information to field managers and policy makers. In addition, the unit
+conducts watershed analysis and training for ODF's State Forests Program.
+
+Program Records
+198     Threatened and Endangered (T and E) Wildlife Survey Records, 1960 –
+        [ongoing] 2 c.f.
+        (a) Retain survey analysis records and reports permanently, transfer to State
+        Archives after 20 years
+        (b) Retain survey data 20 years, destroy
+199     Watershed Analysis Records
+        Retain 20 years, destroy
+
+State Agency General Records Retention Schedule Records
+Includes but is not limited to:
+Administrative Records (OAR 166-300-0015)
+
+Systems of Record
+T & E SURVEY
+
+                                                                                        53
+
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                        Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        State Forests
+Program:         Information
+Unit:            Information
+
+Program Description
+The Information Unit is responsible for monitoring the forest resource activities of the
 Department of Forestry in an effort to determine the effectiveness of Oregon's Forest
-Management Plans.  The unit inventories species in state forests, conducts research monitoring
-and manages and provides information and data.  Inventories include information on the
-estimated volume in timber stands, the species present and the structure of the stand.  The unit
-organizes data and observations in order to present an accurate view of Oregon's forest resources
-to the State Forests Program.  The State Forests Program and the Forest Management Division
-then use the tabulated information to construct planning and operational activities to best ensure
-the health of Oregon forest lands.  The unit does forest modeling work for the department which
+Management Plans. The unit inventories species in state forests, conducts research
+monitoring and manages and provides information and data. Inventories include
+information on the estimated volume in timber stands, the species present and the
+structure of the stand. The unit organizes data and observations in order to present
+an accurate view of Oregon's forest resources to the State Forests Program. The State
+Forests Program and the Forest Management Division then use the tabulated
+information to construct planning and operational activities to best ensure the health
+of Oregon forest lands. The unit does forest modeling work for the department which
 assists in strategic planning.
 
 Program Records
-181 Forest Resource Inventories
- (a) Retain aerial photographs 15 years, destroy
- (b) Retain all other records 5 years after superseded, destroy
-182 ODF Sponsored Research Studies, 1955 – [ongoing] 1 c.f.
- Retain permanently, transfer to State Archives after 10 years
+200     Aerial Seeding Program Records
+        Retain 50 years, destroy
+201     Aerial Spraying Program Records
+        (a) Retain maps and summary reports 20 years, destroy
+        (b) Retain all other records 5 years, destroy
+202     Forest Resource Inventories
+        (a) Retain aerial photographs 15 years, destroy
+        (b) Retain all other records 5 years after superseded, destroy
+203     ODF Sponsored Research Studies, 1955 – [ongoing] 1 c.f.
+        Retain permanently, transfer to State Archives after 10 years
+204     Pre-Commercial Thinning Program Records
+        (a) Retain accomplishment reports, maps, and summary reports 50 years,
+        destroy
+        (b) Retain all other records 1 year, destroy
 
 State Agency General Records Retention Schedule Records
 Includes but is not limited to:
 Administrative Records (OAR 166-300-0015)
-Correspondence
 
-Databases
+Systems of Record
+EFI
+
+                                                                                      54
+
+                        Oregon State Archives
+                       Records Retention Schedule
+Edition: August 2026                            Schedule Number: 2026-0006
 SLI
 ROOTS
 
-Oregon Department of Forestry
-Records Retention Schedule
+                                                                        55
 
- Edition: November 2015
-
- 45
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   State Forests
-Program:   State Forests
-Unit:   Asset Management
-Section:   Lands and Access
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        State Forests
+Program:         South Park Camp
 
 Program Description
-The Asset Management Unit is responsible for providing direction in the preparation and
-administration of timber sales, special forest products and other miscellaneous contracts, through
-their completion.  This unit is also responsible for coordinating the land exchange program and
-coordination of legal actions.  The Asset Management Unit is responsible for managing and
-overseeing the ownership and activity of public lands and lands owned by the Department of
-Forestry.  As part of the Asset Management Unit, the Lands and Access Section is responsible
-for monitoring use and access to Oregon forestlands through a determination of public and
-private forestlands. Permits, registries, agreements, and numerous other monitoring tools are
-used to ensure proper use and responsible access to forestlands throughout the state.
-
-Records Description
-183 Acreage Summary Reports
- Retain 3 years, destroy
-184 County Acreage Inventory
- Retain until superseded, destroy
-185 Deed Records
- Retain until property sold, destroy
-186 Easement Maps, 1951 – [ongoing] 1.5 c.f.
- Retain permanently, transfer to State Archives after administrative need ends
-187 Forest Land Management Agreements
- Retain 6 years after agreement expires, destroy
-188 Forest Land Management Plat Books, 1936 – [ongoing] 3 c.f.
- Retain permanently, transfer to State Archives after administrative need ends
-189 Forest Lands Transaction Records,1911 - [ongoing[ 2.00 c.f.
-  (a) Retain Forest Lands Transaction Reports permanently, transfer to State Archives after
- 20 years
- (b) Retain all others 50 years after land sold, destroy
-190 Land Rights Index
- Retain until superseded, destroy
-191 Permanent Land Ownership Records
- Retain until property sold/surplused, destroy
-192 Purchased State Forest Lands Property Ledger
- Retain 75 years, destroy
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 46
-193 Resolutions and Orders
- Retain until ODF is no longer required to manage the land, destroy
-194 Right-of-way Permits
- Retain 6 years after permit expires or is terminated, destroy
-195 Right-of-way Register, 1951 – [ongoing] 3 c.f.
- Retain permanently, transfer to State Archives after administrative need ends
-196 Temporary Land Ownership Records
- Retain 6 years after agreement expires or is terminated, destroy
-197 Title Clearance Records
- Retain as long as ODF owns the land, destroy
-198 Title Insurance and Timber Reservation Plat Book, 1936 – [ongoing] 3 c.f.
- Retain permanently, transfer to State Archives after administrative use ends
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Correspondence
-
-Databases
-ACREAGE
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 47
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   State Forests
-Program:   State Forests
-Unit:    Asset Management
-Section:   Legal
-
-Program Description
-The Legal Section is responsible for providing technical expertise and direction to the State
-Forests Program on the legal authority and ramifications of actions and projects.  The section is
-responsible for representing the Department of Forestry in cases in criminal activity or civil
-actions on Department of Forestry property and forestlands.  The Department of Justice
-represents the Department of Forestry in all legal actions.
+South Fork Camp is a work camp run cooperatively by the Department of Forestry
+and the Department of Corrections for adults in custody. The camp was established
+in response to the Tillamook Burn Rehabilitation Program and under ORS 421.450,
+which allows for the establishing of forest work camps. The Department of Forestry
+can utilize adult in custody labor in a productive and mutually beneficial manner, with
+adults in custody gaining technical skills and work experience while completing their
+sentences. The facility can house and manage a maximum of two hundred adults in
+custody. On average seven hundred adults in custody process through the center
+every year. Projects including on- and off-site construction, fish hatchery
+maintenance, firefighting, tree planting and brush clearing. Projects are organized
+and directed by camp staff. South Fork fields crews provide services to eleven
+counties. Crews are under the direction of Forest Crew Coordinators. The
+Department of Corrections furnishes security and operates the camp as a minimum-
+security facility maintaining records and documentation on individual adults in
+custody. Department of Forestry controls and manages crews during the four ten-
+hour workdays.
 
 Program Records
-199 Legal Case Records
- Retain 25 years after case closed, destroy
-200 Legal Register
- Retain 2 years, destroy
+205     Crew Roster Reports
+        (a) Retain monthly crew reports 6 years, destroy
+        (b) Retain daily crew rosters 2 years, destroy
+206     Reforestation Records
+        Retain 30 years, destroy
+207     South Fork Camp Accomplishment Reports
+        Retain 10 years, destroy
+208     South Fork Camp Annual Reports
+        Retain 10 years, destroy
+209     Tree Inventories
+        Retain 1 year, destroy
 
 State Agency General Records Retention Schedule Records
 Includes but is not limited to:
 Administrative Records (OAR 166-300-0015)
-Correspondence
+Facilities and Property Records (OAR 166-300-0020)
+Payroll Records (OAR 166-300-0035)
+Personnel Records (OAR 166-300-0040)
+Risk Management Records (OAR 166-300-0045)
+                                                                                     56
 
-Databases
+                        Oregon State Archives
+                       Records Retention Schedule
+Edition: August 2026                            Schedule Number: 2026-0006
+
+Systems of Record
 None
 
-Oregon Department of Forestry
-Records Retention Schedule
+                                                                        57
 
- Edition: November 2015
-
- 48
-Organizational Placement Schedule number: 2015-0014
-Agency:  Oregon Department of Forestry
-Division:   State Forests
-Program:   State Forests
-Unit:   Asset Management
-Section:   Timber Sales
+                                   Oregon State Archives
+                                  Records Retention Schedule
+Edition: August 2026                                       Schedule Number: 2026-0006
+Agency:          Oregon Department of Forestry
+Division:        State Forests
+Program:         Tillamook Forest Center (TFC)
 
 Program Description
-The Timber Sales Section is responsible for overseeing and managing the sale of timber from
-Oregon forestlands.  The section is responsible for monitoring forest harvesting activities to
-ensure compliance with the Forest Practices Act.
+The Tillamook Forest Center (TFC) is a public facility designed to educate the general
+public through interpretive exhibits and programs on Oregon forest practices and
+resources, wildfire prevention and protection, and the history of the Tillamook State
+Forest and the Tillamook Burn. The Center opened April 1, 2006. A mix of public and
+private monies fund the TFC. Private funding sources includes the State Forests Trust
+of Oregon, a non-profit corporation. Volunteers aid in the operation of the gift shop,
+grounds work, educational and interpretation programs.
 
 Program Records
-201 Awarded Timber Sale Contract Records
- Retain 10 years after contract termination, destroy
-202 Advertised Timber Sale Contract Work Files
- Retain 2 years, destroy
-204 Exceptional Conditions Reports
- Retain until superseded, destroy
-205 Flood Damage Project Records (FEMA)
- Retain 20 years, destroy
-206 Log Export Records, 1990 – [ongoing] .5 c.f.
-Retain permanently, transfer to State Archives after 10 years
-208 Monthly Certification Reports
- Retain 1 year, destroy
-210 Scaling Certificates
- Retain 4 years after timber sale contract terminated, destroy
-211 Timber Payment Bonds
- Retain 6 years after last activity, destroy
-212 Timber Sale Book, 1956 – [ongoing] 10 c.f.
- Retain permanently, transfer to State Archives when administrative need ends
-213 Timber Sale Ledger, 1910 – [ongoing] 10 c.f.
- Retain permanently, transfer to State Archives when administrative need ends
-214 Timber Sale Plan Change Reports
- Retain 10 years, destroy
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 49
-215 Timber Sale Status Reports
- (a) Retain yearly reports 20 years, destroy
- (b) Retain quarterly reports 5 years, destroy
- (c) Retain monthly reports 1 year, destroy
-216 Timber Volume/Value Reports
- Retain 25 years, destroy
-217 Timber Sale Status and Auction Schedules
- Retain 5 years, destroy
+210     Educational Program Records
+        (a) Retain annual education reports 5 years, destroy
+        (b) Retain all other records 5 years after program ends or is superseded,
+        destroy
+211     Interpretive Program Outlines/Records
+        Retain 20 years, destroy
+212     Oral Histories, 2002 – [ongoing] 1.5 c.f.
+        (a) Retain transcripts and photographs permanently, transfer to State Archives
+        after administrative use ends
+        (b) Retain audio tapes 5 years after administrative need ends, destroy or
+        recycle
+213     The Lookout Newsletter
+        Retain 2 years, destroy
+214     Tillamook Interpretive Center Development Records, 1998 – [ongoing]
+        5 c.f.
+        (a) Retain maps until superseded or obsolete, destroy
+        (b) Retain all other records permanently, transfer to State Archives after
+        administrative need ends
+215     Tillamook Burn Historical Collection, 1933 – [ongoing] 40 c.f.
+        Retain permanently, transfer to State Archives after administrative need ends
 
 State Agency General Records Retention Schedule Records
 Includes but is not limited to:
 Administrative Records (OAR 166-300-0015)
-Correspondence
-
-Databases
-SALE PLAN DATABASE
-TRAS Q&R
-TAS
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 50
- Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   State Forests
-Program:   State Forests
-Unit:   Policy and Planning
-
-Program Description
-The Policy and Planning Unit is responsible for compiling information and advising Department
-of  Forestry personnel on short and long-term activities and projects related to policy and
-planning and the development of management plans.  The unit maintains relationships with
-public and private institutions (including the general public) regarding issues involving
-Department of Forestry policies and procedures. Citizen Participation Plans and Forest
-Management Plans are established as Oregon Administrative Rules. The unit develops and
-maintains Comprehensive Recreation Management Plans.
-
-Program Records
-218 Comprehensive Recreation Management Plans
- Retain 10 years after superseded, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Administrative Rule Preparation Records
-Correspondence
-
-Databases
-None
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 51
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:   State Forests
-Program:   State Forests
-Unit:   Resource Specialists
-
-Program Description
-The Resource Specialist Unit is responsible for ensuring minimal negative environmental impact
-on state forestlands, and managing habitat for fish and wildlife (especially threatened and
-endangered species).  The unit is responsible for the coordination of silviculture, genetic, wildlife
-and engineering efforts that strive to provide information to field managers and policy makers.
-In addition, the unit conducts watershed analysis and training for ODF's State Forests Program.
-
-Program Records
-219 Threatened and Endangered (T and E) Wildlife Survey Records, 1960 – [ongoing] 2
- c.f.
- (a) Retain survey analysis records and reports permanently, transfer to State Archives after
-  20 years
- (b) Retain survey data 20 years, destroy
-220 Watershed Analysis Records
- Retain 20 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Correspondence
-
-Databases
-T & E SURVEY
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 52
-Organizational Placement Schedule number: 2015-0014
-Agency:  Oregon Department of Forestry
-Program:  Private Forests
-Unit:  Forest Practices Field Support and Training
-
-Program Description
-The Private Forest Program is responsible for promoting and supporting landowners to improve
-the health of forests, timber, fish and wildlife habitat, soil and water quality, and recreational
-opportunities and aesthetics through education, technical assistance, financial incentives and
-regulation.
-
-Program staff is responsible for the logistical operations of all Department of Forestry
-stewardship operations.  Many of the forest protection activities are managed, conducted by
-Area, District, and Unit offices. General control over the operations and tactics resides within the
-Salem headquarters.
-
-Program Records
-221 Advisory Committee to State Forester on Selection and Protection of Resource Sites
-Records, 1984 – [ongoing] .5 c.f.
- Retain permanently, transfer to State Archives after administrative need ends
-222 Civil Penalty Case Files
- Retain 10 years after case resolution, destroy
-223 Forest Practices Activities Summary Reports, 1972 – [ongoing] 1.00 c.f.
- Retain permanently, transfer to State Archives after administrative need ends
-224 Forest Practices Complaint Investigation Records
- Retain 3 years after final resolution, destroy
-225 Forest Practices Reports
- Retain 1 year, destroy
-226 Forest Practices Notes
- Retain until superseded, destroy
-227 Nonpoint Source Technical Specialists Panel Records
- Retain 10 years, destroy
-228 Operator (Forest) Recognition Program Records
- Retain 5 years, destroy
-229 Special Study Reports
- Retain 20 years, destroy
-230 State Forester's Annual Rule Review Records
- Retain 20 years, destroy
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 53
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Correspondence
-Policy Development and Planning Records
-
-Database Records
-FACTS
-CIVIL PENALTIES
-FERNS
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 54
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Program:   Private Forests
-Section: Insect and Disease
-Unit:    Cooperative Forestry
-Section: Forest Health
-
-Program Description
-The Forest Health Section is responsible for the research and prevention of insect and disease
-impact on forestlands throughout Oregon.  Forest health staff conduct surveys, evaluations and
-monitor forests for insect and disease infestations.  The unit is able to utilize and develop current
-methods for insect and tree disease control throughout the state.  The dual responsibilities of this
-program allow for research activities on insect and disease development as well as integrated
-pest control activities within Oregon forestlands to control current insect populations and disease
-that may be detrimental to forest health.
-
-Program Records
-231 Service Forestry Activity and Accomplishment Report (SFAAR) Records
- (a) Retain SFAAR Reports 50 years, destroy
- (b) Retain SFAAR Input Reports 3 months, destroy
- (c) Retain all other accomplishment reports 10 years, destroy
-232 Animal Damage Studies
- Retain 20 years, destroy
-233 Board of Forestry Presentation Records
-Retain 5 years, destroy
-234 Cooperative Insect Control Project Records, 1975 – [ongoing] 2.00 c.f.
- Retain permanently, transfer to State Archives 20 years after project completion
-235 Disease Pathology Studies
- Retain 99 years, destroy
-236 Insect and Disease Aerial/Ground Survey Records
- Retain 99 years, destroy
-237 Insect and Disease Program Development Records
- Retain 25 years, destroy
-238 Insect (Entomology) Studies
- Retain 99 years, destroy
-239 Program Management Reviews
- Retain 10 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Correspondence Press Releases
-Databases
-SFAAR
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 55
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Program:   Private Forests
-Unit:   Cooperative Forestry
-Section:  Forest Health
-
-Program Description
-The Forest Health Section is responsible for the research and prevention of insect and disease
-impact on forestlands throughout Oregon. ODF forest health professionals conduct surveys,
-evaluations and monitoring of forest insect and tree diseases.  The unit is an asset to private and
-public land owners.  The unit is able to utilize and develop current methods for insect and tree
-disease control throughout the state. The unit allows for research activities on insect and disease
-development as well as control activities within Oregon forestlands in order to control insect
-populations and disease that may be detrimental to forest health.  Funding includes but is not
-limited to federal forest grants.  The unit generates Stewardship Forester Reports (SFFAR).
-
-Program Records
-240 Accomplishment Reports
- (a) Retain SFAAR reports 50 years, destroy
- (b) Retain other accomplishment reports 10 years, destroy
- (c) Retain SFAAR input reports 3 months, destroy
-241 Animal Damage Studies
- Retain 20 years, destroy
-242 Cooperative Insect Control Project Records, 1975 – [ongoing] 1.50 c.f.
- Retain permanently, transfer to State Archives 20 years after project completion
-243 Disease Pathology Studies
- Retain 99 years, destroy
-244 Insect and Disease Aerial/Ground Survey Records
- Retain 99 years, destroy
-245 Insect (Entomology) Studies
- Retain 99 years, destroy
-246 Program Management Reviews
- Retain 10 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Correspondence Policy Development and Planning Records (Insect and Disease Program)
-Financial Records – (OAR 166-300-0025)
-Grant Records
-
-Databases
-SFAAR
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 56
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Program:   Private Forests
-Unit:   Cooperative Forestry
-Section: Incentive Programs
-Subprogram: Forest Resource Trust
-
-Program Description
-The Forest Resource Trust encourages landowners to establish and maintain healthy forests on
-under producing forest lands.  Forest Resource Trust provides financial assistance for
-landowner’s reforestation efforts and eliminates repayment responsibilities if the land remains
-unharvested.  In the event the lands are harvested, participating landowners repay the trust with a
-portion of the profits.  In addition to financial support, the Forest Resource Trust provides
-assistance and direction on how to complete reforestation projects undertaken by private
-landholders.
-
-Program Records
-247 Forest Resource Trust Advisory Committee Records (FRTAC)
- Retain 10 years, destroy
-248 Forest Resource Trust Loan Records
- Retain 10 years after loan repaid or lien expires, destroy
-249 Forest Resource Trust Donation Records
- Retain 10 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Correspondence
-
-Databases
-SFAAR
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 57
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Program:   Private Forests
-Unit:   Incentives Programs
-
-Program Description
-The Field Support and Training Unit is responsible for training Stewardship Foresters to provide
-private landowners guidance and assistance in the proper management and forestry management
-of their lands.  The unit is able to monitor and advise industrial and non-industrial on the best
-way to adhere to and become aware of Oregon’s Forest Practices Act and federal land use
-regulations, guidelines, and conservation recommendations.  The preservation and responsible
-use of Oregon forestlands is one of the responsibilities of Field Support and Training, which
-promotes responsible land use through enforcement of the Forest Practices Act and offering
-landowner assistance in the form of tax credits and stewardship incentive programs.
-
-Program Records
-250 Chief's Attainment and Forest Operator Landowner Law Administration Data
-Reports
- Retain 20 years, destroy
-251 Conservation Reserve Program Records
- Retain 20 years, destroy
-252 Coordinated Resource Management Planning Records
- Retain 20 years, destroy
-253 Forest Incentive Program Records
- Retain 20 years, destroy
-254 Forest Management and Utilization Program Records
- Retain 25 years, destroy
-255 Maps
- Retain until superseded or obsolete, destroy
-256 Small Watershed Project Records
- Retain 25 years, destroy
-257 Special/By Request Project Records
- Retain according to the project/program retention schedule
-258 Stewardship Program Records
- Retain 5 years after grant completed, destroy
-259 Underproductive Forest Land Conversion Tax Credit Case Files
- Retain 6 years after landowner leaves program, destroy
-260 Underproductive Forest Land Conversion Tax Credit Cost Detail and Summary
-Reports
- Retain 6 years after last date of tax credit
-261 Western Oregon Small Tract Optional Tax Card Index
- Retain 6 years after landowner leaves program, destroy
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 58
-262 Western Oregon Small Tract Optional Tax Case File Register
- Retain 6 years after case completed, destroy
-263 Western Oregon Small Tract Optional Tax Landowner Case Files
- Retain 6 years after landowner leaves program, destroy
-264 Western Oregon Small Tract Optional Tax Program Summary Reports
- (a) Retain annual summary 50 years, destroy
- (b) Retain six-month summary 2 years, destroy
- (c) Retain monthly reports 1 year, destroy
- (d) Retain certificate listing until superseded, destroy
-265 Western Oregon Small Tract Optional Tax True Cash Value Reports
- Retain 50 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Correspondence
-Policy and Procedure Guidelines and Manuals
-Policy Development and Planning Records
+Facilities/Property Records (OAR 166-300-0020)
 Financial Records (OAR 166-300-0025)
-Grant Records
+Personnel Records (OAR 166-300-0040)
 
-Databases
-Grants Database (WOSTOT) – (can be destroyed along with other records as the program ended
-6/30/2004
-Underproductive Forestlands Tax Credit – will be destroyed when all 2011 projects have expired
-or 6 years after 2011 projects no longer eligible for the final portion of the tax credit which will
-not be until approximately 202.  After 2020 the database may be destroyed
-SFAAR
+                                                                                     58
 
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 59
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Program: Private Forests
-Unit:  Urban and Community Forestry
-
-Program Description
-The Urban and Community Forestry program is responsible for promoting, improving, and
-creating forestlands within urban growth boundaries.  This program advises and aids urban areas
-in the promotion and conservation of forestlands in populated areas throughout Oregon.  The
-program works with city and regional governments as well as private landowners and business
-owners on how to better incorporate forestlands into urban centers.  The program enhances the
-livability of communities by promoting the planting, care and management of trees in urban
-environments.
-
-Program Records
-266 National Arbor Day Foundation Award Program Records
- Retain 10 years, destroy
-267 Special Research Studies
- Retain 25 years, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Correspondence
-Financial Records (OAR 166-300-0025)
-Grant Records
-
-Databases
+                        Oregon State Archives
+                       Records Retention Schedule
+Edition: August 2026                            Schedule Number: 2026-0006
+Systems of Record
 None
 
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 60
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Program: Private Forests
-Section:   Policy & Monitoring
-Unit:   Policy/Interagency Coordination
-
-Program Description
-The Policy and Monitoring Unit is responsible for composing, overseeing, and maintaining
-policy directives for the protection of Oregon forestlands.  The unit utilizes data and trends
-compiled by the Policy Section to determine the best avenues in terms of long- and short-term
-policy planning.
-
-Program Records
-268 Chemical Application Rule Adequacy Monitoring Program Records
- Retain 25 years, destroy
-269 Clean Water Act Committee Records, 1978 – 2005 .50 c.f.
- (a) Retain minutes and reports permanently, transfer to State Archives after 10 years
- (b) Retain all other 10 years, destroy
-270 Program Planning Studies
- Retain 5 years, destroy
-271 Program Vital Issues Reports
- Retain 2 years, destroy
-272 Regional Forest Practices Committees Records
- Retain 30 years, destroy
-273 Sensitive Bird Site Hearing Records
- Retain 25 years, destroy
-274 Soils Task Force Records, 1980 – 2005 2 c.f.
- Retain permanently, transfer to State Archives after administrative need ends
-275 Stream Classification Records
- Retrain 10 years, destroy
-276 Water Quality Studies
- Retain 20 years, destroy
-277 Wetlands (Inventory) Project Records
- Retain until superseded or obsolete, destroy
-
-State Agency General Records Retention Schedule Records
-Administrative Records (OAR 166-300-0015)
-Correspondence Policy and Procedure Guidelines and Manuals
-Policy Development and Planning Records (Strategic Planning Records)
-
-Databases
-None
-
-Oregon Department of Forestry
-Records Retention Schedule
-
- Edition: November 2015
-
- 61
-Organizational Placement Schedule number: 2015-0014
-Agency:   Oregon Department of Forestry
-Division:  Private Forests
-Program: Forest Resources Planning
-
-Program Description
-The mission of the Forest Resources Planning Program is to lead strategic planning, provide
-analysis services to the State Board of Forestry and Department of Forestry and to actively
-promote policies that encourage sustainable forest management and further the strategies and
-actions of the Forestry Program for Oregon and all Oregon forestlands. The Program is
-responsible for the short- and long-term planning for the forest resources activities of the
-Department of Forestry.  The program is also responsible for maintaining positive relationships
-with numerous state and federal governmental agencies, private landowners, and the general
-public on issues concerning forest resources planning and the future development, conservation,
-and preservation of Oregon forestlands.
-
-Program Records
-278 Accomplishment Reports
- Retain 10 years, destroy
-279 Forestry Program for Oregon Report Records
- Retain 10 years after report published, destroy
-280 Research Studies and Reports, 1921 – [ongoing] 2.5 c.f.
- (a) Retain final report/findings permanently, transfer to State Archives
-  after 10 years
- (b) Retain all other information 10 years after study or report completed, destroy
-
-State Agency General Records Retention Schedule Records
-Includes but is not limited to:
-Administrative Records (OAR 166-300-0015)
-Conference, Seminar and Training Program Records
-Correspondence
-Publication Preparation Records
-
-Databases
-None
+                                                                        59
 
 ## Cross-references
 
@@ -2430,7 +2065,7 @@ the sibling corpus holds no such document.
 
 ## Provenance & change history
 
-- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-forestry.pdf> · retrieved 2026-07-25 · sha256 `70baec019000e584fa7c3fa65c632e36c0d44cd3c7a02be0a2ae8dad585a0e9a`
+- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-forestry.pdf> · retrieved 2026-07-25 · sha256 `a97f1e6250e7618acbfe13c7b78ed9817ded78772166a3c2207f8c69026a54e9`
 - Snapshot: `_meta/snapshots/schedule-forestry.txt` (extracted text) and `_meta/snapshots/schedule-forestry.pdf` (raw source, 61 pages).
 - Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 61 pages. Stripped repeated running-header lines: "Edition: November 2015"; "OREGON STATE ARCHIVES"; "Records Retention Schedule". Stripped 1 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
 - See [CHANGELOG](./CHANGELOG.md).

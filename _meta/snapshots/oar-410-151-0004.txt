@@ -91,27 +91,35 @@
  410-151-0004 
  Screening Exams 
  
- (1) Periodic EPSDT screening exams shall be provided in accordance with the Bright Futures Periodicity Schedule ( https://downloads.aap.org/AAP/PDF/periodicity_schedule.pdf ) and must include: 
+ (1) Periodic EPSDT screening exams shall be provided in accordance with the Bright Futures Periodicity Schedule (https://downloads.aap.org/AAP/PDF/periodicity_schedule.pdf) and must include:  
 
- (a) A comprehensive health and developmental history including assessment of both behavioral health and physical health development; 
+ (a) A comprehensive health and developmental history including assessment of both behavioral health and physical health development;  
 
- (b) Assessment of nutritional status; 
+ (b) Assessment of nutritional status;  
 
- (c) Comprehensive unclothed physical exam including inspection of teeth and gums; 
+ (c) Comprehensive unclothed physical exam including inspection of teeth and gums;  
 
- (d) Appropriate immunizations; 
+ (d) Appropriate immunizations;  
 
- (e) Lead testing as required by OAR 410-151-0040; 
+ (e) Lead testing as required by OAR 410-151-0040;  
 
- (f) Other appropriate laboratory tests (including but not limited to anemia test and sickle cell test) based on age and EPSDT Beneficiary risk; 
+ (f) Other appropriate laboratory tests (including but not limited to anemia test and sickle cell test) based on age and EPSDT Beneficiary risk;  
 
- (g) Health education including anticipatory guidance; and 
+ (g) Health education including anticipatory guidance;  
 
- (h) Appropriate hearing and vision screening. 
+ (h) Appropriate hearing and vision screening; and  
 
- (2) EPSDT providers may bill for both lab and non-lab services using the appropriate Current Procedural Terminology (CPT) and Healthcare Common Procedure Coding System (HCPCS) codes. Immunizations must be billed according to the guidelines listed in OAR 410-130-0255; 
+ (i) Dental examinations and assessments for preventative dental care, which must be performed in keeping with section (2) below of this rule.  
 
- (3) Inter-periodic EPSDT screening exams are any EPSDT Medically Necessary and EPSDT Medically Appropriate (or EPSDT Dentally Appropriate) encounters with a physician or other licensed practitioner of the healing arts within their scope of practice under State law. Inter-periodic EPSDT exams may occur at any time and may be warranted when the EPSDT Beneficiary has been ill or has experienced a change in health or development. 
+ (2) Periodic EPSDT examinations and assessments for preventive dental care shall be provided in accordance with the OHP Dental Periodicity Schedule, found at https://www.oregon.gov/oha/hsd/ohp/pages/policy-dental.aspx.  
+
+ (a) Primary care providers that conduct oral health assessments must refer members to dental care professionals when needs are identified; and  
+
+ (b) Prior authorization approvals are required for some services when benefit coverage limitations are age or dentition specific.    
+
+ (3) EPSDT providers may bill for both lab and non-lab services using the appropriate Current Dental Terminology (CDT), Current Procedural Terminology (CPT), and Healthcare Common Procedure Coding System (HCPCS) codes. Immunizations must be billed according to the guidelines listed in OAR 410-130-0255. 
+
+ (4) Inter-periodic EPSDT screening exams are any EPSDT Medically Necessary and EPSDT Medically Appropriate (or EPSDT Dentally Appropriate) encounters with a physician or other licensed practitioner of the healing arts within their scope of practice under State law. Inter-periodic EPSDT exams may occur at any time and may be warranted when the EPSDT Beneficiary has been ill or has experienced a change in health or development.  
 
  
  

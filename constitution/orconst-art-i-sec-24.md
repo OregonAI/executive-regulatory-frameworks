@@ -12,8 +12,8 @@ agency: statewide
 legal_authority: []
 source_url: "https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx"
 source_format: html
-retrieved: "2026-08-21"
-source_sha256: "c8c579f8c97ccdab38f78755587215ce32f046f0ab021597a7482816d5d1a43f"
+retrieved: "2026-09-10"
+source_sha256: "c36f7b22cfba0c4addc61eaf52ed600834490a9355689e52af2801c8884a7cea"
 snapshot_id: oregon-constitution
 effective_date: null
 last_reviewed: null
@@ -36,7 +36,7 @@ tags: ["constitution", "article-i"]
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** The official text of the Oregon
 > Constitution is the one published by the Legislative Counsel Committee. Verify against
-> the official source: <https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx> (retrieved 2026-08-21, in effect following the approval of amendments and revisions on November 5, 2024).
+> the official source: <https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx> (retrieved 2026-09-10, in effect following the approval of amendments and revisions on November 5, 2024).
 
 # Treason (Or. Const. Art. I, sec. 24)
 
@@ -56,6 +56,6 @@ constitutional text unless the section's own note says the measure carried it.
 
 ## Provenance & change history
 
-- Source: <https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx> · retrieved 2026-08-21 · sha256 `c8c579f8c97ccdab38f78755587215ce32f046f0ab021597a7482816d5d1a43f`
+- Source: <https://www.oregonlegislature.gov/bills_laws/Pages/OrConst.aspx> · retrieved 2026-09-10 · sha256 `c36f7b22cfba0c4addc61eaf52ed600834490a9355689e52af2801c8884a7cea`
   (shared page snapshot `_meta/snapshots/oregon-constitution.html`, all 18 articles)
 - See [CHANGELOG](./CHANGELOG.md).

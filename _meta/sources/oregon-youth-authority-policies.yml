@@ -206,8 +206,8 @@ sources:
   notes: Workers' Compensation (OYA Policy I-D-1.5)
 - id: oya-i-d-1-6
   url: https://www.oregon.gov/oya/policies/I-D-1.6.pdf
-  sha256: 64163b0bc1276e1ee3672f9d24020960e6292582f66d21eb18062e2298024e5e
-  last_checked: '2026-07-21'
+  sha256: 10562f8e2baa0b1e6d299eb9b64853ffcdaac838a499caf575a26ec03637137c
+  last_checked: '2026-09-10'
   notes: OYA Staff Wellness (OYA Policy I-D-1.6)
 - id: oya-i-d-2-0
   url: https://www.oregon.gov/oya/policies/I-D-2.0.pdf
@@ -251,13 +251,13 @@ sources:
   notes: Political Activity (OYA Policy I-D-3.11)
 - id: oya-i-d-3-13
   url: https://www.oregon.gov/oya/policies/I-D-3.13.pdf
-  sha256: f7c7876a2ac362c32a331b7c6b7677cc122892c6ce3e4d3908644b4a9ed9dded
-  last_checked: '2026-07-21'
+  sha256: 6182c992a6a3ce28c1e13dcee96b61f9ffebdea9110c5dfbc27eaaef1112939e
+  last_checked: '2026-09-10'
   notes: Staff Dress Standards (OYA Policy I-D-3.13)
 - id: oya-i-d-3-16
   url: https://www.oregon.gov/oya/policies/I-D-3.16.pdf
-  sha256: f35c7f8ee092d52e016818a380f963b4f2ece79557a9eade9fcdf9e5550215dd
-  last_checked: '2026-07-21'
+  sha256: b0b1562f7cfe99e7be53166892a224596559fdb36cb65afcbac7f6fe25fc1fad
+  last_checked: '2026-09-10'
   notes: Volunteer Services (OYA Policy I-D-3.16)
 - id: oya-i-d-3-19
   url: https://www.oregon.gov/oya/policies/I-D-3.19.pdf
@@ -281,8 +281,8 @@ sources:
   notes: Customer Service (OYA Policy I-D-6.0)
 - id: oya-i-e-1-0
   url: https://www.oregon.gov/oya/policies/I-E-1.0.pdf
-  sha256: ad72cdaa963738fdb97e5bedb94550ee78783f0d174ba77e104653bf027dfe7a
-  last_checked: '2026-07-21'
+  sha256: ab1a732a54f1d291db1eac33cf8fd312b2f61b8f3bed6b3d89251355b4daa5cf
+  last_checked: '2026-09-10'
   notes: Director's Incident Notification and Report (OYA Policy I-E-1.0)
 - id: oya-i-e-1-1
   url: https://www.oregon.gov/oya/policies/I-E-1.1.pdf
@@ -764,8 +764,8 @@ sources:
   notes: Youth Tattoo Removal Service [Community] (OYA Policy III-D-3.5)
 - id: oya-iii-d-3-6
   url: https://www.oregon.gov/oya/policies/III-D-3.6.pdf
-  sha256: 13977d5a16c0e0510a10b0169846e40a25d1c999aca83dd53e18a9dbbe36bd68
-  last_checked: '2026-07-21'
+  sha256: 1f3151490c4d9946ca7a0d6f194225e13eb80419de5c15c5448c487bc833af7e
+  last_checked: '2026-09-10'
   notes: Family Planning Services - Youth (OYA Policy III-D-3.6)
 - id: oya-iii-d-3-7
   url: https://www.oregon.gov/oya/policies/III-D-3.7.pdf
