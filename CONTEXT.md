@@ -533,7 +533,7 @@ _Avoid_: Evidence, provenance, reason — a basis says what a KIND was derived f
 **Undetermined**:
 The kind of a relation nobody has decided yet. Choosing between *part of* and *administered
 by* turns on whether the body carries its own admitting evidence (ADR 0004), and
-37 <!--census:agencies.relation_kind__undetermined--> of the
+36 <!--census:agencies.relation_kind__undetermined--> of the
 82 <!--census:agencies.relation_total_relations--> relations have none of any strength — so
 `undetermined` is what they record, and
 `catalog_agencies.py --check` reports the count on every run. It says the relation is REAL
@@ -541,7 +541,7 @@ and its kind unestablished, which is neither of the two kinds and is never a thi
 is also never derived from a MERE absence: that a matcher found no candidate for a body is a
 statement about the matcher, so a relation nothing speaks to stays undetermined rather than
 becoming *part of* — that is distinct from a REVIEWED absence, `none: <reason>`, which a
-human recorded and which does derive *part of* (#222; see **Part of** above). 37
+human recorded and which does derive *part of* (#222; see **Part of** above). 36
 <!--census:agencies.relation_kind__undetermined--> of them is the answer rather than a
 backlog.
 _Avoid_: Unknown, null, blank — an absent kind lets a consumer read whichever it prefers
