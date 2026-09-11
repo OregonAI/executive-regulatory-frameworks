@@ -372,6 +372,23 @@ corpus-wide changes from 2026-08-02 forward.
   carry no occurrence at all. No repo reads the key for a live join.
 
 ### Fixed
+- 2026-09-10 — **#383: `check_updates.py --refresh` could write a manifest baseline
+  `corpus-detect-changes` would never reproduce.** `check_group()` derived the byte-hashing
+  `fmt` from a source's url extension only, never its own declared `format:` field — a
+  second, incomplete copy of the precedence `corpus_toolkit.sources.changes._format_for`
+  applies to the identical question when the drift detector computes the same source's hash.
+  Live example: the 13 DEQ Internal Management Directives are served from
+  `DocumentStream.ashx?uri=N` (`_meta/sources/department-of-environmental-quality-policies.
+  yml`) and declare `format: pdf` because the url does not self-describe; `--refresh` hashed
+  them as html while the detector reads `format:` and hashes them as pdf, so a baseline this
+  tool wrote could disagree with the one it is meant to match on the very next run. Fixed by
+  reading the declared `format:` first, url extension only as fallback — the same precedence
+  the detector applies, so the two can no longer restate the question differently. (This
+  repo's own `content_hash` wrapper already forwarded `volatile_patterns` to every caller as
+  of the 2026-09-03 repo_lib-fork retirement, so that half of #383's report no longer
+  reproduces; the format mismatch above is the part of "a baseline the detector cannot
+  reproduce" that remained live.) No baselines were re-seeded by this change — that is a
+  re-ingest concern, not a checker-code one.
 - 2026-09-10 — **`refresh_document` destroyed the frontmatter of any document whose
   `conversion_notes` wraps over more than one line.** The substitution was
   `re.sub(r'^conversion_notes: .*$', ..., flags=re.M)`, which replaces the *first line* of the

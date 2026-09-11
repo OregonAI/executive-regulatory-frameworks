@@ -241,6 +241,24 @@ def doc_paths_by_id(dirs=None):
     return _DOC_PATHS_BY_ID_CACHE[key]
 
 
+def _source_format(url, declared):
+    """The format `content_hash` should read this source's bytes as -- the source's own
+    declared `format:` field when it has one, the url's extension otherwise. This is the
+    SAME precedence `corpus_toolkit.sources.changes._format_for` applies to the identical
+    question -- 'what format does this manifest entry declare, if any' -- when the drift
+    detector computes its own hash for the same source. Before #383 `check_group()` read
+    the extension only, so a source whose url does not self-describe and says so via
+    `format:` (`DocumentStream.ashx?uri=N`, `format: pdf` -- 13 of the DEQ Internal
+    Management Directives in `_meta/sources/department-of-environmental-quality-policies.
+    yml`) was hashed as html here and as pdf by the detector: a baseline `--refresh` wrote
+    that `corpus-detect-changes` could never reproduce."""
+    if declared:
+        return declared
+    path_url = url.lower().split("?")[0]
+    ext = path_url.rsplit(".", 1)[-1] if "." in path_url.rsplit("/", 1)[-1] else "html"
+    return ext if ext in ("pdf", "xls", "xlsx", "docx", "xml") else "html"
+
+
 def check_group(gpath, g, refresh, today):
     from ingest_lib import fetch
     changed = []
@@ -264,9 +282,7 @@ def check_group(gpath, g, refresh, today):
     # 2) content hash per source
     docs = doc_paths_by_id()
     for s in g["sources"]:
-        path_url = s["url"].lower().split("?")[0]
-        ext = path_url.rsplit(".", 1)[-1] if "." in path_url.rsplit("/", 1)[-1] else "html"
-        fmt = ext if ext in ("pdf", "xls", "xlsx", "docx", "xml") else "html"
+        fmt = _source_format(s["url"], s.get("format"))
         try:
             new = content_hash(fetch(s["url"]), fmt)
         except Exception as e:
@@ -1496,6 +1512,72 @@ def _proof_due_reports_a_phase_on_a_cadence_that_admits_none_rather_than_raising
     return 0
 
 
+def _proof_the_baseline_check_group_writes_uses_the_sources_declared_format():
+    """#383: `check_group()` used to derive the byte-hashing `fmt` from the URL's
+    extension ONLY, ignoring a source's own declared `format:` field -- a second,
+    incomplete copy of the precedence `corpus_toolkit.sources.changes._format_for`
+    applies when it computes the SAME baseline for the SAME source. A source whose url
+    carries no self-describing extension and says so via `format:` (the DEQ Internal
+    Management Directives: `DocumentStream.ashx?uri=N`, `format: pdf`, 13 of them in
+    `_meta/sources/department-of-environmental-quality-policies.yml`) hashed as "html" on
+    `--refresh`'s write and as "pdf" on the detector's next read -- a baseline the
+    detector could never reproduce, exactly the shape #383 reports, demonstrated here
+    with a real committed source shape rather than a synthetic one.
+
+    `doc_paths_by_id` is stubbed to skip the real corpus walk (irrelevant to this proof,
+    and the ~74-85s the module docstring measures for it) and `ingest_lib.fetch` is
+    stubbed so this needs no network -- a hand-built, valid, multi-sentence PDF whose
+    `pdftotext` extraction and whose raw-byte HTML tag-strip diverge, which is what makes
+    the two `fmt` readings provably disagree rather than coincidentally hash the same."""
+    global doc_paths_by_id
+    orig_doc_paths_by_id = doc_paths_by_id
+    doc_paths_by_id = lambda dirs=None: {}
+
+    text = (b"Department of Environmental Quality Internal Management Directive number "
+            b"seven zero seven zero two one four governs air quality permitting review "
+            b"procedures and enforcement timelines statewide across every region office "
+            b"and covers monitoring stations reporting cadences and inspection checklists "
+            b"used by field staff each quarter of the fiscal year without exception.")
+    stream = b"BT /F1 12 Tf 50 700 Td (" + text + b") Tj ET"
+    pdf_bytes = (
+        b"%PDF-1.4\n"
+        b"1 0 obj<< /Type /Catalog /Pages 2 0 R >>endobj\n"
+        b"2 0 obj<< /Type /Pages /Kids [3 0 R] /Count 1 >>endobj\n"
+        b"3 0 obj<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 4 0 R >> >> "
+        b"/MediaBox [0 0 612 792] /Contents 5 0 R >>endobj\n"
+        b"4 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>endobj\n"
+        b"5 0 obj<< /Length " + str(len(stream)).encode() + b" >>\nstream\n" + stream
+        + b"\nendstream\nendobj\nxref\n0 6\ntrailer<< /Root 1 0 R /Size 6 >>\n%%EOF")
+
+    import ingest_lib
+    orig_fetch = ingest_lib.fetch
+    ingest_lib.fetch = lambda url: pdf_bytes
+
+    bad = 0
+    try:
+        import tempfile
+        with tempfile.TemporaryDirectory() as d:
+            gpath = Path(d) / "fixture-group.yml"
+            g = {"group": "fixture-group", "kind": "content-hash",
+                 "sources": [{"id": "deq-imd-fixture",
+                              "url": "https://example.invalid/DocumentStream.ashx?uri=1",
+                              "format": "pdf", "sha256": "0" * 64}]}
+            check_group(gpath, g, refresh=True, today="2026-09-10")
+            got = g["sources"][0]["sha256"]
+            want = content_hash(pdf_bytes, "pdf")
+            wrong_if_url_extension_used = content_hash(pdf_bytes, "html")
+            if got != want:
+                print(f"FAIL check_group must hash a `format: pdf` source as pdf "
+                      f"regardless of its url's extension: want {want}, got {got} "
+                      f"(matches the html-derived hash: "
+                      f"{got == wrong_if_url_extension_used})", file=sys.stderr)
+                bad += 1
+    finally:
+        doc_paths_by_id = orig_doc_paths_by_id
+        ingest_lib.fetch = orig_fetch
+    return bad
+
+
 # TWO KINDS OF PROOF, kept apart because they demonstrate different things. `_PROOFS`
 # each break one rule of `check_cadences` and assert THAT rule fires. `_MEASURED` are the
 # behaviours no --check rule can state: what a report does with data it cannot read, what
@@ -1517,7 +1599,8 @@ _MEASURED = [_proof_due_reports_an_undeclared_cadence_rather_than_raising,
              _proof_chapter_html_id_accounting_is_scoped_correctly,
              _proof_ors_empty_chapter_ids_reads_the_catalogs_own_accounting,
              _proof_chapter_html_accounting_reports_an_unreadable_content_dir_rather_than_raising,
-             _proof_chapter_html_scope_falls_back_to_the_whole_corpus_when_unproven]
+             _proof_chapter_html_scope_falls_back_to_the_whole_corpus_when_unproven,
+             _proof_the_baseline_check_group_writes_uses_the_sources_declared_format]
 
 _PROOFS = [
     ("a cadence declared in the checker and not the schema",
