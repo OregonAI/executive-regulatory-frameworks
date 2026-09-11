@@ -372,6 +372,38 @@ corpus-wide changes from 2026-08-02 forward.
   carry no occurrence at all. No repo reads the key for a live join.
 
 ### Fixed
+- 2026-09-10 — **#339: `catalog_oar.py`'s `FIELDS` table declared each field's `writers` and
+  gated none of it.** `FieldSpec.writers` (added by #334) read like a declared, gated fact
+  — "`ingest_oar.py` is the only writer of `path`" — but nothing checked it: adding a
+  writer tomorrow that assigns a key its `FIELDS` entry does not name it for would pass
+  silently.
+
+  Added the AST-scan half `ingest_status.ingest_vocabulary()` already demonstrates for one
+  field (`status`), widened to all twelve and to the three write shapes this repo's four
+  writer modules actually use: a literal-key subscript assignment (`r["path"] = ...`), a
+  dict literal (`{"number": num, "status": "not_ingested"}`), and — `reingest_oar.py` and
+  `legal_status.py`'s shape for every multi-key group they write — `for key, value in
+  zip(KEYS, ...): row[key] = value`, where `KEYS` is a module-level tuple of key-constants
+  resolved back to strings rather than a literal at the write site itself. Missing that
+  third shape would have reported both modules as never writing anything they write this
+  way. Two new gated rules, `writers-declared-not-observed` and
+  `writer-observed-not-declared`, both directions of the same comparison
+  `check_writers()` makes against `observed_field_writers()`'s scan of
+  `catalog_oar.py`/`ingest_oar.py`/`reingest_oar.py`/`legal_status.py`'s own source, wired
+  into `catalog_oar.py --check` (already a `tier=pr` gate; no new gate needed).
+
+  **A real trap found and closed along the way**: a naive whole-module AST walk reads a
+  test fixture's synthetic row dict (`{"number": "1-001-0001", "status": "ingested", ...}`,
+  built to feed `check_row_shape`/`reingest_one` a fake row) as indistinguishable from a
+  real write, and also reads `FIELDS = {...}` itself (a dict literal whose keys are exactly
+  the row keys this scan looks for) as a write. Excluding functions by a `_proof_*`/
+  `_fixture*` naming guess caught most of these but missed two real ones —
+  `reingest_oar.py`'s `_row` helper and `ingest_oar.py`'s
+  `_renumbered_out_exists_stamps_path` — so the exclusion is computed from each module's
+  own call graph instead (every top-level function reachable only from `selftest`/
+  `cmd_selftest`, to a fixed point), and `FIELDS` is excluded by name. Verified against the
+  real four files: every field's declared writers now agree exactly with what is actually
+  observed, in both directions.
 - 2026-09-10 — **#336: the held/not-held ingest-status partition was still restated in
   three readers #333 did not reach.** `ingest_status.HELD_INGEST_STATUSES` is the one
   declared partition (`ingested`, `renumbered` are held; the rest are not), but

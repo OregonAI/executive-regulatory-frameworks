@@ -70,6 +70,7 @@ breaks every citation pointing at it. Existing per-rule statuses
 `merge_divisions` + `WouldRemoveRules` (below) make that the rule of this
 module rather than a habit: a run whose merge would still drop a rule row
 already held REFUSES to save, rather than silently narrowing the catalog."""
+import ast
 import re
 import sys
 import time
@@ -592,6 +593,244 @@ PAIRS = (
     ("reingest_refused", "reingest_refused_notice"),
 )
 
+# --------------------------------------------------------------- #339: are .writers TRUE?
+#
+# `FieldSpec.writers` above was populated for all twelve fields and read by nothing --
+# a declared, gated-LOOKING fact that was actually a comment living in a namedtuple.
+# `ingest_status.ingest_vocabulary()` already demonstrates the right shape for this
+# repository: read a writer module's OWN syntax tree for what it actually assigns, rather
+# than trust a claim about it. This widens that idea from one field (`status`) to all
+# twelve, and from one write shape to the three this repo's four writers actually use:
+#
+#   1. a literal-key subscript assignment      r["path"] = ...
+#   2. a dict literal                          {"number": num, "status": "not_ingested"}
+#   3. a `for key, value in zip(KEYS, ...): row[key] = value` loop, where KEYS is a
+#      module-level tuple of key-constants (`REINGEST_KEYS`, `MARKED_KEYS`) -- the shape
+#      `reingest_oar.py` and `legal_status.py` write EVERY multi-key group through.
+#      Missing shape 3 would report both of those modules as never writing any key they
+#      demonstrably do -- every `reingest_action`/`reingest_notice` and every
+#      `legal_status`/`legal_status_action`/`legal_status_notice` write goes through it.
+#
+# NARROW ON PURPOSE, the same way `ingest_status.ingest_vocabulary()` names the shapes it
+# does not chase rather than pretending to be a general Python analyzer: only module-level
+# constants are resolved (every key-naming constant in these four files is one), and only
+# a 2-tuple `for key, value in zip(...)` loop is unrolled. A write shape outside these three
+# is invisible to this scan the same way an unparseable module is (#333's own precedent) --
+# reported as `writers-declared-not-observed` rather than passed silently, never the other
+# way, because a scan that cannot see a write must not conclude the write does not happen.
+WRITER_MODULE_PATHS = {
+    DISCOVERY: Path(__file__),
+    INGEST: REPO_ROOT / "src" / "ingest_oar.py",
+    REINGEST: REPO_ROOT / "src" / "reingest_oar.py",
+    LEGAL: REPO_ROOT / "src" / "legal_status.py",
+}
+
+
+def _module_key_constants(tree: ast.Module) -> tuple:
+    """(name -> str, name -> tuple-of-str) for every simple MODULE-LEVEL assignment a write
+    site's key might resolve through -- `ACTION_KEY = "reingest_action"`, then
+    `REINGEST_KEYS = (ACTION_KEY, NOTICE_KEY)` built from names already resolved earlier in
+    the same file (source order, matching how every one of these four modules actually
+    declares them). A constant assigned inside a function is outside this scan's declared
+    narrowing above."""
+    strings: dict = {}
+    tuples: dict = {}
+
+    def resolve_str(node):
+        if isinstance(node, ast.Constant) and isinstance(node.value, str):
+            return node.value
+        if isinstance(node, ast.Name):
+            return strings.get(node.id)
+        return None
+
+    for stmt in tree.body:
+        if not (isinstance(stmt, ast.Assign) and len(stmt.targets) == 1
+                and isinstance(stmt.targets[0], ast.Name)):
+            continue
+        name = stmt.targets[0].id
+        s = resolve_str(stmt.value)
+        if s is not None:
+            strings[name] = s
+            continue
+        if isinstance(stmt.value, (ast.Tuple, ast.List)):
+            elts = [resolve_str(e) for e in stmt.value.elts]
+            if elts and all(e is not None for e in elts):
+                tuples[name] = tuple(elts)
+    return strings, tuples
+
+
+def _test_only_function_names(tree: ast.Module) -> set:
+    """Every TOP-LEVEL function this module defines that exists only to test it -- computed
+    from the module's own call graph rather than guessed from a naming convention. A naming
+    guess (`_proof_*`/`_fixture*`) was tried first and missed real cases: `reingest_oar.py`'s
+    `_row` and `ingest_oar.py`'s `_renumbered_out_exists_stamps_path` are both fixture
+    helpers with neither prefix, and both build `{"number": ..., "status": ..., "path":
+    ...}` dict literals AST-identical to a real row write.
+
+    `selftest`/`cmd_selftest` (the entry point every one of the four writer modules
+    exposes) seeds the set; a function is added once EVERY place it is called (by name,
+    anywhere in the module) is already in the set -- to a fixed point, since a fixture
+    builder often calls another fixture builder. A function this misses (called only
+    indirectly, e.g. through a list of function references rather than by name) is simply
+    not excluded, which biases this scan toward over-reporting a field as written, never
+    toward silently excusing a real write -- could not check is never reported as is not
+    there."""
+    defs = {n.name: n for n in tree.body
+            if isinstance(n, (ast.FunctionDef, ast.AsyncFunctionDef))}
+    entry = {"selftest", "cmd_selftest"} & set(defs)
+    if not entry:
+        return set()
+    calls = {name: {c.func.id for c in ast.walk(node)
+                    if isinstance(c, ast.Call) and isinstance(c.func, ast.Name)}
+             for name, node in defs.items()}
+    test_only = set(entry)
+    changed = True
+    while changed:
+        changed = False
+        for name in defs:
+            if name in test_only:
+                continue
+            callers = [c for c, callees in calls.items() if name in callees]
+            if callers and all(c in test_only for c in callers):
+                test_only.add(name)
+                changed = True
+    return test_only
+
+
+def _walk_production(tree: ast.Module):
+    """`ast.walk(tree)`, except it never descends into a top-level function
+    `_test_only_function_names` finds. Excluding the WHOLE subtree (not just the def
+    itself) is what keeps a nested fixture -- `catalog_oar.py`'s own `_fixture_row_shape`,
+    defined inside `selftest()` -- from being reached at all, the same way excluding a
+    module-level test-only function keeps everything IT builds out of the scan too."""
+    test_only = _test_only_function_names(tree)
+    stack = list(tree.body)
+    while stack:
+        node = stack.pop()
+        if (isinstance(node, (ast.FunctionDef, ast.AsyncFunctionDef))
+                and node.name in test_only):
+            continue
+        # `FIELDS = {"number": FieldSpec(...), ...}` (this module's own schema
+        # declaration) is a dict literal whose keys are exactly the row keys this scan
+        # looks for -- structurally identical to a real row-construction dict, and the
+        # one write site every field's `writers` would otherwise be attributed to no
+        # matter what actually writes it. Excluded by NAME (the only such dict any of
+        # the four writer modules declares), not by module, so a real row dict built
+        # elsewhere in this same file is still seen.
+        if (isinstance(node, ast.Assign) and len(node.targets) == 1
+                and isinstance(node.targets[0], ast.Name)
+                and node.targets[0].id == "FIELDS"):
+            continue
+        yield node
+        stack.extend(ast.iter_child_nodes(node))
+
+
+def _assigned_row_keys(tree: ast.Module) -> set:
+    """Every dict key this module's syntax tree assigns a rule ROW through, IN ITS OWN
+    PRODUCTION CODE -- the three shapes the section comment above names, resolving a
+    subscript's or dict literal's key, or a `zip(...)` call's first argument, through
+    `_module_key_constants`'s maps, walked via `_walk_production` so a test fixture is
+    never read as a write."""
+    strings, tuples = _module_key_constants(tree)
+
+    def resolve_str(node):
+        if isinstance(node, ast.Constant) and isinstance(node.value, str):
+            return node.value
+        if isinstance(node, ast.Name):
+            return strings.get(node.id)
+        return None
+
+    def resolve_tuple(node):
+        if isinstance(node, ast.Name):
+            return tuples.get(node.id)
+        if isinstance(node, (ast.Tuple, ast.List)):
+            elts = [resolve_str(e) for e in node.elts]
+            if elts and all(e is not None for e in elts):
+                return tuple(elts)
+        return None
+
+    out = set()
+    for node in _walk_production(tree):
+        if isinstance(node, ast.Assign):
+            for t in node.targets:
+                if isinstance(t, ast.Subscript):
+                    key = resolve_str(t.slice)
+                    if key is not None:
+                        out.add(key)
+        elif isinstance(node, ast.Dict):
+            for k in node.keys:
+                key = resolve_str(k) if k is not None else None
+                if key is not None:
+                    out.add(key)
+        elif isinstance(node, ast.For):
+            target = node.target
+            if not (isinstance(target, ast.Tuple) and len(target.elts) == 2
+                    and all(isinstance(e, ast.Name) for e in target.elts)
+                    and isinstance(node.iter, ast.Call)
+                    and isinstance(node.iter.func, ast.Name)
+                    and node.iter.func.id == "zip" and node.iter.args):
+                continue
+            keys_tuple = resolve_tuple(node.iter.args[0])
+            key_var = target.elts[0].id
+            if keys_tuple and any(
+                    isinstance(inner, ast.Assign)
+                    and any(isinstance(tg, ast.Subscript)
+                           and isinstance(tg.slice, ast.Name) and tg.slice.id == key_var
+                           for tg in inner.targets)
+                    for inner in ast.walk(node)):
+                out.update(keys_tuple)
+    return out
+
+
+def observed_field_writers(sources: dict = None) -> dict:
+    """field name -> the set of writer labels (`FIELDS`' vocabulary: `DISCOVERY`, `INGEST`,
+    `REINGEST`, `LEGAL`) observed actually assigning it -- `FieldSpec.writers`' other half
+    (#339), read off each writer module's own syntax tree rather than trusted, the same
+    read-not-trust shape `ingest_status.ingest_vocabulary()` applies to `status` alone,
+    widened to every declared field.
+
+    `sources`, when given, maps a writer LABEL to source TEXT instead of reading
+    `WRITER_MODULE_PATHS` from disk -- what lets `--selftest` fire this against a synthetic
+    writer without touching the real four files. A module that does not parse contributes
+    no keys, which reports every field it was meant to write as
+    `writers-declared-not-observed` rather than passing -- could not check is never
+    reported as is not there."""
+    sources = ({label: path.read_text() for label, path in WRITER_MODULE_PATHS.items()}
+               if sources is None else sources)
+    out: dict = {}
+    for label, text in sources.items():
+        try:
+            tree = ast.parse(text)
+        except SyntaxError:
+            continue
+        for key in _assigned_row_keys(tree):
+            out.setdefault(key, set()).add(label)
+    return out
+
+
+def check_writers(fields=FIELDS, observed=None) -> list:
+    """`writers-declared-not-observed` / `writer-observed-not-declared` (#339): `FIELDS`'
+    `writers` tuple, gated against what `observed_field_writers()` actually finds, in BOTH
+    directions -- a writer FIELDS names that nothing was seen assigning the field, and a
+    module seen assigning a field that FIELDS' `writers` for it does not name."""
+    observed = observed_field_writers() if observed is None else observed
+    failures = []
+    for key, spec in fields.items():
+        declared, seen = set(spec.writers), observed.get(key, set())
+        for extra in sorted(declared - seen):
+            failures.append(Failure(
+                "writers-declared-not-observed", key,
+                f"FIELDS declares {extra!r} as a writer of {key!r}, and no assignment to "
+                f"{key!r} was found in its syntax tree -- a comment nothing gates, not a "
+                "declared, gated fact"))
+        for extra in sorted(seen - declared):
+            failures.append(Failure(
+                "writer-observed-not-declared", key,
+                f"{extra!r} assigns {key!r}, and FIELDS' declared writers for {key!r} "
+                f"({', '.join(sorted(declared)) or '(none)'}) do not name it"))
+    return failures
+
+
 # EVERY RULE THIS SECTION CAN REPORT (#319/#334). Declared rather than counted at run time,
 # gated in both directions against this module's own syntax tree by `check_rule_ledger.py` --
 # the shared implementation `legal_status.py`, `stated_census.py` and `catalog_agencies.py`
@@ -601,6 +840,7 @@ CHECK_RULES = (
     "readable-catalog", "catalog-populated", "readable-row",
     "declared-field", "required-field", "field-group-complete",
     "served-as-tracks-renumbered", "path-matches-ingest-status",
+    "writers-declared-not-observed", "writer-observed-not-declared",
 )
 
 _LEDGER = RuleLedger(CHECK_RULES, __file__)
@@ -778,7 +1018,7 @@ def cmd_check(catalog_path=None) -> int:
         print(Failure("catalog-populated", str(catalog_path), "catalog holds no chapters"),
               file=sys.stderr)
         return 1
-    failures = check_row_shape(cat)
+    failures = check_row_shape(cat) + check_writers()
     for f in failures:
         print(f, file=sys.stderr)
     total = sum(1 for _ in _all_rows(cat))
@@ -1824,6 +2064,87 @@ def selftest() -> int:
               [r["number"] for r in renumbered_without_path(gap_cat, root=tmp_root)]
               == ["1-001-0002"]
               and not any(f.site == "1-001-0002" for f in check_row_shape(gap_cat)))
+
+    # ------------------------------------------------------ #339: FIELDS' writers, gated
+    #
+    # A synthetic writer, so `check_writers`'s two rules are watched failing without
+    # touching any of the real four files.
+    synthetic_fields = {
+        "widget": FieldSpec((DISCOVERY,), required=False),
+        "gadget": FieldSpec((DISCOVERY, INGEST), required=False),
+    }
+    real_writer_writes_widget_only = 'r["widget"] = "x"\n'
+    obs = observed_field_writers({DISCOVERY: real_writer_writes_widget_only, INGEST: ""})
+    failures = check_writers(fields=synthetic_fields, observed=obs)
+    check("a declared writer nothing was seen writing is reported "
+          "(writers-declared-not-observed)",
+          any(f.rule == "writers-declared-not-observed" and f.site == "gadget"
+              for f in failures))
+    check("...and the field it DOES write is not reported for that writer",
+          not any(f.rule == "writers-declared-not-observed" and f.site == "widget"
+                  for f in failures))
+
+    # `writer-observed-not-declared`'s OWN fixture must declare the field (a violation is
+    # "this writer is not in the declared list", never "this field does not exist" --
+    # `declared-field`, above, is the rule for the latter) -- `served_as` is FIELDS' own
+    # real example: only INGEST is declared, so attributing it to DISCOVERY too is exactly
+    # this rule's shape, checked against the real FIELDS table rather than a synthetic one.
+    check("a module observed writing a field whose declared writers do not name it is "
+          "reported (writer-observed-not-declared)",
+          any(f.rule == "writer-observed-not-declared" and f.site == "served_as"
+              for f in check_writers(fields=FIELDS,
+                                     observed={"served_as": {DISCOVERY, INGEST}})))
+
+    # THE ZIP-LOOP SHAPE (#339): `reingest_oar.py` and `legal_status.py` write their
+    # multi-key groups through `for key, value in zip(KEYS, ...): row[key] = value`, where
+    # KEYS is a module-level tuple of key-constants -- not a literal subscript or dict at
+    # the write site itself. A scan that only recognised shapes 1-2 would report both
+    # modules as never writing anything they write this way.
+    zip_shape_source = (
+        'A_KEY = "field_a"\n'
+        'B_KEY = "field_b"\n'
+        'GROUP_KEYS = (A_KEY, B_KEY)\n'
+        'def write(row, a, b):\n'
+        '    for key, value in zip(GROUP_KEYS, (a, b)):\n'
+        '        row[key] = value\n')
+    check("a `for key, value in zip(KEYS, ...): row[key] = value` write site is attributed "
+          "to every key in KEYS, not missed for using a NAME instead of a literal",
+          observed_field_writers({REINGEST: zip_shape_source})
+          == {"field_a": {REINGEST}, "field_b": {REINGEST}})
+
+    # THE FIXTURE EXCLUSION (#339's own review): a helper function reachable ONLY from
+    # `selftest` -- however it is named -- must not be read as a real writer, or every
+    # module's OWN test fixtures would be counted as writes of whatever keys they happen to
+    # build a synthetic row out of.
+    fixture_trap_source = (
+        'def _oddly_named_helper(number):\n'
+        '    return {"number": number, "status": "ingested"}\n'
+        'def selftest():\n'
+        '    _oddly_named_helper("1")\n')
+    check("a fixture helper reachable only from selftest is excluded from the scan "
+          "however it is named -- not just one matching a _proof_/_fixture naming guess",
+          observed_field_writers({DISCOVERY: fixture_trap_source}) == {})
+    real_and_test_source = (
+        'def build(number):\n'
+        '    return {"number": number, "status": "ingested"}\n'
+        'def cmd_ingest():\n'
+        '    return build("1")\n'
+        'def selftest():\n'
+        '    build("1")\n')
+    check("...but the SAME helper is scanned when a real command path also reaches it, "
+          "not excused just because selftest reaches it too",
+          observed_field_writers({DISCOVERY: real_and_test_source})
+          == {"number": {DISCOVERY}, "status": {DISCOVERY}})
+
+    # THE REAL FOUR FILES (#339's concrete finding): every field FIELDS declares agrees,
+    # in both directions, with what this scan finds actually assigned in
+    # `catalog_oar.py`/`ingest_oar.py`/`reingest_oar.py`/`legal_status.py` today.
+    real_observed = observed_field_writers()
+    check("the committed FIELDS table's writers agree with what the real four files "
+          "actually assign, in both directions",
+          not check_writers(observed=real_observed))
+    check("...and the scan is not vacuously empty",
+          bool(real_observed))
 
     # THE DECLARATION, GATED FROM BOTH SIDES (#319, matching legal_status.py,
     # stated_census.py, catalog_agencies.py and ingest_status.py). A rule can go undetected
