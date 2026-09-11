@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.069
-title: "Discrimination against state worker applying for benefits under ORS 659A.060 to"
+title: "Discrimination against state worker applying for benefits under ORS 659A.060 to 659A.069 prohibited UNLAWFUL EMPLOYMENT DISCRIMINATION AND REQUIRED LEAVE RELATE"
 doc_type: statute
 citation: "ORS 659A.069"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Discrimination against state worker applying for benefits under ORS 659A.060 to (ORS 659A.069)
+# Discrimination against state worker applying for benefits under ORS 659A.060 to 659A.069 prohibited UNLAWFUL EMPLOYMENT DISCRIMINATION AND REQUIRED LEAVE RELATE (ORS 659A.069)
 
 ## At a glance
 
-ORS 659A.069 — Discrimination against state worker applying for benefits under ORS 659A.060 to. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.069 — Discrimination against state worker applying for benefits under ORS 659A.060 to 659A.069 prohibited UNLAWFUL EMPLOYMENT DISCRIMINATION AND REQUIRED LEAVE RELATE. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

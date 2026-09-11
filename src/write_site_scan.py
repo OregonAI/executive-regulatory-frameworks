@@ -105,7 +105,7 @@ def module_key_constants(tree: ast.Module) -> tuple:
     return strings, tuples
 
 
-def externally_referenced_names(module_stem: str, other_sources: dict) -> set:
+def externally_referenced_names(module_stem: str, other_sources: dict, trees: dict = None) -> set:
     """Every top-level name of the module named `module_stem` that some OTHER source in
     `other_sources` (label/path -> text, any OTHER module -- not `module_stem`'s own tree)
     imports by name (`from module_stem import name`) or reaches as an attribute after a bare
@@ -120,27 +120,69 @@ def externally_referenced_names(module_stem: str, other_sources: dict) -> set:
     `enrich_oar.py`) and `catalog_oar.display_note` (imported by `review_queue.py`) are both
     this shape on the real committed tree. A name returned here must never be excluded from
     a production scan as test-only, no matter how it looks from inside its own module --
-    some OTHER writer may call it in production, and that is enough."""
+    some OTHER writer may call it in production, and that is enough.
+
+    `trees`, when given, maps the same keys as `other_sources` to already-parsed ASTs -- an
+    optional cache so a caller calling this once PER TARGET module over the same
+    `other_sources` does not re-`ast.parse` each source once per call. A key `trees` does not
+    carry falls back to parsing `other_sources`' text for that key, so a partial cache is
+    safe. A caller doing that for EVERY module in a corpus (module count N -> N calls here,
+    each walking N-1 trees: O(N^2) `ast.walk()`, which is the greater part of this
+    function's cost -- #394 review measured `ast.parse` at 0.2s of a 15-16s run,
+    `ast.walk` at the rest) should call `all_externally_referenced_names()` below instead,
+    which walks each tree exactly once."""
     referenced = set()
-    for text in other_sources.values():
-        try:
-            tree = ast.parse(text)
-        except SyntaxError:
-            continue
-        bound_aliases = set()
-        for node in ast.walk(tree):
-            if isinstance(node, ast.ImportFrom) and node.module == module_stem:
-                referenced.update(a.name for a in node.names)
-            elif isinstance(node, ast.Import):
-                for a in node.names:
-                    if a.name == module_stem:
-                        bound_aliases.add(a.asname or module_stem)
-        if bound_aliases:
-            for node in ast.walk(tree):
-                if (isinstance(node, ast.Attribute) and isinstance(node.value, ast.Name)
-                        and node.value.id in bound_aliases):
-                    referenced.add(node.attr)
+    for key, text in other_sources.items():
+        tree = trees.get(key) if trees is not None else None
+        if tree is None:
+            try:
+                tree = ast.parse(text)
+            except SyntaxError:
+                continue
+        referenced |= _file_import_references(tree).get(module_stem, set())
     return referenced
+
+
+def _file_import_references(tree: ast.Module) -> dict:
+    """One pass over `tree`: {imported module_stem: names referenced from it in this file}
+    -- every `from module_stem import name` and every `module_stem.name(...)` /
+    `import module_stem as m; m.name(...)` reachable in `tree`, for every `module_stem` at
+    once. The per-file half of `externally_referenced_names`'s cross-module lookup, split
+    out so a caller aggregating over every file in a corpus walks each tree once (see
+    `all_externally_referenced_names`) instead of once per (target module, file) pair."""
+    referenced: dict = {}
+    bound_aliases: dict = {}
+    for node in ast.walk(tree):
+        if isinstance(node, ast.ImportFrom) and node.module:
+            referenced.setdefault(node.module, set()).update(a.name for a in node.names)
+        elif isinstance(node, ast.Import):
+            for a in node.names:
+                bound_aliases[a.asname or a.name] = a.name
+    if bound_aliases:
+        for node in ast.walk(tree):
+            if (isinstance(node, ast.Attribute) and isinstance(node.value, ast.Name)
+                    and node.value.id in bound_aliases):
+                referenced.setdefault(bound_aliases[node.value.id], set()).add(node.attr)
+    return referenced
+
+
+def all_externally_referenced_names(trees: dict) -> dict:
+    """{key: externally-referenced names for the module at `key`} for EVERY key in `trees`
+    (a `pathlib.Path` whose `.stem` is that module's name -> its already-parsed AST),
+    computed by walking each tree in `trees` exactly once and aggregating by imported
+    module stem -- the batch form of calling
+    `externally_referenced_names(key.stem, {other keys' sources}, trees=trees)` once per
+    key, which walks every OTHER tree again for each key (O(N^2) `ast.walk()` calls over a
+    corpus of N files; this is O(N)). A caller keying by a plain label string rather than a
+    `Path` (a synthetic fixture, most callers' `sources=...` path) has no `.stem` to
+    aggregate by and should call `externally_referenced_names` directly instead."""
+    contrib = {key: _file_import_references(tree) for key, tree in trees.items()}
+    agg: dict = {}
+    for referenced in contrib.values():
+        for stem, names in referenced.items():
+            agg.setdefault(stem, set()).update(names)
+    return {key: set(agg.get(key.stem, set())) - contrib[key].get(key.stem, set())
+            for key in trees}
 
 
 def test_only_function_names(tree: ast.Module, externally_referenced: frozenset = frozenset()) -> set:
@@ -339,6 +381,34 @@ def _proof_externally_referenced_names_close_the_module_local_blind_spot(check) 
           == {"_oddly_named_helper"})
 
 
+def _proof_all_externally_referenced_names_matches_the_per_module_form(check) -> None:
+    """`all_externally_referenced_names` (#394 review: the O(N^2)-`ast.walk()` fix for a
+    caller computing this for EVERY module in a corpus) batches what calling
+    `externally_referenced_names` once per target module, over the same sources, computes --
+    proven to agree with it here so the two can't silently drift apart. Also proves the
+    `trees=` cache parameter agrees with parsing fresh."""
+    a_src = 'from b_writer import _helper\n'
+    b_src = ('def _helper(number):\n'
+            '    r = {"number": number}\n'
+            '    r["served_as"] = number\n'
+            '    return r\n')
+    c_src = 'x = 1\n'  # imports nothing -- contributes no references either way
+    sources = {Path("a_writer.py"): a_src, Path("b_writer.py"): b_src, Path("c.py"): c_src}
+    trees = {p: ast.parse(t) for p, t in sources.items()}
+    batch = all_externally_referenced_names(trees)
+    check("the batch form finds b_writer's helper referenced by a_writer",
+          batch[Path("b_writer.py")] == {"_helper"})
+    check("...and a module nothing imports has no external references",
+          batch[Path("a_writer.py")] == set() and batch[Path("c.py")] == set())
+    other = {p: t for p, t in sources.items() if p != Path("b_writer.py")}
+    per_target = externally_referenced_names("b_writer", other)
+    check("...agreeing with the per-target form given the same sources",
+          batch[Path("b_writer.py")] == per_target)
+    check("the trees= cache agrees with parsing fresh",
+          externally_referenced_names("b_writer", other,
+                                      trees={p: trees[p] for p in other}) == per_target)
+
+
 def _proof_setdefault_and_update_shapes(check) -> None:
     src = ('def build(number):\n'
           '    r = {"number": number}\n'
@@ -373,6 +443,7 @@ def selftest() -> int:
     _proof_key_constants_resolve_chained_names(check)
     _proof_test_only_exclusion(check)
     _proof_externally_referenced_names_close_the_module_local_blind_spot(check)
+    _proof_all_externally_referenced_names_matches_the_per_module_form(check)
     _proof_setdefault_and_update_shapes(check)
     _proof_exclude_names_hides_a_schema_declaration(check)
     return check.report()

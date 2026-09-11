@@ -75,6 +75,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 
+import write_site_scan
 from check_rule_ledger import RuleLedger
 from repo_lib import REPO_ROOT, Checks, assigned_string_constants
 
@@ -172,6 +173,7 @@ DISCOVERER = SRC / "catalog_oar.py"
 # both-directions gate `legal_status.py` and `catalog_agencies.py` already carry.
 CHECK_RULES = (
     "ingest-vocabulary-declared-once",
+    "ingest-vocabulary-not-restated",
 )
 
 # THE CHECK-RULE LEDGER (#319), adopted here rather than hand-rolled: recording a rule name
@@ -225,6 +227,101 @@ def ingest_vocabulary(source=None) -> set:
     return out
 
 
+# NO PARTITION THIS MODULE DECLARES IS ONE WORD (`HELD_INGEST_STATUSES`, the smallest, has
+# two) -- a single-word literal elsewhere names one status for one purpose, not a slice of a
+# partition, and restates nothing. `review_queue._REGISTRY_STATUSES = ("needs_registry",)`
+# is this shape on the real tree; requiring two-or-more is what keeps it, and every other
+# single-word literal like it, from being reported as `ingest-vocabulary-not-restated`.
+_MIN_RESTATEMENT_SIZE = 2
+
+
+def _restated_in(tree, label: str, values: frozenset,
+                 externally_referenced: frozenset = frozenset()) -> list:
+    """(label, lineno, words) for every literal tuple/set/list in `tree`'s PRODUCTION code
+    (never a test fixture -- `write_site_scan.walk_production`, #339, reused rather than a
+    second AST walker) whose members are two-or-more `INGEST_STATUS_VALUES` words."""
+    out = []
+    for node in write_site_scan.walk_production(tree, externally_referenced=externally_referenced):
+        if not isinstance(node, (ast.Tuple, ast.Set, ast.List)):
+            continue
+        words = []
+        for e in node.elts:
+            if isinstance(e, ast.Constant) and isinstance(e.value, str):
+                words.append(e.value)
+            else:
+                words = None
+                break
+        if words and len(words) >= _MIN_RESTATEMENT_SIZE and set(words) <= values:
+            out.append((label, node.lineno, tuple(words)))
+    return out
+
+
+def restated_vocabulary_sites(sources: dict = None) -> list:
+    """(label, lineno, words) for every restatement of `INGEST_STATUS_VALUES` OUTSIDE this
+    module -- the AST scan #336 ran BY HAND to find three such restatements
+    (`seed_oar_watch.held_rules()`, `review_queue.py`'s catalog scan,
+    `reingest_oar.REFUSAL_REASONS`), turned into code that runs on every PR (#394) rather
+    than a technique nobody re-runs.
+
+    `sources` is label -> source text; passing it fires the rule against a synthetic module
+    without touching the real tree. `None` reads every committed `src/*.py` file except this
+    one -- `ingest_status.py` IS the six words' home and restates nothing by declaring them
+    -- computing cross-module import visibility for every module in one pass
+    (`write_site_scan.all_externally_referenced_names`, batching what
+    `catalog_oar.observed_field_writers` does per-module via `externally_referenced_names`;
+    see that function's own docstring for why the batch form exists), so a fixture some
+    OTHER module imports and calls in production is never misread as test-only.
+
+    A module that does not parse contributes no sites -- silence, not a claim the module
+    holds no restatement (AGENTS.md's overriding rule)."""
+    values = frozenset(INGEST_STATUS_VALUES)
+    out = []
+    if sources is None:
+        this_file = Path(__file__).resolve()
+        all_srcs = {p: p.read_text() for p in SRC.glob("*.py")
+                   if p.resolve() != this_file}
+        # Parse every source ONCE, and compute cross-module import visibility for every
+        # module in ONE pass (`write_site_scan.all_externally_referenced_names`), rather
+        # than once per target module. The outer loop runs once per file under `src/*.py`
+        # (N ~ 87); calling `externally_referenced_names` per target used to both re-parse
+        # (~7.5k `ast.parse` calls) and re-walk (~7.5k `ast.walk` calls) all N-1 others each
+        # time -- O(N^2) either way. Measured before this fix: 15-16s for this function
+        # alone (`ast.parse` was only 0.2s of that; `ast.walk` was the rest).
+        trees = {}
+        for p, t in all_srcs.items():
+            try:
+                trees[p] = ast.parse(t)
+            except SyntaxError:
+                continue
+        ext_refs = write_site_scan.all_externally_referenced_names(trees)
+        for path in sorted(trees):
+            out.extend(_restated_in(trees[path], _label(path), values,
+                                    frozenset(ext_refs[path])))
+        return out
+    for label, text in sources.items():
+        try:
+            tree = ast.parse(text)
+        except SyntaxError:
+            continue
+        out.extend(_restated_in(tree, label, values))
+    return out
+
+
+def check_restatements(sites) -> list:
+    """The rule that no OTHER module hand-types a literal tuple/set/list restating two or
+    more `INGEST_STATUS_VALUES` words -- `ingest-vocabulary-not-restated` (#394). `sites` is
+    what `restated_vocabulary_sites()` found, passed in rather than read here so the rule can
+    be fired against a synthetic site."""
+    return [Failure(
+        "ingest-vocabulary-not-restated", f"{label}:{lineno}",
+        f"the literal {words!r} restates {len(words)} of this module's "
+        "INGEST_STATUS_VALUES words instead of importing them -- the exact shape #336 "
+        "found three times over (a restatement that agrees with the declaration only "
+        "because nobody has added a word it omits yet). Import the partition this "
+        "matches (or INGEST_STATUS_VALUES itself) from ingest_status.py instead")
+        for label, lineno, words in sites]
+
+
 def check_vocabulary(written) -> list:
     """The rule that this module's declared vocabulary still matches the writers'.
 
@@ -251,6 +348,12 @@ def report(failures) -> int:
 def cmd_check() -> int:
     written = ingest_vocabulary()
     failures = check_vocabulary(written)
+    # #394: the AST scan that found #336's three restatements, gated -- every OTHER module
+    # under src/ is walked for a literal tuple/set/list restating two or more
+    # INGEST_STATUS_VALUES words, on every run this check makes, not only when a human
+    # remembers to run the technique by hand.
+    restatements = restated_vocabulary_sites()
+    failures += check_restatements(restatements)
     if report(failures):
         print(f"\n{len(failures)} ingest-vocabulary violation(s)", file=sys.stderr)
         return 1
@@ -262,7 +365,8 @@ def cmd_check() -> int:
           + f"; {len(REVIEW_QUEUE_INGEST_STATUSES)} belong in the human review queue: "
           + ", ".join(REVIEW_QUEUE_INGEST_STATUSES)
           + f"; {len(INGEST_REFUSAL_REASONS)} are recordable re-ingest refusal reasons: "
-          + ", ".join(INGEST_REFUSAL_REASONS))
+          + ", ".join(INGEST_REFUSAL_REASONS)
+          + f"; {len(restatements)} restatements of the vocabulary found outside this module")
     return 0
 
 
@@ -335,11 +439,56 @@ def _proof_an_invented_word_is_caught(check) -> None:
                   for f in check_vocabulary(set())))
 
 
+def _proof_a_restatement_is_caught(check) -> None:
+    """#394: the AST scan that found #336's three restatements (`seed_oar_watch.py`,
+    `review_queue.py`, `reingest_oar.REFUSAL_REASONS`) was a one-time review technique, run
+    by hand, never turned into code that lives here and runs on every PR. A FOURTH
+    restatement the same shape would sail through today -- proved against a synthetic
+    module first, then against the real tree below."""
+    two_word = 'FETCHED = ("ingested", "renumbered")\n'
+    check("a module-level literal tuple restating two-or-more vocabulary words, outside "
+          "this module, is caught",
+          any(f.rule == "ingest-vocabulary-not-restated"
+              for f in check_restatements(restated_vocabulary_sites({"synthetic": two_word}))))
+    # THE FLOOR: no partition this module declares is one word, so a single-word literal
+    # names one status for one purpose and restates nothing -- `_REGISTRY_STATUSES =
+    # ("needs_registry",)` (review_queue.py) is this shape on the real tree and must not fire.
+    # That claim is gated here, not just asserted in a comment: the day a declared partition
+    # narrows to one word, this fails instead of the floor silently going blind on exactly
+    # the restatement shape it exists to catch (a guard firing on the wrong condition).
+    check(f"THE FLOOR'S OWN PREMISE: no declared partition is narrower than "
+          f"_MIN_RESTATEMENT_SIZE ({_MIN_RESTATEMENT_SIZE})",
+          min(len(p) for p in (HELD_INGEST_STATUSES, REVIEW_QUEUE_INGEST_STATUSES,
+                               INGEST_REFUSAL_REASONS)) >= _MIN_RESTATEMENT_SIZE)
+    one_word = 'REGISTRY = ("needs_registry",)\n'
+    check("...but a single-word literal is not a restatement and is not caught",
+          not check_restatements(restated_vocabulary_sites({"synthetic": one_word})))
+    # A restatement inside a fixture reachable only from `selftest` is a TEST proving some
+    # OTHER reader notices a widened partition (seed_oar_watch.py, review_queue.py both do
+    # this today) -- not a restatement itself. Reused from `write_site_scan.walk_production`
+    # (#339) rather than a second AST walker, so this exclusion is the same one #339 already
+    # proved, not a new guess.
+    test_only = ('def selftest():\n'
+                 '    widened = ("ingested", "renumbered", "needs_registry")\n'
+                 '    return widened\n')
+    check("...and a restatement reachable only from a module's own selftest is not caught",
+          not check_restatements(restated_vocabulary_sites({"synthetic": test_only})))
+    # THE CONCRETE FINDING: the real tree, today, has zero restatements. Before this ticket's
+    # fix this failed against the real `catalog_oar.py`, which had hand-typed
+    # `_FETCHED_STATUSES = ("ingested", "renumbered")` -- byte-identical to
+    # `HELD_INGEST_STATUSES` -- rather than importing it, the exact #336 shape recurring a
+    # fourth time with nothing watching for it.
+    real = check_restatements(restated_vocabulary_sites())
+    check(f"the real committed tree restates the vocabulary nowhere outside this module "
+          f"(found: {real})", not real)
+
+
 def selftest() -> int:
     check = Checks()
     _proof_the_partition_is_derived(check)
     _proof_the_vocabulary_matches_the_real_writers(check)
     _proof_an_invented_word_is_caught(check)
+    _proof_a_restatement_is_caught(check)
     # THE DECLARATION, GATED FROM BOTH SIDES -- `_LEDGER.gaps()` (#319). A rule the code can
     # emit and `CHECK_RULES` does not name would go uncounted; a rule named there that
     # nothing above actually made fire is one nobody has watched work.

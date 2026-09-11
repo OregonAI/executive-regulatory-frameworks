@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.110
-title: "Applicability of ORS 646A.100 to"
+title: "Applicability of ORS 646A.100 to 646A.110 and 646A.112"
 doc_type: statute
 citation: "ORS 646A.110"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Applicability of ORS 646A.100 to (ORS 646A.110)
+# Applicability of ORS 646A.100 to 646A.110 and 646A.112 (ORS 646A.110)
 
 ## At a glance
 
-ORS 646A.110 — Applicability of ORS 646A.100 to. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.110 — Applicability of ORS 646A.100 to 646A.110 and 646A.112. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

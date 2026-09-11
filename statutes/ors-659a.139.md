@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.139
-title: "Construction of ORS 659A.103 to"
+title: "Construction of ORS 659A.103 to 659A.145"
 doc_type: statute
 citation: "ORS 659A.139"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Construction of ORS 659A.103 to (ORS 659A.139)
+# Construction of ORS 659A.103 to 659A.145 (ORS 659A.139)
 
 ## At a glance
 
-ORS 659A.139 — Construction of ORS 659A.103 to. Chapter 659A (Unlawful Discrimination in Employment, Public Accommodations and Real Property Transactions; Administrative and Civil Enforcement), 2025 Edition.
+ORS 659A.139 — Construction of ORS 659A.103 to 659A.145. Chapter 659A (Unlawful Discrimination in Employment, Public Accommodations and Real Property Transactions; Administrative and Civil Enforcement), 2025 Edition.
 
 ## Full text
 

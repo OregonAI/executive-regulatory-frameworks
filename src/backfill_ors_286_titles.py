@@ -145,7 +145,7 @@ def main():
         if s.get("status") == "ingested" and s.get("path"):
             fpath = REPO_ROOT / s["path"]
             if fpath.exists():
-                n = patch_statute_file(fpath, sec, ch, c["title"], old_title, new_title)
+                n = patch_statute_file(fpath, sec, ch, old_title, new_title)
                 if n == 3:
                     n_files_patched += 1
                 else:

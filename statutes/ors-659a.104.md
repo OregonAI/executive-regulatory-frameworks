@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.104
-title: "Description of disability for purposes of ORS 659A.103 to"
+title: "Description of disability for purposes of ORS 659A.103 to 659A.145"
 doc_type: statute
 citation: "ORS 659A.104"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Description of disability for purposes of ORS 659A.103 to (ORS 659A.104)
+# Description of disability for purposes of ORS 659A.103 to 659A.145 (ORS 659A.104)
 
 ## At a glance
 
-ORS 659A.104 — Description of disability for purposes of ORS 659A.103 to. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.104 — Description of disability for purposes of ORS 659A.103 to 659A.145. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

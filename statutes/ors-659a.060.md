@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.060
-title: "Definitions for ORS 659A.060 to"
+title: "Definitions for ORS 659A.060 to 659A.069"
 doc_type: statute
 citation: "ORS 659A.060"
 authority_level: statute
@@ -50,11 +50,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS 659A.060 to (ORS 659A.060)
+# Definitions for ORS 659A.060 to 659A.069 (ORS 659A.060)
 
 ## At a glance
 
-ORS 659A.060 — Definitions for ORS 659A.060 to. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.060 — Definitions for ORS 659A.060 to 659A.069. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

@@ -290,6 +290,12 @@ MAPPED: dict[str, str] = {
     "oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians": "ORS 676.650",
     "oregon-health-authority-health-licensing-office-board-of-cosmetology": "ORS 690.155",
     "oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery": "ORS 687.470",
+    # #351, read 2026-09-10: ORS 691.485(1) "There is established, within the Health
+    # Licensing Office, the Board of Licensed Dietitians to advise the office with regard
+    # to the regulation of dietitians." Tier 1, catchline-subject -- surfaced by
+    # regenerating the review sheet, unrelated pre-existing drift found while closing
+    # #211/#220 (that PR reverted the regeneration to keep this candidate out of its diff).
+    "oregon-health-authority-health-licensing-office-board-of-licensed-dietitians": "ORS 691.485",
     "oregon-health-authority-health-licensing-office-environmental-health-registration-board": "ORS 700.210",
     "oregon-health-authority-health-licensing-office-long-term-care-administrators-board": "ORS 678.800",
     "oregon-health-authority-oregon-prescription-drug-program": "ORS 414.312",

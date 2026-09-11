@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.919
-title: "Authority to adopt rules for ORS 475C.770 to"
+title: "Authority to adopt rules for ORS 475C.770 to 475C.919"
 doc_type: statute
 citation: "ORS 475C.919"
 authority_level: statute
@@ -47,11 +47,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Authority to adopt rules for ORS 475C.770 to (ORS 475C.919)
+# Authority to adopt rules for ORS 475C.770 to 475C.919 (ORS 475C.919)
 
 ## At a glance
 
-ORS 475C.919 — Authority to adopt rules for ORS 475C.770 to. Chapter 475C (Cannabis Regulation), 2025 Edition.
+ORS 475C.919 — Authority to adopt rules for ORS 475C.770 to 475C.919. Chapter 475C (Cannabis Regulation), 2025 Edition.
 
 ## Full text
 

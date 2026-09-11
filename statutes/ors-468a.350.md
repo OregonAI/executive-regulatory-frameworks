@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468a.350
-title: "Definitions for ORS 468A.350 to"
+title: "Definitions for ORS 468A.350 to 468A.400"
 doc_type: statute
 citation: "ORS 468A.350"
 authority_level: statute
@@ -56,11 +56,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS 468A.350 to (ORS 468A.350)
+# Definitions for ORS 468A.350 to 468A.400 (ORS 468A.350)
 
 ## At a glance
 
-ORS 468A.350 — Definitions for ORS 468A.350 to. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.350 — Definitions for ORS 468A.350 to 468A.400. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 

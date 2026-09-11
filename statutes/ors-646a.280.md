@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.280
-title: "Definitions for ORS 646A.280 to"
+title: "Definitions for ORS 646A.280 to 646A.290"
 doc_type: statute
 citation: "ORS 646A.280"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS 646A.280 to (ORS 646A.280)
+# Definitions for ORS 646A.280 to 646A.290 (ORS 646A.280)
 
 ## At a glance
 
-ORS 646A.280 — Definitions for ORS 646A.280 to. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.280 — Definitions for ORS 646A.280 to 646A.290. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

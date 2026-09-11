@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-459a.822
-title: "Definitions for ORS 459A.820 to"
+title: "Definitions for ORS 459A.820 to 459A.855"
 doc_type: statute
 citation: "ORS 459A.822"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS 459A.820 to (ORS 459A.822)
+# Definitions for ORS 459A.820 to 459A.855 (ORS 459A.822)
 
 ## At a glance
 
-ORS 459A.822 — Definitions for ORS 459A.820 to. Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.822 — Definitions for ORS 459A.820 to 459A.855. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.127
-title: "Rules for ORS 743.022,"
+title: "Rules for ORS 743.022, 743B.125 and 743B.126"
 doc_type: statute
 citation: "ORS 743B.127"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Rules for ORS 743.022, (ORS 743B.127)
+# Rules for ORS 743.022, 743B.125 and 743B.126 (ORS 743B.127)
 
 ## At a glance
 
-ORS 743B.127 — Rules for ORS 743.022,. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.127 — Rules for ORS 743.022, 743B.125 and 743B.126. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

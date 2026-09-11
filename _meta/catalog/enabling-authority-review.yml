@@ -9,17 +9,23 @@ note: 'PROPOSED, NOT DECIDED. Each row is a candidate an automated match produce
   — `Or. Const. Art. VI, sec. 1` is resolved against the mirrored Constitution by --check exactly as an
   ORS citation is resolved against the mirrored statutes, and a wrong article or section fails the build
   with the reason it failed — so recording one is review whose output is verified rather than taken on
-  faith. Tier 1 means the section''s catchline subject IS this body AND the section says it is created
-  or established. Tier 2 means the catchline merely contains the name, or names it in a later clause.
-  Tier 3 means the catchline subject IS the body but NO creation language appears anywhere in the section
-  — Oregon does not draft licensing boards with a creation verb, so tier 3 is not weaker than tier 2,
-  it asks a DIFFERENT question: does this section CONSTITUTE the body, or describe one constituted elsewhere?
-  Tiers 2 and 3 are where the wrong answers live. `basis` says HOW the row matched, which tier alone does
-  not: catchline-subject, enumerated-list, catchline-contains, catchline-clause, or catchline-subject-no-verb.
-  A tier-1 row matched on an enumerated list is as strong as one matched on a catchline, but it is checked
-  differently — read the list item, not the catchline. `text` is the excerpt that matched, quoted so review
-  is reading rather than research — an EXCERPT with whitespace collapsed, NOT citable verbatim text. Read
-  the cited section itself before accepting a row.'
+  faith. A body this matcher cannot find may also have been created by an UNCODIFIED SESSION LAW rather
+  than by the Constitution — #211''s own worked case is the Legislative Fiscal Office (Oregon Laws 1959,
+  chapter 70): its codified range, ORS 173.410-173.465, mirrors the office''s operation and never once
+  creates it. Since #211 `Oregon Laws 1975, chapter 789` is a recordable form too, but it is CHECKED FOR
+  SHAPE ONLY — this corpus mirrors no session laws, so nothing here can confirm the citation names the
+  right chapter, and getting the session law right is entirely on the human who verifies it. Tier 1 means
+  the section''s catchline subject IS this body AND the section says it is created or established. Tier
+  2 means the catchline merely contains the name, or names it in a later clause. Tier 3 means the catchline
+  subject IS the body but NO creation language appears anywhere in the section — Oregon does not draft
+  licensing boards with a creation verb, so tier 3 is not weaker than tier 2, it asks a DIFFERENT question:
+  does this section CONSTITUTE the body, or describe one constituted elsewhere? Tiers 2 and 3 are where
+  the wrong answers live. `basis` says HOW the row matched, which tier alone does not: catchline-subject,
+  enumerated-list, catchline-contains, catchline-clause, or catchline-subject-no-verb. A tier-1 row matched
+  on an enumerated list is as strong as one matched on a catchline, but it is checked differently — read
+  the list item, not the catchline. `text` is the excerpt that matched, quoted so review is reading rather
+  than research — an EXCERPT with whitespace collapsed, NOT citable verbatim text. Read the cited section
+  itself before accepting a row.'
 generated_from: the mirrored ORS in statutes/, never fetched
 candidates:
 - slug: board-of-examiners-for-engineering-and-land-surveying
@@ -128,15 +134,6 @@ candidates:
   text: 671.630 State Landscape Contractors Board; members. The State Landscape Contractors Board shall
     operate as a semi-independent state agency subject to ORS 182.456 to 182.472 for purposes of carrying
     out the provisions of ORS 671.
-  verdict: ''
-- slug: legislative-equity-office
-  name: Legislative Equity Office
-  tier: 2
-  basis: catchline-clause
-  candidate: ORS 173.900
-  catchline: Joint Committee on Conduct established; Legislative Equity Office established; Legislative
-    Equity Officer
-  text: (1) The Joint Committee on Conduct is established as a joint committee of the Legislative Assembly.
   verdict: ''
 - slug: oregon-board-of-dentistry
   name: Oregon Board of Dentistry
@@ -271,8 +268,6 @@ no_candidate:
   name: Judicial Department
 - slug: land-conservation-and-development-department
   name: Land Conservation and Development Department
-- slug: legislative-commission-on-indian-services
-  name: Legislative Commission on Indian Services
 - slug: legislative-counsel-office
   name: Legislative Counsel Office
 - slug: office-of-training-investigations-and-safety
@@ -281,8 +276,6 @@ no_candidate:
   name: Oregon Department of Education, Early Learning Division
 - slug: oregon-health-authority-equity-and-inclusion-division
   name: Oregon Health Authority Equity and Inclusion Division
-- slug: oregon-health-authority-health-licensing-office-board-of-licensed-dietitians
-  name: Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians
 - slug: oregon-health-authority-health-systems-division-addiction-services
   name: 'Oregon Health Authority, Health Systems Division: Addiction Services'
 - slug: oregon-health-authority-health-systems-division-behavioral-health-services
