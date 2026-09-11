@@ -372,6 +372,25 @@ corpus-wide changes from 2026-08-02 forward.
   carry no occurrence at all. No repo reads the key for a live join.
 
 ### Fixed
+- 2026-09-10 — **#351: `enabling-authority-review.yml` was stale — regenerating it with
+  `link_enabling_authority.py --propose` surfaces a new tier-1 candidate for the dietitians
+  board.** Found while closing #211/#220, when that PR reverted its own review-sheet
+  regeneration to keep this unrelated candidate out of its diff. ORS 691.485(1): "There is
+  established, within the Health Licensing Office, the Board of Licensed Dietitians to advise
+  the office with regard to the regulation of dietitians." Moved
+  `oregon-health-authority-health-licensing-office-board-of-licensed-dietitians` into MAPPED
+  in `src/link_enabling_authority.py`, ran `--apply` to write `enabling_authority: ORS
+  691.485` into the registry, then `src/derive_relation_kinds.py --apply` to bring its
+  relation under `oregon-health-authority` from `undetermined` to `administered_by` (basis
+  `reviewed-enabling-authority`). `link_enabling_authority.py --check` and
+  `derive_relation_kinds.py --check` both went from failing (reproduced against a freshly
+  regenerated sheet: `derive_relation_kinds.py --check` disagreed with the committed
+  `undetermined` relation) to exit 0. The full derived-view chain
+  (`link_graph`/`scan_external_citations`/`build_freshness_data`/`build_authority_explorer`/
+  `build_topic_map`/`build_freshness`/`detect_mechanical`/`build_conflict_candidates_data`/
+  `build_conflict_coverage`/`build_statute_fan`/`build_agency_graph`/
+  `build_governor_priorities_data`/`build_policy_age`) was checked and found already current
+  — this one relation is not an input any of them derive from differently.
 - 2026-09-10 — **#394: the AST scan that found #336's three ingest-status restatements was a
   one-time review technique, run by hand, never turned into a gated rule** — so a fourth
   restatement the same shape would sail through uncaught. `ingest_status.py` gains
