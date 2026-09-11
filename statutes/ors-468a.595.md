@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468a.595
-title: "Commission rules to regulate burning pursuant to ORS 468A.550 to"
+title: "Commission rules to regulate burning pursuant to ORS 468A.550 to 468A.620"
 doc_type: statute
 citation: "ORS 468A.595"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Commission rules to regulate burning pursuant to ORS 468A.550 to (ORS 468A.595)
+# Commission rules to regulate burning pursuant to ORS 468A.550 to 468A.620 (ORS 468A.595)
 
 ## At a glance
 
-ORS 468A.595 — Commission rules to regulate burning pursuant to ORS 468A.550 to. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.595 — Commission rules to regulate burning pursuant to ORS 468A.550 to 468A.620. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 

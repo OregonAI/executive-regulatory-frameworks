@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419b.800
-title: "Applicability of ORS 419B.800 to"
+title: "Applicability of ORS 419B.800 to 419B.929"
 doc_type: statute
 citation: "ORS 419B.800"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Applicability of ORS 419B.800 to (ORS 419B.800)
+# Applicability of ORS 419B.800 to 419B.929 (ORS 419B.800)
 
 ## At a glance
 
-ORS 419B.800 — Applicability of ORS 419B.800 to. Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.800 — Applicability of ORS 419B.800 to 419B.929. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

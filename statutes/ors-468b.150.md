@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468b.150
-title: "Definitions for ORS 468B.150 to"
+title: "Definitions for ORS 468B.150 to 468B.190"
 doc_type: statute
 citation: "ORS 468B.150"
 authority_level: statute
@@ -45,11 +45,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS 468B.150 to (ORS 468B.150)
+# Definitions for ORS 468B.150 to 468B.190 (ORS 468B.150)
 
 ## At a glance
 
-ORS 468B.150 — Definitions for ORS 468B.150 to. Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.150 — Definitions for ORS 468B.150 to 468B.190. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 

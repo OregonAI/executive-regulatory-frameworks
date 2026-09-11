@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285c.540
-title: "Definitions for ORS 285C.540 to"
+title: "Definitions for ORS 285C.540 to 285C.559"
 doc_type: statute
 citation: "ORS 285C.540"
 authority_level: statute
@@ -49,11 +49,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS 285C.540 to (ORS 285C.540)
+# Definitions for ORS 285C.540 to 285C.559 (ORS 285C.540)
 
 ## At a glance
 
-ORS 285C.540 — Definitions for ORS 285C.540 to. Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.540 — Definitions for ORS 285C.540 to 285C.559. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 

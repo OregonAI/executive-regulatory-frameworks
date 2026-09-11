@@ -372,6 +372,61 @@ corpus-wide changes from 2026-08-02 forward.
   carry no occurrence at all. No repo reads the key for a live join.
 
 ### Fixed
+- 2026-09-11 — **#348: `backfill_ors_titles.py` had never been run against the full
+  backlog — 1,443 stale catalog section titles, pre-existing, confirmed present on `main`
+  before this PR's own changes.** Triggered by code review of #341/#346/#288, which found
+  two rows (`171.992`, `221.928`) carrying garbage-suffixed titles despite a CHANGELOG entry
+  calling them "hand-verified" — measured false against `backfill_ors_286_titles.FIXES`.
+
+  **Reviewed a sample of the 1,443 diffs before running it for real, per the issue's own
+  ask.** Every diff falls into one of three shapes: 1,424 complete a citation range
+  `parse_toc()`'s #286/#292 xref fix now resolves correctly where the stale catalog entry
+  was truncated mid-range (`'Definitions for ORS 100.301 to'` → `'...to 100.320'`); 11 more
+  replace a bare all-caps heading fragment the catalog held instead of the section's real
+  catchline (`'BRIBERY'` → `'Misuse of confidential information'`); the remaining ~19
+  inherit `parse_toc()`'s pre-existing (not new, not worse) practice of gluing a following
+  section-group heading onto a title when nothing separates them — measured against the
+  **already-committed** catalog: 756 section titles already carry this exact shape, so
+  applying the current parser retroactively to these rows is consistent with, not worse
+  than, what every other title already ingested under it looks like. Filed as its own issue
+  (#397) rather than guessed at here, since fixing `parse_toc()` itself is a different,
+  unscoped change.
+
+  **Found and fixed a live bug in `backfill_ors_titles.py`'s own patch logic while running
+  it for real**, not `parse_toc()`'s: `patch_statute_file()`'s At-a-glance-line match
+  embedded the CURRENT catalog's chapter title, but 1,180 of 1,429 already-ingested files
+  being patched carry an OLDER chapter title in that line (chapter titles have since been
+  enriched in `ors.yml` with nothing re-syncing this line) — the mismatch made the search
+  string not found, silently leaving `title:`/the `#` heading correctly patched while the
+  At-a-glance line kept the stale section title, a NEW three-way disagreement this
+  module's own patch would have introduced, not one it found. A second, related bug hit 5
+  more files whose chapter title itself holds parentheses (`"Certain Executive Branch
+  Departments (incl. DAS)"`, chapter 184) breaking a naive `[^)]*` capture. Both fixed by
+  matching only the section-title portion of the line and preserving whatever chapter-title
+  text the file already has (`src/backfill_ors_titles.py`'s `patch_statute_file`), proved
+  against fixtures reproducing each drift in a new `--selftest` (red before green: the
+  first fix watched failing at `n=2` of 3 occurrences patched, the second at `n=2` for a
+  different reason — a regex that stopped at the WRONG close-paren rather than not matching
+  at all).
+
+  **Result**: `python3 src/backfill_ors_titles.py --check` — 1443 → 0 diffs. 1,425 of 1,429
+  already-ingested statute files fully patched (`title:` frontmatter, `#` heading, At-a-
+  glance line all three); 16 rows `backfill_ors_286_titles.FIXES` protects, correctly
+  skipped; 4 files left untouched and reported (0/3 matched, safe no-op) because their own
+  committed frontmatter title had already drifted to the single word `"and"`, independent
+  of the catalog and unrelated to this bug — filed as #398.
+
+  `backfill_ors_titles.py --check` and a new `--selftest` (proving `patch_statute_file`
+  against the two drift shapes above) are now wired into CI as `tier=pr` gates
+  (`tests/gates.py`), closing the issue's own "what to decide" ask: the backlog no longer
+  silently regrows.
+
+  Regenerated the derived-view chain per AGENTS.md (this PR touches the ORS catalog):
+  `link_graph` → `scan_external_citations` → `build_freshness_data` /
+  `build_authority_explorer` / `build_topic_map` → `build_freshness` →
+  `detect_mechanical --write` → `build_conflict_candidates_data` → `build_conflict_coverage`
+  / `build_statute_fan` / `build_agency_graph` → `build_governor_priorities_data` /
+  `build_policy_age`.
 - 2026-09-10 — **#351: `enabling-authority-review.yml` was stale — regenerating it with
   `link_enabling_authority.py --propose` surfaces a new tier-1 candidate for the dietitians
   board.** Found while closing #211/#220, when that PR reverted its own review-sheet

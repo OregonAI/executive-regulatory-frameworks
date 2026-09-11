@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-329a.700
-title: "Definitions for ORS 329A.700 to"
+title: "Definitions for ORS 329A.700 to 329A.712"
 doc_type: statute
 citation: "ORS 329A.700"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS 329A.700 to (ORS 329A.700)
+# Definitions for ORS 329A.700 to 329A.712 (ORS 329A.700)
 
 ## At a glance
 
-ORS 329A.700 — Definitions for ORS 329A.700 to. Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.700 — Definitions for ORS 329A.700 to 329A.712. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 

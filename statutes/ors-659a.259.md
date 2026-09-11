@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.259
-title: "Eviction from employee housing or discrimination against employee for reporting violations of ORS 659A.250 to"
+title: "Eviction from employee housing or discrimination against employee for reporting violations of ORS 659A.250 to 659A.262 prohibited; enforcement"
 doc_type: statute
 citation: "ORS 659A.259"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Eviction from employee housing or discrimination against employee for reporting violations of ORS 659A.250 to (ORS 659A.259)
+# Eviction from employee housing or discrimination against employee for reporting violations of ORS 659A.250 to 659A.262 prohibited; enforcement (ORS 659A.259)
 
 ## At a glance
 
-ORS 659A.259 — Eviction from employee housing or discrimination against employee for reporting violations of ORS 659A.250 to. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.259 — Eviction from employee housing or discrimination against employee for reporting violations of ORS 659A.250 to 659A.262 prohibited; enforcement. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

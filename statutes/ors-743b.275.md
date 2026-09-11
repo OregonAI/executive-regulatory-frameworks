@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.275
-title: "Definitions for ORS 743B.275 to"
+title: "Definitions for ORS 743B.275 to 743B.285"
 doc_type: statute
 citation: "ORS 743B.275"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS 743B.275 to (ORS 743B.275)
+# Definitions for ORS 743B.275 to 743B.285 (ORS 743B.275)
 
 ## At a glance
 
-ORS 743B.275 — Definitions for ORS 743B.275 to. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.275 — Definitions for ORS 743B.275 to 743B.285. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

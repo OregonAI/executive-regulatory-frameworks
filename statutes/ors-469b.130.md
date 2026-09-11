@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-469b.130
-title: "Definitions for ORS 469B.130 to"
+title: "Definitions for ORS 469B.130 to 469B.169 and 469B.171; rules"
 doc_type: statute
 citation: "ORS 469B.130"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-469b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS 469B.130 to (ORS 469B.130)
+# Definitions for ORS 469B.130 to 469B.169 and 469B.171; rules (ORS 469B.130)
 
 ## At a glance
 
-ORS 469B.130 — Definitions for ORS 469B.130 to. Chapter 469B (Chapter 469B), 2025 Edition.
+ORS 469B.130 — Definitions for ORS 469B.130 to 469B.169 and 469B.171; rules. Chapter 469B (Chapter 469B), 2025 Edition.
 
 ## Full text
 

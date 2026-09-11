@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.564
-title: "Applicability of ORS 475C.540 to"
+title: "Applicability of ORS 475C.540 to 475C.586"
 doc_type: statute
 citation: "ORS 475C.564"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Applicability of ORS 475C.540 to (ORS 475C.564)
+# Applicability of ORS 475C.540 to 475C.586 (ORS 475C.564)
 
 ## At a glance
 
-ORS 475C.564 — Applicability of ORS 475C.540 to. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.564 — Applicability of ORS 475C.540 to 475C.586. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

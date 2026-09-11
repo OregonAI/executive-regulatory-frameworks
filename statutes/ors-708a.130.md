@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-708a.130
-title: "Definition for ORS 708A.135 to"
+title: "Definition for ORS 708A.135 to 708A.145"
 doc_type: statute
 citation: "ORS 708A.130"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-708a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definition for ORS 708A.135 to (ORS 708A.130)
+# Definition for ORS 708A.135 to 708A.145 (ORS 708A.130)
 
 ## At a glance
 
-ORS 708A.130 — Definition for ORS 708A.135 to. Chapter 708A (Chapter 708A), 2025 Edition.
+ORS 708A.130 — Definition for ORS 708A.135 to 708A.145. Chapter 708A (Chapter 708A), 2025 Edition.
 
 ## Full text
 

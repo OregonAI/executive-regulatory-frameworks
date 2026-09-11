@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-431a.900
-title: "Civil penalty for violation of ORS 431A.855 to"
+title: "Civil penalty for violation of ORS 431A.855 to 431A.900"
 doc_type: statute
 citation: "ORS 431A.900"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Civil penalty for violation of ORS 431A.855 to (ORS 431A.900)
+# Civil penalty for violation of ORS 431A.855 to 431A.900 (ORS 431A.900)
 
 ## At a glance
 
-ORS 431A.900 — Civil penalty for violation of ORS 431A.855 to. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.900 — Civil penalty for violation of ORS 431A.855 to 431A.900. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 

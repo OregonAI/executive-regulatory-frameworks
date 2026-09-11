@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-181a.323
-title: "Definitions for ORS 181A.323 to"
+title: "Definitions for ORS 181A.323 to 181A.328"
 doc_type: statute
 citation: "ORS 181A.323"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Definitions for ORS 181A.323 to (ORS 181A.323)
+# Definitions for ORS 181A.323 to 181A.328 (ORS 181A.323)
 
 ## At a glance
 
-ORS 181A.323 — Definitions for ORS 181A.323 to. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.323 — Definitions for ORS 181A.323 to 181A.328. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

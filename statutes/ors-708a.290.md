@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-708a.290
-title: "“Capital” defined for ORS 708A.290 to"
+title: "“Capital” defined for ORS 708A.290 to 708A.375"
 doc_type: statute
 citation: "ORS 708A.290"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-708a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# “Capital” defined for ORS 708A.290 to (ORS 708A.290)
+# “Capital” defined for ORS 708A.290 to 708A.375 (ORS 708A.290)
 
 ## At a glance
 
-ORS 708A.290 — “Capital” defined for ORS 708A.290 to. Chapter 708A (Chapter 708A), 2025 Edition.
+ORS 708A.290 — “Capital” defined for ORS 708A.290 to 708A.375. Chapter 708A (Chapter 708A), 2025 Edition.
 
 ## Full text
 

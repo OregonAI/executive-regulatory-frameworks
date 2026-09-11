@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-197a.230
-title: "Definitions for ORS 197A.230 to"
+title: "Definitions for ORS 197A.230 to 197A.250"
 doc_type: statute
 citation: "ORS 197A.230"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-197a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS 197A.230 to (ORS 197A.230)
+# Definitions for ORS 197A.230 to 197A.250 (ORS 197A.230)
 
 ## At a glance
 
-ORS 197A.230 — Definitions for ORS 197A.230 to. Chapter 197A (Chapter 197A), 2025 Edition.
+ORS 197A.230 — Definitions for ORS 197A.230 to 197A.250. Chapter 197A (Chapter 197A), 2025 Edition.
 
 ## Full text
 

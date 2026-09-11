@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.670
-title: "Application of ORS 279C.650 to"
+title: "Application of ORS 279C.650 to 279C.670"
 doc_type: statute
 citation: "ORS 279C.670"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Application of ORS 279C.650 to (ORS 279C.670)
+# Application of ORS 279C.650 to 279C.670 (ORS 279C.670)
 
 ## At a glance
 
-ORS 279C.670 — Application of ORS 279C.650 to. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.670 — Application of ORS 279C.650 to 279C.670. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.100
-title: "Definitions for ORS 279C.100 to"
+title: "Definitions for ORS 279C.100 to 279C.125"
 doc_type: statute
 citation: "ORS 279C.100"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Definitions for ORS 279C.100 to (ORS 279C.100)
+# Definitions for ORS 279C.100 to 279C.125 (ORS 279C.100)
 
 ## At a glance
 
-ORS 279C.100 — Definitions for ORS 279C.100 to. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.100 — Definitions for ORS 279C.100 to 279C.125. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

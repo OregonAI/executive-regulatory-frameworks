@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-469b.250
-title: "Definitions for ORS 469B.250 to"
+title: "Definitions for ORS 469B.250 to 469B.265"
 doc_type: statute
 citation: "ORS 469B.250"
 authority_level: statute
@@ -51,11 +51,11 @@ tags: ["ors", "chapter-469b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS 469B.250 to (ORS 469B.250)
+# Definitions for ORS 469B.250 to 469B.265 (ORS 469B.250)
 
 ## At a glance
 
-ORS 469B.250 — Definitions for ORS 469B.250 to. Chapter 469B (Chapter 469B), 2025 Edition.
+ORS 469B.250 — Definitions for ORS 469B.250 to 469B.265. Chapter 469B (Chapter 469B), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-286a.760
-title: "Definitions for ORS 286A.760 to"
+title: "Definitions for ORS 286A.760 to 286A.772"
 doc_type: statute
 citation: "ORS 286A.760"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-286a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions for ORS 286A.760 to (ORS 286A.760)
+# Definitions for ORS 286A.760 to 286A.772 (ORS 286A.760)
 
 ## At a glance
 
-ORS 286A.760 — Definitions for ORS 286A.760 to. Chapter 286A (Chapter 286A), 2025 Edition.
+ORS 286A.760 — Definitions for ORS 286A.760 to 286A.772. Chapter 286A (Chapter 286A), 2025 Edition.
 
 ## Full text
 
