@@ -381,6 +381,34 @@ def _proof_externally_referenced_names_close_the_module_local_blind_spot(check) 
           == {"_oddly_named_helper"})
 
 
+def _proof_all_externally_referenced_names_matches_the_per_module_form(check) -> None:
+    """`all_externally_referenced_names` (#394 review: the O(N^2)-`ast.walk()` fix for a
+    caller computing this for EVERY module in a corpus) batches what calling
+    `externally_referenced_names` once per target module, over the same sources, computes --
+    proven to agree with it here so the two can't silently drift apart. Also proves the
+    `trees=` cache parameter agrees with parsing fresh."""
+    a_src = 'from b_writer import _helper\n'
+    b_src = ('def _helper(number):\n'
+            '    r = {"number": number}\n'
+            '    r["served_as"] = number\n'
+            '    return r\n')
+    c_src = 'x = 1\n'  # imports nothing -- contributes no references either way
+    sources = {Path("a_writer.py"): a_src, Path("b_writer.py"): b_src, Path("c.py"): c_src}
+    trees = {p: ast.parse(t) for p, t in sources.items()}
+    batch = all_externally_referenced_names(trees)
+    check("the batch form finds b_writer's helper referenced by a_writer",
+          batch[Path("b_writer.py")] == {"_helper"})
+    check("...and a module nothing imports has no external references",
+          batch[Path("a_writer.py")] == set() and batch[Path("c.py")] == set())
+    other = {p: t for p, t in sources.items() if p != Path("b_writer.py")}
+    per_target = externally_referenced_names("b_writer", other)
+    check("...agreeing with the per-target form given the same sources",
+          batch[Path("b_writer.py")] == per_target)
+    check("the trees= cache agrees with parsing fresh",
+          externally_referenced_names("b_writer", other,
+                                      trees={p: trees[p] for p in other}) == per_target)
+
+
 def _proof_setdefault_and_update_shapes(check) -> None:
     src = ('def build(number):\n'
           '    r = {"number": number}\n'
@@ -415,6 +443,7 @@ def selftest() -> int:
     _proof_key_constants_resolve_chained_names(check)
     _proof_test_only_exclusion(check)
     _proof_externally_referenced_names_close_the_module_local_blind_spot(check)
+    _proof_all_externally_referenced_names_matches_the_per_module_form(check)
     _proof_setdefault_and_update_shapes(check)
     _proof_exclude_names_hides_a_schema_declaration(check)
     return check.report()
