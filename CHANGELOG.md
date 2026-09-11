@@ -543,6 +543,19 @@ corpus-wide changes from 2026-08-02 forward.
 
   No baselines were re-seeded by this change — that is a re-ingest concern, not a
   checker-code one.
+- 2026-09-10 — **`catalog_ors.py`'s `_RECOVERED_TAIL_CAP` (2000 chars) was unmeasured
+  against real corpus data** — the review of #346's fix built a synthetic chapter that
+  reaches it and reproduces the garbage-suffixed-title failure mode #346's thread measured
+  and rejected. Measured against all 569 committed ORS chapter snapshots
+  (`_meta/catalog/ors.yml`): 8 chapters reach `parse_toc`'s RECOVERED-last-entry branch at
+  all (171, 186, 191, 199, 221, 237, 306, 358), and in every one of them `_catchline_end`
+  stops at the ALL-CAPS-heading or standalone-"Note" marker well under the cap — **zero
+  reach `_RECOVERED_TAIL_CAP` itself**. Per #349's own decision tree, that means no new
+  heuristic is warranted (a third boundary rule invented without corpus evidence to
+  validate it against repeats #293's mistake); a synthetic `--selftest` fixture now pins
+  today's fallback behavior — the issue's own worked example, reproduced exactly — so a
+  future change to the cap, or to what precedes it, is a deliberate edit of an assertion
+  rather than a silent behavior change (#349).
 - 2026-09-10 — **`reingest_oar.py`'s fetch-slice-flow-hash pipeline was hand-copied at
   three call sites** (`reingest_one` itself, `check_document`'s byte-identical re-run
   check, and the selftest fixture that builds "what a re-fetch would compute"). A new

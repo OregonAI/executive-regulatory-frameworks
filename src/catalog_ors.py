@@ -347,6 +347,40 @@ def _selftest() -> int:
        "not turned into a spurious extra entry",
        len(s691) == 8 and s691.get("691.485") == "Board of Licensed Dietitians")
 
+    # #349: `_RECOVERED_TAIL_CAP` itself has never fired against real corpus data -- a full
+    # offline scan of all 569 committed chapter snapshots (measured 2026-09-10, against
+    # `_meta/catalog/ors.yml`'s own chapter list) found 8 chapters whose parse_toc reaches
+    # the RECOVERED branch at all (171, 186, 191, 199, 221, 237, 306, 358), and in every one
+    # of them `_catchline_end` stops at `_RECOVERED_ALLCAPS_RE` or `_RECOVERED_NOTE_RE` well
+    # under the 2000-char cap -- ZERO reach the cap itself. So the branch below is dead on
+    # today's corpus, which per #349's own decision tree means this synthetic fixture PINS
+    # today's fallback behavior rather than fixing anything: a future change to the cap, or
+    # to what precedes it, is now a deliberate edit of an assertion here rather than a
+    # silent behavior change nothing would catch.
+    #
+    # The fixture reproduces #349's own worked example exactly: a genuine last TOC entry
+    # ("999.030") followed by ordinary sentence-case prose carrying neither marker, run out
+    # past the 2000-char cap -- the same garbage-suffixed-title failure mode #346's thread
+    # measured and rejected for the naive "just include it" fix, now happening on purpose so
+    # a regression here is caught rather than silently reintroduced.
+    literal_title = ("Third and last entry title the body of the chapter continues here "
+                      "with ordinary sentence case prose that carries no capitalised "
+                      "heading and no marker word of an")
+    filler = (" other kind entirely, and it just keeps going in ordinary sentence case "
+              "well past both the hundred and sixty characters this parser keeps for any "
+              "title and the two thousand character boundary this fixture means to reach, "
+              "so the fallback this proof pins is the cap itself and not the tail's own "
+              "natural end, repeating some more harmless words to be sure of it, ") * 20
+    raw999 = ("SOME PREAMBLE TEXT 2025 EDITION "
+              "999.010 First entry title. "
+              "999.020 Second entry title. "
+              "999.030 " + literal_title + filler)
+    s999 = {s["number"]: s["title"] for s in parse_toc(raw999, "999")}
+    ck("a synthetic chapter whose recovered last entry carries neither marker within "
+       "2000 chars is bounded at _RECOVERED_TAIL_CAP -- today's fallback, pinned so a "
+       "change to it is deliberate",
+       s999.get("999.030") == literal_title)
+
     return ck.report("catalog-ors selftest")
 
 
