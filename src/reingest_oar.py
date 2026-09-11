@@ -151,10 +151,22 @@ REINGEST_KEYS = (ACTION_KEY, NOTICE_KEY)
 # word would be. `ingest_status.INGEST_REFUSAL_REASONS` declares once, for this reader and
 # `review_queue.py`'s, which not-held-or-renumbered words apply; a word added there reaches
 # both the moment it is declared.
+#
+# READ AT THE USE SITE (`check_recorded()` below), NOT BOUND TO A MODULE-LEVEL ALIAS
+# (2026-09 review response): `seed_oar_watch.held_rules()` and `review_queue.oar_review_items()`
+# both read `ingest_status.X` fresh on every call, which is what lets their own selftests
+# WIDEN the shared partition and watch the answer change -- a hardcoded tuple could not, no
+# matter what `ingest_status` declares. A module-level `REFUSAL_REASONS = ingest_status.
+# INGEST_REFUSAL_REASONS` binds the TUPLE OBJECT once, at import time; widening
+# `ingest_status.INGEST_REFUSAL_REASONS` afterward rebinds THAT module's attribute and
+# leaves this one pointing at the old tuple, so a test proving "this reads the partition,
+# not a copy of it" the same way the other two readers do could not be written against an
+# alias -- it would need `is` identity instead (`legal_status.py`'s own precedent for a
+# vocabulary it does NOT re-read per call). Reading `ingest_status.INGEST_REFUSAL_REASONS`
+# directly is the one of those two shapes this reader's own selftest already uses.
 REFUSED_KEY = "reingest_refused"
 REFUSED_NOTICE_KEY = "reingest_refused_notice"
 REFUSED_KEYS = (REFUSED_KEY, REFUSED_NOTICE_KEY)
-REFUSAL_REASONS = ingest_status.INGEST_REFUSAL_REASONS
 
 REGENERATE = "python3 src/reingest_oar.py --run"
 TODAY = date.today().isoformat()
@@ -487,12 +499,12 @@ def check_recorded(catalog, worklist) -> list:
         # recording failure that can never be cleared.
         refused = c.row.get(REFUSED_KEY)
         if refused and c.row.get(REFUSED_NOTICE_KEY) == notice:
-            if refused not in REFUSAL_REASONS:
+            if refused not in ingest_status.INGEST_REFUSAL_REASONS:
                 failures.append(Failure(
                     "a-refusal-is-recorded-in-the-ingest-vocabulary", f"{c.number}",
                     f"is refused as {refused!r}, which is not one of "
-                    f"{', '.join(REFUSAL_REASONS)}. A reason nothing else in this repository "
-                    f"writes is one nobody can act on"))
+                    f"{', '.join(ingest_status.INGEST_REFUSAL_REASONS)}. A reason nothing "
+                    f"else in this repository writes is one nobody can act on"))
             continue
         failures.append(Failure(
             "a-filed-text-action-is-re-ingested", f"{c.number}",
@@ -1369,6 +1381,32 @@ def _proof_the_run_refuses_what_is_not_an_amendment(check) -> None:
     check("...and a needs_registry refusal is accepted as a valid recorded reason (#336)",
           not _found(_row("999-001-0010", **{REFUSED_KEY: "needs_registry",
                                              REFUSED_NOTICE_KEY: FIXTURE_NOTICE})))
+
+    # THE STRONGER PROOF #336's OWN TWO OTHER READERS ALREADY CARRY (2026-09 review
+    # response): `seed_oar_watch.held_rules()` and `review_queue.oar_review_items()` read
+    # `ingest_status.X` FRESH on every call, so widening the shared partition changes their
+    # answer without their own code changing at all -- proof this reader imports rather than
+    # restates, not merely that today's four words happen to agree with a literal someone
+    # could still have hardcoded here. `check_recorded()` reads
+    # `ingest_status.INGEST_REFUSAL_REASONS` the same way (not the old module-level
+    # `REFUSAL_REASONS` alias, which bound the tuple OBJECT once at import and would not
+    # have moved): shrinking the shared partition to exclude `needs_registry` must turn the
+    # SAME refusal this module just accepted above back into a violation, with nothing here
+    # changed but the import.
+    orig = ingest_status.INGEST_REFUSAL_REASONS
+    ingest_status.INGEST_REFUSAL_REASONS = tuple(
+        v for v in orig if v != "needs_registry")
+    try:
+        narrowed_finds_it = _found(
+            _row("999-001-0010", **{REFUSED_KEY: "needs_registry",
+                                    REFUSED_NOTICE_KEY: FIXTURE_NOTICE}),
+            rule="a-refusal-is-recorded-in-the-ingest-vocabulary")
+    finally:
+        ingest_status.INGEST_REFUSAL_REASONS = orig
+    check("check_recorded() reads ingest_status.INGEST_REFUSAL_REASONS rather than a copy "
+          "of it: narrowing the shared partition to exclude needs_registry must turn the "
+          "SAME refusal back into a violation",
+          narrowed_finds_it)
 
 
 def _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check) -> None:

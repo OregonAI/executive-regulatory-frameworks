@@ -1370,6 +1370,12 @@ OARD served a different rule number than requested; documents were filed under t
 - `OAR 943-090-0010` — renumbered: OARD serves 950-040-0010 for this number
 - `OAR 943-090-0020` — renumbered: OARD serves 950-040-0020 for this number
 
+## Catalog: rules quarantined by an agency-registry gap (0)
+
+Ingest withdrew these documents rather than write them: enrichment could not resolve the rule's chapter to an agency registry row (or the row it found carries no `oar_name`), so nothing is served under this number yet. Unlike the section above, the fix here is not verifying a mapping OARD already served -- it's fixing `_meta/catalog/agencies.yml` (run `python3 src/catalog_agencies.py --refresh`, or add the missing `oar_name`) and then re-running `python3 src/ingest_oar.py` so the quarantine clears.
+
+_(none)_
+
 ## Known enumeration gaps (0)
 
 Corpus areas we know exist upstream but could not enumerate mechanically.

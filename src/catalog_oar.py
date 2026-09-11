@@ -84,6 +84,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import yaml
 
+import write_site_scan
 from check_rule_ledger import RuleLedger
 from ingest_status import INGEST_STATUS_VALUES
 from repo_lib import REPO_ROOT, Checks, division_status, oar_rule_path
@@ -91,6 +92,7 @@ from repo_lib import REPO_ROOT, Checks, division_status, oar_rule_path
 OARD_BASE = "https://secure.sos.state.or.us/oard"
 CHAPTER_LIST_URL = f"{OARD_BASE}/ruleSearch.action"
 CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
+SRC = REPO_ROOT / "src"
 REGISTRY = REPO_ROOT / "_meta/catalog/agencies.yml"
 UA = "executive-regulatory-frameworks (+https://github.com/OregonAI/executive-regulatory-frameworks)"
 TODAY = date.today().isoformat()
@@ -599,25 +601,23 @@ PAIRS = (
 # a declared, gated-LOOKING fact that was actually a comment living in a namedtuple.
 # `ingest_status.ingest_vocabulary()` already demonstrates the right shape for this
 # repository: read a writer module's OWN syntax tree for what it actually assigns, rather
-# than trust a claim about it. This widens that idea from one field (`status`) to all
-# twelve, and from one write shape to the three this repo's four writers actually use:
+# than trust a claim about it. `write_site_scan.py` (#339 review response) is that idea
+# widened from one field (`status`) to all twelve and generalized into its OWN module --
+# general-purpose Python source analysis with nothing OAR-specific about it, the same
+# reason `check_rule_ledger.py` (four modules' hand-rolled selftest scaffolding) and
+# `repo_lib.assigned_string_constants` (two modules' vocabulary-from-AST idiom) each got
+# their own home rather than living inside the first module that needed them.
 #
-#   1. a literal-key subscript assignment      r["path"] = ...
-#   2. a dict literal                          {"number": num, "status": "not_ingested"}
-#   3. a `for key, value in zip(KEYS, ...): row[key] = value` loop, where KEYS is a
-#      module-level tuple of key-constants (`REINGEST_KEYS`, `MARKED_KEYS`) -- the shape
-#      `reingest_oar.py` and `legal_status.py` write EVERY multi-key group through.
-#      Missing shape 3 would report both of those modules as never writing any key they
-#      demonstrably do -- every `reingest_action`/`reingest_notice` and every
-#      `legal_status`/`legal_status_action`/`legal_status_notice` write goes through it.
-#
-# NARROW ON PURPOSE, the same way `ingest_status.ingest_vocabulary()` names the shapes it
-# does not chase rather than pretending to be a general Python analyzer: only module-level
-# constants are resolved (every key-naming constant in these four files is one), and only
-# a 2-tuple `for key, value in zip(...)` loop is unrolled. A write shape outside these three
-# is invisible to this scan the same way an unparseable module is (#333's own precedent) --
-# reported as `writers-declared-not-observed` rather than passed silently, never the other
-# way, because a scan that cannot see a write must not conclude the write does not happen.
+# WRITER_MODULE_PATHS NAMES THE ONE NARROWING THAT STAYS THIS MODULE'S DECISION, NOT
+# `write_site_scan`'s: it only ever reads THESE FOUR FILES. A field some FIFTH module
+# started writing tomorrow would be invisible to `check_writers()` below -- not reported as
+# `writers-declared-not-observed` (that rule fires for a DECLARED writer nothing here
+# observed; a field nobody declared at all triggers no rule, because `check_writers()`
+# only walks `FIELDS.items()`) and not reported as anything else either. This is a real,
+# named gap, not a claim that no such gap exists: the four writers below are the ones #334
+# catalogued when `FIELDS` was declared, and widening this list to "every module under
+# src/" is a design decision for whoever adds a fifth writer, not one this fix makes for
+# them.
 WRITER_MODULE_PATHS = {
     DISCOVERY: Path(__file__),
     INGEST: REPO_ROOT / "src" / "ingest_oar.py",
@@ -626,184 +626,42 @@ WRITER_MODULE_PATHS = {
 }
 
 
-def _module_key_constants(tree: ast.Module) -> tuple:
-    """(name -> str, name -> tuple-of-str) for every simple MODULE-LEVEL assignment a write
-    site's key might resolve through -- `ACTION_KEY = "reingest_action"`, then
-    `REINGEST_KEYS = (ACTION_KEY, NOTICE_KEY)` built from names already resolved earlier in
-    the same file (source order, matching how every one of these four modules actually
-    declares them). A constant assigned inside a function is outside this scan's declared
-    narrowing above."""
-    strings: dict = {}
-    tuples: dict = {}
-
-    def resolve_str(node):
-        if isinstance(node, ast.Constant) and isinstance(node.value, str):
-            return node.value
-        if isinstance(node, ast.Name):
-            return strings.get(node.id)
-        return None
-
-    for stmt in tree.body:
-        if not (isinstance(stmt, ast.Assign) and len(stmt.targets) == 1
-                and isinstance(stmt.targets[0], ast.Name)):
-            continue
-        name = stmt.targets[0].id
-        s = resolve_str(stmt.value)
-        if s is not None:
-            strings[name] = s
-            continue
-        if isinstance(stmt.value, (ast.Tuple, ast.List)):
-            elts = [resolve_str(e) for e in stmt.value.elts]
-            if elts and all(e is not None for e in elts):
-                tuples[name] = tuple(elts)
-    return strings, tuples
-
-
-def _test_only_function_names(tree: ast.Module) -> set:
-    """Every TOP-LEVEL function this module defines that exists only to test it -- computed
-    from the module's own call graph rather than guessed from a naming convention. A naming
-    guess (`_proof_*`/`_fixture*`) was tried first and missed real cases: `reingest_oar.py`'s
-    `_row` and `ingest_oar.py`'s `_renumbered_out_exists_stamps_path` are both fixture
-    helpers with neither prefix, and both build `{"number": ..., "status": ..., "path":
-    ...}` dict literals AST-identical to a real row write.
-
-    `selftest`/`cmd_selftest` (the entry point every one of the four writer modules
-    exposes) seeds the set; a function is added once EVERY place it is called (by name,
-    anywhere in the module) is already in the set -- to a fixed point, since a fixture
-    builder often calls another fixture builder. A function this misses (called only
-    indirectly, e.g. through a list of function references rather than by name) is simply
-    not excluded, which biases this scan toward over-reporting a field as written, never
-    toward silently excusing a real write -- could not check is never reported as is not
-    there."""
-    defs = {n.name: n for n in tree.body
-            if isinstance(n, (ast.FunctionDef, ast.AsyncFunctionDef))}
-    entry = {"selftest", "cmd_selftest"} & set(defs)
-    if not entry:
-        return set()
-    calls = {name: {c.func.id for c in ast.walk(node)
-                    if isinstance(c, ast.Call) and isinstance(c.func, ast.Name)}
-             for name, node in defs.items()}
-    test_only = set(entry)
-    changed = True
-    while changed:
-        changed = False
-        for name in defs:
-            if name in test_only:
-                continue
-            callers = [c for c, callees in calls.items() if name in callees]
-            if callers and all(c in test_only for c in callers):
-                test_only.add(name)
-                changed = True
-    return test_only
-
-
-def _walk_production(tree: ast.Module):
-    """`ast.walk(tree)`, except it never descends into a top-level function
-    `_test_only_function_names` finds. Excluding the WHOLE subtree (not just the def
-    itself) is what keeps a nested fixture -- `catalog_oar.py`'s own `_fixture_row_shape`,
-    defined inside `selftest()` -- from being reached at all, the same way excluding a
-    module-level test-only function keeps everything IT builds out of the scan too."""
-    test_only = _test_only_function_names(tree)
-    stack = list(tree.body)
-    while stack:
-        node = stack.pop()
-        if (isinstance(node, (ast.FunctionDef, ast.AsyncFunctionDef))
-                and node.name in test_only):
-            continue
-        # `FIELDS = {"number": FieldSpec(...), ...}` (this module's own schema
-        # declaration) is a dict literal whose keys are exactly the row keys this scan
-        # looks for -- structurally identical to a real row-construction dict, and the
-        # one write site every field's `writers` would otherwise be attributed to no
-        # matter what actually writes it. Excluded by NAME (the only such dict any of
-        # the four writer modules declares), not by module, so a real row dict built
-        # elsewhere in this same file is still seen.
-        if (isinstance(node, ast.Assign) and len(node.targets) == 1
-                and isinstance(node.targets[0], ast.Name)
-                and node.targets[0].id == "FIELDS"):
-            continue
-        yield node
-        stack.extend(ast.iter_child_nodes(node))
-
-
-def _assigned_row_keys(tree: ast.Module) -> set:
-    """Every dict key this module's syntax tree assigns a rule ROW through, IN ITS OWN
-    PRODUCTION CODE -- the three shapes the section comment above names, resolving a
-    subscript's or dict literal's key, or a `zip(...)` call's first argument, through
-    `_module_key_constants`'s maps, walked via `_walk_production` so a test fixture is
-    never read as a write."""
-    strings, tuples = _module_key_constants(tree)
-
-    def resolve_str(node):
-        if isinstance(node, ast.Constant) and isinstance(node.value, str):
-            return node.value
-        if isinstance(node, ast.Name):
-            return strings.get(node.id)
-        return None
-
-    def resolve_tuple(node):
-        if isinstance(node, ast.Name):
-            return tuples.get(node.id)
-        if isinstance(node, (ast.Tuple, ast.List)):
-            elts = [resolve_str(e) for e in node.elts]
-            if elts and all(e is not None for e in elts):
-                return tuple(elts)
-        return None
-
-    out = set()
-    for node in _walk_production(tree):
-        if isinstance(node, ast.Assign):
-            for t in node.targets:
-                if isinstance(t, ast.Subscript):
-                    key = resolve_str(t.slice)
-                    if key is not None:
-                        out.add(key)
-        elif isinstance(node, ast.Dict):
-            for k in node.keys:
-                key = resolve_str(k) if k is not None else None
-                if key is not None:
-                    out.add(key)
-        elif isinstance(node, ast.For):
-            target = node.target
-            if not (isinstance(target, ast.Tuple) and len(target.elts) == 2
-                    and all(isinstance(e, ast.Name) for e in target.elts)
-                    and isinstance(node.iter, ast.Call)
-                    and isinstance(node.iter.func, ast.Name)
-                    and node.iter.func.id == "zip" and node.iter.args):
-                continue
-            keys_tuple = resolve_tuple(node.iter.args[0])
-            key_var = target.elts[0].id
-            if keys_tuple and any(
-                    isinstance(inner, ast.Assign)
-                    and any(isinstance(tg, ast.Subscript)
-                           and isinstance(tg.slice, ast.Name) and tg.slice.id == key_var
-                           for tg in inner.targets)
-                    for inner in ast.walk(node)):
-                out.update(keys_tuple)
-    return out
-
-
 def observed_field_writers(sources: dict = None) -> dict:
     """field name -> the set of writer labels (`FIELDS`' vocabulary: `DISCOVERY`, `INGEST`,
     `REINGEST`, `LEGAL`) observed actually assigning it -- `FieldSpec.writers`' other half
-    (#339), read off each writer module's own syntax tree rather than trusted, the same
-    read-not-trust shape `ingest_status.ingest_vocabulary()` applies to `status` alone,
-    widened to every declared field.
+    (#339), read off each writer module's own syntax tree by `write_site_scan.assigned_keys`
+    rather than trusted, the same read-not-trust shape `ingest_status.ingest_vocabulary()`
+    applies to `status` alone, widened to every declared field.
 
     `sources`, when given, maps a writer LABEL to source TEXT instead of reading
     `WRITER_MODULE_PATHS` from disk -- what lets `--selftest` fire this against a synthetic
-    writer without touching the real four files. A module that does not parse contributes
-    no keys, which reports every field it was meant to write as
-    `writers-declared-not-observed` rather than passing -- could not check is never
-    reported as is not there."""
-    sources = ({label: path.read_text() for label, path in WRITER_MODULE_PATHS.items()}
-               if sources is None else sources)
+    writer without touching the real four files; in that path, cross-module import
+    detection (`write_site_scan.externally_referenced_names`) is skipped rather than
+    guessed, since a synthetic source has no real module stem for another file to import by
+    name. A module that does not parse contributes no keys, which reports every field it
+    was meant to write as `writers-declared-not-observed` rather than passing -- could not
+    check is never reported as is not there."""
     out: dict = {}
+    if sources is None:
+        all_srcs = {p: p.read_text() for p in SRC.glob("*.py")}
+        for label, path in WRITER_MODULE_PATHS.items():
+            text = all_srcs.get(path, path.read_text())
+            try:
+                tree = ast.parse(text)
+            except SyntaxError:
+                continue
+            other = {p: t for p, t in all_srcs.items() if p != path}
+            ext_ref = write_site_scan.externally_referenced_names(path.stem, other)
+            for key in write_site_scan.assigned_keys(
+                    tree, exclude_names={"FIELDS"}, externally_referenced=ext_ref):
+                out.setdefault(key, set()).add(label)
+        return out
     for label, text in sources.items():
         try:
             tree = ast.parse(text)
         except SyntaxError:
             continue
-        for key in _assigned_row_keys(tree):
+        for key in write_site_scan.assigned_keys(tree, exclude_names={"FIELDS"}):
             out.setdefault(key, set()).add(label)
     return out
 
@@ -997,7 +855,17 @@ def cmd_check(catalog_path=None) -> int:
     `catalog_path` is a PARAMETER, defaulting to `CATALOG`, so --selftest can point this at
     a path that does not exist, does not parse, or parses to no chapters and watch
     `readable-catalog`/`catalog-populated` fire through the real command line, matching
-    `catalog_agencies.cmd_check()`'s own reason for the same parameter."""
+    `catalog_agencies.cmd_check()`'s own reason for the same parameter.
+
+    `check_writers()` -- whether the FOUR WRITER MODULES ON DISK agree with FIELDS -- runs
+    ONLY when `catalog_path` is not given (the real CI invocation, `cmd_check()` with no
+    args). It is a question about `WRITER_MODULE_PATHS`' committed source, not about
+    whatever catalog YAML this call happens to be checking, so a `--selftest` fixture catalog
+    passed via `catalog_path` gates row-shape rules alone; an unrelated syntax drift in the
+    real four files cannot turn a fixture proof red, and `cmd_check()`'s no-arg (real) path
+    is the one place both questions are actually asked together, which is what a committed
+    CI run needs."""
+    checking_real_catalog = catalog_path is None
     catalog_path = CATALOG if catalog_path is None else catalog_path
     if not catalog_path.exists():
         print(Failure("readable-catalog", str(catalog_path), "no catalog to check"),
@@ -1018,7 +886,9 @@ def cmd_check(catalog_path=None) -> int:
         print(Failure("catalog-populated", str(catalog_path), "catalog holds no chapters"),
               file=sys.stderr)
         return 1
-    failures = check_row_shape(cat) + check_writers()
+    failures = check_row_shape(cat)
+    if checking_real_catalog:
+        failures = failures + check_writers()
     for f in failures:
         print(f, file=sys.stderr)
     total = sum(1 for _ in _all_rows(cat))

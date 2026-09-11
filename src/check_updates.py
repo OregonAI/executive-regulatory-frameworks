@@ -39,7 +39,7 @@ from pathlib import Path
 import yaml
 
 from repo_lib import (REPO_ROOT, SCHEMA_DIR, SOURCES_DIR, MissingContentDir, content_files,
-                      content_hash, parse_frontmatter, source_groups)
+                      content_hash, parse_frontmatter, source_format, source_groups)
 
 SCHEMA = SCHEMA_DIR / "source-group.schema.json"
 
@@ -241,24 +241,6 @@ def doc_paths_by_id(dirs=None):
     return _DOC_PATHS_BY_ID_CACHE[key]
 
 
-def _source_format(url, declared):
-    """The format `content_hash` should read this source's bytes as -- the source's own
-    declared `format:` field when it has one, the url's extension otherwise. This is the
-    SAME precedence `corpus_toolkit.sources.changes._format_for` applies to the identical
-    question -- 'what format does this manifest entry declare, if any' -- when the drift
-    detector computes its own hash for the same source. Before #383 `check_group()` read
-    the extension only, so a source whose url does not self-describe and says so via
-    `format:` (`DocumentStream.ashx?uri=N`, `format: pdf` -- 13 of the DEQ Internal
-    Management Directives in `_meta/sources/department-of-environmental-quality-policies.
-    yml`) was hashed as html here and as pdf by the detector: a baseline `--refresh` wrote
-    that `corpus-detect-changes` could never reproduce."""
-    if declared:
-        return declared
-    path_url = url.lower().split("?")[0]
-    ext = path_url.rsplit(".", 1)[-1] if "." in path_url.rsplit("/", 1)[-1] else "html"
-    return ext if ext in ("pdf", "xls", "xlsx", "docx", "xml") else "html"
-
-
 def check_group(gpath, g, refresh, today):
     from ingest_lib import fetch
     changed = []
@@ -282,9 +264,14 @@ def check_group(gpath, g, refresh, today):
     # 2) content hash per source
     docs = doc_paths_by_id()
     for s in g["sources"]:
-        fmt = _source_format(s["url"], s.get("format"))
+        # `source_format`/`content_hash` (both `repo_lib`, #383/review response): the SAME
+        # precedence and the SAME hashing call `corpus-detect-changes` itself applies to
+        # this manifest entry, including `watch` -- a baseline written here must be one the
+        # detector reports as unchanged on its next run, which requires asking both
+        # questions (format, and watch-scoped-or-whole-document) exactly the way it does.
+        fmt = source_format(s["url"], s.get("format"))
         try:
-            new = content_hash(fetch(s["url"]), fmt)
+            new = content_hash(fetch(s["url"]), fmt, watch=s.get("watch"))
         except Exception as e:
             print(f"{g['group']}/{s['id']}: FETCH FAILED ({e})")
             continue
@@ -1524,6 +1511,12 @@ def _proof_the_baseline_check_group_writes_uses_the_sources_declared_format():
     detector could never reproduce, exactly the shape #383 reports, demonstrated here
     with a real committed source shape rather than a synthetic one.
 
+    THE FIX BINDS `_format_for` ITSELF (`repo_lib.source_format`, review response), rather
+    than re-implementing its precedence a second time -- `check_group()` no longer has a
+    local copy for the toolkit's function to drift from. `watch` is now forwarded through
+    `repo_lib.content_hash` too, though no source in this corpus declares one yet (latent,
+    named in `repo_lib.content_hash`'s own docstring, not exercised by this proof).
+
     `doc_paths_by_id` is stubbed to skip the real corpus walk (irrelevant to this proof,
     and the ~74-85s the module docstring measures for it) and `ingest_lib.fetch` is
     stubbed so this needs no network -- a hand-built, valid, multi-sentence PDF whose
@@ -1564,11 +1557,36 @@ def _proof_the_baseline_check_group_writes_uses_the_sources_declared_format():
                               "format": "pdf", "sha256": "0" * 64}]}
             check_group(gpath, g, refresh=True, today="2026-09-10")
             got = g["sources"][0]["sha256"]
-            want = content_hash(pdf_bytes, "pdf")
-            wrong_if_url_extension_used = content_hash(pdf_bytes, "html")
+            # THE DETECTOR-AGREEMENT GATE ITSELF (#383 review response), not check_updates
+            # pinned against its own repo_lib wrapper: `want` is derived by importing the
+            # TOOLKIT's format precedence and hashing call DIRECTLY --
+            # `corpus_toolkit.sources.changes._format_for` and `corpus_toolkit.repo.
+            # content_hash` -- the same two names `corpus-detect-changes`'s own `main()`
+            # calls for this exact source, at this exact line, in that file. Before this
+            # change the oracle was `repo_lib.content_hash(pdf_bytes, "pdf")`: the format
+            # was typed by the test author, and `repo_lib.content_hash` is the SAME
+            # function `check_group()` calls, so a future regression that reintroduced a
+            # SECOND, drifted copy of `_format_for` inside `check_updates.py` (the shape
+            # #383 itself was filed over) would have passed this proof unnoticed, because
+            # both sides would have called through the identical wrapper. Importing the
+            # toolkit's functions here, independent of anything `check_updates.py` imports
+            # or wraps, is what makes this a comparison against the DETECTOR, not against
+            # itself.
+            from corpus_toolkit.repo import content_hash as _tk_content_hash
+            from corpus_toolkit.sources.changes import _format_for
+            from repo_lib import VOLATILE_PATTERNS
+            want_fmt = _format_for(
+                "https://example.invalid/DocumentStream.ashx?uri=1", "pdf")
+            want = _tk_content_hash(pdf_bytes, want_fmt, VOLATILE_PATTERNS)
+            wrong_if_url_extension_used = _tk_content_hash(
+                pdf_bytes, _format_for("https://example.invalid/DocumentStream.ashx?uri=1",
+                                       None),
+                VOLATILE_PATTERNS)
             if got != want:
-                print(f"FAIL check_group must hash a `format: pdf` source as pdf "
-                      f"regardless of its url's extension: want {want}, got {got} "
+                print(f"FAIL check_group's written baseline must equal what "
+                      f"corpus_toolkit.sources.changes/repo compute directly for the same "
+                      f"source (`_format_for` + `content_hash`), not merely agree with "
+                      f"check_updates' own wrapper around them: want {want}, got {got} "
                       f"(matches the html-derived hash: "
                       f"{got == wrong_if_url_extension_used})", file=sys.stderr)
                 bad += 1
