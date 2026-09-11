@@ -6,6 +6,7 @@ statuses), so regenerating after any change keeps it complete and current.
 
   python3 src/review_queue.py           # regenerate REVIEW.md
   python3 src/review_queue.py --check   # exit 1 if committed REVIEW.md is stale (CI)
+  python3 src/review_queue.py --selftest  # every rule, watched failing
 """
 import re
 import sys
@@ -19,7 +20,13 @@ import yaml
 # `CADENCES`/`recheck` and `CURATED_KEYS`/`FIELDS` already use in this repo.
 from catalog_oar import CLAIMED_ELSEWHERE_DIVISION_MARK, CONFIRMED_EMPTY_DIVISION_MARK, display_note
 from legal_status import ACTION_KEY, CATALOG_KEY, NOTICE_KEY
-from repo_lib import REPO_ROOT, content_files, parse_frontmatter
+from repo_lib import REPO_ROOT, Checks, content_files, parse_frontmatter
+# THE INGEST-STATUS WORDS THIS QUEUE MUST SURFACE, IMPORTED RATHER THAN RESPELLED (#336):
+# `("renumbered", "not_served", "not_sliceable")` used to be this module's own literal,
+# missing `needs_registry` with nothing gating the omission -- a row an agency-registry
+# quarantine is blocking never reached the one place ADR 0006 says it needs to (a person
+# who can fix the registry). ingest_status.py declares the partition once and this reads it.
+import ingest_status  # noqa: E402
 # The toolkit's render-and-compare: missing, unreadable, stale and current kept apart,
 # and never raising (corpus-toolkit repo.check_generated). Replaces a hand-rolled compare
 # that 22 scripts each carried (card 3 of the 2026-09-02 review).
@@ -70,6 +77,44 @@ def eo_date_sequence_breaks():
                                     f"of the two dates is misread; check both signature "
                                     f"blocks against the source PDFs"))
     return breaks
+
+
+# `needs_registry` is pulled out of the shared partition into its own review-queue section
+# (see `scan()`/`render()` below): it is a quarantine RESOLVED BY A PERSON FIXING THE AGENCY
+# REGISTRY, a different remedy from "OARD served a different rule number, verify the
+# mapping" -- the remedy the "renumbered" section's own heading and prose name, and the only
+# one true of `renumbered`/`not_served`/`not_sliceable`. Lumping a fourth status with a
+# materially different fix into that section would name the wrong remedy for the one reader
+# who can act on it.
+_REGISTRY_STATUSES = ("needs_registry",)
+
+
+def oar_review_items(oar: dict, statuses=None) -> list:
+    """(label, note) for every OAR catalog rule whose ingest status is in `statuses` --
+    `ingest_status.REVIEW_QUEUE_INGEST_STATUSES` (#336) by default, read rather than
+    restated, so a status that partition adds reaches REVIEW.md the same run it reaches
+    every other reader, instead of needing a matching edit here that nothing would enforce.
+    `scan()` calls this twice, once per statuses subset, so `needs_registry` (a different
+    remedy -- see `_REGISTRY_STATUSES` above) lands in its own section rather than the
+    renumbered/not_served/not_sliceable one."""
+    if statuses is None:
+        statuses = ingest_status.REVIEW_QUEUE_INGEST_STATUSES
+    out = []
+    for c in oar["chapters"]:
+        for d in c["divisions"]:
+            rules = d.get("rules")
+            if not isinstance(rules, list):
+                continue
+            for r in rules:
+                if r.get("status") in statuses:
+                    # display_note() drops merge_divisions's carry-forward history suffix
+                    # (#270 follow-up) -- redundant here, since a renumbered/not_served/
+                    # not_sliceable/needs_registry row's own note already says why it's
+                    # absent from OARD's current listing under this number, and the
+                    # truncation below was pushing THAT fact out to make room to say it twice.
+                    out.append((f"OAR {r['number']}",
+                                f"{r['status']}: {display_note(r.get('note', ''))[:90]}"))
+    return out
 
 
 def scan():
@@ -133,7 +178,7 @@ def scan():
     q["eo_sequence"] = eo_date_sequence_breaks()
 
     # catalog-derived items
-    cat_items = {"not_sliceable": [], "renumbered": [], "gaps": [], "eo": [],
+    cat_items = {"not_sliceable": [], "renumbered": [], "registry": [], "gaps": [], "eo": [],
                  "force": []}
     eo_path = REPO_ROOT / "_meta/catalog/eo.yml"
     if eo_path.exists():
@@ -154,20 +199,15 @@ def scan():
             if s.get("status") == "not_sliceable":
                 cat_items["not_sliceable"].append((f"ORS {s['number']}", s.get("note", "")[:100]))
     oar = yaml.safe_load((REPO_ROOT / "_meta/catalog/oar.yml").read_text())
+    _non_registry = tuple(s for s in ingest_status.REVIEW_QUEUE_INGEST_STATUSES
+                          if s not in _REGISTRY_STATUSES)
+    cat_items["renumbered"].extend(oar_review_items(oar, _non_registry))
+    cat_items["registry"].extend(oar_review_items(oar, _REGISTRY_STATUSES))
     for c in oar["chapters"]:
         for d in c["divisions"]:
             rules = d.get("rules")
             if isinstance(rules, list):
                 for r in rules:
-                    if r.get("status") in ("renumbered", "not_served", "not_sliceable"):
-                        # display_note() drops merge_divisions's carry-forward history
-                        # suffix (#270 follow-up) -- redundant here, since a renumbered or
-                        # not_served row's own note already says why it's absent from
-                        # OARD's current listing under this number, and the truncation
-                        # below was pushing THAT fact out to make room for saying it twice.
-                        cat_items["renumbered"].append(
-                            (f"OAR {r['number']}",
-                             f"{r['status']}: {display_note(r.get('note', ''))[:90]}"))
                     # A CLAIM ABOUT LEGAL FORCE REACHES A PERSON (ADR 0006, #229). An
                     # amendment is a text refresh the provenance chain verifies and it
                     # re-ingests on its own; a repeal or a suspension is a statement about
@@ -320,6 +360,16 @@ def render(q, cat_items, body_counts):
             "mappings look right.",
             cat_items["renumbered"])
 
+    section("Catalog: rules quarantined by an agency-registry gap",
+            "Ingest withdrew these documents rather than write them: enrichment could not "
+            "resolve the rule's chapter to an agency registry row (or the row it found "
+            "carries no `oar_name`), so nothing is served under this number yet. Unlike the "
+            "section above, the fix here is not verifying a mapping OARD already served --"
+            " it's fixing `_meta/catalog/agencies.yml` (run `python3 src/catalog_agencies.py "
+            "--refresh`, or add the missing `oar_name`) and then re-running "
+            "`python3 src/ingest_oar.py` so the quarantine clears.",
+            cat_items["registry"])
+
     section("Known enumeration gaps",
             "Corpus areas we know exist upstream but could not enumerate mechanically.",
             cat_items["gaps"])
@@ -380,7 +430,53 @@ def render(q, cat_items, body_counts):
     return "\n".join(L)
 
 
+def cmd_selftest() -> int:
+    """Proof that `oar_review_items` reads the shared partition rather than restating it
+    (#336), and the concrete finding it was filed over: a `needs_registry` row reaches
+    REVIEW.md today. Uses `repo_lib.Checks` -- the shared selftest scaffolding every other
+    `--selftest` in this repo prints its PASS/FAIL lines and tallies through, rather than a
+    hand-rolled fails-list whose printed verdict can drift from what was actually asserted."""
+    check = Checks()
+    fixture = {"chapters": [{"chapter": "1", "divisions": [{"division": "1", "rules": [
+        {"number": "1-1-0001", "status": "needs_registry", "note": "registry gap"},
+        {"number": "1-1-0002", "status": "ingested", "note": "in force"},
+    ]}]}]}
+    got = {label for label, _ in oar_review_items(fixture)}
+    check("a needs_registry row must reach the review queue (#336's concrete finding)",
+          "OAR 1-1-0001" in got)
+    check("an ingested (held, in-force) row must not",
+          "OAR 1-1-0002" not in got)
+
+    # A word ADDED to the shared partition must change this function's answer on its own --
+    # a hardcoded tuple here could not, no matter what ingest_status declares.
+    orig = ingest_status.REVIEW_QUEUE_INGEST_STATUSES
+    ingest_status.REVIEW_QUEUE_INGEST_STATUSES = orig + ("ingested",)
+    try:
+        widened = {label for label, _ in oar_review_items(fixture)}
+    finally:
+        ingest_status.REVIEW_QUEUE_INGEST_STATUSES = orig
+    check("oar_review_items must read ingest_status.REVIEW_QUEUE_INGEST_STATUSES rather "
+          "than restate it -- widening it must change the answer",
+          "OAR 1-1-0002" in widened)
+
+    # A registry quarantine gets its OWN section rather than being lumped into the
+    # renumbered/not_served/not_sliceable one, which names a different remedy (a mapping
+    # to spot-check, not a registry to fix) -- see `_REGISTRY_STATUSES` above.
+    non_registry = tuple(s for s in ingest_status.REVIEW_QUEUE_INGEST_STATUSES
+                         if s not in _REGISTRY_STATUSES)
+    registry_only = {label for label, _ in oar_review_items(fixture, _REGISTRY_STATUSES)}
+    renumbered_only = {label for label, _ in oar_review_items(fixture, non_registry)}
+    check("a needs_registry row lands in the registry-quarantine bucket",
+          "OAR 1-1-0001" in registry_only)
+    check("...and not in the renumbered/not_served/not_sliceable bucket",
+          "OAR 1-1-0001" not in renumbered_only)
+
+    return check.report()
+
+
 def main():
+    if "--selftest" in sys.argv:
+        sys.exit(cmd_selftest())
     q, cat_items, body_counts = scan()
     text = render(q, cat_items, body_counts)
     if "--check" in sys.argv:

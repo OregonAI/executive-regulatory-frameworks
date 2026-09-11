@@ -372,6 +372,177 @@ corpus-wide changes from 2026-08-02 forward.
   carry no occurrence at all. No repo reads the key for a live join.
 
 ### Fixed
+- 2026-09-10 — **#339: `catalog_oar.py`'s `FIELDS` table declared each field's `writers` and
+  gated none of it.** `FieldSpec.writers` (added by #334) read like a declared, gated fact
+  — "`ingest_oar.py` is the only writer of `path`" — but nothing checked it: adding a
+  writer tomorrow that assigns a key its `FIELDS` entry does not name it for would pass
+  silently.
+
+  Added the AST-scan half `ingest_status.ingest_vocabulary()` already demonstrates for one
+  field (`status`), widened to all twelve and to the three write shapes this repo's four
+  writer modules actually use: a literal-key subscript assignment (`r["path"] = ...`), a
+  dict literal (`{"number": num, "status": "not_ingested"}`), and — `reingest_oar.py` and
+  `legal_status.py`'s shape for every multi-key group they write — `for key, value in
+  zip(KEYS, ...): row[key] = value`, where `KEYS` is a module-level tuple of key-constants
+  resolved back to strings rather than a literal at the write site itself. Missing that
+  third shape would have reported both modules as never writing anything they write this
+  way. Two new gated rules, `writers-declared-not-observed` and
+  `writer-observed-not-declared`, both directions of the same comparison
+  `check_writers()` makes against `observed_field_writers()`'s scan of
+  `catalog_oar.py`/`ingest_oar.py`/`reingest_oar.py`/`legal_status.py`'s own source, wired
+  into `catalog_oar.py --check` (already a `tier=pr` gate; no new gate needed).
+
+  **A real trap found and closed along the way**: a naive whole-module AST walk reads a
+  test fixture's synthetic row dict (`{"number": "1-001-0001", "status": "ingested", ...}`,
+  built to feed `check_row_shape`/`reingest_one` a fake row) as indistinguishable from a
+  real write, and also reads `FIELDS = {...}` itself (a dict literal whose keys are exactly
+  the row keys this scan looks for) as a write. Excluding functions by a `_proof_*`/
+  `_fixture*` naming guess caught most of these but missed two real ones —
+  `reingest_oar.py`'s `_row` helper and `ingest_oar.py`'s
+  `_renumbered_out_exists_stamps_path` — so the exclusion is computed from each module's
+  own call graph instead (every top-level function reachable only from `selftest`/
+  `cmd_selftest`, to a fixed point), and `FIELDS` is excluded by name. Verified against the
+  real four files: every field's declared writers now agree exactly with what is actually
+  observed, in both directions.
+
+  **Review response (same day):** the ~250-line AST-scan itself moved out of
+  `catalog_oar.py` into its own module, `src/write_site_scan.py` — general-purpose Python
+  source analysis with nothing OAR-specific about it, the same reason `check_rule_ledger.py`
+  and `repo_lib.assigned_string_constants` each got their own home rather than living inside
+  the first module that needed them; `catalog_oar.py` keeps only `WRITER_MODULE_PATHS`,
+  `observed_field_writers()` and `check_writers()`. Two more findings closed there:
+
+  - The module-local "reachable only from `selftest`" call-graph walk misclassified a
+    function as test-only whenever its only NAMED caller inside its own module happened to
+    be `selftest` — true of a real production function some OTHER module imports and calls,
+    same as a true fixture. Measured live: `legal_status.resolve` (imported by
+    `ingest_oar.py`, `enrich_oar.py`) and `catalog_oar.display_note` (imported by
+    `review_queue.py`) were both this shape, and a write added inside either would have
+    passed `check_writers()` green with zero findings — reproduced end to end before this
+    fix. `write_site_scan.externally_referenced_names()` now scans every other file a caller
+    hands it for `from module import name` / `module.name` references and excludes those
+    names from test-only classification, no matter how the function's own module reaches it.
+  - `.setdefault("key", ...)` and `.update(key=value, ...)` / `.update({"key": ...})` are now
+    recognized write shapes (no live use in the four writer modules today, so this closes a
+    latent gap rather than a live one).
+
+  `catalog_oar.cmd_check()`'s two questions — does the given catalog's row shape pass, and do
+  the real four writer files agree with `FIELDS` — were also coupled: passing a fixture
+  catalog via `catalog_path` still ran `check_writers()` against whatever the real committed
+  `ingest_oar.py`/`reingest_oar.py`/`legal_status.py` happen to say today, so an unrelated
+  syntax drift in those files could turn a `--selftest` fixture proof red for a reason that
+  proof's own text never named. `check_writers()` now runs only from `cmd_check()`'s no-arg
+  (real CI) path; the real-files comparison is still proved directly in `--selftest`,
+  unconditionally, so no coverage was lost.
+
+  A stricter version of the scan — attribute a key write only through an object already
+  proven to carry the row's identifying field (`number`) — was tried, to close a real
+  false-positive mode (an unrelated dict reusing a declared field's name as a key; measured
+  at 39 of 51 unconstrained findings not a row field at all) and reverted: `ingest_oar.py`,
+  `reingest_oar.py` and `legal_status.py` all mutate a row `number` was set in ELSEWHERE (at
+  discovery, once, never rewritten — `FIELDS`'s own comment on `number`), so the constraint
+  made every one of their real writes as invisible as the false positive it was meant to
+  catch. Left unconstrained, with the false-positive mode named in `write_site_scan.py`'s own
+  module docstring instead, so the next such failure is diagnosed there first rather than
+  rediscovered.
+- 2026-09-10 — **#336: the held/not-held ingest-status partition was still restated in
+  three readers #333 did not reach.** `ingest_status.HELD_INGEST_STATUSES` is the one
+  declared partition (`ingested`, `renumbered` are held; the rest are not), but
+  `seed_oar_watch.held_rules()`, `review_queue.py`'s catalog scan, and
+  `reingest_oar.REFUSAL_REASONS` each carried their own literal tuple restating some slice
+  of it — agreeing with the declaration today only because nobody had added a seventh word
+  yet. Two concrete gaps, not just theoretical drift: `review_queue.py`'s tuple and
+  `reingest_oar.py`'s `REFUSAL_REASONS` both omitted `needs_registry` — a row quarantined on
+  an agency-registry gap never reached REVIEW.md, and a re-ingest legitimately refused for
+  that reason was reported as if `needs_registry` were an invented word.
+
+  `ingest_status.py` now declares two more partitions the same way it already declares
+  `HELD_INGEST_STATUSES` — a `_..._BY_VALUE` dict covering every word in
+  `INGEST_STATUS_VALUES`, so a new word with no answer in either dict is a `KeyError` at
+  derivation time, not a silent gap: `REVIEW_QUEUE_INGEST_STATUSES` (does this not-held
+  status reach a human) and `INGEST_REFUSAL_REASONS` (may `reingest_oar.py` record this as
+  why a re-ingest refused). All three readers now import rather than restate:
+  `seed_oar_watch.held_rules()` reads `HELD_INGEST_STATUSES`, `review_queue.py`'s new
+  `oar_review_items()` reads `REVIEW_QUEUE_INGEST_STATUSES`, and
+  `reingest_oar.REFUSAL_REASONS` is bound directly to `INGEST_REFUSAL_REASONS`. No
+  committed data changed — the real corpus has no `needs_registry` rows yet — this closes
+  the gap for the day one is written.
+
+  **Review response (same day):**
+  - `reingest_oar.py` bound the partition at IMPORT time (`REFUSAL_REASONS = ingest_status.
+    INGEST_REFUSAL_REASONS`), the one reader of the three that did not re-read it per call —
+    a proof widening the shared partition (the same shape the other two readers' own
+    selftests use) could not have caught a regression back to a hardcoded tuple, because
+    widening `ingest_status.INGEST_REFUSAL_REASONS` afterward would not have moved this
+    reader's already-bound alias. `check_recorded()` now reads
+    `ingest_status.INGEST_REFUSAL_REASONS` directly at the use site, and `--selftest` gained
+    the same widen/narrow proof the other two readers carry — verified red against the old
+    alias shape, green against the fix.
+  - `review_queue.py` was reaching REVIEW.md for `needs_registry`, but into the
+    "renumbered / repealed rules (auto-resolved — verify mappings)" section, whose heading
+    and remedy ("OARD served a different rule number, spot-check the mapping") is not true
+    of a registry quarantine — a different defect with a different fix (correct
+    `_meta/catalog/agencies.yml`, not verify a mapping). It now gets its own section, printed
+    even at zero, naming the actual remedy (`catalog_agencies.py --refresh` or the missing
+    `oar_name`).
+  - `review_queue.py`'s `cmd_selftest()` hand-rolled its own fails-list/print scaffolding
+    instead of `repo_lib.Checks`, and the predicted drift was already live: its printed
+    verdict claimed "2 rule(s) declared, every one watched firing" while asserting three
+    (now seven, with the registry-bucket proofs above) conditions. It now uses `Checks` like
+    every other `--selftest` in this repo, so the count is derived from what actually ran.
+    The `tests/gates.py` entry naming this gate is renamed too — it said "the shared
+    held/not-held partition," which is `HELD_INGEST_STATUSES`, not the review-queue
+    partition this gate actually watches.
+  - `ingest_status.py`'s own "WHAT THIS MODULE OWNS" docstring list and `cmd_check()`'s
+    success line still named only the held/not-held partition after this ticket added two
+    more (`REVIEW_QUEUE_INGEST_STATUSES`, `INGEST_REFUSAL_REASONS`) — both now name all
+    three, word counts included. The three partitions' derivation (`tuple(v for v in
+    INGEST_STATUS_VALUES if _X[v])`, written three times, plus its own completeness check
+    duplicated a fourth time in `--selftest`) is now one `_partition()` helper that asserts
+    completeness at derivation time rather than only when someone remembers to test it.
+  - The AST scan for a literal tuple/set of ingest-status words declared OUTSIDE
+    `ingest_status.py` — how #336's own issue found the three restatements this ticket
+    removed — was not adopted as a gated rule. It still isn't: a fourth restatement
+    reappearing is not yet caught mechanically, which is named here rather than left
+    implied. Filed as #394 rather than folded in here, the same reason #339 was filed
+    separately from #334.
+- 2026-09-10 — **#383: `check_updates.py --refresh` could write a manifest baseline
+  `corpus-detect-changes` would never reproduce.** `check_group()` derived the byte-hashing
+  `fmt` from a source's url extension only, never its own declared `format:` field — a
+  second, incomplete copy of the precedence `corpus_toolkit.sources.changes._format_for`
+  applies to the identical question when the drift detector computes the same source's hash.
+  Live example: the 13 DEQ Internal Management Directives are served from
+  `DocumentStream.ashx?uri=N` (`_meta/sources/department-of-environmental-quality-policies.
+  yml`) and declare `format: pdf` because the url does not self-describe; `--refresh` hashed
+  them as html while the detector reads `format:` and hashes them as pdf, so a baseline this
+  tool wrote could disagree with the one it is meant to match on the very next run.
+
+  **Review response (same day):** the first fix re-implemented the detector's precedence as
+  a second, verbatim copy inside `check_updates.py` — the identical "one fact spelled in two
+  places" shape #383 itself was filed over, this time with only a comment, not a gate,
+  asserting the two agreed. `_source_format()` is gone; `repo_lib.source_format()` now binds
+  `corpus_toolkit.sources.changes._format_for` directly (the seam `repo_lib`'s header already
+  declares, the same way `citation_schemes.py` imports the toolkit's private `_SCHEMES`
+  rather than restate it), and `check_group()` calls that one name. The selftest proof was
+  rewritten too: it used to compute its "expected" hash via `repo_lib.content_hash` — the
+  same wrapper the code under test calls — so it could pin `check_updates` against itself but
+  not detect a divergence from the detector's own formula. It now imports
+  `corpus_toolkit.repo.content_hash` and `corpus_toolkit.sources.changes._format_for`
+  directly, independent of anything `check_updates.py` wraps, and asserts the baseline
+  `check_group()` writes equals what those two toolkit calls compute for the same source —
+  verified red against the pre-review-response code and green against the fix.
+
+  Also corrected: **"the two can no longer restate the question differently" overclaimed
+  what shipped.** `repo_lib.content_hash` had no `watch` parameter at all, so a *watched* json
+  source's baseline would still have been computed two different ways (the detector's
+  `content_hash(raw, fmt, patterns, watch=s.get("watch"))` vs. this repo's watch-blind
+  wrapper) — latent, not live (`grep -rn 'watch:' _meta/sources/*.yml` finds no source using
+  it today), but the claim was broader than the fix. `repo_lib.content_hash` now forwards
+  `watch`, and `check_group()` passes `s.get("watch")` through, closing that gap too rather
+  than leaving it for the day a source declares one.
+
+  No baselines were re-seeded by this change — that is a re-ingest concern, not a
+  checker-code one.
 - 2026-09-10 — **`refresh_document` destroyed the frontmatter of any document whose
   `conversion_notes` wraps over more than one line.** The substitution was
   `re.sub(r'^conversion_notes: .*$', ..., flags=re.M)`, which replaces the *first line* of the

@@ -33,3 +33,12 @@ runs:
     # track at `@v1` (corpus-toolkit ADR-0014); requirements.txt is the one pin left to move.
     - run: pip install "$(grep -E '^corpus-toolkit' requirements.txt)"
       shell: bash
+    # POPPLER, because `content_hash(raw, "pdf", ...)` shells out to `pdftotext`. A gate that
+    # hashes a pdf-format source cannot run without it, and an un-runnable gate is not a passing
+    # one (AGENTS.md's overriding rule). Added when #383's proof -- which builds a real PDF,
+    # because the DEQ `DocumentStream.ashx?uri=N` + `format: pdf` case is the whole point of that
+    # issue -- died with `FileNotFoundError: 'pdftotext'` in gates-selftest while passing locally
+    # and in the drift job, both of which already had poppler. It belongs here rather than in one
+    # job for the reason this file exists: the callers must not drift apart in what they install.
+    - run: sudo apt-get update -q && sudo apt-get install -y --no-install-recommends poppler-utils
+      shell: bash

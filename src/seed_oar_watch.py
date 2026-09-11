@@ -38,6 +38,7 @@ import yaml
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from repo_lib import REPO_ROOT, SNAPSHOT_DIR, content_hash  # noqa: E402
 from check_updates import check_schema  # noqa: E402  (#199: the shared group-schema gate)
+import ingest_status  # noqa: E402  (#336: the held/not-held partition, read not restated)
 
 MANIFEST = REPO_ROOT / "_meta/sources/oar.yml"
 WORKLIST = REPO_ROOT / "_meta/bulletin-worklist.yml"
@@ -64,12 +65,17 @@ class Failure:
 
 
 def held_rules(catalog: dict) -> list:
-    """Every rule number this corpus holds a document for, in catalog order."""
+    """Every rule number this corpus holds a document for, in catalog order.
+
+    HELD, per `ingest_status.HELD_INGEST_STATUSES` (#336) -- read, not restated, so a word
+    added to that shared partition changes what this watch counts as held on its own,
+    the same run `legal_status.py` picks it up in, rather than needing a matching edit
+    here that nothing would enforce."""
     out = []
     for ch in catalog.get("chapters") or []:
         for d in ch.get("divisions") or []:
             for r in d.get("rules") or []:
-                if r.get("path") and r.get("status") in ("ingested", "renumbered"):
+                if r.get("path") and r.get("status") in ingest_status.HELD_INGEST_STATUSES:
                     out.append(r.get("served_as") or r["number"])
     return sorted(set(out))
 
@@ -214,8 +220,33 @@ def cmd_check() -> int:
     return 0
 
 
+def _proof_held_rules_reads_the_shared_partition(fails):
+    """#336: `held_rules()` used to restate `("ingested", "renumbered")` as its own literal
+    rather than reading `ingest_status.HELD_INGEST_STATUSES` -- byte-identical today, and
+    silently wrong the day a seventh word is marked held there: `legal_status.py` would pick
+    it up through `ingest_status`, and this watch would keep excluding it with nothing
+    gating the two against each other. Proved by widening the SHARED partition (not this
+    module's own idea of it) and checking `held_rules()` notices -- a hardcoded tuple here
+    cannot, by construction, no matter what `ingest_status` declares."""
+    orig = ingest_status.HELD_INGEST_STATUSES
+    ingest_status.HELD_INGEST_STATUSES = orig + ("needs_registry",)
+    try:
+        cat = {"chapters": [{"chapter": "1", "divisions": [{"division": "1", "rules": [
+            {"number": "1-1-0001", "status": "needs_registry",
+             "path": "rules/1/1/oar-1-1-0001.md"}]}]}]}
+        got = held_rules(cat)
+    finally:
+        ingest_status.HELD_INGEST_STATUSES = orig
+    if got != ["1-1-0001"]:
+        fails.append(
+            "FAIL held_rules must read ingest_status.HELD_INGEST_STATUSES rather than "
+            f"restate it: widening the shared partition to include 'needs_registry' did "
+            f"not change held_rules' answer, got {got}")
+
+
 def cmd_selftest() -> int:
     fails = []
+    _proof_held_rules_reads_the_shared_partition(fails)
     cat = {"chapters": [{"chapter": "999", "divisions": [{"division": "001", "rules": [
         {"number": f"999-001-{i:04d}", "status": "ingested",
          "path": f"rules/999/001/oar-999-001-{i:04d}.md"} for i in range(6)]}]}]}

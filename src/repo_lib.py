@@ -43,10 +43,34 @@ def normalize_volatile(data: bytes) -> bytes:
     return _tk.normalize_volatile(data, CONFIG.volatile_patterns)
 
 
-def content_hash(raw: bytes, fmt: str) -> str:
+def content_hash(raw: bytes, fmt: str, watch=None) -> str:
     """Content hash of freshly fetched bytes -- the toolkit's, with this corpus's patterns:
-    the hash `corpus-detect-changes` records in the manifest and compares against."""
-    return _tk.content_hash(raw, fmt, CONFIG.volatile_patterns)
+    the hash `corpus-detect-changes` records in the manifest and compares against.
+
+    `watch`, forwarded straight through to `_tk.content_hash` (corpus-toolkit#72): a json
+    source's `watch:` list, when a source declares one, so a watched source is hashed the
+    SAME way here as `corpus-detect-changes` hashes it -- over the selected paths only, not
+    the whole document. No source in this corpus's manifests declares `watch` today
+    (`grep -rn 'watch:' _meta/sources/*.yml` finds nothing at this writing), so this
+    parameter is latent, not yet exercised by any real call -- forwarded now rather than
+    left for a second divergence the day one does."""
+    return _tk.content_hash(raw, fmt, CONFIG.volatile_patterns, watch=watch)
+
+
+def source_format(url: str, declared) -> str:
+    """The format a source's bytes should be read as -- the source's own declared `format:`
+    field when it has one, the url's extension otherwise. THE TOOLKIT'S OWN FUNCTION
+    (`corpus_toolkit.sources.changes._format_for`), bound here rather than re-implemented,
+    so a caller computing a baseline OUTSIDE the drift detector (`check_updates.py`) asks
+    the identical question the detector's own `corpus-detect-changes` run asks for the same
+    manifest entry -- the seam this module's header declares, and the shape
+    `citation_schemes.py` already uses to import the toolkit's private `_SCHEMES` rather
+    than restate it. Private (`_`-prefixed) in the toolkit because it is an internal helper
+    of `changes.py`, not part of its public surface -- imported here anyway, the same
+    tradeoff `citation_schemes.py` made, because the alternative (a second copy of the exact
+    precedence table) is the drift #383 exists to close."""
+    from corpus_toolkit.sources.changes import _format_for
+    return _format_for(url, declared)
 
 
 def hash_snapshot(doc_id: str, fmt: str, snapshot_dir: Path = None) -> str:
@@ -1228,12 +1252,55 @@ def _proof_division_status_distinguishes_the_five_states(check) -> None:
                 "from each other, rather than all of them reading as one word")
 
 
+def _proof_source_format_binds_the_toolkit(check) -> None:
+    """#383 review response: `source_format()` must BE `corpus_toolkit.sources.changes.
+    _format_for`, not a second copy of its precedence -- the exact shape #383 was filed
+    over, this time with a comment asserting agreement rather than a gate. Proved by
+    reaching into the toolkit module and calling its function directly, independent of
+    this module's own `source_format` wrapper, over a table covering both branches (a
+    self-describing url, and the DEQ `.ashx?uri=N` + `format: pdf` case #383's report
+    named)."""
+    from corpus_toolkit.sources.changes import _format_for
+    table = [
+        ("https://example.invalid/rule.pdf", None, "pdf"),
+        ("https://example.invalid/rule.html", None, "html"),
+        ("https://example.invalid/rule", None, "html"),
+        ("https://example.invalid/DocumentStream.ashx?uri=1", "pdf", "pdf"),
+        ("https://example.invalid/DocumentStream.ashx?uri=1", None, "html"),
+    ]
+    for url, declared, want in table:
+        check(f"source_format({url!r}, {declared!r}) == {want!r}, matching "
+              f"corpus_toolkit.sources.changes._format_for exactly",
+              source_format(url, declared) == want == _format_for(url, declared))
+
+
+def _proof_content_hash_forwards_watch(check) -> None:
+    """#383 review response: a `watch`-declared json source must be hashed the SAME way by
+    this wrapper as by `corpus_toolkit.repo.content_hash` itself -- over the selected paths
+    only, per corpus-toolkit#72 -- not the whole-document hash `watch=None` falls back to.
+    No source in this corpus declares `watch` today (latent, per this function's own
+    docstring); proved against a synthetic json body so the gap does not wait for a real
+    source to expose it."""
+    body = b'{"a": 1, "b": 2, "c": 3}'
+    hashed_with_watch = content_hash(body, "json", watch=["a", "c"])
+    hashed_without_watch = content_hash(body, "json")
+    check("watch=None (the default) falls back to the whole-document hash",
+          hashed_without_watch == _tk.content_hash(body, "json", CONFIG.volatile_patterns))
+    check("a watch list changes the hash -- it is not silently ignored",
+          hashed_with_watch != hashed_without_watch)
+    check("...and matches the toolkit's own watched-digest computation for the same list",
+          hashed_with_watch
+          == _tk.content_hash(body, "json", CONFIG.volatile_patterns, watch=["a", "c"]))
+
+
 def selftest() -> int:
     check = Checks()
     _ledger()  # binds the module-level `Failure` name before the proofs above call it bare
     _proof_missing_content_dir_refuses(check)
     _proof_committed_text_resolves_a_rename(check)
     _proof_division_status_distinguishes_the_five_states(check)
+    _proof_source_format_binds_the_toolkit(check)
+    _proof_content_hash_forwards_watch(check)
 
     gaps = _LEDGER.gaps()
     declared_gap = (f" (emitted-not-declared={sorted(gaps.emitted_but_undeclared)}, "

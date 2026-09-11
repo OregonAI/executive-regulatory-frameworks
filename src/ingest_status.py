@@ -37,12 +37,18 @@ gets to live just because it is read from there too.
 
 WHAT THIS MODULE OWNS, and no more:
 
-  1. THE VALUE SET (`INGEST_STATUS_VALUES`) and the HELD/NOT-HELD PARTITION
-     (`HELD_INGEST_STATUSES`), declared together as one structure (`_HELD_BY_VALUE` below)
-     so a word cannot be added to one without saying, in the same place, whether this mirror
-     still holds a rule carrying it -- the failure `HELD_INGEST_STATUSES` was in before this
-     ticket, a bare second tuple with nothing connecting it to the six-word set it was a
-     subset of.
+  1. THE VALUE SET (`INGEST_STATUS_VALUES`) and THREE PARTITIONS of it, each declared as its
+     own dict marking every word (`_HELD_BY_VALUE`, `_REVIEW_QUEUE_BY_VALUE`,
+     `_INGEST_REFUSAL_REASON_BY_VALUE`) so a word cannot be added to the value set without
+     saying, in the same place, its answer to each partition's question -- the failure
+     `HELD_INGEST_STATUSES` was in before this ticket, a bare second tuple with nothing
+     connecting it to the six-word set it was a subset of:
+       - the HELD/NOT-HELD partition (`HELD_INGEST_STATUSES`) -- does this mirror still
+         hold a copy of the rule?
+       - the REVIEW-QUEUE partition (`REVIEW_QUEUE_INGEST_STATUSES`, #336) -- does a row
+         carrying this word need a human look in REVIEW.md?
+       - the REFUSAL-REASON partition (`INGEST_REFUSAL_REASONS`, #336) -- may
+         `reingest_oar.py` record this word as why a re-ingest attempt refused?
   2. THE WRITERS' CENSUS (`ingest_vocabulary()`), read off the syntax trees of the two
      modules that write this field rather than trusted -- `ingest_oar.py` (`INGESTER`) and,
      since #276 retired `ingest_oar.py --enumerate`, `catalog_oar.py` (`DISCOVERER`), which
@@ -97,11 +103,59 @@ _HELD_BY_VALUE = {
 # The full vocabulary, in declaration order (dict insertion order, Python's own guarantee).
 INGEST_STATUS_VALUES = tuple(_HELD_BY_VALUE)
 
+
+def _partition(by_value: dict) -> tuple:
+    """One word written three times (#336 review finding) is now one function: assert
+    completeness against `INGEST_STATUS_VALUES` -- every declared word answers this
+    partition's question, nothing added to the value set can silently skip it -- and return
+    the subset `by_value` marks true, in declaration order. Moves the completeness check out
+    of `--selftest` and into the derivation itself, so a partition that forgets a word fails
+    the moment it is built (an `AssertionError` at import time), not only when someone
+    remembers to test it."""
+    assert set(by_value) == set(INGEST_STATUS_VALUES), (
+        f"partition covers {sorted(by_value)}, but the full vocabulary is "
+        f"{sorted(INGEST_STATUS_VALUES)} -- every declared word must answer this "
+        "partition's question, the zeroes (False) included")
+    return tuple(v for v in INGEST_STATUS_VALUES if by_value[v])
+
+
 # DERIVED, not typed beside the full set: every word `_HELD_BY_VALUE` marks held, filtered
 # out of `INGEST_STATUS_VALUES` rather than written as its own literal tuple. A second,
 # independent two-word tuple is exactly what let this partition state only `ingested` and
 # `renumbered` while the full set had grown to six words with nothing catching the gap.
-HELD_INGEST_STATUSES = tuple(v for v in INGEST_STATUS_VALUES if _HELD_BY_VALUE[v])
+HELD_INGEST_STATUSES = _partition(_HELD_BY_VALUE)
+
+# TWO MORE PARTITIONS OF THE SAME VOCABULARY (#336), same shape as `_HELD_BY_VALUE` above:
+# a dict marking EVERY word, so a word added to `_HELD_BY_VALUE` with no answer in either
+# of these fails `_partition`'s completeness assert the moment it is derived below, not a
+# silent gap. Two DIFFERENT questions, not one, so they are declared separately rather than
+# as a single "not held" tuple: whether a status belongs in the human review queue
+# (`review_queue.py`) and whether `reingest_oar.py` may record it as why a re-ingest attempt
+# refused. They happen to agree on every word declared so far -- `renumbered`,
+# `not_served`, `not_sliceable`, `needs_registry` -- but that is #336's own finding about
+# today's readers, not a promise the two questions always answer alike; a status a HUMAN
+# should see and a status an AUTOMATED refusal record may cite are different claims about
+# the same word.
+_REVIEW_QUEUE_BY_VALUE = {
+    "ingested": False,       # in force; nothing to review
+    "renumbered": True,      # served under a different number; a human confirms the row
+    "not_ingested": False,   # not yet attempted; not a defect, nothing to review yet
+    "not_served": True,
+    "not_sliceable": True,
+    "needs_registry": True,  # #336: review_queue.py omitted this before -- exactly the row
+                             # a person resolves, since it is a quarantine ON the registry
+}
+REVIEW_QUEUE_INGEST_STATUSES = _partition(_REVIEW_QUEUE_BY_VALUE)
+
+_INGEST_REFUSAL_REASON_BY_VALUE = {
+    "ingested": False,       # success; not a refusal
+    "renumbered": True,
+    "not_ingested": False,   # never attempted; not a recorded refusal either
+    "not_served": True,
+    "not_sliceable": True,
+    "needs_registry": True,  # #336: reingest_oar.py's REFUSAL_REASONS omitted this before
+}
+INGEST_REFUSAL_REASONS = _partition(_INGEST_REFUSAL_REASON_BY_VALUE)
 
 # Where the vocabulary is written, and the only two modules allowed to write it. TWO, NOT
 # ONE, SINCE #276: that ticket retired `ingest_oar.py --enumerate`, and with it the only
@@ -204,7 +258,11 @@ def cmd_check() -> int:
           f"{_label(INGESTER)} and {_label(DISCOVERER)} write: "
           + ", ".join(sorted(INGEST_STATUS_VALUES))
           + f"; {len(HELD_INGEST_STATUSES)} of them mean this mirror still holds the rule: "
-          + ", ".join(HELD_INGEST_STATUSES))
+          + ", ".join(HELD_INGEST_STATUSES)
+          + f"; {len(REVIEW_QUEUE_INGEST_STATUSES)} belong in the human review queue: "
+          + ", ".join(REVIEW_QUEUE_INGEST_STATUSES)
+          + f"; {len(INGEST_REFUSAL_REASONS)} are recordable re-ingest refusal reasons: "
+          + ", ".join(INGEST_REFUSAL_REASONS))
     return 0
 
 
@@ -221,6 +279,21 @@ def _proof_the_partition_is_derived(check) -> None:
           set(HELD_INGEST_STATUSES) <= set(INGEST_STATUS_VALUES))
     check("every declared word says whether it is held -- nothing is unaccounted for",
           set(_HELD_BY_VALUE) == set(INGEST_STATUS_VALUES))
+    # #336: the two further partitions `review_queue.py` and `reingest_oar.py` import
+    # rather than restate, proved the same way -- derived, complete, and (the concrete
+    # finding) including `needs_registry`, which both readers omitted before.
+    check("every declared word says whether it belongs in the review queue",
+          set(_REVIEW_QUEUE_BY_VALUE) == set(INGEST_STATUS_VALUES))
+    check("the review-queue partition is a subset of the full vocabulary",
+          set(REVIEW_QUEUE_INGEST_STATUSES) <= set(INGEST_STATUS_VALUES))
+    check("needs_registry reaches the review queue",
+          "needs_registry" in REVIEW_QUEUE_INGEST_STATUSES)
+    check("every declared word says whether it is a valid recorded refusal reason",
+          set(_INGEST_REFUSAL_REASON_BY_VALUE) == set(INGEST_STATUS_VALUES))
+    check("the refusal-reason partition is a subset of the full vocabulary",
+          set(INGEST_REFUSAL_REASONS) <= set(INGEST_STATUS_VALUES))
+    check("needs_registry is a recordable refusal reason",
+          "needs_registry" in INGEST_REFUSAL_REASONS)
 
 
 def _proof_the_vocabulary_matches_the_real_writers(check) -> None:
