@@ -42,6 +42,25 @@ MAX_RANGE = 60
 # section in -- the intervening "ORS" breaks the match, which a bare `200\.\d+` would not.
 LIST_SEC = re.compile(r"(?:,|;|\band\b|&)\s*§{0,2}\s*200\.(\d{1,4})\b", re.I)
 
+# `42 U.S.C. 1396`, `20 USC 1232g`, `29 USC § 3101`, `42 USC 1320d-2` (the `-2` suffix names a
+# DIFFERENT section from `1320d` and must never be dropped -- ADR-0006's first landed section
+# makes this scheme resolve for the first time, so a missing suffix group here would silently
+# substitute one section of the U.S. Code for another, the exact failure this platform exists
+# to refuse. The trailing subsection tail (`(b)(1)(A)`) is matched and ignored: a subsection is
+# inside the section, never a different document.
+#
+# The letter run is UNBOUNDED and followed by a hard right boundary
+# `(?![0-9A-Za-z])`, on purpose: capping it at two letters (or the digit run at five)
+# let a longer real section TRUNCATE into a different, real, wrong one --
+# `42 USC 1395ddd` (Medicare Integrity Program) silently became `1395dd` (EMTALA), and
+# `21 USC 360bbb-3` (an EUA provision) became `360bb` (orphan drugs), dropping the `-3`
+# too. That is the exact substitution this comment already warned the suffix group
+# exists to prevent, just one letter later. Refusing to match at all is the honest
+# outcome; a shorter real section id from a citation that named a different, real
+# section is not.
+USC = re.compile(r"\b(?P<title>\d{1,2})\s*U\.?\s?S\.?\s?C\.?\s*(?:§{1,2}\s*)?"
+                 r"(?P<sec>\d{1,5}[a-z]*(?:-[0-9a-z]{1,4})?)(?![0-9A-Za-z])(?:\([^)]*\))*", re.I)
+
 # `IRS Pub 1075`, `IRS Publication 1075 (Rev. 11-2021)`, `IRS Pub 1075 Revision 9/2016`
 IRSPUB = re.compile(r"\bIRS\s+Pub(?:lication)?\.?\s*(?P<num>\d{3,4})\b", re.I)
 # The revision, read from anywhere in the citation rather than from a group that had to sit
@@ -99,6 +118,14 @@ def candidates(citation: str) -> list[str]:
                 seen.add(i)
                 out.append(i)
         return out
+
+    m = USC.search(c)
+    if m:
+        # NEVER mapped onto a public law -- ADR-0004's rule survives ADR-0006's supersession.
+        # The codified section and the enacted text are different documents; this returns
+        # the codified section's own id, never a `pl-` id, regardless of what this corpus
+        # currently holds -- existence is the index lookup's job, not this pure function's.
+        return [f"{m.group('title')}-usc-{m.group('sec').lower()}"]
 
     m = PUBLAW.search(c)
     if m:
