@@ -543,6 +543,16 @@ corpus-wide changes from 2026-08-02 forward.
 
   No baselines were re-seeded by this change — that is a re-ingest concern, not a
   checker-code one.
+- 2026-09-10 — **`reingest_oar.py`'s fetch-slice-flow-hash pipeline was hand-copied at
+  three call sites** (`reingest_one` itself, `check_document`'s byte-identical re-run
+  check, and the selftest fixture that builds "what a re-fetch would compute"). A new
+  `_as_reingest_one_would_compute(raw, doc_id) -> (full_text, sha)` runs `snapshot_text ->
+  snapshot_slice -> flow_to_lines -> content_hash`, in that order, in one place;
+  `check_document`'s partial copy (it starts from an already-snapshotted text, not raw
+  bytes) shares the slice/flow half through a new `_slice_and_flow(doc_id, text)`. Pure
+  refactor — proved byte-identical before and after by hashing `reingest_one`'s actual
+  output for a synthetic fixture both before this change and after (`bbdba1c7…` /
+  `8e1cb927…`, unchanged) and by the full `--selftest` suite staying green throughout (#290).
 - 2026-09-10 — **`refresh_document` destroyed the frontmatter of any document whose
   `conversion_notes` wraps over more than one line.** The substitution was
   `re.sub(r'^conversion_notes: .*$', ..., flags=re.M)`, which replaces the *first line* of the

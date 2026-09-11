@@ -536,6 +536,29 @@ def check_recorded(catalog, worklist) -> list:
     return failures
 
 
+def _slice_and_flow(doc_id: str, text: str) -> str:
+    """`snapshot_slice` -> `flow_to_lines`, the half of the pipeline that runs on text
+    already put through `snapshot_text` -- shared by `_as_reingest_one_would_compute`
+    (which starts from raw bytes) and `check_document` (which already holds the
+    committed .txt snapshot and has no raw bytes to start from). #290."""
+    return flow_to_lines(snapshot_slice(doc_id, doc_id, text))
+
+
+def _as_reingest_one_would_compute(raw: bytes, doc_id: str) -> tuple:
+    """`snapshot_text` -> `snapshot_slice` -> `flow_to_lines` -> `content_hash`, in that
+    order, on freshly fetched bytes -- (full_text, sha). This is what `reingest_one`
+    writes to a document when a rule's source has moved, and what "what a re-fetch
+    would compute" means everywhere else in this file asks the question. #290: this
+    used to be hand-assembled at every call site (`reingest_one` itself, and the proof
+    that builds a synthetic re-fetch to compare against); one drifting from another
+    silently would make a proof mean something other than its own docstring claims.
+    One call site now, so that can't happen without every caller seeing it at once."""
+    text = snapshot_text(raw)
+    full_text = _slice_and_flow(doc_id, text)
+    sha = content_hash(raw, "html")
+    return full_text, sha
+
+
 def check_document(number, text, snapshot, committed_sha) -> list:
     """PROVENANCE, AND THE BYTE-IDENTICAL RE-RUN, for ONE document -- decided from the
     three strings and nothing else.
@@ -562,7 +585,7 @@ def check_document(number, text, snapshot, committed_sha) -> list:
             f"publishes source_sha256 {stated!r} and the snapshot committed beside it "
             f"hashes to {committed_sha!r}. The document's provenance no longer covers the "
             f"text it serves -- run: {REGENERATE}")]
-    again = refresh(text, flow_to_lines(snapshot_slice(doc_id, doc_id, snapshot)),
+    again = refresh(text, _slice_and_flow(doc_id, snapshot),
                     committed_sha, _retrieved(text))
     if again != text:
         failures.append(Failure(
@@ -783,8 +806,11 @@ def reingest_one(candidate, registry_by_chapter, today, fetch_page=None,
             "the OARD page carries no rule body this can slice. An empty refresh would "
             "replace the served text with nothing and call the rule re-ingested")]
     old = candidate.path.read_text()
-    sha = content_hash(raw, "html")
-    full_text = flow_to_lines(body)
+    # #290: the same four-step pipeline the length gate just partially ran (snapshot_text
+    # and snapshot_slice, above) is re-derived here through the ONE call site every other
+    # "what would a re-fetch compute" question in this file also goes through, rather than
+    # a second hand-assembly that could silently drift from the first.
+    full_text, sha = _as_reingest_one_would_compute(raw, doc_id)
     # THE SOURCE HAS NOT MOVED, SO NEITHER DOES THE DOCUMENT. `retrieved` is the date THESE
     # BYTES were taken, not the date somebody last looked -- that fact lives in
     # `_meta/sources/oar.yml`'s `last_checked`, which `check_updates.py` owns. Stamping
@@ -1473,10 +1499,9 @@ def _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check) -> No
     raw = _page(number, "(1) Text a re-fetch of an unmoved source would serve again, "
                         "comfortably past the hundred characters the slicer insists on "
                         "before it will believe a page carries a rule at all.")
-    text = snapshot_text(raw)
-    body = snapshot_slice(doc_id, doc_id, text)
-    full_text = flow_to_lines(body)
-    sha = content_hash(raw, "html")
+    # #290: through the one call site `reingest_one` itself now uses, so this fixture's
+    # fidelity to the function under test is structural rather than a hand-kept copy.
+    full_text, sha = _as_reingest_one_would_compute(raw, doc_id)
     # THE DOCUMENT ALREADY HOLDS WHAT A RE-FETCH OF THE SAME PAGE WOULD COMPUTE -- built by
     # calling `refresh()` itself rather than hand-assembling frontmatter, so this fixture
     # cannot drift from what the function under test actually writes.
@@ -1560,6 +1585,32 @@ def _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check) -> No
               and not (real_snapshot_dir / f"{doc_id}.html").exists())
 
 
+def _proof_the_pipeline_has_one_call_site(check) -> None:
+    """#290: `_as_reingest_one_would_compute()` is the ONE place `snapshot_text ->
+    snapshot_slice -> flow_to_lines -> content_hash` runs, in that order, on freshly
+    fetched bytes -- the exact chain `reingest_one` and this file's own proofs used to
+    hand-assemble in three separate places (a fourth, `check_document`'s partial copy,
+    shares the slice/flow half through `_slice_and_flow`). Proved here against the SAME
+    four functions called directly, in the order the issue itself names them -- an
+    independent oracle, not a second copy of the helper's own logic -- so a fifth
+    normalization step added to one and not the other is caught by disagreement rather
+    than trusted by construction."""
+    number = "999-002-0020"
+    doc_id = f"oar-{number}"
+    raw = _page(number, "(1) A paragraph long enough to clear the hundred-character "
+                        "floor the slicer enforces, and distinctive enough that a "
+                        "wrong slice or a dropped normalization step would show up in "
+                        "the text rather than hiding behind a shared fixture.")
+    text = snapshot_text(raw)
+    body = snapshot_slice(doc_id, doc_id, text)
+    want_full_text = flow_to_lines(body)
+    want_sha = content_hash(raw, "html")
+    got_full_text, got_sha = _as_reingest_one_would_compute(raw, doc_id)
+    check("the extracted helper reproduces the hand-assembled pipeline's text, byte "
+          "for byte", got_full_text == want_full_text)
+    check("...and its hash", got_sha == want_sha)
+
+
 def _proof_the_status_survives_the_call_this_path_makes(check) -> None:
     """LAYER TWO, AT THE EXACT CALL SITE. `select()` refuses every rule the Bulletin took
     out of force, so nothing here should ever hand one to the enricher -- and this proves
@@ -1605,6 +1656,7 @@ def selftest() -> int:
     _proof_documents(check)
     _proof_the_run_refuses_what_is_not_an_amendment(check)
     _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check)
+    _proof_the_pipeline_has_one_call_site(check)
     _proof_the_status_survives_the_call_this_path_makes(check)
     check("every rule this module can report is declared",
           legal_status.emitted_rules(Path(__file__).read_text()) == set(CHECK_RULES))
