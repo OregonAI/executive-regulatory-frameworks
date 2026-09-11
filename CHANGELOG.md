@@ -547,15 +547,22 @@ corpus-wide changes from 2026-08-02 forward.
   against real corpus data** — the review of #346's fix built a synthetic chapter that
   reaches it and reproduces the garbage-suffixed-title failure mode #346's thread measured
   and rejected. Measured against all 569 committed ORS chapter snapshots
-  (`_meta/catalog/ors.yml`): 8 chapters reach `parse_toc`'s RECOVERED-last-entry branch at
-  all (171, 186, 191, 199, 221, 237, 306, 358), and in every one of them `_catchline_end`
-  stops at the ALL-CAPS-heading or standalone-"Note" marker well under the cap — **zero
-  reach `_RECOVERED_TAIL_CAP` itself**. Per #349's own decision tree, that means no new
-  heuristic is warranted (a third boundary rule invented without corpus evidence to
-  validate it against repeats #293's mistake); a synthetic `--selftest` fixture now pins
-  today's fallback behavior — the issue's own worked example, reproduced exactly — so a
-  future change to the cap, or to what precedes it, is a deliberate edit of an assertion
-  rather than a silent behavior change (#349).
+  (`_meta/catalog/ors.yml`): 523 are ordinary (the density-cut match is a body
+  reoccurrence), 38 carry no "EDITION" token so `parse_toc` returns `[]` before the
+  recovered/ordinary decision point is ever reached, and 8 reach `parse_toc`'s
+  RECOVERED-last-entry branch at all (171, 186, 191, 199, 221, 237, 306, 358) — of those
+  8, only 4 (171, 186, 221, 306) survive `parse_toc`'s own downstream filters into the
+  catalog, and in every one of the 8, `_catchline_end` stops at the ALL-CAPS-heading or
+  standalone-"Note" marker well under the cap — **zero reach `_RECOVERED_TAIL_CAP`
+  itself**. Per #349's own decision tree, that means no new heuristic is warranted (a
+  third boundary rule invented without corpus evidence to validate it against repeats
+  #293's mistake); two synthetic `--selftest` assertions now pin today's fallback
+  behavior on the issue's own worked example — one on the entry's title (which the
+  ordinary 160-char truncation determines, not the cap, so it is insensitive to the cap's
+  value) and a second calling `_catchline_end` directly against a markerless tail, which
+  pins the cap's literal value and goes red the moment `_RECOVERED_TAIL_CAP` moves away
+  from 2000 — so a future change to the cap is a deliberate edit of an assertion rather
+  than a silent behavior change (#349).
 - 2026-09-10 — **`reingest_oar.py`'s fetch-slice-flow-hash pipeline was hand-copied at
   three call sites** (`reingest_one` itself, `check_document`'s byte-identical re-run
   check, and the selftest fixture that builds "what a re-fetch would compute"). A new
@@ -565,7 +572,12 @@ corpus-wide changes from 2026-08-02 forward.
   bytes) shares the slice/flow half through a new `_slice_and_flow(doc_id, text)`. Pure
   refactor — proved byte-identical before and after by hashing `reingest_one`'s actual
   output for a synthetic fixture both before this change and after (`bbdba1c7…` /
-  `8e1cb927…`, unchanged) and by the full `--selftest` suite staying green throughout (#290).
+  `8e1cb927…`, unchanged). The refactor also moved the selftest fixture's own
+  before/after comparison onto the same shared helper on both sides, which made it
+  self-consistent by construction rather than an independent check; a golden SHA-256 pin
+  on the helper's output for a fixed fixture (`7bb5988d…` full text, `b1684b84…` hash) now
+  carries that guarantee instead, re-derivable in the repo rather than resting on this
+  session's transcript (#290).
 - 2026-09-10 — **`refresh_document` destroyed the frontmatter of any document whose
   `conversion_notes` wraps over more than one line.** The substitution was
   `re.sub(r'^conversion_notes: .*$', ..., flags=re.M)`, which replaces the *first line* of the

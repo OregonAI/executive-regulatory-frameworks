@@ -67,6 +67,7 @@ against the SNAPSHOT ALREADY COMMITTED, and fails if the result differs from the
 document by one byte. A re-run that drifted is caught by CI on the next push rather than by
 somebody running the command twice and looking."""
 import argparse
+import hashlib
 import re
 import sys
 import tempfile
@@ -1585,16 +1586,26 @@ def _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check) -> No
               and not (real_snapshot_dir / f"{doc_id}.html").exists())
 
 
-def _proof_the_pipeline_has_one_call_site(check) -> None:
+def _proof_the_extracted_helper_reproduces_the_pipeline(check) -> None:
     """#290: `_as_reingest_one_would_compute()` is the ONE place `snapshot_text ->
     snapshot_slice -> flow_to_lines -> content_hash` runs, in that order, on freshly
-    fetched bytes -- the exact chain `reingest_one` and this file's own proofs used to
-    hand-assemble in three separate places (a fourth, `check_document`'s partial copy,
-    shares the slice/flow half through `_slice_and_flow`). Proved here against the SAME
-    four functions called directly, in the order the issue itself names them -- an
-    independent oracle, not a second copy of the helper's own logic -- so a fifth
-    normalization step added to one and not the other is caught by disagreement rather
-    than trusted by construction."""
+    fetched bytes -- the exact chain that used to be hand-assembled in full in TWO
+    separate places (`reingest_one` itself, and this file's own
+    `_proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day`), plus a third,
+    partial copy (`check_document`'s slice/flow half, which still goes through
+    `_slice_and_flow` rather than this helper, since it starts from an already-committed
+    snapshot with no raw bytes to re-derive `snapshot_text` from). Proved here two ways:
+    against the SAME four functions called directly, in the order the issue itself names
+    them -- an independent oracle, not a second copy of the helper's own logic, so a
+    fifth normalization step added to one and not the other is caught by disagreement
+    rather than trusted by construction; and against a GOLDEN HASH pinned as a literal
+    below, because the first comparison alone is still a same-file copy of the helper's
+    three lines and would stay green if both copies picked up an identical, wrong, extra
+    step -- the golden literal is the one thing here that cannot silently move with the
+    code it is checking. (`_proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day`
+    now calls this same helper on both sides of its own comparison, so it no longer
+    independently exercises the pipeline's output -- this proof, via the golden hash, is
+    the one place a wrong `_as_reingest_one_would_compute` has anywhere left to fail.)"""
     number = "999-002-0020"
     doc_id = f"oar-{number}"
     raw = _page(number, "(1) A paragraph long enough to clear the hundred-character "
@@ -1609,6 +1620,17 @@ def _proof_the_pipeline_has_one_call_site(check) -> None:
     check("the extracted helper reproduces the hand-assembled pipeline's text, byte "
           "for byte", got_full_text == want_full_text)
     check("...and its hash", got_sha == want_sha)
+    # GOLDEN VALUES, computed once against this exact fixture and pinned as literals --
+    # unlike the two checks above, these cannot be satisfied by the helper and its oracle
+    # drifting together, because nothing here re-derives them from the helper's own code.
+    GOLDEN_FULL_TEXT_SHA256 = \
+        "7bb5988d7e62b1c9049c2fcbff6a435c62983092ad6e0ddac5150d023b20be0e"
+    GOLDEN_CONTENT_SHA = \
+        "b1684b84c58fe66b283618de2c2d1b440957e9ac56288fa4ec4d9aa10cc036f8"
+    check("...and the helper's output matches a golden hash pinned independently of "
+          "either copy of the pipeline's own code",
+          hashlib.sha256(got_full_text.encode("utf-8")).hexdigest()
+          == GOLDEN_FULL_TEXT_SHA256 and got_sha == GOLDEN_CONTENT_SHA)
 
 
 def _proof_the_status_survives_the_call_this_path_makes(check) -> None:
@@ -1656,7 +1678,7 @@ def selftest() -> int:
     _proof_documents(check)
     _proof_the_run_refuses_what_is_not_an_amendment(check)
     _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check)
-    _proof_the_pipeline_has_one_call_site(check)
+    _proof_the_extracted_helper_reproduces_the_pipeline(check)
     _proof_the_status_survives_the_call_this_path_makes(check)
     check("every rule this module can report is declared",
           legal_status.emitted_rules(Path(__file__).read_text()) == set(CHECK_RULES))
