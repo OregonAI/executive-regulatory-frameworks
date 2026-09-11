@@ -41,12 +41,11 @@ from repo_lib import REPO_ROOT, Checks
 SNAP = REPO_ROOT / "_meta/snapshots"
 
 
-def patch_statute_file(path: Path, sec: str, ch: str, ch_title: str, old_title: str, new_title: str):
-    """`ch_title` is accepted but no longer read (#348) -- kept for call-signature
-    compatibility with `backfill_ors_286_titles.py`'s reuse of this same function, unmodified.
-    See the At-a-glance regex below for why: the CURRENT catalog's chapter title is not
-    always what an already-ingested file's own At-a-glance line carries, and this function's
-    job is patching the SECTION title, not reconciling chapter-title drift."""
+def patch_statute_file(path: Path, sec: str, ch: str, old_title: str, new_title: str):
+    """Patches the SECTION title only -- the At-a-glance regex below matches whatever
+    chapter-title text the file's own At-a-glance line already carries rather than assuming
+    it agrees with the CURRENT catalog's chapter title (see the regex's own comment for why),
+    so this function never needs a chapter title passed in at all."""
     text = path.read_text(encoding="utf-8")
     old_q = old_title.replace('"', "'")
     new_q = new_title.replace('"', "'")
@@ -123,7 +122,7 @@ def main():
             if s.get("status") == "ingested" and s.get("path"):
                 fpath = REPO_ROOT / s["path"]
                 if fpath.exists():
-                    n = patch_statute_file(fpath, s["number"], ch, c["title"], old_title, new_title)
+                    n = patch_statute_file(fpath, s["number"], ch, old_title, new_title)
                     if n == 3:
                         n_files_patched += 1
                     else:
@@ -177,9 +176,10 @@ def _fixture_file(tmpdir: Path, sec: str, old_title: str, file_chapter_title: st
 
 def _proof_patch_survives_a_stale_at_a_glance_chapter_title(check) -> None:
     """#348: measured live on the real corpus running the full 1443-row backfill --
-    `patch_statute_file` builds the At-a-glance line it searches for out of the CURRENT
-    catalog chapter title (`ch_title`), but 1180 of 1429 already-ingested files being
-    patched carry an OLDER chapter title in that line, unchanged since ingestion (chapter
+    `patch_statute_file` used to build the At-a-glance line it searches for out of the
+    CURRENT catalog chapter title (a `ch_title` parameter, since removed -- nothing reads it
+    any more), but 1180 of 1429 already-ingested files being patched carry an OLDER chapter
+    title in that line, unchanged since ingestion (chapter
     titles have since been enriched/corrected in `_meta/catalog/ors.yml`, and nothing
     re-syncs the At-a-glance line's chapter-title portion when that happens -- a different,
     pre-existing drift than the section-title bug this module exists to fix). The mismatch
@@ -193,11 +193,7 @@ def _proof_patch_survives_a_stale_at_a_glance_chapter_title(check) -> None:
         old_title = "Exemptions from ORS 836.085 to"
         new_title = "Exemptions from ORS 836.085 to 836.120"
         p = _fixture_file(tmpdir, "836.080", old_title, file_chapter_title="Chapter 836")
-        # `ch_title` here is what CURRENT `ors.yml` calls chapter 836 ("Airports and
-        # Landing Fields") -- deliberately NOT the "Chapter 836" placeholder the fixture
-        # file's own At-a-glance line already carries, reproducing the drift.
-        n = patch_statute_file(p, "836.080", "836", "Airports and Landing Fields",
-                               old_title, new_title)
+        n = patch_statute_file(p, "836.080", "836", old_title, new_title)
         text = p.read_text(encoding="utf-8")
         check("RED/GREEN: all three occurrences are patched despite the file's chapter "
               f"title disagreeing with today's catalog (got n={n})", n == 3)
@@ -216,17 +212,25 @@ def _proof_patch_survives_a_stale_at_a_glance_chapter_title(check) -> None:
 def _proof_patch_survives_a_chapter_title_with_its_own_parentheses(check) -> None:
     """#348: measured live -- 5 of 1429 files patched carry a chapter title that itself
     holds parentheses (`ors-184.400.md`, chapter 184: "Certain Executive Branch Departments
-    (incl. DAS)"). A capture that excludes `)` (`[^)]*`) stops at the FIRST close-paren --
-    the inner one -- leaving the real, outer `),` this pattern expects immediately after
-    unmatched, so the whole regex fails to match at all (0/3, not 2/3: this is a DIFFERENT
-    failure than the stale-chapter-title proof above, on the same line)."""
+    (incl. DAS)"). Against the PRE-FIX code (an exact string match embedding the CURRENT
+    catalog's chapter title verbatim, via the now-removed `ch_title` parameter), this fails
+    the SAME way the stale-chapter-title proof above does, and for the same reason -- the
+    literal search string never appears in the file at all when its own chapter-title text
+    differs from what was passed in, so `title:` and the `#` heading patch (n=2 of 3) but
+    the At-a-glance line does not. It earns its own proof because the FIX has a distinct
+    failure mode worth guarding separately: a capture that excludes `)` (`[^)]*`), one naive
+    way to parse the line's own chapter title instead of assuming it agrees with the catalog,
+    would stop at the FIRST close-paren -- the inner one -- leaving the real, outer `),`
+    this pattern expects immediately after unmatched, and fail to match this file at all.
+    The GREEDY `.*` this module actually uses (see `patch_statute_file`'s own comment)
+    avoids that trap."""
     tmpdir = Path(tempfile.mkdtemp(prefix="backfill-ors-titles-selftest-"))
     try:
         old_title = "Definitions for ORS 184.400 to"
         new_title = "Definitions for ORS 184.400 to 184.408; rules"
         p = _fixture_file(tmpdir, "184.400", old_title,
                           file_chapter_title="Certain Executive Branch Departments (incl. DAS)")
-        n = patch_statute_file(p, "184.400", "836", "irrelevant here", old_title, new_title)
+        n = patch_statute_file(p, "184.400", "836", old_title, new_title)
         check(f"all three occurrences patch despite the chapter title's own parentheses "
               f"(got n={n})", n == 3)
         check("...and the embedded parenthetical inside the chapter title survives intact",
@@ -243,7 +247,7 @@ def _proof_patch_still_works_when_the_chapter_title_agrees(check) -> None:
         old_title = "Definitions for ORS 1.010 to"
         new_title = "Definitions for ORS 1.010 to 1.020"
         p = _fixture_file(tmpdir, "1.010", old_title, file_chapter_title="Definitions")
-        n = patch_statute_file(p, "1.010", "836", "Definitions", old_title, new_title)
+        n = patch_statute_file(p, "1.010", "836", old_title, new_title)
         check("all three occurrences patch when the chapter title already agrees",
               n == 3)
     finally:

@@ -372,6 +372,48 @@ corpus-wide changes from 2026-08-02 forward.
   carry no occurrence at all. No repo reads the key for a live join.
 
 ### Fixed
+- 2026-09-11 — **Code-review follow-up on #394/#348** (both below): `ingest_status.py`'s
+  new restatement scan was O(N²) in the number of `src/*.py` files (`--check`/`--selftest`
+  measured 15-16s each, up from 0.08s before #394 — every gate's 120s CI timeout was
+  unchanged and untested against the new cost). Root cause: computing cross-module import
+  visibility once per target module re-parsed AND re-walked every other file's AST each
+  time. Fixed by parsing every source once and computing that visibility for every module
+  in a single pass — new `write_site_scan.all_externally_referenced_names()`, batching what
+  `externally_referenced_names()` does per-call. Measured after: 0.6s for `--check` and for
+  `--selftest`, matching the pre-#394 order of magnitude. `catalog_oar.py`'s existing use of
+  `externally_referenced_names()` (a fixed ~4-module list, not all of `src/`) is unaffected
+  and still passes its own selftest.
+
+  Also from that review: `ingest_status.py --check`'s OK line printed a hard-coded `0`
+  restatements rather than the measured count (now `len(restatements)`); the two-word floor
+  a partition can restate at (`_MIN_RESTATEMENT_SIZE`) rested on an ungated comment that no
+  declared partition is narrower — `--selftest` now asserts it, so a future partition
+  narrowing to one word fails the assertion instead of silently narrowing the rule's reach
+  (see the #394 entry below for what the floor itself means and why it deviates from that
+  issue's literal text); `backfill_ors_titles.patch_statute_file()`'s `ch_title` parameter,
+  dead since #348 (documented as "accepted but no longer read"), is dropped — its one other
+  caller (`backfill_ors_286_titles.py`) and all three `--selftest` fixtures updated to the
+  5-argument signature; and one `--selftest` docstring described a failure mode (`0/3`) that
+  does not match what the code it was documenting actually does when run RED (`n=2`,
+  reproduced directly against the pre-#348 code) — corrected to describe the real cause.
+
+  **Declined**: a Fowler "duplicated code" finding on `restated_vocabulary_sites()`'s two
+  branches (real tree vs. a synthetic fixture, each with their own parse-or-skip loop).
+  After the O(N²) fix above the two branches diverge further, not less: the real branch now
+  builds a corpus-wide tree cache and calls the batch cross-module scan, while the synthetic
+  branch parses one fixture with no cross-file concept at all. Unifying them would trade
+  ~4 duplicated lines for closures/indirection describing what are now two different
+  computations, not one rule stated twice — declined as a net readability loss, not a real
+  duplication.
+
+  Also: `.github/workflows/validate-frontmatter.yml`'s gate-count comment (checks/selftests
+  in the PR-tier workflow) had drifted (42/36 measured stale, actual 43/37 after #348 added
+  its two gates) — corrected; the runner-minute totals in the same comment were dropped
+  rather than re-stated, since nothing gates them either and they would only go stale the
+  same way. And GitHub issues #397/#398 (filed while doing #348's own work) shipped with
+  zero labels and a sign-off line citing AGENTS.md's retired "open an issue, period" rule —
+  both now carry a topic label (`bug`; #398 also `ready-for-human`, since it needs a human
+  to hand-verify text against a snapshot) and cite the actual current exception relied on.
 - 2026-09-11 — **#348: `backfill_ors_titles.py` had never been run against the full
   backlog — 1,443 stale catalog section titles, pre-existing, confirmed present on `main`
   before this PR's own changes.** Triggered by code review of #341/#346/#288, which found
@@ -379,18 +421,23 @@ corpus-wide changes from 2026-08-02 forward.
   calling them "hand-verified" — measured false against `backfill_ors_286_titles.FIXES`.
 
   **Reviewed a sample of the 1,443 diffs before running it for real, per the issue's own
-  ask.** Every diff falls into one of three shapes: 1,424 complete a citation range
-  `parse_toc()`'s #286/#292 xref fix now resolves correctly where the stale catalog entry
-  was truncated mid-range (`'Definitions for ORS 100.301 to'` → `'...to 100.320'`); 11 more
-  replace a bare all-caps heading fragment the catalog held instead of the section's real
-  catchline (`'BRIBERY'` → `'Misuse of confidential information'`); the remaining ~19
-  inherit `parse_toc()`'s pre-existing (not new, not worse) practice of gluing a following
-  section-group heading onto a title when nothing separates them — measured against the
-  **already-committed** catalog: 756 section titles already carry this exact shape, so
-  applying the current parser retroactively to these rows is consistent with, not worse
-  than, what every other title already ingested under it looks like. Filed as its own issue
-  (#397) rather than guessed at here, since fixing `parse_toc()` itself is a different,
-  unscoped change.
+  ask; re-classified exactly, not sampled, in code review afterward.** *(Correction: an
+  earlier draft of this entry gave 1,424 / 11 / ~19, which sums to 1,454 for a change that
+  touches 1,443 rows — an arithmetic error, not a second measurement. The numbers below are
+  a full classification of all 1,443 diffs — `old_title`/`new_title` compared directly
+  between `_meta/catalog/ors.yml` at this commit's parent and this commit — not a sample.)*
+  1,431 complete a citation range `parse_toc()`'s #286/#292 xref fix now resolves correctly
+  where the stale catalog entry was truncated mid-range (`'Definitions for ORS 100.301 to'`
+  → `'...to 100.320'`); 12 replace a bare all-caps heading fragment the catalog held instead
+  of the section's real catchline (`'BRIBERY'` → `'Misuse of confidential information'`), of
+  which 2 (`453.185`, `723.498`) newly acquire `parse_toc()`'s pre-existing (not new, not
+  worse) practice of gluing a following section-group heading onto a title when nothing
+  separates them. How many **already-committed** titles carry that same glued-heading shape
+  depends on the pattern used to detect it — narrower and broader reasonable heuristics
+  measured on this same catalog range from the low hundreds to several thousand — so no
+  single count is restated here as precise; see #397 (filed rather than guessed at here,
+  since fixing `parse_toc()` itself is a different, unscoped change) for the actual glued
+  example and what would fix it at the source.
 
   **Found and fixed a live bug in `backfill_ors_titles.py`'s own patch logic while running
   it for real**, not `parse_toc()`'s: `patch_statute_file()`'s At-a-glance-line match
@@ -418,8 +465,14 @@ corpus-wide changes from 2026-08-02 forward.
 
   `backfill_ors_titles.py --check` and a new `--selftest` (proving `patch_statute_file`
   against the two drift shapes above) are now wired into CI as `tier=pr` gates
-  (`tests/gates.py`), closing the issue's own "what to decide" ask: the backlog no longer
-  silently regrows.
+  (`tests/gates.py`), closing the issue's own "what to decide" ask for CATALOG-vs-SNAPSHOT
+  drift: that backlog no longer silently regrows. A second, narrower drift stays ungated on
+  purpose: nothing in this repo compares an already-ingested statute FILE's own `title:`
+  against its catalog row, so the 4 `"and"`-titled files #398 names will not be caught again
+  by CI even after a human hand-corrects them and something later re-drifts one the same
+  way — deciding what that comparison should tolerate (a hand-edited title legitimately
+  differing from the catalog on purpose, vs. drifted) is exactly the judgement #398 asks a
+  human to make on these 4 rows first.
 
   Regenerated the derived-view chain per AGENTS.md (this PR touches the ORS catalog):
   `link_graph` → `scan_external_citations` → `build_freshness_data` /
@@ -457,6 +510,16 @@ corpus-wide changes from 2026-08-02 forward.
   some OTHER module's own `selftest` (`seed_oar_watch.py`, `review_queue.py` both widen the
   shared partition this way to prove they notice) is excluded the same way #339 already
   proved, not misreported as a new restatement.
+
+  **Deliberate deviation from the issue's literal text**: the issue asks for "a literal
+  tuple/set whose members are all ... words" with no size floor, but this rule only fires at
+  two-or-more words (`_MIN_RESTATEMENT_SIZE`) — no partition this module declares is
+  narrower than that (`HELD_INGEST_STATUSES`, the smallest, has two), and a single-word
+  literal like `review_queue._REGISTRY_STATUSES = ("needs_registry",)` names one status for
+  one purpose rather than restating a slice of a partition. That premise is now gated, not
+  just commented: `--selftest` asserts every declared partition is at least
+  `_MIN_RESTATEMENT_SIZE` words, so the day one narrows to one word this rule fails instead
+  of silently going blind on the shape it exists to catch.
 
   **Found a real fourth restatement running it**: `catalog_oar._FETCHED_STATUSES =
   ("ingested", "renumbered")` — byte-identical to `ingest_status.HELD_INGEST_STATUSES`, hand-

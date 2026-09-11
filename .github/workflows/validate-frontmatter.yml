@@ -53,8 +53,13 @@ jobs:
   # minutes beside 2.3 and 1.8; 19.8 wall against 11.6 before). Slices are now balanced by
   # each gate's timeout -- set from its measured seconds, so the cost proxy the old manifest
   # kept by hand, already in the registry -- longest first onto the least-loaded slice.
-  # Phase 1 (42 checks, ~37 runner-minutes in total) over six runners; phase 2 (36
-  # selftests, ~9 runner-minutes) over three. Expected wall clock ~8 min.
+  # Phase 1 (43 checks) over six runners; phase 2 (37 selftests) over three -- counts
+  # measured 2026-09-11 (`len([g for g in gates.GATES if g.tier=='pr' and not g.serial])` /
+  # `...if g.tier=='pr' and g.serial`); #348 added the 43rd check and 37th selftest
+  # (`backfill_ors_titles.py --check`/`--selftest`, ~9s/~0.2s locally). Runner-minute
+  # totals dropped from this comment rather than restated stale -- nothing here re-measures
+  # them, so a prior "~37 / ~9 runner-minutes" would only have drifted the same way the gate
+  # counts did. Expected wall clock ~8 min.
   gates-check:
     strategy:
       fail-fast: false
