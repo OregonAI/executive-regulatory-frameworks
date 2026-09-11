@@ -103,6 +103,39 @@ INGEST_STATUS_VALUES = tuple(_HELD_BY_VALUE)
 # `renumbered` while the full set had grown to six words with nothing catching the gap.
 HELD_INGEST_STATUSES = tuple(v for v in INGEST_STATUS_VALUES if _HELD_BY_VALUE[v])
 
+# TWO MORE PARTITIONS OF THE SAME VOCABULARY (#336), same shape as `_HELD_BY_VALUE` above:
+# a dict marking EVERY word, so a word added to `_HELD_BY_VALUE` with no answer in either
+# of these is a `KeyError` the moment it is derived below, not a silent gap. Two DIFFERENT
+# questions, not one, so they are declared separately rather than as a single "not held"
+# tuple: whether a status belongs in the human review queue (`review_queue.py`) and whether
+# `reingest_oar.py` may record it as why a re-ingest attempt refused. They happen to agree
+# on every word declared so far -- `renumbered`, `not_served`, `not_sliceable`,
+# `needs_registry` -- but that is #336's own finding about today's readers, not a promise
+# the two questions always answer alike; a status a HUMAN should see and a status an
+# AUTOMATED refusal record may cite are different claims about the same word.
+_REVIEW_QUEUE_BY_VALUE = {
+    "ingested": False,       # in force; nothing to review
+    "renumbered": True,      # served under a different number; a human confirms the row
+    "not_ingested": False,   # not yet attempted; not a defect, nothing to review yet
+    "not_served": True,
+    "not_sliceable": True,
+    "needs_registry": True,  # #336: review_queue.py omitted this before -- exactly the row
+                             # a person resolves, since it is a quarantine ON the registry
+}
+REVIEW_QUEUE_INGEST_STATUSES = tuple(v for v in INGEST_STATUS_VALUES
+                                     if _REVIEW_QUEUE_BY_VALUE[v])
+
+_INGEST_REFUSAL_REASON_BY_VALUE = {
+    "ingested": False,       # success; not a refusal
+    "renumbered": True,
+    "not_ingested": False,   # never attempted; not a recorded refusal either
+    "not_served": True,
+    "not_sliceable": True,
+    "needs_registry": True,  # #336: reingest_oar.py's REFUSAL_REASONS omitted this before
+}
+INGEST_REFUSAL_REASONS = tuple(v for v in INGEST_STATUS_VALUES
+                               if _INGEST_REFUSAL_REASON_BY_VALUE[v])
+
 # Where the vocabulary is written, and the only two modules allowed to write it. TWO, NOT
 # ONE, SINCE #276: that ticket retired `ingest_oar.py --enumerate`, and with it the only
 # place the pipeline wrote `not_ingested` -- membership is `catalog_oar.py`'s to write now,
@@ -221,6 +254,21 @@ def _proof_the_partition_is_derived(check) -> None:
           set(HELD_INGEST_STATUSES) <= set(INGEST_STATUS_VALUES))
     check("every declared word says whether it is held -- nothing is unaccounted for",
           set(_HELD_BY_VALUE) == set(INGEST_STATUS_VALUES))
+    # #336: the two further partitions `review_queue.py` and `reingest_oar.py` import
+    # rather than restate, proved the same way -- derived, complete, and (the concrete
+    # finding) including `needs_registry`, which both readers omitted before.
+    check("every declared word says whether it belongs in the review queue",
+          set(_REVIEW_QUEUE_BY_VALUE) == set(INGEST_STATUS_VALUES))
+    check("the review-queue partition is a subset of the full vocabulary",
+          set(REVIEW_QUEUE_INGEST_STATUSES) <= set(INGEST_STATUS_VALUES))
+    check("needs_registry reaches the review queue",
+          "needs_registry" in REVIEW_QUEUE_INGEST_STATUSES)
+    check("every declared word says whether it is a valid recorded refusal reason",
+          set(_INGEST_REFUSAL_REASON_BY_VALUE) == set(INGEST_STATUS_VALUES))
+    check("the refusal-reason partition is a subset of the full vocabulary",
+          set(INGEST_REFUSAL_REASONS) <= set(INGEST_STATUS_VALUES))
+    check("needs_registry is a recordable refusal reason",
+          "needs_registry" in INGEST_REFUSAL_REASONS)
 
 
 def _proof_the_vocabulary_matches_the_real_writers(check) -> None:

@@ -372,6 +372,28 @@ corpus-wide changes from 2026-08-02 forward.
   carry no occurrence at all. No repo reads the key for a live join.
 
 ### Fixed
+- 2026-09-10 — **#336: the held/not-held ingest-status partition was still restated in
+  three readers #333 did not reach.** `ingest_status.HELD_INGEST_STATUSES` is the one
+  declared partition (`ingested`, `renumbered` are held; the rest are not), but
+  `seed_oar_watch.held_rules()`, `review_queue.py`'s catalog scan, and
+  `reingest_oar.REFUSAL_REASONS` each carried their own literal tuple restating some slice
+  of it — agreeing with the declaration today only because nobody had added a seventh word
+  yet. Two concrete gaps, not just theoretical drift: `review_queue.py`'s tuple and
+  `reingest_oar.py`'s `REFUSAL_REASONS` both omitted `needs_registry` — a row quarantined on
+  an agency-registry gap never reached REVIEW.md, and a re-ingest legitimately refused for
+  that reason was reported as if `needs_registry` were an invented word.
+
+  `ingest_status.py` now declares two more partitions the same way it already declares
+  `HELD_INGEST_STATUSES` — a `_..._BY_VALUE` dict covering every word in
+  `INGEST_STATUS_VALUES`, so a new word with no answer in either dict is a `KeyError` at
+  derivation time, not a silent gap: `REVIEW_QUEUE_INGEST_STATUSES` (does this not-held
+  status reach a human) and `INGEST_REFUSAL_REASONS` (may `reingest_oar.py` record this as
+  why a re-ingest refused). All three readers now import rather than restate:
+  `seed_oar_watch.held_rules()` reads `HELD_INGEST_STATUSES`, `review_queue.py`'s new
+  `oar_review_items()` reads `REVIEW_QUEUE_INGEST_STATUSES`, and
+  `reingest_oar.REFUSAL_REASONS` is bound directly to `INGEST_REFUSAL_REASONS`. No
+  committed data changed — the real corpus has no `needs_registry` rows yet — this closes
+  the gap for the day one is written.
 - 2026-09-10 — **#383: `check_updates.py --refresh` could write a manifest baseline
   `corpus-detect-changes` would never reproduce.** `check_group()` derived the byte-hashing
   `fmt` from a source's url extension only, never its own declared `format:` field — a

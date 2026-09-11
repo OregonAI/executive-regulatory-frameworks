@@ -6,6 +6,7 @@ statuses), so regenerating after any change keeps it complete and current.
 
   python3 src/review_queue.py           # regenerate REVIEW.md
   python3 src/review_queue.py --check   # exit 1 if committed REVIEW.md is stale (CI)
+  python3 src/review_queue.py --selftest  # every rule, watched failing
 """
 import re
 import sys
@@ -20,6 +21,12 @@ import yaml
 from catalog_oar import CLAIMED_ELSEWHERE_DIVISION_MARK, CONFIRMED_EMPTY_DIVISION_MARK, display_note
 from legal_status import ACTION_KEY, CATALOG_KEY, NOTICE_KEY
 from repo_lib import REPO_ROOT, content_files, parse_frontmatter
+# THE INGEST-STATUS WORDS THIS QUEUE MUST SURFACE, IMPORTED RATHER THAN RESPELLED (#336):
+# `("renumbered", "not_served", "not_sliceable")` used to be this module's own literal,
+# missing `needs_registry` with nothing gating the omission -- a row an agency-registry
+# quarantine is blocking never reached the one place ADR 0006 says it needs to (a person
+# who can fix the registry). ingest_status.py declares the partition once and this reads it.
+import ingest_status  # noqa: E402
 # The toolkit's render-and-compare: missing, unreadable, stale and current kept apart,
 # and never raising (corpus-toolkit repo.check_generated). Replaces a hand-rolled compare
 # that 22 scripts each carried (card 3 of the 2026-09-02 review).
@@ -70,6 +77,30 @@ def eo_date_sequence_breaks():
                                     f"of the two dates is misread; check both signature "
                                     f"blocks against the source PDFs"))
     return breaks
+
+
+def oar_review_items(oar: dict) -> list:
+    """(label, note) for every OAR catalog rule whose ingest status the review queue
+    needs a human to look at -- `ingest_status.REVIEW_QUEUE_INGEST_STATUSES` (#336), read
+    rather than restated, so a status that partition adds reaches REVIEW.md the same run
+    it reaches every other reader, instead of needing a matching edit here that nothing
+    would enforce."""
+    out = []
+    for c in oar["chapters"]:
+        for d in c["divisions"]:
+            rules = d.get("rules")
+            if not isinstance(rules, list):
+                continue
+            for r in rules:
+                if r.get("status") in ingest_status.REVIEW_QUEUE_INGEST_STATUSES:
+                    # display_note() drops merge_divisions's carry-forward history suffix
+                    # (#270 follow-up) -- redundant here, since a renumbered/not_served/
+                    # not_sliceable/needs_registry row's own note already says why it's
+                    # absent from OARD's current listing under this number, and the
+                    # truncation below was pushing THAT fact out to make room to say it twice.
+                    out.append((f"OAR {r['number']}",
+                                f"{r['status']}: {display_note(r.get('note', ''))[:90]}"))
+    return out
 
 
 def scan():
@@ -154,20 +185,12 @@ def scan():
             if s.get("status") == "not_sliceable":
                 cat_items["not_sliceable"].append((f"ORS {s['number']}", s.get("note", "")[:100]))
     oar = yaml.safe_load((REPO_ROOT / "_meta/catalog/oar.yml").read_text())
+    cat_items["renumbered"].extend(oar_review_items(oar))
     for c in oar["chapters"]:
         for d in c["divisions"]:
             rules = d.get("rules")
             if isinstance(rules, list):
                 for r in rules:
-                    if r.get("status") in ("renumbered", "not_served", "not_sliceable"):
-                        # display_note() drops merge_divisions's carry-forward history
-                        # suffix (#270 follow-up) -- redundant here, since a renumbered or
-                        # not_served row's own note already says why it's absent from
-                        # OARD's current listing under this number, and the truncation
-                        # below was pushing THAT fact out to make room for saying it twice.
-                        cat_items["renumbered"].append(
-                            (f"OAR {r['number']}",
-                             f"{r['status']}: {display_note(r.get('note', ''))[:90]}"))
                     # A CLAIM ABOUT LEGAL FORCE REACHES A PERSON (ADR 0006, #229). An
                     # amendment is a text refresh the provenance chain verifies and it
                     # re-ingests on its own; a repeal or a suspension is a statement about
@@ -380,7 +403,49 @@ def render(q, cat_items, body_counts):
     return "\n".join(L)
 
 
+def cmd_selftest() -> int:
+    """Proof that `oar_review_items` reads the shared partition rather than restating it
+    (#336), and the concrete finding it was filed over: a `needs_registry` row reaches
+    REVIEW.md today."""
+    fails = []
+    fixture = {"chapters": [{"chapter": "1", "divisions": [{"division": "1", "rules": [
+        {"number": "1-1-0001", "status": "needs_registry", "note": "registry gap"},
+        {"number": "1-1-0002", "status": "ingested", "note": "in force"},
+    ]}]}]}
+    got = {label for label, _ in oar_review_items(fixture)}
+    if "OAR 1-1-0001" not in got:
+        fails.append(
+            "FAIL a needs_registry row must reach the review queue (#336's concrete "
+            f"finding): got {sorted(got)}")
+    if "OAR 1-1-0002" in got:
+        fails.append(f"FAIL an ingested (held, in-force) row must not: got {sorted(got)}")
+
+    # A word ADDED to the shared partition must change this function's answer on its own --
+    # a hardcoded tuple here could not, no matter what ingest_status declares.
+    orig = ingest_status.REVIEW_QUEUE_INGEST_STATUSES
+    ingest_status.REVIEW_QUEUE_INGEST_STATUSES = orig + ("ingested",)
+    try:
+        widened = {label for label, _ in oar_review_items(fixture)}
+    finally:
+        ingest_status.REVIEW_QUEUE_INGEST_STATUSES = orig
+    if "OAR 1-1-0002" not in widened:
+        fails.append(
+            "FAIL oar_review_items must read ingest_status.REVIEW_QUEUE_INGEST_STATUSES "
+            f"rather than restate it: widening it did not change the answer, got "
+            f"{sorted(widened)}")
+
+    for f in fails:
+        print(f, file=sys.stderr)
+    if fails:
+        print(f"{len(fails)} rule(s) did not hold", file=sys.stderr)
+        return 1
+    print("2 rule(s) declared, every one watched firing -- selftest OK")
+    return 0
+
+
 def main():
+    if "--selftest" in sys.argv:
+        sys.exit(cmd_selftest())
     q, cat_items, body_counts = scan()
     text = render(q, cat_items, body_counts)
     if "--check" in sys.argv:

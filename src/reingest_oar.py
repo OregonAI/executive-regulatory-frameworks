@@ -79,6 +79,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import yaml
 
 import check_bulletin
+import ingest_status
 import legal_status
 # The one writer of a legal status, and the helpers this module would otherwise keep a
 # second copy of. `report` says so in its own docstring -- "One printer, because both
@@ -140,13 +141,20 @@ REINGEST_KEYS = (ACTION_KEY, NOTICE_KEY)
 # substitution ADR 0006 exists to refuse.
 #
 # The vocabulary is the INGEST one ingest_oar already writes -- not_served / renumbered /
-# not_sliceable -- rather than a third, and these keys are deliberately NOT the re-ingest
-# ones: a refusal that were spellable as a re-ingest would make
+# not_sliceable / needs_registry -- rather than a third, and these keys are deliberately NOT
+# the re-ingest ones: a refusal that were spellable as a re-ingest would make
 # `a-re-ingested-action-changes-text` stop meaning what it says.
+#
+# IMPORTED, NOT RESTATED (#336): this used to be its own three-word literal, omitting
+# `needs_registry` with nothing gating the gap -- a legitimate refusal (the agency registry
+# a rule's chapter would join has a gap a human resolves) reported the same way an invented
+# word would be. `ingest_status.INGEST_REFUSAL_REASONS` declares once, for this reader and
+# `review_queue.py`'s, which not-held-or-renumbered words apply; a word added there reaches
+# both the moment it is declared.
 REFUSED_KEY = "reingest_refused"
 REFUSED_NOTICE_KEY = "reingest_refused_notice"
 REFUSED_KEYS = (REFUSED_KEY, REFUSED_NOTICE_KEY)
-REFUSAL_REASONS = ("not_served", "renumbered", "not_sliceable")
+REFUSAL_REASONS = ingest_status.INGEST_REFUSAL_REASONS
 
 REGENERATE = "python3 src/reingest_oar.py --run"
 TODAY = date.today().isoformat()
@@ -1354,6 +1362,13 @@ def _proof_the_run_refuses_what_is_not_an_amendment(check) -> None:
           _found(_row("999-001-0010", **{REFUSED_KEY: "gave_up",
                                          REFUSED_NOTICE_KEY: FIXTURE_NOTICE}),
                  rule="a-refusal-is-recorded-in-the-ingest-vocabulary"))
+    # #336: REFUSAL_REASONS used to restate three of the ingest vocabulary's four
+    # not-served words as its own literal, omitting `needs_registry` -- a legitimate
+    # refusal (the agency registry a rule's chapter would join has a gap a human resolves)
+    # that this rule reported as if it were an invented word like `gave_up` above.
+    check("...and a needs_registry refusal is accepted as a valid recorded reason (#336)",
+          not _found(_row("999-001-0010", **{REFUSED_KEY: "needs_registry",
+                                             REFUSED_NOTICE_KEY: FIXTURE_NOTICE})))
 
 
 def _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check) -> None:
