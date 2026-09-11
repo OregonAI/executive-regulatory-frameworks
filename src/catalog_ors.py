@@ -204,8 +204,11 @@ def parse_toc(raw_text, ch):
     # #346: when the chapter's own genuinely LAST TOC entry is itself immediately
     # followed by a >600-char gap (no nearby xref keeps the density high past it),
     # `all_matches[cut]` here IS that last entry, not a body reoccurrence -- unconditionally
-    # excluding it from `bounds` would drop it from the catalog entirely (measured: 4 of the
-    # 569 committed chapters -- 171, 186, 221, 306 -- named in `_selftest` below).
+    # excluding it from `bounds` would drop it from the catalog entirely (measured: 8 of the
+    # 569 committed chapters reach this branch -- 171, 186, 191, 199, 221, 237, 306, 358 --
+    # though only 4 of those eight -- 171, 186, 221, 306, named in `_selftest` below -- go on
+    # to survive the downstream `[`-split and length/case filters a few lines down; the other
+    # four recover a repealed-section bracket artifact that those filters correctly drop).
     cut = len(all_matches) - 1
     for k in range(len(all_matches) - 1):
         if all_matches[k + 1].start() - all_matches[k].start() > GAP:
@@ -257,6 +260,10 @@ def _selftest() -> int:
     snapshots that produced the bug, the same reproduction #286 itself measured with,
     #346 too (see the second block below) -- neither is a synthetic fixture; both are the
     real 569 `_meta/snapshots/ors-chapter-*.txt` this parser runs against in production.
+    A third block, #349, is different: zero of the 569 committed chapters reach
+    `_RECOVERED_TAIL_CAP`, so nothing real is left to pin it against -- that block's
+    fixture is synthetic on purpose, standing in for a corpus case that does not exist
+    today.
     `python3 src/catalog_ors.py --selftest`."""
     from repo_lib import Checks
     ck = Checks()
@@ -337,7 +344,10 @@ def _selftest() -> int:
     ck("306.815 (same ALL-CAPS-heading-first shape as 221.928) is recovered clean",
        s306.get("306.815") == "Tax on transfer of real property prohibited; exceptions")
 
-    # THE ORDINARY CASE (565 of the 569 committed chapters) MUST KEEP WORKING: chapter 691's
+    # THE ORDINARY CASE (523 of the 569 committed chapters end this way; the other 46 split
+    # into the 8 that reach the RECOVERED branch below and the 38 whose snapshot carries no
+    # "EDITION" token at all, so `parse_toc` returns `[]` before this decision point is ever
+    # reached -- see #349's own measurement a few lines down) MUST KEEP WORKING: chapter 691's
     # own density-cut match (691.405) IS a body reoccurrence already claimed by an earlier
     # bound, so it must still be EXCLUDED exactly as before -- not turned into a spurious
     # extra entry now that the cut can also recover a genuine last entry. 8 sections, ending
@@ -346,6 +356,63 @@ def _selftest() -> int:
     ck("an ordinary chapter's density-cut match is still excluded as a body reoccurrence, "
        "not turned into a spurious extra entry",
        len(s691) == 8 and s691.get("691.485") == "Board of Licensed Dietitians")
+
+    # #349: `_RECOVERED_TAIL_CAP` itself has never fired against real corpus data -- a full
+    # offline scan of all 569 committed chapter snapshots (measured 2026-09-10, against
+    # `_meta/catalog/ors.yml`'s own chapter list), reconciling with the counts named above,
+    # partitions into all three buckets, the zero-count one named rather than left silent:
+    #   523 ordinary (the density-cut match is a body reoccurrence, as with 691 above)
+    #     8 reach the RECOVERED branch at all (171, 186, 191, 199, 221, 237, 306, 358) --
+    #       of those, the 4 named a few lines up (171, 186, 221, 306) go on to survive
+    #       parse_toc's own downstream `[`-split and length/case filters; the other 4
+    #       (191, 199, 237, 358) recover a repealed-section bracket artifact those filters
+    #       correctly drop, so they never reach the catalog either
+    #    38 have no "EDITION" token at all, so `parse_toc` returns `[]` before the
+    #       recovered/ordinary decision point is ever reached
+    #   523 + 8 + 38 = 569.
+    # In every one of the 8 that reach the branch, `_catchline_end` stops at
+    # `_RECOVERED_ALLCAPS_RE` or `_RECOVERED_NOTE_RE` well under the 2000-char cap -- ZERO
+    # reach the cap itself. So the cap is dead on today's corpus, which per #349's own
+    # decision tree means a synthetic fixture is the right move: a future change to the cap
+    # should be a deliberate edit of an assertion here, not a silent behavior change nothing
+    # would catch.
+    #
+    # Two assertions below, because one alone conflates two different things this parser
+    # does to a recovered entry's title. The FIRST fixture reproduces #349's own worked
+    # example: a genuine last TOC entry ("999.030") followed by ordinary sentence-case prose
+    # carrying neither marker, run out past the 2000-char cap -- the same garbage-suffixed
+    # -title failure mode #346's thread measured and rejected for the naive "just include
+    # it" fix, now happening on purpose. But its title, like every entry's, still passes
+    # through `parse_toc`'s own `rest[:160]` truncation below -- so what this fixture's
+    # `literal_title == 160` chars actually pins is that ordinary truncation, not the cap:
+    # measured, sweeping `_RECOVERED_TAIL_CAP` over 5000/1000/500/300/200/175 leaves this
+    # assertion green throughout, because the 160-char truncation is what the comparison
+    # sees regardless of where the cap sits above it. The SECOND assertion below calls
+    # `_catchline_end` directly against a markerless tail longer than the cap and pins the
+    # literal 2000 -- verified sensitive: it goes red the moment `_RECOVERED_TAIL_CAP` moves
+    # away from 2000 in either direction.
+    literal_title = ("Third and last entry title the body of the chapter continues here "
+                      "with ordinary sentence case prose that carries no capitalised "
+                      "heading and no marker word of an")
+    filler = (" other kind entirely, and it just keeps going in ordinary sentence case "
+              "well past both the hundred and sixty characters this parser keeps for any "
+              "title and the two thousand character boundary this fixture means to reach, "
+              "so the fallback this proof pins is the cap itself and not the tail's own "
+              "natural end, repeating some more harmless words to be sure of it, ") * 20
+    raw999 = ("SOME PREAMBLE TEXT 2025 EDITION "
+              "999.010 First entry title. "
+              "999.020 Second entry title. "
+              "999.030 " + literal_title + filler)
+    s999 = {s["number"]: s["title"] for s in parse_toc(raw999, "999")}
+    ck("a synthetic chapter whose recovered last entry carries neither marker within "
+       "2000 chars still gets the ordinary 160-char title truncation every entry gets -- "
+       "this does NOT pin the cap itself (see the next assertion for that)",
+       s999.get("999.030") == literal_title)
+    tail999 = "999.030 " + literal_title + filler
+    ck("the markerless tail's own boundary, checked directly against `_catchline_end`, is "
+       "the cap itself, 2000 chars, and not the tail's length or the title's 160-char "
+       "truncation -- this is the assertion that goes red if `_RECOVERED_TAIL_CAP` moves",
+       _catchline_end(tail999) == _RECOVERED_TAIL_CAP == 2000)
 
     return ck.report("catalog-ors selftest")
 
