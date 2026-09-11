@@ -266,9 +266,11 @@ def restated_vocabulary_sites(sources: dict = None) -> list:
     `sources` is label -> source text; passing it fires the rule against a synthetic module
     without touching the real tree. `None` reads every committed `src/*.py` file except this
     one -- `ingest_status.py` IS the six words' home and restates nothing by declaring them
-    -- computing cross-module import visibility (`write_site_scan.externally_referenced_names`,
-    #339) the same way `catalog_oar.observed_field_writers` does, so a fixture some OTHER
-    module imports and calls in production is never misread as test-only.
+    -- computing cross-module import visibility for every module in one pass
+    (`write_site_scan.all_externally_referenced_names`, batching what
+    `catalog_oar.observed_field_writers` does per-module via `externally_referenced_names`;
+    see that function's own docstring for why the batch form exists), so a fixture some
+    OTHER module imports and calls in production is never misread as test-only.
 
     A module that does not parse contributes no sites -- silence, not a claim the module
     holds no restatement (AGENTS.md's overriding rule)."""
@@ -278,14 +280,23 @@ def restated_vocabulary_sites(sources: dict = None) -> list:
         this_file = Path(__file__).resolve()
         all_srcs = {p: p.read_text() for p in SRC.glob("*.py")
                    if p.resolve() != this_file}
-        for path, text in sorted(all_srcs.items()):
+        # Parse every source ONCE, and compute cross-module import visibility for every
+        # module in ONE pass (`write_site_scan.all_externally_referenced_names`), rather
+        # than once per target module. The outer loop runs once per file under `src/*.py`
+        # (N ~ 87); calling `externally_referenced_names` per target used to both re-parse
+        # (~7.5k `ast.parse` calls) and re-walk (~7.5k `ast.walk` calls) all N-1 others each
+        # time -- O(N^2) either way. Measured before this fix: 15-16s for this function
+        # alone (`ast.parse` was only 0.2s of that; `ast.walk` was the rest).
+        trees = {}
+        for p, t in all_srcs.items():
             try:
-                tree = ast.parse(text)
+                trees[p] = ast.parse(t)
             except SyntaxError:
                 continue
-            other = {p: t for p, t in all_srcs.items() if p != path}
-            ext_ref = write_site_scan.externally_referenced_names(path.stem, other)
-            out.extend(_restated_in(tree, _label(path), values, frozenset(ext_ref)))
+        ext_refs = write_site_scan.all_externally_referenced_names(trees)
+        for path in sorted(trees):
+            out.extend(_restated_in(trees[path], _label(path), values,
+                                    frozenset(ext_refs[path])))
         return out
     for label, text in sources.items():
         try:
@@ -355,7 +366,7 @@ def cmd_check() -> int:
           + ", ".join(REVIEW_QUEUE_INGEST_STATUSES)
           + f"; {len(INGEST_REFUSAL_REASONS)} are recordable re-ingest refusal reasons: "
           + ", ".join(INGEST_REFUSAL_REASONS)
-          + "; 0 restatements of the vocabulary found outside this module")
+          + f"; {len(restatements)} restatements of the vocabulary found outside this module")
     return 0
 
 
@@ -442,6 +453,13 @@ def _proof_a_restatement_is_caught(check) -> None:
     # THE FLOOR: no partition this module declares is one word, so a single-word literal
     # names one status for one purpose and restates nothing -- `_REGISTRY_STATUSES =
     # ("needs_registry",)` (review_queue.py) is this shape on the real tree and must not fire.
+    # That claim is gated here, not just asserted in a comment: the day a declared partition
+    # narrows to one word, this fails instead of the floor silently going blind on exactly
+    # the restatement shape it exists to catch (a guard firing on the wrong condition).
+    check(f"THE FLOOR'S OWN PREMISE: no declared partition is narrower than "
+          f"_MIN_RESTATEMENT_SIZE ({_MIN_RESTATEMENT_SIZE})",
+          min(len(p) for p in (HELD_INGEST_STATUSES, REVIEW_QUEUE_INGEST_STATUSES,
+                               INGEST_REFUSAL_REASONS)) >= _MIN_RESTATEMENT_SIZE)
     one_word = 'REGISTRY = ("needs_registry",)\n'
     check("...but a single-word literal is not a restatement and is not caught",
           not check_restatements(restated_vocabulary_sites({"synthetic": one_word})))
