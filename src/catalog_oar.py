@@ -86,7 +86,7 @@ import yaml
 
 import write_site_scan
 from check_rule_ledger import RuleLedger
-from ingest_status import INGEST_STATUS_VALUES
+from ingest_status import HELD_INGEST_STATUSES, INGEST_STATUS_VALUES
 from repo_lib import REPO_ROOT, Checks, division_status, oar_rule_path
 
 OARD_BASE = "https://secure.sos.state.or.us/oard"
@@ -739,7 +739,13 @@ def _all_rows(cat: dict):
 # `not_ingested` was left off this tuple, so a `not_ingested` row carrying a `path` passed
 # `path-matches-ingest-status` silently. Verified live before this fix: a `not_ingested` row
 # with a `path` attached, run through `check_row_shape`, produced zero failures.
-_FETCHED_STATUSES = ("ingested", "renumbered")
+#
+# `ingest_status.HELD_INGEST_STATUSES`, IMPORTED RATHER THAN RESTATED (#394): this used to
+# be its own literal `("ingested", "renumbered")` -- byte-identical to `HELD_INGEST_STATUSES`
+# today, and the exact #336 restatement shape recurring a FOURTH time with nothing watching
+# for it, caught only once `ingest_status.restated_vocabulary_sites()` turned the AST scan
+# that found #336's three into a rule that runs on every PR.
+_FETCHED_STATUSES = HELD_INGEST_STATUSES
 _NOTHING_FETCHED_STATUSES = tuple(s for s in INGEST_STATUS_VALUES if s not in _FETCHED_STATUSES)
 
 

@@ -372,6 +372,23 @@ corpus-wide changes from 2026-08-02 forward.
   carry no occurrence at all. No repo reads the key for a live join.
 
 ### Fixed
+- 2026-09-10 — **#394: the AST scan that found #336's three ingest-status restatements was a
+  one-time review technique, run by hand, never turned into a gated rule** — so a fourth
+  restatement the same shape would sail through uncaught. `ingest_status.py` gains
+  `restated_vocabulary_sites()`/`check_restatements()` (`ingest-vocabulary-not-restated`,
+  wired into the existing `ingest_status.py --check` gate), which walks every other
+  `src/*.py` module for a literal tuple/set/list restating two or more
+  `INGEST_STATUS_VALUES` words in production code — reusing `write_site_scan.walk_production`
+  / `externally_referenced_names` (#339) rather than a second AST walker, so a fixture inside
+  some OTHER module's own `selftest` (`seed_oar_watch.py`, `review_queue.py` both widen the
+  shared partition this way to prove they notice) is excluded the same way #339 already
+  proved, not misreported as a new restatement.
+
+  **Found a real fourth restatement running it**: `catalog_oar._FETCHED_STATUSES =
+  ("ingested", "renumbered")` — byte-identical to `ingest_status.HELD_INGEST_STATUSES`, hand-
+  typed rather than imported, agreeing with the declaration only because nobody had widened
+  `HELD_INGEST_STATUSES` yet. Now imports `HELD_INGEST_STATUSES` directly. No committed data
+  changed; `_NOTHING_FETCHED_STATUSES` (derived from it) is unchanged in value.
 - 2026-09-10 — **#339: `catalog_oar.py`'s `FIELDS` table declared each field's `writers` and
   gated none of it.** `FieldSpec.writers` (added by #334) read like a declared, gated fact
   — "`ingest_oar.py` is the only writer of `path`" — but nothing checked it: adding a
