@@ -46,14 +46,17 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   see it. An empty list means this registry places the body under no other. absent_from_index_as_of, where
   present, is a DATED OBSERVATION -- not a derived fact -- that a real, successful --refresh did not find
   this row in the live index as of that day; it carries the row whole across the refresh that recorded
-  it, is never written by anything but --refresh (src/catalog_agencies.py itself), and stays null until
-  a real refresh has recorded one, which CONTEXT.md''s overriding rule requires: ''could not check'' is
-  never reported as ''is not there''. It marks eighteen rows today, including two (chapters 419, 950)
-  that DO carry an oar_chapter -- a mirror gap, not a chapterless body. `manual`, its predecessor, is
-  retired (#169): no row may carry it, whether or not this field does. enabling_authority, where present,
-  is what created the body — an ORS citation, a constitutional article, or an executive order (ADR 0003)
-  — or `none: ` and the reason there is none. It is hand-reviewed (src/link_enabling_authority.py), is
-  NOT scraped, and is preserved across --refresh. An ABSENT enabling_authority means nobody has reviewed
+  it. It has exactly two writers, and both date it from a REAL recorded fetch, never from today''s date
+  read inline: --refresh (src/catalog_agencies.py''s record_absence_observations()) dates it the day of
+  the fetch that just ran, and src/link_budget_codes.py''s _absent_entry() stamps the SAME already-recorded
+  observation''s own date onto a MANUAL_ENTRIES row it adds, refusing outright if no observation has ever
+  been recorded. It stays null until one of those two has run, which CONTEXT.md''s overriding rule requires:
+  ''could not check'' is never reported as ''is not there''. It marks eighteen rows today, including two
+  (chapters 419, 950) that DO carry an oar_chapter -- a mirror gap, not a chapterless body. `manual`,
+  its predecessor, is retired (#169): no row may carry it, whether or not this field does. enabling_authority,
+  where present, is what created the body — an ORS citation, a constitutional article, or an executive
+  order (ADR 0003) — or `none: ` and the reason there is none. It is hand-reviewed (src/link_enabling_authority.py),
+  is NOT scraped, and is preserved across --refresh. An ABSENT enabling_authority means nobody has reviewed
   this body yet; it never means the body has no enabling authority, which is what the `none: ` form says
   and says with a reason. oar_chapter is the OAR chapter this body''s rules are filed under, scraped from
   the index tree; null on the chapterless rows is not a gap — a body is in this registry because it EXISTS,
@@ -2445,4 +2448,3 @@ organizations:
   relations: []
   das_agency_number: '690'
   enabling_authority: ORS 536.039
-

@@ -194,8 +194,10 @@ CHECK_RULES = (
     "index-relation-is-regenerated", "parent-agrees",
     # the two things a sibling corpus joins on, claimed twice
     "unique-slug", "unique-chapter",
-    # the registry's own top-level `note`, checked three ways
+    # the registry's own top-level `note`, checked three ways, and the recorded index
+    # observation's own age against the file it is being used to judge
     "note-covers-fields", "note-agrees-with-refresh", "note-numbers-current",
+    "index-observation-stale",
     # a ROW's own `note` (a different field of the same name), checked against the shape
     # only cmd_refresh() can write
     "note-scrape-shape",
@@ -559,9 +561,14 @@ REGISTRY_NOTE = (
     "absent_from_index_as_of, where present, is a DATED OBSERVATION -- not a "
     "derived fact -- that a real, successful --refresh did not find this row "
     "in the live index as of that day; it carries the row whole across the "
-    "refresh that recorded it, is never written by anything but --refresh "
-    "(src/catalog_agencies.py itself), and stays null until a real refresh has "
-    "recorded one, which CONTEXT.md's overriding rule requires: 'could not "
+    "refresh that recorded it. It has exactly two writers, and both date it "
+    "from a REAL recorded fetch, never from today's date read inline: "
+    "--refresh (src/catalog_agencies.py's record_absence_observations()) dates "
+    "it the day of the fetch that just ran, and src/link_budget_codes.py's "
+    "_absent_entry() stamps the SAME already-recorded observation's own date "
+    "onto a MANUAL_ENTRIES row it adds, refusing outright if no observation "
+    "has ever been recorded. It stays null until one of those two has run, "
+    "which CONTEXT.md's overriding rule requires: 'could not "
     "check' is never reported as 'is not there'. It marks eighteen rows "
     "today, including two (chapters 419, 950) that DO carry an oar_chapter -- "
     "a mirror gap, not a chapterless body. `manual`, its predecessor, is "
@@ -2123,8 +2130,8 @@ def record_index_observation(entries, path=None) -> None:
 
 def load_index_observation(path=None):
     """What the last REAL, successful fetch of the index found — as
-    `{"chapters": {...}, "groups": {...}}` — or `None` if no real fetch has ever recorded
-    one.
+    `{"chapters": {...}, "groups": {...}, "retrieved": "YYYY-MM-DD"}` — or `None` if no real
+    fetch has ever recorded one.
 
     `None` IS NOT "EMPTY", and the difference is the whole point (CONTEXT.md, "could not
     check is never reported as is not there"). A recorded observation with empty sets is a
@@ -2134,13 +2141,103 @@ def load_index_observation(path=None):
     against" — silence, not a verdict either way — exactly the way every other unestablished
     fact in this registry stays silent rather than defaulting to an answer.
 
+    `retrieved` IS RETURNED, NOT DISCARDED (code review of #353). It used to be read off
+    disk and then dropped, so a one-day-old observation and a one-year-old one were
+    indistinguishable to every consumer — `cmd_check()` printed "recorded by the last
+    --refresh" with no date at all, and `link_budget_codes.py`'s `_absent_entry()` had
+    nothing honest to date a new row from and stamped `date.today()` instead, which is
+    exactly the substitution this field's own split exists to prevent, one level up. Every
+    consumer that only compared `chapters`/`groups` (`_row_in_index_observation()`,
+    `simulate_refresh()`) still works unchanged — this only adds a third key nothing before
+    this review read.
+
     `path` is a PARAMETER for the same reason `record_index_observation()`'s is."""
     path = INDEX_OBSERVATION if path is None else path
     if not path.exists():
         return None
     obs = yaml.safe_load(path.read_text()) or {}
     return {"chapters": set(obs.get("chapters") or ()),
-            "groups": set(obs.get("groups") or ())}
+            "groups": set(obs.get("groups") or ()),
+            "retrieved": obs.get("retrieved")}
+
+
+def _fetch_failure_would_rename_slug(orgs, prev_orgs) -> list:
+    """[(prev_slug, new_slug, chapter), ...] for every chapter where a `NOTE_FETCH_FAILED`
+    row in THIS scrape's `orgs` would slugify to something OTHER than the slug already
+    committed for that same chapter (code review of #353).
+
+    THE MECHANISM: `scraped_entry()`'s slug is `slugify(oar_name)`, and a chapter-page fetch
+    failure leaves `oar_name` at the ABBREVIATED index name instead of the page's own title
+    -- a different string, so very possibly a different slug. `record_index_observation()`'s
+    own docstring says correctly that such a failure "never removes a row from `entries`",
+    but a row surviving in `entries` is not the same as it surviving under its COMMITTED
+    SLUG: `preserve_curated()`, `preserve_relations()` and `preserve_name()` all key on
+    `by_slug`, so a renamed row is one they all silently miss, and the chapter is written
+    out under a fresh slug carrying none of the old row's curated fields, relations,
+    das_agency_number, or enabling_authority -- exactly the un-noticed cross-corpus-join
+    loss this whole chain exists to close, and a genuinely transient failure at that: the
+    chapter is still in the index, the fetch just did not answer today.
+
+    A CHAPTER IS THE JOIN KEY HERE, NOT THE SLUG ITSELF -- the committed slug for the SAME
+    oar_chapter is what a same-day success would have produced too, so any mismatch is the
+    fetch failure's fault, never a real upstream rename (a real rename would be a fresh
+    chapter-page title on a SUCCESSFUL fetch, which this function never even looks at)."""
+    prev_slug_by_chapter = {o.get("oar_chapter"): o.get("slug") for o in prev_orgs
+                            if isinstance(o, dict) and o.get("oar_chapter")}
+    renames = []
+    for o in orgs:
+        ch = o.get("oar_chapter")
+        note = o.get("note") or ""
+        if ch and note.startswith("chapter page fetch failed"):
+            prev_slug = prev_slug_by_chapter.get(ch)
+            if prev_slug is not None and prev_slug != o.get("slug"):
+                renames.append((prev_slug, o["slug"], ch))
+    return renames
+
+
+def _assert_parse_plausible(entries, prev_orgs) -> None:
+    """Refuse to record an index observation, or write anything, when a fetch returned so
+    few entries that it looks like a truncated or substituted response rather than a real
+    drop in Oregon's rules index (code review of #353).
+
+    `get()` raises on a transport/HTTP error, so this guard covers the one failure mode
+    that slips past that already-trusted response: a 200 carrying a WAF page, a truncated
+    body, or a substituted document, which parses to few or zero entries and would
+    otherwise be written down as an authoritative observation by `record_index_
+    observation()` right after this runs -- dating every committed row the short parse
+    failed to produce as observed-absent, permanently, in committed data. `simulate_
+    refresh()` reads that same observation on the next --check and would then report "0
+    contradicted", since the check has nothing truer to compare it to either: a fetch that
+    could not really check is not the same fact as the index genuinely omitting a row
+    (CONTEXT.md), and this is the one place `cmd_refresh()` can still tell them apart before
+    the difference is lost to a committed date.
+
+    THE FLOOR IS HALF OF WHAT THE COMMITTED REGISTRY EXPECTS A LIVE SCRAPE TO STILL PRODUCE
+    -- rows not already recorded absent from some earlier, real observation, since those are
+    the only ones a scrape is expected to still list today. Half, not all: a real index
+    reorganization could plausibly drop a meaningful minority of chapters in one honest
+    pass, and this guard exists to catch a WAF page or an empty body, not to freeze the
+    index against ever shrinking.
+
+    NO PRIOR REGISTRY MEANS NOTHING TO COMPARE AGAINST — the first --refresh this repo ever
+    runs has no committed file yet, and a floor here would make that first run impossible
+    rather than merely cautious.
+
+    EXTRACTED so --selftest can prove this fires against a synthetic short `entries` list
+    with no network fetch at all, the same reason `_absent_from_this_scrape()` and the
+    other shared predicates in this module are their own functions rather than inline
+    checks."""
+    if not prev_orgs:
+        return
+    expected = sum(1 for o in prev_orgs
+                   if isinstance(o, dict) and not o.get(ABSENT_FROM_INDEX_KEY))
+    floor = expected // 2
+    if len(entries) < floor:
+        sys.exit(f"index parse produced only {len(entries)} entries; the committed "
+                 f"registry expects at least {floor} (half of the {expected} rows it "
+                 "records as still in the live index) -- this looks like a truncated or "
+                 "substituted fetch, not a real drop in Oregon's rules index. Nothing was "
+                 "written.")
 
 
 def cmd_refresh():
@@ -2155,13 +2252,25 @@ def cmd_refresh():
           f"({sum(1 for e in entries if e[2] is not None)} sub-units); "
           f"fetching proper names from chapter pages...")
 
+    prev_orgs = (yaml.safe_load(CATALOG.read_text()).get("organizations", [])
+                if CATALOG.exists() else [])
+    # A SHORT OR EMPTY PARSE, CAUGHT BEFORE ANYTHING IS RECORDED (code review of #353): see
+    # `_assert_parse_plausible()`. Run against `prev_orgs` as committed BEFORE this refresh,
+    # the same argument `record_absence_observations()` reads a few lines below.
+    _assert_parse_plausible(entries, prev_orgs)
+
     # RECORDED HERE, NOT AFTER THE CHAPTER-PAGE FETCHES BELOW. What the index itself lists
     # is already fully known from `entries` -- the per-chapter fetches below only refine a
     # NAME, and a name-fetch failure (NOTE_FETCH_FAILED) never removes a row from `entries`,
     # so it must never be able to make this observation record a chapter as absent either.
-    # Reached only because `get(INDEX_URL)` and `parse_index()` already succeeded above --
-    # see `record_index_observation()`'s docstring for why that is what keeps "unreachable"
-    # from ever being written down as "omitted".
+    # (A fetch failure CAN still change the SLUG a chapter is committed under, which is a
+    # different failure this function does not touch at all -- see `_fetch_failure_would_
+    # rename_slug()`, checked later in this function, after the fetches below have run.)
+    # Reached only because `get(INDEX_URL)` and `parse_index()` already succeeded above, AND
+    # `_assert_parse_plausible()` just above found the parse plausible -- see `record_index_
+    # observation()`'s docstring for why that is what keeps "unreachable" from ever being
+    # written down as "omitted", and the guard just above for the one thing that check alone
+    # could not catch (a 200 response carrying too little to be real).
     record_index_observation(entries)
 
     # Fetch proper names for every chaptered entry
@@ -2238,8 +2347,19 @@ def cmd_refresh():
 
     assert_scrape_declared(orgs)
 
-    if CATALOG.exists():
-        prev_orgs = yaml.safe_load(CATALOG.read_text()).get("organizations", [])
+    if prev_orgs:
+        # A TRANSIENT NAME-FETCH FAILURE MUST NEVER SILENTLY RENAME A COMMITTED SLUG (code
+        # review of #353): see `_fetch_failure_would_rename_slug()`. Run BEFORE anything is
+        # preserved or written — a rename here would move a chapter's curated fields onto a
+        # fresh row the preserve_* calls below have never heard of, un-noticed, and this is
+        # the last point before that would happen.
+        renames = _fetch_failure_would_rename_slug(orgs, prev_orgs)
+        if renames:
+            sys.exit("a transient chapter-page fetch failure would rename a committed "
+                     "slug: " + "; ".join(f"{p!r} -> {n!r} (chapter {c})"
+                                          for p, n, c in renames) +
+                     " -- this is COULD-NOT-CHECK, not a real rename (CONTEXT.md); nothing "
+                     "was written. Retry the refresh.")
         # DATE THE OBSERVATION BEFORE CARRYING THE ROW (#353): a row absent from THIS real
         # scrape is dated here — the only place this module ever writes today's date onto
         # this field, because this is the only place a real fetch has just happened — and
@@ -2776,6 +2896,33 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None,
         return [Failure("registry-populated", "agencies.yml",
                         "no bodies at all — every other rule is vacuously true of an "
                         "empty registry, so nothing was checked")]
+
+    # THE OBSERVATION'S OWN AGE, AGAINST THE REGISTRY FILE IT IS BEING USED TO JUDGE (code
+    # review of #353). `index_observation["retrieved"]` is when a REAL fetch happened; the
+    # registry file's own top-level `retrieved` is when the --refresh that wrote THIS file
+    # ran. A recorded observation older than the very file it is judging is stale evidence
+    # read as current: `absence_census()` would report "0 contradicted by the last recorded
+    # observation" on the strength of a look that predates what it is supposedly still
+    # checking, and `simulate_refresh()` would drop a row against a fetch nobody has redone
+    # since. Every other consumer of `index_observation` compares it to ROW data
+    # (`_row_in_index_observation()`); this is the one place its own date is compared to
+    # anything at all.
+    #
+    # ONLY COMPUTABLE WHEN BOTH DATES ARE PRESENT — never a guess when one is missing. The
+    # synthetic `_fixture()` carries no top-level `retrieved` (it does not stand for a real
+    # refreshed file), and `index_observation=None` already has its own reported state
+    # (`absence_census()`'s "not checked"); this rule adds nothing in either case rather than
+    # inventing an ordering neither side actually states.
+    file_retrieved = cat.get("retrieved") if isinstance(cat, dict) else None
+    obs_retrieved = index_observation.get("retrieved") if index_observation is not None else None
+    if (isinstance(file_retrieved, str) and isinstance(obs_retrieved, str)
+            and obs_retrieved < file_retrieved):
+        failures.append(Failure(
+            "index-observation-stale", "agencies.yml",
+            f"the recorded index observation is dated {obs_retrieved!r}, older than the "
+            f"registry file's own {file_retrieved!r} — row survival and absence claims "
+            "were just checked against a fetch that predates the very file it is judging; "
+            "run --refresh again to record a current observation"))
 
     # THE REGISTRY'S OWN `note`, AGAINST THE FIELDS IT ACTUALLY DECLARES (#185). `note` is
     # this file's top-level self-description — read by three sibling corpora — and nothing
@@ -3516,7 +3663,8 @@ def cmd_check(catalog_path=None) -> int:
     # #353's history to tell which one a run just made.
     print("index observation: " +
           (f"{len(index_observation['chapters'])} chapter(s), "
-           f"{len(index_observation['groups'])} group(s) (recorded by the last --refresh)"
+           f"{len(index_observation['groups'])} group(s), retrieved "
+           f"{index_observation.get('retrieved')!r} (last --refresh)"
            if index_observation is not None else
            "none recorded yet -- row survival checked only against the committed file"))
     # THE ABSENCE-OBSERVATION SPLIT ITSELF, PRINTED (#353): how many rows the new dated
@@ -4535,13 +4683,103 @@ def _proof_index_observation_round_trips() -> int:
                                  path=path)
         got = load_index_observation(path=path)
         want = {"chapters": {"125", "122"},
-               "groups": {"Dept. of Consumer & Business Services"}}
+               "groups": {"Dept. of Consumer & Business Services"},
+               "retrieved": date.today().isoformat()}
         if got != want:
             print(f"FAIL index-observation-round-trips: recorded {want!r}, read back "
                   f"{got!r}", file=sys.stderr)
             bad += 1
     finally:
         path.unlink(missing_ok=True)
+    return bad
+
+
+def _proof_short_parse_is_refused() -> int:
+    """`_assert_parse_plausible()` (code review of #353) refuses a parse implausibly short
+    against what the committed registry expects a live scrape to still produce -- watched
+    both ways: a short synthetic `entries` list against a fixture-sized `prev_orgs` raises,
+    and a full-sized one does not, and neither does any size at all when `prev_orgs` is
+    empty (nothing committed yet to compare against)."""
+    bad = 0
+    prev_orgs = [{"slug": f"row-{i}", "oar_chapter": str(100 + i)} for i in range(20)]
+    try:
+        _assert_parse_plausible([("100", "Row 0", None)], prev_orgs)
+        print("FAIL short-parse-is-refused: no SystemExit raised for 1 entry against 20 "
+              "committed rows", file=sys.stderr)
+        bad += 1
+    except SystemExit:
+        pass
+    try:
+        full_entries = [(str(100 + i), f"Row {i}", None) for i in range(20)]
+        _assert_parse_plausible(full_entries, prev_orgs)
+    except SystemExit as e:
+        print(f"FAIL short-parse-is-not-refused-when-plausible: {e}", file=sys.stderr)
+        bad += 1
+    try:
+        _assert_parse_plausible([], [])
+    except SystemExit as e:
+        print(f"FAIL short-parse-has-nothing-to-compare-with-no-prior-registry: {e}",
+              file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_fetch_failure_does_not_silently_rename_a_committed_slug() -> int:
+    """`_fetch_failure_would_rename_slug()` (code review of #353) reports a chapter whose
+    committed slug a `NOTE_FETCH_FAILED` row in this scrape would silently replace --
+    watched both ways: the failure-note row with a different slug is reported, and the
+    same row with its slug UNCHANGED, or carrying no fetch-failure note at all, is not."""
+    bad = 0
+    prev_orgs = [{"slug": "department-of-administrative-services", "oar_chapter": "125"}]
+    renamed = [{"slug": "dept-of-admin-svcs", "oar_chapter": "125",
+               "note": NOTE_FETCH_FAILED.format(error="timed out")}]
+    got = _fetch_failure_would_rename_slug(renamed, prev_orgs)
+    if got != [("department-of-administrative-services", "dept-of-admin-svcs", "125")]:
+        print(f"FAIL fetch-failure-rename-is-detected: {got!r}", file=sys.stderr)
+        bad += 1
+    unchanged = [{"slug": "department-of-administrative-services", "oar_chapter": "125",
+                 "note": NOTE_FETCH_FAILED.format(error="timed out")}]
+    if _fetch_failure_would_rename_slug(unchanged, prev_orgs):
+        print("FAIL fetch-failure-with-the-same-slug-is-not-reported: "
+              f"{_fetch_failure_would_rename_slug(unchanged, prev_orgs)!r}", file=sys.stderr)
+        bad += 1
+    clean = [{"slug": "dept-of-admin-svcs", "oar_chapter": "125", "note": None}]
+    if _fetch_failure_would_rename_slug(clean, prev_orgs):
+        print("FAIL a-slug-change-with-no-fetch-failure-note-is-not-this-guards-job: "
+              f"{_fetch_failure_would_rename_slug(clean, prev_orgs)!r}", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_stale_index_observation_is_flagged() -> int:
+    """`index-observation-stale` (code review of #353): a recorded index observation dated
+    OLDER than the registry file's own top-level `retrieved` is stale evidence, and
+    `check_registry()` must say so rather than silently checking every row's survival
+    against a look that predates the very file it is judging.
+
+    Watched both ways on one fixture: an observation older than the file fires; the same
+    file with an observation as new (or newer) does not, and neither does the pre-#353
+    default of no top-level `retrieved` on the fixture at all (`check_registry()`'s own
+    `_fixture()` never carries one, which every other proof in this file already runs
+    against with `index_observation` left at its default of `None` -- this is the one
+    place both a real date AND a real observation are supplied together)."""
+    cat = _fixture()
+    cat["retrieved"] = "2026-02-01"
+    bad = 0
+    stale = {"chapters": set(), "groups": set(), "retrieved": "2026-01-01"}
+    failures = check_registry(cat, chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS,
+                              index_observation=stale)
+    if not any(f.rule == "index-observation-stale" for f in failures):
+        print(f"FAIL index-observation-stale-fires: expected it in {failures}",
+              file=sys.stderr)
+        bad += 1
+    current = {"chapters": set(), "groups": set(), "retrieved": "2026-02-01"}
+    failures2 = check_registry(cat, chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS,
+                               index_observation=current)
+    if any(f.rule == "index-observation-stale" for f in failures2):
+        print(f"FAIL index-observation-stale-does-not-fire-when-current: {failures2}",
+              file=sys.stderr)
+        bad += 1
     return bad
 
 
@@ -5390,6 +5628,9 @@ def selftest() -> int:
     bad += _proof_missing_registry_is_refused()
     bad += _proof_simulate_refresh_reads_a_recorded_observation_not_the_committed_file()
     bad += _proof_index_observation_round_trips()
+    bad += _proof_stale_index_observation_is_flagged()
+    bad += _proof_short_parse_is_refused()
+    bad += _proof_fetch_failure_does_not_silently_rename_a_committed_slug()
     bad += _proof_record_absence_observations_dates_only_what_a_real_scrape_dropped()
     bad += _proof_absent_from_index_field_is_what_preserves_the_row()
     bad += _proof_absence_census_reports_rather_than_assumes()
