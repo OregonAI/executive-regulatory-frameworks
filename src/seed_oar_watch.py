@@ -136,12 +136,34 @@ def cmd_seed() -> int:
             # date would claim an observation this run did not make.
             "notes": f"{why}; baseline from the committed snapshot, not fetched",
         })
-    man["sources"] = sources
+    # SEEDING MAY ONLY ADD. Before ADR 0006 stated the watch policy (#308) this was
+    # `man["sources"] = sources`, a full replacement -- and once `ingest_oar.py` began
+    # registering every rule it mirrors, the two writers modelled the manifest
+    # incompatibly: ingest accretes, seeding replaced. The next seeding run would have
+    # dropped the watch from 6,614 to the ~1,077 this function builds (477 named + 600
+    # sampled), silently un-watching 5,608 rules that were enrolled on purpose. Nothing
+    # here would have failed; `corpus-detect-changes` would simply have stopped looking,
+    # which is the exact "could not check reported as is not there" this repo refuses.
+    #
+    # The policy makes the resolution unambiguous: every rule this corpus mirrors is
+    # watched, so a rule that is already watched is never removed by a reseed. The rolling
+    # sample adds coverage; it does not define the set.
+    by_id = {s["id"]: s for s in (man.get("sources") or [])}
+    added = 0
+    for s in sources:
+        if s["id"] not in by_id:
+            by_id[s["id"]] = s
+            added += 1
+    dropped = sorted(set(by_id) - {s["id"] for s in sources})
+    man["sources"] = [by_id[k] for k in sorted(by_id)]
     man["sample_cursor"] = nxt
     man["seeded_from"] = worklist.get("bulletin")
     MANIFEST.write_text(yaml.safe_dump(man, sort_keys=False, allow_unicode=True, width=110))
     print(f"seeded {len(sources)} source(s): {len(named)} named by "
           f"{worklist.get('bulletin')}, {len(sample)} rolling sample; cursor -> {nxt}.")
+    print(f"  manifest now holds {len(man['sources'])} source(s): {added} added this run, "
+          f"{len(dropped)} already-watched rule(s) KEPT that this run did not name or "
+          f"sample (they stay watched -- seeding adds, it does not replace).")
     if missing:
         print(f"  {len(missing)} rule(s) the corpus holds no snapshot for were SKIPPED "
               f"rather than watched against nothing: {', '.join(missing[:5])}"
@@ -200,16 +222,27 @@ def cmd_check() -> int:
     watched = {s["id"][4:] for s in man.get("sources") or []}
     held = held_rules(catalog)
     named = named_by(worklist) & set(held)
-    sample = watched - named
-    months = (len(held) + max(len(sample), 1) - 1) // max(len(sample), 1)
+    # `watched - named` is NOT the rolling sample. It is every watched rule the CURRENT
+    # bulletin did not name, which since #238 also contains the thousands `ingest_oar.py`
+    # registered permanently. Those do not rotate, so counting them as sample made the
+    # coverage velocity below read ~10x faster than it is (6,137 -> "every 7 runs", when
+    # only SAMPLE_SIZE rotates and the true figure is ~71). A stated figure that overstates
+    # what is actually revisited is the failure this file's own gates exist to prevent.
+    unnamed = watched - named
+    rotating = min(SAMPLE_SIZE, len(unnamed))
+    enrolled = len(unnamed) - rotating          # permanent, from ingestion — never revisited by rotation
+    months = (len(held) + max(rotating, 1) - 1) // max(rotating, 1)
     print(f"OAR hash watch: {len(watched)} rule(s) — {len(watched & named)} named by "
-          f"{worklist.get('bulletin')}, {len(sample)} rolling sample, of {len(held):,} held.")
+          f"{worklist.get('bulletin')}, {enrolled} enrolled at ingest, {rotating} rolling "
+          f"sample, of {len(held):,} held.")
     both = len(watched & named)
     print(f"  {both} rule(s) are in BOTH signals — " + (
         "all four of ADR 0006's cases are reachable." if both else
         "so `filed but not yet served` and `agreement` CANNOT occur (#247)."))
-    print(f"  at {len(sample)} sampled per run the whole mirror is visited once every "
+    print(f"  at {rotating} rotating per run the whole mirror is visited once every "
           f"{months} run(s); cursor at {man.get('sample_cursor')}.")
+    print(f"  {len(held) - len(watched):,} held rule(s) are enrolled in nothing and are "
+          f"reached only by that rotation (ADR 0006; backfill is #402).")
 
     if bad:
         print()
