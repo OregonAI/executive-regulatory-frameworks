@@ -18,18 +18,43 @@ was scaffolding for a mirror that was too incomplete to watch wholesale, not a s
 a subset is the right thing to watch. `ingest_oar.py` registering every rule it mirrors is
 therefore the policy working, not a side effect to be undone.
 
-**The policy is not yet the practice, and this paragraph will not pretend otherwise.** Today
-**6,614 rule pages across 136 chapters are watched — 15.5% of the 42,561 rule documents on
-disk**, across 170 mirrored chapters. Of those 6,614, 1,006 carry the #256 seeding (406
-Bulletin-named, 600 sampled) and 5,608 arrived with #238's ingest. The remaining **35,947
-rules were mirrored before `ingest_oar.py` registered what it ingested**, and nothing has
-enrolled them since. Backfilling them is #402: a 6.4x increase in per-run hashing, which is a
-cost to price rather than a consequence to inherit silently.
+**The binding constraint is a request budget, not a coverage fraction.** #402 priced the
+backfill and the arithmetic decides this. `corpus_toolkit.sources.fetch` holds
+`MIN_INTERVAL = 2.0` seconds between requests **to the same host**, and every OAR rule page
+is on one host, `secure.sos.state.or.us`. The watch therefore costs **1,800 pages per hour,
+serially, and cannot be parallelised without abandoning that interval** — which is not on the
+table. Today's 6,614 pages is **3.7 hours per run**. Enrolling all 42,561 would be **23.6
+hours per run, 42,561 requests a week to a single state server.**
 
-**Until that backfill lands, the rolling sample stays.** It is the only mechanism that reaches
-the 35,947 — it walks the whole mirror, not the watched set, so retiring it as "redundant under
-the new policy" would take those rules from *visited once every ~71 runs* to *never visited*.
-The sample retires when the backfill makes it genuinely redundant, and not before.
+**That is refused, on politeness grounds, and recorded here rather than deferred.** The cost
+would not be ours; it would be imposed on the Secretary of State, to detect changes that for
+the Bulletin-named half Oregon *already announces*. Hashing is the backstop for change nobody
+filed. A backstop does not have to be exhaustive to be honest — it has to be **stated**.
+
+So the watch is defined by four rules, in this order:
+
+1. **Every rule the Bulletin names is watched.** Unconditional, unaffected by any budget —
+   477 this month.
+2. **Every rule `ingest_oar.py` enrols stays watched.** Accretive, and why coverage rises on
+   its own as the mirror is re-ingested.
+3. **The rolling sample is sized to fill the remaining request budget**, not to reach a
+   coverage percentage.
+4. **Full enrolment of the 35,947 is refused**, for the arithmetic above, until either the
+   interval or the corpus's relationship with the host changes.
+
+Today that yields **6,614 rule pages across 136 chapters — 15.5% of the 42,561 rule documents
+on disk**, across 170 mirrored chapters. Of those 6,614, 1,006 carry the #256 seeding (406
+Bulletin-named, 600 sampled) and 5,608 arrived with #238's ingest.
+
+This is **not** "watch a subset because it is cheaper." Rule 1 is unconditional, rule 2 means
+the number grows without anyone deciding to grow it, and rule 4 makes the refusal legible.
+*Could not check is never reported as is not there* — and a stated budget says exactly what is
+and is not being observed, which is the opposite of the paragraph #308 was filed against.
+
+**The rolling sample therefore does not retire.** It is the only mechanism that reaches the
+35,947 — it walks the whole mirror, not the watched set, so retiring it would take those rules
+from *visited once every ~71 runs* to *never visited*. Under a budget rather than a backfill,
+that rotation is permanent infrastructure, not a transitional measure.
 
 We decided the two run **side by side**, and that neither is the arbiter of the other.
 
@@ -78,10 +103,12 @@ silent correction would touch; the cursor advances and wraps, so at 600 a run th
 mirror is visited once every **71** runs — stated rather than implied, and a far weaker
 guarantee than the named half.
 
-Under the policy stated above the sample is **transitional**, and its weakness is now its
-whole justification: it is the only coverage the 35,947 un-enrolled rules have. Every rule
-#402's backfill enrols moves from that 71-run cycle to per-run hashing, and the sample shrinks
-to what remains. It retires when nothing remains, not when the policy is written down.
+Under the policy stated above the sample is **permanent**, and its weakness is now its whole
+justification: it is the only coverage the 35,947 un-enrolled rules have, and #402 decided
+they stay un-enrolled because the alternative is 23.6 hours of requests a week to one state
+server. The sample shrinks only as `ingest_oar.py` enrols rules by re-ingesting them. It does
+not retire — under a request budget there is no point at which nothing remains for it to
+reach.
 
 `src/seed_oar_watch.py --check` fails if a rule this bulletin named and this corpus holds is
 not watched, and `src/oar_watch_coverage.py --check` fails if this paragraph and the manifest
