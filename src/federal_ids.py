@@ -70,6 +70,33 @@ IRS_REV = re.compile(r"\b(?:rev(?:ision)?\.?\s*)?(\d{1,2})\s*[-/]\s*(\d{4})\b", 
 CJIS = re.compile(r"\bCJIS(?:\s+Security)?(?:\s+Policy|\s+SP)?\.?\s*"
                   r"(?:v(?:ersion)?\.?\s*)?(?P<ver>\d+(?:\.\d+){0,2})?", re.I)
 
+# `ARC-AMPE`, `ARC-AMPE Vol. I`, `ARC AMPE Volume 1`. CMS's control set for state entities
+# running Exchanges, Medicaid, CHIP and BHP.
+#
+# VOLUME IS NOT VERSION, so it is NOT in the id. CJIS above puts the version in the id
+# because CJIS 5.9.4 and 6.1 state different requirements and a citation to one must never
+# resolve to the other. ARC-AMPE's volumes are PARTS OF ONE EDITION published together --
+# Vol. I is the control catalogue, the others are companions. A citation naming a volume is
+# naming a section of the same instrument, the same way `(b)(1)(A)` names a subsection of a
+# U.S.C. section and is deliberately ignored there. Splitting on volume would mint ids no
+# Oregon rule cites and leave `ARC-AMPE` alone deriving nothing.
+#
+# Supersedes MARS-E: ARC-AMPE Vol. I fn. 6 states it "supersedes and replaces MARS-E and the
+# NEE GRC Framework effective upon publication." MARS-E citations are NOT mapped here -- a
+# superseded instrument and its replacement are different documents, the same rule that keeps
+# a U.S.C. section off its public law.
+ARC_AMPE = re.compile(r"\bARC[\s-]?AMPE\b(?:\s*Vol(?:ume|\.)?\s*[IV\d]+)?", re.I)
+
+# `CISA CPGs`, `CISA CPG v1.0.1`, `Cross-Sector Cybersecurity Performance Goals`.
+#
+# VERSION IS IN THE ID, unlike ARC-AMPE and for CJIS's reason: CISA revises the CPGs and the
+# goals change between revisions. An unversioned citation derives nothing rather than
+# guessing -- federal-reference's own resolver can read frontmatter and answer it; a sibling
+# cannot, and picking whichever revision happens to be held is the substitution this file
+# exists to refuse.
+CISA_CPG = re.compile(r"\bCISA\s+CPGs?\b(?:\s*v(?:ersion)?\.?\s*(?P<ver>\d+(?:\.\d+){0,2}))?"
+                      r"|\bCross[\s-]Sector\s+Cybersecurity\s+Performance\s+Goals\b", re.I)
+
 
 def candidates(citation: str) -> list[str]:
     """Document ids a citation could name, most specific first. Never empty-guesses.
@@ -154,5 +181,19 @@ def candidates(citation: str) -> list[str]:
         # unversioned CJIS reference is answered by federal-reference's own resolver, not by
         # a sibling silently picking one.
         return [f"cjis-sp-{ver.replace('.', '-')}"] if ver else []
+
+    if ARC_AMPE.search(c):
+        # One id regardless of volume -- see the pattern's comment.
+        return ["arc-ampe"]
+
+    m = CISA_CPG.search(c)
+    if m:
+        ver = m.groupdict().get("ver")
+        # The held document is `cisa-cpg`, the v1.0.1 report. A citation naming a DIFFERENT
+        # version derives that version's id, which is simply absent from the index -- a
+        # correct miss, exactly as CJIS 5.9.4 is. An unversioned citation derives nothing.
+        if not ver:
+            return []
+        return ["cisa-cpg"] if ver == "1.0.1" else [f"cisa-cpg-{ver.replace('.', '-')}"]
 
     return []
