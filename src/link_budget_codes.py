@@ -37,6 +37,7 @@ THE MATCHER'S OWN BUGS, RECORDED because they are the reason not to trust one:
 from __future__ import annotations
 
 import sys
+from datetime import date
 
 import yaml
 
@@ -254,7 +255,13 @@ def load():
 
 
 def manual_slugs_present(cat) -> set:
-    return {o["slug"] for o in cat["organizations"] if o.get("manual")}
+    """Slugs the registry currently records as absent from the OAR index --
+    `absent_from_index_as_of` (#353), the field that carries a row whole across
+    `catalog_agencies.py --refresh` now that `manual: true` is retired (#169). Read
+    through the field's own name rather than re-declared here, so this module cannot
+    drift from what `catalog_agencies.py` actually preserves a row on."""
+    return {o["slug"] for o in cat["organizations"]
+            if o.get(catalog_agencies.ABSENT_FROM_INDEX_KEY)}
 
 
 def audit(cat) -> list[str]:
@@ -294,7 +301,17 @@ def audit(cat) -> list[str]:
     manual_slugs = {slug for slug, _, _ in MANUAL_ENTRIES}
     if len(manual_slugs) != len(MANUAL_ENTRIES):
         problems.append("MANUAL_ENTRIES contains a duplicate slug")
-    scraped = {o["slug"] for o in cat["organizations"] if not o.get("manual")}
+    # WHETHER THE MIRROR NOW INDEXES A SLUG, READ OFF `absent_from_index_as_of` (#353), NOT
+    # `manual` (#169 retires it). Before #353 this compared against `not o.get("manual")` --
+    # true until every MANUAL_ENTRIES slug also carried `manual: true`, which stopped being
+    # so the day #169 removed the flag: reading `not o.get("manual")` today would call every
+    # one of them "scraped" and fire a false collision here for all fourteen, since nothing
+    # sets that key on any row any more. `absent_from_index_as_of` is what a real --refresh
+    # now dates on a row it did not reproduce (`catalog_agencies.record_absence_
+    # observations()`), so a MANUAL_ENTRIES slug missing that field is one the mirror
+    # actually produced this run -- genuinely the collision this check exists to catch.
+    scraped = {o["slug"] for o in cat["organizations"]
+              if not o.get(catalog_agencies.ABSENT_FROM_INDEX_KEY)}
     for slug, name, code in MANUAL_ENTRIES:
         # Collision means the SCRAPE now produces this slug — the upstream mirror has
         # caught up and the manual entry is redundant. Compare against scraped entries
@@ -338,7 +355,67 @@ def audit(cat) -> list[str]:
     return problems
 
 
+def _absent_entry(slug, name, today=None):
+    """The row `main()` writes for a MANUAL_ENTRIES slug missing from the registry -- a
+    body that holds no OAR chapter, so the chapter scrape structurally cannot produce it,
+    ever, regardless of what oregon.public.law's index says on any given day.
+
+    CARRIED ACROSS `catalog_agencies.py --refresh` BY `absent_from_index_as_of` (#353), NOT
+    `manual: true` (#169 retires it): that flag used to be the only signal
+    `preserve_manual()` read to keep such a row whole, and this constructor was its other
+    writer -- the one place besides `cmd_refresh()` itself that put a row into the
+    committed file needing that whole-row protection. Retiring the flag without also
+    fixing this constructor would not have removed manual entries from the file; it would
+    have made this the one place still writing `manual: true` with no admitting evidence
+    behind it, which is exactly the substitution #169 exists to close off, and the very
+    next `--refresh` after this ran would have deleted every entry it wrote, un-noticed
+    until the next run silently re-added them in the same rejected state (this ticket's own
+    trigger).
+
+    `today` is a PARAMETER, not read from `date.today()` inline, so --selftest can pin a
+    date and assert against it instead of racing the clock."""
+    today = date.today().isoformat() if today is None else today
+    return dict(catalog_agencies.scraped_entry(
+        oar_name=name, oar_chapter=None, raw_index_name=name, source_url=None),
+        slug=slug,
+        **{catalog_agencies.ABSENT_FROM_INDEX_KEY: today})
+
+
+def _proof_absent_entry_writes_the_dated_field_not_manual() -> int:
+    """`_absent_entry()` (#169) writes `absent_from_index_as_of`, dated, on the row it
+    builds for a missing MANUAL_ENTRIES slug -- and never `manual`, the flag this
+    constructor used to write with no admitting evidence behind it (this ticket's own
+    trigger: a real --refresh would drop such a row, and the next run of this script would
+    silently re-add it in the same state --check rejects).
+
+    WATCHED FAILING before this fix existed: this proof is the one that turned red the
+    moment `_absent_entry()` still read `manual=True` -- restated in its own docstring so a
+    future reader does not have to git-log this file to find that out."""
+    bad = 0
+    entry = _absent_entry("test-slug", "Test Body", today="2026-09-12")
+    if entry.get(catalog_agencies.ABSENT_FROM_INDEX_KEY) != "2026-09-12":
+        print("FAIL absent-entry-dates-the-new-field: "
+              f"{entry.get(catalog_agencies.ABSENT_FROM_INDEX_KEY)!r}", file=sys.stderr)
+        bad += 1
+    if "manual" in entry:
+        print(f"FAIL absent-entry-does-not-write-manual: {entry!r}", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def selftest() -> int:
+    bad = _proof_absent_entry_writes_the_dated_field_not_manual()
+    if bad:
+        print(f"{bad} proof(s) did not hold", file=sys.stderr)
+        return 1
+    print("1 proof held: _absent_entry() writes absent_from_index_as_of, dated, and never "
+          "manual")
+    return 0
+
+
 def main() -> int:
+    if "--selftest" in sys.argv:
+        return selftest()
     check = "--check" in sys.argv
     cat = load()
     problems = audit(cat)
@@ -399,13 +476,7 @@ def main() -> int:
         # chapter title to differ from it, and copying it asserts nothing about what the
         # rules index prints. It is written because `oar_name` is the string consumers
         # join on from here (ADR 0003), and a row without one is a row those joins lose.
-        entry = dict(catalog_agencies.scraped_entry(
-            oar_name=name, oar_chapter=None, raw_index_name=name, source_url=None),
-            slug=slug,
-            # `manual` is what makes catalog_agencies.py --refresh keep it: the scrape
-            # cannot produce a body that issues no rules, so a refresh would otherwise
-            # delete every one of these.
-            manual=True)
+        entry = _absent_entry(slug, name)
         cat["organizations"].append(entry)
         by_slug[slug] = entry
         added += 1
