@@ -38,7 +38,7 @@ other.
 WHY EVERY ROW, INCLUDING THE MANUAL ONES. Seventeen rows are `manual` — bodies the chapter
 scrape cannot see, most of them holding no OAR chapter at all. They still get an `oar_name`,
 because the point of the field is that consumers can join on it: those slugs include ones
-oregon-kpm's agency crosswalk resolves into today (see preserve_manual in
+oregon-kpm's agency crosswalk resolves into today (see preserve_absent_from_index in
 catalog_agencies.py), and leaving them empty would mean the crosswalk loses them the moment
 it moves off `name`. What the value asserts is what `name` asserted before it — this is the
 string this registry publishes for that body — and copying it claims nothing about what the

@@ -254,7 +254,13 @@ def load():
 
 
 def manual_slugs_present(cat) -> set:
-    return {o["slug"] for o in cat["organizations"] if o.get("manual")}
+    """Slugs the registry currently records as absent from the OAR index --
+    `absent_from_index_as_of` (#353), the field that carries a row whole across
+    `catalog_agencies.py --refresh` now that `manual: true` is retired (#169). Read
+    through the field's own name rather than re-declared here, so this module cannot
+    drift from what `catalog_agencies.py` actually preserves a row on."""
+    return {o["slug"] for o in cat["organizations"]
+            if o.get(catalog_agencies.ABSENT_FROM_INDEX_KEY)}
 
 
 def audit(cat) -> list[str]:
@@ -294,7 +300,17 @@ def audit(cat) -> list[str]:
     manual_slugs = {slug for slug, _, _ in MANUAL_ENTRIES}
     if len(manual_slugs) != len(MANUAL_ENTRIES):
         problems.append("MANUAL_ENTRIES contains a duplicate slug")
-    scraped = {o["slug"] for o in cat["organizations"] if not o.get("manual")}
+    # WHETHER THE MIRROR NOW INDEXES A SLUG, READ OFF `absent_from_index_as_of` (#353), NOT
+    # `manual` (#169 retires it). Before #353 this compared against `not o.get("manual")` --
+    # true until every MANUAL_ENTRIES slug also carried `manual: true`, which stopped being
+    # so the day #169 removed the flag: reading `not o.get("manual")` today would call every
+    # one of them "scraped" and fire a false collision here for all fourteen, since nothing
+    # sets that key on any row any more. `absent_from_index_as_of` is what a real --refresh
+    # now dates on a row it did not reproduce (`catalog_agencies.record_absence_
+    # observations()`), so a MANUAL_ENTRIES slug missing that field is one the mirror
+    # actually produced this run -- genuinely the collision this check exists to catch.
+    scraped = {o["slug"] for o in cat["organizations"]
+              if not o.get(catalog_agencies.ABSENT_FROM_INDEX_KEY)}
     for slug, name, code in MANUAL_ENTRIES:
         # Collision means the SCRAPE now produces this slug — the upstream mirror has
         # caught up and the manual entry is redundant. Compare against scraped entries
@@ -338,7 +354,132 @@ def audit(cat) -> list[str]:
     return problems
 
 
+def _absent_entry(slug, name, observation):
+    """The row `main()` writes for a MANUAL_ENTRIES slug missing from the registry -- a
+    body that holds no OAR chapter, so the chapter scrape structurally cannot produce it,
+    ever, regardless of what oregon.public.law's index says on any given day.
+
+    CARRIED ACROSS `catalog_agencies.py --refresh` BY `absent_from_index_as_of` (#353), NOT
+    `manual: true` (#169 retires it): that flag used to be the only signal
+    `preserve_manual()` read to keep such a row whole, and this constructor was its other
+    writer -- the one place besides `cmd_refresh()` itself that put a row into the
+    committed file needing that whole-row protection. Retiring the flag without also
+    fixing this constructor would not have removed manual entries from the file; it would
+    have made this the one place still writing `manual: true` with no admitting evidence
+    behind it, which is exactly the substitution #169 exists to close off, and the very
+    next `--refresh` after this ran would have deleted every entry it wrote, un-noticed
+    until the next run silently re-added them in the same rejected state (this ticket's own
+    trigger).
+
+    `observation` IS A REAL, RECORDED FETCH -- `catalog_agencies.load_index_observation()`'s
+    return value, never `None` and never manufactured here (code review of #353: an earlier
+    version of this function stamped `date.today()` with no fetch and no observation behind
+    it, a second, silent writer of a field this module's own REGISTRY_NOTE claims only
+    `--refresh` ever writes -- exactly the substitution CONTEXT.md's overriding rule forbids,
+    "could not check" printed as "checked, and it's gone" the day nothing had actually looked
+    at the index at all). `main()` refuses to call this at all when no observation is on
+    disk. The date this writes is `observation["retrieved"]` -- the day THAT fetch actually
+    happened -- never today's date, which would be dishonest about a fetch that did not run
+    today.
+
+    VERIFIED GENUINELY ABSENT, NOT ASSUMED. These bodies are chapterless by construction (no
+    OAR chapter exists for the Governor's office, the Legislative Assembly, and so on), so
+    `raw_index_name` is the name itself, and the one thing worth checking against a REAL
+    observation is that the mirror has not started listing this exact name as a chapterless
+    group -- if it has, the mirror caught up and this is no longer a body the scrape cannot
+    see; refuse to write a stale claim over that instead of silently asserting it."""
+    if name in observation["groups"]:
+        sys.exit(f"{slug}: {name!r} IS listed in the recorded index observation's "
+                 "chapterless groups -- the mirror now carries this name, so it is no "
+                 "longer one this constructor may claim absent. Review by hand instead "
+                 "of adding it here.")
+    return dict(catalog_agencies.scraped_entry(
+        oar_name=name, oar_chapter=None, raw_index_name=name, source_url=None),
+        slug=slug,
+        **{catalog_agencies.ABSENT_FROM_INDEX_KEY: observation["retrieved"]})
+
+
+def _require_observation_or_exit(missing, observation) -> None:
+    """Refuse to proceed when `main()` has MANUAL_ENTRIES rows to add and no real, recorded
+    index observation exists to date them from. Extracted from `main()` so --selftest can
+    prove the refusal directly, with no CATALOG on disk and no call into `_absent_entry()`
+    at all -- watched red the moment the old code called `_absent_entry(slug, name)`
+    unconditionally, with no observation and no gate in front of it."""
+    if missing and observation is None:
+        sys.exit(f"no recorded index observation on disk (run "
+                 "`catalog_agencies.py --refresh` first) -- refusing to invent an "
+                 f"absent_from_index_as_of date for {len(missing)} missing MANUAL_ENTRIES "
+                 "row(s) with no real observation behind them")
+
+
+def _proof_main_refuses_missing_entries_with_no_observation() -> int:
+    """`main()`, via `_require_observation_or_exit()`, must refuse outright when there is a
+    MANUAL_ENTRIES row to add and no real index observation on disk -- and must NOT refuse
+    when nothing is missing, even with no observation on disk, since nothing would be dated
+    in that run at all."""
+    bad = 0
+    try:
+        _require_observation_or_exit(["some-missing-slug"], None)
+        print("FAIL main-refuses-missing-entries-with-no-observation: no SystemExit raised",
+              file=sys.stderr)
+        bad += 1
+    except SystemExit:
+        pass
+    try:
+        _require_observation_or_exit([], None)
+    except SystemExit:
+        print("FAIL main-only-refuses-when-something-is-missing: refused with nothing to "
+              "add", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_absent_entry_dates_the_observations_own_date_not_today() -> int:
+    """`_absent_entry()` (#169/#353 review) writes `observation["retrieved"]`, the day a
+    REAL fetch happened -- never `manual`, the flag this constructor used to write with no
+    admitting evidence behind it, and never `date.today()`, which would be dishonest about a
+    fetch that may have happened long before this script ran.
+
+    WATCHED FAILING before this fix existed: this proof is what turned red the moment
+    `_absent_entry()` stamped `date.today()` instead of the observation's own date -- restated
+    here so a future reader does not have to git-log this file to find that out."""
+    bad = 0
+    observation = {"chapters": set(), "groups": {"Some Other Group"}, "retrieved": "2026-01-01"}
+    entry = _absent_entry("test-slug", "Test Body", observation)
+    if entry.get(catalog_agencies.ABSENT_FROM_INDEX_KEY) != "2026-01-01":
+        print("FAIL absent-entry-dates-the-observations-own-date: "
+              f"{entry.get(catalog_agencies.ABSENT_FROM_INDEX_KEY)!r}", file=sys.stderr)
+        bad += 1
+    if "manual" in entry:
+        print(f"FAIL absent-entry-does-not-write-manual: {entry!r}", file=sys.stderr)
+        bad += 1
+    # THE OTHER HALF: a name the observation DOES list must be refused, not written.
+    observation2 = {"chapters": set(), "groups": {"Test Body"}, "retrieved": "2026-01-01"}
+    try:
+        _absent_entry("test-slug", "Test Body", observation2)
+        print("FAIL absent-entry-refuses-a-name-the-observation-lists: no SystemExit raised",
+              file=sys.stderr)
+        bad += 1
+    except SystemExit:
+        pass
+    return bad
+
+
+def selftest() -> int:
+    bad = _proof_absent_entry_dates_the_observations_own_date_not_today()
+    bad += _proof_main_refuses_missing_entries_with_no_observation()
+    if bad:
+        print(f"{bad} proof(s) did not hold", file=sys.stderr)
+        return 1
+    print("2 proofs held: _absent_entry() dates the observation's own date (never "
+          "today()/manual) and refuses a name the observation already lists; main() "
+          "refuses to add anything when no observation is recorded at all")
+    return 0
+
+
 def main() -> int:
+    if "--selftest" in sys.argv:
+        return selftest()
     check = "--check" in sys.argv
     cat = load()
     problems = audit(cat)
@@ -381,10 +522,15 @@ def main() -> int:
               if not bad else f"\n{bad} discrepancy(ies)")
         return 1 if bad else 0
 
+    missing = [(slug, name) for slug, name, _code in MANUAL_ENTRIES if slug not in by_slug]
+    # REFUSE OUTRIGHT RATHER THAN INVENT A DATE (#353 review): a MANUAL_ENTRIES row missing
+    # from the registry needs `absent_from_index_as_of` stamped on it, and that field is a
+    # dated observation of a REAL fetch, never a value this script may manufacture. See
+    # `_require_observation_or_exit()` and `_absent_entry()`.
+    observation = catalog_agencies.load_index_observation() if missing else None
+    _require_observation_or_exit(missing, observation)
     added = 0
-    for slug, name, _code in MANUAL_ENTRIES:
-        if slug in by_slug:
-            continue
+    for slug, name in missing:
         # BUILT BY THE REGISTRY'S OWN CONSTRUCTOR, not by a second hand-written copy of the
         # row shape. These rows sit in the same file as the scraped ones and must carry the
         # same keys, and the two spellings of that shape had already drifted apart: adding
@@ -399,13 +545,7 @@ def main() -> int:
         # chapter title to differ from it, and copying it asserts nothing about what the
         # rules index prints. It is written because `oar_name` is the string consumers
         # join on from here (ADR 0003), and a row without one is a row those joins lose.
-        entry = dict(catalog_agencies.scraped_entry(
-            oar_name=name, oar_chapter=None, raw_index_name=name, source_url=None),
-            slug=slug,
-            # `manual` is what makes catalog_agencies.py --refresh keep it: the scrape
-            # cannot produce a body that issues no rules, so a refresh would otherwise
-            # delete every one of these.
-            manual=True)
+        entry = _absent_entry(slug, name, observation)
         cat["organizations"].append(entry)
         by_slug[slug] = entry
         added += 1

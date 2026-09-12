@@ -13,7 +13,7 @@ WHY --check EXISTS. This registry is the identity three sibling corpora crosswal
 quiet ones: a curated field nothing preserves, a manual row nothing carries over, a slug two
 bodies claim. Every one of those leaves a file that still parses and slugs that still resolve,
 and surfaces months later as a cross-corpus join that quietly stopped matching (it has already
-happened twice — see preserve_manual and preserve_curated). --check reads committed data only,
+happened twice — see preserve_absent_from_index and preserve_curated). --check reads committed data only,
 runs a --refresh in simulation against it, and states what would be lost. It asserts nothing
 about upstream: what oregon.public.law currently serves is not something a PR here can break.
 
@@ -57,6 +57,10 @@ from repo_lib import ORCONST_ARTICLE_TOKEN, ORCONST_SECTION_TOKEN, REPO_ROOT
 BASE = "https://oregon.public.law"
 INDEX_URL = f"{BASE}/rules"
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
+# WHAT A REAL --refresh LAST SAW, so `simulate_refresh()` can replay from an observation of
+# the index rather than from the committed file (#353's prerequisite). See
+# `record_index_observation()` and `load_index_observation()`, below `cmd_refresh()`.
+INDEX_OBSERVATION = REPO_ROOT / "_meta/catalog/oar_index_observation.yml"
 
 # ------------------------------------------------------------------- the registry's fields
 #
@@ -176,6 +180,10 @@ CHECK_RULES = (
     # name's provenance, and the two names a body must stay findable by
     "budget-agency-code-retired", "enabling-authority-form", "statutory-name-basis",
     "name-origin", "findable-by-both-names",
+    # #169: every row's own admitting evidence (an oar_chapter or an enabling_authority),
+    # and `manual: true` retired everywhere -- unconditionally, no named exception, because
+    # #353 gave the one job the flag still did (whole-row survival) a real replacement
+    "admitting-evidence", "manual-flag-retired",
     # the relations: their shape, uniqueness, resolution, what `part_of` may not carry, an
     # `administered_by` authority that belongs to a different body (#212), and the field's
     # own mixed origin
@@ -186,8 +194,10 @@ CHECK_RULES = (
     "index-relation-is-regenerated", "parent-agrees",
     # the two things a sibling corpus joins on, claimed twice
     "unique-slug", "unique-chapter",
-    # the registry's own top-level `note`, checked three ways
+    # the registry's own top-level `note`, checked three ways, and the recorded index
+    # observation's own age against the file it is being used to judge
     "note-covers-fields", "note-agrees-with-refresh", "note-numbers-current",
+    "index-observation-stale",
     # a ROW's own `note` (a different field of the same name), checked against the shape
     # only cmd_refresh() can write
     "note-scrape-shape",
@@ -315,7 +325,56 @@ FIELDS = {
     # `manual` or not, because curator prose belongs in `curator_note` below instead of
     # here.
     "note": Field(SCRAPED, required=False),
+    # RETIRED (#169). `manual: true` used to do two jobs: an EVIDENTIARY one (ADR 0003's —
+    # "a human insisted") and an OPERATIONAL one (`preserve_manual()`'s whole-row survival
+    # across --refresh). The evidentiary job died when every row gained its own admitting
+    # evidence (an oar_chapter or an enabling_authority); the operational job is
+    # `absent_from_index_as_of` below (#353), a real replacement rather than a rename. With
+    # both jobs covered elsewhere, no row may carry this key any more —
+    # `manual-flag-retired` in check_registry() refuses it UNCONDITIONALLY, on every row,
+    # with no named exception: unlike `admitting-evidence` below, this rule does not read
+    # `AWAITING_HUMAN_REVIEW`, because the flag's retirement was never conditioned on any
+    # row's evidence being complete. STILL DECLARED HERE (not deleted from FIELDS) only so
+    # a reintroduced `manual: true` gets `manual-flag-retired`'s specific message pointing
+    # at the replacement, rather than the generic `declared-field` failure an undeclared
+    # key would get instead.
     "manual": Field(MANUAL_FLAG, required=False),
+    # THE OPERATIONAL REPLACEMENT (#353), AND NOW THE ONLY ONE (#169). It is the sole
+    # signal `preserve_absent_from_index()` below reads to carry a WHOLE row across
+    # --refresh, because the row is one the chapter scrape cannot see.
+    #
+    # AN OBSERVATION WITH A DATE, NOT A DERIVED BOOLEAN. Whether a chapter is in the index
+    # today is a fact about what a given fetch of oregon.public.law's index DID, never a
+    # property this row can compute about itself — measured 2026-09-12: two of the eighteen
+    # rows this field was first written onto (chapters 419, 950) carry a REAL oar_chapter, a
+    # mirror gap rather than a chapterless body, and a boolean could never have represented
+    # that (a chapterless row and a mirror-gap row would both have read `manual: true`, and
+    # a reader could not tell which was which). This field can: it is null until a real
+    # observation of the live index has recorded it absent, and the value is the day that
+    # observation was made, on chaptered and chapterless rows alike. CONTEXT.md's overriding
+    # rule is exactly the reason for the split — "could not check" and "is not there" must
+    # not collapse into the same flag.
+    #
+    # WRITTEN BY cmd_refresh() (`record_absence_observations()`) ON EVERY FUTURE ABSENCE,
+    # NEVER BY scraped_entry() — the same MANUAL_FLAG exclusion the retired `manual` field
+    # already had (`assert_scrape_declared()`). The eighteen rows carrying it TODAY were
+    # dated by #169 itself, applying a real, recorded index observation
+    # (`_meta/catalog/oar_index_observation.yml`, retrieved 2026-09-12 — see that file and
+    # `record_index_observation()`) directly to the committed registry rather than running a
+    # full `--refresh`, which would also have rewritten every chaptered row's scraped fields
+    # off today's fetch — an unrelated blast radius this ticket did not need. Every one of
+    # the eighteen was independently verified absent from that same real observation before
+    # the date was written (see PR discussion); none was assumed from the retired flag.
+    # EVERY FUTURE absence this field ever records is from a real `--refresh` alone, exactly
+    # as before.
+    #
+    # THE FALLBACK IS GONE (#169). `preserve_absent_from_index()`, `simulate_refresh()`,
+    # `absence_census()` and the `index-relation-is-regenerated` rule below all used to read
+    # this field OR the legacy `manual` flag, because #353 landed before any row carried a
+    # dated observation. Every row that needs whole-row protection carries this field
+    # directly now, so the fallback — and `manual` as anything but a retired, refused key —
+    # is gone.
+    "absent_from_index_as_of": Field(MANUAL_FLAG, required=False),
     # CURATOR PROSE ABOUT A ROW (CONTEXT.md, "Relation source") — #178's other half. Nothing
     # upstream ever produces this key, so it needs none of `manual`'s whole-row protection:
     # CURATED_KEYS carries it across a refresh on ANY row, the same way `das_agency_number`
@@ -493,10 +552,27 @@ REGISTRY_NOTE = (
     "(ADR 0003). MIXED ORIGIN, which is why the field is neither scraped nor "
     "curated: entries whose source is oar-index are REGENERATED by --refresh "
     "from the index tree, so an upstream re-filing reaches this file, and "
-    "every other entry is carried across untouched. A manual row's placement "
-    "is sourced `registry` and never `oar-index`: the index does not carry "
-    "that body, so it has placed it nowhere and no refresh can rebuild the "
-    "entry. An empty list means this registry places the body under no other. "
+    "every other entry is carried across untouched. A body's placement is "
+    "sourced `registry`, and never `oar-index`, when it is one the index does "
+    "not carry: `absent_from_index_as_of` (#353) says so, dated, and no "
+    "refresh can rebuild the entry for such a row because the scrape cannot "
+    "see it. An empty list means this registry places the body under no "
+    "other. "
+    "absent_from_index_as_of, where present, is a DATED OBSERVATION -- not a "
+    "derived fact -- that a real, successful --refresh did not find this row "
+    "in the live index as of that day; it carries the row whole across the "
+    "refresh that recorded it. It has exactly two writers, and both date it "
+    "from a REAL recorded fetch, never from today's date read inline: "
+    "--refresh (src/catalog_agencies.py's record_absence_observations()) dates "
+    "it the day of the fetch that just ran, and src/link_budget_codes.py's "
+    "_absent_entry() stamps the SAME already-recorded observation's own date "
+    "onto a MANUAL_ENTRIES row it adds, refusing outright if no observation "
+    "has ever been recorded. It stays null until one of those two has run, "
+    "which CONTEXT.md's overriding rule requires: 'could not "
+    "check' is never reported as 'is not there'. It marks eighteen rows "
+    "today, including two (chapters 419, 950) that DO carry an oar_chapter -- "
+    "a mirror gap, not a chapterless body. `manual`, its predecessor, is "
+    "retired (#169): no row may carry it, whether or not this field does. "
     "enabling_authority, where present, is what created the body "
     "— an ORS citation, a constitutional article, or an executive order (ADR "
     "0003) — or `none: ` and the reason there is none. It is hand-reviewed "
@@ -511,7 +587,7 @@ REGISTRY_NOTE = (
     "from, where the scrape found one: null on 15 of the 20 chapterless "
     "rows, not all of them — the other five hold a source_url that is "
     "not a chapter page (four hold the mirror's own rules index, "
-    "https://oregon.public.law/rules, and the manual saif-corporation "
+    "https://oregon.public.law/rules, and the saif-corporation "
     "row holds its own site). aliases, where present, are other "
     "names the same body is known by, including former names after a "
     "rename — hand-reviewed once, curated, and preserved across "
@@ -522,9 +598,10 @@ REGISTRY_NOTE = (
     "`manual` or not. curator_note holds hand-typed prose about a row "
     "instead, protected across --refresh the way das_agency_number is: a "
     "finding a hand edit cannot safely fold into a gated field, such as "
-    "why a manual row is manual when the mirror's index omits its "
-    "chapter, or a body's identity change the current derivation "
-    "contract cannot yet state as a relation (#212). This paragraph is "
+    "why a row is absent from the index when it carries a chapter the "
+    "mirror's own index omits, or a body's identity change the current "
+    "derivation contract cannot yet state as a relation (#212). This "
+    "paragraph is "
     "itself checked against FIELDS by name on every --check run "
     "(`note-covers-fields`, #185): a field FIELDS declares that these "
     "sentences do not mention fails the gate, so this note cannot go "
@@ -570,12 +647,13 @@ RELATION_KEY = "relations"
 #               the others.
 #   registry    a placement THIS REGISTRY recorded by hand, on evidence stated in the row's
 #               `note`. It exists because one row needs it and `oar-index` would be false on
-#               that row: a `manual` body is one the chapter index does not carry, so the
-#               index has placed it nowhere, and the entry can never be regenerated because
-#               the scrape cannot see the row (`preserve_manual`). Recording it as the
-#               index's reading would attribute a placement to a publisher that never made
-#               it AND label an unregenerable entry as one the refresh rebuilds — two false
-#               claims to save one source name.
+#               that row: a body recorded absent from the index (`absent_from_index_as_of`,
+#               or the legacy `manual` flag — #353) is one the chapter index does not carry,
+#               so the index has placed it nowhere, and the entry can never be regenerated
+#               because the scrape cannot see the row (`preserve_absent_from_index`).
+#               Recording it as the index's reading would attribute a placement to a
+#               publisher that never made it AND label an unregenerable entry as one the
+#               refresh rebuilds — two false claims to save one source name.
 #
 # ALLOWLIST, NOT BLOCKLIST. A source this registry has no meaning for is refused in front of
 # whoever wrote it, rather than published as provenance nobody can act on — the same reason
@@ -1116,6 +1194,106 @@ def classify_authority(value):
                   f"{NO_AUTHORITY!r} and the reason there is none")
 
 
+def has_admitting_evidence(o) -> bool:
+    """Whether a row carries its own ADMITTING EVIDENCE (CONTEXT.md, "Admitting evidence"):
+    an oar_chapter, or an enabling_authority that is actually an authority rather than a
+    reviewed absence. Either alone is enough — this is the fact `manual: true` used to stand
+    in for (ADR 0003: an assertion records that someone decided, never what decided it), and
+    #169 retires the flag everywhere this function returns True.
+
+    A REVIEWED ABSENCE (`none: <reason>`) DOES NOT COUNT. `enabling_authority` carrying
+    `none: ...` is a human's recorded finding that no separate authority exists — real
+    evidence for ADR 0004's *part of* (#222; see REVIEWED_ABSENCE in
+    derive_relation_kinds.py) — but it is the opposite of admitting evidence, not a second
+    form of it: nothing here reads a reviewed absence of one kind of evidence as the
+    presence of another. THE ONE PLACE THIS QUESTION IS ASKED, so `admitting-evidence`
+    below and `evidence_counts()`/`evidence_census()` beside it can never disagree about
+    what a row carries."""
+    if o.get("oar_chapter"):
+        return True
+    v = o.get("enabling_authority")
+    return isinstance(v, str) and classify_authority(v)[0] not in (None, "reviewed-none")
+
+
+# THE ONE ROW #169 FOUND WITH NEITHER, NAMED RATHER THAN LEFT AS A BLANKET EXEMPTION.
+# Measured against the committed registry (2026-09-12): 18 rows carried `manual: true`, 17
+# of them already carrying admitting evidence and so needing only the flag removed —
+# `legislative-counsel-office` is the sole holdout, with no `oar_chapter` and no
+# `enabling_authority`. Its one candidate citation (ORS 173.111) was reviewed and reverted
+# (link_enabling_authority.py, 2026-08-31): the section's OPERATIVE text establishes only
+# the Legislative Counsel COMMITTEE, not the Office the row names, and nothing else in the
+# mirrored statutes creates the Office itself. That is an INCONCLUSIVE review, not a
+# completed one — one candidate rejected, not every candidate exhausted — so recording
+# `enabling_authority: none: <reason>` would assert a finished review that has not
+# happened, the same fabrication this rule exists to refuse in the other direction.
+#
+# THIS SET NAMES THAT ROW AND NO OTHER, on purpose: a blanket exemption ("any row lacking
+# admitting evidence may keep quiet about it") would silently cover the next evidence-less
+# row nobody has noticed, which is exactly the quiet failure this registry's whole --check
+# exists to refuse. A named allowance can only ever excuse the rows named in it, and adding
+# a second slug here is itself a reviewed decision, not a mechanism this ticket built to be
+# widened casually.
+#
+# NEVER POPULATED BY INVENTING AN AUTHORITY. The row stays in this set until a human records
+# what actually created it — no ORS chapter, no constitutional article, nothing inferred
+# from the name or copied from a similar body. Fabricating a citation to empty this set is
+# the one failure this repository refuses hardest; an honestly incomplete row outranks a
+# plausible-looking invented one every time.
+#
+# SCOPED TO `admitting-evidence` ALONE. `manual-flag-retired` below does NOT read this set:
+# #169 retires `manual: true` unconditionally, on every row including this one — the
+# operational job the flag used to do here is `absent_from_index_as_of` (#353)'s alone now,
+# which this row also carries (it is exactly as invisible to the chapter scrape as the other
+# seventeen), and that field's protection was never conditioned on this row's evidence being
+# complete. An awaiting-review row that also grew a `manual: true` would still be refused —
+# see `_proof_the_awaiting_review_exemption_does_not_extend_to_the_manual_flag()`.
+AWAITING_HUMAN_REVIEW = frozenset({"legislative-counsel-office"})
+
+
+def evidence_counts(orgs) -> dict:
+    """The measurement `evidence_census()` formats (#169, matching #306's split elsewhere in
+    this module): how many rows are admitted by an oar_chapter, how many by an
+    enabling_authority, how many overall (`has_admitting_evidence()` -- the two are not
+    exclusive; a chaptered sub-unit with its own reviewed authority counts in both), and how
+    many carry NEITHER. THE LAST NUMBER IS THE ONE #169 EXISTS TO KEEP AT ZERO save for the
+    row `AWAITING_HUMAN_REVIEW` names -- `evidence_census()` beside this prints it by slug
+    rather than leaving a reader to identify it from this bare count, and a row this dict
+    counts as awaiting review that ISN'T one of those names is exactly what
+    `admitting-evidence` below refuses."""
+    chaptered = sum(1 for o in orgs if isinstance(o, dict) and o.get("oar_chapter"))
+    authored = sum(1 for o in orgs if isinstance(o, dict) and isinstance(
+        o.get("enabling_authority"), str)
+        and classify_authority(o["enabling_authority"])[0] not in (None, "reviewed-none"))
+    admitted = sum(1 for o in orgs if isinstance(o, dict) and has_admitting_evidence(o))
+    return {"with_oar_chapter": chaptered, "with_enabling_authority": authored,
+            "admitted": admitted, "awaiting_review": len(orgs) - admitted,
+            "total": len(orgs)}
+
+
+def evidence_census(orgs) -> str:
+    """Every row's ADMITTING EVIDENCE (CONTEXT.md), counted over rows and NAMED where it is
+    missing — printed by --check on every run, the same reason `authority_census` and
+    `chapter_census` are (#169).
+
+    NAMED, NOT ONLY COUNTED, and that is the whole point of printing this rather than
+    trusting `admitting-evidence` below to say so only when it fails: the row still awaiting
+    human review is reported BY NAME on every run, not folded into a bare count a reader has
+    to go and identify themselves. A row this sentence names and `AWAITING_HUMAN_REVIEW`
+    does not is exactly the state `admitting-evidence` refuses -- this census is a report,
+    that rule is the gate, and the two read the same `has_admitting_evidence()` so they
+    cannot disagree about which rows those are.
+
+    FORMATS `evidence_counts()` rather than measuring anything itself."""
+    c = evidence_counts(orgs)
+    awaiting = sorted(o["slug"] for o in orgs
+                      if isinstance(o, dict) and isinstance(o.get("slug"), str)
+                      and not has_admitting_evidence(o))
+    return (f"{c['admitted']} of {c['total']} row(s) admitted "
+            f"({c['with_oar_chapter']} by oar_chapter, "
+            f"{c['with_enabling_authority']} by enabling_authority); "
+            f"awaiting review: {', '.join(awaiting) if awaiting else 'none'}")
+
+
 def authority_counts(orgs) -> dict:
     """The measurement `authority_census` formats -- the three states of `enabling_authority`,
     counted over registry ROWS (#306). ONE MEASUREMENT, TWO READERS: this dict is what
@@ -1423,10 +1601,16 @@ MERGED_KEYS = frozenset(keys_in_order(MERGED))
 # The fields whose origin is written on the ROW rather than on the field. Derived from the
 # same table for the same reason the three sets above are, and read by `preserve_name()`.
 PER_ROW_KEYS = frozenset(keys_in_order(PER_ROW))
-# The one field the scrape may never write under any name (#275 review): `manual: true` is
-# asserted only by a human, via `preserve_manual()`, which runs AFTER the scrape. Derived
-# for the same reason the four sets above are, and read only by `assert_scrape_declared()`.
+# THE TWO FIELDS THE SCRAPE MAY NEVER WRITE UNDER ANY NAME (#275 review, joined by #353):
+# `absent_from_index_as_of` — a dated observation `record_absence_observations()` writes
+# AFTER the scrape, never scraped_entry() itself, reached only via
+# `preserve_absent_from_index()` (renamed from `preserve_manual()`) — and the retired
+# `manual` flag it replaced (#169: refused outright on any row now, by `manual-flag-
+# retired`, so this exclusion is academic for it but the field stays declared here rather
+# than deleted; see its own comment above FIELDS for why). Derived for the same reason the
+# four sets above are, and read only by `assert_scrape_declared()`.
 MANUAL_FLAG_KEYS = frozenset(keys_in_order(MANUAL_FLAG))
+ABSENT_FROM_INDEX_KEY = "absent_from_index_as_of"
 UA = "executive-regulatory-frameworks (+https://github.com/OregonAI/executive-regulatory-frameworks)"
 
 ENTRY_RE = re.compile(
@@ -1606,12 +1790,14 @@ def assert_scrape_declared(orgs):
     longer a per-origin name here for a future origin to be missing from.
 
     CURATED_KEYS and MANUAL_FLAG_KEYS are the two that stay excluded, and that is a real,
-    checkable claim rather than an assumption: `scraped_entry()` never writes a curated field
-    or `manual: true` — both reach a row only later, via
-    `preserve_curated()`/`preserve_manual()`, which both run AFTER this guard. So a curated
-    or manual key on a freshly-scraped `orgs` here is a real bug — the scrape asserting data
-    only a human may assert — and admitting those two origins as well would make this guard
-    permanently silent on exactly the mistake it exists to catch."""
+    checkable claim rather than an assumption: `scraped_entry()` never writes a curated field,
+    `manual: true`, or a dated `absent_from_index_as_of` (#353) — all reach a row only later,
+    via `preserve_curated()`/`preserve_absent_from_index()` (the latter renamed from
+    `preserve_manual()`), which both run AFTER this guard. So a curated, manual, or
+    absence-observation key on a freshly-scraped `orgs` here is a real bug — the scrape
+    asserting data only a human, or a PAST refresh's own recorded observation, may assert —
+    and admitting those origins as well would make this guard permanently silent on exactly
+    the mistake it exists to catch."""
     admitted = set(FIELDS) - CURATED_KEYS - MANUAL_FLAG_KEYS
     undeclared = {k for o in orgs for k in o} - admitted
     if undeclared:
@@ -1630,45 +1816,102 @@ def assert_scrape_declared(orgs):
                  " — nothing was written")
 
 
-def preserve_manual(prev_orgs, orgs, by_slug):
-    """Carry over manually-added entries (chapters OARD serves but the mirror's index
-    omits, e.g. 419, 950 — discovered via renumbering redirects during the mass import).
-    A refresh must never drop them; a collision with a newly-indexed chapter means the
-    mirror caught up — then the manual flag should be removed by hand after comparing
-    names. Mutates `orgs` and `by_slug`, which is what --refresh needs and what --check
-    replays."""
-    # THE SCRAPED CHAPTERS, COMPUTED ONCE. This set used to be rebuilt inside the loop
-    # against `orgs`, which the loop is simultaneously appending to -- so the first
-    # preserved entry with `oar_chapter: null` put None INTO the set that the next one
-    # was tested against, and every null-chapter manual entry after it looked like a
-    # collision with a chapter the mirror had caught up on.
-    #
-    # 13 of the 15 manual entries THEN IN THE REGISTRY carried a null chapter -- 17 carry
-    # the flag today -- because that is what a body with no OAR chapter looks like: the
-    # Governor's office, the Legislative Assembly, district attorneys. Simulated against
-    # the registry as it stood, a --refresh kept 2
-    # and dropped 13, among them office-of-the-governor, legislative-fiscal-officer and
-    # district-attorneys-and-deputies. Six of those are slugs oregon-kpm's agency
-    # crosswalk resolves into today.
-    #
-    # It would have failed the way preserve_curated() below warns about: silently. The
-    # registry still parses, every remaining slug still resolves, and the loss only
-    # surfaces as a cross-corpus join that quietly stopped matching. `--check` now replays
-    # this function against the committed registry on every PR, so the next regression of
-    # this class is a red build rather than a silent one.
-    # A NULL CHAPTER CANNOT COLLIDE, and that is the second half of the bug. The guard
-    # asks "has the mirror caught up on this chapter?", which is meaningless for an entry
-    # that never had one -- and four SCRAPED bodies legitimately carry
-    # `oar_chapter: null` (Secretary of State, DCBS, the Military Department, the Mental
-    # Health Regulatory Agency, all parents whose rules live in their sub-units). So None
-    # was always in this set, and every null-chapter manual entry was discarded no matter
-    # what order they came in. Such an entry can only be superseded by SLUG, which the
-    # first clause already handles.
+def _absent_from_this_scrape(o, orgs, by_slug, scraped_chapters=None) -> bool:
+    """Whether committed row `o` is one THIS scrape (already reflected in `orgs`/`by_slug`)
+    did not produce — the shared test `record_absence_observations()` and
+    `preserve_absent_from_index()` both need, extracted so the two functions cannot drift
+    apart on what "absent" means between writing the observation and reading it back.
+
+    `scraped_chapters` is a PARAMETER so a caller looping over many rows computes it once —
+    see `preserve_absent_from_index()`'s docstring for why it used to be rebuilt inside the
+    loop and what that cost.
+
+    A NULL CHAPTER CANNOT COLLIDE. Four SCRAPED bodies legitimately carry `oar_chapter: null`
+    (Secretary of State, DCBS, the Military Department, the Mental Health Regulatory Agency,
+    all parents whose rules live in their sub-units), so "has the mirror caught up on this
+    chapter?" is meaningless for a chapterless row — it can only be superseded by SLUG, which
+    the `by_slug` test already covers."""
+    if scraped_chapters is None:
+        scraped_chapters = {x["oar_chapter"] for x in orgs if x.get("oar_chapter")}
+    return o["slug"] not in by_slug \
+        and (not o.get("oar_chapter") or o["oar_chapter"] not in scraped_chapters)
+
+
+def record_absence_observations(prev_orgs, orgs, by_slug) -> None:
+    """Date `absent_from_index_as_of` on every committed row THIS REAL --refresh's live
+    scrape did not produce (#353). Mutates the rows of `prev_orgs` in place, which is what
+    lets `preserve_absent_from_index()` — called right after this, over the same three
+    arguments — pick them back up already carrying the field it reads.
+
+    CALLED ONLY FROM cmd_refresh(), NEVER FROM simulate_refresh(). Today's date is only ever
+    an honest claim about a fetch that happened TODAY — a real one, that `cmd_refresh()` has
+    just run — and `simulate_refresh()` has no fetch: it replays committed data with no
+    network at all (this module's own docstring). A simulated run that dated this field would
+    manufacture an observation nothing actually made, which is worse than the bug #353
+    exists to fix: it would make "could not check" print as "checked, and it's gone" instead
+    of leaving the two apart the way CONTEXT.md requires.
+
+    WHY "ABSENT FROM ORGS", NOT "CARRIED THE FIELD ALREADY". This is the WRITER — it is what
+    makes the field a real, dated observation of what a live scrape just did, rather than a
+    copy of whatever a human (or a previous refresh) already believed. Every row this real
+    scrape did not produce gets dated here, whether or not it was already so recorded — a
+    body found absent for the first time needs this exactly as much as one already carrying
+    the observation, and gating the write on a PRE-EXISTING signal would mean the field is
+    never established for a row until a human has separately, and by some other means,
+    already decided to protect it — the pre-authorization scheme #353 exists to retire
+    (`manual: true` was that scheme; #169 retired it once this writer existed)."""
+    scraped_chapters = {x["oar_chapter"] for x in orgs if x.get("oar_chapter")}
+    today = date.today().isoformat()
+    for o in prev_orgs:
+        if _absent_from_this_scrape(o, orgs, by_slug, scraped_chapters):
+            o[ABSENT_FROM_INDEX_KEY] = today
+
+
+def preserve_absent_from_index(prev_orgs, orgs, by_slug):
+    """Carry over every committed row THIS scrape did not produce and that is already
+    RECORDED as one the index does not carry — `absent_from_index_as_of` (#353). A refresh
+    must never drop such a row; a collision with a newly-indexed chapter means the mirror
+    caught up — then the row should be reviewed by hand and the observation retired.
+
+    RENAMED FROM `preserve_manual()` (#353), and `manual` ITSELF RETIRED (#169): this used
+    to also read the legacy flag, as a fallback for the one transitional release before any
+    committed row carried a dated observation. Every row that needs whole-row protection
+    carries `absent_from_index_as_of` directly now (#169 applied a real, recorded index
+    observation to every row the retired flag protected — see that field's own comment
+    above FIELDS), so the fallback is gone, and `manual-flag-retired` in check_registry()
+    refuses the flag outright if it ever reappears.
+
+    Mutates `orgs` and `by_slug`, which is what --refresh needs and what --check replays.
+
+    NEITHER THIS FUNCTION NOR `record_absence_observations()` ABOVE WRITES A DATE HERE. This
+    one only decides whether a row already so recorded (or so flagged) survives; dating the
+    observation is `record_absence_observations()`'s job alone, and it is called first, by
+    `cmd_refresh()`, over the same `prev_orgs` — so by the time this function runs in a real
+    refresh, a row genuinely absent for the first time already carries the field it is about
+    to be preserved on the strength of. `simulate_refresh()` never calls the writer, so a row
+    it preserves here is one a PAST real refresh already recorded (or a human already
+    flagged), never one this replay itself decided.
+
+    THE SHARED TEST IS `_absent_from_this_scrape()` (#353's extraction of what preceded it):
+    this used to rebuild the scraped-chapters set inside the loop against `orgs`, which the
+    loop is simultaneously appending to — so the first preserved entry with `oar_chapter:
+    null` put None INTO the set that the next one was tested against, and every null-chapter
+    entry after it looked like a collision with a chapter the mirror had caught up on. 13 of
+    the 15 manual entries then in the registry carried a null chapter — 16 of the 18 marked
+    today still do (the other two, chapters 419 and 950, are the mirror-gap rows this split
+    exists to represent) — because a null chapter is what a body with no OAR chapter at all
+    looks like: the Governor's
+    office, the Legislative Assembly, district attorneys. Simulated against the registry as
+    it stood, a --refresh kept 2 and dropped 13, among them office-of-the-governor,
+    legislative-fiscal-officer and district-attorneys-and-deputies — six slugs oregon-kpm's
+    agency crosswalk resolves into today. It would have failed the way preserve_curated()
+    below warns about: silently. `--check` now replays this function against the committed
+    registry on every PR, so the next regression of this class is a red build rather than a
+    silent one."""
     scraped_chapters = {x["oar_chapter"] for x in orgs if x.get("oar_chapter")}
     for o in prev_orgs:
-        if o.get("manual") and o["slug"] not in by_slug \
-                and (not o.get("oar_chapter")
-                     or o["oar_chapter"] not in scraped_chapters):
+        if o.get(ABSENT_FROM_INDEX_KEY) \
+                and _absent_from_this_scrape(o, orgs, by_slug, scraped_chapters):
             orgs.append(o)
             by_slug[o["slug"]] = o
 
@@ -1851,6 +2094,152 @@ def is_scrape_note(note) -> bool:
     return isinstance(note, str) and any(p.match(note) for p in NOTE_SCRAPE_SHAPES)
 
 
+def record_index_observation(entries, path=None) -> None:
+    """Write what a REAL, SUCCESSFUL fetch of the index just found — every chapter and
+    every chapterless group `parse_index()` produced from a page that WAS retrieved — dated
+    the day it was retrieved. `simulate_refresh()` reads this back, and it is what lets that
+    function tell "the index does not list this chapter" from "the index was unreachable"
+    apart (#353's prerequisite; see that function's docstring).
+
+    ONLY EVER CALLED AFTER `parse_index()` HAS ALREADY SUCCEEDED. `cmd_refresh()` calls
+    `get(INDEX_URL)` with nothing catching what it raises — a DNS failure, a timeout, a
+    non-2xx status all propagate straight through `cmd_refresh()` and `main()` alike and the
+    process exits before `entries` exists at all, before this function is ever reached and
+    before anything is written here. That is the whole of how this file avoids ever
+    recording "the index does not list chapter N" on a day the index was simply
+    unreachable: the code path that could conflate the two never calls this function. What
+    this function cannot see — and does not try to — is a fetch that returns 200 with
+    truncated or substituted content; that risk is not new here and not this ticket's to
+    close (every consumer of `get()` already trusts a non-raising response as genuine).
+
+    A CHAPTER IS ITS OWN IDENTITY; A CHAPTERLESS GROUP IS ITS RAW INDEX TEXT. Both are
+    exactly what `parse_index()` already uses to tell entries apart from each other — no
+    new key, nothing this function could get out of step with the parser that feeds it.
+
+    `path` is a PARAMETER, defaulting to `INDEX_OBSERVATION`, so --selftest can prove the
+    round trip against a throwaway file instead of overwriting the committed one."""
+    path = INDEX_OBSERVATION if path is None else path
+    chapters = sorted({e[0] for e in entries if e[0]})
+    groups = sorted({e[1] for e in entries if e[0] is None})
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(yaml.safe_dump(
+        {"retrieved": date.today().isoformat(), "source_url": INDEX_URL,
+         "chapters": chapters, "groups": groups},
+        sort_keys=False, allow_unicode=True, width=100))
+
+
+def load_index_observation(path=None):
+    """What the last REAL, successful fetch of the index found — as
+    `{"chapters": {...}, "groups": {...}, "retrieved": "YYYY-MM-DD"}` — or `None` if no real
+    fetch has ever recorded one.
+
+    `None` IS NOT "EMPTY", and the difference is the whole point (CONTEXT.md, "could not
+    check is never reported as is not there"). A recorded observation with empty sets is a
+    real, dated claim that a successful fetch listed nothing — a fact so alarming it would
+    already be on fire elsewhere. `None` means no --refresh has ever recorded anything AT
+    ALL, which `simulate_refresh()` reads as "nothing to check this row's survival
+    against" — silence, not a verdict either way — exactly the way every other unestablished
+    fact in this registry stays silent rather than defaulting to an answer.
+
+    `retrieved` IS RETURNED, NOT DISCARDED (code review of #353). It used to be read off
+    disk and then dropped, so a one-day-old observation and a one-year-old one were
+    indistinguishable to every consumer — `cmd_check()` printed "recorded by the last
+    --refresh" with no date at all, and `link_budget_codes.py`'s `_absent_entry()` had
+    nothing honest to date a new row from and stamped `date.today()` instead, which is
+    exactly the substitution this field's own split exists to prevent, one level up. Every
+    consumer that only compared `chapters`/`groups` (`_row_in_index_observation()`,
+    `simulate_refresh()`) still works unchanged — this only adds a third key nothing before
+    this review read.
+
+    `path` is a PARAMETER for the same reason `record_index_observation()`'s is."""
+    path = INDEX_OBSERVATION if path is None else path
+    if not path.exists():
+        return None
+    obs = yaml.safe_load(path.read_text()) or {}
+    return {"chapters": set(obs.get("chapters") or ()),
+            "groups": set(obs.get("groups") or ()),
+            "retrieved": obs.get("retrieved")}
+
+
+def _fetch_failure_would_rename_slug(orgs, prev_orgs) -> list:
+    """[(prev_slug, new_slug, chapter), ...] for every chapter where a `NOTE_FETCH_FAILED`
+    row in THIS scrape's `orgs` would slugify to something OTHER than the slug already
+    committed for that same chapter (code review of #353).
+
+    THE MECHANISM: `scraped_entry()`'s slug is `slugify(oar_name)`, and a chapter-page fetch
+    failure leaves `oar_name` at the ABBREVIATED index name instead of the page's own title
+    -- a different string, so very possibly a different slug. `record_index_observation()`'s
+    own docstring says correctly that such a failure "never removes a row from `entries`",
+    but a row surviving in `entries` is not the same as it surviving under its COMMITTED
+    SLUG: `preserve_curated()`, `preserve_relations()` and `preserve_name()` all key on
+    `by_slug`, so a renamed row is one they all silently miss, and the chapter is written
+    out under a fresh slug carrying none of the old row's curated fields, relations,
+    das_agency_number, or enabling_authority -- exactly the un-noticed cross-corpus-join
+    loss this whole chain exists to close, and a genuinely transient failure at that: the
+    chapter is still in the index, the fetch just did not answer today.
+
+    A CHAPTER IS THE JOIN KEY HERE, NOT THE SLUG ITSELF -- the committed slug for the SAME
+    oar_chapter is what a same-day success would have produced too, so any mismatch is the
+    fetch failure's fault, never a real upstream rename (a real rename would be a fresh
+    chapter-page title on a SUCCESSFUL fetch, which this function never even looks at)."""
+    prev_slug_by_chapter = {o.get("oar_chapter"): o.get("slug") for o in prev_orgs
+                            if isinstance(o, dict) and o.get("oar_chapter")}
+    renames = []
+    for o in orgs:
+        ch = o.get("oar_chapter")
+        note = o.get("note") or ""
+        if ch and note.startswith("chapter page fetch failed"):
+            prev_slug = prev_slug_by_chapter.get(ch)
+            if prev_slug is not None and prev_slug != o.get("slug"):
+                renames.append((prev_slug, o["slug"], ch))
+    return renames
+
+
+def _assert_parse_plausible(entries, prev_orgs) -> None:
+    """Refuse to record an index observation, or write anything, when a fetch returned so
+    few entries that it looks like a truncated or substituted response rather than a real
+    drop in Oregon's rules index (code review of #353).
+
+    `get()` raises on a transport/HTTP error, so this guard covers the one failure mode
+    that slips past that already-trusted response: a 200 carrying a WAF page, a truncated
+    body, or a substituted document, which parses to few or zero entries and would
+    otherwise be written down as an authoritative observation by `record_index_
+    observation()` right after this runs -- dating every committed row the short parse
+    failed to produce as observed-absent, permanently, in committed data. `simulate_
+    refresh()` reads that same observation on the next --check and would then report "0
+    contradicted", since the check has nothing truer to compare it to either: a fetch that
+    could not really check is not the same fact as the index genuinely omitting a row
+    (CONTEXT.md), and this is the one place `cmd_refresh()` can still tell them apart before
+    the difference is lost to a committed date.
+
+    THE FLOOR IS HALF OF WHAT THE COMMITTED REGISTRY EXPECTS A LIVE SCRAPE TO STILL PRODUCE
+    -- rows not already recorded absent from some earlier, real observation, since those are
+    the only ones a scrape is expected to still list today. Half, not all: a real index
+    reorganization could plausibly drop a meaningful minority of chapters in one honest
+    pass, and this guard exists to catch a WAF page or an empty body, not to freeze the
+    index against ever shrinking.
+
+    NO PRIOR REGISTRY MEANS NOTHING TO COMPARE AGAINST — the first --refresh this repo ever
+    runs has no committed file yet, and a floor here would make that first run impossible
+    rather than merely cautious.
+
+    EXTRACTED so --selftest can prove this fires against a synthetic short `entries` list
+    with no network fetch at all, the same reason `_absent_from_this_scrape()` and the
+    other shared predicates in this module are their own functions rather than inline
+    checks."""
+    if not prev_orgs:
+        return
+    expected = sum(1 for o in prev_orgs
+                   if isinstance(o, dict) and not o.get(ABSENT_FROM_INDEX_KEY))
+    floor = expected // 2
+    if len(entries) < floor:
+        sys.exit(f"index parse produced only {len(entries)} entries; the committed "
+                 f"registry expects at least {floor} (half of the {expected} rows it "
+                 "records as still in the live index) -- this looks like a truncated or "
+                 "substituted fetch, not a real drop in Oregon's rules index. Nothing was "
+                 "written.")
+
+
 def cmd_refresh():
     raw = get(INDEX_URL)
     entries = parse_index(raw)
@@ -1862,6 +2251,27 @@ def cmd_refresh():
     print(f"index: {len(chapters)} chapters + {n_groups} chapterless parent groups "
           f"({sum(1 for e in entries if e[2] is not None)} sub-units); "
           f"fetching proper names from chapter pages...")
+
+    prev_orgs = (yaml.safe_load(CATALOG.read_text()).get("organizations", [])
+                if CATALOG.exists() else [])
+    # A SHORT OR EMPTY PARSE, CAUGHT BEFORE ANYTHING IS RECORDED (code review of #353): see
+    # `_assert_parse_plausible()`. Run against `prev_orgs` as committed BEFORE this refresh,
+    # the same argument `record_absence_observations()` reads a few lines below.
+    _assert_parse_plausible(entries, prev_orgs)
+
+    # RECORDED HERE, NOT AFTER THE CHAPTER-PAGE FETCHES BELOW. What the index itself lists
+    # is already fully known from `entries` -- the per-chapter fetches below only refine a
+    # NAME, and a name-fetch failure (NOTE_FETCH_FAILED) never removes a row from `entries`,
+    # so it must never be able to make this observation record a chapter as absent either.
+    # (A fetch failure CAN still change the SLUG a chapter is committed under, which is a
+    # different failure this function does not touch at all -- see `_fetch_failure_would_
+    # rename_slug()`, checked later in this function, after the fetches below have run.)
+    # Reached only because `get(INDEX_URL)` and `parse_index()` already succeeded above, AND
+    # `_assert_parse_plausible()` just above found the parse plausible -- see `record_index_
+    # observation()`'s docstring for why that is what keeps "unreachable" from ever being
+    # written down as "omitted", and the guard just above for the one thing that check alone
+    # could not catch (a 200 response carrying too little to be real).
+    record_index_observation(entries)
 
     # Fetch proper names for every chaptered entry
     orgs = [None] * len(entries)
@@ -1937,9 +2347,25 @@ def cmd_refresh():
 
     assert_scrape_declared(orgs)
 
-    if CATALOG.exists():
-        prev_orgs = yaml.safe_load(CATALOG.read_text()).get("organizations", [])
-        preserve_manual(prev_orgs, orgs, by_slug)
+    if prev_orgs:
+        # A TRANSIENT NAME-FETCH FAILURE MUST NEVER SILENTLY RENAME A COMMITTED SLUG (code
+        # review of #353): see `_fetch_failure_would_rename_slug()`. Run BEFORE anything is
+        # preserved or written — a rename here would move a chapter's curated fields onto a
+        # fresh row the preserve_* calls below have never heard of, un-noticed, and this is
+        # the last point before that would happen.
+        renames = _fetch_failure_would_rename_slug(orgs, prev_orgs)
+        if renames:
+            sys.exit("a transient chapter-page fetch failure would rename a committed "
+                     "slug: " + "; ".join(f"{p!r} -> {n!r} (chapter {c})"
+                                          for p, n, c in renames) +
+                     " -- this is COULD-NOT-CHECK, not a real rename (CONTEXT.md); nothing "
+                     "was written. Retry the refresh.")
+        # DATE THE OBSERVATION BEFORE CARRYING THE ROW (#353): a row absent from THIS real
+        # scrape is dated here — the only place this module ever writes today's date onto
+        # this field, because this is the only place a real fetch has just happened — and
+        # then preserved whole, on the strength of that date or the legacy `manual` flag.
+        record_absence_observations(prev_orgs, orgs, by_slug)
+        preserve_absent_from_index(prev_orgs, orgs, by_slug)
         preserve_curated(prev_orgs, by_slug)
         preserve_relations(prev_orgs, by_slug)
         preserve_name(prev_orgs, by_slug)
@@ -2230,7 +2656,63 @@ def resolve(name, organizations=None):
 # check" is never reported as "is not there".
 
 
-def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None, per_row_keys=None):
+def _row_in_index_observation(o, index_observation) -> bool:
+    """Whether the recorded observation says the live index still lists `o` — by chapter
+    for a chaptered row, by the raw index text `parse_index()` produced for a chapterless
+    group, exactly the two identities `record_index_observation()` records and the two
+    `parse_index()` already tells entries apart by."""
+    ch = o.get("oar_chapter")
+    if ch is not None:
+        return ch in index_observation["chapters"]
+    return o.get("raw_index_name") in index_observation["groups"]
+
+
+def absence_census(orgs, index_observation=None) -> str:
+    """What this registry's absence-from-index rows actually are, counted over rows —
+    printed by --check on every run, for the same reason `chapter_census()` and its
+    siblings are (#279): a state nobody prints is a state nobody notices drift.
+
+    THREE STATES, NAMED, NEVER COLLAPSED INTO ONE ANOTHER (#353; CONTEXT.md's overriding
+    rule). A row's dated `absent_from_index_as_of` is a REAL claim, but a claim can go
+    stale, and this census refuses to report it as fresh when nothing has checked that:
+
+      dated            carries `absent_from_index_as_of`. Reported whether or not it is
+                       also contradicted (below) — a contradicted row still IS dated; that
+                       it needs review is a separate fact, stated separately.
+      legacy-only      carries the retired `manual` flag and NOT the dated field. #169
+                       refuses `manual` unconditionally (`manual-flag-retired`), so a
+                       clean registry always reports zero here; this bucket stays as a
+                       second, independent report of the same defect rather than trusting
+                       that rule alone — a row in this state is not only mis-flagged, it is
+                       one `preserve_absent_from_index()` will no longer carry across the
+                       next --refresh at all, now that the legacy fallback is gone.
+      contradicted     a DATED row whose own oar_chapter or raw_index_name IS listed in
+                       `index_observation` — the mirror has caught up since the date this
+                       row claims, and the claim is stale, not wrong when it was made. Only
+                       computable WITH a recorded observation to check against; see below
+                       for what is printed when there is none.
+
+    `index_observation=None` (no real --refresh has ever recorded one) MEANS THIS CENSUS
+    CANNOT COMPUTE "contradicted" AT ALL — not zero, which would assert every dated claim is
+    still good on the strength of never having looked. `chapter_page_docs`'s sibling
+    parameters give this function the same shape they have: `index_observation` is read
+    here, not fetched, so --selftest can hand this a synthetic one instead of the real file
+    on disk."""
+    orgs = [o for o in orgs if isinstance(o, dict)]
+    dated = [o for o in orgs if o.get(ABSENT_FROM_INDEX_KEY)]
+    legacy_only = [o for o in orgs if o.get("manual") and not o.get(ABSENT_FROM_INDEX_KEY)]
+    if index_observation is None:
+        contradicted = "not checked (no recorded observation)"
+    else:
+        contradicted = str(sum(1 for o in dated
+                               if _row_in_index_observation(o, index_observation)))
+    return (f"{len(dated)} dated, {len(legacy_only)} legacy-only (manual, "
+            f"no dated observation), {contradicted} contradicted by the last recorded "
+            "observation")
+
+
+def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None, per_row_keys=None,
+                     index_observation=None):
     """{slug: row} for what --refresh would leave behind, run against committed data.
 
     NO NETWORK AND NO SCRAPE. The scrape is replayed rather than performed: every row the
@@ -2240,9 +2722,39 @@ def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None, per_row_key
     the upstream index still says the same thing, which is a question only a fetch can
     answer and not one a PR can break.
 
-    A `manual` row is not reconstructed, because the scrape cannot see it: that is what the
-    flag means. It comes back through preserve_manual() or not at all, and "or not at all"
-    is a bug that already happened once (see that function).
+    UNLESS `index_observation` SAYS OTHERWISE (#353's prerequisite). Left at the default,
+    this function is BLIND BY CONSTRUCTION — it reconstructs every row not already recorded
+    absent (`absent_from_index_as_of`) from the committed file regardless of what the live
+    index currently says, so a row the real index no longer lists still "survives" here.
+    That blindness is exactly why a real
+    refresh once dropped 17 rows a `--check` run never saw coming: nothing it consulted
+    could disagree with the committed file. `index_observation`, from
+    `load_index_observation()`, is what a real, successful fetch of the index actually
+    found; a row `_row_in_index_observation()` says is absent from it is not reconstructed
+    at all here, the same as a real refresh would leave it out of `entries` — and
+    `check_registry()`'s `survives-refresh` rule reports its disappearance exactly the way
+    it already reports any other row nothing preserves.
+
+    `None` (the default) MEANS NO OBSERVATION TO CHECK AGAINST, not "everything survives"
+    and not "nothing does" — it is what `load_index_observation()` returns when no real
+    --refresh has ever recorded one, and CONTEXT.md's rule ("could not check is never
+    reported as is not there") is exactly why this function must not read absence-of-an-
+    observation as evidence of anything. So `None` reproduces this function's original,
+    pre-#353 behavior unchanged: every row not already recorded absent is reconstructed from
+    the committed file, same as always, and the two facts — "the index omitted this row" and
+    "there is no recorded observation to check it against" — stay the different facts they
+    are, never collapsed into the same "dropped" verdict.
+
+    A ROW RECORDED ABSENT — `absent_from_index_as_of` (#353) — is not reconstructed,
+    because the scrape cannot see it: that is what the field means. It comes back through
+    preserve_absent_from_index() or not at all, and "or not at all" is a bug that already
+    happened once (see that function). It is also never checked
+    against `index_observation` — such a row is, by definition, one the index does not carry,
+    so the observation has nothing to say about it either way. Note what this function never
+    does with either signal: it never WRITES `absent_from_index_as_of` here, only reads it —
+    dating the field is `record_absence_observations()`'s job, called only from a real
+    `cmd_refresh()`, never from this no-network replay (see that function's docstring for
+    why: a date is only honest about a fetch that actually happened).
 
     WHAT IT CAN NO LONGER SIMULATE, stated rather than left to be discovered. The index's
     placement is replayed from the row's own `oar-index` entry, because #174 removed the
@@ -2261,7 +2773,9 @@ def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None, per_row_key
     """
     orgs, by_slug, index_parents = [], {}, {}
     for o in prev_orgs:
-        if o.get("manual"):
+        if o.get(ABSENT_FROM_INDEX_KEY):
+            continue
+        if index_observation is not None and not _row_in_index_observation(o, index_observation):
             continue
         # NAME READER — MACHINERY: the survival simulation replaying the scrape from
         # committed values. The OAR name is what the scrape produces, so that is what is
@@ -2290,7 +2804,7 @@ def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None, per_row_key
     # told the last refresh — the simulation measures SURVIVAL, not whether the mirror still
     # says it, which is a question only a fetch can answer.
     set_index_relations(orgs, index_parents)
-    preserve_manual(prev_orgs, orgs, by_slug)
+    preserve_absent_from_index(prev_orgs, orgs, by_slug)
     preserve_curated(prev_orgs, by_slug, curated_keys)
     preserve_relations(prev_orgs, by_slug, merged_keys)
     preserve_name(prev_orgs, by_slug, per_row_keys)
@@ -2324,8 +2838,18 @@ def _claimed_twice(key, rows):
             seen[value] = _row_id(o, i)
 
 
-def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) -> list:
+def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None,
+                   index_observation=None) -> list:
     """Every way the registry violates its contract, as Failures.
+
+    `index_observation` is passed straight through to `simulate_refresh()` — see that
+    function's docstring. It is a PARAMETER, not read from disk here, for the same reason
+    `fields`/`refresh_note`/`chapter_page_docs` are: --selftest proves this function against
+    a synthetic registry, and a call here that quietly loaded the real committed observation
+    file would make every one of those proofs depend on what the last real --refresh
+    happened to see. `cmd_check()` is the one caller that loads the real file and passes it
+    in; left at the default (`None`), this reproduces `simulate_refresh()`'s original,
+    pre-#353 behavior — nothing to check a row's survival against, not a verdict either way.
 
     `fields` is the declaration to check against, defaulting to the one this module ships.
     It is a PARAMETER so that --selftest can check a registry against a differently-declared
@@ -2372,6 +2896,33 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
         return [Failure("registry-populated", "agencies.yml",
                         "no bodies at all — every other rule is vacuously true of an "
                         "empty registry, so nothing was checked")]
+
+    # THE OBSERVATION'S OWN AGE, AGAINST THE REGISTRY FILE IT IS BEING USED TO JUDGE (code
+    # review of #353). `index_observation["retrieved"]` is when a REAL fetch happened; the
+    # registry file's own top-level `retrieved` is when the --refresh that wrote THIS file
+    # ran. A recorded observation older than the very file it is judging is stale evidence
+    # read as current: `absence_census()` would report "0 contradicted by the last recorded
+    # observation" on the strength of a look that predates what it is supposedly still
+    # checking, and `simulate_refresh()` would drop a row against a fetch nobody has redone
+    # since. Every other consumer of `index_observation` compares it to ROW data
+    # (`_row_in_index_observation()`); this is the one place its own date is compared to
+    # anything at all.
+    #
+    # ONLY COMPUTABLE WHEN BOTH DATES ARE PRESENT — never a guess when one is missing. The
+    # synthetic `_fixture()` carries no top-level `retrieved` (it does not stand for a real
+    # refreshed file), and `index_observation=None` already has its own reported state
+    # (`absence_census()`'s "not checked"); this rule adds nothing in either case rather than
+    # inventing an ordering neither side actually states.
+    file_retrieved = cat.get("retrieved") if isinstance(cat, dict) else None
+    obs_retrieved = index_observation.get("retrieved") if index_observation is not None else None
+    if (isinstance(file_retrieved, str) and isinstance(obs_retrieved, str)
+            and obs_retrieved < file_retrieved):
+        failures.append(Failure(
+            "index-observation-stale", "agencies.yml",
+            f"the recorded index observation is dated {obs_retrieved!r}, older than the "
+            f"registry file's own {file_retrieved!r} — row survival and absence claims "
+            "were just checked against a fetch that predates the very file it is judging; "
+            "run --refresh again to record a current observation"))
 
     # THE REGISTRY'S OWN `note`, AGAINST THE FIELDS IT ACTUALLY DECLARES (#185). `note` is
     # this file's top-level self-description — read by three sibling corpora — and nothing
@@ -2522,6 +3073,47 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
     # Position is carried alongside, so a failure points at the row's place in the
     # committed file rather than its place among the rows that happened to be readable.
     rows = [(i, o) for i, o in enumerate(orgs) if isinstance(o, dict)]
+
+    # EVERY ROW STATES ITS ADMITTING EVIDENCE (#169). A row is justified by an oar_chapter
+    # or an enabling_authority (CONTEXT.md: "Admitting evidence" -- either alone is enough),
+    # never by `manual: true` alone -- that flag recorded a human's decision and never what
+    # decided it (ADR 0003), which is the substitution this rule closes off. THE ONE NAMED
+    # EXCEPTION is the row `AWAITING_HUMAN_REVIEW` names: it is reported as awaiting review
+    # (see `evidence_census()`), never silently, and never by inventing the evidence it is
+    # missing.
+    for i, o in rows:
+        if has_admitting_evidence(o):
+            continue
+        slug = o.get("slug")
+        if slug in AWAITING_HUMAN_REVIEW:
+            continue
+        failures.append(Failure(
+            "admitting-evidence", _row_id(o, i),
+            "carries neither an oar_chapter nor an enabling_authority -- nothing admits "
+            "this row into the registry (CONTEXT.md: \"Admitting evidence\"). Record one "
+            f"of the two, never invent one; if this is genuinely {slug!r} awaiting human "
+            "review, it belongs in AWAITING_HUMAN_REVIEW"))
+
+    # `manual: true` IS RETIRED (#169), UNCONDITIONALLY -- NO EXCEPTION, not even for the
+    # row `AWAITING_HUMAN_REVIEW` names above. The flag used to do two jobs; the operational
+    # one (whole-row survival across --refresh) is `absent_from_index_as_of`'s alone now
+    # (#353), which does not read AWAITING_HUMAN_REVIEW either -- a row's evidence being
+    # incomplete has never been a reason the scrape can suddenly see it. So this rule is not
+    # `admitting-evidence`'s mirror image; it does not excuse the one row that rule does,
+    # because the two rules are about different things and this codebase's own history is
+    # the reason they must not be conflated again: the flag's first retirement attempt kept
+    # it on the awaiting-review row as a stand-in for BOTH "unreviewed" and "needs whole-row
+    # protection" at once, which is exactly the two-jobs-in-one-field bug #353 exists to
+    # split apart.
+    for i, o in rows:
+        if "manual" in o:
+            failures.append(Failure(
+                "manual-flag-retired", _row_id(o, i),
+                "manual: true is retired (#169) -- absent_from_index_as_of (#353) is what "
+                "carries a row the scrape cannot see across --refresh now, dated by a real "
+                "observation, never manual: true. Record that field instead and remove "
+                "manual, on this row whether or not it also awaits an admitting-evidence "
+                "review"))
 
     # THE ENABLING AUTHORITY'S THREE STATES, KEPT APART. A row carrying no key at all is
     # saying nobody has looked yet — however many rows that is today, which is the one state
@@ -2726,11 +3318,12 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
                 index_targets.append(entry["target"])
         # AN `oar-index` ENTRY IS A CLAIM THAT --refresh REGENERATES IT, so the rows it may
         # sit on are the rows the refresh rebuilds, and there may be at most ONE. It may not
-        # sit on a `manual` row at all: a manual body is one the chapter index does not
-        # carry (`preserve_manual`), so the index has placed it nowhere, and an entry
+        # sit on a row RECORDED ABSENT from the index at all — `absent_from_index_as_of`
+        # (#353) — because such a body is one the chapter index does not carry
+        # (`preserve_absent_from_index`), so the index has placed it nowhere, and an entry
         # claiming otherwise attributes a placement to a publisher that never made it AND
         # labels an entry nothing can regenerate as one the refresh rebuilds. Nothing else
-        # would notice — the survival simulation preserves a manual row WHOLE and never
+        # would notice — the survival simulation preserves such a row WHOLE and never
         # compares it with a scrape. `registry` is the source that is true of such a
         # placement.
         #
@@ -2741,13 +3334,14 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
         # parent twice, and these name two. Until #174 this rule compared the entries with
         # `parent_slug`, which held the same placement; there is no second copy to compare
         # with now, so it states what the tree can produce instead.
-        if o.get("manual") and index_targets:
+        if o.get(ABSENT_FROM_INDEX_KEY) and index_targets:
             failures.append(Failure(
                 "index-relation-is-regenerated", _row_id(o, i),
-                f"is a {'manual'!r} row carrying {OAR_INDEX!r} relation(s) naming "
-                f"{index_targets!r} — the chapter index does not carry this body, so it has "
-                f"placed it nowhere and no refresh can rebuild the entry; record it as "
-                f"{REGISTRY!r} (or the source that states it)"))
+                f"is recorded absent from the index ({ABSENT_FROM_INDEX_KEY}="
+                f"{o.get(ABSENT_FROM_INDEX_KEY)!r}) yet carries {OAR_INDEX!r} relation(s) "
+                f"naming {index_targets!r} — the chapter index does not carry this body, "
+                f"so it has placed it nowhere and no refresh can rebuild the entry; record "
+                f"it as {REGISTRY!r} (or the source that states it)"))
         elif len(index_targets) > 1:
             failures.append(Failure(
                 "index-relation-is-regenerated", _row_id(o, i),
@@ -2981,7 +3575,8 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
                                 "no oar_name or no slug, so a refresh cannot be simulated "
                                 "against this row — it is unchecked, not clean"))
     survivors = simulate_refresh([o for _, o in simulatable], curated_keys=curated,
-                                 merged_keys=merged, per_row_keys=per_row)
+                                 merged_keys=merged, per_row_keys=per_row,
+                                 index_observation=index_observation)
     for i, o in simulatable:
         got = survivors.get(o.get("slug"))
         if got is None:
@@ -3044,7 +3639,11 @@ def cmd_check(catalog_path=None) -> int:
               file=sys.stderr)
         return 1
     cat = load()
-    failures = check_registry(cat)
+    # WHAT THE LAST REAL --refresh ACTUALLY SAW, if anything ever recorded one (#353's
+    # prerequisite) -- `None` when it has not, which `simulate_refresh()` reads as nothing
+    # to check a row's survival against rather than as either verdict.
+    index_observation = load_index_observation()
+    failures = check_registry(cat, index_observation=index_observation)
     for f in failures:
         print(f, file=sys.stderr)
     orgs = cat.get("organizations") or []
@@ -3053,15 +3652,36 @@ def cmd_check(catalog_path=None) -> int:
               file=sys.stderr)
         return 1
     curated = sum(1 for o in orgs if isinstance(o, dict) for k in o if k in CURATED_KEYS)
+    manual_survivors = sum(1 for o in orgs if isinstance(o, dict)
+                           and o.get(ABSENT_FROM_INDEX_KEY))
     print(f"{len(orgs)} rows against {len(FIELDS)} declared fields; "
           f"{curated} curated value(s) and "
-          f"{sum(1 for o in orgs if isinstance(o, dict) and o.get('manual'))} manual row(s) "
-          "survive a simulated --refresh")
+          f"{manual_survivors} absent-from-index row(s) survive a simulated --refresh")
+    # WHETHER THE SIMULATION HAD A REAL OBSERVATION TO CHECK ROW SURVIVAL AGAINST, printed
+    # rather than left implicit -- "clean" and "clean, but nothing was checked against the
+    # live index" are different claims, and a reader of this output should not have to know
+    # #353's history to tell which one a run just made.
+    print("index observation: " +
+          (f"{len(index_observation['chapters'])} chapter(s), "
+           f"{len(index_observation['groups'])} group(s), retrieved "
+           f"{index_observation.get('retrieved')!r} (last --refresh)"
+           if index_observation is not None else
+           "none recorded yet -- row survival checked only against the committed file"))
+    # THE ABSENCE-OBSERVATION SPLIT ITSELF, PRINTED (#353): how many rows the new dated
+    # field actually covers, how many still rest on the legacy `manual` flag alone, and
+    # whether any dated claim is now contradicted by the newest thing this file has
+    # actually checked — reported, never silently assumed either way (CONTEXT.md).
+    print(f"absence observations: {absence_census(orgs, index_observation)}")
     # HOW MANY CHAPTER PAGES A --refresh FETCHES (#279), printed rather than left for two
     # other scripts' docstrings to state from memory.
     print(f"chapter pages: {chapter_census(orgs)}")
     # THE ENABLING AUTHORITY'S CENSUS, PRINTED RATHER THAN LEFT TO BE COUNTED.
     print(f"enabling authority: {authority_census(orgs)}")
+    # ADMITTING EVIDENCE'S OWN CENSUS (#169): rows total, rows admitted by each kind of
+    # evidence, and the one row still awaiting review -- NAMED, not only counted (see
+    # `evidence_census()`), so a reader never has to go and find the row `admitting-
+    # evidence` is silently excusing.
+    print(f"admitting evidence: {evidence_census(orgs)}")
     # WHAT EACH ROW'S `name` IS (#168), on the same terms: `name` is the statutory name now,
     # and how many rows actually hold one is a fact a reader of this registry needs on every
     # run rather than a number to go and count.
@@ -3135,7 +3755,21 @@ def _fixture():
     cfo["curator_note"] = "fixture-only curator prose, not a claim about the real CFO"
     gov = scraped_entry(oar_name="Office of the Governor", oar_chapter=None,
                         raw_index_name=None, source_url=None)
-    gov["manual"] = True
+    # THE FIXTURE'S OWN ABSENT-FROM-INDEX ROW (#353), DATED (#169 retired the alternative:
+    # `manual: true` would trip `manual-flag-retired` on this row the moment any case ran
+    # this fixture through `check_registry()`, which every one of them does). Every other
+    # rule below that needs "a row the chapter scrape cannot see" reads `gov` for it —
+    # relation mechanics, `preserve_absent_from_index()`'s own survival proofs, this row's
+    # `curator_note` protection — and all of them still hold reading this field alone, the
+    # same way the committed registry's own eighteen rows do since #169.
+    gov[ABSENT_FROM_INDEX_KEY] = "2026-01-01"
+    # ADMITTING EVIDENCE, FICTIONAL FOR THE SAME REASON `das`'s CITATION IS (#169). `gov`'s
+    # slug is not in `AWAITING_HUMAN_REVIEW`, so this fixture's clean baseline needs real
+    # evidence on it exactly as the committed registry's own seventeen non-exempt rows now
+    # carry — an impossible ORS number, because this gate checks the FORM of an authority
+    # and resolves nothing, and a real citation here would read as a verdict on a body
+    # nobody has reviewed.
+    gov["enabling_authority"] = "ORS 999.997"
     gov["aliases"] = ["Governor's Office"]
     # THE TOP-LEVEL `note`, WHICH `note-covers-fields` (#185) READS. Built from FIELDS
     # itself rather than typed out, so adding a field to FIELDS without also touching this
@@ -3527,7 +4161,8 @@ def _case_the_index_places_a_body_under_two_parents(cat):
 
 def _case_index_relation_the_index_could_not_have_stated(cat):
     """An `oar-index` relation on a MANUAL row that has a parent. A manual row is one the
-    chapter scrape cannot see — that is what the flag means (`preserve_manual`) — so the OAR
+    chapter scrape cannot see — that is what the flag (or its replacement,
+    `absent_from_index_as_of`, #353) means (`preserve_absent_from_index`) — so the OAR
     index has stated nothing about where this body sits, and an entry claiming otherwise
     attributes a placement to a publisher that never made it and calls an entry nothing can
     regenerate one the refresh rebuilds. It is also the one row where nothing else would
@@ -3746,6 +4381,23 @@ def _case_organizations_is_not_a_list(cat):
     cat["organizations"] = None
 
 
+def _case_no_admitting_evidence(cat):
+    """A row with neither an oar_chapter nor an enabling_authority — nothing that admits it
+    into the registry (CONTEXT.md: "Admitting evidence"). #169 retired `manual: true` as a
+    stand-in for this, so a row with neither is refused outright unless it is the one named
+    row `AWAITING_HUMAN_REVIEW` excuses — and `cfo`'s slug is not that row, so the refusal
+    here is unconditional."""
+    cat["organizations"][1]["oar_chapter"] = None
+
+
+def _case_manual_flag_reintroduced(cat):
+    """`manual: true` written onto an ordinary row. #169 retires the flag unconditionally —
+    no row may carry it, evidence or not — and `cfo` already carries its own oar_chapter, so
+    this is exactly what reintroducing "a human insisted" looks like on a body that needs no
+    such assertion."""
+    cat["organizations"][1]["manual"] = True
+
+
 _CASES = [
     ("undeclared-field", _case_undeclared_field, "declared-field"),
     ("relations-that-are-not-a-list", _case_relations_that_are_not_a_list,
@@ -3855,6 +4507,10 @@ _CASES = [
     ("statutory-name-that-matches-nothing", _case_statutory_name_that_matches_nothing,
      "findable-by-both-names"),
     ("organizations-is-not-a-list", _case_organizations_is_not_a_list, "readable-registry"),
+    # #169's own two red proofs: a row with neither kind of admitting evidence, and
+    # `manual: true` reintroduced on any ordinary row.
+    ("no-admitting-evidence", _case_no_admitting_evidence, "admitting-evidence"),
+    ("manual-flag-reintroduced", _case_manual_flag_reintroduced, "manual-flag-retired"),
 ]
 
 
@@ -3964,6 +4620,335 @@ _PROOFS = [
     ("third-field-declared-per-row",
      dict(FIELDS, raw_index_name=Field(PER_ROW, required=True)), "name-origin"),
 ]
+
+
+def _proof_simulate_refresh_reads_a_recorded_observation_not_the_committed_file() -> int:
+    """simulate_refresh() replays from a RECORDED OBSERVATION of what the index produced,
+    not from the committed file (#353's prerequisite) — watched both ways on the same
+    fixture, the same shape as the merge/carry proofs below.
+
+    Without `index_observation`, this function was BLIND BY CONSTRUCTION: every non-manual
+    row is reconstructed from the committed file regardless of what the live index
+    currently lists, so a row the index no longer carries still "survived" here — which is
+    exactly why a real refresh once dropped 17 rows a --check run never saw coming. `das`
+    (chapter 125) is left OUT of the observation below; if the reconstruction is still
+    blind, it comes back anyway.
+
+    THE SAME FIXTURE PROVES THE OTHER HALF, TOO: `index_observation=None` — what
+    `load_index_observation()` returns before any real --refresh has ever recorded one —
+    must NOT read as "the index listed nothing". Could-not-check and is-not-there are
+    different facts (CONTEXT.md), and a function that conflated them here would report
+    every row dropped the first time --check ran with no observation file on disk, which is
+    exactly the state this repository is in until a real --refresh records one."""
+    rows = _fixture()["organizations"]
+    # `cfo` (ch. 122) is listed; `das` (ch. 125) is not — the index having genuinely
+    # dropped a chapter is exactly what a real refresh would leave `entries` without.
+    observation = {"chapters": {"122"}, "groups": set()}
+    checked = simulate_refresh(rows, index_observation=observation)
+    unchecked = simulate_refresh(rows, index_observation=None)
+    bad = 0
+    if "department-of-administrative-services" in checked:
+        print("FAIL simulate-refresh-reads-the-observation: a row absent from the recorded "
+              "index observation still survived the simulation", file=sys.stderr)
+        bad += 1
+    if "chief-financial-office" not in checked:
+        print("FAIL simulate-refresh-reads-the-observation: a row the observation DOES "
+              f"list was dropped too ({sorted(checked)!r})", file=sys.stderr)
+        bad += 1
+    if "department-of-administrative-services" not in unchecked:
+        print("FAIL no-observation-is-not-a-verdict: with nothing recorded to check "
+              "against, a row that is genuinely still in the committed file must survive "
+              "the simulation same as before #353, not be reported dropped", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_index_observation_round_trips() -> int:
+    """record_index_observation() writes exactly what load_index_observation() reads back
+    — the chapters and chapterless groups a real fetch found, dated, at a PATH (never the
+    committed one; both take `path` for this reason). And `None` stays `None`: a path
+    nothing has ever written to is "no real fetch has ever recorded one", not "recorded
+    nothing" — the same distinction the proof above makes at `simulate_refresh()`'s seam,
+    made here at the file this repository actually persists it to."""
+    path = REPO_ROOT / "_meta/catalog/.selftest-scratch-index-observation.yml"
+    bad = 0
+    try:
+        if load_index_observation(path=path) is not None:
+            print("FAIL index-observation-none-before-any-record: a path nothing wrote to "
+                  "returned something other than None", file=sys.stderr)
+            bad += 1
+        record_index_observation([("125", "Dept. of Administrative Services", None),
+                                  ("122", "Chief Financial Office", 0),
+                                  (None, "Dept. of Consumer & Business Services", None)],
+                                 path=path)
+        got = load_index_observation(path=path)
+        want = {"chapters": {"125", "122"},
+               "groups": {"Dept. of Consumer & Business Services"},
+               "retrieved": date.today().isoformat()}
+        if got != want:
+            print(f"FAIL index-observation-round-trips: recorded {want!r}, read back "
+                  f"{got!r}", file=sys.stderr)
+            bad += 1
+    finally:
+        path.unlink(missing_ok=True)
+    return bad
+
+
+def _proof_short_parse_is_refused() -> int:
+    """`_assert_parse_plausible()` (code review of #353) refuses a parse implausibly short
+    against what the committed registry expects a live scrape to still produce -- watched
+    both ways: a short synthetic `entries` list against a fixture-sized `prev_orgs` raises,
+    and a full-sized one does not, and neither does any size at all when `prev_orgs` is
+    empty (nothing committed yet to compare against)."""
+    bad = 0
+    prev_orgs = [{"slug": f"row-{i}", "oar_chapter": str(100 + i)} for i in range(20)]
+    try:
+        _assert_parse_plausible([("100", "Row 0", None)], prev_orgs)
+        print("FAIL short-parse-is-refused: no SystemExit raised for 1 entry against 20 "
+              "committed rows", file=sys.stderr)
+        bad += 1
+    except SystemExit:
+        pass
+    try:
+        full_entries = [(str(100 + i), f"Row {i}", None) for i in range(20)]
+        _assert_parse_plausible(full_entries, prev_orgs)
+    except SystemExit as e:
+        print(f"FAIL short-parse-is-not-refused-when-plausible: {e}", file=sys.stderr)
+        bad += 1
+    try:
+        _assert_parse_plausible([], [])
+    except SystemExit as e:
+        print(f"FAIL short-parse-has-nothing-to-compare-with-no-prior-registry: {e}",
+              file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_fetch_failure_does_not_silently_rename_a_committed_slug() -> int:
+    """`_fetch_failure_would_rename_slug()` (code review of #353) reports a chapter whose
+    committed slug a `NOTE_FETCH_FAILED` row in this scrape would silently replace --
+    watched both ways: the failure-note row with a different slug is reported, and the
+    same row with its slug UNCHANGED, or carrying no fetch-failure note at all, is not."""
+    bad = 0
+    prev_orgs = [{"slug": "department-of-administrative-services", "oar_chapter": "125"}]
+    renamed = [{"slug": "dept-of-admin-svcs", "oar_chapter": "125",
+               "note": NOTE_FETCH_FAILED.format(error="timed out")}]
+    got = _fetch_failure_would_rename_slug(renamed, prev_orgs)
+    if got != [("department-of-administrative-services", "dept-of-admin-svcs", "125")]:
+        print(f"FAIL fetch-failure-rename-is-detected: {got!r}", file=sys.stderr)
+        bad += 1
+    unchanged = [{"slug": "department-of-administrative-services", "oar_chapter": "125",
+                 "note": NOTE_FETCH_FAILED.format(error="timed out")}]
+    if _fetch_failure_would_rename_slug(unchanged, prev_orgs):
+        print("FAIL fetch-failure-with-the-same-slug-is-not-reported: "
+              f"{_fetch_failure_would_rename_slug(unchanged, prev_orgs)!r}", file=sys.stderr)
+        bad += 1
+    clean = [{"slug": "dept-of-admin-svcs", "oar_chapter": "125", "note": None}]
+    if _fetch_failure_would_rename_slug(clean, prev_orgs):
+        print("FAIL a-slug-change-with-no-fetch-failure-note-is-not-this-guards-job: "
+              f"{_fetch_failure_would_rename_slug(clean, prev_orgs)!r}", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_stale_index_observation_is_flagged() -> int:
+    """`index-observation-stale` (code review of #353): a recorded index observation dated
+    OLDER than the registry file's own top-level `retrieved` is stale evidence, and
+    `check_registry()` must say so rather than silently checking every row's survival
+    against a look that predates the very file it is judging.
+
+    Watched both ways on one fixture: an observation older than the file fires; the same
+    file with an observation as new (or newer) does not, and neither does the pre-#353
+    default of no top-level `retrieved` on the fixture at all (`check_registry()`'s own
+    `_fixture()` never carries one, which every other proof in this file already runs
+    against with `index_observation` left at its default of `None` -- this is the one
+    place both a real date AND a real observation are supplied together)."""
+    cat = _fixture()
+    cat["retrieved"] = "2026-02-01"
+    bad = 0
+    stale = {"chapters": set(), "groups": set(), "retrieved": "2026-01-01"}
+    failures = check_registry(cat, chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS,
+                              index_observation=stale)
+    if not any(f.rule == "index-observation-stale" for f in failures):
+        print(f"FAIL index-observation-stale-fires: expected it in {failures}",
+              file=sys.stderr)
+        bad += 1
+    current = {"chapters": set(), "groups": set(), "retrieved": "2026-02-01"}
+    failures2 = check_registry(cat, chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS,
+                               index_observation=current)
+    if any(f.rule == "index-observation-stale" for f in failures2):
+        print(f"FAIL index-observation-stale-does-not-fire-when-current: {failures2}",
+              file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_record_absence_observations_dates_only_what_a_real_scrape_dropped() -> int:
+    """record_absence_observations() (#353) dates `absent_from_index_as_of` onto every
+    committed row THIS scrape did not produce, and onto NOTHING it did — watched both ways
+    on one fixture, the same shape as the merge/carry proofs above it.
+
+    `gov` (chapterless, already carrying a stale `absent_from_index_as_of`) is absent from
+    a fresh scrape that produced only `das` — so `gov` must come back RE-dated with TODAY,
+    the day this (simulated) scrape ran, overwriting the stale date already on it.
+    `das` itself, the one row this scrape DID produce, must never be dated at all: that is
+    the failure mode the writer exists to avoid — a row the live index still carries is not
+    one anything may claim, dated, is missing from it."""
+    rows = _fixture()["organizations"]
+    das = next(o for o in rows if o["slug"] == "department-of-administrative-services")
+    gov = next(o for o in rows if o["slug"] == "office-of-the-governor")
+    orgs = [dict(das)]                        # what a fresh scrape actually produced
+    by_slug = {o["slug"]: o for o in orgs}
+    bad = 0
+    record_absence_observations(rows, orgs, by_slug)
+    if ABSENT_FROM_INDEX_KEY not in gov:
+        print("FAIL record-absence-observations-dates-a-genuinely-absent-row: gov was not "
+              "produced by this scrape and should have been dated", file=sys.stderr)
+        bad += 1
+    elif gov[ABSENT_FROM_INDEX_KEY] != date.today().isoformat():
+        print("FAIL record-absence-observations-dates-with-today: "
+              f"{gov[ABSENT_FROM_INDEX_KEY]!r}", file=sys.stderr)
+        bad += 1
+    if ABSENT_FROM_INDEX_KEY in das:
+        print("FAIL record-absence-observations-leaves-a-produced-row-alone: das was "
+              f"produced by this scrape and was dated anyway ({das!r})", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_absent_from_index_field_is_what_preserves_the_row() -> int:
+    """`absent_from_index_as_of` ALONE is enough to carry a row whole across a simulated
+    refresh — and, since #169 removed the legacy `manual` fallback, the ONLY thing that
+    does; a row carrying neither it nor a scrape-visible slug/chapter, genuinely absent from
+    a recorded observation, is not carried at all. Watched both ways.
+
+    `gov` already carries only the new field in `_fixture()` (#169: no row may carry
+    `manual` at all any more, so the fixture itself cannot either), so the first half needs
+    no setup beyond the fixture as `_fixture()` already builds it."""
+    rows = _fixture()["organizations"]
+    survived = simulate_refresh(rows)
+    bad = 0
+    if "office-of-the-governor" not in survived:
+        print("FAIL absent-from-index-field-preserves-the-row: a row carrying "
+              f"{ABSENT_FROM_INDEX_KEY!r} did not survive the simulation", file=sys.stderr)
+        bad += 1
+
+    # THE OTHER DIRECTION: neither signal, and a recorded observation says the live index
+    # does not carry this row either — gone, exactly as `survives-refresh` already reports
+    # for any other row nothing preserves. `gov2` is chapterless (raw_index_name is None in
+    # the fixture), so ANY observation whose `groups` do not name it says the same thing an
+    # empty index would.
+    rows2 = _fixture()["organizations"]
+    gov2 = next(o for o in rows2 if o["slug"] == "office-of-the-governor")
+    del gov2[ABSENT_FROM_INDEX_KEY]
+    observation = {"chapters": set(), "groups": set()}
+    survived2 = simulate_refresh(rows2, index_observation=observation)
+    if "office-of-the-governor" in survived2:
+        print(f"FAIL a-row-with-neither-signal-does-not-survive: gov2 carries no "
+              f"{ABSENT_FROM_INDEX_KEY!r}, and is absent from the recorded observation, "
+              "yet it survived the simulation anyway", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_absence_census_reports_rather_than_assumes() -> int:
+    """`absence_census()` (#353) states the absence-observation split's three states
+    separately, and refuses to GUESS the third (a dated claim now contradicted by the
+    newest recorded fetch) when there is nothing to check it against — CONTEXT.md's
+    overriding rule applied to this field's own report.
+
+    Three synthetic rows, none from `_fixture()` (this proof is about the census function
+    in isolation, not about a registry that also has to pass every other rule): `dated`
+    carries a fresh observation with nothing (yet) to contradict it; `legacy` carries only
+    the predecessor `manual` flag, no date at all; `stale` carries a dated observation that
+    a LATER recorded fetch (supplied only in the second half of this proof) contradicts —
+    the mirror has caught up on its chapter since the date `stale` claims."""
+    dated = {"slug": "dated-row", "oar_chapter": "100", ABSENT_FROM_INDEX_KEY: "2026-01-01"}
+    legacy = {"slug": "legacy-row", "oar_chapter": None, "manual": True}
+    stale = {"slug": "stale-row", "oar_chapter": "200", ABSENT_FROM_INDEX_KEY: "2025-06-01"}
+    orgs = [dated, legacy, stale]
+    bad = 0
+    # NO RECORDED OBSERVATION AT ALL: "contradicted" must read as UNCHECKED, never as zero
+    # — a zero here would assert every dated claim is still good on the strength of never
+    # having looked, exactly the substitution CONTEXT.md forbids.
+    report = absence_census(orgs, index_observation=None)
+    if "not checked" not in report:
+        print(f"FAIL absence-census-refuses-to-guess-with-no-observation: {report!r}",
+              file=sys.stderr)
+        bad += 1
+    if "2 dated" not in report or "1 legacy-only" not in report:
+        print(f"FAIL absence-census-counts-dated-and-legacy-separately: {report!r}",
+              file=sys.stderr)
+        bad += 1
+    # A RECORDED OBSERVATION THAT CONTRADICTS `stale` (chapter 200 is back in the live
+    # index) BUT NOT `dated` (chapter 100 still is not): the contradiction is counted, and
+    # counted as exactly one — neither folded into `dated` nor silently dropped.
+    observation = {"chapters": {"200"}, "groups": set()}
+    report2 = absence_census(orgs, index_observation=observation)
+    if "1 contradicted" not in report2:
+        print(f"FAIL absence-census-reports-a-contradicted-claim: {report2!r}",
+              file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_the_awaiting_review_exemption_does_not_extend_to_the_manual_flag() -> int:
+    """#169's third red proof, and the one that cannot be a `_CASES` entry: it needs TWO
+    states of the SAME row, not one mutation away from a clean baseline. `AWAITING_HUMAN_
+    REVIEW` excuses a row from `admitting-evidence` alone — the earlier attempt at this
+    ticket (reverted by code review) let the same flag stand for both "unreviewed" and
+    "needs whole-row protection" on this one row, which is the exact two-jobs-in-one-field
+    bug #353 exists to split apart. This proof is what keeps that regression from coming
+    back unnoticed.
+
+    A DEDICATED, DISPOSABLE ROW, not `_fixture()`'s own `gov` — that row is load-bearing for
+    a dozen OTHER cases across this file, and repurposing it here would make this proof
+    responsible for every one of them staying green. This one is added to a fresh
+    `_fixture()` copy and touches nothing else in it.
+
+    STATE ONE: the named row, evidence-less and carrying no `manual` key at all — exactly
+    how `legislative-counsel-office` sits in the committed registry today (it too carries
+    `absent_from_index_as_of` for the operational job, which is irrelevant to either rule
+    tested here). Both `admitting-evidence` and `manual-flag-retired` must stay quiet.
+
+    STATE TWO: the same row gains `manual: true`, still with no evidence. `admitting-
+    evidence` must STILL stay quiet — the flag's presence neither grants nor removes
+    evidence, and the row is still named in `AWAITING_HUMAN_REVIEW` — while `manual-flag-
+    retired` MUST fire, because that rule reads no exemption at all, named row or not."""
+    bad = 0
+    cat = _fixture()
+    baseline_note = cat["note"]
+    slug = next(iter(AWAITING_HUMAN_REVIEW))
+    row = scraped_entry(oar_name="Legislative Counsel Office", oar_chapter=None,
+                        raw_index_name=None, source_url=None)
+    row["slug"] = slug
+    row[ABSENT_FROM_INDEX_KEY] = "2026-01-01"
+    cat["organizations"].append(row)
+
+    failures = check_registry(cat, refresh_note=baseline_note,
+                              chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS)
+    live = {f.rule for f in failures if f.site == slug}
+    if live & {"admitting-evidence", "manual-flag-retired"}:
+        print(f"FAIL awaiting-review-row-does-not-fail-today: {sorted(live)} fired against "
+              f"{slug!r} while it is evidence-less and carries no manual key", file=sys.stderr)
+        bad += 1
+
+    row["manual"] = True
+    failures = check_registry(cat, refresh_note=baseline_note,
+                              chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS)
+    live = {f.rule for f in failures if f.site == slug}
+    if "admitting-evidence" in live:
+        print(f"FAIL awaiting-review-exemption-still-holds-with-manual-present: "
+              f"{slug!r} gained a bare `manual: true` and admitting-evidence fired anyway, "
+              f"as though the flag's presence changed what evidence this row carries",
+              file=sys.stderr)
+        bad += 1
+    if "manual-flag-retired" not in live:
+        print(f"FAIL manual-flag-retired-has-no-named-exception: {slug!r} carries "
+              f"`manual: true` and is named in AWAITING_HUMAN_REVIEW, and no manual-flag-"
+              f"retired failure named it: {failures!r}", file=sys.stderr)
+        bad += 1
+    return bad
 
 
 def _proof_the_merge_is_what_carries_a_curated_relation() -> int:
@@ -4641,6 +5626,15 @@ def selftest() -> int:
     bad += _proof_the_relation_census_counts_every_kind()
     bad += _proof_chapter_page_count_check_fires_on_a_stale_docstring()
     bad += _proof_missing_registry_is_refused()
+    bad += _proof_simulate_refresh_reads_a_recorded_observation_not_the_committed_file()
+    bad += _proof_index_observation_round_trips()
+    bad += _proof_stale_index_observation_is_flagged()
+    bad += _proof_short_parse_is_refused()
+    bad += _proof_fetch_failure_does_not_silently_rename_a_committed_slug()
+    bad += _proof_record_absence_observations_dates_only_what_a_real_scrape_dropped()
+    bad += _proof_absent_from_index_field_is_what_preserves_the_row()
+    bad += _proof_absence_census_reports_rather_than_assumes()
+    bad += _proof_the_awaiting_review_exemption_does_not_extend_to_the_manual_flag()
     bad += _proof_the_merge_is_what_carries_a_curated_relation()
     bad += _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry()
     bad += _proof_the_carry_is_what_keeps_an_established_statutory_name()
