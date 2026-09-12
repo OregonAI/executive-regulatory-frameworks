@@ -12,10 +12,21 @@ built for verdicts ("triage is what makes re-analysis safe: a dismissed finding 
 dismissed") and never exercised — and the publish rule for anything conflict-shaped is
 that unreviewed model output is never presented as findings. This is the gate.
 
-ORDERING. Candidates whose cited documents also appear in Audits Division report
-citations come FIRST (the issue-#82 overlap — the ones with external corroboration
-waiting), then by the model's own severity x confidence, then the rest. Ordering is
+ORDERING. By the model's own severity x confidence, then the rest. Ordering is
 advisory; every candidate remains reachable.
+
+AUDIT OVERLAP IS NOT A RANKING SIGNAL, MEASURED. This tier used to come FIRST, on the
+premise that a candidate the Audits Division also cites has "external corroboration
+waiting". #82 tested that premise against the audit text -- all 27 overlapping documents,
+68 reports read, each classified with a verbatim quote and adversarially re-checked --
+and found corroboration in ZERO of them. 21 of 27 citations are plain background, 3 a
+standard the auditee was measured against, 1 the audit's own authority. Both candidates
+initially read as corroborating were refuted on re-examination.
+
+An audit CITING a provision is not an auditor FINDING a problem with it. The overlap is
+both methods gravitating to heavily-regulated areas -- procurement, public safety, PERS.
+Sorting a human's scarcest resource by it spent their best attention on candidates
+selected by noise, while a flag reading like endorsement told them it was evidence.
 
 WRITE PATH. Verdicts are saved after EVERY keypress (crash-safe). The catalog is
 machine-generated YAML; the first save may renormalize formatting once — --selftest
@@ -45,8 +56,9 @@ def weak_quote_fingerprints() -> tuple[set, set]:
 
     These are the two classes machine verification cannot bless — an omission has
     nothing to string-match, and an ungrounded quote failed the match — so they go to
-    the FRONT of the human queue (right after the audit-corroborated set): the places a
-    confident fabrication could survive are the places a human should look first."""
+    the FRONT of the human queue: the places a confident fabrication could survive are
+    the places a human should look first. They lead outright since #82 removed the
+    audit-overlap tier that used to sit above them."""
     import json
     if not DERIVED.is_file():
         return set(), set()
@@ -80,7 +92,10 @@ def doc_url(doc_id: str) -> str:
 
 def audit_cited_ids() -> set[str]:
     """ERF doc ids the audit corpus cites — read from a sibling checkout when present.
-    Absence just means the overlap ordering is skipped, and says so."""
+
+    Kept, and still DISPLAYED per candidate: that an audit cites a document is a true
+    fact a reviewer may want. It orders nothing since #82 measured the overlap at zero
+    corroboration (0 of 27). Absence of the checkout just omits the note."""
     if not AUDITS_GRAPH.is_file():
         return set()
     import json
@@ -189,10 +204,12 @@ def main() -> int:
     if args.report:
         return report(cat)
 
+    # Still derived, still shown per candidate -- it is a true fact about the document
+    # and a reviewer may want it. It no longer ORDERS anything (#82).
     audited = audit_cited_ids()
     if not audited:
-        print("(no oregon-audits checkout beside this repo — audit-overlap ordering "
-              "skipped; severity ordering only)\n")
+        print("(no oregon-audits checkout beside this repo — the audit-citation note "
+              "below is omitted; ordering is unaffected)\n")
 
     queue = [(ch, c) for ch, c in walk(cat)
              if (c.get("triage") or {}).get("status", "unreviewed") == "unreviewed"]
@@ -205,16 +222,19 @@ def main() -> int:
         of the catalog YAML this tool loads — 0 of 1,398 candidates carry one — so the
         previous `cand.get("fingerprint")` returned None for every candidate, `None in
         absence` was False for every candidate, and this whole ordering tier sorted
-        nothing while still looking sorted (the audit-overlap and severity tiers work,
-        so the queue came out plausibly ordered either way).
+        nothing while still looking sorted (the severity tier works, so the queue came
+        out plausibly ordered either way -- as did the audit-overlap tier above it,
+        which #82 has since removed for sorting by a measured non-signal).
 
         Deriving it here is what every other consumer already does — merge_into_catalog
         computes it on the fly the same way to carry triage across runs — and it is what
         makes the two sides of the `in` comparison come from the same function.
         """
         return candidate_fingerprint(ch["ors_chapter"], cand)
+    # #82: the audit-overlap tier was HERE, first. Removed, not demoted -- a tier that
+    # sorts by a signal measured at zero is not a weak signal, it is noise with a
+    # position. Severity x confidence is the model's own evidence and now leads.
     queue.sort(key=lambda t: (
-        -int(any(d["id"] in audited for d in t[1].get("documents", []))),
         -int(fp(*t) in absence or fp(*t) in ungrounded),
         -_RANK.get(t[1].get("severity")), -_RANK.get(t[1].get("confidence"))))
     if args.limit:
@@ -227,7 +247,8 @@ def main() -> int:
         overlap = any(d["id"] in audited for d in cand.get("documents", []))
         print("=" * 78)
         print(f"ORS chapter {ch['ors_chapter']}"
-              + ("   ** cited by Audits Division reports **" if overlap else ""))
+              + ("   [also cited by an audit — #82 measured this as carrying NO "
+                 "corroboration signal: 0 of 27]" if overlap else ""))
         print(f"severity: {cand.get('severity')}  confidence: {cand.get('confidence')}  "
               f"run: {cand.get('run_id')}")
         print(textwrap.fill(cand["summary"], 78), "\n")
