@@ -57,6 +57,10 @@ from repo_lib import ORCONST_ARTICLE_TOKEN, ORCONST_SECTION_TOKEN, REPO_ROOT
 BASE = "https://oregon.public.law"
 INDEX_URL = f"{BASE}/rules"
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
+# WHAT A REAL --refresh LAST SAW, so `simulate_refresh()` can replay from an observation of
+# the index rather than from the committed file (#353's prerequisite). See
+# `record_index_observation()` and `load_index_observation()`, below `cmd_refresh()`.
+INDEX_OBSERVATION = REPO_ROOT / "_meta/catalog/oar_index_observation.yml"
 
 # ------------------------------------------------------------------- the registry's fields
 #
@@ -1851,6 +1855,62 @@ def is_scrape_note(note) -> bool:
     return isinstance(note, str) and any(p.match(note) for p in NOTE_SCRAPE_SHAPES)
 
 
+def record_index_observation(entries, path=None) -> None:
+    """Write what a REAL, SUCCESSFUL fetch of the index just found — every chapter and
+    every chapterless group `parse_index()` produced from a page that WAS retrieved — dated
+    the day it was retrieved. `simulate_refresh()` reads this back, and it is what lets that
+    function tell "the index does not list this chapter" from "the index was unreachable"
+    apart (#353's prerequisite; see that function's docstring).
+
+    ONLY EVER CALLED AFTER `parse_index()` HAS ALREADY SUCCEEDED. `cmd_refresh()` calls
+    `get(INDEX_URL)` with nothing catching what it raises — a DNS failure, a timeout, a
+    non-2xx status all propagate straight through `cmd_refresh()` and `main()` alike and the
+    process exits before `entries` exists at all, before this function is ever reached and
+    before anything is written here. That is the whole of how this file avoids ever
+    recording "the index does not list chapter N" on a day the index was simply
+    unreachable: the code path that could conflate the two never calls this function. What
+    this function cannot see — and does not try to — is a fetch that returns 200 with
+    truncated or substituted content; that risk is not new here and not this ticket's to
+    close (every consumer of `get()` already trusts a non-raising response as genuine).
+
+    A CHAPTER IS ITS OWN IDENTITY; A CHAPTERLESS GROUP IS ITS RAW INDEX TEXT. Both are
+    exactly what `parse_index()` already uses to tell entries apart from each other — no
+    new key, nothing this function could get out of step with the parser that feeds it.
+
+    `path` is a PARAMETER, defaulting to `INDEX_OBSERVATION`, so --selftest can prove the
+    round trip against a throwaway file instead of overwriting the committed one."""
+    path = INDEX_OBSERVATION if path is None else path
+    chapters = sorted({e[0] for e in entries if e[0]})
+    groups = sorted({e[1] for e in entries if e[0] is None})
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(yaml.safe_dump(
+        {"retrieved": date.today().isoformat(), "source_url": INDEX_URL,
+         "chapters": chapters, "groups": groups},
+        sort_keys=False, allow_unicode=True, width=100))
+
+
+def load_index_observation(path=None):
+    """What the last REAL, successful fetch of the index found — as
+    `{"chapters": {...}, "groups": {...}}` — or `None` if no real fetch has ever recorded
+    one.
+
+    `None` IS NOT "EMPTY", and the difference is the whole point (CONTEXT.md, "could not
+    check is never reported as is not there"). A recorded observation with empty sets is a
+    real, dated claim that a successful fetch listed nothing — a fact so alarming it would
+    already be on fire elsewhere. `None` means no --refresh has ever recorded anything AT
+    ALL, which `simulate_refresh()` reads as "nothing to check this row's survival
+    against" — silence, not a verdict either way — exactly the way every other unestablished
+    fact in this registry stays silent rather than defaulting to an answer.
+
+    `path` is a PARAMETER for the same reason `record_index_observation()`'s is."""
+    path = INDEX_OBSERVATION if path is None else path
+    if not path.exists():
+        return None
+    obs = yaml.safe_load(path.read_text()) or {}
+    return {"chapters": set(obs.get("chapters") or ()),
+            "groups": set(obs.get("groups") or ())}
+
+
 def cmd_refresh():
     raw = get(INDEX_URL)
     entries = parse_index(raw)
@@ -1862,6 +1922,15 @@ def cmd_refresh():
     print(f"index: {len(chapters)} chapters + {n_groups} chapterless parent groups "
           f"({sum(1 for e in entries if e[2] is not None)} sub-units); "
           f"fetching proper names from chapter pages...")
+
+    # RECORDED HERE, NOT AFTER THE CHAPTER-PAGE FETCHES BELOW. What the index itself lists
+    # is already fully known from `entries` -- the per-chapter fetches below only refine a
+    # NAME, and a name-fetch failure (NOTE_FETCH_FAILED) never removes a row from `entries`,
+    # so it must never be able to make this observation record a chapter as absent either.
+    # Reached only because `get(INDEX_URL)` and `parse_index()` already succeeded above --
+    # see `record_index_observation()`'s docstring for why that is what keeps "unreachable"
+    # from ever being written down as "omitted".
+    record_index_observation(entries)
 
     # Fetch proper names for every chaptered entry
     orgs = [None] * len(entries)
@@ -2230,7 +2299,19 @@ def resolve(name, organizations=None):
 # check" is never reported as "is not there".
 
 
-def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None, per_row_keys=None):
+def _row_in_index_observation(o, index_observation) -> bool:
+    """Whether the recorded observation says the live index still lists `o` — by chapter
+    for a chaptered row, by the raw index text `parse_index()` produced for a chapterless
+    group, exactly the two identities `record_index_observation()` records and the two
+    `parse_index()` already tells entries apart by."""
+    ch = o.get("oar_chapter")
+    if ch is not None:
+        return ch in index_observation["chapters"]
+    return o.get("raw_index_name") in index_observation["groups"]
+
+
+def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None, per_row_keys=None,
+                     index_observation=None):
     """{slug: row} for what --refresh would leave behind, run against committed data.
 
     NO NETWORK AND NO SCRAPE. The scrape is replayed rather than performed: every row the
@@ -2240,9 +2321,33 @@ def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None, per_row_key
     the upstream index still says the same thing, which is a question only a fetch can
     answer and not one a PR can break.
 
+    UNLESS `index_observation` SAYS OTHERWISE (#353's prerequisite). Left at the default,
+    this function is BLIND BY CONSTRUCTION — it reconstructs every non-manual row from the
+    committed file regardless of what the live index currently says, so a row the real
+    index no longer lists still "survives" here. That blindness is exactly why a real
+    refresh once dropped 17 rows a `--check` run never saw coming: nothing it consulted
+    could disagree with the committed file. `index_observation`, from
+    `load_index_observation()`, is what a real, successful fetch of the index actually
+    found; a row `_row_in_index_observation()` says is absent from it is not reconstructed
+    at all here, the same as a real refresh would leave it out of `entries` — and
+    `check_registry()`'s `survives-refresh` rule reports its disappearance exactly the way
+    it already reports any other row nothing preserves.
+
+    `None` (the default) MEANS NO OBSERVATION TO CHECK AGAINST, not "everything survives"
+    and not "nothing does" — it is what `load_index_observation()` returns when no real
+    --refresh has ever recorded one, and CONTEXT.md's rule ("could not check is never
+    reported as is not there") is exactly why this function must not read absence-of-an-
+    observation as evidence of anything. So `None` reproduces this function's original,
+    pre-#353 behavior unchanged: every non-manual row is reconstructed from the committed
+    file, same as always, and the two facts — "the index omitted this row" and "there is no
+    recorded observation to check it against" — stay the different facts they are, never
+    collapsed into the same "dropped" verdict.
+
     A `manual` row is not reconstructed, because the scrape cannot see it: that is what the
     flag means. It comes back through preserve_manual() or not at all, and "or not at all"
-    is a bug that already happened once (see that function).
+    is a bug that already happened once (see that function). It is also never checked
+    against `index_observation` — a manual row is, by definition, one the index does not
+    carry, so the observation has nothing to say about it either way.
 
     WHAT IT CAN NO LONGER SIMULATE, stated rather than left to be discovered. The index's
     placement is replayed from the row's own `oar-index` entry, because #174 removed the
@@ -2262,6 +2367,8 @@ def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None, per_row_key
     orgs, by_slug, index_parents = [], {}, {}
     for o in prev_orgs:
         if o.get("manual"):
+            continue
+        if index_observation is not None and not _row_in_index_observation(o, index_observation):
             continue
         # NAME READER — MACHINERY: the survival simulation replaying the scrape from
         # committed values. The OAR name is what the scrape produces, so that is what is
@@ -2324,8 +2431,18 @@ def _claimed_twice(key, rows):
             seen[value] = _row_id(o, i)
 
 
-def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) -> list:
+def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None,
+                   index_observation=None) -> list:
     """Every way the registry violates its contract, as Failures.
+
+    `index_observation` is passed straight through to `simulate_refresh()` — see that
+    function's docstring. It is a PARAMETER, not read from disk here, for the same reason
+    `fields`/`refresh_note`/`chapter_page_docs` are: --selftest proves this function against
+    a synthetic registry, and a call here that quietly loaded the real committed observation
+    file would make every one of those proofs depend on what the last real --refresh
+    happened to see. `cmd_check()` is the one caller that loads the real file and passes it
+    in; left at the default (`None`), this reproduces `simulate_refresh()`'s original,
+    pre-#353 behavior — nothing to check a row's survival against, not a verdict either way.
 
     `fields` is the declaration to check against, defaulting to the one this module ships.
     It is a PARAMETER so that --selftest can check a registry against a differently-declared
@@ -2981,7 +3098,8 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None) 
                                 "no oar_name or no slug, so a refresh cannot be simulated "
                                 "against this row — it is unchecked, not clean"))
     survivors = simulate_refresh([o for _, o in simulatable], curated_keys=curated,
-                                 merged_keys=merged, per_row_keys=per_row)
+                                 merged_keys=merged, per_row_keys=per_row,
+                                 index_observation=index_observation)
     for i, o in simulatable:
         got = survivors.get(o.get("slug"))
         if got is None:
@@ -3044,7 +3162,11 @@ def cmd_check(catalog_path=None) -> int:
               file=sys.stderr)
         return 1
     cat = load()
-    failures = check_registry(cat)
+    # WHAT THE LAST REAL --refresh ACTUALLY SAW, if anything ever recorded one (#353's
+    # prerequisite) -- `None` when it has not, which `simulate_refresh()` reads as nothing
+    # to check a row's survival against rather than as either verdict.
+    index_observation = load_index_observation()
+    failures = check_registry(cat, index_observation=index_observation)
     for f in failures:
         print(f, file=sys.stderr)
     orgs = cat.get("organizations") or []
@@ -3057,6 +3179,15 @@ def cmd_check(catalog_path=None) -> int:
           f"{curated} curated value(s) and "
           f"{sum(1 for o in orgs if isinstance(o, dict) and o.get('manual'))} manual row(s) "
           "survive a simulated --refresh")
+    # WHETHER THE SIMULATION HAD A REAL OBSERVATION TO CHECK ROW SURVIVAL AGAINST, printed
+    # rather than left implicit -- "clean" and "clean, but nothing was checked against the
+    # live index" are different claims, and a reader of this output should not have to know
+    # #353's history to tell which one a run just made.
+    print("index observation: " +
+          (f"{len(index_observation['chapters'])} chapter(s), "
+           f"{len(index_observation['groups'])} group(s) (recorded by the last --refresh)"
+           if index_observation is not None else
+           "none recorded yet -- row survival checked only against the committed file"))
     # HOW MANY CHAPTER PAGES A --refresh FETCHES (#279), printed rather than left for two
     # other scripts' docstrings to state from memory.
     print(f"chapter pages: {chapter_census(orgs)}")
@@ -3966,6 +4097,77 @@ _PROOFS = [
 ]
 
 
+def _proof_simulate_refresh_reads_a_recorded_observation_not_the_committed_file() -> int:
+    """simulate_refresh() replays from a RECORDED OBSERVATION of what the index produced,
+    not from the committed file (#353's prerequisite) — watched both ways on the same
+    fixture, the same shape as the merge/carry proofs below.
+
+    Without `index_observation`, this function was BLIND BY CONSTRUCTION: every non-manual
+    row is reconstructed from the committed file regardless of what the live index
+    currently lists, so a row the index no longer carries still "survived" here — which is
+    exactly why a real refresh once dropped 17 rows a --check run never saw coming. `das`
+    (chapter 125) is left OUT of the observation below; if the reconstruction is still
+    blind, it comes back anyway.
+
+    THE SAME FIXTURE PROVES THE OTHER HALF, TOO: `index_observation=None` — what
+    `load_index_observation()` returns before any real --refresh has ever recorded one —
+    must NOT read as "the index listed nothing". Could-not-check and is-not-there are
+    different facts (CONTEXT.md), and a function that conflated them here would report
+    every row dropped the first time --check ran with no observation file on disk, which is
+    exactly the state this repository is in until a real --refresh records one."""
+    rows = _fixture()["organizations"]
+    # `cfo` (ch. 122) is listed; `das` (ch. 125) is not — the index having genuinely
+    # dropped a chapter is exactly what a real refresh would leave `entries` without.
+    observation = {"chapters": {"122"}, "groups": set()}
+    checked = simulate_refresh(rows, index_observation=observation)
+    unchecked = simulate_refresh(rows, index_observation=None)
+    bad = 0
+    if "department-of-administrative-services" in checked:
+        print("FAIL simulate-refresh-reads-the-observation: a row absent from the recorded "
+              "index observation still survived the simulation", file=sys.stderr)
+        bad += 1
+    if "chief-financial-office" not in checked:
+        print("FAIL simulate-refresh-reads-the-observation: a row the observation DOES "
+              f"list was dropped too ({sorted(checked)!r})", file=sys.stderr)
+        bad += 1
+    if "department-of-administrative-services" not in unchecked:
+        print("FAIL no-observation-is-not-a-verdict: with nothing recorded to check "
+              "against, a row that is genuinely still in the committed file must survive "
+              "the simulation same as before #353, not be reported dropped", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_index_observation_round_trips() -> int:
+    """record_index_observation() writes exactly what load_index_observation() reads back
+    — the chapters and chapterless groups a real fetch found, dated, at a PATH (never the
+    committed one; both take `path` for this reason). And `None` stays `None`: a path
+    nothing has ever written to is "no real fetch has ever recorded one", not "recorded
+    nothing" — the same distinction the proof above makes at `simulate_refresh()`'s seam,
+    made here at the file this repository actually persists it to."""
+    path = REPO_ROOT / "_meta/catalog/.selftest-scratch-index-observation.yml"
+    bad = 0
+    try:
+        if load_index_observation(path=path) is not None:
+            print("FAIL index-observation-none-before-any-record: a path nothing wrote to "
+                  "returned something other than None", file=sys.stderr)
+            bad += 1
+        record_index_observation([("125", "Dept. of Administrative Services", None),
+                                  ("122", "Chief Financial Office", 0),
+                                  (None, "Dept. of Consumer & Business Services", None)],
+                                 path=path)
+        got = load_index_observation(path=path)
+        want = {"chapters": {"125", "122"},
+               "groups": {"Dept. of Consumer & Business Services"}}
+        if got != want:
+            print(f"FAIL index-observation-round-trips: recorded {want!r}, read back "
+                  f"{got!r}", file=sys.stderr)
+            bad += 1
+    finally:
+        path.unlink(missing_ok=True)
+    return bad
+
+
 def _proof_the_merge_is_what_carries_a_curated_relation() -> int:
     """A curated relation survives a refresh, and survives it BECAUSE preserve_relations()
     carries it — the merge watched working and watched failing, on the same fixture.
@@ -4641,6 +4843,8 @@ def selftest() -> int:
     bad += _proof_the_relation_census_counts_every_kind()
     bad += _proof_chapter_page_count_check_fires_on_a_stale_docstring()
     bad += _proof_missing_registry_is_refused()
+    bad += _proof_simulate_refresh_reads_a_recorded_observation_not_the_committed_file()
+    bad += _proof_index_observation_round_trips()
     bad += _proof_the_merge_is_what_carries_a_curated_relation()
     bad += _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry()
     bad += _proof_the_carry_is_what_keeps_an_established_statutory_name()
