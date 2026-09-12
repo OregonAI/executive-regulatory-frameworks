@@ -12,12 +12,24 @@ worklist (#256) — every rule the Bulletin named that this corpus holds, plus a
 sample of held rules it did not name — and it **grows with ingestion**: `ingest_oar.py`
 registers every rule it mirrors, so a newly-held rule is watched from the day it arrives.
 
-Today that is **6,614 rule pages across 136 chapters — covering 15.5% of the 42,561 rule
-documents on disk**. Of those, 1,006 carry the #256 seeding (406 Bulletin-named, 600
-sampled) and 5,608 arrived with #238's ingest of the OAR catalog. The seeded 1,006 was
-2.7% of the 36,953 documents held when this ADR was written; the growth since is ingestion,
-not a reseed, and whether *watch everything mirrored* is the policy this ADR should state —
-rather than a behaviour it acquired — is #308.
+**The policy is: every rule this corpus mirrors is watched, from the day it is ingested.**
+Decided on #308, 2026-09-11. The #256 seeding — a Bulletin-named set plus a rolling sample —
+was scaffolding for a mirror that was too incomplete to watch wholesale, not a statement that
+a subset is the right thing to watch. `ingest_oar.py` registering every rule it mirrors is
+therefore the policy working, not a side effect to be undone.
+
+**The policy is not yet the practice, and this paragraph will not pretend otherwise.** Today
+**6,614 rule pages across 136 chapters are watched — 15.5% of the 42,561 rule documents on
+disk**, across 170 mirrored chapters. Of those 6,614, 1,006 carry the #256 seeding (406
+Bulletin-named, 600 sampled) and 5,608 arrived with #238's ingest. The remaining **35,947
+rules were mirrored before `ingest_oar.py` registered what it ingested**, and nothing has
+enrolled them since. Backfilling them is #402: a 6.4x increase in per-run hashing, which is a
+cost to price rather than a consequence to inherit silently.
+
+**Until that backfill lands, the rolling sample stays.** It is the only mechanism that reaches
+the 35,947 — it walks the whole mirror, not the watched set, so retiring it as "redundant under
+the new policy" would take those rules from *visited once every ~71 runs* to *never visited*.
+The sample retires when the backfill makes it genuinely redundant, and not before.
 
 We decided the two run **side by side**, and that neither is the arbiter of the other.
 
@@ -63,8 +75,13 @@ The watched set is now **derived from the notice it is compared against**, so al
 are reachable by construction: 406 rules are in both signals this month. The rolling sample
 carries the other half of the job, because a rule nobody filed against is exactly the rule a
 silent correction would touch; the cursor advances and wraps, so at 600 a run the whole
-mirror is visited once every 62 runs — stated rather than implied, and a far weaker
+mirror is visited once every **71** runs — stated rather than implied, and a far weaker
 guarantee than the named half.
+
+Under the policy stated above the sample is **transitional**, and its weakness is now its
+whole justification: it is the only coverage the 35,947 un-enrolled rules have. Every rule
+#402's backfill enrols moves from that 71-run cycle to per-run hashing, and the sample shrinks
+to what remains. It retires when nothing remains, not when the policy is written down.
 
 `src/seed_oar_watch.py --check` fails if a rule this bulletin named and this corpus holds is
 not watched, and `src/oar_watch_coverage.py --check` fails if this paragraph and the manifest
