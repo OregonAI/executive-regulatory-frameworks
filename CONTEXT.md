@@ -533,7 +533,7 @@ _Avoid_: Evidence, provenance, reason — a basis says what a KIND was derived f
 **Undetermined**:
 The kind of a relation nobody has decided yet. Choosing between *part of* and *administered
 by* turns on whether the body carries its own admitting evidence (ADR 0004), and
-36 <!--census:agencies.relation_kind__undetermined--> of the
+3 <!--census:agencies.relation_kind__undetermined--> of the
 82 <!--census:agencies.relation_total_relations--> relations have none of any strength — so
 `undetermined` is what they record, and
 `catalog_agencies.py --check` reports the count on every run. It says the relation is REAL
@@ -541,9 +541,21 @@ and its kind unestablished, which is neither of the two kinds and is never a thi
 is also never derived from a MERE absence: that a matcher found no candidate for a body is a
 statement about the matcher, so a relation nothing speaks to stays undetermined rather than
 becoming *part of* — that is distinct from a REVIEWED absence, `none: <reason>`, which a
-human recorded and which does derive *part of* (#222; see **Part of** above). 36
-<!--census:agencies.relation_kind__undetermined--> of them is the answer rather than a
-backlog.
+human recorded and which does derive *part of* (#222; see **Part of** above).
+
+THE REMAINING 3 <!--census:agencies.relation_kind__undetermined--> ARE NOT A BACKLOG, AND NOT
+THE ORIGINAL KIND OF UNDETERMINED EITHER. This was 36 <!--observed:2026-09-12--> until a review
+of every one of them recorded 33 <!--census:agencies.relation_basis__reviewed-absence--> reviewed
+absences, and #222's derivation turned those into
+33 <!--census:agencies.relation_kind__part_of--> *part of* relations.
+They are the State Fire Marshal, Early Learning and Emergency Management: each
+was detached from its parent by statute and made a standalone agency, while the OAR chapter
+registration still places it under the old one. A reviewed absence would be the WRONG finding
+for a body that is separately constituted, and recording its enabling authority would derive
+*administered by*, asserting exactly the attachment the statute ended. So they stay
+`undetermined` — not because nobody looked, but because this registry has no way yet to say
+*was part of, now separate*. That gap is the reason for the count, and naming it here is the
+difference between a known limit and an unexplained residue.
 _Avoid_: Unknown, null, blank — an absent kind lets a consumer read whichever it prefers
 
 **DAS agency number**:
