@@ -135,7 +135,7 @@ GATES = (
     Gate('ORS ingest title-anchoring check must refuse a one-shared-word mis-anchor',
          ('python3', 'src/ingest_ors.py', '--selftest'),
          tier='pr', serial=True, timeout=600),
-    Gate('ORS catalog TOC xref-range parsing must be able to fail (selftest)',
+    Gate('ORS catalog TOC parsing rules (xref-range, recovered-entry, title-gluing) must all be able to fail (selftest)',
          ('python3', 'src/catalog_ors.py', '--selftest'),
          tier='pr', serial=True, timeout=120),
     Gate('ORS catalog section titles must match a fresh re-parse of their cached snapshots',
