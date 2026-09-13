@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-10.125
-title: "Security for jury sequestered or kept overnight (Temporary provisions relating to Task Force on Removing Barriers to Jury Service are compiled as notes followin"
+title: "Security for jury sequestered or kept overnight (Temporary provisions relating to Task Force on Removing Barriers to Jury Service are compiled as notes following ORS"
 doc_type: statute
 citation: "ORS 10.125"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-10"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors010.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Security for jury sequestered or kept overnight (Temporary provisions relating to Task Force on Removing Barriers to Jury Service are compiled as notes followin (ORS 10.125)
+# Security for jury sequestered or kept overnight (Temporary provisions relating to Task Force on Removing Barriers to Jury Service are compiled as notes following ORS (ORS 10.125)
 
 ## At a glance
 
-ORS 10.125 — Security for jury sequestered or kept overnight (Temporary provisions relating to Task Force on Removing Barriers to Jury Service are compiled as notes followin. Chapter 10 (Juries), 2025 Edition.
+ORS 10.125 — Security for jury sequestered or kept overnight (Temporary provisions relating to Task Force on Removing Barriers to Jury Service are compiled as notes following ORS. Chapter 10 (Juries), 2025 Edition.
 
 ## Full text
 

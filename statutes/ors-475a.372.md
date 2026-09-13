@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475a.372
-title: "Requirement of psilocybin service center operator to collect, maintain, aggregate and submit to Oregon Health Authority specified information; client opt-out; e"
+title: "Requirement of psilocybin service center operator to collect, maintain, aggregate and submit to Oregon Health Authority specified information; client opt-out; exemption from disclosure; rules"
 doc_type: statute
 citation: "ORS 475A.372"
 authority_level: statute
@@ -46,11 +46,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Requirement of psilocybin service center operator to collect, maintain, aggregate and submit to Oregon Health Authority specified information; client opt-out; e (ORS 475A.372)
+# Requirement of psilocybin service center operator to collect, maintain, aggregate and submit to Oregon Health Authority specified information; client opt-out; exemption from disclosure; rules (ORS 475A.372)
 
 ## At a glance
 
-ORS 475A.372 — Requirement of psilocybin service center operator to collect, maintain, aggregate and submit to Oregon Health Authority specified information; client opt-out; e. Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.372 — Requirement of psilocybin service center operator to collect, maintain, aggregate and submit to Oregon Health Authority specified information; client opt-out; exemption from disclosure; rules. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 

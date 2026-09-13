@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-469b.139
-title: "Criteria for high-performance homes, renewable energy systems, combined heat and power facilities and facilities using or producing renewable energy resources; "
+title: "Criteria for high-performance homes, renewable energy systems, combined heat and power facilities and facilities using or producing renewable energy resources; rules"
 doc_type: statute
 citation: "ORS 469B.139"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-469b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Criteria for high-performance homes, renewable energy systems, combined heat and power facilities and facilities using or producing renewable energy resources;  (ORS 469B.139)
+# Criteria for high-performance homes, renewable energy systems, combined heat and power facilities and facilities using or producing renewable energy resources; rules (ORS 469B.139)
 
 ## At a glance
 
-ORS 469B.139 — Criteria for high-performance homes, renewable energy systems, combined heat and power facilities and facilities using or producing renewable energy resources; . Chapter 469B (Chapter 469B), 2025 Edition.
+ORS 469B.139 — Criteria for high-performance homes, renewable energy systems, combined heat and power facilities and facilities using or producing renewable energy resources; rules. Chapter 469B (Chapter 469B), 2025 Edition.
 
 ## Full text
 

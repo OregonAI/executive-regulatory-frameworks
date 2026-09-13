@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.560
-title: "Form of retainage; requirements for surety bonds; conditions for rejecting bonds, securities or other instruments; allocation of costs; procedures for holding a"
+title: "Form of retainage; requirements for surety bonds; conditions for rejecting bonds, securities or other instruments; allocation of costs; procedures for holding and payment; requirement for contractor to accept bonds, securities or other instruments from subcontractors"
 doc_type: statute
 citation: "ORS 279C.560"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Form of retainage; requirements for surety bonds; conditions for rejecting bonds, securities or other instruments; allocation of costs; procedures for holding a (ORS 279C.560)
+# Form of retainage; requirements for surety bonds; conditions for rejecting bonds, securities or other instruments; allocation of costs; procedures for holding and payment; requirement for contractor to accept bonds, securities or other instruments from subcontractors (ORS 279C.560)
 
 ## At a glance
 
-ORS 279C.560 — Form of retainage; requirements for surety bonds; conditions for rejecting bonds, securities or other instruments; allocation of costs; procedures for holding a. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.560 — Form of retainage; requirements for surety bonds; conditions for rejecting bonds, securities or other instruments; allocation of costs; procedures for holding and payment; requirement for contractor to accept bonds, securities or other instruments from subcontractors. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

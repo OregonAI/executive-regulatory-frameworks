@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-97.240
-title: "Funeral establishment assistance to veterans’ remains coordinator regarding veterans’ remains; civil claims against funeral establishment or veterans’ remains c"
+title: "Funeral establishment assistance to veterans’ remains coordinator regarding veterans’ remains; civil claims against funeral establishment or veterans’ remains coordinator barred"
 doc_type: statute
 citation: "ORS 97.240"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-97"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors097.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Funeral establishment assistance to veterans’ remains coordinator regarding veterans’ remains; civil claims against funeral establishment or veterans’ remains c (ORS 97.240)
+# Funeral establishment assistance to veterans’ remains coordinator regarding veterans’ remains; civil claims against funeral establishment or veterans’ remains coordinator barred (ORS 97.240)
 
 ## At a glance
 
-ORS 97.240 — Funeral establishment assistance to veterans’ remains coordinator regarding veterans’ remains; civil claims against funeral establishment or veterans’ remains c. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
+ORS 97.240 — Funeral establishment assistance to veterans’ remains coordinator regarding veterans’ remains; civil claims against funeral establishment or veterans’ remains coordinator barred. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
 
 ## Full text
 

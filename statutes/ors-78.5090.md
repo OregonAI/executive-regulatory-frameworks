@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-78.5090
-title: "Specification of duties of securities intermediary by other statute or regulation; manner of performance of duties of securities intermediary and exercise of ri"
+title: "Specification of duties of securities intermediary by other statute or regulation; manner of performance of duties of securities intermediary and exercise of rights of entitlement holder"
 doc_type: statute
 citation: "ORS 78.5090"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-78"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors078.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Specification of duties of securities intermediary by other statute or regulation; manner of performance of duties of securities intermediary and exercise of ri (ORS 78.5090)
+# Specification of duties of securities intermediary by other statute or regulation; manner of performance of duties of securities intermediary and exercise of rights of entitlement holder (ORS 78.5090)
 
 ## At a glance
 
-ORS 78.5090 — Specification of duties of securities intermediary by other statute or regulation; manner of performance of duties of securities intermediary and exercise of ri. Chapter 78 (Investment Securities), 2025 Edition.
+ORS 78.5090 — Specification of duties of securities intermediary by other statute or regulation; manner of performance of duties of securities intermediary and exercise of rights of entitlement holder. Chapter 78 (Investment Securities), 2025 Edition.
 
 ## Full text
 

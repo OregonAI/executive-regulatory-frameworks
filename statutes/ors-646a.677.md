@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.677
-title: "Requirement to screen for financial assistance before transferring medical debt for collection; permitted interest rate; prohibition on reporting medical debt t"
+title: "Requirement to screen for financial assistance before transferring medical debt for collection; permitted interest rate; prohibition on reporting medical debt to consumer reporting agency and including medical debt in consumer report; unlawful collection practices"
 doc_type: statute
 citation: "ORS 646A.677"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Requirement to screen for financial assistance before transferring medical debt for collection; permitted interest rate; prohibition on reporting medical debt t (ORS 646A.677)
+# Requirement to screen for financial assistance before transferring medical debt for collection; permitted interest rate; prohibition on reporting medical debt to consumer reporting agency and including medical debt in consumer report; unlawful collection practices (ORS 646A.677)
 
 ## At a glance
 
-ORS 646A.677 — Requirement to screen for financial assistance before transferring medical debt for collection; permitted interest rate; prohibition on reporting medical debt t. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.677 — Requirement to screen for financial assistance before transferring medical debt for collection; permitted interest rate; prohibition on reporting medical debt to consumer reporting agency and including medical debt in consumer report; unlawful collection practices. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

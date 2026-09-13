@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419b.020
-title: "Duty of department or law enforcement agency receiving report; investigation; notice; physical examination; child’s consent; notice at conclusion of investigati"
+title: "Duty of department or law enforcement agency receiving report; investigation; notice; physical examination; child’s consent; notice at conclusion of investigation"
 doc_type: statute
 citation: "ORS 419B.020"
 authority_level: statute
@@ -51,11 +51,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Duty of department or law enforcement agency receiving report; investigation; notice; physical examination; child’s consent; notice at conclusion of investigati (ORS 419B.020)
+# Duty of department or law enforcement agency receiving report; investigation; notice; physical examination; child’s consent; notice at conclusion of investigation (ORS 419B.020)
 
 ## At a glance
 
-ORS 419B.020 — Duty of department or law enforcement agency receiving report; investigation; notice; physical examination; child’s consent; notice at conclusion of investigati. Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.020 — Duty of department or law enforcement agency receiving report; investigation; notice; physical examination; child’s consent; notice at conclusion of investigation. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

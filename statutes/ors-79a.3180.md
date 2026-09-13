@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-79a.3180
-title: "UCC 9-318. No interest retained in right to payment that is sold; rights and title of seller of account or chattel paper with respect to creditors and purchaser"
+title: "UCC 9-318. No interest retained in right to payment that is sold; rights and title of seller of account or chattel paper with respect to creditors and purchasers"
 doc_type: statute
 citation: "ORS 79A.3180"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-79a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors079a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# UCC 9-318. No interest retained in right to payment that is sold; rights and title of seller of account or chattel paper with respect to creditors and purchaser (ORS 79A.3180)
+# UCC 9-318. No interest retained in right to payment that is sold; rights and title of seller of account or chattel paper with respect to creditors and purchasers (ORS 79A.3180)
 
 ## At a glance
 
-ORS 79A.3180 — UCC 9-318. No interest retained in right to payment that is sold; rights and title of seller of account or chattel paper with respect to creditors and purchaser. Chapter 79A (Secured Transactions), 2025 Edition.
+ORS 79A.3180 — UCC 9-318. No interest retained in right to payment that is sold; rights and title of seller of account or chattel paper with respect to creditors and purchasers. Chapter 79A (Secured Transactions), 2025 Edition.
 
 ## Full text
 

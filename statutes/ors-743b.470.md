@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.470
-title: "Medicaid not considered in coverage eligibility determination; claims for services paid for by medical assistance; prohibited ground for denial of enrollment of"
+title: "Medicaid not considered in coverage eligibility determination; claims for services paid for by medical assistance; prohibited ground for denial of enrollment of child; insurer duties"
 doc_type: statute
 citation: "ORS 743B.470"
 authority_level: statute
@@ -45,11 +45,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Medicaid not considered in coverage eligibility determination; claims for services paid for by medical assistance; prohibited ground for denial of enrollment of (ORS 743B.470)
+# Medicaid not considered in coverage eligibility determination; claims for services paid for by medical assistance; prohibited ground for denial of enrollment of child; insurer duties (ORS 743B.470)
 
 ## At a glance
 
-ORS 743B.470 — Medicaid not considered in coverage eligibility determination; claims for services paid for by medical assistance; prohibited ground for denial of enrollment of. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.470 — Medicaid not considered in coverage eligibility determination; claims for services paid for by medical assistance; prohibited ground for denial of enrollment of child; insurer duties. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

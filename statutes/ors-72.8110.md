@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-72.8110
-title: "Retailer’s service and repair of nonconforming good in absence of manufacturer’s service and repair facilities within state; buyer’s delivery or notice of nonco"
+title: "Retailer’s service and repair of nonconforming good in absence of manufacturer’s service and repair facilities within state; buyer’s delivery or notice of nonconforming good"
 doc_type: statute
 citation: "ORS 72.8110"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-72"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors072.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Retailer’s service and repair of nonconforming good in absence of manufacturer’s service and repair facilities within state; buyer’s delivery or notice of nonco (ORS 72.8110)
+# Retailer’s service and repair of nonconforming good in absence of manufacturer’s service and repair facilities within state; buyer’s delivery or notice of nonconforming good (ORS 72.8110)
 
 ## At a glance
 
-ORS 72.8110 — Retailer’s service and repair of nonconforming good in absence of manufacturer’s service and repair facilities within state; buyer’s delivery or notice of nonco. Chapter 72 (Sales), 2025 Edition.
+ORS 72.8110 — Retailer’s service and repair of nonconforming good in absence of manufacturer’s service and repair facilities within state; buyer’s delivery or notice of nonconforming good. Chapter 72 (Sales), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-94.670
-title: "Association duty to keep documents and records; deposit of assessments; payment of association expenses; review of financial statement by certified public accou"
+title: "Association duty to keep documents and records; deposit of assessments; payment of association expenses; review of financial statement by certified public accountant; examination of records by owner"
 doc_type: statute
 citation: "ORS 94.670"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-94"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors094.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Association duty to keep documents and records; deposit of assessments; payment of association expenses; review of financial statement by certified public accou (ORS 94.670)
+# Association duty to keep documents and records; deposit of assessments; payment of association expenses; review of financial statement by certified public accountant; examination of records by owner (ORS 94.670)
 
 ## At a glance
 
-ORS 94.670 — Association duty to keep documents and records; deposit of assessments; payment of association expenses; review of financial statement by certified public accou. Chapter 94 (Real Property Development), 2025 Edition.
+ORS 94.670 — Association duty to keep documents and records; deposit of assessments; payment of association expenses; review of financial statement by certified public accountant; examination of records by owner. Chapter 94 (Real Property Development), 2025 Edition.
 
 ## Full text
 

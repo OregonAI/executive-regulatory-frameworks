@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-86a.230
-title: "Contracts or agreements with Nationwide Mortgage Licensing System and Registry and other agencies; information sharing; confidentiality; reports of violations; "
+title: "Contracts or agreements with Nationwide Mortgage Licensing System and Registry and other agencies; information sharing; confidentiality; reports of violations; rules"
 doc_type: statute
 citation: "ORS 86A.230"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-86a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors086a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Contracts or agreements with Nationwide Mortgage Licensing System and Registry and other agencies; information sharing; confidentiality; reports of violations;  (ORS 86A.230)
+# Contracts or agreements with Nationwide Mortgage Licensing System and Registry and other agencies; information sharing; confidentiality; reports of violations; rules (ORS 86A.230)
 
 ## At a glance
 
-ORS 86A.230 — Contracts or agreements with Nationwide Mortgage Licensing System and Registry and other agencies; information sharing; confidentiality; reports of violations; . Chapter 86A (Mortgage Lending), 2025 Edition.
+ORS 86A.230 — Contracts or agreements with Nationwide Mortgage Licensing System and Registry and other agencies; information sharing; confidentiality; reports of violations; rules. Chapter 86A (Mortgage Lending), 2025 Edition.
 
 ## Full text
 

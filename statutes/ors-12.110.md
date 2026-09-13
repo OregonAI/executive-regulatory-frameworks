@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-12.110
-title: "Actions for certain injuries to person not arising on contract; action for overtime or premium pay; action for professional malpractice; effect of fraud or dece"
+title: "Actions for certain injuries to person not arising on contract; action for overtime or premium pay; action for professional malpractice; effect of fraud or deceit; action for injuries to person arising from nuclear incident"
 doc_type: statute
 citation: "ORS 12.110"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-12"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors012.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Actions for certain injuries to person not arising on contract; action for overtime or premium pay; action for professional malpractice; effect of fraud or dece (ORS 12.110)
+# Actions for certain injuries to person not arising on contract; action for overtime or premium pay; action for professional malpractice; effect of fraud or deceit; action for injuries to person arising from nuclear incident (ORS 12.110)
 
 ## At a glance
 
-ORS 12.110 — Actions for certain injuries to person not arising on contract; action for overtime or premium pay; action for professional malpractice; effect of fraud or dece. Chapter 12 (Limitations of Actions and Suits), 2025 Edition.
+ORS 12.110 — Actions for certain injuries to person not arising on contract; action for overtime or premium pay; action for professional malpractice; effect of fraud or deceit; action for injuries to person arising from nuclear incident. Chapter 12 (Limitations of Actions and Suits), 2025 Edition.
 
 ## Full text
 

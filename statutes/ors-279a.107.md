@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279a.107
-title: "Certification as disadvantaged business enterprise, minority-owned business, woman-owned business, veteran-owned business or emerging small business during term"
+title: "Certification as disadvantaged business enterprise, minority-owned business, woman-owned business, veteran-owned business or emerging small business during term of public contract; exceptions"
 doc_type: statute
 citation: "ORS 279A.107"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-279a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Certification as disadvantaged business enterprise, minority-owned business, woman-owned business, veteran-owned business or emerging small business during term (ORS 279A.107)
+# Certification as disadvantaged business enterprise, minority-owned business, woman-owned business, veteran-owned business or emerging small business during term of public contract; exceptions (ORS 279A.107)
 
 ## At a glance
 
-ORS 279A.107 — Certification as disadvantaged business enterprise, minority-owned business, woman-owned business, veteran-owned business or emerging small business during term. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
+ORS 279A.107 — Certification as disadvantaged business enterprise, minority-owned business, woman-owned business, veteran-owned business or emerging small business during term of public contract; exceptions. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
 
 ## Full text
 

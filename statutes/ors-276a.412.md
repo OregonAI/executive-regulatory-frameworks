@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-276a.412
-title: "Contracts for telecommunications equipment and services not to exceed 10 years; exception for broadband infrastructure; contract benefits for designated communi"
+title: "Contracts for telecommunications equipment and services not to exceed 10 years; exception for broadband infrastructure; contract benefits for designated communities of interest"
 doc_type: statute
 citation: "ORS 276A.412"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-276a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html> (retrieved 2026-07-23, 2025 Edition).
 
-# Contracts for telecommunications equipment and services not to exceed 10 years; exception for broadband infrastructure; contract benefits for designated communi (ORS 276A.412)
+# Contracts for telecommunications equipment and services not to exceed 10 years; exception for broadband infrastructure; contract benefits for designated communities of interest (ORS 276A.412)
 
 ## At a glance
 
-ORS 276A.412 — Contracts for telecommunications equipment and services not to exceed 10 years; exception for broadband infrastructure; contract benefits for designated communi. Chapter 276A (Information Technology), 2025 Edition.
+ORS 276A.412 — Contracts for telecommunications equipment and services not to exceed 10 years; exception for broadband infrastructure; contract benefits for designated communities of interest. Chapter 276A (Information Technology), 2025 Edition.
 
 ## Full text
 

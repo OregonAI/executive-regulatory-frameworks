@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.043
-title: "Reinstatement of injured worker to former position; certificate evidencing ability to work; effect of collective bargaining agreement; termination of right to r"
+title: "Reinstatement of injured worker to former position; certificate evidencing ability to work; effect of collective bargaining agreement; termination of right to reinstatement; when reinstatement right terminates"
 doc_type: statute
 citation: "ORS 659A.043"
 authority_level: statute
@@ -56,11 +56,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Reinstatement of injured worker to former position; certificate evidencing ability to work; effect of collective bargaining agreement; termination of right to r (ORS 659A.043)
+# Reinstatement of injured worker to former position; certificate evidencing ability to work; effect of collective bargaining agreement; termination of right to reinstatement; when reinstatement right terminates (ORS 659A.043)
 
 ## At a glance
 
-ORS 659A.043 — Reinstatement of injured worker to former position; certificate evidencing ability to work; effect of collective bargaining agreement; termination of right to r. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.043 — Reinstatement of injured worker to former position; certificate evidencing ability to work; effect of collective bargaining agreement; termination of right to reinstatement; when reinstatement right terminates. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

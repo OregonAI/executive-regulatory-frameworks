@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-79a.3310
-title: "UCC 9-331. Priority of rights of purchasers of controllable accounts, controllable electronic records, controllable payment intangibles, documents, instruments "
+title: "UCC 9-331. Priority of rights of purchasers of controllable accounts, controllable electronic records, controllable payment intangibles, documents, instruments and securities under other chapters; priority of interests in financial assets and security entitlements and protection against assertion of claim under ORS chapters 78 and 80"
 doc_type: statute
 citation: "ORS 79A.3310"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-79a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors079a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# UCC 9-331. Priority of rights of purchasers of controllable accounts, controllable electronic records, controllable payment intangibles, documents, instruments  (ORS 79A.3310)
+# UCC 9-331. Priority of rights of purchasers of controllable accounts, controllable electronic records, controllable payment intangibles, documents, instruments and securities under other chapters; priority of interests in financial assets and security entitlements and protection against assertion of claim under ORS chapters 78 and 80 (ORS 79A.3310)
 
 ## At a glance
 
-ORS 79A.3310 — UCC 9-331. Priority of rights of purchasers of controllable accounts, controllable electronic records, controllable payment intangibles, documents, instruments . Chapter 79A (Secured Transactions), 2025 Edition.
+ORS 79A.3310 — UCC 9-331. Priority of rights of purchasers of controllable accounts, controllable electronic records, controllable payment intangibles, documents, instruments and securities under other chapters; priority of interests in financial assets and security entitlements and protection against assertion of claim under ORS chapters 78 and 80. Chapter 79A (Secured Transactions), 2025 Edition.
 
 ## Full text
 

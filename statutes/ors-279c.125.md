@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.125
-title: "Architectural, engineering, photogrammetric mapping, transportation planning and land surveying services selection process for local public improvements procure"
+title: "Architectural, engineering, photogrammetric mapping, transportation planning and land surveying services selection process for local public improvements procured through state agency; rules"
 doc_type: statute
 citation: "ORS 279C.125"
 authority_level: statute
@@ -46,11 +46,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Architectural, engineering, photogrammetric mapping, transportation planning and land surveying services selection process for local public improvements procure (ORS 279C.125)
+# Architectural, engineering, photogrammetric mapping, transportation planning and land surveying services selection process for local public improvements procured through state agency; rules (ORS 279C.125)
 
 ## At a glance
 
-ORS 279C.125 — Architectural, engineering, photogrammetric mapping, transportation planning and land surveying services selection process for local public improvements procure. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.125 — Architectural, engineering, photogrammetric mapping, transportation planning and land surveying services selection process for local public improvements procured through state agency; rules. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

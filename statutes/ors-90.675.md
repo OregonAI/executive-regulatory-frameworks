@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-90.675
-title: "Disposition of manufactured dwelling or floating home left in facility; notice; sale; limitation on landlord liability; tax cancellation; storage agreements; ha"
+title: "Disposition of manufactured dwelling or floating home left in facility; notice; sale; limitation on landlord liability; tax cancellation; storage agreements; hazardous property"
 doc_type: statute
 citation: "ORS 90.675"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-90"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors090.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Disposition of manufactured dwelling or floating home left in facility; notice; sale; limitation on landlord liability; tax cancellation; storage agreements; ha (ORS 90.675)
+# Disposition of manufactured dwelling or floating home left in facility; notice; sale; limitation on landlord liability; tax cancellation; storage agreements; hazardous property (ORS 90.675)
 
 ## At a glance
 
-ORS 90.675 — Disposition of manufactured dwelling or floating home left in facility; notice; sale; limitation on landlord liability; tax cancellation; storage agreements; ha. Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
+ORS 90.675 — Disposition of manufactured dwelling or floating home left in facility; notice; sale; limitation on landlord liability; tax cancellation; storage agreements; hazardous property. Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
 
 ## Full text
 

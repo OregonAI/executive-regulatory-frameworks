@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.410
-title: "Refusing to accept currency or coins as payment prohibited; advertising and education duties of Bureau of Labor and Industries; exceptions; remedies for violati"
+title: "Refusing to accept currency or coins as payment prohibited; advertising and education duties of Bureau of Labor and Industries; exceptions; remedies for violation"
 doc_type: statute
 citation: "ORS 659A.410"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Refusing to accept currency or coins as payment prohibited; advertising and education duties of Bureau of Labor and Industries; exceptions; remedies for violati (ORS 659A.410)
+# Refusing to accept currency or coins as payment prohibited; advertising and education duties of Bureau of Labor and Industries; exceptions; remedies for violation (ORS 659A.410)
 
 ## At a glance
 
-ORS 659A.410 — Refusing to accept currency or coins as payment prohibited; advertising and education duties of Bureau of Labor and Industries; exceptions; remedies for violati. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.410 — Refusing to accept currency or coins as payment prohibited; advertising and education duties of Bureau of Labor and Industries; exceptions; remedies for violation. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

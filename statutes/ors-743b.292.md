@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.292
-title: "Balance billing prohibited for ground ambulance services; health benefit plan reimbursement rate requirements; reporting and database of established local rate;"
+title: "Balance billing prohibited for ground ambulance services; health benefit plan reimbursement rate requirements; reporting and database of established local rate; rules; penalties"
 doc_type: statute
 citation: "ORS 743B.292"
 authority_level: statute
@@ -46,11 +46,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Balance billing prohibited for ground ambulance services; health benefit plan reimbursement rate requirements; reporting and database of established local rate; (ORS 743B.292)
+# Balance billing prohibited for ground ambulance services; health benefit plan reimbursement rate requirements; reporting and database of established local rate; rules; penalties (ORS 743B.292)
 
 ## At a glance
 
-ORS 743B.292 — Balance billing prohibited for ground ambulance services; health benefit plan reimbursement rate requirements; reporting and database of established local rate;. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.292 — Balance billing prohibited for ground ambulance services; health benefit plan reimbursement rate requirements; reporting and database of established local rate; rules; penalties. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

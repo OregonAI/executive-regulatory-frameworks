@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.145
-title: "prohibited"
+title: "Discrimination against individual with disability in real property transactions prohibited; advertising discriminatory preference prohibited; allowance for reasonable modification; assisting discriminatory practices prohibited"
 doc_type: statute
 citation: "ORS 659A.145"
 authority_level: statute
@@ -56,11 +56,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# prohibited (ORS 659A.145)
+# Discrimination against individual with disability in real property transactions prohibited; advertising discriminatory preference prohibited; allowance for reasonable modification; assisting discriminatory practices prohibited (ORS 659A.145)
 
 ## At a glance
 
-ORS 659A.145 — prohibited. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.145 — Discrimination against individual with disability in real property transactions prohibited; advertising discriminatory preference prohibited; allowance for reasonable modification; assisting discriminatory practices prohibited. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

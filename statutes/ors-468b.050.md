@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468b.050
-title: "Water quality permit; issuance by rule or order; rules Note Temporary exemption for treatment works in North Santiam Basin--2025 c.19 §§1,2,3"
+title: "Water quality permit; issuance by rule or order; rules"
 doc_type: statute
 citation: "ORS 468B.050"
 authority_level: statute
@@ -97,11 +97,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Water quality permit; issuance by rule or order; rules Note Temporary exemption for treatment works in North Santiam Basin--2025 c.19 §§1,2,3 (ORS 468B.050)
+# Water quality permit; issuance by rule or order; rules (ORS 468B.050)
 
 ## At a glance
 
-ORS 468B.050 — Water quality permit; issuance by rule or order; rules Note Temporary exemption for treatment works in North Santiam Basin--2025 c.19 §§1,2,3. Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.050 — Water quality permit; issuance by rule or order; rules. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 

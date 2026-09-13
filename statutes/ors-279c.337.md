@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.337
-title: "and"
+title: "Procurement of construction manager/general contractor services"
 doc_type: statute
 citation: "ORS 279C.337"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# and (ORS 279C.337)
+# Procurement of construction manager/general contractor services (ORS 279C.337)
 
 ## At a glance
 
-ORS 279C.337 — and. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.337 — Procurement of construction manager/general contractor services. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

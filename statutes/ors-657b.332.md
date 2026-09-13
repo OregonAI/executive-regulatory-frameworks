@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-657b.332
-title: "False statements or failure to report material fact; recovery of erroneous benefit payments due to misrepresentation or nondisclosure; notice requirements; pena"
+title: "False statements or failure to report material fact; recovery of erroneous benefit payments due to misrepresentation or nondisclosure; notice requirements; penalties; rules"
 doc_type: statute
 citation: "ORS 657B.332"
 authority_level: statute
@@ -47,11 +47,11 @@ tags: ["ors", "chapter-657b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors657b.html> (retrieved 2026-07-26, 2025 Edition).
 
-# False statements or failure to report material fact; recovery of erroneous benefit payments due to misrepresentation or nondisclosure; notice requirements; pena (ORS 657B.332)
+# False statements or failure to report material fact; recovery of erroneous benefit payments due to misrepresentation or nondisclosure; notice requirements; penalties; rules (ORS 657B.332)
 
 ## At a glance
 
-ORS 657B.332 — False statements or failure to report material fact; recovery of erroneous benefit payments due to misrepresentation or nondisclosure; notice requirements; pena. Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
+ORS 657B.332 — False statements or failure to report material fact; recovery of erroneous benefit payments due to misrepresentation or nondisclosure; notice requirements; penalties; rules. Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
 
 ## Full text
 

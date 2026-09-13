@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-30.657
-title: "Petition for compensation for wrongful conviction; requirements; burden of proof; damages; attorney fees; setoffs for other awards; certificate of innocence; st"
+title: "Petition for compensation for wrongful conviction; requirements; burden of proof; damages; attorney fees; setoffs for other awards; certificate of innocence; statute of limitations; appeals"
 doc_type: statute
 citation: "ORS 30.657"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-30"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors030.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Petition for compensation for wrongful conviction; requirements; burden of proof; damages; attorney fees; setoffs for other awards; certificate of innocence; st (ORS 30.657)
+# Petition for compensation for wrongful conviction; requirements; burden of proof; damages; attorney fees; setoffs for other awards; certificate of innocence; statute of limitations; appeals (ORS 30.657)
 
 ## At a glance
 
-ORS 30.657 — Petition for compensation for wrongful conviction; requirements; burden of proof; damages; attorney fees; setoffs for other awards; certificate of innocence; st. Chapter 30 (Actions and Suits in Particular Cases), 2025 Edition.
+ORS 30.657 — Petition for compensation for wrongful conviction; requirements; burden of proof; damages; attorney fees; setoffs for other awards; certificate of innocence; statute of limitations; appeals. Chapter 30 (Actions and Suits in Particular Cases), 2025 Edition.
 
 ## Full text
 

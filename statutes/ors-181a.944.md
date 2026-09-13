@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-181a.944
-title: "Legislative purpose; requirements for citation issued outside tribal jurisdiction; tribal government insurance; tribal police officer not officer, employee or a"
+title: "Legislative purpose; requirements for citation issued outside tribal jurisdiction; tribal government insurance; tribal police officer not officer, employee or agent of state; tribal government not seizing agency; rules"
 doc_type: statute
 citation: "ORS 181A.944"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Legislative purpose; requirements for citation issued outside tribal jurisdiction; tribal government insurance; tribal police officer not officer, employee or a (ORS 181A.944)
+# Legislative purpose; requirements for citation issued outside tribal jurisdiction; tribal government insurance; tribal police officer not officer, employee or agent of state; tribal government not seizing agency; rules (ORS 181A.944)
 
 ## At a glance
 
-ORS 181A.944 — Legislative purpose; requirements for citation issued outside tribal jurisdiction; tribal government insurance; tribal police officer not officer, employee or a. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.944 — Legislative purpose; requirements for citation issued outside tribal jurisdiction; tribal government insurance; tribal police officer not officer, employee or agent of state; tribal government not seizing agency; rules. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

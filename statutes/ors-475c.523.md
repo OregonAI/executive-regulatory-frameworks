@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.523
-title: "Cannabis reference laboratory; requirements; use of laboratory by State Department of Agriculture, Oregon Health Authority, Oregon Liquor and Cannabis Commissio"
+title: "Cannabis reference laboratory; requirements; use of laboratory by State Department of Agriculture, Oregon Health Authority, Oregon Liquor and Cannabis Commission, law enforcement agencies; fees; rules"
 doc_type: statute
 citation: "ORS 475C.523"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Cannabis reference laboratory; requirements; use of laboratory by State Department of Agriculture, Oregon Health Authority, Oregon Liquor and Cannabis Commissio (ORS 475C.523)
+# Cannabis reference laboratory; requirements; use of laboratory by State Department of Agriculture, Oregon Health Authority, Oregon Liquor and Cannabis Commission, law enforcement agencies; fees; rules (ORS 475C.523)
 
 ## At a glance
 
-ORS 475C.523 — Cannabis reference laboratory; requirements; use of laboratory by State Department of Agriculture, Oregon Health Authority, Oregon Liquor and Cannabis Commissio. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.523 — Cannabis reference laboratory; requirements; use of laboratory by State Department of Agriculture, Oregon Health Authority, Oregon Liquor and Cannabis Commission, law enforcement agencies; fees; rules. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

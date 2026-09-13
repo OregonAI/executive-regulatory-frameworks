@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-459a.310
-title: "Applicability to manufacturers; applicability to reused or refurbished covered electronic devices; requirements for sale of covered electronic devices by manufa"
+title: "Applicability to manufacturers; applicability to reused or refurbished covered electronic devices; requirements for sale of covered electronic devices by manufacturers"
 doc_type: statute
 citation: "ORS 459A.310"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Applicability to manufacturers; applicability to reused or refurbished covered electronic devices; requirements for sale of covered electronic devices by manufa (ORS 459A.310)
+# Applicability to manufacturers; applicability to reused or refurbished covered electronic devices; requirements for sale of covered electronic devices by manufacturers (ORS 459A.310)
 
 ## At a glance
 
-ORS 459A.310 — Applicability to manufacturers; applicability to reused or refurbished covered electronic devices; requirements for sale of covered electronic devices by manufa. Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.310 — Applicability to manufacturers; applicability to reused or refurbished covered electronic devices; requirements for sale of covered electronic devices by manufacturers. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743a.169
-title: "Behavioral and physical health services provided on same day or in same facility; behavioral health services provided by behavioral health home specialist or pa"
+title: "Behavioral and physical health services provided on same day or in same facility; behavioral health services provided by behavioral health home specialist or patient centered primary care home specialist"
 doc_type: statute
 citation: "ORS 743A.169"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-743a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Behavioral and physical health services provided on same day or in same facility; behavioral health services provided by behavioral health home specialist or pa (ORS 743A.169)
+# Behavioral and physical health services provided on same day or in same facility; behavioral health services provided by behavioral health home specialist or patient centered primary care home specialist (ORS 743A.169)
 
 ## At a glance
 
-ORS 743A.169 — Behavioral and physical health services provided on same day or in same facility; behavioral health services provided by behavioral health home specialist or pa. Chapter 743A (Chapter 743A), 2025 Edition.
+ORS 743A.169 — Behavioral and physical health services provided on same day or in same facility; behavioral health services provided by behavioral health home specialist or patient centered primary care home specialist. Chapter 743A (Chapter 743A), 2025 Edition.
 
 ## Full text
 

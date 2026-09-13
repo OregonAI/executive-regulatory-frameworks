@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-87.007
-title: "Protection from construction liens perfected after sale of residential property completed; requirements; seller options; rules; delivery of form to purchaser; p"
+title: "Protection from construction liens perfected after sale of residential property completed; requirements; seller options; rules; delivery of form to purchaser; penalty; damages; defenses"
 doc_type: statute
 citation: "ORS 87.007"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-87"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors087.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Protection from construction liens perfected after sale of residential property completed; requirements; seller options; rules; delivery of form to purchaser; p (ORS 87.007)
+# Protection from construction liens perfected after sale of residential property completed; requirements; seller options; rules; delivery of form to purchaser; penalty; damages; defenses (ORS 87.007)
 
 ## At a glance
 
-ORS 87.007 — Protection from construction liens perfected after sale of residential property completed; requirements; seller options; rules; delivery of form to purchaser; p. Chapter 87 (Statutory Liens), 2025 Edition.
+ORS 87.007 — Protection from construction liens perfected after sale of residential property completed; requirements; seller options; rules; delivery of form to purchaser; penalty; damages; defenses. Chapter 87 (Statutory Liens), 2025 Edition.
 
 ## Full text
 

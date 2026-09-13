@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.090
-title: "Retail installment contract or lease agreement for motor vehicle; notice to buyer; liability to buyer if lender does not approve funding or seller disposes of t"
+title: "Retail installment contract or lease agreement for motor vehicle; notice to buyer; liability to buyer if lender does not approve funding or seller disposes of trade-in vehicle before lender approves funding"
 doc_type: statute
 citation: "ORS 646A.090"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Retail installment contract or lease agreement for motor vehicle; notice to buyer; liability to buyer if lender does not approve funding or seller disposes of t (ORS 646A.090)
+# Retail installment contract or lease agreement for motor vehicle; notice to buyer; liability to buyer if lender does not approve funding or seller disposes of trade-in vehicle before lender approves funding (ORS 646A.090)
 
 ## At a glance
 
-ORS 646A.090 — Retail installment contract or lease agreement for motor vehicle; notice to buyer; liability to buyer if lender does not approve funding or seller disposes of t. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.090 — Retail installment contract or lease agreement for motor vehicle; notice to buyer; liability to buyer if lender does not approve funding or seller disposes of trade-in vehicle before lender approves funding. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

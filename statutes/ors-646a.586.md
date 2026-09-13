@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.586
-title: "Data protection assessment for processing activities with heightened risk of harm; criteria for conducting data protection assessment; provision to Attorney Gen"
+title: "Data protection assessment for processing activities with heightened risk of harm; criteria for conducting data protection assessment; provision to Attorney General; retention of records; confidentiality"
 doc_type: statute
 citation: "ORS 646A.586"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Data protection assessment for processing activities with heightened risk of harm; criteria for conducting data protection assessment; provision to Attorney Gen (ORS 646A.586)
+# Data protection assessment for processing activities with heightened risk of harm; criteria for conducting data protection assessment; provision to Attorney General; retention of records; confidentiality (ORS 646A.586)
 
 ## At a glance
 
-ORS 646A.586 — Data protection assessment for processing activities with heightened risk of harm; criteria for conducting data protection assessment; provision to Attorney Gen. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.586 — Data protection assessment for processing activities with heightened risk of harm; criteria for conducting data protection assessment; provision to Attorney General; retention of records; confidentiality. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

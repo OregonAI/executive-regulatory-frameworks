@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285b.630
-title: "Department to obtain employment and wage information for eligible employers at regionally significant industrial sites and determine estimated incremental incom"
+title: "Department to obtain employment and wage information for eligible employers at regionally significant industrial sites and determine estimated incremental income tax revenues; transfer of certified amounts to funds; rules"
 doc_type: statute
 citation: "ORS 285B.630"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Department to obtain employment and wage information for eligible employers at regionally significant industrial sites and determine estimated incremental incom (ORS 285B.630)
+# Department to obtain employment and wage information for eligible employers at regionally significant industrial sites and determine estimated incremental income tax revenues; transfer of certified amounts to funds; rules (ORS 285B.630)
 
 ## At a glance
 
-ORS 285B.630 — Department to obtain employment and wage information for eligible employers at regionally significant industrial sites and determine estimated incremental incom. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.630 — Department to obtain employment and wage information for eligible employers at regionally significant industrial sites and determine estimated incremental income tax revenues; transfer of certified amounts to funds; rules. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

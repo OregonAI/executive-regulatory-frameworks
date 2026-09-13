@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-90.545
-title: "Fixed term tenancy expiration; renewal or extension; new rental agreements; tenant refusal of new rental agreement; written storage agreement upon termination o"
+title: "Fixed term tenancy expiration; renewal or extension; new rental agreements; tenant refusal of new rental agreement; written storage agreement upon termination of tenancy"
 doc_type: statute
 citation: "ORS 90.545"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-90"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors090.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Fixed term tenancy expiration; renewal or extension; new rental agreements; tenant refusal of new rental agreement; written storage agreement upon termination o (ORS 90.545)
+# Fixed term tenancy expiration; renewal or extension; new rental agreements; tenant refusal of new rental agreement; written storage agreement upon termination of tenancy (ORS 90.545)
 
 ## At a glance
 
-ORS 90.545 — Fixed term tenancy expiration; renewal or extension; new rental agreements; tenant refusal of new rental agreement; written storage agreement upon termination o. Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
+ORS 90.545 — Fixed term tenancy expiration; renewal or extension; new rental agreements; tenant refusal of new rental agreement; written storage agreement upon termination of tenancy. Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
 
 ## Full text
 

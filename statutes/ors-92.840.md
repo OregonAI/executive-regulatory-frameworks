@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-92.840
-title: "Sale of subdivision lots; offer to sell lot to tenant; improvement or rehabilitation of park proposed for subdivision; continuation of tenancy on lot in subdivi"
+title: "Sale of subdivision lots; offer to sell lot to tenant; improvement or rehabilitation of park proposed for subdivision; continuation of tenancy on lot in subdivision"
 doc_type: statute
 citation: "ORS 92.840"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-92"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors092.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Sale of subdivision lots; offer to sell lot to tenant; improvement or rehabilitation of park proposed for subdivision; continuation of tenancy on lot in subdivi (ORS 92.840)
+# Sale of subdivision lots; offer to sell lot to tenant; improvement or rehabilitation of park proposed for subdivision; continuation of tenancy on lot in subdivision (ORS 92.840)
 
 ## At a glance
 
-ORS 92.840 — Sale of subdivision lots; offer to sell lot to tenant; improvement or rehabilitation of park proposed for subdivision; continuation of tenancy on lot in subdivi. Chapter 92 (Subdivisions and Partitions), 2025 Edition.
+ORS 92.840 — Sale of subdivision lots; offer to sell lot to tenant; improvement or rehabilitation of park proposed for subdivision; continuation of tenancy on lot in subdivision. Chapter 92 (Subdivisions and Partitions), 2025 Edition.
 
 ## Full text
 

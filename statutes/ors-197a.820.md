@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-197a.820
-title: "Housing Accountability and Production Office Fund Note: Definitions in 197.015 apply to ORS chapter 197A"
+title: "Housing Accountability and Production Office Fund"
 doc_type: statute
 citation: "ORS 197A.820"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-197a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Housing Accountability and Production Office Fund Note: Definitions in 197.015 apply to ORS chapter 197A (ORS 197A.820)
+# Housing Accountability and Production Office Fund (ORS 197A.820)
 
 ## At a glance
 
-ORS 197A.820 — Housing Accountability and Production Office Fund Note: Definitions in 197.015 apply to ORS chapter 197A. Chapter 197A (Chapter 197A), 2025 Edition.
+ORS 197A.820 — Housing Accountability and Production Office Fund. Chapter 197A (Chapter 197A), 2025 Edition.
 
 ## Full text
 

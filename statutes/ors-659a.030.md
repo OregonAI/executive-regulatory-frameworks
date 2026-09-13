@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.030
-title: "Discrimination because of race, color, religion, sex, sexual orientation, gender identity, national origin, marital status, age or expunged juvenile record proh"
+title: "Discrimination because of race, color, religion, sex, sexual orientation, gender identity, national origin, marital status, age or expunged juvenile record prohibited"
 doc_type: statute
 citation: "ORS 659A.030"
 authority_level: statute
@@ -52,11 +52,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Discrimination because of race, color, religion, sex, sexual orientation, gender identity, national origin, marital status, age or expunged juvenile record proh (ORS 659A.030)
+# Discrimination because of race, color, religion, sex, sexual orientation, gender identity, national origin, marital status, age or expunged juvenile record prohibited (ORS 659A.030)
 
 ## At a glance
 
-ORS 659A.030 — Discrimination because of race, color, religion, sex, sexual orientation, gender identity, national origin, marital status, age or expunged juvenile record proh. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.030 — Discrimination because of race, color, religion, sex, sexual orientation, gender identity, national origin, marital status, age or expunged juvenile record prohibited. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

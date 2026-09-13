@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-197a.509
-title: "Development of land use final order; steering committee; application to council for land use final order; council procedures; public hearing; notice; staff repo"
+title: "Development of land use final order; steering committee; application to council for land use final order; council procedures; public hearing; notice; staff report"
 doc_type: statute
 citation: "ORS 197A.509"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-197a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Development of land use final order; steering committee; application to council for land use final order; council procedures; public hearing; notice; staff repo (ORS 197A.509)
+# Development of land use final order; steering committee; application to council for land use final order; council procedures; public hearing; notice; staff report (ORS 197A.509)
 
 ## At a glance
 
-ORS 197A.509 — Development of land use final order; steering committee; application to council for land use final order; council procedures; public hearing; notice; staff repo. Chapter 197A (Chapter 197A), 2025 Edition.
+ORS 197A.509 — Development of land use final order; steering committee; application to council for land use final order; council procedures; public hearing; notice; staff report. Chapter 197A (Chapter 197A), 2025 Edition.
 
 ## Full text
 

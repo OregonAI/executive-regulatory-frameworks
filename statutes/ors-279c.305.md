@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.305
-title: "Least-cost policy for public improvements; requirement to file list of planned projects and estimated costs and to identify projects contracting agency intends "
+title: "Least-cost policy for public improvements; requirement to file list of planned projects and estimated costs and to identify projects contracting agency intends to complete with own personnel and resources; required analysis; exceptions"
 doc_type: statute
 citation: "ORS 279C.305"
 authority_level: statute
@@ -45,11 +45,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Least-cost policy for public improvements; requirement to file list of planned projects and estimated costs and to identify projects contracting agency intends  (ORS 279C.305)
+# Least-cost policy for public improvements; requirement to file list of planned projects and estimated costs and to identify projects contracting agency intends to complete with own personnel and resources; required analysis; exceptions (ORS 279C.305)
 
 ## At a glance
 
-ORS 279C.305 — Least-cost policy for public improvements; requirement to file list of planned projects and estimated costs and to identify projects contracting agency intends . Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.305 — Least-cost policy for public improvements; requirement to file list of planned projects and estimated costs and to identify projects contracting agency intends to complete with own personnel and resources; required analysis; exceptions. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

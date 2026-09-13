@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-276a.226
-title: "State agency funding requests for information technology; review by State Chief Information Officer and Enterprise Information Services; priority rankings; bien"
+title: "State agency funding requests for information technology; review by State Chief Information Officer and Enterprise Information Services; priority rankings; biennial report"
 doc_type: statute
 citation: "ORS 276A.226"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-276a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# State agency funding requests for information technology; review by State Chief Information Officer and Enterprise Information Services; priority rankings; bien (ORS 276A.226)
+# State agency funding requests for information technology; review by State Chief Information Officer and Enterprise Information Services; priority rankings; biennial report (ORS 276A.226)
 
 ## At a glance
 
-ORS 276A.226 — State agency funding requests for information technology; review by State Chief Information Officer and Enterprise Information Services; priority rankings; bien. Chapter 276A (Information Technology), 2025 Edition.
+ORS 276A.226 — State agency funding requests for information technology; review by State Chief Information Officer and Enterprise Information Services; priority rankings; biennial report. Chapter 276A (Information Technology), 2025 Edition.
 
 ## Full text
 

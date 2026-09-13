@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.527
-title: "Inclusion of amount for green energy technology or woody biomass energy technology in public improvement contract; written determination of appropriateness; con"
+title: "Inclusion of amount for green energy technology or woody biomass energy technology in public improvement contract; written determination of appropriateness; conditions, exemptions and limitations; rules"
 doc_type: statute
 citation: "ORS 279C.527"
 authority_level: statute
@@ -57,11 +57,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Inclusion of amount for green energy technology or woody biomass energy technology in public improvement contract; written determination of appropriateness; con (ORS 279C.527)
+# Inclusion of amount for green energy technology or woody biomass energy technology in public improvement contract; written determination of appropriateness; conditions, exemptions and limitations; rules (ORS 279C.527)
 
 ## At a glance
 
-ORS 279C.527 — Inclusion of amount for green energy technology or woody biomass energy technology in public improvement contract; written determination of appropriateness; con. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.527 — Inclusion of amount for green energy technology or woody biomass energy technology in public improvement contract; written determination of appropriateness; conditions, exemptions and limitations; rules. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

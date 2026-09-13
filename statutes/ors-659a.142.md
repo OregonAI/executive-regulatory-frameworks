@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.142
-title: "Discrimination against individual with disability by employment agency, labor organization, place of public accommodation or state government prohibited; discri"
+title: "Discrimination against individual with disability by employment agency, labor organization, place of public accommodation or state government prohibited; discrimination in provision of healthcare; mental disorder treatment not evidence of inability to manage property"
 doc_type: statute
 citation: "ORS 659A.142"
 authority_level: statute
@@ -70,11 +70,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Discrimination against individual with disability by employment agency, labor organization, place of public accommodation or state government prohibited; discri (ORS 659A.142)
+# Discrimination against individual with disability by employment agency, labor organization, place of public accommodation or state government prohibited; discrimination in provision of healthcare; mental disorder treatment not evidence of inability to manage property (ORS 659A.142)
 
 ## At a glance
 
-ORS 659A.142 — Discrimination against individual with disability by employment agency, labor organization, place of public accommodation or state government prohibited; discri. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.142 — Discrimination against individual with disability by employment agency, labor organization, place of public accommodation or state government prohibited; discrimination in provision of healthcare; mental disorder treatment not evidence of inability to manage property. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-30.990
-title: "Operators required to give skiers notice of duties ACTIONS AGAINST SCHOOLS RELATED TO COVID-19 (Temporary provisions relating to actions against schools related"
+title: "Operators required to give skiers notice of duties ACTIONS AGAINST SCHOOLS RELATED TO COVID-19 (Temporary provisions relating to actions against schools related to COVID-19 are compiled as notes following ORS"
 doc_type: statute
 citation: "ORS 30.990"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-30"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors030.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Operators required to give skiers notice of duties ACTIONS AGAINST SCHOOLS RELATED TO COVID-19 (Temporary provisions relating to actions against schools related (ORS 30.990)
+# Operators required to give skiers notice of duties ACTIONS AGAINST SCHOOLS RELATED TO COVID-19 (Temporary provisions relating to actions against schools related to COVID-19 are compiled as notes following ORS (ORS 30.990)
 
 ## At a glance
 
-ORS 30.990 — Operators required to give skiers notice of duties ACTIONS AGAINST SCHOOLS RELATED TO COVID-19 (Temporary provisions relating to actions against schools related. Chapter 30 (Actions and Suits in Particular Cases), 2025 Edition.
+ORS 30.990 — Operators required to give skiers notice of duties ACTIONS AGAINST SCHOOLS RELATED TO COVID-19 (Temporary provisions relating to actions against schools related to COVID-19 are compiled as notes following ORS. Chapter 30 (Actions and Suits in Particular Cases), 2025 Edition.
 
 ## Full text
 

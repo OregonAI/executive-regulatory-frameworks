@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-86a.196
-title: "Notice of reverse mortgage prohibition in homestead property tax deferral program; summary of terms of reverse mortgage in advertisement or solicitation; annual"
+title: "Notice of reverse mortgage prohibition in homestead property tax deferral program; summary of terms of reverse mortgage in advertisement or solicitation; annual notice to person with reverse mortgage or to escrow agent, title insurance company or other agent; exception"
 doc_type: statute
 citation: "ORS 86A.196"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-86a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors086a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Notice of reverse mortgage prohibition in homestead property tax deferral program; summary of terms of reverse mortgage in advertisement or solicitation; annual (ORS 86A.196)
+# Notice of reverse mortgage prohibition in homestead property tax deferral program; summary of terms of reverse mortgage in advertisement or solicitation; annual notice to person with reverse mortgage or to escrow agent, title insurance company or other agent; exception (ORS 86A.196)
 
 ## At a glance
 
-ORS 86A.196 — Notice of reverse mortgage prohibition in homestead property tax deferral program; summary of terms of reverse mortgage in advertisement or solicitation; annual. Chapter 86A (Mortgage Lending), 2025 Edition.
+ORS 86A.196 — Notice of reverse mortgage prohibition in homestead property tax deferral program; summary of terms of reverse mortgage in advertisement or solicitation; annual notice to person with reverse mortgage or to escrow agent, title insurance company or other agent; exception. Chapter 86A (Mortgage Lending), 2025 Edition.
 
 ## Full text
 

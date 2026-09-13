@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.107
-title: "Public disclosure of contents of proposals for architectural, engineering, photogrammetric mapping, transportation planning or land surveying services; treatmen"
+title: "Public disclosure of contents of proposals for architectural, engineering, photogrammetric mapping, transportation planning or land surveying services; treatment of trade secrets and confidential information"
 doc_type: statute
 citation: "ORS 279C.107"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Public disclosure of contents of proposals for architectural, engineering, photogrammetric mapping, transportation planning or land surveying services; treatmen (ORS 279C.107)
+# Public disclosure of contents of proposals for architectural, engineering, photogrammetric mapping, transportation planning or land surveying services; treatment of trade secrets and confidential information (ORS 279C.107)
 
 ## At a glance
 
-ORS 279C.107 — Public disclosure of contents of proposals for architectural, engineering, photogrammetric mapping, transportation planning or land surveying services; treatmen. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.107 — Public disclosure of contents of proposals for architectural, engineering, photogrammetric mapping, transportation planning or land surveying services; treatment of trade secrets and confidential information. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-308a.718
-title: "Assessor to send notice upon disqualification or forestland change in use; deadline; appeal; change in special assessment explanation; remediation plan notifica"
+title: "Assessor to send notice upon disqualification or forestland change in use; deadline; appeal; change in special assessment explanation; remediation plan notification"
 doc_type: statute
 citation: "ORS 308A.718"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-308a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors308A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Assessor to send notice upon disqualification or forestland change in use; deadline; appeal; change in special assessment explanation; remediation plan notifica (ORS 308A.718)
+# Assessor to send notice upon disqualification or forestland change in use; deadline; appeal; change in special assessment explanation; remediation plan notification (ORS 308A.718)
 
 ## At a glance
 
-ORS 308A.718 — Assessor to send notice upon disqualification or forestland change in use; deadline; appeal; change in special assessment explanation; remediation plan notifica. Chapter 308A (Chapter 308A), 2025 Edition.
+ORS 308A.718 — Assessor to send notice upon disqualification or forestland change in use; deadline; appeal; change in special assessment explanation; remediation plan notification. Chapter 308A (Chapter 308A), 2025 Edition.
 
 ## Full text
 

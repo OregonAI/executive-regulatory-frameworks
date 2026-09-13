@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.661
-title: "Director’s supervisory authority; examinations and investigations; referral to Attorney General; costs of examination or investigation; consultation and coopera"
+title: "Director’s supervisory authority; examinations and investigations; referral to Attorney General; costs of examination or investigation; consultation and cooperation with trade association and members of public"
 doc_type: statute
 citation: "ORS 646A.661"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Director’s supervisory authority; examinations and investigations; referral to Attorney General; costs of examination or investigation; consultation and coopera (ORS 646A.661)
+# Director’s supervisory authority; examinations and investigations; referral to Attorney General; costs of examination or investigation; consultation and cooperation with trade association and members of public (ORS 646A.661)
 
 ## At a glance
 
-ORS 646A.661 — Director’s supervisory authority; examinations and investigations; referral to Attorney General; costs of examination or investigation; consultation and coopera. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.661 — Director’s supervisory authority; examinations and investigations; referral to Attorney General; costs of examination or investigation; consultation and cooperation with trade association and members of public. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

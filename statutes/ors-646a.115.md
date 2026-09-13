@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.115
-title: "Prohibition on use of software that interferes with sale of admission tickets to entertainment events; prohibition on unauthorized use of certain intellectual p"
+title: "Prohibition on use of software that interferes with sale of admission tickets to entertainment events; prohibition on unauthorized use of certain intellectual property; unlawful practice"
 doc_type: statute
 citation: "ORS 646A.115"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Prohibition on use of software that interferes with sale of admission tickets to entertainment events; prohibition on unauthorized use of certain intellectual p (ORS 646A.115)
+# Prohibition on use of software that interferes with sale of admission tickets to entertainment events; prohibition on unauthorized use of certain intellectual property; unlawful practice (ORS 646A.115)
 
 ## At a glance
 
-ORS 646A.115 — Prohibition on use of software that interferes with sale of admission tickets to entertainment events; prohibition on unauthorized use of certain intellectual p. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.115 — Prohibition on use of software that interferes with sale of admission tickets to entertainment events; prohibition on unauthorized use of certain intellectual property; unlawful practice. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-59.175
-title: "Procedures for notice filing and licensing; rules; examination; bond, letter of credit or other security; insurance; filing trade name or assumed business name;"
+title: "Procedures for notice filing and licensing; rules; examination; bond, letter of credit or other security; insurance; filing trade name or assumed business name; fees"
 doc_type: statute
 citation: "ORS 59.175"
 authority_level: statute
@@ -63,11 +63,11 @@ tags: ["ors", "chapter-59"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors059.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Procedures for notice filing and licensing; rules; examination; bond, letter of credit or other security; insurance; filing trade name or assumed business name; (ORS 59.175)
+# Procedures for notice filing and licensing; rules; examination; bond, letter of credit or other security; insurance; filing trade name or assumed business name; fees (ORS 59.175)
 
 ## At a glance
 
-ORS 59.175 — Procedures for notice filing and licensing; rules; examination; bond, letter of credit or other security; insurance; filing trade name or assumed business name;. Chapter 59 (Securities Regulation), 2025 Edition.
+ORS 59.175 — Procedures for notice filing and licensing; rules; examination; bond, letter of credit or other security; insurance; filing trade name or assumed business name; fees. Chapter 59 (Securities Regulation), 2025 Edition.
 
 ## Full text
 
