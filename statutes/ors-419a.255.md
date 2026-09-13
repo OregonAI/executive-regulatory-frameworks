@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419a.255
-title: "and"
+title: "Maintenance; disclosure; exceptions to confidentiality"
 doc_type: statute
 citation: "ORS 419A.255"
 authority_level: statute
@@ -58,11 +58,11 @@ tags: ["ors", "chapter-419a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# and (ORS 419A.255)
+# Maintenance; disclosure; exceptions to confidentiality (ORS 419A.255)
 
 ## At a glance
 
-ORS 419A.255 — and. Chapter 419A (Chapter 419A), 2025 Edition.
+ORS 419A.255 — Maintenance; disclosure; exceptions to confidentiality. Chapter 419A (Chapter 419A), 2025 Edition.
 
 ## Full text
 
