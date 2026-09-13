@@ -455,24 +455,64 @@ def _proof_catalog_disagrees_with_snapshot_fires_on_real_data(check) -> None:
     """Proves the fourth category is MEASURED against the committed catalog + snapshots,
     not a hardcoded list of section numbers (#398/#414's own constraint: "If your
     implementation ends up embedding the six numbers, you have built the wrong thing").
-    Walks the real corpus through the exact same `_classify_all` `--check` itself uses and
-    asserts the classifier itself -- not this proof -- finds at least one document
-    belonging to the new category, with the two strings it would report genuinely
-    different."""
+
+    #417: this proof used to walk the REAL, currently-committed catalog via `_classify_all`
+    and require it to already contain a `catalog-disagrees-with-snapshot` row. That was a
+    precondition about the live corpus's CURRENT DEFECT COUNT, not about the classifier's
+    own logic -- true only while #415's six real rows (243.507, 279C.337, 455.097, 657.462,
+    659A.145, 757.015) were still broken. #411/#412/#415 fixed every one of them, so the
+    category is now correctly empty on `--check` (0 catalog-disagrees-with-snapshot, verify
+    with `python3 src/statute_title_agreement.py --check`) -- and a proof that only passes
+    while the corpus is broken is itself a defect: it would fail forever after a correct,
+    complete fix, and would have silently stopped meaning anything the day the count first
+    hit zero, long before anyone noticed. So this proof no longer reads a real defect. It
+    takes a REAL section and its REAL committed chapter snapshot -- discovered dynamically
+    via `_real_row_where_catalog_agrees_with_its_own_snapshot`, the same helper the sibling
+    anti-swallow proof below uses, never a pinned section number -- builds a FILE that
+    itself agrees with that section's real, correct title (so no FILE defect is in play),
+    and passes `classify_document` a fabricated catalog title, mid-word-truncated from the
+    real one exactly like #415's own catalog defects, so the CATALOG side is measured, by
+    the same `_snapshot_catchline` lookup `--check` itself uses against the real committed
+    snapshot, to genuinely disagree with it. This still proves the category fires by
+    measurement against the committed snapshot, not by construction -- only the catalog
+    row is synthetic, and it is synthesized specifically to fail that measurement rather
+    than asserted to."""
     cat = yaml.safe_load(CATALOG.read_text())
-    found = next((row for row in _classify_all(cat)
-                  if row[4] == "catalog-disagrees-with-snapshot"), None)
-    check("at least one real, currently-committed document is classified "
-          "catalog-disagrees-with-snapshot by measurement against the committed catalog "
-          "and chapter snapshots (not a pinned section number)", found is not None)
-    if found is None:
-        return
-    sec, ch, rel_path, catalog_title, _category, positions, snapshot_catchline = found
-    check(f"...and for it ({rel_path}, ORS {sec}) the two strings this gate would report "
-          f"really do differ: catalog {catalog_title!r} != snapshot {snapshot_catchline!r}",
-          catalog_title.strip() != snapshot_catchline)
-    check("...and at least one disagreeing position is carried along to report",
-          len(positions) > 0)
+    sec, ch, _real_catalog_title = _real_row_where_catalog_agrees_with_its_own_snapshot(cat)
+    catchline, could_not_measure = _snapshot_catchline(sec, ch)
+    # Guaranteed by the helper above (it only returns rows where this already succeeded),
+    # re-checked here rather than trusted blindly.
+    if could_not_measure:
+        raise SystemExit("snapshot catchline vanished between measurement and use for "
+                          f"ORS {sec} -- the corpus changed out from under this proof")
+    # A mid-word truncation of the real, agreeing title -- the exact #415 catalog-defect
+    # shape -- strictly shorter than `catchline` (which `_snapshot_catchline` guarantees is
+    # non-empty), so it can never coincide with it.
+    corrupted_catalog_title = catchline[: len(catchline) // 2]
+    import shutil
+    import tempfile
+    tmp_path = Path(tempfile.mkdtemp(prefix="statute-title-agreement-selftest-"))
+    try:
+        # The FILE carries the section's real, correct title (== the snapshot catchline) in
+        # all three positions -- no file defect. Only the catalog_title handed to
+        # check_document/classify_document below is corrupted, simulating a catalog row
+        # gone wrong the way #415's real ones did.
+        p = _fixture(tmp_path, sec, ch, catchline)
+        text = p.read_text(encoding="utf-8")
+        results = check_document(text, sec, ch, corrupted_catalog_title)
+        category, positions, snapshot_catchline = classify_document(
+            sec, ch, corrupted_catalog_title, results)
+        check(f"a catalog row measured (against the real committed "
+              f"_meta/snapshots/ors-chapter-{ch.lower()}.txt) to disagree with its own "
+              f"section's snapshot catchline (ORS {sec}) is classified "
+              f"catalog-disagrees-with-snapshot", category == "catalog-disagrees-with-snapshot")
+        check(f"...and the two strings this gate would report really do differ: catalog "
+              f"{corrupted_catalog_title!r} != snapshot {snapshot_catchline!r}",
+              corrupted_catalog_title.strip() != snapshot_catchline)
+        check("...and at least one disagreeing position is carried along to report",
+              positions is not None and len(positions) > 0)
+    finally:
+        shutil.rmtree(tmp_path)
 
 
 def _proof_catalog_disagreement_category_cannot_swallow_a_genuine_file_defect(check) -> None:
