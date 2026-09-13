@@ -239,13 +239,35 @@ REORGANIZED = {
     "258": "Budget reports 'EMERGENCY MANAGEMENT, DEPT OF' as its own department; OAR "
            "chapter 104 is still registered under the Oregon Military Department. Cause "
            "confirmed (#212): ORS 401.052(1), HB 2927 (Oregon Laws 2021, ch. 539).",
+    # CORRECTED 2026-09-12. This row previously read "Cause confirmed (#354, same act as
+    # #212): ORS 476.020(1), HB 2927". HB 2927 created the Department of Emergency
+    # Management -- row 258 below, and correct there. Nobody confirmed it for the Fire
+    # Marshal; "same act as #212" was an INFERENCE from the two reorganizations sharing a
+    # session, recorded in the word "confirmed". That is the substitution this file exists
+    # to refuse, so the wrong act is named here explicitly rather than quietly replaced.
     "260": "Budget reports 'STATE FIRE MARSHAL, DEPT OF' as its own department; OAR "
-           "chapter 837 is still registered under the Department of State Police. Cause "
-           "confirmed (#354, same act as #212): ORS 476.020(1), HB 2927 (Oregon Laws 2021, "
-           "ch. 539).",
+           "chapter 837 is still registered under the Department of State Police. Governing "
+           "statute: ORS 476.020, which establishes the Department of the State Fire Marshal "
+           "and its powers and enforcement duties (original enabling legislation HB 226, "
+           "1917). The DETACHMENT is SB 762 (2021), which granted the office independent "
+           "cabinet-level agency status separate from the Oregon State Police, effective "
+           "2023-07-01 -- NOT HB 2927, which this row asserted until 2026-09-12. Operator "
+           "determination, @morficflux, 2026-09-12; not machine-verified against the "
+           "legislative corpus, which is unreachable from this checkout.",
+    # REFINED 2026-09-12. HB 3073 was right and stays. What changed is the statute and the
+    # NAME: this row cited ORS 326.430(1)(a) -- an ORS chapter 326 provision, which is the
+    # Department of EDUCATION's chapter and was the division's authority only while it sat
+    # under ODE. The standalone agency's own authority is ORS chapter 329A. The body is also
+    # no longer called the Early Learning Division, which the registry slug still says.
     "588": "Budget reports 'EARLY LEARNING & CARE, DEPT OF' as its own department; OAR "
-           "chapter 414 is still registered under the Department of Education. Cause "
-           "confirmed (#354): ORS 326.430(1)(a), HB 3073 (2021 regular session).",
+           "chapter 414 is still registered under the Department of Education. Created under "
+           "ODE by HB 4165 (2012) and HB 3233 (2013) as the Early Learning Division, under "
+           "the Early Learning Council, with ORS 326.430(1)(a) its authority in that era. "
+           "DETACHED by HB 3073 (2021), which elevated it to the standalone cabinet-level "
+           "Department of Early Learning and Care (DELC), launched 2023-07-01. Its own "
+           "governing statute is ORS chapter 329A -- child care licensing and program "
+           "administration. Operator determination, @morficflux, 2026-09-12; not "
+           "machine-verified against the legislative corpus, which is unreachable here.",
 }
 
 

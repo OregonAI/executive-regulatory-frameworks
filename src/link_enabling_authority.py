@@ -422,8 +422,11 @@ MAPPED: dict[str, str] = {
     # rather than leave a true `undetermined` one. The citation is recorded as verified prose
     # on the row's own `curator_note` instead, until that gap is closed.
     #
-    # #354 — the same act named above (HB 2927, Oregon Laws 2021, chapter 539) also made the
-    # State Fire Marshal's office an independent agency: ORS 476.020(1), read and verified
+    # #354 — SB 762 (2021) made the State Fire Marshal's office an independent agency,
+    # operative 2023-07-01. NOT HB 2927, which this comment asserted until 2026-09-12: that act
+    # is the Department of Emergency Management's, and the attribution was inherited from the
+    # sibling row above rather than read for this body. What WAS read and verified 2026-09-02
+    # is the codified text: ORS 476.020(1), read and verified
     # 2026-09-02: "The Department of the State Fire Marshal is established. The department is
     # under the supervision and control of the State Fire Marshal." Read, but DELIBERATELY NOT
     # ENTERED HERE, for exactly the reason given above for #212's row (see that comment: one
@@ -447,6 +450,150 @@ MAPPED: dict[str, str] = {
 # started accepting `Or. Const. Art. VI, sec. 1` (#170). The commonest legitimate reason is
 # ADR 0004's: a `part_of` unit has nothing separate to enable.
 UNMAPPED: dict[str, str] = {
+    # THE 33 SUB-UNITS REVIEWED 2026-09-12 (#222). Every one is a division or office whose
+    # slug extends its parent's and which carries an OAR chapter but no separate
+    # constitution. The operator read them as a set and found nothing separately
+    # constitutes any of them -- ADR 0004's *part of*. This is a REVIEWED ABSENCE, which
+    # derive_relation_kinds.py turns into `kind: part_of`; it is NOT the matcher's silence,
+    # which stays `undetermined` and is a statement about the matcher.
+    #
+    # THREE SIBLINGS OF THESE ARE DELIBERATELY ABSENT. The State Fire Marshal, Early
+    # Learning and Emergency Management were each removed from their parent and made
+    # their own agency; the OAR chapter registration simply lags. They are separately
+    # constituted, so a reviewed ABSENCE would be the wrong finding for them -- see
+    # link_budget_codes.REORGANIZED, which already carries their citations.
+    "department-of-administrative-services-chief-financial-office":
+        "Part of the Department of Administrative Services (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "department-of-administrative-services-chief-human-resources-office":
+        "Part of the Department of Administrative Services (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "department-of-administrative-services-office-of-the-state-chief-information-officer":
+        "Part of the Department of Administrative Services (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "department-of-agriculture-oregon-alfalfa-seed-commission":
+        "Part of the Department of Agriculture (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "department-of-consumer-and-business-services-building-codes-division":
+        "Part of the Department of Consumer and Business Services (ADR 0004): reviewed "
+        "2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is "
+        "no enabling authority to record.",
+    "department-of-consumer-and-business-services-director-s-office":
+        "Part of the Department of Consumer and Business Services (ADR 0004): reviewed "
+        "2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is "
+        "no enabling authority to record.",
+    "department-of-consumer-and-business-services-finance-and-securities-regulation":
+        "Part of the Department of Consumer and Business Services (ADR 0004): reviewed "
+        "2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is "
+        "no enabling authority to record.",
+    "department-of-consumer-and-business-services-health-insurance-marketplace":
+        "Part of the Department of Consumer and Business Services (ADR 0004): reviewed "
+        "2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is "
+        "no enabling authority to record.",
+    "department-of-consumer-and-business-services-insurance-regulation":
+        "Part of the Department of Consumer and Business Services (ADR 0004): reviewed "
+        "2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is "
+        "no enabling authority to record.",
+    "department-of-consumer-and-business-services-oregon-occupational-safety-and-health-division":
+        "Part of the Department of Consumer and Business Services (ADR 0004): reviewed "
+        "2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is "
+        "no enabling authority to record.",
+    "department-of-consumer-and-business-services-workers-compensation-division":
+        "Part of the Department of Consumer and Business Services (ADR 0004): reviewed "
+        "2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is "
+        "no enabling authority to record.",
+    "department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities":
+        "Part of the Department of Human Services (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "department-of-human-services-child-welfare-programs":
+        "Part of the Department of Human Services (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "department-of-human-services-self-sufficiency-programs":
+        "Part of the Department of Human Services (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "department-of-transportation-driver-and-motor-vehicle-services-division":
+        "Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "department-of-transportation-highway-division":
+        "Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "department-of-transportation-motor-carrier-transportation-division":
+        "Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "department-of-transportation-public-transit-division":
+        "Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "department-of-transportation-rail-division":
+        "Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "department-of-transportation-transportation-safety-division":
+        "Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development":
+        "Part of the Higher Education Coordinating Commission (ADR 0004): reviewed 2026-09-12 "
+        "by @morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "higher-education-coordinating-commission-office-of-degree-authorization":
+        "Part of the Higher Education Coordinating Commission (ADR 0004): reviewed 2026-09-12 "
+        "by @morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "oregon-health-authority-equity-and-inclusion-division":
+        "Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux, "
+        "who found nothing separately constitutes it, so there is no enabling authority to "
+        "record.",
+    "oregon-health-authority-health-systems-division-addiction-services":
+        "Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux, "
+        "who found nothing separately constitutes it, so there is no enabling authority to "
+        "record.",
+    "oregon-health-authority-health-systems-division-behavioral-health-services":
+        "Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux, "
+        "who found nothing separately constitutes it, so there is no enabling authority to "
+        "record.",
+    "oregon-health-authority-health-systems-division-medical-assistance-programs":
+        "Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux, "
+        "who found nothing separately constitutes it, so there is no enabling authority to "
+        "record.",
+    "oregon-health-authority-public-health-division":
+        "Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux, "
+        "who found nothing separately constitutes it, so there is no enabling authority to "
+        "record.",
+    "oregon-watershed-enhancement-board-oregon-agricultural-heritage-program":
+        "Part of the Oregon Watershed Enhancement Board (ADR 0004): reviewed 2026-09-12 by "
+        "@morficflux, who found nothing separately constitutes it, so there is no enabling "
+        "authority to record.",
+    "secretary-of-state-archives-division":
+        "Part of the Secretary of State (ADR 0004): reviewed 2026-09-12 by @morficflux, who "
+        "found nothing separately constitutes it, so there is no enabling authority to "
+        "record.",
+    "secretary-of-state-audits-division":
+        "Part of the Secretary of State (ADR 0004): reviewed 2026-09-12 by @morficflux, who "
+        "found nothing separately constitutes it, so there is no enabling authority to "
+        "record.",
+    "secretary-of-state-business-services-division":
+        "Part of the Secretary of State (ADR 0004): reviewed 2026-09-12 by @morficflux, who "
+        "found nothing separately constitutes it, so there is no enabling authority to "
+        "record.",
+    "secretary-of-state-corporation-division":
+        "Part of the Secretary of State (ADR 0004): reviewed 2026-09-12 by @morficflux, who "
+        "found nothing separately constitutes it, so there is no enabling authority to "
+        "record.",
+    "secretary-of-state-elections-division":
+        "Part of the Secretary of State (ADR 0004): reviewed 2026-09-12 by @morficflux, who "
+        "found nothing separately constitutes it, so there is no enabling authority to "
+        "record.",
     # e.g. "department-of-transportation-highway-division": "Part of the Department of
     #      Transportation (ADR 0004): nothing separately constitutes it, so there is no
     #      enabling authority to record.",

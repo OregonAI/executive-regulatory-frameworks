@@ -294,7 +294,11 @@ organizations:
   relations:
   - target: department-of-administrative-services
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Administrative Services (ADR 0004): reviewed 2026-09-12
+    by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
+    record.'
 - slug: department-of-administrative-services-chief-human-resources-office
   name: Department of Administrative Services, Chief Human Resources Office
   name_basis: unverified-oar-title
@@ -306,7 +310,11 @@ organizations:
   relations:
   - target: department-of-administrative-services
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Administrative Services (ADR 0004): reviewed 2026-09-12
+    by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
+    record.'
 - slug: department-of-administrative-services-office-of-the-state-chief-information-officer
   name: Department of Administrative Services, Office of the State Chief Information Officer
   name_basis: unverified-oar-title
@@ -318,7 +326,11 @@ organizations:
   relations:
   - target: department-of-administrative-services
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Administrative Services (ADR 0004): reviewed 2026-09-12
+    by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
+    record.'
 - slug: department-of-agriculture
   name: Department of Agriculture
   name_basis: unverified-oar-title
@@ -356,7 +368,10 @@ organizations:
   relations:
   - target: department-of-agriculture
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Agriculture (ADR 0004): reviewed 2026-09-12 by
+    @morficflux, who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: department-of-agriculture-oregon-beef-council
   name: Department of Agriculture, Oregon Beef Council
   name_basis: unverified-oar-title
@@ -694,7 +709,11 @@ organizations:
   relations:
   - target: department-of-consumer-and-business-services
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Consumer and Business Services (ADR 0004): reviewed
+    2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
+    to record.'
 - slug: department-of-consumer-and-business-services-director-s-office
   name: Department of Consumer and Business Services, Director's Office
   name_basis: unverified-oar-title
@@ -706,7 +725,11 @@ organizations:
   relations:
   - target: department-of-consumer-and-business-services
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Consumer and Business Services (ADR 0004): reviewed
+    2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
+    to record.'
 - slug: department-of-consumer-and-business-services-finance-and-securities-regulation
   name: Department of Consumer and Business Services, Finance and Securities Regulation
   name_basis: unverified-oar-title
@@ -718,7 +741,11 @@ organizations:
   relations:
   - target: department-of-consumer-and-business-services
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Consumer and Business Services (ADR 0004): reviewed
+    2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
+    to record.'
 - slug: department-of-consumer-and-business-services-health-insurance-marketplace
   name: Department of Consumer and Business Services, Health Insurance Marketplace
   name_basis: unverified-oar-title
@@ -730,7 +757,11 @@ organizations:
   relations:
   - target: department-of-consumer-and-business-services
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Consumer and Business Services (ADR 0004): reviewed
+    2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
+    to record.'
 - slug: department-of-consumer-and-business-services-insurance-regulation
   name: Department of Consumer and Business Services, Insurance Regulation
   name_basis: unverified-oar-title
@@ -742,7 +773,11 @@ organizations:
   relations:
   - target: department-of-consumer-and-business-services
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Consumer and Business Services (ADR 0004): reviewed
+    2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
+    to record.'
 - slug: department-of-consumer-and-business-services-oregon-occupational-safety-and-health-division
   name: Department of Consumer and Business Services, Oregon Occupational Safety and Health Division
   name_basis: unverified-oar-title
@@ -754,7 +789,11 @@ organizations:
   relations:
   - target: department-of-consumer-and-business-services
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Consumer and Business Services (ADR 0004): reviewed
+    2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
+    to record.'
 - slug: department-of-consumer-and-business-services-workers-compensation-board
   name: Department of Consumer and Business Services, Workers' Compensation Board
   name_basis: unverified-oar-title
@@ -781,7 +820,11 @@ organizations:
   relations:
   - target: department-of-consumer-and-business-services
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Consumer and Business Services (ADR 0004): reviewed
+    2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
+    to record.'
 - slug: department-of-corrections
   name: Department of Corrections
   name_basis: unverified-oar-title
@@ -885,7 +928,11 @@ organizations:
   relations:
   - target: department-of-human-services
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Human Services (ADR 0004): reviewed 2026-09-12
+    by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
+    record.'
 - slug: department-of-human-services-child-welfare-programs
   name: Department of Human Services, Child Welfare Programs
   name_basis: unverified-oar-title
@@ -897,7 +944,11 @@ organizations:
   relations:
   - target: department-of-human-services
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Human Services (ADR 0004): reviewed 2026-09-12
+    by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
+    record.'
 - slug: department-of-human-services-home-care-commission
   name: Department of Human Services, Home Care Commission
   name_basis: unverified-oar-title
@@ -924,7 +975,11 @@ organizations:
   relations:
   - target: department-of-human-services
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Human Services (ADR 0004): reviewed 2026-09-12
+    by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
+    record.'
 - slug: department-of-human-services-vocational-rehabilitation-services
   name: Department of Human Services, Vocational Rehabilitation Services
   name_basis: unverified-oar-title
@@ -1023,15 +1078,19 @@ organizations:
   - Department of the State Fire Marshal
   - Office of State Fire Marshal
   - State Fire Marshal
-  curator_note: 'STANDALONE since HB 2927 (Oregon Laws 2021, chapter 539), operative 2023-07-01 (confirmed
-    by direct fetch 2026-09-02 against this body''s own section of the act -- NOT the same as the 2022-07-01
-    date the emergency-management row below cites: that is section 2''s own operative date, for a different
-    body under the same act; this row''s section was not independently numbered in this session''s research,
-    only its own operative date was confirmed): renamed the Office of State Fire Marshal as the Department
-    of the State Fire Marshal and established it as an independent state agency, spun out of the Department
-    of State Police -- the same act #212 fixed for DAS code 258, named here as a sibling by link_budget_codes.py''s
-    own REORGANIZED table (#354). Codified at ORS 476.020(1): "The Department of the State Fire Marshal
-    is established. The department is under the supervision and control of the State Fire Marshal." (confirmed
+  curator_note: 'STANDALONE since SB 762 (2021), operative 2023-07-01 (confirmed by direct fetch 2026-09-02
+    against this body''s own section of the act -- NOT the same as the 2022-07-01 date the emergency-management
+    row below cites: that is section 2''s own operative date, for a different body under the same act;
+    this row''s section was not independently numbered in this session''s research, only its own operative
+    date was confirmed): renamed the Office of State Fire Marshal as the Department of the State Fire
+    Marshal and established it as an independent state agency, spun out of the Department of State Police.
+    ACT CORRECTED 2026-09-12: this note previously named HB 2927, inherited from the sibling emergency-management
+    row (#212) rather than read for this body -- and said so, recording that this row''s section was not
+    independently numbered. The detaching act is SB 762 (2021); HB 2927 is the Department of Emergency
+    Management''s act and belongs to that row only. The operative date and the ORS 476.020(1) text below
+    WERE verified by the 2026-09-02 fetch and stand unchanged. Operator determination, @morficflux, 2026-09-12;
+    not machine-verified here. Codified at ORS 476.020(1): "The Department of the State Fire Marshal is
+    established. The department is under the supervision and control of the State Fire Marshal." (confirmed
     by direct fetch 2026-09-02). #212''s own resolution for the sibling body applies unchanged here (see
     this file''s `oregon-military-department-office-of-emergency-management` row for the full reasoning):
     one row, not two, current statutory name carried as an `aliases` entry above; `name`/`name_basis`/`oar_name`/`enabling_authority`
@@ -1078,7 +1137,11 @@ organizations:
   relations:
   - target: department-of-transportation
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12
+    by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
+    record.'
 - slug: department-of-transportation-highway-division
   name: Department of Transportation, Highway Division
   name_basis: unverified-oar-title
@@ -1090,7 +1153,11 @@ organizations:
   relations:
   - target: department-of-transportation
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12
+    by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
+    record.'
 - slug: department-of-transportation-motor-carrier-transportation-division
   name: Department of Transportation, Motor Carrier Transportation Division
   name_basis: unverified-oar-title
@@ -1102,7 +1169,11 @@ organizations:
   relations:
   - target: department-of-transportation
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12
+    by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
+    record.'
 - slug: department-of-transportation-public-transit-division
   name: Department of Transportation, Public Transit Division
   name_basis: unverified-oar-title
@@ -1114,7 +1185,11 @@ organizations:
   relations:
   - target: department-of-transportation
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12
+    by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
+    record.'
 - slug: department-of-transportation-rail-division
   name: Department of Transportation, Rail Division
   name_basis: unverified-oar-title
@@ -1126,7 +1201,11 @@ organizations:
   relations:
   - target: department-of-transportation
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12
+    by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
+    record.'
 - slug: department-of-transportation-transportation-safety-division
   name: Department of Transportation, Transportation Safety Division
   name_basis: unverified-oar-title
@@ -1138,7 +1217,11 @@ organizations:
   relations:
   - target: department-of-transportation
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12
+    by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
+    record.'
 - slug: department-of-veterans-affairs
   name: Department of Veterans' Affairs
   name_basis: unverified-oar-title
@@ -1226,7 +1309,11 @@ organizations:
   relations:
   - target: higher-education-coordinating-commission
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Higher Education Coordinating Commission (ADR 0004): reviewed
+    2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
+    to record.'
 - slug: higher-education-coordinating-commission-office-of-degree-authorization
   name: Higher Education Coordinating Commission, Office of Degree Authorization
   name_basis: unverified-oar-title
@@ -1238,7 +1325,11 @@ organizations:
   relations:
   - target: higher-education-coordinating-commission
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Higher Education Coordinating Commission (ADR 0004): reviewed
+    2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
+    to record.'
 - slug: higher-education-coordinating-commission-office-of-student-access-and-completion
   name: Higher Education Coordinating Commission, Office of Student Access and Completion
   name_basis: unverified-oar-title
@@ -1747,13 +1838,16 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: registry
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
   raw_index_name: null
   source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=950-030-0000
   absent_from_index_as_of: '2026-09-12'
   curator_note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from the OARD
     rule-page header (name's own prefix ties it to OHA, parent per that prefix). Discovered via renumbering
     redirects during the 2026-07 mass OAR import.
+  enabling_authority: 'none: Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux,
+    who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: oregon-health-authority-health-licensing-office
   name: Oregon Health Authority, Health Licensing Office
   name_basis: unverified-oar-title
@@ -1899,7 +1993,10 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux,
+    who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: oregon-health-authority-health-systems-division-behavioral-health-services
   name: 'Oregon Health Authority, Health Systems Division: Behavioral Health Services'
   name_basis: unverified-oar-title
@@ -1911,7 +2008,10 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux,
+    who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: oregon-health-authority-health-systems-division-medical-assistance-programs
   name: 'Oregon Health Authority, Health Systems Division: Medical Assistance Programs'
   name_basis: unverified-oar-title
@@ -1923,7 +2023,10 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux,
+    who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: oregon-health-authority-oregon-prescription-drug-program
   name: Oregon Health Authority, Oregon Prescription Drug Program
   name_basis: unverified-oar-title
@@ -1965,7 +2068,10 @@ organizations:
   relations:
   - target: oregon-health-authority
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux,
+    who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: oregon-hemp-commission
   name: Oregon Hemp Commission
   name_basis: enabling-authority
@@ -2204,7 +2310,11 @@ organizations:
   relations:
   - target: oregon-watershed-enhancement-board
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Oregon Watershed Enhancement Board (ADR 0004): reviewed 2026-09-12
+    by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
+    record.'
 - slug: oregon-wine-board
   name: Oregon Wine Board
   name_basis: unverified-oar-title
@@ -2328,7 +2438,10 @@ organizations:
   relations:
   - target: secretary-of-state
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Secretary of State (ADR 0004): reviewed 2026-09-12 by @morficflux,
+    who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: secretary-of-state-audits-division
   name: Secretary of State, Audits Division
   name_basis: unverified-oar-title
@@ -2340,7 +2453,10 @@ organizations:
   relations:
   - target: secretary-of-state
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Secretary of State (ADR 0004): reviewed 2026-09-12 by @morficflux,
+    who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: secretary-of-state-business-services-division
   name: Secretary of State, Business Services Division
   name_basis: unverified-oar-title
@@ -2352,7 +2468,10 @@ organizations:
   relations:
   - target: secretary-of-state
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Secretary of State (ADR 0004): reviewed 2026-09-12 by @morficflux,
+    who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: secretary-of-state-corporation-division
   name: Secretary of State, Corporation Division
   name_basis: unverified-oar-title
@@ -2364,7 +2483,10 @@ organizations:
   relations:
   - target: secretary-of-state
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Secretary of State (ADR 0004): reviewed 2026-09-12 by @morficflux,
+    who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: secretary-of-state-elections-division
   name: Secretary of State, Elections Division
   name_basis: unverified-oar-title
@@ -2376,7 +2498,10 @@ organizations:
   relations:
   - target: secretary-of-state
     source: oar-index
-    kind: undetermined
+    kind: part_of
+    basis: reviewed-absence
+  enabling_authority: 'none: Part of the Secretary of State (ADR 0004): reviewed 2026-09-12 by @morficflux,
+    who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: southern-oregon-university
   name: Southern Oregon University
   name_basis: unverified-oar-title
