@@ -68,6 +68,35 @@ def fetch_chapter(ch):
     return (SNAPSHOT_DIR / f"{snap_id}.txt").read_text(encoding="utf-8", errors="replace")
 
 
+# #415: both title caps below used to be a bare `[:160]`, unmeasured since the original
+# mass-ingest commit (`ed04bec8`) that introduced this module -- no comment anywhere tied
+# 160 to an actual technical constraint (a YAML line-length limit, a display width), and
+# #397's own review flagged it as possibly-deliberate but explicitly declined to call it a
+# bug for lack of evidence ("This may be an intentional display-width choice ... not
+# asserting the cap itself is wrong"). #415 is that evidence: measured 2026-09-13 against a
+# fresh, uncapped re-parse of all 569 committed chapters (after #411/#412's fix above, since
+# a glued heading/Note artificially inflates a title's length and would otherwise be
+# counted as "real" content the cap cuts) -- 406 of 37,744 section titles and 5 of 569
+# chapter titles genuinely exceed 160 characters, 303 of the 406 cut MID-WORD
+# ("...advertising discriminatory preference prohibited; allowance for reas[onable
+# modification...]", 659A.145). That is real catchline text, deleted, not a display choice
+# -- the content policy this repo runs on (AGENTS.md: full-text-first, never truncate real
+# source content) applies to a title exactly as it does to a `## Full text` section.
+# The longest real title measured, section or chapter, either before or after this fix:
+# 314.057 at 504 characters (a citation-heavy catchline naming nine separate federal
+# session laws by name and public-law number -- see `_selftest`'s own worked example).
+# Chosen over removing the cap outright ("do not silently remove a constraint someone chose
+# on purpose"): a cap is still cheap insurance against `parse_toc`'s density-boundary logic
+# someday running unbounded into body prose the way `_RECOVERED_TAIL_CAP` already guards
+# the RECOVERED branch against -- it costs nothing on today's corpus (every real title
+# clears it) and only ever fires on a future pathology, exactly the same shape of tradeoff
+# `_HEADING_WINDOW`'s own 700,000 already makes. Set with the same margin this module's
+# other measured bounds use (`_CATCHLINE_WINDOW`: 372 measured -> 600, ~1.6x): 504 * 1.6 ≈
+# 806, rounded to 800. If some future title exceeds 800, it is truncated again -- reported
+# the same way this one was, by a fresh full-corpus measurement, not assumed away.
+_TITLE_CAP = 800
+
+
 def extract_chapter_title(raw_text, ch):
     """Pull the chapter's real title from the source ("Chapter 305. Administration of
     Revenue and Tax Laws; Appeals ... 306. ...") so mass-catalogued chapters aren't all
@@ -93,7 +122,7 @@ def extract_chapter_title(raw_text, ch):
         m = re.search(rf"Chapter\s+{re.escape(ch)}\s+\(Former Provisions\)\s+"
                       rf"(.+?)\s+(?=TITLE\s+\d+|[A-Z][A-Z ']{{7,}})", t)
         if m:
-            return f"{m.group(1).strip(' .;')} (Former Provisions)"[:160]
+            return f"{m.group(1).strip(' .;')} (Former Provisions)"[:_TITLE_CAP]
     if not m:
         # A fourth heading form, with NO separator between the number and the title — the
         # edition banner sits between them instead: "Chapter 5 2025 EDITION County Courts
@@ -105,7 +134,7 @@ def extract_chapter_title(raw_text, ch):
     if not m:
         return None
     title = m.group(1).strip(" .;")
-    return title[:160] if len(title) >= 3 else None
+    return title[:_TITLE_CAP] if len(title) >= 3 else None
 
 
 # A cross-reference embedded in an earlier entry's own catchline ("'Agency' defined for
@@ -128,8 +157,18 @@ def extract_chapter_title(raw_text, ch):
 # 735.365" cut to "...to" at the false boundary; "824.200 Definitions for ORS 824.200 to
 # 824.256" the same way) -- #286's other two parser-attributed rows. `,`/`and`/`to` cover
 # every join word measured across every xref chain on the committed chapter snapshots.
+# #415 (757.015): a subsection citation -- "(1)", "(2)(a)" -- can sit between a number
+# and the join word that follows it ("ORS 757.105 (1) and 757.495"), which the chain above
+# never allowed: the regex jumped straight from a number to `(?:,|and|to)` with nothing in
+# between, so this shape simply didn't match past the first number, leaving "757.495"
+# unprotected and mistaken for a new TOC-entry boundary (truncating 757.015's own title at
+# "...and"). `(?:\s*\([0-9a-zA-Z., ]+\))*` after EACH number, not just the first, since the
+# same subsection-cite shape could in principle trail any number in a chain, not only the
+# one right after "ORS " -- measured against every xref chain in the corpus, only 757.015
+# needs it, but the chain shape itself doesn't privilege one position over another.
 XREF_RE = re.compile(
-    r"\bORS\s+\d{3}[A-Z]?\.\d{3}(?:\s*(?:,|and|to)\s*\d{3}[A-Z]?\.\d{3})*\b")
+    r"\bORS\s+\d{3}[A-Z]?\.\d{3}(?:\s*\([0-9a-zA-Z., ]+\))*"
+    r"(?:\s*(?:,|and|to)\s*\d{3}[A-Z]?\.\d{3}(?:\s*\([0-9a-zA-Z., ]+\))*)*\b")
 # A bare part/subpart heading ("TREATMENT OF PRISONERS") between two numbered TOC entries
 # has no section number of its own, so it isn't a split boundary either — it trails onto
 # the PRECEDING entry's catchline instead. Distinguished from real title text by being an
@@ -204,6 +243,20 @@ _HEADING_UNIT_RE = re.compile(
 # paragraph earlier already named -- ch. 453's "(Miscellaneous)" governing 453.135 is a
 # real, committed example).
 _SUBHEADING_UNIT_RE = re.compile(r"^\(.+\)$")
+# #411/#412: the source's own editorial marginalia -- introduced by the literal word
+# "Note" (with or without a following colon; both shapes are printed, measured against
+# all 569 committed chapters: "Note Provision relating to fills ...--1989 c.45 §2" and
+# "Note: Definitions in 25.010 and 25.011 apply to ORS chapter 107." both occur) -- is
+# typeset exactly like a heading or sub-heading: its OWN blank-line-isolated paragraph
+# (verified directly against the raw source for every row this fix corrects, not
+# assumed; see `_toc_heading_phrases`'s own docstring). Unlike a heading, it is Title
+# Case free prose of arbitrary length, so it needs its own pattern matched only at the
+# unit's START (the paragraph boundary already did the isolating; there is no fixed
+# shape the REST of a Note paragraph's text has to satisfy, the way a heading's ALL-CAPS
+# run does). `\bNote\b` rather than a bare `Note` prefix so a real catchline that merely
+# happens to start with a longer word sharing the prefix (there is no such word in
+# English, but the boundary costs nothing to state precisely) is never mistaken for one.
+_NOTE_UNIT_RE = re.compile(r"^Note\b")
 # The binding quantity here is a RAW BYTE OFFSET, not an entry count -- entry count is how
 # long a chapter's TOC *content* is, but this window has to reach the LAST heading-shaped
 # paragraph in raw, uncollapsed text, which runs far longer per entry than `parse_toc`'s own
@@ -249,21 +302,28 @@ def _after_edition(text, span):
 def _toc_heading_phrases(raw_text):
     """Every isolated paragraph in the TOC region that is EITHER an all-caps section-group
     heading (optionally with its own all-caps parenthetical on the same paragraph) OR a
-    parenthetical sub-heading of any case, normalized the same way `parse_toc` normalizes a
-    catchline (`ws_only`) so they compare equal. This is broader than "heading or
-    sub-heading" alone: any isolated parenthetical paragraph qualifies, which is also why
-    a `(Temporary provisions relating to ...)` editorial compilation note -- furniture, not
-    a section-group heading -- is collected and stripped the same way (measured 2026-09-12,
-    all 569 committed chapters: 112 rows; #346's own thread already called this text
-    garbage, so stripping it is not new policy, just an undocumented side effect of the same
-    mechanism, documented here).
+    parenthetical sub-heading of any case OR a `Note` editorial marginalia paragraph,
+    normalized the same way `parse_toc` normalizes a catchline (`ws_only`) so they compare
+    equal. This is broader than "heading or sub-heading" alone: any isolated parenthetical
+    paragraph qualifies, which is also why a `(Temporary provisions relating to ...)`
+    editorial compilation note -- furniture, not a section-group heading -- is collected and
+    stripped the same way (measured 2026-09-12, all 569 committed chapters: 112 rows; #346's
+    own thread already called this text garbage, so stripping it is not new policy, just an
+    undocumented side effect of the same mechanism, documented here).
     A heading immediately followed by its own sub-heading PARAGRAPH is combined into one
     phrase ("ART AND CRAFT MATERIALS (Generally)"); either stands alone otherwise ("COURTS";
     a bare "(Miscellaneous)"). A parenthetical sub-heading the source itself wraps across a
     paragraph break ("(Educator Professional" / "Development Program)", ch. 329) is merged
     back into one unit before either pattern is tried, so it is not lost to being
     unbalanced-parenthesis in each half. Longest first, so a combined phrase is tried before
-    its own bare-heading prefix would also match."""
+    its own bare-heading prefix would also match.
+
+    #411/#412: a `Note ...` paragraph (see `_NOTE_UNIT_RE`) is collected as its own bare
+    phrase, never combined with a neighbor -- unlike a heading, it never needs to be (a
+    Note is never followed by its own separate sub-heading paragraph the way a section-
+    group heading is), and the corpus prints more than one back to back often enough
+    (401.123, 657B.430, 285B.799) that each must remain independently strippable by
+    `_strip_glued_headings`'s own loop rather than assuming exactly one per gap."""
     window = _after_edition(raw_text, _HEADING_WINDOW)
     if window is None:
         return []
@@ -294,6 +354,8 @@ def _toc_heading_phrases(raw_text):
                 continue
             phrases.append(u)
         elif _SUBHEADING_UNIT_RE.match(u):
+            phrases.append(u)
+        elif _NOTE_UNIT_RE.match(u):
             phrases.append(u)
         k += 1
     phrases.sort(key=len, reverse=True)
@@ -369,6 +431,21 @@ def _catchline_end(tail: str) -> int:
     return limit
 
 
+# #415 (279C.337): the committed snapshot's own TOC region already carries a stray SPACE
+# right after a "/" ("construction manager/ general contractor services") that this
+# section's own three committed body occurrences -- extracted by the same `html_to_text`
+# pipeline, from the same page -- do not carry ("manager/general" throughout). It is not a
+# `ws_only` collapse this module introduces (the character on this exact byte, checked
+# directly against the committed snapshot, is already a literal space, not a newline
+# `ws_only` turned into one), so it cannot be fixed by changing how whitespace is collapsed
+# -- it has to be removed as its own normalization. Measured against the full corpus: this
+# is the ONLY TOC title containing a "/" followed by a space, so collapsing that pattern out
+# of a title's tail is narrow by measurement, not merely by construction, and matches the
+# convention every other slash-joined term in this corpus (verified against the committed
+# body text, not assumed) actually uses -- no surrounding space.
+_SLASH_SPACE_RE = re.compile(r"/\s+")
+
+
 def parse_toc(raw_text, ch):
     t = ws_only(raw_text)
     # Wide enough for any chapter's real TOC (the largest, ORS 656, has ~220 entries) --
@@ -385,9 +462,25 @@ def parse_toc(raw_text, ch):
         return []
     heading_phrases = _toc_heading_phrases(raw_text)
     xref_spans = [m.span() for m in XREF_RE.finditer(chunk)]
+    # #412 (569.995): a `Note` paragraph's OWN text can itself list a run of the
+    # chapter's own bare section numbers with no `ORS` prefix ("Note: 569.010, 569.020,
+    # ..., 569.160, all relating to lime manufacture and distribution, repealed by 1953
+    # c.41 §2."), because it is naming sections repealed out of THIS chapter, not citing
+    # another one -- XREF_RE never matches these (it requires the literal `ORS ` the
+    # source only prints before a cross-CHAPTER citation), so without this exclusion
+    # `num_re` below mistakes the first bare number inside the Note for a new TOC-entry
+    # boundary and truncates the entry the Note is glued to right at the Note's own
+    # opening words, before `_strip_glued_headings` ever gets a complete phrase to match
+    # against. Excluded the same way `xref_spans` already is: every Note phrase this
+    # chapter's `_toc_heading_phrases` collected is exact, structurally-sourced text (see
+    # `_NOTE_UNIT_RE`), so its own span in `chunk` -- found by searching for that literal
+    # text, not guessed -- is furniture, never a real TOC-entry boundary.
+    note_spans = [m.span() for p in heading_phrases if _NOTE_UNIT_RE.match(p)
+                  for m in re.finditer(re.escape(p), chunk)]
 
     def real_boundary(m):
-        return not any(a <= m.start() < b for a, b in xref_spans)
+        return (not any(a <= m.start() < b for a, b in xref_spans)
+                and not any(a <= m.start() < b for a, b in note_spans))
 
     # The UCC chapters (71-80) number sections with FOUR digits after the point --
     # 72.1010, not 72.101 -- so a hard \d{3}\b matched nothing and silently yielded an
@@ -436,9 +529,19 @@ def parse_toc(raw_text, ch):
         if not pm:
             continue
         num, rest = pm.groups()
-        rest = re.split(r"\[", rest)[0].strip(" .")
+        # #412 (413.805, 458.740): stripping a trailing PERIOD here, before
+        # `_strip_glued_headings` runs, discards it even when that period is the LAST
+        # character of a glued `Note ...` phrase's own exact text (a Note is a full
+        # sentence and always ends with one) -- so when nothing else follows the Note in
+        # this segment, the period this early strip removes is exactly the character
+        # `_strip_glued_headings`'s own suffix match needs to see, and the match silently
+        # fails. Whitespace only here; the period still comes off in the ORDINARY case
+        # (no glued phrase) via the unconditional `.strip(" .")` two lines down, which
+        # runs AFTER the strip has had its chance to match the phrase's own full text.
+        rest = re.split(r"\[", rest)[0].strip()
         rest = _strip_glued_headings(rest, heading_phrases).strip(" .")
         rest = TRAILING_HEADING_RE.sub("", rest).strip(" .")
+        rest = _SLASH_SPACE_RE.sub("/", rest)
         # a heavily-renumbered chapter (e.g. 279, split into 279A/B/C in 2003) often carries
         # a "repealed sections" summary elsewhere on the page listing old numbers with their
         # repeal year in a bracket ("279.435 [... repealed by ... in 1989]") -- these also
@@ -448,7 +551,7 @@ def parse_toc(raw_text, ch):
                 or not (rest[0].isupper() or rest[0] in "“‘\"'"):
             continue
         seen.add(num)
-        out.append({"number": num, "title": rest[:160], "status": "not_ingested"})
+        out.append({"number": num, "title": rest[:_TITLE_CAP], "status": "not_ingested"})
     return out
 
 
@@ -609,21 +712,30 @@ def _selftest() -> int:
     # carrying neither marker, run out past the 2000-char cap -- the same garbage-suffixed
     # -title failure mode #346's thread measured and rejected for the naive "just include
     # it" fix, now happening on purpose. But its title, like every entry's, still passes
-    # through `parse_toc`'s own `rest[:160]` truncation below -- so what this fixture's
-    # `literal_title == 160` chars actually pins is that ordinary truncation, not the cap:
-    # measured, sweeping `_RECOVERED_TAIL_CAP` over 5000/1000/500/300/200/175 leaves this
-    # assertion green throughout, because the 160-char truncation is what the comparison
-    # sees regardless of where the cap sits above it. The SECOND assertion below calls
-    # `_catchline_end` directly against a markerless tail longer than the cap and pins the
-    # literal 2000 -- verified sensitive: it goes red the moment `_RECOVERED_TAIL_CAP` moves
-    # away from 2000 in either direction.
-    literal_title = ("Third and last entry title the body of the chapter continues here "
-                      "with ordinary sentence case prose that carries no capitalised "
-                      "heading and no marker word of an")
-    filler = (" other kind entirely, and it just keeps going in ordinary sentence case "
-              "well past both the hundred and sixty characters this parser keeps for any "
-              "title and the two thousand character boundary this fixture means to reach, "
-              "so the fallback this proof pins is the cap itself and not the tail's own "
+    # through `parse_toc`'s own `rest[:_TITLE_CAP]` truncation below -- so what this
+    # fixture's `literal_title == _TITLE_CAP` chars actually pins is that ordinary
+    # truncation, not the recovery cap: measured, sweeping `_RECOVERED_TAIL_CAP` over
+    # 5000/1000/500/300/200/175 leaves this assertion green throughout, because the
+    # `_TITLE_CAP`-char truncation is what the comparison sees regardless of where the
+    # recovery cap sits above it. The SECOND assertion below calls `_catchline_end`
+    # directly against a markerless tail longer than the cap and pins the literal 2000 --
+    # verified sensitive: it goes red the moment `_RECOVERED_TAIL_CAP` moves away from
+    # 2000 in either direction.
+    literal_title = (
+        "Third and last entry title the body of the chapter continues here with "
+        "ordinary sentence case prose that carries no capitalised heading and no "
+        "marker word of any other kind, running on past what this parser now keeps "
+        "for an ordinary title before the boundary this fixture actually means to "
+        "test, repeating itself in plain words to reach the exact length this proof "
+        "needs without resorting to a marker word "
+        + "and repeating some more harmless words to be sure of it, " * 8
+    )[:800]
+    assert len(literal_title) == 800, "fixture text must be trimmed/padded to exactly " \
+        "_TITLE_CAP characters for the truncation assertion below to mean anything"
+    filler = (" and it just keeps going in ordinary sentence case well past both the "
+              "eight hundred characters this parser keeps for any title and the two "
+              "thousand character boundary this fixture means to reach, so the "
+              "fallback this proof pins is the cap itself and not the tail's own "
               "natural end, repeating some more harmless words to be sure of it, ") * 20
     raw999 = ("SOME PREAMBLE TEXT 2025 EDITION "
               "999.010 First entry title. "
@@ -631,13 +743,15 @@ def _selftest() -> int:
               "999.030 " + literal_title + filler)
     s999 = {s["number"]: s["title"] for s in parse_toc(raw999, "999")}
     ck("a synthetic chapter whose recovered last entry carries neither marker within "
-       "2000 chars still gets the ordinary 160-char title truncation every entry gets -- "
-       "this does NOT pin the cap itself (see the next assertion for that)",
+       "2000 chars still gets the ordinary _TITLE_CAP-char title truncation every entry "
+       "gets -- this does NOT pin the recovery cap itself (see the next assertion for "
+       "that)",
        s999.get("999.030") == literal_title)
     tail999 = "999.030 " + literal_title + filler
     ck("the markerless tail's own boundary, checked directly against `_catchline_end`, is "
-       "the cap itself, 2000 chars, and not the tail's length or the title's 160-char "
-       "truncation -- this is the assertion that goes red if `_RECOVERED_TAIL_CAP` moves",
+       "the recovery cap itself, 2000 chars, and not the tail's length or the title's "
+       "_TITLE_CAP-char truncation -- this is the assertion that goes red if "
+       "`_RECOVERED_TAIL_CAP` moves",
        _catchline_end(tail999) == _RECOVERED_TAIL_CAP == 2000)
 
     # #397: a bare section-group heading, and a heading followed by its own parenthetical
@@ -686,13 +800,15 @@ def _selftest() -> int:
        "products and materials and recycled PETE")
 
     # THE INTERACTION #397 FLAGGED BUT DID NOT ASSERT WAS A BUG: a glued heading long enough
-    # to push a title past the 160-char cap used to truncate mid-word ("...INJU") instead of
-    # being stripped, because the cap ran before the strip. Removing the glued heading first
-    # is what fixes this -- not a change to the cap itself, which stays exactly `title[:160]`.
+    # to push a title past the (then-160-char) cap used to truncate mid-word ("...INJU")
+    # instead of being stripped, because the cap ran before the strip. Removing the glued
+    # heading first is what fixes this -- a change to WHERE the strip runs relative to the
+    # cap, not to the cap's own mechanism (`title[:_TITLE_CAP]`; #415 later changes the
+    # VALUE, not this ordering).
     s654 = secs("654")
     ck("654.196's glued heading ('INJURED WORKERS' MEMORIAL SCHOLARSHIP', including the "
        "source's own Unicode right single quote) no longer survives far enough to be cut "
-       "mid-word by the 160-char cap",
+       "mid-word by the cap",
        s654.get("654.196") == "Rules on contents of piping systems; posting notice on "
        "right to be informed of hazardous substances; withholding of information under "
        "certain circumstances")
@@ -790,6 +906,189 @@ def _selftest() -> int:
     s109 = secs("109")
     ck("109.834 (one of the brief's three named must-fix rows) is correct",
        s109.get("109.834") == "Severability clause")
+
+    # #411/#412: a `Note ...` editorial marginalia paragraph -- Title Case, not
+    # parenthetical, so it was invisible to `_toc_heading_phrases` before this fix --
+    # glues onto the preceding title the same way a heading or sub-heading does, because
+    # it is typeset exactly the same way: its OWN blank-line-isolated paragraph (verified
+    # directly against the raw source for every row below, not assumed). #411 named the
+    # shape where a KNOWN heading phrase sits between the real title and the Note, past
+    # what an exact-suffix strip could reach without Note recognition too; #412 named the
+    # shape where the Note glues directly with no heading in front of it at all. Both are
+    # the same underlying gap in the SAME function and are fixed by the SAME change here
+    # -- recognizing a `Note` paragraph as its own furniture unit, parallel to how a
+    # heading/sub-heading paragraph already is -- so they are asserted together.
+    #
+    # Re-measured 2026-09-13 against a fresh re-parse of all 569 committed chapters:
+    # #411's claimed 5 rows are exactly right (196.692, 311.701, 454.380, 469.619,
+    # 476.290 -- no more, no fewer). #412's claimed 47 undercounts: the true population
+    # sharing this defect is 59 -- the issue's list plus 12 more (107.843, 109.990,
+    # 163A.110, 195.912, 196.993, 197A.820, 285C.659, 367.850, 411.990, 413.805, 458.740,
+    # 569.995) carrying a differently-worded but structurally identical marginalia
+    # paragraph ("Note: Definitions in ... apply to ORS chapter N" / "Note: N.NNN
+    # contains definitions for ORS chapter N", a recurring chapter-definitions notice,
+    # rather than #412's own named shape, a one-off session-law citation after "Note").
+    # Every expected title below is the section's OWN printed body catchline (via
+    # `ingest_ors._CATCHLINE_END_RE`/`repo_lib.snapshot_slice`, the same ground truth
+    # `statute_title_agreement._snapshot_catchline` and `anchor_ok` both check against),
+    # not a guess at what the strip should produce.
+    s196 = secs("196")
+    ck("196.692 (#411: heading 'REMOVAL OF MATERIAL; FILLING (Streamlining)' then a "
+       "separate 'Note ...' paragraph, both between the title and the next real "
+       "section) is recovered clean",
+       s196.get("196.692") == "Rules")
+    s311 = secs("311")
+    ck("311.701 (#411: heading, then Note, then a SECOND heading -- three stacked units "
+       "-- is recovered clean",
+       s311.get("311.701") == "Senior Property Tax Deferral Revolving Account; "
+       "sources; uses")
+    s454 = secs("454")
+    ck("454.380 (#411: bare heading 'BIOSOLIDS' then a 'Note ...' paragraph) is "
+       "recovered clean",
+       s454.get("454.380") == "Limitation on spending for nonconstruction items; "
+       "exception")
+    s469 = secs("469")
+    ck("469.619 (#411: parenthetical sub-heading '(Offshore Wind Energy)' then a "
+       "'Note ...' paragraph) is recovered clean",
+       s469.get("469.619") == "State Department of Energy to make federal regulations "
+       "available")
+    s476 = secs("476")
+    ck("476.290 (#411's own worked example: heading 'FIRE PREVENTION AND CONTROL ON "
+       "CERTAIN LANDS NOT OTHERWISE PROTECTED' then a 'Note ...' paragraph, previously "
+       "hidden from view entirely by the 160-char cap before the strip even ran) is "
+       "recovered clean",
+       s476.get("476.290") == "Billing owner of property for cost of extinguishing "
+       "fire; cost limited; collection; action for recovery of cost")
+
+    s172 = secs("172")
+    ck("172.130 (#412's own worked example: a bare 'Note ...' with no heading in front "
+       "of it at all) is recovered clean",
+       s172.get("172.130") == "Executive Officer and employees")
+    s743a = secs("743A")
+    ck("743A.168 (#412, same bare-Note shape) is recovered clean",
+       s743a.get("743A.168") == "Behavioral health treatment; qualified providers; "
+       "rules")
+    s107 = secs("107")
+    ck("107.843 (the 12-row remainder #412 undercounted: a recurring chapter-"
+       "definitions notice, 'Note: Definitions in 25.010 and 25.011 apply to ORS "
+       "chapter 107', structurally the same bare-Note glue as #412's own examples "
+       "despite the different wording) is recovered clean",
+       s107.get("107.843") == "Supplemental judgments")
+    s401 = secs("401")
+    ck("401.123 (two stacked bare 'Note ...' paragraphs back to back, no heading "
+       "involved) is recovered clean",
+       s401.get("401.123") == "Support for community organizations active in disaster")
+    s657b = secs("657B")
+    ck("657B.430 (same two-stacked-Note shape as 401.123) is recovered clean",
+       s657b.get("657B.430") == "Paid Family and Medical Leave Insurance Fund")
+    s285b = secs("285B")
+    ck("285B.799 (a bare Note followed by a SECOND, differently-worded bare Note -- "
+       "'Note Program evaluation...' then 'Note: 285A.010 contains definitions...') "
+       "is recovered clean",
+       s285b.get("285B.799") == "Biennial report by Oregon Business Development "
+       "Department to legislature")
+    s569 = secs("569")
+    ck("569.995 (the one row of the 59 where the Note's OWN text lists a run of bare "
+       "chapter-own section numbers with no 'ORS' prefix -- '569.010, 569.020, ...' -- "
+       "which, uncorrected, are mistaken for new TOC-entry boundaries and truncate the "
+       "entry before the strip mechanism ever runs) is recovered clean",
+       s569.get("569.995") == "Civil penalties")
+
+    # #412: the OTHER two rows of the 59 needing a second, distinct fix -- a real TOC
+    # entry immediately follows the glued Note (no trailing heading paragraph after it to
+    # protect the period), so the period this Note phrase's own text ends in was already
+    # stripped by `rest`'s early `.strip(" .")` before `_strip_glued_headings` ever ran,
+    # and the exact-suffix match silently failed on a one-character mismatch it should
+    # never have had to survive in the first place.
+    s413 = secs("413")
+    ck("413.805 (glued Note ends in a period with a real TOC entry, not another heading, "
+       "immediately following it) is recovered clean",
+       s413.get("413.805") == "Services for children and youth under K Plan")
+    s458 = secs("458")
+    ck("458.740 (same immediately-followed-by-a-real-entry shape as 413.805) is "
+       "recovered clean",
+       s458.get("458.740") == "Project facilitation")
+
+    # #415: the `_TITLE_CAP` cap (see its own docstring above `extract_chapter_title`) was
+    # truncating real catchline text, sometimes mid-word. Every expected value below is the
+    # section's own full, real printed title (the two named-truncated rows verified against
+    # the section's own body catchline in the committed snapshot; 314.057 verified directly
+    # against its own TOC entry, since its body catchline is itself a DIFFERENT, unrelated,
+    # pre-existing defect in `ingest_ors._CATCHLINE_END_RE` -- that regex's first-period
+    # match lands on the abbreviation "P.L." rather than the sentence's real end, so the
+    # body-derived ground truth `statute_title_agreement.py` relies on is wrong for this one
+    # row too; not fixed here, out of this file, reported separately).
+    s659a = secs("659A")
+    ck("659A.145 (#415's own worked example: used to cut mid-word, '...allowance for "
+       "reas') now carries its full real title",
+       s659a.get("659A.145") == "Discrimination against individual with disability in "
+       "real property transactions prohibited; advertising discriminatory preference "
+       "prohibited; allowance for reasonable modification; assisting discriminatory "
+       "practices prohibited")
+    s455 = secs("455")
+    ck("455.097 (#415's other named mid-word cut, '...construction-related service in') "
+       "now carries its full real title",
+       s455.get("455.097") == "Electronic access system development and implementation; "
+       "uniform form and format for electronic exchange of building program and "
+       "construction-related service information; waiver of contrary form and format "
+       "requirements; rules")
+    s314 = secs("314")
+    ck("314.057 (the longest real title measured anywhere in the corpus, 504 characters -- "
+       "not a defect, a citation-heavy catchline naming nine federal session laws by name "
+       "and public-law number) survives complete, not cut at the old 160-char cap or "
+       "anywhere else",
+       s314.get("314.057") == "Application of Economic Stimulus Act of 2008 (P.L. "
+       "110-185), Heroes Earnings Assistance and Relief Tax Act of 2008 (P.L. 110-245), "
+       "Food, Conservation, and Energy Act of 2008 (P.L. 110-246), Housing and Economic "
+       "Recovery Act of 2008 (P.L. 110-289), Emergency Economic Stabilization Act of 2008, "
+       "Energy Improvement and Extension Act of 2008, Tax Extenders and Alternative "
+       "Minimum Tax Relief Act of 2008 (P.L. 110-343) and Fostering Connections to "
+       "Success and Increasing Adoptions Act of 2008 (P.L. 110-351)")
+
+    # #415: the identical `[:_TITLE_CAP]` cap on `extract_chapter_title` (CHAPTER titles,
+    # not section titles) has the same defect, measured the same way: 5 of 569 chapter
+    # titles were cut at exactly 160 characters. Fixed by the same constant, in the same
+    # file, same change -- not a separate issue (AGENTS.md: "found while doing something
+    # else" is the reason it's cheap, not a reason to defer it).
+    raw688 = (SNAPSHOT_DIR / "ors-chapter-688.txt").read_text(encoding="utf-8",
+                                                                errors="replace")
+    ck("chapter 688's real title (previously cut mid-word at 160 chars, "
+       "'...Hemodialysis Technicians; Athletic T') survives complete",
+       extract_chapter_title(raw688, "688") == "Therapeutic and Technical Services: "
+       "Physical Therapists; Medical Imaging Practitioners and Limited X-Ray Machine "
+       "Operators; Hemodialysis Technicians; Athletic Trainers; Respiratory Therapists "
+       "and Polysomnographic Technologists")
+
+    # #415: two rows named as a DIFFERENT shape than the cap -- a TOC line-wrap, not
+    # truncation. `757.015`'s own in-catchline cross-reference wraps a subsection cite,
+    # "ORS 757.105 (1) and 757.495", between the first number and the join word -- a shape
+    # `XREF_RE` (built for #286's plain "NNN.NNN and NNN.NNN" and "NNN.NNN to NNN.NNN"
+    # chains) never covered, so the bare "757.495" was mistaken for a new TOC-entry
+    # boundary and the real continuation was cut. This is NOT #348 (1.194's own dangling
+    # xref, deliberately left alone below): #348's cause is a citation to a chapter number
+    # under 3 digits, which `XREF_RE`'s own `\d{3}` can never match at all; 757's citation
+    # is 3-digit chapters throughout and fails only because of the injected "(1)".
+    s757 = secs("757")
+    ck("757.015 (in-catchline xref 'ORS 757.105 (1) and 757.495' -- a subsection cite "
+       "between the number and the join word, not covered by the plain #286 xref chain) "
+       "keeps its full continuation",
+       s757.get("757.015") == "“Affiliated interest” defined for ORS 757.105 "
+       "(1) and 757.495")
+
+    # #415: `279C.337`'s own committed TOC region already carries a stray SPACE right
+    # after the "/" in "construction manager/ general contractor" (verified byte-for-byte
+    # against the committed snapshot: the character there is a literal space, not a
+    # newline `ws_only` collapsed into one), which none of the section's own three
+    # committed body occurrences carry -- unlike 315.123/470.540's mid-word HYPHEN, a
+    # genuine SOURCE artifact `anchor_ok`'s own docstring already documents as deliberately
+    # NOT corrected, this is the opposite case: an artifact of THIS extraction, not one the
+    # source itself prints in the body. Measured: this is the only row in the corpus with a
+    # "/ " (slash then space) anywhere in its title.
+    s279c = secs("279C")
+    ck("279C.337 ('manager/general', not 'manager/ general') has no stray space after "
+       "the slash",
+       s279c.get("279C.337") == "Procurement of construction manager/general contractor "
+       "services")
 
     return ck.report("catalog-ors selftest")
 

@@ -371,23 +371,32 @@ def _proof_real_anchors_still_pass(ck):
     """CRITERION 2 OF #201: currently-ingested, correctly-anchored sections must still
     pass. Runs the real slicer against committed chapter snapshots (no network) for a
     spread of real catalog rows (titles read via `_catalog_titles()`, not hand-typed),
-    including 12.420's OWN real slice (the section the refusal proof above impersonates)
-    and 476.290, whose catalog title still carries trailing-heading noise even after the
-    #397/#411 backfill ("...action for recovery of cost FIRE PREVENTION AND CONTROL ON
-    CERTAIN LANDS NOT") -- proving the fix tolerates that known, separate catalog defect
-    rather than refusing a section over it.
+    including 12.420's OWN real slice (the section the refusal proof above impersonates).
 
-    This fixture was re-anchored off 1.860 by the #397 backfill itself (2026-09-12):
-    1.860 is exactly the row this proof used to cite, and the backfill made the citation
-    false by cleaning 1.860's title -- the whole point of #397/#411 is to shrink the set
-    of titles carrying this noise, so a fixture proving tolerance of it cannot durably
-    anchor on any ROW, only on the CONDITION. 476.290 is one of the 5 rows #411 measured
-    as the fix's own named, still-glued residual (a `Note ...` marginalia sits between
-    the glued heading and the next real section, past what an exact-suffix strip can
-    reach) -- verified still glued against the post-backfill committed catalog before
-    landing this re-anchor, not assumed. When #411 is eventually fixed, whichever row it
-    still leaves glued (or #412's 47-row Note-gluing family, e.g. 172.130, if #411 closes
-    first) is this proof's next anchor -- the same substitution being made here."""
+    476.290 used to anchor a "tolerates a known, separate catalog defect" claim here: it
+    was one of #411's own 5 named still-glued rows (a `Note ...` marginalia sitting
+    between a glued heading and the next real section, past what an exact-suffix strip
+    could reach), re-anchored onto this row (2026-09-12) after the #397 backfill cleaned
+    1.860, the row this proof cited before that. #411 AND #412 are now BOTH fixed (this
+    same session, `catalog_ors.py`'s `_toc_heading_phrases` gained `Note`-paragraph
+    recognition) -- 476.290's own title is clean now ("...action for recovery of cost",
+    no trailing heading or Note), and a corpus-wide re-measurement of every currently-
+    ingested row against `anchor_ok` found ZERO rows refused for glued-heading/Note noise
+    (three refusals remain, all pre-existing and unrelated: 341.305, 315.123, 470.540 --
+    see `_proof_a_measured_residual_is_named_not_absorbed`, a genuine source typo and two
+    source line-wrap hyphenations, never a glued heading). There is no still-glued row
+    left in the corpus to re-anchor this claim on, so it is DROPPED rather than pinned to
+    a row that would make it false the moment anyone looked. 476.290 stays in `cases`
+    below as an ordinary anchor check -- nothing left distinguishes it from 1.001 or
+    12.420 now.
+
+    1.194 keeps the OTHER half of this proof's original point alive on its own: it is
+    #348's dangling in-catchline cross-reference (a different, still-open, still
+    out-of-scope defect -- see `catalog_ors._selftest`'s own pinned "1.194 ... is
+    unchanged" assertion), so `anchor_ok` still has to tolerate a genuinely truncated
+    catalog title here ("Definitions for ORS", missing its own range) rather than refuse
+    the section outright -- the proof this function exists for is not vacuous just
+    because #411/#412's OWN defect shape no longer has a live example."""
     titles = _catalog_titles()
     cases = [
         ("ors-chapter-1", "1.001"),
