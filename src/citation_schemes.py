@@ -614,6 +614,7 @@ import sys as _sys
 _sys.path.insert(0, str(_pathlib.Path(__file__).resolve().parent))
 from federal_ids import CFR as _F_CFR, CJIS as _F_CJIS, IRSPUB as _F_IRS, PUBLAW as _F_PL  # noqa: E402
 from federal_ids import USC as _F_USC  # noqa: E402
+from federal_ids import MAX_RANGE as _F_MAX_RANGE  # noqa: E402
 from federal_ids import candidates as _federal_ids  # noqa: E402
 
 # THE SAME #202 TRAP, measured live here too: all five of CFR/PUBLAW/IRSPUB/CJIS/USC
@@ -825,6 +826,7 @@ def _selftest() -> int:
         _proof_flagged_schemes_survive_registration(ck, fw)
         _proof_federal_schemes_survive_registration(ck, fw)
         _proof_usc_scheme_derives_the_right_section_id(ck, fw)
+        _proof_usc_range_vs_suffix_and_max_range_boundary(ck, fw)
         _proof_ors_unmirrored_chapter_states_absence(ck, fw)
         _proof_ors_chapter_and_section_widths(ck, fw)
         _proof_ors_does_not_shadow_das_oam_number(ck, fw)
@@ -1436,6 +1438,79 @@ def _proof_usc_scheme_derives_the_right_section_id(ck, fw):
        "section only", cands == ["42-usc-1320d-2"])
     ck("...and never aliases it onto the public law's id",
        "pl-104-191" not in cands)
+
+
+def _proof_usc_range_vs_suffix_and_max_range_boundary(ck, fw):
+    """federal-reference#99/#100. `src/federal_ids.py` is the three-repo canonical file
+    (mirrored verbatim here and in oregon-audits under a parity CI gate), so this repo
+    gets the behaviour change with no edit of its own: `USC`'s optional hyphen group used
+    to match a genuine section SUFFIX (`1320d-2`) and the second number of a section
+    RANGE (`4301-4335`) identically, so `38 USC 4301-4335` (USERRA) derived the single
+    unbuildable id `38-usc-4301-4335` instead of the 35 real sections between its
+    endpoints -- `38-usc-4301` chief among them, on executive-regulatory-frameworks#400's
+    own most-cited USC table, and never derived before this fix. Upstream's rule: a
+    letter directly before the hyphen means suffix (every real suffix hazard already on
+    record here has one -- `1320d-2`, `360bbb-3`, `717b-1`, `290dd-2`); a pure-digit base
+    followed by `-NNNN` means range, expanded through the CFR branch's own existing
+    `RANGE`/`MAX_RANGE` machinery rather than a second copy of it.
+
+    Through `fw._match_schemes`, off the network, for the same reason the two proofs
+    above stay there: these candidates are federal-reference ids, reached over the
+    `siblings:` entry `_meta/corpus.yml` declares for it, and this gate must not depend on
+    that network call to stay green.
+
+    THE THREE REAL RANGE CITATIONS live in this corpus today (federal-reference#99's own
+    repro, grepped there, not retyped here from a summary)."""
+    _, _, cands, _ = fw._match_schemes("38 USC 4301-4335")
+    ck("USERRA's range (das-60-000-25.md) expands to all 35 sections, 4301 through 4335",
+       cands == [f"38-usc-{n}" for n in range(4301, 4336)])
+    ck("...with 38-usc-4301 -- ERF#400's own most-cited USC section -- now among them, "
+       "which it never was before federal-reference#99/#100",
+       "38-usc-4301" in cands)
+
+    _, _, cands, _ = fw._match_schemes("5 USC §§ 1501-1508")
+    ck("the Hatch Act's range (oya-i-d-3-11.md) expands to all 8 sections, 1501 "
+       "through 1508", cands == [f"5-usc-{n}" for n in range(1501, 1509)])
+
+    _, _, cands, _ = fw._match_schemes("3 U.S.C. §§ 101-336")
+    ck("3 U.S.C. §§ 101-336 (oha-osh-6-020.md -- really Pub. L. 101-336, the ADA, "
+       "mis-cited as a U.S.C. range, a separate pre-existing data problem out of scope "
+       "here) is too wide to expand and returns the base section only",
+       cands == ["3-usc-101"])
+
+    # THE REAL-SUFFIX HAZARD SET must keep deriving exactly as before -- a letter sits
+    # directly before every hyphen here (or there is no hyphen at all), so none of these
+    # is a range. The two silent corruptions this file's own header comment already
+    # records from a prior incident (1395ddd -> 1395dd, 360bbb-3 -> 360bb) must not
+    # reappear as a side effect of adding range support.
+    hazards = [
+        ("42 USC 1320d-2", "42-usc-1320d-2"),
+        ("21 USC 360bbb-3", "21-usc-360bbb-3"),
+        ("42 USC 1395ddd", "42-usc-1395ddd"),
+        ("15 USC 717b-1", "15-usc-717b-1"),
+        ("42 USC 290dd-2", "42-usc-290dd-2"),
+        ("20 USC 1232g", "20-usc-1232g"),
+    ]
+    for citation, expected in hazards:
+        _, _, cands, _ = fw._match_schemes(citation)
+        ck(f"{citation!r} still derives {expected!r} alone -- not a guessed range and "
+           "not a truncated suffix", cands == [expected])
+    ck("...and specifically 1395ddd never becomes the different, real section 1395dd",
+       "42-usc-1395dd" not in cands)
+
+    # MAX_RANGE BOUNDARY, pinned at its exact edge (imported from federal_ids, not
+    # hardcoded, so this proof tracks the constant if the canonical file's value ever
+    # moves) rather than trusted from a comment: a MAX_RANGE-section span expands in
+    # full, one section past it refuses and falls back to the base section alone -- the
+    # same guard that keeps 3 U.S.C. §§ 101-336's 235-section mis-citation above from
+    # becoming 236 fabricated ids.
+    lo = 1
+    _, _, cands, _ = fw._match_schemes(f"10 USC {lo}-{lo + _F_MAX_RANGE}")
+    ck(f"a {_F_MAX_RANGE}-section span (the MAX_RANGE boundary itself) expands in full",
+       cands == [f"10-usc-{n}" for n in range(lo, lo + _F_MAX_RANGE + 1)])
+    _, _, cands, _ = fw._match_schemes(f"10 USC {lo}-{lo + _F_MAX_RANGE + 1}")
+    ck(f"one section past MAX_RANGE ({_F_MAX_RANGE}) refuses to expand and returns the "
+       "base section only", cands == [f"10-usc-{lo}"])
 
 
 if __name__ == "__main__":

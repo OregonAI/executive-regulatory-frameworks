@@ -58,8 +58,52 @@ LIST_SEC = re.compile(r"(?:,|;|\band\b|&)\s*§{0,2}\s*200\.(\d{1,4})\b", re.I)
 # exists to prevent, just one letter later. Refusing to match at all is the honest
 # outcome; a shorter real section id from a citation that named a different, real
 # section is not.
+#
+# RANGE vs SUFFIX (federal-reference#99). `(?:-[0-9a-z]{1,4})?` above was one group doing
+# two jobs: it correctly captures a genuine suffix (`1320d-2`, `360bbb-3`) and it ALSO
+# matched the second number of a section RANGE (`38 USC 4301-4335`), deriving
+# `38-usc-4301-4335` -- an id no document can ever have, because no section is named
+# `4301-4335`. Fixing that needs a signal that tells the two apart, and only one of the
+# three candidates on offer turned out to be reliable:
+#
+#   - §§ (double section mark) vs § was tried first and REJECTED: `38 USC 4301-4335`
+#     (USERRA) carries no section mark at all, so requiring §§ would still swallow it.
+#   - second-number-larger-than-first is a real signal but not sufficient alone: a
+#     genuine suffix's tail number is usually smaller than the base section (`1320d-2`),
+#     so magnitude alone would misclassify wide real ranges and let narrow ones slip
+#     through by accident.
+#   - LETTER IMMEDIATELY BEFORE THE HYPHEN is the reliable one, and it is reliable
+#     because it already had to be true for every real suffix in this file's own hazard
+#     list: `1320d-2`, `360bbb-3`, `717b-1`, `290dd-2` all have a letter run (`d`, `bbb`,
+#     `b`, `dd`) directly before the hyphen. `4301-4335`, `101-336` and `1501-1508` do
+#     not -- the base is pure digits in every real range found in this corpus. No U.S.C.
+#     section suffix in the wild is hyphenated straight off a bare digit run.
+#
+# So `sec` is now two alternatives: digits-then-letters-then-optional-suffix (the suffix
+# case, unchanged in what it matches) OR digits alone. A pure-digit `sec` leaves any
+# following `-NNNNN` unconsumed, and a second, entirely optional clause picks that up as
+# a candidate range endpoint (`hi`) ONLY when it is a plain hyphen/en-dash/em-dash
+# directly followed by digits -- no `through`/`to`/`thru` wording, because no real USC
+# range in this corpus is written that way, and guessing at unevidenced wording is the
+# thing AGENTS.md's overriding rule refuses to do. A citation whose second number reads
+# lower than or equal to the first (`10 USC 50-10`) is left ambiguous on purpose: the
+# base section alone is still returned, but no range is guessed from it.
+#
+# EXPAND, don't refuse and don't stop at the first section -- following the CFR branch's
+# own precedent below (`RANGE`/`MAX_RANGE`) for the same reason it gives there: returning
+# an id is not a claim the document exists, so a range expands to every section it names
+# and a gap in numbering simply misses at the index lookup, the honest place for that
+# question to be answered. `MAX_RANGE` (shared with the CFR branch) also does the same
+# job here it does there: `3 U.S.C. §§ 101-336` spans 235 sections, which is not a real
+# range of consecutive U.S.C. sections -- it is `3 U.S.C.` mis-citing `Pub. L. 101-336`
+# (a pre-existing data problem, out of scope here) -- and MAX_RANGE keeps this function
+# from turning that mis-citation into 236 fabricated ids. The base section (`3-usc-101`)
+# is still returned even when the range is too wide to expand, exactly as the CFR branch
+# keeps its own first-matched section when a list/range entry falls outside MAX_RANGE.
 USC = re.compile(r"\b(?P<title>\d{1,2})\s*U\.?\s?S\.?\s?C\.?\s*(?:§{1,2}\s*)?"
-                 r"(?P<sec>\d{1,5}[a-z]*(?:-[0-9a-z]{1,4})?)(?![0-9A-Za-z])(?:\([^)]*\))*", re.I)
+                 r"(?P<sec>\d{1,5}[a-z]+(?:-[0-9a-z]{1,4})?|\d{1,5})"
+                 r"(?:\s*[-–—]\s*(?P<hi>\d{1,5})(?![0-9A-Za-z]))?"
+                 r"(?![0-9A-Za-z])(?:\([^)]*\))*", re.I)
 
 # `IRS Pub 1075`, `IRS Publication 1075 (Rev. 11-2021)`, `IRS Pub 1075 Revision 9/2016`
 IRSPUB = re.compile(r"\bIRS\s+Pub(?:lication)?\.?\s*(?P<num>\d{3,4})\b", re.I)
@@ -152,7 +196,22 @@ def candidates(citation: str) -> list[str]:
         # The codified section and the enacted text are different documents; this returns
         # the codified section's own id, never a `pl-` id, regardless of what this corpus
         # currently holds -- existence is the index lookup's job, not this pure function's.
-        return [f"{m.group('title')}-usc-{m.group('sec').lower()}"]
+        title, sec = m.group("title"), m.group("sec").lower()
+
+        # RANGE EXPANSION (federal-reference#99). `hi` is only ever populated when `sec`
+        # matched the pure-digit alternative above -- see USC's own comment for why a
+        # letter-suffixed `sec` never leaves a trailing `-NNNNN` for this group to find --
+        # so `int(sec)` below is always safe. `0 < hi - lo` refuses a reversed or degenerate
+        # pair (`10 USC 50-10`) rather than guess at what it means; `<= MAX_RANGE` refuses a
+        # span wide enough to be a mis-citation instead of a real range (see USC's comment on
+        # `3 U.S.C. §§ 101-336`). Either way the base section is still returned -- exactly
+        # the CFR branch's own behaviour when its own range falls outside MAX_RANGE.
+        hi = m.group("hi")
+        if hi:
+            lo_n, hi_n = int(sec), int(hi)
+            if 0 < hi_n - lo_n <= MAX_RANGE:
+                return [f"{title}-usc-{n}" for n in range(lo_n, hi_n + 1)]
+        return [f"{title}-usc-{sec}"]
 
     m = PUBLAW.search(c)
     if m:
