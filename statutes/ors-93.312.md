@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-93.312
-title: "Oregon Coordinate System EXECUTION,"
+title: "Oregon Coordinate System"
 doc_type: statute
 citation: "ORS 93.312"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-93"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors093.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Oregon Coordinate System EXECUTION, (ORS 93.312)
+# Oregon Coordinate System (ORS 93.312)
 
 ## At a glance
 
-ORS 93.312 — Oregon Coordinate System EXECUTION,. Chapter 93 (Conveyancing and Recording), 2025 Edition.
+ORS 93.312 — Oregon Coordinate System. Chapter 93 (Conveyancing and Recording), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-469b.450
-title: "Rebates for home energy efficiency retrofits; rebates for high-efficiency appliance and nonappliance upgrades INCENTIVES FOR RESIDENTIAL HEATING AND COOLING PRO"
+title: "Rebates for home energy efficiency retrofits; rebates for high-efficiency appliance and nonappliance upgrades"
 doc_type: statute
 citation: "ORS 469B.450"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-469b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Rebates for home energy efficiency retrofits; rebates for high-efficiency appliance and nonappliance upgrades INCENTIVES FOR RESIDENTIAL HEATING AND COOLING PRO (ORS 469B.450)
+# Rebates for home energy efficiency retrofits; rebates for high-efficiency appliance and nonappliance upgrades (ORS 469B.450)
 
 ## At a glance
 
-ORS 469B.450 — Rebates for home energy efficiency retrofits; rebates for high-efficiency appliance and nonappliance upgrades INCENTIVES FOR RESIDENTIAL HEATING AND COOLING PRO. Chapter 469B (Chapter 469B), 2025 Edition.
+ORS 469B.450 — Rebates for home energy efficiency retrofits; rebates for high-efficiency appliance and nonappliance upgrades. Chapter 469B (Chapter 469B), 2025 Edition.
 
 ## Full text
 

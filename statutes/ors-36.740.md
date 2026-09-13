@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-36.740
-title: "Relationship to electronic signatures in Global and National Commerce Act DISPUTE RESOLUTION (Generally)"
+title: "Relationship to electronic signatures in Global and National Commerce Act"
 doc_type: statute
 citation: "ORS 36.740"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-36"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors036.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Relationship to electronic signatures in Global and National Commerce Act DISPUTE RESOLUTION (Generally) (ORS 36.740)
+# Relationship to electronic signatures in Global and National Commerce Act (ORS 36.740)
 
 ## At a glance
 
-ORS 36.740 — Relationship to electronic signatures in Global and National Commerce Act DISPUTE RESOLUTION (Generally). Chapter 36 (Mediation and Arbitration), 2025 Edition.
+ORS 36.740 — Relationship to electronic signatures in Global and National Commerce Act. Chapter 36 (Mediation and Arbitration), 2025 Edition.
 
 ## Full text
 

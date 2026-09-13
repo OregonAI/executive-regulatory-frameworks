@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.590
-title: "Advisory committee on standards for testing potency of marijuana and marijuana items PACKAGING,"
+title: "Advisory committee on standards for testing potency of marijuana and marijuana items"
 doc_type: statute
 citation: "ORS 475C.590"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Advisory committee on standards for testing potency of marijuana and marijuana items PACKAGING, (ORS 475C.590)
+# Advisory committee on standards for testing potency of marijuana and marijuana items (ORS 475C.590)
 
 ## At a glance
 
-ORS 475C.590 — Advisory committee on standards for testing potency of marijuana and marijuana items PACKAGING,. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.590 — Advisory committee on standards for testing potency of marijuana and marijuana items. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

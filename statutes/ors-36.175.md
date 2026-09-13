@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-36.175
-title: "Rules for administration of dispute resolution programs (Dispute Resolution for Public Bodies)"
+title: "Rules for administration of dispute resolution programs"
 doc_type: statute
 citation: "ORS 36.175"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-36"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors036.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Rules for administration of dispute resolution programs (Dispute Resolution for Public Bodies) (ORS 36.175)
+# Rules for administration of dispute resolution programs (ORS 36.175)
 
 ## At a glance
 
-ORS 36.175 — Rules for administration of dispute resolution programs (Dispute Resolution for Public Bodies). Chapter 36 (Mediation and Arbitration), 2025 Edition.
+ORS 36.175 — Rules for administration of dispute resolution programs. Chapter 36 (Mediation and Arbitration), 2025 Edition.
 
 ## Full text
 

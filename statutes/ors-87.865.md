@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-87.865
-title: "Foreclosure; joinder or consolidation; costs; limitation MOLDER’S LIEN"
+title: "Foreclosure; joinder or consolidation; costs; limitation"
 doc_type: statute
 citation: "ORS 87.865"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-87"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors087.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Foreclosure; joinder or consolidation; costs; limitation MOLDER’S LIEN (ORS 87.865)
+# Foreclosure; joinder or consolidation; costs; limitation (ORS 87.865)
 
 ## At a glance
 
-ORS 87.865 — Foreclosure; joinder or consolidation; costs; limitation MOLDER’S LIEN. Chapter 87 (Statutory Liens), 2025 Edition.
+ORS 87.865 — Foreclosure; joinder or consolidation; costs; limitation. Chapter 87 (Statutory Liens), 2025 Edition.
 
 ## Full text
 

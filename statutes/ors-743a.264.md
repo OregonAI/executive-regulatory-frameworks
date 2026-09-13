@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743a.264
-title: "Disease outbreaks, epidemics and conditions of public health importance (Temporary provisions relating to coverage of applied behavior analysis are compiled as "
+title: "Disease outbreaks, epidemics and conditions of public health importance"
 doc_type: statute
 citation: "ORS 743A.264"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-743a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Disease outbreaks, epidemics and conditions of public health importance (Temporary provisions relating to coverage of applied behavior analysis are compiled as  (ORS 743A.264)
+# Disease outbreaks, epidemics and conditions of public health importance (ORS 743A.264)
 
 ## At a glance
 
-ORS 743A.264 — Disease outbreaks, epidemics and conditions of public health importance (Temporary provisions relating to coverage of applied behavior analysis are compiled as . Chapter 743A (Chapter 743A), 2025 Edition.
+ORS 743A.264 — Disease outbreaks, epidemics and conditions of public health importance. Chapter 743A (Chapter 743A), 2025 Edition.
 
 ## Full text
 

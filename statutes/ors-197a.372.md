@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-197a.372
-title: "Metro evaluation of accommodation of needed housing; corrective action; enforcement LOCAL REGULATIONS OF USES (Treatment Facilities)"
+title: "Metro evaluation of accommodation of needed housing; corrective action; enforcement"
 doc_type: statute
 citation: "ORS 197A.372"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-197a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Metro evaluation of accommodation of needed housing; corrective action; enforcement LOCAL REGULATIONS OF USES (Treatment Facilities) (ORS 197A.372)
+# Metro evaluation of accommodation of needed housing; corrective action; enforcement (ORS 197A.372)
 
 ## At a glance
 
-ORS 197A.372 — Metro evaluation of accommodation of needed housing; corrective action; enforcement LOCAL REGULATIONS OF USES (Treatment Facilities). Chapter 197A (Chapter 197A), 2025 Edition.
+ORS 197A.372 — Metro evaluation of accommodation of needed housing; corrective action; enforcement. Chapter 197A (Chapter 197A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475a.270
-title: "Duty to request land use compatibility statement (Licensees in General)"
+title: "Duty to request land use compatibility statement"
 doc_type: statute
 citation: "ORS 475A.270"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Duty to request land use compatibility statement (Licensees in General) (ORS 475A.270)
+# Duty to request land use compatibility statement (ORS 475A.270)
 
 ## At a glance
 
-ORS 475A.270 — Duty to request land use compatibility statement (Licensees in General). Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.270 — Duty to request land use compatibility statement. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 

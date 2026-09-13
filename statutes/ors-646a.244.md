@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.244
-title: "Cause of action for violation of ORS 646A.240; injunction; attorney fees; defenses (Gift Cards)"
+title: "Cause of action for violation of ORS 646A.240; injunction; attorney fees; defenses"
 doc_type: statute
 citation: "ORS 646A.244"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Cause of action for violation of ORS 646A.240; injunction; attorney fees; defenses (Gift Cards) (ORS 646A.244)
+# Cause of action for violation of ORS 646A.240; injunction; attorney fees; defenses (ORS 646A.244)
 
 ## At a glance
 
-ORS 646A.244 — Cause of action for violation of ORS 646A.240; injunction; attorney fees; defenses (Gift Cards). Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.244 — Cause of action for violation of ORS 646A.240; injunction; attorney fees; defenses. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

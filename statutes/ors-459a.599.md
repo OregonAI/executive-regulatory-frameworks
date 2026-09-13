@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-459a.599
-title: "Short title (Compost)"
+title: "Short title"
 doc_type: statute
 citation: "ORS 459A.599"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Short title (Compost) (ORS 459A.599)
+# Short title (ORS 459A.599)
 
 ## At a glance
 
-ORS 459A.599 — Short title (Compost). Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.599 — Short title. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-72.3280
-title: "Sale by auction TITLE,"
+title: "Sale by auction"
 doc_type: statute
 citation: "ORS 72.3280"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-72"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors072.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Sale by auction TITLE, (ORS 72.3280)
+# Sale by auction (ORS 72.3280)
 
 ## At a glance
 
-ORS 72.3280 — Sale by auction TITLE,. Chapter 72 (Sales), 2025 Edition.
+ORS 72.3280 — Sale by auction. Chapter 72 (Sales), 2025 Edition.
 
 ## Full text
 

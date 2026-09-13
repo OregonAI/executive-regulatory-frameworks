@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279b.130
-title: "Debarment of prospective bidders and proposers (Notice of Intent to Award)"
+title: "Debarment of prospective bidders and proposers"
 doc_type: statute
 citation: "ORS 279B.130"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-279b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279B.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Debarment of prospective bidders and proposers (Notice of Intent to Award) (ORS 279B.130)
+# Debarment of prospective bidders and proposers (ORS 279B.130)
 
 ## At a glance
 
-ORS 279B.130 — Debarment of prospective bidders and proposers (Notice of Intent to Award). Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
+ORS 279B.130 — Debarment of prospective bidders and proposers. Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
 
 ## Full text
 

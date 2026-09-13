@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279a.167
-title: "Certification program for training in pay equity provisions of state law; rules INTERGOVERNMENTAL RELATIONS (Generally)"
+title: "Certification program for training in pay equity provisions of state law; rules"
 doc_type: statute
 citation: "ORS 279A.167"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-279a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Certification program for training in pay equity provisions of state law; rules INTERGOVERNMENTAL RELATIONS (Generally) (ORS 279A.167)
+# Certification program for training in pay equity provisions of state law; rules (ORS 279A.167)
 
 ## At a glance
 
-ORS 279A.167 — Certification program for training in pay equity provisions of state law; rules INTERGOVERNMENTAL RELATIONS (Generally). Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
+ORS 279A.167 — Certification program for training in pay equity provisions of state law; rules. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
 
 ## Full text
 

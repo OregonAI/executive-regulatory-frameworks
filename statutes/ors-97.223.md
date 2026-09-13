@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-97.223
-title: "Interment or temporary storage of human remains in case of natural disaster or other emergency (Unclaimed Cremated Remains of Veteran or Veteran’s Spouse, Depen"
+title: "Interment or temporary storage of human remains in case of natural disaster or other emergency"
 doc_type: statute
 citation: "ORS 97.223"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-97"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors097.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Interment or temporary storage of human remains in case of natural disaster or other emergency (Unclaimed Cremated Remains of Veteran or Veteran’s Spouse, Depen (ORS 97.223)
+# Interment or temporary storage of human remains in case of natural disaster or other emergency (ORS 97.223)
 
 ## At a glance
 
-ORS 97.223 — Interment or temporary storage of human remains in case of natural disaster or other emergency (Unclaimed Cremated Remains of Veteran or Veteran’s Spouse, Depen. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
+ORS 97.223 — Interment or temporary storage of human remains in case of natural disaster or other emergency. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
 
 ## Full text
 

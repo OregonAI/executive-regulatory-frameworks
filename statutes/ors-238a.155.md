@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-238a.155
-title: "Retirement credit for periods of disability (Retirement)"
+title: "Retirement credit for periods of disability"
 doc_type: statute
 citation: "ORS 238A.155"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Retirement credit for periods of disability (Retirement) (ORS 238A.155)
+# Retirement credit for periods of disability (ORS 238A.155)
 
 ## At a glance
 
-ORS 238A.155 — Retirement credit for periods of disability (Retirement). Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.155 — Retirement credit for periods of disability. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 

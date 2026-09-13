@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285a.160
-title: "Report (Oregon Broadband Office)"
+title: "Report"
 doc_type: statute
 citation: "ORS 285A.160"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Report (Oregon Broadband Office) (ORS 285A.160)
+# Report (ORS 285A.160)
 
 ## At a glance
 
-ORS 285A.160 — Report (Oregon Broadband Office). Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.160 — Report. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

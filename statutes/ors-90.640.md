@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-90.640
-title: "Park damaged by natural disaster (Conversion or Closure of Facilities)"
+title: "Park damaged by natural disaster"
 doc_type: statute
 citation: "ORS 90.640"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-90"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors090.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Park damaged by natural disaster (Conversion or Closure of Facilities) (ORS 90.640)
+# Park damaged by natural disaster (ORS 90.640)
 
 ## At a glance
 
-ORS 90.640 — Park damaged by natural disaster (Conversion or Closure of Facilities). Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
+ORS 90.640 — Park damaged by natural disaster. Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-329a.340
-title: "Certain child care providers required to attend orientation; content of orientation; effect of ceasing to provide services; cost (Discipline; Investigation; Ins"
+title: "Certain child care providers required to attend orientation; content of orientation; effect of ceasing to provide services; cost"
 doc_type: statute
 citation: "ORS 329A.340"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Certain child care providers required to attend orientation; content of orientation; effect of ceasing to provide services; cost (Discipline; Investigation; Ins (ORS 329A.340)
+# Certain child care providers required to attend orientation; content of orientation; effect of ceasing to provide services; cost (ORS 329A.340)
 
 ## At a glance
 
-ORS 329A.340 — Certain child care providers required to attend orientation; content of orientation; effect of ceasing to provide services; cost (Discipline; Investigation; Ins. Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.340 — Certain child care providers required to attend orientation; content of orientation; effect of ceasing to provide services; cost. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 

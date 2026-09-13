@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.950
-title: "Adoption of ordinances; referral to electors for approval CANNABIS FOR ADULT USE (Generally)"
+title: "Adoption of ordinances; referral to electors for approval"
 doc_type: statute
 citation: "ORS 475C.950"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Adoption of ordinances; referral to electors for approval CANNABIS FOR ADULT USE (Generally) (ORS 475C.950)
+# Adoption of ordinances; referral to electors for approval (ORS 475C.950)
 
 ## At a glance
 
-ORS 475C.950 — Adoption of ordinances; referral to electors for approval CANNABIS FOR ADULT USE (Generally). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.950 — Adoption of ordinances; referral to electors for approval. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

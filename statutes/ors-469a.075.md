@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-469a.075
-title: "Electric company plan for meeting requirements; commission review; rules (Cost Limitation)"
+title: "Electric company plan for meeting requirements; commission review; rules"
 doc_type: statute
 citation: "ORS 469A.075"
 authority_level: statute
@@ -49,11 +49,11 @@ tags: ["ors", "chapter-469a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Electric company plan for meeting requirements; commission review; rules (Cost Limitation) (ORS 469A.075)
+# Electric company plan for meeting requirements; commission review; rules (ORS 469A.075)
 
 ## At a glance
 
-ORS 469A.075 — Electric company plan for meeting requirements; commission review; rules (Cost Limitation). Chapter 469A (Chapter 469A), 2025 Edition.
+ORS 469A.075 — Electric company plan for meeting requirements; commission review; rules. Chapter 469A (Chapter 469A), 2025 Edition.
 
 ## Full text
 

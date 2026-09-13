@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468b.144
-title: "Moneys received under ORS 468B.142; disposition (Ground Water)"
+title: "Moneys received under ORS 468B.142; disposition"
 doc_type: statute
 citation: "ORS 468B.144"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Moneys received under ORS 468B.142; disposition (Ground Water) (ORS 468B.144)
+# Moneys received under ORS 468B.142; disposition (ORS 468B.144)
 
 ## At a glance
 
-ORS 468B.144 — Moneys received under ORS 468B.142; disposition (Ground Water). Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.144 — Moneys received under ORS 468B.142; disposition. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 

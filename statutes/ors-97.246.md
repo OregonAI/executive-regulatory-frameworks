@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-97.246
-title: "Veterans’ remains coordinator and county veterans’ service officer to carry out duties per Department of Veterans’ Affairs rules DEDICATION TO CEMETERY PURPOSES"
+title: "Veterans’ remains coordinator and county veterans’ service officer to carry out duties per Department of Veterans’ Affairs rules"
 doc_type: statute
 citation: "ORS 97.246"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-97"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors097.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Veterans’ remains coordinator and county veterans’ service officer to carry out duties per Department of Veterans’ Affairs rules DEDICATION TO CEMETERY PURPOSES (ORS 97.246)
+# Veterans’ remains coordinator and county veterans’ service officer to carry out duties per Department of Veterans’ Affairs rules (ORS 97.246)
 
 ## At a glance
 
-ORS 97.246 — Veterans’ remains coordinator and county veterans’ service officer to carry out duties per Department of Veterans’ Affairs rules DEDICATION TO CEMETERY PURPOSES. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
+ORS 97.246 — Veterans’ remains coordinator and county veterans’ service officer to carry out duties per Department of Veterans’ Affairs rules. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
 
 ## Full text
 

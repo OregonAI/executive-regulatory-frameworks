@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-60.770
-title: "Assessment of public benefit RECORDS AND REPORTS (Records)"
+title: "Assessment of public benefit"
 doc_type: statute
 citation: "ORS 60.770"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-60"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors060.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Assessment of public benefit RECORDS AND REPORTS (Records) (ORS 60.770)
+# Assessment of public benefit (ORS 60.770)
 
 ## At a glance
 
-ORS 60.770 — Assessment of public benefit RECORDS AND REPORTS (Records). Chapter 60 (Private Corporations), 2025 Edition.
+ORS 60.770 — Assessment of public benefit. Chapter 60 (Private Corporations), 2025 Edition.
 
 ## Full text
 

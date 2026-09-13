@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285b.290
-title: "Industry Competitiveness Fund; uses (Temporary provisions relating to outdoor gear and apparel industry grants are compiled as notes following ORS 285B.290) STA"
+title: "Industry Competitiveness Fund; uses"
 doc_type: statute
 citation: "ORS 285B.290"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Industry Competitiveness Fund; uses (Temporary provisions relating to outdoor gear and apparel industry grants are compiled as notes following ORS 285B.290) STA (ORS 285B.290)
+# Industry Competitiveness Fund; uses (ORS 285B.290)
 
 ## At a glance
 
-ORS 285B.290 — Industry Competitiveness Fund; uses (Temporary provisions relating to outdoor gear and apparel industry grants are compiled as notes following ORS 285B.290) STA. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.290 — Industry Competitiveness Fund; uses. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-90.671
-title: "Closure of marina; notices; payments to tenants; rules (Ownership Change)"
+title: "Closure of marina; notices; payments to tenants; rules"
 doc_type: statute
 citation: "ORS 90.671"
 authority_level: statute
@@ -49,11 +49,11 @@ tags: ["ors", "chapter-90"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors090.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Closure of marina; notices; payments to tenants; rules (Ownership Change) (ORS 90.671)
+# Closure of marina; notices; payments to tenants; rules (ORS 90.671)
 
 ## At a glance
 
-ORS 90.671 — Closure of marina; notices; payments to tenants; rules (Ownership Change). Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
+ORS 90.671 — Closure of marina; notices; payments to tenants; rules. Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
 
 ## Full text
 

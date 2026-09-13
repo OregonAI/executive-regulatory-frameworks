@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-708a.660
-title: "Savings promotion raffles; rules (Financial Exploitation of Vulnerable Persons)"
+title: "Savings promotion raffles; rules"
 doc_type: statute
 citation: "ORS 708A.660"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-708a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Savings promotion raffles; rules (Financial Exploitation of Vulnerable Persons) (ORS 708A.660)
+# Savings promotion raffles; rules (ORS 708A.660)
 
 ## At a glance
 
-ORS 708A.660 — Savings promotion raffles; rules (Financial Exploitation of Vulnerable Persons). Chapter 708A (Chapter 708A), 2025 Edition.
+ORS 708A.660 — Savings promotion raffles; rules. Chapter 708A (Chapter 708A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285b.133
-title: "Small Business Expansion Loan Fund; purposes; sources of moneys; special transfers to and from fund (Small Business Development Centers)"
+title: "Small Business Expansion Loan Fund; purposes; sources of moneys; special transfers to and from fund"
 doc_type: statute
 citation: "ORS 285B.133"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Small Business Expansion Loan Fund; purposes; sources of moneys; special transfers to and from fund (Small Business Development Centers) (ORS 285B.133)
+# Small Business Expansion Loan Fund; purposes; sources of moneys; special transfers to and from fund (ORS 285B.133)
 
 ## At a glance
 
-ORS 285B.133 — Small Business Expansion Loan Fund; purposes; sources of moneys; special transfers to and from fund (Small Business Development Centers). Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.133 — Small Business Expansion Loan Fund; purposes; sources of moneys; special transfers to and from fund. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

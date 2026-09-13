@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-459a.630
-title: "Motor vehicle mercury light switches (Plastics)"
+title: "Motor vehicle mercury light switches"
 doc_type: statute
 citation: "ORS 459A.630"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Motor vehicle mercury light switches (Plastics) (ORS 459A.630)
+# Motor vehicle mercury light switches (ORS 459A.630)
 
 ## At a glance
 
-ORS 459A.630 — Motor vehicle mercury light switches (Plastics). Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.630 — Motor vehicle mercury light switches. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 

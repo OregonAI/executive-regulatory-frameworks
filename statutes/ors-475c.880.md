@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.880
-title: "Rights of secured parties (Protections From Civil and Criminal Liability)"
+title: "Rights of secured parties"
 doc_type: statute
 citation: "ORS 475C.880"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Rights of secured parties (Protections From Civil and Criminal Liability) (ORS 475C.880)
+# Rights of secured parties (ORS 475C.880)
 
 ## At a glance
 
-ORS 475C.880 — Rights of secured parties (Protections From Civil and Criminal Liability). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.880 — Rights of secured parties. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

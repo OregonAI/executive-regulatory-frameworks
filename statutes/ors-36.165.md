@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-36.165
-title: "Termination of county participation (Program Standards)"
+title: "Termination of county participation"
 doc_type: statute
 citation: "ORS 36.165"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-36"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors036.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Termination of county participation (Program Standards) (ORS 36.165)
+# Termination of county participation (ORS 36.165)
 
 ## At a glance
 
-ORS 36.165 — Termination of county participation (Program Standards). Chapter 36 (Mediation and Arbitration), 2025 Edition.
+ORS 36.165 — Termination of county participation. Chapter 36 (Mediation and Arbitration), 2025 Edition.
 
 ## Full text
 

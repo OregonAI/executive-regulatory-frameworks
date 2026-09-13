@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-3.440
-title: "Family Law Account (Child Support Referees)"
+title: "Family Law Account"
 doc_type: statute
 citation: "ORS 3.440"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-3"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors003.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Family Law Account (Child Support Referees) (ORS 3.440)
+# Family Law Account (ORS 3.440)
 
 ## At a glance
 
-ORS 3.440 — Family Law Account (Child Support Referees). Chapter 3 (Circuit Courts Generally), 2025 Edition.
+ORS 3.440 — Family Law Account. Chapter 3 (Circuit Courts Generally), 2025 Edition.
 
 ## Full text
 

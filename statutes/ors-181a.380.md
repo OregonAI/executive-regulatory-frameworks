@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-181a.380
-title: "Leave to perform duties of board or policy committee (Director)"
+title: "Leave to perform duties of board or policy committee"
 doc_type: statute
 citation: "ORS 181A.380"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Leave to perform duties of board or policy committee (Director) (ORS 181A.380)
+# Leave to perform duties of board or policy committee (ORS 181A.380)
 
 ## At a glance
 
-ORS 181A.380 — Leave to perform duties of board or policy committee (Director). Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.380 — Leave to perform duties of board or policy committee. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

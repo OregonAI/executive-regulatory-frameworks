@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-238a.360
-title: "Rollover contributions; rules (Limitation on Contributions)"
+title: "Rollover contributions; rules"
 doc_type: statute
 citation: "ORS 238A.360"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Rollover contributions; rules (Limitation on Contributions) (ORS 238A.360)
+# Rollover contributions; rules (ORS 238A.360)
 
 ## At a glance
 
-ORS 238A.360 — Rollover contributions; rules (Limitation on Contributions). Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.360 — Rollover contributions; rules. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 

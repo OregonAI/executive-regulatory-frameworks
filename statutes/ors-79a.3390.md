@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-79a.3390
-title: "UCC 9-339. Priority subject to subordination (Rights of Bank)"
+title: "UCC 9-339. Priority subject to subordination"
 doc_type: statute
 citation: "ORS 79A.3390"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-79a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors079a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# UCC 9-339. Priority subject to subordination (Rights of Bank) (ORS 79A.3390)
+# UCC 9-339. Priority subject to subordination (ORS 79A.3390)
 
 ## At a glance
 
-ORS 79A.3390 — UCC 9-339. Priority subject to subordination (Rights of Bank). Chapter 79A (Secured Transactions), 2025 Edition.
+ORS 79A.3390 — UCC 9-339. Priority subject to subordination. Chapter 79A (Secured Transactions), 2025 Edition.
 
 ## Full text
 

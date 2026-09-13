@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-469a.100
-title: "Limits on cost of compliance with renewable portfolio standard (Cost Recovery)"
+title: "Limits on cost of compliance with renewable portfolio standard"
 doc_type: statute
 citation: "ORS 469A.100"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-469a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Limits on cost of compliance with renewable portfolio standard (Cost Recovery) (ORS 469A.100)
+# Limits on cost of compliance with renewable portfolio standard (ORS 469A.100)
 
 ## At a glance
 
-ORS 469A.100 — Limits on cost of compliance with renewable portfolio standard (Cost Recovery). Chapter 469A (Chapter 469A), 2025 Edition.
+ORS 469A.100 — Limits on cost of compliance with renewable portfolio standard. Chapter 469A (Chapter 469A), 2025 Edition.
 
 ## Full text
 

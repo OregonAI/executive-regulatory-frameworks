@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-287a.380
-title: "Tax levy to pay maturing general obligation advance refunding bonds WARRANTS AND CHECKS; INTEREST; UNCLAIMED WARRANTS AND CHECKS;"
+title: "Tax levy to pay maturing general obligation advance refunding bonds"
 doc_type: statute
 citation: "ORS 287A.380"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-287a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors287A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Tax levy to pay maturing general obligation advance refunding bonds WARRANTS AND CHECKS; INTEREST; UNCLAIMED WARRANTS AND CHECKS; (ORS 287A.380)
+# Tax levy to pay maturing general obligation advance refunding bonds (ORS 287A.380)
 
 ## At a glance
 
-ORS 287A.380 — Tax levy to pay maturing general obligation advance refunding bonds WARRANTS AND CHECKS; INTEREST; UNCLAIMED WARRANTS AND CHECKS;. Chapter 287A (Chapter 287A), 2025 Edition.
+ORS 287A.380 — Tax levy to pay maturing general obligation advance refunding bonds. Chapter 287A (Chapter 287A), 2025 Edition.
 
 ## Full text
 

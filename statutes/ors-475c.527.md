@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.527
-title: "Map of locations of licensed industrial hemp operations, premises licensed for marijuana production (Biennial Report on Supply and Demand)"
+title: "Map of locations of licensed industrial hemp operations, premises licensed for marijuana production"
 doc_type: statute
 citation: "ORS 475C.527"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Map of locations of licensed industrial hemp operations, premises licensed for marijuana production (Biennial Report on Supply and Demand) (ORS 475C.527)
+# Map of locations of licensed industrial hemp operations, premises licensed for marijuana production (ORS 475C.527)
 
 ## At a glance
 
-ORS 475C.527 — Map of locations of licensed industrial hemp operations, premises licensed for marijuana production (Biennial Report on Supply and Demand). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.527 — Map of locations of licensed industrial hemp operations, premises licensed for marijuana production. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

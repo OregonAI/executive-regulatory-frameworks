@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.537
-title: "Condition concerning use of diesel engines in motor vehicles used in performing certain public improvement contracts; rules (Hours of Labor)"
+title: "Condition concerning use of diesel engines in motor vehicles used in performing certain public improvement contracts; rules"
 doc_type: statute
 citation: "ORS 279C.537"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Condition concerning use of diesel engines in motor vehicles used in performing certain public improvement contracts; rules (Hours of Labor) (ORS 279C.537)
+# Condition concerning use of diesel engines in motor vehicles used in performing certain public improvement contracts; rules (ORS 279C.537)
 
 ## At a glance
 
-ORS 279C.537 — Condition concerning use of diesel engines in motor vehicles used in performing certain public improvement contracts; rules (Hours of Labor). Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.537 — Condition concerning use of diesel engines in motor vehicles used in performing certain public improvement contracts; rules. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

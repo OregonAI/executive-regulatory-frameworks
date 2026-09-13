@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-86.722
-title: "Correction of error concerning status or effect of trust deed; rights of bona fide purchaser (Foreclosures)"
+title: "Correction of error concerning status or effect of trust deed; rights of bona fide purchaser"
 doc_type: statute
 citation: "ORS 86.722"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-86"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors086.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Correction of error concerning status or effect of trust deed; rights of bona fide purchaser (Foreclosures) (ORS 86.722)
+# Correction of error concerning status or effect of trust deed; rights of bona fide purchaser (ORS 86.722)
 
 ## At a glance
 
-ORS 86.722 — Correction of error concerning status or effect of trust deed; rights of bona fide purchaser (Foreclosures). Chapter 86 (Mortgages; Trust Deeds), 2025 Edition.
+ORS 86.722 — Correction of error concerning status or effect of trust deed; rights of bona fide purchaser. Chapter 86 (Mortgages; Trust Deeds), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-8.105
-title: "Submission of proposed change to legislative committee STATE COURT ADMINISTRATOR;"
+title: "Submission of proposed change to legislative committee"
 doc_type: statute
 citation: "ORS 8.105"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-8"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors008.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Submission of proposed change to legislative committee STATE COURT ADMINISTRATOR; (ORS 8.105)
+# Submission of proposed change to legislative committee (ORS 8.105)
 
 ## At a glance
 
-ORS 8.105 — Submission of proposed change to legislative committee STATE COURT ADMINISTRATOR;. Chapter 8 (Court Officers and District Attorneys), 2025 Edition.
+ORS 8.105 — Submission of proposed change to legislative committee. Chapter 8 (Court Officers and District Attorneys), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.153
-title: "Oregon Health Authority rule requirement (Powers and Duties of Oregon Liquor and Cannabis Commission with Respect to Licensees)"
+title: "Oregon Health Authority rule requirement"
 doc_type: statute
 citation: "ORS 475C.153"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Health Authority rule requirement (Powers and Duties of Oregon Liquor and Cannabis Commission with Respect to Licensees) (ORS 475C.153)
+# Oregon Health Authority rule requirement (ORS 475C.153)
 
 ## At a glance
 
-ORS 475C.153 — Oregon Health Authority rule requirement (Powers and Duties of Oregon Liquor and Cannabis Commission with Respect to Licensees). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.153 — Oregon Health Authority rule requirement. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-329a.330
-title: "Registration requirements; fee; waiver; renewal; conditions on registration; rules; work sheet (Orientation)"
+title: "Registration requirements; fee; waiver; renewal; conditions on registration; rules; work sheet"
 doc_type: statute
 citation: "ORS 329A.330"
 authority_level: statute
@@ -97,11 +97,11 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Registration requirements; fee; waiver; renewal; conditions on registration; rules; work sheet (Orientation) (ORS 329A.330)
+# Registration requirements; fee; waiver; renewal; conditions on registration; rules; work sheet (ORS 329A.330)
 
 ## At a glance
 
-ORS 329A.330 — Registration requirements; fee; waiver; renewal; conditions on registration; rules; work sheet (Orientation). Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.330 — Registration requirements; fee; waiver; renewal; conditions on registration; rules; work sheet. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 

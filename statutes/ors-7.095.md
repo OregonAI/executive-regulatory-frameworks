@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-7.095
-title: "Electronic data processing for court records; standards for preservation and security CUSTODY AND EXAMINATION OF RECORDS AND FILES, AND THEIR DISPOSITION,"
+title: "Electronic data processing for court records; standards for preservation and security"
 doc_type: statute
 citation: "ORS 7.095"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-7"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors007.html> (retrieved 2026-08-01, 2025 Edition).
 
-# Electronic data processing for court records; standards for preservation and security CUSTODY AND EXAMINATION OF RECORDS AND FILES, AND THEIR DISPOSITION, (ORS 7.095)
+# Electronic data processing for court records; standards for preservation and security (ORS 7.095)
 
 ## At a glance
 
-ORS 7.095 — Electronic data processing for court records; standards for preservation and security CUSTODY AND EXAMINATION OF RECORDS AND FILES, AND THEIR DISPOSITION,. Chapter 7 (Records and Files of Courts), 2025 Edition.
+ORS 7.095 — Electronic data processing for court records; standards for preservation and security. Chapter 7 (Records and Files of Courts), 2025 Edition.
 
 ## Full text
 

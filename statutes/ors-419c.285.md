@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419c.285
-title: "Parties to delinquency proceeding; rights of limited participation; interpreters SUMMONS"
+title: "Parties to delinquency proceeding; rights of limited participation; interpreters"
 doc_type: statute
 citation: "ORS 419C.285"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Parties to delinquency proceeding; rights of limited participation; interpreters SUMMONS (ORS 419C.285)
+# Parties to delinquency proceeding; rights of limited participation; interpreters (ORS 419C.285)
 
 ## At a glance
 
-ORS 419C.285 — Parties to delinquency proceeding; rights of limited participation; interpreters SUMMONS. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.285 — Parties to delinquency proceeding; rights of limited participation; interpreters. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 

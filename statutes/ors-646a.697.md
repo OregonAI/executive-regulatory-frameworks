@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.697
-title: "Study of market for generic drugs; effect of pricing on insurance premiums; report to Legislative Assembly MORTGAGE RESCUE FRAUD PREVENTION ACT (Foreclosure Con"
+title: "Study of market for generic drugs; effect of pricing on insurance premiums; report to Legislative Assembly"
 doc_type: statute
 citation: "ORS 646A.697"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Study of market for generic drugs; effect of pricing on insurance premiums; report to Legislative Assembly MORTGAGE RESCUE FRAUD PREVENTION ACT (Foreclosure Con (ORS 646A.697)
+# Study of market for generic drugs; effect of pricing on insurance premiums; report to Legislative Assembly (ORS 646A.697)
 
 ## At a glance
 
-ORS 646A.697 — Study of market for generic drugs; effect of pricing on insurance premiums; report to Legislative Assembly MORTGAGE RESCUE FRAUD PREVENTION ACT (Foreclosure Con. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.697 — Study of market for generic drugs; effect of pricing on insurance premiums; report to Legislative Assembly. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

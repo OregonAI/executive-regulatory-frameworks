@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.029
-title: "Authority to limit quantity of marijuana items transferred to individual (Application Process and Licenses)"
+title: "Authority to limit quantity of marijuana items transferred to individual"
 doc_type: statute
 citation: "ORS 475C.029"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority to limit quantity of marijuana items transferred to individual (Application Process and Licenses) (ORS 475C.029)
+# Authority to limit quantity of marijuana items transferred to individual (ORS 475C.029)
 
 ## At a glance
 
-ORS 475C.029 — Authority to limit quantity of marijuana items transferred to individual (Application Process and Licenses). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.029 — Authority to limit quantity of marijuana items transferred to individual. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

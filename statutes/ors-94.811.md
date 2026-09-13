@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-94.811
-title: "When owners of planned community, condominium or subdivision may prohibit timeshare plan (Creation of Timeshare Estates)"
+title: "When owners of planned community, condominium or subdivision may prohibit timeshare plan"
 doc_type: statute
 citation: "ORS 94.811"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-94"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors094.html> (retrieved 2026-07-26, 2025 Edition).
 
-# When owners of planned community, condominium or subdivision may prohibit timeshare plan (Creation of Timeshare Estates) (ORS 94.811)
+# When owners of planned community, condominium or subdivision may prohibit timeshare plan (ORS 94.811)
 
 ## At a glance
 
-ORS 94.811 — When owners of planned community, condominium or subdivision may prohibit timeshare plan (Creation of Timeshare Estates). Chapter 94 (Real Property Development), 2025 Edition.
+ORS 94.811 — When owners of planned community, condominium or subdivision may prohibit timeshare plan. Chapter 94 (Real Property Development), 2025 Edition.
 
 ## Full text
 

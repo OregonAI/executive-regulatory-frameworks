@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-72.5150
-title: "Preserving evidence of goods in dispute BREACH,"
+title: "Preserving evidence of goods in dispute"
 doc_type: statute
 citation: "ORS 72.5150"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-72"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors072.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Preserving evidence of goods in dispute BREACH, (ORS 72.5150)
+# Preserving evidence of goods in dispute (ORS 72.5150)
 
 ## At a glance
 
-ORS 72.5150 — Preserving evidence of goods in dispute BREACH,. Chapter 72 (Sales), 2025 Edition.
+ORS 72.5150 — Preserving evidence of goods in dispute. Chapter 72 (Sales), 2025 Edition.
 
 ## Full text
 

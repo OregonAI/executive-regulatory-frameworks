@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-40.090
-title: "Rule 202. Law that is judicially noticed BURDEN OF PERSUASION; BURDEN OF PRODUCING EVIDENCE;"
+title: "Rule 202. Law that is judicially noticed"
 doc_type: statute
 citation: "ORS 40.090"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-40"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors040.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Rule 202. Law that is judicially noticed BURDEN OF PERSUASION; BURDEN OF PRODUCING EVIDENCE; (ORS 40.090)
+# Rule 202. Law that is judicially noticed (ORS 40.090)
 
 ## At a glance
 
-ORS 40.090 — Rule 202. Law that is judicially noticed BURDEN OF PERSUASION; BURDEN OF PRODUCING EVIDENCE;. Chapter 40 (Evidence Code), 2025 Edition.
+ORS 40.090 — Rule 202. Law that is judicially noticed. Chapter 40 (Evidence Code), 2025 Edition.
 
 ## Full text
 

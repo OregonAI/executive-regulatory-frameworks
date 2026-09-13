@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285a.020
-title: "Legislative findings; purpose; declaration of economic strategy; principles for investment of resources; priorities for funding and assistance ADMINISTRATION (C"
+title: "Legislative findings; purpose; declaration of economic strategy; principles for investment of resources; priorities for funding and assistance"
 doc_type: statute
 citation: "ORS 285A.020"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Legislative findings; purpose; declaration of economic strategy; principles for investment of resources; priorities for funding and assistance ADMINISTRATION (C (ORS 285A.020)
+# Legislative findings; purpose; declaration of economic strategy; principles for investment of resources; priorities for funding and assistance (ORS 285A.020)
 
 ## At a glance
 
-ORS 285A.020 — Legislative findings; purpose; declaration of economic strategy; principles for investment of resources; priorities for funding and assistance ADMINISTRATION (C. Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.020 — Legislative findings; purpose; declaration of economic strategy; principles for investment of resources; priorities for funding and assistance. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

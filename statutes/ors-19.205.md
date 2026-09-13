@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-19.205
-title: "Appealable judgments and orders (Class Actions)"
+title: "Appealable judgments and orders"
 doc_type: statute
 citation: "ORS 19.205"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-19"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors019.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Appealable judgments and orders (Class Actions) (ORS 19.205)
+# Appealable judgments and orders (ORS 19.205)
 
 ## At a glance
 
-ORS 19.205 — Appealable judgments and orders (Class Actions). Chapter 19 (Appeals), 2025 Edition.
+ORS 19.205 — Appealable judgments and orders. Chapter 19 (Appeals), 2025 Edition.
 
 ## Full text
 

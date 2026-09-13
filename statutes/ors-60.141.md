@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-60.141
-title: "Fractional shares (Issuance of Shares)"
+title: "Fractional shares"
 doc_type: statute
 citation: "ORS 60.141"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-60"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors060.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Fractional shares (Issuance of Shares) (ORS 60.141)
+# Fractional shares (ORS 60.141)
 
 ## At a glance
 
-ORS 60.141 — Fractional shares (Issuance of Shares). Chapter 60 (Private Corporations), 2025 Edition.
+ORS 60.141 — Fractional shares. Chapter 60 (Private Corporations), 2025 Edition.
 
 ## Full text
 

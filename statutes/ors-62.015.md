@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-62.015
-title: "Definitions (Filing Documents)"
+title: "Definitions"
 doc_type: statute
 citation: "ORS 62.015"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-62"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors062.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Definitions (Filing Documents) (ORS 62.015)
+# Definitions (ORS 62.015)
 
 ## At a glance
 
-ORS 62.015 — Definitions (Filing Documents). Chapter 62 (Cooperatives), 2025 Edition.
+ORS 62.015 — Definitions. Chapter 62 (Cooperatives), 2025 Edition.
 
 ## Full text
 

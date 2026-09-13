@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.300
-title: "Disclosure of differences in replacement health insurance policies; nonduplication for persons 65 and older; rules (Rescission)"
+title: "Disclosure of differences in replacement health insurance policies; nonduplication for persons 65 and older; rules"
 doc_type: statute
 citation: "ORS 743B.300"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Disclosure of differences in replacement health insurance policies; nonduplication for persons 65 and older; rules (Rescission) (ORS 743B.300)
+# Disclosure of differences in replacement health insurance policies; nonduplication for persons 65 and older; rules (ORS 743B.300)
 
 ## At a glance
 
-ORS 743B.300 — Disclosure of differences in replacement health insurance policies; nonduplication for persons 65 and older; rules (Rescission). Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.300 — Disclosure of differences in replacement health insurance policies; nonduplication for persons 65 and older; rules. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

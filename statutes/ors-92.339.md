@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-92.339
-title: "Use of fees (Filing Requirements)"
+title: "Use of fees"
 doc_type: statute
 citation: "ORS 92.339"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-92"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors092.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Use of fees (Filing Requirements) (ORS 92.339)
+# Use of fees (ORS 92.339)
 
 ## At a glance
 
-ORS 92.339 — Use of fees (Filing Requirements). Chapter 92 (Subdivisions and Partitions), 2025 Edition.
+ORS 92.339 — Use of fees. Chapter 92 (Subdivisions and Partitions), 2025 Edition.
 
 ## Full text
 

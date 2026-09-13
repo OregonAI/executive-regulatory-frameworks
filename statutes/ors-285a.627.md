@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285a.627
-title: "Authority as coordinating entity for port activities; approval required for creation of new ports (Planning and Marketing)"
+title: "Authority as coordinating entity for port activities; approval required for creation of new ports"
 doc_type: statute
 citation: "ORS 285A.627"
 authority_level: statute
@@ -48,11 +48,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority as coordinating entity for port activities; approval required for creation of new ports (Planning and Marketing) (ORS 285A.627)
+# Authority as coordinating entity for port activities; approval required for creation of new ports (ORS 285A.627)
 
 ## At a glance
 
-ORS 285A.627 — Authority as coordinating entity for port activities; approval required for creation of new ports (Planning and Marketing). Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.627 — Authority as coordinating entity for port activities; approval required for creation of new ports. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

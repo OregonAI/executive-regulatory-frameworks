@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-19.312
-title: "Supersedeas undertaking in certain actions against tobacco product manufacturer (Letter of Credit in Support of Undertaking)"
+title: "Supersedeas undertaking in certain actions against tobacco product manufacturer"
 doc_type: statute
 citation: "ORS 19.312"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-19"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors019.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Supersedeas undertaking in certain actions against tobacco product manufacturer (Letter of Credit in Support of Undertaking) (ORS 19.312)
+# Supersedeas undertaking in certain actions against tobacco product manufacturer (ORS 19.312)
 
 ## At a glance
 
-ORS 19.312 — Supersedeas undertaking in certain actions against tobacco product manufacturer (Letter of Credit in Support of Undertaking). Chapter 19 (Appeals), 2025 Edition.
+ORS 19.312 — Supersedeas undertaking in certain actions against tobacco product manufacturer. Chapter 19 (Appeals), 2025 Edition.
 
 ## Full text
 

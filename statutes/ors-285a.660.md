@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285a.660
-title: "Funding priorities; port strategic business plans; rules (Oregon Port Revolving Fund)"
+title: "Funding priorities; port strategic business plans; rules"
 doc_type: statute
 citation: "ORS 285A.660"
 authority_level: statute
@@ -50,11 +50,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Funding priorities; port strategic business plans; rules (Oregon Port Revolving Fund) (ORS 285A.660)
+# Funding priorities; port strategic business plans; rules (ORS 285A.660)
 
 ## At a glance
 
-ORS 285A.660 — Funding priorities; port strategic business plans; rules (Oregon Port Revolving Fund). Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.660 — Funding priorities; port strategic business plans; rules. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

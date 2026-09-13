@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-459a.550
-title: "Report on use of new and recycled glass; minimum percentage of recycled glass required (Used Oil Recycling)"
+title: "Report on use of new and recycled glass; minimum percentage of recycled glass required"
 doc_type: statute
 citation: "ORS 459A.550"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Report on use of new and recycled glass; minimum percentage of recycled glass required (Used Oil Recycling) (ORS 459A.550)
+# Report on use of new and recycled glass; minimum percentage of recycled glass required (ORS 459A.550)
 
 ## At a glance
 
-ORS 459A.550 — Report on use of new and recycled glass; minimum percentage of recycled glass required (Used Oil Recycling). Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.550 — Report on use of new and recycled glass; minimum percentage of recycled glass required. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 

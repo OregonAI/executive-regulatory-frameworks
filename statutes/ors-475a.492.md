@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475a.492
-title: "Psilocybin Control and Regulation Fund (Prohibited Conduct)"
+title: "Psilocybin Control and Regulation Fund"
 doc_type: statute
 citation: "ORS 475A.492"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Psilocybin Control and Regulation Fund (Prohibited Conduct) (ORS 475A.492)
+# Psilocybin Control and Regulation Fund (ORS 475A.492)
 
 ## At a glance
 
-ORS 475A.492 — Psilocybin Control and Regulation Fund (Prohibited Conduct). Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.492 — Psilocybin Control and Regulation Fund. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-3.432
-title: "Judicial education program on establishment and management of family court departments (Coordination of Services to Families in Family Law Cases)"
+title: "Judicial education program on establishment and management of family court departments"
 doc_type: statute
 citation: "ORS 3.432"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-3"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors003.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Judicial education program on establishment and management of family court departments (Coordination of Services to Families in Family Law Cases) (ORS 3.432)
+# Judicial education program on establishment and management of family court departments (ORS 3.432)
 
 ## At a glance
 
-ORS 3.432 — Judicial education program on establishment and management of family court departments (Coordination of Services to Families in Family Law Cases). Chapter 3 (Circuit Courts Generally), 2025 Edition.
+ORS 3.432 — Judicial education program on establishment and management of family court departments. Chapter 3 (Circuit Courts Generally), 2025 Edition.
 
 ## Full text
 

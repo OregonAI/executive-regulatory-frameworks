@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279b.145
-title: "Finality of determinations SPECIFICATIONS (General Provisions)"
+title: "Finality of determinations"
 doc_type: statute
 citation: "ORS 279B.145"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-279b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279B.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Finality of determinations SPECIFICATIONS (General Provisions) (ORS 279B.145)
+# Finality of determinations (ORS 279B.145)
 
 ## At a glance
 
-ORS 279B.145 — Finality of determinations SPECIFICATIONS (General Provisions). Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
+ORS 279B.145 — Finality of determinations. Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
 
 ## Full text
 

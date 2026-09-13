@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-181a.665
-title: "Police Standards and Training Account (Employment Information)"
+title: "Police Standards and Training Account"
 doc_type: statute
 citation: "ORS 181A.665"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Police Standards and Training Account (Employment Information) (ORS 181A.665)
+# Police Standards and Training Account (ORS 181A.665)
 
 ## At a glance
 
-ORS 181A.665 — Police Standards and Training Account (Employment Information). Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.665 — Police Standards and Training Account. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

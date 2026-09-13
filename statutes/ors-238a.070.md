@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-238a.070
-title: "Participation generally PENSION PROGRAM (Membership)"
+title: "Participation generally"
 doc_type: statute
 citation: "ORS 238A.070"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Participation generally PENSION PROGRAM (Membership) (ORS 238A.070)
+# Participation generally (ORS 238A.070)
 
 ## At a glance
 
-ORS 238A.070 — Participation generally PENSION PROGRAM (Membership). Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.070 — Participation generally. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 

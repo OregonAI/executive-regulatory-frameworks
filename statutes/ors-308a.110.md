@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-308a.110
-title: "Real property improvements and machinery not subject to farm use special assessment (Disqualification)"
+title: "Real property improvements and machinery not subject to farm use special assessment"
 doc_type: statute
 citation: "ORS 308A.110"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-308a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors308A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Real property improvements and machinery not subject to farm use special assessment (Disqualification) (ORS 308A.110)
+# Real property improvements and machinery not subject to farm use special assessment (ORS 308A.110)
 
 ## At a glance
 
-ORS 308A.110 — Real property improvements and machinery not subject to farm use special assessment (Disqualification). Chapter 308A (Chapter 308A), 2025 Edition.
+ORS 308A.110 — Real property improvements and machinery not subject to farm use special assessment. Chapter 308A (Chapter 308A), 2025 Edition.
 
 ## Full text
 

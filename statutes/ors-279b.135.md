@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279b.135
-title: "Notice of intent to award (Price Agreements)"
+title: "Notice of intent to award"
 doc_type: statute
 citation: "ORS 279B.135"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-279b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279B.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Notice of intent to award (Price Agreements) (ORS 279B.135)
+# Notice of intent to award (ORS 279B.135)
 
 ## At a glance
 
-ORS 279B.135 — Notice of intent to award (Price Agreements). Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
+ORS 279B.135 — Notice of intent to award. Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
 
 ## Full text
 

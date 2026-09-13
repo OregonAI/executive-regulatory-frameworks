@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-94.623
-title: "Acquisition of special declarant rights by successor declarant; exceptions (Homeowners Association; Management of Planned Community)"
+title: "Acquisition of special declarant rights by successor declarant; exceptions"
 doc_type: statute
 citation: "ORS 94.623"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-94"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors094.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Acquisition of special declarant rights by successor declarant; exceptions (Homeowners Association; Management of Planned Community) (ORS 94.623)
+# Acquisition of special declarant rights by successor declarant; exceptions (ORS 94.623)
 
 ## At a glance
 
-ORS 94.623 — Acquisition of special declarant rights by successor declarant; exceptions (Homeowners Association; Management of Planned Community). Chapter 94 (Real Property Development), 2025 Edition.
+ORS 94.623 — Acquisition of special declarant rights by successor declarant; exceptions. Chapter 94 (Real Property Development), 2025 Edition.
 
 ## Full text
 

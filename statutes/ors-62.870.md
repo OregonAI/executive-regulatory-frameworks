@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-62.870
-title: "Notice to members of agricultural cooperative; date; contents; effect of failure to send notice PENALTY"
+title: "Notice to members of agricultural cooperative; date; contents; effect of failure to send notice"
 doc_type: statute
 citation: "ORS 62.870"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-62"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors062.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Notice to members of agricultural cooperative; date; contents; effect of failure to send notice PENALTY (ORS 62.870)
+# Notice to members of agricultural cooperative; date; contents; effect of failure to send notice (ORS 62.870)
 
 ## At a glance
 
-ORS 62.870 — Notice to members of agricultural cooperative; date; contents; effect of failure to send notice PENALTY. Chapter 62 (Cooperatives), 2025 Edition.
+ORS 62.870 — Notice to members of agricultural cooperative; date; contents; effect of failure to send notice. Chapter 62 (Cooperatives), 2025 Edition.
 
 ## Full text
 

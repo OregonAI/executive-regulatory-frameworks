@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-79a.6280
-title: "UCC 9-628. Nonliability and limitation on liability of secured party; liability of secondary obligor GENERAL PROVISIONS (Short Title, Definitions and General Co"
+title: "UCC 9-628. Nonliability and limitation on liability of secured party; liability of secondary obligor"
 doc_type: statute
 citation: "ORS 79A.6280"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-79a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors079a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# UCC 9-628. Nonliability and limitation on liability of secured party; liability of secondary obligor GENERAL PROVISIONS (Short Title, Definitions and General Co (ORS 79A.6280)
+# UCC 9-628. Nonliability and limitation on liability of secured party; liability of secondary obligor (ORS 79A.6280)
 
 ## At a glance
 
-ORS 79A.6280 — UCC 9-628. Nonliability and limitation on liability of secured party; liability of secondary obligor GENERAL PROVISIONS (Short Title, Definitions and General Co. Chapter 79A (Secured Transactions), 2025 Edition.
+ORS 79A.6280 — UCC 9-628. Nonliability and limitation on liability of secured party; liability of secondary obligor. Chapter 79A (Secured Transactions), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.322
-title: "Remedies; arbitration; cause of action; attorney fees; injunctive relief (Repurchase of Motor Vehicles)"
+title: "Remedies; arbitration; cause of action; attorney fees; injunctive relief"
 doc_type: statute
 citation: "ORS 646A.322"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Remedies; arbitration; cause of action; attorney fees; injunctive relief (Repurchase of Motor Vehicles) (ORS 646A.322)
+# Remedies; arbitration; cause of action; attorney fees; injunctive relief (ORS 646A.322)
 
 ## At a glance
 
-ORS 646A.322 — Remedies; arbitration; cause of action; attorney fees; injunctive relief (Repurchase of Motor Vehicles). Chapter 646A (Trade Regulation), 2025 Edition.
+ORS 646A.322 — Remedies; arbitration; cause of action; attorney fees; injunctive relief. Chapter 646A (Trade Regulation), 2025 Edition.
 
 ## Full text
 

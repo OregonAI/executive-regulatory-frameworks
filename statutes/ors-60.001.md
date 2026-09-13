@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-60.001
-title: "Definitions (Filing Documents)"
+title: "Definitions"
 doc_type: statute
 citation: "ORS 60.001"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-60"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors060.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Definitions (Filing Documents) (ORS 60.001)
+# Definitions (ORS 60.001)
 
 ## At a glance
 
-ORS 60.001 — Definitions (Filing Documents). Chapter 60 (Private Corporations), 2025 Edition.
+ORS 60.001 — Definitions. Chapter 60 (Private Corporations), 2025 Edition.
 
 ## Full text
 

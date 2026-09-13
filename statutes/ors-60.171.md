@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-60.171
-title: "Expense of issue (Subsequent Acquisition of Shares by Shareholders and Corporation)"
+title: "Expense of issue"
 doc_type: statute
 citation: "ORS 60.171"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-60"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors060.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Expense of issue (Subsequent Acquisition of Shares by Shareholders and Corporation) (ORS 60.171)
+# Expense of issue (ORS 60.171)
 
 ## At a glance
 
-ORS 60.171 — Expense of issue (Subsequent Acquisition of Shares by Shareholders and Corporation). Chapter 60 (Private Corporations), 2025 Edition.
+ORS 60.171 — Expense of issue. Chapter 60 (Private Corporations), 2025 Edition.
 
 ## Full text
 

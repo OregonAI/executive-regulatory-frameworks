@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-431a.216
-title: "Civil penalty for violation of ORS 431A.190 to 431A.216, other law, rule or regulation governing tobacco products or inhalant delivery systems (Local Regulation"
+title: "Civil penalty for violation of ORS 431A.190 to 431A.216, other law, rule or regulation governing tobacco products or inhalant delivery systems"
 doc_type: statute
 citation: "ORS 431A.216"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Civil penalty for violation of ORS 431A.190 to 431A.216, other law, rule or regulation governing tobacco products or inhalant delivery systems (Local Regulation (ORS 431A.216)
+# Civil penalty for violation of ORS 431A.190 to 431A.216, other law, rule or regulation governing tobacco products or inhalant delivery systems (ORS 431A.216)
 
 ## At a glance
 
-ORS 431A.216 — Civil penalty for violation of ORS 431A.190 to 431A.216, other law, rule or regulation governing tobacco products or inhalant delivery systems (Local Regulation. Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.216 — Civil penalty for violation of ORS 431A.190 to 431A.216, other law, rule or regulation governing tobacco products or inhalant delivery systems. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 

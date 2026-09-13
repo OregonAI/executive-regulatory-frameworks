@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.758
-title: "Confidentiality of information MEDICAL USE OF CANNABIS (Generally)"
+title: "Confidentiality of information"
 doc_type: statute
 citation: "ORS 475C.758"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Confidentiality of information MEDICAL USE OF CANNABIS (Generally) (ORS 475C.758)
+# Confidentiality of information (ORS 475C.758)
 
 ## At a glance
 
-ORS 475C.758 — Confidentiality of information MEDICAL USE OF CANNABIS (Generally). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.758 — Confidentiality of information. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

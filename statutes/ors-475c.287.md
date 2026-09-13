@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.287
-title: "Requirement to report sex trafficking or other human trafficking at licensed premises; immunity; rules (Cannabis Research)"
+title: "Requirement to report sex trafficking or other human trafficking at licensed premises; immunity; rules"
 doc_type: statute
 citation: "ORS 475C.287"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Requirement to report sex trafficking or other human trafficking at licensed premises; immunity; rules (Cannabis Research) (ORS 475C.287)
+# Requirement to report sex trafficking or other human trafficking at licensed premises; immunity; rules (ORS 475C.287)
 
 ## At a glance
 
-ORS 475C.287 — Requirement to report sex trafficking or other human trafficking at licensed premises; immunity; rules (Cannabis Research). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.287 — Requirement to report sex trafficking or other human trafficking at licensed premises; immunity; rules. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

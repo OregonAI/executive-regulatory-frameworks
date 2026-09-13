@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-65.554
-title: "Authorized distributions DISSOLUTION (Voluntary Dissolution)"
+title: "Authorized distributions"
 doc_type: statute
 citation: "ORS 65.554"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-65"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors065.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Authorized distributions DISSOLUTION (Voluntary Dissolution) (ORS 65.554)
+# Authorized distributions (ORS 65.554)
 
 ## At a glance
 
-ORS 65.554 — Authorized distributions DISSOLUTION (Voluntary Dissolution). Chapter 65 (Nonprofit Corporations), 2025 Edition.
+ORS 65.554 — Authorized distributions. Chapter 65 (Nonprofit Corporations), 2025 Edition.
 
 ## Full text
 

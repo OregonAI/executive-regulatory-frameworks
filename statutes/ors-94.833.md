@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-94.833
-title: "Sale of timeshare plan located out-of-state (Purchaser’s Rights)"
+title: "Sale of timeshare plan located out-of-state"
 doc_type: statute
 citation: "ORS 94.833"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-94"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors094.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Sale of timeshare plan located out-of-state (Purchaser’s Rights) (ORS 94.833)
+# Sale of timeshare plan located out-of-state (ORS 94.833)
 
 ## At a glance
 
-ORS 94.833 — Sale of timeshare plan located out-of-state (Purchaser’s Rights). Chapter 94 (Real Property Development), 2025 Edition.
+ORS 94.833 — Sale of timeshare plan located out-of-state. Chapter 94 (Real Property Development), 2025 Edition.
 
 ## Full text
 

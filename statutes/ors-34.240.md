@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-34.240
-title: "Appeal (Mandamus Under Supreme Court’s Original Jurisdiction)"
+title: "Appeal"
 doc_type: statute
 citation: "ORS 34.240"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-34"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors034.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Appeal (Mandamus Under Supreme Court’s Original Jurisdiction) (ORS 34.240)
+# Appeal (ORS 34.240)
 
 ## At a glance
 
-ORS 34.240 — Appeal (Mandamus Under Supreme Court’s Original Jurisdiction). Chapter 34 (Writs), 2025 Edition.
+ORS 34.240 — Appeal. Chapter 34 (Writs), 2025 Edition.
 
 ## Full text
 

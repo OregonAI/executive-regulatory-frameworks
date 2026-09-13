@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.625
-title: "Joint liability when payment bond not executed (Termination or Suspension of Contract for Public Interest Reasons)"
+title: "Joint liability when payment bond not executed"
 doc_type: statute
 citation: "ORS 279C.625"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Joint liability when payment bond not executed (Termination or Suspension of Contract for Public Interest Reasons) (ORS 279C.625)
+# Joint liability when payment bond not executed (ORS 279C.625)
 
 ## At a glance
 
-ORS 279C.625 — Joint liability when payment bond not executed (Termination or Suspension of Contract for Public Interest Reasons). Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.625 — Joint liability when payment bond not executed. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

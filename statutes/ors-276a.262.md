@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-276a.262
-title: "Transparency Oregon Advisory Commission Fund (Electronic Government Portal)"
+title: "Transparency Oregon Advisory Commission Fund"
 doc_type: statute
 citation: "ORS 276A.262"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-276a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Transparency Oregon Advisory Commission Fund (Electronic Government Portal) (ORS 276A.262)
+# Transparency Oregon Advisory Commission Fund (ORS 276A.262)
 
 ## At a glance
 
-ORS 276A.262 — Transparency Oregon Advisory Commission Fund (Electronic Government Portal). Chapter 276A (Information Technology), 2025 Edition.
+ORS 276A.262 — Transparency Oregon Advisory Commission Fund. Chapter 276A (Information Technology), 2025 Edition.
 
 ## Full text
 

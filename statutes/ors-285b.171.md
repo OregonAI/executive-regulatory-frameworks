@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285b.171
-title: "Short title (Miscellaneous)"
+title: "Short title"
 doc_type: statute
 citation: "ORS 285B.171"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Short title (Miscellaneous) (ORS 285B.171)
+# Short title (ORS 285B.171)
 
 ## At a glance
 
-ORS 285B.171 — Short title (Miscellaneous). Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.171 — Short title. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

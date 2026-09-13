@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-287a.180
-title: "Short-term borrowing by public body (Debt Limits)"
+title: "Short-term borrowing by public body"
 doc_type: statute
 citation: "ORS 287A.180"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-287a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors287A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Short-term borrowing by public body (Debt Limits) (ORS 287A.180)
+# Short-term borrowing by public body (ORS 287A.180)
 
 ## At a glance
 
-ORS 287A.180 — Short-term borrowing by public body (Debt Limits). Chapter 287A (Chapter 287A), 2025 Edition.
+ORS 287A.180 — Short-term borrowing by public body. Chapter 287A (Chapter 287A), 2025 Edition.
 
 ## Full text
 

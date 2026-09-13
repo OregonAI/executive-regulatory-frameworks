@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.133
-title: "Exclusively medical licensee designation for marijuana retailer (Production, Processing and Sale for Medical Purposes)"
+title: "Exclusively medical licensee designation for marijuana retailer"
 doc_type: statute
 citation: "ORS 475C.133"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Exclusively medical licensee designation for marijuana retailer (Production, Processing and Sale for Medical Purposes) (ORS 475C.133)
+# Exclusively medical licensee designation for marijuana retailer (ORS 475C.133)
 
 ## At a glance
 
-ORS 475C.133 — Exclusively medical licensee designation for marijuana retailer (Production, Processing and Sale for Medical Purposes). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.133 — Exclusively medical licensee designation for marijuana retailer. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

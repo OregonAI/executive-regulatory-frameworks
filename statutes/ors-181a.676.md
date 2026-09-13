@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-181a.676
-title: "Uniform background checklist; standardized personal history questionnaire (Misconduct, Discipline and Standards)"
+title: "Uniform background checklist; standardized personal history questionnaire"
 doc_type: statute
 citation: "ORS 181A.676"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Uniform background checklist; standardized personal history questionnaire (Misconduct, Discipline and Standards) (ORS 181A.676)
+# Uniform background checklist; standardized personal history questionnaire (ORS 181A.676)
 
 ## At a glance
 
-ORS 181A.676 — Uniform background checklist; standardized personal history questionnaire (Misconduct, Discipline and Standards). Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.676 — Uniform background checklist; standardized personal history questionnaire. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

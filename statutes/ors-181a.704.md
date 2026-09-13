@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-181a.704
-title: "Provision of officer identity to member of public (Law Enforcement Tactics)"
+title: "Provision of officer identity to member of public"
 doc_type: statute
 citation: "ORS 181A.704"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Provision of officer identity to member of public (Law Enforcement Tactics) (ORS 181A.704)
+# Provision of officer identity to member of public (ORS 181A.704)
 
 ## At a glance
 
-ORS 181A.704 — Provision of officer identity to member of public (Law Enforcement Tactics). Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.704 — Provision of officer identity to member of public. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-65.467
-title: "Approval by third persons MERGER"
+title: "Approval by third persons"
 doc_type: statute
 citation: "ORS 65.467"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-65"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors065.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Approval by third persons MERGER (ORS 65.467)
+# Approval by third persons (ORS 65.467)
 
 ## At a glance
 
-ORS 65.467 — Approval by third persons MERGER. Chapter 65 (Nonprofit Corporations), 2025 Edition.
+ORS 65.467 — Approval by third persons. Chapter 65 (Nonprofit Corporations), 2025 Edition.
 
 ## Full text
 

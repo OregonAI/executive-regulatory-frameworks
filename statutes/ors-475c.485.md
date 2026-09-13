@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.485
-title: "Authority of Governor to suspend license, certificate or permit without notice (Other Provisions)"
+title: "Authority of Governor to suspend license, certificate or permit without notice"
 doc_type: statute
 citation: "ORS 475C.485"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority of Governor to suspend license, certificate or permit without notice (Other Provisions) (ORS 475C.485)
+# Authority of Governor to suspend license, certificate or permit without notice (ORS 475C.485)
 
 ## At a glance
 
-ORS 475C.485 — Authority of Governor to suspend license, certificate or permit without notice (Other Provisions). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.485 — Authority of Governor to suspend license, certificate or permit without notice. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

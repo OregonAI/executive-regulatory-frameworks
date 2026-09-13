@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-36.179
-title: "Mediation and other alternative dispute resolution services for public bodies (Mediation in Civil Cases)"
+title: "Mediation and other alternative dispute resolution services for public bodies"
 doc_type: statute
 citation: "ORS 36.179"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-36"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors036.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Mediation and other alternative dispute resolution services for public bodies (Mediation in Civil Cases) (ORS 36.179)
+# Mediation and other alternative dispute resolution services for public bodies (ORS 36.179)
 
 ## At a glance
 
-ORS 36.179 — Mediation and other alternative dispute resolution services for public bodies (Mediation in Civil Cases). Chapter 36 (Mediation and Arbitration), 2025 Edition.
+ORS 36.179 — Mediation and other alternative dispute resolution services for public bodies. Chapter 36 (Mediation and Arbitration), 2025 Edition.
 
 ## Full text
 

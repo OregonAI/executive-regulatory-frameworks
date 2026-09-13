@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-18.255
-title: "Enforcement of judgment by circuit court for county where debtor resides (Proceedings in Support of Execution)"
+title: "Enforcement of judgment by circuit court for county where debtor resides"
 doc_type: statute
 citation: "ORS 18.255"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-18"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors018.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Enforcement of judgment by circuit court for county where debtor resides (Proceedings in Support of Execution) (ORS 18.255)
+# Enforcement of judgment by circuit court for county where debtor resides (ORS 18.255)
 
 ## At a glance
 
-ORS 18.255 — Enforcement of judgment by circuit court for county where debtor resides (Proceedings in Support of Execution). Chapter 18 (Judgments), 2025 Edition.
+ORS 18.255 — Enforcement of judgment by circuit court for county where debtor resides. Chapter 18 (Judgments), 2025 Edition.
 
 ## Full text
 

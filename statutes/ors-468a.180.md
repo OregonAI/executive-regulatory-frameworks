@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468a.180
-title: "Payment of certain court costs not required CLIMATE CHANGE (Natural Climate Solutions)"
+title: "Payment of certain court costs not required"
 doc_type: statute
 citation: "ORS 468A.180"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Payment of certain court costs not required CLIMATE CHANGE (Natural Climate Solutions) (ORS 468A.180)
+# Payment of certain court costs not required (ORS 468A.180)
 
 ## At a glance
 
-ORS 468A.180 — Payment of certain court costs not required CLIMATE CHANGE (Natural Climate Solutions). Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.180 — Payment of certain court costs not required. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 

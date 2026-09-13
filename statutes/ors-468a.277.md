@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468a.277
-title: "Rules; exemptions (Miscellaneous)"
+title: "Rules; exemptions"
 doc_type: statute
 citation: "ORS 468A.277"
 authority_level: statute
@@ -99,11 +99,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Rules; exemptions (Miscellaneous) (ORS 468A.277)
+# Rules; exemptions (ORS 468A.277)
 
 ## At a glance
 
-ORS 468A.277 — Rules; exemptions (Miscellaneous). Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.277 — Rules; exemptions. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 

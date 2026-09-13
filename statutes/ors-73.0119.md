@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-73.0119
-title: "Notice of right to defend action NEGOTIATION,"
+title: "Notice of right to defend action"
 doc_type: statute
 citation: "ORS 73.0119"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-73"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors073.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Notice of right to defend action NEGOTIATION, (ORS 73.0119)
+# Notice of right to defend action (ORS 73.0119)
 
 ## At a glance
 
-ORS 73.0119 — Notice of right to defend action NEGOTIATION,. Chapter 73 (Negotiable Instruments), 2025 Edition.
+ORS 73.0119 — Notice of right to defend action. Chapter 73 (Negotiable Instruments), 2025 Edition.
 
 ## Full text
 

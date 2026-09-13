@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475a.374
-title: "Oregon Health Authority collection, publication of certain data; rules (Powers and Duties of Oregon Health Authority with Respect to Licensees)"
+title: "Oregon Health Authority collection, publication of certain data; rules"
 doc_type: statute
 citation: "ORS 475A.374"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Health Authority collection, publication of certain data; rules (Powers and Duties of Oregon Health Authority with Respect to Licensees) (ORS 475A.374)
+# Oregon Health Authority collection, publication of certain data; rules (ORS 475A.374)
 
 ## At a glance
 
-ORS 475A.374 — Oregon Health Authority collection, publication of certain data; rules (Powers and Duties of Oregon Health Authority with Respect to Licensees). Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.374 — Oregon Health Authority collection, publication of certain data; rules. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 

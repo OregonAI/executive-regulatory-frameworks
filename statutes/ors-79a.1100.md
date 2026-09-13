@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-79a.1100
-title: "UCC 9-110. Security interests arising under ORS chapter 72 or 72A EFFECTIVENESS OF SECURITY AGREEMENT; ATTACHMENT OF SECURITY INTEREST; RIGHTS OF PARTIES TO SEC"
+title: "UCC 9-110. Security interests arising under ORS chapter 72 or 72A"
 doc_type: statute
 citation: "ORS 79A.1100"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-79a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors079a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# UCC 9-110. Security interests arising under ORS chapter 72 or 72A EFFECTIVENESS OF SECURITY AGREEMENT; ATTACHMENT OF SECURITY INTEREST; RIGHTS OF PARTIES TO SEC (ORS 79A.1100)
+# UCC 9-110. Security interests arising under ORS chapter 72 or 72A (ORS 79A.1100)
 
 ## At a glance
 
-ORS 79A.1100 — UCC 9-110. Security interests arising under ORS chapter 72 or 72A EFFECTIVENESS OF SECURITY AGREEMENT; ATTACHMENT OF SECURITY INTEREST; RIGHTS OF PARTIES TO SEC. Chapter 79A (Secured Transactions), 2025 Edition.
+ORS 79A.1100 — UCC 9-110. Security interests arising under ORS chapter 72 or 72A. Chapter 79A (Secured Transactions), 2025 Edition.
 
 ## Full text
 

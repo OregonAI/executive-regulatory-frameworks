@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.916
-title: "Authority of nurse to discuss medical use of marijuana (Rulemaking)"
+title: "Authority of nurse to discuss medical use of marijuana"
 doc_type: statute
 citation: "ORS 475C.916"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority of nurse to discuss medical use of marijuana (Rulemaking) (ORS 475C.916)
+# Authority of nurse to discuss medical use of marijuana (ORS 475C.916)
 
 ## At a glance
 
-ORS 475C.916 — Authority of nurse to discuss medical use of marijuana (Rulemaking). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.916 — Authority of nurse to discuss medical use of marijuana. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

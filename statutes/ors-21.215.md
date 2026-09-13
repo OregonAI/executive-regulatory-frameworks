@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-21.215
-title: "Fees for settlement conferences (Trial Fees)"
+title: "Fees for settlement conferences"
 doc_type: statute
 citation: "ORS 21.215"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-21"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors021.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Fees for settlement conferences (Trial Fees) (ORS 21.215)
+# Fees for settlement conferences (ORS 21.215)
 
 ## At a glance
 
-ORS 21.215 — Fees for settlement conferences (Trial Fees). Chapter 21 (State Court Fees), 2025 Edition.
+ORS 21.215 — Fees for settlement conferences. Chapter 21 (State Court Fees), 2025 Edition.
 
 ## Full text
 

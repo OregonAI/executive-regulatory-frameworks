@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.470
-title: "Compensation for contractor on contract declared void by court; exceptions; applicability CONSTRUCTION CONTRACTS GENERALLY (Required Contract Conditions)"
+title: "Compensation for contractor on contract declared void by court; exceptions; applicability"
 doc_type: statute
 citation: "ORS 279C.470"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Compensation for contractor on contract declared void by court; exceptions; applicability CONSTRUCTION CONTRACTS GENERALLY (Required Contract Conditions) (ORS 279C.470)
+# Compensation for contractor on contract declared void by court; exceptions; applicability (ORS 279C.470)
 
 ## At a glance
 
-ORS 279C.470 — Compensation for contractor on contract declared void by court; exceptions; applicability CONSTRUCTION CONTRACTS GENERALLY (Required Contract Conditions). Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.470 — Compensation for contractor on contract declared void by court; exceptions; applicability. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.082
-title: "Discrimination against person for service in uniformed service prohibited (Leave of Absence for State Service)"
+title: "Discrimination against person for service in uniformed service prohibited"
 doc_type: statute
 citation: "ORS 659A.082"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Discrimination against person for service in uniformed service prohibited (Leave of Absence for State Service) (ORS 659A.082)
+# Discrimination against person for service in uniformed service prohibited (ORS 659A.082)
 
 ## At a glance
 
-ORS 659A.082 — Discrimination against person for service in uniformed service prohibited (Leave of Absence for State Service). Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.082 — Discrimination against person for service in uniformed service prohibited. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285b.775
-title: "Annual report by Oregon Business Development Department to legislature LENDERS’"
+title: "Annual report by Oregon Business Development Department to legislature"
 doc_type: statute
 citation: "ORS 285B.775"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Annual report by Oregon Business Development Department to legislature LENDERS’ (ORS 285B.775)
+# Annual report by Oregon Business Development Department to legislature (ORS 285B.775)
 
 ## At a glance
 
-ORS 285B.775 — Annual report by Oregon Business Development Department to legislature LENDERS’. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.775 — Annual report by Oregon Business Development Department to legislature. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

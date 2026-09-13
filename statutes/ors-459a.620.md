@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-459a.620
-title: "Use of compost or sewage sludge by state agencies given priority (Mercury)"
+title: "Use of compost or sewage sludge by state agencies given priority"
 doc_type: statute
 citation: "ORS 459A.620"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Use of compost or sewage sludge by state agencies given priority (Mercury) (ORS 459A.620)
+# Use of compost or sewage sludge by state agencies given priority (ORS 459A.620)
 
 ## At a glance
 
-ORS 459A.620 — Use of compost or sewage sludge by state agencies given priority (Mercury). Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.620 — Use of compost or sewage sludge by state agencies given priority. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 

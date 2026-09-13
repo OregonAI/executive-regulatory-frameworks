@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-36.268
-title: "Provision of mediation services contingent on funding (Mediation of Disputes Related to Farming Practices)"
+title: "Provision of mediation services contingent on funding"
 doc_type: statute
 citation: "ORS 36.268"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-36"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors036.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Provision of mediation services contingent on funding (Mediation of Disputes Related to Farming Practices) (ORS 36.268)
+# Provision of mediation services contingent on funding (ORS 36.268)
 
 ## At a glance
 
-ORS 36.268 — Provision of mediation services contingent on funding (Mediation of Disputes Related to Farming Practices). Chapter 36 (Mediation and Arbitration), 2025 Edition.
+ORS 36.268 — Provision of mediation services contingent on funding. Chapter 36 (Mediation and Arbitration), 2025 Edition.
 
 ## Full text
 

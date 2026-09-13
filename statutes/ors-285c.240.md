@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285c.240
-title: "Disqualification; notice and procedures; in lieu payments and additional taxes; penalty; use of moneys (Termination of Enterprise Zone)"
+title: "Disqualification; notice and procedures; in lieu payments and additional taxes; penalty; use of moneys"
 doc_type: statute
 citation: "ORS 285C.240"
 authority_level: statute
@@ -57,11 +57,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Disqualification; notice and procedures; in lieu payments and additional taxes; penalty; use of moneys (Termination of Enterprise Zone) (ORS 285C.240)
+# Disqualification; notice and procedures; in lieu payments and additional taxes; penalty; use of moneys (ORS 285C.240)
 
 ## At a glance
 
-ORS 285C.240 — Disqualification; notice and procedures; in lieu payments and additional taxes; penalty; use of moneys (Termination of Enterprise Zone). Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.240 — Disqualification; notice and procedures; in lieu payments and additional taxes; penalty; use of moneys. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 

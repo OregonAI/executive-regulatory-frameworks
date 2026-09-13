@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-181a.487
-title: "Mental health wellness policies for law enforcement agencies (Certification)"
+title: "Mental health wellness policies for law enforcement agencies"
 doc_type: statute
 citation: "ORS 181A.487"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Mental health wellness policies for law enforcement agencies (Certification) (ORS 181A.487)
+# Mental health wellness policies for law enforcement agencies (ORS 181A.487)
 
 ## At a glance
 
-ORS 181A.487 — Mental health wellness policies for law enforcement agencies (Certification). Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.487 — Mental health wellness policies for law enforcement agencies. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

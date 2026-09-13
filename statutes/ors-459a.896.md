@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-459a.896
-title: "Other duties of producer responsibility organization (Oregon Recycling System Advisory Council)"
+title: "Other duties of producer responsibility organization"
 doc_type: statute
 citation: "ORS 459A.896"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Other duties of producer responsibility organization (Oregon Recycling System Advisory Council) (ORS 459A.896)
+# Other duties of producer responsibility organization (ORS 459A.896)
 
 ## At a glance
 
-ORS 459A.896 — Other duties of producer responsibility organization (Oregon Recycling System Advisory Council). Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.896 — Other duties of producer responsibility organization. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 

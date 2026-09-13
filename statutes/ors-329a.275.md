@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-329a.275
-title: "Rules; fees and charges (Certification)"
+title: "Rules; fees and charges"
 doc_type: statute
 citation: "ORS 329A.275"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Rules; fees and charges (Certification) (ORS 329A.275)
+# Rules; fees and charges (ORS 329A.275)
 
 ## At a glance
 
-ORS 329A.275 — Rules; fees and charges (Certification). Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.275 — Rules; fees and charges. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 

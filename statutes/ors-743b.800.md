@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.800
-title: "Risk adjustment procedures; rules (Temporary provisions relating to the Oregon Reinsurance Program are compiled as notes following ORS 743B.800)"
+title: "Risk adjustment procedures; rules"
 doc_type: statute
 citation: "ORS 743B.800"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Risk adjustment procedures; rules (Temporary provisions relating to the Oregon Reinsurance Program are compiled as notes following ORS 743B.800) (ORS 743B.800)
+# Risk adjustment procedures; rules (ORS 743B.800)
 
 ## At a glance
 
-ORS 743B.800 — Risk adjustment procedures; rules (Temporary provisions relating to the Oregon Reinsurance Program are compiled as notes following ORS 743B.800). Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.800 — Risk adjustment procedures; rules. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-431a.865
-title: "Disclosure of information; corrections; records; immunity from liability (Temporary provisions relating to practitioner notice of patient overdose are compiled "
+title: "Disclosure of information; corrections; records; immunity from liability"
 doc_type: statute
 citation: "ORS 431A.865"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Disclosure of information; corrections; records; immunity from liability (Temporary provisions relating to practitioner notice of patient overdose are compiled  (ORS 431A.865)
+# Disclosure of information; corrections; records; immunity from liability (ORS 431A.865)
 
 ## At a glance
 
-ORS 431A.865 — Disclosure of information; corrections; records; immunity from liability (Temporary provisions relating to practitioner notice of patient overdose are compiled . Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.865 — Disclosure of information; corrections; records; immunity from liability. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 

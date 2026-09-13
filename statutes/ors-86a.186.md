@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-86a.186
-title: "Mortgage loan originator criminal records checks; rules (Regulation of Lending Activity)"
+title: "Mortgage loan originator criminal records checks; rules"
 doc_type: statute
 citation: "ORS 86A.186"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-86a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors086a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Mortgage loan originator criminal records checks; rules (Regulation of Lending Activity) (ORS 86A.186)
+# Mortgage loan originator criminal records checks; rules (ORS 86A.186)
 
 ## At a glance
 
-ORS 86A.186 — Mortgage loan originator criminal records checks; rules (Regulation of Lending Activity). Chapter 86A (Mortgage Lending), 2025 Edition.
+ORS 86A.186 — Mortgage loan originator criminal records checks; rules. Chapter 86A (Mortgage Lending), 2025 Edition.
 
 ## Full text
 

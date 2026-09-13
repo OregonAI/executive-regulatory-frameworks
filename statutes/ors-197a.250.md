@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-197a.250
-title: "Designation of certain Washington County lands (Planning for Cities Outside Metro)"
+title: "Designation of certain Washington County lands"
 doc_type: statute
 citation: "ORS 197A.250"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-197a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Designation of certain Washington County lands (Planning for Cities Outside Metro) (ORS 197A.250)
+# Designation of certain Washington County lands (ORS 197A.250)
 
 ## At a glance
 
-ORS 197A.250 — Designation of certain Washington County lands (Planning for Cities Outside Metro). Chapter 197A (Chapter 197A), 2025 Edition.
+ORS 197A.250 — Designation of certain Washington County lands. Chapter 197A (Chapter 197A), 2025 Edition.
 
 ## Full text
 

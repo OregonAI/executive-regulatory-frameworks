@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419b.211
-title: "Motion to withdraw as counsel (Educational Surrogate)"
+title: "Motion to withdraw as counsel"
 doc_type: statute
 citation: "ORS 419B.211"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Motion to withdraw as counsel (Educational Surrogate) (ORS 419B.211)
+# Motion to withdraw as counsel (ORS 419B.211)
 
 ## At a glance
 
-ORS 419B.211 — Motion to withdraw as counsel (Educational Surrogate). Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.211 — Motion to withdraw as counsel. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-98.045
-title: "Applicability to unclaimed prepaid transportation cards FINDER’S REPORTS"
+title: "Applicability to unclaimed prepaid transportation cards"
 doc_type: statute
 citation: "ORS 98.045"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-98"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors098.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Applicability to unclaimed prepaid transportation cards FINDER’S REPORTS (ORS 98.045)
+# Applicability to unclaimed prepaid transportation cards (ORS 98.045)
 
 ## At a glance
 
-ORS 98.045 — Applicability to unclaimed prepaid transportation cards FINDER’S REPORTS. Chapter 98 (Lost, Unclaimed or Abandoned Property; Vehicle Towing), 2025 Edition.
+ORS 98.045 — Applicability to unclaimed prepaid transportation cards. Chapter 98 (Lost, Unclaimed or Abandoned Property; Vehicle Towing), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419b.389
-title: "Inability of parent to comply with order of court (Parentage)"
+title: "Inability of parent to comply with order of court"
 doc_type: statute
 citation: "ORS 419B.389"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Inability of parent to comply with order of court (Parentage) (ORS 419B.389)
+# Inability of parent to comply with order of court (ORS 419B.389)
 
 ## At a glance
 
-ORS 419B.389 — Inability of parent to comply with order of court (Parentage). Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.389 — Inability of parent to comply with order of court. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

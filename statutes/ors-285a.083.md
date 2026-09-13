@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285a.083
-title: "Authority to require fingerprints for criminal records check (Oregon Infrastructure Finance Authority Board)"
+title: "Authority to require fingerprints for criminal records check"
 doc_type: statute
 citation: "ORS 285A.083"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority to require fingerprints for criminal records check (Oregon Infrastructure Finance Authority Board) (ORS 285A.083)
+# Authority to require fingerprints for criminal records check (ORS 285A.083)
 
 ## At a glance
 
-ORS 285A.083 — Authority to require fingerprints for criminal records check (Oregon Infrastructure Finance Authority Board). Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.083 — Authority to require fingerprints for criminal records check. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

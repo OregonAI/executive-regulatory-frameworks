@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-94.843
-title: "Limits on developer right to transfer (Association of Owners; Management)"
+title: "Limits on developer right to transfer"
 doc_type: statute
 citation: "ORS 94.843"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-94"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors094.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Limits on developer right to transfer (Association of Owners; Management) (ORS 94.843)
+# Limits on developer right to transfer (ORS 94.843)
 
 ## At a glance
 
-ORS 94.843 — Limits on developer right to transfer (Association of Owners; Management). Chapter 94 (Real Property Development), 2025 Edition.
+ORS 94.843 — Limits on developer right to transfer. Chapter 94 (Real Property Development), 2025 Edition.
 
 ## Full text
 

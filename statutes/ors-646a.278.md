@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.278
-title: "Requirements for sale of gift card that expires (Simulated Invoices)"
+title: "Requirements for sale of gift card that expires"
 doc_type: statute
 citation: "ORS 646A.278"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Requirements for sale of gift card that expires (Simulated Invoices) (ORS 646A.278)
+# Requirements for sale of gift card that expires (ORS 646A.278)
 
 ## At a glance
 
-ORS 646A.278 — Requirements for sale of gift card that expires (Simulated Invoices). Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.278 — Requirements for sale of gift card that expires. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

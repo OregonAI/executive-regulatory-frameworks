@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.418
-title: "Remedies supplementary to existing statutory or common law remedies; election of remedies (Vehicle Protection Product Warranties)"
+title: "Remedies supplementary to existing statutory or common law remedies; election of remedies"
 doc_type: statute
 citation: "ORS 646A.418"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Remedies supplementary to existing statutory or common law remedies; election of remedies (Vehicle Protection Product Warranties) (ORS 646A.418)
+# Remedies supplementary to existing statutory or common law remedies; election of remedies (ORS 646A.418)
 
 ## At a glance
 
-ORS 646A.418 — Remedies supplementary to existing statutory or common law remedies; election of remedies (Vehicle Protection Product Warranties). Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.418 — Remedies supplementary to existing statutory or common law remedies; election of remedies. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-197a.395
-title: "Limits on local government prohibitions (Temporary provisions relating to housing land use adjustments are compiled as notes following ORS 197A.395)"
+title: "Limits on local government prohibitions"
 doc_type: statute
 citation: "ORS 197A.395"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-197a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Limits on local government prohibitions (Temporary provisions relating to housing land use adjustments are compiled as notes following ORS 197A.395) (ORS 197A.395)
+# Limits on local government prohibitions (ORS 197A.395)
 
 ## At a glance
 
-ORS 197A.395 — Limits on local government prohibitions (Temporary provisions relating to housing land use adjustments are compiled as notes following ORS 197A.395). Chapter 197A (Chapter 197A), 2025 Edition.
+ORS 197A.395 — Limits on local government prohibitions. Chapter 197A (Chapter 197A), 2025 Edition.
 
 ## Full text
 

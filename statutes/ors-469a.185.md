@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-469a.185
-title: "Consumer-owned utilities (Penalty)"
+title: "Consumer-owned utilities"
 doc_type: statute
 citation: "ORS 469A.185"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-469a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Consumer-owned utilities (Penalty) (ORS 469A.185)
+# Consumer-owned utilities (ORS 469A.185)
 
 ## At a glance
 
-ORS 469A.185 — Consumer-owned utilities (Penalty). Chapter 469A (Chapter 469A), 2025 Edition.
+ORS 469A.185 — Consumer-owned utilities. Chapter 469A (Chapter 469A), 2025 Edition.
 
 ## Full text
 

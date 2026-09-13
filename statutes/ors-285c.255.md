@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285c.255
-title: "Sunset of enterprise zone program RESERVATION ENTERPRISE ZONES;"
+title: "Sunset of enterprise zone program"
 doc_type: statute
 citation: "ORS 285C.255"
 authority_level: statute
@@ -47,11 +47,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Sunset of enterprise zone program RESERVATION ENTERPRISE ZONES; (ORS 285C.255)
+# Sunset of enterprise zone program (ORS 285C.255)
 
 ## At a glance
 
-ORS 285C.255 — Sunset of enterprise zone program RESERVATION ENTERPRISE ZONES;. Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.255 — Sunset of enterprise zone program. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 

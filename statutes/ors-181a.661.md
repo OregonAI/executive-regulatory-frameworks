@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-181a.661
-title: "Police Memorial Trust Fund; rules (National Use-of-Force Data Collection)"
+title: "Police Memorial Trust Fund; rules"
 doc_type: statute
 citation: "ORS 181A.661"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Police Memorial Trust Fund; rules (National Use-of-Force Data Collection) (ORS 181A.661)
+# Police Memorial Trust Fund; rules (ORS 181A.661)
 
 ## At a glance
 
-ORS 181A.661 — Police Memorial Trust Fund; rules (National Use-of-Force Data Collection). Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.661 — Police Memorial Trust Fund; rules. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

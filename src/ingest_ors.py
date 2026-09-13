@@ -372,15 +372,27 @@ def _proof_real_anchors_still_pass(ck):
     pass. Runs the real slicer against committed chapter snapshots (no network) for a
     spread of real catalog rows (titles read via `_catalog_titles()`, not hand-typed),
     including 12.420's OWN real slice (the section the refusal proof above impersonates)
-    and 1.860, whose catalog title carries the trailing-heading noise
-    `catalog_ors.py`'s `TRAILING_HEADING_RE` only partly strips ("...justice courts
-    COURTS") -- proving the fix tolerates that known, separate catalog defect rather
-    than refusing a section over it."""
+    and 476.290, whose catalog title still carries trailing-heading noise even after the
+    #397/#411 backfill ("...action for recovery of cost FIRE PREVENTION AND CONTROL ON
+    CERTAIN LANDS NOT") -- proving the fix tolerates that known, separate catalog defect
+    rather than refusing a section over it.
+
+    This fixture was re-anchored off 1.860 by the #397 backfill itself (2026-09-12):
+    1.860 is exactly the row this proof used to cite, and the backfill made the citation
+    false by cleaning 1.860's title -- the whole point of #397/#411 is to shrink the set
+    of titles carrying this noise, so a fixture proving tolerance of it cannot durably
+    anchor on any ROW, only on the CONDITION. 476.290 is one of the 5 rows #411 measured
+    as the fix's own named, still-glued residual (a `Note ...` marginalia sits between
+    the glued heading and the next real section, past what an exact-suffix strip can
+    reach) -- verified still glued against the post-backfill committed catalog before
+    landing this re-anchor, not assumed. When #411 is eventually fixed, whichever row it
+    still leaves glued (or #412's 47-row Note-gluing family, e.g. 172.130, if #411 closes
+    first) is this proof's next anchor -- the same substitution being made here."""
     titles = _catalog_titles()
     cases = [
         ("ors-chapter-1", "1.001"),
         ("ors-chapter-1", "1.194"),
-        ("ors-chapter-1", "1.860"),
+        ("ors-chapter-476", "476.290"),
         ("ors-chapter-12", "12.420"),
     ]
     for snap_id, sec in cases:

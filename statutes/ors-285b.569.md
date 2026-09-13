@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285b.569
-title: "When constitutional restrictions apply to use of certain funds (Revenue Bond Financing of Safe Drinking Water Projects)"
+title: "When constitutional restrictions apply to use of certain funds"
 doc_type: statute
 citation: "ORS 285B.569"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# When constitutional restrictions apply to use of certain funds (Revenue Bond Financing of Safe Drinking Water Projects) (ORS 285B.569)
+# When constitutional restrictions apply to use of certain funds (ORS 285B.569)
 
 ## At a glance
 
-ORS 285B.569 — When constitutional restrictions apply to use of certain funds (Revenue Bond Financing of Safe Drinking Water Projects). Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.569 — When constitutional restrictions apply to use of certain funds. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

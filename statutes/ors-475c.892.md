@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.892
-title: "Prohibition against taking disciplinary action against professional licensee; right to administer marijuana for medical purposes (Civil Enforcement of ORS 475C."
+title: "Prohibition against taking disciplinary action against professional licensee; right to administer marijuana for medical purposes"
 doc_type: statute
 citation: "ORS 475C.892"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Prohibition against taking disciplinary action against professional licensee; right to administer marijuana for medical purposes (Civil Enforcement of ORS 475C. (ORS 475C.892)
+# Prohibition against taking disciplinary action against professional licensee; right to administer marijuana for medical purposes (ORS 475C.892)
 
 ## At a glance
 
-ORS 475C.892 — Prohibition against taking disciplinary action against professional licensee; right to administer marijuana for medical purposes (Civil Enforcement of ORS 475C.. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.892 — Prohibition against taking disciplinary action against professional licensee; right to administer marijuana for medical purposes. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

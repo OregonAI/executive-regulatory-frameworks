@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-59.225
-title: "Cancellation of license or application; application for withdrawal; effect of suspension or revocation (Powers of Director)"
+title: "Cancellation of license or application; application for withdrawal; effect of suspension or revocation"
 doc_type: statute
 citation: "ORS 59.225"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-59"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors059.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Cancellation of license or application; application for withdrawal; effect of suspension or revocation (Powers of Director) (ORS 59.225)
+# Cancellation of license or application; application for withdrawal; effect of suspension or revocation (ORS 59.225)
 
 ## At a glance
 
-ORS 59.225 — Cancellation of license or application; application for withdrawal; effect of suspension or revocation (Powers of Director). Chapter 59 (Securities Regulation), 2025 Edition.
+ORS 59.225 — Cancellation of license or application; application for withdrawal; effect of suspension or revocation. Chapter 59 (Securities Regulation), 2025 Edition.
 
 ## Full text
 

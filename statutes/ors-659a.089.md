@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.089
-title: "Notification to Director of Veterans’ Affairs (Oregon Military Family Leave Act)"
+title: "Notification to Director of Veterans’ Affairs"
 doc_type: statute
 citation: "ORS 659A.089"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Notification to Director of Veterans’ Affairs (Oregon Military Family Leave Act) (ORS 659A.089)
+# Notification to Director of Veterans’ Affairs (ORS 659A.089)
 
 ## At a glance
 
-ORS 659A.089 — Notification to Director of Veterans’ Affairs (Oregon Military Family Leave Act). Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.089 — Notification to Director of Veterans’ Affairs. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

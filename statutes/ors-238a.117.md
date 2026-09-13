@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-238a.117
-title: "Vesting of member killed in course and scope of employment (Withdrawal)"
+title: "Vesting of member killed in course and scope of employment"
 doc_type: statute
 citation: "ORS 238A.117"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Vesting of member killed in course and scope of employment (Withdrawal) (ORS 238A.117)
+# Vesting of member killed in course and scope of employment (ORS 238A.117)
 
 ## At a glance
 
-ORS 238A.117 — Vesting of member killed in course and scope of employment (Withdrawal). Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.117 — Vesting of member killed in course and scope of employment. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 

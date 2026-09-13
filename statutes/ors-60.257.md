@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-60.257
-title: "Voting agreements (Derivative Proceedings)"
+title: "Voting agreements"
 doc_type: statute
 citation: "ORS 60.257"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-60"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors060.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Voting agreements (Derivative Proceedings) (ORS 60.257)
+# Voting agreements (ORS 60.257)
 
 ## At a glance
 
-ORS 60.257 — Voting agreements (Derivative Proceedings). Chapter 60 (Private Corporations), 2025 Edition.
+ORS 60.257 — Voting agreements. Chapter 60 (Private Corporations), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285b.098
-title: "Status of loan to county or municipality; project as security; repayment (Temporary provisions relating to Oregon CHIPS Fund grant and loan program are compiled"
+title: "Status of loan to county or municipality; project as security; repayment"
 doc_type: statute
 citation: "ORS 285B.098"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Status of loan to county or municipality; project as security; repayment (Temporary provisions relating to Oregon CHIPS Fund grant and loan program are compiled (ORS 285B.098)
+# Status of loan to county or municipality; project as security; repayment (ORS 285B.098)
 
 ## At a glance
 
-ORS 285B.098 — Status of loan to county or municipality; project as security; repayment (Temporary provisions relating to Oregon CHIPS Fund grant and loan program are compiled. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.098 — Status of loan to county or municipality; project as security; repayment. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

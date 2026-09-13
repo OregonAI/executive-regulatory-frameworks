@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475a.285
-title: "Authority to hold multiple licenses (License to Manufacture Psilocybin Products)"
+title: "Authority to hold multiple licenses"
 doc_type: statute
 citation: "ORS 475A.285"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority to hold multiple licenses (License to Manufacture Psilocybin Products) (ORS 475A.285)
+# Authority to hold multiple licenses (ORS 475A.285)
 
 ## At a glance
 
-ORS 475A.285 — Authority to hold multiple licenses (License to Manufacture Psilocybin Products). Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.285 — Authority to hold multiple licenses. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 

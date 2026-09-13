@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-59.325
-title: "Certified copies of documents; fee; effect of certification (Enforcement by Attorney General)"
+title: "Certified copies of documents; fee; effect of certification"
 doc_type: statute
 citation: "ORS 59.325"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-59"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors059.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Certified copies of documents; fee; effect of certification (Enforcement by Attorney General) (ORS 59.325)
+# Certified copies of documents; fee; effect of certification (ORS 59.325)
 
 ## At a glance
 
-ORS 59.325 — Certified copies of documents; fee; effect of certification (Enforcement by Attorney General). Chapter 59 (Securities Regulation), 2025 Edition.
+ORS 59.325 — Certified copies of documents; fee; effect of certification. Chapter 59 (Securities Regulation), 2025 Edition.
 
 ## Full text
 

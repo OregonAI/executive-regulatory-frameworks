@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-308a.743
-title: "Disqualification limited when land subject to certain plans, easements, deed restrictions or leases; procedural requirements FARM USE SPECIAL ASSESSMENT (Policy"
+title: "Disqualification limited when land subject to certain plans, easements, deed restrictions or leases; procedural requirements"
 doc_type: statute
 citation: "ORS 308A.743"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-308a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors308A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Disqualification limited when land subject to certain plans, easements, deed restrictions or leases; procedural requirements FARM USE SPECIAL ASSESSMENT (Policy (ORS 308A.743)
+# Disqualification limited when land subject to certain plans, easements, deed restrictions or leases; procedural requirements (ORS 308A.743)
 
 ## At a glance
 
-ORS 308A.743 — Disqualification limited when land subject to certain plans, easements, deed restrictions or leases; procedural requirements FARM USE SPECIAL ASSESSMENT (Policy. Chapter 308A (Chapter 308A), 2025 Edition.
+ORS 308A.743 — Disqualification limited when land subject to certain plans, easements, deed restrictions or leases; procedural requirements. Chapter 308A (Chapter 308A), 2025 Edition.
 
 ## Full text
 

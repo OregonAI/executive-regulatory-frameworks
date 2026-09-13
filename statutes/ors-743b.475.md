@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.475
-title: "Guidelines for coordination of benefits; rules (Temporary provisions relating to primary care payment collaborative are compiled as notes following ORS 743B.475"
+title: "Guidelines for coordination of benefits; rules"
 doc_type: statute
 citation: "ORS 743B.475"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Guidelines for coordination of benefits; rules (Temporary provisions relating to primary care payment collaborative are compiled as notes following ORS 743B.475 (ORS 743B.475)
+# Guidelines for coordination of benefits; rules (ORS 743B.475)
 
 ## At a glance
 
-ORS 743B.475 — Guidelines for coordination of benefits; rules (Temporary provisions relating to primary care payment collaborative are compiled as notes following ORS 743B.475. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.475 — Guidelines for coordination of benefits; rules. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-431a.880
-title: "Licensing information; fees; rules (Commission)"
+title: "Licensing information; fees; rules"
 doc_type: statute
 citation: "ORS 431A.880"
 authority_level: statute
@@ -45,11 +45,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Licensing information; fees; rules (Commission) (ORS 431A.880)
+# Licensing information; fees; rules (ORS 431A.880)
 
 ## At a glance
 
-ORS 431A.880 — Licensing information; fees; rules (Commission). Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.880 — Licensing information; fees; rules. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 

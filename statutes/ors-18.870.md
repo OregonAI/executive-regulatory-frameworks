@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-18.870
-title: "Recording of writ (Return on Writ)"
+title: "Recording of writ"
 doc_type: statute
 citation: "ORS 18.870"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-18"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors018.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Recording of writ (Return on Writ) (ORS 18.870)
+# Recording of writ (ORS 18.870)
 
 ## At a glance
 
-ORS 18.870 — Recording of writ (Return on Writ). Chapter 18 (Judgments), 2025 Edition.
+ORS 18.870 — Recording of writ. Chapter 18 (Judgments), 2025 Edition.
 
 ## Full text
 

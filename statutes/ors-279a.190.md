@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279a.190
-title: "Transfers of fire protection equipment between fire departments (Cooperative Procurement)"
+title: "Transfers of fire protection equipment between fire departments"
 doc_type: statute
 citation: "ORS 279A.190"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-279a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Transfers of fire protection equipment between fire departments (Cooperative Procurement) (ORS 279A.190)
+# Transfers of fire protection equipment between fire departments (ORS 279A.190)
 
 ## At a glance
 
-ORS 279A.190 — Transfers of fire protection equipment between fire departments (Cooperative Procurement). Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
+ORS 279A.190 — Transfers of fire protection equipment between fire departments. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-33.610
-title: "Evaluating securities of secured creditor DETERMINATION OF LEGALITY OF MUNICIPAL CORPORATION’S"
+title: "Evaluating securities of secured creditor"
 doc_type: statute
 citation: "ORS 33.610"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-33"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors033.html> (retrieved 2026-08-01, 2025 Edition).
 
-# Evaluating securities of secured creditor DETERMINATION OF LEGALITY OF MUNICIPAL CORPORATION’S (ORS 33.610)
+# Evaluating securities of secured creditor (ORS 33.610)
 
 ## At a glance
 
-ORS 33.610 — Evaluating securities of secured creditor DETERMINATION OF LEGALITY OF MUNICIPAL CORPORATION’S. Chapter 33 (Special Proceedings and Procedures), 2025 Edition.
+ORS 33.610 — Evaluating securities of secured creditor. Chapter 33 (Special Proceedings and Procedures), 2025 Edition.
 
 ## Full text
 

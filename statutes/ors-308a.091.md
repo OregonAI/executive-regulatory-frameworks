@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-308a.091
-title: "Rules for farm use special assessment pursuant to remediation plan; fee; limitation (Valuation)"
+title: "Rules for farm use special assessment pursuant to remediation plan; fee; limitation"
 doc_type: statute
 citation: "ORS 308A.091"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-308a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors308A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Rules for farm use special assessment pursuant to remediation plan; fee; limitation (Valuation) (ORS 308A.091)
+# Rules for farm use special assessment pursuant to remediation plan; fee; limitation (ORS 308A.091)
 
 ## At a glance
 
-ORS 308A.091 — Rules for farm use special assessment pursuant to remediation plan; fee; limitation (Valuation). Chapter 308A (Chapter 308A), 2025 Edition.
+ORS 308A.091 — Rules for farm use special assessment pursuant to remediation plan; fee; limitation. Chapter 308A (Chapter 308A), 2025 Edition.
 
 ## Full text
 

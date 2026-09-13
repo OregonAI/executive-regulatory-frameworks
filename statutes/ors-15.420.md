@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-15.420
-title: "Determining domicile (Claims Governed by Oregon Law)"
+title: "Determining domicile"
 doc_type: statute
 citation: "ORS 15.420"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-15"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors015.html> (retrieved 2026-08-01, 2025 Edition).
 
-# Determining domicile (Claims Governed by Oregon Law) (ORS 15.420)
+# Determining domicile (ORS 15.420)
 
 ## At a glance
 
-ORS 15.420 — Determining domicile (Claims Governed by Oregon Law). Chapter 15 (Choice of Laws), 2025 Edition.
+ORS 15.420 — Determining domicile. Chapter 15 (Choice of Laws), 2025 Edition.
 
 ## Full text
 

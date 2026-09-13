@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-74.2160
-title: "Insolvency and preference (Payor Banks)"
+title: "Insolvency and preference"
 doc_type: statute
 citation: "ORS 74.2160"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-74"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors074.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Insolvency and preference (Payor Banks) (ORS 74.2160)
+# Insolvency and preference (ORS 74.2160)
 
 ## At a glance
 
-ORS 74.2160 — Insolvency and preference (Payor Banks). Chapter 74 (Bank Deposits and Collections), 2025 Edition.
+ORS 74.2160 — Insolvency and preference. Chapter 74 (Bank Deposits and Collections), 2025 Edition.
 
 ## Full text
 

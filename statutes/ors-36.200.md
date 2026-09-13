@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-36.200
-title: "Mediation panels; qualification; procedure for selecting mediator (Liability of Mediators and Programs)"
+title: "Mediation panels; qualification; procedure for selecting mediator"
 doc_type: statute
 citation: "ORS 36.200"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-36"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors036.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Mediation panels; qualification; procedure for selecting mediator (Liability of Mediators and Programs) (ORS 36.200)
+# Mediation panels; qualification; procedure for selecting mediator (ORS 36.200)
 
 ## At a glance
 
-ORS 36.200 — Mediation panels; qualification; procedure for selecting mediator (Liability of Mediators and Programs). Chapter 36 (Mediation and Arbitration), 2025 Edition.
+ORS 36.200 — Mediation panels; qualification; procedure for selecting mediator. Chapter 36 (Mediation and Arbitration), 2025 Edition.
 
 ## Full text
 

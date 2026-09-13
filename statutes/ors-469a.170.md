@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-469a.170
-title: "Compliance reports; rules (Alternative Compliance Payments)"
+title: "Compliance reports; rules"
 doc_type: statute
 citation: "ORS 469A.170"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-469a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Compliance reports; rules (Alternative Compliance Payments) (ORS 469A.170)
+# Compliance reports; rules (ORS 469A.170)
 
 ## At a glance
 
-ORS 469A.170 — Compliance reports; rules (Alternative Compliance Payments). Chapter 469A (Chapter 469A), 2025 Edition.
+ORS 469A.170 — Compliance reports; rules. Chapter 469A (Chapter 469A), 2025 Edition.
 
 ## Full text
 

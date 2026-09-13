@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419b.185
-title: "Evidentiary hearing (Placement of Child or Ward)"
+title: "Evidentiary hearing"
 doc_type: statute
 citation: "ORS 419B.185"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Evidentiary hearing (Placement of Child or Ward) (ORS 419B.185)
+# Evidentiary hearing (ORS 419B.185)
 
 ## At a glance
 
-ORS 419B.185 — Evidentiary hearing (Placement of Child or Ward). Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.185 — Evidentiary hearing. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

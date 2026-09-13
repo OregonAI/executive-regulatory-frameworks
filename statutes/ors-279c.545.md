@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.545
-title: "Time limitation on claim for overtime; posting of circular by contractor (Retainage and Payments)"
+title: "Time limitation on claim for overtime; posting of circular by contractor"
 doc_type: statute
 citation: "ORS 279C.545"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Time limitation on claim for overtime; posting of circular by contractor (Retainage and Payments) (ORS 279C.545)
+# Time limitation on claim for overtime; posting of circular by contractor (ORS 279C.545)
 
 ## At a glance
 
-ORS 279C.545 — Time limitation on claim for overtime; posting of circular by contractor (Retainage and Payments). Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.545 — Time limitation on claim for overtime; posting of circular by contractor. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

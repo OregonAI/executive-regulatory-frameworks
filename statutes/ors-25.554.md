@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-25.554
-title: "Reopening issue of parentage; order (Expeditious Court Hearings)"
+title: "Reopening issue of parentage; order"
 doc_type: statute
 citation: "ORS 25.554"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-25"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors025.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Reopening issue of parentage; order (Expeditious Court Hearings) (ORS 25.554)
+# Reopening issue of parentage; order (ORS 25.554)
 
 ## At a glance
 
-ORS 25.554 — Reopening issue of parentage; order (Expeditious Court Hearings). Chapter 25 (Child Support Services), 2025 Edition.
+ORS 25.554 — Reopening issue of parentage; order. Chapter 25 (Child Support Services), 2025 Edition.
 
 ## Full text
 

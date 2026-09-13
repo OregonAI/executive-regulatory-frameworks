@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-197a.386
-title: "Crisis stabilization centers (Housing Generally)"
+title: "Crisis stabilization centers"
 doc_type: statute
 citation: "ORS 197A.386"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-197a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Crisis stabilization centers (Housing Generally) (ORS 197A.386)
+# Crisis stabilization centers (ORS 197A.386)
 
 ## At a glance
 
-ORS 197A.386 — Crisis stabilization centers (Housing Generally). Chapter 197A (Chapter 197A), 2025 Edition.
+ORS 197A.386 — Crisis stabilization centers. Chapter 197A (Chapter 197A), 2025 Edition.
 
 ## Full text
 

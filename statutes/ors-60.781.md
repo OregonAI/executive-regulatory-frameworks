@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-60.781
-title: "Court-ordered inspection (Reports)"
+title: "Court-ordered inspection"
 doc_type: statute
 citation: "ORS 60.781"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-60"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors060.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Court-ordered inspection (Reports) (ORS 60.781)
+# Court-ordered inspection (ORS 60.781)
 
 ## At a glance
 
-ORS 60.781 — Court-ordered inspection (Reports). Chapter 60 (Private Corporations), 2025 Edition.
+ORS 60.781 — Court-ordered inspection. Chapter 60 (Private Corporations), 2025 Edition.
 
 ## Full text
 

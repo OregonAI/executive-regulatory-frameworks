@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-59.051
-title: "Statutory references to federal law (Registration of Securities)"
+title: "Statutory references to federal law"
 doc_type: statute
 citation: "ORS 59.051"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-59"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors059.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Statutory references to federal law (Registration of Securities) (ORS 59.051)
+# Statutory references to federal law (ORS 59.051)
 
 ## At a glance
 
-ORS 59.051 — Statutory references to federal law (Registration of Securities). Chapter 59 (Securities Regulation), 2025 Edition.
+ORS 59.051 — Statutory references to federal law. Chapter 59 (Securities Regulation), 2025 Edition.
 
 ## Full text
 

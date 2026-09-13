@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-21.205
-title: "Motion fees in domestic relations cases (Fees for Settlement Conferences)"
+title: "Motion fees in domestic relations cases"
 doc_type: statute
 citation: "ORS 21.205"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-21"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors021.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Motion fees in domestic relations cases (Fees for Settlement Conferences) (ORS 21.205)
+# Motion fees in domestic relations cases (ORS 21.205)
 
 ## At a glance
 
-ORS 21.205 — Motion fees in domestic relations cases (Fees for Settlement Conferences). Chapter 21 (State Court Fees), 2025 Edition.
+ORS 21.205 — Motion fees in domestic relations cases. Chapter 21 (State Court Fees), 2025 Edition.
 
 ## Full text
 

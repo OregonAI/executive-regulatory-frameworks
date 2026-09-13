@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-94.595
-title: "Reserve account for maintaining, repairing and replacing common property; reserve study; maintenance plan (Declarant Control; Turnover of Administrative Control"
+title: "Reserve account for maintaining, repairing and replacing common property; reserve study; maintenance plan"
 doc_type: statute
 citation: "ORS 94.595"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-94"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors094.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Reserve account for maintaining, repairing and replacing common property; reserve study; maintenance plan (Declarant Control; Turnover of Administrative Control (ORS 94.595)
+# Reserve account for maintaining, repairing and replacing common property; reserve study; maintenance plan (ORS 94.595)
 
 ## At a glance
 
-ORS 94.595 — Reserve account for maintaining, repairing and replacing common property; reserve study; maintenance plan (Declarant Control; Turnover of Administrative Control. Chapter 94 (Real Property Development), 2025 Edition.
+ORS 94.595 — Reserve account for maintaining, repairing and replacing common property; reserve study; maintenance plan. Chapter 94 (Real Property Development), 2025 Edition.
 
 ## Full text
 

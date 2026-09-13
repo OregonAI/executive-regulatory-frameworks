@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419b.194
-title: "Participation in extracurricular activities; reasonable and prudent parent standard; fees; rules (Counsel)"
+title: "Participation in extracurricular activities; reasonable and prudent parent standard; fees; rules"
 doc_type: statute
 citation: "ORS 419B.194"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Participation in extracurricular activities; reasonable and prudent parent standard; fees; rules (Counsel) (ORS 419B.194)
+# Participation in extracurricular activities; reasonable and prudent parent standard; fees; rules (ORS 419B.194)
 
 ## At a glance
 
-ORS 419B.194 — Participation in extracurricular activities; reasonable and prudent parent standard; fees; rules (Counsel). Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.194 — Participation in extracurricular activities; reasonable and prudent parent standard; fees; rules. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

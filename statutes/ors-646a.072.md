@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.072
-title: "Exceptions to disclosure requirements (Retail Pet Stores)"
+title: "Exceptions to disclosure requirements"
 doc_type: statute
 citation: "ORS 646A.072"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Exceptions to disclosure requirements (Retail Pet Stores) (ORS 646A.072)
+# Exceptions to disclosure requirements (ORS 646A.072)
 
 ## At a glance
 
-ORS 646A.072 — Exceptions to disclosure requirements (Retail Pet Stores). Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.072 — Exceptions to disclosure requirements. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

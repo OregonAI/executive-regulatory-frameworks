@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-60.587
-title: "Procedure if shareholder dissatisfied with payment or offer (Judicial Appraisal of Shares)"
+title: "Procedure if shareholder dissatisfied with payment or offer"
 doc_type: statute
 citation: "ORS 60.587"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-60"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors060.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Procedure if shareholder dissatisfied with payment or offer (Judicial Appraisal of Shares) (ORS 60.587)
+# Procedure if shareholder dissatisfied with payment or offer (ORS 60.587)
 
 ## At a glance
 
-ORS 60.587 — Procedure if shareholder dissatisfied with payment or offer (Judicial Appraisal of Shares). Chapter 60 (Private Corporations), 2025 Edition.
+ORS 60.587 — Procedure if shareholder dissatisfied with payment or offer. Chapter 60 (Private Corporations), 2025 Edition.
 
 ## Full text
 

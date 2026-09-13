@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.570
-title: "Prompt payment policy; progress payments; retainage; interest; exception; settlement of compensation disputes (Subcontractors)"
+title: "Prompt payment policy; progress payments; retainage; interest; exception; settlement of compensation disputes"
 doc_type: statute
 citation: "ORS 279C.570"
 authority_level: statute
@@ -53,11 +53,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Prompt payment policy; progress payments; retainage; interest; exception; settlement of compensation disputes (Subcontractors) (ORS 279C.570)
+# Prompt payment policy; progress payments; retainage; interest; exception; settlement of compensation disputes (ORS 279C.570)
 
 ## At a glance
 
-ORS 279C.570 — Prompt payment policy; progress payments; retainage; interest; exception; settlement of compensation disputes (Subcontractors). Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.570 — Prompt payment policy; progress payments; retainage; interest; exception; settlement of compensation disputes. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

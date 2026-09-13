@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-197a.440
-title: "Replacement of park destroyed by natural disaster (Affordable Housing and Emergency Shelters)"
+title: "Replacement of park destroyed by natural disaster"
 doc_type: statute
 citation: "ORS 197A.440"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-197a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Replacement of park destroyed by natural disaster (Affordable Housing and Emergency Shelters) (ORS 197A.440)
+# Replacement of park destroyed by natural disaster (ORS 197A.440)
 
 ## At a glance
 
-ORS 197A.440 — Replacement of park destroyed by natural disaster (Affordable Housing and Emergency Shelters). Chapter 197A (Chapter 197A), 2025 Edition.
+ORS 197A.440 — Replacement of park destroyed by natural disaster. Chapter 197A (Chapter 197A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475a.477
-title: "Grounds for revocation, suspension or restriction of license (Employees and Other Workers)"
+title: "Grounds for revocation, suspension or restriction of license"
 doc_type: statute
 citation: "ORS 475A.477"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Grounds for revocation, suspension or restriction of license (Employees and Other Workers) (ORS 475A.477)
+# Grounds for revocation, suspension or restriction of license (ORS 475A.477)
 
 ## At a glance
 
-ORS 475A.477 — Grounds for revocation, suspension or restriction of license (Employees and Other Workers). Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.477 — Grounds for revocation, suspension or restriction of license. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 

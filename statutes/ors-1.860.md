@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-1.860
-title: "Reports relating to municipal courts and justice courts COURTS"
+title: "Reports relating to municipal courts and justice courts"
 doc_type: statute
 citation: "ORS 1.860"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-1"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors001.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Reports relating to municipal courts and justice courts COURTS (ORS 1.860)
+# Reports relating to municipal courts and justice courts (ORS 1.860)
 
 ## At a glance
 
-ORS 1.860 — Reports relating to municipal courts and justice courts COURTS. Chapter 1 (Courts and Judicial Officers Generally), 2025 Edition.
+ORS 1.860 — Reports relating to municipal courts and justice courts. Chapter 1 (Courts and Judicial Officers Generally), 2025 Edition.
 
 ## Full text
 

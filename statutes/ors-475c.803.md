@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.803
-title: "Marijuana grow site security systems (Possession Limits for Registry Identification Cardholders, Designated Primary Caregivers and Marijuana Grow Sites)"
+title: "Marijuana grow site security systems"
 doc_type: statute
 citation: "ORS 475C.803"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Marijuana grow site security systems (Possession Limits for Registry Identification Cardholders, Designated Primary Caregivers and Marijuana Grow Sites) (ORS 475C.803)
+# Marijuana grow site security systems (ORS 475C.803)
 
 ## At a glance
 
-ORS 475C.803 — Marijuana grow site security systems (Possession Limits for Registry Identification Cardholders, Designated Primary Caregivers and Marijuana Grow Sites). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.803 — Marijuana grow site security systems. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

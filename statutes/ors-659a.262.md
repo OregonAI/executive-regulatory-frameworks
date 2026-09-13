@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.262
-title: "Warrant on behalf of person entitled to access to housing; vacation of warrant; rules PROTECTIONS BECAUSE OF DOMESTIC VIOLENCE, HARASSMENT, SEXUAL ASSAULT, BIAS"
+title: "Warrant on behalf of person entitled to access to housing; vacation of warrant; rules"
 doc_type: statute
 citation: "ORS 659A.262"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Warrant on behalf of person entitled to access to housing; vacation of warrant; rules PROTECTIONS BECAUSE OF DOMESTIC VIOLENCE, HARASSMENT, SEXUAL ASSAULT, BIAS (ORS 659A.262)
+# Warrant on behalf of person entitled to access to housing; vacation of warrant; rules (ORS 659A.262)
 
 ## At a glance
 
-ORS 659A.262 — Warrant on behalf of person entitled to access to housing; vacation of warrant; rules PROTECTIONS BECAUSE OF DOMESTIC VIOLENCE, HARASSMENT, SEXUAL ASSAULT, BIAS. Chapter 659A (Unlawful Discrimination in Employment, Public Accommodations and Real Property Transactions; Administrative and Civil Enforcement), 2025 Edition.
+ORS 659A.262 — Warrant on behalf of person entitled to access to housing; vacation of warrant; rules. Chapter 659A (Unlawful Discrimination in Employment, Public Accommodations and Real Property Transactions; Administrative and Civil Enforcement), 2025 Edition.
 
 ## Full text
 

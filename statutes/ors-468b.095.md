@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468b.095
-title: "Use of sludge on agricultural, horticultural or silvicultural land; rules (Forest Operations)"
+title: "Use of sludge on agricultural, horticultural or silvicultural land; rules"
 doc_type: statute
 citation: "ORS 468B.095"
 authority_level: statute
@@ -48,11 +48,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Use of sludge on agricultural, horticultural or silvicultural land; rules (Forest Operations) (ORS 468B.095)
+# Use of sludge on agricultural, horticultural or silvicultural land; rules (ORS 468B.095)
 
 ## At a glance
 
-ORS 468B.095 — Use of sludge on agricultural, horticultural or silvicultural land; rules (Forest Operations). Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.095 — Use of sludge on agricultural, horticultural or silvicultural land; rules. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 

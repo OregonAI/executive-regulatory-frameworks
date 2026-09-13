@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-657b.339
-title: "Authority of director to compromise de minimis program debts and interest and penalties, retain de minimis overpayments; uncollectible accounts; recordkeeping E"
+title: "Authority of director to compromise de minimis program debts and interest and penalties, retain de minimis overpayments; uncollectible accounts; recordkeeping"
 doc_type: statute
 citation: "ORS 657B.339"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-657b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors657b.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Authority of director to compromise de minimis program debts and interest and penalties, retain de minimis overpayments; uncollectible accounts; recordkeeping E (ORS 657B.339)
+# Authority of director to compromise de minimis program debts and interest and penalties, retain de minimis overpayments; uncollectible accounts; recordkeeping (ORS 657B.339)
 
 ## At a glance
 
-ORS 657B.339 — Authority of director to compromise de minimis program debts and interest and penalties, retain de minimis overpayments; uncollectible accounts; recordkeeping E. Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
+ORS 657B.339 — Authority of director to compromise de minimis program debts and interest and penalties, retain de minimis overpayments; uncollectible accounts; recordkeeping. Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
 
 ## Full text
 

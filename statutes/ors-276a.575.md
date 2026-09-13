@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-276a.575
-title: "Oregon Cybersecurity Grant Program Fund; standards and requirements; biennial report OFFICE OF ENTERPRISE INFORMATION SERVICES (State Chief Information Officer)"
+title: "Oregon Cybersecurity Grant Program Fund; standards and requirements; biennial report"
 doc_type: statute
 citation: "ORS 276A.575"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-276a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html> (retrieved 2026-07-23, 2025 Edition).
 
-# Oregon Cybersecurity Grant Program Fund; standards and requirements; biennial report OFFICE OF ENTERPRISE INFORMATION SERVICES (State Chief Information Officer) (ORS 276A.575)
+# Oregon Cybersecurity Grant Program Fund; standards and requirements; biennial report (ORS 276A.575)
 
 ## At a glance
 
-ORS 276A.575 — Oregon Cybersecurity Grant Program Fund; standards and requirements; biennial report OFFICE OF ENTERPRISE INFORMATION SERVICES (State Chief Information Officer). Chapter 276A (Information Technology), 2025 Edition.
+ORS 276A.575 — Oregon Cybersecurity Grant Program Fund; standards and requirements; biennial report. Chapter 276A (Information Technology), 2025 Edition.
 
 ## Full text
 

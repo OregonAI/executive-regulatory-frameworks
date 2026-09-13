@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-79a.4090
-title: "UCC 9-409. Restrictions on assignment of letter-of-credit rights ineffective FILING (Filing Office; Contents and Effectiveness of Financing Statement)"
+title: "UCC 9-409. Restrictions on assignment of letter-of-credit rights ineffective"
 doc_type: statute
 citation: "ORS 79A.4090"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-79a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors079a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# UCC 9-409. Restrictions on assignment of letter-of-credit rights ineffective FILING (Filing Office; Contents and Effectiveness of Financing Statement) (ORS 79A.4090)
+# UCC 9-409. Restrictions on assignment of letter-of-credit rights ineffective (ORS 79A.4090)
 
 ## At a glance
 
-ORS 79A.4090 — UCC 9-409. Restrictions on assignment of letter-of-credit rights ineffective FILING (Filing Office; Contents and Effectiveness of Financing Statement). Chapter 79A (Secured Transactions), 2025 Edition.
+ORS 79A.4090 — UCC 9-409. Restrictions on assignment of letter-of-credit rights ineffective. Chapter 79A (Secured Transactions), 2025 Edition.
 
 ## Full text
 

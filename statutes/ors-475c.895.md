@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.895
-title: "Civil penalty for violating ORS 475C.770 to 475C.919 (Regulation by Cities and Counties of Cannabis for Medical Use)"
+title: "Civil penalty for violating ORS 475C.770 to 475C.919"
 doc_type: statute
 citation: "ORS 475C.895"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Civil penalty for violating ORS 475C.770 to 475C.919 (Regulation by Cities and Counties of Cannabis for Medical Use) (ORS 475C.895)
+# Civil penalty for violating ORS 475C.770 to 475C.919 (ORS 475C.895)
 
 ## At a glance
 
-ORS 475C.895 — Civil penalty for violating ORS 475C.770 to 475C.919 (Regulation by Cities and Counties of Cannabis for Medical Use). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.895 — Civil penalty for violating ORS 475C.770 to 475C.919. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

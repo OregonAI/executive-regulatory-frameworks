@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-21.258
-title: "Fees for other court services (Fees Not Collectible From Public Bodies)"
+title: "Fees for other court services"
 doc_type: statute
 citation: "ORS 21.258"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-21"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors021.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Fees for other court services (Fees Not Collectible From Public Bodies) (ORS 21.258)
+# Fees for other court services (ORS 21.258)
 
 ## At a glance
 
-ORS 21.258 — Fees for other court services (Fees Not Collectible From Public Bodies). Chapter 21 (State Court Fees), 2025 Edition.
+ORS 21.258 — Fees for other court services. Chapter 21 (State Court Fees), 2025 Edition.
 
 ## Full text
 

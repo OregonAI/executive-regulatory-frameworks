@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419b.408
-title: "Enforcement of support order (Reports by Guardians and Custodians)"
+title: "Enforcement of support order"
 doc_type: statute
 citation: "ORS 419B.408"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Enforcement of support order (Reports by Guardians and Custodians) (ORS 419B.408)
+# Enforcement of support order (ORS 419B.408)
 
 ## At a glance
 
-ORS 419B.408 — Enforcement of support order (Reports by Guardians and Custodians). Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.408 — Enforcement of support order. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 
