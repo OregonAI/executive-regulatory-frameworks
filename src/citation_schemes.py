@@ -613,15 +613,38 @@ import sys as _sys
 
 _sys.path.insert(0, str(_pathlib.Path(__file__).resolve().parent))
 from federal_ids import CFR as _F_CFR, CJIS as _F_CJIS, IRSPUB as _F_IRS, PUBLAW as _F_PL  # noqa: E402
+from federal_ids import USC as _F_USC  # noqa: E402
 from federal_ids import candidates as _federal_ids  # noqa: E402
 
-# THE SAME #202 TRAP, measured live here too: all four of CFR/PUBLAW/IRSPUB/CJIS declare
-# re.I on the compiled object, and `register_scheme(_name, _rx.pattern, ...)` handed the
-# toolkit the pattern STRING, which it compiled itself with no flags -- `2 cfr 200.332`
-# matched none of these schemes while `2 CFR 200.332` matched federal-cfr. Fixed the same
-# way as the six schemes above: pass `_rx`, the compiled object, not `_rx.pattern`.
+# THE SAME #202 TRAP, measured live here too: all five of CFR/PUBLAW/IRSPUB/CJIS/USC
+# declare re.I on the compiled object, and `register_scheme(_name, _rx.pattern, ...)`
+# handed the toolkit the pattern STRING, which it compiled itself with no flags -- `2 cfr
+# 200.332` matched none of these schemes while `2 CFR 200.332` matched federal-cfr. Fixed
+# the same way as the six schemes above: pass `_rx`, the compiled object, not `_rx.pattern`.
+#
+# ERF#400: `federal-usc` registers `federal_ids.USC` — present in `federal_ids.py` and its
+# own `candidates()` since federal-reference#93/ADR-0006, imported by nobody here until
+# now, so a bare `20 U.S.C. 1232g` matched none of the four schemes above and never
+# reached the resolver at all. federal-reference holds only ONE U.S.C. section today
+# (20 USC 1232g, FERPA) against 66 distinct sections this corpus cites, so most of these
+# citations still resolve to nothing — that is `federal-reference`'s coverage, measured
+# and expected, not a defect here. What this registration fixes is that the ones it DOES
+# hold now reach it, and the ones it does not get the same honest sibling-corpus wording
+# every other federal scheme already gets from `resolve_citation`'s `_resolve_in_sibling`
+# path: "sibling corpus's index loaded, but it holds no document with id(s) ..." — never
+# "does not exist" (AGENTS.md's overriding rule; federal-reference#61 is the same hazard
+# in the other direction, for federal-reference's OWN local refusal text, not this one).
+#
+# REGISTERED ALONGSIDE THE OTHER FOUR, not reordered ahead of or behind PUBLAW: the
+# resolver for every one of these five schemes is the SAME function,
+# `federal_ids.candidates()`, which checks its USC branch before its PUBLAW branch and
+# returns on the first hit — so a citation naming both a U.S.C. section and a public law
+# always derives the U.S.C. section's id, regardless of which scheme's pattern happened to
+# match first. ADR-0004's rule survives ADR-0006's supersession: a U.S.C. section is never
+# mapped onto the public law that enacted it.
 for _name, _rx in (("federal-cfr", _F_CFR), ("federal-public-law", _F_PL),
-                   ("federal-irs-pub", _F_IRS), ("federal-cjis", _F_CJIS)):
+                   ("federal-irs-pub", _F_IRS), ("federal-cjis", _F_CJIS),
+                   ("federal-usc", _F_USC)):
     register_scheme(_name, _rx,
                     # m.string, NOT m.group(0). group(0) is only the substring the
                     # instrument pattern matched, so `IRS Pub 1075 (Rev. 09-2016)` arrived
@@ -795,6 +818,7 @@ def _selftest() -> int:
         _proof_the_citation_resolves_end_to_end(ck, fw)
         _proof_flagged_schemes_survive_registration(ck, fw)
         _proof_federal_schemes_survive_registration(ck, fw)
+        _proof_usc_scheme_derives_the_right_section_id(ck, fw)
         _proof_ors_unmirrored_chapter_states_absence(ck, fw)
         _proof_ors_chapter_and_section_widths(ck, fw)
         _proof_ors_does_not_shadow_das_oam_number(ck, fw)
@@ -1334,6 +1358,7 @@ def _proof_federal_schemes_survive_registration(ck, fw):
         # flag. The revision makes the id deterministic and the case pure.
         ("federal-irs-pub", "IRS Pub 1075 (Rev. 09-2016)", "irs pub 1075 (rev. 09-2016)"),
         ("federal-cjis", "CJIS Security Policy v5.9", "cjis security policy v5.9"),
+        ("federal-usc", "20 U.S.C. 1232g", "20 usc 1232g"),
     ]
     for scheme, upper, lower in cases:
         _, _, cands_upper, _ = fw._match_schemes(upper)
@@ -1342,6 +1367,52 @@ def _proof_federal_schemes_survive_registration(ck, fw):
         _, _, cands_lower, _ = fw._match_schemes(lower)
         ck(f"{scheme}: {lower!r} matches THE SAME WAY — the flag reached the served table",
            cands_lower == cands_upper)
+
+
+def _proof_usc_scheme_derives_the_right_section_id(ck, fw):
+    """ERF#400: `federal-usc` registers `federal_ids.USC` against the
+    `federal-reference` sibling, the same way CFR/PUBLAW/IRSPUB/CJIS already do. Through
+    `fw._match_schemes` — id derivation, not network sibling resolution — for the same
+    reason `_proof_federal_schemes_survive_registration` stays off the network: these
+    candidates live in `federal-reference`, reached only via `siblings:` in corpus.yml,
+    which this gate does not have and should not depend on to stay green.
+
+    FOUR THINGS THE ISSUE NAMED, each a real substitution this pattern's own comment
+    warns about, not a hypothetical:
+
+      * a lowercase citation still derives the section (case-insensitivity reaches the
+        served table, same #202 shape as every other federal scheme);
+      * the `§` form derives the same section a spelled-out `U.S.C.` does;
+      * the HYPHEN SUFFIX survives: `1320d-2` is a different, real section from `1320d`,
+        and a resolver that dropped the suffix would silently substitute one for the
+        other — the exact failure `federal_ids.USC`'s own comment exists to prevent, one
+        layer up from the pattern itself;
+      * a citation naming BOTH a U.S.C. section and a public law resolves to the U.S.C.
+        section only — `federal_ids.candidates()` checks its USC branch before its PUBLAW
+        branch and returns on the first hit, and both `federal-usc` and
+        `federal-public-law` call that same function, so `_match_schemes`'s merge (which
+        unions candidates across schemes targeting the same sibling corpus) can never
+        surface a `pl-` id here. ADR-0004's rule survives ADR-0006's supersession: a
+        codified section is never mapped onto the enacted public law that created it."""
+    _, corpus, cands, _ = fw._match_schemes("20 U.S.C. 1232g")
+    ck("federal-usc targets the federal-reference sibling", corpus == "federal-reference")
+    ck("'20 U.S.C. 1232g' derives the section's own id",
+       cands == ["20-usc-1232g"])
+
+    _, _, cands, _ = fw._match_schemes("42 usc 1320d-2")
+    ck("a lowercase citation with a hyphen suffix still derives the section",
+       cands == ["42-usc-1320d-2"])
+    ck("...and does NOT truncate to the different, real section '1320d' would name",
+       "42-usc-1320d" not in cands)
+
+    _, _, cands, _ = fw._match_schemes("29 USC § 3101")
+    ck("the '§' form derives the same shape of id", cands == ["29-usc-3101"])
+
+    _, _, cands, note = fw._match_schemes("42 U.S.C. 1320d-2 (Pub. L. 104-191)")
+    ck("a citation naming both a U.S.C. section and a public law resolves to the U.S.C. "
+       "section only", cands == ["42-usc-1320d-2"])
+    ck("...and never aliases it onto the public law's id",
+       "pl-104-191" not in cands)
 
 
 if __name__ == "__main__":
