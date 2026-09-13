@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-79a.4060
-title: "UCC 9-406. Discharge of account debtor; notification of assignment; identification and proof of assignment; restrictions on assignment of accounts, chattel pape"
+title: "UCC 9-406. Discharge of account debtor; notification of assignment; identification and proof of assignment; restrictions on assignment of accounts, chattel paper, payment intangibles and promissory notes ineffective"
 doc_type: statute
 citation: "ORS 79A.4060"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-79a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors079a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# UCC 9-406. Discharge of account debtor; notification of assignment; identification and proof of assignment; restrictions on assignment of accounts, chattel pape (ORS 79A.4060)
+# UCC 9-406. Discharge of account debtor; notification of assignment; identification and proof of assignment; restrictions on assignment of accounts, chattel paper, payment intangibles and promissory notes ineffective (ORS 79A.4060)
 
 ## At a glance
 
-ORS 79A.4060 — UCC 9-406. Discharge of account debtor; notification of assignment; identification and proof of assignment; restrictions on assignment of accounts, chattel pape. Chapter 79A (Secured Transactions), 2025 Edition.
+ORS 79A.4060 — UCC 9-406. Discharge of account debtor; notification of assignment; identification and proof of assignment; restrictions on assignment of accounts, chattel paper, payment intangibles and promissory notes ineffective. Chapter 79A (Secured Transactions), 2025 Edition.
 
 ## Full text
 

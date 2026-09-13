@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-276a.421
-title: "Provision of broadband services that compete with services of private telecommunications provider; circumstances of competition; broadband services advisory com"
+title: "Provision of broadband services that compete with services of private telecommunications provider; circumstances of competition; broadband services advisory committee; rules"
 doc_type: statute
 citation: "ORS 276A.421"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-276a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors276A.html> (retrieved 2026-07-23, 2025 Edition).
 
-# Provision of broadband services that compete with services of private telecommunications provider; circumstances of competition; broadband services advisory com (ORS 276A.421)
+# Provision of broadband services that compete with services of private telecommunications provider; circumstances of competition; broadband services advisory committee; rules (ORS 276A.421)
 
 ## At a glance
 
-ORS 276A.421 — Provision of broadband services that compete with services of private telecommunications provider; circumstances of competition; broadband services advisory com. Chapter 276A (Information Technology), 2025 Edition.
+ORS 276A.421 — Provision of broadband services that compete with services of private telecommunications provider; circumstances of competition; broadband services advisory committee; rules. Chapter 276A (Information Technology), 2025 Edition.
 
 ## Full text
 

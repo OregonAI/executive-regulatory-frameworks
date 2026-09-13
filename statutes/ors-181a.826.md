@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-181a.826
-title: "Prohibition on use of public resources for immigration enforcement; documentation; submission to Oregon Criminal Justice Commission; website; disclosure to Depa"
+title: "Prohibition on use of public resources for immigration enforcement; documentation; submission to Oregon Criminal Justice Commission; website; disclosure to Department of Justice; reporting requirements; civil action"
 doc_type: statute
 citation: "ORS 181A.826"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Prohibition on use of public resources for immigration enforcement; documentation; submission to Oregon Criminal Justice Commission; website; disclosure to Depa (ORS 181A.826)
+# Prohibition on use of public resources for immigration enforcement; documentation; submission to Oregon Criminal Justice Commission; website; disclosure to Department of Justice; reporting requirements; civil action (ORS 181A.826)
 
 ## At a glance
 
-ORS 181A.826 — Prohibition on use of public resources for immigration enforcement; documentation; submission to Oregon Criminal Justice Commission; website; disclosure to Depa. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.826 — Prohibition on use of public resources for immigration enforcement; documentation; submission to Oregon Criminal Justice Commission; website; disclosure to Department of Justice; reporting requirements; civil action. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

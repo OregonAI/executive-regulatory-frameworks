@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-93.040
-title: "Mandatory statements for sales agreements, earnest money receipts or other instruments for conveyance of fee title to real property; liability of drafter and re"
+title: "Mandatory statements for sales agreements, earnest money receipts or other instruments for conveyance of fee title to real property; liability of drafter and recorder"
 doc_type: statute
 citation: "ORS 93.040"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-93"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors093.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Mandatory statements for sales agreements, earnest money receipts or other instruments for conveyance of fee title to real property; liability of drafter and re (ORS 93.040)
+# Mandatory statements for sales agreements, earnest money receipts or other instruments for conveyance of fee title to real property; liability of drafter and recorder (ORS 93.040)
 
 ## At a glance
 
-ORS 93.040 — Mandatory statements for sales agreements, earnest money receipts or other instruments for conveyance of fee title to real property; liability of drafter and re. Chapter 93 (Conveyancing and Recording), 2025 Edition.
+ORS 93.040 — Mandatory statements for sales agreements, earnest money receipts or other instruments for conveyance of fee title to real property; liability of drafter and recorder. Chapter 93 (Conveyancing and Recording), 2025 Edition.
 
 ## Full text
 

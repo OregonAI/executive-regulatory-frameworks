@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743a.168
-title: "Behavioral health treatment; qualified providers; rules Note Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.411 §7"
+title: "Behavioral health treatment; qualified providers; rules"
 doc_type: statute
 citation: "ORS 743A.168"
 authority_level: statute
@@ -123,11 +123,11 @@ tags: ["ors", "chapter-743a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Behavioral health treatment; qualified providers; rules Note Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.411 §7 (ORS 743A.168)
+# Behavioral health treatment; qualified providers; rules (ORS 743A.168)
 
 ## At a glance
 
-ORS 743A.168 — Behavioral health treatment; qualified providers; rules Note Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.411 §7. Chapter 743A (Chapter 743A), 2025 Edition.
+ORS 743A.168 — Behavioral health treatment; qualified providers; rules. Chapter 743A (Chapter 743A), 2025 Edition.
 
 ## Full text
 

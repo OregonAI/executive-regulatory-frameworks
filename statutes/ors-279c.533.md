@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.533
-title: "Minimum hours and pay for apprentices employed on public improvements; contractor’s plan for outreach to and recruitment and retention of COBID-certified busine"
+title: "Minimum hours and pay for apprentices employed on public improvements; contractor’s plan for outreach to and recruitment and retention of COBID-certified businesses; reporting; enforcement; rules"
 doc_type: statute
 citation: "ORS 279C.533"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Minimum hours and pay for apprentices employed on public improvements; contractor’s plan for outreach to and recruitment and retention of COBID-certified busine (ORS 279C.533)
+# Minimum hours and pay for apprentices employed on public improvements; contractor’s plan for outreach to and recruitment and retention of COBID-certified businesses; reporting; enforcement; rules (ORS 279C.533)
 
 ## At a glance
 
-ORS 279C.533 — Minimum hours and pay for apprentices employed on public improvements; contractor’s plan for outreach to and recruitment and retention of COBID-certified busine. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.533 — Minimum hours and pay for apprentices employed on public improvements; contractor’s plan for outreach to and recruitment and retention of COBID-certified businesses; reporting; enforcement; rules. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

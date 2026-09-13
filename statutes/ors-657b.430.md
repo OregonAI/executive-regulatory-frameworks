@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-657b.430
-title: "Paid Family and Medical Leave Insurance Fund Note Solvency of fund--2023 c.66 §§2,3 Note Periodic assessments regarding solvency of fund; adjustments to benefit"
+title: "Paid Family and Medical Leave Insurance Fund"
 doc_type: statute
 citation: "ORS 657B.430"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-657b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors657b.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Paid Family and Medical Leave Insurance Fund Note Solvency of fund--2023 c.66 §§2,3 Note Periodic assessments regarding solvency of fund; adjustments to benefit (ORS 657B.430)
+# Paid Family and Medical Leave Insurance Fund (ORS 657B.430)
 
 ## At a glance
 
-ORS 657B.430 — Paid Family and Medical Leave Insurance Fund Note Solvency of fund--2023 c.66 §§2,3 Note Periodic assessments regarding solvency of fund; adjustments to benefit. Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
+ORS 657B.430 — Paid Family and Medical Leave Insurance Fund. Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
 
 ## Full text
 

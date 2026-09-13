@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.427
-title: "Nonquantitative treatment limitations on coverage of behavioral health conditions; carrier reporting requirements; confidentiality; summary annually reported to"
+title: "Nonquantitative treatment limitations on coverage of behavioral health conditions; carrier reporting requirements; confidentiality; summary annually reported to legislative committees"
 doc_type: statute
 citation: "ORS 743B.427"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Nonquantitative treatment limitations on coverage of behavioral health conditions; carrier reporting requirements; confidentiality; summary annually reported to (ORS 743B.427)
+# Nonquantitative treatment limitations on coverage of behavioral health conditions; carrier reporting requirements; confidentiality; summary annually reported to legislative committees (ORS 743B.427)
 
 ## At a glance
 
-ORS 743B.427 — Nonquantitative treatment limitations on coverage of behavioral health conditions; carrier reporting requirements; confidentiality; summary annually reported to. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.427 — Nonquantitative treatment limitations on coverage of behavioral health conditions; carrier reporting requirements; confidentiality; summary annually reported to legislative committees. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

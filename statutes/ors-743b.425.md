@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.425
-title: "Prohibited restrictions on coverage of treatment for opioid or opiate withdrawal, post-exposure and preexposure prophylactic antiretroviral drugs and drugs for "
+title: "Prohibited restrictions on coverage of treatment for opioid or opiate withdrawal, post-exposure and preexposure prophylactic antiretroviral drugs and drugs for treatment of human immunodeficiency virus or acquired immunodeficiency syndrome; exceptions"
 doc_type: statute
 citation: "ORS 743B.425"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Prohibited restrictions on coverage of treatment for opioid or opiate withdrawal, post-exposure and preexposure prophylactic antiretroviral drugs and drugs for  (ORS 743B.425)
+# Prohibited restrictions on coverage of treatment for opioid or opiate withdrawal, post-exposure and preexposure prophylactic antiretroviral drugs and drugs for treatment of human immunodeficiency virus or acquired immunodeficiency syndrome; exceptions (ORS 743B.425)
 
 ## At a glance
 
-ORS 743B.425 — Prohibited restrictions on coverage of treatment for opioid or opiate withdrawal, post-exposure and preexposure prophylactic antiretroviral drugs and drugs for . Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.425 — Prohibited restrictions on coverage of treatment for opioid or opiate withdrawal, post-exposure and preexposure prophylactic antiretroviral drugs and drugs for treatment of human immunodeficiency virus or acquired immunodeficiency syndrome; exceptions. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

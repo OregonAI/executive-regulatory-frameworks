@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285b.130
-title: "Loans from Small Business Expansion Loan Fund; application fees; eligibility; loan agreements; loan limits; moneys reserved for low to moderate income applicant"
+title: "Loans from Small Business Expansion Loan Fund; application fees; eligibility; loan agreements; loan limits; moneys reserved for low to moderate income applicants; rules"
 doc_type: statute
 citation: "ORS 285B.130"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Loans from Small Business Expansion Loan Fund; application fees; eligibility; loan agreements; loan limits; moneys reserved for low to moderate income applicant (ORS 285B.130)
+# Loans from Small Business Expansion Loan Fund; application fees; eligibility; loan agreements; loan limits; moneys reserved for low to moderate income applicants; rules (ORS 285B.130)
 
 ## At a glance
 
-ORS 285B.130 — Loans from Small Business Expansion Loan Fund; application fees; eligibility; loan agreements; loan limits; moneys reserved for low to moderate income applicant. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.130 — Loans from Small Business Expansion Loan Fund; application fees; eligibility; loan agreements; loan limits; moneys reserved for low to moderate income applicants; rules. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

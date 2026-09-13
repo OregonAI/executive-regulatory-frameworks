@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-12.118
-title: "Action based on conduct that constitutes sexual assault of adult or conduct allowing, permitting or encouraging sexual assault of adult (Temporary provisions re"
+title: "Action based on conduct that constitutes sexual assault of adult or conduct allowing, permitting or encouraging sexual assault of adult (Temporary provisions relating to applicability of ORS"
 doc_type: statute
 citation: "ORS 12.118"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-12"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors012.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Action based on conduct that constitutes sexual assault of adult or conduct allowing, permitting or encouraging sexual assault of adult (Temporary provisions re (ORS 12.118)
+# Action based on conduct that constitutes sexual assault of adult or conduct allowing, permitting or encouraging sexual assault of adult (Temporary provisions relating to applicability of ORS (ORS 12.118)
 
 ## At a glance
 
-ORS 12.118 — Action based on conduct that constitutes sexual assault of adult or conduct allowing, permitting or encouraging sexual assault of adult (Temporary provisions re. Chapter 12 (Limitations of Actions and Suits), 2025 Edition.
+ORS 12.118 — Action based on conduct that constitutes sexual assault of adult or conduct allowing, permitting or encouraging sexual assault of adult (Temporary provisions relating to applicability of ORS. Chapter 12 (Limitations of Actions and Suits), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-97.237
-title: "Veterans’ remains coordinator to report to county veterans’ service officer before interment of eligible decedent; officer to maintain record of reported inform"
+title: "Veterans’ remains coordinator to report to county veterans’ service officer before interment of eligible decedent; officer to maintain record of reported information"
 doc_type: statute
 citation: "ORS 97.237"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-97"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors097.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Veterans’ remains coordinator to report to county veterans’ service officer before interment of eligible decedent; officer to maintain record of reported inform (ORS 97.237)
+# Veterans’ remains coordinator to report to county veterans’ service officer before interment of eligible decedent; officer to maintain record of reported information (ORS 97.237)
 
 ## At a glance
 
-ORS 97.237 — Veterans’ remains coordinator to report to county veterans’ service officer before interment of eligible decedent; officer to maintain record of reported inform. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
+ORS 97.237 — Veterans’ remains coordinator to report to county veterans’ service officer before interment of eligible decedent; officer to maintain record of reported information. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
 
 ## Full text
 

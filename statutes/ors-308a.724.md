@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-308a.724
-title: "Application for change of special assessment following disqualification; time for meeting farm use income requirements; application due dates; limitation on spe"
+title: "Application for change of special assessment following disqualification; time for meeting farm use income requirements; application due dates; limitation on special assessments for disqualified wildlife habitat and conservation easement land"
 doc_type: statute
 citation: "ORS 308A.724"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-308a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors308A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Application for change of special assessment following disqualification; time for meeting farm use income requirements; application due dates; limitation on spe (ORS 308A.724)
+# Application for change of special assessment following disqualification; time for meeting farm use income requirements; application due dates; limitation on special assessments for disqualified wildlife habitat and conservation easement land (ORS 308A.724)
 
 ## At a glance
 
-ORS 308A.724 — Application for change of special assessment following disqualification; time for meeting farm use income requirements; application due dates; limitation on spe. Chapter 308A (Chapter 308A), 2025 Edition.
+ORS 308A.724 — Application for change of special assessment following disqualification; time for meeting farm use income requirements; application due dates; limitation on special assessments for disqualified wildlife habitat and conservation easement land. Chapter 308A (Chapter 308A), 2025 Edition.
 
 ## Full text
 

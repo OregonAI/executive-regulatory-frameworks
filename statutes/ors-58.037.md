@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-58.037
-title: "Application to joint and several liability of shareholders of corporation organized under ORS chapter 60 for purpose of rendering professional services; exempti"
+title: "Application to joint and several liability of shareholders of corporation organized under ORS chapter 60 for purpose of rendering professional services; exemption; application to architects"
 doc_type: statute
 citation: "ORS 58.037"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-58"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors058.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Application to joint and several liability of shareholders of corporation organized under ORS chapter 60 for purpose of rendering professional services; exempti (ORS 58.037)
+# Application to joint and several liability of shareholders of corporation organized under ORS chapter 60 for purpose of rendering professional services; exemption; application to architects (ORS 58.037)
 
 ## At a glance
 
-ORS 58.037 — Application to joint and several liability of shareholders of corporation organized under ORS chapter 60 for purpose of rendering professional services; exempti. Chapter 58 (Professional Corporations), 2025 Edition.
+ORS 58.037 — Application to joint and several liability of shareholders of corporation organized under ORS chapter 60 for purpose of rendering professional services; exemption; application to architects. Chapter 58 (Professional Corporations), 2025 Edition.
 
 ## Full text
 

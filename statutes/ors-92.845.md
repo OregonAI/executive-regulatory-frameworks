@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-92.845
-title: "Relationship of subdivision in manufactured dwelling park or mobile home park to planned community statutes and series partition statutes; system development ch"
+title: "Relationship of subdivision in manufactured dwelling park or mobile home park to planned community statutes and series partition statutes; system development charges"
 doc_type: statute
 citation: "ORS 92.845"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-92"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors092.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Relationship of subdivision in manufactured dwelling park or mobile home park to planned community statutes and series partition statutes; system development ch (ORS 92.845)
+# Relationship of subdivision in manufactured dwelling park or mobile home park to planned community statutes and series partition statutes; system development charges (ORS 92.845)
 
 ## At a glance
 
-ORS 92.845 — Relationship of subdivision in manufactured dwelling park or mobile home park to planned community statutes and series partition statutes; system development ch. Chapter 92 (Subdivisions and Partitions), 2025 Edition.
+ORS 92.845 — Relationship of subdivision in manufactured dwelling park or mobile home park to planned community statutes and series partition statutes; system development charges. Chapter 92 (Subdivisions and Partitions), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.010
-title: "Issuance of group health benefit plan to affiliated group of employers; determination of number of employees for purpose of determining eligibility as small emp"
+title: "Issuance of group health benefit plan to affiliated group of employers; determination of number of employees for purpose of determining eligibility as small employer"
 doc_type: statute
 citation: "ORS 743B.010"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Issuance of group health benefit plan to affiliated group of employers; determination of number of employees for purpose of determining eligibility as small emp (ORS 743B.010)
+# Issuance of group health benefit plan to affiliated group of employers; determination of number of employees for purpose of determining eligibility as small employer (ORS 743B.010)
 
 ## At a glance
 
-ORS 743B.010 — Issuance of group health benefit plan to affiliated group of employers; determination of number of employees for purpose of determining eligibility as small emp. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.010 — Issuance of group health benefit plan to affiliated group of employers; determination of number of employees for purpose of determining eligibility as small employer. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

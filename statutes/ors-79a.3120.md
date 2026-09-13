@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-79a.3120
-title: "UCC 9-312. Perfection of security interests in chattel paper, controllable accounts, controllable electronic records, controllable payment intangibles, deposit "
+title: "UCC 9-312. Perfection of security interests in chattel paper, controllable accounts, controllable electronic records, controllable payment intangibles, deposit accounts, documents, goods covered by documents, instruments, investment property, letter-of-credit rights and money; perfection by permissive filing; temporary perfection without filing or transfer of possession"
 doc_type: statute
 citation: "ORS 79A.3120"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-79a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors079a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# UCC 9-312. Perfection of security interests in chattel paper, controllable accounts, controllable electronic records, controllable payment intangibles, deposit  (ORS 79A.3120)
+# UCC 9-312. Perfection of security interests in chattel paper, controllable accounts, controllable electronic records, controllable payment intangibles, deposit accounts, documents, goods covered by documents, instruments, investment property, letter-of-credit rights and money; perfection by permissive filing; temporary perfection without filing or transfer of possession (ORS 79A.3120)
 
 ## At a glance
 
-ORS 79A.3120 — UCC 9-312. Perfection of security interests in chattel paper, controllable accounts, controllable electronic records, controllable payment intangibles, deposit . Chapter 79A (Secured Transactions), 2025 Edition.
+ORS 79A.3120 — UCC 9-312. Perfection of security interests in chattel paper, controllable accounts, controllable electronic records, controllable payment intangibles, deposit accounts, documents, goods covered by documents, instruments, investment property, letter-of-credit rights and money; perfection by permissive filing; temporary perfection without filing or transfer of possession. Chapter 79A (Secured Transactions), 2025 Edition.
 
 ## Full text
 

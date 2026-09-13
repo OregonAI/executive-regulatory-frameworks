@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.104
-title: "Coverage in group health benefit plans; consideration of prospective enrollee health status restricted; effect of discontinuing offer of plans; exceptions; cove"
+title: "Coverage in group health benefit plans; consideration of prospective enrollee health status restricted; effect of discontinuing offer of plans; exceptions; coverage by multiple employer welfare arrangements"
 doc_type: statute
 citation: "ORS 743B.104"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Coverage in group health benefit plans; consideration of prospective enrollee health status restricted; effect of discontinuing offer of plans; exceptions; cove (ORS 743B.104)
+# Coverage in group health benefit plans; consideration of prospective enrollee health status restricted; effect of discontinuing offer of plans; exceptions; coverage by multiple employer welfare arrangements (ORS 743B.104)
 
 ## At a glance
 
-ORS 743B.104 — Coverage in group health benefit plans; consideration of prospective enrollee health status restricted; effect of discontinuing offer of plans; exceptions; cove. Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.104 — Coverage in group health benefit plans; consideration of prospective enrollee health status restricted; effect of discontinuing offer of plans; exceptions; coverage by multiple employer welfare arrangements. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

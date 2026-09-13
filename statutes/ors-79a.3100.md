@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-79a.3100
-title: "UCC 9-310. When filing required to perfect security interest or agricultural lien; security interests and agricultural liens to which filing provisions do not a"
+title: "UCC 9-310. When filing required to perfect security interest or agricultural lien; security interests and agricultural liens to which filing provisions do not apply"
 doc_type: statute
 citation: "ORS 79A.3100"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-79a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors079a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# UCC 9-310. When filing required to perfect security interest or agricultural lien; security interests and agricultural liens to which filing provisions do not a (ORS 79A.3100)
+# UCC 9-310. When filing required to perfect security interest or agricultural lien; security interests and agricultural liens to which filing provisions do not apply (ORS 79A.3100)
 
 ## At a glance
 
-ORS 79A.3100 — UCC 9-310. When filing required to perfect security interest or agricultural lien; security interests and agricultural liens to which filing provisions do not a. Chapter 79A (Secured Transactions), 2025 Edition.
+ORS 79A.3100 — UCC 9-310. When filing required to perfect security interest or agricultural lien; security interests and agricultural liens to which filing provisions do not apply. Chapter 79A (Secured Transactions), 2025 Edition.
 
 ## Full text
 

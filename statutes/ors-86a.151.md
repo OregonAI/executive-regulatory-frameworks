@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-86a.151
-title: "Liability of person that employs mortgage loan originator; recovery of damages; limitations on proceeding; action against bond or letter of credit; attorney fee"
+title: "Liability of person that employs mortgage loan originator; recovery of damages; limitations on proceeding; action against bond or letter of credit; attorney fees"
 doc_type: statute
 citation: "ORS 86A.151"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-86a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors086a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Liability of person that employs mortgage loan originator; recovery of damages; limitations on proceeding; action against bond or letter of credit; attorney fee (ORS 86A.151)
+# Liability of person that employs mortgage loan originator; recovery of damages; limitations on proceeding; action against bond or letter of credit; attorney fees (ORS 86A.151)
 
 ## At a glance
 
-ORS 86A.151 — Liability of person that employs mortgage loan originator; recovery of damages; limitations on proceeding; action against bond or letter of credit; attorney fee. Chapter 86A (Mortgage Lending), 2025 Edition.
+ORS 86A.151 — Liability of person that employs mortgage loan originator; recovery of damages; limitations on proceeding; action against bond or letter of credit; attorney fees. Chapter 86A (Mortgage Lending), 2025 Edition.
 
 ## Full text
 

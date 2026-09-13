@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419b.027
-title: "Notice of founded disposition Note Exception against substantiation of allegation of abuse by public education program personnel--2023 c.581 §§8,12"
+title: "Notice of founded disposition"
 doc_type: statute
 citation: "ORS 419B.027"
 authority_level: statute
@@ -45,11 +45,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Notice of founded disposition Note Exception against substantiation of allegation of abuse by public education program personnel--2023 c.581 §§8,12 (ORS 419B.027)
+# Notice of founded disposition (ORS 419B.027)
 
 ## At a glance
 
-ORS 419B.027 — Notice of founded disposition Note Exception against substantiation of allegation of abuse by public education program personnel--2023 c.581 §§8,12. Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.027 — Notice of founded disposition. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

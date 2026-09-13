@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419c.276
-title: "Disclosure of personal identifiers of victim or witness; advice of rights prior to interview or deposition; prohibited contact with victim or witness; effect of"
+title: "Disclosure of personal identifiers of victim or witness; advice of rights prior to interview or deposition; prohibited contact with victim or witness; effect of threats or intimidation"
 doc_type: statute
 citation: "ORS 419C.276"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Disclosure of personal identifiers of victim or witness; advice of rights prior to interview or deposition; prohibited contact with victim or witness; effect of (ORS 419C.276)
+# Disclosure of personal identifiers of victim or witness; advice of rights prior to interview or deposition; prohibited contact with victim or witness; effect of threats or intimidation (ORS 419C.276)
 
 ## At a glance
 
-ORS 419C.276 — Disclosure of personal identifiers of victim or witness; advice of rights prior to interview or deposition; prohibited contact with victim or witness; effect of. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.276 — Disclosure of personal identifiers of victim or witness; advice of rights prior to interview or deposition; prohibited contact with victim or witness; effect of threats or intimidation. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-19.420
-title: "Action by appellate court on appeal; review of order granting new trial or judgment notwithstanding verdict; reversal upon loss or destruction of reporter’s not"
+title: "Action by appellate court on appeal; review of order granting new trial or judgment notwithstanding verdict; reversal upon loss or destruction of reporter’s notes or audio records"
 doc_type: statute
 citation: "ORS 19.420"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-19"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors019.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Action by appellate court on appeal; review of order granting new trial or judgment notwithstanding verdict; reversal upon loss or destruction of reporter’s not (ORS 19.420)
+# Action by appellate court on appeal; review of order granting new trial or judgment notwithstanding verdict; reversal upon loss or destruction of reporter’s notes or audio records (ORS 19.420)
 
 ## At a glance
 
-ORS 19.420 — Action by appellate court on appeal; review of order granting new trial or judgment notwithstanding verdict; reversal upon loss or destruction of reporter’s not. Chapter 19 (Appeals), 2025 Edition.
+ORS 19.420 — Action by appellate court on appeal; review of order granting new trial or judgment notwithstanding verdict; reversal upon loss or destruction of reporter’s notes or audio records. Chapter 19 (Appeals), 2025 Edition.
 
 ## Full text
 

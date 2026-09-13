@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-20.075
-title: "Factors to be considered by court in awarding attorney fees; limitation on appellate review of attorney fee award; definition of “attorney” for purposes of laws"
+title: "Factors to be considered by court in awarding attorney fees; limitation on appellate review of attorney fee award; definition of “attorney” for purposes of laws authorizing award of attorney fees"
 doc_type: statute
 citation: "ORS 20.075"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-20"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors020.html> (retrieved 2026-08-01, 2025 Edition).
 
-# Factors to be considered by court in awarding attorney fees; limitation on appellate review of attorney fee award; definition of “attorney” for purposes of laws (ORS 20.075)
+# Factors to be considered by court in awarding attorney fees; limitation on appellate review of attorney fee award; definition of “attorney” for purposes of laws authorizing award of attorney fees (ORS 20.075)
 
 ## At a glance
 
-ORS 20.075 — Factors to be considered by court in awarding attorney fees; limitation on appellate review of attorney fee award; definition of “attorney” for purposes of laws. Chapter 20 (Attorney Fees; Costs and Disbursements), 2025 Edition.
+ORS 20.075 — Factors to be considered by court in awarding attorney fees; limitation on appellate review of attorney fee award; definition of “attorney” for purposes of laws authorizing award of attorney fees. Chapter 20 (Attorney Fees; Costs and Disbursements), 2025 Edition.
 
 ## Full text
 

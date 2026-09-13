@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.574
-title: "Consumer requests for personal data; requirement to correct inaccuracies; requirement to delete personal data; conditions under which consumer may opt out of pe"
+title: "Consumer requests for personal data; requirement to correct inaccuracies; requirement to delete personal data; conditions under which consumer may opt out of personal data processing; format for providing copy of personal data to consumer"
 doc_type: statute
 citation: "ORS 646A.574"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Consumer requests for personal data; requirement to correct inaccuracies; requirement to delete personal data; conditions under which consumer may opt out of pe (ORS 646A.574)
+# Consumer requests for personal data; requirement to correct inaccuracies; requirement to delete personal data; conditions under which consumer may opt out of personal data processing; format for providing copy of personal data to consumer (ORS 646A.574)
 
 ## At a glance
 
-ORS 646A.574 — Consumer requests for personal data; requirement to correct inaccuracies; requirement to delete personal data; conditions under which consumer may opt out of pe. Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.574 — Consumer requests for personal data; requirement to correct inaccuracies; requirement to delete personal data; conditions under which consumer may opt out of personal data processing; format for providing copy of personal data to consumer. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

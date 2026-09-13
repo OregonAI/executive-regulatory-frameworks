@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285a.040
-title: "Oregon Business Development Commission; appointment; confirmation; qualifications of members; term; compensation and expenses; presiding officer; quorum; meetin"
+title: "Oregon Business Development Commission; appointment; confirmation; qualifications of members; term; compensation and expenses; presiding officer; quorum; meetings; effect of vacancy"
 doc_type: statute
 citation: "ORS 285A.040"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon Business Development Commission; appointment; confirmation; qualifications of members; term; compensation and expenses; presiding officer; quorum; meetin (ORS 285A.040)
+# Oregon Business Development Commission; appointment; confirmation; qualifications of members; term; compensation and expenses; presiding officer; quorum; meetings; effect of vacancy (ORS 285A.040)
 
 ## At a glance
 
-ORS 285A.040 — Oregon Business Development Commission; appointment; confirmation; qualifications of members; term; compensation and expenses; presiding officer; quorum; meetin. Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.040 — Oregon Business Development Commission; appointment; confirmation; qualifications of members; term; compensation and expenses; presiding officer; quorum; meetings; effect of vacancy. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

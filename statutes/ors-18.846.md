@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-18.846
-title: "Notice of exemptions form when debt arises out of support obligation or money award judgment that includes restitution; instructions for challenge to garnishmen"
+title: "Notice of exemptions form when debt arises out of support obligation or money award judgment that includes restitution; instructions for challenge to garnishment"
 doc_type: statute
 citation: "ORS 18.846"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-18"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors018.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Notice of exemptions form when debt arises out of support obligation or money award judgment that includes restitution; instructions for challenge to garnishmen (ORS 18.846)
+# Notice of exemptions form when debt arises out of support obligation or money award judgment that includes restitution; instructions for challenge to garnishment (ORS 18.846)
 
 ## At a glance
 
-ORS 18.846 — Notice of exemptions form when debt arises out of support obligation or money award judgment that includes restitution; instructions for challenge to garnishmen. Chapter 18 (Judgments), 2025 Edition.
+ORS 18.846 — Notice of exemptions form when debt arises out of support obligation or money award judgment that includes restitution; instructions for challenge to garnishment. Chapter 18 (Judgments), 2025 Edition.
 
 ## Full text
 

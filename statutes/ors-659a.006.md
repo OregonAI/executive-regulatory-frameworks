@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.006
-title: "Declaration of policy against unlawful discrimination; opportunity to obtain employment without unlawful discrimination recognized as a civil right; exception o"
+title: "Declaration of policy against unlawful discrimination; opportunity to obtain employment without unlawful discrimination recognized as a civil right; exception of religious group"
 doc_type: statute
 citation: "ORS 659A.006"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Declaration of policy against unlawful discrimination; opportunity to obtain employment without unlawful discrimination recognized as a civil right; exception o (ORS 659A.006)
+# Declaration of policy against unlawful discrimination; opportunity to obtain employment without unlawful discrimination recognized as a civil right; exception of religious group (ORS 659A.006)
 
 ## At a glance
 
-ORS 659A.006 — Declaration of policy against unlawful discrimination; opportunity to obtain employment without unlawful discrimination recognized as a civil right; exception o. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.006 — Declaration of policy against unlawful discrimination; opportunity to obtain employment without unlawful discrimination recognized as a civil right; exception of religious group. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

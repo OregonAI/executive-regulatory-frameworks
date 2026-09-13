@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279a.112
-title: "Requirement to certify that contractor has policy and practice of preventing sexual harassment, sexual assault and discrimination against employees who are memb"
+title: "Requirement to certify that contractor has policy and practice of preventing sexual harassment, sexual assault and discrimination against employees who are members of protected class; required elements of certification; exceptions"
 doc_type: statute
 citation: "ORS 279A.112"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-279a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Requirement to certify that contractor has policy and practice of preventing sexual harassment, sexual assault and discrimination against employees who are memb (ORS 279A.112)
+# Requirement to certify that contractor has policy and practice of preventing sexual harassment, sexual assault and discrimination against employees who are members of protected class; required elements of certification; exceptions (ORS 279A.112)
 
 ## At a glance
 
-ORS 279A.112 — Requirement to certify that contractor has policy and practice of preventing sexual harassment, sexual assault and discrimination against employees who are memb. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
+ORS 279A.112 — Requirement to certify that contractor has policy and practice of preventing sexual harassment, sexual assault and discrimination against employees who are members of protected class; required elements of certification; exceptions. Chapter 279A (Public Contracting - General Provisions), 2025 Edition.
 
 ## Full text
 

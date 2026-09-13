@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279b.040
-title: "Prohibition on accepting bid or proposal from contractor that advised or assisted contracting agency to develop specifications or solicitation documents; except"
+title: "Prohibition on accepting bid or proposal from contractor that advised or assisted contracting agency to develop specifications or solicitation documents; exceptions"
 doc_type: statute
 citation: "ORS 279B.040"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-279b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279B.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Prohibition on accepting bid or proposal from contractor that advised or assisted contracting agency to develop specifications or solicitation documents; except (ORS 279B.040)
+# Prohibition on accepting bid or proposal from contractor that advised or assisted contracting agency to develop specifications or solicitation documents; exceptions (ORS 279B.040)
 
 ## At a glance
 
-ORS 279B.040 — Prohibition on accepting bid or proposal from contractor that advised or assisted contracting agency to develop specifications or solicitation documents; except. Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
+ORS 279B.040 — Prohibition on accepting bid or proposal from contractor that advised or assisted contracting agency to develop specifications or solicitation documents; exceptions. Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419c.457
-title: "Prohibition on imposition of fines and fees for acts committed by child, youth, adjudicated youth or young person Note Satisfaction of preexisting judgments; ru"
+title: "Prohibition on imposition of fines and fees for acts committed by child, youth, adjudicated youth or young person"
 doc_type: statute
 citation: "ORS 419C.457"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Prohibition on imposition of fines and fees for acts committed by child, youth, adjudicated youth or young person Note Satisfaction of preexisting judgments; ru (ORS 419C.457)
+# Prohibition on imposition of fines and fees for acts committed by child, youth, adjudicated youth or young person (ORS 419C.457)
 
 ## At a glance
 
-ORS 419C.457 — Prohibition on imposition of fines and fees for acts committed by child, youth, adjudicated youth or young person Note Satisfaction of preexisting judgments; ru. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.457 — Prohibition on imposition of fines and fees for acts committed by child, youth, adjudicated youth or young person. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 
