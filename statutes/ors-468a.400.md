@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468a.400
-title: "and 815.300"
+title: "Fees; collection; use"
 doc_type: statute
 citation: "ORS 468A.400"
 authority_level: statute
@@ -51,11 +51,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# and 815.300 (ORS 468A.400)
+# Fees; collection; use (ORS 468A.400)
 
 ## At a glance
 
-ORS 468A.400 — and 815.300. Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.400 — Fees; collection; use. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 
