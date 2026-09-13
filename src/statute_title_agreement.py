@@ -33,6 +33,23 @@ reported by name and counted; it is never silently folded into AGREES, and it is
 this gate exists to catch, so it does not fail the run on its own -- only a FOUND
 DISAGREEMENT does. `title:` frontmatter and a missing catalog-ingested file are always
 determinable (a YAML parse, a path check), so a bare absence there is a disagreement, not
+
+A FOURTH, DOCUMENT-LEVEL OUTCOME (#398/#414's follow-on): a document with a found
+disagreement is not automatically the FILE's fault. Before a found disagreement is reported
+as a plain DISAGREEMENT, this module consults the section's own printed catchline in the
+committed `_meta/snapshots/ors-chapter-<ch>.txt` (via `repo_lib.snapshot_slice` and
+`ingest_ors`'s own catchline-boundary regex -- the same extraction #286's backfill already
+established as the one ground truth this repository trusts for a catalog title's own
+printed source; not a second TOC parser, and not `catalog_ors.parse_toc()`, which reads the
+chapter's TOC LISTING, the very thing a `title[:160]` cap and a TOC line-wrap corrupt). If
+the catalog row itself agrees with that snapshot, the FILE is at fault -- an ordinary
+DISAGREEMENT, gate fails, as before. If the catalog row DISAGREES with its own committed
+snapshot, the correct title cannot be determined from the catalog at all, and copying it
+into the file would write the catalog's defect (a mid-word truncation, a dropped
+line-wrap continuation) into the corpus as a document title. This is measured per
+section at check time against the actual committed snapshot text -- never a fixed list of
+section numbers -- and reported by name, with both strings shown, exactly like
+COULD-NOT-READ: named, counted separately, and does not fail the gate on its own.
 a could-not-read.
 """
 import re
@@ -43,7 +60,14 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from catalog_ors import CATALOG  # noqa: E402
-from repo_lib import REPO_ROOT, Checks  # noqa: E402
+# `_CATCHLINE_END_RE`/`_CATCHLINE_WINDOW` -- reused, not reimplemented: the exact
+# body-catchline boundary `ingest_ors.anchor_ok` itself checks against, and the extraction
+# `backfill_ors_286_titles.py`'s own docstring names as "the one ground truth this
+# repository already trusts" for a catalog title's own printed source. Importing this
+# module is import-safe: everything below its function/constant definitions is guarded by
+# `if __name__ == "__main__":`.
+from ingest_ors import _CATCHLINE_END_RE, _CATCHLINE_WINDOW  # noqa: E402
+from repo_lib import REPO_ROOT, SNAPSHOT_DIR, Checks, snapshot_slice  # noqa: E402
 
 
 def frontmatter_title(text: str, sec: str, ch: str):
@@ -126,16 +150,88 @@ def _iter_ingested(cat):
                 yield s["number"], ch, s["title"], s["path"]
 
 
+def _snapshot_catchline(sec: str, ch: str):
+    """(catchline, could_not_measure) for a section's OWN printed catchline, read straight
+    from the committed `_meta/snapshots/ors-chapter-<ch>.txt` -- `repo_lib.snapshot_slice`
+    locates the section's body text, then `ingest_ors._CATCHLINE_END_RE` (ORS's own
+    convention: NUMBER CATCHLINE. body...) finds where the catchline ends, exactly as
+    `ingest_ors.anchor_ok` reads it. `could_not_measure` covers every reason this can't be
+    read -- no cached snapshot for the chapter, or the section's own number not found in
+    it -- so a caller never mistakes "nothing was found" for "an empty catchline was
+    found"."""
+    snap_path = SNAPSHOT_DIR / f"ors-chapter-{ch.lower()}.txt"
+    if not snap_path.exists():
+        return None, True
+    raw = snap_path.read_text(encoding="utf-8", errors="replace")
+    sl = snapshot_slice(f"ors-{sec.lower()}", f"ors-chapter-{ch.lower()}", raw)
+    if not sl:
+        return None, True
+    body = sl[len(sec):len(sec) + _CATCHLINE_WINDOW]
+    m = _CATCHLINE_END_RE.search(body)
+    catchline = (body[:m.start()] if m else body).strip()
+    return (catchline, False) if catchline else (None, True)
+
+
+def classify_document(sec: str, ch: str, catalog_title: str, results):
+    """(category, positions, snapshot_catchline) for one document's `check_document()`
+    results -- the fourth, document-level outcome layered on top of the three per-position
+    outcomes. `category` is one of 'agree' / 'disagree' / 'could-not-read' /
+    'catalog-disagrees-with-snapshot'; `positions` is the [(name, found_title)] list that
+    outcome is reported against; `snapshot_catchline` is set only for the fourth category.
+
+    The committed snapshot is consulted ONLY when a FOUND disagreement exists -- never for
+    a clean document, and never for a could-not-read one -- so the ~37.5k agreeing rows and
+    the handful of could-not-read ones never pay for (or risk a false read from) a snapshot
+    lookup they don't need. When a disagreement exists, this is the measurement (#398/#414's
+    operator decision): does the CATALOG row itself agree with this section's own printed
+    catchline? If yes, the file is what's wrong -- 'disagree', unchanged from before this
+    category existed. If the catalog disagrees with its own snapshot too (or the snapshot
+    can't be read), the file cannot be corrected by copying the catalog, so this is not
+    reported as an ordinary disagreement at all."""
+    bad = [(n, t) for n, o, t in results if o == "disagree"]
+    unread = [(n, t) for n, o, t in results if o == "could-not-read"]
+    if bad:
+        catchline, could_not_measure = _snapshot_catchline(sec, ch)
+        if not could_not_measure and catchline != catalog_title.strip():
+            return "catalog-disagrees-with-snapshot", bad, catchline
+        return "disagree", bad, None
+    if unread:
+        return "could-not-read", unread, None
+    return "agree", [], None
+
+
+def _classify_all(cat):
+    """(section_number, chapter, repo_relative_path, catalog_title, category, positions,
+    snapshot_catchline) for every catalog-ingested document -- `category` is 'missing' for
+    a claimed path that isn't on disk, otherwise one of `classify_document`'s four. The
+    single place the corpus is walked and classified; `cmd_check` and the selftest's
+    firing/non-swallowing proofs below all walk THIS, so a selftest proof asserting the
+    fourth category exists is a claim about the same code `--check` runs, not a second copy
+    of it."""
+    for sec, ch, catalog_title, rel_path in _iter_ingested(cat):
+        fpath = REPO_ROOT / rel_path
+        if not fpath.exists():
+            yield sec, ch, rel_path, catalog_title, "missing", [], None
+            continue
+        text = fpath.read_text(encoding="utf-8", errors="replace")
+        results = check_document(text, sec, ch, catalog_title)
+        category, positions, snapshot_catchline = classify_document(sec, ch, catalog_title,
+                                                                     results)
+        yield sec, ch, rel_path, catalog_title, category, positions, snapshot_catchline
+
+
 def cmd_check() -> int:
     cat = yaml.safe_load(CATALOG.read_text())
 
     checked = agree_docs = disagree_docs = could_not_read_docs = missing_files = 0
+    catalog_snapshot_docs = 0
     disagreement_lines = []
+    catalog_snapshot_lines = []
     could_not_read_lines = []
 
-    for sec, ch, catalog_title, rel_path in _iter_ingested(cat):
-        fpath = REPO_ROOT / rel_path
-        if not fpath.exists():
+    for (sec, ch, rel_path, catalog_title, category, positions,
+         snapshot_catchline) in _classify_all(cat):
+        if category == "missing":
             missing_files += 1
             disagreement_lines.append(
                 f"  MISSING   {rel_path} (ORS {sec}): catalog marks this section ingested "
@@ -144,19 +240,27 @@ def cmd_check() -> int:
                 f"absence of one")
             continue
         checked += 1
-        text = fpath.read_text(encoding="utf-8", errors="replace")
-        results = check_document(text, sec, ch, catalog_title)
-        bad = [(n, t) for n, o, t in results if o == "disagree"]
-        unread = [(n, t) for n, o, t in results if o == "could-not-read"]
-        if bad:
+        if category == "disagree":
             disagree_docs += 1
-            for n, t in bad:
+            for n, t in positions:
                 disagreement_lines.append(
                     f"  DISAGREE  {rel_path} (ORS {sec}): {n} says {t!r}, catalog says "
                     f"{catalog_title!r}")
-        elif unread:
+        elif category == "catalog-disagrees-with-snapshot":
+            catalog_snapshot_docs += 1
+            pos_names = ", ".join(n for n, _ in positions)
+            catalog_snapshot_lines.append(
+                f"  CATALOG≠SNAPSHOT  {rel_path} (ORS {sec}): {pos_names} disagree(s) "
+                f"with the catalog row, but the catalog row ITSELF disagrees with this "
+                f"section's own catchline in the committed "
+                f"_meta/snapshots/ors-chapter-{ch.lower()}.txt -- the correct title cannot "
+                f"be determined from the catalog, so this is not fixable by copying the "
+                f"catalog into the file: catalog says {catalog_title!r} "
+                f"({len(catalog_title)} chars), snapshot says {snapshot_catchline!r} "
+                f"({len(snapshot_catchline)} chars)")
+        elif category == "could-not-read":
             could_not_read_docs += 1
-            for n, _ in unread:
+            for n, _ in positions:
                 could_not_read_lines.append(
                     f"  ?         {rel_path} (ORS {sec}): {n} does not follow the shape "
                     f"this gate reads (non-standard At-a-glance/heading text) -- could not "
@@ -166,22 +270,29 @@ def cmd_check() -> int:
 
     for line in disagreement_lines:
         print(line)
+    for line in catalog_snapshot_lines:
+        print(line)
     for line in could_not_read_lines:
         print(line)
 
     print(f"\n{checked} ingested statute document(s) checked against their catalog row "
           f"({missing_files} catalog-ingested path(s) missing from disk); "
           f"{agree_docs} agree in all three positions, {disagree_docs} disagree in at "
-          f"least one position (named above), {could_not_read_docs} carry a position this "
-          f"gate could not read but no found disagreement (named above -- a shape gap, not "
-          f"a title-drift finding, and does not fail this gate on its own).")
+          f"least one position (named above), {catalog_snapshot_docs} disagree with their "
+          f"catalog row but the catalog row itself disagrees with its own committed chapter "
+          f"snapshot (named above -- the correct title cannot be determined from the "
+          f"catalog, and this does not fail the gate on its own), {could_not_read_docs} "
+          f"carry a position this gate could not read but no found disagreement (named "
+          f"above -- a shape gap, not a title-drift finding, and does not fail this gate "
+          f"on its own).")
 
     if disagree_docs or missing_files:
         print(f"\nFAILED: {disagree_docs} document(s) disagree with their catalog row and/or "
               f"{missing_files} claimed-ingested path(s) are missing -- see lines above.")
         return 1
     print("OK: every ingested statute document whose title positions this gate can read "
-          "agrees with its catalog row.")
+          "agrees with its catalog row (or its catalog row's own disagreement with the "
+          "committed snapshot is named above and does not fail this gate).")
     return 0
 
 
@@ -325,6 +436,73 @@ def _proof_a_missing_title_key_is_a_disagreement_not_a_could_not_read(check) -> 
         shutil.rmtree(tmp_path)
 
 
+def _real_row_where_catalog_agrees_with_its_own_snapshot(cat):
+    """A real (sec, ch, catalog_title) row whose catalog title is IDENTICAL to this
+    section's own printed catchline in the committed snapshot -- found by measurement
+    (`_snapshot_catchline`), not pinned as a literal, the same way #398/#414's own
+    disagreeing set was discovered. Used to build a fixture that proves the new category
+    cannot swallow a genuine FILE defect: the catalog side of that fixture must be known,
+    by measurement, to already agree with the snapshot."""
+    for sec, ch, catalog_title, _ in _iter_ingested(cat):
+        catchline, could_not_measure = _snapshot_catchline(sec, ch)
+        if not could_not_measure and catchline == catalog_title.strip():
+            return sec, ch, catalog_title
+    raise SystemExit("no catalog row agrees with its own committed snapshot catchline -- "
+                      "the corpus this gate governs does not have the shape it assumes")
+
+
+def _proof_catalog_disagrees_with_snapshot_fires_on_real_data(check) -> None:
+    """Proves the fourth category is MEASURED against the committed catalog + snapshots,
+    not a hardcoded list of section numbers (#398/#414's own constraint: "If your
+    implementation ends up embedding the six numbers, you have built the wrong thing").
+    Walks the real corpus through the exact same `_classify_all` `--check` itself uses and
+    asserts the classifier itself -- not this proof -- finds at least one document
+    belonging to the new category, with the two strings it would report genuinely
+    different."""
+    cat = yaml.safe_load(CATALOG.read_text())
+    found = next((row for row in _classify_all(cat)
+                  if row[4] == "catalog-disagrees-with-snapshot"), None)
+    check("at least one real, currently-committed document is classified "
+          "catalog-disagrees-with-snapshot by measurement against the committed catalog "
+          "and chapter snapshots (not a pinned section number)", found is not None)
+    if found is None:
+        return
+    sec, ch, rel_path, catalog_title, _category, positions, snapshot_catchline = found
+    check(f"...and for it ({rel_path}, ORS {sec}) the two strings this gate would report "
+          f"really do differ: catalog {catalog_title!r} != snapshot {snapshot_catchline!r}",
+          catalog_title.strip() != snapshot_catchline)
+    check("...and at least one disagreeing position is carried along to report",
+          len(positions) > 0)
+
+
+def _proof_catalog_disagreement_category_cannot_swallow_a_genuine_file_defect(check) -> None:
+    """The operator's own bar (#398/#414): "A gate that cannot fail is worse than no
+    gate." Finds a REAL catalog row measured to already agree with its own committed
+    snapshot, builds a fixture FILE for that exact section carrying the real #398 defect
+    shape (every position reads "and"), and asserts the new category does NOT catch it:
+    classification must still be 'disagree', with no snapshot_catchline populated -- the
+    same failure this gate existed to catch before this category was added must still
+    fail it."""
+    cat = yaml.safe_load(CATALOG.read_text())
+    sec, ch, catalog_title = _real_row_where_catalog_agrees_with_its_own_snapshot(cat)
+    import shutil
+    import tempfile
+    tmp_path = Path(tempfile.mkdtemp(prefix="statute-title-agreement-selftest-"))
+    try:
+        p = _fixture(tmp_path, sec, ch, "and")
+        text = p.read_text(encoding="utf-8")
+        results = check_document(text, sec, ch, catalog_title)
+        category, _positions, snapshot_catchline = classify_document(sec, ch, catalog_title,
+                                                                      results)
+        check(f"a genuine file defect on a catalog row measured to agree with its own "
+              f"snapshot (ORS {sec}, catalog title {catalog_title!r}) is still classified "
+              f"'disagree', not swallowed by the new category", category == "disagree")
+        check("...and no snapshot_catchline is reported for a real disagreement (nothing "
+              "to show -- the catalog was never in question)", snapshot_catchline is None)
+    finally:
+        shutil.rmtree(tmp_path)
+
+
 def selftest() -> int:
     check = Checks()
     _proof_a_clean_committed_document_agrees(check)
@@ -332,6 +510,8 @@ def selftest() -> int:
     _proof_each_position_can_disagree_independently(check)
     _proof_a_nonstandard_at_a_glance_is_could_not_read_not_agree_or_disagree(check)
     _proof_a_missing_title_key_is_a_disagreement_not_a_could_not_read(check)
+    _proof_catalog_disagrees_with_snapshot_fires_on_real_data(check)
+    _proof_catalog_disagreement_category_cannot_swallow_a_genuine_file_defect(check)
     return check.report()
 
 
