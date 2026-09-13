@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.414
-title: "Requirements for competitive quotes (Prequalification and Disqualification)"
+title: "Requirements for competitive quotes"
 doc_type: statute
 citation: "ORS 279C.414"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Requirements for competitive quotes (Prequalification and Disqualification) (ORS 279C.414)
+# Requirements for competitive quotes (ORS 279C.414)
 
 ## At a glance
 
-ORS 279C.414 — Requirements for competitive quotes (Prequalification and Disqualification). Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.414 — Requirements for competitive quotes. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

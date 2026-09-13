@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.233
-title: "Discrimination for reporting certain violations or testifying at unemployment compensation hearing prohibited (Legislative Testimony)"
+title: "Discrimination for reporting certain violations or testifying at unemployment compensation hearing prohibited"
 doc_type: statute
 citation: "ORS 659A.233"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Discrimination for reporting certain violations or testifying at unemployment compensation hearing prohibited (Legislative Testimony) (ORS 659A.233)
+# Discrimination for reporting certain violations or testifying at unemployment compensation hearing prohibited (ORS 659A.233)
 
 ## At a glance
 
-ORS 659A.233 — Discrimination for reporting certain violations or testifying at unemployment compensation hearing prohibited (Legislative Testimony). Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.233 — Discrimination for reporting certain violations or testifying at unemployment compensation hearing prohibited. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

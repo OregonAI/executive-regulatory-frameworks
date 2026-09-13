@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-469a.150
-title: "Multistate electric companies; rules (Compliance Reports)"
+title: "Multistate electric companies; rules"
 doc_type: statute
 citation: "ORS 469A.150"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-469a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Multistate electric companies; rules (Compliance Reports) (ORS 469A.150)
+# Multistate electric companies; rules (ORS 469A.150)
 
 ## At a glance
 
-ORS 469A.150 — Multistate electric companies; rules (Compliance Reports). Chapter 469A (Chapter 469A), 2025 Edition.
+ORS 469A.150 — Multistate electric companies; rules. Chapter 469A (Chapter 469A), 2025 Edition.
 
 ## Full text
 

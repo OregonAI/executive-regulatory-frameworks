@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-60.557
-title: "Dissent by nominees and beneficial owners (Procedure for Exercise of Rights)"
+title: "Dissent by nominees and beneficial owners"
 doc_type: statute
 citation: "ORS 60.557"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-60"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors060.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Dissent by nominees and beneficial owners (Procedure for Exercise of Rights) (ORS 60.557)
+# Dissent by nominees and beneficial owners (ORS 60.557)
 
 ## At a glance
 
-ORS 60.557 — Dissent by nominees and beneficial owners (Procedure for Exercise of Rights). Chapter 60 (Private Corporations), 2025 Edition.
+ORS 60.557 — Dissent by nominees and beneficial owners. Chapter 60 (Private Corporations), 2025 Edition.
 
 ## Full text
 

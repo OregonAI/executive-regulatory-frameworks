@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.295
-title: "Prohibited actions; requirements; timing; failure to obtain consent; exceptions REPURCHASING (Repurchase of Farm Implements by Supplier From Retailer)"
+title: "Prohibited actions; requirements; timing; failure to obtain consent; exceptions"
 doc_type: statute
 citation: "ORS 646A.295"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Prohibited actions; requirements; timing; failure to obtain consent; exceptions REPURCHASING (Repurchase of Farm Implements by Supplier From Retailer) (ORS 646A.295)
+# Prohibited actions; requirements; timing; failure to obtain consent; exceptions (ORS 646A.295)
 
 ## At a glance
 
-ORS 646A.295 — Prohibited actions; requirements; timing; failure to obtain consent; exceptions REPURCHASING (Repurchase of Farm Implements by Supplier From Retailer). Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.295 — Prohibited actions; requirements; timing; failure to obtain consent; exceptions. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

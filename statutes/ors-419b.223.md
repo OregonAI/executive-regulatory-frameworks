@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419b.223
-title: "Duties and tenure of surrogate (Guardian Ad Litem for Parent)"
+title: "Duties and tenure of surrogate"
 doc_type: statute
 citation: "ORS 419B.223"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Duties and tenure of surrogate (Guardian Ad Litem for Parent) (ORS 419B.223)
+# Duties and tenure of surrogate (ORS 419B.223)
 
 ## At a glance
 
-ORS 419B.223 — Duties and tenure of surrogate (Guardian Ad Litem for Parent). Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.223 — Duties and tenure of surrogate. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

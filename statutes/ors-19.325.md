@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-19.325
-title: "Payment on letter of credit (Stays)"
+title: "Payment on letter of credit"
 doc_type: statute
 citation: "ORS 19.325"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-19"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors019.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Payment on letter of credit (Stays) (ORS 19.325)
+# Payment on letter of credit (ORS 19.325)
 
 ## At a glance
 
-ORS 19.325 — Payment on letter of credit (Stays). Chapter 19 (Appeals), 2025 Edition.
+ORS 19.325 — Payment on letter of credit. Chapter 19 (Appeals), 2025 Edition.
 
 ## Full text
 

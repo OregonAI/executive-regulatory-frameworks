@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-65.354
-title: "Committees (Standards of Conduct)"
+title: "Committees"
 doc_type: statute
 citation: "ORS 65.354"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-65"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors065.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Committees (Standards of Conduct) (ORS 65.354)
+# Committees (ORS 65.354)
 
 ## At a glance
 
-ORS 65.354 — Committees (Standards of Conduct). Chapter 65 (Nonprofit Corporations), 2025 Edition.
+ORS 65.354 — Committees. Chapter 65 (Nonprofit Corporations), 2025 Edition.
 
 ## Full text
 

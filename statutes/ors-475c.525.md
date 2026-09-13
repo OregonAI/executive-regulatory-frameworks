@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.525
-title: "Severability of ORS 475C.005 to 475C.525 (Map of Licensed Industrial Hemp Operations, Marijuana Production Premises)"
+title: "Severability of ORS 475C.005 to 475C.525"
 doc_type: statute
 citation: "ORS 475C.525"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Severability of ORS 475C.005 to 475C.525 (Map of Licensed Industrial Hemp Operations, Marijuana Production Premises) (ORS 475C.525)
+# Severability of ORS 475C.005 to 475C.525 (ORS 475C.525)
 
 ## At a glance
 
-ORS 475C.525 — Severability of ORS 475C.005 to 475C.525 (Map of Licensed Industrial Hemp Operations, Marijuana Production Premises). Chapter 475C (Cannabis Regulation), 2025 Edition.
+ORS 475C.525 — Severability of ORS 475C.005 to 475C.525. Chapter 475C (Cannabis Regulation), 2025 Edition.
 
 ## Full text
 

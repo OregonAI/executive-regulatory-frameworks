@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285b.551
-title: "Issuance of additional lottery bonds; uses; maximum amounts; Economic Infrastructure Project Fund (Temporary provisions relating to issuance of lottery bonds fo"
+title: "Issuance of additional lottery bonds; uses; maximum amounts; Economic Infrastructure Project Fund"
 doc_type: statute
 citation: "ORS 285B.551"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Issuance of additional lottery bonds; uses; maximum amounts; Economic Infrastructure Project Fund (Temporary provisions relating to issuance of lottery bonds fo (ORS 285B.551)
+# Issuance of additional lottery bonds; uses; maximum amounts; Economic Infrastructure Project Fund (ORS 285B.551)
 
 ## At a glance
 
-ORS 285B.551 — Issuance of additional lottery bonds; uses; maximum amounts; Economic Infrastructure Project Fund (Temporary provisions relating to issuance of lottery bonds fo. Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.551 — Issuance of additional lottery bonds; uses; maximum amounts; Economic Infrastructure Project Fund. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

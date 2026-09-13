@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419b.452
-title: "Distribution of report by court (Child Surrendered for Adoption)"
+title: "Distribution of report by court"
 doc_type: statute
 citation: "ORS 419B.452"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Distribution of report by court (Child Surrendered for Adoption) (ORS 419B.452)
+# Distribution of report by court (ORS 419B.452)
 
 ## At a glance
 
-ORS 419B.452 — Distribution of report by court (Child Surrendered for Adoption). Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.452 — Distribution of report by court. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

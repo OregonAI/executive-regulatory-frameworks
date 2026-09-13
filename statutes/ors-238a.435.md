@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-238a.435
-title: "Distribution of death benefit as rollover distribution RULES"
+title: "Distribution of death benefit as rollover distribution"
 doc_type: statute
 citation: "ORS 238A.435"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Distribution of death benefit as rollover distribution RULES (ORS 238A.435)
+# Distribution of death benefit as rollover distribution (ORS 238A.435)
 
 ## At a glance
 
-ORS 238A.435 — Distribution of death benefit as rollover distribution RULES. Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.435 — Distribution of death benefit as rollover distribution. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 

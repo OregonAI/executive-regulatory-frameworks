@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-30.505
-title: "Limitation on liability of volunteer providing assistance relating to compliance with hazardous waste disposal laws; exceptions ACTIONS FOR USURPATION OF OFFICE"
+title: "Limitation on liability of volunteer providing assistance relating to compliance with hazardous waste disposal laws; exceptions"
 doc_type: statute
 citation: "ORS 30.505"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-30"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors030.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Limitation on liability of volunteer providing assistance relating to compliance with hazardous waste disposal laws; exceptions ACTIONS FOR USURPATION OF OFFICE (ORS 30.505)
+# Limitation on liability of volunteer providing assistance relating to compliance with hazardous waste disposal laws; exceptions (ORS 30.505)
 
 ## At a glance
 
-ORS 30.505 — Limitation on liability of volunteer providing assistance relating to compliance with hazardous waste disposal laws; exceptions ACTIONS FOR USURPATION OF OFFICE. Chapter 30 (Actions and Suits in Particular Cases), 2025 Edition.
+ORS 30.505 — Limitation on liability of volunteer providing assistance relating to compliance with hazardous waste disposal laws; exceptions. Chapter 30 (Actions and Suits in Particular Cases), 2025 Edition.
 
 ## Full text
 

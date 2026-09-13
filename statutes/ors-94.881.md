@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-94.881
-title: "Who may serve as escrow agent (Lien Payment)"
+title: "Who may serve as escrow agent"
 doc_type: statute
 citation: "ORS 94.881"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-94"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors094.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Who may serve as escrow agent (Lien Payment) (ORS 94.881)
+# Who may serve as escrow agent (ORS 94.881)
 
 ## At a glance
 
-ORS 94.881 — Who may serve as escrow agent (Lien Payment). Chapter 94 (Real Property Development), 2025 Edition.
+ORS 94.881 — Who may serve as escrow agent. Chapter 94 (Real Property Development), 2025 Edition.
 
 ## Full text
 

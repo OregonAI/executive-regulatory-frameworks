@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-86.640
-title: "Applicability of other laws requiring security or regulating loans and investments TRUST DEEDS (General Provisions)"
+title: "Applicability of other laws requiring security or regulating loans and investments"
 doc_type: statute
 citation: "ORS 86.640"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-86"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors086.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Applicability of other laws requiring security or regulating loans and investments TRUST DEEDS (General Provisions) (ORS 86.640)
+# Applicability of other laws requiring security or regulating loans and investments (ORS 86.640)
 
 ## At a glance
 
-ORS 86.640 — Applicability of other laws requiring security or regulating loans and investments TRUST DEEDS (General Provisions). Chapter 86 (Mortgages; Trust Deeds), 2025 Edition.
+ORS 86.640 — Applicability of other laws requiring security or regulating loans and investments. Chapter 86 (Mortgages; Trust Deeds), 2025 Edition.
 
 ## Full text
 

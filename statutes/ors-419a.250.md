@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419a.250
-title: "Authority; segregation of records; access; when records may be kept with those of adults; destruction of records; missing children RECORDS (Transcripts; Confide"
+title: "Authority; segregation of records; access; when records may be kept with those of adults; destruction of records; missing children"
 doc_type: statute
 citation: "ORS 419A.250"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority; segregation of records; access; when records may be kept with those of adults; destruction of records; missing children RECORDS (Transcripts; Confide (ORS 419A.250)
+# Authority; segregation of records; access; when records may be kept with those of adults; destruction of records; missing children (ORS 419A.250)
 
 ## At a glance
 
-ORS 419A.250 — Authority; segregation of records; access; when records may be kept with those of adults; destruction of records; missing children RECORDS (Transcripts; Confide. Chapter 419A (Chapter 419A), 2025 Edition.
+ORS 419A.250 — Authority; segregation of records; access; when records may be kept with those of adults; destruction of records; missing children. Chapter 419A (Chapter 419A), 2025 Edition.
 
 ## Full text
 

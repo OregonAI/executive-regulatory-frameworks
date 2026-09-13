@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-197a.218
-title: "Availability of urban facilities and services (Urban and Rural Reserves)"
+title: "Availability of urban facilities and services"
 doc_type: statute
 citation: "ORS 197A.218"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-197a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Availability of urban facilities and services (Urban and Rural Reserves) (ORS 197A.218)
+# Availability of urban facilities and services (ORS 197A.218)
 
 ## At a glance
 
-ORS 197A.218 — Availability of urban facilities and services (Urban and Rural Reserves). Chapter 197A (Chapter 197A), 2025 Edition.
+ORS 197A.218 — Availability of urban facilities and services. Chapter 197A (Chapter 197A), 2025 Edition.
 
 ## Full text
 

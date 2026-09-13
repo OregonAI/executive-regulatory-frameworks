@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285b.371
-title: "State interest in eligible projects not necessary for loans; security INFRASTRUCTURE PROJECTS (Generally)"
+title: "State interest in eligible projects not necessary for loans; security"
 doc_type: statute
 citation: "ORS 285B.371"
 authority_level: statute
@@ -52,11 +52,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# State interest in eligible projects not necessary for loans; security INFRASTRUCTURE PROJECTS (Generally) (ORS 285B.371)
+# State interest in eligible projects not necessary for loans; security (ORS 285B.371)
 
 ## At a glance
 
-ORS 285B.371 — State interest in eligible projects not necessary for loans; security INFRASTRUCTURE PROJECTS (Generally). Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.371 — State interest in eligible projects not necessary for loans; security. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

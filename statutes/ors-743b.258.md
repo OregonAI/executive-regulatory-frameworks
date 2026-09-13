@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.258
-title: "Private right of action (Disability Income Insurance)"
+title: "Private right of action"
 doc_type: statute
 citation: "ORS 743B.258"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Private right of action (Disability Income Insurance) (ORS 743B.258)
+# Private right of action (ORS 743B.258)
 
 ## At a glance
 
-ORS 743B.258 — Private right of action (Disability Income Insurance). Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.258 — Private right of action. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

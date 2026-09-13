@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.529
-title: "Duty to report to Legislative Assembly (Illegal Marijuana Market Enforcement Grant Program)"
+title: "Duty to report to Legislative Assembly"
 doc_type: statute
 citation: "ORS 475C.529"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Duty to report to Legislative Assembly (Illegal Marijuana Market Enforcement Grant Program) (ORS 475C.529)
+# Duty to report to Legislative Assembly (ORS 475C.529)
 
 ## At a glance
 
-ORS 475C.529 — Duty to report to Legislative Assembly (Illegal Marijuana Market Enforcement Grant Program). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.529 — Duty to report to Legislative Assembly. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

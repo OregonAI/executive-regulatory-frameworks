@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-431a.850
-title: "Definitions (Program)"
+title: "Definitions"
 doc_type: statute
 citation: "ORS 431A.850"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Definitions (Program) (ORS 431A.850)
+# Definitions (ORS 431A.850)
 
 ## At a glance
 
-ORS 431A.850 — Definitions (Program). Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.850 — Definitions. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 

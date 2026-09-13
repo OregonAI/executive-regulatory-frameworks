@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468b.460
-title: "Rules (Shipping)"
+title: "Rules"
 doc_type: statute
 citation: "ORS 468B.460"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Rules (Shipping) (ORS 468B.460)
+# Rules (ORS 468B.460)
 
 ## At a glance
 
-ORS 468B.460 — Rules (Shipping). Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.460 — Rules. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-59.331
-title: "Scope of Attorney General powers; consent of director; powers of circuit court; damages, restitution, disgorgement and other penalties (Miscellaneous Provisions"
+title: "Scope of Attorney General powers; consent of director; powers of circuit court; damages, restitution, disgorgement and other penalties"
 doc_type: statute
 citation: "ORS 59.331"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-59"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors059.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Scope of Attorney General powers; consent of director; powers of circuit court; damages, restitution, disgorgement and other penalties (Miscellaneous Provisions (ORS 59.331)
+# Scope of Attorney General powers; consent of director; powers of circuit court; damages, restitution, disgorgement and other penalties (ORS 59.331)
 
 ## At a glance
 
-ORS 59.331 — Scope of Attorney General powers; consent of director; powers of circuit court; damages, restitution, disgorgement and other penalties (Miscellaneous Provisions. Chapter 59 (Securities Regulation), 2025 Edition.
+ORS 59.331 — Scope of Attorney General powers; consent of director; powers of circuit court; damages, restitution, disgorgement and other penalties. Chapter 59 (Securities Regulation), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419c.392
-title: "Effect of findings (Restorative Services)"
+title: "Effect of findings"
 doc_type: statute
 citation: "ORS 419C.392"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Effect of findings (Restorative Services) (ORS 419C.392)
+# Effect of findings (ORS 419C.392)
 
 ## At a glance
 
-ORS 419C.392 — Effect of findings (Restorative Services). Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.392 — Effect of findings. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 

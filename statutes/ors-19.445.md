@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-19.445
-title: "Damages upon affirmance of judgment (Appellate Judgment)"
+title: "Damages upon affirmance of judgment"
 doc_type: statute
 citation: "ORS 19.445"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-19"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors019.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Damages upon affirmance of judgment (Appellate Judgment) (ORS 19.445)
+# Damages upon affirmance of judgment (ORS 19.445)
 
 ## At a glance
 
-ORS 19.445 — Damages upon affirmance of judgment (Appellate Judgment). Chapter 19 (Appeals), 2025 Edition.
+ORS 19.445 — Damages upon affirmance of judgment. Chapter 19 (Appeals), 2025 Edition.
 
 ## Full text
 

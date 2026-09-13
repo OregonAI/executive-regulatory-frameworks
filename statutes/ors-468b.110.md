@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468b.110
-title: "Authority to establish and enforce water quality standards by rule or order; limitation on authority; instream water quality standards (Motorized In-Stream Plac"
+title: "Authority to establish and enforce water quality standards by rule or order; limitation on authority; instream water quality standards"
 doc_type: statute
 citation: "ORS 468B.110"
 authority_level: statute
@@ -49,11 +49,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority to establish and enforce water quality standards by rule or order; limitation on authority; instream water quality standards (Motorized In-Stream Plac (ORS 468B.110)
+# Authority to establish and enforce water quality standards by rule or order; limitation on authority; instream water quality standards (ORS 468B.110)
 
 ## At a glance
 
-ORS 468B.110 — Authority to establish and enforce water quality standards by rule or order; limitation on authority; instream water quality standards (Motorized In-Stream Plac. Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.110 — Authority to establish and enforce water quality standards by rule or order; limitation on authority; instream water quality standards. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 

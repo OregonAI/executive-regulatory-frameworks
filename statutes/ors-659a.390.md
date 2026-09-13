@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.390
-title: "Restrictions on no-rehire provisions as condition of workers’ compensation settlements; exceptions; remedy for violation; civil penalties ACCESS TO PUBLIC ACCOM"
+title: "Restrictions on no-rehire provisions as condition of workers’ compensation settlements; exceptions; remedy for violation; civil penalties"
 doc_type: statute
 citation: "ORS 659A.390"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Restrictions on no-rehire provisions as condition of workers’ compensation settlements; exceptions; remedy for violation; civil penalties ACCESS TO PUBLIC ACCOM (ORS 659A.390)
+# Restrictions on no-rehire provisions as condition of workers’ compensation settlements; exceptions; remedy for violation; civil penalties (ORS 659A.390)
 
 ## At a glance
 
-ORS 659A.390 — Restrictions on no-rehire provisions as condition of workers’ compensation settlements; exceptions; remedy for violation; civil penalties ACCESS TO PUBLIC ACCOM. Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.390 — Restrictions on no-rehire provisions as condition of workers’ compensation settlements; exceptions; remedy for violation; civil penalties. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

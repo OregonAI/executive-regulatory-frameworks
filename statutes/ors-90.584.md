@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-90.584
-title: "Park specific billing for water; voting (Landlord and Tenant Relations)"
+title: "Park specific billing for water; voting"
 doc_type: statute
 citation: "ORS 90.584"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-90"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors090.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Park specific billing for water; voting (Landlord and Tenant Relations) (ORS 90.584)
+# Park specific billing for water; voting (ORS 90.584)
 
 ## At a glance
 
-ORS 90.584 — Park specific billing for water; voting (Landlord and Tenant Relations). Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
+ORS 90.584 — Park specific billing for water; voting. Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
 
 ## Full text
 

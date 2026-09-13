@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-79a.3160
-title: "UCC 9-316. Effect of change in governing law (Priority)"
+title: "UCC 9-316. Effect of change in governing law"
 doc_type: statute
 citation: "ORS 79A.3160"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-79a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors079a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# UCC 9-316. Effect of change in governing law (Priority) (ORS 79A.3160)
+# UCC 9-316. Effect of change in governing law (ORS 79A.3160)
 
 ## At a glance
 
-ORS 79A.3160 — UCC 9-316. Effect of change in governing law (Priority). Chapter 79A (Secured Transactions), 2025 Edition.
+ORS 79A.3160 — UCC 9-316. Effect of change in governing law. Chapter 79A (Secured Transactions), 2025 Edition.
 
 ## Full text
 

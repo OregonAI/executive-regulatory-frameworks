@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-25.542
-title: "Preventing transfer of assets to evade compliance with order (Parentage Determinations)"
+title: "Preventing transfer of assets to evade compliance with order"
 doc_type: statute
 citation: "ORS 25.542"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-25"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors025.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Preventing transfer of assets to evade compliance with order (Parentage Determinations) (ORS 25.542)
+# Preventing transfer of assets to evade compliance with order (ORS 25.542)
 
 ## At a glance
 
-ORS 25.542 — Preventing transfer of assets to evade compliance with order (Parentage Determinations). Chapter 25 (Child Support Services), 2025 Edition.
+ORS 25.542 — Preventing transfer of assets to evade compliance with order. Chapter 25 (Child Support Services), 2025 Edition.
 
 ## Full text
 

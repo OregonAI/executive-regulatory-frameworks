@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285c.659
-title: "Report; posting on Oregon transparency website required Note: 285A.010 contains definitions for ORS chapter 285C. ENTERPRISE ZONES (Generally)"
+title: "Report; posting on Oregon transparency website required Note: 285A.010 contains definitions for ORS chapter 285C"
 doc_type: statute
 citation: "ORS 285C.659"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Report; posting on Oregon transparency website required Note: 285A.010 contains definitions for ORS chapter 285C. ENTERPRISE ZONES (Generally) (ORS 285C.659)
+# Report; posting on Oregon transparency website required Note: 285A.010 contains definitions for ORS chapter 285C (ORS 285C.659)
 
 ## At a glance
 
-ORS 285C.659 — Report; posting on Oregon transparency website required Note: 285A.010 contains definitions for ORS chapter 285C. ENTERPRISE ZONES (Generally). Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.659 — Report; posting on Oregon transparency website required Note: 285A.010 contains definitions for ORS chapter 285C. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.015
-title: "Affirmative action reports to include information on contracts to minority businesses UNLAWFUL EMPLOYMENT DISCRIMINATION BECAUSE OF RACE, COLOR, RELIGION, SEX, "
+title: "Affirmative action reports to include information on contracts to minority businesses"
 doc_type: statute
 citation: "ORS 659A.015"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Affirmative action reports to include information on contracts to minority businesses UNLAWFUL EMPLOYMENT DISCRIMINATION BECAUSE OF RACE, COLOR, RELIGION, SEX,  (ORS 659A.015)
+# Affirmative action reports to include information on contracts to minority businesses (ORS 659A.015)
 
 ## At a glance
 
-ORS 659A.015 — Affirmative action reports to include information on contracts to minority businesses UNLAWFUL EMPLOYMENT DISCRIMINATION BECAUSE OF RACE, COLOR, RELIGION, SEX, . Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.015 — Affirmative action reports to include information on contracts to minority businesses. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-15.380
-title: "Presumptive rules for specific types of contracts CHOICE OF LAW FOR TORTS AND OTHER NONCONTRACTUAL CLAIMS (Generally)"
+title: "Presumptive rules for specific types of contracts"
 doc_type: statute
 citation: "ORS 15.380"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-15"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors015.html> (retrieved 2026-08-01, 2025 Edition).
 
-# Presumptive rules for specific types of contracts CHOICE OF LAW FOR TORTS AND OTHER NONCONTRACTUAL CLAIMS (Generally) (ORS 15.380)
+# Presumptive rules for specific types of contracts (ORS 15.380)
 
 ## At a glance
 
-ORS 15.380 — Presumptive rules for specific types of contracts CHOICE OF LAW FOR TORTS AND OTHER NONCONTRACTUAL CLAIMS (Generally). Chapter 15 (Choice of Laws), 2025 Edition.
+ORS 15.380 — Presumptive rules for specific types of contracts. Chapter 15 (Choice of Laws), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285a.152
-title: "Oregon-China Sister State Committee authority (Oregon Broadband Advisory Council)"
+title: "Oregon-China Sister State Committee authority"
 doc_type: statute
 citation: "ORS 285A.152"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Oregon-China Sister State Committee authority (Oregon Broadband Advisory Council) (ORS 285A.152)
+# Oregon-China Sister State Committee authority (ORS 285A.152)
 
 ## At a glance
 
-ORS 285A.152 — Oregon-China Sister State Committee authority (Oregon Broadband Advisory Council). Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.152 — Oregon-China Sister State Committee authority. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

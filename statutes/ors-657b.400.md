@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-657b.400
-title: "Confidentiality of information; disclosures of information by Employment Department; rules (Hearings and Appeals)"
+title: "Confidentiality of information; disclosures of information by Employment Department; rules"
 doc_type: statute
 citation: "ORS 657B.400"
 authority_level: statute
@@ -46,11 +46,11 @@ tags: ["ors", "chapter-657b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors657b.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Confidentiality of information; disclosures of information by Employment Department; rules (Hearings and Appeals) (ORS 657B.400)
+# Confidentiality of information; disclosures of information by Employment Department; rules (ORS 657B.400)
 
 ## At a glance
 
-ORS 657B.400 — Confidentiality of information; disclosures of information by Employment Department; rules (Hearings and Appeals). Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
+ORS 657B.400 — Confidentiality of information; disclosures of information by Employment Department; rules. Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
 
 ## Full text
 

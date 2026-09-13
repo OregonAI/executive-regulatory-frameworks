@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475a.538
-title: "Repeal of city, county ordinance that prohibits certain establishments (Powers and Duties of State Agencies and Officers and Governor)"
+title: "Repeal of city, county ordinance that prohibits certain establishments"
 doc_type: statute
 citation: "ORS 475A.538"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Repeal of city, county ordinance that prohibits certain establishments (Powers and Duties of State Agencies and Officers and Governor) (ORS 475A.538)
+# Repeal of city, county ordinance that prohibits certain establishments (ORS 475A.538)
 
 ## At a glance
 
-ORS 475A.538 — Repeal of city, county ordinance that prohibits certain establishments (Powers and Duties of State Agencies and Officers and Governor). Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.538 — Repeal of city, county ordinance that prohibits certain establishments. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 

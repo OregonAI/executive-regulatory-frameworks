@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-459a.911
-title: "Other duties of local governments (Responsibilities of Environmental Quality Commission and Department of Environmental Quality)"
+title: "Other duties of local governments"
 doc_type: statute
 citation: "ORS 459A.911"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Other duties of local governments (Responsibilities of Environmental Quality Commission and Department of Environmental Quality) (ORS 459A.911)
+# Other duties of local governments (ORS 459A.911)
 
 ## At a glance
 
-ORS 459A.911 — Other duties of local governments (Responsibilities of Environmental Quality Commission and Department of Environmental Quality). Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.911 — Other duties of local governments. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 

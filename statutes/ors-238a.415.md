@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-238a.415
-title: "Credit for service in uniformed services; rules (Investment Options)"
+title: "Credit for service in uniformed services; rules"
 doc_type: statute
 citation: "ORS 238A.415"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Credit for service in uniformed services; rules (Investment Options) (ORS 238A.415)
+# Credit for service in uniformed services; rules (ORS 238A.415)
 
 ## At a glance
 
-ORS 238A.415 — Credit for service in uniformed services; rules (Investment Options). Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.415 — Credit for service in uniformed services; rules. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 

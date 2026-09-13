@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285b.465
-title: "Allowable costs of projects (Revenue Bond Financing)"
+title: "Allowable costs of projects"
 doc_type: statute
 citation: "ORS 285B.465"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Allowable costs of projects (Revenue Bond Financing) (ORS 285B.465)
+# Allowable costs of projects (ORS 285B.465)
 
 ## At a glance
 
-ORS 285B.465 — Allowable costs of projects (Revenue Bond Financing). Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.465 — Allowable costs of projects. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

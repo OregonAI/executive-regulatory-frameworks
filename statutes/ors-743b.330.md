@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.330
-title: "Notice to policyholder required for cancellation or nonrenewal of health benefit plan; effect of failure to give notice (Continuation)"
+title: "Notice to policyholder required for cancellation or nonrenewal of health benefit plan; effect of failure to give notice"
 doc_type: statute
 citation: "ORS 743B.330"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Notice to policyholder required for cancellation or nonrenewal of health benefit plan; effect of failure to give notice (Continuation) (ORS 743B.330)
+# Notice to policyholder required for cancellation or nonrenewal of health benefit plan; effect of failure to give notice (ORS 743B.330)
 
 ## At a glance
 
-ORS 743B.330 — Notice to policyholder required for cancellation or nonrenewal of health benefit plan; effect of failure to give notice (Continuation). Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.330 — Notice to policyholder required for cancellation or nonrenewal of health benefit plan; effect of failure to give notice. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

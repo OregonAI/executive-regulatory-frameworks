@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-36.210
-title: "Liability of mediators and programs (Confidentiality of Mediation Communications and Agreements)"
+title: "Liability of mediators and programs"
 doc_type: statute
 citation: "ORS 36.210"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-36"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors036.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Liability of mediators and programs (Confidentiality of Mediation Communications and Agreements) (ORS 36.210)
+# Liability of mediators and programs (ORS 36.210)
 
 ## At a glance
 
-ORS 36.210 — Liability of mediators and programs (Confidentiality of Mediation Communications and Agreements). Chapter 36 (Mediation and Arbitration), 2025 Edition.
+ORS 36.210 — Liability of mediators and programs. Chapter 36 (Mediation and Arbitration), 2025 Edition.
 
 ## Full text
 

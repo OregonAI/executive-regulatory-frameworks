@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-19.435
-title: "Memorandum decisions (Attorney Fees and Penalties)"
+title: "Memorandum decisions"
 doc_type: statute
 citation: "ORS 19.435"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-19"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors019.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Memorandum decisions (Attorney Fees and Penalties) (ORS 19.435)
+# Memorandum decisions (ORS 19.435)
 
 ## At a glance
 
-ORS 19.435 — Memorandum decisions (Attorney Fees and Penalties). Chapter 19 (Appeals), 2025 Edition.
+ORS 19.435 — Memorandum decisions. Chapter 19 (Appeals), 2025 Edition.
 
 ## Full text
 

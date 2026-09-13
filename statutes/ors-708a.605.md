@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-708a.605
-title: "Separate accounts for foreign branches OTHER PROVISIONS (Miscellaneous)"
+title: "Separate accounts for foreign branches"
 doc_type: statute
 citation: "ORS 708A.605"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-708a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors708A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Separate accounts for foreign branches OTHER PROVISIONS (Miscellaneous) (ORS 708A.605)
+# Separate accounts for foreign branches (ORS 708A.605)
 
 ## At a glance
 
-ORS 708A.605 — Separate accounts for foreign branches OTHER PROVISIONS (Miscellaneous). Chapter 708A (Chapter 708A), 2025 Edition.
+ORS 708A.605 — Separate accounts for foreign branches. Chapter 708A (Chapter 708A), 2025 Edition.
 
 ## Full text
 

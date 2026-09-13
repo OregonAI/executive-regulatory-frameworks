@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-18.732
-title: "Money owed to debtor that is due within 45 days (Payment of Nonexempt Wages)"
+title: "Money owed to debtor that is due within 45 days"
 doc_type: statute
 citation: "ORS 18.732"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-18"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors018.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Money owed to debtor that is due within 45 days (Payment of Nonexempt Wages) (ORS 18.732)
+# Money owed to debtor that is due within 45 days (ORS 18.732)
 
 ## At a glance
 
-ORS 18.732 — Money owed to debtor that is due within 45 days (Payment of Nonexempt Wages). Chapter 18 (Judgments), 2025 Edition.
+ORS 18.732 — Money owed to debtor that is due within 45 days. Chapter 18 (Judgments), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-92.455
-title: "Inspection of records (Prohibited Acts)"
+title: "Inspection of records"
 doc_type: statute
 citation: "ORS 92.455"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-92"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors092.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Inspection of records (Prohibited Acts) (ORS 92.455)
+# Inspection of records (ORS 92.455)
 
 ## At a glance
 
-ORS 92.455 — Inspection of records (Prohibited Acts). Chapter 92 (Subdivisions and Partitions), 2025 Edition.
+ORS 92.455 — Inspection of records. Chapter 92 (Subdivisions and Partitions), 2025 Edition.
 
 ## Full text
 

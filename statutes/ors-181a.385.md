@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-181a.385
-title: "Appointment of director of department (Standards and Training)"
+title: "Appointment of director of department"
 doc_type: statute
 citation: "ORS 181A.385"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Appointment of director of department (Standards and Training) (ORS 181A.385)
+# Appointment of director of department (ORS 181A.385)
 
 ## At a glance
 
-ORS 181A.385 — Appointment of director of department (Standards and Training). Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.385 — Appointment of director of department. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

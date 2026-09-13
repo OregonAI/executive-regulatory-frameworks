@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419c.323
-title: "Proceeding when summoned party not before court WAIVER"
+title: "Proceeding when summoned party not before court"
 doc_type: statute
 citation: "ORS 419C.323"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Proceeding when summoned party not before court WAIVER (ORS 419C.323)
+# Proceeding when summoned party not before court (ORS 419C.323)
 
 ## At a glance
 
-ORS 419C.323 — Proceeding when summoned party not before court WAIVER. Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.323 — Proceeding when summoned party not before court. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 

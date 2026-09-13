@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-90.775
-title: "Rules (Facility Purchase)"
+title: "Rules"
 doc_type: statute
 citation: "ORS 90.775"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-90"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors090.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Rules (Facility Purchase) (ORS 90.775)
+# Rules (ORS 90.775)
 
 ## At a glance
 
-ORS 90.775 — Rules (Facility Purchase). Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
+ORS 90.775 — Rules. Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
 
 ## Full text
 

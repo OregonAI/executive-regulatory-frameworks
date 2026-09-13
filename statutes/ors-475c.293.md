@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.293
-title: "Authority to require fingerprints of applicants and other individuals (Marijuana Control and Regulation Fund)"
+title: "Authority to require fingerprints of applicants and other individuals"
 doc_type: statute
 citation: "ORS 475C.293"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority to require fingerprints of applicants and other individuals (Marijuana Control and Regulation Fund) (ORS 475C.293)
+# Authority to require fingerprints of applicants and other individuals (ORS 475C.293)
 
 ## At a glance
 
-ORS 475C.293 — Authority to require fingerprints of applicants and other individuals (Marijuana Control and Regulation Fund). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.293 — Authority to require fingerprints of applicants and other individuals. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

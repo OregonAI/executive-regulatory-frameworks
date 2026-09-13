@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-63.032
-title: "Investigations of violations of chapter; confidentiality; penalties; administrative dissolution; rules (Notice)"
+title: "Investigations of violations of chapter; confidentiality; penalties; administrative dissolution; rules"
 doc_type: statute
 citation: "ORS 63.032"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-63"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors063.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Investigations of violations of chapter; confidentiality; penalties; administrative dissolution; rules (Notice) (ORS 63.032)
+# Investigations of violations of chapter; confidentiality; penalties; administrative dissolution; rules (ORS 63.032)
 
 ## At a glance
 
-ORS 63.032 — Investigations of violations of chapter; confidentiality; penalties; administrative dissolution; rules (Notice). Chapter 63 (Limited Liability Companies), 2025 Edition.
+ORS 63.032 — Investigations of violations of chapter; confidentiality; penalties; administrative dissolution; rules. Chapter 63 (Limited Liability Companies), 2025 Edition.
 
 ## Full text
 

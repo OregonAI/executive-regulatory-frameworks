@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-90.555
-title: "Subleasing agreements (Utility and Service Charges)"
+title: "Subleasing agreements"
 doc_type: statute
 citation: "ORS 90.555"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-90"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors090.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Subleasing agreements (Utility and Service Charges) (ORS 90.555)
+# Subleasing agreements (ORS 90.555)
 
 ## At a glance
 
-ORS 90.555 — Subleasing agreements (Utility and Service Charges). Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
+ORS 90.555 — Subleasing agreements. Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
 
 ## Full text
 

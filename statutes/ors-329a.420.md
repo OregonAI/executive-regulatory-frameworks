@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-329a.420
-title: "Cooperative agreements to inspect premises (Collective Bargaining)"
+title: "Cooperative agreements to inspect premises"
 doc_type: statute
 citation: "ORS 329A.420"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-329a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors329A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Cooperative agreements to inspect premises (Collective Bargaining) (ORS 329A.420)
+# Cooperative agreements to inspect premises (ORS 329A.420)
 
 ## At a glance
 
-ORS 329A.420 — Cooperative agreements to inspect premises (Collective Bargaining). Chapter 329A (Chapter 329A), 2025 Edition.
+ORS 329A.420 — Cooperative agreements to inspect premises. Chapter 329A (Chapter 329A), 2025 Edition.
 
 ## Full text
 

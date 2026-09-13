@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-15.435
-title: "Product liability civil actions (Choice of Law)"
+title: "Product liability civil actions"
 doc_type: statute
 citation: "ORS 15.435"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-15"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors015.html> (retrieved 2026-08-01, 2025 Edition).
 
-# Product liability civil actions (Choice of Law) (ORS 15.435)
+# Product liability civil actions (ORS 15.435)
 
 ## At a glance
 
-ORS 15.435 — Product liability civil actions (Choice of Law). Chapter 15 (Choice of Laws), 2025 Edition.
+ORS 15.435 — Product liability civil actions. Chapter 15 (Choice of Laws), 2025 Edition.
 
 ## Full text
 

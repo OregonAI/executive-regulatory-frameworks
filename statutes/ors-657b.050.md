@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-657b.050
-title: "Amount of benefits; limits on weekly benefit amount; extent to which benefits are payable; exemptions from garnishment (Protections)"
+title: "Amount of benefits; limits on weekly benefit amount; extent to which benefits are payable; exemptions from garnishment"
 doc_type: statute
 citation: "ORS 657B.050"
 authority_level: statute
@@ -47,11 +47,11 @@ tags: ["ors", "chapter-657b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors657b.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Amount of benefits; limits on weekly benefit amount; extent to which benefits are payable; exemptions from garnishment (Protections) (ORS 657B.050)
+# Amount of benefits; limits on weekly benefit amount; extent to which benefits are payable; exemptions from garnishment (ORS 657B.050)
 
 ## At a glance
 
-ORS 657B.050 — Amount of benefits; limits on weekly benefit amount; extent to which benefits are payable; exemptions from garnishment (Protections). Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
+ORS 657B.050 — Amount of benefits; limits on weekly benefit amount; extent to which benefits are payable; exemptions from garnishment. Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
 
 ## Full text
 

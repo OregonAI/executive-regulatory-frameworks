@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-18.242
-title: "Contribution among judgment debtors; subrogation of surety APPEAL"
+title: "Contribution among judgment debtors; subrogation of surety"
 doc_type: statute
 citation: "ORS 18.242"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-18"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors018.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Contribution among judgment debtors; subrogation of surety APPEAL (ORS 18.242)
+# Contribution among judgment debtors; subrogation of surety (ORS 18.242)
 
 ## At a glance
 
-ORS 18.242 — Contribution among judgment debtors; subrogation of surety APPEAL. Chapter 18 (Judgments), 2025 Edition.
+ORS 18.242 — Contribution among judgment debtors; subrogation of surety. Chapter 18 (Judgments), 2025 Edition.
 
 ## Full text
 

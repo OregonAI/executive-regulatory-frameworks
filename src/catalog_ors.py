@@ -137,6 +137,204 @@ XREF_RE = re.compile(
 # at the end of a real title ("...eligibility for TANF") isn't mistaken for one.
 TRAILING_HEADING_RE = re.compile(r"\s+[A-Z][A-Z '\-]{7,}$")
 
+# #397: `TRAILING_HEADING_RE` above guesses a heading from TEXT SHAPE (an all-caps run,
+# length-gated so a short trailing acronym in a real catchline -- "...eligibility for
+# TANF" -- isn't mistaken for one) and gets it wrong two ways, both measured (2026-09-10)
+# against the committed catalog: a heading under its 8-character floor ("COURTS", "VENUE",
+# "LOANS" -- 135 titles at the time), and a heading followed by its own parenthetical
+# sub-heading, which the `$` anchor can never reach at all ("ART AND CRAFT MATERIALS
+# (Generally)" -- 359 titles at the time). These two counts were superseded by code review
+# (2026-09-12), which found three more causes of the identical bug (see `_HEADING_UNIT_RE`
+# and `_toc_heading_phrases` below) -- `_selftest`'s own docstring carries the re-measured,
+# current totals for both families.
+#
+# The source itself already marks the boundary -- it just isn't shape, it's LAYOUT:
+# every heading and sub-heading in the TOC is typeset as its OWN paragraph, blank-line
+# -delimited from the entries around it (measured on every chapter checked: the separator
+# is `\n\n \xa0 \n\n`, a blank line, an isolated non-breaking-space line, a blank line).
+# `ws_only()` collapses that structural signal away before `parse_toc` ever sees it, which
+# is the actual reason the only prior mitigation had to guess from shape in the first place.
+#
+# Reading the source's own paragraphs instead of guessing from length is also why this does
+# NOT eat a real trailing acronym: `279A.152`'s own catchline ends "...recycled PETE" with
+# `PETE` wrapped onto the SAME paragraph as the rest of the sentence (a single `\n` line
+# -wrap, no blank line before it) -- it is never its own paragraph, so it never enters
+# `_toc_heading_phrases`' set at all, at any length. The boundary comes from structure, not
+# from how long the trailing word is.
+_PARA_SEP_RE = re.compile(r"\n\s*\n")
+# Same char class as `TRAILING_HEADING_RE`, minus its length floor (paragraph isolation is
+# what makes something a heading here, not how long it is) plus three characters real
+# headings use that TRAILING_HEADING_RE never had to cover, because it only ever matched a
+# heading with nothing else following -- the Unicode right single quote ("INJURED WORKERS’
+# MEMORIAL SCHOLARSHIP", ch. 654), and comma/semicolon, which multi-clause part headings use
+# routinely ("REGISTRATION, ENFORCEMENT AND MODIFICATION OF SUPPORT ORDERS", ch. 110;
+# "LIQUOR; DRUGS", ch. 471/474). Safe to widen this far and no further: the match requires
+# the ENTIRE isolated paragraph to be uppercase, and no real ORS catchline -- always Title
+# Case -- is ever printed as its own all-uppercase paragraph, comma or not.
+# Digits, and an optional trailing ALL-CAPS parenthetical on the SAME paragraph, both added
+# by code review (2026-09-12) against all 569 committed chapters -- the original version of
+# this regex (letters and the punctuation above only, no digits, no parens) left at least 21
+# rows glued, in two shapes it never covered:
+#   - A heading paragraph that happens to include a digit: a year ("WATER COMPANIES
+#     ORGANIZED UNDER 1891 ACT", ch. 541), a population threshold ("PARK COMMISSION IN
+#     CITIES OF 3,000 OR MORE", ch. 226), or a designation ("2-1-1 SYSTEM", ch. 403;
+#     "PROHIBITIONS RELATED TO 340B DRUGS", ch. 689) -- the same gap TRAILING_HEADING_RE
+#     already had, for the same reason.
+#   - A heading and its OWN parenthetical sub-heading typeset as ONE paragraph, not two
+#     ("FINANCING LOCAL IMPROVEMENTS (BANCROFT BONDING ACT)", ch. 223) -- distinct from the
+#     two-paragraph heading+sub-heading combination a few lines down, and unreachable by
+#     `_SUBHEADING_UNIT_RE` (which requires the WHOLE unit to start with `(`).
+# Digits are safe to admit -- measured against the two real-corpus false-positive risks the
+# committed comment (removed here) warned about, both still excluded: ch. 688's "SECTION 1.
+# PURPOSE" and ch. 815's "ORS 803.430" each contain a period, which stays outside this
+# class, and a bare page number ("94") in that same ch. 815 wrapped table is excluded by the
+# `(?=.*[A-Z])` lookahead requiring at least one letter in the isolated paragraph. The
+# trailing parenthetical is gated the same way as the heading text itself (all-caps, same
+# character class) so it cannot admit a Title-Case sub-heading a real ORS catchline could
+# ever produce.
+# Not closed here (this residual is re-measured and reported, not asserted away): a heading
+# with an embedded lowercase ordinal suffix ("OREGON EDUCATIONAL ACT FOR THE 21st CENTURY",
+# ch. 329) is not all-uppercase and matches neither this regex nor TRAILING_HEADING_RE.
+_HEADING_UNIT_RE = re.compile(
+    r"^(?=.*[A-Z])[A-Z0-9][A-Z0-9 ,;'’\-]*(?:\([A-Z0-9][A-Z0-9 ,;'’\-]*\))?$")
+# A sub-heading is Title Case, not ALL CAPS ("(Generally)", "(Regulation; Prohibited
+# Acts)"), so it needs its own pattern -- matched purely by being its own parenthetical
+# paragraph, with or without a heading paragraph immediately before it (several chapters
+# use a bare sub-heading, with no heading of its own, for a later group under one a heading
+# paragraph earlier already named -- ch. 453's "(Miscellaneous)" governing 453.135 is a
+# real, committed example).
+_SUBHEADING_UNIT_RE = re.compile(r"^\(.+\)$")
+# The binding quantity here is a RAW BYTE OFFSET, not an entry count -- entry count is how
+# long a chapter's TOC *content* is, but this window has to reach the LAST heading-shaped
+# paragraph in raw, uncollapsed text, which runs far longer per entry than `parse_toc`'s own
+# ws_only'd window because of exactly the blank-line/nbsp paragraph padding this reads.
+# Measured (2026-09-12) against all 569 committed chapter snapshots, with the digit- and
+# embedded-parenthetical-permissive `_HEADING_UNIT_RE` above: 174 of 569 have their last
+# heading-or-sub-heading-shaped paragraph beyond raw offset 150,000 (the prior value of
+# this constant); the furthest is chapter 656 (~220 entries, the largest real chapter) at
+# 636,548. At 150,000 those 174 chapters' TOC tail was silently out of reach for this
+# function -- any governing heading positioned that late could not enter `phrases` at all,
+# regardless of whether a title actually needed it. Widened to 700,000, comfortably past
+# the measured maximum, with margin for a chapter that grows.
+# Running past the real TOC into body text is harmless in the ordinary case -- a stray
+# extra candidate phrase can only ever strip something if a title's own tail already ends
+# in that exact literal text -- but this is NOT true for a phrase recovered by merging a
+# paragraph the source wraps across a blank line (see the merge in `_toc_heading_phrases`):
+# for those rows, correctness depends on the phrase's own text reappearing, unbroken,
+# somewhere the title's tail can match against, which is a property of where the source
+# happens to repeat itself, not something this window or the strip mechanism verifies.
+# Measured against the current corpus: widening 150,000 to 700,000 does not change a single
+# title across all 569 committed chapters (every governing heading a real row's title
+# needed was already within the old window) -- this constant is prophylactic against a
+# larger future chapter, not a fix for a defect visible in today's data.
+_HEADING_WINDOW = 700_000
+
+
+def _after_edition(text, span):
+    """The one place both `parse_toc` and `_toc_heading_phrases` used to separately
+    duplicate "find the chapter's own `EDITION` banner, bail if it isn't there, slice a
+    window right after it" -- on two different strings (this module's raw, unnormalized
+    snapshot text for the latter; `ws_only`'d text for the former), so this takes `text` as
+    a parameter rather than assuming which one. Returns `None`, not `""`, when the chapter
+    has no such banner at all, so a caller can tell "no TOC region" apart from "an empty
+    one" (38 of 569 committed chapters carry no `EDITION` token; see `_selftest`'s own #349
+    measurement)."""
+    i = text.find("EDITION")
+    if i < 0:
+        return None
+    start = i + len("EDITION")
+    return text[start:start + span]
+
+
+def _toc_heading_phrases(raw_text):
+    """Every isolated paragraph in the TOC region that is EITHER an all-caps section-group
+    heading (optionally with its own all-caps parenthetical on the same paragraph) OR a
+    parenthetical sub-heading of any case, normalized the same way `parse_toc` normalizes a
+    catchline (`ws_only`) so they compare equal. This is broader than "heading or
+    sub-heading" alone: any isolated parenthetical paragraph qualifies, which is also why
+    a `(Temporary provisions relating to ...)` editorial compilation note -- furniture, not
+    a section-group heading -- is collected and stripped the same way (measured 2026-09-12,
+    all 569 committed chapters: 112 rows; #346's own thread already called this text
+    garbage, so stripping it is not new policy, just an undocumented side effect of the same
+    mechanism, documented here).
+    A heading immediately followed by its own sub-heading PARAGRAPH is combined into one
+    phrase ("ART AND CRAFT MATERIALS (Generally)"); either stands alone otherwise ("COURTS";
+    a bare "(Miscellaneous)"). A parenthetical sub-heading the source itself wraps across a
+    paragraph break ("(Educator Professional" / "Development Program)", ch. 329) is merged
+    back into one unit before either pattern is tried, so it is not lost to being
+    unbalanced-parenthesis in each half. Longest first, so a combined phrase is tried before
+    its own bare-heading prefix would also match."""
+    window = _after_edition(raw_text, _HEADING_WINDOW)
+    if window is None:
+        return []
+    units = [ws_only(u) for u in _PARA_SEP_RE.split(window)]
+    # A parenthetical the source's own typesetting splits across a blank line opens a "("
+    # with no closing ")" in its own unit -- merge it with the very next unit before either
+    # heading pattern below ever sees it (a still-unbalanced merge simply matches neither
+    # pattern, exactly as the un-merged fragments already didn't, so this cannot introduce a
+    # false match).
+    merged = []
+    k = 0
+    while k < len(units):
+        u = units[k]
+        if u.startswith("(") and ")" not in u and k + 1 < len(units):
+            u = u + " " + units[k + 1]
+            k += 1
+        merged.append(u)
+        k += 1
+    units = merged
+    phrases = []
+    k = 0
+    while k < len(units):
+        u = units[k]
+        if _HEADING_UNIT_RE.match(u):
+            if k + 1 < len(units) and _SUBHEADING_UNIT_RE.match(units[k + 1]):
+                phrases.append(u + " " + units[k + 1])
+                k += 2
+                continue
+            phrases.append(u)
+        elif _SUBHEADING_UNIT_RE.match(u):
+            phrases.append(u)
+        k += 1
+    phrases.sort(key=len, reverse=True)
+    return phrases
+
+
+def _strip_glued_headings(rest, phrases):
+    """Removes a KNOWN heading/sub-heading phrase (see `_toc_heading_phrases`) glued onto
+    the tail of a catchline -- exact, structurally-sourced text, never a length guess.
+    Loops rather than stripping once, because a bare heading paragraph, a separately
+    -typeset sub-heading paragraph, and a `(Temporary provisions relating to ...)` note are
+    not always combined into one phrase by `_toc_heading_phrases`, and a chapter's editors
+    can stack more than one group of these onto the same gap (ORS 238.730, code review,
+    2026-09-12: two section-group headings, each with its own bare sub-heading AND its own
+    temporary-provisions note, seven strips deep). A fixed bound here is not a safe
+    simplification: measured against all 569 committed chapters, `for _ in range(3)` --
+    this function's own prior bound -- left exactly 2 rows (238.730 above; 526.905, the
+    same stacking shape) only partially stripped, mid-phrase, for no reason a reader could
+    see from the code. Looping until no phrase matches instead is provably bounded anyway:
+    every successful strip removes at least one phrase plus its separating space, so `rest`
+    strictly shortens each time and the loop ends in at most `len(rest)` iterations."""
+    while True:
+        for p in phrases:
+            if rest == p:
+                # `parse_toc`'s own `len(rest) < 3` filter drops whatever this returns --
+                # an entry whose ENTIRE title, once the glued phrase is peeled off, is
+                # nothing at all (the TOC printed only the group heading here, no real
+                # catchline of its own). Fires on zero rows today (verified: identical
+                # entry counts across all 569 committed chapters, no empty titles) -- this
+                # is the brief's own explicitly out-of-scope "section-group heading
+                # admitted as a section" class (#406), silently dropped rather than
+                # cataloged, not a case this function is asked to solve.
+                return ""
+            if rest.endswith(" " + p):
+                rest = rest[: -(len(p) + 1)].rstrip()
+                break
+        else:
+            break
+    return rest
+
+
 # #346: the two shapes chapter furniture takes right after a chapter's own genuinely LAST
 # TOC entry (measured against all 4 affected chapters -- see `_catchline_end`'s own
 # docstring): the SAME all-caps part/subpart heading TRAILING_HEADING_RE already knows,
@@ -173,10 +371,6 @@ def _catchline_end(tail: str) -> int:
 
 def parse_toc(raw_text, ch):
     t = ws_only(raw_text)
-    i = t.find("EDITION")
-    if i < 0:
-        return []
-    start = i + len("EDITION")
     # Wide enough for any chapter's real TOC (the largest, ORS 656, has ~220 entries) --
     # the old fixed 30,000-char window plus a first-match-of-"(1)"/"means" boundary was too
     # small AND too fragile for large chapters: it broke whenever an early section's own
@@ -186,7 +380,10 @@ def parse_toc(raw_text, ch):
     # DENSITY to find the boundary: the TOC is a dense run of "NUM catchline NUM catchline
     # ..." (each entry a few dozen characters), while body prose is not -- the first big
     # gap between consecutive matches marks the transition to body text.
-    chunk = t[start:start + 600000]
+    chunk = _after_edition(t, 600_000)
+    if chunk is None:
+        return []
+    heading_phrases = _toc_heading_phrases(raw_text)
     xref_spans = [m.span() for m in XREF_RE.finditer(chunk)]
 
     def real_boundary(m):
@@ -240,6 +437,7 @@ def parse_toc(raw_text, ch):
             continue
         num, rest = pm.groups()
         rest = re.split(r"\[", rest)[0].strip(" .")
+        rest = _strip_glued_headings(rest, heading_phrases).strip(" .")
         rest = TRAILING_HEADING_RE.sub("", rest).strip(" .")
         # a heavily-renumbered chapter (e.g. 279, split into 279A/B/C in 2003) often carries
         # a "repealed sections" summary elsewhere on the page listing old numbers with their
@@ -264,6 +462,34 @@ def _selftest() -> int:
     `_RECOVERED_TAIL_CAP`, so nothing real is left to pin it against -- that block's
     fixture is synthetic on purpose, standing in for a corpus case that does not exist
     today.
+    A fourth block, #397, is real chapters again: a following section-group heading (and,
+    fixed in the same change for the same structural reason, a bare parenthetical
+    sub-heading with no heading of its own) glued onto the PRECEDING entry's title. Measured
+    (2026-09-12, code review, against a fresh re-parse of all 569 committed chapters vs. the
+    committed catalog, excluding 16 rows of pre-existing unrelated catalog drift -- wording
+    fixes and one already-separately-fixed xref-truncation row not yet backfilled): **2,486**
+    titles change -- 326 bare-heading, 402 heading+parenthetical, 1,646 bare-subheading, and
+    112 a fourth family this docstring did not originally name: a `(Temporary provisions
+    relating to ...)` editorial compilation note (see `_toc_heading_phrases`'s own docstring).
+    203 of the 2,486 recover from a committed title that was truncated exactly at the
+    160-char cap by the glued text; of those, 2 (`441.427`, `466.530`) recover a REAL trailing
+    acronym (`HIV`, `PCB`) that the pre-#397 code's shape-only `TRAILING_HEADING_RE` had eaten
+    outright -- the other 201 simply lose glued noise the cap had been truncating, no content
+    at risk either way. See `_toc_heading_phrases`'s own docstring for why a real trailing
+    acronym still attached to its sentence (`279A.152`'s "...recycled PETE") is never at risk.
+    Of the 2,486, 24 rows are corrected ONLY because of three additional causes found by code
+    review and fixed in the same change (not present in the original count of "1 of 2,465"):
+    a digit inside an otherwise-isolated heading paragraph (18 rows, e.g. `541.990`'s "WATER
+    COMPANIES ORGANIZED UNDER 1891 ACT"), an ALL-CAPS parenthetical on the heading's OWN
+    paragraph rather than a separate one (3 rows, e.g. `223.161`'s "FINANCING LOCAL
+    IMPROVEMENTS (BANCROFT BONDING ACT)"), and a parenthetical sub-heading the source itself
+    wraps across a blank line (2 rows, `329.820`, `455.453`) -- one row (`801.610`) needed
+    both the digit and embedded-parenthetical fixes. TRUE RESIDUAL, re-measured after all of
+    the above: **5 rows** still carry a known phrase glued mid-title rather than at the tail
+    -- a `Note ...` editorial marginalia (Title Case, not parenthetical, so `_toc_heading_
+    phrases` never captures it) or a second heading/note follows the first before the next
+    real section number, so the exact-suffix strip in `_strip_glued_headings` cannot reach
+    it. Tracked, not fixed here: issue filed, see its number in the PR body.
     `python3 src/catalog_ors.py --selftest`."""
     from repo_lib import Checks
     ck = Checks()
@@ -413,6 +639,157 @@ def _selftest() -> int:
        "the cap itself, 2000 chars, and not the tail's length or the title's 160-char "
        "truncation -- this is the assertion that goes red if `_RECOVERED_TAIL_CAP` moves",
        _catchline_end(tail999) == _RECOVERED_TAIL_CAP == 2000)
+
+    # #397: a bare section-group heading, and a heading followed by its own parenthetical
+    # sub-heading, glued onto the PRECEDING section's title -- measured against origin/main's
+    # committed catalog at 135 bare-heading and 359 heading+parenthetical titles (494 total).
+    # All four real chapters below are the actual committed `_meta/snapshots/ors-chapter-*
+    # .txt`, not synthetic fixtures, per this module's own established practice.
+    s1 = secs("1")
+    ck("1.860 (bare heading 'COURTS', 6 chars -- under TRAILING_HEADING_RE's 8-char floor, "
+       "the exact shape that regex could never catch) is recovered clean",
+       s1.get("1.860") == "Reports relating to municipal courts and justice courts")
+
+    s453 = secs("453")
+    # THE HEADING+PARENTHETICAL SHAPE: `TRAILING_HEADING_RE`'s `$` anchor can never reach an
+    # all-caps heading followed by its own parenthetical sub-heading, because the
+    # parenthetical -- not the heading -- is what sits at the true end of the glued string.
+    ck("453.185 ('ART AND CRAFT MATERIALS (Generally)' glued on, #397's own worked example) "
+       "is recovered clean",
+       s453.get("453.185") == "False representation by purchaser prohibited")
+
+    # A THIRD SHAPE FOUND FIXING THE SAME FUNCTION, SAME PARAGRAPH-STRUCTURE MECHANISM,
+    # FIXED IN THIS SAME CHANGE (AGENTS.md's "found a defect? fix it" -- not a new issue,
+    # not a review finding filed separately): a bare parenthetical SUB-heading with no
+    # heading paragraph of its own immediately before it, because it names a later group
+    # under a heading already stated earlier in the same chapter. Neither shape #397
+    # measured (it counted only heading-led glue), so this is reported separately, not
+    # folded into that 494.
+    ck("453.135 (bare sub-heading '(Miscellaneous)' with no heading paragraph of its own -- "
+       "it names a later group under 'HAZARDOUS SUBSTANCES', stated earlier in the same "
+       "chapter) is recovered clean",
+       s453.get("453.135") == "Notice required prior to institution of criminal "
+       "proceedings")
+    ck("453.025 (same bare-sub-heading shape, '(Regulation; Prohibited Acts)') keeps its "
+       "own in-catchline xref range intact AND loses only the glued sub-heading",
+       s453.get("453.025") == "Certain practices not affected by ORS 453.005 to 453.135")
+
+    # MUST NOT REGRESS: a real trailing acronym that is NOT its own paragraph in the source
+    # (it wraps onto the SAME line as the rest of its sentence) must survive untouched, at
+    # any length -- the boundary here is the source's own paragraph layout, not a length
+    # floor, so this is not "the floor, lowered further" and does not start eating
+    # legitimate short trailing words the way that would.
+    s279a = secs("279A")
+    ck("279A.152's own real trailing acronym ('...recycled PETE', never its own paragraph "
+       "in the source) is NOT stripped",
+       s279a.get("279A.152") == "Assessment of procurement practices related to recycled "
+       "products and materials and recycled PETE")
+
+    # THE INTERACTION #397 FLAGGED BUT DID NOT ASSERT WAS A BUG: a glued heading long enough
+    # to push a title past the 160-char cap used to truncate mid-word ("...INJU") instead of
+    # being stripped, because the cap ran before the strip. Removing the glued heading first
+    # is what fixes this -- not a change to the cap itself, which stays exactly `title[:160]`.
+    s654 = secs("654")
+    ck("654.196's glued heading ('INJURED WORKERS' MEMORIAL SCHOLARSHIP', including the "
+       "source's own Unicode right single quote) no longer survives far enough to be cut "
+       "mid-word by the 160-char cap",
+       s654.get("654.196") == "Rules on contents of piping systems; posting notice on "
+       "right to be informed of hazardous substances; withholding of information under "
+       "certain circumstances")
+
+    # THE #348 TRUNCATION SHAPE MUST STAY UNTOUCHED: a dangling in-catchline cross-reference
+    # ("Definitions for ORS 1.010 to") is a different bug (#348, unresolved TOC/body
+    # disagreement over where the range's own second number lives), not this one, and this
+    # fix must not touch it -- #397's own brief was explicit that mixing the two would make
+    # both unreviewable.
+    ck("1.194 (the #348 dangling-xref shape, unrelated to this fix) is unchanged",
+       s1.get("1.194") == "Definitions for ORS")
+
+    # CODE-REVIEW FOLLOW-UP (F1): three more causes of the SAME glued-heading bug, found
+    # measuring this fix's own residual against all 569 committed chapters -- not a new
+    # issue, the same one, undercounted.
+    #
+    # (a) A HEADING PARAGRAPH WITH A DIGIT IN IT: `_HEADING_UNIT_RE` required every
+    # character of the isolated paragraph to be a letter (or the small punctuation set
+    # above), so a heading that happens to include a digit -- a year ("... UNDER 1891 ACT"),
+    # a population threshold ("... CITIES OF 3,000 OR MORE"), or a designation
+    # ("2-1-1 SYSTEM", "340B DRUGS") -- fell through untouched, at any length, the same gap
+    # `TRAILING_HEADING_RE` already had. Widening the class to admit digits (and letting the
+    # first character be one too, for "2-1-1 SYSTEM") does NOT reopen the false-positive risk
+    # measured against ch. 688's "SECTION 1. PURPOSE" or ch. 815's "ORS 803.430" -- both
+    # contain a period, which stays outside the class -- nor against a bare page number ("94")
+    # in ch. 815's own wrapped table, which the added `(?=.*[A-Z])` lookahead excludes by
+    # requiring at least one letter in the isolated paragraph.
+    s541 = secs("541")
+    ck("541.990's glued heading ('WATER COMPANIES ORGANIZED UNDER 1891 ACT', a digit inside "
+       "an all-caps heading paragraph) is recovered clean",
+       s541.get("541.990") == "Penalties")
+    s689 = secs("689")
+    ck("689.813's glued heading ('PROHIBITIONS RELATED TO 340B DRUGS', a digit-letter "
+       "designation inside an all-caps heading paragraph) is recovered clean",
+       s689.get("689.813") == "Exemption from drug labeling requirements")
+
+    # (b) AN ALL-CAPS PARENTHETICAL ON THE HEADING'S OWN PARAGRAPH -- the shape #397's own
+    # issue was filed against, but not the shape its fix actually caught: here the heading
+    # and its parenthetical sub-heading are ONE paragraph, not two ("FINANCING LOCAL
+    # IMPROVEMENTS\n(BANCROFT BONDING ACT)" is a single blank-line-delimited unit), so neither
+    # the heading+next-paragraph combination logic below nor `_SUBHEADING_UNIT_RE` (which
+    # requires the WHOLE unit to start with `(`) ever saw it. Letting `_HEADING_UNIT_RE`
+    # itself match an optional trailing all-caps parenthetical closes this without touching
+    # the two-paragraph combination logic at all.
+    s223 = secs("223")
+    ck("223.161's glued heading+parenthetical, both on ONE paragraph ('FINANCING LOCAL "
+       "IMPROVEMENTS (BANCROFT BONDING ACT)'), is recovered clean",
+       s223.get("223.161") == "Effect of local improvement districts or urban renewal "
+       "districts")
+    s343 = secs("343")
+    ck("343.534's glued heading+parenthetical, both on ONE paragraph ('APPROPRIATE LEARNING "
+       "MEDIA FOR BLIND STUDENTS (BRAILLE)'), is recovered clean",
+       s343.get("343.534") == "Allocation of state funds to approved providers")
+
+    # (c) A PARENTHETICAL SUB-HEADING WRAPPED ACROSS A PARAGRAPH BREAK: the source
+    # occasionally breaks a parenthetical sub-heading's OWN text across a blank line
+    # ("(Educator Professional\n\nDevelopment Program)" -- the source's typesetting, not a
+    # snapshot artifact), so `_PARA_SEP_RE` splits it into two units, "(Educator
+    # Professional" and "Development Program)", neither of which is a complete, balanced
+    # parenthetical -- `_SUBHEADING_UNIT_RE` matches neither half. Merging a unit that opens
+    # a paren it never closes with the very next unit (see `_toc_heading_phrases`) restores
+    # the single phrase without touching any other unit.
+    s329 = secs("329")
+    ck("329.820's sub-heading, wrapped across a paragraph break ('(Educator Professional' / "
+       "'Development Program)'), is recovered clean",
+       s329.get("329.820") == "Evaluation of programs; donations")
+    s455 = secs("455")
+    ck("455.453's sub-heading, wrapped the same way ('(Specialty Code Inspection and' / "
+       "'Building Plan Review)'), is recovered clean",
+       s455.get("455.453") == "Additional prohibitions")
+
+    # CODE-REVIEW FOLLOW-UP (judgement call): `_strip_glued_headings`'s own bound used to be
+    # a fixed `for _ in range(3)`, unmeasured. Measured against all 569 committed chapters:
+    # a chapter can stack MORE than one section-group heading (each with its own bare
+    # sub-heading AND its own temporary-provisions note) into the same gap, and a fixed
+    # bound of 3 left exactly these two rows only partially stripped, mid-phrase.
+    s238 = secs("238")
+    ck("238.730 (two stacked section-group headings, each with its own sub-heading and its "
+       "own temporary-provisions note, seven strips deep -- more than a fixed bound of 3 "
+       "reaches) is recovered clean",
+       s238.get("238.730") == "Unfunded Actuarial Liability Resolution Program")
+    s526 = secs("526")
+    ck("526.905 (the same stacked shape as 238.730) is recovered clean",
+       s526.get("526.905") == "Management plans or policies to reduce risk of loss of "
+       "forest resources")
+
+    # SPEC: the brief's own three named must-fix rows (none of these were asserted before,
+    # though all three were already correct).
+    s131 = secs("131")
+    ck("131.235 (one of the brief's three named must-fix rows) is correct",
+       s131.get("131.235") == "Criminal homicide")
+    s164 = secs("164")
+    ck("164.388 (one of the brief's three named must-fix rows) is correct",
+       s164.get("164.388") == "Preemption")
+    s109 = secs("109")
+    ck("109.834 (one of the brief's three named must-fix rows) is correct",
+       s109.get("109.834") == "Severability clause")
 
     return ck.report("catalog-ors selftest")
 

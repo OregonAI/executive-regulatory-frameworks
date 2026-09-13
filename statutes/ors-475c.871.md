@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.871
-title: "Use of Oregon Liquor and Cannabis Commission tracking system; distribution from Oregon Marijuana Account; exemptions; fees; rules (Designation, Assignment, Fore"
+title: "Use of Oregon Liquor and Cannabis Commission tracking system; distribution from Oregon Marijuana Account; exemptions; fees; rules"
 doc_type: statute
 citation: "ORS 475C.871"
 authority_level: statute
@@ -49,11 +49,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Use of Oregon Liquor and Cannabis Commission tracking system; distribution from Oregon Marijuana Account; exemptions; fees; rules (Designation, Assignment, Fore (ORS 475C.871)
+# Use of Oregon Liquor and Cannabis Commission tracking system; distribution from Oregon Marijuana Account; exemptions; fees; rules (ORS 475C.871)
 
 ## At a glance
 
-ORS 475C.871 — Use of Oregon Liquor and Cannabis Commission tracking system; distribution from Oregon Marijuana Account; exemptions; fees; rules (Designation, Assignment, Fore. Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.871 — Use of Oregon Liquor and Cannabis Commission tracking system; distribution from Oregon Marijuana Account; exemptions; fees; rules. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

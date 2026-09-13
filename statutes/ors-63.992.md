@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-63.992
-title: "Liability for certain actions in connection with operation of shell entity; actions as false claim; enforcement by civil action GENERAL PROVISIONS (Definitions)"
+title: "Liability for certain actions in connection with operation of shell entity; actions as false claim; enforcement by civil action"
 doc_type: statute
 citation: "ORS 63.992"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-63"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors063.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Liability for certain actions in connection with operation of shell entity; actions as false claim; enforcement by civil action GENERAL PROVISIONS (Definitions) (ORS 63.992)
+# Liability for certain actions in connection with operation of shell entity; actions as false claim; enforcement by civil action (ORS 63.992)
 
 ## At a glance
 
-ORS 63.992 — Liability for certain actions in connection with operation of shell entity; actions as false claim; enforcement by civil action GENERAL PROVISIONS (Definitions). Chapter 63 (Limited Liability Companies), 2025 Edition.
+ORS 63.992 — Liability for certain actions in connection with operation of shell entity; actions as false claim; enforcement by civil action. Chapter 63 (Limited Liability Companies), 2025 Edition.
 
 ## Full text
 

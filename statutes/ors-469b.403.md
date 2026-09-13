@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-469b.403
-title: "Biomass; eligibility for tax credits; rates SOLAR SYSTEMS (Temporary provisions relating to rebates for solar systems are compiled as notes following ORS 469B.4"
+title: "Biomass; eligibility for tax credits; rates"
 doc_type: statute
 citation: "ORS 469B.403"
 authority_level: statute
@@ -53,11 +53,11 @@ tags: ["ors", "chapter-469b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Biomass; eligibility for tax credits; rates SOLAR SYSTEMS (Temporary provisions relating to rebates for solar systems are compiled as notes following ORS 469B.4 (ORS 469B.403)
+# Biomass; eligibility for tax credits; rates (ORS 469B.403)
 
 ## At a glance
 
-ORS 469B.403 — Biomass; eligibility for tax credits; rates SOLAR SYSTEMS (Temporary provisions relating to rebates for solar systems are compiled as notes following ORS 469B.4. Chapter 469B (Chapter 469B), 2025 Edition.
+ORS 469B.403 — Biomass; eligibility for tax credits; rates. Chapter 469B (Chapter 469B), 2025 Edition.
 
 ## Full text
 

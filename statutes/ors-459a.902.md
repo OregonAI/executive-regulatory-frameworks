@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-459a.902
-title: "Duties of council (Responsibilities of Local Governments)"
+title: "Duties of council"
 doc_type: statute
 citation: "ORS 459A.902"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Duties of council (Responsibilities of Local Governments) (ORS 459A.902)
+# Duties of council (ORS 459A.902)
 
 ## At a glance
 
-ORS 459A.902 — Duties of council (Responsibilities of Local Governments). Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.902 — Duties of council. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 

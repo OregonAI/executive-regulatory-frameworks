@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.228
-title: "Discrimination for reporting violation of election laws prohibited (Initiating or Aiding Administrative, Criminal or Civil Proceeding)"
+title: "Discrimination for reporting violation of election laws prohibited"
 doc_type: statute
 citation: "ORS 659A.228"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Discrimination for reporting violation of election laws prohibited (Initiating or Aiding Administrative, Criminal or Civil Proceeding) (ORS 659A.228)
+# Discrimination for reporting violation of election laws prohibited (ORS 659A.228)
 
 ## At a glance
 
-ORS 659A.228 — Discrimination for reporting violation of election laws prohibited (Initiating or Aiding Administrative, Criminal or Civil Proceeding). Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.228 — Discrimination for reporting violation of election laws prohibited. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

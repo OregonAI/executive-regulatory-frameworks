@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.290
-title: "Prohibited conduct by employer; records confidential MISCELLANEOUS UNLAWFUL EMPLOYMENT DISCRIMINATION (Prohibited Testing)"
+title: "Prohibited conduct by employer; records confidential"
 doc_type: statute
 citation: "ORS 659A.290"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Prohibited conduct by employer; records confidential MISCELLANEOUS UNLAWFUL EMPLOYMENT DISCRIMINATION (Prohibited Testing) (ORS 659A.290)
+# Prohibited conduct by employer; records confidential (ORS 659A.290)
 
 ## At a glance
 
-ORS 659A.290 — Prohibited conduct by employer; records confidential MISCELLANEOUS UNLAWFUL EMPLOYMENT DISCRIMINATION (Prohibited Testing). Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.290 — Prohibited conduct by employer; records confidential. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

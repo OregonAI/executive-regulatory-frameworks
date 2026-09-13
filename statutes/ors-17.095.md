@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-17.095
-title: "Prohibition of confidential settlements and compromises; exceptions SETTLEMENT OF CLAIM OF INCAPACITATED PERSON,"
+title: "Prohibition of confidential settlements and compromises; exceptions"
 doc_type: statute
 citation: "ORS 17.095"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-17"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors017.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Prohibition of confidential settlements and compromises; exceptions SETTLEMENT OF CLAIM OF INCAPACITATED PERSON, (ORS 17.095)
+# Prohibition of confidential settlements and compromises; exceptions (ORS 17.095)
 
 ## At a glance
 
-ORS 17.095 — Prohibition of confidential settlements and compromises; exceptions SETTLEMENT OF CLAIM OF INCAPACITATED PERSON,. Chapter 17 (Compromise; Settlement), 2025 Edition.
+ORS 17.095 — Prohibition of confidential settlements and compromises; exceptions. Chapter 17 (Compromise; Settlement), 2025 Edition.
 
 ## Full text
 

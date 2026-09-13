@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-3.428
-title: "Family law facilitation programs (Family Court Advocate Programs)"
+title: "Family law facilitation programs"
 doc_type: statute
 citation: "ORS 3.428"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-3"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors003.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Family law facilitation programs (Family Court Advocate Programs) (ORS 3.428)
+# Family law facilitation programs (ORS 3.428)
 
 ## At a glance
 
-ORS 3.428 — Family law facilitation programs (Family Court Advocate Programs). Chapter 3 (Circuit Courts Generally), 2025 Edition.
+ORS 3.428 — Family law facilitation programs. Chapter 3 (Circuit Courts Generally), 2025 Edition.
 
 ## Full text
 

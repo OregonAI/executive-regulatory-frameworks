@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285b.419
-title: "Administration of Special Public Works Fund; rules and policies (Levee Project Assistance)"
+title: "Administration of Special Public Works Fund; rules and policies"
 doc_type: statute
 citation: "ORS 285B.419"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Administration of Special Public Works Fund; rules and policies (Levee Project Assistance) (ORS 285B.419)
+# Administration of Special Public Works Fund; rules and policies (ORS 285B.419)
 
 ## At a glance
 
-ORS 285B.419 — Administration of Special Public Works Fund; rules and policies (Levee Project Assistance). Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.419 — Administration of Special Public Works Fund; rules and policies. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

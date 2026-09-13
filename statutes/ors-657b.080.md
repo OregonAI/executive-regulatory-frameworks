@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-657b.080
-title: "False statements or failure to report material fact by employer (Claims Administration)"
+title: "False statements or failure to report material fact by employer"
 doc_type: statute
 citation: "ORS 657B.080"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-657b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors657b.html> (retrieved 2026-07-26, 2025 Edition).
 
-# False statements or failure to report material fact by employer (Claims Administration) (ORS 657B.080)
+# False statements or failure to report material fact by employer (ORS 657B.080)
 
 ## At a glance
 
-ORS 657B.080 — False statements or failure to report material fact by employer (Claims Administration). Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
+ORS 657B.080 — False statements or failure to report material fact by employer. Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
 
 ## Full text
 

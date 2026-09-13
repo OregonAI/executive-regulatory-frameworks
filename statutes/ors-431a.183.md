@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-431a.183
-title: "Agreements to enforce regulation of tobacco products and inhalant delivery systems; report; rules TOBACCO RETAILER LICENSURE (Generally)"
+title: "Agreements to enforce regulation of tobacco products and inhalant delivery systems; report; rules"
 doc_type: statute
 citation: "ORS 431A.183"
 authority_level: statute
@@ -47,11 +47,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Agreements to enforce regulation of tobacco products and inhalant delivery systems; report; rules TOBACCO RETAILER LICENSURE (Generally) (ORS 431A.183)
+# Agreements to enforce regulation of tobacco products and inhalant delivery systems; report; rules (ORS 431A.183)
 
 ## At a glance
 
-ORS 431A.183 — Agreements to enforce regulation of tobacco products and inhalant delivery systems; report; rules TOBACCO RETAILER LICENSURE (Generally). Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.183 — Agreements to enforce regulation of tobacco products and inhalant delivery systems; report; rules. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-65.384
-title: "Contract rights of officers (Indemnification)"
+title: "Contract rights of officers"
 doc_type: statute
 citation: "ORS 65.384"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-65"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors065.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Contract rights of officers (Indemnification) (ORS 65.384)
+# Contract rights of officers (ORS 65.384)
 
 ## At a glance
 
-ORS 65.384 — Contract rights of officers (Indemnification). Chapter 65 (Nonprofit Corporations), 2025 Edition.
+ORS 65.384 — Contract rights of officers. Chapter 65 (Nonprofit Corporations), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-92.375
-title: "Consent to service of process on commissioner (Examination of Subdivision and Series Partition; Public Report)"
+title: "Consent to service of process on commissioner"
 doc_type: statute
 citation: "ORS 92.375"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-92"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors092.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Consent to service of process on commissioner (Examination of Subdivision and Series Partition; Public Report) (ORS 92.375)
+# Consent to service of process on commissioner (ORS 92.375)
 
 ## At a glance
 
-ORS 92.375 — Consent to service of process on commissioner (Examination of Subdivision and Series Partition; Public Report). Chapter 92 (Subdivisions and Partitions), 2025 Edition.
+ORS 92.375 — Consent to service of process on commissioner. Chapter 92 (Subdivisions and Partitions), 2025 Edition.
 
 ## Full text
 

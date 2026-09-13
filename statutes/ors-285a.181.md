@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285a.181
-title: "Provisions required for department programs using certain federal moneys (Brownfields Redevelopment and Cleanup)"
+title: "Provisions required for department programs using certain federal moneys"
 doc_type: statute
 citation: "ORS 285A.181"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Provisions required for department programs using certain federal moneys (Brownfields Redevelopment and Cleanup) (ORS 285A.181)
+# Provisions required for department programs using certain federal moneys (ORS 285A.181)
 
 ## At a glance
 
-ORS 285A.181 — Provisions required for department programs using certain federal moneys (Brownfields Redevelopment and Cleanup). Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.181 — Provisions required for department programs using certain federal moneys. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

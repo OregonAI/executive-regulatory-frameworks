@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-58.115
-title: "Corporate name (Foreign Professional Corporations)"
+title: "Corporate name"
 doc_type: statute
 citation: "ORS 58.115"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-58"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors058.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Corporate name (Foreign Professional Corporations) (ORS 58.115)
+# Corporate name (ORS 58.115)
 
 ## At a glance
 
-ORS 58.115 — Corporate name (Foreign Professional Corporations). Chapter 58 (Professional Corporations), 2025 Edition.
+ORS 58.115 — Corporate name. Chapter 58 (Professional Corporations), 2025 Edition.
 
 ## Full text
 

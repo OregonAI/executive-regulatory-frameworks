@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-238a.375
-title: "Distribution of accounts to inactive member (Defined Contribution Benefit)"
+title: "Distribution of accounts to inactive member"
 doc_type: statute
 citation: "ORS 238A.375"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Distribution of accounts to inactive member (Defined Contribution Benefit) (ORS 238A.375)
+# Distribution of accounts to inactive member (ORS 238A.375)
 
 ## At a glance
 
-ORS 238A.375 — Distribution of accounts to inactive member (Defined Contribution Benefit). Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.375 — Distribution of accounts to inactive member. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 

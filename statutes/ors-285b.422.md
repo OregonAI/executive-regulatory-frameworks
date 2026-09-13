@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285b.422
-title: "Funding to municipalities for development projects; criteria for project funding; prohibited uses (Housing Infrastructure Financing)"
+title: "Funding to municipalities for development projects; criteria for project funding; prohibited uses"
 doc_type: statute
 citation: "ORS 285B.422"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Funding to municipalities for development projects; criteria for project funding; prohibited uses (Housing Infrastructure Financing) (ORS 285B.422)
+# Funding to municipalities for development projects; criteria for project funding; prohibited uses (ORS 285B.422)
 
 ## At a glance
 
-ORS 285B.422 — Funding to municipalities for development projects; criteria for project funding; prohibited uses (Housing Infrastructure Financing). Chapter 285B (Chapter 285B), 2025 Edition.
+ORS 285B.422 — Funding to municipalities for development projects; criteria for project funding; prohibited uses. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 

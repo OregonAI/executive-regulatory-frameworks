@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-657b.260
-title: "Successor in interest required to continue offering approved plan to eligible employees until withdrawal of plan; request for withdrawal COLLECTIONS;"
+title: "Successor in interest required to continue offering approved plan to eligible employees until withdrawal of plan; request for withdrawal"
 doc_type: statute
 citation: "ORS 657B.260"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-657b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors657b.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Successor in interest required to continue offering approved plan to eligible employees until withdrawal of plan; request for withdrawal COLLECTIONS; (ORS 657B.260)
+# Successor in interest required to continue offering approved plan to eligible employees until withdrawal of plan; request for withdrawal (ORS 657B.260)
 
 ## At a glance
 
-ORS 657B.260 — Successor in interest required to continue offering approved plan to eligible employees until withdrawal of plan; request for withdrawal COLLECTIONS;. Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
+ORS 657B.260 — Successor in interest required to continue offering approved plan to eligible employees until withdrawal of plan; request for withdrawal. Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
 
 ## Full text
 

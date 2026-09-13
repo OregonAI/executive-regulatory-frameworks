@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-287a.010
-title: "Powers conveyed to public bodies (General Obligation Bonds)"
+title: "Powers conveyed to public bodies"
 doc_type: statute
 citation: "ORS 287A.010"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-287a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors287A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Powers conveyed to public bodies (General Obligation Bonds) (ORS 287A.010)
+# Powers conveyed to public bodies (ORS 287A.010)
 
 ## At a glance
 
-ORS 287A.010 — Powers conveyed to public bodies (General Obligation Bonds). Chapter 287A (Chapter 287A), 2025 Edition.
+ORS 287A.010 — Powers conveyed to public bodies. Chapter 287A (Chapter 287A), 2025 Edition.
 
 ## Full text
 

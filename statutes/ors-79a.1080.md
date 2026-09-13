@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-79a.1080
-title: "UCC 9-108. Sufficiency of description (Applicability of Chapter)"
+title: "UCC 9-108. Sufficiency of description"
 doc_type: statute
 citation: "ORS 79A.1080"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-79a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors079a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# UCC 9-108. Sufficiency of description (Applicability of Chapter) (ORS 79A.1080)
+# UCC 9-108. Sufficiency of description (ORS 79A.1080)
 
 ## At a glance
 
-ORS 79A.1080 — UCC 9-108. Sufficiency of description (Applicability of Chapter). Chapter 79A (Secured Transactions), 2025 Edition.
+ORS 79A.1080 — UCC 9-108. Sufficiency of description. Chapter 79A (Secured Transactions), 2025 Edition.
 
 ## Full text
 

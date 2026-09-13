@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285a.176
-title: "Geospatial data; proprietary information; rules (Oregon Business Development Department Financial Assistance)"
+title: "Geospatial data; proprietary information; rules"
 doc_type: statute
 citation: "ORS 285A.176"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Geospatial data; proprietary information; rules (Oregon Business Development Department Financial Assistance) (ORS 285A.176)
+# Geospatial data; proprietary information; rules (ORS 285A.176)
 
 ## At a glance
 
-ORS 285A.176 — Geospatial data; proprietary information; rules (Oregon Business Development Department Financial Assistance). Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.176 — Geospatial data; proprietary information; rules. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

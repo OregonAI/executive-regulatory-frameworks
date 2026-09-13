@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-469a.480
-title: "Electric company serving 25,000 or fewer consumers not subject to requirements RENEWABLE PORTFOLIO STANDARDS (Definitions)"
+title: "Electric company serving 25,000 or fewer consumers not subject to requirements"
 doc_type: statute
 citation: "ORS 469A.480"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-469a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Electric company serving 25,000 or fewer consumers not subject to requirements RENEWABLE PORTFOLIO STANDARDS (Definitions) (ORS 469A.480)
+# Electric company serving 25,000 or fewer consumers not subject to requirements (ORS 469A.480)
 
 ## At a glance
 
-ORS 469A.480 — Electric company serving 25,000 or fewer consumers not subject to requirements RENEWABLE PORTFOLIO STANDARDS (Definitions). Chapter 469A (Chapter 469A), 2025 Edition.
+ORS 469A.480 — Electric company serving 25,000 or fewer consumers not subject to requirements. Chapter 469A (Chapter 469A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.052
-title: "Reemployment rights of injured state workers; rules (Benefits for Injured State Workers and Covered Dependents)"
+title: "Reemployment rights of injured state workers; rules"
 doc_type: statute
 citation: "ORS 659A.052"
 authority_level: statute
@@ -48,11 +48,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Reemployment rights of injured state workers; rules (Benefits for Injured State Workers and Covered Dependents) (ORS 659A.052)
+# Reemployment rights of injured state workers; rules (ORS 659A.052)
 
 ## At a glance
 
-ORS 659A.052 — Reemployment rights of injured state workers; rules (Benefits for Injured State Workers and Covered Dependents). Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.052 — Reemployment rights of injured state workers; rules. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

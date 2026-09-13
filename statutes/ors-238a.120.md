@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-238a.120
-title: "Withdrawal from pension program by vested inactive member (Computation of Benefit)"
+title: "Withdrawal from pension program by vested inactive member"
 doc_type: statute
 citation: "ORS 238A.120"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Withdrawal from pension program by vested inactive member (Computation of Benefit) (ORS 238A.120)
+# Withdrawal from pension program by vested inactive member (ORS 238A.120)
 
 ## At a glance
 
-ORS 238A.120 — Withdrawal from pension program by vested inactive member (Computation of Benefit). Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.120 — Withdrawal from pension program by vested inactive member. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 

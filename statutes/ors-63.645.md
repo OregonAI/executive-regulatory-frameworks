@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-63.645
-title: "Enforcement of claims against dissolved limited liability company (Administrative Dissolution)"
+title: "Enforcement of claims against dissolved limited liability company"
 doc_type: statute
 citation: "ORS 63.645"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-63"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors063.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Enforcement of claims against dissolved limited liability company (Administrative Dissolution) (ORS 63.645)
+# Enforcement of claims against dissolved limited liability company (ORS 63.645)
 
 ## At a glance
 
-ORS 63.645 — Enforcement of claims against dissolved limited liability company (Administrative Dissolution). Chapter 63 (Limited Liability Companies), 2025 Edition.
+ORS 63.645 — Enforcement of claims against dissolved limited liability company. Chapter 63 (Limited Liability Companies), 2025 Edition.
 
 ## Full text
 

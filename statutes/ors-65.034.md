@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-65.034
-title: "Notice (Private Foundations)"
+title: "Notice"
 doc_type: statute
 citation: "ORS 65.034"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-65"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors065.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Notice (Private Foundations) (ORS 65.034)
+# Notice (ORS 65.034)
 
 ## At a glance
 
-ORS 65.034 — Notice (Private Foundations). Chapter 65 (Nonprofit Corporations), 2025 Edition.
+ORS 65.034 — Notice. Chapter 65 (Nonprofit Corporations), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.227
-title: "Referrals to specialists GRIEVANCES AND APPEALS (Health Benefit Plans)"
+title: "Referrals to specialists"
 doc_type: statute
 citation: "ORS 743B.227"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Referrals to specialists GRIEVANCES AND APPEALS (Health Benefit Plans) (ORS 743B.227)
+# Referrals to specialists (ORS 743B.227)
 
 ## At a glance
 
-ORS 743B.227 — Referrals to specialists GRIEVANCES AND APPEALS (Health Benefit Plans). Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.227 — Referrals to specialists. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

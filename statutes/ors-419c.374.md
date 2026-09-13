@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419c.374
-title: "Alternative conduct of proceedings involving traffic, boating and game cases FITNESS TO PROCEED (Motion)"
+title: "Alternative conduct of proceedings involving traffic, boating and game cases"
 doc_type: statute
 citation: "ORS 419C.374"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Alternative conduct of proceedings involving traffic, boating and game cases FITNESS TO PROCEED (Motion) (ORS 419C.374)
+# Alternative conduct of proceedings involving traffic, boating and game cases (ORS 419C.374)
 
 ## At a glance
 
-ORS 419C.374 — Alternative conduct of proceedings involving traffic, boating and game cases FITNESS TO PROCEED (Motion). Chapter 419C (Chapter 419C), 2025 Edition.
+ORS 419C.374 — Alternative conduct of proceedings involving traffic, boating and game cases. Chapter 419C (Chapter 419C), 2025 Edition.
 
 ## Full text
 

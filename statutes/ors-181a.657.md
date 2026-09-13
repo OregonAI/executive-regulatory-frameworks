@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-181a.657
-title: "Accreditation of law enforcement agencies; rules (Oregon Center for Policing Excellence)"
+title: "Accreditation of law enforcement agencies; rules"
 doc_type: statute
 citation: "ORS 181A.657"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Accreditation of law enforcement agencies; rules (Oregon Center for Policing Excellence) (ORS 181A.657)
+# Accreditation of law enforcement agencies; rules (ORS 181A.657)
 
 ## At a glance
 
-ORS 181A.657 — Accreditation of law enforcement agencies; rules (Oregon Center for Policing Excellence). Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.657 — Accreditation of law enforcement agencies; rules. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

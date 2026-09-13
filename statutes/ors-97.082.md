@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-97.082
-title: "Consent for certain autopsies; form DISPOSITION OF HUMAN BODIES (Generally)"
+title: "Consent for certain autopsies; form"
 doc_type: statute
 citation: "ORS 97.082"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-97"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors097.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Consent for certain autopsies; form DISPOSITION OF HUMAN BODIES (Generally) (ORS 97.082)
+# Consent for certain autopsies; form (ORS 97.082)
 
 ## At a glance
 
-ORS 97.082 — Consent for certain autopsies; form DISPOSITION OF HUMAN BODIES (Generally). Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
+ORS 97.082 — Consent for certain autopsies; form. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
 
 ## Full text
 

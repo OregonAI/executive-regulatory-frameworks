@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-78.1160
-title: "Securities intermediary as purchaser for value ISSUE; ISSUER"
+title: "Securities intermediary as purchaser for value"
 doc_type: statute
 citation: "ORS 78.1160"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-78"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors078.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Securities intermediary as purchaser for value ISSUE; ISSUER (ORS 78.1160)
+# Securities intermediary as purchaser for value (ORS 78.1160)
 
 ## At a glance
 
-ORS 78.1160 — Securities intermediary as purchaser for value ISSUE; ISSUER. Chapter 78 (Investment Securities), 2025 Edition.
+ORS 78.1160 — Securities intermediary as purchaser for value. Chapter 78 (Investment Securities), 2025 Edition.
 
 ## Full text
 

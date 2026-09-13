@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-34.102
-title: "Review of decisions of municipal corporations; transfers between circuit court and Land Use Board of Appeals; limitations WRIT OF MANDAMUS (Generally)"
+title: "Review of decisions of municipal corporations; transfers between circuit court and Land Use Board of Appeals; limitations"
 doc_type: statute
 citation: "ORS 34.102"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-34"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors034.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Review of decisions of municipal corporations; transfers between circuit court and Land Use Board of Appeals; limitations WRIT OF MANDAMUS (Generally) (ORS 34.102)
+# Review of decisions of municipal corporations; transfers between circuit court and Land Use Board of Appeals; limitations (ORS 34.102)
 
 ## At a glance
 
-ORS 34.102 — Review of decisions of municipal corporations; transfers between circuit court and Land Use Board of Appeals; limitations WRIT OF MANDAMUS (Generally). Chapter 34 (Writs), 2025 Edition.
+ORS 34.102 — Review of decisions of municipal corporations; transfers between circuit court and Land Use Board of Appeals; limitations. Chapter 34 (Writs), 2025 Edition.
 
 ## Full text
 

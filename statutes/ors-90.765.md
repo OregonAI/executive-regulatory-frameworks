@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-90.765
-title: "Prohibitions on retaliatory conduct by landlord (Dispute Resolution)"
+title: "Prohibitions on retaliatory conduct by landlord"
 doc_type: statute
 citation: "ORS 90.765"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-90"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors090.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Prohibitions on retaliatory conduct by landlord (Dispute Resolution) (ORS 90.765)
+# Prohibitions on retaliatory conduct by landlord (ORS 90.765)
 
 ## At a glance
 
-ORS 90.765 — Prohibitions on retaliatory conduct by landlord (Dispute Resolution). Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
+ORS 90.765 — Prohibitions on retaliatory conduct by landlord. Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
 
 ## Full text
 

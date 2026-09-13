@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.306
-title: "Requiring employee to pay for medical examination as condition of continued employment prohibited; exceptions (Miscellaneous Provisions)"
+title: "Requiring employee to pay for medical examination as condition of continued employment prohibited; exceptions"
 doc_type: statute
 citation: "ORS 659A.306"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Requiring employee to pay for medical examination as condition of continued employment prohibited; exceptions (Miscellaneous Provisions) (ORS 659A.306)
+# Requiring employee to pay for medical examination as condition of continued employment prohibited; exceptions (ORS 659A.306)
 
 ## At a glance
 
-ORS 659A.306 — Requiring employee to pay for medical examination as condition of continued employment prohibited; exceptions (Miscellaneous Provisions). Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.306 — Requiring employee to pay for medical examination as condition of continued employment prohibited; exceptions. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

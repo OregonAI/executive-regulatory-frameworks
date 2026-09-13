@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-459a.855
-title: "Product Stewardship Fund; sources; uses PRODUCER RESPONSIBILITY FOR PACKAGING, PAPER AND FOOD SERVICEWEAR (General Provisions)"
+title: "Product Stewardship Fund; sources; uses"
 doc_type: statute
 citation: "ORS 459A.855"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-459a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors459A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Product Stewardship Fund; sources; uses PRODUCER RESPONSIBILITY FOR PACKAGING, PAPER AND FOOD SERVICEWEAR (General Provisions) (ORS 459A.855)
+# Product Stewardship Fund; sources; uses (ORS 459A.855)
 
 ## At a glance
 
-ORS 459A.855 — Product Stewardship Fund; sources; uses PRODUCER RESPONSIBILITY FOR PACKAGING, PAPER AND FOOD SERVICEWEAR (General Provisions). Chapter 459A (Chapter 459A), 2025 Edition.
+ORS 459A.855 — Product Stewardship Fund; sources; uses. Chapter 459A (Chapter 459A), 2025 Edition.
 
 ## Full text
 

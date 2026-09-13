@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-18.760
-title: "Challenge to garnishment (Release of Garnishment)"
+title: "Challenge to garnishment"
 doc_type: statute
 citation: "ORS 18.760"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-18"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors018.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Challenge to garnishment (Release of Garnishment) (ORS 18.760)
+# Challenge to garnishment (ORS 18.760)
 
 ## At a glance
 
-ORS 18.760 — Challenge to garnishment (Release of Garnishment). Chapter 18 (Judgments), 2025 Edition.
+ORS 18.760 — Challenge to garnishment. Chapter 18 (Judgments), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-21.185
-title: "Child support cases exempt from certain filing fees (Motion Fees)"
+title: "Child support cases exempt from certain filing fees"
 doc_type: statute
 citation: "ORS 21.185"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-21"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors021.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Child support cases exempt from certain filing fees (Motion Fees) (ORS 21.185)
+# Child support cases exempt from certain filing fees (ORS 21.185)
 
 ## At a glance
 
-ORS 21.185 — Child support cases exempt from certain filing fees (Motion Fees). Chapter 21 (State Court Fees), 2025 Edition.
+ORS 21.185 — Child support cases exempt from certain filing fees. Chapter 21 (State Court Fees), 2025 Edition.
 
 ## Full text
 

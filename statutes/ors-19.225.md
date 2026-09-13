@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-19.225
-title: "Appealability of certain orders in class actions (Determining Whether Judgment Appealable)"
+title: "Appealability of certain orders in class actions"
 doc_type: statute
 citation: "ORS 19.225"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-19"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors019.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Appealability of certain orders in class actions (Determining Whether Judgment Appealable) (ORS 19.225)
+# Appealability of certain orders in class actions (ORS 19.225)
 
 ## At a glance
 
-ORS 19.225 — Appealability of certain orders in class actions (Determining Whether Judgment Appealable). Chapter 19 (Appeals), 2025 Edition.
+ORS 19.225 — Appealability of certain orders in class actions. Chapter 19 (Appeals), 2025 Edition.
 
 ## Full text
 

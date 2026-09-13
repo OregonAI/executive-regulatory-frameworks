@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-21.025
-title: "Motion fees in appellate courts; exceptions CIRCUIT COURT FEES (Filing Fees)"
+title: "Motion fees in appellate courts; exceptions"
 doc_type: statute
 citation: "ORS 21.025"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-21"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors021.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Motion fees in appellate courts; exceptions CIRCUIT COURT FEES (Filing Fees) (ORS 21.025)
+# Motion fees in appellate courts; exceptions (ORS 21.025)
 
 ## At a glance
 
-ORS 21.025 — Motion fees in appellate courts; exceptions CIRCUIT COURT FEES (Filing Fees). Chapter 21 (State Court Fees), 2025 Edition.
+ORS 21.025 — Motion fees in appellate courts; exceptions. Chapter 21 (State Court Fees), 2025 Edition.
 
 ## Full text
 

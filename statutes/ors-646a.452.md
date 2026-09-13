@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.452
-title: "Enforcement by Attorney General (Warranties on Assistive Devices)"
+title: "Enforcement by Attorney General"
 doc_type: statute
 citation: "ORS 646A.452"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Enforcement by Attorney General (Warranties on Assistive Devices) (ORS 646A.452)
+# Enforcement by Attorney General (ORS 646A.452)
 
 ## At a glance
 
-ORS 646A.452 — Enforcement by Attorney General (Warranties on Assistive Devices). Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.452 — Enforcement by Attorney General. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

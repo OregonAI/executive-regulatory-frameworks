@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-15.405
-title: "Applicability (Preliminary Issues)"
+title: "Applicability"
 doc_type: statute
 citation: "ORS 15.405"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-15"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors015.html> (retrieved 2026-08-01, 2025 Edition).
 
-# Applicability (Preliminary Issues) (ORS 15.405)
+# Applicability (ORS 15.405)
 
 ## At a glance
 
-ORS 15.405 — Applicability (Preliminary Issues). Chapter 15 (Choice of Laws), 2025 Edition.
+ORS 15.405 — Applicability. Chapter 15 (Choice of Laws), 2025 Edition.
 
 ## Full text
 

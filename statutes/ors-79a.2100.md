@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-79a.2100
-title: "UCC 9-210. Request for accounting; request regarding list of collateral or statement of account PERFECTION AND PRIORITY (Law Governing Perfection and Priority o"
+title: "UCC 9-210. Request for accounting; request regarding list of collateral or statement of account"
 doc_type: statute
 citation: "ORS 79A.2100"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-79a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors079a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# UCC 9-210. Request for accounting; request regarding list of collateral or statement of account PERFECTION AND PRIORITY (Law Governing Perfection and Priority o (ORS 79A.2100)
+# UCC 9-210. Request for accounting; request regarding list of collateral or statement of account (ORS 79A.2100)
 
 ## At a glance
 
-ORS 79A.2100 — UCC 9-210. Request for accounting; request regarding list of collateral or statement of account PERFECTION AND PRIORITY (Law Governing Perfection and Priority o. Chapter 79A (Secured Transactions), 2025 Edition.
+ORS 79A.2100 — UCC 9-210. Request for accounting; request regarding list of collateral or statement of account. Chapter 79A (Secured Transactions), 2025 Edition.
 
 ## Full text
 

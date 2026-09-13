@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-3.321
-title: "Compensation of reference judge; payment procedure FAMILY LAW (Family Court Departments)"
+title: "Compensation of reference judge; payment procedure"
 doc_type: statute
 citation: "ORS 3.321"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-3"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors003.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Compensation of reference judge; payment procedure FAMILY LAW (Family Court Departments) (ORS 3.321)
+# Compensation of reference judge; payment procedure (ORS 3.321)
 
 ## At a glance
 
-ORS 3.321 — Compensation of reference judge; payment procedure FAMILY LAW (Family Court Departments). Chapter 3 (Circuit Courts Generally), 2025 Edition.
+ORS 3.321 — Compensation of reference judge; payment procedure. Chapter 3 (Circuit Courts Generally), 2025 Edition.
 
 ## Full text
 

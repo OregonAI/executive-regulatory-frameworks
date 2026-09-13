@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468b.425
-title: "Exemption from liability for removal costs or damages (High Hazard Train Route Contingency Planning)"
+title: "Exemption from liability for removal costs or damages"
 doc_type: statute
 citation: "ORS 468B.425"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Exemption from liability for removal costs or damages (High Hazard Train Route Contingency Planning) (ORS 468B.425)
+# Exemption from liability for removal costs or damages (ORS 468B.425)
 
 ## At a glance
 
-ORS 468B.425 — Exemption from liability for removal costs or damages (High Hazard Train Route Contingency Planning). Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.425 — Exemption from liability for removal costs or damages. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 

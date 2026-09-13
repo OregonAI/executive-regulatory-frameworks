@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285c.130
-title: "Duties of county assessor (Eligible Business Firms)"
+title: "Duties of county assessor"
 doc_type: statute
 citation: "ORS 285C.130"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Duties of county assessor (Eligible Business Firms) (ORS 285C.130)
+# Duties of county assessor (ORS 285C.130)
 
 ## At a glance
 
-ORS 285C.130 — Duties of county assessor (Eligible Business Firms). Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.130 — Duties of county assessor. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 

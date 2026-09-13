@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-19.275
-title: "Continuing jurisdiction of trial court in certain domestic relations cases UNDERTAKINGS ON APPEAL AND STAYS OF JUDGMENT (Undertakings)"
+title: "Continuing jurisdiction of trial court in certain domestic relations cases"
 doc_type: statute
 citation: "ORS 19.275"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-19"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors019.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Continuing jurisdiction of trial court in certain domestic relations cases UNDERTAKINGS ON APPEAL AND STAYS OF JUDGMENT (Undertakings) (ORS 19.275)
+# Continuing jurisdiction of trial court in certain domestic relations cases (ORS 19.275)
 
 ## At a glance
 
-ORS 19.275 — Continuing jurisdiction of trial court in certain domestic relations cases UNDERTAKINGS ON APPEAL AND STAYS OF JUDGMENT (Undertakings). Chapter 19 (Appeals), 2025 Edition.
+ORS 19.275 — Continuing jurisdiction of trial court in certain domestic relations cases. Chapter 19 (Appeals), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279b.240
-title: "Exclusion of recycled oils prohibited (Specifications in State Contracts)"
+title: "Exclusion of recycled oils prohibited"
 doc_type: statute
 citation: "ORS 279B.240"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-279b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279B.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Exclusion of recycled oils prohibited (Specifications in State Contracts) (ORS 279B.240)
+# Exclusion of recycled oils prohibited (ORS 279B.240)
 
 ## At a glance
 
-ORS 279B.240 — Exclusion of recycled oils prohibited (Specifications in State Contracts). Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
+ORS 279B.240 — Exclusion of recycled oils prohibited. Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
 
 ## Full text
 

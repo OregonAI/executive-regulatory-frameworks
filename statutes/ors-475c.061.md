@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.061
-title: "Authority for licensee other than laboratory licensee to hold multiple licenses (License to Produce Marijuana)"
+title: "Authority for licensee other than laboratory licensee to hold multiple licenses"
 doc_type: statute
 citation: "ORS 475C.061"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority for licensee other than laboratory licensee to hold multiple licenses (License to Produce Marijuana) (ORS 475C.061)
+# Authority for licensee other than laboratory licensee to hold multiple licenses (ORS 475C.061)
 
 ## At a glance
 
-ORS 475C.061 — Authority for licensee other than laboratory licensee to hold multiple licenses (License to Produce Marijuana). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.061 — Authority for licensee other than laboratory licensee to hold multiple licenses. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

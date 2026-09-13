@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285c.175
-title: "Enterprise zone exemption; requirements; duration (Qualified Property)"
+title: "Enterprise zone exemption; requirements; duration"
 doc_type: statute
 citation: "ORS 285C.175"
 authority_level: statute
@@ -64,11 +64,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Enterprise zone exemption; requirements; duration (Qualified Property) (ORS 285C.175)
+# Enterprise zone exemption; requirements; duration (ORS 285C.175)
 
 ## At a glance
 
-ORS 285C.175 — Enterprise zone exemption; requirements; duration (Qualified Property). Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.175 — Enterprise zone exemption; requirements; duration. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 

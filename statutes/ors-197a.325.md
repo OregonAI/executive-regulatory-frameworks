@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-197a.325
-title: "Review of final decision of city; rules (Planning by Metro Cities and Metro)"
+title: "Review of final decision of city; rules"
 doc_type: statute
 citation: "ORS 197A.325"
 authority_level: statute
@@ -69,11 +69,11 @@ tags: ["ors", "chapter-197a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Review of final decision of city; rules (Planning by Metro Cities and Metro) (ORS 197A.325)
+# Review of final decision of city; rules (ORS 197A.325)
 
 ## At a glance
 
-ORS 197A.325 — Review of final decision of city; rules (Planning by Metro Cities and Metro). Chapter 197A (Chapter 197A), 2025 Edition.
+ORS 197A.325 — Review of final decision of city; rules. Chapter 197A (Chapter 197A), 2025 Edition.
 
 ## Full text
 

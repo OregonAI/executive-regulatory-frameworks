@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-65.040
-title: "Notice to Attorney General; effect of failure to notify (Religious Corporations)"
+title: "Notice to Attorney General; effect of failure to notify"
 doc_type: statute
 citation: "ORS 65.040"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-65"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors065.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Notice to Attorney General; effect of failure to notify (Religious Corporations) (ORS 65.040)
+# Notice to Attorney General; effect of failure to notify (ORS 65.040)
 
 ## At a glance
 
-ORS 65.040 — Notice to Attorney General; effect of failure to notify (Religious Corporations). Chapter 65 (Nonprofit Corporations), 2025 Edition.
+ORS 65.040 — Notice to Attorney General; effect of failure to notify. Chapter 65 (Nonprofit Corporations), 2025 Edition.
 
 ## Full text
 

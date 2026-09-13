@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-63.002
-title: "Inclusion of limited liability companies and managers and members of limited liability companies in definitions (Filing Documents)"
+title: "Inclusion of limited liability companies and managers and members of limited liability companies in definitions"
 doc_type: statute
 citation: "ORS 63.002"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-63"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors063.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Inclusion of limited liability companies and managers and members of limited liability companies in definitions (Filing Documents) (ORS 63.002)
+# Inclusion of limited liability companies and managers and members of limited liability companies in definitions (ORS 63.002)
 
 ## At a glance
 
-ORS 63.002 — Inclusion of limited liability companies and managers and members of limited liability companies in definitions (Filing Documents). Chapter 63 (Limited Liability Companies), 2025 Edition.
+ORS 63.002 — Inclusion of limited liability companies and managers and members of limited liability companies in definitions. Chapter 63 (Limited Liability Companies), 2025 Edition.
 
 ## Full text
 

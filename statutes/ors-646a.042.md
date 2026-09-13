@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-646a.042
-title: "Remedies and obligations supplementary to existing remedies (Manufactured Dwellings)"
+title: "Remedies and obligations supplementary to existing remedies"
 doc_type: statute
 citation: "ORS 646A.042"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-646a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors646A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Remedies and obligations supplementary to existing remedies (Manufactured Dwellings) (ORS 646A.042)
+# Remedies and obligations supplementary to existing remedies (ORS 646A.042)
 
 ## At a glance
 
-ORS 646A.042 — Remedies and obligations supplementary to existing remedies (Manufactured Dwellings). Chapter 646A (Chapter 646A), 2025 Edition.
+ORS 646A.042 — Remedies and obligations supplementary to existing remedies. Chapter 646A (Chapter 646A), 2025 Edition.
 
 ## Full text
 

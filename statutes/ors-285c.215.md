@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285c.215
-title: "First-source hiring agreements; rules (Exemption Claim and Verification Procedures)"
+title: "First-source hiring agreements; rules"
 doc_type: statute
 citation: "ORS 285C.215"
 authority_level: statute
@@ -50,11 +50,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# First-source hiring agreements; rules (Exemption Claim and Verification Procedures) (ORS 285C.215)
+# First-source hiring agreements; rules (ORS 285C.215)
 
 ## At a glance
 
-ORS 285C.215 — First-source hiring agreements; rules (Exemption Claim and Verification Procedures). Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.215 — First-source hiring agreements; rules. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 

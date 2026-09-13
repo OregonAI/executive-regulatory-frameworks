@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-238a.110
-title: "Termination of membership (Vesting)"
+title: "Termination of membership"
 doc_type: statute
 citation: "ORS 238A.110"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Termination of membership (Vesting) (ORS 238A.110)
+# Termination of membership (ORS 238A.110)
 
 ## At a glance
 
-ORS 238A.110 — Termination of membership (Vesting). Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.110 — Termination of membership. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 

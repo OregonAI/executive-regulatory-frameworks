@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-657b.060
-title: "Job protection; benefits; discrimination prohibited (Prohibited Conduct)"
+title: "Job protection; benefits; discrimination prohibited"
 doc_type: statute
 citation: "ORS 657B.060"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-657b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors657b.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Job protection; benefits; discrimination prohibited (Prohibited Conduct) (ORS 657B.060)
+# Job protection; benefits; discrimination prohibited (ORS 657B.060)
 
 ## At a glance
 
-ORS 657B.060 — Job protection; benefits; discrimination prohibited (Prohibited Conduct). Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
+ORS 657B.060 — Job protection; benefits; discrimination prohibited. Chapter 657B (Family and Medical Leave Insurance), 2025 Edition.
 
 ## Full text
 

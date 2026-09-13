@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-238a.245
-title: "Reemployment after commencement of pension benefits (Temporary provisions relating to employment of retired member through 2034 are compiled as notes following "
+title: "Reemployment after commencement of pension benefits"
 doc_type: statute
 citation: "ORS 238A.245"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Reemployment after commencement of pension benefits (Temporary provisions relating to employment of retired member through 2034 are compiled as notes following  (ORS 238A.245)
+# Reemployment after commencement of pension benefits (ORS 238A.245)
 
 ## At a glance
 
-ORS 238A.245 — Reemployment after commencement of pension benefits (Temporary provisions relating to employment of retired member through 2034 are compiled as notes following . Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.245 — Reemployment after commencement of pension benefits. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 

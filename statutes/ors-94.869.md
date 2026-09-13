@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-94.869
-title: "Insurance coverage (Escrow)"
+title: "Insurance coverage"
 doc_type: statute
 citation: "ORS 94.869"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-94"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors094.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Insurance coverage (Escrow) (ORS 94.869)
+# Insurance coverage (ORS 94.869)
 
 ## At a glance
 
-ORS 94.869 — Insurance coverage (Escrow). Chapter 94 (Real Property Development), 2025 Edition.
+ORS 94.869 — Insurance coverage. Chapter 94 (Real Property Development), 2025 Edition.
 
 ## Full text
 

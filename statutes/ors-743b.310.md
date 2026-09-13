@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-743b.310
-title: "Rescinding coverage; permissible bases; notice; rules (Termination)"
+title: "Rescinding coverage; permissible bases; notice; rules"
 doc_type: statute
 citation: "ORS 743B.310"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-743b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors743B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Rescinding coverage; permissible bases; notice; rules (Termination) (ORS 743B.310)
+# Rescinding coverage; permissible bases; notice; rules (ORS 743B.310)
 
 ## At a glance
 
-ORS 743B.310 — Rescinding coverage; permissible bases; notice; rules (Termination). Chapter 743B (Chapter 743B), 2025 Edition.
+ORS 743B.310 — Rescinding coverage; permissible bases; notice; rules. Chapter 743B (Chapter 743B), 2025 Edition.
 
 ## Full text
 

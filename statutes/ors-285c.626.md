@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285c.626
-title: "Business firm application for project within strategic investment zone (Distributions)"
+title: "Business firm application for project within strategic investment zone"
 doc_type: statute
 citation: "ORS 285C.626"
 authority_level: statute
@@ -52,11 +52,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Business firm application for project within strategic investment zone (Distributions) (ORS 285C.626)
+# Business firm application for project within strategic investment zone (ORS 285C.626)
 
 ## At a glance
 
-ORS 285C.626 — Business firm application for project within strategic investment zone (Distributions). Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.626 — Business firm application for project within strategic investment zone. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 

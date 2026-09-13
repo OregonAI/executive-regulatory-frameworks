@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-19.400
-title: "Where appeals heard DISPOSITION OF APPEALS (Certification of Appeal to Supreme Court)"
+title: "Where appeals heard"
 doc_type: statute
 citation: "ORS 19.400"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-19"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors019.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Where appeals heard DISPOSITION OF APPEALS (Certification of Appeal to Supreme Court) (ORS 19.400)
+# Where appeals heard (ORS 19.400)
 
 ## At a glance
 
-ORS 19.400 — Where appeals heard DISPOSITION OF APPEALS (Certification of Appeal to Supreme Court). Chapter 19 (Appeals), 2025 Edition.
+ORS 19.400 — Where appeals heard. Chapter 19 (Appeals), 2025 Edition.
 
 ## Full text
 

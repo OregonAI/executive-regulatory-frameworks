@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-238a.340
-title: "Employer contributions (Individual Accounts)"
+title: "Employer contributions"
 doc_type: statute
 citation: "ORS 238A.340"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Employer contributions (Individual Accounts) (ORS 238A.340)
+# Employer contributions (ORS 238A.340)
 
 ## At a glance
 
-ORS 238A.340 — Employer contributions (Individual Accounts). Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.340 — Employer contributions. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 

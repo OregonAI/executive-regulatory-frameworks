@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-59.451
-title: "Prohibition against filing false statement by person under investigation or examination (Financial Exploitation of Vulnerable Persons)"
+title: "Prohibition against filing false statement by person under investigation or examination"
 doc_type: statute
 citation: "ORS 59.451"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-59"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors059.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Prohibition against filing false statement by person under investigation or examination (Financial Exploitation of Vulnerable Persons) (ORS 59.451)
+# Prohibition against filing false statement by person under investigation or examination (ORS 59.451)
 
 ## At a glance
 
-ORS 59.451 — Prohibition against filing false statement by person under investigation or examination (Financial Exploitation of Vulnerable Persons). Chapter 59 (Securities Regulation), 2025 Edition.
+ORS 59.451 — Prohibition against filing false statement by person under investigation or examination. Chapter 59 (Securities Regulation), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468b.230
-title: "Department of Agriculture civil penalty authority Note Report on emissions of air contaminants from animal feeding operations--2023 c.465 §13 OIL OR HAZARDOUS M"
+title: "Department of Agriculture civil penalty authority Note Report on emissions of air contaminants from animal feeding operations--2023 c.465 §13"
 doc_type: statute
 citation: "ORS 468B.230"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Department of Agriculture civil penalty authority Note Report on emissions of air contaminants from animal feeding operations--2023 c.465 §13 OIL OR HAZARDOUS M (ORS 468B.230)
+# Department of Agriculture civil penalty authority Note Report on emissions of air contaminants from animal feeding operations--2023 c.465 §13 (ORS 468B.230)
 
 ## At a glance
 
-ORS 468B.230 — Department of Agriculture civil penalty authority Note Report on emissions of air contaminants from animal feeding operations--2023 c.465 §13 OIL OR HAZARDOUS M. Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.230 — Department of Agriculture civil penalty authority Note Report on emissions of air contaminants from animal feeding operations--2023 c.465 §13. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 

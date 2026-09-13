@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-18.322
-title: "Adjudication of claim of exemption (Personal Property)"
+title: "Adjudication of claim of exemption"
 doc_type: statute
 citation: "ORS 18.322"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-18"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors018.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Adjudication of claim of exemption (Personal Property) (ORS 18.322)
+# Adjudication of claim of exemption (ORS 18.322)
 
 ## At a glance
 
-ORS 18.322 — Adjudication of claim of exemption (Personal Property). Chapter 18 (Judgments), 2025 Edition.
+ORS 18.322 — Adjudication of claim of exemption. Chapter 18 (Judgments), 2025 Edition.
 
 ## Full text
 

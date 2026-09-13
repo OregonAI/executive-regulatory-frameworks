@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.297
-title: "Marijuana Control and Regulation Fund (Regulatory Specialists)"
+title: "Marijuana Control and Regulation Fund"
 doc_type: statute
 citation: "ORS 475C.297"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Marijuana Control and Regulation Fund (Regulatory Specialists) (ORS 475C.297)
+# Marijuana Control and Regulation Fund (ORS 475C.297)
 
 ## At a glance
 
-ORS 475C.297 — Marijuana Control and Regulation Fund (Regulatory Specialists). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.297 — Marijuana Control and Regulation Fund. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.055
-title: "Legal address and ownership of premises used for marijuana production, processing; owner consent; rules (Licensees in General)"
+title: "Legal address and ownership of premises used for marijuana production, processing; owner consent; rules"
 doc_type: statute
 citation: "ORS 475C.055"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Legal address and ownership of premises used for marijuana production, processing; owner consent; rules (Licensees in General) (ORS 475C.055)
+# Legal address and ownership of premises used for marijuana production, processing; owner consent; rules (ORS 475C.055)
 
 ## At a glance
 
-ORS 475C.055 — Legal address and ownership of premises used for marijuana production, processing; owner consent; rules (Licensees in General). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.055 — Legal address and ownership of premises used for marijuana production, processing; owner consent; rules. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

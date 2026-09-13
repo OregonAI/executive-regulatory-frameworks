@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285c.102
-title: "Documentation for designation of zone or city for electronic commerce to be submitted to department; requirements for positive determination; rules (Management "
+title: "Documentation for designation of zone or city for electronic commerce to be submitted to department; requirements for positive determination; rules"
 doc_type: statute
 citation: "ORS 285C.102"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Documentation for designation of zone or city for electronic commerce to be submitted to department; requirements for positive determination; rules (Management  (ORS 285C.102)
+# Documentation for designation of zone or city for electronic commerce to be submitted to department; requirements for positive determination; rules (ORS 285C.102)
 
 ## At a glance
 
-ORS 285C.102 — Documentation for designation of zone or city for electronic commerce to be submitted to department; requirements for positive determination; rules (Management . Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.102 — Documentation for designation of zone or city for electronic commerce to be submitted to department; requirements for positive determination; rules. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 

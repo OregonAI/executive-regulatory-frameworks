@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419a.258
-title: "Motion to inspect or copy records (Expunction)"
+title: "Motion to inspect or copy records"
 doc_type: statute
 citation: "ORS 419A.258"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Motion to inspect or copy records (Expunction) (ORS 419A.258)
+# Motion to inspect or copy records (ORS 419A.258)
 
 ## At a glance
 
-ORS 419A.258 — Motion to inspect or copy records (Expunction). Chapter 419A (Chapter 419A), 2025 Edition.
+ORS 419A.258 — Motion to inspect or copy records. Chapter 419A (Chapter 419A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285c.120
-title: "Zone boundary change restrictions when county ceases to be sparsely populated; waiver of distance limitations (Duties of Property Tax Administrators)"
+title: "Zone boundary change restrictions when county ceases to be sparsely populated; waiver of distance limitations"
 doc_type: statute
 citation: "ORS 285C.120"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Zone boundary change restrictions when county ceases to be sparsely populated; waiver of distance limitations (Duties of Property Tax Administrators) (ORS 285C.120)
+# Zone boundary change restrictions when county ceases to be sparsely populated; waiver of distance limitations (ORS 285C.120)
 
 ## At a glance
 
-ORS 285C.120 — Zone boundary change restrictions when county ceases to be sparsely populated; waiver of distance limitations (Duties of Property Tax Administrators). Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.120 — Zone boundary change restrictions when county ceases to be sparsely populated; waiver of distance limitations. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 

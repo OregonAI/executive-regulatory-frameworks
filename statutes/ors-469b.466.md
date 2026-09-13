@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-469b.466
-title: "Heat Pump Deployment Fund; biennial reports (Residential Heat Pump Rebates and Grants) (Temporary provisions relating to rebates and grants for residential heat"
+title: "Heat Pump Deployment Fund; biennial reports"
 doc_type: statute
 citation: "ORS 469B.466"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-469b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Heat Pump Deployment Fund; biennial reports (Residential Heat Pump Rebates and Grants) (Temporary provisions relating to rebates and grants for residential heat (ORS 469B.466)
+# Heat Pump Deployment Fund; biennial reports (ORS 469B.466)
 
 ## At a glance
 
-ORS 469B.466 — Heat Pump Deployment Fund; biennial reports (Residential Heat Pump Rebates and Grants) (Temporary provisions relating to rebates and grants for residential heat. Chapter 469B (Chapter 469B), 2025 Edition.
+ORS 469B.466 — Heat Pump Deployment Fund; biennial reports. Chapter 469B (Chapter 469B), 2025 Edition.
 
 ## Full text
 

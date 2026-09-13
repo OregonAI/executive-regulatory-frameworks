@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285c.235
-title: "Authority of county assessor; authority of sponsor (Disqualification From Exemption)"
+title: "Authority of county assessor; authority of sponsor"
 doc_type: statute
 citation: "ORS 285C.235"
 authority_level: statute
@@ -45,11 +45,11 @@ tags: ["ors", "chapter-285c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Authority of county assessor; authority of sponsor (Disqualification From Exemption) (ORS 285C.235)
+# Authority of county assessor; authority of sponsor (ORS 285C.235)
 
 ## At a glance
 
-ORS 285C.235 — Authority of county assessor; authority of sponsor (Disqualification From Exemption). Chapter 285C (Chapter 285C), 2025 Edition.
+ORS 285C.235 — Authority of county assessor; authority of sponsor. Chapter 285C (Chapter 285C), 2025 Edition.
 
 ## Full text
 

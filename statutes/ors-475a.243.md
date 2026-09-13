@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475a.243
-title: "Powers related to decedents and insolvent or bankrupt persons (Application Process and Licenses)"
+title: "Powers related to decedents and insolvent or bankrupt persons"
 doc_type: statute
 citation: "ORS 475A.243"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-475a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Powers related to decedents and insolvent or bankrupt persons (Application Process and Licenses) (ORS 475A.243)
+# Powers related to decedents and insolvent or bankrupt persons (ORS 475A.243)
 
 ## At a glance
 
-ORS 475A.243 — Powers related to decedents and insolvent or bankrupt persons (Application Process and Licenses). Chapter 475A (Chapter 475A), 2025 Edition.
+ORS 475A.243 — Powers related to decedents and insolvent or bankrupt persons. Chapter 475A (Chapter 475A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468a.199
-title: "Consultation with federally recognized Indian tribes (Oregon Climate Action Commission)"
+title: "Consultation with federally recognized Indian tribes"
 doc_type: statute
 citation: "ORS 468A.199"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-468a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Consultation with federally recognized Indian tribes (Oregon Climate Action Commission) (ORS 468A.199)
+# Consultation with federally recognized Indian tribes (ORS 468A.199)
 
 ## At a glance
 
-ORS 468A.199 — Consultation with federally recognized Indian tribes (Oregon Climate Action Commission). Chapter 468A (Chapter 468A), 2025 Edition.
+ORS 468A.199 — Consultation with federally recognized Indian tribes. Chapter 468A (Chapter 468A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-308a.465
-title: "Inspection by holder; disqualification; notice; requalification; additional tax ADDITIONAL TAXES, PROCEDURES APPLICABLE TO CERTAIN LAND SPECIAL ASSESSMENT PROGR"
+title: "Inspection by holder; disqualification; notice; requalification; additional tax"
 doc_type: statute
 citation: "ORS 308A.465"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-308a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors308A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Inspection by holder; disqualification; notice; requalification; additional tax ADDITIONAL TAXES, PROCEDURES APPLICABLE TO CERTAIN LAND SPECIAL ASSESSMENT PROGR (ORS 308A.465)
+# Inspection by holder; disqualification; notice; requalification; additional tax (ORS 308A.465)
 
 ## At a glance
 
-ORS 308A.465 — Inspection by holder; disqualification; notice; requalification; additional tax ADDITIONAL TAXES, PROCEDURES APPLICABLE TO CERTAIN LAND SPECIAL ASSESSMENT PROGR. Chapter 308A (Chapter 308A), 2025 Edition.
+ORS 308A.465 — Inspection by holder; disqualification; notice; requalification; additional tax. Chapter 308A (Chapter 308A), 2025 Edition.
 
 ## Full text
 

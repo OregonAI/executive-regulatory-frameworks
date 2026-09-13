@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.459
-title: "Cleanup of waste from certain real property; public nuisance; city or county lien (Powers and Duties of State Agencies and Officers and Governor)"
+title: "Cleanup of waste from certain real property; public nuisance; city or county lien"
 doc_type: statute
 citation: "ORS 475C.459"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Cleanup of waste from certain real property; public nuisance; city or county lien (Powers and Duties of State Agencies and Officers and Governor) (ORS 475C.459)
+# Cleanup of waste from certain real property; public nuisance; city or county lien (ORS 475C.459)
 
 ## At a glance
 
-ORS 475C.459 — Cleanup of waste from certain real property; public nuisance; city or county lien (Powers and Duties of State Agencies and Officers and Governor). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.459 — Cleanup of waste from certain real property; public nuisance; city or county lien. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

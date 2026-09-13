@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-18.899
-title: "Sanctions EXECUTION SALE (Residential Property)"
+title: "Sanctions"
 doc_type: statute
 citation: "ORS 18.899"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-18"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors018.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Sanctions EXECUTION SALE (Residential Property) (ORS 18.899)
+# Sanctions (ORS 18.899)
 
 ## At a glance
 
-ORS 18.899 — Sanctions EXECUTION SALE (Residential Property). Chapter 18 (Judgments), 2025 Edition.
+ORS 18.899 — Sanctions. Chapter 18 (Judgments), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-90.440
-title: "Termination of tenancy in group recovery home; recovery of possession; damages DOMESTIC VIOLENCE, SEXUAL ASSAULT,"
+title: "Termination of tenancy in group recovery home; recovery of possession; damages"
 doc_type: statute
 citation: "ORS 90.440"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-90"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors090.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Termination of tenancy in group recovery home; recovery of possession; damages DOMESTIC VIOLENCE, SEXUAL ASSAULT, (ORS 90.440)
+# Termination of tenancy in group recovery home; recovery of possession; damages (ORS 90.440)
 
 ## At a glance
 
-ORS 90.440 — Termination of tenancy in group recovery home; recovery of possession; damages DOMESTIC VIOLENCE, SEXUAL ASSAULT,. Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
+ORS 90.440 — Termination of tenancy in group recovery home; recovery of possession; damages. Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
 
 ## Full text
 

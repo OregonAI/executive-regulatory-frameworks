@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-181a.660
-title: "Oregon Center for Policing Excellence; purpose; rules (Police Memorial Trust Fund)"
+title: "Oregon Center for Policing Excellence; purpose; rules"
 doc_type: statute
 citation: "ORS 181A.660"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-181a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors181A.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Oregon Center for Policing Excellence; purpose; rules (Police Memorial Trust Fund) (ORS 181A.660)
+# Oregon Center for Policing Excellence; purpose; rules (ORS 181A.660)
 
 ## At a glance
 
-ORS 181A.660 — Oregon Center for Policing Excellence; purpose; rules (Police Memorial Trust Fund). Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
+ORS 181A.660 — Oregon Center for Policing Excellence; purpose; rules. Chapter 181A (State Police; Public Safety Standards and Training), 2025 Edition.
 
 ## Full text
 

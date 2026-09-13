@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-83.190
-title: "Civil penalties MOTOR VEHICLES;"
+title: "Civil penalties"
 doc_type: statute
 citation: "ORS 83.190"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-83"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors083.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Civil penalties MOTOR VEHICLES; (ORS 83.190)
+# Civil penalties (ORS 83.190)
 
 ## At a glance
 
-ORS 83.190 — Civil penalties MOTOR VEHICLES;. Chapter 83 (Retail Installment Contracts), 2025 Edition.
+ORS 83.190 — Civil penalties. Chapter 83 (Retail Installment Contracts), 2025 Edition.
 
 ## Full text
 

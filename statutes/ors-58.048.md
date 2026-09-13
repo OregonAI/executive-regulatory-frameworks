@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-58.048
-title: "When appearance by attorney not required FORMATION AND OPERATION (Generally)"
+title: "When appearance by attorney not required"
 doc_type: statute
 citation: "ORS 58.048"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-58"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors058.html> (retrieved 2026-07-26, 2025 Edition).
 
-# When appearance by attorney not required FORMATION AND OPERATION (Generally) (ORS 58.048)
+# When appearance by attorney not required (ORS 58.048)
 
 ## At a glance
 
-ORS 58.048 — When appearance by attorney not required FORMATION AND OPERATION (Generally). Chapter 58 (Professional Corporations), 2025 Edition.
+ORS 58.048 — When appearance by attorney not required. Chapter 58 (Professional Corporations), 2025 Edition.
 
 ## Full text
 

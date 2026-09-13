@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-90.493
-title: "Prohibited acts following notice of conversion to condominium; damages MANUFACTURED DWELLING PARKS AND MARINAS (General Provisions)"
+title: "Prohibited acts following notice of conversion to condominium; damages"
 doc_type: statute
 citation: "ORS 90.493"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-90"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors090.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Prohibited acts following notice of conversion to condominium; damages MANUFACTURED DWELLING PARKS AND MARINAS (General Provisions) (ORS 90.493)
+# Prohibited acts following notice of conversion to condominium; damages (ORS 90.493)
 
 ## At a glance
 
-ORS 90.493 — Prohibited acts following notice of conversion to condominium; damages MANUFACTURED DWELLING PARKS AND MARINAS (General Provisions). Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
+ORS 90.493 — Prohibited acts following notice of conversion to condominium; damages. Chapter 90 (Residential Landlord and Tenant), 2025 Edition.
 
 ## Full text
 

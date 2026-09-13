@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-468b.435
-title: "High Hazard Train Route Oil Spill Preparedness Fund; uses (Temporary provisions relating to fees are compiled as notes following ORS 468B.435)"
+title: "High Hazard Train Route Oil Spill Preparedness Fund; uses"
 doc_type: statute
 citation: "ORS 468B.435"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-468b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors468B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# High Hazard Train Route Oil Spill Preparedness Fund; uses (Temporary provisions relating to fees are compiled as notes following ORS 468B.435) (ORS 468B.435)
+# High Hazard Train Route Oil Spill Preparedness Fund; uses (ORS 468B.435)
 
 ## At a glance
 
-ORS 468B.435 — High Hazard Train Route Oil Spill Preparedness Fund; uses (Temporary provisions relating to fees are compiled as notes following ORS 468B.435). Chapter 468B (Chapter 468B), 2025 Edition.
+ORS 468B.435 — High Hazard Train Route Oil Spill Preparedness Fund; uses. Chapter 468B (Chapter 468B), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-18.800
-title: "Special procedures for writs issued to enforce agency orders or warrants (Use of Writ for Provisional Process)"
+title: "Special procedures for writs issued to enforce agency orders or warrants"
 doc_type: statute
 citation: "ORS 18.800"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-18"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors018.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Special procedures for writs issued to enforce agency orders or warrants (Use of Writ for Provisional Process) (ORS 18.800)
+# Special procedures for writs issued to enforce agency orders or warrants (ORS 18.800)
 
 ## At a glance
 
-ORS 18.800 — Special procedures for writs issued to enforce agency orders or warrants (Use of Writ for Provisional Process). Chapter 18 (Judgments), 2025 Edition.
+ORS 18.800 — Special procedures for writs issued to enforce agency orders or warrants. Chapter 18 (Judgments), 2025 Edition.
 
 ## Full text
 

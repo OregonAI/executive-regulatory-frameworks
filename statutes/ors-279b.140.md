@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279b.140
-title: "Price agreements (Determinations)"
+title: "Price agreements"
 doc_type: statute
 citation: "ORS 279B.140"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-279b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279B.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Price agreements (Determinations) (ORS 279B.140)
+# Price agreements (ORS 279B.140)
 
 ## At a glance
 
-ORS 279B.140 — Price agreements (Determinations). Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
+ORS 279B.140 — Price agreements. Chapter 279B (Public Contracting - Public Procurements), 2025 Edition.
 
 ## Full text
 

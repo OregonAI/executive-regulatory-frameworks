@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-308a.733
-title: "Withdrawal of change of special assessment application (Conservation Management; Effect on Disqualification)"
+title: "Withdrawal of change of special assessment application"
 doc_type: statute
 citation: "ORS 308A.733"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-308a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors308A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Withdrawal of change of special assessment application (Conservation Management; Effect on Disqualification) (ORS 308A.733)
+# Withdrawal of change of special assessment application (ORS 308A.733)
 
 ## At a glance
 
-ORS 308A.733 — Withdrawal of change of special assessment application (Conservation Management; Effect on Disqualification). Chapter 308A (Chapter 308A), 2025 Edition.
+ORS 308A.733 — Withdrawal of change of special assessment application. Chapter 308A (Chapter 308A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-18.620
-title: "Setoff for certain amounts payable to underlying lienholders (Duration of Writ’s Effect)"
+title: "Setoff for certain amounts payable to underlying lienholders"
 doc_type: statute
 citation: "ORS 18.620"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-18"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors018.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Setoff for certain amounts payable to underlying lienholders (Duration of Writ’s Effect) (ORS 18.620)
+# Setoff for certain amounts payable to underlying lienholders (ORS 18.620)
 
 ## At a glance
 
-ORS 18.620 — Setoff for certain amounts payable to underlying lienholders (Duration of Writ’s Effect). Chapter 18 (Judgments), 2025 Edition.
+ORS 18.620 — Setoff for certain amounts payable to underlying lienholders. Chapter 18 (Judgments), 2025 Edition.
 
 ## Full text
 

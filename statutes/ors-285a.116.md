@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285a.116
-title: "Regions for job development; economic innovation coordination (Sister States)"
+title: "Regions for job development; economic innovation coordination"
 doc_type: statute
 citation: "ORS 285A.116"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Regions for job development; economic innovation coordination (Sister States) (ORS 285A.116)
+# Regions for job development; economic innovation coordination (ORS 285A.116)
 
 ## At a glance
 
-ORS 285A.116 — Regions for job development; economic innovation coordination (Sister States). Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.116 — Regions for job development; economic innovation coordination. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

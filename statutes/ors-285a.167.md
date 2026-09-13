@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285a.167
-title: "Broadband Fund; use of moneys; authority to contract (Temporary provisions relating to program for broadband service infrastructure grants and loans are compile"
+title: "Broadband Fund; use of moneys; authority to contract"
 doc_type: statute
 citation: "ORS 285A.167"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Broadband Fund; use of moneys; authority to contract (Temporary provisions relating to program for broadband service infrastructure grants and loans are compile (ORS 285A.167)
+# Broadband Fund; use of moneys; authority to contract (ORS 285A.167)
 
 ## At a glance
 
-ORS 285A.167 — Broadband Fund; use of moneys; authority to contract (Temporary provisions relating to program for broadband service infrastructure grants and loans are compile. Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.167 — Broadband Fund; use of moneys; authority to contract. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

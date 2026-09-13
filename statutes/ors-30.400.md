@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-30.400
-title: "Actions by and against public officers in official capacity INJUNCTIONS BY PUBLIC SERVANT OR PUBLIC SERVANT’S"
+title: "Actions by and against public officers in official capacity"
 doc_type: statute
 citation: "ORS 30.400"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-30"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors030.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Actions by and against public officers in official capacity INJUNCTIONS BY PUBLIC SERVANT OR PUBLIC SERVANT’S (ORS 30.400)
+# Actions by and against public officers in official capacity (ORS 30.400)
 
 ## At a glance
 
-ORS 30.400 — Actions by and against public officers in official capacity INJUNCTIONS BY PUBLIC SERVANT OR PUBLIC SERVANT’S. Chapter 30 (Actions and Suits in Particular Cases), 2025 Edition.
+ORS 30.400 — Actions by and against public officers in official capacity. Chapter 30 (Actions and Suits in Particular Cases), 2025 Edition.
 
 ## Full text
 

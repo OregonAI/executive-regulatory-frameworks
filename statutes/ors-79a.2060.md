@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-79a.2060
-title: "UCC 9-206. Security interest arising in purchase or delivery of financial asset (Rights and Duties)"
+title: "UCC 9-206. Security interest arising in purchase or delivery of financial asset"
 doc_type: statute
 citation: "ORS 79A.2060"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-79a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors079a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# UCC 9-206. Security interest arising in purchase or delivery of financial asset (Rights and Duties) (ORS 79A.2060)
+# UCC 9-206. Security interest arising in purchase or delivery of financial asset (ORS 79A.2060)
 
 ## At a glance
 
-ORS 79A.2060 — UCC 9-206. Security interest arising in purchase or delivery of financial asset (Rights and Duties). Chapter 79A (Secured Transactions), 2025 Edition.
+ORS 79A.2060 — UCC 9-206. Security interest arising in purchase or delivery of financial asset. Chapter 79A (Secured Transactions), 2025 Edition.
 
 ## Full text
 

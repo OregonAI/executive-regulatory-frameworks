@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-419b.460
-title: "Agency’s responsibility (Permanency Hearing)"
+title: "Agency’s responsibility"
 doc_type: statute
 citation: "ORS 419B.460"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-419b"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors419B.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Agency’s responsibility (Permanency Hearing) (ORS 419B.460)
+# Agency’s responsibility (ORS 419B.460)
 
 ## At a glance
 
-ORS 419B.460 — Agency’s responsibility (Permanency Hearing). Chapter 419B (Chapter 419B), 2025 Edition.
+ORS 419B.460 — Agency’s responsibility. Chapter 419B (Chapter 419B), 2025 Edition.
 
 ## Full text
 

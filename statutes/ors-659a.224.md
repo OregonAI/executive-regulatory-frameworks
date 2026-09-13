@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.224
-title: "Short title (Reports of Violations of Election Laws)"
+title: "Short title"
 doc_type: statute
 citation: "ORS 659A.224"
 authority_level: statute
@@ -48,11 +48,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Short title (Reports of Violations of Election Laws) (ORS 659A.224)
+# Short title (ORS 659A.224)
 
 ## At a glance
 
-ORS 659A.224 — Short title (Reports of Violations of Election Laws). Chapter 659A (Unlawful Discrimination in Employment, Public Accommodations and Real Property Transactions; Administrative and Civil Enforcement), 2025 Edition.
+ORS 659A.224 — Short title. Chapter 659A (Unlawful Discrimination in Employment, Public Accommodations and Real Property Transactions; Administrative and Civil Enforcement), 2025 Edition.
 
 ## Full text
 

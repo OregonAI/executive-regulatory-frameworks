@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.450
-title: "Appeal procedure for decision to deny, revoke or revise prequalification; hearing; costs; judicial review (Remedies)"
+title: "Appeal procedure for decision to deny, revoke or revise prequalification; hearing; costs; judicial review"
 doc_type: statute
 citation: "ORS 279C.450"
 authority_level: statute
@@ -43,11 +43,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Appeal procedure for decision to deny, revoke or revise prequalification; hearing; costs; judicial review (Remedies) (ORS 279C.450)
+# Appeal procedure for decision to deny, revoke or revise prequalification; hearing; costs; judicial review (ORS 279C.450)
 
 ## At a glance
 
-ORS 279C.450 — Appeal procedure for decision to deny, revoke or revise prequalification; hearing; costs; judicial review (Remedies). Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.450 — Appeal procedure for decision to deny, revoke or revise prequalification; hearing; costs; judicial review. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

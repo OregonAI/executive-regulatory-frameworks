@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-18.385
-title: "Wage exemption (Homesteads)"
+title: "Wage exemption"
 doc_type: statute
 citation: "ORS 18.385"
 authority_level: statute
@@ -42,11 +42,11 @@ tags: ["ors", "chapter-18"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors018.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Wage exemption (Homesteads) (ORS 18.385)
+# Wage exemption (ORS 18.385)
 
 ## At a glance
 
-ORS 18.385 — Wage exemption (Homesteads). Chapter 18 (Judgments), 2025 Edition.
+ORS 18.385 — Wage exemption. Chapter 18 (Judgments), 2025 Edition.
 
 ## Full text
 

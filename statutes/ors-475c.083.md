@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-475c.083
-title: "Samples of immature marijuana plants, seeds; limitations; rules (License to Process Marijuana Items)"
+title: "Samples of immature marijuana plants, seeds; limitations; rules"
 doc_type: statute
 citation: "ORS 475C.083"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-475c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors475C.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Samples of immature marijuana plants, seeds; limitations; rules (License to Process Marijuana Items) (ORS 475C.083)
+# Samples of immature marijuana plants, seeds; limitations; rules (ORS 475C.083)
 
 ## At a glance
 
-ORS 475C.083 — Samples of immature marijuana plants, seeds; limitations; rules (License to Process Marijuana Items). Chapter 475C (Chapter 475C), 2025 Edition.
+ORS 475C.083 — Samples of immature marijuana plants, seeds; limitations; rules. Chapter 475C (Chapter 475C), 2025 Edition.
 
 ## Full text
 

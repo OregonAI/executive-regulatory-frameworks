@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.355
-title: "Evaluation of public improvement projects not contracted by competitive bidding (Solicitation; Contract Award; Rejection)"
+title: "Evaluation of public improvement projects not contracted by competitive bidding"
 doc_type: statute
 citation: "ORS 279C.355"
 authority_level: statute
@@ -41,11 +41,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Evaluation of public improvement projects not contracted by competitive bidding (Solicitation; Contract Award; Rejection) (ORS 279C.355)
+# Evaluation of public improvement projects not contracted by competitive bidding (ORS 279C.355)
 
 ## At a glance
 
-ORS 279C.355 — Evaluation of public improvement projects not contracted by competitive bidding (Solicitation; Contract Award; Rejection). Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.355 — Evaluation of public improvement projects not contracted by competitive bidding. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

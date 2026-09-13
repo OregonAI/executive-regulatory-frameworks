@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-431a.898
-title: "Practitioner training; rules (Penalty)"
+title: "Practitioner training; rules"
 doc_type: statute
 citation: "ORS 431A.898"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-431a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors431A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Practitioner training; rules (Penalty) (ORS 431A.898)
+# Practitioner training; rules (ORS 431A.898)
 
 ## At a glance
 
-ORS 431A.898 — Practitioner training; rules (Penalty). Chapter 431A (Chapter 431A), 2025 Edition.
+ORS 431A.898 — Practitioner training; rules. Chapter 431A (Chapter 431A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-59.155
-title: "Director is agent for service of process; manner of service; exceptions (Licensing of Broker-Dealers, Investment Advisers and Salespersons)"
+title: "Director is agent for service of process; manner of service; exceptions"
 doc_type: statute
 citation: "ORS 59.155"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-59"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors059.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Director is agent for service of process; manner of service; exceptions (Licensing of Broker-Dealers, Investment Advisers and Salespersons) (ORS 59.155)
+# Director is agent for service of process; manner of service; exceptions (ORS 59.155)
 
 ## At a glance
 
-ORS 59.155 — Director is agent for service of process; manner of service; exceptions (Licensing of Broker-Dealers, Investment Advisers and Salespersons). Chapter 59 (Securities Regulation), 2025 Edition.
+ORS 59.155 — Director is agent for service of process; manner of service; exceptions. Chapter 59 (Securities Regulation), 2025 Edition.
 
 ## Full text
 

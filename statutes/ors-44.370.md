@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-44.370
-title: "Witness presumed to speak truth; jury judges of credibility FEES"
+title: "Witness presumed to speak truth; jury judges of credibility"
 doc_type: statute
 citation: "ORS 44.370"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-44"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors044.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Witness presumed to speak truth; jury judges of credibility FEES (ORS 44.370)
+# Witness presumed to speak truth; jury judges of credibility (ORS 44.370)
 
 ## At a glance
 
-ORS 44.370 — Witness presumed to speak truth; jury judges of credibility FEES. Chapter 44 (Witnesses), 2025 Edition.
+ORS 44.370 — Witness presumed to speak truth; jury judges of credibility. Chapter 44 (Witnesses), 2025 Edition.
 
 ## Full text
 

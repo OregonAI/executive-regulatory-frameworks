@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-60.994
-title: "Liability for certain actions in connection with operation of shell entity; actions as false claim; enforcement by civil action GENERAL PROVISIONS (Definitions)"
+title: "Liability for certain actions in connection with operation of shell entity; actions as false claim; enforcement by civil action"
 doc_type: statute
 citation: "ORS 60.994"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-60"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors060.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Liability for certain actions in connection with operation of shell entity; actions as false claim; enforcement by civil action GENERAL PROVISIONS (Definitions) (ORS 60.994)
+# Liability for certain actions in connection with operation of shell entity; actions as false claim; enforcement by civil action (ORS 60.994)
 
 ## At a glance
 
-ORS 60.994 — Liability for certain actions in connection with operation of shell entity; actions as false claim; enforcement by civil action GENERAL PROVISIONS (Definitions). Chapter 60 (Private Corporations), 2025 Edition.
+ORS 60.994 — Liability for certain actions in connection with operation of shell entity; actions as false claim; enforcement by civil action. Chapter 60 (Private Corporations), 2025 Edition.
 
 ## Full text
 

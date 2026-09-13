@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-9.155
-title: "Recall of delegate PRACTICE OF LAW;"
+title: "Recall of delegate"
 doc_type: statute
 citation: "ORS 9.155"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-9"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors009.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Recall of delegate PRACTICE OF LAW; (ORS 9.155)
+# Recall of delegate (ORS 9.155)
 
 ## At a glance
 
-ORS 9.155 — Recall of delegate PRACTICE OF LAW;. Chapter 9 (Oregon State Bar; Attorneys; Law Libraries), 2025 Edition.
+ORS 9.155 — Recall of delegate. Chapter 9 (Oregon State Bar; Attorneys; Law Libraries), 2025 Edition.
 
 ## Full text
 

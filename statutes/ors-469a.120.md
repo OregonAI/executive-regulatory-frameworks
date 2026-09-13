@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-469a.120
-title: "Cost recovery by electric companies (Renewable Energy Certificates)"
+title: "Cost recovery by electric companies"
 doc_type: statute
 citation: "ORS 469A.120"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-469a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors469A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Cost recovery by electric companies (Renewable Energy Certificates) (ORS 469A.120)
+# Cost recovery by electric companies (ORS 469A.120)
 
 ## At a glance
 
-ORS 469A.120 — Cost recovery by electric companies (Renewable Energy Certificates). Chapter 469A (Chapter 469A), 2025 Edition.
+ORS 469A.120 — Cost recovery by electric companies. Chapter 469A (Chapter 469A), 2025 Edition.
 
 ## Full text
 

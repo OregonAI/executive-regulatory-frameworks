@@ -48,10 +48,21 @@ def patch_statute_file(path: Path, sec: str, ch: str, old_title: str, new_title:
     so this function never needs a chapter title passed in at all."""
     text = path.read_text(encoding="utf-8")
     old_q = old_title.replace('"', "'")
-    new_q = new_title.replace('"', "'")
+    # Measured live on 656.390: a title ending in a bare `\` (a source-snapshot TOC
+    # artifact, not a real escape -- see the module docstring's sibling proof) writes
+    # `\"` right at the closing quote if the backslash isn't itself escaped first --
+    # not "end of string", a YAML "escaped quote", leaving the double-quoted scalar
+    # unterminated and every field after it unparseable. `old_q` doesn't need this: it
+    # is only fed through `re.escape()` to build a MATCH pattern, never written to disk.
+    new_q = new_title.replace("\\", "\\\\").replace('"', "'")
     n = 0
+    # A LAMBDA repl, not a replacement string: `re.subn`'s own string-repl path treats
+    # backslashes in the REPLACEMENT as ITS escape syntax too (`\\1` is a backreference),
+    # so the doubled backslashes `new_q` just built to survive YAML would be collapsed
+    # right back to one by `re` itself before they ever reach the file -- measured live,
+    # this was the first fix attempted here and it silently produced the same corruption.
     text, c = re.subn(r'^title: ' + re.escape(f'"{old_q}"') + r'\s*$',
-                      f'title: "{new_q}"', text, count=1, flags=re.M)
+                      lambda m: f'title: "{new_q}"', text, count=1, flags=re.M)
     n += c
     text, c = text.replace(f"# {old_title} (ORS {sec})", f"# {new_title} (ORS {sec})"), \
         (f"# {old_title} (ORS {sec})" in text)
@@ -254,11 +265,52 @@ def _proof_patch_still_works_when_the_chapter_title_agrees(check) -> None:
         shutil.rmtree(tmpdir)
 
 
+def _proof_patch_survives_a_title_ending_in_a_bare_backslash(check) -> None:
+    """Measured live on 656.390: its title, both before and after this backfill, ends in a
+    bare `\\` -- a source chapter-snapshot TOC artifact (the body text has no such
+    character; only the TOC line does), unrelated to and pre-dating #397. Before this fix,
+    `new_q` embedded that backslash unescaped into the `title: "..."` double-quoted YAML
+    scalar; written immediately before the closing `"`, `\\"` is YAML's escaped-quote
+    sequence, not end-of-string, so the scalar never closes and every frontmatter field
+    after `title:` becomes unparseable -- not a fixture guess, this was watched directly:
+    reverting `new_q`'s `.replace("\\\\", "\\\\\\\\")` reproduces exactly this file's real,
+    observed corruption. `old_q` needs no such change -- it is only ever fed through
+    `re.escape()` to build a regex, never written to disk."""
+    tmpdir = Path(tempfile.mkdtemp(prefix="backfill-ors-titles-selftest-"))
+    try:
+        old_title = "Frivolous appeals, hearing requests or motions; expenses and attorney fee\\ SELF-INSURED"
+        new_title = "Frivolous appeals, hearing requests or motions; expenses and attorney fee\\"
+        p = _fixture_file(tmpdir, "656.390", old_title, file_chapter_title="Workers' Compensation")
+        n = patch_statute_file(p, "656.390", "836", old_title, new_title)
+        text = p.read_text(encoding="utf-8")
+        check(f"all three occurrences patch despite the title's trailing backslash "
+              f"(got n={n})", n == 3)
+        fm_end = text.find("\n---", 3)
+        check("RED/GREEN: the patched frontmatter is still valid YAML -- a title ending "
+              "in an unescaped backslash right before the closing quote leaves the scalar "
+              "unterminated and this raises",
+              _frontmatter_parses(text[3:fm_end]))
+        check("...and the recovered title carries the backslash exactly once, not doubled "
+              "or dropped",
+              yaml.safe_load(text[3:fm_end])["title"] == new_title)
+    finally:
+        shutil.rmtree(tmpdir)
+
+
+def _frontmatter_parses(fm_text: str) -> bool:
+    try:
+        yaml.safe_load(fm_text)
+        return True
+    except yaml.YAMLError:
+        return False
+
+
 def selftest() -> int:
     check = Checks()
     _proof_patch_survives_a_stale_at_a_glance_chapter_title(check)
     _proof_patch_survives_a_chapter_title_with_its_own_parentheses(check)
     _proof_patch_still_works_when_the_chapter_title_agrees(check)
+    _proof_patch_survives_a_title_ending_in_a_bare_backslash(check)
     return check.report()
 
 

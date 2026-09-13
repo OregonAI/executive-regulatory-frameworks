@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-279c.590
-title: "Complaint process for substitutions of subcontractors; civil penalties (Action on Payment Bonds and Public Works Bonds)"
+title: "Complaint process for substitutions of subcontractors; civil penalties"
 doc_type: statute
 citation: "ORS 279C.590"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-279c"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors279C.html> (retrieved 2026-07-18, 2025 Edition).
 
-# Complaint process for substitutions of subcontractors; civil penalties (Action on Payment Bonds and Public Works Bonds) (ORS 279C.590)
+# Complaint process for substitutions of subcontractors; civil penalties (ORS 279C.590)
 
 ## At a glance
 
-ORS 279C.590 — Complaint process for substitutions of subcontractors; civil penalties (Action on Payment Bonds and Public Works Bonds). Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
+ORS 279C.590 — Complaint process for substitutions of subcontractors; civil penalties. Chapter 279C (Public Contracting - Public Improvements), 2025 Edition.
 
 ## Full text
 

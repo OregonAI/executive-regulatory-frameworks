@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-659a.285
-title: "Use of paid leave (Prohibited Conduct)"
+title: "Use of paid leave"
 doc_type: statute
 citation: "ORS 659A.285"
 authority_level: statute
@@ -50,11 +50,11 @@ tags: ["ors", "chapter-659a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors659A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Use of paid leave (Prohibited Conduct) (ORS 659A.285)
+# Use of paid leave (ORS 659A.285)
 
 ## At a glance
 
-ORS 659A.285 — Use of paid leave (Prohibited Conduct). Chapter 659A (Chapter 659A), 2025 Edition.
+ORS 659A.285 — Use of paid leave. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 

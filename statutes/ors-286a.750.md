@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-286a.750
-title: "Terms and conditions of pension liability bonds SEISMIC REHABILITATION BONDS (Public Education Buildings)"
+title: "Terms and conditions of pension liability bonds"
 doc_type: statute
 citation: "ORS 286A.750"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-286a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors286A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Terms and conditions of pension liability bonds SEISMIC REHABILITATION BONDS (Public Education Buildings) (ORS 286A.750)
+# Terms and conditions of pension liability bonds (ORS 286A.750)
 
 ## At a glance
 
-ORS 286A.750 — Terms and conditions of pension liability bonds SEISMIC REHABILITATION BONDS (Public Education Buildings). Chapter 286A (Chapter 286A), 2025 Edition.
+ORS 286A.750 — Terms and conditions of pension liability bonds. Chapter 286A (Chapter 286A), 2025 Edition.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-91.140
-title: "Eviction of squatter RENT"
+title: "Eviction of squatter"
 doc_type: statute
 citation: "ORS 91.140"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-91"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors091.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Eviction of squatter RENT (ORS 91.140)
+# Eviction of squatter (ORS 91.140)
 
 ## At a glance
 
-ORS 91.140 — Eviction of squatter RENT. Chapter 91 (Tenancy), 2025 Edition.
+ORS 91.140 — Eviction of squatter. Chapter 91 (Tenancy), 2025 Edition.
 
 ## Full text
 

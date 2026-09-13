@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-21.255
-title: "Court Forms Revolving Fund (Fees for Other Services)"
+title: "Court Forms Revolving Fund"
 doc_type: statute
 citation: "ORS 21.255"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-21"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors021.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Court Forms Revolving Fund (Fees for Other Services) (ORS 21.255)
+# Court Forms Revolving Fund (ORS 21.255)
 
 ## At a glance
 
-ORS 21.255 — Court Forms Revolving Fund (Fees for Other Services). Chapter 21 (State Court Fees), 2025 Edition.
+ORS 21.255 — Court Forms Revolving Fund. Chapter 21 (State Court Fees), 2025 Edition.
 
 ## Full text
 

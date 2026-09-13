@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-285a.060
-title: "Advisory and technical committees (Department)"
+title: "Advisory and technical committees"
 doc_type: statute
 citation: "ORS 285A.060"
 authority_level: statute
@@ -44,11 +44,11 @@ tags: ["ors", "chapter-285a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors285A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Advisory and technical committees (Department) (ORS 285A.060)
+# Advisory and technical committees (ORS 285A.060)
 
 ## At a glance
 
-ORS 285A.060 — Advisory and technical committees (Department). Chapter 285A (Chapter 285A), 2025 Edition.
+ORS 285A.060 — Advisory and technical committees. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 

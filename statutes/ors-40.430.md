@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-40.430
-title: "Rule 706. Impeachment of expert witness by learned treatise HEARSAY"
+title: "Rule 706. Impeachment of expert witness by learned treatise"
 doc_type: statute
 citation: "ORS 40.430"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-40"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors040.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Rule 706. Impeachment of expert witness by learned treatise HEARSAY (ORS 40.430)
+# Rule 706. Impeachment of expert witness by learned treatise (ORS 40.430)
 
 ## At a glance
 
-ORS 40.430 — Rule 706. Impeachment of expert witness by learned treatise HEARSAY. Chapter 40 (Evidence Code), 2025 Edition.
+ORS 40.430 — Rule 706. Impeachment of expert witness by learned treatise. Chapter 40 (Evidence Code), 2025 Edition.
 
 ## Full text
 

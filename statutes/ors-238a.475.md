@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-238a.475
-title: "Application of legislative changes to legislators REPORTS ON MEMBERS IN HAZARDOUS POSITIONS (Temporary provisions relating to reports on members in hazardous po"
+title: "Application of legislative changes to legislators"
 doc_type: statute
 citation: "ORS 238A.475"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-238a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors238A.html> (retrieved 2026-07-20, 2025 Edition).
 
-# Application of legislative changes to legislators REPORTS ON MEMBERS IN HAZARDOUS POSITIONS (Temporary provisions relating to reports on members in hazardous po (ORS 238A.475)
+# Application of legislative changes to legislators (ORS 238A.475)
 
 ## At a glance
 
-ORS 238A.475 — Application of legislative changes to legislators REPORTS ON MEMBERS IN HAZARDOUS POSITIONS (Temporary provisions relating to reports on members in hazardous po. Chapter 238A (Chapter 238A), 2025 Edition.
+ORS 238A.475 — Application of legislative changes to legislators. Chapter 238A (Chapter 238A), 2025 Edition.
 
 ## Full text
 
