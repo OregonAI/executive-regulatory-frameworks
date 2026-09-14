@@ -220,6 +220,9 @@ CHECK_RULES = (
     "the-reader-runs-on-the-bulletins-cadence", "hash-drift-still-runs",
     "the-scheduled-run-fetches-the-group-this-reader-joins",
     "the-drift-observation-is-the-file-the-toolkit-writes",
+    # a run that cannot finish must say so (#420)
+    "the-drift-step-cannot-exhaust-the-jobs-budget",
+    "a-non-completing-run-still-files-its-report",
 )
 
 
@@ -984,6 +987,133 @@ def check_drift_filename(source) -> list:
     return []
 
 
+# ------------------------------------------------ surviving a run that cannot finish (#420)
+
+# THE MEASURED BASELINE THIS BUDGET IS SIZED AGAINST, not a guess. The 2026-09-05
+# `monthly-drift` run's `corpus-detect-changes` step hashed 7,477 sources -- every
+# bulletin-cadence group `scheduled.yml` lists, oar included -- from 16:26:41.73Z to
+# 17:33:06.50Z: 3,985 seconds, 0.53 s/source. That matches this issue's own "even half a
+# second per fetch" estimate. Applied to the 6,614-source `oar` group alone (drift-state.json,
+# 2026-09), that is already ~58.7 minutes BEFORE the runner reports back -- inside the
+# 60-minute job budget that cancelled the only run this workflow has ever had (#420), with
+# no room left for upstream latency, which is exactly what varied on 2026-09-06.
+MEASURED_RATE_S_PER_SOURCE = 3985 / 7477
+OAR_SOURCE_COUNT = 6614
+EXPECTED_DRIFT_MINUTES = MEASURED_RATE_S_PER_SOURCE * OAR_SOURCE_COUNT / 60
+
+# THE SHORTEST TAIL A CANCELLED OR SLOW DRIFT STEP MUST LEAVE BEHIND. Setup (checkout,
+# pip, apt) measured under 90 seconds and the report and filing steps read committed data
+# and make at most a few GitHub API calls -- neither scales with the source count. Ten
+# minutes is several times that measured cost, so the job's OWN timeout stops being the
+# thing standing between a slow drift step and a filed report.
+MIN_TAIL_MINUTES = 10
+
+
+def _report_job(text):
+    """The `report` job's own steps, and the job-level `timeout-minutes` over them.
+
+    A SEPARATE READ FROM `workflow()`, which only ever returns run-command text: whether a
+    step can be trusted to run after an earlier one was cancelled is a question about
+    `if:` and `timeout-minutes`, neither of which `workflow()` keeps."""
+    try:
+        d = yaml.safe_load(text) if text is not None else None
+    except yaml.YAMLError:
+        return None
+    if not isinstance(d, dict):
+        return None
+    job = (d.get("jobs") or {}).get("report")
+    if not isinstance(job, dict):
+        return None
+    steps = [s for s in (job.get("steps") or []) if isinstance(s, dict)]
+    return job.get("timeout-minutes"), steps
+
+
+def _find_step(steps, *needles):
+    """The first step whose normalised `run:` carries every needle, or None."""
+    for s in steps:
+        run = " ".join(str(s.get("run", "")).split())
+        if all(n in run for n in needles):
+            return s
+    return None
+
+
+def check_survives_incomplete_run(text) -> list:
+    """A slow or failing drift step must not be able to take the report and the filing
+    down with it.
+
+    THE ONLY RUN THIS WORKFLOW HAS EVER HAD was cancelled by the JOB's own
+    `timeout-minutes` at the drift step, and every step after it -- including the one
+    that files the issue -- was skipped (#420). `continue-on-error: true` on the drift
+    step catches a drift run that FAILS; it does nothing for a job-level timeout, which
+    cancels the whole job regardless of `continue-on-error` anywhere in it. So this checks
+    the other two levers: the drift step must be bounded well inside the job's own
+    budget, with real minutes left over for the steps that report on it, and those steps
+    must be willing to run even when something earlier in the job did not finish."""
+    parsed = _report_job(text)
+    if parsed is None:
+        return [Failure(
+            "a-non-completing-run-still-files-its-report", str(WORKFLOW),
+            "does not exist, does not parse, or declares no `report` job, so nothing here "
+            "can be checked for surviving a slow or failed run")]
+    job_timeout, steps = parsed
+    drift = _find_step(steps, "corpus_toolkit.sources.changes")
+    report_step = _find_step(steps, "bulletin_report.py")
+    file_step = _find_step(steps, "bulletin_report.py", "--file-issue")
+    failures = []
+    if drift is None:
+        return [Failure(
+            "a-non-completing-run-still-files-its-report", "Observe what moved upstream",
+            "no step in the `report` job runs the drift observation any more, so its "
+            "timeout cannot be checked against the job's budget")]
+    if not isinstance(job_timeout, int):
+        failures.append(Failure(
+            "the-drift-step-cannot-exhaust-the-jobs-budget", "timeout-minutes",
+            "the `report` job declares no job-level `timeout-minutes`, so there is no "
+            "budget to check the drift step's own timeout against"))
+    else:
+        step_timeout = drift.get("timeout-minutes")
+        if not isinstance(step_timeout, int):
+            failures.append(Failure(
+                "the-drift-step-cannot-exhaust-the-jobs-budget", "Observe what moved upstream",
+                f"carries no step-level `timeout-minutes`, so it can spend the whole "
+                f"{job_timeout}-minute job budget by itself -- exactly what cancelled the "
+                "2026-09-06 run and skipped every step after it, report and filing "
+                "included (#420)"))
+        else:
+            if job_timeout - step_timeout < MIN_TAIL_MINUTES:
+                failures.append(Failure(
+                    "the-drift-step-cannot-exhaust-the-jobs-budget",
+                    f"{step_timeout}m of {job_timeout}m",
+                    f"leaves only {job_timeout - step_timeout} minute(s) after the drift "
+                    f"step's own timeout for setup, the report and the filing -- fewer "
+                    f"than {MIN_TAIL_MINUTES}, which is not real headroom"))
+            if step_timeout <= EXPECTED_DRIFT_MINUTES:
+                failures.append(Failure(
+                    "the-drift-step-cannot-exhaust-the-jobs-budget", f"{step_timeout}m",
+                    f"is at or below the ~{EXPECTED_DRIFT_MINUTES:.0f}-minute time a full "
+                    f"`--group oar` observation is measured to take "
+                    f"({OAR_SOURCE_COUNT} sources at {MEASURED_RATE_S_PER_SOURCE:.2f} "
+                    "s/source) -- this budget would cut off every normal run, not just a "
+                    "slow one"))
+    for step, label in ((report_step, "What the report would say"),
+                        (file_step, "File the one issue this run has to file")):
+        if step is None:
+            failures.append(Failure(
+                "a-non-completing-run-still-files-its-report", label,
+                "no step in the `report` job runs it any more"))
+            continue
+        cond = str(step.get("if", "")).strip()
+        if "always()" not in cond:
+            failures.append(Failure(
+                "a-non-completing-run-still-files-its-report", label,
+                f"its `if:` is {cond or '(default -- only if every earlier step succeeded)'!r}, "
+                "so a step that failed or was cancelled earlier in the job -- including "
+                "the job's OWN timeout -- skips it. That is #420: the step that files the "
+                "one issue this run has to file never ran, and a cancelled run reported "
+                "nothing"))
+    return failures
+
+
 def _toolkit_source():
     try:
         from corpus_toolkit.sources import changes
@@ -1047,6 +1177,7 @@ def cmd_check() -> int:
     failures += check_schedule(_text(WORKFLOW))
     failures += check_drift_still_runs(_text(DRIFT_WORKFLOW))
     failures += check_drift_filename(_toolkit_source())
+    failures += check_survives_incomplete_run(_text(WORKFLOW))
     if report(failures):
         print(f"\n{len(failures)} bulletin-report violation(s)", file=sys.stderr)
         return 1
@@ -1535,6 +1666,70 @@ def _proof_the_two_facts_in_workflow_files(check) -> None:
     check("...and `drift` is a fixture this proof actually built", "cron" in drift)
 
 
+def _report_wf(job_timeout=105, drift_timeout=90, report_if="always()",
+              file_if="always() && (github.event_name == 'schedule' || inputs.file_issue)",
+              drift_run="python3 -m corpus_toolkit.sources.changes --group oar") -> str:
+    """A `report` job in the committed workflow's shape, carrying the `timeout-minutes`
+    and `if:` attributes `_wf()` does not model -- COMPLETE BUT FOR THE THING UNDER TEST,
+    same discipline as `_wf()` itself. Defaults match what the FIXED workflow declares, so
+    every keyword argument is one knob away from the passing shape."""
+    steps = [dict({"timeout-minutes": drift_timeout} if drift_timeout is not None else {},
+                  **{"name": "Observe what moved upstream", "continue-on-error": True,
+                     "run": drift_run})]
+    steps.append(dict({"if": report_if} if report_if is not None else {},
+                      **{"name": "What the report would say",
+                         "run": "python3 src/bulletin_report.py"}))
+    steps.append(dict({"if": file_if} if file_if is not None else {},
+                      **{"name": "File the one issue this run has to file",
+                         "run": "python3 src/bulletin_report.py --file-issue"}))
+    job = dict({"timeout-minutes": job_timeout} if job_timeout is not None else {},
+              **{"steps": steps})
+    return yaml.safe_dump({"on": {"schedule": [{"cron": CRON}], "workflow_dispatch": None},
+                           "jobs": {"report": job}}, sort_keys=False)
+
+
+def _proof_a_non_completing_run_still_files_its_report(check) -> None:
+    """#420: the only run this workflow has ever had was cancelled by the JOB's OWN
+    `timeout-minutes` at the drift step, and every step after it -- including the one
+    that files the issue -- was skipped. `continue-on-error` on the drift step catches a
+    drift run that FAILS; it does nothing for a job-level timeout."""
+    check("a drift step with no step-level timeout is caught -- it can spend the whole "
+          "job budget by itself, exactly what cancelled the 2026-09-06 run",
+          any(f.rule == "the-drift-step-cannot-exhaust-the-jobs-budget"
+              for f in check_survives_incomplete_run(_report_wf(drift_timeout=None))))
+    check("a job with no `timeout-minutes` at all is caught -- there is no budget to "
+          "check the drift step's own timeout against",
+          any(f.rule == "the-drift-step-cannot-exhaust-the-jobs-budget"
+              for f in check_survives_incomplete_run(_report_wf(job_timeout=None))))
+    check("a drift step timeout that leaves fewer than ten minutes for setup, the report "
+          "and the filing is caught",
+          any(f.rule == "the-drift-step-cannot-exhaust-the-jobs-budget"
+              for f in check_survives_incomplete_run(
+                  _report_wf(job_timeout=90, drift_timeout=85))))
+    check("a drift step timeout AT OR BELOW the measured full-`oar`-group runtime is "
+          "caught -- it would cut off every normal run, not just a slow one",
+          any(f.rule == "the-drift-step-cannot-exhaust-the-jobs-budget"
+              for f in check_survives_incomplete_run(_report_wf(drift_timeout=50))))
+    check("a report step left at the default `if:` is caught -- an earlier cancellation "
+          "skips it, which is the step #420 found silent",
+          any(f.rule == "a-non-completing-run-still-files-its-report"
+              for f in check_survives_incomplete_run(_report_wf(report_if=None))))
+    check("a filing step that kept its dry-run gate but dropped `always()` is caught the "
+          "same way",
+          any(f.rule == "a-non-completing-run-still-files-its-report"
+              for f in check_survives_incomplete_run(_report_wf(
+                  file_if="github.event_name == 'schedule' || inputs.file_issue"))))
+    check("a workflow with no `report` job at all is caught, and is not a pass",
+          any(f.rule == "a-non-completing-run-still-files-its-report"
+              for f in check_survives_incomplete_run(
+                  yaml.safe_dump({"on": {"schedule": [{"cron": CRON}]}, "jobs": {}}))))
+    check("a workflow file that does not parse is caught, and is not a pass",
+          any(f.rule == "a-non-completing-run-still-files-its-report"
+              for f in check_survives_incomplete_run("on: [\n  unbalanced")))
+    check("...and the COMMITTED workflow satisfies every one of them",
+          not check_survives_incomplete_run(_text(WORKFLOW)))
+
+
 def _proof_a_month_nobody_read_is_a_finding(check) -> None:
     """THE PREMISE OF THE SERIES, and the way this module would have quietly failed it.
 
@@ -1617,6 +1812,7 @@ def selftest() -> int:
         _proof_a_group_wide_move_is_not_per_rule_notice(check, tmp / "wide.tsv")
         _proof_no_observation_is_not_no_disagreement(check, tmp)
         _proof_the_two_facts_in_workflow_files(check)
+        _proof_a_non_completing_run_still_files_its_report(check)
         _proof_a_month_nobody_read_is_a_finding(check)
         _proof_the_notice_must_be_readable(check)
     check("every rule this module can report is declared",
