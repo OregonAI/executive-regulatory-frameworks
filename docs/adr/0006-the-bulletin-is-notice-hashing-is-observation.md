@@ -23,8 +23,8 @@ backfill and the arithmetic decides this. `corpus_toolkit.sources.fetch` holds
 `MIN_INTERVAL = 2.0` seconds between requests **to the same host**, and every OAR rule page
 is on one host, `secure.sos.state.or.us`. The watch therefore costs **1,800 pages per hour,
 serially, and cannot be parallelised without abandoning that interval** — which is not on the
-table. Today's 6,614 pages is **3.7 hours per run**. Enrolling all 42,561 would be **23.6
-hours per run, 42,561 requests a week to a single state server.**
+table. Today's 6,665 pages is **3.7 hours per run**. Enrolling all 42,612 would be **23.7
+hours per run, 42,612 requests a week to a single state server.**
 
 **That is refused, on politeness grounds, and recorded here rather than deferred.** The cost
 would not be ours; it would be imposed on the Secretary of State, to detect changes that for
@@ -42,9 +42,11 @@ So the watch is defined by four rules, in this order:
 4. **Full enrolment of the 35,947 is refused**, for the arithmetic above, until either the
    interval or the corpus's relationship with the host changes.
 
-Today that yields **6,614 rule pages across 136 chapters — 15.5% of the 42,561 rule documents
-on disk**, across 170 mirrored chapters. Of those 6,614, 1,006 carry the #256 seeding (406
-Bulletin-named, 600 sampled) and 5,608 arrived with #238's ingest.
+Today that yields **6,665 rule pages across 136 chapters — 15.6% of the 42,612 rule documents
+on disk**, across 170 mirrored chapters. Of those 6,665, 1,006 carry the #256 seeding (406
+Bulletin-named, 600 sampled), 5,608 arrived with #238's ingest, and 51 arrived with the #238/
+#385 follow-on that ingested the last 47 chapter-350 adoptions and the four chapter-414
+`-0750` rules.
 
 This is **not** "watch a subset because it is cheaper." Rule 1 is unconditional, rule 2 means
 the number grows without anyone deciding to grow it, and rule 4 makes the refusal legible.

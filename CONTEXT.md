@@ -175,7 +175,7 @@ _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a 
 **Legal status**:
 Whether a rule is in force. It lives in the document's `status` frontmatter field, whose values
 corpus-toolkit's schema fixes as `current | superseded | repealed | proposed | draft`, and it
-is a claim about Oregon law. Measured over the committed corpus: 40,438
+is a claim about Oregon law. Measured over the committed corpus: 40,489
 <!--census:legal_status_docs.status_current--> rules read `current`, 2,086
 <!--census:legal_status_docs.status_repealed--> `repealed` and 37
 <!--census:legal_status_docs.status_superseded--> `superseded`, computed by
@@ -264,7 +264,7 @@ way and this is a third fact about the same rule
 Whether this corpus holds a copy of a rule, and in what shape. It lives in
 `_meta/catalog/oar.yml` as `rules[].status`, and its vocabulary — all SIX words, declared
 in one module, `ingest_status.py` (#333, not restated here or anywhere that reads it) —
-is `ingested` (42,082 <!--census:oar.ingested-->), `not_ingested`
+is `ingested` (42,133 <!--census:oar.ingested-->), `not_ingested`
 (0 <!--census:oar.not_ingested--> since #238 ingested the 5,608
 <!--observed:2026-08-28--> rules #270's OARD-direct discovery had found: the word means
 OARD names a rule this mirror holds no document for, and a count of zero says the mirror is
@@ -283,7 +283,7 @@ never about Oregon law: a rule can be in force and absent here, or repealed and 
 The Bulletin's claim about force sits on the SAME ROW under different keys — `legal_status`,
 `legal_status_action` and `legal_status_notice`, none of which may appear without the others
 — and the two vocabularies never borrow each other's words — `legal_status.py --check` reads
-all 42,615 <!--census:oar.total--> entries and refuses either field holding the other's
+all 42,666 <!--census:oar.total--> entries and refuses either field holding the other's
 vocabulary, because on the
 day they first collide nothing else in the repository would notice.
 _Avoid_: Status, unqualified. The two fields share a name and mean different things, which is
@@ -599,13 +599,13 @@ RECORDED baseline, written to `changed-sources.tsv`. It is the second of ADR 000
 signals and it is OBSERVATION of what is served, where the Bulletin is AUTHORITY about what
 was filed — neither arbitrates the other, and the disagreement is the finding. Its universe
 is the manifest, not the corpus: `_meta/sources/oar.yml` now watches
-6,614 <!--census:oar_watch.watched--> individual rule pages across
+6,665 <!--census:oar_watch.watched--> individual rule pages across
 136 <!--census:oar_watch.watched_chapters--> chapters — grown from the
 484 <!--observed:2026-08-28--> pages in four chapters #247 found the manifest holding, which
 is what made THE OVERLAP ZERO true when it was written and false now, gated rather than
 restated by hand so the next growth is caught here too. The August 2026 bulletin named
 534 <!--census:oar_watch.named--> rules in 35 <!--census:oar_watch.named_chapters--> chapters,
-of which 477 <!--census:oar_watch.overlap--> are now ALSO watched — so ADR 0006's *filed but
+of which 524 <!--census:oar_watch.overlap--> are now ALSO watched — so ADR 0006's *filed but
 not yet served* and *agreement* cases, empty at #247's writing, are live for that many rules,
 and for the remaining named rules there is still no observation at all. A rule's absence
 from the drift file is therefore never read as "the
