@@ -8,6 +8,15 @@ file's frontmatter).
 
 ## [Unreleased]
 
+### Superseded
+
+- `das-107-009-0030_pr` (Business Equity, Inclusion and Engagement in Public Procurement
+  Procedure): dropped from every live DAS policies view in the August 2026 re-issue.
+  Marked `status: superseded` on the evidence of the replacing policy
+  `das-107-009-0030`'s own masthead (`SUPERSEDES: Policy 107-009-0030 and Procedure
+  107-009-0030_PR`) — not on its absence from the listing alone. Kept, not deleted; see
+  `../policies/CHANGELOG.md` and #387 for the full account.
+
 ## [2026-07-18]
 
 ### Added

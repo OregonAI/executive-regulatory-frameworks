@@ -299,6 +299,12 @@ GATES = (
     Gate("OAR frontmatter must match each rule's own structured lines (nightly)",
          ('python3', 'src/enrich_oar.py', '--check'),
          tier='nightly', serial=False, timeout=900),
+    Gate('DAS policies catalog must match the committed listing snapshot',
+         ('python3', 'src/catalog_das_policies.py', '--check'),
+         tier='pr', serial=False, timeout=120),
+    Gate('...and that rule must be able to fail (DAS policies catalog rebuild)',
+         ('python3', 'src/catalog_das_policies.py', '--selftest'),
+         tier='pr', serial=True, timeout=120),
 )
 
 

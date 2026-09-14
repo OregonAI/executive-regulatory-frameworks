@@ -4,7 +4,7 @@ Statewide procedures (`doc_type: procedure`, filenames ending `_pr.md`) that imp
 DAS statewide policies. Split out from [`../policies/`](../policies/_index.md) so
 procedures aren't mixed in with policies. **Non-authoritative full-text copies.**
 Contents mirror the same DAS policies listing of record as the policies directory
-(snapshot: [`das-policies-listing.json`](../../../_meta/snapshots/das-policies-listing.json)).
+(snapshot: [`department-of-administrative-services-policies-listing.json`](../../../_meta/snapshots/department-of-administrative-services-policies-listing.json)).
 One procedure (107-011-050_PR) is linked statically from the Surplus section of
 policies.aspx rather than appearing in any SharePoint view.
 
@@ -38,6 +38,6 @@ minus the `_PR` suffix (e.g. 107-004-052_PR implements 107-004-052). Full list:
 - **107-004-052_PR** — Cyber and Information Security Procedure ([das-107-004-052_pr.md](das-107-004-052_pr.md))
 - **107-004-150_PR** — Cloud and Hosted Systems Procedure ([das-107-004-150_pr.md](das-107-004-150_pr.md))
 - **107-004-155_PR** — Covered Products and Vendors Procedure ([das-107-004-155_pr.md](das-107-004-155_pr.md))
-- **107-009-0030_PR (under revision)** — Business Equity, Inclusion and Engagement in Public Procurement Procedure ([das-107-009-0030_pr.md](das-107-009-0030_pr.md))
+- **107-009-0030_PR (superseded)** — Business Equity, Inclusion and Engagement in Public Procurement Procedure; dropped from the live listing in DAS's August 2026 re-issue and superseded by `das-107-009-0030` per that policy's own masthead — kept, not deleted ([das-107-009-0030_pr.md](das-107-009-0030_pr.md))
 - **107-009-0060_PR** — Statewide Procurement Training Procedure ([das-107-009-0060_pr.md](das-107-009-0060_pr.md))
 - **107-011-050_PR** —  ([das-107-011-050_pr.md](das-107-011-050_pr.md))
