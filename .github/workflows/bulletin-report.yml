@@ -41,6 +41,21 @@ name: bulletin-report
 # "nothing changed" the same observation. `scheduled.yml`'s `monthly-drift` job is
 # untouched and still hashes the `oar` group on the 5th; `hash-drift-still-runs` in
 # `--check` fails if that ever stops being true.
+#
+# A RUN THAT CANNOT FINISH SAYS SO (#420). The only run this workflow has ever had was
+# CANCELLED by this job's own `timeout-minutes` at the drift step, and every step after
+# it — including the one that files the issue — was skipped: a cancelled run and a quiet
+# month produced the identical silence. The drift step now carries its OWN bounded
+# `timeout-minutes`, sized against a measured fetch rate with real headroom (see the step
+# below), so it cannot spend the whole job's budget by itself; the job-level timeout is
+# raised to leave minutes behind it for setup, the report and the filing, so it becomes a
+# backstop rather than the normal control point; and the report and filing steps carry
+# `if: always()`, so a run that hits either timeout — or fails any earlier setup step —
+# still reaches `bulletin_report.py`, which already treats an absent `changed-sources.tsv`
+# as "could not check" rather than "nothing moved" (ADR 0006's own rule, not a new one).
+# `bulletin_report.py --check`'s `the-drift-step-cannot-exhaust-the-jobs-budget` and
+# `a-non-completing-run-still-files-its-report` gate both properties over this file's own
+# text.
 on:
   schedule:
     - cron: "0 15 6 * *"
@@ -58,7 +73,17 @@ permissions:
 jobs:
   report:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    # #420: the only run this workflow has ever had was CANCELLED by this job's OWN
+    # timeout at the drift step, and every step after it -- including the one that files
+    # the issue -- was skipped. `continue-on-error` on that step catches a drift run that
+    # FAILS; it does nothing for a job-level timeout, which tears the whole job down
+    # regardless. So the budget is now split in two: the drift step gets its own bounded
+    # timeout (below), and this job-level one is raised to leave real minutes after it for
+    # setup, the report and the filing -- a backstop that a correctly-bounded drift step
+    # should never actually reach. `bulletin_report.py --check`'s
+    # `the-drift-step-cannot-exhaust-the-jobs-budget` fails if the gap between the two
+    # ever drops below ten minutes again.
+    timeout-minutes: 105
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -77,11 +102,14 @@ jobs:
       # THE HASH READING, AND WHY THIS JOB PAYS FOR ITS OWN. `changed-sources.tsv` lives
       # in the writing job's workspace and GitHub throws the workspace away, so the 5th's
       # drift run cannot hand it over without an artifact upload the reusable workflow does
-      # not offer. The cost is 484 fetches once a month — the `oar` group only, a quarter
-      # of the 1,975 sources the quarterly sweep crawls — and the alternative, folding this
-      # report into `scheduled.yml`'s `monthly-drift` job as extra steps, would put the
-      # only outward-acting step in the repository inside a job nobody reviews separately.
-      # If the reusable workflow ever uploads the tsv, take it from there and drop this.
+      # not offer. The cost is 6,614 fetches once a month — the `oar` group only, which is
+      # NOT a quarter of the quarterly sweep's 8,105: #262 grew the watched set 6.6x past
+      # the ~1,006 #225 was sized against and nobody re-measured this job's budget against
+      # it until #420 (the comment this replaced still said 484 of 1,975, both stale by the
+      # same growth). The alternative, folding this report into `scheduled.yml`'s
+      # `monthly-drift` job as extra steps, would put the only outward-acting step in the
+      # repository inside a job nobody reviews separately. If the reusable workflow ever
+      # uploads the tsv, take it from there and drop this.
       # NO `--open-issues`: the drift job on the 5th is the one that files per-source
       # tickets, and a second copy of that spend would double the tracker's monthly noise.
       # NO `--record-baseline`: this run accepts nothing and writes nothing.
@@ -89,21 +117,47 @@ jobs:
       # `continue-on-error`, because a capped or systemically-failed drift run EXITS
       # NON-ZERO by design (corpus-toolkit#69) and that is a run whose observation this
       # report still wants — and because a report that vanished whenever hashing had a bad
-      # day is a monthly notice that stops arriving without saying so.
+      # day is a monthly notice that stops arriving without saying so. It does NOT cover a
+      # JOB-level timeout (#420) — see the STEP-level one below for that.
+      #
+      # THE STEP'S OWN BUDGET, MEASURED NOT GUESSED. The 2026-09-05 `monthly-drift` run's
+      # `corpus-detect-changes` step hashed 7,477 sources (every bulletin-cadence group,
+      # oar included) in 3,985s — 0.53 s/source, matching #420's own "half a second per
+      # fetch" estimate. Applied to `oar` alone (6,614 sources) that is ~58.7 minutes
+      # BEFORE the runner reports back — already inside the 60-minute budget this replaces,
+      # with no room for upstream latency, which is exactly what varied on 2026-09-06. 90
+      # minutes gives ~53% headroom over that measured baseline (the quarterly full sweep's
+      # own rate ran only ~11% slower), so a run this slow is genuinely abnormal rather than
+      # the expected case eating its budget on schedule. If it still isn't enough, corpus-
+      # toolkit#67's sibling problem — `corpus_toolkit.sources.changes` has no `--limit`,
+      # `--batch`, `--resume`, `--since` or `--workers` (checked against the installed
+      # 1.36.1) — is the durable fix, and it belongs in corpus-toolkit, not a bigger number
+      # here (corpus-toolkit#204).
       - name: Observe what moved upstream
         continue-on-error: true
+        timeout-minutes: 90
         run: >-
           python3 -m corpus_toolkit.sources.changes
           --config _meta/corpus.yml
           --group oar
       # A drift run that produced no observation at all leaves no file, and the reader
-      # reports THAT — as "could not check", never as "nothing moved".
+      # reports THAT — as "could not check", never as "nothing moved". `if: always()`
+      # BECAUSE OF #420: the default condition only runs a step when every earlier one
+      # succeeded, and a job-level timeout cancels the job outright rather than failing a
+      # step `continue-on-error` can catch — so without `always()` here, a drift step that
+      # somehow still outran its own 90-minute cap (or any earlier setup step that failed)
+      # would skip this and the filing step below it, and the run would go silent exactly
+      # as #420 did. This step needs nothing the drift step produced to report "could not
+      # check" — `read_drift()` already treats an absent `changed-sources.tsv` as `None`,
+      # never as "nothing moved".
       - name: What the report would say
+        if: always()
         run: python3 src/bulletin_report.py
       # The outward step. On the schedule it files; on a manual dispatch it files only
-      # when a human ticked the box.
+      # when a human ticked the box — `always()` composed with that same dry-run gate, not
+      # in place of it, so a non-completing MANUAL run still previews rather than files.
       - name: File the one issue this run has to file
-        if: github.event_name == 'schedule' || inputs.file_issue
+        if: always() && (github.event_name == 'schedule' || inputs.file_issue)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 src/bulletin_report.py --file-issue
