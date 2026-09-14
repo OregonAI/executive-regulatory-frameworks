@@ -1,10 +1,10 @@
-note: 'Catalog rebuilt 2026-07-18 from the DAS policies listing of record: 14 category views on the SharePoint
-  library /das/Policies (rendered by das/Pages/policies.aspx and policieshr.aspx), consumed via the anonymous
-  REST API. Normalized row snapshot + endpoint + view GUIDs: _meta/snapshots/department-of-administrative-services-policies-listing.json.
+note: 'Catalog rebuilt 2026-07-18 from the DAS policies listing of record: 14 category views on the SharePoint library
+  /das/Policies (rendered by das/Pages/policies.aspx and policieshr.aspx), consumed via the anonymous REST API.
+  Normalized row snapshot + endpoint + view GUIDs: _meta/snapshots/department-of-administrative-services-policies-listing.json.
   Replaces the earlier best-effort search-engine-derived catalog (which knew ~39 of 143 rows). detect_changes.py
   re-queries all 14 views each run (manifest id department-of-administrative-services-policies-listing).'
 listing_snapshot: _meta/snapshots/department-of-administrative-services-policies-listing.json
-retrieved: '2026-07-18'
+retrieved: '2026-09-14'
 categories:
 - category: Facilities
   documents:
@@ -230,7 +230,7 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-20-005-15.md
   - number: 20-005-20
     title: Fair Labor Standards Act
-    effective_date_listed: 1/1/2024
+    effective_date_listed: 8/21/2026
     file_ref: /das/Policies/20-005-20.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-20-005-20.md
@@ -282,19 +282,19 @@ categories:
     type: attachment-prior-version-or-link
   - number: 60-000-01
     title: Sick Leave With Pay
-    effective_date_listed: 9/3/2023
+    effective_date_listed: 8/1/2026
     file_ref: /das/Policies/60-000-01.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-60-000-01.md
   - number: 60-000-03
     title: Oregon Family Leave Act
-    effective_date_listed: 08/19/2024
+    effective_date_listed: 8/1/2026
     file_ref: /das/Policies/60-000-03.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-60-000-03.md
   - number: 60-000-04
     title: Paid Leave Oregon
-    effective_date_listed: 7/1/2024
+    effective_date_listed: 8/1/2026
     file_ref: /das/Policies/60-000-04.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-60-000-04.md
@@ -312,7 +312,7 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-60-000-10.md
   - number: 60-000-11
     title: Leaves without Pay
-    effective_date_listed: 3/21/2025
+    effective_date_listed: 8/1/2026
     file_ref: /das/Policies/60-000-11.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-60-000-11.md
@@ -324,7 +324,7 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-60-000-12.md
   - number: 60-000-15
     title: Family and Medical Leave
-    effective_date_listed: 7/1/2024
+    effective_date_listed: 8/1/2026
     file_ref: /das/Policies/60-000-15.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-60-000-15.md
@@ -336,7 +336,7 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-60-000-20.md
   - number: 60-000-25
     title: Military Leave
-    effective_date_listed: 1/1/2024
+    effective_date_listed: 8/21/2026
     file_ref: /das/Policies/60-000-25.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-60-000-25.md
@@ -348,7 +348,7 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-60-000-30.md
   - number: 60-010-01
     title: Holiday Leave with Pay
-    effective_date_listed: 01/01/2024
+    effective_date_listed: 8/21/2026
     file_ref: /das/Policies/60-010-01.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-60-010-01.md
@@ -366,7 +366,7 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-60-020-05.md
   - number: 60-025-01
     title: Donated Leave
-    effective_date_listed: 3/21/2025
+    effective_date_listed: 8/21/2026
     file_ref: /das/Policies/60-025-01.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-60-025-01.md
@@ -380,7 +380,7 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-105-040-0001.md
   - number: 40-010-02
     title: Recruitment and Selection
-    effective_date_listed: 3/21/2025
+    effective_date_listed: 8/1/2026
     file_ref: /das/Policies/40-010-02.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-40-010-02.md
@@ -410,7 +410,7 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-40-045-01.md
   - number: 40-055-04
     title: Candidate Preference in Employment
-    effective_date_listed: 3/21/2025
+    effective_date_listed: 8/1/2026
     file_ref: /das/Policies/40-055-04.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-40-055-04.md
@@ -433,8 +433,8 @@ categories:
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-40-065-01.md
   - number: 40-080-01
-    title: Reemployment
-    effective_date_listed: 3/21/2025
+    title: Rehire
+    effective_date_listed: 8/21/2026
     file_ref: /das/Policies/40-080-01.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-40-080-01.md
@@ -454,7 +454,7 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-10-000-01.md
   - number: 10-011-01
     title: Personnel Records
-    effective_date_listed: 2/1/2019
+    effective_date_listed: 8/1/2026
     file_ref: /das/Policies/10-011-01.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-10-011-01.md
@@ -472,7 +472,7 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-10-030-01.md
   - number: 10-040-01
     title: Statewide Workforce Learning and Development
-    effective_date_listed: 11/01/2024
+    effective_date_listed: 8/21/2026
     file_ref: /das/Policies/10-040-01.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-10-040-01.md
@@ -544,13 +544,13 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-105-050-0030.md
   - number: 50-000-01
     title: Drug-Free Workplace
-    effective_date_listed: 11/01/2024
+    effective_date_listed: 8/21/2026
     file_ref: /das/Policies/50-000-01.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-50-000-01.md
   - number: 50-000-02
     title: Drug Testing of Employees in Designated Job Profiles
-    effective_date_listed: 1/1/2025
+    effective_date_listed: 8/21/2026
     file_ref: /das/Policies/50-000-02.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-50-000-02.md
@@ -574,7 +574,7 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-50-010-03.md
   - number: 50-010-04
     title: Workplace Effects of Domestic Violence, Harassment, Sexual Assault, and Stalking
-    effective_date_listed: 3/21/2025
+    effective_date_listed: 8/1/2026
     file_ref: /das/Policies/50-010-04.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-50-010-04.md
@@ -622,19 +622,19 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-50-020-10.md
   - number: 50-025-01
     title: Layoff/Removal
-    effective_date_listed: 3/21/2025
+    effective_date_listed: 8/1/2026
     file_ref: /das/Policies/50-025-01.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-50-025-01.md
   - number: 50-030-01
     title: Restoration of Removed Management Service Employees
-    effective_date_listed: 1/1/2025
+    effective_date_listed: 8/1/2026
     file_ref: /das/Policies/50-030-01.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-50-030-01.md
   - number: 50-035-01
     title: Performance Management Process
-    effective_date_listed: 3/21/2025
+    effective_date_listed: 8/21/2026
     file_ref: /das/Policies/50-035-01.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-50-035-01.md
@@ -658,13 +658,13 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-50-060-01.md
   - number: 50-070-01
     title: Patient Protection and Affordable Care Act
-    effective_date_listed: 3/21/2025
+    effective_date_listed: 8/21/2026
     file_ref: /das/Policies/50-070-01.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-50-070-01.md
   - number: 50-090-01
     title: Managing Improper Governmental Conduct
-    effective_date_listed: 1/1/2025
+    effective_date_listed: 8/1/2026
     file_ref: /das/Policies/50-090-01.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-50-090-01.md
@@ -790,13 +790,13 @@ categories:
     path: agencies/department-of-administrative-services/policies/das-107-004-051.md
   - number: 107-004-052
     title: Cyber and Information Security Policy
-    effective_date_listed: 2/17/2026
+    effective_date_listed: 10/1/2026
     file_ref: /das/Policies/107-004-052.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-107-004-052.md
   - number: 107-004-052_PR
     title: Cyber and Information Security Procedure
-    effective_date_listed: 2/17/2026
+    effective_date_listed: 10/1/2026
     file_ref: /das/Policies/107-004-052_PR.pdf
     status: ingested
     path: agencies/department-of-administrative-services/procedures/das-107-004-052_pr.md
@@ -856,9 +856,9 @@ categories:
     file_ref: /das/Policies/107-009-0020.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-107-009-0020.md
-  - number: 107-009-0030 (under revision)
-    title: Business Equity, Inclusion and Engagement in Public Procurement
-    effective_date_listed: 12/16/2020
+  - number: 107-009-0030
+    title: Fair Access in Public Procurement
+    effective_date_listed: 7/27/2026
     file_ref: /das/Policies/107-009-0030.pdf
     status: ingested
     path: agencies/department-of-administrative-services/policies/das-107-009-0030.md
@@ -868,6 +868,7 @@ categories:
     file_ref: /das/Policies/107-009-0030_PR.pdf
     status: ingested
     path: agencies/department-of-administrative-services/procedures/das-107-009-0030_pr.md
+    note: no longer in any live DAS policies view as of 2026-09-14
   - number: 107-009-0040
     title: Sustainable Procurement
     effective_date_listed: 7/26/2023

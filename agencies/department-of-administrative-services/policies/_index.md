@@ -4,8 +4,8 @@ Statewide policies binding Oregon executive-branch agencies (procedures now live
 sibling [`../procedures/`](../procedures/_index.md) directory).
 **Non-authoritative full-text copies.** Contents mirror the DAS policies **listing of
 record** (14 category views behind das/Pages/policies.aspx and policieshr.aspx; snapshot:
-[`das-policies-listing.json`](../../../_meta/snapshots/das-policies-listing.json),
-retrieved 2026-07-18).
+[`department-of-administrative-services-policies-listing.json`](../../../_meta/snapshots/department-of-administrative-services-policies-listing.json),
+retrieved 2026-09-14).
 
 | Category | Listed | Ingested |
 |---|---|---|

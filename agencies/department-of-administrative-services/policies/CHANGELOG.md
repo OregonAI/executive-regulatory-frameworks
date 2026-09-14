@@ -8,6 +8,48 @@ file's frontmatter).
 
 ## [Unreleased]
 
+### Source-Updated
+
+- **Listing snapshot refreshed** (#387): `_meta/snapshots/department-of-administrative-
+  services-policies-listing.json` was last retrieved 2026-07-18; DAS re-issued its
+  statewide policies in August 2026 and the committed listing had not been re-checked
+  since. Re-queried all 14 live category views via the same anonymous SharePoint REST
+  endpoint (`retrieved` now 2026-09-14) with a new generator, `src/catalog_das_policies.py`
+  (`--refresh`/`--check`/`--selftest`; none existed before — the original catalog was
+  built ad hoc). 142 of 143 rows still live; 25 carry a new `effective_date_listed` from
+  the re-issue; one dropped (see Superseded, below). No ADDED rows — reported and gated
+  either way, never auto-ingested (intake gate #1).
+- `_meta/catalog/department-of-administrative-services-policies.yml` rebuilt from the
+  refreshed snapshot by the same generator. `status`/`path`/`type`/curator `note` fields
+  carried over unchanged for every row it already tracked.
+- `citation` and the `## At a glance` line reconciled against the refreshed listing for
+  the five policies DAS retitled in its August re-issue (frontmatter `title` and the `#`
+  heading were already corrected by the 2026-09-10 re-ingest; the listing-derived prose
+  had been deliberately left stale pending this refresh):
+  - `das-107-009-0030`: "Business Equity, Inclusion and Engagement in Public Procurement"
+    → "Fair Access in Public Procurement"; `(under revision)` annotation removed from
+    `citation` and the heading (upstream dropped it); `effective_date` corrected to
+    2026-07-27 from the document's own masthead header.
+  - `das-40-080-01`: "Reemployment" → "Rehire"
+  - `das-50-030-01`: "Restoration of Removed Management Service Employees" →
+    "Restoration of Management Service Employees"
+  - `das-60-000-03`: "Oregon Family Leave Act" → "Oregon Family Leave Act (OFLA)"
+  - `das-60-000-15`: "Family and Medical Leave" → "Federal Family and Medical Leave Act
+    (FMLA)"
+
+### Superseded
+
+- `das-107-009-0030_pr` (Business Equity, Inclusion and Engagement in Public Procurement
+  Procedure): dropped from every live DAS policies view in the August 2026 re-issue.
+  **Not treated as a 404/absence withdrawal** — the replacing policy `das-107-009-0030`
+  ("Fair Access in Public Procurement") names it by number in its own masthead
+  (`SUPERSEDES: Policy 107-009-0030 and Procedure 107-009-0030_PR`). Marked
+  `status: superseded`; `das-107-009-0030`'s `relationships.supersedes` and
+  `das-107-009-0030_pr`'s `relationships.related` record the edge; a `## Curator notes`
+  section on `das-107-009-0030_pr` quotes the masthead verbatim. The document is kept —
+  not deleted — and its catalog row carries a `note` recording it is no longer in any
+  live view as of 2026-09-14. See #387.
+
 ## [2026-07-18] (3) — procedures split out
 
 ### Removed
