@@ -27,7 +27,7 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Bureau of Labor and Industries | executive branch | unknown | 689 | 689 | 0 | 0 | — |
 | Chief Education Office | executive branch | unknown | 20 | 20 | 0 | 0 | — |
 | Citizens' Initiative Review Commission | semi-independent | unknown | 5 | 5 | 0 | 0 | — |
-| Columbia River Gorge Commission | executive branch | unknown | 331 | 331 | 0 | 0 | — |
+| Columbia River Gorge Commission | executive branch | unknown | 378 | 378 | 0 | 0 | — |
 | Commission for the Blind | executive branch | unknown | 57 | 57 | 0 | 0 | — |
 | Construction Contractors Board | executive branch | unknown | 319 | 319 | 0 | 0 | — |
 | [Department of Administrative Services](department-of-administrative-services/_index.md) | executive branch | web | 764 | 752 | 3 | 12 | 2026-07-18 |
@@ -126,7 +126,7 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Oregon Criminal Justice Commission | executive branch | unknown | 195 | 195 | 0 | 0 | — |
 | Oregon Department of Aviation | executive branch | unknown | 173 | 173 | 0 | 0 | — |
 | Oregon Department of Education | executive branch | unknown | 1018 | 1018 | 0 | 0 | — |
-| Oregon Department of Education, Early Learning Division | executive branch | unknown | 681 | 681 | 0 | 0 | — |
+| Oregon Department of Education, Early Learning Division | executive branch | unknown | 685 | 685 | 0 | 0 | — |
 | Oregon Department of Education, Fair Dismissal Appeals Board | executive branch | unknown | 31 | 31 | 0 | 0 | — |
 | Oregon Department of Education, Youth Development Division | executive branch | unknown | 45 | 45 | 0 | 0 | — |
 | Oregon Facilities Authority | executive branch | unknown | 11 | 11 | 0 | 0 | — |

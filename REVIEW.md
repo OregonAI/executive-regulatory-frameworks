@@ -333,7 +333,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/340/222/oar-340-222-0090.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/345/ (28 rules)` — correct non-links — 28 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/345/020/oar-345-020-0040.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
-- `rules/350/ (144 rules)` — correct non-links — 144 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/350/ (146 rules)` — correct non-links — 146 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/350/011/oar-350-011-0005.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/350/013/oar-350-013-0001.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/407/ (14 rules)` — correct non-links — 14 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
@@ -2781,12 +2781,12 @@ by directory:
 - `rules/345/092/`: 8 documents
 - `rules/345/095/`: 16 documents
 - `rules/350/010/`: 6 documents
-- `rules/350/011/`: 10 documents
-- `rules/350/012/`: 6 documents
+- `rules/350/011/`: 20 documents
+- `rules/350/012/`: 15 documents
 - `rules/350/013/`: 1 documents
-- `rules/350/014/`: 7 documents
+- `rules/350/014/`: 20 documents
 - `rules/350/015/`: 1 documents
-- `rules/350/016/`: 22 documents
+- `rules/350/016/`: 37 documents
 - `rules/350/030/`: 13 documents
 - `rules/350/040/`: 12 documents
 - `rules/350/050/`: 14 documents
@@ -3004,14 +3004,14 @@ by directory:
 - `rules/414/175/`: 41 documents
 - `rules/414/180/`: 12 documents
 - `rules/414/205/`: 19 documents
-- `rules/414/210/`: 57 documents
+- `rules/414/210/`: 58 documents
 - `rules/414/300/`: 47 documents
-- `rules/414/305/`: 72 documents
+- `rules/414/305/`: 73 documents
 - `rules/414/310/`: 63 documents
-- `rules/414/320/`: 72 documents
+- `rules/414/320/`: 73 documents
 - `rules/414/330/`: 6 documents
 - `rules/414/350/`: 33 documents
-- `rules/414/360/`: 60 documents
+- `rules/414/360/`: 61 documents
 - `rules/414/400/`: 11 documents
 - `rules/414/425/`: 6 documents
 - `rules/414/450/`: 6 documents

@@ -233,10 +233,10 @@ chapters:
   sections_with_rules: 33
   sections_screened: 0
   n_agencies: 3
-  n_rules: 470
+  n_rules: 474
   audit_cited: true
   runs: []
-  priority: 130.1
+  priority: 130.6
 - chapter: '468'
   depth: unscreened
   sections_with_rules: 42
@@ -251,10 +251,10 @@ chapters:
   sections_with_rules: 24
   sections_screened: 0
   n_agencies: 5
-  n_rules: 481
+  n_rules: 526
   audit_cited: false
   runs: []
-  priority: 109.7
+  priority: 114.7
 - chapter: '441'
   depth: sections-partial
   sections_with_rules: 81

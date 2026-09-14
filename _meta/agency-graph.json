@@ -798,7 +798,7 @@
   {
    "slug": "columbia-river-gorge-commission",
    "name": "Columbia River Gorge Commission",
-   "rules": 185,
+   "rules": 230,
    "parent": null,
    "group": "columbia-river-gorge-commission",
    "group_name": "Columbia River Gorge Commission",
@@ -2862,7 +2862,7 @@
   {
    "slug": "oregon-department-of-education-early-learning-division",
    "name": "Oregon Department of Education, Early Learning Division",
-   "rules": 532,
+   "rules": 536,
    "parent": "oregon-department-of-education",
    "group": "oregon-department-of-education",
    "group_name": "Oregon Department of Education",

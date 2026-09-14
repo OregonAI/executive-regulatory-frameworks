@@ -1,32 +1,32 @@
 note: 'Conflict candidates decidable BY CODE — no model involved. A hand-labelled taxonomy of the 137
   frontier-pilot candidates found 29% of them were of these four deterministic types, and a regex finds
   far more of them than the models did: the pilot reported 21 dead citations in total, this scan finds
-  1,971 DISTINCT dead targets, cited 5,519 times across 4,531 documents. READ THE DISTINCT COUNT, NOT
+  1,967 DISTINCT dead targets, cited 5,516 times across 4,529 documents. READ THE DISTINCT COUNT, NOT
   THE OCCURRENCES: they differ by ~2.7x because a single repealed section is cited by many rules — ORS
   184.616 alone is cited by 727 of them. Occurrences are the blast radius; distinct targets are the number
   of things to actually resolve, and they are heavily concentrated, so the top handful clear thousands
   of documents. The magnitude is expected: Oregon has renumbered wholesale (ORS 181 to 181A in 2015, ORS
   279 split into 279A/B/C in 2003, the 2015 higher-education restructuring), and every rule written before
-  those still cites the old numbers. A decades-spanning corpus of 42,561 rules showing NO stale citations
+  those still cites the old numbers. A decades-spanning corpus of 42,612 rules showing NO stale citations
   would be the surprising result. Verified against the live source: six sampled flagged sections were
   all genuinely absent, and a live control section was correctly not flagged. Everything here is a CANDIDATE,
   not a finding, and not legally reviewed. The model''s budget belongs on the other 71% — what a rule
   omits, adds without authority, or redefines — which SYSTEM_V3 enumerates and which explicitly disqualifies
   these four types so the two passes do not overlap.'
-scanned_rules: 42561
+scanned_rules: 42612
 counts:
-  distinct_dead_targets: 1971
-  dead_citation_occurrences: 5519
-  documents_affected: 4531
-  dead_citations: 5519
+  distinct_dead_targets: 1967
+  dead_citation_occurrences: 5516
+  documents_affected: 4529
+  dead_citations: 5516
   corpus_gap_not_ingested: 575
   lapsed_but_current: 78
   rule_predates_statute_amendment: 4452
   malformed_citations: 65
 dead_citations_by_cause:
   chapter_absent: 146
-  oar_unclassified: 1027
-  renumbered_or_repealed: 4346
+  oar_unclassified: 1022
+  renumbered_or_repealed: 4348
 cause_meanings:
   renumbered_or_repealed: the chapter is current, but this section has left its table of contents
   chapter_absent: no such ORS chapter page exists upstream
@@ -65,11 +65,11 @@ most_cited_dead_targets:
   cited_by_rules: 31
 - cites: ORS 701.350
   cited_by_rules: 25
+- cites: ORS 197.150
+  cited_by_rules: 24
 - cites: ORS 348.853
   cited_by_rules: 23
 - cites: ORS 407.115
-  cited_by_rules: 22
-- cites: ORS 197.150
   cited_by_rules: 22
 - cites: ORS 657A.260
   cited_by_rules: 22
@@ -4952,6 +4952,12 @@ dead_citations:
 - rule: oar-350-011-0008
   cites: ORS 197.150
   cause: renumbered_or_repealed
+- rule: oar-350-011-0020
+  cites: ORS 197.150
+  cause: renumbered_or_repealed
+- rule: oar-350-011-0030
+  cites: ORS 197.150
+  cause: renumbered_or_repealed
 - rule: oar-350-012-0002
   cites: ORS 197.150
   cause: renumbered_or_repealed
@@ -6290,9 +6296,6 @@ dead_citations:
 - rule: oar-414-210-0100
   cites: ORS 189.020
   cause: renumbered_or_repealed
-- rule: oar-414-210-0200
-  cites: OAR 414-210-0750
-  cause: oar_unclassified
 - rule: oar-414-300-0040
   cites: ORS 657A.260
   cause: renumbered_or_repealed
@@ -6368,9 +6371,6 @@ dead_citations:
 - rule: oar-414-305-0120
   cites: ORS 329.250
   cause: renumbered_or_repealed
-- rule: oar-414-305-0200
-  cites: OAR 414-305-0750
-  cause: oar_unclassified
 - rule: oar-414-305-0350
   cites: OAR 414-305-0000
   cause: oar_unclassified
@@ -6386,18 +6386,9 @@ dead_citations:
 - rule: oar-414-320-0100
   cites: ORS 189.020
   cause: renumbered_or_repealed
-- rule: oar-414-320-0200
-  cites: OAR 414-305-0750
-  cause: oar_unclassified
-- rule: oar-414-320-0200
-  cites: OAR 414-320-0750
-  cause: oar_unclassified
 - rule: oar-414-360-0100
   cites: ORS 189.020
   cause: renumbered_or_repealed
-- rule: oar-414-360-0200
-  cites: OAR 414-360-0750
-  cause: oar_unclassified
 - rule: oar-414-400-0000
   cites: ORS 657A.010
   cause: renumbered_or_repealed
