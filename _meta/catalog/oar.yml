@@ -50167,18 +50167,21 @@ chapters:
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-011-0003
       status: ingested
       path: rules/350/011/oar-350-011-0003.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-011-0004
       status: ingested
       path: rules/350/011/oar-350-011-0004.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-011-0005
       status: ingested
       path: rules/350/011/oar-350-011-0005.md
@@ -50188,24 +50191,28 @@ chapters:
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-011-0007
       status: ingested
       path: rules/350/011/oar-350-011-0007.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-011-0008
       status: ingested
       path: rules/350/011/oar-350-011-0008.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-011-0009
       status: ingested
       path: rules/350/011/oar-350-011-0009.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-011-0010
       status: ingested
       path: rules/350/011/oar-350-011-0010.md
@@ -50217,6 +50224,57 @@ chapters:
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
+    - number: 350-011-0020
+      status: ingested
+      path: rules/350/011/oar-350-011-0020.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-011-0030
+      status: ingested
+      path: rules/350/011/oar-350-011-0030.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-011-0040
+      status: ingested
+      path: rules/350/011/oar-350-011-0040.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-011-0050
+      status: ingested
+      path: rules/350/011/oar-350-011-0050.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-011-0060
+      status: ingested
+      path: rules/350/011/oar-350-011-0060.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-011-0070
+      status: ingested
+      path: rules/350/011/oar-350-011-0070.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-011-0080
+      status: ingested
+      path: rules/350/011/oar-350-011-0080.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-011-0090
+      status: ingested
+      path: rules/350/011/oar-350-011-0090.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-011-0100
+      status: ingested
+      path: rules/350/011/oar-350-011-0100.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-011-0110
+      status: ingested
+      path: rules/350/011/oar-350-011-0110.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '12'
     title: PUBLIC RECORDS
     status: ingested
@@ -50227,36 +50285,87 @@ chapters:
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-012-0005
       status: ingested
       path: rules/350/012/oar-350-012-0005.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-012-0006
       status: ingested
       path: rules/350/012/oar-350-012-0006.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-012-0007
       status: ingested
       path: rules/350/012/oar-350-012-0007.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-012-0008
       status: ingested
       path: rules/350/012/oar-350-012-0008.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-012-0009
       status: ingested
       path: rules/350/012/oar-350-012-0009.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
+    - number: 350-012-0010
+      status: ingested
+      path: rules/350/012/oar-350-012-0010.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-012-0020
+      status: ingested
+      path: rules/350/012/oar-350-012-0020.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-012-0030
+      status: ingested
+      path: rules/350/012/oar-350-012-0030.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-012-0040
+      status: ingested
+      path: rules/350/012/oar-350-012-0040.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-012-0050
+      status: ingested
+      path: rules/350/012/oar-350-012-0050.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-012-0060
+      status: ingested
+      path: rules/350/012/oar-350-012-0060.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-012-0070
+      status: ingested
+      path: rules/350/012/oar-350-012-0070.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-012-0080
+      status: ingested
+      path: rules/350/012/oar-350-012-0080.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-012-0090
+      status: ingested
+      path: rules/350/012/oar-350-012-0090.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '13'
     title: ''
     status: ingested
@@ -50274,42 +50383,114 @@ chapters:
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-014-0002
       status: ingested
       path: rules/350/014/oar-350-014-0002.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-014-0003
       status: ingested
       path: rules/350/014/oar-350-014-0003.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-014-0004
       status: ingested
       path: rules/350/014/oar-350-014-0004.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-014-0005
       status: ingested
       path: rules/350/014/oar-350-014-0005.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-014-0006
       status: ingested
       path: rules/350/014/oar-350-014-0006.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-014-0007
       status: ingested
       path: rules/350/014/oar-350-014-0007.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
+    - number: 350-014-0010
+      status: ingested
+      path: rules/350/014/oar-350-014-0010.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-014-0020
+      status: ingested
+      path: rules/350/014/oar-350-014-0020.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-014-0030
+      status: ingested
+      path: rules/350/014/oar-350-014-0030.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-014-0040
+      status: ingested
+      path: rules/350/014/oar-350-014-0040.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-014-0050
+      status: ingested
+      path: rules/350/014/oar-350-014-0050.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-014-0060
+      status: ingested
+      path: rules/350/014/oar-350-014-0060.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-014-0070
+      status: ingested
+      path: rules/350/014/oar-350-014-0070.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-014-0080
+      status: ingested
+      path: rules/350/014/oar-350-014-0080.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-014-0090
+      status: ingested
+      path: rules/350/014/oar-350-014-0090.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-014-0100
+      status: ingested
+      path: rules/350/014/oar-350-014-0100.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-014-0110
+      status: ingested
+      path: rules/350/014/oar-350-014-0110.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-014-0120
+      status: ingested
+      path: rules/350/014/oar-350-014-0120.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-014-0130
+      status: ingested
+      path: rules/350/014/oar-350-014-0130.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '15'
     title: PUBLIC CONTRACTING
     status: ingested
@@ -50327,54 +50508,63 @@ chapters:
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0002
       status: ingested
       path: rules/350/016/oar-350-016-0002.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0003
       status: ingested
       path: rules/350/016/oar-350-016-0003.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0004
       status: ingested
       path: rules/350/016/oar-350-016-0004.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0005
       status: ingested
       path: rules/350/016/oar-350-016-0005.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0006
       status: ingested
       path: rules/350/016/oar-350-016-0006.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0007
       status: ingested
       path: rules/350/016/oar-350-016-0007.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0008
       status: ingested
       path: rules/350/016/oar-350-016-0008.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0009
       status: ingested
       path: rules/350/016/oar-350-016-0009.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0010
       status: ingested
       path: rules/350/016/oar-350-016-0010.md
@@ -50386,48 +50576,56 @@ chapters:
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0012
       status: ingested
       path: rules/350/016/oar-350-016-0012.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0013
       status: ingested
       path: rules/350/016/oar-350-016-0013.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0014
       status: ingested
       path: rules/350/016/oar-350-016-0014.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0015
       status: ingested
       path: rules/350/016/oar-350-016-0015.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0016
       status: ingested
       path: rules/350/016/oar-350-016-0016.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0017
       status: ingested
       path: rules/350/016/oar-350-016-0017.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0018
       status: ingested
       path: rules/350/016/oar-350-016-0018.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0020
       status: ingested
       path: rules/350/016/oar-350-016-0020.md
@@ -50439,18 +50637,96 @@ chapters:
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0024
       status: ingested
       path: rules/350/016/oar-350-016-0024.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
     - number: 350-016-0025
       status: ingested
       path: rules/350/016/oar-350-016-0025.md
       legal_status: repealed
       legal_status_action: repeal
       legal_status_notice: August 2026 (bulltnRsn=1761)
+      note: 'not on OARD''s current chapter listing — history, kept (ADR 0006, #270)'
+    - number: 350-016-0030
+      status: ingested
+      path: rules/350/016/oar-350-016-0030.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0040
+      status: ingested
+      path: rules/350/016/oar-350-016-0040.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0050
+      status: ingested
+      path: rules/350/016/oar-350-016-0050.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0060
+      status: ingested
+      path: rules/350/016/oar-350-016-0060.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0070
+      status: ingested
+      path: rules/350/016/oar-350-016-0070.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0080
+      status: ingested
+      path: rules/350/016/oar-350-016-0080.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0090
+      status: ingested
+      path: rules/350/016/oar-350-016-0090.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0100
+      status: ingested
+      path: rules/350/016/oar-350-016-0100.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0110
+      status: ingested
+      path: rules/350/016/oar-350-016-0110.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0120
+      status: ingested
+      path: rules/350/016/oar-350-016-0120.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0130
+      status: ingested
+      path: rules/350/016/oar-350-016-0130.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0140
+      status: ingested
+      path: rules/350/016/oar-350-016-0140.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0150
+      status: ingested
+      path: rules/350/016/oar-350-016-0150.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0160
+      status: ingested
+      path: rules/350/016/oar-350-016-0160.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
+    - number: 350-016-0170
+      status: ingested
+      path: rules/350/016/oar-350-016-0170.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '30'
     title: ENFORCEMENT
     status: ingested
@@ -51420,7 +51696,7 @@ chapters:
     - number: 350-120-0050
       status: ingested
       path: rules/350/120/oar-350-120-0050.md
-  discovered: '2026-08-27'
+  discovered: '2026-09-13'
 - chapter: '407'
   title: Department of Human Services
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=185
@@ -63625,6 +63901,9 @@ chapters:
     - number: 414-210-0720
       status: ingested
       path: rules/414/210/oar-414-210-0720.md
+    - number: 414-210-0750
+      status: ingested
+      path: rules/414/210/oar-414-210-0750.md
     - number: 414-210-0810
       status: ingested
       path: rules/414/210/oar-414-210-0810.md
@@ -63818,6 +64097,9 @@ chapters:
     - number: 414-305-0720
       status: ingested
       path: rules/414/305/oar-414-305-0720.md
+    - number: 414-305-0750
+      status: ingested
+      path: rules/414/305/oar-414-305-0750.md
     - number: 414-305-0800
       status: ingested
       path: rules/414/305/oar-414-305-0800.md
@@ -64216,6 +64498,9 @@ chapters:
     - number: 414-320-0720
       status: ingested
       path: rules/414/320/oar-414-320-0720.md
+    - number: 414-320-0750
+      status: ingested
+      path: rules/414/320/oar-414-320-0750.md
     - number: 414-320-0800
       status: ingested
       path: rules/414/320/oar-414-320-0800.md
@@ -64597,6 +64882,9 @@ chapters:
     - number: 414-360-0720
       status: ingested
       path: rules/414/360/oar-414-360-0720.md
+    - number: 414-360-0750
+      status: ingested
+      path: rules/414/360/oar-414-360-0750.md
     - number: 414-360-0800
       status: ingested
       path: rules/414/360/oar-414-360-0800.md
@@ -65302,7 +65590,7 @@ chapters:
       status: ingested
       path: rules/414/700/oar-414-700-0060.md
     note: division no longer listed on OARD — verify upstream
-  discovered: '2026-08-27'
+  discovered: '2026-09-13'
 - chapter: '415'
   title: 'Oregon Health Authority, Health Systems Division: Addiction Services'
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=84
@@ -145809,4 +146097,4 @@ chapters:
       status: ingested
       path: rules/976/002/oar-976-002-0040.md
   discovered: '2026-08-27'
-retrieved: '2026-08-27'
+retrieved: '2026-09-13'
