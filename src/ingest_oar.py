@@ -27,6 +27,7 @@ import fcntl
 import os
 import re
 import sys
+import tempfile
 import time
 from datetime import date
 from pathlib import Path
@@ -167,7 +168,8 @@ _CHECKPOINT_FIELDS = ("status", "note", "served_as", "path")
 def _write_catalog_merged(cat, my_chapters):
     """Concurrent-safe catalog save for parallel --ingest workers: under an exclusive
     lock, re-read the catalog from disk and write this worker's OWN field updates
-    (`_CHECKPOINT_FIELDS`) onto the matching rule rows, by number, then write atomically.
+    (`_CHECKPOINT_FIELDS`) onto the matching rule rows, by number, plus each touched
+    division's own recomputed `status` (#422), then write atomically.
 
     NEVER reassigns a chapter's `divisions` or a division's `rules` -- #276 measured that
     the retired shape one level up (`disk["chapters"] = [mine.get(c["chapter"], c) for c
@@ -190,6 +192,16 @@ def _write_catalog_merged(cat, my_chapters):
                   for c in cat["chapters"] if c["chapter"] in my_chapters
                   for d in (c.get("divisions") or [])
                   for r in (d.get("rules") or [])}
+    # #422: a division's OWN status has to cross too. `cmd_ingest` recomputes it
+    # (`d["status"] = division_status(d["rules"])`) on the in-memory catalog because "a
+    # command that writes a rule's status owns the aggregate that reads it" -- but this
+    # function merged by RULE row only, so that recompute was computed and then dropped
+    # before it reached disk, and `catalog_agreement.py --check` kept reporting the very
+    # disagreement `cmd_ingest` had just fixed. Keyed by (chapter, division) because a
+    # division number is only unique within its chapter.
+    mine_divs = {(c["chapter"], d.get("division")): d
+                 for c in cat["chapters"] if c["chapter"] in my_chapters
+                 for d in (c.get("divisions") or [])}
     with open(lock_path, "w") as lk:
         fcntl.flock(lk, fcntl.LOCK_EX)
         disk = yaml.safe_load(CATALOG.read_text())
@@ -197,6 +209,14 @@ def _write_catalog_merged(cat, my_chapters):
             if c["chapter"] not in my_chapters:
                 continue
             for d in (c.get("divisions") or []):
+                # Sets ONE named key on a division dict already on disk -- the same
+                # idiom as the rule loop below, and for the same reason: it cannot
+                # reassign `divisions` or `rules`, so #276's membership guarantee is
+                # untouched. Disk keeps every division and rule it gained since this
+                # worker loaded; only this division's own `status` is updated.
+                src_div = mine_divs.get((c["chapter"], d.get("division")))
+                if src_div is not None and "status" in src_div:
+                    d["status"] = src_div["status"]
                 for r in (d.get("rules") or []):
                     src = mine_rules.get(r["number"])
                     if src is None:
@@ -594,9 +614,55 @@ def _renumbered_out_exists_stamps_path() -> bool:
                 row.get("path") == str(served_path.relative_to(tmp_root)))
 
 
+def _division_status_round_trips_to_disk() -> bool:
+    """#422. `cmd_ingest` recomputes `d["status"] = division_status(d["rules"])` on the
+    IN-MEMORY catalog, then hands that object to `_write_catalog_merged`, which merges
+    by RULE row only -- it builds `mine_rules` keyed by rule number and copies
+    `_CHECKPOINT_FIELDS` onto each matching disk row, and never reads a division's own
+    fields. So the recompute the comment above it calls load-bearing ("a command that
+    writes a rule's status owns the aggregate that reads it") was computed, then dropped
+    before it reached disk, and `catalog_agreement.py --check` kept reporting the
+    disagreement `cmd_ingest` had just tried to fix.
+
+    Proves the round trip end to end rather than reading the merge loop: put a catalog on
+    disk whose division says `not_ingested`, recompute that division in memory the way
+    `cmd_ingest` does, call the writer, and re-read from DISK. RED before #422's fix."""
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp_root = Path(tmp)
+        catalog_path = tmp_root / "oar.yml"
+        on_disk = {"chapters": [{"chapter": "125", "divisions": [
+            {"division": "1", "title": "D", "status": "not_ingested",
+             "rules": [{"number": "125-1-0010", "status": "ingested"}]}]}]}
+        catalog_path.write_text(yaml.safe_dump(on_disk, sort_keys=False))
+
+        cat = yaml.safe_load(catalog_path.read_text())
+        div = cat["chapters"][0]["divisions"][0]
+        div["status"] = division_status(div["rules"])          # what cmd_ingest does
+        recomputed = div["status"]
+
+        g, _unset = globals(), object()
+        saved = g.get("CATALOG", _unset)
+        try:
+            g["CATALOG"] = catalog_path
+            _write_catalog_merged(cat, {"125"})
+        finally:
+            if saved is _unset:
+                g.pop("CATALOG", None)
+            else:
+                g["CATALOG"] = saved
+
+        back = yaml.safe_load(catalog_path.read_text())
+        return back["chapters"][0]["divisions"][0]["status"] == recomputed
+
+
 def selftest() -> int:
     check = Checks()
     tree = ast.parse(Path(__file__).read_text())
+
+    # #422: the division-status recompute must survive the write, not just happen.
+    check("a division status recomputed by cmd_ingest reaches DISK through "
+          "_write_catalog_merged, not just the in-memory catalog (#422)",
+          _division_status_round_trips_to_disk())
 
     # THE NEGATIVE, for the file as it stands: no remaining path can drop a row.
     live_hits = membership_dropping_sites(tree)
