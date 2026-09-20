@@ -744,7 +744,8 @@ intervention (unverifiable scans, TODO markers, pending drafts, catalog anomalie
 enumeration gaps, unlinked documents). It is **generated** by `python3
 src/review_queue.py` from ground truth in the repo — never edit it by hand; resolve
 items at their source and regenerate. Regenerate it after any batch that adds/changes
-content; CI fails when it is stale.
+content. Its gate is in the **nightly** tier, so a PR's CI stays green while it is stale and
+the failure arrives the next morning on `main` — regenerate before opening the PR.
 
 Every `rule`, `policy`, `procedure`, or `standard` is expected to come out of
 `link_graph.py` with at least one relationship edge (an authority citation, or —
@@ -802,11 +803,16 @@ that file, plus pyyaml/jsonschema for the local scripts under `src/`).
 pip install pytest pytest-xdist pytest-timeout       # once
 python3 -m pytest -n auto -m "check and not nightly"      # phase 1: every parallel-safe gate
 python3 -m pytest -p no:xdist -m "selftest and not nightly"   # phase 2: tree-mutating gates, serial
+python3 -m pytest -n auto -m check                    # content PRs: both tiers, nightly included (~15 min)
 python3 -m pytest -k "STATUS.md"                      # one gate, by (part of) its name
 python3 -m pytest --collect-only -q                   # what would run
 ```
 
 Run both phases **before pushing, by default** — not only when you suspect something broke.
+**A PR that adds or changes corpus content also runs the nightly `check` gates** (the
+third line above): PR CI does not, so a stale `REVIEW.md` or `_meta/policy_age.json` merges
+green and fails the next scheduled run (#426 → #428). Each stale gate prints the command
+that regenerates its file; run it, rerun the gates until green, commit the output.
 This is the same list CI runs. CI spreads it over runners (`GATE_SLICE=n/k`, one gate at a
 time per runner, because every gate's budget assumes a runner to itself); a developer
 machine can run it all at once with `-n auto`.
