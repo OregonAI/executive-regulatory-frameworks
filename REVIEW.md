@@ -22,7 +22,7 @@ These carry `content_exception`: their sources are image-only scans or binary fo
 - `agencies/department-of-administrative-services/policies/das-105-050-0030.md` — Upstream serves a placeholder, not the policy: the source PDF is a 7,319-byte file (shared byte-for-byte by all nine DAS 105-* policies) whose entire text content is the single line 'BLANK DOCUMENT TO BE USED FOR STATEWIDE POLICY PAGE'. It is NOT an image-only scan and OCR cannot recover anything. DAS publishes this policy as an administrative rule instead - the operative text is oar-105-050-0030, held verbatim in this corpus and linked under relationships.related.
 - `executive-orders/ (2 documents)` — image-only scans or unusable OCR layers — metadata stubs only; resolvable only by an OCR + human-verification pass; per-order detail in `_meta/catalog/eo.yml` (`text_layer` field)
 
-## Explicit TODO markers (58)
+## Explicit TODO markers (57)
 
 Files containing `TODO: human verification required` — usually inserted by a source refresh: effective/version dates must be re-transcribed by a human from the changed source (HC-1 forbids assuming them). Resolve by editing the file and removing the marker.
 
@@ -44,7 +44,6 @@ Files containing `TODO: human verification required` — usually inserted by a s
 - `agencies/department-of-administrative-services/policies/das-10-011-01.md` — effective_date: "2019-02-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
 - `agencies/department-of-administrative-services/policies/das-10-040-01.md` — effective_date: "2024-11-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
 - `agencies/department-of-administrative-services/policies/das-107-004-052.md` — effective_date: 2026-02-17  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from th
-- `agencies/department-of-administrative-services/policies/das-107-009-0030.md` — effective_date: "2020-12-16"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
 - `agencies/department-of-administrative-services/policies/das-20-005-20.md` — effective_date: "2024-01-01"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
 - `agencies/department-of-administrative-services/policies/das-40-010-02.md` — effective_date: "2025-03-21"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
 - `agencies/department-of-administrative-services/policies/das-40-055-04.md` — effective_date: "2025-03-21"  # <!-- TODO: human verification required: source changed; re-transcribe effective/reviewed/version dates from 
