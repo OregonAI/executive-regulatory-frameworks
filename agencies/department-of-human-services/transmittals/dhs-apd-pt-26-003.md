@@ -16,7 +16,7 @@ retrieved: "2026-10-01"
 source_sha256: "f55fe27f7726bbcbcb79d7e6c00dcb1db3d8983b0514e9fa72472cef2d7aa4b5"
 effective_date: null
 last_reviewed: null
-source_version: ""
+source_version: "Effective: Upon release"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -41,7 +41,7 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-26-003 — Staff Response to Immigration and Customs Enforcement (ICE) Activities. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-26-003 — Staff Response to Immigration and Customs Enforcement (ICE) Activities. Oregon Department of Human Services, Aging and People with Disabilities. Effective Upon release.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: dhs-apd-pt-25-014
-title: "Changes to Extended Waiver Eligibility process"
+title: "Changes to Extended Waiver Eligibility (EWE) process"
 doc_type: transmittal
 citation: "ODHS Policy Transmittal APD-PT-25-014"
 authority_level: agency_guidance
@@ -37,11 +37,11 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
 > official text. Verify against the official source: <https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25014.pdf> (retrieved 2026-10-01).
 
-# Changes to Extended Waiver Eligibility process (APD-PT-25-014)
+# Changes to Extended Waiver Eligibility (EWE) process (APD-PT-25-014)
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-25-014 — Changes to Extended Waiver Eligibility process. Oregon Department of Human Services, Aging and People with Disabilities. Effective Immediately.
+ODHS Policy Transmittal APD-PT-25-014 — Changes to Extended Waiver Eligibility (EWE) process. Oregon Department of Human Services, Aging and People with Disabilities. Effective Immediately.
 
 ## Full text
 

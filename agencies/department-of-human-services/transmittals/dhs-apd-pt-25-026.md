@@ -14,9 +14,9 @@ source_url: "https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25026.pd
 source_format: pdf
 retrieved: "2026-10-01"
 source_sha256: "00c93feaef56e7ffeb1bfa2530d5d8385176f26a507344b3d4445f194c82de5d"
-effective_date: null
+effective_date: "2026-01-01"
 last_reviewed: null
-source_version: ""
+source_version: "Effective: January 1, 2026"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -41,7 +41,7 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-25-026 — Community Based, PACE & Nursing Facility Rates. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-25-026 — Community Based, PACE & Nursing Facility Rates. Oregon Department of Human Services, Aging and People with Disabilities. Effective January 1, 2026.
 
 ## Full text
 

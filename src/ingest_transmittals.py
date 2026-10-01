@@ -33,8 +33,10 @@ AGENTS.md's anti-fabrication rule forbids). Measured against the 25-document pil
 zero cite a dhs-0XX-0XX number (see CHANGELOG and .out-of-scope/ for the pilot's full
 accounting against the issue's bar).
 
-  python3 src/ingest_transmittals.py --discover --program apd --policy-only --limit 25
-        # query the live SharePoint list, write the pilot's source manifest row count
+  python3 src/ingest_transmittals.py --discover --program apd --limit 25
+        # query the live SharePoint list, print the Policy-type selection (does not write
+        # anything -- the pilot's source manifest, _meta/sources/
+        # department-of-human-services-transmittals.yml, was hand-assembled from this output)
   python3 src/ingest_transmittals.py --ingest --program apd --limit 25
         # fetch + ingest the 25 most recent APD Policy transmittals
   python3 src/ingest_transmittals.py --selftest
@@ -80,9 +82,22 @@ POLICY_NUMBERS_RE = re.compile(
     r"Policy/rule\s+numbers?(?:\(s\))?:\s*(.*?)(?:Release\s+number|Effective\s+date|References:|$)",
     re.IGNORECASE | re.DOTALL,
 )
-EFFECTIVE_DATE_RE = re.compile(r"Effective\s+date:\s*(.*?)(?:Expiration\s+date|$)", re.IGNORECASE)
+EFFECTIVE_DATE_RE = re.compile(
+    r"Effective\s+date:[ \t]*(.*?)[ \t]*(?:Expiration\s+date|$)",
+    re.IGNORECASE | re.MULTILINE,
+)
 ISSUE_DATE_RE = re.compile(r"Issue\s+date:\s*([0-9/]+)", re.IGNORECASE)
-SUBJECT_RE = re.compile(r"Subject:\s*(.+)")
+# Subject often wraps onto a second line (e.g. APD-PT-26-005): keep taking lines until a
+# blank line or the next form field ("Transmitting (check the box...)").
+SUBJECT_RE = re.compile(r"Subject:\s*(.+(?:\n(?!\s*\n|Transmitting).+)*)")
+# Some older APD transmittals (e.g. APD-PT-24-028, 25-014, 25-015) use a "Policy/rule
+# title:" field in place of "Subject:" -- same meaning, different label. It also wraps
+# onto a second line (24-028); keep taking lines until a blank line or the next form
+# field ("Policy/rule number(s):").
+POLICY_RULE_TITLE_RE = re.compile(
+    r"Policy/rule\s+title:\s*(.+(?:\n(?!\s*\n|\s*Policy/rule\s+number).+)*)",
+    re.IGNORECASE,
+)
 NUMBER_RE = re.compile(r"Number:\s*(\S+)")
 AUTHORIZED_BY_RE = re.compile(r"Authorized by:\s*(.+)")
 
@@ -135,7 +150,7 @@ def parse_apd_transmittal(raw_text: str, known_ids: set[str] | None = None) -> d
         return normalize_ws(m.group(1)) if m else ""
 
     number = _one(NUMBER_RE)
-    subject = _one(SUBJECT_RE)
+    subject = _one(SUBJECT_RE) or _one(POLICY_RULE_TITLE_RE)
     issue_date_raw = _one(ISSUE_DATE_RE)
     effective_date_raw = _one(EFFECTIVE_DATE_RE)
     authorized_by = _one(AUTHORIZED_BY_RE)
@@ -152,15 +167,19 @@ def parse_apd_transmittal(raw_text: str, known_ids: set[str] | None = None) -> d
 
 
 def _iso_mdy(s: str) -> str | None:
-    """'2/19/2026' -> '2026-02-19'. None for anything not a literal M/D/YYYY date (e.g.
-    'Upon release', 'Immediately') -- never guessed (HC-1)."""
+    """'2/19/2026' -> '2026-02-19', or 'January 1, 2026' / 'May 01, 2026' -> the same, via
+    the two literal-date shapes real APD transmittals use. None for anything else (e.g.
+    'Upon release', 'Immediately', 'Upon Receipt') -- never guessed (HC-1)."""
     s = (s or "").strip()
     m = re.match(r"^(\d{1,2})/(\d{1,2})/(\d{4})$", s)
-    if not m:
-        return None
-    mo, d, y = (int(x) for x in m.groups())
+    if m:
+        mo, d, y = (int(x) for x in m.groups())
+        try:
+            return date(y, mo, d).isoformat()
+        except ValueError:
+            return None
     try:
-        return date(y, mo, d).isoformat()
+        return datetime.strptime(s, "%B %d, %Y").date().isoformat()
     except ValueError:
         return None
 
@@ -358,6 +377,10 @@ def _selftest() -> int:
     # must come back None, never guessed.
     check("'2/19/2026' -> ISO", _iso_mdy("2/19/2026") == "2026-02-19")
     check("'Upon release' -> None (never guessed)", _iso_mdy("Upon release") is None)
+    check("'Immediately' -> None (never guessed)", _iso_mdy("Immediately") is None)
+    check("'Upon Receipt' -> None (never guessed)", _iso_mdy("Upon Receipt") is None)
+    check("'January 1, 2026' -> ISO", _iso_mdy("January 1, 2026") == "2026-01-01")
+    check("'May 01, 2026' -> ISO", _iso_mdy("May 01, 2026") == "2026-05-01")
 
     # 5. Full-template parse end to end.
     parsed = parse_apd_transmittal(text_match, known)
@@ -365,6 +388,62 @@ def _selftest() -> int:
          parsed["number"] == "APD-PT-26-900"
          and parsed["subject"] == "Records requests from federal agencies"
          and parsed["announces"] == ["dhs-010-031-01"])
+
+    # 6. The real, measured shape: "Effective date:" and "Expiration date:" on SEPARATE
+    # lines (most committed snapshots, e.g. 25-016 through 26-009) -- EFFECTIVE_DATE_RE
+    # must still capture the value without crossing into other fields, and a literal
+    # 'Month D, YYYY' value on its own line must come back ISO via _iso_mdy.
+    text_separate_lines = (
+        "Policy Transmittal\n\nNumber: APD-PT-26-006\nIssue date: 4/01/2026\n"
+        "Subject: Something\n\n"
+        "Policy/rule numbers:\nRelease number:\n"
+        "Effective date: May 01, 2026\n"
+        "Expiration date:\n"
+        "References:\n"
+    )
+    parsed_sep = parse_apd_transmittal(text_separate_lines, known)
+    check("'Effective date' / 'Expiration date' on separate lines -> captured, not empty",
+         parsed_sep["effective_date_raw"] == "May 01, 2026"
+         and parsed_sep["effective_date_iso"] == "2026-05-01")
+
+    # 7. An M/D/YYYY effective date on its own line (e.g. 25-024's '10/01/2025') must also
+    # resolve, not just the same-line case.
+    text_mdy_own_line = (
+        "Policy Transmittal\n\nNumber: APD-PT-25-024\n"
+        "Effective date: 10/01/2025\n"
+        "Expiration date: N/A\n"
+    )
+    parsed_mdy = parse_apd_transmittal(text_mdy_own_line, known)
+    check("M/D/YYYY effective date on its own line -> ISO",
+         parsed_mdy["effective_date_iso"] == "2025-10-01")
+
+    # 8. A subject that wraps onto a second line (e.g. APD-PT-26-005's real subject) must
+    # be captured in full, not truncated at the line break.
+    text_wrapped_subject = (
+        "Policy Transmittal\n\n"
+        "Subject: Homecare Worker, Personal Support Worker and Personal Care Attendant Rural\n"
+        "Mileage\n\n"
+        "Transmitting (check the box that best applies)\n"
+    )
+    parsed_wrap = parse_apd_transmittal(text_wrapped_subject, known)
+    check("a subject wrapped onto a second line is captured in full, not truncated",
+         parsed_wrap["subject"] == "Homecare Worker, Personal Support Worker and "
+         "Personal Care Attendant Rural Mileage")
+
+    # 9. Older APD transmittals (e.g. APD-PT-24-028) use "Policy/rule title:" in place of
+    # "Subject:" -- must still resolve a real subject, not fall through to the bare
+    # transmittal number. The real 24-028 case also wraps onto a second line.
+    text_policy_rule_title = (
+        "Policy Transmittal\n\n Number: APD-PT-24-028\n\n"
+        " Policy/rule title:       APS Screening Decisions: Documentation and Notification to\n"
+        "                          Reporters\n"
+        " Policy/rule number(s):   OAR Chapter 411, Division 020,     Release number:\n"
+        "                          Adult Protective Services\n"
+    )
+    parsed_prt = parse_apd_transmittal(text_policy_rule_title, known)
+    check("'Policy/rule title:' (no 'Subject:' field) resolves the real subject, wrapped line included",
+         parsed_prt["subject"] == "APS Screening Decisions: Documentation and "
+         "Notification to Reporters")
 
     return 1 if fails else 0
 
@@ -376,15 +455,16 @@ def main():
     ap.add_argument("--discover", action="store_true")
     ap.add_argument("--ingest", action="store_true")
     ap.add_argument("--program", default="apd", choices=sorted(PROGRAM_LISTS))
-    ap.add_argument("--policy-only", action="store_true", default=True)
     ap.add_argument("--limit", type=int, default=None)
     args = ap.parse_args()
 
     if args.selftest:
         sys.exit(_selftest())
 
+    # Policy-only is the issue's fixed scope (Action Requests / Information Memoranda are
+    # explicitly out) -- not a flag, so there is nothing to toggle off.
     if args.discover:
-        rows = discover(args.program, args.policy_only, args.limit)
+        rows = discover(args.program, True, args.limit)
         print(f"{len(rows)} {args.program.upper()} Policy transmittal(s) selected "
              f"(most-recent-first cut, limit={args.limit}):")
         for r in rows:
@@ -393,7 +473,7 @@ def main():
 
     if args.ingest:
         known_ids = known_dhs_policy_ids()
-        rows = discover(args.program, args.policy_only, args.limit)
+        rows = discover(args.program, True, args.limit)
         results = [ingest_one(args.program, r, known_ids) for r in rows]
         ok = [r for r in results if r["status"] == "ok"]
         resolved = [r for r in ok if r["announces"]]

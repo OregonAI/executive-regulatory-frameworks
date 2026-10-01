@@ -16,7 +16,7 @@ retrieved: "2026-10-01"
 source_sha256: "c62f5f62c5344ad141c91e3d932494a5b45434e58caba694649de00819c444bc"
 effective_date: null
 last_reviewed: null
-source_version: ""
+source_version: "Effective: Upon release"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -41,7 +41,7 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-26-007 — Home and Community-Based Services Waiver Compliance Requirements. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-26-007 — Home and Community-Based Services Waiver Compliance Requirements. Oregon Department of Human Services, Aging and People with Disabilities. Effective Upon release.
 
 ## Full text
 

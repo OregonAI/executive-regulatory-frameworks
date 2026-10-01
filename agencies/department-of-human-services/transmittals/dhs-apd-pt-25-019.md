@@ -16,7 +16,7 @@ retrieved: "2026-10-01"
 source_sha256: "3a173e8096fd20f3bae6cfceaab1892aebb38e9e8d7c154652b0402b02f24845"
 effective_date: null
 last_reviewed: null
-source_version: ""
+source_version: "Effective: Immediately"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -41,7 +41,7 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-25-019 — COAPS SAFELINE Screening Pilot Project. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-25-019 — COAPS SAFELINE Screening Pilot Project. Oregon Department of Human Services, Aging and People with Disabilities. Effective Immediately.
 
 ## Full text
 

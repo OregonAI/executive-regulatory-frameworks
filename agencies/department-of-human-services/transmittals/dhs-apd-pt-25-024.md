@@ -14,9 +14,9 @@ source_url: "https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25024.pd
 source_format: pdf
 retrieved: "2026-10-01"
 source_sha256: "f73f36737cfb298197b774b20484e77f5c7f8ff262174b8ca441f6170f377d38"
-effective_date: null
+effective_date: "2025-10-01"
 last_reviewed: null
-source_version: ""
+source_version: "Effective: 10/01/2025"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -41,7 +41,7 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-25-024 — Older Americans Act Policies and Procedures. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-25-024 — Older Americans Act Policies and Procedures. Oregon Department of Human Services, Aging and People with Disabilities. Effective 10/01/2025.
 
 ## Full text
 

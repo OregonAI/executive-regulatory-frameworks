@@ -14,9 +14,9 @@ source_url: "https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25021.pd
 source_format: pdf
 retrieved: "2026-10-01"
 source_sha256: "49dc6226f0e5c581b9d8977d96b5e452c759993eb7769ecd7e819d763e977946"
-effective_date: null
+effective_date: "2026-01-01"
 last_reviewed: null
-source_version: ""
+source_version: "Effective: January 01, 2026"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -41,7 +41,7 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-25-021 — Program of All-inclusive Care for the Elderly (PACE) participant liability. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-25-021 — Program of All-inclusive Care for the Elderly (PACE) participant liability. Oregon Department of Human Services, Aging and People with Disabilities. Effective January 01, 2026.
 
 ## Full text
 

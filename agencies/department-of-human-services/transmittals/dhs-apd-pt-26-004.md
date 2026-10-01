@@ -16,7 +16,7 @@ retrieved: "2026-10-01"
 source_sha256: "eb23d77d3fe96a84a1fecf43d0223e41bd4ec44c2ad4b1a4a006f2dce1377f24"
 effective_date: null
 last_reviewed: null
-source_version: ""
+source_version: "Effective: Upon release"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -41,7 +41,7 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-26-004 — OPI-M Local Office Ancillary Approvals. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-26-004 — OPI-M Local Office Ancillary Approvals. Oregon Department of Human Services, Aging and People with Disabilities. Effective Upon release.
 
 ## Full text
 

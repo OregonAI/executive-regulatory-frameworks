@@ -16,7 +16,7 @@ retrieved: "2026-10-01"
 source_sha256: "027e133e12f7c83a2cc875e78a08af1e854e14feb1ecdb1c91811e476a01018b"
 effective_date: null
 last_reviewed: null
-source_version: ""
+source_version: "Effective: Immediately"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -41,7 +41,7 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-25-022 — 2025-2027 HCW CBA Ratification. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-25-022 — 2025-2027 HCW CBA Ratification. Oregon Department of Human Services, Aging and People with Disabilities. Effective Immediately.
 
 ## Full text
 

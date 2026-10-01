@@ -16,7 +16,7 @@ retrieved: "2026-10-01"
 source_sha256: "7b0d24d7e157b6eb7dd301bc04d7f58e17b90f98f5b17630ab6189f384d65e03"
 effective_date: null
 last_reviewed: null
-source_version: ""
+source_version: "Effective: Upon release"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -41,7 +41,7 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-25-017 — OPI-M Case Management Contacts and Risk Monitoring. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-25-017 — OPI-M Case Management Contacts and Risk Monitoring. Oregon Department of Human Services, Aging and People with Disabilities. Effective Upon release.
 
 ## Full text
 

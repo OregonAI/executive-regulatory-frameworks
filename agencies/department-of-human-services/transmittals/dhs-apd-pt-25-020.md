@@ -14,9 +14,9 @@ source_url: "https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25020.pd
 source_format: pdf
 retrieved: "2026-10-01"
 source_sha256: "094b7924641983a0798f93e6a7a13b67f58b668494f43cb55ebe10d180ecca03"
-effective_date: null
+effective_date: "2025-11-15"
 last_reviewed: null
-source_version: ""
+source_version: "Effective: November 15, 2025"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -41,7 +41,7 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-25-020 — Deidentifying licensor initials in licensing documents. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-25-020 — Deidentifying licensor initials in licensing documents. Oregon Department of Human Services, Aging and People with Disabilities. Effective November 15, 2025.
 
 ## Full text
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: dhs-apd-pt-26-005
-title: "Homecare Worker, Personal Support Worker and Personal Care Attendant Rural"
+title: "Homecare Worker, Personal Support Worker and Personal Care Attendant Rural Mileage"
 doc_type: transmittal
 citation: "ODHS Policy Transmittal APD-PT-26-005"
 authority_level: agency_guidance
@@ -16,7 +16,7 @@ retrieved: "2026-10-01"
 source_sha256: "fbda0fc889743b78faf121ed8dc71ebad6dae3ab7b9e8d4791a833df838ac57a"
 effective_date: null
 last_reviewed: null
-source_version: ""
+source_version: "Effective: Upon Transmittal Release"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -37,11 +37,11 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
 > official text. Verify against the official source: <https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26005.pdf> (retrieved 2026-10-01).
 
-# Homecare Worker, Personal Support Worker and Personal Care Attendant Rural (APD-PT-26-005)
+# Homecare Worker, Personal Support Worker and Personal Care Attendant Rural Mileage (APD-PT-26-005)
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-26-005 — Homecare Worker, Personal Support Worker and Personal Care Attendant Rural. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-26-005 — Homecare Worker, Personal Support Worker and Personal Care Attendant Rural Mileage. Oregon Department of Human Services, Aging and People with Disabilities. Effective Upon Transmittal Release.
 
 ## Full text
 

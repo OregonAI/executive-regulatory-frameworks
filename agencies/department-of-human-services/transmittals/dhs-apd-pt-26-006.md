@@ -14,9 +14,9 @@ source_url: "https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26006.pd
 source_format: pdf
 retrieved: "2026-10-01"
 source_sha256: "5f54e6cbc41ae8c37c85d336bfa13ef2d8d79e4dc4030913e79d35c56153e99e"
-effective_date: null
+effective_date: "2026-05-01"
 last_reviewed: null
-source_version: ""
+source_version: "Effective: May 01, 2026"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -41,7 +41,7 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-26-006 — APS Screening Decisions and Documentation. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-26-006 — APS Screening Decisions and Documentation. Oregon Department of Human Services, Aging and People with Disabilities. Effective May 01, 2026.
 
 ## Full text
 

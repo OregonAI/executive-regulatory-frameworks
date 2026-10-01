@@ -107,7 +107,7 @@ sources:
   url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26005.pdf
   sha256: fbda0fc889743b78faf121ed8dc71ebad6dae3ab7b9e8d4791a833df838ac57a
   last_checked: '2026-10-01'
-  notes: Homecare Worker, Personal Support Worker and Personal Care Attendant Rural
+  notes: Homecare Worker, Personal Support Worker and Personal Care Attendant Rural Mileage
 - id: dhs-apd-pt-26-006
   url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26006.pdf
   sha256: 5f54e6cbc41ae8c37c85d336bfa13ef2d8d79e4dc4030913e79d35c56153e99e

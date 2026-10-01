@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: dhs-apd-pt-25-025
-title: "New Facility Safety Plan (FSP) Form for APS Investigations in Assisted Living Facilities"
+title: "New Facility Safety Plan (FSP) Form for APS Investigations in Assisted Living Facilities (ALF) and Residential Care Facilities (RCF)"
 doc_type: transmittal
 citation: "ODHS Policy Transmittal APD-PT-25-025"
 authority_level: agency_guidance
@@ -14,9 +14,9 @@ source_url: "https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25025.pd
 source_format: pdf
 retrieved: "2026-10-01"
 source_sha256: "7001990e90fa5d8690861959cdc08c5a898aff344842c4210161c98ad0d28156"
-effective_date: null
+effective_date: "2026-01-01"
 last_reviewed: null
-source_version: ""
+source_version: "Effective: January 1, 2026"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -37,11 +37,11 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
 > official text. Verify against the official source: <https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25025.pdf> (retrieved 2026-10-01).
 
-# New Facility Safety Plan (FSP) Form for APS Investigations in Assisted Living Facilities (APD-PT-25-025)
+# New Facility Safety Plan (FSP) Form for APS Investigations in Assisted Living Facilities (ALF) and Residential Care Facilities (RCF) (APD-PT-25-025)
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-25-025 — New Facility Safety Plan (FSP) Form for APS Investigations in Assisted Living Facilities. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-25-025 — New Facility Safety Plan (FSP) Form for APS Investigations in Assisted Living Facilities (ALF) and Residential Care Facilities (RCF). Oregon Department of Human Services, Aging and People with Disabilities. Effective January 1, 2026.
 
 ## Full text
 

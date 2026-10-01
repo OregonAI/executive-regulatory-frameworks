@@ -14,9 +14,9 @@ source_url: "https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26002.pd
 source_format: pdf
 retrieved: "2026-10-01"
 source_sha256: "6b3c9dc27ae1a6f0dd65156a9bd580474cf7ab9d42c86d226b8739d49396facb"
-effective_date: null
+effective_date: "2026-02-14"
 last_reviewed: null
-source_version: ""
+source_version: "Effective: February 14, 2026"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -41,7 +41,7 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-26-002 — The Work Number Changes for Oregon Project Independence - Medicaid. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-26-002 — The Work Number Changes for Oregon Project Independence - Medicaid. Oregon Department of Human Services, Aging and People with Disabilities. Effective February 14, 2026.
 
 ## Full text
 

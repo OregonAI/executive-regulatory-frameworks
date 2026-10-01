@@ -16,7 +16,7 @@ retrieved: "2026-10-01"
 source_sha256: "d5e38b6d18dc2920722a1b9e6edac305a1cf76900a157a639d30e05825d6e35a"
 effective_date: null
 last_reviewed: null
-source_version: ""
+source_version: "Effective: Upon Receipt"
 status: current
 supersedes: null
 content_mode: verbatim
@@ -41,7 +41,7 @@ tags: ['department-of-human-services', 'transmittal', 'apd']
 
 ## At a glance
 
-ODHS Policy Transmittal APD-PT-26-008 — Collective Bargaining Agreement. Oregon Department of Human Services, Aging and People with Disabilities.
+ODHS Policy Transmittal APD-PT-26-008 — Collective Bargaining Agreement. Oregon Department of Human Services, Aging and People with Disabilities. Effective Upon Receipt.
 
 ## Full text
 
