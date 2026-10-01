@@ -1,0 +1,160 @@
+                                                                        Policy Transmittal
+
+Aging and People with Disabilities                                Number: APD-PT-26-008
+Authorized by: Jane-ellen Weidanz
+Issue date: 5/13/2026
+Subject: Collective Bargaining Agreement
+
+Transmitting (check the box that best applies)
+
+      New policy          Policy change          Policy clarification    Executive letter
+      Administrative Rule           Manual update              Other:
+
+Applies to (check all that apply):
+
+       All ODHS employees                                  County DD Program Managers
+       Aging and People with Disabilities                  Developmental Disabilities Services
+       Area Agencies on Aging: Type A and B                Self-Sufficiency Programs
+       Child Welfare Division                              Support Service Brokerage Directors
+       Children’s Intensive In Home Services               Stabilization and Crisis Unit
+       Children’s Residential Services                     Other (please specify): Enter Text
+
+Policy/rule title: Collective Bargaining Agreement
+Policy/rule numbers: Collective Bargaining Agreement.
+Release number:
+Effective date: Upon Receipt
+Expiration date: n/a
+References: Collective Bargaining Agreement
+Web address: https://www.oregon.gov/odhs/providers-partners/homecare-
+workforce/Pages/default.aspx
+
+Discussion/interpretation
+This Policy Transmittal (PT) establishes a standard process for local office staff to
+respond to Homecare Worker (HCW) payment questions and sets expectations
+for prior authorization (PA) of HCW hours and services. It explains when services
+must be authorized, what documentation is required, and what staff must review
+when a payment issue is reported. This process supports timely resolution of
+payment discrepancies and consistent review of an individual’s eligibility, service
+authorization, and payment information.
+
+Implementation/transition instructions
+  1. Prior authorization of hours
+
+        a. A case manager (CM) must authorize services before an HCW works
+           the hours.
+        b. An HCW is authorized only when both of the following are in place:
+              i. Authorization in the Oregon Provider Time Capture Direct Care
+                   Innovations (OR PTC DCI) system or written notice of approved
+                   hours and services; and
+             ii. A CM sent the HCW a 598 Task List.
+        c. Use form SDS 4105 whenever an HCW starts work for an individual or
+           when the HCWs hours or services change.
+        d. Authorization must be in writing. Verbal authorization is not allowed.
+        e. CMs must provide the Task List to an HCW within seven days after the
+           individual reports hiring an HCW.
+        f. Do not pay an HCW for hours worked before PA is in place. Do not
+           backdate pay. CM should inform an HCW that they are not authorized
+           and should not work until the PA is completed.
+        g. Hours cannot be authorized if the individual was not eligible for
+           services. Confirm eligibility before authorizing services and ensure the
+           HCW knows they are not authorized to work.
+        h. Individuals must report changes in service needs within two business
+           days.
+     i. For emergency or unexpected situations when an HCW must provide
+       critical care to protect the individual’s health or safety, see OAR 411-
+       030-0070(7) for exceptions.
+     j. When timing is critical, email may serve as written prior authorization.
+     k. Send questions about back pay cases to Aging and People with
+       Disabilities (APD) Medicaid Policy at
+       APD.MedicaidPolicy@odhsoha.oregon.gov.
+2. Timely and accurate pay
+     a. If an HCW believes payment was late or incorrect, the HCW should
+       contact the local office right away.
+     b. To request a late or partial payment penalty fee, the HCW must submit
+       the Oregon Home Care Commission (OHCC) late/partial payment
+       request form within 60 calendar days after the pay processing date for
+       the late or partial payment. Penalty form
+     c. If the HCW does not submit the request within 60 calendar days, the
+       HCW is not eligible for a late or partial payment penalty fee. The local
+       office should direct the HCW to complete the form and eligibility for
+       late or partial penalty fees are determined by OHCC.
+     d. When an HCW notifies the local office of a payment issue, the local
+       office must provide the link. Penalty form
+3. Pay processing
+  Staff must review the items below and document the review in the
+  individuals case narration in Oregon ACCESS (OA).
+  Eligibility and coding verification
+     a. Confirm that ONE shows the correct approved and authorized medical
+       and service Types of Assistance (TOAs) for the period at issue. See the
+       Service Categories and TOAs EG.
+  b. For in-home cases, the benefit line in the service plan may be
+     backdated to match eligibility and TOA. The effective date should
+     reflect when prior authorization was established and does not need to
+     match the benefit line.
+  c. Confirm that any exception hours are approved in the current service
+     plan and coded by Central Office, if needed.
+  d. For financial eligibility:
+        i. check alerts in ONE;
+        ii. verify that ONE shows active approved and authorized service
+           TOAs for the time frame of the SELG record in the Mainframe;
+       iii. Oregon Project Independence-Medicaid (OPI-M) does not require
+           Oregon Health Plan Plus (OHP Plus) medical eligibility;
+       iv. State Plan Personal Care (SPPC) requires an active medical TOA.
+Service authorization and plan verification
+  e. Confirm that the case in ONE is pending only for service eligibility and
+     not for other medical items. See OAR 461-180-0040 for effective dates
+     and service start dates.
+  f. Review the Case Manager (CM) Alert Log daily.
+  g. See the Case Manager Homepage Overview and Case Manager Alert
+     Descriptions resources for more information about alerts in ONE.
+  h. Confirm that OA shows an approved service benefit and service plan.
+  i. Confirm that the service benefit type in OA matches the medical or
+     service benefit in ONE.
+        i. For the approved service benefit dates in OA, confirm that the
+           benefit is compatible with the approved and authorized medical
+           and/or service TOAs in ONE. Example: MSERV = KPS; NMAGISERV
+           and LTCSERV = APD.
+       ii. SPPC does not require a service TOA, but the OA benefit should
+          be BPA or BPO.
+  j. Confirm that OR PTC DCI shows an authorization and that the
+     authorized hours match the service plan.
+  k. To create an authorization in OR PTC DCI, staff must first create a
+     voucher in the mainframe. Before the authorization appears in OR PTC
+     DCI, the individual and HCW must have profiles, funding accounts, and
+     service accounts in the system.
+  l. The PTC support team creates those profiles, funding accounts, and
+     service accounts through its daily process.
+  m. If the individual and HCW are actively linked in OR PTC DCI, the
+     mainframe sends authorization data to OR PTC DCI in real time after
+     the voucher is created.
+  n. The voucher specialist starts the authorization process by entering the
+     authorization in the mainframe using the APD 546N.
+Payment processing verification
+  o. Confirm that a voucher was created in the mainframe.
+  p. Verify that all punches were submitted and approved in OR PTC DCI.
+  q. Confirm that the HCW submitted claims correctly and within required
+     timelines.
+  r. Review the STIQ screen for any individual or HCW eligibility errors. See
+     the Mainframe STIQ Errors – Prevent and Resolve quick reference
+     guide.
+  s. Additional resources are available on the OR PTC DCI Troubleshooting
+     guide, HCW Authorization PowerPoint, and the Consumer-Employed
+     Provider Manual.
+Local/branch action required
+Please follow the transmittal and escalate errors to Medicaid Policy when needed.
+
+Central office action required
+Available for staffing.
+
+Reviewed by impacted parties?                  Yes   No
+
+If yes, reviewed by: APD Policy & Ops Review
+
+Filing instructions:
+
+If you have any questions, please contact:
+
+Contact(s): Medicaid Policy
+
+Email: APD.MedicaidPolicy@odhsoha.oregon.gov
+

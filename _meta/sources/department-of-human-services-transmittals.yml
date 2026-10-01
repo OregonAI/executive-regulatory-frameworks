@@ -1,0 +1,140 @@
+group: department-of-human-services-transmittals
+title: 'Department of Human Services Policy Transmittals (issue #79 pilot)'
+kind: content-hash
+recheck: monthly
+last_checked: '2026-10-01'
+upstream_signal: 'SharePoint DOCUMENT LIBRARY at /odhs/transmittals/APDTransmittals, queried via RenderListDataAsStream
+  (same technique as department-of-human-services-policies.yml), filtered to Transmittal_x0020_type ==
+  ''Policy'' (Policy Transmittals only -- Action Requests and Information Memoranda are explicitly out
+  of scope per issue #79''s grilling comment). This is the ODHS Aging and People with Disabilities (APD)
+  program''s own Policy Transmittal system, NOT the agency-wide ''policiesguidelines'' list the 17 held
+  DHS policies come from -- the two numbering schemes do not overlap (see CHANGELOG and .out-of-scope/
+  for the pilot''s measured result). Pilot-capped at the 25 most recent APD Policy transmittals by Date;
+  not a live-tracked feed -- re-running --discover against the same list and re-hashing members is how
+  a future, non-piloted expansion would detect drift.'
+sources:
+- id: dhs-apd-pt-24-028
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt24028.pdf
+  sha256: 03f7d6f5d524e8440f32601ee4670c6b3379ecf28c06cc18b14acfa6bd058c93
+  last_checked: '2026-10-01'
+  notes: 'APS Screening Decisions: Documentation and Notification to Reporters'
+- id: dhs-apd-pt-25-014
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25014.pdf
+  sha256: a66402c0e0e874eaec0c53c65a686c49287d8525ab0b9cae9909d58c043eea1d
+  last_checked: '2026-10-01'
+  notes: Changes to Extended Waiver Eligibility process
+- id: dhs-apd-pt-25-015
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25015.pdf
+  sha256: 8cfeddc658d6e29e7e8b49c962123f092d13eec9046bbae63e2f9dd24fa4ea5a
+  last_checked: '2026-10-01'
+  notes: Emergency Response Management (ERM) system use
+- id: dhs-apd-pt-25-016
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25016.pdf
+  sha256: 00988259d08f3ae7f97de5768717698914f1c13e9b8f0be19494597c769eb9ea
+  last_checked: '2026-10-01'
+  notes: Long-term Care
+- id: dhs-apd-pt-25-017
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25017.pdf
+  sha256: 7b0d24d7e157b6eb7dd301bc04d7f58e17b90f98f5b17630ab6189f384d65e03
+  last_checked: '2026-10-01'
+  notes: OPI-M Case Management Contacts and Risk Monitoring
+- id: dhs-apd-pt-25-018
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25018.pdf
+  sha256: 634bb62cf720f5a33cd99ccf956aeeba99ba3517b9c3fd9524906f9b209eec56
+  last_checked: '2026-10-01'
+  notes: Animal care and incidental activities as part of In-Home Services
+- id: dhs-apd-pt-25-019
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25019.pdf
+  sha256: 3a173e8096fd20f3bae6cfceaab1892aebb38e9e8d7c154652b0402b02f24845
+  last_checked: '2026-10-01'
+  notes: COAPS SAFELINE Screening Pilot Project
+- id: dhs-apd-pt-25-020
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25020.pdf
+  sha256: 094b7924641983a0798f93e6a7a13b67f58b668494f43cb55ebe10d180ecca03
+  last_checked: '2026-10-01'
+  notes: Deidentifying licensor initials in licensing documents
+- id: dhs-apd-pt-25-021
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25021.pdf
+  sha256: 49dc6226f0e5c581b9d8977d96b5e452c759993eb7769ecd7e819d763e977946
+  last_checked: '2026-10-01'
+  notes: Program of All-inclusive Care for the Elderly (PACE) participant liability
+- id: dhs-apd-pt-25-022
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25022.pdf
+  sha256: 027e133e12f7c83a2cc875e78a08af1e854e14feb1ecdb1c91811e476a01018b
+  last_checked: '2026-10-01'
+  notes: 2025-2027 HCW CBA Ratification
+- id: dhs-apd-pt-25-023
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25023.pdf
+  sha256: 5c5e0d8210041bec3c5b633f27feeff4fe54160b9e1adb397baed459792ac4ff
+  last_checked: '2026-10-01'
+  notes: Rate Methodology Change for AFH and RCF Settings
+- id: dhs-apd-pt-25-024
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25024.pdf
+  sha256: f73f36737cfb298197b774b20484e77f5c7f8ff262174b8ca441f6170f377d38
+  last_checked: '2026-10-01'
+  notes: Older Americans Act Policies and Procedures
+- id: dhs-apd-pt-25-025
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25025.pdf
+  sha256: 7001990e90fa5d8690861959cdc08c5a898aff344842c4210161c98ad0d28156
+  last_checked: '2026-10-01'
+  notes: New Facility Safety Plan (FSP) Form for APS Investigations in Assisted Living Facilities
+- id: dhs-apd-pt-25-026
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt25026.pdf
+  sha256: 00c93feaef56e7ffeb1bfa2530d5d8385176f26a507344b3d4445f194c82de5d
+  last_checked: '2026-10-01'
+  notes: Community Based, PACE & Nursing Facility Rates
+- id: dhs-apd-pt-26-001
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26001.pdf
+  sha256: ef2070c214f48ea0b0c41e9db1735fa48f1361026a287b033c7cfcec79ed645e
+  last_checked: '2026-10-01'
+  notes: Local Office Lift Chair Approvals
+- id: dhs-apd-pt-26-002
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26002.pdf
+  sha256: 6b3c9dc27ae1a6f0dd65156a9bd580474cf7ab9d42c86d226b8739d49396facb
+  last_checked: '2026-10-01'
+  notes: The Work Number Changes for Oregon Project Independence - Medicaid
+- id: dhs-apd-pt-26-003
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26003.pdf
+  sha256: f55fe27f7726bbcbcb79d7e6c00dcb1db3d8983b0514e9fa72472cef2d7aa4b5
+  last_checked: '2026-10-01'
+  notes: Staff Response to Immigration and Customs Enforcement (ICE) Activities
+- id: dhs-apd-pt-26-004
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26004.pdf
+  sha256: eb23d77d3fe96a84a1fecf43d0223e41bd4ec44c2ad4b1a4a006f2dce1377f24
+  last_checked: '2026-10-01'
+  notes: OPI-M Local Office Ancillary Approvals
+- id: dhs-apd-pt-26-005
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26005.pdf
+  sha256: fbda0fc889743b78faf121ed8dc71ebad6dae3ab7b9e8d4791a833df838ac57a
+  last_checked: '2026-10-01'
+  notes: Homecare Worker, Personal Support Worker and Personal Care Attendant Rural
+- id: dhs-apd-pt-26-006
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26006.pdf
+  sha256: 5f54e6cbc41ae8c37c85d336bfa13ef2d8d79e4dc4030913e79d35c56153e99e
+  last_checked: '2026-10-01'
+  notes: APS Screening Decisions and Documentation
+- id: dhs-apd-pt-26-007
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26007.pdf
+  sha256: c62f5f62c5344ad141c91e3d932494a5b45434e58caba694649de00819c444bc
+  last_checked: '2026-10-01'
+  notes: Home and Community-Based Services Waiver Compliance Requirements
+- id: dhs-apd-pt-26-008
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26008.pdf
+  sha256: d5e38b6d18dc2920722a1b9e6edac305a1cf76900a157a639d30e05825d6e35a
+  last_checked: '2026-10-01'
+  notes: Collective Bargaining Agreement
+- id: dhs-apd-pt-26-009
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26009.pdf
+  sha256: 42f3fe5e3df089a72c71f1cd3f34be7a4a5b6ce91423d99c120b9f70191ec02c
+  last_checked: '2026-10-01'
+  notes: Community Based, PACE & Nursing Facility Rates
+- id: dhs-apd-pt-26-010
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26010.pdf
+  sha256: 513ce09fc8abd493e57a26d14ead43398714eb1808887b928446bc04d881582e
+  last_checked: '2026-10-01'
+  notes: Biennial licensure of APD AFH
+- id: dhs-apd-pt-26-011
+  url: https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26011.pdf
+  sha256: ff6b6c4ba85031f47de31261cefeb751b309995908b642ec44f8037c0d18ebb3
+  last_checked: '2026-10-01'
+  notes: Impacts of HR1 Non-Citizen Changes to OPI-M Consumers

@@ -208,9 +208,15 @@ def discover(program: str, policy_only: bool, limit: int | None) -> list[dict]:
     return rows[:limit] if limit else rows
 
 
+def transmittal_doc_id(prof_number: str) -> str:
+    """'APD-PT-26-011' -> 'dhs-apd-pt-26-011'. The transmittal's own number already names
+    its program (APD/SSP/...), so prefixing the program again would double it."""
+    return f"dhs-{prof_number.lower()}"
+
+
 def doc_markdown(prof_number: str, program: str, row: dict, url: str, sha: str,
                  raw_text: str, parsed: dict) -> tuple[str, str]:
-    doc_id = f"dhs-{program}-{prof_number.lower()}"
+    doc_id = transmittal_doc_id(prof_number)
     title = parsed["subject"] or row.get("Subject") or prof_number
     citation = f"ODHS Policy Transmittal {prof_number}"
     eff_iso = parsed["effective_date_iso"]
@@ -222,6 +228,9 @@ def doc_markdown(prof_number: str, program: str, row: dict, url: str, sha: str,
                       "\n" + "\n".join(f"  - {a}" for a in announces))
     body = raw_text.strip() + "\n"
     fm = f"""---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
 id: {doc_id}
 title: "{title.replace(chr(34), chr(39))}"
 doc_type: transmittal
@@ -287,7 +296,7 @@ def ingest_one(program: str, row: dict, known_ids: set[str]) -> dict:
         return {"status": "fail", "id": prov_id, "msg": f"FETCH_FAIL {prov_id}: {e}"}
     if raw[:5] != b"%PDF-":
         return {"status": "skip", "id": prov_id, "msg": f"NOT_PDF {prov_id}"}
-    doc_id = f"dhs-{program}-{prov_id.lower()}"
+    doc_id = transmittal_doc_id(prov_id)
     pdf_path = SNAPSHOT_DIR / f"{doc_id}.pdf"
     pdf_path.write_bytes(raw)
     raw_text = subprocess.run(["pdftotext", "-layout", str(pdf_path), "-"],

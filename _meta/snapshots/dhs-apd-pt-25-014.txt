@@ -1,0 +1,127 @@
+Policy Transmittal
+Aging and People with Disabilities
+
+ Mat Rapoza                                               Number: APD-PT-25-014
+ Authorized signature                                  Issue date: 7/03/2025
+                                                     Updated date: 7/31/2025
+
+ Topic: Long Term Care                                   Due date:
+
+ Transmitting (check the box that best applies):
+    New policy         Policy change        Policy clarification       Executive letter
+    Administrative Rule       Manual update       Other:
+
+Applies to (check all that apply):
+    All DHS employees                               County Mental Health Directors
+    Area Agencies on Aging: Type B                  Health Services
+    Aging and People with Disabilities              Office of Developmental
+    Self Sufficiency Programs                       Disabilities Services (ODDS)
+    County DD program managers                      ODDS Children’s Intensive In
+    Support Service Brokerage Directors             Home Services
+    ODDS Children’s Residential Services            Stabilization and Crisis Unit (SACU)
+    Child Welfare Programs                          Other (please specify):
+
+
+ Policy/rule title:       Changes to Extended Waiver Eligibility (EWE) process
+ Policy/rule number(s):   OAR 411-015-0030                   Release number:
+ Effective date:          Immediately                         Expiration date:
+ References:
+ Web address:             https://www.oregon.gov/odhs/rules-policy/apdrules/411-015.pdf
+
+ Discussion/interpretation:
+ Updates to this policy are in red.
+
+ Extended Waiver Eligibility (EWE) services are currently set up in six-month
+ increments which requires a six-month review after the initial start date. At the six-
+ month review period, the consumer and case manager (CM) update and sign the EWE
+ goals/risk mitigation form. The form is submitted to Central Office (CO) for review and
+
+                                                                           DHS 0079 (01.19)
+services are set up for another six months or for the remainder of the assessment
+period.
+
+There are many administrative tasks involved with the six-month review process that
+are a duplication of work for CMs, CO staff, and consumers in comparison to the initial
+request for EWE services and at each reassessment and reapplication for EWE
+services. To streamline the process, the following changes are being implemented
+effective immediately.
+
+Implementation/transition instructions:
+Case managers (CMs) are no longer required to conduct a face-to-face visit with the
+consumer to complete an updated EWE form and obtain signatures and submit to CO
+every six-months. At the initial EWE request, at reassessment and EWE reapplication
+period, the EWE goals/risk mitigation form must be completed and signed by the
+consumer and CM.
+In lieu of the six-month EWE services segments, CO will set up the EWE services
+record in SELG for 12-months or through the end of the assessment period, whichever
+is less.
+CM responsibilities for managing EWE services cases:
+   Complete direct contacts with the consumer via telephone, face-to-face or email.
+    The frequency of direct contacts should be no less frequent than quarterly unless
+    the EWE plan indicates the need for monthly direct contact with the consumer.
+    Contacts should be narrated in Oregon ACCESS (OA) and include information
+    on the consumer’s attempts to achieve the goals and mitigating risks/barriers to
+    independent living as agreed to on the EWE form.
+   At the six-month direct contact, label the narrative as: EWE 6-MONTH REVIEW
+    CONTACT. Case managers (CMs) should review the history of the consumer’s
+    attempts to transition from long-term services and supports (LTSS) to ensure the
+    consumer is compliant per EWE rules (OAR 411-015-0030(4)). The CM must
+    narrate if the consumer remains eligible for the EWE program. CMs may
+    request a consultation with the EWE policy analyst if necessary.
+   Set reminders for quarterly (monthly if indicated on the EWE form) direct
+    contacts, 6-month direct contact and documentation in OA, and for the annual
+    reassessment for each EWE consumer. NOTE: EWE consumers do not show
+    on any OA lists or reports.
+   Check ONE alerts frequently to ensure the EWE consumer’s medical benefits
+    are active. A consumer receiving EWE services must be OSIP-M eligible.
+   Whenever a change occurs that affects EWE eligibility, such as (but not limited
+    to) an assessment outcome of SPL 1-13, consumer passes away, consumer has
+    moved out of state, a change in care environment, finds independent living or
+
+                                                                          DHS 0079 (01.19)
+          transitions from LTSS, is no longer Medicaid eligible, is no longer service eligible,
+          etc., that change must be reported to APD.EWE.Request@odhsoha.oregon.gov
+          immediately.
+         If an EWE consumer fails to comply with the goals and risk mitigation as agreed
+          to on the EWE form, the CM must send a pending notice (DHS 4234) to the
+          consumer requesting proof of compliance before sending a closure notice for
+          EWE services. CMs may contact the EWE policy analyst for consultation before
+          sending a closing notice to the consumer.
+         When an initial EWE referral and renewal is sent to CO for review, the CM
+          should wait to send the SPAN until the EWE eligibility decision is provided.
+         ALWAYS ensure the EWE form is signed by the consumer/representative and
+          CM as verbal signatures are not permitted. The signature is acknowledgement
+          that the consumer agrees to make attempts to reach their goals and mitigate
+          risks to independent living to transition from LTSS.
+
+Training/communication plan: Provide technical assistance and consultation as
+needed.
+  sdf
+
+
+
+
+Local/branch action required: Review the CM responsibilities as stated in this
+transmittal and EWE rules for consumer eligibility and compliance.
+
+Central office action required: Update current consumer EWE services records to
+reflect 12-months of EWE services or update the services record through the end of
+the consumer’s current assessment period. Implement 12-month service records for
+new EWE consumers and renewing EWE consumers. OAR 411-015-0030 will be
+updated with necessary changes. The EWE planning form will eventually become
+available on DocuSign.
+
+Field/stakeholder review:         Yes       No
+           If yes, reviewed by: Ops and internal review
+
+Filing instructions:
+
+
+
+If you have any questions about this policy, contact:
+Contact(s): Lisa Bouchell
+Phone:                              Fax:
+Email: APD.EWE.Request@odshoha.oregon.gov
+
+                                                                                DHS 0079 (01.19)
+
