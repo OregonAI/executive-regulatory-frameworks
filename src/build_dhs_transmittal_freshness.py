@@ -12,7 +12,14 @@ transmittals, or none, changes nothing about any committed policy document; it o
 what this script, rerun, reports.
 
 This also carries the pilot's own pass/fail accounting (`join_counts`) against the bar the
-issue sets, as counts rather than adjectives:
+issue sets, as counts rather than adjectives. Issue #79's leg 1, quoted verbatim: "the
+pilot set resolves a supersession or effective date for >= 50% of the DHS policies it
+references" -- the denominator is policies the pilot set REFERENCES, not every policy this
+corpus holds, so `n_policies_referenced` / `resolution_rate_referenced` is the number that
+decides `bar1_resolution_pass`. 0 referenced fails the bar vacuously (rate is `None`, never
+reported as 0% or a pass). `n_policies_total` / `resolution_rate` (the held-policy-wide
+denominator) is reported alongside only as context -- it is a different, easier-to-clear
+number and never substitutes for the spec's own bar:
 
   1. the pilot set resolves a supersession or effective date for >= 50% of the DHS
      policies it references, AND
@@ -70,9 +77,13 @@ def join_counts(policy_ids: set, announcements: list[dict]) -> dict:
             )
         if is_stale:
             stale_ids.append(pid)
+        # "resolved" is the spec's own word: resolves a SUPERSESSION OR EFFECTIVE DATE --
+        # not just "any announcement exists". This join has no supersession signal, so a
+        # policy counts as resolved only when at least one announcement carries a real
+        # (non-null) effective_date.
         per_policy.append({
             "policy_id": pid,
-            "resolved": bool(hits),
+            "resolved": bool(dated_hits),
             "transmittal_ids": sorted(h["transmittal_id"] for h in hits),
             "latest_effective_date": latest,
             "stale": is_stale,
@@ -83,13 +94,38 @@ def join_counts(policy_ids: set, announcements: list[dict]) -> dict:
     resolution_rate = (n_resolved / n_total) if n_total else 0.0
     n_stale = len(stale_ids)
 
-    bar1_pass = resolution_rate >= RESOLUTION_BAR
+    # Issue #79's own leg-1 denominator is "the DHS policies [the pilot set] references",
+    # NOT every policy this corpus holds -- a transmittal that references zero held
+    # policies fails leg 1 vacuously (0/0), a stronger statement than the held-policy-wide
+    # 0/n_total below. Both are reported; n_total is the wider, easier-to-clear number and
+    # is kept only as additional context, never as a substitute for the spec's own bar.
+    referenced_ids = set(resolved_for)
+    n_referenced = len(referenced_ids)
+    n_referenced_resolved = sum(
+        1 for p in per_policy if p["policy_id"] in referenced_ids and p["resolved"]
+    )
+    resolution_rate_referenced = (
+        (n_referenced_resolved / n_referenced) if n_referenced else None
+    )
+
+    bar1_pass = (resolution_rate_referenced is not None
+                and resolution_rate_referenced >= RESOLUTION_BAR)
     bar2_pass = n_stale >= STALE_BAR
     return {
         "policies": per_policy,
         "n_policies_total": n_total,
         "n_policies_resolved": n_resolved,
         "resolution_rate": round(resolution_rate, 4),
+        # issue #79's own bar: "resolves a supersession or effective date for >= 50% of
+        # the DHS policies it references" -- the policies the pilot set names, not every
+        # held policy. 0 referenced -> fails vacuously (None/undefined), never reported
+        # as a pass.
+        "n_policies_referenced": n_referenced,
+        "n_policies_referenced_resolved": n_referenced_resolved,
+        "resolution_rate_referenced": (
+            round(resolution_rate_referenced, 4) if resolution_rate_referenced is not None
+            else None
+        ),
         "resolution_bar": RESOLUTION_BAR,
         "bar1_resolution_pass": bar1_pass,
         "n_policies_stale": n_stale,
@@ -199,6 +235,35 @@ def _selftest() -> int:
     check("an announcement for an id outside policy_ids does not inflate the denominator",
          r["n_policies_total"] == 1 and r["n_policies_resolved"] == 0)
 
+    # Fixture D: issue #79's leg 1 is measured against policies the pilot set REFERENCES,
+    # not every held policy -- an announcement with no effective_date is "any announcement",
+    # not "resolves ... an effective date", so it must not count as resolved either way.
+    r = join_counts({"dhs-010-010", "dhs-010-031-01", "dhs-010-040"},
+                    [{"transmittal_id": "t1", "policy_id": "dhs-010-010",
+                      "effective_date": None, "policy_last_touched": None}])
+    check("an announcement with no effective_date does not resolve the policy",
+         r["n_policies_resolved"] == 0)
+    check("that policy is still counted as REFERENCED even though unresolved",
+         r["n_policies_referenced"] == 1 and r["n_policies_referenced_resolved"] == 0
+         and r["resolution_rate_referenced"] == 0.0)
+
+    # Fixture E: zero referenced policies (this pilot's real, measured shape) fails leg 1
+    # VACUOUSLY (undefined rate), which must not be reported as a rate or as a pass.
+    r = join_counts({"dhs-010-010", "dhs-010-031-01"}, [])
+    check("0 policies referenced -> resolution_rate_referenced is None, not 0 or a pass",
+         r["n_policies_referenced"] == 0 and r["resolution_rate_referenced"] is None
+         and r["bar1_resolution_pass"] is False)
+
+    # Fixture F: the referenced-denominator rate can clear the bar while the held-policy-
+    # wide (n_total) rate stays far below it -- the two denominators are genuinely
+    # different numbers, and bar1_pass must track the spec's (referenced) one.
+    r = join_counts({"dhs-010-010", "dhs-010-031-01", "dhs-010-040", "dhs-010-041"},
+                    [{"transmittal_id": "t1", "policy_id": "dhs-010-010",
+                      "effective_date": "2026-01-01", "policy_last_touched": None}])
+    check("1/1 referenced resolved clears the bar even though 1/4 held policies does not",
+         r["n_policies_referenced"] == 1 and r["resolution_rate_referenced"] == 1.0
+         and r["resolution_rate"] == 0.25 and r["bar1_resolution_pass"] is True)
+
     return 1 if fails else 0
 
 
@@ -218,9 +283,13 @@ def main():
         p.parent.mkdir(parents=True, exist_ok=True)
         p.write_text(t, encoding="utf-8")
     d = json.loads(outs[OUT])
-    print(f"wrote {OUT.relative_to(REPO_ROOT)}: {d['n_policies_resolved']}/{d['n_policies_total']} "
-         f"DHS policies resolved ({d['resolution_rate']:.0%}, bar {d['resolution_bar']:.0%}: "
-         f"{'PASS' if d['bar1_resolution_pass'] else 'FAIL'}); "
+    ref_rate = (f"{d['resolution_rate_referenced']:.0%}"
+               if d["resolution_rate_referenced"] is not None else "undefined (0 referenced)")
+    print(f"wrote {OUT.relative_to(REPO_ROOT)}: {d['n_policies_referenced_resolved']}/"
+         f"{d['n_policies_referenced']} DHS policies it references resolved ({ref_rate}, "
+         f"bar {d['resolution_bar']:.0%}: {'PASS' if d['bar1_resolution_pass'] else 'FAIL'}) "
+         f"[for context: {d['n_policies_resolved']}/{d['n_policies_total']} of all held "
+         f"DHS policies resolved ({d['resolution_rate']:.0%})]; "
          f"{d['n_policies_stale']} stale (bar {d['stale_bar']}: "
          f"{'PASS' if d['bar2_stale_pass'] else 'FAIL'}); "
          f"pilot {'PASSES' if d['pilot_passes'] else 'FAILS'} the issue #79 bar.")
