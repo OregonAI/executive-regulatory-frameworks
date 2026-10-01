@@ -34,7 +34,7 @@ tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
-> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/5.016%20Adults%20in%20Custody%20Workforce/5.016%20Adults%20in%20Custody%20Workforce.pdf> (retrieved 2026-07-21).
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/5.016%20Adults%20in%20Custody%20Workforce/5.016%20Adults%20in%20Custody%20Workforce.pdf> (retrieved 2026-09-09).
 
 # Adults in Custody Workforce (OSH Policy 5.016)
 
@@ -148,6 +148,6 @@ VI.      RELATED OSH POLICIES AND PROTOCOLS
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oha/OSH/Policies/5.016%20Adults%20in%20Custody%20Workforce/5.016%20Adults%20in%20Custody%20Workforce.pdf> · retrieved 2026-07-21 · sha256 `309286ebbaa2d1dca9dab54cba5c6236c2387ba35491b5bee97b069bf4d82f87`
+- Source: <https://www.oregon.gov/oha/OSH/Policies/5.016%20Adults%20in%20Custody%20Workforce/5.016%20Adults%20in%20Custody%20Workforce.pdf> · retrieved 2026-09-09 · sha256 `309286ebbaa2d1dca9dab54cba5c6236c2387ba35491b5bee97b069bf4d82f87`
 - Snapshot: `_meta/snapshots/oha-osh-5-016.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

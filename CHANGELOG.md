@@ -28,6 +28,27 @@ corpus-wide changes from 2026-08-02 forward.
   `rewrite_snapshot_prose()` helper with its own `--selftest` (also a new gate) proving the
   rewrite fires and leaves unrelated text alone.
 
+- 2026-10-01 — **`refresh_document()` left two prose retrieved dates behind frontmatter on
+  a second refresh, and 131 documents had drifted (#424).** The issue's own ~21 estimate
+  undercounted; re-measured 131 documents (52 `agencies/`, 79 `rules/` — worst case
+  `rules/414` at 44) carry a prose "retrieved" date (the non-authoritative banner, the
+  `## Provenance & change history` line, or both) older than the frontmatter `retrieved`
+  field that the same refresh already advanced. All 131 restamped to agree with
+  frontmatter.
+
+  A further 25 `executive-orders/*.md` documents carry a *banner* retrieved date AHEAD of
+  frontmatter, all from one earlier commit (e1723c7f46) that re-verified already-committed
+  OCR text against a re-fetched source without changing it. Left as-is: that date records a
+  real re-verification event this corpus's data model has no field for yet, and rewriting
+  it backward to match frontmatter would make the corpus less accurate, not more. See
+  `src/provenance_dates.py`'s docstring.
+
+  `ingest_lib.refresh_document()` now re-stamps both prose dates the same way it already
+  re-stamps the two spellings of the source hash, via a new `restamp_retrieved_prose()`
+  with its own `--selftest`. `src/provenance_dates.py` (new) is a `provenance_spelling.py`
+  -style `--check`/`--selftest` gate proving frontmatter and both prose retrieved dates
+  agree, registered in `tests/gates.py`.
+
 ### Source-Updated
 - 2026-09-10 — **The remaining OAR rules: 54 ordinary re-ingests plus 3 live Columbia River
   Gorge Commission rules** (final group of the re-ingest queue except the repeals, below).

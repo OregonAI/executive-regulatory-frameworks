@@ -40,7 +40,7 @@ tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
-> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/6.013%20Discharge%20and%20Conditional%20Release%20Planning/6.013%20Procedures%20A%20-%20Discharge%20Readiness.pdf> (retrieved 2026-07-21).
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/6.013%20Discharge%20and%20Conditional%20Release%20Planning/6.013%20Procedures%20A%20-%20Discharge%20Readiness.pdf> (retrieved 2026-09-09).
 
 # Discharge and Conditional Release Planning (OSH Policy 6.013)
 
@@ -200,6 +200,6 @@ Health Information       1. After the Psychiatry Discharge Summary is completed:
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oha/OSH/Policies/6.013%20Discharge%20and%20Conditional%20Release%20Planning/6.013%20Procedures%20A%20-%20Discharge%20Readiness.pdf> · retrieved 2026-07-21 · sha256 `249a092ecdcd0c3f7172ddbcc040987fe9f95d18fc594ba495b79e1fa4c95ecd`
+- Source: <https://www.oregon.gov/oha/OSH/Policies/6.013%20Discharge%20and%20Conditional%20Release%20Planning/6.013%20Procedures%20A%20-%20Discharge%20Readiness.pdf> · retrieved 2026-09-09 · sha256 `249a092ecdcd0c3f7172ddbcc040987fe9f95d18fc594ba495b79e1fa4c95ecd`
 - Snapshot: `_meta/snapshots/oha-osh-6-013.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

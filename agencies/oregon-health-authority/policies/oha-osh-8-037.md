@@ -35,7 +35,7 @@ tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
-> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/8.037%20Patient%20Property%20and%20Valuables%20%28ADMINISTRATIVE%20DIRECTIVE%29/8.037%20Patient%20Property%20and%20Valuables.pdf> (retrieved 2026-07-21).
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/8.037%20Patient%20Property%20and%20Valuables%20%28ADMINISTRATIVE%20DIRECTIVE%29/8.037%20Patient%20Property%20and%20Valuables.pdf> (retrieved 2026-09-09).
 
 # Patient Property and Valuables (ADMINISTRATIVE DIRECTIVE) (OSH Policy 8.037)
 
@@ -145,6 +145,6 @@ VI.      FORMS
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oha/OSH/Policies/8.037%20Patient%20Property%20and%20Valuables%20%28ADMINISTRATIVE%20DIRECTIVE%29/8.037%20Patient%20Property%20and%20Valuables.pdf> · retrieved 2026-07-21 · sha256 `f9c7101956a2505c60b45b13082be24a27996cf3f670230dae74624c1f251daf`
+- Source: <https://www.oregon.gov/oha/OSH/Policies/8.037%20Patient%20Property%20and%20Valuables%20%28ADMINISTRATIVE%20DIRECTIVE%29/8.037%20Patient%20Property%20and%20Valuables.pdf> · retrieved 2026-09-09 · sha256 `f9c7101956a2505c60b45b13082be24a27996cf3f670230dae74624c1f251daf`
 - Snapshot: `_meta/snapshots/oha-osh-8-037.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

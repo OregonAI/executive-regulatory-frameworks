@@ -39,7 +39,7 @@ tags: ['oregon-youth-authority', 'policy']
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
-> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-E-1.0.pdf> (retrieved 2026-07-21).
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-E-1.0.pdf> (retrieved 2026-09-10).
 
 # Director's Incident Notification and Report (OYA Policy I-E-1.0)
 
@@ -243,6 +243,6 @@ Attachment A: OYA Notification Tree
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oya/policies/I-E-1.0.pdf> · retrieved 2026-07-21 · sha256 `ab1a732a54f1d291db1eac33cf8fd312b2f61b8f3bed6b3d89251355b4daa5cf`
+- Source: <https://www.oregon.gov/oya/policies/I-E-1.0.pdf> · retrieved 2026-09-10 · sha256 `ab1a732a54f1d291db1eac33cf8fd312b2f61b8f3bed6b3d89251355b4daa5cf`
 - Snapshot: `_meta/snapshots/oya-i-e-1-0.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

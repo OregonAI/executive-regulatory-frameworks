@@ -36,7 +36,7 @@ tags: ['oregon-youth-authority', 'policy']
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
-> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-D-3.16.pdf> (retrieved 2026-07-21).
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-D-3.16.pdf> (retrieved 2026-09-10).
 
 # Volunteer Services (OYA Policy I-D-3.16)
 
@@ -247,6 +247,6 @@ XI.     GENERAL PROCEDURE REQUIRED: YES
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oya/policies/I-D-3.16.pdf> · retrieved 2026-07-21 · sha256 `b0b1562f7cfe99e7be53166892a224596559fdb36cb65afcbac7f6fe25fc1fad`
+- Source: <https://www.oregon.gov/oya/policies/I-D-3.16.pdf> · retrieved 2026-09-10 · sha256 `b0b1562f7cfe99e7be53166892a224596559fdb36cb65afcbac7f6fe25fc1fad`
 - Snapshot: `_meta/snapshots/oya-i-d-3-16.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

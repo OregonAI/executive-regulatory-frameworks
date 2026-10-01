@@ -35,7 +35,7 @@ tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
-> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/6.053%20Education%20Services%20for%20Patients%20Under%2021/6.053%20-%20Procedures%20A%20-%20School%20Enrollment.pdf> (retrieved 2026-07-21).
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/6.053%20Education%20Services%20for%20Patients%20Under%2021/6.053%20-%20Procedures%20A%20-%20School%20Enrollment.pdf> (retrieved 2026-09-09).
 
 # Educational Services for Patients 18 through 21 Years of Age (OSH Policy 6.053)
 
@@ -123,6 +123,6 @@ V.        ATTACHMENTS
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oha/OSH/Policies/6.053%20Education%20Services%20for%20Patients%20Under%2021/6.053%20-%20Procedures%20A%20-%20School%20Enrollment.pdf> · retrieved 2026-07-21 · sha256 `e5896765a78da85d78645d2e777939cb4c43d832b1c0472774688d50b0955d51`
+- Source: <https://www.oregon.gov/oha/OSH/Policies/6.053%20Education%20Services%20for%20Patients%20Under%2021/6.053%20-%20Procedures%20A%20-%20School%20Enrollment.pdf> · retrieved 2026-09-09 · sha256 `e5896765a78da85d78645d2e777939cb4c43d832b1c0472774688d50b0955d51`
 - Snapshot: `_meta/snapshots/oha-osh-6-053.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

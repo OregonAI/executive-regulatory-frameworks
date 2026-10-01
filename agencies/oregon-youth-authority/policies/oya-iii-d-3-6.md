@@ -36,7 +36,7 @@ tags: ['oregon-youth-authority', 'policy']
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
-> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/III-D-3.6.pdf> (retrieved 2026-07-21).
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/III-D-3.6.pdf> (retrieved 2026-09-10).
 
 # Family Planning Services - Youth (OYA Policy III-D-3.6)
 
@@ -128,6 +128,6 @@ V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oya/policies/III-D-3.6.pdf> · retrieved 2026-07-21 · sha256 `1f3151490c4d9946ca7a0d6f194225e13eb80419de5c15c5448c487bc833af7e`
+- Source: <https://www.oregon.gov/oya/policies/III-D-3.6.pdf> · retrieved 2026-09-10 · sha256 `1f3151490c4d9946ca7a0d6f194225e13eb80419de5c15c5448c487bc833af7e`
 - Snapshot: `_meta/snapshots/oya-iii-d-3-6.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

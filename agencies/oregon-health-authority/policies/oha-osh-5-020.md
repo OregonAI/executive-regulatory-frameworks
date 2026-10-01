@@ -36,7 +36,7 @@ tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
-> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/5.020%20Staff%20and%20Adult%20in%20Custody%20Worker%20Relationships/5.020%20Staff%20and%20Adult%20in%20Custody%20Worker%20Relationships.pdf> (retrieved 2026-07-21).
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/5.020%20Staff%20and%20Adult%20in%20Custody%20Worker%20Relationships/5.020%20Staff%20and%20Adult%20in%20Custody%20Worker%20Relationships.pdf> (retrieved 2026-09-09).
 
 # Staff and Adult in Custody Worker Relationships (OSH Policy 5.020)
 
@@ -117,6 +117,6 @@ VI.      RELATED OSH POLICIES AND PROTOCOLS
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oha/OSH/Policies/5.020%20Staff%20and%20Adult%20in%20Custody%20Worker%20Relationships/5.020%20Staff%20and%20Adult%20in%20Custody%20Worker%20Relationships.pdf> · retrieved 2026-07-21 · sha256 `ed8a3a4858551e8e1bb09e305043fd3f1a2389134616fdb0b55257d83d3fbf9b`
+- Source: <https://www.oregon.gov/oha/OSH/Policies/5.020%20Staff%20and%20Adult%20in%20Custody%20Worker%20Relationships/5.020%20Staff%20and%20Adult%20in%20Custody%20Worker%20Relationships.pdf> · retrieved 2026-09-09 · sha256 `ed8a3a4858551e8e1bb09e305043fd3f1a2389134616fdb0b55257d83d3fbf9b`
 - Snapshot: `_meta/snapshots/oha-osh-5-020.pdf`
 - See [CHANGELOG](./CHANGELOG.md).
