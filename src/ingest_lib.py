@@ -4,6 +4,7 @@ never from model knowledge. Effective/version dates are NEVER updated automatica
 a changed source gets a TODO marker for human transcription."""
 import re
 import subprocess
+import sys
 from collections import Counter
 from pathlib import Path
 
@@ -166,6 +167,23 @@ def build_fulltext(fm: dict) -> tuple:
     return clean_pdf_text(raw, fm.get("agency"))
 
 
+def restamp_retrieved_prose(text: str, old_date: str, new_date: str) -> str:
+    """Re-stamp the two PROSE copies of a document's retrieval date (#424) the same way
+    `refresh_document()` already re-stamps the two spellings of the source hash: a global
+    string replace keyed on the exact old value, read from frontmatter before it is
+    overwritten.
+
+    The two prose spellings:
+      banner   (retrieved OLD_DATE).
+      prose    · retrieved OLD_DATE ·
+
+    Matched on the surrounding punctuation exactly as `src/provenance_dates.py` reads them
+    back, so a document this function has touched is one that gate reads as agreeing."""
+    text = text.replace(f"(retrieved {old_date})", f"(retrieved {new_date})")
+    text = text.replace(f"· retrieved {old_date} ·", f"· retrieved {new_date} ·")
+    return text
+
+
 def refresh_document(md_path: Path, today: str) -> str:
     """Re-fetch a document's source. Returns 'unchanged' | 'updated' | 'error: ...'.
     On change: refreshes snapshot (+.txt), frontmatter retrieved/source_sha256/
@@ -194,7 +212,10 @@ def refresh_document(md_path: Path, today: str) -> str:
         (SNAPSHOT_DIR / f"{snap_id}.txt").write_text(snapshot_text(raw), encoding="utf-8")
 
     text = md_path.read_text()
+    old_retrieved = fm.get("retrieved")
     text = re.sub(r'^retrieved: .*$', f'retrieved: "{today}"', text, count=1, flags=re.M)
+    if old_retrieved:
+        text = restamp_retrieved_prose(text, old_retrieved, today)
     text = text.replace(fm["source_sha256"], new_sha)
     fm["source_sha256"] = new_sha
     ft, conv = build_fulltext(fm)
@@ -217,3 +238,71 @@ def refresh_document(md_path: Path, today: str) -> str:
                       text, count=1, flags=re.M)
     md_path.write_text(text)
     return "updated"
+
+
+# ---------------------------------------------------------------- selftest
+
+def _selftest() -> int:
+    """`restamp_retrieved_prose()` in isolation, from strings only -- nothing here opens a
+    file for writing. `src/provenance_dates.py --check` is the corpus-wide half of this
+    proof (that every committed document's three dates actually agree); this is the unit
+    the fix lives in."""
+    fails = []
+    old, new = "2026-07-18", "2026-09-09"
+    fixture = (
+        '---\n'
+        'id: "example"\n'
+        f'retrieved: "{old}"\n'
+        'source_sha256: "aaaa"\n'
+        '---\n\n'
+        '> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of '
+        'the\n'
+        f'> official text. Verify against the official source: '
+        f'<https://example.invalid/x.pdf> (retrieved {old}).\n\n'
+        '## Provenance & change history\n\n'
+        f'- Source: <https://example.invalid/x.pdf> · retrieved {old} · '
+        'sha256 `aaaa`\n'
+    )
+
+    out = restamp_retrieved_prose(fixture, old, new)
+
+    if f"(retrieved {new})" not in out:
+        fails.append("FAIL the-banner-date-is-restamped: "
+                     f"{new!r} not found in the banner after restamping")
+    if f"· retrieved {new} ·" not in out:
+        fails.append("FAIL the-provenance-line-date-is-restamped: "
+                     f"{new!r} not found in the provenance line after restamping")
+    # Frontmatter is deliberately out of scope here -- refresh_document() re-stamps it
+    # itself, before calling this function -- so only the two PROSE occurrences are
+    # checked for leftover old dates, not the whole document.
+    prose_only = out.split("---\n", 2)[-1]
+    if old in prose_only:
+        fails.append(f"FAIL the-old-date-is-left-nowhere-in-prose: {old!r} still present "
+                     f"in the body after restamping")
+
+    # A DOCUMENT WITH NO PROSE DATES (frontmatter-only, e.g. one of the 26 that never
+    # carry the provenance line) must pass through unchanged rather than raise.
+    bare = f'---\nretrieved: "{old}"\n---\n\nno prose dates here.\n'
+    bare_out = restamp_retrieved_prose(bare, old, new)
+    if bare_out != bare:
+        fails.append("FAIL a-document-with-no-prose-dates-is-left-alone: "
+                     f"restamping a bare document changed it: {bare_out!r}")
+
+    for f in fails:
+        print(f)
+    if fails:
+        print(f"{len(fails)} rule(s) did not hold")
+        return 1
+    print("restamp_retrieved_prose(): banner and provenance-line dates both restamp, "
+          "a document with neither is left alone")
+    return 0
+
+
+def main() -> int:
+    if "--selftest" in sys.argv:
+        return _selftest()
+    sys.exit(__doc__)
+
+
+if __name__ == "__main__":
+    sys.exit(main())
