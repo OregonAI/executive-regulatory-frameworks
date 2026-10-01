@@ -214,6 +214,10 @@ def transmittal_doc_id(prof_number: str) -> str:
     return f"dhs-{prof_number.lower()}"
 
 
+# LEGAL STATUS - NOT-A-RULE: a Policy Transmittal is an agency change-announcement memo,
+# issued and withdrawn by ODHS itself, not filed in the Oregon Bulletin, so ADR 0006's
+# one-writer rule for a RULE's legal status does not reach the `status: current` below
+# (same reasoning as src/ingest_policies.py's identical marker for DAS policies).
 def doc_markdown(prof_number: str, program: str, row: dict, url: str, sha: str,
                  raw_text: str, parsed: dict) -> tuple[str, str]:
     doc_id = transmittal_doc_id(prof_number)

@@ -74,12 +74,12 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Department of Fish and Wildlife | executive branch | unknown | 1770 | 1770 | 0 | 0 | — |
 | Department of Forestry | executive branch | unknown | 606 | 606 | 0 | 0 | — |
 | Department of Geology and Mineral Industries | executive branch | unknown | 225 | 225 | 0 | 0 | — |
-| [Department of Human Services](department-of-human-services/_index.md) | executive branch | web | 173 | 173 | 0 | 0 | 2026-07-21 |
-| Department of Human Services, Aging and People with Disabilities and Developmental Disabilities | executive branch | unknown | 1099 | 1099 | 0 | 0 | 2026-07-21 |
-| Department of Human Services, Child Welfare Programs | executive branch | unknown | 764 | 764 | 0 | 0 | 2026-07-21 |
-| Department of Human Services, Home Care Commission | executive branch | unknown | 24 | 24 | 0 | 0 | 2026-07-21 |
-| Department of Human Services, Self-Sufficiency Programs | executive branch | unknown | 565 | 565 | 0 | 0 | 2026-07-21 |
-| Department of Human Services, Vocational Rehabilitation Services | executive branch | unknown | 106 | 106 | 0 | 0 | 2026-07-21 |
+| [Department of Human Services](department-of-human-services/_index.md) | executive branch | web | 198 | 198 | 0 | 0 | 2026-10-01 |
+| Department of Human Services, Aging and People with Disabilities and Developmental Disabilities | executive branch | unknown | 1099 | 1099 | 0 | 0 | 2026-10-01 |
+| Department of Human Services, Child Welfare Programs | executive branch | unknown | 764 | 764 | 0 | 0 | 2026-10-01 |
+| Department of Human Services, Home Care Commission | executive branch | unknown | 24 | 24 | 0 | 0 | 2026-10-01 |
+| Department of Human Services, Self-Sufficiency Programs | executive branch | unknown | 565 | 565 | 0 | 0 | 2026-10-01 |
+| Department of Human Services, Vocational Rehabilitation Services | executive branch | unknown | 106 | 106 | 0 | 0 | 2026-10-01 |
 | Department of Justice | executive branch | unknown | 769 | 769 | 0 | 0 | — |
 | Department of Public Safety Standards and Training | executive branch | unknown | 189 | 189 | 0 | 0 | — |
 | Department of Revenue | executive branch | unknown | 1026 | 1026 | 0 | 0 | — |
