@@ -167,20 +167,29 @@ def build_fulltext(fm: dict) -> tuple:
     return clean_pdf_text(raw, fm.get("agency"))
 
 
+_BANNER_DATE_RE = re.compile(r'(\(retrieved )\d{4}-\d{2}-\d{2}([,)])')
+_PROSE_DATE_RE = re.compile(r'(· retrieved )\d{4}-\d{2}-\d{2}( ·)')
+
+
 def restamp_retrieved_prose(text: str, old_date: str, new_date: str) -> str:
     """Re-stamp the two PROSE copies of a document's retrieval date (#424) the same way
-    `refresh_document()` already re-stamps the two spellings of the source hash: a global
-    string replace keyed on the exact old value, read from frontmatter before it is
-    overwritten.
+    `refresh_document()` already re-stamps the two spellings of the source hash.
 
     The two prose spellings:
-      banner   (retrieved OLD_DATE).
-      prose    · retrieved OLD_DATE ·
+      banner   (retrieved D).            or   (retrieved D, 2025 Edition).
+      prose    · retrieved D ·
 
-    Matched on the surrounding punctuation exactly as `src/provenance_dates.py` reads them
-    back, so a document this function has touched is one that gate reads as agreeing."""
-    text = text.replace(f"(retrieved {old_date})", f"(retrieved {new_date})")
-    text = text.replace(f"· retrieved {old_date} ·", f"· retrieved {new_date} ·")
+    Matched on the surrounding punctuation exactly as `src/provenance_dates.py` reads
+    them back (BANNER_RE allows a trailing qualifier before the close-paren, for the
+    statute/constitution "D, 2025 Edition" spelling), so a document this function has
+    touched is one that gate reads as agreeing. Unlike a plain string replace keyed on
+    `old_date`, this replaces WHATEVER date currently sits in each spelling -- so a
+    document whose prose already disagrees with frontmatter (the 25 executive orders
+    recovered #424's non-finding showed, or any future hand-edited document) is restamped
+    too, not silently skipped because its prose date never equaled `old_date`.
+    `old_date` is accepted for backward compatibility but no longer consulted."""
+    text = _BANNER_DATE_RE.sub(rf'\g<1>{new_date}\g<2>', text)
+    text = _PROSE_DATE_RE.sub(rf'\g<1>{new_date}\g<2>', text)
     return text
 
 
@@ -287,6 +296,43 @@ def _selftest() -> int:
     if bare_out != bare:
         fails.append("FAIL a-document-with-no-prose-dates-is-left-alone: "
                      f"restamping a bare document changed it: {bare_out!r}")
+
+    # A DOCUMENT WHOSE PROSE ALREADY DISAGREES WITH `old_date` (the 25 executive orders'
+    # shape before they were corrected, or any hand-edited document) must still be
+    # restamped to `new_date` -- a plain string replace keyed on `old_date` would skip it
+    # silently, leaving the gate to catch it only after the fact.
+    already_ahead = "2026-08-02"
+    disagreeing = (
+        '---\n'
+        f'retrieved: "{old}"\n'
+        '---\n\n'
+        f'> Verify against the official source: <https://example.invalid/x.pdf> '
+        f'(retrieved {already_ahead}).\n\n'
+        '## Provenance & change history\n\n'
+        f'- Source: <https://example.invalid/x.pdf> · retrieved {already_ahead} · '
+        'sha256 `aaaa`\n'
+    )
+    disagreeing_out = restamp_retrieved_prose(disagreeing, old, new)
+    if f"(retrieved {new})" not in disagreeing_out:
+        fails.append("FAIL a-prose-date-already-disagreeing-with-old-date-is-restamped: "
+                     f"banner not moved to {new!r}: {disagreeing_out!r}")
+    if f"· retrieved {new} ·" not in disagreeing_out:
+        fails.append("FAIL a-prose-date-already-disagreeing-with-old-date-is-restamped: "
+                     f"provenance line not moved to {new!r}: {disagreeing_out!r}")
+
+    # THE STATUTE/CONSTITUTION BANNER SPELLING: "(retrieved D, 2025 Edition)" must
+    # restamp too, keeping its trailing qualifier rather than losing it or failing to match.
+    qualified = (
+        '---\n'
+        f'retrieved: "{old}"\n'
+        '---\n\n'
+        f'> Verify against the official source: <https://example.invalid/ors1.html> '
+        f'(retrieved {old}, 2025 Edition).\n'
+    )
+    qualified_out = restamp_retrieved_prose(qualified, old, new)
+    if f"(retrieved {new}, 2025 Edition)" not in qualified_out:
+        fails.append("FAIL a-qualified-statute-banner-is-restamped-keeping-its-qualifier: "
+                     f"expected '(retrieved {new}, 2025 Edition)' in {qualified_out!r}")
 
     for f in fails:
         print(f)

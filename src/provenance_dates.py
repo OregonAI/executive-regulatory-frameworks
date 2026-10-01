@@ -19,23 +19,21 @@ was written for (#253), except for the retrieval date rather than the hash. Re-m
 — every one a document `refresh_document()` re-ingested a second time, worst case
 `rules/414` with 44.
 
-A STRICTLY OLDER prose date is the bug: it means a later refresh updated frontmatter and
-left prose behind. That is what `--check` fails on.
-
-A STRICTLY NEWER banner date is NOT this bug, and `--check` does not fail on it. 25
-`executive-orders/*.md` documents carry a banner date ahead of frontmatter (and of the
-provenance line, which still agrees with frontmatter) — all from one commit
-(e1723c7f46, "Corroborate every OCR'd executive order with a second engine"), which
-re-fetched each order's PDF and ran a second OCR engine over the ALREADY-COMMITTED text
-to corroborate it, without replacing that text (`source_sha256` is unchanged, by design —
-the hash commits to the committed reading, not to whichever engine's output happens to
-agree with it this week). The banner's date was hand-advanced to record that
-re-verification; the frontmatter and provenance-line dates correctly still name the
-retrieval that produced the current sha. This is a real distinction this corpus's data
-model does not have a field for yet (a "last verified unchanged" date beside "last
-changed"), not a failure to re-stamp — rewriting those 25 banners back to the earlier
-date would make the corpus LESS accurate, not more. `--check` reports the count so it
-stays visible rather than silently excluded.
+A prose date that DISAGREES with frontmatter in EITHER direction is the bug: `--check`
+fails on `!=`, not only on strictly-older. An earlier version of this module treated a
+banner date strictly AHEAD of frontmatter as a deliberate, non-failing case — supposedly
+25 `executive-orders/*.md` documents where one commit "re-verified already-committed text
+... without changing it". That account was false: all 25 are metadata stubs that commit
+9662ead1f1 (15, 2026-07-25) or e1723c7f46 (10, 2026-08-02) gave their FIRST machine-
+readable full text, OCR'd from a freshly re-fetched PDF — `content_mode` moved from
+`summary` to `verbatim` and `source_sha256` changed (e.g. `eo-19-07`
+`0656a47c9e4da0461d755aa409f2440abe5ee54d85b0fc0ddcfa390e80b619d7` ->
+`053407585252e5ad7e0691c858ac4a710bdaddbbf89fd46af7d4c1fc55c6b374`). Frontmatter
+`retrieved` and the provenance line were simply never re-stamped to the date that fetch
+actually happened on — the #424 bug in the opposite direction, frontmatter and the
+provenance line left behind a banner date that moved on. Those 25 have been corrected to
+agree (frontmatter and the provenance line now read the banner's date), and the gate no
+longer special-cases "ahead".
 
 NOTHING HERE OPENS A FILE FOR WRITING, and every rule is decided from the document's text
 alone -- so `--selftest` fires each one against a MUTATED COPY of a committed document
@@ -50,8 +48,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from repo_lib import REPO_ROOT, content_files  # noqa: E402
 
 # THE THREE SPELLINGS, declared here and nowhere else in this module.
-FM_RE = re.compile(r'^retrieved: "(\d{4}-\d{2}-\d{2})"$', re.M)
-BANNER_RE = re.compile(r'\(retrieved (\d{4}-\d{2}-\d{2})\)')
+# FM_RE: quotes are optional and either style — 74 content documents are single-quoted.
+FM_RE = re.compile(r'^retrieved: [\'"]?(\d{4}-\d{2}-\d{2})[\'"]?\s*$', re.M)
+# BANNER_RE: the date may be followed by a trailing qualifier before the close-paren —
+# statute and constitution banners read "(retrieved D, 2025 Edition)" or
+# "(retrieved D, in effect following ...)" (~37,870 documents), not just "(retrieved D)".
+BANNER_RE = re.compile(r'\(retrieved (\d{4}-\d{2}-\d{2})[,)]')
 PROSE_RE = re.compile(r'· retrieved (\d{4}-\d{2}-\d{2}) ·')
 
 _FIRED: set[str] = set()
@@ -86,21 +88,21 @@ def findings(site: str, text: str) -> list:
     if fm is None:
         return out
 
-    # THE #424 BUG: a prose date left behind a frontmatter date that moved past it.
-    # A date AHEAD of frontmatter is a different, deliberately-not-failed case -- see
-    # the module docstring -- so both comparisons below are strict less-than, never !=.
-    if banner and banner < fm:
+    # THE #424 BUG, either direction: a prose date that disagrees with frontmatter at
+    # all, not only one left strictly behind -- see the module docstring for why "ahead"
+    # is not a safe case to carve out.
+    if banner and banner != fm:
         out.append(Failure(
-            "the-banners-retrieved-date-is-not-behind-frontmatter", site,
+            "the-banners-retrieved-date-does-not-match-frontmatter", site,
             f"frontmatter publishes retrieved \"{fm}\" but the non-authoritative banner "
-            f"still reads (retrieved {banner}) — a reader following the banner sees a "
-            f"stale retrieval date while frontmatter has already moved on"))
+            f"reads (retrieved {banner}) — a reader following the banner sees a "
+            f"different retrieval date than frontmatter"))
 
-    if prose and prose < fm:
+    if prose and prose != fm:
         out.append(Failure(
-            "the-provenance-lines-retrieved-date-is-not-behind-frontmatter", site,
-            f"frontmatter publishes retrieved \"{fm}\" but the provenance line still "
-            f"reads retrieved {prose} — the same staleness, on the line "
+            "the-provenance-lines-retrieved-date-does-not-match-frontmatter", site,
+            f"frontmatter publishes retrieved \"{fm}\" but the provenance line "
+            f"reads retrieved {prose} — a disagreement on the line "
             f"provenance_spelling.py's docstring calls \"the one a reader actually "
             f"follows\""))
 
@@ -108,8 +110,12 @@ def findings(site: str, text: str) -> list:
 
 
 def survey():
-    """(findings, checked, banner_ahead, prose_ahead) over every content document."""
-    out, checked, banner_ahead, prose_ahead = [], 0, 0, 0
+    """(findings, checked, no_banner_match, no_prose_match) over every content document.
+    The last two count documents with a frontmatter retrieved date but no BANNER_RE /
+    PROSE_RE match at all (e.g. a banner spelling this module's regexes don't yet cover)
+    -- those are never compared, so --check reports how many were skipped rather than
+    silently folding them into "checked"."""
+    out, checked, no_banner_match, no_prose_match = [], 0, 0, 0
     for p in content_files():
         rel = p.relative_to(REPO_ROOT)
         text = p.read_text(encoding="utf-8", errors="replace")
@@ -117,16 +123,16 @@ def survey():
         if fm is None:
             continue
         checked += 1
-        if banner and banner > fm:
-            banner_ahead += 1
-        if prose and prose > fm:
-            prose_ahead += 1
+        if banner is None:
+            no_banner_match += 1
+        if prose is None:
+            no_prose_match += 1
         out.extend(findings(str(rel), text))
-    return out, checked, banner_ahead, prose_ahead
+    return out, checked, no_banner_match, no_prose_match
 
 
 def cmd_check() -> int:
-    bad, checked, banner_ahead, prose_ahead = survey()
+    bad, checked, no_banner_match, no_prose_match = survey()
     if bad:
         for f in bad[:20]:
             print(f)
@@ -136,11 +142,9 @@ def cmd_check() -> int:
               f"frontmatter retrieved date.")
         return 1
     print(f"provenance dates: {checked} content document(s) carry a frontmatter "
-          f"retrieved date; no prose copy is behind it. {banner_ahead} carry a banner "
-          f"date AHEAD of frontmatter (verified-without-content-change events — see this "
-          f"module's docstring; not a finding) and {prose_ahead} carry a provenance-line "
-          f"date ahead (none at this writing — the provenance line has never been "
-          f"observed ahead of frontmatter in this corpus, only behind or equal).")
+          f"retrieved date; every banner or provenance-line date found agrees with it. "
+          f"{no_banner_match} document(s) had no banner this module's spelling matches "
+          f"(never compared) and {no_prose_match} had no provenance line (never compared).")
     return 0
 
 
@@ -173,6 +177,34 @@ def _case_clean(fails: list, name: str, site: str, text: str) -> None:
         fails.append(f"FAIL {name}: expected no finding, got {got}")
 
 
+def _committed_statute() -> tuple:
+    """A real committed statute or constitution document, whose banner is spelled
+    "(retrieved D, 2025 Edition)" / "(retrieved D, in effect following ...)" rather than
+    the bare "(retrieved D)" `rules/oar-*.md` use -- proving BANNER_RE against the
+    spelling ~37,870 documents actually carry, not just the one _committed() finds."""
+    for root in ("statutes", "constitution"):
+        for p in (REPO_ROOT / root).rglob("*.md"):
+            text = p.read_text(encoding="utf-8", errors="replace")
+            fm, banner, prose = dates(text)
+            if fm and banner and prose and fm == banner == prose:
+                return str(p.relative_to(REPO_ROOT)), text
+    raise SystemExit("no committed statute/constitution document carries all three "
+                     "retrieved dates in agreement")
+
+
+def _committed_single_quoted() -> tuple:
+    """A real committed content document whose frontmatter `retrieved` is single-quoted
+    -- 74 documents are -- proving FM_RE against that spelling too."""
+    for p in content_files():
+        text = p.read_text(encoding="utf-8", errors="replace")
+        if re.search(r"^retrieved: '\d{4}-\d{2}-\d{2}'$", text, re.M):
+            fm, banner, prose = dates(text)
+            if fm and banner and prose and fm == banner == prose:
+                return str(p.relative_to(REPO_ROOT)), text
+    raise SystemExit("no committed single-quoted-retrieved document carries all three "
+                     "retrieved dates in agreement")
+
+
 def cmd_selftest() -> int:
     fails = []
     site, text = _committed()
@@ -186,36 +218,59 @@ def cmd_selftest() -> int:
     # THE CASE #424 PRODUCED: a prose date left behind after frontmatter moved on.
     banner_stale = BANNER_RE.sub(f"(retrieved {older})", text, count=1)
     _case(fails, "a-banner-date-left-behind-frontmatter-is-caught",
-          "the-banners-retrieved-date-is-not-behind-frontmatter", site, banner_stale)
+          "the-banners-retrieved-date-does-not-match-frontmatter", site, banner_stale)
 
     prose_stale = PROSE_RE.sub(f"· retrieved {older} ·", text, count=1)
     _case(fails, "a-provenance-line-date-left-behind-frontmatter-is-caught",
-          "the-provenance-lines-retrieved-date-is-not-behind-frontmatter", site, prose_stale)
+          "the-provenance-lines-retrieved-date-does-not-match-frontmatter", site, prose_stale)
 
     # BOTH AT ONCE must fire both rules, not just the first one found.
     both_stale = PROSE_RE.sub(f"· retrieved {older} ·", banner_stale, count=1)
     got_both = {f.rule for f in findings(site, both_stale)}
-    expected_both = {"the-banners-retrieved-date-is-not-behind-frontmatter",
-                     "the-provenance-lines-retrieved-date-is-not-behind-frontmatter"}
+    expected_both = {"the-banners-retrieved-date-does-not-match-frontmatter",
+                     "the-provenance-lines-retrieved-date-does-not-match-frontmatter"}
     if got_both != expected_both:
         fails.append(f"FAIL both-prose-dates-stale-fires-both-rules: "
                      f"expected {sorted(expected_both)}, got {sorted(got_both)}")
 
-    # THE DELIBERATE NON-FINDING: a banner date AHEAD of frontmatter (the 25
-    # executive-orders shape) must not fail the gate. Proving this is proving the
-    # design decision, not an oversight -- see the module docstring.
+    # THE 25 EXECUTIVE-ORDERS SHAPE: a banner date AHEAD of frontmatter IS a finding
+    # (the opposite-direction #424 bug — see the module docstring). An earlier version of
+    # this gate carved "ahead" out as deliberate; that was wrong, and this case locks in
+    # the correction instead.
     newer = "2099-01-01"
     banner_ahead = BANNER_RE.sub(f"(retrieved {newer})", text, count=1)
-    _case_clean(fails, "a-banner-date-ahead-of-frontmatter-is-not-a-finding",
-                site, banner_ahead)
+    _case(fails, "a-banner-date-ahead-of-frontmatter-is-caught",
+          "the-banners-retrieved-date-does-not-match-frontmatter", site, banner_ahead)
+
+    # THE STATUTE/CONSTITUTION BANNER SPELLING: "(retrieved D, 2025 Edition)" /
+    # "(retrieved D, in effect following ...)", not the bare "(retrieved D)" rules use.
+    # BANNER_RE must still match it, and still catch a stale date inside it.
+    stat_site, stat_text = _committed_statute()
+    stat_stale = BANNER_RE.sub(f"(retrieved {older},", stat_text, count=1)
+    _case(fails, "a-statute-banners-qualified-date-left-behind-is-caught",
+          "the-banners-retrieved-date-does-not-match-frontmatter", stat_site, stat_stale)
+
+    # THE SINGLE-QUOTED FRONTMATTER SPELLING: `retrieved: 'D'`, not only `retrieved: "D"`.
+    sq_site, sq_text = _committed_single_quoted()
+    _case_clean(fails, "a-single-quoted-frontmatter-document-produces-no-finding-unmutated",
+                sq_site, sq_text)
+    sq_stale = BANNER_RE.sub(f"(retrieved {older})", sq_text, count=1)
+    _case(fails, "a-single-quoted-frontmatter-documents-banner-mismatch-is-caught",
+          "the-banners-retrieved-date-does-not-match-frontmatter", sq_site, sq_stale)
 
     # NOTHING IN THIS PROOF WROTE TO THE WORKING TREE (#252).
     if (REPO_ROOT / site).read_text() != text:
         fails.append("FAIL nothing-in-this-proof-wrote-to-the-working-tree: "
                      f"{site} changed while the selftest ran")
+    if (REPO_ROOT / stat_site).read_text() != stat_text:
+        fails.append("FAIL nothing-in-this-proof-wrote-to-the-working-tree: "
+                     f"{stat_site} changed while the selftest ran")
+    if (REPO_ROOT / sq_site).read_text() != sq_text:
+        fails.append("FAIL nothing-in-this-proof-wrote-to-the-working-tree: "
+                     f"{sq_site} changed while the selftest ran")
 
-    declared = {"the-banners-retrieved-date-is-not-behind-frontmatter",
-                "the-provenance-lines-retrieved-date-is-not-behind-frontmatter"}
+    declared = {"the-banners-retrieved-date-does-not-match-frontmatter",
+                "the-provenance-lines-retrieved-date-does-not-match-frontmatter"}
     unfired = declared - _FIRED
     if unfired:
         fails.append(f"FAIL every-declared-rule-was-watched-firing: {sorted(unfired)} "
