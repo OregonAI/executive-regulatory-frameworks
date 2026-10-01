@@ -30,14 +30,19 @@ Computed by [`src/build_dhs_transmittal_freshness.py`](../src/build_dhs_transmit
 from each transmittal's own `announces` field (extracted only from its own "Policy/rule
 numbers:" form field — never its subject line, per AGENTS.md's anti-fabrication rule):
 
-| Bar leg | Measured | Bar | Result |
+| Row | Measured | Bar | Result |
 |---|---|---|---|
-| 1. % of DHS policies resolved | **0 / 17 (0%)** | ≥ 50% | **FAIL** |
+| Policies referenced (the pilot set's own citations) | **0** | — | — |
+| 1. % of DHS policies **it references** resolved | **0 / 0 (undefined)** | ≥ 50% | **FAIL (vacuous)** |
+| 1b. for context: % of all 17 held DHS policies resolved | 0 / 17 (0%) | — | — |
 | 2. policies surfaced as demonstrably stale | **0** | ≥ 1 | **FAIL** |
 
 **Both legs fail.** All 25 ingested transmittals' `announces` field is `[]`: every one
 cites an OAR rule chapter/division, a Collective Bargaining Agreement, or another APD
-transmittal in its own "Policy/rule numbers:" field — never a `dhs-0XX-0XX` id.
+transmittal in its own "Policy/rule numbers:" field — never a `dhs-0XX-0XX` id. Leg 1 is
+the issue's own bar (quoted above): because the pilot set references zero of the 17 held
+policies, that leg fails vacuously (0/0), a stronger statement than "0/17" — row 1b is
+reported only for context, not as a substitute denominator.
 
 ## Why, not just that
 
