@@ -317,6 +317,15 @@ GATES = (
     Gate('...and that rule must be able to fail (DAS policies catalog rebuild)',
          ('python3', 'src/catalog_das_policies.py', '--selftest'),
          tier='pr', serial=True, timeout=120),
+    Gate('DHS transmittal "Policy/rule numbers" -> announces extraction must be able to fail',
+         ('python3', 'src/ingest_transmittals.py', '--selftest'),
+         tier='pr', serial=True, timeout=120),
+    Gate('DHS transmittal freshness dataset must match the corpus (issue #79 pilot)',
+         ('python3', 'src/build_dhs_transmittal_freshness.py', '--check'),
+         tier='pr', serial=False, timeout=120),
+    Gate('DHS transmittal freshness join/bar logic must be able to fail',
+         ('python3', 'src/build_dhs_transmittal_freshness.py', '--selftest'),
+         tier='pr', serial=True, timeout=120),
 )
 
 
