@@ -53,6 +53,16 @@ content_roots:
       # frontmatter `agency:` field, so this is where someone asking "how long must DEQ keep
       # this?" actually looks.
       schedules: schedule
+      # Policy Transmittals (issue #79 pilot) — an ODHS program's change-announcement
+      # memos, scoped under the agency the transmittal was issued BY (same convention as
+      # `policies`). Distinct from `policy`: a transmittal announces that a policy
+      # changed, it does not restate the policy, so folding it into `policy` would answer
+      # "what is DHS policy on X" with the wrong kind of document (see the grilling
+      # comment on #79). The freshness signal a transmittal supplies for the policies it
+      # `announces` is a build-time join (`src/build_dhs_transmittal_freshness.py`), per
+      # docs/adr/0001-transmittal-dates-are-computed-never-stored.md — nothing is written
+      # back into policy frontmatter.
+      transmittals: transmittal
 
 # DOC TYPES THIS CORPUS ADDS to the shared schema's enum (corpus-toolkit#40).
 #
@@ -64,6 +74,8 @@ content_roots:
 schema:
   doc_types:
     - name: constitutional_provision
+      verbatim: true
+    - name: transmittal
       verbatim: true
 
 plugins:
