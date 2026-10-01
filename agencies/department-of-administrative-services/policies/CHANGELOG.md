@@ -69,7 +69,7 @@ file's frontmatter).
   The actual listing of record — 14 category views on the SharePoint library
   /das/Policies (incl. all 8 HR views behind policieshr.aspx) — carries **143 rows**;
   the repo held 29. Listing now consumed from its anonymous REST data source (endpoint,
-  view GUIDs, and normalized rows in `_meta/snapshots/das-policies-listing.json`).
+  view GUIDs, and normalized rows in `_meta/snapshots/department-of-administrative-services-policies-listing.json`).
 - Reconciliation of the 29 previously-ingested policies against the listing found zero
   URL or date drift. 107-011-050_PR is not in any view (linked statically from the
   Surplus section) — noted in the catalog, kept.

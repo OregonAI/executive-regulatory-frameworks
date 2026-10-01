@@ -10,6 +10,24 @@ corpus-wide changes from 2026-08-02 forward.
 
 ## [Unreleased]
 
+### Fixed
+- 2026-10-01 — **The dead `das-policies-listing.json` citation, and its root cause (#425).**
+  Re-measured: 99 DAS policy/procedure documents (88 `policies/`, 11 `procedures/`) still
+  cited the pre-rename snapshot filename `_meta/snapshots/das-policies-listing.json` —
+  renamed to `department-of-administrative-services-policies-listing.json` by
+  `rename_agency_slug.py` back in e71034a168 (2026-07-18), which moved the file itself but
+  never touched the prose reference to its old name inside the documents it had just moved.
+  The issue's own ~93 estimate undercounted; a hand-fix in #426 never landed (its diff
+  touched the listing snapshot and catalog, not these documents). All 99 mechanically
+  rewritten to the current filename; `grep -rl das-policies-listing.json` (outside
+  `CHANGELOG.md`/history) now returns nothing.
+
+  Root cause closed in `rename_agency_slug.py`: after renaming
+  `_meta/snapshots/<old>-*.json`, a new pass rewrites every `_meta/snapshots/<old-name>`
+  prose reference inside the renamed agency tree to the new filename, via a
+  `rewrite_snapshot_prose()` helper with its own `--selftest` (also a new gate) proving the
+  rewrite fires and leaves unrelated text alone.
+
 ### Source-Updated
 - 2026-09-10 — **The remaining OAR rules: 54 ordinary re-ingests plus 3 live Columbia River
   Gorge Commission rules** (final group of the re-ingest queue except the repeals, below).
