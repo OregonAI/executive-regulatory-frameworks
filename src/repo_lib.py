@@ -159,6 +159,8 @@ DIR_DOC_TYPE = {
     # config — so a doc_type added to corpus.yml and not here passes every toolkit gate
     # while being invisible to all ~30 `--check` scripts. Both must move together.
     "schedules": "schedule",
+    # Policy Transmittals pilot (#79) — see _meta/corpus.yml's matching comment.
+    "transmittals": "transmittal",
 }
 JURISDICTION_WIDE_DIRS = {"statutes", "rules", "executive-orders", "external-references",
                           "constitution"}

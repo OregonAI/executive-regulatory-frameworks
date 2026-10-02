@@ -1592,6 +1592,7 @@ by directory:
 - `agencies/department-of-geology-and-mineral-industries/schedules/`: 1 documents
 - `agencies/department-of-human-services/policies/`: 17 documents
 - `agencies/department-of-human-services/schedules/`: 4 documents
+- `agencies/department-of-human-services/transmittals/`: 25 documents
 - `agencies/department-of-justice/schedules/`: 1 documents
 - `agencies/department-of-public-safety-standards-and-training/schedules/`: 1 documents
 - `agencies/department-of-revenue/schedules/`: 1 documents

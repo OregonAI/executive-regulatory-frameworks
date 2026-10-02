@@ -1,0 +1,264 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: dhs-apd-pt-26-011
+title: "Impacts of HR1 Non-Citizen Changes to OPI-M Consumers"
+doc_type: transmittal
+citation: "ODHS Policy Transmittal APD-PT-26-011"
+authority_level: agency_guidance
+issuing_body: "Oregon Department of Human Services, Aging and People with Disabilities"
+agency: department-of-human-services
+legal_authority: []
+source_url: "https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26011.pdf"
+source_format: pdf
+retrieved: "2026-10-01"
+source_sha256: "ff6b6c4ba85031f47de31261cefeb751b309995908b642ec44f8037c0d18ebb3"
+effective_date: null
+last_reviewed: null
+source_version: ""
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: ""
+last_verified: ""
+verified_by: ""
+maintainer: "@morficflux"
+announces: []
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['department-of-human-services', 'transmittal', 'apd']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26011.pdf> (retrieved 2026-10-01).
+
+# Impacts of HR1 Non-Citizen Changes to OPI-M Consumers (APD-PT-26-011)
+
+## At a glance
+
+ODHS Policy Transmittal APD-PT-26-011 — Impacts of HR1 Non-Citizen Changes to OPI-M Consumers. Oregon Department of Human Services, Aging and People with Disabilities.
+
+## Full text
+
+Policy Transmittal
+
+Aging and People with Disabilities                               Number: APD-PT-26-011
+Authorized by: Jane-ellen Weidanz
+Issue date: 9/11/2026
+Subject: Impacts of HR1 Non-Citizen Changes to OPI-M Consumers
+
+Transmitting (check the box that best applies)
+
+       New policy         Policy change         Policy clarification    Executive letter
+       Administrative Rule          Manual update             Other:
+
+Applies to (check all that apply):
+
+        All ODHS employees                                County DD Program Managers
+        Aging and People with Disabilities                Developmental Disabilities Services
+        Area Agencies on Aging: Type A and B              Self-Sufficiency Programs
+        Child Welfare Division                            Support Service Brokerage Directors
+        Children’s Intensive In Home Services             Stabilization and Crisis Unit
+        Children’s Residential Services                   Other (please specify): Enter Text
+
+Policy/rule title:
+Policy/rule numbers:
+Release number:
+Effective date:
+Expiration date:
+References:
+Web address:
+
+Discussion/interpretation
+Federal House Resolution 1 changes which citizenship and immigration statuses
+qualify for federal Medicaid funding beginning October 1, 2026. For more
+information on changes under this law please refer to OEP-PT-26-027.
+Many noncitizens who qualify under current federal eligibility requirements,
+including many refugees, asylees, humanitarian parolees, and survivors of
+trafficking or domestic violence, will no longer meet the federal citizenship or
+immigration-status requirements for Medicaid coverage. This includes some
+individuals currently eligible for Oregon Project Independence-Medicaid (OPI-M).
+
+
+Because OPI-M is federally funded through Oregon’s Medicaid 1115
+demonstration, these changes affect some current OPI-M consumers and some
+people who apply for OPI-M before and after October 1, 2026. Eligibility for OPI-M
+is determined outside the ONE system requiring manual review, verification, and
+program transition.
+
+
+Aging and People with Disabilities is identifying affected consumers to avoid
+unnecessary disruption in services and will be working with Area Agencies on
+Aging (AAAs) and consumers to identify other service options that may be
+available.
+
+
+Identification and verification of current OPI-M consumers
+
+
+APD OPI-M Analysts and Central Office Financial Eligibility staff are conducting a
+statewide review of the OPI-M caseload to identify consumers whose eligibility
+may be affected by the new federal requirements. Through this review, most
+individuals have been determined to meet the new H.R. 1 citizenship or qualified
+non-citizen requirements and will see no change in eligibility. However, APD
+believes there is less than 30 consumers who may be impacted at this time.
+
+
+If after the central office review, APD is still unable to verify the individual’s
+immigrant status, APD will contact the consumer directly to give them an
+opportunity to provide additional information or documentation.
+Consumers who do not meet the new citizenship or qualified immigration-status
+requirements will receive written notice that their OPI-M benefits will close
+effective September 30th, 2026. The notice will explain the reason for the closure,
+the consumer’s hearing rights, and potential alternative programs or services.
+Individuals who disagree with APD’s determination will be given a reasonable
+opportunity period before their OPI-M benefits are closed. Applicable notice and
+hearing rights also apply.
+
+
+Consumers applying for OPI-M before October 1, 2026
+
+
+OPI-M remains available under the current eligibility requirements through
+September 30, 2026. However, a consumer who qualifies under the current
+requirements may have an immigration status that will no longer qualify for
+federally funded OPI-M beginning October 1, 2026.
+
+
+Case managers must not discourage an otherwise eligible consumer from
+applying for OPI-M before October 1, 2026. Case managers must provide options
+counseling during the application and service-planning process, so the consumer
+understands that:
+  • The consumer may qualify for OPI-M under the current requirements but
+     may not remain eligible after September 30, 2026;
+  • APD will review the consumer’s citizenship or immigration status under the
+     new federal requirements on October 1, 2026;
+  • Other service options may be available if OPI-M cannot continue; and
+  • Applying for or receiving OPI-M does not prevent the consumer from being
+     evaluated for another program when appropriate.
+The purpose of this counseling is to provide clear information about the
+upcoming change so consumers can make informed decisions and begin
+considering other service options before a transition becomes necessary.
+
+
+Consumers applying for OPI-M AFTER October 1, 2026
+Eligibility case managers processing applications for OPI-M should familiarize
+themselves with the HR1 non-citizen eligibility changes. Ensure that all eligibility
+requirements including citizenship or immigration status are met prior to
+approving OPI-M eligibility
+
+
+Healthier Oregon, State Plan Personal Care and LTSS
+Healthier Oregon is a medical program available to some individuals who will lose
+OPI-M coverage as part of these changes. Healthier Oregon does not apply the
+federal qualified immigration-status requirement. It may provide medical
+coverage and Medicaid long-term services and supports to consumers who meet
+the applicable financial and service eligibility requirements. However, Healthier
+Oregon does not use the expanded financial and service eligibility requirements
+available under OPI-M. Individuals who are eligible for Healthier Oregon may also
+be eligible for Healthier Oregon State Plan Personal Care (HO-SPPC) or Healthier
+Oregon Long Term Services and Supports benefits (HO-LTSS).
+
+
+An OPI-M consumer who will lose OPI-M eligibility must be assessed for potential
+eligibility for Healthier Oregon, HO-SPPC and HO-LTSS. These programs may
+provide a pathway to continued in-home support. Eligibility must be determined
+based on the consumer’s individual circumstances. Eligibility for Healthier Oregon
+does not automatically establish eligibility for SPPC or LTSS.
+
+
+A consumer receiving Healthier Oregon cannot concurrently receive OPI-M or
+Oregon Project Independence-Classic (OPI-C).
+OPI-C as a potential option
+OPI-C may be an option for some consumers who cannot continue receiving OPI-
+M and are not receiving Healthier Oregon. OPI-C is a state-funded program
+administered by AAAs so HR `1 requirements do not apply. A consumer must meet
+all applicable OPI-C requirements, including age, service need, and other program
+requirements.
+
+
+AAAs may consider impacted consumers for OPI-C based on available allocations
+and local service capacity. AAAs retain responsibility for OPI-C eligibility and
+service determinations and may establish local priorities consistent with state
+requirements. Existing OPI-C consumers and individuals at the greatest risk of
+out-of-home placement remain priorities under current requirements.
+
+
+APD recognizes that the ability to serve additional consumers through OPI-C will
+differ by service area and available resources. Eligibility for OPI-C and the
+availability of OPI-C funding must not be represented as guaranteed.
+
+
+Implementation/transition instructions
+Local/branch action required
+Local APD and AAA offices must:
+  • Inform affected eligibility, case management, and supervisory staff of this
+     policy;
+  • Familiarize themselves with new citizenship requirements due to HR1.
+  • Continue accepting and processing OPI-M applications under the current
+     eligibility requirements through September 30, 2026.
+  • Do not deny or discourage an otherwise eligible consumer from applying
+     solely because the consumer may become ineligible under the requirements
+     effective October 1, 2026.
+  • After September 30, 2026, deny applications for individuals who do not meet
+     the new Medicaid eligibility criteria.
+  • Respond to central office requests for verification information;
+  • Ensure required notices and hearing rights are provided before OPI-M
+     benefits are closed; and
+  • Cooperate with APD central office requests for information or
+     documentation needed to verify citizenship or immigration status.
+
+  • When notified that a consumer will lose OPI-M eligibility, work with the
+     consumer to evaluate potential eligibility for;
+        o Healthier Oregon,
+        o HO-LTSS,
+        o HO-SPPC,
+        o OPI-C, or other available supports.
+
+  • Clearly explain that eligibility and service availability must be determined
+     separately for each alternative program and that continued services are not
+     guaranteed.
+
+AAA leadership should review local OPI-C capacity and identify potential service-
+transition concerns for affected OPI-M consumers.
+Central office action required
+  • Complete statewide verification of citizenship and immigration status;
+  • Coordinate requests for additional information or documentation from
+     consumers;
+  • Ensure individuals are given the opportunity to provide documentation to
+     verify eligibility;
+  • Develop and issue appropriate consumer notices;
+  • Provide operational instructions for eligibility closures and service
+     transitions;
+   • Develop options-counseling guidance for local APD and AAA offices;
+   • Support pathways for evaluating affected consumers for Healthier Oregon,
+       HO-SPPC, HO-LTSS;
+   • Coordinate with AAA partners regarding local OPI-C capacity and transition
+       concerns;
+   • Provide technical assistance to local offices; and
+   •   Monitor implementation and potential gaps or disruptions in services.
+
+Reviewed by impacted parties?                Yes      No
+
+If yes, reviewed by: APD Policy & Operations Review
+
+Filing instructions:
+
+If you have any questions, please contact:
+
+Contact(s): Brian Sexton
+
+Email: brian.sexton@odhs.oregon.gov
+
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26011.pdf> · retrieved 2026-10-01 · sha256 `ff6b6c4ba85031f47de31261cefeb751b309995908b642ec44f8037c0d18ebb3`
+- Snapshot: `_meta/snapshots/dhs-apd-pt-26-011.pdf`
+- `announces`: none (this transmittal's own "Policy/rule numbers" field does not cite a DHS policy this corpus holds)
+- See [CHANGELOG](../../../CHANGELOG.md).

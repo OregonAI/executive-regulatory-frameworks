@@ -133,6 +133,10 @@
 
 - 4 documents.
 
+## Department of Human Services — Transmittals
+
+- [Index](agencies/department-of-human-services/transmittals/_index.md): 25 documents.
+
 ## Department of Justice — Schedules
 
 - 1 documents.

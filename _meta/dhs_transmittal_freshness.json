@@ -1,0 +1,137 @@
+{
+  "policies": [
+    {
+      "policy_id": "dhs-010-010",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-010-013-01",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-010-015",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-010-016",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-010-022",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-010-026",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-010-027",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-010-031-01",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-040-026",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-040-026-01",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-040-026-02",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-040-026-03",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-040-026-04",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-060-034-02",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-060-044",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-100-003",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    },
+    {
+      "policy_id": "dhs-100-004",
+      "resolved": false,
+      "transmittal_ids": [],
+      "latest_effective_date": null,
+      "stale": false
+    }
+  ],
+  "n_policies_total": 17,
+  "n_policies_resolved": 0,
+  "resolution_rate": 0.0,
+  "n_policies_referenced": 0,
+  "n_policies_referenced_resolved": 0,
+  "resolution_rate_referenced": null,
+  "resolution_bar": 0.5,
+  "bar1_resolution_pass": false,
+  "n_policies_stale": 0,
+  "stale_bar": 1,
+  "bar2_stale_pass": false,
+  "pilot_passes": false,
+  "generated": "2026-10-01",
+  "note": "Per ADR 0001: every date here is COMPUTED by joining a transmittal's own `announces`/`effective_date` to the policy it names, every run -- nothing is ever written back into a policy's own frontmatter. Non-authoritative; verify against each document's own source_url."
+}

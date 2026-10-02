@@ -73,6 +73,31 @@ corpus-wide changes from 2026-08-02 forward.
   regex also now accepts `retrieved: '...'` (single-quoted, as 74 content documents are),
   not only the double-quoted spelling.
 
+### Added
+- 2026-10-01 — **`doc_type: transmittal` pilot (issue #79)**: registered the new
+  verbatim doc_type (`_meta/corpus.yml`'s schema extension plus the
+  `agencies/<slug>/transmittals` content root), a new ingester
+  (`src/ingest_transmittals.py`), and a build-time freshness join
+  (`src/build_dhs_transmittal_freshness.py`, ADR 0001: computed every run, never
+  written into any policy's own frontmatter). Ingested 25 real ODHS APD Policy
+  Transmittals verbatim, each with an `announces` field read from the transmittal's own
+  "Policy/rule numbers:" field. 9/25 carry a literal effective date (e.g. "January 1,
+  2026", "10/01/2025"); the rest say "Upon release"/"Immediately"/"Upon Receipt"/blank
+  and are `null` by design (never guessed).
+
+  **Pilot result, measured against issue #79's bar verbatim ("resolves a supersession or
+  effective date for ≥50% of the DHS policies it references" AND "surfaces ≥1 [held]
+  policy ... demonstrably stale"): FAILS both legs — 0 policies referenced (fails leg 1
+  vacuously; for context, 0/17 of all held DHS policies resolved), 0 stale.**
+  The issue's working survey assumed a program "owning the dhs-010-* series"; verified
+  against ODHS's own site, no such program exists — the 17 held DHS policies are all
+  agency-wide Director's Office policies, and ODHS's Policy Transmittal systems are
+  per case-service program (APD/CW/ODDS/OEP/SSP/VR), each with its own OAR/CBA-based
+  numbering that does not overlap the `dhs-0XX-0XX` series. Full accounting and the
+  decided exclusion: [`.out-of-scope/dhs-policy-transmittals-full-ingest.md`](.out-of-scope/dhs-policy-transmittals-full-ingest.md).
+  `corpus-validate-frontmatter` and `corpus-verify-provenance` both pass on the 25
+  new documents. No existing DHS policy document was changed.
+
 ### Source-Updated
 - 2026-09-10 — **The remaining OAR rules: 54 ordinary re-ingests plus 3 live Columbia River
   Gorge Commission rules** (final group of the re-ingest queue except the repeals, below).

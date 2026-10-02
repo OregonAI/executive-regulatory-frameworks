@@ -1,0 +1,228 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: dhs-apd-pt-26-006
+title: "APS Screening Decisions and Documentation"
+doc_type: transmittal
+citation: "ODHS Policy Transmittal APD-PT-26-006"
+authority_level: agency_guidance
+issuing_body: "Oregon Department of Human Services, Aging and People with Disabilities"
+agency: department-of-human-services
+legal_authority: []
+source_url: "https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26006.pdf"
+source_format: pdf
+retrieved: "2026-10-01"
+source_sha256: "5f54e6cbc41ae8c37c85d336bfa13ef2d8d79e4dc4030913e79d35c56153e99e"
+effective_date: "2026-05-01"
+last_reviewed: null
+source_version: "Effective: May 01, 2026"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: ""
+last_verified: ""
+verified_by: ""
+maintainer: "@morficflux"
+announces: []
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ['department-of-human-services', 'transmittal', 'apd']
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
+> official text. Verify against the official source: <https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26006.pdf> (retrieved 2026-10-01).
+
+# APS Screening Decisions and Documentation (APD-PT-26-006)
+
+## At a glance
+
+ODHS Policy Transmittal APD-PT-26-006 — APS Screening Decisions and Documentation. Oregon Department of Human Services, Aging and People with Disabilities. Effective May 01, 2026.
+
+## Full text
+
+Policy Transmittal
+
+Aging and People with Disabilities                     Number: APD-PT-26-006
+
+Authorized by: Corissa Neufeldt
+Issue date: 4/28/2026
+Subject: APS Screening Decisions and Documentation
+
+Transmitting (check the box that best applies)
+
+      New policy          Policy change         Policy clarification   Executive letter
+      Administrative Rule          Manual update              Other:
+
+Applies to (check all that apply):
+
+       All ODHS employees                                 County DD Program Managers
+       Aging and People with Disabilities                 Developmental Disabilities Services
+       Area Agencies on Aging: -- Type B --               Self-Sufficiency Programs
+       Child Welfare Division                             Support Service Brokerage Directors
+       Children’s Intensive In Home Services              Stabilization and Crisis Unit
+       Children’s Residential Services                    Other (please specify): Enter Text
+
+Policy/rule title: APS Screening Decisions and Documentation
+Policy/rule numbers: OAR Chapter 411, Division 020, Adult Protective Services
+Release number:
+Effective date: May 01, 2026
+Expiration date:
+References: QRG – APS Screening Decisions and Documentation and APD-APS-040-001
+Timeframes and Deviations
+Web address:
+
+Discussion/interpretation
+This policy transmittal cancels APD-PT-24-028 - APS Screening Decisions:
+Documentation and Notification to Reporters and collects information from prior
+policies and Quick Reference Guides (QRGs) about APS screening into a new
+policy.
+The policy transmittal is effective May 01, 2026:
+
+
+1. BASIC ELEMENTS OF AN APS SCREENING DECISION:
+  Screening decisions documented by APS in the Centralized Abuse Management
+  system must contain enough detail so that an external reviewer can
+  understand why the screening decision was made and what available
+  information and screening-related rules and policies were used to reach the
+  screening decision. Basic elements that must be documented include:
+  a. Information regarding the alleged victim’s (AV) age and any reported
+     disability, if known. These details will be the basis for eligibility decisions.
+     For example: A report of abuse of a 40-year-old adult with no reported
+     physical disability would not be assigned for APS investigation due to
+     eligibility factors. “AV is not eligible for APS due to age and lack of reported
+     physical disability.”
+  b. Details about the location of the reported incident, and the identity and role
+     of the alleged perpetrator at the time of the incident, if known. These details
+     will be the basis for jurisdictional decisions.
+     For example: A report of abuse of an elderly adult residing in a prison by a
+     correctional official would not be assigned for APS investigation due to
+     jurisdictional reasons. “AV is not in APS jurisdiction due to location of
+     incident and identity/role of the AP.”
+  c. The nature of the reported incident or conduct, and the risk of harm or
+     actual harm faced by the AV as a result. These details will be the basis for
+     deciding whether the incident, if it occurred as reported, would (or would
+     not) meet the APS definition of abuse or self-neglect.
+     For example: A report an APS-eligible adult experiencing an incident which
+     did not present any actual harm, or risk of serious harm, to the AV, would
+     not be assigned for APS investigation. In such cases, you do not need to cite
+     an abuse OAR, just state the circumstance and the name of the abuse type.
+
+     For example: The reported incident did not meet the APS definition of
+     Neglect due to no reported harm or risk of serious harm to the AV.
+     Additional information about the screener’s thought process is helpful.
+
+    For example: “The reported incident did not meet the APS definition of
+    Neglect due to no reported harm or risk of serious harm as AV was
+    accompanied by staff when they left the secured unit and were able to be
+    redirected back into the unit.”
+  d. If a report is assigned for investigation, screeners must name the APS abuse
+     type that the report potentially meets. Specific OAR numbers or subsections
+     are not necessary.
+    For example: “Report assigned for investigation for Neglect due to AV
+    leaving secured unit unsupervised.”
+    Screeners must reference any supplemental information available to the
+    screener from other sources (collateral contacts, databases such as CAM
+    and Oregon Access, etc.) that support the decision.
+
+    For example: “Age of AV was unknown by reporter, but screener review of
+    Oregon Access (OA) confirms that AV is over 65 and receiving Medicaid LTSS.
+    Case manager notified.”
+
+
+2. SCREENING DECISION TIMELINE:
+  a. Pursuant to policy, APD-APS-040-001 Timeframes and Deviations, the
+     following applies:
+      i.   Screening, as defined in OAR 411-020-0060, begins upon receipt of a
+           report of suspected abuse or self-neglect by the local office. A report of
+           abuse is considered to have been “received,” and screening begun, on
+           the date and at the time of its receipt, if received during Business
+           Hours. After Business Hours, the report is considered to have been
+           received at the beginning of the next Business Day (8:00 AM to 5:00 PM
+           Monday through Friday, excluding holidays as determined by the
+           state).
+     ii.   A screening decision as used in this document means whether
+           eligibility, jurisdiction, and definitional criteria are met and the report
+           will be assigned for investigation, or they are not and the report will be
+           closed at intake. That screening decision is required to be made no
+           later than the end of the next Business Day following the day of receipt
+           of the report.
+
+
+3. WHERE TO DOCUMENT SCREENING DECISIONS IN CAM
+  a. For all intakes with allegations, the rationale and supporting elements for
+  the screening decision must be documented in the “Reason for Screening
+  Decision Detail” field in CAM.
+      i.   Based on the elements described in (1) an example of a screening
+           decision is as follows: “AV is eligible for APS services due to a reported
+           disability. AP1 is alleged to have been rough while providing AV care,
+           injuring AV by causing marks and bruising. Assigned for physical
+           abuse.”
+     ii.   In the next example the screener provided information they found in
+           Oregon Access. Although this information wasn’t necessary to assign
+           the intake for investigation, it was information the screener found and
+           considered when making their decision: “AV is eligible for APS
+           investigation due to being over the age of 65. Assigned for
+           investigation for neglect of care due to AP failing to provide toileting
+           assistance to AV resulting in skin breakdown. AP is AV’s paid caregiver
+           and AV is a full assist in toileting per Oregon Access.”
+  b. For all non-abuse intakes, the rationale for the screening decision to close at
+     intake must be documented under the “Additional Notes” field in CAM.
+      i.   Based on the elements described in (1) an example of a screening
+           decision is as follows: “AV is eligible for APS services due to age and
+           reported disability. AV is being released from the hospital and will need
+           some assistance with ADLs. No abuse reported, referrals made for LTC
+           services.”
+  c. Examples and instructions are available in QRG - APS Screening Decisions
+     and Documentation.
+4. QUALITY ASSURANCE REVIEWS:
+   a. Central APS will conduct periodic quality assurance reviews of CAM intakes
+      and share the results with local APS offices.
+   b. Screening quality assurance reviews will look at areas, including timeliness
+      of screening decisions, and thoroughness of documentation of screening
+      decisions.
+   c. Performance targets for reviews will be set, and corrective actions by local
+      APS offices will be required when they do not meet performance targets.
+Implementation/transition instructions
+This policy transmittal represents one of the process changes related to the
+Temporary OAR update effective May 01, 2026. Additional information will be
+sent out regarding this OAR update.
+Training/communication plan
+The policy transmittal will be posted at the APS Staff Tools website, APD’s
+Transmittals website, and the CAM Knowledge tab with other APS policy
+transmittals. Communication and discussion regarding this policy transmittal will
+occur during APS supervisor meetings, APS Training, and other venues as needed.
+Requests for technical assistance on applying this policy transmittal should be
+sent to the Central APS Unit at APS.TechAssistance@odhsoha.oregon.gov.
+
+Local/branch action required
+Please discuss these changes with staff during huddles and staff meetings.
+Ensure local APS workers awareness of the policy transmittal and where it is
+posted on the APD Transmittals Public Facing website.
+
+Central office action required
+Respond to inquiries regarding this policy transmittal as needed.
+
+Reviewed by impacted parties?               Yes      No
+
+If yes, reviewed by: APD Operations Committee, APS Supervisors, APS Policy Advisory
+Committee, Central APS Unit, Safety Oversight & Quality
+Filing instructions:
+
+If you have any questions about this action request, contact:
+
+Contact(s): Central APS Technical Assistance
+
+Email: APS.TechAssistance@odhsoha.oregon.gov
+
+
+## Provenance & change history
+
+- Source: <https://www.oregon.gov/odhs/transmittals/APDTransmittals/pt26006.pdf> · retrieved 2026-10-01 · sha256 `5f54e6cbc41ae8c37c85d336bfa13ef2d8d79e4dc4030913e79d35c56153e99e`
+- Snapshot: `_meta/snapshots/dhs-apd-pt-26-006.pdf`
+- `announces`: none (this transmittal's own "Policy/rule numbers" field does not cite a DHS policy this corpus holds)
+- See [CHANGELOG](../../../CHANGELOG.md).

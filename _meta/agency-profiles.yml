@@ -287,7 +287,9 @@ profiles:
     policies_published: web
     policies_location: https://www.oregon.gov/odhs/rules-policy/Pages/agency-policies.aspx
     notes: "Administrative/agency policies ingested from the ODHS Rules & Policies SharePoint list. The separate program Transmittals\
-      \ system (change-announcements) is out of scope \u2014 see issue #79."
+      \ system (change-announcements) is a DECIDED exclusion as of 2026-10-01 \u2014 issue #79's\
+      \ pilot ingested 25 APD Policy Transmittals and measured 0/17 held policies resolved (bar:\
+      \ \u226550%); see .out-of-scope/dhs-policy-transmittals-full-ingest.md."
   department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities:
     governance: executive_branch
     policies_published: unknown
