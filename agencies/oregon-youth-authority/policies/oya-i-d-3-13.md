@@ -37,7 +37,7 @@ tags: ['oregon-youth-authority', 'policy']
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
-> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-D-3.13.pdf> (retrieved 2026-07-21).
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-D-3.13.pdf> (retrieved 2026-09-10).
 
 # Staff Dress Standards (OYA Policy I-D-3.13)
 
@@ -211,6 +211,6 @@ V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oya/policies/I-D-3.13.pdf> · retrieved 2026-07-21 · sha256 `6182c992a6a3ce28c1e13dcee96b61f9ffebdea9110c5dfbc27eaaef1112939e`
+- Source: <https://www.oregon.gov/oya/policies/I-D-3.13.pdf> · retrieved 2026-09-10 · sha256 `6182c992a6a3ce28c1e13dcee96b61f9ffebdea9110c5dfbc27eaaef1112939e`
 - Snapshot: `_meta/snapshots/oya-i-d-3-13.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

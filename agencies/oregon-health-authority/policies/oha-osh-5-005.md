@@ -34,7 +34,7 @@ tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
-> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/5.005%20Staff-Owned%20Equipment/5.005%20Staff-Owned%20Equipment.pdf> (retrieved 2026-07-21).
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/5.005%20Staff-Owned%20Equipment/5.005%20Staff-Owned%20Equipment.pdf> (retrieved 2026-09-09).
 
 # Staff-Owned Equipment (OSH Policy 5.005)
 
@@ -122,6 +122,6 @@ VI.      RELATED OSH POLICIES AND PROTOCOLS
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oha/OSH/Policies/5.005%20Staff-Owned%20Equipment/5.005%20Staff-Owned%20Equipment.pdf> · retrieved 2026-07-21 · sha256 `7b429d3f33982b3363c284ff6ce2e0f0de3d108a9c019a0d7d3648f5d7b46afb`
+- Source: <https://www.oregon.gov/oha/OSH/Policies/5.005%20Staff-Owned%20Equipment/5.005%20Staff-Owned%20Equipment.pdf> · retrieved 2026-09-09 · sha256 `7b429d3f33982b3363c284ff6ce2e0f0de3d108a9c019a0d7d3648f5d7b46afb`
 - Snapshot: `_meta/snapshots/oha-osh-5-005.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

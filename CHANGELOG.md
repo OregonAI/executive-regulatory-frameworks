@@ -10,6 +10,69 @@ corpus-wide changes from 2026-08-02 forward.
 
 ## [Unreleased]
 
+### Fixed
+- 2026-10-01 — **The dead `das-policies-listing.json` citation, and its root cause (#425).**
+  Re-measured: 98 DAS policy/procedure documents (87 `policies/`, 11 `procedures/`), plus
+  one historical line in `policies/CHANGELOG.md`, still cited the pre-rename snapshot
+  filename `_meta/snapshots/das-policies-listing.json` — renamed to
+  `department-of-administrative-services-policies-listing.json` by `rename_agency_slug.py`
+  back in e71034a168 (2026-07-18), which moved the file itself but never touched the prose
+  reference to its old name inside the documents it had just moved. The issue's own ~93
+  estimate undercounted. #426 had already hand-fixed six of these documents
+  (`das-107-009-0030`, `das-40-080-01`, `das-50-030-01`, and their renamed counterparts)
+  along with both `_index.md` listing links, as part of its DAS policies-listing refresh;
+  this change covers the 98 that fix missed. The one historical line in
+  `policies/CHANGELOG.md` is left naming the old filename, the same treatment this root
+  CHANGELOG gives its own old-filename mentions above — a `CHANGELOG.md` describes what
+  was true when the entry was written, not today's filename. All 98 content documents
+  mechanically rewritten to the current filename; `grep -rl das-policies-listing.json`
+  (outside `CHANGELOG.md`/history) now returns nothing.
+
+  Root cause closed in `rename_agency_slug.py`: after renaming
+  `_meta/snapshots/<old>-*.json`, a new pass rewrites every `_meta/snapshots/<old-name>`
+  prose reference inside the renamed agency tree to the new filename, via a
+  `rewrite_snapshot_prose()` helper with its own `--selftest` (also a new gate) proving the
+  rewrite fires and leaves unrelated text alone.
+
+- 2026-10-01 — **`refresh_document()` left two prose retrieved dates behind frontmatter on
+  a second refresh, and 131 documents had drifted (#424).** The issue's own ~21 estimate
+  undercounted; re-measured 131 documents (52 `agencies/`, 79 `rules/` — worst case
+  `rules/414` at 44) carry a prose "retrieved" date (the non-authoritative banner, the
+  `## Provenance & change history` line, or both) older than the frontmatter `retrieved`
+  field that the same refresh already advanced. All 131 restamped to agree with
+  frontmatter.
+
+  A further 25 `executive-orders/*.md` documents carried a *banner* retrieved date AHEAD
+  of frontmatter — corrected in the same pass, not left as a deliberate non-finding.
+  Re-checked against the commits that produced them: all 25 were metadata stubs given
+  their first machine-readable full text by 9662ead1f1 (15, 2026-07-25) or e1723c7f46
+  (10, 2026-08-02), OCR'd from a freshly re-fetched PDF — `content_mode` moved from
+  `summary` to `verbatim` and `source_sha256` changed, not "re-verified ... without
+  changing it" as an earlier draft of this entry and `provenance_dates.py`'s docstring
+  claimed. Frontmatter `retrieved` and the provenance line were simply never re-stamped
+  to the date that fetch happened on — the #424 bug in the opposite direction. All 25
+  restamped to the banner's date, and `--check` now fails on any disagreement in either
+  direction, not only a prose date strictly behind frontmatter.
+
+  BANNER_RE also only matched the bare "(retrieved D)" spelling; the statute and
+  constitution banners read "(retrieved D, 2025 Edition)" or "(retrieved D, in effect
+  following ...)" (~37,870 documents), so every one of those was silently never compared.
+  Fixed, with a `--check` count of how many documents had no banner match at all so a
+  future spelling gap is visible rather than silently folded into "checked".
+
+  `ingest_lib.refresh_document()` now re-stamps both prose dates the same way it already
+  re-stamps the two spellings of the source hash, via a new `restamp_retrieved_prose()`
+  with its own `--selftest`. `restamp_retrieved_prose()` now replaces whatever date
+  currently sits in each prose spelling (matched on surrounding punctuation), not only
+  one keyed to the exact old frontmatter value, so a document whose prose already
+  disagreed with frontmatter — the 25 executive orders' shape before this fix, or any
+  future hand-edited document — is restamped on its next refresh instead of being
+  silently skipped and left for the gate to catch after the fact. `src/provenance_dates.py`
+  (new) is a `provenance_spelling.py`-style `--check`/`--selftest` gate proving frontmatter
+  and both prose retrieved dates agree, registered in `tests/gates.py`; its frontmatter
+  regex also now accepts `retrieved: '...'` (single-quoted, as 74 content documents are),
+  not only the double-quoted spelling.
+
 ### Source-Updated
 - 2026-09-10 — **The remaining OAR rules: 54 ordinary re-ingests plus 3 live Columbia River
   Gorge Commission rules** (final group of the re-ingest queue except the repeals, below).

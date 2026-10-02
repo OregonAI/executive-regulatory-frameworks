@@ -34,7 +34,7 @@ tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
-> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/4.013%20Professional%20Credential%20and%20Membership%20Fees/4.013%20Professional%20Credential%20and%20Membership%20Fees.pdf> (retrieved 2026-07-21).
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/4.013%20Professional%20Credential%20and%20Membership%20Fees/4.013%20Professional%20Credential%20and%20Membership%20Fees.pdf> (retrieved 2026-09-09).
 
 # Professional Credential and Membership Fees (OSH Policy 4.013)
 
@@ -120,6 +120,6 @@ VI.      RELATED OSH POLICIES AND PROTOCOLS
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oha/OSH/Policies/4.013%20Professional%20Credential%20and%20Membership%20Fees/4.013%20Professional%20Credential%20and%20Membership%20Fees.pdf> · retrieved 2026-07-21 · sha256 `fe4db11efbb56e2227822dcba612fd46de4d6ff987a2ab7b0d0d6d8e23610027`
+- Source: <https://www.oregon.gov/oha/OSH/Policies/4.013%20Professional%20Credential%20and%20Membership%20Fees/4.013%20Professional%20Credential%20and%20Membership%20Fees.pdf> · retrieved 2026-09-09 · sha256 `fe4db11efbb56e2227822dcba612fd46de4d6ff987a2ab7b0d0d6d8e23610027`
 - Snapshot: `_meta/snapshots/oha-osh-4-013.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

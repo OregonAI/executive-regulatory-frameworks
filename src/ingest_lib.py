@@ -4,6 +4,7 @@ never from model knowledge. Effective/version dates are NEVER updated automatica
 a changed source gets a TODO marker for human transcription."""
 import re
 import subprocess
+import sys
 from collections import Counter
 from pathlib import Path
 
@@ -166,6 +167,32 @@ def build_fulltext(fm: dict) -> tuple:
     return clean_pdf_text(raw, fm.get("agency"))
 
 
+_BANNER_DATE_RE = re.compile(r'(\(retrieved )\d{4}-\d{2}-\d{2}([,)])')
+_PROSE_DATE_RE = re.compile(r'(· retrieved )\d{4}-\d{2}-\d{2}( ·)')
+
+
+def restamp_retrieved_prose(text: str, old_date: str, new_date: str) -> str:
+    """Re-stamp the two PROSE copies of a document's retrieval date (#424) the same way
+    `refresh_document()` already re-stamps the two spellings of the source hash.
+
+    The two prose spellings:
+      banner   (retrieved D).            or   (retrieved D, 2025 Edition).
+      prose    · retrieved D ·
+
+    Matched on the surrounding punctuation exactly as `src/provenance_dates.py` reads
+    them back (BANNER_RE allows a trailing qualifier before the close-paren, for the
+    statute/constitution "D, 2025 Edition" spelling), so a document this function has
+    touched is one that gate reads as agreeing. Unlike a plain string replace keyed on
+    `old_date`, this replaces WHATEVER date currently sits in each spelling -- so a
+    document whose prose already disagrees with frontmatter (the 25 executive orders
+    recovered #424's non-finding showed, or any future hand-edited document) is restamped
+    too, not silently skipped because its prose date never equaled `old_date`.
+    `old_date` is accepted for backward compatibility but no longer consulted."""
+    text = _BANNER_DATE_RE.sub(rf'\g<1>{new_date}\g<2>', text)
+    text = _PROSE_DATE_RE.sub(rf'\g<1>{new_date}\g<2>', text)
+    return text
+
+
 def refresh_document(md_path: Path, today: str) -> str:
     """Re-fetch a document's source. Returns 'unchanged' | 'updated' | 'error: ...'.
     On change: refreshes snapshot (+.txt), frontmatter retrieved/source_sha256/
@@ -194,7 +221,10 @@ def refresh_document(md_path: Path, today: str) -> str:
         (SNAPSHOT_DIR / f"{snap_id}.txt").write_text(snapshot_text(raw), encoding="utf-8")
 
     text = md_path.read_text()
+    old_retrieved = fm.get("retrieved")
     text = re.sub(r'^retrieved: .*$', f'retrieved: "{today}"', text, count=1, flags=re.M)
+    if old_retrieved:
+        text = restamp_retrieved_prose(text, old_retrieved, today)
     text = text.replace(fm["source_sha256"], new_sha)
     fm["source_sha256"] = new_sha
     ft, conv = build_fulltext(fm)
@@ -217,3 +247,108 @@ def refresh_document(md_path: Path, today: str) -> str:
                       text, count=1, flags=re.M)
     md_path.write_text(text)
     return "updated"
+
+
+# ---------------------------------------------------------------- selftest
+
+def _selftest() -> int:
+    """`restamp_retrieved_prose()` in isolation, from strings only -- nothing here opens a
+    file for writing. `src/provenance_dates.py --check` is the corpus-wide half of this
+    proof (that every committed document's three dates actually agree); this is the unit
+    the fix lives in."""
+    fails = []
+    old, new = "2026-07-18", "2026-09-09"
+    fixture = (
+        '---\n'
+        'id: "example"\n'
+        f'retrieved: "{old}"\n'
+        'source_sha256: "aaaa"\n'
+        '---\n\n'
+        '> **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of '
+        'the\n'
+        f'> official text. Verify against the official source: '
+        f'<https://example.invalid/x.pdf> (retrieved {old}).\n\n'
+        '## Provenance & change history\n\n'
+        f'- Source: <https://example.invalid/x.pdf> · retrieved {old} · '
+        'sha256 `aaaa`\n'
+    )
+
+    out = restamp_retrieved_prose(fixture, old, new)
+
+    if f"(retrieved {new})" not in out:
+        fails.append("FAIL the-banner-date-is-restamped: "
+                     f"{new!r} not found in the banner after restamping")
+    if f"· retrieved {new} ·" not in out:
+        fails.append("FAIL the-provenance-line-date-is-restamped: "
+                     f"{new!r} not found in the provenance line after restamping")
+    # Frontmatter is deliberately out of scope here -- refresh_document() re-stamps it
+    # itself, before calling this function -- so only the two PROSE occurrences are
+    # checked for leftover old dates, not the whole document.
+    prose_only = out.split("---\n", 2)[-1]
+    if old in prose_only:
+        fails.append(f"FAIL the-old-date-is-left-nowhere-in-prose: {old!r} still present "
+                     f"in the body after restamping")
+
+    # A DOCUMENT WITH NO PROSE DATES (frontmatter-only, e.g. one of the 26 that never
+    # carry the provenance line) must pass through unchanged rather than raise.
+    bare = f'---\nretrieved: "{old}"\n---\n\nno prose dates here.\n'
+    bare_out = restamp_retrieved_prose(bare, old, new)
+    if bare_out != bare:
+        fails.append("FAIL a-document-with-no-prose-dates-is-left-alone: "
+                     f"restamping a bare document changed it: {bare_out!r}")
+
+    # A DOCUMENT WHOSE PROSE ALREADY DISAGREES WITH `old_date` (the 25 executive orders'
+    # shape before they were corrected, or any hand-edited document) must still be
+    # restamped to `new_date` -- a plain string replace keyed on `old_date` would skip it
+    # silently, leaving the gate to catch it only after the fact.
+    already_ahead = "2026-08-02"
+    disagreeing = (
+        '---\n'
+        f'retrieved: "{old}"\n'
+        '---\n\n'
+        f'> Verify against the official source: <https://example.invalid/x.pdf> '
+        f'(retrieved {already_ahead}).\n\n'
+        '## Provenance & change history\n\n'
+        f'- Source: <https://example.invalid/x.pdf> · retrieved {already_ahead} · '
+        'sha256 `aaaa`\n'
+    )
+    disagreeing_out = restamp_retrieved_prose(disagreeing, old, new)
+    if f"(retrieved {new})" not in disagreeing_out:
+        fails.append("FAIL a-prose-date-already-disagreeing-with-old-date-is-restamped: "
+                     f"banner not moved to {new!r}: {disagreeing_out!r}")
+    if f"· retrieved {new} ·" not in disagreeing_out:
+        fails.append("FAIL a-prose-date-already-disagreeing-with-old-date-is-restamped: "
+                     f"provenance line not moved to {new!r}: {disagreeing_out!r}")
+
+    # THE STATUTE/CONSTITUTION BANNER SPELLING: "(retrieved D, 2025 Edition)" must
+    # restamp too, keeping its trailing qualifier rather than losing it or failing to match.
+    qualified = (
+        '---\n'
+        f'retrieved: "{old}"\n'
+        '---\n\n'
+        f'> Verify against the official source: <https://example.invalid/ors1.html> '
+        f'(retrieved {old}, 2025 Edition).\n'
+    )
+    qualified_out = restamp_retrieved_prose(qualified, old, new)
+    if f"(retrieved {new}, 2025 Edition)" not in qualified_out:
+        fails.append("FAIL a-qualified-statute-banner-is-restamped-keeping-its-qualifier: "
+                     f"expected '(retrieved {new}, 2025 Edition)' in {qualified_out!r}")
+
+    for f in fails:
+        print(f)
+    if fails:
+        print(f"{len(fails)} rule(s) did not hold")
+        return 1
+    print("restamp_retrieved_prose(): banner and provenance-line dates both restamp, "
+          "a document with neither is left alone")
+    return 0
+
+
+def main() -> int:
+    if "--selftest" in sys.argv:
+        return _selftest()
+    sys.exit(__doc__)
+
+
+if __name__ == "__main__":
+    sys.exit(main())

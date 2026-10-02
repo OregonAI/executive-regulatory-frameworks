@@ -34,7 +34,7 @@ tags: ['oregon-youth-authority', 'policy']
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
-> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-D-1.6.pdf> (retrieved 2026-07-21).
+> official text. Verify against the official source: <https://www.oregon.gov/oya/policies/I-D-1.6.pdf> (retrieved 2026-09-10).
 
 # OYA Staff Wellness (OYA Policy I-D-1.6)
 
@@ -155,6 +155,6 @@ V.     LOCAL OPERATING PROTOCOL REQUIRED: NO
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oya/policies/I-D-1.6.pdf> · retrieved 2026-07-21 · sha256 `10562f8e2baa0b1e6d299eb9b64853ffcdaac838a499caf575a26ec03637137c`
+- Source: <https://www.oregon.gov/oya/policies/I-D-1.6.pdf> · retrieved 2026-09-10 · sha256 `10562f8e2baa0b1e6d299eb9b64853ffcdaac838a499caf575a26ec03637137c`
 - Snapshot: `_meta/snapshots/oya-i-d-1-6.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

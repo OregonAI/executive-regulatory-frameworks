@@ -34,7 +34,7 @@ tags: ['oregon-health-authority', 'oregon-state-hospital', 'policy']
 ---
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated copy of the
-> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/8.004%20Criminal%20Offender%20Information%20Access/8.004%20Criminal%20Offender%20Information%20Access.pdf> (retrieved 2026-07-21).
+> official text. Verify against the official source: <https://www.oregon.gov/oha/OSH/Policies/8.004%20Criminal%20Offender%20Information%20Access/8.004%20Criminal%20Offender%20Information%20Access.pdf> (retrieved 2026-09-09).
 
 # Criminal Offender Information Access (OSH Policy 8.004)
 
@@ -196,6 +196,6 @@ Date: July 6, 2026
 
 ## Provenance & change history
 
-- Source: <https://www.oregon.gov/oha/OSH/Policies/8.004%20Criminal%20Offender%20Information%20Access/8.004%20Criminal%20Offender%20Information%20Access.pdf> · retrieved 2026-07-21 · sha256 `2639f0323ae43a7dd42a1ba7af703428d9c98c09dcdcd2f29348aab88eb6b470`
+- Source: <https://www.oregon.gov/oha/OSH/Policies/8.004%20Criminal%20Offender%20Information%20Access/8.004%20Criminal%20Offender%20Information%20Access.pdf> · retrieved 2026-09-09 · sha256 `2639f0323ae43a7dd42a1ba7af703428d9c98c09dcdcd2f29348aab88eb6b470`
 - Snapshot: `_meta/snapshots/oha-osh-8-004.pdf`
 - See [CHANGELOG](./CHANGELOG.md).

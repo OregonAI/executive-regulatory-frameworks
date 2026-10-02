@@ -49,7 +49,7 @@ tags:
 
 > **NON-AUTHORITATIVE — AI-friendly reference only.** This is a curated
 > copy, not the official text. Verify against the official source:
-> <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-forestry.pdf> (retrieved 2026-07-25).
+> <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-forestry.pdf> (retrieved 2026-09-10).
 
 # Forestry, Oregon Dept. of
 
@@ -2065,7 +2065,7 @@ the sibling corpus holds no such document.
 
 ## Provenance & change history
 
-- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-forestry.pdf> · retrieved 2026-07-25 · sha256 `a97f1e6250e7618acbfe13c7b78ed9817ded78772166a3c2207f8c69026a54e9`
+- Source: <https://sos.oregon.gov/archives/records-management/Documents/schedule/schedule-forestry.pdf> · retrieved 2026-09-10 · sha256 `a97f1e6250e7618acbfe13c7b78ed9817ded78772166a3c2207f8c69026a54e9`
 - Snapshot: `_meta/snapshots/schedule-forestry.txt` (extracted text) and `_meta/snapshots/schedule-forestry.pdf` (raw source, 61 pages).
 - Conversion: Text extracted from the source PDF with pypdf 6.14.2 (per-page extract_text), 61 pages. Stripped repeated running-header lines: "Edition: November 2015"; "OREGON STATE ARCHIVES"; "Records Retention Schedule". Stripped 1 bare page-number line(s). Only lines that BOTH repeat at a page edge on 80%+ of pages AND read as publisher chrome (Archives Division banner, edition/effective/expires/schedule-number line, bare page number) were removed; every other repeated line, including per-page 'Organizational Placement' / 'Agency' / 'Systems of Record' blocks, was left in place. Trailing whitespace removed and blank-line runs collapsed to one. No substantive text was rewritten, reordered, or normalized.
 - See [CHANGELOG](./CHANGELOG.md).
