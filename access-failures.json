@@ -2,121 +2,127 @@
   "schema_version": 1,
   "sources": [
     {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "first_failed_at": "2026-09-03",
       "group": "department-of-administrative-services-policies",
       "id": "das-107-009-0030_pr"
     },
     {
-      "consecutive_failures": 4,
-      "first_failed_at": "2026-09-03",
-      "group": "oam",
-      "id": "oam-45-10-00"
-    },
-    {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "first_failed_at": "2026-09-03",
       "group": "oam",
       "id": "oam-45-10-00-po"
     },
     {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "first_failed_at": "2026-09-03",
       "group": "oam",
       "id": "oam-45-10-00-pr"
     },
     {
-      "consecutive_failures": 4,
-      "first_failed_at": "2026-09-03",
-      "group": "oam",
-      "id": "oam-45-15-00"
-    },
-    {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "first_failed_at": "2026-09-03",
       "group": "oam",
       "id": "oam-45-15-00-po"
     },
     {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "first_failed_at": "2026-09-03",
       "group": "oam",
       "id": "oam-45-15-00-pr"
     },
     {
-      "consecutive_failures": 4,
-      "first_failed_at": "2026-09-03",
-      "group": "oam",
-      "id": "oam-45-25-00"
-    },
-    {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "first_failed_at": "2026-09-03",
       "group": "oam",
       "id": "oam-45-25-00-po"
     },
     {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "first_failed_at": "2026-09-03",
       "group": "oam",
       "id": "oam-45-25-00-pr"
     },
     {
-      "consecutive_failures": 4,
-      "first_failed_at": "2026-09-03",
-      "group": "oam",
-      "id": "oam-45-35-00"
-    },
-    {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "first_failed_at": "2026-09-03",
       "group": "oam",
       "id": "oam-45-35-00-po"
     },
     {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "first_failed_at": "2026-09-03",
       "group": "oam",
       "id": "oam-45-35-00-pr"
     },
     {
       "consecutive_failures": 1,
-      "first_failed_at": "2026-09-09",
-      "group": "oar",
-      "id": "oar-333-333-5080"
+      "first_failed_at": "2026-10-05",
+      "group": "oregon-health-authority-osh-policies",
+      "id": "oha-osh-1-005"
     },
     {
-      "consecutive_failures": 4,
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-05",
+      "group": "oregon-health-authority-osh-policies",
+      "id": "oha-osh-4-020"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-05",
+      "group": "oregon-health-authority-osh-policies",
+      "id": "oha-osh-5-027"
+    },
+    {
+      "consecutive_failures": 5,
       "first_failed_at": "2026-09-03",
       "group": "oregon-health-authority-osh-policies",
       "id": "oha-osh-6-001"
     },
     {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "first_failed_at": "2026-09-03",
       "group": "oregon-health-authority-osh-policies",
       "id": "oha-osh-6-006"
     },
     {
-      "consecutive_failures": 4,
-      "first_failed_at": "2026-09-03",
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-05",
       "group": "oregon-health-authority-osh-policies",
-      "id": "oha-osh-6-053"
+      "id": "oha-osh-6-030"
     },
     {
-      "consecutive_failures": 4,
-      "first_failed_at": "2026-09-03",
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-05",
       "group": "oregon-health-authority-osh-policies",
-      "id": "oha-osh-8-027"
+      "id": "oha-osh-6-045"
     },
     {
-      "consecutive_failures": 4,
-      "first_failed_at": "2026-09-03",
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-05",
       "group": "oregon-health-authority-osh-policies",
-      "id": "oha-osh-8-037"
+      "id": "oha-osh-7-011"
     },
     {
-      "consecutive_failures": 4,
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-05",
+      "group": "oregon-health-authority-osh-policies",
+      "id": "oha-osh-8-018"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-05",
+      "group": "oregon-health-authority-osh-policies",
+      "id": "oha-osh-8-024"
+    },
+    {
+      "consecutive_failures": 1,
+      "first_failed_at": "2026-10-05",
+      "group": "oregon-health-authority-osh-policies",
+      "id": "oha-osh-9-001"
+    },
+    {
+      "consecutive_failures": 5,
       "first_failed_at": "2026-09-03",
       "group": "oregon-youth-authority-policies",
       "id": "oya-i-a-11-0"
