@@ -21,7 +21,7 @@ counts:
   dead_citations: 5522
   corpus_gap_not_ingested: 575
   lapsed_but_current: 85
-  rule_predates_statute_amendment: 4452
+  rule_predates_statute_amendment: 4456
   malformed_citations: 65
 dead_citations_by_cause:
   chapter_absent: 146
