@@ -39,7 +39,7 @@ necessary, and it would not finish inside a job limit. So:
 STATUS MEANINGS. 2xx/3xx-followed: ok, EXCEPT a final URL on a SOFT_404 host that is that
 host's "no such record" page (OARD answers an unknown rule number with a 302 to a search page
 that returns 200): FAIL. A redirect that cannot be followed (loop, no Location): FAIL.
-404/410/5xx/DNS/TLS/timeout after one retry: FAIL (exit 1). 429 from a host not in
+404/410 FAIL at once; 5xx/DNS/TLS/refused/reset/timeout FAIL only after RETRY_WAITS retries with backoff (exit 1). 429 from a host not in
 KNOWN_BLOCKED is "throttled -- could not check", and a URL the deadline did not reach is "not
 checked": both are listed AND the job exits 2 (red, distinct from a real failure), because a
 skipped check is not a green one; 403 is a FAIL, because a 403 cannot be told from a withdrawn page and this
@@ -59,13 +59,14 @@ import http.server
 import math
 import os
 import re
+import socket
 import sys
 import threading
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 
 import yaml
@@ -76,10 +77,33 @@ UA = ("OregonAI-corpus-bot/0.1 (+https://github.com/OregonAI/executive-regulator
 
 SMALL_HOST = 1000      # a host with at most this many distinct URLs is checked in full each run
 DEFAULT_MAX_URLS = 2500  # per-run budget: small hosts first, the bulk-host window gets the rest
-CYCLE_WEEKS = 20       # the bulk host is split into this many hash slots; one slot per weekly run
+CYCLE_WEEKS = 34       # the bulk host is split into this many hash slots; one slot per weekly run
 TIMEOUT = 30
 PAUSE = 0.25           # seconds each worker waits after a request
 WORKERS = 4
+DEADLINE_MINUTES = 40
+
+# TRANSIENT FAULTS (#437). secure.sos.state.or.us refuses some connections when a GitHub runner
+# sends it a burst ([Errno 111] Connection refused, 72 of 2,313 URLs on 2026-10-07); every one of
+# 20 re-fetched from elsewhere was fine. A refused/reset connection, a timeout or a 5xx is retried
+# with growing waits (3 attempts in all) before the URL is called dead. A REFUSAL or RESET (only
+# those) also puts the HOST on a shared cool-down, so every worker pauses instead of keeping the
+# burst going; a timeout or 5xx only makes the retrying worker sleep before its own retry.
+# 404/410/403/429, a soft-404, a redirect loop are answers, not faults: never retried.
+RETRY_WAITS = (2, 6)   # seconds before attempt 2 and attempt 3
+# BUDGET. Measured 2026-10-07 (run 37571625562): 2,313 URLs took ~39.5 min on 4 workers, i.e.
+# 4.1 s per URL per worker slot, pause included -- already the whole 40-minute deadline, so any
+# retry on top of that window turns URLs into not-checked. `--check` therefore requires
+#   largest_run * SECONDS_PER_URL / workers + RETRY_ALLOWANCE_S <= deadline.
+# RETRY_ALLOWANCE_S: the host-wide cool-down stops ALL workers, so its waits are serial wall clock,
+# not divided by workers: the 72 refusals seen, each costing 2 + 6 s, is 72 x 8 = 576 s (an upper
+# bound: overlapping cool-downs merge, they do not add). WORST CASE, stated: every sleep is bounded by the deadline check before each
+# URL, so a host that refuses everything cannot run past the deadline by more than the URL in
+# flight, 3 attempts x TIMEOUT + 8 s of waits = 98 s (41.6 min of a 75-minute job); the rest of the
+# window is then reported not-checked (red), never ok.
+SECONDS_PER_URL = 4.1
+EXPECTED_REFUSALS = 72   # refusals seen in run 37571625562
+RETRY_ALLOWANCE_S = EXPECTED_REFUSALS * sum(RETRY_WAITS)
 
 # host -> {"status", "since", "evidence"}. Empty today: nothing is recorded as refusing our
 # runners. An entry is a fact about OUR ACCESS, never about upstream; see the module docstring.
@@ -165,11 +189,51 @@ def classify(status: int, host: str) -> str:
     return "ok" if status < 400 else "fail"
 
 
-def fetch(url: str) -> tuple[str, str]:
-    """-> (verdict, detail). One retry on a transport error or 5xx; never raises."""
+RETRIED: dict[str, int] = {}       # url -> retries it needed (reported by main)
+_COOLDOWN: dict[str, float] = {}   # host -> monotonic time before which nobody sends to it
+_LOCK = threading.Lock()
+
+
+def _note_transient(host: str, wait: float) -> None:
+    with _LOCK:
+        _COOLDOWN[host] = max(_COOLDOWN.get(host, 0.0), time.monotonic() + wait)
+
+
+def _wait_cooldown(host: str) -> None:
+    with _LOCK:
+        until = _COOLDOWN.get(host, 0.0)
+    delay = until - time.monotonic()
+    if delay > 0:
+        time.sleep(delay)
+
+
+def _is_refusal(e: BaseException) -> bool:
+    """A refused or reset connection: the host pushing back on a burst (not a slow page or a 5xx)."""
+    r = e.reason if isinstance(e, urllib.error.URLError) else e
+    return isinstance(r, (ConnectionRefusedError, ConnectionResetError))
+
+
+def budget_problem(n_urls: int, workers: int = WORKERS, deadline_minutes: float = DEADLINE_MINUTES):
+    """None when n_urls fit the deadline with the retry allowance, else the reason."""
+    need = n_urls * SECONDS_PER_URL / workers + RETRY_ALLOWANCE_S  # allowance is serial: it stalls every worker
+    if need > deadline_minutes * 60:
+        return (f"{n_urls} URLs need ~{need / 60:.1f} min ({SECONDS_PER_URL}s/URL over {workers} workers "
+                f"+ {RETRY_ALLOWANCE_S}s retry allowance), over the {deadline_minutes:g}-minute deadline")
+    return None
+
+
+def fetch(url: str, waits=RETRY_WAITS) -> tuple[str, str]:
+    """-> (verdict, detail). Transport errors and 5xx are retried after each of `waits` seconds
+    (shared per-host cool-down); never raises."""
     host = urllib.parse.urlsplit(url).hostname or ""
     last = ""
-    for attempt in (0, 1):
+    last_code: int | None = None
+    attempts = len(waits) + 1
+    for attempt in range(attempts):
+        _wait_cooldown(host)
+        if attempt:
+            with _LOCK:
+                RETRIED[url] = attempt
         req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept-Encoding": "identity"})
         try:
             with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
@@ -182,23 +246,25 @@ def fetch(url: str) -> tuple[str, str]:
         except urllib.error.HTTPError as e:
             if 300 <= e.code < 400:
                 return "fail", f"HTTP {e.code} (redirect not followed)"
-            v = classify(e.code, host)
-            if e.code >= 500 and attempt == 0:
-                last = f"HTTP {e.code}"
-                time.sleep(2)
-                continue
-            return v, f"HTTP {e.code}"
+            if e.code < 500:
+                return classify(e.code, host), f"HTTP {e.code}"
+            last, last_code = f"HTTP {e.code}", e.code
         except Exception as e:  # noqa: BLE001 -- reported, not raised
-            last = f"{type(e).__name__}: {e}"
-            if attempt == 0:
-                time.sleep(2)
+            last, last_code = f"{type(e).__name__}: {e}", None
+            if _is_refusal(e) and attempt < attempts - 1:
+                _note_transient(host, waits[attempt])
                 continue
-    return "fail", last
+        if attempt < attempts - 1:
+            time.sleep(waits[attempt])
+    if last_code is not None:  # a 5xx on the last attempt is an answer: a host recorded as returning it is blocked
+        return classify(last_code, host), f"{last} (after {attempts} attempts)"
+    return "fail", f"{last} (after {attempts} attempts)"
 
 
 def run_fetches(urls, workers: int = WORKERS, deadline: float | None = None, fetcher=fetch, pause: float = PAUSE):
     """-> {url: (verdict, detail)}; a url the deadline stopped us before is `not-checked`."""
     results: dict[str, tuple[str, str]] = {}
+    RETRIED.clear()
 
     def one(u):
         if deadline is not None and time.monotonic() > deadline:
@@ -224,6 +290,18 @@ def _week(today: dt.date | None = None) -> int:
     return (today or dt.date.today()).toordinal() // 7
 
 
+def lychee_wiring_problems(wf: dict) -> list[str]:
+    """Pure: what is wrong with how the parsed check-links workflow calls lychee."""
+    bad = []
+    lychee = next((j.get("with", {}) for j in wf["jobs"].values() if "check-links.yml" in str(j.get("uses", ""))), {})
+    if int(lychee.get("max-retries", 0)) < 3 or float(lychee.get("retry-wait-time", 0)) < 2:
+        bad.append("check-links.yml gives lychee no retries (max-retries >= 3, retry-wait-time >= 2); "
+                   "a refused connection on one curated link would turn the run red (#437)")
+    if "accept-codes" in lychee:
+        bad.append("check-links.yml sets accept-codes; widening it hides real failures (#437)")
+    return bad
+
+
 def check() -> int:
     """Offline. The arithmetic the weekly job's claim rests on, and its wiring."""
     docs, man, uncovered = coverage()
@@ -236,10 +314,17 @@ def check() -> int:
     print(f"  per run: {info['full']} small-host URL(s) in full + one of {info['cycle']} hash slots "
           f"of {info['bulk']} bulk-host URL(s) (largest slot {info['largest']}); "
           f"full cycle = {info['cycle']} week(s); budget {info['budget']} fetches/run")
+    print(f"  worst-case time of the largest run: "
+          f"{(info['full'] + info['largest']) * SECONDS_PER_URL / WORKERS / 60:.1f} min + "
+          f"{RETRY_ALLOWANCE_S / 60:.1f} min retry allowance, deadline {DEADLINE_MINUTES} min")
     bad = []
     if info["full"] + info["largest"] > info["budget"]:
         bad.append(f"the largest weekly slot ({info['full']} + {info['largest']} URLs) exceeds the "
                    f"{info['budget']}-URL budget; raise CYCLE_WEEKS (now {info['cycle']})")
+    over = budget_problem(info["full"] + info["largest"])
+    if over:
+        bad.append(f"the largest weekly run does not fit the deadline with retries: {over}; raise CYCLE_WEEKS "
+                   f"(now {info['cycle']})")
     seen: set[str] = set()
     for w in range(info["cycle"]):
         run, _ = plan(uncovered, w)
@@ -258,6 +343,7 @@ def check() -> int:
         bad.append(".github/workflows/check-links.yml does not run src/check_source_urls.py")
     if "schedule" not in (wf.get(True) or wf.get("on") or {}):
         bad.append("check-links.yml has no schedule; the source_url check would only run by hand")
+    bad += lychee_wiring_problems(wf)
     for m in bad:
         print("FAIL", m, file=sys.stderr)
     return 1 if bad else 0
@@ -282,6 +368,24 @@ class _H(http.server.BaseHTTPRequestHandler):
             self.end_headers()
             self.wfile.write(b"ok")
             return
+        m = re.fullmatch(r"/(reset|boom)(\d)", self.path)
+        if m:  # misbehave on the first N hits of this path, then answer 200
+            _H.hits[self.path] += 1
+            if _H.hits[self.path] <= int(m.group(2)):
+                if m.group(1) == "reset":
+                    self.close_connection = True
+                    self.connection.close()
+                    return
+                self.send_response(500)
+                self.send_header("Content-Length", "2")
+                self.end_headers()
+                self.wfile.write(b"no")
+                return
+            self.send_response(200)
+            self.send_header("Content-Length", "2")
+            self.end_headers()
+            self.wfile.write(b"ok")
+            return
         if self.path == "/redirect":
             self.send_response(302)
             self.send_header("Location", "/ok")
@@ -297,6 +401,100 @@ class _H(http.server.BaseHTTPRequestHandler):
         pass
 
     agents: list = []
+    hits: dict = defaultdict(int)
+
+
+def _selftest_retries(eq, base: str) -> None:
+    """#437: a transient transport fault is retried with backoff and only then a FAIL; the
+    semantics of 404/403/429, soft-404 and redirect loops are untouched (not retried)."""
+    fast = (0.01, 0.01)
+    # server resets (closes with no response) the first 2 connections, then serves 200
+    _H.hits.clear()
+    RETRIED.clear()
+    v = fetch(base + "/reset2", waits=fast)
+    eq("reset twice then 200 is ok", v[0], "ok")
+    eq("...and it is counted as retried", RETRIED.get(base + "/reset2"), 2)
+    # three resets with only two retries allowed: still a fail, naming the attempts
+    _H.hits.clear()
+    v = fetch(base + "/reset3", waits=fast)
+    eq("reset on every attempt is a fail", v[0], "fail")
+    eq("...detail names the attempt count", "after 3 attempts" in v[1], True)
+    # 5xx first, then 200
+    _H.hits.clear()
+    eq("500 then 200 is ok", fetch(base + "/boom1", waits=fast)[0], "ok")
+    eq("a persistent 500 is still a fail", fetch(base + "/boom", waits=fast)[0], "fail")
+    # non-transient answers are NOT retried
+    for path in ("/gone", "/forbidden", "/throttle", "/loop"):
+        RETRIED.clear()
+        fetch(base + path, waits=fast)
+        eq(f"{path} is not retried", RETRIED.get(base + path), None)
+    # a real ECONNREFUSED: nothing listens, the listener appears 0.4s later
+    # the port is bound (so nothing else can take it) but not listening: Linux refuses connections
+    late = http.server.ThreadingHTTPServer(("127.0.0.1", 0), _H, bind_and_activate=False)
+    late.server_bind()
+    port = late.server_address[1]
+    up = threading.Event()
+
+    def _come_up():
+        late.server_activate()
+        up.set()
+        late.serve_forever()
+    timer = threading.Timer(0.4, _come_up)
+    timer.daemon = True
+    timer.start()
+    try:
+        v = fetch(f"http://127.0.0.1:{port}/ok", waits=(0.3, 0.6, 1.0))
+        eq("connection refused, then the host comes up, is ok", v[0], "ok")
+        eq("...with a counted retry", RETRIED.get(f"http://127.0.0.1:{port}/ok", 0) >= 1, True)
+    finally:
+        timer.cancel()
+        if up.is_set():
+            late.shutdown()
+        late.server_close()
+    # a refusal makes the HOST cool down, so the other workers back off too
+    _COOLDOWN.clear()
+    _note_transient("h.example", 5)
+    eq("cooldown is recorded per host", "h.example" in _COOLDOWN and "other.example" not in _COOLDOWN, True)
+    _COOLDOWN.clear()
+    # ...and another worker really waits on it, while a different host does not
+    _note_transient("127.0.0.1", 0.3)
+    t0 = time.monotonic()
+    th = threading.Thread(target=lambda: fetch(base + "/ok", waits=fast))
+    th.start()
+    th.join()
+    eq("a cooled host delays another worker", time.monotonic() - t0 >= 0.28, True)
+    _COOLDOWN.clear()
+    _note_transient("other.example", 5)
+    t0 = time.monotonic()
+    fetch(base + "/ok", waits=fast)
+    eq("a different host is not delayed", time.monotonic() - t0 < 0.25, True)
+    _COOLDOWN.clear()
+    # a recorded 5xx host is blocked (KNOWN_BLOCKED semantics), an unrecorded one fails
+    KNOWN_BLOCKED["127.0.0.1"] = {"status": 500, "since": "t", "evidence": "t"}
+    try:
+        eq("recorded persistent 500 is blocked", fetch(base + "/boom", waits=fast)[0], "blocked")
+    finally:
+        del KNOWN_BLOCKED["127.0.0.1"]
+    eq("unrecorded persistent 500 is fail", fetch(base + "/boom", waits=fast)[0], "fail")
+    # only refusals/resets cool the host; a 500 does not
+    _COOLDOWN.clear()
+    fetch(base + "/boom", waits=fast)
+    eq("a 5xx does not cool the whole host", _COOLDOWN, {})
+    # the run reports how many URLs needed a retry
+    RETRIED.clear()
+    res = run_fetches([base + "/reset2", base + "/ok"], workers=2, pause=0, fetcher=lambda u: fetch(u, waits=fast))
+    eq("run_fetches verdicts after retry", sorted(v[0] for v in res.values()), ["ok", "ok"])
+    eq("retried count reported", len(RETRIED), 1)
+    # the workflow wiring rules can fail
+    good = {"jobs": {"l": {"uses": "./.github/workflows/check-links.yml", "with": {"max-retries": 3, "retry-wait-time": 2}}}}
+    eq("good lychee wiring has no problems", lychee_wiring_problems(good), [])
+    eq("no retries is a problem", len(lychee_wiring_problems({"jobs": {"l": {"uses": "x/check-links.yml", "with": {}}}})), 1)
+    good["jobs"]["l"]["with"]["accept-codes"] = "200..=599"
+    eq("accept-codes is a problem", len(lychee_wiring_problems(good)), 1)
+    # the deadline arithmetic the budget rests on
+    eq("budget fits: worst-case run time is under the deadline", budget_problem(1700, 4, 40) is None, True)
+    eq("budget counts the cool-down serially", "retry allowance" in (budget_problem(10**6) or ""), True)
+    eq("budget breaks when the window outgrows the deadline", budget_problem(1847, 4, 40) is not None, True)
 
 
 def selftest() -> int:
@@ -374,7 +572,8 @@ def selftest() -> int:
         finally:
             del SOFT_404[host]
         eq("honest user agent sent", set(a for a in _H.agents if a), {UA})
-        eq("unreachable host fails (not skipped)", fetch("http://127.0.0.1:9/x")[0], "fail")
+        eq("unreachable host fails (not skipped)", fetch("http://127.0.0.1:9/x", waits=(0.01, 0.01))[0], "fail")
+        _selftest_retries(eq, base)
         res = run_fetches([base + "/ok", base + "/gone"], workers=2, pause=0)
         eq("run_fetches verdicts", {u.rsplit("/", 1)[1]: v[0] for u, v in res.items()}, {"ok": "ok", "gone": "fail"})
         res = run_fetches([base + "/ok"] * 1 + [base + "/gone"], workers=1, deadline=time.monotonic() - 1, pause=0)
@@ -403,7 +602,7 @@ def main() -> int:
     ap.add_argument("--max-urls", type=int, default=DEFAULT_MAX_URLS)
     ap.add_argument("--week", type=int, default=None, help="rotation index (default: ISO-ordinal week of today)")
     ap.add_argument("--workers", type=int, default=WORKERS)
-    ap.add_argument("--deadline-minutes", type=float, default=40)
+    ap.add_argument("--deadline-minutes", type=float, default=DEADLINE_MINUTES)
     a = ap.parse_args()
     if a.check:
         return check()
@@ -432,6 +631,10 @@ def main() -> int:
             print(f"  {v.upper():11} ... {len(tally[v]) - 50} more")
     print()
     print("  " + ", ".join(f"{v}={len(tally[v])}" for v in ("ok", "fail", "blocked", "throttled", "not-checked")))
+    retried = {u: n for u, n in RETRIED.items() if u in res}
+    ends = Counter(res[u][0] for u in retried)
+    print(f"  {len(retried)} URL(s) needed a retry (transient fault): "
+          + ", ".join(f"{ends[v]} ended {v}" for v in ("ok", "fail", "throttled", "blocked") if ends[v]))
     if tally["not-checked"]:
         print(f"{len(tally['not-checked'])} URL(s) were NOT CHECKED: the deadline ran out first.")
     if tally["blocked"] or tally["throttled"]:
