@@ -26,17 +26,23 @@ necessary, and it would not finish inside a job limit. So:
 
   * every host with at most SMALL_HOST distinct URLs is checked IN FULL every run;
   * a bulk host (the OAR pages) is checked in a deterministic ROTATING WINDOW of
-    `--max-urls` per run: URLs are ordered by sha1(url) and the window is
-    `week % cycle`, so every URL is visited exactly once per `cycle` weeks and the order does
-    not shift when documents are added;
+    ~`--max-urls` per run: a URL's slot is `int(sha1(url), 16) % CYCLE_WEEKS` and the run
+    visits slot `week % CYCLE_WEEKS`, so every URL is visited exactly once per CYCLE_WEEKS
+    weeks and a URL's slot depends on the URL alone -- adding or removing documents never moves
+    another URL and never skips a slot. `--check` fails when the largest slot plus the
+    small hosts outgrows `--max-urls`: that is the signal to raise CYCLE_WEEKS;
   * the run prints its window ("window 7 of 15") and the cycle length, so "checked this
     week" is never confused with "checked";
   * a wall-clock `--deadline-minutes` stops fetching and lists what it did NOT reach as
     NOT CHECKED -- a run that ran out of time says so, it does not report the rest as fine.
 
-STATUS MEANINGS. 2xx/3xx-followed: ok. 404/410/5xx/DNS/TLS/timeout after one retry: FAIL
-(exit 1). 403 and 429 from a host not in KNOWN_BLOCKED: 429 is "throttled -- could not check"
-(listed, exit 0); 403 is a FAIL, because a 403 cannot be told from a withdrawn page and this
+STATUS MEANINGS. 2xx/3xx-followed: ok, EXCEPT a final URL on a SOFT_404 host that is that
+host's "no such record" page (OARD answers an unknown rule number with a 302 to a search page
+that returns 200): FAIL. A redirect that cannot be followed (loop, no Location): FAIL.
+404/410/5xx/DNS/TLS/timeout after one retry: FAIL (exit 1). 429 from a host not in
+KNOWN_BLOCKED is "throttled -- could not check", and a URL the deadline did not reach is "not
+checked": both are listed AND the job exits 2 (red, distinct from a real failure), because a
+skipped check is not a green one; 403 is a FAIL, because a 403 cannot be told from a withdrawn page and this
 repository never reports could-not-check as is-fine. KNOWN_BLOCKED is the federal-reference
 mechanism: a host that refuses our runners with a recorded status is reported unverifiable,
 and only while it keeps answering that exact status.
@@ -70,7 +76,7 @@ UA = ("OregonAI-corpus-bot/0.1 (+https://github.com/OregonAI/executive-regulator
 
 SMALL_HOST = 1000      # a host with at most this many distinct URLs is checked in full each run
 DEFAULT_MAX_URLS = 2500  # per-run budget: small hosts first, the bulk-host window gets the rest
-MIN_WINDOW = 500       # the bulk window never shrinks below this, however many small URLs there are
+CYCLE_WEEKS = 20       # the bulk host is split into this many hash slots; one slot per weekly run
 TIMEOUT = 30
 PAUSE = 0.25           # seconds each worker waits after a request
 WORKERS = 4
@@ -78,6 +84,11 @@ WORKERS = 4
 # host -> {"status", "since", "evidence"}. Empty today: nothing is recorded as refusing our
 # runners. An entry is a fact about OUR ACCESS, never about upstream; see the module docstring.
 KNOWN_BLOCKED: dict[str, dict] = {}
+
+# host -> substring of the FINAL url (after redirects) that means "no such record" although the
+# status is 200. secure.sos.state.or.us/oard answers an unknown or repealed ruleNumber with a 302
+# to ruleSearchResults.action;JSESSIONID=... (200); a real rule lands on viewSingleRule.action.
+SOFT_404 = {"secure.sos.state.or.us": "ruleSearchResults.action"}
 
 FM = re.compile(r"\A---\r?\n(.*?)\r?\n---", re.S)
 SRC = re.compile(r"^source_url:[ \t]*(.*?)[ \t]*$", re.M)
@@ -126,19 +137,22 @@ def _h(u: str) -> str:
     return hashlib.sha1(u.encode()).hexdigest()
 
 
-def plan(urls, week: int, max_urls: int = DEFAULT_MAX_URLS):
+def plan(urls, week: int, max_urls: int = DEFAULT_MAX_URLS, cycle: int = CYCLE_WEEKS):
     """Return (this_run, info). `urls` is the population (already deduped, not manifest)."""
     by_host: dict[str, list[str]] = defaultdict(list)
     for u in set(urls):
         by_host[urllib.parse.urlsplit(u).hostname or ""].append(u)
     full = sorted(u for h, us in by_host.items() if len(us) <= SMALL_HOST for u in us)
-    bulk = sorted((u for h, us in by_host.items() if len(us) > SMALL_HOST for u in us), key=_h)
-    window = max(max_urls - len(full), MIN_WINDOW)
-    cycle = max(1, math.ceil(len(bulk) / window)) if bulk else 1
+    bulk = sorted(u for h, us in by_host.items() if len(us) > SMALL_HOST for u in us)
+    slots: dict[int, list[str]] = defaultdict(list)
+    for u in bulk:
+        slots[int(_h(u), 16) % cycle].append(u)
     k = week % cycle
-    chunk = bulk[k * window:(k + 1) * window]
-    return full + chunk, {"full": len(full), "bulk": len(bulk), "window": window,
-                          "cycle": cycle, "k": k, "this_run": len(full) + len(chunk)}
+    chunk = slots.get(k, [])
+    largest = max((len(v) for v in slots.values()), default=0)
+    return full + chunk, {"full": len(full), "bulk": len(bulk), "cycle": cycle, "k": k,
+                          "largest": largest, "budget": max_urls,
+                          "this_run": len(full) + len(chunk)}
 
 
 def classify(status: int, host: str) -> str:
@@ -160,8 +174,14 @@ def fetch(url: str) -> tuple[str, str]:
         try:
             with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
                 r.read(1)  # the body starts; the headers alone prove less
+                final = r.geturl()
+                marker = SOFT_404.get(host)
+                if marker and marker in final:
+                    return "fail", f"soft-404: redirected to {final}"
                 return classify(r.status, host), f"HTTP {r.status}"
         except urllib.error.HTTPError as e:
+            if 300 <= e.code < 400:
+                return "fail", f"HTTP {e.code} (redirect not followed)"
             v = classify(e.code, host)
             if e.code >= 500 and attempt == 0:
                 last = f"HTTP {e.code}"
@@ -213,10 +233,13 @@ def check() -> int:
     print(f"  {len(docs)} distinct source_url(s) across {n_docs} document(s)")
     print(f"  {in_man} are manifest URLs (drift job); {len(uncovered)} are checked here "
           f"({sum(len(docs[u]) for u in uncovered)} document(s))")
-    print(f"  per run: {info['full']} small-host URL(s) in full + a {info['window']}-URL window of "
-          f"{info['bulk']} bulk-host URL(s); full cycle = {info['cycle']} week(s); "
-          f"~{info['this_run']} fetches/run")
+    print(f"  per run: {info['full']} small-host URL(s) in full + one of {info['cycle']} hash slots "
+          f"of {info['bulk']} bulk-host URL(s) (largest slot {info['largest']}); "
+          f"full cycle = {info['cycle']} week(s); budget {info['budget']} fetches/run")
     bad = []
+    if info["full"] + info["largest"] > info["budget"]:
+        bad.append(f"the largest weekly slot ({info['full']} + {info['largest']} URLs) exceeds the "
+                   f"{info['budget']}-URL budget; raise CYCLE_WEEKS (now {info['cycle']})")
     seen: set[str] = set()
     for w in range(info["cycle"]):
         run, _ = plan(uncovered, w)
@@ -243,6 +266,22 @@ def check() -> int:
 class _H(http.server.BaseHTTPRequestHandler):
     def do_GET(self):  # noqa: N802
         code = {"/ok": 200, "/gone": 404, "/forbidden": 403, "/throttle": 429, "/boom": 500}.get(self.path)
+        if self.path == "/loop":
+            self.send_response(302)
+            self.send_header("Location", "/loop")
+            self.end_headers()
+            return
+        if self.path == "/oard/view.action":
+            self.send_response(302)
+            self.send_header("Location", "/oard/ruleSearchResults.action;JSESSIONID=abc?ruleNumber=1")
+            self.end_headers()
+            return
+        if self.path == "/oard/viewSingleRule.action" or self.path.startswith("/oard/ruleSearchResults.action"):
+            self.send_response(200)
+            self.send_header("Content-Length", "2")
+            self.end_headers()
+            self.wfile.write(b"ok")
+            return
         if self.path == "/redirect":
             self.send_response(302)
             self.send_header("Location", "/ok")
@@ -273,28 +312,35 @@ def selftest() -> int:
     eq("absent is None, not ''", _source_url("---\nid: x\n---\nsource_url: https://in-body\n"), None)
     eq("no frontmatter", _source_url("source_url: https://a"), None)
 
-    # plan: small hosts in full, bulk host rotates, every URL visited exactly once per cycle
+    # plan: small hosts in full, bulk host rotates by hash slot, every URL visited exactly once per cycle
     small = [f"https://small.example/{i}" for i in range(40)]
     bulk = [f"https://bulk.example/{i}" for i in range(SMALL_HOST + 700)]
     pop = small + bulk
-    run0, info = plan(pop, 0, max_urls=DEFAULT_MAX_URLS)
-    eq("cycle length", info["cycle"], math.ceil(len(bulk) / max(DEFAULT_MAX_URLS - 40, MIN_WINDOW)))
-    run_small, info2 = plan(pop, 0, max_urls=40 + 600)
-    eq("window sized to budget", info2["window"], 600)
-    eq("small host fully in every run", set(small) <= set(run_small), True)
+    cyc = 5
+    run0, info = plan(pop, 0, cycle=cyc)
+    eq("cycle is the constant", info["cycle"], cyc)
+    eq("default cycle is CYCLE_WEEKS", plan(pop, 0)[1]["cycle"], CYCLE_WEEKS)
     visits = defaultdict(int)
-    for w in range(info2["cycle"]):
-        r, _ = plan(pop, w, max_urls=40 + 600)
+    for w in range(cyc):
+        r, _ = plan(pop, w, cycle=cyc)
+        eq("small host fully in every run", set(small) <= set(r), True)
         for u in r:
             if u.startswith("https://bulk"):
                 visits[u] += 1
     eq("each bulk URL visited exactly once per cycle", set(visits.values()), {1})
     eq("cycle visits all bulk URLs", len(visits), len(bulk))
-    eq("dedupes", len(plan(pop + pop, 0, max_urls=10 ** 6)[0]), len(pop))
-    r1, _ = plan(pop + ["https://bulk.example/new"], 0, max_urls=40 + 600)
-    r0, _ = plan(pop, 0, max_urls=40 + 600)
-    # order is by hash of the URL itself, so adding one URL shifts the window by at most one slot
-    eq("window mostly stable when a document is added", len(set(r0) & set(r1)) >= len(r0) - 1, True)
+    eq("week wraps around the cycle", plan(pop, cyc, cycle=cyc)[0], plan(pop, 0, cycle=cyc)[0])
+    eq("dedupes", len(plan(pop + pop, 0, cycle=1)[0]), len(pop))
+    # membership is stable when the population grows: slot depends on the URL alone, so adding
+    # documents -- even enough to cross a multiple of the old window -- moves no other URL
+    grown = pop + [f"https://bulk.example/new{i}" for i in range(900)]
+    for w in range(cyc):
+        r0, _ = plan(pop, w, cycle=cyc)
+        r1, _ = plan(grown, w, cycle=cyc)
+        eq(f"week {w}: every URL of the old slot stays in it after growth", set(r0) <= set(r1), True)
+        eq(f"week {w}: growth only adds URLs", set(r1) - set(r0) <= set(grown) - set(pop), True)
+    eq("a populated slot is never empty after growth",
+       all(plan(grown, w, cycle=cyc)[0] for w in range(cyc)), True)
 
     # classification
     eq("2xx ok", classify(200, "h"), "ok")
@@ -316,12 +362,27 @@ def selftest() -> int:
         for path, want in (("/ok", "ok"), ("/redirect", "ok"), ("/gone", "fail"),
                            ("/forbidden", "fail"), ("/throttle", "throttled")):
             eq(f"fetch {path}", fetch(base + path)[0], want)
+        eq("redirect loop fails, not ok", fetch(base + "/loop")[0], "fail")
+        host = urllib.parse.urlsplit(base).hostname
+        eq("soft-404 passes when the host is not in SOFT_404", fetch(base + "/oard/view.action")[0], "ok")
+        SOFT_404[host] = "ruleSearchResults.action"
+        try:
+            v = fetch(base + "/oard/view.action")
+            eq("soft-404 redirect to the search page fails", v[0], "fail")
+            eq("soft-404 detail names the final url", "ruleSearchResults.action" in v[1], True)
+            eq("a real record on a SOFT_404 host is ok", fetch(base + "/oard/viewSingleRule.action")[0], "ok")
+        finally:
+            del SOFT_404[host]
         eq("honest user agent sent", set(a for a in _H.agents if a), {UA})
         eq("unreachable host fails (not skipped)", fetch("http://127.0.0.1:9/x")[0], "fail")
         res = run_fetches([base + "/ok", base + "/gone"], workers=2, pause=0)
         eq("run_fetches verdicts", {u.rsplit("/", 1)[1]: v[0] for u, v in res.items()}, {"ok": "ok", "gone": "fail"})
         res = run_fetches([base + "/ok"] * 1 + [base + "/gone"], workers=1, deadline=time.monotonic() - 1, pause=0)
         eq("deadline lists the rest as not-checked, never ok", {v[0] for v in res.values()}, {"not-checked"})
+        eq("verdicts -> exit: all ok is 0", _exit_code({"ok": [1]}), 0)
+        eq("verdicts -> exit: not-checked is 2", _exit_code({"ok": [1], "not-checked": [1]}), 2)
+        eq("verdicts -> exit: throttled is 2", _exit_code({"throttled": [1]}), 2)
+        eq("verdicts -> exit: fail beats could-not-check", _exit_code({"fail": [1], "not-checked": [1]}), 1)
     finally:
         srv.shutdown()
 
@@ -329,7 +390,7 @@ def selftest() -> int:
         print("FAIL", m, file=sys.stderr)
     if fails:
         return 1
-    print("selftest ok: extraction, rotation, classification, fetch, deadline")
+    print("selftest ok: extraction, rotation, classification, fetch, soft-404, redirects, deadline, exit codes")
     return 0
 
 
@@ -375,11 +436,39 @@ def main() -> int:
         print(f"{len(tally['not-checked'])} URL(s) were NOT CHECKED: the deadline ran out first.")
     if tally["blocked"] or tally["throttled"]:
         print(f"{len(tally['blocked']) + len(tally['throttled'])} URL(s) could not be verified "
-              f"(blocked/throttled); not counted as failures, not confirmed reachable either.")
-    if tally["fail"]:
+              f"(blocked/throttled); not confirmed reachable.")
+    _step_summary(tally)
+    code = _exit_code(tally)
+    if code == 1:
         print(f"{len(tally['fail'])} of our own source_url(s) are unreachable", file=sys.stderr)
+    elif code == 2:
+        print("INCOMPLETE: some URLs were throttled or not reached; this run did not check its whole "
+              "window (exit 2, not a pass).", file=sys.stderr)
+    return code
+
+
+def _exit_code(tally) -> int:
+    """1 = a source_url is unreachable; 2 = nothing failed but part of the window could not be
+    checked (throttled / deadline) -- a skipped check is not a green one; 0 = whole window ok."""
+    if tally.get("fail"):
         return 1
+    if tally.get("not-checked") or tally.get("throttled"):
+        return 2
     return 0
+
+
+def _step_summary(tally) -> None:
+    path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not path:
+        return
+    lines = ["## Could not check", "", "| verdict | URLs |", "|---|---|"]
+    for v in ("ok", "fail", "blocked", "throttled", "not-checked"):
+        lines.append(f"| {v} | {len(tally.get(v, []))} |")
+    try:
+        with open(path, "a", encoding="utf-8") as f:
+            f.write("\n".join(lines) + "\n")
+    except OSError as e:
+        print(f"could not write step summary: {e}", file=sys.stderr)
 
 
 if __name__ == "__main__":

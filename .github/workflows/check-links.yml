@@ -29,8 +29,8 @@ jobs:
       # fails if one is left out of this list or a curated one is swept into it -- a new
       # agency's policy prefix lands there as a red gate, not as a slow weekly run.
       #
-      # ONE LOSS, DECLARED: `executive-orders/eo-` and `/oam-` also match 2 summary EOs and 3 summary OAM
-      # exhibits, which a prefix cannot tell from their verbatim siblings. Their body links
+      # LOSSES, DECLARED: `executive-orders/eo-` and `/oam-` also match 2 summary EOs and 3 summary OAM
+      # exhibits (and `/dhs-` a hidden decision record), which a prefix cannot tell from their verbatim siblings. Their body links
       # are unscanned (their `source_url`s are checked); the list is KNOWN_UNCOVERED in
       # src/check_links_scope.py. DAS `das-105-*` (all summary) is deliberately not listed.
       exclude-paths: |
@@ -77,8 +77,8 @@ jobs:
   # OUR OWN LINKS, which the lychee scope above no longer reads inside verbatim documents:
   # every document's frontmatter `source_url` that is not a drift-manifest URL (36,586 of
   # 44,638 distinct, 2026-10-06 -- 36,008 of them per-rule OAR pages). Bounded: small hosts
-  # in full every run, the OAR pages in a rotating window (full cycle 19 weeks), a 40-minute
-  # fetch deadline that reports what it did not reach. See src/check_source_urls.py.
+  # in full every run, the OAR pages in a rotating window (full cycle 20 weeks), a 40-minute
+  # fetch deadline that reports what it did not reach and exits 2 (red) then. See src/check_source_urls.py.
   source-urls:
     runs-on: ubuntu-latest
     timeout-minutes: 75

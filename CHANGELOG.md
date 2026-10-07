@@ -24,11 +24,12 @@ corpus-wide changes from 2026-08-02 forward.
   - `check-links.yml` `exclude-paths` now names the verbatim file prefixes (`/oar-`, `/ors-`,
     `/orconst-`, `executive-orders/eo-`, and the verbatim agency prefixes), not directories, so
     every `_index.md`, `CHANGELOG.md`, README/docs, `external-references/` and `llms.txt`
-    stay scanned: **146 files, 414 link occurrences, 306 distinct URLs** (measured by
+    stay scanned: **150 files, 415 link occurrences, 307 distinct URLs**, hidden directories included (the gate scans `.github/`, `.claude/`, `.out-of-scope/` too, erring toward over-checking because whether lychee's glob enters them is unconfirmed; the first run's `Total` shows which) (measured by
     extracting URLs from the in-scope files; the 09-14 run checked ~15 unique URLs/s, so
     about 20 seconds of fetching, seconds-to-minutes with retries, against a 6-hour limit).
     lychee's own `--exclude-path` cannot say "this prefix except those files" (regular
-    expressions, no look-ahead), so 2 summary EOs and 3 summary OAM exhibits that share a
+    expressions, no look-ahead), so 2 summary EOs, 3 summary OAM exhibits and 1 hidden decision record
+    (`.out-of-scope/dhs-policy-transmittals-full-ingest.md`) that share a
     prefix with verbatim siblings are out of the scan; this is declared, per file, in
     `KNOWN_UNCOVERED` rather than left silent. Their `source_url`s are still checked below.
   - New gate `src/check_links_scope.py --check/--selftest`: derives verbatim vs curated from
@@ -44,7 +45,16 @@ corpus-wide changes from 2026-08-02 forward.
     on oregon.gov, 52 DEQ records -- and nothing checked them. The job fetches the small
     hosts in full each Monday and the OAR pages in a deterministic rotating window (about
     2,500 fetches a run, four workers, honest user agent, a 40-minute deadline that lists what
-    it did not reach as NOT CHECKED); every OAR page is visited once per 19-week cycle. Its
+    it did not reach as NOT CHECKED); every OAR page is visited once per 20-week cycle, by
+    sha1-hash slot, so adding documents never moves another URL or skips a week. A missing or
+    repealed OAR rule is caught by its final URL: OARD answers an unknown rule with a 302 to
+    `ruleSearchResults.action`, which returns 200, so that redirect target is a failure (a
+    status-only check could never fail on 98% of the population). Redirect loops fail. A run
+    with throttled or not-reached URLs exits 2 (red) and writes its tally to the step summary,
+    because a skipped check is not a green one. Manifest URLs (8,052) are covered by the
+    drift job, which runs monthly (quarterly for `ors`, constitution, DHS transmittals and
+    retention schedules) and reports an isolated dead URL as FETCH FAILED in `DRIFT.md`,
+    not as a red job. Its
     `--check`/`--selftest` gates are offline (the self-test fetches from a loopback server).
 
 - 2026-10-01 — **The dead `das-policies-listing.json` citation, and its root cause (#425).**

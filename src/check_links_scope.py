@@ -62,6 +62,8 @@ SAFE = re.compile(r"^[A-Za-z0-9_./-]+$")
 # own `source_url`s are still fetched by `src/check_source_urls.py`; their body links are the
 # only thing not scanned. Each entry is (path, why).
 KNOWN_UNCOVERED = {
+    ".out-of-scope/dhs-policy-transmittals-full-ingest.md":
+        "our own decision record, hidden dir; shares the `/dhs-` prefix with the verbatim DHS policies",
     "executive-orders/eo-12-09.md": "summary EO; shares the `executive-orders/eo-` prefix with 524 verbatim EOs",
     "executive-orders/eo-16-15.md": "summary EO; shares the `executive-orders/eo-` prefix with 524 verbatim EOs",
     "agencies/department-of-administrative-services/accounting-manual/oam-55-30-00-appendix-b.md":
@@ -92,11 +94,14 @@ def exclude_patterns(workflow_text: str) -> list[str]:
 
 
 def scan_inputs(root: Path):
-    """Files lychee is handed: `./**/*.md` and `llms.txt`, skipping hidden dirs as lychee does."""
+    """Files lychee may be handed: `./**/*.md` and `llms.txt`. Hidden directories are INCLUDED
+    (only `.git` and `.toolkit` are not): whether lychee's glob descends into them is not
+    verified, and the gate errs toward over-checking, so a verbatim document placed under a
+    hidden directory cannot escape it. The first run's "Total" count shows which it is."""
     for dirpath, dirs, files in os.walk(root):
-        dirs[:] = sorted(d for d in dirs if not d.startswith("."))
+        dirs[:] = sorted(d for d in dirs if d not in (".git", ".toolkit"))
         for f in sorted(files):
-            if f.endswith(".md") and not f.startswith("."):
+            if f.endswith(".md"):
                 yield Path(dirpath, f).relative_to(root).as_posix()
     if (root / "llms.txt").exists():
         yield "llms.txt"
@@ -183,16 +188,17 @@ def selftest() -> int:
         _w(root, "agencies/a/policies/_index.md", None)
         _w(root, "agencies/a/policies/pol-1.md", "summary")
         _w(root, "_meta/templates/rule.md", "verbatim")
-        _w(root, ".hidden/x.md", "verbatim")
+        _w(root, ".hidden/oar-x.md", "verbatim")  # hidden dirs are scanned by the gate
         (root / "llms.txt").write_text("x")
 
         f, c = evaluate(root, ["/oar-", "_meta/templates"], known={}, infra=("_meta/templates",))
         expect("clean scope is green", [r for r, *_ in f], [])
-        if (c["scanned"], c["excluded-verbatim"], c["excluded-infra"]) != (5, 1, 1):
+        if (c["scanned"], c["excluded-verbatim"], c["excluded-infra"]) != (5, 2, 1):
             fails.append(f"counts wrong: {c}")
 
         f, _ = evaluate(root, ["_meta/templates"], known={}, infra=("_meta/templates",))
-        expect("verbatim doc left in scope fails", [r for r, *_ in f], ["verbatim-not-excluded"])
+        expect("verbatim doc left in scope fails (hidden dir included)", [r for r, *_ in f],
+               ["verbatim-not-excluded", "verbatim-not-excluded"])
 
         f, _ = evaluate(root, ["/oar-", "pol-"], known={}, infra=("_meta/templates",))
         expect("curated doc hidden fails", [r for r, *_ in f],
