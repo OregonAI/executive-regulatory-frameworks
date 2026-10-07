@@ -12,9 +12,55 @@ jobs:
   links:
     uses: OregonAI/corpus-toolkit/.github/workflows/check-links.yml@v1
     with:
+      # SCOPE: THE LINKS THIS CORPUS PUBLISHES, NOT THE LAW IT MIRRORS (#435). ~81,900 of the
+      # ~82,100 markdown files are `content_mode: verbatim` copies of an OAR/ORS/EO/policy,
+      # and a faithful copy of a page that cites a URL that died years ago is accurate, not
+      # link rot -- "fixing" it would mean editing the law. Scanning them took 45-60 minutes
+      # and never passed, then hit the six-hour limit (2026-09-21, -28, 10-05). Our own links
+      # are checked instead by `src/check_source_urls.py` (job below) for every document's
+      # `source_url`, and by lychee for everything curated: README/docs, every `_index.md`
+      # and CHANGELOG, external-references/, llms.txt.
+      #
+      # Each line is a lychee --exclude-path REGEX (a search over the path, no look-ahead),
+      # kept to [A-Za-z0-9_./-] because the reusable workflow splices them into a shell
+      # command unquoted. They name FILE PREFIXES, not directories, so `_index.md` and
+      # CHANGELOG.md in the same directories stay in scope. `python3 src/check_links_scope.py
+      # --check` derives which documents are verbatim from their own `content_mode` and
+      # fails if one is left out of this list or a curated one is swept into it -- a new
+      # agency's policy prefix lands there as a red gate, not as a slow weekly run.
+      #
+      # ONE LOSS, DECLARED: `executive-orders/eo-` and `/oam-` also match 2 summary EOs and 3 summary OAM
+      # exhibits, which a prefix cannot tell from their verbatim siblings. Their body links
+      # are unscanned (their `source_url`s are checked); the list is KNOWN_UNCOVERED in
+      # src/check_links_scope.py. DAS `das-105-*` (all summary) is deliberately not listed.
       exclude-paths: |
         _meta/snapshots
         _meta/templates
+        /oar-
+        /ors-
+        /orconst-
+        executive-orders/eo-
+        /oam-
+        /das-10-
+        /das-107-
+        /das-20-
+        /das-30-
+        /das-40-
+        /das-50-
+        /das-60-
+        /das-70-
+        /doc-
+        /deq-
+        /dhs-
+        /eis-css-itcs
+        /eis-css-secplan
+        /eis-css-program-plan
+        /oha-
+        /omd-
+        /oweb-
+        /oya-
+        /puc-
+        /schedule-
       # BY URL, AND ONLY FOR LINKS NOTHING HERE CAN FIX. Each was checked by hand before
       # being listed; a host that merely failed once is NOT here, because excluding a
       # working link is how a link check stops being one.
