@@ -17,15 +17,18 @@ corpus-wide changes from 2026-08-02 forward.
   ("Connection failed"); `source-urls` ok=2,241 fail=72, essentially all `[Errno 111] Connection
   refused`, and 20 of 20 of those re-fetched ok from outside GitHub. No document was changed.
   - `src/check_source_urls.py`: a refused/reset connection, timeout, DNS error or 5xx is retried
-    with backoff (waits 2 s then 6 s, 3 attempts) and only then a FAIL; a refusal also puts the
-    host on a shared cool-down so the other workers stop the burst. 404/410/403/429, soft-404 and
-    redirect-loop semantics, `KNOWN_BLOCKED` and exit codes 0/1/2 are unchanged. The run now
+    with backoff (waits 2 s then 6 s, 3 attempts) and only then a FAIL; a refusal or reset (only
+    those) also puts the host on a shared cool-down so every worker pauses and the burst stops,
+    while a timeout or 5xx only makes the retrying worker wait. 404/410/403/429, soft-404 and
+    redirect-loop semantics, `KNOWN_BLOCKED` (including a recorded 5xx on the last attempt) and exit
+    codes 0/1/2 are unchanged. The run now
     prints how many URLs needed a retry and how they ended.
   - BUDGET: that run took ~39.5 min of the 40-minute deadline for 2,313 URLs (4.1 s per URL per
     worker, 4 workers), so retries on top of the same window would have produced not-checked
-    URLs. `CYCLE_WEEKS` goes 20 -> 30 (every OAR page now visited once per 30 weeks, not 20; largest
-    slot 1,269 of 36,008, was 1,895): the largest run is 578 + 1,269 = 1,847 URLs, 31.6 min plus a 5-min
-    retry allowance = 36.6 min of 40. `--check` now fails if that arithmetic stops fitting. Worst
+    URLs. `CYCLE_WEEKS` goes 20 -> 34 (every OAR page now visited once per 34 weeks, not 20; this trades
+    coverage frequency for the retry budget and is an operator call): the largest run is 578 + 1,122
+    = 1,700 URLs, 29.0 min plus a 9.6-min retry allowance (72 refusals x 8 s of cool-down, counted as
+    serial wall clock because the cool-down stops all 4 workers, not divided by workers) = 38.6 min of 40. `--check` now fails if that arithmetic stops fitting. Worst
     case, a host that refuses everything: the deadline check before each URL stops the run at 40 min
     plus the URL in flight (3 x 30 s timeout + 8 s waits = 98 s), inside the 75-minute job limit, and
     the unreached rest is reported NOT CHECKED (red), never ok.
