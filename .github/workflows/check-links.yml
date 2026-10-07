@@ -73,3 +73,20 @@ jobs:
       # comes back with lychee's backend named as the cause, so the mute is attributed to
       # our checker instead of to Oregon's server.
       chain-supplements: true
+
+  # OUR OWN LINKS, which the lychee scope above no longer reads inside verbatim documents:
+  # every document's frontmatter `source_url` that is not a drift-manifest URL (36,586 of
+  # 44,638 distinct, 2026-10-06 -- 36,008 of them per-rule OAR pages). Bounded: small hosts
+  # in full every run, the OAR pages in a rotating window (full cycle 19 weeks), a 40-minute
+  # fetch deadline that reports what it did not reach. See src/check_source_urls.py.
+  source-urls:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Fetch the source_urls nothing else checks
+        run: python3 src/check_source_urls.py

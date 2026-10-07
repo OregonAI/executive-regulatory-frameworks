@@ -332,6 +332,12 @@ GATES = (
     Gate('...and that scope rule must be able to fail (check-links scope)',
          ('python3', 'src/check_links_scope.py', '--selftest'),
          tier='pr', serial=True, timeout=120),
+    Gate("Every source_url this corpus publishes must be checked by something, and the weekly check wired (#435)",
+         ('python3', 'src/check_source_urls.py', '--check'),
+         tier='pr', serial=False, timeout=300),
+    Gate('...and the source_url check must be able to fail (loopback server, no network)',
+         ('python3', 'src/check_source_urls.py', '--selftest'),
+         tier='pr', serial=True, timeout=300),
 )
 
 
