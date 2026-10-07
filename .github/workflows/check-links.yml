@@ -73,11 +73,18 @@ jobs:
       # comes back with lychee's backend named as the cause, so the mute is attributed to
       # our checker instead of to Oregon's server.
       chain-supplements: true
+      # TRANSIENT REFUSALS (#437). The first live run turned red on 3 OARD links in DRIFT.md,
+      # "Connection failed", that answer 200 when asked again. Retry before calling a link
+      # broken: 5 attempts (the toolkit default is 3 / 2 s) waiting 10 s between them, which
+      # lets a host that refuses a burst recover. accept-codes is NOT widened: a 404 or 403
+      # is still an error, and a link that refuses all 5 attempts is still red.
+      max-retries: 5
+      retry-wait-time: 10
 
   # OUR OWN LINKS, which the lychee scope above no longer reads inside verbatim documents:
   # every document's frontmatter `source_url` that is not a drift-manifest URL (36,586 of
   # 44,638 distinct, 2026-10-06 -- 36,008 of them per-rule OAR pages). Bounded: small hosts
-  # in full every run, the OAR pages in a rotating window (full cycle 20 weeks), a 40-minute
+  # in full every run, the OAR pages in a rotating window (full cycle 30 weeks), a 40-minute
   # fetch deadline that reports what it did not reach and exits 2 (red) then. See src/check_source_urls.py.
   source-urls:
     runs-on: ubuntu-latest

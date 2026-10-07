@@ -11,6 +11,30 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-10-07 — **`check-links`: a refused connection is retried before it is a finding (#437).**
+  The first live run after #436 (37571625562) was red in both jobs on transient faults, not dead
+  links: lychee 1,100 links / 3 errors, all `secure.sos.state.or.us/oard` URLs in `DRIFT.md`
+  ("Connection failed"); `source-urls` ok=2,241 fail=72, essentially all `[Errno 111] Connection
+  refused`, and 20 of 20 of those re-fetched ok from outside GitHub. No document was changed.
+  - `src/check_source_urls.py`: a refused/reset connection, timeout, DNS error or 5xx is retried
+    with backoff (waits 2 s then 6 s, 3 attempts) and only then a FAIL; a refusal also puts the
+    host on a shared cool-down so the other workers stop the burst. 404/410/403/429, soft-404 and
+    redirect-loop semantics, `KNOWN_BLOCKED` and exit codes 0/1/2 are unchanged. The run now
+    prints how many URLs needed a retry and how they ended.
+  - BUDGET: that run took ~39.5 min of the 40-minute deadline for 2,313 URLs (4.1 s per URL per
+    worker, 4 workers), so retries on top of the same window would have produced not-checked
+    URLs. `CYCLE_WEEKS` goes 20 -> 30 (every OAR page now visited once per 30 weeks, not 20; largest
+    slot 1,269 of 36,008, was 1,895): the largest run is 578 + 1,269 = 1,847 URLs, 31.6 min plus a 5-min
+    retry allowance = 36.6 min of 40. `--check` now fails if that arithmetic stops fitting. Worst
+    case, a host that refuses everything: the deadline check before each URL stops the run at 40 min
+    plus the URL in flight (3 x 30 s timeout + 8 s waits = 98 s), inside the 75-minute job limit, and
+    the unreached rest is reported NOT CHECKED (red), never ok.
+  - `check-links.yml`: lychee `max-retries: 5`, `retry-wait-time: 10` (toolkit default 3 / 2 s).
+    `accept-codes` is not widened.
+  - Selftest: loopback server that resets the first N connections (ok after retry, fail when
+    every attempt resets), 500-then-200, a port that really refuses until a listener comes up,
+    non-transient answers not retried, and the deadline arithmetic.
+
 - 2026-10-06 — **`check-links` scoped to the links this corpus publishes, and our own
   `source_url`s given a check that is not lychee (#435).** The weekly lychee run had never
   passed (failed in 40-57 minutes through 2026-09-14, then cancelled at the six-hour limit on
