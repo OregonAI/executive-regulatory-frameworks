@@ -28,13 +28,8 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
+
+
  Skip to main content. 
  
  
@@ -59,73 +54,84 @@
 
 
  
- Oregon Administrative Rules 
- Quick Rule Search Results 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
  
  
  
 
- For full functionality of this site, it is necessary to enable JavaScript. Here are the instructions on how to enable JavaScript in your web browser. 
+ 
+ 
 
  
  
  
  
- Your search for 331-430-0000 returned 2 results. 
- 
- New Search | Modify Search 
- 
- 
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
- 
- 
- -->
  
  
  
  
- 
- 
- 
- Rule Number 
- Rule Title 
- Chapter Name 
+ Oregon Health Authority 
+ Health Licensing Office - Chapter 331 
  
  
  
  
- 
- 
- 
- 
+ Division 430 DISCIPLINE; CIVIL PENALTIES 
  331-430-0000 
- 
- Disciplinary Action 
- 
- 
- Oregon Health Authority, Health Licensing Office 
- 
- 
- 
- 
- 
- 
- 331-430-0000 
- 
  Disciplinary Action
  
  
+ (1) The Office may refuse to issue, suspend or revoke a license, or place a licensed person on probation for the causes stated in ORS 680.535. 
+
+ (2) The Office shall have grounds for a determination of incompetency in the practice of denture technology pursuant to ORS 680.535, upon evidence of the use of any controlled substance, dangerous or illegal drug, intoxicating liquor, or any emotional or physical impairment of a denturist, to the extent that such use or condition impairs or prevents the denturists ability to perform competently. 
+
+ (3) The Office shall have grounds for a determination of fraud or misrepresentation in the practice of denture technology pursuant to ORS 680.535, upon evidence of any advertising statements of a nature that would deceive or mislead the public or that are untruthful, such as: 
+
+ (a) Incorrect use of a title; or 
+
+ (b) Claiming or implying a qualification, competency or specialty in connection with the practice of denture technology to which the person is not entitled, or which is untrue. 
+
+ (4) The specific identification of grounds for disciplinary action stated in sections (2) and (3) of this rule are intended to be descriptive of some, but not limited to, those causes for which disciplinary action may be taken as stated in ORS 680.535. 
+
+ (5) Failure to cooperate with the Office or its agent is considered unprofessional conduct and is subject to discipline, which may include license suspension, revocation and/or assessment of civil fines. Unprofessional conduct includes, but is not limited to, the following: 
+
+ (a) Failing to respond to an inquiry from the Office regarding a complaint; 
+
+ (b) Failing to provide information to the Office in response to a written inquiry, or provide written response within specified time allotted by notice of intended action; 
+
+ (c) Failing to temporarily surrender custody of original client records to the Office upon request, which includes treatment charts, models, health histories, billing documents, correspondence and memoranda; 
+
+ (d) Interference, use of threats or harassment that delays or obstructs any person in providing evidence in any investigation, contested case, or other legal action instituted by the Office; 
+
+ (e) Interference, use of threats or harassment which obstructs or delays the Office in carrying out its functions under ORS 680.500 to 680.535 and rules adopted thereunder; 
+
+ (f) Deceiving or attempting to deceive the Board or Office concerning any matter under investigation including altering or destroying any records. 
+
+ (6) When the Office requires correction of deficiencies in lieu of the suspension, revocation or denial of license, the correction shall be made within the time frames established by the Office or the suspension, revocation or denial of license action will proceed. 
+
+ (7) Practicing denture technology while a license is in suspended status is grounds for additional disciplinary action, which includes revocation and/or fines. 
+
  
- Oregon Health Authority, Health Licensing Office 
+ 
+ 
+ 
+ Statutory/Other Authority:  676.583, ORS 680.586, 676.608 & 680.535 
+ 
+ 
+ Statutes/Other Implemented:  ORS 680.586 & 680.535 
+ 
+ History: 
  
  
  
@@ -133,24 +139,104 @@
  
  
  
- New Search | Modify Search 
- 
- 
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
+ HLO 70-2018, amend filed 02/28/2018, effective 03/01/2018 
  
  
  
  
  
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HDLP 1-2001, f. 3-21-01, cert. ef. 4-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HDLP 3-1998, f. 6-26-98, cert. ef. 7-1-98, Renumbered from 333-020-0075 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 22-1993, f. 12-30-93, cert. ef. 1-1-94 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 3-1992, f. & cert. ef. 3-25-92 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 13-1991(Temp), f. & cert. ef. 9-30-91 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 4-1989, f. & cert. ef. 6-1-89 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ HD 1-1983, f. & ef. 1-20-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
  
  
 

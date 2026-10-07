@@ -28,13 +28,8 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
+
+
  Skip to main content. 
  
  
@@ -59,72 +54,62 @@
 
 
  
- Oregon Administrative Rules 
- Quick Rule Search Results 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
  
  
  
 
- For full functionality of this site, it is necessary to enable JavaScript. Here are the instructions on how to enable JavaScript in your web browser. 
+ 
+ 
 
  
  
  
  
- Your search for 804-010-0020 returned 2 results. 
- 
- New Search | Modify Search 
  
  
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
- 
- 
- -->
- 
- 
- 
- 
- 
- 
- 
- Rule Number 
- Rule Title 
- Chapter Name 
- 
- 
- 
- 
- 
- 
- 
- 
- 804-010-0020 
- 
- Extension of Experience 
  
  Landscape Architect Board 
+ Chapter 804 
  
  
  
  
  
- 
- 
+ Division 10 EXAMINATION QUALIFICATIONS 
  804-010-0020 
- 
  Experience in Lieu of Education
  
  
- Landscape Architect Board 
+ (1) An applicant for registration may meet the Board education requirement by completing 5 years of diversified work experience under the direct supervision of a licensed or Registered Landscape Architect. 
+
+ (2) An applicant applying under the provisions of this section must submit a written request to the Board seeking consideration of work experience in lieu of education. 
+
+ (3) The Board shall advise on the format for submitting required work experience documentation. 
+
+ (4) Work experience applied as education credit may not also be used to satisfy work experience requirements for registration found in OAR 804 Division 22. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 670.310, ORS 671.415 & ORS 671.335 
+ 
+ 
+ Statutes/Other Implemented:  ORS 671.335 
+ 
+ History: 
  
  
  
@@ -132,25 +117,127 @@
  
  
  
- 
- New Search | Modify Search 
- 
- 
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
+ LAB 2-2025, amend filed 11/17/2025, effective 12/01/2025 
  
  
  
  
  
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LAB 1-2021, amend filed 02/05/2021, effective 02/10/2021 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LAB 1-2014, f. & cert. ef. 11-19-14 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Renumbered from 804-010-0005, LAB 1-2007, f. & cert. ef. 4-27-07 
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+ Reverted to LAB 2-1998, f. & cert. ef. 4-22-98 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LAB 1-2001(Temp), f. 12-24-01 cert. ef. 1-1-02 thru 5-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LAB 2-1998, f. & cert. ef. 4-22-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LAB 1-1984, f. & ef. 1-5-84 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LAB 1-1983, f. & ef. 2-1-83 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ LAB 2-1982, f. & ef. 6-24-82 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
  
  
 

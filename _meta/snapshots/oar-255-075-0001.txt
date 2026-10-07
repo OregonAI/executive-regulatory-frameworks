@@ -28,13 +28,8 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
+
+
  Skip to main content. 
  
  
@@ -59,72 +54,74 @@
 
 
  
- Oregon Administrative Rules 
- Quick Rule Search Results 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
  
  
  
 
- For full functionality of this site, it is necessary to enable JavaScript. Here are the instructions on how to enable JavaScript in your web browser. 
+ 
+ 
 
  
  
  
  
- Your search for 255-075-0001 returned 2 results. 
- 
- New Search | Modify Search 
  
  
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
- 
- 
- -->
- 
- 
- 
- 
- 
- 
- 
- Rule Number 
- Rule Title 
- Chapter Name 
- 
- 
- 
- 
- 
- 
- 
- 
- 255-075-0001 
- 
- Definitions 
  
  Board of Parole and Post-Prison Supervision 
+ Chapter 255 
  
  
  
  
  
- 
- 
+ Division 75 PROCEDURES FOR RESPONSES TO PAROLE AND POST-PRISON SUPERVISION CONDITIONS VIOLATIONS FOR OFFENDERS UNDER THE JURISDICTION OF THE BOARD OF PAROLE AND POST-PRISON SUPERVISION OR LOCAL SUPERVISORY AUTHORITY 
  255-075-0001 
- 
  Definitions
  
  
- Board of Parole and Post-Prison Supervision 
+ (1) “Administrative Sanction” means local, structured, or intermediate sanctions as those terms are used in OAR 291-058, and may include periods of local confinement in jails, restitution centers, treatment facilities, or similar facilities. 
+
+ (2) “Sanction Authority” means: 
+
+ (a) The Board or its designee for: 
+
+ (A) Any felony offender who received a sentence of more than twelve (12) months in the custody of the Department of Corrections; or 
+
+ (B) Any felony offender who received a sentence of twelve (12) months or less but who also has an additional sentence of greater than twelve (12) months. 
+
+ (i) If an offender is on post-prison supervision for multiple sentences which include a sentence that exceeds twelve (12) months (“Board case”) and a less than twelve (12) month sentence (“Local Supervisory Authority case”), the Board will maintain jurisdiction of the post-prison supervision of the Local Supervisory Authority case until the Board’s active involvement in the Board cases expires. Following expiration of the Board’s cases, the Board will maintain jurisdiction over the post-prison supervision of the Local Supervisory Authority cases until an offender is re-released following revocation of the post-prison supervision for the Local Supervisory Authority cases, or until the Local Supervisory Authority petitions to assume jurisdiction, whichever comes first. Jurisdiction will fall under the Local Supervisory Authority at that point. 
+
+ (ii) If the Board issued the order of post-prison supervision for an offender whose only sentence was twelve (12) months or less, jurisdiction will remain with the Board until petition by the Supervisory Authority to assume jurisdiction or upon re-release following revocation of the post-prison supervision for that sentence; whichever comes first. 
+
+ (b) The Local Supervisory Authority or its designee for any felony offender whose crime was committed after November 1, 1989, was sentenced by the court to twelve (12) months or less, and who does not have an additional sentence of more than twelve (12) months for a felony. 
+
+ (3) “Initiate a hearing” means person under supervision is presented a Notice of Rights. 
+
+ (4) Other definitions in 255-005. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 144.140 
+ 
+ 
+ Statutes/Other Implemented:  ORS 144.096, 144.098, 144.102, 144.106, 144.108, 144.346 & Ch. 51 & OL 1997 (Enrolled SB 156) 
+ 
+ History: 
  
  
  
@@ -132,25 +129,68 @@
  
  
  
- 
- New Search | Modify Search 
- 
- 
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
+ PAR 8-2020, amend filed 10/05/2020, effective 10/05/2020 
  
  
  
  
  
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PAR 3-1998, f. 8-26-98, cert. ef. 8-27-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PAR 2-1998(Temp), f. & cert. ef. 7-13-98 thru 1-9-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PAR 1-1998, f. & cert. ef. 5-11-98 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ PAR 11-1997(Temp), f. & cert. ef. 11-14-97 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
  
  
 

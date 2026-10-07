@@ -36,86 +36,11 @@
   ga('send', 'pageview');
   ga('sos.send', 'pageview');
 </script>
-        <!-- Tablesorter: pagination -->
-	<link rel="stylesheet" href="js/tablesorter/addons/pager/jquery.tablesorter.pager.css">
-	<script src="js/tablesorter/addons/pager/jquery.tablesorter.pager.js"></script>
-	<script src="js/tablesorter/js/jquery.tablesorter.widgets.js"></script>
-        
-        <script>
-            function viewRule(rsn) {
-                $("#searchRuleVrsnRsn").val(rsn);
-                $("#resultsForm").attr("action", "viewQuickSearchRule.action");
-                $("#resultsForm").submit();
-            }
-            
-            function modifySearch() {
-                $("#resultsForm").attr("action", "modifyQuickSearch.action");
-                $("#resultsForm").submit();
-            }
-            
-            $(function() {                
-                var pagerOptions = {
-                    // target the pager markup - see the HTML block below
-                    container: $(".pager"),                    
-
-                    // output string - default is '{page}/{totalPages}'
-                    // possible variables: {page}, {totalPages}, {filteredPages}, {startRow}, {endRow}, {filteredRows} and {totalRows}
-                    // also {page:input} & {startRow:input} will add a modifiable input in place of the value                    
-                    output: 'Page {page:input} of {totalPages}',
-
-                    // apply disabled classname (cssDisabled option) to the pager arrows when the rows
-                    // are at either extreme is visible; default is true
-                    updateArrows: true,
-
-                    // starting page of the pager (zero based index)
-                    page: 0,
-
-                    // Number of visible rows - default is 10 (RLL - changed to 25)
-                    size: 25,
-
-                    // Save pager page & size if the storage script is loaded (requires $.tablesorter.storage in jquery.tablesorter.widgets.js)
-                    savePages : false,
-
-                    // Reset pager to this page after filtering; set to desired page number (zero-based index),
-                    // or false to not change page at filter start
-                    pageReset: 0,
-
-                    // if true, the table will remain the same height no matter how many records are displayed. The space is made up by an empty
-                    // table row set to a height to compensate; default is false
-                    fixedHeight: false,
-
-                    // remove rows from the table to speed up the sort of large tables.
-                    // setting this to false, only hides the non-visible rows; needed if you plan to add/remove rows with the pager enabled.
-                    removeRows: false,
-
-                    // If true, child rows will be counted towards the pager set size
-                    countChildRows: false,
-
-                    // css class names of pager arrows
-                    cssNext: '.next', // next page arrow
-                    cssPrev: '.prev', // previous page arrow
-                    cssFirst: '.first', // go to first page arrow
-                    cssLast: '.last', // go to last page arrow
-                    cssGoto: '.gotoPage', // select dropdown to allow choosing a page
-
-                    cssPageDisplay: '.pagedisplay', // location of where the "output" is displayed
-                    cssPageSize: '.pagesize', // page size selector - select dropdown that sets the "size" option
-
-                    // class added to arrows when at the extremes (i.e. prev/first arrows are "disabled" when on the first page)
-                    cssDisabled: 'disabled', // Note there is no period "." in front of this class name
-                    cssErrorRow: 'tablesorter-errorRow' // ajax error information row
-                };
-                $("#results").tablesorter({
-                    theme : 'green'		
-                })
-                // initialize the pager plugin
-		.tablesorterPager(pagerOptions);
-            });
-        </script>
-        
     </head>
     <body>
         
+
+
 <div class="skip"><a href="#main_content">Skip to main content.</a></div>
 <div id="wrapper">
     <div class='sos-header-wrapper'>
@@ -139,106 +64,87 @@
     </div>
 
 
-        <div id="content_noside"><a name="main_content" id="main_content"></a>
-        <h1>Oregon Administrative Rules</h1>
-        <h2>Quick Rule Search Results</h2>
-        
-        
-        
+<div id="secondary_navbar"> 
+   <div class="sidebar_nav">
+       
 
-<noscript class="errors">For full functionality of this site, it is necessary to enable JavaScript. Here are the <a href="http://www.enable-javascript.com" target="_blank"> instructions</a> on how to enable JavaScript in your web browser.</noscript>
+<ul>
+   <li><a href="javascript:void(0)" onclick="window.location = 'processLogin.action'">OARD Home</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'ruleSearch.action'">Search Current Rules</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'filingSearch.action'">Search Filings</a></li> 
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayBulletins.action'">Access the Oregon Bulletin</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayCompilations.action'">Access the Annual Compilation</a></li>
+   <li><a href="faq.action" target="_blank">FAQ</a></li>
+   
+   <li><a href="javascript:void(0)" onclick="window.location = 'login.action'">Rules Coordinator / Rules Writer Login</a></li>
+   
+   
+</ul>
 
-        <form id="resultsForm" name="resultsForm" method="post">
-        <input type="hidden" name="ruleNumber" value="340-222-0090" id="ruleNumber"/>
-        <input type="hidden" name="resultCount" value="2" id="resultCount"/>
-        <input type="hidden" name="searchRuleVrsnRsn" value="" id="searchRuleVrsnRsn"/>
-        <p>Your search for 340-222-0090 returned 2 results.</p>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a href="javascript:void(0)" onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" /> 		
-            <!--<select class="gotoPage" title="Select page number"></select>-->
-	</div>
-        </div>
-        <div class="form_clear_results"></div>    
-        <div class="table_div_results">
-        <table id="results" class="tablesorter">
-            <thead>
-                <tr>
-                    <th>Rule Number</th>
-                    <th>Rule Title</th>
-                    <th>Chapter Name</th>
-                </tr>
-            </thead>
-            <tbody>
-                 
+   </div>
+</div>
+
+        <div id="content"><a name="main_content" id="main_content"></a>
+        
+            
+        
+            
+        
+                    
+            <h1><a href='/oard/displayChapterRules.action?selectedChapter=80'>Department of Environmental Quality</a></h1>
+            <h2><a href='/oard/displayChapterRules.action?selectedChapter=80'>Chapter 340</a></h2>
+        
+        
+        
+            
+        
+        <h3><a href='/oard/displayDivisionRules.action?selectedDivision=1542'>Division 222<br>STATIONARY SOURCE PLANT SITE EMISSION LIMITS</a></h3>
+        <p><strong>340-222-0090</strong>            
+        <br><strong>Combining and Splitting Sources and Changing Primary SIC Code</strong></p>
+        
+        <p>(1) Two or more sources may combine into one source if the criteria in subsection (a) are met. When two or more sources combine into one source under this rule, the combined source is subject to the criteria in subsection (b).</p><p>(a) Two or more sources may combine into one source only if all of the following criteria are met:</p><p>(A) All individual sources that are being combined must be located within or impact the same airshed; and</p><p>(B) The combined source must have the same primary 4-digit SIC code as at least one of the individual sources that are being combined.</p><p>(b) The combined source is regulated as one source, subject to the following:</p><p>(A) The combined source netting basis is the sum of the individual sources’ netting basis, provided that the netting basis of any individual source being combined may only be included in the combined source’s netting basis if that individual source has a primary or secondary 2-digit SIC code that is the same as the primary or a secondary 2-digit SIC code of the combined source.</p><p>(B) The simple act of combining sources, without an increase over the combined PSEL, does not subject the combined source to Major or State NSR.</p><p>(C) If the combined source PSEL, without a requested increase over the existing combined PSEL, exceeds the combined netting basis plus the SER, the source may continue operating at the existing combined source PSEL without becoming subject to NSR until such time that the source requests an increase in the PSEL or the source is modified. If a source requests an increase in the PSEL or the source is modified, DEQ will evaluate whether NSR will be required.</p><p>(2) When one source is split into two or more separate sources, or when a source changes its primary activity (primary 2-digit SIC code):</p><p>(a) The netting basis and SER may be transferred to one or more resulting source or sources only if:</p><p>(A) The primary 2-digit SIC code of the resulting source is the same as one of the primary or secondary 2-digit SIC codes that applied at the original source; or</p><p>(B) The resulting source and the original source have different primary 2-digit SIC codes but DEQ determines the activities described by the two different primary 2-digit SIC codes are essentially the same.</p><p>(b) The netting basis and the SER for the original source are split amongst the resulting sources as requested by the original permittee.</p><p>(c) The amount of the netting basis that is transferred to the resulting source or sources may not exceed the potential to emit of the existing devices or emissions units involved in the split.</p><p>(d) The split of netting basis and SER must either:</p><p>(A) Be sufficient to avoid NSR for each of the newly created sources; or</p><p>(B) The newly created source that becomes subject to NSR must comply with the requirements of OAR 340 division 224 before beginning operation under the new arrangement.</p><p>(3) The owner or operator of the source, device or emissions unit must maintain records of physical changes and changes in the method operation occurring since the baseline period or most recent Major NSR or Type A State NSR action under OAR 340 division 224. These records must be included in any future evaluation under OAR 340-224-0025 (major modification).</p><p>NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.</p>
+        
+        
+        <p>
+                        
+                <b>Statutory/Other Authority:</b>&nbsp;ORS 468.020, 468A.025, 468A.040 &amp; 468A.310<br>
+            
+                        
+                <b>Statutes/Other Implemented:</b>&nbsp;ORS 468A<br>
+                            
+            <b>History:</b><br>
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(73672);">340-222-0090</a></td>
-                                        
-                    <td style="width:40%">Combining and Splitting Sources and Changing Primary SIC Code</td>
-                    
-                    <td style="width:40%">Department of Environmental Quality</td>
-                    
-                    
-                    </tr>
+    
+    
+    
+        
+        DEQ 7-2015, f. &amp; cert. ef. 4-16-15<br>
+        
+        
+            
+
+
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(73673);">340-222-0090</a></td>
-                                        
-                    <td style="width:40%">Combining and Splitting Sources</td>
-                    
-                    <td style="width:40%">Department of Environmental Quality</td>
-                    
-                    
-                    </tr>
-                
-            </tbody>
-        </table>    
-        </div>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" />
-	</div>
-        </div>
-        </form>
+
+    
+    
+        DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01<br>
+    
+
+                            
+        </p>
+        
+            
+        
+        <p><br><a href='/oard/view.action?ruleNumber=340-222-0090'>Please use this link to bookmark or link to this rule.</a></p>
         </div>
         
 
 <div class="sos-footer-wrapper">
     <div class="footer-container">
         <div class="colophon">
-            
-                v2.1.7
             
         </div>
         <div class="sos-footer-nav">
@@ -267,6 +173,6 @@
 </div>
 
         </div>
-    </div>
+    </div>    
     </body>
 </html>

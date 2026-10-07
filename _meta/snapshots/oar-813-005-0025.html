@@ -36,86 +36,11 @@
   ga('send', 'pageview');
   ga('sos.send', 'pageview');
 </script>
-        <!-- Tablesorter: pagination -->
-	<link rel="stylesheet" href="js/tablesorter/addons/pager/jquery.tablesorter.pager.css">
-	<script src="js/tablesorter/addons/pager/jquery.tablesorter.pager.js"></script>
-	<script src="js/tablesorter/js/jquery.tablesorter.widgets.js"></script>
-        
-        <script>
-            function viewRule(rsn) {
-                $("#searchRuleVrsnRsn").val(rsn);
-                $("#resultsForm").attr("action", "viewQuickSearchRule.action");
-                $("#resultsForm").submit();
-            }
-            
-            function modifySearch() {
-                $("#resultsForm").attr("action", "modifyQuickSearch.action");
-                $("#resultsForm").submit();
-            }
-            
-            $(function() {                
-                var pagerOptions = {
-                    // target the pager markup - see the HTML block below
-                    container: $(".pager"),                    
-
-                    // output string - default is '{page}/{totalPages}'
-                    // possible variables: {page}, {totalPages}, {filteredPages}, {startRow}, {endRow}, {filteredRows} and {totalRows}
-                    // also {page:input} & {startRow:input} will add a modifiable input in place of the value                    
-                    output: 'Page {page:input} of {totalPages}',
-
-                    // apply disabled classname (cssDisabled option) to the pager arrows when the rows
-                    // are at either extreme is visible; default is true
-                    updateArrows: true,
-
-                    // starting page of the pager (zero based index)
-                    page: 0,
-
-                    // Number of visible rows - default is 10 (RLL - changed to 25)
-                    size: 25,
-
-                    // Save pager page & size if the storage script is loaded (requires $.tablesorter.storage in jquery.tablesorter.widgets.js)
-                    savePages : false,
-
-                    // Reset pager to this page after filtering; set to desired page number (zero-based index),
-                    // or false to not change page at filter start
-                    pageReset: 0,
-
-                    // if true, the table will remain the same height no matter how many records are displayed. The space is made up by an empty
-                    // table row set to a height to compensate; default is false
-                    fixedHeight: false,
-
-                    // remove rows from the table to speed up the sort of large tables.
-                    // setting this to false, only hides the non-visible rows; needed if you plan to add/remove rows with the pager enabled.
-                    removeRows: false,
-
-                    // If true, child rows will be counted towards the pager set size
-                    countChildRows: false,
-
-                    // css class names of pager arrows
-                    cssNext: '.next', // next page arrow
-                    cssPrev: '.prev', // previous page arrow
-                    cssFirst: '.first', // go to first page arrow
-                    cssLast: '.last', // go to last page arrow
-                    cssGoto: '.gotoPage', // select dropdown to allow choosing a page
-
-                    cssPageDisplay: '.pagedisplay', // location of where the "output" is displayed
-                    cssPageSize: '.pagesize', // page size selector - select dropdown that sets the "size" option
-
-                    // class added to arrows when at the extremes (i.e. prev/first arrows are "disabled" when on the first page)
-                    cssDisabled: 'disabled', // Note there is no period "." in front of this class name
-                    cssErrorRow: 'tablesorter-errorRow' // ajax error information row
-                };
-                $("#results").tablesorter({
-                    theme : 'green'		
-                })
-                // initialize the pager plugin
-		.tablesorterPager(pagerOptions);
-            });
-        </script>
-        
     </head>
     <body>
         
+
+
 <div class="skip"><a href="#main_content">Skip to main content.</a></div>
 <div id="wrapper">
     <div class='sos-header-wrapper'>
@@ -139,107 +64,173 @@
     </div>
 
 
-        <div id="content_noside"><a name="main_content" id="main_content"></a>
-        <h1>Oregon Administrative Rules</h1>
-        <h2>Quick Rule Search Results</h2>
-        
-        
-        
+<div id="secondary_navbar"> 
+   <div class="sidebar_nav">
+       
 
-<noscript class="errors">For full functionality of this site, it is necessary to enable JavaScript. Here are the <a href="http://www.enable-javascript.com" target="_blank"> instructions</a> on how to enable JavaScript in your web browser.</noscript>
+<ul>
+   <li><a href="javascript:void(0)" onclick="window.location = 'processLogin.action'">OARD Home</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'ruleSearch.action'">Search Current Rules</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'filingSearch.action'">Search Filings</a></li> 
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayBulletins.action'">Access the Oregon Bulletin</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayCompilations.action'">Access the Annual Compilation</a></li>
+   <li><a href="faq.action" target="_blank">FAQ</a></li>
+   
+   <li><a href="javascript:void(0)" onclick="window.location = 'login.action'">Rules Coordinator / Rules Writer Login</a></li>
+   
+   
+</ul>
 
-        <form id="resultsForm" name="resultsForm" method="post">
-        <input type="hidden" name="ruleNumber" value="813-005-0025" id="ruleNumber"/>
-        <input type="hidden" name="resultCount" value="2" id="resultCount"/>
-        <input type="hidden" name="searchRuleVrsnRsn" value="" id="searchRuleVrsnRsn"/>
-        <p>Your search for 813-005-0025 returned 2 results.</p>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a href="javascript:void(0)" onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" /> 		
-            <!--<select class="gotoPage" title="Select page number"></select>-->
-	</div>
-        </div>
-        <div class="form_clear_results"></div>    
-        <div class="table_div_results">
-        <table id="results" class="tablesorter">
-            <thead>
-                <tr>
-                    <th>Rule Number</th>
-                    <th>Rule Title</th>
-                    <th>Chapter Name</th>
-                </tr>
-            </thead>
-            <tbody>
-                 
+   </div>
+</div>
+
+        <div id="content"><a name="main_content" id="main_content"></a>
+        
+            
+        
+            
+        
+                    
+            <h1><a href='/oard/displayChapterRules.action?selectedChapter=144'>Oregon Housing and Community Services Department</a></h1>
+            <h2><a href='/oard/displayChapterRules.action?selectedChapter=144'>Chapter 813</a></h2>
+        
+        
+        
+            
+        
+        <h3><a href='/oard/displayDivisionRules.action?selectedDivision=3607'>Division 5<br>GENERAL RULES</a></h3>
+        <p><strong>813-005-0025</strong>            
+        <br><strong>Protest Process
+</strong></p>
+        
+        <p>(1) The following&nbsp;definitions apply to this rule:</p>
+
+<p>(a)&nbsp;&ldquo;Applicant&rdquo; means any individual, for-profit or nonprofit corporation, partnership, limited liability company, association, joint venture, public body, federally recognized Indian tribe, public corporation, or any other legal or commercial entity that submits an application in response to a request for applications.</p>
+
+<p>(b)&nbsp;&ldquo;Application&rdquo; means a response to a request for applications.</p>
+
+<p>(c)&nbsp;&ldquo;Request for applications&rdquo; means a request by OHCS for applications, proposals, statements of qualifications, or other information, and that is expected to result in OHCS awarding one or more grants or loans. Request for applications does not include any information that OHCS requests in the course of direct-awarding a grant or loan without a competitive process.</p>
+
+<p>(2) The protest process described in this rule does not apply to any request for applications for which another division of administrative rules provides a different protest process.&nbsp;</p>
+
+<p>(3) With respect to any request for applications, an applicant may protest a notice of intent to award a grant or loan (which includes the selection of applicants to be part of a qualified pool), or an award of a grant or loan, whichever occurs first, if:</p>
+
+<p>(a) The applicant is adversely affected because the applicant would be eligible for the grant or loan in the event that the protest is successful; and</p>
+
+<p>(b) The reason for the protest is that OHCS has failed to evaluate applications in accordance with the criteria or processes described in the request for applications.</p>
+
+<p>(4) If an applicant files a protest of a notice of intent to award a grant or loan, the applicant may not file a protest of the award of the same grant or loan.</p>
+
+<p>(5) Unless otherwise specified in the request for applications, an applicant must submit a protest to the email address listed in the request for applications not later than 7 days after OHCS issues, via the method specified in the request for applications, a notice of intent to award a grant or loan, or an award of a grant or loan, whichever occurs first.</p>
+
+<p>(6) A protest must include:</p>
+
+<p>(a) An explanation of how OHCS failed to evaluate applications in accordance with the criteria or processes described in the request for applications;</p>
+
+<p>(b) The relief sought by the applicant; and</p>
+
+<p>(c) Any supporting information that the applicant wishes for OHCS to consider.</p>
+
+<p>(7) If an applicant does not file, as specified in sections (3) - (6) of this rule, a protest of a notice of intent to award a grant or loan, or an award of a grant or loan, whichever occurs first, the notice of intent to award a grant or loan, or the award of a grant or loan, as applicable, shall become final for purposes of ORS 183.480.</p>
+
+<p>(8) If an applicant files a protest as specified in sections (3) - (6) of this rule, OHCS may respond in writing to the protest. OHCS intends to respond in writing to each properly submitted protest, but if, for any reason, OHCS does not respond in writing to a protest within 10 days of the applicant&rsquo;s timely submission of a protest, the protest shall be deemed denied and the notice of intent to award a grant or loan, or the award of a grant or loan, as applicable, shall become final for purposes of ORS 183.480.</p>
+
+<p>(9) Requests for applications and evaluation notes.</p>
+
+<p>(a) Notwithstanding section (8) of this rule, an applicant may, as part of a properly submitted protest, request that OHCS provide copies of applications and evaluation notes related to the request for applications regarding which the protest is being filed. &nbsp;If an applicant requests such records as part of a properly submitted protest, the 10-day period described in section (8) shall not begin until 7 days after OHCS responds to the applicant&rsquo;s request for applications and evaluation notes.</p>
+
+<p>(b) For purposes of this section (9), OHCS responds to an applicant&rsquo;s request for applications and evaluation notes when OHCS takes any of the following actions:</p>
+
+<p>(A) Provides copies of the requested records;</p>
+
+<p>(B) Describes in writing where copies of the requested records are publicly available;</p>
+
+<p>(C) States that OHCS does not possess the requested records;</p>
+
+<p>(D) States that OHCS has redacted or withheld some or all of the requested records and provides copies of the records, or portions of records, that are not redacted or withheld.</p>
+
+<p>(c) If OHCS responds to an applicant&rsquo;s request for applications and evaluation notes by providing any records, or by describing where those records are publicly available, the applicant shall have 7 days after OHCS&rsquo; response to amend its protest to incorporate any information contained in the applications and evaluation notes. &nbsp;After the passage of those 7 days or the applicant&rsquo;s submission of an amended protest, whichever occurs first, the 10-day period described in section (7) of this rule shall begin.</p>
+
+<p>(d) This section (9) does not prevent an applicant from, pursuant to the public records law, &nbsp;petitioning for review of OHCS&rsquo; response to the applicant&rsquo;s request for applications and evaluation notes, or from filing any other public records request, but the 10-day period described in section (8) of this rule will be automatically paused only for the length of time it takes OHCS to respond to an applicant&rsquo;s request for applications and evaluation notes contained in a properly submitted protest.</p>
+
+<p>(10) OHCS reserves the right to delay, terminate, modify, or take any other action it determines to be appropriate with respect to a request for applications in response to a timely submission of a protest.</p>
+
+        
+        
+        <p>
+                        
+                <b>Statutory/Other Authority:</b>&nbsp;ORS 90.630, 90.771 - 90.775, 90.800 - 90.840, 456.515 - 456.725, 458.210 - 458.365, 458.405 - 458.460, 458.505 - 458.740, 566.310 - 566.350, 757.612 - 757.617 &amp; 183.335<br>
+            
+                        
+                <b>Statutes/Other Implemented:</b>&nbsp;ORS 456.515 - 456.720 &amp; 456.555<br>
+                            
+            <b>History:</b><br>
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(335876);">813-005-0025</a></td>
-                                        
-                    <td style="width:40%">Protest Process
-</td>
-                    
-                    <td style="width:40%">Oregon Housing and Community Services Department</td>
-                    
-                    
-                    </tr>
+    
+        
+            
+        
+        
+            <a href='/oard/viewReceiptTRIM.action?ptId=16193110'>OHCS 15-2026, amend filed 07/02/2026, effective 07/06/2026</a><br>
+        
+        
+    
+    
+            
+
+
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(196418);">813-005-0025</a></td>
-                                        
-                    <td style="width:40%">Purchase of Bonds</td>
-                    
-                    <td style="width:40%">Oregon Housing and Community Services Department</td>
-                    
-                    
-                    </tr>
+    
+        
+            
+        
+        
+            <a href='/oard/viewReceiptTRIM.action?ptId=13741284'>OHCS 52-2025, temporary suspend filed 12/29/2025, effective 12/31/2025 through 06/28/2026</a><br>
+        
+        
+    
+    
+            
+
+
+            
                 
-            </tbody>
-        </table>    
-        </div>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" />
-	</div>
-        </div>
-        </form>
+    
+    
+    
+        
+        OHCS 15-2016, f. &amp; cert. ef. 12-14-16<br>
+        
+        
+            
+
+
+            
+                
+    
+    
+    
+        
+        OHCS 6-2016(Temp), f. &amp; cert. ef. 6-29-16 thru 12-25-16<br>
+        
+        
+            
+
+
+                            
+        </p>
+        
+            
+        
+        <p><br><a href='/oard/view.action?ruleNumber=813-005-0025'>Please use this link to bookmark or link to this rule.</a></p>
         </div>
         
 
 <div class="sos-footer-wrapper">
     <div class="footer-container">
         <div class="colophon">
-            
-                v2.1.8
             
         </div>
         <div class="sos-footer-nav">
@@ -268,6 +259,6 @@
 </div>
 
         </div>
-    </div>
+    </div>    
     </body>
 </html>

@@ -11,6 +11,84 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-10-07 — **39 OAR documents that were OARD search-result pages become the rule behind the number, 37 of them; two are left flagged (#439).**
+  Each of the 39 documents titled "returned N results" published OARD's results list and footer as
+  the rule's `verbatim` text. Re-measured on `main` today: 39 by title and the same 39 by body
+  (`New Search | Modify Search`), no others. The results are NOT, as the issue assumed, mostly two
+  live rules sharing a number: OARD's number search lists every record that matches, which is (a) an
+  older rule that held the number before it was repealed, (b) the "Text in ORMS" twin entry of the
+  same record, or (c) a different rule whose History cites the number (410-146-0085, 436-105-0511,
+  690-501-0005 ...). Identity: the corpus has no suffix scheme for same-number rules and none was
+  added; each document keeps its id `oar-<number>` (ADR 0006: ids are cited; the graph and
+  `doc-30-3-4`, `eo-15-18` references stay valid) and now mirrors the one record that prints that number, picked from
+  OARD's own current listing of the chapter (`displayChapterRules.action`) where it names one, and for
+  the five rules the listing no longer carries (repealed 2023-2026) the one record whose own page
+  prints the number with a repeal in its History. `source_url` is that record's
+  `viewSingleRule.action?ruleVrsnRsn=` page; every word of text came from that page through
+  `ingest_oar.py`, none typed. Older same-number records and records cited-by-History are listed
+  below and are not mirrored (cited-by ones already have their own number).
+  - Became (37), `<number>` -> record mirrored; also listed:
+    - `123-042-0020` -> ruleVrsnRsn=336790; also listed: ruleVrsnRsn=4517 "Eligible and Ineligible Activities" (History opens "Repealed by…"; same number, not mirrored)
+    - `137-045-0070` -> ruleVrsnRsn=309566; also listed: ruleVrsnRsn=11175 "Application Date" (History opens "Repealed by…"; same number, not mirrored)
+    - `137-080-0020` -> ruleVrsnRsn=13433; also listed: ruleVrsnRsn=13430 "Disbursement of Moneys in the Escrow Account" (History opens "Repealed by…"; same number, not mirrored)
+    - `150-308-0540` -> ruleVrsnRsn=18504; also listed: 150-308-0570 Computation of Changed Property Ratio for Centrally Assessed Property (a different rule that cites 150-308-0540, has its own number)
+    - `165-014-0090` -> ruleVrsnRsn=24989; also listed: ruleVrsnRsn=24988 "Time for Withdrawal of Prospective Petition" (the same rule's non-"Text in ORMS" twin entry; not mirrored)
+    - `166-020-0045` -> ruleVrsnRsn=25741; also listed: ruleVrsnRsn=25743 "Photocopies" (History opens "Repealed by…"; same number, not mirrored)
+    - `255-075-0001` -> ruleVrsnRsn=273414; also listed: ruleVrsnRsn=32998 "Definitions" (History opens "Repealed by…"; same number, not mirrored)
+    - `309-022-0192` -> ruleVrsnRsn=254431; also listed: ruleVrsnRsn=44127 "Variances" (History opens "Repealed by…"; same number, not mirrored)
+    - `331-430-0000` -> ruleVrsnRsn=242889; also listed: ruleVrsnRsn=50361 "Disciplinary Action" (History opens "Repealed by…"; same number, not mirrored)
+    - `333-015-0090` -> ruleVrsnRsn=53575; also listed: ruleVrsnRsn=53574 "Effective Date" (the same rule's non-"Text in ORMS" twin entry; not mirrored)
+    - `333-030-0085` -> ruleVrsnRsn=55929; also listed: ruleVrsnRsn=55934 "Sewerage System" (History opens "Repealed by…"; same number, not mirrored)
+    - `340-222-0090` -> ruleVrsnRsn=73672; also listed: ruleVrsnRsn=73673 "Combining and Splitting Sources" (History opens "Repealed by…"; same number, not mirrored)
+    - `345-020-0040` -> ruleVrsnRsn=304079; also listed: 345-025-0006 Mandatory Conditions in Site Certificates (a different rule that cites 345-020-0040, has its own number)
+    - `409-015-0022` -> ruleVrsnRsn=81567; also listed: ruleVrsnRsn=81566 "Instructions to Form RR-4" (the same rule's non-"Text in ORMS" twin entry; not mirrored)
+    - `410-146-0080` -> ruleVrsnRsn=234114; also listed: 410-146-0085 Encounter and Recognized Practitioners (a different rule that cites 410-146-0080, has its own number); 410-146-0086 Multiple Encounters (a different rule that cites 410-146-0080, has its own number)
+    - `415-065-0070` -> ruleVrsnRsn=103867; also listed: ruleVrsnRsn=103868 "Monitoring Entity" (History opens "Repealed by…"; same number, not mirrored)
+    - `436-105-0510` -> ruleVrsnRsn=107939; also listed: 436-105-0511 Worker Eligibility (a different rule that cites 436-105-0510, has its own number); 436-105-0512 End of Eligibility (a different rule that cites 436-105-0510, has its own number)
+    - `575-037-0040` -> ruleVrsnRsn=333807; also listed: ruleVrsnRsn=137560 "Administrative Guidelines" (History opens "Repealed by…"; same number, not mirrored)
+    - `586-030-0025` -> ruleVrsnRsn=153282; also listed: ruleVrsnRsn=153281 "Hearing" (History opens "Repealed by…"; same number, not mirrored)
+    - `629-001-0030` -> ruleVrsnRsn=161014; also listed: ruleVrsnRsn=161015 "Conduct of Rulemaking Hearing" (History opens "Sunset on…"; same number, not mirrored)
+    - `629-620-0200` -> ruleVrsnRsn=162551; also listed: ruleVrsnRsn=162552 "Petroleum Product Precautions" (History opens "Repealed by…"; same number, not mirrored)
+    - `635-140-0025` -> ruleVrsnRsn=327639; also listed: ruleVrsnRsn=173336 "Five-Year Review" (History opens "Repealed by…"; same number, not mirrored)
+    - `660-001-0105` -> ruleVrsnRsn=174854; also listed: ruleVrsnRsn=174853 "Hearings Officer’s Authority and Respon­sibility" (History opens "LCD 1-1978,…"; same number, not mirrored)
+    - `660-012-0016` -> ruleVrsnRsn=292992
+    - `660-025-0230` -> ruleVrsnRsn=175905; also listed: ruleVrsnRsn=175903 "Applicable Rules for Jurisdictions Choosing the Former Process" (History opens "Repealed by…"; same number, not mirrored)
+    - `690-080-0010` -> ruleVrsnRsn=178390; also listed: 690-501-0005 Classifications (a different rule that cites 690-080-0010, has its own number); 690-501-0010 Minimum Perennial Streamflows (a different rule that cites 690-080-0010, has its own number); 690-501-0020 Storage (a different rule that cites 690-080-0010, has its own number); 690-501-0030 Out-of-Basin Appropriations (a different rule that cites 690-080-0010, has its own number); 690-501-0040 Water Quality (a different rule that cites 690-080-0010, has its own number)
+    - `735-080-0040` -> ruleVrsnRsn=310315; also listed: ruleVrsnRsn=186570 "Mechanical Test Requirements" (History opens "Repealed by…"; same number, not mirrored)
+    - `804-010-0020` -> ruleVrsnRsn=329568; also listed: ruleVrsnRsn=191455 "Extension of Experience" (History opens "Repealed by…"; same number, not mirrored)
+    - `808-001-0035` -> ruleVrsnRsn=192064; also listed: ruleVrsnRsn=192059 "Migrated from Repeals and Renumbers file" (History opens "Sunset on…"; same number, not mirrored)
+    - `808-005-0010` -> ruleVrsnRsn=193159; also listed: ruleVrsnRsn=193155 "Migrated from Repeals and Renumbers file" (History opens "Sunset on…"; same number, not mirrored)
+    - `813-005-0020` -> ruleVrsnRsn=333874; also listed: ruleVrsnRsn=196415 "Sale of Bonds" (History opens "Repealed by…"; same number, not mirrored)
+    - `813-005-0025` -> ruleVrsnRsn=335876; also listed: ruleVrsnRsn=196418 "Purchase of Bonds" (History opens "Repealed by…"; same number, not mirrored)
+    - `813-005-0030` -> ruleVrsnRsn=196419; also listed: ruleVrsnRsn=196421 "Land Use Goal Compliance and Comprehensive Plan Compatibility" (History opens "Repealed by…"; same number, not mirrored)
+    - `836-010-0014` -> ruleVrsnRsn=202433; also listed: ruleVrsnRsn=202432 "Notice and Procedural Requirements for Expanded Transitional Health Benefit Plans" (History opens "Suspended by…"; same number, not mirrored)
+    - `836-054-0020` -> ruleVrsnRsn=204658; also listed: ruleVrsnRsn=204654 "Report Content — Product Liability Claim Information" (History opens "Repealed by…"; same number, not mirrored)
+    - `858-010-0037` -> ruleVrsnRsn=325808; also listed: ruleVrsnRsn=219915 "Recognition of Training Site" (History opens "Repealed by…"; same number, not mirrored)
+    - `918-674-0025` -> ruleVrsnRsn=337297; also listed: ruleVrsnRsn=229397 "Tests of Materials" (History opens "Repealed by…"; same number, not mirrored)
+  - NOT resolved (2), still search-results documents, still recorded as such in the catalog
+    (`results_page_documents.py` continues to gate them):
+    - `165-020-0125`: 12 entries are seven different special-district rules (Ukiah, Unity, Rajneeshpuram,
+      Lake Creek, Moro, Wallowa Lake, Northern Wasco) all numbered 165-020-0125, every one sunset
+      2017 with no text; OARD's listing names five of them. No record is "the" rule, so choosing one would be a guess.
+    - `581-023-0006`: OARD's listing carries two records (ruleVrsnRsn=260963 and 276369) of the same
+      rule, byte-identical except 276369 adds a subsection (4)(c) suspending (4)(b) for the 2019-20 and 2020-21 school years
+      (both History lines open "ODE 3-2021"). Two live versions share one number; this needs
+      a human decision on an id scheme (e.g. a `ruleVrsnRsn` suffix), which would touch every `\d{4}`
+      id pattern in the pipeline.
+  - `src/ingest_oar.py`: `is_search_results_page` also fires on a final URL containing
+    `ruleSearchResults.action` (imported from `check_source_urls.SOFT_404`, not retyped) and on a
+    singular "returned 1 result."; `--ingest` fetches through `ingest_lib.fetch_page` so the final URL
+    is known. (The refusal to write a results page, #251/#334, was already there; this closes the
+    two cases it could not see.) New `--ingest-version NUMBER=RSN`, which replaces ONLY a document that
+    is itself a results page, refuses a page that prints another number, and mirrors the record by
+    version id. Selftest (registered: `ingest_oar.py --selftest`) covers all of it.
+  - Regenerated: `_meta/graph.json`, `REVIEW.md`, `_meta/governor_priorities.json`,
+    `_meta/catalog/mechanical-findings.yml`, 85 `relationships` backlinks, `upstream_tracking` on 37
+    documents, `_meta/sources/oar.yml` url+sha for the 6 tracked ones; `CONTEXT.md` census figures.
+  - Left for a follow-up (found, not fixed): seven of the 37 are rules whose History says "Sunset on
+    09-28-2017" or "Suspended" (165-014-0090, 333-015-0090, 409-015-0022, 660-001-0105, 808-001-0035,
+    808-005-0010, 836-010-0014) and are `status: current` by the corpus's existing convention for
+    such Histories (12 earlier documents are the same); the ingester has no state for sunset.
 - 2026-10-07 — **`check-links`: a refused connection is retried before it is a finding (#437).**
   The first live run after #436 (37571625562) was red in both jobs on transient faults, not dead
   links: lychee 1,100 links / 3 errors, all `secure.sos.state.or.us/oard` URLs in `DRIFT.md`

@@ -28,13 +28,8 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
+
+
  Skip to main content. 
  
  
@@ -59,60 +54,118 @@
 
 
  
- Oregon Administrative Rules 
- Quick Rule Search Results 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
  
  
  
 
- For full functionality of this site, it is necessary to enable JavaScript. Here are the instructions on how to enable JavaScript in your web browser. 
+ 
+ 
 
  
  
  
  
- Your search for 635-140-0025 returned 2 results. 
- 
- New Search | Modify Search 
  
  
  
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
- 
- 
- -->
+ Department of Fish and Wildlife 
+ Chapter 635 
  
  
  
  
  
- 
- 
- Rule Number 
- Rule Title 
- Chapter Name 
- 
- 
- 
- 
- 
- 
- 
- 
+ Division 140 GREATER SAGE-GROUSE CONSERVATION STRATEGY FOR OREGON 
  635-140-0025 
- 
  Mitigation Hierarchy of Impacts in Sage-grouse Core, Low Density, and General Habitats
  
  
- Department of Fish and Wildlife 
+ Adverse impacts in sage-grouse core, low density, and general habitat from development actions must be mitigated by the developer for both direct and indirect adverse impacts to sage-grouse and their habitats. When ascertaining direct and indirect adverse impacts from development actions, the Department will use the most current and best available science related to sage-grouse biology and habitat conservation, including the Greater Sage-Grouse Habitat Mitigation Program Operation and Administration Manual (ODFW, October 2019). Mitigation is comprised, in hierarchal order, of avoidance, minimization, and compensatory mitigation. 
+
+ (1) Policy 1. Mitigation for direct and indirect impacts from development actions will be required where the proposed development action: 
+
+ (a) Requires a county land use permit, is a large-scale development as defined in OAR 660-023-0115, and would impact core or low density habitat, 
+
+ (b) Requires a county land use permit, is a large-scale development as defined in OAR 660-023-0115, and would impact general habitat within 3.1 miles of a lek in a manner that would reduce functional sage-grouse habitat or sage-grouse use of their habitat, 
+
+ (c) Requires a county land use permit but is not a large scale development as defined in OAR 660-023-0115. In this case, through consultation with the development action proponent, the Department will determine: 
+
+ (A) Whether to require mitigation based on the likelihood of adverse impacts from the proposed action in a manner that would reduce functional sage-grouse habitat or sage-grouse use of that habitat; 
+
+ (i) Within 4 miles of a lek in core area habitat; 
+
+ (ii) Within 3.1 miles of a lek in low density habitat; or 
+
+ (iii) Within 3.1 miles of a lek in general habitat. 
+
+ (B) If mitigation is required based on (1)(c)(A) above, the appropriate level of mitigation will be based on the nature of the impact upon habitat functionality and the resultant risk to sage-grouse. 
+
+ (C) Mitigation is not required for private land agricultural activities exempted from regulation under OAR-660-023-0115. 
+
+ (d) Is located in or would adversely impact sage-grouse habitat on public lands and requires state or federal approval not otherwise exempted in OAR 660-023-0115. 
+
+ (2) Policy 2. The Department may approve or recommend approval of mitigation for impacts from a large-scale development permitted by a county; or development actions permitted by a state or federal government entity on public land, within sage-grouse habitat only after the following mitigation hierarchy has been addressed by the permitting entity, with the intent of directing the development action away from the most productive habitats and into the least productive areas for sage-grouse (in order of importance: core area, low density, general, and non-habitat). 
+
+ (a) Avoidance in Core Area Habitat. If the proposed development can occur in another location that avoids both direct and indirect impacts within core habitat, then the proposal must not be allowed unless it can satisfy the following criteria: 
+
+ (A) It is not technically feasible to locate the proposed development activity or its impacts outside of a core habitat area based on accepted engineering practices, regulatory standards or some combination thereof. Costs associated with technical feasibility may be considered, but cost alone may not be the only consideration in determining that the development must be located such that it will have direct or indirect impacts on sage-grouse core area habitat; or 
+
+ (B) The proposed development is dependent on a unique geographic or other physical feature(s) that cannot be found on other lands; and 
+
+ (C) If the proposal is for a large-scale development as defined in Oregon Land Conservation and Development OAR 660-023-0115 and either (2)(a)(A) or (2)(a)(B) is found to be satisfied, the permitting entity must also find that it will provide important economic opportunity, needed infrastructure or public safety benefits for local citizens or the entire region. 
+
+ (b) Avoidance in Low Density Habitat. If the proposed development action can occur in another location that avoids both direct and indirect impacts within low density sage-grouse habitat, then the proposal must not be allowed unless it can satisfy the following criteria: 
+
+ (A) It is not technically or financially feasible to locate the proposed use outside of low density sage-grouse habitat based on accepted engineering practices, regulatory standards, proximity to necessary infrastructure or some combination thereof; or 
+
+ (B) The proposed development action is dependent on geographic or other physical feature(s) found in low density habitat areas that are less common at other locations. 
+
+ (c) Avoidance in General Habitat. If the proposed development activity and its direct and indirect impacts are in general sage-grouse habitat (within 3.1 miles of a lek), then the permitting entity may allow the activity based on satisfaction of the following criteria: 
+
+ (A) Consultation between the development proponent and the Department that generates recommendations pursuant to the approach identified in minimization subsection (d), and 
+
+ (B) Incorporation by the project proponent of reasonable changes to the project proposal based on the above consultation with the Department, and/or justification as to why a given recommendation is not feasible. 
+
+ (d) Minimization. If after exercising the above avoidance tests, the permitting entity finds the proposed development action cannot be moved to non-habitat or into a habitat category that avoids adverse direct and indirect impacts to a habitat category of greater significance (i.e., core or low density), then the next step applied in the mitigation hierarchy will be minimization of the direct and indirect impacts of the proposed development action. Minimization consists of how to best locate, construct, operate and time (both seasonally and diurnally) the development action so as to avoid or minimize direct and indirect impacts on important sage-grouse habitat and sage-grouse. 
+
+ (A) Minimizing impacts from development actions in core habitat shall ensure direct and indirect impacts do not occur in known areas of high population richness within a given core area, unless a project proponent demonstrates, by a preponderance of the evidence, that such an approach is not feasible. 
+
+ (B) Minimizing impacts from development actions in general habitat shall include consultation between the development proponent and the Department that considers and results in recommendations on how to best locate, construct, or operate the development action so as to avoid or minimize direct and indirect impacts on important sage-grouse habitat within the area of general habitat. 
+
+ (e) Compensatory Mitigation. If avoidance and minimization efforts have been exhausted, compensatory mitigation to address both direct and indirect impacts will be required as part of the permitting process for remaining adverse impacts from the proposed development action to sage-grouse habitat, consistent with the mitigation standard in (3) Policy 3 below. 
+
+ (3) Policy 3. The standard for compensatory mitigation of direct and indirect habitat impacts in sage-grouse habitat (core low density, and general areas) is to achieve net conservation benefit for sage-grouse by replacing the lost functionality of the impacted habitat to a level capable of supporting greater sage-grouse numbers than that of the habitat which was impacted. Where mitigation actions occur in existing sage-grouse habitat, the increased functionality must be in addition to any existing functionality of the habitat to support sage-grouse. When developing and implementing mitigation measures for impacts to core, low density, and general sage-grouse habitats, the project developers shall: 
+
+ (a) Work directly with the Department and permitting entity to obtain approval to implement a mitigation plan or measures, at the responsibility of the developer, for mitigating impacts consistent with the standard in OAR 635-140-0025(3) or, 
+
+ (b) Work with an entity approved by the Department to implement, at the responsibility of the developer, “in-lieu fee” projects consistent with the standard in OAR 635-140-0025(3). 
+
+ (c) Any mitigation undertaken pursuant to (a) or (b) above must have in place measures to ensure the results of the mitigation activity will persist for the life of the original impact. The Department will engage in mitigation discussions related to development actions in a manner consistent with applicable timelines of permitting entities. 
+
+ (4) Policy 4. The Department shall follow the Fish and Wildlife Habitat Mitigation Policy (OAR 635-415-0000) when defining habitat categories and providing recommendations to address potential site-level impacts to species other than greater sage-grouse that occur within sage-grouse core area habitat or sage-grouse low density habitat, except that if there is a resulting conflict between OAR 635-415-0000 and this rule, then this rule shall control. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 496.012, 496.138, 496.146, 496.162, 498.500, 498.502 & 498.504 
+ 
+ 
+ Statutes/Other Implemented:  ORS 496.012, 496.138, 496.146, 496.162, 498.500, 498.502 & 498.504 
+ 
+ History: 
  
  
  
@@ -120,37 +173,32 @@
  
  
  
- 635-140-0025 
- 
- Five-Year Review 
- 
- Department of Fish and Wildlife 
+ DFW 90-2025, amend filed 09/18/2025, effective 09/18/2025 
  
  
  
  
  
- 
- 
- 
- New Search | Modify Search 
- 
- 
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
+
+
  
  
  
  
  
+ 
+ DFW 123-2015, f. & cert. ef. 9-1-15 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
  
  
 

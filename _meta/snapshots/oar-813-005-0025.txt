@@ -28,13 +28,8 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
+
+
  Skip to main content. 
  
  
@@ -59,60 +54,106 @@
 
 
  
- Oregon Administrative Rules 
- Quick Rule Search Results 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
  
  
  
 
- For full functionality of this site, it is necessary to enable JavaScript. Here are the instructions on how to enable JavaScript in your web browser. 
+ 
+ 
 
  
  
  
  
- Your search for 813-005-0025 returned 2 results. 
- 
- New Search | Modify Search 
  
  
  
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
- 
- 
- -->
+ Oregon Housing and Community Services Department 
+ Chapter 813 
  
  
  
  
  
- 
- 
- Rule Number 
- Rule Title 
- Chapter Name 
- 
- 
- 
- 
- 
- 
- 
- 
+ Division 5 GENERAL RULES 
  813-005-0025 
- 
  Protest Process
  
  
- Oregon Housing and Community Services Department 
+ (1) The following definitions apply to this rule: 
+
+ (a) “Applicant” means any individual, for-profit or nonprofit corporation, partnership, limited liability company, association, joint venture, public body, federally recognized Indian tribe, public corporation, or any other legal or commercial entity that submits an application in response to a request for applications. 
+
+ (b) “Application” means a response to a request for applications. 
+
+ (c) “Request for applications” means a request by OHCS for applications, proposals, statements of qualifications, or other information, and that is expected to result in OHCS awarding one or more grants or loans. Request for applications does not include any information that OHCS requests in the course of direct-awarding a grant or loan without a competitive process. 
+
+ (2) The protest process described in this rule does not apply to any request for applications for which another division of administrative rules provides a different protest process.  
+
+ (3) With respect to any request for applications, an applicant may protest a notice of intent to award a grant or loan (which includes the selection of applicants to be part of a qualified pool), or an award of a grant or loan, whichever occurs first, if: 
+
+ (a) The applicant is adversely affected because the applicant would be eligible for the grant or loan in the event that the protest is successful; and 
+
+ (b) The reason for the protest is that OHCS has failed to evaluate applications in accordance with the criteria or processes described in the request for applications. 
+
+ (4) If an applicant files a protest of a notice of intent to award a grant or loan, the applicant may not file a protest of the award of the same grant or loan. 
+
+ (5) Unless otherwise specified in the request for applications, an applicant must submit a protest to the email address listed in the request for applications not later than 7 days after OHCS issues, via the method specified in the request for applications, a notice of intent to award a grant or loan, or an award of a grant or loan, whichever occurs first. 
+
+ (6) A protest must include: 
+
+ (a) An explanation of how OHCS failed to evaluate applications in accordance with the criteria or processes described in the request for applications; 
+
+ (b) The relief sought by the applicant; and 
+
+ (c) Any supporting information that the applicant wishes for OHCS to consider. 
+
+ (7) If an applicant does not file, as specified in sections (3) - (6) of this rule, a protest of a notice of intent to award a grant or loan, or an award of a grant or loan, whichever occurs first, the notice of intent to award a grant or loan, or the award of a grant or loan, as applicable, shall become final for purposes of ORS 183.480. 
+
+ (8) If an applicant files a protest as specified in sections (3) - (6) of this rule, OHCS may respond in writing to the protest. OHCS intends to respond in writing to each properly submitted protest, but if, for any reason, OHCS does not respond in writing to a protest within 10 days of the applicant’s timely submission of a protest, the protest shall be deemed denied and the notice of intent to award a grant or loan, or the award of a grant or loan, as applicable, shall become final for purposes of ORS 183.480. 
+
+ (9) Requests for applications and evaluation notes. 
+
+ (a) Notwithstanding section (8) of this rule, an applicant may, as part of a properly submitted protest, request that OHCS provide copies of applications and evaluation notes related to the request for applications regarding which the protest is being filed.  If an applicant requests such records as part of a properly submitted protest, the 10-day period described in section (8) shall not begin until 7 days after OHCS responds to the applicant’s request for applications and evaluation notes. 
+
+ (b) For purposes of this section (9), OHCS responds to an applicant’s request for applications and evaluation notes when OHCS takes any of the following actions: 
+
+ (A) Provides copies of the requested records; 
+
+ (B) Describes in writing where copies of the requested records are publicly available; 
+
+ (C) States that OHCS does not possess the requested records; 
+
+ (D) States that OHCS has redacted or withheld some or all of the requested records and provides copies of the records, or portions of records, that are not redacted or withheld. 
+
+ (c) If OHCS responds to an applicant’s request for applications and evaluation notes by providing any records, or by describing where those records are publicly available, the applicant shall have 7 days after OHCS’ response to amend its protest to incorporate any information contained in the applications and evaluation notes.  After the passage of those 7 days or the applicant’s submission of an amended protest, whichever occurs first, the 10-day period described in section (7) of this rule shall begin. 
+
+ (d) This section (9) does not prevent an applicant from, pursuant to the public records law,  petitioning for review of OHCS’ response to the applicant’s request for applications and evaluation notes, or from filing any other public records request, but the 10-day period described in section (8) of this rule will be automatically paused only for the length of time it takes OHCS to respond to an applicant’s request for applications and evaluation notes contained in a properly submitted protest. 
+
+ (10) OHCS reserves the right to delay, terminate, modify, or take any other action it determines to be appropriate with respect to a request for applications in response to a timely submission of a protest. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 90.630, 90.771 - 90.775, 90.800 - 90.840, 456.515 - 456.725, 458.210 - 458.365, 458.405 - 458.460, 458.505 - 458.740, 566.310 - 566.350, 757.612 - 757.617 & 183.335 
+ 
+ 
+ Statutes/Other Implemented:  ORS 456.515 - 456.720 & 456.555 
+ 
+ History: 
  
  
  
@@ -120,37 +161,59 @@
  
  
  
- 813-005-0025 
- 
- Purchase of Bonds 
- 
- Oregon Housing and Community Services Department 
+ OHCS 15-2026, amend filed 07/02/2026, effective 07/06/2026 
  
  
  
  
  
- 
- 
- 
- New Search | Modify Search 
- 
- 
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
+
+
  
  
  
  
  
+ 
+ 
+ OHCS 52-2025, temporary suspend filed 12/29/2025, effective 12/31/2025 through 06/28/2026 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 15-2016, f. & cert. ef. 12-14-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OHCS 6-2016(Temp), f. & cert. ef. 6-29-16 thru 12-25-16 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
  
  
 

@@ -28,13 +28,8 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
+
+
  Skip to main content. 
  
  
@@ -59,97 +54,83 @@
 
 
  
- Oregon Administrative Rules 
- Quick Rule Search Results 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
  
  
  
 
- For full functionality of this site, it is necessary to enable JavaScript. Here are the instructions on how to enable JavaScript in your web browser. 
+ 
+ 
 
  
  
  
  
- Your search for 150-308-0540 returned 2 results. 
- 
- New Search | Modify Search 
  
  
  
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
- 
- 
- -->
+ Department of Revenue 
+ Chapter 150 
  
  
  
  
  
- 
- 
- Rule Number 
- Rule Title 
- Chapter Name 
- 
- 
- 
- 
- 
- 
- 
- 
+ Division 308 ASSESSMENT OF PROPERTY FOR TAXATION 
  150-308-0540 
- 
  Assessment of Properties of Designated Utilities and Companies by Department of Revenue 
  
- Department of Revenue 
+ (1) As required by ORS 308.510(5), 308.515, and 308.517, the Director shall make determinations as to which properties of companies engaged in any of the activities named in 308.515(1)(a) (herein referred to as “utility service”) shall be included on the assessment roll required under 308.560 and which shall be included on the several county assessment rolls. To document these determinations, the Department will issue serially numbered property classification memorandums (PCM’s) which describe the property and state that it is subject to the assessment jurisdiction of either the Department or the assessor of the county in which it is located.  (2) In reaching its determinations the Department will be guided by the following:  (a) Change in classification of property from state to county assessment or vice versa is made necessary by changes in use of the property. Under the statute, ORS 308.515, the controlling factor determining assessment responsibility is the use, present or intended, of the property. In accordance the Department will classify:  (A) Those properties being used in utility service as subject to the assessment jurisdiction of the Department.  (B) Those properties which are acquired or held for subsequent use in utility service but assigned to and used by another in a non-utility use as subject to assessment jurisdiction of the county assessor.  (C) Those properties which are acquired for use in utility service but not yet placed into such service and where no other use is being made of the property as subject to assessment by the county assessor or the Department of Revenue as may be determined by the department.  (D) Those properties no longer being used in utility service and not being held for future use in utility service as subject to the assessment jurisdiction of the county assessor. The status of a property as of January 1 shall be the determining fact in its classification for that assessment year.  (b) In the case of railroad properties, the law (ORS 308.510(4)(c)) has moved the classification a step away from use by stating “a rail transportation company shall be deemed the user of property situated within its station ground reservations or rights of way notwithstanding the fact that such property may be leased, rented or otherwise assigned by it for the use or benefit of another.” Thus in the case of railroad property the determining fact is whether or not a property is “within its station ground reservations or rights of way.” In making that determination the following definitions shall apply:  (A) Railroad Right of Way: The land owned or used by a rail transportation company as the site for its railroad. The term “railroad” includes rails, ties, ballast, tunnels, trestles, bridges, cuts, fills, drainage systems, signal systems, communication systems, power systems, equipment and employee service buildings and structures, and all other facilities needed in the business of rail transportation except station facilities. The dimensions of the right-of-way will vary depending on requirements imposed by function and terrain and no fixed size limits can be set.  (B) Railroad Station Ground Reservation: A parcel of land, usually contiguous to a railroad right-of-way, acquired for and used as a station site.  (C) Station Site: All land area reasonably necessary to provide for the transition from and to rail transportation of people and property is logically classifiable as station ground reservation.  (c) The Department will determine whether a particular parcel is includable within one of the definitions on the basis of the following rules:  (A) If the land is owned by a railroad and is being used or is held for use as a station site or as right-of-way as defined above, it shall be classified as station ground reservation or right-of-way.  (B) If the land is owned by a railroad but is leased to another for use as a station site it shall be classified as station ground reservation. Examples would include: leases to freight forwarding, express, and trucking companies for use in assembling small shipments for movement by rail; leases to grain buying and warehousing companies who buy small quantities to accumulate into bulk rail shipments; and leases to companies in the reverse activity of receiving bulk shipments by rail and selling in small quantity.  (C) Land owned by a railroad and not included in items (A) or (B) shall be classified as not being station ground reservation or right-of-way. Examples would include: Leases to retail sales organizations as store or parking lot sites; leases to farmers for agricultural uses (this would not include agricultural permits or casual, transitory or informal agricultural uses along rights-of-way); leases to manufacturing concerns as factory sites. In marginal cases, the Department will make its decision based on the primary use being made of the land. 
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 305.100 
+ 
+ 
+ Statutes/Other Implemented:  ORS 308.515 
+ 
+ History: 
  
  
  
  
  
  
- 
- 150-308-0570 
- 
- Computation of Changed Property Ratio for Centrally Assessed Property 
- 
- Department of Revenue 
+ Renumbered from 150-308.515, REV 56-2016, f. 8-13-16, cert. ef. 9-1-16 
  
  
  
+
+
  
  
+
  
  
- 
- New Search | Modify Search 
- 
- 
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
+ TC 8-1981, f. 12-7-81, cert. ef. 12-31-81 
+TC 10-1978, f. 12-5-78, cert. ef. 12-31-78 
+1-69
  
  
-     
+
  
  
  
  
  
+ Please use this link to bookmark or link to this rule. 
  
  
 

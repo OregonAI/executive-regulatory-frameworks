@@ -175,8 +175,8 @@ _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a 
 **Legal status**:
 Whether a rule is in force. It lives in the document's `status` frontmatter field, whose values
 corpus-toolkit's schema fixes as `current | superseded | repealed | proposed | draft`, and it
-is a claim about Oregon law. Measured over the committed corpus: 40,489
-<!--census:legal_status_docs.status_current--> rules read `current`, 2,086
+is a claim about Oregon law. Measured over the committed corpus: 40,486
+<!--census:legal_status_docs.status_current--> rules read `current`, 2,089
 <!--census:legal_status_docs.status_repealed--> `repealed` and 37
 <!--census:legal_status_docs.status_superseded--> `superseded`, computed by
 `legal_status.document_status_counts()` and printed on every `legal_status.py --check` run
@@ -209,12 +209,12 @@ an automatic re-ingest. It lives on the OAR catalog row in `legal_status_action`
 together or `legal_status.py --check` refuses the row. IT IS ON THE ROW BECAUSE THE SCHEMA
 ENUM CANNOT HOLD IT: `current | superseded | repealed | proposed | draft` has one word for a
 loss of force and it means a permanent one, while every suspension Oregon files carries an
-end date — 248 <!--census:legal_status_docs.temp_suspend_full--> occurrences in this
-corpus's History text read `temporary suspend filed …, effective … through …`, across 241
+end date — 249 <!--census:legal_status_docs.temp_suspend_full--> occurrences in this
+corpus's History text read `temporary suspend filed …, effective … through …`, across 242
 <!--census:legal_status_docs.temp_suspend_lines--> distinct History lines (a rule can print
 more than one filing on the same line), computed by
 `legal_status.temporary_suspension_counts()` (#307). The shorter phrase `temporary suspend
-filed` alone matches exactly as many, 248
+filed` alone matches exactly as many, 249
 <!--census:legal_status_docs.temp_suspend_filed_mentions-->, meaning no suspension in this
 corpus is currently on record filed with no closing date — the two figures are counted
 separately (and can diverge; `--selftest` proves it) precisely so that agreement stays

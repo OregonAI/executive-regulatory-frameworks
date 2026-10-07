@@ -28,13 +28,8 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
+
+
  Skip to main content. 
  
  
@@ -59,97 +54,84 @@
 
 
  
- Oregon Administrative Rules 
- Quick Rule Search Results 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
  
  
  
 
- For full functionality of this site, it is necessary to enable JavaScript. Here are the instructions on how to enable JavaScript in your web browser. 
+ 
+ 
 
  
  
  
  
- Your search for 166-020-0045 returned 2 results. 
- 
- New Search | Modify Search 
- 
- 
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
- 
- 
- -->
  
  
  
  
- 
- 
- 
- Rule Number 
- Rule Title 
- Chapter Name 
+ Secretary of State 
+ Archives Division - Chapter 166 
  
  
  
  
- 
- 
- 
- 
+ Division 20 THE PROTECTION AND STORAGE OF PUBLIC RECORDS 
  166-020-0045 
- 
  Essential Records Systems, Identification and Storage 
  
- 
- Secretary of State, Archives Division 
- 
+ (1) Agencies shall, with the advice and assistance of the State Archivist, identify their essential records, regardless of medium or physical format.  (2) Agencies shall store security copies of essential electronic records systems off the premises where the system is used, along with any system documentation necessary to enable recovery of the system in the event of an emergency.  (3) Agencies shall comply with the following storage requirements for security copies of essential electronic records systems:  (a) Off-site storage conditions shall have temperatures no less than 60 degrees or greater than 80 degrees Fahrenheit, and shall have a relative humidity no greater than 50 percent.  (b) Off-site storage shall be in secure facilities with fire suppression systems. Facilities must provide adequate ventilation and protection against insect and mold infestation. No essential records systems shall be stored where heat or moisture can damage them. 
  
  
  
  
- 
- 166-020-0045 
- 
- Photocopies 
+ Statutory/Other Authority:  ORS 192 & 357 
  
  
- Secretary of State, Archives Division 
+ Statutes/Other Implemented:  ORS 192, 357.855 & 357.895 
+ 
+ History: 
  
  
  
  
  
  
- 
- New Search | Modify Search 
- 
+ OSA 9-2009, f. & cert. ef. 10-15-09 
  
  
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
  
- 
-     
+
+
  
  
  
  
  
+ 
+ OSA 2-1996, f. 4-9-96, cert. ef. 4-15-96 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
  
  
 

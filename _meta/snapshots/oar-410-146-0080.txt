@@ -28,13 +28,8 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
+
+
  Skip to main content. 
  
  
@@ -59,87 +54,70 @@
 
 
  
- Oregon Administrative Rules 
- Quick Rule Search Results 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
  
  
  
 
- For full functionality of this site, it is necessary to enable JavaScript. Here are the instructions on how to enable JavaScript in your web browser. 
+ 
+ 
 
  
  
  
  
- Your search for 410-146-0080 returned 3 results. 
- 
- New Search | Modify Search 
- 
- 
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
- 
- 
- -->
  
  
  
  
- 
- 
- 
- Rule Number 
- Rule Title 
- Chapter Name 
+ Oregon Health Authority 
+ Health Systems Division: Medical Assistance Programs - Chapter 410 
  
  
  
  
- 
- 
- 
- 
+ Division 146 AMERICAN INDIAN/ALASKA NATIVE 
  410-146-0080 
- 
  Professional Ambulatory Services
  
  
- 
- Oregon Health Authority, Health Systems Division: Medical Assistance Programs 
- 
- 
- 
- 
- 
- 
- 410-146-0085 
- 
- Encounter and Recognized Practitioners
- 
- 
- 
- Oregon Health Authority, Health Systems Division: Medical Assistance Programs 
- 
- 
- 
+ (1) Professional Ambulatory services provided by IHCP include Medical, Diagnostic, Screening, Dental, Vision, Physical Therapy, Occupational Therapy, Podiatry, Behavioral Health, Substance Use Disorder, Maternity Case Management, Speech, Hearing, and Home Health services. 
+
+ (2) Providers must use the following guidelines in conjunction with all individual program-specific Division administrative rules to determine service coverage and limitations for OHP clients according to their benefit packages: 
+
+ (a) American Indian/Alaska Native (AI/AN) Services administrative rules (OAR 410 division 146), 
+
+ (b) General Rules (OAR 410 division 120); 
+
+ (c) OHP Administrative Rules (OAR 410-141-0480, 410-141-0500, and 410-141-0520), and 
+
+ (d) The Health Evidence Review Commission’s (HERC) Prioritized List of Health Services (List). 
+
+ (3) IHS and Tribal 638 facilities may be reimbursed for covered professional services provided within the scope of the clinic and within the individual practitioner’s scope of license or certification. See also AI/AN OAR 410-146-0085. 
+
+ (4) The date of service determines the appropriate version of the AI/AN Services Rules, General Rules, and the HERC Prioritized List that IHCPs should use to determine coverage. 
+
  
  
  
- 410-146-0086 
  
- Multiple Encounters
- 
+ Statutory/Other Authority:  ORS 413.042 & ORS 414.065 
  
  
- Oregon Health Authority, Health Systems Division: Medical Assistance Programs 
+ Statutes/Other Implemented:  ORS 414.065 
+ 
+ History: 
  
  
  
@@ -147,24 +125,152 @@
  
  
  
- New Search | Modify Search 
- 
- 
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
+ DMAP 42-2017, amend filed 10/03/2017, effective 10/03/2017 
  
  
  
  
  
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 34-2008, f. 11-26-08, cert. ef. 12-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ DMAP 19-2007, f. 12-5-07, cert. ef. 1-1-08 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 16-2005, f. 3-11-05, cert. ef. 4-1-05 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 49-2004, f. 7-28-04 cert. ef. 8-1-04 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 68-2003, f. 9-12-03, cert. ef. 10-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 3-2003, f. 1-31-03, cert. ef. 2-1-03 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 59-2002, f. & cert. ef. 10-1-02 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 45-2001, f. 9-24-01, cert. ef. 10-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 6-2001, f. 3-30-01, cert. ef. 4-1-01 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 25-2000, f. 9-28-00, cert. ef. 10-1-00 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ OMAP 2-1999, f. & cert. ef. 2-1-99 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
  
  
 

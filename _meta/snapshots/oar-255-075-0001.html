@@ -36,86 +36,11 @@
   ga('send', 'pageview');
   ga('sos.send', 'pageview');
 </script>
-        <!-- Tablesorter: pagination -->
-	<link rel="stylesheet" href="js/tablesorter/addons/pager/jquery.tablesorter.pager.css">
-	<script src="js/tablesorter/addons/pager/jquery.tablesorter.pager.js"></script>
-	<script src="js/tablesorter/js/jquery.tablesorter.widgets.js"></script>
-        
-        <script>
-            function viewRule(rsn) {
-                $("#searchRuleVrsnRsn").val(rsn);
-                $("#resultsForm").attr("action", "viewQuickSearchRule.action");
-                $("#resultsForm").submit();
-            }
-            
-            function modifySearch() {
-                $("#resultsForm").attr("action", "modifyQuickSearch.action");
-                $("#resultsForm").submit();
-            }
-            
-            $(function() {                
-                var pagerOptions = {
-                    // target the pager markup - see the HTML block below
-                    container: $(".pager"),                    
-
-                    // output string - default is '{page}/{totalPages}'
-                    // possible variables: {page}, {totalPages}, {filteredPages}, {startRow}, {endRow}, {filteredRows} and {totalRows}
-                    // also {page:input} & {startRow:input} will add a modifiable input in place of the value                    
-                    output: 'Page {page:input} of {totalPages}',
-
-                    // apply disabled classname (cssDisabled option) to the pager arrows when the rows
-                    // are at either extreme is visible; default is true
-                    updateArrows: true,
-
-                    // starting page of the pager (zero based index)
-                    page: 0,
-
-                    // Number of visible rows - default is 10 (RLL - changed to 25)
-                    size: 25,
-
-                    // Save pager page & size if the storage script is loaded (requires $.tablesorter.storage in jquery.tablesorter.widgets.js)
-                    savePages : false,
-
-                    // Reset pager to this page after filtering; set to desired page number (zero-based index),
-                    // or false to not change page at filter start
-                    pageReset: 0,
-
-                    // if true, the table will remain the same height no matter how many records are displayed. The space is made up by an empty
-                    // table row set to a height to compensate; default is false
-                    fixedHeight: false,
-
-                    // remove rows from the table to speed up the sort of large tables.
-                    // setting this to false, only hides the non-visible rows; needed if you plan to add/remove rows with the pager enabled.
-                    removeRows: false,
-
-                    // If true, child rows will be counted towards the pager set size
-                    countChildRows: false,
-
-                    // css class names of pager arrows
-                    cssNext: '.next', // next page arrow
-                    cssPrev: '.prev', // previous page arrow
-                    cssFirst: '.first', // go to first page arrow
-                    cssLast: '.last', // go to last page arrow
-                    cssGoto: '.gotoPage', // select dropdown to allow choosing a page
-
-                    cssPageDisplay: '.pagedisplay', // location of where the "output" is displayed
-                    cssPageSize: '.pagesize', // page size selector - select dropdown that sets the "size" option
-
-                    // class added to arrows when at the extremes (i.e. prev/first arrows are "disabled" when on the first page)
-                    cssDisabled: 'disabled', // Note there is no period "." in front of this class name
-                    cssErrorRow: 'tablesorter-errorRow' // ajax error information row
-                };
-                $("#results").tablesorter({
-                    theme : 'green'		
-                })
-                // initialize the pager plugin
-		.tablesorterPager(pagerOptions);
-            });
-        </script>
-        
     </head>
     <body>
         
+
+
 <div class="skip"><a href="#main_content">Skip to main content.</a></div>
 <div id="wrapper">
     <div class='sos-header-wrapper'>
@@ -139,107 +64,150 @@
     </div>
 
 
-        <div id="content_noside"><a name="main_content" id="main_content"></a>
-        <h1>Oregon Administrative Rules</h1>
-        <h2>Quick Rule Search Results</h2>
-        
-        
-        
+<div id="secondary_navbar"> 
+   <div class="sidebar_nav">
+       
 
-<noscript class="errors">For full functionality of this site, it is necessary to enable JavaScript. Here are the <a href="http://www.enable-javascript.com" target="_blank"> instructions</a> on how to enable JavaScript in your web browser.</noscript>
+<ul>
+   <li><a href="javascript:void(0)" onclick="window.location = 'processLogin.action'">OARD Home</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'ruleSearch.action'">Search Current Rules</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'filingSearch.action'">Search Filings</a></li> 
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayBulletins.action'">Access the Oregon Bulletin</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayCompilations.action'">Access the Annual Compilation</a></li>
+   <li><a href="faq.action" target="_blank">FAQ</a></li>
+   
+   <li><a href="javascript:void(0)" onclick="window.location = 'login.action'">Rules Coordinator / Rules Writer Login</a></li>
+   
+   
+</ul>
 
-        <form id="resultsForm" name="resultsForm" method="post">
-        <input type="hidden" name="ruleNumber" value="255-075-0001" id="ruleNumber"/>
-        <input type="hidden" name="resultCount" value="2" id="resultCount"/>
-        <input type="hidden" name="searchRuleVrsnRsn" value="" id="searchRuleVrsnRsn"/>
-        <p>Your search for 255-075-0001 returned 2 results.</p>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a href="javascript:void(0)" onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" /> 		
-            <!--<select class="gotoPage" title="Select page number"></select>-->
-	</div>
-        </div>
-        <div class="form_clear_results"></div>    
-        <div class="table_div_results">
-        <table id="results" class="tablesorter">
-            <thead>
-                <tr>
-                    <th>Rule Number</th>
-                    <th>Rule Title</th>
-                    <th>Chapter Name</th>
-                </tr>
-            </thead>
-            <tbody>
-                 
+   </div>
+</div>
+
+        <div id="content"><a name="main_content" id="main_content"></a>
+        
+            
+        
+            
+        
+                    
+            <h1><a href='/oard/displayChapterRules.action?selectedChapter=18'>Board of Parole and Post-Prison Supervision</a></h1>
+            <h2><a href='/oard/displayChapterRules.action?selectedChapter=18'>Chapter 255</a></h2>
+        
+        
+        
+            
+        
+        <h3><a href='/oard/displayDivisionRules.action?selectedDivision=793'>Division 75<br>PROCEDURES FOR RESPONSES TO PAROLE AND POST-PRISON SUPERVISION CONDITIONS VIOLATIONS FOR OFFENDERS UNDER THE JURISDICTION OF THE BOARD OF PAROLE AND POST-PRISON SUPERVISION OR LOCAL SUPERVISORY AUTHORITY</a></h3>
+        <p><strong>255-075-0001</strong>            
+        <br><strong>Definitions
+</strong></p>
+        
+        <p>(1) &ldquo;Administrative Sanction&rdquo; means local, structured, or intermediate sanctions as those terms are used in OAR 291-058, and may include periods of local confinement in jails, restitution centers, treatment facilities, or similar facilities.</p>
+
+<p>(2) &ldquo;Sanction Authority&rdquo; means:</p>
+
+<p>(a) The Board or its designee for:</p>
+
+<p>(A) Any felony offender who received a sentence of more than twelve (12) months in the custody of the Department of Corrections; or</p>
+
+<p>(B) Any felony offender who received a sentence of twelve (12) months or less but who also has an additional sentence of greater than twelve (12) months.</p>
+
+<p>(i) If an offender is on post-prison supervision for multiple sentences which include a sentence that exceeds twelve (12) months (&ldquo;Board case&rdquo;) and a less than twelve (12) month sentence (&ldquo;Local Supervisory Authority case&rdquo;), the Board will maintain jurisdiction of the post-prison supervision of the Local Supervisory Authority case until the Board&rsquo;s active involvement in the Board cases expires. Following expiration of the Board&rsquo;s cases, the Board will maintain jurisdiction over the post-prison supervision of the Local Supervisory Authority cases until an offender is re-released following revocation of the post-prison supervision for the Local Supervisory Authority cases, or until the Local Supervisory Authority petitions to assume jurisdiction, whichever comes first. Jurisdiction will fall under the Local Supervisory Authority at that point.</p>
+
+<p>(ii) If the Board issued the order of post-prison supervision for an offender whose only sentence was twelve (12) months or less, jurisdiction will remain with the Board until petition by the Supervisory Authority to assume jurisdiction or upon re-release following revocation of the post-prison supervision for that sentence; whichever comes first.</p>
+
+<p>(b) The Local Supervisory Authority or its designee for any felony offender whose crime was committed after November 1, 1989, was sentenced by the court to twelve (12) months or less, and who does not have an additional sentence of more than twelve (12) months for a felony.</p>
+
+<p>(3) &ldquo;Initiate a hearing&rdquo; means person under supervision is presented a Notice of Rights.</p>
+
+<p>(4) Other definitions in 255-005.</p>
+
+        
+        
+        <p>
+                        
+                <b>Statutory/Other Authority:</b>&nbsp;ORS 144.140<br>
+            
+                        
+                <b>Statutes/Other Implemented:</b>&nbsp;ORS 144.096, 144.098, 144.102, 144.106, 144.108, 144.346 &amp; Ch. 51 &amp; OL 1997 (Enrolled SB 156)<br>
+                            
+            <b>History:</b><br>
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(32998);">255-075-0001</a></td>
-                                        
-                    <td style="width:40%">Definitions</td>
-                    
-                    <td style="width:40%">Board of Parole and Post-Prison Supervision</td>
-                    
-                    
-                    </tr>
+    
+        
+            
+        
+        
+            <a href='/oard/viewReceiptTRIM.action?ptId=7605311'>PAR 8-2020, amend filed 10/05/2020, effective 10/05/2020</a><br>
+        
+        
+    
+    
+            
+
+
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(273414);">255-075-0001</a></td>
-                                        
-                    <td style="width:40%">Definitions
-</td>
-                    
-                    <td style="width:40%">Board of Parole and Post-Prison Supervision</td>
-                    
-                    
-                    </tr>
+    
+    
+    
+        
+        PAR 3-1998, f. 8-26-98, cert. ef. 8-27-98<br>
+        
+        
+            
+
+
+            
                 
-            </tbody>
-        </table>    
-        </div>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" />
-	</div>
-        </div>
-        </form>
+    
+    
+    
+        
+        PAR 2-1998(Temp), f. &amp; cert. ef. 7-13-98 thru 1-9-99<br>
+        
+        
+            
+
+
+            
+                
+    
+    
+    
+        
+        PAR 1-1998, f. &amp; cert. ef. 5-11-98<br>
+        
+        
+            
+
+
+            
+                
+    
+    
+    
+        
+        PAR 11-1997(Temp), f. &amp; cert. ef. 11-14-97<br>
+        
+        
+            
+
+
+                            
+        </p>
+        
+            
+        
+        <p><br><a href='/oard/view.action?ruleNumber=255-075-0001'>Please use this link to bookmark or link to this rule.</a></p>
         </div>
         
 
 <div class="sos-footer-wrapper">
     <div class="footer-container">
         <div class="colophon">
-            
-                v2.1.7
             
         </div>
         <div class="sos-footer-nav">
@@ -268,6 +236,6 @@
 </div>
 
         </div>
-    </div>
+    </div>    
     </body>
 </html>
