@@ -147,6 +147,12 @@ def fetch(url: str) -> bytes:
     return _fetcher().get(url).body
 
 
+def fetch_page(url: str):
+    """`fetch`, keeping what it throws away: the status, the content type and the FINAL url
+    after redirects. A caller that must tell a rule from a soft-404 needs the last (#439)."""
+    return _fetcher().get(url)
+
+
 def build_fulltext(fm: dict) -> tuple:
     """(full text, conversion notes) for a doc from its committed snapshot. None if no text."""
     doc_id = fm["id"]
