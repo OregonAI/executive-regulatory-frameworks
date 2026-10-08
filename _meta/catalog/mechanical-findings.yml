@@ -20,7 +20,7 @@ counts:
   documents_affected: 4535
   dead_citations: 5522
   corpus_gap_not_ingested: 575
-  lapsed_but_current: 85
+  lapsed_but_current: 66
   rule_predates_statute_amendment: 4456
   malformed_citations: 65
 dead_citations_by_cause:
@@ -16657,14 +16657,10 @@ lapsed_but_current:
   evidence: expire after December 31, 2007
 - rule: oar-150-309-0260
   evidence: Sunset on 09-28-2017 Reverted to Sunset on 09-28-2017 TC 3-1980
-- rule: oar-165-014-0090
-  evidence: Sunset on 09-28-2017
 - rule: oar-165-020-0445
   evidence: expire June 30, 2019; (b) Position 2, term to expire June 30, 2019
 - rule: oar-170-061-0200
   evidence: expires January 2, 2010
-- rule: oar-333-015-0090
-  evidence: Sunset on 09-28-2017
 - rule: oar-333-061-0228
   evidence: expires after July 31, 2022
 - rule: oar-340-071-0345
@@ -16673,8 +16669,6 @@ lapsed_but_current:
   evidence: sunset on December 31, 1991
 - rule: oar-340-228-0606
   evidence: expires July 1, 2016
-- rule: oar-409-015-0022
-  evidence: Sunset on 09-28-2017
 - rule: oar-410-173-0015
   evidence: expire when an Individual is found to be no longer eligible for 1915
 - rule: oar-411-033-0020
@@ -16701,32 +16695,6 @@ lapsed_but_current:
   evidence: expire on July 1, 2013
 - rule: oar-603-057-0108
   evidence: expire on December 31, 2016
-- rule: oar-624-001-0000
-  evidence: Sunset on 05/08/2023 OASC 1-2001
-- rule: oar-624-010-0000
-  evidence: Sunset on 05/08/2023 OASC 1-2004
-- rule: oar-624-010-0010
-  evidence: Sunset on 05/08/2023 OASC 3-2022, temporary amend filed 08/15/2022
-- rule: oar-624-010-0020
-  evidence: Sunset on 05/08/2023 OASC 1-2004
-- rule: oar-624-010-0030
-  evidence: Sunset on 05/08/2023 OASC 1-2004
-- rule: oar-624-010-0040
-  evidence: Sunset on 05/08/2023 ASC 1-1990
-- rule: oar-624-010-0050
-  evidence: Sunset on 05/08/2023 OASC 1-2004
-- rule: oar-624-010-0060
-  evidence: Sunset on 05/08/2023 OASC 1-2004
-- rule: oar-624-030-0010
-  evidence: Sunset on 05/08/2023 OSAC 1-2008
-- rule: oar-624-030-0020
-  evidence: Sunset on 05/08/2023 OASC 1-2004
-- rule: oar-624-030-0030
-  evidence: Sunset on 05/08/2023 OASC 1-2004
-- rule: oar-624-030-0040
-  evidence: Sunset on 05/08/2023 OASC 1-2004
-- rule: oar-660-001-0105
-  evidence: Sunset on 09-28-2017
 - rule: oar-735-032-0036
   evidence: expires 2012
 - rule: oar-735-042-0060
@@ -16735,8 +16703,6 @@ lapsed_but_current:
   evidence: expire on June 14, 1995
 - rule: oar-735-060-0050
   evidence: expire on April 30, 2024
-- rule: oar-808-001-0035
-  evidence: Sunset on 09-28-2017 LCB 1-2000
 - rule: oar-808-002-0120
   evidence: Sunset on 09-28-2017
 - rule: oar-808-002-0140
@@ -16785,8 +16751,6 @@ lapsed_but_current:
   evidence: Sunset on 09-28-2017
 - rule: oar-808-002-0880
   evidence: Sunset on 09-28-2017
-- rule: oar-808-005-0010
-  evidence: Sunset on 09-28-2017 LCB 1-2000
 - rule: oar-808-009-0090
   evidence: Sunset on 09-28-2017 LCB 1-2000
 - rule: oar-808-009-0300
@@ -16801,8 +16765,6 @@ lapsed_but_current:
   evidence: Sunset on 09-28-2017 LCB 1-2000
 - rule: oar-812-006-0162
   evidence: expires January 2, 2022
-- rule: oar-836-010-0014
-  evidence: Sunset on 09-28-2017
 - rule: oar-845-006-0370
   evidence: expires October 1, 2001
 - rule: oar-853-035-0005
