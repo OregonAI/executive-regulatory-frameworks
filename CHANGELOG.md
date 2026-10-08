@@ -20,7 +20,9 @@ corpus-wide changes from 2026-08-02 forward.
     rsn is the page to fetch; the listing does not carry the number -> the pinned last-in-force record
     is kept and the document says so; an unreadable listing (error page, chapter with no id) is refused
     and never read as a repeal. Re-measured today: the 37 documents from #439 are pinned; **32 are
-    still the listing's current record, 0 are amended, 5 are no longer listed** (`345-020-0040`,
+    still the listing's current record ("listed" means the listing links a record, nothing about
+    force: 7 of the 32 are the sunset rules below, `repealed` by #441, which OARD lists as migrated
+    repeals), 0 are amended, 5 are no longer listed** (`345-020-0040`,
     `660-012-0016`, `813-005-0020`, `858-010-0037`, `918-674-0025`: pinned last-in-force record kept).
     The issue said 6 are manifest-tracked; **4** are (`123-042-0020`, `813-005-0020`, `813-005-0025`,
     `918-674-0025`).
@@ -34,9 +36,12 @@ corpus-wide changes from 2026-08-02 forward.
       `current_version_listed: true|false`; `oar_current_version.py --check` (CI) refuses a pinned
       document without them. Selftest: a new rsn in a fixture listing changes the URL fetched and the
       document's source; both are registered gates.
-    - NOT done here: the drift run itself is corpus-toolkit's reusable workflow and hashes the manifest
-      `url` it is given, so `--sync-manifest` has to run before it (documented in the skill) until
-      something runs it on the schedule.
+    - NOT done here, so this change is `Refs #440`, not a close: the scheduled drift run is
+      corpus-toolkit's reusable workflow and hashes the manifest `url` it is given. Nothing runs
+      `--sync-manifest` on the schedule, so an amendment of a tracked document (e.g. `813-005-0025`)
+      is reported unchanged by a scheduled run until someone runs it by hand (documented in the
+      skill). Follow-up: a scheduled sync step or toolkit pre-drift hook. The 33 untracked pinned
+      documents are noticed only through the Bulletin refresh.
   - **#441, sunset and suspension from the rule's own History** (operator decision 2026-10-07).
     `legal_status.history_force()` reads the History; `resolve()` / `force_fields()` (still the one
     writer) decide. `enrich_oar.py` stamps. A passed `Sunset on <date>` that is the History's last

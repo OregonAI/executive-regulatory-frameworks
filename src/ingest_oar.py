@@ -38,6 +38,7 @@ import yaml
 from check_source_urls import SOFT_404
 from ingest_lib import fetch, fetch_page
 from legal_status import bulletin_status_by_rule, resolve
+from oar_current_version import VERSION_URL as _OCV_VERSION_URL
 from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, Checks, content_hash, division_status,
                       normalize_volatile, oar_rule_path, rule_title_from_html,
                       snapshot_slice, ws_only, snapshot_text)
@@ -98,7 +99,7 @@ SEARCH_RESULTS_URL_MARK = SOFT_404["secure.sos.state.or.us"]
 # A rule is fetched by its OWN version id when its bare number is shared (#439): OARD's
 # search lists every record that matches a number -- older and newer rules that were given the
 # same number, and rules whose history merely cites it -- and each links here.
-VERSION_URL = "https://secure.sos.state.or.us/oard/viewSingleRule.action?ruleVrsnRsn={rsn}"
+VERSION_URL = _OCV_VERSION_URL   # one template, owned by oar_current_version (#440)
 
 
 def is_search_results_page(ws_text: str, final_url: str = "") -> bool:

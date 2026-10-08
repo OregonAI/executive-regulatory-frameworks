@@ -25,6 +25,10 @@ the CURRENT record for every number it carries (the href of each rule row), so:
     REFUSED (`ListingUnreadable`), never read as "the number was repealed". "Could not check" is
     not "is not there".
 
+`current_version_listed: true` says ONLY that the listing links a record for the number. It says
+nothing about force: OARD still lists some sunset rules (titled "Migrated from Repeals and
+Renumbers file") and those are `status: repealed` beside `listed: true`.
+
 The chapter id is the catalog's (`_meta/catalog/oar.yml`, refreshed by `catalog_oar.py`). Listings
 are fetched politely through `ingest_lib.fetch_page` (honest user agent, one host, spaced)."""
 import argparse
@@ -202,9 +206,10 @@ def cmd_resolve() -> int:
 
 def cmd_mark() -> int:
     res, unreadable = _resolve_all()
+    pinned = pinned_documents()
     changed = 0
     for number, r in res.items():
-        path, _ = pinned_documents()[number]
+        path, _ = pinned[number]
         text = path.read_text(encoding="utf-8")
         new = mark_text(text, r.state != NOT_LISTED)
         if new != text:
