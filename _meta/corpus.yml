@@ -194,6 +194,23 @@ mcp:
   # Maintained by src/mark_upstream_tracking.py (CI-gated with --check).
   extra_document_fields:
     - upstream_tracking
+    # HISTORY-DERIVED FORCE (#441), written only by enrich_oar.py through legal_status.py:
+    # `repeal_basis` says why a rule is `repealed` when the reason is a sunset in its own
+    # History; `suspended_by` (+ `suspended_effective`, `suspended_through`) records an
+    # unlifted suspension that is the newest History action on a rule that stays `current`.
+    # The shared frontmatter schema allows extra keys and `schema:` in this file declares only
+    # doc_types (corpus-toolkit rejects anything else), so surfacing them to agents here is
+    # the declaration this corpus can make.
+    - repeal_basis
+    - suspended_by
+    - suspended_effective
+    - suspended_through
+    # #440: a document pinned to a ruleVrsnRsn says its current version is resolved through
+    # OARD's chapter listing, and whether the listing still carries the number. `listed: true`
+    # means only that the listing links a record; it says nothing about force (some sunset
+    # rules stay listed as migrated repeals and are `status: repealed`).
+    - current_version_via
+    - current_version_listed
   # NOTE: there is no `transports:` key here. corpus-toolkit parses one into
   # CorpusConfig.mcp_transports and then reads it nowhere — the transport is chosen
   # solely by the --http flag on corpus-mcp-serve. Declaring it implied a control

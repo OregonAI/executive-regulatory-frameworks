@@ -39,6 +39,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from repo_lib import REPO_ROOT, SNAPSHOT_DIR, content_hash  # noqa: E402
 from check_updates import check_schema  # noqa: E402  (#199: the shared group-schema gate)
 import ingest_status  # noqa: E402  (#336: the held/not-held partition, read not restated)
+import oar_current_version  # noqa: E402  (#440: pinned documents are watched at their record)
 
 MANIFEST = REPO_ROOT / "_meta/sources/oar.yml"
 WORKLIST = REPO_ROOT / "_meta/bulletin-worklist.yml"
@@ -105,6 +106,16 @@ def watched_set(catalog: dict, worklist: dict, cursor: int, size: int = SAMPLE_S
     return named, sorted(sample), nxt
 
 
+def watch_url(number: str, pinned: dict) -> str:
+    """The page the drift run should hash for a rule. A document pinned to a ruleVrsnRsn
+    (`pinned`: {number: (path, rsn)}, #440) is watched at that record, because the bare-number
+    URL is a soft 404 for exactly those numbers; `oar_current_version.py --sync-manifest`
+    moves the entry to a newer record when the chapter listing names one."""
+    if number in pinned:
+        return oar_current_version.version_url(pinned[number][1])
+    return f"https://secure.sos.state.or.us/oard/view.action?ruleNumber={number}"
+
+
 def baseline(number: str):
     """content_hash of the snapshot this corpus holds, or None if there is none."""
     snap = SNAPSHOT_DIR / f"oar-{number}.html"
@@ -120,6 +131,7 @@ def cmd_seed() -> int:
     cursor = int(man.get("sample_cursor") or 0)
     named, sample, nxt = watched_set(catalog, worklist, cursor)
 
+    pinned = oar_current_version.pinned_documents()
     sources, missing = [], []
     for number, why in [(n, "named by the Bulletin") for n in named] + \
                        [(n, "rolling sample") for n in sample]:
@@ -129,7 +141,7 @@ def cmd_seed() -> int:
             continue
         sources.append({
             "id": f"oar-{number}",
-            "url": f"https://secure.sos.state.or.us/oard/view.action?ruleNumber={number}",
+            "url": watch_url(number, pinned),
             "sha256": sha,
             # NO `last_checked`: the baseline is the hash of the snapshot this corpus
             # already holds, not the result of an upstream check. Inheriting the group's
@@ -287,6 +299,12 @@ def cmd_selftest() -> int:
         {"number": "999-001-0000", "action": "amend", "corpus_state": HELD},
         {"number": "999-001-0001", "action": "amend", "corpus_state": HELD},
         {"number": "888-001-0000", "action": "amend", "corpus_state": "chapter_not_mirrored"}]}
+
+    pin = {"999-001-0003": (None, "77")}
+    if not watch_url("999-001-0003", pin).endswith("viewSingleRule.action?ruleVrsnRsn=77"):
+        fails.append("FAIL a-pinned-document-is-watched-at-its-record")
+    if not watch_url("999-001-0004", pin).endswith("view.action?ruleNumber=999-001-0004"):
+        fails.append("FAIL an-unpinned-document-is-watched-by-number")
 
     named, sample, nxt = watched_set(cat, wl, 0, size=2)
     if named != ["999-001-0000", "999-001-0001"]:

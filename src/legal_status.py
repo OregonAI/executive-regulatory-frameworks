@@ -242,6 +242,8 @@ CHECK_RULES = (
     # the notice, and the half no rule about an existing row can state
     "catalog-reaches-the-rule", "a-filed-force-action-is-recorded",
     "the-notice-names-the-filing", "the-notice-is-readable",
+    # what a rule's OWN History says beyond a repeal (#441), and that it is recorded
+    "force-field-agrees-with-status", "history-force-is-recorded",
 )
 
 # THE CHECK-RULE LEDGER (#319). Recording a rule name when a Failure is built (`_FIRED`), the
@@ -262,13 +264,19 @@ emitted_rules = _LEDGER.emitted_rules
 # ------------------------------------------------------------------- the one writer
 
 
-def resolve(*, bulletin=None, history_repealed=None, existing=None) -> str:
+def resolve(*, bulletin=None, history_repealed=None, existing=None,
+            history_sunset=None) -> str:
     """The legal status a rule document must carry. THE ONLY PLACE THIS IS DECIDED.
 
     Every argument is what one caller happens to know, and `None` means "this caller has
     nothing to say", which is a different thing from `False`: `history_repealed=False` is
     an OARD History line read and found not to be a repeal, and `history_repealed=None` is
     a caller that never looked at one.
+
+    `history_sunset` (#441) is the date of a sunset in the rule's own History that has
+    PASSED and is operative (see `history_force()`), or None. It is the same kind of fact as
+    a repeal in the rule's own text -- a rule that sunset no longer has legal effect -- and
+    sits at the same step: below the Bulletin, above what the document already says.
 
     See the order of authority in this module's docstring. The first step is the safety
     property the rest of the Bulletin work rests on and it is asserted here, not implied:
@@ -281,11 +289,163 @@ def resolve(*, bulletin=None, history_repealed=None, existing=None) -> str:
                 "the OAR catalog's `status` field is INGEST status and its vocabulary is "
                 "not this one (CONTEXT.md, *Legal status* / *Ingest status*)")
         return bulletin
+    if history_sunset is not None:
+        return "repealed"
     if history_repealed is not None:
         return "repealed" if history_repealed else UNKNOWN_BUT_SERVED
     if existing in LEGAL_STATUS_VALUES:
         return existing
     return UNKNOWN_BUT_SERVED
+
+
+# ------------------------------------------- force the rule's OWN History states (#441)
+#
+# Two things a rule's History can say about force that are not a repeal, and the operator's
+# decision on #441 (2026-10-07) for each:
+#
+#   a SUNSET whose date has passed  -> `status: repealed`, basis recorded from the History
+#                                      (`repeal_basis: sunset 2017-09-28 (History)`). A future
+#                                      sunset leaves the rule current.
+#   a SUSPENSION that is the NEWEST History action and has not been lifted
+#                                   -> stays `status: current`; the suspension is recorded
+#                                      (`suspended_by`, `suspended_effective`,
+#                                      `suspended_through`). An older suspension that ended
+#                                      stays plain current with nothing recorded.
+#
+# HOW THIS COMBINES WITH THE BULLETIN. Not as a peer: the Bulletin stays authoritative where
+# it has spoken. `resolve()` returns a Bulletin-set status unchanged, and `force_fields()`
+# records NOTHING from the History for a rule the Bulletin has a status for, so a filed
+# suspension (stamped `superseded` with `legal_status_action`) is never also described by a
+# History-derived field that could contradict it. Where the Bulletin is silent, the History
+# is the evidence there is, and it is read the way the repeal is: from the rule's own text,
+# never inferred. The sunset test is deliberately the CONSERVATIVE one -- see `_sunset()`.
+SUNSET_RE = re.compile(r"Sunset on (\d{1,2})[-/](\d{1,2})[-/](\d{4})")
+_DATE_RE = re.compile(r"\b(\d{1,2})[-/](\d{1,2})[-/](\d{4}|\d{2})\b")
+_ACTION_ID = r"[A-Z]{2,8} \d+-\d{4}"
+# "ELECT 14-2026, temporary suspend filed 07/01/2026, effective 07/01/2026 through 12/27/2026"
+# ("temporary suspends temporary X" too). The NEWEST action leads the History.
+SUSPEND_TEMP_RE = re.compile(
+    rf"^({_ACTION_ID}), temporary suspends?\b.*?filed \d{{2}}/\d{{2}}/\d{{4}}, "
+    r"effective (\d{2}/\d{2}/\d{4})(?: through (\d{2}/\d{2}/\d{4}))?")
+# older style: "Suspended by ID 12-2015, f. & cert. ef. 10-16-15" at the head of the History
+SUSPEND_LEADING_RE = re.compile(
+    rf"^Suspended by ({_ACTION_ID}(?:\(Temp\))?)(.*?)(?= {_ACTION_ID}|$)")
+
+TEMP_RULE_MAX_DAYS = 180   # ORS 183.335(6): a temporary rule (or suspension) lasts at most 180 days
+HistoryForce = namedtuple("HistoryForce", "sunset suspension")
+Suspension = namedtuple("Suspension", "by effective through")
+
+
+def _parse_date(m, short_year_pivot=30):
+    """(month, day, year) strings -> date, or None. Two-digit years pivot as the enricher's
+    `parse_effective` does (<= 30 is 20xx)."""
+    from datetime import date
+    mo, dd, y = int(m[0]), int(m[1]), m[2]
+    y = int(y) if len(y) == 4 else (2000 + int(y) if int(y) <= short_year_pivot
+                                    else 1900 + int(y))
+    try:
+        return date(y, mo, dd)
+    except ValueError:
+        return None
+
+
+def _sunset(history: str, today):
+    """The date of an operative, passed sunset in `history`, or None.
+
+    CONSERVATIVE ON PURPOSE. OARD merges the History of every record that ever held a
+    number, so a `Sunset on` can sit in the MIDDLE of a History that goes on to a later
+    amendment (oar-808-002-0280: sunset 2017, minor correction 2024) or that is followed by
+    the old record's own history (oar-411-033-0020, renumbered; the old number sunset). Such
+    a sunset is an earlier version's, and calling the rule repealed on it would publish a
+    false claim about Oregon law. So a sunset counts only when it is the last word the
+    History has: its date has passed, no other date in the History is later than it, no
+    renumbering precedes it, and no bracketed prior-record history follows it. The same
+    newest-action principle `enrich_oar.parse_history` applies to a repeal."""
+    for s in SUNSET_RE.finditer(history):
+        when = _parse_date(s.groups())
+        if when is None or when > today:
+            continue
+        before, after = history[:s.start()], history[s.end():]
+        others = [_parse_date(m) for m in _DATE_RE.findall(before + " " + after)]
+        if any(d and d > when for d in others):
+            continue
+        if "Renumbered from" in before or "[" in after:
+            continue
+        return when
+    return None
+
+
+def _suspension(history: str, today):
+    """The unlifted suspension that is the NEWEST action of `history`, or None. An action is
+    the newest only when it leads the History; one buried under a later action ended."""
+    from datetime import datetime, timedelta
+    h = history.strip()
+    m = SUSPEND_TEMP_RE.match(h)
+    if m:
+        def d(x):
+            return datetime.strptime(x, "%m/%d/%Y").date() if x else None
+        susp = Suspension(m.group(1), d(m.group(2)), d(m.group(3)))
+    else:
+        m = SUSPEND_LEADING_RE.match(h)
+        if not m:
+            return None
+        dates = [_parse_date(x) for x in _DATE_RE.findall(m.group(2))]
+        thru = re.search(r"\b(?:thru|through) (\d{1,2}[-/]\d{1,2}[-/]\d{2,4})", m.group(2))
+        end = _parse_date(_DATE_RE.match(thru.group(1)).groups()) if thru else None
+        susp = Suspension(m.group(1), dates[0] if dates else None, end)
+    if susp.through is not None and susp.through < today:
+        return None
+    # A TEMPORARY suspension cannot outlive 180 days (ORS 183.335(6)), so an old-style
+    # `(Temp)` suspension with no stated end is lifted once 180 days have passed since its
+    # effective date. Only a permanent suspending filing is recorded as open-ended.
+    if (susp.through is None and susp.by.endswith("(Temp)") and susp.effective is not None
+            and susp.effective + timedelta(days=TEMP_RULE_MAX_DAYS) < today):
+        return None
+    return susp
+
+
+def history_force(history, today=None) -> HistoryForce:
+    """What the rule's own History says about force, as of `today`: `.sunset` (date of an
+    operative passed sunset) and `.suspension` (an unlifted newest-action suspension).
+    Pure; `today` is a parameter so nothing depends on the day it runs."""
+    from datetime import date
+    today = today or date.today()
+    if not history:
+        return HistoryForce(None, None)
+    return HistoryForce(_sunset(history, today), _suspension(history, today))
+
+
+def force_fields(status, force, bulletin=None, history_repealed=None) -> dict:
+    """The extra frontmatter a rule's History-derived force is recorded in, for a document
+    whose `status` is already decided -- {} where nothing is to be recorded.
+
+      repeal_basis        "sunset 2017-09-28 (History)"   status repealed by a sunset
+      suspended_by        "ELECT 14-2026"                 the suspending rule's own id
+      suspended_effective "2026-07-01"
+      suspended_through   "2026-12-27"   (absent when the History states no end)
+
+    Nothing is recorded where the Bulletin has a status for the rule (it stays authoritative
+    and these would be a second voice), and a sunset basis only where the sunset is WHY the
+    status is repealed (a repeal in the History's newest action keeps its own, older way)."""
+    # LEGAL STATUS - READER: records what resolve() was told; decides no status of its own.
+    if bulletin is not None:
+        return {}
+    if status == "repealed" and force.sunset is not None and not history_repealed:
+        return {"repeal_basis": f"sunset {force.sunset.isoformat()} (History)"}
+    if status == UNKNOWN_BUT_SERVED and force.suspension is not None:
+        s = force.suspension
+        out = {"suspended_by": s.by}
+        if s.effective:
+            out["suspended_effective"] = s.effective.isoformat()
+        if s.through:
+            out["suspended_through"] = s.through.isoformat()
+        return out
+    return {}
+
+
+HIST_LINE_RE = re.compile(r"^History:\s*(.*)$", re.M)
+FORCE_FIELD_KEYS = ("repeal_basis", "suspended_by", "suspended_effective",
+                    "suspended_through")
 
 
 def force_status(action: str):
@@ -1110,6 +1270,81 @@ def load_worklist():
         return None
 
 
+def retrieved_as_of(retrieved):
+    """The date a document is judged AS OF: its `retrieved` frontmatter value (a date, a
+    datetime or an ISO string), or today when it has none / it does not parse. The one
+    reading every gate shares, so a gate and `check_force_fields` cannot disagree."""
+    from datetime import date, datetime
+    if isinstance(retrieved, datetime):
+        return retrieved.date()
+    if isinstance(retrieved, date):
+        return retrieved
+    m = re.match(r'\s*"?(\d{4})-(\d{2})-(\d{2})', str(retrieved or ""))
+    try:
+        return date(*map(int, m.groups())) if m else date.today()
+    except ValueError:
+        return date.today()
+
+
+def _retrieved_date(fm: str):
+    """The document's `retrieved` date, or today when it has none / it does not parse."""
+    m = re.search(r'^retrieved:\s*(.*)$', fm, re.M)
+    return retrieved_as_of(m.group(1) if m else None)
+
+
+def check_force_fields(texts, bulletin_numbers, today=None) -> list:
+    """The History-derived force fields (#441) must agree with the status beside them, and a
+    rule whose own History carries an operative passed sunset must be recorded as one.
+
+      force-field-agrees-with-status  `repeal_basis` only on a `repealed` document,
+                                      `suspended_by` (and its dates) only on a `current` one,
+                                      and neither on a rule the Bulletin has a status for
+                                      -- the Bulletin is the one voice there.
+      history-force-is-recorded       an operative sunset (`history_force()`) on a rule the
+                                      Bulletin is silent about, whose document is not
+                                      `repealed` and does not say why.
+
+    Only what cannot go stale with the calendar is enforced here. A sunset is judged as of
+    the document's own `retrieved` date (unless `today` is injected), so a rule that prints a
+    FUTURE sunset does not turn this PR-tier gate red on the sunset date with no commit
+    involved; `enrich_oar.py --check` (nightly) catches it and `enrich_oar.py` clears it.
+    Whether a SUSPENSION still holds is a function of today's date and is compared
+    by `enrich_oar.py --check`, the nightly gate that already owns time-varying derivations.
+    """
+    out = []
+    for text in texts:
+        block = FRONTMATTER_BLOCK_RE.match(text)
+        if not block:
+            continue
+        fm = block.group(1)
+        if not (re.search(r"^(?:repeal_basis|suspended_by):", fm, re.M)
+                or "Sunset on" in text):
+            continue
+        id_m = re.search(r"^id:\s*(\S+)", fm, re.M)
+        st_m = DOC_STATUS_RE.search(fm)
+        number = rule_number(id_m.group(1)) if id_m else "?"
+        status = st_m.group(1) if st_m else None
+        spoken = number in bulletin_numbers
+        has_basis = bool(re.search(r"^repeal_basis:", fm, re.M))
+        has_susp = bool(re.search(r"^suspended_(?:by|effective|through):", fm, re.M))
+        if (has_basis and status != "repealed") or (has_susp and status != UNKNOWN_BUT_SERVED):
+            out.append(Failure("force-field-agrees-with-status", number,
+                               f"carries a History-derived force field beside status {status!r}"))
+        elif (has_basis or has_susp) and spoken:
+            out.append(Failure("force-field-agrees-with-status", number,
+                               "carries a History-derived force field though the Bulletin set "
+                               "this rule's status; the Bulletin is the one voice"))
+        if not spoken and not has_basis:
+            hist = HIST_LINE_RE.search(text[block.end():])
+            as_of = today or _retrieved_date(fm)
+            if hist and history_force(hist.group(1), as_of).sunset is not None \
+                    and status != "repealed":
+                out.append(Failure("history-force-is-recorded", number,
+                                   "its own History carries a passed sunset and the document "
+                                   f"still says {status!r}: run python3 src/enrich_oar.py"))
+    return out
+
+
 def cmd_check() -> int:
     sites = census()
     catalog = yaml.safe_load(CATALOG.read_text())
@@ -1118,7 +1353,9 @@ def cmd_check() -> int:
     failures = (check_sites(sites)
                 + ingest_status.check_vocabulary(ingest_status.ingest_vocabulary())
                 + check_committed(catalog, doc_status_by_rule(catalog, bulletin_set))
-                + check_filings(catalog, worklist))
+                + check_filings(catalog, worklist)
+                + check_force_fields((p.read_text() for p in _rule_document_paths()),
+                                     set(bulletin_set)))
     if report(failures):
         print(f"\n{len(failures)} legal-status violation(s)", file=sys.stderr)
         return 1
@@ -1347,6 +1584,7 @@ def _marked_fixture(**rule) -> dict:
 
 
 def _proof_resolve(check) -> None:
+    from datetime import date
     """The order of authority, asserted rather than described.
 
     THE SECOND MUTATION PROOF LIVES HERE. `bulletin-survives-a-re-ingest` is the exact shape
@@ -1370,6 +1608,12 @@ def _proof_resolve(check) -> None:
     check("...and the same holds for every value in the schema enum",
           all(resolve(bulletin=v, history_repealed=True, existing="current") == v
               for v in LEGAL_STATUS_VALUES))
+    check("a bulletin-set status beats a History sunset, whatever else is supplied",
+          all(resolve(bulletin=v, history_sunset=date(2017, 9, 28), history_repealed=False,
+                      existing="current") == v for v in LEGAL_STATUS_VALUES))
+    check("a History sunset beats history_repealed=False and the existing status",
+          resolve(history_sunset=date(2017, 9, 28), history_repealed=False,
+                  existing="current") == "repealed")
     check("a history line read and found not to be a repeal is not silence",
           resolve(history_repealed=False, existing="repealed") == UNKNOWN_BUT_SERVED)
     try:
@@ -1378,6 +1622,111 @@ def _proof_resolve(check) -> None:
     except ValueError as e:
         check("an ingest status is refused as a legal status", "INGEST" in str(e).upper()
               or "not a legal status" in str(e))
+
+
+def _proof_history_force(check) -> None:
+    """What a rule's OWN History says about force beyond a repeal (#441): a sunset that has
+    passed, a suspension nobody has lifted. Every History string is a real one off a
+    committed document (named beside it), so the expected values come from OARD's text and
+    not from re-running the parser. `today` is a parameter: nothing here depends on the
+    day the proof runs."""
+    from datetime import date
+    today = date(2026, 10, 7)
+    leading = "Sunset on 09-28-2017 LCB 1-2000, f. & cert. ef. 2-1-00 LCB 2-1990, f. 7-27-90, cert. ef. 8-1-90 "
+    f = history_force(leading, today)                        # oar-808-005-0010
+    check("a leading Sunset whose date has passed is operative",
+          f.sunset == date(2017, 9, 28) and f.suspension is None)
+    trailing = ("Reverted to ELECT 34-1990, f. & cert. ef. 9-14-90 ELECT 34-1990, f. & cert. "
+                "ef. 9-14-90 ELECT 30-1990(Temp), f. & cert. ef. 7-23-90 Sunset on 09-28-2017 ")
+    check("a trailing Sunset after a reversion is operative (oar-165-014-0090)",
+          history_force(trailing, today).sunset == date(2017, 9, 28))
+    check("a FUTURE sunset is not a loss of force: the rule stays current",
+          history_force("Sunset on 05/08/2030 OASC 1-2004, f. 1-15-04 cert. ef. 1-16-04 ",
+                        today).sunset is None)
+    check("a sunset a later action follows is the earlier version's, not the rule's "
+          "(oar-808-002-0280: LCB 9-2024 minor correction)",
+          history_force("LCB 9-2024, minor correction filed 08/09/2024, effective 08/09/2024 "
+                        "LCB 1-2000, f. & cert. ef. 2-1-00 Sunset on 09-28-2017 LCB 1-1988, "
+                        "f. 1-26-88, cert. ef. 2-1-88 ", today).sunset is None)
+    check("a sunset after a renumbering and followed by the old record's bracketed history "
+          "is the old number's (oar-411-033-0020)",
+          history_force("Renumbered from 411-030-0090 by APD 12-2017, f. & cert. ef. 5-30-17 "
+                        "SSD 4-1993, f. 4-30-93, cert. ef. 6-1-93 Sunset on 09-28-2017 "
+                        "[SSD 4-1993, f. 4-30-93, cert. ef. 6-1-93] ", today).sunset is None)
+    check("no History, no force claim", history_force("", today) == HistoryForce(None, None))
+    s = history_force("ELECT 14-2026, temporary suspend filed 07/01/2026, effective "
+                      "07/01/2026 through 12/27/2026 ELECT 20-2009, f. & cert. ef. 12-31-09 ",
+                      today).suspension                           # oar-165-002-0010
+    check("a temporary suspension that is the NEWEST action and has not ended is recorded",
+          s == Suspension("ELECT 14-2026", date(2026, 7, 1), date(2026, 12, 27)))
+    check("...and one that ended is plain current, nothing recorded (oar-250-030-0160)",
+          history_force("OSMB 13-2018, temporary suspends temporary OSMB 12-2018, filed "
+                        "08/08/2018, effective 08/08/2018 through 01/25/2019 OSMB 12-2018, "
+                        "temporary amend filed 08/03/2018, effective 08/03/2018 through "
+                        "01/25/2019 ", today).suspension is None)
+    check("the through date itself is still inside the suspension (oar-735-063-0265)",
+          history_force("DMV 10-2026, temporary suspend filed 03/13/2026, effective "
+                        "04/11/2026 through 10/07/2026 ", today).suspension is not None)
+    check("an older suspension under a newer permanent action is not recorded "
+          "(oar-137-020-0800: DOJ 12-2012 is newest)",
+          history_force("DOJ 12-2012, f. 7-23-12, cert. ef. 7-24-12 Suspended by DOJ "
+                        "4-2012(Temp), f. & cert. ef. 2-15-12 thru 7-24-12 ", today)
+          .suspension is None)
+    old = history_force("Suspended by ID 12-2015, f. & cert. ef. 10-16-15 ID 11-2015(Temp) ",
+                        today).suspension
+    check("an old-style leading 'Suspended by' with no end date is recorded as open-ended",
+          old == Suspension("ID 12-2015", date(2015, 10, 16), None))
+    check("an old-style (Temp) suspension with no end, past 180 days, is lifted (ORS 183.335(6))",
+          history_force("Suspended by ID 12-2015(Temp), f. & cert. ef. 10-16-15 ID 11-2015 ",
+                        today).suspension is None)
+    check("...but inside its 180 days it is still recorded",
+          history_force("Suspended by ID 12-2026(Temp), f. & cert. ef. 9-16-26 ID 11-2015 ",
+                        today).suspension == Suspension("ID 12-2026(Temp)", date(2026, 9, 16),
+                                                        None))
+    check("...and with a 'thru' date already past it is lifted (oar-137-020-0800 shape)",
+          history_force("Suspended by DVA 11-2013(Temp), f. & cert. ef. 11-15-13 thru "
+                        "1-19-14 DVA 45, f. & ef. 12-1-75 ", today).suspension is None)
+
+
+def _force_doc(status, extra="", history="History: Sunset on 09-28-2017 LCB 1-2000, f. & cert. ef. 2-1-00"):
+    return (f"---\nid: oar-808-005-0010\nstatus: {status}\n{extra}---\n\n## Full text\n\n"
+            f"{history}\n")
+
+
+def _proof_history_force_fields_are_recorded(check) -> None:
+    """`check_force_fields()` (#441): the fields and the status must agree, and a rule whose
+    own History carries an operative passed sunset must say so. Time-independent by
+    construction -- a sunset that has passed stays passed, so this gate cannot go red on a
+    day nobody touched the corpus (a sunset still ahead of the document's `retrieved` date is
+    left to the nightly `enrich_oar.py --check`)."""
+    from datetime import date
+    today = date(2026, 10, 7)
+    basis = 'repeal_basis: "sunset 2017-09-28 (History)"\n'
+    good = [_force_doc("repealed", basis)]
+    check("a sunset rule that is repealed with its basis passes",
+          not check_force_fields(good, set(), today))
+    future = _force_doc("current", "", "History: Sunset on 12-31-2026 LCB 1-2000, f. & cert. ef. 2-1-00")
+    future = future.replace("status: current\n", 'status: current\nretrieved: "2026-10-01"\n')
+    check("a sunset dated after the document's `retrieved` date is not a PR-tier failure",
+          not check_force_fields([future], set()))
+    check("a sunset rule still served `current` is refused [history-force-is-recorded]",
+          any(f.rule == "history-force-is-recorded"
+              for f in check_force_fields([_force_doc("current")], set(), today)))
+    check("...but not where the Bulletin has spoken for that rule",
+          not check_force_fields([_force_doc("superseded")],
+                                 {"808-005-0010"}, today))
+    check("a basis on a document that is not repealed is refused [force-field-agrees-with-status]",
+          any(f.rule == "force-field-agrees-with-status" for f in check_force_fields(
+              [_force_doc("current", basis, "History: LCB 1-2000, f. 2-1-00")],
+              set(), today)))
+    check("a suspension on a document that is not current is refused",
+          any(f.rule == "force-field-agrees-with-status" for f in check_force_fields(
+              [_force_doc("repealed", 'suspended_by: "ELECT 14-2026"\n')],
+              set(), today)))
+    check("a force field on a Bulletin-marked rule is refused (the Bulletin is the one voice)",
+          any(f.rule == "force-field-agrees-with-status" for f in check_force_fields(
+              [_force_doc("superseded", 'suspended_by: "ELECT 14-2026"\n')],
+              {"808-005-0010"}, today)))
 
 
 def _proof_the_gate_sees_a_second_writer(check) -> None:
@@ -1910,6 +2259,8 @@ def selftest() -> int:
     check = Checks()
     _proof_resolve(check)
     _proof_force_status(check)
+    _proof_history_force(check)
+    _proof_history_force_fields_are_recorded(check)
     _proof_marking(check)
     sources = _fixture_sources()
     for name, rule in _SOURCE_CASES:

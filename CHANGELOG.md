@@ -11,6 +11,68 @@ corpus-wide changes from 2026-08-02 forward.
 ## [Unreleased]
 
 ### Fixed
+- 2026-10-07 — **Pinned OAR documents resolve their current version through OARD's chapter listing (#440), and a rule's own History decides sunset and suspension (#441).**
+  One PR because both touch the same documents.
+  - **`enrich_oar.py --check` is judged as of each document's `retrieved` date** (`legal_status.retrieved_as_of`, the reading `check_force_fields` uses), so the two `suspended_through: "2026-10-07"` documents (`735-063-0265`, `-0268`) do not turn the nightly red on 2026-10-08; the write path still stamps as of the refresh date.
+  - **#440, the resolver.** `src/oar_current_version.py` reads OARD's `displayChapterRules.action`
+    listing of record (chapter id from `_meta/catalog/oar.yml`, fetched once per chapter through the
+    honest-UA fetcher) and maps every rule number to the `ruleVrsnRsn` its row links. Per number:
+    the pinned rsn is still named -> current; the listing names a different rsn -> AMENDED, and that
+    rsn is the page to fetch; the listing does not carry the number -> the pinned last-in-force record
+    is kept and the document says so; an unreadable listing (error page, chapter with no id) is refused
+    and never read as a repeal. Re-measured today: the 37 documents from #439 are pinned; **32 are
+    still the listing's current record ("listed" means the listing links a record, nothing about
+    force: 7 of the 32 are the sunset rules below, `repealed` by #441, which OARD lists as migrated
+    repeals), 0 are amended, 5 are no longer listed** (`345-020-0040`,
+    `660-012-0016`, `813-005-0020`, `858-010-0037`, `918-674-0025`: pinned last-in-force record kept).
+    The issue said 6 are manifest-tracked; **4** are (`123-042-0020`, `813-005-0020`, `813-005-0025`,
+    `918-674-0025`).
+    - Used by `reingest_oar.py` (the Bulletin refresh fetches the listing's record, and when it is a
+      new one `refresh()` re-sources `source_url`, the banner and the provenance line, and the manifest
+      entry's url and baseline hash follow), `seed_oar_watch.py` (a pinned document is enrolled at its
+      record, not the soft-404 bare-number URL) and `oar_current_version.py --sync-manifest` (moves a
+      tracked entry's `url` to the listing's record and leaves its `sha256`, so drift reports the
+      amendment). The check-updates skill runs `--sync-manifest` before the `oar` group.
+    - Each of the 37 documents now carries `current_version_via: "chapter-listing"` and
+      `current_version_listed: true|false`; `oar_current_version.py --check` (CI) refuses a pinned
+      document without them. Selftest: a new rsn in a fixture listing changes the URL fetched and the
+      document's source; both are registered gates.
+    - NOT done here, so this change is `Refs #440`, not a close: the scheduled drift run is
+      corpus-toolkit's reusable workflow and hashes the manifest `url` it is given. Nothing runs
+      `--sync-manifest` on the schedule, so an amendment of a tracked document (e.g. `813-005-0025`)
+      is reported unchanged by a scheduled run until someone runs it by hand (documented in the
+      skill). Follow-up: a scheduled sync step or toolkit pre-drift hook. The 33 untracked pinned
+      documents are noticed only through the Bulletin refresh.
+  - **#441, sunset and suspension from the rule's own History** (operator decision 2026-10-07).
+    `legal_status.history_force()` reads the History; `resolve()` / `force_fields()` (still the one
+    writer) decide. `enrich_oar.py` stamps. A passed `Sunset on <date>` that is the History's last
+    word -> `status: repealed`, `repeal_basis: "sunset <date> (History)"`. A suspension that is the
+    NEWEST History action and has not ended -> stays `current`, `suspended_by` + `suspended_effective`
+    + `suspended_through`. **The Bulletin stays authoritative:** a Bulletin-set status is returned
+    unchanged and no History field is recorded beside it (the 37 filed suspensions are already
+    `superseded`). The new fields are listed in `mcp.extra_document_fields` (`_meta/corpus.yml`;
+    `schema:` there accepts only doc_types).
+    - **Re-measured, narrower than the survey.** 52 rules print a past sunset in their History, not 45.
+      19 are repealed because the sunset is the History's last word. The other **33 stay `current` on
+      purpose**: a later amendment (`436-060-0018`, `150-309-0260`, `808-002-0280` ...) or a
+      renumbering with the old record's bracketed history after it (`411-033-0020`, 24 of
+      `808-002-*`, 6 of `808-009-*`) means the sunset is an earlier version's or the old number's, and
+      repealing them would be a false statement about Oregon law. A human should confirm these 33:
+      150-309-0260, 411-033-0020, 436-060-0018, 808-002-0120/0140/0160/0200/0240/0280/0300/0320/0340/
+      0360/0420/0440/0480/0500/0520/0560/0580/0620/0680/0760/0780/0800/0820/0880,
+      808-009-0090/0300/0320/0335/0340/0420.
+    - **Status changes (19, `current` -> `repealed`):** `165-014-0090`, `333-015-0090`, `409-015-0022`,
+      `660-001-0105`, `808-001-0035`, `808-005-0010`, `836-010-0014` (sunset 2017-09-28, History) and
+      `624-001-0000`, `624-010-0000`, `624-010-0010`, `624-010-0020`, `624-010-0030`, `624-010-0040`,
+      `624-010-0050`, `624-010-0060`, `624-030-0010`, `624-030-0020`, `624-030-0030`, `624-030-0040`
+      (sunset 2023-05-08, History). All seven rules issue #441 names (listed above as the 2017-09-28 group) are among the 19.
+    - **Suspension recorded, status unchanged (4):** `309-035-0275` (BHS 14-2026, through 2026-11-25),
+      `333-610-0090` (PH 27-2026, through 2026-12-21), `735-063-0265` and `735-063-0268` (DMV 10-2026,
+      through 2026-10-07). Because these depend on the date, `enrich_oar.py --check` (nightly) flags a
+      lapsed one and `python3 src/enrich_oar.py` clears it.
+    - `legal_status.py --check` now also refuses a force field beside the wrong status, beside a
+      Bulletin-marked rule, and a passed operative sunset left unrecorded; `--selftest` watches both
+      new rules fire.
 - 2026-10-07 — **39 OAR documents that were OARD search-result pages become the rule behind the number, 37 of them; two are left flagged (#439).**
   Each of the 39 documents titled "returned N results" published OARD's results list and footer as
   the rule's `verbatim` text. Re-measured on `main` today: 39 by title and the same 39 by body

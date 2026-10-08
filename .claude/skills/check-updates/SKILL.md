@@ -30,7 +30,12 @@ changes.
    listings can change any time (monthly checks); ORS changes biennially (odd-year
    sessions); standards move on their printed review dates.
 
-2. **Check a due group** (network, scoped):
+2. **Check a due group** (network, scoped). For the `oar` group first move the manifest
+   entries of documents pinned to a `ruleVrsnRsn` onto the record OARD's chapter listing
+   names today (#440) -- a pinned page never changes when a rule is amended, so drift would
+   otherwise report an amended rule as unchanged:
+
+       python3 src/oar_current_version.py --sync-manifest   # then commit the url moves
 
        python3 src/check_updates.py --group <name>
 

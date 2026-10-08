@@ -369,7 +369,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/617/ (13 rules)` — correct non-links — 6 cite only chapter-level authority (no section to link to); 7 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/619/ (6 rules)` — correct non-links — 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/623/ (6 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/624/ (14 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/624/ (15 rules)` — correct non-links — 4 cite only chapter-level authority (no section to link to); 11 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/628/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/629/ (102 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 99 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/632/ (3 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority

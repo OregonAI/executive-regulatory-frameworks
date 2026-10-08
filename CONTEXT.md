@@ -175,8 +175,8 @@ _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a 
 **Legal status**:
 Whether a rule is in force. It lives in the document's `status` frontmatter field, whose values
 corpus-toolkit's schema fixes as `current | superseded | repealed | proposed | draft`, and it
-is a claim about Oregon law. Measured over the committed corpus: 40,486
-<!--census:legal_status_docs.status_current--> rules read `current`, 2,089
+is a claim about Oregon law. Measured over the committed corpus: 40,467
+<!--census:legal_status_docs.status_current--> rules read `current`, 2,108
 <!--census:legal_status_docs.status_repealed--> `repealed` and 37
 <!--census:legal_status_docs.status_superseded--> `superseded`, computed by
 `legal_status.document_status_counts()` and printed on every `legal_status.py --check` run

@@ -82,6 +82,7 @@ import yaml
 import check_bulletin
 import ingest_status
 import legal_status
+import oar_current_version
 # The one writer of a legal status, and the helpers this module would otherwise keep a
 # second copy of. `report` says so in its own docstring -- "One printer, because both
 # commands print the same shape and a second copy is where the two spellings drift
@@ -388,7 +389,7 @@ PROVENANCE_RE = re.compile(
     r"^(- Source: <[^>]*> ·) retrieved \d{4}-\d{2}-\d{2} · sha256 `[0-9a-f]{64}`$", re.M)
 
 
-def refresh(text: str, full_text: str, sha: str, retrieved: str):
+def refresh(text: str, full_text: str, sha: str, retrieved: str, source_url: str = None):
     """One rule document with its TEXT AND PROVENANCE REPLACED and everything else kept.
     None where the document is not in a shape this can parse.
 
@@ -425,6 +426,18 @@ def refresh(text: str, full_text: str, sha: str, retrieved: str):
     head, n_dis = DISCLAIMER_RE.subn(rf"\1 (retrieved {retrieved}).", head, count=1)
     tail, n_prov = PROVENANCE_RE.subn(
         rf"\1 retrieved {retrieved} · sha256 `{sha}`", tail, count=1)
+    if source_url:
+        # #440: a document pinned to a ruleVrsnRsn whose listing now names a newer record is
+        # refreshed FROM that record, so the three places that cite where the text came from
+        # must follow it, or the document would claim the old page as its source.
+        head, n_src = re.subn(r'^source_url: "[^"]*"$', f'source_url: "{source_url}"', head,
+                              count=1, flags=re.M)
+        head, n_ban = re.subn(r"^> <[^>]*> \(retrieved", f"> <{source_url}> (retrieved", head,
+                              count=1, flags=re.M)
+        tail, n_tail = re.subn(r"^- Source: <[^>]*> ·", f"- Source: <{source_url}> ·", tail,
+                               count=1, flags=re.M)
+        if not (n_src and n_ban and n_tail):
+            return None
     if not (n_ret and n_sha and n_dis and n_prov):
         return None
     return head + full_text + tail
@@ -739,23 +752,26 @@ def _record_refusal(candidate, reason, notice) -> None:
     candidate.row[REFUSED_NOTICE_KEY] = notice
 
 
-def _refresh_url(candidate) -> str:
-    """Where to read a rule's current text (#439). A document that mirrors one OARD record
-    carries `viewSingleRule.action?ruleVrsnRsn=` as its `source_url`; the bare-number URL is
-    a results page for exactly those numbers, so it is fetched from that URL instead."""
+def _refresh_url(candidate, listings=None) -> str:
+    """Where to read a rule's current text (#439, #440). A document that mirrors one OARD
+    record carries `viewSingleRule.action?ruleVrsnRsn=` as its `source_url`; the bare-number
+    URL is a results page for exactly those numbers, so it is fetched from that record
+    instead -- the one the chapter listing of record NOW names for the number
+    (`oar_current_version`), because OARD issues a new ruleVrsnRsn when it amends a rule and a
+    pin would see the old page forever. A number the listing no longer carries keeps its
+    pinned last-in-force record. Raises `ListingUnreadable` where the listing cannot say."""
     try:
-        m = re.search(r'^source_url:\s*"?(https://secure\.sos\.state\.or\.us/oard/'
-                      r'viewSingleRule\.action\?ruleVrsnRsn=\d+)',
-                      candidate.path.read_text(encoding="utf-8"), re.M)
+        text = candidate.path.read_text(encoding="utf-8")
     except OSError:
-        m = None
-    if m:
-        return m.group(1)
+        text = ""
+    rsn = oar_current_version.pinned_rsn(text)
+    if rsn:
+        return oar_current_version.refresh_url(candidate.number, rsn, listings)
     return f"https://secure.sos.state.or.us/oard/view.action?ruleNumber={candidate.number}"
 
 
 def reingest_one(candidate, registry_by_chapter, today, fetch_page=None,
-                 notice=None) -> tuple:
+                 notice=None, listings=None) -> tuple:
     """Refresh ONE rule from OARD. (True if the document changed, Failures).
 
     `fetch_page` is the network, injected so nothing here has to be reached through a
@@ -776,7 +792,16 @@ def reingest_one(candidate, registry_by_chapter, today, fetch_page=None,
     it for a rule out of force. Zero rules are in that state today (306 of 306 fetched,
     sliced and recorded), which is why it is an issue and not a branch here."""
     number, doc_id = candidate.number, f"oar-{candidate.number}"
-    url = _refresh_url(candidate)
+    try:
+        url = _refresh_url(candidate, listings)
+    except oar_current_version.ListingUnreadable as e:
+        return False, [Failure(
+            "a-filed-text-action-is-re-ingested", f"{number}",
+            f"its current ruleVrsnRsn could not be resolved from OARD's chapter listing ({e}). "
+            "Refreshing the pinned page would report an amended rule as unchanged -- re-run "
+            "when the listing is readable")]
+    # only a document pinned to a record follows the record its listing names
+    pinned_to_record = "viewSingleRule.action?ruleVrsnRsn=" in url
     fetch_page = fetch_page or fetch_with_url
     final_url = ""
     try:
@@ -841,9 +866,10 @@ def reingest_one(candidate, registry_by_chapter, today, fetch_page=None,
     # before midnight. Compared as a FIXED POINT rather than on the hash alone: an
     # unchanged page whose document had drifted from it is a document that still needs
     # rewriting, and the hash on its own cannot tell the two apart.
-    if refresh(old, full_text, sha, _retrieved(old)) == old:
+    new_source = url if pinned_to_record else None
+    if refresh(old, full_text, sha, _retrieved(old), new_source) == old:
         return False, []
-    new = refresh(old, full_text, sha, today)
+    new = refresh(old, full_text, sha, today, new_source)
     if new is None:
         return False, [Failure(
             "the-re-ingest-reproduces-its-document", f"{number}",
@@ -884,6 +910,22 @@ def _doc_status(text: str):
     return m.group(1) if m else None
 
 
+def _repoint_manifest(moved: dict) -> None:
+    """A pinned document that was refreshed from a NEWER record is now watched at that record
+    (#440): the manifest entry's url and baseline hash follow the document, or the next drift
+    run would fetch the superseded page and report the amendment this run just applied."""
+    group = yaml.safe_load(oar_current_version.MANIFEST.read_text())
+    for s in group.get("sources") or []:
+        path = moved.get(s["id"])
+        if path is None:
+            continue
+        text = path.read_text(encoding="utf-8")
+        s["url"] = oar_current_version.version_url(oar_current_version.pinned_rsn(text))
+        s["sha256"] = FM_SHA_RE.search(text).group(0).split('"')[1]
+    oar_current_version.MANIFEST.write_text(
+        yaml.safe_dump(group, sort_keys=False, allow_unicode=True, width=110))
+
+
 def cmd_run() -> int:
     """Re-ingest every rule this month's bulletin changed the TEXT of. No approval asked.
 
@@ -900,8 +942,16 @@ def cmd_run() -> int:
         return 1
     registry = load_registry_by_chapter()
     notice, changed, failures = worklist.get("bulletin"), 0, []
+    # #440: the chapter listings that say which record of a pinned rule is current, fetched
+    # on demand and once per chapter. Rules that are not pinned never touch the network here.
+    listings = oar_current_version.ChapterListings(catalog)
+    moved = {}
     for i, c in enumerate(picked, 1):
-        wrote, problems = reingest_one(c, registry, TODAY, notice=notice)
+        before = oar_current_version.pinned_rsn(c.path.read_text(encoding="utf-8"))
+        wrote, problems = reingest_one(c, registry, TODAY, notice=notice, listings=listings)
+        after = oar_current_version.pinned_rsn(c.path.read_text(encoding="utf-8"))
+        if before and after and before != after:
+            moved[f"oar-{c.number}"] = c.path
         failures += problems
         if problems:
             continue
@@ -915,6 +965,8 @@ def cmd_run() -> int:
             print(f"...{i}/{len(picked)} re-ingested, {changed} document(s) rewritten")
     CATALOG.write_text(yaml.safe_dump(catalog, sort_keys=False, allow_unicode=True,
                                       width=100))
+    if moved:
+        _repoint_manifest(moved)
     report(failures)
     _census(catalog, worklist, picked, refused)
     print(f"{len(picked) - len(failures)} rule(s) re-ingested, {changed} document(s) "
@@ -1624,6 +1676,72 @@ def _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check) -> No
               and not (real_snapshot_dir / f"{doc_id}.html").exists())
 
 
+def _proof_a_new_rsn_in_the_listing_changes_what_is_fetched(check) -> None:
+    """#440: A DOCUMENT PINNED TO A ruleVrsnRsn IS REFRESHED FROM THE LISTING'S CURRENT RECORD.
+
+    The pin never changes when OARD amends a rule (a new ruleVrsnRsn is issued instead), so a
+    refresh that fetched the pin would see the old page forever. Built wholly from synthetic
+    fixtures in a temporary directory with SNAPSHOT_DIR redirected, as the neighbouring proof
+    is (#252): nothing committed can be reached."""
+    import oar_current_version as ocv
+    number, doc_id, today = "999-001-0010", "oar-999-001-0010", "2026-10-07"
+    old_url, new_url = ocv.version_url("10"), ocv.version_url("11")
+    raw = _page(number, "(1) The amended text OARD serves at the new record, comfortably past "
+                        "the hundred characters the slicer insists on before it believes a "
+                        "page carries a rule at all.")
+    fake_registry = {"999": {"slug": "test-agency", "oar_name": "Test Agency"}}
+    cat = {"chapters": [{"chapter": "999", "url": "https://x/displayChapterRules.action?selectedChapter=9"}]}
+
+    def listing(rsn):
+        return ocv.ChapterListings(cat, lambda u: (
+            f"<p><strong><a href='/oard/viewSingleRule.action;JSESSIONID_OARD=a?ruleVrsnRsn={rsn}'>"
+            f"{number}</a></strong>&nbsp;&nbsp;A Rule</p>"))
+
+    global SNAPSHOT_DIR, hash_snapshot
+    for label, rsn_in_listing, fetched_rsn in (("a NEW rsn in the listing", "11", "11"),
+                                               ("a listing that still names the pin", "10", "10")):
+        with tempfile.TemporaryDirectory() as d:
+            path = Path(d) / f"{doc_id}.md"
+            path.write_text(_fixture_doc().replace("https://example.invalid/999-001-0010", old_url))
+            scratch = Path(d) / "snapshots"
+            scratch.mkdir()
+            calls = []
+
+            def fetch_page(url):
+                calls.append(url)
+                return raw
+            real_dir, real_hash = SNAPSHOT_DIR, hash_snapshot
+            SNAPSHOT_DIR = scratch
+            hash_snapshot = lambda doc, fmt: real_hash(doc, fmt, scratch)
+            try:
+                wrote, problems = reingest_one(
+                    Candidate(number, "amend", {}, path), fake_registry, today,
+                    fetch_page=fetch_page, listings=listing(rsn_in_listing))
+            finally:
+                SNAPSHOT_DIR, hash_snapshot = real_dir, real_hash
+            text = path.read_text()
+            check(f"{label}: the page fetched is the listing's current record",
+                  calls == [ocv.version_url(fetched_rsn)])
+            check(f"{label}: the refresh wrote and reported no problem", wrote and not problems)
+            want = ocv.version_url(fetched_rsn)
+            check(f"{label}: source_url, the banner and the provenance line all name the record "
+                  "the text came from",
+                  f'source_url: "{want}"' in text and f"> <{want}>" in text
+                  and f"- Source: <{want}>" in text
+                  and (fetched_rsn == "10" or old_url not in text.split("## Full text")[0]))
+    with tempfile.TemporaryDirectory() as d:
+        path = Path(d) / f"{doc_id}.md"
+        path.write_text(_fixture_doc().replace("https://example.invalid/999-001-0010", old_url))
+        calls = []
+        empty = ocv.ChapterListings(cat, lambda u: (
+            "<a href='/oard/viewSingleRule.action?ruleVrsnRsn=5'>999-001-0020</a>"))
+        reingest_one(Candidate(number, "amend", {}, path), fake_registry, today,
+                     fetch_page=lambda u: (calls.append(u), b"<html></html>")[1], listings=empty)
+        check("a number the listing no longer carries is fetched at the pinned last-in-force "
+              "record, and refused as a non-rule page rather than treated as live",
+              calls == [old_url])
+
+
 def _proof_the_extracted_helper_reproduces_the_pipeline(check) -> None:
     """#290: `_as_reingest_one_would_compute()` is the ONE place `snapshot_text ->
     snapshot_slice -> flow_to_lines -> content_hash` runs, in that order, on freshly
@@ -1716,6 +1834,7 @@ def selftest() -> int:
     _proof_documents(check)
     _proof_the_run_refuses_what_is_not_an_amendment(check)
     _proof_a_source_that_has_not_moved_is_left_alone_on_a_later_day(check)
+    _proof_a_new_rsn_in_the_listing_changes_what_is_fetched(check)
     _proof_the_extracted_helper_reproduces_the_pipeline(check)
     _proof_the_status_survives_the_call_this_path_makes(check)
     check("every rule this module can report is declared",

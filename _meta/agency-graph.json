@@ -3,7 +3,7 @@
  "weighting": "sum over shared ORS chapters of 1/ln(chapter_pop + e)",
  "ubiquity_default": 40,
  "counts": {
-  "agencies": 166,
+  "agencies": 165,
   "colored_groups": 15,
   "ors_chapters": 439,
   "bodies_their_sources_disagree_about": 0
@@ -12,7 +12,7 @@
   {
    "slug": "department-of-agriculture",
    "name": "Department of Agriculture",
-   "members": 24
+   "members": 23
   },
   {
    "slug": "oregon-health-authority",
@@ -134,7 +134,7 @@
   "180": 5,
   "181a": 25,
   "182": 11,
-  "183": 123,
+  "183": 122,
   "184": 8,
   "185": 2,
   "187": 2,
@@ -1006,18 +1006,6 @@
     "192",
     "292",
     "576"
-   ]
-  },
-  {
-   "slug": "department-of-agriculture-oregon-alfalfa-seed-commission",
-   "name": "Department of Agriculture, Oregon Alfalfa Seed Commission",
-   "rules": 1,
-   "parent": "department-of-agriculture",
-   "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
-   "governance": "executive_branch",
-   "chapters": [
-    "183"
    ]
   },
   {
