@@ -485,6 +485,30 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   suspension is not recorded, which is the only rule here that deleting information cannot
   satisfy. The 100 rules are listed in REVIEW.md, because a claim about legal force reaches a
   person rather than being applied silently.
+  A RULE'S OWN HISTORY CAN ALSO SAY IT SUNSET OR IS SUSPENDED (#441, operator decision
+  2026-10-07). `legal_status.history_force()` reads two things from the History text, and
+  `resolve()` / `force_fields()` are the only code that turns them into a status and fields:
+  a `Sunset on <date>` that has PASSED and is the History's last word is `status: repealed`
+  with `repeal_basis: "sunset <date> (History)"` (a future sunset stays current; a sunset that
+  a later action or a renumbering follows belongs to an earlier version and is NOT read as
+  the rule's); a suspension that is the NEWEST History action and has not ended stays
+  `current` with `suspended_by`, `suspended_effective` and `suspended_through` (an older
+  suspension that ended records nothing). THE BULLETIN STAYS AUTHORITATIVE where it has
+  spoken: `resolve()` returns its status unchanged and `force_fields()` records nothing for
+  such a rule, so a filed suspension (`superseded`) is never also described by a History
+  field. These facts depend on the date, so the fields are derived by `enrich_oar.py` (its
+  nightly `--check` compares them) and `legal_status.py --check` enforces only what cannot
+  go stale: field/status agreement and that a passed operative sunset is recorded.
+  A DOCUMENT PINNED TO A `ruleVrsnRsn` RESOLVES ITS CURRENT VERSION THROUGH OARD'S CHAPTER
+  LISTING (#440). OARD issues a new `ruleVrsnRsn` when it amends a rule, so a pin never
+  changes. `src/oar_current_version.py` reads `displayChapterRules.action` (the catalog holds
+  each chapter's id), maps every rule number to the record the listing links, and is used by
+  `reingest_oar.py` (the Bulletin refresh fetches, and re-sources the document from, the
+  listing's record), `seed_oar_watch.py` and `--sync-manifest` (which moves the drift
+  manifest's `url`, leaving `sha256`, so drift sees the amendment). A number the listing no
+  longer carries keeps its pinned last-in-force record (`current_version_listed: false`); an
+  unreadable listing is refused, never read as a repeal. Every pinned document says so
+  (`current_version_via: "chapter-listing"`), gated by `oar_current_version.py --check`.
   THE MONTHLY REPORT FILES ONE ISSUE, AND IT RUNS BESIDE HASHING (#231, ADR 0006).
   `python3 src/bulletin_report.py` reads the committed worklist and the drift run's
   `changed-sources.tsv` and prints ONE issue's worth of finding — counts by action and by
