@@ -36,86 +36,11 @@
   ga('send', 'pageview');
   ga('sos.send', 'pageview');
 </script>
-        <!-- Tablesorter: pagination -->
-	<link rel="stylesheet" href="js/tablesorter/addons/pager/jquery.tablesorter.pager.css">
-	<script src="js/tablesorter/addons/pager/jquery.tablesorter.pager.js"></script>
-	<script src="js/tablesorter/js/jquery.tablesorter.widgets.js"></script>
-        
-        <script>
-            function viewRule(rsn) {
-                $("#searchRuleVrsnRsn").val(rsn);
-                $("#resultsForm").attr("action", "viewQuickSearchRule.action");
-                $("#resultsForm").submit();
-            }
-            
-            function modifySearch() {
-                $("#resultsForm").attr("action", "modifyQuickSearch.action");
-                $("#resultsForm").submit();
-            }
-            
-            $(function() {                
-                var pagerOptions = {
-                    // target the pager markup - see the HTML block below
-                    container: $(".pager"),                    
-
-                    // output string - default is '{page}/{totalPages}'
-                    // possible variables: {page}, {totalPages}, {filteredPages}, {startRow}, {endRow}, {filteredRows} and {totalRows}
-                    // also {page:input} & {startRow:input} will add a modifiable input in place of the value                    
-                    output: 'Page {page:input} of {totalPages}',
-
-                    // apply disabled classname (cssDisabled option) to the pager arrows when the rows
-                    // are at either extreme is visible; default is true
-                    updateArrows: true,
-
-                    // starting page of the pager (zero based index)
-                    page: 0,
-
-                    // Number of visible rows - default is 10 (RLL - changed to 25)
-                    size: 25,
-
-                    // Save pager page & size if the storage script is loaded (requires $.tablesorter.storage in jquery.tablesorter.widgets.js)
-                    savePages : false,
-
-                    // Reset pager to this page after filtering; set to desired page number (zero-based index),
-                    // or false to not change page at filter start
-                    pageReset: 0,
-
-                    // if true, the table will remain the same height no matter how many records are displayed. The space is made up by an empty
-                    // table row set to a height to compensate; default is false
-                    fixedHeight: false,
-
-                    // remove rows from the table to speed up the sort of large tables.
-                    // setting this to false, only hides the non-visible rows; needed if you plan to add/remove rows with the pager enabled.
-                    removeRows: false,
-
-                    // If true, child rows will be counted towards the pager set size
-                    countChildRows: false,
-
-                    // css class names of pager arrows
-                    cssNext: '.next', // next page arrow
-                    cssPrev: '.prev', // previous page arrow
-                    cssFirst: '.first', // go to first page arrow
-                    cssLast: '.last', // go to last page arrow
-                    cssGoto: '.gotoPage', // select dropdown to allow choosing a page
-
-                    cssPageDisplay: '.pagedisplay', // location of where the "output" is displayed
-                    cssPageSize: '.pagesize', // page size selector - select dropdown that sets the "size" option
-
-                    // class added to arrows when at the extremes (i.e. prev/first arrows are "disabled" when on the first page)
-                    cssDisabled: 'disabled', // Note there is no period "." in front of this class name
-                    cssErrorRow: 'tablesorter-errorRow' // ajax error information row
-                };
-                $("#results").tablesorter({
-                    theme : 'green'		
-                })
-                // initialize the pager plugin
-		.tablesorterPager(pagerOptions);
-            });
-        </script>
-        
     </head>
     <body>
         
+
+
 <div class="skip"><a href="#main_content">Skip to main content.</a></div>
 <div id="wrapper">
     <div class='sos-header-wrapper'>
@@ -139,154 +64,97 @@
     </div>
 
 
-        <div id="content_noside"><a name="main_content" id="main_content"></a>
-        <h1>Oregon Administrative Rules</h1>
-        <h2>Quick Rule Search Results</h2>
-        
-        
-        
+<div id="secondary_navbar"> 
+   <div class="sidebar_nav">
+       
 
-<noscript class="errors">For full functionality of this site, it is necessary to enable JavaScript. Here are the <a href="http://www.enable-javascript.com" target="_blank"> instructions</a> on how to enable JavaScript in your web browser.</noscript>
+<ul>
+   <li><a href="javascript:void(0)" onclick="window.location = 'processLogin.action'">OARD Home</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'ruleSearch.action'">Search Current Rules</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'filingSearch.action'">Search Filings</a></li> 
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayBulletins.action'">Access the Oregon Bulletin</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayCompilations.action'">Access the Annual Compilation</a></li>
+   <li><a href="faq.action" target="_blank">FAQ</a></li>
+   
+   <li><a href="javascript:void(0)" onclick="window.location = 'login.action'">Rules Coordinator / Rules Writer Login</a></li>
+   
+   
+</ul>
 
-        <form id="resultsForm" name="resultsForm" method="post">
-        <input type="hidden" name="ruleNumber" value="690-080-0010" id="ruleNumber"/>
-        <input type="hidden" name="resultCount" value="6" id="resultCount"/>
-        <input type="hidden" name="searchRuleVrsnRsn" value="" id="searchRuleVrsnRsn"/>
-        <p>Your search for 690-080-0010 returned 6 results.</p>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a href="javascript:void(0)" onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" /> 		
-            <!--<select class="gotoPage" title="Select page number"></select>-->
-	</div>
-        </div>
-        <div class="form_clear_results"></div>    
-        <div class="table_div_results">
-        <table id="results" class="tablesorter">
-            <thead>
-                <tr>
-                    <th>Rule Number</th>
-                    <th>Rule Title</th>
-                    <th>Chapter Name</th>
-                </tr>
-            </thead>
-            <tbody>
-                 
+   </div>
+</div>
+
+        <div id="content"><a name="main_content" id="main_content"></a>
+        
+            
+        
+            
+        
+                    
+            <h1><a href='/oard/displayChapterRules.action?selectedChapter=183'>Water Resources Department</a></h1>
+            <h2><a href='/oard/displayChapterRules.action?selectedChapter=183'>Chapter 690</a></h2>
+        
+        
+        
+            
+        
+        <h3><a href='/oard/displayDivisionRules.action?selectedDivision=3172'>Division 80<br>PROGRAMS FOR AND WITHDRAWALS FROM CONTROL AND USE OF STATE&rsquo;S WATER RESOURCES</a></h3>
+        <p><strong>690-080-0010</strong>            
+        <br><strong>Resume of Withdrawals by the Water Resources Commission of Unappropriated Water From Future Appropriation</strong></p>
+        
+        <p>(1) Under the provisions of ORS 536.410, the Water Resources Commission may withdraw unappropriated waters from further appropriation. While an order of withdrawal is in effect, no applications for permits to appropriate the waters withdrawn may be received for filing by the Water Resources Director.</p><p>(2) The waters of the streams and lakes listed below have been withdrawn by order of the Water Resources Commission:</p><p>(a) Church Lake: WRB 31, f. 5-7-65; WRD 5, f. 6-15-77; Rescinded by WRD 14-1988, f. 8-11-88;</p><p>(b) Deschutes River Basin — Trout Creek: WRD 8-1980, f. 11-24-80;</p><p>(c) Elk Creek: WRD 8-1985, f. 8-2-85;</p><p>(d) Fort Rock Basin: WRD 3-1987, f. 3-13-87; Repealed by WRD 2-1990, f. 2-23-90;</p><p>(e) Goose & Summer Lakes Basin — Dutchy Lake:WRB 31, f. 5-7-65; WRD 5, f. 6-15-77; Rescinded by WRD 14-1988, f. 8-11-88;</p><p>(f) Hood River Basin:</p><p>(A) Priest Rapids Aquifer: WRD 4-1988, f. 5-17-88;</p><p>(B) Pomona Aquifer: WRD 4-1988, f. 5-17-88.</p><p>(g) No Name Lake & Tributaries: WRB 31, f. 5-7-65; WRD 5, f. 6-15-77; Rescinded by WRD 14-1988, f. 8-11-88;</p><p>(h) Roberts Creek: WRD 8-1985, f. 8-2-85;</p><p>(i) Thomas Creek & Tributaries: WRB 31, f. 5-7-65; WRD 5, f. 6-15-77; Rescinded by WRD 14-1988, f. 8-11-88;</p><p>(j) Umpqua River Basin:</p><p>(A) South Umpqua River: WRD 4-1985, f. 5-15-85;</p><p>(B) Lookingglass Creek: WRD 9-1985, f. 8-2-85;</p><p>(C) Umatilla River: WRD 14-1985, f. 12-20-85.</p><p>(k) Walla Walla River: WRD 1-1986, f. 2-20-86;</p><p>(l) Willamette River System: WRB 32, f. 7-27-65.</p>
+        
+        
+        <p>
+                        
+                <b>Statutory/Other Authority:</b>&nbsp;ORS 536<br>
+            
+                            
+            <b>History:</b><br>
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(178390);">690-080-0010</a></td>
-                                        
-                    <td style="width:40%">Resume of Withdrawals by the Water Resources Commission of Unappropriated Water From Future Appropriation</td>
-                    
-                    <td style="width:40%">Water Resources Department</td>
-                    
-                    
-                    </tr>
+    
+    
+    
+        
+        WRD 2-1990, f. &amp; cert. ef. 2-23-90<br>
+        
+        
+            
+
+
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(179837);">690-501-0005</a></td>
-                                        
-                    <td style="width:40%">Classifications</td>
-                    
-                    <td style="width:40%">Water Resources Department</td>
-                    
-                    
-                    </tr>
-                
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(179845);">690-501-0010</a></td>
-                                        
-                    <td style="width:40%">Minimum Perennial Streamflows</td>
-                    
-                    <td style="width:40%">Water Resources Department</td>
-                    
-                    
-                    </tr>
-                
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(179853);">690-501-0020</a></td>
-                                        
-                    <td style="width:40%">Storage</td>
-                    
-                    <td style="width:40%">Water Resources Department</td>
-                    
-                    
-                    </tr>
-                
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(179861);">690-501-0030</a></td>
-                                        
-                    <td style="width:40%">Out-of-Basin Appropriations</td>
-                    
-                    <td style="width:40%">Water Resources Department</td>
-                    
-                    
-                    </tr>
-                
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(179869);">690-501-0040</a></td>
-                                        
-                    <td style="width:40%">Water Quality</td>
-                    
-                    <td style="width:40%">Water Resources Department</td>
-                    
-                    
-                    </tr>
-                
-            </tbody>
-        </table>    
-        </div>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" />
-	</div>
-        </div>
-        </form>
+
+    
+    
+        WRD 3-1987, f. & cert. ef. 3-13-87<br>
+WRD 14-1988, f. & cert. ef. 8-11-88<br>
+WRD 14-1988, f. & cert. ef. 8-11-88<br>
+WRD 4-1988, f. 5-17-88, cert. ef. 5-13-88<br>
+WRD 1-1986, f. cert. ef. 2-20-86<br>
+WRD 14-1985, f. & cert. ef. 12-20-85<br>
+WRD 9-1985, f. & cert. ef. 8-2-85<br>
+WRD 8-1985, f. & cert. ef. 8-2-85<br>
+WRD 4-1985, f. & cert. ef. 5-15-85<br>
+WRD 8-1980, f. & cert. ef. 11-24-80<br>
+WRD 5-1977, f. & cert. ef. 6-15-77<br>
+WRB 32-1965, f. & cert. ef. 7-27-65<br>
+WRB 31-1965, f. & cert. ef. 5-7-65<br>
+    
+
+                            
+        </p>
+        
+            
+        
+        <p><br><a href='/oard/view.action?ruleNumber=690-080-0010'>Please use this link to bookmark or link to this rule.</a></p>
         </div>
         
 
 <div class="sos-footer-wrapper">
     <div class="footer-container">
         <div class="colophon">
-            
-                v2.1.7
             
         </div>
         <div class="sos-footer-nav">
@@ -315,6 +183,6 @@
 </div>
 
         </div>
-    </div>
+    </div>    
     </body>
 </html>

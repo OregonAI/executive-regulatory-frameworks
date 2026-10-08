@@ -28,13 +28,8 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
+
+
  Skip to main content. 
  
  
@@ -59,86 +54,54 @@
 
 
  
- Oregon Administrative Rules 
- Quick Rule Search Results 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
  
  
  
 
- For full functionality of this site, it is necessary to enable JavaScript. Here are the instructions on how to enable JavaScript in your web browser. 
+ 
+ 
 
  
  
  
  
- Your search for 436-105-0510 returned 3 results. 
- 
- New Search | Modify Search 
- 
- 
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
- 
- 
- -->
  
  
  
  
- 
- 
- 
- Rule Number 
- Rule Title 
- Chapter Name 
+ Department of Consumer and Business Services 
+ Workers' Compensation Division - Chapter 436 
  
  
  
  
- 
- 
- 
- 
+ Division 105 EMPLOYER-AT-INJURY PROGRAM 
  436-105-0510 
- 
  Employer Eligibility 
  
- 
- Department of Consumer and Business Services, Workers' Compensation Division 
- 
+ To be eligible for the Employer-at-Injury Program, an employer must:  (1) Maintain Oregon workers’ compensation insurance coverage;  (2) Be the employer at injury; and  (3) Employ an eligible worker. 
  
  
  
  
- 
- 436-105-0511 
- 
- Worker Eligibility
+ Statutory/Other Authority:  ORS 656.622 & 656.726(4) 
  
  
+ Statutes/Other Implemented:  ORS 656.622 
  
- Department of Consumer and Business Services, Workers' Compensation Division 
- 
- 
- 
- 
- 
- 
- 436-105-0512 
- 
- End of Eligibility
- 
- 
- 
- Department of Consumer and Business Services, Workers' Compensation Division 
+ History: 
  
  
  
@@ -146,24 +109,47 @@
  
  
  
- New Search | Modify Search 
- 
- 
- 
- Rows per page: 
- 25 
- 50 
- 75 
- 100 
-   
- 
- 
-     
+ WCD 4-2016, f. 11-28-16, cert. ef. 1-1-17 
  
  
  
  
  
+
+
+ 
+ 
+
+ 
+ 
+ WCD 5-2012, f. 10-3-12, cert. ef. 11-1-12 
+WCD 8-2007, f. 11-1-07, cert. ef. 12-1-07 
+WCD 4-2005, f. 5-26-05, cert. ef. 7-1-05 
+WCD 5-2003, f. 5-16-03, cert. ef. 6-8-03 
+WCD 12-2002(Temp), f. & cert. ef. 12-11-02 thru 6-8-03 
+WCD 7-2001, f. 8-14-01, cert. ef. 10-1-0, Renumbered from 436-110-0520 
+WCD 11-1997, f. 8-28-97, cert. ef. 9-12-97, Renumbered to 436-110-0280 
+WCD 4-1997(Temp), f. 3-13-97, cert. ef. 3-17-97 
+WCD 10-1996, f. 3-12-96, cert. ef. 4-5-96 
+WCD 20-1995(Temp), f. 12-8-95, cert. ef. 1-1-96 
+WCD 1-1993, f. 1-21-93, cert. ef. 3-1-93, Renumbered from 436-110-0020 
+WCD 32-1990, f. 12-10-90, cert. ef. 12-26-90 
+WCD 13-1990(Temp), f. 6-21-90, cert. ef. 7-1-90 
+WCD 12-1987, f. 12-17-87, cert. ef. 1-1-88 
+WCD 1-1987, f. 2-20-87, cert. ef. 3-16-87 
+WCD 7-1981, f. 12-30-81, cert. ef. 1-1-82, Renumbered from 436-063-0020, 5-1-85 
+WCD 2-1978, f. & cert. ef. 2-1-78 
+WCD 2-1977(Temp), f. 9-29-77, cert. ef. 10-4-77 
+WCB 3-1973, f. 3-14-73, cert. ef. 4-1-73 
+WCB 1-1973, f. 1-2-73, cert. ef. 1-15-73 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
  
  
 

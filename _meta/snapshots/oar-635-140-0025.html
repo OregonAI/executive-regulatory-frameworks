@@ -36,86 +36,11 @@
   ga('send', 'pageview');
   ga('sos.send', 'pageview');
 </script>
-        <!-- Tablesorter: pagination -->
-	<link rel="stylesheet" href="js/tablesorter/addons/pager/jquery.tablesorter.pager.css">
-	<script src="js/tablesorter/addons/pager/jquery.tablesorter.pager.js"></script>
-	<script src="js/tablesorter/js/jquery.tablesorter.widgets.js"></script>
-        
-        <script>
-            function viewRule(rsn) {
-                $("#searchRuleVrsnRsn").val(rsn);
-                $("#resultsForm").attr("action", "viewQuickSearchRule.action");
-                $("#resultsForm").submit();
-            }
-            
-            function modifySearch() {
-                $("#resultsForm").attr("action", "modifyQuickSearch.action");
-                $("#resultsForm").submit();
-            }
-            
-            $(function() {                
-                var pagerOptions = {
-                    // target the pager markup - see the HTML block below
-                    container: $(".pager"),                    
-
-                    // output string - default is '{page}/{totalPages}'
-                    // possible variables: {page}, {totalPages}, {filteredPages}, {startRow}, {endRow}, {filteredRows} and {totalRows}
-                    // also {page:input} & {startRow:input} will add a modifiable input in place of the value                    
-                    output: 'Page {page:input} of {totalPages}',
-
-                    // apply disabled classname (cssDisabled option) to the pager arrows when the rows
-                    // are at either extreme is visible; default is true
-                    updateArrows: true,
-
-                    // starting page of the pager (zero based index)
-                    page: 0,
-
-                    // Number of visible rows - default is 10 (RLL - changed to 25)
-                    size: 25,
-
-                    // Save pager page & size if the storage script is loaded (requires $.tablesorter.storage in jquery.tablesorter.widgets.js)
-                    savePages : false,
-
-                    // Reset pager to this page after filtering; set to desired page number (zero-based index),
-                    // or false to not change page at filter start
-                    pageReset: 0,
-
-                    // if true, the table will remain the same height no matter how many records are displayed. The space is made up by an empty
-                    // table row set to a height to compensate; default is false
-                    fixedHeight: false,
-
-                    // remove rows from the table to speed up the sort of large tables.
-                    // setting this to false, only hides the non-visible rows; needed if you plan to add/remove rows with the pager enabled.
-                    removeRows: false,
-
-                    // If true, child rows will be counted towards the pager set size
-                    countChildRows: false,
-
-                    // css class names of pager arrows
-                    cssNext: '.next', // next page arrow
-                    cssPrev: '.prev', // previous page arrow
-                    cssFirst: '.first', // go to first page arrow
-                    cssLast: '.last', // go to last page arrow
-                    cssGoto: '.gotoPage', // select dropdown to allow choosing a page
-
-                    cssPageDisplay: '.pagedisplay', // location of where the "output" is displayed
-                    cssPageSize: '.pagesize', // page size selector - select dropdown that sets the "size" option
-
-                    // class added to arrows when at the extremes (i.e. prev/first arrows are "disabled" when on the first page)
-                    cssDisabled: 'disabled', // Note there is no period "." in front of this class name
-                    cssErrorRow: 'tablesorter-errorRow' // ajax error information row
-                };
-                $("#results").tablesorter({
-                    theme : 'green'		
-                })
-                // initialize the pager plugin
-		.tablesorterPager(pagerOptions);
-            });
-        </script>
-        
     </head>
     <body>
         
+
+
 <div class="skip"><a href="#main_content">Skip to main content.</a></div>
 <div id="wrapper">
     <div class='sos-header-wrapper'>
@@ -139,107 +64,158 @@
     </div>
 
 
-        <div id="content_noside"><a name="main_content" id="main_content"></a>
-        <h1>Oregon Administrative Rules</h1>
-        <h2>Quick Rule Search Results</h2>
-        
-        
-        
+<div id="secondary_navbar"> 
+   <div class="sidebar_nav">
+       
 
-<noscript class="errors">For full functionality of this site, it is necessary to enable JavaScript. Here are the <a href="http://www.enable-javascript.com" target="_blank"> instructions</a> on how to enable JavaScript in your web browser.</noscript>
+<ul>
+   <li><a href="javascript:void(0)" onclick="window.location = 'processLogin.action'">OARD Home</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'ruleSearch.action'">Search Current Rules</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'filingSearch.action'">Search Filings</a></li> 
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayBulletins.action'">Access the Oregon Bulletin</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayCompilations.action'">Access the Annual Compilation</a></li>
+   <li><a href="faq.action" target="_blank">FAQ</a></li>
+   
+   <li><a href="javascript:void(0)" onclick="window.location = 'login.action'">Rules Coordinator / Rules Writer Login</a></li>
+   
+   
+</ul>
 
-        <form id="resultsForm" name="resultsForm" method="post">
-        <input type="hidden" name="ruleNumber" value="635-140-0025" id="ruleNumber"/>
-        <input type="hidden" name="resultCount" value="2" id="resultCount"/>
-        <input type="hidden" name="searchRuleVrsnRsn" value="" id="searchRuleVrsnRsn"/>
-        <p>Your search for 635-140-0025 returned 2 results.</p>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a href="javascript:void(0)" onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" /> 		
-            <!--<select class="gotoPage" title="Select page number"></select>-->
-	</div>
-        </div>
-        <div class="form_clear_results"></div>    
-        <div class="table_div_results">
-        <table id="results" class="tablesorter">
-            <thead>
-                <tr>
-                    <th>Rule Number</th>
-                    <th>Rule Title</th>
-                    <th>Chapter Name</th>
-                </tr>
-            </thead>
-            <tbody>
-                 
+   </div>
+</div>
+
+        <div id="content"><a name="main_content" id="main_content"></a>
+        
+            
+        
+            
+        
+                    
+            <h1><a href='/oard/displayChapterRules.action?selectedChapter=81'>Department of Fish and Wildlife</a></h1>
+            <h2><a href='/oard/displayChapterRules.action?selectedChapter=81'>Chapter 635</a></h2>
+        
+        
+        
+            
+        
+        <h3><a href='/oard/displayDivisionRules.action?selectedDivision=2977'>Division 140<br>GREATER SAGE-GROUSE CONSERVATION STRATEGY FOR OREGON</a></h3>
+        <p><strong>635-140-0025</strong>            
+        <br><strong>Mitigation Hierarchy of Impacts in Sage-grouse Core, Low Density, and General Habitats
+</strong></p>
+        
+        <p>Adverse impacts in sage-grouse core, low density, and general habitat from development actions must be mitigated by the developer for both direct and indirect adverse impacts to sage-grouse and their habitats. When ascertaining direct and indirect adverse impacts from development actions, the Department will use the most current and best available science related to sage-grouse biology and habitat conservation, including the Greater Sage-Grouse Habitat Mitigation Program Operation and Administration Manual (ODFW, October 2019). Mitigation is comprised, in hierarchal order, of avoidance, minimization, and compensatory mitigation.</p>
+
+<p>(1) Policy 1. Mitigation for direct and indirect impacts from development actions will be required where the proposed development action:</p>
+
+<p>(a) Requires a county land use permit, is a large-scale development as defined in OAR 660-023-0115, and would impact core or low density habitat,</p>
+
+<p>(b) Requires a county land use permit, is a large-scale development as defined in OAR 660-023-0115, and would impact general habitat within 3.1 miles of a lek in a manner that would reduce functional sage-grouse habitat or sage-grouse use of their habitat,</p>
+
+<p>(c) Requires a county land use permit but is not a large scale development as defined in OAR 660-023-0115. In this case, through consultation with the development action proponent, the Department will determine:</p>
+
+<p>(A) Whether to require mitigation based on the likelihood of adverse impacts from the proposed action in a manner that would reduce functional sage-grouse habitat or sage-grouse use of that habitat;</p>
+
+<p>(i) Within 4 miles of a lek in core area habitat;</p>
+
+<p>(ii) Within 3.1 miles of a lek in low density habitat; or</p>
+
+<p>(iii) Within 3.1 miles of a lek in general habitat.</p>
+
+<p>(B) If mitigation is required based on (1)(c)(A) above, the appropriate level of mitigation will be based on the nature of the impact upon habitat functionality and the resultant risk to sage-grouse.</p>
+
+<p>(C) Mitigation is not required for private land agricultural activities exempted from regulation under OAR-660-023-0115.</p>
+
+<p>(d) Is located in or would adversely impact sage-grouse habitat on public lands and requires state or federal approval not otherwise exempted in OAR 660-023-0115.</p>
+
+<p>(2) Policy 2. The Department may approve or recommend approval of mitigation for impacts from a large-scale development permitted by a county; or development actions permitted by a state or federal government entity on public land, within sage-grouse habitat only after the following mitigation hierarchy has been addressed by the permitting entity, with the intent of directing the development action away from the most productive habitats and into the least productive areas for sage-grouse (in order of importance: core area, low density, general, and non-habitat).</p>
+
+<p>(a) Avoidance in Core Area Habitat. If the proposed development can occur in another location that avoids both direct and indirect impacts within core habitat, then the proposal must not be allowed unless it can satisfy the following criteria:</p>
+
+<p>(A) It is not technically feasible to locate the proposed development activity or its impacts outside of a core habitat area based on accepted engineering practices, regulatory standards or some combination thereof. Costs associated with technical feasibility may be considered, but cost alone may not be the only consideration in determining that the development must be located such that it will have direct or indirect impacts on sage-grouse core area habitat; or</p>
+
+<p>(B) The proposed development is dependent on a unique geographic or other physical feature(s) that cannot be found on other lands; and</p>
+
+<p>(C) If the proposal is for a large-scale development as defined in Oregon Land Conservation and Development OAR 660-023-0115 and either (2)(a)(A) or (2)(a)(B) is found to be satisfied, the permitting entity must also find that it will provide important economic opportunity, needed infrastructure or public safety benefits for local citizens or the entire region.</p>
+
+<p>(b) Avoidance in Low Density Habitat. If the proposed development action can occur in another location that avoids both direct and indirect impacts within low density sage-grouse habitat, then the proposal must not be allowed unless it can satisfy the following criteria:</p>
+
+<p>(A) It is not technically or financially feasible to locate the proposed use outside of low density sage-grouse habitat based on accepted engineering practices, regulatory standards, proximity to necessary infrastructure or some combination thereof; or</p>
+
+<p>(B) The proposed development action is dependent on geographic or other physical feature(s) found in low density habitat areas that are less common at other locations.</p>
+
+<p>(c) Avoidance in General Habitat. If the proposed development activity and its direct and indirect impacts are in general sage-grouse habitat (within 3.1 miles of a lek), then the permitting entity may allow the activity based on satisfaction of the following criteria:</p>
+
+<p>(A) Consultation between the development proponent and the Department that generates recommendations pursuant to the approach identified in minimization subsection (d), and</p>
+
+<p>(B) Incorporation by the project proponent of reasonable changes to the project proposal based on the above consultation with the Department, and/or justification as to why a given recommendation is not feasible.</p>
+
+<p>(d) Minimization. If after exercising the above avoidance tests, the permitting entity finds the proposed development action cannot be moved to non-habitat or into a habitat category that avoids adverse direct and indirect impacts to a habitat category of greater significance (i.e., core or low density), then the next step applied in the mitigation hierarchy will be minimization of the direct and indirect impacts of the proposed development action. Minimization consists of how to best locate, construct, operate and time (both seasonally and diurnally) the development action so as to avoid or minimize direct and indirect impacts on important sage-grouse habitat and sage-grouse.</p>
+
+<p>(A) Minimizing impacts from development actions in core habitat shall ensure direct and indirect impacts do not occur in known areas of high population richness within a given core area, unless a project proponent demonstrates, by a preponderance of the evidence, that such an approach is not feasible.</p>
+
+<p>(B) Minimizing impacts from development actions in general habitat shall include consultation between the development proponent and the Department that considers and results in recommendations on how to best locate, construct, or operate the development action so as to avoid or minimize direct and indirect impacts on important sage-grouse habitat within the area of general habitat.</p>
+
+<p>(e) Compensatory Mitigation. If avoidance and minimization efforts have been exhausted, compensatory mitigation to address both direct and indirect impacts will be required as part of the permitting process for remaining adverse impacts from the proposed development action to sage-grouse habitat, consistent with the mitigation standard in (3) Policy 3 below.</p>
+
+<p>(3) Policy 3. The standard for compensatory mitigation of direct and indirect habitat impacts in sage-grouse habitat (core low density, and general areas) is to achieve net conservation benefit for sage-grouse by replacing the lost functionality of the impacted habitat to a level capable of supporting greater sage-grouse numbers than that of the habitat which was impacted. Where mitigation actions occur in existing sage-grouse habitat, the increased functionality must be in addition to any existing functionality of the habitat to support sage-grouse. When developing and implementing mitigation measures for impacts to core, low density, and general sage-grouse habitats, the project developers shall:</p>
+
+<p>(a) Work directly with the Department and permitting entity to obtain approval to implement a mitigation plan or measures, at the responsibility of the developer, for mitigating impacts consistent with the standard in OAR 635-140-0025(3) or,</p>
+
+<p>(b) Work with an entity approved by the Department to implement, at the responsibility of the developer, &ldquo;in-lieu fee&rdquo; projects consistent with the standard in OAR 635-140-0025(3).</p>
+
+<p>(c) Any mitigation undertaken pursuant to (a) or (b) above must have in place measures to ensure the results of the mitigation activity will persist&nbsp;for the life of the original impact. The Department will engage in mitigation discussions related to development actions in a manner consistent with applicable timelines of permitting entities.</p>
+
+<p>(4) Policy 4. The Department shall follow the Fish and Wildlife Habitat Mitigation Policy (OAR 635-415-0000) when defining habitat categories and providing recommendations to address potential site-level impacts to species other than greater sage-grouse that occur within sage-grouse core area habitat or sage-grouse low density habitat, except that if there is a resulting conflict between OAR 635-415-0000 and this rule, then this rule shall control.</p>
+
+        
+        
+        <p>
+                        
+                <b>Statutory/Other Authority:</b>&nbsp;ORS 496.012, 496.138, 496.146, 496.162, 498.500, 498.502 &amp; 498.504<br>
+            
+                        
+                <b>Statutes/Other Implemented:</b>&nbsp;ORS 496.012, 496.138, 496.146, 496.162, 498.500, 498.502 &amp; 498.504<br>
+                            
+            <b>History:</b><br>
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(327639);">635-140-0025</a></td>
-                                        
-                    <td style="width:40%">Mitigation Hierarchy of Impacts in Sage-grouse Core, Low Density, and General Habitats
-</td>
-                    
-                    <td style="width:40%">Department of Fish and Wildlife</td>
-                    
-                    
-                    </tr>
+    
+        
+            
+        
+        
+            <a href='/oard/viewReceiptTRIM.action?ptId=12310632'>DFW 90-2025, amend filed 09/18/2025, effective 09/18/2025</a><br>
+        
+        
+    
+    
+            
+
+
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(173336);">635-140-0025</a></td>
-                                        
-                    <td style="width:40%">Five-Year Review</td>
-                    
-                    <td style="width:40%">Department of Fish and Wildlife</td>
-                    
-                    
-                    </tr>
-                
-            </tbody>
-        </table>    
-        </div>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" />
-	</div>
-        </div>
-        </form>
+    
+    
+    
+        
+        DFW 123-2015, f. &amp; cert. ef. 9-1-15<br>
+        
+        
+            
+
+
+                            
+        </p>
+        
+            
+        
+        <p><br><a href='/oard/view.action?ruleNumber=635-140-0025'>Please use this link to bookmark or link to this rule.</a></p>
         </div>
         
 
 <div class="sos-footer-wrapper">
     <div class="footer-container">
         <div class="colophon">
-            
-                v2.1.7
             
         </div>
         <div class="sos-footer-nav">
@@ -268,6 +244,6 @@
 </div>
 
         </div>
-    </div>
+    </div>    
     </body>
 </html>

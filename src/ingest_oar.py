@@ -29,12 +29,14 @@ import re
 import sys
 import tempfile
 import time
+from collections import namedtuple
 from datetime import date
 from pathlib import Path
 
 import yaml
 
-from ingest_lib import fetch
+from check_source_urls import SOFT_404
+from ingest_lib import fetch, fetch_page
 from legal_status import bulletin_status_by_rule, resolve
 from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, Checks, content_hash, division_status,
                       normalize_volatile, oar_rule_path, rule_title_from_html,
@@ -84,12 +86,60 @@ def served_rule_number(text):
 #
 # Declared once and read by both ingest paths: a predicate the two disagreed on would let
 # the refresh republish exactly what the first ingest refused.
-_RESULTS_LIST = re.compile(r"returned \d+ results\.\s*New Search")
+_RESULTS_LIST = re.compile(r"returned \d+ results?\.\s*New Search")
+
+# The OTHER signal, and the one that does not depend on OARD's wording: where the request
+# ENDED UP. OARD answers an ambiguous or unknown ruleNumber with a 302 to
+# ruleSearchResults.action, and check_source_urls.py's SOFT_404 table already declares that
+# fact -- imported here, not retyped, so the ingester and the weekly source-url check cannot
+# disagree about what a results page is (#439).
+SEARCH_RESULTS_URL_MARK = SOFT_404["secure.sos.state.or.us"]
+
+# A rule is fetched by its OWN version id when its bare number is shared (#439): OARD's
+# search lists every record that matches a number -- older and newer rules that were given the
+# same number, and rules whose history merely cites it -- and each links here.
+VERSION_URL = "https://secure.sos.state.or.us/oard/viewSingleRule.action?ruleVrsnRsn={rsn}"
 
 
-def is_search_results_page(ws_text: str) -> bool:
-    """True when this OARD page is a search-results list rather than a single rule."""
-    return bool(_RESULTS_LIST.search(ws_text))
+def is_search_results_page(ws_text: str, final_url: str = "") -> bool:
+    """True when this OARD page is a search-results list rather than a single rule: it ended
+    on ruleSearchResults.action (the soft-404 signal), or it says it is one."""
+    return SEARCH_RESULTS_URL_MARK in (final_url or "") or bool(_RESULTS_LIST.search(ws_text))
+
+
+def may_replace(existing_text: str) -> bool:
+    """The version-id path replaces a document ONLY if that document is itself a results
+    page (#439). A real rule is never overwritten by it."""
+    return is_search_results_page(ws_only(existing_text))
+
+
+VersionPlan = namedtuple("VersionPlan", "refusal url title full_text sha text raw")
+
+
+def plan_version_document(number: str, rsn: str, raw: bytes, final_url: str) -> VersionPlan:
+    """What mirroring ONE OARD rule record (by ruleVrsnRsn) would publish, or why not.
+    Pure: no disk, no network. Refuses a results page and a page that prints a different
+    rule number than the one asked for -- an anti-fabrication guard, since the rule text
+    published is whatever this page says."""
+    from ingest_lib import flow_to_lines
+    url = VERSION_URL.format(rsn=rsn)
+    raw = normalize_volatile(raw)
+    text = snapshot_text(raw)
+    wt = ws_only(text)
+
+    def refuse(why):
+        return VersionPlan(why, url, None, None, None, None, raw)
+
+    if is_search_results_page(wt, final_url):
+        return refuse("OARD served a search-results list, not a rule")
+    served = served_rule_number(wt)
+    if served != number:
+        return refuse(f"the page prints rule number {served}, not {number}")
+    sl = snapshot_slice(f"oar-{number}", f"oar-{number}", text)
+    if len(sl) < 100:
+        return refuse("no rule body found on the OARD page")
+    title = rule_title_from_html(raw.decode("utf-8", errors="replace"), number) or f"OAR {number}"
+    return VersionPlan(None, url, title, flow_to_lines(sl), content_hash(raw, "html"), text, raw)
 
 
 # THE INGESTER NO LONGER NAMES THE LEGAL STATUS. `status: current` used to be a hardcoded
@@ -165,7 +215,7 @@ history are in the full text below.
 _CHECKPOINT_FIELDS = ("status", "note", "served_as", "path")
 
 
-def _write_catalog_merged(cat, my_chapters):
+def _write_catalog_merged(cat, my_chapters, clear=None):
     """Concurrent-safe catalog save for parallel --ingest workers: under an exclusive
     lock, re-read the catalog from disk and write this worker's OWN field updates
     (`_CHECKPOINT_FIELDS`) onto the matching rule rows, by number, plus each touched
@@ -224,6 +274,10 @@ def _write_catalog_merged(cat, my_chapters):
                     for key in _CHECKPOINT_FIELDS:
                         if key in src:
                             r[key] = src[key]
+                    # keys a caller deliberately removed (`clear`: number -> keys); a pop
+                    # on the in-memory row cannot cross by itself, only a set can
+                    for key in (clear or {}).get(r["number"], ()):
+                        r.pop(key, None)
         tmp = CATALOG.parent / ".oar.yml.tmp"
         tmp.write_text(yaml.safe_dump(disk, sort_keys=False, allow_unicode=True, width=100))
         os.replace(tmp, CATALOG)
@@ -260,7 +314,8 @@ def cmd_ingest(chapters, skip_group=False):
                     continue
                 url = f"https://secure.sos.state.or.us/oard/view.action?ruleNumber={num}"
                 try:
-                    raw = normalize_volatile(fetch(url))
+                    fetched = fetch_page(url)
+                    raw = normalize_volatile(fetched.body)
                 except Exception as e:
                     print(f"FETCH FAILED {num}: {e}")
                     failed += 1
@@ -272,7 +327,7 @@ def cmd_ingest(chapters, skip_group=False):
                 # OARD's not-found shell echoes the requested number in its search box
                 if served and re.search(re.escape(served) + r"\s+not found", wt):
                     served = None
-                if is_search_results_page(wt):
+                if is_search_results_page(wt, fetched.url):
                     # NOT `not_served`: OARD served something, and it is not this rule.
                     r["status"] = "not_sliceable"
                     r["note"] = (f"OARD serves a {SEARCH_RESULTS_MARK} for this number, not "
@@ -379,6 +434,103 @@ def cmd_ingest(chapters, skip_group=False):
         GROUP.write_text(yaml.safe_dump(group, sort_keys=False, allow_unicode=True, width=110))
     _write_catalog_merged(cat, set(chapters))
     print(f"made {made}, renumbered {renumbered}, skipped {skipped}, failed {failed}")
+
+
+_VERSION_PAIR = re.compile(r"^\d{3}-\d{3}-\d{4}=\d+$")
+
+
+def parse_version_pairs(args):
+    """`NUMBER=RSN` arguments to (number, rsn) tuples; ValueError names the bad one."""
+    for a in args:
+        if not _VERSION_PAIR.match(a):
+            raise ValueError(f"{a!r} is not NUMBER=RSN (e.g. 586-030-0025=153282)")
+    return [tuple(a.split("=", 1)) for a in args]
+
+
+def cmd_ingest_version(pairs):
+    """`--ingest-version NUMBER RSN ...` (#439): replace the document at `oar-NUMBER` -- which
+    MUST be an OARD search-results page, see `may_replace` -- with the rule record OARD
+    itself serves at viewSingleRule.action?ruleVrsnRsn=RSN. The id stays `oar-NUMBER`
+    (ADR 0006: ids are cited), so every inbound reference keeps resolving. Which RSN is the
+    rule is a judgement made from OARD's own records and passed in; this function checks what
+    it can (the page must print NUMBER and must not be a results page) and never writes
+    text that did not come from that page."""
+    from enrich_oar import apply as enrich_apply
+    from enrich_oar import derive as enrich_derive
+    from enrich_oar import load_registry_by_chapter
+    registry_by_ch = load_registry_by_chapter()
+    cat = yaml.safe_load(CATALOG.read_text())
+    bulletin = bulletin_status_by_rule(cat)
+    group = yaml.safe_load(GROUP.read_text())
+    gsrc = {s["id"]: s for s in group["sources"]}
+    rows = {r["number"]: (c["chapter"], r) for c in cat["chapters"]
+            for d in (c.get("divisions") or []) for r in (d.get("rules") or [])}
+    made, failed, chapters = 0, 0, set()
+    cleared = {}
+    for number, rsn in pairs:
+        doc_id = f"oar-{number}"
+        out = oar_rule_path(number)
+        if number not in rows or not out.exists():
+            print(f"REFUSED {number}: no catalogued row and document to replace")
+            failed += 1
+            continue
+        if not may_replace(out.read_text(encoding="utf-8", errors="replace")):
+            print(f"REFUSED {number}: the document is not a search-results page; "
+                  "this path never overwrites a real rule")
+            failed += 1
+            continue
+        try:
+            fetched = fetch_page(VERSION_URL.format(rsn=rsn))
+        except Exception as e:
+            print(f"FETCH FAILED {number} ({rsn}): {e}")
+            failed += 1
+            continue
+        plan = plan_version_document(number, rsn, fetched.body, fetched.url)
+        if plan.refusal:
+            print(f"REFUSED {number} ({rsn}): {plan.refusal}")
+            failed += 1
+            continue
+        ch, div, _ = number.split("-")
+        status = resolve(bulletin=bulletin.get(number))
+        body = doc_body(number, plan.title, plan.url, plan.sha, ch, div, status)
+        saved = out.read_text(encoding="utf-8")
+        out.write_text(body.replace("{FT}", plan.full_text))
+        try:
+            enrich_apply(out, enrich_derive(plan.full_text, doc_id, registry_by_ch,
+                                            bulletin.get(number), status))
+        except SystemExit as e:
+            out.write_text(saved)
+            print(f"NEEDS REGISTRY {number}: {e}")
+            failed += 1
+            continue
+        (SNAPSHOT_DIR / f"{doc_id}.html").write_bytes(plan.raw)
+        (SNAPSHOT_DIR / f"{doc_id}.txt").write_text(plan.text, encoding="utf-8")
+        chapter, row = rows[number]
+        chapters.add(chapter)
+        row["status"] = "ingested"
+        # a refusal recorded against the results page says the refresh failed; this document
+        # now carries the record's own text, so the refusal is stale (as `reingest_oar --run`
+        # also clears it on success)
+        from reingest_oar import REFUSED_KEYS
+        cleared[number] = [k for k in REFUSED_KEYS if row.pop(k, None) is not None]
+        row["path"] = str(out.relative_to(REPO_ROOT))
+        row["note"] = (f"OARD's results for this number list more than one record; this document "
+                       f"mirrors ruleVrsnRsn={rsn}, the record that prints {number} (#439)")
+        if doc_id in gsrc:
+            # only the keys the entry already carries: its `notes` (where the baseline
+            # came from) stays true, and a key the entry never had is not invented.
+            gsrc[doc_id]["url"] = plan.url
+            gsrc[doc_id]["sha256"] = plan.sha
+            if "last_checked" in gsrc[doc_id]:
+                gsrc[doc_id]["last_checked"] = TODAY
+        made += 1
+        time.sleep(0.5)
+    if made:
+        group["sources"] = sorted(gsrc.values(), key=lambda s: s["id"])
+        GROUP.write_text(yaml.safe_dump(group, sort_keys=False, allow_unicode=True, width=110))
+        _write_catalog_merged(cat, chapters, clear=cleared)
+    print(f"replaced {made}, refused {failed}")
+    return 1 if failed else 0
 
 
 # ---------------------------------------------------------------------------------
@@ -805,6 +957,56 @@ def selftest() -> int:
     check("a renumbered row whose served target's file already exists ends with `path` "
           "set to that file (#338)", _renumbered_out_exists_stamps_path())
 
+    # #439: A RESULTS PAGE IS RECOGNISED BY WHERE OARD SENT US, not only by what it says.
+    # OARD answers an ambiguous or unknown `ruleNumber` with a 302 to ruleSearchResults.action
+    # -- the same signal check_source_urls.py's SOFT_404 table uses. A singular "returned 1
+    # result." did not match the text pattern at all, and neither did any wording OARD changes.
+    sr_url = "https://secure.sos.state.or.us/oard/ruleSearchResults.action;JSESSIONID_OARD=x?ruleNumber=1-001-0001"
+    one_url = "https://secure.sos.state.or.us/oard/viewSingleRule.action?ruleVrsnRsn=7"
+    check("a page whose FINAL url is ruleSearchResults.action is a results page whatever it says (#439)",
+          is_search_results_page("1-001-0001 Some wording OARD changed", sr_url))
+    check("a singular 'returned 1 result.' listing is a results page (#439)",
+          is_search_results_page("Your search returned 1 result. New Search | Modify Search"))
+    check("a real rule served from viewSingleRule.action is not a results page (#439)",
+          not is_search_results_page("586-030-0025 Preliminary Matters (1) text", one_url))
+    check("the url signal is the SOFT_404 table's own entry, not a second copy (#439)",
+          SEARCH_RESULTS_URL_MARK == SOFT_404["secure.sos.state.or.us"])
+
+    # #439: THE REAL RULE BEHIND A SHARED NUMBER is mirrored from its OWN page, by version id.
+    page = (b"<html><body><strong>586-030-0025</strong><br><strong>Preliminary Matters</strong>"
+            b"<p>(1) Preliminary motions challenging the Board's jurisdiction or requesting "
+            b"dismissal of the complaint must be filed in writing with the Board.</p>"
+            b"<p>History: FDAB 2-2001, f. &amp; cert. ef. 12-31-01</p>"
+            b"Please use this link to bookmark or link to this rule.</body></html>")
+    plan = plan_version_document("586-030-0025", "153282", page, one_url)
+    check("a real rule page is accepted for its own number (#439)", plan.refusal is None)
+    check("its source_url is the rule's OWN viewSingleRule page, by ruleVrsnRsn (#439)",
+          plan.url == VERSION_URL.format(rsn="153282"))
+    check("its title is read from the rule page, not 'returned N results' (#439)",
+          plan.title == "Preliminary Matters")
+    check("what it would publish contains the rule text and none of the search chrome (#439)",
+          "Preliminary motions" in plan.full_text and "New Search" not in plan.full_text)
+    bad = plan_version_document("586-030-0025", "153281", b"<html>586-030-0025 returned 2 results. "
+                                b"New Search | Modify Search</html>", sr_url)
+    check("a results page is refused, not mirrored, even when asked for by version id (#439)",
+          bad.refusal is not None and "search-results" in bad.refusal)
+    other = plan_version_document("586-030-0025", "999", page.replace(b"586-030-0025", b"586-030-0030"),
+                                  one_url)
+    check("a rule page that prints a DIFFERENT number is refused: that is a neighbour, not "
+          "this rule (#439)", other.refusal is not None and "586-030-0030" in other.refusal)
+    check("only a document that IS a results page may be replaced; a real rule is never "
+          "overwritten by this path (#439)",
+          may_replace("returned 2 results. New Search | Modify Search Rows per page")
+          and not may_replace("586-030-0025 Preliminary Matters (1) text"))
+    ok = parse_version_pairs(["586-030-0025=153282"]) == [("586-030-0025", "153282")]
+    try:
+        parse_version_pairs(["586-030-0025"])
+        bad_refused = False
+    except ValueError:
+        bad_refused = True
+    check("--ingest-version arguments are validated: NUMBER=RSN passes, a bare number is "
+          "refused with a message rather than an unpacking crash", ok and bad_refused)
+
     return check.report()
 
 
@@ -813,6 +1015,9 @@ def main():
     ap.add_argument("--enumerate", nargs="+", metavar="CH",
                     help="retired (#276) -- refuses and names catalog_oar.py --discover")
     ap.add_argument("--ingest", nargs="+", metavar="CH")
+    ap.add_argument("--ingest-version", nargs="+", metavar="NUMBER=RSN",
+                    help="replace a search-results-page document with the OARD rule record "
+                         "at ruleVrsnRsn=RSN (#439)")
     ap.add_argument("--skip-group", action="store_true",
                     help="mass-import mode: no per-rule update-group entries (see cmd_ingest)")
     ap.add_argument("--selftest", action="store_true")
@@ -821,6 +1026,12 @@ def main():
         sys.exit(selftest())
     elif a.enumerate:
         cmd_enumerate(a.enumerate)
+    elif a.ingest_version:
+        try:
+            pairs = parse_version_pairs(a.ingest_version)
+        except ValueError as e:
+            ap.error(str(e))
+        sys.exit(cmd_ingest_version(pairs))
     elif a.ingest:
         cmd_ingest(a.ingest, a.skip_group)
     else:

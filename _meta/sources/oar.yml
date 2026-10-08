@@ -2175,8 +2175,8 @@ sources:
   sha256: d25e8f591a6080a568acb0dc92b52b18423280f874ffc6097a67cc21a17a1e66
   notes: rolling sample; baseline from the committed snapshot, not fetched
 - id: oar-123-042-0020
-  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=123-042-0020
-  sha256: bb8ae2108d1c09cbcff5f6669b9345159974d0cbab078453c009f45ae360c759
+  url: https://secure.sos.state.or.us/oard/viewSingleRule.action?ruleVrsnRsn=336790
+  sha256: 93f4b9332ffe855dfe9b70bccc33624538851fd29e9717cd2ca1bfb059b0c60b
   notes: rolling sample; baseline from the committed snapshot, not fetched
 - id: oar-123-042-0026
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=123-042-0026
@@ -26870,12 +26870,12 @@ sources:
   sha256: 75ff5ae85e97ad1a3a3277f901d01cefe7c85d72e84b53ec3b5bd7d8aa4c13ca
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-813-005-0020
-  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=813-005-0020
-  sha256: a523d7a27fd78687d9fa7f1d324bab96b9189acbcdb3119925bf792e5ac35877
+  url: https://secure.sos.state.or.us/oard/viewSingleRule.action?ruleVrsnRsn=333874
+  sha256: 6178576645df124b2a85fb907170692edde6a94af4ce7d61cf710dfa1a231d35
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-813-005-0025
-  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=813-005-0025
-  sha256: 90fc81d93e0de1a9620f6ef269fa4b18c658095c518bf480907518a03047a9b6
+  url: https://secure.sos.state.or.us/oard/viewSingleRule.action?ruleVrsnRsn=335876
+  sha256: eb8cfa150cfb09e93d4e30486194de25ef386f85e8435e128315435d44985d3c
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-813-005-0050
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=813-005-0050
@@ -32028,8 +32028,8 @@ sources:
   last_checked: '2026-08-28'
   notes: Recognition of California Standards for Voluntary Ignition-Resistant Construction for Manu
 - id: oar-918-674-0025
-  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=918-674-0025
-  sha256: 8ebd04fdac4c9ee9e78af33ff5fb3c369467be72f8d589137e839ca3fd61220b
+  url: https://secure.sos.state.or.us/oard/viewSingleRule.action?ruleVrsnRsn=337297
+  sha256: e3f83921471dccfe43a06acc559b168ae9456924b0bcc2059124e30d2a8caffb
   notes: named by the Bulletin; baseline from the committed snapshot, not fetched
 - id: oar-918-674-0033
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=918-674-0033

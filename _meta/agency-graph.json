@@ -697,7 +697,7 @@
   {
    "slug": "board-of-parole-and-post-prison-supervision",
    "name": "Board of Parole and Post-Prison Supervision",
-   "rules": 155,
+   "rules": 156,
    "parent": null,
    "group": "board-of-parole-and-post-prison-supervision",
    "group_name": "Board of Parole and Post-Prison Supervision",
@@ -1425,7 +1425,7 @@
   {
    "slug": "department-of-consumer-and-business-services-insurance-regulation",
    "name": "Department of Consumer and Business Services, Insurance Regulation",
-   "rules": 892,
+   "rules": 893,
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
@@ -1492,7 +1492,7 @@
   {
    "slug": "department-of-consumer-and-business-services-workers-compensation-division",
    "name": "Department of Consumer and Business Services, Workers' Compensation Division",
-   "rules": 458,
+   "rules": 459,
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
@@ -1630,7 +1630,7 @@
   {
    "slug": "department-of-fish-and-wildlife",
    "name": "Department of Fish and Wildlife",
-   "rules": 1490,
+   "rules": 1491,
    "parent": null,
    "group": "department-of-fish-and-wildlife",
    "group_name": "Department of Fish and Wildlife",
@@ -1661,7 +1661,7 @@
   {
    "slug": "department-of-forestry",
    "name": "Department of Forestry",
-   "rules": 501,
+   "rules": 503,
    "parent": null,
    "group": "department-of-forestry",
    "group_name": "Department of Forestry",
@@ -1885,7 +1885,7 @@
   {
    "slug": "department-of-justice",
    "name": "Department of Justice",
-   "rules": 638,
+   "rules": 640,
    "parent": null,
    "group": "department-of-justice",
    "group_name": "Department of Justice",
@@ -1966,7 +1966,7 @@
   {
    "slug": "department-of-revenue",
    "name": "Department of Revenue",
-   "rules": 979,
+   "rules": 980,
    "parent": null,
    "group": "department-of-revenue",
    "group_name": "Department of Revenue",
@@ -2151,7 +2151,7 @@
   {
    "slug": "department-of-transportation-driver-and-motor-vehicle-services-division",
    "name": "Department of Transportation, Driver and Motor Vehicle Services Division",
-   "rules": 577,
+   "rules": 578,
    "parent": "department-of-transportation",
    "group": "department-of-transportation",
    "group_name": "Department of Transportation",
@@ -2443,7 +2443,7 @@
   {
    "slug": "higher-education-coordinating-commission-office-of-student-access-and-completion",
    "name": "Higher Education Coordinating Commission, Office of Student Access and Completion",
-   "rules": 99,
+   "rules": 100,
    "parent": "higher-education-coordinating-commission",
    "group": "higher-education-coordinating-commission",
    "group_name": "Higher Education Coordinating Commission",
@@ -2471,7 +2471,7 @@
   {
    "slug": "land-conservation-and-development-department",
    "name": "Land Conservation and Development Department",
-   "rules": 466,
+   "rules": 467,
    "parent": null,
    "group": "land-conservation-and-development-department",
    "group_name": "Land Conservation and Development Department",
@@ -2515,7 +2515,7 @@
   {
    "slug": "landscape-architect-board",
    "name": "Landscape Architect Board",
-   "rules": 43,
+   "rules": 44,
    "parent": null,
    "group": "landscape-architect-board",
    "group_name": "Landscape Architect Board",
@@ -2740,7 +2740,7 @@
   {
    "slug": "oregon-business-development-department",
    "name": "Oregon Business Development Department",
-   "rules": 619,
+   "rules": 620,
    "parent": null,
    "group": "oregon-business-development-department",
    "group_name": "Oregon Business Development Department",
@@ -3010,7 +3010,7 @@
   {
    "slug": "oregon-health-authority-health-licensing-office",
    "name": "Oregon Health Authority, Health Licensing Office",
-   "rules": 300,
+   "rules": 301,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
@@ -3147,7 +3147,7 @@
   {
    "slug": "oregon-health-authority-health-systems-division-addiction-services",
    "name": "Oregon Health Authority, Health Systems Division: Addiction Services",
-   "rules": 128,
+   "rules": 129,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
@@ -3167,7 +3167,7 @@
   {
    "slug": "oregon-health-authority-health-systems-division-behavioral-health-services",
    "name": "Oregon Health Authority, Health Systems Division: Behavioral Health Services",
-   "rules": 590,
+   "rules": 591,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
@@ -3202,7 +3202,7 @@
   {
    "slug": "oregon-health-authority-health-systems-division-medical-assistance-programs",
    "name": "Oregon Health Authority, Health Systems Division: Medical Assistance Programs",
-   "rules": 758,
+   "rules": 759,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
@@ -3266,7 +3266,7 @@
   {
    "slug": "oregon-health-authority-public-health-division",
    "name": "Oregon Health Authority, Public Health Division",
-   "rules": 2394,
+   "rules": 2395,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
    "group_name": "Oregon Health Authority",
@@ -3322,7 +3322,7 @@
   {
    "slug": "oregon-housing-and-community-services-department",
    "name": "Oregon Housing and Community Services Department",
-   "rules": 681,
+   "rules": 683,
    "parent": null,
    "group": "oregon-housing-and-community-services-department",
    "group_name": "Oregon Housing and Community Services Department",
@@ -3741,7 +3741,7 @@
   {
    "slug": "secretary-of-state-archives-division",
    "name": "Secretary of State, Archives Division",
-   "rules": 137,
+   "rules": 138,
    "parent": "secretary-of-state",
    "group": "secretary-of-state",
    "group_name": "Secretary of State",

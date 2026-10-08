@@ -36,86 +36,11 @@
   ga('send', 'pageview');
   ga('sos.send', 'pageview');
 </script>
-        <!-- Tablesorter: pagination -->
-	<link rel="stylesheet" href="js/tablesorter/addons/pager/jquery.tablesorter.pager.css">
-	<script src="js/tablesorter/addons/pager/jquery.tablesorter.pager.js"></script>
-	<script src="js/tablesorter/js/jquery.tablesorter.widgets.js"></script>
-        
-        <script>
-            function viewRule(rsn) {
-                $("#searchRuleVrsnRsn").val(rsn);
-                $("#resultsForm").attr("action", "viewQuickSearchRule.action");
-                $("#resultsForm").submit();
-            }
-            
-            function modifySearch() {
-                $("#resultsForm").attr("action", "modifyQuickSearch.action");
-                $("#resultsForm").submit();
-            }
-            
-            $(function() {                
-                var pagerOptions = {
-                    // target the pager markup - see the HTML block below
-                    container: $(".pager"),                    
-
-                    // output string - default is '{page}/{totalPages}'
-                    // possible variables: {page}, {totalPages}, {filteredPages}, {startRow}, {endRow}, {filteredRows} and {totalRows}
-                    // also {page:input} & {startRow:input} will add a modifiable input in place of the value                    
-                    output: 'Page {page:input} of {totalPages}',
-
-                    // apply disabled classname (cssDisabled option) to the pager arrows when the rows
-                    // are at either extreme is visible; default is true
-                    updateArrows: true,
-
-                    // starting page of the pager (zero based index)
-                    page: 0,
-
-                    // Number of visible rows - default is 10 (RLL - changed to 25)
-                    size: 25,
-
-                    // Save pager page & size if the storage script is loaded (requires $.tablesorter.storage in jquery.tablesorter.widgets.js)
-                    savePages : false,
-
-                    // Reset pager to this page after filtering; set to desired page number (zero-based index),
-                    // or false to not change page at filter start
-                    pageReset: 0,
-
-                    // if true, the table will remain the same height no matter how many records are displayed. The space is made up by an empty
-                    // table row set to a height to compensate; default is false
-                    fixedHeight: false,
-
-                    // remove rows from the table to speed up the sort of large tables.
-                    // setting this to false, only hides the non-visible rows; needed if you plan to add/remove rows with the pager enabled.
-                    removeRows: false,
-
-                    // If true, child rows will be counted towards the pager set size
-                    countChildRows: false,
-
-                    // css class names of pager arrows
-                    cssNext: '.next', // next page arrow
-                    cssPrev: '.prev', // previous page arrow
-                    cssFirst: '.first', // go to first page arrow
-                    cssLast: '.last', // go to last page arrow
-                    cssGoto: '.gotoPage', // select dropdown to allow choosing a page
-
-                    cssPageDisplay: '.pagedisplay', // location of where the "output" is displayed
-                    cssPageSize: '.pagesize', // page size selector - select dropdown that sets the "size" option
-
-                    // class added to arrows when at the extremes (i.e. prev/first arrows are "disabled" when on the first page)
-                    cssDisabled: 'disabled', // Note there is no period "." in front of this class name
-                    cssErrorRow: 'tablesorter-errorRow' // ajax error information row
-                };
-                $("#results").tablesorter({
-                    theme : 'green'		
-                })
-                // initialize the pager plugin
-		.tablesorterPager(pagerOptions);
-            });
-        </script>
-        
     </head>
     <body>
         
+
+
 <div class="skip"><a href="#main_content">Skip to main content.</a></div>
 <div id="wrapper">
     <div class='sos-header-wrapper'>
@@ -139,106 +64,127 @@
     </div>
 
 
-        <div id="content_noside"><a name="main_content" id="main_content"></a>
-        <h1>Oregon Administrative Rules</h1>
-        <h2>Quick Rule Search Results</h2>
-        
-        
-        
+<div id="secondary_navbar"> 
+   <div class="sidebar_nav">
+       
 
-<noscript class="errors">For full functionality of this site, it is necessary to enable JavaScript. Here are the <a href="http://www.enable-javascript.com" target="_blank"> instructions</a> on how to enable JavaScript in your web browser.</noscript>
+<ul>
+   <li><a href="javascript:void(0)" onclick="window.location = 'processLogin.action'">OARD Home</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'ruleSearch.action'">Search Current Rules</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'filingSearch.action'">Search Filings</a></li> 
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayBulletins.action'">Access the Oregon Bulletin</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayCompilations.action'">Access the Annual Compilation</a></li>
+   <li><a href="faq.action" target="_blank">FAQ</a></li>
+   
+   <li><a href="javascript:void(0)" onclick="window.location = 'login.action'">Rules Coordinator / Rules Writer Login</a></li>
+   
+   
+</ul>
 
-        <form id="resultsForm" name="resultsForm" method="post">
-        <input type="hidden" name="ruleNumber" value="409-015-0022" id="ruleNumber"/>
-        <input type="hidden" name="resultCount" value="2" id="resultCount"/>
-        <input type="hidden" name="searchRuleVrsnRsn" value="" id="searchRuleVrsnRsn"/>
-        <p>Your search for 409-015-0022 returned 2 results.</p>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a href="javascript:void(0)" onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" /> 		
-            <!--<select class="gotoPage" title="Select page number"></select>-->
-	</div>
-        </div>
-        <div class="form_clear_results"></div>    
-        <div class="table_div_results">
-        <table id="results" class="tablesorter">
-            <thead>
-                <tr>
-                    <th>Rule Number</th>
-                    <th>Rule Title</th>
-                    <th>Chapter Name</th>
-                </tr>
-            </thead>
-            <tbody>
-                 
+   </div>
+</div>
+
+        <div id="content"><a name="main_content" id="main_content"></a>
+        
+            
+        
+            
+        
+        
+        
+            <h1>Oregon Health Authority</h1>
+            <h2><a href='/oard/displayChapterRules.action?selectedChapter=34'>Health Policy and Analytics - Chapter 409</a></h2>
+        
+        
+            
+        
+        <h3><a href='/oard/displayDivisionRules.action?selectedDivision=1651'>Division 15<br>HEALTH CARE FACILITY FINANCIAL REPORTING</a></h3>
+        <p><strong>409-015-0022</strong>            
+        <br><strong>Instructions to Form RR-4</strong></p>
+        
+        Text in ORMS
+        
+        
+        <p>
+            
+                            
+            <b>History:</b><br>
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(81566);">409-015-0022</a></td>
-                                        
-                    <td style="width:40%">Instructions to Form RR-4</td>
-                    
-                    
-                    <td style="width:40%">Oregon Health Authority, Health Policy and Analytics</td>    
-                    
-                    </tr>
+    
+    
+    
+        
+        OHP 1-1999, f. 10-22-99, cert. ef. 10-23-99<br>
+        
+        
+            
+
+
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(81567);">409-015-0022</a></td>
-                                        
-                    <td style="width:40%">Instructions to Form RR-4</td>
-                    
-                    
-                    <td style="width:40%">Oregon Health Authority, Health Policy and Analytics</td>    
-                    
-                    </tr>
+    
+    
+    
+        
+        HP 2-1990, f. &amp; cert. ef. 2-12-90<br>
+        
+        
+            
+
+
+            
                 
-            </tbody>
-        </table>    
-        </div>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" />
-	</div>
-        </div>
-        </form>
+    
+    
+    
+        
+        HP 2-1988, f. &amp; cert. ef. 3-25-88<br>
+        
+        
+            
+
+
+            
+                
+    
+    
+    
+        
+        SHPD 18-1984, f. &amp; ef. 12-20-84<br>
+        
+        
+            
+
+
+            
+                
+
+    
+    Reverted to OHP 1-1999, f. 10-22-99, cert. ef. 10-23-99<br>
+    
+    
+
+            
+                
+
+    
+    Sunset on 09-28-2017<br>
+    
+    
+
+                            
+        </p>
+        
+            
+        
+        <p><br><a href='/oard/view.action?ruleNumber=409-015-0022'>Please use this link to bookmark or link to this rule.</a></p>
         </div>
         
 
 <div class="sos-footer-wrapper">
     <div class="footer-container">
         <div class="colophon">
-            
-                v2.1.7
             
         </div>
         <div class="sos-footer-nav">
@@ -267,6 +213,6 @@
 </div>
 
         </div>
-    </div>
+    </div>    
     </body>
 </html>

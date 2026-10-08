@@ -36,86 +36,11 @@
   ga('send', 'pageview');
   ga('sos.send', 'pageview');
 </script>
-        <!-- Tablesorter: pagination -->
-	<link rel="stylesheet" href="js/tablesorter/addons/pager/jquery.tablesorter.pager.css">
-	<script src="js/tablesorter/addons/pager/jquery.tablesorter.pager.js"></script>
-	<script src="js/tablesorter/js/jquery.tablesorter.widgets.js"></script>
-        
-        <script>
-            function viewRule(rsn) {
-                $("#searchRuleVrsnRsn").val(rsn);
-                $("#resultsForm").attr("action", "viewQuickSearchRule.action");
-                $("#resultsForm").submit();
-            }
-            
-            function modifySearch() {
-                $("#resultsForm").attr("action", "modifyQuickSearch.action");
-                $("#resultsForm").submit();
-            }
-            
-            $(function() {                
-                var pagerOptions = {
-                    // target the pager markup - see the HTML block below
-                    container: $(".pager"),                    
-
-                    // output string - default is '{page}/{totalPages}'
-                    // possible variables: {page}, {totalPages}, {filteredPages}, {startRow}, {endRow}, {filteredRows} and {totalRows}
-                    // also {page:input} & {startRow:input} will add a modifiable input in place of the value                    
-                    output: 'Page {page:input} of {totalPages}',
-
-                    // apply disabled classname (cssDisabled option) to the pager arrows when the rows
-                    // are at either extreme is visible; default is true
-                    updateArrows: true,
-
-                    // starting page of the pager (zero based index)
-                    page: 0,
-
-                    // Number of visible rows - default is 10 (RLL - changed to 25)
-                    size: 25,
-
-                    // Save pager page & size if the storage script is loaded (requires $.tablesorter.storage in jquery.tablesorter.widgets.js)
-                    savePages : false,
-
-                    // Reset pager to this page after filtering; set to desired page number (zero-based index),
-                    // or false to not change page at filter start
-                    pageReset: 0,
-
-                    // if true, the table will remain the same height no matter how many records are displayed. The space is made up by an empty
-                    // table row set to a height to compensate; default is false
-                    fixedHeight: false,
-
-                    // remove rows from the table to speed up the sort of large tables.
-                    // setting this to false, only hides the non-visible rows; needed if you plan to add/remove rows with the pager enabled.
-                    removeRows: false,
-
-                    // If true, child rows will be counted towards the pager set size
-                    countChildRows: false,
-
-                    // css class names of pager arrows
-                    cssNext: '.next', // next page arrow
-                    cssPrev: '.prev', // previous page arrow
-                    cssFirst: '.first', // go to first page arrow
-                    cssLast: '.last', // go to last page arrow
-                    cssGoto: '.gotoPage', // select dropdown to allow choosing a page
-
-                    cssPageDisplay: '.pagedisplay', // location of where the "output" is displayed
-                    cssPageSize: '.pagesize', // page size selector - select dropdown that sets the "size" option
-
-                    // class added to arrows when at the extremes (i.e. prev/first arrows are "disabled" when on the first page)
-                    cssDisabled: 'disabled', // Note there is no period "." in front of this class name
-                    cssErrorRow: 'tablesorter-errorRow' // ajax error information row
-                };
-                $("#results").tablesorter({
-                    theme : 'green'		
-                })
-                // initialize the pager plugin
-		.tablesorterPager(pagerOptions);
-            });
-        </script>
-        
     </head>
     <body>
         
+
+
 <div class="skip"><a href="#main_content">Skip to main content.</a></div>
 <div id="wrapper">
     <div class='sos-header-wrapper'>
@@ -139,106 +64,90 @@
     </div>
 
 
-        <div id="content_noside"><a name="main_content" id="main_content"></a>
-        <h1>Oregon Administrative Rules</h1>
-        <h2>Quick Rule Search Results</h2>
-        
-        
-        
+<div id="secondary_navbar"> 
+   <div class="sidebar_nav">
+       
 
-<noscript class="errors">For full functionality of this site, it is necessary to enable JavaScript. Here are the <a href="http://www.enable-javascript.com" target="_blank"> instructions</a> on how to enable JavaScript in your web browser.</noscript>
+<ul>
+   <li><a href="javascript:void(0)" onclick="window.location = 'processLogin.action'">OARD Home</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'ruleSearch.action'">Search Current Rules</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'filingSearch.action'">Search Filings</a></li> 
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayBulletins.action'">Access the Oregon Bulletin</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayCompilations.action'">Access the Annual Compilation</a></li>
+   <li><a href="faq.action" target="_blank">FAQ</a></li>
+   
+   <li><a href="javascript:void(0)" onclick="window.location = 'login.action'">Rules Coordinator / Rules Writer Login</a></li>
+   
+   
+</ul>
 
-        <form id="resultsForm" name="resultsForm" method="post">
-        <input type="hidden" name="ruleNumber" value="150-308-0540" id="ruleNumber"/>
-        <input type="hidden" name="resultCount" value="2" id="resultCount"/>
-        <input type="hidden" name="searchRuleVrsnRsn" value="" id="searchRuleVrsnRsn"/>
-        <p>Your search for 150-308-0540 returned 2 results.</p>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a href="javascript:void(0)" onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" /> 		
-            <!--<select class="gotoPage" title="Select page number"></select>-->
-	</div>
-        </div>
-        <div class="form_clear_results"></div>    
-        <div class="table_div_results">
-        <table id="results" class="tablesorter">
-            <thead>
-                <tr>
-                    <th>Rule Number</th>
-                    <th>Rule Title</th>
-                    <th>Chapter Name</th>
-                </tr>
-            </thead>
-            <tbody>
-                 
+   </div>
+</div>
+
+        <div id="content"><a name="main_content" id="main_content"></a>
+        
+            
+        
+            
+        
+                    
+            <h1><a href='/oard/displayChapterRules.action?selectedChapter=99'>Department of Revenue</a></h1>
+            <h2><a href='/oard/displayChapterRules.action?selectedChapter=99'>Chapter 150</a></h2>
+        
+        
+        
+            
+        
+        <h3><a href='/oard/displayDivisionRules.action?selectedDivision=422'>Division 308<br>ASSESSMENT OF PROPERTY FOR TAXATION</a></h3>
+        <p><strong>150-308-0540</strong>            
+        <br><strong>Assessment of Properties of Designated Utilities and Companies by Department of Revenue</strong></p>
+        
+        <p>(1) As required by ORS 308.510(5), 308.515, and 308.517, the Director shall make determinations as to which properties of companies engaged in any of the activities named in 308.515(1)(a) (herein referred to as “utility service”) shall be included on the assessment roll required under 308.560 and which shall be included on the several county assessment rolls. To document these determinations, the Department will issue serially numbered property classification memorandums (PCM’s) which describe the property and state that it is subject to the assessment jurisdiction of either the Department or the assessor of the county in which it is located.</p><p>(2) In reaching its determinations the Department will be guided by the following:</p><p>(a) Change in classification of property from state to county assessment or vice versa is made necessary by changes in use of the property. Under the statute, ORS 308.515, the controlling factor determining assessment responsibility is the use, present or intended, of the property. In accordance the Department will classify:</p><p>(A) Those properties being used in utility service as subject to the assessment jurisdiction of the Department.</p><p>(B) Those properties which are acquired or held for subsequent use in utility service but assigned to and used by another in a non-utility use as subject to assessment jurisdiction of the county assessor.</p><p>(C) Those properties which are acquired for use in utility service but not yet placed into such service and where no other use is being made of the property as subject to assessment by the county assessor or the Department of Revenue as may be determined by the department.</p><p>(D) Those properties no longer being used in utility service and not being held for future use in utility service as subject to the assessment jurisdiction of the county assessor. The status of a property as of January 1 shall be the determining fact in its classification for that assessment year.</p><p>(b) In the case of railroad properties, the law (ORS 308.510(4)(c)) has moved the classification a step away from use by stating “a rail transportation company shall be deemed the user of property situated within its station ground reservations or rights of way notwithstanding the fact that such property may be leased, rented or otherwise assigned by it for the use or benefit of another.” Thus in the case of railroad property the determining fact is whether or not a property is “within its station ground reservations or rights of way.” In making that determination the following definitions shall apply:</p><p>(A) Railroad Right of Way: The land owned or used by a rail transportation company as the site for its railroad. The term “railroad” includes rails, ties, ballast, tunnels, trestles, bridges, cuts, fills, drainage systems, signal systems, communication systems, power systems, equipment and employee service buildings and structures, and all other facilities needed in the business of rail transportation except station facilities. The dimensions of the right-of-way will vary depending on requirements imposed by function and terrain and no fixed size limits can be set.</p><p>(B) Railroad Station Ground Reservation: A parcel of land, usually contiguous to a railroad right-of-way, acquired for and used as a station site.</p><p>(C) Station Site: All land area reasonably necessary to provide for the transition from and to rail transportation of people and property is logically classifiable as station ground reservation.</p><p>(c) The Department will determine whether a particular parcel is includable within one of the definitions on the basis of the following rules:</p><p>(A) If the land is owned by a railroad and is being used or is held for use as a station site or as right-of-way as defined above, it shall be classified as station ground reservation or right-of-way.</p><p>(B) If the land is owned by a railroad but is leased to another for use as a station site it shall be classified as station ground reservation. Examples would include: leases to freight forwarding, express, and trucking companies for use in assembling small shipments for movement by rail; leases to grain buying and warehousing companies who buy small quantities to accumulate into bulk rail shipments; and leases to companies in the reverse activity of receiving bulk shipments by rail and selling in small quantity.</p><p>(C) Land owned by a railroad and not included in items (A) or (B) shall be classified as not being station ground reservation or right-of-way. Examples would include: Leases to retail sales organizations as store or parking lot sites; leases to farmers for agricultural uses (this would not include agricultural permits or casual, transitory or informal agricultural uses along rights-of-way); leases to manufacturing concerns as factory sites. In marginal cases, the Department will make its decision based on the primary use being made of the land.</p>
+        
+        
+        <p>
+                        
+                <b>Statutory/Other Authority:</b>&nbsp;ORS 305.100<br>
+            
+                        
+                <b>Statutes/Other Implemented:</b>&nbsp;ORS 308.515<br>
+                            
+            <b>History:</b><br>
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(18504);">150-308-0540</a></td>
-                                        
-                    <td style="width:40%">Assessment of Properties of Designated Utilities and Companies by Department of Revenue</td>
-                    
-                    <td style="width:40%">Department of Revenue</td>
-                    
-                    
-                    </tr>
+    
+    
+    
+        
+        Renumbered from 150-308.515, REV 56-2016, f. 8-13-16, cert. ef. 9-1-16<br>
+        
+        
+            
+
+
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(18509);">150-308-0570</a></td>
-                                        
-                    <td style="width:40%">Computation of Changed Property Ratio for Centrally Assessed Property</td>
-                    
-                    <td style="width:40%">Department of Revenue</td>
-                    
-                    
-                    </tr>
-                
-            </tbody>
-        </table>    
-        </div>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" />
-	</div>
-        </div>
-        </form>
+
+    
+    
+        TC 8-1981, f. 12-7-81, cert. ef. 12-31-81<br>
+TC 10-1978, f. 12-5-78, cert. ef. 12-31-78<br>
+1-69
+<br>
+    
+
+                            
+        </p>
+        
+            
+        
+        <p><br><a href='/oard/view.action?ruleNumber=150-308-0540'>Please use this link to bookmark or link to this rule.</a></p>
         </div>
         
 
 <div class="sos-footer-wrapper">
     <div class="footer-container">
         <div class="colophon">
-            
-                v2.1.7
             
         </div>
         <div class="sos-footer-nav">
@@ -267,6 +176,6 @@
 </div>
 
         </div>
-    </div>
+    </div>    
     </body>
 </html>

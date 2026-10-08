@@ -36,86 +36,11 @@
   ga('send', 'pageview');
   ga('sos.send', 'pageview');
 </script>
-        <!-- Tablesorter: pagination -->
-	<link rel="stylesheet" href="js/tablesorter/addons/pager/jquery.tablesorter.pager.css">
-	<script src="js/tablesorter/addons/pager/jquery.tablesorter.pager.js"></script>
-	<script src="js/tablesorter/js/jquery.tablesorter.widgets.js"></script>
-        
-        <script>
-            function viewRule(rsn) {
-                $("#searchRuleVrsnRsn").val(rsn);
-                $("#resultsForm").attr("action", "viewQuickSearchRule.action");
-                $("#resultsForm").submit();
-            }
-            
-            function modifySearch() {
-                $("#resultsForm").attr("action", "modifyQuickSearch.action");
-                $("#resultsForm").submit();
-            }
-            
-            $(function() {                
-                var pagerOptions = {
-                    // target the pager markup - see the HTML block below
-                    container: $(".pager"),                    
-
-                    // output string - default is '{page}/{totalPages}'
-                    // possible variables: {page}, {totalPages}, {filteredPages}, {startRow}, {endRow}, {filteredRows} and {totalRows}
-                    // also {page:input} & {startRow:input} will add a modifiable input in place of the value                    
-                    output: 'Page {page:input} of {totalPages}',
-
-                    // apply disabled classname (cssDisabled option) to the pager arrows when the rows
-                    // are at either extreme is visible; default is true
-                    updateArrows: true,
-
-                    // starting page of the pager (zero based index)
-                    page: 0,
-
-                    // Number of visible rows - default is 10 (RLL - changed to 25)
-                    size: 25,
-
-                    // Save pager page & size if the storage script is loaded (requires $.tablesorter.storage in jquery.tablesorter.widgets.js)
-                    savePages : false,
-
-                    // Reset pager to this page after filtering; set to desired page number (zero-based index),
-                    // or false to not change page at filter start
-                    pageReset: 0,
-
-                    // if true, the table will remain the same height no matter how many records are displayed. The space is made up by an empty
-                    // table row set to a height to compensate; default is false
-                    fixedHeight: false,
-
-                    // remove rows from the table to speed up the sort of large tables.
-                    // setting this to false, only hides the non-visible rows; needed if you plan to add/remove rows with the pager enabled.
-                    removeRows: false,
-
-                    // If true, child rows will be counted towards the pager set size
-                    countChildRows: false,
-
-                    // css class names of pager arrows
-                    cssNext: '.next', // next page arrow
-                    cssPrev: '.prev', // previous page arrow
-                    cssFirst: '.first', // go to first page arrow
-                    cssLast: '.last', // go to last page arrow
-                    cssGoto: '.gotoPage', // select dropdown to allow choosing a page
-
-                    cssPageDisplay: '.pagedisplay', // location of where the "output" is displayed
-                    cssPageSize: '.pagesize', // page size selector - select dropdown that sets the "size" option
-
-                    // class added to arrows when at the extremes (i.e. prev/first arrows are "disabled" when on the first page)
-                    cssDisabled: 'disabled', // Note there is no period "." in front of this class name
-                    cssErrorRow: 'tablesorter-errorRow' // ajax error information row
-                };
-                $("#results").tablesorter({
-                    theme : 'green'		
-                })
-                // initialize the pager plugin
-		.tablesorterPager(pagerOptions);
-            });
-        </script>
-        
     </head>
     <body>
         
+
+
 <div class="skip"><a href="#main_content">Skip to main content.</a></div>
 <div id="wrapper">
     <div class='sos-header-wrapper'>
@@ -139,107 +64,142 @@
     </div>
 
 
-        <div id="content_noside"><a name="main_content" id="main_content"></a>
-        <h1>Oregon Administrative Rules</h1>
-        <h2>Quick Rule Search Results</h2>
-        
-        
-        
+<div id="secondary_navbar"> 
+   <div class="sidebar_nav">
+       
 
-<noscript class="errors">For full functionality of this site, it is necessary to enable JavaScript. Here are the <a href="http://www.enable-javascript.com" target="_blank"> instructions</a> on how to enable JavaScript in your web browser.</noscript>
+<ul>
+   <li><a href="javascript:void(0)" onclick="window.location = 'processLogin.action'">OARD Home</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'ruleSearch.action'">Search Current Rules</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'filingSearch.action'">Search Filings</a></li> 
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayBulletins.action'">Access the Oregon Bulletin</a></li>
+   <li><a href="javascript:void(0)" onclick="window.location = 'displayCompilations.action'">Access the Annual Compilation</a></li>
+   <li><a href="faq.action" target="_blank">FAQ</a></li>
+   
+   <li><a href="javascript:void(0)" onclick="window.location = 'login.action'">Rules Coordinator / Rules Writer Login</a></li>
+   
+   
+</ul>
 
-        <form id="resultsForm" name="resultsForm" method="post">
-        <input type="hidden" name="ruleNumber" value="735-080-0040" id="ruleNumber"/>
-        <input type="hidden" name="resultCount" value="2" id="resultCount"/>
-        <input type="hidden" name="searchRuleVrsnRsn" value="" id="searchRuleVrsnRsn"/>
-        <p>Your search for 735-080-0040 returned 2 results.</p>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a href="javascript:void(0)" onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" /> 		
-            <!--<select class="gotoPage" title="Select page number"></select>-->
-	</div>
-        </div>
-        <div class="form_clear_results"></div>    
-        <div class="table_div_results">
-        <table id="results" class="tablesorter">
-            <thead>
-                <tr>
-                    <th>Rule Number</th>
-                    <th>Rule Title</th>
-                    <th>Chapter Name</th>
-                </tr>
-            </thead>
-            <tbody>
-                 
+   </div>
+</div>
+
+        <div id="content"><a name="main_content" id="main_content"></a>
+        
+            
+        
+            
+        
+        
+        
+            <h1>Department of Transportation</h1>
+            <h2><a href='/oard/displayChapterRules.action?selectedChapter=104'>Driver and Motor Vehicle Services Division - Chapter 735</a></h2>
+        
+        
+            
+        
+        <h3><a href='/oard/displayDivisionRules.action?selectedDivision=3371'>Division 80<br>PARKING</a></h3>
+        <p><strong>735-080-0040</strong>            
+        <br><strong>Replacement of Disabled Person Parking Permits
+</strong></p>
+        
+        <p>(1) DMV may replace a Disabled Person Parking Permit placards and decals.</p>
+
+<p>(2) When the required certificate, as described in OAR 735-080-0020, is not on file with DMV, DMV will not replace a lost, mutilated, or stolen Disabled Person Parking Permit placard or a mutilated or stolen Disabled Person Parking Permit decal for any permit type.</p>
+
+<p>(3) An application for a replacement Disabled Person Parking Permit placard or decal must be made using the application form and submitted as described in OAR 735-080-0020 or 735-080-0060 for the specific permit type.&nbsp; The application must include a certification that:</p>
+
+<p>(a) The original Disabled Person Parking Permit placard is lost, mutilated or destroyed, if applicable;</p>
+
+<p>(b) The original Disabled Person Parking Permit decal is mutilated or destroyed, if applicable; and</p>
+
+<p>(c) The applicant continues to qualify for the permit.</p>
+
+<p>(4) Issuance of a replacement Disabled Person Parking Permit placard or decal automatically invalidates the previously issued permit placard or decal.</p>
+
+<p>(5) An application for replacement of Program and Family Permits must be submitted to the DMV Driver Transaction Unit by mail to: Parking Permits Clerk, 1905 Lana Ave NE, Salem, OR 97314.</p>
+
+        
+        
+        <p>
+                        
+                <b>Statutory/Other Authority:</b>&nbsp;ORS 184.619, 802.010, 811.602, 811.607, 811.609 &amp; 811.616<br>
+            
+                        
+                <b>Statutes/Other Implemented:</b>&nbsp;ORS 811.602, 811.604, 811.605, 811.606, 811.607, 811.609 &amp; 811.616<br>
+                            
+            <b>History:</b><br>
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(310315);">735-080-0040</a></td>
-                                        
-                    <td style="width:40%">Replacement of Disabled Person Parking Permits
-</td>
-                    
-                    
-                    <td style="width:40%">Department of Transportation, Driver and Motor Vehicle Services Division</td>    
-                    
-                    </tr>
+    
+        
+            
+        
+        
+            <a href='/oard/viewReceiptTRIM.action?ptId=9941070'>DMV 1-2024, amend filed 01/26/2024, effective 01/26/2024</a><br>
+        
+        
+    
+    
+            
+
+
+            
                 
-                    <tr>                    
-                    
-                    
-                        <td style="width:20%"><a onclick="viewRule(186570);">735-080-0040</a></td>
-                                        
-                    <td style="width:40%">Mechanical Test Requirements</td>
-                    
-                    
-                    <td style="width:40%">Department of Transportation, Driver and Motor Vehicle Services Division</td>    
-                    
-                    </tr>
+    
+        
+            
+        
+        
+            <a href='/oard/viewReceiptTRIM.action?ptId=6846128'>DMV 47-2018, amend filed 11/20/2018, effective 01/01/2019</a><br>
+        
+        
+    
+    
+            
+
+
+            
                 
-            </tbody>
-        </table>    
-        </div>
-        <div class="form_left_results">
-            <a href="ruleSearch.action?tab=1" >New Search</a> | <a onclick="modifySearch();">Modify Search</a>
-        </div>
-        <div class="form_right_results">        
-        <div class="pager">
-            Rows per page: <select class="pagesize" title="Select page size">
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="75">75</option>
-                    <option value="100">100</option>
-            </select>&nbsp;&nbsp;
-            <img src="js/tablesorter/addons/pager/icons/first.png" class="first" alt="First" />
-            <img src="js/tablesorter/addons/pager/icons/prev.png" class="prev" alt="Prev" />
-            &nbsp;<span class="pagedisplay"></span>&nbsp; 
-            <img src="js/tablesorter/addons/pager/icons/next.png" class="next" alt="Next" />
-            <img src="js/tablesorter/addons/pager/icons/last.png" class="last" alt="Last" />
-	</div>
-        </div>
-        </form>
+    
+    
+    
+        
+        DMV 4-2011, f. &amp; cert. ef. 3-16-11<br>
+        
+        
+            
+
+
+            
+                
+
+    
+    
+        DMV 29-2009, f. 12-22-09, cert. ef. 1-1-10<br>
+DMV 20-2007, f. 12-24-07, cert. ef. 1-1-08<br>
+DMV 6-2002, f. & cert. ef. 3-14-02<br>
+DMV 18-2001(Temp), f. & cert. ef. 9-21-01 thru 3-19-01<br>
+DMV 12-2000, f. & cert. ef. 9-21-00<br>
+DMV 6-1996, f. & cert. ef. 8-15-96<br>
+MV 20-1991, f. 9-18-91, cert. ef. 9-29-91<br>
+MV 38-1989, f. & cert. ef. 10-3-89<br>
+MV 30-1986, f. 12-31-86, cert. ef. 1-1-87, Renumbered from 735-110-0830<br>
+MV 11-1985, f. 9-19-85, cert. ef. 9-20-85<br>
+    
+
+                            
+        </p>
+        
+            
+        
+        <p><br><a href='/oard/view.action?ruleNumber=735-080-0040'>Please use this link to bookmark or link to this rule.</a></p>
         </div>
         
 
 <div class="sos-footer-wrapper">
     <div class="footer-container">
         <div class="colophon">
-            
-                v2.1.7
             
         </div>
         <div class="sos-footer-nav">
@@ -268,6 +228,6 @@
 </div>
 
         </div>
-    </div>
+    </div>    
     </body>
 </html>

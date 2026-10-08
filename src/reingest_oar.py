@@ -93,7 +93,7 @@ from enrich_oar import apply as enrich_apply
 from enrich_oar import derive as enrich_derive
 from enrich_oar import load_registry_by_chapter
 from html_to_text import html_to_text
-from ingest_lib import fetch, flow_to_lines
+from ingest_lib import fetch_page as fetch_with_url, flow_to_lines
 from ingest_oar import is_search_results_page, served_rule_number
 from repo_lib import (REPO_ROOT, SNAPSHOT_DIR, Checks, content_hash, hash_snapshot,
                       normalize_volatile, snapshot_slice, ws_only, snapshot_text)
@@ -739,6 +739,21 @@ def _record_refusal(candidate, reason, notice) -> None:
     candidate.row[REFUSED_NOTICE_KEY] = notice
 
 
+def _refresh_url(candidate) -> str:
+    """Where to read a rule's current text (#439). A document that mirrors one OARD record
+    carries `viewSingleRule.action?ruleVrsnRsn=` as its `source_url`; the bare-number URL is
+    a results page for exactly those numbers, so it is fetched from that URL instead."""
+    try:
+        m = re.search(r'^source_url:\s*"?(https://secure\.sos\.state\.or\.us/oard/'
+                      r'viewSingleRule\.action\?ruleVrsnRsn=\d+)',
+                      candidate.path.read_text(encoding="utf-8"), re.M)
+    except OSError:
+        m = None
+    if m:
+        return m.group(1)
+    return f"https://secure.sos.state.or.us/oard/view.action?ruleNumber={candidate.number}"
+
+
 def reingest_one(candidate, registry_by_chapter, today, fetch_page=None,
                  notice=None) -> tuple:
     """Refresh ONE rule from OARD. (True if the document changed, Failures).
@@ -761,10 +776,15 @@ def reingest_one(candidate, registry_by_chapter, today, fetch_page=None,
     it for a rule out of force. Zero rules are in that state today (306 of 306 fetched,
     sliced and recorded), which is why it is an issue and not a branch here."""
     number, doc_id = candidate.number, f"oar-{candidate.number}"
-    url = f"https://secure.sos.state.or.us/oard/view.action?ruleNumber={number}"
-    fetch_page = fetch_page or (lambda u: normalize_volatile(fetch(u)))
+    url = _refresh_url(candidate)
+    fetch_page = fetch_page or fetch_with_url
+    final_url = ""
     try:
-        raw = fetch_page(url)
+        got = fetch_page(url)
+        # the network returns the toolkit's `Fetched` (body + FINAL url); an injected stub
+        # may return bare bytes. Only the former can say where OARD actually landed.
+        raw = normalize_volatile(getattr(got, "body", got))
+        final_url = getattr(got, "url", "") or ""
     except Exception as e:                                    # noqa: BLE001 -- see below
         # ONE RULE'S OUTAGE IS NOT THE MONTH'S. A raised exception here would stop the run
         # part-way through 306 rules with the catalog half-written; the rule is recorded as
@@ -792,7 +812,7 @@ def reingest_one(candidate, registry_by_chapter, today, fetch_page=None,
             f"OARD serves {served} for this number. A re-ingest that wrote that page into "
             f"this document would publish one rule's text under another's citation -- the "
             "125-800 -> 128-030 lesson. Renumbering is recorded by the catalog, not here")]
-    if is_search_results_page(ws_only(text)):
+    if is_search_results_page(ws_only(text), final_url):
         _record_refusal(candidate, 'not_sliceable', notice)
         return False, [Failure(
             "a-filed-text-action-is-re-ingested", f"{number}",
@@ -1360,6 +1380,24 @@ def _proof_the_run_refuses_what_is_not_an_amendment(check) -> None:
                       for f in problems))
     check("...and not one of those refusals wrote to the document",
           one.path.read_text() == before)
+
+    # #439: the final URL is the soft-404 signal when the wording is unfamiliar
+    class _Landed:
+        url = "https://secure.sos.state.or.us/oard/ruleSearchResults.action?ruleNumber=x"
+        body = _page(one.number, "(1) " + "Unfamiliar wording of a list page. " * 8)
+    wrote, problems = run(lambda _: _Landed)
+    check("a re-ingest is refused when the page ended on ruleSearchResults.action, "
+          "whatever its wording (#439)",
+          problems and not wrote and one.path.read_text() == before)
+    pinned = Candidate("999-001-0010", "amend", {}, Path(tempfile.gettempdir()) / "none.md")
+    check("a document with no viewSingleRule source_url is fetched by number",
+          _refresh_url(pinned).endswith("view.action?ruleNumber=999-001-0010"))
+    with tempfile.TemporaryDirectory() as d:
+        pp = Path(d) / "oar-999-001-0010.md"
+        pp.write_text('---\nsource_url: "https://secure.sos.state.or.us/oard/'
+                      'viewSingleRule.action?ruleVrsnRsn=42"\n---\n')
+        check("...and one pinned to a record is fetched from that record",
+              _refresh_url(Candidate("999-001-0010", "amend", {}, pp)).endswith("ruleVrsnRsn=42"))
 
     # #245 -- A REFUSAL THE ROW CARRIES, watched being recorded and watched clearing the
     # gate that could not otherwise be cleared. Run against a COPY of the row so nothing

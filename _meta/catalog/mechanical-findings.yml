@@ -1,7 +1,7 @@
 note: 'Conflict candidates decidable BY CODE — no model involved. A hand-labelled taxonomy of the 137
   frontier-pilot candidates found 29% of them were of these four deterministic types, and a regex finds
   far more of them than the models did: the pilot reported 21 dead citations in total, this scan finds
-  1,967 DISTINCT dead targets, cited 5,516 times across 4,529 documents. READ THE DISTINCT COUNT, NOT
+  1,968 DISTINCT dead targets, cited 5,522 times across 4,535 documents. READ THE DISTINCT COUNT, NOT
   THE OCCURRENCES: they differ by ~2.7x because a single repealed section is cited by many rules — ORS
   184.616 alone is cited by 727 of them. Occurrences are the blast radius; distinct targets are the number
   of things to actually resolve, and they are heavily concentrated, so the top handful clear thousands
@@ -15,18 +15,18 @@ note: 'Conflict candidates decidable BY CODE — no model involved. A hand-label
   these four types so the two passes do not overlap.'
 scanned_rules: 42612
 counts:
-  distinct_dead_targets: 1967
-  dead_citation_occurrences: 5516
-  documents_affected: 4529
-  dead_citations: 5516
+  distinct_dead_targets: 1968
+  dead_citation_occurrences: 5522
+  documents_affected: 4535
+  dead_citations: 5522
   corpus_gap_not_ingested: 575
-  lapsed_but_current: 78
-  rule_predates_statute_amendment: 4452
+  lapsed_but_current: 85
+  rule_predates_statute_amendment: 4456
   malformed_citations: 65
 dead_citations_by_cause:
   chapter_absent: 146
-  oar_unclassified: 1022
-  renumbered_or_repealed: 4348
+  oar_unclassified: 1023
+  renumbered_or_repealed: 4353
 cause_meanings:
   renumbered_or_repealed: the chapter is current, but this section has left its table of contents
   chapter_absent: no such ORS chapter page exists upstream
@@ -3344,6 +3344,9 @@ dead_citations:
 - rule: oar-331-415-0020
   cites: ORS 676.586
   cause: renumbered_or_repealed
+- rule: oar-331-430-0000
+  cites: ORS 680.586
+  cause: renumbered_or_repealed
 - rule: oar-331-430-0030
   cites: OAR 331-020-0060
   cause: oar_unclassified
@@ -5458,6 +5461,9 @@ dead_citations:
   cause: oar_unclassified
 - rule: oar-410-146-0075
   cites: OAR 410-120-1230
+  cause: oar_unclassified
+- rule: oar-410-146-0080
+  cites: OAR 410-141-0480
   cause: oar_unclassified
 - rule: oar-410-146-0085
   cites: OAR 410-130-0610
@@ -9619,6 +9625,9 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-660-012-0015
   cites: ORS 184.618
+  cause: renumbered_or_repealed
+- rule: oar-660-012-0016
+  cites: ORS 195.012
   cause: renumbered_or_repealed
 - rule: oar-660-012-0020
   cites: ORS 195.012
@@ -13922,6 +13931,12 @@ dead_citations:
 - rule: oar-813-005-0016
   cites: ORS 91.886
   cause: renumbered_or_repealed
+- rule: oar-813-005-0020
+  cites: ORS 91.886
+  cause: renumbered_or_repealed
+- rule: oar-813-005-0030
+  cites: ORS 91.886
+  cause: renumbered_or_repealed
 - rule: oar-813-005-0040
   cites: ORS 91.886
   cause: renumbered_or_repealed
@@ -16073,6 +16088,9 @@ dead_citations:
 - rule: oar-858-010-0015
   cites: ORS 675.065
   cause: renumbered_or_repealed
+- rule: oar-858-010-0037
+  cites: ORS 675.065
+  cause: renumbered_or_repealed
 - rule: oar-858-010-0038
   cites: ORS 675.065
   cause: renumbered_or_repealed
@@ -16639,10 +16657,14 @@ lapsed_but_current:
   evidence: expire after December 31, 2007
 - rule: oar-150-309-0260
   evidence: Sunset on 09-28-2017 Reverted to Sunset on 09-28-2017 TC 3-1980
+- rule: oar-165-014-0090
+  evidence: Sunset on 09-28-2017
 - rule: oar-165-020-0445
   evidence: expire June 30, 2019; (b) Position 2, term to expire June 30, 2019
 - rule: oar-170-061-0200
   evidence: expires January 2, 2010
+- rule: oar-333-015-0090
+  evidence: Sunset on 09-28-2017
 - rule: oar-333-061-0228
   evidence: expires after July 31, 2022
 - rule: oar-340-071-0345
@@ -16651,6 +16673,8 @@ lapsed_but_current:
   evidence: sunset on December 31, 1991
 - rule: oar-340-228-0606
   evidence: expires July 1, 2016
+- rule: oar-409-015-0022
+  evidence: Sunset on 09-28-2017
 - rule: oar-410-173-0015
   evidence: expire when an Individual is found to be no longer eligible for 1915
 - rule: oar-411-033-0020
@@ -16701,6 +16725,8 @@ lapsed_but_current:
   evidence: Sunset on 05/08/2023 OASC 1-2004
 - rule: oar-624-030-0040
   evidence: Sunset on 05/08/2023 OASC 1-2004
+- rule: oar-660-001-0105
+  evidence: Sunset on 09-28-2017
 - rule: oar-735-032-0036
   evidence: expires 2012
 - rule: oar-735-042-0060
@@ -16709,6 +16735,8 @@ lapsed_but_current:
   evidence: expire on June 14, 1995
 - rule: oar-735-060-0050
   evidence: expire on April 30, 2024
+- rule: oar-808-001-0035
+  evidence: Sunset on 09-28-2017 LCB 1-2000
 - rule: oar-808-002-0120
   evidence: Sunset on 09-28-2017
 - rule: oar-808-002-0140
@@ -16757,6 +16785,8 @@ lapsed_but_current:
   evidence: Sunset on 09-28-2017
 - rule: oar-808-002-0880
   evidence: Sunset on 09-28-2017
+- rule: oar-808-005-0010
+  evidence: Sunset on 09-28-2017 LCB 1-2000
 - rule: oar-808-009-0090
   evidence: Sunset on 09-28-2017 LCB 1-2000
 - rule: oar-808-009-0300
@@ -16771,6 +16801,8 @@ lapsed_but_current:
   evidence: Sunset on 09-28-2017 LCB 1-2000
 - rule: oar-812-006-0162
   evidence: expires January 2, 2022
+- rule: oar-836-010-0014
+  evidence: Sunset on 09-28-2017
 - rule: oar-845-006-0370
   evidence: expires October 1, 2001
 - rule: oar-853-035-0005
