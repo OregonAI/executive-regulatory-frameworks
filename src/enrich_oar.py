@@ -41,7 +41,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 import yaml
 
-from legal_status import bulletin_status_by_rule, resolve, rule_number
+from legal_status import (FORCE_FIELD_KEYS, bulletin_status_by_rule, force_fields,
+                          history_force, resolve, rule_number)
 from repo_lib import REPO_ROOT, Checks, content_files, parse_frontmatter
 
 AUTH_RE = re.compile(r"Statutory/Other Authority:\s*(.*?)\s*(?=Statutes/Other Implemented:|History:|$)", re.S)
@@ -162,7 +163,7 @@ def parse_history(hist: str):
 
 
 def derive(body: str, doc_id: str, registry_by_chapter: dict, bulletin_status=None,
-           existing_status=None) -> dict:
+           existing_status=None, today=None) -> dict:
     """All derivable frontmatter values for one rule, from its own body text.
 
     `bulletin_status` is the legal status the Oregon Bulletin set for this rule, off the OAR
@@ -201,8 +202,14 @@ def derive(body: str, doc_id: str, registry_by_chapter: dict, bulletin_status=No
     # the build for the Bulletin being right. What it knows -- whether the newest History
     # action is a repeal -- is now handed to the one writer, which weighs it against what
     # the Bulletin filed (ADR 0006).
+    # #441: what the rule's own History says beyond a repeal -- a passed sunset, an unlifted
+    # newest-action suspension -- is read by `legal_status.history_force()` and handed to the
+    # one writer; the fields that record it are `legal_status.force_fields()`'s.
+    force = history_force(m.group(1) if m else None, today)
     d["status"] = resolve(bulletin=bulletin_status, history_repealed=repealed,
-                          existing=existing_status)
+                          existing=existing_status, history_sunset=force.sunset)
+    d["force"] = force_fields(d["status"], force, bulletin=bulletin_status,
+                              history_repealed=repealed)
     ch = doc_id.split("-")[1]
     org = registry_by_chapter.get(ch)
     if org is None:
@@ -267,6 +274,12 @@ def apply(path: Path, d: dict) -> bool:
     # is the strongest write in the repository -- it replaces whatever a document already
     # said, across every file -- and it names no status of its own.
     text = re.sub(r'^status: .*$', f'status: {d["status"]}', text, count=1, flags=re.M)
+    # LEGAL STATUS - READER: the History-derived force fields (#441) sit directly after the
+    # status line they explain; stale ones are dropped so a lapsed suspension leaves no trace.
+    text = re.sub(r'^(?:%s): .*\n' % "|".join(FORCE_FIELD_KEYS), "", text, flags=re.M)
+    text = re.sub(r'^(status: .*\n)', lambda mm: mm.group(1) + "".join(
+        f'{k}: "{d["force"][k]}"\n' for k in FORCE_FIELD_KEYS if k in d["force"]),
+        text, count=1, flags=re.M)
     if d["renumbered_from"]:
         sup = f'OAR {d["renumbered_from"]}'
         if f'"{sup}"' not in text:
@@ -300,6 +313,9 @@ def expected_mismatch(fm: dict, d: dict) -> list:
         bad.append("issuing_body")
     if fm.get("status") != d["status"]:
         bad.append("status")
+    for k in FORCE_FIELD_KEYS:
+        if (str(fm[k]) if fm.get(k) is not None else None) != d["force"].get(k):
+            bad.append(k)
     return bad
 
 
@@ -370,6 +386,62 @@ def selftest() -> int:
         check("a registry row with no oar_name is refused", False)
     except SystemExit as e:
         check("a registry row with no oar_name is refused", "oar_name" in str(e))
+
+    # #441: THE RULE'S OWN HISTORY SAYS IT SUNSET, OR IS SUSPENDED. The bodies are shaped like
+    # committed documents (oar-808-005-0010; oar-165-002-0010) and `today` is injected.
+    from datetime import date
+    today = date(2026, 10, 7)
+    sunset_body = ("## Full text\n\nText.\n\nHistory: Sunset on 09-28-2017 LCB 1-2000, f. & "
+                   "cert. ef. 2-1-00 LCB 2-1988, f. 1-26-88, cert. ef. 2-1-88\n")
+    ds = derive(sunset_body, "oar-125-010-0005", reg, today=today)
+    check("a passed sunset in the rule's own History makes it repealed, basis recorded",
+          ds["status"] == "repealed"
+          and ds["force"] == {"repeal_basis": "sunset 2017-09-28 (History)"})
+    check("the Bulletin stays authoritative: its status wins and the History records nothing",
+          derive(sunset_body, "oar-125-010-0005", reg, "superseded", today=today)["status"]
+          == "superseded"
+          and derive(sunset_body, "oar-125-010-0005", reg, "superseded",
+                     today=today)["force"] == {})
+    susp_body = ("## Full text\n\nText.\n\nHistory: ELECT 14-2026, temporary suspend filed "
+                 "07/01/2026, effective 07/01/2026 through 12/27/2026 ELECT 20-2009, f. & "
+                 "cert. ef. 12-31-09\n")
+    dp = derive(susp_body, "oar-125-010-0005", reg, today=today)
+    check("an unlifted newest-action suspension stays current and is recorded",
+          dp["status"] == "current" and dp["force"] == {
+              "suspended_by": "ELECT 14-2026", "suspended_effective": "2026-07-01",
+              "suspended_through": "2026-12-27"})
+    check("the same History after its through date is plain current, nothing recorded",
+          derive(susp_body, "oar-125-010-0005", reg, today=date(2027, 1, 1))["force"] == {})
+    fm_s = dict(fm_ok, legal_authority=[], statutes_implemented=[],
+                effective_date=dp["effective_date"], status="current", suspended_by="ELECT 14-2026",
+                suspended_effective="2026-07-01", suspended_through="2026-12-27")
+    check("a document holding the derived suspension is not drift",
+          expected_mismatch(fm_s, dp) == [])
+    check("a document missing the suspension is drift",
+          "suspended_by" in expected_mismatch(dict(fm_s, suspended_by=None), dp))
+    check("a document still carrying a suspension that no longer holds is drift",
+          "suspended_by" in expected_mismatch(fm_s, derive(
+              susp_body, "oar-125-010-0005", reg, today=date(2027, 1, 1))))
+    import tempfile
+    with tempfile.TemporaryDirectory() as tmp:
+        f = Path(tmp) / "oar-125-010-0005.md"
+        head = ("---\nid: oar-125-010-0005\nlegal_authority: []\nagency: x\n"
+                'issuing_body: "y"\nstatus: current\nsupersedes: null\n---\n\n')
+        f.write_text(head + susp_body)
+        apply(f, dp)
+        once = f.read_text()
+        check("apply writes the suspension beside the status",
+              'status: current\nsuspended_by: "ELECT 14-2026"\n' in once
+              and 'suspended_through: "2026-12-27"' in once)
+        apply(f, dp)
+        check("...and is idempotent", f.read_text() == once)
+        apply(f, derive(susp_body, "oar-125-010-0005", reg, today=date(2027, 1, 1)))
+        check("...and removes the fields when the suspension no longer holds",
+              "suspended_" not in f.read_text())
+        f.write_text(head + sunset_body)
+        apply(f, ds)
+        check("apply writes status repealed and the basis",
+              "status: repealed\nrepeal_basis: \"sunset 2017-09-28 (History)\"\n" in f.read_text())
 
     return check.report()
 

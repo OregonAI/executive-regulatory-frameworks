@@ -242,6 +242,8 @@ CHECK_RULES = (
     # the notice, and the half no rule about an existing row can state
     "catalog-reaches-the-rule", "a-filed-force-action-is-recorded",
     "the-notice-names-the-filing", "the-notice-is-readable",
+    # what a rule's OWN History says beyond a repeal (#441), and that it is recorded
+    "force-field-agrees-with-status", "history-force-is-recorded",
 )
 
 # THE CHECK-RULE LEDGER (#319). Recording a rule name when a Failure is built (`_FIRED`), the
@@ -434,6 +436,7 @@ def force_fields(status, force, bulletin=None, history_repealed=None) -> dict:
     return {}
 
 
+HIST_LINE_RE = re.compile(r"^History:\s*(.*)$", re.M)
 FORCE_FIELD_KEYS = ("repeal_basis", "suspended_by", "suspended_effective",
                     "suspended_through")
 
@@ -1260,6 +1263,55 @@ def load_worklist():
         return None
 
 
+def check_force_fields(texts, bulletin_numbers, today=None) -> list:
+    """The History-derived force fields (#441) must agree with the status beside them, and a
+    rule whose own History carries an operative passed sunset must be recorded as one.
+
+      force-field-agrees-with-status  `repeal_basis` only on a `repealed` document,
+                                      `suspended_by` (and its dates) only on a `current` one,
+                                      and neither on a rule the Bulletin has a status for
+                                      -- the Bulletin is the one voice there.
+      history-force-is-recorded       an operative sunset (`history_force()`) on a rule the
+                                      Bulletin is silent about, whose document is not
+                                      `repealed` and does not say why.
+
+    Only what cannot go stale with the calendar is enforced here (a passed sunset stays
+    passed). Whether a SUSPENSION still holds is a function of today's date and is compared
+    by `enrich_oar.py --check`, the nightly gate that already owns time-varying derivations.
+    """
+    out = []
+    for text in texts:
+        block = FRONTMATTER_BLOCK_RE.match(text)
+        if not block:
+            continue
+        fm = block.group(1)
+        if not (re.search(r"^(?:repeal_basis|suspended_by):", fm, re.M)
+                or "Sunset on" in text):
+            continue
+        id_m = re.search(r"^id:\s*(\S+)", fm, re.M)
+        st_m = DOC_STATUS_RE.search(fm)
+        number = rule_number(id_m.group(1)) if id_m else "?"
+        status = st_m.group(1) if st_m else None
+        spoken = number in bulletin_numbers
+        has_basis = bool(re.search(r"^repeal_basis:", fm, re.M))
+        has_susp = bool(re.search(r"^suspended_(?:by|effective|through):", fm, re.M))
+        if (has_basis and status != "repealed") or (has_susp and status != UNKNOWN_BUT_SERVED):
+            out.append(Failure("force-field-agrees-with-status", number,
+                               f"carries a History-derived force field beside status {status!r}"))
+        elif (has_basis or has_susp) and spoken:
+            out.append(Failure("force-field-agrees-with-status", number,
+                               "carries a History-derived force field though the Bulletin set "
+                               "this rule's status; the Bulletin is the one voice"))
+        if not spoken and not has_basis:
+            hist = HIST_LINE_RE.search(text[block.end():])
+            if hist and history_force(hist.group(1), today).sunset is not None \
+                    and status != "repealed":
+                out.append(Failure("history-force-is-recorded", number,
+                                   "its own History carries a passed sunset and the document "
+                                   f"still says {status!r}: run python3 src/enrich_oar.py"))
+    return out
+
+
 def cmd_check() -> int:
     sites = census()
     catalog = yaml.safe_load(CATALOG.read_text())
@@ -1268,7 +1320,9 @@ def cmd_check() -> int:
     failures = (check_sites(sites)
                 + ingest_status.check_vocabulary(ingest_status.ingest_vocabulary())
                 + check_committed(catalog, doc_status_by_rule(catalog, bulletin_set))
-                + check_filings(catalog, worklist))
+                + check_filings(catalog, worklist)
+                + check_force_fields((p.read_text() for p in _rule_document_paths()),
+                                     set(bulletin_set)))
     if report(failures):
         print(f"\n{len(failures)} legal-status violation(s)", file=sys.stderr)
         return 1
@@ -1585,6 +1639,42 @@ def _proof_history_force(check) -> None:
     check("...and with a 'thru' date already past it is lifted (oar-137-020-0800 shape)",
           history_force("Suspended by DVA 11-2013(Temp), f. & cert. ef. 11-15-13 thru "
                         "1-19-14 DVA 45, f. & ef. 12-1-75 ", today).suspension is None)
+
+
+def _force_doc(status, extra="", history="History: Sunset on 09-28-2017 LCB 1-2000, f. & cert. ef. 2-1-00"):
+    return (f"---\nid: oar-808-005-0010\nstatus: {status}\n{extra}---\n\n## Full text\n\n"
+            f"{history}\n")
+
+
+def _proof_history_force_fields_are_recorded(check) -> None:
+    """`check_force_fields()` (#441): the fields and the status must agree, and a rule whose
+    own History carries an operative passed sunset must say so. Time-independent by
+    construction -- a sunset that has passed stays passed, so this gate cannot go red on a
+    day nobody touched the corpus."""
+    from datetime import date
+    today = date(2026, 10, 7)
+    basis = 'repeal_basis: "sunset 2017-09-28 (History)"\n'
+    good = [_force_doc("repealed", basis)]
+    check("a sunset rule that is repealed with its basis passes",
+          not check_force_fields(good, set(), today))
+    check("a sunset rule still served `current` is refused [history-force-is-recorded]",
+          any(f.rule == "history-force-is-recorded"
+              for f in check_force_fields([_force_doc("current")], set(), today)))
+    check("...but not where the Bulletin has spoken for that rule",
+          not check_force_fields([_force_doc("superseded")],
+                                 {"808-005-0010"}, today))
+    check("a basis on a document that is not repealed is refused [force-field-agrees-with-status]",
+          any(f.rule == "force-field-agrees-with-status" for f in check_force_fields(
+              [_force_doc("current", basis, "History: LCB 1-2000, f. 2-1-00")],
+              set(), today)))
+    check("a suspension on a document that is not current is refused",
+          any(f.rule == "force-field-agrees-with-status" for f in check_force_fields(
+              [_force_doc("repealed", 'suspended_by: "ELECT 14-2026"\n')],
+              set(), today)))
+    check("a force field on a Bulletin-marked rule is refused (the Bulletin is the one voice)",
+          any(f.rule == "force-field-agrees-with-status" for f in check_force_fields(
+              [_force_doc("superseded", 'suspended_by: "ELECT 14-2026"\n')],
+              {"808-005-0010"}, today)))
 
 
 def _proof_the_gate_sees_a_second_writer(check) -> None:
@@ -2118,6 +2208,7 @@ def selftest() -> int:
     _proof_resolve(check)
     _proof_force_status(check)
     _proof_history_force(check)
+    _proof_history_force_fields_are_recorded(check)
     _proof_marking(check)
     sources = _fixture_sources()
     for name, rule in _SOURCE_CASES:
