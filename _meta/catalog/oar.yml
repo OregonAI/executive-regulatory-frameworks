@@ -120065,8 +120065,6 @@ chapters:
       reingest_notice: August 2026 (bulltnRsn=1761)
       note: OARD's results for this number list more than one record; this document mirrors ruleVrsnRsn=335876,
         the record that prints 813-005-0025 (#439)
-      reingest_refused: not_sliceable
-      reingest_refused_notice: August 2026 (bulltnRsn=1761)
     - number: 813-005-0030
       status: ingested
       path: rules/813/005/oar-813-005-0030.md

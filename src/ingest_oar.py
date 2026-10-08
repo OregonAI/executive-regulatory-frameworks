@@ -215,7 +215,7 @@ history are in the full text below.
 _CHECKPOINT_FIELDS = ("status", "note", "served_as", "path")
 
 
-def _write_catalog_merged(cat, my_chapters):
+def _write_catalog_merged(cat, my_chapters, clear=None):
     """Concurrent-safe catalog save for parallel --ingest workers: under an exclusive
     lock, re-read the catalog from disk and write this worker's OWN field updates
     (`_CHECKPOINT_FIELDS`) onto the matching rule rows, by number, plus each touched
@@ -274,6 +274,10 @@ def _write_catalog_merged(cat, my_chapters):
                     for key in _CHECKPOINT_FIELDS:
                         if key in src:
                             r[key] = src[key]
+                    # keys a caller deliberately removed (`clear`: number -> keys); a pop
+                    # on the in-memory row cannot cross by itself, only a set can
+                    for key in (clear or {}).get(r["number"], ()):
+                        r.pop(key, None)
         tmp = CATALOG.parent / ".oar.yml.tmp"
         tmp.write_text(yaml.safe_dump(disk, sort_keys=False, allow_unicode=True, width=100))
         os.replace(tmp, CATALOG)
@@ -432,6 +436,17 @@ def cmd_ingest(chapters, skip_group=False):
     print(f"made {made}, renumbered {renumbered}, skipped {skipped}, failed {failed}")
 
 
+_VERSION_PAIR = re.compile(r"^\d{3}-\d{3}-\d{4}=\d+$")
+
+
+def parse_version_pairs(args):
+    """`NUMBER=RSN` arguments to (number, rsn) tuples; ValueError names the bad one."""
+    for a in args:
+        if not _VERSION_PAIR.match(a):
+            raise ValueError(f"{a!r} is not NUMBER=RSN (e.g. 586-030-0025=153282)")
+    return [tuple(a.split("=", 1)) for a in args]
+
+
 def cmd_ingest_version(pairs):
     """`--ingest-version NUMBER RSN ...` (#439): replace the document at `oar-NUMBER` -- which
     MUST be an OARD search-results page, see `may_replace` -- with the rule record OARD
@@ -451,6 +466,7 @@ def cmd_ingest_version(pairs):
     rows = {r["number"]: (c["chapter"], r) for c in cat["chapters"]
             for d in (c.get("divisions") or []) for r in (d.get("rules") or [])}
     made, failed, chapters = 0, 0, set()
+    cleared = {}
     for number, rsn in pairs:
         doc_id = f"oar-{number}"
         out = oar_rule_path(number)
@@ -492,6 +508,11 @@ def cmd_ingest_version(pairs):
         chapter, row = rows[number]
         chapters.add(chapter)
         row["status"] = "ingested"
+        # a refusal recorded against the results page says the refresh failed; this document
+        # now carries the record's own text, so the refusal is stale (as `reingest_oar --run`
+        # also clears it on success)
+        from reingest_oar import REFUSED_KEYS
+        cleared[number] = [k for k in REFUSED_KEYS if row.pop(k, None) is not None]
         row["path"] = str(out.relative_to(REPO_ROOT))
         row["note"] = (f"OARD's results for this number list more than one record; this document "
                        f"mirrors ruleVrsnRsn={rsn}, the record that prints {number} (#439)")
@@ -507,7 +528,7 @@ def cmd_ingest_version(pairs):
     if made:
         group["sources"] = sorted(gsrc.values(), key=lambda s: s["id"])
         GROUP.write_text(yaml.safe_dump(group, sort_keys=False, allow_unicode=True, width=110))
-        _write_catalog_merged(cat, chapters)
+        _write_catalog_merged(cat, chapters, clear=cleared)
     print(f"replaced {made}, refused {failed}")
     return 1 if failed else 0
 
@@ -977,6 +998,14 @@ def selftest() -> int:
           "overwritten by this path (#439)",
           may_replace("returned 2 results. New Search | Modify Search Rows per page")
           and not may_replace("586-030-0025 Preliminary Matters (1) text"))
+    ok = parse_version_pairs(["586-030-0025=153282"]) == [("586-030-0025", "153282")]
+    try:
+        parse_version_pairs(["586-030-0025"])
+        bad_refused = False
+    except ValueError:
+        bad_refused = True
+    check("--ingest-version arguments are validated: NUMBER=RSN passes, a bare number is "
+          "refused with a message rather than an unpacking crash", ok and bad_refused)
 
     return check.report()
 
@@ -998,7 +1027,11 @@ def main():
     elif a.enumerate:
         cmd_enumerate(a.enumerate)
     elif a.ingest_version:
-        sys.exit(cmd_ingest_version([tuple(x.split("=", 1)) for x in a.ingest_version]))
+        try:
+            pairs = parse_version_pairs(a.ingest_version)
+        except ValueError as e:
+            ap.error(str(e))
+        sys.exit(cmd_ingest_version(pairs))
     elif a.ingest:
         cmd_ingest(a.ingest, a.skip_group)
     else:

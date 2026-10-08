@@ -22,7 +22,7 @@ corpus-wide changes from 2026-08-02 forward.
   added; each document keeps its id `oar-<number>` (ADR 0006: ids are cited; the graph and
   `doc-30-3-4`, `eo-15-18` references stay valid) and now mirrors the one record that prints that number, picked from
   OARD's own current listing of the chapter (`displayChapterRules.action`) where it names one, and for
-  the five rules the listing no longer carries (repealed 2023-2026) the one record whose own page
+  the five rules the listing no longer carries (repealed 2022-2026) the one record whose own page
   prints the number with a repeal in its History. `source_url` is that record's
   `viewSingleRule.action?ruleVrsnRsn=` page; every word of text came from that page through
   `ingest_oar.py`, none typed. Older same-number records and records cited-by-History are listed
@@ -50,8 +50,8 @@ corpus-wide changes from 2026-08-02 forward.
     - `629-001-0030` -> ruleVrsnRsn=161014; also listed: ruleVrsnRsn=161015 "Conduct of Rulemaking Hearing" (History opens "Sunset on…"; same number, not mirrored)
     - `629-620-0200` -> ruleVrsnRsn=162551; also listed: ruleVrsnRsn=162552 "Petroleum Product Precautions" (History opens "Repealed by…"; same number, not mirrored)
     - `635-140-0025` -> ruleVrsnRsn=327639; also listed: ruleVrsnRsn=173336 "Five-Year Review" (History opens "Repealed by…"; same number, not mirrored)
-    - `660-001-0105` -> ruleVrsnRsn=174854; also listed: ruleVrsnRsn=174853 "Hearings Officer’s Authority and Respon­sibility" (History opens "LCD 1-1978,…"; same number, not mirrored)
-    - `660-012-0016` -> ruleVrsnRsn=292992
+    - `660-001-0105` -> ruleVrsnRsn=174854; also listed: ruleVrsnRsn=174853 "Hearings Officer’s Authority and Respon­sibility" (the same rule's non-"Text in ORMS" twin entry, identical History; not mirrored)
+    - `660-012-0016` -> ruleVrsnRsn=292992 (OARD's results page lists it twice, both rows the same record; nothing else to list)
     - `660-025-0230` -> ruleVrsnRsn=175905; also listed: ruleVrsnRsn=175903 "Applicable Rules for Jurisdictions Choosing the Former Process" (History opens "Repealed by…"; same number, not mirrored)
     - `690-080-0010` -> ruleVrsnRsn=178390; also listed: 690-501-0005 Classifications (a different rule that cites 690-080-0010, has its own number); 690-501-0010 Minimum Perennial Streamflows (a different rule that cites 690-080-0010, has its own number); 690-501-0020 Storage (a different rule that cites 690-080-0010, has its own number); 690-501-0030 Out-of-Basin Appropriations (a different rule that cites 690-080-0010, has its own number); 690-501-0040 Water Quality (a different rule that cites 690-080-0010, has its own number)
     - `735-080-0040` -> ruleVrsnRsn=310315; also listed: ruleVrsnRsn=186570 "Mechanical Test Requirements" (History opens "Repealed by…"; same number, not mirrored)
@@ -61,7 +61,7 @@ corpus-wide changes from 2026-08-02 forward.
     - `813-005-0020` -> ruleVrsnRsn=333874; also listed: ruleVrsnRsn=196415 "Sale of Bonds" (History opens "Repealed by…"; same number, not mirrored)
     - `813-005-0025` -> ruleVrsnRsn=335876; also listed: ruleVrsnRsn=196418 "Purchase of Bonds" (History opens "Repealed by…"; same number, not mirrored)
     - `813-005-0030` -> ruleVrsnRsn=196419; also listed: ruleVrsnRsn=196421 "Land Use Goal Compliance and Comprehensive Plan Compatibility" (History opens "Repealed by…"; same number, not mirrored)
-    - `836-010-0014` -> ruleVrsnRsn=202433; also listed: ruleVrsnRsn=202432 "Notice and Procedural Requirements for Expanded Transitional Health Benefit Plans" (History opens "Suspended by…"; same number, not mirrored)
+    - `836-010-0014` -> ruleVrsnRsn=202433; also listed: ruleVrsnRsn=202432 "Notice and Procedural Requirements for Expanded Transitional Health Benefit Plans" (the same rule's non-"Text in ORMS" twin entry, identical History; not mirrored)
     - `836-054-0020` -> ruleVrsnRsn=204658; also listed: ruleVrsnRsn=204654 "Report Content — Product Liability Claim Information" (History opens "Repealed by…"; same number, not mirrored)
     - `858-010-0037` -> ruleVrsnRsn=325808; also listed: ruleVrsnRsn=219915 "Recognition of Training Site" (History opens "Repealed by…"; same number, not mirrored)
     - `918-674-0025` -> ruleVrsnRsn=337297; also listed: ruleVrsnRsn=229397 "Tests of Materials" (History opens "Repealed by…"; same number, not mirrored)
@@ -73,8 +73,11 @@ corpus-wide changes from 2026-08-02 forward.
     - `581-023-0006`: OARD's listing carries two records (ruleVrsnRsn=260963 and 276369) of the same
       rule, byte-identical except 276369 adds a subsection (4)(c) suspending (4)(b) for the 2019-20 and 2020-21 school years
       (both History lines open "ODE 3-2021"). Two live versions share one number; this needs
-      a human decision on an id scheme (e.g. a `ruleVrsnRsn` suffix), which would touch every `\d{4}`
-      id pattern in the pipeline.
+      a human decision on an id scheme. Proposal for that decision: keep `oar-581-023-0006` for the
+      record OARD's own chapter listing names as current and give the other `oar-581-023-0006-v<ruleVrsnRsn>`
+      (a suffix, so the bare id stays the cited one per ADR 0006); this widens every `\d{4}`-anchored
+      id pattern in the pipeline, which is why it is not done here. Until then the document keeps
+      the `results_page_documents` gate red-listed rather than asserting navigation chrome as law.
   - `src/ingest_oar.py`: `is_search_results_page` also fires on a final URL containing
     `ruleSearchResults.action` (imported from `check_source_urls.SOFT_404`, not retyped) and on a
     singular "returned 1 result."; `--ingest` fetches through `ingest_lib.fetch_page` so the final URL
@@ -82,9 +85,21 @@ corpus-wide changes from 2026-08-02 forward.
     two cases it could not see.) New `--ingest-version NUMBER=RSN`, which replaces ONLY a document that
     is itself a results page, refuses a page that prints another number, and mirrors the record by
     version id. Selftest (registered: `ingest_oar.py --selftest`) covers all of it.
+  - `src/reingest_oar.py`: the Bulletin refresh fetches a document's own `viewSingleRule` `source_url`
+    (not the bare-number URL, a results page for these numbers) and passes the final URL to
+    `is_search_results_page`, so both ingest paths share one soft-404 signal. `--ingest-version` clears a
+    stale `reingest_refused` on the row (`813-005-0025` carried one from August 2026 though its
+    document now mirrors that amendment) and rejects a malformed `NUMBER=RSN` with a usage error.
   - Regenerated: `_meta/graph.json`, `REVIEW.md`, `_meta/governor_priorities.json`,
     `_meta/catalog/mechanical-findings.yml`, 85 `relationships` backlinks, `upstream_tracking` on 37
     documents, `_meta/sources/oar.yml` url+sha for the 6 tracked ones; `CONTEXT.md` census figures.
+  - Left for a follow-up (found, not fixed): the 37 documents are pinned to the `ruleVrsnRsn` that is
+    current today. OARD issues a new `ruleVrsnRsn` when a rule is amended, and the bare-number URL is a
+    soft-404 for these numbers, so the drift check (`_meta/sources/oar.yml`) and the Bulletin refresh
+    (`reingest_oar.py`, which now fetches the document's own `source_url` and refuses a results page
+    by final URL too) will see the pinned page as unchanged until the record is re-resolved by
+    hand with `--ingest-version`. A resolver that maps number to current `ruleVrsnRsn` from
+    `displayChapterRules.action` is the fix and is not built here.
   - Left for a follow-up (found, not fixed): seven of the 37 are rules whose History says "Sunset on
     09-28-2017" or "Suspended" (165-014-0090, 333-015-0090, 409-015-0022, 660-001-0105, 808-001-0035,
     808-005-0010, 836-010-0014) and are `status: current` by the corpus's existing convention for
