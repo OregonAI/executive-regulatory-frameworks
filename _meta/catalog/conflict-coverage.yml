@@ -1819,8 +1819,8 @@ chapters:
   depth: chapter
   sections_with_rules: 47
   sections_screened: 47
-  n_agencies: 123
-  n_rules: 758
+  n_agencies: 122
+  n_rules: 757
   audit_cited: true
   runs:
   - das-v5-think-2026-07
