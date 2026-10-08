@@ -13,6 +13,7 @@ corpus-wide changes from 2026-08-02 forward.
 ### Fixed
 - 2026-10-07 — **Pinned OAR documents resolve their current version through OARD's chapter listing (#440), and a rule's own History decides sunset and suspension (#441).**
   One PR because both touch the same documents.
+  - **`enrich_oar.py --check` is judged as of each document's `retrieved` date** (`legal_status.retrieved_as_of`, the reading `check_force_fields` uses), so the two `suspended_through: "2026-10-07"` documents (`735-063-0265`, `-0268`) do not turn the nightly red on 2026-10-08; the write path still stamps as of the refresh date.
   - **#440, the resolver.** `src/oar_current_version.py` reads OARD's `displayChapterRules.action`
     listing of record (chapter id from `_meta/catalog/oar.yml`, fetched once per chapter through the
     honest-UA fetcher) and maps every rule number to the `ruleVrsnRsn` its row links. Per number:

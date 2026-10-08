@@ -1270,14 +1270,26 @@ def load_worklist():
         return None
 
 
-def _retrieved_date(fm: str):
-    """The document's `retrieved` date, or today when it has none / it does not parse."""
-    from datetime import date
-    m = re.search(r'^retrieved:\s*"?(\d{4})-(\d{2})-(\d{2})', fm, re.M)
+def retrieved_as_of(retrieved):
+    """The date a document is judged AS OF: its `retrieved` frontmatter value (a date, a
+    datetime or an ISO string), or today when it has none / it does not parse. The one
+    reading every gate shares, so a gate and `check_force_fields` cannot disagree."""
+    from datetime import date, datetime
+    if isinstance(retrieved, datetime):
+        return retrieved.date()
+    if isinstance(retrieved, date):
+        return retrieved
+    m = re.match(r'\s*"?(\d{4})-(\d{2})-(\d{2})', str(retrieved or ""))
     try:
         return date(*map(int, m.groups())) if m else date.today()
     except ValueError:
         return date.today()
+
+
+def _retrieved_date(fm: str):
+    """The document's `retrieved` date, or today when it has none / it does not parse."""
+    m = re.search(r'^retrieved:\s*(.*)$', fm, re.M)
+    return retrieved_as_of(m.group(1) if m else None)
 
 
 def check_force_fields(texts, bulletin_numbers, today=None) -> list:

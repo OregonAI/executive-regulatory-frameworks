@@ -42,7 +42,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import yaml
 
 from legal_status import (FORCE_FIELD_KEYS, bulletin_status_by_rule, force_fields,
-                          history_force, resolve, rule_number)
+                          history_force, resolve, retrieved_as_of, rule_number)
 from repo_lib import REPO_ROOT, Checks, content_files, parse_frontmatter
 
 AUTH_RE = re.compile(r"Statutory/Other Authority:\s*(.*?)\s*(?=Statutes/Other Implemented:|History:|$)", re.S)
@@ -291,6 +291,19 @@ def apply(path: Path, d: dict) -> bool:
     return False
 
 
+def check_as_of(fm: dict, today=None):
+    """The date `--check` judges a document's History-derived force fields AS OF.
+
+    THE RULE: the gate judges a document as of its own `retrieved` date (the same reading
+    `legal_status.check_force_fields` uses, via `legal_status.retrieved_as_of`), never as of
+    the calendar, so a suspension that ends (or a sunset that arrives) after the commit does
+    not turn the nightly red with nothing changed. The WRITE path (`python3 src/enrich_oar.py`,
+    ingest and refresh) stamps as of the refresh date, because a refresh also moves `retrieved`.
+    An injected `today` wins (selftests).
+    """
+    return today or retrieved_as_of(fm.get("retrieved"))
+
+
 def expected_mismatch(fm: dict, d: dict) -> list:
     """Field names where current frontmatter differs from the derived values."""
     bad = []
@@ -422,6 +435,18 @@ def selftest() -> int:
     check("a document still carrying a suspension that no longer holds is drift",
           "suspended_by" in expected_mismatch(fm_s, derive(
               susp_body, "oar-125-010-0005", reg, today=date(2027, 1, 1))))
+    # --check judges as of the document's own `retrieved`, not the calendar: a suspension
+    # whose through date has passed since the commit is still what the document recorded.
+    check("--check judges as of `retrieved`: a past suspended_through is not drift",
+          expected_mismatch(fm_s, derive(susp_body, "oar-125-010-0005", reg,
+                                         today=check_as_of(dict(fm_s, retrieved="2026-12-01"))))
+          == [])
+    check("...and as of the calendar it would be (the failure this prevents)",
+          "suspended_by" in expected_mismatch(fm_s, derive(
+              susp_body, "oar-125-010-0005", reg, today=date(2027, 1, 1))))
+    check("an injected today wins over retrieved",
+          check_as_of(dict(retrieved="2026-12-01"), date(2027, 1, 1)) == date(2027, 1, 1)
+          and check_as_of({"retrieved": date(2026, 12, 1)}) == date(2026, 12, 1))
     import tempfile
     with tempfile.TemporaryDirectory() as tmp:
         f = Path(tmp) / "oar-125-010-0005.md"
@@ -465,7 +490,7 @@ def main():
     for p in targets:
         fm, body = parse_frontmatter(p)
         d = derive(body, fm["id"], registry, bulletin.get(rule_number(fm["id"])),
-                   fm.get("status"))
+                   fm.get("status"), today=check_as_of(fm) if check else None)
         if check:
             bad = expected_mismatch(fm, d)
             if bad:
