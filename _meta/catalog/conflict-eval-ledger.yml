@@ -36,3 +36,19 @@ evaluations:
   basis: historical — 76 of 109 proposed candidates survived the quote gate (33 dropped
     for quotes not in the cited document); recorded from run haiku-scan-2026-07-31's
     merge notes
+- model: claude-haiku-5-5
+  prompt_version: conflict-v7c-chapter-2026-10
+  ground_truth_run: pilot-2026-07
+  recall: 5/30
+  recall_pct: 16.7
+  grounding_pct: 99.4
+  bundles_answered: 158/158
+  date: '2026-10-08'
+  basis: measured by eval_conflicts.py --from-raw over two replicates of the chapter-unit
+    harness (one Claude Code agent per ORS chapter, rules arm) on the 11 pilot chapters
+    328, 332, 543, 107, 646A, 205, 171, 162, 105, 320, 801 — recall 5/30 in each
+    replicate, grounding 90/91 and 78/78 (168/169 combined). Appended by hand rather
+    than by --record because --record stores the short prompt name and its choices stop
+    at v6, while the merge gate compares the full prompt_version string. Recall is LOW —
+    below the batch-2 figure that created this ledger — so candidates from this pair
+    are a screen of what the model noticed, never a measure of what exists.
