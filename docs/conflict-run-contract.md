@@ -22,7 +22,8 @@ shared-authority chapter the depth actually reached — `chapter`, `sections-par
 agencies sharing the chapter × rule mass × audit corroboration × unscreened share.
 **The next run reads from the top of this file.** The batch-3 rule (smallest chapters
 first, to bound tokens) is retired; cost is bounded by taking fewer units, never by
-preferring low-value ones. Current truth: 1,843 of 6,177 sections screened.
+preferring low-value ones. Current truth (2026-10-09): 5,034 of 7,036 sections screened;
+225 of 264 chapters read in full, 26 in part, 13 not at all.
 
 ## 3. The run envelope is fixed (CONTRACT)
 
@@ -56,6 +57,8 @@ merged output).
 Section-scoped is the default sweep (cheaper, targeted, the unit `analyze_conflicts`
 was built around); chapter-scoped is the escalation tier for chapters where sections
 produced confirmed candidates. And generation is paced to review: with 1,398 candidates
-unreviewed, another thousand deepens the backlog without adding knowledge. The coverage
+unreviewed, another thousand deepens the backlog without adding knowledge. (The operator
+chose breadth anyway on 2026-10-08: the chapter-unit run added 1,272, so 2,670 are now
+unreviewed. The prompt that run used is docs/conflict-prompt-v7c-chapter-2026-10.md.) The coverage
 ledger says what is left; the eval gate says a run will be worth reading; the triage
 queue says when there is room for it.
