@@ -10,6 +10,13 @@ file's frontmatter).
 
 ### Fixed
 
+- `src/ingest_ors.py` no longer refuses a short, complete section as "no section body found":
+  24.335 (111 characters) and 587.010 (102) were withheld by a flat 120-character floor and
+  are now ingested. A short slice is accepted only when ORS's catchline terminator and text
+  after it are present; a TOC row stays refused. Refusals by the anchor check now quote the
+  catalog title and the catchline words the anchor found (31.262, 67.042 and 67.600 stay
+  refused; see their `note` in `_meta/catalog/ors.yml`).
+
 - Catalog `title` divergences from their own printed catchline (#286): the TOC parser's
   `XREF_RE` widened to also mask "to"-joined section ranges, not just "and"-joined lists,
   fixing the truncation/heading-theft bug at its cause (`src/catalog_ors.py`). Of the 27

@@ -118,7 +118,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 237 | PUBLIC EMPLOYEE RETIREMENT GENERALLY | 43 | 41 |
 | 238 | Public Employees Retirement System | 154 | 154 |
 | 238A | Oregon Public Service Retirement Plan | 59 | 59 |
-| 24 | Enforcement and Recognition of Foreign Judgments; Foreign-Money Claims | 39 | 38 |
+| 24 | Enforcement and Recognition of Foreign Judgments; Foreign-Money Claims | 39 | 39 |
 | 240 | State Personnel Relations | 66 | 65 |
 | 241 | Civil Service for County Employees | 63 | 62 |
 | 242 | Civil Service for City or School District Employees and Firefighters | 69 | 67 |
@@ -422,7 +422,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 583 | Milk Marketing, Production and Distribution (Former Provisions) | 0 | 0 |
 | 585 | Produce Dealers (Former Provisions) | 0 | 0 |
 | 586 | Warehouses | 37 | 36 |
-| 587 | Storage of Grain as Basis of Farm Credit | 15 | 14 |
+| 587 | Storage of Grain as Basis of Farm Credit | 15 | 15 |
 | 59 | Securities Regulation | 79 | 79 |
 | 596 | Disease Control Generally | 50 | 50 |
 | 599 | Livestock Auction Markets; Stockyards; Auction Sales | 39 | 39 |
@@ -619,7 +619,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 97 | Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts | 149 | 149 |
 | 98 | Lost, Unclaimed or Abandoned Property; Vehicle Towing | 97 | 97 |
 | 99 | Property Removed by High Water | 6 | 6 |
-| **all** | | **39054** | **38828** |
+| **all** | | **39054** | **38830** |
 
 Per-section numbers/titles/paths: [`_meta/catalog/ors.yml`](../_meta/catalog/ors.yml).
 Sections marked `not_sliceable` there have no body text in the chapter HTML

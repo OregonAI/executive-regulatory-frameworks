@@ -29975,9 +29975,8 @@ chapters:
     path: statutes/ors-24.330.md
   - number: '24.335'
     title: Short title
-    status: not_sliceable
-    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
-      artifact); not ingested
+    status: ingested
+    path: statutes/ors-24.335.md
   - number: '24.350'
     title: Definitions for ORS
     status: ingested
@@ -48391,8 +48390,9 @@ chapters:
   - number: '31.262'
     title: Notice of adverse health care incident
     status: not_sliceable
-    note: catalog title does not match this section's own printed catchline at the anchor point; not ingested
-      (verify the catalog title against the source before re-running)
+    note: 'catalog title does not match this section''s own printed catchline at the anchor point; not
+      ingested (verify the catalog title against the source before re-running). Catalog title: ''Notice
+      of adverse health care incident''. Catchline words found at the anchor: ''act may enter into mediation''.'
   - number: '31.264'
     title: Discussion of adverse health care incident; offers of compensation; reporting to commission
     status: ingested
@@ -111876,9 +111876,8 @@ chapters:
   sections:
   - number: '587.010'
     title: Definitions
-    status: not_sliceable
-    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
-      artifact); not ingested
+    status: ingested
+    path: statutes/ors-587.010.md
   - number: '587.020'
     title: Purpose of chapter
     status: ingested
@@ -126093,8 +126092,10 @@ chapters:
   - number: '67.042'
     title: Effect of partnership agreement; non- waivable provisions
     status: not_sliceable
-    note: catalog title does not match this section's own printed catchline at the anchor point; not ingested
-      (verify the catalog title against the source before re-running)
+    note: 'catalog title does not match this section''s own printed catchline at the anchor point; not
+      ingested (verify the catalog title against the source before re-running). Catalog title: ''Effect
+      of partnership agreement; non- waivable provisions''. Catchline words found at the anchor: ''effect
+      of partnership agreement nonwaivable provisions''.'
   - number: '67.044'
     title: Supplemental principles of law
     status: ingested
@@ -126278,8 +126279,10 @@ chapters:
   - number: '67.600'
     title: Eligibility for registration as limited liability partnership; required vote
     status: not_sliceable
-    note: catalog title does not match this section's own printed catchline at the anchor point; not ingested
-      (verify the catalog title against the source before re-running)
+    note: 'catalog title does not match this section''s own printed catchline at the anchor point; not
+      ingested (verify the catalog title against the source before re-running). Catalog title: ''Eligibility
+      for registration as limited liability partnership; required vote''. Catchline words found at the
+      anchor: ''eligibility for registration as a limited liability partnership required vote''.'
   - number: '67.603'
     title: Application for registration; effective date; fee; duration of status as limited liability
       partnership
