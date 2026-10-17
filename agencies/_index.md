@@ -29,6 +29,7 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Citizens' Initiative Review Commission | semi-independent | unknown | 5 | 5 | 0 | 0 | — |
 | Columbia River Gorge Commission | executive branch | unknown | 378 | 378 | 0 | 0 | — |
 | Commission for the Blind | executive branch | unknown | 57 | 57 | 0 | 0 | — |
+| Commission on Statewide Law Enforcement Standards of Conduct and Discipline | executive branch | unknown | 18 | 18 | 0 | 0 | — |
 | Construction Contractors Board | executive branch | unknown | 319 | 319 | 0 | 0 | — |
 | [Department of Administrative Services](department-of-administrative-services/_index.md) | executive branch | web | 764 | 752 | 3 | 12 | 2026-07-18 |
 | Department of Administrative Services, Chief Financial Office | executive branch | web | 33 | 33 | 0 | 0 | 2026-07-18 |
@@ -65,6 +66,7 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Department of Consumer and Business Services, Health Insurance Marketplace | executive branch | unknown | 26 | 26 | 0 | 0 | — |
 | Department of Consumer and Business Services, Insurance Regulation | executive branch | unknown | 1095 | 1095 | 0 | 0 | — |
 | Department of Consumer and Business Services, Oregon Occupational Safety and Health Division | executive branch | unknown | 649 | 649 | 0 | 0 | — |
+| Department of Consumer and Business Services, Prescription Drug Affordability Board | executive branch | unknown | 5 | 5 | 0 | 0 | — |
 | Department of Consumer and Business Services, Workers' Compensation Board | executive branch | unknown | 228 | 228 | 0 | 0 | — |
 | Department of Consumer and Business Services, Workers' Compensation Division | executive branch | unknown | 467 | 467 | 0 | 0 | — |
 | [Department of Corrections](department-of-corrections/_index.md) | executive branch | web | 1102 | 1102 | 0 | 0 | 2026-07-20 |
@@ -134,6 +136,7 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Oregon Forest Resources Institute | executive branch | unknown | 12 | 12 | 0 | 0 | — |
 | Oregon Government Ethics Commission | executive branch | unknown | 59 | 59 | 0 | 0 | — |
 | [Oregon Health Authority](oregon-health-authority/_index.md) | executive branch | web | 308 | 308 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Drug Treatment and Recovery Services | executive branch | unknown | 19 | 19 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority Equity and Inclusion Division | executive branch | unknown | 59 | 59 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Health Licensing Office | executive branch | unknown | 315 | 315 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board | executive branch | unknown | 12 | 12 | 0 | 0 | 2026-07-21 |
@@ -143,13 +146,16 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians | executive branch | unknown | 8 | 8 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board | executive branch | unknown | 14 | 14 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board | executive branch | unknown | 18 | 18 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Health Licensing Office, State Board of Sign Language Interpreters | executive branch | unknown | 20 | 20 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Health Policy and Analytics | executive branch | unknown | 189 | 189 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Health Systems Division: Addiction Services | executive branch | unknown | 136 | 136 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Health Systems Division: Behavioral Health Services | executive branch | unknown | 649 | 649 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Health Systems Division: Medical Assistance Programs | executive branch | unknown | 859 | 859 | 0 | 0 | 2026-07-21 |
+| Oregon Health Authority, Oregon Educators Benefit Board | executive branch | unknown | 76 | 76 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Oregon Prescription Drug Program | executive branch | unknown | 7 | 7 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Public Employees' Benefit Board | executive branch | unknown | 71 | 71 | 0 | 0 | 2026-07-21 |
 | Oregon Health Authority, Public Health Division | executive branch | unknown | 2657 | 2657 | 0 | 0 | 2026-07-21 |
+| Oregon Hemp Commission | executive branch | unknown | 31 | 31 | 0 | 0 | — |
 | Oregon Housing and Community Services Department | executive branch | unknown | 788 | 788 | 0 | 0 | — |
 | Oregon Investment Council | executive branch | unknown | 3 | 3 | 0 | 0 | — |
 | Oregon Liquor Control Commission | executive branch | unknown | 477 | 477 | 0 | 0 | — |
@@ -166,12 +172,13 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Oregon Tourism Commission | semi-independent | unknown | 6 | 6 | 0 | 0 | — |
 | Oregon Utility Notification Center | executive branch | unknown | 13 | 13 | 0 | 0 | — |
 | [Oregon Watershed Enhancement Board](oregon-watershed-enhancement-board/_index.md) | executive branch | web | 153 | 153 | 0 | 0 | 2026-07-21 |
+| Oregon Watershed Enhancement Board, Environmental Restoration Council | executive branch | unknown | 17 | 17 | 0 | 0 | 2026-07-21 |
 | Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program | executive branch | unknown | 65 | 65 | 0 | 0 | 2026-07-21 |
 | Oregon Wine Board | semi-independent | unknown | 6 | 6 | 0 | 0 | — |
 | [Oregon Youth Authority](oregon-youth-authority/_index.md) | executive branch | web | 410 | 410 | 0 | 0 | 2026-07-21 |
 | Parks and Recreation Department | executive branch | unknown | 540 | 540 | 0 | 0 | — |
 | Psychiatric Security Review Board | executive branch | unknown | 227 | 227 | 0 | 0 | — |
-| Public Records Advocate | unclassified | unknown | 1 | 1 | 0 | 0 | — |
+| Public Records Advocate | executive branch | unknown | 15 | 15 | 0 | 0 | — |
 | [Public Utility Commission](public-utility-commission/_index.md) | executive branch | web | 878 | 878 | 0 | 0 | 2026-07-21 |
 | Public Utility Commission, Oregon Board of Maritime Pilots | executive branch | unknown | 57 | 57 | 0 | 0 | 2026-07-21 |
 | Real Estate Agency | executive branch | unknown | 229 | 229 | 0 | 0 | — |
@@ -185,6 +192,7 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Southern Oregon University | executive branch | unknown | 10 | 10 | 0 | 0 | — |
 | State Board of Architect Examiners | semi-independent | unknown | 32 | 32 | 0 | 0 | — |
 | State Board of Tax Practitioners | executive branch | unknown | 48 | 48 | 0 | 0 | — |
+| State Board of Towing | executive branch | unknown | 37 | 37 | 0 | 0 | — |
 | Teacher Standards and Practices Commission | executive branch | unknown | 330 | 330 | 0 | 0 | — |
 | Travel Information Council | semi-independent | unknown | 39 | 39 | 0 | 0 | — |
 | Veterinary Medical Examining Board | executive branch | unknown | 40 | 40 | 0 | 0 | — |

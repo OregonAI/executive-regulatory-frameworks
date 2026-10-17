@@ -8710,6 +8710,538 @@
    "path": "rules/105/050/oar-105-050-0030.md"
   },
   {
+   "id": "oar-111-001-0000",
+   "title": "Notice of Proposed Rule Changes",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/001/oar-111-001-0000.md"
+  },
+  {
+   "id": "oar-111-001-0005",
+   "title": "Uniform and Model Rules of Procedure",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/001/oar-111-001-0005.md"
+  },
+  {
+   "id": "oar-111-002-0005",
+   "title": "Powers and Duties of the Board",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/002/oar-111-002-0005.md"
+  },
+  {
+   "id": "oar-111-002-0010",
+   "title": "Conduct of Meetings of the Board",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/002/oar-111-002-0010.md"
+  },
+  {
+   "id": "oar-111-005-0010",
+   "title": "Policy",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/005/oar-111-005-0010.md"
+  },
+  {
+   "id": "oar-111-005-0015",
+   "title": "Renewal, Screening and Selection for Benefits, Vendor and Personal Services Contracts",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/005/oar-111-005-0015.md"
+  },
+  {
+   "id": "oar-111-005-0020",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/005/oar-111-005-0020.md"
+  },
+  {
+   "id": "oar-111-005-0040",
+   "title": "Extensive Procurement Process",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/005/oar-111-005-0040.md"
+  },
+  {
+   "id": "oar-111-005-0042",
+   "title": "Intermediate Procurement Process",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/005/oar-111-005-0042.md"
+  },
+  {
+   "id": "oar-111-005-0044",
+   "title": "Small Procurement Process",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/005/oar-111-005-0044.md"
+  },
+  {
+   "id": "oar-111-005-0046",
+   "title": "Sole Source Procurement Process",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/005/oar-111-005-0046.md"
+  },
+  {
+   "id": "oar-111-005-0047",
+   "title": "Renewal Process",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/005/oar-111-005-0047.md"
+  },
+  {
+   "id": "oar-111-005-0048",
+   "title": "Emergency Contract Process",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/005/oar-111-005-0048.md"
+  },
+  {
+   "id": "oar-111-005-0050",
+   "title": "Mistakes",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/005/oar-111-005-0050.md"
+  },
+  {
+   "id": "oar-111-005-0055",
+   "title": "Responsible Proposer",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/005/oar-111-005-0055.md"
+  },
+  {
+   "id": "oar-111-005-0080",
+   "title": "Contract Amendments",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/005/oar-111-005-0080.md"
+  },
+  {
+   "id": "oar-111-010-0015",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/010/oar-111-010-0015.md"
+  },
+  {
+   "id": "oar-111-015-0001",
+   "title": "Eligible Individuals",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/015/oar-111-015-0001.md"
+  },
+  {
+   "id": "oar-111-020-0001",
+   "title": "Initial Employee Group Phase-in",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/020/oar-111-020-0001.md"
+  },
+  {
+   "id": "oar-111-020-0005",
+   "title": "Employee Group Phase-in for Non-subject Districts",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/020/oar-111-020-0005.md"
+  },
+  {
+   "id": "oar-111-020-0010",
+   "title": "Entities Electing to Join OEBB",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/020/oar-111-020-0010.md"
+  },
+  {
+   "id": "oar-111-030-0010",
+   "title": "Medical, Pharmaceutical, Dental and Vision Plan Selection Criteria",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/030/oar-111-030-0010.md"
+  },
+  {
+   "id": "oar-111-030-0011",
+   "title": "Bronze Medical Plan Offering",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/030/oar-111-030-0011.md"
+  },
+  {
+   "id": "oar-111-030-0035",
+   "title": "Optional Benefit Plans Selection Criteria",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/030/oar-111-030-0035.md"
+  },
+  {
+   "id": "oar-111-030-0040",
+   "title": "Long Term Care (LTC) Benefit Plan Selection Criteria",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/030/oar-111-030-0040.md"
+  },
+  {
+   "id": "oar-111-030-0045",
+   "title": "Employee Assistance Program (EAP) Plan Selection Criteria",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/030/oar-111-030-0045.md"
+  },
+  {
+   "id": "oar-111-030-0046",
+   "title": "Development of Health Savings Accounts (HSA)",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/030/oar-111-030-0046.md"
+  },
+  {
+   "id": "oar-111-030-0047",
+   "title": "Development of Flexible Spending Accounts",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/030/oar-111-030-0047.md"
+  },
+  {
+   "id": "oar-111-030-0050",
+   "title": "Premium Rate Structure Selection Process and Limitations",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/030/oar-111-030-0050.md"
+  },
+  {
+   "id": "oar-111-040-0001",
+   "title": "Effective Dates",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/040/oar-111-040-0001.md"
+  },
+  {
+   "id": "oar-111-040-0005",
+   "title": "Termination Dates",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/040/oar-111-040-0005.md"
+  },
+  {
+   "id": "oar-111-040-0010",
+   "title": "Newly-hired and Newly-eligible Employees",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/040/oar-111-040-0010.md"
+  },
+  {
+   "id": "oar-111-040-0011",
+   "title": "Returning to Benefit Eligible Status",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/040/oar-111-040-0011.md"
+  },
+  {
+   "id": "oar-111-040-0015",
+   "title": "Removing an Ineligible Individual from Benefit Plans",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/040/oar-111-040-0015.md"
+  },
+  {
+   "id": "oar-111-040-0020",
+   "title": "Open Enrollment",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/040/oar-111-040-0020.md"
+  },
+  {
+   "id": "oar-111-040-0025",
+   "title": "Correcting Enrollment and Processing Errors",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/040/oar-111-040-0025.md"
+  },
+  {
+   "id": "oar-111-040-0030",
+   "title": "Late Enrollment",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/040/oar-111-040-0030.md"
+  },
+  {
+   "id": "oar-111-040-0040",
+   "title": "Qualified Status Changes (QSCs)",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/040/oar-111-040-0040.md"
+  },
+  {
+   "id": "oar-111-040-0050",
+   "title": "Declination of Coverage",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/040/oar-111-040-0050.md"
+  },
+  {
+   "id": "oar-111-040-0055",
+   "title": "Surcharges",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/040/oar-111-040-0055.md"
+  },
+  {
+   "id": "oar-111-050-0001",
+   "title": "Continuation of Group Medical and Dental Insurance Coverage under the Consolidated Omnibus Budget Reconciliation Act (COBRA)",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0001.md"
+  },
+  {
+   "id": "oar-111-050-0010",
+   "title": "Eligibility for Retiree Insurance Coverage",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0010.md"
+  },
+  {
+   "id": "oar-111-050-0015",
+   "title": "Medical, Dental and Vision Termination Dates for Early Retirees",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0015.md"
+  },
+  {
+   "id": "oar-111-050-0016",
+   "title": "Life and Accidental Death and Dismemberment Termination Dates for Early Retirees",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0016.md"
+  },
+  {
+   "id": "oar-111-050-0020",
+   "title": "Initial Enrollment",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0020.md"
+  },
+  {
+   "id": "oar-111-050-0025",
+   "title": "Effective Dates",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0025.md"
+  },
+  {
+   "id": "oar-111-050-0030",
+   "title": "Correcting Enrollment and Processing Errors",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0030.md"
+  },
+  {
+   "id": "oar-111-050-0035",
+   "title": "Late Enrollment",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0035.md"
+  },
+  {
+   "id": "oar-111-050-0045",
+   "title": "Termination Dates",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0045.md"
+  },
+  {
+   "id": "oar-111-050-0050",
+   "title": "Removing an Ineligible Individual from Benefit Plans",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0050.md"
+  },
+  {
+   "id": "oar-111-050-0060",
+   "title": "Continuation of Coverage for Eligible Employees Covered under the Federal Family Medical Leave Act",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0060.md"
+  },
+  {
+   "id": "oar-111-050-0065",
+   "title": "Continuation of Coverage for Eligible Employees Covered under the Oregon Family Leave Act",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0065.md"
+  },
+  {
+   "id": "oar-111-050-0070",
+   "title": "Continuation of Coverage for Eligible Employees during an Approved Leave of Absence.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0070.md"
+  },
+  {
+   "id": "oar-111-050-0075",
+   "title": "Continuation of coverage for Eligible Employees on Active Military Service",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0075.md"
+  },
+  {
+   "id": "oar-111-050-0080",
+   "title": "Portability and Conversion of Coverage",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/050/oar-111-050-0080.md"
+  },
+  {
+   "id": "oar-111-060-0001",
+   "title": "Use of Social Security Numbers",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/060/oar-111-060-0001.md"
+  },
+  {
+   "id": "oar-111-065-0001",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/065/oar-111-065-0001.md"
+  },
+  {
+   "id": "oar-111-065-0005",
+   "title": "Untitled",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/065/oar-111-065-0005.md"
+  },
+  {
+   "id": "oar-111-065-0010",
+   "title": "OEBB Early Retiree Invoicing",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/065/oar-111-065-0010.md"
+  },
+  {
+   "id": "oar-111-065-0015",
+   "title": "Early Retiree Payment Methods and Due Dates",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/065/oar-111-065-0015.md"
+  },
+  {
+   "id": "oar-111-065-0020",
+   "title": "Early Retiree Overpayments",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/065/oar-111-065-0020.md"
+  },
+  {
+   "id": "oar-111-065-0025",
+   "title": "Early Retiree Underpayments",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/065/oar-111-065-0025.md"
+  },
+  {
+   "id": "oar-111-065-0030",
+   "title": "Termination",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/065/oar-111-065-0030.md"
+  },
+  {
+   "id": "oar-111-065-0035",
+   "title": "Appeals",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/065/oar-111-065-0035.md"
+  },
+  {
+   "id": "oar-111-065-0040",
+   "title": "Continuation of Coverage",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/065/oar-111-065-0040.md"
+  },
+  {
+   "id": "oar-111-070-0075",
+   "title": "Administration of SB 551 Program",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/070/oar-111-070-0075.md"
+  },
+  {
+   "id": "oar-111-080-0001",
+   "title": "Payment Methods and Dates",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/080/oar-111-080-0001.md"
+  },
+  {
+   "id": "oar-111-080-0005",
+   "title": "Overpayments and Underpayments",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/080/oar-111-080-0005.md"
+  },
+  {
+   "id": "oar-111-080-0030",
+   "title": "Appeals and Administrative Reviews",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/080/oar-111-080-0030.md"
+  },
+  {
+   "id": "oar-111-080-0040",
+   "title": "Eligibility and Policy Term Violations — Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/080/oar-111-080-0040.md"
+  },
+  {
+   "id": "oar-111-080-0045",
+   "title": "Eligibility Violations",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/080/oar-111-080-0045.md"
+  },
+  {
+   "id": "oar-111-080-0050",
+   "title": "Policy Term Violations",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/080/oar-111-080-0050.md"
+  },
+  {
+   "id": "oar-111-080-0055",
+   "title": "Eligibility Verifications and Reviews",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/080/oar-111-080-0055.md"
+  },
+  {
+   "id": "oar-111-080-0060",
+   "title": "Dependent Eligibility Verifications and Review Appeals",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/080/oar-111-080-0060.md"
+  },
+  {
+   "id": "oar-111-080-0065",
+   "title": "Hospital Payments",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/080/oar-111-080-0065.md"
+  },
+  {
+   "id": "oar-111-080-0070",
+   "title": "Exempt Hospitals",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/111/080/oar-111-080-0070.md"
+  },
+  {
    "id": "oar-114-001-0000",
    "title": "Notice to Interested Persons",
    "doc_type": "rule",
@@ -45096,6 +45628,104 @@
    "path": "rules/177/200/oar-177-200-0090.md"
   },
   {
+   "id": "oar-180-001-0000",
+   "title": "Notice of Proposed Rule",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0000.md"
+  },
+  {
+   "id": "oar-180-001-0001",
+   "title": "Model Rules of Procedure",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0001.md"
+  },
+  {
+   "id": "oar-180-001-0002",
+   "title": "Facilitated Dispute Resolution Services",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0002.md"
+  },
+  {
+   "id": "oar-180-001-0003",
+   "title": "Effective Date; Applicability",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0003.md"
+  },
+  {
+   "id": "oar-180-001-0004",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0004.md"
+  },
+  {
+   "id": "oar-180-001-0005",
+   "title": "Facilitated Dispute Resolution Policy",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0005.md"
+  },
+  {
+   "id": "oar-180-001-0006",
+   "title": "Procedure Governing Facilitated Dispute Resolution",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0006.md"
+  },
+  {
+   "id": "oar-180-001-0007",
+   "title": "Standards of Conduct for Eligible Parties",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0007.md"
+  },
+  {
+   "id": "oar-180-001-0008",
+   "title": "Remedies Available Under Facilitated Dispute Resolution",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0008.md"
+  },
+  {
+   "id": "oar-180-001-0009",
+   "title": "Outcomes of facilitated dispute resolution",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0009.md"
+  },
+  {
+   "id": "oar-180-001-0010",
+   "title": "Notice of Agency Decision",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0010.md"
+  },
+  {
+   "id": "oar-180-001-0011",
+   "title": "Reconsideration – Orders in Other than Contested Case",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0011.md"
+  },
+  {
+   "id": "oar-180-001-0012",
+   "title": "Judicial review of Advocate's good faith findings",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0012.md"
+  },
+  {
+   "id": "oar-180-001-0013",
+   "title": "Confidentiality of facilitated dispute resolution communications and agreements",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/180/001/oar-180-001-0013.md"
+  },
+  {
    "id": "oar-198-001-0000",
    "title": "Notice to Interested Persons of Agency Action Concerning Rules",
    "doc_type": "rule",
@@ -53907,6 +54537,132 @@
    "doc_type": "rule",
    "status": "current",
    "path": "rules/259/090/oar-259-090-0010.md"
+  },
+  {
+   "id": "oar-265-001-0001",
+   "title": "Model Rules of Procedure",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/001/oar-265-001-0001.md"
+  },
+  {
+   "id": "oar-265-001-0005",
+   "title": "Notice of Proposed Rules",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/001/oar-265-001-0005.md"
+  },
+  {
+   "id": "oar-265-001-0010",
+   "title": "Public Records Requests",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/001/oar-265-001-0010.md"
+  },
+  {
+   "id": "oar-265-005-0001",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/005/oar-265-005-0001.md"
+  },
+  {
+   "id": "oar-265-005-0005",
+   "title": "Application of Oregon Revised Statutes",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/005/oar-265-005-0005.md"
+  },
+  {
+   "id": "oar-265-005-0010",
+   "title": "Burden of Proof",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/005/oar-265-005-0010.md"
+  },
+  {
+   "id": "oar-265-005-0015",
+   "title": "Disciplinary Action for Misconduct Not Identified By These Rules",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/005/oar-265-005-0015.md"
+  },
+  {
+   "id": "oar-265-005-0020",
+   "title": "Multiple Instances of Misconduct; Arbitrary and Capricious Discipline",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/005/oar-265-005-0020.md"
+  },
+  {
+   "id": "oar-265-005-0025",
+   "title": "Incorporation of Rules",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/005/oar-265-005-0025.md"
+  },
+  {
+   "id": "oar-265-005-0030",
+   "title": "Application of Aggravating and Mitigating Factors",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/005/oar-265-005-0030.md"
+  },
+  {
+   "id": "oar-265-010-0001",
+   "title": "Sexual Assault",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/010/oar-265-010-0001.md"
+  },
+  {
+   "id": "oar-265-010-0005",
+   "title": "Sexual Harassment",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/010/oar-265-010-0005.md"
+  },
+  {
+   "id": "oar-265-010-0010",
+   "title": "Assault",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/010/oar-265-010-0010.md"
+  },
+  {
+   "id": "oar-265-010-0015",
+   "title": "Unjustified or Excessive Use of Physical or Deadly Force",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/010/oar-265-010-0015.md"
+  },
+  {
+   "id": "oar-265-010-0020",
+   "title": "Conduct that is Motivated by or Based on a Real or Perceived Factor of an Individual's Race, Ethnicity, National Origin, Sex, Gender Identity, Sexual Orientation, Religion, or Homelessness",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/010/oar-265-010-0020.md"
+  },
+  {
+   "id": "oar-265-010-0025",
+   "title": "Moral Character",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/010/oar-265-010-0025.md"
+  },
+  {
+   "id": "oar-265-010-0030",
+   "title": "The Use of Drugs or Alcohol While on Duty",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/010/oar-265-010-0030.md"
+  },
+  {
+   "id": "oar-265-010-0035",
+   "title": "Aggravating and Mitigating Factors",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/265/010/oar-265-010-0035.md"
   },
   {
    "id": "oar-274-001-0000",
@@ -212242,6 +212998,223 @@
    "path": "rules/647/040/oar-647-040-0140.md"
   },
   {
+   "id": "oar-648-001-0010",
+   "title": "PROCEDURES FOR NOTICES OF PROPOSED RULEMAKING",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/001/oar-648-001-0010.md"
+  },
+  {
+   "id": "oar-648-010-0010",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/010/oar-648-010-0010.md"
+  },
+  {
+   "id": "oar-648-010-0020",
+   "title": "Assessments",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/010/oar-648-010-0020.md"
+  },
+  {
+   "id": "oar-648-010-0030",
+   "title": "Effective Dates of Assessments",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/010/oar-648-010-0030.md"
+  },
+  {
+   "id": "oar-648-010-0040",
+   "title": "Reports and Payments of Assessment Moneys",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/010/oar-648-010-0040.md"
+  },
+  {
+   "id": "oar-648-010-0050",
+   "title": "Penalties",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/010/oar-648-010-0050.md"
+  },
+  {
+   "id": "oar-648-010-0060",
+   "title": "Records of Producer Required to Pay Assessment",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/010/oar-648-010-0060.md"
+  },
+  {
+   "id": "oar-648-010-0070",
+   "title": "Dispute Regarding Amount of Assessment",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/010/oar-648-010-0070.md"
+  },
+  {
+   "id": "oar-648-020-0010",
+   "title": "Purpose of Public Records Requests Processing Rules",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/020/oar-648-020-0010.md"
+  },
+  {
+   "id": "oar-648-020-0020",
+   "title": "Request to Inspect or Make Copies of Public Records",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/020/oar-648-020-0020.md"
+  },
+  {
+   "id": "oar-648-020-0030",
+   "title": "Commission Procedure for Responses to Public Records Requests",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/020/oar-648-020-0030.md"
+  },
+  {
+   "id": "oar-648-020-0040",
+   "title": "Exceptions to Established Time Periods",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/020/oar-648-020-0040.md"
+  },
+  {
+   "id": "oar-648-020-0050",
+   "title": "Fee for Cost of Making Public Records Available",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/020/oar-648-020-0050.md"
+  },
+  {
+   "id": "oar-648-020-0060",
+   "title": "Fee Waiver or Reduction",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/020/oar-648-020-0060.md"
+  },
+  {
+   "id": "oar-648-030-0010",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/030/oar-648-030-0010.md"
+  },
+  {
+   "id": "oar-648-030-0020",
+   "title": "Number of Commissioners; Term Length",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/030/oar-648-030-0020.md"
+  },
+  {
+   "id": "oar-648-030-0030",
+   "title": "Qualifications of Commissioners",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/030/oar-648-030-0030.md"
+  },
+  {
+   "id": "oar-648-030-0040",
+   "title": "Geographic Representation",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/030/oar-648-030-0040.md"
+  },
+  {
+   "id": "oar-648-030-0050",
+   "title": "Chairperson and Other Officers",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/030/oar-648-030-0050.md"
+  },
+  {
+   "id": "oar-648-030-0060",
+   "title": "Removal of Commissioners",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/030/oar-648-030-0060.md"
+  },
+  {
+   "id": "oar-648-040-0100",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/040/oar-648-040-0100.md"
+  },
+  {
+   "id": "oar-648-040-0110",
+   "title": "Qualified Members",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/040/oar-648-040-0110.md"
+  },
+  {
+   "id": "oar-648-040-0120",
+   "title": "Non-Qualified Members",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/040/oar-648-040-0120.md"
+  },
+  {
+   "id": "oar-648-040-0130",
+   "title": "Procedures for Payment of Per Diem Compensation",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/040/oar-648-040-0130.md"
+  },
+  {
+   "id": "oar-648-040-0140",
+   "title": "Procedures for Expense Reimbursement",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/040/oar-648-040-0140.md"
+  },
+  {
+   "id": "oar-648-050-0010",
+   "title": "Purpose and Objectives",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/050/oar-648-050-0010.md"
+  },
+  {
+   "id": "oar-648-050-0020",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/050/oar-648-050-0020.md"
+  },
+  {
+   "id": "oar-648-050-0030",
+   "title": "Authority to Own, Manage, Dispose of, and Use Intellectual Property",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/050/oar-648-050-0030.md"
+  },
+  {
+   "id": "oar-648-050-0040",
+   "title": "Guidelines Concerning Acquisition and Use of Intellectual Property",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/050/oar-648-050-0040.md"
+  },
+  {
+   "id": "oar-648-050-0050",
+   "title": "Fees and Other Moneys Received by the Commission",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/050/oar-648-050-0050.md"
+  },
+  {
+   "id": "oar-648-050-0060",
+   "title": "Waiver or Modification",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/648/050/oar-648-050-0060.md"
+  },
+  {
    "id": "oar-656-001-0000",
    "title": "Procedure for Notice of Intended Rulemaking",
    "doc_type": "rule",
@@ -227262,6 +228235,125 @@
    "doc_type": "rule",
    "status": "current",
    "path": "rules/698/025/oar-698-025-0110.md"
+  },
+  {
+   "id": "oar-699-010-0010",
+   "title": "Purpose",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/010/oar-699-010-0010.md"
+  },
+  {
+   "id": "oar-699-010-0020",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/010/oar-699-010-0020.md"
+  },
+  {
+   "id": "oar-699-010-0030",
+   "title": "Inter-Governmental Agreement Conditions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/010/oar-699-010-0030.md"
+  },
+  {
+   "id": "oar-699-010-0040",
+   "title": "Eligibility",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/010/oar-699-010-0040.md"
+  },
+  {
+   "id": "oar-699-010-0050",
+   "title": "Use of Funds",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/010/oar-699-010-0050.md"
+  },
+  {
+   "id": "oar-699-010-0060",
+   "title": "Deference to Tribal Nations Determinations of Eligible Use of Funds",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/010/oar-699-010-0060.md"
+  },
+  {
+   "id": "oar-699-010-0070",
+   "title": "Sources of Funds",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/010/oar-699-010-0070.md"
+  },
+  {
+   "id": "oar-699-010-0080",
+   "title": "Distribution of Funds",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/010/oar-699-010-0080.md"
+  },
+  {
+   "id": "oar-699-010-0090",
+   "title": "Reporting",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/010/oar-699-010-0090.md"
+  },
+  {
+   "id": "oar-699-010-0100",
+   "title": "Waiver and Periodic Review of Rules",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/010/oar-699-010-0100.md"
+  },
+  {
+   "id": "oar-699-020-0010",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/020/oar-699-020-0010.md"
+  },
+  {
+   "id": "oar-699-020-0020",
+   "title": "Eligible Recipients",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/020/oar-699-020-0020.md"
+  },
+  {
+   "id": "oar-699-020-0030",
+   "title": "Soliciting and Evaluating Agency Applications",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/020/oar-699-020-0030.md"
+  },
+  {
+   "id": "oar-699-020-0040",
+   "title": "Eligible Uses of Funds",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/020/oar-699-020-0040.md"
+  },
+  {
+   "id": "oar-699-020-0050",
+   "title": "Award and Allocation of Funds",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/020/oar-699-020-0050.md"
+  },
+  {
+   "id": "oar-699-020-0060",
+   "title": "Reporting",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/020/oar-699-020-0060.md"
+  },
+  {
+   "id": "oar-699-020-0070",
+   "title": "Rule Waivers",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/699/020/oar-699-020-0070.md"
   },
   {
    "id": "oar-705-001-0000",
@@ -246416,6 +247508,265 @@
    "path": "rules/741/710/oar-741-710-0040.md"
   },
   {
+   "id": "oar-750-001-0001",
+   "title": "Uniform and Model Rules of Procedure.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/001/oar-750-001-0001.md"
+  },
+  {
+   "id": "oar-750-001-0010",
+   "title": "Notice of Proposed Rules.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/001/oar-750-001-0010.md"
+  },
+  {
+   "id": "oar-750-001-0030",
+   "title": "Contested Case Hearings.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/001/oar-750-001-0030.md"
+  },
+  {
+   "id": "oar-750-001-0040",
+   "title": "Authorization for Agency Representative.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/001/oar-750-001-0040.md"
+  },
+  {
+   "id": "oar-750-001-0050",
+   "title": "Civil Penalty Procedures.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/001/oar-750-001-0050.md"
+  },
+  {
+   "id": "oar-750-010-0001",
+   "title": "Definitions.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/010/oar-750-010-0001.md"
+  },
+  {
+   "id": "oar-750-010-0010",
+   "title": "Fees.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/010/oar-750-010-0010.md"
+  },
+  {
+   "id": "oar-750-010-0030",
+   "title": "Fiscal.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/010/oar-750-010-0030.md"
+  },
+  {
+   "id": "oar-750-010-0040",
+   "title": "Contracts and Procurement.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/010/oar-750-010-0040.md"
+  },
+  {
+   "id": "oar-750-010-0050",
+   "title": "Board Meetings.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/010/oar-750-010-0050.md"
+  },
+  {
+   "id": "oar-750-010-0060",
+   "title": "Annual Business Work Session.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/010/oar-750-010-0060.md"
+  },
+  {
+   "id": "oar-750-010-0080",
+   "title": "Board Member Assignments.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/010/oar-750-010-0080.md"
+  },
+  {
+   "id": "oar-750-010-0090",
+   "title": "Board Committees and Subcommittees.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/010/oar-750-010-0090.md"
+  },
+  {
+   "id": "oar-750-010-0100",
+   "title": "Board Staff.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/010/oar-750-010-0100.md"
+  },
+  {
+   "id": "oar-750-010-0110",
+   "title": "Public Records Requests.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/010/oar-750-010-0110.md"
+  },
+  {
+   "id": "oar-750-010-0120",
+   "title": "Severability.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/010/oar-750-010-0120.md"
+  },
+  {
+   "id": "oar-750-040-0001",
+   "title": "Violations.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/040/oar-750-040-0001.md"
+  },
+  {
+   "id": "oar-750-040-0005",
+   "title": "Administration and Implementation of ORS 98.853",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/040/oar-750-040-0005.md"
+  },
+  {
+   "id": "oar-750-040-0006",
+   "title": "Administration and Implementation of ORS 98.854.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/040/oar-750-040-0006.md"
+  },
+  {
+   "id": "oar-750-040-0008",
+   "title": "Administration and Implementation of ORS 98.856",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/040/oar-750-040-0008.md"
+  },
+  {
+   "id": "oar-750-040-0015",
+   "title": "Implementation and Administration of ORS 822.200",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/040/oar-750-040-0015.md"
+  },
+  {
+   "id": "oar-750-040-0020",
+   "title": "Separate Violations.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/040/oar-750-040-0020.md"
+  },
+  {
+   "id": "oar-750-040-0040",
+   "title": "Enforcement.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/040/oar-750-040-0040.md"
+  },
+  {
+   "id": "oar-750-060-0001",
+   "title": "Consumer Protection and Complaints.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/060/oar-750-060-0001.md"
+  },
+  {
+   "id": "oar-750-060-0010",
+   "title": "Consumer Protection Committee.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/060/oar-750-060-0010.md"
+  },
+  {
+   "id": "oar-750-060-0020",
+   "title": "Complaints.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/060/oar-750-060-0020.md"
+  },
+  {
+   "id": "oar-750-070-0001",
+   "title": "Purpose of Investigations.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/070/oar-750-070-0001.md"
+  },
+  {
+   "id": "oar-750-070-0010",
+   "title": "State Board of Towing Investigations",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/070/oar-750-070-0010.md"
+  },
+  {
+   "id": "oar-750-070-0020",
+   "title": "Investigations of Violations or Complaints.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/070/oar-750-070-0020.md"
+  },
+  {
+   "id": "oar-750-070-0030",
+   "title": "Cooperation in Board Investigations.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/070/oar-750-070-0030.md"
+  },
+  {
+   "id": "oar-750-070-0040",
+   "title": "Investigation Reports.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/070/oar-750-070-0040.md"
+  },
+  {
+   "id": "oar-750-070-0050",
+   "title": "Board Actions After Investigations.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/070/oar-750-070-0050.md"
+  },
+  {
+   "id": "oar-750-080-0001",
+   "title": "Progressive Discipline.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/080/oar-750-080-0001.md"
+  },
+  {
+   "id": "oar-750-080-0020",
+   "title": "Mitigating Circumstances.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/080/oar-750-080-0020.md"
+  },
+  {
+   "id": "oar-750-080-0030",
+   "title": "Disciplinary Actions and Sanctions.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/080/oar-750-080-0030.md"
+  },
+  {
+   "id": "oar-750-080-0040",
+   "title": "Civil Penalty Schedule.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/080/oar-750-080-0040.md"
+  },
+  {
+   "id": "oar-750-080-0050",
+   "title": "Effective Dates of Disciplinary Actions.",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/750/080/oar-750-080-0050.md"
+  },
+  {
    "id": "oar-800-001-0000",
    "title": "Notice of Proposed Rule",
    "doc_type": "rule",
@@ -258216,6 +259567,146 @@
    "doc_type": "rule",
    "status": "current",
    "path": "rules/813/410/oar-813-410-0010.md"
+  },
+  {
+   "id": "oar-816-005-0000",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/005/oar-816-005-0000.md"
+  },
+  {
+   "id": "oar-816-005-0010",
+   "title": "Election of Chairperson and Vice Chairperson",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/005/oar-816-005-0010.md"
+  },
+  {
+   "id": "oar-816-005-0020",
+   "title": "Vacancies in Office",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/005/oar-816-005-0020.md"
+  },
+  {
+   "id": "oar-816-005-0030",
+   "title": "Duties of Officers and Board Procedures",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/005/oar-816-005-0030.md"
+  },
+  {
+   "id": "oar-816-015-0000",
+   "title": "Emergency Care and Exceptions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/015/oar-816-015-0000.md"
+  },
+  {
+   "id": "oar-816-025-0000",
+   "title": "SLI Supervisory License",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/025/oar-816-025-0000.md"
+  },
+  {
+   "id": "oar-816-025-0010",
+   "title": "Application Requirements for SLI Supervisory License",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/025/oar-816-025-0010.md"
+  },
+  {
+   "id": "oar-816-025-0020",
+   "title": "SLI Generalist License",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/025/oar-816-025-0020.md"
+  },
+  {
+   "id": "oar-816-025-0030",
+   "title": "Application Requirements for SLI Generalist License",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/025/oar-816-025-0030.md"
+  },
+  {
+   "id": "oar-816-025-0040",
+   "title": "SLI Educational License",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/025/oar-816-025-0040.md"
+  },
+  {
+   "id": "oar-816-025-0050",
+   "title": "Application Requirements for SLI Educational License",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/025/oar-816-025-0050.md"
+  },
+  {
+   "id": "oar-816-025-0060",
+   "title": "SLI Medical License",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/025/oar-816-025-0060.md"
+  },
+  {
+   "id": "oar-816-025-0070",
+   "title": "Application Requirements for SLI Medical License",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/025/oar-816-025-0070.md"
+  },
+  {
+   "id": "oar-816-025-0080",
+   "title": "SLI Legal License",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/025/oar-816-025-0080.md"
+  },
+  {
+   "id": "oar-816-025-0090",
+   "title": "Application Requirements for SLI Legal License",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/025/oar-816-025-0090.md"
+  },
+  {
+   "id": "oar-816-025-0100",
+   "title": "SLI Provisional License",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/025/oar-816-025-0100.md"
+  },
+  {
+   "id": "oar-816-025-0110",
+   "title": "Application Requirements SLI for Provisional License",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/025/oar-816-025-0110.md"
+  },
+  {
+   "id": "oar-816-045-0000",
+   "title": "License Issuance and Renewal Requirements",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/045/oar-816-045-0000.md"
+  },
+  {
+   "id": "oar-816-065-0000",
+   "title": "Approved Code of Professional Conduct",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/065/oar-816-065-0000.md"
+  },
+  {
+   "id": "oar-816-085-0000",
+   "title": "Fees",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/816/085/oar-816-085-0000.md"
   },
   {
    "id": "oar-817-005-0005",
@@ -304208,6 +305699,41 @@
    "path": "rules/918/780/oar-918-780-0140.md"
   },
   {
+   "id": "oar-925-100-0001",
+   "title": "Model Rules for Rulemaking",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/925/100/oar-925-100-0001.md"
+  },
+  {
+   "id": "oar-925-100-0002",
+   "title": "Notice of Rulemaking",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/925/100/oar-925-100-0002.md"
+  },
+  {
+   "id": "oar-925-100-0003",
+   "title": "Public Records Requests",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/925/100/oar-925-100-0003.md"
+  },
+  {
+   "id": "oar-925-200-0010",
+   "title": "Selecting Prescription Drugs for Affordability Reviews",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/925/200/oar-925-200-0010.md"
+  },
+  {
+   "id": "oar-925-200-0020",
+   "title": "Conducting an Affordability Review",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/925/200/oar-925-200-0020.md"
+  },
+  {
    "id": "oar-943-001-0000",
    "title": "Model Rules of Procedure",
    "doc_type": "rule",
@@ -305011,6 +306537,139 @@
    "doc_type": "rule",
    "status": "current",
    "path": "rules/943/120/oar-943-120-1505.md"
+  },
+  {
+   "id": "oar-944-001-0000",
+   "title": "Purpose",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/001/oar-944-001-0000.md"
+  },
+  {
+   "id": "oar-944-001-0010",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/001/oar-944-001-0010.md"
+  },
+  {
+   "id": "oar-944-001-0020",
+   "title": "Operational, Policy, and Service and Support Requirements of Behavioral Health Resource Networks",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/001/oar-944-001-0020.md"
+  },
+  {
+   "id": "oar-944-001-0030",
+   "title": "Formation of Behavioral Health Resource Networks and Funding for Behavioral Health Resource Networks",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/001/oar-944-001-0030.md"
+  },
+  {
+   "id": "oar-944-001-0040",
+   "title": "Data collecting and reporting requirements for Behavioral Health Resource Networks and recipients of grants or funds",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/001/oar-944-001-0040.md"
+  },
+  {
+   "id": "oar-944-010-0000",
+   "title": "Behavioral Health Resource Networks",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/010/oar-944-010-0000.md"
+  },
+  {
+   "id": "oar-944-010-0010",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/010/oar-944-010-0010.md"
+  },
+  {
+   "id": "oar-944-010-0020",
+   "title": "Operational, Policy, and Service and Support Requirements of Behavioral Health Resource Networks",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/010/oar-944-010-0020.md"
+  },
+  {
+   "id": "oar-944-010-0030",
+   "title": "Screenings",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/010/oar-944-010-0030.md"
+  },
+  {
+   "id": "oar-944-010-0040",
+   "title": "Comprehensive Behavioral Health Needs Assessments",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/010/oar-944-010-0040.md"
+  },
+  {
+   "id": "oar-944-010-0050",
+   "title": "Ongoing Peer Counseling and Support",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/010/oar-944-010-0050.md"
+  },
+  {
+   "id": "oar-944-010-0060",
+   "title": "Harm Reduction Services, Information and Education",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/010/oar-944-010-0060.md"
+  },
+  {
+   "id": "oar-944-010-0070",
+   "title": "Low-Barrier Substance Use Treatment",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/010/oar-944-010-0070.md"
+  },
+  {
+   "id": "oar-944-010-0080",
+   "title": "Transitional and Supportive Housing for Individuals with Substance Use",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/010/oar-944-010-0080.md"
+  },
+  {
+   "id": "oar-944-010-0090",
+   "title": "Data collecting and reporting requirements for recipients of grants or funds",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/010/oar-944-010-0090.md"
+  },
+  {
+   "id": "oar-944-020-0000",
+   "title": "Grant Application Process for Drug Treatment and Recovery Services Funds",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/020/oar-944-020-0000.md"
+  },
+  {
+   "id": "oar-944-020-0010",
+   "title": "Grant Application Review Criteria",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/020/oar-944-020-0010.md"
+  },
+  {
+   "id": "oar-944-020-0020",
+   "title": "Grant Approval Process",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/020/oar-944-020-0020.md"
+  },
+  {
+   "id": "oar-944-020-0030",
+   "title": "Appeal of Denial of Grant",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/944/020/oar-944-020-0030.md"
   },
   {
    "id": "oar-945-001-0002",
@@ -589699,6 +591358,411 @@
    "type": "implements"
   },
   {
+   "from": "oar-111-001-0000",
+   "to": "ors-183.310",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-001-0000",
+   "to": "ors-192.660",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-001-0005",
+   "to": "ors-183.310",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-001-0005",
+   "to": "ors-183.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-002-0005",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-002-0010",
+   "to": "ors-183.310",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-002-0010",
+   "to": "ors-192.660",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-002-0010",
+   "to": "ors-292.051",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-005-0020",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-005-0042",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-005-0047",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-005-0055",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-005-0080",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-010-0015",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-015-0001",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-020-0001",
+   "to": "ors-243.886",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-020-0010",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-030-0010",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-030-0011",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-030-0035",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-030-0035",
+   "to": "ors-243.868",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-030-0035",
+   "to": "ors-243.872",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-030-0040",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-030-0040",
+   "to": "ors-243.868",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-030-0040",
+   "to": "ors-243.872",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-030-0045",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-030-0045",
+   "to": "ors-243.868",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-030-0045",
+   "to": "ors-243.872",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-030-0046",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-030-0047",
+   "to": "ors-243.874",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-040-0001",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-040-0005",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-040-0011",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-040-0015",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-040-0020",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-040-0025",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-040-0030",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-040-0040",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-040-0050",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-040-0055",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-040-0055",
+   "to": "ors-243.866",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0001",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0010",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0015",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0016",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0020",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0025",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0030",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0035",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0045",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0050",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0060",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0065",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0070",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0075",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-050-0080",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-060-0001",
+   "to": "ors-243.860",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-060-0001",
+   "to": "ors-646a.600",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-065-0001",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-065-0005",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-065-0010",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-065-0015",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-065-0020",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-065-0025",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-065-0030",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-065-0035",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-065-0040",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-070-0075",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-070-0075",
+   "to": "ors-350.355",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-080-0001",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-080-0005",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-080-0030",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-080-0040",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-080-0045",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-080-0050",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-080-0055",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-080-0060",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-080-0065",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-080-0065",
+   "to": "ors-243.879",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-080-0070",
+   "to": "ors-243.864",
+   "type": "implements"
+  },
+  {
+   "from": "oar-111-080-0070",
+   "to": "ors-243.879",
+   "type": "implements"
+  },
+  {
    "from": "oar-115-001-0000",
    "to": "ors-183.341",
    "type": "implements"
@@ -635404,6 +637468,156 @@
    "type": "implements"
   },
   {
+   "from": "oar-180-001-0000",
+   "to": "ors-183.341",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0000",
+   "to": "ors-192.468",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0001",
+   "to": "ors-183.341",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0001",
+   "to": "ors-192.464",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0001",
+   "to": "ors-192.468",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0002",
+   "to": "ors-192.464",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0002",
+   "to": "ors-192.468",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0003",
+   "to": "ors-183.335",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0003",
+   "to": "ors-192.464",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0003",
+   "to": "ors-192.468",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0004",
+   "to": "ors-192.464",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0004",
+   "to": "ors-192.468",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0005",
+   "to": "ors-192.464",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0005",
+   "to": "ors-192.468",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0006",
+   "to": "ors-192.464",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0006",
+   "to": "ors-192.468",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0006",
+   "to": "ors-192.475",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0007",
+   "to": "ors-192.464",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0007",
+   "to": "ors-192.468",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0008",
+   "to": "ors-192.464",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0009",
+   "to": "ors-192.464",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0009",
+   "to": "ors-192.468",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0010",
+   "to": "ors-183.484",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0010",
+   "to": "ors-192.464",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0011",
+   "to": "ors-183.484",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0011",
+   "to": "ors-192.464",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0011",
+   "to": "ors-192.468",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0012",
+   "to": "ors-192.464",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0013",
+   "to": "ors-192.464",
+   "type": "implements"
+  },
+  {
+   "from": "oar-180-001-0013",
+   "to": "ors-192.472",
+   "type": "implements"
+  },
+  {
    "from": "oar-198-001-0000",
    "to": "ors-292.956",
    "type": "implements"
@@ -646166,6 +648380,86 @@
   {
    "from": "oar-259-090-0010",
    "to": "ors-176.267",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-001-0001",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-005-0001",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-005-0005",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-005-0010",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-005-0015",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-005-0020",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-005-0025",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-005-0030",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-010-0001",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-010-0005",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-010-0010",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-010-0015",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-010-0020",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-010-0025",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-010-0030",
+   "to": "ors-243.812",
+   "type": "implements"
+  },
+  {
+   "from": "oar-265-010-0035",
+   "to": "ors-243.812",
    "type": "implements"
   },
   {
@@ -931744,6 +934038,386 @@
    "type": "implements"
   },
   {
+   "from": "oar-648-001-0010",
+   "to": "ors-183.335",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-001-0010",
+   "to": "ors-183.341",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-001-0010",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-001-0010",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0010",
+   "to": "ors-571.269",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0010",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0010",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0010",
+   "to": "ors-571.447",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0010",
+   "to": "ors-571.501",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0020",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0020",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0020",
+   "to": "ors-571.447",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0020",
+   "to": "ors-571.501",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0030",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0030",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0030",
+   "to": "ors-571.447",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0030",
+   "to": "ors-571.501",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0040",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0040",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0040",
+   "to": "ors-571.447",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0040",
+   "to": "ors-571.501",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0050",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0050",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0050",
+   "to": "ors-571.447",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0050",
+   "to": "ors-571.501",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0060",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0060",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0060",
+   "to": "ors-571.447",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0060",
+   "to": "ors-571.501",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0070",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0070",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0070",
+   "to": "ors-571.447",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-010-0070",
+   "to": "ors-571.501",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-020-0010",
+   "to": "ors-192.311",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-020-0010",
+   "to": "ors-192.478",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-020-0020",
+   "to": "ors-192.311",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-020-0020",
+   "to": "ors-192.478",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-020-0030",
+   "to": "ors-192.311",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-020-0030",
+   "to": "ors-192.478",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-020-0040",
+   "to": "ors-192.311",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-020-0040",
+   "to": "ors-192.478",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-020-0050",
+   "to": "ors-192.311",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-020-0050",
+   "to": "ors-192.478",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-020-0060",
+   "to": "ors-192.311",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-020-0060",
+   "to": "ors-192.478",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0010",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0010",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0020",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0020",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0030",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0030",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0040",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0040",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0050",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0050",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0060",
+   "to": "ors-571.406",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0060",
+   "to": "ors-571.410",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0060",
+   "to": "ors-571.412",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0060",
+   "to": "ors-571.414",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-030-0060",
+   "to": "ors-571.423",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-040-0100",
+   "to": "ors-292.495",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-040-0100",
+   "to": "ors-571.417",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-040-0110",
+   "to": "ors-292.495",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-040-0110",
+   "to": "ors-571.417",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-040-0120",
+   "to": "ors-292.495",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-040-0120",
+   "to": "ors-571.417",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-040-0130",
+   "to": "ors-292.495",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-040-0130",
+   "to": "ors-571.417",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-040-0140",
+   "to": "ors-292.495",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-040-0140",
+   "to": "ors-571.417",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-050-0010",
+   "to": "ors-571.444",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-050-0020",
+   "to": "ors-571.444",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-050-0030",
+   "to": "ors-571.444",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-050-0040",
+   "to": "ors-571.444",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-050-0050",
+   "to": "ors-571.444",
+   "type": "implements"
+  },
+  {
+   "from": "oar-648-050-0060",
+   "to": "ors-571.444",
+   "type": "implements"
+  },
+  {
    "from": "oar-656-001-0000",
    "to": "ors-183.341",
    "type": "implements"
@@ -952216,6 +954890,176 @@
   {
    "from": "oar-698-025-0110",
    "to": "ors-541.989",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0010",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0010",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0020",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0020",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0030",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0030",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0040",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0040",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0050",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0050",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0060",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0060",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0070",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0070",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0080",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0080",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0090",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0090",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0100",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-010-0100",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0010",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0010",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0020",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0020",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0030",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0030",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0040",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0040",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0050",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0050",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0060",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0060",
+   "to": "ors-541.882",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0070",
+   "to": "ors-541.857",
+   "type": "implements"
+  },
+  {
+   "from": "oar-699-020-0070",
+   "to": "ors-541.882",
    "type": "implements"
   },
   {
@@ -980554,6 +983398,386 @@
    "type": "implements"
   },
   {
+   "from": "oar-750-001-0001",
+   "to": "ors-183.341",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-001-0001",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-001-0010",
+   "to": "ors-183.335",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-001-0010",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-001-0030",
+   "to": "ors-183.413",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-001-0030",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-001-0040",
+   "to": "ors-183.452",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-001-0040",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-001-0050",
+   "to": "ors-183.745",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-001-0050",
+   "to": "ors-822.995",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0001",
+   "to": "ors-822.260",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0001",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0001",
+   "to": "ors-822.275",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0001",
+   "to": "ors-98.853",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0010",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0010",
+   "to": "ors-822.285",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0030",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0040",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0050",
+   "to": "ors-192.620",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0050",
+   "to": "ors-822.255",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0050",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0060",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0080",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0090",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0100",
+   "to": "ors-822.260",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0100",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0110",
+   "to": "ors-192.324",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0110",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-010-0120",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0001",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0001",
+   "to": "ors-822.280",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0001",
+   "to": "ors-822.290",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0001",
+   "to": "ors-822.995",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0005",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0006",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0008",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0015",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0020",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0020",
+   "to": "ors-822.995",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0040",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0040",
+   "to": "ors-822.280",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0040",
+   "to": "ors-822.290",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-040-0040",
+   "to": "ors-822.995",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-060-0001",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-060-0010",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-060-0020",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-070-0001",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-070-0010",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-070-0020",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-070-0020",
+   "to": "ors-822.275",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-070-0020",
+   "to": "ors-822.280",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-070-0030",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-070-0030",
+   "to": "ors-822.275",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-070-0030",
+   "to": "ors-98.853",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-070-0040",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-070-0050",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-070-0050",
+   "to": "ors-822.280",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-070-0050",
+   "to": "ors-822.290",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-070-0050",
+   "to": "ors-822.995",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0001",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0001",
+   "to": "ors-822.280",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0001",
+   "to": "ors-822.290",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0001",
+   "to": "ors-822.995",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0020",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0020",
+   "to": "ors-822.995",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0030",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0030",
+   "to": "ors-822.280",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0030",
+   "to": "ors-822.290",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0030",
+   "to": "ors-822.995",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0040",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0040",
+   "to": "ors-822.995",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0050",
+   "to": "ors-293.231",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0050",
+   "to": "ors-822.265",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0050",
+   "to": "ors-822.280",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0050",
+   "to": "ors-822.290",
+   "type": "implements"
+  },
+  {
+   "from": "oar-750-080-0050",
+   "to": "ors-822.995",
+   "type": "implements"
+  },
+  {
    "from": "oar-800-001-0000",
    "to": "ors-183.341",
    "type": "implements"
@@ -995121,6 +998345,366 @@
   {
    "from": "oar-813-405-0040",
    "to": "ors-456.295",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-005-0000",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-005-0000",
+   "to": "ors-676.753",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-005-0000",
+   "to": "ors-676.756",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-005-0000",
+   "to": "ors-676.759",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-005-0000",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-005-0000",
+   "to": "ors-676.786",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-005-0010",
+   "to": "ors-676.780",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-005-0020",
+   "to": "ors-676.780",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-005-0030",
+   "to": "ors-676.780",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-015-0000",
+   "to": "ors-676.771",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-015-0000",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0000",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0000",
+   "to": "ors-676.753",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0000",
+   "to": "ors-676.759",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0000",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0010",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0010",
+   "to": "ors-676.753",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0010",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0020",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0020",
+   "to": "ors-676.756",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0020",
+   "to": "ors-676.759",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0020",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0030",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0030",
+   "to": "ors-676.756",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0030",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0040",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0040",
+   "to": "ors-676.753",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0040",
+   "to": "ors-676.756",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0040",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0050",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0050",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0060",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0060",
+   "to": "ors-676.753",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0060",
+   "to": "ors-676.756",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0060",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0070",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0070",
+   "to": "ors-676.753",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0070",
+   "to": "ors-676.756",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0070",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0080",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0080",
+   "to": "ors-676.753",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0080",
+   "to": "ors-676.756",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0080",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0090",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0090",
+   "to": "ors-676.753",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0090",
+   "to": "ors-676.756",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0090",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0100",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0100",
+   "to": "ors-676.753",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0100",
+   "to": "ors-676.756",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0100",
+   "to": "ors-676.759",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0100",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0110",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0110",
+   "to": "ors-676.753",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0110",
+   "to": "ors-676.756",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0110",
+   "to": "ors-676.759",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-025-0110",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-045-0000",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-045-0000",
+   "to": "ors-676.753",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-045-0000",
+   "to": "ors-676.756",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-045-0000",
+   "to": "ors-676.759",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-045-0000",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-065-0000",
+   "to": "ors-676.750",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-065-0000",
+   "to": "ors-676.753",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-065-0000",
+   "to": "ors-676.756",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-065-0000",
+   "to": "ors-676.759",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-065-0000",
+   "to": "ors-676.783",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-085-0000",
+   "to": "ors-676.572",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-085-0000",
+   "to": "ors-676.576",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-085-0000",
+   "to": "ors-676.753",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-085-0000",
+   "to": "ors-676.756",
+   "type": "implements"
+  },
+  {
+   "from": "oar-816-085-0000",
+   "to": "ors-676.759",
    "type": "implements"
   },
   {
@@ -1057179,6 +1060763,41 @@
    "type": "implements"
   },
   {
+   "from": "oar-925-100-0001",
+   "to": "ors-183.325",
+   "type": "implements"
+  },
+  {
+   "from": "oar-925-100-0001",
+   "to": "ors-183.410",
+   "type": "implements"
+  },
+  {
+   "from": "oar-925-100-0002",
+   "to": "ors-183.335",
+   "type": "implements"
+  },
+  {
+   "from": "oar-925-100-0002",
+   "to": "ors-84.022",
+   "type": "implements"
+  },
+  {
+   "from": "oar-925-100-0003",
+   "to": "ors-192.324",
+   "type": "implements"
+  },
+  {
+   "from": "oar-925-200-0010",
+   "to": "ors-646a.694",
+   "type": "implements"
+  },
+  {
+   "from": "oar-925-200-0020",
+   "to": "ors-646a.694",
+   "type": "implements"
+  },
+  {
    "from": "oar-943-001-0000",
    "to": "ors-183.341",
    "type": "implements"
@@ -1058521,6 +1062140,176 @@
   {
    "from": "oar-943-120-1505",
    "to": "ors-414.065",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-001-0010",
+   "to": "ors-430.383",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-001-0010",
+   "to": "ors-430.392",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-001-0020",
+   "to": "ors-430.383",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-001-0020",
+   "to": "ors-430.392",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0000",
+   "to": "ors-430.389",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0000",
+   "to": "ors-430.390",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0010",
+   "to": "ors-430.383",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0010",
+   "to": "ors-430.392",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0020",
+   "to": "ors-430.383",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0020",
+   "to": "ors-430.392",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0030",
+   "to": "ors-430.383",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0030",
+   "to": "ors-430.389",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0030",
+   "to": "ors-430.390",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0030",
+   "to": "ors-430.392",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0040",
+   "to": "ors-430.383",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0040",
+   "to": "ors-430.392",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0050",
+   "to": "ors-430.383",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0050",
+   "to": "ors-430.392",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0060",
+   "to": "ors-430.383",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0060",
+   "to": "ors-430.392",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0070",
+   "to": "ors-430.383",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0070",
+   "to": "ors-430.392",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0080",
+   "to": "ors-430.383",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0080",
+   "to": "ors-430.392",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0090",
+   "to": "ors-430.383",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-010-0090",
+   "to": "ors-430.392",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-020-0000",
+   "to": "ors-430.389",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-020-0000",
+   "to": "ors-430.390",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-020-0010",
+   "to": "ors-430.389",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-020-0010",
+   "to": "ors-430.390",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-020-0020",
+   "to": "ors-430.389",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-020-0020",
+   "to": "ors-430.390",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-020-0030",
+   "to": "ors-430.389",
+   "type": "implements"
+  },
+  {
+   "from": "oar-944-020-0030",
+   "to": "ors-430.390",
    "type": "implements"
   },
   {
@@ -1086605,6 +1090394,21 @@
   },
   {
    "from": "ors-183.310",
+   "to": "oar-111-001-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.310",
+   "to": "oar-111-001-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.310",
+   "to": "oar-111-002-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.310",
    "to": "oar-123-200-1900",
    "type": "implemented_by"
   },
@@ -1086960,6 +1090764,11 @@
   },
   {
    "from": "ors-183.325",
+   "to": "oar-925-100-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.325",
    "to": "puc-internal-operating-guidelines",
    "type": "implemented_by"
   },
@@ -1087161,6 +1090970,11 @@
   {
    "from": "ors-183.335",
    "to": "oar-177-010-0009",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.335",
+   "to": "oar-180-001-0003",
    "type": "implemented_by"
   },
   {
@@ -1087395,6 +1091209,11 @@
   },
   {
    "from": "ors-183.335",
+   "to": "oar-648-001-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.335",
    "to": "oar-668-001-0000",
    "type": "implemented_by"
   },
@@ -1087431,6 +1091250,11 @@
   {
    "from": "ors-183.335",
    "to": "oar-738-001-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.335",
+   "to": "oar-750-001-0010",
    "type": "implemented_by"
   },
   {
@@ -1087661,6 +1091485,11 @@
   {
    "from": "ors-183.335",
    "to": "oar-918-650-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.335",
+   "to": "oar-925-100-0002",
    "type": "implemented_by"
   },
   {
@@ -1088260,6 +1092089,16 @@
   },
   {
    "from": "ors-183.341",
+   "to": "oar-180-001-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.341",
+   "to": "oar-180-001-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.341",
    "to": "oar-199-001-0000",
    "type": "implemented_by"
   },
@@ -1088735,6 +1092574,11 @@
   },
   {
    "from": "ors-183.341",
+   "to": "oar-648-001-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.341",
    "to": "oar-656-001-0000",
    "type": "implemented_by"
   },
@@ -1088896,6 +1092740,11 @@
   {
    "from": "ors-183.341",
    "to": "oar-738-001-0006",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.341",
+   "to": "oar-750-001-0001",
    "type": "implemented_by"
   },
   {
@@ -1089520,6 +1093369,11 @@
   },
   {
    "from": "ors-183.410",
+   "to": "oar-925-100-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.410",
    "to": "puc-internal-operating-guidelines",
    "type": "implemented_by"
   },
@@ -1089741,6 +1093595,11 @@
   {
    "from": "ors-183.413",
    "to": "oar-690-030-0045",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.413",
+   "to": "oar-750-001-0030",
    "type": "implemented_by"
   },
   {
@@ -1090655,6 +1094514,11 @@
   },
   {
    "from": "ors-183.452",
+   "to": "oar-750-001-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.452",
    "to": "oar-808-009-0340",
    "type": "implemented_by"
   },
@@ -1091261,6 +1095125,16 @@
   {
    "from": "ors-183.484",
    "to": "oar-137-004-0080",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.484",
+   "to": "oar-180-001-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.484",
+   "to": "oar-180-001-0011",
    "type": "implemented_by"
   },
   {
@@ -1092110,6 +1095984,11 @@
   },
   {
    "from": "ors-183.745",
+   "to": "oar-750-001-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.745",
    "to": "oar-845-003-0270",
    "type": "implemented_by"
   },
@@ -1092121,6 +1096000,11 @@
   {
    "from": "ors-183.750",
    "to": "oar-101-001-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.750",
+   "to": "oar-111-001-0005",
    "type": "implemented_by"
   },
   {
@@ -1094460,6 +1098344,36 @@
   },
   {
    "from": "ors-192.311",
+   "to": "oar-648-020-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.311",
+   "to": "oar-648-020-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.311",
+   "to": "oar-648-020-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.311",
+   "to": "oar-648-020-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.311",
+   "to": "oar-648-020-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.311",
+   "to": "oar-648-020-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.311",
    "to": "oar-738-001-0035",
    "type": "implemented_by"
   },
@@ -1095225,12 +1099139,22 @@
   },
   {
    "from": "ors-192.324",
+   "to": "oar-750-010-0110",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.324",
    "to": "oar-800-030-0050",
    "type": "implemented_by"
   },
   {
    "from": "ors-192.324",
    "to": "oar-847-005-0008",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.324",
+   "to": "oar-925-100-0003",
    "type": "implemented_by"
   },
   {
@@ -1095919,6 +1099843,131 @@
    "type": "implemented_by"
   },
   {
+   "from": "ors-192.464",
+   "to": "oar-180-001-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.464",
+   "to": "oar-180-001-0002",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.464",
+   "to": "oar-180-001-0003",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.464",
+   "to": "oar-180-001-0004",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.464",
+   "to": "oar-180-001-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.464",
+   "to": "oar-180-001-0006",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.464",
+   "to": "oar-180-001-0007",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.464",
+   "to": "oar-180-001-0008",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.464",
+   "to": "oar-180-001-0009",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.464",
+   "to": "oar-180-001-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.464",
+   "to": "oar-180-001-0011",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.464",
+   "to": "oar-180-001-0012",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.464",
+   "to": "oar-180-001-0013",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.468",
+   "to": "oar-180-001-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.468",
+   "to": "oar-180-001-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.468",
+   "to": "oar-180-001-0002",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.468",
+   "to": "oar-180-001-0003",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.468",
+   "to": "oar-180-001-0004",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.468",
+   "to": "oar-180-001-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.468",
+   "to": "oar-180-001-0006",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.468",
+   "to": "oar-180-001-0007",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.468",
+   "to": "oar-180-001-0009",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.468",
+   "to": "oar-180-001-0011",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.472",
+   "to": "oar-180-001-0013",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.475",
+   "to": "oar-180-001-0006",
+   "type": "implemented_by"
+  },
+  {
    "from": "ors-192.478",
    "to": "oar-414-002-0000",
    "type": "implemented_by"
@@ -1095936,6 +1099985,36 @@
   {
    "from": "ors-192.478",
    "to": "oar-585-001-0008",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.478",
+   "to": "oar-648-020-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.478",
+   "to": "oar-648-020-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.478",
+   "to": "oar-648-020-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.478",
+   "to": "oar-648-020-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.478",
+   "to": "oar-648-020-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.478",
+   "to": "oar-648-020-0060",
    "type": "implemented_by"
   },
   {
@@ -1096614,6 +1100693,11 @@
    "type": "implemented_by"
   },
   {
+   "from": "ors-192.620",
+   "to": "oar-750-010-0050",
+   "type": "implemented_by"
+  },
+  {
    "from": "ors-192.630",
    "to": "oar-199-050-0005",
    "type": "implemented_by"
@@ -1096746,6 +1100830,16 @@
   {
    "from": "ors-192.660",
    "to": "oar-101-002-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.660",
+   "to": "oar-111-001-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.660",
+   "to": "oar-111-002-0010",
    "type": "implemented_by"
   },
   {
@@ -1115239,6 +1119333,86 @@
    "type": "implemented_by"
   },
   {
+   "from": "ors-243.812",
+   "to": "oar-265-001-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-005-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-005-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-005-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-005-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-005-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-005-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-005-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-010-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-010-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-010-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-010-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-010-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-010-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.812",
+   "to": "oar-265-010-0035",
+   "type": "implemented_by"
+  },
+  {
    "from": "ors-243.815",
    "to": "oar-459-005-0300",
    "type": "implemented_by"
@@ -1115251,6 +1119425,366 @@
   {
    "from": "ors-243.815",
    "to": "oar-459-005-0350",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.860",
+   "to": "oar-111-060-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-002-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-005-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-005-0042",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-005-0047",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-005-0055",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-005-0080",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-010-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-015-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-020-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-030-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-030-0011",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-030-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-030-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-030-0045",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-030-0046",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-040-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-040-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-040-0011",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-040-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-040-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-040-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-040-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-040-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-040-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-040-0055",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0016",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0045",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0065",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0075",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-050-0080",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-065-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-065-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-065-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-065-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-065-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-065-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-065-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-065-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-065-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-070-0075",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-080-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-080-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-080-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-080-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-080-0045",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-080-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-080-0055",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-080-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-080-0065",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.864",
+   "to": "oar-111-080-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.866",
+   "to": "oar-111-040-0055",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.868",
+   "to": "oar-111-030-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.868",
+   "to": "oar-111-030-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.868",
+   "to": "oar-111-030-0045",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.872",
+   "to": "oar-111-030-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.872",
+   "to": "oar-111-030-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.872",
+   "to": "oar-111-030-0045",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.874",
+   "to": "oar-111-030-0047",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.879",
+   "to": "oar-111-080-0065",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.879",
+   "to": "oar-111-080-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-243.886",
+   "to": "oar-111-020-0001",
    "type": "implemented_by"
   },
   {
@@ -1139524,6 +1144058,11 @@
    "type": "implemented_by"
   },
   {
+   "from": "ors-292.051",
+   "to": "oar-111-002-0010",
+   "type": "implemented_by"
+  },
+  {
    "from": "ors-292.070",
    "to": "oam-45-10-00",
    "type": "implemented_by"
@@ -1140190,6 +1144729,31 @@
   },
   {
    "from": "ors-292.495",
+   "to": "oar-648-040-0100",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-292.495",
+   "to": "oar-648-040-0110",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-292.495",
+   "to": "oar-648-040-0120",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-292.495",
+   "to": "oar-648-040-0130",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-292.495",
+   "to": "oar-648-040-0140",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-292.495",
    "to": "oar-656-040-0100",
    "type": "implemented_by"
   },
@@ -1140651,6 +1145215,11 @@
   {
    "from": "ors-293.231",
    "to": "oar-122-085-0160",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-293.231",
+   "to": "oar-750-080-0050",
    "type": "implemented_by"
   },
   {
@@ -1166886,6 +1171455,11 @@
   {
    "from": "ors-350.355",
    "to": "oar-101-065-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-350.355",
+   "to": "oar-111-070-0075",
    "type": "implemented_by"
   },
   {
@@ -1266656,6 +1271230,176 @@
   {
    "from": "ors-430.375",
    "to": "oar-415-050-0195",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.383",
+   "to": "oar-944-001-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.383",
+   "to": "oar-944-001-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.383",
+   "to": "oar-944-010-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.383",
+   "to": "oar-944-010-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.383",
+   "to": "oar-944-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.383",
+   "to": "oar-944-010-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.383",
+   "to": "oar-944-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.383",
+   "to": "oar-944-010-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.383",
+   "to": "oar-944-010-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.383",
+   "to": "oar-944-010-0080",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.383",
+   "to": "oar-944-010-0090",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.389",
+   "to": "oar-944-010-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.389",
+   "to": "oar-944-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.389",
+   "to": "oar-944-020-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.389",
+   "to": "oar-944-020-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.389",
+   "to": "oar-944-020-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.389",
+   "to": "oar-944-020-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.390",
+   "to": "oar-944-010-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.390",
+   "to": "oar-944-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.390",
+   "to": "oar-944-020-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.390",
+   "to": "oar-944-020-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.390",
+   "to": "oar-944-020-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.390",
+   "to": "oar-944-020-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.392",
+   "to": "oar-944-001-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.392",
+   "to": "oar-944-001-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.392",
+   "to": "oar-944-010-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.392",
+   "to": "oar-944-010-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.392",
+   "to": "oar-944-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.392",
+   "to": "oar-944-010-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.392",
+   "to": "oar-944-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.392",
+   "to": "oar-944-010-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.392",
+   "to": "oar-944-010-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.392",
+   "to": "oar-944-010-0080",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-430.392",
+   "to": "oar-944-010-0090",
    "type": "implemented_by"
   },
   {
@@ -1412484,6 +1417228,176 @@
    "type": "implemented_by"
   },
   {
+   "from": "ors-541.857",
+   "to": "oar-699-010-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-010-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-010-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-010-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-010-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-010-0080",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-010-0090",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-010-0100",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-020-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-020-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-020-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-020-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-020-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-020-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.857",
+   "to": "oar-699-020-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-010-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-010-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-010-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-010-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-010-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-010-0080",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-010-0090",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-010-0100",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-020-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-020-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-020-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-020-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-020-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-020-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-541.882",
+   "to": "oar-699-020-0070",
+   "type": "implemented_by"
+  },
+  {
    "from": "ors-541.890",
    "to": "oar-695-001-0000",
    "type": "implemented_by"
@@ -1419844,6 +1424758,11 @@
    "type": "implemented_by"
   },
   {
+   "from": "ors-571.269",
+   "to": "oar-648-010-0010",
+   "type": "implemented_by"
+  },
+  {
    "from": "ors-571.272",
    "to": "oar-603-048-1600",
    "type": "implemented_by"
@@ -1420681,6 +1425600,286 @@
   {
    "from": "ors-571.348",
    "to": "oar-603-048-8011",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-001-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-010-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-010-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-010-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-010-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-010-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-030-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-030-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-030-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-030-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-030-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.406",
+   "to": "oar-648-030-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.410",
+   "to": "oar-648-030-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.412",
+   "to": "oar-648-030-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.414",
+   "to": "oar-648-030-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.417",
+   "to": "oar-648-040-0100",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.417",
+   "to": "oar-648-040-0110",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.417",
+   "to": "oar-648-040-0120",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.417",
+   "to": "oar-648-040-0130",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.417",
+   "to": "oar-648-040-0140",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-001-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-010-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-010-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-010-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-010-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-010-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-030-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-030-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-030-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-030-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-030-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.423",
+   "to": "oar-648-030-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.444",
+   "to": "oar-648-050-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.444",
+   "to": "oar-648-050-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.444",
+   "to": "oar-648-050-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.444",
+   "to": "oar-648-050-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.444",
+   "to": "oar-648-050-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.444",
+   "to": "oar-648-050-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.447",
+   "to": "oar-648-010-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.447",
+   "to": "oar-648-010-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.447",
+   "to": "oar-648-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.447",
+   "to": "oar-648-010-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.447",
+   "to": "oar-648-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.447",
+   "to": "oar-648-010-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.447",
+   "to": "oar-648-010-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.501",
+   "to": "oar-648-010-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.501",
+   "to": "oar-648-010-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.501",
+   "to": "oar-648-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.501",
+   "to": "oar-648-010-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.501",
+   "to": "oar-648-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.501",
+   "to": "oar-648-010-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-571.501",
+   "to": "oar-648-010-0070",
    "type": "implemented_by"
   },
   {
@@ -1437200,6 +1442399,11 @@
   },
   {
    "from": "ors-646a.600",
+   "to": "oar-111-060-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-646a.600",
    "to": "oha-ispo-100-005",
    "type": "implemented_by"
   },
@@ -1437331,6 +1442535,16 @@
   {
    "from": "ors-646a.692",
    "to": "oar-836-200-0560",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-646a.694",
+   "to": "oar-925-200-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-646a.694",
+   "to": "oar-925-200-0020",
    "type": "implemented_by"
   },
   {
@@ -1471460,6 +1476674,11 @@
   },
   {
    "from": "ors-676.572",
+   "to": "oar-816-085-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.572",
    "to": "oar-817-007-0350",
    "type": "implemented_by"
   },
@@ -1471506,6 +1476725,11 @@
   {
    "from": "ors-676.576",
    "to": "oar-332-040-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.576",
+   "to": "oar-816-085-0000",
    "type": "implemented_by"
   },
   {
@@ -1472861,6 +1478085,356 @@
   {
    "from": "ors-676.730",
    "to": "oar-331-030-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-005-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-025-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-025-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-025-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-025-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-025-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-025-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-025-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-025-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-025-0080",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-025-0090",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-025-0100",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-025-0110",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-045-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.750",
+   "to": "oar-816-065-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.753",
+   "to": "oar-816-005-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.753",
+   "to": "oar-816-025-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.753",
+   "to": "oar-816-025-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.753",
+   "to": "oar-816-025-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.753",
+   "to": "oar-816-025-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.753",
+   "to": "oar-816-025-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.753",
+   "to": "oar-816-025-0080",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.753",
+   "to": "oar-816-025-0090",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.753",
+   "to": "oar-816-025-0100",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.753",
+   "to": "oar-816-025-0110",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.753",
+   "to": "oar-816-045-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.753",
+   "to": "oar-816-065-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.753",
+   "to": "oar-816-085-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.756",
+   "to": "oar-816-005-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.756",
+   "to": "oar-816-025-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.756",
+   "to": "oar-816-025-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.756",
+   "to": "oar-816-025-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.756",
+   "to": "oar-816-025-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.756",
+   "to": "oar-816-025-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.756",
+   "to": "oar-816-025-0080",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.756",
+   "to": "oar-816-025-0090",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.756",
+   "to": "oar-816-025-0100",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.756",
+   "to": "oar-816-025-0110",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.756",
+   "to": "oar-816-045-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.756",
+   "to": "oar-816-065-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.756",
+   "to": "oar-816-085-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.759",
+   "to": "oar-816-005-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.759",
+   "to": "oar-816-025-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.759",
+   "to": "oar-816-025-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.759",
+   "to": "oar-816-025-0100",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.759",
+   "to": "oar-816-025-0110",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.759",
+   "to": "oar-816-045-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.759",
+   "to": "oar-816-065-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.759",
+   "to": "oar-816-085-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.771",
+   "to": "oar-816-015-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.780",
+   "to": "oar-816-005-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.780",
+   "to": "oar-816-005-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.780",
+   "to": "oar-816-005-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-005-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-015-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-025-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-025-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-025-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-025-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-025-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-025-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-025-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-025-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-025-0080",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-025-0090",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-025-0100",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-025-0110",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-045-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.783",
+   "to": "oar-816-065-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-676.786",
+   "to": "oar-816-005-0000",
    "type": "implemented_by"
   },
   {
@@ -1531824,6 +1537398,286 @@
    "type": "implemented_by"
   },
   {
+   "from": "ors-822.255",
+   "to": "oar-750-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.260",
+   "to": "oar-750-010-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.260",
+   "to": "oar-750-010-0100",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-001-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-001-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-001-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-001-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-010-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-010-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-010-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-010-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-010-0080",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-010-0090",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-010-0100",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-010-0110",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-010-0120",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-040-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-040-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-040-0006",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-040-0008",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-040-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-040-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-040-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-060-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-060-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-060-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-070-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-070-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-070-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-070-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-070-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-070-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-080-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-080-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-080-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-080-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.265",
+   "to": "oar-750-080-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.275",
+   "to": "oar-750-010-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.275",
+   "to": "oar-750-070-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.275",
+   "to": "oar-750-070-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.280",
+   "to": "oar-750-040-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.280",
+   "to": "oar-750-040-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.280",
+   "to": "oar-750-070-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.280",
+   "to": "oar-750-070-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.280",
+   "to": "oar-750-080-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.280",
+   "to": "oar-750-080-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.280",
+   "to": "oar-750-080-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.285",
+   "to": "oar-750-010-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.290",
+   "to": "oar-750-040-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.290",
+   "to": "oar-750-040-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.290",
+   "to": "oar-750-070-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.290",
+   "to": "oar-750-080-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.290",
+   "to": "oar-750-080-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.290",
+   "to": "oar-750-080-0050",
+   "type": "implemented_by"
+  },
+  {
    "from": "ors-822.500",
    "to": "oar-735-160-0003",
    "type": "implemented_by"
@@ -1531956,6 +1537810,56 @@
   {
    "from": "ors-822.992",
    "to": "oar-735-152-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.995",
+   "to": "oar-750-001-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.995",
+   "to": "oar-750-040-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.995",
+   "to": "oar-750-040-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.995",
+   "to": "oar-750-040-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.995",
+   "to": "oar-750-070-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.995",
+   "to": "oar-750-080-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.995",
+   "to": "oar-750-080-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.995",
+   "to": "oar-750-080-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.995",
+   "to": "oar-750-080-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-822.995",
+   "to": "oar-750-080-0050",
    "type": "implemented_by"
   },
   {
@@ -1538454,6 +1544358,11 @@
    "type": "implemented_by"
   },
   {
+   "from": "ors-84.022",
+   "to": "oar-925-100-0002",
+   "type": "implemented_by"
+  },
+  {
    "from": "ors-84.043",
    "to": "oar-436-160-0040",
    "type": "implemented_by"
@@ -1540501,6 +1546410,16 @@
   {
    "from": "ors-98.830",
    "to": "oar-735-150-0260",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-98.853",
+   "to": "oar-750-010-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-98.853",
+   "to": "oar-750-070-0030",
    "type": "implemented_by"
   },
   {

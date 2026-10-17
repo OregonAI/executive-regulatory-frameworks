@@ -1,0 +1,297 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Department of Consumer and Business Services 
+ Prescription Drug Affordability Board - Chapter 925 
+ 
+ 
+ 
+ 
+ Division 200 Prescription Drug Affordability Review 
+ 925-200-0020 
+ Conducting an Affordability Review 
+ 
+ The Prescription Drug Affordability Board (PDAB) will conduct an affordability review on the prioritized subset of prescription drugs, selected under OAR 925-200-0010 to identify nine prescription drugs and at least one insulin product that may create affordability challenges for health care systems or high out-of-pocket costs for patients in Oregon. 
+
+ (1) PDAB will conduct an affordability review by considering, to the extent practicable, the following criteria set forth in ORS 646A.694: 
+
+ (a) Whether the prescription drug has led to health inequities in communities of color; 
+
+ (b) The number of residents in this state prescribed the prescription drug; 
+
+ (c) The price for the prescription drug sold in this state; 
+
+ (d) The estimated average monetary price concession, discount or rebate the manufacturer provides to health insurance plans in this state or is expected to provide to health insurance plans in this state, expressed as a percentage of the price for the prescription drug under review; 
+
+ (e) The estimated total amount of the price concession, discount or rebate the manufacturer provides to each pharmacy benefit manager registered in this state for the prescription drug under review, expressed as a percentage of the prices; 
+
+ (f) The estimated price for therapeutic alternatives to the drug that are sold in this state; 
+
+ (g) The estimated average price concession, discount or rebate the manufacturer provides or is expected to provide to health insurance plans and pharmacy benefit managers in this state for therapeutic alternatives; 
+
+ (h) The estimated costs to health insurance plans based on patient use of the drug consistent with the labeling approved by the United States Food and Drug Administration and recognized standard medical practice; 
+
+ (i) The impact on patient access to the drug considering standard prescription drug benefit designs in health insurance plans offered in this state; 
+
+ (j) The relative financial impacts to health, medical or social services costs as can be quantified and compared to the costs of existing therapeutic alternatives; 
+
+ (k) The estimated average patient copayment or other cost-sharing for the prescription drug in this state; 
+
+ (l) Any information a manufacturer chooses to provide; and  
+
+ (m) A prescription drug that is designated by the United States Food and Drug Administration (FDA), under 21 U.S.C. 360bb, as a drug for a rare disease or condition is not subject to an affordability review. 
+
+ (2) PDAB will conduct an affordability review by considering, to the extent practicable, the additional following factors: 
+
+ (a) In addition to the criteria in subparagraph (1)(a): Whether the pricing of the prescription drug results in or has contributed to health inequities in: 
+
+ (A) Under-resourced communities; or 
+
+ (B) Regions with limited pharmacy access. 
+
+ (b) In addition to the criteria in subparagraph (1)(b): The off label use of prescription drugs used to treat other conditions. 
+
+ (c)  In addition to the criteria in subparagraph (1) (f): The estimated net price. Cost and availability of therapeutic alternatives to the prescription drug in the state, including any relevant data regarding costs, expenditures, availability, and utilization related to the prescription drug and its therapeutic alternatives. 
+
+ 
+ Therapeutic alternative is to mean, “A drug product that contains a different therapeutic agent than the drug in question, but is FDA-approved, compendia-recognized as off-label use for the same indication, or has been recommended as consistent with standard medical practice by medical professional association guidelines to have similar therapeutic effects, safety profile, and expected outcome when administered to patients in a therapeutically equivalent dose.” 
+ 
+
+ (d) In addition to the criteria in subparagraph (1)(d), (1)(e), and (1)(g): Information submitted by manufacturers related to patient assistant programs and coupons. 
+
+ (e) Current wholesale acquisition cost of the prescription drug and changes in the prescription drug’s net cost over time. 
+
+ (f) Analysis to consider acquisition cost for pharmacies. 
+
+ (g) Effect of price on consumers’ access to the prescription drug by reviewing changes in pricing, expenditure, and utilization over time. 
+
+ (h) Potential market for prescription drug for labeled and off-label indications and budget impact on various payors in the state. 
+
+ (i) In addition to the criteria in subparagraph (1)(j): 
+
+ (A) To the extent such information can be quantified, the relative financial effects of the prescription drug on broader health, medical, or social services costs, compared with therapeutic alternatives or no treatment. 
+
+ (B) To the extent such information can be quantified, the total cost of the disease and the drug price offset. 
+
+ (j) In addition to the criteria in subparagraph (1)(k): Patient copayment or other cost sharing data, across different health benefit plan designs, including: 
+
+ (A) Copayment and coinsurance impacts from: 
+
+ (i) Patient assistance programs; and 
+
+ (ii) Copay coupons; 
+
+ (B) Deductible; 
+
+ (C) Patient out-of-pocket costs; and 
+
+ (D) Any other cost sharing data. 
+
+ (k) Input from Specified Stakeholders: 
+
+ (A) Patients and Caregivers: 
+
+ (i) Seek input from patients and caregivers affected by a condition or disease that is treated by the prescription drug under review by gathering information related to: 
+
+ (I) The impact of the disease; 
+
+ (II) Patient treatment preferences; 
+
+ (III) Patient perspective on the benefits and disadvantages of using the prescription drug; 
+
+ (IV) Caregiver perspective on the benefits and disadvantages of using the prescription drug; and 
+
+ (V) Available patient assistance in purchasing the prescription drug. 
+
+ (ii) In seeking additional information, attempt to gather a diversity of experience among patients from different socioeconomic backgrounds. 
+
+ (B) Individuals with Scientific or Medical Training: Seek input from individuals who possess scientific or medical training with respect to a condition or disease treated by the prescription drug that is under review, including: 
+
+ (i) The impact of the disease; 
+
+ (ii) Perspectives on benefits and disadvantages of the prescription drug, including comparisons with therapeutic alternatives if any exist; and  
+
+ (iii) Input regarding the prescription drug utilization in standard medical practice, as well as input regarding off label usage. 
+
+ (C) Safety Net Providers: health care providers that care for uninsured patients and patients with low income and receive discounted prices on prescription drugs through section 340B of the federal Public Health Service Act (42 U.S.C. 256b): 
+
+ (i) The utilization of the prescription drug by the safety net provider patients; 
+
+ (ii) Whether safety net providers receive a 340B discount for the prescription drug; 
+
+ (iii) Where safety net providers do not receive a discount, whether access to the prescription drug is impeded; and 
+
+ (iv) Any other topics identified by safety net provider stakeholders. 
+
+ (D) Payers: 
+
+ (i) Total cost of care for disease(s); 
+
+ (ii) Cost of the prescription drug to the payer;  
+
+ (iii) The availability of therapeutic alternatives on the formulary; 
+
+ (iv) Coverage mandates and impacts to per member per month or premiums; 
+
+ (v) Affordability concerns of the prescription drug, from employer groups and other plan sponsors; and 
+
+ (vi) Other costs to consider.  
+
+ (l) Rebates, Discounts, and Price Concessions: 
+
+ (A) To the extent practicable, estimated manufacturer net-sales or estimated net-cost amounts (including rebates, discounts, and price concessions) for the prescription drug and therapeutic alternatives; and 
+
+ (B) Financial assistance the manufacturer provides to pharmacies, providers, consumers, and other entities. 
+
+ (m) Information from the Oregon Health Authority (OHA), Health Evidence Review Commission (HERC), and Pharmacy and Therapeutics Committee (P&T) that is relevant to the prescription drug or therapeutic alternative under review. 
+
+ (n)  In addition to the criteria in subparagraph (1) (m): A prescription drug approved by the FDA for other indications, in addition to a rare disease or condition, is not exempt from an affordability review for those other indications. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  ORS 646A.693 & ORS 646A.694 
+ 
+ 
+ Statutes/Other Implemented:  ORS 646A.694 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PDAB 1-2023, adopt filed 07/28/2023, effective 08/01/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

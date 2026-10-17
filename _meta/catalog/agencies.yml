@@ -51,18 +51,19 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   the fetch that just ran, and src/link_budget_codes.py''s _absent_entry() stamps the SAME already-recorded
   observation''s own date onto a MANUAL_ENTRIES row it adds, refusing outright if no observation has ever
   been recorded. It stays null until one of those two has run, which CONTEXT.md''s overriding rule requires:
-  ''could not check'' is never reported as ''is not there''. It marks eighteen rows today, including two
-  (chapters 419, 950) that DO carry an oar_chapter -- a mirror gap, not a chapterless body. `manual`,
-  its predecessor, is retired (#169): no row may carry it, whether or not this field does. enabling_authority,
-  where present, is what created the body — an ORS citation, a constitutional article, or an executive
-  order (ADR 0003) — or `none: ` and the reason there is none. It is hand-reviewed (src/link_enabling_authority.py),
-  is NOT scraped, and is preserved across --refresh. An ABSENT enabling_authority means nobody has reviewed
-  this body yet; it never means the body has no enabling authority, which is what the `none: ` form says
-  and says with a reason. oar_chapter is the OAR chapter this body''s rules are filed under, scraped from
-  the index tree; null on the chapterless rows is not a gap — a body is in this registry because it EXISTS,
-  not because it issues rules. source_url is the chapter page each row was scraped from, where the scrape
-  found one: null on 14 of the 19 chapterless rows, not all of them — the other five hold a source_url
-  that is not a chapter page (four hold the mirror''s own rules index, https://oregon.public.law/rules,
+  ''could not check'' is never reported as ''is not there''. It marks twenty-six rows today, including
+  fourteen (chapters 111, 180, 265, 404, 419, 648, 699, 750, 800, 816, 831, 925, 944, 950) that DO carry
+  an oar_chapter -- a mirror gap, not a chapterless body. `manual`, its predecessor, is retired (#169):
+  no row may carry it, whether or not this field does. enabling_authority, where present, is what created
+  the body — an ORS citation, a constitutional article, or an executive order (ADR 0003) — or `none: `
+  and the reason there is none. It is hand-reviewed (src/link_enabling_authority.py), is NOT scraped,
+  and is preserved across --refresh. An ABSENT enabling_authority means nobody has reviewed this body
+  yet; it never means the body has no enabling authority, which is what the `none: ` form says and says
+  with a reason. oar_chapter is the OAR chapter this body''s rules are filed under, scraped from the index
+  tree; null on the chapterless rows is not a gap — a body is in this registry because it EXISTS, not
+  because it issues rules. source_url is the chapter page each row was scraped from, where the scrape
+  found one: null on 11 of the 15 chapterless rows, not all of them — the other four hold a source_url
+  that is not a chapter page (three hold the mirror''s own rules index, https://oregon.public.law/rules,
   and the saif-corporation row holds its own site). aliases, where present, are other names the same body
   is known by, including former names after a rename — hand-reviewed once, curated, and preserved across
   --refresh. note is scrape-only (#178): cmd_refresh() writes one of exactly three sentences into it,
@@ -261,6 +262,23 @@ organizations:
   absent_from_index_as_of: '2026-09-12'
   das_agency_number: '175'
   enabling_authority: ORS 1.410
+- slug: commission-on-statewide-law-enforcement-standards-of-conduct-and-discipline
+  name: Commission on Statewide Law Enforcement Standards of Conduct and Discipline
+  name_basis: unverified-oar-title
+  oar_name: Commission on Statewide Law Enforcement Standards of Conduct and Discipline
+  oar_chapter: '265'
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=265-001-0001
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  curator_note: 'New row: no registry row existed for this body, and its chapter is absent from oregon.public.law''s
+    index (mirror gap). Name verbatim from OARD''s chapter dropdown (ruleSearch.action, ''265 - Commission
+    on Statewide Law Enforcement Standards of Conduct and Discipline'', 2026-10-17). absent_from_index_as_of
+    is the recorded index observation''s own date (oar_index_observation.yml, 2026-09-12), which lists
+    no chapter 265; it was written by hand, not by --refresh or link_budget_codes. ORS 243.812(1): ''The
+    Commission on Statewide Law Enforcement Standards of Conduct and Discipline is established''.'
+  enabling_authority: ORS 243.812
 - slug: construction-contractors-board
   name: Construction Contractors Board
   name_basis: unverified-oar-title
@@ -794,6 +812,28 @@ organizations:
   enabling_authority: 'none: Part of the Department of Consumer and Business Services (ADR 0004): reviewed
     2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
     to record.'
+- slug: department-of-consumer-and-business-services-prescription-drug-affordability-board
+  name: Department of Consumer and Business Services, Prescription Drug Affordability Board
+  name_basis: unverified-oar-title
+  oar_name: Department of Consumer and Business Services, Prescription Drug Affordability Board
+  oar_chapter: '925'
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=925-100-0001
+  parent_chapter: null
+  relations:
+  - target: department-of-consumer-and-business-services
+    source: registry
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 646A.693
+  absent_from_index_as_of: '2026-09-12'
+  curator_note: 'New row: no registry row existed for this body, and its chapter is absent from oregon.public.law''s
+    index (mirror gap). Name verbatim from OARD''s chapter dropdown (ruleSearch.action, ''925 - Department
+    of Consumer and Business Services, Prescription Drug Affordability Board'', 2026-10-17). absent_from_index_as_of
+    is the recorded index observation''s own date (oar_index_observation.yml, 2026-09-12), which lists
+    no chapter 925; it was written by hand, not by --refresh or link_budget_codes. ORS 646A.693(1): ''The
+    Prescription Drug Affordability Board is established in the Department of Consumer and Business Services''.'
+  enabling_authority: ORS 646A.693
 - slug: department-of-consumer-and-business-services-workers-compensation-board
   name: Department of Consumer and Business Services, Workers' Compensation Board
   name_basis: unverified-oar-title
@@ -1504,11 +1544,19 @@ organizations:
   name: Mental Health Regulatory Agency
   name_basis: unverified-oar-title
   oar_name: Mental Health Regulatory Agency
-  oar_chapter: null
+  oar_chapter: '831'
   raw_index_name: Mental Health Regulatory Agency
-  source_url: https://oregon.public.law/rules
+  source_url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=219
   parent_chapter: null
   relations: []
+  absent_from_index_as_of: '2026-09-12'
+  curator_note: OARD's chapter dropdown (ruleSearch.action, 2026-10-17) prints '831 - Mental Health Regulatory
+    Agency', and the chapter page says "There are no divisions to display" (2026-10-17), so the chapter
+    holds no rules to mirror and catalog_oar.py --discover writes no entry for it (#259). The oregon.public.law
+    index lists this body only as a chapterless group over chapters 833 and 858, and its recorded observation
+    (oar_index_observation.yml, 2026-09-12) has no chapter 831, so the chapter is dated absent from the
+    index on that observation's own date. A real --refresh rebuilds this row from that group, where oar_chapter
+    is null; review this row after any refresh.
   das_agency_number: '108'
   enabling_authority: ORS 675.160
 - slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
@@ -1518,7 +1566,7 @@ organizations:
   oar_chapter: '833'
   raw_index_name: Or. Board of Licensed Professional Counselors & Therapists
   source_url: https://oregon.public.law/rules/oar_chapter_833
-  parent_chapter: null
+  parent_chapter: '831'
   relations:
   - target: mental-health-regulatory-agency
     source: oar-index
@@ -1533,7 +1581,7 @@ organizations:
   oar_chapter: '858'
   raw_index_name: Or. Board of Psychology
   source_url: https://oregon.public.law/rules/oar_chapter_858
-  parent_chapter: null
+  parent_chapter: '831'
   relations:
   - target: mental-health-regulatory-agency
     source: oar-index
@@ -1565,14 +1613,22 @@ organizations:
   name: Office of Public Defense Services
   name_basis: unverified-oar-title
   oar_name: Office of Public Defense Services
-  oar_chapter: null
-  raw_index_name: Office of Public Defense Services
-  source_url: null
+  oar_chapter: '404'
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=403
   parent_chapter: null
   relations: []
   absent_from_index_as_of: '2026-09-12'
+  curator_note: Chapter absent from oregon.public.law's index (mirror gap). OARD's chapter dropdown (ruleSearch.action,
+    2026-10-17) prints '404 - Oregon Public Defense Commission', and ORS 151.213(1) (2025 edition) establishes
+    the Oregon Public Defense Commission; SB 337 (2023) renamed the body. OARD lists one division and
+    no current rules in the chapter. Was registered as an agency that issues no rules (link_budget_codes
+    MANUAL_ENTRIES) with no chapter. The slug and oar_name are left as they were, because renaming the
+    slug would break sibling corpora that resolve it (oregon-budget, oregon-kpm), so that is the maintainer's
+    decision.
   das_agency_number: '404'
   aliases:
+  - Oregon Public Defense Commission
   - Public Defense Services Commission
   enabling_authority: ORS 151.213
 - slug: office-of-the-governor
@@ -1829,6 +1885,27 @@ organizations:
   relations: []
   das_agency_number: '443'
   enabling_authority: ORS 413.032
+- slug: oregon-health-authority-drug-treatment-and-recovery-services
+  name: Oregon Health Authority, Drug Treatment and Recovery Services
+  name_basis: unverified-oar-title
+  oar_name: Oregon Health Authority, Drug Treatment and Recovery Services
+  oar_chapter: '944'
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=944-001-0000
+  parent_chapter: '943'
+  relations:
+  - target: oregon-health-authority
+    source: registry
+    kind: undetermined
+  absent_from_index_as_of: '2026-09-12'
+  curator_note: 'New row: no registry row existed for this body, and its chapter is absent from oregon.public.law''s
+    index (mirror gap). Name verbatim from OARD''s chapter dropdown (ruleSearch.action, ''944 - Oregon
+    Health Authority, Drug Treatment and Recovery Services'', 2026-10-17). absent_from_index_as_of is
+    the recorded index observation''s own date (oar_index_observation.yml, 2026-09-12), which lists no
+    chapter 944; it was written by hand, not by --refresh or link_budget_codes. No enabling authority
+    is recorded: ORS 430.383 to 430.390 establish the Drug Treatment and Recovery Services Fund (ORS 430.384)
+    and the Oversight and Accountability Council (ORS 430.388), and no mirrored section constitutes a
+    body by this name, so nobody has yet decided whether this is a part of the Oregon Health Authority.'
 - slug: oregon-health-authority-equity-and-inclusion-division
   name: Oregon Health Authority Equity and Inclusion Division
   name_basis: unverified-oar-title
@@ -1967,6 +2044,30 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 678.800
   enabling_authority: ORS 678.800
+- slug: oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters
+  name: Oregon Health Authority, Health Licensing Office, State Board of Sign Language Interpreters
+  name_basis: unverified-oar-title
+  oar_name: Oregon Health Authority, Health Licensing Office, State Board of Sign Language Interpreters
+  oar_chapter: '816'
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=816-005-0000
+  parent_chapter: '943'
+  relations:
+  - target: oregon-health-authority
+    source: registry
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 676.780
+  absent_from_index_as_of: '2026-09-12'
+  curator_note: 'New row: no registry row existed for this body, and its chapter is absent from oregon.public.law''s
+    index (mirror gap). Name verbatim from OARD''s chapter dropdown (ruleSearch.action, ''816 - Oregon
+    Health Authority, Health Licensing Office, State Board of Sign Language Interpreters'', 2026-10-17).
+    absent_from_index_as_of is the recorded index observation''s own date (oar_index_observation.yml,
+    2026-09-12), which lists no chapter 816; it was written by hand, not by --refresh or link_budget_codes.
+    ORS 676.780(1): ''There is established within the Health Licensing Office the State Board of Sign
+    Language Interpreters''. Placed under the Oregon Health Authority, as its seven Health Licensing Office
+    siblings are.'
+  enabling_authority: ORS 676.780
 - slug: oregon-health-authority-health-policy-and-analytics
   name: Oregon Health Authority, Health Policy and Analytics
   name_basis: unverified-oar-title
@@ -2027,6 +2128,28 @@ organizations:
     basis: reviewed-absence
   enabling_authority: 'none: Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux,
     who found nothing separately constitutes it, so there is no enabling authority to record.'
+- slug: oregon-health-authority-oregon-educators-benefit-board
+  name: Oregon Health Authority, Oregon Educators Benefit Board
+  name_basis: unverified-oar-title
+  oar_name: Oregon Health Authority, Oregon Educators Benefit Board
+  oar_chapter: '111'
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=111-001-0000
+  parent_chapter: '943'
+  relations:
+  - target: oregon-health-authority
+    source: registry
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 243.862
+  absent_from_index_as_of: '2026-09-12'
+  curator_note: 'New row: no registry row existed for this body, and its chapter is absent from oregon.public.law''s
+    index (mirror gap). Name verbatim from OARD''s chapter dropdown (ruleSearch.action, ''111 - Oregon
+    Health Authority, Oregon Educators Benefit Board'', 2026-10-17). absent_from_index_as_of is the recorded
+    index observation''s own date (oar_index_observation.yml, 2026-09-12), which lists no chapter 111;
+    it was written by hand, not by --refresh or link_budget_codes. ORS 243.862(1): ''There is established
+    in the Oregon Health Authority an Oregon Educators Benefit Board''.'
+  enabling_authority: ORS 243.862
 - slug: oregon-health-authority-oregon-prescription-drug-program
   name: Oregon Health Authority, Oregon Prescription Drug Program
   name_basis: unverified-oar-title
@@ -2076,9 +2199,9 @@ organizations:
   name: Oregon Hemp Commission
   name_basis: enabling-authority
   oar_name: Oregon Hemp Commission
-  oar_chapter: null
-  raw_index_name: Oregon Hemp Commission
-  source_url: null
+  oar_chapter: '648'
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-001-0010
   parent_chapter: '603'
   relations:
   - target: department-of-agriculture
@@ -2093,7 +2216,10 @@ organizations:
     OAM numbers as that ADR''s standing report expects. Also unlike its 23 department-of-agriculture-*
     siblings this row''s slug carries no parent prefix (ADR 0003: no compound `Parent, Child` name to
     split), so after this row the registry has 23 rows matching that slug prefix and 24 rows whose relations
-    target department-of-agriculture — pick the join deliberately; they now differ.'
+    target department-of-agriculture — pick the join deliberately; they now differ. OAR chapter 648: OARD''s
+    chapter dropdown (ruleSearch.action, 2026-10-17) prints ''648 - Department of Agriculture, Oregon
+    Hemp Commission''. The chapter is absent from oregon.public.law''s index (mirror gap), so OAR discovery
+    never walked it until this row held it.'
   enabling_authority: ORS 571.406
 - slug: oregon-housing-and-community-services-department
   name: Oregon Housing and Community Services Department
@@ -2299,6 +2425,31 @@ organizations:
   relations: []
   das_agency_number: '691'
   enabling_authority: ORS 541.900
+- slug: oregon-watershed-enhancement-board-environmental-restoration-council
+  name: Oregon Watershed Enhancement Board, Environmental Restoration Council
+  name_basis: unverified-oar-title
+  oar_name: Oregon Watershed Enhancement Board, Environmental Restoration Council
+  oar_chapter: '699'
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=699-010-0010
+  parent_chapter: '695'
+  relations:
+  - target: oregon-watershed-enhancement-board
+    source: registry
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 541.861
+  absent_from_index_as_of: '2026-09-12'
+  curator_note: 'New row: no registry row existed for this body, and its chapter is absent from oregon.public.law''s
+    index (mirror gap). absent_from_index_as_of is the recorded index observation''s own date (oar_index_observation.yml,
+    2026-09-12), which lists no chapter 699; it was written by hand, not by --refresh or link_budget_codes.
+    Name verbatim from OARD''s own chapter page title (displayChapterRules.action, 2026-10-17): ''Oregon
+    Watershed Enhancement Board, Environmental Restoration Council - Chapter 699'', printed under the
+    parent heading ''Oregon Watershed Enhancement Board''. The dropdown joins the two and prints ''699
+    - Oregon Watershed Enhancement Board, Oregon Watershed Enhancement Board, Environmental Restoration
+    Council''; the doubled parent is not carried into the name. ORS 541.861(1): ''The Environmental Restoration
+    Council is established in the Oregon Watershed Enhancement Board.'''
+  enabling_authority: ORS 541.861
 - slug: oregon-watershed-enhancement-board-oregon-agricultural-heritage-program
   name: Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program
   name_basis: unverified-oar-title
@@ -2360,14 +2511,22 @@ organizations:
   name: Public Records Advocate
   name_basis: unverified-oar-title
   oar_name: Public Records Advocate
-  oar_chapter: null
-  raw_index_name: Public Records Advocate
-  source_url: null
+  oar_chapter: '180'
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0000
   parent_chapter: null
   relations: []
   absent_from_index_as_of: '2026-09-12'
+  curator_note: Chapter absent from oregon.public.law's index (mirror gap). OARD's chapter dropdown (ruleSearch.action,
+    2026-10-17) prints '180 - Office of the Public Records Advocate'; ORS 192.461(1) creates 'the office
+    of the Public Records Advocate'. Was registered as an agency that issues no rules (link_budget_codes
+    MANUAL_ENTRIES) with no chapter, so OAR discovery never walked chapter 180. The slug and oar_name
+    are left as they were, because renaming the slug would break sibling corpora that resolve it (oregon-budget,
+    oregon-kpm), so that is the maintainer's decision.
   das_agency_number: '104'
   enabling_authority: ORS 192.461
+  aliases:
+  - Office of the Public Records Advocate
 - slug: public-utility-commission
   name: Public Utility Commission
   name_basis: unverified-oar-title
@@ -2531,11 +2690,29 @@ organizations:
   relations: []
   absent_from_index_as_of: '2026-09-12'
   curator_note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from OARD's
-    chapter dropdown (ruleSearch.action, '800 - State Board of Tax Practitioners', 2026-10-16). Was
-    registered as an agency that issues no rules (link_budget_codes MANUAL_ENTRIES) with no chapter,
-    so OAR discovery never walked chapter 800.
+    chapter dropdown (ruleSearch.action, '800 - State Board of Tax Practitioners', 2026-10-16). Was registered
+    as an agency that issues no rules (link_budget_codes MANUAL_ENTRIES) with no chapter, so OAR discovery
+    never walked chapter 800.
   das_agency_number: '119'
   enabling_authority: ORS 673.725
+- slug: state-board-of-towing
+  name: State Board of Towing
+  name_basis: unverified-oar-title
+  oar_name: State Board of Towing
+  oar_chapter: '750'
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=750-001-0001
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  curator_note: 'New row: no registry row existed for this body, and its chapter is absent from oregon.public.law''s
+    index (mirror gap). Name verbatim from OARD''s chapter dropdown (ruleSearch.action, ''750 - State
+    Board of Towing'', 2026-10-17). absent_from_index_as_of is the recorded index observation''s own date
+    (oar_index_observation.yml, 2026-09-12), which lists no chapter 750; it was written by hand, not by
+    --refresh or link_budget_codes. ORS 822.250(1): ''The State Board of Towing is established within
+    the Department of Transportation.'' OARD files the chapter under no parent, so no relation is recorded;
+    whether it is administered by the Department of Transportation is not yet decided.'
+  enabling_authority: ORS 822.250
 - slug: teacher-standards-and-practices-commission
   name: Teacher Standards and Practices Commission
   name_basis: unverified-oar-title

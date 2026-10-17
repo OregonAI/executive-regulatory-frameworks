@@ -175,7 +175,7 @@ _Avoid_: Enabling statute, creating ORS, organic act — all three presuppose a 
 **Legal status**:
 Whether a rule is in force. It lives in the document's `status` frontmatter field, whose values
 corpus-toolkit's schema fixes as `current | superseded | repealed | proposed | draft`, and it
-is a claim about Oregon law. Measured over the committed corpus: 40,515
+is a claim about Oregon law. Measured over the committed corpus: 40,752
 <!--census:legal_status_docs.status_current--> rules read `current`, 2,108
 <!--census:legal_status_docs.status_repealed--> `repealed` and 37
 <!--census:legal_status_docs.status_superseded--> `superseded`, computed by
@@ -264,7 +264,7 @@ way and this is a third fact about the same rule
 Whether this corpus holds a copy of a rule, and in what shape. It lives in
 `_meta/catalog/oar.yml` as `rules[].status`, and its vocabulary — all SIX words, declared
 in one module, `ingest_status.py` (#333, not restated here or anywhere that reads it) —
-is `ingested` (42,181 <!--census:oar.ingested-->), `not_ingested`
+is `ingested` (42,418 <!--census:oar.ingested-->), `not_ingested`
 (0 <!--census:oar.not_ingested--> since #238 ingested the 5,608
 <!--observed:2026-08-28--> rules #270's OARD-direct discovery had found: the word means
 OARD names a rule this mirror holds no document for, and a count of zero says the mirror is
@@ -283,7 +283,7 @@ never about Oregon law: a rule can be in force and absent here, or repealed and 
 The Bulletin's claim about force sits on the SAME ROW under different keys — `legal_status`,
 `legal_status_action` and `legal_status_notice`, none of which may appear without the others
 — and the two vocabularies never borrow each other's words — `legal_status.py --check` reads
-all 42,714 <!--census:oar.total--> entries and refuses either field holding the other's
+all 42,951 <!--census:oar.total--> entries and refuses either field holding the other's
 vocabulary, because on the
 day they first collide nothing else in the repository would notice.
 _Avoid_: Status, unqualified. The two fields share a name and mean different things, which is
@@ -533,8 +533,8 @@ _Avoid_: Evidence, provenance, reason — a basis says what a KIND was derived f
 **Undetermined**:
 The kind of a relation nobody has decided yet. Choosing between *part of* and *administered
 by* turns on whether the body carries its own admitting evidence (ADR 0004), and
-3 <!--census:agencies.relation_kind__undetermined--> of the
-82 <!--census:agencies.relation_total_relations--> relations have none of any strength — so
+4 <!--census:agencies.relation_kind__undetermined--> of the
+87 <!--census:agencies.relation_total_relations--> relations have none of any strength — so
 `undetermined` is what they record, and
 `catalog_agencies.py --check` reports the count on every run. It says the relation is REAL
 and its kind unestablished, which is neither of the two kinds and is never a third one. It
@@ -543,8 +543,8 @@ statement about the matcher, so a relation nothing speaks to stays undetermined 
 becoming *part of* — that is distinct from a REVIEWED absence, `none: <reason>`, which a
 human recorded and which does derive *part of* (#222; see **Part of** above).
 
-THE REMAINING 3 <!--census:agencies.relation_kind__undetermined--> ARE NOT A BACKLOG, AND NOT
-THE ORIGINAL KIND OF UNDETERMINED EITHER. This was 36 <!--observed:2026-09-12--> until a review
+OF THE REMAINING 4 <!--census:agencies.relation_kind__undetermined-->, THREE ARE NOT A BACKLOG,
+AND NOT THE ORIGINAL KIND OF UNDETERMINED EITHER. This was 36 <!--observed:2026-09-12--> until a review
 of every one of them recorded 33 <!--census:agencies.relation_basis__reviewed-absence--> reviewed
 absences, and #222's derivation turned those into
 33 <!--census:agencies.relation_kind__part_of--> *part of* relations.
@@ -555,7 +555,10 @@ for a body that is separately constituted, and recording its enabling authority 
 *administered by*, asserting exactly the attachment the statute ended. So they stay
 `undetermined` — not because nobody looked, but because this registry has no way yet to say
 *was part of, now separate*. That gap is the reason for the count, and naming it here is the
-difference between a known limit and an unexplained residue.
+difference between a known limit and an unexplained residue. The fourth IS the original kind:
+Oregon Health Authority, Drug Treatment and Recovery Services (OAR chapter 944, registered
+2026-10-17), where no mirrored section constitutes a body by that name and nobody has yet
+reviewed whether it is a part of the Authority.
 _Avoid_: Unknown, null, blank — an absent kind lets a consumer read whichever it prefers
 
 **DAS agency number**:
@@ -599,13 +602,13 @@ RECORDED baseline, written to `changed-sources.tsv`. It is the second of ADR 000
 signals and it is OBSERVATION of what is served, where the Bulletin is AUTHORITY about what
 was filed — neither arbitrates the other, and the disagreement is the finding. Its universe
 is the manifest, not the corpus: `_meta/sources/oar.yml` now watches
-6,713 <!--census:oar_watch.watched--> individual rule pages across
-137 <!--census:oar_watch.watched_chapters--> chapters — grown from the
+6,950 <!--census:oar_watch.watched--> individual rule pages across
+146 <!--census:oar_watch.watched_chapters--> chapters — grown from the
 484 <!--observed:2026-08-28--> pages in four chapters #247 found the manifest holding, which
 is what made THE OVERLAP ZERO true when it was written and false now, gated rather than
 restated by hand so the next growth is caught here too. The August 2026 bulletin named
 534 <!--census:oar_watch.named--> rules in 35 <!--census:oar_watch.named_chapters--> chapters,
-of which 524 <!--census:oar_watch.overlap--> are now ALSO watched — so ADR 0006's *filed but
+of which 534 <!--census:oar_watch.overlap--> are now ALSO watched — so ADR 0006's *filed but
 not yet served* and *agreement* cases, empty at #247's writing, are live for that many rules,
 and for the remaining named rules there is still no observation at all. A rule's absence
 from the drift file is therefore never read as "the

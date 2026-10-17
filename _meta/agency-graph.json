@@ -3,7 +3,7 @@
  "weighting": "sum over shared ORS chapters of 1/ln(chapter_pop + e)",
  "ubiquity_default": 40,
  "counts": {
-  "agencies": 166,
+  "agencies": 175,
   "colored_groups": 15,
   "ors_chapters": 439,
   "bodies_their_sources_disagree_about": 0
@@ -12,17 +12,17 @@
   {
    "slug": "department-of-agriculture",
    "name": "Department of Agriculture",
-   "members": 23
+   "members": 24
   },
   {
    "slug": "oregon-health-authority",
    "name": "Oregon Health Authority",
-   "members": 17
+   "members": 20
   },
   {
    "slug": "department-of-consumer-and-business-services",
    "name": "Department of Consumer and Business Services",
-   "members": 8
+   "members": 9
   },
   {
    "slug": "department-of-transportation",
@@ -60,6 +60,11 @@
    "members": 3
   },
   {
+   "slug": "oregon-watershed-enhancement-board",
+   "name": "Oregon Watershed Enhancement Board",
+   "members": 3
+  },
+  {
    "slug": "department-of-energy",
    "name": "Department of Energy",
    "members": 2
@@ -72,11 +77,6 @@
   {
    "slug": "mental-health-regulatory-agency",
    "name": "Mental Health Regulatory Agency",
-   "members": 2
-  },
-  {
-   "slug": "oregon-watershed-enhancement-board",
-   "name": "Oregon Watershed Enhancement Board",
    "members": 2
   },
   {
@@ -134,12 +134,12 @@
   "180": 5,
   "181a": 25,
   "182": 11,
-  "183": 123,
+  "183": 128,
   "184": 8,
   "185": 2,
   "187": 2,
   "190": 4,
-  "192": 58,
+  "192": 63,
   "194": 3,
   "195": 2,
   "196": 5,
@@ -160,7 +160,7 @@
   "238": 2,
   "238a": 1,
   "240": 3,
-  "243": 4,
+  "243": 6,
   "244": 5,
   "246": 1,
   "247": 1,
@@ -195,8 +195,8 @@
   "287a": 1,
   "289": 1,
   "291": 8,
-  "292": 34,
-  "293": 24,
+  "292": 36,
+  "293": 25,
   "294": 1,
   "295": 1,
   "297": 2,
@@ -243,7 +243,7 @@
   "345": 2,
   "346": 2,
   "348": 6,
-  "350": 4,
+  "350": 5,
   "352": 3,
   "353": 2,
   "357": 3,
@@ -285,7 +285,7 @@
   "426": 7,
   "427": 3,
   "428": 1,
-  "430": 9,
+  "430": 10,
   "431": 1,
   "431a": 5,
   "432": 2,
@@ -357,7 +357,7 @@
   "538": 1,
   "539": 1,
   "540": 1,
-  "541": 4,
+  "541": 5,
   "543": 2,
   "543a": 2,
   "554": 1,
@@ -367,7 +367,7 @@
   "566": 2,
   "568": 1,
   "570": 2,
-  "571": 3,
+  "571": 4,
   "576": 22,
   "577": 2,
   "578": 2,
@@ -400,7 +400,7 @@
   "635": 1,
   "645": 1,
   "646": 7,
-  "646a": 3,
+  "646a": 5,
   "647": 1,
   "648": 2,
   "65": 2,
@@ -424,7 +424,7 @@
   "673": 2,
   "674": 1,
   "675": 6,
-  "676": 26,
+  "676": 27,
   "677": 3,
   "678": 6,
   "679": 3,
@@ -504,7 +504,7 @@
   "82": 1,
   "820": 4,
   "821": 2,
-  "822": 1,
+  "822": 2,
   "823": 2,
   "824": 1,
   "825": 3,
@@ -513,7 +513,7 @@
   "835": 1,
   "836": 2,
   "837": 1,
-  "84": 4,
+  "84": 5,
   "86": 1,
   "86a": 1,
   "87": 3,
@@ -524,7 +524,7 @@
   "93": 1,
   "94": 1,
   "97": 7,
-  "98": 6
+  "98": 7
  },
  "agencies": [
   {
@@ -821,6 +821,18 @@
     "192",
     "346",
     "36"
+   ]
+  },
+  {
+   "slug": "commission-on-statewide-law-enforcement-standards-of-conduct-and-discipline",
+   "name": "Commission on Statewide Law Enforcement Standards of Conduct and Discipline",
+   "rules": 16,
+   "parent": null,
+   "group": "commission-on-statewide-law-enforcement-standards-of-conduct-and-discipline",
+   "group_name": "Commission on Statewide Law Enforcement Standards of Conduct and Discipline",
+   "governance": "executive_branch",
+   "chapters": [
+    "243"
    ]
   },
   {
@@ -1458,6 +1470,21 @@
     "654",
     "656",
     "658"
+   ]
+  },
+  {
+   "slug": "department-of-consumer-and-business-services-prescription-drug-affordability-board",
+   "name": "Department of Consumer and Business Services, Prescription Drug Affordability Board",
+   "rules": 5,
+   "parent": "department-of-consumer-and-business-services",
+   "group": "department-of-consumer-and-business-services",
+   "group_name": "Department of Consumer and Business Services",
+   "governance": "executive_branch",
+   "chapters": [
+    "183",
+    "192",
+    "646a",
+    "84"
    ]
   },
   {
@@ -2982,6 +3009,18 @@
    ]
   },
   {
+   "slug": "oregon-health-authority-drug-treatment-and-recovery-services",
+   "name": "Oregon Health Authority, Drug Treatment and Recovery Services",
+   "rules": 16,
+   "parent": "oregon-health-authority",
+   "group": "oregon-health-authority",
+   "group_name": "Oregon Health Authority",
+   "governance": "executive_branch",
+   "chapters": [
+    "430"
+   ]
+  },
+  {
    "slug": "oregon-health-authority-equity-and-inclusion-division",
    "name": "Oregon Health Authority Equity and Inclusion Division",
    "rules": 49,
@@ -3113,6 +3152,18 @@
    ]
   },
   {
+   "slug": "oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters",
+   "name": "Oregon Health Authority, Health Licensing Office, State Board of Sign Language Interpreters",
+   "rules": 20,
+   "parent": "oregon-health-authority",
+   "group": "oregon-health-authority",
+   "group_name": "Oregon Health Authority",
+   "governance": "executive_branch",
+   "chapters": [
+    "676"
+   ]
+  },
+  {
    "slug": "oregon-health-authority-health-policy-and-analytics",
    "name": "Oregon Health Authority, Health Policy and Analytics",
    "rules": 161,
@@ -3222,6 +3273,23 @@
    ]
   },
   {
+   "slug": "oregon-health-authority-oregon-educators-benefit-board",
+   "name": "Oregon Health Authority, Oregon Educators Benefit Board",
+   "rules": 66,
+   "parent": "oregon-health-authority",
+   "group": "oregon-health-authority",
+   "group_name": "Oregon Health Authority",
+   "governance": "executive_branch",
+   "chapters": [
+    "183",
+    "192",
+    "243",
+    "292",
+    "350",
+    "646a"
+   ]
+  },
+  {
    "slug": "oregon-health-authority-oregon-prescription-drug-program",
    "name": "Oregon Health Authority, Oregon Prescription Drug Program",
    "rules": 7,
@@ -3305,6 +3373,21 @@
     "813",
     "820",
     "97"
+   ]
+  },
+  {
+   "slug": "oregon-hemp-commission",
+   "name": "Oregon Hemp Commission",
+   "rules": 31,
+   "parent": "department-of-agriculture",
+   "group": "department-of-agriculture",
+   "group_name": "Department of Agriculture",
+   "governance": "executive_branch",
+   "chapters": [
+    "183",
+    "192",
+    "292",
+    "571"
    ]
   },
   {
@@ -3580,6 +3663,18 @@
    ]
   },
   {
+   "slug": "oregon-watershed-enhancement-board-environmental-restoration-council",
+   "name": "Oregon Watershed Enhancement Board, Environmental Restoration Council",
+   "rules": 17,
+   "parent": "oregon-watershed-enhancement-board",
+   "group": "oregon-watershed-enhancement-board",
+   "group_name": "Oregon Watershed Enhancement Board",
+   "governance": "executive_branch",
+   "chapters": [
+    "541"
+   ]
+  },
+  {
    "slug": "oregon-watershed-enhancement-board-oregon-agricultural-heritage-program",
    "name": "Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program",
    "rules": 61,
@@ -3669,6 +3764,19 @@
     "192",
     "419c",
     "426"
+   ]
+  },
+  {
+   "slug": "public-records-advocate",
+   "name": "Public Records Advocate",
+   "rules": 14,
+   "parent": null,
+   "group": "public-records-advocate",
+   "group_name": "Public Records Advocate",
+   "governance": "executive_branch",
+   "chapters": [
+    "183",
+    "192"
    ]
   },
   {
@@ -3849,6 +3957,22 @@
     "192",
     "670",
     "673"
+   ]
+  },
+  {
+   "slug": "state-board-of-towing",
+   "name": "State Board of Towing",
+   "rules": 37,
+   "parent": null,
+   "group": "state-board-of-towing",
+   "group_name": "State Board of Towing",
+   "governance": "executive_branch",
+   "chapters": [
+    "183",
+    "192",
+    "293",
+    "822",
+    "98"
    ]
   },
   {

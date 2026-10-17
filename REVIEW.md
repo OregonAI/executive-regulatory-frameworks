@@ -106,7 +106,7 @@ The document prints a different date than its listing of record (known site typo
 - `agencies/department-of-administrative-services/accounting-manual/oam-15-60-25.md` — document's printed date differs from the listing of record (see Curator notes)
 - `agencies/department-of-administrative-services/accounting-manual/oam-45-20-00.md` — document's printed date differs from the listing of record (see Curator notes)
 
-## Unlinked rules/policies/procedures/standards — no graph edges (347)
+## Unlinked rules/policies/procedures/standards — no graph edges (350)
 
 `src/link_graph.py` found no authority citation (or, for procedures, no `_PR` naming match) connecting this document to anything else in the corpus. Itemized entries usually mean the source's authority text doesn't match the extractor's citation patterns — check the source and either fix the citation text or add a hand-authored relationship. Per-chapter aggregate entries are rules whose own cited authority is chapter-level or not in the corpus — correct non-links, nothing to fix.
 
@@ -274,6 +274,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/101/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/104/ (55 rules)` — correct non-links — 11 cite only chapter-level authority (no section to link to); 44 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/105/ (1 rules)` — correct non-links — 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/111/ (10 rules)` — correct non-links — 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/114/ (20 rules)` — correct non-links — 20 cite only chapter-level authority (no section to link to); per-rule detail in each file's legal_authority
 - `rules/115/ (91 rules)` — correct non-links — 91 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/122/ (9 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
@@ -306,6 +307,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/255/075/oar-255-075-0073.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/257/ (52 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 51 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/259/ (4 rules)` — correct non-links — 4 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/265/ (2 rules)` — correct non-links — 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/274/ (54 rules)` — correct non-links — 16 cite only chapter-level authority (no section to link to); 38 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/291/ (25 rules)` — correct non-links — 25 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/309/ (54 rules)` — correct non-links — 54 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
@@ -453,6 +455,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/877/ (3 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 2 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/918/ (35 rules)` — correct non-links — 35 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/943/ (27 rules)` — correct non-links — 27 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/944/ (3 rules)` — correct non-links — 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/945/ (10 rules)` — correct non-links — 10 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/950/ (8 rules)` — correct non-links — 8 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/951/ (15 rules)` — correct non-links — 15 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
@@ -1365,7 +1368,7 @@ Oddities in the /gov/eo listing of record recorded by `src/ingest_eo.py` (duplic
 - `eo-21-05` — two listing rows with different bytes (/gov/eo/eo-21-05.pdf vs /gov/eo/eo_21-05.pdf) — confirm which file is the order of record
 - `eo-21-20` — listing says 2021 No. 29; filename (trusted) says 2021 No. 20 — the description matches the filename
 
-## Agency profiles needing curation (162)
+## Agency profiles needing curation (171)
 
 These agencies have in-repo content but their profile (`_meta/agency-profiles.yml`) still carries stub values — the model gets their data without its context until a human fills governance (with a citation) and publication status.
 
@@ -1386,6 +1389,7 @@ These agencies have in-repo content but their profile (`_meta/agency-profiles.ym
 - `_meta/agency-profiles.yml (citizens-initiative-review-commission)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (columbia-river-gorge-commission)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (commission-for-the-blind)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (commission-on-statewide-law-enforcement-standards-of-conduct-and-discipline)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (construction-contractors-board)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-agriculture)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-agriculture-oregon-albacore-commission)` — policies_published unknown (where does this agency publish?)
@@ -1418,6 +1422,7 @@ These agencies have in-repo content but their profile (`_meta/agency-profiles.ym
 - `_meta/agency-profiles.yml (department-of-consumer-and-business-services-health-insurance-marketplace)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-consumer-and-business-services-insurance-regulation)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-consumer-and-business-services-oregon-occupational-safety-and-health-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (department-of-consumer-and-business-services-prescription-drug-affordability-board)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-consumer-and-business-services-workers-compensation-board)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-consumer-and-business-services-workers-compensation-division)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (department-of-energy)` — policies_published unknown (where does this agency publish?)
@@ -1482,6 +1487,7 @@ These agencies have in-repo content but their profile (`_meta/agency-profiles.ym
 - `_meta/agency-profiles.yml (oregon-film-and-video-office)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-forest-resources-institute)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-government-ethics-commission)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-drug-treatment-and-recovery-services)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-health-authority-equity-and-inclusion-division)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board)` — policies_published unknown (where does this agency publish?)
@@ -1491,13 +1497,16 @@ These agencies have in-repo content but their profile (`_meta/agency-profiles.ym
 - `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-board-of-licensed-dietitians)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-environmental-health-registration-board)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-long-term-care-administrators-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-health-authority-health-policy-and-analytics)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-health-authority-health-systems-division-addiction-services)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-health-authority-health-systems-division-behavioral-health-services)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-health-authority-health-systems-division-medical-assistance-programs)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-health-authority-oregon-educators-benefit-board)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-health-authority-oregon-prescription-drug-program)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-health-authority-public-employees-benefit-board)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-health-authority-public-health-division)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-hemp-commission)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-housing-and-community-services-department)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-investment-council)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-liquor-control-commission)` — policies_published unknown (where does this agency publish?)
@@ -1512,10 +1521,12 @@ These agencies have in-repo content but their profile (`_meta/agency-profiles.ym
 - `_meta/agency-profiles.yml (oregon-state-treasury)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-tourism-commission)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-utility-notification-center)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (oregon-watershed-enhancement-board-environmental-restoration-council)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-watershed-enhancement-board-oregon-agricultural-heritage-program)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (oregon-wine-board)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (parks-and-recreation-department)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (psychiatric-security-review-board)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (public-records-advocate)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (public-utility-commission-oregon-board-of-maritime-pilots)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (real-estate-agency)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (secretary-of-state)` — policies_published unknown (where does this agency publish?)
@@ -1527,6 +1538,7 @@ These agencies have in-repo content but their profile (`_meta/agency-profiles.ym
 - `_meta/agency-profiles.yml (southern-oregon-university)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (state-board-of-architect-examiners)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (state-board-of-tax-practitioners)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (state-board-of-towing)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (teacher-standards-and-practices-commission)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (travel-information-council)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (veterinary-medical-examining-board)` — policies_published unknown (where does this agency publish?)
@@ -1647,6 +1659,19 @@ by directory:
 - `rules/105/020/`: 2 documents
 - `rules/105/040/`: 1 documents
 - `rules/105/050/`: 4 documents
+- `rules/111/001/`: 2 documents
+- `rules/111/002/`: 2 documents
+- `rules/111/005/`: 12 documents
+- `rules/111/010/`: 1 documents
+- `rules/111/015/`: 1 documents
+- `rules/111/020/`: 3 documents
+- `rules/111/030/`: 8 documents
+- `rules/111/040/`: 11 documents
+- `rules/111/050/`: 15 documents
+- `rules/111/060/`: 1 documents
+- `rules/111/065/`: 9 documents
+- `rules/111/070/`: 1 documents
+- `rules/111/080/`: 10 documents
 - `rules/114/001/`: 3 documents
 - `rules/114/002/`: 2 documents
 - `rules/114/003/`: 2 documents
@@ -2045,6 +2070,7 @@ by directory:
 - `rules/177/099/`: 13 documents
 - `rules/177/100/`: 9 documents
 - `rules/177/200/`: 15 documents
+- `rules/180/001/`: 14 documents
 - `rules/198/001/`: 3 documents
 - `rules/199/001/`: 6 documents
 - `rules/199/005/`: 9 documents
@@ -2165,6 +2191,9 @@ by directory:
 - `rules/259/070/`: 4 documents
 - `rules/259/080/`: 1 documents
 - `rules/259/090/`: 1 documents
+- `rules/265/001/`: 3 documents
+- `rules/265/005/`: 7 documents
+- `rules/265/010/`: 8 documents
 - `rules/274/001/`: 3 documents
 - `rules/274/005/`: 6 documents
 - `rules/274/006/`: 12 documents
@@ -3669,6 +3698,12 @@ by directory:
 - `rules/647/015/`: 3 documents
 - `rules/647/020/`: 6 documents
 - `rules/647/040/`: 8 documents
+- `rules/648/001/`: 1 documents
+- `rules/648/010/`: 7 documents
+- `rules/648/020/`: 6 documents
+- `rules/648/030/`: 6 documents
+- `rules/648/040/`: 5 documents
+- `rules/648/050/`: 6 documents
 - `rules/656/001/`: 1 documents
 - `rules/656/010/`: 5 documents
 - `rules/656/020/`: 6 documents
@@ -3862,6 +3897,8 @@ by directory:
 - `rules/698/015/`: 18 documents
 - `rules/698/020/`: 9 documents
 - `rules/698/025/`: 11 documents
+- `rules/699/010/`: 10 documents
+- `rules/699/020/`: 7 documents
 - `rules/705/001/`: 3 documents
 - `rules/705/010/`: 16 documents
 - `rules/705/050/`: 1 documents
@@ -4121,6 +4158,12 @@ by directory:
 - `rules/741/600/`: 5 documents
 - `rules/741/700/`: 3 documents
 - `rules/741/710/`: 4 documents
+- `rules/750/001/`: 5 documents
+- `rules/750/010/`: 11 documents
+- `rules/750/040/`: 7 documents
+- `rules/750/060/`: 3 documents
+- `rules/750/070/`: 6 documents
+- `rules/750/080/`: 5 documents
 - `rules/800/001/`: 6 documents
 - `rules/800/010/`: 11 documents
 - `rules/800/015/`: 5 documents
@@ -4272,6 +4315,12 @@ by directory:
 - `rules/813/395/`: 10 documents
 - `rules/813/405/`: 8 documents
 - `rules/813/410/`: 2 documents
+- `rules/816/005/`: 4 documents
+- `rules/816/015/`: 1 documents
+- `rules/816/025/`: 12 documents
+- `rules/816/045/`: 1 documents
+- `rules/816/065/`: 1 documents
+- `rules/816/085/`: 1 documents
 - `rules/817/005/`: 4 documents
 - `rules/817/006/`: 8 documents
 - `rules/817/007/`: 15 documents
@@ -4699,6 +4748,8 @@ by directory:
 - `rules/918/750/`: 3 documents
 - `rules/918/770/`: 16 documents
 - `rules/918/780/`: 11 documents
+- `rules/925/100/`: 3 documents
+- `rules/925/200/`: 2 documents
 - `rules/943/001/`: 7 documents
 - `rules/943/003/`: 2 documents
 - `rules/943/005/`: 11 documents
@@ -4708,6 +4759,9 @@ by directory:
 - `rules/943/045/`: 26 documents
 - `rules/943/060/`: 13 documents
 - `rules/943/120/`: 22 documents
+- `rules/944/001/`: 5 documents
+- `rules/944/010/`: 10 documents
+- `rules/944/020/`: 4 documents
 - `rules/945/001/`: 2 documents
 - `rules/945/020/`: 5 documents
 - `rules/945/030/`: 5 documents

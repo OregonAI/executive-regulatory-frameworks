@@ -440,6 +440,31 @@ MAPPED: dict[str, str] = {
     # DELIBERATELY NOT ENTERED HERE for the identical reason given above for #212's row.
     # Recorded as verified prose on this row's
     # (`oregon-department-of-education-early-learning-division`) own `curator_note` instead.
+    #
+    # OAR CHAPTERS REGISTERED 2026-10-17 (ERF PR #452): bodies OARD lists a chapter for and
+    # the registry had no row for. Each section was read in the mirrored statutes by the
+    # agent that added the row, not yet by the maintainer; each creating sentence follows.
+    # ORS 243.862(1): "There is established in the Oregon Health Authority an Oregon
+    # Educators Benefit Board".
+    "oregon-health-authority-oregon-educators-benefit-board": "ORS 243.862",
+    # ORS 676.780(1): "There is established within the Health Licensing Office the State Board
+    # of Sign Language Interpreters".
+    "oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters":
+        "ORS 676.780",
+    # ORS 243.812(1): "The Commission on Statewide Law Enforcement Standards of Conduct and
+    # Discipline is established".
+    "commission-on-statewide-law-enforcement-standards-of-conduct-and-discipline":
+        "ORS 243.812",
+    # ORS 822.250(1): "The State Board of Towing is established within the Department of
+    # Transportation."
+    "state-board-of-towing": "ORS 822.250",
+    # ORS 646A.693(1): "The Prescription Drug Affordability Board is established in the
+    # Department of Consumer and Business Services".
+    "department-of-consumer-and-business-services-prescription-drug-affordability-board":
+        "ORS 646A.693",
+    # ORS 541.861(1): "The Environmental Restoration Council is established in the Oregon
+    # Watershed Enhancement Board."
+    "oregon-watershed-enhancement-board-environmental-restoration-council": "ORS 541.861",
 }
 
 # slug -> why this body has no enabling authority TO RECORD. A DECISION with a stated reason,
