@@ -23110,6 +23110,77 @@ chapters:
       status: ingested
       path: rules/259/090/oar-259-090-0010.md
   discovered: '2026-08-27'
+- chapter: '265'
+  title: Commission on Statewide Law Enforcement Standards of Conduct and Discipline
+  url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=340
+  divisions:
+  - division: '1'
+    title: Procedural Rules
+    status: ingested
+    rules:
+    - number: 265-001-0001
+      status: ingested
+      path: rules/265/001/oar-265-001-0001.md
+    - number: 265-001-0005
+      status: ingested
+      path: rules/265/001/oar-265-001-0005.md
+    - number: 265-001-0010
+      status: ingested
+      path: rules/265/001/oar-265-001-0010.md
+  - division: '5'
+    title: General/Definitions and Policy
+    status: ingested
+    rules:
+    - number: 265-005-0001
+      status: ingested
+      path: rules/265/005/oar-265-005-0001.md
+    - number: 265-005-0005
+      status: ingested
+      path: rules/265/005/oar-265-005-0005.md
+    - number: 265-005-0010
+      status: ingested
+      path: rules/265/005/oar-265-005-0010.md
+    - number: 265-005-0015
+      status: ingested
+      path: rules/265/005/oar-265-005-0015.md
+    - number: 265-005-0020
+      status: ingested
+      path: rules/265/005/oar-265-005-0020.md
+    - number: 265-005-0025
+      status: ingested
+      path: rules/265/005/oar-265-005-0025.md
+    - number: 265-005-0030
+      status: ingested
+      path: rules/265/005/oar-265-005-0030.md
+  - division: '10'
+    title: Discipline Standards for Misconduct
+    status: ingested
+    rules:
+    - number: 265-010-0001
+      status: ingested
+      path: rules/265/010/oar-265-010-0001.md
+    - number: 265-010-0005
+      status: ingested
+      path: rules/265/010/oar-265-010-0005.md
+    - number: 265-010-0010
+      status: ingested
+      path: rules/265/010/oar-265-010-0010.md
+    - number: 265-010-0015
+      status: ingested
+      path: rules/265/010/oar-265-010-0015.md
+    - number: 265-010-0020
+      status: ingested
+      path: rules/265/010/oar-265-010-0020.md
+    - number: 265-010-0025
+      status: ingested
+      path: rules/265/010/oar-265-010-0025.md
+    - number: 265-010-0030
+      status: ingested
+      path: rules/265/010/oar-265-010-0030.md
+    - number: 265-010-0035
+      status: ingested
+      path: rules/265/010/oar-265-010-0035.md
+  discovered: '2026-10-17'
 - chapter: '274'
   title: Department of Veterans' Affairs
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=110
@@ -107994,6 +108065,70 @@ chapters:
       status: ingested
       path: rules/698/025/oar-698-025-0110.md
   discovered: '2026-08-27'
+- chapter: '699'
+  title: Oregon Watershed Enhancement Board, Environmental Restoration Council
+  url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=423
+  divisions:
+  - division: '10'
+    title: Tribal Nation Natural Resource Program Fund
+    status: ingested
+    rules:
+    - number: 699-010-0010
+      status: ingested
+      path: rules/699/010/oar-699-010-0010.md
+    - number: 699-010-0020
+      status: ingested
+      path: rules/699/010/oar-699-010-0020.md
+    - number: 699-010-0030
+      status: ingested
+      path: rules/699/010/oar-699-010-0030.md
+    - number: 699-010-0040
+      status: ingested
+      path: rules/699/010/oar-699-010-0040.md
+    - number: 699-010-0050
+      status: ingested
+      path: rules/699/010/oar-699-010-0050.md
+    - number: 699-010-0060
+      status: ingested
+      path: rules/699/010/oar-699-010-0060.md
+    - number: 699-010-0070
+      status: ingested
+      path: rules/699/010/oar-699-010-0070.md
+    - number: 699-010-0080
+      status: ingested
+      path: rules/699/010/oar-699-010-0080.md
+    - number: 699-010-0090
+      status: ingested
+      path: rules/699/010/oar-699-010-0090.md
+    - number: 699-010-0100
+      status: ingested
+      path: rules/699/010/oar-699-010-0100.md
+  - division: '20'
+    title: State Agency Program Fund
+    status: ingested
+    rules:
+    - number: 699-020-0010
+      status: ingested
+      path: rules/699/020/oar-699-020-0010.md
+    - number: 699-020-0020
+      status: ingested
+      path: rules/699/020/oar-699-020-0020.md
+    - number: 699-020-0030
+      status: ingested
+      path: rules/699/020/oar-699-020-0030.md
+    - number: 699-020-0040
+      status: ingested
+      path: rules/699/020/oar-699-020-0040.md
+    - number: 699-020-0050
+      status: ingested
+      path: rules/699/020/oar-699-020-0050.md
+    - number: 699-020-0060
+      status: ingested
+      path: rules/699/020/oar-699-020-0060.md
+    - number: 699-020-0070
+      status: ingested
+      path: rules/699/020/oar-699-020-0070.md
+  discovered: '2026-10-17'
 - chapter: '705'
   title: Chief Education Office
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=192
@@ -117496,6 +117631,147 @@ chapters:
       status: ingested
       path: rules/741/710/oar-741-710-0040.md
   discovered: '2026-08-27'
+- chapter: '750'
+  title: State Board of Towing
+  url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=381
+  divisions:
+  - division: '1'
+    title: Model Rules of Procedure.
+    status: ingested
+    rules:
+    - number: 750-001-0001
+      status: ingested
+      path: rules/750/001/oar-750-001-0001.md
+    - number: 750-001-0010
+      status: ingested
+      path: rules/750/001/oar-750-001-0010.md
+    - number: 750-001-0030
+      status: ingested
+      path: rules/750/001/oar-750-001-0030.md
+    - number: 750-001-0040
+      status: ingested
+      path: rules/750/001/oar-750-001-0040.md
+    - number: 750-001-0050
+      status: ingested
+      path: rules/750/001/oar-750-001-0050.md
+  - division: '10'
+    title: General Administrative and Operational Rules.
+    status: ingested
+    rules:
+    - number: 750-010-0001
+      status: ingested
+      path: rules/750/010/oar-750-010-0001.md
+    - number: 750-010-0010
+      status: ingested
+      path: rules/750/010/oar-750-010-0010.md
+    - number: 750-010-0030
+      status: ingested
+      path: rules/750/010/oar-750-010-0030.md
+    - number: 750-010-0040
+      status: ingested
+      path: rules/750/010/oar-750-010-0040.md
+    - number: 750-010-0050
+      status: ingested
+      path: rules/750/010/oar-750-010-0050.md
+    - number: 750-010-0060
+      status: ingested
+      path: rules/750/010/oar-750-010-0060.md
+    - number: 750-010-0080
+      status: ingested
+      path: rules/750/010/oar-750-010-0080.md
+    - number: 750-010-0090
+      status: ingested
+      path: rules/750/010/oar-750-010-0090.md
+    - number: 750-010-0100
+      status: ingested
+      path: rules/750/010/oar-750-010-0100.md
+    - number: 750-010-0110
+      status: ingested
+      path: rules/750/010/oar-750-010-0110.md
+    - number: 750-010-0120
+      status: ingested
+      path: rules/750/010/oar-750-010-0120.md
+  - division: '40'
+    title: Violations.
+    status: ingested
+    rules:
+    - number: 750-040-0001
+      status: ingested
+      path: rules/750/040/oar-750-040-0001.md
+    - number: 750-040-0005
+      status: ingested
+      path: rules/750/040/oar-750-040-0005.md
+    - number: 750-040-0006
+      status: ingested
+      path: rules/750/040/oar-750-040-0006.md
+    - number: 750-040-0008
+      status: ingested
+      path: rules/750/040/oar-750-040-0008.md
+    - number: 750-040-0015
+      status: ingested
+      path: rules/750/040/oar-750-040-0015.md
+    - number: 750-040-0020
+      status: ingested
+      path: rules/750/040/oar-750-040-0020.md
+    - number: 750-040-0040
+      status: ingested
+      path: rules/750/040/oar-750-040-0040.md
+  - division: '60'
+    title: Consumer Protection and Complaints.
+    status: ingested
+    rules:
+    - number: 750-060-0001
+      status: ingested
+      path: rules/750/060/oar-750-060-0001.md
+    - number: 750-060-0010
+      status: ingested
+      path: rules/750/060/oar-750-060-0010.md
+    - number: 750-060-0020
+      status: ingested
+      path: rules/750/060/oar-750-060-0020.md
+  - division: '70'
+    title: Investigations and Investigation Reports.
+    status: ingested
+    rules:
+    - number: 750-070-0001
+      status: ingested
+      path: rules/750/070/oar-750-070-0001.md
+    - number: 750-070-0010
+      status: ingested
+      path: rules/750/070/oar-750-070-0010.md
+    - number: 750-070-0020
+      status: ingested
+      path: rules/750/070/oar-750-070-0020.md
+    - number: 750-070-0030
+      status: ingested
+      path: rules/750/070/oar-750-070-0030.md
+    - number: 750-070-0040
+      status: ingested
+      path: rules/750/070/oar-750-070-0040.md
+    - number: 750-070-0050
+      status: ingested
+      path: rules/750/070/oar-750-070-0050.md
+  - division: '80'
+    title: Progressive Discipline, Discipline and Sanctions, Schedule of Civil Penalties, Collection of
+      Civil Penalties.
+    status: ingested
+    rules:
+    - number: 750-080-0001
+      status: ingested
+      path: rules/750/080/oar-750-080-0001.md
+    - number: 750-080-0020
+      status: ingested
+      path: rules/750/080/oar-750-080-0020.md
+    - number: 750-080-0030
+      status: ingested
+      path: rules/750/080/oar-750-080-0030.md
+    - number: 750-080-0040
+      status: ingested
+      path: rules/750/080/oar-750-080-0040.md
+    - number: 750-080-0050
+      status: ingested
+      path: rules/750/080/oar-750-080-0050.md
+  discovered: '2026-10-17'
 - chapter: '800'
   title: State Board of Tax Practitioners
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=22
@@ -145713,6 +145989,34 @@ chapters:
   - 918-674-0890
   - 918-674-0900
   - 918-674-0910
+- chapter: '925'
+  title: Department of Consumer and Business Services, Prescription Drug Affordability Board
+  url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=341
+  divisions:
+  - division: '100'
+    title: Procedural Rules
+    status: ingested
+    rules:
+    - number: 925-100-0001
+      status: ingested
+      path: rules/925/100/oar-925-100-0001.md
+    - number: 925-100-0002
+      status: ingested
+      path: rules/925/100/oar-925-100-0002.md
+    - number: 925-100-0003
+      status: ingested
+      path: rules/925/100/oar-925-100-0003.md
+  - division: '200'
+    title: Prescription Drug Affordability Review
+    status: ingested
+    rules:
+    - number: 925-200-0010
+      status: ingested
+      path: rules/925/200/oar-925-200-0010.md
+    - number: 925-200-0020
+      status: ingested
+      path: rules/925/200/oar-925-200-0020.md
+  discovered: '2026-10-17'
 - chapter: '943'
   title: Oregon Health Authority
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=188
