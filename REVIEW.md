@@ -473,7 +473,7 @@ Order numbers are assigned sequentially within a year, so a higher number carryi
 - `eo-23-22` — signed 2023-09-01, but the preceding order `eo-23-21` is dated 2023-09-05 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
 - `eo-24-18` — signed 2024-07-20, but the preceding order `eo-24-17` is dated 2024-07-21 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
 
-## Catalog: sections with no sliceable body (223)
+## Catalog: sections with no sliceable body (220)
 
 ORS catalog entries whose section text couldn't be found in the chapter HTML (likely renumbered/repealed or TOC noise). Verify against the printed ORS if any of these numbers matter; otherwise they stay intentionally not ingested.
 
@@ -565,7 +565,6 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 307.200` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 307.835` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 308A.050` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 31.262` — title is correct (the printed catchline is 'Notice of adverse health care incident'); the slice anch
 - `ORS 310.206` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 310.208` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 310.242` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -684,8 +683,6 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 731.112` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 732.596` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 74.1120` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 74A.1030` — title is correct (the printed catchline is 'Payment order; definitions'); the slice anchor was a cit
-- `ORS 74A.1040` — title is correct (the printed catchline is 'Funds transfer; definitions'); the slice anchor was a ci
 - `ORS 756.010` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 777.605` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 79A.6240` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -4795,4 +4792,4 @@ by directory:
 - `rules/972/040/`: 8 documents
 - `rules/976/001/`: 2 documents
 - `rules/976/002/`: 4 documents
-- `statutes/`: 38999 documents
+- `statutes/`: 39002 documents
