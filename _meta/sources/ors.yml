@@ -147,6 +147,11 @@ sources:
   last_checked: '2026-07-26'
   notes: ORS chapter 131 (Preliminary Provisions; Limitations; Jurisdiction; Venue; Criminal Forfeiture; Crime Prevention),
     2025 Edition
+- id: ors-chapter-131a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors131a.html
+  sha256: b8d71b78bf2fb988031c9e74670ecddc3e42c4bf2f5e93e2318bbda594e0efe5
+  last_checked: '2026-10-17'
+  notes: ORS chapter 131A (Civil Forfeiture), 2025 Edition
 - id: ors-chapter-132
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors132.html
   sha256: 323fd9763afb6aa9542928e52fa926d4b796f08fb913aa2344eb3168a3d0a11c
@@ -2559,6 +2564,11 @@ sources:
   sha256: 0b740b8e1b58ea46780b51f11b1305ad080ef9c2f07b89e334c1d8ba6a0833c5
   last_checked: '2026-07-20'
   notes: ORS chapter 726 (Chapter 726), 2025 Edition
+- id: ors-chapter-72a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors072a.html
+  sha256: baa8f8e576bcde91630fa6f8d6b3cc1c042c0264a0fb21b53e99a825ce97ce5d
+  last_checked: '2026-10-17'
+  notes: ORS chapter 72A (Leases), 2025 Edition
 - id: ors-chapter-73
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors073.html
   sha256: 03e220c573c48874e6ef31ac58155a260de8ebc75370b9b863f35c1c30e9c480
@@ -2641,6 +2651,11 @@ sources:
   sha256: cc31567bdad417ab52ee50faf16b0dacf6975ac04cbc814c9705d8eebb600d8a
   last_checked: '2026-10-17'
   notes: ORS chapter 748 (Fraternal Benefit Societies), 2025 Edition
+- id: ors-chapter-74a
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors074a.html
+  sha256: b70492aeade1a5b0f6aa767978d1278a3015399eedad4ee684c0e93fb19c63ae
+  last_checked: '2026-10-17'
+  notes: ORS chapter 74A (Funds Transfers), 2025 Edition
 - id: ors-chapter-75
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors075.html
   sha256: 003cb5fedf923c5466d54bfc0be5287bbde4113db3e5cb6cff89d23f225a20d1

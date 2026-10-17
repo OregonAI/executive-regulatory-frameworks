@@ -8038,6 +8038,218 @@ chapters:
     title: Training for law enforcement agencies; presentation to local public safety coordinating council
     status: ingested
     path: statutes/ors-131.945.md
+- chapter: 131A
+  title: Civil Forfeiture
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors131a.html
+  sections:
+  - number: 131A.005
+    title: Definitions
+    status: ingested
+    path: statutes/ors-131a.005.md
+  - number: 131A.010
+    title: Legislative findings; preemption of local laws; remedy not exclusive
+    status: ingested
+    path: statutes/ors-131a.010.md
+  - number: 131A.015
+    title: Vesting of title to forfeited property
+    status: ingested
+    path: statutes/ors-131a.015.md
+  - number: 131A.020
+    title: Property subject to forfeiture
+    status: ingested
+    path: statutes/ors-131a.020.md
+  - number: 131A.025
+    title: Consensual search of motor vehicle; required notice
+    status: ingested
+    path: statutes/ors-131a.025.md
+  - number: 131A.030
+    title: Seizure of motor vehicle with hidden compartment
+    status: ingested
+    path: statutes/ors-131a.030.md
+  - number: 131A.035
+    title: Seizure of currency
+    status: ingested
+    path: statutes/ors-131a.035.md
+  - number: 131A.050
+    title: Seizure generally
+    status: ingested
+    path: statutes/ors-131a.050.md
+  - number: 131A.055
+    title: Inventory and receipt
+    status: ingested
+    path: statutes/ors-131a.055.md
+  - number: 131A.060
+    title: Seizure with court order
+    status: ingested
+    path: statutes/ors-131a.060.md
+  - number: 131A.065
+    title: Seizure without court order
+    status: ingested
+    path: statutes/ors-131a.065.md
+  - number: 131A.070
+    title: Delivery by third person
+    status: ingested
+    path: statutes/ors-131a.070.md
+  - number: 131A.075
+    title: Liens and security interests of financial institutions
+    status: ingested
+    path: statutes/ors-131a.075.md
+  - number: 131A.080
+    title: Care and custody of seized property generally
+    status: ingested
+    path: statutes/ors-131a.080.md
+  - number: 131A.085
+    title: Order for sale, lease, rental or operation of seized property
+    status: ingested
+    path: statutes/ors-131a.085.md
+  - number: 131A.090
+    title: Forfeiture trust accounts
+    status: ingested
+    path: statutes/ors-131a.090.md
+  - number: 131A.100
+    title: Hearing on probable cause
+    status: ingested
+    path: statutes/ors-131a.100.md
+  - number: 131A.105
+    title: Decision on seeking forfeiture
+    status: ingested
+    path: statutes/ors-131a.105.md
+  - number: 131A.150
+    title: Forfeiture notice
+    status: ingested
+    path: statutes/ors-131a.150.md
+  - number: 131A.155
+    title: Recorded forfeiture notice
+    status: ingested
+    path: statutes/ors-131a.155.md
+  - number: 131A.160
+    title: Transfer of proceedings prohibited
+    status: ingested
+    path: statutes/ors-131a.160.md
+  - number: 131A.165
+    title: Claims
+    status: ingested
+    path: statutes/ors-131a.165.md
+  - number: 131A.170
+    title: Expedited hearing on claim
+    status: ingested
+    path: statutes/ors-131a.170.md
+  - number: 131A.175
+    title: Expedited hearing on affirmative defenses
+    status: ingested
+    path: statutes/ors-131a.175.md
+  - number: 131A.180
+    title: Order restoring custody of property after expedited hearing
+    status: ingested
+    path: statutes/ors-131a.180.md
+  - number: 131A.200
+    title: Ex parte forfeiture
+    status: ingested
+    path: statutes/ors-131a.200.md
+  - number: 131A.225
+    title: Forfeiture actions generally
+    status: ingested
+    path: statutes/ors-131a.225.md
+  - number: 131A.230
+    title: Service
+    status: ingested
+    path: statutes/ors-131a.230.md
+  - number: 131A.235
+    title: Responsive pleading
+    status: ingested
+    path: statutes/ors-131a.235.md
+  - number: 131A.240
+    title: Response by affidavit
+    status: ingested
+    path: statutes/ors-131a.240.md
+  - number: 131A.245
+    title: Hearing on objections to affidavit
+    status: ingested
+    path: statutes/ors-131a.245.md
+  - number: 131A.250
+    title: Foreclosure of security interests, liens and vendor’s interests
+    status: ingested
+    path: statutes/ors-131a.250.md
+  - number: 131A.255
+    title: Standards of proof in forfeiture action
+    status: ingested
+    path: statutes/ors-131a.255.md
+  - number: 131A.260
+    title: Affirmative defenses in forfeiture action
+    status: ingested
+    path: statutes/ors-131a.260.md
+  - number: 131A.265
+    title: Stays
+    status: ingested
+    path: statutes/ors-131a.265.md
+  - number: 131A.270
+    title: Consolidation of actions
+    status: ingested
+    path: statutes/ors-131a.270.md
+  - number: 131A.275
+    title: Special motion for release of property
+    status: ingested
+    path: statutes/ors-131a.275.md
+  - number: 131A.300
+    title: Judgment forfeiting property generally
+    status: ingested
+    path: statutes/ors-131a.300.md
+  - number: 131A.305
+    title: Judgment forfeiting property; judgment for forfeiting agency
+    status: ingested
+    path: statutes/ors-131a.305.md
+  - number: 131A.310
+    title: Judgment for claimant
+    status: ingested
+    path: statutes/ors-131a.310.md
+  - number: 131A.315
+    title: Default judgment
+    status: ingested
+    path: statutes/ors-131a.315.md
+  - number: 131A.350
+    title: Disposition generally
+    status: ingested
+    path: statutes/ors-131a.350.md
+  - number: 131A.355
+    title: Intergovernmental agreements
+    status: ingested
+    path: statutes/ors-131a.355.md
+  - number: 131A.360
+    title: Distribution of forfeiture proceeds by local government
+    status: ingested
+    path: statutes/ors-131a.360.md
+  - number: 131A.365
+    title: Distribution of forfeiture proceeds by state
+    status: ingested
+    path: statutes/ors-131a.365.md
+  - number: 131A.370
+    title: Special Crime and Forfeiture Account
+    status: ingested
+    path: statutes/ors-131a.370.md
+  - number: 131A.400
+    title: Prosecuting attorneys and forfeiture counsel
+    status: ingested
+    path: statutes/ors-131a.400.md
+  - number: 131A.405
+    title: Liability of seizing agencies, forfeiting agencies and forfeiture counsel
+    status: ingested
+    path: statutes/ors-131a.405.md
+  - number: 131A.410
+    title: Indemnification of officers, employees and agents; payment of civil penalties
+    status: ingested
+    path: statutes/ors-131a.410.md
+  - number: 131A.450
+    title: Record keeping and reporting requirements
+    status: ingested
+    path: statutes/ors-131a.450.md
+  - number: 131A.455
+    title: Asset Forfeiture Oversight Advisory Committee
+    status: ingested
+    path: statutes/ors-131a.455.md
+  - number: 131A.460
+    title: Asset Forfeiture Oversight Account
+    status: ingested
+    path: statutes/ors-131a.460.md
 - chapter: '132'
   title: Grand Jury, Indictments and Other Accusatory Instruments
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors132.html
@@ -138158,6 +138370,335 @@ chapters:
     title: Criminal penalties
     status: ingested
     path: statutes/ors-726.990.md
+- chapter: 72A
+  title: Leases
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors072a.html
+  sections:
+  - number: 72A.1010
+    title: Short title
+    status: ingested
+    path: statutes/ors-72a.1010.md
+  - number: 72A.1020
+    title: Scope
+    status: ingested
+    path: statutes/ors-72a.1020.md
+  - number: 72A.1030
+    title: Definitions and index of definitions
+    status: ingested
+    path: statutes/ors-72a.1030.md
+  - number: 72A.1040
+    title: Leases subject to other statutes
+    status: ingested
+    path: statutes/ors-72a.1040.md
+  - number: 72A.1050
+    title: Territorial application of act to goods covered by certificate of title
+    status: ingested
+    path: statutes/ors-72a.1050.md
+  - number: 72A.1060
+    title: Limitation on power of parties to consumer lease to choose applicable law and judicial forum
+    status: ingested
+    path: statutes/ors-72a.1060.md
+  - number: 72A.1070
+    title: Waiver or renunciation of claim or right after default
+    status: ingested
+    path: statutes/ors-72a.1070.md
+  - number: 72A.1080
+    title: Unconscionability
+    status: ingested
+    path: statutes/ors-72a.1080.md
+  - number: 72A.1090
+    title: Option to accelerate at will
+    status: ingested
+    path: statutes/ors-72a.1090.md
+  - number: 72A.1095
+    title: Subordination by agreement
+    status: ingested
+    path: statutes/ors-72a.1095.md
+  - number: 72A.2010
+    title: Statute of frauds
+    status: ingested
+    path: statutes/ors-72a.2010.md
+  - number: 72A.2020
+    title: Final expression; parol or extrinsic evidence
+    status: ingested
+    path: statutes/ors-72a.2020.md
+  - number: 72A.2030
+    title: Seals inoperative
+    status: ingested
+    path: statutes/ors-72a.2030.md
+  - number: 72A.2040
+    title: Formation in general
+    status: ingested
+    path: statutes/ors-72a.2040.md
+  - number: 72A.2050
+    title: Firm offers
+    status: ingested
+    path: statutes/ors-72a.2050.md
+  - number: 72A.2060
+    title: Offer and acceptance in formation of lease contract
+    status: ingested
+    path: statutes/ors-72a.2060.md
+  - number: 72A.2080
+    title: Modification, rescission and waiver
+    status: ingested
+    path: statutes/ors-72a.2080.md
+  - number: 72A.2090
+    title: Lessee under finance lease as beneficiary of supply contract
+    status: ingested
+    path: statutes/ors-72a.2090.md
+  - number: 72A.2100
+    title: Express warranties
+    status: ingested
+    path: statutes/ors-72a.2100.md
+  - number: 72A.2110
+    title: Warranties against interference and against infringement; lessee’s obligation against infringement
+    status: ingested
+    path: statutes/ors-72a.2110.md
+  - number: 72A.2120
+    title: Implied warranty of merchantability
+    status: ingested
+    path: statutes/ors-72a.2120.md
+  - number: 72A.2130
+    title: Implied warranty of fitness for particular purpose
+    status: ingested
+    path: statutes/ors-72a.2130.md
+  - number: 72A.2140
+    title: Exclusion or modification of warranties
+    status: ingested
+    path: statutes/ors-72a.2140.md
+  - number: 72A.2150
+    title: Cumulation and conflict of warranties express or implied
+    status: ingested
+    path: statutes/ors-72a.2150.md
+  - number: 72A.2160
+    title: Third-party beneficiaries of express and implied warranties
+    status: ingested
+    path: statutes/ors-72a.2160.md
+  - number: 72A.2170
+    title: Identification
+    status: ingested
+    path: statutes/ors-72a.2170.md
+  - number: 72A.2180
+    title: Insurance and proceeds
+    status: ingested
+    path: statutes/ors-72a.2180.md
+  - number: 72A.2190
+    title: Risk of loss
+    status: ingested
+    path: statutes/ors-72a.2190.md
+  - number: 72A.2200
+    title: Effect of default on risk of loss
+    status: ingested
+    path: statutes/ors-72a.2200.md
+  - number: 72A.2210
+    title: Casualty to identified goods
+    status: ingested
+    path: statutes/ors-72a.2210.md
+  - number: 72A.3010
+    title: Enforceability of lease contract
+    status: ingested
+    path: statutes/ors-72a.3010.md
+  - number: 72A.3020
+    title: Title to and possession of goods
+    status: ingested
+    path: statutes/ors-72a.3020.md
+  - number: 72A.3030
+    title: Alienability of party’s interest under lease contract or of lessor’s residual interest in goods;
+      delegation of performance; transfer of rights
+    status: ingested
+    path: statutes/ors-72a.3030.md
+  - number: 72A.3040
+    title: Subsequent lease of goods by lessor
+    status: ingested
+    path: statutes/ors-72a.3040.md
+  - number: 72A.3050
+    title: Sale or sublease of goods by lessee
+    status: ingested
+    path: statutes/ors-72a.3050.md
+  - number: 72A.3060
+    title: Priority of certain liens arising by operation of law
+    status: ingested
+    path: statutes/ors-72a.3060.md
+  - number: 72A.3070
+    title: Priority of liens arising by attachment or levy on goods; priority of certain security interests
+      in goods
+    status: ingested
+    path: statutes/ors-72a.3070.md
+  - number: 72A.3080
+    title: Special rights of creditors
+    status: ingested
+    path: statutes/ors-72a.3080.md
+  - number: 72A.3090
+    title: Lessor’s and lessee’s rights when goods become fixtures
+    status: ingested
+    path: statutes/ors-72a.3090.md
+  - number: 72A.3095
+    title: Fixture filing recorded and indexed as mortgage
+    status: ingested
+    path: statutes/ors-72a.3095.md
+  - number: 72A.3100
+    title: 'Lessor’s and lessee’s rights when goods become accessions PERFORMANCE OF LEASE CONTRACT: REPUDIATED,'
+    status: ingested
+    path: statutes/ors-72a.3100.md
+  - number: 72A.4010
+    title: Insecurity; adequate assurance of performance
+    status: ingested
+    path: statutes/ors-72a.4010.md
+  - number: 72A.4020
+    title: Anticipatory repudiation
+    status: ingested
+    path: statutes/ors-72a.4020.md
+  - number: 72A.4030
+    title: Retraction of anticipatory repudiation
+    status: ingested
+    path: statutes/ors-72a.4030.md
+  - number: 72A.4040
+    title: Substituted performance
+    status: ingested
+    path: statutes/ors-72a.4040.md
+  - number: 72A.4050
+    title: Excused performance
+    status: ingested
+    path: statutes/ors-72a.4050.md
+  - number: 72A.4060
+    title: Procedure on excused performance
+    status: ingested
+    path: statutes/ors-72a.4060.md
+  - number: 72A.4070
+    title: Irrevocable promises; finance leases
+    status: ingested
+    path: statutes/ors-72a.4070.md
+  - number: 72A.5010
+    title: Default; procedure
+    status: ingested
+    path: statutes/ors-72a.5010.md
+  - number: 72A.5020
+    title: Notice after default
+    status: ingested
+    path: statutes/ors-72a.5020.md
+  - number: 72A.5030
+    title: Modification or impairment of rights and remedies
+    status: ingested
+    path: statutes/ors-72a.5030.md
+  - number: 72A.5040
+    title: Liquidation of damages
+    status: ingested
+    path: statutes/ors-72a.5040.md
+  - number: 72A.5050
+    title: Cancellation and termination and effect of cancellation, termination, rescission or fraud on
+      rights and remedies
+    status: ingested
+    path: statutes/ors-72a.5050.md
+  - number: 72A.5060
+    title: Statute of limitations
+    status: ingested
+    path: statutes/ors-72a.5060.md
+  - number: 72A.5070
+    title: Proof of market rent; time and place
+    status: ingested
+    path: statutes/ors-72a.5070.md
+  - number: 72A.5080
+    title: Lessee’s remedies
+    status: ingested
+    path: statutes/ors-72a.5080.md
+  - number: 72A.5090
+    title: Lessee’s rights on improper delivery; rightful rejection
+    status: ingested
+    path: statutes/ors-72a.5090.md
+  - number: 72A.5100
+    title: Installment lease contracts; rejection and default
+    status: ingested
+    path: statutes/ors-72a.5100.md
+  - number: 72A.5110
+    title: Merchant lessee’s duties as to rightfully rejected goods
+    status: ingested
+    path: statutes/ors-72a.5110.md
+  - number: 72A.5120
+    title: Lessee’s duties as to rightfully rejected goods
+    status: ingested
+    path: statutes/ors-72a.5120.md
+  - number: 72A.5130
+    title: Cure by lessor of improper tender or delivery; replacement
+    status: ingested
+    path: statutes/ors-72a.5130.md
+  - number: 72A.5140
+    title: Waiver of lessee’s objections
+    status: ingested
+    path: statutes/ors-72a.5140.md
+  - number: 72A.5150
+    title: Acceptance of goods
+    status: ingested
+    path: statutes/ors-72a.5150.md
+  - number: 72A.5160
+    title: Effect of acceptance of goods; notice of default; burden of establishing default after acceptance;
+      notice of claim or litigation to person answerable
+    status: ingested
+    path: statutes/ors-72a.5160.md
+  - number: 72A.5170
+    title: Revocation of acceptance of goods
+    status: ingested
+    path: statutes/ors-72a.5170.md
+  - number: 72A.5180
+    title: Cover; substitute goods
+    status: ingested
+    path: statutes/ors-72a.5180.md
+  - number: 72A.5190
+    title: Lessee’s damages for nondelivery, repudiation, default and breach of warranty in regard to
+      accepted goods
+    status: ingested
+    path: statutes/ors-72a.5190.md
+  - number: 72A.5200
+    title: Lessee’s incidental and consequential damages
+    status: ingested
+    path: statutes/ors-72a.5200.md
+  - number: 72A.5210
+    title: Lessee’s right to specific performance or replevin
+    status: ingested
+    path: statutes/ors-72a.5210.md
+  - number: 72A.5220
+    title: Lessee’s right to goods on lessor’s insolvency
+    status: ingested
+    path: statutes/ors-72a.5220.md
+  - number: 72A.5230
+    title: Lessor’s remedies
+    status: ingested
+    path: statutes/ors-72a.5230.md
+  - number: 72A.5240
+    title: Lessor’s right to identify goods to lease contract
+    status: ingested
+    path: statutes/ors-72a.5240.md
+  - number: 72A.5250
+    title: Lessor’s right to possession of goods
+    status: ingested
+    path: statutes/ors-72a.5250.md
+  - number: 72A.5260
+    title: Lessor’s stoppage of delivery in transit or otherwise
+    status: ingested
+    path: statutes/ors-72a.5260.md
+  - number: 72A.5270
+    title: Lessor’s rights to dispose of goods
+    status: ingested
+    path: statutes/ors-72a.5270.md
+  - number: 72A.5280
+    title: Lessor’s damages for default
+    status: ingested
+    path: statutes/ors-72a.5280.md
+  - number: 72A.5290
+    title: Lessor’s action for the rent
+    status: ingested
+    path: statutes/ors-72a.5290.md
+  - number: 72A.5295
+    title: Lessor’s recovery for loss of or damage to residual interest in goods
+    status: ingested
+    path: statutes/ors-72a.5295.md
+  - number: 72A.5300
+    title: Lessor’s incidental damages
+    status: ingested
+    path: statutes/ors-72a.5300.md
+  - number: 72A.5310
+    title: Standing to sue third parties for injury to goods
+    status: ingested
+    path: statutes/ors-72a.5310.md
 - chapter: '73'
   title: Negotiable Instruments
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors073.html
@@ -144826,6 +145367,175 @@ chapters:
     title: Penalties
     status: ingested
     path: statutes/ors-748.990.md
+- chapter: 74A
+  title: Funds Transfers
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors074a.html
+  sections:
+  - number: 74A.1010
+    title: Short title
+    status: ingested
+    path: statutes/ors-74a.1010.md
+  - number: 74A.1020
+    title: Subject matter
+    status: ingested
+    path: statutes/ors-74a.1020.md
+  - number: 74A.1030
+    title: Payment order; definitions
+    status: not_sliceable
+    note: 'catalog title does not match this section''s own printed catchline at the anchor point; not
+      ingested (verify the catalog title against the source before re-running). Catalog title: ''Payment
+      order; definitions''. Catchline words found at the anchor: ''security procedure ors a sender ors
+      a the following definitions in ors chapter apply to this chapter and ors clearing house ors item
+      ors suspends payments ors in addition ors chapter contains general definitions and principles of
+      construction and interpretation applicable throughout this chapter''.'
+  - number: 74A.1040
+    title: Funds transfer; definitions
+    status: not_sliceable
+    note: 'catalog title does not match this section''s own printed catchline at the anchor point; not
+      ingested (verify the catalog title against the source before re-running). Catalog title: ''Funds
+      transfer; definitions''. Catchline words found at the anchor: ''payment by beneficiary s bank to
+      beneficiary ors a payment by originator to beneficiary ors a payment by sender to receiving bank
+      ors a payment date ors a payment order ors a receiving bank ors a security procedure ors a sender
+      ors a the following definitions in ors chapter apply to this chapter and ors clearing house ors
+      item ors suspends payments ors in addition ors chapter contains general definitions and principles
+      of construction and interpretation applicable throu''.'
+  - number: 74A.1050
+    title: Other definitions
+    status: ingested
+    path: statutes/ors-74a.1050.md
+  - number: 74A.1060
+    title: Time payment order is received
+    status: ingested
+    path: statutes/ors-74a.1060.md
+  - number: 74A.1070
+    title: Federal Reserve regulations and operating circulars
+    status: ingested
+    path: statutes/ors-74a.1070.md
+  - number: 74A.1080
+    title: Exclusion of consumer transactions covered by federal law; remittance transfers
+    status: ingested
+    path: statutes/ors-74a.1080.md
+  - number: 74A.2010
+    title: Security procedure
+    status: ingested
+    path: statutes/ors-74a.2010.md
+  - number: 74A.2020
+    title: Authorized and verified payment orders
+    status: ingested
+    path: statutes/ors-74a.2020.md
+  - number: 74A.2030
+    title: Unenforceability of certain verified payment orders
+    status: ingested
+    path: statutes/ors-74a.2030.md
+  - number: 74A.2040
+    title: Refund of payment and duty of customer to report with respect to unauthorized payment order
+    status: ingested
+    path: statutes/ors-74a.2040.md
+  - number: 74A.2050
+    title: Erroneous payment orders
+    status: ingested
+    path: statutes/ors-74a.2050.md
+  - number: 74A.2060
+    title: Transmission of payment order through funds transfer or other communication system
+    status: ingested
+    path: statutes/ors-74a.2060.md
+  - number: 74A.2070
+    title: Misdescription of beneficiary
+    status: ingested
+    path: statutes/ors-74a.2070.md
+  - number: 74A.2080
+    title: Misdescription of intermediary bank or beneficiary’s bank
+    status: ingested
+    path: statutes/ors-74a.2080.md
+  - number: 74A.2090
+    title: Acceptance of payment order
+    status: ingested
+    path: statutes/ors-74a.2090.md
+  - number: 74A.2100
+    title: Rejection of payment order
+    status: ingested
+    path: statutes/ors-74a.2100.md
+  - number: 74A.2110
+    title: Cancellation and amendment of payment order
+    status: ingested
+    path: statutes/ors-74a.2110.md
+  - number: 74A.2120
+    title: Liability and duty of receiving bank regarding unaccepted payment order
+    status: ingested
+    path: statutes/ors-74a.2120.md
+  - number: 74A.3010
+    title: Execution and execution date
+    status: ingested
+    path: statutes/ors-74a.3010.md
+  - number: 74A.3020
+    title: Obligations of receiving bank in execution of payment order
+    status: ingested
+    path: statutes/ors-74a.3020.md
+  - number: 74A.3030
+    title: Erroneous execution of payment order
+    status: ingested
+    path: statutes/ors-74a.3030.md
+  - number: 74A.3040
+    title: Duty of sender to report erroneously executed payment order
+    status: ingested
+    path: statutes/ors-74a.3040.md
+  - number: 74A.3050
+    title: Liability for late or improper execution or failure to execute payment order
+    status: ingested
+    path: statutes/ors-74a.3050.md
+  - number: 74A.4010
+    title: Payment date
+    status: ingested
+    path: statutes/ors-74a.4010.md
+  - number: 74A.4020
+    title: Obligation of sender to pay receiving bank
+    status: ingested
+    path: statutes/ors-74a.4020.md
+  - number: 74A.4030
+    title: Payment by sender to receiving bank
+    status: ingested
+    path: statutes/ors-74a.4030.md
+  - number: 74A.4040
+    title: Obligation of beneficiary’s bank to pay and give notice to beneficiary
+    status: ingested
+    path: statutes/ors-74a.4040.md
+  - number: 74A.4050
+    title: Payment by beneficiary’s bank to beneficiary
+    status: ingested
+    path: statutes/ors-74a.4050.md
+  - number: 74A.4060
+    title: Payment by originator to beneficiary; discharge of underlying obligation
+    status: ingested
+    path: statutes/ors-74a.4060.md
+  - number: 74A.5010
+    title: Variation by agreement and effect of funds-transfer system rule
+    status: ingested
+    path: statutes/ors-74a.5010.md
+  - number: 74A.5020
+    title: Creditor process served on receiving bank; setoff by beneficiary’s bank
+    status: ingested
+    path: statutes/ors-74a.5020.md
+  - number: 74A.5030
+    title: Injunction or restraining order with respect to funds transfer
+    status: ingested
+    path: statutes/ors-74a.5030.md
+  - number: 74A.5040
+    title: Order in which items and payment orders may be charged to account; order of withdrawals from
+      account
+    status: ingested
+    path: statutes/ors-74a.5040.md
+  - number: 74A.5050
+    title: Preclusion of objection to debit of customer’s account
+    status: ingested
+    path: statutes/ors-74a.5050.md
+  - number: 74A.5060
+    title: Rate of interest
+    status: ingested
+    path: statutes/ors-74a.5060.md
+  - number: 74A.5070
+    title: Choice of law
+    status: ingested
+    path: statutes/ors-74a.5070.md
 - chapter: '75'
   title: Letters of Credit
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors075.html

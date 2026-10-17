@@ -34,6 +34,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 129 | Uniform Principal and Income Act | 33 | 33 |
 | 130 | Uniform Trust Code | 136 | 135 |
 | 131 | Preliminary Provisions; Limitations; Jurisdiction; Venue; Criminal Forfeiture; Crime Prevention | 91 | 90 |
+| 131A | Civil Forfeiture | 52 | 52 |
 | 132 | Grand Jury, Indictments and Other Accusatory Instruments | 37 | 37 |
 | 133 | Arrest and Related Procedures; Search and Seizure; Extradition | 132 | 131 |
 | 135 | Arraignment and Pretrial Provisions | 164 | 164 |
@@ -533,6 +534,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 725 | Consumer Finance | 42 | 42 |
 | 725A | Short-Term Loans and Student Loan Servicing | 39 | 39 |
 | 726 | Pawnbrokers | 44 | 44 |
+| 72A | Leases | 80 | 80 |
 | 73 | Negotiable Instruments | 68 | 68 |
 | 731 | Administration and General Provisions | 200 | 199 |
 | 732 | Organization and Corporate Procedures of Domestic Insurers; Regulation of Insurers Generally | 128 | 127 |
@@ -549,6 +551,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 744 | Insurance Producers; Life Settlement Providers, Brokers and Contracts; Adjusters; Consultants; Third Party Administrators; Reinsurance Intermediaries; Limited L | 148 | 148 |
 | 746 | Trade Practices | 103 | 103 |
 | 748 | Fraternal Benefit Societies | 42 | 42 |
+| 74A | Funds Transfers | 38 | 36 |
 | 75 | Letters of Credit | 18 | 18 |
 | 750 | Health Care Service Contractors; Multiple Employer Welfare Arrangements; Legal Expense Organizations | 54 | 54 |
 | 751 | Universal Health Care System | 3 | 3 |
@@ -619,7 +622,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 97 | Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts | 149 | 149 |
 | 98 | Lost, Unclaimed or Abandoned Property; Vehicle Towing | 97 | 97 |
 | 99 | Property Removed by High Water | 6 | 6 |
-| **all** | | **39054** | **38830** |
+| **all** | | **39224** | **38998** |
 
 Per-section numbers/titles/paths: [`_meta/catalog/ors.yml`](../_meta/catalog/ors.yml).
 Sections marked `not_sliceable` there have no body text in the chapter HTML

@@ -1,0 +1,2595 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+131A — Civil Forfeiture 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ CIVIL FORFEITURE 
+
+   
+
+ PROCEDURE IN CRIMINAL MATTERS
+GENERALLY 
+
+   
+
+ DEFINITIONS 
+
+   
+
+ 131A.005  Definitions 
+
+   
+
+ CIVIL FORFEITURE GENERALLY 
+
+   
+
+ 131A.010  Legislative findings;
+preemption of local laws; remedy not exclusive 
+
+   
+
+ 131A.015  Vesting of title to
+forfeited property 
+
+   
+
+ PROPERTY SUBJECT TO FORFEITURE 
+
+   
+
+ 131A.020  Property subject to
+forfeiture 
+
+   
+
+ 131A.025  Consensual search of
+motor vehicle; required notice 
+
+   
+
+ 131A.030  Seizure of motor vehicle
+with hidden compartment 
+
+   
+
+ 131A.035  Seizure of currency 
+
+   
+
+ SEIZURE OF PROPERTY FOR FORFEITURE 
+
+   
+
+ (Generally) 
+
+   
+
+ 131A.050  Seizure generally 
+
+   
+
+ 131A.055  Inventory and receipt 
+
+   
+
+ (Manner of Seizure) 
+
+   
+
+ 131A.060  Seizure with court order 
+
+   
+
+ 131A.065  Seizure without court
+order 
+
+   
+
+ 131A.070  Delivery by third person 
+
+   
+
+ (Effect of Seizure on Liens and
+Security Interests of Financial Institutions) 
+
+   
+
+ 131A.075  Liens and security
+interests of financial institutions 
+
+   
+
+ (Care and Custody of Property) 
+
+   
+
+ 131A.080  Care and custody of
+seized property generally 
+
+   
+
+ 131A.085  Order for sale, lease,
+rental or operation of seized property 
+
+   
+
+ 131A.090  Forfeiture trust accounts 
+
+   
+
+ HEARING ON PROBABLE CAUSE AND DECISION
+ON SEEKING FORFEITURE 
+
+   
+
+ 131A.100  Hearing on probable cause 
+
+   
+
+ 131A.105  Decision on seeking
+forfeiture 
+
+   
+
+ FORFEITURE NOTICE 
+
+   
+
+ 131A.150  Forfeiture notice 
+
+   
+
+ 131A.155  Recorded forfeiture
+notice 
+
+   
+
+ 131A.160  Transfer of proceedings
+prohibited 
+
+   
+
+ CLAIMS 
+
+   
+
+ (Generally) 
+
+   
+
+ 131A.165  Claims 
+
+   
+
+ (Expedited Hearing) 
+
+   
+
+ 131A.170  Expedited hearing on
+claim 
+
+   
+
+ 131A.175  Expedited hearing on
+affirmative defenses 
+
+   
+
+ 131A.180  Order restoring custody
+of property after expedited hearing 
+
+   
+
+ EX PARTE FORFEITURES 
+
+   
+
+ 131A.200  Ex parte forfeiture 
+
+   
+
+ FORFEITURE ACTIONS 
+
+   
+
+ (Generally) 
+
+   
+
+ 131A.225  Forfeiture actions
+generally 
+
+   
+
+ (Service of Complaint) 
+
+   
+
+ 131A.230  Service 
+
+   
+
+ (Response to Complaint) 
+
+   
+
+ 131A.235  Responsive pleading 
+
+   
+
+ 131A.240  Response by affidavit 
+
+   
+
+ 131A.245  Hearing on objections to
+affidavit 
+
+   
+
+ 131A.250  Foreclosure of security
+interests, liens and vendor’s interests 
+
+   
+
+ (Standards of Proof and Defenses) 
+
+   
+
+ 131A.255  Standards of proof in
+forfeiture action 
+
+   
+
+ 131A.260  Affirmative defenses in
+forfeiture action 
+
+   
+
+ (Stays and Consolidation of
+Actions) 
+
+   
+
+ 131A.265  Stays 
+
+   
+
+ 131A.270  Consolidation of actions 
+
+   
+
+ (Special Motion for Release of
+Property) 
+
+   
+
+ 131A.275  Special motion for
+release of property 
+
+   
+
+ (Judgment) 
+
+   
+
+ 131A.300  Judgment forfeiting
+property generally 
+
+   
+
+ 131A.305  Judgment forfeiting
+property; judgment for forfeiting agency 
+
+   
+
+ 131A.310  Judgment for claimant 
+
+   
+
+ 131A.315  Default judgment 
+
+   
+
+ DISPOSITION OF FORFEITED PROPERTY 
+
+   
+
+ 131A.350  Disposition generally 
+
+   
+
+ 131A.355  Intergovernmental
+agreements 
+
+   
+
+ 131A.360  Distribution of
+forfeiture proceeds by local government 
+
+   
+
+ 131A.365  Distribution of
+forfeiture proceeds by state 
+
+   
+
+ 131A.370  Special Crime and
+Forfeiture Account 
+
+   
+
+ MISCELLANEOUS 
+
+   
+
+ 131A.400  Prosecuting attorneys and
+forfeiture counsel 
+
+   
+
+ 131A.405  Liability of seizing
+agencies, forfeiting agencies and forfeiture counsel 
+
+   
+
+ 131A.410  Indemnification of
+officers, employees and agents; payment of civil penalties 
+
+   
+
+ ASSET FORFEITURE OVERSIGHT ADVISORY
+COMMITTEE 
+
+   
+
+ 131A.450  Record keeping and
+reporting requirements 
+
+   
+
+ 131A.455  Asset Forfeiture
+Oversight Advisory Committee 
+
+   
+
+ 131A.460  Asset Forfeiture
+Oversight Account 
+
+   
+
+ DEFINITIONS 
+
+   
+
+       131A.005
+Definitions. As
+used in this chapter: 
+
+       (1) “All persons
+known to have an interest” means: 
+
+       (a) Any person
+who filed a notice of interest for seized property with any public office, in
+the manner required or permitted by law, before the property was seized for
+forfeiture; 
+
+       (b) Any person
+from whose custody property is seized for forfeiture; and 
+
+       (c) Any person
+who has an interest in property seized for forfeiture, including all owners and
+occupants of the property, whose identity and address is known or is
+ascertainable upon diligent inquiry and whose rights and interest in the
+property may be affected by the action. 
+
+       (2) “Attorney
+fees” has the meaning given that term in ORCP 68 A. 
+
+       (3) “Financial
+institution” means any person lawfully conducting business as: 
+
+       (a) A financial
+institution or trust company, as those terms are defined in ORS 706.008; 
+
+       (b) A consumer
+finance company subject to the provisions of ORS chapter 725; 
+
+       (c) A mortgage
+banker or a mortgage broker as those terms are defined in ORS 86A.100, a
+mortgage servicing company or other mortgage company; 
+
+       (d) An officer,
+agency, department or instrumentality of the federal government, including but
+not limited to: 
+
+       (A) The Secretary
+of Housing and Urban Development; 
+
+       (B) The Federal
+Housing Administration; 
+
+       (C) The United
+States Department of Veterans Affairs; 
+
+       (D) Rural
+Development and the Farm Service Agency of the United States Department of
+Agriculture; 
+
+       (E) The Federal
+National Mortgage Association; 
+
+       (F) The
+Government National Mortgage Administration; 
+
+       (G) The Federal
+Home Loan Mortgage Corporation; 
+
+       (H) The Federal
+Agricultural Mortgage Corporation; and 
+
+       (I) The Small
+Business Administration; 
+
+       (e) An agency,
+department or instrumentality of the state, including but not limited to: 
+
+       (A) The Housing
+and Community Services Department; 
+
+       (B) The
+Department of Veterans’ Affairs; and 
+
+       (C) The Public
+Employees Retirement System; 
+
+       (f) An agency,
+department or instrumentality of any local government, as defined by ORS
+174.116, or special government body, as defined by ORS 174.117, including but
+not limited to such agencies as the Portland Development Commission; 
+
+       (g) An insurer as
+defined in ORS 731.106; 
+
+       (h) A private
+mortgage insurance company; 
+
+       (i) A pension
+plan or fund or other retirement plan; and 
+
+       (j) A
+broker-dealer or investment adviser as defined in ORS 59.015. 
+
+       (4) “Forfeiting
+agency” means a public body that is seeking forfeiture of property under this
+chapter. 
+
+       (5) “Forfeiture
+counsel” means an attorney designated by a forfeiting agency to represent the
+forfeiting agency in forfeiture proceedings. 
+
+       (6) “Forfeiture
+proceeds” means all property that has been forfeited in a proceeding under this
+chapter, including money, earnings from forfeited property and amounts realized
+from the sale of forfeited property. 
+
+       (7) “Instrumentality”
+has the meaning given in ORS 131.550. 
+
+       (8) “Law
+enforcement agency” means any agency that employs police officers or prosecutes
+criminal cases. 
+
+       (9) “Motor
+vehicle with a hidden compartment” means a motor vehicle as defined in ORS
+801.360 that has had the vehicle’s original design modified by a person other
+than the manufacturer to create a container, space or enclosure for the purpose
+of concealing, hiding or otherwise preventing discovery of its contents and
+that is used or intended to be used to facilitate the commission of a criminal
+offense. 
+
+       (10) “Police
+officer” has the meaning given that term in ORS 133.525. 
+
+       (11) “Proceeds of
+prohibited conduct” means property derived directly or indirectly from
+prohibited conduct, or maintained by or realized through prohibited conduct. “Proceeds
+of prohibited conduct” includes any benefit, interest or property of any kind,
+without reduction for expenses of acquiring or maintaining the property. 
+
+       (12) “Prohibited
+conduct” means: 
+
+       (a) Violation of,
+solicitation to violate, attempt to violate or conspiracy to violate a
+provision of ORS 475.005 to 475.285 and 475.744 to 475.980 when the conduct constitutes
+the commission of a crime as described in ORS 161.515; 
+
+       (b) Violation of,
+solicitation to violate, attempt to violate or conspiracy to violate ORS
+475C.337, 475C.341, 475C.345 or 475C.349 when the conduct constitutes the
+commission of a crime as described in ORS 161.515; 
+
+       (c) Violation of,
+solicitation to violate, attempt to violate or conspiracy to violate ORS
+475C.229; 
+
+       (d) Violation of,
+solicitation to violate, attempt to violate or conspiracy to violate a
+provision of ORS 163.263, 163.264, 163.266 or 167.017; and 
+
+       (e) Other conduct
+that constitutes the commission of a crime as described in ORS 161.515, that
+provides for civil forfeiture of proceeds or instrumentalities of the conduct
+and that is made subject to the provisions of this chapter under ORS 131A.010
+(4) or other law. 
+
+       (13) “Property”
+means any interest in anything of value, including the whole of any lot or
+tract of land and tangible and intangible personal property, including
+currency, instruments or securities or any other kind of privilege, interest,
+claim or right whether due or to become due. 
+
+       (14) “Public body”
+has the meaning given in ORS 174.109. 
+
+       (15) “Seizing
+agency” means a law enforcement agency that has seized property for forfeiture. 
+
+       (16) “Weapon”
+means any instrument of offensive or defensive combat or anything used, or
+designed to be used, in destroying, defeating or injuring a person. [2009 c.78 §1;
+2009 c.874 §8; 2011 c.335 §1; 2017 c.21 §39] 
+
+   
+
+ CIVIL FORFEITURE
+GENERALLY 
+
+   
+
+       131A.010
+Legislative findings; preemption of local laws; remedy not exclusive. (1) The Legislative Assembly finds
+that: 
+
+       (a) Prohibited
+conduct occurs in the course of criminal activities that result in, and are
+facilitated by, the acquisition, possession or transfer of property subject to
+civil forfeiture under this chapter. 
+
+       (b) Transactions
+involving property subject to civil forfeiture under this chapter escape
+taxation. 
+
+       (c) Governments
+attempting to respond to prohibited conduct require additional resources. 
+
+       (d) Proceeds and
+instrumentalities of prohibited conduct should be forfeited, the rights and
+interests of affected persons protected, and the laws of this state relating to
+civil forfeiture of property based on prohibited conduct should be uniform
+throughout the state. 
+
+       (2) The
+Legislative Assembly adopts the provisions of this chapter as the sole and
+exclusive law of the state governing civil forfeiture of real and personal
+property based on prohibited conduct. This chapter supersedes all charter
+provisions, ordinances, regulations and other enactments adopted by cities and
+counties relating to civil forfeitures. All forfeitures under the provisions of
+this chapter are subject to the limitations of section 10, Article XV of the
+Oregon Constitution. 
+
+       (3) This chapter
+is applicable throughout this state. The electors or the governing body of a
+city or county may not enact, and the governing body of a city or county may
+not enforce, any charter provision, ordinance, resolution or other regulation
+that is inconsistent with this section. 
+
+       (4) This chapter
+does not impair the right of any city or county to enact ordinances providing
+for the civil forfeiture of property if: 
+
+       (a) The
+prohibited conduct constitutes the commission of a crime as described in ORS
+161.515; 
+
+       (b) The property
+constitutes proceeds or instrumentalities of the prohibited conduct; and 
+
+       (c) The civil
+forfeiture is subject to the procedures and limitations set forth in this
+chapter. 
+
+       (5) This chapter
+does not limit or impair any right or remedy that any person or entity may have
+under ORS 166.715 to 166.735. The application of any remedy under this chapter
+is remedial and not punitive and does not affect the application of any other civil
+or criminal remedy under any other provision of law. Civil remedies under this
+chapter are supplemental and are not mutually exclusive. [2009 c.78 §2] 
+
+   
+
+       131A.015
+Vesting of title to forfeited property. Subject to this chapter, all right, title and
+interest in property forfeited under this chapter vests in the forfeiting
+agency upon the occurrence of the prohibited conduct on which the forfeiture is
+based. [2009 c.78 §3] 
+
+   
+
+ PROPERTY SUBJECT TO
+FORFEITURE 
+
+   
+
+       131A.020
+Property subject to forfeiture. 
+The following property is subject to forfeiture under this chapter: 
+
+       (1) All
+controlled substances that have been manufactured, distributed, dispensed,
+possessed or acquired in the course of prohibited conduct. 
+
+       (2) All raw
+materials, products and equipment of any kind that are used in providing,
+manufacturing, compounding, processing, delivering, importing or exporting any
+service or substance in the course of prohibited conduct. 
+
+       (3) All property
+that is used as a container for property described in subsection (1) or (2) of
+this section. 
+
+       (4) All
+conveyances, including aircraft, vehicles or vessels, that are used to
+transport or in any manner facilitate the transportation, sale, receipt,
+possession or concealment of property described in subsection (1) or (2) of
+this section, and all conveyances, including aircraft, vehicles or vessels,
+that are used in prohibited conduct or that are used to facilitate prohibited
+conduct in any manner. 
+
+       (5) All books,
+records, computers and research, including formulae, microfilm, tapes and data
+that are used to facilitate prohibited conduct in any manner. 
+
+       (6) All moneys,
+negotiable instruments, balances in deposit accounts or other accounts,
+securities or other things of value furnished by any person in the course of
+prohibited conduct, all proceeds of prohibited conduct, and all moneys,
+negotiable instruments, balances in deposit and other accounts and securities
+used to facilitate any prohibited conduct. 
+
+       (7) All real
+property, including any right, title and interest in the whole of any lot or
+tract of land and any appurtenances or improvements, that is used in any
+manner, in whole or part, to commit or facilitate prohibited conduct. 
+
+       (8) All weapons
+possessed, used or available for use in any manner to facilitate prohibited
+conduct. 
+
+       (9) Any property
+described in this section that was intended for use in committing or
+facilitating an attempt to commit a crime as described in ORS 161.405, a
+solicitation as described in ORS 161.435 or a conspiracy as described in ORS
+161.450. [2009 c.78 §4] 
+
+   
+
+       131A.025
+Consensual search of motor vehicle; required notice. (1) Notwithstanding any other
+provision of this chapter, property that is seized solely on the basis of a
+consensual search of a motor vehicle is not subject to forfeiture unless,
+before obtaining the consent of a person for the search, the person is provided
+with written, multilingual notice of the right of the person to refuse to
+consent to the search. The notice shall include at least the following
+information: 
+
+       (a) Notice that
+the person has a right to refuse to consent to a search. 
+
+       (b) Notice that a
+refusal to consent to a search cannot be used against the person for any
+purpose. 
+
+       (c) Notice that
+anything found in the search can be seized as evidence of a crime or can be
+seized for forfeiture. 
+
+       (2) A notice or
+consent form under this section shall be considered multilingual if the notice
+or form provides information in at least English and Spanish. [2009 c.78 §5] 
+
+   
+
+       131A.030
+Seizure of motor vehicle with hidden compartment. (1) When a seizing agency lawfully
+seizes a motor vehicle with a hidden compartment, the agency shall disable the
+hidden compartment, unless the motor vehicle is forfeited and the agency: 
+
+       (a) Retains the
+motor vehicle for law enforcement purposes; or 
+
+       (b) Determines
+that the cost of disabling the hidden compartment exceeds the value of the
+motor vehicle. 
+
+       (2)
+Notwithstanding ORS 131A.360 and 131A.365, if the motor vehicle with a hidden
+compartment is forfeited and the seizing agency: 
+
+       (a) Retains the
+motor vehicle for law enforcement purposes, the agency shall deduct the cost of
+disabling the hidden compartment from the value of the motor vehicle before
+making the distribution described in ORS 131A.360 and 131A.365. 
+
+       (b) Does not
+retain the motor vehicle for law enforcement purposes and determines that the
+cost of disabling the hidden compartment exceeds the value of the motor
+vehicle, the agency shall sell the motor vehicle for scrap or salvage and distribute
+the proceeds of the sale according to ORS 131A.360 and 131A.365. The seizing
+agency shall ensure that the person to whom the motor vehicle is sold disables
+the hidden compartment or the motor vehicle. 
+
+       (3) If a motor
+vehicle with a hidden compartment is forfeited and the seizing agency sells the
+motor vehicle, the agency shall deduct the cost of disabling the hidden
+compartment from the proceeds of the sale as a cost of prosecuting the case
+under ORS 131A.360 (3) and 131A.365 (2). [2009 c.874 §7] 
+
+   
+
+       131A.035
+Seizure of currency. 
+Notwithstanding any other provision of this chapter, United States currency in
+an amount less than $15,000 may not be seized for forfeiture solely on the
+basis that the money is in the form of cash rather than some other form. [2009
+c.78 §6] 
+
+   
+
+ SEIZURE OF PROPERTY FOR
+FORFEITURE 
+
+   
+
+ (Generally) 
+
+   
+
+       131A.050
+Seizure generally. 
+(1) Property seized for forfeiture is not subject to replevin, conveyance,
+sequestration or attachment, and is not subject to a motion or order to return
+under ORS chapter 133. 
+
+       (2) Property that
+has been unconstitutionally seized may be forfeited if the property is
+determined to be subject to forfeiture under this chapter based on evidence
+that is not the fruit of the unconstitutional seizure. 
+
+       (3) Property
+other than real property may be constructively seized by affixing a forfeiture
+notice to the property, or by recording a forfeiture notice in the public
+record. Real property, including equitable interests under land sale contracts,
+may be seized only by recording a forfeiture notice in the form prescribed by
+ORS 131A.155. 
+
+       (4) If property
+is seized from the possession of a person who has a possessory lien in the
+property, the lien remains in effect after the seizure and is enforceable as
+though the person had retained possession of the property. [2009 c.78 §7] 
+
+   
+
+       131A.055
+Inventory and receipt. 
+(1) Promptly upon seizure of property for forfeiture, the police officer who
+seized the property shall make an inventory of the seized property. The
+inventory may contain an estimate of the value of the seized property. 
+
+       (2) If seized
+property is taken from the possession of a person, or there is a person who is
+in apparent control of the property at the time of the seizure, the officer
+shall deliver a receipt to that person when the property is seized. The receipt
+prepared under this subsection must contain: 
+
+       (a) The inventory
+prepared under subsection (1) of this section; 
+
+       (b) The identity
+of the seizing agency; and 
+
+       (c) The address
+and telephone number of the office or other place where the person may obtain
+further information concerning the forfeiture. 
+
+       (3) A seizing
+agency shall amend the inventory prepared by a police officer under this
+section if the agency determines at any time before the commencement of a
+forfeiture action under ORS 131A.225 that the inventory is substantially
+incorrect. The changes to the inventory must be clearly indicated in the
+amended inventory. A copy of the original inventory and any amendments made to
+the original inventory must be served with any summons and complaint served
+under ORS 131A.230. If the amendment occurs after the commencement of a
+forfeiture action, the amended inventory must be served on all persons
+previously served with summons and complaint in the proceeding. 
+
+       (4) If tangible
+personal property is constructively seized as described in ORS 131A.050 (3),
+the officer shall affix the receipt to the property. If the property is
+physically removed from the place of seizure, and the place is unoccupied or
+nobody is present with apparent control over the property, the officer shall
+promptly file the receipt in the public records of the forfeiting agency. [2009
+c.78 §8] 
+
+   
+
+ (Manner of Seizure) 
+
+   
+
+       131A.060
+Seizure with court order. 
+(1) Property may be seized by any police officer pursuant to an order of the
+court. Forfeiture counsel or a seizing agency may apply for an ex parte order
+directing seizure of specified property. 
+
+       (2) An
+application for an order directing seizure under subsection (1) of this section
+may be made to any judge as defined in ORS 133.525. The application shall be
+supported by one or more affidavits setting forth facts and circumstances that
+support a finding that probable cause exists to believe that the described
+property is subject to forfeiture. The court shall issue the order upon a
+finding of probable cause to believe that the described property is subject to
+forfeiture. The order may be made as part of a search warrant. 
+
+       (3) An order
+issued under this section may specify the manner in which intangible property
+may be seized for forfeiture. 
+
+       (4) Except as
+provided in ORS 131A.080 (3), an order under this section shall direct any
+person having control or custody of the property, including money and other
+assets held in the form of an account in a financial institution, to deliver
+the property to the police officer. [2009 c.78 §9] 
+
+   
+
+       131A.065
+Seizure without court order. 
+(1) Property may be seized for forfeiture by a police officer without a court
+order if: 
+
+       (a) There is
+probable cause to believe that property is subject to forfeiture, and the
+property may constitutionally be seized without a warrant; 
+
+       (b) The seizure
+is in the course of a constitutionally valid criminal investigative stop,
+arrest or search, and there is probable cause to believe that the property is
+subject to forfeiture; 
+
+       (c) The property
+is directly or indirectly dangerous to the health or safety of any person; or 
+
+       (d) An owner
+consents to the seizure. 
+
+       (2) If a police
+officer finds cash, weapons or negotiable instruments in close proximity to
+controlled substances or to instrumentalities of prohibited conduct, the
+officer has probable cause to believe that the property is subject to
+forfeiture. [2009 c.78 §10] 
+
+   
+
+       131A.070
+Delivery by third person. 
+(1) Except as provided in ORS 131A.080 (3), a person who has control or custody
+of property must deliver the property to a police officer if the police officer
+presents a court order issued under ORS 131A.060 or the police officer has
+probable cause to believe that the property is subject to forfeiture. 
+
+       (2) Any person
+who delivers property in obedience to a court order or pursuant to a direction
+from a police officer is not liable to any person by reason of the delivery,
+and is not liable for any costs incurred by reason of any contamination of the
+delivered property, including but not limited to any disposal costs for the
+property, any hazardous waste or material, any contraband or any other
+contamination contained in property seized under this section. [2009 c.78 §11] 
+
+   
+
+ (Effect of Seizure on
+Liens and Security Interests of Financial Institutions) 
+
+   
+
+       131A.075 Liens
+and security interests of financial institutions. (1) Seizure of property for
+forfeiture and other proceedings under this chapter does not prevent, abate or
+delay the initiation or prosecution of a suit or action by a financial
+institution for the possession of seized property in which the financial institution
+claims a lien or security interest, or initiation or prosecution of a suit or
+action by a financial institution for the foreclosure of a lien or security
+interest claimed by the financial institution. A financial institution may
+proceed with any suit or action involving property in which the institution
+claims a lien or security interest even though a seizure has occurred and a
+forfeiture action has been commenced or will be commenced. The financial
+institution’s suit or action may be consolidated with the forfeiture action for
+the purpose of trial. If seized property is sold before the conclusion of the
+forfeiture action, the sheriff, trustee or other person who is conducting the
+sale and who has actual notice of the forfeiture action shall distribute the
+sale proceeds as follows: 
+
+       (a) To the
+payment of the expenses of the sale. 
+
+       (b) If the
+property is a motor vehicle with a hidden compartment, after making the payment
+required by paragraph (a) of this subsection, to reimburse the seizing agency
+for the cost of disabling the hidden compartment. 
+
+       (c) After payment
+of the expenses of the sale and making any reimbursement under paragraphs (a)
+and (b) of this subsection, to the payment of the obligations owed to the
+foreclosing financial institution that are secured by the property, and to the
+payment of the obligations owed to any other person that has a lien or security
+interest in the property that has been foreclosed in the suit or action.
+Payment under this paragraph shall be made in the order determined by the
+court. 
+
+       (d) If there is
+any remaining amount after the payments required under paragraphs (a) to (c) of
+this subsection, to the seizing or forfeiting agency, or to the court in which
+the forfeiture action is pending. 
+
+       (2) A sheriff,
+trustee or other person who distributes sale proceeds as provided in subsection
+(1) of this section is not liable to any person who has or asserts an interest
+in the property. [2009 c.78 §12; 2009 c.874 §9] 
+
+   
+
+ (Care and Custody of
+Property) 
+
+   
+
+       131A.080 Care
+and custody of seized property generally. (1) Pending final disposition of seized property, and
+subject to the need to retain the property for any criminal proceeding, a
+forfeiting agency shall maintain and care for property that is in the physical
+custody of the seizing or forfeiting agency in a manner that is reasonably
+appropriate for the preservation of the property’s value. 
+
+       (2) A forfeiting
+agency may transfer property seized for forfeiture to any city, county, state
+or federal agency with authority to seek forfeiture of the property, unless the
+transfer diminishes or reduces the rights of any third party under this chapter
+or constitutes a violation of section 10 (13), Article XV of the Oregon
+Constitution. 
+
+       (3) If property
+seized for forfeiture consists of money, stocks, bonds, promissory notes or
+other security or evidence of indebtedness, and the property is held in some
+form of account in a financial institution, the property may remain in the
+account pending a final decision in the forfeiture action. Unless otherwise
+allowed by order of the court, transactions involving the account are not
+permitted until final disposition of the property, except for the deposit or
+reinvestment of dividends or other normally recurring payments on the property.
+Any accrual to the value of the property during the pendency of forfeiture
+proceedings shall be disbursed in the manner provided for the disbursement of
+interest under ORS 131A.090. 
+
+       (4) This chapter
+does not prevent a seizing agency from entering into an agreement with a person
+who claims seized property, or with any other person, for the reimbursement of
+the seizing agency for the costs and expenses relating to towing and storage of
+seized property, or for the reimbursement of the cost of discharging any
+possessory chattel lien on the property arising under ORS 87.152 to 87.162 that
+attaches to the property after seizure of the property and before release or
+forfeiture of the property. [2009 c.78 §13] 
+
+   
+
+       131A.085 Order
+for sale, lease, rental or operation of seized property. (1) Pending final disposition of
+property seized for forfeiture, and subject to the need to retain the property
+for any criminal proceeding, a forfeiting agency may apply to the court for an
+order allowing the seized property to be sold, leased, rented or operated in
+the manner and on terms that may be specified in the court’s order. Any sale,
+lease, rental or operation of seized property under this section must be
+conducted in a commercially reasonable manner, and may not result in a material
+reduction of the property’s value. An order may be entered under this section
+only: 
+
+       (a) After notice
+and opportunity to be heard is provided to all persons known to have an
+interest in the property, or who claim to have an interest in the property; and 
+
+       (b) With the
+consent of all persons holding security interests of record in the property. 
+
+       (2) Unless
+otherwise ordered by the court, the proceeds of the sale, lease, rental or
+operation of seized property under this section shall be held by the forfeiting
+agency in a forfeiture trust account established under ORS 131A.090, and the
+rights of holders of security interests of record in the property attach to the
+proceeds of the sale, lease, rental or operation in the order of the priority
+of their claims. [2009 c.78 §14] 
+
+   
+
+       131A.090
+Forfeiture trust accounts. 
+(1) Except for currency with collector value, all money seized for forfeiture,
+together with all money received from the sale, lease, rental or operation of
+seized property, shall be immediately deposited in an insured interest-bearing
+forfeiture trust account or accounts maintained by the seizing or forfeiting
+agency exclusively for this purpose. Cash may be retained as evidence in a
+criminal proceeding, but must be deposited in a trust account or trust accounts
+immediately after the cash is no longer needed as evidence. 
+
+       (2) Subject to
+any court order, amounts deposited in a forfeiture trust account, or held in an
+account in a financial institution under ORS 131A.080 (3), including interest
+on those amounts, shall be disbursed as follows: 
+
+       (a) If forfeiture
+proceedings are abandoned, or if the court ultimately fails to enter a judgment
+of forfeiture, the amount of the account shall be disbursed by the seizing or
+forfeiting agency to the person from whom the property was seized. 
+
+       (b) If a judgment
+of forfeiture is entered, but parties other than the forfeiting agency
+establish rights to portions of the amount deposited in the account that are in
+the aggregate equal to or larger than the amount in the account, the account
+shall be disbursed by the forfeiting agency to the parties in the order of the
+priority of their claims. 
+
+       (c) If a judgment
+of forfeiture is entered, and the total amount in the account is greater than
+the amount needed to satisfy the interests of security interest holders,
+lienholders and other claimants, the balance remaining after payment to those
+claimants shall be retained by the forfeiting agency for distribution as
+required by ORS 131A.360 and 131A.365. [2009 c.78 §15] 
+
+   
+
+ HEARING ON PROBABLE
+CAUSE AND DECISION ON SEEKING FORFEITURE 
+
+   
+
+       131A.100
+Hearing on probable cause. 
+(1) Any person with an interest in property that has been seized for forfeiture
+may file an application to have an order to show cause order issued to a
+forfeiting agency to determine if probable cause exists to seize the property
+for forfeiture. The application must be filed not more than 15 days after
+forfeiture notice is served under ORS 131A.150, or within 15 days after the
+person receives actual knowledge of the seizure, whichever is later. A copy of
+the application must be served on the forfeiture counsel. 
+
+       (2) When a
+hearing is held on a show cause order issued under this section, the court
+shall determine if probable cause to seize the property for forfeiture exists
+on the date of the hearing. If the court finds that probable cause for seizure
+of the property for forfeiture does not exist, the forfeiting agency shall
+release the property. [2009 c.78 §16] 
+
+   
+
+       131A.105
+Decision on seeking forfeiture. 
+(1) A seizing agency, after consultation with the district attorney of the
+county in which the property was seized, must decide whether to seek forfeiture
+of seized property not more than 30 days after the property is seized. If the
+seizing agency elects not to seek forfeiture, the agency shall pay all costs
+and expenses relating to towing and storage of the property, and shall release
+the property and cause to be discharged any possessory chattel liens arising
+under ORS 87.152 to 87.162 that have attached to the property since the
+seizure. If the property is a motor vehicle with a hidden compartment, the
+seizing agency is not liable for any diminution in the value of the property as
+a result of disabling the compartment. 
+
+       (2) Property may
+be released under this section to a person other than the person from whose
+custody or control the property was taken if the seizing agency mails notice to
+the last-known addresses of all persons known to have an interest in the
+property. The notice shall specify the person to whom the property is to be
+released and shall detail the time and place of the release. [2009 c.78 §17;
+2009 c.874 §10] 
+
+   
+
+ FORFEITURE NOTICE 
+
+   
+
+       131A.150
+Forfeiture notice. 
+(1) A forfeiture notice must contain: 
+
+       (a) A copy of the
+inventory prepared by the police officer under ORS 131A.055, with any
+amendments made under ORS 131A.055 (3); 
+
+       (b) The name of
+the person from whom the property was seized; 
+
+       (c) The name,
+address and telephone number of the seizing agency; 
+
+       (d) The address
+and telephone number of the office or other place where further information
+concerning the seizure may be obtained; and 
+
+       (e) A statement
+in substantially the following form: 
+
+ ______________________________________________________________________________ 
+
+ NOTICE OF SEIZURE FOR
+FORFEITURE 
+
+ Notice to Potential
+Claimant - 
+
+ Read These Papers
+Carefully ! ! ! 
+
+       If you have any
+interest in the seized property described in these papers, you must claim that
+interest or you will automatically lose that interest. If you do not file a
+claim for the property, the property may be forfeited even if you are not
+convicted of any crime. To claim an interest, you must file a written claim
+with the forfeiture counsel named below. The written claim must be signed by
+you, under penalty of perjury, and state: (a) Your true name; (b) The address
+at which you will accept future mailings from the court and forfeiture counsel;
+and (c) A statement that you have an interest in the seized property. Your
+deadline for filing the claim document is 21 days from the day this form is
+given to you. If you have any questions, you should see an attorney
+immediately. 
+
+ ______________________________________________________________________________ 
+
+       (2) A police
+officer who seizes property for forfeiture may serve a forfeiture notice on the
+person from whose possession the property is taken, or on the person in
+apparent control of the property, at the time the property is seized. 
+
+       (3) If a police
+officer seizes property for forfeiture and does not serve a forfeiture notice
+under subsection (2) of this section, the forfeiting agency shall issue the
+forfeiture notice not more than 15 days after the seizure. 
+
+       (4) Except as
+provided in subsections (5) and (6) of this section, a forfeiting agency shall
+make reasonable efforts to serve a forfeiture notice on all persons known to
+have an interest in the seized property. A person may be served as provided in
+ORCP 7 D except that summons must include information regarding the right to
+file a claim as provided by ORS 131A.165, if applicable, and the deadline for
+filing the claim. If the property is cash in the amount of $1,000 or less, or
+if the fair market value of the property is $1,000 or less, the forfeiting
+agency may publish notice of seizure for forfeiture in a newspaper as provided
+in ORCP 7 D(6)(b) to (d). In all other cases, the forfeiting agency shall
+publish notice of seizure for forfeiture in a newspaper as provided in ORCP 7
+D(6)(b) to (d). A copy of the notice and inventory shall be provided to the
+forfeiting agency’s forfeiture counsel. 
+
+       (5) If a
+forfeiting agency publishes forfeiture notice under subsection (4) of this
+section, the agency may include in a single publication as many forfeiture
+notices as the agency considers convenient. The publication may contain a
+single statement of matters from the forfeiture notices that are common to all
+of the notices and that would otherwise result in needless repetition. The
+publication must contain for each forfeiture notice a separate copy of the
+inventory and a separate statement of the identity of the person from whose
+custody the property was seized. 
+
+       (6) A forfeiture
+notice need not be served on a person who has received a receipt under ORS
+131A.055 if: 
+
+       (a) The receipt
+contains an estimate of the value of the property seized; 
+
+       (b) The seizing
+agency has not amended the inventory under ORS 131A.055 (3); and 
+
+       (c) The receipt
+contains information regarding the right to file a claim as described in ORS
+131A.165 and the deadline for filing the claim. 
+
+       (7) If a person
+received a receipt as described in subsection (6) of this section, but the
+person must be served with a forfeiture notice because the seizing agency has
+amended the inventory under ORS 131A.055 (3), the seizing agency may serve a
+forfeiture notice on the person by mailing a true copy of the notice to the
+person by certified mail, return receipt requested. [2009 c.78 §18] 
+
+   
+
+       131A.155
+Recorded forfeiture notice. 
+(1) If a forfeiting agency intends to seek forfeiture of real property, the
+forfeiting agency may record a forfeiture notice in the form prescribed in this
+section in the County Clerk Lien Record. The notice must contain the legal
+description of the real property, any street address for the property, and the
+name and address of the forfeiture counsel. From the time of recording the
+notice, the recording is notice to purchasers and other transferees of the
+rights and equities in the premises of the forfeiting agency. 
+
+       (2) A forfeiture
+notice must be in substantially the following form: 
+
+ ______________________________________________________________________________ 
+
+ FORFEITURE NOTICE 
+
+   
+
+       Pursuant to ORS
+131A.155, the undersigned states: 
+
+       That _________
+(forfeiting agency) intends to initiate a forfeiture action against the
+following described real property: 
+
+       1. The
+description of the real property to be affected is: 
+
+       __________________ 
+
+       __________________ 
+
+       __________________ 
+
+       __________________ 
+
+       __________________ 
+
+       2. The common
+address, if any, is: 
+
+       __________________ 
+
+       __________________ 
+
+       __________________ 
+
+   
+
+       Dated this _____
+day of ______, _____. 
+
+   
+
+       This forfeiture
+notice expires on _____ day of _________, _____, absent future filings. 
+
+   
+
+       Name of agency
+seeking forfeiture 
+
+       __________________ 
+
+       Name of attorney 
+
+       __________________ 
+
+       Address 
+
+       __________________ 
+
+       __________________ 
+
+       __________________ 
+
+       Telephone number 
+
+       __________________ 
+
+   
+
+   
+
+ State of Oregon           ) 
+
+                                     )           ss. 
+
+ County of _____         ) 
+
+   
+
+   
+
+       The foregoing
+instrument was acknowledged before me this _____ day of _________, _____. 
+
+   
+
+ __________________ 
+
+   
+
+ Notary
+public for Oregon 
+
+   
+
+ My
+commission expires _________. 
+
+ ______________________________________________________________________________ 
+
+       
+
+ (3) A forfeiture notice
+recorded under this section expires 30 days after the date of filing unless
+another forfeiture notice is recorded within the 30-day period. If another
+forfeiture notice is recorded within the 30-day period, the notice remains in effect
+for 30 days after the notice is recorded. The forfeiting agency may continue to
+record forfeiture notices in like manner until final disposition of the real
+property. [2009 c.78 §19] 
+
+   
+
+       131A.160
+Transfer of proceedings prohibited. 
+After service of a forfeiture notice under ORS 131A.150, or recording of a
+forfeiture notice under ORS 131A.155, a forfeiting agency may not transfer the
+proceedings to the federal government unless a state court has affirmatively
+found by a preponderance of the evidence that: 
+
+       (1) The activity
+giving rise to the forfeiture is interstate in nature and sufficiently complex
+to justify the transfer; 
+
+       (2) The seized
+property may be forfeited only under federal law; or 
+
+       (3) Pursuing
+forfeiture under state law would unduly burden the forfeiting agency. [2009
+c.78 §20] 
+
+   
+
+ CLAIMS 
+
+   
+
+ (Generally) 
+
+   
+
+       131A.165
+Claims. (1) Except
+as provided in subsection (2) of this section, a person claiming an interest in
+property seized for forfeiture must file a claim with the forfeiting agency’s
+forfeiture counsel not more than 21 days after service of a forfeiture notice. 
+
+       (2) If service of
+a forfeiture notice is made by publication under ORS 131A.150 (4), a person
+claiming an interest in the property must file a claim with the forfeiting
+agency’s forfeiture counsel not more than 21 days after the last publication
+date. Extensions for filing claims may not be granted. 
+
+       (3) A claim under
+this section must be signed by the claimant under penalty of perjury and must
+include: 
+
+       (a) The true name
+of the claimant; 
+
+       (b) The address
+at which the claimant will accept future mailings from the court and forfeiture
+counsel; and 
+
+       (c) A statement
+that the claimant has an interest in the seized property. [2009 c.78 §21] 
+
+   
+
+ (Expedited Hearing) 
+
+   
+
+       131A.170
+Expedited hearing on claim. 
+(1) A person claiming an interest in seized property may file a petition for an
+expedited hearing within 15 days after service of a forfeiture notice on the
+person or within such further time as the court may allow for good cause shown. 
+
+       (2) A petition
+for an expedited hearing must contain a claim as described in ORS 131A.165 if a
+claim has not previously been filed. The petition must indicate whether the
+petitioner seeks one or more of the following: 
+
+       (a) A
+determination at the hearing of any of the affirmative defenses provided for in
+ORS 131A.260. 
+
+       (b) An order
+restoring custody of seized property to the petitioner during the pendency of
+the proceedings. 
+
+       (c) Appointment
+of a receiver. 
+
+       (3) A person
+filing a petition under this section shall serve a copy of the petition on all
+persons known to have an interest in the property. Service must be made as
+provided in ORCP 7 D. Service by publication is not required before an
+expedited hearing. 
+
+       (4) A hearing
+shall be held within 15 days after service of all persons known to have an
+interest in the property, or at such later time as the court may allow for good
+cause shown. The hearing shall be limited to deciding whether to grant the
+relief sought in the petition. 
+
+       (5) The court may
+enter an order directing the return of the seized property to the claimant
+during the pendency of the hearing if the court finds, by a preponderance of
+the evidence, that it is probable that the property will remain available for
+forfeiture at the completion of the proceedings and that there is a reasonable
+possibility that the petitioner will ultimately prevail in the proceeding. 
+
+       (6) If the
+petition is denied, and the petitioner subsequently discovers evidence relevant
+to the claimed relief, the petitioner may file a new petition under this
+section at any time before a trial in the forfeiture action. The new petition
+shall be served as provided in ORS 131A.230. 
+
+       (7) The parties
+in a forfeiture action may at any time stipulate to the entry of an order
+restoring custody of seized property to a petitioner who claims an interest in
+the property. The order shall comply with the requirements of ORS 131A.180 (1).
+[2009 c.78 §22] 
+
+   
+
+       131A.175
+Expedited hearing on affirmative defenses. (1) In any expedited hearing under ORS 131A.170 in
+which a petitioner seeks a determination at the hearing of any of the
+affirmative defenses provided for in ORS 131A.260, the court may consider
+evidence relating to those affirmative defenses and shall make a determination
+as to any of those defenses that may be asserted by the petitioner. 
+
+       (2) If the court
+finds that the petitioner has proven an affirmative defense provided for in ORS
+131A.260, the court shall order that custody of the seized property be returned
+to the petitioner, to the extent of the petitioner’s interest, pending a final
+determination as to the disposition of the property, unless the forfeiting
+agency can show that the return of the property will result in prejudice to the
+agency in seeking forfeiture of other claimants’ interest in the property. 
+
+       (3) If the court
+finds that the petitioner has failed to prove an affirmative defense provided
+for in ORS 131A.260, the court shall continue the matter for further
+proceedings as a forfeiture action under this chapter. [2009 c.78 §23] 
+
+   
+
+       131A.180 Order
+restoring custody of property after expedited hearing. (1) An order restoring custody of
+property to a petitioner under ORS 131A.170 or 131A.175 shall: 
+
+       (a) Prohibit the
+petitioner from using the property in unlawful conduct of any kind, or from
+allowing the property to be used by any other person in unlawful conduct; 
+
+       (b) Require the
+petitioner to service and maintain the property as may be reasonably
+appropriate to preserve the property’s value; and 
+
+       (c) Require the
+petitioner to inform the court of the exact location of the property at the
+time of any trial in a forfeiture action and to deliver the property to the
+forfeiting agency immediately upon the issuance of a judgment of forfeiture. 
+
+       (2) An order
+restoring custody of property to a petitioner under ORS 131A.170 or 131A.175
+may include such other requirements as the court finds appropriate pending a
+final determination as to the disposition of the property. If the property is a
+motor vehicle with a hidden compartment, the seizing agency is not liable for
+any diminution in the value of the property as a result of disabling the
+compartment. 
+
+       (3) An order
+restoring custody of property to a petitioner under ORS 131A.170 or 131A.175 is
+enforceable by a contempt proceeding brought on the relation of forfeiture
+counsel, by an order directing the petitioner to deliver the property to the
+custody of the forfeiting agency, by an order awarding to the forfeiting agency
+its reasonably incurred attorney fees, costs and investigative expenses, and by
+such other remedies or relief as the court may find appropriate. [2009 c.78 §24;
+2009 c.874 §11] 
+
+   
+
+ EX PARTE FORFEITURES 
+
+   
+
+       131A.200 Ex
+parte forfeiture. 
+(1) An ex parte judgment of forfeiture may be entered under this section only
+if: 
+
+       (a) The property
+is personal property; 
+
+       (b) The property
+is not subject to an interest in favor of any person known to have an interest,
+other than a person who is believed by the forfeiting agency to have engaged in
+prohibited conduct; and 
+
+       (c) A claim is
+not filed in the manner provided by ORS 131A.165 within the time allowed. 
+
+       (2) At any time
+after the time for filing a claim under ORS 131A.165 has expired, a forfeiting
+agency may petition the circuit court specified in ORS 131A.225 (3) for an ex
+parte judgment of forfeiture under this section. The petition must state that
+the requirements of subsection (1) of this section have been met. An affidavit
+must be attached to the petition that states that forfeiture notice was served
+on all persons claiming an interest in the property, or that sets forth facts
+demonstrating the forfeiting agency’s efforts to accomplish service, together
+with proof of any publication of notice. 
+
+       (3) Upon filing
+of a petition under this section, the court shall enter a judgment forfeiting
+the property identified in the petition. [2009 c.78 §25] 
+
+   
+
+ FORFEITURE ACTIONS 
+
+   
+
+ (Generally) 
+
+   
+
+       131A.225
+Forfeiture actions generally. 
+(1) A civil forfeiture action in rem may be brought as provided in this section
+in any case in which forfeiture is sought. A civil forfeiture action must be
+brought if: 
+
+       (a) The property
+is real property; 
+
+       (b) The property
+is in whole or part a manufactured dwelling as defined in ORS 446.003; 
+
+       (c) The property
+is a floating home as defined in ORS 830.700; 
+
+       (d) A claim has
+been made for the property under ORS 131A.165; or 
+
+       (e) A person,
+other than a person who is believed by the forfeiting agency to have engaged in
+prohibited conduct, is known to have an interest in the property. 
+
+       (2) If a claim
+has been made for seized property under ORS 131A.165, forfeiture counsel must
+commence a forfeiture action not more than 15 days after receipt of the claim.
+In all other cases, a forfeiture action must be commenced by forfeiture counsel
+within 30 days after seizure of the property. 
+
+       (3) If the
+property to be forfeited is real property, the forfeiture action must be commenced
+in the circuit court for a county in which the property is situated. In all
+other cases, the forfeiture action must be commenced in the circuit court for
+the county in which the property was seized, or in the circuit court for the
+county in which any part of the prohibited conduct took place. 
+
+       (4) A forfeiture
+action is commenced by filing a complaint. A copy of the inventory prepared
+under ORS 131A.055 must be attached to the complaint. The complaint need only
+allege that there is probable cause for seizure of the property or that a court
+order was issued under ORS 131A.060, and need not allege that any claimant has
+been convicted of a crime. A complaint under this section may be amended at any
+time to allege that a claimant has been convicted of a crime. 
+
+       (5) A complaint
+in a forfeiture action is not subject to a motion to strike, a motion for
+summary judgment or any other pretrial motion for dismissal that is based
+solely on the lack of a criminal conviction in support of the forfeiture. This
+subsection does not affect the ability of a claimant to file a motion to strike
+or a motion for summary judgment based on the acquittal of the claimant of all
+criminal charges on which the forfeiture action is based, or based on dismissal
+of all criminal charges on which the forfeiture action is based. 
+
+       (6) Forfeiture
+actions are governed by the Oregon Rules of Civil Procedure except to the
+extent those rules conflict with this chapter. [2009 c.78 §26] 
+
+   
+
+ (Service of Complaint) 
+
+   
+
+       131A.230
+Service. (1) Upon
+commencement of a forfeiture action, the forfeiting agency must serve the
+summons and complaint on all persons known to have an interest in the property
+in the manner provided by ORCP 5 and 7 D. In addition, notice of the action
+must be published as provided in ORCP 7 D(6)(b) to (d) unless the forfeiture
+notice for the property was previously published in the manner provided in ORS
+131A.150 (4). 
+
+       (2) If the
+property to be forfeited in a forfeiture action is a vehicle, and substitute
+service on the claimant is required because personal service cannot be
+reasonably accomplished, service in the manner provided by ORCP 7 D(4) is
+sufficient to establish jurisdiction over a registered owner or operator of a
+vehicle. 
+
+       (3) If the
+property to be forfeited in a forfeiture action is in whole or part a
+manufactured dwelling as defined in ORS 446.003 or a floating home as defined
+in ORS 830.700, the forfeiting agency must record a notice of seizure
+containing a description of the manufactured dwelling or floating home in all
+public offices maintaining records that impart constructive notice of matters
+relating to manufactured dwellings or floating homes. [2009 c.78 §27] 
+
+   
+
+ (Response to Complaint) 
+
+   
+
+       131A.235
+Responsive pleading. 
+Except as provided by ORS 131A.240, a person claiming an interest in property
+that is the subject of a forfeiture action must file a responsive pleading as
+provided in the Oregon Rules of Civil Procedure. If the person has not
+previously filed a claim under ORS 131A.165, a claim as described in ORS
+131A.165 (3) must be attached to the responsive pleading. [2009 c.78 §28] 
+
+   
+
+       131A.240
+Response by affidavit. 
+(1) In lieu of filing a responsive pleading under ORS 131A.235, a financial
+institution holding an interest in the property may respond to a complaint with
+an affidavit establishing the financial institution’s interest in the property. 
+
+       (2) In lieu of
+filing a responsive pleading under ORS 131A.235, a person who has an interest
+in the property by reason of being the transferee or conveyor of an interest in
+the property under a contract for transfer or conveyance of an interest in real
+property as defined in ORS 93.905 may respond to a complaint in a forfeiture
+action by filing an affidavit establishing that: 
+
+       (a) The person
+did not take the property with the intent to defeat forfeiture of the property; 
+
+       (b) The person
+did not know and did not have reason to know that the property constituted
+proceeds or an instrumentality of prohibited conduct; and 
+
+       (c) The claimant
+did not acquiesce in the criminal conduct as described in ORS 131A.255 (4). 
+
+       (3) An affidavit
+under subsection (1) or (2) of this section must be filed within 30 days after
+service of the summons and complaint. The failure to file the affidavit or
+other responsive pleading under ORS 131A.235 within the time allowed
+constitutes a default. 
+
+       (4) A forfeiting
+agency may file objections to any or all of the assertions made in an affidavit
+filed under subsection (1) or (2) of this section. The objections must be filed
+within 20 days after the filing of an affidavit under subsection (1) or (2) of
+this section. The person filing the affidavit may respond to the objections by
+filing a supplemental affidavit limited to the matters stated in the affidavit
+of the forfeiting agency. The responding affidavit must be filed not later than
+five days after the forfeiting agency files objections. 
+
+       (5) If a
+forfeiting agency does not file objections within the time allowed by
+subsection (4) of this section, the interest of the person filing the affidavit
+is conclusively established for all purposes under this chapter. [2009 c.78 §29] 
+
+   
+
+       131A.245
+Hearing on objections to affidavit. 
+(1) If a forfeiting agency files objections under ORS 131A.240, the court shall
+determine from the affidavits whether there is a genuine issue of material fact
+with respect to the assertions of the financial institution, transferor,
+conveyor or successor in interest. 
+
+       (2) If the court
+determines that there is no genuine issue of material fact as to the truth of
+the assertions in an affidavit filed under ORS 131A.240 (2): 
+
+       (a) The interest
+of the financial institution, transferor, conveyor or successor in interest
+shall be conclusively established for all purposes under this chapter; 
+
+       (b) A transferor,
+conveyor or successor in interest shall be considered a financial institution
+for all purposes under this chapter; and 
+
+       (c) The court
+shall order the forfeiting agency to pay the costs and disbursements, as
+described in ORCP 68 A, and the attorney fees of the prevailing financial
+institution, transferor, conveyor or successor in interest. 
+
+       (3) If the court
+determines that there is a genuine issue of material fact as to the truth of
+the assertions in an affidavit filed under ORS 131A.240, the financial
+institution, transferor, conveyor or successor in interest shall, within 15
+days, file a responsive pleading as provided by ORS 131A.235. The court may
+order the financial institution, transferor, conveyor or successor in interest
+to pay the attorney fees of the forfeiting agency that were incurred in
+contesting the affidavit of the financial institution, transferor, conveyor or
+successor in interest if the court determines that the affidavit of the
+financial institution, transferor, conveyor or successor in interest was
+frivolous. [2009 c.78 §30] 
+
+   
+
+       131A.250
+Foreclosure of security interests, liens and vendor’s interests. (1) If a responsive pleading or
+affidavit is filed under ORS 131A.235 or 131A.240, the court shall foreclose
+all security interests, liens and vendor’s interests in the property, including
+contracts for the transfer or conveyance of the property, for which the court
+determines that there is a legal or equitable basis for foreclosure. 
+
+       (2) Except for
+deficiencies resulting from disabling a hidden compartment in a motor vehicle
+with a hidden compartment, foreclosure of a security interest, lien or vendor’s
+interest under this section does not prevent a claimant from obtaining any
+deficiency to which the claimant would otherwise be entitled under the law. [2009
+c.78 §31; 2009 c.874 §12] 
+
+   
+
+ (Standards of Proof and
+Defenses) 
+
+   
+
+       131A.255
+Standards of proof in forfeiture action. (1) In all forfeiture actions, the forfeiting agency
+must prove that a person has been convicted of a crime that constitutes
+prohibited conduct, and that the property to be forfeited is: 
+
+       (a) Proceeds of
+the crime for which the person has been convicted; 
+
+       (b) An
+instrumentality of the crime for which the person has been convicted; 
+
+       (c) Proceeds of
+one or more other crimes similar to the crime for which the person was
+convicted; or 
+
+       (d) An
+instrumentality of one or more other crimes similar to the crime for which the
+person was convicted. 
+
+       (2) A forfeiting
+agency may seek forfeiture of the property of a claimant who has been convicted
+of a crime that constitutes prohibited conduct if the property to be forfeited
+meets the requirements of subsection (1) of this section. A forfeiting agency may
+seek forfeiture of the property of a claimant who has not been convicted of a
+crime if the forfeiting agency proves that: 
+
+       (a) Another
+person has been convicted of a crime that constitutes prohibited conduct; 
+
+       (b) The property
+to be forfeited meets the requirements of subsection (1) of this section; and 
+
+       (c) The claimant: 
+
+       (A) Took the
+property with the intent to defeat forfeiture of the property; 
+
+       (B) Knew or
+should have known that the property was proceeds of prohibited conduct; or 
+
+       (C) Acquiesced in
+the prohibited conduct. 
+
+       (3) Except as
+provided in subsection (5) of this section, if the property to be forfeited in
+a forfeiture action is personal property, the forfeiting agency must prove the
+elements specified in subsection (2) of this section by a preponderance of the
+evidence. If the property to be forfeited in a forfeiture action is real
+property, the forfeiting agency must prove the elements specified in subsection
+(2) of this section by clear and convincing evidence. 
+
+       (4) For the
+purposes of subsection (2)(c) of this section, a claimant shall be considered
+to have acquiesced in prohibited conduct if the claimant knew of the prohibited
+conduct and failed to take reasonable action under the circumstances to
+terminate the prohibited conduct or prevent use of the seized property to
+facilitate the prohibited conduct. 
+
+       (5) If the
+forfeiting agency establishes in a forfeiture action that cash, weapons or
+negotiable instruments were found in close proximity to controlled substances
+or to instrumentalities of prohibited conduct, the burden is on any person
+claiming the cash, weapons or negotiable instruments to prove by a
+preponderance of the evidence that the cash, weapons or negotiable instruments
+are not proceeds of prohibited conduct or an instrumentality of prohibited
+conduct. [2009 c.78 §32] 
+
+   
+
+       131A.260
+Affirmative defenses in forfeiture action. (1) A claimant may plead as an affirmative defense
+that the property was seized in violation of ORS 131A.025. 
+
+       (2) In any
+forfeiture action brought against real property claimed to be an
+instrumentality of prohibited conduct relating to controlled substances, a
+claimant may plead as an affirmative defense that the controlled substance was
+solely for personal use. 
+
+       (3) If, by a
+preponderance of the evidence, the claimant proves a defense under this section
+by a preponderance of the evidence, the court shall enter judgment for the claimant.
+[2009 c.78 §33] 
+
+   
+
+ (Stays and
+Consolidation of Actions) 
+
+   
+
+       131A.265
+Stays. (1) The
+court may stay a forfeiture action upon motion of a party and good cause shown.
+Good cause may include a reasonable fear on the part of a claimant that the
+claimant could be prosecuted for conduct arising out of the same factual
+situation that gave rise to the seizure of property. Good cause for a motion
+made by forfeiture counsel may include the need for additional time to commence
+or complete a criminal proceeding related to the forfeiture action. 
+
+       (2) The court may
+stay a forfeiture action upon the filing of criminal charges that are related
+to the prohibited conduct that is the basis for the action. The stay may be
+granted upon the motion of forfeiture counsel, the motion of the district
+attorney in the related criminal proceeding, or the motion of the defendant in
+the related criminal proceeding. A stay granted under this section remains in
+effect until the final resolution of the related criminal proceeding. A motion
+for a stay by the defendant in the related criminal proceeding constitutes a
+waiver of double jeopardy by the defendant as to the forfeiture action and any
+related criminal proceeding. 
+
+       (3) A forfeiture
+action that has been stayed under this section may be consolidated for trial or
+other resolution with any related criminal proceeding as provided in ORS
+131A.270. 
+
+       (4) Any party may
+file a motion with the court at any time to lift a stay granted under this
+section if good cause no longer exists for the stay. [2009 c.78 §34] 
+
+   
+
+       131A.270
+Consolidation of actions. 
+(1) A forfeiture action may be consolidated with any other action that relates
+to the same property or parties on motion by any party in the forfeiture
+action. 
+
+       (2) Upon motion
+by the state or other public body, or any criminal defendant who is also a
+claimant, a forfeiture action under this section may be consolidated for trial
+or other resolution with any related criminal proceeding. Trial or other
+resolution of the forfeiture action shall immediately follow the resolution of
+the related criminal proceeding, shall be part of the other proceeding and
+shall be heard by the same trier of fact. Any objection by the defendant to the
+consolidation, or any motion by the defendant to sever the related criminal
+case from the forfeiture action, constitutes a waiver of double jeopardy as to
+the related criminal action and the forfeiture action. [2009 c.78 §35] 
+
+   
+
+ (Special Motion for
+Release of Property) 
+
+   
+
+       131A.275
+Special motion for release of property. (1) Any claimant who is alleged to have engaged in
+prohibited conduct, and who has filed a responsive pleading or affidavit in the
+manner required by ORS 131A.235 or 131A.240, may file a special motion for the
+release of all or part of the property subject to the forfeiture action if a
+criminal action alleging the commission of a crime, as described in ORS
+161.515, is not brought against any owner of the property within 90 days after
+the property is seized. The court shall grant the motion except upon good cause
+shown by the forfeiting agency. The release of the property does not affect the
+ability of the forfeiting agency to continue the action for the purpose of
+seeking forfeiture of the released property. 
+
+       (2) A motion
+under this section may not be made for the release of any property that is held
+as evidence or for protective purposes. [2009 c.78 §36] 
+
+   
+
+ (Judgment) 
+
+   
+
+       131A.300
+Judgment forfeiting property generally. (1) A judgment forfeiting property shall recite the
+basis for the judgment. 
+
+       (2) After entry
+of a judgment forfeiting property, the forfeiting agency may transfer good and
+sufficient title for the property to purchasers and other transferees, and the
+title shall be recognized by all courts and public bodies. Any public body
+whose official functions include the issuance of certificates of title or other
+evidence of title is immune from civil or criminal liability if the issuance is
+pursuant to a judgment of forfeiture. 
+
+       (3) If real
+property is forfeited under a judgment forfeiting property, the forfeiting
+agency shall warrant the title of the property against constitutional defect. A
+warranty under this section is limited to the purchase price of the real
+property. 
+
+       (4) A forfeiting
+agency may apply to any circuit court judge for a writ of assistance directing
+the sheriff of the county to assist the forfeiting agency in seizing property
+identified in a judgment forfeiting property. [2009 c.78 §37; 2011 c.504 §4] 
+
+   
+
+       131A.305
+Judgment forfeiting property; judgment for forfeiting agency. (1) If a judgment forfeiting
+property is entered, and the judgment finds against all claimants who have
+filed a responsive pleading or affidavit under ORS 131A.235 or 131A.240, title
+to the forfeited property passes to the forfeiting agency free of any interest
+or encumbrance in favor of a person who has been given notice of the
+proceedings. 
+
+       (2) If the court
+has determined that the property should be forfeited and has not foreclosed the
+interests of any party in the property, the seizing agency shall pay all costs
+and expenses relating to towing and storage of the property and shall cause to
+be discharged any possessory chattel liens on the property arising under ORS
+87.152 to 87.162 that have attached to the property since the seizure, and the
+court shall enter a judgment forfeiting the property to the forfeiting agency,
+subject to the interests of any claimants for whom judgment was entered. If the
+property is a motor vehicle with a hidden compartment, the interests of any
+claimants or financial institutions shall be reduced on a pro rata basis by the
+cost of disabling the hidden compartment. 
+
+       (3) If a judgment
+forfeiting property is entered, all valid interests in the property that are
+not foreclosed or otherwise extinguished under the judgment remain in effect. [2009
+c.78 §38; 2009 c.874 §13] 
+
+   
+
+       131A.310
+Judgment for claimant. 
+(1) Except as provided in subsection (2) of this section, if a judgment is
+entered for a claimant in a proceeding under this chapter, the claimant’s
+property or interest in the property shall be returned or conveyed immediately
+to the claimant. All security interests, liens and other interests applicable
+to the property shall remain in effect as though the property had never been
+seized. Upon the return of the property to the owner, the seizing agency shall
+pay all costs and expenses relating to towing and storage of the property, and
+shall cause to be discharged any possessory chattel liens on the property
+arising under ORS 87.152 to 87.162 that have attached to the property since the
+seizure. The court shall award costs, disbursements and attorney fees in the
+manner provided by ORCP 68 to the prevailing claimant, to be paid by the
+forfeiting agency. If the property is a motor vehicle with a hidden
+compartment, the seizing agency is not liable for any diminution in the value
+of the property as a result of disabling the compartment. 
+
+       (2) If a judgment
+is entered for a claimant in a proceeding under this chapter, but the court has
+foreclosed one or more interests in the property under ORS 131A.250, the
+seizing agency shall pay all costs and expenses relating to towing and storage
+of the property, and shall cause to be discharged any possessory chattel liens
+on the property arising under ORS 87.152 to 87.162 that have attached to the
+property since the seizure. The judgment shall require that the property then
+be sold, pursuant to a sheriff’s sale or other sale authorized by the court,
+within such time as may be prescribed by the court. The property shall be sold
+subject to any interests in the property that have not been foreclosed,
+including any liens or security interests of a claimant whose claim has been
+upheld or of a financial institution that has filed the affidavit described in
+ORS 131A.240 (1). The judgment shall require that the proceeds of the sale be
+applied as follows: 
+
+       (a) The proceeds
+shall first be used to pay the costs of the sale. 
+
+       (b) If the
+property is a motor vehicle with a hidden compartment, after making the payment
+required by paragraph (a) of this subsection, the proceeds shall be used to
+reimburse the seizing agency for the cost of disabling the hidden compartment. 
+
+       (c) After payment
+of the costs of the sale and making any reimbursement required under paragraphs
+(a) and (b) of this subsection, the proceeds shall be applied to the
+satisfaction of the foreclosed liens, security interests and contracts in the
+order of their priority. 
+
+       (d) After making
+the payments required under paragraphs (a) to (c) of this subsection, any
+remaining amounts shall be paid to the claimant. [2009 c.78 §39; 2009 c.874 §14] 
+
+   
+
+       131A.315
+Default judgment. 
+(1) The court shall enter a judgment finding that a person who claims an
+interest in property that is the subject of a forfeiture action is in default,
+and provide for the forfeiture of the claimant’s interest without hearing, if: 
+
+       (a) The person
+does not make a claim for the property under ORS 131A.165 or file a responsive
+pleading under ORS 131A.235; or 
+
+       (b) The person
+files a responsive pleading under ORS 131A.235 but is thereafter found to be in
+default in the forfeiture action. 
+
+       (2) A default
+judgment may be entered under this section only if the forfeiting agency files
+an affidavit with the court showing that there was probable cause for seizure
+of the property. [2009 c.78 §40] 
+
+   
+
+ DISPOSITION OF
+FORFEITED PROPERTY 
+
+   
+
+       131A.350
+Disposition generally. 
+Except as otherwise provided by intergovernmental agreement and this chapter, a
+forfeiting agency may: 
+
+       (1) Sell, lease,
+lend or transfer forfeited property to any federal, state or local law
+enforcement agency or district attorney. 
+
+       (2) Sell
+forfeited property by public or other commercially reasonable sale and pay from
+the proceeds the expenses of keeping and selling the property. 
+
+       (3) Retain
+forfeited property. 
+
+       (4) With written
+authorization from the district attorney for the county in which the property
+was seized, destroy any forfeited firearms or controlled substances. [2009 c.78
+§41] 
+
+   
+
+       131A.355
+Intergovernmental agreements. 
+A forfeiting agency shall distribute forfeiture proceeds equitably.
+Distribution of forfeiture proceeds may be made pursuant to intergovernmental
+agreement under ORS chapter 190. An intergovernmental agreement providing for
+the distribution of forfeiture proceeds may not provide for a distribution that
+violates section 10, Article XV of the Oregon Constitution. [2009 c.78 §42] 
+
+   
+
+       131A.360
+Distribution of forfeiture proceeds by local government. (1) The provisions of this section
+apply only to a forfeiting agency other than the state, and apply only to
+forfeiture proceeds arising out of prohibited conduct as described in ORS
+131A.005 (12)(a), (b) and (c). 
+
+       (2) If the
+forfeiting agency is not a county, the forfeiting agency shall enter into an
+agreement, under ORS chapter 190, with the county in which the property was
+seized to provide a portion of the forfeiture proceeds to the county. 
+
+       (3) After entry
+of a judgment of forfeiture, a forfeiting agency shall first pay from the
+forfeiture proceeds the costs incurred by seizing and forfeiting agencies in
+investigating and prosecuting the case, including costs, disbursements and
+attorney fees as defined in ORCP 68 A, special expenses such as the provision
+of currency for undercover law enforcement operations, the cost of disabling a
+hidden compartment in a motor vehicle and the expenses of maintaining the
+seized property. The forfeiting agency may not pay expenditures made in
+connection with the ordinary maintenance and operation of a seizing or
+forfeiting agency under this subsection. 
+
+       (4) After payment
+of costs under subsection (3) of this section, the forfeiting agency shall: 
+
+       (a) Deduct an amount
+equal to five percent of the forfeiture proceeds and deposit that amount in the
+Illegal Drug Cleanup Fund established under ORS 475.495 for the purposes
+specified in ORS 475.495 (5) and (6); 
+
+       (b) Deduct an
+amount equal to 2.5 percent of the forfeiture proceeds and deposit that amount
+in the Asset Forfeiture Oversight Account; 
+
+       (c) Deduct an
+amount equal to 20 percent of the forfeiture proceeds and deposit that amount
+in the Oregon Criminal Justice Commission Account established under ORS 137.662
+for support for treatment courts as defined in ORS 137.680; 
+
+       (d) Deduct an
+amount equal to 10 percent of the forfeiture proceeds and deposit that amount
+in the Department of Early Learning and Care Fund established under ORS 326.435
+for disbursement to Relief Nursery programs as defined in ORS 417.786; and 
+
+       (e) Deduct an
+amount equal to 10 percent of the forfeiture proceeds and deposit that amount
+in an account established or designated by the State Treasurer in the higher
+education qualified tuition savings program of the Oregon 529 Savings Network
+for disbursement to the scholarship program for children of public safety
+officers established under ORS 348.270. 
+
+       (5) If the
+forfeiting agency has entered into an agreement with a county under subsection
+(2) of this section, after paying costs under subsection (3) of this section
+and making the deductions required by subsection (4) of this section, the
+forfeiting agency shall pay the county the amounts required by the agreement. 
+
+       (6) After making
+all payments and deductions required by subsections (3), (4) and (5) of this
+section, the forfeiting agency may use the remaining forfeiture proceeds,
+including amounts received by a county under subsection (5) of this section or
+by any other public body under an intergovernmental agreement entered into
+under ORS 131A.355, only for: 
+
+       (a) The purchase
+of equipment necessary for the enforcement of laws relating to the unlawful
+delivery, distribution, manufacture or possession of controlled substances; 
+
+       (b) Currency for
+undercover law enforcement operations; 
+
+       (c) Drug
+awareness and drug education programs offered in middle schools and high
+schools; 
+
+       (d) The expenses
+of a forfeiting agency in operating joint narcotic operations with other
+forfeiting agencies pursuant to the terms of an intergovernmental agreement,
+including paying for rental space, utilities and office equipment; 
+
+       (e) Expenses of a
+district attorney in criminal prosecutions for unlawful delivery, distribution,
+manufacture or possession of controlled substances, as determined through
+intergovernmental agreement between the forfeiting agency and the district
+attorney; 
+
+       (f) Drug
+treatment and programs that support drug treatment; and 
+
+       (g) A CASA
+Volunteer Program as defined in ORS 184.489. 
+
+       (7)
+Notwithstanding subsection (6) of this section, growing equipment and
+laboratory equipment seized by a forfeiting agency that was used, or intended
+for use, in the manufacturing of controlled substances may be donated to a
+public school, community college or institution of higher education. 
+
+       (8) A forfeiting
+agency shall sell as much property as may be needed to make the distributions
+required by this section. Distributions required under subsection (4) of this
+section must be made once every three months and are due within 20 days of the
+end of each quarter. No interest shall accrue on amounts that are paid within
+the period specified by this subsection. [2009 c.78 §43; 2009 c.874 §15; 2011
+c.233 §1; 2011 c.335 §2; 2012 c.37 §33; 2012 c.97 §18; 2013 c.624 §21; 2017
+c.21 §97; 2017 c.630 §6; 2017 c.645 §3; 2018 c.23 §1; 2019 c.85 §1; 2021 c.631 §14;
+2025 c.151 §4] 
+
+   
+
+       131A.365
+Distribution of forfeiture proceeds by state. (1) The provisions of this section apply only when
+the forfeiting agency is the state, and apply only to forfeiture proceeds
+arising out of prohibited conduct as described in ORS 131A.005 (12)(a), (b) and
+(c). 
+
+       (2) After entry
+of a judgment of forfeiture, a forfeiting agency shall first pay from the
+forfeiture proceeds the costs incurred by seizing and forfeiting agencies in
+investigating and prosecuting the case, including costs, disbursements and
+attorney fees as defined in ORCP 68 A, special expenses such as the provision
+of currency for undercover law enforcement operations, the cost of disabling a
+hidden compartment in a motor vehicle and the expenses of maintaining the
+seized property. The forfeiting agency may not pay expenditures made in
+connection with the ordinary maintenance and operation of a seizing or
+forfeiting agency under this subsection. Any amount paid to or retained by the
+Department of Justice under this subsection shall be deposited in the Criminal
+Justice Revolving Account in the State Treasury. Any amount paid to or retained
+by the Oregon State Police under this subsection shall be deposited in the
+State Police Account. 
+
+       (3) After payment
+of costs under subsection (2) of this section, the forfeiting agency shall: 
+
+       (a) Deduct an
+amount equal to 10 percent of the forfeiture proceeds and deposit that amount
+in the Illegal Drug Cleanup Fund established under ORS 475.495 for the purposes
+specified in ORS 475.495 (5) and (6); 
+
+       (b) Deduct an
+amount equal to three percent of the forfeiture proceeds, not to exceed $50,000
+in a biennium, and deposit that amount in the Asset Forfeiture Oversight
+Account; 
+
+       (c) Deduct an
+amount equal to 20 percent of the forfeiture proceeds and deposit that amount
+in the Oregon Criminal Justice Commission Account established under ORS 137.662
+for support for treatment courts as defined in ORS 137.680; 
+
+       (d) Deduct an
+amount equal to 10 percent of the forfeiture proceeds and deposit that amount
+in the Department of Early Learning and Care Fund established under ORS 326.435
+for disbursement to Relief Nursery programs as defined in ORS 417.786; and 
+
+       (e) Deduct an
+amount equal to 10 percent of the forfeiture proceeds and deposit that amount
+in an account established or designated by the State Treasurer in the higher
+education qualified tuition savings program of the Oregon 529 Savings Network
+for disbursement to the scholarship program for children of public safety
+officers established under ORS 348.270. 
+
+       (4) If the
+forfeiting agency has entered into an intergovernmental agreement with another
+public body under ORS 131A.355, or has entered into an agreement with any other
+law enforcement agency of the state relating to distribution of forfeiture
+proceeds, after paying costs under subsection (2) of this section and making
+the deductions required by subsection (3) of this section, the forfeiting
+agency shall pay an equitable portion of the forfeiture proceeds to each agency
+participating in the seizure or forfeiture as provided by the agreement. 
+
+       (5) After making
+all payments and deductions required by subsections (2), (3) and (4) of this
+section, the forfeiting agency shall distribute the remaining forfeiture
+proceeds as follows: 
+
+       (a) If no law
+enforcement agency other than the Department of Justice participated in the
+seizure or forfeiture, the remaining forfeiture proceeds, and forfeiture
+proceeds received by the Department of Justice under subsection (4) of this
+section, shall be divided between the Criminal Justice Revolving Account and
+the Special Crime and Forfeiture Account according to the following schedule: 
+
+       (A) One hundred
+percent of the first $200,000 accumulated shall be deposited in the Criminal
+Justice Revolving Account. 
+
+       (B) Seventy-five
+percent of the next $200,000 shall be deposited in the Criminal Justice
+Revolving Account and the balance in the Special Crime and Forfeiture Account. 
+
+       (C) Fifty percent
+of the next $200,000 shall be deposited in the Criminal Justice Revolving
+Account and the balance in the Special Crime and Forfeiture Account. 
+
+       (D) Twenty-five
+percent of the next $200,000 shall be deposited in the Criminal Justice
+Revolving Account and the balance in the Special Crime and Forfeiture Account. 
+
+       (E) One hundred
+percent of all additional sums shall be deposited in the Special Crime and
+Forfeiture Account. 
+
+       (b) If no law
+enforcement agency other than the Department of State Police participated in
+the seizure or forfeiture, the remaining proceeds, and proceeds received by the
+Department of State Police under subsection (4) of this section, shall be
+divided between the State Police Account and the Special Crime and Forfeiture
+Account according to the following schedule: 
+
+       (A) One hundred
+percent of the first $600,000 accumulated shall be deposited in the State
+Police Account. 
+
+       (B) Seventy-five
+percent of the next $300,000 shall be deposited in the State Police Account and
+the balance in the Special Crime and Forfeiture Account. 
+
+       (C) Fifty percent
+of the next $200,000 shall be deposited in the State Police Account and the
+balance in the Special Crime and Forfeiture Account. 
+
+       (D) Twenty-five
+percent of the next $200,000 shall be deposited in the State Police Account and
+the balance in the Special Crime and Forfeiture Account. 
+
+       (E) One hundred
+percent of all additional sums shall be deposited in the Special Crime and
+Forfeiture Account. 
+
+       (6) Forfeiture
+proceeds distributed under subsection (5) of this section may be used only for: 
+
+       (a) The purchase
+of equipment necessary for the enforcement of laws relating to the unlawful
+delivery, distribution, manufacture or possession of controlled substances; 
+
+       (b) Currency for
+undercover law enforcement operations; 
+
+       (c) Drug
+awareness and drug education programs offered in middle schools and high
+schools; and 
+
+       (d) The expenses
+of a forfeiting agency in operating joint narcotic operations with other
+forfeiting agencies pursuant to the terms of an intergovernmental agreement,
+including paying for rental space, utilities and office equipment. 
+
+       (7) A forfeiting
+agency shall sell as much property as may be needed to make the distributions
+required by this section. Distributions required under subsection (3) of this
+section must be made once every three months and are due within 20 days of the
+end of each quarter. No interest shall accrue on amounts that are paid within
+the period specified by this subsection. [2009 c.78 §44; 2009 c.874 §16; 2012
+c.37 §34; 2013 c.624 §22; 2017 c.21 §98; 2017 c.645 §4; 2018 c.23 §2; 2019 c.85
+§2; 2021 c.631 §15; 2025 c.151 §5] 
+
+   
+
+       131A.370
+Special Crime and Forfeiture Account. 
+The Special Crime and Forfeiture Account is established in the General Fund of
+the State Treasury. The account shall consist of all forfeiture proceeds
+deposited in the account under ORS 131A.365. All moneys in the account are
+continuously appropriated to the Department of Justice and may be used only for
+the purposes specified in ORS 131A.365 (6). [2009 c.78 §45] 
+
+   
+
+ MISCELLANEOUS 
+
+   
+
+       131A.400
+Prosecuting attorneys and forfeiture counsel. (1) Notwithstanding ORS 8.720 or any other provision
+of law, but subject to the provisions of ORS 180.060, a district attorney may
+act as forfeiture counsel in any forfeiture proceeding. 
+
+       (2) In any
+forfeiture proceeding for which related criminal proceedings have been brought
+or could be brought, a prosecuting attorney or forfeiture counsel may
+participate in settlement negotiations initiated by the defendant or claimant
+or by the attorney representing the defendant or claimant. [2009 c.78 §46] 
+
+   
+
+       131A.405
+Liability of seizing agencies, forfeiting agencies and forfeiture counsel. (1) Seizing agencies, forfeiting
+agencies and forfeiture counsel are not civilly or criminally liable for any
+acts in seizing or forfeiting property under the provisions of this chapter if
+there was reasonable suspicion that the property was subject to seizure or
+forfeiture. An order directing seizure issued under ORS 131A.060 shall
+constitute a finding of reasonable suspicion that the property was subject to
+forfeiture. The immunity provided by this section extends to all officers,
+employees and agents of seizing agencies, forfeiting agencies and forfeiture
+counsel. 
+
+       (2) Nothing in
+this section affects any liability that may be imposed under the provisions of
+section 10 (14), Article XV of the Oregon Constitution. [2009 c.78 §47] 
+
+   
+
+       131A.410 Indemnification
+of officers, employees and agents; payment of civil penalties. (1) Unless the claim arises out of
+malfeasance in office or willful or wanton neglect of duty, a public body as
+defined in ORS 30.260 may defend, save harmless and indemnify any officer,
+employee or agent of the public body against whom a claim is made under section
+10 (14), Article XV of the Oregon Constitution. 
+
+       (2) Any amount
+recovered as a civil penalty in a claim made under section 10 (14), Article XV
+of the Oregon Constitution, shall be paid into the Criminal Injuries
+Compensation Account of the Department of Justice Crime Victims’ Assistance
+Section to be used for the purposes set forth in ORS chapter 147. [2009 c.78 §48] 
+
+   
+
+ ASSET FORFEITURE
+OVERSIGHT ADVISORY COMMITTEE 
+
+   
+
+       131A.450
+Record keeping and reporting requirements. (1) All forfeiting agencies shall maintain written
+documentation of each seizure for forfeiture made under the provisions of this
+chapter, sale of seized or forfeited property under this chapter, decision to
+retain property forfeited under the provisions of this chapter, transfer of
+property forfeited under this chapter and other dispositions of property seized
+for forfeiture or forfeited under the provisions of this chapter. 
+
+       (2)(a) As soon as
+practicable following the seizure of property for civil forfeiture, forfeiture
+counsel shall file with the Asset Forfeiture Oversight Advisory Committee an
+electronic report that describes the property seized and the circumstances of
+the seizure. 
+
+       (b) As soon as
+practicable following the entry of judgment under this chapter, forfeiture
+counsel shall file with the committee an electronic report describing the
+judgment and the manner in which any forfeited property and the proceeds from
+any sales of forfeited property were distributed. 
+
+       (3) Law
+enforcement agencies shall supply to forfeiture counsel all information
+requested by forfeiture counsel that is necessary for the preparation of the
+electronic reports required by subsection (2) of this section. 
+
+       (4) Public bodies
+that receive forfeiture proceeds under ORS 131A.360 (2) and 131A.365 (4) shall
+submit an electronic report to the committee for any calendar year in which
+those proceeds are received. The report must be submitted no later than January
+31 of the following year and must describe how the proceeds received by the
+public body have been or will be used. 
+
+       (5) The committee
+may require forfeiture counsel or a political subdivision to include in the
+electronic reports described in this section any additional information
+requested by the committee. 
+
+       (6) The committee
+shall develop and make available electronic forms for the purposes of the
+reports described in this section. [2009 c.78 §49; 2011 c.504 §2; 2013 c.9 §2] 
+
+   
+
+       131A.455 Asset
+Forfeiture Oversight Advisory Committee. (1) The Asset Forfeiture Oversight Advisory Committee
+is created. The committee consists of 10 members to be appointed as follows: 
+
+       (a) The President
+of the Senate and the Speaker of the House of Representatives shall appoint
+four legislators to the committee. Two shall be Senators appointed by the
+President. Two shall be Representatives appointed by the Speaker. 
+
+       (b) The Governor
+shall appoint three members to the committee. 
+
+       (c) The Attorney
+General shall appoint three members to the committee. 
+
+       (2) The term of a
+legislative member of the committee shall be two years. The term of all other
+members shall be four years. Members of the committee may be reappointed. If a
+vacancy occurs on the committee for any reason during the term of membership, the
+official who appointed the member to the vacant position shall appoint a new
+member to serve the remainder of the term. A member of the committee may be
+removed from the committee at any time by the official who appointed the
+member. 
+
+       (3)(a) The
+members of the committee shall select from among themselves a chairperson and
+vice chairperson. 
+
+       (b) The committee
+shall meet at such times and places as determined by the chairperson. 
+
+       (4) Legislative
+members shall be entitled to payment of compensation and expense reimbursement
+under ORS 171.072, payable from funds appropriated to the Legislative Assembly. 
+
+       (5) The committee
+shall: 
+
+       (a) Prepare
+reports detailing the number and nature of forfeitures carried out under this
+chapter and ORS 131.550 to 131.600, including the disposition and use of the
+proceeds from the forfeitures. The reports shall be submitted on or before
+April 30 of each year to the Speaker of the House of Representatives, President
+of the Senate, Attorney General and Governor. 
+
+       (b) In
+consultation with forfeiture counsel, review and, if necessary, modify the
+reports required from forfeiture counsel and public bodies to ensure that
+information necessary for oversight is being obtained and is gathered in an
+efficient and effective manner. 
+
+       (c) Make any
+recommendations it deems necessary to increase the effectiveness, fairness and
+efficiency of forfeiture actions brought under this chapter and ORS 131.550 to
+131.600. 
+
+       (d) Make any
+recommendations for additional legislation governing forfeiture actions brought
+under this chapter and ORS 131.550 to 131.600. 
+
+       (e) Conduct
+studies or other activities as necessary to accomplish the purposes of this
+subsection. 
+
+       (6) The executive
+director of the Oregon Criminal Justice Commission shall provide the committee
+with staff, subject to funds available for that purpose. 
+
+       (7) For purposes
+of this section, “forfeiture counsel” includes forfeiture counsel as defined in
+ORS 131.550. [2009 c.78 §50; 2009 c.506 §1; 2013 c.9 §3] 
+
+   
+
+       131A.460 Asset
+Forfeiture Oversight Account. 
+(1) The Asset Forfeiture Oversight Account is established in the State
+Treasury, separate and distinct from the General Fund. 
+
+       (2) The following
+moneys shall be deposited into the State Treasury and credited to the Asset
+Forfeiture Oversight Account: 
+
+       (a) Moneys
+received from a public body under the provisions of ORS 131A.360 and 131A.365;
+and 
+
+       (b) Any other
+moneys appropriated to the Asset Forfeiture Oversight Account. 
+
+       (3) The State
+Treasurer may invest and reinvest moneys in the Asset Forfeiture Oversight
+Account in the manner provided by law. Interest earned by the account shall be
+credited to the account. 
+
+       (4) The moneys in
+the Asset Forfeiture Oversight Account are continuously appropriated to the
+Oregon Criminal Justice Commission to be used for the expenses of the Asset
+Forfeiture Oversight Advisory Committee. [2009 c.78 §51; 2011 c.504 §5] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 
