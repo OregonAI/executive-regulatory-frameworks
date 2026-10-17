@@ -798,6 +798,9 @@ def operative_print(prints: list, section: str) -> str:
     return with_text[0] if with_text else prints[0]
 
 
+_ORS_CITATION_PREFIX_RE = re.compile(r"(?:\bORS|\band|\bto|\bor|\bsections?|,)\s*$", re.I)
+
+
 def snapshot_slice(doc_id: str, snapshot_id: str, raw_text: str) -> str:
     """The portion of a shared snapshot's text that a document's '## Full text' covers.
     Used identically by the migration generator and verify_provenance so coverage is
@@ -815,7 +818,14 @@ def snapshot_slice(doc_id: str, snapshot_id: str, raw_text: str) -> str:
         matches = list(re.finditer(re.escape(sec) + r" [A-Z“\"]", norm))
         if not matches:
             return ""
-        start = matches[-1].start()
+        # A later section that CITES this one ('ORS 74A.1030 "Receiving bank"', 'filed under
+        # ORS 31.262 Act may...') matches the same pattern; taking the last match anchored the
+        # slice mid-sentence there. A number right after 'ORS', 'and', 'to', 'or',
+        # 'section(s)' or a comma is a citation, not a heading: skip those, and keep the old
+        # last-match answer when nothing else matches. No already-ingested slice changes.
+        headings = [m for m in matches
+                    if not _ORS_CITATION_PREFIX_RE.search(norm[max(0, m.start() - 12):m.start()])]
+        start = (headings or matches)[-1].start()
         window = norm[start + 10:]
         nxt = re.search(r"\b\d{3}[A-Z]?\.\d{3} [A-Z“\"]", window)
         # A bare part/subpart heading ("TREATMENT OF PRISONERS") right after this section's

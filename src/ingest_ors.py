@@ -556,32 +556,59 @@ def _proof_a_short_complete_section_is_not_mistaken_for_no_body(ck):
        has_body("1.001 Title. " + "word " * 40, "1.001"))
 
 
+def _proof_a_cross_reference_is_not_a_section_start(ck):
+    """snapshot_slice anchors a section on the LAST place its number is followed by a capital
+    letter. Where a later section cites it ('ORS 74A.1030 "Receiving bank"' in 74A.1040's
+    definition table; 'filed under ORS 31.262 Act may enter into mediation' in 31.268) the
+    last place is the citation, and the slice began mid-sentence: the anchor check refused
+    74A.1030, 74A.1040 and 31.262 as 'title does not match' though their titles are right.
+    A number preceded by 'ORS', 'and', 'to', 'or', 'section(s)' or a comma is a citation, not
+    a heading; it is skipped unless NOTHING else matches (then the old answer stands). Measured
+    against all 39,003 catalog rows with a snapshot: the slice of no already-ingested section
+    changes. Real snapshots, no network."""
+    for ch, sec, title in (("74A", "74A.1030", "Payment order; definitions"),
+                           ("74A", "74A.1040", "Funds transfer; definitions"),
+                           ("31", "31.262", "Notice of adverse health care incident")):
+        raw = (SNAPSHOT_DIR / f"ors-chapter-{ch.lower()}.txt").read_text(
+            encoding="utf-8", errors="replace")
+        sl = snapshot_slice(f"ors-{sec.lower()}", f"ors-chapter-{ch.lower()}", raw)
+        ck(f"{sec}: the slice starts at the section's own heading, not at a citation of it",
+           sl.startswith(f"{sec} {title.split(';')[0]}"))
+        ck(f"{sec}: the slice passes the anchor check", anchor_ok(sl, sec, title))
+    from repo_lib import snapshot_slice as ss
+    only_cite = "see ORS 9.100 Something else. [1] and nothing more"
+    ck("a number cited and never printed as a heading keeps the old answer",
+       ss("ors-9.100", "ors-chapter-9", only_cite).startswith("9.100 Something"))
+    ck("a heading before a citation wins over the later citation",
+       ss("ors-9.100", "ors-chapter-9",
+          "9.100 Real title. Body. [1990 c.1] 9.200 Other. See ORS 9.100 Cited here.")
+       .startswith("9.100 Real title."))
+
+
 def _proof_an_anchor_refusal_records_what_it_found(ck):
     """A refusal a person will audit later must carry the evidence, not only the verdict.
-    31.262 was refused with 'verify the catalog title' although the title is right: the slice
-    had been anchored on a cross-reference ('...filed under ORS 31.262 Act may enter into
-    mediation', inside 31.268) and so read 'Act may enter into mediation' as 31.262's
-    catchline. The note now quotes the title and the catchline words the anchor produced, so
-    that case is told apart from a title that really diverges (67.042 'non- waivable',
-    67.600 missing 'a'). Real chapter 31 snapshot, no network."""
+    A refusal's note quotes the title and the catchline words the anchor produced, so a
+    title that really diverges (67.042 'non- waivable' against the printed 'nonwaivable',
+    67.600 missing 'a') can be audited later. (31.262 once showed this too, until the
+    citation anchor was fixed; see the proof above.) Real chapter 67 snapshot, no network."""
     tmpdir = Path(tempfile.mkdtemp(prefix="ingest-ors-selftest-"))
     orig_out = globals()["OUT"]
     globals()["OUT"] = tmpdir
     try:
         cat_chapter = {
-            "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors031.html",
-            "title": "Civil Actions",
-            "sections": [{"number": "31.262", "title": "Notice of adverse health care incident",
+            "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors067.html",
+            "title": "Partnerships",
+            "sections": [{"number": "67.042", "title": "Effect of partnership agreement; non- waivable provisions",
                           "status": "not_ingested"}],
         }
-        ingest_chapter("31", cat_chapter)
+        ingest_chapter("67", cat_chapter)
         s = cat_chapter["sections"][0]
         note = s.get("note", "")
-        ck("31.262 is still refused (nothing published)", s.get("status") == "not_sliceable"
+        ck("67.042 is still refused (nothing published)", s.get("status") == "not_sliceable"
            and not any(tmpdir.iterdir()))
-        ck("the note quotes the catalog title", "Notice of adverse health care incident" in note)
+        ck("the note quotes the catalog title", "non- waivable" in note)
         ck("the note quotes the catchline the anchor actually found",
-           "act may enter into mediation" in note.lower())
+           "effect of partnership agreement nonwaivable provisions" in note.lower())
         ck("the note keeps the 'catchline' wording the refusal proof relies on", "catchline" in note)
     finally:
         globals()["OUT"] = orig_out
@@ -595,6 +622,7 @@ def _selftest() -> int:
     _proof_a_measured_residual_is_named_not_absorbed(ck)
     _proof_a_refusal_never_publishes_through_the_real_consumer(ck)
     _proof_a_short_complete_section_is_not_mistaken_for_no_body(ck)
+    _proof_a_cross_reference_is_not_a_section_start(ck)
     _proof_an_anchor_refusal_records_what_it_found(ck)
     return ck.report("ingest-ors selftest")
 
