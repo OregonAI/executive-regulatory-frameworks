@@ -1,0 +1,371 @@
+
+
+
+
+ 
+ 
+ 
+ 
+ Oregon Secretary of State Administrative Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+ Skip to main content. 
+ 
+ 
+ 
+ Oregon Secretary of State 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Home 
+ Business 
+ Voting 
+ Elections 
+ State Archives 
+ Audits 
+ 
+ 
+
+
+ 
+ 
+ 
+
+ 
+ OARD Home 
+ Search Current Rules 
+ Search Filings 
+ Access the Oregon Bulletin 
+ Access the Annual Compilation 
+ FAQ 
+ 
+ Rules Coordinator / Rules Writer Login 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Oregon Health Authority 
+ Drug Treatment and Recovery Services - Chapter 944 
+ 
+ 
+ 
+ 
+ Division 1 Behavioral Health Resource Networks (BHRN) 
+ 944-001-0010 
+ Definitions 
+ 
+ (1) "Access to Care Grants" means funds distributed by the Oversight and Accountability Council and Oregon Health Authority through direct award or request for grant proposal for purposes of increasing access to one or more of the services described in SB 755 Section 2(3)(a): 
+
+ (a) Low-barrier substance use disorder treatment and recovery services; 
+
+ (b) Peer support and recovery services; 
+
+ (c) Housing for individuals with substance use disorders; 
+
+ (d) Harm reduction services; 
+
+ (e) Incentives, training, and supports to expand behavioral health workforce; and 
+
+ (f) The above services (a) through (d) for minor-aged clients. 
+
+ (2) "ASAM Criteria" means the Fifth Edition of the American Society of Addiction Medicine (ASAM) for the Treatment of Addictive, Substance-related, and Co-Occurring Conditions, which is a clinical guide to develop patient-centered service plans and make objective decisions about levels of care, continuing care, and transfer or discharge for individuals. 
+
+ (3) "Behavioral Health" includes mental health, substance use, substance use disorders, and problem gambling. 
+
+ (4) "Behavioral Health Resource Network" means an organization, Tribal entity or network of organizations that receives funds from the Oversight and Accountability Council or the Oregon Health Authority under Section 2, Chapter 2 Oregon Laws 2021 (Ballot Measure 110 (2020)) and these rules. 
+
+ (5) "Case Management" means the services to assist individuals to connect to and gain access to needed services and supports outlined in an individual intervention plan; substance use disorder treatment, health care, housing, employment and training, childcare and other applicable services and supports. Case management is a separate service from recovery peer supports. 
+
+ (6) "Comprehensive Behavioral Health Needs Assessment" means the process of obtaining sufficient information, including a substance use disorder screening, to determine if a diagnosis is appropriate and to create a self-identified, Individual intervention plan. 
+
+ (7) "Contingency Management (CM)" is a behavioral therapy grounded in the principles of operant conditioning. CM is a method in which desired behaviors are reinforced with prizes, privileges, or cash. Incentivized behaviors may include attendance at treatment sessions and provision of negative urine specimens, Reinforcement is often provided in the form of vouchers that can be exchanged for retail goods and services. It may also include access to certain privileges, the opportunity to win a prize, or even direct cash payments. 
+
+ (8) "Culturally and Linguistically Responsive Services" means the provision of effective, equitable, understandable, and respectful quality care and services that are responsive to diverse cultural health beliefs and practices, preferred languages, health literacy, and other communication needs. 
+
+ (9) "Culturally and Linguistically Specific Services" means provision of culturally and linguistically responsive services designed for a specific population by a provider who shares the culture, language, or identity with the individual seeking services. 
+
+ (10) "Diagnosis" means the principal mental health or substance use diagnosis listed in the Diagnostic and Statistical Manual of Mental Disorders (DSM). 
+
+ (11) "Diagnostic and Statistical Manual of Mental Disorders (DSM)" refers to the Fifth Edition published by the American Psychiatric Association. 
+
+ (12) "Gender Affirming Care" means health care and health related services that holistically attends to but is not limited to transgender, gender-nonconforming, non-binary, Two Spirit and intersex people's physical, mental, and social health needs and well-being while respectfully affirming their gender identity. Gender Affirming Care is sensitive and responsive to an individual's gender identities and expressions. Gender affirming care complies with non-discrimination laws. 
+
+ (13) "Harm Reduction Services" means low-barrier interventions that reduce the negative individual and public health outcomes of substance use and substance related harm, such as overdose, and substance use related infections. Harm Reduction Services include, but are not limited to supported access to naloxone, sterile syringes, safer use and wound care supplies, substance use-related infectious disease screening, sobering support, contingency management, drug checking supplies, and overdose prevention sites, where the law allows. 
+
+ (14) "Housing" means low-barrier shelter, provided based on individual and family needs, including but not limited to Emergency, Family, Permanent, Recovery, Supportive, and Transitional as defined below: 
+
+ (a) "Emergency Housing" means temporary housing provided to persons/or families in transition for a period of up to sixty days for the purpose of facilitating the movement of such persons to a more permanent, safe, and stable living situation; 
+
+ (b) "Family Housing" means housing for people with children that prioritizes not separating families, traditional or non-traditional, experiencing Substance Use Disorder (SUD) or harmful substance use; 
+
+ (c) "Permanent Housing" means community-based housing without a designated length of stay and with the goal of facilitating independent living for individuals and families; 
+
+ (d) "Recovery Housing" means abstinence-based or drug-free housing for people in recovery from addiction. Such housing creates a peer supportive community of individuals participating in outpatient substance use disorder treatment and those individuals with an ongoing program of recovery. Recovery Housing provides a drug free environment for all residents and is inclusive of individuals who are receiving Medication Assisted Treatment (MAT) and the practice of Intervention Before Eviction (IBE) if residents relapse; 
+
+ (e) "Supportive Housing" means a low-barrier, safe place to live that supports access to lifesaving health services until the individual decides to participate in a program of recovery. The housing may or may not have drug-free requirements. The program connects individuals to treatment and recovery services when the individual chooses to seek a life without drugs or, may include Housing First or other supportive housing models; 
+
+ (f) "Transitional Housing" means low-barrier housing with appropriate supportive services to homeless persons with substance use disorder or harmful substance use to facilitate movement to independent living. The housing is short term. 
+
+ (15) "Individuals or persons with substance use disorder" means people with a substance disorder diagnosis or who meet the diagnostic criteria for a substance use disorder. 
+
+ (16) "Individual Intervention Plan" means a plan encompassing the desired changes and outcomes of a recovery process made collaboratively between an individual and a provider. 
+
+ (17) "Low-Barrier Substance Use Disorder Treatment and Recovery Services" means the absence of programmatic barriers to service delivery including practice induced stigma. Low Barrier Substance Use Disorder Treatment practices demonstrate the following: 
+
+ (a) Trauma-informed services regardless of active use; 
+
+ (b) Culturally and linguistically specific services; 
+
+ (c) Little to no waiting to obtain treatment services; 
+
+ (d) Access to treatment services available within 48 hours after an individual obtains a screening; 
+
+ (e) Harm reduction approach, including the immediate goal of improving quality of life and protecting against loss of life; 
+
+ (f) Individualized treatment to meet the unique needs of each individual; 
+
+ (g) Unique recovery trajectories that are personal to each individual and are not dictated by treatment providers; 
+
+ (h) Individuals are able to engage in treatment, including medication for substance use disorders without administrative delays, lengthy intake, assessment or treatment planning sessions; 
+
+ (i) Treatment is provided without appointment requirements, prior missed appointments cannot be used to hinder access to treatment; 
+
+ (j) Treatment is provided regardless of an individual's ability to pay or insurance coverage; 
+
+ (k) Treatment is provided regardless of criminal history, state residency or citizenship status, or warrant status; 
+
+ (l) Transportation barriers are addressed, facilitating access to treatment, services and supports; 
+
+ (m) Minimal or eliminated travel between multiple service providers; and 
+
+ (n) Service provider engages in outreach services and community engagement. 
+
+ (18) "Organization" means any entity lawfully registered to do business in the State of Oregon, including, but not limited to, sole proprietorship, partnership, limited partnership, limited liability partnership, limited liability company, for profit corporation, or nonprofit corporation, or any government, including, but not limited to, the nine federally recognized tribes in this state, counties, cities, Council of Governments created under ORS Chapter 190, or Special Districts under ORS chapter 198, e.g. a health district organized under ORS 440.305 to 440.410. 
+
+ (19) "Peer delivered supports, mentoring, and recovery services" means low-barrier community-based services, outreach, and engagement performed by a certified individual who has lived experience with addiction and recovery and who has specialized training and education and to work with people who have harm caused by substance use and/or substance use disorder. These include services provided by the following certified peer professional types: 
+
+ (a) Addiction Peer Support Specialists certified under OAR 950-060; 
+
+ (b) Addiction Peer Wellness Specialists certified under OAR 950-060; 
+
+ (c) Certified Recovery Mentors certified by the Mental Health and Addiction Certification Board of Oregon; and 
+
+ (d) Youth Support Specialists certified under OAR 950-060. 
+
+ (20) "Peer Delivered Services Supervisor" means a qualified individual certified as an Addiction Peer Support Specialist (PSS), Certified Recovery Mentor (CRM), or an Addiction Peer Wellness Specialist (PWS) with at least one year of experience as a PSS, CRM, or PWS in substance use disorder and addiction recovery services to evaluate and guide PSS, CRM, and PWS program staff in the delivery of peer delivered services and supports. Must provide one hour of supervision per week. 
+
+ (21) "Peer-Run Organization" means an organization: 
+
+ (a) In which a majority of the individuals who oversee the organization's operation and who are in positions of control have lived experience with mental health or addiction challenges; 
+
+ (b) That is fully independent, separate, and autonomous from other behavioral health agencies; and 
+
+ (c) That has the authority and responsibility for all oversight and decision-making on governance, financial, personnel, policy, and program issues in the organization. 
+
+ (22) "Screening" means the process conducted by PSS, CRM, PWS or other addiction professional to identify circumstances that require a comprehensive behavioral health needs assessment or referrals to additional services and supports, at a minimum in the following areas: 
+
+ (a) Acute care needs; 
+
+ (b) Treatment for substance use disorders and co-existing health problems; 
+
+ (c) Personal safety needs; 
+
+ (d) Harm reduction; 
+
+ (e) Addiction Peer supports; 
+
+ (f) Housing; 
+
+ (g) Employment and training; 
+
+ (h) Childcare needs; and 
+
+ (i) Food and basic needs. 
+
+ (23) "Supervision for Addiction Peer Support Specialists, Certified Recovery Mentors, and Addiction Peer Wellness Specialists" means at least one hour of supervision per week by a qualified peer delivered services supervisor, and one hour per week of supervision by a qualified clinical supervisor when in a clinical setting. The supports provided include guidance in the unique discipline of peer delivered services and the roles of peer support specialists and peer wellness specialists. 
+
+ (24) "Supported employment" means individualized services that assist individuals with substance use disorder in obtaining and maintaining employment in the community and in continuing treatment for the individual to ensure rehabilitation and productive employment. 
+
+ (25) "Supported employment services" means services provided for supported employment, including but not limited to: 
+
+ (a) Job development; 
+
+ (b) Supervision and job training; 
+
+ (c) On-the-job visitation; 
+
+ (d) Consultation with the employer; 
+
+ (e) Job coaching; 
+
+ (f) Counseling; 
+
+ (g) Skills training; and 
+
+ (h) Transportation. 
+
+ 
+ 
+ 
+ 
+ Statutory/Other Authority:  Ballot Measure 110 (2020), SB 755 (2021), ORS 430.389, ORS 430.390 & ORS 430.391 
+ 
+ 
+ Statutes/Other Implemented:  Ballot Measure 110 (2020), SB 755 (2021), ORS 430.383 & ORS 430.392 
+ 
+ History: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OAAC 1-2023, minor correction filed 05/24/2023, effective 05/24/2023 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OAAC 3-2022, amend filed 12/07/2022, effective 12/07/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OAAC 2-2022, temporary amend filed 06/29/2022, effective 06/29/2022 through 12/25/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OAAC 1-2022, adopt filed 02/24/2022, effective 02/26/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OAAC 1-2021, temporary adopt filed 08/30/2021, effective 09/01/2021 through 02/27/2022 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ Please use this link to bookmark or link to this rule. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ System Requirements 
+ Privacy Policy 
+ Accessibility Policy 
+ Oregon Veterans 
+ Oregon.gov 
+ 
+ 
+ 
+ 
+ Oregon State Archives • 
+ 800 Summer Street NE • 
+ Salem, OR 97310
+ 
+ Phone: 503-373-0701 • 
+ Fax: 503-373-0953 • 
+ Adminrules.Archives@sos.oregon.gov 
+ 
+ 
+ © 2026 Oregon Secretary of State All Rights Reserved
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 

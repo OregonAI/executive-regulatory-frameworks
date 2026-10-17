@@ -440,6 +440,17 @@ MAPPED: dict[str, str] = {
     # DELIBERATELY NOT ENTERED HERE for the identical reason given above for #212's row.
     # Recorded as verified prose on this row's
     # (`oregon-department-of-education-early-learning-division`) own `curator_note` instead.
+    #
+    # OAR CHAPTERS REGISTERED 2026-10-17 (ERF PR #452): bodies OARD lists a chapter for and
+    # the registry had no row for. Each section was read in the mirrored statutes by the
+    # agent that added the row, not yet by the maintainer; each creating sentence follows.
+    # ORS 243.862(1): "There is established in the Oregon Health Authority an Oregon
+    # Educators Benefit Board".
+    "oregon-health-authority-oregon-educators-benefit-board": "ORS 243.862",
+    # ORS 676.780(1): "There is established within the Health Licensing Office the State Board
+    # of Sign Language Interpreters".
+    "oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters":
+        "ORS 676.780",
 }
 
 # slug -> why this body has no enabling authority TO RECORD. A DECISION with a stated reason,

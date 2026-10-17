@@ -656,6 +656,291 @@ chapters:
       path: rules/105/050/oar-105-050-0030.md
   discovered: '2026-08-27'
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=33
+- chapter: '111'
+  title: Oregon Health Authority, Oregon Educators Benefit Board
+  url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=186
+  divisions:
+  - division: '1'
+    title: PROCEDURAL RULES
+    status: ingested
+    rules:
+    - number: 111-001-0000
+      status: ingested
+      path: rules/111/001/oar-111-001-0000.md
+    - number: 111-001-0005
+      status: ingested
+      path: rules/111/001/oar-111-001-0005.md
+  - division: '2'
+    title: POWERS OF THE BOARD
+    status: ingested
+    rules:
+    - number: 111-002-0005
+      status: ingested
+      path: rules/111/002/oar-111-002-0005.md
+    - number: 111-002-0010
+      status: ingested
+      path: rules/111/002/oar-111-002-0010.md
+  - division: '5'
+    title: PROCUREMENT AND CONTRACTING FOR BENEFIT PLANS AND SERVICES
+    status: ingested
+    rules:
+    - number: 111-005-0010
+      status: ingested
+      path: rules/111/005/oar-111-005-0010.md
+    - number: 111-005-0015
+      status: ingested
+      path: rules/111/005/oar-111-005-0015.md
+    - number: 111-005-0020
+      status: ingested
+      path: rules/111/005/oar-111-005-0020.md
+    - number: 111-005-0040
+      status: ingested
+      path: rules/111/005/oar-111-005-0040.md
+    - number: 111-005-0042
+      status: ingested
+      path: rules/111/005/oar-111-005-0042.md
+    - number: 111-005-0044
+      status: ingested
+      path: rules/111/005/oar-111-005-0044.md
+    - number: 111-005-0046
+      status: ingested
+      path: rules/111/005/oar-111-005-0046.md
+    - number: 111-005-0047
+      status: ingested
+      path: rules/111/005/oar-111-005-0047.md
+    - number: 111-005-0048
+      status: ingested
+      path: rules/111/005/oar-111-005-0048.md
+    - number: 111-005-0050
+      status: ingested
+      path: rules/111/005/oar-111-005-0050.md
+    - number: 111-005-0055
+      status: ingested
+      path: rules/111/005/oar-111-005-0055.md
+    - number: 111-005-0080
+      status: ingested
+      path: rules/111/005/oar-111-005-0080.md
+  - division: '10'
+    title: DEFINITIONS
+    status: ingested
+    rules:
+    - number: 111-010-0015
+      status: ingested
+      path: rules/111/010/oar-111-010-0015.md
+  - division: '15'
+    title: ELIGIBILITY RULES
+    status: ingested
+    rules:
+    - number: 111-015-0001
+      status: ingested
+      path: rules/111/015/oar-111-015-0001.md
+  - division: '20'
+    title: PROGRAM PARTICIPATION
+    status: ingested
+    rules:
+    - number: 111-020-0001
+      status: ingested
+      path: rules/111/020/oar-111-020-0001.md
+    - number: 111-020-0005
+      status: ingested
+      path: rules/111/020/oar-111-020-0005.md
+    - number: 111-020-0010
+      status: ingested
+      path: rules/111/020/oar-111-020-0010.md
+  - division: '30'
+    title: PLAN DESIGN DEVELOPMENT AND SELECTION
+    status: ingested
+    rules:
+    - number: 111-030-0010
+      status: ingested
+      path: rules/111/030/oar-111-030-0010.md
+    - number: 111-030-0011
+      status: ingested
+      path: rules/111/030/oar-111-030-0011.md
+    - number: 111-030-0035
+      status: ingested
+      path: rules/111/030/oar-111-030-0035.md
+    - number: 111-030-0040
+      status: ingested
+      path: rules/111/030/oar-111-030-0040.md
+    - number: 111-030-0045
+      status: ingested
+      path: rules/111/030/oar-111-030-0045.md
+    - number: 111-030-0046
+      status: ingested
+      path: rules/111/030/oar-111-030-0046.md
+    - number: 111-030-0047
+      status: ingested
+      path: rules/111/030/oar-111-030-0047.md
+    - number: 111-030-0050
+      status: ingested
+      path: rules/111/030/oar-111-030-0050.md
+  - division: '40'
+    title: ENROLLMENT
+    status: ingested
+    rules:
+    - number: 111-040-0001
+      status: ingested
+      path: rules/111/040/oar-111-040-0001.md
+    - number: 111-040-0005
+      status: ingested
+      path: rules/111/040/oar-111-040-0005.md
+    - number: 111-040-0010
+      status: ingested
+      path: rules/111/040/oar-111-040-0010.md
+    - number: 111-040-0011
+      status: ingested
+      path: rules/111/040/oar-111-040-0011.md
+    - number: 111-040-0015
+      status: ingested
+      path: rules/111/040/oar-111-040-0015.md
+    - number: 111-040-0020
+      status: ingested
+      path: rules/111/040/oar-111-040-0020.md
+    - number: 111-040-0025
+      status: ingested
+      path: rules/111/040/oar-111-040-0025.md
+    - number: 111-040-0030
+      status: ingested
+      path: rules/111/040/oar-111-040-0030.md
+    - number: 111-040-0040
+      status: ingested
+      path: rules/111/040/oar-111-040-0040.md
+    - number: 111-040-0050
+      status: ingested
+      path: rules/111/040/oar-111-040-0050.md
+    - number: 111-040-0055
+      status: ingested
+      path: rules/111/040/oar-111-040-0055.md
+  - division: '50'
+    title: CONTINUATION OF COVERAGE
+    status: ingested
+    rules:
+    - number: 111-050-0001
+      status: ingested
+      path: rules/111/050/oar-111-050-0001.md
+    - number: 111-050-0010
+      status: ingested
+      path: rules/111/050/oar-111-050-0010.md
+    - number: 111-050-0015
+      status: ingested
+      path: rules/111/050/oar-111-050-0015.md
+    - number: 111-050-0016
+      status: ingested
+      path: rules/111/050/oar-111-050-0016.md
+    - number: 111-050-0020
+      status: ingested
+      path: rules/111/050/oar-111-050-0020.md
+    - number: 111-050-0025
+      status: ingested
+      path: rules/111/050/oar-111-050-0025.md
+    - number: 111-050-0030
+      status: ingested
+      path: rules/111/050/oar-111-050-0030.md
+    - number: 111-050-0035
+      status: ingested
+      path: rules/111/050/oar-111-050-0035.md
+    - number: 111-050-0045
+      status: ingested
+      path: rules/111/050/oar-111-050-0045.md
+    - number: 111-050-0050
+      status: ingested
+      path: rules/111/050/oar-111-050-0050.md
+    - number: 111-050-0060
+      status: ingested
+      path: rules/111/050/oar-111-050-0060.md
+    - number: 111-050-0065
+      status: ingested
+      path: rules/111/050/oar-111-050-0065.md
+    - number: 111-050-0070
+      status: ingested
+      path: rules/111/050/oar-111-050-0070.md
+    - number: 111-050-0075
+      status: ingested
+      path: rules/111/050/oar-111-050-0075.md
+    - number: 111-050-0080
+      status: ingested
+      path: rules/111/050/oar-111-050-0080.md
+  - division: '60'
+    title: INFORMATION REQUIREMENTS AND REQUESTS
+    status: ingested
+    rules:
+    - number: 111-060-0001
+      status: ingested
+      path: rules/111/060/oar-111-060-0001.md
+  - division: '65'
+    title: OEBB ADMINISTRATION OF EARLY RETIREE GROUPS
+    status: ingested
+    rules:
+    - number: 111-065-0001
+      status: ingested
+      path: rules/111/065/oar-111-065-0001.md
+    - number: 111-065-0005
+      status: ingested
+      path: rules/111/065/oar-111-065-0005.md
+    - number: 111-065-0010
+      status: ingested
+      path: rules/111/065/oar-111-065-0010.md
+    - number: 111-065-0015
+      status: ingested
+      path: rules/111/065/oar-111-065-0015.md
+    - number: 111-065-0020
+      status: ingested
+      path: rules/111/065/oar-111-065-0020.md
+    - number: 111-065-0025
+      status: ingested
+      path: rules/111/065/oar-111-065-0025.md
+    - number: 111-065-0030
+      status: ingested
+      path: rules/111/065/oar-111-065-0030.md
+    - number: 111-065-0035
+      status: ingested
+      path: rules/111/065/oar-111-065-0035.md
+    - number: 111-065-0040
+      status: ingested
+      path: rules/111/065/oar-111-065-0040.md
+  - division: '70'
+    title: SB 551
+    status: ingested
+    rules:
+    - number: 111-070-0075
+      status: ingested
+      path: rules/111/070/oar-111-070-0075.md
+  - division: '80'
+    title: OPERATIONS
+    status: ingested
+    rules:
+    - number: 111-080-0001
+      status: ingested
+      path: rules/111/080/oar-111-080-0001.md
+    - number: 111-080-0005
+      status: ingested
+      path: rules/111/080/oar-111-080-0005.md
+    - number: 111-080-0030
+      status: ingested
+      path: rules/111/080/oar-111-080-0030.md
+    - number: 111-080-0040
+      status: ingested
+      path: rules/111/080/oar-111-080-0040.md
+    - number: 111-080-0045
+      status: ingested
+      path: rules/111/080/oar-111-080-0045.md
+    - number: 111-080-0050
+      status: ingested
+      path: rules/111/080/oar-111-080-0050.md
+    - number: 111-080-0055
+      status: ingested
+      path: rules/111/080/oar-111-080-0055.md
+    - number: 111-080-0060
+      status: ingested
+      path: rules/111/080/oar-111-080-0060.md
+    - number: 111-080-0065
+      status: ingested
+      path: rules/111/080/oar-111-080-0065.md
+    - number: 111-080-0070
+      status: ingested
+      path: rules/111/080/oar-111-080-0070.md
+  discovered: '2026-10-17'
 - chapter: '114'
   title: Long Term Care Ombudsman
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=132
@@ -123262,6 +123547,100 @@ chapters:
       note: OARD page contains no rule number (rule likely repealed)
     note: division no longer listed on OARD — verify upstream
   discovered: '2026-08-27'
+- chapter: '816'
+  title: Oregon Health Authority, Health Licensing Office, State Board of Sign Language Interpreters
+  url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=386
+  divisions:
+  - division: '5'
+    title: Definitions & General Administration
+    status: ingested
+    rules:
+    - number: 816-005-0000
+      status: ingested
+      path: rules/816/005/oar-816-005-0000.md
+    - number: 816-005-0010
+      status: ingested
+      path: rules/816/005/oar-816-005-0010.md
+    - number: 816-005-0020
+      status: ingested
+      path: rules/816/005/oar-816-005-0020.md
+    - number: 816-005-0030
+      status: ingested
+      path: rules/816/005/oar-816-005-0030.md
+  - division: '10'
+    title: Fees
+    status: no_rules
+    rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
+  - division: '15'
+    title: Emergency Care, Exceptions, Extenuating Circumstances and Repealed Licenses
+    status: ingested
+    rules:
+    - number: 816-015-0000
+      status: ingested
+      path: rules/816/015/oar-816-015-0000.md
+  - division: '25'
+    title: Licensing and Supervision
+    status: ingested
+    rules:
+    - number: 816-025-0000
+      status: ingested
+      path: rules/816/025/oar-816-025-0000.md
+    - number: 816-025-0010
+      status: ingested
+      path: rules/816/025/oar-816-025-0010.md
+    - number: 816-025-0020
+      status: ingested
+      path: rules/816/025/oar-816-025-0020.md
+    - number: 816-025-0030
+      status: ingested
+      path: rules/816/025/oar-816-025-0030.md
+    - number: 816-025-0040
+      status: ingested
+      path: rules/816/025/oar-816-025-0040.md
+    - number: 816-025-0050
+      status: ingested
+      path: rules/816/025/oar-816-025-0050.md
+    - number: 816-025-0060
+      status: ingested
+      path: rules/816/025/oar-816-025-0060.md
+    - number: 816-025-0070
+      status: ingested
+      path: rules/816/025/oar-816-025-0070.md
+    - number: 816-025-0080
+      status: ingested
+      path: rules/816/025/oar-816-025-0080.md
+    - number: 816-025-0090
+      status: ingested
+      path: rules/816/025/oar-816-025-0090.md
+    - number: 816-025-0100
+      status: ingested
+      path: rules/816/025/oar-816-025-0100.md
+    - number: 816-025-0110
+      status: ingested
+      path: rules/816/025/oar-816-025-0110.md
+  - division: '45'
+    title: Issuance and Renewal Requirement
+    status: ingested
+    rules:
+    - number: 816-045-0000
+      status: ingested
+      path: rules/816/045/oar-816-045-0000.md
+  - division: '65'
+    title: Code of Professional Conduct and Practice Standards
+    status: ingested
+    rules:
+    - number: 816-065-0000
+      status: ingested
+      path: rules/816/065/oar-816-065-0000.md
+  - division: '85'
+    title: Fees
+    status: ingested
+    rules:
+    - number: 816-085-0000
+      status: ingested
+      path: rules/816/085/oar-816-085-0000.md
+  discovered: '2026-10-17'
 - chapter: '817'
   title: Oregon Health Authority, Health Licensing Office, Board of Cosmetology
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=119
@@ -145810,6 +146189,80 @@ chapters:
       path: rules/950/040/oar-950-040-0020.md
     note: division no longer listed on OARD — verify upstream
   discovered: '2026-08-27'
+- chapter: '944'
+  title: Oregon Health Authority, Drug Treatment and Recovery Services
+  url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=319
+  divisions:
+  - division: '1'
+    title: Behavioral Health Resource Networks (BHRN)
+    status: ingested
+    rules:
+    - number: 944-001-0000
+      status: ingested
+      path: rules/944/001/oar-944-001-0000.md
+    - number: 944-001-0010
+      status: ingested
+      path: rules/944/001/oar-944-001-0010.md
+    - number: 944-001-0020
+      status: ingested
+      path: rules/944/001/oar-944-001-0020.md
+    - number: 944-001-0030
+      status: ingested
+      path: rules/944/001/oar-944-001-0030.md
+    - number: 944-001-0040
+      status: ingested
+      path: rules/944/001/oar-944-001-0040.md
+  - division: '10'
+    title: Behavioral Health Resource Networks
+    status: ingested
+    rules:
+    - number: 944-010-0000
+      status: ingested
+      path: rules/944/010/oar-944-010-0000.md
+    - number: 944-010-0010
+      status: ingested
+      path: rules/944/010/oar-944-010-0010.md
+    - number: 944-010-0020
+      status: ingested
+      path: rules/944/010/oar-944-010-0020.md
+    - number: 944-010-0030
+      status: ingested
+      path: rules/944/010/oar-944-010-0030.md
+    - number: 944-010-0040
+      status: ingested
+      path: rules/944/010/oar-944-010-0040.md
+    - number: 944-010-0050
+      status: ingested
+      path: rules/944/010/oar-944-010-0050.md
+    - number: 944-010-0060
+      status: ingested
+      path: rules/944/010/oar-944-010-0060.md
+    - number: 944-010-0070
+      status: ingested
+      path: rules/944/010/oar-944-010-0070.md
+    - number: 944-010-0080
+      status: ingested
+      path: rules/944/010/oar-944-010-0080.md
+    - number: 944-010-0090
+      status: ingested
+      path: rules/944/010/oar-944-010-0090.md
+  - division: '20'
+    title: Drug Treatment and Recovery Services Fund (DTRSF) Grants
+    status: ingested
+    rules:
+    - number: 944-020-0000
+      status: ingested
+      path: rules/944/020/oar-944-020-0000.md
+    - number: 944-020-0010
+      status: ingested
+      path: rules/944/020/oar-944-020-0010.md
+    - number: 944-020-0020
+      status: ingested
+      path: rules/944/020/oar-944-020-0020.md
+    - number: 944-020-0030
+      status: ingested
+      path: rules/944/020/oar-944-020-0030.md
+  discovered: '2026-10-17'
 - chapter: '945'
   title: Department of Consumer and Business Services, Health Insurance Marketplace
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=190
