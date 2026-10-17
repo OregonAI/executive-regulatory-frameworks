@@ -1,0 +1,2072 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+748 — Fraternal Benefit Societies 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ FRATERNAL BENEFIT SOCIETIES 
+
+   
+
+ INSURANCE 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 748.103     Definitions 
+
+   
+
+ 748.106     Description of
+fraternal benefit society 
+
+   
+
+ 748.109     Conditions constituting
+“operating on a lodge system” 
+
+   
+
+ 748.112     Conditions constituting
+“representative form of government” 
+
+   
+
+ SOCIETIES GENERALLY 
+
+   
+
+ 748.121     Purposes, operation and
+powers 
+
+   
+
+ 748.123     Membership;
+eligibility; admission process; privileges 
+
+   
+
+ ORGANIZATIONAL AND ADMINISTRATIVE
+PROVISIONS 
+
+   
+
+ 748.130     Principal office;
+publications; annual statement synopsis; complaints 
+
+   
+
+ 748.133     Formation 
+
+   
+
+ 748.136     Officers, governors,
+directors; exemption from liability; indemnification; insurance 
+
+   
+
+ 748.139     Waiver of provisions by
+subordinate body 
+
+   
+
+ 748.142     Amendment of society
+laws 
+
+   
+
+ 748.144     Creation and operation
+of other organizations and entities 
+
+   
+
+ 748.148     Consolidation and
+merger 
+
+   
+
+ LICENSING AND REINSURANCE 
+
+   
+
+ 748.171     Certificate of
+authority 
+
+   
+
+ 748.174     Certificate of
+authority for foreign or alien society 
+
+   
+
+ 748.177     Authorization as mutual
+life insurance company 
+
+   
+
+ 748.181     Insurance producers;
+licensing 
+
+   
+
+ 748.184     Reinsurance 
+
+   
+
+ BENEFITS, BENEFICIARIES AND
+CONTRACTS GENERALLY 
+
+   
+
+ 748.201     Benefits 
+
+   
+
+ 748.204     Beneficiaries 
+
+   
+
+ 748.207     Benefits exempt from
+execution 
+
+   
+
+ 748.211     Benefit contract;
+certificate 
+
+   
+
+ GROUP BENEFITS 
+
+   
+
+ 748.306     Authority for group
+benefit certificates 
+
+   
+
+ 748.309     Group membership;
+lodges 
+
+   
+
+ 748.312     Membership in lodges
+organized under ORS 748.309 
+
+   
+
+ 748.316     Payments for group
+benefits 
+
+   
+
+ 748.319     Group certificates
+issued by foreign or alien society or by domestic society in foreign or alien
+jurisdiction 
+
+   
+
+ 748.322     Continuation of
+membership in society after cancellation, discontinuance or nonrenewal of group
+certificate 
+
+   
+
+ FINANCIAL PROVISIONS 
+
+   
+
+ 748.401     Value of benefit and amount
+of options 
+
+   
+
+ 748.403     Standards of valuation
+for certificates 
+
+   
+
+ 748.406     Financial statement;
+filing; fee; valuation 
+
+   
+
+ 748.409     Assets of society;
+variable contracts 
+
+   
+
+ 748.412     Investment of funds 
+
+   
+
+ 748.414     Funds exempt from
+certain taxes 
+
+   
+
+ ENFORCEMENT 
+
+   
+
+ 748.501     Examination 
+
+   
+
+ 748.503     Investigation of
+society; notice of deficiencies; action by Attorney General; hearing 
+
+   
+
+ 748.506     Investigation of
+foreign or alien society; notice of deficiencies; revocation or suspension of
+authority 
+
+   
+
+ 748.509     Validity of petition
+for injunction 
+
+   
+
+ EXEMPTIONS; RELATION TO OTHER LAW 
+
+   
+
+ 748.601     Exemptions from chapter 
+
+   
+
+ 748.603     Relationship to other
+insurance laws 
+
+   
+
+ 748.605     Insurance against risk
+of loss under less than fully insured employee health benefit plan 
+
+   
+
+ PENALTIES 
+
+   
+
+ 748.990     Penalties 
+
+   
+
+       748.010 [Amended by 1955 c.465 §7; 1967
+c.359 §108; renumbered 731.562] 
+
+   
+
+       748.020 [Amended by 1955 c.465 §8;
+repealed by 1967 c.359 §704] 
+
+   
+
+       748.030 [Repealed by 1967 c.359 §704] 
+
+   
+
+       748.040 [Amended by 1955 c.465 §9;
+repealed by 1967 c.359 §704] 
+
+   
+
+       748.045 [1955 c.465 §4; repealed by 1967
+c.359 §704] 
+
+   
+
+       748.050 [Repealed by 1955 c.465 §12] 
+
+   
+
+       748.055 [1955 c.465 §6; repealed by 1967
+c.359 §704] 
+
+   
+
+       748.060 [Repealed by 1967 c.359 §704] 
+
+   
+
+       748.070 [Amended by 1955 c.465 §10;
+repealed by 1967 c.359 §704] 
+
+   
+
+       748.075 [1955 c.465 §3; repealed by 1967
+c.359 §704] 
+
+   
+
+       748.080 [Repealed by 1955 c.465 §12] 
+
+   
+
+       748.084 [1955 c.465 §2; 1967 c.359 §94;
+renumbered 731.438] 
+
+   
+
+       748.086 [1955 c.465 §5; 1967 c.359 §572;
+renumbered 746.055] 
+
+   
+
+       748.090 [Amended by 1955 c.465 §11;
+repealed by 1967 c.359 §704] 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       748.103
+Definitions. As
+used in this chapter: 
+
+       (1) “Benefit
+contract” means the agreement for provision of benefits authorized by ORS
+748.201, as that agreement is described in ORS 748.211 (1). 
+
+       (2) “Benefit
+member” means an adult member who is designated by the laws or rules of the
+society to be a benefit member under a benefit contract. 
+
+       (3) “Certificate”
+means the document issued as written evidence of the benefit contract. 
+
+       (4) “Impaired”
+means either: 
+
+       (a) For a society
+that does not write variable contracts, whenever its assets are less than its
+total liabilities; or 
+
+       (b) For a society
+that does write variable contracts, whenever its assets are less than its total
+liabilities, plus the required surplus for a mutual life insurer to write such
+contracts. 
+
+       (5) “Laws” means
+the society’s articles of incorporation, constitution and bylaws, however
+designated. 
+
+       (6) “Lodge” means
+subordinate member units of the society, known as camps, courts, councils,
+branches or by any other designation. 
+
+       (7) “Premiums”
+means premiums, rates, dues or other required contributions by whatever name
+known, which are payable under the certificate. 
+
+       (8) “Rules” means
+all rules, regulations or resolutions adopted by the supreme governing body or
+board of directors which are intended to have general application to the
+members of the society. 
+
+       (9) “Society”
+means fraternal benefit society, unless otherwise indicated. [1987 c.490 §2] 
+
+   
+
+       748.105 [Formerly 740.010; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.106
+Description of fraternal benefit society. Any corporation, society, order, supreme lodge or
+voluntary association, without capital stock, conducted solely for the benefit
+of its members and their beneficiaries and not-for-profit, operated on a lodge
+system with ritualistic form of work, having a representative form of
+government and which provides benefits in accordance with this chapter is
+hereby declared to be a fraternal benefit society. [1987 c.490 §3] 
+
+   
+
+       748.109
+Conditions constituting “operating on a lodge system.” (1) A society is operating on the
+lodge system if it has a supreme governing body and subordinate lodges into
+which members are elected, initiated or admitted in accordance with its laws,
+rules and ritual. Subordinate lodges shall be required by the laws of the
+society to hold regular meetings at least once each month in furtherance of the
+purposes of the society. 
+
+       (2) A society
+may, at its option, organize and operate lodges for children under the minimum
+age for adult membership. Membership and initiation in local lodges shall not
+be required of the children, nor shall the children have a voice or vote in the
+management of the society. [1987 c.490 §4] 
+
+   
+
+       748.110 [Formerly 740.020; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.112
+Conditions constituting “representative form of government.” A society has a representative
+form of government when: 
+
+       (1) It has a
+supreme governing body constituted as: 
+
+       (a) An assembly
+composed of delegates elected directly by the members or at intermediate
+assemblies or conventions of members or their representatives, together with
+other delegates as may be prescribed in the society’s laws. A society may
+provide for election of delegates by mail. The elected delegates shall
+constitute a majority in number and shall not have less than two-thirds of the
+votes and not less than the number of votes required to amend the society’s
+laws. The assembly shall be elected and shall meet at least once every four
+years and shall elect a board of directors to conduct the business of the
+society between meetings of the assembly. Vacancies on the board of directors
+between elections may be filled in the manner prescribed by the society’s laws;
+or 
+
+       (b) A board
+composed of persons elected by the members, either directly or by their
+representatives in intermediate assemblies, and any other persons prescribed in
+the society’s laws. A society may provide for election of the board by mail.
+Each term of a board member may not exceed four years. Vacancies on the board
+between elections may be filled in the manner prescribed by the society’s laws.
+Those persons elected to the board shall constitute a majority in number and
+not less than the number of votes required to amend the society’s laws. A
+person filling the unexpired term of an elected board member shall be
+considered to be an elected member. The board shall meet at least quarterly to
+conduct the business of the society; 
+
+       (2) The officers
+of the society are elected either by the supreme governing body or by the board
+of directors; 
+
+       (3) Only benefit
+members are eligible for election to the supreme governing body and the board
+of directors; and 
+
+       (4) Each voting
+member has one vote. No vote may be cast by proxy. [1987 c.490 §5] 
+
+   
+
+       748.115 [Formerly 740.030; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.120 [1967 c.359 §601; repealed by 1987
+c.490 §58] 
+
+   
+
+ SOCIETIES GENERALLY 
+
+   
+
+       748.121
+Purposes, operation and powers. 
+(1) The purposes of a society, as specified in subsection (2) of this section,
+may be carried out directly by the society, or indirectly through subsidiary
+corporations or affiliated organizations. 
+
+       (2) A society
+shall operate for the benefit of members and their beneficiaries by: 
+
+       (a) Providing
+benefits as specified in ORS 748.201; and 
+
+       (b) Operating for
+one or more social, intellectual, educational, charitable, benevolent, moral,
+fraternal, patriotic or religious purposes for the benefit of its members,
+which may also be extended to others. 
+
+       (3) Every society
+shall have the power to adopt laws and rules for the government of the society,
+the admission of its members and the management of its affairs. It shall have
+the power to change, alter, add to or amend such laws and rules and shall have
+such other powers as are necessary and incidental to carrying into effect the
+objects and purposes of the society. [1987 c.490 §6] 
+
+   
+
+       748.123
+Membership; eligibility; admission process; privileges. (1) A society shall specify in its
+laws or rules: 
+
+       (a) Eligibility
+standards for each and every class of membership, provided that, if benefits
+are provided on the lives of children, the minimum age for adult membership
+shall be set at not less than 15 years of age and not greater than 21 years of
+age; 
+
+       (b) The process
+for admission to membership for each membership class; and 
+
+       (c) The rights
+and privileges of each membership class, provided that only benefit members
+shall have the right to vote on the management of the insurance affairs of the
+society. 
+
+       (2) A society may
+also admit social members who shall have no voice or vote in the management of
+the insurance affairs of the society. 
+
+       (3) Membership
+rights in the society are personal to the member and are not assignable. [1987
+c.490 §7] 
+
+   
+
+       748.125 [1987 c.490 §42; 1989 c.413 §18;
+repealed by 1991 c.182 §20] 
+
+   
+
+ ORGANIZATIONAL AND
+ADMINISTRATIVE PROVISIONS 
+
+   
+
+       748.130
+Principal office; publications; annual statement synopsis; complaints. (1) The principal office of any
+domestic society shall be located in this state. The meetings of its supreme
+governing body may be held in any state, district, province or territory in
+which the society has at least one lodge or in any other location as determined
+by the supreme governing body, and all business transacted at the meetings
+shall be as valid in all respects as if the meetings were held in this state.
+The minutes of the proceedings of the supreme governing body and of the board
+of directors shall be in English. 
+
+       (2) A society may
+provide in its laws for an official publication in which any notice, report or
+statement required by law to be given to members, including notice of election,
+may be published. The required notices, reports or statements shall be printed
+conspicuously in the publication. If the records of a society show that two or
+more members have the same mailing address, an official publication mailed to
+one member is deemed to be mailed to all members at the same address unless a
+member requests a separate copy. 
+
+       (3) Not later
+than June 1 of each year, a synopsis of the society’s annual statement
+providing an explanation of the facts concerning the condition of the society
+thereby disclosed shall be printed and mailed to each benefit member of the
+society or, in lieu thereof, the synopsis may be published in the society’s
+official publication. 
+
+       (4) A society may
+provide in its laws or rules for grievance or complaint procedures for members.
+[1987 c.490 §8] 
+
+   
+
+       748.133
+Formation. A
+domestic society organized on or after January 1, 1988, shall be formed as
+follows: 
+
+       (1) Seven or more
+citizens of the United States, a majority of whom are citizens of this state,
+who desire to form a fraternal benefit society, may make and sign articles of
+incorporation. The articles shall be acknowledged before some officer competent
+to take acknowledgment of deeds and shall state: 
+
+       (a) The proposed
+corporate name of the society, which shall not so closely resemble the name of
+any society or insurance company as to be misleading or confusing; 
+
+       (b) The purposes
+for which it is being formed and the mode in which its corporate powers are to
+be exercised. The purposes shall not include more liberal powers than are
+granted by this chapter; 
+
+       (c) The names and
+residences of the incorporators and the names, residences and official titles
+of all the officers, trustees, directors or other persons who are to have and
+exercise the general control of the management of the affairs and funds of the
+society until their successors are elected by the supreme governing body; and 
+
+       (d) A plan for
+the election of officers, trustees and directors by the supreme governing body.
+The election shall be held not later than one year from the date of issuance of
+the permanent certificate of authority. 
+
+       (2) The articles
+of incorporation, duly certified copies of the society’s bylaws and rules,
+copies of all proposed forms of certificates, applications therefor and
+circulars to be issued by the society and a bond conditioned upon the return to
+applicants of the advanced payments if the organization is not completed within
+one year shall be filed with the Director of the Department of Consumer and
+Business Services, who may require such further information as the director
+deems necessary. The bond with sureties approved by the director shall be in an
+amount, not less than $300,000 nor more than $1,500,000 as required by the
+director. All documents filed are to be in English. If the purposes of the
+society conform to the requirements of this chapter and all provisions of the
+law have been complied with, the director shall so certify, retain and file the
+articles of incorporation and furnish the incorporators a preliminary
+certificate of authority authorizing the society to solicit members as provided
+in this chapter. 
+
+       (3) No
+preliminary certificate of authority granted under the provisions of this
+section shall be valid after one year from its date or after any further
+period, not exceeding one year, as may be authorized by the director upon cause
+shown, unless the 500 applicants required have been secured and the
+organization has been completed as provided in this chapter. The articles of
+incorporation and all other proceedings thereunder shall become null and void
+in one year from the date of the preliminary certificate of authority, or at
+the expiration of the extended period, unless the society has completed its
+organization and received a certificate of authority to do business as provided
+in this chapter. 
+
+       (4) Upon receipt
+of a preliminary certificate of authority from the director, the society may
+solicit members for the purpose of completing its organization, shall collect
+from each applicant the amount of not less than one regular monthly premium in
+accordance with its tables of rates and shall issue to each applicant a receipt
+for the amount collected. No society shall incur any liability other than for
+the return of the advance premium, nor issue any certificate, nor pay, allow or
+offer or promise to pay or allow, any benefit to any person until: 
+
+       (a) Actual bona
+fide applications for benefits have been secured on not less than 500
+applicants, and any necessary evidence of insurability has been furnished to
+and approved by the society; 
+
+       (b) At least 10
+lodges have been established into which the 500 applicants have been admitted; 
+
+       (c) There has
+been submitted to the director, under oath of the president or secretary, or
+corresponding officer of the society, a list of such applicants, giving their
+names, addresses, date each was admitted, name and number of the lodge of which
+each applicant is a member, amount of benefits to be granted and premiums
+therefor; and 
+
+       (d) It has been
+shown to the director, by sworn statement of the treasurer, or corresponding
+officer of such society, that at least 500 applicants have each paid in cash at
+least one regular monthly premium as herein provided, which premiums in the
+aggregate amount to at least $150,000. The advance premiums shall be held in
+trust during the period of organization and if the society has not qualified
+for a certificate of authority within one year, as provided in this chapter,
+the premiums shall be returned to the applicants. 
+
+       (5) The director
+may make any examination and require any further information that the director
+deems advisable. Upon presentation of satisfactory evidence that the society
+has complied with all the provisions of law, the director shall issue to the
+society a certificate of authority to that effect and that the society is
+authorized to transact business pursuant to the provisions of this chapter. The
+certificate of authority shall be prima facie evidence of the existence of the
+society at the date of the certificate. The director shall cause a record of
+the certificate of authority to be made. A certified copy of the record may be
+given in evidence with like effect as the original certificate of authority. 
+
+       (6) An
+incorporated society authorized to transact business in this state at the time
+this chapter becomes effective shall not be required to reincorporate. [1987
+c.490 §9] 
+
+   
+
+       748.135 [Formerly 740.090; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.136
+Officers, governors, directors; exemption from liability; indemnification;
+insurance. (1) The
+officers and members of the supreme governing body or any subordinate body of a
+society shall not be personally liable for any benefits provided by a society. 
+
+       (2) Any person
+may be indemnified and reimbursed by any society for expenses reasonably
+incurred by, and liabilities imposed upon, the person in connection with or
+arising out of any action, suit or proceeding, whether civil, criminal,
+administrative or investigative, or threat of any action, suit or proceeding,
+in which the person may be involved by reason of the fact that the person is or
+was a director, officer, employee or agent of the society or of any firm,
+corporation or organization which the person served in any capacity at the
+request of the society. Except as provided in subsection (3) of this section, a
+person shall not be indemnified or reimbursed: 
+
+       (a) In relation
+to any matter in such action, suit or proceeding as to which the person shall
+finally be adjudged guilty of breach of a duty as a director, officer, employee
+or agent of the society; or 
+
+       (b) In relation
+to any matter in such action, suit or proceeding, or threat of such action,
+suit or proceeding, which has been made the subject of a compromise settlement. 
+
+       (3) A person
+described in subsection (2) of this section may be indemnified if: 
+
+       (a) The person
+acted in good faith for a purpose the person reasonably believed to be in or
+not opposed to the best interests of the society; and 
+
+       (b) In a criminal
+action or proceeding, the person had no reasonable cause to believe that the
+conduct of the person was unlawful. 
+
+       (4) The
+determination whether the conduct of the person met the standard required in
+order to justify indemnification and reimbursement in relation to any matter
+described in subsection (2) of this section may be made only by the supreme
+governing body or board of directors by a majority vote of a quorum consisting
+of persons who were not parties to the action, suit or proceeding, or by a
+court of competent jurisdiction. The termination of any action, suit or
+proceeding by judgment, order, settlement, conviction or upon a plea of no
+contest, as to the person shall not in itself create a conclusive presumption
+that the person did not meet the standard of conduct required in order to
+justify indemnification and reimbursement. The right of indemnification and
+reimbursement described in this section shall not be exclusive of other rights
+to which the person may be entitled as a matter of law and shall inure to the
+benefit of the person’s heirs, executors and administrators. 
+
+       (5) A society
+shall have power to purchase and maintain insurance on behalf of any person who
+is or was a director, officer, employee or agent of the society, or who is or
+was serving at the request of the society as a director, officer, employee or
+agent of any other firm, corporation or organization against any liability
+asserted against the person and incurred by the person in any such capacity or
+arising out of the person’s status as such, whether or not the society would
+have the power to indemnify the person against liability under this section. [1987
+c.490 §10] 
+
+   
+
+       748.139 Waiver
+of provisions by subordinate body. 
+The laws of the society may provide that no subordinate body, nor any of its
+subordinate officers or members shall have the power or authority to waive any
+of the provisions of the laws of the society. This provision shall be binding
+on the society and every member and beneficiary of a member. [1987 c.490 §11] 
+
+   
+
+       748.140 [Formerly 740.100; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.142
+Amendment of society laws. 
+(1) A domestic society may amend its laws in accordance with the provisions
+thereof by action of its supreme governing body at any regular or special
+meeting thereof or, if its laws so provide, by referendum. The referendum may
+be held in accordance with the provisions of its laws by the vote of the voting
+members of the society, by the vote of delegates or representatives of voting
+members or by the vote of local lodges. A society may provide for voting by
+mail. No amendment submitted for adoption by referendum shall be adopted
+unless, within six months from the date of submission, a majority of the
+members voting have signified their consent to the amendment by one of the
+methods specified in this chapter. 
+
+       (2) No amendment
+to the laws of any domestic society shall take effect unless approved by the
+Director of the Department of Consumer and Business Services. The director
+shall approve the amendment if the director finds that it has been duly adopted
+and is not inconsistent with any requirement of the laws of this state or with
+the character, objects and purposes of the society. Unless the director shall
+disapprove any such amendment within 60 days after the filing, the amendment
+shall be considered approved. The approval or disapproval of the director shall
+be in writing and mailed to the secretary or corresponding officer of the
+society at its principal office. In case the director disapproves the
+amendment, the reasons shall be stated in the written notice. 
+
+       (3) Within 90
+days from the approval by the director, all such amendments, or a synopsis
+thereof, shall be furnished to all members of the society either by mail or by
+publication in full in the official publication of the society. The affidavit
+of any officer of the society or of anyone authorized by it to mail any
+amendments, or synopses thereof, stating facts which show that the amendments
+have been duly addressed and mailed, shall be prima facie evidence that the
+amendments, or synopsis thereof, have been furnished to the addressee. 
+
+       (4) Every foreign
+or alien society authorized to do business in this state shall file with the
+director a duly certified copy of all amendments of, or additions to, its laws
+within 90 days after the enactment of the amendments. 
+
+       (5) Printed
+copies of the laws as amended, certified by the secretary or corresponding
+officer of the society, shall be prima facie evidence of the legal adoption
+thereof. [1987 c.490 §12] 
+
+   
+
+       748.144
+Creation and operation of other organizations and entities. (1) A society may create, maintain
+and operate, or may establish organizations to operate, not-for-profit
+institutions to further the purposes permitted by ORS 748.121 (2)(b). Such
+institutions may furnish services free or at a reasonable charge. Any real or
+personal property owned, held or leased by the society for this purpose shall
+be reported in every annual statement. 
+
+       (2) No society
+shall own or operate funeral homes or undertaking establishments. [1987 c.490 §13] 
+
+   
+
+       748.145 [Formerly 740.110; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.148
+Consolidation and merger. 
+(1) A domestic society may consolidate or merge with any other society by
+complying with the provisions of this section. It shall file with the Director
+of the Department of Consumer and Business Services: 
+
+       (a) A certified
+copy of the written contract containing in full the terms and conditions of the
+consolidation or merger; 
+
+       (b) A sworn
+statement by the president and secretary or corresponding officers of each
+society showing the financial condition of the society on a date fixed by the
+director but not earlier than December 31, next preceding the date of the
+contract; 
+
+       (c) A certificate
+of the officers, duly verified by their respective oaths, that the
+consolidation or merger has been approved by a two-thirds vote of the supreme
+governing body of each society, the vote being conducted at a regular or
+special meeting of each body, or, if the society’s laws so permit, by mail; and 
+
+       (d) Evidence that
+at least 60 days prior to the action of the supreme governing body of each
+society, the text of the contract has been furnished to all members of each
+society either by mail or by publication in full in the official publication of
+each society. 
+
+       (2) If the
+director finds that the contract is in conformity with the provisions of this
+section, that the financial statements are correct and that the consolidation
+or merger is just and equitable to the members of each society, the director
+shall approve the contract and issue a certificate to that effect. Upon
+approval, the contract shall be in full force and effect unless any society
+which is a party to the contract is incorporated under the laws of any other
+state or territory. In such event the consolidation or merger shall not become
+effective unless and until it has been approved as provided by the laws of such
+state or territory and a certificate of approval filed with the director of
+this state or, if the laws of such state or territory contain no such
+provision, then the consolidation or merger shall not become effective unless
+and until it has been approved by the director of insurance of such state or
+territory and a certificate of approval filed with the director of this state. 
+
+       (3) Upon the
+consolidation or merger becoming effective as provided in this chapter, all the
+rights, franchises and interests of the consolidated or merged societies in and
+to every species of property, real, personal or mixed, and things in action
+thereunto belonging shall be vested in the society resulting from or remaining
+after the consolidation or merger without any other instrument, except that
+conveyances of real property may be evidenced by proper deeds, and the title to
+any real estate or interest therein, vested under the laws of this state in any
+of the societies consolidated or merged, shall not revert or be in any way
+impaired by reason of the consolidation or merger, but shall vest absolutely in
+the society resulting from or remaining after consolidation or merger. 
+
+       (4) The affidavit
+of any officer of the society or of anyone authorized by it to mail any notice
+or document, stating that the notice or document has been duly addressed and
+mailed, shall be prima facie evidence that the notice or document has been
+furnished the addressees. [1987 c.490 §15] 
+
+   
+
+       748.150 [Formerly 740.120; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.155 [Formerly 740.140; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.160 [Formerly 740.040; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.165 [Formerly 740.510; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.170 [1967 c.359 §609; repealed by 1987
+c.490 §58] 
+
+   
+
+ LICENSING AND
+REINSURANCE 
+
+   
+
+       748.171
+Certificate of authority. 
+(1) A fraternal benefit society must obtain and maintain a certificate of
+authority in the manner provided for insurers in the Insurance Code. 
+
+       (2) A certified
+copy or duplicate of the certificate of authority shall be prima facie evidence
+that the holder thereof is a fraternal benefit society within the meaning of
+this chapter. [1987 c.490 §28; 1989 c.413 §19; 1991 c.182 §10] 
+
+   
+
+       748.174
+Certificate of authority for foreign or alien society. No foreign or alien society shall
+transact business in this state without a certificate of authority issued by
+the Director of the Department of Consumer and Business Services. Any foreign
+or alien society desiring admission to this state shall comply substantially
+with the requirements and limitations of this chapter applicable to domestic
+societies. Any foreign or alien society may be authorized to transact business
+in this state upon a showing that its assets are invested in accordance with
+the provisions of this chapter and upon filing with the director: 
+
+       (1) A duly
+certified copy of its articles of incorporation; 
+
+       (2) A copy of its
+bylaws, certified by its secretary or corresponding officer; 
+
+       (3) A power of
+attorney to the director as required by the director; 
+
+       (4) A statement
+of its business under oath of its president and secretary or corresponding
+officers in a form prescribed by the director, duly verified by an examination
+made by the supervising insurance official of its home state or other state,
+territory, province or country, satisfactory to the director; 
+
+       (5) Certification
+from the proper official of its home state, territory, province or country that
+the society is legally incorporated and licensed to transact business in the
+state, territory, province or country; 
+
+       (6) Copies of its
+certificate forms; and 
+
+       (7) Such other
+information as the director may deem necessary. [1987 c.490 §30; 1991 c.182 §11] 
+
+   
+
+       748.175 [1967 c.359 §610; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.177
+Authorization as mutual life insurance company. Any domestic fraternal benefit
+society may be converted and authorized as a mutual life insurance company by
+compliance with all the requirements of the insurance laws of this state for
+mutual life insurance companies. A plan of conversion shall be prepared in
+writing by the board of directors setting forth in full the terms and
+conditions of conversion. The affirmative vote of two-thirds of all members of
+the supreme governing body at a regular or special meeting shall be necessary
+for the approval of the plan, or if the society is organized under the direct
+election method pursuant to ORS 748.112 (1)(a), the plan of conversion shall be
+submitted by mail to the benefit members. The affirmative vote of two-thirds of
+the benefit members voting thereon shall be necessary for the approval of the
+plan. No conversion shall take effect unless approved by the Director of the
+Department of Consumer and Business Services who may give approval if the
+director finds that the proposed change is in conformity with the requirements
+of law and not prejudicial to the certificate holders of the society. [1987
+c.490 §16; 1991 c.182 §12] 
+
+   
+
+       748.181
+Insurance producers; licensing. 
+Insurance producers of societies shall be licensed in accordance with the
+provisions of ORS chapter 744 regulating the licensing, revocation, suspension
+or termination of license of resident and nonresident insurance producers. [1987
+c.490 §34; 1989 c.701 §75; 2003 c.364 §168] 
+
+   
+
+       748.184
+Reinsurance. (1) A
+domestic society may, by a reinsurance agreement, cede any individual risk or
+risks in whole or in part to an insurer, other than another fraternal benefit
+society, having the power to make reinsurance and authorized to do business in
+this state, or if not authorized, one which is approved by the Director of the
+Department of Consumer and Business Services, but no society may reinsure
+substantially all of its insurance in force without the written permission of
+the director. The society may take credit for the reserves on such ceded risks
+to the extent reinsured, but no credit shall be allowed as an admitted asset or
+as a deduction from liability, to a ceding society for reinsurance made, ceded,
+renewed or otherwise becoming effective after January 1, 1988, unless the
+reinsurance is payable by the assuming insurer on the basis of the liability of
+the ceding society under the contract or contracts reinsured without diminution
+because of the insolvency of the ceding society. 
+
+       (2)
+Notwithstanding the limitation in subsection (1) of this section, a society may
+reinsure the risks of another society in a consolidation or merger approved by
+the director under ORS 748.148. [1987 c.490 §14] 
+
+   
+
+       748.185 [Formerly 740.160; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.190 [1967 c.359 §612; repealed by 1987
+c.490 §58] 
+
+   
+
+ BENEFITS, BENEFICIARIES
+AND CONTRACTS GENERALLY 
+
+   
+
+       748.201
+Benefits. (1) A
+society may provide in any form the following contractual benefits: 
+
+       (a) Death
+benefits; 
+
+       (b) Endowment
+benefits; 
+
+       (c) Annuity
+benefits; 
+
+       (d) Temporary or
+permanent disability benefits; 
+
+       (e) Hospital,
+medical or nursing benefits; 
+
+       (f) Monument or
+tombstone benefits to the memory of deceased members; and 
+
+       (g) Such other
+benefits as authorized for life insurers and which are not inconsistent with
+this chapter, upon determination by the Director of the Department of Consumer
+and Business Services that the society is in compliance with all the
+requirements for a mutual life insurer to write such benefits. 
+
+       (2) A society
+shall specify in its rules those persons who may be issued, or covered by, the
+contractual benefits in subsection (1) of this section, consistent with
+providing benefits to members and their dependents. A society may provide
+benefits on the lives of children under the minimum age for adult membership
+upon application of an adult person. [1987 c.490 §17] 
+
+   
+
+       748.204
+Beneficiaries. (1)
+The owner of a benefit contract shall have the right at all times to change the
+beneficiary or beneficiaries in accordance with the laws or rules of the
+society unless the owner waives this right by specifically requesting in
+writing that the beneficiary designation be irrevocable. A society may, through
+its laws or rules, limit the scope of beneficiary designations and shall
+provide that no revocable beneficiary shall have or obtain any vested interest
+in the proceeds of any certificate until the certificate has become due and
+payable in conformity with the provisions of the benefit contract. 
+
+       (2) A society may
+make provision for the payment of funeral benefits to the extent of the portion
+of any payment under a certificate as might reasonably appear to be due to any
+person equitably entitled thereto by reason of having incurred expense occasioned
+by the burial of the member, provided the portion paid shall not exceed $1,000. 
+
+       (3) If, at the
+death of any person insured under a benefit contract, there is no lawful
+beneficiary to whom the proceeds shall be payable, the amount of the benefit,
+except to the extent that funeral benefits may be paid as provided in this
+chapter, shall be payable to the personal representative of the deceased
+insured, provided that if the owner of the certificate is other than the
+insured the proceeds shall be payable to that owner. [1987 c.490 §18] 
+
+   
+
+       748.205 [1967 c.359 §613; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.207
+Benefits exempt from execution. 
+No money or other benefit, charity, relief or aid to be paid, provided or
+rendered by any society, shall be liable to attachment, garnishment or other
+process, or to be seized, taken, appropriated or applied by any legal or
+equitable process or operation of law to pay any debt or liability of a member
+or beneficiary, or any other person who may have a right thereunder, either
+before or after payment by the society. [1987 c.490 §19] 
+
+   
+
+       748.210 [1967 c.359 §614; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.211
+Benefit contract; certificate. 
+(1) Every society authorized to do business in this state shall issue to each
+owner of a benefit contract a certificate specifying the amount of benefits
+provided. The certificate, together with any riders or indorsements attached to
+it, the laws of the society, the application for membership, the application
+for insurance and declaration of insurability, if any, signed by the applicant,
+and all amendments to each, shall constitute the benefit contract, as of the
+date of issuance, between the society and the owner, and the certificate shall
+so state. The laws of the society need not be stated in full in the
+certificate, except as provided in this section. A copy of the application for
+insurance and declaration of insurability, if any, shall be indorsed upon or
+attached to the certificate. All statements on the application shall be
+representations and not warranties. Any waiver of this provision shall be void. 
+
+       (2) Any changes,
+additions or amendments to the laws of the society duly made or enacted
+subsequent to the issuance of the certificate, shall bind the owner and the
+beneficiaries, and shall govern and control the benefit contract in all
+respects the same as though the changes, additions or amendments had been made
+prior to and were in force at the time of the application for insurance, except
+that no change, addition or amendment shall destroy or diminish benefits which
+the society contracted to give the owner as of the date of issuance. 
+
+       (3) Any person
+upon whose life a benefit contract is issued prior to attaining the age of
+majority shall be bound by the terms of the application and certificate and by
+all the laws and rules of the society to the same extent as though the age of
+majority had been attained at the time of application. 
+
+       (4) A society
+shall provide in its laws that if its reserves as to all or any class of
+certificates become impaired, its board of directors or corresponding body may
+require that there be paid by the owner to the society the amount of the owner’s
+equitable proportion of the deficiency as ascertained by its board, and that if
+the payment is not made: 
+
+       (a) It shall
+stand as an indebtedness against the certificate and draw interest not to
+exceed the rate specified for certificate loans under the certificates; or 
+
+       (b) In lieu of or
+in combination with paragraph (a) of this subsection, the owner may accept a
+proportionate reduction in benefits under the certificate. 
+
+       (5) The society
+may specify the manner of the election of the alternatives specified in
+subsection (4) of this section and which alternative is to be presumed if no
+election is made. 
+
+       (6) Copies of any
+of the documents mentioned in this section, certified by the secretary or
+corresponding officer of the society, shall be received in evidence of the
+terms and conditions of the documents. 
+
+       (7) No
+certificate shall be delivered or issued for delivery in this state unless a
+copy of the form has been filed with and approved by the Director of the
+Department of Consumer and Business Services, and is subject to withdrawal of
+approval, in the manner provided for like policies issued by life and health
+insurers in this state. Every life, accident, health or disability insurance
+certificate and every annuity certificate issued on or after one year from
+January 1, 1988, shall meet the standard contract provision requirements not
+inconsistent with this chapter for like policies issued by life and health
+insurers in this state, except that a society may provide for a grace period
+for payment of premiums of one full month in its certificates. The certificates
+shall also contain a provision stating the amount of premiums which are payable
+under the certificate and a provision reciting or setting forth the substance
+of any sections of the society’s laws or rules in force at the time of issuance
+of the certificate which, if violated, shall result in the termination or
+reduction of benefits payable under the certificate. In addition, except for
+contracts issued on a variable basis as authorized by ORS 748.409, the
+certificate shall contain a provision stating the substance of the society’s
+laws required under subsections (4) and (5) of this section. If the laws of the
+society provide for expulsion or suspension of a member, the certificate shall
+also contain a provision that any member so expelled or suspended, except for
+nonpayment of a premium or within the contestable period for material
+misrepresentation in the application for membership or insurance, shall have
+the privilege of maintaining the certificate in force by continuing payment of
+the required premium. 
+
+       (8) Benefit
+contracts issued on the lives of persons below the society’s minimum age for
+adult membership may provide for transfer of control or ownership to the
+insured at an age specified in the certificate. A society may require approval
+of an application for membership in order to effect this transfer, and may
+provide in all other respects for the regulation, government and control of the
+certificates and all rights, obligations and liabilities incident thereto and
+connected therewith. Ownership rights prior to the transfer shall be specified
+in the certificate. 
+
+       (9) A society may
+specify the terms and conditions on which benefit contracts may be assigned. [1987
+c.490 §20; 1991 c.182 §13] 
+
+   
+
+       748.215 [1967 c.359 §615; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.216 [Formerly 740.740; repealed by
+1969 c.336 §21] 
+
+   
+
+       748.220 [1967 c.359 §616; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.225 [Formerly 740.640; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.230 [Formerly 740.200; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.235 [Formerly 740.650; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.240 [Formerly 740.660; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.305 [1967 c.359 §621; repealed by 1987
+c.490 §58] 
+
+   
+
+ GROUP BENEFITS 
+
+   
+
+       748.306
+Authority for group benefit certificates. A fraternal benefit society may provide in its laws,
+in addition to other benefits provided, for the issuance of group benefit
+certificates if on the date when it enters upon business it has admitted assets
+which are greater than the sum of its accrued liabilities and reserves under
+all of its certificates when valued according to standards required for
+certificates issued after June 8, 1967. [1987 c.490 §36] 
+
+   
+
+       748.309 Group
+membership; lodges. 
+(1) Group benefit certificates may provide for the payment of benefits in the
+event of the death, or death and disability, of: 
+
+       (a) Persons
+engaged in a common enterprise or employment. 
+
+       (b) The employees
+of any employer. 
+
+       (2) Group
+certificates may be issued with or without medical examination and without
+limitation as to age. 
+
+       (3) The society
+shall organize the persons or employees into a lodge or lodges with officers
+selected in the same manner as officers of other lodges and subject to the
+provisions of the laws of the society. 
+
+       (4) Not less than
+50 persons may be admitted to membership under one group without medical
+examination. [1987 c.490 §37] 
+
+   
+
+       748.310 [1967 c.359 §622; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.312
+Membership in lodges organized under ORS 748.309. If provided in the laws of the
+society, other persons may become members of a lodge organized under ORS
+748.309 subsequent to its organization and may be initiated into and hold
+membership in the lodge. Individual benefit certificates may be issued to them.
+The lodges shall in all other respects be subject to the laws of the society. [1987
+c.490 §40] 
+
+   
+
+       748.315 [1967 c.359 §623; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.316
+Payments for group benefits. 
+(1) The monthly or other payments to be made to the society on or for any group
+benefit certificate may be made by the employer, or by the employer and
+employees jointly, or as provided in the contract. 
+
+       (2) When the
+payments are made by the employer and the employees jointly and the benefits
+under the group certificate are offered to all eligible employees of the
+employer, not less than 75 percent of the employees must be included under the
+group certificate. [1987 c.490 §38] 
+
+   
+
+       748.319 Group
+certificates issued by foreign or alien society or by domestic society in
+foreign or alien jurisdiction. 
+(1) A group certificate, when issued in this state by any foreign or alien
+society, may contain, when issued, any provision required by the laws of the
+state or country under which the society is organized. 
+
+       (2) Group
+certificates issued in other states or countries by a domestic society may
+contain any provision required by the laws of the other state or country. [1987
+c.490 §39] 
+
+   
+
+       748.320 [1967 c.359 §624; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.322
+Continuation of membership in society after cancellation, discontinuance or
+nonrenewal of group certificate. 
+If any group certificate is canceled, discontinued or not renewed, or if any
+individual member of a group ceases to be a member of the group, the members of
+the group or any individual member who ceases to be a member of the group may
+be permitted to continue membership in the society for the same amount of
+protection at the required rate of monthly or other payment and in all other
+respects as provided in the laws of the society. [1987 c.490 §41] 
+
+   
+
+       748.325 [1967 c.359 §625; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.330 [1967 c.359 §626; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.335 [1967 c.359 §627; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.340 [1967 c.359 §628; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.345 [1967 c.359 §629; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.350 [1967 c.359 §630; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.355 [1967 c.359 §631; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.360 [1967 c.359 §632; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.365 [1967 c.359 §633; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.370 [1967 c.359 §634; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.375 [1967 c.359 §635; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.380 [1967 c.359 §636; repealed by 1987
+c.490 §58] 
+
+   
+
+ FINANCIAL PROVISIONS 
+
+   
+
+       748.401 Value
+of benefit and amount of options. 
+(1) For certificates issued prior to January 1, 1989, the value of every
+paid-up nonforfeiture benefit and the amount of any cash surrender value, loan
+or other option granted shall comply with the provisions of law applicable
+immediately prior to January 1, 1988. 
+
+       (2) For
+certificates issued on or after January 1, 1989, for which reserves are
+computed on the Commissioner’s 1941 Standard Ordinary Mortality Table, the
+Commissioner’s 1941 Standard Industrial Table, the Commissioner’s 1958 Standard
+Ordinary Mortality Table, the Commissioner’s 1980 Standard Mortality Table or
+any more recent table made applicable to life insurers, every paid-up
+nonforfeiture benefit and the amount of any cash surrender value, loan or other
+option granted may not be less than the corresponding amount ascertained in
+accordance with the laws of this state applicable to life insurers issuing
+policies containing like benefits based upon the tables. [1987 c.490 §21; 2005
+c.22 §498] 
+
+   
+
+       748.403
+Standards of valuation for certificates. (1) Standards of valuation for certificates issued
+prior to January 1, 1989, shall be those provided by the laws applicable
+immediately prior to January 1, 1988. 
+
+       (2) The minimum
+standards of valuation for certificates issued on or after January 1, 1989,
+shall be based on the following tables: 
+
+       (a) For
+certificates of life insurance, the Commissioner’s 1941 Standard Ordinary
+Mortality Table, the Commissioner’s 1941 Standard Industrial Mortality Table,
+the Commissioner’s 1958 Standard Ordinary Mortality Table, the Commissioner’s
+1980 Standard Ordinary Mortality Table or any more recent table made applicable
+to life insurers; or 
+
+       (b) For annuity
+and pure endowment certificates, for total and permanent disability benefits,
+for accidental death benefits and for noncancelable accident and health
+benefits, the tables that are authorized for use by life insurers in this
+state. 
+
+       (3) The tables
+referred to in subsection (2) of this section shall be under valuation methods
+and standards, including interest assumptions, in accordance with the laws of
+this state applicable to life insurers issuing policies containing like
+benefits. 
+
+       (4) The Director
+of the Department of Consumer and Business Services may accept other standards
+for valuation if the director finds that the reserves produced will not be less
+in the aggregate than reserves computed in accordance with the minimum valuation
+standard prescribed in subsection (2) of this section. The director may vary
+the standards of mortality applicable to all benefit contracts on substandard
+lives or other extra hazardous lives by any society authorized to do business
+in this state. 
+
+       (5) Any society,
+with the consent of the director of insurance of the state of domicile of the
+society and under conditions the director may impose, may establish and
+maintain reserves on its certificates in excess of the reserves required, but
+the contractual rights of any benefit member shall not be affected. [1987 c.490
+§26; 2005 c.22 §499] 
+
+   
+
+       748.405 [Formerly 740.810; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.406
+Financial statement; filing; fee; valuation. (1) Every society transacting business in this state
+shall annually file with the Director of the Department of Consumer and
+Business Services on or before March 1, unless the time has been extended by
+the director, a true statement of its financial condition, transactions and
+affairs for the preceding calendar year and shall pay the applicable fee
+established by the director. The statement shall be in general form and context
+as approved by the National Association of Insurance Commissioners for fraternal
+benefit societies and as supplemented by additional information required by the
+director. 
+
+       (2) As part of
+the annual statement required by subsection (1) of this section, on or before
+March 1, each society shall file with the director a valuation of its
+certificates in force on December 31 last preceding. The director may extend
+the time for filing the valuation for not more than two calendar months. The
+valuation shall be done in accordance with the standards specified in ORS
+748.403. The valuation and underlying data shall be certified by a qualified
+actuary or, at the expense of the society, verified by the actuary of the
+department of insurance of the state of domicile of the society. [1987 c.490 §27;
+1991 c.182 §14] 
+
+   
+
+       748.409 Assets
+of society; variable contracts. 
+(1) All assets shall be held, invested and disbursed for the use and benefit of
+the society and no member or beneficiary shall have or acquire individual
+rights or become entitled to any apportionment on the surrender of any part,
+except as provided in the benefit contract. 
+
+       (2) A society may
+create, maintain, invest, disburse and apply any special fund or funds
+necessary to carry out any purpose permitted by the laws of the society. 
+
+       (3) Pursuant to
+resolution of its supreme governing body a society may: 
+
+       (a) Establish and
+operate one or more separate accounts and issue contracts on a variable basis,
+subject to all the provisions of law regulating life insurers establishing
+accounts and issuing contracts; 
+
+       (b) To the extent
+the society deems it necessary in order to comply with any applicable federal
+or state laws, adopt special procedures for the conduct of the business and
+affairs of a separate account; 
+
+       (c) For persons
+having beneficial interest therein, provide special voting and other rights,
+including without limitation special rights and procedures relating to
+investment policy, investment advisory services, selection of certified public
+accounts and selection of a committee to manage the business and affairs of the
+account; and 
+
+       (d) Issue
+contracts on a variable basis to which ORS 748.211 (2) and (4) shall not apply.
+[1987 c.490 §23] 
+
+   
+
+       748.410 [Formerly 740.820; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.412
+Investment of funds. 
+A society shall invest its funds only in investments that are authorized by the
+laws of this state for the investment of assets of life insurers and subject to
+the limitations thereon. Any foreign or alien society permitted or seeking to
+do business in this state which invests its funds in accordance with the laws
+of the state, district, territory, country or province in which it is
+incorporated, shall be held to meet the requirements of this section for the
+investment of funds. [1987 c.490 §22] 
+
+   
+
+       748.414 Funds
+exempt from certain taxes. 
+Every society organized or licensed under this chapter is hereby declared to be
+a charitable and benevolent institution, and all of its funds shall be exempt
+from all and every state, county, district, municipal and school tax, other
+than taxes on real estate and office equipment. [1987 c.490 §24] 
+
+   
+
+       748.415 [Formerly 740.840; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.420 [Formerly 740.850; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.425 [Formerly 740.860; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.430 [1967 c.359 §642; repealed by 1987
+c.490 §58] 
+
+   
+
+ ENFORCEMENT 
+
+   
+
+       748.501
+Examination. (1)
+The Director of the Department of Consumer and Business Services, or any person
+the director may appoint, may examine any domestic, foreign or alien society
+transacting or applying for admission to transact business in this state in the
+same manner as authorized for examination of domestic, foreign or alien
+insurers. Requirements of notice and an opportunity to respond before findings
+are made public as provided in the laws regulating insurers shall also be
+applicable to the examination of societies. 
+
+       (2) The expense
+of each examination and of each valuation, including compensation and actual
+expense of examiners, shall be paid by the society examined or whose
+certificates are valued, upon statements furnished by the director. [1987 c.490
+§29] 
+
+   
+
+       748.503
+Investigation of society; notice of deficiencies; action by Attorney General;
+hearing. (1) The
+Director of the Department of Consumer and Business Services shall notify the
+society of any deficiency or deficiencies, and state in writing the reasons for
+dissatisfaction, when the director, upon investigation, finds that a domestic
+society: 
+
+       (a) Has exceeded
+its powers; 
+
+       (b) Has failed to
+comply with any provisions of this chapter; 
+
+       (c) Is not
+fulfilling its contracts in good faith; 
+
+       (d) Has a
+membership of less than 400 after an existence of one year or more; 
+
+       (e) Is conducting
+business fraudulently or in a manner hazardous to its members, creditors, the
+public or the business; or 
+
+       (f) Has become
+impaired. 
+
+       (2) The director
+shall at once issue a written notice to the society requiring that the
+deficiency or deficiencies be corrected. After notice, the society shall have
+30 days in which to comply with the director’s request for correction, and if
+the society fails to comply, the director shall notify the society of findings
+of noncompliance and require the society to show cause on a date named why it
+should not be enjoined from carrying on any business until the violation
+complained of has been corrected, or why an action in quo warranto should not
+be commenced against the society. 
+
+       (3) If on the
+date named the society does not present good and sufficient reasons why it
+should not be enjoined or why the action should not be commenced, the director
+may present the facts relating thereto to the Attorney General who shall, if
+the Attorney General deems the circumstances warrant, commence an action to
+enjoin the society from transacting business or an action in quo warranto. 
+
+       (4) The court
+shall notify the officers of the society of a hearing. If after a full hearing
+it appears that the society should be enjoined or liquidated or a receiver
+appointed, the court shall enter the necessary order. No society so enjoined
+shall have the authority to do business until: 
+
+       (a) The director
+finds that the violation complained of has been corrected; 
+
+       (b) The costs of
+the action have been paid by the society if the court finds that the society
+was in default as charged; 
+
+       (c) The court has
+dissolved its injunction; and 
+
+       (d) The director
+has reinstated the certificate of authority. 
+
+       (5) If the court
+orders the society liquidated, it shall be enjoined from carrying on any
+further business, and the receiver of the society shall proceed at once to take
+possession of the books, papers, money and other assets of the society and,
+under the direction of the court, proceed at once to close the affairs of the
+society and to distribute its funds to those entitled to them. 
+
+       (6) No action
+under this section shall be recognized in any court of this state unless the
+action is brought by the Attorney General on request of the director. Whenever
+a receiver is to be appointed for a domestic society, the court shall appoint
+the director as the receiver. 
+
+       (7) The
+provisions of this section relating to hearing by the director, action by the
+Attorney General at the request of the director, hearing by the court,
+injunction and receivership shall be applicable to a society which voluntarily
+determines to discontinue business. [1987 c.490 §31] 
+
+   
+
+       748.505 [1967 c.359 §643; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.506
+Investigation of foreign or alien society; notice of deficiencies; revocation
+or suspension of authority. 
+(1) The Director of the Department of Consumer and Business Services shall
+notify the society of any deficiency or deficiencies, and state in writing the
+reasons for dissatisfaction, when the director, upon investigation, finds that
+a foreign or alien society transacting or applying to transact business in this
+state: 
+
+       (a) Has exceeded
+its powers; 
+
+       (b) Has failed to
+comply with any of the provisions of this chapter; 
+
+       (c) Is not
+fulfilling its contracts in good faith; or 
+
+       (d) Is conducting
+its business fraudulently or in a manner hazardous to its members, creditors or
+the public. 
+
+       (2) The director
+shall at once issue a written notice to the society requiring that the
+deficiency or deficiencies be corrected. After notice, the society shall have
+30 days in which to comply with the director’s request for correction, and if
+the society fails to comply, the director shall notify the society of findings
+of noncompliance and require the society to show cause on a date named why its
+certificate of authority should not be suspended, revoked or refused. If on the
+named date the society does not present good and sufficient reason why its
+certificate of authority should not be suspended, revoked or refused, the
+director may suspend or refuse the certificate of authority until satisfactory
+evidence is furnished to the director that the suspension or refusal should be
+withdrawn or the director may revoke the certificate of authority of the
+society. 
+
+       (3) Nothing
+contained in this section shall be taken or construed as preventing any foreign
+or alien society from continuing in good faith all contracts made in this state
+during the time the foreign or alien society was legally authorized to transact
+business as provided in this chapter. [1987 c.490 §32; 1991 c.182 §15] 
+
+   
+
+       748.509
+Validity of petition for injunction. 
+No application or petition for injunction against any domestic, foreign or
+alien society, or lodge thereof, shall be recognized in any court of this state
+unless made by the Attorney General upon request of the Director of the
+Department of Consumer and Business Services. [1987 c.490 §33] 
+
+   
+
+       748.510 [1967 c.359 §644; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.515 [1967 c.359 §645; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.520 [1967 c.359 §646; 1981 c.609 §22;
+repealed by 1987 c.490 §58] 
+
+   
+
+       748.525 [1967 c.359 §647; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.530 [1967 c.359 §648; 1975 c.324 §1;
+repealed by 1987 c.490 §58] 
+
+   
+
+       748.535 [1967 c.359 §649; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.540 [1967 c.359 §650; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.545 [Formerly 740.080; repealed by
+1987 c.490 §58] 
+
+   
+
+       748.550 [1967 c.359 §652; repealed by 1987
+c.490 §58] 
+
+   
+
+       748.555 [1967 c.359 §653; 1971 c.231 §40;
+1973 c.515 §4; 1973 c.613 §3a; 1975 c.338 §3; 1975 c.689 §3; 1979 c.708 §10;
+1981 c.649 §21; 1987 c.411 §11; 1987 c.739 §4; 1987 c.838 §15; repealed by 1987
+c.490 §58] 
+
+   
+
+ EXEMPTIONS; RELATION TO
+OTHER LAW 
+
+   
+
+       748.601
+Exemptions from chapter. 
+(1) Except as provided in subsection (2) of this section, this chapter does not
+affect or apply to: 
+
+       (a) Grand or
+subordinate lodges of orders, societies or associations that do business in
+this state and that provide benefits exclusively through local or subordinate
+lodges; 
+
+       (b) Orders,
+societies or associations that admit to membership only persons that are
+engaged in one or more crafts or hazardous occupations, in the same or similar
+lines of business, insuring only the members of the orders, societies or
+associations and the families of the members, and any societies that are
+auxiliary to the orders, societies or associations; 
+
+       (c) Domestic
+societies that limit membership to employees of a particular city or town,
+designated firm, business house or corporation and that provide for a death
+benefit of not more than $400 or disability benefits of not more than $350 to
+any person in any one year; 
+
+       (d) Domestic
+societies or associations with a purely religious, charitable or benevolent
+purpose that provide for a death benefit of not more than $400 or for
+disability benefits of not more than $350 to any one person in any one year; or 
+
+       (e) An
+association, including but not limited to a fraternal benefit society, that was
+organized before 1880, the members of which are or were members of the Armed
+Forces of the United States, and that has as a principal purpose providing
+insurance and other benefits to the association’s members and the dependents
+and beneficiaries of the association’s members. 
+
+       (2)(a) A society
+or association described in subsection (1)(c) or (d) of this section that
+provides for death or disability benefits for which benefit certificates are
+issued is not exempt from and shall comply with the provisions of this chapter. 
+
+       (b) A society or
+association described in subsection (1)(d) of this section that has more than
+1,000 members is not exempt from and shall comply with the provisions of this
+chapter. 
+
+       (3) Except for an
+order, society or association that is described in subsection (1)(b) of this
+section, an order, society or association that, by the provisions of this
+section, is exempt from the requirements of this chapter may not give or allow,
+or promise to give or allow, to any person any compensation for procuring new
+members. 
+
+       (4) Every society
+that provides for benefits in case of death or disability that results solely
+from accident, and that does not obligate the society to pay natural death or
+sick benefits, has all of the privileges and is subject to all the applicable
+provisions and regulations of this chapter, except that the provisions relating
+to medical examination, valuations of benefit certificates and incontestability
+do not apply to the society. 
+
+       (5) The Director
+of the Department of Consumer and Business Services may require from any
+society or association, by examination or otherwise, any information that
+enables the director to determine whether the society or association is exempt
+from the provisions of this chapter. 
+
+       (6) An
+association that is exempt under subsection (1)(e) of this section shall prove
+to the director’s satisfaction that the association is exempt from federal
+taxation under section 501(c) of the Internal Revenue Code. An association that
+is exempt under subsection (1)(e) of this section is subject to the following
+provisions: 
+
+       (a) On or before
+June 1 of each calendar year, the association shall file with the director a
+true and complete statement of the association’s financial condition,
+transactions and business affairs for the preceding calendar year that is
+audited by an independent certified public accountant and accompanied by an
+actuarial opinion, as provided in ORS 733.304. For purposes of this paragraph,
+the director accepts and approves the statement and the opinion unless the
+director issues an order to disapprove the statement or opinion within 30 days
+after the association submits the statement and opinion. 
+
+       (b) The director
+may require the association to file a financial statement each quarter or at
+other intervals the director specifies in response to factors or trends that
+affect insurers that transact a particular class or classes of insurance or
+because of changes in the management or financial condition of the association. 
+
+       (c) The director
+may order the association to increase the association’s capital or surplus to
+amounts the director deems sufficient to meet the association’s liabilities, if
+the director has reason to believe that the association does not have
+sufficient capital or surplus based on eligible assets in accordance with ORS
+chapter 733. The director may order an association to cease and desist from
+assuming any additional liabilities in this state until the association
+complies with the director’s order to increase the association’s capital or
+surplus. 
+
+       (d) The
+association shall include with each life insurance policy or annuity that the
+association issues a notice in bold type or otherwise clear and conspicuous
+writing a notice that reads: 
+
+ ______________________________________________________________________________ 
+
+       This policy is
+issued by an association that does not have a certificate of authority from the
+insurance division of the Department of Consumer and Business Services. If the
+association that issued this policy becomes insolvent, members or claimants
+under this policy are not eligible for insurance guaranty fund protection under
+Oregon law (ORS 734.550). 
+
+ ______________________________________________________________________________ 
+
+       (7) Societies and
+associations that are exempt under the provisions of this section are also
+exempt from all other provisions of the insurance laws of this state, except as
+provided in ORS 731.042. [1987 c.490 §44; 1991 c.182 §16; 2003 c.802 §176; 2015
+c.460 §1] 
+
+   
+
+       748.603
+Relationship to other insurance laws. 
+(1) Societies are governed by this chapter and are exempt from all other
+provisions of the insurance laws of this state unless expressly designated
+therein, or unless specifically made applicable by this chapter. 
+
+       (2) ORS 705.137,
+705.139, 731.004 to 731.026, 731.036 to 731.136, 731.146 to 731.156, 731.162,
+731.166, 731.170, 731.216 to 731.268, 731.296, 731.324, 731.328, 731.354,
+731.356, 731.358, 731.378, 731.380, 731.381, 731.382, 731.385, 731.386,
+731.390, 731.394, 731.396, 731.398, 731.402, 731.406, 731.410, 731.422 to
+731.434, 731.446 to 731.454, 731.488, 731.504, 731.508, 731.509, 731.510,
+731.511, 731.512, 731.592, 731.594, 731.730, 731.731, 731.735, 731.737,
+731.750, 731.804, 731.844 to 731.992, 731.870, 732.245, 732.250, 732.320,
+732.325, 733.010 to 733.050, 733.080, 733.140 to 733.210, 733.220, 733.510,
+733.652 to 733.658, 733.730 to 733.750, 742.001, 742.003, 742.005, 742.007,
+742.009, 742.013 to 742.021, 742.028, 742.038, 742.041, 742.046, 742.051, 742.150
+to 742.162 and 744.700 to 744.740 and ORS chapters 734, 743, 743A and 743B
+apply to fraternal benefit societies to the extent not inconsistent with the
+express provisions of this chapter. 
+
+       (3) For the
+purposes of this subsection and subsection (2) of this section, fraternal
+benefit societies shall be deemed insurers, and benefit certificates issued by
+fraternal benefit societies shall be deemed policies. 
+
+       (4) Every society
+authorized to do business in this state shall be subject to the provisions of
+ORS chapter 746 relating to unfair trade practices. However, nothing in ORS
+chapter 746 shall be construed as applying to or affecting the right of any
+society to determine its eligibility requirements for membership, or be
+construed as applying to or affecting the offering of benefits exclusively to
+members or persons eligible for membership in the society by a subsidiary
+corporation or affiliated organization of the society. [1987 c.490 §§25,35,45;
+1987 c.739 §4a; 1987 c.838 §15a; 1989 c.255 §12; 1989 c.474 §3; 1989 c.1022 §10;
+1991 c.182 §17; 1991 c.401 §32; 1991 c.673 §7; 1991 c.812 §23; 1993 c.447 §117;
+1995 c.30 §12; 1995 c.638 §8; 1999 c.633 §6; 2001 c.377 §19; 2003 c.802 §177;
+2007 c.71 §243; 2008 c.22 §4; 2013 c.698 §32] 
+
+   
+
+       748.605
+Insurance against risk of loss under less than fully insured employee health
+benefit plan. 
+Insurance issued or delivered by a fraternal benefit society against the risk
+of economic loss assumed under a less than fully insured employee health
+benefit plan is subject to ORS 742.065. Such insurance is subject to ORS
+748.603 but is otherwise not subject to the provisions of ORS chapter 748. [1993
+c.649 §4] 
+
+   
+
+ PENALTIES 
+
+   
+
+       748.990
+Penalties. (1) Any
+person who willfully makes a false or fraudulent statement in or relating to an
+application for membership, or for the purpose of obtaining money from or a
+benefit in any society, shall upon conviction be fined not less than $100 nor
+more than $500, imprisoned in the county jail for not less than 30 days nor
+more than one year, or both. 
+
+       (2) Any person
+who willfully makes a false or fraudulent statement in any verified report or
+declaration under oath required or authorized by this chapter, or of any
+material fact or thing contained in a sworn statement concerning the death or
+disability of an insured for the purpose of procuring payment of a benefit
+named in the certificate, shall be guilty of perjury and shall be subject to
+the penalties prescribed by law. 
+
+       (3) Any person
+who solicits membership for, or in any manner assists in procuring membership
+in, any society not licensed to do business in this state commits a Class C
+violation. 
+
+       (4) Any person
+guilty of a willful violation of, or neglect or refusal to comply with, the
+provisions of this chapter for which a penalty is not otherwise prescribed,
+commits a Class C violation. [1987 c.490 §43; 1999 c.1051 §222] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

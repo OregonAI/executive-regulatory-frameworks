@@ -397,14 +397,19 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 548 | Provisions Applicable Both to Drainage Districts and to Irrigation | 46 | 46 |
 | 549 | Drainage and Flood Control Generally | 39 | 39 |
 | 55 | Appeals | 27 | 27 |
+| 550 | Urban Flood Safety and Water Quality District | 32 | 32 |
+| 551 | Diking Districts | 18 | 18 |
 | 552 | Water Improvement Districts | 46 | 46 |
 | 553 | Water Control Districts | 58 | 58 |
 | 554 | Corporations for Irrigation, Drainage, Water Supply or Flood Control | 69 | 69 |
+| 555 | Reclamation Projects; Sand Control | 37 | 37 |
+| 558 | Weather Modification | 39 | 39 |
 | 56 | Duties of Secretary of State | 24 | 24 |
 | 561 | State Department of Agriculture | 75 | 75 |
 | 564 | Wildflowers; Threatened or Endangered Plants | 14 | 13 |
 | 565 | Fairs and Exhibits | 39 | 39 |
 | 566 | Extension and Field Work; Rural Rehabilitation | 9 | 9 |
+| 567 | Experiment Stations | 28 | 28 |
 | 568 | Soil and Water Conservation; Agricultural Water Management | 80 | 79 |
 | 569 | Weed Control | 35 | 34 |
 | 570 | Plant Pest Control; Invasive Species | 68 | 68 |
@@ -417,6 +422,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 583 | Milk Marketing, Production and Distribution (Former Provisions) | 0 | 0 |
 | 585 | Produce Dealers (Former Provisions) | 0 | 0 |
 | 586 | Warehouses | 37 | 36 |
+| 587 | Storage of Grain as Basis of Farm Credit | 15 | 14 |
 | 59 | Securities Regulation | 79 | 79 |
 | 596 | Disease Control Generally | 50 | 50 |
 | 599 | Livestock Auction Markets; Stockyards; Auction Sales | 39 | 39 |
@@ -450,6 +456,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 646A | Trade Regulation | 267 | 262 |
 | 647 | Trademarks and Service Marks; Music Royalties | 32 | 32 |
 | 648 | Assumed Business Names | 21 | 21 |
+| 649 | Insignia and Names of Organizations | 7 | 7 |
 | 65 | Nonprofit Corporations | 196 | 194 |
 | 650 | Franchise Transactions | 62 | 62 |
 | 651 | Bureau of Labor and Industries | 23 | 22 |
@@ -465,6 +472,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 659 | Miscellaneous Prohibitions Relating to Employment and Discrimination | 19 | 19 |
 | 659A | Unlawful Discrimination in Employment, Public Accommodations and Real Property Transactions; Administrative and Civil Enforcement | 160 | 158 |
 | 660 | Apprenticeship and Training; Workforce Development; Volunteerism | 87 | 86 |
+| 661 | Organized Labor; Union Labels | 13 | 13 |
 | 662 | Labor Disputes | 28 | 28 |
 | 663 | Labor Relations Generally | 50 | 50 |
 | 67 | Partnerships; Limited Liability Partnerships | 86 | 84 |
@@ -498,6 +506,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 695 | Watch Dealers | 5 | 5 |
 | 696 | Real Estate and Escrow Activities | 117 | 117 |
 | 697 | Collection Agencies; Check-Cashing Businesses; Debt Management Service Providers | 57 | 57 |
+| 698 | Auctions | 3 | 3 |
 | 699 | Innkeepers and Hotelkeepers | 9 | 9 |
 | 7 | Records and Files of Courts | 18 | 18 |
 | 70 | Limited Partnerships | 83 | 83 |
@@ -512,6 +521,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 708A | Regulation of Institutions Generally | 93 | 93 |
 | 709 | Regulation of Trust Business | 45 | 45 |
 | 71 | General Provisions for Uniform Commercial Code | 24 | 24 |
+| 711 | Merger; Conversion; Share Exchange; Acquisition; Liquidation; Insolvency | 90 | 90 |
 | 713 | Out-of-State Banks and Extranational Institutions | 25 | 25 |
 | 714 | Branch Banking; Automated Teller Machines | 26 | 25 |
 | 715 | Bank Holding Companies; Financial Holding Companies | 7 | 7 |
@@ -521,6 +531,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 722 | Savings Associations (Former Provisions) | 0 | 0 |
 | 723 | Credit Unions | 117 | 116 |
 | 725 | Consumer Finance | 42 | 42 |
+| 725A | Short-Term Loans and Student Loan Servicing | 39 | 39 |
 | 726 | Pawnbrokers | 44 | 44 |
 | 73 | Negotiable Instruments | 68 | 68 |
 | 731 | Administration and General Provisions | 200 | 199 |
@@ -537,8 +548,11 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 743B | Health Benefit Plans: Individual and Group | 104 | 104 |
 | 744 | Insurance Producers; Life Settlement Providers, Brokers and Contracts; Adjusters; Consultants; Third Party Administrators; Reinsurance Intermediaries; Limited L | 148 | 148 |
 | 746 | Trade Practices | 103 | 103 |
+| 748 | Fraternal Benefit Societies | 42 | 42 |
 | 75 | Letters of Credit | 18 | 18 |
 | 750 | Health Care Service Contractors; Multiple Employer Welfare Arrangements; Legal Expense Organizations | 54 | 54 |
+| 751 | Universal Health Care System | 3 | 3 |
+| 752 | Professional Liability Funds | 6 | 6 |
 | 756 | Public Utility Commission | 56 | 55 |
 | 757 | Utility Regulation Generally | 236 | 236 |
 | 758 | Utility Rights of Way and Territory Allocation; Cogeneration | 58 | 58 |
@@ -605,7 +619,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 97 | Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts | 149 | 149 |
 | 98 | Lost, Unclaimed or Abandoned Property; Vehicle Towing | 97 | 97 |
 | 99 | Property Removed by High Water | 6 | 6 |
-| **all** | | **38682** | **38457** |
+| **all** | | **39054** | **38828** |
 
 Per-section numbers/titles/paths: [`_meta/catalog/ors.yml`](../_meta/catalog/ors.yml).
 Sections marked `not_sliceable` there have no body text in the chapter HTML

@@ -107530,6 +107530,222 @@ chapters:
     title: Appeal from circuit court
     status: ingested
     path: statutes/ors-55.335.md
+- chapter: '550'
+  title: Urban Flood Safety and Water Quality District
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors550.html
+  sections:
+  - number: '550.150'
+    title: Purpose of ORS 550.150 to 550.410
+    status: ingested
+    path: statutes/ors-550.150.md
+  - number: '550.160'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-550.160.md
+  - number: '550.170'
+    title: Urban flood safety and water quality district; boundaries; vested water rights unimpaired
+    status: ingested
+    path: statutes/ors-550.170.md
+  - number: '550.180'
+    title: District electors and landowners authorized to contest validity of board proceeding, action,
+      order, contract, decision or enactment
+    status: ingested
+    path: statutes/ors-550.180.md
+  - number: '550.190'
+    title: Initial district board
+    status: ingested
+    path: statutes/ors-550.190.md
+  - number: '550.195'
+    title: Board of directors
+    status: ingested
+    path: statutes/ors-550.195.md
+  - number: '550.196'
+    title: Terms of first directors
+    status: ingested
+    path: statutes/ors-550.196.md
+  - number: '550.200'
+    title: Organizational meeting of board of directors; oath; officers; meetings; quorum
+    status: ingested
+    path: statutes/ors-550.200.md
+  - number: '550.210'
+    title: Duties of board of directors
+    status: ingested
+    path: statutes/ors-550.210.md
+  - number: '550.220'
+    title: Stakeholder advisory committees
+    status: ingested
+    path: statutes/ors-550.220.md
+  - number: '550.230'
+    title: General powers of district
+    status: ingested
+    path: statutes/ors-550.230.md
+  - number: '550.240'
+    title: Eminent domain
+    status: ingested
+    path: statutes/ors-550.240.md
+  - number: '550.250'
+    title: District activities as urban services
+    status: ingested
+    path: statutes/ors-550.250.md
+  - number: '550.260'
+    title: Plan for watershed and habitat improvement and landscape resilience; decennial review
+    status: ingested
+    path: statutes/ors-550.260.md
+  - number: '550.270'
+    title: Construction of district works
+    status: ingested
+    path: statutes/ors-550.270.md
+  - number: '550.280'
+    title: District contracts subject to Public Contracting Code
+    status: ingested
+    path: statutes/ors-550.280.md
+  - number: '550.290'
+    title: Construction on public land or right of way or along public watercourse
+    status: ingested
+    path: statutes/ors-550.290.md
+  - number: '550.300'
+    title: Financing construction, operation or maintenance of district works; local option taxes prohibited
+    status: ingested
+    path: statutes/ors-550.300.md
+  - number: '550.310'
+    title: Assessments against benefited lands for district works; apportionment; hearing; works bonds
+    status: ingested
+    path: statutes/ors-550.310.md
+  - number: '550.312'
+    title: Annual charge payable by benefited lands for district works; apportionment; assessment and
+      collection
+    status: ingested
+    path: statutes/ors-550.312.md
+  - number: '550.314'
+    title: Fee on cities and counties for district operations and works; amount based on population; indexing;
+      local charge to pay fee
+    status: ingested
+    path: statutes/ors-550.314.md
+  - number: '550.320'
+    title: Ad valorem property taxes; Local Budget Law applicable
+    status: ingested
+    path: statutes/ors-550.320.md
+  - number: '550.330'
+    title: Service and user charges for district works; collection agreements; revenue bonds
+    status: ingested
+    path: statutes/ors-550.330.md
+  - number: '550.340'
+    title: General obligation bonds
+    status: ingested
+    path: statutes/ors-550.340.md
+  - number: '550.350'
+    title: Loan agreements with state and federal agencies; enforcement by order of circuit court; filing
+      of loan certificate
+    status: ingested
+    path: statutes/ors-550.350.md
+  - number: '550.360'
+    title: Dissolution of drainage or water control district or corporation; transfer of assets and liabilities
+      to district; debt distribution plan; zone committee for continuity
+    status: ingested
+    path: statutes/ors-550.360.md
+  - number: '550.362'
+    title: Continuity of initial district board membership following dissolution of district or corporation
+      under ORS 550.360
+    status: ingested
+    path: statutes/ors-550.362.md
+  - number: '550.370'
+    title: Notice requirements
+    status: ingested
+    path: statutes/ors-550.370.md
+  - number: '550.380'
+    title: Election laws applicable
+    status: ingested
+    path: statutes/ors-550.380.md
+  - number: '550.390'
+    title: Waterway pollution; penalty
+    status: ingested
+    path: statutes/ors-550.390.md
+  - number: '550.400'
+    title: Civil liability for remediation costs
+    status: ingested
+    path: statutes/ors-550.400.md
+  - number: '550.410'
+    title: Additional cause of action for certain impairments of district works
+    status: ingested
+    path: statutes/ors-550.410.md
+- chapter: '551'
+  title: Diking Districts
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors551.html
+  sections:
+  - number: '551.010'
+    title: Use of “lands” in chapter; railroads subject to taxation; duties of surveyor and engineer
+    status: ingested
+    path: statutes/ors-551.010.md
+  - number: '551.020'
+    title: Petition for formation of diking district; bond
+    status: ingested
+    path: statutes/ors-551.020.md
+  - number: '551.030'
+    title: Publication of petition; order to show cause; viewers to investigate proposed works
+    status: ingested
+    path: statutes/ors-551.030.md
+  - number: '551.040'
+    title: Duties of surveyors and viewers
+    status: ingested
+    path: statutes/ors-551.040.md
+  - number: '551.050'
+    title: Hearing; postponement; decision of court
+    status: ingested
+    path: statutes/ors-551.050.md
+  - number: '551.060'
+    title: Apportionment of cost of dikes and dams
+    status: ingested
+    path: statutes/ors-551.060.md
+  - number: '551.070'
+    title: Advertisement for bids; contracts; bond; personal subscriptions; modification of plan
+    status: ingested
+    path: statutes/ors-551.070.md
+  - number: '551.080'
+    title: Application for payment of assessments in installments
+    status: ingested
+    path: statutes/ors-551.080.md
+  - number: '551.090'
+    title: Meetings of landowners; procedure; selection of advisory board and superintendent
+    status: ingested
+    path: statutes/ors-551.090.md
+  - number: '551.100'
+    title: Superintendent; compensation; powers and duties; estimate of maintenance costs as basis for
+      annual tax levy
+    status: ingested
+    path: statutes/ors-551.100.md
+  - number: '551.110'
+    title: Deposit of district funds; payment of claims
+    status: ingested
+    path: statutes/ors-551.110.md
+  - number: '551.120'
+    title: Damages; recovery by landowner
+    status: ingested
+    path: statutes/ors-551.120.md
+  - number: '551.130'
+    title: Organization of repair and maintenance district for land already diked; levy in proportion
+      to benefits; credit for original cost
+    status: ingested
+    path: statutes/ors-551.130.md
+  - number: '551.140'
+    title: Realignment of dikes by landowner
+    status: ingested
+    path: statutes/ors-551.140.md
+  - number: '551.150'
+    title: Vacation of right of way; reversion to original owner
+    status: ingested
+    path: statutes/ors-551.150.md
+  - number: '551.160'
+    title: County authority as to dikes and dams
+    status: ingested
+    path: statutes/ors-551.160.md
+  - number: '551.170'
+    title: Appeals from county court
+    status: ingested
+    path: statutes/ors-551.170.md
+  - number: '551.180'
+    title: Dissolution conditions and procedure
+    status: ingested
+    path: statutes/ors-551.180.md
 - chapter: '552'
   title: Water Improvement Districts
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors552.html
@@ -108250,6 +108466,330 @@ chapters:
     title: Articles of amendment; filing; effective date
     status: ingested
     path: statutes/ors-554.590.md
+- chapter: '555'
+  title: Reclamation Projects; Sand Control
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors555.html
+  sections:
+  - number: '555.010'
+    title: Acceptance by state of conditions of Carey Act and grants thereunder
+    status: ingested
+    path: statutes/ors-555.010.md
+  - number: '555.020'
+    title: Water Resources Commission to manage lands; general powers; transfer of powers of former state
+      boards
+    status: ingested
+    path: statutes/ors-555.020.md
+  - number: '555.030'
+    title: Duties of Water Resources Commission
+    status: ingested
+    path: statutes/ors-555.030.md
+  - number: '555.040'
+    title: Powers of Water Resources Commission as to contracts with Secretary of Interior for lands to
+      be reclaimed; lien for expenses
+    status: ingested
+    path: statutes/ors-555.040.md
+  - number: '555.050'
+    title: Application to Water Resources Commission for lands to be reclaimed; selection and withdrawal
+      of lands
+    status: ingested
+    path: statutes/ors-555.050.md
+  - number: '555.060'
+    title: Deposit by applicant; disposition of money
+    status: ingested
+    path: statutes/ors-555.060.md
+  - number: '555.070'
+    title: Contract for reclamation of land; contents; examination and report by Water Resources Commission;
+      sale of water right to settlers; bond of contractor; deposit to secure purchasers of water rights
+    status: ingested
+    path: statutes/ors-555.070.md
+  - number: '555.080'
+    title: Reclamation works; control by contractor; transfer to purchasers of water rights
+    status: ingested
+    path: statutes/ors-555.080.md
+  - number: '555.090'
+    title: Time for construction of works; date of commencement; securing of water rights; cessation of
+      work as causing forfeiture; extension of time
+    status: ingested
+    path: statutes/ors-555.090.md
+  - number: '555.100'
+    title: Nonperformance by contractor; forfeiture; notice of forfeiture; sale of incomplete works; disposal
+      of proceeds
+    status: ingested
+    path: statutes/ors-555.100.md
+  - number: '555.110'
+    title: State’s liability
+    status: ingested
+    path: statutes/ors-555.110.md
+  - number: '555.120'
+    title: Conditions precedent to entry onto land and sale of water rights; form of applications for
+      purchase or for release of lien; “date of reclamation”
+    status: ingested
+    path: statutes/ors-555.120.md
+  - number: '555.130'
+    title: Application to enter; contract for purchase of water rights and release of lien; payment for
+      land
+    status: ingested
+    path: statutes/ors-555.130.md
+  - number: '555.140'
+    title: Deeds to land; execution; form; title conveyed; record; preservation of copies; copies as evidence
+    status: ingested
+    path: statutes/ors-555.140.md
+  - number: '555.150'
+    title: Rules
+    status: ingested
+    path: statutes/ors-555.150.md
+  - number: '555.160'
+    title: Report of work, expenditures and condition of funds; recommendations for legislation
+    status: ingested
+    path: statutes/ors-555.160.md
+  - number: '555.170'
+    title: Oregon Irrigation Fund
+    status: ingested
+    path: statutes/ors-555.170.md
+  - number: '555.171'
+    title: Transfers from Oregon Irrigation Fund to General Fund
+    status: ingested
+    path: statutes/ors-555.171.md
+  - number: '555.180'
+    title: Payment for irrigation of acreage in excess of contract; notice by Water Resources Commission;
+      price per acre
+    status: ingested
+    path: statutes/ors-555.180.md
+  - number: '555.190'
+    title: Notice to be in writing; service; noncompliance; effect
+    status: ingested
+    path: statutes/ors-555.190.md
+  - number: '555.310'
+    title: Reclamation of lands in Tumalo Project; contracts for
+    status: ingested
+    path: statutes/ors-555.310.md
+  - number: '555.320'
+    title: Project manager; duties and authority
+    status: ingested
+    path: statutes/ors-555.320.md
+  - number: '555.330'
+    title: Rules
+    status: ingested
+    path: statutes/ors-555.330.md
+  - number: '555.340'
+    title: Water rights; sale price; lien on lands; lien list; expenditures of state; repayment from sale
+      of lands and rights; replacement or surrender of contracts with Columbia Southern Irrigation Company
+    status: ingested
+    path: statutes/ors-555.340.md
+  - number: '555.350'
+    title: Increase of lien against unsold land; reduction of amount due to state
+    status: ingested
+    path: statutes/ors-555.350.md
+  - number: '555.360'
+    title: Arrangements to settle, cultivate and reclaim Carey Act lands; contract provisions; sale of
+      water rights to private lands; rules; fees
+    status: ingested
+    path: statutes/ors-555.360.md
+  - number: '555.370'
+    title: Cancellation of contract upon default
+    status: ingested
+    path: statutes/ors-555.370.md
+  - number: '555.380'
+    title: Tumalo Project Fund; rules
+    status: ingested
+    path: statutes/ors-555.380.md
+  - number: '555.390'
+    title: Transfer of state’s interest to irrigation districts or to federal government
+    status: ingested
+    path: statutes/ors-555.390.md
+  - number: '555.400'
+    title: Preferred purchasers
+    status: ingested
+    path: statutes/ors-555.400.md
+  - number: '555.410'
+    title: Repayment of appropriation from receipts of sale of lands; expenditures
+    status: ingested
+    path: statutes/ors-555.410.md
+  - number: '555.500'
+    title: Formation; purpose; general powers
+    status: ingested
+    path: statutes/ors-555.500.md
+  - number: '555.507'
+    title: Board of directors; meetings; quorum
+    status: ingested
+    path: statutes/ors-555.507.md
+  - number: '555.514'
+    title: Qualifications to serve on board; initial meeting; initial terms of board members
+    status: ingested
+    path: statutes/ors-555.514.md
+  - number: '555.521'
+    title: Finances; records
+    status: ingested
+    path: statutes/ors-555.521.md
+  - number: '555.528'
+    title: Authority to issue general obligation bonds
+    status: ingested
+    path: statutes/ors-555.528.md
+  - number: '555.535'
+    title: Application of ORS chapter 255
+    status: ingested
+    path: statutes/ors-555.535.md
+- chapter: '558'
+  title: Weather Modification
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors558.html
+  sections:
+  - number: '558.010'
+    title: Definitions for ORS 558.010 to 558.140
+    status: ingested
+    path: statutes/ors-558.010.md
+  - number: '558.020'
+    title: Purpose of ORS 558.010 to 558.140
+    status: ingested
+    path: statutes/ors-558.020.md
+  - number: '558.030'
+    title: Artificial weather modification prohibited without license
+    status: ingested
+    path: statutes/ors-558.030.md
+  - number: '558.040'
+    title: Application for license; fee
+    status: ingested
+    path: statutes/ors-558.040.md
+  - number: '558.050'
+    title: Proof of financial responsibility
+    status: ingested
+    path: statutes/ors-558.050.md
+  - number: '558.052'
+    title: Requirements for bonds used to meet financial responsibility
+    status: ingested
+    path: statutes/ors-558.052.md
+  - number: '558.053'
+    title: Judgment against principal on bond; action against surety; satisfaction
+    status: ingested
+    path: statutes/ors-558.053.md
+  - number: '558.054'
+    title: Deposit of cash or other security to meet financial responsibility; rules; use of deposit
+    status: ingested
+    path: statutes/ors-558.054.md
+  - number: '558.055'
+    title: Hearing on application for license
+    status: ingested
+    path: statutes/ors-558.055.md
+  - number: '558.060'
+    title: Issuance of license; conditions; licensee’s authority; use of materials other than described
+      in license; renewal; fee
+    status: ingested
+    path: statutes/ors-558.060.md
+  - number: '558.066'
+    title: Governmental entities conducting weather modification at airport; exemption
+    status: ingested
+    path: statutes/ors-558.066.md
+  - number: '558.080'
+    title: Contents of hearing notice
+    status: ingested
+    path: statutes/ors-558.080.md
+  - number: '558.090'
+    title: Publication of notice of hearing
+    status: ingested
+    path: statutes/ors-558.090.md
+  - number: '558.100'
+    title: Proof of publication
+    status: ingested
+    path: statutes/ors-558.100.md
+  - number: '558.110'
+    title: Records and reports of operations; public examination
+    status: ingested
+    path: statutes/ors-558.110.md
+  - number: '558.120'
+    title: Emergency licenses
+    status: ingested
+    path: statutes/ors-558.120.md
+  - number: '558.135'
+    title: Revocation, suspension, refusal to issue or renew license; procedure
+    status: ingested
+    path: statutes/ors-558.135.md
+  - number: '558.140'
+    title: Appropriation for administration and enforcement
+    status: ingested
+    path: statutes/ors-558.140.md
+  - number: '558.200'
+    title: Definition of “county court”
+    status: ingested
+    path: statutes/ors-558.200.md
+  - number: '558.203'
+    title: Application of election laws
+    status: ingested
+    path: statutes/ors-558.203.md
+  - number: '558.210'
+    title: Incorporation for weather modification; limitations as to area
+    status: ingested
+    path: statutes/ors-558.210.md
+  - number: '558.235'
+    title: Treatment of forestlands as benefited property
+    status: ingested
+    path: statutes/ors-558.235.md
+  - number: '558.300'
+    title: General powers of district
+    status: ingested
+    path: statutes/ors-558.300.md
+  - number: '558.310'
+    title: Limitation on right to own or operate equipment
+    status: ingested
+    path: statutes/ors-558.310.md
+  - number: '558.315'
+    title: Rules
+    status: ingested
+    path: statutes/ors-558.315.md
+  - number: '558.320'
+    title: Duty to carry liability insurance
+    status: ingested
+    path: statutes/ors-558.320.md
+  - number: '558.325'
+    title: Cooperative agreements between districts
+    status: ingested
+    path: statutes/ors-558.325.md
+  - number: '558.340'
+    title: Tax assessment, levy and collection; boundary change
+    status: ingested
+    path: statutes/ors-558.340.md
+  - number: '558.345'
+    title: Disposal of taxes levied when organization declared invalid
+    status: ingested
+    path: statutes/ors-558.345.md
+  - number: '558.350'
+    title: Employees’ retirement system
+    status: ingested
+    path: statutes/ors-558.350.md
+  - number: '558.355'
+    title: Budget for retirement system
+    status: ingested
+    path: statutes/ors-558.355.md
+  - number: '558.360'
+    title: Employee contribution
+    status: ingested
+    path: statutes/ors-558.360.md
+  - number: '558.365'
+    title: Limitation on membership
+    status: ingested
+    path: statutes/ors-558.365.md
+  - number: '558.400'
+    title: Board of commissioners; powers; qualifications and terms of commissioners
+    status: ingested
+    path: statutes/ors-558.400.md
+  - number: '558.410'
+    title: Board meetings; officers; quorum; employing assistance; employee benefits
+    status: ingested
+    path: statutes/ors-558.410.md
+  - number: '558.415'
+    title: Procedure to increase number of commissioners
+    status: ingested
+    path: statutes/ors-558.415.md
+  - number: '558.430'
+    title: Deposit and withdrawal of moneys; annual reports; records
+    status: ingested
+    path: statutes/ors-558.430.md
+  - number: '558.440'
+    title: Special elections
+    status: ingested
+    path: statutes/ors-558.440.md
+  - number: '558.990'
+    title: Penalties
+    status: ingested
+    path: statutes/ors-558.990.md
 - chapter: '56'
   title: Duties of Secretary of State
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors056.html
@@ -108927,6 +109467,122 @@ chapters:
     title: Nonliability of United States and Secretary of Agriculture
     status: ingested
     path: statutes/ors-566.360.md
+- chapter: '567'
+  title: Experiment Stations
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors567.html
+  sections:
+  - number: '567.005'
+    title: Greenhouse facilities for seed potato testing; management
+    status: ingested
+    path: statutes/ors-567.005.md
+  - number: '567.010'
+    title: Disposition of moneys for greenhouse facilities
+    status: ingested
+    path: statutes/ors-567.010.md
+  - number: '567.015'
+    title: Cost of operation paid by growers
+    status: ingested
+    path: statutes/ors-567.015.md
+  - number: '567.020'
+    title: Greenhouse facilities under control of experiment station when not in use
+    status: ingested
+    path: statutes/ors-567.020.md
+  - number: '567.205'
+    title: Dry lands experiment station established; location
+    status: ingested
+    path: statutes/ors-567.205.md
+  - number: '567.210'
+    title: Station management and control
+    status: ingested
+    path: statutes/ors-567.210.md
+  - number: '567.215'
+    title: Duties of those in charge of station; experiments
+    status: ingested
+    path: statutes/ors-567.215.md
+  - number: '567.220'
+    title: Annual report
+    status: ingested
+    path: statutes/ors-567.220.md
+  - number: '567.230'
+    title: County court may acquire site for station
+    status: ingested
+    path: statutes/ors-567.230.md
+  - number: '567.235'
+    title: County court may acquire buildings and other improvements
+    status: ingested
+    path: statutes/ors-567.235.md
+  - number: '567.240'
+    title: County court may sell property of station upon discontinuance; disposition of proceeds
+    status: ingested
+    path: statutes/ors-567.240.md
+  - number: '567.325'
+    title: Cooperation with federal government
+    status: ingested
+    path: statutes/ors-567.325.md
+  - number: '567.330'
+    title: Biennial report
+    status: ingested
+    path: statutes/ors-567.330.md
+  - number: '567.355'
+    title: Work east of Cascade Mountains
+    status: ingested
+    path: statutes/ors-567.355.md
+  - number: '567.360'
+    title: Crop rotation experiments and demonstrations in Umatilla County
+    status: ingested
+    path: statutes/ors-567.360.md
+  - number: '567.405'
+    title: Harney County experiment station established
+    status: ingested
+    path: statutes/ors-567.405.md
+  - number: '567.410'
+    title: Station management and control
+    status: ingested
+    path: statutes/ors-567.410.md
+  - number: '567.430'
+    title: Biennial report
+    status: ingested
+    path: statutes/ors-567.430.md
+  - number: '567.435'
+    title: Cooperation with federal, state or county government, or individuals
+    status: ingested
+    path: statutes/ors-567.435.md
+  - number: '567.455'
+    title: Mid-Columbia experiment station established
+    status: ingested
+    path: statutes/ors-567.455.md
+  - number: '567.475'
+    title: Biennial report
+    status: ingested
+    path: statutes/ors-567.475.md
+  - number: '567.480'
+    title: Cooperation with United States Department of Agriculture
+    status: ingested
+    path: statutes/ors-567.480.md
+  - number: '567.505'
+    title: Southern Oregon branch experiment station established
+    status: ingested
+    path: statutes/ors-567.505.md
+  - number: '567.510'
+    title: Station management and control
+    status: ingested
+    path: statutes/ors-567.510.md
+  - number: '567.515'
+    title: Biennial report
+    status: ingested
+    path: statutes/ors-567.515.md
+  - number: '567.520'
+    title: Cooperation with federal government
+    status: ingested
+    path: statutes/ors-567.520.md
+  - number: '567.575'
+    title: Disposition of revenues
+    status: ingested
+    path: statutes/ors-567.575.md
+  - number: '567.580'
+    title: Station management and control
+    status: ingested
+    path: statutes/ors-567.580.md
 - chapter: '568'
   title: Soil and Water Conservation; Agricultural Water Management
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors568.html
@@ -111214,6 +111870,72 @@ chapters:
     title: Penalties
     status: ingested
     path: statutes/ors-586.990.md
+- chapter: '587'
+  title: Storage of Grain as Basis of Farm Credit
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors587.html
+  sections:
+  - number: '587.010'
+    title: Definitions
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: '587.020'
+    title: Purpose of chapter
+    status: ingested
+    path: statutes/ors-587.020.md
+  - number: '587.030'
+    title: State Department of Agriculture to administer and enforce chapter
+    status: ingested
+    path: statutes/ors-587.030.md
+  - number: '587.040'
+    title: Powers of department; rules
+    status: ingested
+    path: statutes/ors-587.040.md
+  - number: '587.050'
+    title: Petition for services by department
+    status: ingested
+    path: statutes/ors-587.050.md
+  - number: '587.090'
+    title: Application for storage of grain
+    status: ingested
+    path: statutes/ors-587.090.md
+  - number: '587.100'
+    title: Making inspections; inspection certificates; issuing warehouse certificates
+    status: ingested
+    path: statutes/ors-587.100.md
+  - number: '587.110'
+    title: Form and contents of warehouse certificate; approval by department
+    status: ingested
+    path: statutes/ors-587.110.md
+  - number: '587.120'
+    title: Certificates to be in triplicate; disposition of original and copies
+    status: ingested
+    path: statutes/ors-587.120.md
+  - number: '587.130'
+    title: Filing and recording certificates
+    status: ingested
+    path: statutes/ors-587.130.md
+  - number: '587.140'
+    title: Care by owner of stored grain; delivery to certificate holder; sale by owner
+    status: ingested
+    path: statutes/ors-587.140.md
+  - number: '587.150'
+    title: Locking and sealing storage facilities; bond as waiver of
+    status: ingested
+    path: statutes/ors-587.150.md
+  - number: '587.160'
+    title: Determination of amount of grain; warehouse certificate as evidence; owner liable for actual
+      amount
+    status: ingested
+    path: statutes/ors-587.160.md
+  - number: '587.190'
+    title: Expenses of administering chapter; disposition of inspection fees; continuing appropriation
+    status: ingested
+    path: statutes/ors-587.190.md
+  - number: '587.990'
+    title: Penalties
+    status: ingested
+    path: statutes/ors-587.990.md
 - chapter: '59'
   title: Securities Regulation
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors059.html
@@ -119057,6 +119779,38 @@ chapters:
     title: Penalty for signing false document
     status: ingested
     path: statutes/ors-648.992.md
+- chapter: '649'
+  title: Insignia and Names of Organizations
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors649.html
+  sections:
+  - number: '649.010'
+    title: Definitions for ORS 649.010 to 649.080
+    status: ingested
+    path: statutes/ors-649.010.md
+  - number: '649.020'
+    title: Registration of name or insignia of organization; certificate of registration; fees
+    status: ingested
+    path: statutes/ors-649.020.md
+  - number: '649.030'
+    title: Unauthorized use of registered name or insignia
+    status: ingested
+    path: statutes/ors-649.030.md
+  - number: '649.050'
+    title: Record of registrations
+    status: ingested
+    path: statutes/ors-649.050.md
+  - number: '649.060'
+    title: Exclusive right to register
+    status: ingested
+    path: statutes/ors-649.060.md
+  - number: '649.080'
+    title: Unauthorized display of name or insignia of motor vehicle association
+    status: ingested
+    path: statutes/ors-649.080.md
+  - number: '649.990'
+    title: Penalties
+    status: ingested
+    path: statutes/ors-649.990.md
 - chapter: '65'
   title: Nonprofit Corporations
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors065.html
@@ -124902,6 +125656,64 @@ chapters:
     title: Solicitations of moneys by commission
     status: ingested
     path: statutes/ors-660.523.md
+- chapter: '661'
+  title: Organized Labor; Union Labels
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors661.html
+  sections:
+  - number: '661.010'
+    title: Lawfulness of labor unions
+    status: ingested
+    path: statutes/ors-661.010.md
+  - number: '661.020'
+    title: Labor not a commodity; employment rights are personal
+    status: ingested
+    path: statutes/ors-661.020.md
+  - number: '661.030'
+    title: Collective bargaining for lawful purposes is legal
+    status: ingested
+    path: statutes/ors-661.030.md
+  - number: '661.040'
+    title: Limitations on fees charged laborers by collective bargaining agents; access to and inspection
+      of records; accounting
+    status: ingested
+    path: statutes/ors-661.040.md
+  - number: '661.045'
+    title: Policy; union security agreements
+    status: ingested
+    path: statutes/ors-661.045.md
+  - number: '661.210'
+    title: Counterfeiting of union label and possession or sale thereof prohibited
+    status: ingested
+    path: statutes/ors-661.210.md
+  - number: '661.220'
+    title: Unauthorized use of label, name or seal of union prohibited
+    status: ingested
+    path: statutes/ors-661.220.md
+  - number: '661.230'
+    title: Registration of union label; actions to compel or cancel registration
+    status: ingested
+    path: statutes/ors-661.230.md
+  - number: '661.250'
+    title: Actions to enjoin counterfeits or unauthorized use of label; injunction; damages; destruction
+      of counterfeits
+    status: ingested
+    path: statutes/ors-661.250.md
+  - number: '661.260'
+    title: Liability for false or fraudulent application; criminal penalties
+    status: ingested
+    path: statutes/ors-661.260.md
+  - number: '661.270'
+    title: Who may bring action on behalf of unincorporated association or union
+    status: ingested
+    path: statutes/ors-661.270.md
+  - number: '661.280'
+    title: Attorney fees
+    status: ingested
+    path: statutes/ors-661.280.md
+  - number: '661.990'
+    title: Penalties
+    status: ingested
+    path: statutes/ors-661.990.md
 - chapter: '662'
   title: Labor Disputes
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors662.html
@@ -132057,6 +132869,23 @@ chapters:
     title: Jurisdiction of courts
     status: ingested
     path: statutes/ors-697.992.md
+- chapter: '698'
+  title: Auctions
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors698.html
+  sections:
+  - number: '698.635'
+    title: Definitions for ORS 698.640 and 698.650
+    status: ingested
+    path: statutes/ors-698.635.md
+  - number: '698.640'
+    title: Requirements for auction sales, consignment sales, auctioneers, consignees and auction marts;
+      violation as unlawful trade practice; payments; penalty
+    status: ingested
+    path: statutes/ors-698.640.md
+  - number: '698.650'
+    title: Exemptions
+    status: ingested
+    path: statutes/ors-698.650.md
 - chapter: '699'
   title: Innkeepers and Hotelkeepers
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors699.html
@@ -134798,6 +135627,384 @@ chapters:
     title: Subordinated obligations
     status: ingested
     path: statutes/ors-71.3100.md
+- chapter: '711'
+  title: Merger; Conversion; Share Exchange; Acquisition; Liquidation; Insolvency
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors711.html
+  sections:
+  - number: '711.065'
+    title: Conversion of Oregon stock bank into insured stock institution
+    status: ingested
+    path: statutes/ors-711.065.md
+  - number: '711.070'
+    title: Conversion of financial institution into Oregon stock bank; application
+    status: ingested
+    path: statutes/ors-711.070.md
+  - number: '711.075'
+    title: Conversion of Oregon nonstock bank into financial institution
+    status: ingested
+    path: statutes/ors-711.075.md
+  - number: '711.080'
+    title: Conversion of financial institution into Oregon nonstock bank; application
+    status: ingested
+    path: statutes/ors-711.080.md
+  - number: '711.085'
+    title: Approval of conversion of Oregon bank by board or shareholders
+    status: ingested
+    path: statutes/ors-711.085.md
+  - number: '711.090'
+    title: Conversion of Oregon bank or Oregon trust company to corporation or limited liability company
+    status: ingested
+    path: statutes/ors-711.090.md
+  - number: '711.095'
+    title: Approval of plan of conversion; fee
+    status: ingested
+    path: statutes/ors-711.095.md
+  - number: '711.100'
+    title: Articles of conversion; effective date of conversion
+    status: ingested
+    path: statutes/ors-711.100.md
+  - number: '711.104'
+    title: Rights of member of Oregon bank or Oregon trust company to dissent to conversion from limited
+      liability company to corporation; demand required; notice and offer to pay for shares; cost of appraisal
+      of shares
+    status: ingested
+    path: statutes/ors-711.104.md
+  - number: '711.125'
+    title: Merger of Oregon stock bank with insured stock institution; company acquiring shares of Oregon
+      stock bank through share exchange
+    status: ingested
+    path: statutes/ors-711.125.md
+  - number: '711.130'
+    title: Approval of plan of merger or share exchange involving Oregon stock bank; contents of plan;
+      fee
+    status: ingested
+    path: statutes/ors-711.130.md
+  - number: '711.135'
+    title: Action by director on plan of merger or share exchange involving Oregon stock bank; appeal
+    status: ingested
+    path: statutes/ors-711.135.md
+  - number: '711.140'
+    title: Approval of merger or share exchange involving Oregon stock bank by stockholders
+    status: ingested
+    path: statutes/ors-711.140.md
+  - number: '711.145'
+    title: Effective date of merger or share exchange involving Oregon stock bank
+    status: ingested
+    path: statutes/ors-711.145.md
+  - number: '711.150'
+    title: Merger of Oregon nonstock bank with insured nonstock institution
+    status: ingested
+    path: statutes/ors-711.150.md
+  - number: '711.155'
+    title: Approval of merger involving Oregon nonstock bank; contents of plan; fee
+    status: ingested
+    path: statutes/ors-711.155.md
+  - number: '711.160'
+    title: Action by director on plan of merger involving Oregon nonstock bank; appeal
+    status: ingested
+    path: statutes/ors-711.160.md
+  - number: '711.165'
+    title: Effective date of merger involving Oregon nonstock bank
+    status: ingested
+    path: statutes/ors-711.165.md
+  - number: '711.170'
+    title: Sale of assets and transfer of liabilities by Oregon bank; approval of director and board of
+      directors; fee; appeal
+    status: ingested
+    path: statutes/ors-711.170.md
+  - number: '711.175'
+    title: Stockholder’s right to dissent to merger, share exchange, transfer of assets or liabilities
+      or conversion
+    status: ingested
+    path: statutes/ors-711.175.md
+  - number: '711.180'
+    title: Rights of stockholder dissenting to merger, share exchange, transfer of assets or liabilities
+      or conversion; demand required; notice and offer to pay for shares; costs of appraisal of shares;
+      when rights not applicable
+    status: ingested
+    path: statutes/ors-711.180.md
+  - number: '711.185'
+    title: Stockholder withdrawal of demand for payment for shares made under ORS 711.180
+    status: ingested
+    path: statutes/ors-711.185.md
+  - number: '711.190'
+    title: Effect of merger or conversion of Oregon bank; rights, powers, duties and liabilities of resulting
+      financial institution
+    status: ingested
+    path: statutes/ors-711.190.md
+  - number: '711.195'
+    title: Merger, conversion or acquisition of Oregon bank involving trust company
+    status: ingested
+    path: statutes/ors-711.195.md
+  - number: '711.197'
+    title: Conditions for resulting Oregon bank to conform with state law
+    status: ingested
+    path: statutes/ors-711.197.md
+  - number: '711.199'
+    title: Valuation of assets on books of resulting Oregon bank
+    status: ingested
+    path: statutes/ors-711.199.md
+  - number: '711.215'
+    title: Voluntary liquidation on approval of stockholders and director; costs of special examination
+    status: ingested
+    path: statutes/ors-711.215.md
+  - number: '711.217'
+    title: Transactions exempt from ORS 711.220 to 711.235
+    status: ingested
+    path: statutes/ors-711.217.md
+  - number: '711.220'
+    title: Notice of voluntary liquidation; presentation of claims
+    status: ingested
+    path: statutes/ors-711.220.md
+  - number: '711.225'
+    title: Report and transfer of unclaimed deposits
+    status: ingested
+    path: statutes/ors-711.225.md
+  - number: '711.230'
+    title: Claims; time within which presented; extension of time
+    status: ingested
+    path: statutes/ors-711.230.md
+  - number: '711.235'
+    title: Report of liquidation to director; disposition of remaining assets
+    status: ingested
+    path: statutes/ors-711.235.md
+  - number: '711.240'
+    title: Supervision and control by director
+    status: ingested
+    path: statutes/ors-711.240.md
+  - number: '711.250'
+    title: Engaging in banking or trust business prohibited after liquidation, transfer of deposit liabilities
+      or ceasing to do business for one year; dissolution
+    status: ingested
+    path: statutes/ors-711.250.md
+  - number: '711.400'
+    title: Supervision of liquidation by circuit court; called “supervising court”
+    status: ingested
+    path: statutes/ors-711.400.md
+  - number: '711.405'
+    title: When institution deemed insolvent
+    status: ingested
+    path: statutes/ors-711.405.md
+  - number: '711.410'
+    title: Transfer of assets after commission of act of insolvency or in contemplation of insolvency;
+      exceptions
+    status: ingested
+    path: statutes/ors-711.410.md
+  - number: '711.415'
+    title: Receiving deposits in excess of insurance while insolvent
+    status: ingested
+    path: statutes/ors-711.415.md
+  - number: '711.419'
+    title: Taking possession of Oregon stock bank by director
+    status: ingested
+    path: statutes/ors-711.419.md
+  - number: '711.430'
+    title: Placing business in control of director; notice
+    status: ingested
+    path: statutes/ors-711.430.md
+  - number: '711.435'
+    title: Resumption of business of institution placed in control of director
+    status: ingested
+    path: statutes/ors-711.435.md
+  - number: '711.440'
+    title: Receivers and assignments for benefit of creditors; notice to and action by director
+    status: ingested
+    path: statutes/ors-711.440.md
+  - number: '711.445'
+    title: Notice of taking possession of institution; prohibition against liens subsequent to insolvency
+    status: ingested
+    path: statutes/ors-711.445.md
+  - number: '711.450'
+    title: Prohibition against applying to enjoin director from continuing possession
+    status: ingested
+    path: statutes/ors-711.450.md
+  - number: '711.465'
+    title: Transfer of liquidation functions to Federal Deposit Insurance Corporation
+    status: ingested
+    path: statutes/ors-711.465.md
+  - number: '711.470'
+    title: Subrogation rights of Federal Deposit Insurance Corporation
+    status: ingested
+    path: statutes/ors-711.470.md
+  - number: '711.475'
+    title: Inventory of assets; filing notice of taking possession
+    status: ingested
+    path: statutes/ors-711.475.md
+  - number: '711.480'
+    title: Sale of assets
+    status: ingested
+    path: statutes/ors-711.480.md
+  - number: '711.485'
+    title: Borrowing funds to pay closed institution expenditures
+    status: ingested
+    path: statutes/ors-711.485.md
+  - number: '711.490'
+    title: Capital stock requirements of institution purchasing assets and assuming liabilities of insolvent
+      institution
+    status: ingested
+    path: statutes/ors-711.490.md
+  - number: '711.495'
+    title: Action by director to collect balance due on stock or stock assessment
+    status: ingested
+    path: statutes/ors-711.495.md
+  - number: '711.500'
+    title: Liability of transferor of stock made in contemplation of insolvency; proceedings to relieve
+      stockholder of liability prohibited
+    status: ingested
+    path: statutes/ors-711.500.md
+  - number: '711.505'
+    title: Liability of fiduciary as stockholder; liability of estate and funds
+    status: ingested
+    path: statutes/ors-711.505.md
+  - number: '711.510'
+    title: Deposit of money collected under ORS 711.495; security for deposit
+    status: ingested
+    path: statutes/ors-711.510.md
+  - number: '711.515'
+    title: “Depositor” defined; preferences among depositors
+    status: ingested
+    path: statutes/ors-711.515.md
+  - number: '711.520'
+    title: Priority of claimants against assets of Oregon stock bank that is insolvent or in liquidation
+    status: ingested
+    path: statutes/ors-711.520.md
+  - number: '711.525'
+    title: Interest on deposits after Oregon stock bank closes
+    status: ingested
+    path: statutes/ors-711.525.md
+  - number: '711.530'
+    title: Notice to creditors to present claims
+    status: ingested
+    path: statutes/ors-711.530.md
+  - number: '711.535'
+    title: Verification and filing of claims; demand for preference
+    status: ingested
+    path: statutes/ors-711.535.md
+  - number: '711.540'
+    title: Approval or rejection of claims
+    status: ingested
+    path: statutes/ors-711.540.md
+  - number: '711.545'
+    title: Objection to approval of claims
+    status: ingested
+    path: statutes/ors-711.545.md
+  - number: '711.550'
+    title: Objection to rejection of claims
+    status: ingested
+    path: statutes/ors-711.550.md
+  - number: '711.554'
+    title: Procedure for determination of claims
+    status: ingested
+    path: statutes/ors-711.554.md
+  - number: '711.560'
+    title: Costs and disbursements in claim proceedings
+    status: ingested
+    path: statutes/ors-711.560.md
+  - number: '711.565'
+    title: Claims presented after time expired
+    status: ingested
+    path: statutes/ors-711.565.md
+  - number: '711.567'
+    title: Supervising court to bar claims to facilitate closing
+    status: ingested
+    path: statutes/ors-711.567.md
+  - number: '711.570'
+    title: Lists of claims
+    status: ingested
+    path: statutes/ors-711.570.md
+  - number: '711.572'
+    title: Liability of directors for distributing assets without payment of known debts
+    status: ingested
+    path: statutes/ors-711.572.md
+  - number: '711.575'
+    title: Dividends to depositors
+    status: ingested
+    path: statutes/ors-711.575.md
+  - number: '711.577'
+    title: Death of depositor; payment of claim
+    status: ingested
+    path: statutes/ors-711.577.md
+  - number: '711.580'
+    title: Safety deposit boxes; removal of property
+    status: ingested
+    path: statutes/ors-711.580.md
+  - number: '711.582'
+    title: Disposition of contents of safety deposit boxes
+    status: ingested
+    path: statutes/ors-711.582.md
+  - number: '711.585'
+    title: Selection of agents to wind up affairs of institution; bond or letter of credit; duties of
+      agent
+    status: ingested
+    path: statutes/ors-711.585.md
+  - number: '711.590'
+    title: Disposition of unclaimed deposits; interest
+    status: ingested
+    path: statutes/ors-711.590.md
+  - number: '711.595'
+    title: Destruction of liquidation records in possession of director
+    status: ingested
+    path: statutes/ors-711.595.md
+  - number: '711.600'
+    title: Liquidation expenses
+    status: ingested
+    path: statutes/ors-711.600.md
+  - number: '711.605'
+    title: Petitions relating to insolvent institutions; ruling by director; court review
+    status: ingested
+    path: statutes/ors-711.605.md
+  - number: '711.615'
+    title: Court filing fees
+    status: ingested
+    path: statutes/ors-711.615.md
+  - number: '711.620'
+    title: Suspending or restricting payment of liabilities; duration
+    status: ingested
+    path: statutes/ors-711.620.md
+  - number: '711.625'
+    title: Taking possession of Oregon stock bank by director; powers of director; expenses
+    status: ingested
+    path: statutes/ors-711.625.md
+  - number: '711.630'
+    title: Pro rata withdrawals by depositors
+    status: ingested
+    path: statutes/ors-711.630.md
+  - number: '711.635'
+    title: Receiving new deposits; segregation
+    status: ingested
+    path: statutes/ors-711.635.md
+  - number: '711.640'
+    title: Termination of suspension or restriction on payment of liabilities
+    status: ingested
+    path: statutes/ors-711.640.md
+  - number: '711.645'
+    title: Notice of termination of suspension or restriction on payment of liabilities
+    status: ingested
+    path: statutes/ors-711.645.md
+  - number: '711.650'
+    title: Segregation of deposits until termination notice has been given
+    status: ingested
+    path: statutes/ors-711.650.md
+  - number: '711.655'
+    title: Use of suspended deposits to pay indebtedness of depositor
+    status: ingested
+    path: statutes/ors-711.655.md
+  - number: '711.660'
+    title: Assignment or transfer of capital stock while payment of liabilities suspended or restricted
+    status: ingested
+    path: statutes/ors-711.660.md
+  - number: '711.665'
+    title: Suspension or restriction of liability payment not evidence of insolvency
+    status: ingested
+    path: statutes/ors-711.665.md
+  - number: '711.670'
+    title: Compliance with ORS 711.620 to 711.670 as defense to depositor’s action
+    status: ingested
+    path: statutes/ors-711.670.md
+  - number: '711.980'
+    title: Civil penalties
+    status: ingested
+    path: statutes/ors-711.980.md
 - chapter: '713'
   title: Out-of-State Banks and Extranational Institutions
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors713.html
@@ -136602,6 +137809,172 @@ chapters:
     title: Civil penalties
     status: ingested
     path: statutes/ors-725.910.md
+- chapter: 725A
+  title: Short-Term Loans and Student Loan Servicing
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors725a.html
+  sections:
+  - number: 725A.010
+    title: Definitions
+    status: ingested
+    path: statutes/ors-725a.010.md
+  - number: 725A.012
+    title: Application
+    status: ingested
+    path: statutes/ors-725a.012.md
+  - number: 725A.020
+    title: Licensing requirement
+    status: ingested
+    path: statutes/ors-725a.020.md
+  - number: 725A.022
+    title: License application; contents; fee; rules
+    status: ingested
+    path: statutes/ors-725a.022.md
+  - number: 725A.024
+    title: License application approval; license issuance; applicant qualifications; license denial; term
+      of license; rules
+    status: ingested
+    path: statutes/ors-725a.024.md
+  - number: 725A.026
+    title: Grounds for disapproving license application
+    status: ingested
+    path: statutes/ors-725a.026.md
+  - number: 725A.028
+    title: License fee; other fees; rules
+    status: ingested
+    path: statutes/ors-725a.028.md
+  - number: 725A.030
+    title: Annual report; contents; penalty; rules
+    status: ingested
+    path: statutes/ors-725a.030.md
+  - number: 725A.032
+    title: Business name and location
+    status: ingested
+    path: statutes/ors-725a.032.md
+  - number: 725A.034
+    title: License revocation and suspension
+    status: ingested
+    path: statutes/ors-725a.034.md
+  - number: 725A.036
+    title: License reinstatement; fee
+    status: ingested
+    path: statutes/ors-725a.036.md
+  - number: 725A.038
+    title: License surrender
+    status: ingested
+    path: statutes/ors-725a.038.md
+  - number: 725A.040
+    title: Effect of license revocation, suspension or surrender
+    status: ingested
+    path: statutes/ors-725a.040.md
+  - number: 725A.050
+    title: Director’s power to examine or investigate; costs
+    status: ingested
+    path: statutes/ors-725a.050.md
+  - number: 725A.052
+    title: Record keeping requirements
+    status: ingested
+    path: statutes/ors-725a.052.md
+  - number: 725A.054
+    title: Duty to report defalcation; audit
+    status: ingested
+    path: statutes/ors-725a.054.md
+  - number: 725A.056
+    title: Loan disclosure requirements; receipt; procedure after full loan repayment
+    status: ingested
+    path: statutes/ors-725a.056.md
+  - number: 725A.058
+    title: Dissemination of false, misleading or deceptive statement
+    status: ingested
+    path: statutes/ors-725a.058.md
+  - number: 725A.060
+    title: Prohibited conduct generally
+    status: ingested
+    path: statutes/ors-725a.060.md
+  - number: 725A.062
+    title: Prohibited conduct for title loan lender
+    status: ingested
+    path: statutes/ors-725a.062.md
+  - number: 725A.064
+    title: Prohibited conduct for payday loan lender
+    status: ingested
+    path: statutes/ors-725a.064.md
+  - number: 725A.080
+    title: Complaint and administrative remedy
+    status: ingested
+    path: statutes/ors-725a.080.md
+  - number: 725A.082
+    title: Cease and desist order
+    status: ingested
+    path: statutes/ors-725a.082.md
+  - number: 725A.084
+    title: Suspension or removal of officer or director of licensee
+    status: ingested
+    path: statutes/ors-725a.084.md
+  - number: 725A.086
+    title: Limitation of personal liability
+    status: ingested
+    path: statutes/ors-725a.086.md
+  - number: 725A.090
+    title: Loan tracking and counseling system; rules; fees
+    status: ingested
+    path: statutes/ors-725a.090.md
+  - number: 725A.092
+    title: Rules
+    status: ingested
+    path: statutes/ors-725a.092.md
+  - number: 725A.500
+    title: Definitions
+    status: ingested
+    path: statutes/ors-725a.500.md
+  - number: 725A.503
+    title: Prohibition on servicing student loan without license; exceptions; powers of Director of Department
+      of Consumer and Business Services; rules
+    status: ingested
+    path: statutes/ors-725a.503.md
+  - number: 725A.506
+    title: Application for licensing; required contents; fee; bonding; power of director to issue, deny,
+      revoke or refuse to renew license; date of expiration; rules
+    status: ingested
+    path: statutes/ors-725a.506.md
+  - number: 725A.509
+    title: Duties of licensee; assumed business name
+    status: ingested
+    path: statutes/ors-725a.509.md
+  - number: 725A.512
+    title: Requirement to maintain liquidity, operating reserves and tangible net worth; taking possession
+      of licensee’s property for failure to meet requirement; appointment of receiver
+    status: ingested
+    path: statutes/ors-725a.512.md
+  - number: 725A.515
+    title: Required notifications from licensee to director
+    status: ingested
+    path: statutes/ors-725a.515.md
+  - number: 725A.518
+    title: Supervisory powers of director; examination of licensee; charge for costs of examination; multistate
+      cooperation; rules
+    status: ingested
+    path: statutes/ors-725a.518.md
+  - number: 725A.521
+    title: Required practices under federal student loan agreement; prohibitions; exemptions
+    status: ingested
+    path: statutes/ors-725a.521.md
+  - number: 725A.524
+    title: Investigation of complaints; confidentiality of materials obtained in investigation; exceptions;
+      charge for costs of investigation
+    status: ingested
+    path: statutes/ors-725a.524.md
+  - number: 725A.527
+    title: Violations; orders of director; remedies; civil penalties; charge for costs of proceeding
+    status: ingested
+    path: statutes/ors-725a.527.md
+  - number: 725A.530
+    title: Ombudsman; duties; report to Legislative Assembly
+    status: ingested
+    path: statutes/ors-725a.530.md
+  - number: 725A.990
+    title: Penalties
+    status: ingested
+    path: statutes/ors-725a.990.md
 - chapter: '726'
   title: Pawnbrokers
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors726.html
@@ -143275,6 +144648,181 @@ chapters:
     title: Penalties
     status: ingested
     path: statutes/ors-746.991.md
+- chapter: '748'
+  title: Fraternal Benefit Societies
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors748.html
+  sections:
+  - number: '748.103'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-748.103.md
+  - number: '748.106'
+    title: Description of fraternal benefit society
+    status: ingested
+    path: statutes/ors-748.106.md
+  - number: '748.109'
+    title: Conditions constituting “operating on a lodge system”
+    status: ingested
+    path: statutes/ors-748.109.md
+  - number: '748.112'
+    title: Conditions constituting “representative form of government”
+    status: ingested
+    path: statutes/ors-748.112.md
+  - number: '748.121'
+    title: Purposes, operation and powers
+    status: ingested
+    path: statutes/ors-748.121.md
+  - number: '748.123'
+    title: Membership; eligibility; admission process; privileges
+    status: ingested
+    path: statutes/ors-748.123.md
+  - number: '748.130'
+    title: Principal office; publications; annual statement synopsis; complaints
+    status: ingested
+    path: statutes/ors-748.130.md
+  - number: '748.133'
+    title: Formation
+    status: ingested
+    path: statutes/ors-748.133.md
+  - number: '748.136'
+    title: Officers, governors, directors; exemption from liability; indemnification; insurance
+    status: ingested
+    path: statutes/ors-748.136.md
+  - number: '748.139'
+    title: Waiver of provisions by subordinate body
+    status: ingested
+    path: statutes/ors-748.139.md
+  - number: '748.142'
+    title: Amendment of society laws
+    status: ingested
+    path: statutes/ors-748.142.md
+  - number: '748.144'
+    title: Creation and operation of other organizations and entities
+    status: ingested
+    path: statutes/ors-748.144.md
+  - number: '748.148'
+    title: Consolidation and merger
+    status: ingested
+    path: statutes/ors-748.148.md
+  - number: '748.171'
+    title: Certificate of authority
+    status: ingested
+    path: statutes/ors-748.171.md
+  - number: '748.174'
+    title: Certificate of authority for foreign or alien society
+    status: ingested
+    path: statutes/ors-748.174.md
+  - number: '748.177'
+    title: Authorization as mutual life insurance company
+    status: ingested
+    path: statutes/ors-748.177.md
+  - number: '748.181'
+    title: Insurance producers; licensing
+    status: ingested
+    path: statutes/ors-748.181.md
+  - number: '748.184'
+    title: Reinsurance
+    status: ingested
+    path: statutes/ors-748.184.md
+  - number: '748.201'
+    title: Benefits
+    status: ingested
+    path: statutes/ors-748.201.md
+  - number: '748.204'
+    title: Beneficiaries
+    status: ingested
+    path: statutes/ors-748.204.md
+  - number: '748.207'
+    title: Benefits exempt from execution
+    status: ingested
+    path: statutes/ors-748.207.md
+  - number: '748.211'
+    title: Benefit contract; certificate
+    status: ingested
+    path: statutes/ors-748.211.md
+  - number: '748.306'
+    title: Authority for group benefit certificates
+    status: ingested
+    path: statutes/ors-748.306.md
+  - number: '748.309'
+    title: Group membership; lodges
+    status: ingested
+    path: statutes/ors-748.309.md
+  - number: '748.312'
+    title: Membership in lodges organized under ORS 748.309
+    status: ingested
+    path: statutes/ors-748.312.md
+  - number: '748.316'
+    title: Payments for group benefits
+    status: ingested
+    path: statutes/ors-748.316.md
+  - number: '748.319'
+    title: Group certificates issued by foreign or alien society or by domestic society in foreign or
+      alien jurisdiction
+    status: ingested
+    path: statutes/ors-748.319.md
+  - number: '748.322'
+    title: Continuation of membership in society after cancellation, discontinuance or nonrenewal of group
+      certificate
+    status: ingested
+    path: statutes/ors-748.322.md
+  - number: '748.401'
+    title: Value of benefit and amount of options
+    status: ingested
+    path: statutes/ors-748.401.md
+  - number: '748.403'
+    title: Standards of valuation for certificates
+    status: ingested
+    path: statutes/ors-748.403.md
+  - number: '748.406'
+    title: Financial statement; filing; fee; valuation
+    status: ingested
+    path: statutes/ors-748.406.md
+  - number: '748.409'
+    title: Assets of society; variable contracts
+    status: ingested
+    path: statutes/ors-748.409.md
+  - number: '748.412'
+    title: Investment of funds
+    status: ingested
+    path: statutes/ors-748.412.md
+  - number: '748.414'
+    title: Funds exempt from certain taxes
+    status: ingested
+    path: statutes/ors-748.414.md
+  - number: '748.501'
+    title: Examination
+    status: ingested
+    path: statutes/ors-748.501.md
+  - number: '748.503'
+    title: Investigation of society; notice of deficiencies; action by Attorney General; hearing
+    status: ingested
+    path: statutes/ors-748.503.md
+  - number: '748.506'
+    title: Investigation of foreign or alien society; notice of deficiencies; revocation or suspension
+      of authority
+    status: ingested
+    path: statutes/ors-748.506.md
+  - number: '748.509'
+    title: Validity of petition for injunction
+    status: ingested
+    path: statutes/ors-748.509.md
+  - number: '748.601'
+    title: Exemptions from chapter
+    status: ingested
+    path: statutes/ors-748.601.md
+  - number: '748.603'
+    title: Relationship to other insurance laws
+    status: ingested
+    path: statutes/ors-748.603.md
+  - number: '748.605'
+    title: Insurance against risk of loss under less than fully insured employee health benefit plan
+    status: ingested
+    path: statutes/ors-748.605.md
+  - number: '748.990'
+    title: Penalties
+    status: ingested
+    path: statutes/ors-748.990.md
 - chapter: '75'
   title: Letters of Credit
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors075.html
@@ -143573,6 +145121,52 @@ chapters:
     title: Rules
     status: ingested
     path: statutes/ors-750.715.md
+- chapter: '751'
+  title: Universal Health Care System
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors751.html
+  sections:
+  - number: '751.001'
+    title: Universal Health Plan Governance Board; membership; terms; appointment of executive director;
+      rules
+    status: ingested
+    path: statutes/ors-751.001.md
+  - number: '751.002'
+    title: Creation of comprehensive plan to finance and administer Universal Health Plan; report to interim
+      committees of Legislative Assembly related to health
+    status: ingested
+    path: statutes/ors-751.002.md
+  - number: '751.101'
+    title: Report to Legislative Assembly
+    status: ingested
+    path: statutes/ors-751.101.md
+- chapter: '752'
+  title: Professional Liability Funds
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors752.html
+  sections:
+  - number: '752.005'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-752.005.md
+  - number: '752.015'
+    title: Determination of need for professional liability fund
+    status: ingested
+    path: statutes/ors-752.015.md
+  - number: '752.025'
+    title: Commission; appointment; membership; term of office
+    status: ingested
+    path: statutes/ors-752.025.md
+  - number: '752.035'
+    title: Professional liability funds; establishment; minimum insurance coverage; authority of commission
+    status: ingested
+    path: statutes/ors-752.035.md
+  - number: '752.045'
+    title: Rules; reports by commissions; exemption from Insurance Code and Insurance Guaranty Association
+    status: ingested
+    path: statutes/ors-752.045.md
+  - number: '752.055'
+    title: Short title
+    status: ingested
+    path: statutes/ors-752.055.md
 - chapter: '756'
   title: Public Utility Commission
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors756.html
