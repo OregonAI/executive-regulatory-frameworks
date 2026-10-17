@@ -1,32 +1,32 @@
 note: 'Conflict candidates decidable BY CODE — no model involved. A hand-labelled taxonomy of the 137
   frontier-pilot candidates found 29% of them were of these four deterministic types, and a regex finds
   far more of them than the models did: the pilot reported 21 dead citations in total, this scan finds
-  1,968 DISTINCT dead targets, cited 5,523 times across 4,536 documents. READ THE DISTINCT COUNT, NOT
+  1,974 DISTINCT dead targets, cited 5,555 times across 4,558 documents. READ THE DISTINCT COUNT, NOT
   THE OCCURRENCES: they differ by ~2.7x because a single repealed section is cited by many rules — ORS
   184.616 alone is cited by 727 of them. Occurrences are the blast radius; distinct targets are the number
   of things to actually resolve, and they are heavily concentrated, so the top handful clear thousands
   of documents. The magnitude is expected: Oregon has renumbered wholesale (ORS 181 to 181A in 2015, ORS
   279 split into 279A/B/C in 2003, the 2015 higher-education restructuring), and every rule written before
-  those still cites the old numbers. A decades-spanning corpus of 42,660 rules showing NO stale citations
+  those still cites the old numbers. A decades-spanning corpus of 42,897 rules showing NO stale citations
   would be the surprising result. Verified against the live source: six sampled flagged sections were
   all genuinely absent, and a live control section was correctly not flagged. Everything here is a CANDIDATE,
   not a finding, and not legally reviewed. The model''s budget belongs on the other 71% — what a rule
   omits, adds without authority, or redefines — which SYSTEM_V3 enumerates and which explicitly disqualifies
   these four types so the two passes do not overlap.'
-scanned_rules: 42660
+scanned_rules: 42897
 counts:
-  distinct_dead_targets: 1968
-  dead_citation_occurrences: 5523
-  documents_affected: 4536
-  dead_citations: 5523
+  distinct_dead_targets: 1974
+  dead_citation_occurrences: 5555
+  documents_affected: 4558
+  dead_citations: 5555
   corpus_gap_not_ingested: 575
   lapsed_but_current: 66
-  rule_predates_statute_amendment: 4457
-  malformed_citations: 65
+  rule_predates_statute_amendment: 4466
+  malformed_citations: 66
 dead_citations_by_cause:
   chapter_absent: 146
-  oar_unclassified: 1023
-  renumbered_or_repealed: 4354
+  oar_unclassified: 1028
+  renumbered_or_repealed: 4381
 cause_meanings:
   renumbered_or_repealed: the chapter is current, but this section has left its table of contents
   chapter_absent: no such ORS chapter page exists upstream
@@ -38,7 +38,7 @@ most_cited_dead_targets:
 - cites: ORS 184.616
   cited_by_rules: 736
 - cites: ORS 192.410
-  cited_by_rules: 162
+  cited_by_rules: 163
 - cites: ORS 181.534
   cited_by_rules: 104
 - cites: ORS 480.110
@@ -187,6 +187,18 @@ dead_citations:
   cause: renumbered_or_repealed
 - rule: oar-105-050-0030
   cites: OAR 105-040-0060
+  cause: oar_unclassified
+- rule: oar-111-005-0040
+  cites: OAR 137-030-0055
+  cause: oar_unclassified
+- rule: oar-111-005-0055
+  cites: ORS 192.410
+  cause: renumbered_or_repealed
+- rule: oar-111-010-0015
+  cites: OAR 111-010-0010
+  cause: oar_unclassified
+- rule: oar-111-040-0055
+  cites: OAR 111-010-0010
   cause: oar_unclassified
 - rule: oar-114-002-0010
   cites: ORS 441.100
@@ -2051,6 +2063,9 @@ dead_citations:
 - rule: oar-177-090-0057
   cites: ORS 461.213
   cause: renumbered_or_repealed
+- rule: oar-180-001-0013
+  cites: OAR 137-050-0052
+  cause: oar_unclassified
 - rule: oar-199-005-0025
   cites: ORS 244.0020
   cause: renumbered_or_repealed
@@ -2534,6 +2549,9 @@ dead_citations:
 - rule: oar-259-080-0005
   cites: ORS 181A.675
   cause: renumbered_or_repealed
+- rule: oar-265-005-0030
+  cites: OAR 265-015-0035
+  cause: oar_unclassified
 - rule: oar-274-005-0020
   cites: ORS 279.051
   cause: renumbered_or_repealed
@@ -14054,6 +14072,78 @@ dead_citations:
 - rule: oar-813-410-0010
   cites: ORS 183.331
   cause: renumbered_or_repealed
+- rule: oar-816-005-0000
+  cites: ORS 676.762
+  cause: renumbered_or_repealed
+- rule: oar-816-005-0000
+  cites: ORS 676.765
+  cause: renumbered_or_repealed
+- rule: oar-816-005-0000
+  cites: ORS 676.768
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0000
+  cites: ORS 676.762
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0000
+  cites: ORS 676.765
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0000
+  cites: ORS 676.768
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0010
+  cites: ORS 676.765
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0020
+  cites: ORS 676.762
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0020
+  cites: ORS 676.765
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0020
+  cites: ORS 676.768
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0040
+  cites: ORS 676.762
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0050
+  cites: ORS 676.762
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0060
+  cites: ORS 676.765
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0070
+  cites: ORS 676.765
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0080
+  cites: ORS 676.768
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0090
+  cites: ORS 676.768
+  cause: renumbered_or_repealed
+- rule: oar-816-025-0100
+  cites: ORS 676.762
+  cause: renumbered_or_repealed
+- rule: oar-816-045-0000
+  cites: ORS 676.762
+  cause: renumbered_or_repealed
+- rule: oar-816-045-0000
+  cites: ORS 676.765
+  cause: renumbered_or_repealed
+- rule: oar-816-045-0000
+  cites: ORS 676.768
+  cause: renumbered_or_repealed
+- rule: oar-816-065-0000
+  cites: ORS 676.762
+  cause: renumbered_or_repealed
+- rule: oar-816-085-0000
+  cites: ORS 676.762
+  cause: renumbered_or_repealed
+- rule: oar-816-085-0000
+  cites: ORS 676.765
+  cause: renumbered_or_repealed
+- rule: oar-816-085-0000
+  cites: ORS 676.768
+  cause: renumbered_or_repealed
 - rule: oar-817-010-0069
   cites: ORS 676.605
   cause: renumbered_or_repealed
@@ -16556,6 +16646,12 @@ dead_citations:
 - rule: oar-943-120-0320
   cites: OAR 410-120-0310
   cause: oar_unclassified
+- rule: oar-944-001-0010
+  cites: ORS 430.391
+  cause: renumbered_or_repealed
+- rule: oar-944-001-0020
+  cites: ORS 430.391
+  cause: renumbered_or_repealed
 - rule: oar-945-001-0002
   cites: ORS 743.730
   cause: renumbered_or_repealed
@@ -16903,6 +16999,9 @@ malformed_citations:
 - rule: oar-644-001-0000
   why: missing space after ORS
   evidence: ORS1
+- rule: oar-648-030-0030
+  why: missing space after ORS
+  evidence: ORS5
 - rule: oar-658-010-0040
   why: missing space after ORS
   evidence: ORS5
