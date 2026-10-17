@@ -66,6 +66,27 @@ def _catchline_words(slice_text: str, sec: str) -> list[str]:
     return _words(body[:m.start()] if m else body)
 
 
+# The floor below which a slice used to be refused outright as "no section body found". It is
+# a floor on how much a slice must hold to be more than a table-of-contents row, not a claim
+# that a real section is never shorter: 24.335 and 587.010 are one sentence each.
+_MIN_BODY_CHARS = 120
+
+
+def has_body(slice_text: str, sec: str) -> bool:
+    """True when the slice is a section and not a bare TOC row. A slice of at least
+    `_MIN_BODY_CHARS` is taken as one, as it always was. A shorter one must show what a
+    printed section shows and a TOC row does not: ORS's own catchline terminator after the
+    number, then text after it. A number alone, a catchline with no period, and a catchline
+    with nothing following it all stay refused."""
+    if len(slice_text) >= _MIN_BODY_CHARS:
+        return True
+    if not slice_text.startswith(sec):
+        return False
+    rest = slice_text[len(sec):]
+    m = _CATCHLINE_END_RE.search(rest)
+    return bool(m and rest[m.end():].strip())
+
+
 def anchor_ok(slice_text: str, sec: str, title: str) -> bool:
     """Anchoring evidence: the slice must start with the section number, and the
     catalog title must agree, WORD FOR WORD IN ORDER FROM THE FRONT, with the text ORS
@@ -230,7 +251,7 @@ def ingest_chapter(ch, cat_chapter):
             kept += 1
             continue
         sl = snapshot_slice(doc_id, snap_id, raw_txt)
-        if len(sl) < 120:
+        if not has_body(sl, sec):
             refuse(s, "no section body found in the chapter text (likely renumbered/"
                       "repealed or a TOC cross-reference artifact); not ingested")
             skipped += 1
@@ -506,6 +527,32 @@ def _proof_a_refusal_never_publishes_through_the_real_consumer(ck):
         globals()["OUT"] = orig_out
 
 
+def _proof_a_short_complete_section_is_not_mistaken_for_no_body(ck):
+    """A section can be genuinely short: 24.335 ("Short title. ORS 24.260 to 24.335 may be
+    cited as the Uniform Foreign-Money Claims Act. [1991 c.202 §16]") is 111 characters and
+    587.010 (a one-sentence definition) 102 -- both under the old flat 120-character floor,
+    so the batch that ingested chapters 24 and 587 refused them as "no section body found"
+    although the page prints a complete section for each. What 'no body' means is that the
+    slice is a TOC line: a number and a catchline with NOTHING after it. So a short slice is
+    accepted only when ORS's own catchline terminator is there AND text follows it; a bare
+    TOC row, a catchline with no period, and a number with nothing after it stay refused."""
+    from repo_lib import ws_only
+    for ch, sec, title in (("24", "24.335", "Short title"), ("587", "587.010", "Definitions")):
+        raw = (SNAPSHOT_DIR / f"ors-chapter-{ch}.txt").read_text(encoding="utf-8", errors="replace")
+        sl = snapshot_slice(f"ors-{sec}", f"ors-chapter-{ch}", raw)
+        ck(f"{sec}: the real slice is short ({len(sl)} chars) and starts at its own number",
+           0 < len(sl) < 120 and sl.startswith(sec))
+        ck(f"{sec}: the real slice has a body (catchline terminator, then text)", has_body(sl, sec))
+        ck(f"{sec}: the real slice passes the anchor check", anchor_ok(sl, sec, title))
+    ck("a TOC row ('24.335 Short title') has no body", not has_body("24.335 Short title", "24.335"))
+    ck("a TOC row whose catchline ends in a period still has no body",
+       not has_body("24.335 Short title. ", "24.335"))
+    ck("a bare number has no body", not has_body("24.335", "24.335"))
+    ck("empty slice has no body", not has_body("", "24.335"))
+    ck("a long slice keeps the old verdict (has body)",
+       has_body("1.001 Title. " + "word " * 40, "1.001"))
+
+
 def _selftest() -> int:
     from repo_lib import Checks
     ck = Checks()
@@ -513,6 +560,7 @@ def _selftest() -> int:
     _proof_real_anchors_still_pass(ck)
     _proof_a_measured_residual_is_named_not_absorbed(ck)
     _proof_a_refusal_never_publishes_through_the_real_consumer(ck)
+    _proof_a_short_complete_section_is_not_mistaken_for_no_body(ck)
     return ck.report("ingest-ors selftest")
 
 
