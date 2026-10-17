@@ -109,6 +109,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 221 | Organization and Government of Cities | 126 | 126 |
 | 222 | City Boundary Changes; Annexations; Consolidations; Withdrawals; Mergers | 76 | 76 |
 | 223 | Local Improvements and Works Generally | 151 | 150 |
+| 224 | City Sewers and Sanitation | 31 | 31 |
 | 225 | Municipal Utilities | 41 | 41 |
 | 226 | City Parks, Memorials and Cemeteries | 44 | 44 |
 | 227 | City Planning and Zoning | 40 | 40 |
@@ -138,11 +139,16 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 260 | Campaign Finance Regulation; Election Offenses | 87 | 87 |
 | 261 | People’s Utility Districts | 78 | 77 |
 | 262 | JOINT OPERATING AGENCIES FOR ELECTRIC POWER PUBLIC ORGANIZATIONS FOR COMMUNITY SERVICE GENERAL PROVISIONS | 12 | 12 |
+| 263 | Convention Facilities | 8 | 8 |
+| 264 | Domestic Water Supply Districts | 62 | 62 |
+| 265 | Cemetery Maintenance Districts | 13 | 13 |
+| 266 | Park and Recreation Districts | 28 | 28 |
 | 267 | Mass Transit Districts; Transportation Districts | 86 | 86 |
 | 268 | METROPOLITAN SERVICE DISTRICTS | 48 | 48 |
 | 27 | Submitting Controversy Without Action or Suit (Former Provisions) | 0 | 0 |
 | 270 | State Real Property | 18 | 18 |
 | 271 | USE OF PUBLIC LANDS; EASEMENTS PUBLIC LANDS | 50 | 49 |
+| 272 | FEDERAL LANDS PUBLIC LANDS | 12 | 12 |
 | 273 | State Lands Generally | 146 | 146 |
 | 274 | Submersible and Submerged Lands | 103 | 103 |
 | 275 | COUNTY LANDS PUBLIC LANDS | 43 | 43 |
@@ -236,6 +242,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 366 | State Highways and State Highway Fund | 127 | 127 |
 | 367 | Transportation Financing; Projects | 73 | 73 |
 | 368 | County Roads | 74 | 74 |
+| 369 | Ways of Public Easement’ | 2 | 2 |
 | 37 | Receivership | 41 | 41 |
 | 370 | County Road Bonding Act | 12 | 12 |
 | 371 | Road Districts and Road Assessment Plans | 59 | 59 |
@@ -251,6 +258,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 390 | State and Local Parks; Recreation Programs; Scenic Waterways; Recreation Trails | 156 | 156 |
 | 391 | Mass Transportation | 28 | 28 |
 | 396 | Militia Generally | 51 | 51 |
+| 398 | Military Justice | 22 | 22 |
 | 399 | Organized Militia | 48 | 48 |
 | 40 | Evidence Code | 97 | 97 |
 | 401 | Emergency Management and Services | 98 | 97 |
@@ -290,6 +298,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 432 | Vital Statistics | 57 | 57 |
 | 433 | Disease and Condition Control; Mass Gatherings; Indoor Air | 140 | 139 |
 | 435 | Reproductive Health Care and Rights | 29 | 29 |
+| 436 | Sterilization | 15 | 15 |
 | 438 | Laboratories; Anatomical Material | 21 | 21 |
 | 44 | Witnesses | 22 | 22 |
 | 440 | Regional Health Entities | 31 | 31 |
@@ -366,6 +375,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 52 | Civil Actions; Small Claims | 57 | 57 |
 | 520 | Conservation of Gas and Oil | 29 | 29 |
 | 522 | Geothermal Resources | 50 | 50 |
+| 523 | Geothermal Heating Districts | 47 | 47 |
 | 526 | Forestry Administration | 139 | 138 |
 | 527 | Pest Control; Forest Practices | 73 | 72 |
 | 528 | Reforestation Lands and Taxation Thereof (Former Provisions) | 0 | 0 |
@@ -595,7 +605,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 97 | Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts | 149 | 149 |
 | 98 | Lost, Unclaimed or Abandoned Property; Vehicle Towing | 97 | 97 |
 | 99 | Property Removed by High Water | 6 | 6 |
-| **all** | | **38442** | **38217** |
+| **all** | | **38682** | **38457** |
 
 Per-section numbers/titles/paths: [`_meta/catalog/ors.yml`](../_meta/catalog/ors.yml).
 Sections marked `not_sliceable` there have no body text in the chapter HTML

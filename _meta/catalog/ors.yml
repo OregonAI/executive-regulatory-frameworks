@@ -28040,6 +28040,137 @@ chapters:
     title: Order under road legalization proceeding
     status: ingested
     path: statutes/ors-223.950.md
+- chapter: '224'
+  title: City Sewers and Sanitation
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors224.html
+  sections:
+  - number: '224.010'
+    title: Definitions for ORS 224.010 to 224.170
+    status: ingested
+    path: statutes/ors-224.010.md
+  - number: '224.020'
+    title: Authority of city to construct sewer system
+    status: ingested
+    path: statutes/ors-224.020.md
+  - number: '224.030'
+    title: Authority of city over water and waterways; limitations
+    status: ingested
+    path: statutes/ors-224.030.md
+  - number: '224.040'
+    title: Assessment of property; collection
+    status: ingested
+    path: statutes/ors-224.040.md
+  - number: '224.050'
+    title: Rights of owners outside city limits
+    status: ingested
+    path: statutes/ors-224.050.md
+  - number: '224.065'
+    title: Writ of review
+    status: ingested
+    path: statutes/ors-224.065.md
+  - number: '224.080'
+    title: Record and effect of judgment
+    status: ingested
+    path: statutes/ors-224.080.md
+  - number: '224.090'
+    title: Assessment lien on property outside city limits; priority
+    status: ingested
+    path: statutes/ors-224.090.md
+  - number: '224.100'
+    title: Records and indexes of transcripts; effect of writ of review
+    status: ingested
+    path: statutes/ors-224.100.md
+  - number: '224.110'
+    title: Enforcing liens on property outside city limits
+    status: ingested
+    path: statutes/ors-224.110.md
+  - number: '224.120'
+    title: Sale without foreclosure
+    status: ingested
+    path: statutes/ors-224.120.md
+  - number: '224.130'
+    title: Assessment of property in drainage district
+    status: ingested
+    path: statutes/ors-224.130.md
+  - number: '224.140'
+    title: Authority to control sewer system
+    status: ingested
+    path: statutes/ors-224.140.md
+  - number: '224.150'
+    title: Federal aid
+    status: ingested
+    path: statutes/ors-224.150.md
+  - number: '224.160'
+    title: Procurement of funds for construction
+    status: ingested
+    path: statutes/ors-224.160.md
+  - number: '224.170'
+    title: Certain laws and charter provisions applicable to property beyond city limits
+    status: ingested
+    path: statutes/ors-224.170.md
+  - number: '224.232'
+    title: Bond election; Environmental Quality Commission order; court enforcement; issuance of bonds
+      without elector approval
+    status: ingested
+    path: statutes/ors-224.232.md
+  - number: '224.270'
+    title: Validation of bond issues
+    status: ingested
+    path: statutes/ors-224.270.md
+  - number: '224.310'
+    title: Definitions for ORS 224.310 to 224.420
+    status: ingested
+    path: statutes/ors-224.310.md
+  - number: '224.320'
+    title: Municipalities eligible for state help in financing sewerage systems
+    status: ingested
+    path: statutes/ors-224.320.md
+  - number: '224.330'
+    title: Conditions precedent to financing application
+    status: ingested
+    path: statutes/ors-224.330.md
+  - number: '224.340'
+    title: Bonds; form and terms
+    status: ingested
+    path: statutes/ors-224.340.md
+  - number: '224.350'
+    title: General powers of State Treasurer under ORS 224.310 to 224.420; rules
+    status: ingested
+    path: statutes/ors-224.350.md
+  - number: '224.370'
+    title: Municipality or district not to issue other bonds
+    status: ingested
+    path: statutes/ors-224.370.md
+  - number: '224.380'
+    title: Limitations on authority of State Treasurer to purchase bonds
+    status: ingested
+    path: statutes/ors-224.380.md
+  - number: '224.390'
+    title: State Sewer Bond Revolving Fund
+    status: ingested
+    path: statutes/ors-224.390.md
+  - number: '224.400'
+    title: Approval by State Treasurer of rates, collection of charges and delinquent assessments; budget
+      approval
+    status: ingested
+    path: statutes/ors-224.400.md
+  - number: '224.410'
+    title: Authority to appoint receiver and withhold moneys from state sources on default
+    status: ingested
+    path: statutes/ors-224.410.md
+  - number: '224.420'
+    title: Duty of local treasurer to keep funds separate and withhold bond payments; liability of treasurer
+    status: ingested
+    path: statutes/ors-224.420.md
+  - number: '224.450'
+    title: Validation of revenue bonds issued by cities of less than 100,000; sale of bonds to federal
+      government
+    status: ingested
+    path: statutes/ors-224.450.md
+  - number: '224.510'
+    title: Sewage charge on water users
+    status: ingested
+    path: statutes/ors-224.510.md
 - chapter: '225'
   title: Municipal Utilities
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors225.html
@@ -34751,6 +34882,475 @@ chapters:
     title: Construction of ORS 262.005 to 262.115 and 308.505; severability
     status: ingested
     path: statutes/ors-262.115.md
+- chapter: '263'
+  title: Convention Facilities
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors263.html
+  sections:
+  - number: '263.210'
+    title: Creation of sports and convention facilities commission by ballot measure
+    status: ingested
+    path: statutes/ors-263.210.md
+  - number: '263.230'
+    title: Commission board of directors; meetings; vacancies; employees and agents
+    status: ingested
+    path: statutes/ors-263.230.md
+  - number: '263.240'
+    title: General powers of commission
+    status: ingested
+    path: statutes/ors-263.240.md
+  - number: '263.250'
+    title: Power to lease or contract for use of facilities; use of revenues to pay bonds
+    status: ingested
+    path: statutes/ors-263.250.md
+  - number: '263.260'
+    title: Authority to issue revenue and general obligation bonds
+    status: ingested
+    path: statutes/ors-263.260.md
+  - number: '263.270'
+    title: Fund to pay principal and interest on bonds; pledge of revenues
+    status: ingested
+    path: statutes/ors-263.270.md
+  - number: '263.280'
+    title: Annual budget; approval by county
+    status: ingested
+    path: statutes/ors-263.280.md
+  - number: '263.300'
+    title: Liberal construction of statutes
+    status: ingested
+    path: statutes/ors-263.300.md
+- chapter: '264'
+  title: Domestic Water Supply Districts
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors264.html
+  sections:
+  - number: '264.010'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-264.010.md
+  - number: '264.015'
+    title: Application of ORS chapter 255
+    status: ingested
+    path: statutes/ors-264.015.md
+  - number: '264.110'
+    title: Formation of domestic water supply district; sale of surplus water; exemptions
+    status: ingested
+    path: statutes/ors-264.110.md
+  - number: '264.114'
+    title: Annexation where water supply affected by wildfire emergency; petition; provision of water
+    status: ingested
+    path: statutes/ors-264.114.md
+  - number: '264.210'
+    title: General powers of district
+    status: ingested
+    path: statutes/ors-264.210.md
+  - number: '264.220'
+    title: Disposal of taxes levied when organization declared invalid
+    status: ingested
+    path: statutes/ors-264.220.md
+  - number: '264.240'
+    title: Eminent domain authority; acquisition of property and property rights; obtaining or laying
+      water pipelines
+    status: ingested
+    path: statutes/ors-264.240.md
+  - number: '264.250'
+    title: Authority to borrow money and issue general obligation bonds; place of payment
+    status: ingested
+    path: statutes/ors-264.250.md
+  - number: '264.260'
+    title: Issuance of revenue bonds
+    status: ingested
+    path: statutes/ors-264.260.md
+  - number: '264.270'
+    title: Issuance of refunding bonds
+    status: ingested
+    path: statutes/ors-264.270.md
+  - number: '264.280'
+    title: Bond sale procedure
+    status: ingested
+    path: statutes/ors-264.280.md
+  - number: '264.300'
+    title: Tax assessment, levy and collection
+    status: ingested
+    path: statutes/ors-264.300.md
+  - number: '264.306'
+    title: Regulations concerning use of water and district property; shutoff of water for noncompliance;
+      notice
+    status: ingested
+    path: statutes/ors-264.306.md
+  - number: '264.308'
+    title: Requiring cash deposits of water users
+    status: ingested
+    path: statutes/ors-264.308.md
+  - number: '264.310'
+    title: Rates for water furnished; contracts to sell surplus water
+    status: ingested
+    path: statutes/ors-264.310.md
+  - number: '264.312'
+    title: Increasing water rates; hearing; notice
+    status: ingested
+    path: statutes/ors-264.312.md
+  - number: '264.314'
+    title: Shutting off water if delinquent in payment of water bill
+    status: ingested
+    path: statutes/ors-264.314.md
+  - number: '264.320'
+    title: Refund of cost of water main extension
+    status: ingested
+    path: statutes/ors-264.320.md
+  - number: '264.330'
+    title: Hydrants for fire protection; regulations; rates
+    status: ingested
+    path: statutes/ors-264.330.md
+  - number: '264.335'
+    title: Authority to exercise powers of sanitary district
+    status: ingested
+    path: statutes/ors-264.335.md
+  - number: '264.336'
+    title: Exercise of sanitary district powers in territory covered by 2020 major disaster declaration
+      related to wildfires
+    status: ingested
+    path: statutes/ors-264.336.md
+  - number: '264.340'
+    title: Purchase and maintenance of fire equipment; contracting for fire protection; elections to authorize;
+      tax levy to defray expense; application of section
+    status: ingested
+    path: statutes/ors-264.340.md
+  - number: '264.342'
+    title: Adoption of fire prevention code
+    status: ingested
+    path: statutes/ors-264.342.md
+  - number: '264.344'
+    title: Scope of fire prevention code
+    status: ingested
+    path: statutes/ors-264.344.md
+  - number: '264.346'
+    title: Violation of code or failure to remove hazards prohibited
+    status: ingested
+    path: statutes/ors-264.346.md
+  - number: '264.348'
+    title: Copies of code to be filed with Department of State Fire Marshal and posted at fire stations
+    status: ingested
+    path: statutes/ors-264.348.md
+  - number: '264.349'
+    title: Revoking authority to furnish fire protection services; consequences
+    status: ingested
+    path: statutes/ors-264.349.md
+  - number: '264.350'
+    title: Street lighting system; contracts for electricity; tax levy and service charges to maintain
+      and purchase electric energy
+    status: ingested
+    path: statutes/ors-264.350.md
+  - number: '264.352'
+    title: Drainage work
+    status: ingested
+    path: statutes/ors-264.352.md
+  - number: '264.360'
+    title: Cooperative agreements; bonding power
+    status: ingested
+    path: statutes/ors-264.360.md
+  - number: '264.362'
+    title: Initiation of proceedings; survey and report of project
+    status: ingested
+    path: statutes/ors-264.362.md
+  - number: '264.364'
+    title: Board action on report
+    status: ingested
+    path: statutes/ors-264.364.md
+  - number: '264.366'
+    title: Declaration of intention; notice of improvement and hearing
+    status: ingested
+    path: statutes/ors-264.366.md
+  - number: '264.368'
+    title: Manner of doing work
+    status: ingested
+    path: statutes/ors-264.368.md
+  - number: '264.370'
+    title: Hearing; assessment ordinance
+    status: ingested
+    path: statutes/ors-264.370.md
+  - number: '264.372'
+    title: Methods of assessment; alternative financing
+    status: ingested
+    path: statutes/ors-264.372.md
+  - number: '264.374'
+    title: Appeal from assessment
+    status: ingested
+    path: statutes/ors-264.374.md
+  - number: '264.376'
+    title: Notice of assessment
+    status: ingested
+    path: statutes/ors-264.376.md
+  - number: '264.378'
+    title: Assessment lien records; foreclosure proceedings
+    status: ingested
+    path: statutes/ors-264.378.md
+  - number: '264.380'
+    title: Errors in assessment calculations
+    status: ingested
+    path: statutes/ors-264.380.md
+  - number: '264.382'
+    title: Deficit assessment
+    status: ingested
+    path: statutes/ors-264.382.md
+  - number: '264.384'
+    title: Excess assessment; rebate
+    status: ingested
+    path: statutes/ors-264.384.md
+  - number: '264.386'
+    title: Abandonment of proceedings
+    status: ingested
+    path: statutes/ors-264.386.md
+  - number: '264.388'
+    title: Guides in testing validity of proceedings; proceedings to correct
+    status: ingested
+    path: statutes/ors-264.388.md
+  - number: '264.390'
+    title: Reassessment
+    status: ingested
+    path: statutes/ors-264.390.md
+  - number: '264.394'
+    title: Enforcement of assessment lien
+    status: ingested
+    path: statutes/ors-264.394.md
+  - number: '264.410'
+    title: Board; qualification; terms
+    status: ingested
+    path: statutes/ors-264.410.md
+  - number: '264.417'
+    title: Position numbers for commissioners; certification of position number
+    status: ingested
+    path: statutes/ors-264.417.md
+  - number: '264.420'
+    title: Calling of special elections
+    status: ingested
+    path: statutes/ors-264.420.md
+  - number: '264.430'
+    title: Proceedings of board; election of officers; employment of personnel
+    status: ingested
+    path: statutes/ors-264.430.md
+  - number: '264.470'
+    title: Deposit and withdrawal of moneys; annual reports; records
+    status: ingested
+    path: statutes/ors-264.470.md
+  - number: '264.480'
+    title: Board of commissioners after merger or consolidation; duties; terms; filing boundary change
+      with county assessor and Department of Revenue
+    status: ingested
+    path: statutes/ors-264.480.md
+  - number: '264.505'
+    title: Agreement to supply additional water prior to approval of annexation petition
+    status: ingested
+    path: statutes/ors-264.505.md
+  - number: '264.540'
+    title: Fire hydrants in city joined or annexed to district; reversion of water system in city to district
+    status: ingested
+    path: statutes/ors-264.540.md
+  - number: '264.550'
+    title: Contracts between district and city joined or annexed to district
+    status: ingested
+    path: statutes/ors-264.550.md
+  - number: '264.560'
+    title: Permissible services; agreement required
+    status: ingested
+    path: statutes/ors-264.560.md
+  - number: '264.810'
+    title: Employees’ retirement system authorized
+    status: ingested
+    path: statutes/ors-264.810.md
+  - number: '264.820'
+    title: Budgeting for retirement system
+    status: ingested
+    path: statutes/ors-264.820.md
+  - number: '264.830'
+    title: Employee contributions
+    status: ingested
+    path: statutes/ors-264.830.md
+  - number: '264.840'
+    title: Limitation on membership
+    status: ingested
+    path: statutes/ors-264.840.md
+  - number: '264.875'
+    title: Assumption of debts and obligations of district upon dissolution
+    status: ingested
+    path: statutes/ors-264.875.md
+  - number: '264.990'
+    title: Penalties
+    status: ingested
+    path: statutes/ors-264.990.md
+- chapter: '265'
+  title: Cemetery Maintenance Districts
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors265.html
+  sections:
+  - number: '265.005'
+    title: “District” defined
+    status: ingested
+    path: statutes/ors-265.005.md
+  - number: '265.010'
+    title: Formation; filing boundary change with county assessor and Department of Revenue
+    status: ingested
+    path: statutes/ors-265.010.md
+  - number: '265.020'
+    title: Area in which district may be formed
+    status: ingested
+    path: statutes/ors-265.020.md
+  - number: '265.050'
+    title: Board of directors; terms
+    status: ingested
+    path: statutes/ors-265.050.md
+  - number: '265.075'
+    title: Changing number of members of board of directors
+    status: ingested
+    path: statutes/ors-265.075.md
+  - number: '265.100'
+    title: Organization of board; terms of first directors
+    status: ingested
+    path: statutes/ors-265.100.md
+  - number: '265.120'
+    title: Special elections
+    status: ingested
+    path: statutes/ors-265.120.md
+  - number: '265.130'
+    title: Meetings of board; officers
+    status: ingested
+    path: statutes/ors-265.130.md
+  - number: '265.135'
+    title: Application of ORS chapter 255 to district
+    status: ingested
+    path: statutes/ors-265.135.md
+  - number: '265.140'
+    title: Powers of district
+    status: ingested
+    path: statutes/ors-265.140.md
+  - number: '265.150'
+    title: Disposition of district funds
+    status: ingested
+    path: statutes/ors-265.150.md
+  - number: '265.160'
+    title: Interest on unpaid warrants
+    status: ingested
+    path: statutes/ors-265.160.md
+  - number: '265.200'
+    title: Pioneer cemetery maintenance districts; annexation
+    status: ingested
+    path: statutes/ors-265.200.md
+- chapter: '266'
+  title: Park and Recreation Districts
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors266.html
+  sections:
+  - number: '266.010'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-266.010.md
+  - number: '266.040'
+    title: Application of ORS chapter 255 to district
+    status: ingested
+    path: statutes/ors-266.040.md
+  - number: '266.110'
+    title: Petition for formation
+    status: ingested
+    path: statutes/ors-266.110.md
+  - number: '266.310'
+    title: Officers of district; qualifications
+    status: ingested
+    path: statutes/ors-266.310.md
+  - number: '266.320'
+    title: Number of board members elected at formation election; terms of office
+    status: ingested
+    path: statutes/ors-266.320.md
+  - number: '266.325'
+    title: Changing number of board members; election; notice to Secretary of State
+    status: ingested
+    path: statutes/ors-266.325.md
+  - number: '266.330'
+    title: Election of board members; terms
+    status: ingested
+    path: statutes/ors-266.330.md
+  - number: '266.335'
+    title: Continuing schedule of biennial elections after change in number of board members; powers of
+      Secretary of State
+    status: ingested
+    path: statutes/ors-266.335.md
+  - number: '266.340'
+    title: Oath of office of board members
+    status: ingested
+    path: statutes/ors-266.340.md
+  - number: '266.370'
+    title: Board as governing power; president and secretary; meetings
+    status: ingested
+    path: statutes/ors-266.370.md
+  - number: '266.375'
+    title: Manner of electing board members
+    status: ingested
+    path: statutes/ors-266.375.md
+  - number: '266.380'
+    title: Changing manner of electing board members; requirements; election
+    status: ingested
+    path: statutes/ors-266.380.md
+  - number: '266.385'
+    title: Boundaries of zones for board members; adjustment for population and boundary changes; filing
+      of boundary change with county assessor and Department of Revenue
+    status: ingested
+    path: statutes/ors-266.385.md
+  - number: '266.410'
+    title: General district powers
+    status: ingested
+    path: statutes/ors-266.410.md
+  - number: '266.430'
+    title: Sinking funds
+    status: ingested
+    path: statutes/ors-266.430.md
+  - number: '266.440'
+    title: Deposit and disbursement of district moneys
+    status: ingested
+    path: statutes/ors-266.440.md
+  - number: '266.450'
+    title: Regulations and orders adopted by board; penalty for violating regulation
+    status: ingested
+    path: statutes/ors-266.450.md
+  - number: '266.460'
+    title: District attorney to aid board; special counsel
+    status: ingested
+    path: statutes/ors-266.460.md
+  - number: '266.480'
+    title: Power to contract bonded indebtedness for certain purposes
+    status: ingested
+    path: statutes/ors-266.480.md
+  - number: '266.490'
+    title: Bond election at discretion of board or on petition
+    status: ingested
+    path: statutes/ors-266.490.md
+  - number: '266.512'
+    title: Authority for general obligation bonds; issuance and sale of general obligation bonds and revenue
+      bonds
+    status: ingested
+    path: statutes/ors-266.512.md
+  - number: '266.514'
+    title: Revenue bonds; issuance; conditions
+    status: ingested
+    path: statutes/ors-266.514.md
+  - number: '266.516'
+    title: Refunding bonds
+    status: ingested
+    path: statutes/ors-266.516.md
+  - number: '266.518'
+    title: Contracting with United States for facilities
+    status: ingested
+    path: statutes/ors-266.518.md
+  - number: '266.530'
+    title: Registration and delivery of bonds; disposition of proceeds
+    status: ingested
+    path: statutes/ors-266.530.md
+  - number: '266.560'
+    title: Redemption of bonds; notice
+    status: ingested
+    path: statutes/ors-266.560.md
+  - number: '266.580'
+    title: Payment of bond principal and interest; payment of collection commission
+    status: ingested
+    path: statutes/ors-266.580.md
+  - number: '266.590'
+    title: Validation of certain bond issues
+    status: ingested
+    path: statutes/ors-266.590.md
 - chapter: '267'
   title: Mass Transit Districts; Transportation Districts
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors267.html
@@ -35604,6 +36204,58 @@ chapters:
     title: Construction of Act
     status: ingested
     path: statutes/ors-271.795.md
+- chapter: '272'
+  title: FEDERAL LANDS PUBLIC LANDS
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors272.html
+  sections:
+  - number: '272.010'
+    title: Power of United States to acquire title for public improvements by eminent domain
+    status: ingested
+    path: statutes/ors-272.010.md
+  - number: '272.015'
+    title: Service of process
+    status: ingested
+    path: statutes/ors-272.015.md
+  - number: '272.020'
+    title: Conveyance of site to United States for aid to navigation
+    status: ingested
+    path: statutes/ors-272.020.md
+  - number: '272.030'
+    title: Acquisition of land for federal buildings
+    status: ingested
+    path: statutes/ors-272.030.md
+  - number: '272.033'
+    title: Fort Stevens
+    status: ingested
+    path: statutes/ors-272.033.md
+  - number: '272.036'
+    title: Oregon City canal
+    status: ingested
+    path: statutes/ors-272.036.md
+  - number: '272.040'
+    title: Acquisition of land for national forests; retention of jurisdiction for certain purposes
+    status: ingested
+    path: statutes/ors-272.040.md
+  - number: '272.050'
+    title: County governing body to approve acquisition for national forest
+    status: ingested
+    path: statutes/ors-272.050.md
+  - number: '272.060'
+    title: Federal migratory bird refuges
+    status: ingested
+    path: statutes/ors-272.060.md
+  - number: '272.070'
+    title: Crater Lake National Park
+    status: ingested
+    path: statutes/ors-272.070.md
+  - number: '272.075'
+    title: Sheridan Federal Correctional Institution
+    status: ingested
+    path: statutes/ors-272.075.md
+  - number: '272.085'
+    title: Five Percent United States Land Sales Fund; use of moneys
+    status: ingested
+    path: statutes/ors-272.085.md
 - chapter: '273'
   title: State Lands Generally
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors273.html
@@ -63163,6 +63815,18 @@ chapters:
     title: Penalties
     status: ingested
     path: statutes/ors-368.990.md
+- chapter: '369'
+  title: Ways of Public Easement’
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors369.html
+  sections:
+  - number: '369.020'
+    title: Designation of county market roads as ways of public easement
+    status: ingested
+    path: statutes/ors-369.020.md
+  - number: '369.025'
+    title: County market road within city
+    status: ingested
+    path: statutes/ors-369.025.md
 - chapter: '37'
   title: Receivership
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors037.html
@@ -66312,6 +66976,98 @@ chapters:
     title: Military Family Appreciation Day
     status: ingested
     path: statutes/ors-396.595.md
+- chapter: '398'
+  title: Military Justice
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors398.html
+  sections:
+  - number: '398.002'
+    title: Definitions for this chapter and ORS 396.120, 396.145, 399.205 and 399.515
+    status: ingested
+    path: statutes/ors-398.002.md
+  - number: '398.004'
+    title: Persons subject to Oregon Code of Military Justice
+    status: ingested
+    path: statutes/ors-398.004.md
+  - number: '398.006'
+    title: Jurisdiction to try certain personnel
+    status: ingested
+    path: statutes/ors-398.006.md
+  - number: '398.010'
+    title: Territorial applicability of Oregon Code of Military Justice
+    status: ingested
+    path: statutes/ors-398.010.md
+  - number: '398.012'
+    title: Judge advocates
+    status: ingested
+    path: statutes/ors-398.012.md
+  - number: '398.014'
+    title: Presentment of Class A felony charges to civilian authority
+    status: ingested
+    path: statutes/ors-398.014.md
+  - number: '398.058'
+    title: Restraint of priority prisoners; notice of charges; speedy disposition; conditional release
+    status: ingested
+    path: statutes/ors-398.058.md
+  - number: '398.060'
+    title: Place of confinement
+    status: ingested
+    path: statutes/ors-398.060.md
+  - number: '398.118'
+    title: Commutations and pardons granted by Governor; remittance of forfeitures and fines
+    status: ingested
+    path: statutes/ors-398.118.md
+  - number: '398.120'
+    title: Application for commutation or pardon
+    status: ingested
+    path: statutes/ors-398.120.md
+  - number: '398.216'
+    title: Statute of limitation
+    status: ingested
+    path: statutes/ors-398.216.md
+  - number: '398.224'
+    title: Refusal to appear or testify
+    status: ingested
+    path: statutes/ors-398.224.md
+  - number: '398.226'
+    title: Contempt
+    status: ingested
+    path: statutes/ors-398.226.md
+  - number: '398.234'
+    title: Number of votes required
+    status: ingested
+    path: statutes/ors-398.234.md
+  - number: '398.252'
+    title: Cruel and unusual punishments prohibited
+    status: ingested
+    path: statutes/ors-398.252.md
+  - number: '398.406'
+    title: Execution of process and sentence
+    status: ingested
+    path: statutes/ors-398.406.md
+  - number: '398.408'
+    title: Process of military courts
+    status: ingested
+    path: statutes/ors-398.408.md
+  - number: '398.412'
+    title: Immunity for action of military courts
+    status: ingested
+    path: statutes/ors-398.412.md
+  - number: '398.414'
+    title: Presumption of jurisdiction
+    status: ingested
+    path: statutes/ors-398.414.md
+  - number: '398.416'
+    title: Delegation of authority by Governor
+    status: ingested
+    path: statutes/ors-398.416.md
+  - number: '398.418'
+    title: Payment of expenses
+    status: ingested
+    path: statutes/ors-398.418.md
+  - number: '398.420'
+    title: Armed Forces Court of Appeals for Oregon
+    status: ingested
+    path: statutes/ors-398.420.md
 - chapter: '399'
   title: Organized Militia
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors399.html
@@ -78528,6 +79284,70 @@ chapters:
     title: Penalties
     status: ingested
     path: statutes/ors-435.990.md
+- chapter: '436'
+  title: Sterilization
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors436.html
+  sections:
+  - number: '436.200'
+    title: Voluntary sterilization
+    status: ingested
+    path: statutes/ors-436.200.md
+  - number: '436.205'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-436.205.md
+  - number: '436.215'
+    title: Legislative finding
+    status: ingested
+    path: statutes/ors-436.215.md
+  - number: '436.225'
+    title: Obtaining informed consent
+    status: ingested
+    path: statutes/ors-436.225.md
+  - number: '436.235'
+    title: Petition to determine ability to give informed consent
+    status: ingested
+    path: statutes/ors-436.235.md
+  - number: '436.245'
+    title: Petition content
+    status: ingested
+    path: statutes/ors-436.245.md
+  - number: '436.255'
+    title: Court hearing on petition; notice
+    status: ingested
+    path: statutes/ors-436.255.md
+  - number: '436.265'
+    title: Appointment of counsel; payment of expenses
+    status: ingested
+    path: statutes/ors-436.265.md
+  - number: '436.275'
+    title: Admissible evidence; subpoenas
+    status: ingested
+    path: statutes/ors-436.275.md
+  - number: '436.285'
+    title: Presence of respondent; waiver; medication
+    status: ingested
+    path: statutes/ors-436.285.md
+  - number: '436.295'
+    title: Court determination of ability to consent
+    status: ingested
+    path: statutes/ors-436.295.md
+  - number: '436.305'
+    title: Evidence on best interests of respondent
+    status: ingested
+    path: statutes/ors-436.305.md
+  - number: '436.315'
+    title: Appointment of appeal counsel; payment of expenses
+    status: ingested
+    path: statutes/ors-436.315.md
+  - number: '436.325'
+    title: Effect on surgical procedures
+    status: ingested
+    path: statutes/ors-436.325.md
+  - number: '436.335'
+    title: Report on disposition; biennial review; report to Legislative Assembly
+    status: ingested
+    path: statutes/ors-436.335.md
 - chapter: '438'
   title: Laboratories; Anatomical Material
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors438.html
@@ -100598,6 +101418,198 @@ chapters:
     title: Penalties
     status: ingested
     path: statutes/ors-522.990.md
+- chapter: '523'
+  title: Geothermal Heating Districts
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors523.html
+  sections:
+  - number: '523.010'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-523.010.md
+  - number: '523.015'
+    title: Definitions for ORS 523.020
+    status: ingested
+    path: statutes/ors-523.015.md
+  - number: '523.020'
+    title: City as geothermal heating district
+    status: ingested
+    path: statutes/ors-523.020.md
+  - number: '523.030'
+    title: Formation of geothermal heating districts; disposal of surplus; exclusion from district
+    status: ingested
+    path: statutes/ors-523.030.md
+  - number: '523.040'
+    title: Powers of district; emergency power; applying for financing gifts and grants
+    status: ingested
+    path: statutes/ors-523.040.md
+  - number: '523.050'
+    title: Water and real property transactions; right to obtain geothermal heat from other sources
+    status: ingested
+    path: statutes/ors-523.050.md
+  - number: '523.060'
+    title: Cooperative agreements; bonds
+    status: ingested
+    path: statutes/ors-523.060.md
+  - number: '523.070'
+    title: Authority to perform drainage work
+    status: ingested
+    path: statutes/ors-523.070.md
+  - number: '523.110'
+    title: Regulations on use of geothermal heat; effect of failure to comply
+    status: ingested
+    path: statutes/ors-523.110.md
+  - number: '523.120'
+    title: Deposit or other security for use of heat
+    status: ingested
+    path: statutes/ors-523.120.md
+  - number: '523.130'
+    title: Rates; contracts with users
+    status: ingested
+    path: statutes/ors-523.130.md
+  - number: '523.140'
+    title: Rate increase procedure
+    status: ingested
+    path: statutes/ors-523.140.md
+  - number: '523.150'
+    title: Termination of service for nonpayment of heating charge
+    status: ingested
+    path: statutes/ors-523.150.md
+  - number: '523.160'
+    title: Refund of heating service extension costs by owner of adjacent property
+    status: ingested
+    path: statutes/ors-523.160.md
+  - number: '523.210'
+    title: Special assessment for improvements; report; contents
+    status: ingested
+    path: statutes/ors-523.210.md
+  - number: '523.220'
+    title: Action on special assessment report by board
+    status: ingested
+    path: statutes/ors-523.220.md
+  - number: '523.230'
+    title: Approval of special assessment report; notice of improvement; contents
+    status: ingested
+    path: statutes/ors-523.230.md
+  - number: '523.240'
+    title: Means of constructing improvement
+    status: ingested
+    path: statutes/ors-523.240.md
+  - number: '523.250'
+    title: Order to carry out or abandon improvement after public hearing; assessment ordinance
+    status: ingested
+    path: statutes/ors-523.250.md
+  - number: '523.260'
+    title: Method of assessment
+    status: ingested
+    path: statutes/ors-523.260.md
+  - number: '523.270'
+    title: Appeal of assessment
+    status: ingested
+    path: statutes/ors-523.270.md
+  - number: '523.280'
+    title: Notice of assessment to property owners; publication; contents
+    status: ingested
+    path: statutes/ors-523.280.md
+  - number: '523.290'
+    title: Entry of amount of assessment; lien; priority; foreclosure
+    status: ingested
+    path: statutes/ors-523.290.md
+  - number: '523.310'
+    title: Errors in assessment
+    status: ingested
+    path: statutes/ors-523.310.md
+  - number: '523.320'
+    title: Deficit assessment; hearing; objections; notices
+    status: ingested
+    path: statutes/ors-523.320.md
+  - number: '523.330'
+    title: Excess assessment; credit; rebate
+    status: ingested
+    path: statutes/ors-523.330.md
+  - number: '523.340'
+    title: Abandonment of improvement; cancellation of liens; refunds
+    status: ingested
+    path: statutes/ors-523.340.md
+  - number: '523.350'
+    title: Restriction on rendering assessment invalid; correction by board
+    status: ingested
+    path: statutes/ors-523.350.md
+  - number: '523.360'
+    title: Reassessment
+    status: ingested
+    path: statutes/ors-523.360.md
+  - number: '523.380'
+    title: Foreclosure of assessment lien
+    status: ingested
+    path: statutes/ors-523.380.md
+  - number: '523.410'
+    title: Ad valorem taxation; special tax; collection; enforcement; boundary changes
+    status: ingested
+    path: statutes/ors-523.410.md
+  - number: '523.420'
+    title: Disposal of taxes levied by invalid district
+    status: ingested
+    path: statutes/ors-523.420.md
+  - number: '523.460'
+    title: General obligation bonds; limit; issuance; maturity; interest; election; pledge of revenue
+    status: ingested
+    path: statutes/ors-523.460.md
+  - number: '523.470'
+    title: Revenue bonds; terms; issuance
+    status: ingested
+    path: statutes/ors-523.470.md
+  - number: '523.480'
+    title: Refunding bonds
+    status: ingested
+    path: statutes/ors-523.480.md
+  - number: '523.490'
+    title: Issuance of bonds
+    status: ingested
+    path: statutes/ors-523.490.md
+  - number: '523.510'
+    title: Assumption of debts and obligations of district upon dissolution
+    status: ingested
+    path: statutes/ors-523.510.md
+  - number: '523.610'
+    title: Board; election; authority; term; vacancy
+    status: ingested
+    path: statutes/ors-523.610.md
+  - number: '523.625'
+    title: Election laws applicable
+    status: ingested
+    path: statutes/ors-523.625.md
+  - number: '523.630'
+    title: Meetings; officers; quorum; employees; employee benefits
+    status: ingested
+    path: statutes/ors-523.630.md
+  - number: '523.640'
+    title: Special election
+    status: ingested
+    path: statutes/ors-523.640.md
+  - number: '523.660'
+    title: District funds; deposit; records
+    status: ingested
+    path: statutes/ors-523.660.md
+  - number: '523.670'
+    title: Agreements between district and annexed or joined city
+    status: ingested
+    path: statutes/ors-523.670.md
+  - number: '523.680'
+    title: Employees’ retirement system; establishment; contents
+    status: ingested
+    path: statutes/ors-523.680.md
+  - number: '523.690'
+    title: Payments to retirement plan fund
+    status: ingested
+    path: statutes/ors-523.690.md
+  - number: '523.700'
+    title: Employee contributions to retirement plan
+    status: ingested
+    path: statutes/ors-523.700.md
+  - number: '523.710'
+    title: Limit on eligible individuals in retirement plan
+    status: ingested
+    path: statutes/ors-523.710.md
 - chapter: '526'
   title: Forestry Administration
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors526.html

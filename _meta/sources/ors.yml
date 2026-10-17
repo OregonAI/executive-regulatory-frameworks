@@ -519,6 +519,11 @@ sources:
   sha256: d65a27104c7472e3a1ac4f1e0edeb169d0e85f267c1299f86461a36aa4d091c6
   last_checked: '2026-07-26'
   notes: ORS chapter 223 (Local Improvements and Works Generally), 2025 Edition
+- id: ors-chapter-224
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors224.html
+  sha256: ccc8c2f8f49480a63d8f89d1cfef3eb74efd14bc69f6a8589977f5a1f7ad2d6a
+  last_checked: '2026-10-17'
+  notes: ORS chapter 224 (City Sewers and Sanitation), 2025 Edition
 - id: ors-chapter-225
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors225.html
   sha256: 095e4dd172526739dcd7e4fdbe1cc6d36eebcfc01b30b24a59c7505f9b36b636
@@ -655,6 +660,26 @@ sources:
   last_checked: '2026-07-26'
   notes: ORS chapter 262 (JOINT OPERATING AGENCIES FOR ELECTRIC POWER PUBLIC ORGANIZATIONS FOR COMMUNITY SERVICE
     GENERAL PROVISIONS), 2025 Edition
+- id: ors-chapter-263
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors263.html
+  sha256: 431eff41028349232ecacff7731acf56d561a3b51109944081e9d46a092e1bd9
+  last_checked: '2026-10-17'
+  notes: ORS chapter 263 (Convention Facilities), 2025 Edition
+- id: ors-chapter-264
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors264.html
+  sha256: 5dcfea7845e540a22e74960f4ca99ecd726cff8558edced118f9c8284a10f9b8
+  last_checked: '2026-10-17'
+  notes: ORS chapter 264 (Domestic Water Supply Districts), 2025 Edition
+- id: ors-chapter-265
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors265.html
+  sha256: cedbb7edbd287646fc92ffb3c14a506f4a8765a23e27951540b2cbabba2ebdc4
+  last_checked: '2026-10-17'
+  notes: ORS chapter 265 (Cemetery Maintenance Districts), 2025 Edition
+- id: ors-chapter-266
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors266.html
+  sha256: 64e148da8d6ba5552faa5b2e7f58eeba000f903dc033cdb1723eb37553f894e1
+  last_checked: '2026-10-17'
+  notes: ORS chapter 266 (Park and Recreation Districts), 2025 Edition
 - id: ors-chapter-267
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors267.html
   sha256: a6a9308a125f862e25420835d236d158335f6ec4acc620db1a4c353ab590a294
@@ -675,6 +700,11 @@ sources:
   sha256: 82b94b9dada77c0163fc29c57f92ebcc353839f9663d557c8f6fdd9b777f3c9d
   last_checked: '2026-07-26'
   notes: ORS chapter 271 (USE OF PUBLIC LANDS; EASEMENTS PUBLIC LANDS), 2025 Edition
+- id: ors-chapter-272
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors272.html
+  sha256: c2bdccf382174abe31051acbdc735cb0e5d557b9dda6d83c579b43c763592613
+  last_checked: '2026-10-17'
+  notes: ORS chapter 272 (FEDERAL LANDS PUBLIC LANDS), 2025 Edition
 - id: ors-chapter-273
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors273.html
   sha256: 4a130ffe638c965fd2ae41ad769dcb86e6bc598cc6ae482713bb78a430c97aa5
@@ -1116,6 +1146,11 @@ sources:
   sha256: 84ee935b448f5a1e9254479ac415596c234f83debc1304b1075f64c0e9aaab6b
   last_checked: '2026-07-26'
   notes: ORS chapter 368 (County Roads), 2025 Edition
+- id: ors-chapter-369
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors369.html
+  sha256: 905238ac7f4ecb9131c716db625ebbe7e63f07328e8d71831634f67d2f7c36db
+  last_checked: '2026-10-17'
+  notes: ORS chapter 369 (Ways of Public Easement’), 2025 Edition
 - id: ors-chapter-37
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors037.html
   sha256: 351e9a454cdbbade187a514576eba84bb7de4dd1750c44447cb3e0b2ad0a94e3
@@ -1191,6 +1226,11 @@ sources:
   sha256: 1cfbec95b5aa964fd1abb7b3aa8f8c7875f6002e3df7446f56493d44915b5f58
   last_checked: '2026-08-22'
   notes: ORS chapter 396 (Militia Generally), 2025 Edition
+- id: ors-chapter-398
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors398.html
+  sha256: 34a4a5773454bcb54efad6948f68dce055204c46c078c0e2c7132e8c9f0f24b1
+  last_checked: '2026-10-17'
+  notes: ORS chapter 398 (Military Justice), 2025 Edition
 - id: ors-chapter-399
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors399.html
   sha256: 060687480b04c9dce258166e11052ff31e764dbdefda410149ed6301e4e4c8b4
@@ -1387,6 +1427,11 @@ sources:
   sha256: 4d2c7dbc347389e4adc65957346289a30f4473d525edb3cbfbde67a7c2423cd6
   last_checked: '2026-07-20'
   notes: ORS chapter 435 (Chapter 435), 2025 Edition
+- id: ors-chapter-436
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors436.html
+  sha256: d03ae24f2024171c7edbc840a10c7b8ee6d103862d47e137216b5f4222d363f7
+  last_checked: '2026-10-17'
+  notes: ORS chapter 436 (Sterilization), 2025 Edition
 - id: ors-chapter-438
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors438.html
   sha256: 844e023808790f8cca9d1912e8d3c01943d46d28c28cac3dc2b6ead74684bf5e
@@ -1744,6 +1789,11 @@ sources:
   sha256: f5a17d41e71699b0009d0b6666d7a5089bcf95efcea06528ef24e2657c92ea78
   last_checked: '2026-07-20'
   notes: ORS chapter 522 (Chapter 522), 2025 Edition
+- id: ors-chapter-523
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors523.html
+  sha256: 26070bfb7b20b654017364b054ca7c6e12b80caae49913e1311eaf1b2556acdd
+  last_checked: '2026-10-17'
+  notes: ORS chapter 523 (Geothermal Heating Districts), 2025 Edition
 - id: ors-chapter-526
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors526.html
   sha256: e7d9d39dc929e927b2603ad1cc1f90620888a7bb90135ce065c7bb8465d82f1e
