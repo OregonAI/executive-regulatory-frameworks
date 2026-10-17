@@ -8,7 +8,44 @@ file's frontmatter).
 
 ## [Unreleased]
 
+### Added
+
+- 48 more ORS chapters, full text per section, via `src/catalog_ors.py` + `src/ingest_ors.py`:
+  1,468 new `statutes/ors-*.md` documents (statute total 39,002). By chapter, sections ingested:
+  2 (20), 14 (16), 24 (39), 28 (27), 31 (54, all), 37 (41), 42 (18), 52 (57), 53 (33), 54 (15),
+  55 (27), 67 (84 of 86), 70 (83), 72A (80), 74A (38, all), 81 (18), 99 (6), 105 (1: 105.462),
+  112 (80), 117 (10), 119 (17), 129 (33), 131A (52), 142 (7), 224 (31), 263 (8), 264 (62),
+  265 (13), 266 (28), 272 (12), 369 (2), 398 (22), 436 (15), 523 (47), 550 (32), 551 (18),
+  555 (37), 558 (39), 567 (28), 587 (15), 649 (7), 661 (13), 698 (3), 711 (90), 725A (39),
+  748 (42), 751 (3), 752 (6). Two sections are refused and stay `not_sliceable`: 67.042
+  ("non- waivable" against the printed "nonwaivable") and 67.600 (catalog title lacks "a"); each
+  row's `note` quotes the catchline found. 74A.1030, 74A.1040 and 31.262 were held for the
+  slicing defect below and are ingested now that it is fixed.
+
 ### Fixed
+
+- `repo_lib.snapshot_slice` now ends a section at the next section in ANY chapter. The
+  next-section pattern required a three-digit chapter and a three-digit tail, so in every
+  chapter below 100 (and 72A/74A) a slice ran on to the next part heading or the end of the
+  page: 24.330 carried all of 24.335, 24.260 carried 24.265 through 24.335. Re-sliced from the
+  cached snapshots (no network) with `src/backfill_ors_slice_end.py`: 4,334 documents lose
+  later sections' text (585 of them new in this change, 3,749 already on main). A number that is itself cited
+  ("ORS 195.300, 195.305 Foo") no longer ends a section either; that had cut 93.040, 105.464,
+  243.144 and 657.435 short, and they are extended. 290 three-digit-chapter documents that
+  carry only a trailing part heading are a separate, older defect and are not touched here.
+- `src/catalog_ors.py` `XREF_RE` masks a catchline cross-reference to a chapter of any width.
+  In a chapter below 100, "Definitions for ORS 24.350 to 24.400." was cut at "ORS", and a
+  cross-chapter citation to such a chapter cut the title likewise (133.721 "Definitions for
+  ORS 41.910 and"). 210 titles in 54 chapters are corrected in the catalog and in 209 documents
+  (`src/backfill_ors_titles.py`), including 1.194, which `catalog_ors --selftest` had pinned
+  at the truncated "Definitions for ORS". Titles ending in "or" before the next number
+  (307.155, 90.720, 707.020 and 34 more) are the same shape with a different join word and are
+  not changed here.
+- `src/link_graph.py` no longer reads a dotted policy number as an ORS citation: DAS policies
+  70.005.02 and 70.005.05 gained a false "implements ORS 70.005" edge (limited-partnership
+  definitions) once chapter 70 was mirrored, and 13 other policies and EO 19-03 carry the same
+  shape (40.010.02, 105.040.001). A bare number followed by ".<digit>" is skipped; a
+  prefixed "ORS" citation resolves as before. 16 documents lose one false edge each.
 
 - `repo_lib.snapshot_slice` no longer anchors an ORS section on a later citation of it: a number
   right after "ORS", "and", "to", "or", "section(s)" or a comma is skipped as a heading
