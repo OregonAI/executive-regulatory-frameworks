@@ -100074,6 +100074,128 @@ chapters:
       status: ingested
       path: rules/647/040/oar-647-040-0140.md
   discovered: '2026-08-27'
+- chapter: '648'
+  title: Oregon Hemp Commission
+  url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=320
+  divisions:
+  - division: '1'
+    title: PROCEDURES FOR NOTICES OF PROPOSED RULEMAKING
+    status: ingested
+    rules:
+    - number: 648-001-0010
+      status: ingested
+      path: rules/648/001/oar-648-001-0010.md
+  - division: '10'
+    title: REPORTING AND PAYMENT OF ASSESSMENTS
+    status: ingested
+    rules:
+    - number: 648-010-0010
+      status: ingested
+      path: rules/648/010/oar-648-010-0010.md
+    - number: 648-010-0020
+      status: ingested
+      path: rules/648/010/oar-648-010-0020.md
+    - number: 648-010-0030
+      status: ingested
+      path: rules/648/010/oar-648-010-0030.md
+    - number: 648-010-0040
+      status: ingested
+      path: rules/648/010/oar-648-010-0040.md
+    - number: 648-010-0050
+      status: ingested
+      path: rules/648/010/oar-648-010-0050.md
+    - number: 648-010-0060
+      status: ingested
+      path: rules/648/010/oar-648-010-0060.md
+    - number: 648-010-0070
+      status: ingested
+      path: rules/648/010/oar-648-010-0070.md
+  - division: '20'
+    title: PUBLIC RECORDS REQUESTS PROCEDURES
+    status: ingested
+    rules:
+    - number: 648-020-0010
+      status: ingested
+      path: rules/648/020/oar-648-020-0010.md
+    - number: 648-020-0020
+      status: ingested
+      path: rules/648/020/oar-648-020-0020.md
+    - number: 648-020-0030
+      status: ingested
+      path: rules/648/020/oar-648-020-0030.md
+    - number: 648-020-0040
+      status: ingested
+      path: rules/648/020/oar-648-020-0040.md
+    - number: 648-020-0050
+      status: ingested
+      path: rules/648/020/oar-648-020-0050.md
+    - number: 648-020-0060
+      status: ingested
+      path: rules/648/020/oar-648-020-0060.md
+  - division: '30'
+    title: COMMISSION MAKE-UP, TERMS, QUALIFICATIONS, ELECTION OF OFFICERS, REMOVAL FROM OFFICE
+    status: ingested
+    rules:
+    - number: 648-030-0010
+      status: ingested
+      path: rules/648/030/oar-648-030-0010.md
+    - number: 648-030-0020
+      status: ingested
+      path: rules/648/030/oar-648-030-0020.md
+    - number: 648-030-0030
+      status: ingested
+      path: rules/648/030/oar-648-030-0030.md
+    - number: 648-030-0040
+      status: ingested
+      path: rules/648/030/oar-648-030-0040.md
+    - number: 648-030-0050
+      status: ingested
+      path: rules/648/030/oar-648-030-0050.md
+    - number: 648-030-0060
+      status: ingested
+      path: rules/648/030/oar-648-030-0060.md
+  - division: '40'
+    title: COMMISSIONER PER DIEM COMPENSATION AND EXPENSE REIMBURSEMENT
+    status: ingested
+    rules:
+    - number: 648-040-0100
+      status: ingested
+      path: rules/648/040/oar-648-040-0100.md
+    - number: 648-040-0110
+      status: ingested
+      path: rules/648/040/oar-648-040-0110.md
+    - number: 648-040-0120
+      status: ingested
+      path: rules/648/040/oar-648-040-0120.md
+    - number: 648-040-0130
+      status: ingested
+      path: rules/648/040/oar-648-040-0130.md
+    - number: 648-040-0140
+      status: ingested
+      path: rules/648/040/oar-648-040-0140.md
+  - division: '50'
+    title: INTELLECTUAL PROPERTY PROCEDURES
+    status: ingested
+    rules:
+    - number: 648-050-0010
+      status: ingested
+      path: rules/648/050/oar-648-050-0010.md
+    - number: 648-050-0020
+      status: ingested
+      path: rules/648/050/oar-648-050-0020.md
+    - number: 648-050-0030
+      status: ingested
+      path: rules/648/050/oar-648-050-0030.md
+    - number: 648-050-0040
+      status: ingested
+      path: rules/648/050/oar-648-050-0040.md
+    - number: 648-050-0050
+      status: ingested
+      path: rules/648/050/oar-648-050-0050.md
+    - number: 648-050-0060
+      status: ingested
+      path: rules/648/050/oar-648-050-0060.md
+  discovered: '2026-10-17'
 - chapter: '656'
   title: Department of Agriculture, Oregon Trawl Commission
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=64

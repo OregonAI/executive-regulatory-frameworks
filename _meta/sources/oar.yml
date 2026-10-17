@@ -23654,6 +23654,161 @@ sources:
   sha256: 5da7a0737156c565d9cd8cb97798b375a39900e30c0c08e3cdacaadd1b812b69
   last_checked: '2026-08-28'
   notes: Procedures for Expense Reimbursement
+- id: oar-648-001-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-001-0010
+  sha256: eb06aa2f4ea9ceb3439ef8fa1f674d28bc06b5f34b44bfe84ccd31d3662ad088
+  last_checked: '2026-10-17'
+  notes: PROCEDURES FOR NOTICES OF PROPOSED RULEMAKING
+- id: oar-648-010-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-010-0010
+  sha256: 91fe4a0abfe08be1e0d9d5443db44acd5129091fd83c441851c6db3c61081d21
+  last_checked: '2026-10-17'
+  notes: Definitions
+- id: oar-648-010-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-010-0020
+  sha256: f9754ee5acf2c51dd95aac9e9646a0ee2aea496090f16a76de0e0bdbefd87376
+  last_checked: '2026-10-17'
+  notes: Assessments
+- id: oar-648-010-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-010-0030
+  sha256: 10e5ebf2beb39f03300e1e56ccb640bc9acc63f100eba57b73348da5a4bef4f3
+  last_checked: '2026-10-17'
+  notes: Effective Dates of Assessments
+- id: oar-648-010-0040
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-010-0040
+  sha256: 16f4a1da198679c5e5903728e652b2ae1b5915543efc999c48517cba1a970292
+  last_checked: '2026-10-17'
+  notes: Reports and Payments of Assessment Moneys
+- id: oar-648-010-0050
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-010-0050
+  sha256: cb1f4ddfe8234121234f03d4c61ee351d5ae2ded56582285d309c3d96071b0c7
+  last_checked: '2026-10-17'
+  notes: Penalties
+- id: oar-648-010-0060
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-010-0060
+  sha256: 59ad66e3b9266ab0df3848f5448f56e25f28421e1db6e1ad089a2827fc3c4ac3
+  last_checked: '2026-10-17'
+  notes: Records of Producer Required to Pay Assessment
+- id: oar-648-010-0070
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-010-0070
+  sha256: 2c36aeebac6ab8970e2bd7910b90f9e5e4a82e68fb0acb9d2a86b298eb9c357d
+  last_checked: '2026-10-17'
+  notes: Dispute Regarding Amount of Assessment
+- id: oar-648-020-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-020-0010
+  sha256: 56ac73ca8d1ae4ef0f78d8f18367ad3b03adb1c204b396c379ac4d7d11b244b8
+  last_checked: '2026-10-17'
+  notes: Purpose of Public Records Requests Processing Rules
+- id: oar-648-020-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-020-0020
+  sha256: 1a41b95c10f5a5feb3b66a9012e6344d844c6711bb36a5f6767dfe4decccf433
+  last_checked: '2026-10-17'
+  notes: Request to Inspect or Make Copies of Public Records
+- id: oar-648-020-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-020-0030
+  sha256: a8fc203344377fb448e015211d57cf526e3e42ca9cb1cdd3b94bdb9624820256
+  last_checked: '2026-10-17'
+  notes: Commission Procedure for Responses to Public Records Requests
+- id: oar-648-020-0040
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-020-0040
+  sha256: 624e468f027152ade1ac03e4db24552daea8087bbe8e7b7f7cba659a8e96e159
+  last_checked: '2026-10-17'
+  notes: Exceptions to Established Time Periods
+- id: oar-648-020-0050
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-020-0050
+  sha256: c6f419b7fb59b8303cd2d108a1a00f0a6d63e9f008cb4bbf363fc9274aeb88e9
+  last_checked: '2026-10-17'
+  notes: Fee for Cost of Making Public Records Available
+- id: oar-648-020-0060
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-020-0060
+  sha256: 5ae0ccccca50c0a5140ff8ed9f653789223ad6b9ffa2e89c1c08cc756d9740cd
+  last_checked: '2026-10-17'
+  notes: Fee Waiver or Reduction
+- id: oar-648-030-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-030-0010
+  sha256: ae11b4c8e357f4061d465582ac9365314b8ed9444e807e2fea226731c8bba8c7
+  last_checked: '2026-10-17'
+  notes: Definitions
+- id: oar-648-030-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-030-0020
+  sha256: 00ac5d3c0510d7974b97647ccd601fbbf3d24815437d92cd7eb4c3e5d5dd41bf
+  last_checked: '2026-10-17'
+  notes: Number of Commissioners; Term Length
+- id: oar-648-030-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-030-0030
+  sha256: ad27b6ef1d75761ea21286990aec2e862f1d283e5e7a5de10fe493422531b6fd
+  last_checked: '2026-10-17'
+  notes: Qualifications of Commissioners
+- id: oar-648-030-0040
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-030-0040
+  sha256: d4b235101ced6c9219181e8fb3ab4d1ee2c297dd7ec76224b2c1a27fb81f5002
+  last_checked: '2026-10-17'
+  notes: Geographic Representation
+- id: oar-648-030-0050
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-030-0050
+  sha256: 62bfe10fc4d2e3c740880bfeaf07bc575f0375dfc2757a0f16ce54c469e5ce17
+  last_checked: '2026-10-17'
+  notes: Chairperson and Other Officers
+- id: oar-648-030-0060
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-030-0060
+  sha256: d9416e451faeb7612362096cf307dc7051a63dd14d1b4668ed1f9015cad37e97
+  last_checked: '2026-10-17'
+  notes: Removal of Commissioners
+- id: oar-648-040-0100
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-040-0100
+  sha256: d656e2a939454286d9e46b7e8e9b9622e8a244a8ee98dc08f25401b11938dcfa
+  last_checked: '2026-10-17'
+  notes: Definitions
+- id: oar-648-040-0110
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-040-0110
+  sha256: 7f813f11e0a5dfd2fe307cdac440752cd8f68a5237ae48790fe7520a0199cefd
+  last_checked: '2026-10-17'
+  notes: Qualified Members
+- id: oar-648-040-0120
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-040-0120
+  sha256: 065fd18f5dda4ec1118d45c0722f9012aa696b9014db9f601abb7bc4fd585317
+  last_checked: '2026-10-17'
+  notes: Non-Qualified Members
+- id: oar-648-040-0130
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-040-0130
+  sha256: 9269642f457dfc3f037fdc56570a62702b45aaeb5e87fd60d193dad9ac52e8f6
+  last_checked: '2026-10-17'
+  notes: Procedures for Payment of Per Diem Compensation
+- id: oar-648-040-0140
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-040-0140
+  sha256: 31609d0a73df5a2b5bec057a5a5901ecafb15e8942e2dbb5d2b27ab261fa1453
+  last_checked: '2026-10-17'
+  notes: Procedures for Expense Reimbursement
+- id: oar-648-050-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-050-0010
+  sha256: 12febe323e16f9754d85de695726ab6b4af894e8084606e3fa71b00c457b2a5a
+  last_checked: '2026-10-17'
+  notes: Purpose and Objectives
+- id: oar-648-050-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-050-0020
+  sha256: 2317d8d3c06c09932867166b8fdacf99cb758c7c706e1a3be4e0b53c86332279
+  last_checked: '2026-10-17'
+  notes: Definitions
+- id: oar-648-050-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-050-0030
+  sha256: 55b404b9018826f6c635feb1337a4a545063ab9693cb3d602b87cc20fa0e5afa
+  last_checked: '2026-10-17'
+  notes: Authority to Own, Manage, Dispose of, and Use Intellectual Property
+- id: oar-648-050-0040
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-050-0040
+  sha256: cf9a27be0e9f8f853f30811e745280d1ae4f3cf9095c8f4a43c212ebfba707ee
+  last_checked: '2026-10-17'
+  notes: Guidelines Concerning Acquisition and Use of Intellectual Property
+- id: oar-648-050-0050
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-050-0050
+  sha256: 8bc695a7ea2cf9eaa670ce6f4015432e8d10373e90229d512ea588fdcf1fca0f
+  last_checked: '2026-10-17'
+  notes: Fees and Other Moneys Received by the Commission
+- id: oar-648-050-0060
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-050-0060
+  sha256: 071e530e6bc3fa5ce1792f79b909858d0e982b05d3f6d5f8e73bc7a78e3d02b9
+  last_checked: '2026-10-17'
+  notes: Waiver or Modification
 - id: oar-656-040-0100
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=656-040-0100
   sha256: 769a621eba52e932bcf7d1401dbf6744f742ef414c4dd1df17c93d12369d06f3

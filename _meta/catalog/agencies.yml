@@ -51,18 +51,18 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   the fetch that just ran, and src/link_budget_codes.py''s _absent_entry() stamps the SAME already-recorded
   observation''s own date onto a MANUAL_ENTRIES row it adds, refusing outright if no observation has ever
   been recorded. It stays null until one of those two has run, which CONTEXT.md''s overriding rule requires:
-  ''could not check'' is never reported as ''is not there''. It marks eighteen rows today, including two
-  (chapters 419, 950) that DO carry an oar_chapter -- a mirror gap, not a chapterless body. `manual`,
-  its predecessor, is retired (#169): no row may carry it, whether or not this field does. enabling_authority,
-  where present, is what created the body — an ORS citation, a constitutional article, or an executive
-  order (ADR 0003) — or `none: ` and the reason there is none. It is hand-reviewed (src/link_enabling_authority.py),
+  ''could not check'' is never reported as ''is not there''. It marks nineteen rows today, including seven
+  (chapters 180, 404, 419, 648, 800, 831, 950) that DO carry an oar_chapter -- a mirror gap, not a chapterless
+  body. `manual`, its predecessor, is retired (#169): no row may carry it, whether or not this field does.
+  enabling_authority, where present, is what created the body — an ORS citation, a constitutional article,
+  or an executive order (ADR 0003) — or `none: ` and the reason there is none. It is hand-reviewed (src/link_enabling_authority.py),
   is NOT scraped, and is preserved across --refresh. An ABSENT enabling_authority means nobody has reviewed
   this body yet; it never means the body has no enabling authority, which is what the `none: ` form says
   and says with a reason. oar_chapter is the OAR chapter this body''s rules are filed under, scraped from
   the index tree; null on the chapterless rows is not a gap — a body is in this registry because it EXISTS,
   not because it issues rules. source_url is the chapter page each row was scraped from, where the scrape
-  found one: null on 12 of the 17 chapterless rows, not all of them — the other five hold a source_url
-  that is not a chapter page (four hold the mirror''s own rules index, https://oregon.public.law/rules,
+  found one: null on 11 of the 15 chapterless rows, not all of them — the other four hold a source_url
+  that is not a chapter page (three hold the mirror''s own rules index, https://oregon.public.law/rules,
   and the saif-corporation row holds its own site). aliases, where present, are other names the same body
   is known by, including former names after a rename — hand-reviewed once, curated, and preserved across
   --refresh. note is scrape-only (#178): cmd_refresh() writes one of exactly three sentences into it,
@@ -1504,11 +1504,19 @@ organizations:
   name: Mental Health Regulatory Agency
   name_basis: unverified-oar-title
   oar_name: Mental Health Regulatory Agency
-  oar_chapter: null
+  oar_chapter: '831'
   raw_index_name: Mental Health Regulatory Agency
-  source_url: https://oregon.public.law/rules
+  source_url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=219
   parent_chapter: null
   relations: []
+  absent_from_index_as_of: '2026-09-12'
+  curator_note: OARD's chapter dropdown (ruleSearch.action, 2026-10-17) prints '831 - Mental Health Regulatory
+    Agency', and the chapter page says "There are no divisions to display" (2026-10-17), so the chapter
+    holds no rules to mirror and catalog_oar.py --discover writes no entry for it (#259). The oregon.public.law
+    index lists this body only as a chapterless group over chapters 833 and 858, and its recorded observation
+    (oar_index_observation.yml, 2026-09-12) has no chapter 831, so the chapter is dated absent from the
+    index on that observation's own date. A real --refresh rebuilds this row from that group, where oar_chapter
+    is null; review this row after any refresh.
   das_agency_number: '108'
   enabling_authority: ORS 675.160
 - slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
@@ -1518,7 +1526,7 @@ organizations:
   oar_chapter: '833'
   raw_index_name: Or. Board of Licensed Professional Counselors & Therapists
   source_url: https://oregon.public.law/rules/oar_chapter_833
-  parent_chapter: null
+  parent_chapter: '831'
   relations:
   - target: mental-health-regulatory-agency
     source: oar-index
@@ -1533,7 +1541,7 @@ organizations:
   oar_chapter: '858'
   raw_index_name: Or. Board of Psychology
   source_url: https://oregon.public.law/rules/oar_chapter_858
-  parent_chapter: null
+  parent_chapter: '831'
   relations:
   - target: mental-health-regulatory-agency
     source: oar-index
@@ -2084,9 +2092,9 @@ organizations:
   name: Oregon Hemp Commission
   name_basis: enabling-authority
   oar_name: Oregon Hemp Commission
-  oar_chapter: null
-  raw_index_name: Oregon Hemp Commission
-  source_url: null
+  oar_chapter: '648'
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=648-001-0010
   parent_chapter: '603'
   relations:
   - target: department-of-agriculture
@@ -2101,7 +2109,10 @@ organizations:
     OAM numbers as that ADR''s standing report expects. Also unlike its 23 department-of-agriculture-*
     siblings this row''s slug carries no parent prefix (ADR 0003: no compound `Parent, Child` name to
     split), so after this row the registry has 23 rows matching that slug prefix and 24 rows whose relations
-    target department-of-agriculture — pick the join deliberately; they now differ.'
+    target department-of-agriculture — pick the join deliberately; they now differ. OAR chapter 648: OARD''s
+    chapter dropdown (ruleSearch.action, 2026-10-17) prints ''648 - Department of Agriculture, Oregon
+    Hemp Commission''. The chapter is absent from oregon.public.law''s index (mirror gap), so OAR discovery
+    never walked it until this row held it.'
   enabling_authority: ORS 571.406
 - slug: oregon-housing-and-community-services-department
   name: Oregon Housing and Community Services Department
