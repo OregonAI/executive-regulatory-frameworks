@@ -63,9 +63,19 @@ OAR_CATALOG = REPO_ROOT / "_meta/catalog/oar.yml"
 # "ORS" prefix (measured: 0 counterexamples among 135 single-digit-chapter matches that
 # resolve to a real ORS document, across the 5 whole-body-scanned agencies).
 ORS_RE = re.compile(
-    r"\bORS\s+(\d\.\d{3,4})\b"            # single-digit chapter: "ORS" prefix mandatory
-    r"|\b(\d{2,3}[A-Z]?\.\d{3,4})\b"      # 2-3-digit chapter: prefix optional, as before #293
+    r"\bORS\s+(\d{1,3}[A-Z]?\.\d{3,4})\b"         # "ORS" prefix: any chapter width
+    r"|\b(\d{2,3}[A-Z]?\.\d{3,4})\b(?!\.\d)"       # bare: 2-3-digit chapter only, and not the
+                                                    # head of a longer dotted number
 )
+# The bare branch refuses a number followed by '.<digit>' (the head of a LONGER dotted number).
+# It does not look behind: 'ORS.243.125(1)' and '285B.285B.218' are typos of real citations. DAS HR
+# policy numbers print as '70.005.02' and 'Policy 70.005.05'; with the prefix optional for a
+# two-digit chapter, '70.005' inside them resolved to ORS 70.005 (limited-partnership
+# definitions) the moment chapter 70 was mirrored, and gave both policies a false 'implements'
+# edge (likewise 40.010.02 -> ORS 40.010). The prefix stays optional for a bare number in a
+# list ('ORS 9.320, 183.341(1), 70.005' is real), and a PREFIXED citation keeps resolving even
+# when the source mistypes it with a dotted tail ('ORS 285A.420.420 - 285A.435' still cites
+# 285A.420), which is why the prefixed branch carries no such guard.
 OAR_RULE_RE = re.compile(r"\b(\d{3}-\d{3}-\d{4})\b")
 OAR_DIV_RE = re.compile(r"OAR\s+(\d{3}-\d{3})(?!-)")
 DIV_LINK_CAP = 12  # division-level citations link all its rules only if small
@@ -427,12 +437,39 @@ def main():
             fails.append("FAIL the-catalog-supplies-the-suspended-set: none found, so the "
                          "rule cannot fire on real data")
 
+        # 5. A DOTTED POLICY NUMBER IS NOT AN ORS CITATION. DAS HR policy 70.005.02 prints its
+        #    own number, and ORS 70.005 exists in this corpus once chapter 70 is mirrored.
+        #    The real policy's authority text, the real predicate, and a docs set holding the
+        #    statute: it must cite nothing. And a genuine citation, bare or prefixed, still does.
+        ors_docs = {"ors-70.005": 1, "ors-183.341": 1, "ors-9.320": 1, "ors-243.125": 1}
+        pol = REPO_ROOT / "agencies/department-of-administrative-services/policies/das-70-005-02.md"
+        if pol.exists():
+            pfm, pbody = parse_frontmatter(pol)
+            ptext = authority_text(pfm, pbody) + " Policy 70.005.05  70.005.02"
+        else:
+            ptext = "70.005.02   70.005.02 Policy 70.005.05"
+        got = resolve_citations(ptext, ors_docs, {}, {}, {}, "das-70-005-02", {})
+        if got:
+            fails.append(f"FAIL a-dotted-policy-number-is-not-an-ors-citation: "
+                         f"das-70-005-02 resolved to {sorted(got)}")
+        got = resolve_citations("ORS 9.320, 183.341(1), 70.005 and ORS 70.005.",
+                                ors_docs, {}, {}, {}, "x", {})
+        if got != {"ors-9.320", "ors-183.341", "ors-70.005"}:
+            fails.append(f"FAIL a-real-citation-still-resolves: got {sorted(got)}")
+        got = resolve_citations("ORS.243.125(1)", ors_docs, {}, {}, {}, "x", {})
+        if got != {"ors-243.125"}:
+            fails.append(f"FAIL a-citation-with-a-dot-after-ORS-still-resolves: got {sorted(got)}")
+        got = resolve_citations("ORS 183.341.341 - 70.005", ors_docs, {}, {}, {}, "x", {})
+        if got != {"ors-183.341", "ors-70.005"}:
+            fails.append(f"FAIL a-prefixed-citation-with-a-mistyped-tail-still-resolves: "
+                         f"got {sorted(got)}")
+
         for f in fails:
             print(f)
         if fails:
             print(f"{len(fails)} rule(s) did not hold")
             sys.exit(1)
-        print(f"3 rule(s) held, each watched against the collapse it forbids; "
+        print(f"5 rule(s) held, each watched against the collapse it forbids; "
               f"{len(live)} suspended rule(s) keep their authority edges on real data")
         return
 
