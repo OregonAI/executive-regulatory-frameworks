@@ -1108,34 +1108,34 @@ rules:
   corpus_state: held
 - number: 699-010-0010
   action: adopt
-  corpus_state: chapter_not_mirrored
+  corpus_state: held
 - number: 699-010-0020
   action: adopt
-  corpus_state: chapter_not_mirrored
+  corpus_state: held
 - number: 699-010-0030
   action: adopt
-  corpus_state: chapter_not_mirrored
+  corpus_state: held
 - number: 699-010-0040
   action: adopt
-  corpus_state: chapter_not_mirrored
+  corpus_state: held
 - number: 699-010-0050
   action: adopt
-  corpus_state: chapter_not_mirrored
+  corpus_state: held
 - number: 699-010-0060
   action: adopt
-  corpus_state: chapter_not_mirrored
+  corpus_state: held
 - number: 699-010-0070
   action: adopt
-  corpus_state: chapter_not_mirrored
+  corpus_state: held
 - number: 699-010-0080
   action: adopt
-  corpus_state: chapter_not_mirrored
+  corpus_state: held
 - number: 699-010-0090
   action: adopt
-  corpus_state: chapter_not_mirrored
+  corpus_state: held
 - number: 699-010-0100
   action: adopt
-  corpus_state: chapter_not_mirrored
+  corpus_state: held
 - number: 811-035-0008
   action: amend
   corpus_state: held
