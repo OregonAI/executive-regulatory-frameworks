@@ -246416,6 +246416,342 @@
    "path": "rules/741/710/oar-741-710-0040.md"
   },
   {
+   "id": "oar-800-001-0000",
+   "title": "Notice of Proposed Rule",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/001/oar-800-001-0000.md"
+  },
+  {
+   "id": "oar-800-001-0005",
+   "title": "Contested Cases",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/001/oar-800-001-0005.md"
+  },
+  {
+   "id": "oar-800-001-0010",
+   "title": "Assistance in Hearing",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/001/oar-800-001-0010.md"
+  },
+  {
+   "id": "oar-800-001-0015",
+   "title": "Requiring an Answer to Charges as Part of Notices to Parties in Contested Cases",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/001/oar-800-001-0015.md"
+  },
+  {
+   "id": "oar-800-001-0020",
+   "title": "Hearing Request and Answers: Consequences of Failure to Answer",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/001/oar-800-001-0020.md"
+  },
+  {
+   "id": "oar-800-001-0025",
+   "title": "Requirement to Personally Appear at Hearing",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/001/oar-800-001-0025.md"
+  },
+  {
+   "id": "oar-800-010-0015",
+   "title": "Definitions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/010/oar-800-010-0015.md"
+  },
+  {
+   "id": "oar-800-010-0017",
+   "title": "Incompetence and Negligence",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/010/oar-800-010-0017.md"
+  },
+  {
+   "id": "oar-800-010-0020",
+   "title": "Confidential Information",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/010/oar-800-010-0020.md"
+  },
+  {
+   "id": "oar-800-010-0025",
+   "title": "Integrity and Objectivity",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/010/oar-800-010-0025.md"
+  },
+  {
+   "id": "oar-800-010-0030",
+   "title": "Accountability",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/010/oar-800-010-0030.md"
+  },
+  {
+   "id": "oar-800-010-0035",
+   "title": "Contingent Fees",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/010/oar-800-010-0035.md"
+  },
+  {
+   "id": "oar-800-010-0040",
+   "title": "Identification",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/010/oar-800-010-0040.md"
+  },
+  {
+   "id": "oar-800-010-0041",
+   "title": "Address and Telephone",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/010/oar-800-010-0041.md"
+  },
+  {
+   "id": "oar-800-010-0042",
+   "title": "Communications",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/010/oar-800-010-0042.md"
+  },
+  {
+   "id": "oar-800-010-0045",
+   "title": "Experience and Competence",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/010/oar-800-010-0045.md"
+  },
+  {
+   "id": "oar-800-010-0050",
+   "title": "Advertising and Solicitation",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/010/oar-800-010-0050.md"
+  },
+  {
+   "id": "oar-800-015-0005",
+   "title": "Basic Education",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/015/oar-800-015-0005.md"
+  },
+  {
+   "id": "oar-800-015-0010",
+   "title": "Continuing Education",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/015/oar-800-015-0010.md"
+  },
+  {
+   "id": "oar-800-015-0015",
+   "title": "Continuing Education: Audit, Required Documentation and Sanctions",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/015/oar-800-015-0015.md"
+  },
+  {
+   "id": "oar-800-015-0020",
+   "title": "Continuing Education Program Requirements",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/015/oar-800-015-0020.md"
+  },
+  {
+   "id": "oar-800-015-0030",
+   "title": "Continuing Education and Basic Sponsor Requirements",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/015/oar-800-015-0030.md"
+  },
+  {
+   "id": "oar-800-016-0001",
+   "title": "Registered Tax Aide Requirements",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/016/oar-800-016-0001.md"
+  },
+  {
+   "id": "oar-800-020-0015",
+   "title": "Application for Examination",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/020/oar-800-020-0015.md"
+  },
+  {
+   "id": "oar-800-020-0020",
+   "title": "Examinations",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/020/oar-800-020-0020.md"
+  },
+  {
+   "id": "oar-800-020-0022",
+   "title": "Examination Conduct; Disqualification",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/020/oar-800-020-0022.md"
+  },
+  {
+   "id": "oar-800-020-0025",
+   "title": "Fees",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/020/oar-800-020-0025.md"
+  },
+  {
+   "id": "oar-800-020-0026",
+   "title": "Refunds of Examination Fees",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/020/oar-800-020-0026.md"
+  },
+  {
+   "id": "oar-800-020-0030",
+   "title": "Licenses — Renewals and Reactivation",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/020/oar-800-020-0030.md"
+  },
+  {
+   "id": "oar-800-020-0031",
+   "title": "Certificates",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/020/oar-800-020-0031.md"
+  },
+  {
+   "id": "oar-800-020-0035",
+   "title": "Inactive and Lapsed Status",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/020/oar-800-020-0035.md"
+  },
+  {
+   "id": "oar-800-020-0065",
+   "title": "Displaying of Licenses",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/020/oar-800-020-0065.md"
+  },
+  {
+   "id": "oar-800-025-0010",
+   "title": "Oregon State Registered Tax Preparation Businesses",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/025/oar-800-025-0010.md"
+  },
+  {
+   "id": "oar-800-025-0020",
+   "title": "Oregon Tax Preparation Business Registration",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/025/oar-800-025-0020.md"
+  },
+  {
+   "id": "oar-800-025-0023",
+   "title": "Reporting Closing of Business; Address and Telephone Changes",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/025/oar-800-025-0023.md"
+  },
+  {
+   "id": "oar-800-025-0025",
+   "title": "Renewal of Tax Preparation Business Registration",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/025/oar-800-025-0025.md"
+  },
+  {
+   "id": "oar-800-025-0027",
+   "title": "Eligibility for Combined Business Registration and Tax Consultant/Preparer License",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/025/oar-800-025-0027.md"
+  },
+  {
+   "id": "oar-800-025-0029",
+   "title": "Displaying Oregon State Registered Tax Preparation Business Registration",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/025/oar-800-025-0029.md"
+  },
+  {
+   "id": "oar-800-025-0030",
+   "title": "Branch Offices",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/025/oar-800-025-0030.md"
+  },
+  {
+   "id": "oar-800-025-0040",
+   "title": "Designated Consultants",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/025/oar-800-025-0040.md"
+  },
+  {
+   "id": "oar-800-025-0050",
+   "title": "Management and Supervision of Oregon State Registered Tax Preparation Businesses",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/025/oar-800-025-0050.md"
+  },
+  {
+   "id": "oar-800-025-0060",
+   "title": "Resident Tax Consultant",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/025/oar-800-025-0060.md"
+  },
+  {
+   "id": "oar-800-025-0070",
+   "title": "Keeping of Tax Consultant Records",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/025/oar-800-025-0070.md"
+  },
+  {
+   "id": "oar-800-030-0025",
+   "title": "Civil Penalties",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/030/oar-800-030-0025.md"
+  },
+  {
+   "id": "oar-800-030-0030",
+   "title": "Inspections, Evaluations and Investigations",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/030/oar-800-030-0030.md"
+  },
+  {
+   "id": "oar-800-030-0035",
+   "title": "Board Meeting — Rules of Procedure",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/030/oar-800-030-0035.md"
+  },
+  {
+   "id": "oar-800-030-0045",
+   "title": "Board Meeting Minutes",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/030/oar-800-030-0045.md"
+  },
+  {
+   "id": "oar-800-030-0050",
+   "title": "Obtaining Information and Purchasing Board-Provided Materials and Services",
+   "doc_type": "rule",
+   "status": "current",
+   "path": "rules/800/030/oar-800-030-0050.md"
+  },
+  {
    "id": "oar-801-001-0000",
    "title": "Notice of Proposed Rule",
    "doc_type": "rule",
@@ -980218,6 +980554,831 @@
    "type": "implements"
   },
   {
+   "from": "oar-800-001-0000",
+   "to": "ors-183.341",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0005",
+   "to": "ors-183.341",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0010",
+   "to": "ors-673.605",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0010",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0015",
+   "to": "ors-183.341",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0015",
+   "to": "ors-183.413",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0015",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0015",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0015",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0020",
+   "to": "ors-183.415",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0020",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0020",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0020",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0025",
+   "to": "ors-183.417",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0025",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0025",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0025",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-001-0025",
+   "to": "oar-800-016-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "oar-800-010-0015",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0015",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0015",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0017",
+   "to": "ors-673.700",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0020",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0020",
+   "to": "ors-673.730",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0020",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0020",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0025",
+   "to": "ors-670.280",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0025",
+   "to": "ors-673.700",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0025",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0025",
+   "to": "ors-673.730",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0025",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0025",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0030",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0030",
+   "to": "ors-673.730",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0030",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0030",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0035",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0035",
+   "to": "ors-673.730",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0035",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0035",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0040",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0040",
+   "to": "ors-673.730",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0040",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0040",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0041",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0041",
+   "to": "ors-673.730",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0041",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0041",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0042",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0042",
+   "to": "ors-673.730",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0042",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0042",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0045",
+   "to": "ors-673.700",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0045",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0045",
+   "to": "ors-673.730",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0045",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0045",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0050",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0050",
+   "to": "ors-673.730",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0050",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-010-0050",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0005",
+   "to": "ors-673.625",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0010",
+   "to": "ors-673.645",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0010",
+   "to": "ors-673.655",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0015",
+   "to": "ors-673.645",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0015",
+   "to": "ors-673.655",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0015",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0015",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0015",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0020",
+   "to": "ors-673.645",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0020",
+   "to": "ors-673.655",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0020",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0020",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0020",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0030",
+   "to": "ors-673.645",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0030",
+   "to": "ors-673.655",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0030",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0030",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-015-0030",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-016-0001",
+   "to": "oar-800-001-0025",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-016-0001",
+   "to": "oar-800-025-0050",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-016-0001",
+   "to": "ors-673.605",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-016-0001",
+   "to": "ors-673.730",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0015",
+   "to": "ors-673.625",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0015",
+   "to": "ors-673.640",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0020",
+   "to": "ors-673.625",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0020",
+   "to": "ors-673.640",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0022",
+   "to": "ors-673.625",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0022",
+   "to": "ors-673.640",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0025",
+   "to": "ors-673.685",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0025",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0025",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0025",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0026",
+   "to": "ors-673.685",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0026",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0026",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0026",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0030",
+   "to": "ors-673.645",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0030",
+   "to": "ors-673.667",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0031",
+   "to": "ors-673.660",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0031",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0031",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0031",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0035",
+   "to": "ors-673.660",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0035",
+   "to": "ors-673.667",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-020-0065",
+   "to": "ors-673.660",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0010",
+   "to": "ors-673.643",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0010",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0010",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0010",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0020",
+   "to": "ors-673.643",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0020",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0020",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0020",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0023",
+   "to": "ors-673.643",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0023",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0023",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0023",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0025",
+   "to": "ors-673.643",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0025",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0025",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0025",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0027",
+   "to": "ors-673.643",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0027",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0027",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0027",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0029",
+   "to": "ors-673.643",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0029",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0029",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0029",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0030",
+   "to": "ors-673.643",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0030",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0030",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0030",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0040",
+   "to": "ors-673.643",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0040",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0040",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0040",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0050",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0050",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0050",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0050",
+   "to": "oar-800-016-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "oar-800-025-0060",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0060",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0060",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0070",
+   "to": "ors-673.690",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0070",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0070",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-025-0070",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0025",
+   "to": "ors-673.700",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0025",
+   "to": "ors-673.735",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0030",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0030",
+   "to": "ors-673.730",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0030",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0030",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0035",
+   "to": "ors-670.300",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0035",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0035",
+   "to": "ors-673.730",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0035",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0035",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0045",
+   "to": "ors-670.300",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0045",
+   "to": "ors-673.705",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0045",
+   "to": "ors-673.740",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0045",
+   "to": "ors-673.990",
+   "type": "implements"
+  },
+  {
+   "from": "oar-800-030-0050",
+   "to": "ors-192.324",
+   "type": "implements"
+  },
+  {
    "from": "oar-801-001-0000",
    "to": "ors-183.335",
    "type": "implements"
@@ -1087739,6 +1088900,21 @@
   },
   {
    "from": "ors-183.341",
+   "to": "oar-800-001-0000",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.341",
+   "to": "oar-800-001-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.341",
+   "to": "oar-800-001-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.341",
    "to": "oar-801-001-0005",
    "type": "implemented_by"
   },
@@ -1088569,6 +1089745,11 @@
   },
   {
    "from": "ors-183.413",
+   "to": "oar-800-001-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.413",
    "to": "oar-808-009-0400",
    "type": "implemented_by"
   },
@@ -1088879,6 +1090060,11 @@
   },
   {
    "from": "ors-183.415",
+   "to": "oar-800-001-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.415",
    "to": "oar-808-001-0030",
    "type": "implemented_by"
   },
@@ -1089055,6 +1090241,11 @@
   {
    "from": "ors-183.417",
    "to": "oar-735-150-0190",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-183.417",
+   "to": "oar-800-001-0025",
    "type": "implemented_by"
   },
   {
@@ -1094030,6 +1095221,11 @@
   {
    "from": "ors-192.324",
    "to": "oar-678-020-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-192.324",
+   "to": "oar-800-030-0050",
    "type": "implemented_by"
   },
   {
@@ -1460344,6 +1461540,11 @@
   },
   {
    "from": "ors-670.280",
+   "to": "oar-800-010-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-670.280",
    "to": "oar-804-001-0025",
    "type": "implemented_by"
   },
@@ -1460425,6 +1461626,16 @@
   {
    "from": "ors-670.280",
    "to": "oar-858-030-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-670.300",
+   "to": "oar-800-030-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-670.300",
+   "to": "oar-800-030-0045",
    "type": "implemented_by"
   },
   {
@@ -1464500,6 +1465711,761 @@
   {
    "from": "ors-673.457",
    "to": "oar-801-050-0065",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.605",
+   "to": "oar-800-001-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.605",
+   "to": "oar-800-016-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.625",
+   "to": "oar-800-015-0005",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.625",
+   "to": "oar-800-020-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.625",
+   "to": "oar-800-020-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.625",
+   "to": "oar-800-020-0022",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.640",
+   "to": "oar-800-020-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.640",
+   "to": "oar-800-020-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.640",
+   "to": "oar-800-020-0022",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.643",
+   "to": "oar-800-025-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.643",
+   "to": "oar-800-025-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.643",
+   "to": "oar-800-025-0023",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.643",
+   "to": "oar-800-025-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.643",
+   "to": "oar-800-025-0027",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.643",
+   "to": "oar-800-025-0029",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.643",
+   "to": "oar-800-025-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.643",
+   "to": "oar-800-025-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.645",
+   "to": "oar-800-015-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.645",
+   "to": "oar-800-015-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.645",
+   "to": "oar-800-015-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.645",
+   "to": "oar-800-015-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.645",
+   "to": "oar-800-020-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.655",
+   "to": "oar-800-015-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.655",
+   "to": "oar-800-015-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.655",
+   "to": "oar-800-015-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.655",
+   "to": "oar-800-015-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.660",
+   "to": "oar-800-020-0031",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.660",
+   "to": "oar-800-020-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.660",
+   "to": "oar-800-020-0065",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.667",
+   "to": "oar-800-020-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.667",
+   "to": "oar-800-020-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.685",
+   "to": "oar-800-020-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.685",
+   "to": "oar-800-020-0026",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.690",
+   "to": "oar-800-025-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.700",
+   "to": "oar-800-010-0017",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.700",
+   "to": "oar-800-010-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.700",
+   "to": "oar-800-010-0045",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.700",
+   "to": "oar-800-030-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-001-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-001-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-001-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-010-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-010-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-010-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-010-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-010-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-010-0041",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-010-0042",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-010-0045",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-015-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-015-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-015-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-020-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-020-0026",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-020-0031",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-025-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-025-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-025-0023",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-025-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-025-0027",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-025-0029",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-025-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-025-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-025-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-025-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-025-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-030-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-030-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.705",
+   "to": "oar-800-030-0045",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.730",
+   "to": "oar-800-010-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.730",
+   "to": "oar-800-010-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.730",
+   "to": "oar-800-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.730",
+   "to": "oar-800-010-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.730",
+   "to": "oar-800-010-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.730",
+   "to": "oar-800-010-0041",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.730",
+   "to": "oar-800-010-0042",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.730",
+   "to": "oar-800-010-0045",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.730",
+   "to": "oar-800-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.730",
+   "to": "oar-800-016-0001",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.730",
+   "to": "oar-800-030-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.730",
+   "to": "oar-800-030-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.735",
+   "to": "oar-800-030-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-001-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-001-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-001-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-010-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-010-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-010-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-010-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-010-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-010-0041",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-010-0042",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-010-0045",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-015-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-015-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-015-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-020-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-020-0026",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-020-0031",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-025-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-025-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-025-0023",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-025-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-025-0027",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-025-0029",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-025-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-025-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-025-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-025-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-025-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-030-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-030-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.740",
+   "to": "oar-800-030-0045",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-001-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-001-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-001-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-001-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-010-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-010-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-010-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-010-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-010-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-010-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-010-0041",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-010-0042",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-010-0045",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-010-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-015-0015",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-015-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-015-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-020-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-020-0026",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-020-0031",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-025-0010",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-025-0020",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-025-0023",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-025-0025",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-025-0027",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-025-0029",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-025-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-025-0040",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-025-0050",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-025-0060",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-025-0070",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-030-0030",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-030-0035",
+   "type": "implemented_by"
+  },
+  {
+   "from": "ors-673.990",
+   "to": "oar-800-030-0045",
    "type": "implemented_by"
   },
   {
