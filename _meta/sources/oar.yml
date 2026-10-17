@@ -26652,6 +26652,246 @@ sources:
   sha256: b7df149a5bc78f5c24be72829de279807a489e331d12a988fd6dcf9e3e513025
   last_checked: '2026-08-28'
   notes: Maintenance and Replacement of Protective Devices
+- id: oar-800-001-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-001-0000
+  sha256: d1fe9528e67d813243ee6349f8ce7f74bc365cb1b37cd90853016c6e8f26db24
+  last_checked: '2026-10-16'
+  notes: Notice of Proposed Rule
+- id: oar-800-001-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-001-0005
+  sha256: 5b6ab3b60dae855a90c8be1f92723b47716183309f1cd7da26ea54b96ee00d4e
+  last_checked: '2026-10-16'
+  notes: Contested Cases
+- id: oar-800-001-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-001-0010
+  sha256: 59575298a0afa53d4171e8398637ed0622e9de62fb0d1dcd3906f5cdd0b9678b
+  last_checked: '2026-10-16'
+  notes: Assistance in Hearing
+- id: oar-800-001-0015
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-001-0015
+  sha256: dbf6fbfd0d3cefabf7422e537b32fa425fcfd946ee75739b6d983f02fef0475e
+  last_checked: '2026-10-16'
+  notes: Requiring an Answer to Charges as Part of Notices to Parties in Contested Cases
+- id: oar-800-001-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-001-0020
+  sha256: 1d714ff44ea7cf205ef72ece1c5afc268114da20e2ce35b4bb49b4a6cfc6957f
+  last_checked: '2026-10-16'
+  notes: 'Hearing Request and Answers: Consequences of Failure to Answer'
+- id: oar-800-001-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-001-0025
+  sha256: aafb4089e9d56404f83c7960dbc444da4b43c1ad6aa7f7ccfd5a358668819197
+  last_checked: '2026-10-16'
+  notes: Requirement to Personally Appear at Hearing
+- id: oar-800-010-0015
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-010-0015
+  sha256: 94cbe266e9e3d605caa9c333d3ceb72544fd82c35774b0fd781df0a2e17c97bb
+  last_checked: '2026-10-16'
+  notes: Definitions
+- id: oar-800-010-0017
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-010-0017
+  sha256: 1d230ae7e2f1d5c3a39bca859d85cbddb508c95d6f675c00433b319420b671ef
+  last_checked: '2026-10-16'
+  notes: Incompetence and Negligence
+- id: oar-800-010-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-010-0020
+  sha256: 7f8f7bb0f52274ad4e2d0cdf7fe79c1537bac13073c86fa35474c375e52ad6b1
+  last_checked: '2026-10-16'
+  notes: Confidential Information
+- id: oar-800-010-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-010-0025
+  sha256: b8cb7e6d4ae2e428a54f88ef1db6ac0855e0b21297fc37f7a1126423d6f53083
+  last_checked: '2026-10-16'
+  notes: Integrity and Objectivity
+- id: oar-800-010-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-010-0030
+  sha256: 5dcfead616877297deb151e733f0053368f9695fadf65c65915cf0e13cecec31
+  last_checked: '2026-10-16'
+  notes: Accountability
+- id: oar-800-010-0035
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-010-0035
+  sha256: 73dbfb69adf1f226118cdda8a52e5eb01b6975ffc24625d51aa1b5348bc2bbfc
+  last_checked: '2026-10-16'
+  notes: Contingent Fees
+- id: oar-800-010-0040
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-010-0040
+  sha256: 2215f5c84af003f1926d531ff2f30871740e96226de6f16a27cc2a3b8f519d21
+  last_checked: '2026-10-16'
+  notes: Identification
+- id: oar-800-010-0041
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-010-0041
+  sha256: f64b1d4f02eb21718ace72b219176911cf84242d87471853a377b87c99463cf6
+  last_checked: '2026-10-16'
+  notes: Address and Telephone
+- id: oar-800-010-0042
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-010-0042
+  sha256: 2b536d858d5f85e3a10cffbceddf74cd8b734934c4915368104ce02922cb314f
+  last_checked: '2026-10-16'
+  notes: Communications
+- id: oar-800-010-0045
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-010-0045
+  sha256: af0458f8289cc9a3a6e7b544129c08237a5811e79ca8badbcca63515c3dcd1be
+  last_checked: '2026-10-16'
+  notes: Experience and Competence
+- id: oar-800-010-0050
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-010-0050
+  sha256: 42b9eb077aebb7da12fbf51eb2eb972531be2e96a401248afa25a24357d8cb96
+  last_checked: '2026-10-16'
+  notes: Advertising and Solicitation
+- id: oar-800-015-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-015-0005
+  sha256: 7910a45be25dff239bd17872869284546507d955910b6161367f124369d40f7b
+  last_checked: '2026-10-16'
+  notes: Basic Education
+- id: oar-800-015-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-015-0010
+  sha256: 4512549a138b8eed42a27ff14e6fddb3d7b523ca0cf1bf6f13cd8272cf2e1dbf
+  last_checked: '2026-10-16'
+  notes: Continuing Education
+- id: oar-800-015-0015
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-015-0015
+  sha256: 45f19bce4e6cf1bfdcab856b758c9ade2ebe930160ee27e73298eb2ccbae19ec
+  last_checked: '2026-10-16'
+  notes: 'Continuing Education: Audit, Required Documentation and Sanctions'
+- id: oar-800-015-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-015-0020
+  sha256: a6bfc1bb0155552eb223d216bd4bd8ecd4973e7fe359ea3effb1b044b713dc93
+  last_checked: '2026-10-16'
+  notes: Continuing Education Program Requirements
+- id: oar-800-015-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-015-0030
+  sha256: cb70303097ebaf3d2780a361e6f0dfccc0e76ca54d48f62fbfd2de207fc5c256
+  last_checked: '2026-10-16'
+  notes: Continuing Education and Basic Sponsor Requirements
+- id: oar-800-016-0001
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-016-0001
+  sha256: df7095959ddeac12ecc5080acc3108340f91173ec1d8736ff5fce24d80695771
+  last_checked: '2026-10-16'
+  notes: Registered Tax Aide Requirements
+- id: oar-800-020-0015
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-020-0015
+  sha256: 23d96d8b58dc72329f614e979e1531a2b8285496230a3694227f87765c69ddd3
+  last_checked: '2026-10-16'
+  notes: Application for Examination
+- id: oar-800-020-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-020-0020
+  sha256: 2967dc2bb543175efd713c3cec2a9590fc64b4ed90585988543b11548d8d9641
+  last_checked: '2026-10-16'
+  notes: Examinations
+- id: oar-800-020-0022
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-020-0022
+  sha256: 184714343c6f5ba3003c5573b8cc2498fa47ffdec87c82f1efac26626ab44e77
+  last_checked: '2026-10-16'
+  notes: Examination Conduct; Disqualification
+- id: oar-800-020-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-020-0025
+  sha256: 3a7c52de7c62ca11676b301f30255cb4ec85b12170626f9b9c3c92b8dee8f2a8
+  last_checked: '2026-10-16'
+  notes: Fees
+- id: oar-800-020-0026
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-020-0026
+  sha256: 5084bab30cf96180031153786be1c98f45cbb7fb98e1f38b6a46de4fba33a6b7
+  last_checked: '2026-10-16'
+  notes: Refunds of Examination Fees
+- id: oar-800-020-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-020-0030
+  sha256: 262551f69af8d351802a009b706047b12aab89e823fc98719f34b622d1d81dc4
+  last_checked: '2026-10-16'
+  notes: Licenses — Renewals and Reactivation
+- id: oar-800-020-0031
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-020-0031
+  sha256: 0c3f74368ec255f6d39eba01576599942fb67a1b57890509412afb95f0d97c97
+  last_checked: '2026-10-16'
+  notes: Certificates
+- id: oar-800-020-0035
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-020-0035
+  sha256: d249f4aa96470bd0b25630049031b4acf37f90d24cf29933186de94c7a4ea137
+  last_checked: '2026-10-16'
+  notes: Inactive and Lapsed Status
+- id: oar-800-020-0065
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-020-0065
+  sha256: f29e2bfa5db75b1e1c3f8971edefa69326d2973c42bb9e193e0dd1acfb7d7d8c
+  last_checked: '2026-10-16'
+  notes: Displaying of Licenses
+- id: oar-800-025-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-025-0010
+  sha256: 96b7daac3146e6a19223f7cc4bd20f4f9fb22eba9817d1b9ed634490677a119f
+  last_checked: '2026-10-16'
+  notes: Oregon State Registered Tax Preparation Businesses
+- id: oar-800-025-0020
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-025-0020
+  sha256: 50438b7c24e841b9e070222c07ad9258b6c774a2de896c6b5cec77abcafe139f
+  last_checked: '2026-10-16'
+  notes: Oregon Tax Preparation Business Registration
+- id: oar-800-025-0023
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-025-0023
+  sha256: 2e4209cfeda77899d61a1881f1bd6e0518ec02612067374e26e05b52fa7831ca
+  last_checked: '2026-10-16'
+  notes: Reporting Closing of Business; Address and Telephone Changes
+- id: oar-800-025-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-025-0025
+  sha256: 7ea88d8552a64d9c36f7068c4bf1c29e211388ec25346a6e0582131b74c1e245
+  last_checked: '2026-10-16'
+  notes: Renewal of Tax Preparation Business Registration
+- id: oar-800-025-0027
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-025-0027
+  sha256: 12f9be4b7ee44405e656adb821ccd20c6bd4f84490e73b78b078c8d10c26031b
+  last_checked: '2026-10-16'
+  notes: Eligibility for Combined Business Registration and Tax Consultant/Preparer License
+- id: oar-800-025-0029
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-025-0029
+  sha256: 6cdc144958bfeeb8a222e3df990b9313e0e90d4991980e9d6c007fffcafd5f21
+  last_checked: '2026-10-16'
+  notes: Displaying Oregon State Registered Tax Preparation Business Registration
+- id: oar-800-025-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-025-0030
+  sha256: 48881e49f590e5fada81bedcc0a1355d6e6407b3f2775c42292292eae2965648
+  last_checked: '2026-10-16'
+  notes: Branch Offices
+- id: oar-800-025-0040
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-025-0040
+  sha256: f6d37b5662a1e2ef267345152b9bd269ba85d6cb8fc08e16b399cfc2fcce0057
+  last_checked: '2026-10-16'
+  notes: Designated Consultants
+- id: oar-800-025-0050
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-025-0050
+  sha256: b5cdf24be9e10ba2fb0b782a1f0c7e356f228d23b8c7ade9de1ff7b7690d120c
+  last_checked: '2026-10-16'
+  notes: Management and Supervision of Oregon State Registered Tax Preparation Businesses
+- id: oar-800-025-0060
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-025-0060
+  sha256: 7a92a393d3811f6d091c2517b8028015cc25423b61ef7f0bd913eb2d69812a4c
+  last_checked: '2026-10-16'
+  notes: Resident Tax Consultant
+- id: oar-800-025-0070
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-025-0070
+  sha256: 97aa15843d1edae5e5afe6f862b2d185a74eacf2ca1e3c05cea93fab36120a32
+  last_checked: '2026-10-16'
+  notes: Keeping of Tax Consultant Records
+- id: oar-800-030-0025
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-030-0025
+  sha256: d01e7789f78793bfbb7cc8ab8417c9c403218acd99c3cef72229d24e91c29cdf
+  last_checked: '2026-10-16'
+  notes: Civil Penalties
+- id: oar-800-030-0030
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-030-0030
+  sha256: 127b2d1df9626499e0f3aebc5e00570d2ba8bea8dcdd63c43b1a0d712bfa9438
+  last_checked: '2026-10-16'
+  notes: Inspections, Evaluations and Investigations
+- id: oar-800-030-0035
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-030-0035
+  sha256: ae528305b0b65f8708d40bf664c623fb6cf7f5f3e1a5eb287f8651e53682a5fc
+  last_checked: '2026-10-16'
+  notes: Board Meeting — Rules of Procedure
+- id: oar-800-030-0045
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-030-0045
+  sha256: ad348eac2f3619163cf448209eb698c32c8f095fef23b7c2c3380f37164bf691
+  last_checked: '2026-10-16'
+  notes: Board Meeting Minutes
+- id: oar-800-030-0050
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=800-030-0050
+  sha256: b81b29ba76343fde8f7d95e79a0a80784ba7fbdc112048f077ceaccdbd198e55
+  last_checked: '2026-10-16'
+  notes: Obtaining Information and Purchasing Board-Provided Materials and Services
 - id: oar-801-001-0060
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=801-001-0060
   sha256: 0fec9bde069397b1ac262e6f24022d7ea39cd63cf5605f45d201a66db5aeaf27

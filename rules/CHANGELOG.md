@@ -8,6 +8,16 @@ file's frontmatter).
 
 ## [Unreleased]
 
+### Added
+
+- OAR chapter 800 (State Board of Tax Practitioners, 7 divisions), 48 rules, full text
+  each, all `status: current`. OARD's chapter listing names 48 current rules, and all
+  48 were ingested: 0 renumbered, 0 failed. Chapter 800 had been missing because the
+  board's registry row held no `oar_chapter`. It had been added as an agency that issues
+  no rules (`src/link_budget_codes.py` MANUAL_ENTRIES), and oregon.public.law's index
+  does not list the chapter. Discovered with `src/catalog_oar.py --discover 800` and
+  ingested with `src/ingest_oar.py --ingest 800`.
+
 ## [2026-07-18] (4)
 
 ### Added
