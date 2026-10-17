@@ -184,6 +184,7 @@ yet ingested) via `python3 src/catalog_agencies.py "<name>"` or the MCP
 | Secretary of State, Elections Division | constitutional elected | unknown | 120 | 120 | 0 | 0 | 2026-08-01 |
 | Southern Oregon University | executive branch | unknown | 10 | 10 | 0 | 0 | — |
 | State Board of Architect Examiners | semi-independent | unknown | 32 | 32 | 0 | 0 | — |
+| State Board of Tax Practitioners | executive branch | unknown | 48 | 48 | 0 | 0 | — |
 | Teacher Standards and Practices Commission | executive branch | unknown | 330 | 330 | 0 | 0 | — |
 | Travel Information Council | semi-independent | unknown | 39 | 39 | 0 | 0 | — |
 | Veterinary Medical Examining Board | executive branch | unknown | 40 | 40 | 0 | 0 | — |

@@ -1,12 +1,12 @@
 # STATUS — Oregon Executive Regulatory Frameworks
 
-Generated 2026-10-12. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-10-16. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
 | doc_type | count |
 |---|---|
-| rule | 42612 |
+| rule | 42660 |
 | statute | 37534 |
 | policy | 676 |
 | executive_order | 526 |
@@ -18,15 +18,15 @@ Generated 2026-10-12. Non-authoritative; see DISCLAIMER.md.
 | procedure | 14 |
 | external_reference | 1 |
 
-**Total: 81997**
+**Total: 82045**
 
 ## Source manifest
 
-8181 declared source(s) across 20 group(s) in `sources`.
+8229 declared source(s) across 20 group(s) in `sources`.
 
 ## Freshness (reverify every 90 days)
 
-81997 of 81997 document(s) overdue for re-verification.
+82045 of 82045 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
@@ -80,5 +80,5 @@ Generated 2026-10-12. Non-authoritative; see DISCLAIMER.md.
 | ors-1.199 | statute | never |
 | ors-1.200 | statute | never |
 | ors-1.202 | statute | never |
-| … | *81947 more* | |
+| … | *81995 more* | |
 
