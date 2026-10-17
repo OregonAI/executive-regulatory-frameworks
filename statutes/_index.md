@@ -190,7 +190,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 308 | Assessment of Property for Taxation | 143 | 143 |
 | 308A | Land Special Assessments | 85 | 84 |
 | 309 | Property Value Appeals Board; Ratio Studies | 22 | 22 |
-| 31 | Tort Actions | 54 | 53 |
+| 31 | Tort Actions | 54 | 54 |
 | 310 | Property Tax Rates and Amounts; Tax Limitations; Tax Reduction Programs | 54 | 51 |
 | 311 | Collection of Property Taxes | 168 | 168 |
 | 312 | Foreclosure of Property Tax Liens | 52 | 52 |
@@ -551,7 +551,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 744 | Insurance Producers; Life Settlement Providers, Brokers and Contracts; Adjusters; Consultants; Third Party Administrators; Reinsurance Intermediaries; Limited L | 148 | 148 |
 | 746 | Trade Practices | 103 | 103 |
 | 748 | Fraternal Benefit Societies | 42 | 42 |
-| 74A | Funds Transfers | 38 | 36 |
+| 74A | Funds Transfers | 38 | 38 |
 | 75 | Letters of Credit | 18 | 18 |
 | 750 | Health Care Service Contractors; Multiple Employer Welfare Arrangements; Legal Expense Organizations | 54 | 54 |
 | 751 | Universal Health Care System | 3 | 3 |
@@ -622,7 +622,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 97 | Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts | 149 | 149 |
 | 98 | Lost, Unclaimed or Abandoned Property; Vehicle Towing | 97 | 97 |
 | 99 | Property Removed by High Water | 6 | 6 |
-| **all** | | **39224** | **38999** |
+| **all** | | **39224** | **39002** |
 
 Per-section numbers/titles/paths: [`_meta/catalog/ors.yml`](../_meta/catalog/ors.yml).
 Sections marked `not_sliceable` there have no body text in the chapter HTML

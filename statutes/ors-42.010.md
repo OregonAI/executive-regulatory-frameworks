@@ -46,11 +46,7 @@ ORS 42.010 — Private writings. Chapter 42 (Execution, Formalities and Interpre
 
 ## Full text
 
-42.010 Private writings. All writings, other than public writings, are private and may be sealed or unsealed. 42.020 Execution of a writing. The execution of a writing is the subscribing and delivering it, with or without affixing a seal. 42.030 Subscribing witness. A subscribing witness is one who sees a writing executed, or hears it acknowledged, and at the request of the party thereupon signs one’s name as a witness. 42.040 Proof of attested writing other than a will. Any attested writing other than a will may be proved in the same manner as though it had not been attested. 42.050 [Repealed by 1981 c.892 §98] 42.060 [Repealed by 1981 c.892 §98] 42.070 [Repealed by 1981 c.892 §98] 42.080 [Repealed by 1981 c.892 §98] SEALS 42.110 Seal defined. A seal is a particular sign made to attest in the most formal manner the execution of an instrument. 42.115 Effect of presence or absence of seal. The presence or absence of a seal, corporate or otherwise, shall have no effect upon the validity, enforceability or character of any written instrument except where specifically otherwise provided by statute. A writing under seal may be modified or discharged by writing not under seal or by a valid oral agreement. [1965 c.502 §2] 42.120 [Repealed by 1965 c.502 §6] 42.125 Seal of state officer or state agency authorized.
-
-(1) For the purposes of ORS 40.510 (1)(a) and (d), each state officer and state agency may have a seal which, unless specifically provided otherwise by law, shall consist of an impression, imprint or likeness of the state seal accompanied by the name of the state officer or state agency.
-
-(2) As used in this section: (a) “Seal” has the meaning given that term in ORS 42.110. (b) “State agency” means every state officer, board, commission, department, institution, branch or agency of the state government, except the Legislative Assembly and the courts and their officers and committees. (c) “State officer” includes any appointed state official who is authorized by the Oregon Department of Administrative Services to have a seal and any elected state official, except members of the Legislative Assembly. [1982 s.s.1 c.14 §1; 2003 c.449 §23; 2005 c.22 §32; 2023 c.281 §§19,80] 42.130 [Repealed by 1965 c.502 §6] 42.140 [Repealed by 1965 c.502 §6]
+42.010 Private writings. All writings, other than public writings, are private and may be sealed or unsealed. 
 
 ## Provenance & change history
 

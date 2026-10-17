@@ -62,13 +62,7 @@ ORS 60.591 — Court action. Chapter 60 (Private Corporations), 2025 Edition.
 
 (2) of this section is plenary and exclusive. The court may appoint one or more persons as appraisers to receive evidence and recommend decision on the question of fair value. The appraisers have the powers described in the court order appointing them, or in any amendment to the order. The dissenters are entitled to the same discovery rights as parties in other civil proceedings.
 
-(5) Each dissenter made a party to the proceeding is entitled to judgment for: (a) The amount, if any, by which the court finds the fair value of the dissenter’s shares, plus interest, exceeds the amount paid by the corporation; or (b) The fair value, plus accrued interest, of the dissenter’s after-acquired shares for which the corporation elected to withhold payment under ORS 60.584. [1987 c.52 §136] 60.594 Court costs and counsel fees.
-
-(1) The court in an appraisal proceeding commenced under ORS 60.591 shall determine all costs of the proceeding, including the reasonable compensation and expenses of appraisers appointed by the court. The court shall assess the costs against the corporation, except that the court may assess costs against all or some of the dissenters, in amounts the court finds equitable, to the extent the court finds the dissenters acted arbitrarily, vexatiously, or not in good faith in demanding payment under ORS 60.587.
-
-(2) The court may also assess the fees and expenses of counsel and experts of the respective parties in amounts the court finds equitable: (a) Against the corporation and in favor of any or all dissenters if the court finds the corporation did not substantially comply with the requirements of ORS 60.561 to 60.587; or (b) Against either the corporation or a dissenter, in favor of any other party, if the court finds that the party against whom the fees and expenses are assessed acted arbitrarily, vexatiously or not in good faith with respect to the rights provided by this chapter.
-
-(3) If the court finds that the services of counsel for any dissenter were of substantial benefit to other dissenters similarly situated, and that the fees for those services should not be assessed against the corporation, the court may award to counsel reasonable fees to be paid out of the amount awarded the dissenters who were benefited. [1987 c.52 §137]
+(5) Each dissenter made a party to the proceeding is entitled to judgment for: (a) The amount, if any, by which the court finds the fair value of the dissenter’s shares, plus interest, exceeds the amount paid by the corporation; or (b) The fair value, plus accrued interest, of the dissenter’s after-acquired shares for which the corporation elected to withhold payment under ORS 60.584. [1987 c.52 §136] 
 
 ## Provenance & change history
 

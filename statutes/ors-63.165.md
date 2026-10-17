@@ -52,7 +52,7 @@ ORS 63.165 — Liability of members and managers. Chapter 63 (Limited Liability 
 
 (1) The debts, obligations and liabilities of a limited liability company, whether arising in contract, tort or otherwise, are solely the debts, obligations and liabilities of the limited liability company. A member or manager is not personally liable for a debt, obligation or liability of the limited liability company solely by reason of being or acting as a member or manager.
 
-(2) The failure of a limited liability company to observe the usual limited liability company formalities or requirements relating to the exercise of its limited liability company powers or management of its business is not a ground for imposing personal liability on the members or managers for liabilities of the limited liability company. [1993 c.173 §35; 1999 c.86 §10] 63.170 Liability of limited liability company for acts, omissions or conduct of member or manager. A limited liability company is liable for loss or injury caused to a person, or for a penalty incurred, as a result of a wrongful act or omission, or other actionable conduct, of a member or manager acting in the ordinary course of the business of the limited liability company or with authority of the limited liability company. [1999 c.86 §7]
+(2) The failure of a limited liability company to observe the usual limited liability company formalities or requirements relating to the exercise of its limited liability company powers or management of its business is not a ground for imposing personal liability on the members or managers for liabilities of the limited liability company. [1993 c.173 §35; 1999 c.86 §10] 
 
 ## Provenance & change history
 

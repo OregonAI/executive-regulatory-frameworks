@@ -54,7 +54,7 @@ ORS 25.680 — Effect of lien; priority. Chapter 25 (Child Support Services), 20
 
 (2) The rights of bona fide purchasers for value or persons with a security interest in the personal property are not affected by the creation or the existence of the lien.
 
-(3) Liens filed under ORS 25.670 do not have priority over previously perfected security interests. [1985 c.671 §48; 1999 c.80 §35; 2003 c.73 §39] 25.690 Foreclosure of lien. A lien arising pursuant to ORS 25.670 may be foreclosed in the manner set out in ORS 87.262 or ORS chapter 18 or in any other manner permitted under law. [1985 c.671 §49; 1999 c.80 §36; 2003 c.576 §577a] 25.700 [1993 c.763 §§2,4; repealed by 2003 c.576 §580] 25.710 [1985 c.671 §51a; 2003 c.73 §40; 2003 c.572 §12; 2003 c.576 §301; repealed by 2025 c.99 §78]
+(3) Liens filed under ORS 25.670 do not have priority over previously perfected security interests. [1985 c.671 §48; 1999 c.80 §35; 2003 c.73 §39] 
 
 ## Provenance & change history
 

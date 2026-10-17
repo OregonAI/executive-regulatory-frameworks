@@ -48,7 +48,7 @@ ORS 62.755 — Admission of foreign cooperatives. Chapter 62 (Cooperatives), 202
 
 ## Full text
 
-62.755 Admission of foreign cooperatives. A foreign cooperative which has a member or members residing in this state, and which distributes its proceeds and savings according to either this chapter or the law of the state where incorporated, is entitled to all rights, exemptions and privileges of a cooperative organized under this chapter, if it is authorized to do business in this state under ORS chapter 60. A foreign cooperative may be authorized under ORS chapter 60 to transact business in this state whether or not formed for profit and whether or not formed with stock. [1957 c.716 §61; 1987 c.94 §96] 62.760 Registration of name of foreign cooperative. Any foreign cooperative may register its corporate name under ORS 60.101. [1957 c.716 §70; 1987 c.94 §97]
+62.755 Admission of foreign cooperatives. A foreign cooperative which has a member or members residing in this state, and which distributes its proceeds and savings according to either this chapter or the law of the state where incorporated, is entitled to all rights, exemptions and privileges of a cooperative organized under this chapter, if it is authorized to do business in this state under ORS chapter 60. A foreign cooperative may be authorized under ORS chapter 60 to transact business in this state whether or not formed for profit and whether or not formed with stock. [1957 c.716 §61; 1987 c.94 §96] 
 
 ## Provenance & change history
 

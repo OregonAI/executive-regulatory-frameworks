@@ -78,13 +78,7 @@ ORS 93.285 — Procedure for enforcement of contractual requirement for delivery
 
 (5) of this section, and the contract for conveyance of real property has been fulfilled under the notice and recording procedures set forth in this section, the purchaser shall record a declaration of fulfillment in the deed records of each county in which the property is located, including: (A) An affidavit setting forth that the seller did not provide a proper deed of conveyance before the deadline described in subsection (4)(e) of this section, that the contract has been fulfilled and that the title of the seller is hereby transferred to the purchaser; (B) A description of the property; and (C) Proof of mailing of a copy of the declaration to the seller. (b) When the declaration is recorded, the recitals contained in the affidavit shall be: (A) Prima facie evidence in any court of the truth of the matters set forth in the declaration; and (B) Conclusive in favor of a purchaser for value in good faith relying upon them.
 
-(12) Notices served by mail are effective when mailed. [2017 c.164 §2] 93.286 Effects of fulfillment of contract for sale by enforcement of requirement for delivery of deed of conveyance.
-
-(1) Except as otherwise provided in this chapter and except to the extent otherwise provided in the contract or other agreement with the seller, fulfillment of a contract for sale under ORS 93.285 shall have the following effects: (a) Except as provided in paragraph (c) of this subsection, the seller and all persons claiming through the seller that were given the required notices pursuant to ORS 93.285 have no further rights in the contract or the property and no person has any right, by statute or otherwise, to redeem the property. (b) All rights, title and interest in the property held by the seller and any improvements made to the property at the time the declaration of fulfillment is recorded are transferred to the purchaser as though the seller had delivered a fulfillment of deed to the purchaser. (c) Any claim of title or interest through the seller that was recorded prior to the recording of the contract for transfer or conveyance of an interest in real property or a memorandum of the contract shall maintain its priority and is not extinguished by the declaration of fulfillment.
-
-(2) The failure to give notice to any person described in subsection
-
-(1) of this section does not affect the validity of the effects of fulfillment of a contract for sale as to persons so notified. [2017 c.164 §3]
+(12) Notices served by mail are effective when mailed. [2017 c.164 §2] 
 
 ## Provenance & change history
 

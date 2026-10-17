@@ -52,31 +52,7 @@ ORS 67.017 — Effective time and date of document. Chapter 67 (Partnerships; Li
 
 (2) of this section, a document accepted for filing is effective on the date it is filed by the Secretary of State and at the time, if any, specified in the document as its effective time or at 12:01 a.m. on that date if no effective time is specified.
 
-(2) If a document specifies a delayed effective time and date, the document becomes effective at the time and date specified. If a document specifies a delayed effective date but no time, the document becomes effective at 12:01 a.m. on that date. A delayed effective date for a document may not be later than the 90th day after the date it is filed. [Formerly 67.530] 67.020 [1997 c.775 §4; renumbered 67.044 in 2013] 67.021 Filing duty of Secretary of State.
-
-(1) If a document delivered to the office of the Secretary of State for filing satisfies the requirements of ORS 67.011, the Secretary of State shall file it.
-
-(2) The Secretary of State files a document by indicating thereon that it has been filed by the Secretary of State and the date of filing. After filing a document, the Secretary of State shall return an acknowledgment of filing to the limited liability partnership or foreign limited liability partnership or its representative.
-
-(3) If the Secretary of State refuses to file a document, the Secretary of State shall return it to the limited liability partnership or foreign limited liability partnership or its representative within 10 business days after the document was delivered together with a brief written explanation of the reason for the refusal.
-
-(4) The duty of the Secretary of State to file documents under this section is ministerial. The Secretary of State is not required to verify or inquire into the legality or truth of any matter included in any document delivered to the office of the Secretary of State for filing. The filing of or refusal to file a document by the Secretary of State does not: (a) Affect the validity or invalidity of the document in whole or part; or (b) Relate to the correctness or incorrectness of information contained in the document.
-
-(5) The refusal by the Secretary of State to file a document does not create a presumption that the document is invalid or that information contained in the document is incorrect. [Formerly 67.535] 67.024 Appeal from actions of Secretary of State.
-
-(1) If the Secretary of State refuses to file a document delivered to the office of the Secretary of State for filing, the limited liability partnership or foreign limited liability partnership, in addition to any other legal remedy that may be available, shall have the right to appeal from the order pursuant to ORS chapter 183.
-
-(2) If the Secretary of State revokes the registration of a limited liability partnership or revokes the authorization of a foreign limited liability partnership, the limited liability partnership or foreign limited liability partnership, in addition to any other legal remedy that may be available, shall have the right to appeal from the order pursuant to ORS chapter 183. [Formerly 67.540] 67.025 [1997 c.775 §5; renumbered 67.046 in 2013] 67.027 Evidentiary effect of copy of filed document.
-
-(1) A certificate attached to a copy of a document filed by the Secretary of State, bearing the Secretary of State’s signature, which may be in facsimile, is conclusive evidence that the document or a facsimile thereof is on file with the office of the Secretary of State.
-
-(2) The provisions of ORS 56.110 shall apply to all documents filed pursuant to this chapter. [Formerly 67.545] 67.030 Certificate of existence or authorization.
-
-(1) Anyone may apply to the Secretary of State to furnish a certificate of existence for a limited liability partnership or a certificate of authorization for a foreign limited liability partnership.
-
-(2) A certificate of existence or authorization when issued means that: (a) The name of the limited liability partnership or the foreign limited liability partnership is registered in this state; (b) The limited liability partnership is duly registered under the laws of this state or the foreign limited liability partnership is authorized to transact business in this state; (c) All fees payable to the Secretary of State under this chapter have been paid, if nonpayment affects the existence or authorization of the limited liability partnership or foreign limited liability partnership; (d) An annual report required by ORS 67.645 has been filed by the Secretary of State within the preceding 14 months; and (e) A cancellation notice under ORS 67.606 or a withdrawal notice under ORS 67.740 has not been filed by the Secretary of State.
-
-(3) Subject to any qualification stated in the certificate, a certificate of existence or authorization issued by the Secretary of State may be relied upon as conclusive evidence that the limited liability partnership or foreign limited liability partnership is registered or is authorized to transact business in this state. [Formerly 67.550] (Secretary of State) 67.033 Powers. The Secretary of State has the power reasonably necessary to perform the duties required of the Secretary of State by this chapter. [Formerly 67.570]
+(2) If a document specifies a delayed effective time and date, the document becomes effective at the time and date specified. If a document specifies a delayed effective date but no time, the document becomes effective at 12:01 a.m. on that date. A delayed effective date for a document may not be later than the 90th day after the date it is filed. [Formerly 67.530] 67.020 [1997 c.775 §4; renumbered 67.044 in 2013] 
 
 ## Provenance & change history
 

@@ -46,11 +46,7 @@ ORS 70.400 — Action by limited partner upon refusal of general partner. Chapte
 
 ## Full text
 
-70.400 Action by limited partner upon refusal of general partner. A limited partner may bring an action in the right of a limited partnership to recover a judgment in its favor if general partners with authority to do so have refused to bring the action or if an effort to cause those general partners to bring the action is not likely to succeed. [1985 c.677 §57] 70.405 Status of plaintiff. In a derivative action, the plaintiff must be a partner when the plaintiff brings the action and:
-
-(1) The plaintiff must have been a partner at the time of the transaction of which the plaintiff complains; or
-
-(2) The plaintiff’s status as a partner must have devolved upon the plaintiff from a person who was a partner at the time of the transaction. [1985 c.677 §58] 70.410 Content of complaint. In a derivative action, the complaint shall set forth with particularity the effort of the plaintiff to secure initiation of the action by a general partner or the reasons for not making the effort. [1985 c.677 §59] 70.415 Remittance of proceeds received by plaintiff; attorney fees. If a derivative action is successful in whole or in part or if anything is received by the plaintiff as a result of a judgment, compromise or settlement of an action or claim, the court shall direct the plaintiff to remit to the limited partnership the remainder of those proceeds received by the plaintiff. The court may award reasonable attorney fees to the prevailing party in a derivative action. [1985 c.677 §60; 1995 c.618 §43]
+70.400 Action by limited partner upon refusal of general partner. A limited partner may bring an action in the right of a limited partnership to recover a judgment in its favor if general partners with authority to do so have refused to bring the action or if an effort to cause those general partners to bring the action is not likely to succeed. [1985 c.677 §57] 
 
 ## Provenance & change history
 

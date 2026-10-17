@@ -54,7 +54,7 @@ ORS 1.560 — Procedure for employment of private counsel; terms and conditions.
 
 (2) When the judge is a defendant in an action, suit or proceeding and the State Court Administrator concludes that no party interested in the outcome of the action, suit or proceeding will provide adequate representation for the judge; or
 
-(3) In any action, suit or proceeding, when the State Court Administrator finds that employing private counsel is necessary to protect the public interest, the integrity of the judicial system, or the interests of the judge in performing duties as a state officer. [1977 c.79 §3; 2007 c.71 §2] 1.570 Claims for compensation of private counsel; approval by State Court Administrator. If private counsel is employed under ORS 1.560, such counsel shall submit to the State Court Administrator a verified and detailed claim for compensation, which claim shall include a statement of reimbursable expense incurred and the amount of time devoted to the matter on behalf of the judge. The State Court Administrator, under the direction of the Supreme Court, shall examine the claim and shall approve payment thereof in a reasonable amount. [1977 c.79 §4]
+(3) In any action, suit or proceeding, when the State Court Administrator finds that employing private counsel is necessary to protect the public interest, the integrity of the judicial system, or the interests of the judge in performing duties as a state officer. [1977 c.79 §3; 2007 c.71 §2] 
 
 ## Provenance & change history
 

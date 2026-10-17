@@ -58,7 +58,7 @@ ORS 63.441 — Amendment by managers. Chapter 63 (Limited Liability Companies), 
 
 (4) Change the limited liability company’s name by substituting “limited liability company” for the abbreviation “L.L.C.” or “LLC,” substituting the abbreviation “L.L.C.” for “limited liability company” or “LLC,” or substituting the abbreviation “LLC” for “limited liability company” or “L.L.C.”; or
 
-(5) Make any other changes expressly permitted by this chapter to be made without member action. [1993 c.173 §73; 1995 c.93 §16; 1999 c.86 §14] 63.444 Amendment by members. Except as otherwise provided in ORS 63.441 or in the articles of organization or any operating agreement, all amendments to the articles of organization or any operating agreement must be approved unanimously by the members. Unless otherwise provided in the articles of organization or any operating agreement, the managers, if any, of the limited liability company may, but need not, propose or take a position recommending or disapproving any such proposed amendment. [1993 c.173 §74; 1995 c.93 §17; 1997 c.646 §9]
+(5) Make any other changes expressly permitted by this chapter to be made without member action. [1993 c.173 §73; 1995 c.93 §16; 1999 c.86 §14] 
 
 ## Provenance & change history
 

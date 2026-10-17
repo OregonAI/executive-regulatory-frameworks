@@ -52,11 +52,7 @@ ORS 70.300 — Assignee of partnership interest as limited partner. Chapter 70 (
 
 (2) An assignee who has become a limited partner has, to the extent assigned, the rights and powers, and is subject to the restrictions and liabilities, of a limited partner under the partnership agreement and this chapter. An assignee who becomes a limited partner also is liable for the obligations of the assignor to make and return contributions as provided in ORS 70.225 to 70.275. However, the assignee is not obligated for liabilities that were unknown to the assignee at the time the assignee became a limited partner and that could not be ascertained from the certificate of limited partnership.
 
-(3) If an assignee of a partnership interest becomes a limited partner, the assignor is not released from the assignor’s liability to the limited partnership under ORS 70.105 and 70.230. [1985 c.677 §43; 1987 c.543 §26] 70.305 Death, incompetency, dissolution or termination of partner.
-
-(1) If a partner who is an individual dies or a court of competent jurisdiction adjudges the partner to be incompetent to manage the partner’s person or property, the partner’s executor, administrator, guardian, conservator or other legal representative may exercise all the partner’s rights for the purpose of settling the partner’s estate or administering the partner’s property, including any power the partner held to give an assignee the right to become a limited partner.
-
-(2) If a partner is a corporation, trust or other entity and is dissolved or terminated, the powers of that partner may be exercised by its legal representative or successor. [1985 c.677 §44]
+(3) If an assignee of a partnership interest becomes a limited partner, the assignor is not released from the assignor’s liability to the limited partnership under ORS 70.105 and 70.230. [1985 c.677 §43; 1987 c.543 §26] 
 
 ## Provenance & change history
 

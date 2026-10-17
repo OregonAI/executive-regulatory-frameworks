@@ -52,27 +52,7 @@ ORS 72A.1030 — Definitions and index of definitions. Chapter 72A (Leases), 202
 
 (2) Other definitions applying to this chapter and the sections in which they appear are: (a) “Accessions” as defined in ORS 72A.3100. (b) “Account” as defined in ORS 79A.1020. (c) “Between merchants” as defined in ORS 72.1040. (d) “Buyer” as defined in ORS 72.1030. (e) “Chattel paper” as defined in ORS 79A.1020. (f) “Construction mortgage” as defined in ORS 72A.3090. (g) “Consumer goods” as defined in ORS 79A.1020. (h) “Document” as defined in ORS 79A.1020. (i) “Encumbrance” as defined in ORS 72A.3090. (j) “Entrusting” as defined in ORS 72.4030. (k) “Fixture filing” as defined in ORS 72A.3090. (L) “Fixtures” as defined in ORS 72A.3090. (m) “General intangible” as defined in ORS 79A.1020. (n) “Instrument” as defined in ORS 79A.1020. (o) “Merchant” as defined in ORS 72.1040. (p) “Mortgage” as defined in ORS 79A.1020. (q) “Purchase money lease” as defined in ORS 72A.3090. (r) “Pursuant to commitment” as defined in ORS 79A.1020. (s) “Receipt” as defined in ORS 72.1030. (t) “Sale” as defined in ORS 72.1060. (u) “Sale on approval” as defined in ORS 72.3260. (v) “Sale or return” as defined in ORS 72.3260. (w) “Seller” as defined in ORS 72.1030.
 
-(3) In addition, ORS chapter 71 contains general definitions and principles of construction and interpretation applicable throughout this chapter. [1989 c.676 §3; 1993 c.646 §1; 2001 c.445 §141; 2009 c.181 §36; 2025 c.33 §15] 72A.1040 Leases subject to other statutes.
-
-(1) A lease, although subject to this chapter, is also subject to any applicable: (a) Certificate of title statute of this state; (b) Certificate of title statute of another jurisdiction as described in ORS 72A.1050; or (c) Consumer protection statute of this state, or final consumer protection decision of a court of this state existing on November 4, 1993.
-
-(2) In case of conflict between this chapter, other than ORS 72A.1050, 72A.3040 and 72A.3050, and a statute or decision referred to in subsection
-
-(1) of this section, the statute or decision controls.
-
-(3) Failure to comply with an applicable law has only the effect specified therein. [1989 c.676 §4; 1993 c.646 §2] 72A.1050 Territorial application of act to goods covered by certificate of title. Subject to the provisions of ORS 72A.3040 and 72A.3050, with respect to goods covered by a certificate of title issued under a statute of this state or of another jurisdiction, compliance and the effect of compliance or noncompliance with a certificate of title statute are governed by the law, including the conflict of laws rules, of the jurisdiction issuing the certificate until the earlier of:
-
-(1) Surrender of the certificate; or
-
-(2) Four months after the goods are removed from that jurisdiction and thereafter until a new certificate of title is issued by another jurisdiction. [1989 c.676 §5] 72A.1060 Limitation on power of parties to consumer lease to choose applicable law and judicial forum.
-
-(1) If the law chosen by the parties to a consumer lease is that of a jurisdiction other than a jurisdiction in which the lessee or lessor resides at the time the lease agreement becomes enforceable or within 30 days thereafter or in which the goods are to be used, the choice is not enforceable.
-
-(2) If the judicial forum chosen by the parties to a consumer lease is a forum that would not otherwise have jurisdiction over the lessee, the choice is not enforceable. [1989 c.676 §6] 72A.1070 Waiver or renunciation of claim or right after default. Any claim or right arising out of an alleged default or breach of warranty may be discharged in whole or in part without consideration by a waiver or renunciation in a signed record delivered by the aggrieved party. [1989 c.676 §7; 2025 c.33 §16] 72A.1080 Unconscionability.
-
-(1) If the court as a matter of law finds a lease contract or any clause of a lease contract to have been unconscionable at the time it was made the court may refuse to enforce the lease contract, or it may enforce the remainder of the lease contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.
-
-(2) When it is claimed or appears to the court that the lease contract or any clause thereof may be unconscionable, the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination. [1989 c.676 §8] 72A.1090 Option to accelerate at will. A term providing that one party or the party’s successor in interest may accelerate payment or performance or require collateral or additional collateral “at will” or “when the party purports to be insecure” or in words of similar import must be construed to mean that the party has power to do so only if the party in good faith believes that the prospect of payment or performance is impaired. [1989 c.676 §9] 72A.1095 Subordination by agreement. Nothing in this chapter prevents subordination by agreement by any person entitled to priority. [1993 c.646 §22]
+(3) In addition, ORS chapter 71 contains general definitions and principles of construction and interpretation applicable throughout this chapter. [1989 c.676 §3; 1993 c.646 §1; 2001 c.445 §141; 2009 c.181 §36; 2025 c.33 §15] 
 
 ## Provenance & change history
 

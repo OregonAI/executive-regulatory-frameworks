@@ -48,7 +48,7 @@ ORS 84.058 — Severability clause. Chapter 84 (Electronic Transactions), 2025 E
 
 ## Full text
 
-84.058 Severability clause. If any provision of ORS 84.001 to 84.061 or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions of ORS 84.001 to 84.061 that can be given effect without the invalid provision or application, and to this end the provisions of ORS 84.001 to 84.061 are severable. [2001 c.535 §20] 84.061 Federal electronic signatures law partially superseded. ORS 84.001 to 84.061 constitute the adoption of the Uniform Electronic Transactions Act as approved and recommended for enactment by the National Conference of Commissioners on Uniform State Laws in 1999 and supersede the provisions of section 101 of the federal Electronic Signatures in Global and National Commerce Act (P.L. 106-229) in accordance with section 102(a) of the federal Act. [2001 c.535 §21] 84.063 Rules. A governmental agency may adopt rules necessary to implement the provisions of ORS 84.014 and the amendments to ORS 84.049 by section 3, chapter 39, Oregon Laws 2011. [2011 c.39 §4]
+84.058 Severability clause. If any provision of ORS 84.001 to 84.061 or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions of ORS 84.001 to 84.061 that can be given effect without the invalid provision or application, and to this end the provisions of ORS 84.001 to 84.061 are severable. [2001 c.535 §20] 
 
 ## Provenance & change history
 

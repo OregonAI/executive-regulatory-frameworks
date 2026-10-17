@@ -48,13 +48,7 @@ ORS 96.050 — Gate in partition fence. Chapter 96 (Line and Partition Fences), 
 
 ## Full text
 
-96.050 Gate in partition fence. In all cases where a partition fence exists between the land of two or more persons and a gate is established for passage through their lands, any other person may pass through the gate free, doing no unnecessary damage, and if any such person leaves any such gate open or does other damage to the premises, the person is liable to the aggrieved party in double damages. 96.060 Removal of fence built on another’s land.
-
-(1) When any person has built or builds, by mistake and in good faith, a fence on the land of another, such person or the successor in interest of the person may, within one year from the time of discovering the mistake, go upon the land of the other person and remove the fence, doing no unnecessary damage thereby.
-
-(2) The occupant or owner of land whereon a fence has been built by mistake shall not throw down or in any manner disturb such fence during the period which the person who built it is authorized by subsection
-
-(1) of this section to remove it. 96.070 [Repealed by 1981 c.111 §2] _______________
+96.050 Gate in partition fence. In all cases where a partition fence exists between the land of two or more persons and a gate is established for passage through their lands, any other person may pass through the gate free, doing no unnecessary damage, and if any such person leaves any such gate open or does other damage to the premises, the person is liable to the aggrieved party in double damages. 
 
 ## Provenance & change history
 

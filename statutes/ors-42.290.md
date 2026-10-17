@@ -46,7 +46,7 @@ ORS 42.290 — Construction of notices. Chapter 42 (Execution, Formalities and I
 
 ## Full text
 
-42.290 Construction of notices. A written notice is to be construed according to the ordinary acceptation of its terms. Thus, a notice to the drawers or indorsers of a bill of exchange or promissory note, that it has been protested for want of acceptance or payment, shall be held to import that it has been duly presented for acceptance or payment and refused, and that the holder looks for payment to the person to whom the notice is given. 42.300 Parties to written instrument not to deny facts recited therein. Except for the recital of a consideration, the truth of the facts recited from the recital in a written instrument shall not be denied by the parties thereto, their representatives or successors in interest by a subsequent title. [1981 c.892 §83] _______________
+42.290 Construction of notices. A written notice is to be construed according to the ordinary acceptation of its terms. Thus, a notice to the drawers or indorsers of a bill of exchange or promissory note, that it has been protested for want of acceptance or payment, shall be held to import that it has been duly presented for acceptance or payment and refused, and that the holder looks for payment to the person to whom the notice is given. 
 
 ## Provenance & change history
 

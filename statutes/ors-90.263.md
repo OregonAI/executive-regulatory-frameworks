@@ -48,17 +48,7 @@ ORS 90.263 — Vehicle tags. Chapter 90 (Residential Landlord and Tenant), 2025 
 
 ## Full text
 
-90.263 Vehicle tags. A landlord may not require that a tenant display a nonremovable tag, sticker or other device on a motor vehicle that might reveal or indicate to the public the premises where the tenant resides. [1999 c.397 §2] Note: 90.263 was added to and made a part of ORS chapter 90 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 90.265 Interest in alternative energy device installed by tenant.
-
-(1) An alternative energy device installed in a dwelling unit by a tenant with the landlord’s written permission is not a fixture in which the landlord has a legal interest, except as otherwise expressly provided in a written agreement between the landlord and tenant.
-
-(2) As a condition to a grant of written permission referred to in subsection
-
-(1) of this section, a landlord may require a tenant to do one or more of the following: (a) Provide a waiver of the landlord’s liability for any injury to the tenant or other installer resulting from the tenant’s or installer’s negligence in the installation of the alternative energy device; (b) Secure a waiver of the right to a lien against the property of the landlord from each contractor, subcontractor, laborer and material supplier who would obtain the right to a lien when the tenant installs or causes the installation of the alternative energy device; or (c) Post a bond or pay a deposit in an amount not to exceed the cost of restoring the premises to its condition at the time of installation of the alternative energy device.
-
-(3) Nothing in this section: (a) Authorizes the installation of an alternative energy device in a dwelling unit without the landlord’s written permission; or (b) Limits a landlord’s right to recover damages and obtain injunctive relief as provided in ORS 90.401.
-
-(4) As used in this section, “alternative energy device” has the meaning given that term in ORS 469B.100. [Formerly 91.757; 1993 c.369 §32; 1995 c.559 §57; 1997 c.577 §10; 1999 c.603 §13; 2005 c.22 §60; 2005 c.391 §17]
+90.263 Vehicle tags. A landlord may not require that a tenant display a nonremovable tag, sticker or other device on a motor vehicle that might reveal or indicate to the public the premises where the tenant resides. [1999 c.397 §2] Note: 90.263 was added to and made a part of ORS chapter 90 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

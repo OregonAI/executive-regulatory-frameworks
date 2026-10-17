@@ -48,7 +48,7 @@ ORS 45.260 — Introduction, or exclusion, of part of deposition. Chapter 45 (Te
 
 ## Full text
 
-45.260 Introduction, or exclusion, of part of deposition. If only part of a deposition is offered in evidence by a party, an adverse party may require the party to introduce all of it which is relevant to the part introduced and any party may introduce any other parts, so far as admissible under the rules of evidence. When any portion of a deposition is excluded from a case, so much of the adverse examination as relates thereto is excluded also. [1955 c.611 §10] 45.270 Use of deposition in same or other proceedings. Substitution of parties shall not affect the right to use the depositions previously taken; and when an action, suit or proceeding has been dismissed and another action, suit or proceeding involving the same subject matter is afterward brought between the same parties or their representatives or successors in interest, any deposition lawfully taken and duly filed in the former action, suit or proceeding may be used in the latter as if originally taken therefor, and is then to be deemed the evidence of the party reading it. [1955 c.611 §11]
+45.260 Introduction, or exclusion, of part of deposition. If only part of a deposition is offered in evidence by a party, an adverse party may require the party to introduce all of it which is relevant to the part introduced and any party may introduce any other parts, so far as admissible under the rules of evidence. When any portion of a deposition is excluded from a case, so much of the adverse examination as relates thereto is excluded also. [1955 c.611 §10] 
 
 ## Provenance & change history
 

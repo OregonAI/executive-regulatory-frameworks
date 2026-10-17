@@ -48,13 +48,7 @@ ORS 87.920 — Recording of document not to create lien, affect title or constit
 
 ## Full text
 
-87.920 Recording of document not to create lien, affect title or constitute notice except as authorized by law. Except where filing of the document is specifically required or authorized by statute, no document filed for recording or otherwise with any public officer in this state before or after October 15, 1983, shall create a lien or encumbrance upon or affect the title to the real or personal property of any person or constitute actual or constructive notice to any person of the information contained therein. [1983 c.763 §62] Note: 87.920 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 87 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 87.930 Secretary of State to furnish list of persons who have filed financing statement. If the Secretary of State receives notice of a lien created under ORS 87.226, 87.705 or 87.755, the Secretary of State, upon request, shall furnish the person who filed the lien with a list of persons who have filed a financing statement under ORS 79A.5010 that perfects a security interest in the inventory, proceeds or accounts receivable of the lien debtor or purchaser. The list must include:
-
-(1) The name and address of the secured party for each statement or notice;
-
-(2) The filing number and date of filing for the financing statement in the index maintained by the Secretary of State; and
-
-(3) Other information that the Secretary of State considers necessary or proper. [2001 c.301 §3; 2007 c.71 §22] Note: 87.930 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 87 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. _______________
+87.920 Recording of document not to create lien, affect title or constitute notice except as authorized by law. Except where filing of the document is specifically required or authorized by statute, no document filed for recording or otherwise with any public officer in this state before or after October 15, 1983, shall create a lien or encumbrance upon or affect the title to the real or personal property of any person or constitute actual or constructive notice to any person of the information contained therein. [1983 c.763 §62] Note: 87.920 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 87 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

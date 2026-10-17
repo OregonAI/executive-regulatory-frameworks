@@ -48,13 +48,7 @@ ORS 40.580 — Rule 1007. Testimony or written admission of party. Chapter 40 (E
 
 ## Full text
 
-40.580 Rule 1007. Testimony or written admission of party. Contents of writings, recordings or photographs may be proved by the testimony or deposition of the party against whom offered or by the party’s written admission, without accounting for the nonproduction of the original. [1981 c.892 §77] 40.585 Rule 1008. Functions of court and jury. When the admissibility of other evidence of contents of writings, recordings or photographs under ORS 40.550 to 40.585 depends upon the fulfillment of a condition of fact, the question whether the condition has been fulfilled is ordinarily for the court to determine in accordance with ORS 40.030. However, the issue is for the trier of fact to determine as in the case of other issues of fact when the issue raised is:
-
-(1) Whether the asserted writing ever existed;
-
-(2) Whether another writing, recording or photograph produced at the trial is the original; or
-
-(3) Whether the other evidence of contents correctly reflects the contents. [1981 c.892 §78] _______________
+40.580 Rule 1007. Testimony or written admission of party. Contents of writings, recordings or photographs may be proved by the testimony or deposition of the party against whom offered or by the party’s written admission, without accounting for the nonproduction of the original. [1981 c.892 §77] 
 
 ## Provenance & change history
 

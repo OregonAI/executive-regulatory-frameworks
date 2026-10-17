@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-82.150
-title: "Definitions for ORS"
+title: "Definitions for ORS 82.160 and 82.170"
 doc_type: statute
 citation: "ORS 82.150"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-82"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors082.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Definitions for ORS (ORS 82.150)
+# Definitions for ORS 82.160 and 82.170 (ORS 82.150)
 
 ## At a glance
 
-ORS 82.150 — Definitions for ORS. Chapter 82 (Interest; Repayment Restrictions), 2025 Edition.
+ORS 82.150 — Definitions for ORS 82.160 and 82.170. Chapter 82 (Interest; Repayment Restrictions), 2025 Edition.
 
 ## Full text
 
@@ -52,19 +52,7 @@ ORS 82.150 — Definitions for ORS. Chapter 82 (Interest; Repayment Restrictions
 
 (1) “Loan” means a loan of money that is primarily for personal, family or household use made by a person who is regularly engaged in the business of lending money.
 
-(2) “Loan agreement” means the written document issued in connection with a loan that sets forth the terms upon which the loan is made. [1973 c.611 §3; 1987 c.716 §1] 82.160 Notice to borrower of penalty for repayment prior to date for repayment in loan agreement.
-
-(1) If a loan agreement provides for a penalty to be charged for repaying the loan prior to the date provided for repayment in the loan agreement, the loan agreement shall contain in printing or writing of a size equal to at least 10-point bold or underlined type substantially the following notice: ______________________________________________________________________________ NOTICE TO THE BORROWER Do not sign this loan agreement before you read it. This loan agreement provides for the payment of a penalty if you wish to repay the loan prior to the date provided for repayment in the loan agreement. ______________________________________________________________________________
-
-(2) If a loan agreement does not contain a notice as required by subsection
-
-(1) of this section, a lender shall not collect from the borrower a penalty for payment of the loan prior to the date provided for repayment. [1973 c.611 §1; 1985 c.359 §1] 82.170 Notice to borrower of lender authority to refuse to accept repayment prior to date for repayment in loan agreement.
-
-(1) If a loan agreement authorizes the lender to refuse to accept repayment of the loan prior to the date provided for repayment in the loan agreement, the loan agreement shall contain in printing or writing of a size equal to at least 10-point bold or underlined type substantially the following notice: ______________________________________________________________________________ NOTICE TO THE BORROWER Do not sign this loan agreement before you read it. This loan agreement authorizes the lender to refuse to accept repayment of the loan prior to the date provided for repayment in the loan agreement. ______________________________________________________________________________
-
-(2) If a loan agreement does not contain a notice as required by subsection
-
-(1) of this section, a lender shall not refuse to accept repayment of the loan by the borrower prior to the date provided for repayment. [1973 c.611 §2; 1985 c.359 §2] 82.300 [1989 c.578 §1; repealed by 1997 c.182 §7] _______________
+(2) “Loan agreement” means the written document issued in connection with a loan that sets forth the terms upon which the loan is made. [1973 c.611 §3; 1987 c.716 §1] 
 
 ## Provenance & change history
 

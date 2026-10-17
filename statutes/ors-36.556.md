@@ -48,7 +48,7 @@ ORS 36.556 — Severability. Chapter 36 (Mediation and Arbitration), 2025 Editio
 
 ## Full text
 
-36.556 Severability. If any provision of ORS 36.450 to 36.558 or its application to any person or circumstance is held to be invalid, the invalidity does not affect the other provisions or applications of ORS 36.450 to 36.558 which can be given effect without the invalid provision or application and to this end the provisions of ORS 36.450 to 36.558 are severable. [1991 c.405 §55] 36.558 Short title. ORS 36.450 to 36.558 shall be known and may be cited as the “Oregon International Commercial Arbitration and Conciliation Act.” [1991 c.405 §1]
+36.556 Severability. If any provision of ORS 36.450 to 36.558 or its application to any person or circumstance is held to be invalid, the invalidity does not affect the other provisions or applications of ORS 36.450 to 36.558 which can be given effect without the invalid provision or application and to this end the provisions of ORS 36.450 to 36.558 are severable. [1991 c.405 §55] 
 
 ## Provenance & change history
 

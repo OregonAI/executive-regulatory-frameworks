@@ -183,7 +183,7 @@ chapters:
     status: ingested
     path: statutes/ors-1.189.md
   - number: '1.194'
-    title: Definitions for ORS
+    title: Definitions for ORS 1.194 to 1.200
     status: ingested
     path: statutes/ors-1.194.md
   - number: '1.195'
@@ -200,15 +200,16 @@ chapters:
     status: ingested
     path: statutes/ors-1.197.md
   - number: '1.198'
-    title: Exemptions from requirements of ORS
+    title: Exemptions from requirements of ORS 1.197
     status: ingested
     path: statutes/ors-1.198.md
   - number: '1.199'
-    title: Policies and procedures for exempting accounts from requirements of ORS
+    title: Policies and procedures for exempting accounts from requirements of ORS 1.197 and for ceasing
+      collection efforts
     status: ingested
     path: statutes/ors-1.199.md
   - number: '1.200'
-    title: Effect of ORS
+    title: Effect of ORS 1.194 to 1.200 on authority of judge
     status: ingested
     path: statutes/ors-1.200.md
   - number: '1.202'
@@ -291,11 +292,11 @@ chapters:
     status: ingested
     path: statutes/ors-1.430.md
   - number: '1.440'
-    title: Status of records of proceedings under ORS
+    title: Status of records of proceedings under ORS 1.420 or
     status: ingested
     path: statutes/ors-1.440.md
   - number: '1.450'
-    title: Status of testimony in proceedings under ORS
+    title: Status of testimony in proceedings under ORS 1.420 or
     status: ingested
     path: statutes/ors-1.450.md
   - number: '1.460'
@@ -335,7 +336,7 @@ chapters:
     status: ingested
     path: statutes/ors-1.600.md
   - number: '1.605'
-    title: Compensation and expenses for judges under ORS
+    title: Compensation and expenses for judges under ORS 1.600
     status: ingested
     path: statutes/ors-1.605.md
   - number: '1.615'
@@ -343,7 +344,7 @@ chapters:
     status: ingested
     path: statutes/ors-1.615.md
   - number: '1.625'
-    title: Compensation and expenses for judges under ORS
+    title: Compensation and expenses for judges under ORS 1.615
     status: ingested
     path: statutes/ors-1.625.md
   - number: '1.635'
@@ -351,15 +352,15 @@ chapters:
     status: ingested
     path: statutes/ors-1.635.md
   - number: '1.645'
-    title: Transfer, challenge, disqualification, supervision of person appointed under ORS
+    title: Transfer, challenge, disqualification, supervision of person appointed under ORS 1.635
     status: ingested
     path: statutes/ors-1.645.md
   - number: '1.655'
-    title: Extension and termination of appointment under ORS
+    title: Extension and termination of appointment under ORS 1.635; eligibility to appear as attorney
     status: ingested
     path: statutes/ors-1.655.md
   - number: '1.665'
-    title: Compensation and expenses of persons appointed under ORS
+    title: Compensation and expenses of persons appointed under ORS 1.635
     status: ingested
     path: statutes/ors-1.665.md
   - number: '1.675'
@@ -506,8 +507,7 @@ chapters:
     status: ingested
     path: statutes/ors-10.115.md
   - number: '10.125'
-    title: Security for jury sequestered or kept overnight (Temporary provisions relating to Task Force
-      on Removing Barriers to Jury Service are compiled as notes following ORS
+    title: Security for jury sequestered or kept overnight
     status: ingested
     path: statutes/ors-10.125.md
   - number: '10.205'
@@ -5383,7 +5383,7 @@ chapters:
     path: statutes/ors-12.117.md
   - number: '12.118'
     title: Action based on conduct that constitutes sexual assault of adult or conduct allowing, permitting
-      or encouraging sexual assault of adult (Temporary provisions relating to applicability of ORS
+      or encouraging sexual assault of adult
     status: ingested
     path: statutes/ors-12.118.md
   - number: '12.120'
@@ -5496,7 +5496,7 @@ chapters:
     status: ingested
     path: statutes/ors-12.282.md
   - number: '12.410'
-    title: Definitions for ORS
+    title: Definitions for ORS 12.410 to 12.480
     status: ingested
     path: statutes/ors-12.410.md
   - number: '12.420'
@@ -8741,7 +8741,7 @@ chapters:
     status: ingested
     path: statutes/ors-133.717.md
   - number: '133.721'
-    title: Definitions for ORS 41.910 and
+    title: Definitions for ORS 41.910 and 133.721 to 133.739
     status: ingested
     path: statutes/ors-133.721.md
   - number: '133.723'
@@ -12191,7 +12191,7 @@ chapters:
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors015.html
   sections:
   - number: '15.300'
-    title: Definitions for ORS
+    title: Definitions for ORS 15.300 to 15.380
     status: ingested
     path: statutes/ors-15.300.md
   - number: '15.305'
@@ -12233,7 +12233,7 @@ chapters:
     status: ingested
     path: statutes/ors-15.380.md
   - number: '15.400'
-    title: Definitions for ORS
+    title: Definitions for ORS 15.400 to 15.460
     status: ingested
     path: statutes/ors-15.400.md
   - number: '15.405'
@@ -13736,7 +13736,7 @@ chapters:
     status: ingested
     path: statutes/ors-163.720.md
   - number: '163.730'
-    title: Definitions for ORS 30.866 and
+    title: Definitions for ORS 30.866 and 163.730 to 163.750
     status: ingested
     path: statutes/ors-163.730.md
   - number: '163.732'
@@ -15820,7 +15820,7 @@ chapters:
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors017.html
   sections:
   - number: '17.065'
-    title: Definitions for ORS
+    title: Definitions for ORS 17.065 to 17.085
     status: ingested
     path: statutes/ors-17.065.md
   - number: '17.075'
@@ -17863,7 +17863,7 @@ chapters:
     note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
       artifact); not ingested
   - number: '18.750'
-    title: Application of ORS
+    title: Application of ORS 18.750 to 18.760
     status: ingested
     path: statutes/ors-18.750.md
   - number: '18.752'
@@ -18273,7 +18273,7 @@ chapters:
     status: ingested
     path: statutes/ors-18.992.md
   - number: '18.993'
-    title: Effect of ORS
+    title: Effect of ORS 18.860 to 18.993 on court’s ability to direct seizure
     status: ingested
     path: statutes/ors-18.993.md
   - number: '18.995'
@@ -26148,7 +26148,7 @@ chapters:
     status: ingested
     path: statutes/ors-21.400.md
   - number: '21.680'
-    title: Definitions for ORS
+    title: Definitions for ORS 21.680 to 21.698
     status: ingested
     path: statutes/ors-21.680.md
   - number: '21.682'
@@ -30079,7 +30079,7 @@ chapters:
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors024.html
   sections:
   - number: '24.105'
-    title: Definition for ORS
+    title: Definition for ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175
     status: ingested
     path: statutes/ors-24.105.md
   - number: '24.115'
@@ -30112,7 +30112,7 @@ chapters:
     status: ingested
     path: statutes/ors-24.155.md
   - number: '24.165'
-    title: Construction of ORS
+    title: Construction of ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175
     status: ingested
     path: statutes/ors-24.165.md
   - number: '24.175'
@@ -30124,11 +30124,11 @@ chapters:
     status: ingested
     path: statutes/ors-24.190.md
   - number: '24.260'
-    title: Definitions for ORS
+    title: Definitions for ORS 24.260 to 24.335
     status: ingested
     path: statutes/ors-24.260.md
   - number: '24.265'
-    title: Scope of application of ORS
+    title: Scope of application of ORS 24.260 to 24.335
     status: ingested
     path: statutes/ors-24.265.md
   - number: '24.270'
@@ -30189,7 +30189,7 @@ chapters:
     status: ingested
     path: statutes/ors-24.335.md
   - number: '24.350'
-    title: Definitions for ORS
+    title: Definitions for ORS 24.350 to 24.400
     status: ingested
     path: statutes/ors-24.350.md
   - number: '24.355'
@@ -32686,7 +32686,7 @@ chapters:
     status: ingested
     path: statutes/ors-25.020.md
   - number: '25.025'
-    title: Annual notice to parties receiving services under ORS
+    title: Annual notice to parties receiving services under ORS 25.020
     status: ingested
     path: statutes/ors-25.025.md
   - number: '25.030'
@@ -32874,7 +32874,7 @@ chapters:
     status: ingested
     path: statutes/ors-25.290.md
   - number: '25.321'
-    title: Definitions for ORS
+    title: Definitions for ORS 25.321 to 25.343
     status: ingested
     path: statutes/ors-25.321.md
   - number: '25.323'
@@ -33004,7 +33004,7 @@ chapters:
     note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
       artifact); not ingested
   - number: '25.501'
-    title: Definitions for ORS
+    title: Definitions for ORS 25.501 to 25.556
     status: ingested
     path: statutes/ors-25.501.md
   - number: '25.502'
@@ -33097,7 +33097,7 @@ chapters:
     status: ingested
     path: statutes/ors-25.625.md
   - number: '25.640'
-    title: Definitions for ORS
+    title: Definitions for ORS 25.643 and 25.646
     status: ingested
     path: statutes/ors-25.640.md
   - number: '25.643'
@@ -39430,7 +39430,7 @@ chapters:
     status: ingested
     path: statutes/ors-28.200.md
   - number: '28.205'
-    title: Procedure to invoke ORS
+    title: Procedure to invoke ORS 28.200 to 28.255
     status: ingested
     path: statutes/ors-28.205.md
   - number: '28.210'
@@ -44755,7 +44755,7 @@ chapters:
     status: ingested
     path: statutes/ors-3.225.md
   - number: '3.250'
-    title: Definitions for ORS
+    title: Definitions for ORS 3.250 to 3.280
     status: ingested
     path: statutes/ors-3.250.md
   - number: '3.255'
@@ -44978,7 +44978,7 @@ chapters:
     status: ingested
     path: statutes/ors-30.178.md
   - number: '30.180'
-    title: Definitions for ORS
+    title: Definitions for ORS 30.180 to 30.186
     status: ingested
     path: statutes/ors-30.180.md
   - number: '30.182'
@@ -44994,7 +44994,7 @@ chapters:
     status: ingested
     path: statutes/ors-30.186.md
   - number: '30.192'
-    title: Definitions for ORS
+    title: Definitions for ORS 30.192 to 30.196
     status: ingested
     path: statutes/ors-30.192.md
   - number: '30.194'
@@ -45039,15 +45039,15 @@ chapters:
     note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
       artifact); not ingested
   - number: '30.260'
-    title: Definitions for ORS
+    title: Definitions for ORS 30.260 to 30.300
     status: ingested
     path: statutes/ors-30.260.md
   - number: '30.261'
-    title: Limitation on applicability of ORS
+    title: Limitation on applicability of ORS 30.260 to 30.300 to certain private, nonprofit organizations
     status: ingested
     path: statutes/ors-30.261.md
   - number: '30.262'
-    title: Certain nonprofit facilities and homes public bodies for purposes of ORS
+    title: Certain nonprofit facilities and homes public bodies for purposes of ORS 30.260 to 30.300
     status: ingested
     path: statutes/ors-30.262.md
   - number: '30.265'
@@ -45129,7 +45129,7 @@ chapters:
     status: ingested
     path: statutes/ors-30.298.md
   - number: '30.300'
-    title: ORS
+    title: ORS 30.260 to 30.300 exclusive
     status: ingested
     path: statutes/ors-30.300.md
   - number: '30.302'
@@ -45189,7 +45189,7 @@ chapters:
     status: ingested
     path: statutes/ors-30.405.md
   - number: '30.407'
-    title: Request for hearing following issuance of order under ORS
+    title: Request for hearing following issuance of order under ORS 30.405
     status: ingested
     path: statutes/ors-30.407.md
   - number: '30.410'
@@ -45226,7 +45226,7 @@ chapters:
     status: ingested
     path: statutes/ors-30.485.md
   - number: '30.490'
-    title: Definitions for ORS
+    title: Definitions for ORS 30.490 to 30.497
     status: ingested
     path: statutes/ors-30.490.md
   - number: '30.492'
@@ -45243,7 +45243,7 @@ chapters:
     status: ingested
     path: statutes/ors-30.497.md
   - number: '30.500'
-    title: Definitions for ORS
+    title: Definitions for ORS 30.500 and 30.505
     status: ingested
     path: statutes/ors-30.500.md
   - number: '30.505'
@@ -45308,7 +45308,7 @@ chapters:
     status: ingested
     path: statutes/ors-30.640.md
   - number: '30.642'
-    title: Definitions for ORS
+    title: Definitions for ORS 30.642 to 30.650
     status: ingested
     path: statutes/ors-30.642.md
   - number: '30.643'
@@ -45345,7 +45345,7 @@ chapters:
     status: ingested
     path: statutes/ors-30.659.md
   - number: '30.671'
-    title: Definitions for ORS
+    title: Definitions for ORS 30.671 to 30.677
     status: ingested
     path: statutes/ors-30.671.md
   - number: '30.673'
@@ -45357,7 +45357,7 @@ chapters:
     status: ingested
     path: statutes/ors-30.677.md
   - number: '30.687'
-    title: Definitions for ORS
+    title: Definitions for ORS 30.687 to 30.697
     status: ingested
     path: statutes/ors-30.687.md
   - number: '30.689'
@@ -45554,7 +45554,7 @@ chapters:
     status: ingested
     path: statutes/ors-30.868.md
   - number: '30.870'
-    title: Definitions for ORS
+    title: Definitions for ORS 30.870 and 30.875
     status: ingested
     path: statutes/ors-30.870.md
   - number: '30.875'
@@ -45628,7 +45628,7 @@ chapters:
     status: ingested
     path: statutes/ors-30.928.md
   - number: '30.930'
-    title: Definitions for ORS
+    title: Definitions for ORS 30.930 to 30.947
     status: ingested
     path: statutes/ors-30.930.md
   - number: '30.931'
@@ -45697,7 +45697,7 @@ chapters:
     status: ingested
     path: statutes/ors-30.963.md
   - number: '30.970'
-    title: Definitions for ORS
+    title: Definitions for ORS 30.970 to 30.990
     status: ingested
     path: statutes/ors-30.970.md
   - number: '30.975'
@@ -45714,9 +45714,7 @@ chapters:
     status: ingested
     path: statutes/ors-30.985.md
   - number: '30.990'
-    title: Operators required to give skiers notice of duties ACTIONS AGAINST SCHOOLS RELATED TO COVID-19
-      (Temporary provisions relating to actions against schools related to COVID-19 are compiled as notes
-      following ORS
+    title: Operators required to give skiers notice of duties
     status: ingested
     path: statutes/ors-30.990.md
 - chapter: '305'
@@ -46779,7 +46777,7 @@ chapters:
     status: ingested
     path: statutes/ors-307.150.md
   - number: '307.155'
-    title: When land exempt under ORS 97.660,
+    title: When land exempt under ORS 97.660, 307.140 or
     status: ingested
     path: statutes/ors-307.155.md
   - number: '307.158'
@@ -48595,16 +48593,13 @@ chapters:
     status: ingested
     path: statutes/ors-31.250.md
   - number: '31.260'
-    title: Definitions for ORS
+    title: Definitions for ORS 31.260 to 31.278
     status: ingested
     path: statutes/ors-31.260.md
   - number: '31.262'
     title: Notice of adverse health care incident
-    status: not_sliceable
-    note: 'title is correct (the printed catchline is ''Notice of adverse health care incident''); the
-      slice anchor was a citation in 31.268 and is fixed in repo_lib.snapshot_slice. Held, not ingested:
-      snapshot_slice does not end a section at the next one in a chapter numbered below 100, so the slice
-      carries 8 later sections'' text.'
+    status: ingested
+    path: statutes/ors-31.262.md
   - number: '31.264'
     title: Discussion of adverse health care incident; offers of compensation; reporting to commission
     status: ingested
@@ -55678,7 +55673,7 @@ chapters:
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors033.html
   sections:
   - number: '33.015'
-    title: Definitions for ORS
+    title: Definitions for ORS 33.015 to 33.155
     status: ingested
     path: statutes/ors-33.015.md
   - number: '33.025'
@@ -55784,7 +55779,7 @@ chapters:
     status: ingested
     path: statutes/ors-33.720.md
   - number: '33.850'
-    title: Definitions for ORS
+    title: Definitions for ORS 33.850 to 33.875
     status: ingested
     path: statutes/ors-33.850.md
   - number: '33.855'
@@ -57444,7 +57439,7 @@ chapters:
     status: ingested
     path: statutes/ors-34.102.md
   - number: '34.105'
-    title: Definitions for ORS
+    title: Definitions for ORS 34.105 to 34.240
     status: ingested
     path: statutes/ors-34.105.md
   - number: '34.110'
@@ -60001,11 +59996,11 @@ chapters:
     status: ingested
     path: statutes/ors-35.410.md
   - number: '35.415'
-    title: Application of ORS
+    title: Application of ORS 35.385 to 35.415
     status: ingested
     path: statutes/ors-35.415.md
   - number: '35.500'
-    title: Definitions for ORS
+    title: Definitions for ORS 35.500 to 35.530
     status: ingested
     path: statutes/ors-35.500.md
   - number: '35.505'
@@ -60033,7 +60028,7 @@ chapters:
     status: ingested
     path: statutes/ors-35.530.md
   - number: '35.550'
-    title: Definitions for ORS
+    title: Definitions for ORS 35.550 to 35.575
     status: ingested
     path: statutes/ors-35.550.md
   - number: '35.555'
@@ -62397,15 +62392,15 @@ chapters:
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors036.html
   sections:
   - number: '36.100'
-    title: Policy for ORS
+    title: Policy for ORS 36.100 to 36.238
     status: ingested
     path: statutes/ors-36.100.md
   - number: '36.105'
-    title: Declaration of purpose of ORS
+    title: Declaration of purpose of ORS 36.100 to 36.238
     status: ingested
     path: statutes/ors-36.105.md
   - number: '36.110'
-    title: Definitions for ORS
+    title: Definitions for ORS 36.100 to 36.238
     status: ingested
     path: statutes/ors-36.110.md
   - number: '36.135'
@@ -62498,7 +62493,7 @@ chapters:
     status: ingested
     path: statutes/ors-36.236.md
   - number: '36.238'
-    title: Application of ORS
+    title: Application of ORS 36.210 and 36.220 to 36.238
     status: ingested
     path: statutes/ors-36.238.md
   - number: '36.252'
@@ -62571,7 +62566,7 @@ chapters:
     status: ingested
     path: statutes/ors-36.425.md
   - number: '36.450'
-    title: Definitions for ORS
+    title: Definitions for ORS 36.450 to 36.558
     status: ingested
     path: statutes/ors-36.450.md
   - number: '36.452'
@@ -62579,11 +62574,12 @@ chapters:
     status: ingested
     path: statutes/ors-36.452.md
   - number: '36.454'
-    title: Application of ORS
+    title: Application of ORS 36.450 to 36.558; when arbitration or conciliation agreement is international;
+      validity of written agreements
     status: ingested
     path: statutes/ors-36.454.md
   - number: '36.456'
-    title: Construction of ORS
+    title: Construction of ORS 36.450 to 36.558
     status: ingested
     path: statutes/ors-36.456.md
   - number: '36.458'
@@ -67800,7 +67796,7 @@ chapters:
     status: ingested
     path: statutes/ors-40.430.md
   - number: '40.450'
-    title: Rule 801. Definitions for ORS
+    title: Rule 801. Definitions for ORS 40.450 to 40.475
     status: ingested
     path: statutes/ors-40.450.md
   - number: '40.455'
@@ -67836,7 +67832,7 @@ chapters:
     status: ingested
     path: statutes/ors-40.515.md
   - number: '40.550'
-    title: Rule 1001. Definitions for ORS
+    title: Rule 1001. Definitions for ORS 40.550 to 40.585
     status: ingested
     path: statutes/ors-40.550.md
   - number: '40.555'
@@ -69821,7 +69817,7 @@ chapters:
     status: ingested
     path: statutes/ors-41.415.md
   - number: '41.500'
-    title: “Secondary evidence” defined for ORS
+    title: “Secondary evidence” defined for ORS 41.500 to 41.580
     status: ingested
     path: statutes/ors-41.500.md
   - number: '41.510'
@@ -69882,7 +69878,7 @@ chapters:
     status: ingested
     path: statutes/ors-41.930.md
   - number: '41.945'
-    title: Application of ORS
+    title: Application of ORS 41.930 and ORCP 55 H
     status: ingested
     path: statutes/ors-41.945.md
 - chapter: '410'
@@ -70504,7 +70500,7 @@ chapters:
     status: ingested
     path: statutes/ors-411.690.md
   - number: '411.692'
-    title: Definition for ORS 93.268 and
+    title: Definition for ORS 93.268 and 411.694
     status: ingested
     path: statutes/ors-411.692.md
   - number: '411.694'
@@ -79681,7 +79677,7 @@ chapters:
     status: ingested
     path: statutes/ors-44.415.md
   - number: '44.510'
-    title: Definitions for ORS
+    title: Definitions for ORS 44.510 to 44.540
     status: ingested
     path: statutes/ors-44.510.md
   - number: '44.520'
@@ -79690,7 +79686,7 @@ chapters:
     status: ingested
     path: statutes/ors-44.520.md
   - number: '44.530'
-    title: Application of ORS
+    title: Application of ORS 44.520
     status: ingested
     path: statutes/ors-44.530.md
   - number: '44.540'
@@ -79706,7 +79702,7 @@ chapters:
     status: ingested
     path: statutes/ors-44.547.md
   - number: '44.550'
-    title: Definitions for ORS
+    title: Definitions for ORS 44.550 to 44.566
     status: ingested
     path: statutes/ors-44.550.md
   - number: '44.552'
@@ -82622,7 +82618,7 @@ chapters:
     status: ingested
     path: statutes/ors-45.130.md
   - number: '45.132'
-    title: Definition for ORS
+    title: Definition for ORS 45.135, 45.138 and 45.142
     status: ingested
     path: statutes/ors-45.132.md
   - number: '45.135'
@@ -82651,7 +82647,7 @@ chapters:
     status: ingested
     path: statutes/ors-45.270.md
   - number: '45.272'
-    title: Definitions for ORS
+    title: Definitions for ORS 45.272 to 45.297
     status: ingested
     path: statutes/ors-45.272.md
   - number: '45.273'
@@ -82695,7 +82691,7 @@ chapters:
     status: ingested
     path: statutes/ors-45.400.md
   - number: '45.900'
-    title: Penalty for violation of ORS
+    title: Penalty for violation of ORS 45.135 or
     status: ingested
     path: statutes/ors-45.900.md
 - chapter: '450'
@@ -107639,7 +107635,7 @@ chapters:
     status: ingested
     path: statutes/ors-55.150.md
   - number: '55.155'
-    title: Definition for ORS
+    title: Definition for ORS 55.160 to 55.335
     status: ingested
     path: statutes/ors-55.155.md
   - number: '55.160'
@@ -109086,7 +109082,7 @@ chapters:
     status: ingested
     path: statutes/ors-56.185.md
   - number: '56.200'
-    title: Definitions for ORS
+    title: Definitions for ORS 56.200 to 56.209
     status: ingested
     path: statutes/ors-56.200.md
   - number: '56.203'
@@ -111783,7 +111779,7 @@ chapters:
     status: ingested
     path: statutes/ors-58.185.md
   - number: '58.187'
-    title: Revision of limitations on liability in ORS
+    title: Revision of limitations on liability in ORS 58.185 to reflect inflation or deflation; rules
     status: ingested
     path: statutes/ors-58.187.md
   - number: '58.196'
@@ -112231,7 +112227,8 @@ chapters:
     status: ingested
     path: statutes/ors-59.135.md
   - number: '59.137'
-    title: Liability in connection with violation of ORS
+    title: Liability in connection with violation of ORS 59.135; damages; defense; attorney fees; limitations
+      on proceeding
     status: ingested
     path: statutes/ors-59.137.md
   - number: '59.145'
@@ -112349,7 +112346,7 @@ chapters:
     status: ingested
     path: statutes/ors-59.451.md
   - number: '59.480'
-    title: Definitions for ORS
+    title: Definitions for ORS 59.480 to 59.505
     status: ingested
     path: statutes/ors-59.480.md
   - number: '59.485'
@@ -112373,7 +112370,7 @@ chapters:
     status: ingested
     path: statutes/ors-59.505.md
   - number: '59.535'
-    title: Definitions for ORS
+    title: Definitions for ORS 59.535 to 59.585
     status: ingested
     path: statutes/ors-59.535.md
   - number: '59.540'
@@ -112417,11 +112414,11 @@ chapters:
     status: ingested
     path: statutes/ors-59.585.md
   - number: '59.710'
-    title: Definitions for ORS
+    title: Definitions for ORS 59.710 to 59.830
     status: ingested
     path: statutes/ors-59.710.md
   - number: '59.720'
-    title: Application of ORS
+    title: Application of ORS 59.710 to 59.830 to real estate contracts and brokers
     status: ingested
     path: statutes/ors-59.720.md
   - number: '59.730'
@@ -112445,7 +112442,8 @@ chapters:
     status: ingested
     path: statutes/ors-59.770.md
   - number: '59.780'
-    title: Broker’s trading against customer’s order; violation of ORS
+    title: Broker’s trading against customer’s order; violation of ORS 59.780 to 59.800 by member of broker’s
+      firm
     status: ingested
     path: statutes/ors-59.780.md
   - number: '59.790'
@@ -112469,11 +112467,11 @@ chapters:
     status: ingested
     path: statutes/ors-59.830.md
   - number: '59.991'
-    title: Criminal penalties for ORS
+    title: Criminal penalties for ORS 59.005 to 59.505, 59.710 to 59.830, 59.991 and 59.995; exceptions
     status: ingested
     path: statutes/ors-59.991.md
   - number: '59.995'
-    title: Civil penalties for ORS
+    title: Civil penalties for ORS 59.005 to 59.505, 59.710 to 59.830 and 59.991; exceptions
     status: ingested
     path: statutes/ors-59.995.md
 - chapter: '596'
@@ -113141,7 +113139,7 @@ chapters:
     status: ingested
     path: statutes/ors-60.265.md
   - number: '60.270'
-    title: Definitions for ORS
+    title: Definitions for ORS 60.270 to 60.291
     status: ingested
     path: statutes/ors-60.270.md
   - number: '60.273'
@@ -113277,7 +113275,7 @@ chapters:
     status: ingested
     path: statutes/ors-60.384.md
   - number: '60.387'
-    title: Definitions for ORS
+    title: Definitions for ORS 60.387 to 60.414
     status: ingested
     path: statutes/ors-60.387.md
   - number: '60.391'
@@ -113309,7 +113307,7 @@ chapters:
     status: ingested
     path: statutes/ors-60.411.md
   - number: '60.414'
-    title: Application of ORS
+    title: Application of ORS 60.387 to 60.411
     status: ingested
     path: statutes/ors-60.414.md
   - number: '60.431'
@@ -113361,7 +113359,7 @@ chapters:
     status: ingested
     path: statutes/ors-60.467.md
   - number: '60.470'
-    title: Definitions for ORS
+    title: Definitions for ORS 60.470 to 60.501
     status: ingested
     path: statutes/ors-60.470.md
   - number: '60.472'
@@ -113417,7 +113415,7 @@ chapters:
     status: ingested
     path: statutes/ors-60.534.md
   - number: '60.551'
-    title: Definitions for ORS
+    title: Definitions for ORS 60.551 to 60.594
     status: ingested
     path: statutes/ors-60.551.md
   - number: '60.554'
@@ -113606,7 +113604,7 @@ chapters:
     status: ingested
     path: statutes/ors-60.747.md
   - number: '60.750'
-    title: Definitions for ORS
+    title: Definitions for ORS 60.750 to 60.770
     status: ingested
     path: statutes/ors-60.750.md
   - number: '60.752'
@@ -113675,11 +113673,11 @@ chapters:
     status: ingested
     path: statutes/ors-60.787.md
   - number: '60.801'
-    title: Definitions for ORS
+    title: Definitions for ORS 60.801 to 60.816
     status: ingested
     path: statutes/ors-60.801.md
   - number: '60.804'
-    title: Applicability of ORS
+    title: Applicability of ORS 60.801 to 60.816
     status: ingested
     path: statutes/ors-60.804.md
   - number: '60.807'
@@ -113699,7 +113697,7 @@ chapters:
     status: ingested
     path: statutes/ors-60.816.md
   - number: '60.825'
-    title: Definitions for ORS
+    title: Definitions for ORS 60.825 to 60.845
     status: ingested
     path: statutes/ors-60.825.md
   - number: '60.830'
@@ -113711,7 +113709,7 @@ chapters:
     status: ingested
     path: statutes/ors-60.835.md
   - number: '60.840'
-    title: Exceptions to ORS
+    title: Exceptions to ORS 60.835
     status: ingested
     path: statutes/ors-60.840.md
   - number: '60.845'
@@ -115614,7 +115612,7 @@ chapters:
     status: ingested
     path: statutes/ors-62.455.md
   - number: '62.462'
-    title: Definitions for ORS
+    title: Definitions for ORS 62.462 to 62.482
     status: ingested
     path: statutes/ors-62.462.md
   - number: '62.464'
@@ -115646,7 +115644,7 @@ chapters:
     status: ingested
     path: statutes/ors-62.478.md
   - number: '62.482'
-    title: Application of ORS
+    title: Application of ORS 62.462 to 62.482
     status: ingested
     path: statutes/ors-62.482.md
   - number: '62.511'
@@ -115678,7 +115676,7 @@ chapters:
     status: ingested
     path: statutes/ors-62.570.md
   - number: '62.605'
-    title: Definitions for ORS
+    title: Definitions for ORS 62.605 to 62.623
     status: ingested
     path: statutes/ors-62.605.md
   - number: '62.607'
@@ -115778,7 +115776,7 @@ chapters:
     status: ingested
     path: statutes/ors-62.760.md
   - number: '62.765'
-    title: Definitions for ORS
+    title: Definitions for ORS 62.765 to 62.792
     status: ingested
     path: statutes/ors-62.765.md
   - number: '62.768'
@@ -115822,7 +115820,7 @@ chapters:
     status: ingested
     path: statutes/ors-62.800.md
   - number: '62.803'
-    title: Definitions for ORS
+    title: Definitions for ORS 62.800 to 62.815
     status: ingested
     path: statutes/ors-62.803.md
   - number: '62.806'
@@ -116934,7 +116932,7 @@ chapters:
     status: ingested
     path: statutes/ors-63.444.md
   - number: '63.467'
-    title: Definitions for ORS
+    title: Definitions for ORS 63.467 to 63.497
     status: ingested
     path: statutes/ors-63.467.md
   - number: '63.470'
@@ -120301,7 +120299,7 @@ chapters:
     status: ingested
     path: statutes/ors-65.254.md
   - number: '65.260'
-    title: Definitions for ORS
+    title: Definitions for ORS 65.260 to 65.281
     status: ingested
     path: statutes/ors-65.260.md
   - number: '65.263'
@@ -120451,7 +120449,7 @@ chapters:
     status: ingested
     path: statutes/ors-65.384.md
   - number: '65.387'
-    title: Definitions for ORS
+    title: Definitions for ORS 65.387 to 65.414
     status: ingested
     path: statutes/ors-65.387.md
   - number: '65.391'
@@ -120483,7 +120481,7 @@ chapters:
     status: ingested
     path: statutes/ors-65.411.md
   - number: '65.414'
-    title: Application of ORS
+    title: Application of ORS 65.387 to 65.411
     status: ingested
     path: statutes/ors-65.414.md
   - number: '65.431'
@@ -120747,7 +120745,7 @@ chapters:
     status: ingested
     path: statutes/ors-65.787.md
   - number: '65.800'
-    title: Definitions for ORS
+    title: Definitions for ORS 65.803 to 65.815
     status: ingested
     path: statutes/ors-65.800.md
   - number: '65.803'
@@ -126453,7 +126451,7 @@ chapters:
     status: ingested
     path: statutes/ors-67.315.md
   - number: '67.340'
-    title: Definitions for ORS
+    title: Definitions for ORS 67.340 to 67.365
     status: ingested
     path: statutes/ors-67.340.md
   - number: '67.342'
@@ -133256,7 +133254,7 @@ chapters:
     status: ingested
     path: statutes/ors-70.040.md
   - number: '70.045'
-    title: Effect of ORS
+    title: Effect of ORS 70.020 to 70.040
     status: ingested
     path: statutes/ors-70.045.md
   - number: '70.050'
@@ -133492,7 +133490,7 @@ chapters:
     status: ingested
     path: statutes/ors-70.440.md
   - number: '70.500'
-    title: Definitions for ORS
+    title: Definitions for ORS 70.500 to 70.540
     status: ingested
     path: statutes/ors-70.500.md
   - number: '70.505'
@@ -137045,11 +137043,11 @@ chapters:
     status: ingested
     path: statutes/ors-72.3280.md
   - number: '72.4005'
-    title: Definitions for ORS
+    title: Definitions for ORS 72.4010 and 72.4030
     status: ingested
     path: statutes/ors-72.4005.md
   - number: '72.4010'
-    title: Passing of title; reservation for security; limited application of ORS
+    title: Passing of title; reservation for security; limited application of ORS 72.4010
     status: ingested
     path: statutes/ors-72.4010.md
   - number: '72.4020'
@@ -137287,7 +137285,7 @@ chapters:
     status: ingested
     path: statutes/ors-72.7250.md
   - number: '72.8010'
-    title: Definitions for ORS
+    title: Definitions for ORS 72.8010 to 72.8200
     status: ingested
     path: statutes/ors-72.8010.md
   - number: '72.8020'
@@ -137356,11 +137354,11 @@ chapters:
     status: ingested
     path: statutes/ors-72.8170.md
   - number: '72.8180'
-    title: Buyer’s waiver of ORS
+    title: Buyer’s waiver of ORS 72.8010 to 72.8200
     status: ingested
     path: statutes/ors-72.8180.md
   - number: '72.8190'
-    title: Status of remedies under ORS
+    title: Status of remedies under ORS 72.8010 to 72.8200; effect of unconstitutionality
     status: ingested
     path: statutes/ors-72.8190.md
   - number: '72.8200'
@@ -145381,18 +145379,12 @@ chapters:
     path: statutes/ors-74a.1020.md
   - number: 74A.1030
     title: Payment order; definitions
-    status: not_sliceable
-    note: 'title is correct (the printed catchline is ''Payment order; definitions''); the slice anchor
-      was a citation in 74A.1040''s definition table and is fixed in repo_lib.snapshot_slice. Held, not
-      ingested: snapshot_slice does not end a section at the next one when the number has a 4-digit tail
-      in a chapter numbered below 100, so the slice carries 5 later sections'' text.'
+    status: ingested
+    path: statutes/ors-74a.1030.md
   - number: 74A.1040
     title: Funds transfer; definitions
-    status: not_sliceable
-    note: 'title is correct (the printed catchline is ''Funds transfer; definitions''); the slice anchor
-      was a citation in a definition table and is fixed in repo_lib.snapshot_slice. Held, not ingested:
-      snapshot_slice does not end a section at the next one when the number has a 4-digit tail in a chapter
-      numbered below 100, so the slice carries 4 later sections'' text.'
+    status: ingested
+    path: statutes/ors-74a.1040.md
   - number: 74A.1050
     title: Other definitions
     status: ingested
@@ -150084,7 +150076,7 @@ chapters:
     status: ingested
     path: statutes/ors-8.360.md
   - number: '8.415'
-    title: Definitions for ORS
+    title: Definitions for ORS 8.415 to 8.455
     status: ingested
     path: statutes/ors-8.415.md
   - number: '8.420'
@@ -150239,9 +150231,7 @@ chapters:
     status: ingested
     path: statutes/ors-80.1060.md
   - number: '80.1070'
-    title: UCC 12.107. Governing law (Temporary provisions relating to transitional matters, applicability
-      and effective dates of amendments to the Uniform Commercial Code are compiled as notes following
-      ORS
+    title: UCC 12.107. Governing law
     status: not_sliceable
     note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
       artifact); not ingested
@@ -152737,7 +152727,7 @@ chapters:
     status: ingested
     path: statutes/ors-81.203.md
   - number: '81.230'
-    title: Definitions for ORS
+    title: Definitions for ORS 81.230 to 81.263
     status: ingested
     path: statutes/ors-81.230.md
   - number: '81.233'
@@ -155262,11 +155252,11 @@ chapters:
     status: ingested
     path: statutes/ors-82.020.md
   - number: '82.025'
-    title: Exemptions from application of ORS
+    title: Exemptions from application of ORS 82.010 (3) and (4) and
     status: ingested
     path: statutes/ors-82.025.md
   - number: '82.150'
-    title: Definitions for ORS
+    title: Definitions for ORS 82.160 and 82.170
     status: ingested
     path: statutes/ors-82.150.md
   - number: '82.160'
@@ -156971,7 +156961,7 @@ chapters:
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors083.html
   sections:
   - number: '83.010'
-    title: Definitions for ORS
+    title: Definitions for ORS 83.010 to 83.190
     status: ingested
     path: statutes/ors-83.010.md
   - number: '83.020'
@@ -157035,15 +157025,15 @@ chapters:
     status: ingested
     path: statutes/ors-83.150.md
   - number: '83.160'
-    title: Waiver of ORS
+    title: Waiver of ORS 83.010 to 83.190
     status: ingested
     path: statutes/ors-83.160.md
   - number: '83.170'
-    title: Effect of violation of ORS
+    title: Effect of violation of ORS 83.010 to 83.190 by seller
     status: ingested
     path: statutes/ors-83.170.md
   - number: '83.180'
-    title: Enforcement of ORS
+    title: Enforcement of ORS 83.010 to 83.190
     status: ingested
     path: statutes/ors-83.180.md
   - number: '83.190'
@@ -157051,7 +157041,7 @@ chapters:
     status: ingested
     path: statutes/ors-83.190.md
   - number: '83.510'
-    title: Definitions for ORS
+    title: Definitions for ORS 83.510 to 83.680
     status: ingested
     path: statutes/ors-83.510.md
   - number: '83.520'
@@ -157115,11 +157105,11 @@ chapters:
     status: ingested
     path: statutes/ors-83.670.md
   - number: '83.680'
-    title: Waiver of provisions of ORS
+    title: Waiver of provisions of ORS 83.510 to 83.680
     status: ingested
     path: statutes/ors-83.680.md
   - number: '83.710'
-    title: Definitions for ORS
+    title: Definitions for ORS 83.710 to 83.750; application of ORS 83.710 to 83.750
     status: ingested
     path: statutes/ors-83.710.md
   - number: '83.715'
@@ -157155,7 +157145,7 @@ chapters:
     status: ingested
     path: statutes/ors-83.820.md
   - number: '83.850'
-    title: Definitions for ORS
+    title: Definitions for ORS 83.850 and 83.860
     status: ingested
     path: statutes/ors-83.850.md
   - number: '83.860'
@@ -157164,7 +157154,7 @@ chapters:
     status: ingested
     path: statutes/ors-83.860.md
   - number: '83.875'
-    title: Definitions for ORS
+    title: Definitions for ORS 83.875, 83.880, 83.890 and 83.895
     status: ingested
     path: statutes/ors-83.875.md
   - number: '83.880'
@@ -158490,7 +158480,7 @@ chapters:
     status: ingested
     path: statutes/ors-84.001.md
   - number: '84.004'
-    title: Definitions for ORS
+    title: Definitions for ORS 84.001 to 84.061
     status: ingested
     path: statutes/ors-84.004.md
   - number: '84.007'
@@ -158664,7 +158654,7 @@ chapters:
     status: ingested
     path: statutes/ors-86.157.md
   - number: '86.160'
-    title: Definitions for ORS
+    title: Definitions for ORS 86.160 to 86.185
     status: ingested
     path: statutes/ors-86.160.md
   - number: '86.165'
@@ -158680,15 +158670,15 @@ chapters:
     status: ingested
     path: statutes/ors-86.175.md
   - number: '86.180'
-    title: ORS
+    title: ORS 86.160 to 86.185 not applicable to certain mortgagees; notice to borrowers
     status: ingested
     path: statutes/ors-86.180.md
   - number: '86.185'
-    title: ORS
+    title: ORS 86.160 to 86.185 not applicable to certain loans
     status: ingested
     path: statutes/ors-86.185.md
   - number: '86.205'
-    title: Definitions for ORS
+    title: Definitions for ORS 86.205 to 86.275
     status: ingested
     path: statutes/ors-86.205.md
   - number: '86.210'
@@ -158696,7 +158686,7 @@ chapters:
     status: ingested
     path: statutes/ors-86.210.md
   - number: '86.214'
-    title: Application of ORS
+    title: Application of ORS 86.210 and 86.245 to real estate loan agreements
     status: ingested
     path: statutes/ors-86.214.md
   - number: '86.240'
@@ -158722,11 +158712,11 @@ chapters:
     status: ingested
     path: statutes/ors-86.260.md
   - number: '86.265'
-    title: Effect of lender violation of ORS
+    title: Effect of lender violation of ORS 86.205 to 86.275
     status: ingested
     path: statutes/ors-86.265.md
   - number: '86.270'
-    title: ORS
+    title: ORS 86.205 to 86.275 inapplicable to certain loan agreements; notice to borrower
     status: ingested
     path: statutes/ors-86.270.md
   - number: '86.275'
@@ -158762,7 +158752,8 @@ chapters:
     status: ingested
     path: statutes/ors-86.620.md
   - number: '86.630'
-    title: Eligibility of securities described in ORS
+    title: Eligibility of securities described in ORS 86.620 as security for deposits, investment or reserve
+      of securities
     status: ingested
     path: statutes/ors-86.630.md
   - number: '86.640'
@@ -158770,11 +158761,11 @@ chapters:
     status: ingested
     path: statutes/ors-86.640.md
   - number: '86.705'
-    title: Definitions for ORS
+    title: Definitions for ORS 86.705 to 86.815
     status: ingested
     path: statutes/ors-86.705.md
   - number: '86.707'
-    title: Additional definitions for ORS
+    title: Additional definitions for ORS 86.726, 86.729, 86.732, 86.736, 86.741, 86.744 and 86.748
     status: ingested
     path: statutes/ors-86.707.md
   - number: '86.710'
@@ -159179,11 +159170,11 @@ chapters:
     status: ingested
     path: statutes/ors-86a.339.md
   - number: 86A.990
-    title: Criminal penalties for violations of ORS
+    title: Criminal penalties for violations of ORS 86A.095 to 86A.198
     status: ingested
     path: statutes/ors-86a.990.md
   - number: 86A.992
-    title: Civil penalties for violations of ORS
+    title: Civil penalties for violations of ORS 86A.095 to 86A.198
     status: ingested
     path: statutes/ors-86a.992.md
 - chapter: '87'
@@ -159195,7 +159186,7 @@ chapters:
     status: ingested
     path: statutes/ors-87.001.md
   - number: '87.005'
-    title: Definitions for ORS
+    title: Definitions for ORS 87.001 to 87.060 and 87.075 to 87.093
     status: ingested
     path: statutes/ors-87.005.md
   - number: '87.007'
@@ -159318,7 +159309,7 @@ chapters:
     status: ingested
     path: statutes/ors-87.093.md
   - number: '87.142'
-    title: Definitions for ORS
+    title: Definitions for ORS 87.142 to 87.490 and 87.910
     status: ingested
     path: statutes/ors-87.142.md
   - number: '87.146'
@@ -159617,7 +159608,7 @@ chapters:
     status: ingested
     path: statutes/ors-87.490.md
   - number: '87.501'
-    title: Definitions for ORS
+    title: Definitions for ORS 87.501 to 87.542
     status: ingested
     path: statutes/ors-87.501.md
   - number: '87.503'
@@ -159691,7 +159682,7 @@ chapters:
     status: ingested
     path: statutes/ors-87.585.md
   - number: '87.603'
-    title: Definitions for ORS
+    title: Definitions for ORS 87.603 to 87.633
     status: ingested
     path: statutes/ors-87.603.md
   - number: '87.607'
@@ -159719,7 +159710,7 @@ chapters:
     status: ingested
     path: statutes/ors-87.633.md
   - number: '87.685'
-    title: Definitions for ORS
+    title: Definitions for ORS 87.685 to 87.695
     status: ingested
     path: statutes/ors-87.685.md
   - number: '87.686'
@@ -159740,7 +159731,7 @@ chapters:
     status: ingested
     path: statutes/ors-87.691.md
   - number: '87.693'
-    title: ORS
+    title: ORS 87.687 as exclusive law for creating lien; exception
     status: ingested
     path: statutes/ors-87.693.md
   - number: '87.694'
@@ -159752,7 +159743,7 @@ chapters:
     status: ingested
     path: statutes/ors-87.695.md
   - number: '87.700'
-    title: Definitions for ORS
+    title: Definitions for ORS 87.228 and 87.700 to 87.736
     status: ingested
     path: statutes/ors-87.700.md
   - number: '87.705'
@@ -159782,11 +159773,12 @@ chapters:
     status: ingested
     path: statutes/ors-87.735.md
   - number: '87.736'
-    title: Form of notices filed under ORS
+    title: Form of notices filed under ORS 87.710 and certificates filed under ORS 87.735; fees for filing
+      and for furnishing copies
     status: ingested
     path: statutes/ors-87.736.md
   - number: '87.750'
-    title: Definitions for ORS
+    title: Definitions for ORS 87.750 to 87.777
     status: ingested
     path: statutes/ors-87.750.md
   - number: '87.755'
@@ -159849,7 +159841,7 @@ chapters:
     status: ingested
     path: statutes/ors-87.865.md
   - number: '87.870'
-    title: Definitions for ORS
+    title: Definitions for ORS 87.870 to 87.876
     status: ingested
     path: statutes/ors-87.870.md
   - number: '87.872'
@@ -159923,7 +159915,7 @@ chapters:
     status: ingested
     path: statutes/ors-88.110.md
   - number: '88.120'
-    title: When foreclosure not barred by ORS
+    title: When foreclosure not barred by ORS 88.110
     status: ingested
     path: statutes/ors-88.120.md
   - number: '88.710'
@@ -159943,7 +159935,7 @@ chapters:
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors009.html
   sections:
   - number: '9.005'
-    title: Definitions for ORS
+    title: Definitions for ORS 9.005 to 9.757
     status: ingested
     path: statutes/ors-9.005.md
   - number: '9.006'
@@ -160051,11 +160043,11 @@ chapters:
     status: ingested
     path: statutes/ors-9.160.md
   - number: '9.162'
-    title: Definitions for ORS
+    title: Definitions for ORS 9.160 to 9.166
     status: ingested
     path: statutes/ors-9.162.md
   - number: '9.164'
-    title: Investigation of alleged violation of ORS
+    title: Investigation of alleged violation of ORS 9.160
     status: ingested
     path: statutes/ors-9.164.md
   - number: '9.166'
@@ -160234,7 +160226,7 @@ chapters:
     status: ingested
     path: statutes/ors-9.582.md
   - number: '9.615'
-    title: Definition for ORS
+    title: Definition for ORS 9.615 to 9.665
     status: ingested
     path: statutes/ors-9.615.md
   - number: '9.625'
@@ -160279,7 +160271,7 @@ chapters:
     status: ingested
     path: statutes/ors-9.695.md
   - number: '9.705'
-    title: Definitions for ORS
+    title: Definitions for ORS 9.705 to 9.757
     status: ingested
     path: statutes/ors-9.705.md
   - number: '9.710'
@@ -160405,7 +160397,8 @@ chapters:
     status: ingested
     path: statutes/ors-90.115.md
   - number: '90.120'
-    title: Applicability of other statutory lien, tenancy and rent provisions; applicability of ORS
+    title: Applicability of other statutory lien, tenancy and rent provisions; applicability of ORS 90.100
+      to 90.465 and 90.505 to 90.850
     status: ingested
     path: statutes/ors-90.120.md
   - number: '90.125'
@@ -160712,7 +160705,7 @@ chapters:
     status: ingested
     path: statutes/ors-90.427.md
   - number: '90.429'
-    title: Termination of tenancy for certain rented spaces not covered by ORS
+    title: Termination of tenancy for certain rented spaces not covered by ORS 90.505 to 90.850
     status: ingested
     path: statutes/ors-90.429.md
   - number: '90.430'
@@ -160782,7 +160775,7 @@ chapters:
     status: ingested
     path: statutes/ors-90.493.md
   - number: '90.505'
-    title: Definitions for ORS
+    title: Definitions for ORS 90.505 to 90.850; application of statutes
     status: ingested
     path: statutes/ors-90.505.md
   - number: '90.510'
@@ -160790,7 +160783,7 @@ chapters:
     status: ingested
     path: statutes/ors-90.510.md
   - number: '90.512'
-    title: Definitions for ORS
+    title: Definitions for ORS 90.514 and 90.518
     status: ingested
     path: statutes/ors-90.512.md
   - number: '90.514'
@@ -160836,7 +160829,7 @@ chapters:
     status: ingested
     path: statutes/ors-90.555.md
   - number: '90.560'
-    title: Definitions for ORS
+    title: Definitions for ORS 90.560 to 90.584
     status: ingested
     path: statutes/ors-90.560.md
   - number: '90.562'
@@ -160961,7 +160954,7 @@ chapters:
     status: ingested
     path: statutes/ors-90.710.md
   - number: '90.720'
-    title: Action to enjoin violation of ORS
+    title: Action to enjoin violation of ORS 90.750 or
     status: ingested
     path: statutes/ors-90.720.md
   - number: '90.725'
@@ -161062,7 +161055,7 @@ chapters:
     status: ingested
     path: statutes/ors-90.850.md
   - number: '90.860'
-    title: Definitions for ORS
+    title: Definitions for ORS 90.865 to 90.875
     status: ingested
     path: statutes/ors-90.860.md
   - number: '90.865'
@@ -161183,11 +161176,11 @@ chapters:
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors092.html
   sections:
   - number: '92.010'
-    title: Definitions for ORS
+    title: Definitions for ORS 92.010 to 92.192
     status: ingested
     path: statutes/ors-92.010.md
   - number: '92.012'
-    title: Compliance with ORS
+    title: Compliance with ORS 92.010 to 92.192 required
     status: ingested
     path: statutes/ors-92.012.md
   - number: '92.014'
@@ -161236,7 +161229,7 @@ chapters:
     status: ingested
     path: statutes/ors-92.046.md
   - number: '92.048'
-    title: Procedure for adoption of regulations under ORS
+    title: Procedure for adoption of regulations under ORS 92.044 and 92.046
     status: ingested
     path: statutes/ors-92.048.md
   - number: '92.050'
@@ -161385,7 +161378,7 @@ chapters:
     status: ingested
     path: statutes/ors-92.285.md
   - number: '92.305'
-    title: Definitions for ORS
+    title: Definitions for ORS 92.305 to 92.495
     status: ingested
     path: statutes/ors-92.305.md
   - number: '92.313'
@@ -161397,7 +161390,7 @@ chapters:
     status: ingested
     path: statutes/ors-92.317.md
   - number: '92.325'
-    title: Application of ORS
+    title: Application of ORS 92.305 to 92.495
     status: ingested
     path: statutes/ors-92.325.md
   - number: '92.337'
@@ -161438,7 +161431,7 @@ chapters:
     path: statutes/ors-92.405.md
   - number: '92.410'
     title: Review of subdivisions for which public report issued; revised public report; compliance with
-      ORS
+      ORS 92.305 to 92.495
     status: ingested
     path: statutes/ors-92.410.md
   - number: '92.415'
@@ -161491,7 +161484,7 @@ chapters:
     status: ingested
     path: statutes/ors-92.495.md
   - number: '92.830'
-    title: Definitions for ORS
+    title: Definitions for ORS 92.830 to 92.845
     status: ingested
     path: statutes/ors-92.830.md
   - number: '92.832'
@@ -161518,7 +161511,7 @@ chapters:
     status: ingested
     path: statutes/ors-92.840.md
   - number: '92.843'
-    title: Approval of declaration or amendment to declaration made pursuant to ORS
+    title: Approval of declaration or amendment to declaration made pursuant to ORS 92.845
     status: ingested
     path: statutes/ors-92.843.md
   - number: '92.845'
@@ -161674,7 +161667,7 @@ chapters:
     status: ingested
     path: statutes/ors-93.290.md
   - number: '93.295'
-    title: Construction of ORS
+    title: Construction of ORS 93.290 to 93.300
     status: ingested
     path: statutes/ors-93.295.md
   - number: '93.300'
@@ -161801,7 +161794,7 @@ chapters:
     status: ingested
     path: statutes/ors-93.770.md
   - number: '93.779'
-    title: Definitions for ORS
+    title: Definitions for ORS 93.779 to 93.802
     status: ingested
     path: statutes/ors-93.779.md
   - number: '93.780'
@@ -161858,7 +161851,7 @@ chapters:
     status: ingested
     path: statutes/ors-93.870.md
   - number: '93.905'
-    title: Definitions for ORS
+    title: Definitions for ORS 93.905 to 93.940
     status: ingested
     path: statutes/ors-93.905.md
   - number: '93.910'
@@ -161898,7 +161891,7 @@ chapters:
     status: ingested
     path: statutes/ors-93.940.md
   - number: '93.945'
-    title: Application of ORS
+    title: Application of ORS 93.910 to 93.940
     status: ingested
     path: statutes/ors-93.945.md
   - number: '93.948'
@@ -162026,7 +162019,7 @@ chapters:
     status: ingested
     path: statutes/ors-94.534.md
   - number: '94.536'
-    title: Definitions for ORS
+    title: Definitions for ORS 94.536 and 94.538
     status: ingested
     path: statutes/ors-94.536.md
   - number: '94.538'
@@ -162034,7 +162027,7 @@ chapters:
     status: ingested
     path: statutes/ors-94.538.md
   - number: '94.550'
-    title: Definitions for ORS
+    title: Definitions for ORS 94.550 to 94.783
     status: ingested
     path: statutes/ors-94.550.md
   - number: '94.560'
@@ -162042,15 +162035,17 @@ chapters:
     status: ingested
     path: statutes/ors-94.560.md
   - number: '94.565'
-    title: Planned community to be created under ORS
+    title: Planned community to be created under ORS 94.550 to 94.783; exception; conveyance of lot or
+      unit prohibited until declaration recorded
     status: ingested
     path: statutes/ors-94.565.md
   - number: '94.570'
-    title: Applicability of ORS
+    title: Applicability of ORS 94.550 to 94.783
     status: ingested
     path: statutes/ors-94.570.md
   - number: '94.572'
-    title: Applicability of certain provisions of ORS
+    title: Applicability of certain provisions of ORS 94.550 to 94.783 to Class I or Class II planned
+      communities
     status: ingested
     path: statutes/ors-94.572.md
   - number: '94.573'
@@ -162066,7 +162061,7 @@ chapters:
     status: ingested
     path: statutes/ors-94.575.md
   - number: '94.576'
-    title: Class I or Class II planned community option to be subject to provisions of ORS
+    title: Class I or Class II planned community option to be subject to provisions of ORS 94.550 to 94.783
     status: ingested
     path: statutes/ors-94.576.md
   - number: '94.577'
@@ -162207,11 +162202,11 @@ chapters:
     status: ingested
     path: statutes/ors-94.670.md
   - number: '94.671'
-    title: Application of ORS
+    title: Application of ORS 94.670 (5)
     status: ingested
     path: statutes/ors-94.671.md
   - number: '94.673'
-    title: When compliance with specified provisions of ORS
+    title: When compliance with specified provisions of ORS 94.640 and 94.670 required
     status: ingested
     path: statutes/ors-94.673.md
   - number: '94.675'
@@ -162223,7 +162218,7 @@ chapters:
     status: ingested
     path: statutes/ors-94.676.md
   - number: '94.677'
-    title: Election to have ORS
+    title: Election to have ORS 94.645, 94.655 and 94.675 apply
     status: ingested
     path: statutes/ors-94.677.md
   - number: '94.680'
@@ -162235,7 +162230,7 @@ chapters:
     status: ingested
     path: statutes/ors-94.685.md
   - number: '94.690'
-    title: Terms of insurance under ORS
+    title: Terms of insurance under ORS 94.680
     status: ingested
     path: statutes/ors-94.690.md
   - number: '94.695'
@@ -162341,7 +162336,7 @@ chapters:
     note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
       artifact); not ingested
   - number: '94.803'
-    title: Definitions for ORS
+    title: Definitions for ORS 94.803 and 94.807 to 94.945
     status: ingested
     path: statutes/ors-94.803.md
   - number: '94.806'
@@ -162517,7 +162512,7 @@ chapters:
     status: ingested
     path: statutes/ors-94.945.md
   - number: '94.953'
-    title: Definitions for ORS
+    title: Definitions for ORS 94.953 to 94.989
     status: ingested
     path: statutes/ors-94.953.md
   - number: '94.956'
@@ -162585,7 +162580,7 @@ chapters:
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors095.html
   sections:
   - number: '95.200'
-    title: Definitions for ORS
+    title: Definitions for ORS 95.200 to 95.310
     status: ingested
     path: statutes/ors-95.200.md
   - number: '95.210'
@@ -162705,7 +162700,8 @@ chapters:
     status: ingested
     path: statutes/ors-97.110.md
   - number: '97.120'
-    title: Human remains to be deposited in accordance with ORS
+    title: Human remains to be deposited in accordance with ORS 97.010 to 97.040, 97.110 to 97.450, 97.510
+      to 97.730, 97.810 to 97.920 and 97.990
     status: ingested
     path: statutes/ors-97.120.md
   - number: '97.130'
@@ -162753,7 +162749,7 @@ chapters:
     status: ingested
     path: statutes/ors-97.207.md
   - number: '97.210'
-    title: Exceptions to application of ORS
+    title: Exceptions to application of ORS 97.170 to 97.200; rules
     status: ingested
     path: statutes/ors-97.210.md
   - number: '97.220'
@@ -162962,7 +162958,7 @@ chapters:
     status: ingested
     path: statutes/ors-97.730.md
   - number: '97.740'
-    title: Definitions for ORS
+    title: Definitions for ORS 97.740 to 97.760
     status: ingested
     path: statutes/ors-97.740.md
   - number: '97.745'
@@ -163057,7 +163053,7 @@ chapters:
     status: ingested
     path: statutes/ors-97.852.md
   - number: '97.865'
-    title: Application of ORS
+    title: Application of ORS 97.810 to 97.865 to religious, county and city cemeteries
     status: ingested
     path: statutes/ors-97.865.md
   - number: '97.870'
@@ -163085,7 +163081,7 @@ chapters:
     status: ingested
     path: statutes/ors-97.920.md
   - number: '97.923'
-    title: Definitions for ORS
+    title: Definitions for ORS 97.923 to 97.949
     status: ingested
     path: statutes/ors-97.923.md
   - number: '97.925'
@@ -163097,7 +163093,7 @@ chapters:
     status: ingested
     path: statutes/ors-97.926.md
   - number: '97.927'
-    title: Applicability of ORS
+    title: Applicability of ORS 97.923 to 97.949
     status: ingested
     path: statutes/ors-97.927.md
   - number: '97.928'
@@ -163105,7 +163101,7 @@ chapters:
     status: ingested
     path: statutes/ors-97.928.md
   - number: '97.929'
-    title: Exceptions to ORS
+    title: Exceptions to ORS 97.923 to 97.949
     status: ingested
     path: statutes/ors-97.929.md
   - number: '97.931'
@@ -163163,12 +163159,13 @@ chapters:
     status: ingested
     path: statutes/ors-97.947.md
   - number: '97.948'
-    title: Grounds for discipline by director for violation of ORS
+    title: Grounds for discipline by director for violation of ORS 97.923 to 97.949; suspension and revocation
+      of certificate or registration; civil penalties; notification of board
     status: ingested
     path: statutes/ors-97.948.md
   - number: '97.949'
     title: Notification by director to appropriate federal, state or local law enforcement officer of
-      violation of ORS
+      violation of ORS 97.923 to 97.949
     status: ingested
     path: statutes/ors-97.949.md
   - number: '97.951'
@@ -163176,7 +163173,7 @@ chapters:
     status: ingested
     path: statutes/ors-97.951.md
   - number: '97.953'
-    title: Definitions for ORS
+    title: Definitions for ORS 97.951 to 97.982
     status: ingested
     path: statutes/ors-97.953.md
   - number: '97.955'
@@ -163229,7 +163226,7 @@ chapters:
     status: ingested
     path: statutes/ors-97.973.md
   - number: '97.974'
-    title: Immunity of persons acting in accordance with ORS
+    title: Immunity of persons acting in accordance with ORS 97.951 to 97.982
     status: ingested
     path: statutes/ors-97.974.md
   - number: '97.976'
@@ -163281,11 +163278,11 @@ chapters:
     status: ingested
     path: statutes/ors-97.990.md
   - number: '97.992'
-    title: Penalties for ORS
+    title: Penalties for ORS 97.937
     status: ingested
     path: statutes/ors-97.992.md
   - number: '97.994'
-    title: Penalties for ORS
+    title: Penalties for ORS 97.931, 97.933, 97.941 and 97.943
     status: ingested
     path: statutes/ors-97.994.md
 - chapter: '98'
@@ -163546,7 +163543,7 @@ chapters:
     status: ingested
     path: statutes/ors-98.450.md
   - number: '98.470'
-    title: Definitions for ORS
+    title: Definitions for ORS 98.470 to 98.490
     status: ingested
     path: statutes/ors-98.470.md
   - number: '98.475'
@@ -163583,7 +163580,7 @@ chapters:
     status: ingested
     path: statutes/ors-98.642.md
   - number: '98.644'
-    title: ORS
+    title: ORS 98.640 and 98.642 inapplicable to certain trees, logs, poles or piling
     status: ingested
     path: statutes/ors-98.644.md
   - number: '98.650'
@@ -163595,11 +163592,12 @@ chapters:
     status: ingested
     path: statutes/ors-98.652.md
   - number: '98.654'
-    title: ORS
+    title: ORS 98.650 and 98.652 inapplicable to certain trees, logs, poles or piling and to certain county
+      roads
     status: ingested
     path: statutes/ors-98.654.md
   - number: '98.805'
-    title: Definitions for ORS
+    title: Definitions for ORS 98.810 to 98.818, 98.830 and 98.840
     status: ingested
     path: statutes/ors-98.805.md
   - number: '98.810'
@@ -163627,7 +163625,7 @@ chapters:
     status: ingested
     path: statutes/ors-98.830.md
   - number: '98.840'
-    title: Towing vehicle alternative to procedure in ORS
+    title: Towing vehicle alternative to procedure in ORS 98.810 to 98.818
     status: ingested
     path: statutes/ors-98.840.md
   - number: '98.850'
@@ -163635,7 +163633,7 @@ chapters:
     status: ingested
     path: statutes/ors-98.850.md
   - number: '98.852'
-    title: Definitions for ORS
+    title: Definitions for ORS 98.853 to 98.862
     status: ingested
     path: statutes/ors-98.852.md
   - number: '98.853'
@@ -163673,7 +163671,7 @@ chapters:
     status: ingested
     path: statutes/ors-98.861.md
   - number: '98.862'
-    title: Exceptions to requirements of ORS
+    title: Exceptions to requirements of ORS 98.856
     status: ingested
     path: statutes/ors-98.862.md
   - number: '98.991'
@@ -163681,7 +163679,7 @@ chapters:
     status: ingested
     path: statutes/ors-98.991.md
   - number: '98.992'
-    title: Penalty for failure to report, pay or deliver property under ORS
+    title: Penalty for failure to report, pay or deliver property under ORS 98.302 to 98.436
     status: ingested
     path: statutes/ors-98.992.md
 - chapter: '99'

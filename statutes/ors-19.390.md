@@ -48,7 +48,7 @@ ORS 19.390 — Bill of exceptions not required. Chapter 19 (Appeals), 2025 Editi
 
 ## Full text
 
-19.390 Bill of exceptions not required. A bill of exceptions is not required. For the purposes of section 3, Article VII (Amended) of the Oregon Constitution, the transcript, as defined in ORS 19.005, is the bill of exceptions. [Formerly 19.114] 19.395 Time extensions for preparation of record. Extensions of time for the performance of any act in connection with the preparation of the record may be granted only by the court to which the appeal is made and under such rules as that court may prescribe. [Formerly 19.095]
+19.390 Bill of exceptions not required. A bill of exceptions is not required. For the purposes of section 3, Article VII (Amended) of the Oregon Constitution, the transcript, as defined in ORS 19.005, is the bill of exceptions. [Formerly 19.114] 
 
 ## Provenance & change history
 

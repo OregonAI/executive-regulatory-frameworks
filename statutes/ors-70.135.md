@@ -60,15 +60,7 @@ ORS 70.135 — Liability of limited partner. Chapter 70 (Limited Partnerships), 
 
 (2) of this section does not mean that the possession or exercise of any other powers by a limited partner constitutes participation by the limited partner in the control of the business of the limited partnership.
 
-(4) A limited partner who knowingly permits the limited partner’s name to be used in the name of the limited partnership, except under circumstances permitted by ORS 70.010 (2), is liable to creditors who extend credit to the limited partnership without actual knowledge that the limited partner is not a general partner. [1985 c.677 §20; 1987 c.543 §15] 70.140 Liability of person who erroneously believes person is limited partner. A person who makes a contribution to a business enterprise and erroneously but in good faith believes that the person has become a limited partner in the enterprise is not a general partner in the enterprise and is not bound by its obligations by reason of making the contribution, receiving distributions from the enterprise or exercising any rights of a limited partner if, on ascertaining the mistake, the person promptly takes either of the following actions:
-
-(1) Causes an appropriate certificate of limited partnership or a certificate of amendment to be executed and filed.
-
-(2) Withdraws from future equity participation in the enterprise by executing and submitting for filing with the Office of Secretary of State a certificate declaring withdrawal under this section. [1985 c.677 §21; 1987 c.543 §16] 70.145 Powers of limited partner. Each limited partner may:
-
-(1) Inspect and copy any of the partnership records required to be maintained by ORS 70.050.
-
-(2) Obtain from the general partners from time to time upon reasonable demand: (a) True and full information regarding the state of the business and financial condition of the limited partnership; (b) A copy of the limited partnership’s federal, state and local income tax returns for each year promptly after they become available; and (c) Other information regarding the affairs of the limited partnership as is just and reasonable. [1985 c.677 §22]
+(4) A limited partner who knowingly permits the limited partner’s name to be used in the name of the limited partnership, except under circumstances permitted by ORS 70.010 (2), is liable to creditors who extend credit to the limited partnership without actual knowledge that the limited partner is not a general partner. [1985 c.677 §20; 1987 c.543 §15] 
 
 ## Provenance & change history
 

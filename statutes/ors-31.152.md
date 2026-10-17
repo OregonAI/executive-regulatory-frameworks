@@ -60,13 +60,7 @@ ORS 31.152 — Time for filing special motion to strike; discovery; attorney fee
 
 (5) A moving party may appeal as a matter of right from an order denying, in whole or in part, a special motion to strike under ORS 31.150. The appeal must be filed in accordance with ORS 19.205.
 
-(6) The purpose of the procedure established by this section and ORS 31.150 and 31.155 is to provide a defendant with the right to not proceed to trial in cases in which the plaintiff does not meet the burden specified in ORS 31.150 (4). This section and ORS 31.150 and 31.155 are to be liberally construed in favor of the exercise of the rights described in ORS 31.150 (2). [Formerly 30.144; 2009 c.449 §3; 2023 c.71 §2] 31.155 Exempt actions; substantive law not affected.
-
-(1) ORS 31.150 and 31.152 do not apply to an action brought by the Attorney General, a district attorney, a county counsel or a city attorney acting in an official capacity.
-
-(2) ORS 31.150 and 31.152 create a procedure for seeking dismissal of claims described in ORS 31.150
-
-(2) and do not affect the substantive law governing those claims. [Formerly 30.146]
+(6) The purpose of the procedure established by this section and ORS 31.150 and 31.155 is to provide a defendant with the right to not proceed to trial in cases in which the plaintiff does not meet the burden specified in ORS 31.150 (4). This section and ORS 31.150 and 31.155 are to be liberally construed in favor of the exercise of the rights described in ORS 31.150 (2). [Formerly 30.144; 2009 c.449 §3; 2023 c.71 §2] 
 
 ## Provenance & change history
 

@@ -66,19 +66,7 @@ ORS 25.646 — Disclosure of financial records of customers by financial institu
 
 (6) The administrator shall provide a reasonable time to the financial institution for responding to a request for financial records.
 
-(7) The administrator shall seek financial records under this section only: (a) With respect to a person who is a party to a proceeding to establish, modify or enforce the child support obligation of the person; or (b) According to the provisions of ORS 25.083. [1997 c.746 §122; 1999 c.930 §4; 2001 c.455 §13; 2009 c.80 §4; 2017 c.486 §3] Note: See note under 25.640. CONSUMER REPORTING AGENCIES 25.650 Information on past due support to consumer reporting agencies; rules.
-
-(1) As used in this section, “consumer reporting agency” means any person that, for monetary fees or dues or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating consumer credit information or other information on consumers for the purpose of furnishing consumer reports to third parties, and that uses any means or facility of interstate commerce for the purpose of preparing or furnishing consumer reports. (2)(a) Notwithstanding any other law, and subject to rules established by the Department of Justice, for cases in which there is past due support, the department shall: (A) Report periodically to consumer reporting agencies the name of any obligor who is delinquent in the payment of support and the amount owed by the obligor; and (B) Otherwise make available to a consumer reporting agency upon its request information regarding the amount of past due support owed by an obligor. (b) The department shall provide advance notice to the obligor concerning the proposed reporting of information to the consumer reporting agencies. The notice must inform the obligor: (A) Of the amount of the past due support the department will report to the consumer reporting agencies; (B) That the department will continue to report the past due support amount owed without sending additional notice to the obligor; (C) Of the obligor’s right to request an administrative review within 30 days after the date of the notice; and (D) Of the issues that may be considered on review. (c) If an obligor requests an administrative review, the department may not report the past due support amount until the review is complete. (d) A party may appeal a decision from the administrative review under ORS 183.484. An appeal of the decision does not stay the department from making reports to consumer reporting agencies.
-
-(3) The administrator may request that a consumer reporting agency provide a consumer report when needed for one or more of the following purposes: (a) To establish or modify a support order. (b) When parentage has been established with respect to an individual, to establish the individual’s capacity to make child support payments or the appropriate amount of child support that may be ordered. (c) To enforce a support order.
-
-(4) The department shall report information under subsection
-
-(2) of this section only to a person that has furnished evidence satisfactory to the department that the person is a consumer reporting agency.
-
-(5) When the department has made a report to a consumer reporting agency under subsection
-
-(2) of this section, the department shall promptly notify the consumer reporting agency when the department’s records show that the obligor no longer owes past due support. [1985 c.671 §§45,46; 1993 c.596 §14; 1997 c.704 §35; 1999 c.80 §66; 2003 c.73 §38; 2005 c.560 §6; 2017 c.460 §1; 2017 c.461 §3]
+(7) The administrator shall seek financial records under this section only: (a) With respect to a person who is a party to a proceeding to establish, modify or enforce the child support obligation of the person; or (b) According to the provisions of ORS 25.083. [1997 c.746 §122; 1999 c.930 §4; 2001 c.455 §13; 2009 c.80 §4; 2017 c.486 §3] Note: See note under 25.640. CONSUMER REPORTING AGENCIES 
 
 ## Provenance & change history
 

@@ -62,15 +62,7 @@ ORS 31.810 — Enforcement of right of contribution; commencement of separate ac
 
 (6) The recovery of a judgment for an injury or wrongful death against one tortfeasor does not of itself discharge the other tortfeasors from liability for the injury or wrongful death unless the judgment is satisfied. The satisfaction of the judgment does not impair any right of contribution.
 
-(7) The judgment of the court in determining the liability of the several defendants to the claimant for an injury or wrongful death shall be binding as among such defendants in determining their right to contribution. [Formerly 18.450] 31.815 Covenant not to sue; effect; notice.
-
-(1) When a covenant not to sue or not to enforce judgment is given in good faith to one of two or more persons liable in tort for the same injury to person or property or the same wrongful death or claimed to be liable in tort for the same injury or the same wrongful death: (a) It does not discharge any of the other tortfeasors from liability for the injury or wrongful death unless its terms so provide; but the claimant’s claim against all other persons specified in ORS 31.600
-
-(2) for the injury or wrongful death is reduced by the share of the obligation of the tortfeasor who is given the covenant, as determined under ORS 31.605 and 31.610; and (b) It discharges the tortfeasor to whom it is given from all liability for contribution to any other tortfeasor.
-
-(2) When a covenant described in subsection
-
-(1) of this section is given, the claimant shall give notice of all of the terms of the covenant to all persons against whom the claimant makes claims. [Formerly 18.455] 31.820 Severability. If any provision of ORS 31.800 to 31.820 or the application thereof to any person is held invalid, the invalidity shall not affect other provisions or applications of ORS 31.800 to 31.820 which can be given effect without the invalid provision or application and to this end the provisions of ORS 31.800 to 31.820 are severable. [Formerly 18.460]
+(7) The judgment of the court in determining the liability of the several defendants to the claimant for an injury or wrongful death shall be binding as among such defendants in determining their right to contribution. [Formerly 18.450] 
 
 ## Provenance & change history
 

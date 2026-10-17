@@ -46,7 +46,7 @@ ORS 24.395 — Saving clause. Chapter 24 (Enforcement and Recognition of Foreign
 
 ## Full text
 
-24.395 Saving clause. ORS 24.350 to 24.400 do not prevent the recognition under principles of comity or otherwise of a foreign-country judgment not within the scope of ORS 24.350 to 24.400. [2009 c.48 §10] 24.400 Short title. ORS 24.350 to 24.400 may be cited as the Uniform Foreign-Country Money Judgments Recognition Act. [2009 c.48 §11]
+24.395 Saving clause. ORS 24.350 to 24.400 do not prevent the recognition under principles of comity or otherwise of a foreign-country judgment not within the scope of ORS 24.350 to 24.400. [2009 c.48 §10] 
 
 ## Provenance & change history
 

@@ -52,11 +52,7 @@ ORS 31.760 — Evidence of nonuse of safety belt or harness to mitigate damages.
 
 (2) Subsection
 
-(1) of this section shall not apply to: (a) Actions brought under ORS 30.900 to 30.920; or (b) Actions to recover damages for personal injuries arising out of a motor vehicle accident when nonuse of a safety belt or harness is a substantial contributing cause of the accident itself. [Formerly 18.590] (Calculation of Future Earning Potential) 31.770 Inadmissibility of calculation of future earning potential based on race or ethnicity; jury instruction.
-
-(1) A calculation of the projected future earning potential of the plaintiff that takes into account the race or ethnicity of the plaintiff is inadmissible in any civil action.
-
-(2) The court shall instruct the jury in a civil action involving a claim for projected future earnings that the jury may not consider the race or ethnicity of the plaintiff in determining whether to award damages for projected future earnings or the amount of damages for projected future earnings. [2018 c.11 §1]
+(1) of this section shall not apply to: (a) Actions brought under ORS 30.900 to 30.920; or (b) Actions to recover damages for personal injuries arising out of a motor vehicle accident when nonuse of a safety belt or harness is a substantial contributing cause of the accident itself. [Formerly 18.590] (Calculation of Future Earning Potential) 
 
 ## Provenance & change history
 

@@ -66,13 +66,7 @@ ORS 70.180 — When person ceases to be general partner. Chapter 70 (Limited Par
 
 (9) In the case of a general partner that is a corporation, the voluntary dissolution of the corporation, the involuntary dissolution of the corporation or the entry of a judgment or judicial order of involuntary dissolution of the corporation.
 
-(10) In the case of an estate, the distribution by the fiduciary of the estate’s entire interest in the partnership. [1985 c.677 §24; 1987 c.543 §18] 70.185 Rights, restrictions and liabilities of general partner.
-
-(1) Except as provided in this chapter or in the partnership agreement, a general partner of a limited partnership has the rights and powers and is subject to the restrictions of a partner in a partnership without limited partners.
-
-(2) Except as provided in this chapter, a general partner of a limited partnership has the liabilities of a partner in a partnership without limited partners to persons other than the partnership and the other partners.
-
-(3) Except as provided in this chapter or in the partnership agreement, a general partner of a limited partnership has the liabilities of a partner in a partnership without limited partners to the partnership and to the other partners. [1985 c.677 §25] 70.190 Rights and powers of general partner as general and limited partner. A general partner of a limited partnership may make contributions to the partnership and share in the profits and losses of and in distributions from the limited partnership as a general partner. A general partner also may make contributions to and share in the profits, losses and distributions as a limited partner. A person who is both a general partner and a limited partner has the rights and powers and is subject to the restrictions and liabilities of a general partner and, except as provided in the partnership agreement, also has the powers and is subject to the restrictions of a limited partner to the extent of the person’s participation in the partnership as a limited partner. [1985 c.677 §26] 70.195 Voting rights. The partnership agreement may grant to all or certain identified general partners the right to vote, separately or with all or any class of the limited partners, on any matter. The right to vote may be granted on a per capita or any other basis. [1985 c.677 §27]
+(10) In the case of an estate, the distribution by the fiduciary of the estate’s entire interest in the partnership. [1985 c.677 §24; 1987 c.543 §18] 
 
 ## Provenance & change history
 

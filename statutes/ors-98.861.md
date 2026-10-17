@@ -62,15 +62,7 @@ ORS 98.861 — Licenses for towing; fees. Chapter 98 (Lost, Unclaimed or Abandon
 
 (5) The requirement to get a license under this section applies only to towers that tow a motor vehicle without the prior consent or authorization of the owner or operator of the motor vehicle.
 
-(6) A city or county may suspend or revoke a license issued under this section for violation of ORS 98.853, 98.854, 98.856 or 98.859. [2013 c.691 §4; 2017 c.480 §12] 98.862 Exceptions to requirements of ORS 98.856. A tower need not provide the written information required under ORS 98.856 if:
-
-(1) The motor vehicle is towed from a parking facility where the tower has provided the information on signs that are clearly readable by an operator of a motor vehicle in each parking stall or at each entrance to the parking facility.
-
-(2) The tower is hired or otherwise engaged by an agency taking custody of a vehicle under ORS 819.140.
-
-(3) The tower tows the motor vehicle under a prenegotiated payment agreement between the tower and a motor vehicle road service company or an insurance company.
-
-(4) The tower is hired or otherwise engaged by a business entity at the request of the owner or operator of the motor vehicle to tow the motor vehicle. [2007 c.538 §7] 98.864 [2007 c.538 §8; repealed by 2021 c.578 §14] 98.990 [Repealed by 1957 c.670 §37]
+(6) A city or county may suspend or revoke a license issued under this section for violation of ORS 98.853, 98.854, 98.856 or 98.859. [2013 c.691 §4; 2017 c.480 §12] 
 
 ## Provenance & change history
 

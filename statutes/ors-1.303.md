@@ -74,7 +74,7 @@ ORS 1.303 — Disability of judge; procedures upon receipt by Chief Justice of c
 
 (5) of this section shall not be public records unless received as competent evidence in the course of a hearing pursuant to ORS 1.310
 
-(4) or 1.420. [1987 c.520 §1] 1.305 Commencement of judicial term of office. The term of office of a judge of the Supreme Court, the Court of Appeals, the Oregon Tax Court, or of any circuit court shall begin on the first Monday in January following the election of the judge. [1979 c.451 §7]
+(4) or 1.420. [1987 c.520 §1] 
 
 ## Provenance & change history
 

@@ -66,13 +66,7 @@ ORS 77.3080 — Enforcement of carrier’s lien. Chapter 77 (Warehouse Receipts,
 
 (1) of this section or the procedure set forth in ORS 77.2100 (2).
 
-(8) A carrier is liable for damages caused by failure to comply with the requirements for sale under this section and in case of willful violation is liable for conversion. [1961 c.726 §77.3080; 2009 c.181 §71] 77.3090 Duty of care; contractual limitation of carrier’s liability.
-
-(1) A carrier that issues a bill of lading, whether negotiable or nonnegotiable, shall exercise the degree of care in relation to the goods which a reasonably careful person would exercise under similar circumstances. This subsection does not affect any statute, regulation or rule of law that imposes liability upon a common carrier for damages not caused by its negligence.
-
-(2) Damages may be limited by a term in the bill of lading or in a transportation agreement that the carrier’s liability may not exceed a value stated in the bill or transportation agreement if the carrier’s rates are dependent upon value and the consignor is afforded an opportunity to declare a higher value and the consignor is advised of the opportunity. However, such a limitation is not effective with respect to the carrier’s liability for conversion to its own use.
-
-(3) Reasonable provisions as to the time and manner of presenting claims and commencing actions based on the shipment may be included in a bill of lading or a transportation agreement. [1961 c.726 §77.3090; 2009 c.181 §72]
+(8) A carrier is liable for damages caused by failure to comply with the requirements for sale under this section and in case of willful violation is liable for conversion. [1961 c.726 §77.3080; 2009 c.181 §71] 
 
 ## Provenance & change history
 

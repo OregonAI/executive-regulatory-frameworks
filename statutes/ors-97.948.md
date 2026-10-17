@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-97.948
-title: "Grounds for discipline by director for violation of ORS"
+title: "Grounds for discipline by director for violation of ORS 97.923 to 97.949; suspension and revocation of certificate or registration; civil penalties; notification of board"
 doc_type: statute
 citation: "ORS 97.948"
 authority_level: statute
@@ -45,11 +45,11 @@ tags: ["ors", "chapter-97"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors097.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Grounds for discipline by director for violation of ORS (ORS 97.948)
+# Grounds for discipline by director for violation of ORS 97.923 to 97.949; suspension and revocation of certificate or registration; civil penalties; notification of board (ORS 97.948)
 
 ## At a glance
 
-ORS 97.948 — Grounds for discipline by director for violation of ORS. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
+ORS 97.948 — Grounds for discipline by director for violation of ORS 97.923 to 97.949; suspension and revocation of certificate or registration; civil penalties; notification of board. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
 
 ## Full text
 
@@ -67,11 +67,7 @@ ORS 97.948 — Grounds for discipline by director for violation of ORS. Chapter 
 
 (5) Civil penalties under this section may be imposed as provided in ORS 183.745.
 
-(6) If the director takes disciplinary action under this section, the director may send a notice of the action to the State Mortuary and Cemetery Board and to the Attorney General. [2001 c.796 §4; 2003 c.362 §7; 2005 c.338 §2; 2012 c.7 §15] Note: See note under 97.923. 97.949 Notification by director to appropriate federal, state or local law enforcement officer of violation of ORS 97.923 to 97.949.
-
-(1) If the Director of the Department of Consumer and Business Services has reason to believe that a person has violated any provision of ORS 97.923 to 97.949, the director may give the information relative to the violation to the appropriate federal, state or local law enforcement officer having jurisdiction over the violation.
-
-(2) If the director, in the course of taking an action against a certified provider, master trustee or entity acting as a certified provider or master trustee without certification or registration, finds that a salesperson or person acting as a salesperson has violated any provision of ORS 97.923 to 97.949, the director shall provide the State Mortuary and Cemetery Board with a copy of the findings and the order of the director. The board shall, upon receipt of such information, discipline the salesperson or person acting as a salesperson as required by law. [2001 c.796 §5; 2003 c.362 §8; 2005 c.338 §3; 2012 c.7 §16] Note: See note under 97.923. 97.950 [1995 c.717 §1; 1997 c.472 §4; 1999 c.201 §1; 2005 c.505 §1; repealed by 2007 c.681 §31]
+(6) If the director takes disciplinary action under this section, the director may send a notice of the action to the State Mortuary and Cemetery Board and to the Attorney General. [2001 c.796 §4; 2003 c.362 §7; 2005 c.338 §2; 2012 c.7 §15] Note: See note under 97.923. 
 
 ## Provenance & change history
 

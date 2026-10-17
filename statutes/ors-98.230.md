@@ -48,7 +48,7 @@ ORS 98.230 — Sale of perishable property. Chapter 98 (Lost, Unclaimed or Aband
 
 ## Full text
 
-98.230 Sale of perishable property. Perishable property consigned or left as mentioned in ORS 98.110, if not reclaimed within 30 days after it was left, may be sold by giving 10 days’ notice thereof. The sale shall be conducted and the proceeds of the sale shall be applied as provided in ORS 98.170 to 98.210. Any property in a state of decay or manifestly liable to immediately become decayed, may, after inspection, be summarily sold by order of a justice of the peace, as provided in ORS 98.160. 98.240 Fees allowed to justice of peace and constable or sheriff. A justice of the peace shall receive $9 for each day’s service rendered pursuant to ORS 98.160 to 98.230; and a constable or sheriff shall receive the same fees as are allowed by law for sales upon an execution, and 50 cents a folio for making an inventory of property. [Amended by 1963 c.228 §4; 1965 c.619 §33]
+98.230 Sale of perishable property. Perishable property consigned or left as mentioned in ORS 98.110, if not reclaimed within 30 days after it was left, may be sold by giving 10 days’ notice thereof. The sale shall be conducted and the proceeds of the sale shall be applied as provided in ORS 98.170 to 98.210. Any property in a state of decay or manifestly liable to immediately become decayed, may, after inspection, be summarily sold by order of a justice of the peace, as provided in ORS 98.160. 
 
 ## Provenance & change history
 

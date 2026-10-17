@@ -46,7 +46,7 @@ ORS 70.110 — Filing as notice of limited partnership. Chapter 70 (Limited Part
 
 ## Full text
 
-70.110 Filing as notice of limited partnership. The fact that a certificate of limited partnership is on file in the Office of Secretary of State is notice that the partnership is a limited partnership and the persons designated therein as general partners are general partners, but it is not notice of any other fact. [1985 c.677 §16; 1987 c.543 §13] 70.115 Duty of general partners to deliver copy of certificate to each limited partner. Upon the return by the Secretary of State pursuant to ORS 70.100 of an acknowledgment of filing, the general partners shall promptly deliver or mail a copy of the certificate of limited partnership and each certificate of amendment or cancellation to each limited partner unless the partnership agreement provides otherwise. [1985 c.677 §17; 1999 c.486 §15]
+70.110 Filing as notice of limited partnership. The fact that a certificate of limited partnership is on file in the Office of Secretary of State is notice that the partnership is a limited partnership and the persons designated therein as general partners are general partners, but it is not notice of any other fact. [1985 c.677 §16; 1987 c.543 §13] 
 
 ## Provenance & change history
 

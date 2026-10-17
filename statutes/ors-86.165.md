@@ -58,7 +58,7 @@ ORS 86.165 — Late charge. Chapter 86 (Mortgages; Trust Deeds), 2025 Edition.
 
 (1) of this section.
 
-(4) More than once on any single installment. [1977 c.427 §2; 1979 c.101 §1; 1993 c.280 §1] 86.170 Prohibited mortgage provisions. Any provision in a mortgage for a late charge except as authorized by ORS 86.160 to 86.185 shall be invalid. [1977 c.427 §3; 1997 c.631 §384] 86.175 Scope. ORS 86.160 to 86.185 shall be applicable only to late charges on loans secured by residential real property. [1977 c.427 §4] 86.180 ORS 86.160 to 86.185 not applicable to certain mortgagees; notice to borrowers. Nothing in ORS 86.160 to 86.185 shall pertain to a mortgage banking company or mortgage servicing company except that if the terms of the mortgage do not conform to the requirements of ORS 86.165, the borrower shall be notified prior to the execution of the mortgage. [1977 c.427 §5] 86.185 ORS 86.160 to 86.185 not applicable to certain loans. Nothing in ORS 86.160 to 86.185 shall apply to loans insured, guaranteed or purchased by an instrumentality of the federal government, whose regulations establish late charge limitations. [1977 c.427 §6]
+(4) More than once on any single installment. [1977 c.427 §2; 1979 c.101 §1; 1993 c.280 §1] 
 
 ## Provenance & change history
 

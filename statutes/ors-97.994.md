@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-97.994
-title: "Penalties for ORS"
+title: "Penalties for ORS 97.931, 97.933, 97.941 and 97.943"
 doc_type: statute
 citation: "ORS 97.994"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-97"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors097.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Penalties for ORS (ORS 97.994)
+# Penalties for ORS 97.931, 97.933, 97.941 and 97.943 (ORS 97.994)
 
 ## At a glance
 
-ORS 97.994 — Penalties for ORS. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
+ORS 97.994 — Penalties for ORS 97.931, 97.933, 97.941 and 97.943. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
 
 ## Full text
 

@@ -52,7 +52,7 @@ ORS 98.991 — Penalties relating to unclaimed property. Chapter 98 (Lost, Uncla
 
 (1) Any person who willfully fails to render any report or perform other duties required under this Act is guilty of a misdemeanor.
 
-(2) Any person who willfully refuses to pay or deliver unclaimed property to the State Treasurer as required under this Act is guilty of a misdemeanor. [1957 c.670 §36; 1993 c.694 §22; 2019 c.678 §29] Note: See note under 98.432. 98.992 Penalty for failure to report, pay or deliver property under ORS 98.302 to 98.436. A person who willfully fails to render any report, to pay or deliver property or to perform other duties required by ORS 98.302 to 98.436 and 98.992 may be required to forfeit and pay to the State Treasurer to be deposited in the Unclaimed Property and Estates Fund, an amount determined by the State Treasurer pursuant to ORS 183.745 of not more than $1,000 for individuals and $50,000 for corporations. This penalty shall be assessed only after at least one reporting cycle, and only after the State Treasurer has provided the person with written instructions, including copies of applicable laws and policies. The State Treasurer may waive any penalty due under this section with appropriate justification. [1993 c.694 §25; 2019 c.678 §30; 2021 c.424 §13] _______________
+(2) Any person who willfully refuses to pay or deliver unclaimed property to the State Treasurer as required under this Act is guilty of a misdemeanor. [1957 c.670 §36; 1993 c.694 §22; 2019 c.678 §29] Note: See note under 98.432. 
 
 ## Provenance & change history
 

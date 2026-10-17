@@ -46,13 +46,7 @@ ORS 72A.5300 — Lessor’s incidental damages. Chapter 72A (Leases), 2025 Editi
 
 ## Full text
 
-72A.5300 Lessor’s incidental damages. Incidental damages to an aggrieved lessor include any commercially reasonable charges, expenses or commissions incurred in stopping delivery, in the transportation, care and custody of goods after the lessee’s default, in connection with return or disposition of the goods, or otherwise resulting from the default. [1989 c.676 §77] 72A.5310 Standing to sue third parties for injury to goods.
-
-(1) If a third party so deals with goods that have been identified to a lease contract as to cause actionable injury to a party to the lease contract, the lessor has a right of action against the third party and the lessee also has a right of action against the third party if the lessee: (a) Has a security interest in the goods; (b) Has an insurable interest in the goods; or (c) Bears the risk of loss under the lease contract or has since the injury assumed that risk as against the lessor and the goods have been converted or destroyed.
-
-(2) If at the time of the injury the party plaintiff did not bear the risk of loss as against the other party to the lease contract and there is no arrangement between them for disposition of the recovery, the plaintiff’s suit or settlement, subject to the plaintiff’s own interest, is as a fiduciary for the other party to the lease contract.
-
-(3) Either party with the consent of the other may sue for the benefit of whom it may concern. [1989 c.676 §78] _______________
+72A.5300 Lessor’s incidental damages. Incidental damages to an aggrieved lessor include any commercially reasonable charges, expenses or commissions incurred in stopping delivery, in the transportation, care and custody of goods after the lessee’s default, in connection with return or disposition of the goods, or otherwise resulting from the default. [1989 c.676 §77] 
 
 ## Provenance & change history
 

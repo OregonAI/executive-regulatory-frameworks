@@ -60,19 +60,7 @@ ORS 72A.2180 — Insurance and proceeds. Chapter 72A (Leases), 2025 Edition.
 
 (4) Nothing in this section impairs any insurable interest recognized under any other statute or rule of law.
 
-(5) The parties by agreement may determine that one or more parties have an obligation to obtain and pay for insurance covering the goods and by agreement may determine the beneficiary of the proceeds of the insurance. [1989 c.676 §27] 72A.2190 Risk of loss.
-
-(1) Except in the case of a finance lease, risk of loss is retained by the lessor and does not pass to the lessee. In the case of a finance lease, risk of loss passes to the lessee.
-
-(2) Subject to the provisions of ORS 72A.2200 on the effect of default on risk of loss, if risk of loss is to pass to the lessee and the time of passage is not stated, the following rules apply: (a) If the lease contract requires or authorizes the goods to be shipped by carrier, and it does not require delivery at a particular destination, the risk of loss passes to the lessee when the goods are duly delivered to the carrier; but if it does require delivery at a particular destination and the goods are there duly tendered while in the possession of the carrier, the risk of loss passes to the lessee when the goods are there duly so tendered as to enable the lessee to take delivery. (b) If the goods are held by a bailee to be delivered without being moved, the risk of loss passes to the lessee on acknowledgment by the bailee of the lessee’s right to possession of the goods. (c) In any case not described in paragraph (a) or (b) of this subsection, the risk of loss passes to the lessee on the lessee’s receipt of the goods if the lessor, or, in the case of a finance lease, the supplier, is a merchant, otherwise the risk passes to the lessee on tender of delivery. [1989 c.676 §28] 72A.2200 Effect of default on risk of loss.
-
-(1) Where risk of loss is to pass to the lessee and the time of passage is not stated: (a) If a tender or delivery of goods so fails to conform to the lease contract as to give a right of rejection, the risk of their loss remains with the lessor or, in the case of a finance lease, the supplier, until cure or acceptance. (b) If the lessee rightfully revokes acceptance, the lessee, to the extent of any deficiency in the lessee’s effective insurance coverage, may treat the risk of loss as having remained with the lessor from the beginning.
-
-(2) Whether or not risk of loss is to pass to the lessee, if the lessee as to conforming goods already identified to a lease contract repudiates or is otherwise in default under the lease contract, the lessor, or, in the case of a finance lease, the supplier, to the extent of any deficiency in the lessor’s or supplier’s effective insurance coverage may treat the risk of loss as resting on the lessee for a commercially reasonable time. [1989 c.676 §29] 72A.2210 Casualty to identified goods. If a lease contract requires goods identified when the lease contract is made, and the goods suffer casualty without fault of the lessee, the lessor or the supplier before delivery, or the goods suffer casualty before risk of loss passes to the lessee pursuant to the lease agreement or ORS 72A.2190, then:
-
-(1) If the loss is total, the lease contract is avoided; and
-
-(2) If the loss is partial or the goods have so deteriorated as to no longer conform to the lease contract, the lessee may nevertheless demand inspection and at the lessee’s option either treat the lease contract as avoided or, except in a finance lease, accept the goods with due allowance from the rent payable for the balance of the lease term for the deterioration or the deficiency in quantity but without further right against the lessor. [1989 c.676 §30]
+(5) The parties by agreement may determine that one or more parties have an obligation to obtain and pay for insurance covering the goods and by agreement may determine the beneficiary of the proceeds of the insurance. [1989 c.676 §27] 
 
 ## Provenance & change history
 

@@ -58,19 +58,7 @@ ORS 71.2030 — Lease distinguished from security interest. Chapter 71 (General 
 
 (4) Additional consideration is nominal if it is less than the lessee’s reasonably predictable cost of performing under the lease agreement if the option is not exercised. Additional consideration is not nominal if: (a) When the option to renew the lease is granted to the lessee, the rent is stated to be the fair market rent for the use of the goods for the term of the renewal determined at the time the option is to be performed; or (b) When the option to become the owner of the goods is granted to the lessee, the price is stated to be the fair market value of the goods determined at the time the option is to be performed.
 
-(5) The remaining economic life of the goods and reasonably predictable fair market rent, fair market value or cost of performing under the lease agreement must be determined with reference to the facts and circumstances at the time the transaction is entered into. [1961 c.726 §71.2030; 2009 c.181 §10] 71.2040 Value. Except as otherwise provided in ORS chapters 73, 74 and 75 and ORS 80.1010 to 80.1070, a person gives value for rights if the person acquires them:
-
-(1) In return for a binding commitment to extend credit or for the extension of immediately available credit, whether or not drawn upon and whether or not a charge-back is provided for in the event of difficulties in collection;
-
-(2) As security for, or in total or partial satisfaction of, a preexisting claim;
-
-(3) By accepting delivery under a preexisting contract for purchase; or
-
-(4) In return for any consideration sufficient to support a simple contract. [1961 c.726 §71.2040; 2009 c.181 §11; 2025 c.33 §3] 71.2050 Reasonable time; season-ableness.
-
-(1) Whether a time for taking an action required by the Uniform Commercial Code is reasonable depends on the nature, purpose and circumstances of the action.
-
-(2) An action is taken seasonably if it is taken at or within the time agreed or, if no time is agreed, at or within a reasonable time. [1961 c.726 §71.2050; 2009 c.181 §12] 71.2060 Presumptions. Whenever the Uniform Commercial Code creates a presumption with respect to a fact, or provides that a fact is presumed, the trier of fact must find the existence of the fact unless and until evidence is introduced that supports a finding of its nonexistence. [1961 c.726 §71.2060; 2009 c.181 §13] 71.2070 [1961 c.726 §71.2070; 1993 c.545 §2; repealed by 2009 c.181 §116] 71.2080 [1961 c.726 §71.2080; repealed by 2009 c.181 §116]
+(5) The remaining economic life of the goods and reasonably predictable fair market rent, fair market value or cost of performing under the lease agreement must be determined with reference to the facts and circumstances at the time the transaction is entered into. [1961 c.726 §71.2030; 2009 c.181 §10] 
 
 ## Provenance & change history
 

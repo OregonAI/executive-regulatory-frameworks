@@ -48,13 +48,7 @@ ORS 18.983 — Court may restrain waste. Chapter 18 (Judgments), 2025 Edition.
 
 ## Full text
 
-18.983 Court may restrain waste. Upon motion of a claimant, or a certificate holder who is not in possession of the property, the court may restrain waste of the real property sold at an execution sale. A person in possession of the real property does not commit waste of the property by continuing to use the property in the same manner in which the property was used before the execution sale, by engaging in the ordinary course of husbandry on the property or by making necessary repairs to buildings. [2005 c.542 §47] (Sheriff’s Deed) 18.985 Sheriff’s deed.
-
-(1) Unless the property is redeemed by the judgment debtor, upon request of the certificate holder and payment of the fee required by ORS 21.300 (1)(c), the sheriff shall execute and deliver a deed for real property sold at an execution sale. The deed shall convey the property to the certificate holder. The deed shall be delivered to the certificate holder as soon as possible.
-
-(2) Notwithstanding subsection
-
-(1) of this section, the court may direct the sheriff to execute a deed to a certificate holder before the expiration of the time allowed for redemption if the certificate holder establishes that the certificate holder has acquired the rights of all persons entitled to redeem. [2005 c.542 §48]
+18.983 Court may restrain waste. Upon motion of a claimant, or a certificate holder who is not in possession of the property, the court may restrain waste of the real property sold at an execution sale. A person in possession of the real property does not commit waste of the property by continuing to use the property in the same manner in which the property was used before the execution sale, by engaging in the ordinary course of husbandry on the property or by making necessary repairs to buildings. [2005 c.542 §47] (Sheriff’s Deed) 
 
 ## Provenance & change history
 

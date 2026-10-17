@@ -54,11 +54,7 @@ ORS 62.786 — Internal capital account cooperative. Chapter 62 (Cooperatives), 
 
 (2) An internal capital account cooperative shall credit the paid-in membership fee and additional paid-in capital of a member to the member’s internal capital account, and shall also record the apportionment of retained net earnings or net losses to the members in accordance with patronage by appropriately crediting or debiting the internal capital accounts of members. The collective reserve account in an internal capital account cooperative shall reflect any paid-in capital, net losses and retained net earnings not allocated to individual members.
 
-(3) In an internal capital account cooperative, the balances in all the individual internal capital accounts and collective reserve account, if any, shall be adjusted at the end of each accounting period so that the sum of the balances is equal to the net book value of the employee cooperative. [1987 c.677 §20] 62.789 Procedure for revocation of election; limits on merger.
-
-(1) When any employee cooperative revokes its election in accordance with ORS 62.771, the amendment to the articles of incorporation shall provide for conversion of membership shares and internal capital accounts or their conversion to securities or other property in a manner consistent with this chapter.
-
-(2) An employee cooperative which has not revoked its election under ORS 62.765 to 62.792 may not merge with another corporation other than an employee cooperative. Two or more employee cooperatives may merge in accordance with this chapter. [1987 c.677 §21; 1995 c.195 §43] 62.792 Short title. ORS 62.765 to 62.792 shall be known and may be cited as the “Employee Cooperative Corporations Act.” [1987 c.677 §11]
+(3) In an internal capital account cooperative, the balances in all the individual internal capital accounts and collective reserve account, if any, shall be adjusted at the end of each accounting period so that the sum of the balances is equal to the net book value of the employee cooperative. [1987 c.677 §20] 
 
 ## Provenance & change history
 

@@ -72,15 +72,7 @@ ORS 18.235 — Motion to satisfy money award. Chapter 18 (Judgments), 2025 Editi
 
 (11) At least five days before filing a motion under this section, the person must serve by personal delivery or first class mail a copy of the motion on the Administrator of the Division of Child Support of the Department of Justice, or on the branch office of the Department of Justice providing support services to the county in which the motion will be made, if: (a) The motion relates to satisfaction of a support award; and (b) Child support rights, as defined in ORS 25.010, for the judgment creditor have been assigned to the state.
 
-(12) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §28; 2007 c.166 §3; 2007 c.339 §10] 18.238 Proceedings after discharge in bankruptcy.
-
-(1) Any person discharged from debts pursuant to the federal bankruptcy laws may file in any court or tribunal in which a judgment has at any time been rendered against the person, either before or after such discharge, a motion in the suit, action or proceeding for the discharge of the judgment from the record. After notice to the judgment creditor, or to any assignee of the judgment creditor whose assignment has been filed or recorded under ORS 18.205, the court shall enter a final order that the judgment be discharged and satisfied of record if the debtor establishes that: (a) The debtor has been discharged from the payment of the judgment or the claim upon which the judgment was based; and (b) Either there was no property to which a judgment lien had attached under ORS 18.150, 18.152, 52.635 or 221.351, as of the date the petition for relief is filed under the federal bankruptcy laws, or if there was such property, the value of the property on the date of the filing of the petition was not more than the outstanding balance of any prior lien or liens upon the property.
-
-(2) If the debtor fails to meet the burden of proof established by subsection
-
-(1) of this section, the court shall enter a final order denying the debtor’s motion.
-
-(3) For the purposes of this section, when notice was given in connection with bankruptcy proceedings to a creditor retaining a beneficial interest in an assigned judgment or claim, such notice shall provide the basis for the satisfaction of that portion of the judgment in which the creditor retains a beneficial interest. When the bankrupt received notice prior to the adjudication of bankruptcy of the assignment of a judgment or claim, notice to the assignor retaining a beneficial interest may not provide the basis for satisfaction for that portion of the judgment which represents the amount actually paid by the assignee of the judgment for the claim and actual court costs incurred by the assignee in prosecuting the claim. [Formerly 18.420] 18.240 [Repealed by 1979 c.284 §199]
+(12) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §28; 2007 c.166 §3; 2007 c.339 §10] 
 
 ## Provenance & change history
 

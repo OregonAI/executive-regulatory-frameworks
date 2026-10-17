@@ -46,11 +46,7 @@ ORS 67.810 — Partnership subject to amendment or repeal of chapter. Chapter 67
 
 ## Full text
 
-67.810 Partnership subject to amendment or repeal of chapter. All or part of this chapter may be amended or repealed at any time and all partnerships subject to this chapter are governed by any amendment or repeal. [1997 c.775 §83] 67.815 Short title. This chapter may be cited as the Oregon Revised Partnership Act. [1997 c.775 §81] PENALTY 67.990 Penalty for signing false document.
-
-(1) A person commits the crime of signing a false document for filing if the person: (a) Knows the document is false in any material respect; and (b) Signs the document with an intent that the document be delivered to the office of the Secretary of State for filing under this chapter.
-
-(2) Signing a false document for filing is a Class A misdemeanor. [2013 c.158 §8] _______________
+67.810 Partnership subject to amendment or repeal of chapter. All or part of this chapter may be amended or repealed at any time and all partnerships subject to this chapter are governed by any amendment or repeal. [1997 c.775 §83] 
 
 ## Provenance & change history
 

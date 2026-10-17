@@ -58,17 +58,7 @@ ORS 63.437 — Restated articles of organization. Chapter 63 (Limited Liability 
 
 (4) Restated articles of organization shall contain all statements required to be included in the initial articles of organization except that no statement is required to be made with respect to: (a) The names and addresses of the organizers or the initial or present registered office or agent; or (b) The mailing address of the limited liability company if an annual report has been filed with the office of the Secretary of State.
 
-(5) Duly adopted restated articles of organization supersede the initial articles of organization and all amendments to them. [1993 c.173 §72; 1999 c.86 §13] 63.441 Amendment by managers. Except as provided in the articles of organization, the manager or managers of a manager-managed limited liability company may adopt without member action one or more amendments to the articles of organization to:
-
-(1) Delete the names and addresses of the initial managers, if named in the initial articles of organization;
-
-(2) Delete the name and address of the initial registered agent or registered office, if a statement of change is filed with the office of the Secretary of State;
-
-(3) Delete the mailing address of the limited liability company if a report reflecting the mailing address has been filed with the office of the Secretary of State;
-
-(4) Change the limited liability company’s name by substituting “limited liability company” for the abbreviation “L.L.C.” or “LLC,” substituting the abbreviation “L.L.C.” for “limited liability company” or “LLC,” or substituting the abbreviation “LLC” for “limited liability company” or “L.L.C.”; or
-
-(5) Make any other changes expressly permitted by this chapter to be made without member action. [1993 c.173 §73; 1995 c.93 §16; 1999 c.86 §14] 63.444 Amendment by members. Except as otherwise provided in ORS 63.441 or in the articles of organization or any operating agreement, all amendments to the articles of organization or any operating agreement must be approved unanimously by the members. Unless otherwise provided in the articles of organization or any operating agreement, the managers, if any, of the limited liability company may, but need not, propose or take a position recommending or disapproving any such proposed amendment. [1993 c.173 §74; 1995 c.93 §17; 1997 c.646 §9]
+(5) Duly adopted restated articles of organization supersede the initial articles of organization and all amendments to them. [1993 c.173 §72; 1999 c.86 §13] 
 
 ## Provenance & change history
 

@@ -50,7 +50,7 @@ ORS 70.405 — Status of plaintiff. Chapter 70 (Limited Partnerships), 2025 Edit
 
 (1) The plaintiff must have been a partner at the time of the transaction of which the plaintiff complains; or
 
-(2) The plaintiff’s status as a partner must have devolved upon the plaintiff from a person who was a partner at the time of the transaction. [1985 c.677 §58] 70.410 Content of complaint. In a derivative action, the complaint shall set forth with particularity the effort of the plaintiff to secure initiation of the action by a general partner or the reasons for not making the effort. [1985 c.677 §59] 70.415 Remittance of proceeds received by plaintiff; attorney fees. If a derivative action is successful in whole or in part or if anything is received by the plaintiff as a result of a judgment, compromise or settlement of an action or claim, the court shall direct the plaintiff to remit to the limited partnership the remainder of those proceeds received by the plaintiff. The court may award reasonable attorney fees to the prevailing party in a derivative action. [1985 c.677 §60; 1995 c.618 §43]
+(2) The plaintiff’s status as a partner must have devolved upon the plaintiff from a person who was a partner at the time of the transaction. [1985 c.677 §58] 
 
 ## Provenance & change history
 

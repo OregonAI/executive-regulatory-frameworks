@@ -62,23 +62,7 @@ ORS 63.229 — Limitations on distribution. Chapter 63 (Limited Liability Compan
 
 (1) of this section is measured for purposes of this section: (a) In the case of distribution by purchase, retirement or other acquisition of all or a portion of a member’s interest in the limited liability company, as of the earlier of the date the money or other property is transferred or debt incurred by the limited liability company or the date the member ceases to be a member with respect to the membership interest purchased, retired or otherwise acquired; (b) In the case of any other distribution of indebtedness, as of the date the indebtedness is distributed; and (c) In all other cases, as of the date a distribution is authorized if the payment occurs within 120 days after the date of authorization or the date the payment is made if it occurs more than 120 days after the date of authorization.
 
-(5) A limited liability company’s indebtedness to a member incurred by reason of a distribution made in accordance with this section is at parity with the limited liability company’s indebtedness to its general unsecured creditors, unless the member agrees to subordination or the limited liability company grants the member a security interest or other lien against limited liability company assets to secure the indebtedness. [1993 c.173 §46; 1999 c.86 §11] 63.230 [1959 c.660 §3; repealed by 1981 c.68 §1] 63.235 Liability for wrongful distribution.
-
-(1) A member of a member-managed limited liability company or a member or manager of a manager-managed company who votes for or assents to a distribution made in violation of ORS 63.229, the articles of organization or any operating agreement, is personally liable to the limited liability company for the amount of the distribution that exceeds the amount that could have been distributed without violating ORS 63.229, the articles of organization or any operating agreement, if it is established that the member or manager did not perform the member’s or manager’s duties in compliance with ORS 63.155.
-
-(2) A member of a manager-managed limited liability company who receives a distribution knowing that it was made in violation of ORS 63.229 is personally liable to the limited liability company, but only to the extent that the distribution received by the member exceeded the amount that could have been properly paid under ORS 63.229.
-
-(3) A member or manager against whom an action is brought under subsection
-
-(1) of this section may implead in the action all: (a) Other members or managers who voted for or assented to the distribution in violation of subsection
-
-(1) of this section and may compel contribution from them; and (b) Members who received a distribution in violation of subsection
-
-(2) of this section and may compel contribution from them in the amount received in violation of subsection
-
-(2) of this section.
-
-(4) A proceeding under this section is barred unless it is commenced within two years after the distribution. [1993 c.173 §47; 1995 c.93 §12; 1999 c.86 §12]
+(5) A limited liability company’s indebtedness to a member incurred by reason of a distribution made in accordance with this section is at parity with the limited liability company’s indebtedness to its general unsecured creditors, unless the member agrees to subordination or the limited liability company grants the member a security interest or other lien against limited liability company assets to secure the indebtedness. [1993 c.173 §46; 1999 c.86 §11] 63.230 [1959 c.660 §3; repealed by 1981 c.68 §1] 
 
 ## Provenance & change history
 

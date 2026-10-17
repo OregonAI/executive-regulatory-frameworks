@@ -54,7 +54,7 @@ ORS 87.581 — Liability of person or insurer to hospital, physician, physician 
 
 (2) An action arising under subsection
 
-(1) of this section shall be commenced within 180 days after the date of payment under subsection (1)(c) of this section. [1999 c.146 §7 (enacted in lieu of 87.580); 2014 c.45 §9; 2024 c.73 §26] 87.585 Foreclosure. The liens described in ORS 87.555 may be foreclosed by a suit in the circuit court. In any suit brought pursuant to the provisions of ORS 87.581 or this section, upon entering a judgment for the plaintiff, the court shall allow as part of the costs and disbursements all moneys paid for the filing and recording of the notice of lien, and reasonable attorney fees at trial and on appeal. [Amended by 1981 c.897 §25; 1999 c.146 §8; 2003 c.576 §344] 87.590 [Repealed by 1975 c.648 §72] 87.595 [Repealed by 1975 c.648 §72] 87.600 [Repealed by 1975 c.648 §72]
+(1) of this section shall be commenced within 180 days after the date of payment under subsection (1)(c) of this section. [1999 c.146 §7 (enacted in lieu of 87.580); 2014 c.45 §9; 2024 c.73 §26] 
 
 ## Provenance & change history
 

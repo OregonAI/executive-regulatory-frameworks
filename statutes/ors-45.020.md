@@ -48,7 +48,7 @@ ORS 45.020 — Affidavit described. Chapter 45 (Testimony Generally), 2025 Editi
 
 ## Full text
 
-45.020 Affidavit described. An affidavit is a written declaration under oath, made without notice to the adverse party. 45.030 [Repealed by 1979 c.284 §199] 45.040 Oral examination described. An oral examination is an examination in the presence of the jury or tribunal which is to decide the fact, or act upon it, the testimony being heard by the jury or tribunal from the mouth of the witness. 45.050 [Amended by 1961 c.461 §1; 1979 c.284 §82; repealed by 1981 c.898 §53] 45.110 [Repealed by 1979 c.284 §199] 45.120 [Repealed by 1979 c.284 §199] 45.125 [Formerly 45.180; repealed by 1977 c.404 §2 (194.500 to 194.580 enacted in lieu of 45.125)]
+45.020 Affidavit described. An affidavit is a written declaration under oath, made without notice to the adverse party. 45.030 [Repealed by 1979 c.284 §199] 
 
 ## Provenance & change history
 

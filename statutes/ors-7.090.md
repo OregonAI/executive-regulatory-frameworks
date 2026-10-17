@@ -48,11 +48,7 @@ ORS 7.090 — Files of court. Chapter 7 (Records and Files of Courts), 2025 Edit
 
 ## Full text
 
-7.090 Files of court. The files of the court are all documents filed with or by the clerk of the court or court administrator, in any action, suit or proceeding therein, or before the judge. [Amended by 1975 c.588 §11; 2007 c.129 §4] 7.095 Electronic data processing for court records; standards for preservation and security.
-
-(1) Where the application of electronic data processing techniques is determined to be feasible and expedient in maintaining records of the courts of this state, the Chief Justice of the Supreme Court may authorize records to be kept by use of electronic data processing equipment. Court records maintained as provided by this section shall contain the information otherwise required by law for the records of courts in this state. Notwithstanding ORS 192.311 to 192.478, records shall not be subject to public disclosure until reviewed and accepted by the court.
-
-(2) The State Court Administrator may prescribe standards governing the use of such techniques, the preservation of the records so maintained, and controls to prevent unauthorized access to records maintained through the use of electronic data processing equipment. [1971 c.499 §1; 1985 c.540 §4; 1995 c.244 §2; 2023 c.302 §6]
+7.090 Files of court. The files of the court are all documents filed with or by the clerk of the court or court administrator, in any action, suit or proceeding therein, or before the judge. [Amended by 1975 c.588 §11; 2007 c.129 §4] 
 
 ## Provenance & change history
 

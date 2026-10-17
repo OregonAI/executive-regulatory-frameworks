@@ -48,7 +48,7 @@ ORS 10.810 — Definition. Chapter 10 (Juries), 2025 Edition.
 
 ## Full text
 
-10.810 Definition. A jury of inquest is a body of six persons, legally qualified to serve as jurors, summoned from the inhabitants of a particular district before the district attorney, sheriff or other ministerial officer, to inquire of particular facts. [Formerly 146.010; 1965 c.221 §9] 10.820 Number of jurors required to concur. The verdict of a jury of inquest is sufficient if two-thirds of the jurors concur therein. [Formerly 146.020]
+10.810 Definition. A jury of inquest is a body of six persons, legally qualified to serve as jurors, summoned from the inhabitants of a particular district before the district attorney, sheriff or other ministerial officer, to inquire of particular facts. [Formerly 146.010; 1965 c.221 §9] 
 
 ## Provenance & change history
 

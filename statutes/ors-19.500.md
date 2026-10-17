@@ -48,7 +48,7 @@ ORS 19.500 — Service of documents under provisions of chapter. Chapter 19 (App
 
 ## Full text
 
-19.500 Service of documents under provisions of chapter. Except as otherwise provided in this chapter, when any provision of this chapter requires that a document be served and filed, the document shall be served in the manner provided in ORCP 9 B on all other parties who have appeared in the action, suit or proceeding and who are not represented by the same counsel as the party serving the document, and shall be filed, with proof of service indorsed thereon, with the trial court administrator. [Formerly 19.104; 2007 c.129 §10] 19.510 Powers of successor trial judge with respect to appeals. In case of death, resignation, expiration of the term of office or vacancy in office for any other cause of the judge before whom the matter was tried, or in case illness or other cause prevents the judge from performing the duties of judge, a successor in office or any other judge assigned to perform the duties of the judge, may take any action with respect to the appeal which the judge who tried it could take. [Formerly 19.170] _______________
+19.500 Service of documents under provisions of chapter. Except as otherwise provided in this chapter, when any provision of this chapter requires that a document be served and filed, the document shall be served in the manner provided in ORCP 9 B on all other parties who have appeared in the action, suit or proceeding and who are not represented by the same counsel as the party serving the document, and shall be filed, with proof of service indorsed thereon, with the trial court administrator. [Formerly 19.104; 2007 c.129 §10] 
 
 ## Provenance & change history
 

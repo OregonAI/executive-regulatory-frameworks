@@ -62,11 +62,7 @@ ORS 62.813 — Lienholder’s rights; rights and obligations on transfer of titl
 
 (4) A lienholder and a cooperative that are subject to a storage agreement under subsection (2)(c) of this section may agree in writing to extend the term of the agreement beyond 12 months.
 
-(5) If the member of the cooperative terminated occupancy in the park without terminating membership in the cooperative, an application for membership by the buyer or moving of the manufactured dwelling shall act to transfer the membership of the terminating owner to the cooperative. [2009 c.609 §3; 2017 c.198 §7] 62.815 Prohibited actions.
-
-(1) As used in this section, “business entity” has the meaning given that term in ORS 62.605.
-
-(2) A manufactured dwelling park nonprofit cooperative may not: (a) Issue stock in the cooperative. (b) Apportion, distribute or pay net proceeds or savings to members. (c) Make payments in redemption or refund of capital credits or retains to an heir of a member. (d) Merge with a business entity other than another manufactured dwelling park nonprofit cooperative. (e) Convert to another type of business entity. [2007 c.607 §7; 2009 c.609 §7]
+(5) If the member of the cooperative terminated occupancy in the park without terminating membership in the cooperative, an application for membership by the buyer or moving of the manufactured dwelling shall act to transfer the membership of the terminating owner to the cooperative. [2009 c.609 §3; 2017 c.198 §7] 
 
 ## Provenance & change history
 

@@ -50,11 +50,7 @@ ORS 67.670 — Appeal from denial of reinstatement. Chapter 67 (Partnerships; Li
 
 (1) If the Secretary of State denies a limited liability partnership’s application for reinstatement following administrative revocation of its registration as a limited liability partnership, the Secretary of State shall give written notice to the limited liability partnership that explains the reason or reasons for denial.
 
-(2) The limited liability partnership may appeal the denial of reinstatement pursuant to the provisions of ORS chapter 183. [1997 c.775 §66] (Interstate Application) 67.680 Interstate application.
-
-(1) A partnership, including a limited liability partnership, created pursuant to an agreement governed by the laws of this state, may conduct its business, carry on its operations and have and exercise the powers granted by this chapter in any state, territory, district or possession of the United States or in any foreign country.
-
-(2) It is the intent of the Legislative Assembly that the legal existence of limited liability partnerships governed by the laws of this state that are registered under ORS 67.603 be recognized outside the boundaries of this state and that the laws of this state governing such limited liability partnerships transacting business outside this state be granted the protection of full faith and credit under the Constitution of the United States. [1997 c.775 §67]
+(2) The limited liability partnership may appeal the denial of reinstatement pursuant to the provisions of ORS chapter 183. [1997 c.775 §66] (Interstate Application) 
 
 ## Provenance & change history
 

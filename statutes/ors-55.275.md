@@ -58,17 +58,7 @@ ORS 55.275 — Rendering judgment; remand to justice court. Chapter 55 (Appeals)
 
 (6) On appeal by the prosecution under ORS 55.255 (1)(e) to (g), the circuit court shall render a judgment reflecting its decision and remanding the case to the justice court.
 
-(7) On appeal by the prosecution under ORS 55.255 (2), if the circuit court determines that relief should not be granted, the circuit court shall render a judgment vacating the justice court’s order granting relief and remanding the case to the justice court for further proceedings. [2025 c.268 §19] 55.280 Stay of enforcement of judgment.
-
-(1) A defendant filing notice of appeal from a judgment of conviction and sentence of a misdemeanor described in this subsection does not stay enforcement of the judgment unless the defendant: (a) If sentenced to confinement, executes a release agreement or makes a security release deposit as provided in ORS 135.230 to 135.290; or (b) On conviction of a traffic crime as defined in ORS 801.545, gives the security required by ORS 810.300 to 810.330 as an undertaking on appeal.
-
-(2) A defendant filing notice of appeal from a judgment involving a violation does not automatically stay enforcement of the judgment.
-
-(3) Nothing in this section is intended to affect the authority of the justice court or circuit court to stay enforcement of the judgment under ORS 19.350, 138.285 or 138.295 or any other authority. [2025 c.268 §21] 55.285 Appeal from circuit court.
-
-(1) Upon entry by the circuit court of an order or judgment: (a) In a matter involving a violation, the order or judgment may be appealed as provided in ORS 138.057. (b) In a matter involving a misdemeanor, the order or judgment may be appealed as provided in ORS 138.010 to 138.310.
-
-(2) In any case in which only a violation or violations are charged, the state may not appeal from an order dismissing the case that is entered by reason of a police officer’s failure to appear at the trial on the matter if the police officer was timely provided with notice of the trial date. [2025 c.268 §23]
+(7) On appeal by the prosecution under ORS 55.255 (2), if the circuit court determines that relief should not be granted, the circuit court shall render a judgment vacating the justice court’s order granting relief and remanding the case to the justice court for further proceedings. [2025 c.268 §19] 
 
 ## Provenance & change history
 

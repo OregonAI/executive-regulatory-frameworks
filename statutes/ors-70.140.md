@@ -50,11 +50,7 @@ ORS 70.140 — Liability of person who erroneously believes person is limited pa
 
 (1) Causes an appropriate certificate of limited partnership or a certificate of amendment to be executed and filed.
 
-(2) Withdraws from future equity participation in the enterprise by executing and submitting for filing with the Office of Secretary of State a certificate declaring withdrawal under this section. [1985 c.677 §21; 1987 c.543 §16] 70.145 Powers of limited partner. Each limited partner may:
-
-(1) Inspect and copy any of the partnership records required to be maintained by ORS 70.050.
-
-(2) Obtain from the general partners from time to time upon reasonable demand: (a) True and full information regarding the state of the business and financial condition of the limited partnership; (b) A copy of the limited partnership’s federal, state and local income tax returns for each year promptly after they become available; and (c) Other information regarding the affairs of the limited partnership as is just and reasonable. [1985 c.677 §22]
+(2) Withdraws from future equity participation in the enterprise by executing and submitting for filing with the Office of Secretary of State a certificate declaring withdrawal under this section. [1985 c.677 §21; 1987 c.543 §16] 
 
 ## Provenance & change history
 

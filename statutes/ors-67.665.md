@@ -59,15 +59,7 @@ ORS 67.665 — Reinstatement following administrative revocation. Chapter 67 (Pa
 
 (4) The Secretary of State may waive the requirement under subsection
 
-(1) of this section that the limited liability partnership apply for reinstatement within five years after the date of administrative revocation if the limited liability partnership requests the waiver and provides evidence of the limited liability partnership’s continued existence as an active concern during the period of administrative revocation. [1997 c.775 §65; 2011 c.147 §19] 67.670 Appeal from denial of reinstatement.
-
-(1) If the Secretary of State denies a limited liability partnership’s application for reinstatement following administrative revocation of its registration as a limited liability partnership, the Secretary of State shall give written notice to the limited liability partnership that explains the reason or reasons for denial.
-
-(2) The limited liability partnership may appeal the denial of reinstatement pursuant to the provisions of ORS chapter 183. [1997 c.775 §66] (Interstate Application) 67.680 Interstate application.
-
-(1) A partnership, including a limited liability partnership, created pursuant to an agreement governed by the laws of this state, may conduct its business, carry on its operations and have and exercise the powers granted by this chapter in any state, territory, district or possession of the United States or in any foreign country.
-
-(2) It is the intent of the Legislative Assembly that the legal existence of limited liability partnerships governed by the laws of this state that are registered under ORS 67.603 be recognized outside the boundaries of this state and that the laws of this state governing such limited liability partnerships transacting business outside this state be granted the protection of full faith and credit under the Constitution of the United States. [1997 c.775 §67]
+(1) of this section that the limited liability partnership apply for reinstatement within five years after the date of administrative revocation if the limited liability partnership requests the waiver and provides evidence of the limited liability partnership’s continued existence as an active concern during the period of administrative revocation. [1997 c.775 §65; 2011 c.147 §19] 
 
 ## Provenance & change history
 

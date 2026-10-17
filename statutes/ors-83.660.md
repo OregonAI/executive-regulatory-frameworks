@@ -48,17 +48,7 @@ ORS 83.660 — Acceleration provision. Chapter 83 (Retail Installment Contracts)
 
 ## Full text
 
-83.660 Acceleration provision. No provision in a retail installment contract by which, in the absence of the buyer’s default, the holder may, arbitrarily and without reasonable cause, accelerate the maturity of any part or all of the time balance is enforceable. This section does not prohibit provisions in a retail installment contract accelerating any part or all of the time balance in the event of sale or transfer, or removal outside the state of the motor vehicle covered by the contract. [1957 c.625 §13] 83.670 Unenforceable contract provisions.
-
-(1) No provision in a retail installment contract for confession of judgment, power of attorney therefor, or wage assignment is enforceable.
-
-(2) No provision in a retail installment contract that authorizes a motor vehicle dealer or holder of the contract or other person acting on the behalf of the motor vehicle dealer or holder to enter upon the buyer’s premises unlawfully, or to commit any breach of the peace in the repossession of a motor vehicle is enforceable.
-
-(3) No provision in a retail installment contract by which the buyer waives any right of action against the motor vehicle dealer or holder of the contract, or other person acting on the behalf of the motor vehicle dealer or holder, for any illegal act committed in the collection of payments under the contract or in the repossession of the motor vehicle is enforceable.
-
-(4) No provision in a retail installment contract by which the buyer executes a power of attorney appointing the motor vehicle dealer or holder of the contract, or other person acting on the behalf of the motor vehicle dealer or holder, as the buyer’s agent in collection of payments under the contract or in the repossession of the motor vehicle, is enforceable.
-
-(5) No provision in a retail installment contract relieving the motor vehicle dealer from liability for any legal remedies that the buyer may have had against the motor vehicle dealer under the contract, or any separate instrument executed in connection therewith, is enforceable. [1957 c.625 §§14,15,16,17,18; 2001 c.117 §12] 83.680 Waiver of provisions of ORS 83.510 to 83.680. Any waiver of the provisions of ORS 83.510 to 83.680 shall be unenforceable and void. [1957 c.625 §28]
+83.660 Acceleration provision. No provision in a retail installment contract by which, in the absence of the buyer’s default, the holder may, arbitrarily and without reasonable cause, accelerate the maturity of any part or all of the time balance is enforceable. This section does not prohibit provisions in a retail installment contract accelerating any part or all of the time balance in the event of sale or transfer, or removal outside the state of the motor vehicle covered by the contract. [1957 c.625 §13] 
 
 ## Provenance & change history
 

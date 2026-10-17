@@ -29,8 +29,7 @@ verified_by: ""
 maintainer: "@morficflux"
 relationships:
   implements: []
-  implemented_by:
-    - das-40-035-01
+  implemented_by: []
   references_external: []
   related: []
   supersedes: []
@@ -49,7 +48,7 @@ ORS 40.035 — Rule 105. Limited admissibility. Chapter 40 (Evidence Code), 2025
 
 ## Full text
 
-40.035 Rule 105. Limited admissibility. When evidence which is admissible as to one party or for one purpose but not admissible as to another party or for another purpose is admitted, the court, upon request, shall restrict the evidence to its proper scope and instruct the jury accordingly. [1981 c.892 §6] 40.040 Rule 106. When part of transaction proved, whole admissible. When part of an act, declaration, conversation or writing is given in evidence by one party, the whole on the same subject, where otherwise admissible, may at that time be inquired into by the other; when a letter is read, the answer may at that time be given; and when a detached act, declaration, conversation or writing is given in evidence, any other act, declaration, conversation or writing which is necessary to make it understood may at that time also be given in evidence. [1981 c.892 §6a]
+40.035 Rule 105. Limited admissibility. When evidence which is admissible as to one party or for one purpose but not admissible as to another party or for another purpose is admitted, the court, upon request, shall restrict the evidence to its proper scope and instruct the jury accordingly. [1981 c.892 §6] 
 
 ## Provenance & change history
 

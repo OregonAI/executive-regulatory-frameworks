@@ -48,7 +48,7 @@ ORS 36.735 — Uniformity of application and construction. Chapter 36 (Mediation
 
 ## Full text
 
-36.735 Uniformity of application and construction. In applying and construing ORS 36.600 to 36.740, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it. [2003 c.598 §29] Note: See note under 36.600. 36.740 Relationship to electronic signatures in Global and National Commerce Act. The provisions of ORS 36.600 to 36.740 governing the legal effect, validity and enforceability of electronic records or electronic signatures, and of contracts performed with the use of such records or signatures, conform to the requirements of Section 102 of the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7001 and 7002, as in effect on January 1, 2004. [2003 c.598 §30] Note: See note under 36.600. _______________
+36.735 Uniformity of application and construction. In applying and construing ORS 36.600 to 36.740, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it. [2003 c.598 §29] Note: See note under 36.600. 
 
 ## Provenance & change history
 

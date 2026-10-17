@@ -56,27 +56,7 @@ ORS 60.114 — Change of registered office or registered agent. Chapter 60 (Priv
 
 (1) of this section and recites that the corporation has been notified of the change.
 
-(3) The Secretary of State’s filing of the statement terminates the existing registered office or agent, or both, on the effective date of the filing and establishes the newly appointed registered office or agent, or both, as that of the corporation. [1987 c.52 §30; 2017 c.55 §6] 60.117 Resignation of registered agent.
-
-(1) A registered agent may resign as agent upon delivering a signed statement to the office and giving notice in the form of a copy of the statement to the corporation. The statement may include a statement that the registered office is also discontinued.
-
-(2) Upon delivery of the signed statement, the Secretary of State shall file the resignation statement. The copy of the statement given to the corporation under subsection
-
-(1) of this section shall be addressed to the corporation at the corporation’s mailing address or the corporation’s principal office as shown by the records of the office of the Secretary of State.
-
-(3) The agency appointment is terminated and the registered office discontinued, if so provided, on the 31st day after the date on which the statement was filed by the Secretary of State, unless the corporation shall sooner appoint a successor registered agent as provided in ORS 60.114, thereby terminating the capacity of such agent. [1987 c.52 §31; 1993 c.190 §1] 60.120 [Repealed by 1953 c.549 §138] 60.121 Service on corporation.
-
-(1) The registered agent appointed by a corporation shall be an agent of the corporation upon whom any process, notice or demand required or permitted by law to be served upon the corporation may be served.
-
-(2) The Secretary of State shall be an agent of a corporation including a dissolved corporation upon whom any such process, notice or demand may be served whenever the corporation fails to appoint or maintain a registered agent in this state or whenever the corporation’s registered agent cannot with reasonable diligence be found at the registered office.
-
-(3) Service shall be made on the Secretary of State by: (a) Serving the Secretary of State or a clerk on duty at the office a copy of the process, notice or demand, with any papers required by law to be delivered in connection with the service, and the required fee for each party being served or by mailing to the office a copy of the process, notice or demand and the required fee for each party being served by certified or registered mail; (b) Transmittal by the person instituting the proceedings of notice of the service on the Secretary of State and copy of the process, notice or demand and accompanying papers to the corporation being served by certified or registered mail: (A) At the last registered office of the corporation as shown by the records on file in the office of the Secretary of State; and (B) At such address the use of which the person initiating the proceedings knows or, on the basis of reasonable inquiry, has reason to believe is most likely to result in actual notice; and (c) Filing with the appropriate court or other body, as part of the return of service, the return receipt of mailing and an affidavit of the person initiating the proceedings stating that this section has been complied with.
-
-(4) The Secretary of State shall keep a record of all processes, notices and demands served upon the Secretary of State under this section.
-
-(5) After completion of initial service upon the Secretary of State, no additional documents need be served upon the Secretary of State to maintain jurisdiction in the same proceeding or to give notice of any motion or provisional process.
-
-(6) Nothing contained in this section shall limit or affect the right to serve any process, notice or demand required or permitted by law to be served upon a corporation in any other manner now or hereafter permitted by law, or enlarge the purposes for which service on the Secretary of State is permitted where such purposes are limited by other provisions of law. [1987 c.52 §32; 2007 c.71 §16] 60.130 [Repealed by 1953 c.549 §138]
+(3) The Secretary of State’s filing of the statement terminates the existing registered office or agent, or both, on the effective date of the filing and establishes the newly appointed registered office or agent, or both, as that of the corporation. [1987 c.52 §30; 2017 c.55 §6] 
 
 ## Provenance & change history
 

@@ -52,7 +52,7 @@ ORS 31.560 — Advance payment for death or personal injury not admission of lia
 
 (2) For the purpose of subsection
 
-(1) of this section, advance payment is made when payment is made with or to: (a) The injured person; (b) A person acting on behalf of the injured person with the consent of the injured person; or (c) Any other person entitled to recover damages on account of the injury or death of the injured or deceased person. [Formerly 18.520] 31.565 Advance payment for property damage not admission of liability. Any advance payment made for damages arising from injury or destruction of property is not an admission of liability for the injury or destruction by the person making the payment unless the parties to the payment agree to the contrary in writing. [Formerly 18.530]
+(1) of this section, advance payment is made when payment is made with or to: (a) The injured person; (b) A person acting on behalf of the injured person with the consent of the injured person; or (c) Any other person entitled to recover damages on account of the injury or death of the injured or deceased person. [Formerly 18.520] 
 
 ## Provenance & change history
 

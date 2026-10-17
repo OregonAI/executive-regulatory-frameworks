@@ -52,23 +52,7 @@ ORS 79A.3380 — UCC 9-338. Priority of security interest or agricultural lien p
 
 (1) The security interest or agricultural lien is subordinate to a conflicting perfected security interest in the collateral to the extent that the holder of the conflicting security interest gives value in reasonable reliance upon the incorrect information; and
 
-(2) A purchaser, other than a secured party, of the collateral takes free of the security interest or agricultural lien to the extent that, in reasonable reliance upon the incorrect information, the purchaser gives value and, in the case of tangible chattel paper, tangible documents, goods, instruments or a security certificate, receives delivery of the collateral. [Formerly 79.0338] 79A.3390 UCC 9-339. Priority subject to subordination. This chapter does not preclude subordination by agreement by a person entitled to priority. [Formerly 79.0339] (Rights of Bank) 79A.3400 UCC 9-340. Effectiveness of right of recoupment or setoff against deposit account.
-
-(1) Except as otherwise provided in subsection
-
-(3) of this section, a bank with which a deposit account is maintained may exercise any right of recoupment or setoff against a secured party that holds a security interest in the deposit account.
-
-(2) Except as otherwise provided in subsection
-
-(3) of this section, the application of this chapter to a security interest in a deposit account does not affect a right of recoupment or setoff of the secured party as to a deposit account maintained with the secured party.
-
-(3) The exercise by a bank of a setoff against a deposit account is ineffective against a secured party that holds a security interest in the deposit account which is perfected by control under ORS 79A.1040 (1)(c), if the setoff is based on a claim against the debtor. [Formerly 79.0340] 79A.3410 UCC 9-341. Bank’s rights and duties with respect to deposit account. Except as otherwise provided in ORS 79A.3400 (3), and unless the bank otherwise agrees in a signed record, a bank’s rights and duties with respect to a deposit account maintained with the bank are not terminated, suspended, or modified by:
-
-(1) The creation, attachment or perfection of a security interest in the deposit account;
-
-(2) The bank’s knowledge of the security interest; or
-
-(3) The bank’s receipt of instructions from the secured party. [Formerly 79.0341] 79A.3420 UCC 9-342. Bank’s right to refuse to enter into or disclose existence of control agreement. This chapter does not require a bank to enter into an agreement of the kind described in ORS 79A.1040 (1)(b), even if its customer so requests or directs. A bank that has entered into such an agreement is not required to confirm the existence of the agreement to another person unless requested to do so by its customer. [Formerly 79.0342]
+(2) A purchaser, other than a secured party, of the collateral takes free of the security interest or agricultural lien to the extent that, in reasonable reliance upon the incorrect information, the purchaser gives value and, in the case of tangible chattel paper, tangible documents, goods, instruments or a security certificate, receives delivery of the collateral. [Formerly 79.0338] 
 
 ## Provenance & change history
 

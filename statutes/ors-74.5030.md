@@ -52,13 +52,7 @@ ORS 74.5030 — Responsibility of presenting bank for documents and goods; repor
 
 (1) Must deliver the documents to the drawee on acceptance of the draft if it is payable more than three days after presentment; otherwise, only on payment; and
 
-(2) Upon dishonor, either in the case of presentment for acceptance or presentment for payment, may seek and follow instructions from any referee in case of need designated in the draft or if the presenting bank does not choose to utilize the referee’s services, it must use diligence and good faith to ascertain the reason for dishonor, must notify its transferor of the dishonor and of the results of its effort to ascertain the reasons therefor and must request instructions. However, the presenting bank is under no obligation with respect to goods represented by the documents except to follow any reasonable instructions seasonably received; it has a right to reimbursement for any expense incurred in following instructions and to prepayment of or indemnity for those expenses. [1961 c.726 §74.5030; 1993 c.545 §112] 74.5040 Privilege of presenting bank to deal with goods; security interest for expenses.
-
-(1) A presenting bank that, following the dishonor of a documentary draft, has seasonably requested instructions but does not receive them within a reasonable time may store, sell, or otherwise deal with the goods in any reasonable manner.
-
-(2) For its reasonable expenses incurred by action under subsection
-
-(1) of this section the presenting bank has a lien upon the goods or their proceeds, which may be foreclosed in the same manner as an unpaid seller’s lien. [1961 c.726 §74.5040; 1993 c.545 §113] _______________
+(2) Upon dishonor, either in the case of presentment for acceptance or presentment for payment, may seek and follow instructions from any referee in case of need designated in the draft or if the presenting bank does not choose to utilize the referee’s services, it must use diligence and good faith to ascertain the reason for dishonor, must notify its transferor of the dishonor and of the results of its effort to ascertain the reasons therefor and must request instructions. However, the presenting bank is under no obligation with respect to goods represented by the documents except to follow any reasonable instructions seasonably received; it has a right to reimbursement for any expense incurred in following instructions and to prepayment of or indemnity for those expenses. [1961 c.726 §74.5030; 1993 c.545 §112] 
 
 ## Provenance & change history
 

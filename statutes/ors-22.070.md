@@ -48,7 +48,7 @@ ORS 22.070 — Redemption of money or securities; exchange of securities. Chapte
 
 ## Full text
 
-22.070 Redemption of money or securities; exchange of securities. Any party making use of the provisions of ORS 22.020 to 22.070 may, at any time before forfeiture of the same, redeem any money or securities so deposited by submitting the bond originally required or permitted, or may exchange such securities for others of equal value if satisfactory to the officer with whom the same have been deposited. [Amended by 1999 c.1051 §240] 22.090 Qualifications and justification of surety. References in the statute laws of this state to the qualifications of a surety in a bond or undertaking as in bail on arrest and the justification of that surety are intended to be and shall be considered, except where and to the extent that the context of a reference requires otherwise, references to the qualifications and justification of a surety as provided in ORCP 82 D through G. [1981 c.898 §14] _______________
+22.070 Redemption of money or securities; exchange of securities. Any party making use of the provisions of ORS 22.020 to 22.070 may, at any time before forfeiture of the same, redeem any money or securities so deposited by submitting the bond originally required or permitted, or may exchange such securities for others of equal value if satisfactory to the officer with whom the same have been deposited. [Amended by 1999 c.1051 §240] 
 
 ## Provenance & change history
 

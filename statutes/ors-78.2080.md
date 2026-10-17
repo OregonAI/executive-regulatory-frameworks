@@ -54,19 +54,7 @@ ORS 78.2080 — Effect of signature of authenticating trustee, registrar or tran
 
 (2) Unless otherwise agreed, a person signing under subsection
 
-(1) of this section does not assume responsibility for the validity of the security in other respects. [1961 c.726 §78.2080; 1985 c.676 §78.2080; 1995 c.328 §24] 78.2090 Issuer’s lien. A lien in favor of an issuer upon a certificated security is valid against a purchaser only if the right of the issuer to the lien is noted conspicuously on the security certificate. [1995 c.328 §25] 78.2100 Overissue.
-
-(1) In this section, “overissue” means the issue of securities in excess of the amount the issuer has corporate power to issue, but an overissue does not occur if appropriate action has cured the overissue.
-
-(2) Except as otherwise provided in subsections
-
-(3) and
-
-(4) of this section, the provisions of this chapter that validate a security or compel its issue or reissue do not apply to the extent that validation, issue or reissue would result in overissue.
-
-(3) If an identical security not constituting an overissue is reasonably available for purchase, a person entitled to issue or validation may compel the issuer to purchase the security and deliver it if certificated or register its transfer if uncertificated, against surrender of any security certificate the person holds.
-
-(4) If a security is not reasonably available for purchase, a person entitled to issue or validation may recover from the issuer the price the person or the last purchaser for value paid for it with interest from the date of the person’s demand. [1995 c.328 §26]
+(1) of this section does not assume responsibility for the validity of the security in other respects. [1961 c.726 §78.2080; 1985 c.676 §78.2080; 1995 c.328 §24] 
 
 ## Provenance & change history
 

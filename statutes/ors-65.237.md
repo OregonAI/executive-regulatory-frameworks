@@ -58,35 +58,7 @@ ORS 65.237 — Corporation’s acceptance of votes. Chapter 65 (Nonprofit Corpor
 
 (4) The corporation and its officer or agent who accepts or rejects a vote, consent, waiver or proxy appointment in good faith and in accordance with the standards of this section are not liable in damages to the member for the consequences of the acceptance or rejection.
 
-(5) Corporate action based on the acceptance or rejection of a vote, consent, waiver or proxy appointment under this section is valid unless a court of competent jurisdiction determines otherwise. [1989 c.1010 §67] 65.241 Quorum requirements.
-
-(1) Unless the articles of incorporation or bylaws provide for a higher quorum, votes represented at a meeting of members constitute a quorum.
-
-(2) An amendment to the articles of incorporation or bylaws to decrease the quorum for any action of the members may be approved by the members or, unless prohibited by the articles of incorporation or bylaws, by the board of directors.
-
-(3) An amendment to the articles of incorporation or bylaws to increase the quorum required for any action of the members must be approved by the members. [1989 c.1010 §62; 2019 c.174 §47] 65.244 Voting requirements.
-
-(1) Unless this chapter, the articles of incorporation or the bylaws require a greater vote or voting by class, if a quorum is present, the affirmative vote of a majority of the votes represented and voting is the act of the members.
-
-(2) An amendment to the articles of incorporation or bylaws to add to, change or delete the vote required for any action of the members must be approved by the members. [1989 c.1010 §63; 2019 c.174 §48] 65.247 Cumulative voting for directors.
-
-(1) If the articles of incorporation or bylaws provide for cumulative voting by members, members may vote cumulatively by multiplying the number of votes the members are entitled to cast by the number of directors for whom the members are entitled to vote, and cast the product for a single candidate or distribute the product among two or more candidates.
-
-(2) Cumulative voting is not authorized at a particular meeting unless: (a) The meeting notice or statement accompanying the notice states that cumulative voting will take place; or (b) A member gives notice during the meeting and before the vote is taken of the member’s intent to vote cumulatively, and if one member gives this notice all other members participating in the election may vote cumulatively without giving further notice. (3)(a) Except as provided in paragraph (b) of this subsection, members may, without cause, remove a director who was elected by cumulative voting if the members act in accordance with ORS 65.324. (b) A proposal to remove a director who was elected by cumulative voting fails if the number of votes that members cast against the proposal to remove the director, or that fail to consent in writing to the removal, would have been sufficient to elect the director under these circumstances: (A) The members had voted cumulatively at an election that occurred at the time the director was last elected; (B) All directors authorized to serve on the board of directors were subject to election at that time; and (C) If during the election: (i) The members had cast the same total number of votes; or (ii) All memberships entitled to vote were voted, if the election was by written ballot.
-
-(4) Members may not vote cumulatively if the directors and members are identical. [1989 c.1010 §65; 2019 c.174 §49] 65.251 Other methods of electing directors. A corporation may provide in the corporation’s articles of incorporation or bylaws for election of directors by members or delegates:
-
-(1) On the basis of chapter or other organizational unit;
-
-(2) By region or other geographic unit;
-
-(3) By preferential voting; or
-
-(4) By any other reasonable method. [1989 c.1010 §66; 2019 c.174 §50] (Voting Agreements) 65.254 Voting agreements.
-
-(1) Two or more members may provide for the manner in which they will vote by signing an agreement for that purpose. Such agreements may be valid for a period of up to 10 years. For public benefit corporations such agreements must have a reasonable purpose not inconsistent with the corporation’s public or charitable purposes.
-
-(2) A voting agreement created under this section is specifically enforceable. [1989 c.1010 §69]
+(5) Corporate action based on the acceptance or rejection of a vote, consent, waiver or proxy appointment under this section is valid unless a court of competent jurisdiction determines otherwise. [1989 c.1010 §67] 
 
 ## Provenance & change history
 

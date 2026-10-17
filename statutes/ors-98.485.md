@@ -48,7 +48,7 @@ ORS 98.485 — Duty to make mold unusable when title not taken. Chapter 98 (Lost
 
 ## Full text
 
-98.485 Duty to make mold unusable when title not taken. If a molder does not choose to exercise the rights provided under ORS 87.870 to 87.876 or 98.475, the molder shall render the mold unusable as a mold and destroy or otherwise dispose of the mold. [1981 c.333 §4; 2001 c.863 §5] 98.490 Effect of written agreement between molder and customer. ORS 98.470 to 98.490 apply except as otherwise provided by written agreement between any molder and the molder’s customer. [1981 c.333 §5] 98.510 [Repealed by 1969 c.354 §2]
+98.485 Duty to make mold unusable when title not taken. If a molder does not choose to exercise the rights provided under ORS 87.870 to 87.876 or 98.475, the molder shall render the mold unusable as a mold and destroy or otherwise dispose of the mold. [1981 c.333 §4; 2001 c.863 §5] 
 
 ## Provenance & change history
 

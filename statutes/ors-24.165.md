@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-24.165
-title: "Construction of ORS"
+title: "Construction of ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175"
 doc_type: statute
 citation: "ORS 24.165"
 authority_level: statute
@@ -38,15 +38,15 @@ tags: ["ors", "chapter-24"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors024.html> (retrieved 2026-10-17, 2025 Edition).
 
-# Construction of ORS (ORS 24.165)
+# Construction of ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175 (ORS 24.165)
 
 ## At a glance
 
-ORS 24.165 — Construction of ORS. Chapter 24 (Enforcement and Recognition of Foreign Judgments; Foreign-Money Claims), 2025 Edition.
+ORS 24.165 — Construction of ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175. Chapter 24 (Enforcement and Recognition of Foreign Judgments; Foreign-Money Claims), 2025 Edition.
 
 ## Full text
 
-24.165 Construction of ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175. ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175 shall be interpreted and construed in order to effectuate its general purpose to make uniform the law of those states which enact it. [1979 c.577 §6] 24.170 [1955 c.647 §17; repealed by 1979 c.577 §8] 24.175 Short title. ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175 may be cited as the Uniform Enforcement of Foreign Judgments Act. [1979 c.577 §7] 24.180 [1955 c.647 §18; repealed by 1979 c.577 §8] 24.185 [1991 c.222 §1; 1993 c.188 §9; 1997 c.863 §1; repealed by 1999 c.250 §5]
+24.165 Construction of ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175. ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175 shall be interpreted and construed in order to effectuate its general purpose to make uniform the law of those states which enact it. [1979 c.577 §6] 24.170 [1955 c.647 §17; repealed by 1979 c.577 §8] 
 
 ## Provenance & change history
 

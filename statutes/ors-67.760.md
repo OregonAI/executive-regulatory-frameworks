@@ -46,15 +46,7 @@ ORS 67.760 — Appeal from revocation. Chapter 67 (Partnerships; Limited Liabili
 
 ## Full text
 
-67.760 Appeal from revocation. In addition to any other legal remedy which may be available, a foreign limited liability partnership shall have the right to appeal the Secretary of State’s revocation of its authority to transact business in this state pursuant to the provisions of ORS chapter 183. [1997 c.775 §77] 67.765 Reinstatement of authority.
-
-(1) A foreign limited liability partnership which has had its authority revoked under ORS 67.755 may apply to the Secretary of State for reinstatement within five years from the date of revocation. The application shall: (a) State the name of the foreign limited liability partnership and the effective date its authority was revoked; and (b) State that the ground or grounds for revocation of authority either did not exist or have been eliminated.
-
-(2) If the Secretary of State determines that the application contains the information required by subsection
-
-(1) of this section, that the information is correct and that the foreign limited liability partnership’s name satisfies the requirements of ORS 67.730, the Secretary of State shall reinstate the authority.
-
-(3) When the reinstatement is effective, it relates back to and takes effect as of the effective date of the revocation of authority and the foreign limited liability partnership resumes carrying on its business as if the revocation of authority had never occurred. [1997 c.775 §78] 67.770 Action by Attorney General. The Attorney General may maintain an action to restrain a foreign limited liability partnership from transacting business in this state in violation of this chapter. [1997 c.775 §79]
+67.760 Appeal from revocation. In addition to any other legal remedy which may be available, a foreign limited liability partnership shall have the right to appeal the Secretary of State’s revocation of its authority to transact business in this state pursuant to the provisions of ORS chapter 183. [1997 c.775 §77] 
 
 ## Provenance & change history
 

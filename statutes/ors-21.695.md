@@ -60,25 +60,7 @@ ORS 21.695 — Waiver or deferral of costs of transcript on appeal. Chapter 21 (
 
 (2) of this section and costs on appeal are awarded to the obligor, a money award to the State Court Administrator shall be included in the judgment for all waived or deferred transcript costs paid by the State Court Administrator.
 
-(5) Waiver or deferral under this section of the transcript costs of an adult in custody, as defined in ORS 30.642, is subject to ORS 30.642 to 30.650. [2007 c.493 §6; 2019 c.213 §2] 21.698 Confidentiality of information related to waiver or deferral.
-
-(1) Except as provided in subsection
-
-(2) of this section, information supplied by a person filing an application for waiver or deferral of fees or court costs, and information collected by the courts for purposes of determining eligibility for waiver or deferral of fees or costs, is confidential and may not be used for any purpose other than determining eligibility for waiver or deferral.
-
-(2) Information described in subsection
-
-(1) of this section may be: (a) Introduced in an action or proceeding arising out of a determination that a person is not eligible for waiver or deferral of fees or court costs; (b) Introduced in a proceeding arising as a result of an allegation that a person has supplied false information in seeking waiver or deferral of fees or court costs; (c) Used by a court, the Department of Revenue and the assignees of a court or the Department of Revenue for the purpose of collecting delinquent amounts owed to this state by the person providing the information; and (d) Released pursuant to a subpoena issued as a result of an allegation that a person has supplied false information in seeking waiver or deferral of fees or court costs. [2007 c.493 §7] 21.700 Interest on judgments for deferred fees and costs; satisfaction; compromise prohibited.
-
-(1) Notwithstanding ORS 82.010, judgments resulting from the deferral of fees and court costs under the provisions of ORS 21.680 to 21.698 bear no interest.
-
-(2) If a judge of a circuit or county court defers payment of any fees or court costs under the provisions of ORS 21.680 to 21.698, and the amount of those deferred fees or court costs is subsequently paid in full, the trial court administrator for the court shall note in the register or docket that the deferred fees and costs have been paid in full. Notation in the register or docket that deferred fees and costs have been paid in full constitutes a satisfaction of the judgment for those fees and costs.
-
-(3) If the Chief Justice of the Supreme Court, the Chief Judge of the Court of Appeals or the judge of the Oregon Tax Court defers payment of any fees or court costs under the provisions of ORS 21.680 to 21.698, including deferral of the cost of preparing the transcript on appeal, and the amount of those deferred fees or court costs is subsequently paid in full, the State Court Administrator shall note upon the register of the court that the deferred fees and costs have been paid in full. Notation in the register that deferred fees and costs have been paid in full constitutes a satisfaction of the judgment for those fees and costs.
-
-(4) Upon notation in the register or docket that deferred fees and costs have been paid in full, a certified copy of the notation may be filed with any circuit court or County Clerk Lien Record in which the judgment was filed under the provisions of ORS 21.680 to 21.698. Upon filing of the certified copy, the trial court administrator for the court, or the county clerk if the judgment was filed in the County Clerk Lien Record, shall cause the certified copy to be entered in the register or docket of the court or recorded in the County Clerk Lien Record.
-
-(5) Judgments resulting from the deferral of fees and court costs under the provisions of ORS 21.680 to 21.698 may not be compromised, settled or adjusted by a trial court administrator or the State Court Administrator. [Formerly 21.607] 21.710 [Repealed by 1997 c.249 §15] 21.720 [Repealed by 1981 s.s. c.3 §141] 21.730 [Repealed by 2011 c.595 §114] 21.990 [Repealed by 2011 c.595 §114] _______________
+(5) Waiver or deferral under this section of the transcript costs of an adult in custody, as defined in ORS 30.642, is subject to ORS 30.642 to 30.650. [2007 c.493 §6; 2019 c.213 §2] 
 
 ## Provenance & change history
 

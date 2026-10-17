@@ -48,7 +48,7 @@ ORS 71.3090 — Option to accelerate at will. Chapter 71 (General Provisions for
 
 ## Full text
 
-71.3090 Option to accelerate at will. A term providing that one party or that party’s successor in interest may accelerate payment or performance or require collateral or additional collateral “at will” or when the party “deems itself insecure,” or words of similar import, means that the party has power to do so only if that party in good faith believes that the prospect of payment or performance is impaired. The burden of establishing lack of good faith is on the party against which the power has been exercised. [2009 c.181 §22] Note: See note under 71.3010. 71.3100 Subordinated obligations. An obligation may be issued as subordinated to performance of another obligation of the person obligated, or a creditor may subordinate its right to performance of an obligation by agreement with either the person obligated or another creditor of the person obligated. Subordination does not create a security interest as against either the common debtor or a subordinated creditor. [2009 c.181 §23] Note: See note under 71.3010. _______________
+71.3090 Option to accelerate at will. A term providing that one party or that party’s successor in interest may accelerate payment or performance or require collateral or additional collateral “at will” or when the party “deems itself insecure,” or words of similar import, means that the party has power to do so only if that party in good faith believes that the prospect of payment or performance is impaired. The burden of establishing lack of good faith is on the party against which the power has been exercised. [2009 c.181 §22] Note: See note under 71.3010. 
 
 ## Provenance & change history
 

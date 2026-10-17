@@ -48,11 +48,7 @@ ORS 9.510 — Solicitation by attorneys. Chapter 9 (Oregon State Bar; Attorneys;
 
 ## Full text
 
-9.510 Solicitation by attorneys. No attorney shall solicit business at factories, mills, hospitals or other places, or retain members of a firm or runners or solicitors for the purpose of obtaining business on account of personal injuries to any person, or for the purpose of bringing damage suits on account of personal injuries. 9.515 Referral of claims, suits or actions between licensees; division of fees.
-
-(1) Nothing contained in ORS 9.505 shall prevent referral of claims, suits or actions between licensees of the bar.
-
-(2) The provisions of ORS 9.505 shall not prohibit the referral of claims, suits or actions between licensees of the bar or the dividing of fees for legal services with another licensee consistent with the rules of professional conduct adopted pursuant to ORS 9.490. [1961 c.561 §§2,3; 1989 c.1052 §10; 2023 c.72 §9; 2025 c.32 §28] 9.520 Acceptance and prosecution of solicited claims. No attorney shall accept from a solicitor described in ORS 9.500 any claim for damages, or bring an action for damages on account of any claim obtained from such solicitor. Any agreement between an attorney and such solicitor regarding compensation to be paid to the attorney or solicitor is void. 9.525 [1975 c.641 §8; repealed by 1983 c.618 §1]
+9.510 Solicitation by attorneys. No attorney shall solicit business at factories, mills, hospitals or other places, or retain members of a firm or runners or solicitors for the purpose of obtaining business on account of personal injuries to any person, or for the purpose of bringing damage suits on account of personal injuries. 
 
 ## Provenance & change history
 

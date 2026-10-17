@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-82.025
-title: "Exemptions from application of ORS"
+title: "Exemptions from application of ORS 82.010 (3) and (4) and"
 doc_type: statute
 citation: "ORS 82.025"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-82"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors082.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Exemptions from application of ORS (ORS 82.025)
+# Exemptions from application of ORS 82.010 (3) and (4) and (ORS 82.025)
 
 ## At a glance
 
-ORS 82.025 — Exemptions from application of ORS. Chapter 82 (Interest; Repayment Restrictions), 2025 Edition.
+ORS 82.025 — Exemptions from application of ORS 82.010 (3) and (4) and. Chapter 82 (Interest; Repayment Restrictions), 2025 Edition.
 
 ## Full text
 

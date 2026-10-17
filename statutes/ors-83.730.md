@@ -66,19 +66,7 @@ ORS 83.730 — Written agreement or offer to purchase; contents; notice of buyer
 
 (2) of this section if the notice required under federal rules contains the information specified in subsection (1)(c) of this section.
 
-(4) Until the seller has complied with this section the buyer may cancel the home solicitation sale by notifying the seller in any manner and by any means of an intention to cancel. [1971 c.744 §21(3); 1977 c.170 §2; 2005 c.223 §3] 83.740 Duties of seller upon cancellation of sale or revocation of offer to purchase.
-
-(1) The seller must tender to the buyer any payments made by the buyer and any note or other evidence of indebtedness within 10 days after a home solicitation sale has been canceled or an offer to purchase has been revoked.
-
-(2) If the down payment includes goods traded in, the goods must be tendered in substantially as good condition as when received by the seller. If the seller fails to tender the goods as provided by this section, the buyer may elect to recover an amount equal to the trade-in allowance stated in the agreement.
-
-(3) The buyer may retain possession of goods delivered to the buyer by the seller, and has a lien on the goods in the possession or control of the buyer for any recovery to which the buyer is entitled, until the seller has complied with the obligations imposed by this section. [1971 c.744 §21(4); 1977 c.170 §3] 83.750 Rights and duties of buyer upon cancellation of sale or revocation of offer to purchase.
-
-(1) Except as provided by ORS 83.740 (3), within a reasonable time after a home solicitation sale has been canceled or an offer to purchase revoked, the buyer must tender to the seller upon demand any goods delivered by the seller pursuant to the sale, but the buyer is not obliged to tender at any place other than the residence of the buyer. If the seller fails to demand possession of goods within a reasonable time after cancellation or revocation, the goods become the property of the buyer without obligation to pay for them. For the purpose of this subsection, 20 days is presumed to be a reasonable time.
-
-(2) The buyer has a duty to take reasonable care of the goods in the possession of the buyer before cancellation or revocation and for a reasonable time thereafter, during which time the goods are otherwise at the seller’s risk.
-
-(3) If the seller has performed any services pursuant to a home solicitation sale prior to its cancellation, the seller is entitled to no compensation. [1971 c.744 §21(5); 1977 c.170 §4] 83.810 [1969 c.392 §2; 1977 c.274 §7; repealed by 1991 c.296 §4]
+(4) Until the seller has complied with this section the buyer may cancel the home solicitation sale by notifying the seller in any manner and by any means of an intention to cancel. [1971 c.744 §21(3); 1977 c.170 §2; 2005 c.223 §3] 
 
 ## Provenance & change history
 

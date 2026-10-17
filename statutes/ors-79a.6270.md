@@ -58,27 +58,7 @@ ORS 79A.6270 — UCC 9-627. Determination of whether conduct was commercially re
 
 (4) Approval under subsection
 
-(3) of this section need not be obtained, and lack of approval does not mean that the collection, enforcement, disposition or acceptance is not commercially reasonable. [Formerly 79.0627] 79A.6280 UCC 9-628. Nonliability and limitation on liability of secured party; liability of secondary obligor.
-
-(1) Subject to subsection
-
-(6) of this section, a secured party knows that a person is a debtor or obligor, knows the identity of the person and knows how to communicate with the person: (a) The secured party is not liable to the person, or to a secured party or lienholder that has filed a financing statement against the person, for failure to comply with this chapter; and (b) The secured party’s failure to comply with this chapter does not affect the liability of the person for a deficiency.
-
-(2) Subject to subsection
-
-(6) of this section, a secured party is not liable because of its status as secured party: (a) To a person that is a debtor or obligor, unless the secured party knows: (A) That the person is a debtor or obligor; (B) The identity of the person; and (C) How to communicate with the person; or (b) To a secured party or lienholder that has filed a financing statement against a person, unless the secured party knows: (A) That the person is a debtor; and (B) The identity of the person.
-
-(3) A secured party is not liable to any person, and a person’s liability for a deficiency is not affected, because of any act or omission arising out of the secured party’s reasonable belief that a transaction is not a consumer-goods transaction or a consumer transaction or that goods are not consumer goods, if the secured party’s belief is based on its reasonable reliance on: (a) A debtor’s representation concerning the purpose for which collateral was to be used, acquired or held; or (b) An obligor’s representation concerning the purpose for which a secured obligation was incurred.
-
-(4) A secured party is not liable to any person under ORS 79A.6250 (3)(b) for its failure to comply with ORS 79A.6160.
-
-(5) A secured party is not liable under ORS 79A.6250 (3)(b) more than once with respect to any one secured obligation.
-
-(6) Subsections
-
-(1) and
-
-(2) of this section do not apply to limit the liability of a secured party to a person if, at the time the secured party obtains control of collateral that is a controllable account, controllable electronic record or controllable payment intangible or at the time the security interest attaches to the collateral, whichever is later: (a) The person is a debtor or obligor; and (b) The secured party knows that the information in subsection (2)(a) of this section relating to the person is not provided by the collateral, a record attached to or logically associated with the collateral or the system in which the collateral is recorded. [Formerly 79.0628] _______________
+(3) of this section need not be obtained, and lack of approval does not mean that the collection, enforcement, disposition or acceptance is not commercially reasonable. [Formerly 79.0627] 
 
 ## Provenance & change history
 

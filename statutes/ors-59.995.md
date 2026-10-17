@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-59.995
-title: "Civil penalties for ORS"
+title: "Civil penalties for ORS 59.005 to 59.505, 59.710 to 59.830 and 59.991; exceptions"
 doc_type: statute
 citation: "ORS 59.995"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-59"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors059.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Civil penalties for ORS (ORS 59.995)
+# Civil penalties for ORS 59.005 to 59.505, 59.710 to 59.830 and 59.991; exceptions (ORS 59.995)
 
 ## At a glance
 
-ORS 59.995 — Civil penalties for ORS. Chapter 59 (Securities Regulation), 2025 Edition.
+ORS 59.995 — Civil penalties for ORS 59.005 to 59.505, 59.710 to 59.830 and 59.991; exceptions. Chapter 59 (Securities Regulation), 2025 Edition.
 
 ## Full text
 

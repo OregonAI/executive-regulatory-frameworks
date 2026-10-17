@@ -58,13 +58,7 @@ ORS 31.555 — Effect of advance payment; payment as satisfaction of judgment. C
 
 (1) of this section may be submitted by the party making the payment, in the manner provided in ORCP 68 C(4) for the submission of disbursements. (b) The amount of any benefits referred to in subsection
 
-(2) of this section, diminished in proportion to the amount of negligence attributable to the party in favor of whom the judgment was entered and diminished to an amount no greater than the reimbursement payment made by the insurer under ORS 742.534, may be submitted by the insurer which has made the reimbursement payment, in the manner provided in ORCP 68 C(4) for the submission of disbursements. (c) Unless timely objections are filed as provided in ORCP 68 C(4), the court clerk shall apply the amounts claimed pursuant to this subsection in partial satisfaction of the judgment. Such partial satisfaction shall be allowed without regard to whether the party claiming the reduction is otherwise entitled to costs and disbursements in the action. [Formerly 18.510] 31.560 Advance payment for death or personal injury not admission of liability; when advance payment made.
-
-(1) Advance payment made for damages arising from the death or injury of a person is not an admission of liability for the death or injury by the person making the payment unless the parties to the payment agree to the contrary in writing.
-
-(2) For the purpose of subsection
-
-(1) of this section, advance payment is made when payment is made with or to: (a) The injured person; (b) A person acting on behalf of the injured person with the consent of the injured person; or (c) Any other person entitled to recover damages on account of the injury or death of the injured or deceased person. [Formerly 18.520] 31.565 Advance payment for property damage not admission of liability. Any advance payment made for damages arising from injury or destruction of property is not an admission of liability for the injury or destruction by the person making the payment unless the parties to the payment agree to the contrary in writing. [Formerly 18.530]
+(2) of this section, diminished in proportion to the amount of negligence attributable to the party in favor of whom the judgment was entered and diminished to an amount no greater than the reimbursement payment made by the insurer under ORS 742.534, may be submitted by the insurer which has made the reimbursement payment, in the manner provided in ORCP 68 C(4) for the submission of disbursements. (c) Unless timely objections are filed as provided in ORCP 68 C(4), the court clerk shall apply the amounts claimed pursuant to this subsection in partial satisfaction of the judgment. Such partial satisfaction shall be allowed without regard to whether the party claiming the reduction is otherwise entitled to costs and disbursements in the action. [Formerly 18.510] 
 
 ## Provenance & change history
 

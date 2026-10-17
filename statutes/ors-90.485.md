@@ -68,21 +68,7 @@ ORS 90.485 — Restrictions on landlord removal of vehicle; exceptions. Chapter 
 
 (7) A landlord may not have a motor vehicle removed under this section because the vehicle’s registration has expired or is otherwise invalid.
 
-(8) This section does not: (a) Apply to a landlord of a facility. (b) Affect the obligations imposed on a landlord under ORS 98.810 to 98.818 or under ORS 98.830 and 98.840. [2007 c.565 §2; 2009 c.622 §4; 2017 c.480 §18] 90.490 Prohibited acts in anticipation of notice of conversion to condominium; damages.
-
-(1) A tenant may bring an action against a building landlord if for the purpose of avoiding, or assisting a declarant of a conversion condominium in avoiding, the requirements under ORS 100.301 to 100.320: (a) Within one year before the declarant records the declaration under ORS 100.100, the landlord gives a tenant a 30-day notice without stated cause; or (b) Within one year before the declarant records the declaration under ORS 100.100, the landlord increases the rent in excess of the percentage increase in the Consumer Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the United States Department of Labor.
-
-(2) If a court finds that a landlord has taken an action described in subsection
-
-(1) of this section for the purpose of avoiding, or assisting a declarant of a conversion condominium in avoiding, the requirements under ORS 100.301 to 100.320, the court may award the tenant the greater of: (a) Six times the monthly rent for the dwelling unit; or (b) Twice the actual damages to the tenant arising out of the termination or rent increase.
-
-(3) The time allowed under ORS 12.125 to commence an action under this section begins on the date the declarant records the declaration under ORS 100.100. [2007 c.705 §6; 2019 c.57 §6] 90.493 Prohibited acts following notice of conversion to condominium; damages.
-
-(1) The landlord of a building for which a declarant of a conversion condominium has issued the tenant a notice of conversion under ORS 100.305 may not: (a) Give the tenant a 30-day notice without stated cause that causes the tenancy to terminate on a date that is prior to the end of the 120-day period described in ORS 100.305 or the 60-day period described in ORS 100.310; or (b) Increase the rent for the dwelling unit in excess of: (A) Any scheduled increase provided for in a written rental agreement; or (B) A percentage equal to the percentage increase in the Consumer Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the United States Department of Labor.
-
-(2) A tenant may bring an action against a landlord that violates subsection
-
-(1) of this section to recover the greater of: (a) Six times the monthly rent for the dwelling unit; or (b) Twice the actual damages to the tenant arising out of the termination. [2007 c.705 §5; 2019 c.57 §7] 90.500 [Formerly 91.868; 1991 c.844 §4; 1993 c.580 §2; repealed by 1995 c.559 §58]
+(8) This section does not: (a) Apply to a landlord of a facility. (b) Affect the obligations imposed on a landlord under ORS 98.810 to 98.818 or under ORS 98.830 and 98.840. [2007 c.565 §2; 2009 c.622 §4; 2017 c.480 §18] 
 
 ## Provenance & change history
 

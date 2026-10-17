@@ -52,13 +52,7 @@ ORS 1.183 — Interim agreements for funding, acquisition, development and const
 
 (2) For purposes of ORS 1.181 and section 10, chapter 685, Oregon Laws 2015, the state shall be considered to operate a courthouse or portions of a courthouse that are the subject of an agreement entered into pursuant to subsection
 
-(1) of this section if, as applicable: (a) The lease agreement conveys to the state a full leasehold interest, including exclusive rights to control and use the courthouse or portions of the courthouse that are typical of a long-term lease, for a term that is at least equal to the term during which the bonds issued pursuant to ORS 1.181 and section 10, chapter 685, Oregon Laws 2015, will remain outstanding. (b) The intergovernmental agreement grants the state the exclusive right to control and use the courthouse or portions of the courthouse for a term that is at least equal to the term during which the bonds issued pursuant to ORS 1.181 and section 10, chapter 685, Oregon Laws 2015, will remain outstanding. [2013 c.705 §9; 2014 c.121 §7; 2016 c.118 §3] 1.184 Oregon Courthouse Capital Construction and Improvement Fund.
-
-(1) The Oregon Courthouse Capital Construction and Improvement Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned on moneys in the Oregon Courthouse Capital Construction and Improvement Fund shall be credited to the fund.
-
-(2) The fund consists of moneys deposited in the fund pursuant to ORS 1.181 and section 10, chapter 685, Oregon Laws 2015, and moneys transferred to the fund by a county pursuant to ORS 1.183 (1)(b) and may include fees, revenues and other moneys appropriated by the Legislative Assembly for deposit in the fund.
-
-(3) Moneys in the fund are continuously appropriated to the Judicial Department for: (a) The purposes described in ORS 1.181 (3); (b) Payment of the costs incurred by the department to administer the fund; and (c) Payment of bond-related costs, as defined in ORS 286A.816. [2013 c.723 §64; 2016 c.118 §4]
+(1) of this section if, as applicable: (a) The lease agreement conveys to the state a full leasehold interest, including exclusive rights to control and use the courthouse or portions of the courthouse that are typical of a long-term lease, for a term that is at least equal to the term during which the bonds issued pursuant to ORS 1.181 and section 10, chapter 685, Oregon Laws 2015, will remain outstanding. (b) The intergovernmental agreement grants the state the exclusive right to control and use the courthouse or portions of the courthouse for a term that is at least equal to the term during which the bonds issued pursuant to ORS 1.181 and section 10, chapter 685, Oregon Laws 2015, will remain outstanding. [2013 c.705 §9; 2014 c.121 §7; 2016 c.118 §3] 
 
 ## Provenance & change history
 

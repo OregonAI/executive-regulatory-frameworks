@@ -54,7 +54,7 @@ ORS 40.290 — Rule 513. Comment upon or inference from claim of privilege. Chap
 
 (2) In jury cases, proceedings shall be conducted, to the extent practicable, so as to facilitate the making of claims of privilege without the knowledge of the jury.
 
-(3) Upon request, any party against whom the jury might draw an adverse inference from a claim of privilege is entitled to an instruction that no inference may be drawn therefrom. [1981 c.892 §41] 40.295 Rule 514. Effect on existing privileges. Unless expressly repealed by section 98, chapter 892, Oregon Laws 1981, all existing privileges either created under the Constitution or statutes of the State of Oregon or developed by the courts of Oregon are recognized and shall continue to exist until changed or repealed according to law. [1981 c.892 §42]
+(3) Upon request, any party against whom the jury might draw an adverse inference from a claim of privilege is entitled to an instruction that no inference may be drawn therefrom. [1981 c.892 §41] 
 
 ## Provenance & change history
 

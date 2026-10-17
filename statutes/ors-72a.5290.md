@@ -64,13 +64,7 @@ ORS 72A.5290 — Lessor’s action for the rent. Chapter 72A (Leases), 2025 Edit
 
 (1) of this section entitles the lessee to the use and possession of the goods not then disposed of for the remaining lease term of and in accordance with the lease agreement.
 
-(5) After a lessee has wrongfully rejected or revoked acceptance of goods, has failed to pay rent then due or has repudiated as provided in ORS 72A.4020, a lessor who is held not entitled to rent under this section must nevertheless be awarded damages for nonacceptance under ORS 72A.5270 and 72A.5280. [1989 c.676 §76; 1993 c.646 §19] 72A.5295 Lessor’s recovery for loss of or damage to residual interest in goods. In addition to any other recovery permitted by this chapter or other law, the lessor may recover from the lessee an amount that will fully compensate the lessor for any loss of or damage to the lessor’s residual interest in the goods caused by the default of the lessee. [1993 c.646 §21] 72A.5300 Lessor’s incidental damages. Incidental damages to an aggrieved lessor include any commercially reasonable charges, expenses or commissions incurred in stopping delivery, in the transportation, care and custody of goods after the lessee’s default, in connection with return or disposition of the goods, or otherwise resulting from the default. [1989 c.676 §77] 72A.5310 Standing to sue third parties for injury to goods.
-
-(1) If a third party so deals with goods that have been identified to a lease contract as to cause actionable injury to a party to the lease contract, the lessor has a right of action against the third party and the lessee also has a right of action against the third party if the lessee: (a) Has a security interest in the goods; (b) Has an insurable interest in the goods; or (c) Bears the risk of loss under the lease contract or has since the injury assumed that risk as against the lessor and the goods have been converted or destroyed.
-
-(2) If at the time of the injury the party plaintiff did not bear the risk of loss as against the other party to the lease contract and there is no arrangement between them for disposition of the recovery, the plaintiff’s suit or settlement, subject to the plaintiff’s own interest, is as a fiduciary for the other party to the lease contract.
-
-(3) Either party with the consent of the other may sue for the benefit of whom it may concern. [1989 c.676 §78] _______________
+(5) After a lessee has wrongfully rejected or revoked acceptance of goods, has failed to pay rent then due or has repudiated as provided in ORS 72A.4020, a lessor who is held not entitled to rent under this section must nevertheless be awarded damages for nonacceptance under ORS 72A.5270 and 72A.5280. [1989 c.676 §76; 1993 c.646 §19] 
 
 ## Provenance & change history
 

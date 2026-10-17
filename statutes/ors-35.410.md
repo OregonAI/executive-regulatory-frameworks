@@ -52,19 +52,7 @@ ORS 35.410 — Right to contest change in public purpose use; notice of proposed
 
 (1) or a judgment given under ORS 35.235 and 35.385 (2), whichever applies, or the designated beneficiary of such owner, may contest any proposed change by the condemner in the public purpose for which such real property was acquired in the manner provided for contesting a change in the period specified for the use of such real property by the condemner under ORS 35.395 (4). The resolution or ordinance of the condemner is presumptive evidence that a proposed change of use proposed by the condemner is reasonable and necessary in the public interest. Each condemner proposing any such change in public purpose shall notify each such owner or designated beneficiary of such proposed change and the reasons therefor in the manner provided in ORS 35.395
 
-(2) for notification of a proposed change in the period specified for use of such real property by the condemner. Each such notice shall be mailed to the most recent address of the owner or designated beneficiary of record with the condemner. [1973 c.720 §7] 35.415 Application of ORS 35.385 to 35.415.
-
-(1) ORS 35.385 to 35.415 apply only to property acquired after the filing of a complaint pursuant to a resolution or ordinance adopted as provided in ORS 35.235
-
-(1) on or after October 5, 1973, and for which a condemnation action is commenced on or after October 5, 1973.
-
-(2) Notwithstanding ORS 35.375, ORS 35.385 to 35.415 apply to real property acquired by a county pursuant to ORS chapter 368.
-
-(3) ORS 35.385 to 35.415 shall not apply to any real property acquired under ORS 35.385
-
-(1) and
-
-(2) after the date the real property is used for the purpose for which it was acquired nor shall ORS 35.385 to 35.415 apply to any tract of real property where the compensation and damages paid to the owner is less than $1,000. [1973 c.720 §8; 1981 c.153 §53]
+(2) for notification of a proposed change in the period specified for use of such real property by the condemner. Each such notice shall be mailed to the most recent address of the owner or designated beneficiary of record with the condemner. [1973 c.720 §7] 
 
 ## Provenance & change history
 

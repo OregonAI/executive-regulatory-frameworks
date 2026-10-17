@@ -60,13 +60,7 @@ ORS 30.980 — Notice to ski area operator of injury to skier; injuries resultin
 
 (5) of this section.
 
-(5) Ski area operators shall give to skiers, in a manner reasonably calculated to inform, notice of the requirements for notifying a ski area operator of injury and the effect of a failure to provide such notice under this section. [1979 c.665 §3] 30.985 Duties of skiers; effect of failure to comply.
-
-(1) Skiers shall have duties which include but are not limited to the following: (a) Skiers who ski in any area not designated for skiing within the permit area assume the inherent risks thereof. (b) Skiers shall be the sole judges of the limits of their skills and their ability to meet and overcome the inherent risks of skiing and shall maintain reasonable control of speed and course. (c) Skiers shall abide by the directions and instructions of the ski area operator. (d) Skiers shall familiarize themselves with posted information on location and degree of difficulty of trails and slopes to the extent reasonably possible before skiing on any slope or trail. (e) Skiers shall not cross the uphill track of any surface lift except at points clearly designated by the ski area operator. (f) Skiers shall not overtake any other skier except in such a manner as to avoid contact and shall grant the right of way to the overtaken skier. (g) Skiers shall yield to other skiers when entering a trail or starting downhill. (h) Skiers must wear retention straps or other devices to prevent runaway skis. (i) Skiers shall not board rope tows, wire rope tows, j-bars, t-bars, ski lifts or other similar devices unless they have sufficient ability to use the devices, and skiers shall follow any written or verbal instructions that are given regarding the devices. (j) Skiers, when involved in a skiing accident, shall not depart from the ski area without leaving their names and addresses if reasonably possible. (k) A skier who is injured should, if reasonably possible, give notice of the injury to the ski area operator before leaving the ski area. (L) Skiers shall not embark or disembark from a ski lift except at designated areas or by the authority of the ski area operator.
-
-(2) Violation of any of the duties of skiers set forth in subsection
-
-(1) of this section entitles the ski area operator to withdraw the violator’s privilege of skiing. [1979 c.665 §4] 30.990 Operators required to give skiers notice of duties. Ski area operators shall give notice to skiers of their duties under ORS 30.985 in a manner reasonably calculated to inform skiers of those duties. [1979 c.665 §5]
+(5) Ski area operators shall give to skiers, in a manner reasonably calculated to inform, notice of the requirements for notifying a ski area operator of injury and the effect of a failure to provide such notice under this section. [1979 c.665 §3] 
 
 ## Provenance & change history
 

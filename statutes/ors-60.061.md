@@ -52,17 +52,7 @@ ORS 60.061 — Bylaws. Chapter 60 (Private Corporations), 2025 Edition.
 
 (1) The incorporators or board of directors of a corporation shall adopt initial bylaws for the corporation.
 
-(2) The bylaws of a corporation may contain any provision for managing the business and regulating the affairs of the corporation that is not inconsistent with law or the articles of incorporation. [1987 c.52 §20] 60.064 Emergency bylaws.
-
-(1) Unless the articles of incorporation provide otherwise, the board of directors of a corporation may adopt bylaws to be effective only in an emergency defined in subsection
-
-(4) of this section. The emergency bylaws, which are subject to amendment or repeal by the shareholders, may contain all provisions necessary for managing the corporation during the emergency, including: (a) Procedures for calling a meeting of the board of directors; (b) Quorum requirements for the meeting; and (c) Designation of additional or substitute directors.
-
-(2) All provisions of the regular bylaws consistent with the emergency bylaws remain effective during the emergency. The emergency bylaws are not effective after the emergency ends.
-
-(3) Corporate action taken in good faith in accordance with the emergency bylaws binds the corporation and may not be used to impose liability on a corporate director, officer, employee or agent.
-
-(4) An emergency exists for purposes of this section if a quorum of the corporation’s directors cannot readily be assembled because of some catastrophic event. [1987 c.52 §21] 60.070 [Repealed by 1953 c.549 §138]
+(2) The bylaws of a corporation may contain any provision for managing the business and regulating the affairs of the corporation that is not inconsistent with law or the articles of incorporation. [1987 c.52 §20] 
 
 ## Provenance & change history
 

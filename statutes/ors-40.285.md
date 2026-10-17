@@ -52,13 +52,7 @@ ORS 40.285 — Rule 512. Privileged matter disclosed under compulsion or without
 
 (1) Compelled erroneously; or
 
-(2) Made without opportunity to claim the privilege. [1981 c.892 §40] 40.290 Rule 513. Comment upon or inference from claim of privilege.
-
-(1) The claim of a privilege, whether in the present proceeding or upon a prior occasion, is not a proper subject of comment by judge or counsel. No inference may be drawn from a claim of privilege.
-
-(2) In jury cases, proceedings shall be conducted, to the extent practicable, so as to facilitate the making of claims of privilege without the knowledge of the jury.
-
-(3) Upon request, any party against whom the jury might draw an adverse inference from a claim of privilege is entitled to an instruction that no inference may be drawn therefrom. [1981 c.892 §41] 40.295 Rule 514. Effect on existing privileges. Unless expressly repealed by section 98, chapter 892, Oregon Laws 1981, all existing privileges either created under the Constitution or statutes of the State of Oregon or developed by the courts of Oregon are recognized and shall continue to exist until changed or repealed according to law. [1981 c.892 §42]
+(2) Made without opportunity to claim the privilege. [1981 c.892 §40] 
 
 ## Provenance & change history
 

@@ -46,7 +46,7 @@ ORS 24.320 — Supplementary general principles of law. Chapter 24 (Enforcement 
 
 ## Full text
 
-24.320 Supplementary general principles of law. Unless displaced by particular provisions of ORS 24.260 to 24.335, the principles of law and equity, including the law merchant, and the law relative to capacity to contract, principal and agent, estoppel, fraud, misrepresentation, duress, coercion, mistake, bankruptcy or other validating or invalidating causes supplement its provisions. [1991 c.202 §14] 24.325 Uniformity of application and construction. ORS 24.260 to 24.335 shall be applied and construed to effectuate its general purpose to make uniform the law with respect to the subject of ORS 24.260 to 24.335 among states enacting it. [1991 c.202 §15] 24.330 Severability. If any provision of ORS 24.260 to 24.335 or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of ORS 24.260 to 24.335 which can be given effect without the invalid provision or application, and to this end the provisions of ORS 24.260 to 24.335 are severable. [1991 c.202 §17] 24.335 Short title. ORS 24.260 to 24.335 may be cited as the Uniform Foreign-Money Claims Act. [1991 c.202 §16]
+24.320 Supplementary general principles of law. Unless displaced by particular provisions of ORS 24.260 to 24.335, the principles of law and equity, including the law merchant, and the law relative to capacity to contract, principal and agent, estoppel, fraud, misrepresentation, duress, coercion, mistake, bankruptcy or other validating or invalidating causes supplement its provisions. [1991 c.202 §14] 
 
 ## Provenance & change history
 

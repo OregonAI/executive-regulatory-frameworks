@@ -46,11 +46,7 @@ ORS 67.800 — Uniformity of application and construction. Chapter 67 (Partnersh
 
 ## Full text
 
-67.800 Uniformity of application and construction. This chapter shall be applied and construed to effectuate its general purpose to make uniform the law with respect to the subject of this chapter among states enacting it. [1997 c.775 §80] 67.805 Severability. If any provision of this chapter or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of this chapter that can be given effect without the invalid provision or application, and to this end the provisions of this chapter are severable. [1997 c.775 §82] 67.810 Partnership subject to amendment or repeal of chapter. All or part of this chapter may be amended or repealed at any time and all partnerships subject to this chapter are governed by any amendment or repeal. [1997 c.775 §83] 67.815 Short title. This chapter may be cited as the Oregon Revised Partnership Act. [1997 c.775 §81] PENALTY 67.990 Penalty for signing false document.
-
-(1) A person commits the crime of signing a false document for filing if the person: (a) Knows the document is false in any material respect; and (b) Signs the document with an intent that the document be delivered to the office of the Secretary of State for filing under this chapter.
-
-(2) Signing a false document for filing is a Class A misdemeanor. [2013 c.158 §8] _______________
+67.800 Uniformity of application and construction. This chapter shall be applied and construed to effectuate its general purpose to make uniform the law with respect to the subject of this chapter among states enacting it. [1997 c.775 §80] 
 
 ## Provenance & change history
 

@@ -46,13 +46,7 @@ ORS 70.330 — Judgment of dissolution. Chapter 70 (Limited Partnerships), 2025 
 
 ## Full text
 
-70.330 Judgment of dissolution. On application by or for a partner, the circuit court may enter a judgment for the dissolution of a limited partnership whenever it is not reasonably practicable to carry on the business in conformity with the partnership agreement. [1985 c.677 §46; 2003 c.576 §332] 70.335 Who may wind up partnership affairs. Except as provided in the partnership agreement, the general partners who have not wrongfully dissolved a limited partnership or, if no such general partners, the limited partners, may wind up the limited partnership’s affairs. However, the circuit court upon cause shown may wind up the limited partnership’s affairs upon application of any partner, or the partner’s legal representative or assignee. [1985 c.677 §47] 70.340 Distribution of assets. Upon the winding up of a limited partnership, the assets shall be distributed as follows:
-
-(1) To the extent permitted by law, to creditors, including partners who are creditors, in satisfaction of liabilities of the limited partnership other than liabilities for distributions to partners under ORS 70.250 or 70.260.
-
-(2) Except as provided in the partnership agreement, to partners and former partners in satisfaction of liabilities for distributions under ORS 70.250 or 70.260.
-
-(3) Except as provided in the partnership agreement, to partners as follows: (a) First, for the return of their contributions; and (b) Secondly, respecting their partnership interests, in the proportions in which the partners share in distributions. [1985 c.677 §48]
+70.330 Judgment of dissolution. On application by or for a partner, the circuit court may enter a judgment for the dissolution of a limited partnership whenever it is not reasonably practicable to carry on the business in conformity with the partnership agreement. [1985 c.677 §46; 2003 c.576 §332] 
 
 ## Provenance & change history
 

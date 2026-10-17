@@ -48,7 +48,7 @@ ORS 8.850 — Offices, supplies and stenographic assistance for district attorne
 
 ## Full text
 
-8.850 Offices, supplies and stenographic assistance for district attorneys and deputies. Each county shall provide the district attorney and any deputies for such county with such office space, facilities, supplies and stenographic assistance as is necessary to perform efficiently the duties of such office. [1953 c.652 §3] 8.852 Salary plan for district attorneys. The district attorneys of the various counties shall be paid monthly salaries as adopted in the salary plan provided for in ORS 240.240 (2), to include salary adjustments awarded management service employees. [1991 c.432 §2; reenacted by 1993 c.290 §2; reenacted by 1995 c.9 §2; reenacted by 1997 c.75 §2] _______________
+8.850 Offices, supplies and stenographic assistance for district attorneys and deputies. Each county shall provide the district attorney and any deputies for such county with such office space, facilities, supplies and stenographic assistance as is necessary to perform efficiently the duties of such office. [1953 c.652 §3] 
 
 ## Provenance & change history
 

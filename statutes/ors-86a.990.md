@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-86a.990
-title: "Criminal penalties for violations of ORS"
+title: "Criminal penalties for violations of ORS 86A.095 to 86A.198"
 doc_type: statute
 citation: "ORS 86A.990"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-86a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors086a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Criminal penalties for violations of ORS (ORS 86A.990)
+# Criminal penalties for violations of ORS 86A.095 to 86A.198 (ORS 86A.990)
 
 ## At a glance
 
-ORS 86A.990 — Criminal penalties for violations of ORS. Chapter 86A (Mortgage Lending), 2025 Edition.
+ORS 86A.990 — Criminal penalties for violations of ORS 86A.095 to 86A.198. Chapter 86A (Mortgage Lending), 2025 Edition.
 
 ## Full text
 
@@ -54,19 +54,7 @@ ORS 86A.990 — Criminal penalties for violations of ORS. Chapter 86A (Mortgage 
 
 (2) Violation of ORS 86A.145
 
-(2) is a Class A misdemeanor. [Formerly 59.992] 86A.992 Civil penalties for violations of ORS 86A.095 to 86A.198.
-
-(1) In addition to all other penalties and enforcement provisions provided by law, any person who violates or who procures, aids or abets in the violation of any provision of ORS 86A.095 to 86A.198 or any rule or order of the Director of the Department of Consumer and Business Services shall be subject to a penalty of not more than $5,000 for every violation, which shall be paid to the General Fund of the State Treasury.
-
-(2) Notwithstanding subsection
-
-(1) of this section, a person who fails to submit a report required under ORS 86A.112
-
-(3) on the date specified is subject to a penalty of not more than $100 per day for each day after the specified date during which the failure continues.
-
-(3) Every violation is a separate offense and, in the case of a continuing violation, each day’s continuance is a separate violation, but the maximum penalty for any continuing violation shall not exceed $20,000 for each offense.
-
-(4) Civil penalties under this section shall be imposed as provided in ORS 183.745. [Formerly 59.996] _______________
+(2) is a Class A misdemeanor. [Formerly 59.992] 
 
 ## Provenance & change history
 

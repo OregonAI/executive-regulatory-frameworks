@@ -72,13 +72,7 @@ ORS 74.4060 — Statements to customer; requirements; retaining copies of items;
 
 (6) Without regard to care or lack of care of either the customer or the bank, a customer who does not within 180 days after the statement or items are made available to the customer as provided in subsection
 
-(1) of this section discover and report the customer’s unauthorized signature on or any alteration on the face or back of the item or does not within 18 months from that time discover and report any unauthorized indorsement on the item is precluded from asserting against the bank the unauthorized signature or indorsement or alteration. If there is a preclusion under this subsection, the payor bank may not recover for breach of warranty under ORS 74.2080 with respect to the unauthorized signature or indorsement or alteration to which the preclusion applies. [1961 c.726 §74.4060; 1989 c.604 §1; 1993 c.545 §108] 74.4070 Payor bank’s right to subrogation on improper payment. If a payor bank has paid an item over the order of the drawer or maker to stop payment, or after an account has been closed, or otherwise under circumstances giving a basis for objection by the drawer or maker, to prevent unjust enrichment and only to the extent necessary to prevent loss to the bank by reason of its payment of the item, the payor bank shall be subrogated to the rights:
-
-(1) Of any holder in due course on the item against the drawer or maker; and
-
-(2) Of the payee or any other holder of the item against the drawer or maker either on the item or under the transaction out of which the item arose; and
-
-(3) Of the drawer or maker against the payee or any other holder of the item with respect to the transaction out of which the item arose. [1961 c.726 §74.4070; 1993 c.545 §109]
+(1) of this section discover and report the customer’s unauthorized signature on or any alteration on the face or back of the item or does not within 18 months from that time discover and report any unauthorized indorsement on the item is precluded from asserting against the bank the unauthorized signature or indorsement or alteration. If there is a preclusion under this subsection, the payor bank may not recover for breach of warranty under ORS 74.2080 with respect to the unauthorized signature or indorsement or alteration to which the preclusion applies. [1961 c.726 §74.4060; 1989 c.604 §1; 1993 c.545 §108] 
 
 ## Provenance & change history
 

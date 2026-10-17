@@ -55,7 +55,7 @@ ORS 86A.239 — Display of license and unique identifier; rules; report of condi
 
 (2) A person that employs a licensed mortgage loan originator shall submit a report of condition to the Nationwide Mortgage Licensing System and Registry. The form and contents of the report and the times at which the licensed mortgage loan originator submits the report shall comply with the specifications of the Nationwide Mortgage Licensing System and Registry.
 
-(3) A loan processor or underwriter may not represent to the public by means of advertising, business cards, stationery, brochures, signs, rate lists or other communications, promotional items or methods that the loan processor or underwriter can, will or is authorized to perform the duties of a mortgage loan originator unless the loan processor or underwriter obtains a mortgage loan originator’s license under ORS 86A.212. [2009 c.863 §13] 86A.242 Rules. The Director of the Department of Consumer and Business Services may adopt, amend and repeal rules that are necessary to carry out the provisions of ORS 86A.200 to 86A.239. [2009 c.863 §13a]
+(3) A loan processor or underwriter may not represent to the public by means of advertising, business cards, stationery, brochures, signs, rate lists or other communications, promotional items or methods that the loan processor or underwriter can, will or is authorized to perform the duties of a mortgage loan originator unless the loan processor or underwriter obtains a mortgage loan originator’s license under ORS 86A.212. [2009 c.863 §13] 
 
 ## Provenance & change history
 

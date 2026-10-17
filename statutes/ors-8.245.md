@@ -48,13 +48,7 @@ ORS 8.245 — Trial court administrators and other personnel not to engage in pr
 
 ## Full text
 
-8.245 Trial court administrators and other personnel not to engage in private practice of law. Trial court administrators appointed under ORS 8.195 and other nonjudicial officers and employees of the circuit courts who are appointed under a personnel plan established by the Chief Justice of the Supreme Court shall not engage in the private practice of law. [1981 s.s. c.3 §15; 1997 c.801 §119] 8.255 Agreement between state and county to provide services with county employees; payment to county; supervision of employees.
-
-(1) The State Court Administrator, on behalf of the state, and the governing body of a county, on behalf of the county, may enter into an agreement whereby services required to be provided by the state for the circuit court for the county are provided by employees of the county, instead of by state officers and employees, and the expenses of the county in providing those services are paid to the county by the state from funds available for the purpose.
-
-(2) County employees providing services under an agreement shall be under the supervision and control of the trial court administrator appointed under ORS 8.195. County employees providing services under an agreement are not thereby state employees. County employees providing services under an agreement shall not engage in the private practice of law.
-
-(3) With the prior approval of the State Court Administrator, a trial court administrator appointed under ORS 8.195, on behalf of the state, and the governing body of a county, on behalf of the county, may enter into an agreement under this section in respect to services for a circuit court for the county served by the trial court administrator. [1981 s.s. c.3 §16; 1995 c.781 §20; 1997 c.801 §120] 8.260 [1953 c.34 §6; repealed by 1959 c.552 §16]
+8.245 Trial court administrators and other personnel not to engage in private practice of law. Trial court administrators appointed under ORS 8.195 and other nonjudicial officers and employees of the circuit courts who are appointed under a personnel plan established by the Chief Justice of the Supreme Court shall not engage in the private practice of law. [1981 s.s. c.3 §15; 1997 c.801 §119] 
 
 ## Provenance & change history
 

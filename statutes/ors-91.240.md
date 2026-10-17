@@ -58,9 +58,7 @@ ORS 91.240 — Gambling leases prohibited; status of rental contracts; terminati
 
 (3) Any person letting or renting any room, building, or place mentioned in subsection
 
-(1) of this section which is at any time used by the lessee or occupant thereof, or any other person with the knowledge or consent of the lessee or occupant, for gambling purposes, upon discovery thereof, may avoid and terminate such lease or contract of occupancy, and recover immediate possession of such building or other place by an action at law for that purpose to be brought before any justice of the peace of the county in which the use is permitted. [Formerly 91.410] 91.245 Penalty for letting or renting a place for gambling purposes. Violation of ORS 91.240
-
-(1) results in a forfeiture of twice the amount of the rent of such building or other place for six months to be recovered by action at law instituted by the district attorney in the name of the state. [Formerly 91.420]
+(1) of this section which is at any time used by the lessee or occupant thereof, or any other person with the knowledge or consent of the lessee or occupant, for gambling purposes, upon discovery thereof, may avoid and terminate such lease or contract of occupancy, and recover immediate possession of such building or other place by an action at law for that purpose to be brought before any justice of the peace of the county in which the use is permitted. [Formerly 91.410] 
 
 ## Provenance & change history
 

@@ -66,27 +66,7 @@ ORS 74A.4050 — Payment by beneficiary’s bank to beneficiary. Chapter 74A (Fu
 
 (5) This subsection applies to a funds transfer that includes a payment order transmitted over a funds-transfer system that nets obligations multilaterally among participants, and has in effect a loss-sharing agreement among participants for the purpose of providing funds necessary to complete settlement of the obligations of one or more participants that do not meet their settlement obligations. If the beneficiary’s bank in the funds transfer accepts a payment order and the system fails to complete settlement pursuant to its rules with respect to any payment order in the funds transfer: (a) The acceptance by the beneficiary’s bank is nullified and no person has any right or obligation based on the acceptance; (b) The beneficiary’s bank is entitled to recover payment from the beneficiary; (c) No payment by the originator to the beneficiary occurs under ORS 74A.4060; and (d) Subject to ORS 74A.4020 (5), each sender in the funds transfer is excused from its obligation to pay its payment order under ORS 74A.4020
 
-(3) because the funds transfer has not been completed. [1991 c.442 §30] 74A.4060 Payment by originator to beneficiary; discharge of underlying obligation.
-
-(1) Subject to ORS 74A.2110
-
-(5) and 74A.4050
-
-(4) and (5), the originator of a funds transfer pays the beneficiary of the originator’s payment order: (a) At the time a payment order for the benefit of the beneficiary is accepted by the beneficiary’s bank in the funds transfer; and (b) In an amount equal to the amount of the order accepted by the beneficiary’s bank, but not more than the amount of the originator’s order.
-
-(2) If payment under subsection
-
-(1) of this section is made to satisfy an obligation, the obligation is discharged to the same extent discharge would result from payment to the beneficiary of the same amount in money, unless: (a) The payment under subsection
-
-(1) of this section was made by a means prohibited by the contract of the beneficiary with respect to the obligation; (b) The beneficiary, within a reasonable time after receiving notice of receipt of the order by the beneficiary’s bank, notified the originator of the beneficiary’s refusal of the payment; (c) Funds with respect to the order were not withdrawn by the beneficiary or applied to a debt of the beneficiary; and (d) The beneficiary would suffer a loss that could reasonably have been avoided if payment had been made by a means complying with the contract.
-
-(3) If payment by the originator does not result in discharge under this section, the originator is subrogated to the rights of the beneficiary to receive payment from the beneficiary’s bank under ORS 74A.4040 (1).
-
-(4) For the purpose of determining whether discharge of an obligation occurs under subsection
-
-(2) of this section, if the beneficiary’s bank accepts a payment order in an amount equal to the amount of the originator’s payment order less charges of one or more receiving banks in the funds transfer, payment to the beneficiary is deemed to be in the amount of the originator’s order unless upon demand by the beneficiary the originator does not pay the beneficiary the amount of the deducted charges.
-
-(5) Rights of the originator or of the beneficiary of a funds transfer under this section may be varied only by agreement of the originator and the beneficiary. [1991 c.442 §31]
+(3) because the funds transfer has not been completed. [1991 c.442 §30] 
 
 ## Provenance & change history
 

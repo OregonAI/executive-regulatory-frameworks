@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-62.482
-title: "Application of ORS"
+title: "Application of ORS 62.462 to 62.482"
 doc_type: statute
 citation: "ORS 62.482"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-62"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors062.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Application of ORS (ORS 62.482)
+# Application of ORS 62.462 to 62.482 (ORS 62.482)
 
 ## At a glance
 
-ORS 62.482 — Application of ORS. Chapter 62 (Cooperatives), 2025 Edition.
+ORS 62.482 — Application of ORS 62.462 to 62.482. Chapter 62 (Cooperatives), 2025 Edition.
 
 ## Full text
 

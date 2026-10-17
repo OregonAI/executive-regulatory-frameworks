@@ -76,19 +76,7 @@ ORS 30.140 — Void and unenforceable provisions relating to indemnification and
 
 (4) This section does not apply to: (a) Any real property lease or rental agreement between a landlord and tenant whether or not any provision of the lease or rental agreement relates to or involves planning, design, construction, alteration, repair, improvement or maintenance as long as the predominant purpose of the lease or rental agreement is not planning, design, construction, alteration, repair, improvement or maintenance of real property; or (b) Any personal property lease or rental agreement.
 
-(5) No provision of this section shall be construed to apply to a “railroad” as defined in ORS 824.200. 30.142 [2001 c.616 §1; renumbered 31.150 in 2003] 30.144 [2001 c.616 §2; renumbered 31.152 in 2003] 30.145 Void provisions relating to waivers in construction agreements.
-
-(1) Except as provided in this section, a provision in a construction agreement is void to the extent that the provision requires a party or the party’s surety or insurer to waive a right of subrogation, indemnity or contribution for amounts paid by reason of death or bodily injury, or damage to property, caused in whole or in part by the negligence of another person.
-
-(2) This section does not apply to a provision for waiver of subrogation, indemnity or contribution in an insurance policy issued pursuant to ORS 737.602 or to a provision for waiver of subrogation, indemnity or contribution that applies to proceeds of a property insurance policy.
-
-(3) This section does not apply to a provision for waiver of subrogation, indemnity or contribution in a real property lease or rental agreement between a landlord and tenant, whether or not any provision of the lease or rental agreement relates to or involves planning, designing, constructing, altering, repairing, improving or maintaining, as long as the predominant purpose of the lease or rental agreement is not planning, designing, constructing, altering, repairing, improving or maintaining real property.
-
-(4) This section does not apply to a provision for waiver of subrogation, indemnity or contribution in a personal property lease or rental agreement.
-
-(5) This section does not apply to a provision for waiver of subrogation, indemnity or contribution in a construction agreement in which one of the parties is a railroad as defined in ORS 824.200.
-
-(6) As used in this section, “construction agreement” has the meaning given that term in ORS 30.140. [2011 c.518 §1] 30.146 [2001 c.616 §3; renumbered 31.155 in 2003] 30.150 [Formerly 30.760; renumbered 31.200 in 2003] 30.155 [1955 c.365 §1; renumbered 31.205 in 2003] 30.160 [1955 c.365 §2; renumbered 31.210 in 2003] 30.165 [1955 c.365 §3; 1991 c.249 §4; renumbered 31.215 in 2003] 30.170 [1955 c.365 §4; renumbered 31.220 in 2003] 30.175 [1955 c.365 §5; renumbered 31.225 in 2003]
+(5) No provision of this section shall be construed to apply to a “railroad” as defined in ORS 824.200. 30.142 [2001 c.616 §1; renumbered 31.150 in 2003] 30.144 [2001 c.616 §2; renumbered 31.152 in 2003] 
 
 ## Provenance & change history
 

@@ -46,15 +46,7 @@ ORS 74A.1070 — Federal Reserve regulations and operating circulars. Chapter 74
 
 ## Full text
 
-74A.1070 Federal Reserve regulations and operating circulars. Regulations of the Board of Governors of the Federal Reserve System and operating circulars of the Federal Reserve Banks supersede any inconsistent provision of this chapter to the extent of the inconsistency. [1991 c.442 §7] 74A.1080 Exclusion of consumer transactions covered by federal law; remittance transfers.
-
-(1) Except as provided in subsection
-
-(2) of this section, this chapter does not apply to a funds transfer any part of which is governed by the Electronic Fund Transfer Act of 1978 (Title XX, P.L. 95.630, 92 Stat. 3728, 15 U.S.C. 1693 et seq.).
-
-(2) This chapter applies to a funds transfer that is a remittance transfer, as defined in 15 U.S.C. 1693o-1, unless the remittance transfer is an electronic fund transfer, as defined in 15 U.S.C. 1693a.
-
-(3) In a funds transfer to which this chapter applies, if an applicable provision of this chapter is inconsistent with an applicable provision of the Electronic Fund Transfer Act, the provision of the Electronic Fund Transfer Act governs to the extent of the inconsistency. [1991 c.442 §8; 2013 c.23 §1]
+74A.1070 Federal Reserve regulations and operating circulars. Regulations of the Board of Governors of the Federal Reserve System and operating circulars of the Federal Reserve Banks supersede any inconsistent provision of this chapter to the extent of the inconsistency. [1991 c.442 §7] 
 
 ## Provenance & change history
 

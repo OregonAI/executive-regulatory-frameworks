@@ -46,7 +46,7 @@ ORS 81.260 — Place to file effective financing statement. Chapter 81 (Tender a
 
 ## Full text
 
-81.260 Place to file effective financing statement. The proper place to file an effective financing statement on farm products as defined in ORS 81.230 is in the office of the Secretary of State. [Formerly 80.127] 81.263 Place to register as buyer of farm product, commission merchant or selling agent; duration of registration; fee; rules. The proper place to register under ORS 81.251 as a buyer of farm products or a commission merchant or selling agent of farm products as defined in ORS 81.230 is in the office of the Secretary of State. The registration is effective for one year following the date of registration. Registration may be amended by filing a new registration. The Secretary of State shall, by rule, prescribe the registration fee. [Formerly 80.130] _______________
+81.260 Place to file effective financing statement. The proper place to file an effective financing statement on farm products as defined in ORS 81.230 is in the office of the Secretary of State. [Formerly 80.127] 
 
 ## Provenance & change history
 

@@ -54,21 +54,7 @@ ORS 8.440 — Grounds for revocation, suspension or refusal to issue certificate
 
 (2) The administrator may revoke, suspend or refuse to issue any certificate described in ORS 8.415 to 8.455 or policies of the administrator in the case of a violation of any provision of ORS 8.415 to 8.455 or policies of the administrator.
 
-(3) The administrator may require additional education or training if the administrator finds the person engages in or has engaged in conduct that evidences a lack of knowledge or ability to apply skills of stenographic reporting or voicewriting reporting. [Formerly 703.408; 2013 c.470 §4] 8.445 Fees.
-
-(1) The State Court Administrator shall establish and collect reasonable fees for applications, examinations, certifications and renewals of certification authorized by ORS 8.415 to 8.455.
-
-(2) Fees collected under this section are nonrefundable.
-
-(3) The fees established under this section may not exceed the cost of administering and enforcing ORS 8.415 to 8.455. [Formerly 703.410; 2003 c.737 §99; 2013 c.155 §6; 2013 c.470 §5] 8.450 Disposition of fees and other revenues. All fees, moneys and other revenues received or collected under ORS 8.415 to 8.455 shall be paid into the account established in ORS 45.294, and such moneys are continuously appropriated to the State Court Administrator for the administration and enforcement of ORS 8.415 to 8.455. [Formerly 703.412] 8.455 Advisory committee, membership; terms.
-
-(1) There is created a Certified Shorthand Reporters Advisory Committee consisting of no more than seven members appointed by the State Court Administrator. At least four members of the advisory committee shall be persons skilled in the practice of stenographic reporting or voicewriting reporting and shall have been engaged continuously in the practice of stenographic reporting or voicewriting reporting for a period of not less than five years prior to the date of appointment as a member of the advisory committee. Appointees must be certified under ORS 8.415 to 8.455.
-
-(2) The term of a member of the advisory committee shall be three years. A member is eligible for reappointment to the advisory committee. Vacancies occurring shall be filled by appointment for the unexpired term.
-
-(3) The advisory committee shall organize by the election of one of its members as president and one as secretary.
-
-(4) A majority of the advisory committee shall constitute a quorum for all purposes. [Formerly 703.414; 2013 c.155 §7; 2013 c.470 §6] 8.510 [Amended by 1953 c.566 §2; 1957 c.706 §1; 1963 c.494 §1; 1981 c.215 §9; repealed by 1981 s.s c.3 §141]
+(3) The administrator may require additional education or training if the administrator finds the person engages in or has engaged in conduct that evidences a lack of knowledge or ability to apply skills of stenographic reporting or voicewriting reporting. [Formerly 703.408; 2013 c.470 §4] 
 
 ## Provenance & change history
 

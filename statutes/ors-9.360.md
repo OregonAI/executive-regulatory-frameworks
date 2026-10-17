@@ -48,17 +48,7 @@ ORS 9.360 — Compelling delivery by attorney of money or papers. Chapter 9 (Ore
 
 ## Full text
 
-9.360 Compelling delivery by attorney of money or papers. When an attorney refuses to deliver over money or papers to a person from whom or for whom the attorney has received them in the course of professional employment, the attorney may be required by an order of the court in which a judicial proceeding was prosecuted or defended, or if none were prosecuted or defended, then by an order of the circuit court or judge thereof for the county where such attorney resides or may be found, to do so within a specified time, or show cause why the attorney should not be punished for a contempt. 9.370 Compelling delivery when attorney claims lien. If an attorney claims a lien, under the provisions of ORS 87.430, upon the money or papers subject to delivery under ORS 9.360, the court shall:
-
-(1) Impose, as a condition of making the order, the requirement that the client give security, in form and amount to be directed, to satisfy the lien when determined in an action or suit;
-
-(2) Summarily inquire into the facts on which the claim of a lien is founded, and determine the same; or
-
-(3) Direct the trial of the controversy by a jury, or refer it, and upon the verdict or report, determine the same as in other cases. [Amended by 1975 c.648 §70; 1991 c.67 §2; 2003 c.14 §9] 9.380 Changing attorneys and terminating attorney-client relationship.
-
-(1) The attorney in an action or proceeding may be changed, or the relationship of attorney and client terminated, as follows: (a) Before judgment or final determination, upon the consent of the attorney filed with the clerk or entered in the appropriate record of the court; or (b) At any time, upon the order of the court, based on the application of the client or the attorney, for good and sufficient cause.
-
-(2) The relationship of attorney and client may be terminated after the entry of a judgment or other final determination in an action or proceeding by the filing of a notice of termination of the relationship in the action or proceeding. The notice must be signed by the attorney and must state that all services required of the attorney under the agreement between the attorney and the client have been provided. [Amended by 1985 c.540 §24; 2003 c.576 §278; 2011 c.60 §1] 9.390 Notice of change or termination. When an attorney is changed, or the relationship of attorney and client is terminated, as provided in ORS 9.380, written notice of the change or termination shall be given to the adverse party. Until the notice is given, the adverse party is bound to recognize the former attorney. [Amended by 2011 c.60 §2] 9.400 [1987 c.774 §8; renumbered 20.340 in 1997]
+9.360 Compelling delivery by attorney of money or papers. When an attorney refuses to deliver over money or papers to a person from whom or for whom the attorney has received them in the course of professional employment, the attorney may be required by an order of the court in which a judicial proceeding was prosecuted or defended, or if none were prosecuted or defended, then by an order of the circuit court or judge thereof for the county where such attorney resides or may be found, to do so within a specified time, or show cause why the attorney should not be punished for a contempt. 
 
 ## Provenance & change history
 

@@ -52,17 +52,7 @@ ORS 18.988 — Seller’s right to receive payments under land sale contract. Ch
 
 (1) Except as provided by this section, the right of a seller to receive payments under a land sale contract, as defined by ORS 18.960: (a) May not be sold pursuant to a writ of garnishment; (b) May be sold only under a writ of execution in conjunction with a sale of the seller’s interest in the real property; and (c) Must be levied on and sold in the same manner as provided for real property under ORS 18.860 to 18.993.
 
-(2) This section does not affect the ability of a judgment creditor to garnish payments owed to a seller under a land sale contract, as defined by ORS 18.960, that are due when the writ of garnishment is delivered or within 45 days after the writ of garnishment is delivered, as provided by ORS 18.685 (5). [2005 c.542 §51] 18.989 Equitable interests in property.
-
-(1) Except as provided in subsection
-
-(3) of this section, an equitable interest in property may be sold pursuant to a writ of execution only if: (a) An order or judgment specifically authorizes the sale of the equitable interest; and (b) The writ of execution specifically directs the sale of the equitable interest.
-
-(2) If a writ of execution specifically directs the sale of the equitable interest in property, the judgment creditor must submit a copy of the order or judgment authorizing the sale with the instructions to the sheriff required by ORS 18.875.
-
-(3) If a writ of execution specifically directs the sale of the equitable interest in real property, the equitable interest shall be levied on and sold in the same manner as provided for real property under ORS 18.860 to 18.993.
-
-(4) A purchaser’s interest in a land sale contract, as defined by ORS 18.960, or a leasehold interest in land with an unexpired term of more than two years, may be sold pursuant to a writ of execution even though the sale is not specifically authorized by an order or judgment and the writ does not specifically direct the sale of the interest. [2005 c.542 §52]
+(2) This section does not affect the ability of a judgment creditor to garnish payments owed to a seller under a land sale contract, as defined by ORS 18.960, that are due when the writ of garnishment is delivered or within 45 days after the writ of garnishment is delivered, as provided by ORS 18.685 (5). [2005 c.542 §51] 
 
 ## Provenance & change history
 

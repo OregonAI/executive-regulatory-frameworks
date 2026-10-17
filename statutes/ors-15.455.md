@@ -48,7 +48,7 @@ ORS 15.455 — Agreements on applicable foreign law. Chapter 15 (Choice of Laws)
 
 ## Full text
 
-15.455 Agreements on applicable foreign law. Notwithstanding ORS 15.440, 15.445 and 15.450, but subject to ORS 15.300 to 15.380, an agreement providing that an issue or issues falling within the scope of ORS 15.400 to 15.460 will be governed by the law of a state other than Oregon is enforceable in Oregon if the agreement was entered into after the parties had knowledge of the events giving rise to the dispute. [Formerly 31.885] 15.460 Commentary. The Oregon Law Commission shall make available on the website maintained by the commission a copy of the commentary approved by the commission for the provisions of ORS 15.400 to 15.460. [Formerly 31.890] _______________
+15.455 Agreements on applicable foreign law. Notwithstanding ORS 15.440, 15.445 and 15.450, but subject to ORS 15.300 to 15.380, an agreement providing that an issue or issues falling within the scope of ORS 15.400 to 15.460 will be governed by the law of a state other than Oregon is enforceable in Oregon if the agreement was entered into after the parties had knowledge of the events giving rise to the dispute. [Formerly 31.885] 
 
 ## Provenance & change history
 

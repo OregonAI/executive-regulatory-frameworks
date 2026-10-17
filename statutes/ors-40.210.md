@@ -76,17 +76,7 @@ ORS 40.210 — Rule 412. Sex offense cases; relevance of victim’s past behavio
 
 (5) For purposes of this section: (a) “Alleged victim” includes the petitioner in a proceeding conducted under ORS 163.760 to 163.777. (b) “In camera” means out of the presence of the public and the jury. (c) “Past sexual behavior” means sexual behavior other than: (A) The sexual behavior with respect to which the crime or attempt to commit the crime listed in subsection
 
-(1) of this section is alleged; or (B) In a proceeding conducted under ORS 163.760 to 163.777, the alleged sexual abuse. (d) “Trial” includes a hearing conducted under ORS 163.760 to 163.777. [1981 c.892 §31; 1993 c.301 §1; 1993 c.776 §1; 1997 c.249 §20; 1999 c.949 §3; 2013 c.687 §21; 2013 c.720 §5; 2019 c.13 §20; 2023 c.217 §6] 40.211 Rule 412-1. Evidence not admissible in civil proceeding involving sexual misconduct.
-
-(1) Unless the alleged victim has placed the evidence in controversy and the court determines that the probative value of the evidence substantially outweighs the danger of harm to any victim and of unfair prejudice to any party, the following evidence is not admissible in a civil proceeding involving alleged sexual misconduct: (a) Evidence offered to prove that an alleged victim engaged in other sexual behavior; or (b) Evidence offered to prove an alleged victim’s sexual predisposition.
-
-(2) If a party intends to offer evidence under subsection
-
-(1) of this section, the party must: (a) Make a written motion at least 15 days before the date on which the proceeding in which the evidence is to be offered is scheduled to begin unless the court, for good cause, sets a different time; (b) In the motion, specifically describe the evidence and state the purpose for which it is to be offered; (c) Serve the motion on all parties; and (d) Notify the alleged victim or the alleged victim’s representative.
-
-(3) Before admitting evidence under this section, the court must conduct an in camera hearing and give the alleged victim and parties a right to attend and be heard. Unless the court orders otherwise, the motion, related materials and the record of the hearing are confidential. A party making a motion under this section shall state in the caption that the motion is confidential.
-
-(4) As used in this section, “in camera” means out of the presence of the public and the jury. [2017 c.321 §2] 40.215 Rule 413. Measures and assessments intended to minimize impact of or plan for natural disaster. Evidence of measures taken or vulnerability assessments conducted before a natural disaster occurs that were intended to minimize the impact of or plan for the natural disaster is not admissible to prove negligence or culpable conduct in connection with damage, harm, injury or death resulting from the natural disaster. [2015 c.541 §2]
+(1) of this section is alleged; or (B) In a proceeding conducted under ORS 163.760 to 163.777, the alleged sexual abuse. (d) “Trial” includes a hearing conducted under ORS 163.760 to 163.777. [1981 c.892 §31; 1993 c.301 §1; 1993 c.776 §1; 1997 c.249 §20; 1999 c.949 §3; 2013 c.687 §21; 2013 c.720 §5; 2019 c.13 §20; 2023 c.217 §6] 
 
 ## Provenance & change history
 

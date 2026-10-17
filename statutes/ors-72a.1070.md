@@ -46,11 +46,7 @@ ORS 72A.1070 — Waiver or renunciation of claim or right after default. Chapter
 
 ## Full text
 
-72A.1070 Waiver or renunciation of claim or right after default. Any claim or right arising out of an alleged default or breach of warranty may be discharged in whole or in part without consideration by a waiver or renunciation in a signed record delivered by the aggrieved party. [1989 c.676 §7; 2025 c.33 §16] 72A.1080 Unconscionability.
-
-(1) If the court as a matter of law finds a lease contract or any clause of a lease contract to have been unconscionable at the time it was made the court may refuse to enforce the lease contract, or it may enforce the remainder of the lease contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.
-
-(2) When it is claimed or appears to the court that the lease contract or any clause thereof may be unconscionable, the parties shall be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose and effect to aid the court in making the determination. [1989 c.676 §8] 72A.1090 Option to accelerate at will. A term providing that one party or the party’s successor in interest may accelerate payment or performance or require collateral or additional collateral “at will” or “when the party purports to be insecure” or in words of similar import must be construed to mean that the party has power to do so only if the party in good faith believes that the prospect of payment or performance is impaired. [1989 c.676 §9] 72A.1095 Subordination by agreement. Nothing in this chapter prevents subordination by agreement by any person entitled to priority. [1993 c.646 §22]
+72A.1070 Waiver or renunciation of claim or right after default. Any claim or right arising out of an alleged default or breach of warranty may be discharged in whole or in part without consideration by a waiver or renunciation in a signed record delivered by the aggrieved party. [1989 c.676 §7; 2025 c.33 §16] 
 
 ## Provenance & change history
 

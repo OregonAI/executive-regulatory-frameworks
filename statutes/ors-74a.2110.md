@@ -64,7 +64,7 @@ ORS 74A.2110 — Cancellation and amendment of payment order. Chapter 74A (Funds
 
 (7) A payment order is not revoked by the death or legal incapacity of the sender unless the receiving bank knows of the death or of an adjudication of incapacity by a court of competent jurisdiction and has reasonable opportunity to act before acceptance of the order.
 
-(8) A funds-transfer system rule is not effective to the extent it conflicts with subsection (3)(b) of this section. [1991 c.442 §19; 2025 c.33 §33] 74A.2120 Liability and duty of receiving bank regarding unaccepted payment order. If a receiving bank fails to accept a payment order that it is obliged by express agreement to accept, the bank is liable for breach of the agreement to the extent provided in the agreement or in this chapter, but does not otherwise have any duty to accept a payment order or, before acceptance, to take any action, or refrain from taking action, with respect to the order except as provided in this chapter or by express agreement. Liability based on acceptance arises only when acceptance occurs as stated in ORS 74A.2090 and liability is limited to that provided in this chapter. A receiving bank is not the agent of the sender or beneficiary of the payment order it accepts, or of any other party to the funds transfer, and the bank owes no duty to any party to the funds transfer except as provided in this chapter or by express agreement. [1991 c.442 §20]
+(8) A funds-transfer system rule is not effective to the extent it conflicts with subsection (3)(b) of this section. [1991 c.442 §19; 2025 c.33 §33] 
 
 ## Provenance & change history
 

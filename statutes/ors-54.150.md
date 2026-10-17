@@ -46,15 +46,7 @@ ORS 54.150 — Order for jury selected from jury list; manner of summoning and f
 
 ## Full text
 
-54.150 Order for jury selected from jury list; manner of summoning and forming jury; challenges. The names of the six jurors so selected must be inserted in the order to summon a jury, and thereafter the proceedings in the summoning and formation of the jury must be conducted in the manner provided in ORS 54.020 to 54.040; but neither party is entitled to a peremptory challenge as to any of the six jurors. 54.160 Punishment of jurors. A person duly summoned to attend a justice court as a juror may be punished by the justice of the peace as provided for contempt of court if:
-
-(1) The person fails to attend the justice court as required or fails to give a valid excuse for not attending;
-
-(2) The person fails to give attention to matters before the jury;
-
-(3) The person leaves the court without permission while the court is in session; or
-
-(4) The person without valid excuse otherwise fails to complete required jury service. [Amended by 1999 c.605 §5] _______________
+54.150 Order for jury selected from jury list; manner of summoning and forming jury; challenges. The names of the six jurors so selected must be inserted in the order to summon a jury, and thereafter the proceedings in the summoning and formation of the jury must be conducted in the manner provided in ORS 54.020 to 54.040; but neither party is entitled to a peremptory challenge as to any of the six jurors. 
 
 ## Provenance & change history
 

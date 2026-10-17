@@ -66,13 +66,7 @@ ORS 93.804 — Requirement for original signatures for recording; recordation of
 
 (5) A county clerk may enter into a contract to receive instruments as electronic images or by electronic means with a contractor that presents the instruments for recording on behalf of another person. The contractor or the other person shall certify by electronic means or otherwise that the instrument that the contractor presents for recording, or the instrument from which the electronic image was made, contains the original signatures required under subsection
 
-(2) of this section. [1991 c.230 §21; 2011 c.386 §1; 2019 c.402 §1] 93.806 Recordation of instrument creating certain liens.
-
-(1) Any instrument creating a lien on unpaid rents and profits of real property within this state, by assignment, mortgage, pledge or otherwise, or memorandum thereof, which is executed by the person from whom the lien is intended to be given, and acknowledged or proved in the manner provided for the acknowledgment or proof of other conveyances, may be indexed and recorded in the records of mortgages of real property in the county where such real property is located, as provided in ORS 93.710. Such recordation constitutes notice to third persons, and shall otherwise have the same effect as recordation pursuant to ORS 93.710, specifically, but without limitation, such lien shall not be voidable by and shall not be subordinate to the rights of either: (a) A subsequent lien creditor, as defined in ORS 79A.1020; or (b) A subsequent bona fide purchaser of real property.
-
-(2) Such an assignment, mortgage or pledge shall be so perfected by such recording, without the holder thereof obtaining the appointment of receiver, taking possession of the subject real property, filing a financing statement pursuant to ORS chapter 79A or taking any other action in addition to such recording.
-
-(3) As used in this section, “memorandum” has the meaning provided in ORS 93.710 (3). [1991 c.299 §1; 2001 c.445 §166] Note: 93.806 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 93 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 93.808 Approval of governmental unit required to record certain instruments. An instrument conveying title or interest to the State of Oregon or to a county, city or other political subdivision in this state may not be recorded unless the instrument carries an indication of approval of the conveyance by this state or the political subdivision accepting title or interest. [1999 c.654 §2]
+(2) of this section. [1991 c.230 §21; 2011 c.386 §1; 2019 c.402 §1] 
 
 ## Provenance & change history
 

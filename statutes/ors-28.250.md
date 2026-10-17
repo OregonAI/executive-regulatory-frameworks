@@ -46,7 +46,7 @@ ORS 28.250 — Construction. Chapter 28 (Declaratory Judgments; Certification of
 
 ## Full text
 
-28.250 Construction. ORS 28.200 to 28.255 shall be so construed as to effectuate its general purpose to make uniform the law of those states which enact it. [1983 c.103 §11] Note: See note under 28.200. 28.255 Short title. ORS 28.200 to 28.255 may be cited as the Uniform Certification of Questions of Law Act. [1983 c.103 §12] Note: See note under 28.200. _______________
+28.250 Construction. ORS 28.200 to 28.255 shall be so construed as to effectuate its general purpose to make uniform the law of those states which enact it. [1983 c.103 §11] Note: See note under 28.200. 
 
 ## Provenance & change history
 

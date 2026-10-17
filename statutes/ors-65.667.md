@@ -60,11 +60,7 @@ ORS 65.667 — Receivership or custodianship. Chapter 65 (Nonprofit Corporations
 
 (5) The court periodically during the receivership or custodianship may order compensation paid and expense disbursements or reimbursements made to the receiver or custodian and the receiver’s or custodian’s attorney from the assets of the corporation or proceeds from the sale of the assets.
 
-(6) If applicable under ORS 37.040, the Oregon Receivership Code controls over conflicting provisions of this section. [1989 c.1010 §144; 2017 c.358 §47; 2019 c.174 §97] 65.671 Judgment of dissolution.
-
-(1) If after a hearing a court determines that one or more grounds for judicial dissolution described in ORS 65.661 exist, the court may enter a judgment dissolving the corporation and specifying the effective date of the dissolution. The clerk of the court shall deliver a certified copy of the judgment to the Secretary of State for filing.
-
-(2) After entering the judgment of dissolution, the court shall direct the winding up and liquidation of the corporation’s affairs in accordance with ORS 65.637 and the notification of claimants in accordance with ORS 65.641 and 65.644. [1989 c.1010 §145; 2003 c.576 §329; 2019 c.174 §98] (Disposition of Assets) 65.674 Deposit with State Treasurer. Assets of a dissolved corporation that should be transferred to a creditor, claimant or member of the corporation who cannot be found or who is not competent to receive them shall be reduced to cash unless they are subject to known trust restrictions and deposited with the State Treasurer as unclaimed property under ORS 98.352. However, in the discretion of the State Treasurer, property of unusual historic or aesthetic interest may be received and held in kind. The receiver or other liquidating agent shall prepare in duplicate and under oath a statement containing the names and last-known addresses of the persons entitled to such funds. One of the statements shall be filed with the State Treasurer and another shall be delivered to the Secretary of State for filing. [1989 c.1010 §146; 2019 c.678 §50; 2021 c.424 §27]
+(6) If applicable under ORS 37.040, the Oregon Receivership Code controls over conflicting provisions of this section. [1989 c.1010 §144; 2017 c.358 §47; 2019 c.174 §97] 
 
 ## Provenance & change history
 

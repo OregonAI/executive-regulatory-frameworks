@@ -48,11 +48,7 @@ ORS 71.1050 — Severability. Chapter 71 (General Provisions for Uniform Commerc
 
 ## Full text
 
-71.1050 Severability. If any provision or clause of the Uniform Commercial Code or application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the Uniform Commercial Code that can be given effect without the invalid provision or application, and to this end the provisions of the Uniform Commercial Code are severable. [1961 c.726 §71.1050; 1973 c.504 §1; 1989 c.676 §80; 1991 c.83 §3; 1995 c.328 §66; 1997 c.150 §3; 2001 c.445 §130; 2009 c.181 §4] 71.1060 Use of singular and plural; gender. In the Uniform Commercial Code, unless the statutory context otherwise requires:
-
-(1) Words in the singular number include the plural, and those in the plural include the singular; and
-
-(2) Words of any gender also refer to any other gender. [1961 c.726 §71.1060; 2009 c.181 §5] 71.1070 Captions. The unit and section captions, though set forth in the Uniform Commercial Code, are not part of the statutory law of Oregon. [1961 c.726 §71.1070; 2009 c.181 §6] 71.1080 Relation to Electronic Signatures in Global and National Commerce Act. This chapter modifies, limits and supersedes the federal Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7001 et seq., except that nothing in this chapter modifies, limits or supersedes section 7001(c) of that Act or authorizes electronic delivery of any of the notices described in section 7003(b) of that Act. [1961 c.726 §71.1080; 2009 c.181 §7] 71.1090 [1961 c.726 §71.1090; repealed by 2009 c.181 §116]
+71.1050 Severability. If any provision or clause of the Uniform Commercial Code or application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the Uniform Commercial Code that can be given effect without the invalid provision or application, and to this end the provisions of the Uniform Commercial Code are severable. [1961 c.726 §71.1050; 1973 c.504 §1; 1989 c.676 §80; 1991 c.83 §3; 1995 c.328 §66; 1997 c.150 §3; 2001 c.445 §130; 2009 c.181 §4] 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 8.160 — Administrator and staff not to engage in private practice of law. 
 
 ## Full text
 
-8.160 Administrator and staff not to engage in private practice of law. The State Court Administrator and employees of the administrator shall not engage in the private practice of law. [Amended by 1953 c.382 §4; 1971 c.193 §6; 1981 s.s. c.1 §18] 8.170 Status of court officers and employees. Officers and employees of the Supreme Court, Court of Appeals and Oregon Tax Court, and employees of the State Court Administrator, who are appointed under a personnel plan established by the Chief Justice of the Supreme Court are state officers or employees in the exempt service and not subject to ORS chapter 240. However, such personnel shall have the right to be dismissed only for just cause after hearing and appeal. [1983 c.763 §27] 8.172 [1995 c.658 §146; repealed by 2001 c.823 §24 (1.204 enacted in lieu of 8.172)]
+8.160 Administrator and staff not to engage in private practice of law. The State Court Administrator and employees of the administrator shall not engage in the private practice of law. [Amended by 1953 c.382 §4; 1971 c.193 §6; 1981 s.s. c.1 §18] 
 
 ## Provenance & change history
 

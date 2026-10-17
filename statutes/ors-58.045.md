@@ -52,7 +52,7 @@ ORS 58.045 — Application of general corporation law and merger and conversion 
 
 (1) The Oregon Business Corporation Act is applicable to domestic and foreign professional corporations except when inconsistent with this chapter. This chapter takes precedence in the event of any conflict with provisions of the Oregon Business Corporation Act.
 
-(2) Subject to the limitations of ORS 58.196, all provisions of the Oregon Business Corporation Act governing mergers and conversions apply to domestic and foreign professional corporations. [1969 c.592 §5; 1987 c.94 §15; 1999 c.362 §1] 58.048 When appearance by attorney not required. The provisions of ORS 9.320 requiring that a party that is not a natural person appear by attorney in all cases do not apply to a professional corporation incorporated under this chapter or authorized to render professional service or services in this state where the professional corporation is appearing before state administrative agencies. [1993 c.235 §36; 2015 c.7 §5] 58.050 [Repealed by 1961 c.726 §427] 58.060 [Repealed by 1961 c.726 §427] 58.070 [Repealed by 1961 c.726 §427] 58.075 [1969 c.592 §6; 1987 c.94 §123; repealed by 1993 c.235 §40]
+(2) Subject to the limitations of ORS 58.196, all provisions of the Oregon Business Corporation Act governing mergers and conversions apply to domestic and foreign professional corporations. [1969 c.592 §5; 1987 c.94 §15; 1999 c.362 §1] 
 
 ## Provenance & change history
 

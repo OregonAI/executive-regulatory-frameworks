@@ -56,7 +56,7 @@ ORS 55.195 — Rendering judgment; remand; notice to justice court. Chapter 55 (
 
 (2) of this section, in its discretion and for good cause, the circuit court may render such judgment as may be proper, which may include remanding the case to the justice court for further proceedings in accordance with the decision of the circuit court.
 
-(4) The trial court administrator of the circuit court shall provide a copy of the circuit court’s judgment to the justice court: (a) Within 40 days after the date of entry of the circuit court judgment, if no party appeals from the judgment; or (b) Within 10 days after receipt of the appellate judgment issued by the State Court Administrator resolving the appeal, if a party appeals the circuit court judgment to the Court of Appeals. [2025 c.268 §14] 55.200 Availability of writ of review. The right of a party in a justice court to appeal under ORS 55.160 to 55.335 may not be construed to prevent any party from seeking review in the circuit court under ORS 34.010 to 34.100 for errors in law appearing on the face of the judgment entered by the justice court or the proceedings connected therewith or, in a proceeding charging a violation or misdemeanor, an interlocutory order involving the constitutionality of a statute. [2025 c.268 §15]
+(4) The trial court administrator of the circuit court shall provide a copy of the circuit court’s judgment to the justice court: (a) Within 40 days after the date of entry of the circuit court judgment, if no party appeals from the judgment; or (b) Within 10 days after receipt of the appellate judgment issued by the State Court Administrator resolving the appeal, if a party appeals the circuit court judgment to the Court of Appeals. [2025 c.268 §14] 
 
 ## Provenance & change history
 

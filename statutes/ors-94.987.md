@@ -56,13 +56,7 @@ ORS 94.987 — Judicial declaration of failure in management. Chapter 94 (Real P
 
 (3) If the court petitioned under subsection
 
-(1) of this section finds that there is a reasonable alternative to the appointment of a trustee, the court may order the membership camping operator to carry out the reasonable alternative and may attach to its order such terms and conditions as it considers necessary to protect the rights of the purchasers under the membership camping contracts. [1991 c.377 §4] 94.989 Interpretation of membership camping contracts; application of Unlawful Trade Practices Act.
-
-(1) Membership camping contracts, campgrounds and facilities are not subdivisions or series partitions under ORS chapter 92, are not condominiums under ORS chapter 100, are not timeshare properties under ORS chapter 94, and are not securities under ORS 59.005 to 59.505, 59.710 to 59.830, 59.991 and 59.995.
-
-(2) Membership camping contracts covered by ORS 94.925 to 94.983 are retail installment contracts under ORS 83.010 to 83.190.
-
-(3) The Attorney General shall protect the rights of purchasers through the application of ORS 336.184 and 646.605 to 646.652. [1985 c.639 §12] 94.990 [Repealed by 1971 c.478 §1] 94.991 [Formerly 91.990; 1987 c.320 §15; renumbered 100.990 in 1989] _______________
+(1) of this section finds that there is a reasonable alternative to the appointment of a trustee, the court may order the membership camping operator to carry out the reasonable alternative and may attach to its order such terms and conditions as it considers necessary to protect the rights of the purchasers under the membership camping contracts. [1991 c.377 §4] 
 
 ## Provenance & change history
 

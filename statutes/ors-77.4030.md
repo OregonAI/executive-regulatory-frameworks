@@ -58,11 +58,7 @@ ORS 77.4030 — Obligation of bailee to deliver; excuse. Chapter 77 (Warehouse R
 
 (2) A person claiming goods covered by a document of title shall satisfy the bailee’s lien if the bailee so requests or if the bailee is prohibited by law from delivering the goods until the charges are paid.
 
-(3) Unless a person claiming the goods is a person against which the document of title does not confer a right under ORS 77.5030 (1): (a) The person claiming under the document shall surrender possession or control of any outstanding negotiable document covering the goods for cancellation or indication of partial deliveries; and (b) The bailee shall cancel the document or conspicuously indicate in the document the partial delivery or the bailee is liable to any person to which the document is duly negotiated. [1961 c.726 §77.4030; 2009 c.181 §75] 77.4040 No liability for good faith delivery pursuant to document of title. A bailee that in good faith has received goods and delivered or otherwise disposed of the goods according to the terms of a document of title or pursuant to this chapter is not liable for the goods even if:
-
-(1) The person from which the bailee received the goods did not have authority to procure the document or to dispose of the goods; or
-
-(2) The person to which the bailee delivered the goods did not have authority to receive the goods. [1961 c.726 §77.4040; 2009 c.181 §76]
+(3) Unless a person claiming the goods is a person against which the document of title does not confer a right under ORS 77.5030 (1): (a) The person claiming under the document shall surrender possession or control of any outstanding negotiable document covering the goods for cancellation or indication of partial deliveries; and (b) The bailee shall cancel the document or conspicuously indicate in the document the partial delivery or the bailee is liable to any person to which the document is duly negotiated. [1961 c.726 §77.4030; 2009 c.181 §75] 
 
 ## Provenance & change history
 

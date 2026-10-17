@@ -46,7 +46,7 @@ ORS 53.215 — Rendition and entry of verdict on docket. Chapter 53 (Criminal Ac
 
 ## Full text
 
-53.215 Rendition and entry of verdict on docket. When the jury has agreed upon a verdict, it shall deliver the same to the justice publicly, who shall enter it in the docket of the justice. [Formerly 156.140] 53.220 Jury trial without prepayment of trial fee; payment after judgment. In a criminal action in a justice court, prepayment of the trial fee is not a prerequisite to having a jury trial. If a jury trial is demanded and judgment is against the defendant, the fee shall be allowed and taxed in favor of the state as other disbursements in ordinary cases. [Formerly 156.160]
+53.215 Rendition and entry of verdict on docket. When the jury has agreed upon a verdict, it shall deliver the same to the justice publicly, who shall enter it in the docket of the justice. [Formerly 156.140] 
 
 ## Provenance & change history
 

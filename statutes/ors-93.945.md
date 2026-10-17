@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-93.945
-title: "Application of ORS"
+title: "Application of ORS 93.910 to 93.940"
 doc_type: statute
 citation: "ORS 93.945"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-93"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors093.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Application of ORS (ORS 93.945)
+# Application of ORS 93.910 to 93.940 (ORS 93.945)
 
 ## At a glance
 
-ORS 93.945 — Application of ORS. Chapter 93 (Conveyancing and Recording), 2025 Edition.
+ORS 93.945 — Application of ORS 93.910 to 93.940. Chapter 93 (Conveyancing and Recording), 2025 Edition.
 
 ## Full text
 

@@ -48,23 +48,7 @@ ORS 25.792 — Confidentiality. Chapter 25 (Child Support Services), 2025 Editio
 
 ## Full text
 
-25.792 Confidentiality. Information received under ORS 25.790 is confidential and exempt from public disclosure, except that the Division of Child Support of the Department of Justice shall provide information to other public agencies, upon request, as required by law. [1993 c.753 §2; 1999 c.80 §19] 25.793 Disclosure of employer-reported information.
-
-(1) Subject to the limitations provided in subsection
-
-(2) of this section, the Division of Child Support of the Department of Justice may enter into agreements with other divisions of the Department of Justice, with the Department of Revenue or with the Employment Department for the provision of information reported to the Division of Child Support by an employer pursuant to ORS 25.790 regarding hiring or rehiring or the engagement or reengagement of individuals in this state. The information may be used for purposes other than to establish parentage or child support, including but not limited to debt collection.
-
-(2) Information provided by the division under this section is limited to information reported pursuant to ORS 25.790 that has not yet been entered into either: (a) The statewide automated data processing and information retrieval system required to be established and operated by the division under 42 U.S.C. 654a; or (b) The automated state directory of new hires required to be established by the division under 42 U.S.C. 653a.
-
-(3) An agreement entered into under this section must include, but is not limited to, provisions describing: (a) How the information is to be reported or transferred from the division; (b) Fees, reimbursements and other financial responsibilities of the recipient in exchange for receipt of the information from the division, not to exceed actual expenses; (c) Coordination of data systems to facilitate the sharing of the information; and (d) Such other terms and requirements as are necessary to accomplish the objectives of the agreement.
-
-(4) An agreement entered into under this section is subject to the approval of the Department of Justice. [2017 c.644 §11; 2023 c.101 §2; 2025 c.27 §6; 2025 c.99 §43; 2025 c.592 §99] 25.794 Verification of employment; information about compensation and benefits; rules.
-
-(1) Upon the request of the administrator or an equivalent agency providing child support services in another state, all persons or entities in the state, including but not limited to for-profit, nonprofit and government employers, shall verify the employment of individuals and provide, in addition and if requested, information about compensation and benefits paid to the individual whether as an employee or a contractor.
-
-(2) Upon request of an enforcing agency of another state, only a court or enforcing agency of Oregon may enforce a request for information made by the enforcing agency of the other state under this section.
-
-(3) The Department of Justice shall adopt rules to implement the provisions of this section. [1993 c.753 §3; 1999 c.80 §29; 2003 c.73 §47]
+25.792 Confidentiality. Information received under ORS 25.790 is confidential and exempt from public disclosure, except that the Division of Child Support of the Department of Justice shall provide information to other public agencies, upon request, as required by law. [1993 c.753 §2; 1999 c.80 §19] 
 
 ## Provenance & change history
 

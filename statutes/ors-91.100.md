@@ -48,7 +48,7 @@ ORS 91.100 — Waiver of notice. Chapter 91 (Tenancy), 2025 Edition.
 
 ## Full text
 
-91.100 Waiver of notice. Any person entering into the possession of real estate under written lease, as the tenant of another, may, by the terms of the lease of the person, waive the giving of any notice prescribed by ORS 91.050 to 91.070. 91.110 Notices to be in writing; how served. All notices required by ORS 91.050 to 91.070 and by ORS 105.120, must be in writing and must be served upon the tenant by being delivered to the tenant in person or by being posted in a conspicuous place on the leased premises in case of the absence of the tenant, or by being left at the residence or place of abode. 91.115 Tenant not to deny landlord’s title. A tenant is not permitted to deny the title of the tenant’s landlord at the time of the commencement of the relation. [1981 c.892 §85]
+91.100 Waiver of notice. Any person entering into the possession of real estate under written lease, as the tenant of another, may, by the terms of the lease of the person, waive the giving of any notice prescribed by ORS 91.050 to 91.070. 
 
 ## Provenance & change history
 

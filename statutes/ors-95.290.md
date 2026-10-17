@@ -48,7 +48,7 @@ ORS 95.290 — Supplementary provisions. Chapter 95 (Uniform Voidable Transactio
 
 ## Full text
 
-95.290 Supplementary provisions. Unless displaced by the provisions of ORS 95.200 to 95.310, the principles of law and equity, including the law merchant and the law relating to principal and agent, estoppel, laches, fraud, misrepresentation, duress, coercion, mistake, insolvency or other validating or invalidating cause, supplement its provisions. [1985 c.664 §10] 95.300 Uniformity of application and construction. ORS 95.200 to 95.310 shall be applied and construed to effectuate its general purpose to make uniform the law with respect to the subject of ORS 95.200 to 95.310 among states enacting it. [1985 c.664 §11] 95.305 Relation to Electronic Signatures in Global and National Commerce Act. ORS 95.200 to 95.310 modifies, limits and supersedes the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7001 et seq., but does not modify, limit or supersede 15 U.S.C. 7001(c) or authorize electronic delivery of any of the notices described in 15 U.S.C. 7003(b). [2023 c.83 §4] 95.310 Short title. ORS 95.200 to 95.310 may be cited as the Uniform Voidable Transactions Act. [1985 c.664 §12; 2023 c.83 §13] _______________
+95.290 Supplementary provisions. Unless displaced by the provisions of ORS 95.200 to 95.310, the principles of law and equity, including the law merchant and the law relating to principal and agent, estoppel, laches, fraud, misrepresentation, duress, coercion, mistake, insolvency or other validating or invalidating cause, supplement its provisions. [1985 c.664 §10] 
 
 ## Provenance & change history
 

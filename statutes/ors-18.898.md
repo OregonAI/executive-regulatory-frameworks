@@ -54,7 +54,7 @@ ORS 18.898 — Hearing on challenge to execution. Chapter 18 (Judgments), 2025 E
 
 (2) Hearings on a challenge to execution may be held by telecommunication devices.
 
-(3) The judgment debtor has the burden to prove timely delivery of a challenge to execution under ORS 18.892. [Formerly 18.515] 18.899 Sanctions. A court may impose sanctions against any person who files a challenge to execution in bad faith. The sanctions a court may impose under this section are a penalty of not more than $100 and responsibility for attorney fees under ORS 20.105. [Formerly 18.518] 18.900 [2001 c.249 §81; 2003 c.85 §23; 2003 c.578 §3; 2003 c.663 §3; 2005 c.336 §3; renumbered 18.854 in 2005]
+(3) The judgment debtor has the burden to prove timely delivery of a challenge to execution under ORS 18.892. [Formerly 18.515] 
 
 ## Provenance & change history
 

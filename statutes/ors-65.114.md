@@ -56,15 +56,7 @@ ORS 65.114 — Change of registered office or registered agent. Chapter 65 (Nonp
 
 (1) of this section and recites that the corporation has been notified of the change.
 
-(3) The filing by the Secretary of State of a statement submitted under this section terminates the existing registered office or agent, or both, on the effective date of the filing and establishes the newly appointed registered office or agent, or both, as that of the corporation. [1989 c.1010 §36; 2019 c.174 §26] 65.117 Resignation of registered agent.
-
-(1) A registered agent may resign as registered agent upon delivering a signed statement to the Secretary of State and giving notice in the form of a copy of the statement to the corporation for filing. The statement may include a statement that the registered office is also discontinued.
-
-(2) Upon delivery of the signed statement, the Secretary of State shall file the resignation statement. The copy of the statement given to the corporation under subsection
-
-(1) of this section must be addressed to the corporation at the corporation’s principal office as shown in the most recent annual report filed pursuant to ORS 65.787 or, if the annual report does not show the address, the address specified in the articles of incorporation.
-
-(3) The agency appointment is terminated, and the registered office discontinued if so provided, on the 31st day after the date on which the statement was filed by the Secretary of State, unless the corporation shall sooner appoint a successor registered agent as provided in ORS 65.114 thereby terminating the capacity of the prior agent. [1989 c.1010 §37; 1993 c.190 §5; 2019 c.174 §27] 65.121 Service on the corporation. The provisions of ORS 60.121 shall apply to corporations organized under or subject to the provisions of this chapter. [1989 c.1010 §38; 1991 c.67 §12]
+(3) The filing by the Secretary of State of a statement submitted under this section terminates the existing registered office or agent, or both, on the effective date of the filing and establishes the newly appointed registered office or agent, or both, as that of the corporation. [1989 c.1010 §36; 2019 c.174 §26] 
 
 ## Provenance & change history
 

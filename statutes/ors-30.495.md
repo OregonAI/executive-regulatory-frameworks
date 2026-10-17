@@ -52,19 +52,7 @@ ORS 30.495 — Exceptions to limitation. Chapter 30 (Actions and Suits in Partic
 
 (1) Whose act or omission caused in whole or in part the actual or threatened discharge and who would otherwise be liable for the damages; or
 
-(2) Who receives compensation other than reimbursement for expenses for the person’s service in rendering such assistance or advice. [1985 c.376 §3] 30.497 When limitation on liability not applicable. Nothing in ORS 30.492 shall be construed to limit or otherwise affect the liability of any person for damages resulting from the person’s gross negligence or from the person’s reckless, wanton or intentional misconduct. [1985 c.376 §4] 30.500 Definitions for ORS 30.500 and 30.505. As used in this section and ORS 30.505:
-
-(1) “Generator” has the meaning given that term in ORS 466.005.
-
-(2) “Person” means an individual, corporation, association, firm, partnership, joint stock company or state or local government agency. [1987 c.332 §1] 30.505 Limitation on liability of volunteer providing assistance relating to compliance with hazardous waste disposal laws; exceptions.
-
-(1) Except as provided in subsection
-
-(2) of this section, no person may maintain an action for damages against a person who voluntarily provides assistance, training or advice to a generator directly related to procedures or actions the generator must take to comply with the requirements of state or federal hazardous waste disposal laws.
-
-(2) The immunity provided in subsection
-
-(1) of this section shall not apply to: (a) Any person whose act or omission caused in whole or in part the occurrence resulting in the damages for which the action is brought and who would otherwise be liable for the damages. (b) Any person who receives compensation other than reimbursement for expenses for the person’s service in providing such assistance, training or advice. (c) The liability of any person for damages resulting from the person’s gross negligence or from the person’s reckless, wanton or intentional misconduct. (d) Any activity for which a person is otherwise strictly liable without regard to fault. [1987 c.332 §2]
+(2) Who receives compensation other than reimbursement for expenses for the person’s service in rendering such assistance or advice. [1985 c.376 §3] 
 
 ## Provenance & change history
 

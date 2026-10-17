@@ -46,7 +46,7 @@ ORS 24.325 — Uniformity of application and construction. Chapter 24 (Enforceme
 
 ## Full text
 
-24.325 Uniformity of application and construction. ORS 24.260 to 24.335 shall be applied and construed to effectuate its general purpose to make uniform the law with respect to the subject of ORS 24.260 to 24.335 among states enacting it. [1991 c.202 §15] 24.330 Severability. If any provision of ORS 24.260 to 24.335 or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of ORS 24.260 to 24.335 which can be given effect without the invalid provision or application, and to this end the provisions of ORS 24.260 to 24.335 are severable. [1991 c.202 §17] 24.335 Short title. ORS 24.260 to 24.335 may be cited as the Uniform Foreign-Money Claims Act. [1991 c.202 §16]
+24.325 Uniformity of application and construction. ORS 24.260 to 24.335 shall be applied and construed to effectuate its general purpose to make uniform the law with respect to the subject of ORS 24.260 to 24.335 among states enacting it. [1991 c.202 §15] 
 
 ## Provenance & change history
 

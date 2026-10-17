@@ -48,11 +48,7 @@ ORS 7.230 — Probate and juvenile court records to be kept separate. Chapter 7 
 
 ## Full text
 
-7.230 Probate and juvenile court records to be kept separate. Insofar as may be practicable and convenient the records and proceedings pertaining to probate and juvenile matters shall be kept separate from the other records and proceedings of the circuit courts. [Amended by 1969 c.591 §267] 7.240 Records in probate matters.
-
-(1) For probate matters in state courts, the clerk or court administrator shall enter and record the proceedings in the register described in ORS 7.020.
-
-(2) For probate matters in courts other than state courts, the clerk or court administrator shall enter and record the proceedings in the following records: (a) A register, in which shall be entered a memorandum of all official business transacted by the court or judge thereof pertaining to the estate of each decedent, under the name of the decedent, and that pertaining to each protective proceeding under ORS chapter 125, under the name of the protected person. (b) A probate index, in which shall be kept an index of all the entries in the register under the names of the persons to whose estate, person or business the entries relate, which names shall be arranged chronologically in alphabetical order. [Amended by 1973 c.823 §84; 1975 c.588 §17; 1985 c.540 §12; 1995 c.664 §68; 2013 c.685 §2]
+7.230 Probate and juvenile court records to be kept separate. Insofar as may be practicable and convenient the records and proceedings pertaining to probate and juvenile matters shall be kept separate from the other records and proceedings of the circuit courts. [Amended by 1969 c.591 §267] 
 
 ## Provenance & change history
 

@@ -50,65 +50,7 @@ ORS 72A.5240 — Lessor’s right to identify goods to lease contract. Chapter 7
 
 (1) A lessor aggrieved under ORS 72A.5230 may: (a) Identify to the lease contract conforming goods not already identified if at the time the lessor learned of the default they were in the lessor’s or the supplier’s possession or control; and (b) Dispose of goods as provided in ORS 72A.5270 that demonstrably have been intended for the particular lease contract even though those goods are unfinished.
 
-(2) If the goods are unfinished, in the exercise of reasonable commercial judgment for the purposes of avoiding loss and of effective realization, an aggrieved lessor or the supplier may either complete manufacture and wholly identify the goods to the lease contract or cease manufacture and lease, sell or otherwise dispose of the goods for scrap or salvage value or proceed in any other reasonable manner. [1989 c.676 §71] 72A.5250 Lessor’s right to possession of goods.
-
-(1) If a lessor discovers the lessee to be insolvent, the lessor may refuse to deliver the goods.
-
-(2) After a default by the lessee under the lease contract of the type described in ORS 72A.5230
-
-(1) and (3)(a) or, if agreed, after other default by the lessee, the lessor has the right to take possession of the goods. If the lease contract so provides, the lessor may require the lessee to assemble the goods and make them available to the lessor at a place to be designated by the lessor which is reasonably convenient to both parties. Without removal, the lessor may render unusable any goods employed in trade or business and may dispose of goods on the lessee’s premises as provided in ORS 72A.5270.
-
-(3) The lessor may proceed under subsection
-
-(2) of this section without judicial process if it can be done without breach of the peace or the lessor may proceed by action. [1989 c.676 §72; 1993 c.646 §16] 72A.5260 Lessor’s stoppage of delivery in transit or otherwise.
-
-(1) A lessor may stop delivery of goods in the possession of a carrier or other bailee if the lessor discovers the lessee to be insolvent and may stop delivery of carload, truckload, planeload or larger shipments of express or freight if the lessee repudiates or fails to make a payment due before delivery, whether for rent, security or otherwise under the lease contract, or for any other reason the lessor has a right to withhold or take possession of the goods.
-
-(2) In pursuing its remedies under subsection
-
-(1) of this section, the lessor may stop delivery until: (a) Receipt of the goods by the lessee; (b) Acknowledgment to the lessee by any bailee of the goods, except a carrier, that the bailee holds the goods for the lessee; or (c) Such an acknowledgment to the lessee by a carrier via reshipment or as a warehouse. (3)(a) To stop delivery, a lessor shall so notify as to enable the bailee by reasonable diligence to prevent delivery of the goods. (b) After notification, the bailee shall hold and deliver the goods according to the directions of the lessor, but the lessor is liable to the bailee for any ensuing charges or damages. (c) A carrier who has issued a nonnegotiable bill of lading is not obliged to obey a notification to stop received from a person other than the consignor. [1989 c.676 §73; 2009 c.181 §41] 72A.5270 Lessor’s rights to dispose of goods.
-
-(1) After a default by a lessee under the lease contract of the type described in ORS 72A.5230 or after the lessor refuses to deliver or takes possession of goods as provided in ORS 72A.5250 or 72A.5260, or, if agreed, after other default by a lessee, the lessor may dispose of the goods concerned or the undelivered balance thereof by lease, sale or otherwise.
-
-(2) Except as otherwise provided with respect to damages liquidated in the lease agreement as provided in ORS 72A.5040 or otherwise determined pursuant to agreement of the parties as provided in ORS 71.3020 and 72A.5030, if the disposition is by lease agreement substantially similar to the original lease agreement and the new lease agreement is made in good faith and in a commercially reasonable manner, the lessor may recover from the lessee, as damages, accrued and unpaid rent as of the date of the commencement of the term of the new lease agreement, the present value, as of the same date, of the total rent for the then remaining lease term of the original lease agreement minus the present value, as of the same date, of the rent under the new lease agreement applicable to that period of the new lease term which is comparable to the then remaining term of the original lease agreement, and any incidental damages allowed under ORS 72A.5300, less expenses saved in consequence of the lessee’s default.
-
-(3) If the lessor’s disposition is by lease agreement that for any reason does not qualify for treatment under subsection
-
-(2) of this section or is by sale or otherwise, the lessor may recover from the lessee as if the lessor had elected not to dispose of the goods and ORS 72A.5280 governs.
-
-(4) A subsequent buyer or lessee who buys or leases from the lessor in good faith for value as a result of a disposition under this section takes the goods free of the original lease contract and any rights of the original lessee even though the lessor fails to comply with one or more of the requirements of this chapter.
-
-(5) The lessor is not accountable to the lessee for any profit made on any disposition. A lessee who has rightfully rejected or justifiably revoked acceptance shall account to the lessor for any excess over the amount of the lessee’s security interest as provided in ORS 72A.5080. [1989 c.676 §74; 1993 c.646 §17; 2009 c.181 §42] 72A.5280 Lessor’s damages for default.
-
-(1) Except as otherwise provided with respect to damages liquidated in the lease agreement as provided in ORS 72A.5040 or otherwise determined pursuant to agreement of the parties as provided in ORS 71.3020 and 72A.5030, if a lessor elects to retain the goods or a lessor elects to dispose of the goods and the disposition is by lease agreement that for any reason does not qualify for treatment under ORS 72A.5270, or is by sale or otherwise, the lessor may recover from the lessee as damages for a default of the type described in ORS 72A.5230, or, if agreed, for other default of the lessee, accrued and unpaid rent as of the date of default if the lessee has never taken possession of the goods, or, if the lessee has taken possession of the goods, as of the date the lessor repossesses the goods or an earlier date on which the lessee makes a tender of the goods to the lessor, the present value as of the date determined under this section of the total rent for the then remaining lease term of the original lease agreement minus the present value as of the same date of the market rent at the place where the goods are located computed for the same lease term and any incidental damages allowed under ORS 72A.5300, less expenses saved in consequence of the lessee’s default.
-
-(2) If the measure of damages provided in subsection
-
-(1) of this section is inadequate to put a lessor in as good a position as performance would have, the measure of damages is the present value of the profit, including reasonable overhead, the lessor would have made from full performance by the lessee, together with any incidental damages allowed under ORS 72A.5300, due allowance for costs reasonably incurred and due credit for payments or proceeds of disposition. [1989 c.676 §75; 1993 c.646 §18; 2009 c.181 §43] 72A.5290 Lessor’s action for the rent.
-
-(1) After default by the lessee under the lease contract of the type described in ORS 72A.5230, or, if agreed after other default by the lessee, if the lessor complies with subsection
-
-(2) of this section, the lessor may recover from the lessee as damages: (a) For goods accepted by the lessee and not repossessed by or tendered to the lessor and for conforming goods lost or damaged within a commercially reasonable time after risk of loss passes to the lessee as provided in ORS 72A.2190: (A) Accrued and unpaid rent as of the date of entry of judgment in favor of the lessor; (B) The present value as of the same date of the rent for the then remaining lease term of the lease agreement; and (C) Any incidental damages allowed under ORS 72A.5300, less expenses saved in consequence of the lessee’s default; and (b) For goods identified to the lease contract if the lessor is unable after reasonable effort to dispose of them at a reasonable price or the circumstances reasonably indicate that effort will be unavailing, accrued and unpaid rent as of the date of entry of judgment in favor of the lessor, the present value as of the same date of the rent for the then remaining lease term of the lease agreement and any incidental damages allowed under ORS 72A.5300, less expenses saved in consequence of the lessee’s default.
-
-(2) Except as provided in subsection
-
-(3) of this section, the lessor shall hold for the lessee for the remaining lease term of the lease agreement any goods that have been identified to the lease contract and are in the lessor’s control.
-
-(3) The lessor may dispose of the goods at any time before collection of the judgment for damages obtained pursuant to subsection
-
-(1) of this section. If the disposition is before the end of the remaining lease term of the lease agreement, the lessor’s recovery against the lessee for damages is governed by ORS 72A.5270 or 72A.5280, and the lessor will cause an appropriate credit to be provided against a judgment for damages to the extent that the amount of the judgment exceeds the recovery available pursuant to ORS 72A.5270 or 72A.5280.
-
-(4) Payment of the judgment for damages obtained pursuant to subsection
-
-(1) of this section entitles the lessee to the use and possession of the goods not then disposed of for the remaining lease term of and in accordance with the lease agreement.
-
-(5) After a lessee has wrongfully rejected or revoked acceptance of goods, has failed to pay rent then due or has repudiated as provided in ORS 72A.4020, a lessor who is held not entitled to rent under this section must nevertheless be awarded damages for nonacceptance under ORS 72A.5270 and 72A.5280. [1989 c.676 §76; 1993 c.646 §19] 72A.5295 Lessor’s recovery for loss of or damage to residual interest in goods. In addition to any other recovery permitted by this chapter or other law, the lessor may recover from the lessee an amount that will fully compensate the lessor for any loss of or damage to the lessor’s residual interest in the goods caused by the default of the lessee. [1993 c.646 §21] 72A.5300 Lessor’s incidental damages. Incidental damages to an aggrieved lessor include any commercially reasonable charges, expenses or commissions incurred in stopping delivery, in the transportation, care and custody of goods after the lessee’s default, in connection with return or disposition of the goods, or otherwise resulting from the default. [1989 c.676 §77] 72A.5310 Standing to sue third parties for injury to goods.
-
-(1) If a third party so deals with goods that have been identified to a lease contract as to cause actionable injury to a party to the lease contract, the lessor has a right of action against the third party and the lessee also has a right of action against the third party if the lessee: (a) Has a security interest in the goods; (b) Has an insurable interest in the goods; or (c) Bears the risk of loss under the lease contract or has since the injury assumed that risk as against the lessor and the goods have been converted or destroyed.
-
-(2) If at the time of the injury the party plaintiff did not bear the risk of loss as against the other party to the lease contract and there is no arrangement between them for disposition of the recovery, the plaintiff’s suit or settlement, subject to the plaintiff’s own interest, is as a fiduciary for the other party to the lease contract.
-
-(3) Either party with the consent of the other may sue for the benefit of whom it may concern. [1989 c.676 §78] _______________
+(2) If the goods are unfinished, in the exercise of reasonable commercial judgment for the purposes of avoiding loss and of effective realization, an aggrieved lessor or the supplier may either complete manufacture and wholly identify the goods to the lease contract or cease manufacture and lease, sell or otherwise dispose of the goods for scrap or salvage value or proceed in any other reasonable manner. [1989 c.676 §71] 
 
 ## Provenance & change history
 

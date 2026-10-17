@@ -66,7 +66,7 @@ ORS 73.0206 — Restrictive indorsement. Chapter 73 (Negotiable Instruments), 20
 
 (4) of this section.
 
-(6) In an action to enforce the obligation of a party to pay the instrument, the obligor has a defense if payment would violate an indorsement to which this section applies and the payment is not permitted by this section. [1993 c.545 §28] 73.0207 Reacquisition. Reacquisition of an instrument occurs if it is transferred to a former holder, by negotiation or otherwise. A former holder who reacquires the instrument may cancel indorsements made after the reacquirer first became a holder of the instrument. If the cancellation causes the instrument to be payable to the reacquirer or to bearer, the reacquirer may negotiate the instrument. An indorser whose indorsement is canceled is discharged, and the discharge is effective against any subsequent holder. [1993 c.545 §29]
+(6) In an action to enforce the obligation of a party to pay the instrument, the obligor has a defense if payment would violate an indorsement to which this section applies and the payment is not permitted by this section. [1993 c.545 §28] 
 
 ## Provenance & change history
 

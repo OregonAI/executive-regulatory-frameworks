@@ -46,7 +46,7 @@ ORS 14.130 — Notice to proper or more convenient court. Chapter 14 (Jurisdicti
 
 ## Full text
 
-14.130 Notice to proper or more convenient court. When the place of trial has been changed as provided in ORS 14.110, the clerk shall promptly notify the clerk of the proper or more convenient court of the change. [Amended by 2017 c.252 §8] 14.140 [Amended by 1963 c.339 §2; repealed by 2017 c.252 §10] 14.150 [Repealed by 2017 c.252 §10] 14.160 When change of venue complete. A change of venue is complete upon entry of an order changing the place of trial, and thereafter the action shall proceed as though it had been commenced in the proper or more convenient court. [Amended by 2017 c.252 §9]
+14.130 Notice to proper or more convenient court. When the place of trial has been changed as provided in ORS 14.110, the clerk shall promptly notify the clerk of the proper or more convenient court of the change. [Amended by 2017 c.252 §8] 14.140 [Amended by 1963 c.339 §2; repealed by 2017 c.252 §10] 14.150 [Repealed by 2017 c.252 §10] 
 
 ## Provenance & change history
 

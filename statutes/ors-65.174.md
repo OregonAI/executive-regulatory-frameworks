@@ -58,11 +58,7 @@ ORS 65.174 — Derivative suits. Chapter 65 (Nonprofit Corporations), 2025 Editi
 
 (4) The complainants shall notify the Attorney General within 10 days after commencing any proceeding under this section if the proceeding involves a public benefit corporation or religious corporation or assets held in charitable trust by a mutual benefit corporation.
 
-(5) A proceeding commenced under this section may not be discontinued or settled without the court’s approval. If the court determines that a proposed discontinuance or settlement will substantially affect the interest of the corporation’s members or a class of members, the court shall direct that notice be given the members affected. [1989 c.1010 §50; 2019 c.174 §36] (Delegates) 65.177 Delegates.
-
-(1) A corporation may provide in the corporation’s articles of incorporation or bylaws for delegates having some or all of the authority of members.
-
-(2) The articles of incorporation or bylaws may set forth provisions relating to: (a) The characteristics, qualifications, rights, limitations and obligations of delegates, including the selection and removal of delegates; (b) Providing notice to and calling, holding and conducting meetings of delegates; and (c) Carrying on corporate activities during and between meetings of delegates. [1989 c.1010 §51; 2019 c.174 §37]
+(5) A proceeding commenced under this section may not be discontinued or settled without the court’s approval. If the court determines that a proposed discontinuance or settlement will substantially affect the interest of the corporation’s members or a class of members, the court shall direct that notice be given the members affected. [1989 c.1010 §50; 2019 c.174 §36] (Delegates) 
 
 ## Provenance & change history
 

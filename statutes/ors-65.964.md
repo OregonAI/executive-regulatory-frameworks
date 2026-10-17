@@ -62,7 +62,7 @@ ORS 65.964 — Saving provisions. Chapter 65 (Nonprofit Corporations), 2025 Edit
 
 (4) This chapter shall apply to any amendment to a corporation’s articles of incorporation filed after October 3, 1989, even if member approval of such amendment occurred prior to October 3, 1989.
 
-(5) Except as specifically provided in this chapter, nothing in this chapter shall affect any powers the Attorney General may have under other statutes or common law. [1989 c.1010 §174] 65.967 Severability. If any provision of this chapter or its application to any person or circumstance is held invalid by a court of competent jurisdiction, the invalidity does not affect other provisions or applications of this chapter that can be given effect without the invalid provision or application, and to this end the provisions of this chapter are severable. [1989 c.1010 §175]
+(5) Except as specifically provided in this chapter, nothing in this chapter shall affect any powers the Attorney General may have under other statutes or common law. [1989 c.1010 §174] 
 
 ## Provenance & change history
 

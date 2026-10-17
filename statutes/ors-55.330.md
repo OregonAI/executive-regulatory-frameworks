@@ -46,7 +46,7 @@ ORS 55.330 — Judgment on dismissal or after trial; judgment against sureties. 
 
 ## Full text
 
-55.330 Judgment on dismissal or after trial; judgment against sureties. If the circuit court dismisses an appeal, the court shall render judgment as provided in ORS 55.195, which shall include judgment against the appellant for the costs and disbursements of the appeal. When judgment is given in the circuit court against the appellant, either with or without trial of the action, the judgment must also be given against the sureties in the undertaking of the appellant, according to its nature and effect. [2025 c.268 §29] 55.335 Appeal from circuit court. Upon entry by the circuit court of an order or judgment in the matter, the judgment may be appealed as provided in ORS chapter 19 except as otherwise provided by law. [2025 c.268 §30] _______________
+55.330 Judgment on dismissal or after trial; judgment against sureties. If the circuit court dismisses an appeal, the court shall render judgment as provided in ORS 55.195, which shall include judgment against the appellant for the costs and disbursements of the appeal. When judgment is given in the circuit court against the appellant, either with or without trial of the action, the judgment must also be given against the sureties in the undertaking of the appellant, according to its nature and effect. [2025 c.268 §29] 
 
 ## Provenance & change history
 

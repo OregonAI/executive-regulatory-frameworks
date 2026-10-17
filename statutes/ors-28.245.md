@@ -46,7 +46,7 @@ ORS 28.245 — Severability. Chapter 28 (Declaratory Judgments; Certification of
 
 ## Full text
 
-28.245 Severability. If any provision of ORS 28.200 to 28.255 or the application thereof to any person, court, or circumstance is held invalid the invalidity does not affect other provisions or applications of ORS 28.200 to 28.255 which can be given effect without the invalid provision or application, and to this end the provisions of ORS 28.200 to 28.255 are severable. [1983 c.103 §10] Note: See note under 28.200. 28.250 Construction. ORS 28.200 to 28.255 shall be so construed as to effectuate its general purpose to make uniform the law of those states which enact it. [1983 c.103 §11] Note: See note under 28.200. 28.255 Short title. ORS 28.200 to 28.255 may be cited as the Uniform Certification of Questions of Law Act. [1983 c.103 §12] Note: See note under 28.200. _______________
+28.245 Severability. If any provision of ORS 28.200 to 28.255 or the application thereof to any person, court, or circumstance is held invalid the invalidity does not affect other provisions or applications of ORS 28.200 to 28.255 which can be given effect without the invalid provision or application, and to this end the provisions of ORS 28.200 to 28.255 are severable. [1983 c.103 §10] Note: See note under 28.200. 
 
 ## Provenance & change history
 

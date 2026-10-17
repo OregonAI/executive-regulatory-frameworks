@@ -56,23 +56,7 @@ ORS 65.751 — Grounds for judicial revocation. Chapter 65 (Nonprofit Corporatio
 
 (3) In addition to subjecting a foreign corporation to revocation of the foreign corporation’s authority to transact business in this state under subsection (1)(a)(G) of this section, a finding that a foreign corporation is a shell entity has the following effects: (a) A court may rebuttably presume that the foreign corporation’s filings with the Secretary of State constitute a false claim, as defined in ORS 180.750, in any action the Attorney General brings under ORS 180.760 and may award to the Attorney General reasonable attorney fees and the costs of investigation, preparation and litigation if the Attorney General prevails in the action; and (b) A public body, as defined in ORS 174.109, in any proceeding against the foreign corporation, may move to enjoin a director, officer or other person that exercises significant direction or control over the foreign corporation from engaging in commercial activity in this state including, but not limited to, incorporating or organizing an entity in this state.
 
-(4) A foreign corporation may affirmatively defend against an allegation that the foreign corporation is a shell entity by showing that the foreign corporation, within 60 days after receiving a request to provide or correct a name, address or other information required for a filing or in an application for authority to transact business in this state, a record the foreign corporation must keep or an annual report, or within 60 days after the date of a request to respond to a communication or service of process, provided or corrected the name, address or other information or responded to the communication or service of process. [1989 c.1010 §161; 2019 c.174 §105] 65.754 Procedure for judicial revocation of authority.
-
-(1) Venue for a proceeding by the Attorney General to revoke a foreign corporation’s authority lies in Marion County. Venue for a proceeding brought by any other person named in ORS 65.751 lies in the county where a corporation’s principal Oregon office is located or where its registered office is or was last located.
-
-(2) It is not necessary to make directors or members parties to a proceeding to revoke the authority of a corporation.
-
-(3) A court in a proceeding brought to revoke a corporation’s authority may issue injunctions, appoint a receiver or custodian pendente lite with all powers and duties the court directs, take other action required to preserve the corporate assets located in Oregon and carry on the corporation’s Oregon activities until a full hearing can be held.
-
-(4) A person other than the Attorney General who brings a revocation proceeding for a foreign corporation that would have been a public benefit or religious corporation had it been incorporated in this state, shall forthwith give written notice of the proceeding to the Attorney General who may intervene. [1989 c.1010 §162] 65.757 Judgment of revocation.
-
-(1) If after a hearing a court determines that one or more grounds for judicial revocation of authority described in ORS 65.751 exists, the court may enter a judgment revoking a foreign corporation’s authority to transact business in Oregon and specifying the effective date of the revocation. The clerk of the court shall deliver a certified copy of the judgment to the Secretary of State for filing.
-
-(2) The authority of a foreign corporation to transact business in Oregon ceases as of the date of the judgment of revocation.
-
-(3) The judgment of revocation of a foreign corporation’s authority to transact business in this state appoints the Secretary of State the foreign corporation’s agent for service of process in any proceeding based on a cause of action which arose during the time the foreign corporation was authorized to transact business in this state.
-
-(4) Revocation of a foreign corporation’s authority to transact business in this state terminates the authority of the foreign corporation’s registered agent. [1989 c.1010 §163; 2003 c.576 §330; 2019 c.174 §106]
+(4) A foreign corporation may affirmatively defend against an allegation that the foreign corporation is a shell entity by showing that the foreign corporation, within 60 days after receiving a request to provide or correct a name, address or other information required for a filing or in an application for authority to transact business in this state, a record the foreign corporation must keep or an annual report, or within 60 days after the date of a request to respond to a communication or service of process, provided or corrected the name, address or other information or responded to the communication or service of process. [1989 c.1010 §161; 2019 c.174 §105] 
 
 ## Provenance & change history
 

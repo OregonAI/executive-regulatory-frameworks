@@ -76,19 +76,7 @@ ORS 84.070 — Consumer transactions; treatment of oral communications; consent 
 
 (10) Nothing in ORS 84.001 to 84.061 authorizes using an electronic record to provide or deliver any notice of: (a) The cancellation or termination of utility services, including water, heat and power; (b) Default, acceleration, repossession, foreclosure or eviction, or the right to cure, under a credit agreement secured by, or a rental agreement for, a primary residence of an individual; (c) The cancellation or termination of health insurance or benefits or life insurance benefits, excluding annuities; or (d) Recall of a product, or material failure of a product, that risks endangering health or safety.
 
-(11) ORS 84.001 to 84.061 do not apply to any document required to accompany any transportation or handling of hazardous materials, pesticides or other toxic or dangerous materials. [2001 c.535 §24; 2005 c.106 §1; 2014 c.34 §1] 84.072 Conditions under which public body may send notice by electronic mail.
-
-(1) As used in this section: (a) “Agreement” has the meaning given that term in ORS 84.004. (b) “Public body” has the meaning given that term in ORS 174.109.
-
-(2) A public body may send to a person by electronic mail a notice that a law of this state requires the public body to send by regular mail if: (a) The law does not expressly prohibit or restrict the use of electronic mail as a means by which to deliver the notice; (b) The person enters into an agreement with the public body in which the person provides the public body with an electronic mail address and affirmatively indicates that the public body may use the electronic mail address as a means for sending to the person a notice required by a law of this state; (c) The public body, before entering into an agreement under paragraph (b) of this subsection, provides the person with a statement that, in a clear and conspicuous manner, informs the person that: (A) The public body will use the electronic mail address the person provides as the means by which the public body sends to the person a notice required by a law of this state; and (B) The person may withdraw the person’s agreement to receive the notice by electronic mail and may instead elect to receive the notice by regular mail; and (d) The person has not withdrawn the agreement the person made under paragraph (b) of this subsection.
-
-(3) A public body, in the statement described in subsection (2)(c) of this section and in each notice the public body sends by electronic mail under this section, shall describe a method by which a person who has agreed under subsection (2)(b) of this section to receive a notice by electronic mail may withdraw the person’s agreement.
-
-(4) A notice sent in accordance with ORS 84.043
-
-(1) and this section to an electronic mail address a person has provided under subsection
-
-(2) of this section is presumed to have been received as provided in ORS 84.043 (2). A person may rebut this presumption only by showing that the notice did not enter an information processing system as provided in ORS 84.043 (2)(a) or that the notice was not in the form described in ORS 84.043 (2)(b). (5)(a) Except as otherwise provided in this section, ORS 84.001 to 84.061 apply to a notice that a public body sends under this section and to an agreement between a public body and a person under this section. (b) For purposes of this section, a notice that a public body sends by electronic mail is an electronic record as defined in ORS 84.004. [2011 c.242 §1] _______________ CHAPTER 85 [Reserved for expansion]
+(11) ORS 84.001 to 84.061 do not apply to any document required to accompany any transportation or handling of hazardous materials, pesticides or other toxic or dangerous materials. [2001 c.535 §24; 2005 c.106 §1; 2014 c.34 §1] 
 
 ## Provenance & change history
 

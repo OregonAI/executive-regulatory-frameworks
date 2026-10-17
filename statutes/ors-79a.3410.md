@@ -54,7 +54,7 @@ ORS 79A.3410 — UCC 9-341. Bank’s rights and duties with respect to deposit a
 
 (2) The bank’s knowledge of the security interest; or
 
-(3) The bank’s receipt of instructions from the secured party. [Formerly 79.0341] 79A.3420 UCC 9-342. Bank’s right to refuse to enter into or disclose existence of control agreement. This chapter does not require a bank to enter into an agreement of the kind described in ORS 79A.1040 (1)(b), even if its customer so requests or directs. A bank that has entered into such an agreement is not required to confirm the existence of the agreement to another person unless requested to do so by its customer. [Formerly 79.0342]
+(3) The bank’s receipt of instructions from the secured party. [Formerly 79.0341] 
 
 ## Provenance & change history
 

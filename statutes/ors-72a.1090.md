@@ -46,7 +46,7 @@ ORS 72A.1090 — Option to accelerate at will. Chapter 72A (Leases), 2025 Editio
 
 ## Full text
 
-72A.1090 Option to accelerate at will. A term providing that one party or the party’s successor in interest may accelerate payment or performance or require collateral or additional collateral “at will” or “when the party purports to be insecure” or in words of similar import must be construed to mean that the party has power to do so only if the party in good faith believes that the prospect of payment or performance is impaired. [1989 c.676 §9] 72A.1095 Subordination by agreement. Nothing in this chapter prevents subordination by agreement by any person entitled to priority. [1993 c.646 §22]
+72A.1090 Option to accelerate at will. A term providing that one party or the party’s successor in interest may accelerate payment or performance or require collateral or additional collateral “at will” or “when the party purports to be insecure” or in words of similar import must be construed to mean that the party has power to do so only if the party in good faith believes that the prospect of payment or performance is impaired. [1989 c.676 §9] 
 
 ## Provenance & change history
 

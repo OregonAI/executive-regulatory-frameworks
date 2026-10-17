@@ -48,7 +48,7 @@ ORS 98.432 — Uniformity of interpretation. Chapter 98 (Lost, Unclaimed or Aban
 
 ## Full text
 
-98.432 Uniformity of interpretation. This Act shall be so construed as to effectuate its general purpose to make uniform the law of those states which enact the Uniform Disposition of Unclaimed Property Act. [1957 c.670 §2] Note: Pursuant to 173.160, Legislative Counsel has not substituted specific ORS references for the words “this Act” in sections 1, 2 and 36, chapter 670, Oregon Laws 1957, compiled as 98.432, 98.436 and 98.991. The sections for which substitution otherwise would be made may be determined by referring to the 1957 Comparative Section Table located in Volume 22 of ORS. 98.436 Short title. This Act may be cited as the Uniform Disposition of Unclaimed Property Act. [1957 c.670 §1] Note: See note under 98.432. 98.440 [Repealed by 1957 c.670 §37]
+98.432 Uniformity of interpretation. This Act shall be so construed as to effectuate its general purpose to make uniform the law of those states which enact the Uniform Disposition of Unclaimed Property Act. [1957 c.670 §2] Note: Pursuant to 173.160, Legislative Counsel has not substituted specific ORS references for the words “this Act” in sections 1, 2 and 36, chapter 670, Oregon Laws 1957, compiled as 98.432, 98.436 and 98.991. The sections for which substitution otherwise would be made may be determined by referring to the 1957 Comparative Section Table located in Volume 22 of ORS. 
 
 ## Provenance & change history
 

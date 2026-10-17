@@ -80,15 +80,7 @@ ORS 9.860 — Universal representation program; grants; transfer of funds to Leg
 
 (4) of this section.
 
-(8) As used in this section: (a) “Community-based organization” means a nonprofit organization registered in this state that provides culturally responsive services to immigrant and refugee communities in Oregon. (b) “Culturally responsive service” means a service that is respectful of, and relevant to, the beliefs, practices, cultures and linguistic needs of diverse consumer or client populations and communities whose members identify as having particular cultural or linguistic affiliations by virtue of their place of birth, ancestry or ethnic origin, religion, preferred language or language spoken at home, and that has the capacity to respond to the issues of diverse communities and to require knowledge and capacity at systemic, organizational, professional and individual levels of intervention. (c) “Immigration matter” has the meaning given that term in ORS 9.280. [2022 c.88 §2] 9.865 Universal Representation Fund.
-
-(1) The Universal Representation Fund is established in the State Treasury, separate and distinct from the General Fund.
-
-(2) Interest earned by the Universal Representation Fund shall be credited to the fund.
-
-(3) Moneys in the fund are continuously appropriated to the Oregon Department of Administrative Services for the purpose of disbursement to the fiscal agent described in ORS 9.860
-
-(1) for providing a statewide integrated, universal navigation and representation system for immigration matters. [2022 c.88 §1]
+(8) As used in this section: (a) “Community-based organization” means a nonprofit organization registered in this state that provides culturally responsive services to immigrant and refugee communities in Oregon. (b) “Culturally responsive service” means a service that is respectful of, and relevant to, the beliefs, practices, cultures and linguistic needs of diverse consumer or client populations and communities whose members identify as having particular cultural or linguistic affiliations by virtue of their place of birth, ancestry or ethnic origin, religion, preferred language or language spoken at home, and that has the capacity to respond to the issues of diverse communities and to require knowledge and capacity at systemic, organizational, professional and individual levels of intervention. (c) “Immigration matter” has the meaning given that term in ORS 9.280. [2022 c.88 §2] 
 
 ## Provenance & change history
 

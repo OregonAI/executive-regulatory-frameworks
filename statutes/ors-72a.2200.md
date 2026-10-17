@@ -50,11 +50,7 @@ ORS 72A.2200 — Effect of default on risk of loss. Chapter 72A (Leases), 2025 E
 
 (1) Where risk of loss is to pass to the lessee and the time of passage is not stated: (a) If a tender or delivery of goods so fails to conform to the lease contract as to give a right of rejection, the risk of their loss remains with the lessor or, in the case of a finance lease, the supplier, until cure or acceptance. (b) If the lessee rightfully revokes acceptance, the lessee, to the extent of any deficiency in the lessee’s effective insurance coverage, may treat the risk of loss as having remained with the lessor from the beginning.
 
-(2) Whether or not risk of loss is to pass to the lessee, if the lessee as to conforming goods already identified to a lease contract repudiates or is otherwise in default under the lease contract, the lessor, or, in the case of a finance lease, the supplier, to the extent of any deficiency in the lessor’s or supplier’s effective insurance coverage may treat the risk of loss as resting on the lessee for a commercially reasonable time. [1989 c.676 §29] 72A.2210 Casualty to identified goods. If a lease contract requires goods identified when the lease contract is made, and the goods suffer casualty without fault of the lessee, the lessor or the supplier before delivery, or the goods suffer casualty before risk of loss passes to the lessee pursuant to the lease agreement or ORS 72A.2190, then:
-
-(1) If the loss is total, the lease contract is avoided; and
-
-(2) If the loss is partial or the goods have so deteriorated as to no longer conform to the lease contract, the lessee may nevertheless demand inspection and at the lessee’s option either treat the lease contract as avoided or, except in a finance lease, accept the goods with due allowance from the rent payable for the balance of the lease term for the deterioration or the deficiency in quantity but without further right against the lessor. [1989 c.676 §30]
+(2) Whether or not risk of loss is to pass to the lessee, if the lessee as to conforming goods already identified to a lease contract repudiates or is otherwise in default under the lease contract, the lessor, or, in the case of a finance lease, the supplier, to the extent of any deficiency in the lessor’s or supplier’s effective insurance coverage may treat the risk of loss as resting on the lessee for a commercially reasonable time. [1989 c.676 §29] 
 
 ## Provenance & change history
 

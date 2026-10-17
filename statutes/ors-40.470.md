@@ -48,7 +48,7 @@ ORS 40.470 — Rule 805. Hearsay within hearsay. Chapter 40 (Evidence Code), 202
 
 ## Full text
 
-40.470 Rule 805. Hearsay within hearsay. Hearsay included within hearsay is not excluded under ORS 40.455 if each part of the combined statements conforms with an exception set forth in ORS 40.460 or 40.465. [1981 c.892 §66] 40.475 Rule 806. Attacking and supporting credibility of declarant. When a hearsay statement, or a statement defined in ORS 40.450 (4)(b)(C), (D) or (E), has been admitted in evidence, the credibility of the declarant may be attacked, and if attacked may be supported, by any evidence which would be admissible for those purposes if the declarant had testified as a witness. Evidence of a statement or conduct by the declarant at any time, inconsistent with the hearsay statement of the declarant, is not subject to any requirement under ORS 40.380 relating to impeachment by evidence of inconsistent statements. If the party against whom a hearsay statement has been admitted calls the declarant as a witness, the party is entitled to examine the declarant on the statement as if under cross-examination. [1981 c.892 §67]
+40.470 Rule 805. Hearsay within hearsay. Hearsay included within hearsay is not excluded under ORS 40.455 if each part of the combined statements conforms with an exception set forth in ORS 40.460 or 40.465. [1981 c.892 §66] 
 
 ## Provenance & change history
 

@@ -54,7 +54,7 @@ ORS 31.815 — Covenant not to sue; effect; notice. Chapter 31 (Tort Actions), 2
 
 (2) When a covenant described in subsection
 
-(1) of this section is given, the claimant shall give notice of all of the terms of the covenant to all persons against whom the claimant makes claims. [Formerly 18.455] 31.820 Severability. If any provision of ORS 31.800 to 31.820 or the application thereof to any person is held invalid, the invalidity shall not affect other provisions or applications of ORS 31.800 to 31.820 which can be given effect without the invalid provision or application and to this end the provisions of ORS 31.800 to 31.820 are severable. [Formerly 18.460]
+(1) of this section is given, the claimant shall give notice of all of the terms of the covenant to all persons against whom the claimant makes claims. [Formerly 18.455] 
 
 ## Provenance & change history
 

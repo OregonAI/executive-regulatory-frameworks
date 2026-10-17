@@ -52,7 +52,7 @@ ORS 62.789 — Procedure for revocation of election; limits on merger. Chapter 6
 
 (1) When any employee cooperative revokes its election in accordance with ORS 62.771, the amendment to the articles of incorporation shall provide for conversion of membership shares and internal capital accounts or their conversion to securities or other property in a manner consistent with this chapter.
 
-(2) An employee cooperative which has not revoked its election under ORS 62.765 to 62.792 may not merge with another corporation other than an employee cooperative. Two or more employee cooperatives may merge in accordance with this chapter. [1987 c.677 §21; 1995 c.195 §43] 62.792 Short title. ORS 62.765 to 62.792 shall be known and may be cited as the “Employee Cooperative Corporations Act.” [1987 c.677 §11]
+(2) An employee cooperative which has not revoked its election under ORS 62.765 to 62.792 may not merge with another corporation other than an employee cooperative. Two or more employee cooperatives may merge in accordance with this chapter. [1987 c.677 §21; 1995 c.195 §43] 
 
 ## Provenance & change history
 

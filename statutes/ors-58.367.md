@@ -50,7 +50,7 @@ ORS 58.367 — Authority of regulatory board to establish rules affecting profes
 
 ## Full text
 
-58.367 Authority of regulatory board to establish rules affecting professional corporation. Except as otherwise provided by law, the regulatory board applicable to each professional service rendered by a professional corporation may establish rules and regulations affecting the corporation and its officers, directors and shareholders that are in addition to the provisions of this chapter. [1997 c.774 §4] 58.369 Application of chapter to practice of dentistry. Nothing in this chapter is intended to supersede the provisions of ORS 679.020. [1997 c.774 §27] 58.375 [1997 c.774 §17; 2007 c.557 §1; 2017 c.336 §1; 2025 c.295 §2; renumbered 58.500 in 2025] 58.376 [2017 c.179 §2; 2024 c.73 §21; 2025 c.295 §3; renumbered 58.503 in 2025] 58.377 [1997 c.774 §18; 2003 c.576 §317; renumbered 58.509 in 2025] 58.379 [1997 c.774 §19; renumbered 58.512 in 2025] 58.381 [1997 c.774 §20; renumbered 58.515 in 2025] 58.383 [1997 c.774 §21; renumbered 58.518 in 2025] 58.385 [1997 c.774 §22; renumbered 58.521 in 2025] 58.387 [1997 c.774 §23; 2019 c.165 §31; renumbered 58.524 in 2025] 58.389 [1997 c.774 §24; renumbered 58.527 in 2025]
+58.367 Authority of regulatory board to establish rules affecting professional corporation. Except as otherwise provided by law, the regulatory board applicable to each professional service rendered by a professional corporation may establish rules and regulations affecting the corporation and its officers, directors and shareholders that are in addition to the provisions of this chapter. [1997 c.774 §4] 
 
 ## Provenance & change history
 

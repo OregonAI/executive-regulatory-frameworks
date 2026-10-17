@@ -56,17 +56,7 @@ ORS 81.251 — Master list of farm products; list of buyers, commission merchant
 
 (4) The Secretary of State shall maintain a list of all buyers of farm products, commission merchants and selling agents who register with the Secretary of State on a form indicating: (a) The name and address of each buyer, commission merchant and selling agent; (b) The interest of each buyer, commission merchant or selling agent in receiving the master list on farm products; and (c) The farm products in which each buyer, commission merchant and selling agent has an interest.
 
-(5) The Secretary of State shall distribute monthly to each buyer, commission merchant and selling agent registered under this section a copy of those portions of the master list that the buyer, commission merchant or selling agent has registered an interest in receiving. The Secretary of State shall by rule prescribe the yearly subscription fee for such copies of the monthly master list. [Formerly 80.118] 81.254 Confirmation of existence of any effective financing statement; fee; rules.
-
-(1) On request, the Secretary of State shall furnish to persons not registered under ORS 81.251 oral confirmation within 24 hours of the existence of any effective financing statement followed by written confirmation to any buyer of farm products buying from a debtor or commission merchant or selling agent selling for a seller covered by such statement.
-
-(2) The request for oral confirmation shall be in writing and shall be presented to the office of the Secretary of State during normal business hours.
-
-(3) Information on an effective financing statement may be furnished by telephone to the requestor of an oral confirmation.
-
-(4) Oral confirmation shall be followed by written confirmation from the Secretary of State within 48 hours after the oral confirmation.
-
-(5) The Secretary of State shall by rule prescribe the service fees for processing oral and written confirmation requests on effective financing statements. [Formerly 80.121] 81.257 Courtesy notice. Nothing in ORS 81.230 to 81.263 shall prevent a secured party from providing a courtesy notice to any person regarding the secured party’s security interests in farm products. The rights or obligations of the secured party or any other person shall not be affected by the failure of a secured party to give a courtesy notice or by the accuracy or completeness of the information given in such a notice. [Formerly 80.124] 81.260 Place to file effective financing statement. The proper place to file an effective financing statement on farm products as defined in ORS 81.230 is in the office of the Secretary of State. [Formerly 80.127] 81.263 Place to register as buyer of farm product, commission merchant or selling agent; duration of registration; fee; rules. The proper place to register under ORS 81.251 as a buyer of farm products or a commission merchant or selling agent of farm products as defined in ORS 81.230 is in the office of the Secretary of State. The registration is effective for one year following the date of registration. Registration may be amended by filing a new registration. The Secretary of State shall, by rule, prescribe the registration fee. [Formerly 80.130] _______________
+(5) The Secretary of State shall distribute monthly to each buyer, commission merchant and selling agent registered under this section a copy of those portions of the master list that the buyer, commission merchant or selling agent has registered an interest in receiving. The Secretary of State shall by rule prescribe the yearly subscription fee for such copies of the monthly master list. [Formerly 80.118] 
 
 ## Provenance & change history
 

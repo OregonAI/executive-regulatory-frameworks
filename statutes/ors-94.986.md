@@ -56,21 +56,7 @@ ORS 94.986 — Requirements for sale of membership camping contract; nondisturba
 
 (3) There shall have been delivered to and accepted by the commissioner a surety bond or letter of credit with the commissioner as obligee for the benefit of purchasers. The bond or letter of credit must be in an amount which is not less than 105 percent of the remaining principal balance of every indebtedness secured by the blanket encumbrance affecting the campground. Any such bond must be issued by a surety authorized to do business in this state and having sufficient net worth to satisfy the indebtedness. Any such letter of credit must be irrevocable and must be drawn upon a bank, savings and loan association or other financial institution acceptable to the commissioner. The bond or letter of credit shall provide for payment of all amounts secured by the blanket encumbrance, including costs, expenses and legal fees of the lienholder, if for any reason the blanket encumbrance is enforced. The bond or letter of credit may be reduced periodically in proportion to the reduction of the amounts secured by the blanket encumbrance.
 
-(4) There have been delivered to and accepted by the commissioner other financial assurances which the commissioner finds are acceptable to carry into effect the intent and provisions of this section. [1985 c.639 §11a; 1991 c.377 §5] 94.987 Judicial declaration of failure in management. (1)(a) Upon petition by the Real Estate Commissioner or a majority of active purchasers not then in default under their membership camping contracts, a court of competent jurisdiction may declare a failure of management of the membership camping operator and appoint a trustee to assume the membership camping operator’s duties under the membership camping contracts, if the court finds that: (A) Irreparable injury to the rights of the purchasers is likely to occur unless a trustee is appointed; and (B) There is no reasonable alternative to appointment of a trustee. (b) For purposes of this subsection, “active purchaser” means a current, dues-paying member of the membership camping operator.
-
-(2) The court may attach such conditions and terms to its appointment of a trustee under subsection
-
-(1) of this section as the court considers necessary to protect the rights of the purchasers under the membership camping contract. The trustee shall provide a copy of the court’s decision in such a case to the commissioner.
-
-(3) If the court petitioned under subsection
-
-(1) of this section finds that there is a reasonable alternative to the appointment of a trustee, the court may order the membership camping operator to carry out the reasonable alternative and may attach to its order such terms and conditions as it considers necessary to protect the rights of the purchasers under the membership camping contracts. [1991 c.377 §4] 94.989 Interpretation of membership camping contracts; application of Unlawful Trade Practices Act.
-
-(1) Membership camping contracts, campgrounds and facilities are not subdivisions or series partitions under ORS chapter 92, are not condominiums under ORS chapter 100, are not timeshare properties under ORS chapter 94, and are not securities under ORS 59.005 to 59.505, 59.710 to 59.830, 59.991 and 59.995.
-
-(2) Membership camping contracts covered by ORS 94.925 to 94.983 are retail installment contracts under ORS 83.010 to 83.190.
-
-(3) The Attorney General shall protect the rights of purchasers through the application of ORS 336.184 and 646.605 to 646.652. [1985 c.639 §12] 94.990 [Repealed by 1971 c.478 §1] 94.991 [Formerly 91.990; 1987 c.320 §15; renumbered 100.990 in 1989] _______________
+(4) There have been delivered to and accepted by the commissioner other financial assurances which the commissioner finds are acceptable to carry into effect the intent and provisions of this section. [1985 c.639 §11a; 1991 c.377 §5] 
 
 ## Provenance & change history
 

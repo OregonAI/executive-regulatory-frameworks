@@ -52,21 +52,7 @@ ORS 55.185 — Submission of record. Chapter 55 (Appeals), 2025 Edition.
 
 (2) The circuit court by order may extend the time for the justice court to submit the case record.
 
-(3) If the justice court and the circuit court agree, the justice court may submit its case record, or make the case record available, to the circuit court in electronic form. If the circuit court does not agree to accept the justice court record in electronic form, the justice court shall submit a paper copy of the case record to the circuit court. [2025 c.268 §12] 55.190 Proceedings in circuit court and standard of review generally. (1)(a) The circuit court may dismiss an appeal that is not properly taken or perfected, including the failure to include a claim in the notice of appeal if required by ORS 55.165 (1)(i), except that the circuit court may not dismiss an appeal because the justice court has failed to submit the justice court case record to the circuit court. (b) The circuit court shall not assess the merits of a claim made pursuant to ORS 55.165 (1)(i). If, in violation of this paragraph, the circuit court dismisses an appeal based on an assessment of such a claim, and notwithstanding ORS 138.035, the appellant may appeal the dismissal.
-
-(2) After the appeal is perfected, the matter shall be deemed pending for trial or hearing as if the case had been originally commenced in the circuit court. The circuit court shall proceed to hear and decide the matter anew, disregarding any irregularity or imperfection in matters of form that may have occurred in the justice court.
-
-(3) The circuit court may, in furtherance of justice and upon such terms as may be just, allow a party to amend the party’s pleadings in the action, provided that the amendment does not substantially change the issue tried in the justice court or introduce any new cause of action or defense. [2025 c.268 §13] 55.195 Rendering judgment; remand; notice to justice court.
-
-(1) The circuit court shall render a judgment, as defined in ORS 18.005, conclusively disposing of the appeal.
-
-(2) Except as otherwise provided in ORS 55.160 to 55.335: (a) If the circuit court determines that any of the terms of the justice court judgment should be reversed or modified, the circuit court shall render a judgment as if the case had been originally commenced in the circuit court, containing all the terms of the judgment and to be enforced as a judgment of the circuit court; or (b) If the circuit court determines that none of the terms of the justice court decision should be reversed or modified, the circuit court shall render a judgment affirming the decision and remanding the case to the justice court for enforcement of the judgment.
-
-(3) Notwithstanding subsection
-
-(2) of this section, in its discretion and for good cause, the circuit court may render such judgment as may be proper, which may include remanding the case to the justice court for further proceedings in accordance with the decision of the circuit court.
-
-(4) The trial court administrator of the circuit court shall provide a copy of the circuit court’s judgment to the justice court: (a) Within 40 days after the date of entry of the circuit court judgment, if no party appeals from the judgment; or (b) Within 10 days after receipt of the appellate judgment issued by the State Court Administrator resolving the appeal, if a party appeals the circuit court judgment to the Court of Appeals. [2025 c.268 §14] 55.200 Availability of writ of review. The right of a party in a justice court to appeal under ORS 55.160 to 55.335 may not be construed to prevent any party from seeking review in the circuit court under ORS 34.010 to 34.100 for errors in law appearing on the face of the judgment entered by the justice court or the proceedings connected therewith or, in a proceeding charging a violation or misdemeanor, an interlocutory order involving the constitutionality of a statute. [2025 c.268 §15]
+(3) If the justice court and the circuit court agree, the justice court may submit its case record, or make the case record available, to the circuit court in electronic form. If the circuit court does not agree to accept the justice court record in electronic form, the justice court shall submit a paper copy of the case record to the circuit court. [2025 c.268 §12] 
 
 ## Provenance & change history
 

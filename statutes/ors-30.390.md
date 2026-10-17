@@ -56,13 +56,7 @@ ORS 30.390 — Satisfaction of judgment against public corporation. Chapter 30 (
 
 (3) The certified copy provided for in subsection
 
-(1) of this section shall not be furnished by the clerk, unless at the time an execution might issue on the judgment if the same was against a private person, nor until satisfaction of the judgment in respect to such money or damages is acknowledged as in ordinary cases. The clerk shall provide with the copy a memorandum of such acknowledgment of satisfaction and the entry thereof. Unless the memorandum is provided, no order upon the treasurer shall issue thereon. [Amended by 2003 c.576 §185] 30.395 Settlement of certain claims against municipal corporations; manner of payment.
-
-(1) The governing body of any municipal corporation, as defined in ORS 297.405, may compromise, adjust and settle claims other than tort claims against the municipal corporation, its officers, employees or agents acting within the scope of their employment, and may, subject to procedural requirements imposed by law or charter, appropriate money for the payment of amounts agreed upon.
-
-(2) When a judgment is entered or a settlement is made pursuant to subsection
-
-(1) of this section, payment therefor may be made in the same manner as payment for tort claims under ORS 30.295. [1979 c.630 §2; 1987 c.396 §1] 30.400 Actions by and against public officers in official capacity. An action may be maintained by or against any public officer in this state in an official character, when, as to such cause of action, the officer does not represent any of the public corporations mentioned in ORS 30.310, for any of the causes specified in such section and ORS 30.320. If judgment is given against the officer in such action, it may be enforced against the officer personally, and the amount thereof shall be allowed to the officer in the official accounts of the officer. 30.402 [1991 c.847 §1; renumbered 17.095 in 2003]
+(1) of this section shall not be furnished by the clerk, unless at the time an execution might issue on the judgment if the same was against a private person, nor until satisfaction of the judgment in respect to such money or damages is acknowledged as in ordinary cases. The clerk shall provide with the copy a memorandum of such acknowledgment of satisfaction and the entry thereof. Unless the memorandum is provided, no order upon the treasurer shall issue thereon. [Amended by 2003 c.576 §185] 
 
 ## Provenance & change history
 

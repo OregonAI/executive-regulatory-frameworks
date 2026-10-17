@@ -58,13 +58,7 @@ ORS 1.188 — Surcharge on fines for courthouse. Chapter 1 (Courts and Judicial 
 
 (4) Except as provided in ORS 153.640 and 221.315, the surcharge shall be levied fully if any fine is imposed.
 
-(5) The surcharge shall be collected by the circuit court for the county and paid to the county for deposit in the account established under ORS 1.189 and used solely for: (a) Payment of capital costs of the courthouse project for which bonds are or will be issued under ORS 1.181 in the county imposing the surcharge; or (b) Payment of debt service and related expenses and funding of debt service reserves, if any, for bonds issued under ORS 271.390 or ORS chapter 287A to finance capital costs of the courthouse project for which bonds are or will be issued under ORS 1.181 in the county imposing the surcharge. [2016 c.78 §1] 1.189 Courthouse surcharge accounts.
-
-(1) The county treasurer shall deposit moneys received from surcharges imposed under ORS 1.188 in a courthouse surcharge account maintained by the county treasurer.
-
-(2) The moneys in the courthouse surcharge account and interest upon the account are reserved for the purposes of: (a) Payment of capital costs of the courthouse project for which bonds are or will be issued under ORS 1.181 in the county imposing the surcharge; or (b) Payment of debt service and related expenses and funding of debt service reserves, if any, for bonds issued under ORS 271.390 or ORS chapter 287A to finance capital costs of the courthouse project for which bonds are or will be issued under ORS 1.181 in the county imposing the surcharge.
-
-(3) The county treasurer may charge against the courthouse surcharge account an administrative fee for the actual costs associated with maintaining the account. The total administrative fees charged each year may not exceed five percent of the moneys received from surcharges imposed under ORS 1.188 for that year. [2016 c.78 §2] 1.190 [1999 c.1064 §3; repealed by 2007 c.626 §3] 1.192 [1999 c.1064 §4; repealed by 2007 c.626 §3]
+(5) The surcharge shall be collected by the circuit court for the county and paid to the county for deposit in the account established under ORS 1.189 and used solely for: (a) Payment of capital costs of the courthouse project for which bonds are or will be issued under ORS 1.181 in the county imposing the surcharge; or (b) Payment of debt service and related expenses and funding of debt service reserves, if any, for bonds issued under ORS 271.390 or ORS chapter 287A to finance capital costs of the courthouse project for which bonds are or will be issued under ORS 1.181 in the county imposing the surcharge. [2016 c.78 §1] 
 
 ## Provenance & change history
 

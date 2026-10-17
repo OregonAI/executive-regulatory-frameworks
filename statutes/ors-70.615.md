@@ -46,17 +46,7 @@ ORS 70.615 — Application of ORS chapter 67. Chapter 70 (Limited Partnerships),
 
 ## Full text
 
-70.615 Application of ORS chapter 67. In any case governing limited partnerships that is not provided for in this chapter, the provisions of ORS chapter 67 govern. [Formerly 70.465] 70.620 Correction of documents; effective date of correction.
-
-(1) A domestic or foreign limited partnership may correct a document filed by the Secretary of State if the document contains an incorrect statement or was defectively executed, attested, sealed, verified or acknowledged.
-
-(2) A domestic or foreign limited partnership shall correct a document by delivering a certificate of correction to the Office of Secretary of State. The certificate shall include the following: (a) A description of the document, including its filing date, or a copy of the document. (b) The incorrect statement and the reason it is incorrect, or a description of the manner in which the execution, attestation, seal, verification or acknowledgment is defective. (c) A correction of the incorrect statement or defective execution, attestation, seal, verification or acknowledgment.
-
-(3) Certificates of correction are effective on the effective date of the document they correct except as to persons relying on the uncorrected document and adversely affected by the correction. As to those persons, certificates of correction are effective when filed. [Formerly 70.470] 70.625 Short title. This chapter may be cited as the Uniform Limited Partnership Act. [Formerly 70.490] PENALTY 70.990 Penalty for signing false document.
-
-(1) A person commits the crime of signing a false document for filing if the person: (a) Knows the document is false in any material respect; and (b) Signs the document with an intent that the document be delivered to the office of the Secretary of State for filing under this chapter.
-
-(2) Signing a false document for filing is a Class A misdemeanor. [2013 c.158 §10] _______________
+70.615 Application of ORS chapter 67. In any case governing limited partnerships that is not provided for in this chapter, the provisions of ORS chapter 67 govern. [Formerly 70.465] 
 
 ## Provenance & change history
 

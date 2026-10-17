@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-72.8180
-title: "Buyer’s waiver of ORS"
+title: "Buyer’s waiver of ORS 72.8010 to 72.8200"
 doc_type: statute
 citation: "ORS 72.8180"
 authority_level: statute
@@ -40,15 +40,15 @@ tags: ["ors", "chapter-72"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors072.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Buyer’s waiver of ORS (ORS 72.8180)
+# Buyer’s waiver of ORS 72.8010 to 72.8200 (ORS 72.8180)
 
 ## At a glance
 
-ORS 72.8180 — Buyer’s waiver of ORS. Chapter 72 (Sales), 2025 Edition.
+ORS 72.8180 — Buyer’s waiver of ORS 72.8010 to 72.8200. Chapter 72 (Sales), 2025 Edition.
 
 ## Full text
 
-72.8180 Buyer’s waiver of ORS 72.8010 to 72.8200. Waiver of the provisions of ORS 72.8010 to 72.8200 by a buyer of consumer goods is void except where such a waiver is expressly allowed by ORS 72.8010 to 72.8200. [1973 c.413 §16] Note: See note under 72.8010. 72.8190 Status of remedies under ORS 72.8010 to 72.8200; effect of unconstitutionality. The remedies provided by ORS 72.8010 to 72.8200 are cumulative and shall not be construed as restricting any remedy otherwise available including the remedies provided by ORS chapter 72. If any provision of ORS 72.8010 to 72.8200 or application thereof to any person or circumstance is held unconstitutional, such invalidity shall not affect other provisions or applications of ORS 72.8010 to 72.8200 which can be given effect without the invalid provision or application, and to this end the provisions of ORS 72.8010 to 72.8200 are severable. [1973 c.413 §17] Note: See note under 72.8010. 72.8200 Operative dates. ORS 72.8010 to 72.8200 apply to a consumer good sold on or after January 1, 1974. However, ORS 72.8020, 72.8030, 72.8040 and 72.8090 only apply to a consumer good manufactured on or after January 1, 1974. [1973 c.413 §18] Note: See note under 72.8010. _______________
+72.8180 Buyer’s waiver of ORS 72.8010 to 72.8200. Waiver of the provisions of ORS 72.8010 to 72.8200 by a buyer of consumer goods is void except where such a waiver is expressly allowed by ORS 72.8010 to 72.8200. [1973 c.413 §16] Note: See note under 72.8010. 
 
 ## Provenance & change history
 

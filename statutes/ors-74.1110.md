@@ -48,13 +48,7 @@ ORS 74.1110 — Statute of limitations. Chapter 74 (Bank Deposits and Collection
 
 ## Full text
 
-74.1110 Statute of limitations. An action to enforce an obligation, duty or right arising under this chapter must be commenced within three years after the claim for relief accrues. [1993 c.545 §83] 74.1120 Electronic presentment.
-
-(1) “Agreement for electronic presentment” means an agreement, clearing house rule, or Federal Reserve regulation or operating circular, providing that presentment of an item may be made by transmission of an image of an item or information describing the item (“presentment notice”) rather than delivery of the item itself. The agreement may provide for procedures governing retention, presentment, payment, dishonor and other matters concerning items subject to the agreement.
-
-(2) Presentment of an item pursuant to an agreement for presentment is made when the presentment notice is received.
-
-(3) If presentment is made by presentment notice, a reference to “item” or “check” in this chapter means the presentment notice unless the context otherwise indicates. [1993 c.545 §82]
+74.1110 Statute of limitations. An action to enforce an obligation, duty or right arising under this chapter must be commenced within three years after the claim for relief accrues. [1993 c.545 §83] 
 
 ## Provenance & change history
 

@@ -52,11 +52,7 @@ ORS 55.280 — Stay of enforcement of judgment. Chapter 55 (Appeals), 2025 Editi
 
 (2) A defendant filing notice of appeal from a judgment involving a violation does not automatically stay enforcement of the judgment.
 
-(3) Nothing in this section is intended to affect the authority of the justice court or circuit court to stay enforcement of the judgment under ORS 19.350, 138.285 or 138.295 or any other authority. [2025 c.268 §21] 55.285 Appeal from circuit court.
-
-(1) Upon entry by the circuit court of an order or judgment: (a) In a matter involving a violation, the order or judgment may be appealed as provided in ORS 138.057. (b) In a matter involving a misdemeanor, the order or judgment may be appealed as provided in ORS 138.010 to 138.310.
-
-(2) In any case in which only a violation or violations are charged, the state may not appeal from an order dismissing the case that is entered by reason of a police officer’s failure to appear at the trial on the matter if the police officer was timely provided with notice of the trial date. [2025 c.268 §23]
+(3) Nothing in this section is intended to affect the authority of the justice court or circuit court to stay enforcement of the judgment under ORS 19.350, 138.285 or 138.295 or any other authority. [2025 c.268 §21] 
 
 ## Provenance & change history
 

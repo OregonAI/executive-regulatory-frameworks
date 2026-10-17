@@ -48,11 +48,7 @@ ORS 62.870 — Notice to members of agricultural cooperative; date; contents; ef
 
 ## Full text
 
-62.870 Notice to members of agricultural cooperative; date; contents; effect of failure to send notice. An agricultural cooperative organized and operating under ORS chapter 62 must send a notice to all members of the cooperative annually. The cooperative shall send a member the notice in February or with the member’s contract. The notice shall state that members may not file an agricultural produce lien under ORS 87.228 and 87.700 to 87.736 against the cooperative. Failure by a cooperative to send the notice does not give a member lien rights against the cooperative. [2001 c.301 §4] Note: 62.870 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 62 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 62.990 [Repealed by 1957 c.716 §76] PENALTY 62.992 Penalty for signing false document.
-
-(1) A person commits the crime of signing a false document for filing if the person: (a) Knows the document is false in any material respect; and (b) Signs the document with an intent that the document be delivered to the office of the Secretary of State for filing under this chapter.
-
-(2) Signing a false document for filing is a Class A misdemeanor. [2013 c.158 §6] _______________
+62.870 Notice to members of agricultural cooperative; date; contents; effect of failure to send notice. An agricultural cooperative organized and operating under ORS chapter 62 must send a notice to all members of the cooperative annually. The cooperative shall send a member the notice in February or with the member’s contract. The notice shall state that members may not file an agricultural produce lien under ORS 87.228 and 87.700 to 87.736 against the cooperative. Failure by a cooperative to send the notice does not give a member lien rights against the cooperative. [2001 c.301 §4] Note: 62.870 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 62 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 62.990 [Repealed by 1957 c.716 §76] PENALTY 
 
 ## Provenance & change history
 

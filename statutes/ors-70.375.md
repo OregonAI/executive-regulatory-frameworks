@@ -56,15 +56,7 @@ ORS 70.375 — Cancellation of registration. Chapter 70 (Limited Partnerships), 
 
 (4) If the Secretary of State finds that the certificate conforms to the filing requirements of this chapter, the Secretary of State shall file the certificate and return an acknowledgment of filing to the sender. Upon the filing of the certificate of cancellation, the authority of the foreign limited partnership to transact business in this state shall cease.
 
-(5) A cancellation does not terminate the authority of the Secretary of State to accept service of process on the foreign limited partnership with respect to causes of action arising out of the transaction of business in this state. [1985 c.677 §54; 1987 c.543 §31; 1999 c.486 §17] 70.380 Registration prerequisite to suing in state; effect on contracts, liability; agent.
-
-(1) A foreign limited partnership transacting business in this state may not maintain any action or proceeding in any court of this state until it has registered in this state.
-
-(2) The failure of a foreign limited partnership to register in this state does not impair the validity of any contract or act of the foreign limited partnership or prevent the foreign limited partnership from defending any action or proceeding in any court of this state.
-
-(3) A limited partner of a foreign limited partnership is not liable as a general partner of the foreign limited partnership solely by reason of having transacted business in this state without registration.
-
-(4) A foreign limited partnership, by transacting business in this state without registration, appoints the Secretary of State as its agent for service of process with respect to causes of action arising out of the transaction of business in this state. [1985 c.677 §55] 70.385 Attorney General’s enforcement. The Attorney General may bring an action to restrain a foreign limited partnership from transacting business in this state in violation of ORS 70.350 to 70.385. [1985 c.677 §56]
+(5) A cancellation does not terminate the authority of the Secretary of State to accept service of process on the foreign limited partnership with respect to causes of action arising out of the transaction of business in this state. [1985 c.677 §54; 1987 c.543 §31; 1999 c.486 §17] 
 
 ## Provenance & change history
 

@@ -46,35 +46,7 @@ ORS 2.040 — Position number of judges. Chapter 2 (Supreme Court; Court of Appe
 
 ## Full text
 
-2.040 Position number of judges. The positions of the members of the Supreme Court shall be designated by the numbers 1 to 7, following the designation made by section 1, chapter 241, Laws of Oregon 1929, and each incumbent shall be designated by the same position number as the judge whom the incumbent succeeds in office. 2.045 Chief Justice.
-
-(1) The Chief Justice of the Supreme Court shall be a judge of the court selected by vote of a majority of the judges of the court. The judges of the court shall endeavor to select a judge who is well qualified to act as the administrative head of the judicial department of government in this state.
-
-(2) The Chief Justice may be removed from the office of Chief Justice by vote of a majority of the judges of the court when the Chief Justice fails to perform adequately the functions of the office.
-
-(3) The term of office of the Chief Justice is six years, commencing on the date of selection. The term of office of the Chief Justice is not interrupted by expiration of the term of the Chief Justice as a judge of the court if the judge is elected judge of the court for a succeeding term. A judge may be selected as Chief Justice for successive terms of the office of Chief Justice.
-
-(4) If there is a vacancy for any cause in the office of Chief Justice, a successor Chief Justice shall be selected by vote of a majority of the judges of the court.
-
-(5) The Chief Justice may designate another judge of the court to perform the functions of the office of Chief Justice when the Chief Justice is temporarily unable to perform those functions. [1959 c.384 §2 (enacted in lieu of 2.050); 1981 s.s. c.1 §1] 2.050 [Repealed by 1959 c.384 §1 (2.045 enacted in lieu of 2.050)] 2.052 [1959 c.44 §1; 1969 c.198 §31; repealed by 1975 c.706 §10] 2.055 [1959 c.44 §2; repealed by 1975 c.706 §10] 2.058 [1959 c.44 §3; 1961 c.387 §1; 1969 c.198 §32; repealed by 1975 c.706 §10] 2.060 [Amended by 1955 c.127 §1; repealed by 1959 c.44 §7] 2.070 [Repealed by 1983 c.763 §9] 2.080 [Repealed by 1979 c.55 §1] 2.090 [Repealed by 1979 c.55 §1] 2.100 Quorum. Subject to ORS 2.111, the presence of a majority of all the judges of the Supreme Court is necessary for the transaction of any business, except that less than a majority of the judges may meet and adjourn from day to day, or for the term, with the same effect as if all the judges were present. [Amended by 1959 c.44 §6; 2003 c.14 §4] 2.110 [Repealed by 1959 c.44 §4 (2.111 enacted in lieu of 2.110)] 2.111 Departments of court; sitting in departments or en banc; participation in decision of matter.
-
-(1) In hearing and determining causes, the Supreme Court may sit all together or in departments.
-
-(2) A department shall consist of not less than three nor more than five judges. For convenience of administration, each department may be numbered. The Chief Justice shall from time to time designate the number of departments and make assignments of the judges among the departments. The Chief Justice may sit in one or more of the departments and when so sitting may preside. The Chief Justice shall designate a judge to preside in each department.
-
-(3) The majority of any department shall consist of regularly elected and qualified judges of the Supreme Court.
-
-(4) The Chief Justice shall apportion the business to the departments. Each department shall have power to hear and determine causes and all questions which may arise therein, subject to subsection
-
-(5) of this section. The presence of three judges is necessary to transact business in any department, except such as may be done in chambers by any judge. The concurrence of three judges is necessary to pronounce a judgment.
-
-(5) The Chief Justice or a majority of the regularly elected and qualified judges of the Supreme Court at any time may refer a cause to be considered en banc. When sitting en banc, the court may include not more than two judges pro tempore of the Supreme Court. When the court sits en banc, the concurrence of a majority of the judges participating is necessary to pronounce a judgment, but if the judges participating are equally divided in their views as to the judgment to be given, the decision being reviewed shall be affirmed.
-
-(6) The Chief Justice may rule on motions and issue orders in procedural matters in the Supreme Court.
-
-(7) A judge or judge pro tempore of the Supreme Court may participate in the decision of the matter without resubmission of the cause even though the judge is not present for oral argument on the matter.
-
-(8) A judge or judge pro tempore of the Supreme Court may participate in the decision of a matter without resubmission of the cause in the following circumstances: (a) The judge was appointed or elected to the Supreme Court after submission of the cause. (b) The judge is participating in the decision of a cause that was submitted to a department, and the judge is participating in lieu of a judge of the department who died, became disabled, was disqualified or was otherwise unable to participate in the decision of a cause submitted to the department. (c) The judge is considering a cause en banc, but the judge was not part of the department that originally considered the cause. [1959 c.44 §5 (enacted in lieu of 2.110); 1995 c.273 §24; 1999 c.659 §1] 2.120 Rules, generally. The Supreme Court shall have power to make and enforce all rules necessary for the prompt and orderly dispatch of the business of the court, and the remanding of causes to the court below. 2.130 Rules governing original jurisdiction. The Supreme Court is empowered to prescribe and make rules governing the conduct in that court of all causes of original jurisdiction therein. 2.140 [Repealed by 1953 c.345 §3]
+2.040 Position number of judges. The positions of the members of the Supreme Court shall be designated by the numbers 1 to 7, following the designation made by section 1, chapter 241, Laws of Oregon 1929, and each incumbent shall be designated by the same position number as the judge whom the incumbent succeeds in office. 
 
 ## Provenance & change history
 

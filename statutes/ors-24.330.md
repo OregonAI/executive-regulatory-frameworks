@@ -46,7 +46,7 @@ ORS 24.330 — Severability. Chapter 24 (Enforcement and Recognition of Foreign 
 
 ## Full text
 
-24.330 Severability. If any provision of ORS 24.260 to 24.335 or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of ORS 24.260 to 24.335 which can be given effect without the invalid provision or application, and to this end the provisions of ORS 24.260 to 24.335 are severable. [1991 c.202 §17] 24.335 Short title. ORS 24.260 to 24.335 may be cited as the Uniform Foreign-Money Claims Act. [1991 c.202 §16]
+24.330 Severability. If any provision of ORS 24.260 to 24.335 or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of ORS 24.260 to 24.335 which can be given effect without the invalid provision or application, and to this end the provisions of ORS 24.260 to 24.335 are severable. [1991 c.202 §17] 
 
 ## Provenance & change history
 

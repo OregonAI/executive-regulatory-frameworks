@@ -46,7 +46,7 @@ ORS 24.385 — Statute of limitations. Chapter 24 (Enforcement and Recognition o
 
 ## Full text
 
-24.385 Statute of limitations. An action to recognize a foreign-country judgment must be commenced within the earlier of the time during which the foreign-country judgment is effective in the foreign country or 15 years from the date that the foreign-country judgment became effective in the foreign country. [2009 c.48 §8] 24.390 Uniformity of interpretation. In applying and construing ORS 24.350 to 24.400, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it. [2009 c.48 §9] 24.395 Saving clause. ORS 24.350 to 24.400 do not prevent the recognition under principles of comity or otherwise of a foreign-country judgment not within the scope of ORS 24.350 to 24.400. [2009 c.48 §10] 24.400 Short title. ORS 24.350 to 24.400 may be cited as the Uniform Foreign-Country Money Judgments Recognition Act. [2009 c.48 §11]
+24.385 Statute of limitations. An action to recognize a foreign-country judgment must be commenced within the earlier of the time during which the foreign-country judgment is effective in the foreign country or 15 years from the date that the foreign-country judgment became effective in the foreign country. [2009 c.48 §8] 
 
 ## Provenance & change history
 

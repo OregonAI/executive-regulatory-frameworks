@@ -46,11 +46,7 @@ ORS 42.110 — Seal defined. Chapter 42 (Execution, Formalities and Interpretati
 
 ## Full text
 
-42.110 Seal defined. A seal is a particular sign made to attest in the most formal manner the execution of an instrument. 42.115 Effect of presence or absence of seal. The presence or absence of a seal, corporate or otherwise, shall have no effect upon the validity, enforceability or character of any written instrument except where specifically otherwise provided by statute. A writing under seal may be modified or discharged by writing not under seal or by a valid oral agreement. [1965 c.502 §2] 42.120 [Repealed by 1965 c.502 §6] 42.125 Seal of state officer or state agency authorized.
-
-(1) For the purposes of ORS 40.510 (1)(a) and (d), each state officer and state agency may have a seal which, unless specifically provided otherwise by law, shall consist of an impression, imprint or likeness of the state seal accompanied by the name of the state officer or state agency.
-
-(2) As used in this section: (a) “Seal” has the meaning given that term in ORS 42.110. (b) “State agency” means every state officer, board, commission, department, institution, branch or agency of the state government, except the Legislative Assembly and the courts and their officers and committees. (c) “State officer” includes any appointed state official who is authorized by the Oregon Department of Administrative Services to have a seal and any elected state official, except members of the Legislative Assembly. [1982 s.s.1 c.14 §1; 2003 c.449 §23; 2005 c.22 §32; 2023 c.281 §§19,80] 42.130 [Repealed by 1965 c.502 §6] 42.140 [Repealed by 1965 c.502 §6]
+42.110 Seal defined. A seal is a particular sign made to attest in the most formal manner the execution of an instrument. 
 
 ## Provenance & change history
 

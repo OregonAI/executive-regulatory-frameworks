@@ -48,7 +48,7 @@ ORS 30.090 — Appointment of administrator of estate of wrongdoer. Chapter 30 (
 
 ## Full text
 
-30.090 Appointment of administrator of estate of wrongdoer. If no probate of the estate of the wrongdoer has been instituted within 60 days from the death of the wrongdoer, the court, upon motion of the injured person, or of the personal representatives of one meeting death, as stated in ORS 30.080, shall appoint an administrator of the estate of the wrongdoer. 30.100 Substitution of personal representative as party defendant. In the event of the death of a wrongdoer, as designated in ORS 30.080, while an action is pending, the court, upon motion of the plaintiff, shall cause to be substituted as defendant the personal representative of the wrongdoer, and the action shall continue against such personal representative. 30.110 [Repealed by 1961 c.578 §1 (30.115 enacted in lieu of 30.110 and 30.120)]
+30.090 Appointment of administrator of estate of wrongdoer. If no probate of the estate of the wrongdoer has been instituted within 60 days from the death of the wrongdoer, the court, upon motion of the injured person, or of the personal representatives of one meeting death, as stated in ORS 30.080, shall appoint an administrator of the estate of the wrongdoer. 
 
 ## Provenance & change history
 

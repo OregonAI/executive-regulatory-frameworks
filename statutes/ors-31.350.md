@@ -62,17 +62,7 @@ ORS 31.350 — Pleading requirements for actions against real estate licensees. 
 
 (4) Upon motion of the real estate licensee, the court shall enter judgment dismissing any complaint, cross-claim, counterclaim or third-party complaint against any real estate licensee who fails to comply with the requirements of this section.
 
-(5) This section applies only to a complaint, cross-claim, counterclaim or third-party complaint against a real estate licensee by any plaintiff who: (a) Has contracted with or otherwise employed the real estate licensee; or (b) Is a person for whose benefit the real estate licensee performed services. [2005 c.277 §1; 2007 c.319 §25] (Actions Arising From Injuries Caused by Dogs) 31.360 Proof required for claim of economic damages in action arising from injury caused by dog.
-
-(1) For the purpose of establishing a claim for economic damages, as defined in ORS 31.705, in an action arising from an injury caused by a dog: (a) The plaintiff need not prove that the owner of the dog could foresee that the dog would cause the injury; and (b) The owner of the dog may not assert as a defense that the owner could not foresee that the dog would cause the injury.
-
-(2) This section does not prevent the owner of a dog that caused an injury from asserting that the dog was provoked, or from asserting any other defense that may be available to the owner.
-
-(3) This section does not affect the requirements for an award of punitive damages provided in ORS 31.730 (1). [2007 c.402 §1; 2021 c.478 §6] (Actions Based on Failure to Conduct Adequate Criminal Records Check) 31.370 Presumption of absence of negligence if defendant conducts criminal records check through Department of State Police.
-
-(1) In a claim for negligence based on the defendant’s failure to conduct an adequate criminal records check of a person, there is a rebuttable presumption that the defendant was not negligent if the defendant conducted the criminal records check through the Department of State Police.
-
-(2) A criminal records check conducted through the Law Enforcement Data System meets the requirements of this section. [2019 c.424 §2]
+(5) This section applies only to a complaint, cross-claim, counterclaim or third-party complaint against a real estate licensee by any plaintiff who: (a) Has contracted with or otherwise employed the real estate licensee; or (b) Is a person for whose benefit the real estate licensee performed services. [2005 c.277 §1; 2007 c.319 §25] (Actions Arising From Injuries Caused by Dogs) 
 
 ## Provenance & change history
 

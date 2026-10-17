@@ -48,7 +48,7 @@ ORS 87.826 — Construction. Chapter 87 (Statutory Liens), 2025 Edition.
 
 ## Full text
 
-87.826 Construction. ORS 87.806 to 87.831 shall be so interpreted and construed as to effectuate its general purpose to make uniform the law of those states which enact the Uniform Federal Lien Registration Act. [1967 c.445 §6; 1981 c.852 §6] 87.830 [Repealed by 1967 c.445 §1] 87.831 Short title. ORS 87.806 to 87.831 may be cited as the Uniform Federal Lien Registration Act. [1967 c.445 §7; 1981 c.852 §7] 87.835 [Repealed by 1967 c.445 §1]
+87.826 Construction. ORS 87.806 to 87.831 shall be so interpreted and construed as to effectuate its general purpose to make uniform the law of those states which enact the Uniform Federal Lien Registration Act. [1967 c.445 §6; 1981 c.852 §6] 87.830 [Repealed by 1967 c.445 §1] 
 
 ## Provenance & change history
 

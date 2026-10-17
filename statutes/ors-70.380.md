@@ -54,7 +54,7 @@ ORS 70.380 — Registration prerequisite to suing in state; effect on contracts,
 
 (3) A limited partner of a foreign limited partnership is not liable as a general partner of the foreign limited partnership solely by reason of having transacted business in this state without registration.
 
-(4) A foreign limited partnership, by transacting business in this state without registration, appoints the Secretary of State as its agent for service of process with respect to causes of action arising out of the transaction of business in this state. [1985 c.677 §55] 70.385 Attorney General’s enforcement. The Attorney General may bring an action to restrain a foreign limited partnership from transacting business in this state in violation of ORS 70.350 to 70.385. [1985 c.677 §56]
+(4) A foreign limited partnership, by transacting business in this state without registration, appoints the Secretary of State as its agent for service of process with respect to causes of action arising out of the transaction of business in this state. [1985 c.677 §55] 
 
 ## Provenance & change history
 

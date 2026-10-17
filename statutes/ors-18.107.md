@@ -58,21 +58,7 @@ ORS 18.107 — Corrections to civil judgments. Chapter 18 (Judgments), 2025 Edit
 
 (4) This section does not apply to justice courts, municipal courts or county courts performing judicial functions.
 
-(5) This section does not apply to juvenile proceedings under ORS chapter 419B. [2003 c.576 §12] 18.110 [Repealed by 1981 c.898 §53] 18.112 Correction of designation of judgment as general judgment.
-
-(1) Upon motion of any party, the court may enter a corrected judgment under ORS 18.107 that changes the designation of a judgment from a general judgment to a limited judgment if the moving party establishes that: (a) Except by operation of ORS 18.082 (3), the judgment does not decide all requests for relief in the action other than requests for relief previously decided by a limited judgment or requests for relief that could be decided by a supplemental judgment; and (b) The judgment was inadvertently designated as a general judgment under circumstances that indicate that the moving party did not reasonably understand that the requests for relief that were not expressly decided by the judgment would be dismissed.
-
-(2) A motion under subsection
-
-(1) of this section must be filed within the time provided by ORCP 71 B.
-
-(3) Upon motion of any party, the court shall enter a corrected judgment under ORS 18.107 that changes to a limited judgment any document that has the effect of a general judgment under the provisions of ORS 18.082
-
-(6) unless all requests for relief in the action are decided by the terms of the document, by previous limited judgments entered in the action or by written decisions of the court that are incorporated in a general judgment under the provisions of ORS 18.082 (2).
-
-(4) Notwithstanding ORS 18.107, the time for appeal of the judgment corrected under this section commences from the entry of the corrected judgment. A motion may be filed under this section while an appeal is pending as provided in ORCP 71 B(2).
-
-(5) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §13; 2005 c.568 §18] 18.115 [1975 c.623 §12; 1979 c.284 §53; repealed by 1981 c.898 §53] 18.120 [Repealed by 1981 c.898 §53] 18.125 [1977 c.208 §3; repealed by 1981 c.898 §53] 18.130 [Repealed by 1977 c.208 §5] 18.135 [Formerly 15.100; repealed by 1981 c.898 §53] 18.140 [Amended by 1957 c.348 §1; 1973 c.207 §2; repealed by 1979 c.284 §199]
+(5) This section does not apply to juvenile proceedings under ORS chapter 419B. [2003 c.576 §12] 18.110 [Repealed by 1981 c.898 §53] 
 
 ## Provenance & change history
 

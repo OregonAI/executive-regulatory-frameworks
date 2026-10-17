@@ -46,13 +46,7 @@ ORS 53.325 — Proceeding when crime is not within jurisdiction of justice court
 
 ## Full text
 
-53.325 Proceeding when crime is not within jurisdiction of justice court. If in the course of the trial it appears to the justice that the defendant has committed a crime not within the jurisdiction of a justice court, the justice shall dismiss the action, state in the entry the reasons therefor, hold the defendant upon the warrant of arrest and proceed to examine the charge as upon an information of the commission of crime. [Formerly 156.510] 53.330 Function of district attorney in justice court. The district attorney may prosecute an action and if requested by the court shall prosecute an action in a justice court and attend an examination before a magistrate, either in person or by someone appointed by the district attorney for that purpose, and in any case the district attorney shall control the proceedings on behalf of the state. [Formerly 156.520] 53.335 Disposition of money paid on judgment.
-
-(1) Any money paid to the justice court upon a judgment in a criminal action shall first be applied to the costs of the action. The remainder shall be paid by the justice court to the treasurer of the county, to be appropriated as provided by law.
-
-(2) Money paid pursuant to subsection
-
-(1) of this section shall be delivered by the justice court to the treasurer not later than the last day of the month immediately following the month in which the money is collected. [Formerly 156.530]
+53.325 Proceeding when crime is not within jurisdiction of justice court. If in the course of the trial it appears to the justice that the defendant has committed a crime not within the jurisdiction of a justice court, the justice shall dismiss the action, state in the entry the reasons therefor, hold the defendant upon the warrant of arrest and proceed to examine the charge as upon an information of the commission of crime. [Formerly 156.510] 
 
 ## Provenance & change history
 

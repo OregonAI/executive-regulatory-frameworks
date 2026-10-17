@@ -48,15 +48,7 @@ ORS 60.744 — Appeal from revocation. Chapter 60 (Private Corporations), 2025 E
 
 ## Full text
 
-60.744 Appeal from revocation. In addition to any other legal remedy which may be available, a foreign corporation shall have the right to appeal the Secretary of State’s revocation of its authority to transact business in this state pursuant to the provisions of ORS chapter 183. [1987 c.52 §168] 60.747 Reinstatement of authority.
-
-(1) A foreign corporation which has had its authority revoked under ORS 60.737 may apply to the Secretary of State for reinstatement within five years from the date of revocation. The application shall: (a) State the name of the corporation and the effective date its authority was revoked; and (b) State that the ground or grounds for revocation of authority either did not exist or have been eliminated.
-
-(2) If the Secretary of State determines that the application contains the information required by subsection
-
-(1) of this section, that the information is correct and that the corporation’s name satisfies the requirements of ORS 60.717, the Secretary of State shall reinstate the authority.
-
-(3) When the reinstatement is effective, it relates back to and takes effect as of the effective date of the administrative revocation of authority and the corporation resumes carrying on its business as if the administrative revocation of authority had never occurred. [1989 c.1040 §33; 1995 c.215 §8]
+60.744 Appeal from revocation. In addition to any other legal remedy which may be available, a foreign corporation shall have the right to appeal the Secretary of State’s revocation of its authority to transact business in this state pursuant to the provisions of ORS chapter 183. [1987 c.52 §168] 
 
 ## Provenance & change history
 

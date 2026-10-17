@@ -46,25 +46,7 @@ ORS 31.550 — “Advance payment” defined. Chapter 31 (Tort Actions), 2025 Ed
 
 ## Full text
 
-31.550 “Advance payment” defined. As used in ORS 12.155 and 31.550 to 31.565, “advance payment” means compensation for the injury or death of a person or the injury or destruction of property prior to the determination of legal liability therefor. [Formerly 18.500] 31.555 Effect of advance payment; payment as satisfaction of judgment.
-
-(1) If judgment is entered against a party on whose behalf an advance payment referred to in ORS 31.560 or 31.565 has been made and in favor of a party for whose benefit any such advance payment has been received, the amount of the judgment shall be reduced by the amount of any such payments in the manner provided in subsection
-
-(3) of this section. However, nothing in ORS 12.155, 31.560 and 31.565 and this section authorizes the person making such payments to recover such advance payment if no damages are awarded or to recover any amount by which the advance payment exceeds the award of damages.
-
-(2) If judgment is entered against a party who is insured under a policy of liability insurance against such judgment and in favor of a party who has received benefits that have been the basis for a reimbursement payment by such insurer under ORS 742.534, the amount of the judgment shall be reduced by reason of such benefits in the manner provided in subsection
-
-(3) of this section. (3)(a) The amount of any advance payment referred to in subsection
-
-(1) of this section may be submitted by the party making the payment, in the manner provided in ORCP 68 C(4) for the submission of disbursements. (b) The amount of any benefits referred to in subsection
-
-(2) of this section, diminished in proportion to the amount of negligence attributable to the party in favor of whom the judgment was entered and diminished to an amount no greater than the reimbursement payment made by the insurer under ORS 742.534, may be submitted by the insurer which has made the reimbursement payment, in the manner provided in ORCP 68 C(4) for the submission of disbursements. (c) Unless timely objections are filed as provided in ORCP 68 C(4), the court clerk shall apply the amounts claimed pursuant to this subsection in partial satisfaction of the judgment. Such partial satisfaction shall be allowed without regard to whether the party claiming the reduction is otherwise entitled to costs and disbursements in the action. [Formerly 18.510] 31.560 Advance payment for death or personal injury not admission of liability; when advance payment made.
-
-(1) Advance payment made for damages arising from the death or injury of a person is not an admission of liability for the death or injury by the person making the payment unless the parties to the payment agree to the contrary in writing.
-
-(2) For the purpose of subsection
-
-(1) of this section, advance payment is made when payment is made with or to: (a) The injured person; (b) A person acting on behalf of the injured person with the consent of the injured person; or (c) Any other person entitled to recover damages on account of the injury or death of the injured or deceased person. [Formerly 18.520] 31.565 Advance payment for property damage not admission of liability. Any advance payment made for damages arising from injury or destruction of property is not an admission of liability for the injury or destruction by the person making the payment unless the parties to the payment agree to the contrary in writing. [Formerly 18.530]
+31.550 “Advance payment” defined. As used in ORS 12.155 and 31.550 to 31.565, “advance payment” means compensation for the injury or death of a person or the injury or destruction of property prior to the determination of legal liability therefor. [Formerly 18.500] 
 
 ## Provenance & change history
 

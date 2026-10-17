@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-1.665
-title: "Compensation and expenses of persons appointed under ORS"
+title: "Compensation and expenses of persons appointed under ORS 1.635"
 doc_type: statute
 citation: "ORS 1.665"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-1"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors001.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Compensation and expenses of persons appointed under ORS (ORS 1.665)
+# Compensation and expenses of persons appointed under ORS 1.635 (ORS 1.665)
 
 ## At a glance
 
-ORS 1.665 — Compensation and expenses of persons appointed under ORS. Chapter 1 (Courts and Judicial Officers Generally), 2025 Edition.
+ORS 1.665 — Compensation and expenses of persons appointed under ORS 1.635. Chapter 1 (Courts and Judicial Officers Generally), 2025 Edition.
 
 ## Full text
 
@@ -52,7 +52,7 @@ ORS 1.665 — Compensation and expenses of persons appointed under ORS. Chapter 
 
 (1) A judge pro tempore appointed as provided in ORS 1.635 shall be entitled to receive upon application therefor as compensation for each day the judge pro tempore is actually engaged in the performance of duties under the appointment an amount equal to five percent of the gross monthly salary of a regularly elected and qualified judge of the court to which the judge is appointed, or one-half of that daily compensation for services of one-half day or less. The compensation shall be paid upon the certificate of the judge pro tempore that the services were performed for the number of days shown in the certificate, and in the same manner as the salaries of the regularly elected and qualified judges are paid. A person who wishes or is willing to serve without compensation may do so.
 
-(2) A judge pro tempore appointed as provided in ORS 1.635 or assigned as provided in ORS 1.645 to serve outside the county in which the judge pro tempore resides or maintains an office shall receive, in addition to daily compensation, if any, reimbursement for hotel bills and traveling expenses necessarily incurred by the judge pro tempore in the performance of duties as judge pro tempore. The expenses shall be paid upon an itemized statement of the expenses, certified by the judge pro tempore that the expenses were necessarily and actually incurred, in the same manner as like expenses of regularly elected and qualified judges are paid. [1975 c.706 §8; 1981 c.65 §1] 1.670 [1965 c.494 §6; repealed by 1971 c.311 §2] 1.675 Judge pro tempore ineligible to participate in selection or removal of Chief Justice, Chief Judge or presiding judge. A person appointed or assigned to serve and serving as judge pro tempore of a court under ORS 1.600, 1.615 or 1.635 is not eligible to be, or to participate in the selection or removal of, the Chief Justice, Chief Judge or presiding judge of the court to which the person is appointed or assigned. [1981 s.s. c.1 §6] 1.680 [1965 c.494 §7; 1969 c.314 §4; repealed by 1971 c.311 §2] 1.690 [1965 c.494 §9; repealed by 1971 c.311 §2] 1.700 [1965 c.494 §10; repealed by 1971 c.311 §2] 1.710 [1965 c.494 §11; 1967 c.270 §4; repealed by 1971 c.311 §2]
+(2) A judge pro tempore appointed as provided in ORS 1.635 or assigned as provided in ORS 1.645 to serve outside the county in which the judge pro tempore resides or maintains an office shall receive, in addition to daily compensation, if any, reimbursement for hotel bills and traveling expenses necessarily incurred by the judge pro tempore in the performance of duties as judge pro tempore. The expenses shall be paid upon an itemized statement of the expenses, certified by the judge pro tempore that the expenses were necessarily and actually incurred, in the same manner as like expenses of regularly elected and qualified judges are paid. [1975 c.706 §8; 1981 c.65 §1] 1.670 [1965 c.494 §6; repealed by 1971 c.311 §2] 
 
 ## Provenance & change history
 

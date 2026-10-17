@@ -54,7 +54,7 @@ ORS 67.765 — Reinstatement of authority. Chapter 67 (Partnerships; Limited Lia
 
 (1) of this section, that the information is correct and that the foreign limited liability partnership’s name satisfies the requirements of ORS 67.730, the Secretary of State shall reinstate the authority.
 
-(3) When the reinstatement is effective, it relates back to and takes effect as of the effective date of the revocation of authority and the foreign limited liability partnership resumes carrying on its business as if the revocation of authority had never occurred. [1997 c.775 §78] 67.770 Action by Attorney General. The Attorney General may maintain an action to restrain a foreign limited liability partnership from transacting business in this state in violation of this chapter. [1997 c.775 §79]
+(3) When the reinstatement is effective, it relates back to and takes effect as of the effective date of the revocation of authority and the foreign limited liability partnership resumes carrying on its business as if the revocation of authority had never occurred. [1997 c.775 §78] 
 
 ## Provenance & change history
 

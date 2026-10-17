@@ -61,7 +61,7 @@ ORS 98.830 — Towing abandoned vehicle from private property; civil immunity; l
 
 (3) A vehicle towed under this section is subject to liens, possession and foreclosure by a tower under ORS 98.812
 
-(2) to (4). [1995 c.758 §1; 2007 c.538 §12; 2017 c.480 §4; 2019 c.547 §2] 98.835 [1995 c.758 §2; 2001 c.424 §2; 2007 c.538 §13; repealed by 2017 c.480 §3] 98.840 Towing vehicle alternative to procedure in ORS 98.810 to 98.818. The procedure authorized by ORS 98.830 for removal of abandoned vehicles from private property may be used by an owner of a parking facility or an owner of proscribed property as an alternative to the procedures described in ORS 98.810 to 98.818. [1995 c.758 §4; 2007 c.538 §13a; 2017 c.480 §5]
+(2) to (4). [1995 c.758 §1; 2007 c.538 §12; 2017 c.480 §4; 2019 c.547 §2] 98.835 [1995 c.758 §2; 2001 c.424 §2; 2007 c.538 §13; repealed by 2017 c.480 §3] 
 
 ## Provenance & change history
 

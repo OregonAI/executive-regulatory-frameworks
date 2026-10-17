@@ -48,13 +48,7 @@ ORS 1.550 — Private counsel for judges. Chapter 1 (Courts and Judicial Officer
 
 ## Full text
 
-1.550 Private counsel for judges. Whenever, pursuant to ORS chapter 180, the Attorney General is requested to represent a judge of the Supreme Court, Court of Appeals, Oregon Tax Court or circuit court and declines to do so, the judge may, subject to the provisions of ORS 30.260 to 30.300 and 30.310 to 30.400, employ private counsel as provided under ORS 1.560. [1977 c.79 §2] 1.560 Procedure for employment of private counsel; terms and conditions. In any case in which the judge desires the appointment of private counsel, the judge shall so notify the State Court Administrator. The State Court Administrator, under the direction of the Supreme Court, may authorize the judge to employ private counsel under the following circumstances:
-
-(1) When the judge is a defendant in an action, suit or proceeding and there is no other party directly interested in the outcome of the action, suit or proceeding who should fairly bear the cost of representation;
-
-(2) When the judge is a defendant in an action, suit or proceeding and the State Court Administrator concludes that no party interested in the outcome of the action, suit or proceeding will provide adequate representation for the judge; or
-
-(3) In any action, suit or proceeding, when the State Court Administrator finds that employing private counsel is necessary to protect the public interest, the integrity of the judicial system, or the interests of the judge in performing duties as a state officer. [1977 c.79 §3; 2007 c.71 §2] 1.570 Claims for compensation of private counsel; approval by State Court Administrator. If private counsel is employed under ORS 1.560, such counsel shall submit to the State Court Administrator a verified and detailed claim for compensation, which claim shall include a statement of reimbursable expense incurred and the amount of time devoted to the matter on behalf of the judge. The State Court Administrator, under the direction of the Supreme Court, shall examine the claim and shall approve payment thereof in a reasonable amount. [1977 c.79 §4]
+1.550 Private counsel for judges. Whenever, pursuant to ORS chapter 180, the Attorney General is requested to represent a judge of the Supreme Court, Court of Appeals, Oregon Tax Court or circuit court and declines to do so, the judge may, subject to the provisions of ORS 30.260 to 30.300 and 30.310 to 30.400, employ private counsel as provided under ORS 1.560. [1977 c.79 §2] 
 
 ## Provenance & change history
 

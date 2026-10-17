@@ -46,7 +46,7 @@ ORS 31.980 — Action for alienation of affections abolished. Chapter 31 (Tort A
 
 ## Full text
 
-31.980 Action for alienation of affections abolished. There shall be no civil cause of action for alienation of affections. [Formerly 30.840] 31.982 Action for criminal conversation abolished. There shall be no civil cause of action for criminal conversation. [Formerly 30.850] _______________
+31.980 Action for alienation of affections abolished. There shall be no civil cause of action for alienation of affections. [Formerly 30.840] 
 
 ## Provenance & change history
 

@@ -52,11 +52,7 @@ ORS 31.360 — Proof required for claim of economic damages in action arising fr
 
 (2) This section does not prevent the owner of a dog that caused an injury from asserting that the dog was provoked, or from asserting any other defense that may be available to the owner.
 
-(3) This section does not affect the requirements for an award of punitive damages provided in ORS 31.730 (1). [2007 c.402 §1; 2021 c.478 §6] (Actions Based on Failure to Conduct Adequate Criminal Records Check) 31.370 Presumption of absence of negligence if defendant conducts criminal records check through Department of State Police.
-
-(1) In a claim for negligence based on the defendant’s failure to conduct an adequate criminal records check of a person, there is a rebuttable presumption that the defendant was not negligent if the defendant conducted the criminal records check through the Department of State Police.
-
-(2) A criminal records check conducted through the Law Enforcement Data System meets the requirements of this section. [2019 c.424 §2]
+(3) This section does not affect the requirements for an award of punitive damages provided in ORS 31.730 (1). [2007 c.402 §1; 2021 c.478 §6] (Actions Based on Failure to Conduct Adequate Criminal Records Check) 
 
 ## Provenance & change history
 

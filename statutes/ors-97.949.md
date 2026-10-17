@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-97.949
-title: "Notification by director to appropriate federal, state or local law enforcement officer of violation of ORS"
+title: "Notification by director to appropriate federal, state or local law enforcement officer of violation of ORS 97.923 to 97.949"
 doc_type: statute
 citation: "ORS 97.949"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-97"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors097.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Notification by director to appropriate federal, state or local law enforcement officer of violation of ORS (ORS 97.949)
+# Notification by director to appropriate federal, state or local law enforcement officer of violation of ORS 97.923 to 97.949 (ORS 97.949)
 
 ## At a glance
 
-ORS 97.949 — Notification by director to appropriate federal, state or local law enforcement officer of violation of ORS. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
+ORS 97.949 — Notification by director to appropriate federal, state or local law enforcement officer of violation of ORS 97.923 to 97.949. Chapter 97 (Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts), 2025 Edition.
 
 ## Full text
 

@@ -56,15 +56,7 @@ ORS 65.754 — Procedure for judicial revocation of authority. Chapter 65 (Nonpr
 
 (3) A court in a proceeding brought to revoke a corporation’s authority may issue injunctions, appoint a receiver or custodian pendente lite with all powers and duties the court directs, take other action required to preserve the corporate assets located in Oregon and carry on the corporation’s Oregon activities until a full hearing can be held.
 
-(4) A person other than the Attorney General who brings a revocation proceeding for a foreign corporation that would have been a public benefit or religious corporation had it been incorporated in this state, shall forthwith give written notice of the proceeding to the Attorney General who may intervene. [1989 c.1010 §162] 65.757 Judgment of revocation.
-
-(1) If after a hearing a court determines that one or more grounds for judicial revocation of authority described in ORS 65.751 exists, the court may enter a judgment revoking a foreign corporation’s authority to transact business in Oregon and specifying the effective date of the revocation. The clerk of the court shall deliver a certified copy of the judgment to the Secretary of State for filing.
-
-(2) The authority of a foreign corporation to transact business in Oregon ceases as of the date of the judgment of revocation.
-
-(3) The judgment of revocation of a foreign corporation’s authority to transact business in this state appoints the Secretary of State the foreign corporation’s agent for service of process in any proceeding based on a cause of action which arose during the time the foreign corporation was authorized to transact business in this state.
-
-(4) Revocation of a foreign corporation’s authority to transact business in this state terminates the authority of the foreign corporation’s registered agent. [1989 c.1010 §163; 2003 c.576 §330; 2019 c.174 §106]
+(4) A person other than the Attorney General who brings a revocation proceeding for a foreign corporation that would have been a public benefit or religious corporation had it been incorporated in this state, shall forthwith give written notice of the proceeding to the Attorney General who may intervene. [1989 c.1010 §162] 
 
 ## Provenance & change history
 
