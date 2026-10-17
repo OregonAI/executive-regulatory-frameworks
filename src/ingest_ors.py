@@ -264,9 +264,12 @@ def ingest_chapter(ch, cat_chapter):
             # tell a renumbered/repealed section from a title that needs re-checking
             # against the source (see OregonAI/executive-regulatory-frameworks#286
             # for a catalog of the latter already found and not yet corrected).
+            found = " ".join(_catchline_words(sl, sec)) or "(none)"
             refuse(s, "catalog title does not match this section's own printed "
                       "catchline at the anchor point; not ingested (verify the "
-                      "catalog title against the source before re-running)")
+                      "catalog title against the source before re-running). "
+                      f"Catalog title: {title!r}. Catchline words found at the "
+                      f"anchor: {found!r}.")
             skipped += 1
             continue
         out.write_text(doc_body(sec, title, ch, ch_title, snap_id, sha, url, sl))
@@ -553,6 +556,37 @@ def _proof_a_short_complete_section_is_not_mistaken_for_no_body(ck):
        has_body("1.001 Title. " + "word " * 40, "1.001"))
 
 
+def _proof_an_anchor_refusal_records_what_it_found(ck):
+    """A refusal a person will audit later must carry the evidence, not only the verdict.
+    31.262 was refused with 'verify the catalog title' although the title is right: the slice
+    had been anchored on a cross-reference ('...filed under ORS 31.262 Act may enter into
+    mediation', inside 31.268) and so read 'Act may enter into mediation' as 31.262's
+    catchline. The note now quotes the title and the catchline words the anchor produced, so
+    that case is told apart from a title that really diverges (67.042 'non- waivable',
+    67.600 missing 'a'). Real chapter 31 snapshot, no network."""
+    tmpdir = Path(tempfile.mkdtemp(prefix="ingest-ors-selftest-"))
+    orig_out = globals()["OUT"]
+    globals()["OUT"] = tmpdir
+    try:
+        cat_chapter = {
+            "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors031.html",
+            "title": "Civil Actions",
+            "sections": [{"number": "31.262", "title": "Notice of adverse health care incident",
+                          "status": "not_ingested"}],
+        }
+        ingest_chapter("31", cat_chapter)
+        s = cat_chapter["sections"][0]
+        note = s.get("note", "")
+        ck("31.262 is still refused (nothing published)", s.get("status") == "not_sliceable"
+           and not any(tmpdir.iterdir()))
+        ck("the note quotes the catalog title", "Notice of adverse health care incident" in note)
+        ck("the note quotes the catchline the anchor actually found",
+           "act may enter into mediation" in note.lower())
+        ck("the note keeps the 'catchline' wording the refusal proof relies on", "catchline" in note)
+    finally:
+        globals()["OUT"] = orig_out
+
+
 def _selftest() -> int:
     from repo_lib import Checks
     ck = Checks()
@@ -561,6 +595,7 @@ def _selftest() -> int:
     _proof_a_measured_residual_is_named_not_absorbed(ck)
     _proof_a_refusal_never_publishes_through_the_real_consumer(ck)
     _proof_a_short_complete_section_is_not_mistaken_for_no_body(ck)
+    _proof_an_anchor_refusal_records_what_it_found(ck)
     return ck.report("ingest-ors selftest")
 
 
