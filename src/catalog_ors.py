@@ -207,7 +207,9 @@ _PARA_SEP_RE = re.compile(r"\n\s*\n")
 # heading with nothing else following -- the Unicode right single quote ("INJURED WORKERS’
 # MEMORIAL SCHOLARSHIP", ch. 654), and comma/semicolon, which multi-clause part headings use
 # routinely ("REGISTRATION, ENFORCEMENT AND MODIFICATION OF SUPPORT ORDERS", ch. 110;
-# "LIQUOR; DRUGS", ch. 471/474). Safe to widen this far and no further: the match requires
+# "LIQUOR; DRUGS", ch. 471/474) and a colon ("PERFORMANCE OF LEASE CONTRACT: REPUDIATED,
+# SUBSTITUTED AND EXCUSED", 72A; "WAREHOUSE RECEIPTS:", ch. 77 -- see `_selftest`). Safe to
+# widen this far and no further: the match requires
 # the ENTIRE isolated paragraph to be uppercase, and no real ORS catchline -- always Title
 # Case -- is ever printed as its own all-uppercase paragraph, comma or not.
 # Digits, and an optional trailing ALL-CAPS parenthetical on the SAME paragraph, both added
@@ -235,7 +237,7 @@ _PARA_SEP_RE = re.compile(r"\n\s*\n")
 # with an embedded lowercase ordinal suffix ("OREGON EDUCATIONAL ACT FOR THE 21st CENTURY",
 # ch. 329) is not all-uppercase and matches neither this regex nor TRAILING_HEADING_RE.
 _HEADING_UNIT_RE = re.compile(
-    r"^(?=.*[A-Z])[A-Z0-9][A-Z0-9 ,;'’\-]*(?:\([A-Z0-9][A-Z0-9 ,;'’\-]*\))?$")
+    r"^(?=.*[A-Z])[A-Z0-9][A-Z0-9 ,;:'’\-]*(?:\([A-Z0-9][A-Z0-9 ,;'’\-]*\))?$")
 # A sub-heading is Title Case, not ALL CAPS ("(Generally)", "(Regulation; Prohibited
 # Acts)"), so it needs its own pattern -- matched purely by being its own parenthetical
 # paragraph, with or without a heading paragraph immediately before it (several chapters
@@ -1089,6 +1091,21 @@ def _selftest() -> int:
        "the slash",
        s279c.get("279C.337") == "Procurement of construction manager/general contractor "
        "services")
+
+    # A group heading printed with a COLON ("PERFORMANCE OF LEASE CONTRACT: REPUDIATED,
+    # SUBSTITUTED AND EXCUSED", 72A.3100; "WAREHOUSE RECEIPTS AND BILLS OF LADING:", ch. 77)
+    # is an isolated all-caps paragraph like any other, but ':' was outside
+    # `_HEADING_UNIT_RE`'s character class, so it never entered `_toc_heading_phrases`, was
+    # never stripped as a known phrase, and `TRAILING_HEADING_RE` ate only its tail:
+    # 72A.3100 read '... accessions PERFORMANCE OF LEASE CONTRACT: REPUDIATED,'. Measured
+    # over all 569 committed chapters: admitting ':' changes exactly 6 titles (72A.3100,
+    # 77.1060, 77.2100, 77.3090, 77.4040, 77.5090), every one a glued heading removed.
+    s72a = secs("72A")
+    ck("72A.3100 (colon heading, wrapped across a line) carries no glued heading text",
+       s72a.get("72A.3100") == "Lessor’s and lessee’s rights when goods become accessions")
+    s77 = secs("77")
+    ck("77.3090 (colon heading) carries no glued heading text",
+       s77.get("77.3090") == "Duty of care; contractual limitation of carrier’s liability")
 
     return ck.report("catalog-ors selftest")
 
