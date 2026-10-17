@@ -1626,9 +1626,8 @@ chapters:
     path: statutes/ors-105.455.md
   - number: '105.462'
     title: Definitions for ORS 105.462 to 105.490
-    status: not_sliceable
-    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
-      artifact); not ingested
+    status: ingested
+    path: statutes/ors-105.462.md
   - number: '105.463'
     title: Preemptive effect of ORS 105.464
     status: ingested
@@ -48602,9 +48601,10 @@ chapters:
   - number: '31.262'
     title: Notice of adverse health care incident
     status: not_sliceable
-    note: 'catalog title does not match this section''s own printed catchline at the anchor point; not
-      ingested (verify the catalog title against the source before re-running). Catalog title: ''Notice
-      of adverse health care incident''. Catchline words found at the anchor: ''act may enter into mediation''.'
+    note: 'title is correct (the printed catchline is ''Notice of adverse health care incident''); the
+      slice anchor was a citation in 31.268 and is fixed in repo_lib.snapshot_slice. Held, not ingested:
+      snapshot_slice does not end a section at the next one in a chapter numbered below 100, so the slice
+      carries 8 later sections'' text.'
   - number: '31.264'
     title: Discussion of adverse health care incident; offers of compensation; reporting to commission
     status: ingested
@@ -138537,7 +138537,7 @@ chapters:
     status: ingested
     path: statutes/ors-72a.3095.md
   - number: 72A.3100
-    title: 'Lessor’s and lessee’s rights when goods become accessions PERFORMANCE OF LEASE CONTRACT: REPUDIATED,'
+    title: Lessor’s and lessee’s rights when goods become accessions
     status: ingested
     path: statutes/ors-72a.3100.md
   - number: 72A.4010
@@ -145382,23 +145382,17 @@ chapters:
   - number: 74A.1030
     title: Payment order; definitions
     status: not_sliceable
-    note: 'catalog title does not match this section''s own printed catchline at the anchor point; not
-      ingested (verify the catalog title against the source before re-running). Catalog title: ''Payment
-      order; definitions''. Catchline words found at the anchor: ''security procedure ors a sender ors
-      a the following definitions in ors chapter apply to this chapter and ors clearing house ors item
-      ors suspends payments ors in addition ors chapter contains general definitions and principles of
-      construction and interpretation applicable throughout this chapter''.'
+    note: 'title is correct (the printed catchline is ''Payment order; definitions''); the slice anchor
+      was a citation in 74A.1040''s definition table and is fixed in repo_lib.snapshot_slice. Held, not
+      ingested: snapshot_slice does not end a section at the next one when the number has a 4-digit tail
+      in a chapter numbered below 100, so the slice carries 5 later sections'' text.'
   - number: 74A.1040
     title: Funds transfer; definitions
     status: not_sliceable
-    note: 'catalog title does not match this section''s own printed catchline at the anchor point; not
-      ingested (verify the catalog title against the source before re-running). Catalog title: ''Funds
-      transfer; definitions''. Catchline words found at the anchor: ''payment by beneficiary s bank to
-      beneficiary ors a payment by originator to beneficiary ors a payment by sender to receiving bank
-      ors a payment date ors a payment order ors a receiving bank ors a security procedure ors a sender
-      ors a the following definitions in ors chapter apply to this chapter and ors clearing house ors
-      item ors suspends payments ors in addition ors chapter contains general definitions and principles
-      of construction and interpretation applicable throu''.'
+    note: 'title is correct (the printed catchline is ''Funds transfer; definitions''); the slice anchor
+      was a citation in a definition table and is fixed in repo_lib.snapshot_slice. Held, not ingested:
+      snapshot_slice does not end a section at the next one when the number has a 4-digit tail in a chapter
+      numbered below 100, so the slice carries 4 later sections'' text.'
   - number: 74A.1050
     title: Other definitions
     status: ingested
@@ -147881,7 +147875,7 @@ chapters:
     status: ingested
     path: statutes/ors-77.1050.md
   - number: '77.1060'
-    title: 'Control of electronic document of title WAREHOUSE RECEIPTS:'
+    title: Control of electronic document of title
     status: ingested
     path: statutes/ors-77.1060.md
   - number: '77.2010'
@@ -147921,7 +147915,7 @@ chapters:
     status: ingested
     path: statutes/ors-77.2090.md
   - number: '77.2100'
-    title: 'Enforcement of warehouse’s lien BILLS OF LADING:'
+    title: Enforcement of warehouse’s lien
     status: ingested
     path: statutes/ors-77.2100.md
   - number: '77.3010'
@@ -147958,8 +147952,7 @@ chapters:
     status: ingested
     path: statutes/ors-77.3080.md
   - number: '77.3090'
-    title: 'Duty of care; contractual limitation of carrier’s liability WAREHOUSE RECEIPTS AND BILLS OF
-      LADING:'
+    title: Duty of care; contractual limitation of carrier’s liability
     status: ingested
     path: statutes/ors-77.3090.md
   - number: '77.4010'
@@ -147975,8 +147968,7 @@ chapters:
     status: ingested
     path: statutes/ors-77.4030.md
   - number: '77.4040'
-    title: 'No liability for good faith delivery pursuant to document of title WAREHOUSE RECEIPTS AND
-      BILLS OF LADING:'
+    title: No liability for good faith delivery pursuant to document of title
     status: ingested
     path: statutes/ors-77.4040.md
   - number: '77.5010'
@@ -148012,7 +148004,7 @@ chapters:
     status: ingested
     path: statutes/ors-77.5080.md
   - number: '77.5090'
-    title: 'Adequate compliance with commercial contract WAREHOUSE RECEIPTS AND BILLS OF LADING:'
+    title: Adequate compliance with commercial contract
     status: ingested
     path: statutes/ors-77.5090.md
   - number: '77.6010'

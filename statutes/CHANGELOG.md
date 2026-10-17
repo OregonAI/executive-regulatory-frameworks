@@ -10,6 +10,21 @@ file's frontmatter).
 
 ### Fixed
 
+- `repo_lib.snapshot_slice` no longer anchors an ORS section on a later citation of it: a number
+  right after "ORS", "and", "to", "or", "section(s)" or a comma is skipped as a heading
+  candidate (74A.1030, 74A.1040, 31.262 and 105.462 were anchored on a citation and refused or
+  mis-sliced). Measured against all 39,224 catalog rows: the slice of no already-ingested
+  section changes. 105.462 is ingested. 74A.1030, 74A.1040 and 31.262 stay not ingested on
+  purpose, for a different reason now recorded in their `note`: `snapshot_slice` does not end
+  a section at the next one in a chapter numbered below 100 (and, in the UCC chapters, for
+  four-digit section numbers), so their slices carry 8, 5 and 4 later sections' text. The
+  same defect is already in the committed text of other documents in those chapters.
+- `src/catalog_ors.py`: a section-group heading printed with a colon ("PERFORMANCE OF LEASE
+  CONTRACT: REPUDIATED, SUBSTITUTED AND EXCUSED") was not recognized as a heading and was glued
+  onto the preceding title. 72A.3100 and five chapter 77 titles are corrected in the catalog and
+  in their documents (`src/backfill_ors_titles.py`). Admitting ":" changes exactly those six
+  titles across all committed chapter snapshots; chapters 74A and 131A carry no such text.
+
 - `src/ingest_ors.py` no longer refuses a short, complete section as "no section body found":
   24.335 (111 characters) and 587.010 (102) were withheld by a flat 120-character floor and
   are now ingested. A short slice is accepted only when ORS's catchline terminator and text

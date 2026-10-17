@@ -10,7 +10,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 10 | Juries | 29 | 29 |
 | 100 | Condominiums | 131 | 130 |
 | 101 | Continuing Care Retirement Communities | 19 | 19 |
-| 105 | Property Rights | 217 | 216 |
+| 105 | Property Rights | 217 | 217 |
 | 106 | Marriage; Domestic Partnership | 30 | 30 |
 | 107 | Marital Dissolution, Annulment and Separation; Mediation and Conciliation Services; Family Abuse Prevention | 110 | 110 |
 | 108 | Spousal Relationships; Property Rights; Premarital Agreements | 28 | 28 |
@@ -622,7 +622,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 97 | Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts | 149 | 149 |
 | 98 | Lost, Unclaimed or Abandoned Property; Vehicle Towing | 97 | 97 |
 | 99 | Property Removed by High Water | 6 | 6 |
-| **all** | | **39224** | **38998** |
+| **all** | | **39224** | **38999** |
 
 Per-section numbers/titles/paths: [`_meta/catalog/ors.yml`](../_meta/catalog/ors.yml).
 Sections marked `not_sliceable` there have no body text in the chapter HTML

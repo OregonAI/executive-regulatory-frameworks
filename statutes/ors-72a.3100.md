@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-72a.3100
-title: "Lessor’s and lessee’s rights when goods become accessions PERFORMANCE OF LEASE CONTRACT: REPUDIATED,"
+title: "Lessor’s and lessee’s rights when goods become accessions"
 doc_type: statute
 citation: "ORS 72A.3100"
 authority_level: statute
@@ -38,11 +38,11 @@ tags: ["ors", "chapter-72a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors072a.html> (retrieved 2026-10-17, 2025 Edition).
 
-# Lessor’s and lessee’s rights when goods become accessions PERFORMANCE OF LEASE CONTRACT: REPUDIATED, (ORS 72A.3100)
+# Lessor’s and lessee’s rights when goods become accessions (ORS 72A.3100)
 
 ## At a glance
 
-ORS 72A.3100 — Lessor’s and lessee’s rights when goods become accessions PERFORMANCE OF LEASE CONTRACT: REPUDIATED,. Chapter 72A (Leases), 2025 Edition.
+ORS 72A.3100 — Lessor’s and lessee’s rights when goods become accessions. Chapter 72A (Leases), 2025 Edition.
 
 ## Full text
 
