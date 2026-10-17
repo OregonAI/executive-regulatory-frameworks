@@ -333,7 +333,18 @@ def audit(cat) -> list[str]:
     # actually produced this run -- genuinely the collision this check exists to catch.
     scraped = {o["slug"] for o in cat["organizations"]
               if not o.get(catalog_agencies.ABSENT_FROM_INDEX_KEY)}
+    by_slug = {o["slug"]: o for o in cat["organizations"]}
     for slug, name, code in MANUAL_ENTRIES:
+        # A BODY THAT HOLDS AN OAR CHAPTER IS NOT ONE THAT ISSUES NO RULES. This list is for
+        # bodies the chapter scrape cannot see because they have no chapter; a row carrying
+        # one contradicts the reason it is here. Remove it from MANUAL_ENTRIES (its row is
+        # kept across a refresh by `absent_from_index_as_of`, not by this list). See
+        # _proof_audit_refuses_a_manual_entry_that_holds_a_chapter().
+        if (by_slug.get(slug) or {}).get("oar_chapter"):
+            problems.append(f"{slug}: in MANUAL_ENTRIES (agencies that issue no rules) but "
+                            f"its registry row holds oar_chapter "
+                            f"{by_slug[slug]['oar_chapter']!r} -- remove it from "
+                            f"MANUAL_ENTRIES")
         # Collision means the SCRAPE now produces this slug — the upstream mirror has
         # caught up and the manual entry is redundant. Compare against scraped entries
         # only; `slugs` deliberately includes the manual ones so MAPPING validates.
@@ -487,15 +498,38 @@ def _proof_absent_entry_dates_the_observations_own_date_not_today() -> int:
     return bad
 
 
+def _proof_audit_refuses_a_manual_entry_that_holds_a_chapter() -> int:
+    """`audit()` must refuse a MANUAL_ENTRIES slug whose registry row carries an
+    `oar_chapter`. MANUAL_ENTRIES is the list of bodies that issue NO rules; a row holding a
+    chapter says the opposite, and the two cannot both be true. The State Board of Tax
+    Practitioners sat in this list for months while OARD served its 800 chapter, and because
+    catalog_oar.registry_chapters() walks only rows that carry `oar_chapter`, chapter 800 was
+    never discovered or ingested. The rule cannot see a chapter the row does not record
+    (that needs OARD's dropdown), but it stops the row from claiming both at once."""
+    slug = MANUAL_ENTRIES[0][0]
+    cat = {"organizations": [{"slug": s, "name": n} for s, n, _ in MANUAL_ENTRIES]}
+    for o in cat["organizations"]:
+        if o["slug"] == slug:
+            o["oar_chapter"] = "999"
+    hit = [p for p in audit(cat) if p.startswith(f"{slug}:") and "oar_chapter" in p]
+    if not hit:
+        print(f"FAIL audit-refuses-a-manual-entry-that-holds-a-chapter: {slug} given "
+              "oar_chapter '999' and audit() said nothing", file=sys.stderr)
+        return 1
+    return 0
+
+
 def selftest() -> int:
     bad = _proof_absent_entry_dates_the_observations_own_date_not_today()
     bad += _proof_main_refuses_missing_entries_with_no_observation()
+    bad += _proof_audit_refuses_a_manual_entry_that_holds_a_chapter()
     if bad:
         print(f"{bad} proof(s) did not hold", file=sys.stderr)
         return 1
-    print("2 proofs held: _absent_entry() dates the observation's own date (never "
+    print("3 proofs held: _absent_entry() dates the observation's own date (never "
           "today()/manual) and refuses a name the observation already lists; main() "
-          "refuses to add anything when no observation is recorded at all")
+          "refuses to add anything when no observation is recorded at all; audit() "
+          "refuses a MANUAL_ENTRIES body whose row holds an OAR chapter")
     return 0
 
 
