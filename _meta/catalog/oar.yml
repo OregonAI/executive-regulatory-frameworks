@@ -18381,6 +18381,57 @@ chapters:
       status: ingested
       path: rules/177/200/oar-177-200-0090.md
   discovered: '2026-08-27'
+- chapter: '180'
+  title: Public Records Advocate
+  url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=279
+  divisions:
+  - division: '1'
+    title: Facilitated Dispute Resolution
+    status: ingested
+    rules:
+    - number: 180-001-0000
+      status: ingested
+      path: rules/180/001/oar-180-001-0000.md
+    - number: 180-001-0001
+      status: ingested
+      path: rules/180/001/oar-180-001-0001.md
+    - number: 180-001-0002
+      status: ingested
+      path: rules/180/001/oar-180-001-0002.md
+    - number: 180-001-0003
+      status: ingested
+      path: rules/180/001/oar-180-001-0003.md
+    - number: 180-001-0004
+      status: ingested
+      path: rules/180/001/oar-180-001-0004.md
+    - number: 180-001-0005
+      status: ingested
+      path: rules/180/001/oar-180-001-0005.md
+    - number: 180-001-0006
+      status: ingested
+      path: rules/180/001/oar-180-001-0006.md
+    - number: 180-001-0007
+      status: ingested
+      path: rules/180/001/oar-180-001-0007.md
+    - number: 180-001-0008
+      status: ingested
+      path: rules/180/001/oar-180-001-0008.md
+    - number: 180-001-0009
+      status: ingested
+      path: rules/180/001/oar-180-001-0009.md
+    - number: 180-001-0010
+      status: ingested
+      path: rules/180/001/oar-180-001-0010.md
+    - number: 180-001-0011
+      status: ingested
+      path: rules/180/001/oar-180-001-0011.md
+    - number: 180-001-0012
+      status: ingested
+      path: rules/180/001/oar-180-001-0012.md
+    - number: 180-001-0013
+      status: ingested
+      path: rules/180/001/oar-180-001-0013.md
+  discovered: '2026-10-17'
 - chapter: '198'
   title: Judicial Department
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=123
@@ -51683,6 +51734,16 @@ chapters:
       status: ingested
       path: rules/350/120/oar-350-120-0050.md
   discovered: '2026-09-13'
+- chapter: '404'
+  title: Office of Public Defense Services
+  url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=403
+  divisions:
+  - division: '25'
+    title: General
+    status: no_rules
+    rules: []
+    note: OARD lists no current rules under this division — confirmed, not a gap
+  discovered: '2026-10-17'
 - chapter: '407'
   title: Department of Human Services
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=185
@@ -146230,4 +146291,4 @@ chapters:
       status: ingested
       path: rules/976/002/oar-976-002-0040.md
   discovered: '2026-08-27'
-retrieved: '2026-10-16'
+retrieved: '2026-10-17'

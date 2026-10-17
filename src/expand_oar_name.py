@@ -13,7 +13,7 @@ anything about `name` changes. This script does the "first" part, once, over dat
 already exists.
 
 WHY A SCRIPT AND NOT A --refresh. `catalog_agencies.py --refresh` writes `oar_name` from
-now on (it is a SCRAPED field), but a refresh re-fetches all 171 chapter pages from
+now on (it is a SCRAPED field), but a refresh re-fetches all 173 chapter pages from
 oregon.public.law and rewrites every row from what that mirror serves TODAY. 170, not 190
 (#279, re-measured for #281): 190 is `len(organizations)`, this registry's total ROW count
 — a body sits in the registry because it EXISTS, not because it issues rules (CONTEXT.md),

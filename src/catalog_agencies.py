@@ -584,7 +584,7 @@ REGISTRY_NOTE = (
     "scraped from the index tree; null on the chapterless rows is not a "
     "gap — a body is in this registry because it EXISTS, not because it "
     "issues rules. source_url is the chapter page each row was scraped "
-    "from, where the scrape found one: null on 14 of the 19 chapterless "
+    "from, where the scrape found one: null on 12 of the 17 chapterless "
     "rows, not all of them — the other five hold a source_url that is "
     "not a chapter page (four hold the mirror's own rules index, "
     "https://oregon.public.law/rules, and the saif-corporation "

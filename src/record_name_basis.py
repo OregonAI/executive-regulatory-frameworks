@@ -37,7 +37,7 @@ decided the kind of (`undetermined`). This field is that rule applied to the nam
 ## would fall inside the glossary block above and demand a tag for a fact something else
 ## already enforces (#340).
 WHY A SCRIPT AND NOT A --refresh, for the reason `expand_oar_name.py` gives: a refresh
-re-fetches all 171 chapter pages and rewrites every row from what the mirror serves today.
+re-fetches all 173 chapter pages and rewrites every row from what the mirror serves today.
 
 **Refresh footprint vs. registry size**: not every row carries an `oar_chapter` --
 `catalog_agencies.py --check` prints the chaptered-vs-total split on every run (the

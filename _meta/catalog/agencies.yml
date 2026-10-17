@@ -61,7 +61,7 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   and says with a reason. oar_chapter is the OAR chapter this body''s rules are filed under, scraped from
   the index tree; null on the chapterless rows is not a gap — a body is in this registry because it EXISTS,
   not because it issues rules. source_url is the chapter page each row was scraped from, where the scrape
-  found one: null on 14 of the 19 chapterless rows, not all of them — the other five hold a source_url
+  found one: null on 12 of the 17 chapterless rows, not all of them — the other five hold a source_url
   that is not a chapter page (four hold the mirror''s own rules index, https://oregon.public.law/rules,
   and the saif-corporation row holds its own site). aliases, where present, are other names the same body
   is known by, including former names after a rename — hand-reviewed once, curated, and preserved across
@@ -1565,14 +1565,22 @@ organizations:
   name: Office of Public Defense Services
   name_basis: unverified-oar-title
   oar_name: Office of Public Defense Services
-  oar_chapter: null
-  raw_index_name: Office of Public Defense Services
-  source_url: null
+  oar_chapter: '404'
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=403
   parent_chapter: null
   relations: []
   absent_from_index_as_of: '2026-09-12'
+  curator_note: Chapter absent from oregon.public.law's index (mirror gap). OARD's chapter dropdown (ruleSearch.action,
+    2026-10-17) prints '404 - Oregon Public Defense Commission', and ORS 151.213(1) (2025 edition) establishes
+    the Oregon Public Defense Commission; SB 337 (2023) renamed the body. OARD lists one division and
+    no current rules in the chapter. Was registered as an agency that issues no rules (link_budget_codes
+    MANUAL_ENTRIES) with no chapter. The slug and oar_name are left as they were, because renaming the
+    slug would break sibling corpora that resolve it (oregon-budget, oregon-kpm), so that is the maintainer's
+    decision.
   das_agency_number: '404'
   aliases:
+  - Oregon Public Defense Commission
   - Public Defense Services Commission
   enabling_authority: ORS 151.213
 - slug: office-of-the-governor
@@ -2360,14 +2368,22 @@ organizations:
   name: Public Records Advocate
   name_basis: unverified-oar-title
   oar_name: Public Records Advocate
-  oar_chapter: null
-  raw_index_name: Public Records Advocate
-  source_url: null
+  oar_chapter: '180'
+  raw_index_name: null
+  source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0000
   parent_chapter: null
   relations: []
   absent_from_index_as_of: '2026-09-12'
+  curator_note: Chapter absent from oregon.public.law's index (mirror gap). OARD's chapter dropdown (ruleSearch.action,
+    2026-10-17) prints '180 - Office of the Public Records Advocate'; ORS 192.461(1) creates 'the office
+    of the Public Records Advocate'. Was registered as an agency that issues no rules (link_budget_codes
+    MANUAL_ENTRIES) with no chapter, so OAR discovery never walked chapter 180. The slug and oar_name
+    are left as they were, because renaming the slug would break sibling corpora that resolve it (oregon-budget,
+    oregon-kpm), so that is the maintainer's decision.
   das_agency_number: '104'
   enabling_authority: ORS 192.461
+  aliases:
+  - Office of the Public Records Advocate
 - slug: public-utility-commission
   name: Public Utility Commission
   name_basis: unverified-oar-title
@@ -2531,9 +2547,9 @@ organizations:
   relations: []
   absent_from_index_as_of: '2026-09-12'
   curator_note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from OARD's
-    chapter dropdown (ruleSearch.action, '800 - State Board of Tax Practitioners', 2026-10-16). Was
-    registered as an agency that issues no rules (link_budget_codes MANUAL_ENTRIES) with no chapter,
-    so OAR discovery never walked chapter 800.
+    chapter dropdown (ruleSearch.action, '800 - State Board of Tax Practitioners', 2026-10-16). Was registered
+    as an agency that issues no rules (link_budget_codes MANUAL_ENTRIES) with no chapter, so OAR discovery
+    never walked chapter 800.
   das_agency_number: '119'
   enabling_authority: ORS 673.725
 - slug: teacher-standards-and-practices-commission

@@ -5252,6 +5252,76 @@ sources:
   sha256: b26e11cfd275d57bcdae3135c6efe0453f64b58df428c7956ba9e75377739470
   last_checked: '2026-08-28'
   notes: Annual Affidavit Required for Prize Winners of the Win for LifeSM Scratch-itSM Ticket Game
+- id: oar-180-001-0000
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0000
+  sha256: a1d4f24dc23f353852f8086ea42bdd2d2ba45a5e85ff8cf1a0201c214e82168a
+  last_checked: '2026-10-17'
+  notes: Notice of Proposed Rule
+- id: oar-180-001-0001
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0001
+  sha256: 2fb17970892fe654be1a7912f04bf4826e276ae7880d2f5cc4af2be29476a944
+  last_checked: '2026-10-17'
+  notes: Model Rules of Procedure
+- id: oar-180-001-0002
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0002
+  sha256: 9f2bb0bd3451912023f796b438217389629598d9c7165f0a65ba8cc66f122d3d
+  last_checked: '2026-10-17'
+  notes: Facilitated Dispute Resolution Services
+- id: oar-180-001-0003
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0003
+  sha256: 9a048c215094f04bea8a3e116364ea11cc46d3c3699059dd17f025d0c57fb21e
+  last_checked: '2026-10-17'
+  notes: Effective Date; Applicability
+- id: oar-180-001-0004
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0004
+  sha256: 8b04b8ec0f9935735f33171da77453cadb746c4fa338bad923e50cc59d472e8b
+  last_checked: '2026-10-17'
+  notes: Definitions
+- id: oar-180-001-0005
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0005
+  sha256: afb798131bd3a9c5045663f8cf1d94b746ed5019d09ca8b2bb06079d47341771
+  last_checked: '2026-10-17'
+  notes: Facilitated Dispute Resolution Policy
+- id: oar-180-001-0006
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0006
+  sha256: 36ddc3d04389cbf3d03a8c2525aed0c7b8a5daa9cda1baf7a02b592476cdb3b9
+  last_checked: '2026-10-17'
+  notes: Procedure Governing Facilitated Dispute Resolution
+- id: oar-180-001-0007
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0007
+  sha256: cf950da5b4d5bb95bb431ddc52d0527e69549d044d9360b481fd49395a655f22
+  last_checked: '2026-10-17'
+  notes: Standards of Conduct for Eligible Parties
+- id: oar-180-001-0008
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0008
+  sha256: a6ab33beccc45d41716346137538befd182e8d1aec1ac68643af3be2941e2f7a
+  last_checked: '2026-10-17'
+  notes: Remedies Available Under Facilitated Dispute Resolution
+- id: oar-180-001-0009
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0009
+  sha256: e6d559f665798fe65bd10738c0e6d7d5c51469193f08552fc118cdb338a6122b
+  last_checked: '2026-10-17'
+  notes: Outcomes of facilitated dispute resolution
+- id: oar-180-001-0010
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0010
+  sha256: d0016fec535e486e4eae0090a9143f559b11c966a52478e3812357f05db502bc
+  last_checked: '2026-10-17'
+  notes: Notice of Agency Decision
+- id: oar-180-001-0011
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0011
+  sha256: ae9839dc316129ae1aae9c8a2931ca9af7ea7fba5b54e5f11867254e8b3a2e03
+  last_checked: '2026-10-17'
+  notes: Reconsideration – Orders in Other than Contested Case
+- id: oar-180-001-0012
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0012
+  sha256: bb8df5a5befd61d3934b7f2e9ea1cf489146e3070fbbc409d8992ff54bacc412
+  last_checked: '2026-10-17'
+  notes: Judicial review of Advocate's good faith findings
+- id: oar-180-001-0013
+  url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=180-001-0013
+  sha256: 8d824edf7229212f990ac2dfec476e7be3b46489ccc77d4e3255a8da5231bc28
+  last_checked: '2026-10-17'
+  notes: Confidentiality of facilitated dispute resolution communications and agreements
 - id: oar-199-020-0013
   url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=199-020-0013
   sha256: 29e031373c6e5c85886473cef712ca784320498fd8a7bc3c510c2e8d86958b53

@@ -52,8 +52,8 @@ CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 # both curated here and both preserved across `catalog_agencies.py --refresh`:
 
 # 1. AGENCIES THAT ISSUE NO RULES. Real state bodies with real budgets that hold no OAR
-#    chapter — the Governor's office, the legislative-branch offices, the public-defense
-#    and judicial-conduct commissions. They appropriate and spend money, so oregon-budget
+#    chapter — the Governor's office, the legislative-branch offices, the judicial-conduct
+#    commission. They appropriate and spend money, so oregon-budget
 #    needs to name them, but a chapter-keyed scrape will never see them.
 #
 #    DELIBERATELY EXCLUDED, because they are not agencies:
@@ -64,7 +64,6 @@ CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 #      —    the Emergency Board — a contingency fund that disburses THROUGH other
 #           agencies, confirmed with the maintainer as not an agency
 MANUAL_ENTRIES = [
-    ("public-records-advocate", "Public Records Advocate", "104"),
     ("office-of-the-governor", "Office of the Governor", "121"),
     ("oregon-advocacy-commissions-office", "Oregon Advocacy Commissions Office", "131"),
     ("legislative-counsel-office", "Legislative Counsel Office", "142"),
@@ -76,7 +75,6 @@ MANUAL_ENTRIES = [
     ("commission-on-judicial-fitness-and-disability",
      "Commission on Judicial Fitness and Disability", "175"),
     ("district-attorneys-and-deputies", "District Attorneys and Deputies", "196"),
-    ("office-of-public-defense-services", "Office of Public Defense Services", "404"),
     ("legislative-commission-on-indian-services",
      "Legislative Commission on Indian Services", "425"),
     # NO BUDGET CODE, and the first entry here without one. Every row above exists because a
@@ -126,7 +124,15 @@ ALIASES = {
     # The budget dataset already shows both across FY2019-FY2025; the code never changed.
     "oregon-liquor-control-commission": [
         "Oregon Liquor and Cannabis Commission", "Liquor and Cannabis Commission"],
-    "office-of-public-defense-services": ["Public Defense Services Commission"],
+    # SB 337 (2023) renamed the public defense body: ORS 151.213(1) (2025 edition)
+    # establishes "the Oregon Public Defense Commission", and OARD prints chapter 404 under
+    # that name. One row, the OLCC and OEM pattern above: the current statutory name is an
+    # alias and the slug is unchanged, because oregon-budget and oregon-kpm resolve it.
+    "office-of-public-defense-services": [
+        "Public Defense Services Commission", "Oregon Public Defense Commission"],
+    # OARD prints chapter 180 as "Office of the Public Records Advocate"; ORS 192.461(1)
+    # creates "the office of the Public Records Advocate".
+    "public-records-advocate": ["Office of the Public Records Advocate"],
     "higher-education-coordinating-commission": ["Higher Education Coordinating Commission"],
 }
 
@@ -593,7 +599,7 @@ def main() -> int:
         # rebuilt failed --check's required-field rule. One constructor means the next field
         # cannot repeat that. The declared slug still wins over the derived one, because
         # MANUAL_ENTRIES is where a body the scrape cannot see gets its identity (the two
-        # agree on all 13 today).
+        # agree on all 11 today).
         #
         # The OAR name (CONTEXT.md) it ends up with is the body's own name. These bodies
         # hold no OAR chapter — that is why the scrape cannot see them — so there is no
