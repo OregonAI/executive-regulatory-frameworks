@@ -36,6 +36,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 136 | Criminal Trials | 102 | 102 |
 | 137 | Judgment and Execution; Parole and Probation by the Court | 176 | 176 |
 | 138 | Appeals; Post-Conviction Relief | 64 | 64 |
+| 14 | Jurisdiction; Venue; Change of Judge | 16 | 16 |
 | 144 | Parole; Post-Prison Supervision; Work Release; Executive Clemency; Standards for Prison Terms and Parole; Presentence Reports | 121 | 120 |
 | 146 | Investigations of Deaths, Injuries and Missing Persons | 40 | 40 |
 | 147 | Victims of Crime and Acts of Mass Destruction | 94 | 94 |
@@ -69,7 +70,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 183 | Administrative Procedures Act | 83 | 82 |
 | 184 | Certain Executive Branch Departments (incl. DAS) | 117 | 114 |
 | 185 | Oregon Disabilities Commission; Commissions on Hispanic Affairs, Black Affairs, and Asian and Pacific Islander Affairs; Commission for Women | 29 | 29 |
-| 186 | State Emblems; State Boundary | 10 | 10 |
+| 186 | State Emblems; State Boundary | 11 | 10 |
 | 187 | Holidays; Standard of Time; Commemorations | 50 | 42 |
 | 188 | Congressional and Legislative Districts; Reapportionment | 9 | 9 |
 | 189 | Interstate Cooperation (Former Provisions) | 0 | 0 |
@@ -85,6 +86,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 197A | Land Use Planning: Housing and Urbanization | 88 | 88 |
 | 198 | Special Districts Generally | 97 | 97 |
 | 199 | Local Government Boundary Commissions; City-County Consolidation | 60 | 59 |
+| 2 | Supreme Court; Court of Appeals | 20 | 20 |
 | 20 | Attorney Fees; Costs and Disbursements | 25 | 25 |
 | 200 | Disadvantaged Business Enterprises; Minority-Owned Businesses; Woman-Owned Businesses; Veteran-Owned Businesses; Emerging Small Businesses | 17 | 17 |
 | 201 | Boundaries of Counties | 39 | 39 |
@@ -110,6 +112,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 237 | PUBLIC EMPLOYEE RETIREMENT GENERALLY | 43 | 41 |
 | 238 | Public Employees Retirement System | 154 | 154 |
 | 238A | Oregon Public Service Retirement Plan | 59 | 59 |
+| 24 | Enforcement and Recognition of Foreign Judgments; Foreign-Money Claims | 39 | 38 |
 | 240 | State Personnel Relations | 66 | 65 |
 | 241 | Civil Service for County Employees | 63 | 62 |
 | 242 | Civil Service for City or School District Employees and Firefighters | 69 | 67 |
@@ -145,6 +148,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 279A | Public Contracting - General Provisions | 53 | 51 |
 | 279B | Public Contracting - Public Procurements | 47 | 46 |
 | 279C | Public Contracting - Public Improvements | 105 | 104 |
+| 28 | Declaratory Judgments; Certification of Questions of Law | 27 | 27 |
 | 280 | Financing of Local Public Projects and Improvements; City and County Economic Development | 37 | 37 |
 | 281 | Condemnation for Public Use; Relocation Assistance (Former Provisions) | 0 | 0 |
 | 282 | Public Printing | 16 | 16 |
@@ -169,11 +173,12 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 3 | Circuit Courts Generally | 48 | 48 |
 | 30 | Actions and Suits in Particular Cases | 202 | 201 |
 | 305 | Administration of Revenue and Tax Laws; Appeals | 200 | 198 |
-| 306 | Property Taxation Generally | 20 | 20 |
+| 306 | Property Taxation Generally | 21 | 20 |
 | 307 | Property Subject to Taxation; Exemptions | 197 | 195 |
 | 308 | Assessment of Property for Taxation | 143 | 143 |
 | 308A | Land Special Assessments | 85 | 84 |
 | 309 | Property Value Appeals Board; Ratio Studies | 22 | 22 |
+| 31 | Tort Actions | 54 | 53 |
 | 310 | Property Tax Rates and Amounts; Tax Limitations; Tax Reduction Programs | 54 | 51 |
 | 311 | Collection of Property Taxes | 168 | 168 |
 | 312 | Foreclosure of Property Tax Liens | 52 | 52 |
@@ -226,6 +231,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 366 | State Highways and State Highway Fund | 127 | 127 |
 | 367 | Transportation Financing; Projects | 73 | 73 |
 | 368 | County Roads | 74 | 74 |
+| 37 | Receivership | 41 | 41 |
 | 370 | County Road Bonding Act | 12 | 12 |
 | 371 | Road Districts and Road Assessment Plans | 59 | 59 |
 | 372 | Highway Lighting Districts | 29 | 29 |
@@ -264,6 +270,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 419A | Juvenile Code: General Provisions and Definitions | 70 | 70 |
 | 419B | Juvenile Code: Dependency | 201 | 201 |
 | 419C | Juvenile Code: Delinquency | 157 | 157 |
+| 42 | Execution, Formalities and Interpretation of Writings | 18 | 18 |
 | 420 | Youth Correction Facilities; Youth Care Centers | 59 | 59 |
 | 420A | Oregon Youth Authority; Youth Correction Facilities | 38 | 38 |
 | 421 | Department of Corrections Institutions; Compacts | 125 | 125 |
@@ -351,17 +358,20 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 513 | Packing Fish and Manufacture of Fish Products | 4 | 4 |
 | 516 | Department of Geology and Mineral Industries | 13 | 12 |
 | 517 | Mining and Mining Claims | 122 | 121 |
+| 52 | Civil Actions; Small Claims | 57 | 57 |
 | 520 | Conservation of Gas and Oil | 29 | 29 |
 | 522 | Geothermal Resources | 50 | 50 |
 | 526 | Forestry Administration | 139 | 138 |
 | 527 | Pest Control; Forest Practices | 73 | 72 |
 | 528 | Reforestation Lands and Taxation Thereof (Former Provisions) | 0 | 0 |
+| 53 | Criminal Actions | 33 | 33 |
 | 530 | State Forests; Community Forests | 53 | 52 |
 | 532 | Branding of Forest Products and Booming Equipment | 15 | 15 |
 | 536 | Water Resources Administration | 76 | 76 |
 | 537 | Appropriation of Water Generally | 186 | 184 |
 | 538 | Withdrawal of Certain Waters From Appropriation; Special Municipal and County Water Right | 27 | 27 |
 | 539 | Before February 24, 1909; Determination of Water Rights of Federally Re | 31 | 31 |
+| 54 | Juries | 15 | 15 |
 | 540 | Distribution and Storage of Water; Watermasters; Water Right Changes, Transfers an | 92 | 92 |
 | 541 | Water Distributors; Water Releases; Conservation and Storage | 143 | 142 |
 | 542 | Water Resource Surveys and Projects; Compacts | 20 | 20 |
@@ -575,7 +585,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 96 | Line and Partition Fences | 6 | 6 |
 | 97 | Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts | 149 | 149 |
 | 98 | Lost, Unclaimed or Abandoned Property; Vehicle Towing | 97 | 97 |
-| **all** | | **37753** | **37534** |
+| **all** | | **38075** | **37852** |
 
 Per-section numbers/titles/paths: [`_meta/catalog/ors.yml`](../_meta/catalog/ors.yml).
 Sections marked `not_sliceable` there have no body text in the chapter HTML

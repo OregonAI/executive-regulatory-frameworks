@@ -10229,6 +10229,78 @@ chapters:
     title: Entry of unidentified profile into DNA databases; motion for laboratory evaluation; court order
     status: ingested
     path: statutes/ors-138.700.md
+- chapter: '14'
+  title: Jurisdiction; Venue; Change of Judge
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors014.html
+  sections:
+  - number: '14.030'
+    title: Jurisdiction as affected by place where cause of action or suit arises
+    status: ingested
+    path: statutes/ors-14.030.md
+  - number: '14.040'
+    title: Actions and suits that are to be brought where subject is situated
+    status: ingested
+    path: statutes/ors-14.040.md
+  - number: '14.050'
+    title: Actions that are to be brought where cause arose
+    status: ingested
+    path: statutes/ors-14.050.md
+  - number: '14.060'
+    title: Venue of suits against state departments and officials
+    status: ingested
+    path: statutes/ors-14.060.md
+  - number: '14.080'
+    title: Venue for other actions; residence of corporations and partnerships
+    status: ingested
+    path: statutes/ors-14.080.md
+  - number: '14.110'
+    title: When place of trial may be changed
+    status: ingested
+    path: statutes/ors-14.110.md
+  - number: '14.120'
+    title: Time of motion; to what county changed; number of changes
+    status: ingested
+    path: statutes/ors-14.120.md
+  - number: '14.130'
+    title: Notice to proper or more convenient court
+    status: ingested
+    path: statutes/ors-14.130.md
+  - number: '14.160'
+    title: When change of venue complete
+    status: ingested
+    path: statutes/ors-14.160.md
+  - number: '14.165'
+    title: Transfer of proceeding against public body; effect of transfer on statute of limitations; adoption
+      of rules by Court of Appeals; filing fees
+    status: ingested
+    path: statutes/ors-14.165.md
+  - number: '14.175'
+    title: Acts, policies or practices of public body capable of repetition and likely to evade judicial
+      review
+    status: ingested
+    path: statutes/ors-14.175.md
+  - number: '14.210'
+    title: Disqualification of judge for cause; application of section; waiver
+    status: ingested
+    path: statutes/ors-14.210.md
+  - number: '14.250'
+    title: Disqualification of judge; transfer of cause; making up issues
+    status: ingested
+    path: statutes/ors-14.250.md
+  - number: '14.260'
+    title: Affidavit and motion for change of judge; time for making; limit of two changes of judge; procedure
+      when judge denied assignment to docket; rules
+    status: ingested
+    path: statutes/ors-14.260.md
+  - number: '14.270'
+    title: Time of making motion for change of judge in certain circumstances; limit of two changes of
+      judge
+    status: ingested
+    path: statutes/ors-14.270.md
+  - number: '14.275'
+    title: Disqualification of appellate judge
+    status: ingested
+    path: statutes/ors-14.275.md
 - chapter: '144'
   title: Parole; Post-Prison Supervision; Work Release; Executive Clemency; Standards for Prison Terms
     and Parole; Presentence Reports
@@ -23967,6 +24039,90 @@ chapters:
     title: Operation and effect of proclamation
     status: ingested
     path: statutes/ors-199.795.md
+- chapter: '2'
+  title: Supreme Court; Court of Appeals
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors002.html
+  sections:
+  - number: '2.010'
+    title: Number of judges of Supreme Court
+    status: ingested
+    path: statutes/ors-2.010.md
+  - number: '2.020'
+    title: Qualifications of judges
+    status: ingested
+    path: statutes/ors-2.020.md
+  - number: '2.040'
+    title: Position number of judges
+    status: ingested
+    path: statutes/ors-2.040.md
+  - number: '2.045'
+    title: Chief Justice
+    status: ingested
+    path: statutes/ors-2.045.md
+  - number: '2.100'
+    title: Quorum
+    status: ingested
+    path: statutes/ors-2.100.md
+  - number: '2.111'
+    title: Departments of court; sitting in departments or en banc; participation in decision of matter
+    status: ingested
+    path: statutes/ors-2.111.md
+  - number: '2.120'
+    title: Rules, generally
+    status: ingested
+    path: statutes/ors-2.120.md
+  - number: '2.130'
+    title: Rules governing original jurisdiction
+    status: ingested
+    path: statutes/ors-2.130.md
+  - number: '2.141'
+    title: Filing of court decisions
+    status: ingested
+    path: statutes/ors-2.141.md
+  - number: '2.150'
+    title: Publication and distribution of court decisions and other official documents
+    status: ingested
+    path: statutes/ors-2.150.md
+  - number: '2.165'
+    title: Court Publications Account
+    status: ingested
+    path: statutes/ors-2.165.md
+  - number: '2.510'
+    title: Court of Appeals
+    status: ingested
+    path: statutes/ors-2.510.md
+  - number: '2.516'
+    title: Jurisdiction of all appeals exclusive; exceptions
+    status: ingested
+    path: statutes/ors-2.516.md
+  - number: '2.520'
+    title: Procedure for review of decisions of Court of Appeals
+    status: ingested
+    path: statutes/ors-2.520.md
+  - number: '2.540'
+    title: Number of judges of Court of Appeals; qualifications; term
+    status: ingested
+    path: statutes/ors-2.540.md
+  - number: '2.550'
+    title: Chief Judge
+    status: ingested
+    path: statutes/ors-2.550.md
+  - number: '2.560'
+    title: Rules; where court sits; appellate settlement program; fees
+    status: ingested
+    path: statutes/ors-2.560.md
+  - number: '2.570'
+    title: Departments of court; sitting in departments or en banc; participation in decision of matter
+    status: ingested
+    path: statutes/ors-2.570.md
+  - number: '2.590'
+    title: Expenses for judges when away from state capital
+    status: ingested
+    path: statutes/ors-2.590.md
+  - number: '2.700'
+    title: Liability of persons providing dispute resolution services
+    status: ingested
+    path: statutes/ors-2.700.md
 - chapter: '20'
   title: Attorney Fees; Costs and Disbursements
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors020.html
@@ -28966,6 +29122,170 @@ chapters:
     title: Application of legislative changes to legislators
     status: ingested
     path: statutes/ors-238a.475.md
+- chapter: '24'
+  title: Enforcement and Recognition of Foreign Judgments; Foreign-Money Claims
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors024.html
+  sections:
+  - number: '24.105'
+    title: Definition for ORS
+    status: ingested
+    path: statutes/ors-24.105.md
+  - number: '24.115'
+    title: Filing of foreign judgment; fees; effect
+    status: ingested
+    path: statutes/ors-24.115.md
+  - number: '24.125'
+    title: Notice of filing of judgment; delay in enforcement
+    status: ingested
+    path: statutes/ors-24.125.md
+  - number: '24.129'
+    title: Certification of filing in single court; filing of certified copy or lien record abstract for
+      other counties
+    status: ingested
+    path: statutes/ors-24.129.md
+  - number: '24.135'
+    title: Grounds for staying enforcement of judgment; security for satisfaction of judgment; fees
+    status: ingested
+    path: statutes/ors-24.135.md
+  - number: '24.140'
+    title: Interest and costs
+    status: ingested
+    path: statutes/ors-24.140.md
+  - number: '24.150'
+    title: Satisfaction of judgment; filing
+    status: ingested
+    path: statutes/ors-24.150.md
+  - number: '24.155'
+    title: Optional procedure
+    status: ingested
+    path: statutes/ors-24.155.md
+  - number: '24.165'
+    title: Construction of ORS
+    status: ingested
+    path: statutes/ors-24.165.md
+  - number: '24.175'
+    title: Short title
+    status: ingested
+    path: statutes/ors-24.175.md
+  - number: '24.190'
+    title: Foreign restraining orders
+    status: ingested
+    path: statutes/ors-24.190.md
+  - number: '24.260'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-24.260.md
+  - number: '24.265'
+    title: Scope of application of ORS
+    status: ingested
+    path: statutes/ors-24.265.md
+  - number: '24.270'
+    title: Variation of application by agreement
+    status: ingested
+    path: statutes/ors-24.270.md
+  - number: '24.275'
+    title: Determining proper money of the claim
+    status: ingested
+    path: statutes/ors-24.275.md
+  - number: '24.280'
+    title: Determining amount of money of certain contract claims
+    status: ingested
+    path: statutes/ors-24.280.md
+  - number: '24.285'
+    title: Asserting and defending foreign-money claim
+    status: ingested
+    path: statutes/ors-24.285.md
+  - number: '24.290'
+    title: Judgments and awards on foreign-money claims; times of money conversion; form of judgment;
+      post-judgment enforcement
+    status: ingested
+    path: statutes/ors-24.290.md
+  - number: '24.295'
+    title: Conversions of foreign money in distribution proceeding
+    status: ingested
+    path: statutes/ors-24.295.md
+  - number: '24.300'
+    title: Prejudgment and judgment interest
+    status: ingested
+    path: statutes/ors-24.300.md
+  - number: '24.305'
+    title: Enforcement of foreign judgments
+    status: ingested
+    path: statutes/ors-24.305.md
+  - number: '24.310'
+    title: Determining United States dollar value of foreign-money claims for limited purposes
+    status: ingested
+    path: statutes/ors-24.310.md
+  - number: '24.315'
+    title: Effect of currency substitution
+    status: ingested
+    path: statutes/ors-24.315.md
+  - number: '24.320'
+    title: Supplementary general principles of law
+    status: ingested
+    path: statutes/ors-24.320.md
+  - number: '24.325'
+    title: Uniformity of application and construction
+    status: ingested
+    path: statutes/ors-24.325.md
+  - number: '24.330'
+    title: Severability
+    status: ingested
+    path: statutes/ors-24.330.md
+  - number: '24.335'
+    title: Short title
+    status: not_sliceable
+    note: no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference
+      artifact); not ingested
+  - number: '24.350'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-24.350.md
+  - number: '24.355'
+    title: Applicability to judgments
+    status: ingested
+    path: statutes/ors-24.355.md
+  - number: '24.360'
+    title: Standards for recognition of foreign-country judgment
+    status: ingested
+    path: statutes/ors-24.360.md
+  - number: '24.365'
+    title: Personal jurisdiction
+    status: ingested
+    path: statutes/ors-24.365.md
+  - number: '24.370'
+    title: Procedure for recognition of foreign-country judgment
+    status: ingested
+    path: statutes/ors-24.370.md
+  - number: '24.375'
+    title: Effect of recognition of foreign-country judgment
+    status: ingested
+    path: statutes/ors-24.375.md
+  - number: '24.380'
+    title: Stay of proceedings pending appeal of foreign-country judgment
+    status: ingested
+    path: statutes/ors-24.380.md
+  - number: '24.385'
+    title: Statute of limitations
+    status: ingested
+    path: statutes/ors-24.385.md
+  - number: '24.390'
+    title: Uniformity of interpretation
+    status: ingested
+    path: statutes/ors-24.390.md
+  - number: '24.395'
+    title: Saving clause
+    status: ingested
+    path: statutes/ors-24.395.md
+  - number: '24.400'
+    title: Short title
+    status: ingested
+    path: statutes/ors-24.400.md
+  - number: '24.500'
+    title: Certain laws of other states contrary to public policy; prohibitions on issuance of foreign
+      subpoenas
+    status: ingested
+    path: statutes/ors-24.500.md
 - chapter: '240'
   title: State Personnel Relations
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors240.html
@@ -37569,6 +37889,118 @@ chapters:
     title: Criminal liability for intentional failure to pay prevailing wage; rules
     status: ingested
     path: statutes/ors-279c.875.md
+- chapter: '28'
+  title: Declaratory Judgments; Certification of Questions of Law
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors028.html
+  sections:
+  - number: '28.010'
+    title: Power of courts; form of declaration
+    status: ingested
+    path: statutes/ors-28.010.md
+  - number: '28.020'
+    title: Declarations as to writings and laws
+    status: ingested
+    path: statutes/ors-28.020.md
+  - number: '28.030'
+    title: Construction of contract before or after breach
+    status: ingested
+    path: statutes/ors-28.030.md
+  - number: '28.050'
+    title: Enumeration not exclusive
+    status: ingested
+    path: statutes/ors-28.050.md
+  - number: '28.060'
+    title: Discretion of court to refuse judgment
+    status: ingested
+    path: statutes/ors-28.060.md
+  - number: '28.070'
+    title: Appeal or review
+    status: ingested
+    path: statutes/ors-28.070.md
+  - number: '28.080'
+    title: Supplemental relief
+    status: ingested
+    path: statutes/ors-28.080.md
+  - number: '28.090'
+    title: Trial of issues of fact
+    status: ingested
+    path: statutes/ors-28.090.md
+  - number: '28.100'
+    title: Costs
+    status: ingested
+    path: statutes/ors-28.100.md
+  - number: '28.110'
+    title: Parties; service on Attorney General when constitutional question involved
+    status: ingested
+    path: statutes/ors-28.110.md
+  - number: '28.120'
+    title: Construction and administration
+    status: ingested
+    path: statutes/ors-28.120.md
+  - number: '28.130'
+    title: “Person” defined
+    status: ingested
+    path: statutes/ors-28.130.md
+  - number: '28.140'
+    title: Provisions severable
+    status: ingested
+    path: statutes/ors-28.140.md
+  - number: '28.150'
+    title: Uniformity of interpretation
+    status: ingested
+    path: statutes/ors-28.150.md
+  - number: '28.160'
+    title: Short title
+    status: ingested
+    path: statutes/ors-28.160.md
+  - number: '28.200'
+    title: Supreme Court authorized to answer questions of law certified by other courts
+    status: ingested
+    path: statutes/ors-28.200.md
+  - number: '28.205'
+    title: Procedure to invoke ORS
+    status: ingested
+    path: statutes/ors-28.205.md
+  - number: '28.210'
+    title: Certification order
+    status: ingested
+    path: statutes/ors-28.210.md
+  - number: '28.215'
+    title: Form of certification order; submission of record
+    status: ingested
+    path: statutes/ors-28.215.md
+  - number: '28.220'
+    title: Fees; apportionment between parties
+    status: ingested
+    path: statutes/ors-28.220.md
+  - number: '28.225'
+    title: Procedure in certification matters
+    status: ingested
+    path: statutes/ors-28.225.md
+  - number: '28.230'
+    title: Opinion on certified question
+    status: ingested
+    path: statutes/ors-28.230.md
+  - number: '28.235'
+    title: Certification to another state
+    status: ingested
+    path: statutes/ors-28.235.md
+  - number: '28.240'
+    title: Procedure for certification to another state
+    status: ingested
+    path: statutes/ors-28.240.md
+  - number: '28.245'
+    title: Severability
+    status: ingested
+    path: statutes/ors-28.245.md
+  - number: '28.250'
+    title: Construction
+    status: ingested
+    path: statutes/ors-28.250.md
+  - number: '28.255'
+    title: Short title
+    status: ingested
+    path: statutes/ors-28.255.md
 - chapter: '280'
   title: Financing of Local Public Projects and Improvements; City and County Economic Development
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors280.html
@@ -46637,6 +47069,238 @@ chapters:
     title: Penalties
     status: ingested
     path: statutes/ors-309.990.md
+- chapter: '31'
+  title: Tort Actions
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors031.html
+  sections:
+  - number: '31.150'
+    title: Special motion to strike; when available; burden of proof
+    status: ingested
+    path: statutes/ors-31.150.md
+  - number: '31.152'
+    title: Time for filing special motion to strike; discovery; attorney fees; voluntary dismissals; appeals
+    status: ingested
+    path: statutes/ors-31.152.md
+  - number: '31.155'
+    title: Exempt actions; substantive law not affected
+    status: ingested
+    path: statutes/ors-31.155.md
+  - number: '31.180'
+    title: Certain felonious conduct of plaintiff complete defense in tort actions; proof; exceptions
+    status: ingested
+    path: statutes/ors-31.180.md
+  - number: '31.200'
+    title: Liability of radio or television station personnel for defamation
+    status: ingested
+    path: statutes/ors-31.200.md
+  - number: '31.205'
+    title: Damages recoverable for defamation by periodical, radio, television or motion pictures
+    status: ingested
+    path: statutes/ors-31.205.md
+  - number: '31.210'
+    title: When general damages allowed
+    status: ingested
+    path: statutes/ors-31.210.md
+  - number: '31.215'
+    title: Publication of correction or retraction upon demand
+    status: ingested
+    path: statutes/ors-31.215.md
+  - number: '31.220'
+    title: Effect of publication of correction or retraction prior to demand
+    status: ingested
+    path: statutes/ors-31.220.md
+  - number: '31.225'
+    title: Publisher’s defenses and privileges not affected
+    status: ingested
+    path: statutes/ors-31.225.md
+  - number: '31.230'
+    title: Wrongful use of civil proceeding; pleading; procedure
+    status: ingested
+    path: statutes/ors-31.230.md
+  - number: '31.250'
+    title: Mandatory dispute resolution for certain actions against health practitioners and health care
+      facilities
+    status: ingested
+    path: statutes/ors-31.250.md
+  - number: '31.260'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-31.260.md
+  - number: '31.262'
+    title: Notice of adverse health care incident
+    status: not_sliceable
+    note: catalog title does not match this section's own printed catchline at the anchor point; not ingested
+      (verify the catalog title against the source before re-running)
+  - number: '31.264'
+    title: Discussion of adverse health care incident; offers of compensation; reporting to commission
+    status: ingested
+    path: statutes/ors-31.264.md
+  - number: '31.266'
+    title: Discussion communications; admissibility; disclosure
+    status: ingested
+    path: statutes/ors-31.266.md
+  - number: '31.268'
+    title: Mediation
+    status: ingested
+    path: statutes/ors-31.268.md
+  - number: '31.270'
+    title: Payment and resolution
+    status: ingested
+    path: statutes/ors-31.270.md
+  - number: '31.272'
+    title: Statute of limitations; evidence of offers and payments
+    status: ingested
+    path: statutes/ors-31.272.md
+  - number: '31.274'
+    title: Patient representatives
+    status: ingested
+    path: statutes/ors-31.274.md
+  - number: '31.276'
+    title: Duties of Oregon Patient Safety Commission; rules; report
+    status: ingested
+    path: statutes/ors-31.276.md
+  - number: '31.278'
+    title: Use of information relating to notice of adverse health care incident
+    status: ingested
+    path: statutes/ors-31.278.md
+  - number: '31.300'
+    title: Pleading requirements for actions against design professionals
+    status: ingested
+    path: statutes/ors-31.300.md
+  - number: '31.350'
+    title: Pleading requirements for actions against real estate licensees
+    status: ingested
+    path: statutes/ors-31.350.md
+  - number: '31.360'
+    title: Proof required for claim of economic damages in action arising from injury caused by dog
+    status: ingested
+    path: statutes/ors-31.360.md
+  - number: '31.370'
+    title: Presumption of absence of negligence if defendant conducts criminal records check through Department
+      of State Police
+    status: ingested
+    path: statutes/ors-31.370.md
+  - number: '31.550'
+    title: “Advance payment” defined
+    status: ingested
+    path: statutes/ors-31.550.md
+  - number: '31.555'
+    title: Effect of advance payment; payment as satisfaction of judgment
+    status: ingested
+    path: statutes/ors-31.555.md
+  - number: '31.560'
+    title: Advance payment for death or personal injury not admission of liability; when advance payment
+      made
+    status: ingested
+    path: statutes/ors-31.560.md
+  - number: '31.565'
+    title: Advance payment for property damage not admission of liability
+    status: ingested
+    path: statutes/ors-31.565.md
+  - number: '31.580'
+    title: Effect of collateral benefits
+    status: ingested
+    path: statutes/ors-31.580.md
+  - number: '31.600'
+    title: Contributory negligence not bar to recovery; comparative negligence standard; third party complaints
+    status: ingested
+    path: statutes/ors-31.600.md
+  - number: '31.605'
+    title: Special questions to trier of fact; jury not to be informed of settlement
+    status: ingested
+    path: statutes/ors-31.605.md
+  - number: '31.610'
+    title: Liability of defendants several only; determination of defendants’ shares of monetary obligation;
+      reallocation of uncollectible obligation; parties exempt from reallocation
+    status: ingested
+    path: statutes/ors-31.610.md
+  - number: '31.615'
+    title: Setoff of damages not allowed
+    status: ingested
+    path: statutes/ors-31.615.md
+  - number: '31.620'
+    title: Doctrines of last clear chance and implied assumption of risk abolished
+    status: ingested
+    path: statutes/ors-31.620.md
+  - number: '31.700'
+    title: Right to include medical expenses paid by parent or conservator in action to recover for damages
+      to child; effect of consent to inclusion
+    status: ingested
+    path: statutes/ors-31.700.md
+  - number: '31.705'
+    title: Economic and noneconomic damages separately set forth in verdict; “economic damages” and “noneconomic
+      damages” defined
+    status: ingested
+    path: statutes/ors-31.705.md
+  - number: '31.710'
+    title: Limitation on award for noneconomic damages in claim for wrongful death
+    status: ingested
+    path: statutes/ors-31.710.md
+  - number: '31.715'
+    title: Limitation on recovery of noneconomic damages arising out of operation of motor vehicle; uninsured
+      plaintiff; plaintiff driving under influence of intoxicants
+    status: ingested
+    path: statutes/ors-31.715.md
+  - number: '31.725'
+    title: Pleading punitive damages; motion to amend pleading to assert claim for punitive damages; hearing
+    status: ingested
+    path: statutes/ors-31.725.md
+  - number: '31.730'
+    title: Standards for award of punitive damages; required review of award by court; additional reduction
+      of award for remedial measures
+    status: ingested
+    path: statutes/ors-31.730.md
+  - number: '31.735'
+    title: Distribution of punitive damages; notice to Department of Justice; order of application
+    status: ingested
+    path: statutes/ors-31.735.md
+  - number: '31.740'
+    title: When award of punitive damages against health practitioner prohibited
+    status: ingested
+    path: statutes/ors-31.740.md
+  - number: '31.760'
+    title: Evidence of nonuse of safety belt or harness to mitigate damages
+    status: ingested
+    path: statutes/ors-31.760.md
+  - number: '31.770'
+    title: Inadmissibility of calculation of future earning potential based on race or ethnicity; jury
+      instruction
+    status: ingested
+    path: statutes/ors-31.770.md
+  - number: '31.800'
+    title: Right of contribution among joint tortfeasors; limitations; subrogation of insurer; effect
+      on indemnity right
+    status: ingested
+    path: statutes/ors-31.800.md
+  - number: '31.805'
+    title: Basis for proportional shares of tortfeasors
+    status: ingested
+    path: statutes/ors-31.805.md
+  - number: '31.810'
+    title: Enforcement of right of contribution; commencement of separate action; barring right of contribution;
+      effect of satisfaction of judgment
+    status: ingested
+    path: statutes/ors-31.810.md
+  - number: '31.815'
+    title: Covenant not to sue; effect; notice
+    status: ingested
+    path: statutes/ors-31.815.md
+  - number: '31.820'
+    title: Severability
+    status: ingested
+    path: statutes/ors-31.820.md
+  - number: '31.825'
+    title: Assignment of cause of action against insurer
+    status: ingested
+    path: statutes/ors-31.825.md
+  - number: '31.980'
+    title: Action for alienation of affections abolished
+    status: ingested
+    path: statutes/ors-31.980.md
+  - number: '31.982'
+    title: Action for criminal conversation abolished
+    status: ingested
+    path: statutes/ors-31.982.md
 - chapter: '310'
   title: Property Tax Rates and Amounts; Tax Limitations; Tax Reduction Programs
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors310.html
@@ -61889,6 +62553,176 @@ chapters:
     title: Penalties
     status: ingested
     path: statutes/ors-368.990.md
+- chapter: '37'
+  title: Receivership
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors037.html
+  sections:
+  - number: '37.010'
+    title: Short title
+    status: ingested
+    path: statutes/ors-37.010.md
+  - number: '37.020'
+    title: Receivership described
+    status: ingested
+    path: statutes/ors-37.020.md
+  - number: '37.030'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-37.030.md
+  - number: '37.040'
+    title: Applicability
+    status: ingested
+    path: statutes/ors-37.040.md
+  - number: '37.050'
+    title: Property not subject to receivership; exception
+    status: ingested
+    path: statutes/ors-37.050.md
+  - number: '37.060'
+    title: Appointment of receiver
+    status: ingested
+    path: statutes/ors-37.060.md
+  - number: '37.070'
+    title: Eligibility to serve as receiver
+    status: ingested
+    path: statutes/ors-37.070.md
+  - number: '37.080'
+    title: Required disclosures relating to conflicts of interest
+    status: ingested
+    path: statutes/ors-37.080.md
+  - number: '37.090'
+    title: Receiver’s bond, alternative security or insurance
+    status: ingested
+    path: statutes/ors-37.090.md
+  - number: '37.100'
+    title: Exclusive jurisdiction of appointing court
+    status: ingested
+    path: statutes/ors-37.100.md
+  - number: '37.110'
+    title: Powers of receiver
+    status: ingested
+    path: statutes/ors-37.110.md
+  - number: '37.120'
+    title: Duties of receiver
+    status: ingested
+    path: statutes/ors-37.120.md
+  - number: '37.130'
+    title: Turnover of property
+    status: ingested
+    path: statutes/ors-37.130.md
+  - number: '37.140'
+    title: Collection by receiver of debts owed to owner
+    status: ingested
+    path: statutes/ors-37.140.md
+  - number: '37.150'
+    title: Duties of owner
+    status: ingested
+    path: statutes/ors-37.150.md
+  - number: '37.160'
+    title: Mailing and special notice lists to be maintained by receiver
+    status: ingested
+    path: statutes/ors-37.160.md
+  - number: '37.170'
+    title: Notices
+    status: ingested
+    path: statutes/ors-37.170.md
+  - number: '37.180'
+    title: When court order required
+    status: ingested
+    path: statutes/ors-37.180.md
+  - number: '37.190'
+    title: Creditor list and inventory
+    status: ingested
+    path: statutes/ors-37.190.md
+  - number: '37.200'
+    title: Receiver’s periodic reports
+    status: ingested
+    path: statutes/ors-37.200.md
+  - number: '37.210'
+    title: Claims bar date
+    status: ingested
+    path: statutes/ors-37.210.md
+  - number: '37.220'
+    title: Automatic stay of certain proceedings
+    status: ingested
+    path: statutes/ors-37.220.md
+  - number: '37.230'
+    title: Utility service
+    status: ingested
+    path: statutes/ors-37.230.md
+  - number: '37.240'
+    title: Executory contracts
+    status: ingested
+    path: statutes/ors-37.240.md
+  - number: '37.250'
+    title: Use or transfer of estate property outside ordinary course of business; transfer of co-owned
+      property; limitation on disposition of residential property
+    status: ingested
+    path: statutes/ors-37.250.md
+  - number: '37.260'
+    title: Receivership financing
+    status: ingested
+    path: statutes/ors-37.260.md
+  - number: '37.270'
+    title: Recovery of costs related to secured property
+    status: ingested
+    path: statutes/ors-37.270.md
+  - number: '37.280'
+    title: Abandonment of property
+    status: ingested
+    path: statutes/ors-37.280.md
+  - number: '37.290'
+    title: Actions by or against receiver or affecting estate property
+    status: ingested
+    path: statutes/ors-37.290.md
+  - number: '37.300'
+    title: Personal liability of receiver
+    status: ingested
+    path: statutes/ors-37.300.md
+  - number: '37.310'
+    title: Employment and compensation of professionals
+    status: ingested
+    path: statutes/ors-37.310.md
+  - number: '37.320'
+    title: Participation of creditors and other interested persons in receivership; effect of receivership
+      on nonparties
+    status: ingested
+    path: statutes/ors-37.320.md
+  - number: '37.330'
+    title: Initial notice to creditors and other interested persons
+    status: ingested
+    path: statutes/ors-37.330.md
+  - number: '37.340'
+    title: Claims process
+    status: ingested
+    path: statutes/ors-37.340.md
+  - number: '37.350'
+    title: Submission of claims by creditors
+    status: ingested
+    path: statutes/ors-37.350.md
+  - number: '37.360'
+    title: Objection to and allowance of claims
+    status: ingested
+    path: statutes/ors-37.360.md
+  - number: '37.370'
+    title: Priorities
+    status: ingested
+    path: statutes/ors-37.370.md
+  - number: '37.380'
+    title: Secured claims against after-acquired property
+    status: ingested
+    path: statutes/ors-37.380.md
+  - number: '37.390'
+    title: Ancillary receiverships
+    status: ingested
+    path: statutes/ors-37.390.md
+  - number: '37.400'
+    title: Removal of receiver
+    status: ingested
+    path: statutes/ors-37.400.md
+  - number: '37.410'
+    title: Termination of receivership
+    status: ingested
+    path: statutes/ors-37.410.md
 - chapter: '370'
   title: County Road Bonding Act
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors370.html
@@ -72819,6 +73653,82 @@ chapters:
     title: Curfew; parental responsibility; authority of political subdivisions; custody authorized
     status: ingested
     path: statutes/ors-419c.680.md
+- chapter: '42'
+  title: Execution, Formalities and Interpretation of Writings
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors042.html
+  sections:
+  - number: '42.010'
+    title: Private writings
+    status: ingested
+    path: statutes/ors-42.010.md
+  - number: '42.020'
+    title: Execution of a writing
+    status: ingested
+    path: statutes/ors-42.020.md
+  - number: '42.030'
+    title: Subscribing witness
+    status: ingested
+    path: statutes/ors-42.030.md
+  - number: '42.040'
+    title: Proof of attested writing other than a will
+    status: ingested
+    path: statutes/ors-42.040.md
+  - number: '42.110'
+    title: Seal defined
+    status: ingested
+    path: statutes/ors-42.110.md
+  - number: '42.115'
+    title: Effect of presence or absence of seal
+    status: ingested
+    path: statutes/ors-42.115.md
+  - number: '42.125'
+    title: Seal of state officer or state agency authorized
+    status: ingested
+    path: statutes/ors-42.125.md
+  - number: '42.141'
+    title: Writing executed or acknowledged in electronic presence of witness
+    status: ingested
+    path: statutes/ors-42.141.md
+  - number: '42.210'
+    title: Effect of the place of execution
+    status: ingested
+    path: statutes/ors-42.210.md
+  - number: '42.220'
+    title: Consideration of circumstances
+    status: ingested
+    path: statutes/ors-42.220.md
+  - number: '42.230'
+    title: Office of judge in construing instruments
+    status: ingested
+    path: statutes/ors-42.230.md
+  - number: '42.240'
+    title: Intention of the parties; general and particular provisions and intents
+    status: ingested
+    path: statutes/ors-42.240.md
+  - number: '42.250'
+    title: Terms construed as generally accepted; evidence of other signification
+    status: ingested
+    path: statutes/ors-42.250.md
+  - number: '42.260'
+    title: Ambiguous terms
+    status: ingested
+    path: statutes/ors-42.260.md
+  - number: '42.270'
+    title: Written words control printed form
+    status: ingested
+    path: statutes/ors-42.270.md
+  - number: '42.280'
+    title: Deciphering characters and translating languages
+    status: ingested
+    path: statutes/ors-42.280.md
+  - number: '42.290'
+    title: Construction of notices
+    status: ingested
+    path: statutes/ors-42.290.md
+  - number: '42.300'
+    title: Parties to written instrument not to deny facts recited therein
+    status: ingested
+    path: statutes/ors-42.300.md
 - chapter: '420'
   title: Youth Correction Facilities; Youth Care Centers
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors420.html
@@ -98509,6 +99419,242 @@ chapters:
     title: Civil penalties; rules
     status: ingested
     path: statutes/ors-517.992.md
+- chapter: '52'
+  title: Civil Actions; Small Claims
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors052.html
+  sections:
+  - number: '52.010'
+    title: Actions commenced and prosecuted, and judgments enforced, as in circuit court; prevailing party
+      entitled to disbursements
+    status: ingested
+    path: statutes/ors-52.010.md
+  - number: '52.020'
+    title: Mode of proceeding and rules of evidence
+    status: ingested
+    path: statutes/ors-52.020.md
+  - number: '52.030'
+    title: Court rules and procedures
+    status: ingested
+    path: statutes/ors-52.030.md
+  - number: '52.035'
+    title: Dismissal of civil cases for want of prosecution
+    status: ingested
+    path: statutes/ors-52.035.md
+  - number: '52.040'
+    title: Contempt in justice court
+    status: ingested
+    path: statutes/ors-52.040.md
+  - number: '52.060'
+    title: Persons entitled to act as attorneys in justice court
+    status: ingested
+    path: statutes/ors-52.060.md
+  - number: '52.110'
+    title: Service; form, contents and requisites of summons
+    status: ingested
+    path: statutes/ors-52.110.md
+  - number: '52.120'
+    title: Persons authorized to serve summons; compensation; manner of service
+    status: ingested
+    path: statutes/ors-52.120.md
+  - number: '52.130'
+    title: Appointment of persons to serve process or order
+    status: ingested
+    path: statutes/ors-52.130.md
+  - number: '52.170'
+    title: Security for disbursements
+    status: ingested
+    path: statutes/ors-52.170.md
+  - number: '52.180'
+    title: Form of undertaking; qualifications and justification of sureties; deposit in lieu of undertaking
+    status: ingested
+    path: statutes/ors-52.180.md
+  - number: '52.210'
+    title: Plaintiff entitled to attachment as in circuit court
+    status: ingested
+    path: statutes/ors-52.210.md
+  - number: '52.220'
+    title: Attachment proceedings conducted as in circuit court
+    status: ingested
+    path: statutes/ors-52.220.md
+  - number: '52.250'
+    title: Attachment of real property prohibited
+    status: ingested
+    path: statutes/ors-52.250.md
+  - number: '52.310'
+    title: Pleadings governed by rules applicable to pleadings in circuit court
+    status: ingested
+    path: statutes/ors-52.310.md
+  - number: '52.320'
+    title: Counterclaim exceeding jurisdiction; transfer to circuit court; time allowed plaintiff to plead;
+      costs; effect of failure to tender costs
+    status: ingested
+    path: statutes/ors-52.320.md
+  - number: '52.410'
+    title: Trial fee
+    status: ingested
+    path: statutes/ors-52.410.md
+  - number: '52.420'
+    title: Trial fee payable in advance; effect of failure to pay; recovery of fee as disbursement
+    status: ingested
+    path: statutes/ors-52.420.md
+  - number: '52.430'
+    title: State or county exempted from prepaying trial fee; recovery of trial fee
+    status: ingested
+    path: statutes/ors-52.430.md
+  - number: '52.440'
+    title: Accounting for and disposition of trial fee
+    status: ingested
+    path: statutes/ors-52.440.md
+  - number: '52.510'
+    title: Postponement of trial
+    status: ingested
+    path: statutes/ors-52.510.md
+  - number: '52.520'
+    title: Depositions of witnesses as condition to postponement
+    status: ingested
+    path: statutes/ors-52.520.md
+  - number: '52.530'
+    title: Change of place of trial
+    status: ingested
+    path: statutes/ors-52.530.md
+  - number: '52.540'
+    title: Payment of disbursements for change of venue; subpoenaed witnesses
+    status: ingested
+    path: statutes/ors-52.540.md
+  - number: '52.550'
+    title: When change of venue deemed complete
+    status: ingested
+    path: statutes/ors-52.550.md
+  - number: '52.560'
+    title: Jurisdiction to cease when title to real property in question; further proceedings in circuit
+      court
+    status: ingested
+    path: statutes/ors-52.560.md
+  - number: '52.570'
+    title: Right to jury trial
+    status: ingested
+    path: statutes/ors-52.570.md
+  - number: '52.580'
+    title: Judgment
+    status: ingested
+    path: statutes/ors-52.580.md
+  - number: '52.590'
+    title: Judgment may not determine or affect title to real property
+    status: ingested
+    path: statutes/ors-52.590.md
+  - number: '52.600'
+    title: Enforcement of justice court judgments generally
+    status: ingested
+    path: statutes/ors-52.600.md
+  - number: '52.610'
+    title: Enforcement of judgment given by other justice
+    status: ingested
+    path: statutes/ors-52.610.md
+  - number: '52.620'
+    title: Filing transcript of judgment in another county; issuance of execution
+    status: ingested
+    path: statutes/ors-52.620.md
+  - number: '52.635'
+    title: Liens based on justice court judgment
+    status: ingested
+    path: statutes/ors-52.635.md
+  - number: '52.640'
+    title: Setoff of judgment; application and notice
+    status: ingested
+    path: statutes/ors-52.640.md
+  - number: '52.650'
+    title: Right of appeal precludes setoff; procedure to set off judgment of another court
+    status: ingested
+    path: statutes/ors-52.650.md
+  - number: '52.660'
+    title: Enforcement of setoff judgment stayed
+    status: ingested
+    path: statutes/ors-52.660.md
+  - number: '52.670'
+    title: Setoff of mutual judgments
+    status: ingested
+    path: statutes/ors-52.670.md
+  - number: '52.680'
+    title: Setoff of judgments in different amounts; disallowance of setoff
+    status: ingested
+    path: statutes/ors-52.680.md
+  - number: '52.700'
+    title: Return on execution; to whom directed; duty of officer to execute writ
+    status: ingested
+    path: statutes/ors-52.700.md
+  - number: '52.710'
+    title: Renewal of execution; indorsement and entry of renewal
+    status: ingested
+    path: statutes/ors-52.710.md
+  - number: '52.750'
+    title: Small claims department; jurisdiction
+    status: ingested
+    path: statutes/ors-52.750.md
+  - number: '52.755'
+    title: Commencement of action
+    status: ingested
+    path: statutes/ors-52.755.md
+  - number: '52.760'
+    title: Contents of claim
+    status: ingested
+    path: statutes/ors-52.760.md
+  - number: '52.765'
+    title: Verification and prosecution of claim
+    status: ingested
+    path: statutes/ors-52.765.md
+  - number: '52.770'
+    title: Notice of claim; content; service
+    status: ingested
+    path: statutes/ors-52.770.md
+  - number: '52.775'
+    title: Explanation to plaintiff of how notice may be served
+    status: ingested
+    path: statutes/ors-52.775.md
+  - number: '52.780'
+    title: Admission or denial of claim; request for jury trial
+    status: ingested
+    path: statutes/ors-52.780.md
+  - number: '52.785'
+    title: Time and place of hearing; procedure if right to jury trial asserted; fees
+    status: ingested
+    path: statutes/ors-52.785.md
+  - number: '52.790'
+    title: Additional time for appearances; default and dismissal
+    status: ingested
+    path: statutes/ors-52.790.md
+  - number: '52.795'
+    title: Formal pleadings unnecessary; issuance of attachment, garnishment or execution; costs of execution
+      taxable
+    status: ingested
+    path: statutes/ors-52.795.md
+  - number: '52.800'
+    title: Appearance by parties and attorneys; witnesses
+    status: ingested
+    path: statutes/ors-52.800.md
+  - number: '52.805'
+    title: Counterclaim; procedure; fee; transfer of jurisdiction
+    status: ingested
+    path: statutes/ors-52.805.md
+  - number: '52.810'
+    title: Payment of judgment
+    status: ingested
+    path: statutes/ors-52.810.md
+  - number: '52.815'
+    title: Conclusiveness of judgment; when appeal may be taken
+    status: ingested
+    path: statutes/ors-52.815.md
+  - number: '52.820'
+    title: Notice of appeal; proceedings in circuit court
+    status: ingested
+    path: statutes/ors-52.820.md
+  - number: '52.825'
+    title: Enforcement of judgment when no appeal is taken; fees
+    status: ingested
+    path: statutes/ors-52.825.md
+  - number: '52.830'
+    title: Separate docket for small claims department
+    status: ingested
+    path: statutes/ors-52.830.md
 - chapter: '520'
   title: Conservation of Gas and Oil
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors520.html
@@ -99724,6 +100870,142 @@ chapters:
   title: Reforestation Lands and Taxation Thereof (Former Provisions)
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors528.html
   sections: []
+- chapter: '53'
+  title: Criminal Actions
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors053.html
+  sections:
+  - number: '53.150'
+    title: Criminal procedure statutes govern generally
+    status: ingested
+    path: statutes/ors-53.150.md
+  - number: '53.155'
+    title: Filing complaint as commencement of action
+    status: ingested
+    path: statutes/ors-53.155.md
+  - number: '53.160'
+    title: Form and sufficiency of complaint
+    status: ingested
+    path: statutes/ors-53.160.md
+  - number: '53.165'
+    title: Security for costs
+    status: ingested
+    path: statutes/ors-53.165.md
+  - number: '53.170'
+    title: Warrant of arrest; authority
+    status: ingested
+    path: statutes/ors-53.170.md
+  - number: '53.175'
+    title: Issuance, requisites and execution of warrant of arrest
+    status: ingested
+    path: statutes/ors-53.175.md
+  - number: '53.180'
+    title: Reading complaint to defendant; defendant to plead
+    status: ingested
+    path: statutes/ors-53.180.md
+  - number: '53.185'
+    title: Defendant’s plea; refusal to plead
+    status: ingested
+    path: statutes/ors-53.185.md
+  - number: '53.190'
+    title: Action to be tried within one day unless continued
+    status: ingested
+    path: statutes/ors-53.190.md
+  - number: '53.195'
+    title: Change of place of trial
+    status: ingested
+    path: statutes/ors-53.195.md
+  - number: '53.200'
+    title: Trial by court or jury
+    status: ingested
+    path: statutes/ors-53.200.md
+  - number: '53.205'
+    title: Injured person must appear or be subpoenaed
+    status: ingested
+    path: statutes/ors-53.205.md
+  - number: '53.210'
+    title: Demand for and selection of jury
+    status: ingested
+    path: statutes/ors-53.210.md
+  - number: '53.215'
+    title: Rendition and entry of verdict on docket
+    status: ingested
+    path: statutes/ors-53.215.md
+  - number: '53.220'
+    title: Jury trial without prepayment of trial fee; payment after judgment
+    status: ingested
+    path: statutes/ors-53.220.md
+  - number: '53.235'
+    title: Judgment on plea of guilty, no contest or on conviction
+    status: ingested
+    path: statutes/ors-53.235.md
+  - number: '53.240'
+    title: Judgment imposing monetary obligation; requirements
+    status: ingested
+    path: statutes/ors-53.240.md
+  - number: '53.245'
+    title: Money judgments; enforcement
+    status: ingested
+    path: statutes/ors-53.245.md
+  - number: '53.250'
+    title: Judgment entry or certified copy as evidence
+    status: ingested
+    path: statutes/ors-53.250.md
+  - number: '53.255'
+    title: Discharge of defendant upon finding the defendant not guilty
+    status: ingested
+    path: statutes/ors-53.255.md
+  - number: '53.260'
+    title: Entry that prosecution was malicious or without probable cause
+    status: ingested
+    path: statutes/ors-53.260.md
+  - number: '53.265'
+    title: Judgment against complainant for costs and disbursements
+    status: ingested
+    path: statutes/ors-53.265.md
+  - number: '53.270'
+    title: Enforcement of judgment against complainant
+    status: ingested
+    path: statutes/ors-53.270.md
+  - number: '53.275'
+    title: Payment of fine and costs by defendant
+    status: ingested
+    path: statutes/ors-53.275.md
+  - number: '53.280'
+    title: Assignment of judgment to Department of Revenue
+    status: ingested
+    path: statutes/ors-53.280.md
+  - number: '53.295'
+    title: Release of defendant before trial
+    status: ingested
+    path: statutes/ors-53.295.md
+  - number: '53.300'
+    title: Commitment of defendant
+    status: ingested
+    path: statutes/ors-53.300.md
+  - number: '53.305'
+    title: Form of commitment
+    status: ingested
+    path: statutes/ors-53.305.md
+  - number: '53.310'
+    title: How commitment is executed
+    status: ingested
+    path: statutes/ors-53.310.md
+  - number: '53.325'
+    title: Proceeding when crime is not within jurisdiction of justice court
+    status: ingested
+    path: statutes/ors-53.325.md
+  - number: '53.330'
+    title: Function of district attorney in justice court
+    status: ingested
+    path: statutes/ors-53.330.md
+  - number: '53.335'
+    title: Disposition of money paid on judgment
+    status: ingested
+    path: statutes/ors-53.335.md
+  - number: '53.350'
+    title: Jurisdiction over offenses against animals
+    status: ingested
+    path: statutes/ors-53.350.md
 - chapter: '530'
   title: State Forests; Community Forests
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors530.html
@@ -101373,6 +102655,70 @@ chapters:
     title: Participation in management of Upper Klamath Basin Comprehensive Agreement
     status: ingested
     path: statutes/ors-539.360.md
+- chapter: '54'
+  title: Juries
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors054.html
+  sections:
+  - number: '54.010'
+    title: Trial jury defined
+    status: ingested
+    path: statutes/ors-54.010.md
+  - number: '54.020'
+    title: Jury not selected from jury list
+    status: ingested
+    path: statutes/ors-54.020.md
+  - number: '54.030'
+    title: Service and return of order; persons to be summoned
+    status: ingested
+    path: statutes/ors-54.030.md
+  - number: '54.040'
+    title: Insufficient number of jurors; summoning others; challenges
+    status: ingested
+    path: statutes/ors-54.040.md
+  - number: '54.050'
+    title: Qualifications of jurors
+    status: ingested
+    path: statutes/ors-54.050.md
+  - number: '54.060'
+    title: Making of jury lists
+    status: ingested
+    path: statutes/ors-54.060.md
+  - number: '54.070'
+    title: Number of names on list; certifying and filing list
+    status: ingested
+    path: statutes/ors-54.070.md
+  - number: '54.090'
+    title: Justice not in office or present when list was made must procure and file copy thereof
+    status: ingested
+    path: statutes/ors-54.090.md
+  - number: '54.100'
+    title: Drawing jury list; jury box; depositing ballots
+    status: ingested
+    path: statutes/ors-54.100.md
+  - number: '54.110'
+    title: Selection of jury from jury list
+    status: ingested
+    path: statutes/ors-54.110.md
+  - number: '54.120'
+    title: Manner of drawing jury panel; making and signing list of names for panel
+    status: ingested
+    path: statutes/ors-54.120.md
+  - number: '54.130'
+    title: Names drawn which are not entered on list of panel
+    status: ingested
+    path: statutes/ors-54.130.md
+  - number: '54.140'
+    title: Selection of jury by striking names from the panel
+    status: ingested
+    path: statutes/ors-54.140.md
+  - number: '54.150'
+    title: Order for jury selected from jury list; manner of summoning and forming jury; challenges
+    status: ingested
+    path: statutes/ors-54.150.md
+  - number: '54.160'
+    title: Punishment of jurors
+    status: ingested
+    path: statutes/ors-54.160.md
 - chapter: '540'
   title: Distribution and Storage of Water; Watermasters; Water Right Changes, Transfers an
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors540.html
