@@ -288,11 +288,16 @@ def _selftest() -> int:
            for t in data["targets"]))
     ck("chapter 151 is NOT in the report -- it is mirrored (#210's own fix)",
        not any(t["chapter"] == "151" for t in data["targets"]))
-    ck("single-digit chapters are visible to the scan too -- chapter 2 (Supreme Court/"
-       "Court of Appeals, ORS 2.570 et al.) is cited 67 times across 64 documents and is "
-       "absent from _meta/sources/ors.yml, so it must appear here rather than being "
-       "invisible to a regex anchored on two-to-three-digit chapters",
-       any(t["chapter"] == "2" for t in data["targets"]))
+    # Chapter 2 was the live witness for this until it was mirrored with the rest of ORS, so
+    # the proof no longer reads the committed corpus: it feeds the mention pattern and the
+    # classifier a single-digit chapter directly, which fails the same way if the pattern is
+    # ever anchored on two-to-three-digit chapters again.
+    m = ORS_MENTION.search("see ORS 2.570 and ORS 9.160")
+    ck("single-digit chapters are visible to the scan too -- 'ORS 2.570' (Supreme Court/"
+       "Court of Appeals) yields chapter 2 rather than being invisible to a pattern "
+       "anchored on two-to-three-digit chapters",
+       m is not None and m.group(1) == "2"
+       and classify("2", set(), set(), {})[0] == "not_mirrored_unknown")
     ck("known-real + no-evidence targets add up to the reported total",
        s["chapters_known_real_not_ingested"] + s["chapters_no_corroborating_evidence"]
        == s["chapters_cited_outside_mirrored_set"])
