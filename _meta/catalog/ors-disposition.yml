@@ -9,8 +9,8 @@ note: 'Mechanically mined from already-cached ORS chapter snapshot text (a secti
   because the section became a series rather than moving to two places. Repeal wins where a bracket says
   both. Not exhaustive — only chapters with a cached snapshot are scanned. Non-authoritative; verify against
   oregonlegislature.gov before relying on a disposition here.'
-n_repealed: 21321
-n_renumbered: 7937
+n_repealed: 22137
+n_renumbered: 8030
 n_renumbering_stubs_not_parsed: 10
 sections:
 - section: '10.040'
@@ -1420,6 +1420,138 @@ sections:
 - section: '111.265'
   status: repealed
   year: 2021
+- section: '112.010'
+  status: renumbered
+  year: null
+  targets:
+  - '112.575'
+  source_phrase: renumbered 112.575
+- section: '112.017'
+  status: repealed
+  year: 1999
+- section: '112.020'
+  status: renumbered
+  year: null
+  targets:
+  - '112.585'
+  source_phrase: renumbered 112.585
+- section: '112.030'
+  status: renumbered
+  year: null
+  targets:
+  - '112.595'
+  source_phrase: renumbered 112.595
+- section: '112.040'
+  status: renumbered
+  year: null
+  targets:
+  - '112.615'
+  source_phrase: renumbered 112.615
+- section: '112.050'
+  status: repealed
+  year: 1969
+- section: '112.060'
+  status: renumbered
+  year: null
+  targets:
+  - '112.625'
+  source_phrase: renumbered 112.625
+- section: '112.070'
+  status: renumbered
+  year: null
+  targets:
+  - '112.635'
+  source_phrase: renumbered 112.635
+- section: '112.075'
+  status: repealed
+  year: 2015
+- section: '112.080'
+  status: renumbered
+  year: null
+  targets:
+  - '112.645'
+  source_phrase: renumbered 112.645
+- section: '112.085'
+  status: repealed
+  year: 1999
+- section: '112.237'
+  status: repealed
+  year: 1993
+- section: '112.325'
+  status: repealed
+  year: 2015
+- section: '112.335'
+  status: repealed
+  year: 2015
+- section: '112.375'
+  status: repealed
+  year: 1973
+- section: '112.390'
+  status: repealed
+  year: 2016
+- section: '112.425'
+  status: repealed
+  year: 1989
+- section: '112.435'
+  status: repealed
+  year: 2015
+- section: '112.485'
+  status: repealed
+  year: 2015
+- section: '112.575'
+  status: repealed
+  year: 1999
+- section: '112.585'
+  status: repealed
+  year: 1999
+- section: '112.595'
+  status: repealed
+  year: 1999
+- section: '112.605'
+  status: repealed
+  year: 1999
+- section: '112.615'
+  status: repealed
+  year: 1999
+- section: '112.625'
+  status: repealed
+  year: 1999
+- section: '112.635'
+  status: repealed
+  year: 1999
+- section: '112.645'
+  status: repealed
+  year: 1999
+- section: '112.650'
+  status: repealed
+  year: 2001
+- section: '112.652'
+  status: repealed
+  year: 2001
+- section: '112.655'
+  status: repealed
+  year: 2001
+- section: '112.657'
+  status: repealed
+  year: 2001
+- section: '112.660'
+  status: repealed
+  year: 2001
+- section: '112.662'
+  status: repealed
+  year: 2001
+- section: '112.665'
+  status: repealed
+  year: 2001
+- section: '112.667'
+  status: repealed
+  year: 2001
+- section: '112.675'
+  status: repealed
+  year: 1975
+- section: '112.695'
+  status: repealed
+  year: 2015
 - section: '113.010'
   status: repealed
   year: 1969
@@ -2071,6 +2203,129 @@ sections:
 - section: '116.990'
   status: repealed
   year: 1969
+- section: '117.010'
+  status: repealed
+  year: 1969
+- section: '117.020'
+  status: repealed
+  year: 1969
+- section: '117.030'
+  status: repealed
+  year: 1969
+- section: '117.110'
+  status: repealed
+  year: 1969
+- section: '117.120'
+  status: repealed
+  year: 1969
+- section: '117.130'
+  status: repealed
+  year: 1969
+- section: '117.140'
+  status: repealed
+  year: 1969
+- section: '117.150'
+  status: repealed
+  year: 1969
+- section: '117.160'
+  status: repealed
+  year: 1969
+- section: '117.170'
+  status: repealed
+  year: 1969
+- section: '117.180'
+  status: repealed
+  year: 1969
+- section: '117.310'
+  status: repealed
+  year: 1969
+- section: '117.315'
+  status: repealed
+  year: 1969
+- section: '117.320'
+  status: repealed
+  year: 1969
+- section: '117.330'
+  status: repealed
+  year: 1969
+- section: '117.340'
+  status: repealed
+  year: 1969
+- section: '117.350'
+  status: repealed
+  year: 1969
+- section: '117.360'
+  status: repealed
+  year: 1957
+- section: '117.361'
+  status: repealed
+  year: 1969
+- section: '117.370'
+  status: repealed
+  year: 1969
+- section: '117.380'
+  status: repealed
+  year: 1969
+- section: '117.390'
+  status: repealed
+  year: 1969
+- section: '117.510'
+  status: repealed
+  year: 1969
+- section: '117.520'
+  status: repealed
+  year: 1969
+- section: '117.530'
+  status: repealed
+  year: 1969
+- section: '117.540'
+  status: repealed
+  year: 1969
+- section: '117.550'
+  status: repealed
+  year: 1969
+- section: '117.560'
+  status: repealed
+  year: 1969
+- section: '117.610'
+  status: repealed
+  year: 1969
+- section: '117.612'
+  status: repealed
+  year: 1969
+- section: '117.615'
+  status: repealed
+  year: 1969
+- section: '117.620'
+  status: repealed
+  year: 1969
+- section: '117.630'
+  status: repealed
+  year: 1969
+- section: '117.640'
+  status: repealed
+  year: 1969
+- section: '117.650'
+  status: repealed
+  year: 1969
+- section: '117.660'
+  status: repealed
+  year: 1969
+- section: '117.670'
+  status: repealed
+  year: 1969
+- section: '117.680'
+  status: renumbered
+  year: null
+  targets:
+  - '116.173'
+  source_phrase: renumbered 116.173
+- section: '117.690'
+  status: repealed
+  year: 1969
+- section: '117.710'
+  status: repealed
+  year: 1969
 - section: '118.009'
   status: repealed
   year: 2011
@@ -2260,6 +2515,162 @@ sections:
 - section: '118.880'
   status: repealed
   year: 2011
+- section: '119.005'
+  status: repealed
+  year: 1997
+- section: '119.010'
+  status: repealed
+  year: 1997
+- section: '119.015'
+  status: repealed
+  year: 1997
+- section: '119.020'
+  status: repealed
+  year: 1997
+- section: '119.022'
+  status: repealed
+  year: 1997
+- section: '119.025'
+  status: repealed
+  year: 1981
+- section: '119.030'
+  status: repealed
+  year: 1959
+- section: '119.031'
+  status: repealed
+  year: 1997
+- section: '119.035'
+  status: repealed
+  year: 1997
+- section: '119.037'
+  status: repealed
+  year: 1997
+- section: '119.040'
+  status: repealed
+  year: 1959
+- section: '119.041'
+  status: repealed
+  year: 1997
+- section: '119.045'
+  status: repealed
+  year: 1997
+- section: '119.050'
+  status: repealed
+  year: 1959
+- section: '119.051'
+  status: repealed
+  year: 1997
+- section: '119.055'
+  status: repealed
+  year: 1977
+- section: '119.060'
+  status: repealed
+  year: 1959
+- section: '119.061'
+  status: repealed
+  year: 1977
+- section: '119.065'
+  status: repealed
+  year: 1997
+- section: '119.070'
+  status: repealed
+  year: 1997
+- section: '119.080'
+  status: repealed
+  year: 1997
+- section: '119.100'
+  status: repealed
+  year: 1977
+- section: '119.110'
+  status: repealed
+  year: 1997
+- section: '119.120'
+  status: repealed
+  year: 1997
+- section: '119.130'
+  status: repealed
+  year: 1977
+- section: '119.140'
+  status: repealed
+  year: 1977
+- section: '119.150'
+  status: repealed
+  year: 1997
+- section: '119.160'
+  status: repealed
+  year: 1997
+- section: '119.210'
+  status: repealed
+  year: 1977
+- section: '119.211'
+  status: repealed
+  year: 1997
+- section: '119.220'
+  status: repealed
+  year: 1997
+- section: '119.230'
+  status: repealed
+  year: 1975
+- section: '119.240'
+  status: repealed
+  year: 1977
+- section: '119.250'
+  status: repealed
+  year: 1975
+- section: '119.260'
+  status: repealed
+  year: 1975
+- section: '119.270'
+  status: repealed
+  year: 1977
+- section: '119.280'
+  status: repealed
+  year: 1985
+- section: '119.290'
+  status: repealed
+  year: 1997
+- section: '119.300'
+  status: repealed
+  year: 1977
+- section: '119.310'
+  status: repealed
+  year: 1997
+- section: '119.320'
+  status: repealed
+  year: 1977
+- section: '119.330'
+  status: repealed
+  year: 1977
+- section: '119.340'
+  status: repealed
+  year: 1997
+- section: '119.350'
+  status: repealed
+  year: 1997
+- section: '119.360'
+  status: repealed
+  year: 1997
+- section: '119.370'
+  status: repealed
+  year: 1997
+- section: '119.380'
+  status: repealed
+  year: 1997
+- section: '119.510'
+  status: repealed
+  year: 1981
+- section: '119.515'
+  status: repealed
+  year: 1997
+- section: '119.520'
+  status: repealed
+  year: 1959
+- section: '119.525'
+  status: repealed
+  year: 1997
+- section: '119.990'
+  status: repealed
+  year: 1997
 - section: '12.030'
   status: repealed
   year: 1973
@@ -3946,6 +4357,84 @@ sections:
   targets:
   - '97.994'
   source_phrase: renumbered 97.994 in 2001
+- section: '129.005'
+  status: repealed
+  year: 2003
+- section: '129.010'
+  status: repealed
+  year: 1975
+- section: '129.015'
+  status: repealed
+  year: 2003
+- section: '129.020'
+  status: repealed
+  year: 1975
+- section: '129.025'
+  status: repealed
+  year: 2003
+- section: '129.030'
+  status: repealed
+  year: 1975
+- section: '129.035'
+  status: repealed
+  year: 2003
+- section: '129.040'
+  status: repealed
+  year: 1975
+- section: '129.045'
+  status: repealed
+  year: 2003
+- section: '129.050'
+  status: repealed
+  year: 1975
+- section: '129.055'
+  status: repealed
+  year: 2003
+- section: '129.060'
+  status: repealed
+  year: 1975
+- section: '129.065'
+  status: repealed
+  year: 2003
+- section: '129.070'
+  status: repealed
+  year: 1975
+- section: '129.075'
+  status: repealed
+  year: 2003
+- section: '129.080'
+  status: repealed
+  year: 1975
+- section: '129.085'
+  status: repealed
+  year: 2003
+- section: '129.090'
+  status: repealed
+  year: 2003
+- section: '129.100'
+  status: repealed
+  year: 2003
+- section: '129.105'
+  status: repealed
+  year: 2003
+- section: '129.110'
+  status: repealed
+  year: 1975
+- section: '129.115'
+  status: repealed
+  year: 2003
+- section: '129.120'
+  status: repealed
+  year: 1975
+- section: '129.125'
+  status: repealed
+  year: 2003
+- section: '129.130'
+  status: repealed
+  year: 1975
+- section: '129.140'
+  status: repealed
+  year: 1975
 - section: '131.010'
   status: repealed
   year: 1973
@@ -5353,6 +5842,81 @@ sections:
   targets:
   - '138.440'
   source_phrase: renumbered 138.440
+- section: '14.010'
+  status: repealed
+  year: 1979
+- section: '14.020'
+  status: repealed
+  year: 1979
+- section: '14.035'
+  status: repealed
+  year: 1979
+- section: '14.070'
+  status: repealed
+  year: 2003
+- section: '14.140'
+  status: repealed
+  year: 2017
+- section: '14.150'
+  status: repealed
+  year: 2017
+- section: '14.170'
+  status: repealed
+  year: 1981
+- section: '14.220'
+  status: repealed
+  year: 1955
+- section: '14.230'
+  status: repealed
+  year: 1955
+- section: '14.240'
+  status: repealed
+  year: 1955
+- section: '142.080'
+  status: renumbered
+  year: null
+  targets:
+  - '133.460'
+  source_phrase: renumbered 133.460
+- section: '142.090'
+  status: renumbered
+  year: null
+  targets:
+  - '133.465'
+  source_phrase: renumbered 133.465
+- section: '142.100'
+  status: renumbered
+  year: null
+  targets:
+  - '133.470'
+  source_phrase: renumbered 133.470
+- section: '142.110'
+  status: renumbered
+  year: null
+  targets:
+  - '133.475'
+  source_phrase: renumbered 133.475
+- section: '142.120'
+  status: renumbered
+  year: null
+  targets:
+  - '133.485'
+  source_phrase: renumbered 133.485
+- section: '142.130'
+  status: renumbered
+  year: null
+  targets:
+  - '133.495'
+  source_phrase: renumbered 133.495
+- section: '142.210'
+  status: renumbered
+  year: null
+  targets:
+  - '133.455'
+  source_phrase: renumbered 133.455
+- section: '142.990'
+  status: repealed
+  year: 1973
 - section: '144.010'
   status: repealed
   year: 1969
@@ -16067,6 +16631,33 @@ sections:
 - section: '223.925'
   status: repealed
   year: 2007
+- section: '224.060'
+  status: repealed
+  year: 1967
+- section: '224.070'
+  status: repealed
+  year: 1967
+- section: '224.210'
+  status: repealed
+  year: 1973
+- section: '224.220'
+  status: repealed
+  year: 1973
+- section: '224.230'
+  status: repealed
+  year: 1973
+- section: '224.240'
+  status: repealed
+  year: 1973
+- section: '224.250'
+  status: repealed
+  year: 1973
+- section: '224.260'
+  status: repealed
+  year: 1973
+- section: '224.360'
+  status: repealed
+  year: 1967
 - section: '226.130'
   status: repealed
   year: 1983
@@ -17903,6 +18494,78 @@ sections:
 - section: 238a.157
   status: repealed
   year: 2007
+- section: '24.010'
+  status: repealed
+  year: 1979
+- section: '24.020'
+  status: repealed
+  year: 1979
+- section: '24.030'
+  status: repealed
+  year: 1979
+- section: '24.040'
+  status: repealed
+  year: 1979
+- section: '24.050'
+  status: repealed
+  year: 1979
+- section: '24.060'
+  status: repealed
+  year: 1979
+- section: '24.070'
+  status: repealed
+  year: 1979
+- section: '24.080'
+  status: repealed
+  year: 1979
+- section: '24.090'
+  status: repealed
+  year: 1979
+- section: '24.100'
+  status: repealed
+  year: 1979
+- section: '24.110'
+  status: repealed
+  year: 1979
+- section: '24.120'
+  status: repealed
+  year: 1979
+- section: '24.130'
+  status: repealed
+  year: 1979
+- section: '24.160'
+  status: repealed
+  year: 1979
+- section: '24.170'
+  status: repealed
+  year: 1979
+- section: '24.180'
+  status: repealed
+  year: 1979
+- section: '24.185'
+  status: repealed
+  year: 1999
+- section: '24.200'
+  status: repealed
+  year: 2009
+- section: '24.210'
+  status: repealed
+  year: 2009
+- section: '24.220'
+  status: repealed
+  year: 2009
+- section: '24.230'
+  status: repealed
+  year: 2009
+- section: '24.240'
+  status: repealed
+  year: 2009
+- section: '24.250'
+  status: repealed
+  year: 2009
+- section: '24.255'
+  status: repealed
+  year: 2009
 - section: '240.070'
   status: repealed
   year: 1967
@@ -22214,6 +22877,330 @@ sections:
 - section: '262.630'
   status: repealed
   year: 1969
+- section: '263.010'
+  status: repealed
+  year: 1957
+- section: '263.020'
+  status: repealed
+  year: 1957
+- section: '263.030'
+  status: repealed
+  year: 1957
+- section: '263.040'
+  status: repealed
+  year: 1957
+- section: '263.050'
+  status: repealed
+  year: 1957
+- section: '263.060'
+  status: repealed
+  year: 1957
+- section: '263.070'
+  status: repealed
+  year: 1957
+- section: '263.080'
+  status: repealed
+  year: 1957
+- section: '263.090'
+  status: repealed
+  year: 1957
+- section: '263.100'
+  status: repealed
+  year: 1957
+- section: '263.110'
+  status: repealed
+  year: 1957
+- section: '263.120'
+  status: repealed
+  year: 1957
+- section: '263.130'
+  status: repealed
+  year: 1957
+- section: '263.220'
+  status: renumbered
+  year: 2005
+  targets:
+  - '263.210'
+  source_phrase: renumbered 263.210 (2) and (3) in 2005
+- section: '263.290'
+  status: repealed
+  year: 2013
+- section: '264.020'
+  status: repealed
+  year: 1971
+- section: '264.115'
+  status: repealed
+  year: 1971
+- section: '264.118'
+  status: repealed
+  year: 1971
+- section: '264.120'
+  status: repealed
+  year: 1953
+- section: '264.121'
+  status: repealed
+  year: 1971
+- section: '264.124'
+  status: repealed
+  year: 1971
+- section: '264.127'
+  status: repealed
+  year: 1971
+- section: '264.130'
+  status: repealed
+  year: 1953
+- section: '264.140'
+  status: repealed
+  year: 1971
+- section: '264.142'
+  status: repealed
+  year: 1971
+- section: '264.144'
+  status: repealed
+  year: 1971
+- section: '264.148'
+  status: repealed
+  year: 1971
+- section: '264.150'
+  status: repealed
+  year: 1953
+- section: '264.154'
+  status: repealed
+  year: 1971
+- section: '264.156'
+  status: repealed
+  year: 1971
+- section: '264.160'
+  status: repealed
+  year: 1971
+- section: '264.170'
+  status: repealed
+  year: 1971
+- section: '264.180'
+  status: repealed
+  year: 1971
+- section: '264.190'
+  status: repealed
+  year: 1983
+- section: '264.230'
+  status: repealed
+  year: 1971
+- section: '264.290'
+  status: repealed
+  year: 1971
+- section: '264.392'
+  status: repealed
+  year: 1995
+- section: '264.415'
+  status: renumbered
+  year: null
+  targets:
+  - '264.190'
+  source_phrase: renumbered 264.190
+- section: '264.440'
+  status: repealed
+  year: 1969
+- section: '264.450'
+  status: repealed
+  year: 1969
+- section: '264.455'
+  status: repealed
+  year: 1969
+- section: '264.460'
+  status: repealed
+  year: 1983
+- section: '264.510'
+  status: repealed
+  year: 1953
+- section: '264.511'
+  status: repealed
+  year: 1971
+- section: '264.520'
+  status: repealed
+  year: 1971
+- section: '264.530'
+  status: repealed
+  year: 1971
+- section: '264.575'
+  status: repealed
+  year: 1971
+- section: '264.580'
+  status: repealed
+  year: 1971
+- section: '264.585'
+  status: repealed
+  year: 1971
+- section: '264.590'
+  status: repealed
+  year: 1971
+- section: '264.610'
+  status: repealed
+  year: 1971
+- section: '264.620'
+  status: repealed
+  year: 1971
+- section: '264.630'
+  status: repealed
+  year: 1971
+- section: '264.710'
+  status: repealed
+  year: 1969
+- section: '264.715'
+  status: repealed
+  year: 1971
+- section: '264.720'
+  status: repealed
+  year: 1971
+- section: '264.725'
+  status: repealed
+  year: 1971
+- section: '264.730'
+  status: repealed
+  year: 1971
+- section: '264.735'
+  status: repealed
+  year: 1971
+- section: '264.740'
+  status: repealed
+  year: 1971
+- section: '264.745'
+  status: repealed
+  year: 1971
+- section: '264.750'
+  status: repealed
+  year: 1971
+- section: '265.030'
+  status: repealed
+  year: 1971
+- section: '265.040'
+  status: repealed
+  year: 1971
+- section: '265.060'
+  status: repealed
+  year: 1971
+- section: '265.070'
+  status: repealed
+  year: 1971
+- section: '265.080'
+  status: repealed
+  year: 1971
+- section: '265.090'
+  status: repealed
+  year: 1971
+- section: '265.110'
+  status: repealed
+  year: 1983
+- section: '265.170'
+  status: repealed
+  year: 1971
+- section: '265.210'
+  status: repealed
+  year: 1971
+- section: '265.220'
+  status: repealed
+  year: 1971
+- section: '265.230'
+  status: repealed
+  year: 1971
+- section: '266.020'
+  status: repealed
+  year: 1971
+- section: '266.030'
+  status: repealed
+  year: 1971
+- section: '266.115'
+  status: repealed
+  year: 1971
+- section: '266.120'
+  status: repealed
+  year: 1971
+- section: '266.130'
+  status: repealed
+  year: 1971
+- section: '266.140'
+  status: repealed
+  year: 1971
+- section: '266.150'
+  status: repealed
+  year: 1971
+- section: '266.160'
+  status: repealed
+  year: 1971
+- section: '266.170'
+  status: repealed
+  year: 1971
+- section: '266.180'
+  status: repealed
+  year: 1971
+- section: '266.350'
+  status: repealed
+  year: 1971
+- section: '266.360'
+  status: repealed
+  year: 1969
+- section: '266.420'
+  status: repealed
+  year: 2023
+- section: '266.470'
+  status: repealed
+  year: 2011
+- section: '266.500'
+  status: repealed
+  year: 1971
+- section: '266.510'
+  status: repealed
+  year: 1969
+- section: '266.520'
+  status: repealed
+  year: 1969
+- section: '266.540'
+  status: repealed
+  year: 2023
+- section: '266.550'
+  status: repealed
+  year: 2023
+- section: '266.570'
+  status: repealed
+  year: 1969
+- section: '266.610'
+  status: repealed
+  year: 1971
+- section: '266.620'
+  status: repealed
+  year: 1971
+- section: '266.630'
+  status: repealed
+  year: 1971
+- section: '266.640'
+  status: repealed
+  year: 1971
+- section: '266.650'
+  status: repealed
+  year: 1971
+- section: '266.660'
+  status: repealed
+  year: 1971
+- section: '266.670'
+  status: repealed
+  year: 1971
+- section: '266.680'
+  status: repealed
+  year: 1971
+- section: '266.710'
+  status: repealed
+  year: 1971
+- section: '266.720'
+  status: repealed
+  year: 1971
+- section: '266.730'
+  status: repealed
+  year: 1971
+- section: '266.740'
+  status: repealed
+  year: 1971
+- section: '266.750'
+  status: repealed
+  year: 1971
 - section: '267.100'
   status: renumbered
   year: null
@@ -22460,6 +23447,18 @@ sections:
 - section: '271.750'
   status: repealed
   year: 1983
+- section: '272.080'
+  status: renumbered
+  year: null
+  targets:
+  - '272.033'
+  source_phrase: renumbered 272.033
+- section: '272.090'
+  status: renumbered
+  year: null
+  targets:
+  - '272.036'
+  source_phrase: renumbered 272.036
 - section: '273.005'
   status: renumbered
   year: null
@@ -24662,6 +25661,9 @@ sections:
 - section: '279.990'
   status: repealed
   year: 2003
+- section: '28.040'
+  status: repealed
+  year: 2021
 - section: '280.010'
   status: repealed
   year: 1983
@@ -34289,6 +35291,99 @@ sections:
   targets:
   - '311.658'
   source_phrase: renumbered 311.658
+- section: '31.010'
+  status: repealed
+  year: 1981
+- section: '31.020'
+  status: repealed
+  year: 1981
+- section: '31.030'
+  status: repealed
+  year: 1981
+- section: '31.040'
+  status: repealed
+  year: 1981
+- section: '31.050'
+  status: renumbered
+  year: null
+  targets:
+  - '652.500'
+  source_phrase: renumbered 652.500
+- section: '31.280'
+  status: repealed
+  year: 2025
+- section: '31.850'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.400'
+  source_phrase: renumbered 15.400 in 2011
+- section: '31.855'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.405'
+  source_phrase: renumbered 15.405 in 2011
+- section: '31.860'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.410'
+  source_phrase: renumbered 15.410 in 2011
+- section: '31.862'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.415'
+  source_phrase: renumbered 15.415 in 2011
+- section: '31.865'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.420'
+  source_phrase: renumbered 15.420 in 2011
+- section: '31.870'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.430'
+  source_phrase: renumbered 15.430 in 2011
+- section: '31.872'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.435'
+  source_phrase: renumbered 15.435 in 2011
+- section: '31.875'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.440'
+  source_phrase: renumbered 15.440 in 2011
+- section: '31.878'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.445'
+  source_phrase: renumbered 15.445 in 2011
+- section: '31.880'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.450'
+  source_phrase: renumbered 15.450 in 2011
+- section: '31.885'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.455'
+  source_phrase: renumbered 15.455 in 2011
+- section: '31.890'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.460'
+  source_phrase: renumbered 15.460 in 2011
 - section: '310.045'
   status: repealed
   year: 1969
@@ -48958,6 +50053,90 @@ sections:
 - section: '368.940'
   status: repealed
   year: 1969
+- section: '369.010'
+  status: repealed
+  year: 1983
+- section: '369.110'
+  status: repealed
+  year: 1973
+- section: '369.120'
+  status: repealed
+  year: 1973
+- section: '369.130'
+  status: repealed
+  year: 1973
+- section: '369.140'
+  status: repealed
+  year: 1973
+- section: '369.150'
+  status: repealed
+  year: 1973
+- section: '369.160'
+  status: repealed
+  year: 1973
+- section: '369.170'
+  status: repealed
+  year: 1973
+- section: '369.180'
+  status: repealed
+  year: 1973
+- section: '369.190'
+  status: repealed
+  year: 1973
+- section: '369.200'
+  status: repealed
+  year: 1973
+- section: '369.210'
+  status: repealed
+  year: 1981
+- section: '369.220'
+  status: repealed
+  year: 1973
+- section: '369.230'
+  status: repealed
+  year: 1973
+- section: '369.240'
+  status: repealed
+  year: 1973
+- section: '369.250'
+  status: repealed
+  year: 1973
+- section: '369.260'
+  status: repealed
+  year: 1973
+- section: '369.270'
+  status: repealed
+  year: 1973
+- section: '369.280'
+  status: repealed
+  year: 1973
+- section: '369.290'
+  status: repealed
+  year: 1973
+- section: '369.410'
+  status: repealed
+  year: 1981
+- section: '369.420'
+  status: repealed
+  year: 1981
+- section: '369.430'
+  status: repealed
+  year: 1981
+- section: '369.440'
+  status: repealed
+  year: 1981
+- section: '369.450'
+  status: repealed
+  year: 1981
+- section: '369.460'
+  status: repealed
+  year: 1981
+- section: '369.470'
+  status: repealed
+  year: 1981
+- section: '369.480'
+  status: repealed
+  year: 1981
 - section: '370.005'
   status: repealed
   year: 1983
@@ -50266,6 +51445,375 @@ sections:
 - section: '396.600'
   status: repealed
   year: 2017
+- section: '398.008'
+  status: repealed
+  year: 2013
+- section: '398.052'
+  status: repealed
+  year: 2013
+- section: '398.054'
+  status: repealed
+  year: 2013
+- section: '398.056'
+  status: repealed
+  year: 2013
+- section: '398.062'
+  status: repealed
+  year: 2013
+- section: '398.064'
+  status: repealed
+  year: 1985
+- section: '398.065'
+  status: repealed
+  year: 2013
+- section: '398.066'
+  status: repealed
+  year: 2013
+- section: '398.068'
+  status: repealed
+  year: 2013
+- section: '398.082'
+  status: repealed
+  year: 1975
+- section: '398.083'
+  status: repealed
+  year: 2013
+- section: '398.102'
+  status: repealed
+  year: 2013
+- section: '398.104'
+  status: repealed
+  year: 2013
+- section: '398.106'
+  status: repealed
+  year: 2013
+- section: '398.108'
+  status: repealed
+  year: 2013
+- section: '398.110'
+  status: repealed
+  year: 2013
+- section: '398.112'
+  status: repealed
+  year: 2013
+- section: '398.114'
+  status: repealed
+  year: 2013
+- section: '398.116'
+  status: repealed
+  year: 2013
+- section: '398.126'
+  status: repealed
+  year: 2013
+- section: '398.128'
+  status: repealed
+  year: 2013
+- section: '398.130'
+  status: repealed
+  year: 2013
+- section: '398.132'
+  status: repealed
+  year: 2013
+- section: '398.134'
+  status: repealed
+  year: 1975
+- section: '398.135'
+  status: repealed
+  year: 2013
+- section: '398.136'
+  status: repealed
+  year: 2013
+- section: '398.138'
+  status: repealed
+  year: 2013
+- section: '398.140'
+  status: repealed
+  year: 2013
+- section: '398.162'
+  status: repealed
+  year: 2013
+- section: '398.164'
+  status: repealed
+  year: 2013
+- section: '398.166'
+  status: repealed
+  year: 2013
+- section: '398.168'
+  status: repealed
+  year: 2013
+- section: '398.170'
+  status: repealed
+  year: 2013
+- section: '398.172'
+  status: repealed
+  year: 2013
+- section: '398.202'
+  status: repealed
+  year: 2013
+- section: '398.204'
+  status: repealed
+  year: 2013
+- section: '398.206'
+  status: repealed
+  year: 2013
+- section: '398.208'
+  status: repealed
+  year: 1975
+- section: '398.209'
+  status: repealed
+  year: 2013
+- section: '398.210'
+  status: repealed
+  year: 2013
+- section: '398.212'
+  status: repealed
+  year: 2013
+- section: '398.214'
+  status: repealed
+  year: 2013
+- section: '398.218'
+  status: repealed
+  year: 2013
+- section: '398.220'
+  status: repealed
+  year: 2013
+- section: '398.222'
+  status: repealed
+  year: 2013
+- section: '398.228'
+  status: repealed
+  year: 2013
+- section: '398.230'
+  status: repealed
+  year: 2013
+- section: '398.232'
+  status: repealed
+  year: 2013
+- section: '398.236'
+  status: repealed
+  year: 2013
+- section: '398.238'
+  status: repealed
+  year: 2013
+- section: '398.254'
+  status: repealed
+  year: 2013
+- section: '398.256'
+  status: repealed
+  year: 2013
+- section: '398.258'
+  status: repealed
+  year: 2013
+- section: '398.260'
+  status: repealed
+  year: 1999
+- section: '398.272'
+  status: repealed
+  year: 2013
+- section: '398.274'
+  status: repealed
+  year: 2013
+- section: '398.276'
+  status: repealed
+  year: 2013
+- section: '398.278'
+  status: repealed
+  year: 2013
+- section: '398.280'
+  status: repealed
+  year: 2013
+- section: '398.282'
+  status: repealed
+  year: 2013
+- section: '398.284'
+  status: repealed
+  year: 2013
+- section: '398.286'
+  status: repealed
+  year: 2013
+- section: '398.288'
+  status: repealed
+  year: 2013
+- section: '398.290'
+  status: repealed
+  year: 2013
+- section: '398.292'
+  status: repealed
+  year: 2013
+- section: '398.294'
+  status: repealed
+  year: 2013
+- section: '398.296'
+  status: repealed
+  year: 2013
+- section: '398.302'
+  status: repealed
+  year: 2013
+- section: '398.304'
+  status: repealed
+  year: 2013
+- section: '398.306'
+  status: repealed
+  year: 2013
+- section: '398.308'
+  status: repealed
+  year: 2013
+- section: '398.310'
+  status: repealed
+  year: 2013
+- section: '398.312'
+  status: repealed
+  year: 2013
+- section: '398.314'
+  status: repealed
+  year: 2013
+- section: '398.316'
+  status: repealed
+  year: 2013
+- section: '398.318'
+  status: repealed
+  year: 2013
+- section: '398.320'
+  status: repealed
+  year: 2013
+- section: '398.322'
+  status: repealed
+  year: 2013
+- section: '398.324'
+  status: repealed
+  year: 2013
+- section: '398.326'
+  status: repealed
+  year: 2013
+- section: '398.328'
+  status: repealed
+  year: 2013
+- section: '398.330'
+  status: repealed
+  year: 2013
+- section: '398.332'
+  status: repealed
+  year: 2013
+- section: '398.334'
+  status: repealed
+  year: 2013
+- section: '398.336'
+  status: repealed
+  year: 2013
+- section: '398.338'
+  status: repealed
+  year: 2013
+- section: '398.340'
+  status: repealed
+  year: 2013
+- section: '398.342'
+  status: repealed
+  year: 2013
+- section: '398.344'
+  status: repealed
+  year: 2013
+- section: '398.346'
+  status: repealed
+  year: 2013
+- section: '398.348'
+  status: repealed
+  year: 2013
+- section: '398.350'
+  status: repealed
+  year: 2013
+- section: '398.352'
+  status: repealed
+  year: 2013
+- section: '398.354'
+  status: repealed
+  year: 2013
+- section: '398.356'
+  status: repealed
+  year: 2013
+- section: '398.358'
+  status: repealed
+  year: 2013
+- section: '398.360'
+  status: repealed
+  year: 2013
+- section: '398.362'
+  status: repealed
+  year: 2013
+- section: '398.366'
+  status: repealed
+  year: 2013
+- section: '398.368'
+  status: repealed
+  year: 2013
+- section: '398.370'
+  status: repealed
+  year: 2013
+- section: '398.372'
+  status: repealed
+  year: 2013
+- section: '398.374'
+  status: repealed
+  year: 2013
+- section: '398.375'
+  status: repealed
+  year: 2013
+- section: '398.376'
+  status: repealed
+  year: 1975
+- section: '398.378'
+  status: repealed
+  year: 2013
+- section: '398.380'
+  status: repealed
+  year: 2013
+- section: '398.382'
+  status: repealed
+  year: 1975
+- section: '398.384'
+  status: repealed
+  year: 2013
+- section: '398.386'
+  status: repealed
+  year: 2013
+- section: '398.388'
+  status: repealed
+  year: 2013
+- section: '398.390'
+  status: repealed
+  year: 1975
+- section: '398.391'
+  status: repealed
+  year: 2013
+- section: '398.392'
+  status: repealed
+  year: 1975
+- section: '398.393'
+  status: repealed
+  year: 2013
+- section: '398.394'
+  status: repealed
+  year: 2013
+- section: '398.395'
+  status: repealed
+  year: 2013
+- section: '398.397'
+  status: repealed
+  year: 2013
+- section: '398.399'
+  status: repealed
+  year: 2013
+- section: '398.400'
+  status: repealed
+  year: 2013
+- section: '398.402'
+  status: repealed
+  year: 2013
+- section: '398.404'
+  status: repealed
+  year: 2013
+- section: '398.410'
+  status: repealed
+  year: 2013
 - section: '399.010'
   status: repealed
   year: 1961
@@ -56629,6 +58177,36 @@ sections:
 - section: 419c.656
   status: repealed
   year: 2005
+- section: '42.005'
+  status: repealed
+  year: 2001
+- section: '42.050'
+  status: repealed
+  year: 1981
+- section: '42.060'
+  status: repealed
+  year: 1981
+- section: '42.070'
+  status: repealed
+  year: 1981
+- section: '42.080'
+  status: repealed
+  year: 1981
+- section: '42.120'
+  status: repealed
+  year: 1965
+- section: '42.130'
+  status: repealed
+  year: 1965
+- section: '42.140'
+  status: repealed
+  year: 1965
+- section: '42.150'
+  status: repealed
+  year: 1965
+- section: '42.160'
+  status: repealed
+  year: 1965
 - section: '420.010'
   status: repealed
   year: 1965
@@ -59510,6 +61088,75 @@ sections:
   status: repealed
   year: 1983
 - section: '435.495'
+  status: repealed
+  year: 1983
+- section: '436.010'
+  status: repealed
+  year: 1983
+- section: '436.020'
+  status: repealed
+  year: 1983
+- section: '436.025'
+  status: repealed
+  year: 1983
+- section: '436.030'
+  status: repealed
+  year: 1965
+- section: '436.035'
+  status: repealed
+  year: 1983
+- section: '436.040'
+  status: repealed
+  year: 1965
+- section: '436.041'
+  status: repealed
+  year: 1983
+- section: '436.050'
+  status: repealed
+  year: 1983
+- section: '436.055'
+  status: repealed
+  year: 1967
+- section: '436.056'
+  status: repealed
+  year: 1983
+- section: '436.060'
+  status: repealed
+  year: 1965
+- section: '436.061'
+  status: repealed
+  year: 1983
+- section: '436.070'
+  status: repealed
+  year: 1983
+- section: '436.080'
+  status: repealed
+  year: 1983
+- section: '436.090'
+  status: repealed
+  year: 1983
+- section: '436.100'
+  status: repealed
+  year: 1983
+- section: '436.110'
+  status: repealed
+  year: 1983
+- section: '436.115'
+  status: repealed
+  year: 1983
+- section: '436.120'
+  status: repealed
+  year: 1971
+- section: '436.125'
+  status: repealed
+  year: 1983
+- section: '436.130'
+  status: repealed
+  year: 1971
+- section: '436.140'
+  status: repealed
+  year: 1983
+- section: '436.150'
   status: repealed
   year: 1983
 - section: '438.030'
@@ -78809,6 +80456,33 @@ sections:
   targets:
   - '517.740'
   source_phrase: renumbered 517.740 in 1991
+- section: '52.050'
+  status: repealed
+  year: 1999
+- section: '52.140'
+  status: repealed
+  year: 1979
+- section: '52.150'
+  status: repealed
+  year: 1979
+- section: '52.160'
+  status: repealed
+  year: 1979
+- section: '52.230'
+  status: repealed
+  year: 1981
+- section: '52.240'
+  status: repealed
+  year: 1981
+- section: '52.260'
+  status: repealed
+  year: 1981
+- section: '52.630'
+  status: repealed
+  year: 1999
+- section: '52.690'
+  status: repealed
+  year: 1999
 - section: '520.010'
   status: repealed
   year: 1953
@@ -79001,6 +80675,15 @@ sections:
 - section: '522.920'
   status: repealed
   year: 1975
+- section: '523.370'
+  status: repealed
+  year: 1995
+- section: '523.620'
+  status: repealed
+  year: 1983
+- section: '523.650'
+  status: repealed
+  year: 1983
 - section: '526.010'
   status: repealed
   year: 1987
@@ -79509,6 +81192,51 @@ sections:
   - '321.991'
   source_phrase: renumbered as part of 321.991
   partial: true
+- section: '53.005'
+  status: repealed
+  year: 2025
+- section: '53.010'
+  status: repealed
+  year: 2025
+- section: '53.020'
+  status: repealed
+  year: 2025
+- section: '53.030'
+  status: repealed
+  year: 2025
+- section: '53.040'
+  status: repealed
+  year: 2025
+- section: '53.050'
+  status: repealed
+  year: 2025
+- section: '53.060'
+  status: repealed
+  year: 2025
+- section: '53.070'
+  status: repealed
+  year: 2025
+- section: '53.080'
+  status: repealed
+  year: 2025
+- section: '53.090'
+  status: repealed
+  year: 2025
+- section: '53.100'
+  status: repealed
+  year: 2025
+- section: '53.110'
+  status: repealed
+  year: 2025
+- section: '53.120'
+  status: repealed
+  year: 2025
+- section: '53.125'
+  status: repealed
+  year: 2025
+- section: '53.130'
+  status: repealed
+  year: 2025
 - section: '530.060'
   status: repealed
   year: 1957
@@ -80031,6 +81759,9 @@ sections:
 - section: '539.080'
   status: repealed
   year: 1987
+- section: '54.080'
+  status: repealed
+  year: 1983
 - section: '540.040'
   status: repealed
   year: 1985
@@ -81927,6 +83658,162 @@ sections:
 - section: '548.810'
   status: repealed
   year: 1989
+- section: '55.010'
+  status: repealed
+  year: 1963
+- section: '55.011'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.750'
+  source_phrase: renumbered 52.750 in 2025
+- section: '55.020'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.755'
+  source_phrase: renumbered 52.755 in 2025
+- section: '55.030'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.760'
+  source_phrase: renumbered 52.760 in 2025
+- section: '55.040'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.765'
+  source_phrase: renumbered 52.765 in 2025
+- section: '55.045'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.770'
+  source_phrase: renumbered 52.770 in 2025
+- section: '55.050'
+  status: repealed
+  year: 1989
+- section: '55.055'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.775'
+  source_phrase: renumbered 52.775 in 2025
+- section: '55.060'
+  status: repealed
+  year: 1989
+- section: '55.065'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.780'
+  source_phrase: renumbered 52.780 in 2025
+- section: '55.070'
+  status: repealed
+  year: 1989
+- section: '55.075'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.785'
+  source_phrase: renumbered 52.785 in 2025
+- section: '55.077'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.790'
+  source_phrase: renumbered 52.790 in 2025
+- section: '55.080'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.795'
+  source_phrase: renumbered 52.795 in 2025
+- section: '55.090'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.800'
+  source_phrase: renumbered 52.800 in 2025
+- section: '55.095'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.805'
+  source_phrase: renumbered 52.805 in 2025
+- section: '55.100'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.810'
+  source_phrase: renumbered 52.810 in 2025
+- section: '55.110'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.815'
+  source_phrase: renumbered 52.815 in 2025
+- section: '55.120'
+  status: repealed
+  year: 2025
+- section: '55.130'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.825'
+  source_phrase: renumbered 52.825 in 2025
+- section: '55.140'
+  status: renumbered
+  year: 2025
+  targets:
+  - '52.830'
+  source_phrase: renumbered 52.830 in 2025
+- section: '550.005'
+  status: repealed
+  year: 1969
+- section: '550.010'
+  status: repealed
+  year: 1969
+- section: '550.020'
+  status: repealed
+  year: 1969
+- section: '550.030'
+  status: repealed
+  year: 1969
+- section: '550.040'
+  status: repealed
+  year: 1969
+- section: '550.050'
+  status: repealed
+  year: 1969
+- section: '550.060'
+  status: repealed
+  year: 1969
+- section: '550.070'
+  status: repealed
+  year: 1969
+- section: '550.080'
+  status: repealed
+  year: 1969
+- section: '550.090'
+  status: repealed
+  year: 1969
+- section: '550.100'
+  status: repealed
+  year: 1969
+- section: '550.110'
+  status: repealed
+  year: 1969
+- section: '550.120'
+  status: repealed
+  year: 1969
+- section: '550.130'
+  status: repealed
+  year: 1969
+- section: '550.140'
+  status: repealed
+  year: 1969
 - section: '552.005'
   status: repealed
   year: 1955
@@ -82224,6 +84111,120 @@ sections:
 - section: '554.600'
   status: repealed
   year: 1987
+- section: '558.065'
+  status: repealed
+  year: 1967
+- section: '558.070'
+  status: repealed
+  year: 1975
+- section: '558.130'
+  status: repealed
+  year: 1975
+- section: '558.205'
+  status: repealed
+  year: 1983
+- section: '558.215'
+  status: repealed
+  year: 1971
+- section: '558.220'
+  status: repealed
+  year: 1971
+- section: '558.225'
+  status: repealed
+  year: 1971
+- section: '558.230'
+  status: repealed
+  year: 1971
+- section: '558.240'
+  status: repealed
+  year: 1971
+- section: '558.245'
+  status: repealed
+  year: 1983
+- section: '558.250'
+  status: repealed
+  year: 1971
+- section: '558.255'
+  status: repealed
+  year: 1983
+- section: '558.260'
+  status: repealed
+  year: 1971
+- section: '558.265'
+  status: repealed
+  year: 1971
+- section: '558.270'
+  status: repealed
+  year: 1983
+- section: '558.275'
+  status: repealed
+  year: 1971
+- section: '558.330'
+  status: repealed
+  year: 1971
+- section: '558.405'
+  status: repealed
+  year: 1971
+- section: '558.420'
+  status: repealed
+  year: 1971
+- section: '558.445'
+  status: repealed
+  year: 1971
+- section: '558.500'
+  status: repealed
+  year: 1971
+- section: '558.510'
+  status: repealed
+  year: 1971
+- section: '558.520'
+  status: repealed
+  year: 1971
+- section: '558.550'
+  status: repealed
+  year: 1971
+- section: '558.555'
+  status: repealed
+  year: 1971
+- section: '558.560'
+  status: repealed
+  year: 1971
+- section: '558.565'
+  status: repealed
+  year: 1971
+- section: '558.570'
+  status: repealed
+  year: 1971
+- section: '558.575'
+  status: repealed
+  year: 1971
+- section: '558.580'
+  status: repealed
+  year: 1971
+- section: '558.585'
+  status: repealed
+  year: 1971
+- section: '558.600'
+  status: repealed
+  year: 1971
+- section: '558.610'
+  status: repealed
+  year: 1971
+- section: '558.620'
+  status: repealed
+  year: 1971
+- section: '558.630'
+  status: repealed
+  year: 1971
+- section: '558.650'
+  status: repealed
+  year: 1971
+- section: '558.660'
+  status: repealed
+  year: 1971
+- section: '558.670'
+  status: repealed
+  year: 1971
 - section: '56.005'
   status: repealed
   year: 1987
@@ -82734,6 +84735,108 @@ sections:
 - section: '566.260'
   status: repealed
   year: 1983
+- section: '567.025'
+  status: repealed
+  year: 2013
+- section: '567.030'
+  status: repealed
+  year: 2013
+- section: '567.035'
+  status: repealed
+  year: 2013
+- section: '567.040'
+  status: repealed
+  year: 2015
+- section: '567.045'
+  status: repealed
+  year: 2015
+- section: '567.225'
+  status: repealed
+  year: 1955
+- section: '567.255'
+  status: repealed
+  year: 2015
+- section: '567.260'
+  status: repealed
+  year: 2015
+- section: '567.265'
+  status: repealed
+  year: 2015
+- section: '567.270'
+  status: repealed
+  year: 2015
+- section: '567.275'
+  status: repealed
+  year: 2015
+- section: '567.280'
+  status: repealed
+  year: 1955
+- section: '567.285'
+  status: repealed
+  year: 1955
+- section: '567.305'
+  status: repealed
+  year: 1955
+- section: '567.310'
+  status: repealed
+  year: 1955
+- section: '567.315'
+  status: repealed
+  year: 1955
+- section: '567.320'
+  status: repealed
+  year: 1955
+- section: '567.365'
+  status: repealed
+  year: 2015
+- section: '567.370'
+  status: repealed
+  year: 1955
+- section: '567.375'
+  status: repealed
+  year: 1955
+- section: '567.415'
+  status: repealed
+  year: 1955
+- section: '567.420'
+  status: repealed
+  year: 1955
+- section: '567.425'
+  status: repealed
+  year: 1955
+- section: '567.460'
+  status: repealed
+  year: 1953
+- section: '567.465'
+  status: repealed
+  year: 1955
+- section: '567.470'
+  status: repealed
+  year: 1955
+- section: '567.525'
+  status: repealed
+  year: 1955
+- section: '567.530'
+  status: repealed
+  year: 1955
+- section: '567.535'
+  status: repealed
+  year: 1955
+- section: '567.555'
+  status: repealed
+  year: 1955
+- section: '567.560'
+  status: repealed
+  year: 1955
+- section: '567.565'
+  status: repealed
+  year: 1955
+- section: '567.570'
+  status: repealed
+  year: 1955
+- section: '567.605'
+  status: repealed
+  year: 1955
 - section: '568.010'
   status: repealed
   year: 1983
@@ -84693,6 +86796,21 @@ sections:
 - section: '586.700'
   status: repealed
   year: 1955
+- section: '587.060'
+  status: repealed
+  year: 1959
+- section: '587.070'
+  status: repealed
+  year: 1959
+- section: '587.080'
+  status: repealed
+  year: 1959
+- section: '587.170'
+  status: repealed
+  year: 1959
+- section: '587.180'
+  status: repealed
+  year: 1959
 - section: '59.010'
   status: repealed
   year: 1967
@@ -90247,6 +92365,15 @@ sections:
 - section: '648.130'
   status: repealed
   year: 1985
+- section: '649.040'
+  status: repealed
+  year: 2015
+- section: '649.070'
+  status: repealed
+  year: 2015
+- section: '649.090'
+  status: repealed
+  year: 2015
 - section: '65.501'
   status: repealed
   year: 2019
@@ -93026,6 +95153,12 @@ sections:
 - section: '660.990'
   status: repealed
   year: 1981
+- section: '661.240'
+  status: repealed
+  year: 2015
+- section: '661.245'
+  status: repealed
+  year: 2015
 - section: '662.210'
   status: repealed
   year: 1971
@@ -93296,6 +95429,108 @@ sections:
 - section: '663.325'
   status: repealed
   year: 1975
+- section: '67.010'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.040'
+  source_phrase: renumbered 67.040 in 2013
+- section: '67.015'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.042'
+  source_phrase: renumbered 67.042 in 2013
+- section: '67.020'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.044'
+  source_phrase: renumbered 67.044 in 2013
+- section: '67.025'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.046'
+  source_phrase: renumbered 67.046 in 2013
+- section: '67.345'
+  status: repealed
+  year: 1999
+- section: '67.350'
+  status: repealed
+  year: 1999
+- section: '67.355'
+  status: repealed
+  year: 1999
+- section: '67.370'
+  status: repealed
+  year: 1999
+- section: '67.500'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.600'
+  source_phrase: renumbered 67.600 in 2013
+- section: '67.520'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.011'
+  source_phrase: renumbered 67.011 in 2013
+- section: '67.525'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.014'
+  source_phrase: renumbered 67.014 in 2013
+- section: '67.530'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.017'
+  source_phrase: renumbered 67.017 in 2013
+- section: '67.535'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.021'
+  source_phrase: renumbered 67.021 in 2013
+- section: '67.540'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.024'
+  source_phrase: renumbered 67.024 in 2013
+- section: '67.545'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.027'
+  source_phrase: renumbered 67.027 in 2013
+- section: '67.550'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.030'
+  source_phrase: renumbered 67.030 in 2013
+- section: '67.570'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.033'
+  source_phrase: renumbered 67.033 in 2013
+- section: '67.590'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.603'
+  source_phrase: renumbered 67.603 in 2013
+- section: '67.595'
+  status: renumbered
+  year: 2013
+  targets:
+  - '67.606'
+  source_phrase: renumbered 67.606 in 2013
 - section: '670.210'
   status: repealed
   year: 1981
@@ -97683,12 +99918,210 @@ sections:
 - section: '697.830'
   status: repealed
   year: 1981
+- section: '698.010'
+  status: repealed
+  year: 1967
+- section: '698.020'
+  status: repealed
+  year: 1967
+- section: '698.030'
+  status: repealed
+  year: 1967
+- section: '698.040'
+  status: repealed
+  year: 1967
+- section: '698.050'
+  status: repealed
+  year: 1967
+- section: '698.060'
+  status: repealed
+  year: 1967
+- section: '698.070'
+  status: repealed
+  year: 1967
+- section: '698.080'
+  status: repealed
+  year: 1967
+- section: '698.090'
+  status: repealed
+  year: 1967
+- section: '698.210'
+  status: repealed
+  year: 1975
+- section: '698.220'
+  status: repealed
+  year: 1975
+- section: '698.230'
+  status: repealed
+  year: 1975
+- section: '698.240'
+  status: repealed
+  year: 1975
+- section: '698.250'
+  status: repealed
+  year: 1975
+- section: '698.260'
+  status: repealed
+  year: 1975
+- section: '698.270'
+  status: repealed
+  year: 1975
+- section: '698.280'
+  status: repealed
+  year: 1975
+- section: '698.290'
+  status: repealed
+  year: 1975
+- section: '698.300'
+  status: repealed
+  year: 1975
+- section: '698.310'
+  status: repealed
+  year: 1975
+- section: '698.320'
+  status: repealed
+  year: 1975
+- section: '698.330'
+  status: repealed
+  year: 1975
+- section: '698.410'
+  status: repealed
+  year: 1967
+- section: '698.420'
+  status: repealed
+  year: 1967
+- section: '698.430'
+  status: repealed
+  year: 1967
+- section: '698.440'
+  status: repealed
+  year: 1967
+- section: '698.450'
+  status: repealed
+  year: 1967
+- section: '698.460'
+  status: repealed
+  year: 1967
+- section: '698.510'
+  status: repealed
+  year: 1977
+- section: '698.520'
+  status: repealed
+  year: 1977
+- section: '698.525'
+  status: repealed
+  year: 1977
+- section: '698.530'
+  status: repealed
+  year: 1977
+- section: '698.535'
+  status: repealed
+  year: 1977
+- section: '698.540'
+  status: repealed
+  year: 1977
+- section: '698.550'
+  status: repealed
+  year: 1977
+- section: '698.560'
+  status: repealed
+  year: 1977
+- section: '698.570'
+  status: repealed
+  year: 1977
+- section: '698.580'
+  status: repealed
+  year: 1971
+- section: '698.585'
+  status: repealed
+  year: 1977
+- section: '698.590'
+  status: repealed
+  year: 1977
+- section: '698.600'
+  status: repealed
+  year: 1977
+- section: '698.610'
+  status: repealed
+  year: 1977
+- section: '698.620'
+  status: repealed
+  year: 1977
+- section: '698.630'
+  status: repealed
+  year: 1977
+- section: '698.710'
+  status: repealed
+  year: 1977
+- section: '698.720'
+  status: repealed
+  year: 1971
+- section: '698.730'
+  status: repealed
+  year: 1977
+- section: '698.740'
+  status: repealed
+  year: 1971
+- section: '698.750'
+  status: repealed
+  year: 1971
+- section: '698.755'
+  status: repealed
+  year: 1977
+- section: '698.760'
+  status: repealed
+  year: 1971
+- section: '698.770'
+  status: repealed
+  year: 1977
+- section: '698.990'
+  status: repealed
+  year: 1977
 - section: '699.070'
   status: repealed
   year: 1977
 - section: '699.990'
   status: repealed
   year: 1977
+- section: '70.360'
+  status: repealed
+  year: 1993
+- section: '70.450'
+  status: renumbered
+  year: 1999
+  targets:
+  - '70.600'
+  source_phrase: renumbered 70.600 in 1999
+- section: '70.455'
+  status: renumbered
+  year: 1999
+  targets:
+  - '70.605'
+  source_phrase: renumbered 70.605 in 1999
+- section: '70.460'
+  status: renumbered
+  year: 1999
+  targets:
+  - '70.610'
+  source_phrase: renumbered 70.610 in 1999
+- section: '70.465'
+  status: renumbered
+  year: 1999
+  targets:
+  - '70.615'
+  source_phrase: renumbered 70.615 in 1999
+- section: '70.470'
+  status: renumbered
+  year: 1999
+  targets:
+  - '70.620'
+  source_phrase: renumbered 70.620 in 1999
+- section: '70.490'
+  status: renumbered
+  year: 1999
+  targets:
+  - '70.625'
+  source_phrase: renumbered 70.625 in 1999
 - section: '700.040'
   status: repealed
   year: 1967
@@ -98637,6 +101070,132 @@ sections:
 - section: '71.195'
   status: repealed
   year: 1961
+- section: '711.005'
+  status: repealed
+  year: 1997
+- section: '711.010'
+  status: repealed
+  year: 1997
+- section: '711.015'
+  status: repealed
+  year: 1997
+- section: '711.017'
+  status: repealed
+  year: 1997
+- section: '711.020'
+  status: repealed
+  year: 1997
+- section: '711.022'
+  status: repealed
+  year: 1997
+- section: '711.025'
+  status: repealed
+  year: 1997
+- section: '711.030'
+  status: repealed
+  year: 1997
+- section: '711.032'
+  status: repealed
+  year: 1997
+- section: '711.035'
+  status: repealed
+  year: 1997
+- section: '711.040'
+  status: renumbered
+  year: 1997
+  targets:
+  - '711.190'
+  source_phrase: renumbered 711.190 in 1997
+- section: '711.042'
+  status: repealed
+  year: 1997
+- section: '711.045'
+  status: renumbered
+  year: 1997
+  targets:
+  - '711.180'
+  source_phrase: renumbered 711.180 in 1997
+- section: '711.047'
+  status: repealed
+  year: 1997
+- section: '711.050'
+  status: repealed
+  year: 1997
+- section: '711.055'
+  status: renumbered
+  year: 1997
+  targets:
+  - '711.197'
+  source_phrase: renumbered 711.197 in 1997
+- section: '711.060'
+  status: renumbered
+  year: 1997
+  targets:
+  - '711.199'
+  source_phrase: renumbered 711.199 in 1997
+- section: '711.105'
+  status: repealed
+  year: 1973
+- section: '711.110'
+  status: repealed
+  year: 1997
+- section: '711.112'
+  status: repealed
+  year: 1997
+- section: '711.115'
+  status: repealed
+  year: 1997
+- section: '711.120'
+  status: repealed
+  year: 1973
+- section: '711.205'
+  status: repealed
+  year: 1997
+- section: '711.207'
+  status: repealed
+  year: 1997
+- section: '711.210'
+  status: repealed
+  year: 1973
+- section: '711.211'
+  status: repealed
+  year: 1997
+- section: '711.245'
+  status: repealed
+  year: 1973
+- section: '711.305'
+  status: repealed
+  year: 1997
+- section: '711.310'
+  status: repealed
+  year: 1997
+- section: '711.315'
+  status: repealed
+  year: 1997
+- section: '711.320'
+  status: repealed
+  year: 1997
+- section: '711.420'
+  status: repealed
+  year: 1973
+- section: '711.425'
+  status: repealed
+  year: 1973
+- section: '711.455'
+  status: repealed
+  year: 1973
+- section: '711.460'
+  status: repealed
+  year: 1973
+- section: '711.555'
+  status: repealed
+  year: 1973
+- section: '711.610'
+  status: repealed
+  year: 1973
+- section: '711.990'
+  status: repealed
+  year: 1975
 - section: '713.011'
   status: repealed
   year: 1997
@@ -104208,6 +106767,231 @@ sections:
 - section: '746.990'
   status: repealed
   year: 1967
+- section: '748.010'
+  status: renumbered
+  year: null
+  targets:
+  - '731.562'
+  source_phrase: renumbered 731.562
+- section: '748.020'
+  status: repealed
+  year: 1967
+- section: '748.030'
+  status: repealed
+  year: 1967
+- section: '748.040'
+  status: repealed
+  year: 1967
+- section: '748.045'
+  status: repealed
+  year: 1967
+- section: '748.050'
+  status: repealed
+  year: 1955
+- section: '748.055'
+  status: repealed
+  year: 1967
+- section: '748.060'
+  status: repealed
+  year: 1967
+- section: '748.070'
+  status: repealed
+  year: 1967
+- section: '748.075'
+  status: repealed
+  year: 1967
+- section: '748.080'
+  status: repealed
+  year: 1955
+- section: '748.084'
+  status: renumbered
+  year: null
+  targets:
+  - '731.438'
+  source_phrase: renumbered 731.438
+- section: '748.086'
+  status: renumbered
+  year: null
+  targets:
+  - '746.055'
+  source_phrase: renumbered 746.055
+- section: '748.090'
+  status: repealed
+  year: 1967
+- section: '748.105'
+  status: repealed
+  year: 1987
+- section: '748.110'
+  status: repealed
+  year: 1987
+- section: '748.115'
+  status: repealed
+  year: 1987
+- section: '748.120'
+  status: repealed
+  year: 1987
+- section: '748.125'
+  status: repealed
+  year: 1991
+- section: '748.135'
+  status: repealed
+  year: 1987
+- section: '748.140'
+  status: repealed
+  year: 1987
+- section: '748.145'
+  status: repealed
+  year: 1987
+- section: '748.150'
+  status: repealed
+  year: 1987
+- section: '748.155'
+  status: repealed
+  year: 1987
+- section: '748.160'
+  status: repealed
+  year: 1987
+- section: '748.165'
+  status: repealed
+  year: 1987
+- section: '748.170'
+  status: repealed
+  year: 1987
+- section: '748.175'
+  status: repealed
+  year: 1987
+- section: '748.185'
+  status: repealed
+  year: 1987
+- section: '748.190'
+  status: repealed
+  year: 1987
+- section: '748.205'
+  status: repealed
+  year: 1987
+- section: '748.210'
+  status: repealed
+  year: 1987
+- section: '748.215'
+  status: repealed
+  year: 1987
+- section: '748.216'
+  status: repealed
+  year: 1969
+- section: '748.220'
+  status: repealed
+  year: 1987
+- section: '748.225'
+  status: repealed
+  year: 1987
+- section: '748.230'
+  status: repealed
+  year: 1987
+- section: '748.235'
+  status: repealed
+  year: 1987
+- section: '748.240'
+  status: repealed
+  year: 1987
+- section: '748.305'
+  status: repealed
+  year: 1987
+- section: '748.310'
+  status: repealed
+  year: 1987
+- section: '748.315'
+  status: repealed
+  year: 1987
+- section: '748.320'
+  status: repealed
+  year: 1987
+- section: '748.325'
+  status: repealed
+  year: 1987
+- section: '748.330'
+  status: repealed
+  year: 1987
+- section: '748.335'
+  status: repealed
+  year: 1987
+- section: '748.340'
+  status: repealed
+  year: 1987
+- section: '748.345'
+  status: repealed
+  year: 1987
+- section: '748.350'
+  status: repealed
+  year: 1987
+- section: '748.355'
+  status: repealed
+  year: 1987
+- section: '748.360'
+  status: repealed
+  year: 1987
+- section: '748.365'
+  status: repealed
+  year: 1987
+- section: '748.370'
+  status: repealed
+  year: 1987
+- section: '748.375'
+  status: repealed
+  year: 1987
+- section: '748.380'
+  status: repealed
+  year: 1987
+- section: '748.405'
+  status: repealed
+  year: 1987
+- section: '748.410'
+  status: repealed
+  year: 1987
+- section: '748.415'
+  status: repealed
+  year: 1987
+- section: '748.420'
+  status: repealed
+  year: 1987
+- section: '748.425'
+  status: repealed
+  year: 1987
+- section: '748.430'
+  status: repealed
+  year: 1987
+- section: '748.505'
+  status: repealed
+  year: 1987
+- section: '748.510'
+  status: repealed
+  year: 1987
+- section: '748.515'
+  status: repealed
+  year: 1987
+- section: '748.520'
+  status: repealed
+  year: 1987
+- section: '748.525'
+  status: repealed
+  year: 1987
+- section: '748.530'
+  status: repealed
+  year: 1987
+- section: '748.535'
+  status: repealed
+  year: 1987
+- section: '748.540'
+  status: repealed
+  year: 1987
+- section: '748.545'
+  status: repealed
+  year: 1987
+- section: '748.550'
+  status: repealed
+  year: 1987
+- section: '748.555'
+  status: repealed
+  year: 1987
 - section: '75.780'
   status: repealed
   year: 1961
@@ -104316,6 +107100,165 @@ sections:
   targets:
   - '750.705'
   source_phrase: renumbered 750.705 in 1989
+- section: '751.005'
+  status: repealed
+  year: 1993
+- section: '751.010'
+  status: renumbered
+  year: null
+  targets:
+  - '734.030'
+  source_phrase: renumbered 734.030
+- section: '751.015'
+  status: repealed
+  year: 1993
+- section: '751.020'
+  status: renumbered
+  year: null
+  targets:
+  - '734.210'
+  source_phrase: renumbered 734.210
+- section: '751.025'
+  status: repealed
+  year: 1993
+- section: '751.030'
+  status: renumbered
+  year: null
+  targets:
+  - '734.240'
+  source_phrase: renumbered 734.240
+- section: '751.035'
+  status: repealed
+  year: 1993
+- section: '751.040'
+  status: renumbered
+  year: null
+  targets:
+  - '734.260'
+  source_phrase: renumbered 734.260
+- section: '751.045'
+  status: repealed
+  year: 1993
+- section: '751.050'
+  status: renumbered
+  year: null
+  targets:
+  - '734.270'
+  source_phrase: renumbered 734.270
+- section: '751.055'
+  status: repealed
+  year: 1993
+- section: '751.060'
+  status: repealed
+  year: 1967
+- section: '751.065'
+  status: repealed
+  year: 1993
+- section: '751.070'
+  status: repealed
+  year: 1967
+- section: '751.075'
+  status: repealed
+  year: 1993
+- section: '751.080'
+  status: renumbered
+  year: null
+  targets:
+  - '734.310'
+  source_phrase: renumbered 734.310
+- section: '751.085'
+  status: repealed
+  year: 1993
+- section: '751.090'
+  status: repealed
+  year: 1967
+- section: '751.095'
+  status: repealed
+  year: 1993
+- section: '751.100'
+  status: repealed
+  year: 1967
+- section: '751.105'
+  status: repealed
+  year: 1993
+- section: '751.110'
+  status: renumbered
+  year: null
+  targets:
+  - '734.330'
+  source_phrase: renumbered 734.330
+- section: '751.115'
+  status: repealed
+  year: 1993
+- section: '751.120'
+  status: repealed
+  year: 1967
+- section: '751.125'
+  status: repealed
+  year: 1993
+- section: '751.135'
+  status: repealed
+  year: 1993
+- section: '751.145'
+  status: repealed
+  year: 1993
+- section: '752.010'
+  status: repealed
+  year: 1987
+- section: '752.020'
+  status: repealed
+  year: 1987
+- section: '752.030'
+  status: repealed
+  year: 1987
+- section: '752.040'
+  status: repealed
+  year: 1987
+- section: '752.050'
+  status: repealed
+  year: 1977
+- section: '752.060'
+  status: repealed
+  year: 1987
+- section: '752.070'
+  status: repealed
+  year: 1987
+- section: '752.080'
+  status: repealed
+  year: 1987
+- section: '752.090'
+  status: repealed
+  year: 1987
+- section: '752.100'
+  status: repealed
+  year: 1987
+- section: '752.110'
+  status: repealed
+  year: 1987
+- section: '752.120'
+  status: repealed
+  year: 1987
+- section: '752.130'
+  status: repealed
+  year: 1987
+- section: '752.140'
+  status: repealed
+  year: 1987
+- section: '752.150'
+  status: repealed
+  year: 1987
+- section: '752.160'
+  status: repealed
+  year: 1987
+- section: '752.170'
+  status: repealed
+  year: 1987
+- section: '752.180'
+  status: repealed
+  year: 1987
+- section: '752.190'
+  status: repealed
+  year: 1987
 - section: '756.020'
   status: repealed
   year: 1985
@@ -107574,6 +110517,66 @@ sections:
 - section: '809.715'
   status: repealed
   year: 2001
+- section: '81.100'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.300'
+  source_phrase: renumbered 15.300 in 2011
+- section: '81.102'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.305'
+  source_phrase: renumbered 15.305 in 2011
+- section: '81.105'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.320'
+  source_phrase: renumbered 15.320 in 2011
+- section: '81.110'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.325'
+  source_phrase: renumbered 15.325 in 2011
+- section: '81.112'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.330'
+  source_phrase: renumbered 15.330 in 2011
+- section: '81.115'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.335'
+  source_phrase: renumbered 15.335 in 2011
+- section: '81.120'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.350'
+  source_phrase: renumbered 15.350 in 2011
+- section: '81.125'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.355'
+  source_phrase: renumbered 15.355 in 2011
+- section: '81.130'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.360'
+  source_phrase: renumbered 15.360 in 2011
+- section: '81.135'
+  status: renumbered
+  year: 2011
+  targets:
+  - '15.380'
+  source_phrase: renumbered 15.380 in 2011
 - section: '810.190'
   status: repealed
   year: 1993
@@ -111612,3 +114615,6 @@ sections:
 - section: '98.990'
   status: repealed
   year: 1957
+- section: '99.070'
+  status: repealed
+  year: 1995

@@ -345,7 +345,7 @@ The document prints a different date than its listing of record (known site typo
 - `rules/437/081/oar-437-081-2305.md` — rule has zero relationship edges — link_graph.py found no authority citation (or naming pair) to resolve; add/verify one manually
 - `rules/438/ (2 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 1 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/440/ (7 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 6 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
-- `rules/441/ (86 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 85 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
+- `rules/441/ (62 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 61 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/459/ (41 rules)` — correct non-links — 3 cite only chapter-level authority (no section to link to); 38 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/461/ (37 rules)` — correct non-links — 37 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
 - `rules/462/ (4 rules)` — correct non-links — 1 cite only chapter-level authority (no section to link to); 3 cite authority not in the corpus (repealed or un-ingested chapter); per-rule detail in each file's legal_authority
@@ -473,12 +473,11 @@ Order numbers are assigned sequentially within a year, so a higher number carryi
 - `eo-23-22` — signed 2023-09-01, but the preceding order `eo-23-21` is dated 2023-09-05 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
 - `eo-24-18` — signed 2024-07-20, but the preceding order `eo-24-17` is dated 2024-07-21 — order numbers are sequential, so one of the two dates is misread; check both signature blocks against the source PDFs
 
-## Catalog: sections with no sliceable body (219)
+## Catalog: sections with no sliceable body (223)
 
 ORS catalog entries whose section text couldn't be found in the chapter HTML (likely renumbered/repealed or TOC noise). Verify against the printed ORS if any of these numbers matter; otherwise they stay intentionally not ingested.
 
 - `ORS 100.010` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
-- `ORS 105.462` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 109.990` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 110.500` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 110.611` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -566,6 +565,7 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 307.200` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 307.835` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 308A.050` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 31.262` — title is correct (the printed catchline is 'Notice of adverse health care incident'); the slice anch
 - `ORS 310.206` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 310.208` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 310.242` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -664,6 +664,8 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 659A.036` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 659A.198` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 660.370` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 67.042` — catalog title does not match this section's own printed catchline at the anchor point; not ingested 
+- `ORS 67.600` — catalog title does not match this section's own printed catchline at the anchor point; not ingested 
 - `ORS 672.991` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 675.340` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 678.990` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -682,6 +684,8 @@ ORS catalog entries whose section text couldn't be found in the chapter HTML (li
 - `ORS 731.112` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 732.596` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 74.1120` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
+- `ORS 74A.1030` — title is correct (the printed catchline is 'Payment order; definitions'); the slice anchor was a cit
+- `ORS 74A.1040` — title is correct (the printed catchline is 'Funds transfer; definitions'); the slice anchor was a ci
 - `ORS 756.010` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 777.605` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
 - `ORS 79A.6240` — no section body found in the chapter text (likely renumbered/repealed or a TOC cross-reference artif
@@ -4791,4 +4795,4 @@ by directory:
 - `rules/972/040/`: 8 documents
 - `rules/976/001/`: 2 documents
 - `rules/976/002/`: 4 documents
-- `statutes/`: 37534 documents
+- `statutes/`: 38999 documents
