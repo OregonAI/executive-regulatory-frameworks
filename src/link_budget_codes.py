@@ -65,7 +65,6 @@ CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 #           agencies, confirmed with the maintainer as not an agency
 MANUAL_ENTRIES = [
     ("public-records-advocate", "Public Records Advocate", "104"),
-    ("state-board-of-tax-practitioners", "State Board of Tax Practitioners", "119"),
     ("office-of-the-governor", "Office of the Governor", "121"),
     ("oregon-advocacy-commissions-office", "Oregon Advocacy Commissions Office", "131"),
     ("legislative-counsel-office", "Legislative Counsel Office", "142"),
@@ -594,7 +593,7 @@ def main() -> int:
         # rebuilt failed --check's required-field rule. One constructor means the next field
         # cannot repeat that. The declared slug still wins over the derived one, because
         # MANUAL_ENTRIES is where a body the scrape cannot see gets its identity (the two
-        # agree on all 14 today).
+        # agree on all 13 today).
         #
         # The OAR name (CONTEXT.md) it ends up with is the body's own name. These bodies
         # hold no OAR chapter — that is why the scrape cannot see them — so there is no

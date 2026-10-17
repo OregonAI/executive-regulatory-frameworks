@@ -117028,6 +117028,135 @@ chapters:
       status: ingested
       path: rules/741/710/oar-741-710-0040.md
   discovered: '2026-08-27'
+- chapter: '800'
+  title: State Board of Tax Practitioners
+  url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=22
+  divisions:
+  - division: '1'
+    title: PROCEDURAL RULES
+    status: not_ingested
+    rules:
+    - number: 800-001-0000
+      status: not_ingested
+    - number: 800-001-0005
+      status: not_ingested
+    - number: 800-001-0010
+      status: not_ingested
+    - number: 800-001-0015
+      status: not_ingested
+    - number: 800-001-0020
+      status: not_ingested
+    - number: 800-001-0025
+      status: not_ingested
+  - division: '10'
+    title: CODE OF PROFESSIONAL CONDUCT
+    status: not_ingested
+    rules:
+    - number: 800-010-0015
+      status: not_ingested
+    - number: 800-010-0017
+      status: not_ingested
+    - number: 800-010-0020
+      status: not_ingested
+    - number: 800-010-0025
+      status: not_ingested
+    - number: 800-010-0030
+      status: not_ingested
+    - number: 800-010-0035
+      status: not_ingested
+    - number: 800-010-0040
+      status: not_ingested
+    - number: 800-010-0041
+      status: not_ingested
+    - number: 800-010-0042
+      status: not_ingested
+    - number: 800-010-0045
+      status: not_ingested
+    - number: 800-010-0050
+      status: not_ingested
+  - division: '15'
+    title: EDUCATION
+    status: not_ingested
+    rules:
+    - number: 800-015-0005
+      status: not_ingested
+    - number: 800-015-0010
+      status: not_ingested
+    - number: 800-015-0015
+      status: not_ingested
+    - number: 800-015-0020
+      status: not_ingested
+    - number: 800-015-0030
+      status: not_ingested
+  - division: '16'
+    title: Registered Tax Aide
+    status: not_ingested
+    rules:
+    - number: 800-016-0001
+      status: not_ingested
+  - division: '20'
+    title: PROCEDURES
+    status: not_ingested
+    rules:
+    - number: 800-020-0015
+      status: not_ingested
+    - number: 800-020-0020
+      status: not_ingested
+    - number: 800-020-0022
+      status: not_ingested
+    - number: 800-020-0025
+      status: not_ingested
+    - number: 800-020-0026
+      status: not_ingested
+    - number: 800-020-0030
+      status: not_ingested
+    - number: 800-020-0031
+      status: not_ingested
+    - number: 800-020-0035
+      status: not_ingested
+    - number: 800-020-0065
+      status: not_ingested
+  - division: '25'
+    title: TAX PREPARATION BUSINESSES
+    status: not_ingested
+    rules:
+    - number: 800-025-0010
+      status: not_ingested
+    - number: 800-025-0020
+      status: not_ingested
+    - number: 800-025-0023
+      status: not_ingested
+    - number: 800-025-0025
+      status: not_ingested
+    - number: 800-025-0027
+      status: not_ingested
+    - number: 800-025-0029
+      status: not_ingested
+    - number: 800-025-0030
+      status: not_ingested
+    - number: 800-025-0040
+      status: not_ingested
+    - number: 800-025-0050
+      status: not_ingested
+    - number: 800-025-0060
+      status: not_ingested
+    - number: 800-025-0070
+      status: not_ingested
+  - division: '30'
+    title: MISCELLANEOUS
+    status: not_ingested
+    rules:
+    - number: 800-030-0025
+      status: not_ingested
+    - number: 800-030-0030
+      status: not_ingested
+    - number: 800-030-0035
+      status: not_ingested
+    - number: 800-030-0045
+      status: not_ingested
+    - number: 800-030-0050
+      status: not_ingested
+  discovered: '2026-10-16'
 - chapter: '801'
   title: Oregon Board of Accountancy
   url: https://secure.sos.state.or.us/oard/displayChapterRules.action?selectedChapter=2
@@ -146053,4 +146182,4 @@ chapters:
       status: ingested
       path: rules/976/002/oar-976-002-0040.md
   discovered: '2026-08-27'
-retrieved: '2026-09-13'
+retrieved: '2026-10-16'
