@@ -72,6 +72,10 @@ profiles:
     governance: executive_branch
     policies_published: unknown
     governance_basis: ORS 174.112 (executive department definition); OAR chapter 585 assigned per agency registry
+  commission-on-statewide-law-enforcement-standards-of-conduct-and-discipline:
+    governance: executive_branch
+    policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 265 assigned per agency registry
   construction-contractors-board:
     governance: executive_branch
     policies_published: unknown
@@ -229,6 +233,10 @@ profiles:
     governance: executive_branch
     policies_published: unknown
     governance_basis: Sub-unit of Department of Consumer and Business Services; OAR chapter 437 assigned per agency registry
+  department-of-consumer-and-business-services-prescription-drug-affordability-board:
+    governance: executive_branch
+    policies_published: unknown
+    governance_basis: Sub-unit of Department of Consumer and Business Services; OAR chapter 925 assigned per agency registry
   department-of-consumer-and-business-services-workers-compensation-board:
     governance: executive_branch
     policies_published: unknown
@@ -440,7 +448,7 @@ profiles:
   mental-health-regulatory-agency:
     governance: executive_branch
     policies_published: unknown
-    governance_basis: ORS 174.112 (executive department definition); OAR chapter None assigned per agency registry
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 831 assigned per agency registry
   mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists:
     governance: executive_branch
     policies_published: unknown
@@ -529,6 +537,10 @@ profiles:
     notes: "Decentralized \u2014 policies published per division. Ingested the policy-publishing divisions (Oregon State Hospital,\
       \ Info-Security/Privacy Office, Public Health IRB); Equity & Inclusion has no policy library (retired page). Attributed\
       \ to this parent slug (OSH/ISPO/IRB are not separate registry orgs)."
+  oregon-health-authority-drug-treatment-and-recovery-services:
+    governance: executive_branch
+    policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 944 assigned per agency registry
   oregon-health-authority-health-licensing-office:
     governance: executive_branch
     policies_published: unknown
@@ -561,6 +573,10 @@ profiles:
     governance: executive_branch
     policies_published: unknown
     governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 853 assigned per agency registry
+  oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters:
+    governance: executive_branch
+    policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 816 assigned per agency registry
   oregon-health-authority-health-policy-and-analytics:
     governance: executive_branch
     policies_published: unknown
@@ -577,6 +593,10 @@ profiles:
     governance: executive_branch
     policies_published: unknown
     governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 410 assigned per agency registry
+  oregon-health-authority-oregon-educators-benefit-board:
+    governance: executive_branch
+    policies_published: unknown
+    governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 111 assigned per agency registry
   oregon-health-authority-oregon-prescription-drug-program:
     governance: executive_branch
     policies_published: unknown
@@ -589,6 +609,10 @@ profiles:
     governance: executive_branch
     policies_published: unknown
     governance_basis: Sub-unit of Oregon Health Authority; OAR chapter 333 assigned per agency registry
+  oregon-hemp-commission:
+    governance: executive_branch
+    policies_published: unknown
+    governance_basis: Sub-unit of Department of Agriculture; OAR chapter 648 assigned per agency registry
   oregon-housing-and-community-services-department:
     governance: executive_branch
     policies_published: unknown
@@ -663,6 +687,10 @@ profiles:
     governance_basis: ORS 174.112 (executive department definition); OAR chapter 695 assigned per agency registry
     notes: Only 3 policies (customer service, mitigation-fund eligibility, tribal
       relations); two carry no machine-readable effective date (image signature stamp).
+  oregon-watershed-enhancement-board-environmental-restoration-council:
+    governance: executive_branch
+    policies_published: unknown
+    governance_basis: Sub-unit of Oregon Watershed Enhancement Board; OAR chapter 699 assigned per agency registry
   oregon-watershed-enhancement-board-oregon-agricultural-heritage-program:
     governance: executive_branch
     policies_published: unknown
@@ -687,6 +715,10 @@ profiles:
     governance: executive_branch
     policies_published: unknown
     governance_basis: ORS 174.112 (executive department definition); OAR chapter 859 assigned per agency registry
+  public-records-advocate:
+    governance: executive_branch
+    policies_published: unknown
+    governance_basis: ORS 192.461(1) (independent office within the executive department); OAR chapter 180 assigned per agency registry
   public-utility-commission:
     governance: executive_branch
     policies_published: web
@@ -745,6 +777,10 @@ profiles:
     governance: executive_branch
     policies_published: unknown
     governance_basis: ORS 174.112 (executive department definition); OAR chapter 800 assigned per agency registry
+  state-board-of-towing:
+    governance: executive_branch
+    policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 750 assigned per agency registry
   teacher-standards-and-practices-commission:
     governance: executive_branch
     policies_published: unknown
