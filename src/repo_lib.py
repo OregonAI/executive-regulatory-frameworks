@@ -827,7 +827,14 @@ def snapshot_slice(doc_id: str, snapshot_id: str, raw_text: str) -> str:
                     if not _ORS_CITATION_PREFIX_RE.search(norm[max(0, m.start() - 12):m.start()])]
         start = (headings or matches)[-1].start()
         window = norm[start + 10:]
-        nxt = re.search(r"\b\d{3}[A-Z]?\.\d{3} [A-Z“\"]", window)
+        # The next section's number, in a chapter of ANY width ("24.335", "1.002", "74A.1030",
+        # "276A.300"; section tails run 3-4 digits). This once required a three-digit chapter,
+        # so in every chapter below 100 and in 72A/74A a slice ran on to the next part
+        # heading or the end of the page. A number that is itself CITED ('ORS 24.260 to 24.335
+        # Short...') is skipped, as for the start above.
+        nxt = next((m for m in re.finditer(r"\b\d{1,3}[A-Z]?\.\d{3,4} [A-Z“\"]", window)
+                    if not _ORS_CITATION_PREFIX_RE.search(window[max(0, m.start() - 12):m.start()])),
+                   None)
         # A bare part/subpart heading ("TREATMENT OF PRISONERS") right after this section's
         # closing citation bracket has no section number of its own, so the next-numbered-
         # section search above doesn't stop there — it would otherwise bleed into this

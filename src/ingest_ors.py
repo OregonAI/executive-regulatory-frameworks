@@ -585,6 +585,31 @@ def _proof_a_cross_reference_is_not_a_section_start(ck):
        .startswith("9.100 Real title."))
 
 
+def _proof_a_section_ends_at_the_next_one_in_any_width_chapter(ck):
+    """snapshot_slice ended a section at the next section's number, but only recognised a
+    three-digit chapter, so in a chapter numbered below 100 (24, 74A is lettered) a slice ran
+    on to the next part heading or the end of the page: 24.330 carried all of 24.335, 24.260
+    carried 24.265 through 24.335, 74A.1020 carried 74A.1030 through 74A.1080. Real
+    snapshots, no network."""
+    for ch, sec, nxt_heading in (("24", "24.330", "24.335 Short title"),
+                                 ("24", "24.260", "24.265 "),
+                                 ("74A", "74A.1020", "74A.1030 Payment order"),
+                                 ("1", "1.001", "1.002 ")):
+        raw = (SNAPSHOT_DIR / f"ors-chapter-{ch.lower()}.txt").read_text(
+            encoding="utf-8", errors="replace")
+        sl = snapshot_slice(f"ors-{sec.lower()}", f"ors-chapter-{ch.lower()}", raw)
+        ck(f"{sec}: the slice starts at its own heading", sl.startswith(sec + " "))
+        ck(f"{sec}: the slice stops before {nxt_heading.strip()}", nxt_heading not in sl)
+    from repo_lib import snapshot_slice as ss
+    ck("a citation range inside a catchline does not end the section",
+       "24.400" in ss("ors-24.350", "ors-chapter-24",
+                      "24.350 Definitions for ORS 24.350 to 24.400. As used in ORS 24.350 to "
+                      "24.400: (1) x. [1991 c.1] 24.360 Next. Body."))
+    ck("a lowercase word after a number is not a heading",
+       "may be cited" in ss("ors-24.330", "ors-chapter-24",
+                            "24.330 Sev. Body. See 24.335 may be cited. [1] 24.335 Short. X"))
+
+
 def _proof_an_anchor_refusal_records_what_it_found(ck):
     """A refusal a person will audit later must carry the evidence, not only the verdict.
     A refusal's note quotes the title and the catchline words the anchor produced, so a
@@ -623,6 +648,7 @@ def _selftest() -> int:
     _proof_a_refusal_never_publishes_through_the_real_consumer(ck)
     _proof_a_short_complete_section_is_not_mistaken_for_no_body(ck)
     _proof_a_cross_reference_is_not_a_section_start(ck)
+    _proof_a_section_ends_at_the_next_one_in_any_width_chapter(ck)
     _proof_an_anchor_refusal_records_what_it_found(ck)
     return ck.report("ingest-ors selftest")
 
