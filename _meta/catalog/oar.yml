@@ -108076,33 +108076,53 @@ chapters:
     - number: 699-010-0010
       status: ingested
       path: rules/699/010/oar-699-010-0010.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 699-010-0020
       status: ingested
       path: rules/699/010/oar-699-010-0020.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 699-010-0030
       status: ingested
       path: rules/699/010/oar-699-010-0030.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 699-010-0040
       status: ingested
       path: rules/699/010/oar-699-010-0040.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 699-010-0050
       status: ingested
       path: rules/699/010/oar-699-010-0050.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 699-010-0060
       status: ingested
       path: rules/699/010/oar-699-010-0060.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 699-010-0070
       status: ingested
       path: rules/699/010/oar-699-010-0070.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 699-010-0080
       status: ingested
       path: rules/699/010/oar-699-010-0080.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 699-010-0090
       status: ingested
       path: rules/699/010/oar-699-010-0090.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
     - number: 699-010-0100
       status: ingested
       path: rules/699/010/oar-699-010-0100.md
+      reingest_action: adopt
+      reingest_notice: August 2026 (bulltnRsn=1761)
   - division: '20'
     title: State Agency Program Fund
     status: ingested
