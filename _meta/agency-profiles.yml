@@ -741,6 +741,10 @@ profiles:
     governance: semi_independent
     policies_published: unknown
     governance_basis: ORS 182.454(2) (semi-independent state agency under ORS 182.454 to 182.472)
+  state-board-of-tax-practitioners:
+    governance: executive_branch
+    policies_published: unknown
+    governance_basis: ORS 174.112 (executive department definition); OAR chapter 800 assigned per agency registry
   teacher-standards-and-practices-commission:
     governance: executive_branch
     policies_published: unknown

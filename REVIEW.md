@@ -1365,7 +1365,7 @@ Oddities in the /gov/eo listing of record recorded by `src/ingest_eo.py` (duplic
 - `eo-21-05` — two listing rows with different bytes (/gov/eo/eo-21-05.pdf vs /gov/eo/eo_21-05.pdf) — confirm which file is the order of record
 - `eo-21-20` — listing says 2021 No. 29; filename (trusted) says 2021 No. 20 — the description matches the filename
 
-## Agency profiles needing curation (161)
+## Agency profiles needing curation (162)
 
 These agencies have in-repo content but their profile (`_meta/agency-profiles.yml`) still carries stub values — the model gets their data without its context until a human fills governance (with a citation) and publication status.
 
@@ -1526,6 +1526,7 @@ These agencies have in-repo content but their profile (`_meta/agency-profiles.ym
 - `_meta/agency-profiles.yml (secretary-of-state-elections-division)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (southern-oregon-university)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (state-board-of-architect-examiners)` — policies_published unknown (where does this agency publish?)
+- `_meta/agency-profiles.yml (state-board-of-tax-practitioners)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (teacher-standards-and-practices-commission)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (travel-information-council)` — policies_published unknown (where does this agency publish?)
 - `_meta/agency-profiles.yml (veterinary-medical-examining-board)` — policies_published unknown (where does this agency publish?)
@@ -4120,6 +4121,13 @@ by directory:
 - `rules/741/600/`: 5 documents
 - `rules/741/700/`: 3 documents
 - `rules/741/710/`: 4 documents
+- `rules/800/001/`: 6 documents
+- `rules/800/010/`: 11 documents
+- `rules/800/015/`: 5 documents
+- `rules/800/016/`: 1 documents
+- `rules/800/020/`: 9 documents
+- `rules/800/025/`: 11 documents
+- `rules/800/030/`: 5 documents
 - `rules/801/001/`: 11 documents
 - `rules/801/005/`: 1 documents
 - `rules/801/010/`: 23 documents
