@@ -60,6 +60,11 @@ sources:
   sha256: b9dc54d19ef146035081abe9a45ec545d7a6b963f1f90be5f6c678fb337fd8ce
   last_checked: '2026-07-26'
   notes: ORS chapter 111 (General Provisions), 2025 Edition
+- id: ors-chapter-112
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors112.html
+  sha256: 6901c171de28e23d93335ad9cbdf94d31442626b39a253bca9d7f442866c4826
+  last_checked: '2026-10-17'
+  notes: ORS chapter 112 (Intestate Succession and Wills), 2025 Edition
 - id: ors-chapter-113
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors113.html
   sha256: 35b9ab4a3d6a57347bbf10851953ea8ab31e82f373f65a5ca9bd7068c915bfb4
@@ -80,11 +85,21 @@ sources:
   sha256: 279ad2cc1eba3d028f49de1d90dc177d7206d9f0eabb02d28b133f005cb3e748
   last_checked: '2026-07-20'
   notes: ORS chapter 116 (Chapter 116), 2025 Edition
+- id: ors-chapter-117
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors117.html
+  sha256: 2d1c21b285aec9475661335f1391042c1d5fb756c41ef90066f84c8970de9c13
+  last_checked: '2026-10-17'
+  notes: ORS chapter 117 (Estates of Absentees), 2025 Edition
 - id: ors-chapter-118
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors118.html
   sha256: fbe002ae2b4719194873fdbfb4caf89172a023d6f5b89a056a3acbffcfa9c97a
   last_checked: '2026-07-20'
   notes: ORS chapter 118 (Chapter 118), 2025 Edition
+- id: ors-chapter-119
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors119.html
+  sha256: 150b41d7bfd25f207d5bc5c1237f92c325090599f57da9fa8362018ddc42f1a4
+  last_checked: '2026-10-17'
+  notes: ORS chapter 119 (Revised Uniform Fiduciary Access to Digital Assets Act), 2025 Edition
 - id: ors-chapter-12
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors012.html
   sha256: 1239b07063e3fda7b96ade1129da894e7a040a212e076980b5e5378f989f7151
@@ -116,6 +131,11 @@ sources:
   sha256: 3e0b28c03b1e4746065ac6dc8d1b0cc4429463ed2d35127c8397e30646e3cd82
   last_checked: '2026-07-20'
   notes: ORS chapter 128 (Chapter 128), 2025 Edition
+- id: ors-chapter-129
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors129.html
+  sha256: 49957fe4d1d53fe633c181762a4967e8f971039f495256f411b4e2f1baaab17e
+  last_checked: '2026-10-17'
+  notes: ORS chapter 129 (Uniform Principal and Income Act), 2025 Edition
 - id: ors-chapter-130
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors130.html
   sha256: e12d6ea2c89ea9b1d745c625c2f7da510c4f2b6c11e588667d3411e045630346
@@ -162,6 +182,11 @@ sources:
   sha256: 207f80441bc5fd2e2a75abb2c631d3312469735d154df907d5095ecbaed377b7
   last_checked: '2026-10-17'
   notes: ORS chapter 14 (Jurisdiction; Venue; Change of Judge), 2025 Edition
+- id: ors-chapter-142
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors142.html
+  sha256: 87b9fadda1ce6c74742bffd31e2d6ece8b541ba17ecadd7d013395d5fcdd3fc8
+  last_checked: '2026-10-17'
+  notes: ORS chapter 142 (Stolen Property), 2025 Edition
 - id: ors-chapter-144
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors144.html
   sha256: d7472e5b0ca49aba1d8d33be59abfb1a22359faaf68f4759ff39792a3515c75a
@@ -1814,6 +1839,11 @@ sources:
   sha256: fec88ead71a60688a2c3a18e8b0b9f3a2d5452834404dc59dc776cbf061778d4
   last_checked: '2026-08-01'
   notes: ORS chapter 549 (Drainage and Flood Control Generally), 2025 Edition
+- id: ors-chapter-55
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors055.html
+  sha256: b5d71c5855755d1f0f306ed7b44e12f6017fcf50cbdcfd423295caf665ca2aff
+  last_checked: '2026-10-17'
+  notes: ORS chapter 55 (Appeals), 2025 Edition
 - id: ors-chapter-552
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors552.html
   sha256: 6bea64ecb2954d50ea65ed1550739e3c990013e39a2e75c3a005bcfd541000c0
@@ -2155,6 +2185,11 @@ sources:
   sha256: d5d7f41406c0c799c87bd23f7ca2f68beb1622b492a7d7715b93e0d896a8cd3b
   last_checked: '2026-07-20'
   notes: ORS chapter 663 (Chapter 663), 2025 Edition
+- id: ors-chapter-67
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors067.html
+  sha256: 4a72bbd938b4fb182294c84d4f11ea5b48c2462d8f905b888b1fa4654642c9d0
+  last_checked: '2026-10-17'
+  notes: ORS chapter 67 (Partnerships; Limited Liability Partnerships), 2025 Edition
 - id: ors-chapter-670
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors670.html
   sha256: 7198b2e1723780a70effe7e4841ad2b88dce2b42df884836f9267b9718eee3b2
@@ -2307,6 +2342,11 @@ sources:
   sha256: aac075808a34d90869d55b387302bb3c1659048685f843f8af3a95e3ecc27a29
   last_checked: '2026-08-01'
   notes: ORS chapter 7 (Records and Files of Courts), 2025 Edition
+- id: ors-chapter-70
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors070.html
+  sha256: 3b76445dee7204e9446f9047d0c38e952fc2ead40efaffb3329c7c8bcf550a4c
+  last_checked: '2026-10-17'
+  notes: ORS chapter 70 (Limited Partnerships), 2025 Edition
 - id: ors-chapter-700
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors700.html
   sha256: d8c2200f54c648b99e4949bff1723968dcdd2b099a70a6ba799fabf20d64406f
@@ -2621,6 +2661,12 @@ sources:
   sha256: 8022c57c96840d1b2a6c258a2ed44bedde53d5e4a45313b522bea7bea7c5ca12
   last_checked: '2026-07-20'
   notes: ORS chapter 809 (Chapter 809), 2025 Edition
+- id: ors-chapter-81
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors081.html
+  sha256: 297a6a2017366c89007537f087ee5dad852b5623acf067ad7779b6649227b093
+  last_checked: '2026-10-17'
+  notes: ORS chapter 81 (Tender and Receipts; Choice of Forum in Contracts; Assignment; Central Filing System for
+    Farm Products), 2025 Edition
 - id: ors-chapter-810
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors810.html
   sha256: df999ee3c6d6b329ef1ec7e88030f167bf05c62da41a8af705571144e992bfda
@@ -2806,3 +2852,8 @@ sources:
   sha256: 161a244a57924cd5f47616763d13cfef5ff56b812e7bcb99ddae631bffca51dd
   last_checked: '2026-07-26'
   notes: ORS chapter 98 (Lost, Unclaimed or Abandoned Property; Vehicle Towing), 2025 Edition
+- id: ors-chapter-99
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors099.html
+  sha256: 3aef07109319b7f363c5dda55ce2545e838f480b567cb5e048f449d8defbe674
+  last_checked: '2026-10-17'
+  notes: ORS chapter 99 (Property Removed by High Water), 2025 Edition

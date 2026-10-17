@@ -1,0 +1,1064 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+119 — Revised Uniform Fiduciary Access to Digital Assets Act 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ ACCESS TO DIGITAL ASSETS 
+
+   
+
+ PROBATE LAW 
+
+   
+
+ DEFINITIONS 
+
+   
+
+ 119.006     Definitions for ORS
+119.006 to 119.081 
+
+   
+
+ DISCLOSURE OF DIGITAL ASSETS 
+
+   
+
+ 119.011     Authority of custodian 
+
+   
+
+ 119.016     Use of online tool to
+direct disclosure 
+
+   
+
+ 119.021     Disclosure of content
+of electronic communications to personal representative 
+
+   
+
+ 119.026     Disclosure of catalog
+of electronic communications to personal representative 
+
+   
+
+ 119.032     Disclosure of content
+of electronic communications to agent designated in power of attorney 
+
+   
+
+ 119.036     Disclosure of catalog
+of electronic communications to agent designated in power of attorney 
+
+   
+
+ 119.042     Disclosure to trustee
+who is original user 
+
+   
+
+ 119.046     Disclosure of content
+of electronic communications to trustee who is not original user 
+
+   
+
+ 119.052     Disclosure of catalog
+of electronic communications to trustee who is not original user 
+
+   
+
+ 119.056     Disclosure to
+conservator; court order 
+
+   
+
+ RIGHTS AND DUTIES OF PARTIES 
+
+   
+
+ 119.062     Duties and authority of
+fiduciary 
+
+   
+
+ 119.066     Requests to disclose
+digital assets or terminate account; custodian’s duty to comply; court order;
+immunity from liability 
+
+   
+
+ 119.071     Rights of custodians,
+users, fiduciaries and designated recipients 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+ 119.076     Uniformity of
+application and construction 
+
+   
+
+ 119.081     Effect on other laws 
+
+   
+
+ 119.086     Short title 
+
+   
+
+       119.005 [1959 c.419 §§3,4; 1969 c.520 §§24,
+24a; 1973 c.344 §2; 1977 c.666 §17; repealed by 1997 c.99 §54] 
+
+   
+
+ DEFINITIONS 
+
+   
+
+       119.006 Definitions
+for ORS 119.006 to 119.081. 
+As used in ORS 119.006 to 119.081: 
+
+       (1) “Account”
+means an arrangement under a terms-of-service agreement in which a custodian
+carries, maintains, processes, receives or stores a digital asset of the user
+or provides goods or services to the user. 
+
+       (2) “Agent” means
+a person designated as an agent under a power of attorney in accordance with
+ORS 127.005 to 127.045. 
+
+       (3) “Carries”
+means engages in the transmission of an electronic communication. 
+
+       (4) “Catalog of
+electronic communications” means information that identifies each person with
+which a user has had an electronic communication, the time and date of the
+communication and the electronic address of the person. 
+
+       (5) “Conservator”
+has the meaning given that term in ORS 125.005. 
+
+       (6) “Content of
+an electronic communication” means information concerning the substance or
+meaning of the communication that: 
+
+       (a) Has been sent
+or received by a user; 
+
+       (b) Is in
+electronic storage by a custodian providing an electronic communication service
+to the public or is carried or maintained by a custodian providing a remote
+computing service to the public; and 
+
+       (c) Is not
+readily accessible to the public. 
+
+       (7) “Court” means
+a circuit court in this state. 
+
+       (8) “Custodian”
+means a person that carries, maintains, processes, receives or stores a digital
+asset of a user. 
+
+       (9) “Designated
+recipient” means a person chosen by a user using an online tool to administer
+digital assets of the user. 
+
+       (10) “Digital
+asset” means an electronic record in which an individual has a right or
+interest. “Digital asset” does not include an underlying asset or liability
+unless the asset or liability is itself an electronic record. 
+
+       (11) “Electronic”
+means relating to technology having electrical, digital, magnetic, wireless,
+optical, electromagnetic or similar capabilities. 
+
+       (12) “Electronic
+communication” has the meaning set forth in 18 U.S.C. 2510(12). 
+
+       (13) “Electronic
+communication service” means a custodian that provides to a user the ability to
+send or receive an electronic communication. 
+
+       (14) “Fiduciary”
+means a person that is an original, additional or successor personal
+representative, conservator, agent or trustee. 
+
+       (15) “Information”
+means data, text, images, videos, sounds, codes, computer programs, software,
+databases and similar intelligence of any nature. 
+
+       (16) “Online tool”
+means an electronic service provided by a custodian that allows the user, in an
+agreement distinct from the terms-of-service agreement between the custodian
+and the user, to provide directions for disclosure or nondisclosure of digital
+assets to a third person. 
+
+       (17) “Person”
+means an individual, estate, business or nonprofit entity, public corporation,
+government or governmental subdivision, agency or instrumentality or other
+legal entity. 
+
+       (18) “Personal
+representative” means an executor, administrator or special administrator, or a
+person legally authorized to perform substantially the same functions. 
+
+       (19) “Power of
+attorney” means a record that grants an agent authority to act in the place of
+a principal. 
+
+       (20) “Principal”
+means an individual who grants authority to an agent in a power of attorney. 
+
+       (21) “Protected
+person” means an individual for whom a conservator has been appointed. “Protected
+person” includes an individual for whom an application for the appointment of a
+conservator is pending. 
+
+       (22) “Record”
+means information that is inscribed on a tangible medium or that is stored in
+an electronic or other medium and is retrievable in perceivable form. 
+
+       (23) “Remote
+computing service” means a custodian that provides to a user computer
+processing services or the storage of digital assets by means of an electronic
+communications system as defined in 18 U.S.C. 2510(14). 
+
+       (24) “Terms-of-service
+agreement” means an agreement that controls the relationship between a user and
+a custodian. 
+
+       (25) “Trustee”
+means a fiduciary with legal title to property under an agreement or
+declaration that creates a beneficial interest in another person. “Trustee”
+includes a successor trustee. 
+
+       (26) “User” means
+a person that has an account with a custodian. 
+
+       (27) “Will”
+includes a codicil, testamentary instrument that only appoints an executor and
+instrument that revokes or revises a testamentary instrument. [2016 c.19 §2] 
+
+   
+
+       119.010 [Amended by 1961 c.456 §1; 1977
+c.666 §18; repealed by 1997 c.99 §54] 
+
+   
+
+ DISCLOSURE OF DIGITAL
+ASSETS 
+
+   
+
+       119.011
+Authority of custodian. 
+(1) When disclosing digital assets of a user under ORS 119.006 to 119.081, the
+custodian may, in the custodian’s sole discretion: 
+
+       (a) Grant a
+fiduciary or designated recipient full access to the user’s account; 
+
+       (b) Grant a
+fiduciary or designated recipient partial access to the user’s account
+sufficient to perform the tasks with which the fiduciary or designated
+recipient is charged; or 
+
+       (c) Provide a
+fiduciary or designated recipient a copy in a record of any digital asset that,
+on the date the custodian received the request for disclosure, the user could
+have accessed if the user were alive and had full capacity and access to the
+account. 
+
+       (2) A custodian
+may assess a reasonable administrative charge for the cost of disclosing
+digital assets under ORS 119.006 to 119.081. 
+
+       (3) A custodian
+need not disclose under ORS 119.006 to 119.081 a digital asset deleted by a
+user. 
+
+       (4) If a user
+directs, or a fiduciary requests, a custodian to disclose some, but not all, of
+the user’s digital assets under ORS 119.006 to 119.081, the custodian need not
+disclose the digital assets if segregation of the digital assets would impose
+an undue burden on the custodian. If the custodian believes the direction or
+request imposes an undue burden, the custodian or fiduciary may seek an order
+from the court to disclose: 
+
+       (a) A subset
+limited by date of the user’s digital assets; 
+
+       (b) All of the
+user’s digital assets to the fiduciary or designated recipient; 
+
+       (c) None of the
+user’s digital assets; or 
+
+       (d) All of the
+user’s digital assets to the court for review in camera. [2016 c.19 §6] 
+
+   
+
+       119.015 [1977 c.666 §21; 1979 c.448 §1;
+repealed by 1997 c.99 §54] 
+
+   
+
+       119.016 Use of
+online tool to direct disclosure. 
+(1) A user may use an online tool to direct the custodian to disclose to a
+designated recipient or not to disclose some or all of the user’s digital
+assets, including the content of electronic communications. If the online tool
+allows the user to modify or delete a direction at all times, a direction
+regarding disclosure using an online tool overrides a contrary direction by the
+user in a will, trust, power of attorney or other record. 
+
+       (2) If a user has
+not used an online tool to give direction under subsection (1) of this section,
+or if the custodian has not provided an online tool, the user may allow or
+prohibit in a will, trust, power of attorney or other record disclosure to a
+fiduciary of some or all of the user’s digital assets, including the content of
+electronic communications sent or received by the user. 
+
+       (3) A user’s
+direction under subsection (1) or (2) of this section overrides a contrary
+provision in a terms-of-service agreement that does not require the user to act
+affirmatively and distinctly from the user’s assent to the terms of service. [2016
+c.19 §4] 
+
+   
+
+       119.020 [Amended by 1961 c.456 §2; 1973
+c.498 §2; 1977 c.666 §19; 1985 c.761 §2; repealed by 1997 c.99 §54] 
+
+   
+
+       119.021
+Disclosure of content of electronic communications to personal representative. If a deceased user consented to,
+or a court directs, disclosure of the content of electronic communications of
+the user, the custodian shall disclose to the personal representative of the
+estate of the user the content of an electronic communication sent or received
+by the user if the personal representative gives the custodian: 
+
+       (1) A written
+request for disclosure in physical or electronic form; 
+
+       (2) A certified
+copy of the death certificate of the user; 
+
+       (3) A certified
+copy of the letter of appointment of the personal representative or a simple
+estate affidavit or court order; 
+
+       (4) Unless the
+user provided direction using an online tool, a copy of the user’s will, trust,
+power of attorney or other record evidencing the user’s consent to disclosure
+of the content of electronic communications; and 
+
+       (5) If requested
+by the custodian: 
+
+       (a) A number,
+user name, address or other unique subscriber or account identifier assigned by
+the custodian to identify the user’s account; 
+
+       (b) Evidence
+linking the account to the user; or 
+
+       (c) A finding by
+the court that: 
+
+       (A) The user had
+a specific account with the custodian, identifiable by the information
+specified in paragraph (a) of this subsection; 
+
+       (B) Disclosure of
+the content of electronic communications of the user would not violate 18
+U.S.C. 2701 et seq., 47 U.S.C. 222 or other applicable law; 
+
+       (C) Unless the
+user provided direction using an online tool, the user consented to disclosure
+of the content of electronic communications; or 
+
+       (D) Disclosure of
+the content of electronic communications of the user is reasonably necessary
+for administration of the estate. [2016 c.19 §7; 2023 c.17 §20] 
+
+   
+
+       119.022 [1977 c.666 §21b; 1985 c.761 §3;
+repealed by 1997 c.99 §54] 
+
+   
+
+       119.025 [1959 c.419 §2; repealed by 1981
+c.705 §8] 
+
+   
+
+       119.026
+Disclosure of catalog of electronic communications to personal representative. Unless the user prohibited
+disclosure of digital assets or the court directs otherwise, a custodian shall
+disclose to the personal representative of the estate of a deceased user a
+catalog of electronic communications sent or received by the user and digital
+assets, other than the content of electronic communications, of the user if the
+personal representative gives the custodian: 
+
+       (1) A written
+request for disclosure in physical or electronic form; 
+
+       (2) A certified
+copy of the death certificate of the user; 
+
+       (3) A certified
+copy of the letter of appointment of the personal representative or a simple
+estate affidavit or court order; and 
+
+       (4) If requested
+by the custodian: 
+
+       (a) A number,
+user name, address or other unique subscriber or account identifier assigned by
+the custodian to identify the user’s account; 
+
+       (b) Evidence
+linking the account to the user; 
+
+       (c) An affidavit
+stating that disclosure of the user’s digital assets is reasonably necessary
+for administration of the estate; or 
+
+       (d) A finding by
+the court that: 
+
+       (A) The user had
+a specific account with the custodian, identifiable by the information
+specified in paragraph (a) of this subsection; or 
+
+       (B) Disclosure of
+the user’s digital assets is reasonably necessary for administration of the
+estate. [2016 c.19 §8; 2023 c.17 §21] 
+
+   
+
+       119.030 [Repealed by 1959 c.419 §13] 
+
+   
+
+       119.031 [1959 c.419 §5; 1965 c.357 §1;
+1971 c.525 §1; 1977 c.666 §22; repealed by 1997 c.99 §54] 
+
+   
+
+       119.032
+Disclosure of content of electronic communications to agent designated in power
+of attorney. To
+the extent a power of attorney expressly grants an agent authority over the
+content of electronic communications sent or received by the principal and
+unless directed otherwise by the principal or the court, a custodian shall
+disclose to the agent the content if the agent gives the custodian: 
+
+       (1) A written
+request for disclosure in physical or electronic form; 
+
+       (2) An original
+or copy of the power of attorney expressly granting the agent authority over
+the content of electronic communications of the principal; 
+
+       (3) A
+certification by the agent, under penalty of perjury, that the power of
+attorney is in effect; and 
+
+       (4) If requested
+by the custodian: 
+
+       (a) A number,
+user name, address or other unique subscriber or account identifier assigned by
+the custodian to identify the principal’s account; or 
+
+       (b) Evidence
+linking the account to the principal. [2016 c.19 §9] 
+
+   
+
+       119.035 [1959 c.419 §6; 1961 c.456 §3;
+1971 c.653 §1; 1973 c.793 §2; 1977 c.666 §23; 1987 c.293 §68; repealed by 1997
+c.99 §54] 
+
+   
+
+       119.036
+Disclosure of catalog of electronic communications to agent designated in power
+of attorney. 
+Unless otherwise ordered by the court, directed by the principal or provided in
+a power of attorney, a custodian shall disclose to an agent with specific
+authority over digital assets or general authority to act on behalf of a
+principal a catalog of electronic communications sent or received by the
+principal and digital assets, other than the content of electronic
+communications, of the principal if the agent gives the custodian: 
+
+       (1) A written
+request for disclosure in physical or electronic form; 
+
+       (2) An original
+or a copy of the power of attorney that gives the agent specific authority over
+digital assets or general authority to act on behalf of the principal; 
+
+       (3) A
+certification by the agent, under penalty of perjury, that the power of
+attorney is in effect; and 
+
+       (4) If requested
+by the custodian: 
+
+       (a) A number,
+user name, address or other unique subscriber or account identifier assigned by
+the custodian to identify the principal’s account; or 
+
+       (b) Evidence
+linking the account to the principal. [2016 c.19 §10] 
+
+   
+
+       119.037 [1975 c.177 §3; 1979 c.190 §399;
+repealed by 1997 c.99 §54] 
+
+   
+
+       119.040 [Repealed by 1959 c.419 §13] 
+
+   
+
+       119.041 [1959 c.419 §7; 1977 c.666 §24;
+repealed by 1997 c.99 §54] 
+
+   
+
+       119.042
+Disclosure to trustee who is original user. Unless otherwise ordered by the court or provided in
+a trust, a custodian shall disclose to a trustee that is an original user of an
+account any digital asset of the account held in trust, including a catalog of
+electronic communications of the trustee and the content of electronic
+communications. [2016 c.19 §11] 
+
+   
+
+       119.045 [1959 c.419 §8; 1961 c.456 §4;
+1977 c.666 §24a; repealed by 1997 c.99 §54] 
+
+   
+
+       119.046
+Disclosure of content of electronic communications to trustee who is not
+original user. 
+Unless otherwise ordered by the court, directed by the user or provided in a
+trust, a custodian shall disclose to a trustee that is not an original user of
+an account the content of an electronic communication sent or received by an
+original or successor user and carried, maintained, processed, received or
+stored by the custodian in the account of the trust if the trustee gives the
+custodian: 
+
+       (1) A written
+request for disclosure in physical or electronic form; 
+
+       (2) A certified
+copy of the trust instrument or a certification of the trust under ORS 130.860
+that includes consent to disclosure of the content of electronic communications
+to the trustee; 
+
+       (3) A
+certification by the trustee, under penalty of perjury, that the trust exists
+and the trustee is a currently acting trustee of the trust; and 
+
+       (4) If requested
+by the custodian: 
+
+       (a) A number,
+user name, address or other unique subscriber or account identifier assigned by
+the custodian to identify the trust’s account; or 
+
+       (b) Evidence
+linking the account to the trust. [2016 c.19 §12] 
+
+   
+
+       119.050 [Repealed by 1959 c.419 §13] 
+
+   
+
+       119.051 [1959 c.419 §9; 1977 c.666 §25;
+repealed by 1997 c.99 §54] 
+
+   
+
+       119.052
+Disclosure of catalog of electronic communications to trustee who is not
+original user. 
+Unless otherwise ordered by the court, directed by the user or provided in a
+trust, a custodian shall disclose to a trustee that is not an original user of
+an account a catalog of electronic communications sent or received by an
+original or successor user and stored, carried or maintained by the custodian
+in an account of the trust and any digital assets, other than the content of
+electronic communications, in which the trust has a right or interest if the
+trustee gives the custodian: 
+
+       (1) A written
+request for disclosure in physical or electronic form; 
+
+       (2) A certified
+copy of the trust instrument or a certification of the trust under ORS 130.860; 
+
+       (3) A
+certification by the trustee, under penalty of perjury, that the trust exists
+and the trustee is a currently acting trustee of the trust; and 
+
+       (4) If requested
+by the custodian: 
+
+       (a) A number,
+user name, address or other unique subscriber or account identifier assigned by
+the custodian to identify the trust’s account; or 
+
+       (b) Evidence
+linking the account to the trust. [2016 c.19 §13] 
+
+   
+
+       119.055 [1959 c.419 §10; repealed by 1977
+c.666 §36] 
+
+   
+
+       119.056
+Disclosure to conservator; court order. (1) After an opportunity for a hearing, the court may
+grant a conservator access to the digital assets of a protected person. 
+
+       (2) Unless
+otherwise ordered by the court or directed by the user, a custodian shall
+disclose to the conservator the catalog of electronic communications sent or
+received by a protected person and any digital assets, other than the content
+of electronic communications, in which the protected person has a right or
+interest if the conservator gives the custodian: 
+
+       (a) A written
+request for disclosure in physical or electronic form; 
+
+       (b) A certified
+copy of the court order that gives the conservator authority over the digital
+assets of the protected person; and 
+
+       (c) If requested
+by the custodian: 
+
+       (A) A number,
+user name, address or other unique subscriber or account identifier assigned by
+the custodian to identify the account of the protected person; or 
+
+       (B) Evidence
+linking the account to the protected person. 
+
+       (3) A conservator
+with general authority to manage the assets of a protected person may request a
+custodian of the digital assets of the protected person to suspend or terminate
+the account of the protected person for good cause. A request made under this
+subsection must be accompanied by a certified copy of the court order giving
+the conservator authority over the protected person’s property. [2016 c.19 §14] 
+
+   
+
+       119.060 [Amended by 1957 c.158 §1;
+repealed by 1959 c.419 §13] 
+
+   
+
+       119.061 [1959 c.419 §11; 1973 c.703 §4;
+repealed by 1977 c.666 §36] 
+
+   
+
+ RIGHTS AND DUTIES OF
+PARTIES 
+
+   
+
+       119.062 Duties
+and authority of fiduciary. 
+(1) The legal duties imposed on a fiduciary charged with managing tangible
+property apply to the management of digital assets, including: 
+
+       (a) The duty of
+care; 
+
+       (b) The duty of
+loyalty; and 
+
+       (c) The duty of
+confidentiality. 
+
+       (2) A fiduciary’s
+or designated recipient’s authority with respect to a digital asset of a user: 
+
+       (a) Except as
+otherwise provided in ORS 119.016, is subject to the applicable terms of
+service; 
+
+       (b) Is subject to
+other applicable law, including copyright law; 
+
+       (c) In the case
+of a fiduciary, is limited by the scope of the fiduciary’s duties; and 
+
+       (d) May not be
+used to impersonate the user. 
+
+       (3) A fiduciary
+with authority over the property of a decedent, protected person, principal or
+settlor has the right to access any digital asset in which the decedent,
+protected person, principal or settlor has a right or interest and that is not
+held by a custodian or subject to a terms-of-service agreement. 
+
+       (4) A fiduciary
+acting within the scope of the fiduciary’s duties is an authorized user of the
+property of the decedent, protected person, principal or settlor for the
+purpose of applicable computer fraud and unauthorized computer access laws,
+including this state’s laws on unauthorized computer access. 
+
+       (5) A fiduciary
+with authority over the tangible, personal property of a decedent, protected
+person, principal or settlor: 
+
+       (a) Has the right
+to access the property and any digital asset stored in the property; and 
+
+       (b) Is an
+authorized user for the purpose of computer fraud and unauthorized computer
+access laws, including this state’s laws on unauthorized computer access. 
+
+       (6) A custodian
+may disclose information in an account to a fiduciary of the user when the
+information is required to terminate an account used to access digital assets
+licensed to the user. 
+
+       (7) A fiduciary
+of a user may request a custodian to terminate the user’s account. A request
+for termination must be in writing, in either physical or electronic form, and
+accompanied by: 
+
+       (a) If the user
+is deceased, a certified copy of the death certificate of the user; 
+
+       (b) A certified
+copy of the letter of appointment of the personal representative, a simple
+estate affidavit or court order, a court order, a power of attorney or a trust
+giving the fiduciary authority over the account; and 
+
+       (c) If requested
+by the custodian: 
+
+       (A) A number,
+user name, address or other unique subscriber or account identifier assigned by
+the custodian to identify the user’s account; 
+
+       (B) Evidence
+linking the account to the user; or 
+
+       (C) A finding by
+the court that the user had a specific account with the custodian, identifiable
+by the information specified in subparagraph (A) of this paragraph. [2016 c.19 §15;
+2023 c.17 §22] 
+
+   
+
+       119.065 [1959 c.419 §12; 1969 c.110 §1;
+1977 c.666 §26; 1987 c.646 §7; repealed by 1997 c.99 §54] 
+
+   
+
+       119.066
+Requests to disclose digital assets or terminate account; custodian’s duty to
+comply; court order; immunity from liability. (1) Not later than 60 days after receipt of the
+information required under ORS 119.021 to 119.062, a custodian shall comply
+with a request from a fiduciary or designated recipient to disclose digital
+assets or terminate an account. If the custodian fails to comply, the fiduciary
+or designated recipient may apply to the court for an order directing
+compliance. 
+
+       (2) An order
+under subsection (1) of this section directing compliance must contain a
+finding that compliance is not in violation of 18 U.S.C. 2702. 
+
+       (3) A custodian
+may notify the user that a request for disclosure or to terminate an account
+was made under ORS 119.006 to 119.081. 
+
+       (4) A custodian
+may deny a request under ORS 119.006 to 119.081 from a fiduciary or designated
+recipient for disclosure of digital assets or to terminate an account if the
+custodian is aware of any lawful access to the account following the receipt of
+the fiduciary’s request. 
+
+       (5) ORS 119.006
+to 119.081 do not limit a custodian’s ability to obtain or require a fiduciary
+or designated recipient requesting disclosure or termination to obtain a court
+order that: 
+
+       (a) Specifies
+that an account belongs to the protected person or principal; 
+
+       (b) Specifies
+that there is sufficient consent from the protected person or principal to
+support the requested disclosure; and 
+
+       (c) Contains a
+finding required by law other than under ORS 119.006 to 119.081. 
+
+       (6) A custodian
+and the custodian’s officers, employees and agents are immune from liability
+for an act or omission done in good faith in compliance with ORS 119.006 to
+119.081. [2016 c.19 §16] 
+
+   
+
+       119.070 [Amended by 1973 c.254 §10;
+repealed by 1997 c.99 §54] 
+
+   
+
+       119.071 Rights
+of custodians, users, fiduciaries and designated recipients. (1) ORS 119.006 to 119.081 do not
+change or impair a right of a custodian or a user under a terms-of-service
+agreement to access and use digital assets of the user. 
+
+       (2) ORS 119.006
+to 119.081 do not give a fiduciary or a designated recipient any new or
+expanded rights other than those held by the user for whom, or for whose
+estate, the fiduciary or designated recipient acts or represents. 
+
+       (3) A fiduciary’s
+or designated recipient’s access to digital assets may be modified or
+eliminated by a user, by federal law or by a terms-of-service agreement if the
+user has not provided direction under ORS 119.016. [2016 c.19 §5] 
+
+   
+
+ GENERAL PROVISIONS 
+
+   
+
+       119.076
+Uniformity of application and construction. In applying and construing this uniform act,
+consideration must be given to the need to promote uniformity of the law with
+respect to its subject matter among the enacting states. [2016 c.19 §17] 
+
+   
+
+       119.080 [Amended by 1959 c.75 §1; 1975
+c.593 §5; 1977 c.666 §27; 1982 s.s.1 c.16 §4; repealed by 1997 c.99 §54] 
+
+   
+
+       119.081 Effect
+on other laws. ORS
+119.006 to 119.081 modify, limit or supersede the Electronic Signatures in
+Global and National Commerce Act, 15 U.S.C. 7001 et seq., but do not modify,
+limit or supersede 15 U.S.C. 7001(c) or authorize electronic delivery of any of
+the notices described in 15 U.S.C. 7003(b). [2016 c.19 §18] 
+
+   
+
+       119.086 Short
+title. ORS 119.006
+to 119.081 may be cited as the Revised Uniform Fiduciary Access to Digital
+Assets Act (2015). [2016 c.19 §1] 
+
+   
+
+       119.100 [1959 c.285 §2; 1963 c.67 §1; 1975
+c.593 §6; 1975 c.762 §14; repealed by 1977 c.666 §36] 
+
+   
+
+       119.110 [Amended by 1959 c.273 §6;
+repealed by 1997 c.99 §54] 
+
+   
+
+       119.120 [Amended by 1957 c.159 §1; 1961
+c.456 §5; 1971 c.653 §2; 1973 c.254 §11; 1977 c.666 §28; repealed by 1997 c.99 §54] 
+
+   
+
+       119.130 [Amended by 1973 c.254 §18; 1975
+c.593 §7; repealed by 1977 c.666 §36] 
+
+   
+
+       119.140 [Amended by 1961 c.456 §6; 1973
+c.254 §19; 1975 c.593 §8; repealed by 1977 c. 666 §36] 
+
+   
+
+       119.150 [Amended by 1971 c.567 §11; 1977
+c.666 §29; 1977 c.870 §27; 1985 c.85 §7; 1995 c.650 §52; repealed by 1997 c.99 §54] 
+
+   
+
+       119.160 [1959 c.198 §2; repealed by 1997
+c.99 §54] 
+
+   
+
+       119.210 [Amended by 1973 c.254 §12; 1975
+c.762 §15; repealed by 1977 c.870 §18 (119.211 enacted in lieu of 119.210)] 
+
+   
+
+       119.211 [1977 c.870 §19 (enacted in lieu
+of 119.210); 1995 c.650 §51; repealed by 1997 c.99 §54] 
+
+   
+
+       119.220 [Amended by 1959 c.306 §1; 1973
+c.254 §13; 1977 c.666 §30; 1977 c.870 §28; 1985 c.85 §8; 1987 c.758 §6;
+repealed by 1997 c.99 §54] 
+
+   
+
+       119.230 [Repealed by 1975 c.762 §19] 
+
+   
+
+       119.240 [Repealed by 1977 c.870 §59] 
+
+   
+
+       119.250 [Amended by 1973 c.254 §14;
+repealed by 1975 c.762 §19] 
+
+   
+
+       119.260 [Repealed by 1975 c.762 §19] 
+
+   
+
+       119.270 [Amended by 1971 c.567 §12; 1973
+c.254 §15; 1975 c.762 §16; repealed by 1977 c.666 §36 and 1977 c.870 §59] 
+
+   
+
+       119.280 [Amended by 1971 c.567 §13;
+repealed by 1985 c.85 §13] 
+
+   
+
+       119.290 [Amended by 1975 c.593 §9;
+repealed by 1997 c.99 §54] 
+
+   
+
+       119.300 [Amended by 1973 c.254 §16; 1975
+c.593 §10; repealed by 1977 c.666 §36] 
+
+   
+
+       119.310 [Amended by 1991 c.331 §35;
+repealed by 1997 c.99 §54] 
+
+   
+
+       119.320 [Amended by 1973 c.254 §20; 1975
+c.593 §11; repealed by 1977 c.666 §36] 
+
+   
+
+       119.330 [Amended by 1973 c.254 §17; 1975
+c.593 §12; repealed by 1977 c.666 §36] 
+
+   
+
+       119.340 [Repealed by 1997 c.99 §54] 
+
+   
+
+       119.350 [Repealed by 1997 c.99 §54] 
+
+   
+
+       119.360 [Amended by 1977 c.666 §31; 1977
+c.870 §28a; 1985 c.85 §9; repealed by 1997 c.99 §54] 
+
+   
+
+       119.370 [Amended by 1987 c.758 §10;
+repealed by 1997 c.99 §54] 
+
+   
+
+       119.380 [Repealed by 1997 c.99 §54] 
+
+   
+
+       119.510 [Repealed by 1981 c.705 §8] 
+
+   
+
+       119.515 [1979 c.690 §7; 1983 c.633 §2;
+1987 c.158 §18a; repealed by 1997 c.99 §54] 
+
+   
+
+       119.520 [Repealed by 1959 c.273 §8] 
+
+   
+
+       119.525 [1979 c.516 §5; repealed by 1997
+c.99 §54] 
+
+   
+
+       119.990 [Amended by 1953 c.703 §1;
+subsection (4) enacted as 1969 c.209 §1; 1975 c.762 §17; 1979 c.690 §8; 1981
+c.724 §7; repealed by 1997 c.99 §54] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

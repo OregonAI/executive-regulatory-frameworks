@@ -17,17 +17,21 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 109 | Parent and Child Rights and Relationships | 202 | 201 |
 | 110 | Uniform Interstate Family Support Act | 77 | 75 |
 | 111 | General Provisions | 21 | 21 |
+| 112 | Intestate Succession and Wills | 80 | 80 |
 | 113 | Initiation of Estate Proceedings | 32 | 32 |
 | 114 | Administration of Estates Generally | 76 | 73 |
 | 115 | Claims; Actions and Suits | 33 | 33 |
 | 116 | Accounting, Distribution and Closing | 37 | 37 |
+| 117 | Estates of Absentees | 10 | 10 |
 | 118 | Estate Tax | 32 | 32 |
+| 119 | Revised Uniform Fiduciary Access to Digital Assets Act | 17 | 17 |
 | 12 | Limitations of Actions and Suits | 49 | 49 |
 | 124 | Abuse Prevention and Reporting; Civil Action for Abuse | 37 | 37 |
 | 125 | Protective Proceedings | 118 | 117 |
 | 126 | Property Held for the Benefit of Minors; Uniform Transfers to Minors Act | 30 | 30 |
 | 127 | Powers of Attorney; Advance Directives for Health Care; Physician Orders for Life-Sustaining Treatment Registry; Nonopioid Directives; Declarations for Mental H | 86 | 66 |
 | 128 | Trusts; Charitable Activities | 74 | 74 |
+| 129 | Uniform Principal and Income Act | 33 | 33 |
 | 130 | Uniform Trust Code | 136 | 135 |
 | 131 | Preliminary Provisions; Limitations; Jurisdiction; Venue; Criminal Forfeiture; Crime Prevention | 91 | 90 |
 | 132 | Grand Jury, Indictments and Other Accusatory Instruments | 37 | 37 |
@@ -37,6 +41,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 137 | Judgment and Execution; Parole and Probation by the Court | 176 | 176 |
 | 138 | Appeals; Post-Conviction Relief | 64 | 64 |
 | 14 | Jurisdiction; Venue; Change of Judge | 16 | 16 |
+| 142 | Stolen Property | 7 | 7 |
 | 144 | Parole; Post-Prison Supervision; Work Release; Executive Clemency; Standards for Prison Terms and Parole; Presentence Reports | 121 | 120 |
 | 146 | Investigations of Deaths, Injuries and Missing Persons | 40 | 40 |
 | 147 | Victims of Crime and Acts of Mass Destruction | 94 | 94 |
@@ -381,6 +386,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 547 | Drainage Districts | 96 | 95 |
 | 548 | Provisions Applicable Both to Drainage Districts and to Irrigation | 46 | 46 |
 | 549 | Drainage and Flood Control Generally | 39 | 39 |
+| 55 | Appeals | 27 | 27 |
 | 552 | Water Improvement Districts | 46 | 46 |
 | 553 | Water Control Districts | 58 | 58 |
 | 554 | Corporations for Irrigation, Drainage, Water Supply or Flood Control | 69 | 69 |
@@ -451,6 +457,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 660 | Apprenticeship and Training; Workforce Development; Volunteerism | 87 | 86 |
 | 662 | Labor Disputes | 28 | 28 |
 | 663 | Labor Relations Generally | 50 | 50 |
+| 67 | Partnerships; Limited Liability Partnerships | 86 | 84 |
 | 670 | Occupations and Professions Generally | 27 | 27 |
 | 671 | Architects; Landscape Professions and Business | 98 | 98 |
 | 672 | Professional Engineers; Land Surveyors; Photogrammetrists; Geologists | 60 | 59 |
@@ -483,6 +490,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 697 | Collection Agencies; Check-Cashing Businesses; Debt Management Service Providers | 57 | 57 |
 | 699 | Innkeepers and Hotelkeepers | 9 | 9 |
 | 7 | Records and Files of Courts | 18 | 18 |
+| 70 | Limited Partnerships | 83 | 83 |
 | 700 | Environmental Health Specialists; Waste Water Specialists | 15 | 15 |
 | 701 | Construction Contractors and Contracts | 134 | 132 |
 | 702 | Student Athletes | 21 | 21 |
@@ -548,6 +556,7 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 806 | Financial Responsibility Law | 27 | 27 |
 | 807 | Driving Privileges and Identification Cards | 95 | 95 |
 | 809 | Refusal, Suspension, Cancellation and Revocation of Registration, Title, Driving Privileges and Identification Card; Vehicle Impoundment | 66 | 66 |
+| 81 | Tender and Receipts; Choice of Forum in Contracts; Assignment; Central Filing System for Farm Products | 18 | 18 |
 | 810 | Road Authorities; Courts; Police; Other Enforcement Officials | 69 | 69 |
 | 811 | Rules of the Road for Drivers | 186 | 186 |
 | 813 | Driving Under the Influence of Intoxicants | 80 | 80 |
@@ -585,7 +594,8 @@ section, sliced from the Legislature's chapter HTML (2025 Edition).
 | 96 | Line and Partition Fences | 6 | 6 |
 | 97 | Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gifts | 149 | 149 |
 | 98 | Lost, Unclaimed or Abandoned Property; Vehicle Towing | 97 | 97 |
-| **all** | | **38075** | **37852** |
+| 99 | Property Removed by High Water | 6 | 6 |
+| **all** | | **38442** | **38217** |
 
 Per-section numbers/titles/paths: [`_meta/catalog/ors.yml`](../_meta/catalog/ors.yml).
 Sections marked `not_sliceable` there have no body text in the chapter HTML

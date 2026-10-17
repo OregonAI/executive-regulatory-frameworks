@@ -1,0 +1,87 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: ors-70.510
+title: "Action on plan of conversion"
+doc_type: statute
+citation: "ORS 70.510"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors070.html"
+source_format: html
+retrieved: "2026-10-17"
+source_sha256: "3b76445dee7204e9446f9047d0c38e952fc2ead40efaffb3329c7c8bcf550a4c"
+snapshot_id: ors-chapter-70
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: ""
+verified_by: ""
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-70"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors070.html> (retrieved 2026-10-17, 2025 Edition).
+
+# Action on plan of conversion (ORS 70.510)
+
+## At a glance
+
+ORS 70.510 — Action on plan of conversion. Chapter 70 (Limited Partnerships), 2025 Edition.
+
+## Full text
+
+70.510 Action on plan of conversion.
+
+(1) A plan of conversion shall be approved as follows: (a) In the case of a limited partnership, by all the partners, unless a lesser vote is provided for in the certificate of limited partnership or, in the case of a foreign limited partnership, by the law of the jurisdiction in which the limited partnership is organized. (b) In the case of a business entity other than a limited partnership, as provided by the statutes governing that business entity.
+
+(2) After a plan of conversion is approved, and at any time before articles of conversion are filed, the planned conversion may be abandoned, subject to any contractual rights: (a) By a limited partnership, without further action by the limited partners, in accordance with the procedure set forth in the plan of conversion or, if none is set forth, in the manner determined by the general partners. (b) By a party to the conversion that is not a limited partnership, in accordance with the procedure set forth in the plan of conversion or, if none is set forth, in the manner permitted by the statutes governing that business entity. [1999 c.362 §58] 70.515 Articles and plan of conversion.
+
+(1) After the owners approve a conversion, the converting business entity shall: (a) File articles of conversion that state the name and type of business entity that existed before conversion and the name and type of business entity that will exist after conversion; and (b) File a plan of conversion or, in lieu of a plan of conversion, a written declaration that: (A) Identifies an address for an office of the converted entity where the plan of conversion is on file; and (B) States that the converted entity will provide any owner with a copy of the plan of conversion upon request and at no cost.
+
+(2) The conversion takes effect on the latest of: (a) The time and date on which the articles of conversion are filed; (b) The time and date on which any additional filing requirements imposed pursuant to the statutes that govern the surviving business entity are satisfied; or (c) On the delayed effective date and time set forth in the filings. [1999 c.362 §59; 2001 c.315 §11; 2015 c.28 §10] 70.520 Effect of conversion; assumed business name.
+
+(1) When a conversion to or from a limited partnership pursuant to ORS 70.505 takes effect: (a) The business entity continues its existence despite the conversion; (b) Title to all real estate and other property owned by the converting business entity is vested in the converted business entity without reversion or impairment; (c) All obligations of the converting business entity, including, without limitation, contractual, tort, statutory and administrative obligations, are obligations of the converted business entity; (d) An action or proceeding pending against the converting business entity or its owners may be continued as if the conversion had not occurred, or the converted business entity may be substituted as a party to the action or proceeding; (e) The ownership interests of each owner that are to be converted into ownership interests or obligations of the converted business entity or any other business entity, or into cash or other property, are converted as provided in the plan of conversion; (f) Liability of an owner for obligations of the business entity, including, without limitation, contractual, tort, statutory and administrative obligations, shall be determined: (A) As to obligations incurred prior to conversion, according to the laws applicable prior to conversion, except as provided in paragraph (g) of this subsection; and (B) As to obligations incurred after conversion, according to the laws applicable after conversion, except as provided in paragraph (h) of this subsection; (g) If the converting business entity is a limited partnership or a foreign limited partnership and its obligations incurred before the conversion are not satisfied by the converted business entity, the persons who were general partners of the converting business entity immediately before the effective date of the conversion shall contribute the amount necessary to satisfy the converting business entity’s obligations in the manner provided in ORS 67.315, or in the limited partnership statutes of the jurisdiction in which the entity was formed, as if the converting business entity were dissolved; and (h) If prior to conversion an owner of a business entity was a partner of a partnership or general partner of a limited partnership or foreign limited partnership, and was personally liable for the business entity’s obligations, and after conversion is an owner normally protected from personal liability, then such owner shall continue to be personally liable for the business entity’s obligations incurred during the 12 months following conversion, if the other party or parties to the transaction reasonably believed that the owner would be personally liable and had not received notice of the conversion.
+
+(2) Owners of the business entity that converted are entitled to the rights provided in the plan of conversion and: (a) In the case of a limited partnership, a limited partner who did not vote in favor of the conversion is considered to be a partner who has withdrawn from the limited partnership effective immediately upon the effective date of the conversion unless, within 60 days after the later of the effective date of the conversion or the date the partner receives notice of the conversion, the partner notifies the partnership of the partner’s desire not to withdraw. A withdrawal under this paragraph is not a wrongful withdrawal; and (b) In the case of owners of business entities other than limited partnerships, the rights provided in the statutes applicable to the business entity prior to conversion, including, without limitation, any rights to dissent, to dissociate, to withdraw, to recover for breach of any duty or obligation owed by the other owners, and to obtain an appraisal or payment for the value of an owner’s interest.
+
+(3) Unless the converted business entity is a partnership, the registration of an assumed business name of a business entity under ORS chapter 648 shall continue as the assumed business name of the converted business entity. If the converted business entity is a partnership, the converting business entity shall amend or cancel the registration of the assumed business name under ORS chapter 648, and the partners of the partnership shall register the name as an assumed business name under ORS chapter 648. [1999 c.362 §60; 2001 c.315 §6] 70.525 Merger.
+
+(1) One or more business entities may merge into a limited partnership organized under this chapter if the merger is permitted by the statutes governing each other business entity that is a party to the merger, a plan of merger is approved by each business entity that is a party to the merger and articles of merger are filed. A limited partnership organized under this chapter may be merged into a business entity organized under the laws of this state or under the laws of another jurisdiction if: (a) The merger is permitted by the laws of this state or by the laws of the other jurisdiction that govern the other business entity; (b) A plan of merger is approved by each business entity that is a party to the merger; (c) Articles of merger are filed in this state; and (d) The limited partnership complies with all requirements imposed under the laws of this state and, if applicable, the laws of the other jurisdiction with respect to the merger.
+
+(2) The plan of merger shall set forth: (a) The name and type of each business entity planning to merge; (b) The name and type of the business entity that will survive; (c) A summary of the material terms and conditions of the merger; (d) The manner and basis of converting the ownership interests of each owner into ownership interests or obligations of the surviving business entity or any other business entity, or into cash or other property in whole or in part, and the status of each owner; and (e) If any party is a business entity other than a limited partnership, any additional information required for a merger by the statutes governing that business entity.
+
+(3) The plan of merger may set forth: (a) Amendments to the certificate of limited partnership, if a limited partnership is the surviving business entity; and (b) Other provisions relating to the merger. [1999 c.362 §61; 2001 c.315 §21; 2003 c.80 §25] 70.530 Action on plan of merger.
+
+(1) A plan of merger shall be approved by each business entity that is a party to the merger, as follows: (a) In the case of a limited partnership, by all the partners, unless a lesser vote is provided for in the certificate of limited partnership or, in the case of a foreign limited partnership, by the law of the jurisdiction in which the limited partnership is formed. (b) In the case of a business entity other than a limited partnership, as provided by the statutes governing that business entity.
+
+(2) After a merger is authorized, and at any time before articles of merger are filed, the planned merger may be abandoned, subject to any contractual rights: (a) By the limited partnership, without further action by the limited partners, in accordance with the procedure set forth in the plan of merger or, if none is set forth, in the manner determined by the general partners. (b) By a party to the merger that is not a limited partnership, in accordance with the procedure set forth in the plan of merger or, if none is set forth, in the manner permitted by the statutes governing that business entity. [1999 c.362 §62] 70.535 Articles and plan of merger.
+
+(1) After each business entity that is a party to a merger has approved a plan of merger, the surviving business entity shall deliver to the Office of Secretary of State for filing: (a) Articles of merger that set forth the name and type of each business entity that intends to merge and the name and type of the business entity that will survive the merger; (b) A plan of merger or, in lieu of a plan of merger, a written declaration that: (A) Identifies an address for an office of the surviving entity where the plan of merger is on file; and (B) States that the surviving entity will provide any owner of any constituent entity with a copy of the plan of merger upon request and at no cost; and (c) A written declaration that states that any party that was a limited partnership approved the plan of merger in accordance with ORS 70.525 and any party that was another business entity approved the plan of merger in accordance with the statutes that govern the other business entity.
+
+(2) The merger takes effect on the latest of: (a) The time and date on which the articles of merger are filed; (b) The time and date on which all documents required to be filed by the statute that governs any party to the merger that is a business entity other than a limited partnership are filed; or (c) Any later effective date specified in the articles of merger. [1999 c.362 §63; 2001 c.104 §22; 2015 c.28 §11] 70.540 Effect of merger.
+
+(1) When a merger involving a limited partnership takes effect: (a) Every other business entity that is a party to the merger merges into the surviving business entity, and the separate existence of every other party ceases; (b) The title to all real estate and other property owned by each of the business entities that were parties to the merger is vested in the surviving business entity without reversion or impairment; (c) All obligations of each of the business entities that were parties to the merger, including, without limitation, contractual, tort, statutory and administrative obligations, are obligations of the surviving business entity; (d) An action or proceeding pending against each of the business entities or its owners that were parties to the merger may be continued as if the merger had not occurred, or the surviving business entity may be substituted as a party to the action or proceeding; (e) If a limited partnership is the surviving business entity, its certificate of limited partnership is amended to the extent provided in the plan of merger; (f) The shares or other ownership interests of each partner or other owner that are to be converted into shares or other ownership interests or obligations of the surviving business entity or any other business entity, or into cash or other property, are converted as provided in the plan of merger; (g) Liability of an owner for obligations of a business entity, including, without limitation, contractual, tort, statutory and administrative obligations, shall be determined: (A) As to obligations incurred prior to merger, according to the laws applicable prior to merger, except as provided in paragraph (h) of this subsection; and (B) As to obligations incurred after merger, according to the laws applicable after merger, except as provided in paragraph (i) of this subsection; (h) If a party to the merger is a limited partnership or a foreign limited partnership, and its obligations incurred before the merger are not satisfied by the surviving business entity, the persons who were general partners of the merging business entity immediately before the effective date of the merger shall contribute the amount necessary to satisfy the merging business entity’s obligation to the surviving business entity in the manner provided in ORS 67.315, or in the limited partnership statutes of the jurisdiction in which the entity was formed, as if the merged party were dissolved; (i) If prior to merger an owner of a business entity was a general partner of a limited partnership or a foreign limited partnership, and after merger is an owner normally protected from personal liability, then such owner shall continue to be personally liable for the business entity’s obligations incurred during the 12 months following merger, if the other party or parties to the transaction reasonably believed that the owner would be personally liable and had not received notice of the merger; and (j) The registration of an assumed business name of a business entity under ORS chapter 648 shall continue as the assumed business name of the surviving business entity.
+
+(2) Owners of the business entity that merged are entitled to the rights provided in the plan of merger and: (a) Any limited partner who did not vote in favor of the merger is deemed to have withdrawn from the limited partnership effective immediately before the merger unless, within 60 days after the later of the effective date of the merger or the date the partner receives notice of the merger, the partner notifies the limited partnership of the partner’s desire not to withdraw. A withdrawal under this paragraph is not a wrongful withdrawal; and (b) In the case of owners of business entities other than limited partnerships, the rights provided in the statutes applicable to the business entity prior to merger, including, without limitation, any rights to dissent, to dissociate, to withdraw, to recover for breach of any duty or obligation owed by the other owners, and to obtain an appraisal or payment for the value of an owner’s interest. [1999 c.362 §64]
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors070.html> · retrieved 2026-10-17 · sha256 `3b76445dee7204e9446f9047d0c38e952fc2ead40efaffb3329c7c8bcf550a4c`
+  (chapter snapshot `_meta/snapshots/ors-chapter-70.html`)
+- See [CHANGELOG](./CHANGELOG.md).

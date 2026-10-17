@@ -4005,6 +4005,330 @@ chapters:
     title: Limited judgments
     status: ingested
     path: statutes/ors-111.275.md
+- chapter: '112'
+  title: Intestate Succession and Wills
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors112.html
+  sections:
+  - number: '112.015'
+    title: Net intestate estate; effect of exclusion by will
+    status: ingested
+    path: statutes/ors-112.015.md
+  - number: '112.025'
+    title: Share of surviving spouse if decedent leaves descendants
+    status: ingested
+    path: statutes/ors-112.025.md
+  - number: '112.035'
+    title: Share of surviving spouse if decedent leaves no descendant
+    status: ingested
+    path: statutes/ors-112.035.md
+  - number: '112.045'
+    title: Share of others than surviving spouse
+    status: ingested
+    path: statutes/ors-112.045.md
+  - number: '112.047'
+    title: Forfeiture of parent’s share by reason of termination of parental rights or desertion or neglect
+    status: ingested
+    path: statutes/ors-112.047.md
+  - number: '112.049'
+    title: Petition for forfeiture of parent’s share
+    status: ingested
+    path: statutes/ors-112.049.md
+  - number: '112.055'
+    title: Escheat
+    status: ingested
+    path: statutes/ors-112.055.md
+  - number: '112.058'
+    title: Preferences and presumptions in escheat proceedings
+    status: ingested
+    path: statutes/ors-112.058.md
+  - number: '112.065'
+    title: Passage by representation
+    status: ingested
+    path: statutes/ors-112.065.md
+  - number: '112.077'
+    title: Time of determining relationships; application to different circumstances of conception
+    status: ingested
+    path: statutes/ors-112.077.md
+  - number: '112.095'
+    title: Persons of the half blood
+    status: ingested
+    path: statutes/ors-112.095.md
+  - number: '112.105'
+    title: Succession where parents not married
+    status: ingested
+    path: statutes/ors-112.105.md
+  - number: '112.115'
+    title: Persons related to decedent through two lines
+    status: ingested
+    path: statutes/ors-112.115.md
+  - number: '112.135'
+    title: When gift is an advancement; valuation of advancement
+    status: ingested
+    path: statutes/ors-112.135.md
+  - number: '112.145'
+    title: Effect of advancement on distribution
+    status: ingested
+    path: statutes/ors-112.145.md
+  - number: '112.155'
+    title: Death of advancee before decedent
+    status: ingested
+    path: statutes/ors-112.155.md
+  - number: '112.175'
+    title: Adopted persons
+    status: ingested
+    path: statutes/ors-112.175.md
+  - number: '112.185'
+    title: Effect of more than one adoption
+    status: ingested
+    path: statutes/ors-112.185.md
+  - number: '112.195'
+    title: References in wills, deeds and other instruments to accord with law of intestate succession
+    status: ingested
+    path: statutes/ors-112.195.md
+  - number: '112.225'
+    title: Who may make a will
+    status: ingested
+    path: statutes/ors-112.225.md
+  - number: '112.227'
+    title: Intention of testator expressed in will as controlling
+    status: ingested
+    path: statutes/ors-112.227.md
+  - number: '112.230'
+    title: Local law of state selected by testator controlling unless against public policy
+    status: ingested
+    path: statutes/ors-112.230.md
+  - number: '112.232'
+    title: Uniform International Wills Act
+    status: ingested
+    path: statutes/ors-112.232.md
+  - number: '112.235'
+    title: Execution of a will
+    status: ingested
+    path: statutes/ors-112.235.md
+  - number: '112.238'
+    title: Exception to will execution formalities; petition; notice; written objections; hearing; fee
+    status: ingested
+    path: statutes/ors-112.238.md
+  - number: '112.245'
+    title: Witness as beneficiary
+    status: ingested
+    path: statutes/ors-112.245.md
+  - number: '112.255'
+    title: Validity of execution of a will; incorporation by reference
+    status: ingested
+    path: statutes/ors-112.255.md
+  - number: '112.260'
+    title: Reference in will to statement or list disposing of certain effects; admissibility; alteration
+    status: ingested
+    path: statutes/ors-112.260.md
+  - number: '112.265'
+    title: Testamentary additions to trusts
+    status: ingested
+    path: statutes/ors-112.265.md
+  - number: '112.270'
+    title: Procedure to establish contract to make will or devise or not to revoke will or devise
+    status: ingested
+    path: statutes/ors-112.270.md
+  - number: '112.272'
+    title: In terrorem clauses valid and enforceable; exceptions
+    status: ingested
+    path: statutes/ors-112.272.md
+  - number: '112.275'
+    title: Manner of revocation or alteration exclusive
+    status: ingested
+    path: statutes/ors-112.275.md
+  - number: '112.285'
+    title: Express revocation or alteration; partial revocation not valid
+    status: ingested
+    path: statutes/ors-112.285.md
+  - number: '112.295'
+    title: Revival of revoked or invalid will
+    status: ingested
+    path: statutes/ors-112.295.md
+  - number: '112.305'
+    title: Revocation by marriage; exceptions
+    status: ingested
+    path: statutes/ors-112.305.md
+  - number: '112.315'
+    title: Revocation by divorce or annulment
+    status: ingested
+    path: statutes/ors-112.315.md
+  - number: '112.345'
+    title: Devise of life estate
+    status: ingested
+    path: statutes/ors-112.345.md
+  - number: '112.355'
+    title: Devise passes all interest of testator
+    status: ingested
+    path: statutes/ors-112.355.md
+  - number: '112.365'
+    title: Property acquired after making will
+    status: ingested
+    path: statutes/ors-112.365.md
+  - number: '112.385'
+    title: Nonademption of specific devises in certain cases
+    status: ingested
+    path: statutes/ors-112.385.md
+  - number: '112.395'
+    title: When estate passes to issue of devisee; anti-lapse; class gifts
+    status: ingested
+    path: statutes/ors-112.395.md
+  - number: '112.400'
+    title: Effect of failure of devise
+    status: ingested
+    path: statutes/ors-112.400.md
+  - number: '112.405'
+    title: Children born, adopted or conceived after execution of will; pretermitted children
+    status: ingested
+    path: statutes/ors-112.405.md
+  - number: '112.410'
+    title: Effect of general disposition or residuary clause on testator’s power of appointment
+    status: ingested
+    path: statutes/ors-112.410.md
+  - number: '112.415'
+    title: Persons not entitled to estate of testator
+    status: ingested
+    path: statutes/ors-112.415.md
+  - number: '112.455'
+    title: Definitions for ORS 112.455 to 112.555
+    status: ingested
+    path: statutes/ors-112.455.md
+  - number: '112.457'
+    title: Application to abuser
+    status: ingested
+    path: statutes/ors-112.457.md
+  - number: '112.465'
+    title: Slayer or abuser considered to predecease decedent
+    status: ingested
+    path: statutes/ors-112.465.md
+  - number: '112.475'
+    title: Jointly owned property
+    status: ingested
+    path: statutes/ors-112.475.md
+  - number: '112.495'
+    title: Reversions, vested remainders, contingent remainders and future interests
+    status: ingested
+    path: statutes/ors-112.495.md
+  - number: '112.505'
+    title: Property appointed; powers of revocation or appointment
+    status: ingested
+    path: statutes/ors-112.505.md
+  - number: '112.515'
+    title: Proceeds of insurance on life and other benefit plans of decedent
+    status: ingested
+    path: statutes/ors-112.515.md
+  - number: '112.525'
+    title: Proceeds of insurance on life of slayer or abuser
+    status: ingested
+    path: statutes/ors-112.525.md
+  - number: '112.535'
+    title: Payment by insurance company, financial institution, trustee or obligor; no liability
+    status: ingested
+    path: statutes/ors-112.535.md
+  - number: '112.545'
+    title: Rights of persons without notice dealing with slayer or abuser
+    status: ingested
+    path: statutes/ors-112.545.md
+  - number: '112.555'
+    title: Final judgment as conclusive; evidence of felonious and intentional killing
+    status: ingested
+    path: statutes/ors-112.555.md
+  - number: '112.570'
+    title: Definitions for ORS 112.570 to 112.590
+    status: ingested
+    path: statutes/ors-112.570.md
+  - number: '112.572'
+    title: Requirement of survival
+    status: ingested
+    path: statutes/ors-112.572.md
+  - number: '112.578'
+    title: Construction of survivorship provisions in governing instruments
+    status: ingested
+    path: statutes/ors-112.578.md
+  - number: '112.580'
+    title: Co-owners with right of survivorship; requirement of survival
+    status: ingested
+    path: statutes/ors-112.580.md
+  - number: '112.582'
+    title: Evidence of death or status
+    status: ingested
+    path: statutes/ors-112.582.md
+  - number: '112.586'
+    title: Exceptions
+    status: ingested
+    path: statutes/ors-112.586.md
+  - number: '112.588'
+    title: Protection of payors and other third parties
+    status: ingested
+    path: statutes/ors-112.588.md
+  - number: '112.590'
+    title: Protection of bona fide purchasers; personal liability of recipient
+    status: ingested
+    path: statutes/ors-112.590.md
+  - number: '112.685'
+    title: Dower and curtesy abolished
+    status: ingested
+    path: statutes/ors-112.685.md
+  - number: '112.705'
+    title: Short title
+    status: ingested
+    path: statutes/ors-112.705.md
+  - number: '112.715'
+    title: Application to certain property
+    status: ingested
+    path: statutes/ors-112.715.md
+  - number: '112.725'
+    title: Rebuttable presumptions
+    status: ingested
+    path: statutes/ors-112.725.md
+  - number: '112.735'
+    title: One-half of property not subject to testamentary disposition or right to elect against will
+    status: ingested
+    path: statutes/ors-112.735.md
+  - number: '112.745'
+    title: Proceedings to perfect title
+    status: ingested
+    path: statutes/ors-112.745.md
+  - number: '112.755'
+    title: Who may institute proceedings
+    status: ingested
+    path: statutes/ors-112.755.md
+  - number: '112.765'
+    title: Rights of purchaser
+    status: ingested
+    path: statutes/ors-112.765.md
+  - number: '112.775'
+    title: Application and construction
+    status: ingested
+    path: statutes/ors-112.775.md
+  - number: '112.800'
+    title: Definition for ORS 112.800 to 112.830
+    status: ingested
+    path: statutes/ors-112.800.md
+  - number: '112.805'
+    title: Exclusive manner of disposing of wills; destroyed will not revoked
+    status: ingested
+    path: statutes/ors-112.805.md
+  - number: '112.810'
+    title: Duties of custodian of will
+    status: ingested
+    path: statutes/ors-112.810.md
+  - number: '112.815'
+    title: Conditions for disposal of will
+    status: ingested
+    path: statutes/ors-112.815.md
+  - number: '112.820'
+    title: Procedure for destruction of will; affidavit
+    status: ingested
+    path: statutes/ors-112.820.md
+  - number: '112.825'
+    title: Liability for destruction of will
+    status: ingested
+    path: statutes/ors-112.825.md
+  - number: '112.830'
+    title: Court may order delivery of will
+    status: ingested
+    path: statutes/ors-112.830.md
 - chapter: '113'
   title: Initiation of Estate Proceedings
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors113.html
@@ -4745,6 +5069,50 @@ chapters:
     title: Construction
     status: ingested
     path: statutes/ors-116.383.md
+- chapter: '117'
+  title: Estates of Absentees
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors117.html
+  sections:
+  - number: '117.005'
+    title: Petition for administration of estate of absentee
+    status: ingested
+    path: statutes/ors-117.005.md
+  - number: '117.015'
+    title: Setting date of hearing on petition; notice of hearing
+    status: ingested
+    path: statutes/ors-117.015.md
+  - number: '117.025'
+    title: Appointment of person to represent absentee; directing search
+    status: ingested
+    path: statutes/ors-117.025.md
+  - number: '117.035'
+    title: Hearing on petition
+    status: ingested
+    path: statutes/ors-117.035.md
+  - number: '117.045'
+    title: Effect of finding of death
+    status: ingested
+    path: statutes/ors-117.045.md
+  - number: '117.055'
+    title: Procedure for administering estate
+    status: ingested
+    path: statutes/ors-117.055.md
+  - number: '117.065'
+    title: Revocation of letters; proceedings upon revocation
+    status: ingested
+    path: statutes/ors-117.065.md
+  - number: '117.075'
+    title: Rights of absentee
+    status: ingested
+    path: statutes/ors-117.075.md
+  - number: '117.085'
+    title: Substitution of parties
+    status: ingested
+    path: statutes/ors-117.085.md
+  - number: '117.095'
+    title: Costs, expenses and charges
+    status: ingested
+    path: statutes/ors-117.095.md
 - chapter: '118'
   title: Estate Tax
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors118.html
@@ -4882,6 +5250,79 @@ chapters:
     title: Penalties
     status: ingested
     path: statutes/ors-118.990.md
+- chapter: '119'
+  title: Revised Uniform Fiduciary Access to Digital Assets Act
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors119.html
+  sections:
+  - number: '119.006'
+    title: Definitions for ORS 119.006 to 119.081
+    status: ingested
+    path: statutes/ors-119.006.md
+  - number: '119.011'
+    title: Authority of custodian
+    status: ingested
+    path: statutes/ors-119.011.md
+  - number: '119.016'
+    title: Use of online tool to direct disclosure
+    status: ingested
+    path: statutes/ors-119.016.md
+  - number: '119.021'
+    title: Disclosure of content of electronic communications to personal representative
+    status: ingested
+    path: statutes/ors-119.021.md
+  - number: '119.026'
+    title: Disclosure of catalog of electronic communications to personal representative
+    status: ingested
+    path: statutes/ors-119.026.md
+  - number: '119.032'
+    title: Disclosure of content of electronic communications to agent designated in power of attorney
+    status: ingested
+    path: statutes/ors-119.032.md
+  - number: '119.036'
+    title: Disclosure of catalog of electronic communications to agent designated in power of attorney
+    status: ingested
+    path: statutes/ors-119.036.md
+  - number: '119.042'
+    title: Disclosure to trustee who is original user
+    status: ingested
+    path: statutes/ors-119.042.md
+  - number: '119.046'
+    title: Disclosure of content of electronic communications to trustee who is not original user
+    status: ingested
+    path: statutes/ors-119.046.md
+  - number: '119.052'
+    title: Disclosure of catalog of electronic communications to trustee who is not original user
+    status: ingested
+    path: statutes/ors-119.052.md
+  - number: '119.056'
+    title: Disclosure to conservator; court order
+    status: ingested
+    path: statutes/ors-119.056.md
+  - number: '119.062'
+    title: Duties and authority of fiduciary
+    status: ingested
+    path: statutes/ors-119.062.md
+  - number: '119.066'
+    title: Requests to disclose digital assets or terminate account; custodian’s duty to comply; court
+      order; immunity from liability
+    status: ingested
+    path: statutes/ors-119.066.md
+  - number: '119.071'
+    title: Rights of custodians, users, fiduciaries and designated recipients
+    status: ingested
+    path: statutes/ors-119.071.md
+  - number: '119.076'
+    title: Uniformity of application and construction
+    status: ingested
+    path: statutes/ors-119.076.md
+  - number: '119.081'
+    title: Effect on other laws
+    status: ingested
+    path: statutes/ors-119.081.md
+  - number: '119.086'
+    title: Short title
+    status: ingested
+    path: statutes/ors-119.086.md
 - chapter: '12'
   title: Limitations of Actions and Suits
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors012.html
@@ -6536,6 +6977,143 @@ chapters:
     title: Penalties for ORS 128.801 to 128.898
     status: ingested
     path: statutes/ors-128.995.md
+- chapter: '129'
+  title: Uniform Principal and Income Act
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors129.html
+  sections:
+  - number: '129.200'
+    title: UPIA 101. Short title
+    status: ingested
+    path: statutes/ors-129.200.md
+  - number: '129.205'
+    title: UPIA 102. Definitions
+    status: ingested
+    path: statutes/ors-129.205.md
+  - number: '129.210'
+    title: UPIA 103. Fiduciary duties; general principles
+    status: ingested
+    path: statutes/ors-129.210.md
+  - number: '129.215'
+    title: UPIA 104. Trustee’s power to adjust
+    status: ingested
+    path: statutes/ors-129.215.md
+  - number: '129.220'
+    title: UPIA 105. Judicial control of discretionary power
+    status: ingested
+    path: statutes/ors-129.220.md
+  - number: '129.225'
+    title: Conversion to unitrust
+    status: ingested
+    path: statutes/ors-129.225.md
+  - number: '129.250'
+    title: UPIA 201. Determination and distribution of net income
+    status: ingested
+    path: statutes/ors-129.250.md
+  - number: '129.255'
+    title: UPIA 202. Distribution to residuary and remainder beneficiaries
+    status: ingested
+    path: statutes/ors-129.255.md
+  - number: '129.270'
+    title: UPIA 301. When right to income begins and ends
+    status: ingested
+    path: statutes/ors-129.270.md
+  - number: '129.275'
+    title: UPIA 302. Apportionment of receipts and disbursements when decedent dies or income interest
+      begins
+    status: ingested
+    path: statutes/ors-129.275.md
+  - number: '129.280'
+    title: UPIA 303. Apportionment when income interest ends
+    status: ingested
+    path: statutes/ors-129.280.md
+  - number: '129.300'
+    title: UPIA 401. Character of receipts
+    status: ingested
+    path: statutes/ors-129.300.md
+  - number: '129.305'
+    title: UPIA 402. Distribution from trust or estate
+    status: ingested
+    path: statutes/ors-129.305.md
+  - number: '129.308'
+    title: UPIA 403. Business and other activities conducted by trustee
+    status: ingested
+    path: statutes/ors-129.308.md
+  - number: '129.310'
+    title: UPIA 404. Principal receipts
+    status: ingested
+    path: statutes/ors-129.310.md
+  - number: '129.315'
+    title: UPIA 405. Rental property
+    status: ingested
+    path: statutes/ors-129.315.md
+  - number: '129.320'
+    title: UPIA 406. Obligation to pay money
+    status: ingested
+    path: statutes/ors-129.320.md
+  - number: '129.325'
+    title: UPIA 407. Insurance policies and similar contracts
+    status: ingested
+    path: statutes/ors-129.325.md
+  - number: '129.350'
+    title: UPIA 408. Insubstantial allocations not required
+    status: ingested
+    path: statutes/ors-129.350.md
+  - number: '129.355'
+    title: UPIA 409. Deferred compensation, annuities and similar payments
+    status: ingested
+    path: statutes/ors-129.355.md
+  - number: '129.360'
+    title: UPIA 410. Liquidating asset
+    status: ingested
+    path: statutes/ors-129.360.md
+  - number: '129.365'
+    title: UPIA 411. Minerals, water and other natural resources
+    status: ingested
+    path: statutes/ors-129.365.md
+  - number: '129.370'
+    title: UPIA 412. Timber
+    status: ingested
+    path: statutes/ors-129.370.md
+  - number: '129.375'
+    title: UPIA 413. Property not productive of income
+    status: ingested
+    path: statutes/ors-129.375.md
+  - number: '129.380'
+    title: UPIA 414. Derivatives and options
+    status: ingested
+    path: statutes/ors-129.380.md
+  - number: '129.385'
+    title: UPIA 415. Asset-backed securities
+    status: ingested
+    path: statutes/ors-129.385.md
+  - number: '129.400'
+    title: UPIA 501. Disbursements from income
+    status: ingested
+    path: statutes/ors-129.400.md
+  - number: '129.405'
+    title: UPIA 502. Disbursements from principal
+    status: ingested
+    path: statutes/ors-129.405.md
+  - number: '129.410'
+    title: UPIA 503. Transfers from income to principal for depreciation
+    status: ingested
+    path: statutes/ors-129.410.md
+  - number: '129.415'
+    title: UPIA 504. Transfers from income to reimburse principal
+    status: ingested
+    path: statutes/ors-129.415.md
+  - number: '129.420'
+    title: UPIA 505. Income taxes
+    status: ingested
+    path: statutes/ors-129.420.md
+  - number: '129.425'
+    title: UPIA 506. Adjustments between principal and income because of taxes
+    status: ingested
+    path: statutes/ors-129.425.md
+  - number: '129.450'
+    title: UPIA 601. Uniformity of application and construction
+    status: ingested
+    path: statutes/ors-129.450.md
 - chapter: '130'
   title: Uniform Trust Code
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors130.html
@@ -10301,6 +10879,38 @@ chapters:
     title: Disqualification of appellate judge
     status: ingested
     path: statutes/ors-14.275.md
+- chapter: '142'
+  title: Stolen Property
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors142.html
+  sections:
+  - number: '142.010'
+    title: Officer’s custody of stolen property is subject to order of magistrate or court
+    status: ingested
+    path: statutes/ors-142.010.md
+  - number: '142.020'
+    title: Delivery of stolen property to owner
+    status: ingested
+    path: statutes/ors-142.020.md
+  - number: '142.030'
+    title: Rights and authority conferred by order of delivery
+    status: ingested
+    path: statutes/ors-142.030.md
+  - number: '142.040'
+    title: Disposal of unclaimed money or property; sale of property
+    status: ingested
+    path: statutes/ors-142.040.md
+  - number: '142.050'
+    title: Title of purchaser at sale
+    status: ingested
+    path: statutes/ors-142.050.md
+  - number: '142.060'
+    title: Crediting and appropriating proceeds of sale paid into county treasury; rights of owner
+    status: ingested
+    path: statutes/ors-142.060.md
+  - number: '142.070'
+    title: Powers and duties of peace officers respecting theft and slaughter of animals and other property
+    status: ingested
+    path: statutes/ors-142.070.md
 - chapter: '144'
   title: Parole; Post-Prison Supervision; Work Release; Executive Clemency; Standards for Prison Terms
     and Parole; Presentence Reports
@@ -105796,6 +106406,118 @@ chapters:
     title: Penalties
     status: ingested
     path: statutes/ors-549.990.md
+- chapter: '55'
+  title: Appeals
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors055.html
+  sections:
+  - number: '55.150'
+    title: Court to which appeal is taken
+    status: ingested
+    path: statutes/ors-55.150.md
+  - number: '55.155'
+    title: Definition for ORS
+    status: ingested
+    path: statutes/ors-55.155.md
+  - number: '55.160'
+    title: Time within which appeal must be taken
+    status: ingested
+    path: statutes/ors-55.160.md
+  - number: '55.165'
+    title: Contents of notice of appeal
+    status: ingested
+    path: statutes/ors-55.165.md
+  - number: '55.170'
+    title: Filing and serving notice of appeal
+    status: ingested
+    path: statutes/ors-55.170.md
+  - number: '55.175'
+    title: Filing fee; fee waiver or deferral
+    status: ingested
+    path: statutes/ors-55.175.md
+  - number: '55.180'
+    title: Jurisdiction of matter and to decide appeal
+    status: ingested
+    path: statutes/ors-55.180.md
+  - number: '55.185'
+    title: Submission of record
+    status: ingested
+    path: statutes/ors-55.185.md
+  - number: '55.190'
+    title: Proceedings in circuit court and standard of review generally
+    status: ingested
+    path: statutes/ors-55.190.md
+  - number: '55.195'
+    title: Rendering judgment; remand; notice to justice court
+    status: ingested
+    path: statutes/ors-55.195.md
+  - number: '55.200'
+    title: Availability of writ of review
+    status: ingested
+    path: statutes/ors-55.200.md
+  - number: '55.250'
+    title: Appeal and cross-appeal by defendant
+    status: ingested
+    path: statutes/ors-55.250.md
+  - number: '55.255'
+    title: Appeal by state or county
+    status: ingested
+    path: statutes/ors-55.255.md
+  - number: '55.260'
+    title: Proceedings in circuit court
+    status: ingested
+    path: statutes/ors-55.260.md
+  - number: '55.265'
+    title: Scope of review in general of order or judgment other than judgment of conviction and sentence
+    status: ingested
+    path: statutes/ors-55.265.md
+  - number: '55.270'
+    title: Scope of review in specific cases
+    status: ingested
+    path: statutes/ors-55.270.md
+  - number: '55.275'
+    title: Rendering judgment; remand to justice court
+    status: ingested
+    path: statutes/ors-55.275.md
+  - number: '55.280'
+    title: Stay of enforcement of judgment
+    status: ingested
+    path: statutes/ors-55.280.md
+  - number: '55.285'
+    title: Appeal from circuit court
+    status: ingested
+    path: statutes/ors-55.285.md
+  - number: '55.300'
+    title: Who may appeal
+    status: ingested
+    path: statutes/ors-55.300.md
+  - number: '55.305'
+    title: Undertaking for costs and disbursements and stay of proceedings
+    status: ingested
+    path: statutes/ors-55.305.md
+  - number: '55.310'
+    title: Stay of proceedings without undertaking
+    status: ingested
+    path: statutes/ors-55.310.md
+  - number: '55.315'
+    title: Recall of execution when stay granted
+    status: ingested
+    path: statutes/ors-55.315.md
+  - number: '55.320'
+    title: Enforcement of judgment in contract action
+    status: ingested
+    path: statutes/ors-55.320.md
+  - number: '55.325'
+    title: Appeals from actions for recovery of real property
+    status: ingested
+    path: statutes/ors-55.325.md
+  - number: '55.330'
+    title: Judgment on dismissal or after trial; judgment against sureties
+    status: ingested
+    path: statutes/ors-55.330.md
+  - number: '55.335'
+    title: Appeal from circuit court
+    status: ingested
+    path: statutes/ors-55.335.md
 - chapter: '552'
   title: Water Improvement Districts
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors552.html
@@ -123500,6 +124222,358 @@ chapters:
     title: Governmental officers and agencies to furnish evidence related to board proceedings
     status: ingested
     path: statutes/ors-663.295.md
+- chapter: '67'
+  title: Partnerships; Limited Liability Partnerships
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors067.html
+  sections:
+  - number: '67.005'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-67.005.md
+  - number: '67.011'
+    title: Filing requirements
+    status: ingested
+    path: statutes/ors-67.011.md
+  - number: '67.014'
+    title: Filing, service, copying and certification fees
+    status: ingested
+    path: statutes/ors-67.014.md
+  - number: '67.017'
+    title: Effective time and date of document
+    status: ingested
+    path: statutes/ors-67.017.md
+  - number: '67.021'
+    title: Filing duty of Secretary of State
+    status: ingested
+    path: statutes/ors-67.021.md
+  - number: '67.024'
+    title: Appeal from actions of Secretary of State
+    status: ingested
+    path: statutes/ors-67.024.md
+  - number: '67.027'
+    title: Evidentiary effect of copy of filed document
+    status: ingested
+    path: statutes/ors-67.027.md
+  - number: '67.030'
+    title: Certificate of existence or authorization
+    status: ingested
+    path: statutes/ors-67.030.md
+  - number: '67.033'
+    title: Powers
+    status: ingested
+    path: statutes/ors-67.033.md
+  - number: '67.040'
+    title: Knowledge and notice
+    status: ingested
+    path: statutes/ors-67.040.md
+  - number: '67.042'
+    title: Effect of partnership agreement; non- waivable provisions
+    status: not_sliceable
+    note: catalog title does not match this section's own printed catchline at the anchor point; not ingested
+      (verify the catalog title against the source before re-running)
+  - number: '67.044'
+    title: Supplemental principles of law
+    status: ingested
+    path: statutes/ors-67.044.md
+  - number: '67.046'
+    title: Governing law
+    status: ingested
+    path: statutes/ors-67.046.md
+  - number: '67.050'
+    title: Partnership as entity
+    status: ingested
+    path: statutes/ors-67.050.md
+  - number: '67.055'
+    title: Creation of partnership
+    status: ingested
+    path: statutes/ors-67.055.md
+  - number: '67.060'
+    title: Partnership property
+    status: ingested
+    path: statutes/ors-67.060.md
+  - number: '67.065'
+    title: When property is partnership property
+    status: ingested
+    path: statutes/ors-67.065.md
+  - number: '67.070'
+    title: General powers of partnership
+    status: ingested
+    path: statutes/ors-67.070.md
+  - number: '67.090'
+    title: Partner agent of partnership
+    status: ingested
+    path: statutes/ors-67.090.md
+  - number: '67.095'
+    title: Transfer of partnership property
+    status: ingested
+    path: statutes/ors-67.095.md
+  - number: '67.100'
+    title: Partnership liable for partner’s actionable conduct
+    status: ingested
+    path: statutes/ors-67.100.md
+  - number: '67.105'
+    title: Partner’s liability
+    status: ingested
+    path: statutes/ors-67.105.md
+  - number: '67.110'
+    title: Actions by and against partnership and partners
+    status: ingested
+    path: statutes/ors-67.110.md
+  - number: '67.115'
+    title: Liability of purported partner
+    status: ingested
+    path: statutes/ors-67.115.md
+  - number: '67.140'
+    title: Partner’s rights and duties
+    status: ingested
+    path: statutes/ors-67.140.md
+  - number: '67.145'
+    title: Distributions in kind
+    status: ingested
+    path: statutes/ors-67.145.md
+  - number: '67.150'
+    title: Partner’s rights and duties with respect to information
+    status: ingested
+    path: statutes/ors-67.150.md
+  - number: '67.155'
+    title: General standards of partner’s conduct
+    status: ingested
+    path: statutes/ors-67.155.md
+  - number: '67.160'
+    title: Actions by partnership and partners
+    status: ingested
+    path: statutes/ors-67.160.md
+  - number: '67.165'
+    title: Continuation of partnership beyond definite term or particular undertaking
+    status: ingested
+    path: statutes/ors-67.165.md
+  - number: '67.190'
+    title: Partner not co-owner of partnership property
+    status: ingested
+    path: statutes/ors-67.190.md
+  - number: '67.195'
+    title: Partner’s transferable interest in partnership
+    status: ingested
+    path: statutes/ors-67.195.md
+  - number: '67.200'
+    title: Transfer of whole or part of partner’s transferable interest
+    status: ingested
+    path: statutes/ors-67.200.md
+  - number: '67.205'
+    title: Partner’s transferable interest subject to charging order
+    status: ingested
+    path: statutes/ors-67.205.md
+  - number: '67.220'
+    title: Events causing partner’s dissociation
+    status: ingested
+    path: statutes/ors-67.220.md
+  - number: '67.225'
+    title: Partner’s power to dissociate; wrongful dissociation
+    status: ingested
+    path: statutes/ors-67.225.md
+  - number: '67.230'
+    title: Effect of partner’s dissociation
+    status: ingested
+    path: statutes/ors-67.230.md
+  - number: '67.250'
+    title: Purchase of dissociated partner’s interest
+    status: ingested
+    path: statutes/ors-67.250.md
+  - number: '67.255'
+    title: Dissociated partner’s power to bind and liability to partnership
+    status: ingested
+    path: statutes/ors-67.255.md
+  - number: '67.260'
+    title: Dissociated partner’s liability to other persons
+    status: ingested
+    path: statutes/ors-67.260.md
+  - number: '67.265'
+    title: Continued use of partnership name
+    status: ingested
+    path: statutes/ors-67.265.md
+  - number: '67.290'
+    title: Events causing dissolution and winding up of partnership business
+    status: ingested
+    path: statutes/ors-67.290.md
+  - number: '67.295'
+    title: Partnership continues after dissolution
+    status: ingested
+    path: statutes/ors-67.295.md
+  - number: '67.300'
+    title: Right to wind up partnership business
+    status: ingested
+    path: statutes/ors-67.300.md
+  - number: '67.305'
+    title: Partner’s power to bind partnership after dissolution
+    status: ingested
+    path: statutes/ors-67.305.md
+  - number: '67.310'
+    title: Partner’s liability to other partners after dissolution
+    status: ingested
+    path: statutes/ors-67.310.md
+  - number: '67.315'
+    title: Settlement of accounts and contributions among partners
+    status: ingested
+    path: statutes/ors-67.315.md
+  - number: '67.340'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-67.340.md
+  - number: '67.342'
+    title: Conversion
+    status: ingested
+    path: statutes/ors-67.342.md
+  - number: '67.344'
+    title: Action on plan of conversion
+    status: ingested
+    path: statutes/ors-67.344.md
+  - number: '67.346'
+    title: Articles and plan of conversion
+    status: ingested
+    path: statutes/ors-67.346.md
+  - number: '67.348'
+    title: Effect of conversion; entity existence continues; assumed business name
+    status: ingested
+    path: statutes/ors-67.348.md
+  - number: '67.360'
+    title: Merger
+    status: ingested
+    path: statutes/ors-67.360.md
+  - number: '67.362'
+    title: Action on plan of merger
+    status: ingested
+    path: statutes/ors-67.362.md
+  - number: '67.364'
+    title: Articles and plan of merger
+    status: ingested
+    path: statutes/ors-67.364.md
+  - number: '67.365'
+    title: Effect of merger
+    status: ingested
+    path: statutes/ors-67.365.md
+  - number: '67.600'
+    title: Eligibility for registration as limited liability partnership; required vote
+    status: not_sliceable
+    note: catalog title does not match this section's own printed catchline at the anchor point; not ingested
+      (verify the catalog title against the source before re-running)
+  - number: '67.603'
+    title: Application for registration; effective date; fee; duration of status as limited liability
+      partnership
+    status: ingested
+    path: statutes/ors-67.603.md
+  - number: '67.606'
+    title: Cancellation of registration; effect
+    status: ingested
+    path: statutes/ors-67.606.md
+  - number: '67.610'
+    title: Effect of changes in partnership on limited liability partnership status and liability of partners;
+      amendment of application for registration
+    status: ingested
+    path: statutes/ors-67.610.md
+  - number: '67.615'
+    title: Distributions to partners
+    status: ingested
+    path: statutes/ors-67.615.md
+  - number: '67.625'
+    title: Limited liability partnership name
+    status: ingested
+    path: statutes/ors-67.625.md
+  - number: '67.635'
+    title: Service of process on limited liability partnership
+    status: ingested
+    path: statutes/ors-67.635.md
+  - number: '67.645'
+    title: Annual report; updates; rules
+    status: ingested
+    path: statutes/ors-67.645.md
+  - number: '67.655'
+    title: Grounds for administrative revocation
+    status: ingested
+    path: statutes/ors-67.655.md
+  - number: '67.660'
+    title: Procedure for and effect of administrative revocation
+    status: ingested
+    path: statutes/ors-67.660.md
+  - number: '67.665'
+    title: Reinstatement following administrative revocation
+    status: ingested
+    path: statutes/ors-67.665.md
+  - number: '67.670'
+    title: Appeal from denial of reinstatement
+    status: ingested
+    path: statutes/ors-67.670.md
+  - number: '67.680'
+    title: Interstate application
+    status: ingested
+    path: statutes/ors-67.680.md
+  - number: '67.700'
+    title: Authority to transact business
+    status: ingested
+    path: statutes/ors-67.700.md
+  - number: '67.705'
+    title: Consequences of transacting business without authority
+    status: ingested
+    path: statutes/ors-67.705.md
+  - number: '67.710'
+    title: Application for authority to transact business; effective date of authorization
+    status: ingested
+    path: statutes/ors-67.710.md
+  - number: '67.715'
+    title: Amendment to application for authority
+    status: ingested
+    path: statutes/ors-67.715.md
+  - number: '67.720'
+    title: Limitations applicable to foreign limited liability partnerships
+    status: ingested
+    path: statutes/ors-67.720.md
+  - number: '67.730'
+    title: Name of foreign limited liability partnership
+    status: ingested
+    path: statutes/ors-67.730.md
+  - number: '67.740'
+    title: Withdrawal of foreign limited liability partnership
+    status: ingested
+    path: statutes/ors-67.740.md
+  - number: '67.750'
+    title: Grounds for revocation
+    status: ingested
+    path: statutes/ors-67.750.md
+  - number: '67.755'
+    title: Procedure for and effect of revocation
+    status: ingested
+    path: statutes/ors-67.755.md
+  - number: '67.760'
+    title: Appeal from revocation
+    status: ingested
+    path: statutes/ors-67.760.md
+  - number: '67.765'
+    title: Reinstatement of authority
+    status: ingested
+    path: statutes/ors-67.765.md
+  - number: '67.770'
+    title: Action by Attorney General
+    status: ingested
+    path: statutes/ors-67.770.md
+  - number: '67.800'
+    title: Uniformity of application and construction
+    status: ingested
+    path: statutes/ors-67.800.md
+  - number: '67.805'
+    title: Severability
+    status: ingested
+    path: statutes/ors-67.805.md
+  - number: '67.810'
+    title: Partnership subject to amendment or repeal of chapter
+    status: ingested
+    path: statutes/ors-67.810.md
+  - number: '67.815'
+    title: Short title
+    status: ingested
+    path: statutes/ors-67.815.md
+  - number: '67.990'
+    title: Penalty for signing false document
+    status: ingested
+    path: statutes/ors-67.990.md
 - chapter: '670'
   title: Occupations and Professions Generally
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors670.html
@@ -130088,6 +131162,343 @@ chapters:
     title: Use of paper printed on both sides; use of recycled paper
     status: ingested
     path: statutes/ors-7.250.md
+- chapter: '70'
+  title: Limited Partnerships
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors070.html
+  sections:
+  - number: '70.005'
+    title: Definitions
+    status: ingested
+    path: statutes/ors-70.005.md
+  - number: '70.010'
+    title: Name of limited partnership; registration of assumed business name; application of other law
+    status: ingested
+    path: statutes/ors-70.010.md
+  - number: '70.015'
+    title: Reservation of limited partnership name
+    status: ingested
+    path: statutes/ors-70.015.md
+  - number: '70.020'
+    title: Office in state
+    status: ingested
+    path: statutes/ors-70.020.md
+  - number: '70.025'
+    title: Registered agent; registered office; changing agent
+    status: ingested
+    path: statutes/ors-70.025.md
+  - number: '70.030'
+    title: Change of address and resignation procedures for registered agent
+    status: ingested
+    path: statutes/ors-70.030.md
+  - number: '70.035'
+    title: Scope of agency of registered agent
+    status: ingested
+    path: statutes/ors-70.035.md
+  - number: '70.040'
+    title: When Secretary of State to serve as agent; service on Secretary of State; when default may
+      be entered
+    status: ingested
+    path: statutes/ors-70.040.md
+  - number: '70.045'
+    title: Effect of ORS
+    status: ingested
+    path: statutes/ors-70.045.md
+  - number: '70.050'
+    title: Records required in office in state; inspection
+    status: ingested
+    path: statutes/ors-70.050.md
+  - number: '70.055'
+    title: Authority of limited partnership
+    status: ingested
+    path: statutes/ors-70.055.md
+  - number: '70.060'
+    title: Authority of partner to do business with limited partnership
+    status: ingested
+    path: statutes/ors-70.060.md
+  - number: '70.065'
+    title: Filing, service, copying and certification fees
+    status: ingested
+    path: statutes/ors-70.065.md
+  - number: '70.067'
+    title: Forms; rules
+    status: ingested
+    path: statutes/ors-70.067.md
+  - number: '70.070'
+    title: Filing duty of Secretary of State
+    status: ingested
+    path: statutes/ors-70.070.md
+  - number: '70.075'
+    title: Formation of limited partnership; certificate of limited partnership; rules
+    status: ingested
+    path: statutes/ors-70.075.md
+  - number: '70.080'
+    title: Amendment of certificate
+    status: ingested
+    path: statutes/ors-70.080.md
+  - number: '70.085'
+    title: Cancellation of certificate
+    status: ingested
+    path: statutes/ors-70.085.md
+  - number: '70.090'
+    title: Execution of certificate
+    status: ingested
+    path: statutes/ors-70.090.md
+  - number: '70.095'
+    title: Remedy for failure to execute certificate
+    status: ingested
+    path: statutes/ors-70.095.md
+  - number: '70.100'
+    title: Filing with Office of Secretary of State
+    status: ingested
+    path: statutes/ors-70.100.md
+  - number: '70.105'
+    title: Remedy for false statements in certificate
+    status: ingested
+    path: statutes/ors-70.105.md
+  - number: '70.110'
+    title: Filing as notice of limited partnership
+    status: ingested
+    path: statutes/ors-70.110.md
+  - number: '70.115'
+    title: Duty of general partners to deliver copy of certificate to each limited partner
+    status: ingested
+    path: statutes/ors-70.115.md
+  - number: '70.125'
+    title: Date person becomes limited partner; admission of additional limited partner
+    status: ingested
+    path: statutes/ors-70.125.md
+  - number: '70.130'
+    title: Voting rights
+    status: ingested
+    path: statutes/ors-70.130.md
+  - number: '70.135'
+    title: Liability of limited partner
+    status: ingested
+    path: statutes/ors-70.135.md
+  - number: '70.140'
+    title: Liability of person who erroneously believes person is limited partner
+    status: ingested
+    path: statutes/ors-70.140.md
+  - number: '70.145'
+    title: Powers of limited partner
+    status: ingested
+    path: statutes/ors-70.145.md
+  - number: '70.175'
+    title: Admission of additional general partners
+    status: ingested
+    path: statutes/ors-70.175.md
+  - number: '70.180'
+    title: When person ceases to be general partner
+    status: ingested
+    path: statutes/ors-70.180.md
+  - number: '70.185'
+    title: Rights, restrictions and liabilities of general partner
+    status: ingested
+    path: statutes/ors-70.185.md
+  - number: '70.190'
+    title: Rights and powers of general partner as general and limited partner
+    status: ingested
+    path: statutes/ors-70.190.md
+  - number: '70.195'
+    title: Voting rights
+    status: ingested
+    path: statutes/ors-70.195.md
+  - number: '70.225'
+    title: Form of contribution
+    status: ingested
+    path: statutes/ors-70.225.md
+  - number: '70.230'
+    title: Obligation of partner
+    status: ingested
+    path: statutes/ors-70.230.md
+  - number: '70.235'
+    title: Allocation of profits and losses
+    status: ingested
+    path: statutes/ors-70.235.md
+  - number: '70.240'
+    title: Allocation of distributions of assets
+    status: ingested
+    path: statutes/ors-70.240.md
+  - number: '70.250'
+    title: Entitlement to distributions
+    status: ingested
+    path: statutes/ors-70.250.md
+  - number: '70.255'
+    title: Withdrawal of partner
+    status: ingested
+    path: statutes/ors-70.255.md
+  - number: '70.260'
+    title: Entitlements of withdrawing partner
+    status: ingested
+    path: statutes/ors-70.260.md
+  - number: '70.265'
+    title: Rights of partner regarding distribution; remedies
+    status: ingested
+    path: statutes/ors-70.265.md
+  - number: '70.270'
+    title: Limit on distribution
+    status: ingested
+    path: statutes/ors-70.270.md
+  - number: '70.275'
+    title: Liability of partner who receives return of contribution
+    status: ingested
+    path: statutes/ors-70.275.md
+  - number: '70.285'
+    title: Partnership as personal property
+    status: ingested
+    path: statutes/ors-70.285.md
+  - number: '70.290'
+    title: Assignability of partnership interest
+    status: ingested
+    path: statutes/ors-70.290.md
+  - number: '70.295'
+    title: Rights of judgment creditor of partner
+    status: ingested
+    path: statutes/ors-70.295.md
+  - number: '70.300'
+    title: Assignee of partnership interest as limited partner
+    status: ingested
+    path: statutes/ors-70.300.md
+  - number: '70.305'
+    title: Death, incompetency, dissolution or termination of partner
+    status: ingested
+    path: statutes/ors-70.305.md
+  - number: '70.325'
+    title: When dissolution occurs
+    status: ingested
+    path: statutes/ors-70.325.md
+  - number: '70.330'
+    title: Judgment of dissolution
+    status: ingested
+    path: statutes/ors-70.330.md
+  - number: '70.335'
+    title: Who may wind up partnership affairs
+    status: ingested
+    path: statutes/ors-70.335.md
+  - number: '70.340'
+    title: Distribution of assets
+    status: ingested
+    path: statutes/ors-70.340.md
+  - number: '70.350'
+    title: Law applicable to foreign limited partnership
+    status: ingested
+    path: statutes/ors-70.350.md
+  - number: '70.355'
+    title: Registration of foreign limited partnership; rules
+    status: ingested
+    path: statutes/ors-70.355.md
+  - number: '70.365'
+    title: Name requirements
+    status: ingested
+    path: statutes/ors-70.365.md
+  - number: '70.370'
+    title: Correction of application
+    status: ingested
+    path: statutes/ors-70.370.md
+  - number: '70.375'
+    title: Cancellation of registration
+    status: ingested
+    path: statutes/ors-70.375.md
+  - number: '70.380'
+    title: Registration prerequisite to suing in state; effect on contracts, liability; agent
+    status: ingested
+    path: statutes/ors-70.380.md
+  - number: '70.385'
+    title: Attorney General’s enforcement
+    status: ingested
+    path: statutes/ors-70.385.md
+  - number: '70.400'
+    title: Action by limited partner upon refusal of general partner
+    status: ingested
+    path: statutes/ors-70.400.md
+  - number: '70.405'
+    title: Status of plaintiff
+    status: ingested
+    path: statutes/ors-70.405.md
+  - number: '70.410'
+    title: Content of complaint
+    status: ingested
+    path: statutes/ors-70.410.md
+  - number: '70.415'
+    title: Remittance of proceeds received by plaintiff; attorney fees
+    status: ingested
+    path: statutes/ors-70.415.md
+  - number: '70.430'
+    title: Grounds for administrative action to inactivate certificate or registration of limited partnership
+    status: ingested
+    path: statutes/ors-70.430.md
+  - number: '70.435'
+    title: Notice of administrative inactivation; effect of inactivation on authority of registered agent
+    status: ingested
+    path: statutes/ors-70.435.md
+  - number: '70.440'
+    title: Reinstatement following administrative inactivation
+    status: ingested
+    path: statutes/ors-70.440.md
+  - number: '70.500'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-70.500.md
+  - number: '70.505'
+    title: Conversion
+    status: ingested
+    path: statutes/ors-70.505.md
+  - number: '70.510'
+    title: Action on plan of conversion
+    status: ingested
+    path: statutes/ors-70.510.md
+  - number: '70.515'
+    title: Articles and plan of conversion
+    status: ingested
+    path: statutes/ors-70.515.md
+  - number: '70.520'
+    title: Effect of conversion; assumed business name
+    status: ingested
+    path: statutes/ors-70.520.md
+  - number: '70.525'
+    title: Merger
+    status: ingested
+    path: statutes/ors-70.525.md
+  - number: '70.530'
+    title: Action on plan of merger
+    status: ingested
+    path: statutes/ors-70.530.md
+  - number: '70.535'
+    title: Articles and plan of merger
+    status: ingested
+    path: statutes/ors-70.535.md
+  - number: '70.540'
+    title: Effect of merger
+    status: ingested
+    path: statutes/ors-70.540.md
+  - number: '70.600'
+    title: Construction to promote uniformity
+    status: ingested
+    path: statutes/ors-70.600.md
+  - number: '70.605'
+    title: Application to partnerships existing prior to July 1, 1986
+    status: ingested
+    path: statutes/ors-70.605.md
+  - number: '70.610'
+    title: Annual report; updates; rules
+    status: ingested
+    path: statutes/ors-70.610.md
+  - number: '70.615'
+    title: Application of ORS chapter 67
+    status: ingested
+    path: statutes/ors-70.615.md
+  - number: '70.620'
+    title: Correction of documents; effective date of correction
+    status: ingested
+    path: statutes/ors-70.620.md
+  - number: '70.625'
+    title: Short title
+    status: ingested
+    path: statutes/ors-70.625.md
+  - number: '70.990'
+    title: Penalty for signing false document
+    status: ingested
+    path: statutes/ors-70.990.md
 - chapter: '700'
   title: Environmental Health Specialists; Waste Water Specialists
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors700.html
@@ -147984,6 +149395,87 @@ chapters:
     title: Adoption of policies and procedures prior to forfeiture
     status: ingested
     path: statutes/ors-809.745.md
+- chapter: '81'
+  title: Tender and Receipts; Choice of Forum in Contracts; Assignment; Central Filing System for Farm
+    Products
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors081.html
+  sections:
+  - number: '81.010'
+    title: Effect of unaccepted offer in writing to pay or deliver
+    status: ingested
+    path: statutes/ors-81.010.md
+  - number: '81.020'
+    title: Objection to tender
+    status: ingested
+    path: statutes/ors-81.020.md
+  - number: '81.030'
+    title: Receipt for paying money or delivering instruments or property
+    status: ingested
+    path: statutes/ors-81.030.md
+  - number: '81.150'
+    title: Revocation of contract provision requiring consumer to assert claim outside state; requirements;
+      attorney fees
+    status: ingested
+    path: statutes/ors-81.150.md
+  - number: '81.200'
+    title: Assignment of chose in action; payment by debtor without notice
+    status: ingested
+    path: statutes/ors-81.200.md
+  - number: '81.203'
+    title: Effect of an assignment on a defense
+    status: ingested
+    path: statutes/ors-81.203.md
+  - number: '81.230'
+    title: Definitions for ORS
+    status: ingested
+    path: statutes/ors-81.230.md
+  - number: '81.233'
+    title: Approved unique identifiers
+    status: ingested
+    path: statutes/ors-81.233.md
+  - number: '81.236'
+    title: Filing of statements in electronic format; rules
+    status: ingested
+    path: statutes/ors-81.236.md
+  - number: '81.239'
+    title: Establishment of central filing system for farm products; fees; rules
+    status: ingested
+    path: statutes/ors-81.239.md
+  - number: '81.242'
+    title: Protection of buyers of farm products, commission merchants and selling agents; exception
+    status: ingested
+    path: statutes/ors-81.242.md
+  - number: '81.245'
+    title: When buyer of farm product, commission merchant and selling agent subject to security interest
+      in farm product created by seller
+    status: ingested
+    path: statutes/ors-81.245.md
+  - number: '81.248'
+    title: Requirements for effective financing statement; amendment; duration; lapse; fee; rules
+    status: ingested
+    path: statutes/ors-81.248.md
+  - number: '81.251'
+    title: Master list of farm products; list of buyers, commission merchants and selling agents; distribution
+      of master list; fee; rules
+    status: ingested
+    path: statutes/ors-81.251.md
+  - number: '81.254'
+    title: Confirmation of existence of any effective financing statement; fee; rules
+    status: ingested
+    path: statutes/ors-81.254.md
+  - number: '81.257'
+    title: Courtesy notice
+    status: ingested
+    path: statutes/ors-81.257.md
+  - number: '81.260'
+    title: Place to file effective financing statement
+    status: ingested
+    path: statutes/ors-81.260.md
+  - number: '81.263'
+    title: Place to register as buyer of farm product, commission merchant or selling agent; duration
+      of registration; fee; rules
+    status: ingested
+    path: statutes/ors-81.263.md
 - chapter: '810'
   title: Road Authorities; Courts; Police; Other Enforcement Officials
   url: https://www.oregonlegislature.gov/bills_laws/ors/ors810.html
@@ -158881,3 +160373,31 @@ chapters:
     title: Penalty for failure to report, pay or deliver property under ORS
     status: ingested
     path: statutes/ors-98.992.md
+- chapter: '99'
+  title: Property Removed by High Water
+  url: https://www.oregonlegislature.gov/bills_laws/ors/ors099.html
+  sections:
+  - number: '99.010'
+    title: Procedure for reclaiming property placed on another’s land by high water
+    status: ingested
+    path: statutes/ors-99.010.md
+  - number: '99.020'
+    title: Oath of arbitrators
+    status: ingested
+    path: statutes/ors-99.020.md
+  - number: '99.030'
+    title: Procedure when five or more claimants
+    status: ingested
+    path: statutes/ors-99.030.md
+  - number: '99.040'
+    title: Entry to reclaim not a trespass
+    status: ingested
+    path: statutes/ors-99.040.md
+  - number: '99.050'
+    title: Recovery of any part of tree from private property
+    status: ingested
+    path: statutes/ors-99.050.md
+  - number: '99.060'
+    title: Effect of failure to remove logs from another’s land
+    status: ingested
+    path: statutes/ors-99.060.md
