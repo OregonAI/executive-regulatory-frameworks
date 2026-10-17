@@ -1,0 +1,2404 @@
+ 
+ 
+ 
+ Oregon Revised Statutes 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Oregon Revised Statutes 
+
+ 
+
+
+ Chapter
+725A — Short-Term Loans and Student Loan Servicing 
+
+   
+
+ 2025
+EDITION 
+
+   
+
+   
+
+ SHORT-TERM LOANS AND STUDENT LOAN
+SERVICING 
+
+   
+
+ CREDIT UNIONS; LENDING
+INSTITUTIONS; PAWNBROKERS 
+
+   
+
+ PAYDAY AND TITLE LOANS 
+
+   
+
+ (General Provisions) 
+
+   
+
+ 725A.010  Definitions 
+
+   
+
+ 725A.012  Application 
+
+   
+
+ (Licensing) 
+
+   
+
+ 725A.020  Licensing requirement 
+
+   
+
+ 725A.022  License application;
+contents; fee; rules 
+
+   
+
+ 725A.024  License application
+approval; license issuance; applicant qualifications; license denial; term of
+license; rules 
+
+   
+
+ 725A.026  Grounds for disapproving
+license application 
+
+   
+
+ 725A.028  License fee; other fees;
+rules 
+
+   
+
+ 725A.030  Annual report; contents;
+penalty; rules 
+
+   
+
+ 725A.032  Business name and
+location 
+
+   
+
+ 725A.034  License revocation and
+suspension 
+
+   
+
+ 725A.036  License reinstatement;
+fee 
+
+   
+
+ 725A.038  License surrender 
+
+   
+
+ 725A.040  Effect of license
+revocation, suspension or surrender 
+
+   
+
+ (Regulation) 
+
+   
+
+ 725A.050  Director’s power to
+examine or investigate; costs 
+
+   
+
+ 725A.052  Record keeping
+requirements 
+
+   
+
+ 725A.054  Duty to report
+defalcation; audit 
+
+   
+
+ 725A.056  Loan disclosure
+requirements; receipt; procedure after full loan repayment 
+
+   
+
+ 725A.058  Dissemination of false,
+misleading or deceptive statement 
+
+   
+
+ 725A.060  Prohibited conduct
+generally 
+
+   
+
+ 725A.062  Prohibited conduct for
+title loan lender 
+
+   
+
+ 725A.064  Prohibited conduct for
+payday loan lender 
+
+   
+
+ (Enforcement) 
+
+   
+
+ 725A.080  Complaint and
+administrative remedy 
+
+   
+
+ 725A.082  Cease and desist order 
+
+   
+
+ 725A.084  Suspension or removal of
+officer or director of licensee 
+
+   
+
+ 725A.086  Limitation of personal
+liability 
+
+   
+
+ (Miscellaneous) 
+
+   
+
+ 725A.090  Loan tracking and
+counseling system; rules; fees 
+
+   
+
+ 725A.092  Rules 
+
+   
+
+ STUDENT LOAN SERVICING 
+
+   
+
+ (General Provisions) 
+
+   
+
+ 725A.500  Definitions 
+
+   
+
+ 725A.503  Prohibition on servicing
+student loan without license; exceptions; powers of Director of Department of Consumer
+and Business Services; rules 
+
+   
+
+ (Licensing and Duties of Licensee) 
+
+   
+
+ 725A.506  Application for
+licensing; required contents; fee; bonding; power of director to issue, deny,
+revoke or refuse to renew license; date of expiration; rules 
+
+   
+
+ 725A.509  Duties of licensee;
+assumed business name 
+
+   
+
+ 725A.512  Requirement to maintain
+liquidity, operating reserves and tangible net worth; taking possession of
+licensee’s property for failure to meet requirement; appointment of receiver 
+
+   
+
+ 725A.515  Required notifications
+from licensee to director 
+
+   
+
+ 725A.518  Supervisory powers of
+director; examination of licensee; charge for costs of examination; multistate
+cooperation; rules 
+
+   
+
+ (Required Practices, Prohibitions
+and Enforcement) 
+
+   
+
+ 725A.521  Required practices under
+federal student loan agreement; prohibitions; exemptions 
+
+   
+
+ 725A.524  Investigation of
+complaints; confidentiality of materials obtained in investigation; exceptions;
+charge for costs of investigation 
+
+   
+
+ 725A.527  Violations; orders of
+director; remedies; civil penalties; charge for costs of proceeding 
+
+   
+
+ 725A.530  Ombudsman; duties; report
+to Legislative Assembly 
+
+   
+
+ PENALTIES 
+
+   
+
+ 725A.990  Penalties 
+
+   
+
+ PAYDAY AND TITLE LOANS 
+
+   
+
+ (General Provisions) 
+
+   
+
+       725A.010
+Definitions. As
+used in ORS 725A.010 to 725A.092 and 725A.990: 
+
+       (1)(a) “Broker or
+facilitator” means a person that conducts a business in which, for a fee or
+consideration, the person: 
+
+       (A) Processes,
+receives or accepts for delivery to a lender an application for a loan,
+individually or in conjunction or cooperation with another person; 
+
+       (B) Accepts and
+delivers to a lender all or most of the proceeds of a payment made in
+connection with a loan; or 
+
+       (C) Assists in
+making a loan in a material capacity other than as a lender. 
+
+       (b) “Broker or
+facilitator” does not include a mortgage broker, as defined in ORS 86A.100, a
+mortgage loan originator, as defined in ORS 86A.200, or an employee of a
+licensee. 
+
+       (2) “Earnings”
+means salary, wages or other compensation for service. 
+
+       (3)(a) “Lender”
+means an individual, corporation, association, firm, partnership, limited
+liability company or joint stock company that is engaged in the business of
+making loans. 
+
+       (b) “Lender” does
+not include a financial institution or a trust company, as those terms are
+defined in ORS 706.008. 
+
+       (4) “Licensee”
+means a person licensed under ORS 725A.024. 
+
+       (5) “Nationwide
+Multistate Licensing System” means a system that the Conference of State Bank
+Supervisors and the American Association of Residential Mortgage Regulators, or
+assignees of the Conference of State Bank Supervisors or the American
+Association of Residential Mortgage Regulators, develop and maintain for
+participating state agencies to use in licensing and registering mortgage loan
+originators, as defined in ORS 86A.200, and other persons that provide
+nondepository financial services. 
+
+       (6)(a) “Payday
+loan” means a loan of not more than $50,000, other than a purchase money loan,
+in which: 
+
+       (A) The primary
+purpose is personal, family or household use; 
+
+       (B) The loan
+agreement specifies a term of not more than 60 days or specifies that a payday
+loan lender may demand repayment within 60 days; and 
+
+       (C) The evidence
+of the loan is usually a check or electronic repayment agreement provided by or
+on behalf of the borrower. 
+
+       (b) “Payday loan”
+does not include a loan with a term longer than 60 days in which a lender may
+accelerate repayment if the borrower defaults. 
+
+       (7) “Payday loan
+lender” means a lender that is engaged in the business of making loans, at
+least 10 percent of which are payday loans. 
+
+       (8) “Title loan”
+means: 
+
+       (a) A loan of not
+more than $50,000, other than a purchase money loan, in which: 
+
+       (A) The title to
+a motor vehicle, recreational vehicle, boat or mobile home is security for the
+loan; 
+
+       (B) The loan
+agreement specifies a term of not more than 60 days and requires the borrower
+to repay the entire amount in a single payment; and 
+
+       (C) The lender is
+a title loan lender; 
+
+       (b) A loan of a
+type substantially equivalent to a loan described in paragraph (a) of this
+subsection that the Director of the Department of Consumer and Business
+Services designates by rule or order as a title loan; or 
+
+       (c) A
+sale-leaseback arrangement between a consumer and a purchaser for a motor
+vehicle, recreational vehicle, boat or mobile home in an amount that does not
+exceed $50,000 if: 
+
+       (A) The title and
+all rights to the motor vehicle, recreational vehicle, boat or mobile home do
+not transfer from the consumer to the purchaser in a bona fide sale of the
+motor vehicle, recreational vehicle, boat or mobile home or the consumer
+retains equity in the motor vehicle, recreational vehicle, boat or mobile home
+after the consumer’s sale to the purchaser; 
+
+       (B) The purchaser
+and the consumer agree within 60 days of the date on which the consumer sells
+the motor vehicle, recreational vehicle, boat or mobile home to the purchaser
+that the consumer has an option to or will repurchase the motor vehicle,
+recreational vehicle, boat or mobile home from the purchaser for a nominal
+price or a price other than the market value, determined at the time the lease
+expires, of the motor vehicle, recreational vehicle, boat or mobile home; 
+
+       (C) During the
+term in which the consumer leases the motor vehicle, recreational vehicle, boat
+or mobile home, the purchaser or an agent of the purchaser holds a check,
+electronic repayment agreement or other evidence of the consumer’s agreement to
+repurchase the motor vehicle, recreational vehicle, boat or mobile home that
+was provided by or on behalf of the consumer; or 
+
+       (D) The director
+by rule or order designates the sale-leaseback arrangement as a title loan. 
+
+       (9) “Title loan
+lender” means a lender that is engaged in the business of making loans, at
+least 10 percent of which are title loans. [2010 c.23 §1; 2019 c.106 §7] 
+
+   
+
+       725A.012
+Application. (1)
+ORS 725A.010 to 725A.092 and 725A.990 do not limit a person’s rights, powers or
+privileges under a law of this state or of the United States that regulates the
+person’s lending money or extending credit, provided that the person complies
+with the provisions of the law. 
+
+       (2) Except as
+otherwise provided in subsection (3) of this section, ORS 725A.010 to 725A.092
+and 725A.990 do not affect a loan made or payable in another jurisdiction and
+lawful where made or payable. 
+
+       (3)(a) A person
+is subject to ORS 725A.010 to 725A.092 and 725A.990 if in the person’s capacity
+as a lender the person makes a payday loan or title loan to a consumer who
+resides in or maintains a domicile in this state and the consumer: 
+
+       (A) Negotiates or
+agrees to the terms of the payday loan or title loan in person, by mail, by
+telephone or via the Internet while the consumer is physically present in this
+state; 
+
+       (B) Enters into
+or executes a contract with the person for a payday loan or title loan in
+person, by mail, by telephone or via the Internet while the consumer is
+physically present in this state; or 
+
+       (C) Makes a
+payment on the payday loan or title loan in this state. 
+
+       (b) For purposes
+of this subsection, a consumer makes a payment on a payday loan or title loan
+in this state if: 
+
+       (A) A person, for
+purposes of receiving or processing a payment on the payday loan or title loan,
+debits an account that the consumer holds in a branch of a financial
+institution that is located in this state; or 
+
+       (B) The consumer
+makes a payment on the payday loan or title loan with a negotiable instrument
+that is drawn on a financial institution that is, or a branch of which is,
+located in this state. [2010 c.23 §2] 
+
+   
+
+ (Licensing) 
+
+   
+
+       725A.020
+Licensing requirement. 
+(1)(a) Except as provided in ORS 82.010, 82.020 and 82.025 and subject to
+subsection (2) of this section, a person may not conduct business as a payday
+loan lender or a title loan lender unless the person obtains a license under
+ORS 725A.024. 
+
+       (b) A person may
+not act as an agent, broker or facilitator for making a payday loan or title
+loan unless the person obtains a license under ORS 725A.024, regardless of
+whether the principal that makes the payday loan or title loan must obtain a
+license under paragraph (a) of this subsection. 
+
+       (2) If at the
+time a person made a payday loan or title loan the person did not have a
+license from the Director of the Department of Consumer and Business Services
+under ORS 725A.024, the payday loan or title loan is void, and the person, or a
+successor, assignee or affiliate of the person, may not deposit a borrower’s or
+consumer’s check, withdraw moneys from a borrower’s or consumer’s account or
+otherwise collect, receive or retain principal, interest, a fee or a charge
+related to or in connection with the payday loan or title loan. 
+
+       (3) Subsection
+(1) of this section does not apply to a person that does not collect a fee or
+consideration in connection with a payday loan or title loan or an application
+for a payday loan or title loan and: 
+
+       (a) Does not
+interact directly with a borrower or consumer; 
+
+       (b) Acts solely
+as an intermediary between the borrower or consumer and a lender or a person
+that conducts business as a broker or facilitator for a payday loan or title
+loan; 
+
+       (c) Transmits
+information, electronically or otherwise, concerning the borrower or consumer
+to a lender or a person that conducts business as a broker or facilitator for a
+payday loan or title loan; or 
+
+       (d) Prepares,
+issues or delivers a negotiable instrument to a lender or a person that
+conducts business as a broker or facilitator for a payday loan or title loan,
+for subsequent delivery to a borrower or consumer. 
+
+       (4) The director
+by order may determine whether and how a person may collect principal,
+interest, a fee or a charge related to or in connection with a payday loan or
+title loan if the director determines that a license the director issued under
+ORS 725A.024 lapsed inadvertently or by mistake. [2010 c.23 §3; 2015 c.490 §2] 
+
+   
+
+       725A.022
+License application; contents; fee; rules. (1) An applicant for a license as a payday loan
+lender or a title loan lender shall apply to the Director of the Department of
+Consumer and Business Services in writing on a form and in a manner that the
+director prescribes by rule. An application for a license as a payday loan
+lender or a title loan lender must: 
+
+       (a) List the
+applicant’s name, residence address and business address; 
+
+       (b) Name and list
+the residence address and business address for the applicant’s officers and
+directors, if the applicant is a corporation, or for the applicant’s members,
+if the applicant is a partnership, limited liability company or other
+association; 
+
+       (c) Identify the
+county and city in which, and the street address, if any, at which the
+applicant will conduct business; and 
+
+       (d) Provide other
+information the director requires. 
+
+       (2)(a) At the
+time the applicant submits an application under this section, the applicant
+shall pay to the director a license fee in an amount the director sets under
+ORS 725A.028. Except as provided in paragraph (b) of this subsection, the
+license fee is not refundable. 
+
+       (b) If the
+director for cause does not issue a license or if the applicant withdraws the
+application after the director has investigated the applicant, the director
+shall refund the license fee, less an amount the director retains to pay the
+administrative and investigative costs the director incurred in connection with
+the application. [2010 c.23 §4] 
+
+   
+
+       725A.024
+License application approval; license issuance; applicant qualifications;
+license denial; term of license; rules. (1)(a) Within 90 days after receiving an application
+under ORS 725A.022, the Director of the Department of Consumer and Business
+Services shall issue and deliver to the applicant a license to conduct business
+in accordance with ORS 725A.010 to 725A.092 at the location identified in the
+application if the director finds that: 
+
+       (A) The applicant
+and the applicant’s members, if the applicant is a partnership, limited
+liability company or other association, or the applicant’s officers and
+directors, if the applicant is a corporation, have the financial
+responsibility, experience, character and general fitness necessary to command
+the confidence of the community and to warrant the belief that the applicant
+will operate the business honestly, fairly and efficiently and in compliance
+with the provisions of ORS 725A.010 to 725A.092. 
+
+       (B) The applicant
+has paid the fee required under ORS 725A.022. 
+
+       (C) Grounds do
+not exist under ORS 725A.026 to disapprove the application. 
+
+       (D) Other reasons
+or conditions that would warrant the director’s refusal to issue a license do
+not exist. 
+
+       (b) The director,
+consistent with the requirements of ORS 725A.010 to 725A.092, may issue a
+license under this section by means of an agreement with the Nationwide
+Multistate Licensing System and may, by rule, conform the practices, procedures
+and information that the Department of Consumer and Business Services uses to
+issue a license to the requirements of the Nationwide Multistate Licensing
+System. 
+
+       (2) An applicant
+may not become a licensee under this section unless the applicant is legally
+qualified to conduct business in this state. 
+
+       (3)(a) The
+director shall disapprove an application and deny the applicant a license if
+the director finds that the applicant does not meet the standard set forth in
+subsection (1)(a)(A) of this section or has not paid the required application
+fee or that grounds, reasons or conditions described in subsection (1)(a)(B),
+(C) or (D) of this section exist and warrant the director’s disapproval and
+denial. 
+
+       (b) If the
+director disapproves an application or denies the applicant a license under
+paragraph (a) of this subsection, the director shall notify the applicant
+immediately and shall state the director’s reasons for the disapproval or
+denial. 
+
+       (4)(a) The
+director by rule shall prescribe the form of the license the director issues
+under this section. At a minimum, the director shall require the license to
+display the licensee’s full name and the address at which the licensee conducts
+business. 
+
+       (b) A license the
+director issues under this section: 
+
+       (A) Is not
+transferable or assignable; and 
+
+       (B) Remains in
+full force and effect until: 
+
+       (i) The director
+revokes or suspends the license in accordance with ORS 725A.034; or 
+
+       (ii) The licensee
+surrenders the license in accordance with ORS 725A.038. 
+
+       (5) The director
+may issue more than one license to the same licensee if the director finds that
+for each additional license the licensee meets the qualifications set forth in
+this section. Each license the director issues must be for a separate and distinct
+place in which the licensee conducts business in accordance with ORS 725A.010
+to 725A.092. [2010 c.23 §5; 2019 c.106 §8] 
+
+   
+
+       725A.026
+Grounds for disapproving license application. (1) The Director of the Department of Consumer and
+Business Services may disapprove an application submitted under ORS 725A.022
+and deny a license to the applicant if a person named in the application: 
+
+       (a) Cannot meet
+financial obligations as the obligations mature, has liabilities that exceed
+assets or is in a financial condition that prevents the person from conducting
+business with safety to consumers; 
+
+       (b) Engaged in
+dishonest, fraudulent or illegal practices or conduct in a business or
+profession; 
+
+       (c) Failed to
+comply with or knowingly or repeatedly violated a provision of or a rule
+adopted under the Bank Act, ORS chapter 723, 725 or 726 or ORS 725A.010 to
+725A.092 and 725A.990; 
+
+       (d) Was convicted
+of a crime, an essential element of which is fraud; 
+
+       (e) Is
+permanently or temporarily enjoined by a court of competent jurisdiction from
+engaging in or continuing a practice or conduct in connection with making
+payday loans, title loans or consumer loans; or 
+
+       (f) Is subject to
+an order in which: 
+
+       (A) The director
+imposed a fine or other civil penalty on the person under the Bank Act, ORS
+chapter 723, 725 or 726 or ORS 725A.010 to 725A.092 and 725A.990; 
+
+       (B) The director
+removed the person from an office in an entity regulated under the Bank Act,
+ORS chapter 723 or 725 or ORS 725A.010 to 725A.092 and 725A.990; or 
+
+       (C) A state or
+federal agency with authority over banking institutions, savings associations,
+credit unions or consumer finance companies, within a five-year period before
+the applicant submitted an application under ORS 725A.022: 
+
+       (i) Imposed a
+fine or other civil penalty on the person; or 
+
+       (ii) Removed the
+person from an office in a state banking institution, a national bank, a state
+or federal savings association, a state or federal credit union or a consumer
+finance company. 
+
+       (2) If the
+director denies a license to an applicant under this section, the director
+shall provide the applicant with a reasonable opportunity for a hearing under
+ORS chapter 183. [2010 c.23 §6] 
+
+   
+
+       725A.028
+License fee; other fees; rules. 
+(1) A licensee each year shall pay to the Director of the Department of
+Consumer and Business Services a license fee in an amount the director
+specifies by rule. The licensee shall pay the fee not later than the date the
+director sets in the rule. 
+
+       (2) The director
+shall specify the amount of the fee described in subsection (1) of this section
+after considering: 
+
+       (a) The amount of
+other moneys available for the director to use in performing the director’s
+duties; 
+
+       (b) The costs the
+director will incur in performing the director’s duties in the year in which
+the director will collect the fee; and 
+
+       (c) The amount
+the director needs to establish and maintain a reasonable emergency fund. 
+
+       (3) In addition
+to any license fee the director collects under subsection (1) of this section,
+whenever the director devotes extra attention to a licensee’s affairs, either
+when the licensee requests the attention or the director determines that the
+extra attention is necessary, the director shall charge as a fee for the extra
+attention the actual cost the director incurs. [2010 c.23 §7] 
+
+   
+
+       725A.030
+Annual report; contents; penalty; rules. (1) On or before February 15 of each year, or on a
+date the Director of the Department of Consumer and Business Services
+establishes by rule, a licensee shall file a report with the director in a form
+and with the content the director prescribes by rule. The report must contain
+information the director requires concerning the licensee’s business and the
+operations at each place of business in which the licensee conducts business in
+this state during the preceding calendar year under the terms of a license issued
+under ORS 725A.024. 
+
+       (2) The director
+may assess against a licensee a penalty of $10 for each day after February 15,
+or after the date the director specifies in subsection (1) of this section,
+during which the licensee fails to file a report required under this section. [2010
+c.23 §8] 
+
+   
+
+       725A.032
+Business name and location. 
+(1) A licensee may not conduct a business that is subject to ORS 725A.010 to
+725A.092 and 725A.990 except under the name and at the place of business named
+in the license. The licensee at all times shall display the license
+conspicuously in the licensee’s place of business. 
+
+       (2) A licensee
+that changes the location at which the licensee conducts business as a payday
+loan lender or title loan lender shall notify the Director of the Department of
+Consumer and Business Services in writing and return the licensee’s license.
+The director shall amend the license to reflect the new location and return the
+amended license to the licensee. 
+
+       (3) The director
+may allow the licensee to change the location in which the licensee conducts
+business as a payday loan lender or title loan lender to a location outside the
+city named in the original license only if the director determines that the new
+location will serve substantially the same community that the location named in
+the original license served. 
+
+       (4) If the
+director disapproves the proposed new location, the director shall immediately
+notify the licensee of the disapproval and return the license unchanged to the
+licensee. [2010 c.23 §9] 
+
+   
+
+       725A.034
+License revocation and suspension. 
+(1) The Director of the Department of Consumer and Business Services may revoke
+a license issued under ORS 725A.024 if the director: 
+
+       (a) Gives the
+licensee 10 days’ written notice in which the director specifies the action the
+director will take and the general grounds for the action; 
+
+       (b) Provides the
+licensee with reasonable opportunity for a hearing under ORS chapter 183 in
+connection with the action; and 
+
+       (c) Finds that: 
+
+       (A) The licensee
+failed to pay the annual license fee; 
+
+       (B) The licensee
+failed to comply with a demand, ruling or requirement the director made under
+ORS 725A.010 to 725A.092 and 725A.990; 
+
+       (C) The licensee,
+if the licensee is a corporation, failed to keep the corporation in good
+standing under applicable provisions of law; 
+
+       (D) The licensee
+violated a provision of ORS 725A.010 to 725A.092 and 725A.990 or a rule the
+director adopted under ORS 725A.010 to 725A.092 and 725A.990; or 
+
+       (E) A fact or
+condition exists that clearly would have warranted the director’s refusing to
+issue the license had the fact or condition existed at the time the licensee
+submitted an application under ORS 725A.022. 
+
+       (2) The director,
+without notice or hearing, may suspend a license for a period not exceeding 30
+days, pending investigation. The director shall provide the licensee with a
+reasonable opportunity for a hearing under ORS chapter 183 if the director
+proposes to suspend a license for a period longer than 30 days. 
+
+       (3) The director
+may revoke or suspend only the particular license with respect to which grounds
+for revocation or suspension exist. If the director finds that grounds for
+revoking or suspending a license exist with respect to more than one of the
+locations in which a licensee operates, the director may revoke or suspend the
+license issued to the licensee for each location with respect to which grounds
+for revocation or suspension exist. [2010 c.23 §10] 
+
+   
+
+       725A.036
+License reinstatement; fee. 
+The Director of the Department of Consumer and Business Services may reinstate
+a license the director revoked if the licensee: 
+
+       (1) Complies with
+applicable provisions of law; 
+
+       (2) Complies with
+a demand, ruling or requirement the director issues or imposes; and 
+
+       (3) Pays a fee of
+$25. [2010 c.23 §11] 
+
+   
+
+       725A.038
+License surrender. 
+(1) A licensee may deliver a written notice to the Director of the Department
+of Consumer and Business Services to surrender a license the director issued to
+the licensee under ORS 725A.024. 
+
+       (2)(a) A licensee
+shall surrender a license under which no material loan activity has occurred
+for a period of 12 consecutive months. 
+
+       (b) For purposes
+of this subsection, “material loan activity” includes a new loan, a loan that
+refinances an existing loan or a formal extension of existing loan repayment
+provisions for more than 30 days. 
+
+       (3) A licensee’s
+surrendering a license under subsection (1) or (2) of this section does not
+affect the licensee’s civil or criminal liability for acts the licensee
+committed before surrendering the license. [2010 c.23 §12] 
+
+   
+
+       725A.040
+Effect of license revocation, suspension or surrender. Revocation, suspension or
+surrender of a license issued under ORS 725A.024 does not impair or affect the
+rights or obligations specified in a lawful contract between the licensee and a
+borrower that existed before the revocation, suspension or surrender. [2010
+c.23 §13] 
+
+   
+
+ (Regulation) 
+
+   
+
+       725A.050
+Director’s power to examine or investigate; costs. (1) The Director of the Department
+of Consumer and Business Services, to secure information the director requires
+and to ensure compliance with ORS 725A.010 to 725A.092 and 725A.990 and rules
+the director adopts under ORS 725A.010 to 725A.092 and 725A.990: 
+
+       (a) May at any
+time investigate a licensee or a person required under ORS 725A.020 to obtain a
+license. 
+
+       (b) Shall examine
+a licensee not less than once every two years and may inspect and examine the
+licensee at other times that the director determines are necessary. 
+
+       (2) For purposes
+of subsection (1) of this section: 
+
+       (a) A licensee or
+a person required to obtain a license as a payday loan lender or title loan
+lender is subject to inspection and shall give the director free access to the
+licensee’s or person’s place of business, books, accounts, records, files,
+safes and vaults. 
+
+       (b) The director
+may: 
+
+       (A) Conduct an
+investigation or examination without prior notice to the person the director
+investigates or examines. 
+
+       (B) Compel the
+attendance of a witness or other person from whom the director requires
+testimony necessary to conduct an investigation or examination and examine the
+witness or person under oath. 
+
+       (C) Require a
+licensee or a person required to obtain a license as a payday loan lender or
+title loan lender to produce books, accounts, records, files or other
+documents. 
+
+       (c) A person may
+not knowingly give or cause to be given to the director a document or an oral
+or written statement or report that is false in any material respect. 
+
+       (3) If the
+director investigates or examines under this section a licensee or a person
+required to obtain a license as a payday loan lender or title loan lender, the
+licensee or person shall pay the director for the actual cost of the
+investigation or examination. The director may maintain an action to recover
+the cost in a court of competent jurisdiction. [2010 c.23 §14] 
+
+   
+
+       725A.052
+Record keeping requirements. 
+The Director of the Department of Consumer and Business Services may specify
+the form and content of the books and records the licensee must keep in
+accordance with the provisions of ORS 725A.010 to 725A.092 and 725A.990. The
+licensee shall preserve and make available the books and records for a period
+of at least two years after the licensee makes the final entry in connection
+with a loan or account recorded in the book or record. [2010 c.23 §15] 
+
+   
+
+       725A.054 Duty
+to report defalcation; audit. 
+(1) A director or officer of a licensee who has reason to believe that a
+defalcation has occurred at an office of the licensee shall report the
+defalcation to the local, state or federal law enforcement officer with
+jurisdiction. 
+
+       (2) A licensee,
+within five days after the discovery of a defalcation that occurs at an office
+of the licensee, shall notify the Director of the Department of Consumer and
+Business Services. If the director instructs the licensee to do so, the
+licensee shall cause an audit to be made of the business of the licensed office
+where the defalcation occurred, in accordance with the director’s instructions. 
+
+       (3) The Director
+of the Department of Consumer and Business Services may report a defalcation to
+a federal, state or local law enforcement agency with jurisdiction if the
+licensee has not reported the defalcation in accordance with subsection (1) of
+this section. [2010 c.23 §16] 
+
+   
+
+       725A.056 Loan
+disclosure requirements; receipt; procedure after full loan repayment. A licensee shall: 
+
+       (1) Deliver to
+the borrower at the time the licensee makes a loan a statement in the English
+language that shows in clear and distinct terms: 
+
+       (a) The borrower’s
+and the licensee’s names and addresses. 
+
+       (b) The amount of
+the loan, the date on which the licensee made the loan and the maturity of or
+payment terms for the loan. 
+
+       (c) The interest
+rate to which the licensee and borrower agreed and the consideration the
+licensee will charge for the loan. 
+
+       (d) The nature of
+the security for the loan, if the licensee has taken a lien on personal
+property by chattel mortgage, bill of sale, collateral agreement or otherwise. 
+
+       (2) Make
+available to the borrower upon request a plain and complete receipt for all
+payments the borrower made on a loan at the time the licensee receives the
+payments. The receipt must: 
+
+       (a) Specify the
+amount, if any, that the licensee applied toward interest; 
+
+       (b) Identify the
+date to which the interest is paid; 
+
+       (c) Specify the
+amount, if any, the licensee applied toward principal; and 
+
+       (d) State the
+unpaid principal balance for the loan, if a principal balance remains. 
+
+       (3) Permit a
+borrower at any time to pay any amount in advance on any loan. 
+
+       (4) Mark the word
+“Paid” or “Renewed” indelibly on the note, or on other evidence of the debt or
+obligation that bears the borrower’s signature, whenever the borrower pays the
+loan in full or renews the loan. If the borrower repays the loan in full, the
+licensee shall also: 
+
+       (a) Release a
+mortgage or security agreement that no longer secures the loan and restore any
+security or collateral, to the extent and in the manner required by law. 
+
+       (b) Release a
+Uniform Commercial Code filing that no longer secures the loan, to the extent
+and in the manner required under ORS 79A.5130. 
+
+       (c) Return any
+assignment the borrower gave. 
+
+       (d) Return to the
+borrower the canceled note or other evidence of the loan or, alternatively,
+acknowledge to the borrower in writing that the borrower has repaid the loan. [2010
+c.23 §17] 
+
+   
+
+       725A.058
+Dissemination of false, misleading or deceptive statement. A licensee or other person may not
+advertise, print, display, publish, distribute or broadcast or cause or permit
+to be advertised, printed, displayed, published, distributed or broadcast in
+any manner whatsoever a statement or representation that is false, misleading
+or deceptive with respect to a rate, term or condition for a payday loan or
+title loan. [2010 c.23 §18] 
+
+   
+
+       725A.060
+Prohibited conduct generally. 
+(1) A licensee or a person required under ORS 725A.020 to obtain a license may
+not: 
+
+       (a) Take from a
+consumer: 
+
+       (A) A power of
+attorney, except a power of attorney to transfer ownership of a motor vehicle
+at the time the licensee or the person makes a loan secured by a motor vehicle. 
+
+       (B) A note or
+promise to pay that does not accurately disclose the actual amount or the term
+of the loan, the rate of interest charged and the schedule of payments for the
+loan. 
+
+       (C) An instrument
+in which blank spaces remain to be filled in after execution. 
+
+       (D) An assignment
+of earnings as payment or as security for a loan. An assignment that violates
+this subparagraph is unenforceable by the assignee and revocable by the
+assignor. For purposes of this subparagraph, if the licensee or the person pays
+money to or on behalf of a consumer in return for a right or claim to all or a
+portion of the consumer’s unpaid earnings, the licensee or the person has made
+a loan to the consumer that is secured by an assignment of earnings. This
+subparagraph does not preclude an employee from authorizing deductions from the
+employee’s earnings if the authorization is revocable. 
+
+       (b) Conduct
+business where liquor or lottery tickets are sold or where gambling devices are
+located. 
+
+       (c) Charge a
+consumer: 
+
+       (A) More than the
+actual amount that the vendor or service provider charges the licensee or the
+person for access to or use of the system described in ORS 725A.090; or 
+
+       (B) More than one
+fee per loan transaction for dishonored checks or insufficient funds,
+regardless of how many checks or debit agreements the licensee or the person
+obtains from the consumer for the transaction. The fee may not exceed $20. 
+
+       (d) Collect a fee
+for a dishonored check under ORS 30.701 or seek or recover statutory damages or
+attorney fees from a consumer for a dishonored check under ORS 30.701. The
+licensee or the person may recover from the consumer a fee that an unaffiliated
+financial institution charges to the licensee or the person for each dishonored
+check. For a dishonored check or insufficient funds, the fees described in this
+subsection are the only remedy the licensee or the person may pursue and the
+only fees the licensee or the person may charge. 
+
+       (e) Make a loan
+to a consumer who has not fully repaid an outstanding payday loan or title
+loan. This paragraph does not prohibit a licensee or person from renewing an
+existing payday loan or title loan as provided in ORS 725A.010 to 725A.092 and
+725A.990. 
+
+       (2) The
+provisions of ORS 725A.010 to 725A.092 and 725A.990 do not prevent a licensee
+or a person required under ORS 725A.020 to obtain a license from recovering
+amounts associated with collecting a defaulted loan that are authorized by
+statute or awarded by a court of law. [2010 c.23 §19; 2019 c.188 §1] 
+
+   
+
+       725A.062
+Prohibited conduct for title loan lender. A title loan lender may not: 
+
+       (1) Make or renew
+a title loan at a rate of interest that exceeds 36 percent per annum, excluding
+a one-time origination fee that the title loan lender may charge for the loan. 
+
+       (2) Charge during
+the term of a title loan, including all renewals of the loan, more than one
+origination fee of $10 per $100 of the loan amount or $30, whichever is less. 
+
+       (3) Make or renew
+a title loan for a term of less than 31 days. 
+
+       (4) Make or renew
+a title loan to a consumer without forming a good faith belief that the
+consumer has the ability to repay the title loan. In forming a good faith
+belief, the title loan lender shall consider factors that the Director of the
+Department of Consumer and Business Services specifies by rule. A title loan
+lender complies with this subsection if the title loan lender meets the
+conditions the director specifies. 
+
+       (5) Charge a
+consumer a fee or interest other than a fee or interest described in subsection
+(1) or (2) of this section or in ORS 725A.060 (1)(c) or (d). 
+
+       (6) Include in a
+title loan contract: 
+
+       (a) A
+hold-harmless clause; 
+
+       (b) A confession
+of judgment or other waiver of the right to notice and the opportunity to be
+heard in an action; 
+
+       (c) A provision
+in which the consumer agrees not to assert against the lender or a holder in
+due course a claim or defense arising out of the contract; 
+
+       (d) An executory
+waiver or a limitation of exemption from attachment, execution or other process
+on real or personal property the consumer holds, owns or is due, unless the
+waiver or limitation applies only to property that is subject to a security
+interest executed in connection with the loan; or 
+
+       (e) A clause that
+permits interest to continue after the consumer’s motor vehicle, recreational
+vehicle, boat or mobile home has been repossessed. 
+
+       (7) Require or
+accept from a consumer a set of keys to the motor vehicle, recreational
+vehicle, boat or mobile home the title to which secures the title loan. 
+
+       (8) Make more
+than one outstanding title loan that is secured by one title. 
+
+       (9) Renew an
+existing title loan that is secured by one title more than two times after the
+loan is first made. 
+
+       (10) Make a new
+title loan to a consumer within seven days after the date on which the consumer
+fully repays a previous title loan. [2010 c.23 §20; 2019 c.188 §2] 
+
+   
+
+       725A.064
+Prohibited conduct for payday loan lender. A payday loan lender may not: 
+
+       (1) Make or renew
+a payday loan at a rate of interest that exceeds 36 percent per annum,
+excluding a one-time origination fee that the payday loan lender may charge for
+the loan. 
+
+       (2) Charge during
+the term of a payday loan, including all renewals of the loan, more than one
+origination fee of $10 per $100 of the loan amount or $30, whichever is less. 
+
+       (3) Make or renew
+a payday loan for a term of less than 31 days. 
+
+       (4) Charge a
+consumer a fee or interest other than a fee or interest described in subsection
+(1) or (2) of this section or in ORS 725A.060 (1)(c) or (d). 
+
+       (5) Include in a
+payday loan contract: 
+
+       (a) A
+hold-harmless clause; 
+
+       (b) A confession
+of judgment or other waiver of the right to notice and the opportunity to be
+heard in an action; 
+
+       (c) A provision
+in which the consumer agrees not to assert against the lender or a holder in
+due course a claim or defense arising out of the contract; or 
+
+       (d) An executory
+waiver or a limitation of exemption from attachment, execution or other process
+on real or personal property the consumer holds, owns or is due, unless the
+waiver or limitation applies only to property that is subject to a security
+interest executed in connection with the loan. 
+
+       (6) Renew an
+existing payday loan more than two times. 
+
+       (7) Make a new
+payday loan to a consumer within seven days after the date on which the
+consumer fully repays a previous payday loan. [2010 c.23 §21; 2019 c.188 §3] 
+
+   
+
+ (Enforcement) 
+
+   
+
+       725A.080
+Complaint and administrative remedy. 
+(1) A person who claims to be aggrieved by a practice that violates a provision
+of ORS 725A.020, 725A.060, 725A.062 or 725A.064 or a rule adopted under ORS
+725A.092 that regulates a licensee or a person required under ORS 725A.020 to
+obtain a license may, not later than one year after the date of the alleged
+violation, file with the Director of the Department of Consumer and Business
+Services a verified written complaint. The complaint must state the name and
+address of the licensee or the person alleged to have committed the unlawful
+practice and the particulars of the alleged unlawful practice. The director may
+require the complaint to set forth other information that the director
+considers pertinent. 
+
+       (2) A title loan
+lender shall state in every contract for a title loan, in a type size equal to
+at least 12-point type, that the consumer or the consumer’s attorney may file a
+complaint with the director as provided in this section. 
+
+       (3) After
+receiving a complaint under this section, the director may, under ORS 725A.050,
+investigate the unlawful practice and the licensee or the person alleged in the
+complaint to have committed the unlawful practice. [2010 c.23 §22] 
+
+   
+
+       725A.082 Cease
+and desist order. 
+(1) If the Director of the Department of Consumer and Business Services has
+reasonable cause to believe that a person violated, is violating or is about to
+violate a provision of ORS 725A.010 to 725A.092 and 725A.990 or a rule the
+director adopted or an order the director issued under ORS 725A.010 to 725A.092
+and 725A.990, the director may order the person to cease and desist from the
+violation. 
+
+       (2) The director,
+in an order the director issues under subsection (1) of this section, shall: 
+
+       (a) State the
+facts constituting the violation; 
+
+       (b) Require the
+person named in the order to cease and desist from the violation or to meet
+specific conditions; 
+
+       (c) State the
+effective date of the order; and 
+
+       (d) Advise the
+person named in the order that the person has a right to a contested case
+hearing under ORS chapter 183. 
+
+       (3) An order
+under this section is effective 30 days after the date of the order, unless the
+person named in the order requests a hearing on the order, and remains in
+effect until the director or a court withdraws the order. 
+
+       (4) If an
+individual named in an order under this section fails to comply with the order,
+in addition to imposing a penalty under ORS 725A.990, the director may issue an
+order to remove or suspend the individual from the individual’s office or
+position. [2010 c.23 §23] 
+
+   
+
+       725A.084
+Suspension or removal of officer or director of licensee. (1) If the Director of the
+Department of Consumer and Business Services finds that an officer or director
+of a licensee is dishonest, reckless or incompetent or refuses to comply with
+the law, with a rule the Department of Consumer and Business Services adopted
+or with a written requirement or instruction the department imposed or issued,
+the Director of the Department of Consumer and Business Services may order the
+licensee to suspend the licensee’s officer or director from the officer or
+director’s office or position. 
+
+       (2) The Director
+of the Department of Consumer and Business Services, for any of the reasons set
+forth in ORS 725A.026, may order a licensee to remove an officer or director of
+the licensee from office. [2010 c.23 §24] 
+
+   
+
+       725A.086
+Limitation of personal liability. 
+A person is not personally liable for an act the person does or fails to do in
+good faith and in compliance with a rule or order the Director of the
+Department of Consumer and Business Services adopted or issued under ORS
+725A.010 to 725A.092 and 725A.990, even if the director amends or rescinds the
+rule or order or a judicial or other authority determines that the rule or
+order is invalid. [2010 c.23 §25] 
+
+   
+
+ (Miscellaneous) 
+
+   
+
+       725A.090 Loan
+tracking and counseling system; rules; fees. (1)(a) The Director of the Department of Consumer and
+Business Services, by contract with a vendor or service provider or otherwise,
+may develop and implement a system by means of which a licensee may: 
+
+       (A) Determine
+whether a consumer has an outstanding loan; 
+
+       (B) Determine the
+number of loans the consumer has outstanding; 
+
+       (C) Determine the
+dates on which the consumer entered into or renewed a loan contract subject to
+ORS 725A.010 to 725A.092 and 725A.990; 
+
+       (D) Provide loan
+counseling to consumers in accordance with standards the director specifies;
+and 
+
+       (E) Obtain other
+information necessary to comply with the provisions of ORS 725A.010 to 725A.092
+and 725A.990. 
+
+       (b) The director
+by rule may specify the form and content of the system, but shall ensure at a
+minimum that the information entered into or stored by the system is: 
+
+       (A) Accessible to
+and usable by licensees and the director from any location in this state; and 
+
+       (B) Secured
+against public disclosure, tampering, theft or unauthorized acquisition or use. 
+
+       (2) The
+information in the system described in subsection (1) of this section is not
+subject to public inspection or disclosure and is not subject to discovery,
+subpoena or other compulsory process except in an action brought under ORS
+725A.010 to 725A.092 and 725A.990. 
+
+       (3) A vendor or
+service provider that operates or administers the system described in
+subsection (1) of this section may charge a licensee a fee or fees for access
+to or use of the system in amounts that the director approves by rule. The
+licensee may not charge a consumer, directly or indirectly, any amount to
+recover or otherwise compensate for the cost of a fee the licensee pays under
+this subsection. 
+
+       (4)(a) If the
+system described in subsection (1) of this section is developed and
+implemented, licensees subject to ORS 725A.010 to 725A.092 and 725A.990, within
+one business day after conducting a loan transaction that generates information
+that the system described in subsection (1) of this section requires, shall
+enter or update the information. 
+
+       (b) A licensee,
+after the date on which the licensee ceases to make loans subject to ORS
+725A.010 to 725A.092 and 725A.990, shall continue to enter and update
+information for loans that are outstanding or that have not yet expired. 
+
+       (c) Within 10
+business days after ceasing to make loans subject to ORS 725A.010 to 725A.092
+and 725A.990, a licensee shall submit to the director for approval a plan for
+continuing compliance with this subsection. The director shall promptly approve
+or disapprove the plan and may require the licensee to submit a new or modified
+plan that ensures compliance with this subsection. 
+
+       (5) The director
+by rule shall establish requirements for retaining, archiving and deleting
+information entered into or stored by the system described in subsection (1) of
+this section. [2010 c.23 §26; 2017 c.215 §1] 
+
+   
+
+       725A.092
+Rules. (1) The
+Director of the Department of Consumer and Business Services, in accordance
+with ORS chapter 183, may adopt rules for the purposes of protecting borrowers
+and consumers, providing clarity to licensees and otherwise carrying out and
+enforcing the provisions of ORS 725A.010 to 725A.092 and 725A.990. The rules
+may include, but are not limited to, provisions that establish loan forms,
+terms, charges and fees. 
+
+       (2) Before the
+director adopts a rule under subsection (1) of this section, the director shall
+submit a copy of the rule to each licensee. 
+
+       (3) The director
+may institute an action or proceeding and make a specific ruling, demand or
+finding that the director considers necessary to carry out or enforce a
+provision of ORS 725A.010 to 725A.092 and 725A.990 or a rule the director
+adopted, an order the director issued or an action the director took to carry
+out or enforce the provisions of ORS 725A.010 to 725A.092 and 725A.990. [2010
+c.23 §27] 
+
+   
+
+ STUDENT LOAN SERVICING 
+
+   
+
+ (General Provisions) 
+
+   
+
+       725A.500
+Definitions. As
+used in ORS 725A.500 to 725A.530: 
+
+       (1) “Affiliate”
+means a person that controls, is controlled by or is under common control with
+another person. 
+
+       (2) “Applicant”
+means a person that applies for a license to engage in business as a student
+loan servicer in this state. 
+
+       (3) “Borrower”
+means a resident of this state who has received or agreed to pay a student loan
+or another person who shares responsibility with the resident for repaying a
+student loan. 
+
+       (4) “Branch
+office” means a location at which a business entity services a student loan
+other than the business entity’s headquarters or principal place of business. 
+
+       (5) “Business
+entity” means a corporation, limited liability company, partnership, limited
+partnership, business trust, joint venture or other form of business
+organization the constituent parts of which share a common economic interest. 
+
+       (6) “Controller”
+means: 
+
+       (a) A director,
+officer or general partner of a business entity; 
+
+       (b) A managing
+member of a limited liability company; 
+
+       (c) A person that
+has a direct or indirect right to vote 10 percent or more of the securities of
+a business entity that have voting rights or the power to sell or cause the
+sale of 10 percent or more of any class of a business entity’s securities; 
+
+       (d) A person that
+has contributed 10 percent or more to a partnership’s capital or has the right
+to receive a distribution of 10 percent or more of a partnership’s capital or
+assets upon dissolution; or 
+
+       (e) A person
+that, under the terms of a contract or because the person has an ownership
+interest in another person, has the power to manage or set policies for the
+other person or otherwise direct the other person’s operations or affairs. 
+
+       (7) “Licensee”
+means a person that has applied for and obtained or renewed a license from the
+Director of the Department of Consumer and Business Services to engage in
+business as a student loan servicer in this state. 
+
+       (8) “Manager”
+means an individual who has supervisory authority over employees and operations
+at a business entity’s branch office or other business location. 
+
+       (9) “Person”
+means an individual or a business entity. 
+
+       (10) “Service a
+student loan” means to: 
+
+       (a) Receive a
+scheduled periodic payment from a borrower under the terms of a student loan; 
+
+       (b) Apply
+payments of principal and interest and other payments from a borrower in
+accordance with the terms of a student loan; or 
+
+       (c) Perform other
+administrative services with respect to a student loan including, but not
+limited to, performing any of the following actions during periods in which a
+payment on a student loan is not due: 
+
+       (A) Maintaining
+account records for the student loan; 
+
+       (B) Communicating
+with the borrower about the student loan on behalf of the lender; or 
+
+       (C) Interacting
+with a borrower to prevent a default on a student loan or to enable the
+activities described in paragraphs (a) and (b) of this subsection. 
+
+       (11) “Student
+loan” means a loan the proceeds of which a borrower uses primarily for personal
+use to pay education expenses or other school-related expenses. [2021 c.651 §1] 
+
+   
+
+       725A.503
+Prohibition on servicing student loan without license; exceptions; powers of
+Director of Department of Consumer and Business Services; rules. (1) A person may not directly or
+indirectly service a student loan in this state unless the person obtains or
+renews a license under ORS 725A.506. 
+
+       (2) Subsection
+(1) of this section does not apply to: 
+
+       (a) A financial
+institution, as defined in ORS 706.008. 
+
+       (b) A financial
+holding company or bank holding company, both as defined in ORS 706.008, if the
+financial holding company or bank holding company does no more than control an
+affiliate or subsidiary, as defined in 12 U.S.C. 1841(d), and does not engage in
+business as a student loan servicer. 
+
+       (c) An attorney
+who is licensed or otherwise authorized to practice law in this state if the
+attorney services a student loan only incidentally in the course of practicing
+law. 
+
+       (d) A public
+body, as defined in ORS 174.109. 
+
+       (e) A public
+university listed in ORS 352.002. 
+
+       (f) A community
+college, as defined in ORS 341.005. 
+
+       (g) The Oregon
+Health and Science University. 
+
+       (h) A nonprofit,
+private, post-secondary institution that the Higher Education Coordinating
+Commission has authorized to confer academic degrees under ORS 348.594 to
+348.615. 
+
+       (i) A state
+agency or a private nonprofit institution or organization that has an agreement
+with the United States Secretary of Education under section 428(b) of the
+Higher Education Act of 1965 (20 U.S.C. 1078(b)), solely to the extent of the
+agency’s, institution’s or organization’s actions as a guarantor that engages
+in averting defaults. The exemption set forth in this paragraph does not extend
+to the agency’s, institution’s or organization’s actions in servicing a student
+loan. 
+
+       (j) A person that
+the Director of the Department of Consumer and Business Services designates by
+rule or order as exempt. 
+
+       (3)
+Notwithstanding subsection (2) of this section, the director may require any
+person to obtain a license under ORS 725A.506 before the person services a
+student loan in this state if the director determines that the person has
+violated state or federal law or has engaged in a course of dealing that is
+fraudulent, deceptive or dishonest. 
+
+       (4)(a) If the
+director reasonably believes that a person is subject to ORS 725A.500 to
+725A.530 or is engaging in or is about to engage in an act or practice that
+constitutes servicing a student loan in this state without first obtaining a
+license as provided in subsection (1) of this section, the director may: 
+
+       (A) Order the
+person to: 
+
+       (i) Cease and
+desist from the act or practice; or 
+
+       (ii)
+Affirmatively perform an act; or 
+
+       (B) Apply to a
+circuit court of this state to enjoin the person from engaging in the act or
+practice. 
+
+       (b) The director
+shall state in reasonable detail the facts on which the director bases an order
+under paragraph (a)(A) of this subsection. 
+
+       (c) If a person
+that is subject to an order under paragraph (a)(A) of this subsection requests
+a hearing, the director shall schedule and give notice of a hearing in
+accordance with ORS chapter 183. If the person does not request a hearing, the
+director’s order becomes final 30 days after the date of the order. 
+
+       (5) The director
+may waive or modify a requirement set forth in this section if the director
+determines that a person’s compliance with the requirement would cause the
+person to violate federal law. [2021 c.651 §2] 
+
+   
+
+ (Licensing and Duties
+of Licensee) 
+
+   
+
+       725A.506
+Application for licensing; required contents; fee; bonding; power of director
+to issue, deny, revoke or refuse to renew license; date of expiration; rules. (1)(a) A person that is subject to
+the requirement to obtain or renew a license under ORS 725A.503 shall submit an
+application to the Director of the Department of Consumer and Business Services
+in the manner, on a form and with the contents that the director specifies by
+rule. 
+
+       (b) The director
+by rule may require an applicant to submit the application described in
+paragraph (a) of this subsection to the Nationwide Multistate Licensing System
+instead of, or in addition to, submitting the application to the director. 
+
+       (2)(a) An
+applicant shall submit with or as part of an application under subsection (1)
+of this section: 
+
+       (A) Fingerprints
+from all of the applicant’s controllers and managers; 
+
+       (B) A unique
+identifier that the applicant applies for and receives from the Nationwide
+Multistate Licensing System; 
+
+       (C) The name and
+address of the applicant’s registered agent in this state; 
+
+       (D) The street
+address of the applicant’s principal place of business and of each branch
+office in this state at or from which the applicant will service a student
+loan; 
+
+       (E) The name of
+the manager of each branch office the applicant maintains in this state; 
+
+       (F) The assumed
+business name, if any, that the applicant intends to use or under which the
+applicant intends to operate; and 
+
+       (G) Other
+information the director requires to conduct a state and national criminal
+background history and background check and evaluate the application. 
+
+       (b) The director
+by rule may modify or waive, for an application to renew a license, any
+requirement under paragraph (a) of this subsection that the director determines
+is not necessary for evaluating or approving the application for renewal. 
+
+       (3) At the time
+an applicant submits an application under subsection (1) of this section, the
+applicant shall also: 
+
+       (a) Pay to the
+director a fee in an amount that the director specifies by rule. The director
+shall specify a fee that is sufficient, when aggregated with fees from other
+applicants, to meet the director’s cost of administering ORS 725A.500 to
+725A.530. 
+
+       (b) Submit to the
+director a corporate surety bond or irrevocable letter of credit issued by an
+insured institution, as defined in ORS 706.008, that runs to the State of
+Oregon in an amount the director specifies by rule. If the applicant seeks to
+renew a license and previously submitted a corporate surety bond or irrevocable
+letter of credit, the applicant shall show that the corporate surety bond or
+irrevocable letter of credit remains effective in the amount the director
+specifies. 
+
+       (4)(a) Except as
+provided in paragraph (c) of this subsection, the director may not issue or
+renew a license under this section unless the director finds that: 
+
+       (A) The applicant
+submitted a complete application that does not contain a material misstatement; 
+
+       (B) The
+application identifies a registered agent in this state; 
+
+       (C) The
+application names a manager for each of the applicant’s branch offices in this
+state; 
+
+       (D) The applicant
+and the applicant’s controllers, registered agents and managers have not
+pleaded guilty or no contest in, or been convicted by, a state, federal,
+foreign or military court: 
+
+       (i) In the seven
+years before the date of the application, if the plea or conviction was for a
+felony, or for a misdemeanor an essential element of which involved a false
+statement or dishonesty; or 
+
+       (ii) At any time
+before the date of the application if the plea or conviction was for a felony
+an element of which was fraud, dishonesty, a breach of trust or laundering a
+monetary instrument; 
+
+       (E) The applicant
+and the applicant’s controllers, registered agents and managers have
+demonstrated adequate financial responsibility, character and general fitness
+to command the confidence of the community and warrant a determination that the
+applicant will operate honestly, fairly and efficiently under the provisions of
+ORS 725A.500 to 725A.530; 
+
+       (F) The applicant
+has paid the fee and submitted the corporate surety bond or irrevocable letter
+of credit required under subsection (3) of this section; and 
+
+       (G) The applicant
+has passed the director’s background checks and has satisfied any other
+criteria for evaluating the applicant’s financial responsibility and fitness
+that the director specifies by rule. 
+
+       (b) An applicant
+need not report a conviction on an application under this section if the
+conviction was later pardoned or expunged. 
+
+       (c)(A) The
+director shall: 
+
+       (i) Find that an
+applicant that services a student loan under a contract with the United States
+Secretary of Education under 20 U.S.C. 1087f meets the criteria set forth in
+paragraph (a) of this subsection without the need to comply with the procedures
+set forth in subsections (2) and (3) of this section, except that the applicant
+must pay the fee required under subsection (3) of this section and identify a
+registered agent in this state or appoint the director as the applicant’s
+registered agent; and 
+
+       (ii) Issue and
+renew a license for an applicant that is described in and complies with the
+provisions of sub-subparagraph (i) of this subparagraph. 
+
+       (B) Except as
+otherwise provided in this paragraph, a licensee that obtains a license under
+this paragraph is subject to all of the requirements and conditions set forth
+in ORS 725A.500 to 725A.530. 
+
+       (d) A licensee
+that obtained a license under paragraph (c) of this subsection shall notify the
+director in writing within seven days after the date on which the contract
+described in paragraph (c)(A) of this subsection expires or terminates. At the
+expiration or termination of the contract, the licensee becomes subject to the
+criteria set forth in this subsection and subsections (2) and (3) of this
+section and, to continue to service a student loan in this state, must meet the
+criteria within 30 days after the date on which the contract expires or
+terminates. The director shall suspend the license of a licensee described in
+this paragraph that fails to meet the criteria. 
+
+       (5)(a) Except as
+provided in paragraph (c) of this subsection, the director may deny, revoke or
+decline to renew a license if an applicant, a licensee or a person that
+services a student loan: 
+
+       (A) Does not meet
+the criteria set forth in subsection (4) of this section that the director has
+not waived or modified under subsection (2)(b) of this section; 
+
+       (B) Engages in a
+course of conduct that violates state or federal law or that constitutes
+fraudulent, deceptive or dishonest dealing; 
+
+       (C) Has had a
+license to service a student loan denied or revoked in another jurisdiction; 
+
+       (D) Fails or
+refuses to comply with the director’s written request under ORS 725A.524 to
+respond to a complaint against the applicant or licensee; or 
+
+       (E) Fails or
+refuses to comply with a final order the director issued. 
+
+       (b) The director
+shall provide a licensee with notice and an opportunity for a hearing under ORS
+chapter 183 before revoking or declining to renew a license. 
+
+       (c) The director
+may not deny, revoke or decline to renew a license the director issues under
+subsection (4)(c) of this section, but the director may place conditions on
+issuing or renewing the license. 
+
+       (6)(a) A license
+that the director issues or renews under this section expires on December 31 of
+the calendar year in which the director issued or renewed the license and is
+not transferable or assignable. A licensee shall display a copy of the license
+at the licensee’s principal place of business and at each branch office in this
+state at or from which the licensee services a student loan. 
+
+       (b) An applicant
+that intends to renew a license shall apply for the renewal at least 30 days
+before the license expires. 
+
+       (c) A licensee
+may reinstate a license that has expired only if the licensee applies to renew
+the license under this section within the time permitted by the Nationwide
+Multistate Licensing System. 
+
+       (d) A licensee
+may not service a student loan during a period in which the licensee has
+applied to reinstate a license unless the director has given conditional
+approval to the licensee. The conditional approval may specify which accounts
+the licensee may service and which services the licensee may provide during the
+period in which the licensee’s application for reinstatement is pending. 
+
+       (e) A licensee
+that ceases servicing student loans in this state or otherwise ceases
+transacting business in this state shall, within 10 days after doing so,
+surrender to the director any unexpired license the director issued under this
+section. A licensee’s surrender of a license under this paragraph does not
+reduce or eliminate any civil or criminal liability that arises from any of the
+licensee’s acts or omissions that occurred before the surrender. [2021 c.651 §3] 
+
+   
+
+       725A.509
+Duties of licensee; assumed business name. (1) A licensee shall designate and maintain a
+principal place of business at or from which the licensee services student
+loans in this state and shall designate a registered agent in this state. 
+
+       (2)(a) If a
+licensee does not maintain a principal place of business in this state, the
+licensee shall nevertheless designate a registered agent in this state. The
+registered agent must be available to receive on the licensee’s behalf any
+notice, demand or service of process permitted by law to be given, made or
+delivered to, or served upon, the licensee. 
+
+       (b) If the
+licensee does not designate a registered agent in this state, or if the
+licensee’s registered agent cannot with reasonable diligence be located, the
+Director of the Department of Consumer and Business Services is the licensee’s
+registered agent. 
+
+       (3) A licensee
+may not use or operate under an assumed business name unless the licensee first
+registers the assumed business name under ORS chapter 648 and lists the name on
+an application under ORS 725A.506 or in a notice to the director under ORS 725A.515.
+[2021 c.651 §4] 
+
+   
+
+       725A.512
+Requirement to maintain liquidity, operating reserves and tangible net worth;
+taking possession of licensee’s property for failure to meet requirement;
+appointment of receiver. 
+(1) A licensee shall maintain in accordance with generally accepted accounting
+principles sufficient liquidity, operating reserves and tangible net worth to
+permit the licensee to adequately meet all costs, expenses and other financial
+requirements related to servicing student loans in this state. The Director of
+the Department of Consumer and Business Services may specify by rule the
+standards a licensee must meet to comply with the requirements set forth in
+this subsection. 
+
+       (2)(a) If a
+licensee fails to meet the applicable standards for liquidity, operating
+reserves and tangible net worth set forth in subsection (1) of this section,
+the director may take and retain possession of the licensee’s property,
+business and assets located in this state until the licensee returns, under the
+director’s supervision or oversight, to compliance with the applicable
+standards. 
+
+       (b) In taking and
+retaining possession of the licensee’s property, business and assets under paragraph
+(a) of this subsection, the director shall conduct an inventory appropriate for
+establishing a receivership for the licensee and file a copy of the inventory
+with: 
+
+       (A) The
+Department of Consumer and Business Services; and 
+
+       (B) Each of the
+licensee’s controllers, at the last address for each controller that the
+director has in the director’s records. 
+
+       (3) If a licensee
+refuses to permit the director to take and retain possession of the licensee’s
+property, business and assets under subsection (2) of this section or if the
+director can show that the interests of the licensee’s borrowers or creditors
+require the appointment of a receiver, the director may apply to the circuit
+court in the county in which the licensee’s principal place of business in this
+state is located for an order to appoint a receiver to take and retain
+possession of, operate or liquidate the licensee’s property, business and
+assets. The court may appoint the director as the receiver. 
+
+       (4) If, 60 days
+after the date on which the director took possession of a licensee’s property,
+business and assets under subsection (2) of this section, the licensee has not
+returned to compliance with the applicable standards described in subsection
+(1) of this section, the director shall liquidate the licensee’s property,
+business and assets and revoke the licensee’s license to service student loans
+in this state. If the director is not the receiver for the licensee’s property,
+business and assets, the director shall apply to the circuit court in the
+county in which the licensee’s principal place of business in this state is
+located for an order to appoint the director or another person as receiver. [2021
+c.651 §5] 
+
+   
+
+       725A.515
+Required notifications from licensee to director. (1)(a) A licensee shall notify the
+Director of the Department of Consumer and Business Services in writing at
+least 30 days before the licensee: 
+
+       (A) Relocates or
+closes the licensee’s principal place of business or a branch office in this
+state; or 
+
+       (B) Opens a
+branch office that the licensee did not list in an application under ORS
+725A.506. 
+
+       (b) In a notice
+under paragraph (a) of this subsection, the licensee shall list, as applicable: 
+
+       (A) The new
+address to which the licensee relocates the licensee’s principal place of
+business or any branch office; and 
+
+       (B) The address
+for any new branch office the licensee opens. 
+
+       (2)(a) A licensee
+shall notify the director in writing not later than 30 days after: 
+
+       (A) Any
+appointment, resignation or other change occurs in the licensee’s controllers,
+registered agents or managers; or 
+
+       (B) Any material
+change occurs in the information that the licensee submitted in an application
+under ORS 725A.506. 
+
+       (b) The licensee
+shall provide in a notice under paragraph (a)(A) of this subsection the name,
+address and title of any new controller, registered agent or manager the
+licensee appoints. 
+
+       (3)(a) A licensee
+shall notify the director in writing not later than 10 days after: 
+
+       (A) Filing for
+bankruptcy or reorganization; 
+
+       (B) A controller,
+registered agent or manager of the licensee becomes subject to an indictment
+that is related in any manner to the licensee’s activities; 
+
+       (C) The licensee
+receives notice of a final order issued in this or another state that: 
+
+       (i) Demands that
+the licensee cease and desist from any act; 
+
+       (ii) Suspends or
+revokes a license or registration; or 
+
+       (iii) Constitutes
+any other formal or informal regulatory action against the licensee; 
+
+       (D) The licensee
+registers or changes and uses or operates under an assumed business name; 
+
+       (E) The licensee
+ceases doing business or ceases servicing student loans; or 
+
+       (F) Any other
+change in the licensee’s operations or governance occurs in a manner or with an
+effect that the director determines by rule is significant enough to warrant
+the licensee notifying the director. 
+
+       (b) A licensee
+shall specify in a notice under paragraph (a)(C) of this subsection the reasons
+any final order sets forth for taking a regulatory action against the licensee. 
+
+       (c) A licensee
+shall identify in a notice under paragraph (a)(E) of this subsection the
+location in which the licensee stores records related to student loan servicing
+in this state and shall provide the name and contact information for an
+individual with authority to provide access to the records. 
+
+       (4) A licensee
+shall notify the director immediately if the licensee changes registered agents
+or if the name or address of the licensee’s registered agent in this state
+changes. In the notice, the licensee shall update the name and address of the
+registered agent. [2021 c.651 §6] 
+
+   
+
+       725A.518
+Supervisory powers of director; examination of licensee; charge for costs of
+examination; multistate cooperation; rules. (1) The Director of the Department of Consumer and
+Business Services has general supervisory authority over: 
+
+       (a) Each licensee
+in this state; 
+
+       (b) Any person
+that services a student loan in this state, if the person is subject to ORS
+725A.500 to 725A.530 or if the director required the person to obtain a license
+under ORS 725A.503 (3); and 
+
+       (c) Any person
+that had a license that the director withdrew, canceled, suspended, conditioned
+or revoked, if the person continues to service a student loan. 
+
+       (2)(a) The
+authority described in subsection (1) of this section includes the authority to
+examine a licensee or a person described in subsection (1) of this section at
+any time. 
+
+       (b) The director
+may charge and collect from a licensee or a person the director examines under
+this section the costs the director incurs in conducting the examination. 
+
+       (3) In order to
+conduct an examination under this section, the director may: 
+
+       (a) Retain
+attorneys, accountants or other professionals and specialists as examiners,
+auditors or investigators. 
+
+       (b) Enter into
+agreements or relationships with other government officials or regulatory
+associations to share resources, to use and create standardized methods,
+procedures, documents, databases, records, information or evidence, to reduce
+the director’s regulatory burden or to improve efficiency. 
+
+       (c) Participate
+in multistate examinations that the Conference of State Bank Supervisors or the
+federal Consumer Financial Protection Bureau schedules and conducts. In
+conducting an examination under this paragraph, the director shall follow the
+protocol that the conference or bureau establishes for the examination. 
+
+       (d) Accept and
+rely on examination or investigation reports from other government officials in
+this or another state. 
+
+       (4) Books,
+accounts, papers, records, files, correspondence, contracts and agreements,
+disclosures, documentation and other information, material or evidence the
+director obtains in an examination under this section is confidential and
+subject to the provisions of ORS 705.137, except that a borrower may request to
+inspect material related to the borrower’s student loan that the director by
+rule specifies is available for inspection. The director shall authenticate the
+borrower’s identity before disclosing any material to the borrower. 
+
+       (5) The director
+may adopt rules for the purpose of implementing ORS 725A.500 to 725A.530. [2021
+c.651 §7] 
+
+   
+
+ (Required Practices,
+Prohibitions and Enforcement) 
+
+   
+
+       725A.521
+Required practices under federal student loan agreement; prohibitions;
+exemptions. (1)
+Except as otherwise required under federal law, in a federal student loan
+agreement or in a contract between the federal government and a person that
+services a student loan, a person that services a student loan shall: 
+
+       (a) Assess any
+fee that the person may assess against a borrower within 45 days after the
+borrower incurs the fee. 
+
+       (b) Accept and
+credit, or treat as credited, to the borrower’s account all amounts the person
+receives at the address to which the borrower has been instructed to send
+payments or notifications of payment on the borrower’s student loan. The person
+must credit the payment, or treat the payment as credited, within one business
+day after receiving the payment or notification of payment if the borrower has
+provided sufficient information to credit the account. If the person uses the
+scheduled method of accounting and the person receives a regularly scheduled
+payment before the scheduled due date, the person shall credit the payment to
+the borrower’s account not later than the scheduled due date. 
+
+       (c) Correct
+promptly any errors the person makes and refund promptly any fees the person
+assesses against the borrower in error. 
+
+       (d) Maintain
+adequate records of each student loan transaction for not less than two years,
+or a period otherwise specified by law, after a final payment on a student loan
+or after the person assigns the student loan, whichever occurs first. At the
+request of the Director of the Department of Consumer and Business Services and
+within five days after the request or the within the time the director
+specifies in the request, the person shall make the records available to the
+director or send the records to the director in the manner the director
+specifies by rule. 
+
+       (2) A person that
+services a student loan may not, directly or indirectly: 
+
+       (a) Employ any
+device, scheme or artifice to defraud another person; 
+
+       (b) Knowingly
+make an untrue statement of a material fact or omit a material fact that is
+necessary to make the person’s statement true in light of the circumstances in
+which the person makes the statement, or misrepresent the amount, nature or
+terms of any fee or payment due or claimed to be due on a student loan or the
+terms and conditions of a loan agreement or the borrower’s obligations under
+the loan agreement; 
+
+       (c) Obtain
+property by fraud or misrepresentation; 
+
+       (d) Knowingly
+misapply or recklessly apply payments to the outstanding balance of a student
+loan; 
+
+       (e) Engage in an
+act, practice or course of business that operates or that the person intends to
+operate as a fraud or deceit upon another person; 
+
+       (f) Make or file
+with the Department of Consumer and Business Services, or cause to be made or
+filed with the department, a statement, report or document that the person
+knows is false in any material respect or manner; or 
+
+       (g) Fail to
+respond to a consumer complaint, or to communication from the ombudsman
+appointed or designated under ORS 725A.530, within 30 calendar days or within a
+reasonable time that the student loan ombudsman specifies in the communication.
+The person may request in writing that the student loan ombudsman allow not
+more than 30 additional calendar days within which to respond if in the request
+the person explains why the additional time is reasonable and necessary. 
+
+       (3) Subsections
+(1) and (2) of this section do not apply to: 
+
+       (a) A financial
+institution, as defined in ORS 706.008. 
+
+       (b) A financial
+holding company or bank holding company, both as defined in ORS 706.008, if the
+financial holding company or bank holding company does no more than control an
+affiliate or subsidiary, as defined in 12 U.S.C. 1841(d), and does not engage in
+business as a student loan servicer. 
+
+       (c) An attorney
+who is licensed or otherwise authorized to practice law in this state if the
+attorney services a student loan only incidentally in the course of practicing
+law. 
+
+       (d) A public
+body, as defined in ORS 174.109. 
+
+       (e) A public
+university listed in ORS 352.002. 
+
+       (f) A community
+college, as defined in ORS 341.005. 
+
+       (g) The Oregon
+Health and Science University. 
+
+       (h) A nonprofit,
+private, post-secondary institution that the Higher Education Coordinating
+Commission has authorized to confer academic degrees under ORS 348.594 to
+348.615. [2021 c.651 §8] 
+
+   
+
+       725A.524
+Investigation of complaints; confidentiality of materials obtained in
+investigation; exceptions; charge for costs of investigation. (1) If the Director of the
+Department of Consumer and Business Services receives a complaint concerning a
+person that services a student loan, the director: 
+
+       (a) Shall notify
+the person of the complaint, provide a copy of the complaint in the notice and
+require the person to respond to the complaint and to the director within 30
+days after the date of the notice; 
+
+       (b) May
+investigate the complaint and require the person to provide books, accounts,
+papers, records, files, correspondence, contracts and agreements, disclosures,
+documentation and other information, material or evidence necessary for the
+director’s investigation; and 
+
+       (c) May
+investigate the person and the person’s policies and practices with respect to
+servicing a student loan and require the person to provide books, accounts,
+papers, records, files, documentation and other information, material or
+evidence necessary for the director’s investigation. 
+
+       (2)(a) Except as
+provided in paragraph (b) of this subsection, books, accounts, papers, records,
+files, correspondence, contracts and agreements, disclosures, documentation and
+other information, material or evidence the director receives or possesses as a
+consequence of an investigation under subsection (1) of this section are
+confidential unless state or federal law or a court order permits or requires
+disclosure. 
+
+       (b) The director
+may share any item listed in paragraph (a) of this subsection with any state or
+federal agency. 
+
+       (3) The director
+may charge and collect from a person the director investigates under this
+section the costs the director incurs in conducting the investigation. 
+
+       (4) This section
+does not apply to: 
+
+       (a) A financial
+institution, as defined in ORS 706.008. 
+
+       (b) A financial
+holding company or bank holding company, both as defined in ORS 706.008, if the
+financial holding company or bank holding company does no more than control an
+affiliate or subsidiary, as defined in 12 U.S.C. 1841(d), and does not engage in
+business as a student loan servicer. [2021 c.651 §9] 
+
+   
+
+       725A.527
+Violations; orders of director; remedies; civil penalties; charge for costs of
+proceeding. (1)
+If, after conducting an investigation, the Director of the Department of
+Consumer and Business Services determines that a person that services a student
+loan has violated ORS 725A.500 to 725A.530, violated a rule the director
+adopted or an order the director issued under ORS 725A.500 to 725A.530 or
+violated another applicable law, the director may order the person to: 
+
+       (a) Cease and
+desist from any act that constitutes a violation of ORS 725A.500 to 725A.530. 
+
+       (b) Resolve any
+complaint the director received under ORS 725A.524 and pay the borrower that
+submitted the complaint any damages to which the borrower would be entitled
+under law. 
+
+       (c) Pay a
+borrower any amount the person received from the borrower as compensation while
+engaging in any action that constituted a violation of ORS 725A.500 to
+725A.530. 
+
+       (2)(a) In
+addition to and not in lieu of any other penalty provided by law, the director
+may impose a civil penalty under ORS 183.745 in an amount of not more than
+$5,000 for each instance in which a person violates, aids or abets another
+person in violating, or procures a violation of ORS 725A.500 to 725A.530 or an
+order the director issues under ORS 725A.500 to 725A.530. 
+
+       (b) Each instance
+described in paragraph (a) of this subsection is a separate violation and each
+day in which a person engages in a continuous violation is a separate
+violation. The director may not impose a penalty that exceeds $20,000 for a
+continuous violation. 
+
+       (3) The director
+may assess the costs of conducting an administrative proceeding under this
+section against the person that is the subject of the administrative proceeding
+or may include the costs of the administrative proceeding in any civil penalty
+the director imposes under this section. 
+
+       (4) A person that
+is subject to a civil penalty under this section may appeal the penalty as
+provided in ORS chapter 183. 
+
+       (5) The director
+shall deposit any amount the director receives under this section to the
+General Fund of the State Treasury. [2021 c.651 §10] 
+
+   
+
+       725A.530
+Ombudsman; duties; report to Legislative Assembly. (1) The Director of the Department
+of Consumer and Business Services shall appoint or designate an ombudsman
+within the Department of Consumer and Business Services for the purposes set
+forth in subsection (2) of this section. 
+
+       (2) The ombudsman
+that the director appoints or designates under subsection (1) of this section
+shall, in consultation with the director or with other individuals the director
+designates: 
+
+       (a) Receive,
+review and attempt to resolve complaints from borrowers. The ombudsman may
+consult or collaborate with student loan servicers, institutions of higher
+education, federal regulators or regulators in this state or other states and
+any other person that participates in activities related to student loans. 
+
+       (b) Compile and
+analyze data on complaints from borrowers. 
+
+       (c) Assist
+borrowers in understanding the borrowers’ rights and responsibilities under the
+terms of the borrowers’ student loans. 
+
+       (d) Provide
+information about problems that borrowers have with student loans and recommend
+methods for addressing the problems to the public, to state agencies in this
+state or in other states, to members of the Legislative Assembly and to other
+persons that have an interest in student loans or in lending and servicing
+practices related to student loans. 
+
+       (e) Monitor and
+analyze the substance and implementation of federal, state and local laws,
+regulations, rules and policies related to student loans and borrowers and
+recommend any changes the ombudsman deems necessary. 
+
+       (f) Review the
+history of any student loan for which the borrower has provided consent for the
+review. 
+
+       (g) Publicize the
+ombudsman’s availability and the services that the ombudsman provides to
+borrowers and other persons that participate in activities related to student
+loans. 
+
+       (h) Establish an
+education program for borrowers that, at a minimum, discusses key loan terms,
+documentation requirements, monthly payment obligations, income-based repayment
+options, loan forgiveness opportunities and requirements, and disclosure requirements.
+The ombudsman may provide the program or may contract with a vendor to provide
+a program that meets standards the ombudsman specifies. The ombudsman or vendor
+may provide the program remotely or electronically. 
+
+       (i) Take any
+other action that is necessary to implement the duties described in this
+section. 
+
+       (3) By July 1 of
+each year, the director shall submit a report to a committee or interim
+committee of the Legislative Assembly related to higher education that: 
+
+       (a) Summarizes
+the ombudsman’s activities in implementing this section; 
+
+       (b) Evaluates the
+effectiveness of the ombudsman and the ombudsman’s activities in implementing
+this section and makes recommendations for any changes that are necessary in
+the ombudsman’s powers or responsibilities; and 
+
+       (c) Recommends
+changes in law or rule or in the application or implementation of laws or rules
+related to servicing student loans that are necessary to achieve regulatory
+compliance among student loan servicers and otherwise to reduce the incidence
+of problems and complaints from borrowers. [2021 c.651 §11] 
+
+   
+
+ PENALTIES 
+
+   
+
+       725A.990
+Penalties. (1) The
+Director of the Department of Consumer and Business Services may assess a civil
+penalty of not more than $2,500 against a person who violates a provision of
+ORS 725A.010 to 725A.092 and 725A.990 or a rule the director adopted or final
+order the director issued under ORS 725A.010 to 725A.092 and 725A.990. The
+director, in addition to imposing a penalty under this subsection for the
+violation, may revoke the licensee’s license. 
+
+       (2) A civil
+penalty under this section must be imposed as provided in ORS 183.745. 
+
+       (3) Except as
+provided in subsection (4) of this section, moneys collected under this section
+must be paid to the State Treasurer and credited as provided in ORS 705.145. 
+
+       (4) In addition
+to any other penalty provided by law, the director may assess against a person
+who makes a payday loan or title loan in violation of ORS 725A.020 a civil
+penalty in an amount equal to the interest the person receives that exceeds
+nine percent per annum. The director shall pay all moneys collected under this
+subsection to the Department of State Lands for the benefit of the Common
+School Fund. [2010 c.23 §28] 
+
+ _______________ 
+
+   
+
+ 
+
+ 
+
+ 

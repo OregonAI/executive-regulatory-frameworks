@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-35.415
-title: "Application of ORS"
+title: "Application of ORS 35.385 to 35.415"
 doc_type: statute
 citation: "ORS 35.415"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-35"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors035.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Application of ORS (ORS 35.415)
+# Application of ORS 35.385 to 35.415 (ORS 35.415)
 
 ## At a glance
 
-ORS 35.415 — Application of ORS. Chapter 35 (Eminent Domain; Public Acquisition of Property), 2025 Edition.
+ORS 35.415 — Application of ORS 35.385 to 35.415. Chapter 35 (Eminent Domain; Public Acquisition of Property), 2025 Edition.
 
 ## Full text
 

@@ -1,0 +1,57 @@
+---
+schema_version: 1
+corpus: "executive-regulatory-frameworks"
+jurisdiction: "oregon"
+id: ors-74a.3040
+title: "Duty of sender to report erroneously executed payment order"
+doc_type: statute
+citation: "ORS 74A.3040"
+authority_level: statute
+issuing_body: "Oregon Legislative Assembly; published by the Legislative Counsel Committee"
+agency: statewide
+legal_authority: []
+source_url: "https://www.oregonlegislature.gov/bills_laws/ors/ors074a.html"
+source_format: html
+retrieved: "2026-10-17"
+source_sha256: "b70492aeade1a5b0f6aa767978d1278a3015399eedad4ee684c0e93fb19c63ae"
+snapshot_id: ors-chapter-74a
+effective_date: null
+last_reviewed: null
+source_version: "2025 Edition"
+status: current
+supersedes: null
+content_mode: verbatim
+conversion_notes: "sliced the section's text out of the shared chapter snapshot; line breaks inserted at subsection markers (whitespace-only)"
+last_verified: ""
+verified_by: ""
+maintainer: "@morficflux"
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: ["ors", "chapter-74a"]
+---
+
+> **NON-AUTHORITATIVE — AI-friendly reference only.** The official ORS text is the printed
+> published copy of the Oregon Revised Statutes. Verify against the official source:
+> <https://www.oregonlegislature.gov/bills_laws/ors/ors074a.html> (retrieved 2026-10-17, 2025 Edition).
+
+# Duty of sender to report erroneously executed payment order (ORS 74A.3040)
+
+## At a glance
+
+ORS 74A.3040 — Duty of sender to report erroneously executed payment order. Chapter 74A (Funds Transfers), 2025 Edition.
+
+## Full text
+
+74A.3040 Duty of sender to report erroneously executed payment order. If the sender of a payment order that is erroneously executed as stated in ORS 74A.3030 receives notification from the receiving bank that the order was executed or that the sender’s account was debited with respect to the order, the sender has a duty to exercise ordinary care to determine, on the basis of information available to the sender, that the order was erroneously executed and to notify the bank of the relevant facts within a reasonable time not exceeding 90 days after the notification from the bank was received by the sender. If the sender fails to perform that duty, that bank is not obliged to pay interest on any amount refundable to the sender under ORS 74A.4020
+
+(4) for the period before the bank learns of the execution error. The bank is not entitled to any recovery from the sender on account of a failure by the sender to perform the duty stated in this section. [1991 c.442 §24] 
+
+## Provenance & change history
+
+- Source: <https://www.oregonlegislature.gov/bills_laws/ors/ors074a.html> · retrieved 2026-10-17 · sha256 `b70492aeade1a5b0f6aa767978d1278a3015399eedad4ee684c0e93fb19c63ae`
+  (chapter snapshot `_meta/snapshots/ors-chapter-74a.html`)
+- See [CHANGELOG](./CHANGELOG.md).

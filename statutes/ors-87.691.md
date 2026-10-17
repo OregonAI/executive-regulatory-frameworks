@@ -62,13 +62,7 @@ ORS 87.691 — Sale of property subject to lien; advertisement of sale; treatmen
 
 (8) After a sale under this section, the owner may satisfy the lien created by ORS 87.687 from the proceeds of the sale, but shall hold the balance, if any, for delivery on demand to the occupant. If the occupant does not claim the balance of the proceeds within two years after the date of sale, the owner shall presume that the balance of the proceeds is abandoned and shall report and deliver the balance to the State Treasurer as provided in ORS 98.352.
 
-(9) A purchaser in good faith of the personal property sold to satisfy a lien created by ORS 87.687 takes the property free of any rights of persons against whom the lien was valid, even if the owner does not comply with the requirements of this section and ORS 87.689. [1997 c.374 §5; 2009 c.374 §1; 2013 c.209 §6; 2019 c.678 §51; 2025 c.222 §1] 87.693 ORS 87.687 as exclusive law for creating lien; exception.
-
-(1) Except as provided in subsection
-
-(2) of this section, ORS 87.687 is the sole and exclusive statute creating a lien applicable to personal property in self-service storage facilities.
-
-(2) If a motor vehicle is stored or parked at a self-service storage facility, upon default, the owner may proceed as an owner of a parking facility under ORS 98.810 to 98.818. [1997 c.374 §6] 87.694 Late fee; requirements. An owner may charge and collect a reasonable fee for an occupant’s late payment of rent due for use of an individual storage space in a self-service storage facility. The rental agreement must specify the amount of the fee and the date on which the owner may charge the fee. The owner may charge the fee once in each month in which the occupant fails to pay the rent due or pays the rent due later than the due date specified in the rental agreement. For purposes of this section, a fee is reasonable if the fee does not exceed the greater of $20 or 20 percent of the monthly rent due for the individual storage space. The owner may charge and collect the late fee in addition to any other fees authorized by law or under the rental agreement. [2013 c.209 §2] 87.695 Short title. ORS 87.685 to 87.695 shall be known as the Oregon Self-Service Storage Facility Act. [1997 c.374 §1; 1999 c.59 §253]
+(9) A purchaser in good faith of the personal property sold to satisfy a lien created by ORS 87.687 takes the property free of any rights of persons against whom the lien was valid, even if the owner does not comply with the requirements of this section and ORS 87.689. [1997 c.374 §5; 2009 c.374 §1; 2013 c.209 §6; 2019 c.678 §51; 2025 c.222 §1] 
 
 ## Provenance & change history
 

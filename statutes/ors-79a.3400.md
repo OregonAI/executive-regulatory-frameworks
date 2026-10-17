@@ -58,13 +58,7 @@ ORS 79A.3400 — UCC 9-340. Effectiveness of right of recoupment or setoff again
 
 (3) of this section, the application of this chapter to a security interest in a deposit account does not affect a right of recoupment or setoff of the secured party as to a deposit account maintained with the secured party.
 
-(3) The exercise by a bank of a setoff against a deposit account is ineffective against a secured party that holds a security interest in the deposit account which is perfected by control under ORS 79A.1040 (1)(c), if the setoff is based on a claim against the debtor. [Formerly 79.0340] 79A.3410 UCC 9-341. Bank’s rights and duties with respect to deposit account. Except as otherwise provided in ORS 79A.3400 (3), and unless the bank otherwise agrees in a signed record, a bank’s rights and duties with respect to a deposit account maintained with the bank are not terminated, suspended, or modified by:
-
-(1) The creation, attachment or perfection of a security interest in the deposit account;
-
-(2) The bank’s knowledge of the security interest; or
-
-(3) The bank’s receipt of instructions from the secured party. [Formerly 79.0341] 79A.3420 UCC 9-342. Bank’s right to refuse to enter into or disclose existence of control agreement. This chapter does not require a bank to enter into an agreement of the kind described in ORS 79A.1040 (1)(b), even if its customer so requests or directs. A bank that has entered into such an agreement is not required to confirm the existence of the agreement to another person unless requested to do so by its customer. [Formerly 79.0342]
+(3) The exercise by a bank of a setoff against a deposit account is ineffective against a secured party that holds a security interest in the deposit account which is perfected by control under ORS 79A.1040 (1)(c), if the setoff is based on a claim against the debtor. [Formerly 79.0340] 
 
 ## Provenance & change history
 

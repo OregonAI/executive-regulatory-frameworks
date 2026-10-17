@@ -54,19 +54,7 @@ ORS 18.052 — Duty of judge with respect to form of judgment document. Chapter 
 
 (2) A court administrator who signs a judgment under authority granted by law has the same duties as a judge under the provisions of this section.
 
-(3) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §7; 2005 c.561 §1; 2005 c.568 §14; 2025 c.592 §109] 18.058 Duty of court administrator with respect to form of judgment document.
-
-(1) Except as provided in subsection
-
-(2) of this section, the court administrator shall note in the register that a judgment document has been filed if the judgment document is signed by a judge of the court, or by the court administrator if the court administrator is authorized by law to sign the judgment document, and filed with the court administrator, whether or not the judgment document complies with the requirements of ORS 18.038, 18.042 and 18.048.
-
-(2) If the title of a document filed with the court administrator indicates that the document is a decree, or indicates that the document is a judgment but fails to indicate whether the judgment is a limited judgment, general judgment or supplemental judgment, the court administrator may not note in the register that a judgment document has been filed, and shall return the document to the judge, unless the judgment is exempt under ORS 18.038 (2).
-
-(3) The court administrator may rely on a judgment document for entry of information in the register. The court administrator is not liable for entering any information in the register that reflects information contained in a judgment document, whether or not the information in the judgment is correct or properly presented.
-
-(4) The court administrator may rely on the presence or absence of a separate section in the judgment document required by ORS 18.042 or 18.048 in determining whether a judgment contains a money award. The court administrator shall enter information in the register and in the judgment lien record only from the separate section unless otherwise ordered by the court.
-
-(5) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §8; 2007 c.339 §3] 18.060 [Amended by 1979 c.284 §51; repealed by 1981 c.898 §53] 18.062 Use of electronic judgment forms. The provisions of this chapter do not affect the ability of the Chief Justice of the Supreme Court to authorize the use of electronic judgment forms pursuant to rules adopted under ORS 1.002 (2). [2005 c.568 §41] 18.070 [Repealed by 1981 c.898 §53]
+(3) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §7; 2005 c.561 §1; 2005 c.568 §14; 2025 c.592 §109] 
 
 ## Provenance & change history
 

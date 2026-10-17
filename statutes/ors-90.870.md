@@ -56,7 +56,7 @@ ORS 90.870 — Manner of giving notice; persons entitled to notice. Chapter 90 (
 
 (2) A seller subject to ORS 90.865 must give notice under subsection
 
-(1) of this section to: (a) The buyer; (b) The landlord; and (c) The secured party, if any, taking a purchase money security interest in the manufactured dwelling. [2001 c.112 §3] Note: See first note under 90.860. 90.875 Remedy for failure to give notice. If a seller fails to provide notice under ORS 90.870, a buyer, landlord or secured party without actual notice that suffers an ascertainable loss as a result of the failure may bring an individual action to recover actual damages or $200, whichever is greater. [2001 c.112 §4] Note: See first note under 90.860. 90.900 [Formerly 91.855; 1995 c.559 §32; renumbered 90.427 in 1995] 90.905 [1991 c.844 §31; 1995 c.559 §33; renumbered 90.429 in 1995] 90.910 [Formerly 91.857; 1991 c.844 §32; 1993 c.369 §33; 1993 c.580 §4; 1995 c.559 §4; renumbered 90.155 in 1995] 90.920 [Formerly 91.860; repealed by 1995 c.559 §58] 90.930 [Formerly 91.862; repealed by 1993 c.369 §39] 90.940 [Formerly 91.866; renumbered 90.450 in 1995] _______________
+(1) of this section to: (a) The buyer; (b) The landlord; and (c) The secured party, if any, taking a purchase money security interest in the manufactured dwelling. [2001 c.112 §3] Note: See first note under 90.860. 
 
 ## Provenance & change history
 

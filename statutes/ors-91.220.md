@@ -55,25 +55,7 @@ ORS 91.220 — Tenant in possession liable for rent; remedies for recovery. Chap
 
 (2) Such rent may be recovered in an action at law, and the deed of demise, or other instrument in writing, if there is any, showing the provisions of the lease, may be used in evidence by either party to prove the amount due from the defendant.
 
-(3) This section shall not deprive landlords of any other legal remedy for the recovery of their rents, whether secured to them by their leases or provided by law. 91.225 Local rent control prohibited; exclusions; exceptions.
-
-(1) The Legislative Assembly finds that there is a social and economic need to insure an adequate supply of affordable housing for Oregonians. The Legislative Assembly also finds that the imposition of general restrictions on housing rents will disrupt an orderly housing market, increase deferred maintenance of existing housing stock, lead to abandonment of existing rental units and create a property tax shift from rental-owned to owner-occupied housing. Therefore, the Legislative Assembly declares that the imposition of rent control on housing in the State of Oregon is a matter of statewide concern.
-
-(2) Except as provided in subsections
-
-(3) to
-
-(5) of this section, a city or county shall not enact any ordinance or resolution which controls the rent that may be charged for the rental of any dwelling unit.
-
-(3) This section does not impair the right of any state agency, city, county or urban renewal agency as defined by ORS 457.035 to reserve to itself the right to approve rent increases, establish base rents or establish limitations on rents on any residential property for which it has entered into a contract under which certain benefits are applied to the property for the expressed purpose of providing reduced rents for low income tenants. Such benefits include, but are not limited to, property tax exemptions, long-term financing, rent subsidies, code enforcement procedures and zoning density bonuses.
-
-(4) Cities and counties are not prohibited from including in condominium conversion ordinances a requirement that, during the notification period specified in ORS 100.305, the owner or developer may not raise the rents of any affected tenant except by an amount established by ordinance that does not exceed the limit imposed by ORS 90.493.
-
-(5) Cities, counties and state agencies may impose temporary rent controls when a natural or man-made disaster that materially eliminates a significant portion of the rental housing supply occurs, but must remove the controls when the rental housing supply is restored to substantially normal levels.
-
-(6) As used in this section, “dwelling unit” and “rent” have the meaning given those terms in ORS 90.100.
-
-(7) This section is applicable throughout this state and in all cities and counties therein. The electors or the governing body of a city or county shall not enact, and the governing body shall not enforce, any ordinance, resolution or other regulation that is inconsistent with this section. [1985 c.335 §2; 2007 c.705 §3]
+(3) This section shall not deprive landlords of any other legal remedy for the recovery of their rents, whether secured to them by their leases or provided by law. 
 
 ## Provenance & change history
 

@@ -54,13 +54,7 @@ ORS 82.160 — Notice to borrower of penalty for repayment prior to date for rep
 
 (2) If a loan agreement does not contain a notice as required by subsection
 
-(1) of this section, a lender shall not collect from the borrower a penalty for payment of the loan prior to the date provided for repayment. [1973 c.611 §1; 1985 c.359 §1] 82.170 Notice to borrower of lender authority to refuse to accept repayment prior to date for repayment in loan agreement.
-
-(1) If a loan agreement authorizes the lender to refuse to accept repayment of the loan prior to the date provided for repayment in the loan agreement, the loan agreement shall contain in printing or writing of a size equal to at least 10-point bold or underlined type substantially the following notice: ______________________________________________________________________________ NOTICE TO THE BORROWER Do not sign this loan agreement before you read it. This loan agreement authorizes the lender to refuse to accept repayment of the loan prior to the date provided for repayment in the loan agreement. ______________________________________________________________________________
-
-(2) If a loan agreement does not contain a notice as required by subsection
-
-(1) of this section, a lender shall not refuse to accept repayment of the loan by the borrower prior to the date provided for repayment. [1973 c.611 §2; 1985 c.359 §2] 82.300 [1989 c.578 §1; repealed by 1997 c.182 §7] _______________
+(1) of this section, a lender shall not collect from the borrower a penalty for payment of the loan prior to the date provided for repayment. [1973 c.611 §1; 1985 c.359 §1] 
 
 ## Provenance & change history
 

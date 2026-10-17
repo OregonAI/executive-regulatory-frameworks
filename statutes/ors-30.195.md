@@ -84,13 +84,7 @@ ORS 30.195 — Civil action for violation of prohibitions relating to cable serv
 
 (6) if a cable operator sent to the person by certified mail, at the most recent address for the person shown in the records of the cable operator, a written demand for the return of converters, decoders or other equipment owned by the cable operator. The demand shall allow the person to make reasonable arrangements to return the equipment within 15 days of receiving the notice. Reasonable arrangements may include a request that the cable operator pick up the equipment, subject to the cable operators written policies.
 
-(10) Statements from a manufacturer or retailer regarding the intended use or uses of a product shall not constitute a defense to an alleged violation of ORS 30.194 (5). [1999 c.705 §3] 30.196 Amount recoverable; attorney fees.
-
-(1) In addition to any other penalty provided by law, a cable operator who prevails on a claim under ORS 30.195 may recover the amount of $3,000. (2)(a) A court may increase an award under subsection
-
-(1) of this section to an amount not to exceed $50,000 if the court determines that the violation was committed for purposes of commercial advantage. (b) As used in this subsection, “commercial advantage” does not include any monetary gain realized by a person’s private use of unauthorized cable services.
-
-(3) The prevailing party in an action brought under ORS 30.195 shall be awarded reasonable court costs and attorney fees and all costs including but not limited to the cost of investigation, disconnection or reconnection, service calls, labor, equipment and expert testimony. [1999 c.705 §4]
+(10) Statements from a manufacturer or retailer regarding the intended use or uses of a product shall not constitute a defense to an alleged violation of ORS 30.194 (5). [1999 c.705 §3] 
 
 ## Provenance & change history
 

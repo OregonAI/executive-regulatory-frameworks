@@ -56,11 +56,7 @@ ORS 65.251 — Other methods of electing directors. Chapter 65 (Nonprofit Corpor
 
 (3) By preferential voting; or
 
-(4) By any other reasonable method. [1989 c.1010 §66; 2019 c.174 §50] (Voting Agreements) 65.254 Voting agreements.
-
-(1) Two or more members may provide for the manner in which they will vote by signing an agreement for that purpose. Such agreements may be valid for a period of up to 10 years. For public benefit corporations such agreements must have a reasonable purpose not inconsistent with the corporation’s public or charitable purposes.
-
-(2) A voting agreement created under this section is specifically enforceable. [1989 c.1010 §69]
+(4) By any other reasonable method. [1989 c.1010 §66; 2019 c.174 §50] (Voting Agreements) 
 
 ## Provenance & change history
 

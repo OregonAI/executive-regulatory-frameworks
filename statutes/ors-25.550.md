@@ -81,69 +81,7 @@ ORS 25.550 — Establishing parentage of child; certification of parentage issue
 
 (8) Prior to certification to court, the administrator may attempt to resolve the issue of parentage by discovery conducted under the Oregon Rules of Civil Procedure. Unless otherwise specifically provided by statute, the proceedings shall be conducted under the Oregon Rules of Civil Procedure.
 
-(9) When, in accordance with subsection (6)(a)(A) of this section, a party objects to the entry of an order and the genetic testing conducted under ORS 109.181 to 109.203 result in a combined relationship index of 99 or greater, notwithstanding the party’s objection, evidence of the tests, together with the testimony of a parent, is a sufficient basis upon which to presume parentage for purposes of establishing temporary support under this section. The court shall, upon motion of any party, enter a temporary order requiring the alleged genetic parent to provide support pending the adjudication of parentage by the court. In determining the amount of support, the court shall use the formula established under ORS 25.275. [Formerly 416.430; 2025 c.99 §39; 2025 c.592 §95] 25.552 Certification of parentage issue to circuit or juvenile court; trial.
-
-(1) Except as provided in subsection
-
-(2) of this section, when a response denying parentage and requesting a hearing is received pursuant to ORS 25.511 (3), or parentage is a valid issue as determined by the administrator under ORS 25.550, the certification to the circuit court shall be to the court in the judicial district: (a) Where the child resides or is located; (b) If the child does not reside in this state, where the alleged genetic parent resides or is located; or (c) If the parent who gave birth to the child or the child’s alleged genetic parent is deceased, where the estate of the deceased individual is being administered.
-
-(2) Notwithstanding subsection
-
-(1) of this section, if there is an Oregon juvenile court case regarding the dependent child, the matter may be certified to the county that has jurisdiction of the juvenile court case.
-
-(3) The certification must include true copies of the notice and proposed order, the return of service, the denial of parentage and request for hearing and any other relevant papers.
-
-(4) The court shall set the matter for trial and notify the parties of the time and place of trial.
-
-(5) If parentage is established, the monthly support and the amount of past support to be ordered may be established under ORS 25.513. [Formerly 416.435; 2025 c.99 §40; 2025 c.592 §96] 25.554 Reopening issue of parentage; order.
-
-(1) Except as provided in subsection
-
-(9) of this section, no later than one year after an order establishing parentage is entered under ORS 25.529 and if genetic testing has not been completed, a party may apply to the administrator to have the issue of parentage reopened and for an order for genetic testing.
-
-(2) No later than one year after a voluntary acknowledgment of parentage is filed in this state and if genetic testing has not been completed, a party to the acknowledgment, or the Department of Human Services if the child named in the acknowledgment is in the care and custody of the department under ORS chapter 419B, may apply to the administrator for services under ORS 25.080 and for an order for genetic testing.
-
-(3) Upon receipt of a timely application, the administrator shall order: (a) The parent who gave birth to the child and the individual whose parentage is being determined to submit to genetic testing; and (b) The person having physical custody of the child to submit the child to genetic testing.
-
-(4) If a party refuses to comply with an order under subsection
-
-(3) of this section, the issue of parentage shall, upon the motion of the administrator, be resolved against that party by an order of the court either affirming or setting aside: (a) The order establishing parentage; or (b) The voluntary acknowledgment of parentage.
-
-(5) If the results of the genetic testing exclude as the genetic parent of the child the individual whose parentage is to be determined, the administrator may file a motion with the court: (a) For an order setting aside: (A) The order establishing parentage; or (B) The voluntary acknowledgment of parentage; and (b) For a judgment of nonparentage.
-
-(6) Support paid before the entry of an order described in subsection
-
-(5) of this section may not be returned to the payer.
-
-(7) The administrator shall send a court-certified true copy of a judgment of nonparentage to the State Registrar of the Center for Health Statistics. Upon receipt of the judgment, the state registrar shall correct any records maintained by the state registrar that indicate that the individual is the parent of the child.
-
-(8) The Oregon Child Support Program shall pay any state registrar fees and any costs for genetic testing ordered under this section, subject to recovery from the party who requested the tests.
-
-(9) The administrator may not reopen the issue of parentage and order genetic testing under this section if the voluntary acknowledgment of parentage established parentage as provided in ORS 109.070 (1)(a)(B), the parties to the acknowledgment are married at the time of the application and the application is made by the Department of Human Services, unless both parties to the acknowledgment consent to the application. [Formerly 416.443; 2025 c.99 §74; 2025 c.592 §97] Note: The amendments to 25.554 by section 98, chapter 592, Oregon Laws 2025, become operative January 1, 2027. See section 153, chapter 592, Oregon Laws 2025. The text that is operative on and after January 1, 2027, is set forth for the user’s convenience. 25.554.
-
-(1) Except as provided in subsection
-
-(9) of this section, no later than one year after an order establishing parentage is entered under ORS 25.529 and if genetic testing has not been completed, a party may apply to the administrator to have the issue of parentage reopened and for an order for genetic testing.
-
-(2) No later than one year after a voluntary acknowledgment of parentage or denial of parentage is filed in this state and if genetic testing has not been completed, a party to the acknowledgment or denial, or the Department of Human Services if the child named in the acknowledgment or denial is in the care and custody of the department under ORS chapter 419B, may apply to the administrator for services under ORS 25.080 and for an order for genetic testing.
-
-(3) Upon receipt of a timely application, the administrator shall order: (a) The parent who gave birth to the child and the individual whose parentage is being determined to submit to genetic testing; and (b) The person having physical custody of the child to submit the child to genetic testing.
-
-(4) If a party refuses to comply with an order under subsection
-
-(3) of this section, the issue of parentage shall, upon the motion of the administrator, be resolved against that party by an order of the court either affirming or setting aside: (a) The order establishing parentage; (b) The voluntary acknowledgment of parentage and, if applicable, denial of parentage; or (c) The denial of parentage and associated voluntary acknowledgment of parentage.
-
-(5) If the results of the genetic testing exclude as the genetic parent of the child the individual whose parentage is to be determined, the administrator may file a motion with the court: (a) For an order setting aside: (A) The order establishing parentage; (B) The voluntary acknowledgment of parentage and, if applicable, denial of parentage; or (C) The denial of parentage and associated voluntary acknowledgment of parentage; and (b) For a judgment of nonparentage.
-
-(6) Support paid before the entry of an order described in subsection
-
-(5) of this section may not be returned to the payer.
-
-(7) The administrator shall send a court-certified true copy of a judgment of nonparentage to the State Registrar of the Center for Health Statistics. Upon receipt of the judgment, the state registrar shall correct any records maintained by the state registrar that indicate that the individual is the parent of the child.
-
-(8) The Oregon Child Support Program shall pay any state registrar fees and any costs for genetic testing ordered under this section, subject to recovery from the party who requested the tests.
-
-(9) The administrator may not reopen the issue of parentage and order genetic testing under this section if: (a) The voluntary acknowledgment of parentage form was signed by an intended parent of a child conceived by assisted reproduction or by a presumed parent; or (b) The voluntary acknowledgment of parentage established parentage as provided in ORS 109.070 (1)(a)(B), the parties to the acknowledgment are married at the time of the application and the application is made by the Department of Human Services, unless both parties to the acknowledgment consent to the application. (Expeditious Court Hearings) 25.556 Expeditious court hearings. The Supreme Court by administrative order shall provide, where necessary, for expeditious hearings on all matters referred to the circuit court pursuant to ORS 25.542 or 25.552. [Formerly 416.460] 25.575 [Formerly 416.480; 2021 c.489 §4; repealed by 2025 c.99 §78] 25.576 [Formerly 416.483; 2021 c.489 §5; repealed by 2025 c.99 §78] 25.577 [Formerly 416.486; 2021 c.489 §6; repealed by 2025 c.99 §78]
+(9) When, in accordance with subsection (6)(a)(A) of this section, a party objects to the entry of an order and the genetic testing conducted under ORS 109.181 to 109.203 result in a combined relationship index of 99 or greater, notwithstanding the party’s objection, evidence of the tests, together with the testimony of a parent, is a sufficient basis upon which to presume parentage for purposes of establishing temporary support under this section. The court shall, upon motion of any party, enter a temporary order requiring the alleged genetic parent to provide support pending the adjudication of parentage by the court. In determining the amount of support, the court shall use the formula established under ORS 25.275. [Formerly 416.430; 2025 c.99 §39; 2025 c.592 §95] 
 
 ## Provenance & change history
 

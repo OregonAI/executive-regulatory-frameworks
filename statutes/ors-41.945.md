@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-41.945
-title: "Application of ORS"
+title: "Application of ORS 41.930 and ORCP 55 H"
 doc_type: statute
 citation: "ORS 41.945"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-41"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors041.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Application of ORS (ORS 41.945)
+# Application of ORS 41.930 and ORCP 55 H (ORS 41.945)
 
 ## At a glance
 
-ORS 41.945 — Application of ORS. Chapter 41 (Evidence Generally), 2025 Edition.
+ORS 41.945 — Application of ORS 41.930 and ORCP 55 H. Chapter 41 (Evidence Generally), 2025 Edition.
 
 ## Full text
 

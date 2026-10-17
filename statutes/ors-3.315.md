@@ -68,15 +68,7 @@ ORS 3.315 — Proposed report of reference judge; objections; final report; fili
 
 (7) The judgment of the reference judge entered as provided in subsection
 
-(6) of this section may be appealed in the same manner as a judgment of the circuit court in a civil action. [1983 c.704 §4; 1995 c.781 §13; 2003 c.576 §231] 3.320 [Repealed by 1981 c.215 §8] 3.321 Compensation of reference judge; payment procedure.
-
-(1) Unless otherwise agreed by the parties, the compensation of a reference judge to whom an action is referred under ORS 3.305 shall be an amount for each day actually engaged in the performance of duties under the referral and in the conduct and disposition of post-trial proceedings under ORS 3.315
-
-(6) equal to five percent of the gross monthly salary of a regularly elected and qualified judge of the circuit court, or one-half of that daily compensation for services of one-half day or less.
-
-(2) Payment of the compensation of a reference judge and the expense of the trial on reference before the reference judge shall be the obligation of the parties. The obligation shall be borne equally by the parties unless the parties agree to a different allocation.
-
-(3) The presiding judge for the judicial district shall estimate the compensation of the reference judge and the expense of the trial on reference in advance of the trial, and shall notify the parties of the estimate. The parties shall deposit with the clerk of the court the amount estimated by the presiding judge. The presiding judge may order the clerk to pay a portion of the deposited amount to the reference judge during the trial on reference. Upon termination of the referral of the action, the reference judge shall cause to be delivered to the presiding judge and each party a written statement of any remaining unpaid compensation and expense. The presiding judge shall hear and decide any objection to the written statement, and thereafter shall order payment to the reference judge or refund of any remainder of the deposited amount accordingly. [1983 c.704 §5; 1995 c.781 §14] 3.330 [Amended by 1971 c.108 §1; 1979 c.77 §2; repealed by 1981 c.215 §8] 3.340 [Repealed by 1969 c.591 §305] 3.350 [Repealed by 1981 c.215 §8] 3.360 [Repealed by 1981 c.215 §8] 3.370 [Repealed by 1959 c.552 §16] 3.380 [Amended by 1961 c.724 §14; 1973 c.484 §4; repealed by 1981 c.215 §8] 3.390 [Repealed by 1981 c.215 §8] 3.400 [Repealed by 1981 c.215 §8]
+(6) of this section may be appealed in the same manner as a judgment of the circuit court in a civil action. [1983 c.704 §4; 1995 c.781 §13; 2003 c.576 §231] 3.320 [Repealed by 1981 c.215 §8] 
 
 ## Provenance & change history
 

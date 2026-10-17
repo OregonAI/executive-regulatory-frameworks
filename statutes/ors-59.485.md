@@ -64,33 +64,7 @@ ORS 59.485 — Required reporting by certain securities professionals of suspect
 
 (4) Subsection
 
-(1) of this section does not apply to a qualified individual who is employed by a financial institution or trust company. [2017 c.514 §3] 59.490 Notifications to third parties.
-
-(1) If a qualified individual has reasonable cause to believe that financial exploitation of a vulnerable person with whom the qualified individual comes into contact has occurred, has been attempted or is being attempted, the qualified individual may notify any third party who was previously designated by the vulnerable person to receive information from the qualified individual regarding the vulnerable person, or whom the qualified individual is otherwise permitted to notify under state or federal law or customer agreement.
-
-(2) Disclosure may not be made under this section to any third party that is suspected of actual or attempted financial exploitation or other abuse of the vulnerable person. [2017 c.514 §4] 59.495 Delay of disbursements; notifications.
-
-(1) A broker-dealer or state investment adviser may delay a disbursement from an account of a vulnerable person or an account on which a vulnerable person is a beneficiary if: (a) The broker-dealer, the state investment adviser or a qualified individual reasonably believes that the requested disbursement might result in financial exploitation of a vulnerable person; and (b) The broker-dealer or state investment adviser: (A) Within two business days of the request for disbursement, provides written notification of the delay and the reason for the delay to all parties authorized to transact business on the account, except to any party that is suspected to have engaged in actual or attempted financial exploitation of the vulnerable person; (B) Within two business days of the request for disbursement, notifies the Department of Consumer and Business Services and the Department of Human Services of the delay and the reason for the delay; and (C) Conducts an internal review of the suspected financial exploitation and reports the results of the review to the Department of Consumer and Business Services and the Department of Human Services.
-
-(2) A delay of a disbursement under this section may not extend beyond the earlier of: (a) Fifteen business days after the date on which the broker-dealer or state investment adviser first delayed disbursement of the funds; or (b) The date on which a determination is made by the broker-dealer or state investment adviser that the disbursement will not result in financial exploitation of the vulnerable person.
-
-(3) Notwithstanding subsection
-
-(2) of this section, upon request of the Department of Consumer and Business Services, a delay of a disbursement under this section may extend beyond 15 business days after the date on which the broker-dealer or state investment adviser first delayed disbursement of the funds, but not beyond the earliest of: (a) Twenty-five business days after the date on which the broker-dealer or state investment adviser first delayed disbursement of the funds; (b) The date on which an order terminating the delay is entered by a court of competent jurisdiction; or (c) The date on which the department issues an order terminating the delay.
-
-(4) The department or a broker-dealer or state investment adviser that initiated a delay of a disbursement under this section may petition a court of competent jurisdiction for an order delaying or enjoining a disbursement of funds or for other protective relief on the grounds that financial exploitation of a vulnerable person is otherwise likely to occur. [2017 c.514 §5] 59.500 Limitation on liability. Qualified individuals, broker-dealers and state investment advisers are not liable under state law for the following actions, if performed in good faith, with reasonable cause and with the exercise of reasonable care:
-
-(1) Disclosing information under ORS 59.485, 59.490 or 59.505;
-
-(2) Failing to notify a vulnerable person of a disclosure of information under ORS 59.485, 59.490 or 59.505; or
-
-(3) Delaying a disbursement under ORS 59.495. [2017 c.514 §6] 59.505 Provision of records to law enforcement and certain state agencies.
-
-(1) Upon request of the Department of Consumer and Business Services, the Department of Human Services or a law enforcement agency, a broker-dealer or state investment adviser shall provide copies of records related to any suspected financial exploitation of a vulnerable person to the requester. The records may include historical records if relevant to suspected financial exploitation of a vulnerable person.
-
-(2) A record made available to an agency under this section is not a public record for purposes of ORS 192.311 to 192.478.
-
-(3) Nothing in this section limits the authority of the Department of Consumer and Business Services to access or examine the books and records of broker-dealers and state investment advisers as otherwise provided by law. [2017 c.514 §7] 59.510 [Repealed by 1967 c.537 §36] 59.520 [Repealed by 1967 c.537 §36] 59.530 [Repealed by 1967 c.537 §36]
+(1) of this section does not apply to a qualified individual who is employed by a financial institution or trust company. [2017 c.514 §3] 
 
 ## Provenance & change history
 

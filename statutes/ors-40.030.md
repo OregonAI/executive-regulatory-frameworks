@@ -60,7 +60,7 @@ ORS 40.030 — Rule 104. Preliminary questions. Chapter 40 (Evidence Code), 2025
 
 (4) The accused does not, by testifying upon a preliminary matter, become subject to cross-examination as to other issues in the case.
 
-(5) This section does not limit the right of a party to introduce before the jury evidence relevant to weight or credibility. [1981 c.892 §5] 40.035 Rule 105. Limited admissibility. When evidence which is admissible as to one party or for one purpose but not admissible as to another party or for another purpose is admitted, the court, upon request, shall restrict the evidence to its proper scope and instruct the jury accordingly. [1981 c.892 §6] 40.040 Rule 106. When part of transaction proved, whole admissible. When part of an act, declaration, conversation or writing is given in evidence by one party, the whole on the same subject, where otherwise admissible, may at that time be inquired into by the other; when a letter is read, the answer may at that time be given; and when a detached act, declaration, conversation or writing is given in evidence, any other act, declaration, conversation or writing which is necessary to make it understood may at that time also be given in evidence. [1981 c.892 §6a]
+(5) This section does not limit the right of a party to introduce before the jury evidence relevant to weight or credibility. [1981 c.892 §5] 
 
 ## Provenance & change history
 

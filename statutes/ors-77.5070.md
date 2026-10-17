@@ -54,7 +54,7 @@ ORS 77.5070 — Warranties on negotiation or delivery of document of title. Chap
 
 (2) The transferor does not have knowledge of any fact that would impair the document’s validity or worth; and
 
-(3) The negotiation or delivery is rightful and fully effective with respect to the title to the document and the goods it represents. [1961 c.726 §77.5070; 2009 c.181 §83] 77.5080 Warranties of collecting bank as to documents. A collecting bank or other intermediary known to be entrusted with documents of title on behalf of another or with collection of a draft or other claim against delivery of documents warrants by the delivery of the documents only its own good faith and authority even if the collecting bank or other intermediary has purchased or made advances against the claim or draft to be collected. [1961 c.726 §77.5080; 2009 c.181 §84] 77.5090 Adequate compliance with commercial contract. Whether a document of title is adequate to fulfill the obligations of a contract for sale, a contract for lease or the conditions of a letter of credit is determined by ORS chapter 72, 72A or 75. [1961 c.726 §77.5090; 2009 c.181 §85]
+(3) The negotiation or delivery is rightful and fully effective with respect to the title to the document and the goods it represents. [1961 c.726 §77.5070; 2009 c.181 §83] 
 
 ## Provenance & change history
 

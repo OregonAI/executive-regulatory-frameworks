@@ -50,17 +50,7 @@ ORS 86.809 — Compensation of trustee. Chapter 86 (Mortgages; Trust Deeds), 202
 
 86.809 Compensation of trustee. The charge of a trustee for the performance of powers and duties of foreclosure by advertisement and sale imposed under ORS 86.705 to 86.815 shall not exceed 50 percent of the compensation allowable to a personal representative under ORS 116.173
 
-(3) or a minimum charge of $100. Such compensation shall be based upon the amount due on the obligation, both principal and interest, at the time of the trustee’s sale. [Formerly 86.795; 2017 c.169 §43] 86.812 Impermissible conditions for approving short sale or sale of note; exceptions.
-
-(1) As used in this section, “nonprofit entity” means a nonprofit corporation that is organized in this state and that is exempt from taxation under section 501(c)(3) of the Internal Revenue Code, or a subsidiary or agent of the nonprofit corporation.
-
-(2) Except as provided in subsection
-
-(3) of this section, a beneficiary may not, as a condition of offering or approving a short sale as an alternative to foreclosing a residential trust deed, require a nonprofit entity that purchases property that is subject to the residential trust deed from a grantor in a short sale, or that purchases a note from the beneficiary that secures the grantor’s obligation to the beneficiary by means of the residential trust deed, to enter into an agreement with the beneficiary or the grantor that limits or bars the grantor, after the short sale or the sale of the note, from owning or occupying the property that is subject to the residential trust deed.
-
-(3) Subsection
-
-(2) of this section does not apply if: (a) The beneficiary does not receive notice before the short sale that the nonprofit entity or the grantor intends for the grantor to continue after the short sale to own or occupy the property that is the subject of the short sale; (b) The grantor does not allow the beneficiary reasonable access to the property that is the subject of the short sale for the purpose of inspecting or appraising the property; (c) Offering or approving the short sale would require the beneficiary to breach a contractual obligation to another person with respect to a residential trust deed that was recorded before July 19, 2013; or (d) Offering or approving the short sale would require the beneficiary to breach a legal obligation that is not based on a contract. [2013 c.625 §2] 86.815 Time within which foreclosure must be commenced. The foreclosure of a trust deed by advertisement and sale or the foreclosure of a trust deed by judicial procedure shall be commenced within the time, including extensions, provided by ORS 88.110 and 88.120 for the foreclosure of a mortgage on real property. [Formerly 86.725]
+(3) or a minimum charge of $100. Such compensation shall be based upon the amount due on the obligation, both principal and interest, at the time of the trustee’s sale. [Formerly 86.795; 2017 c.169 §43] 
 
 ## Provenance & change history
 

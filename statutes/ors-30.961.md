@@ -58,15 +58,7 @@ ORS 30.961 — Actions against sellers of food for food-related condition. Chapt
 
 (4) A violation of law is knowing and willful for the purposes of subsection (3)(d) of this section if the person engaged in the conduct that constituted the violation with the intent to deceive or injure or with actual knowledge that the conduct was deceptive or injurious.
 
-(5) This section does not create any claim, right of action or civil liability. This section does not affect any government agency’s statutory authority to enforce laws relating to adulteration or misbranding of food. [2005 c.658 §1] 30.963 Claim requirements for actions involving food-related conditions.
-
-(1) As used in this section: (a) “Food” has the meaning given that term in 21 U.S.C. 321, as in effect on January 1, 2006. (b) “Food-related condition” means: (A) Weight gain; (B) Obesity; (C) A health condition associated with weight gain or obesity; or (D) A generally recognized health condition alleged to be caused by, or alleged to likely result from, long-term consumption of food rather than a single instance of consumption of food.
-
-(2) A complaint, cross-claim, counterclaim or third-party complaint asserting a claim described in ORS 30.961
-
-(3) must plead with particularity each element of the cause of action, including a description of all of the following: (a) The law that allegedly was violated. (b) The facts that are alleged to constitute a violation of the law identified in paragraph (a) of this subsection. (c) The facts that are alleged to demonstrate that the food-related condition was caused by the violation. (d) If the violation was of a law described in ORS 30.961 (3)(d), facts sufficient to support a reasonable inference that the violation was committed with the intent to deceive or injure or with actual knowledge that the conduct was deceptive or injurious.
-
-(3) In any action for a claim of injury or death caused by a food-related condition, a court shall stay all discovery and other proceedings during the pendency of any motion to dismiss. The court, on motion and for good cause shown, shall order that specified discovery be conducted notwithstanding the stay imposed under this subsection. [2005 c.658 §3]
+(5) This section does not create any claim, right of action or civil liability. This section does not affect any government agency’s statutory authority to enforce laws relating to adulteration or misbranding of food. [2005 c.658 §1] 
 
 ## Provenance & change history
 

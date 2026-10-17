@@ -68,13 +68,7 @@ ORS 19.270 — Appellate jurisdiction of Supreme Court and Court of Appeals; tri
 
 (7) If a limited or supplemental judgment is appealed, the jurisdiction of the appellate court is limited to the matters decided by the limited or supplemental judgment, and the trial court retains jurisdiction over all other matters in the proceeding.
 
-(8) After jurisdiction of the appellate court ends, all orders which may be necessary to carry the appellate judgment into effect shall be made by the court from which the appeal was taken. [Formerly 19.033; 2003 c.576 §86; 2005 c.568 §25c; 2007 c.66 §1; 2013 c.10 §1; 2025 c.256 §3] 19.275 Continuing jurisdiction of trial court in certain domestic relations cases.
-
-(1) Any motion that requires a showing of a change of circumstances before the court may modify a judgment, including a motion to reconsider the spousal or child support provisions of a judgment pursuant to ORS 107.135, may be filed with the trial court while an appeal from the judgment is pending before an appellate court. The filing of a motion under this subsection does not affect the right of the appellant to pursue the appeal of the judgment.
-
-(2) The trial court in its discretion may proceed to hear and decide a motion under this section or may hold the motion in abeyance pending disposition of the appeal.
-
-(3) Pursuant to the provisions of ORS 19.205, the court’s decision on a motion under this section is a supplemental judgment. The appellate court in its discretion may consolidate an appeal from a supplemental judgment under this section with the pending appeal of the general judgment in the case, may direct that both appeals be heard at the same time or may allow the appeals to proceed independently. [1997 c.71 §11; 2003 c.576 §87; 2005 c.568 §26]
+(8) After jurisdiction of the appellate court ends, all orders which may be necessary to carry the appellate judgment into effect shall be made by the court from which the appeal was taken. [Formerly 19.033; 2003 c.576 §86; 2005 c.568 §25c; 2007 c.66 §1; 2013 c.10 §1; 2025 c.256 §3] 
 
 ## Provenance & change history
 

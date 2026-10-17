@@ -62,13 +62,7 @@ ORS 72.6150 — Excuse by failure of presupposed conditions. Chapter 72 (Sales),
 
 (3) The seller must notify the buyer seasonably that there will be delay or nondelivery and, when allocation is required under subsection
 
-(2) of this section, of the estimated quota thus made available for the buyer. [1961 c.726 §72.6150] 72.6160 Procedure on notice claiming excuse.
-
-(1) Where the buyer receives notification of a material or indefinite delay or an allocation justified under ORS 72.6150 the buyer may by written notification to the seller as to any delivery concerned, and where the prospective deficiency substantially impairs the value of the whole contract under the provisions of ORS 72.6120 relating to breach of installment contracts, then also as to the whole: (a) Terminate and thereby discharge any unexecuted portion of the contract; or (b) Modify the contract by agreeing to take the available quota in substitution.
-
-(2) If after receipt of such notification from the seller the buyer fails so to modify the contract within a reasonable time not exceeding 30 days the contract lapses with respect to any deliveries affected.
-
-(3) The provisions of this section may not be negated by agreement except in so far as the seller has assumed a greater obligation under ORS 72.6150. [1961 c.726 §72.6160]
+(2) of this section, of the estimated quota thus made available for the buyer. [1961 c.726 §72.6150] 
 
 ## Provenance & change history
 

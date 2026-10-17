@@ -5,7 +5,7 @@
  "counts": {
   "agencies": 175,
   "colored_groups": 15,
-  "ors_chapters": 439,
+  "ors_chapters": 442,
   "bodies_their_sources_disagree_about": 0
  },
  "colored_groups": [
@@ -418,6 +418,7 @@
   "659a": 6,
   "660": 3,
   "663": 1,
+  "67": 1,
   "670": 27,
   "671": 8,
   "672": 3,
@@ -445,6 +446,7 @@
   "694": 1,
   "696": 1,
   "697": 2,
+  "70": 1,
   "700": 1,
   "701": 7,
   "702": 1,
@@ -462,6 +464,7 @@
   "717": 1,
   "723": 2,
   "725": 1,
+  "725a": 1,
   "726": 1,
   "73": 1,
   "731": 3,
@@ -1377,7 +1380,7 @@
   {
    "slug": "department-of-consumer-and-business-services-finance-and-securities-regulation",
    "name": "Department of Consumer and Business Services, Finance and Securities Regulation",
-   "rules": 443,
+   "rules": 467,
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
    "group_name": "Department of Consumer and Business Services",
@@ -1404,6 +1407,7 @@
     "717",
     "723",
     "725",
+    "725a",
     "726",
     "86a",
     "97"
@@ -3900,6 +3904,8 @@
     "647",
     "648",
     "65",
+    "67",
+    "70",
     "87"
    ]
   },

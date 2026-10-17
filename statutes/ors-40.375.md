@@ -48,19 +48,7 @@ ORS 40.375 — Rule 612. Writing used to refresh memory. Chapter 40 (Evidence Co
 
 ## Full text
 
-40.375 Rule 612. Writing used to refresh memory. If a witness uses a writing to refresh memory for the purpose of testifying, either while testifying or before testifying if the court in its discretion determines it is necessary in the interests of justice, an adverse party is entitled to have the writing produced at the hearing, to inspect it, to cross-examine the witness thereon, and to introduce into evidence those portions which relate to the testimony of the witness. If it is claimed that the writing contains matters not related to the subject matter of the testimony, the court shall examine the writing in camera, excise any portions not so related, and order delivery of the remainder to the party entitled thereto. Any portion withheld over objections shall be preserved and made available to the appellate court in the event of an appeal. If a writing is not produced or delivered pursuant to order under this section, the court shall make any order justice requires, except that in criminal cases when the prosecution elects not to comply the order shall be one striking the testimony or, if the court in its discretion determines that the interests of justice so require, declaring a mistrial. [1981 c.892 §55] 40.380 Rule 613. Prior statements of witnesses.
-
-(1) In examining a witness concerning a prior statement made by the witness, whether written or not, the statement need not be shown nor its contents disclosed to the witness at that time, but on request the same shall be shown or disclosed to opposing counsel.
-
-(2) Extrinsic evidence of a prior inconsistent statement by a witness is not admissible unless the witness is afforded an opportunity to explain or deny the same and the opposite party is afforded an opportunity to interrogate the witness thereon, or the interests of justice otherwise require. This provision does not apply to admissions of a party-opponent as defined in ORS 40.450. [1981 c.892 §55a; 1983 c.433 §2; 1983 c.740 §5] 40.385 Rule 615. Exclusion of witnesses. At the request of a party the court may order witnesses excluded until the time of final argument, and it may make the order of its own motion. This rule does not authorize exclusion of:
-
-(1) A party who is a natural person;
-
-(2) An officer or employee of a party which is not a natural person designated as its representative by its attorney;
-
-(3) A person whose presence is shown by a party to be essential to the presentation of the party’s cause; or
-
-(4) The victim in a criminal case. [1981 c.892 §56; 1987 c.2 §5; 2003 c.14 §20]
+40.375 Rule 612. Writing used to refresh memory. If a witness uses a writing to refresh memory for the purpose of testifying, either while testifying or before testifying if the court in its discretion determines it is necessary in the interests of justice, an adverse party is entitled to have the writing produced at the hearing, to inspect it, to cross-examine the witness thereon, and to introduce into evidence those portions which relate to the testimony of the witness. If it is claimed that the writing contains matters not related to the subject matter of the testimony, the court shall examine the writing in camera, excise any portions not so related, and order delivery of the remainder to the party entitled thereto. Any portion withheld over objections shall be preserved and made available to the appellate court in the event of an appeal. If a writing is not produced or delivered pursuant to order under this section, the court shall make any order justice requires, except that in criminal cases when the prosecution elects not to comply the order shall be one striking the testimony or, if the court in its discretion determines that the interests of justice so require, declaring a mistrial. [1981 c.892 §55] 
 
 ## Provenance & change history
 

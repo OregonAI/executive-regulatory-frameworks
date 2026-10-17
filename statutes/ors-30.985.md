@@ -54,7 +54,7 @@ ORS 30.985 — Duties of skiers; effect of failure to comply. Chapter 30 (Action
 
 (2) Violation of any of the duties of skiers set forth in subsection
 
-(1) of this section entitles the ski area operator to withdraw the violator’s privilege of skiing. [1979 c.665 §4] 30.990 Operators required to give skiers notice of duties. Ski area operators shall give notice to skiers of their duties under ORS 30.985 in a manner reasonably calculated to inform skiers of those duties. [1979 c.665 §5]
+(1) of this section entitles the ski area operator to withdraw the violator’s privilege of skiing. [1979 c.665 §4] 
 
 ## Provenance & change history
 

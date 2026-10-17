@@ -72,23 +72,7 @@ ORS 90.385 — Retaliatory conduct by landlord; tenant remedies and defenses; ac
 
 (7) The maintenance of an action under subsection
 
-(4) of this section does not release the landlord from liability under ORS 90.360 (2). [Formerly 91.865; 1995 c.559 §25; 1997 c.303 §1; 1999 c.603 §23; 2011 c.42 §8; 2020 s.s.3 c.3 §§9,18; 2023 c.145 §3] 90.388 Disclosure of immigration or citizenship status of applicant, tenant or family member prohibited; remedies.
-
-(1) A landlord may not, with the intent or purpose of harassing, retaliating against or intimidating, disclose or threaten to disclose the immigration or citizenship status of an applicant, a tenant or a member of an applicant’s or a tenant’s household.
-
-(2) A violation of this section or ORS 90.306 is: (a) Considered a violation of ORS 90.390
-
-(1) and subject to ORS 90.390
-
-(2) and (3); and (b) Only for purposes of ORS 659A.885, considered an unlawful practice and subject to remedies under ORS 659A.885. [2025 c.226 §3] Note: 90.388 was added to and made a part of ORS chapter 90 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 90.390 Discrimination against tenant or applicant; tenant defense.
-
-(1) A landlord may not discriminate against a tenant in violation of local, state or federal law, including ORS 659A.145 and 659A.421.
-
-(2) If the tenant can prove that the landlord violated subsection
-
-(1) of this section, the tenant has a defense in any discriminatory action brought by the landlord against the tenant for possession, unless the tenant is in default in rent.
-
-(3) A tenant may prove a landlord’s discrimination in violation of ORS 659A.145 or 659A.421 by demonstrating that a facially neutral housing policy has a disparate adverse impact, as described in ORS 659A.425, on members of a protected class. [1993 c.369 §24; 1997 c.577 §22; 2003 c.378 §12; 2005 c.391 §32; 2007 c.903 §14; 2008 c.36 §3; 2013 c.294 §11; 2013 c.530 §5]
+(4) of this section does not release the landlord from liability under ORS 90.360 (2). [Formerly 91.865; 1995 c.559 §25; 1997 c.303 §1; 1999 c.603 §23; 2011 c.42 §8; 2020 s.s.3 c.3 §§9,18; 2023 c.145 §3] 
 
 ## Provenance & change history
 

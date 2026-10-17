@@ -56,19 +56,7 @@ ORS 30.136 — Action to enforce right or remedy under Servicemembers Civil Reli
 
 (3) In addition to the counties specified in ORS 14.080, an action brought by a servicemember to enforce a right or remedy under 50 U.S.C. 3901 et seq. may be brought in the Oregon county where the servicemember resides or where the servicemember was a resident at the time of bringing the action.
 
-(4) Any contract term or provision providing for a choice of forum other than Oregon in an agreement entered into by a servicemember who resides in Oregon or is a resident of Oregon is voidable at the election of the servicemember. [2009 c.83 §1; 2019 c.13 §18] 30.138 Remedies for violation of Servicemembers Civil Relief Act.
-
-(1) In addition to any other remedy payable to a servicemember for the enforcement of a right under 50 U.S.C. 3901 et seq., a court shall award a servicemember reasonable attorney fees and the amounts specified in subsection
-
-(2) of this section if the court finds that written demand as described in subsection
-
-(3) of this section was mailed to the opposing party demanding relief under 50 U.S.C. 3901 et seq., and the opposing party failed to remedy the violation of 50 U.S.C. 3901 et seq. within 30 days after the mailing of the demand.
-
-(2) If a court finds that notice was mailed as required by this section, and the opposing party failed to remedy the violation of 50 U.S.C. 3901 et seq. within the time allowed, the court shall award the servicemember: (a) The greater of $1,000 or actual damages, including damages for emotional distress; or (b) If the court finds that the opposing party’s conduct was willful, as described in ORS 646.605, the court shall award the servicemember the greater of $5,000 or three times the amount of actual damages, including damages for emotional distress.
-
-(3) A written demand under subsection
-
-(1) of this section must be sent by certified mail, return receipt requested. The demand must include the servicemember’s name and address, the date on which the servicemember went on active duty and a description of the alleged violation of 50 U.S.C. 3901 et seq. [2009 c.83 §2; 2019 c.13 §19]
+(4) Any contract term or provision providing for a choice of forum other than Oregon in an agreement entered into by a servicemember who resides in Oregon or is a resident of Oregon is voidable at the election of the servicemember. [2009 c.83 §1; 2019 c.13 §18] 
 
 ## Provenance & change history
 

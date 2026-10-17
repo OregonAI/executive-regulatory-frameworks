@@ -48,13 +48,7 @@ ORS 20.330 — Costs and disbursements in cases of original jurisdiction. Chapte
 
 ## Full text
 
-20.330 Costs and disbursements in cases of original jurisdiction. Litigants shall recover their costs and disbursements in cases of original jurisdiction in the Supreme Court, the same as provided in cases on appeal. CONTINGENT FEE AGREEMENTS 20.340 Contingent fee agreement.
-
-(1) In any civil action arising out of bodily injury, death or property damage, including claims for emotional injury or distress, loss of care, comfort, companionship and society, and loss of consortium, if an attorney for a plaintiff in respect to any civil action enters into an agreement with the plaintiff whereby the attorney receives as a fee a percentage of the amount of any settlement or judgment awarded to the plaintiff: (a) The contingent fee agreement shall be written in plain and simple language reasonably believed to be understandable by the plaintiff. (b) The attorney shall explain the terms and conditions of the agreement in compliance with a model explanation in plain and simple language prepared by the Oregon State Bar a reasonable time before the agreement is signed. (c) The contingent fee agreements must contain a provision allowing the plaintiff to rescind the agreement within 24 hours after signing upon written notice to the attorney.
-
-(2) Any contingent fee agreement entered into on or after September 26, 1987, that does not comply with the requirements of subsection
-
-(1) of this section is voidable. [Formerly 9.400] _______________
+20.330 Costs and disbursements in cases of original jurisdiction. Litigants shall recover their costs and disbursements in cases of original jurisdiction in the Supreme Court, the same as provided in cases on appeal. CONTINGENT FEE AGREEMENTS 
 
 ## Provenance & change history
 

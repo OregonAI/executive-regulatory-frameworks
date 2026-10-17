@@ -85,11 +85,7 @@ ORS 86A.236 — Prohibited activities. Chapter 86A (Mortgage Lending), 2025 Edit
 
 (17) Cause or require a borrower to obtain property insurance in an amount that exceeds the replacement cost of the property subject to the residential mortgage loan; or
 
-(18) Fail to account truthfully for moneys that belong to a party to a residential mortgage loan transaction. [2009 c.863 §12] 86A.239 Display of license and unique identifier; rules; report of condition. (1)(a) A licensed mortgage loan originator shall clearly display the licensed mortgage loan originator’s unique identifier on a residential mortgage loan application form, solicitation, advertisement, promotional material or website the licensed mortgage loan originator uses in connection with the licensed mortgage loan originator’s business. (b) The Director of the Department of Consumer and Business Services by rule may specify the location, size or other characteristics of the unique identifier that must appear on the materials described in paragraph (a) of this subsection and the materials on which the unique identifier must appear.
-
-(2) A person that employs a licensed mortgage loan originator shall submit a report of condition to the Nationwide Mortgage Licensing System and Registry. The form and contents of the report and the times at which the licensed mortgage loan originator submits the report shall comply with the specifications of the Nationwide Mortgage Licensing System and Registry.
-
-(3) A loan processor or underwriter may not represent to the public by means of advertising, business cards, stationery, brochures, signs, rate lists or other communications, promotional items or methods that the loan processor or underwriter can, will or is authorized to perform the duties of a mortgage loan originator unless the loan processor or underwriter obtains a mortgage loan originator’s license under ORS 86A.212. [2009 c.863 §13] 86A.242 Rules. The Director of the Department of Consumer and Business Services may adopt, amend and repeal rules that are necessary to carry out the provisions of ORS 86A.200 to 86A.239. [2009 c.863 §13a]
+(18) Fail to account truthfully for moneys that belong to a party to a residential mortgage loan transaction. [2009 c.863 §12] 
 
 ## Provenance & change history
 

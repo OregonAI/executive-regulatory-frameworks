@@ -54,13 +54,7 @@ ORS 15.360 — General rule. Chapter 15 (Choice of Laws), 2025 Edition.
 
 (2) Identifying the policies underlying any apparently conflicting laws of these states that are relevant to the issue; and
 
-(3) Evaluating the relative strength and pertinence of these policies in: (a) Meeting the needs and giving effect to the policies of the interstate and international systems; and (b) Facilitating the planning of transactions, protecting a party from undue imposition by another party, giving effect to justified expectations of the parties concerning which state’s law applies to the issue and minimizing adverse effects on strong legal policies of other states. [Formerly 81.130] (Presumptive Rules) 15.380 Presumptive rules for specific types of contracts.
-
-(1) To the extent that an effective choice of law has not been made by the parties pursuant to ORS 15.350 or 15.355, or is not prescribed by ORS 15.320, 15.325, 15.330 or 15.335, contracts described in subsection
-
-(2) of this section are governed by the law of the state specified in subsection
-
-(2) of this section unless a party demonstrates that the application of that law would be clearly inappropriate under the principles of ORS 15.360. (2)(a) Contracts involving the occupancy of real property, the land use of property or the recording of interests in real property are governed by the law of the state where the property is situated. (b) Contracts for personal services are governed by the law of the state where the services are to be primarily rendered pursuant to the contract. (c) Contracts for franchises, as defined in ORS 650.005, except for licensing clauses in such contracts, are governed by the law of the state where the franchise is to operate pursuant to the contract. (d) Licensing contracts and licensing clauses in contracts for franchises, as defined in ORS 650.005, are governed by the law of the state where the licensor has its place of business or residence with the closest connection to the transactions between the parties. For purposes of this subsection, “licensing” means a grant of a privilege, created by contract, that allows one party, the licensee, to use the property or right of another party, the licensor. (e) Agency contracts are governed by the law of the state where the agent’s duties are to be primarily performed. [Formerly 81.135]
+(3) Evaluating the relative strength and pertinence of these policies in: (a) Meeting the needs and giving effect to the policies of the interstate and international systems; and (b) Facilitating the planning of transactions, protecting a party from undue imposition by another party, giving effect to justified expectations of the parties concerning which state’s law applies to the issue and minimizing adverse effects on strong legal policies of other states. [Formerly 81.130] (Presumptive Rules) 
 
 ## Provenance & change history
 

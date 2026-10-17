@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-45.900
-title: "Penalty for violation of ORS"
+title: "Penalty for violation of ORS 45.135 or"
 doc_type: statute
 citation: "ORS 45.900"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-45"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors045.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Penalty for violation of ORS (ORS 45.900)
+# Penalty for violation of ORS 45.135 or (ORS 45.900)
 
 ## At a glance
 
-ORS 45.900 — Penalty for violation of ORS. Chapter 45 (Testimony Generally), 2025 Edition.
+ORS 45.900 — Penalty for violation of ORS 45.135 or. Chapter 45 (Testimony Generally), 2025 Edition.
 
 ## Full text
 

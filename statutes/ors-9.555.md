@@ -58,23 +58,7 @@ ORS 9.555 — Copy of complaint or notice to Attorney General when bar is plaint
 
 (1) and
 
-(2) of this section shall not apply to matters involving admission of any applicant to the bar, discipline or reinstatement of a licensee of the bar or claims made against a licensee of the bar for which the professional liability fund of the bar may be obligated to pay money damages under ORS 9.080 (2). [1985 c.446 §3; 2025 c.32 §37] 9.560 [Amended by 1963 c.106 §1; 1973 c.490 §4; 1975 c.641 §7; 1979 c.252 §24; repealed by 1983 c.618 §1] 9.565 Tax return information from Department of Revenue; use.
-
-(1) The Department of Revenue may provide to the Oregon State Bar the name and address of any person admitted to practice law in this state if the department has reasonable grounds to believe that: (a) The person admitted to practice law prepared a return or report for another person that is filed with the department and the return or report was prepared in violation of any provision of ORS 9.460 to 9.542 or 9.705 to 9.757 or the disciplinary rules adopted thereunder; (b) The person admitted to practice law failed to file a required return, the person has not filed an appeal contesting the tax with the department by the filing deadline and the department has been unable to obtain payment of the tax through other methods of collection; (c) The person admitted to practice law failed to withhold or remit personal income taxes on behalf of an employee of an entity, the person has been held liable for the failure under ORS 316.207, the person has not filed an appeal contesting the tax with the department by the filing deadline and the department has been unable to obtain payment of the tax through other methods of collection; or (d) The person admitted to practice law failed to withhold or remit personal income taxes on behalf of an employee of an entity in which the person has a direct ownership interest, the person has not filed an appeal contesting the tax with the department by the filing deadline and the department has been unable to obtain payment of the tax through other methods of collection.
-
-(2) If the department provides the name and address of a person admitted to practice law under subsection
-
-(1) of this section, the department shall also provide to the bar a statement of the basis of the department’s belief that a violation may have occurred.
-
-(3) If the department provides the name and address of a person admitted to practice law under subsection
-
-(1) of this section with regard to a return or report prepared for a person other than the person admitted to practice law, or with regard to a failure to withhold and remit personal income taxes withheld, the department may also provide to the bar the name and address of the taxpayer.
-
-(4) The bar and any person or board described in ORS 9.537
-
-(2) shall use the names, addresses and other information provided under this section solely in the enforcement of ORS 9.460 to 9.542 or 9.705 to 9.757 or the disciplinary rules adopted thereunder. Information disclosed by the department pursuant to this section may be used in any bar proceeding relating to discipline or admission or reinstatement of any person to the bar.
-
-(5) Information disclosed by the department pursuant to this section is confidential and not subject to disclosure by the bar unless the state professional responsibility board appointed under ORS 9.532 has found probable cause of a rule violation or the matter investigated is finally resolved by disciplinary board action, a diversion or agreement or an order of the Supreme Court. [1985 c.602 §10; 1999 c.171 §2; 2017 c.524 §4; 2019 c.248 §2]
+(2) of this section shall not apply to matters involving admission of any applicant to the bar, discipline or reinstatement of a licensee of the bar or claims made against a licensee of the bar for which the professional liability fund of the bar may be obligated to pay money damages under ORS 9.080 (2). [1985 c.446 §3; 2025 c.32 §37] 9.560 [Amended by 1963 c.106 §1; 1973 c.490 §4; 1975 c.641 §7; 1979 c.252 §24; repealed by 1983 c.618 §1] 
 
 ## Provenance & change history
 

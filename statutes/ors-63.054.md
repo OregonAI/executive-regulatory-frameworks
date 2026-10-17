@@ -48,7 +48,7 @@ ORS 63.054 — Liability for preorganization transactions. Chapter 63 (Limited L
 
 ## Full text
 
-63.054 Liability for preorganization transactions. All persons purporting to act as or on behalf of a limited liability company, knowing the limited liability company was not then in existence, are jointly and severally liable for all liabilities created while so acting. [1993 c.173 §17] 63.057 Operating agreements. The operating agreement, if any, may provide for the regulation and management of the affairs of the limited liability company in any manner not inconsistent with law or the articles of organization and may be in writing or oral. [1993 c.173 §18; 1995 c.93 §3] 63.060 [Repealed by 1959 c.580 §104] 63.070 [Repealed by 1959 c.580 §104]
+63.054 Liability for preorganization transactions. All persons purporting to act as or on behalf of a limited liability company, knowing the limited liability company was not then in existence, are jointly and severally liable for all liabilities created while so acting. [1993 c.173 §17] 
 
 ## Provenance & change history
 

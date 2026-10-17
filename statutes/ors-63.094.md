@@ -69,19 +69,7 @@ ORS 63.094 — Limited liability company name. Chapter 63 (Limited Liability Com
 
 (6) The provisions of this section do not prohibit a limited liability company from transacting business under an assumed business name.
 
-(7) The provisions of this section do not: (a) Abrogate or limit the law governing unfair competition or unfair trade practices; or (b) Derogate from the common law, the principles of equity or the statutes of this state or of the United States with respect to the right to acquire and protect trade names. [1993 c.173 §21; 1995 c.93 §5; 2013 c.159 §8] 63.097 Reserved name.
-
-(1) A person may apply to the office to reserve a limited liability company name. The application must set forth the name and address of the applicant and the name proposed to be reserved.
-
-(2) If the Secretary of State finds that the limited liability company name applied for conforms to ORS 63.094, the Secretary of State shall reserve the name for the applicant for a 120-day period.
-
-(3) A person may transfer the reservation of a limited liability company name to another person by delivering to the office a notice of the transfer executed by the person for whom the name was reserved and specifying the name and address of the transferee. [1993 c.173 §22] 63.101 Registered name.
-
-(1) A foreign limited liability company may apply to the office to register its name.
-
-(2) The application must set forth the limited liability company name, the state or country of its organization, the date of its organization and a brief description of the nature of the business in which it is engaged and a statement that it is not carrying on or doing business in the State of Oregon. The application must be accompanied by a certificate of existence or a document of similar import current within 60 days of delivery, duly authenticated by the official having custody of the limited liability company records in the state or country under whose law it is organized.
-
-(3) If the Secretary of State finds that the name conforms to ORS 63.094, the Secretary of State shall register the name effective for one year. [1993 c.173 §23] 63.110 [Repealed by 1959 c.580 §104]
+(7) The provisions of this section do not: (a) Abrogate or limit the law governing unfair competition or unfair trade practices; or (b) Derogate from the common law, the principles of equity or the statutes of this state or of the United States with respect to the right to acquire and protect trade names. [1993 c.173 §21; 1995 c.93 §5; 2013 c.159 §8] 
 
 ## Provenance & change history
 

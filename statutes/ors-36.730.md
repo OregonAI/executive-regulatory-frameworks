@@ -52,7 +52,7 @@ ORS 36.730 — Appeals. Chapter 36 (Mediation and Arbitration), 2025 Edition.
 
 (1) An appeal may be taken from: (a) An order denying a petition to compel arbitration. (b) An order granting a petition to stay arbitration. (c) A judgment entered pursuant to ORS 36.600 to 36.740, including but not limited to a judgment: (A) Confirming or denying confirmation of an award. (B) Modifying or correcting an award. (C) Vacating an award without directing a rehearing.
 
-(2) An appeal under this section must be taken as provided in ORS chapter 19. [2003 c.598 §28] Note: See note under 36.600. 36.735 Uniformity of application and construction. In applying and construing ORS 36.600 to 36.740, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it. [2003 c.598 §29] Note: See note under 36.600. 36.740 Relationship to electronic signatures in Global and National Commerce Act. The provisions of ORS 36.600 to 36.740 governing the legal effect, validity and enforceability of electronic records or electronic signatures, and of contracts performed with the use of such records or signatures, conform to the requirements of Section 102 of the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7001 and 7002, as in effect on January 1, 2004. [2003 c.598 §30] Note: See note under 36.600. _______________
+(2) An appeal under this section must be taken as provided in ORS chapter 19. [2003 c.598 §28] Note: See note under 36.600. 
 
 ## Provenance & change history
 

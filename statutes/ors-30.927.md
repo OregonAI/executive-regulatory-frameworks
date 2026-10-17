@@ -70,13 +70,7 @@ ORS 30.927 — When manufacturer of drug not liable for punitive damages; except
 
 (2) of this section, section 1 of this 2007 Act applies only to causes of action arising on or before January 1, 2007.
 
-(2) Section 1 of this 2007 Act does not apply to any causes of action for which a judgment was entered in the register of a court before the effective date of this 2007 Act [January 1, 2008]. [2007 c.536 §2] 30.928 Time limitation for actions for damages caused by certain light bulbs.
-
-(1) As used in this section, “R type metal halide or mercury vapor light bulb” means a metal halide or mercury vapor light bulb that does not have an internal mechanism that shuts off the light automatically within 15 minutes after the bulb is broken.
-
-(2) A product liability civil action for damages caused by R type metal halide or mercury vapor light bulbs may not be commenced more than two years after the date on which the plaintiff first discovered, or in the exercise of reasonable care should have discovered, the injury and the causal relationship between the injury and the conduct of the defendant.
-
-(3) A product liability civil action for damages caused by R type metal halide or mercury vapor light bulbs is subject only to the limitation imposed by this section and is not subject to ORS 30.905 or any other statute of limitation or statute of ultimate repose. [2009 c.485 §11]
+(2) Section 1 of this 2007 Act does not apply to any causes of action for which a judgment was entered in the register of a court before the effective date of this 2007 Act [January 1, 2008]. [2007 c.536 §2] 
 
 ## Provenance & change history
 

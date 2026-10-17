@@ -54,17 +54,7 @@ ORS 93.985 — Forfeiture of transfer by parent who deserted or neglected transf
 
 (2) A petition under this section must be filed not later than: (a) Four months after the date of delivery or mailing of the information described in ORS 113.145 if that information was required to be delivered or mailed to the person on whose behalf the petition is filed; or (b) If the person on whose behalf the petition is filed was not required to be named as an interested person in the petition for appointment of a personal representative: (A) Four months after the date of publication of notice to interested persons; or (B) If notice to interested persons was not published, one year after the decedent’s date of death.
 
-(3) The petitioner has the burden of proving the facts alleged in a petition filed under this section by: (a) If the petitioner is a child or sibling of the transferor, a preponderance of evidence; or (b) If the petitioner is not a child or sibling of the transferor, clear and convincing evidence. [2011 c.212 §21; 2019 c.461 §7; 2023 c.18 §3] Note: See note under 93.948. PENALTIES 93.990 Penalties.
-
-(1) The giving of a false statement of the true and actual consideration as required by ORS 93.030 is a Class A violation.
-
-(2) Any person served with the subpoena mentioned in ORS 93.460 who, without reasonable cause, refuses or neglects to appear, or appearing refuses to answer upon oath touching the matter mentioned in ORS 93.460 shall forfeit to the injured party $100. The person may also be committed to prison as for a contempt by the officer who issued the subpoena until the person submits to answer on oath as aforesaid.
-
-(3) Violation of ORS 93.635 is a Class D violation. [Subsection
-
-(1) enacted as 1967 c.462 §2; subsection
-
-(3) enacted as 1975 c.618 §4; 1977 c.724 §2; 1999 c.1051 §149] _______________
+(3) The petitioner has the burden of proving the facts alleged in a petition filed under this section by: (a) If the petitioner is a child or sibling of the transferor, a preponderance of evidence; or (b) If the petitioner is not a child or sibling of the transferor, clear and convincing evidence. [2011 c.212 §21; 2019 c.461 §7; 2023 c.18 §3] Note: See note under 93.948. PENALTIES 
 
 ## Provenance & change history
 

@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-86.265
-title: "Effect of lender violation of ORS"
+title: "Effect of lender violation of ORS 86.205 to 86.275"
 doc_type: statute
 citation: "ORS 86.265"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-86"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors086.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Effect of lender violation of ORS (ORS 86.265)
+# Effect of lender violation of ORS 86.205 to 86.275 (ORS 86.265)
 
 ## At a glance
 
-ORS 86.265 — Effect of lender violation of ORS. Chapter 86 (Mortgages; Trust Deeds), 2025 Edition.
+ORS 86.265 — Effect of lender violation of ORS 86.205 to 86.275. Chapter 86 (Mortgages; Trust Deeds), 2025 Edition.
 
 ## Full text
 
@@ -52,7 +52,7 @@ ORS 86.265 — Effect of lender violation of ORS. Chapter 86 (Mortgages; Trust D
 
 (1) The borrower’s actual damages or $100, whichever is greater, and
 
-(2) In the case of any successful action to enforce the foregoing liability, the court costs of the action together with reasonable attorney fees at trial and on appeal as determined by the court if the court finds that written demand for the payment of the borrower’s claim was made on the lender not less than 10 days before the commencement of the action. No attorney fees shall be allowed to the borrower if the court finds that the lender tendered to the borrower, prior to the commencement of the action, an amount not less than the damages awarded to the borrower. [1975 c.337 §14; 1981 c.897 §19] 86.270 ORS 86.205 to 86.275 inapplicable to certain loan agreements; notice to borrower. ORS 86.205 to 86.275 shall not apply to a real estate loan agreement which is serviced or held for sale within one year by a mortgage servicing company neither affiliated with nor owned in whole or in part by the purchaser and which is made, extended or held by a purchaser whose principal place of business is outside this state; provided that if the purchaser requires a lender’s security protection provision, prior to entering into such agreement, the mortgage servicing company shall furnish the borrower a statement in writing, which may be set forth in the loan application, that the mortgage servicing company is not required by the laws of this state to pay interest on the lender’s security protection provision, and specifically informing the borrower why the borrower is not entitled to interest on the account. [1975 c.337 §15] 86.275 Severability. If any section of ORS 86.205 to 86.275, or the application of any section to any real estate loan agreement shall be held invalid, the remainder of ORS 86.205 to 86.275, and the application of ORS 86.205 to 86.275 to any real estate loan agreement other than the one or those to which it is held invalid, shall not be affected thereby. [1975 c.337 §12] 86.310 [Amended by 1955 c.21 §1; repealed by 1961 c.726 §427] 86.315 [1953 c.700 §2; repealed by 1961 c.726 §427] 86.320 [Repealed by 1961 c.726 §427] 86.330 [Repealed by 1961 c.726 §427] 86.340 [Repealed by 1961 c.726 §427] 86.350 [Amended by 1955 c.182 §1; repealed by 1961 c.726 §427] 86.360 [Repealed by 1961 c.726 §427] 86.370 [Amended by 1957 c.404 §1; repealed by 1961 c.726 §427] 86.380 [Repealed by 1961 c.726 §427] 86.390 [Repealed by 1961 c.726 §427] 86.400 [Repealed by 1961 c.726 §427]
+(2) In the case of any successful action to enforce the foregoing liability, the court costs of the action together with reasonable attorney fees at trial and on appeal as determined by the court if the court finds that written demand for the payment of the borrower’s claim was made on the lender not less than 10 days before the commencement of the action. No attorney fees shall be allowed to the borrower if the court finds that the lender tendered to the borrower, prior to the commencement of the action, an amount not less than the damages awarded to the borrower. [1975 c.337 §14; 1981 c.897 §19] 
 
 ## Provenance & change history
 

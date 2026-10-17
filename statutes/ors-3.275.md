@@ -54,15 +54,7 @@ ORS 3.275 — Procedure for transfer of jurisdiction over certain family-related
 
 (2) on and after July 1 next following entry of the order.
 
-(2) Any circuit court that enters an order pursuant to this section shall cause copies of the order to be filed with the Oregon Supreme Court and with the county or justice court whose jurisdiction is affected by the order. [1967 c.534 §5; 1995 c.658 §16] 3.280 Court services for circuit courts.
-
-(1) The circuit court may obtain court services by using services available without charge or, with the prior approval of the governing body of each county in the judicial district, by: (a) Employing or contracting for personnel or services; or (b) Contracting or entering into agreements with public or private agencies or with private firms or individuals, or any of them.
-
-(2) Court services obtained under subsection
-
-(1) of this section shall be subject to the supervision of the circuit court.
-
-(3) The compensation and expenses of personnel performing or providing court services and the expenses of providing court services shall be determined by the circuit court and shall be subject to the approval of and be paid by the county or counties making up the judicial district, subject to the Local Budget Law. For purposes of retirement benefits, personnel employed by the court may be considered county employees. Personnel performing or providing court services are not state employees, and their compensation and expenses shall not be paid by the state. [1967 c.534 §6; 1981 s.s. c.3 §22]
+(2) Any circuit court that enters an order pursuant to this section shall cause copies of the order to be filed with the Oregon Supreme Court and with the county or justice court whose jurisdiction is affected by the order. [1967 c.534 §5; 1995 c.658 §16] 
 
 ## Provenance & change history
 

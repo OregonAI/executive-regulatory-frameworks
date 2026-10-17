@@ -88,39 +88,7 @@ ORS 30.480 — Limitation on liability of volunteers; conditions. Chapter 30 (Ac
 
 (7) This section does not apply in the case of an accident or injury if the accident or injury was intentional on the part of any person who provided the transportation services or if the accident or injury was caused by the person’s gross negligence or intoxication. For purposes of this subsection, gross negligence is negligence which is materially greater than the mere absence of reasonable care under the circumstances, and which is characterized by conscious indifference to or reckless disregard of the rights of others.
 
-(8) For purposes of this section, a person has a disability if the person has a physical or mental disability that for the person constitutes or results in a functional limitation to one or more of the following activities: Self-care, ambulation, communication, transportation, education, socialization or employment. [1983 c.468 §2; 1985 c.16 §443; 1987 c.915 §7; 1989 c.224 §6; 2007 c.70 §10] 30.485 Apportionment of damages; insurance issues excluded from jury consideration.
-
-(1) If the amount awarded by a court to multiple claimants exceeds the total amount limited under ORS 30.480
-
-(1) or (2), the court shall apportion a proper share of that total amount to each claimant to whom ORS 30.480
-
-(1) or
-
-(2) applies.
-
-(2) If the amount settled upon by multiple claimants exceeds the total amount limited under ORS 30.480
-
-(1) or (2), any party may apply to any circuit court to apportion a proper share of that total amount to each claimant to whom ORS 30.480
-
-(1) or
-
-(2) applies.
-
-(3) The share apportioned under subsection
-
-(1) or
-
-(2) of this section to each claimant to whom ORS 30.480
-
-(1) or
-
-(2) applies shall be in the proportion that the ratio of the award or settlement made to the claimant bears to the aggregate awards and settlements for all claims arising out of the occurrence that are made by all claimants to whom ORS 30.480
-
-(1) or
-
-(2) applies.
-
-(4) Nothing in this section or ORS 30.480 authorizes the issues of insurance coverage or the amount of insurance coverage to be presented to a jury. [1983 c.468 §3]
+(8) For purposes of this section, a person has a disability if the person has a physical or mental disability that for the person constitutes or results in a functional limitation to one or more of the following activities: Self-care, ambulation, communication, transportation, education, socialization or employment. [1983 c.468 §2; 1985 c.16 §443; 1987 c.915 §7; 1989 c.224 §6; 2007 c.70 §10] 
 
 ## Provenance & change history
 

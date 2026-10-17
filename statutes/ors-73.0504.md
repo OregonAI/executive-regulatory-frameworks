@@ -54,13 +54,7 @@ ORS 73.0504 — Excused presentment and notice of dishonor. Chapter 73 (Negotiab
 
 (2) Notice of dishonor is excused if by the terms of the instrument notice of dishonor is not necessary to enforce the obligation of a party to pay the instrument, or the party whose obligation is being enforced waived notice of dishonor. A waiver of presentment is also a waiver of notice of dishonor.
 
-(3) Delay in giving notice of dishonor is excused if the delay was caused by circumstances beyond the control of the person giving the notice and the person giving the notice exercised reasonable diligence after the cause of the delay ceased to operate. [1993 c.545 §65] 73.0505 Evidence of dishonor.
-
-(1) The following are admissible as evidence and create a presumption of dishonor and of any notice of dishonor stated: (a) A document regular in form as provided in subsection
-
-(2) of this section which purports to be a protest; (b) A purported stamp or writing of the drawee, payor bank or presenting bank on or accompanying the instrument stating that acceptance or payment has been refused unless reasons for the refusal are stated and the reasons are not consistent with dishonor; and (c) A book or record of the drawee, payor bank or collecting bank, kept in the usual course of business which shows dishonor, even if there is no evidence of who made the entry.
-
-(2) A protest is a certificate of dishonor made by a United States consul or vice consul, or a notary public described in ORS 194.375 or other person authorized to administer oaths by the law of the place where dishonor occurs. The protest may be made upon information satisfactory to that person. The protest must identify the instrument and certify that either presentment has been made or, if not made, the reason why it was not made, and that the instrument has been dishonored by nonacceptance or nonpayment. The protest may also certify that notice of dishonor has been given to some or all parties. [1993 c.545 §66; 2009 c.123 §6; 2013 c.219 §54]
+(3) Delay in giving notice of dishonor is excused if the delay was caused by circumstances beyond the control of the person giving the notice and the person giving the notice exercised reasonable diligence after the cause of the delay ceased to operate. [1993 c.545 §65] 
 
 ## Provenance & change history
 

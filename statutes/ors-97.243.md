@@ -54,11 +54,7 @@ ORS 97.243 — Veterans’ remains coordinator to report veteran status informat
 
 (2) The veterans’ remains coordinator shall establish and maintain a list of eligible decedents that are reported under subsection
 
-(1) of this section and make the list available in person or by telephone upon request by a county veterans’ service officer. [2023 c.402 §6] 97.246 Veterans’ remains coordinator and county veterans’ service officer to carry out duties per Department of Veterans’ Affairs rules.
-
-(1) A veterans’ remains coordinator or county veterans’ service officer shall carry out the duties under ORS 97.231 to 97.246 in accordance with rules adopted by the Department of Veterans’ Affairs.
-
-(2) The Department of Veterans’ Affairs may adopt rules to implement the provisions of ORS 97.231 to 97.246. [2025 c.14 §2] 97.250 [1969 c.175 §1; repealed by 1995 c.717 §9] 97.255 [1969 c.175 §3; repealed by 1995 c.717 §9] 97.260 [1969 c.175 §2; repealed by 1995 c.717 §9] 97.265 [1969 c.175 §4; 1973 c.823 §§98,157; 1993 c.218 §1; repealed by 1995 c.717 §9] 97.268 [1985 c.379 §1; repealed by 1995 c.717 §9] 97.270 [1969 c.175 §5; repealed by 1995 c.717 §9] 97.275 [1969 c.175 §6; 1969 c.591 §278a; 1975 c.215 §1; repealed by 1995 c.717 §9] 97.280 [1969 c.175 §7; repealed by 1995 c.717 §9] 97.285 [1969 c.175 §8; repealed by 1995 c.717 §9] 97.290 [1969 c.175 §9; repealed by 1995 c.717 §9] 97.295 [Formerly 116.115; 1995 c.717 §11; renumbered 97.966 in 1995] 97.300 [1969 c.271 §1; 1995 c.717 §12; renumbered 97.968 in 1995]
+(1) of this section and make the list available in person or by telephone upon request by a county veterans’ service officer. [2023 c.402 §6] 
 
 ## Provenance & change history
 

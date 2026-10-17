@@ -60,17 +60,7 @@ ORS 78.5100 — Rights of purchaser of security entitlement from entitlement hol
 
 (4) of this section, purchasers who have control rank according to priority in time of: (a) The purchaser’s becoming the person for whom the securities account, in which the security entitlement is carried, is maintained, if the purchaser obtained control under ORS 78.1060 (4)(a); (b) The securities intermediary’s agreement to comply with the purchaser’s entitlement orders with respect to security entitlements carried or to be carried in the securities account in which the security entitlement is carried, if the purchaser obtained control under ORS 78.1060 (4)(b); or (c) If the purchaser obtained control through another person under ORS 78.1060 (4)(c), the time on which priority would be based under this subsection if the other person were the secured party.
 
-(4) A securities intermediary as purchaser has priority over a conflicting purchaser who has control unless otherwise agreed by the securities intermediary. [1995 c.328 §50; 2001 c.445 §156] 78.5110 Priority among security interests and entitlement holders.
-
-(1) Except as otherwise provided in subsections
-
-(2) and
-
-(3) of this section if a securities intermediary does not have sufficient interests in a particular financial asset to satisfy both its obligations to entitlement holders who have security entitlements to that financial asset and its obligation to a creditor of the securities intermediary who has a security interest in that financial asset, the claims of entitlement holders, other than the creditor, have priority over the claim of the creditor.
-
-(2) A claim of a creditor of a securities intermediary who has a security interest in a financial asset held by a securities intermediary has priority over claims of the securities intermediary’s entitlement holders who have security entitlements with respect to that financial asset if the creditor has control over the financial asset.
-
-(3) If a clearing corporation does not have sufficient financial assets to satisfy both its obligations to entitlement holders who have security entitlements with respect to a financial asset and its obligation to a creditor of the clearing corporation who has a security interest in that financial asset, the claim of the creditor has priority over the claims of entitlement holders. [1995 c.328 §51] _______________
+(4) A securities intermediary as purchaser has priority over a conflicting purchaser who has control unless otherwise agreed by the securities intermediary. [1995 c.328 §50; 2001 c.445 §156] 
 
 ## Provenance & change history
 

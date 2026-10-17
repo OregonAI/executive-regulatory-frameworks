@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-77.3090
-title: "Duty of care; contractual limitation of carrier’s liability WAREHOUSE RECEIPTS AND BILLS OF LADING:"
+title: "Duty of care; contractual limitation of carrier’s liability"
 doc_type: statute
 citation: "ORS 77.3090"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-77"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors077.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Duty of care; contractual limitation of carrier’s liability WAREHOUSE RECEIPTS AND BILLS OF LADING: (ORS 77.3090)
+# Duty of care; contractual limitation of carrier’s liability (ORS 77.3090)
 
 ## At a glance
 
-ORS 77.3090 — Duty of care; contractual limitation of carrier’s liability WAREHOUSE RECEIPTS AND BILLS OF LADING:. Chapter 77 (Warehouse Receipts, Bills of Lading and Other Documents of Title), 2025 Edition.
+ORS 77.3090 — Duty of care; contractual limitation of carrier’s liability. Chapter 77 (Warehouse Receipts, Bills of Lading and Other Documents of Title), 2025 Edition.
 
 ## Full text
 

@@ -48,7 +48,7 @@ ORS 86.175 — Scope. Chapter 86 (Mortgages; Trust Deeds), 2025 Edition.
 
 ## Full text
 
-86.175 Scope. ORS 86.160 to 86.185 shall be applicable only to late charges on loans secured by residential real property. [1977 c.427 §4] 86.180 ORS 86.160 to 86.185 not applicable to certain mortgagees; notice to borrowers. Nothing in ORS 86.160 to 86.185 shall pertain to a mortgage banking company or mortgage servicing company except that if the terms of the mortgage do not conform to the requirements of ORS 86.165, the borrower shall be notified prior to the execution of the mortgage. [1977 c.427 §5] 86.185 ORS 86.160 to 86.185 not applicable to certain loans. Nothing in ORS 86.160 to 86.185 shall apply to loans insured, guaranteed or purchased by an instrumentality of the federal government, whose regulations establish late charge limitations. [1977 c.427 §6]
+86.175 Scope. ORS 86.160 to 86.185 shall be applicable only to late charges on loans secured by residential real property. [1977 c.427 §4] 
 
 ## Provenance & change history
 

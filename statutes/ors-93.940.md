@@ -48,11 +48,7 @@ ORS 93.940 — Effect of seller’s foreclosure or other action on interest, lie
 
 ## Full text
 
-93.940 Effect of seller’s foreclosure or other action on interest, lien or claim. The recorded interest, lien or claim of a person with respect to the real property, by virtue of an assignment, conveyance, contract, mortgage, trust deed or other lien or claim from or through a purchaser whose interest arises under a contract for conveyance of real property, shall be not affected by the seller’s foreclosure or other action on the contract unless such person is made a party to the action brought by the seller to enforce or foreclose the contract. In such action, such person shall be entitled to the same rights and opportunities to cure the purchaser’s default or satisfy the purchaser’s obligations as are granted the purchaser. [1985 c.718 §8; 1987 c.225 §4] 93.945 Application of ORS 93.910 to 93.940.
-
-(1) The provisions of ORS 93.910 to 93.930 shall apply only to forfeiture remedies enforced after July 13, 1985. The date that the initial written notice of a default is given to the purchaser shall be the date of enforcement of the forfeiture remedy.
-
-(2) The provisions of ORS 93.935 and 93.940 shall apply to all contracts for transfer or conveyance of an interest in real property, whether executed on, before or after July 13, 1985. [1985 c.718 §§9,10]
+93.940 Effect of seller’s foreclosure or other action on interest, lien or claim. The recorded interest, lien or claim of a person with respect to the real property, by virtue of an assignment, conveyance, contract, mortgage, trust deed or other lien or claim from or through a purchaser whose interest arises under a contract for conveyance of real property, shall be not affected by the seller’s foreclosure or other action on the contract unless such person is made a party to the action brought by the seller to enforce or foreclose the contract. In such action, such person shall be entitled to the same rights and opportunities to cure the purchaser’s default or satisfy the purchaser’s obligations as are granted the purchaser. [1985 c.718 §8; 1987 c.225 §4] 
 
 ## Provenance & change history
 

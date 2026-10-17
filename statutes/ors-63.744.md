@@ -48,15 +48,7 @@ ORS 63.744 — Appeal from revocation. Chapter 63 (Limited Liability Companies),
 
 ## Full text
 
-63.744 Appeal from revocation. In addition to any other legal remedy which may be available, a foreign limited liability company shall have the right to appeal the Secretary of State’s revocation of its authority to transact business in this state pursuant to the provisions of ORS chapter 183. [1993 c.173 §88] 63.747 Reinstatement of authority.
-
-(1) A foreign limited liability company that has had its authority revoked under ORS 63.741 may apply to the Secretary of State for reinstatement within five years from the date of revocation. The application shall: (a) State the name of the foreign limited liability company and the effective date its authority was revoked; and (b) State that the ground or grounds for revocation of authority either did not exist or have been eliminated.
-
-(2) If the Secretary of State determines that the application contains the information required by subsection
-
-(1) of this section, that the information is correct and that the foreign limited liability company’s name satisfies the requirements of ORS 63.717, the Secretary of State shall reinstate the authority.
-
-(3) When the reinstatement is effective, it relates back to and takes effect as of the effective date of the administrative revocation of authority and the foreign limited liability company resumes carrying on its business as if the administrative revocation of authority had never occurred. [1993 c.173 §89; 1995 c.215 §12]
+63.744 Appeal from revocation. In addition to any other legal remedy which may be available, a foreign limited liability company shall have the right to appeal the Secretary of State’s revocation of its authority to transact business in this state pursuant to the provisions of ORS chapter 183. [1993 c.173 §88] 
 
 ## Provenance & change history
 

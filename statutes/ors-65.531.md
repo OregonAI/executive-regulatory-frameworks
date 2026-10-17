@@ -54,27 +54,7 @@ ORS 65.531 — Sale of assets in regular course of activities; mortgage of asset
 
 (2) Unless required by the articles of incorporation, approval by the members or any other person of a transaction described in subsection
 
-(1) of this section is not required. [1989 c.1010 §126] 65.534 Sale of assets other than in regular course of activities.
-
-(1) A corporation may sell, lease, exchange or otherwise dispose of all or substantially all of the corporation’s property, with or without the goodwill, other than in the usual and regular course of the corporation’s activities, on the terms and conditions and for the consideration determined by the corporation’s board of directors if the proposed transaction is authorized by subsection
-
-(2) of this section.
-
-(2) Unless this chapter, the articles of incorporation, bylaws or the board of directors or members, acting in accordance with subsection
-
-(4) of this section, require a greater vote or voting by class, the proposed transaction to be authorized must be approved: (a) By the board of directors; (b) By the members of a mutual benefit corporation entitled to vote on the transaction by at least two-thirds of the votes cast or a majority of the voting power, whichever is less, or by a majority of the votes cast, if the corporation is a public benefit corporation or religious corporation; and (c) In writing by any person or persons whose approval is required for an amendment to the articles of incorporation or bylaws by a provision of the articles of incorporation as authorized by ORS 65.467.
-
-(3) If the corporation does not have members entitled to vote on the transaction, the board of directors must approve the transaction. In addition, the corporation shall provide notice of any board of directors’ meeting at which such approval is to be obtained in accordance with ORS 65.344 (2). The notice must also state that the purpose, or one of the purposes, of the meeting is to consider the sale, lease, exchange or other disposition of all or substantially all of the property of the corporation and must contain or be accompanied by a description of the transaction.
-
-(4) The board of directors may condition the board’s submission of the proposed transaction to a vote of members, and the members entitled to vote on the transaction may condition the members’ approval of the transaction, on receipt of a higher percentage of affirmative votes or on any other basis.
-
-(5) If the board seeks to have the transaction approved by the members at a membership meeting, the corporation shall give notice to the corporation’s members of the proposed meeting in accordance with ORS 65.214. The notice must also state that the purpose, or one of the purposes, of the meeting is to consider the sale, lease, exchange or other disposition of all or substantially all of the property of the corporation and must contain or be accompanied by a description of the transaction.
-
-(6) If the board seeks to have the transaction approved by the members by written consent or written ballot, the material soliciting the approval must contain or be accompanied by a description of the transaction.
-
-(7) A public benefit corporation or religious corporation must give written notice to the Attorney General 30 days before the public benefit corporation or religious corporation sells, leases, exchanges or otherwise disposes of all or substantially all of the public benefit corporation’s or religious corporation’s property unless the transaction is in the usual and regular course of the public benefit corporation’s or religious corporation’s activities or the Attorney General has given the public benefit corporation or religious corporation a written waiver of this notice requirement.
-
-(8) After a sale, lease, exchange or other disposition of property is authorized, the transaction may be abandoned, subject to any contractual rights, without further action by the members or any other person who approved the transaction, in accordance with the procedure set forth in the resolution proposing the transaction or, if none is set forth, in the manner determined by the board of directors. [1989 c.1010 §127; 2005 c.22 §48; 2019 c.174 §86]
+(1) of this section is not required. [1989 c.1010 §126] 
 
 ## Provenance & change history
 

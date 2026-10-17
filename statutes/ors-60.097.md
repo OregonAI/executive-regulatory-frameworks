@@ -54,13 +54,7 @@ ORS 60.097 — Reserved name. Chapter 60 (Private Corporations), 2025 Edition.
 
 (2) If the Secretary of State finds that the corporate name applied for conforms to ORS 60.094, the Secretary of State shall reserve the name for the applicant for a 120-day period.
 
-(3) A person may transfer the reservation of a corporate name to another person by delivering to the Secretary of State a notice of the transfer signed by the person for whom the name was reserved and specifying the name and address of the transferee. [1987 c.52 §27; 2017 c.55 §5] 60.100 [Amended by 1953 c.549 §138; renumbered 57.815] 60.101 Registered name.
-
-(1) A foreign corporation may apply to the office to register its corporate name.
-
-(2) The application must set forth the corporate name, the state or country of its incorporation, the date of its incorporation and a brief description of the nature of the business in which it is engaged and a statement that it is not carrying on or doing business in the State of Oregon. The application must be accompanied by a certificate of existence or a document of similar import current within 60 days of delivery, duly authenticated by the official having custody of corporate records in the state or country under whose law it is incorporated.
-
-(3) If the Secretary of State finds that the name conforms to ORS 60.094 the Secretary of State shall register the name effective for one year. [1987 c.52 §28] 60.110 [Repealed by 1953 c.549 §138]
+(3) A person may transfer the reservation of a corporate name to another person by delivering to the Secretary of State a notice of the transfer signed by the person for whom the name was reserved and specifying the name and address of the transferee. [1987 c.52 §27; 2017 c.55 §5] 60.100 [Amended by 1953 c.549 §138; renumbered 57.815] 
 
 ## Provenance & change history
 

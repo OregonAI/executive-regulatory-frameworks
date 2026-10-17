@@ -52,7 +52,7 @@ ORS 94.522 — Amendment or cancellation of agreement; enforceability. Chapter 9
 
 (1) A development agreement may be amended or canceled by mutual consent of the parties to the agreement or their successors in interest. The governing body of a city or county shall amend or cancel a development agreement by adoption of an ordinance declaring cancellation of the agreement or setting forth the amendments to the agreement.
 
-(2) Until a development agreement is canceled under this section, the terms of the development agreement are enforceable by any party to the agreement. [1993 c.780 §5] Note: See note under 94.504. 94.525 [Repealed by 1971 c.478 §1] 94.528 Recording. Not later than 10 days after the execution of a development agreement under ORS 94.504 to 94.528, the governing body of the city or county shall cause the development agreement to be presented for recording in the office of the county clerk of the county in which the property subject to the agreement is situated. In addition to other provisions required by ORS 94.504 to 94.528, the development agreement shall contain a legal description of the property subject to the agreement. [1993 c.780 §6] Note: See note under 94.504. 94.530 [Repealed by 1971 c.478 §1]
+(2) Until a development agreement is canceled under this section, the terms of the development agreement are enforceable by any party to the agreement. [1993 c.780 §5] Note: See note under 94.504. 94.525 [Repealed by 1971 c.478 §1] 
 
 ## Provenance & change history
 

@@ -63,7 +63,7 @@ ORS 94.940 — False practices prohibited. Chapter 94 (Real Property Development
 
 (6) Make any statement or representation, or issue, circulate or publish any advertising matter containing any statement that the timeshare plan has been in any way approved or indorsed by the Real Estate Commissioner except in conjunction with a public report issued by the commissioner under ORS 94.828 (1),
 
-(2) and (4). [1983 c.530 §41] 94.945 Advertising regulation. It shall be unlawful for any developer or the agent or employee of a developer with intent to sell or lease a timeshare in a timeshare plan, to authorize, use, direct or aid in the publication, distribution or circularization of any advertisement, radio broadcast or telecast concerning a timeshare plan, that contains any false or misleading statement, pictorial representation or sketch. Nothing in this section shall be construed to hold the publisher or employee of any newspaper, any job printer, broadcaster or telecaster liable for any publication referred to in ORS 94.940 unless the publisher, employee, printer, broadcaster or telecaster has actual knowledge that the material is false or has an interest in the timeshare plan advertised. [1983 c.530 §42]
+(2) and (4). [1983 c.530 §41] 
 
 ## Provenance & change history
 

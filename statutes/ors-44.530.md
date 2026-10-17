@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-44.530
-title: "Application of ORS"
+title: "Application of ORS 44.520"
 doc_type: statute
 citation: "ORS 44.530"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-44"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors044.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Application of ORS (ORS 44.530)
+# Application of ORS 44.520 (ORS 44.530)
 
 ## At a glance
 
-ORS 44.530 — Application of ORS. Chapter 44 (Witnesses), 2025 Edition.
+ORS 44.530 — Application of ORS 44.520. Chapter 44 (Witnesses), 2025 Edition.
 
 ## Full text
 
@@ -56,7 +56,7 @@ ORS 44.530 — Application of ORS. Chapter 44 (Witnesses), 2025 Edition.
 
 (3) The provisions of ORS 44.520
 
-(1) do not apply with respect to the content or source of allegedly defamatory information, in civil action for defamation wherein the defendant asserts a defense based on the content or source of such information. [1973 c.22 §§4,5; 1979 c.820 §2] 44.540 Effect of informant as witness. If the informant offers the informant as a witness, it is deemed a consent to the examination also of a person described in ORS 44.520 on the same subject. [1973 c.22 §6]
+(1) do not apply with respect to the content or source of allegedly defamatory information, in civil action for defamation wherein the defendant asserts a defense based on the content or source of such information. [1973 c.22 §§4,5; 1979 c.820 §2] 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 1.820 — Function of conference. Chapter 1 (Courts and Judicial Officers Ge
 
 ## Full text
 
-1.820 Function of conference. The conference may make a continuous survey and study of the organization, jurisdiction, procedure, practice and methods of administration and operation of the various courts within the state. [1955 c.470 §2; 1965 c.494 §14; 1995 c.273 §2] 1.830 Meetings. The Judicial Conference of the State of Oregon shall meet annually or at such other times as the Chief Justice of the Supreme Court directs. [1955 c.470 §3; 1965 c.494 §15; 2013 c.155 §9] 1.840 Annual report. The conference shall report annually to the Governor with respect to such matters, including recommendations for legislation, as it may wish to bring to the attention of the Governor or of the legislature. [1955 c.470 §4; 1959 c.552 §13; 1965 c.494 §16] 1.850 [1985 c.725 §5; repealed by 1993 c.742 §38]
+1.820 Function of conference. The conference may make a continuous survey and study of the organization, jurisdiction, procedure, practice and methods of administration and operation of the various courts within the state. [1955 c.470 §2; 1965 c.494 §14; 1995 c.273 §2] 
 
 ## Provenance & change history
 

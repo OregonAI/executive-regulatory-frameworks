@@ -66,6 +66,27 @@ def _catchline_words(slice_text: str, sec: str) -> list[str]:
     return _words(body[:m.start()] if m else body)
 
 
+# The floor below which a slice used to be refused outright as "no section body found". It is
+# a floor on how much a slice must hold to be more than a table-of-contents row, not a claim
+# that a real section is never shorter: 24.335 and 587.010 are one sentence each.
+_MIN_BODY_CHARS = 120
+
+
+def has_body(slice_text: str, sec: str) -> bool:
+    """True when the slice is a section and not a bare TOC row. A slice of at least
+    `_MIN_BODY_CHARS` is taken as one, as it always was. A shorter one must show what a
+    printed section shows and a TOC row does not: ORS's own catchline terminator after the
+    number, then text after it. A number alone, a catchline with no period, and a catchline
+    with nothing following it all stay refused."""
+    if len(slice_text) >= _MIN_BODY_CHARS:
+        return True
+    if not slice_text.startswith(sec):
+        return False
+    rest = slice_text[len(sec):]
+    m = _CATCHLINE_END_RE.search(rest)
+    return bool(m and rest[m.end():].strip())
+
+
 def anchor_ok(slice_text: str, sec: str, title: str) -> bool:
     """Anchoring evidence: the slice must start with the section number, and the
     catalog title must agree, WORD FOR WORD IN ORDER FROM THE FRONT, with the text ORS
@@ -230,7 +251,7 @@ def ingest_chapter(ch, cat_chapter):
             kept += 1
             continue
         sl = snapshot_slice(doc_id, snap_id, raw_txt)
-        if len(sl) < 120:
+        if not has_body(sl, sec):
             refuse(s, "no section body found in the chapter text (likely renumbered/"
                       "repealed or a TOC cross-reference artifact); not ingested")
             skipped += 1
@@ -243,9 +264,12 @@ def ingest_chapter(ch, cat_chapter):
             # tell a renumbered/repealed section from a title that needs re-checking
             # against the source (see OregonAI/executive-regulatory-frameworks#286
             # for a catalog of the latter already found and not yet corrected).
+            found = " ".join(_catchline_words(sl, sec)) or "(none)"
             refuse(s, "catalog title does not match this section's own printed "
                       "catchline at the anchor point; not ingested (verify the "
-                      "catalog title against the source before re-running)")
+                      "catalog title against the source before re-running). "
+                      f"Catalog title: {title!r}. Catchline words found at the "
+                      f"anchor: {found!r}.")
             skipped += 1
             continue
         out.write_text(doc_body(sec, title, ch, ch_title, snap_id, sha, url, sl))
@@ -506,6 +530,115 @@ def _proof_a_refusal_never_publishes_through_the_real_consumer(ck):
         globals()["OUT"] = orig_out
 
 
+def _proof_a_short_complete_section_is_not_mistaken_for_no_body(ck):
+    """A section can be genuinely short: 24.335 ("Short title. ORS 24.260 to 24.335 may be
+    cited as the Uniform Foreign-Money Claims Act. [1991 c.202 §16]") is 111 characters and
+    587.010 (a one-sentence definition) 102 -- both under the old flat 120-character floor,
+    so the batch that ingested chapters 24 and 587 refused them as "no section body found"
+    although the page prints a complete section for each. What 'no body' means is that the
+    slice is a TOC line: a number and a catchline with NOTHING after it. So a short slice is
+    accepted only when ORS's own catchline terminator is there AND text follows it; a bare
+    TOC row, a catchline with no period, and a number with nothing after it stay refused."""
+    from repo_lib import ws_only
+    for ch, sec, title in (("24", "24.335", "Short title"), ("587", "587.010", "Definitions")):
+        raw = (SNAPSHOT_DIR / f"ors-chapter-{ch}.txt").read_text(encoding="utf-8", errors="replace")
+        sl = snapshot_slice(f"ors-{sec}", f"ors-chapter-{ch}", raw)
+        ck(f"{sec}: the real slice is short ({len(sl)} chars) and starts at its own number",
+           0 < len(sl) < 120 and sl.startswith(sec))
+        ck(f"{sec}: the real slice has a body (catchline terminator, then text)", has_body(sl, sec))
+        ck(f"{sec}: the real slice passes the anchor check", anchor_ok(sl, sec, title))
+    ck("a TOC row ('24.335 Short title') has no body", not has_body("24.335 Short title", "24.335"))
+    ck("a TOC row whose catchline ends in a period still has no body",
+       not has_body("24.335 Short title. ", "24.335"))
+    ck("a bare number has no body", not has_body("24.335", "24.335"))
+    ck("empty slice has no body", not has_body("", "24.335"))
+    ck("a long slice keeps the old verdict (has body)",
+       has_body("1.001 Title. " + "word " * 40, "1.001"))
+
+
+def _proof_a_cross_reference_is_not_a_section_start(ck):
+    """snapshot_slice anchors a section on the LAST place its number is followed by a capital
+    letter. Where a later section cites it ('ORS 74A.1030 "Receiving bank"' in 74A.1040's
+    definition table; 'filed under ORS 31.262 Act may enter into mediation' in 31.268) the
+    last place is the citation, and the slice began mid-sentence: the anchor check refused
+    74A.1030, 74A.1040 and 31.262 as 'title does not match' though their titles are right.
+    A number preceded by 'ORS', 'and', 'to', 'or', 'section(s)' or a comma is a citation, not
+    a heading; it is skipped unless NOTHING else matches (then the old answer stands). Measured
+    against all 39,003 catalog rows with a snapshot: the slice of no already-ingested section
+    changes. Real snapshots, no network."""
+    for ch, sec, title in (("74A", "74A.1030", "Payment order; definitions"),
+                           ("74A", "74A.1040", "Funds transfer; definitions"),
+                           ("31", "31.262", "Notice of adverse health care incident")):
+        raw = (SNAPSHOT_DIR / f"ors-chapter-{ch.lower()}.txt").read_text(
+            encoding="utf-8", errors="replace")
+        sl = snapshot_slice(f"ors-{sec.lower()}", f"ors-chapter-{ch.lower()}", raw)
+        ck(f"{sec}: the slice starts at the section's own heading, not at a citation of it",
+           sl.startswith(f"{sec} {title.split(';')[0]}"))
+        ck(f"{sec}: the slice passes the anchor check", anchor_ok(sl, sec, title))
+    from repo_lib import snapshot_slice as ss
+    only_cite = "see ORS 9.100 Something else. [1] and nothing more"
+    ck("a number cited and never printed as a heading keeps the old answer",
+       ss("ors-9.100", "ors-chapter-9", only_cite).startswith("9.100 Something"))
+    ck("a heading before a citation wins over the later citation",
+       ss("ors-9.100", "ors-chapter-9",
+          "9.100 Real title. Body. [1990 c.1] 9.200 Other. See ORS 9.100 Cited here.")
+       .startswith("9.100 Real title."))
+
+
+def _proof_a_section_ends_at_the_next_one_in_any_width_chapter(ck):
+    """snapshot_slice ended a section at the next section's number, but only recognised a
+    three-digit chapter, so in a chapter numbered below 100 (24, 74A is lettered) a slice ran
+    on to the next part heading or the end of the page: 24.330 carried all of 24.335, 24.260
+    carried 24.265 through 24.335, 74A.1020 carried 74A.1030 through 74A.1080. Real
+    snapshots, no network."""
+    for ch, sec, nxt_heading in (("24", "24.330", "24.335 Short title"),
+                                 ("24", "24.260", "24.265 "),
+                                 ("74A", "74A.1020", "74A.1030 Payment order"),
+                                 ("1", "1.001", "1.002 ")):
+        raw = (SNAPSHOT_DIR / f"ors-chapter-{ch.lower()}.txt").read_text(
+            encoding="utf-8", errors="replace")
+        sl = snapshot_slice(f"ors-{sec.lower()}", f"ors-chapter-{ch.lower()}", raw)
+        ck(f"{sec}: the slice starts at its own heading", sl.startswith(sec + " "))
+        ck(f"{sec}: the slice stops before {nxt_heading.strip()}", nxt_heading not in sl)
+    from repo_lib import snapshot_slice as ss
+    ck("a citation range inside a catchline does not end the section",
+       "24.400" in ss("ors-24.350", "ors-chapter-24",
+                      "24.350 Definitions for ORS 24.350 to 24.400. As used in ORS 24.350 to "
+                      "24.400: (1) x. [1991 c.1] 24.360 Next. Body."))
+    ck("a lowercase word after a number is not a heading",
+       "may be cited" in ss("ors-24.330", "ors-chapter-24",
+                            "24.330 Sev. Body. See 24.335 may be cited. [1] 24.335 Short. X"))
+
+
+def _proof_an_anchor_refusal_records_what_it_found(ck):
+    """A refusal a person will audit later must carry the evidence, not only the verdict.
+    A refusal's note quotes the title and the catchline words the anchor produced, so a
+    title that really diverges (67.042 'non- waivable' against the printed 'nonwaivable',
+    67.600 missing 'a') can be audited later. (31.262 once showed this too, until the
+    citation anchor was fixed; see the proof above.) Real chapter 67 snapshot, no network."""
+    tmpdir = Path(tempfile.mkdtemp(prefix="ingest-ors-selftest-"))
+    orig_out = globals()["OUT"]
+    globals()["OUT"] = tmpdir
+    try:
+        cat_chapter = {
+            "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors067.html",
+            "title": "Partnerships",
+            "sections": [{"number": "67.042", "title": "Effect of partnership agreement; non- waivable provisions",
+                          "status": "not_ingested"}],
+        }
+        ingest_chapter("67", cat_chapter)
+        s = cat_chapter["sections"][0]
+        note = s.get("note", "")
+        ck("67.042 is still refused (nothing published)", s.get("status") == "not_sliceable"
+           and not any(tmpdir.iterdir()))
+        ck("the note quotes the catalog title", "non- waivable" in note)
+        ck("the note quotes the catchline the anchor actually found",
+           "effect of partnership agreement nonwaivable provisions" in note.lower())
+        ck("the note keeps the 'catchline' wording the refusal proof relies on", "catchline" in note)
+    finally:
+        globals()["OUT"] = orig_out
+
+
 def _selftest() -> int:
     from repo_lib import Checks
     ck = Checks()
@@ -513,6 +646,10 @@ def _selftest() -> int:
     _proof_real_anchors_still_pass(ck)
     _proof_a_measured_residual_is_named_not_absorbed(ck)
     _proof_a_refusal_never_publishes_through_the_real_consumer(ck)
+    _proof_a_short_complete_section_is_not_mistaken_for_no_body(ck)
+    _proof_a_cross_reference_is_not_a_section_start(ck)
+    _proof_a_section_ends_at_the_next_one_in_any_width_chapter(ck)
+    _proof_an_anchor_refusal_records_what_it_found(ck)
     return ck.report("ingest-ors selftest")
 
 

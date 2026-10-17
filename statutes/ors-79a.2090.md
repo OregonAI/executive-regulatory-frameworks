@@ -58,23 +58,7 @@ ORS 79A.2090 — UCC 9-209. Duties of secured party if account debtor has been n
 
 (1) or 80.1060 of an assignment to the secured party as assignee a signed record that releases the account debtor from any further obligation to the secured party.
 
-(3) This section does not apply to an assignment constituting the sale of an account, chattel paper or payment intangible. [Formerly 79.0209] 79A.2100 UCC 9-210. Request for accounting; request regarding list of collateral or statement of account.
-
-(1) As used in this section: (a) “Request” means a record of a type described in paragraph (b), (c) or (d) of this subsection. (b) “Request for an accounting” means a record signed by a debtor requesting that the recipient provide an accounting of the unpaid obligations secured by collateral and reasonably identifying the transaction or relationship that is the subject of the request. (c) “Request regarding a list of collateral” means a record signed by a debtor requesting that the recipient approve or correct a list of what the debtor believes to be the collateral securing an obligation and reasonably identifying the transaction or relationship that is the subject of the request. (d) “Request regarding a statement of account” means a record signed by a debtor requesting that the recipient approve or correct a statement indicating what the debtor believes to be the aggregate amount of unpaid obligations secured by collateral as of a specified date and reasonably identifying the transaction or relationship that is the subject of the request.
-
-(2) Subject to subsections (3), (4),
-
-(5) and
-
-(6) of this section, a secured party, other than a buyer of accounts, chattel paper, payment intangibles or promissory notes or a consignor, shall comply with a request within 14 days after receipt: (a) In the case of a request for an accounting, by signing and sending to the debtor an accounting; and (b) In the case of a request regarding a list of collateral or a request regarding a statement of account, by signing and sending to the debtor an approval or correction.
-
-(3) A secured party that claims a security interest in all of a particular type of collateral owned by the debtor may comply with a request regarding a list of collateral by sending to the debtor a signed record including a statement to that effect within 14 days after receipt.
-
-(4) A person that receives a request regarding a list of collateral, claims no interest in the collateral when it receives the request, and claimed an interest in the collateral at an earlier time shall comply with the request within 14 days after receipt by sending to the debtor a signed record: (a) Disclaiming any interest in the collateral; and (b) If known to the recipient, providing the name and mailing address of any assignee of or successor to the recipient’s interest in the collateral.
-
-(5) A person that receives a request for an accounting or a request regarding a statement of account, claims no interest in the obligations when it receives the request, and claimed an interest in the obligations at an earlier time shall comply with the request within 14 days after receipt by sending to the debtor a signed record: (a) Disclaiming any interest in the obligations; and (b) If known to the recipient, providing the name and mailing address of any assignee of or successor to the recipient’s interest in the obligations.
-
-(6) A debtor is entitled without charge to one response to a request under this section during any six-month period. The secured party may require payment of a charge not exceeding $25 for each additional response. [Formerly 79.0210]
+(3) This section does not apply to an assignment constituting the sale of an account, chattel paper or payment intangible. [Formerly 79.0209] 
 
 ## Provenance & change history
 

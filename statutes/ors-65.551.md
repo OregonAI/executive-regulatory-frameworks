@@ -48,13 +48,7 @@ ORS 65.551 — Prohibited distributions. Chapter 65 (Nonprofit Corporations), 20
 
 ## Full text
 
-65.551 Prohibited distributions. Except as authorized by ORS 65.554, a corporation shall not make any distributions. [1989 c.1010 §128] 65.554 Authorized distributions. Unless prohibited by the corporation’s articles of incorporation or bylaws:
-
-(1) A mutual benefit corporation may purchase the mutual benefit corporation’s memberships and, under the circumstances indicated in ORS 65.147 and 65.171, a public benefit corporation or religious corporation may purchase the public benefit corporation’s or religious corporation’s memberships, if after the purchase is completed: (a) The corporation would be able to pay the corporation’s debts as they become due in the usual course of the corporation’s activities; and (b) The corporation’s total assets would at least equal the sum of the corporation’s total liabilities.
-
-(2) A corporation may make distributions upon dissolution in conformity with ORS 65.621 to 65.674.
-
-(3) A corporation may make distributions to a member that is a religious corporation or public benefit corporation or to a foreign nonprofit corporation that, if incorporated in this state, would qualify as a religious corporation or public benefit corporation. [1989 c.1010 §129; 2019 c.174 §87]
+65.551 Prohibited distributions. Except as authorized by ORS 65.554, a corporation shall not make any distributions. [1989 c.1010 §128] 
 
 ## Provenance & change history
 

@@ -52,7 +52,7 @@ ORS 71.2050 — Reasonable time; seasonableness. Chapter 71 (General Provisions 
 
 (1) Whether a time for taking an action required by the Uniform Commercial Code is reasonable depends on the nature, purpose and circumstances of the action.
 
-(2) An action is taken seasonably if it is taken at or within the time agreed or, if no time is agreed, at or within a reasonable time. [1961 c.726 §71.2050; 2009 c.181 §12] 71.2060 Presumptions. Whenever the Uniform Commercial Code creates a presumption with respect to a fact, or provides that a fact is presumed, the trier of fact must find the existence of the fact unless and until evidence is introduced that supports a finding of its nonexistence. [1961 c.726 §71.2060; 2009 c.181 §13] 71.2070 [1961 c.726 §71.2070; 1993 c.545 §2; repealed by 2009 c.181 §116] 71.2080 [1961 c.726 §71.2080; repealed by 2009 c.181 §116]
+(2) An action is taken seasonably if it is taken at or within the time agreed or, if no time is agreed, at or within a reasonable time. [1961 c.726 §71.2050; 2009 c.181 §12] 
 
 ## Provenance & change history
 

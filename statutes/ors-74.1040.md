@@ -56,39 +56,7 @@ ORS 74.1040 — Definitions and index of definitions. Chapter 74 (Bank Deposits 
 
 (3) “Control” as provided in ORS 77.1060 and the following definitions in other sections apply to this chapter: (a) “Acceptance,” as defined in ORS 73.0409. (b) “Alteration,” as defined in ORS 73.0407. (c) “Cashier’s check,” as defined in ORS 73.0104. (d) “Certificate of deposit,” as defined in ORS 73.0104. (e) “Certified check,” as defined in ORS 73.0409. (f) “Check,” as defined in ORS 73.0104. (g) “Holder in due course,” as defined in ORS 73.0302. (h) “Instrument,” as defined in ORS 73.0104. (i) “Notice of dishonor,” as defined in ORS 73.0503. (j) “Order,” as defined in ORS 73.0103. (k) “Ordinary care,” as defined in ORS 73.0103. (L) “Person entitled to enforce,” as defined in ORS 73.0301. (m) “Presentment,” as defined in ORS 73.0501. (n) “Promise,” as defined in ORS 73.0103. (o) “Prove,” as defined in ORS 73.0103. (p) “Teller’s check,” as defined in ORS 73.0104. (q) “Unauthorized signature,” as defined in ORS 73.0403.
 
-(4) In addition, ORS chapter 71 contains general definitions and principles of construction and interpretation applicable throughout this chapter. [1961 c.726 §74.1040; 1993 c.220 §1; 1993 c.545 §75; 1995 c.328 §67; 1997 c.631 §379; 2009 c.181 §45] 74.1050 “Bank”; “depositary bank”; “intermediary bank”; “collecting bank”; “payor bank”; “presenting bank.” In this chapter:
-
-(1) “Bank” means a financial institution, as defined in ORS 706.008.
-
-(2) “Depositary bank” means the first bank to take an item even though it is also the payor bank unless the item is presented for immediate payment over the counter.
-
-(3) “Payor bank” means a bank that is the drawee of a draft.
-
-(4) “Intermediary bank” means a bank to which an item is transferred in course of collection except the depositary or payor bank.
-
-(5) “Collecting bank” means a bank handling an item for collection except the payor bank.
-
-(6) “Presenting bank” means a bank presenting an item except a payor bank. [1961 c.726 §74.1050; 1993 c.545 §76; 1997 c.631 §380] 74.1060 Payable through or payable at bank; collecting bank.
-
-(1) If an item states that it is “payable through” a bank identified in the item: (a) The item designates the bank as a collecting bank and does not by itself authorize the bank to pay the item; and (b) The item may be presented for payment only by or through the bank.
-
-(2) If an item states that it is “payable at” a bank identified in the item: (a) The item designates the bank as a collecting bank and does not by itself authorize the bank to pay the item; and (b) The item may be presented for payment only by or through the bank.
-
-(3) If a draft names a nonbank drawee and it is unclear whether a bank named in the draft is a co-drawee or a collecting bank, the bank is a collecting bank. [1961 c.726 §74.1060; 1963 c.402 §2; 1993 c.545 §77] 74.1070 Separate office of bank for computing time for actions, notices and orders. A bank or separate office of a bank is a separate bank for the purpose of computing the time within which and determining the place at or to which action may be taken or notices or orders must be given under this chapter and ORS chapter 73. [1961 c.726 §74.1070; 1993 c.545 §78] 74.1080 Time of receipt of items.
-
-(1) For the purpose of allowing time to process items, prove balances and make the necessary entries on its books to determine its position for a day, a bank may fix an afternoon hour of 2 p.m. or later as a cutoff hour for the handling of money and items and the making of entries on its books.
-
-(2) An item or deposit of money received on any day after a cutoff hour so fixed or after the close of the banking day may be treated as being received at the opening of the next banking day. [1961 c.726 §74.1080; 1993 c.545 §79] 74.1090 Waiver of time limits; when delay excused.
-
-(1) Unless otherwise instructed, a collecting bank in a good faith effort to secure payment of a specific item drawn on a payor other than a bank, and with or without the approval of any person involved, may waive, modify or extend time limits imposed or permitted by the Uniform Commercial Code for a period not exceeding two additional banking days without discharge of drawers or indorsers or liability to its transferor or a prior party.
-
-(2) Delay by a collecting bank or payor bank beyond time limits prescribed or permitted by the Uniform Commercial Code or by instructions is excused if: (a) The delay is caused by interruption of communication or computer facilities, suspension of payments by another bank, war, emergency conditions, failure of equipment or other circumstances beyond the control of the bank; and (b) The bank exercises such diligence as the circumstances require. [1993 c.545 §81] 74.1110 Statute of limitations. An action to enforce an obligation, duty or right arising under this chapter must be commenced within three years after the claim for relief accrues. [1993 c.545 §83] 74.1120 Electronic presentment.
-
-(1) “Agreement for electronic presentment” means an agreement, clearing house rule, or Federal Reserve regulation or operating circular, providing that presentment of an item may be made by transmission of an image of an item or information describing the item (“presentment notice”) rather than delivery of the item itself. The agreement may provide for procedures governing retention, presentment, payment, dishonor and other matters concerning items subject to the agreement.
-
-(2) Presentment of an item pursuant to an agreement for presentment is made when the presentment notice is received.
-
-(3) If presentment is made by presentment notice, a reference to “item” or “check” in this chapter means the presentment notice unless the context otherwise indicates. [1993 c.545 §82]
+(4) In addition, ORS chapter 71 contains general definitions and principles of construction and interpretation applicable throughout this chapter. [1961 c.726 §74.1040; 1993 c.220 §1; 1993 c.545 §75; 1995 c.328 §67; 1997 c.631 §379; 2009 c.181 §45] 
 
 ## Provenance & change history
 

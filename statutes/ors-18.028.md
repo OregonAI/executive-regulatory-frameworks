@@ -52,7 +52,7 @@ ORS 18.028 — Authority of Chief Justice. Chapter 18 (Judgments), 2025 Edition.
 
 (1) Authorize or require that specified requests for relief that are not governed by other legal authority be decided by judgment; and
 
-(2) Authorize or require the use of a limited or supplemental judgment for specified requests for relief that are not governed by other legal authority. [2005 c.568 §3] 18.029 Effect of chapter on use of judgment. The provisions of this chapter do not impose any requirement that a court use a judgment for the court’s concluding decision on a request for relief if a legal authority allows or requires that the court decide the request for relief by order or other means. [2005 c.568 §6] Note: See first note under 18.005. 18.030 [Amended by 1973 c.207 §1; 1977 c.616 §1; repealed by 1981 c.898 §53] 18.031 Contents of supplemental judgments. Except as provided in ORS 25.529 (5), a supplemental judgment may only contain provisions that were not included in the general judgment. [2009 c.484 §7; 2013 c.183 §4]
+(2) Authorize or require the use of a limited or supplemental judgment for specified requests for relief that are not governed by other legal authority. [2005 c.568 §3] 
 
 ## Provenance & change history
 

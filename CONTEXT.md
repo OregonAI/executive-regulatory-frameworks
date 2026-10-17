@@ -332,23 +332,21 @@ chapter absent from both the mirrored set AND the discovery map
 to chapters "relevant to DAS/executive-branch administration" and was never asked about
 most of the numbering space — its silence proves nothing, and is reported as exactly that
 rather than guessed either way. `src/scan_ors_citations.py --check` (CI, every PR) is the
-gate: measured on the committed corpus, 92
+gate: measured on the committed corpus, 62
 <!--census:ors_citation_gap.chapters_cited_outside_mirrored_set--> chapters this corpus's
 own documents cite sit outside the selection (14
 <!--census:ors_citation_gap.chapters_known_real_not_ingested--> corroborated real via the
-discovery map, 78 <!--census:ors_citation_gap.chapters_no_corroborating_evidence--> with no
+discovery map, 48 <!--census:ors_citation_gap.chapters_no_corroborating_evidence--> with no
 evidence either way — the same three counts already living in
 `ors-citation-gap.yml`'s own `summary:` block and printed line, exposed here as named
 quantities rather than recomputed, #307) — chapter 151 among neither any more,
-having been mirrored for this fix, and chapter 31 the largest remaining single gap at
-284 <!--census:ors_citation_gap.target_31_mentions--> citations across
-127 <!--observed:2026-08-28--> documents (status
-`not_mirrored_unknown` — not even in the discovery map, so its title is not asserted here
-either), dwarfing the one chapter this ticket happened to notice.
+and chapter 31 too, now that the whole of ORS is mirrored (the former largest single gap,
+284 <!--observed:2026-08-28--> citations across 127 <!--observed:2026-08-28-->
+documents when it was measured on 2026-08-28, is no longer a gap at all).
 #292 IS A THIRD STATE, and it sits BENEATH the selection rather than outside it: a chapter
 can be selected (its source page fetched, a row in `_meta/sources/ors.yml`) and still hold
 ZERO documents — 15
-<!--census:ors_citation_gap.chapters_mirrored_no_documents--> of the 547
+<!--census:ors_citation_gap.chapters_mirrored_no_documents--> of the 594
 <!--census:ors_citation_gap.chapters_mirrored--> mirrored chapters this corpus's own
 documents actually cite (16 <!--observed:2026-08-30--> total, one of them uncited), every one a
 `(Former Provisions)` chapter whose own printed text is entirely bracketed

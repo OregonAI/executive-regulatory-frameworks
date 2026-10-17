@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-87.603
-title: "Definitions for ORS"
+title: "Definitions for ORS 87.603 to 87.633"
 doc_type: statute
 citation: "ORS 87.603"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-87"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors087.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Definitions for ORS (ORS 87.603)
+# Definitions for ORS 87.603 to 87.633 (ORS 87.603)
 
 ## At a glance
 
-ORS 87.603 — Definitions for ORS. Chapter 87 (Statutory Liens), 2025 Edition.
+ORS 87.603 — Definitions for ORS 87.603 to 87.633. Chapter 87 (Statutory Liens), 2025 Edition.
 
 ## Full text
 
@@ -54,27 +54,7 @@ ORS 87.603 — Definitions for ORS. Chapter 87 (Statutory Liens), 2025 Edition.
 
 (2) “Ambulance services” includes the transportation of an individual who is ill or injured or who has a disability in an ambulance and the administration of medical or emergency care, if necessary, while the individual is being transported.
 
-(3) “Governmental unit” means the state, any county, city or other municipal corporation or any department, board or other agency of any of them. [1983 c.821 §2; 1985 c.16 §446; 2007 c.70 §19] 87.605 [Amended by 1955 c.136 §1; repealed by 1975 c.648 §72] 87.607 Ambulance services lien. When an individual receives ambulance services provided by any person or governmental unit, if the individual has a contract providing for indemnity or compensation for the sum incurred for those services, the person or governmental unit providing the ambulance services has a lien upon the amount payable under the contract. The party obligated to make reimbursement under the contract may pay the sum due thereunder directly to the person or governmental unit, and that payment shall constitute a full release of the party to the amount of the payment. [1983 c.821 §3] 87.610 [Repealed by 1975 c.648 §72] 87.613 Notice of lien required. In order to perfect the lien described in ORS 87.607, the person or an officer of the governmental unit that provided the ambulance services shall:
-
-(1) Not later than 15 days after providing the ambulance services, file a notice of lien with the recording officer of the county in which the individual who received the ambulance services resides; and
-
-(2) Prior to the date of judgment, settlement or compromise, serve a certified copy of the notice of lien by registered or certified mail upon the insurer or health care service contractor which has agreed to indemnify or compensate the individual for any costs incurred for ambulance services. [1983 c.821 §4] 87.615 [Repealed by 1975 c.648 §72] 87.617 Form of notice; contents. The notice of lien required under ORS 87.613 shall be a statement in writing verified by the oath of the person or an officer of the governmental unit asserting the lien claim and must contain:
-
-(1) A true statement of demand, after deducting all credits and offsets;
-
-(2) The name of the individual who received ambulance services;
-
-(3) An itemized statement of the ambulance services provided;
-
-(4) A statement that the amount claimed is a true and bona fide existing debt as of the date of the filing of the notice of lien; and
-
-(5) The date on which payment for the ambulance services is due. [1983 c.821 §5] 87.620 [Repealed by 1975 c.648 §72] 87.623 Notices recorded in lien docket. The recording officer of the county shall record the notices filed under ORS 87.613 in the lien docket maintained under ORS 87.575. [1983 c.821 §6; 2014 c.45 §10] 87.625 [Repealed by 1975 c.648 §72] 87.627 Payment after notice of lien; liability to provider of services; exception.
-
-(1) Except as provided in subsection
-
-(2) of this section, when an insurer or health care service contractor receives a certified copy of a notice of lien from a person or governmental unit under ORS 87.613, if the insurer or health care service contractor makes any payment to the individual named in the notice without paying the person or governmental unit the amount claimed by the person or governmental unit in the notice, the insurer or health care service contractor is liable to the person or governmental unit for the amount claimed in the notice of lien. For 180 days after the date of such payment, the person or governmental unit has a cause of action against the insurer or health care service contractor.
-
-(2) If an insurer or health care service contractor pays for ambulance services according to the terms of its policy or contract in response to a claim received earlier than the certified copy of a notice of lien for those ambulance services is received under ORS 87.613, then the insurer or health care service contractor is not liable for the amount claimed in the notice of lien and the person or governmental unit has no cause of action under ORS 87.603 to 87.633 against the insurer or health care service contractor. [1983 c.821 §7] 87.630 [Repealed by 1975 c.648 §72] 87.633 Foreclosure. The lien described in ORS 87.607 may be foreclosed by a suit in the circuit court. [1983 c.821 §8] 87.635 [Repealed by 1975 c.648 §72] 87.640 [Repealed by 1975 c.648 §72] 87.645 [Repealed by 1975 c.648 §72] 87.650 [Repealed by 1975 c.648 §72] 87.655 [Repealed by 1975 c.648 §72] 87.660 [Repealed by 1975 c.648 §72] 87.665 [Repealed by 1975 c.648 §72] 87.670 [Repealed by 1975 c.648 §72] 87.675 [Repealed by 1975 c.648 §72]
+(3) “Governmental unit” means the state, any county, city or other municipal corporation or any department, board or other agency of any of them. [1983 c.821 §2; 1985 c.16 §446; 2007 c.70 §19] 87.605 [Amended by 1955 c.136 §1; repealed by 1975 c.648 §72] 
 
 ## Provenance & change history
 

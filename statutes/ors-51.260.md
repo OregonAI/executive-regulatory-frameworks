@@ -66,13 +66,7 @@ ORS 51.260 — Filling vacancy; temporary appointment; appointment during justic
 
 (2) and
 
-(4) of this section. [Amended by 1961 c.724 §26; 1995 c.329 §1; 1995 c.658 §58] 51.270 [Repealed by 2019 c.426 §1] 51.280 [Repealed by 2019 c.426 §1] 51.290 [Repealed by 1953 c.306 §18] 51.300 Temporary service by circuit court judge or other justice of the peace. A judge of the circuit court for a county, or any justice of the peace for a justice court district located within the county, may exercise the powers and duties of justice of the peace of any justice court in the county:
-
-(1) At the request of the justice of the peace of the justice court;
-
-(2) In the event of a vacancy in the office of the justice of the peace, until the vacancy is filled as provided by law; or
-
-(3) In the event of the absence, incapacity or disqualification of the justice of the peace, during the period of such absence, incapacity or disqualification. [1965 c.377 §2; 1979 c.69 §1; 1999 c.605 §3]
+(4) of this section. [Amended by 1961 c.724 §26; 1995 c.329 §1; 1995 c.658 §58] 51.270 [Repealed by 2019 c.426 §1] 51.280 [Repealed by 2019 c.426 §1] 51.290 [Repealed by 1953 c.306 §18] 
 
 ## Provenance & change history
 

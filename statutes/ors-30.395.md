@@ -54,7 +54,7 @@ ORS 30.395 — Settlement of certain claims against municipal corporations; mann
 
 (2) When a judgment is entered or a settlement is made pursuant to subsection
 
-(1) of this section, payment therefor may be made in the same manner as payment for tort claims under ORS 30.295. [1979 c.630 §2; 1987 c.396 §1] 30.400 Actions by and against public officers in official capacity. An action may be maintained by or against any public officer in this state in an official character, when, as to such cause of action, the officer does not represent any of the public corporations mentioned in ORS 30.310, for any of the causes specified in such section and ORS 30.320. If judgment is given against the officer in such action, it may be enforced against the officer personally, and the amount thereof shall be allowed to the officer in the official accounts of the officer. 30.402 [1991 c.847 §1; renumbered 17.095 in 2003]
+(1) of this section, payment therefor may be made in the same manner as payment for tort claims under ORS 30.295. [1979 c.630 §2; 1987 c.396 §1] 
 
 ## Provenance & change history
 

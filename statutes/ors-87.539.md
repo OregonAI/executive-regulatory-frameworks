@@ -58,13 +58,7 @@ ORS 87.539 — Discharge or release of lien claim; recordation; penalty for fail
 
 (4) If, after receiving payment for the care claimed in a notice of lien filed under ORS 87.507, a long term care facility fails to discharge the lien or release the claim of lien within 10 days, the long term care facility is liable to the individual or to the spouse or the estate of the individual for $100 or the amount of actual damages, whichever amount is greater.
 
-(5) In all actions brought under this section, the court may allow reasonable attorney fees at trial and on appeal to the prevailing party. [1995 c.749 §10; 1997 c.744 §10; 2009 c.628 §5] Note: See note under 87.501. 87.540 [Amended by 1957 c.684 §2; repealed by 1975 c.648 §72] 87.542 Priority of lien.
-
-(1) A lien created under ORS 87.503 shall have priority from the date of its perfection and shall be subordinate and inferior to any other lien, mortgage, trust deed or other encumbrance that attached to the real property or was recorded prior to the recording of the notice of lien under ORS 87.507. Except for property tax liens, the lien created by ORS 87.503 shall have priority over any other lien, mortgage, trust deed or other encumbrance that attached to the real property or was recorded subsequent to the recording of the notice of lien under ORS 87.507.
-
-(2) A lien created under ORS 87.503 is void as against any purchaser in good faith and for a valuable consideration of the same real property whose interest is recorded prior to the recording of the notice of lien under ORS 87.507.
-
-(3) ORS 93.645 shall apply to a lien created under ORS 87.503 as if the lien were a judgment lien. [1997 c.744 §5] Note: See note under 87.501. 87.545 [Repealed by 1975 c.648 §72] 87.550 [Repealed by 1957 c.684 §3 (87.551 enacted in lieu of 87.550)] 87.551 [1957 c.684 §4 (enacted in lieu of 87.550); repealed by 1975 c.648 §72]
+(5) In all actions brought under this section, the court may allow reasonable attorney fees at trial and on appeal to the prevailing party. [1995 c.749 §10; 1997 c.744 §10; 2009 c.628 §5] Note: See note under 87.501. 87.540 [Amended by 1957 c.684 §2; repealed by 1975 c.648 §72] 
 
 ## Provenance & change history
 

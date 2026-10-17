@@ -52,11 +52,7 @@ ORS 51.125 — Keeping of case records. Chapter 51 (Justice Courts; Jurisdiction
 
 (1) The justice of the peace shall safely and securely keep all case records of the justice court described in ORS 51.115. The case records are public records for the purposes of ORS 192.311 to 192.478.
 
-(2) When any justice court is abolished, the justice of the peace shall turn over the case records of that court to the clerk of the circuit court for the county in which the justice court was located. [2025 c.268 §4] 51.130 [Amended by 1995 c.658 §56; repealed by 2025 c.268 §35] 51.140 Office, courtroom and clerical assistance; books, office equipment and supplies. The county court or board of county commissioners of the county in which the justice of the peace has been elected or appointed:
-
-(1) May provide for the office of the justice of the peace the office and courtroom and clerical assistance necessary to enable the justice of the peace to effectuate the prompt, efficient and dignified administration of justice.
-
-(2) Shall provide for the office of the justice of the peace: (a) The books, records, forms, papers, stationery, postage and office equipment and supplies necessary in the proper keeping of the records and files of the judicial office and the transaction of the business thereof. (b) The latest edition of the Oregon Revised Statutes and all official materials published from time to time to supplement such edition. [Amended by 1955 c.448 §1; 1957 c.180 §1]
+(2) When any justice court is abolished, the justice of the peace shall turn over the case records of that court to the clerk of the circuit court for the county in which the justice court was located. [2025 c.268 §4] 51.130 [Amended by 1995 c.658 §56; repealed by 2025 c.268 §35] 
 
 ## Provenance & change history
 

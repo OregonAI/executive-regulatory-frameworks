@@ -48,7 +48,7 @@ ORS 35.525 — Construction. Chapter 35 (Eminent Domain; Public Acquisition of P
 
 ## Full text
 
-35.525 Construction. Nothing in ORS 35.510, 35.515 or 35.520 shall be construed as creating in any condemnation proceedings brought under the power of eminent domain, any element of value or of damage not in existence immediately prior to May 7, 1971. [Formerly 281.090] 35.530 Federal law controls. If a public entity is receiving federal financial assistance and is thereby required to comply with applicable federal laws and regulations relating to relocation assistance, such federal laws and regulations shall control should there be any conflict with ORS 35.500 to 35.530. [Formerly 281.105]
+35.525 Construction. Nothing in ORS 35.510, 35.515 or 35.520 shall be construed as creating in any condemnation proceedings brought under the power of eminent domain, any element of value or of damage not in existence immediately prior to May 7, 1971. [Formerly 281.090] 
 
 ## Provenance & change history
 

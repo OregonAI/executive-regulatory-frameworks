@@ -54,15 +54,7 @@ ORS 36.715 — Judgment on award; attorney fees and litigation expenses. Chapter
 
 (2) A court may allow reasonable costs of the petition and subsequent judicial proceedings.
 
-(3) On application of a prevailing party to a contested judicial proceeding under ORS 36.700, 36.705 or 36.710, the court may add reasonable attorney fees incurred in a judicial proceeding after the award is made to a judgment confirming, vacating without directing a rehearing, modifying or correcting an award. [2003 c.598 §25] Note: See note under 36.600. 36.720 Jurisdiction.
-
-(1) A court having jurisdiction over the controversy and the parties may enforce an agreement to arbitrate.
-
-(2) An agreement to arbitrate providing for arbitration in this state confers exclusive jurisdiction on the court to enter judgment on an award under ORS 36.600 to 36.740. [2003 c.598 §26] Note: See note under 36.600. 36.725 Venue. A petition pursuant to ORS 36.615 must be made in the court for the county in which the agreement to arbitrate specifies the arbitration hearing is to be held or, if the hearing has been held, in the court for the county in which it was held. Otherwise, the petition may be made in the court for any county in which an adverse party resides or has a place of business or, if no adverse party has a residence or place of business in this state, in the court of any county in this state. All subsequent petitions must be made in the court hearing the initial petition unless the court otherwise directs. [2003 c.598 §27] Note: See note under 36.600. 36.730 Appeals.
-
-(1) An appeal may be taken from: (a) An order denying a petition to compel arbitration. (b) An order granting a petition to stay arbitration. (c) A judgment entered pursuant to ORS 36.600 to 36.740, including but not limited to a judgment: (A) Confirming or denying confirmation of an award. (B) Modifying or correcting an award. (C) Vacating an award without directing a rehearing.
-
-(2) An appeal under this section must be taken as provided in ORS chapter 19. [2003 c.598 §28] Note: See note under 36.600. 36.735 Uniformity of application and construction. In applying and construing ORS 36.600 to 36.740, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it. [2003 c.598 §29] Note: See note under 36.600. 36.740 Relationship to electronic signatures in Global and National Commerce Act. The provisions of ORS 36.600 to 36.740 governing the legal effect, validity and enforceability of electronic records or electronic signatures, and of contracts performed with the use of such records or signatures, conform to the requirements of Section 102 of the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7001 and 7002, as in effect on January 1, 2004. [2003 c.598 §30] Note: See note under 36.600. _______________
+(3) On application of a prevailing party to a contested judicial proceeding under ORS 36.700, 36.705 or 36.710, the court may add reasonable attorney fees incurred in a judicial proceeding after the award is made to a judgment confirming, vacating without directing a rehearing, modifying or correcting an award. [2003 c.598 §25] Note: See note under 36.600. 
 
 ## Provenance & change history
 

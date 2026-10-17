@@ -7,7 +7,7 @@ Generated 2026-10-17. Non-authoritative; see DISCLAIMER.md.
 | doc_type | count |
 |---|---|
 | rule | 42897 |
-| statute | 37534 |
+| statute | 39002 |
 | policy | 676 |
 | executive_order | 526 |
 | constitutional_provision | 339 |
@@ -18,15 +18,15 @@ Generated 2026-10-17. Non-authoritative; see DISCLAIMER.md.
 | procedure | 14 |
 | external_reference | 1 |
 
-**Total: 82282**
+**Total: 83750**
 
 ## Source manifest
 
-8466 declared source(s) across 20 group(s) in `sources`.
+8513 declared source(s) across 20 group(s) in `sources`.
 
 ## Freshness (reverify every 90 days)
 
-82282 of 82282 document(s) overdue for re-verification.
+83750 of 83750 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
@@ -80,5 +80,5 @@ Generated 2026-10-17. Non-authoritative; see DISCLAIMER.md.
 | ors-1.199 | statute | never |
 | ors-1.200 | statute | never |
 | ors-1.202 | statute | never |
-| … | *82232 more* | |
+| … | *83700 more* | |
 

@@ -48,11 +48,7 @@ ORS 97.984 — Liability of executor who carries out anatomical gift. Chapter 97
 
 ## Full text
 
-97.984 Liability of executor who carries out anatomical gift. A person named executor who carries out an anatomical gift of the testator made under the provisions of ORS 97.957 before issuance of letters testamentary or under a will which is not admitted to probate shall not be liable to the surviving spouse or next of kin for performing acts necessary to carry out the gift of the testator. [Formerly 97.966] 97.985 Transplants not covered by implied warranty.
-
-(1) The procuring, processing, furnishing, distributing, administering or using of any part of a human body for the purpose of injecting, transfusing or transplanting that part into a human body is not a sales transaction covered by an implied warranty under the Uniform Commercial Code or otherwise.
-
-(2) As used in this section, “part” means organs or parts of organs, tissues, eyes or parts of eyes, bones, arteries, blood, other fluids and any other portions of a human body. [Formerly 97.968]
+97.984 Liability of executor who carries out anatomical gift. A person named executor who carries out an anatomical gift of the testator made under the provisions of ORS 97.957 before issuance of letters testamentary or under a will which is not admitted to probate shall not be liable to the surviving spouse or next of kin for performing acts necessary to carry out the gift of the testator. [Formerly 97.966] 
 
 ## Provenance & change history
 

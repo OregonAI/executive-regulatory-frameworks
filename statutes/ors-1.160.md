@@ -48,19 +48,7 @@ ORS 1.160 — Means to carry jurisdiction into effect; adoption of suitable proc
 
 ## Full text
 
-1.160 Means to carry jurisdiction into effect; adoption of suitable process or mode of proceeding. When jurisdiction is, by the Constitution or by statute, conferred on a court or judicial officer, all the means to carry it into effect are also given; and in the exercise of the jurisdiction, if the course of proceeding is not specifically pointed out by the procedural statutes, any suitable process or mode of proceeding may be adopted which may appear most conformable to the spirit of the procedural statutes. 1.165 [1981 s.s. c.3 §7; renumbered 1.185 in 1999] 1.167 [1981 s.s. c.3 §18; renumbered 1.187 in 1999] 1.169 [1987 c.559 §2; 1989 c.1008 §1; 1995 c.781 §5; repealed by 1995 c.658 §127] 1.170 [Repealed by 1981 s.s. c.3 §141] 1.171 Powers and duties of presiding judge for judicial district.
-
-(1) A presiding judge appointed under ORS 1.003 is presiding judge for the circuit court of a judicial district established under ORS 3.012.
-
-(2) The presiding judge, to facilitate exercise of administrative authority and supervision over the circuit court of the district and consistent with applicable provisions of law and the Oregon Rules of Civil Procedure, may: (a) Apportion and otherwise regulate the disposition of the judicial business of the circuit court of the judicial district; and (b) Make rules, issue orders and take other action appropriate to that exercise.
-
-(3) The presiding judge may assign actions and proceedings pending before a court to other judges of the judicial district for hearing and disposition. A judge who is assigned an action or proceeding under this subsection shall hear and dispose of the assigned action or proceeding unless the presiding judge withdraws the assignment for good cause shown.
-
-(4) The presiding judge may delegate the exercise of any of the administrative powers of the presiding judge to another judge of the court or to the trial court administrator for the judicial district. [1995 c.781 §1; 1997 c.801 §146; 2009 c.484 §2] 1.175 Docket priorities. Any time a court of this state is directed by a provision of Oregon Revised Statutes to accord priority on its docket for a particular action or proceeding, and the priority to be accorded is unclear in light of other provisions of Oregon Revised Statutes, the court may accord such priorities as are consistent with:
-
-(1) Specific statutory time limits; and
-
-(2) The court’s efficient administration of its caseload, giving due consideration to the interests sought to be furthered by according docket priorities to certain actions or proceedings before the court. [1989 c.322 §2]
+1.160 Means to carry jurisdiction into effect; adoption of suitable process or mode of proceeding. When jurisdiction is, by the Constitution or by statute, conferred on a court or judicial officer, all the means to carry it into effect are also given; and in the exercise of the jurisdiction, if the course of proceeding is not specifically pointed out by the procedural statutes, any suitable process or mode of proceeding may be adopted which may appear most conformable to the spirit of the procedural statutes. 1.165 [1981 s.s. c.3 §7; renumbered 1.185 in 1999] 1.167 [1981 s.s. c.3 §18; renumbered 1.187 in 1999] 1.169 [1987 c.559 §2; 1989 c.1008 §1; 1995 c.781 §5; repealed by 1995 c.658 §127] 1.170 [Repealed by 1981 s.s. c.3 §141] 
 
 ## Provenance & change history
 

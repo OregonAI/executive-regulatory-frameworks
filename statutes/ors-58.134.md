@@ -52,13 +52,7 @@ ORS 58.134 — Application for authority to transact business. Chapter 58 (Profe
 
 (1) The professional service or services to be rendered in this state through the foreign professional corporation; and
 
-(2) Any other business purposes permitted under ORS 58.076. [1987 c.94 §21; 1993 c.235 §7; 1999 c.486 §2] 58.136 Amended application for authority to transact business. A foreign professional corporation shall file an amended application with the Office of Secretary of State anytime there is a change in the professional service or services to be rendered by the foreign professional corporation or in the business purpose as specified in the application under ORS 58.134, or as otherwise required by law. [1993 c.235 §31] 58.139 [1987 c.94 §22; repealed by 1993 c.235 §40] 58.140 [Repealed by 1961 c.726 §427] 58.141 Rights and duties of foreign professional corporation and shareholders; authority to transact business.
-
-(1) A foreign professional corporation authorized to transact business in this state has the same but no greater rights and the same but no greater privileges as a domestic professional corporation and, except as otherwise provided in this chapter, is subject to the same duties, restrictions, penalties and liabilities imposed on a domestic professional corporation.
-
-(2) A foreign professional corporation shareholder who practices within this state has the same but no greater rights and the same but no greater privileges as a domestic professional corporation shareholder and, except as otherwise provided in this chapter, is subject to the same duties, restrictions, penalties and liabilities imposed on a domestic professional corporation shareholder.
-
-(3) The filing by the Secretary of State of an application or amendment to the application for authority to transact business shall constitute authorization to transact business in this state, subject to the approval by the applicable regulatory board or boards and subject to the right of the Secretary of State to revoke the authorization. [1993 c.235 §30] 58.144 [1987 c.94 §23; repealed by 1993 c.235 §40] 58.150 [Repealed by 1961 c.726 §427] 58.155 [1969 c.592 §10; repealed by 1993 c.235 §40]
+(2) Any other business purposes permitted under ORS 58.076. [1987 c.94 §21; 1993 c.235 §7; 1999 c.486 §2] 
 
 ## Provenance & change history
 

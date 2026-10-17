@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-60.840
-title: "Exceptions to ORS"
+title: "Exceptions to ORS 60.835"
 doc_type: statute
 citation: "ORS 60.840"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-60"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors060.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Exceptions to ORS (ORS 60.840)
+# Exceptions to ORS 60.835 (ORS 60.840)
 
 ## At a glance
 
-ORS 60.840 — Exceptions to ORS. Chapter 60 (Private Corporations), 2025 Edition.
+ORS 60.840 — Exceptions to ORS 60.835. Chapter 60 (Private Corporations), 2025 Edition.
 
 ## Full text
 
@@ -56,7 +56,7 @@ ORS 60.840 — Exceptions to ORS. Chapter 60 (Private Corporations), 2025 Editio
 
 (3) Notwithstanding subsection
 
-(1) of this section, a corporation may elect by a provision of its original articles of incorporation or any amendment thereto to be governed by ORS 60.825 to 60.845, except that any amendment to the articles of incorporation shall not apply to restrict a business combination between the corporation and an interested shareholder of the corporation if the interested shareholder became an interested shareholder prior to April 4, 1991. [1991 c.40 §5] 60.845 Greater vote of shareholders prohibited. No provision of any articles of incorporation or bylaws shall require a greater vote of shareholders than that specified in ORS 60.825 to 60.845 for any vote of shareholders required by ORS 60.825 to 60.845. [1991 c.40 §6]
+(1) of this section, a corporation may elect by a provision of its original articles of incorporation or any amendment thereto to be governed by ORS 60.825 to 60.845, except that any amendment to the articles of incorporation shall not apply to restrict a business combination between the corporation and an interested shareholder of the corporation if the interested shareholder became an interested shareholder prior to April 4, 1991. [1991 c.40 §5] 
 
 ## Provenance & change history
 

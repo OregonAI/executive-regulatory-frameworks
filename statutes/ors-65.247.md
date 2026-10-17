@@ -54,19 +54,7 @@ ORS 65.247 — Cumulative voting for directors. Chapter 65 (Nonprofit Corporatio
 
 (2) Cumulative voting is not authorized at a particular meeting unless: (a) The meeting notice or statement accompanying the notice states that cumulative voting will take place; or (b) A member gives notice during the meeting and before the vote is taken of the member’s intent to vote cumulatively, and if one member gives this notice all other members participating in the election may vote cumulatively without giving further notice. (3)(a) Except as provided in paragraph (b) of this subsection, members may, without cause, remove a director who was elected by cumulative voting if the members act in accordance with ORS 65.324. (b) A proposal to remove a director who was elected by cumulative voting fails if the number of votes that members cast against the proposal to remove the director, or that fail to consent in writing to the removal, would have been sufficient to elect the director under these circumstances: (A) The members had voted cumulatively at an election that occurred at the time the director was last elected; (B) All directors authorized to serve on the board of directors were subject to election at that time; and (C) If during the election: (i) The members had cast the same total number of votes; or (ii) All memberships entitled to vote were voted, if the election was by written ballot.
 
-(4) Members may not vote cumulatively if the directors and members are identical. [1989 c.1010 §65; 2019 c.174 §49] 65.251 Other methods of electing directors. A corporation may provide in the corporation’s articles of incorporation or bylaws for election of directors by members or delegates:
-
-(1) On the basis of chapter or other organizational unit;
-
-(2) By region or other geographic unit;
-
-(3) By preferential voting; or
-
-(4) By any other reasonable method. [1989 c.1010 §66; 2019 c.174 §50] (Voting Agreements) 65.254 Voting agreements.
-
-(1) Two or more members may provide for the manner in which they will vote by signing an agreement for that purpose. Such agreements may be valid for a period of up to 10 years. For public benefit corporations such agreements must have a reasonable purpose not inconsistent with the corporation’s public or charitable purposes.
-
-(2) A voting agreement created under this section is specifically enforceable. [1989 c.1010 §69]
+(4) Members may not vote cumulatively if the directors and members are identical. [1989 c.1010 §65; 2019 c.174 §49] 
 
 ## Provenance & change history
 

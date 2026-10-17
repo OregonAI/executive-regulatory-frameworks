@@ -55,11 +55,7 @@ ORS 63.047 — Articles of organization. Chapter 63 (Limited Liability Companies
 
 (2) The articles of organization may set forth any other provisions, not inconsistent with law, for regulating the internal affairs of the limited liability company, including any provision that is required or permitted to be included in any operating agreement of the limited liability company under this chapter.
 
-(3) The articles of organization need not set forth any of the powers enumerated in this chapter. [1993 c.173 §15; 1997 c.774 §10; 1999 c.86 §3; 2001 c.315 §51; 2017 c.705 §20] 63.050 [Repealed by 1959 c.580 §104] 63.051 Organization.
-
-(1) Unless a delayed effective date is specified in the articles of organization, the limited liability company’s existence begins when the articles of organization are filed by the Secretary of State.
-
-(2) The Secretary of State’s filing of the articles of organization is conclusive proof that all conditions precedent to organization were satisfied except in a proceeding by the state to cancel or revoke the organization or involuntarily dissolve the limited liability company. [1993 c.173 §16] 63.054 Liability for preorganization transactions. All persons purporting to act as or on behalf of a limited liability company, knowing the limited liability company was not then in existence, are jointly and severally liable for all liabilities created while so acting. [1993 c.173 §17] 63.057 Operating agreements. The operating agreement, if any, may provide for the regulation and management of the affairs of the limited liability company in any manner not inconsistent with law or the articles of organization and may be in writing or oral. [1993 c.173 §18; 1995 c.93 §3] 63.060 [Repealed by 1959 c.580 §104] 63.070 [Repealed by 1959 c.580 §104]
+(3) The articles of organization need not set forth any of the powers enumerated in this chapter. [1993 c.173 §15; 1997 c.774 §10; 1999 c.86 §3; 2001 c.315 §51; 2017 c.705 §20] 63.050 [Repealed by 1959 c.580 §104] 
 
 ## Provenance & change history
 

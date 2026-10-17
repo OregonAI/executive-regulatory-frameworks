@@ -56,11 +56,7 @@ ORS 9.460 — Duties of attorneys. Chapter 9 (Oregon State Bar; Attorneys; Law L
 
 (3) Maintain the confidences and secrets of the attorney’s clients consistent with the rules of professional conduct established pursuant to ORS 9.490; and
 
-(4) Never reject, for any personal consideration, the cause of the defenseless or the oppressed. [Amended by 1989 c.1052 §9; 1991 c.726 §5] 9.470 [Repealed by 1965 c.353 §2] 9.480 [Amended by 1965 c.353 §1; 1981 c.193 §9; renumbered 9.527] 9.490 Formulation of rules of professional conduct; prohibition on certain sanctions for violation of rule.
-
-(1) The board of governors, with the approval of the house of delegates given at any regular or special meeting, shall formulate rules of professional conduct for attorneys, and when such rules are adopted by the Supreme Court, shall have power to enforce the same. Such rules shall be binding upon all attorney licensees of the bar.
-
-(2) A court of this state may not order that evidence be suppressed or excluded in any criminal trial, grand jury proceeding or other criminal proceeding, or order that any criminal prosecution be dismissed, solely as a sanction or remedy for violation of a rule of professional conduct adopted by the Supreme Court. [Amended by 1995 c.302 §19; 1995 c.708 §2; 2023 c.72 §8; 2025 c.32 §27]
+(4) Never reject, for any personal consideration, the cause of the defenseless or the oppressed. [Amended by 1989 c.1052 §9; 1991 c.726 §5] 9.470 [Repealed by 1965 c.353 §2] 9.480 [Amended by 1965 c.353 §1; 1981 c.193 §9; renumbered 9.527] 
 
 ## Provenance & change history
 

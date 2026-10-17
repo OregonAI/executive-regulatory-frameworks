@@ -56,29 +56,7 @@ ORS 78.5090 — Specification of duties of securities intermediary by other stat
 
 (3) The obligation of a securities intermediary to perform the duties imposed by ORS 78.5040, 78.5050, 78.5060, 78.5070 and 78.5080 is subject to: (a) Rights of the securities intermediary arising out of a security interest under a security agreement with the entitlement holder or otherwise; and (b) Rights of the securities intermediary under other law, regulation, rule or agreement to withhold performance of its duties as a result of unfulfilled obligations of the entitlement holder to the securities intermediary.
 
-(4) ORS 78.5040, 78.5050, 78.5060, 78.5070 and 78.5080 do not require a securities intermediary to take any action that is prohibited by other statute, regulation or rule. [1995 c.328 §49] 78.5100 Rights of purchaser of security entitlement from entitlement holder.
-
-(1) In a case not covered by the priority rules in ORS chapter 79A or the rules stated in subsection
-
-(3) of this section, an action based on an adverse claim to a financial asset or security entitlement, whether framed in conversion, replevin, constructive trust, equitable lien or other theory, may not be asserted against a person who purchases a security entitlement, or an interest therein, from an entitlement holder if the purchaser gives value, does not have notice of the adverse claim and obtains control.
-
-(2) If an adverse claim could not have been asserted against an entitlement holder under ORS 78.5020, the adverse claim cannot be asserted against a person who purchases a security entitlement, or an interest therein, from the entitlement holder.
-
-(3) In a case not covered by the priority rules in ORS chapter 79A, a purchaser for value of a security entitlement, or an interest therein, who obtains control has priority over a purchaser of a security entitlement, or an interest therein, who does not obtain control. Except as otherwise provided in subsection
-
-(4) of this section, purchasers who have control rank according to priority in time of: (a) The purchaser’s becoming the person for whom the securities account, in which the security entitlement is carried, is maintained, if the purchaser obtained control under ORS 78.1060 (4)(a); (b) The securities intermediary’s agreement to comply with the purchaser’s entitlement orders with respect to security entitlements carried or to be carried in the securities account in which the security entitlement is carried, if the purchaser obtained control under ORS 78.1060 (4)(b); or (c) If the purchaser obtained control through another person under ORS 78.1060 (4)(c), the time on which priority would be based under this subsection if the other person were the secured party.
-
-(4) A securities intermediary as purchaser has priority over a conflicting purchaser who has control unless otherwise agreed by the securities intermediary. [1995 c.328 §50; 2001 c.445 §156] 78.5110 Priority among security interests and entitlement holders.
-
-(1) Except as otherwise provided in subsections
-
-(2) and
-
-(3) of this section if a securities intermediary does not have sufficient interests in a particular financial asset to satisfy both its obligations to entitlement holders who have security entitlements to that financial asset and its obligation to a creditor of the securities intermediary who has a security interest in that financial asset, the claims of entitlement holders, other than the creditor, have priority over the claim of the creditor.
-
-(2) A claim of a creditor of a securities intermediary who has a security interest in a financial asset held by a securities intermediary has priority over claims of the securities intermediary’s entitlement holders who have security entitlements with respect to that financial asset if the creditor has control over the financial asset.
-
-(3) If a clearing corporation does not have sufficient financial assets to satisfy both its obligations to entitlement holders who have security entitlements with respect to a financial asset and its obligation to a creditor of the clearing corporation who has a security interest in that financial asset, the claim of the creditor has priority over the claims of entitlement holders. [1995 c.328 §51] _______________
+(4) ORS 78.5040, 78.5050, 78.5060, 78.5070 and 78.5080 do not require a securities intermediary to take any action that is prohibited by other statute, regulation or rule. [1995 c.328 §49] 
 
 ## Provenance & change history
 

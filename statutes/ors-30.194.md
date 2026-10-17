@@ -68,49 +68,7 @@ ORS 30.194 — Prohibitions relating to cable services. Chapter 30 (Actions and 
 
 (3) of this section; or
 
-(6) Fail to return or surrender, upon demand and after service has been terminated, equipment provided by a cable operator to receive cable service. [1999 c.705 §2] 30.195 Civil action for violation of prohibitions relating to cable services.
-
-(1) A cable operator may bring a civil action for damages against any person who violates any provision of ORS 30.194.
-
-(2) A cable operator who alleges a violation of ORS 30.194 may file for injunctive relief in the circuit court for the county where the alleged violation occurred or is occurring.
-
-(3) A cable operator who files an action under this section is not required to plead damages with particularity as a condition of filing or maintaining the action.
-
-(4) In any action brought under this section, there shall be a rebuttable presumption that a person has violated ORS 30.194
-
-(1) if the person is in actual possession of a device that permits the reception of unauthorized cable services for which payment has not been made and for which no legitimate purpose exists.
-
-(5) In any action brought under this section, there shall be a rebuttable presumption that a person has violated ORS 30.194
-
-(2) if cable service to the person’s business or residence was disconnected by a cable operator, notice of the disconnection was provided to the person by certified mail, and a connection exists at the person’s business or residence after the date of the notice.
-
-(6) In any action brought under this section, there shall be a rebuttable presumption that a person has violated ORS 30.194
-
-(3) if the cable operator as standard procedure: (a) Places written warning labels on its converters or decoders indicating that tampering with the devices is a violation of law and a converter or decoder is found to have been tampered with, altered or modified to allow the reception of cable services without authorization from or payment to the cable operator; or (b) Seals its converters or decoders with a label or mechanical device and the label or device has been removed or broken.
-
-(7) In any action brought under this section, there shall be a rebuttable presumption that a person has violated ORS 30.194
-
-(4) if a person possesses 10 or more printed circuit boards or other devices designed to receive cable services. A person who is found to have violated ORS 30.194
-
-(4) shall be subject to penalties described in ORS 30.196 (2).
-
-(8) In any action brought under this section, there shall be a rebuttable presumption that a person has violated ORS 30.194
-
-(5) if the person made representations to a buyer that the device offered for sale would allow the purchaser to obtain cable service without authorization from or payment to a cable operator. A person who is found to have violated ORS 30.194
-
-(5) shall be subject to penalties described in ORS 30.196 (2).
-
-(9) In any action brought under this section, there shall be a rebuttable presumption that a person has violated ORS 30.194
-
-(6) if a cable operator sent to the person by certified mail, at the most recent address for the person shown in the records of the cable operator, a written demand for the return of converters, decoders or other equipment owned by the cable operator. The demand shall allow the person to make reasonable arrangements to return the equipment within 15 days of receiving the notice. Reasonable arrangements may include a request that the cable operator pick up the equipment, subject to the cable operators written policies.
-
-(10) Statements from a manufacturer or retailer regarding the intended use or uses of a product shall not constitute a defense to an alleged violation of ORS 30.194 (5). [1999 c.705 §3] 30.196 Amount recoverable; attorney fees.
-
-(1) In addition to any other penalty provided by law, a cable operator who prevails on a claim under ORS 30.195 may recover the amount of $3,000. (2)(a) A court may increase an award under subsection
-
-(1) of this section to an amount not to exceed $50,000 if the court determines that the violation was committed for purposes of commercial advantage. (b) As used in this subsection, “commercial advantage” does not include any monetary gain realized by a person’s private use of unauthorized cable services.
-
-(3) The prevailing party in an action brought under ORS 30.195 shall be awarded reasonable court costs and attorney fees and all costs including but not limited to the cost of investigation, disconnection or reconnection, service calls, labor, equipment and expert testimony. [1999 c.705 §4]
+(6) Fail to return or surrender, upon demand and after service has been terminated, equipment provided by a cable operator to receive cable service. [1999 c.705 §2] 
 
 ## Provenance & change history
 

@@ -62,11 +62,7 @@ ORS 93.030 — Contracts to convey, instruments of conveyance and related memora
 
 (5) An instrument conveying or contracting to convey fee title to any real estate or a memorandum of the instrument may not be accepted for recording by any county clerk or recording officer in this state unless the statement of consideration required by this section is included on the face of the instrument.
 
-(6) A transfer of death deed and an instrument revoking a transfer of death deed are not instruments subject to this section. [1967 c.462 §§1,3; 1967 s.s. c.7 §1; 1977 c.605 §1; 1999 c.654 §7; 2011 c.212 §23] 93.040 Mandatory statements for sales agreements, earnest money receipts or other instruments for conveyance of fee title to real property; liability of drafter and recorder.
-
-(1) The following statement shall be included in the body of an instrument transferring or contracting to transfer fee title to real property except for owner’s sale agreements or earnest money receipts, or both, as provided in subsection
-
-(2) of this section: “BEFORE SIGNING OR ACCEPTING THIS INSTRUMENT, THE PERSON TRANSFERRING FEE TITLE SHOULD INQUIRE ABOUT THE PERSON’S RIGHTS, IF ANY, UNDER ORS 195.300, 
+(6) A transfer of death deed and an instrument revoking a transfer of death deed are not instruments subject to this section. [1967 c.462 §§1,3; 1967 s.s. c.7 §1; 1977 c.605 §1; 1999 c.654 §7; 2011 c.212 §23] 
 
 ## Provenance & change history
 

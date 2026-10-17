@@ -48,7 +48,7 @@ ORS 94.783 — When certain administrative provisions apply. Chapter 94 (Real Pr
 
 ## Full text
 
-94.783 When certain administrative provisions apply. If a subdivision received preliminary plat approval before July 1, 1982, but the subdivision plat or the plat of the first phase is not filed under ORS 92.120 before January 1, 1984, the provisions of ORS 94.595, 94.604, 94.609, 94.616, 94.700, 94.760 and 94.780 shall apply to the planned community. [1983 c.206 §8; 1999 c.677 §68] 94.785 Short title. ORS 94.550 to 94.783 may be cited as the Oregon Planned Community Act. [1981 c.782 §1]
+94.783 When certain administrative provisions apply. If a subdivision received preliminary plat approval before July 1, 1982, but the subdivision plat or the plat of the first phase is not filed under ORS 92.120 before January 1, 1984, the provisions of ORS 94.595, 94.604, 94.609, 94.616, 94.700, 94.760 and 94.780 shall apply to the planned community. [1983 c.206 §8; 1999 c.677 §68] 
 
 ## Provenance & change history
 

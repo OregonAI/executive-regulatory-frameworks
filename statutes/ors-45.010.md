@@ -60,7 +60,7 @@ ORS 45.010 — Modes of testimony. Chapter 45 (Testimony Generally), 2025 Editio
 
 (5) Examination before a grand jury by means of simultaneous television transmission under ORS 132.320.
 
-(6) Declaration under penalty of perjury, as described in ORCP 1 E, or unsworn declaration under ORS 194.800 to 194.835, if the declarant is physically outside the boundaries of the United States. [Amended by 1993 c.425 §2; 1995 c.126 §3; 2003 c.194 §2; 2013 c.218 §11; 2017 c.240 §2] 45.020 Affidavit described. An affidavit is a written declaration under oath, made without notice to the adverse party. 45.030 [Repealed by 1979 c.284 §199] 45.040 Oral examination described. An oral examination is an examination in the presence of the jury or tribunal which is to decide the fact, or act upon it, the testimony being heard by the jury or tribunal from the mouth of the witness. 45.050 [Amended by 1961 c.461 §1; 1979 c.284 §82; repealed by 1981 c.898 §53] 45.110 [Repealed by 1979 c.284 §199] 45.120 [Repealed by 1979 c.284 §199] 45.125 [Formerly 45.180; repealed by 1977 c.404 §2 (194.500 to 194.580 enacted in lieu of 45.125)]
+(6) Declaration under penalty of perjury, as described in ORCP 1 E, or unsworn declaration under ORS 194.800 to 194.835, if the declarant is physically outside the boundaries of the United States. [Amended by 1993 c.425 §2; 1995 c.126 §3; 2003 c.194 §2; 2013 c.218 §11; 2017 c.240 §2] 
 
 ## Provenance & change history
 

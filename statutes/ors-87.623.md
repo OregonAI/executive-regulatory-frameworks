@@ -48,13 +48,7 @@ ORS 87.623 — Notices recorded in lien docket. Chapter 87 (Statutory Liens), 20
 
 ## Full text
 
-87.623 Notices recorded in lien docket. The recording officer of the county shall record the notices filed under ORS 87.613 in the lien docket maintained under ORS 87.575. [1983 c.821 §6; 2014 c.45 §10] 87.625 [Repealed by 1975 c.648 §72] 87.627 Payment after notice of lien; liability to provider of services; exception.
-
-(1) Except as provided in subsection
-
-(2) of this section, when an insurer or health care service contractor receives a certified copy of a notice of lien from a person or governmental unit under ORS 87.613, if the insurer or health care service contractor makes any payment to the individual named in the notice without paying the person or governmental unit the amount claimed by the person or governmental unit in the notice, the insurer or health care service contractor is liable to the person or governmental unit for the amount claimed in the notice of lien. For 180 days after the date of such payment, the person or governmental unit has a cause of action against the insurer or health care service contractor.
-
-(2) If an insurer or health care service contractor pays for ambulance services according to the terms of its policy or contract in response to a claim received earlier than the certified copy of a notice of lien for those ambulance services is received under ORS 87.613, then the insurer or health care service contractor is not liable for the amount claimed in the notice of lien and the person or governmental unit has no cause of action under ORS 87.603 to 87.633 against the insurer or health care service contractor. [1983 c.821 §7] 87.630 [Repealed by 1975 c.648 §72] 87.633 Foreclosure. The lien described in ORS 87.607 may be foreclosed by a suit in the circuit court. [1983 c.821 §8] 87.635 [Repealed by 1975 c.648 §72] 87.640 [Repealed by 1975 c.648 §72] 87.645 [Repealed by 1975 c.648 §72] 87.650 [Repealed by 1975 c.648 §72] 87.655 [Repealed by 1975 c.648 §72] 87.660 [Repealed by 1975 c.648 §72] 87.665 [Repealed by 1975 c.648 §72] 87.670 [Repealed by 1975 c.648 §72] 87.675 [Repealed by 1975 c.648 §72]
+87.623 Notices recorded in lien docket. The recording officer of the county shall record the notices filed under ORS 87.613 in the lien docket maintained under ORS 87.575. [1983 c.821 §6; 2014 c.45 §10] 87.625 [Repealed by 1975 c.648 §72] 
 
 ## Provenance & change history
 

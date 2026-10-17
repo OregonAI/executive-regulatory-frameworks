@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-98.992
-title: "Penalty for failure to report, pay or deliver property under ORS"
+title: "Penalty for failure to report, pay or deliver property under ORS 98.302 to 98.436"
 doc_type: statute
 citation: "ORS 98.992"
 authority_level: statute
@@ -45,11 +45,11 @@ tags: ["ors", "chapter-98"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors098.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Penalty for failure to report, pay or deliver property under ORS (ORS 98.992)
+# Penalty for failure to report, pay or deliver property under ORS 98.302 to 98.436 (ORS 98.992)
 
 ## At a glance
 
-ORS 98.992 — Penalty for failure to report, pay or deliver property under ORS. Chapter 98 (Lost, Unclaimed or Abandoned Property; Vehicle Towing), 2025 Edition.
+ORS 98.992 — Penalty for failure to report, pay or deliver property under ORS 98.302 to 98.436. Chapter 98 (Lost, Unclaimed or Abandoned Property; Vehicle Towing), 2025 Edition.
 
 ## Full text
 

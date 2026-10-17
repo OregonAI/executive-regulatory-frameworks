@@ -52,11 +52,7 @@ ORS 36.236 — Effect on other laws. Chapter 36 (Mediation and Arbitration), 202
 
 (1) Nothing in ORS 36.220 to 36.238 affects any confidentiality created by other law, including but not limited to confidentiality created by ORS 107.755 to 107.795.
 
-(2) Nothing in ORS 36.220 to 36.238 relieves a public body from complying with ORS 192.610 to 192.705. [1997 c.670 §9] 36.238 Application of ORS 36.210 and 36.220 to 36.238. The provisions of ORS 36.210 and 36.220 to 36.238 apply to:
-
-(1) All mediations, whether conducted by a publicly funded program or by a private mediation provider; and
-
-(2) Facilitated dispute resolution services conducted by the Public Records Advocate under ORS 192.464. Solely for purposes of ORS 36.210 and 36.220 to 36.238, a facilitated dispute resolution shall be deemed a mediation. [1997 c.670 §8; 2017 c.728 §7] 36.245 [1997 c.706 §2; repealed by 2003 c.791 §33] 36.250 [1989 c.967 §2; 2001 c.104 §9; 2005 c.657 §3; 2009 c.294 §2; repealed by 2015 c.202 §1]
+(2) Nothing in ORS 36.220 to 36.238 relieves a public body from complying with ORS 192.610 to 192.705. [1997 c.670 §9] 
 
 ## Provenance & change history
 

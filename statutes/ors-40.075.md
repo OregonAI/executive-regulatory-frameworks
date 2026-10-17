@@ -48,25 +48,7 @@ ORS 40.075 — Rule 201(e). Opportunity to be heard. Chapter 40 (Evidence Code),
 
 ## Full text
 
-40.075 Rule 201(e). Opportunity to be heard. A party is entitled upon timely request to an opportunity to be heard as to the propriety of taking judicial notice and the tenor of the matter noticed. In the absence of prior notification, the request may be made after judicial notice has been taken. [1981 c.892 §10] 40.080 Rule 201(f). Time of taking notice. Judicial notice may be taken at any stage of the proceeding. [1981 c.892 §11] 40.085 Rule 201(g). Instructing the jury.
-
-(1) In a civil action or proceeding, the court shall instruct the jury to accept as conclusive any fact or law judicially noticed.
-
-(2) In a criminal case, the court shall instruct the jury that it may, but is not required to, accept as conclusive any fact judicially noticed in favor of the prosecution. [1981 c.892 §12] 40.090 Rule 202. Law that is judicially noticed. Law judicially noticed is defined as:
-
-(1) The decisional, constitutional and public statutory law of Oregon, the United States, any federally recognized American Indian tribal government and any state, territory or other jurisdiction of the United States.
-
-(2) Public and private official acts of the legislative, executive and judicial departments of this state, the United States, any federally recognized American Indian tribal government and any other state, territory or other jurisdiction of the United States.
-
-(3) Rules of professional conduct for licensees of the Oregon State Bar.
-
-(4) Regulations, ordinances and similar legislative enactments issued by or under the authority of the United States, any federally recognized American Indian tribal government or any state, territory or possession of the United States.
-
-(5) Rules of court of any court of this state or any court of record of the United States, of any federally recognized American Indian tribal government or of any state, territory or other jurisdiction of the United States.
-
-(6) The law of an organization of nations and of foreign nations and public entities in foreign nations.
-
-(7) An ordinance, comprehensive plan or enactment of any county or incorporated city in this state, or a right derived therefrom. As used in this subsection, “comprehensive plan” has the meaning given that term by ORS 197.015. [1981 c.892 §13; 2007 c.63 §1; 2025 c.32 §70]
+40.075 Rule 201(e). Opportunity to be heard. A party is entitled upon timely request to an opportunity to be heard as to the propriety of taking judicial notice and the tenor of the matter noticed. In the absence of prior notification, the request may be made after judicial notice has been taken. [1981 c.892 §10] 
 
 ## Provenance & change history
 

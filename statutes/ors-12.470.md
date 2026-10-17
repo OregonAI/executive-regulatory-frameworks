@@ -48,7 +48,7 @@ ORS 12.470 — Severability. Chapter 12 (Limitations of Actions and Suits), 2025
 
 ## Full text
 
-12.470 Severability. If any provision of ORS 12.410 to 12.480 or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of ORS 12.410 to 12.480 which can be given effect without the invalid provision or application, and to this end the provisions of ORS 12.410 to 12.480 are severable. [1987 c.536 §8] Note: See note under 12.410. 12.480 Short title. ORS 12.410 to 12.480 may be cited as the Uniform Conflict of Laws-Limitations Act. [1987 c.536 §7] Note: See note under 12.410. _______________
+12.470 Severability. If any provision of ORS 12.410 to 12.480 or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of ORS 12.410 to 12.480 which can be given effect without the invalid provision or application, and to this end the provisions of ORS 12.410 to 12.480 are severable. [1987 c.536 §8] Note: See note under 12.410. 
 
 ## Provenance & change history
 

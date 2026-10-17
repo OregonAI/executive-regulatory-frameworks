@@ -67,11 +67,7 @@ ORS 25.287 — Proceedings to modify orders to comply with formula; when proceed
 
 (5) Notwithstanding the provisions of this section, proceedings may be initiated at any time to modify a support obligation based upon a substantial change of circumstances under any other provision of law.
 
-(6) The obligee is a party to any action to modify a support obligation under this section. [1991 c.519 §3; 1993 c.33 §369; 1993 c.596 §7 (enacted in lieu of 25.285 in 1993); 1995 c.608 §31; 1999 c.80 §64; 1999 c.735 §1; 2001 c.455 §§7,8; 2003 c.75 §24; 2003 c.116 §§1,2; 2003 c.576 §§183,184; 2005 c.560 §4; 2007 c.71 §9; 2007 c.878 §4; 2015 c.298 §86; 2019 c.13 §15; 2019 c.291 §9; 2021 c.500 §3; 2021 c.597 §51; 2025 c.99 §23] 25.290 Determining disposable income of obligor; offsets; rules.
-
-(1) In determining the disposable income of an obligor, the obligor may claim offsets against gross receipts for ordinary and necessary business expenses and taxes directly related to the income withheld. The obligor has the burden of proof and must furnish documentation to support any offsets claimed.
-
-(2) The Department of Justice may adopt rules governing the determination of the income subject to withholding that remains after application of offsets. Withholding actions in a case that is not receiving child support services under ORS 25.080 may be appealed to the circuit court. [1995 c.608 §1b; 2003 c.73 §27; 2025 c.99 §24] 25.310 [1985 c.671 §4; 1989 c.812 §4; 1991 c.362 §2; repealed by 1993 c.798 §21] 25.311 [1993 c.798 §5; 1995 c.608 §32; 1999 c.80 §2; 1999 c.735 §8; 1999 c.849 §§38,39; renumbered 25.378 in 1999] 25.313 [1993 c.798 §3; renumbered 25.393 in 1999] 25.314 [1993 c.798 §6; 1995 c.272 §6; 1997 c.704 §26; 1999 c.80 §3; renumbered 25.402 in 1999] 25.315 [1993 c.798 §7; 1999 c.80 §4; renumbered 25.399 in 1999] 25.316 [1993 c.798 §8; 1999 c.80 §5; 1999 c.735 §12; renumbered 25.405 in 1999] 25.317 [1993 c.798 §9; 1999 c.735 §11; renumbered 25.396 in 1999] 25.318 [1993 c.798 §10; renumbered 25.390 in 1999] 25.320 [1985 c.671 §5; 1997 c.704 §27; renumbered 25.164 in 1999]
+(6) The obligee is a party to any action to modify a support obligation under this section. [1991 c.519 §3; 1993 c.33 §369; 1993 c.596 §7 (enacted in lieu of 25.285 in 1993); 1995 c.608 §31; 1999 c.80 §64; 1999 c.735 §1; 2001 c.455 §§7,8; 2003 c.75 §24; 2003 c.116 §§1,2; 2003 c.576 §§183,184; 2005 c.560 §4; 2007 c.71 §9; 2007 c.878 §4; 2015 c.298 §86; 2019 c.13 §15; 2019 c.291 §9; 2021 c.500 §3; 2021 c.597 §51; 2025 c.99 §23] 
 
 ## Provenance & change history
 

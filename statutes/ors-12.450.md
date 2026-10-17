@@ -48,11 +48,7 @@ ORS 12.450 — When limitation period of another state not applicable. Chapter 1
 
 ## Full text
 
-12.450 When limitation period of another state not applicable. If the court determines that the limitation period of another state applicable under ORS 12.430 and 12.440 is substantially different from the limitation period of this state and has not afforded a fair opportunity to sue upon, or imposes an unfair burden in defending against the claim, the limitation period of this state applies. [1987 c.536 §4] Note: See note under 12.410. 12.460 Claims to which statutes apply. ORS 12.410 to 12.480 apply to claims:
-
-(1) Accruing after January 1, 1988; or
-
-(2) Asserted in a civil action or proceeding more than one year after January 1, 1988, but it does not revive a claim barred before January 1, 1988. [1987 c.536 §5] Note: See note under 12.410. 12.470 Severability. If any provision of ORS 12.410 to 12.480 or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of ORS 12.410 to 12.480 which can be given effect without the invalid provision or application, and to this end the provisions of ORS 12.410 to 12.480 are severable. [1987 c.536 §8] Note: See note under 12.410. 12.480 Short title. ORS 12.410 to 12.480 may be cited as the Uniform Conflict of Laws-Limitations Act. [1987 c.536 §7] Note: See note under 12.410. _______________
+12.450 When limitation period of another state not applicable. If the court determines that the limitation period of another state applicable under ORS 12.430 and 12.440 is substantially different from the limitation period of this state and has not afforded a fair opportunity to sue upon, or imposes an unfair burden in defending against the claim, the limitation period of this state applies. [1987 c.536 §4] Note: See note under 12.410. 
 
 ## Provenance & change history
 

@@ -167,8 +167,11 @@ def extract_chapter_title(raw_text, ch):
 # one right after "ORS " -- measured against every xref chain in the corpus, only 757.015
 # needs it, but the chain shape itself doesn't privilege one position over another.
 XREF_RE = re.compile(
-    r"\bORS\s+\d{3}[A-Z]?\.\d{3}(?:\s*\([0-9a-zA-Z., ]+\))*"
-    r"(?:\s*(?:,|and|to)\s*\d{3}[A-Z]?\.\d{3}(?:\s*\([0-9a-zA-Z., ]+\))*)*\b")
+    r"\bORS\s+\d{1,3}[A-Z]?\.\d{3,4}(?:\s*\([0-9a-zA-Z., ]+\))*"
+    r"(?:\s*(?:,|and|to)\s*\d{1,3}[A-Z]?\.\d{3,4}(?:\s*\([0-9a-zA-Z., ]+\))*)*\b")
+# ^ Chapter of any width, section tail of 3-4 digits (UCC chapters 71-80 print 72.1010). It was
+# `\d{3}[A-Z]?\.\d{3}`: a citation INSIDE a catchline to a chapter below 100 ("Definitions for
+# ORS 24.350 to 24.400.") went unmasked and 24.350's title was cut at 'ORS'.
 # A bare part/subpart heading ("TREATMENT OF PRISONERS") between two numbered TOC entries
 # has no section number of its own, so it isn't a split boundary either — it trails onto
 # the PRECEDING entry's catchline instead. Distinguished from real title text by being an
@@ -207,7 +210,9 @@ _PARA_SEP_RE = re.compile(r"\n\s*\n")
 # heading with nothing else following -- the Unicode right single quote ("INJURED WORKERS’
 # MEMORIAL SCHOLARSHIP", ch. 654), and comma/semicolon, which multi-clause part headings use
 # routinely ("REGISTRATION, ENFORCEMENT AND MODIFICATION OF SUPPORT ORDERS", ch. 110;
-# "LIQUOR; DRUGS", ch. 471/474). Safe to widen this far and no further: the match requires
+# "LIQUOR; DRUGS", ch. 471/474) and a colon ("PERFORMANCE OF LEASE CONTRACT: REPUDIATED,
+# SUBSTITUTED AND EXCUSED", 72A; "WAREHOUSE RECEIPTS:", ch. 77 -- see `_selftest`). Safe to
+# widen this far and no further: the match requires
 # the ENTIRE isolated paragraph to be uppercase, and no real ORS catchline -- always Title
 # Case -- is ever printed as its own all-uppercase paragraph, comma or not.
 # Digits, and an optional trailing ALL-CAPS parenthetical on the SAME paragraph, both added
@@ -235,7 +240,7 @@ _PARA_SEP_RE = re.compile(r"\n\s*\n")
 # with an embedded lowercase ordinal suffix ("OREGON EDUCATIONAL ACT FOR THE 21st CENTURY",
 # ch. 329) is not all-uppercase and matches neither this regex nor TRAILING_HEADING_RE.
 _HEADING_UNIT_RE = re.compile(
-    r"^(?=.*[A-Z])[A-Z0-9][A-Z0-9 ,;'’\-]*(?:\([A-Z0-9][A-Z0-9 ,;'’\-]*\))?$")
+    r"^(?=.*[A-Z])[A-Z0-9][A-Z0-9 ,;:'’\-]*(?:\([A-Z0-9][A-Z0-9 ,;'’\-]*\))?$")
 # A sub-heading is Title Case, not ALL CAPS ("(Generally)", "(Regulation; Prohibited
 # Acts)"), so it needs its own pattern -- matched purely by being its own parenthetical
 # paragraph, with or without a heading paragraph immediately before it (several chapters
@@ -602,6 +607,18 @@ def _selftest() -> int:
         raw = path.read_text(encoding="utf-8", errors="replace")
         return {s["number"]: s["title"] for s in parse_toc(raw, ch)}
 
+    # A cross-reference inside a catchline to a chapter numbered BELOW 100 ("Definitions for
+    # ORS 24.350 to 24.400.") was not masked: `XREF_RE` required a three-digit chapter, so
+    # 'ORS 24.350 to 24.400' was read as a TOC-entry boundary and 24.350's title was cut at
+    # 'ORS' (12 ingested titles: 24.105, 24.165, 24.260, 24.265, 24.350, 28.205, 31.260,
+    # 55.155, 67.340, 70.045, 70.500, 81.230).
+    s24 = secs("24")
+    ck("24.350 keeps the whole of its in-catchline range 'ORS 24.350 to 24.400'",
+       s24.get("24.350") == "Definitions for ORS 24.350 to 24.400")
+    ck("70.045 keeps the whole of its in-catchline citation",
+       secs("70").get("70.045", "").startswith("Effect of ORS 70.")
+       and not secs("70").get("70.045", "").endswith("ORS"))
+
     # THE TWO HEADING-FRAGMENT CASES: an in-catchline "to" range's own tail number
     # ("...ORS 691.405 to 691.485") used to be an uncovered false TOC-entry boundary,
     # stealing a bare part heading ("BOARD") as 691.485's title while the real entry
@@ -813,13 +830,12 @@ def _selftest() -> int:
        "right to be informed of hazardous substances; withholding of information under "
        "certain circumstances")
 
-    # THE #348 TRUNCATION SHAPE MUST STAY UNTOUCHED: a dangling in-catchline cross-reference
-    # ("Definitions for ORS 1.010 to") is a different bug (#348, unresolved TOC/body
-    # disagreement over where the range's own second number lives), not this one, and this
-    # fix must not touch it -- #397's own brief was explicit that mixing the two would make
-    # both unreviewable.
-    ck("1.194 (the #348 dangling-xref shape, unrelated to this fix) is unchanged",
-       s1.get("1.194") == "Definitions for ORS")
+    # 1.194 ("Definitions for ORS 1.194 to 1.200") was pinned here as the #348 dangling-xref
+    # shape, 'unchanged' at "Definitions for ORS". It was the same defect as 24.350: a range
+    # citation in a catchline to a chapter below 100, unmasked by `XREF_RE`. Masking it
+    # recovers the title the page prints; the pin is moved to that.
+    ck("1.194 keeps its in-catchline range 'ORS 1.194 to 1.200' (was cut at 'ORS')",
+       s1.get("1.194") == "Definitions for ORS 1.194 to 1.200")
 
     # CODE-REVIEW FOLLOW-UP (F1): three more causes of the SAME glued-heading bug, found
     # measuring this fix's own residual against all 569 committed chapters -- not a new
@@ -1089,6 +1105,21 @@ def _selftest() -> int:
        "the slash",
        s279c.get("279C.337") == "Procurement of construction manager/general contractor "
        "services")
+
+    # A group heading printed with a COLON ("PERFORMANCE OF LEASE CONTRACT: REPUDIATED,
+    # SUBSTITUTED AND EXCUSED", 72A.3100; "WAREHOUSE RECEIPTS AND BILLS OF LADING:", ch. 77)
+    # is an isolated all-caps paragraph like any other, but ':' was outside
+    # `_HEADING_UNIT_RE`'s character class, so it never entered `_toc_heading_phrases`, was
+    # never stripped as a known phrase, and `TRAILING_HEADING_RE` ate only its tail:
+    # 72A.3100 read '... accessions PERFORMANCE OF LEASE CONTRACT: REPUDIATED,'. Measured
+    # over all 569 committed chapters: admitting ':' changes exactly 6 titles (72A.3100,
+    # 77.1060, 77.2100, 77.3090, 77.4040, 77.5090), every one a glued heading removed.
+    s72a = secs("72A")
+    ck("72A.3100 (colon heading, wrapped across a line) carries no glued heading text",
+       s72a.get("72A.3100") == "Lessor’s and lessee’s rights when goods become accessions")
+    s77 = secs("77")
+    ck("77.3090 (colon heading) carries no glued heading text",
+       s77.get("77.3090") == "Duty of care; contractual limitation of carrier’s liability")
 
     return ck.report("catalog-ors selftest")
 

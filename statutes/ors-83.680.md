@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-83.680
-title: "Waiver of provisions of ORS"
+title: "Waiver of provisions of ORS 83.510 to 83.680"
 doc_type: statute
 citation: "ORS 83.680"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-83"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors083.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Waiver of provisions of ORS (ORS 83.680)
+# Waiver of provisions of ORS 83.510 to 83.680 (ORS 83.680)
 
 ## At a glance
 
-ORS 83.680 — Waiver of provisions of ORS. Chapter 83 (Retail Installment Contracts), 2025 Edition.
+ORS 83.680 — Waiver of provisions of ORS 83.510 to 83.680. Chapter 83 (Retail Installment Contracts), 2025 Edition.
 
 ## Full text
 

@@ -58,7 +58,7 @@ ORS 65.813 — Consultants; cost; rules; fee. Chapter 65 (Nonprofit Corporations
 
 (1) of this section shall be no more than is reasonably necessary to conduct the Attorney General’s review and evaluation. Any contract entered into by the Attorney General under this section shall be exempt from the requirements of ORS chapters 279A and 279B, except ORS 279B.235. All contract costs incurred by the Attorney General under this section must be paid by the party to whom the transfer is to be made as described in ORS 65.803 (1).
 
-(3) The Attorney General, by rule, may impose an application fee for costs incurred in reviewing and evaluating the proposed transaction. The fee must be paid by the party to whom the transfer is to be made as described in ORS 65.803 (1). [1997 c.291 §8; 2003 c.794 §195] 65.815 Rules. The Attorney General may adopt such rules as are necessary to carry out the provisions of ORS 65.800 to 65.815. The Attorney General shall have the authority to ensure compliance with commitments that inure to the public interest. [1997 c.291 §9] 65.855 [Formerly 61.755; renumbered 97.660 in 2011] 65.860 [Formerly 61.760; 1995 c.144 §14; 1995 c.157 §23; 2001 c.796 §22; 2005 c.348 §124; 2007 c.661 §26; renumbered 97.665 in 2011] 65.865 [Formerly 61.765; renumbered 97.670 in 2011] 65.870 [Formerly 61.770; 2003 c.576 §331; renumbered 97.675 in 2011] 65.875 [Formerly 61.775; 1999 c.731 §9; renumbered 97.680 in 2011]
+(3) The Attorney General, by rule, may impose an application fee for costs incurred in reviewing and evaluating the proposed transaction. The fee must be paid by the party to whom the transfer is to be made as described in ORS 65.803 (1). [1997 c.291 §8; 2003 c.794 §195] 
 
 ## Provenance & change history
 

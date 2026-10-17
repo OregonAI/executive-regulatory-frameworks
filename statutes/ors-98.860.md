@@ -58,29 +58,7 @@ ORS 98.860 — Conditions for release of vehicle to insurance company undertakin
 
 (3) This section does not prohibit a tower from releasing a motor vehicle to an insurance company in a manner other than that provided for in subsection
 
-(1) of this section. [2007 c.538 §6] 98.861 Licenses for towing; fees.
-
-(1) Subject to subsection
-
-(5) of this section: (a) A tower may not tow vehicles parked within the boundaries of a city without a license issued by the city, if the city has established the maximum rates that a tower may charge under ORS 98.859. (b) A tower may not tow vehicles parked within the boundaries of a county without a license issued by the county, if the county has established the maximum rates that a tower may charge under ORS 98.859. The tower is not required to obtain a license from a county when the tower tows a vehicle that is parked within the boundaries of a city located within the county and the tower is licensed by that city.
-
-(2) Application for a license under this section must be made in writing in the form prescribed by the city or county, and must contain the name and address of the applicant and any other information that the city or county may require.
-
-(3) The fee for issuing a license under this section shall be established by the city or county, but may not exceed the cost of administering the licensing program and administering ORS 98.859.
-
-(4) A license issued under this section expires annually on December 31 or on a date that may be specified by the city or county by ordinance.
-
-(5) The requirement to get a license under this section applies only to towers that tow a motor vehicle without the prior consent or authorization of the owner or operator of the motor vehicle.
-
-(6) A city or county may suspend or revoke a license issued under this section for violation of ORS 98.853, 98.854, 98.856 or 98.859. [2013 c.691 §4; 2017 c.480 §12] 98.862 Exceptions to requirements of ORS 98.856. A tower need not provide the written information required under ORS 98.856 if:
-
-(1) The motor vehicle is towed from a parking facility where the tower has provided the information on signs that are clearly readable by an operator of a motor vehicle in each parking stall or at each entrance to the parking facility.
-
-(2) The tower is hired or otherwise engaged by an agency taking custody of a vehicle under ORS 819.140.
-
-(3) The tower tows the motor vehicle under a prenegotiated payment agreement between the tower and a motor vehicle road service company or an insurance company.
-
-(4) The tower is hired or otherwise engaged by a business entity at the request of the owner or operator of the motor vehicle to tow the motor vehicle. [2007 c.538 §7] 98.864 [2007 c.538 §8; repealed by 2021 c.578 §14] 98.990 [Repealed by 1957 c.670 §37]
+(1) of this section. [2007 c.538 §6] 
 
 ## Provenance & change history
 

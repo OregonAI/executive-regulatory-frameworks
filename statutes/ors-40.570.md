@@ -49,13 +49,7 @@ ORS 40.570 — Rule 1005. Public records. Chapter 40 (Evidence Code), 2025 Editi
 
 ## Full text
 
-40.570 Rule 1005. Public records. The contents of an official record or of a document authorized to be recorded or filed and actually recorded or filed, including data compilations in any form, if otherwise admissible, may be proved by copy, certified as correct in accordance with ORS 40.510 or testified to be correct by a witness who has compared it with the original. If such a copy cannot be obtained by the exercise of reasonable diligence, then other evidence of the contents may be given. [1981 c.892 §75; 1983 c.433 §3] 40.575 Rule 1006. Summaries. The contents of voluminous writings, recordings or photographs which cannot conveniently be examined in court may be presented in the form of a chart, summary or calculation. The originals, or duplicates, shall be made available for examination or copying, or both, by other parties at a reasonable time and place. The court may order that they be produced in court. [1981 c.892 §76] 40.580 Rule 1007. Testimony or written admission of party. Contents of writings, recordings or photographs may be proved by the testimony or deposition of the party against whom offered or by the party’s written admission, without accounting for the nonproduction of the original. [1981 c.892 §77] 40.585 Rule 1008. Functions of court and jury. When the admissibility of other evidence of contents of writings, recordings or photographs under ORS 40.550 to 40.585 depends upon the fulfillment of a condition of fact, the question whether the condition has been fulfilled is ordinarily for the court to determine in accordance with ORS 40.030. However, the issue is for the trier of fact to determine as in the case of other issues of fact when the issue raised is:
-
-(1) Whether the asserted writing ever existed;
-
-(2) Whether another writing, recording or photograph produced at the trial is the original; or
-
-(3) Whether the other evidence of contents correctly reflects the contents. [1981 c.892 §78] _______________
+40.570 Rule 1005. Public records. The contents of an official record or of a document authorized to be recorded or filed and actually recorded or filed, including data compilations in any form, if otherwise admissible, may be proved by copy, certified as correct in accordance with ORS 40.510 or testified to be correct by a witness who has compared it with the original. If such a copy cannot be obtained by the exercise of reasonable diligence, then other evidence of the contents may be given. [1981 c.892 §75; 1983 c.433 §3] 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 30.630 — Filing copy of judgment with Secretary of State. Chapter 30 (Acti
 
 ## Full text
 
-30.630 Filing copy of judgment with Secretary of State. If judgment is given against a corporation, the effect of which is that the corporation ceases to exist, or whereby any letters patent are determined to be vacated or annulled, it shall be the duty of the district attorney to cause a copy of the judgment to be filed with the Secretary of State. [Amended by 1991 c.111 §3] 30.640 Enforcement of judgment. A judgment given in any action provided for in ORS 30.510 to 30.640, in respect to costs and disbursements, may be enforced by execution as a judgment which requires the payment of money. [Amended by 1981 c.898 §36]
+30.630 Filing copy of judgment with Secretary of State. If judgment is given against a corporation, the effect of which is that the corporation ceases to exist, or whereby any letters patent are determined to be vacated or annulled, it shall be the duty of the district attorney to cause a copy of the judgment to be filed with the Secretary of State. [Amended by 1991 c.111 §3] 
 
 ## Provenance & change history
 

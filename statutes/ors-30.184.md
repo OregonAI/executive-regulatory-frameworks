@@ -48,7 +48,7 @@ ORS 30.184 — Amount recoverable; attorney fees. Chapter 30 (Actions and Suits 
 
 ## Full text
 
-30.184 Amount recoverable; attorney fees. In any civil action brought under this section, the utility shall recover from the defendant the greater of actual damages, if any, or $100. Actual damages include the costs incurred on account of the bypassing, tampering or unauthorized reconnection, including but not limited to costs and expenses for investigation, disconnection, reconnection and service calls. The utility may recover punitive damages in addition to actual damages. The court may award reasonable attorney fees and expert witness fees to the prevailing party in an action under this section. [1989 c.670 §2; 1993 c.217 §1; 1995 c.618 §22] 30.186 Remedies not exclusive. The remedies provided in ORS 30.180 to 30.186 are in addition to, and not in lieu of, any and all other remedies, both civil and criminal, provided by law. [1989 c.670 §4] 30.190 [1981 c.785 §3; 1983 c.521 §3; 1995 c.618 §23; renumbered 30.198 in 1999]
+30.184 Amount recoverable; attorney fees. In any civil action brought under this section, the utility shall recover from the defendant the greater of actual damages, if any, or $100. Actual damages include the costs incurred on account of the bypassing, tampering or unauthorized reconnection, including but not limited to costs and expenses for investigation, disconnection, reconnection and service calls. The utility may recover punitive damages in addition to actual damages. The court may award reasonable attorney fees and expert witness fees to the prevailing party in an action under this section. [1989 c.670 §2; 1993 c.217 §1; 1995 c.618 §22] 
 
 ## Provenance & change history
 

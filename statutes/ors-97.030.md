@@ -48,7 +48,7 @@ ORS 97.030 — Vested rights not acquired. Chapter 97 (Rights and Duties Relatin
 
 ## Full text
 
-97.030 Vested rights not acquired. No cemetery authority or person having a right of sepulture or any other right under ORS 97.010 to 97.040, 97.110 to 97.450, 97.510 to 97.730, 97.810 to 97.920 and 97.990 acquires any vested right by virtue thereof which the Legislative Assembly may not subsequently amend, alter or repeal. 97.040 Private family burial grounds. Except for ORS 97.730, 97.010 to 97.040, 97.110 to 97.450, 97.510 to 97.730, 97.810 to 97.920 and 97.990 do not apply to private family burial grounds where lots are not offered for sale. 97.050 [1977 c.183 §1; 1983 c.526 §4; 1985 c.747 §49; 1987 c.660 §16; 1989 c.1034 §8; renumbered 127.605 in 1989] 97.055 [1977 c.183 §2; 1979 c.211 §1; 1983 c.526 §5; renumbered 127.610 in 1989] 97.060 [1977 c.183 §3; renumbered 127.615 in 1989] 97.065 [1977 c.183 §4; renumbered 127.620 in 1989] 97.070 [1977 c.183 §5; renumbered 127.625 in 1989] 97.075 [1977 c.183 §6; repealed by 1983 c.526 §7] 97.080 [1977 c.183 §7; renumbered 127.630 in 1989]
+97.030 Vested rights not acquired. No cemetery authority or person having a right of sepulture or any other right under ORS 97.010 to 97.040, 97.110 to 97.450, 97.510 to 97.730, 97.810 to 97.920 and 97.990 acquires any vested right by virtue thereof which the Legislative Assembly may not subsequently amend, alter or repeal. 
 
 ## Provenance & change history
 

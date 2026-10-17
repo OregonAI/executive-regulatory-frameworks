@@ -48,7 +48,7 @@ ORS 35.565 — Procedure for condemnation. Chapter 35 (Eminent Domain; Public Ac
 
 ## Full text
 
-35.565 Procedure for condemnation. The procedure in the suit, action or proceeding referred to in ORS 35.555 or 35.560 shall be, as far as applicable, the procedure prescribed by law for the condemnation of lands or rights of way by public corporations or quasi-public corporations for public use or for corporate purposes. [Formerly 281.240] 35.570 Payment of expenses of proceeding, value and damages. The expenses of the condemnation proceeding, the value of the property, and the damages for the taking thereof, shall be paid out of the funds provided for the department or institution for which the property is acquired in the same manner as other expenses for like purposes of such department or institution are paid. If no funds have been provided out of which the same can be paid, payment shall be made out of any funds in the treasury not otherwise appropriated, and the Oregon Department of Administrative Services is authorized to draw a warrant on the treasurer therefor. [Formerly 281.250] 35.575 Precondemnation compensation not required. ORS 35.550 to 35.575 do not require the state to make or tender compensation prior to condemning and taking possession of the lands or property. [Formerly 281.260]
+35.565 Procedure for condemnation. The procedure in the suit, action or proceeding referred to in ORS 35.555 or 35.560 shall be, as far as applicable, the procedure prescribed by law for the condemnation of lands or rights of way by public corporations or quasi-public corporations for public use or for corporate purposes. [Formerly 281.240] 
 
 ## Provenance & change history
 

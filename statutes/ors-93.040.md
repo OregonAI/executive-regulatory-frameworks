@@ -52,7 +52,33 @@ ORS 93.040 — Mandatory statements for sales agreements, earnest money receipts
 
 (1) The following statement shall be included in the body of an instrument transferring or contracting to transfer fee title to real property except for owner’s sale agreements or earnest money receipts, or both, as provided in subsection
 
-(2) of this section: “BEFORE SIGNING OR ACCEPTING THIS INSTRUMENT, THE PERSON TRANSFERRING FEE TITLE SHOULD INQUIRE ABOUT THE PERSON’S RIGHTS, IF ANY, UNDER ORS 195.300, 
+(2) of this section: “BEFORE SIGNING OR ACCEPTING THIS INSTRUMENT, THE PERSON TRANSFERRING FEE TITLE SHOULD INQUIRE ABOUT THE PERSON’S RIGHTS, IF ANY, UNDER ORS 195.300, 195.301 AND 195.305 TO 195.336 AND SECTIONS 5 TO 11, CHAPTER 424, OREGON LAWS 2007, SECTIONS 2 TO 9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2 TO 7, CHAPTER 8, OREGON LAWS 2010. THIS INSTRUMENT DOES NOT ALLOW USE OF THE PROPERTY DESCRIBED IN THIS INSTRUMENT IN VIOLATION OF APPLICABLE LAND USE LAWS AND REGULATIONS. BEFORE SIGNING OR ACCEPTING THIS INSTRUMENT, THE PERSON ACQUIRING FEE TITLE TO THE PROPERTY SHOULD CHECK WITH THE APPROPRIATE CITY OR COUNTY PLANNING DEPARTMENT TO VERIFY THAT THE UNIT OF LAND BEING TRANSFERRED IS A LAWFULLY ESTABLISHED LOT OR PARCEL, AS DEFINED IN ORS 92.010 OR 215.010, TO VERIFY THE APPROVED USES OF THE LOT OR PARCEL, TO DETERMINE ANY LIMITS ON LAWSUITS AGAINST FARMING OR FOREST PRACTICES, AS DEFINED IN ORS 30.930, AND TO INQUIRE ABOUT THE RIGHTS OF NEIGHBORING PROPERTY OWNERS, IF ANY, UNDER ORS 195.300, 195.301 AND 195.305 TO 195.336 AND SECTIONS 5 TO 11, CHAPTER 424, OREGON LAWS 2007, SECTIONS 2 TO 9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2 TO 7, CHAPTER 8, OREGON LAWS 2010.”
+
+(2) In all owner’s sale agreements and earnest money receipts, there shall be included in the body of the instrument the following statement: “THE PROPERTY DESCRIBED IN THIS INSTRUMENT MAY NOT BE WITHIN A FIRE PROTECTION DISTRICT PROTECTING STRUCTURES. THE PROPERTY IS SUBJECT TO LAND USE LAWS AND REGULATIONS THAT, IN FARM OR FOREST ZONES, MAY NOT AUTHORIZE CONSTRUCTION OR SITING OF A RESIDENCE AND THAT LIMIT LAWSUITS AGAINST FARMING OR FOREST PRACTICES, AS DEFINED IN ORS 30.930, IN ALL ZONES. BEFORE SIGNING OR ACCEPTING THIS INSTRUMENT, THE PERSON TRANSFERRING FEE TITLE SHOULD INQUIRE ABOUT THE PERSON’S RIGHTS, IF ANY, UNDER ORS 195.300, 195.301 AND 195.305 TO 195.336 AND SECTIONS 5 TO 11, CHAPTER 424, OREGON LAWS 2007, SECTIONS 2 TO 9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2 TO 7, CHAPTER 8, OREGON LAWS 2010. BEFORE SIGNING OR ACCEPTING THIS INSTRUMENT, THE PERSON ACQUIRING FEE TITLE TO THE PROPERTY SHOULD CHECK WITH THE APPROPRIATE CITY OR COUNTY PLANNING DEPARTMENT TO VERIFY THAT THE UNIT OF LAND BEING TRANSFERRED IS A LAWFULLY ESTABLISHED LOT OR PARCEL, AS DEFINED IN ORS 92.010 OR 215.010, TO VERIFY THE APPROVED USES OF THE LOT OR PARCEL, TO VERIFY THE EXISTENCE OF FIRE PROTECTION FOR STRUCTURES AND TO INQUIRE ABOUT THE RIGHTS OF NEIGHBORING PROPERTY OWNERS, IF ANY, UNDER ORS 195.300, 195.301 AND 195.305 TO 195.336 AND SECTIONS 5 TO 11, CHAPTER 424, OREGON LAWS 2007, SECTIONS 2 TO 9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2 TO 7, CHAPTER 8, OREGON LAWS 2010.”
+
+(3) In all owners’ sale agreements and earnest money receipts related to property subject to ORS 358.505, there shall be included in the body of the instrument or by addendum the following statement: “THE PROPERTY DESCRIBED IN THIS INSTRUMENT IS SUBJECT TO SPECIAL ASSESSMENT UNDER ORS 358.505.”
+
+(4) An action may not be maintained against the county recording officer for recording an instrument that does not contain the statement required in subsection
+
+(1) or
+
+(2) of this section.
+
+(5) An action may not be maintained against any person for failure to include in the instrument the statement required in subsection
+
+(1) or
+
+(2) of this section, or for recording an instrument that does not contain the statement required in subsection
+
+(1) or
+
+(2) of this section, unless the person acquiring or agreeing to acquire fee title to the real property would not have executed or accepted the instrument but for the absence in the instrument of the statement required by subsection
+
+(1) or
+
+(2) of this section. An action may not be maintained by the person acquiring or agreeing to acquire fee title to the real property against any person other than the person transferring or contracting to transfer fee title to the real property.
+
+(6) A transfer on death deed and an instrument revoking a transfer on death deed are not instruments subject to this section. [1983 c.718 §2; 1985 c.719 §1; 1989 c.366 §1; 1993 c.792 §40; 1995 c.5 §17; 2005 c.311 §1; 2007 c.424 §23; 2007 c.866 §7; 2009 c.892 §19; 2011 c.212 §24; 2025 c.209 §16] 
 
 ## Provenance & change history
 

@@ -72,7 +72,7 @@ ORS 97.990 — Penalties. Chapter 97 (Rights and Duties Relating to Cemeteries, 
 
 (5) to
 
-(7) renumbered 127.990 in 1991; subsection (5)(b) of 1995 Edition enacted as 1995 c.543 §3; 2011 c.597 §156; 2015 c.651 §5] 97.992 Penalties for ORS 97.937. Violation of any of the provisions of ORS 97.937 is a Class A misdemeanor. [Formerly 128.990; 2011 c.597 §157] 97.994 Penalties for ORS 97.931, 97.933, 97.941 and 97.943. Violation of any of the provisions of ORS 97.931, 97.933, 97.941 or 97.943 is punishable as a Class A misdemeanor. [Formerly 128.991; 2003 c.362 §9] _______________
+(7) renumbered 127.990 in 1991; subsection (5)(b) of 1995 Edition enacted as 1995 c.543 §3; 2011 c.597 §156; 2015 c.651 §5] 
 
 ## Provenance & change history
 

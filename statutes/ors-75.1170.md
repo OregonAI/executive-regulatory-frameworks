@@ -68,13 +68,7 @@ ORS 75.1170 — Subrogation of issuer, applicant and nominated person. Chapter 7
 
 (2) or
 
-(3) of this section arise, the issuer, nominated person and the applicant do not derive under this section present or prospective rights forming the basis of a claim, defense or excuse. [1961 c.726 §75.1170; 1997 c.150 §20] 75.1180 Security interest of issuer or nominated person.
-
-(1) An issuer or nominated person has a security interest in a document presented under a letter of credit to the extent that the issuer or nominated person honors or gives value for the presentation.
-
-(2) As long as and to the extent that an issuer or nominated person has not been reimbursed or has not otherwise recovered the value given with respect to a security interest in a document under subsection
-
-(1) of this section, the security interest continues and is subject to ORS chapter 79A, but: (a) A security agreement is not necessary to make the security interest enforceable under ORS 79A.2030 (2)(c); (b) If the document is presented in a medium other than a written or other tangible medium, the security interest is perfected; and (c) If the document is presented in a written or other tangible medium and is not a certificated security, chattel paper, a document of title, an instrument, or a letter of credit, the security interest is perfected and has priority over a conflicting security interest in the document as long as the debtor does not have possession of the document. [2001 c.445 §148] _______________
+(3) of this section arise, the issuer, nominated person and the applicant do not derive under this section present or prospective rights forming the basis of a claim, defense or excuse. [1961 c.726 §75.1170; 1997 c.150 §20] 
 
 ## Provenance & change history
 

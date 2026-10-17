@@ -60,19 +60,7 @@ ORS 18.200 — Release of lien. Chapter 18 (Judgments), 2025 Edition.
 
 (5) The court administrator may not charge a fee for filing a release of lien document.
 
-(6) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §23; 2007 c.339 §6] 18.202 Reinstatement of lien.
-
-(1) If the administrator, as defined in ORS 25.010, eliminated a judgment lien document by filing a release of lien document with the court administrator under ORS 18.200, the administrator may reinstate the lien by recording a notice of reinstatement in the County Clerk Lien Record for the county where the judgment was entered.
-
-(2) If the administrator, as defined in ORS 25.010, eliminated a judgment lien by recording a release of lien document in a County Clerk Lien Record under the provisions of ORS 18.200, the administrator may reinstate the lien by recording a notice of reinstatement in the County Clerk Lien Record for the county in which the release was recorded.
-
-(3) The administrator may reinstate a lien under this section only if: (a) The release was for all real property of a judgment debtor in a county; and (b) The judgment lien that was eliminated arose out of the support award portion of the judgment.
-
-(4) A certified copy of the judgment document, or a lien record abstract for the judgment, must be attached to the notice of reinstatement and be recorded with the notice. A notice of reinstatement may be recorded at any time after the release of lien document was filed or recorded and before the expiration of the judgment remedies for the judgment that gives rise to the judgment lien.
-
-(5) Upon recording a notice of reinstatement under this section, the reinstated judgment lien has the same force and effect as a judgment lien created under ORS 18.152.
-
-(6) A notice of reinstatement must be signed by the administrator as defined in ORS 25.010, or by an attorney who represents the administrator. The signature must be witnessed by a notary public. [2005 c.568 §9]
+(6) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §23; 2007 c.339 §6] 
 
 ## Provenance & change history
 

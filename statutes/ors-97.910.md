@@ -48,7 +48,7 @@ ORS 97.910 — Disuse as prima facie evidence of abandonment. Chapter 97 (Rights
 
 ## Full text
 
-97.910 Disuse as prima facie evidence of abandonment. In all cases arising under ORS 97.870 to 97.900, the fact that the owner, holder or interested party, of the unused and unimproved portion of the cemetery has not, for a term of 20 years or more, used the plot and has failed to keep it clear of weeds or brush is prima facie evidence that the owner, holder or interested party has abandoned it. 97.920 Judgment declaring nuisance, authorizing abatement and creating and foreclosing lien. Upon the failure of the owner of the premises to comply with the order of the court requiring proper care of the premises or upon the failure of any of the defendants to appear and answer the complaint or upon the trial of the cause, if the court finds that the allegations of the complaint are supported by the evidence and that the summons has been served as provided in ORS 97.900, the court may enter a judgment in accordance with the allegations of the complaint and the provisions of ORS 97.890 (1). [Amended by 2003 c.576 §360]
+97.910 Disuse as prima facie evidence of abandonment. In all cases arising under ORS 97.870 to 97.900, the fact that the owner, holder or interested party, of the unused and unimproved portion of the cemetery has not, for a term of 20 years or more, used the plot and has failed to keep it clear of weeds or brush is prima facie evidence that the owner, holder or interested party has abandoned it. 
 
 ## Provenance & change history
 

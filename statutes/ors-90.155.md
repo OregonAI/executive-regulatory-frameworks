@@ -62,13 +62,7 @@ ORS 90.155 — Service or delivery of written notice. Chapter 90 (Residential La
 
 (4) After 30 days’ written notice, a landlord may unilaterally amend a rental agreement for a manufactured dwelling or floating home that is subject to ORS 90.505 to 90.850 to provide for service or delivery of written notices by mail and attachment service as provided by subsection (1)(c) of this section.
 
-(5) A party to a rental agreement may use electronic mail to give a written notice terminating the tenancy only if allowed under subsection (1)(d) of this section and the termination notice is sent by both first class mail and electronic mail. [Formerly 90.910; 1997 c.577 §6; 2001 c.596 §29a; 2015 c.388 §9; 2019 c.625 §50; 2023 c.296 §1] 90.160 Calculation of periods or notices. Notwithstanding ORCP 10:
-
-(1) For references in this chapter to periods or notices based on a number of days, those days must be calculated by consecutive calendar days, not including the initial day of service, but including the last day until 11:59 p.m.
-
-(2) For references in this chapter to periods or notices based on a number of hours, those hours must be calculated in consecutive clock hours, beginning: (a) Immediately upon service, except as provided in paragraph (b) of this subsection; or (b) For notices to terminate a tenancy, at 11:59 p.m. the day that: (A) A notice given under ORS 90.155 (1)(c) is both mailed and attached to the premises; or (B) A notice given under ORS 90.155
-
-(5) is both mailed and sent by electronic mail. [Formerly 90.402; 1997 c.577 §7; 2005 c.391 §14; 2013 c.294 §4; 2015 c.388 §1; 2020 s.s.3 c.3 §11; 2023 c.296 §3]
+(5) A party to a rental agreement may use electronic mail to give a written notice terminating the tenancy only if allowed under subsection (1)(d) of this section and the termination notice is sent by both first class mail and electronic mail. [Formerly 90.910; 1997 c.577 §6; 2001 c.596 §29a; 2015 c.388 §9; 2019 c.625 §50; 2023 c.296 §1] 
 
 ## Provenance & change history
 

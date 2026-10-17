@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-77.2100
-title: "Enforcement of warehouse’s lien BILLS OF LADING:"
+title: "Enforcement of warehouse’s lien"
 doc_type: statute
 citation: "ORS 77.2100"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-77"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors077.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Enforcement of warehouse’s lien BILLS OF LADING: (ORS 77.2100)
+# Enforcement of warehouse’s lien (ORS 77.2100)
 
 ## At a glance
 
-ORS 77.2100 — Enforcement of warehouse’s lien BILLS OF LADING:. Chapter 77 (Warehouse Receipts, Bills of Lading and Other Documents of Title), 2025 Edition.
+ORS 77.2100 — Enforcement of warehouse’s lien. Chapter 77 (Warehouse Receipts, Bills of Lading and Other Documents of Title), 2025 Edition.
 
 ## Full text
 

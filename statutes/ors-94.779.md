@@ -68,13 +68,7 @@ ORS 94.779 — Unenforceability of certain requirements and restrictions. Chapte
 
 (3) of this section does not apply to planned communities that provide housing for older persons. (b) As used in this subsection, “housing for older persons” has the meaning given that term in ORS 659A.421.
 
-(6) A provision in a planned community’s governing document that restricts or prohibits the installation or use of a portable cooling device, as defined in ORS 90.355, is void and unenforceable, unless: (a) The installation or use of the device would: (A) Violate building codes or state or federal law; or (B) Violate the device manufacturer’s written safety guidelines for the device; or (b) The restrictions are only to require that the device be removed from October 1 through April 30. [2017 c.423 §7; 2017 c.423 §7b; 2022 c.86 §3; 2025 c.2 §3] 94.780 Remedies; attorney fees; statute of limitations.
-
-(1) Failure of the declarant, association, any association member or any other person subject to ORS 94.550 to 94.783 to comply with applicable sections of ORS 94.550 to 94.783 is cause for suit or action to remedy the violation or to recover actual damages. The prevailing party is entitled to reasonable attorney fees and court costs.
-
-(2) Failure of an association to accept administrative responsibility under ORS 94.616 is a defense for the declarant against an action brought under this section.
-
-(3) A suit or action arising under this section must be commenced within one year after the discovery or identification of the alleged violation. [1981 c.782 §83; 1999 c.677 §67; 2021 c.40 §15] 94.783 When certain administrative provisions apply. If a subdivision received preliminary plat approval before July 1, 1982, but the subdivision plat or the plat of the first phase is not filed under ORS 92.120 before January 1, 1984, the provisions of ORS 94.595, 94.604, 94.609, 94.616, 94.700, 94.760 and 94.780 shall apply to the planned community. [1983 c.206 §8; 1999 c.677 §68] 94.785 Short title. ORS 94.550 to 94.783 may be cited as the Oregon Planned Community Act. [1981 c.782 §1]
+(6) A provision in a planned community’s governing document that restricts or prohibits the installation or use of a portable cooling device, as defined in ORS 90.355, is void and unenforceable, unless: (a) The installation or use of the device would: (A) Violate building codes or state or federal law; or (B) Violate the device manufacturer’s written safety guidelines for the device; or (b) The restrictions are only to require that the device be removed from October 1 through April 30. [2017 c.423 §7; 2017 c.423 §7b; 2022 c.86 §3; 2025 c.2 §3] 
 
 ## Provenance & change history
 

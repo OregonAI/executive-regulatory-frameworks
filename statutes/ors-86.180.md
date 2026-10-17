@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-86.180
-title: "ORS"
+title: "ORS 86.160 to 86.185 not applicable to certain mortgagees; notice to borrowers"
 doc_type: statute
 citation: "ORS 86.180"
 authority_level: statute
@@ -40,15 +40,15 @@ tags: ["ors", "chapter-86"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors086.html> (retrieved 2026-07-26, 2025 Edition).
 
-# ORS (ORS 86.180)
+# ORS 86.160 to 86.185 not applicable to certain mortgagees; notice to borrowers (ORS 86.180)
 
 ## At a glance
 
-ORS 86.180 — ORS. Chapter 86 (Mortgages; Trust Deeds), 2025 Edition.
+ORS 86.180 — ORS 86.160 to 86.185 not applicable to certain mortgagees; notice to borrowers. Chapter 86 (Mortgages; Trust Deeds), 2025 Edition.
 
 ## Full text
 
-86.180 ORS 86.160 to 86.185 not applicable to certain mortgagees; notice to borrowers. Nothing in ORS 86.160 to 86.185 shall pertain to a mortgage banking company or mortgage servicing company except that if the terms of the mortgage do not conform to the requirements of ORS 86.165, the borrower shall be notified prior to the execution of the mortgage. [1977 c.427 §5] 86.185 ORS 86.160 to 86.185 not applicable to certain loans. Nothing in ORS 86.160 to 86.185 shall apply to loans insured, guaranteed or purchased by an instrumentality of the federal government, whose regulations establish late charge limitations. [1977 c.427 §6]
+86.180 ORS 86.160 to 86.185 not applicable to certain mortgagees; notice to borrowers. Nothing in ORS 86.160 to 86.185 shall pertain to a mortgage banking company or mortgage servicing company except that if the terms of the mortgage do not conform to the requirements of ORS 86.165, the borrower shall be notified prior to the execution of the mortgage. [1977 c.427 §5] 
 
 ## Provenance & change history
 

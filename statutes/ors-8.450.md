@@ -48,15 +48,7 @@ ORS 8.450 — Disposition of fees and other revenues. Chapter 8 (Court Officers 
 
 ## Full text
 
-8.450 Disposition of fees and other revenues. All fees, moneys and other revenues received or collected under ORS 8.415 to 8.455 shall be paid into the account established in ORS 45.294, and such moneys are continuously appropriated to the State Court Administrator for the administration and enforcement of ORS 8.415 to 8.455. [Formerly 703.412] 8.455 Advisory committee, membership; terms.
-
-(1) There is created a Certified Shorthand Reporters Advisory Committee consisting of no more than seven members appointed by the State Court Administrator. At least four members of the advisory committee shall be persons skilled in the practice of stenographic reporting or voicewriting reporting and shall have been engaged continuously in the practice of stenographic reporting or voicewriting reporting for a period of not less than five years prior to the date of appointment as a member of the advisory committee. Appointees must be certified under ORS 8.415 to 8.455.
-
-(2) The term of a member of the advisory committee shall be three years. A member is eligible for reappointment to the advisory committee. Vacancies occurring shall be filled by appointment for the unexpired term.
-
-(3) The advisory committee shall organize by the election of one of its members as president and one as secretary.
-
-(4) A majority of the advisory committee shall constitute a quorum for all purposes. [Formerly 703.414; 2013 c.155 §7; 2013 c.470 §6] 8.510 [Amended by 1953 c.566 §2; 1957 c.706 §1; 1963 c.494 §1; 1981 c.215 §9; repealed by 1981 s.s c.3 §141]
+8.450 Disposition of fees and other revenues. All fees, moneys and other revenues received or collected under ORS 8.415 to 8.455 shall be paid into the account established in ORS 45.294, and such moneys are continuously appropriated to the State Court Administrator for the administration and enforcement of ORS 8.415 to 8.455. [Formerly 703.412] 
 
 ## Provenance & change history
 

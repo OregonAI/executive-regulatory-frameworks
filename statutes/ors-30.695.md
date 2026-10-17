@@ -52,7 +52,7 @@ ORS 30.695 — Effect of written release on liability of veterinarian or farrier
 
 (1) No veterinarian or farrier shall be liable to any person who assists the veterinarian or farrier in rendering veterinarian or farrier services to an equine if the person, prior to assisting the veterinarian or farrier, executes a release stating that the person rendering assistance waives the right to bring an action against the veterinarian or farrier for any injury or death arising out of assisting in the provision of veterinarian or farrier services. A release so executed shall be enforceable regardless of lack of consideration.
 
-(2) A release executed pursuant to this section shall not limit the liability of a veterinarian or farrier for gross negligence or intentional misconduct. [1991 c.864 §5] 30.697 Effect on workers’ compensation benefits. Nothing in ORS 30.687 to 30.695 shall affect the right of any person to any workers’ compensation benefits that may be payable by reason of death, injury or other loss. [1991 c.864 §6] 30.698 [Formerly 30.085; renumbered 31.180 in 2003] 30.700 [1981 c.670 §§1,2; repealed by 1997 c.182 §1 (30.701 enacted in lieu of 30.700)]
+(2) A release executed pursuant to this section shall not limit the liability of a veterinarian or farrier for gross negligence or intentional misconduct. [1991 c.864 §5] 
 
 ## Provenance & change history
 

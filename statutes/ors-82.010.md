@@ -61,39 +61,7 @@ ORS 82.010 — Legal rate of interest; effect of violation. Chapter 82 (Interest
 
 (3) of this section shall forfeit the right to collect or receive any interest upon any loan for which a greater rate of interest or consideration than is permitted by subsection
 
-(3) of this section has been charged, contracted for or received. The borrower upon such loan shall be required to repay only the principal amount borrowed. [Amended by 1959 c.365 §a; 1973 c.198 §1; 1975 c.61 §1; 1977 c.791 §1; 1979 c.655 §1; 1979 c.794 §1; 1981 c.412 §1; 1987 c.215 §18; 1987 c.873 §26; 2003 c.774 §1] 82.020 Computation of interest; charges not included.
-
-(1) If, pursuant to any arrangement, understanding or agreement, with the knowledge of the lender, either as a part of the contract of borrowing or collateral thereto, regardless of when made and whether it is made as a special arrangement or in conformity to a regular rule, regulation or practice, there is paid by or at the expense of the borrower to the lender, or the lender’s broker, officer, director or agent, with respect to or in connection with any loan to which ORS 82.010 applies, any commission, bonus, fee, premium, penalty or other charge, compensation or gratuity, whether in money, credit or other thing of value, as a consideration, compensation or inducement for obtaining any such loan, or any renewal, extension of forbearance thereof, the same shall be deemed a part of the interest charged on such loan.
-
-(2) In computing interest for the purposes of ORS 82.010, any bona fide commission paid or sustained by the borrower shall be computed for the contract term and not for any accelerated period or prepayment.
-
-(3) Notwithstanding subsection
-
-(1) of this section, the following charges shall not be deemed a part of the interest charged on a loan: (a) Reasonable amounts actually applied in payment of the expense of inspecting any security offered in connection with the loan, investigating the responsibility of the applicant or procuring or extending any abstract of title or certificate of title insurance covering such security; (b) The amount actually paid for the examination of any such abstract of title or certificate of insurance; or (c) The cost of the preparation, execution and recording of any papers necessary in consummating such loan. [1987 c.215 §20] 82.025 Exemptions from application of ORS 82.010
-
-(3) and
-
-(4) and 82.020. ORS 82.010
-
-(3) and
-
-(4) and 82.020 do not apply to:
-
-(1) Any financial institution or trust company, as those terms are defined in ORS 706.008, any consumer finance licensee under ORS chapter 725 or any pawnbroker licensed under ORS chapter 726.
-
-(2) Any lender approved by the Secretary of Housing and Urban Development of the United States for participation in any mortgage insurance program under the National Housing Act (12 U.S.C. 1701 et seq.).
-
-(3) Any loan secured by a first lien on real property or made to finance the acquisition of real property and secured by any lien on that property.
-
-(4) Any loan that is secured by real property, scheduled under the loan agreement to be repaid in substantially equal payments and made by a lender described in this subsection. A lender under this subsection is one who makes, invests in or arranges real property loans, including loans secured by first liens on residential manufactured homes, aggregating more than $1 million per year. Under this subsection, payments shall be substantially equal if, under the terms of the loan agreement, no single scheduled payment is more than twice the amount of any other scheduled payment.
-
-(5) Any loan wholly or partially secured or covered by guarantees or insurance by the Federal Housing Administration, the United States Department of Veterans Affairs or Rural Development or the Farm Service Agency of the United States Department of Agriculture, any department, bureau, board, commission or agency of the United States, or any corporation wholly owned, directly or indirectly by the United States.
-
-(6) Any loan permitted under applicable federal law and regulations from a tax qualified retirement plan to a person then a participant under the plan.
-
-(7) Any bona fide sale or resale of securities or commercial paper.
-
-(8) Any interest charge by broker-dealers registered under the Securities Exchange Act of 1934 for carrying a debit balance in an account for a customer if the debit balance is payable on demand and secured by stocks or bonds. [1987 c.215 §21; 1991 c.67 §13; 1997 c.631 §382; 2007 c.71 §17] 82.110 [Repealed by 1981 c.412 §24] 82.115 [1975 c.625 §2; 1977 c.791 §2; repealed by 1981 c.412 §24] 82.117 [1979 c.638 §2; repealed by 1981 c.412 §24] 82.120 [Amended by 1975 c.321 §1; 1979 c.284 §90; repealed by 1981 c.412 §24] 82.125 [1971 c.214 §2; repealed by 1981 c.412 §24] 82.130 [Repealed by 1981 c.412 §24] 82.140 [Repealed by 1981 c.412 §24]
+(3) of this section has been charged, contracted for or received. The borrower upon such loan shall be required to repay only the principal amount borrowed. [Amended by 1959 c.365 §a; 1973 c.198 §1; 1975 c.61 §1; 1977 c.791 §1; 1979 c.655 §1; 1979 c.794 §1; 1981 c.412 §1; 1987 c.215 §18; 1987 c.873 §26; 2003 c.774 §1] 
 
 ## Provenance & change history
 

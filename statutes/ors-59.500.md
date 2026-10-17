@@ -54,13 +54,7 @@ ORS 59.500 — Limitation on liability. Chapter 59 (Securities Regulation), 2025
 
 (2) Failing to notify a vulnerable person of a disclosure of information under ORS 59.485, 59.490 or 59.505; or
 
-(3) Delaying a disbursement under ORS 59.495. [2017 c.514 §6] 59.505 Provision of records to law enforcement and certain state agencies.
-
-(1) Upon request of the Department of Consumer and Business Services, the Department of Human Services or a law enforcement agency, a broker-dealer or state investment adviser shall provide copies of records related to any suspected financial exploitation of a vulnerable person to the requester. The records may include historical records if relevant to suspected financial exploitation of a vulnerable person.
-
-(2) A record made available to an agency under this section is not a public record for purposes of ORS 192.311 to 192.478.
-
-(3) Nothing in this section limits the authority of the Department of Consumer and Business Services to access or examine the books and records of broker-dealers and state investment advisers as otherwise provided by law. [2017 c.514 §7] 59.510 [Repealed by 1967 c.537 §36] 59.520 [Repealed by 1967 c.537 §36] 59.530 [Repealed by 1967 c.537 §36]
+(3) Delaying a disbursement under ORS 59.495. [2017 c.514 §6] 
 
 ## Provenance & change history
 

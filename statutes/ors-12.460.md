@@ -52,7 +52,7 @@ ORS 12.460 — Claims to which statutes apply. Chapter 12 (Limitations of Action
 
 (1) Accruing after January 1, 1988; or
 
-(2) Asserted in a civil action or proceeding more than one year after January 1, 1988, but it does not revive a claim barred before January 1, 1988. [1987 c.536 §5] Note: See note under 12.410. 12.470 Severability. If any provision of ORS 12.410 to 12.480 or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of ORS 12.410 to 12.480 which can be given effect without the invalid provision or application, and to this end the provisions of ORS 12.410 to 12.480 are severable. [1987 c.536 §8] Note: See note under 12.410. 12.480 Short title. ORS 12.410 to 12.480 may be cited as the Uniform Conflict of Laws-Limitations Act. [1987 c.536 §7] Note: See note under 12.410. _______________
+(2) Asserted in a civil action or proceeding more than one year after January 1, 1988, but it does not revive a claim barred before January 1, 1988. [1987 c.536 §5] Note: See note under 12.410. 
 
 ## Provenance & change history
 

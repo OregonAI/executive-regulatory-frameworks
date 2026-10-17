@@ -48,19 +48,7 @@ ORS 9.755 — Final report of custodian; petition for compensation; court approv
 
 ## Full text
 
-9.755 Final report of custodian; petition for compensation; court approval. Whenever the purposes of ORS 9.705 to 9.757 have been accomplished with respect to the law practice of an affected licensee for which the Oregon State Bar or an attorney has been appointed as custodian under ORS 9.725, the bar or the appointed attorney shall file with the court a final report and accounting of all funds and property coming into the possession or control of the bar or the appointed attorney as custodian and a petition for compensation and expenses of the bar or the appointed attorney for acting as custodian. The bar or the appointed attorney shall mail a copy of the report and accounting and a copy of the petition for compensation and expenses to all persons upon whom service was made pursuant to ORS 9.727. Upon approval by the court, an order shall be entered approving the final report and accounting, fixing the amount of compensation and expenses to be allowed to the bar or the appointed attorney, and discharging the bar or the attorney from further duties. [1979 c.252 §12; 1985 c.512 §13; 1989 c.1052 §24; 2015 c.6 §13; 2021 c.497 §8; 2023 c.72 §30; 2025 c.32 §57] 9.757 Retention of client materials.
-
-(1) Except as provided in subsection
-
-(2) of this section or by court order, the Oregon State Bar may dispose of client papers and files that have not been claimed by a client of an affected licensee within six months after written notice to the client from the bar. The bar must dispose of the papers and files in a manner reasonably calculated to protect the confidentiality of the information contained in the papers and files.
-
-(2) The bar may dispose of an unclaimed original will as provided in ORS 112.815 and 112.820.
-
-(3) The bar shall maintain a log of all retained wills that is accessible to the public.
-
-(4) Upon receipt of satisfactory proof of identity, the bar shall release a will belonging to a client to the client or to a duly appointed personal representative or conservator of the client.
-
-(5) The bar may retain wills in digitized form, and a digitized copy, certified by the bar as a true copy of the digital document retained by the bar, shall be admissible in evidence to the same extent as the original. [2015 c.6 §10; 2023 c.72 §31; 2025 c.32 §58]
+9.755 Final report of custodian; petition for compensation; court approval. Whenever the purposes of ORS 9.705 to 9.757 have been accomplished with respect to the law practice of an affected licensee for which the Oregon State Bar or an attorney has been appointed as custodian under ORS 9.725, the bar or the appointed attorney shall file with the court a final report and accounting of all funds and property coming into the possession or control of the bar or the appointed attorney as custodian and a petition for compensation and expenses of the bar or the appointed attorney for acting as custodian. The bar or the appointed attorney shall mail a copy of the report and accounting and a copy of the petition for compensation and expenses to all persons upon whom service was made pursuant to ORS 9.727. Upon approval by the court, an order shall be entered approving the final report and accounting, fixing the amount of compensation and expenses to be allowed to the bar or the appointed attorney, and discharging the bar or the attorney from further duties. [1979 c.252 §12; 1985 c.512 §13; 1989 c.1052 §24; 2015 c.6 §13; 2021 c.497 §8; 2023 c.72 §30; 2025 c.32 §57] 
 
 ## Provenance & change history
 

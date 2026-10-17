@@ -56,7 +56,7 @@ ORS 65.117 — Resignation of registered agent. Chapter 65 (Nonprofit Corporatio
 
 (1) of this section must be addressed to the corporation at the corporation’s principal office as shown in the most recent annual report filed pursuant to ORS 65.787 or, if the annual report does not show the address, the address specified in the articles of incorporation.
 
-(3) The agency appointment is terminated, and the registered office discontinued if so provided, on the 31st day after the date on which the statement was filed by the Secretary of State, unless the corporation shall sooner appoint a successor registered agent as provided in ORS 65.114 thereby terminating the capacity of the prior agent. [1989 c.1010 §37; 1993 c.190 §5; 2019 c.174 §27] 65.121 Service on the corporation. The provisions of ORS 60.121 shall apply to corporations organized under or subject to the provisions of this chapter. [1989 c.1010 §38; 1991 c.67 §12]
+(3) The agency appointment is terminated, and the registered office discontinued if so provided, on the 31st day after the date on which the statement was filed by the Secretary of State, unless the corporation shall sooner appoint a successor registered agent as provided in ORS 65.114 thereby terminating the capacity of the prior agent. [1989 c.1010 §37; 1993 c.190 §5; 2019 c.174 §27] 
 
 ## Provenance & change history
 

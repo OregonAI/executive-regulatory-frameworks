@@ -3,7 +3,7 @@ schema_version: 1
 corpus: "executive-regulatory-frameworks"
 jurisdiction: "oregon"
 id: ors-86a.992
-title: "Civil penalties for violations of ORS"
+title: "Civil penalties for violations of ORS 86A.095 to 86A.198"
 doc_type: statute
 citation: "ORS 86A.992"
 authority_level: statute
@@ -40,11 +40,11 @@ tags: ["ors", "chapter-86a"]
 > published copy of the Oregon Revised Statutes. Verify against the official source:
 > <https://www.oregonlegislature.gov/bills_laws/ors/ors086a.html> (retrieved 2026-07-26, 2025 Edition).
 
-# Civil penalties for violations of ORS (ORS 86A.992)
+# Civil penalties for violations of ORS 86A.095 to 86A.198 (ORS 86A.992)
 
 ## At a glance
 
-ORS 86A.992 — Civil penalties for violations of ORS. Chapter 86A (Mortgage Lending), 2025 Edition.
+ORS 86A.992 — Civil penalties for violations of ORS 86A.095 to 86A.198. Chapter 86A (Mortgage Lending), 2025 Edition.
 
 ## Full text
 

@@ -64,15 +64,7 @@ ORS 65.278 — Articles of validation; filing with Secretary of State. Chapter 6
 
 (1) of this section must have the information required under subsection
 
-(2) of this section and must include the document the corporation should have filed previously. [2019 c.325 §17] 65.281 Judicial review of corporate action; persons permitted to seek review. (1)(a) Subject to subsection
-
-(2) of this section, a circuit court of this state may: (A) Determine the validity and effectiveness of a corporate action or a defective corporate action; (B) Determine the validity and effectiveness of a ratification or approval of a defective corporate action; (C) Order the corporation to conduct a meeting of members for the purposes specified in ORS 65.266
-
-(3) and 65.269; or (D) Modify or waive any of the provisions specified in ORS 65.266 or 65.269. (b) In connection with an action under paragraph (a) of this subsection, a court may make any findings or orders and consider any matters the court deems proper under the circumstances. (2)(a) The following persons may bring an action to have a court make a determination or modification or allow a waiver under subsection
-
-(1) of this section: (A) The corporation or a successor entity to the corporation; (B) A director of the corporation; (C) A member of the corporation; and (D) Any other person that claims that a ratification of a defective corporate action substantially and adversely affects the person. (b) For the purposes of paragraph (a) of this subsection, a member of the corporation includes a person that was a member on the date on which the corporation ratified the defective corporate action.
-
-(3) A person may serve process on the corporation in an action under this section in accordance with the manner appropriate for service of process specified under the laws of this state. The court may proceed to adjudicate the action without joining another party, but if the corporation brings the action, the court may require the corporation to provide notice to other persons the court specifies and may permit other persons to intervene in the action. (4)(a) A person must bring, within 120 days after the later of the effective date of validation or the date of the notice that a corporation gives under ORS 65.269 or 65.272, as applicable, any action that claims that a ratification of a defective corporate action is not valid or effective or that the defective corporate action is valid or effective only under certain conditions. (b) A person’s failure to contact a corporation to determine the calendar date by which the person must bring an action under this section does not eliminate or extend the 120-day period specified in paragraph (a) of this subsection. [2019 c.325 §18]
+(2) of this section and must include the document the corporation should have filed previously. [2019 c.325 §17] 
 
 ## Provenance & change history
 

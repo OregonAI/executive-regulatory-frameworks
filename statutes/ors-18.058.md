@@ -60,7 +60,7 @@ ORS 18.058 — Duty of court administrator with respect to form of judgment docu
 
 (4) The court administrator may rely on the presence or absence of a separate section in the judgment document required by ORS 18.042 or 18.048 in determining whether a judgment contains a money award. The court administrator shall enter information in the register and in the judgment lien record only from the separate section unless otherwise ordered by the court.
 
-(5) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §8; 2007 c.339 §3] 18.060 [Amended by 1979 c.284 §51; repealed by 1981 c.898 §53] 18.062 Use of electronic judgment forms. The provisions of this chapter do not affect the ability of the Chief Justice of the Supreme Court to authorize the use of electronic judgment forms pursuant to rules adopted under ORS 1.002 (2). [2005 c.568 §41] 18.070 [Repealed by 1981 c.898 §53]
+(5) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §8; 2007 c.339 §3] 18.060 [Amended by 1979 c.284 §51; repealed by 1981 c.898 §53] 
 
 ## Provenance & change history
 

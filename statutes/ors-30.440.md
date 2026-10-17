@@ -48,7 +48,7 @@ ORS 30.440 — Judgment by collusion not a bar. Chapter 30 (Actions and Suits in
 
 ## Full text
 
-30.440 Judgment by collusion not a bar. A recovery of a judgment for a penalty or forfeiture by collusion between the plaintiff and defendant, with intent to save the defendant, wholly or partially, from the consequences contemplated by law, in case where the penalty or forfeiture is given wholly or partly to the person who prosecutes, shall not bar the recovery of the same by another person. 30.450 [Amended by 1981 s.s. c.3 §110; 1995 c.658 §27; repealed by 2011 c.597 §118] 30.460 Payment of fines or costs in proceeding to enforce county ordinance or resolution; defendant personally liable. When proceedings are conducted by county hearings officers to enforce requirements or prohibitions of county ordinances or resolutions, if fines or costs are not paid by a defendant within 60 days after payment is ordered, the defendant is personally liable to the county for the amount of the unpaid fines or costs. The county may file and record the order for payment in the County Clerk Lien Record. [1985 c.626 §3; 1999 c.1051 §241]
+30.440 Judgment by collusion not a bar. A recovery of a judgment for a penalty or forfeiture by collusion between the plaintiff and defendant, with intent to save the defendant, wholly or partially, from the consequences contemplated by law, in case where the penalty or forfeiture is given wholly or partly to the person who prosecutes, shall not bar the recovery of the same by another person. 30.450 [Amended by 1981 s.s. c.3 §110; 1995 c.658 §27; repealed by 2011 c.597 §118] 
 
 ## Provenance & change history
 

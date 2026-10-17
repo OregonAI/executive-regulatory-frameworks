@@ -56,7 +56,7 @@ ORS 92.178 — Creation of parcel previously approved but not acted upon. Chapte
 
 (3) Approval of an application under this section does not affect the legal status of land that is not the subject of the application.
 
-(4) As used in this section: (a) “Lot” has the meaning given the term in ORS 92.010. (b) “Parcel” has the meaning given the term in ORS 92.010. [2005 c.240 §1] Note: 92.178 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 92 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 92.179 Liability for costs of relocating utility facilities. Notwithstanding any other provision of law, a person who subdivides or partitions real property shall be liable for the reasonable and necessary costs of continuing utility service to structures on the property being subdivided or partitioned if the subdividing or partitioning causes utility lines to be moved or service to be interrupted, unless the person subdividing or partitioning the real property grants an easement to the utility service provider to accommodate continuing utility service to the structures. [1997 c.523 §2]
+(4) As used in this section: (a) “Lot” has the meaning given the term in ORS 92.010. (b) “Parcel” has the meaning given the term in ORS 92.010. [2005 c.240 §1] Note: 92.178 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 92 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

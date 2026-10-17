@@ -1,7 +1,7 @@
 note: 'Conflict candidates decidable BY CODE — no model involved. A hand-labelled taxonomy of the 137
   frontier-pilot candidates found 29% of them were of these four deterministic types, and a regex finds
   far more of them than the models did: the pilot reported 21 dead citations in total, this scan finds
-  1,974 DISTINCT dead targets, cited 5,555 times across 4,558 documents. READ THE DISTINCT COUNT, NOT
+  1,955 DISTINCT dead targets, cited 5,496 times across 4,533 documents. READ THE DISTINCT COUNT, NOT
   THE OCCURRENCES: they differ by ~2.7x because a single repealed section is cited by many rules — ORS
   184.616 alone is cited by 727 of them. Occurrences are the blast radius; distinct targets are the number
   of things to actually resolve, and they are heavily concentrated, so the top handful clear thousands
@@ -15,18 +15,18 @@ note: 'Conflict candidates decidable BY CODE — no model involved. A hand-label
   these four types so the two passes do not overlap.'
 scanned_rules: 42897
 counts:
-  distinct_dead_targets: 1974
-  dead_citation_occurrences: 5555
-  documents_affected: 4558
-  dead_citations: 5555
+  distinct_dead_targets: 1955
+  dead_citation_occurrences: 5496
+  documents_affected: 4533
+  dead_citations: 5496
   corpus_gap_not_ingested: 575
   lapsed_but_current: 66
   rule_predates_statute_amendment: 4466
   malformed_citations: 66
 dead_citations_by_cause:
-  chapter_absent: 146
+  chapter_absent: 86
   oar_unclassified: 1028
-  renumbered_or_repealed: 4381
+  renumbered_or_repealed: 4382
 cause_meanings:
   renumbered_or_repealed: the chapter is current, but this section has left its table of contents
   chapter_absent: no such ORS chapter page exists upstream
@@ -81,10 +81,10 @@ most_cited_dead_targets:
   cited_by_rules: 19
 - cites: ORS 676.607
   cited_by_rules: 19
-- cites: ORS 725A.092
-  cited_by_rules: 19
 - cites: ORS 541.423
   cited_by_rules: 19
+- cites: ORS 181.440
+  cited_by_rules: 18
 dead_citations:
 - rule: oar-101-005-0020
   cites: ORS 242.135
@@ -836,9 +836,6 @@ dead_citations:
 - rule: oar-137-081-0020
   cites: ORS 180.270
   cause: renumbered_or_repealed
-- rule: oar-137-081-0020
-  cites: ORS 24.190
-  cause: chapter_absent
 - rule: oar-137-081-0030
   cites: ORS 180.270
   cause: renumbered_or_repealed
@@ -6827,180 +6824,6 @@ dead_citations:
 - rule: oar-441-730-0246
   cites: ORS 86.737
   cause: renumbered_or_repealed
-- rule: oar-441-735-0000
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0010
-  cites: ORS 725A.024
-  cause: chapter_absent
-- rule: oar-441-735-0010
-  cites: ORS 725A.062
-  cause: chapter_absent
-- rule: oar-441-735-0025
-  cites: ORS 725A.012
-  cause: chapter_absent
-- rule: oar-441-735-0025
-  cites: ORS 725A.022
-  cause: chapter_absent
-- rule: oar-441-735-0025
-  cites: ORS 725A.024
-  cause: chapter_absent
-- rule: oar-441-735-0030
-  cites: ORS 725A.022
-  cause: chapter_absent
-- rule: oar-441-735-0030
-  cites: ORS 725A.028
-  cause: chapter_absent
-- rule: oar-441-735-0030
-  cites: ORS 725A.050
-  cause: chapter_absent
-- rule: oar-441-735-0050
-  cites: ORS 725A.010
-  cause: chapter_absent
-- rule: oar-441-735-0050
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0060
-  cites: ORS 725A.060
-  cause: chapter_absent
-- rule: oar-441-735-0060
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0070
-  cites: ORS 725A.032
-  cause: chapter_absent
-- rule: oar-441-735-0070
-  cites: ORS 725A.058
-  cause: chapter_absent
-- rule: oar-441-735-0070
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0080
-  cites: ORS 725A.010
-  cause: chapter_absent
-- rule: oar-441-735-0080
-  cites: ORS 725A.024
-  cause: chapter_absent
-- rule: oar-441-735-0080
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0100
-  cites: ORS 725A.026
-  cause: chapter_absent
-- rule: oar-441-735-0100
-  cites: ORS 725A.034
-  cause: chapter_absent
-- rule: oar-441-735-0100
-  cites: ORS 725A.084
-  cause: chapter_absent
-- rule: oar-441-735-0100
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0110
-  cites: ORS 725A.052
-  cause: chapter_absent
-- rule: oar-441-735-0110
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0120
-  cites: ORS 725A.052
-  cause: chapter_absent
-- rule: oar-441-735-0120
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0130
-  cites: ORS 725A.052
-  cause: chapter_absent
-- rule: oar-441-735-0130
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0140
-  cites: ORS 725A.052
-  cause: chapter_absent
-- rule: oar-441-735-0140
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0160
-  cites: ORS 725A.062
-  cause: chapter_absent
-- rule: oar-441-735-0160
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0165
-  cites: ORS 725A.010
-  cause: chapter_absent
-- rule: oar-441-735-0165
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0205
-  cites: ORS 725A.056
-  cause: chapter_absent
-- rule: oar-441-735-0205
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0240
-  cites: ORS 725A.052
-  cause: chapter_absent
-- rule: oar-441-735-0240
-  cites: ORS 725A.056
-  cause: chapter_absent
-- rule: oar-441-735-0240
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0250
-  cites: ORS 725A.056
-  cause: chapter_absent
-- rule: oar-441-735-0250
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0255
-  cites: ORS 725A.056
-  cause: chapter_absent
-- rule: oar-441-735-0255
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0271
-  cites: ORS 725A.056
-  cause: chapter_absent
-- rule: oar-441-735-0271
-  cites: ORS 725A.080
-  cause: chapter_absent
-- rule: oar-441-735-0272
-  cites: ORS 725A.024
-  cause: chapter_absent
-- rule: oar-441-735-0272
-  cites: ORS 725A.056
-  cause: chapter_absent
-- rule: oar-441-735-0272
-  cites: ORS 725A.062
-  cause: chapter_absent
-- rule: oar-441-735-0272
-  cites: ORS 725A.080
-  cause: chapter_absent
-- rule: oar-441-735-0275
-  cites: ORS 725A.056
-  cause: chapter_absent
-- rule: oar-441-735-0275
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0280
-  cites: ORS 725A.056
-  cause: chapter_absent
-- rule: oar-441-735-0280
-  cites: ORS 725A.060
-  cause: chapter_absent
-- rule: oar-441-735-0310
-  cites: ORS 725A.056
-  cause: chapter_absent
-- rule: oar-441-735-0310
-  cites: ORS 725A.092
-  cause: chapter_absent
-- rule: oar-441-735-0320
-  cites: ORS 725A.030
-  cause: chapter_absent
-- rule: oar-441-735-0320
-  cites: ORS 725A.092
-  cause: chapter_absent
 - rule: oar-441-755-0120
   cites: OAR 441-755-0020
   cause: oar_unclassified
@@ -8554,7 +8377,7 @@ dead_citations:
   cause: chapter_absent
 - rule: oar-603-029-0570
   cites: ORS 649.046
-  cause: chapter_absent
+  cause: renumbered_or_repealed
 - rule: oar-603-029-0610
   cites: OAR 603-029-1000
   cause: oar_unclassified

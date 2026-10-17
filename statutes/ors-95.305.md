@@ -48,7 +48,7 @@ ORS 95.305 — Relation to Electronic Signatures in Global and National Commerce
 
 ## Full text
 
-95.305 Relation to Electronic Signatures in Global and National Commerce Act. ORS 95.200 to 95.310 modifies, limits and supersedes the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7001 et seq., but does not modify, limit or supersede 15 U.S.C. 7001(c) or authorize electronic delivery of any of the notices described in 15 U.S.C. 7003(b). [2023 c.83 §4] 95.310 Short title. ORS 95.200 to 95.310 may be cited as the Uniform Voidable Transactions Act. [1985 c.664 §12; 2023 c.83 §13] _______________
+95.305 Relation to Electronic Signatures in Global and National Commerce Act. ORS 95.200 to 95.310 modifies, limits and supersedes the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7001 et seq., but does not modify, limit or supersede 15 U.S.C. 7001(c) or authorize electronic delivery of any of the notices described in 15 U.S.C. 7003(b). [2023 c.83 §4] 
 
 ## Provenance & change history
 

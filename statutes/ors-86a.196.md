@@ -56,19 +56,7 @@ ORS 86A.196 — Notice of reverse mortgage prohibition in homestead property tax
 
 (2) and
 
-(3) of this section do not apply to a financial institution, as defined in ORS 706.008, or to a licensee, as defined in ORS 725.010. [2012 c.13 §1; 2015 c.87 §1; 2017 c.161 §1] Note: 86A.196 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 86A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 86A.198 Materials in languages other than English; requirements.
-
-(1) A mortgage banker, a mortgage broker or a mortgage loan originator shall provide in writing the materials identified in subsection
-
-(2) of this section to a borrower if the mortgage banker, mortgage broker or mortgage loan originator: (a) Communicates or causes to be communicated an advertisement in a language other than English or otherwise solicits business in a language other than English; and (b) Offers to negotiate or make, or negotiates or makes, a residential mortgage transaction in the course of which a substantial portion of the communication with the borrower that is related to the transaction takes place in the language other than English that was used to communicate the advertisement or make the solicitation.
-
-(2) A mortgage banker, mortgage broker or mortgage loan originator that takes an action described in subsection
-
-(1) of this section shall provide the following materials to the borrower in English and in the language other than English in which a substantial portion of the communication that is related to the transaction takes place: (a) A good faith estimate required under the Real Estate Settlement Procedures Act, 12 U.S.C. 2601 et seq., and under Regulation X, 24 C.F.R. part 3500, as enacted or promulgated on January 1, 2010; (b) The disclosures related to the transaction that are required under the Truth in Lending Act, 15 U.S.C. 1601 et seq., and under Regulation Z, 12 C.F.R. part 226, as enacted or promulgated on January 1, 2010; and (c) A statement notifying the borrower that loan documents associated with the transaction will be in English and advising the borrower to obtain appropriate assistance with any necessary translations.
-
-(3) The Director of the Department of Consumer and Business Services shall develop and distribute translated versions of the materials identified in subsection
-
-(2) of this section in the three languages other than English that are most commonly spoken in this state. [2009 c.603 §3; 2009 c.863 §39]
+(3) of this section do not apply to a financial institution, as defined in ORS 706.008, or to a licensee, as defined in ORS 725.010. [2012 c.13 §1; 2015 c.87 §1; 2017 c.161 §1] Note: 86A.196 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 86A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

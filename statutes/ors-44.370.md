@@ -48,15 +48,7 @@ ORS 44.370 — Witness presumed to speak truth; jury judges of credibility. Chap
 
 ## Full text
 
-44.370 Witness presumed to speak truth; jury judges of credibility. A witness is presumed to speak the truth. This presumption, however, may be overcome by the manner in which the witness testifies, by the character of the testimony of the witness, or by evidence affecting the character or motives of the witness, or by contradictory evidence. Where the trial is by the jury, they are the exclusive judges of the credibility of the witness. 44.410 [Amended by 1959 c.158 §1; repealed by 1989 c.980 §24] FEES 44.415 Fees and mileage of witnesses.
-
-(1) Except as provided in subsection
-
-(2) of this section, a person is entitled to receive $30 for each day’s attendance as a witness and mileage reimbursement at the rate of 25 cents a mile if the person is required to travel from a place within or outside this state in order to perform duties as a witness. Total mileage reimbursement shall not exceed the necessary cost of transportation on reasonably available common carriers.
-
-(2) In any criminal proceeding, any proceeding prosecuted by a public body or any proceeding where a public body is a party, a person is entitled to receive $5 for each day’s attendance as a witness and mileage reimbursement at the rate of eight cents a mile if the person is required to travel from a place within or outside this state in order to perform duties as a witness. Total mileage reimbursement shall not exceed the necessary cost of transportation on reasonably available common carriers.
-
-(3) As used in this section, “public body” means any state, city, county, school district, other political subdivision, municipal corporation, public corporation and any instrumentality thereof. [1989 c.980 §2] 44.420 [Repealed by 1959 c.158 §2] 44.430 [Repealed by 1989 c.980 §24] 44.440 [Amended by 1963 c.519 §24; 1977 c.408 §1; repealed by 1981 s.s. c.3 §141] 44.450 [Amended by 1977 c.593 §1; repealed by 1981 s.s. c.3 §141]
+44.370 Witness presumed to speak truth; jury judges of credibility. A witness is presumed to speak the truth. This presumption, however, may be overcome by the manner in which the witness testifies, by the character of the testimony of the witness, or by evidence affecting the character or motives of the witness, or by contradictory evidence. Where the trial is by the jury, they are the exclusive judges of the credibility of the witness. 44.410 [Amended by 1959 c.158 §1; repealed by 1989 c.980 §24] FEES 
 
 ## Provenance & change history
 

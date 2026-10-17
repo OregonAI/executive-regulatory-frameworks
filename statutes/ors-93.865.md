@@ -56,7 +56,7 @@ ORS 93.865 — Quitclaim deed form; effect. Chapter 93 (Conveyancing and Recordi
 
 (1) of this section shall have the effect of conveying whatever title or interest, legal or equitable, the grantor may have in the described property at the date of the deed but shall not transfer any title or interest which the grantor may thereafter obtain nor shall it operate as an estoppel.
 
-(3) A grantee taking title by way of a quitclaim deed shall not, merely because of receipt of title by or through such a deed, be denied the status of a good faith purchaser for value. [1973 c.194 §4; 1999 c.214 §4] 93.870 Statutory deed forms optional. The form of deeds set forth in ORS 93.850 to 93.865 are permissive and not mandatory. Other forms of deeds may be used for the conveyance of real property. [1973 c.194 §5]
+(3) A grantee taking title by way of a quitclaim deed shall not, merely because of receipt of title by or through such a deed, be denied the status of a good faith purchaser for value. [1973 c.194 §4; 1999 c.214 §4] 
 
 ## Provenance & change history
 

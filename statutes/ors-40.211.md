@@ -58,7 +58,7 @@ ORS 40.211 — Rule 412-1. Evidence not admissible in civil proceeding involving
 
 (3) Before admitting evidence under this section, the court must conduct an in camera hearing and give the alleged victim and parties a right to attend and be heard. Unless the court orders otherwise, the motion, related materials and the record of the hearing are confidential. A party making a motion under this section shall state in the caption that the motion is confidential.
 
-(4) As used in this section, “in camera” means out of the presence of the public and the jury. [2017 c.321 §2] 40.215 Rule 413. Measures and assessments intended to minimize impact of or plan for natural disaster. Evidence of measures taken or vulnerability assessments conducted before a natural disaster occurs that were intended to minimize the impact of or plan for the natural disaster is not admissible to prove negligence or culpable conduct in connection with damage, harm, injury or death resulting from the natural disaster. [2015 c.541 §2]
+(4) As used in this section, “in camera” means out of the presence of the public and the jury. [2017 c.321 §2] 
 
 ## Provenance & change history
 

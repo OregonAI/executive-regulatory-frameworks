@@ -88,27 +88,7 @@ ORS 30.657 — Petition for compensation for wrongful conviction; requirements; 
 
 (14) Any party to a proceeding under this section may appeal from the judgment of the circuit court on a petition filed under this section by filing a notice of appeal within the time and in the manner specified in ORS chapter 19 for civil appeals to the Court of Appeals. Any party filing a notice of appeal under this subsection must note in the notice of appeal that the case is subject to this subsection. For purposes of any appeals under this section, the Attorney General shall represent the state in all appellate proceedings. The party filing the notice of appeal shall serve the notice of appeal on the Attorney General and on the district attorney for the county of conviction.
 
-(15) This section does not preclude the Department of Corrections from providing reentry services to a petitioner under this section that are provided to other persons, including, but not limited to, financial assistance, housing assistance, mentoring and counseling. Services may be provided while an action is pending and after any judgment is entered, as appropriate for the petitioner. [2022 c.105 §1; 2023 c.368 §3] 30.658 [1999 c.810 §3; repealed by 2015 c.212 §18] 30.659 Notice of petition required; exceptions for good cause; court to advise right to file notice.
-
-(1) A person may not file a petition under ORS 30.657 unless notice of petition is given as required by this section.
-
-(2) Notice of petition shall be given within 180 days after the date on which the charges were dismissed, the person was found not guilty on retrial or the person received a grant of pardon. The period of time shall not include the period, not exceeding 90 days, during which the person is unable to give notice because of injury or because of minority, incompetency or other incapacity.
-
-(3) Notice of petition required by this section is satisfied by: (a) Formal notice of petition as provided in subsection
-
-(4) of this section; (b) Filing of a petition under ORS 30.657 by or on behalf of the person within the applicable period of time provided in subsection
-
-(2) of this section; (c) Notice of claim under ORS 30.275 for any action against a public body, as defined in ORS 174.109, or any officer, employee or agent of the public body arising out of the facts and circumstances that gave rise to the wrongful conviction; or (d) Payment of compensation for wrongful conviction by or on behalf of the state at any time.
-
-(4) Formal notice of petition is a written communication from a claimant or representative of a claimant containing: (a) A statement that a petition for wrongful conviction under ORS 30.657 is or will be filed; (b) The date on which the charges were dismissed, the person was found not guilty on retrial or the person received a grant of pardon; and (c) The name of the claimant and the mailing address to which correspondence concerning the petition may be sent.
-
-(5) Notice is sufficient where the communication is such that a reasonable person would conclude that a particular person intends to assert a claim against the state arising out of wrongful conviction.
-
-(6) Formal notice of petition shall be given by mail, electronic mail or personal delivery to the office of the Director of the Oregon Department of Administrative Services. Service by mail is complete on mailing, and service by electronic mail is complete on sending.
-
-(7) Failure to provide timely notice shall not be a bar to suit if good cause for the failure is shown. Good cause shall not be unreasonably withheld.
-
-(8) At the time of judgment after a person’s conviction is reversed or vacated, and either the charges are dismissed or on retrial the person is found not guilty, as described in ORS 30.657 (1)(b)(A), the court shall advise the person of the right to file a notice within 180 days under this section. If the person is not present, the court shall advise the person in writing of the right to file a notice within 180 days under this section. [2022 c.105 §2] 30.660 [1999 c.810 §4; repealed by 2015 c.212 §18] 30.661 [1999 c.810 §5; repealed by 2015 c.212 §18] 30.662 [1999 c.810 §6; repealed by 2015 c.212 §18] 30.664 [1999 c.810 §8; repealed by 2015 c.212 §18] 30.665 [1999 c.810 §9; repealed by 2015 c.212 §18] 30.670 [1953 c.495 §1; 1973 c.714 §1; 2001 c.621 §16; renumbered 659A.403 in 2001]
+(15) This section does not preclude the Department of Corrections from providing reentry services to a petitioner under this section that are provided to other persons, including, but not limited to, financial assistance, housing assistance, mentoring and counseling. Services may be provided while an action is pending and after any judgment is entered, as appropriate for the petitioner. [2022 c.105 §1; 2023 c.368 §3] 30.658 [1999 c.810 §3; repealed by 2015 c.212 §18] 
 
 ## Provenance & change history
 

@@ -56,15 +56,7 @@ ORS 97.981 — Purchase or sale of body parts prohibited. Chapter 97 (Rights and
 
 (2) Purchase or sale of a body part for transplantation or therapy is a Class C felony.
 
-(3) A person may charge a reasonable amount for the removal, processing, preservation, quality control, storage, transportation, implantation or disposal of a body part. [2007 c.681 §21] Note: See note under 97.951. 97.982 Alteration of document of anatomical gift prohibited.
-
-(1) A person commits the crime of alteration of a document of gift if the person, in order to obtain a financial gain, intentionally falsifies, forges, conceals, defaces or obliterates a document of gift, an amendment or revocation of a document of gift or a refusal.
-
-(2) Alteration of a document of gift is a Class C felony. [2007 c.681 §22] Note: See note under 97.951. 97.983 Relation to Electronic Signatures in Global and National Commerce Act. The provisions of ORS 97.951 to 97.982 modify, limit and supersede the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7001 et seq., but do not modify, limit or supersede section 101(a) of the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7001, or authorize electronic delivery of any of the notices described in section 103(b) of the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7003(b) as in effect January 1, 2008. [2007 c.681 §23] Note: 97.983 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 97 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. ANATOMICAL GIFTS 97.984 Liability of executor who carries out anatomical gift. A person named executor who carries out an anatomical gift of the testator made under the provisions of ORS 97.957 before issuance of letters testamentary or under a will which is not admitted to probate shall not be liable to the surviving spouse or next of kin for performing acts necessary to carry out the gift of the testator. [Formerly 97.966] 97.985 Transplants not covered by implied warranty.
-
-(1) The procuring, processing, furnishing, distributing, administering or using of any part of a human body for the purpose of injecting, transfusing or transplanting that part into a human body is not a sales transaction covered by an implied warranty under the Uniform Commercial Code or otherwise.
-
-(2) As used in this section, “part” means organs or parts of organs, tissues, eyes or parts of eyes, bones, arteries, blood, other fluids and any other portions of a human body. [Formerly 97.968]
+(3) A person may charge a reasonable amount for the removal, processing, preservation, quality control, storage, transportation, implantation or disposal of a body part. [2007 c.681 §21] Note: See note under 97.951. 
 
 ## Provenance & change history
 

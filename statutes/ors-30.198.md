@@ -56,7 +56,7 @@ ORS 30.198 — Civil action for intimidation; remedies; attorney fees; liability
 
 (3) The court shall award reasonable attorney fees to the prevailing plaintiff in an action under this section. The court may award reasonable attorney fees and expert witness fees incurred by a defendant who prevails in the action if the court determines that the plaintiff had no objectively reasonable basis for asserting a claim or no reasonable basis for appealing an adverse decision of a trial court.
 
-(4) The parent, parents or legal guardian of an unemancipated minor shall be liable for any judgment recovered against such minor under this section, in an amount not to exceed $5,000. [Formerly 30.190; 2019 c.553 §16] 30.200 Action by district attorney; effect on others. If any district attorney has reasonable cause to believe that any person is engaged in violation of ORS 166.155 or 166.165, the district attorney may bring a civil claim for relief in the appropriate court, setting forth facts pertaining to such violation, and request such relief as may be necessary to restrain or prevent such violation. Any claim for relief under this section does not prevent any person from seeking any other remedy otherwise available under law. [1981 c.785 §4; 2019 c.553 §17]
+(4) The parent, parents or legal guardian of an unemancipated minor shall be liable for any judgment recovered against such minor under this section, in an amount not to exceed $5,000. [Formerly 30.190; 2019 c.553 §16] 
 
 ## Provenance & change history
 

@@ -58,7 +58,7 @@ ORS 83.670 — Unenforceable contract provisions. Chapter 83 (Retail Installment
 
 (4) No provision in a retail installment contract by which the buyer executes a power of attorney appointing the motor vehicle dealer or holder of the contract, or other person acting on the behalf of the motor vehicle dealer or holder, as the buyer’s agent in collection of payments under the contract or in the repossession of the motor vehicle, is enforceable.
 
-(5) No provision in a retail installment contract relieving the motor vehicle dealer from liability for any legal remedies that the buyer may have had against the motor vehicle dealer under the contract, or any separate instrument executed in connection therewith, is enforceable. [1957 c.625 §§14,15,16,17,18; 2001 c.117 §12] 83.680 Waiver of provisions of ORS 83.510 to 83.680. Any waiver of the provisions of ORS 83.510 to 83.680 shall be unenforceable and void. [1957 c.625 §28]
+(5) No provision in a retail installment contract relieving the motor vehicle dealer from liability for any legal remedies that the buyer may have had against the motor vehicle dealer under the contract, or any separate instrument executed in connection therewith, is enforceable. [1957 c.625 §§14,15,16,17,18; 2001 c.117 §12] 
 
 ## Provenance & change history
 

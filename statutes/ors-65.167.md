@@ -56,27 +56,7 @@ ORS 65.167 — Termination, expulsion or suspension. Chapter 65 (Nonprofit Corpo
 
 (3) Any proceeding challenging an expulsion, suspension or termination, including a proceeding in which defective notice is alleged, must be commenced within one year after the effective date of the expulsion, suspension or termination.
 
-(4) A member who has been expelled or suspended, or whose membership has been suspended or terminated, may be liable to the corporation for dues, assessments or fees as a result of obligations incurred by the member before expulsion, suspension or termination. [1989 c.1010 §48; 2005 c.22 §44; 2019 c.174 §34] 65.171 Acquiring memberships.
-
-(1) A public benefit corporation or religious corporation may not acquire for value any of the corporation’s memberships or any right arising from a membership, unless the member is a public benefit corporation or religious corporation.
-
-(2) A mutual benefit corporation may acquire the membership of a member who resigns or whose membership is terminated for the amount and pursuant to the conditions set forth in or authorized by the mutual benefit corporation’s articles of incorporation or bylaws.
-
-(3) An acquisition of memberships may not be made in violation of ORS 65.551 or 65.554. [1989 c.1010 §49; 2019 c.174 §35] (Derivative Suits) 65.174 Derivative suits.
-
-(1) A proceeding may be brought in the right of a domestic corporation or foreign corporation to procure a judgment in the corporation’s favor by: (a) Any member or members having two percent or more of the voting power or by 20 members, whichever is less; (b) Any director; or (c) The Attorney General, if the domestic corporation or foreign corporation is a public benefit corporation or a religious corporation.
-
-(2) In a proceeding brought under this section, each member complainant must have been a member when the transaction complained of occurred.
-
-(3) A complaint in a proceeding brought in the right of a corporation must allege with particularity the demand made, if any, to obtain action by the board of directors and either that the demand was refused or ignored or why a demand was not made. Whether or not a demand for action was made, if the corporation commences an investigation of the charges made in the demand or complaint, the court may stay any proceeding until the investigation is completed.
-
-(4) The complainants shall notify the Attorney General within 10 days after commencing any proceeding under this section if the proceeding involves a public benefit corporation or religious corporation or assets held in charitable trust by a mutual benefit corporation.
-
-(5) A proceeding commenced under this section may not be discontinued or settled without the court’s approval. If the court determines that a proposed discontinuance or settlement will substantially affect the interest of the corporation’s members or a class of members, the court shall direct that notice be given the members affected. [1989 c.1010 §50; 2019 c.174 §36] (Delegates) 65.177 Delegates.
-
-(1) A corporation may provide in the corporation’s articles of incorporation or bylaws for delegates having some or all of the authority of members.
-
-(2) The articles of incorporation or bylaws may set forth provisions relating to: (a) The characteristics, qualifications, rights, limitations and obligations of delegates, including the selection and removal of delegates; (b) Providing notice to and calling, holding and conducting meetings of delegates; and (c) Carrying on corporate activities during and between meetings of delegates. [1989 c.1010 §51; 2019 c.174 §37]
+(4) A member who has been expelled or suspended, or whose membership has been suspended or terminated, may be liable to the corporation for dues, assessments or fees as a result of obligations incurred by the member before expulsion, suspension or termination. [1989 c.1010 §48; 2005 c.22 §44; 2019 c.174 §34] 
 
 ## Provenance & change history
 

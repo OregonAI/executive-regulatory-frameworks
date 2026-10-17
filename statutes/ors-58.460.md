@@ -48,17 +48,7 @@ ORS 58.460 — Appeal from Secretary of State’s refusal to file document. Chap
 
 ## Full text
 
-58.460 Appeal from Secretary of State’s refusal to file document. If the Secretary of State refuses to file a document delivered to the Office of Secretary of State for filing, the domestic or foreign professional corporation, in addition to any other legal remedy that may be available, shall have the right to appeal from such order pursuant to the provisions of ORS 183.480. [1987 c.94 §10] 58.470 Evidentiary effect of copy of filed document.
-
-(1) A certificate attached to a copy of a document filed by the Secretary of State, bearing the Secretary of State’s signature, which may be in facsimile, is conclusive evidence that the original document, or a facsimile thereof, is on file with the Office of Secretary of State.
-
-(2) The provisions of ORS 56.110 apply to all documents filed pursuant to this chapter. [1987 c.94 §11] 58.480 Certificate of existence or authorization.
-
-(1) Anyone may apply to the Secretary of State to furnish a certificate of existence for a domestic professional corporation or a certificate of authorization for a foreign professional corporation.
-
-(2) A certificate of existence or authorization when issued means that: (a) The domestic professional corporation’s corporate name or the foreign professional corporation’s corporate name is registered in this state; (b) The domestic professional corporation is duly incorporated under the law of this state, or the foreign professional corporation is authorized to transact business in this state; (c) All fees payable to the Secretary of State under this chapter have been paid, if nonpayment affects the existence or authorization of the domestic or foreign professional corporation; (d) An annual report required by ORS 58.225 has been filed by the Secretary of State within the preceding 14 months; and (e) Articles of dissolution or an application for withdrawal have not been filed by the Secretary of State.
-
-(3) A person may apply to the Secretary of State to issue a certificate covering any fact of record. [1987 c.94 §12]
+58.460 Appeal from Secretary of State’s refusal to file document. If the Secretary of State refuses to file a document delivered to the Office of Secretary of State for filing, the domestic or foreign professional corporation, in addition to any other legal remedy that may be available, shall have the right to appeal from such order pursuant to the provisions of ORS 183.480. [1987 c.94 §10] 
 
 ## Provenance & change history
 
