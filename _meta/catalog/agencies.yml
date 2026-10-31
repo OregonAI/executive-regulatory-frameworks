@@ -1739,7 +1739,7 @@ organizations:
   enabling_authority: ORS 173.710
 - slug: legislative-assembly
   name: Legislative Assembly
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Legislative Assembly
   oar_chapter: null
   raw_index_name: Legislative Assembly

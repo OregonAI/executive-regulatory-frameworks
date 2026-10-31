@@ -829,7 +829,14 @@ STATUTORY_NAMES: dict[str, str] = {
     # the Public Records Advocate (ORS 192.461 creates "the office of the Public Records
     # Advocate", likewise) and the Legislative Commission on Indian Services (the cited
     # ORS 172.100 is a policy declaration that does not print the name). Those keep
-    # `unverified-oar-title`. The four constitutional offices were not part of this pass.
+    # `unverified-oar-title`. Also not reached: the two bodies recorded on a constitutional
+    # article whose registry title the article does not print as a body's name (Art. V, sec. 1
+    # vests the executive power in "a Governor", not an "Office of the Governor"; Art. VII
+    # (Original), sec. 17 provides for district attorneys, not "District Attorneys and
+    # Deputies"), and the two recorded on an uncodified session law (the Legislative Fiscal
+    # Officer, the Legislative Revenue Office), whose text this corpus does not mirror, so no
+    # quotation can be matched. The Legislative Assembly, which Art. IV, sec. 1 names, is
+    # promoted below.
     "board-of-examiners-for-engineering-and-land-surveying": "State Board of Examiners for Engineering and Land Surveying",
     "board-of-geologist-examiners": "State Board of Geologist Examiners",
     "board-of-massage-therapists": "State Board of Massage Therapists",
@@ -897,6 +904,7 @@ STATUTORY_NAMES: dict[str, str] = {
     "landscape-architect-board": "State Landscape Architect Board",
     "landscape-contractors-board": "State Landscape Contractors Board",
     "legislative-administration-committee": "Legislative Administration Committee",
+    "legislative-assembly": "Legislative Assembly",
     "legislative-equity-office": "Legislative Equity Office",
     "legislative-policy-and-research-committee": "Legislative Policy and Research Committee",
     "mental-health-regulatory-agency": "Mental Health Regulatory Agency",
@@ -1380,6 +1388,12 @@ QUOTE_CHECKS: dict[str, list[tuple[str, str]]] = {
         ("ORS 173.710",
          "The Legislative Administration Committee hereby is established as a joint committee "
          "of the Legislative Assembly."),
+    ],
+    "legislative-assembly": [
+        ("Or. Const. Art. IV, sec. 1",
+         "The legislative power of the state, except for the initiative and referendum powers "
+         "reserved to the people, is vested in a Legislative Assembly, consisting of a Senate "
+         "and a House of Representatives."),
     ],
     "legislative-equity-office": [
         ("ORS 173.900",
