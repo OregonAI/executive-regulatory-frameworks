@@ -541,6 +541,48 @@ MAPPED: dict[str, str] = {
     "southern-oregon-university": "ORS 352.002",
     "state-board-of-architect-examiners": "ORS 671.120",
     "teacher-standards-and-practices-commission": "ORS 342.350",
+    # AGENT QUOTE-CHECKED, 2026-10-30. The bodies a statute creates that the registry did not
+    # carry (they are added by link_budget_codes.py's MANUAL_ENTRIES in this same change).
+    # Each is the section a quotation in QUOTE_CHECKS shows creating or constituting it. The
+    # ones that constitute without a creation verb are the Board on Public Safety Standards
+    # and Training ("The Governor shall appoint a Board ... consisting of 26 members"), the
+    # State Land Board ("constitute the State Land Board") and the State Board of Education
+    # ("shall consist of"); the four advocacy commissions are created by a sentence of
+    # legislative policy ("is created to work for ...").
+    "advisory-council-on-hearing-aids": "ORS 694.165",
+    "board-of-athletic-trainers": "ORS 688.705",
+    "board-of-electrologists-and-body-art-practitioners": "ORS 690.401",
+    "board-of-trustees-of-southern-oregon-university": "ORS 352.054",
+    "board-on-public-safety-standards-and-training": "ORS 181A.360",
+    "commission-for-women": "ORS 185.510",
+    "commission-on-asian-and-pacific-islander-affairs": "ORS 185.610",
+    "commission-on-black-affairs": "ORS 185.410",
+    "commission-on-hispanic-affairs": "ORS 185.310",
+    "council-on-optometric-nontopical-formulary": "ORS 683.240",
+    "early-learning-council": "ORS 326.425",
+    "environmental-quality-commission": "ORS 468.010",
+    "land-conservation-and-development-commission": "ORS 197.030",
+    "oregon-agricultural-heritage-commission": "ORS 541.986",
+    "oregon-business-development-commission": "ORS 285A.040",
+    "oregon-cannabis-commission": "ORS 475C.930",
+    "oregon-geographic-information-council": "ORS 276A.503",
+    "oregon-health-policy-board": "ORS 413.006",
+    "oregon-housing-stability-council": "ORS 456.567",
+    "oregon-retirement-savings-board": "ORS 178.200",
+    "oregon-transportation-commission": "ORS 184.612",
+    "residential-ombudsman-and-public-guardianship-advisory-board": "ORS 441.416",
+    "respiratory-therapist-and-polysomnographic-technologist-licensing-board": "ORS 688.820",
+    "sexual-offense-treatment-board": "ORS 675.395",
+    "state-aviation-board": "ORS 835.102",
+    "state-board-of-denture-technology": "ORS 680.556",
+    "state-board-of-education": "ORS 326.021",
+    "state-board-of-forestry": "ORS 526.009",
+    "state-fish-and-wildlife-commission": "ORS 496.090",
+    "state-land-board": "ORS 273.031",
+    "state-library-board": "ORS 357.021",
+    "state-parks-and-recreation-commission": "ORS 390.114",
+    "water-resources-commission": "ORS 536.022",
+    "youth-development-council": "ORS 417.847",
 }
 
 # slug -> why this body has no enabling authority TO RECORD. A DECISION with a stated reason,
@@ -921,6 +963,44 @@ STATUTORY_NAMES: dict[str, str] = {
     "travel-information-council": "Travel Information Council",
     "veterinary-medical-examining-board": "Oregon State Veterinary Medical Examining Board",
     "water-resources-department": "Water Resources Department",
+
+    # AGENT QUOTE-CHECKED, 2026-10-30: the names of the bodies added by MANUAL_ENTRIES (the
+    # registry row starts as `unverified-oar-title` holding this same string, and --apply
+    # promotes it). The sentence that prints each is in QUOTE_CHECKS.
+    "advisory-council-on-hearing-aids": "Advisory Council on Hearing Aids",
+    "board-of-athletic-trainers": "Board of Athletic Trainers",
+    "board-of-electrologists-and-body-art-practitioners": "Board of Electrologists and Body Art Practitioners",
+    "board-of-trustees-of-southern-oregon-university": "Board of Trustees of Southern Oregon University",
+    "board-on-public-safety-standards-and-training": "Board on Public Safety Standards and Training",
+    "commission-for-women": "Commission for Women",
+    "commission-on-asian-and-pacific-islander-affairs": "Commission on Asian and Pacific Islander Affairs",
+    "commission-on-black-affairs": "Commission on Black Affairs",
+    "commission-on-hispanic-affairs": "Commission on Hispanic Affairs",
+    "council-on-optometric-nontopical-formulary": "Council on Optometric Nontopical Formulary",
+    "early-learning-council": "Early Learning Council",
+    "environmental-quality-commission": "Environmental Quality Commission",
+    "land-conservation-and-development-commission": "Land Conservation and Development Commission",
+    "oregon-agricultural-heritage-commission": "Oregon Agricultural Heritage Commission",
+    "oregon-business-development-commission": "Oregon Business Development Commission",
+    "oregon-cannabis-commission": "Oregon Cannabis Commission",
+    "oregon-geographic-information-council": "Oregon Geographic Information Council",
+    "oregon-health-policy-board": "Oregon Health Policy Board",
+    "oregon-housing-stability-council": "Oregon Housing Stability Council",
+    "oregon-retirement-savings-board": "Oregon Retirement Savings Board",
+    "oregon-transportation-commission": "Oregon Transportation Commission",
+    "residential-ombudsman-and-public-guardianship-advisory-board": "Residential Ombudsman and Public Guardianship Advisory Board",
+    "respiratory-therapist-and-polysomnographic-technologist-licensing-board": "Respiratory Therapist and Polysomnographic Technologist Licensing Board",
+    "sexual-offense-treatment-board": "Sexual Offense Treatment Board",
+    "state-aviation-board": "State Aviation Board",
+    "state-board-of-denture-technology": "State Board of Denture Technology",
+    "state-board-of-education": "State Board of Education",
+    "state-board-of-forestry": "State Board of Forestry",
+    "state-fish-and-wildlife-commission": "State Fish and Wildlife Commission",
+    "state-land-board": "State Land Board",
+    "state-library-board": "State Library Board",
+    "state-parks-and-recreation-commission": "State Parks and Recreation Commission",
+    "water-resources-commission": "Water Resources Commission",
+    "youth-development-council": "Youth Development Council",
 }
 
 # ------------------------------------------- agent quote-checks (operator decision 2026-10-30)
@@ -1606,6 +1686,173 @@ QUOTE_CHECKS: dict[str, list[tuple[str, str]]] = {
          "There is hereby established in the executive-administrative branch of the government "
          "of the state under the Water Resources Commission a department to be known as the "
          "Water Resources Department."),
+    ],
+
+    # AGENT QUOTE-CHECKED, 2026-10-30: the bodies added by MANUAL_ENTRIES.
+    "advisory-council-on-hearing-aids": [
+        ("ORS 694.165",
+         "There is established within the Health Licensing Office the Advisory Council on "
+         "Hearing Aids."),
+    ],
+    "board-of-athletic-trainers": [
+        ("ORS 688.705",
+         "There is established within the Health Licensing Office the Board of Athletic "
+         "Trainers"),
+    ],
+    "board-of-electrologists-and-body-art-practitioners": [
+        ("ORS 690.401",
+         "There is established within the Health Licensing Office the Board of Electrologists "
+         "and Body Art Practitioners"),
+    ],
+    "board-of-trustees-of-southern-oregon-university": [
+        ("ORS 352.054",
+         "A governing board is established for each of the following public universities:"),
+        ("ORS 352.054",
+         "The Southern Oregon University governing board shall be known as the Board of "
+         "Trustees of Southern Oregon University."),
+    ],
+    "board-on-public-safety-standards-and-training": [
+        ("ORS 181A.360",
+         "The Governor shall appoint a Board on Public Safety Standards and Training "
+         "consisting of 26 members"),
+    ],
+    "commission-for-women": [
+        ("ORS 185.510",
+         "the Commission for Women is created to work for the implementation and establishment "
+         "of economic, social, legal and political equity for women"),
+    ],
+    "commission-on-asian-and-pacific-islander-affairs": [
+        ("ORS 185.610",
+         "The Commission on Asian and Pacific Islander Affairs is created."),
+    ],
+    "commission-on-black-affairs": [
+        ("ORS 185.410",
+         "the Commission on Black Affairs is created to work for the implementation and "
+         "establishment of economic, social, legal and political equity for Blacks in Oregon."),
+    ],
+    "commission-on-hispanic-affairs": [
+        ("ORS 185.310",
+         "the Commission on Hispanic Affairs is created to work for the implementation and "
+         "establishment of economic, social, legal and political equity for Hispanics in "
+         "Oregon."),
+    ],
+    "council-on-optometric-nontopical-formulary": [
+        ("ORS 683.240",
+         "The Council on Optometric Nontopical Formulary is established and shall consist of "
+         "seven members"),
+    ],
+    "early-learning-council": [
+        ("ORS 326.425",
+         "The Early Learning Council is established."),
+    ],
+    "environmental-quality-commission": [
+        ("ORS 468.010",
+         "There is created an Environmental Quality Commission."),
+    ],
+    "land-conservation-and-development-commission": [
+        ("ORS 197.030",
+         "There is established a Land Conservation and Development Commission consisting of "
+         "seven members appointed by the Governor"),
+    ],
+    "oregon-agricultural-heritage-commission": [
+        ("ORS 541.986",
+         "The Oregon Agricultural Heritage Commission is established, consisting of 12 members "
+         "appointed by the Oregon Watershed Enhancement Board."),
+    ],
+    "oregon-business-development-commission": [
+        ("ORS 285A.040",
+         "There is established the Oregon Business Development Commission consisting of nine "
+         "members"),
+    ],
+    "oregon-cannabis-commission": [
+        ("ORS 475C.930",
+         "The Oregon Cannabis Commission is established within the Oregon Health Authority."),
+    ],
+    "oregon-geographic-information-council": [
+        ("ORS 276A.503",
+         "The Oregon Geographic Information Council is established within the office of "
+         "Enterprise Information Services."),
+    ],
+    "oregon-health-policy-board": [
+        ("ORS 413.006",
+         "There is established the Oregon Health Policy Board, consisting of nine members "
+         "appointed by the Governor."),
+    ],
+    "oregon-housing-stability-council": [
+        ("ORS 456.567",
+         "The Oregon Housing Stability Council is established."),
+    ],
+    "oregon-retirement-savings-board": [
+        ("ORS 178.200",
+         "The Oregon Retirement Savings Board is established in the office of the State "
+         "Treasurer."),
+    ],
+    "oregon-transportation-commission": [
+        ("ORS 184.612",
+         "There is established the Oregon Transportation Commission consisting of five members "
+         "appointed by the Governor"),
+    ],
+    "residential-ombudsman-and-public-guardianship-advisory-board": [
+        ("ORS 441.416",
+         "There is established a Residential Ombudsman and Public Guardianship Advisory Board "
+         "of 11 members"),
+    ],
+    "respiratory-therapist-and-polysomnographic-technologist-licensing-board": [
+        ("ORS 688.820",
+         "There is established within the Health Licensing Office the Respiratory Therapist "
+         "and Polysomnographic Technologist Licensing Board."),
+    ],
+    "sexual-offense-treatment-board": [
+        ("ORS 675.395",
+         "The Sexual Offense Treatment Board is established within the Health Licensing "
+         "Office."),
+    ],
+    "state-aviation-board": [
+        ("ORS 835.102",
+         "There is established the State Aviation Board consisting of seven members appointed "
+         "by the Governor"),
+    ],
+    "state-board-of-denture-technology": [
+        ("ORS 680.556",
+         "There is established, within the Health Licensing Office, the State Board of Denture "
+         "Technology."),
+    ],
+    "state-board-of-education": [
+        ("ORS 326.021",
+         "The State Board of Education shall consist of: (a) The State Treasurer, or the "
+         "designee of the State Treasurer;"),
+    ],
+    "state-board-of-forestry": [
+        ("ORS 526.009",
+         "There is created a State Board of Forestry consisting of seven members appointed by "
+         "the Governor."),
+    ],
+    "state-fish-and-wildlife-commission": [
+        ("ORS 496.090",
+         "There is established a State Fish and Wildlife Commission that shall consist of "
+         "seven members appointed by the Governor."),
+    ],
+    "state-land-board": [
+        ("ORS 273.031",
+         "The Governor, Secretary of State and State Treasurer constitute the State Land "
+         "Board."),
+    ],
+    "state-library-board": [
+        ("ORS 357.021",
+         "The State Library Board is established, consisting of nine voting members."),
+    ],
+    "state-parks-and-recreation-commission": [
+        ("ORS 390.114",
+         "There is established a State Parks and Recreation Commission consisting of seven "
+         "members appointed by the Governor."),
+    ],
+    "water-resources-commission": [
+        ("ORS 536.022",
+         "There is created a Water Resources Commission consisting of seven members"),
+    ],
+    "youth-development-council": [
+        ("ORS 417.847",
+         "The Youth Development Council is established."),
     ],
 }
 

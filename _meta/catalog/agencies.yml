@@ -56,18 +56,18 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   _absent_entry() stamps the SAME already-recorded observation''s own date onto a MANUAL_ENTRIES row it
   adds, refusing outright if no observation has ever been recorded. It stays null until one of those two
   has run, which CONTEXT.md''s overriding rule requires: ''could not check'' is never reported as ''is
-  not there''. It marks twenty-six rows today, including fourteen (chapters 111, 180, 265, 404, 419, 648,
-  699, 750, 800, 816, 831, 925, 944, 950) that DO carry an oar_chapter -- a mirror gap, not a chapterless
-  body. `manual`, its predecessor, is retired (#169): no row may carry it, whether or not this field does.
-  enabling_authority, where present, is what created the body — an ORS citation, a constitutional article,
-  or an executive order (ADR 0003) — or `none: ` and the reason there is none. It is reviewed (src/link_enabling_authority.py)
+  not there''. It marks sixty rows today, including fourteen (chapters 111, 180, 265, 404, 419, 648, 699,
+  750, 800, 816, 831, 925, 944, 950) that DO carry an oar_chapter -- a mirror gap, not a chapterless body.
+  `manual`, its predecessor, is retired (#169): no row may carry it, whether or not this field does. enabling_authority,
+  where present, is what created the body — an ORS citation, a constitutional article, or an executive
+  order (ADR 0003) — or `none: ` and the reason there is none. It is reviewed (src/link_enabling_authority.py)
   by a human, or by an agent''s quote of the section matched word for word against the mirrored text (ADR
   0003''s amendment), is NOT scraped, and is preserved across --refresh. An ABSENT enabling_authority
   means nobody has reviewed this body yet; it never means the body has no enabling authority, which is
   what the `none: ` form says and says with a reason. oar_chapter is the OAR chapter this body''s rules
   are filed under, scraped from the index tree; null on the chapterless rows is not a gap — a body is
   in this registry because it EXISTS, not because it issues rules. source_url is the chapter page each
-  row was scraped from, where the scrape found one: null on 11 of the 15 chapterless rows, not all of
+  row was scraped from, where the scrape found one: null on 45 of the 49 chapterless rows, not all of
   them — the other four hold a source_url that is not a chapter page (three hold the mirror''s own rules
   index, https://oregon.public.law/rules, and the saif-corporation row holds its own site). aliases, where
   present, are other names the same body is known by, including former names after a rename — reviewed
@@ -86,6 +86,17 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
 source_url: https://oregon.public.law/rules
 retrieved: '2026-07-20'
 organizations:
+- slug: advisory-council-on-hearing-aids
+  name: Advisory Council on Hearing Aids
+  name_basis: enabling-authority
+  oar_name: Advisory Council on Hearing Aids
+  oar_chapter: null
+  raw_index_name: Advisory Council on Hearing Aids
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 694.165
 - slug: appraiser-certification-and-licensure-board
   name: Appraiser Certification and Licensure Board
   name_basis: enabling-authority
@@ -98,6 +109,17 @@ organizations:
   enabling_authority: ORS 674.305
   aliases:
   - ACLB
+- slug: board-of-athletic-trainers
+  name: Board of Athletic Trainers
+  name_basis: enabling-authority
+  oar_name: Board of Athletic Trainers
+  oar_chapter: null
+  raw_index_name: Board of Athletic Trainers
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 688.705
 - slug: board-of-chiropractic-examiners
   name: State Board of Chiropractic Examiners
   name_basis: enabling-authority
@@ -109,6 +131,17 @@ organizations:
   relations: []
   das_agency_number: '811'
   enabling_authority: ORS 684.130
+- slug: board-of-electrologists-and-body-art-practitioners
+  name: Board of Electrologists and Body Art Practitioners
+  name_basis: enabling-authority
+  oar_name: Board of Electrologists and Body Art Practitioners
+  oar_chapter: null
+  raw_index_name: Board of Electrologists and Body Art Practitioners
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 690.401
 - slug: board-of-examiners-for-engineering-and-land-surveying
   name: State Board of Examiners for Engineering and Land Surveying
   name_basis: enabling-authority
@@ -219,6 +252,28 @@ organizations:
   relations: []
   das_agency_number: '855'
   enabling_authority: ORS 689.115
+- slug: board-of-trustees-of-southern-oregon-university
+  name: Board of Trustees of Southern Oregon University
+  name_basis: enabling-authority
+  oar_name: Board of Trustees of Southern Oregon University
+  oar_chapter: null
+  raw_index_name: Board of Trustees of Southern Oregon University
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 352.054
+- slug: board-on-public-safety-standards-and-training
+  name: Board on Public Safety Standards and Training
+  name_basis: enabling-authority
+  oar_name: Board on Public Safety Standards and Training
+  oar_chapter: null
+  raw_index_name: Board on Public Safety Standards and Training
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 181A.360
 - slug: bureau-of-labor-and-industries
   name: Bureau of Labor and Industries
   name_basis: enabling-authority
@@ -276,6 +331,50 @@ organizations:
   enabling_authority: ORS 346.120
   aliases:
   - OCB
+- slug: commission-for-women
+  name: Commission for Women
+  name_basis: enabling-authority
+  oar_name: Commission for Women
+  oar_chapter: null
+  raw_index_name: Commission for Women
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 185.510
+- slug: commission-on-asian-and-pacific-islander-affairs
+  name: Commission on Asian and Pacific Islander Affairs
+  name_basis: enabling-authority
+  oar_name: Commission on Asian and Pacific Islander Affairs
+  oar_chapter: null
+  raw_index_name: Commission on Asian and Pacific Islander Affairs
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 185.610
+- slug: commission-on-black-affairs
+  name: Commission on Black Affairs
+  name_basis: enabling-authority
+  oar_name: Commission on Black Affairs
+  oar_chapter: null
+  raw_index_name: Commission on Black Affairs
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 185.410
+- slug: commission-on-hispanic-affairs
+  name: Commission on Hispanic Affairs
+  name_basis: enabling-authority
+  oar_name: Commission on Hispanic Affairs
+  oar_chapter: null
+  raw_index_name: Commission on Hispanic Affairs
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 185.310
 - slug: commission-on-judicial-fitness-and-disability
   name: Commission on Judicial Fitness and Disability
   name_basis: enabling-authority
@@ -318,6 +417,17 @@ organizations:
   enabling_authority: ORS 701.205
   aliases:
   - CCB
+- slug: council-on-optometric-nontopical-formulary
+  name: Council on Optometric Nontopical Formulary
+  name_basis: enabling-authority
+  oar_name: Council on Optometric Nontopical Formulary
+  oar_chapter: null
+  raw_index_name: Council on Optometric Nontopical Formulary
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 683.240
 - slug: department-of-administrative-services
   name: Oregon Department of Administrative Services
   name_basis: enabling-authority
@@ -1381,6 +1491,17 @@ organizations:
   absent_from_index_as_of: '2026-09-12'
   das_agency_number: '196'
   enabling_authority: Or. Const. Art. VII (Original), sec. 17
+- slug: early-learning-council
+  name: Early Learning Council
+  name_basis: enabling-authority
+  oar_name: Early Learning Council
+  oar_chapter: null
+  raw_index_name: Early Learning Council
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 326.425
 - slug: eastern-oregon-border-economic-development-board
   name: Eastern Oregon Border Economic Development Board
   name_basis: enabling-authority
@@ -1428,6 +1549,17 @@ organizations:
   aliases:
   - ERB
   enabling_authority: ORS 240.060
+- slug: environmental-quality-commission
+  name: Environmental Quality Commission
+  name_basis: enabling-authority
+  oar_name: Environmental Quality Commission
+  oar_chapter: null
+  raw_index_name: Environmental Quality Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 468.010
 - slug: higher-education-coordinating-commission
   name: Higher Education Coordinating Commission
   name_basis: enabling-authority
@@ -1501,6 +1633,17 @@ organizations:
   das_agency_number: '198'
   aliases:
   - OJD
+- slug: land-conservation-and-development-commission
+  name: Land Conservation and Development Commission
+  name_basis: enabling-authority
+  oar_name: Land Conservation and Development Commission
+  oar_chapter: null
+  raw_index_name: Land Conservation and Development Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 197.030
 - slug: land-conservation-and-development-department
   name: Department of Land Conservation and Development
   name_basis: enabling-authority
@@ -1793,6 +1936,17 @@ organizations:
   absent_from_index_as_of: '2026-09-12'
   das_agency_number: '131'
   enabling_authority: ORS 185.005
+- slug: oregon-agricultural-heritage-commission
+  name: Oregon Agricultural Heritage Commission
+  name_basis: enabling-authority
+  oar_name: Oregon Agricultural Heritage Commission
+  oar_chapter: null
+  raw_index_name: Oregon Agricultural Heritage Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 541.986
 - slug: oregon-board-of-accountancy
   name: Oregon Board of Accountancy
   name_basis: enabling-authority
@@ -1835,6 +1989,17 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 688.160
+- slug: oregon-business-development-commission
+  name: Oregon Business Development Commission
+  name_basis: enabling-authority
+  oar_name: Oregon Business Development Commission
+  oar_chapter: null
+  raw_index_name: Oregon Business Development Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 285A.040
 - slug: oregon-business-development-department
   name: Oregon Business Development Department
   name_basis: enabling-authority
@@ -1848,6 +2013,17 @@ organizations:
   enabling_authority: ORS 285A.070
   aliases:
   - OBDD
+- slug: oregon-cannabis-commission
+  name: Oregon Cannabis Commission
+  name_basis: enabling-authority
+  oar_name: Oregon Cannabis Commission
+  oar_chapter: null
+  raw_index_name: Oregon Cannabis Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 475C.930
 - slug: oregon-criminal-justice-commission
   name: Oregon Criminal Justice Commission
   name_basis: enabling-authority
@@ -1992,6 +2168,17 @@ organizations:
   enabling_authority: ORS 526.610
   aliases:
   - OFRI
+- slug: oregon-geographic-information-council
+  name: Oregon Geographic Information Council
+  name_basis: enabling-authority
+  oar_name: Oregon Geographic Information Council
+  oar_chapter: null
+  raw_index_name: Oregon Geographic Information Council
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 276A.503
 - slug: oregon-government-ethics-commission
   name: Oregon Government Ethics Commission
   name_basis: enabling-authority
@@ -2375,6 +2562,17 @@ organizations:
     basis: reviewed-absence
   enabling_authority: 'none: Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux,
     who found nothing separately constitutes it, so there is no enabling authority to record.'
+- slug: oregon-health-policy-board
+  name: Oregon Health Policy Board
+  name_basis: enabling-authority
+  oar_name: Oregon Health Policy Board
+  oar_chapter: null
+  raw_index_name: Oregon Health Policy Board
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 413.006
 - slug: oregon-hemp-commission
   name: Oregon Hemp Commission
   name_basis: enabling-authority
@@ -2414,6 +2612,17 @@ organizations:
   enabling_authority: ORS 456.555
   aliases:
   - OHCS
+- slug: oregon-housing-stability-council
+  name: Oregon Housing Stability Council
+  name_basis: enabling-authority
+  oar_name: Oregon Housing Stability Council
+  oar_chapter: null
+  raw_index_name: Oregon Housing Stability Council
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 456.567
 - slug: oregon-investment-council
   name: Oregon Investment Council
   name_basis: enabling-authority
@@ -2548,6 +2757,17 @@ organizations:
   enabling_authority: ORS 462.210
   aliases:
   - ORC
+- slug: oregon-retirement-savings-board
+  name: Oregon Retirement Savings Board
+  name_basis: enabling-authority
+  oar_name: Oregon Retirement Savings Board
+  oar_chapter: null
+  raw_index_name: Oregon Retirement Savings Board
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 178.200
 - slug: oregon-state-library
   name: Oregon State Library
   name_basis: unverified-oar-title
@@ -2602,6 +2822,17 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 284.107
+- slug: oregon-transportation-commission
+  name: Oregon Transportation Commission
+  name_basis: enabling-authority
+  oar_name: Oregon Transportation Commission
+  oar_chapter: null
+  raw_index_name: Oregon Transportation Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 184.612
 - slug: oregon-utility-notification-center
   name: Oregon Utility Notification Center
   name_basis: enabling-authority
@@ -2776,6 +3007,28 @@ organizations:
   enabling_authority: ORS 696.375
   aliases:
   - OREA
+- slug: residential-ombudsman-and-public-guardianship-advisory-board
+  name: Residential Ombudsman and Public Guardianship Advisory Board
+  name_basis: enabling-authority
+  oar_name: Residential Ombudsman and Public Guardianship Advisory Board
+  oar_chapter: null
+  raw_index_name: Residential Ombudsman and Public Guardianship Advisory Board
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 441.416
+- slug: respiratory-therapist-and-polysomnographic-technologist-licensing-board
+  name: Respiratory Therapist and Polysomnographic Technologist Licensing Board
+  name_basis: enabling-authority
+  oar_name: Respiratory Therapist and Polysomnographic Technologist Licensing Board
+  oar_chapter: null
+  raw_index_name: Respiratory Therapist and Polysomnographic Technologist Licensing Board
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 688.820
 - slug: saif-corporation
   name: State Accident Insurance Fund Corporation
   name_basis: enabling-authority
@@ -2875,6 +3128,17 @@ organizations:
     basis: reviewed-absence
   enabling_authority: 'none: Part of the Secretary of State (ADR 0004): reviewed 2026-09-12 by @morficflux,
     who found nothing separately constitutes it, so there is no enabling authority to record.'
+- slug: sexual-offense-treatment-board
+  name: Sexual Offense Treatment Board
+  name_basis: enabling-authority
+  oar_name: Sexual Offense Treatment Board
+  oar_chapter: null
+  raw_index_name: Sexual Offense Treatment Board
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 675.395
 - slug: southern-oregon-university
   name: Southern Oregon University
   name_basis: enabling-authority
@@ -2887,6 +3151,17 @@ organizations:
   aliases:
   - SOU
   enabling_authority: ORS 352.002
+- slug: state-aviation-board
+  name: State Aviation Board
+  name_basis: enabling-authority
+  oar_name: State Aviation Board
+  oar_chapter: null
+  raw_index_name: State Aviation Board
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 835.102
 - slug: state-board-of-architect-examiners
   name: State Board of Architect Examiners
   name_basis: enabling-authority
@@ -2897,6 +3172,39 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 671.120
+- slug: state-board-of-denture-technology
+  name: State Board of Denture Technology
+  name_basis: enabling-authority
+  oar_name: State Board of Denture Technology
+  oar_chapter: null
+  raw_index_name: State Board of Denture Technology
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 680.556
+- slug: state-board-of-education
+  name: State Board of Education
+  name_basis: enabling-authority
+  oar_name: State Board of Education
+  oar_chapter: null
+  raw_index_name: State Board of Education
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 326.021
+- slug: state-board-of-forestry
+  name: State Board of Forestry
+  name_basis: enabling-authority
+  oar_name: State Board of Forestry
+  oar_chapter: null
+  raw_index_name: State Board of Forestry
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 526.009
 - slug: state-board-of-tax-practitioners
   name: State Board of Tax Practitioners
   name_basis: enabling-authority
@@ -2936,6 +3244,50 @@ organizations:
     the Department of Transportation.'' OARD files the chapter under no parent, so no relation is recorded;
     whether it is administered by the Department of Transportation is not yet decided.'
   enabling_authority: ORS 822.250
+- slug: state-fish-and-wildlife-commission
+  name: State Fish and Wildlife Commission
+  name_basis: enabling-authority
+  oar_name: State Fish and Wildlife Commission
+  oar_chapter: null
+  raw_index_name: State Fish and Wildlife Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 496.090
+- slug: state-land-board
+  name: State Land Board
+  name_basis: enabling-authority
+  oar_name: State Land Board
+  oar_chapter: null
+  raw_index_name: State Land Board
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 273.031
+- slug: state-library-board
+  name: State Library Board
+  name_basis: enabling-authority
+  oar_name: State Library Board
+  oar_chapter: null
+  raw_index_name: State Library Board
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 357.021
+- slug: state-parks-and-recreation-commission
+  name: State Parks and Recreation Commission
+  name_basis: enabling-authority
+  oar_name: State Parks and Recreation Commission
+  oar_chapter: null
+  raw_index_name: State Parks and Recreation Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 390.114
 - slug: teacher-standards-and-practices-commission
   name: Teacher Standards and Practices Commission
   name_basis: enabling-authority
@@ -2969,6 +3321,17 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 686.210
+- slug: water-resources-commission
+  name: Water Resources Commission
+  name_basis: enabling-authority
+  oar_name: Water Resources Commission
+  oar_chapter: null
+  raw_index_name: Water Resources Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 536.022
 - slug: water-resources-department
   name: Water Resources Department
   name_basis: enabling-authority
@@ -2983,3 +3346,14 @@ organizations:
   aliases:
   - OWRD
   - WRD
+- slug: youth-development-council
+  name: Youth Development Council
+  name_basis: enabling-authority
+  oar_name: Youth Development Council
+  oar_chapter: null
+  raw_index_name: Youth Development Council
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 417.847

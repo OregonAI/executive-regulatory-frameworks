@@ -89,6 +89,51 @@ MANUAL_ENTRIES = [
     # it holds no OAR chapter and the chapter scrape can never produce it -- the same reason
     # the Governor's office and the Legislative Assembly are hand-written above.
     ("legislative-equity-office", "Legislative Equity Office", None),
+    # BODIES A STATUTE CREATES THAT THE REGISTRY LACKED (operator decision 2026-10-30). None
+    # holds an OAR chapter, so the chapter scrape cannot produce them, and none has a DAS
+    # number mapped, so `None` is the code. Each is admitted by its enabling authority (ADR
+    # 0003) -- the section and the quotation that shows it creating or constituting the body
+    # are in link_enabling_authority.py's MAPPED and QUOTE_CHECKS -- and its name is the one
+    # that section prints (STATUTORY_NAMES). Two boards the same search turned up are NOT
+    # here: the governing board of the Department of Geology and Mineral Industries (ORS
+    # 516.080 provides for "a governing board", a description and not a name) and the Veterans'
+    # Affairs advisory committee (ORS 406.210 says "to constitute the Advisory Committee"), as
+    # is the State Workforce and Talent Development Board, which ORS 660.321 says "shall be
+    # created under" a federal act.
+    ("environmental-quality-commission", "Environmental Quality Commission", None),
+    ("state-fish-and-wildlife-commission", "State Fish and Wildlife Commission", None),
+    ("state-board-of-forestry", "State Board of Forestry", None),
+    ("board-on-public-safety-standards-and-training", "Board on Public Safety Standards and Training", None),
+    ("state-land-board", "State Land Board", None),
+    ("oregon-transportation-commission", "Oregon Transportation Commission", None),
+    ("land-conservation-and-development-commission", "Land Conservation and Development Commission", None),
+    ("oregon-business-development-commission", "Oregon Business Development Commission", None),
+    ("state-aviation-board", "State Aviation Board", None),
+    ("state-board-of-education", "State Board of Education", None),
+    ("state-parks-and-recreation-commission", "State Parks and Recreation Commission", None),
+    ("water-resources-commission", "Water Resources Commission", None),
+    ("state-board-of-denture-technology", "State Board of Denture Technology", None),
+    ("board-of-athletic-trainers", "Board of Athletic Trainers", None),
+    ("board-of-electrologists-and-body-art-practitioners", "Board of Electrologists and Body Art Practitioners", None),
+    ("respiratory-therapist-and-polysomnographic-technologist-licensing-board", "Respiratory Therapist and Polysomnographic Technologist Licensing Board", None),
+    ("advisory-council-on-hearing-aids", "Advisory Council on Hearing Aids", None),
+    ("sexual-offense-treatment-board", "Sexual Offense Treatment Board", None),
+    ("commission-on-hispanic-affairs", "Commission on Hispanic Affairs", None),
+    ("commission-on-black-affairs", "Commission on Black Affairs", None),
+    ("commission-for-women", "Commission for Women", None),
+    ("commission-on-asian-and-pacific-islander-affairs", "Commission on Asian and Pacific Islander Affairs", None),
+    ("early-learning-council", "Early Learning Council", None),
+    ("youth-development-council", "Youth Development Council", None),
+    ("oregon-health-policy-board", "Oregon Health Policy Board", None),
+    ("oregon-housing-stability-council", "Oregon Housing Stability Council", None),
+    ("oregon-cannabis-commission", "Oregon Cannabis Commission", None),
+    ("state-library-board", "State Library Board", None),
+    ("oregon-retirement-savings-board", "Oregon Retirement Savings Board", None),
+    ("oregon-agricultural-heritage-commission", "Oregon Agricultural Heritage Commission", None),
+    ("oregon-geographic-information-council", "Oregon Geographic Information Council", None),
+    ("residential-ombudsman-and-public-guardianship-advisory-board", "Residential Ombudsman and Public Guardianship Advisory Board", None),
+    ("council-on-optometric-nontopical-formulary", "Council on Optometric Nontopical Formulary", None),
+    ("board-of-trustees-of-southern-oregon-university", "Board of Trustees of Southern Oregon University", None),
 ]
 
 # 2. ALIASES. The same body is named differently by different sources, and matching on the
