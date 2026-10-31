@@ -161,6 +161,8 @@ CHECK_RULES = (
     # an agent's quote-check (ADR 0003's amendment, operator decision 2026-10-30)
     "quote-slug-in-registry", "quote-has-a-reviewed-row", "quote-is-a-quote",
     "quote-in-the-cited-text", "statutory-name-in-a-quote", "statute-placement-has-a-quote",
+    # who reviewed what stays distinguishable (ADR 0003's amendment, term 5)
+    "agent-review-has-a-quote", "review-record-is-one-kind",
 )
 
 _LEDGER = RuleLedger(CHECK_RULES, __file__)
@@ -187,12 +189,24 @@ class Failure(_LEDGER.Failure):
 
 # ---------------------------------------------------------------- reviewed registry data
 #
-# slug -> authority. EVERY ROW HERE HAS BEEN READ against the cited text, by a human or, since
-# the operator's decision of 2026-10-30, by an agent whose quotation of the section is in
-# QUOTE_CHECKS below and is re-matched against the mirror word for word on every run. Add a
-# row only after reading the section; a row that was pattern-matched and not read belongs in
-# the review sheet, not here.
-MAPPED: dict[str, str] = {
+# slug -> authority. EVERY ROW HERE HAS BEEN READ against the cited text, and WHO READ IT IS
+# THE TABLE IT SITS IN, so a row's review stays distinguishable (ADR 0003's amendment, term 5):
+#
+#   HUMAN_MAPPED  read before the operator's decision of 2026-10-30. The record is the comments
+#                 in this table (a date, who, and the creating sentence). Six rows of the PR
+#                 #452 block were read by the agent that added them and are not yet confirmed
+#                 by the maintainer, as their own comment says; they predate the decision and
+#                 carry no quotation for their authority, so they are here, not in AGENT_MAPPED.
+#   AGENT_MAPPED  read by an agent since: the record is QUOTE_CHECKS below, and `--check`
+#                 fails a row here with no quotation cited to its own section
+#                 (`agent-review-has-a-quote`) and re-matches the quotation word for word
+#                 inside that section's `## Full text` on every run.
+#
+# A quotation on a HUMAN_MAPPED row is ADDITIONAL EVIDENCE, never that row's review: the human
+# record stands, and `--check` counts the two kinds separately. `MAPPED` is the union, the one
+# table everything else reads. Add a row only after reading the section; a row that was
+# pattern-matched and not read belongs in the review sheet, not here.
+HUMAN_MAPPED: dict[str, str] = {
     # READ BY A HUMAN AGAINST THE CITED TEXT, 2026-08-22. Six tier-1 candidates from the
     # #169 review population, each displayed with its creation sentence before acceptance,
     # plus one authority the maintainer supplied. Nothing here was accepted on a tier alone.
@@ -486,6 +500,10 @@ MAPPED: dict[str, str] = {
     # ORS 541.861(1): "The Environmental Restoration Council is established in the Oregon
     # Watershed Enhancement Board."
     "oregon-watershed-enhancement-board-environmental-restoration-council": "ORS 541.861",
+}
+
+# AGENT QUOTE-CHECKED authorities: see the header above HUMAN_MAPPED.
+AGENT_MAPPED: dict[str, str] = {
     # AGENT QUOTE-CHECKED, 2026-10-30 (operator decision; ADR 0003's amendment). Bodies that were
     # "not looked at yet", each now the section a quotation in QUOTE_CHECKS (below) shows
     # creating or constituting it, matched word for word against the mirror by --check.
@@ -585,6 +603,10 @@ MAPPED: dict[str, str] = {
     "youth-development-council": "ORS 417.847",
 }
 
+# Every authority this file records, whoever read it. A slug in both tables above is a fault
+# `--check` reports (`review-record-is-one-kind`), not a key this union silently resolves.
+MAPPED: dict[str, str] = {**HUMAN_MAPPED, **AGENT_MAPPED}
+
 # slug -> why this body has no enabling authority TO RECORD. A DECISION with a stated reason,
 # never a blank, and never a citation: a body whose authority is a constitutional article
 # HAS one, and belongs in MAPPED above. That is what this example used to be — the Secretary
@@ -592,7 +614,14 @@ MAPPED: dict[str, str] = {
 # true of a field that could only hold statutes and became a false absence the day the field
 # started accepting `Or. Const. Art. VI, sec. 1` (#170). The commonest legitimate reason is
 # ADR 0004's: a `part_of` unit has nothing separate to enable.
-UNMAPPED: dict[str, str] = {
+#
+# WHO READ IT is the table, as for MAPPED above: HUMAN_UNMAPPED is every reviewed absence that
+# predates the 2026-10-30 decision (a human's finding, in the field's own text: "reviewed
+# 2026-09-12 by @morficflux, who found nothing separately constitutes it"); AGENT_UNMAPPED is a
+# reviewed absence an agent wrote from a QUOTED section showing the unit is internal structure
+# of its parent. It is empty, and `--check` fails a row in it with no quotation. A failed
+# search is never an absence (CONTEXT.md): "no creating section found" is not a row here.
+HUMAN_UNMAPPED: dict[str, str] = {
     # THE 33 SUB-UNITS REVIEWED 2026-09-12 (#222). Every one is a division or office whose
     # slug extends its parent's and which carries an OAR chapter but no separate
     # constitution. The operator read them as a set and found nothing separately
@@ -742,6 +771,10 @@ UNMAPPED: dict[str, str] = {
     #      enabling authority to record.",
 }
 
+AGENT_UNMAPPED: dict[str, str] = {}
+
+UNMAPPED: dict[str, str] = {**HUMAN_UNMAPPED, **AGENT_UNMAPPED}
+
 # ------------------------------------------------------- reviewed statutory names (#168)
 #
 # slug -> THE NAME THE BODY'S ENABLING AUTHORITY GIVES IT. ADR 0003 makes `name` the
@@ -764,7 +797,14 @@ UNMAPPED: dict[str, str] = {
 # titles to statutory names would be 190 false statements about Oregon law, and one that
 # promoted the 114 by pattern-matching would be an unknown number of them. A name that was
 # matched and not read does not belong here, for the reason MAPPED gives about citations.
-STATUTORY_NAMES: dict[str, str] = {
+#
+# WHO READ IT is the table, as for MAPPED above. HUMAN_NAMES are the six read before the
+# 2026-10-30 decision (the record is the comments); AGENT_NAMES were read since, and `--check`
+# fails a name in it that no quotation cited to its own authority prints
+# (`statutory-name-in-a-quote`). `STATUTORY_NAMES` is the union. A name in NEITHER table is an
+# agent's by default and needs the quotation, so a name added to the union alone cannot be
+# passed off as a human's.
+HUMAN_NAMES: dict[str, str] = {
     # READ BY A HUMAN AGAINST THE CITED TEXT, 2026-08-22, EACH WITH THE SENTENCE IT WAS READ
     # OFF. The sentence is quoted here for the reason `--propose` quotes one into the review
     # sheet: it makes the next reader's job reading rather than research, and it is the only
@@ -812,7 +852,9 @@ STATUTORY_NAMES: dict[str, str] = {
     # constitutional citation against its whole ARTICLE and not the one cited section alone
     # (#220's acceptance criterion; `constitution_article_texts()` below).
     "secretary-of-state": "Secretary of State",
+}
 
+AGENT_NAMES: dict[str, str] = {
     # AGENT QUOTE-CHECKED, 2026-10-30 (operator decision; ADR 0003's amendment). The name is
     # the one the cited section PRINTS, as it prints it (the typographic apostrophe included),
     # and the sentence that prints it is in QUOTE_CHECKS, matched word for word by --check.
@@ -1011,6 +1053,13 @@ STATUTORY_NAMES: dict[str, str] = {
     "water-resources-commission": "Water Resources Commission",
     "youth-development-council": "Youth Development Council",
 }
+
+STATUTORY_NAMES: dict[str, str] = {**HUMAN_NAMES, **AGENT_NAMES}
+
+# The slugs whose review is a human's, as the checks below take them: anything recorded and not
+# listed here is an agent's and has to carry its quotation.
+ByHuman = collections.namedtuple("ByHuman", "authorities absences names")
+BY_HUMAN = ByHuman(frozenset(HUMAN_MAPPED), frozenset(HUMAN_UNMAPPED), frozenset(HUMAN_NAMES))
 
 # ------------------------------------------- agent quote-checks (operator decision 2026-10-30)
 #
@@ -2663,7 +2712,8 @@ def _squash(text) -> str:
     return " ".join(str(text).split())
 
 
-def audit_quote_checks(orgs, mapped, unmapped, names, quotes, documents) -> list[Failure]:
+def audit_quote_checks(orgs, mapped, unmapped, names, quotes, documents,
+                       human) -> list[Failure]:
     """Everything wrong with QUOTE_CHECKS, as Failures: the record of what an agent read.
 
     `documents` is `quote_document_lookups()` and has NO DEFAULT, for the reason
@@ -2677,6 +2727,15 @@ def audit_quote_checks(orgs, mapped, unmapped, names, quotes, documents) -> list
     `## Full text` to look in, or the section is held and does not say it. The last is a wrong
     or stale record; the first three are a record nobody could re-perform, and none of them
     may be reported as the last.
+
+    `human` is `BY_HUMAN` (or a fixture's) and has NO DEFAULT either: it is what says whose
+    review a row's authority, absence and name is, and a default would make every row one
+    kind. WHAT IS NOT IN IT IS AN AGENT'S, and an agent's review IS its quotation: a recorded
+    authority with no quotation cited to its own section, an absence with no quotation and a
+    name no quotation of its authority prints each fail, so a row cannot be promoted without
+    one and then read as a human's (`agent-review-has-a-quote`, `statutory-name-in-a-quote`).
+    A quotation on a row a human reviewed is additional evidence and is checked like any other
+    (`quote-in-the-cited-text`) but is never required.
 
     THE QUOTATION IS MATCHED INSIDE THE SECTION'S OWN `## Full text` AND NOWHERE ELSE
     (`repo_lib.quote_in_full_text`, the one matcher this repository has): not the mirror's
@@ -2743,13 +2802,44 @@ def audit_quote_checks(orgs, mapped, unmapped, names, quotes, documents) -> list
                     "in the `## Full text` of that section — a wrong quotation, a section "
                     "that has changed since it was taken, or words from the mirror's own "
                     "banner, heading or provenance block, which are not the section"))
-        name = names.get(slug)
-        if name is not None and not any(name in _squash(q) for _, q in _good_pairs(pairs)):
+    # AN AGENT'S REVIEW IS ITS QUOTATION, so a row not listed as a human's has to carry one --
+    # for every row, not only the rows that happen to have an entry in QUOTE_CHECKS (the rules
+    # above visit only slugs that DO). Without this a name or an authority could be added to
+    # the union tables with no record at all and read, by the absence of a quotation, as a
+    # human's (ADR 0003's amendment, term 5: "read by a human" has to be a thing a table says).
+    def good(slug):
+        return _good_pairs(quotes.get(slug))
+
+    for slug in sorted(set(mapped) - set(human.authorities)):
+        if slug in by_slug and mapped[slug] not in [c for c, _ in good(slug)]:
+            problems.append(Failure(
+                "agent-review-has-a-quote", slug,
+                f"records the enabling authority {mapped[slug]!r}, which no human reviewed "
+                "(it is not in HUMAN_MAPPED), and QUOTE_CHECKS holds no quotation cited to "
+                "that section — an agent's review of an authority is the sentence of its "
+                "own section that creates or constitutes the body"))
+    for slug in sorted(set(unmapped) - set(human.absences)):
+        if slug in by_slug and not good(slug):
+            problems.append(Failure(
+                "agent-review-has-a-quote", slug,
+                "records a reviewed absence no human reviewed (it is not in HUMAN_UNMAPPED) "
+                "and QUOTE_CHECKS holds no quotation — an agent's `none: ` rests on a quoted "
+                "section showing the unit is internal structure of its parent, and a failed "
+                "search is not an absence"))
+    for slug in sorted(set(names) - set(human.names)):
+        if slug not in by_slug or not isinstance(names[slug], str):
+            continue                  # reported by the rules in audit_statutory_names
+        authority = mapped.get(slug)
+        if authority is not None and not any(
+                names[slug] in _squash(q) and c == authority for c, q in good(slug)):
             problems.append(Failure(
                 "statutory-name-in-a-quote", slug,
-                f"records the statutory name {name!r} and none of its quotations prints it — "
-                "an agent's review of a name is the sentence that PRINTS the name, and "
-                "without one the name rests on a reading nobody can re-perform"))
+                f"records the statutory name {names[slug]!r}, which no human reviewed (it is "
+                "not in HUMAN_NAMES), and no quotation cited to its authority "
+                f"({authority}) prints it — an agent's review of a name is the sentence that "
+                "PRINTS the name, and without one the name rests on a reading nobody can "
+                "re-perform"))
+
     # EVERY STATUTE PLACEMENT HAS THE SENTENCE THAT STATES IT, AND THE SENTENCE NAMES THE PARENT.
     # The relation's `authority` is written by derive_relation_kinds.py and is the body's OWN
     # enabling authority, so the section it cites is the body's constituting section -- and a
@@ -2823,6 +2913,27 @@ def _quote_names_the_parent(quote, child, parent, rows) -> bool:
             if not any(oa <= a and b <= ob and (ob - oa) > (b - a) for oa, ob in others):
                 return True
     return False
+
+
+def audit_review_tables(pairs) -> list[Failure]:
+    """A slug may be in only one of each pair of tables that says who reviewed it. `pairs` is
+    {what: (human table, agent table)}. The union tables everything reads would resolve a slug
+    in both silently -- as the human's -- and a row an agent wrote would pass for one a human
+    read, which is the confusion `agent-review-has-a-quote` exists to prevent."""
+    problems = []
+    for what, (human_table, agent_table) in sorted(pairs.items()):
+        for slug in sorted(set(human_table) & set(agent_table)):
+            problems.append(Failure(
+                "review-record-is-one-kind", slug,
+                f"is in both the human and the agent table of {what} — a row's review is a "
+                "human's or an agent's, and whichever table a reader consults would be the "
+                "answer"))
+    return problems
+
+
+def _review_table_pairs():
+    return {"MAPPED": (HUMAN_MAPPED, AGENT_MAPPED), "UNMAPPED": (HUMAN_UNMAPPED, AGENT_UNMAPPED),
+            "STATUTORY_NAMES": (HUMAN_NAMES, AGENT_NAMES)}
 
 
 def audit_registry(orgs, mapped=None, unmapped=None, names=None) -> list[Failure]:
@@ -2944,7 +3055,8 @@ def cmd_apply() -> int:
                             constitutional_resolver(published_constitutional_sections()))
                 + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, text_lookups)
                 + audit_quote_checks(orgs, MAPPED, UNMAPPED, STATUTORY_NAMES, QUOTE_CHECKS,
-                                     quote_document_lookups()))
+                                     quote_document_lookups(), BY_HUMAN)
+                + audit_review_tables(_review_table_pairs()))
     if problems:
         print("refusing to write: the reviewed tables do not match the corpus",
               file=sys.stderr)
@@ -2979,7 +3091,8 @@ def check() -> int:
                             constitutional_resolver(published))
                 + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, text_lookups)
                 + audit_quote_checks(orgs, MAPPED, UNMAPPED, STATUTORY_NAMES, QUOTE_CHECKS,
-                                     quote_document_lookups())
+                                     quote_document_lookups(), BY_HUMAN)
+                + audit_review_tables(_review_table_pairs())
                 + audit_registry(orgs, MAPPED, UNMAPPED))
     if problems:
         print("the reviewed tables do not match the corpus:", file=sys.stderr)
@@ -3025,19 +3138,30 @@ def check() -> int:
     print(f"statutory names read off those authorities: {len(STATUTORY_NAMES)} of "
           f"{len(MAPPED)} reviewed authorities ({checked} checked against mirrored text, "
           f"{could_not_check} could not be); registry: {name_census(orgs)}")
-    # THE AGENT QUOTE-CHECKS, COUNTED BY WHAT THEY ARE THE RECORD OF (operator decision
-    # 2026-10-30). Every quotation below was re-matched word for word against the mirror by
-    # the audit above, which is why this line can be printed at all on a green run; the
-    # rows reviewed by a human before that decision carry no quotation and are the remainder.
-    quoted = {slug for slug, pairs in QUOTE_CHECKS.items()}
+    # WHO REVIEWED WHAT, COUNTED SEPARATELY (operator decision 2026-10-30; ADR 0003's amendment,
+    # term 5). A quotation on a row a human reviewed is additional evidence and is not that
+    # row's review, so the quotations are never added to the agent's count: the agent's reviews
+    # are the rows in the AGENT_ tables, each of which the audit above showed carries one. One
+    # figure for "reviewed authorities" counted every body with a quotation as the agent's, 113
+    # of 169 of which a human had read first.
+    quoted = set(QUOTE_CHECKS)
     placements = sum(1 for o in orgs for e in relation_entries(o)
                      if isinstance(e, dict) and e.get("source") == STATUTE_SOURCE)
-    print(f"agent quote-checks: {sum(len(v) for v in QUOTE_CHECKS.values())} quotation(s) "
-          f"for {len(quoted)} body(ies), each matched word for word against the mirrored "
-          f"section on this run — {len(quoted & set(MAPPED))} reviewed authorities, "
-          f"{len(quoted & set(UNMAPPED))} reviewed absences, "
-          f"{len(quoted & set(STATUTORY_NAMES))} statutory names, {placements} statute "
-          f"placement(s) (every one of them quoted, and the quotation names its parent)")
+    print("who reviewed what (a quotation on a human-reviewed row is additional evidence, "
+          "never its review):")
+    print(f"  enabling authorities : {len(AGENT_MAPPED)} agent quote-checked, "
+          f"{len(HUMAN_MAPPED)} human-reviewed before the 2026-10-30 decision "
+          f"({len(quoted & set(HUMAN_MAPPED))} of those also carry a quotation)")
+    print(f"  reviewed absences    : {len(AGENT_UNMAPPED)} agent quote-checked, "
+          f"{len(HUMAN_UNMAPPED)} human-reviewed before the decision "
+          f"({len(quoted & set(HUMAN_UNMAPPED))} of those also carry a quotation)")
+    print(f"  statutory names      : {len(AGENT_NAMES)} agent quote-checked, "
+          f"{len(HUMAN_NAMES)} human-reviewed before the decision "
+          f"({len(quoted & set(HUMAN_NAMES))} of those also carry a quotation)")
+    print(f"  quotations           : {sum(len(v) for v in QUOTE_CHECKS.values())} for "
+          f"{len(quoted)} body(ies), each matched word for word inside its section's "
+          f"`## Full text` on this run; {placements} statute placement(s), each with a "
+          "quotation that names its parent")
     return 0
 
 
@@ -3202,6 +3326,26 @@ def _fixture():
                                               constitution=const_texts),
             "documents": quote_document_lookups(ors=quote_docs_ors, eo={},
                                                 constitution=quote_docs_const),
+            # WHO REVIEWED WHAT. The ORS board and the constitutional office are an agent's
+            # (each carries its quotation); the executive-order office and the session-law
+            # one are a human's, and the executive-order office's name is too -- a human's name
+            # with NO quotation, which has to pass.
+            "human": ByHuman(authorities=frozenset({"office-of-imagined-orders",
+                                                    "legislative-imaginary-office"}),
+                             absences=frozenset(unmapped),
+                             names=frozenset({"office-of-imagined-orders"})),
+            "tables": {"MAPPED": ({"office-of-imagined-orders": mapped["office-of-imagined-orders"],
+                                   "legislative-imaginary-office":
+                                       mapped["legislative-imaginary-office"]},
+                                  {"board-of-imaginary-affairs":
+                                       mapped["board-of-imaginary-affairs"],
+                                   "imaginary-constitutional-office":
+                                       mapped["imaginary-constitutional-office"]}),
+                       "UNMAPPED": (dict(unmapped), {}),
+                       "STATUTORY_NAMES": ({"office-of-imagined-orders":
+                                                names["office-of-imagined-orders"]},
+                                           {k: v for k, v in names.items()
+                                            if k != "office-of-imagined-orders"})},
             "citations": {"ORS 999.999", "Executive Order 99-99"},
             "why_unresolved": constitutional_resolver(published_constitutional_sections())}
 
@@ -3234,7 +3378,8 @@ def _audit(f) -> list[Failure]:
                         f["why_unresolved"])
             + audit_statutory_names(f["orgs"], f["mapped"], f["names"], f["text_lookups"])
             + audit_quote_checks(f["orgs"], f["mapped"], f["unmapped"], f["names"],
-                                 f["quotes"], f["documents"])
+                                 f["quotes"], f["documents"], f["human"])
+            + audit_review_tables(f["tables"])
             + audit_registry(f["orgs"], f["mapped"], f["unmapped"], f["names"]))
 
 
@@ -3560,6 +3705,46 @@ def _case_statute_placement_under_a_longer_named_body(f):
             o["relations"][0]["authority"] = "ORS 999.995"
 
 
+def _case_agent_authority_with_no_quotation(f):
+    """An authority added to the table for a body no human reviewed and with no quotation. The
+    union table cannot tell it from a human's; the absence of a record is what it would read
+    as, and an agent's review IS its record."""
+    _set(f, "board-nobody-has-reviewed", "ORS 999.999")
+
+
+def _case_agent_name_with_no_quotation(f):
+    """The Long Term Care Ombudsman shape: a statutory name promoted on a row whose authority
+    section does print it, with no quotation anywhere. `statutory-name-in-the-cited-text` is
+    satisfied -- the section does print it -- and the row is still the agent's, unrecorded."""
+    _set(f, "board-nobody-has-reviewed", "ORS 999.999")
+    _set_name(f, "board-nobody-has-reviewed", "Board of Imaginary Affairs")
+
+
+def _case_agent_quotation_cited_to_another_section(f):
+    """The agent's quotation exists, is real, and is about another section than the one the
+    row records as its authority -- it reviews that section, not this authority."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.995", "The Board of Imaginary Affairs sits under the Office of Imagined "
+                        "Orders Annex.")]
+
+
+def _case_agent_absence_with_no_quotation(f):
+    """A reviewed absence an agent wrote with no quotation: `none: ` is a finding, and a
+    failed search is not one."""
+    reason = ("Part of the Board of Imaginary Affairs; nothing separately constitutes it "
+              "(ADR 0004), so there is no enabling authority to record.")
+    f["unmapped"]["board-nobody-has-reviewed"] = reason
+    for o in f["orgs"]:
+        if o["slug"] == "board-nobody-has-reviewed":
+            o["enabling_authority"] = no_authority_value(reason)
+
+
+def _case_row_in_the_human_and_the_agent_table(f):
+    """One authority recorded in both the human table and the agent table of the same fact:
+    the union resolves it silently as the human's."""
+    f["tables"]["MAPPED"][1]["office-of-imagined-orders"] = "Executive Order 99-99"
+
+
 def _case_slug_that_is_not_in_the_registry(f):
     """A reviewed row for a body this registry does not carry. The review is real and the
     body it names is unreachable, so the authority is recorded nowhere a reader can find."""
@@ -3673,6 +3858,18 @@ _CASES = [
      "quote-in-the-cited-text"),
     ("statutory-name-no-quotation-prints", _case_statutory_name_no_quotation_prints,
      "statutory-name-in-a-quote"),
+    ("agent-authority-with-no-quotation", _case_agent_authority_with_no_quotation,
+     "agent-review-has-a-quote"),
+    ("agent-name-with-no-quotation", _case_agent_name_with_no_quotation,
+     "statutory-name-in-a-quote"),
+    ("agent-quotation-cited-to-another-section", _case_agent_quotation_cited_to_another_section,
+     "agent-review-has-a-quote"),
+    ("agent-name-quoted-from-another-section", _case_agent_quotation_cited_to_another_section,
+     "statutory-name-in-a-quote"),
+    ("agent-absence-with-no-quotation", _case_agent_absence_with_no_quotation,
+     "agent-review-has-a-quote"),
+    ("row-in-the-human-and-the-agent-table", _case_row_in_the_human_and_the_agent_table,
+     "review-record-is-one-kind"),
     ("statute-placement-with-no-quotation", _case_statute_placement_with_no_quotation,
      "statute-placement-has-a-quote"),
     ("statute-placement-retargeted-to-another-body",

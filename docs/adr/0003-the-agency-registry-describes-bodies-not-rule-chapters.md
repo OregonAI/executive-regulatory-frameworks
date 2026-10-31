@@ -214,12 +214,13 @@ enabling-authority`, `enabling_authority`, a reviewed absence and a `source: sta
 require. The text above stands unedited, per this ADR's own convention; the "a human read" in the
 sentences listed is superseded by this section.
 
-**The terms, each of which a gate enforces.**
+**The terms, and what enforces each.**
 
 1. *The quotation comes from this corpus's own mirror.* It is taken from `statutes/` (or, for the
    other two forms of authority, `constitution/` and `executive-orders/`) — never from memory,
    another website, or anything outside the repository — and recorded with the section id in
-   `QUOTE_CHECKS` (`src/link_enabling_authority.py`). An acronym alias records the id of the
+   `QUOTE_CHECKS` (`src/link_enabling_authority.py`). Where it came from is enforced by term 2: a
+   quotation the mirror does not hold fails, whoever says they took it from there. An acronym alias records the id of the
    corpus document that pairs it with the body's name in `ALIAS_EVIDENCE`
    (`src/link_budget_codes.py`).
 2. *It is matched word for word, on every run, inside the section's own `## Full text`.*
@@ -238,8 +239,10 @@ sentences listed is superseded by this section.
    (a definition, a duty, a fund); a placement is recorded `source: statute` only with the
    sentence that states it, which has to name the relation's target as the body it sits under
    (`statute-placement-has-a-quote`; a quotation that names some other body, or the child alone,
-   fails it). The gates can match text; whether a
-   sentence shows the claim is what the agent who chose it answers for and a reviewer re-reads.
+   fails it). **No gate reads meaning**, and this is the term where that matters: the gates match
+   text and check that the sentence is there, names the body and, for a placement, names the
+   parent; whether a sentence SHOWS the claim (creates or constitutes the body, rather than
+   mentions it) is what the agent who chose it answers for and a reviewer re-reads.
    Where a section constitutes a body without a creation verb ("shall operate as a
    semi-independent state agency", "consists of nine members appointed by the Governor"),
    `link_enabling_authority.py`'s tier-3 question stands — constitutes, or describes one
@@ -250,9 +253,24 @@ sentences listed is superseded by this section.
    creating section was found keeps no `enabling_authority` key (nobody has looked yet, which is
    what the key's absence says) and is not recorded `none: `; `none: ` is for a unit whose parent's
    section shows it is internal structure of that parent (ADR 0004's *part of*).
-5. *Earlier review stands, and is distinguishable.* Every row reviewed before this amendment was
-   read by a human and carries no quotation. A row's absence from `QUOTE_CHECKS` therefore means
-   "read by a human", never "not reviewed".
+5. *Who reviewed a row stays distinguishable, and a quotation does not change it.* A row's review
+   is a human's or an agent's, and the tables in `src/link_enabling_authority.py` say which.
+   `HUMAN_MAPPED`, `HUMAN_UNMAPPED` and `HUMAN_NAMES` hold what was reviewed before this
+   amendment; their record is the tables' own comments and, for a `none: ` reason, the field's own
+   text ("reviewed 2026-09-12 by @morficflux"). `AGENT_MAPPED`, `AGENT_UNMAPPED` and `AGENT_NAMES`
+   hold what an agent has reviewed since, and the agent's record is `QUOTE_CHECKS`. The gate
+   makes the second kind impossible to write without its record: a row in an agent table, or in
+   neither table, that no quotation cited to its own section backs fails
+   (`agent-review-has-a-quote`, `statutory-name-in-a-quote`), so a promotion cannot be added with
+   no record and then read, by the absence of a quotation, as a human's. A slug in both tables of
+   one fact fails too (`review-record-is-one-kind`). A quotation on a row a human reviewed is
+   additional evidence and is never counted as that row's review: 111 of the 125 human-reviewed
+   authorities carry one, because an agent promoted their names from the same section, and
+   `--check` prints "56 agent quote-checked, 125 human-reviewed" and not the sum. Six of the 125
+   (the rows added with PR #452) were read by the agent that added them and have not yet been
+   confirmed by the maintainer, as their own comment in the table says; they predate this
+   decision and carry no quotation for their authority, so they sit in the human table with that
+   caveat; they are the six rows under the PR #452 comment in `HUMAN_MAPPED`.
 6. *An acronym is an alias only when the corpus pairs it with the name, and only for one body.* An
    acronym that two registry bodies are both called in the corpus (ODA, DOE, OSAC) is recorded for
    neither: an alias is an assertion of identity.
