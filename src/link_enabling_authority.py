@@ -137,8 +137,9 @@ import tempfile
 import yaml
 
 from catalog_agencies import (ENABLING_AUTHORITY_NAME, NAME_BASIS_KEY, NO_AUTHORITY,
-                              UNVERIFIED_OAR_TITLE, authority_census, classify_authority,
-                              name_census, no_authority_value, relation_entries)
+                              UNVERIFIED_OAR_TITLE, authority_census, authority_counts,
+                              classify_authority, name_census, no_authority_value,
+                              relation_entries)
 from check_rule_ledger import RuleLedger
 from repo_lib import MIN_QUOTE_WORDS, REPO_ROOT, orconst_id, quote_in_full_text
 # The relation source an ORS section's own statement of where a body sits is recorded under.
@@ -3197,8 +3198,12 @@ def check() -> int:
     # authority is admitting evidence ADR 0003 accepts and this corpus cannot look up, so it
     # is counted on its own line, not folded into "resolved against the mirror" beside it.
     forms = collections.Counter(classify_authority(a)[0] for a in MAPPED.values())
+    counts = authority_counts(orgs)
     print(f"enabling-authority table is consistent with the corpus: "
-          f"{authority_census(orgs)}.")
+          f"{counts['recorded']} recorded, {counts['reviewed_none']} reviewed with none to "
+          f"record, {counts['no_key']} of {counts['total']} bodies with no key "
+          f"({len(LOOKED_AT)} looked at and not recorded, "
+          f"{counts['no_key'] - len(LOOKED_AT)} not looked at yet).")
     print(f"  resolved against the mirror  : {forms['ors']} ORS, "
           f"{forms['executive-order']} executive order(s), "
           f"{forms['constitution']} constitutional")
