@@ -4,7 +4,7 @@
  "ubiquity_default": 40,
  "counts": {
   "agencies": 175,
-  "colored_groups": 15,
+  "colored_groups": 14,
   "ors_chapters": 442,
   "bodies_their_sources_disagree_about": 8
  },
@@ -50,13 +50,13 @@
    "members": 4
   },
   {
-   "slug": "oregon-department-of-education",
-   "name": "Department of Education",
-   "members": 4
-  },
-  {
    "slug": "department-of-state-police",
    "name": "Department of State Police",
+   "members": 3
+  },
+  {
+   "slug": "oregon-department-of-education",
+   "name": "Department of Education",
    "members": 3
   },
   {
@@ -67,11 +67,6 @@
   {
    "slug": "department-of-energy",
    "name": "State Department of Energy",
-   "members": 2
-  },
-  {
-   "slug": "department-of-state-lands",
-   "name": "Department of State Lands",
    "members": 2
   },
   {
@@ -1613,9 +1608,9 @@
    "slug": "department-of-environmental-quality",
    "name": "Department of Environmental Quality",
    "rules": 1809,
-   "parent": null,
-   "group": "department-of-environmental-quality",
-   "group_name": "Department of Environmental Quality",
+   "parent": "environmental-quality-commission",
+   "group": "environmental-quality-commission",
+   "group_name": "Environmental Quality Commission",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1650,9 +1645,9 @@
    "slug": "department-of-fish-and-wildlife",
    "name": "State Department of Fish and Wildlife",
    "rules": 1491,
-   "parent": null,
-   "group": "department-of-fish-and-wildlife",
-   "group_name": "State Department of Fish and Wildlife",
+   "parent": "state-fish-and-wildlife-commission",
+   "group": "state-fish-and-wildlife-commission",
+   "group_name": "State Fish and Wildlife Commission",
    "governance": "executive_branch",
    "chapters": [
     "167",
@@ -1681,9 +1676,9 @@
    "slug": "department-of-forestry",
    "name": "State Forestry Department",
    "rules": 503,
-   "parent": null,
-   "group": "department-of-forestry",
-   "group_name": "State Forestry Department",
+   "parent": "state-board-of-forestry",
+   "group": "state-board-of-forestry",
+   "group_name": "State Board of Forestry",
    "governance": "executive_branch",
    "chapters": [
     "164",
@@ -2047,9 +2042,9 @@
    "slug": "department-of-state-lands",
    "name": "Department of State Lands",
    "rules": 511,
-   "parent": null,
-   "group": "department-of-state-lands",
-   "group_name": "Department of State Lands",
+   "parent": "state-land-board",
+   "group": "state-land-board",
+   "group_name": "State Land Board",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -2838,9 +2833,9 @@
    "slug": "oregon-department-of-education",
    "name": "Department of Education",
    "rules": 743,
-   "parent": null,
-   "group": "oregon-department-of-education",
-   "group_name": "Department of Education",
+   "parent": "state-board-of-education",
+   "group": "state-board-of-education",
+   "group_name": "State Board of Education",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -4064,9 +4059,9 @@
    "slug": "water-resources-department",
    "name": "Water Resources Department",
    "rules": 685,
-   "parent": null,
-   "group": "water-resources-department",
-   "group_name": "Water Resources Department",
+   "parent": "water-resources-commission",
+   "group": "water-resources-commission",
+   "group_name": "Water Resources Commission",
    "governance": "executive_branch",
    "chapters": [
     "106",

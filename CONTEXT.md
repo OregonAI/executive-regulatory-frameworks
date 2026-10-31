@@ -537,7 +537,7 @@ _Avoid_: Evidence, provenance, reason — a basis says what a KIND was derived f
 The kind of a relation nobody has decided yet. Choosing between *part of* and *administered
 by* turns on whether the body carries its own admitting evidence (ADR 0004), and
 4 <!--census:agencies.relation_kind__undetermined--> of the
-96 <!--census:agencies.relation_total_relations--> relations have none of any strength — so
+110 <!--census:agencies.relation_total_relations--> relations have none of any strength — so
 `undetermined` is what they record, and
 `catalog_agencies.py --check` reports the count on every run. It says the relation is REAL
 and its kind unestablished, which is neither of the two kinds and is never a third one. It

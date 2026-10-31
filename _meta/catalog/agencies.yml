@@ -93,8 +93,13 @@ organizations:
   oar_chapter: null
   raw_index_name: Advisory Council on Hearing Aids
   source_url: null
-  parent_chapter: null
-  relations: []
+  parent_chapter: '331'
+  relations:
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 694.165
   absent_from_index_as_of: '2026-09-12'
   enabling_authority: ORS 694.165
 - slug: appraiser-certification-and-licensure-board
@@ -116,8 +121,13 @@ organizations:
   oar_chapter: null
   raw_index_name: Board of Athletic Trainers
   source_url: null
-  parent_chapter: null
-  relations: []
+  parent_chapter: '331'
+  relations:
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 688.705
   absent_from_index_as_of: '2026-09-12'
   enabling_authority: ORS 688.705
 - slug: board-of-chiropractic-examiners
@@ -138,8 +148,13 @@ organizations:
   oar_chapter: null
   raw_index_name: Board of Electrologists and Body Art Practitioners
   source_url: null
-  parent_chapter: null
-  relations: []
+  parent_chapter: '331'
+  relations:
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 690.401
   absent_from_index_as_of: '2026-09-12'
   enabling_authority: ORS 690.401
 - slug: board-of-examiners-for-engineering-and-land-surveying
@@ -1077,7 +1092,12 @@ organizations:
   raw_index_name: Dept. of Environmental Quality
   source_url: https://oregon.public.law/rules/oar_chapter_340
   parent_chapter: null
-  relations: []
+  relations:
+  - target: environmental-quality-commission
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 468.030
   das_agency_number: '340'
   enabling_authority: ORS 468.030
   aliases:
@@ -1091,7 +1111,12 @@ organizations:
   raw_index_name: Dept. of Fish & Wildlife
   source_url: https://oregon.public.law/rules/oar_chapter_635
   parent_chapter: null
-  relations: []
+  relations:
+  - target: state-fish-and-wildlife-commission
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 496.080
   das_agency_number: '635'
   enabling_authority: ORS 496.080
   aliases:
@@ -1105,7 +1130,12 @@ organizations:
   raw_index_name: Dept. of Forestry
   source_url: https://oregon.public.law/rules/oar_chapter_629
   parent_chapter: null
-  relations: []
+  relations:
+  - target: state-board-of-forestry
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 526.008
   das_agency_number: '629'
   aliases:
   - ODF
@@ -1264,7 +1294,12 @@ organizations:
   raw_index_name: Dept. of State Lands
   source_url: https://oregon.public.law/rules/oar_chapter_141
   parent_chapter: null
-  relations: []
+  relations:
+  - target: state-land-board
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 273.041
   das_agency_number: '141'
   enabling_authority: ORS 273.041
   aliases:
@@ -2020,8 +2055,13 @@ organizations:
   oar_chapter: null
   raw_index_name: Oregon Cannabis Commission
   source_url: null
-  parent_chapter: null
-  relations: []
+  parent_chapter: '943'
+  relations:
+  - target: oregon-health-authority
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 475C.930
   absent_from_index_as_of: '2026-09-12'
   enabling_authority: ORS 475C.930
 - slug: oregon-criminal-justice-commission
@@ -2056,7 +2096,12 @@ organizations:
   raw_index_name: Or. Dept. of Education
   source_url: https://oregon.public.law/rules/oar_chapter_581
   parent_chapter: null
-  relations: []
+  relations:
+  - target: state-board-of-education
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 326.111
   das_agency_number: '581'
   enabling_authority: ORS 326.111
   aliases:
@@ -2764,8 +2809,13 @@ organizations:
   oar_chapter: null
   raw_index_name: Oregon Retirement Savings Board
   source_url: null
-  parent_chapter: null
-  relations: []
+  parent_chapter: '170'
+  relations:
+  - target: oregon-state-treasury
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 178.200
   absent_from_index_as_of: '2026-09-12'
   enabling_authority: ORS 178.200
 - slug: oregon-state-library
@@ -3025,8 +3075,13 @@ organizations:
   oar_chapter: null
   raw_index_name: Respiratory Therapist and Polysomnographic Technologist Licensing Board
   source_url: null
-  parent_chapter: null
-  relations: []
+  parent_chapter: '331'
+  relations:
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 688.820
   absent_from_index_as_of: '2026-09-12'
   enabling_authority: ORS 688.820
 - slug: saif-corporation
@@ -3135,8 +3190,13 @@ organizations:
   oar_chapter: null
   raw_index_name: Sexual Offense Treatment Board
   source_url: null
-  parent_chapter: null
-  relations: []
+  parent_chapter: '331'
+  relations:
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 675.395
   absent_from_index_as_of: '2026-09-12'
   enabling_authority: ORS 675.395
 - slug: southern-oregon-university
@@ -3179,8 +3239,13 @@ organizations:
   oar_chapter: null
   raw_index_name: State Board of Denture Technology
   source_url: null
-  parent_chapter: null
-  relations: []
+  parent_chapter: '331'
+  relations:
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 680.556
   absent_from_index_as_of: '2026-09-12'
   enabling_authority: ORS 680.556
 - slug: state-board-of-education
@@ -3340,7 +3405,12 @@ organizations:
   raw_index_name: Water Resources Dept.
   source_url: https://oregon.public.law/rules/oar_chapter_690
   parent_chapter: null
-  relations: []
+  relations:
+  - target: water-resources-commission
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 536.039
   das_agency_number: '690'
   enabling_authority: ORS 536.039
   aliases:
