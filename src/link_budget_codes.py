@@ -110,29 +110,30 @@ MANUAL_ENTRIES = [
 #    every --check. The older aliases here (former names after a rename, the budget dataset's
 #    spellings) were reviewed by a human and carry no quotation.
 ALIASES = {
-    "department-of-forestry": ["State Forestry Department"],
+    "department-of-forestry": ["State Forestry Department", "ODF"],
     "land-conservation-and-development-department": [
-        "Department of Land Conservation and Development"],
+        "Department of Land Conservation and Development", "DLCD"],
     "department-of-state-police-office-of-state-fire-marshal": [
         "State Fire Marshal", "Department of the State Fire Marshal",
-        "Office of State Fire Marshal"],
+        "Office of State Fire Marshal", "OSFM"],
     # "Oregon Department of Emergency Management" IS an alias of this row (#212): HB 2927
     # (Oregon Laws 2021, ch.539) renamed the body and made it standalone, but the registry
     # carries this as ONE row, not two ("it is one body that moved, not two bodies," #212) —
     # the current statutory name is recorded as an alias so DAS budget code 258 still
     # resolves it, until this row's own `name` is promoted (see its `curator_note`).
     "oregon-military-department-office-of-emergency-management": [
-        "Office of Emergency Management", "Oregon Department of Emergency Management"],
+        "Office of Emergency Management", "Oregon Department of Emergency Management",
+        "ODEM", "OEM"],
     "oregon-department-of-education-early-learning-division": [
         "Early Learning Division of the Department of Education",
-        "Department of Early Learning and Care", "Early Learning Division"],
+        "Department of Early Learning and Care", "Early Learning Division", "DELC"],
     "oregon-department-of-education-youth-development-division": [
         "Youth Development Division"],
-    "oregon-state-treasury": ["State Treasurer", "Office of the State Treasurer"],
+    "oregon-state-treasury": ["State Treasurer", "Office of the State Treasurer", "OST"],
     # The 845 rename: Liquor Control Commission became the Liquor and Cannabis Commission.
     # The budget dataset already shows both across FY2019-FY2025; the code never changed.
     "oregon-liquor-control-commission": [
-        "Oregon Liquor and Cannabis Commission", "Liquor and Cannabis Commission"],
+        "Oregon Liquor and Cannabis Commission", "Liquor and Cannabis Commission", "OLCC"],
     # SB 337 (2023) renamed the public defense body: ORS 151.213(1) (2025 edition)
     # establishes "the Oregon Public Defense Commission", and OARD prints chapter 404 under
     # that name. One row, the OLCC and OEM pattern above: the current statutory name is an
@@ -142,7 +143,80 @@ ALIASES = {
     # OARD prints chapter 180 as "Office of the Public Records Advocate"; ORS 192.461(1)
     # creates "the office of the Public Records Advocate".
     "public-records-advocate": ["Office of the Public Records Advocate"],
-    "higher-education-coordinating-commission": ["Higher Education Coordinating Commission"],
+    "higher-education-coordinating-commission": ["Higher Education Coordinating Commission",
+                                                  "HECC"],
+    # ACRONYMS (operator decision 2026-10-30). Each one below is paired with its body's name by a
+    # quotation from a corpus document in ALIAS_EVIDENCE, matched word for word on every run.
+    "appraiser-certification-and-licensure-board": ["ACLB"],
+    "board-of-medical-imaging": ["OBMI"],
+    "board-of-nursing": ["OSBN"],
+    "board-of-parole-and-post-prison-supervision": ["BOPPPS"],
+    "bureau-of-labor-and-industries": ["BOLI"],
+    "commission-for-the-blind": ["OCB"],
+    "construction-contractors-board": ["CCB"],
+    "department-of-administrative-services": ["DAS"],
+    "department-of-administrative-services-chief-human-resources-office": ["CHRO"],
+    "department-of-administrative-services-office-of-the-state-chief-information-officer": ["OSCIO"],
+    "department-of-agriculture-oregon-potato-commission": ["OPC"],
+    "department-of-agriculture-oregon-sheep-commission": ["OSC"],
+    "department-of-agriculture-oregon-wheat-commission": ["OWC"],
+    "department-of-consumer-and-business-services": ["DCBS"],
+    "department-of-consumer-and-business-services-building-codes-division": ["BCD"],
+    "department-of-consumer-and-business-services-prescription-drug-affordability-board": ["PDAB"],
+    "department-of-consumer-and-business-services-workers-compensation-board": ["WCB"],
+    "department-of-consumer-and-business-services-workers-compensation-division": ["WCD"],
+    "department-of-corrections": ["DOC", "ODOC"],
+    "department-of-energy": ["ODOE"],
+    "department-of-energy-energy-facility-siting-council": ["EFSC"],
+    "department-of-environmental-quality": ["DEQ", "ODEQ"],
+    "department-of-fish-and-wildlife": ["ODFW", "ODF&W"],
+    "department-of-geology-and-mineral-industries": ["DOGAMI"],
+    "department-of-human-services": ["ODHS", "DHS"],
+    "department-of-human-services-home-care-commission": ["OHCC"],
+    "department-of-human-services-vocational-rehabilitation-services": ["OVRS"],
+    "department-of-justice": ["DOJ"],
+    "department-of-public-safety-standards-and-training": ["DPSST"],
+    "department-of-revenue": ["DOR"],
+    "department-of-state-lands": ["DSL"],
+    "department-of-state-lands-south-slough-national-estuarine-research-reserve": ["SSNERR"],
+    "department-of-state-police": ["OSP"],
+    "department-of-transportation": ["ODOT"],
+    "department-of-transportation-driver-and-motor-vehicle-services-division": ["DMV"],
+    "department-of-transportation-motor-carrier-transportation-division": ["MCTD"],
+    "department-of-veterans-affairs": ["ODVA"],
+    "economic-recovery-review-council": ["ERRC"],
+    "employment-department": ["OED"],
+    "employment-relations-board": ["ERB"],
+    "judicial-department": ["OJD"],
+    "land-use-board-of-appeals": ["LUBA"],
+    "legislative-commission-on-indian-services": ["LCIS"],
+    "office-of-training-investigations-and-safety": ["OTIS"],
+    "oregon-business-development-department": ["OBDD"],
+    "oregon-criminal-justice-commission": ["CJC"],
+    "oregon-department-of-education": ["ODE"],
+    "oregon-film-and-video-office": ["OFVO"],
+    "oregon-forest-resources-institute": ["OFRI"],
+    "oregon-government-ethics-commission": ["OGEC"],
+    "oregon-health-authority": ["OHA"],
+    "oregon-health-authority-health-licensing-office": ["HLO"],
+    "oregon-health-authority-oregon-educators-benefit-board": ["OEBB"],
+    "oregon-health-authority-public-employees-benefit-board": ["PEBB"],
+    "oregon-housing-and-community-services-department": ["OHCS"],
+    "oregon-investment-council": ["OIC"],
+    "oregon-military-department": ["OMD"],
+    "oregon-patient-safety-commission": ["OPSC"],
+    "oregon-public-employees-retirement-system": ["PERS"],
+    "oregon-racing-commission": ["ORC"],
+    "oregon-watershed-enhancement-board": ["OWEB"],
+    "oregon-youth-authority": ["OYA"],
+    "parks-and-recreation-department": ["OPRD"],
+    "psychiatric-security-review-board": ["PSRB"],
+    "public-utility-commission": ["PUC"],
+    "real-estate-agency": ["OREA"],
+    "secretary-of-state": ["SOS"],
+    "southern-oregon-university": ["SOU"],
+    "teacher-standards-and-practices-commission": ["TSPC"],
+    "water-resources-department": ["OWRD", "WRD"],
 }
 
 
@@ -161,6 +235,330 @@ ALIASES = {
 # each two bodies' too; an alias is an assertion of identity, and one the corpus itself uses
 # for two bodies would make a search for it depend on which row a reader reached first.
 ALIAS_EVIDENCE: dict[str, dict[str, tuple[str, str]]] = {
+    "appraiser-certification-and-licensure-board": {
+        "ACLB": ("oar-161-002-0000",
+                 "“ACLB” means the Oregon Appraiser Certification and Licensure Board"),
+    },
+    "board-of-medical-imaging": {
+        "OBMI": ("oar-337-010-0011",
+                 "Oregon Board of Medical Imaging (OBMI)"),
+    },
+    "board-of-nursing": {
+        "OSBN": ("oar-581-022-2220",
+                 "Oregon State Board of Nursing (OSBN)"),
+    },
+    "board-of-parole-and-post-prison-supervision": {
+        "BOPPPS": ("oar-859-400-0005",
+                 "“BOPPPS” means the Oregon Board of Parole and Post-Prison Supervision"),
+    },
+    "bureau-of-labor-and-industries": {
+        "BOLI": ("oar-812-025-0005",
+                 "“BOLI” means Bureau of Labor and Industries"),
+    },
+    "commission-for-the-blind": {
+        "OCB": ("oar-165-005-0055",
+                 "Oregon Commission for the Blind (OCB)"),
+    },
+    "construction-contractors-board": {
+        "CCB": ("oar-330-070-0026",
+                 "Construction Contractors Board (CCB)"),
+    },
+    "department-of-administrative-services": {
+        "DAS": ("oar-125-155-0010",
+                 "\"DAS\" means Department of Administrative Services"),
+    },
+    "department-of-administrative-services-chief-human-resources-office": {
+        "CHRO": ("oar-105-050-0025",
+                 "Chief Human Resources Office (CHRO)"),
+    },
+    "department-of-administrative-services-office-of-the-state-chief-information-officer": {
+        "OSCIO": ("das-107-004-150_pr",
+                 "Office of the State Chief Information Officer (OSCIO)"),
+    },
+    "department-of-agriculture-oregon-potato-commission": {
+        "OPC": ("oar-658-020-0005",
+                 "Oregon Potato Commission (OPC)"),
+    },
+    "department-of-agriculture-oregon-sheep-commission": {
+        "OSC": ("oar-644-005-0005",
+                 "Oregon Sheep Commission (OSC)"),
+    },
+    "department-of-agriculture-oregon-wheat-commission": {
+        "OWC": ("oar-678-005-0005",
+                 "Oregon Wheat Commission (OWC)"),
+    },
+    "department-of-consumer-and-business-services": {
+        "DCBS": ("oar-409-036-0010",
+                 "\"DCBS” means the Department of Consumer and Business Services"),
+    },
+    "department-of-consumer-and-business-services-building-codes-division": {
+        "BCD": ("oar-333-060-1000",
+                 "Building Codes Division (BCD)"),
+    },
+    "department-of-consumer-and-business-services-prescription-drug-affordability-board": {
+        "PDAB": ("oar-925-200-0010",
+                 "Prescription Drug Affordability Board (PDAB)"),
+    },
+    "department-of-consumer-and-business-services-workers-compensation-board": {
+        "WCB": ("schedule-consumer-business",
+                 "Workers' Compensation Board (WCB)"),
+    },
+    "department-of-consumer-and-business-services-workers-compensation-division": {
+        "WCD": ("schedule-consumer-business",
+                 "Workers’ Compensation Division (WCD)"),
+    },
+    "department-of-corrections": {
+        "DOC": ("oar-309-091-0005",
+                 "“DOC” means the Oregon Department of Corrections"),
+        "ODOC": ("doc-20-5-4",
+                 "Oregon Department of Corrections (ODOC)"),
+    },
+    "department-of-energy": {
+        "ODOE": ("oar-330-067-0020",
+                 "“ODOE” means the Oregon Department of Energy"),
+    },
+    "department-of-energy-energy-facility-siting-council": {
+        "EFSC": ("oar-141-087-0015",
+                 "Energy Facility Siting Council (EFSC)"),
+    },
+    "department-of-environmental-quality": {
+        "DEQ": ("oar-340-200-0025",
+                 "\"DEQ\" means Department of Environmental Quality"),
+        "ODEQ": ("oar-603-111-0010",
+                 "“ODEQ” means the Oregon Department of Environmental Quality"),
+    },
+    "department-of-fish-and-wildlife": {
+        "ODFW": ("oar-340-056-0100",
+                 "“ODFW” means the Oregon Department of Fish and Wildlife"),
+        "ODF&W": ("oar-736-060-0010",
+                 "“ODF&W” means the Oregon Department of Fish and Wildlife"),
+    },
+    "department-of-forestry": {
+        "ODF": ("oar-629-048-0005",
+                 "Oregon Department of Forestry (ODF)"),
+    },
+    "department-of-geology-and-mineral-industries": {
+        "DOGAMI": ("oar-690-078-0010",
+                 "“DOGAMI” means Department of Geology and Mineral Industries"),
+    },
+    "department-of-human-services": {
+        "ODHS": ("oar-414-075-0010",
+                 "“ODHS” means the Oregon Department of Human Services"),
+        "DHS": ("oar-411-004-0010",
+                 "\"DHS\" means the Department of Human Services"),
+    },
+    "department-of-human-services-home-care-commission": {
+        "OHCC": ("oar-411-003-0005",
+                 "Oregon Home Care Commission (OHCC)"),
+    },
+    "department-of-human-services-vocational-rehabilitation-services": {
+        "OVRS": ("oar-582-075-0010",
+                 "Vocational Rehabilitation Services (OVRS)"),
+    },
+    "department-of-justice": {
+        "DOJ": ("oar-137-055-5035",
+                 "Department of Justice (DOJ)"),
+    },
+    "department-of-public-safety-standards-and-training": {
+        "DPSST": ("oar-259-008-0005",
+                 "“DPSST” means the Department of Public Safety Standards and Training"),
+    },
+    "department-of-revenue": {
+        "DOR": ("oar-735-030-0005",
+                 "“DOR” means the Oregon Department of Revenue"),
+    },
+    "department-of-state-lands": {
+        "DSL": ("oar-690-385-0100",
+                 "“DSL” means the Department of State Lands"),
+    },
+    "department-of-state-lands-south-slough-national-estuarine-research-reserve": {
+        "SSNERR": ("schedule-state-lands",
+                 "South Slough National Estuarine Research Reserve (SSNERR)"),
+    },
+    "department-of-state-police": {
+        "OSP": ("oar-257-100-0005",
+                 "“OSP” means the Oregon Department of State Police"),
+    },
+    "department-of-state-police-office-of-state-fire-marshal": {
+        "OSFM": ("oar-837-035-0060",
+                 "Oregon State Fire Marshal (OSFM)"),
+    },
+    "department-of-transportation": {
+        "ODOT": ("oar-731-017-0010",
+                 "“ODOT” means the Oregon Department of Transportation"),
+    },
+    "department-of-transportation-driver-and-motor-vehicle-services-division": {
+        "DMV": ("oar-735-018-0010",
+                 "“DMV” means the Driver and Motor Vehicle Services Division"),
+    },
+    "department-of-transportation-motor-carrier-transportation-division": {
+        "MCTD": ("oar-345-060-0004",
+                 "Motor Carrier Transportation Division (MCTD)"),
+    },
+    "department-of-veterans-affairs": {
+        "ODVA": ("oar-274-020-0200",
+                 "“ODVA\" means the Oregon Department of Veterans’ Affairs"),
+    },
+    "economic-recovery-review-council": {
+        "ERRC": ("oar-966-100-0200",
+                 "“ERRC” means the Economic Recovery Review Council"),
+    },
+    "employment-department": {
+        "OED": ("oar-471-007-0210",
+                 "Oregon Employment Department (OED)"),
+    },
+    "employment-relations-board": {
+        "ERB": ("oar-411-002-0155",
+                 "Employment Relations Board (ERB)"),
+    },
+    "higher-education-coordinating-commission": {
+        "HECC": ("oar-817-005-0005",
+                 "“HECC” means Higher Education Coordinating Commission"),
+    },
+    "judicial-department": {
+        "OJD": ("oar-257-010-0060",
+                 "Oregon Judicial Department (OJD)"),
+    },
+    "land-conservation-and-development-department": {
+        "DLCD": ("oar-660-041-0010",
+                 "\"DLCD\" means the Department of Land Conservation and Development"),
+    },
+    "land-use-board-of-appeals": {
+        "LUBA": ("oar-340-018-0020",
+                 "“LUBA” means the Land Use Board of Appeals"),
+    },
+    "legislative-commission-on-indian-services": {
+        "LCIS": ("oar-736-051-0010",
+                 "Legislative Commission on Indian Services (LCIS)"),
+    },
+    "office-of-training-investigations-and-safety": {
+        "OTIS": ("oar-419-240-0100",
+                 "Office of Training, Investigations and Safety (OTIS)"),
+    },
+    "oregon-business-development-department": {
+        "OBDD": ("oar-123-670-0001",
+                 "Oregon Business Development Department (OBDD)"),
+    },
+    "oregon-criminal-justice-commission": {
+        "CJC": ("schedule-criminal-justice",
+                 "Oregon Criminal Justice Commission (CJC)"),
+    },
+    "oregon-department-of-education": {
+        "ODE": ("oar-581-051-0305",
+                 "\"ODE\" means the Oregon Department of Education"),
+    },
+    "oregon-department-of-education-early-learning-division": {
+        "DELC": ("oar-414-210-0100",
+                 "\"DELC\" means the Department of Early Learning and Care"),
+    },
+    "oregon-film-and-video-office": {
+        "OFVO": ("oar-951-003-0001",
+                 "“OFVO” means the Oregon Film and Video Office"),
+    },
+    "oregon-forest-resources-institute": {
+        "OFRI": ("oar-628-010-0005",
+                 "“OFRI” means the Oregon Forest Resources Institute"),
+    },
+    "oregon-government-ethics-commission": {
+        "OGEC": ("schedule-government-ethics",
+                 "Oregon Government Ethics Commission (OGEC)"),
+    },
+    "oregon-health-authority": {
+        "OHA": ("oar-340-245-0022",
+                 "“OHA” means Oregon Health Authority"),
+    },
+    "oregon-health-authority-health-licensing-office": {
+        "HLO": ("oar-816-005-0000",
+                 "“HLO” means the Health Licensing Office"),
+    },
+    "oregon-health-authority-oregon-educators-benefit-board": {
+        "OEBB": ("oar-409-025-0100",
+                 "“OEBB” means the Oregon Educators Benefit Board"),
+    },
+    "oregon-health-authority-public-employees-benefit-board": {
+        "PEBB": ("oar-459-035-0001",
+                 "“PEBB” means the Public Employees’ Benefit Board"),
+    },
+    "oregon-housing-and-community-services-department": {
+        "OHCS": ("oar-813-230-0000",
+                 "“OHCS” means the Housing and Community Services Department"),
+    },
+    "oregon-investment-council": {
+        "OIC": ("oar-459-050-0001",
+                 "“OIC” means the Oregon Investment Council"),
+    },
+    "oregon-liquor-control-commission": {
+        "OLCC": ("oar-845-002-0210",
+                 "“OLCC” means the Oregon Liquor and Cannabis Commission"),
+    },
+    "oregon-military-department": {
+        "OMD": ("das-60-000-01",
+                 "Oregon Military Department (OMD)"),
+    },
+    "oregon-military-department-office-of-emergency-management": {
+        "OEM": ("oar-128-030-0020",
+                 "Office of Emergency Management (OEM)"),
+        "ODEM": ("oar-104-010-0005",
+                 "Oregon Department of Emergency Management (ODEM)"),
+    },
+    "oregon-patient-safety-commission": {
+        "OPSC": ("oar-325-011-0045",
+                 "Oregon Patient Safety Commission (OPSC)"),
+    },
+    "oregon-public-employees-retirement-system": {
+        "PERS": ("oar-459-001-0000",
+                 "Public Employees Retirement System (PERS)"),
+    },
+    "oregon-racing-commission": {
+        "ORC": ("oar-462-220-0010",
+                 "Oregon Racing Commission (ORC)"),
+    },
+    "oregon-state-treasury": {
+        "OST": ("oar-170-055-0001",
+                 "“OST” means the Office of the State Treasurer"),
+    },
+    "oregon-watershed-enhancement-board": {
+        "OWEB": ("oar-695-004-0020",
+                 "“OWEB” means the Oregon Watershed Enhancement Board"),
+    },
+    "oregon-youth-authority": {
+        "OYA": ("oar-411-346-0110",
+                 "\"OYA\" means Oregon Youth Authority"),
+    },
+    "parks-and-recreation-department": {
+        "OPRD": ("oar-736-004-0015",
+                 "\"OPRD\" means the Oregon Parks and Recreation Department"),
+    },
+    "psychiatric-security-review-board": {
+        "PSRB": ("oar-309-035-0105",
+                 "\"PSRB” means the Oregon Psychiatric Security Review Board"),
+    },
+    "public-utility-commission": {
+        "PUC": ("oar-166-150-0185",
+                 "Oregon Public Utility Commission (PUC)"),
+    },
+    "real-estate-agency": {
+        "OREA": ("oar-863-015-0245",
+                 "Oregon Real Estate Agency (OREA)"),
+    },
+    "secretary-of-state": {
+        "SOS": ("oar-340-200-0025",
+                 "\"SOS\" means Secretary of State"),
+    },
+    "southern-oregon-university": {
+        "SOU": ("oar-573-050-0005",
+                 "Southern Oregon University (SOU)"),
+    },
+    "teacher-standards-and-practices-commission": {
+        "TSPC": ("oar-581-055-0001",
+                 "“TSPC” means the Oregon Teacher Standards and Practices Commission"),
+    },
+    "water-resources-department": {
+        "OWRD": ("oar-123-039-0010",
+                 "“OWRD” means the Oregon Water Resources Department"),
+        "WRD": ("oar-340-056-0100",
+                 "“WRD” means Water Resources Department"),
+    },
 }
 
 # A single token with two or more capitals is an acronym for this table's purposes.
@@ -198,6 +596,26 @@ def corpus_document_text(doc_id: str):
     return " ".join((text[i:] if i >= 0 else text).split())
 
 
+def _name_forms(name) -> set:
+    """The spellings of one body name a corpus document may print it as, folded: the name, the
+    name without a leading `Oregon `, `State ` or `the `, and — for the OAR index's compound
+    `Parent, Child` — the child alone, which is what a rule prints when it names the body
+    inside its own chapter. Folded for the 'is it in the quotation' test only."""
+    if not isinstance(name, str) or not name.strip():
+        return set()
+    forms = {name}
+    if "," in name:
+        # COMPOUND NAME — NAME: the tail segment is the body's OWN name, the string a rule in
+        # its own chapter prints. The head segment — the parent — is discarded and no
+        # placement is derived from the string: hierarchy lives in `relations` (#174).
+        forms.add(name.rsplit(",", 1)[1].strip())
+    for form in list(forms):
+        for prefix in ("Oregon ", "State ", "the ", "The "):
+            if form.startswith(prefix):
+                forms.add(form[len(prefix):])
+    return {_fold(f) for f in forms if len(f.split()) >= 2}
+
+
 def _fold(text) -> str:
     """A name or quotation folded for the 'is one of the body's names in it' test only: case
     and the typographic apostrophe, nothing else. The word-for-word match of the quotation
@@ -232,8 +650,10 @@ def audit_alias_evidence(cat, aliases, evidence, doc_text, fallback_names=None) 
         # body is known by — the statutory `name`, the OAR `oar_name` and its non-acronym
         # aliases — to decide whether the document is talking about this body. A document
         # prints whichever spelling its source used, so matching either is the point.
-        own_names = [_fold(n) for n in [row.get("name"), row.get("oar_name")]
-                     + [a for a in aliases[slug] if not ACRONYM.fullmatch(a)] if n]
+        own_names = set()
+        for n in ([row.get("name"), row.get("oar_name")]
+                  + [a for a in aliases[slug] if not ACRONYM.fullmatch(a)]):
+            own_names |= _name_forms(n)
         for alias, pair in sorted(by_alias.items()):
             if alias not in aliases[slug]:
                 problems.append(f"{slug}: ALIAS_EVIDENCE holds evidence for {alias!r}, which "
