@@ -802,6 +802,9 @@ def all_aliases(cat, hand=None) -> dict:
     (`audit_registry_aliases`), so deleting one from the file fails and so does adding one."""
     out = {slug: list(names) for slug, names in (ALIASES if hand is None else hand).items()}
     for o in cat["organizations"]:
+        # NAME READER — MACHINERY: asks whether the statutory `name` has replaced the OAR title
+        # (name differs from oar_name on a promoted row), which is what makes the title an alias.
+        # It compares the two fields with each other and decides nothing about what either means.
         if (o.get(catalog_agencies.NAME_BASIS_KEY) == catalog_agencies.ENABLING_AUTHORITY_NAME
                 and o.get("oar_name") and o.get("name") != o.get("oar_name")):
             names = out.setdefault(o["slug"], [])
@@ -820,6 +823,8 @@ def audit_alias_names(cat, aliases, fallback_names=None) -> list[str]:
     by_slug = {o["slug"]: o for o in cat["organizations"]}
     problems = []
     for slug, names in sorted(aliases.items()):
+        # NAME READER — JOIN: an alias compared with the row's own `name`, exactly, to refuse an
+        # alias that names nothing `name` does not. It matches the string and derives no placement.
         own = (by_slug.get(slug) or {}).get("name") or fallback_names.get(slug)
         for alias in names:
             if own and alias.strip() == own.strip():
@@ -948,6 +953,10 @@ def other_pairings(cat, aliases, pairings) -> dict:
         own = set()
         for slug in owners[acronym]:
             row = by_slug.get(slug) or {}
+            # NAME READER — JOIN: the names a body is known by (`name`, `oar_name` and its
+            # non-acronym aliases), matched against the name a corpus document pairs an acronym
+            # with, to tell the body's own spelling from another body's. A match is read, never
+            # a placement derived from it.
             for n in [row.get("name"), row.get("oar_name")] + [
                     a for a in aliases.get(slug, []) if not ACRONYM.fullmatch(a)]:
                 own |= _name_forms(n)

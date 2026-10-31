@@ -2925,6 +2925,8 @@ def audit_quote_checks(orgs, mapped, unmapped, names, quotes, documents,
                     "beside the relation"))
             elif not any(_quote_names_the_parent(q, o, by_slug.get(target), by_slug.values())
                          for q in from_section):
+                # NAME READER — DISPLAY: the target's `name` printed in a failure message so a
+                # reader sees which body the quotation was expected to name.
                 problems.append(Failure(
                     "statute-placement-has-a-quote", slug,
                     f"is placed under {target!r} by `source: {STATUTE_SOURCE}` "
@@ -2940,6 +2942,9 @@ def _row_names(row) -> list[str]:
     """Every name one registry row is known by: `name`, `oar_name` and `aliases`."""
     if not isinstance(row, dict):
         return []
+    # NAME READER — JOIN: every name the body is known by, searched for in a quotation to decide
+    # whether the sentence names this body as the parent. A quotation is matched against the
+    # strings; nothing is derived from a string's shape.
     out = [row.get("name"), row.get("oar_name")] + list(row.get("aliases") or [])
     return [n for n in out if isinstance(n, str) and n.strip()]
 

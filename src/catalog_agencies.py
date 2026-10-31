@@ -3181,7 +3181,7 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None,
             marked = [o for o in orgs if isinstance(o, dict) and o.get(ABSENT_FROM_INDEX_KEY)]
             chaptered = sorted(str(o["oar_chapter"]) for o in marked if o.get("oar_chapter"))
             stated = (int(m.group(1)), int(m.group(2)),
-                      sorted(c.strip() for c in m.group(3).split(",") if c.strip()))
+                      sorted(re.findall(r"\d+[a-z]?", m.group(3))))
             live = (len(marked), len(chaptered), chaptered)
             if stated != live:
                 failures.append(Failure(
