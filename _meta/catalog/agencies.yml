@@ -77,18 +77,23 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   rows, not all of them — the other four hold a source_url that is not a chapter page (three hold the
   mirror''s own rules index, https://oregon.public.law/rules, and the saif-corporation row holds its own
   site). aliases, where present, are other names the same body is known by, including former names after
-  a rename — reviewed once, curated, and preserved across --refresh. An acronym enters only with a quote
-  from a corpus document that pairs it with the body''s name, recorded with that document''s id in src/link_budget_codes.py''s
-  ALIAS_EVIDENCE and matched word for word on every run. note is scrape-only (#178): cmd_refresh() writes
-  one of exactly three sentences into it, when a chapter page''s title will not parse, its fetch fails,
-  or a chapterless group''s children disagree on a name prefix, and nothing else may live there, `manual`
-  or not. curator_note holds hand-typed prose about a row instead, protected across --refresh the way
-  das_agency_number is: a finding a hand edit cannot safely fold into a gated field, such as why a row
-  is absent from the index when it carries a chapter the mirror''s own index omits, or a body''s identity
-  change the current derivation contract cannot yet state as a relation (#212). This paragraph is itself
-  checked against FIELDS by name on every --check run (`note-covers-fields`, #185): a field FIELDS declares
-  that these sentences do not mention fails the gate, so this note cannot go stale the way it did before
-  anything watched it.'
+  a rename — reviewed once, curated, and preserved across --refresh. The OAR title a promoted statutory
+  name replaced is one: name was that title until the row''s name_basis became enabling-authority, oar_name
+  still records it, and it is kept as an alias (written by src/link_budget_codes.py from the row''s own
+  oar_name, so the evidence is the row itself and nothing is typed twice); an alias equal to the row''s
+  own name is refused. An acronym (any single token with two or more capitals, dotted and hyphenated ones
+  too) enters only with a quote from a corpus document that pairs it with the body''s name, recorded with
+  that document''s id in src/link_budget_codes.py''s ALIAS_EVIDENCE and matched word for word inside that
+  document''s `## Full text` on every run, and is not recorded at all when any corpus document pairs it
+  with another body (SHARED_ACRONYMS there). note is scrape-only (#178): cmd_refresh() writes one of exactly
+  three sentences into it, when a chapter page''s title will not parse, its fetch fails, or a chapterless
+  group''s children disagree on a name prefix, and nothing else may live there, `manual` or not. curator_note
+  holds hand-typed prose about a row instead, protected across --refresh the way das_agency_number is:
+  a finding a hand edit cannot safely fold into a gated field, such as why a row is absent from the index
+  when it carries a chapter the mirror''s own index omits, or a body''s identity change the current derivation
+  contract cannot yet state as a relation (#212). This paragraph is itself checked against FIELDS by name
+  on every --check run (`note-covers-fields`, #185): a field FIELDS declares that these sentences do not
+  mention fails the gate, so this note cannot go stale the way it did before anything watched it.'
 source_url: https://oregon.public.law/rules
 retrieved: '2026-07-20'
 organizations:
@@ -147,6 +152,8 @@ organizations:
   relations: []
   das_agency_number: '811'
   enabling_authority: ORS 684.130
+  aliases:
+  - Board of Chiropractic Examiners
 - slug: board-of-electrologists-and-body-art-practitioners
   name: Board of Electrologists and Body Art Practitioners
   name_basis: enabling-authority
@@ -173,6 +180,8 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 672.240
+  aliases:
+  - Board of Examiners for Engineering and Land Surveying
 - slug: board-of-examiners-for-speech-language-pathology-and-audiology
   name: State Board of Examiners for Speech-Language Pathology and Audiology
   name_basis: enabling-authority
@@ -183,6 +192,8 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 681.400
+  aliases:
+  - Board of Examiners for Speech-Language Pathology and Audiology
 - slug: board-of-geologist-examiners
   name: State Board of Geologist Examiners
   name_basis: enabling-authority
@@ -193,6 +204,8 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 672.615
+  aliases:
+  - Board of Geologist Examiners
 - slug: board-of-licensed-social-workers
   name: State Board of Licensed Social Workers
   name_basis: enabling-authority
@@ -204,6 +217,8 @@ organizations:
   relations: []
   das_agency_number: '124'
   enabling_authority: ORS 675.590
+  aliases:
+  - Board of Licensed Social Workers
 - slug: board-of-massage-therapists
   name: State Board of Massage Therapists
   name_basis: enabling-authority
@@ -214,6 +229,8 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 687.115
+  aliases:
+  - Board of Massage Therapists
 - slug: board-of-medical-imaging
   name: Board of Medical Imaging
   name_basis: enabling-authority
@@ -238,6 +255,7 @@ organizations:
   das_agency_number: '851'
   enabling_authority: ORS 678.140
   aliases:
+  - Board of Nursing
   - OSBN
 - slug: board-of-optometry
   name: Oregon Board of Optometry
@@ -249,6 +267,8 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 683.250
+  aliases:
+  - Board of Optometry
 - slug: board-of-parole-and-post-prison-supervision
   name: State Board of Parole and Post-Prison Supervision
   name_basis: enabling-authority
@@ -262,6 +282,7 @@ organizations:
   enabling_authority: ORS 144.005
   aliases:
   - BOPPPS
+  - Board of Parole and Post-Prison Supervision
 - slug: board-of-pharmacy
   name: State Board of Pharmacy
   name_basis: enabling-authority
@@ -273,6 +294,8 @@ organizations:
   relations: []
   das_agency_number: '855'
   enabling_authority: ORS 689.115
+  aliases:
+  - Board of Pharmacy
 - slug: board-of-trustees-of-southern-oregon-university
   name: Board of Trustees of Southern Oregon University
   name_basis: enabling-authority
@@ -328,6 +351,8 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 250.137
+  aliases:
+  - Citizens' Initiative Review Commission
 - slug: columbia-river-gorge-commission
   name: Columbia River Gorge Commission
   name_basis: enabling-authority
@@ -462,6 +487,7 @@ organizations:
   enabling_authority: ORS 184.305
   aliases:
   - DAS
+  - Department of Administrative Services
 - slug: department-of-administrative-services-chief-financial-office
   name: Department of Administrative Services, Chief Financial Office
   name_basis: unverified-oar-title
@@ -525,6 +551,8 @@ organizations:
   relations: []
   das_agency_number: '603'
   enabling_authority: ORS 561.010
+  aliases:
+  - Department of Agriculture
 - slug: department-of-agriculture-oregon-albacore-commission
   name: Oregon Albacore Commission
   name_basis: enabling-authority
@@ -540,6 +568,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Albacore Commission
 - slug: department-of-agriculture-oregon-alfalfa-seed-commission
   name: Department of Agriculture, Oregon Alfalfa Seed Commission
   name_basis: unverified-oar-title
@@ -570,6 +600,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 577.210
   enabling_authority: ORS 577.210
+  aliases:
+  - Department of Agriculture, Oregon Beef Council
 - slug: department-of-agriculture-oregon-blueberry-commission
   name: Oregon Blueberry Commission
   name_basis: enabling-authority
@@ -585,6 +617,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Blueberry Commission
 - slug: department-of-agriculture-oregon-clover-seed-commission
   name: Oregon Clover Seed Commission
   name_basis: enabling-authority
@@ -600,6 +634,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Clover Seed Commission
 - slug: department-of-agriculture-oregon-dairy-products-commission
   name: Oregon Dairy Products Commission
   name_basis: enabling-authority
@@ -615,6 +651,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Dairy Products Commission
 - slug: department-of-agriculture-oregon-dungeness-crab-commission
   name: Oregon Dungeness Crab Commission
   name_basis: enabling-authority
@@ -630,6 +668,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Dungeness Crab Commission
 - slug: department-of-agriculture-oregon-fine-fescue-commission
   name: Oregon Fine Fescue Commission
   name_basis: enabling-authority
@@ -645,6 +685,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Fine Fescue Commission
 - slug: department-of-agriculture-oregon-hazelnut-commission
   name: Oregon Hazelnut Commission
   name_basis: enabling-authority
@@ -660,6 +702,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Hazelnut Commission
 - slug: department-of-agriculture-oregon-hop-commission
   name: Oregon Hop Commission
   name_basis: enabling-authority
@@ -675,6 +719,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Hop Commission
 - slug: department-of-agriculture-oregon-invasive-species-council
   name: Invasive Species Council
   name_basis: enabling-authority
@@ -690,6 +736,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 570.770
   enabling_authority: ORS 570.770
+  aliases:
+  - Department of Agriculture, Oregon Invasive Species Council
 - slug: department-of-agriculture-oregon-mint-commission
   name: Oregon Mint Commission
   name_basis: enabling-authority
@@ -705,6 +753,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Mint Commission
 - slug: department-of-agriculture-oregon-potato-commission
   name: Oregon Potato Commission
   name_basis: enabling-authority
@@ -721,6 +771,7 @@ organizations:
     authority: ORS 576.062
   enabling_authority: ORS 576.062
   aliases:
+  - Department of Agriculture, Oregon Potato Commission
   - OPC
 - slug: department-of-agriculture-oregon-processed-vegetable-commission
   name: Oregon Processed Vegetable Commission
@@ -737,6 +788,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Processed Vegetable Commission
 - slug: department-of-agriculture-oregon-raspberry-and-blackberry-commission
   name: Oregon Raspberry and Blackberry Commission
   name_basis: enabling-authority
@@ -752,6 +805,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Raspberry and Blackberry Commission
 - slug: department-of-agriculture-oregon-ryegrass-growers-seed-commission
   name: Oregon Ryegrass Growers Seed Commission
   name_basis: enabling-authority
@@ -767,6 +822,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Ryegrass Growers Seed Commission
 - slug: department-of-agriculture-oregon-salmon-commission
   name: Oregon Salmon Commission
   name_basis: enabling-authority
@@ -782,6 +839,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Salmon Commission
 - slug: department-of-agriculture-oregon-sheep-commission
   name: Oregon Sheep Commission
   name_basis: enabling-authority
@@ -798,6 +857,7 @@ organizations:
     authority: ORS 576.062
   enabling_authority: ORS 576.062
   aliases:
+  - Department of Agriculture, Oregon Sheep Commission
   - OSC
 - slug: department-of-agriculture-oregon-strawberry-commission
   name: Oregon Strawberry Commission
@@ -814,6 +874,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Strawberry Commission
 - slug: department-of-agriculture-oregon-sweet-cherry-commission
   name: Oregon Sweet Cherry Commission
   name_basis: enabling-authority
@@ -829,6 +891,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Sweet Cherry Commission
 - slug: department-of-agriculture-oregon-tall-fescue-commission
   name: Oregon Tall Fescue Commission
   name_basis: enabling-authority
@@ -844,6 +908,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Tall Fescue Commission
 - slug: department-of-agriculture-oregon-trawl-commission
   name: Oregon Trawl Commission
   name_basis: enabling-authority
@@ -859,6 +925,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Trawl Commission
 - slug: department-of-agriculture-oregon-wheat-commission
   name: Oregon Wheat Commission
   name_basis: enabling-authority
@@ -875,6 +943,7 @@ organizations:
     authority: ORS 578.030
   enabling_authority: ORS 578.030
   aliases:
+  - Department of Agriculture, Oregon Wheat Commission
   - OWC
 - slug: department-of-consumer-and-business-services
   name: Department of Consumer and Business Services
@@ -1010,6 +1079,7 @@ organizations:
     Prescription Drug Affordability Board is established in the Department of Consumer and Business Services''.'
   enabling_authority: ORS 646A.693
   aliases:
+  - Department of Consumer and Business Services, Prescription Drug Affordability Board
   - PDAB
 - slug: department-of-consumer-and-business-services-workers-compensation-board
   name: Workers’ Compensation Board
@@ -1027,6 +1097,7 @@ organizations:
     authority: ORS 656.712
   enabling_authority: ORS 656.712
   aliases:
+  - Department of Consumer and Business Services, Workers' Compensation Board
   - WCB
 - slug: department-of-consumer-and-business-services-workers-compensation-division
   name: Department of Consumer and Business Services, Workers' Compensation Division
@@ -1072,6 +1143,7 @@ organizations:
   das_agency_number: '330'
   enabling_authority: ORS 469.030
   aliases:
+  - Department of Energy
   - ODOE
 - slug: department-of-energy-energy-facility-siting-council
   name: Energy Facility Siting Council
@@ -1089,6 +1161,7 @@ organizations:
     authority: ORS 469.450
   enabling_authority: ORS 469.450
   aliases:
+  - Department of Energy, Energy Facility Siting Council
   - EFSC
 - slug: department-of-environmental-quality
   name: Department of Environmental Quality
@@ -1126,6 +1199,7 @@ organizations:
   das_agency_number: '635'
   enabling_authority: ORS 496.080
   aliases:
+  - Department of Fish and Wildlife
   - ODF&W
   - ODFW
 - slug: department-of-forestry
@@ -1144,8 +1218,8 @@ organizations:
     authority: ORS 526.008
   das_agency_number: '629'
   aliases:
+  - Department of Forestry
   - ODF
-  - State Forestry Department
   enabling_authority: ORS 526.008
 - slug: department-of-geology-and-mineral-industries
   name: Department of Geology and Mineral Industries
@@ -1171,7 +1245,6 @@ organizations:
   das_agency_number: '100'
   enabling_authority: ORS 409.010
   aliases:
-  - DHS
   - ODHS
 - slug: department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities
   name: Department of Human Services, Aging and People with Disabilities and Developmental Disabilities
@@ -1221,6 +1294,7 @@ organizations:
     authority: ORS 410.602
   enabling_authority: ORS 410.602
   aliases:
+  - Department of Human Services, Home Care Commission
   - OHCC
 - slug: department-of-human-services-self-sufficiency-programs
   name: Department of Human Services, Self-Sufficiency Programs
@@ -1264,8 +1338,6 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '137'
-  aliases:
-  - DOJ
   enabling_authority: ORS 180.210
 - slug: department-of-public-safety-standards-and-training
   name: Department of Public Safety Standards and Training
@@ -1394,6 +1466,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 463.113
   enabling_authority: ORS 463.113
+  aliases:
+  - Department of State Police, Oregon State Athletic Commission
 - slug: department-of-transportation
   name: Department of Transportation
   name_basis: enabling-authority
@@ -1519,6 +1593,7 @@ organizations:
   das_agency_number: '274'
   enabling_authority: ORS 406.005
   aliases:
+  - Department of Veterans' Affairs
   - ODVA
 - slug: district-attorneys-and-deputies
   name: District Attorneys and Deputies
@@ -1613,7 +1688,6 @@ organizations:
   das_agency_number: '525'
   aliases:
   - HECC
-  - Higher Education Coordinating Commission
   enabling_authority: ORS 350.050
 - slug: higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development
   name: Higher Education Coordinating Commission, Office of Community Colleges and Workforce Development
@@ -1662,6 +1736,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 348.511
   enabling_authority: ORS 348.511
+  aliases:
+  - Higher Education Coordinating Commission, Office of Student Access and Completion
 - slug: judicial-department
   name: Judicial Department
   name_basis: unverified-oar-title
@@ -1697,7 +1773,7 @@ organizations:
   das_agency_number: '660'
   aliases:
   - DLCD
-  - Department of Land Conservation and Development
+  - Land Conservation and Development Department
   enabling_authority: ORS 197.075
 - slug: land-use-board-of-appeals
   name: Land Use Board of Appeals
@@ -1722,6 +1798,8 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 671.459
+  aliases:
+  - Landscape Architect Board
 - slug: landscape-contractors-board
   name: State Landscape Contractors Board
   name_basis: enabling-authority
@@ -1732,6 +1810,8 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 671.630
+  aliases:
+  - Landscape Contractors Board
 - slug: legislative-administration-committee
   name: Legislative Administration Committee
   name_basis: enabling-authority
@@ -1872,6 +1952,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 675.775
   enabling_authority: ORS 675.775
+  aliases:
+  - Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
 - slug: mental-health-regulatory-agency-oregon-board-of-psychology
   name: Oregon Board of Psychology
   name_basis: enabling-authority
@@ -1887,6 +1969,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 675.100
   enabling_authority: ORS 675.100
+  aliases:
+  - Mental Health Regulatory Agency, Oregon Board of Psychology
 - slug: mortuary-and-cemetery-board
   name: State Mortuary and Cemetery Board
   name_basis: enabling-authority
@@ -1897,6 +1981,8 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 692.300
+  aliases:
+  - Mortuary and Cemetery Board
 - slug: occupational-therapy-licensing-board
   name: Occupational Therapy Licensing Board
   name_basis: enabling-authority
@@ -2112,6 +2198,7 @@ organizations:
   enabling_authority: ORS 326.111
   aliases:
   - ODE
+  - Oregon Department of Education
 - slug: oregon-department-of-education-early-learning-division
   name: Oregon Department of Education, Early Learning Division
   name_basis: unverified-oar-title
@@ -2166,6 +2253,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 342.930
   enabling_authority: ORS 342.930
+  aliases:
+  - Oregon Department of Education, Fair Dismissal Appeals Board
 - slug: oregon-department-of-education-youth-development-division
   name: Youth Development Division
   name_basis: enabling-authority
@@ -2181,7 +2270,7 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 417.852
   aliases:
-  - Youth Development Division
+  - Oregon Department of Education, Youth Development Division
   enabling_authority: ORS 417.852
 - slug: oregon-facilities-authority
   name: Oregon Facilities Authority
@@ -2312,6 +2401,7 @@ organizations:
     authority: ORS 676.560
   aliases:
   - HLO
+  - Oregon Health Authority, Health Licensing Office
   enabling_authority: ORS 676.560
 - slug: oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board
   name: Behavior Analysis Regulatory Board
@@ -2333,6 +2423,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 676.806
   enabling_authority: ORS 676.806
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board
 - slug: oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians
   name: Board of Certified Advanced Estheticians
   name_basis: enabling-authority
@@ -2353,6 +2445,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 676.650
   enabling_authority: ORS 676.650
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
 - slug: oregon-health-authority-health-licensing-office-board-of-cosmetology
   name: Board of Cosmetology
   name_basis: enabling-authority
@@ -2373,6 +2467,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 690.155
   enabling_authority: ORS 690.155
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Board of Cosmetology
 - slug: oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery
   name: State Board of Direct Entry Midwifery
   name_basis: enabling-authority
@@ -2393,6 +2489,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 687.470
   enabling_authority: ORS 687.470
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
 - slug: oregon-health-authority-health-licensing-office-board-of-licensed-dietitians
   name: Board of Licensed Dietitians
   name_basis: enabling-authority
@@ -2413,6 +2511,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 691.485
   enabling_authority: ORS 691.485
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians
 - slug: oregon-health-authority-health-licensing-office-environmental-health-registration-board
   name: Environmental Health Registration Board
   name_basis: enabling-authority
@@ -2433,6 +2533,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 700.210
   enabling_authority: ORS 700.210
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board
 - slug: oregon-health-authority-health-licensing-office-long-term-care-administrators-board
   name: Long Term Care Administrators Board
   name_basis: enabling-authority
@@ -2453,6 +2555,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 678.800
   enabling_authority: ORS 678.800
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
 - slug: oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters
   name: State Board of Sign Language Interpreters
   name_basis: enabling-authority
@@ -2482,6 +2586,8 @@ organizations:
     Language Interpreters''. Placed under the Oregon Health Authority, as its seven Health Licensing Office
     siblings are.'
   enabling_authority: ORS 676.780
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, State Board of Sign Language Interpreters
 - slug: oregon-health-authority-health-policy-and-analytics
   name: Health Policy and Analytics Division
   name_basis: enabling-authority
@@ -2497,6 +2603,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 442.011
   enabling_authority: ORS 442.011
+  aliases:
+  - Oregon Health Authority, Health Policy and Analytics
 - slug: oregon-health-authority-health-systems-division-addiction-services
   name: 'Oregon Health Authority, Health Systems Division: Addiction Services'
   name_basis: unverified-oar-title
@@ -2566,6 +2674,7 @@ organizations:
   enabling_authority: ORS 243.862
   aliases:
   - OEBB
+  - Oregon Health Authority, Oregon Educators Benefit Board
 - slug: oregon-health-authority-oregon-prescription-drug-program
   name: Oregon Prescription Drug Program
   name_basis: enabling-authority
@@ -2581,6 +2690,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 414.312
   enabling_authority: ORS 414.312
+  aliases:
+  - Oregon Health Authority, Oregon Prescription Drug Program
 - slug: oregon-health-authority-public-employees-benefit-board
   name: Public Employees’ Benefit Board
   name_basis: enabling-authority
@@ -2597,6 +2708,7 @@ organizations:
     authority: ORS 243.061
   enabling_authority: ORS 243.061
   aliases:
+  - Oregon Health Authority, Public Employees' Benefit Board
   - PEBB
 - slug: oregon-health-authority-public-health-division
   name: Oregon Health Authority, Public Health Division
@@ -2668,6 +2780,7 @@ organizations:
   enabling_authority: ORS 456.555
   aliases:
   - OHCS
+  - Oregon Housing and Community Services Department
 - slug: oregon-housing-stability-council
   name: Oregon Housing Stability Council
   name_basis: enabling-authority
@@ -2704,7 +2817,7 @@ organizations:
   aliases:
   - Liquor and Cannabis Commission
   - OLCC
-  - Oregon Liquor and Cannabis Commission
+  - Oregon Liquor Control Commission
   enabling_authority: ORS 471.705
 - slug: oregon-medical-board
   name: Oregon Medical Board
@@ -2811,8 +2924,6 @@ organizations:
   relations: []
   das_agency_number: '862'
   enabling_authority: ORS 462.210
-  aliases:
-  - ORC
 - slug: oregon-retirement-savings-board
   name: Oregon Retirement Savings Board
   name_basis: enabling-authority
@@ -2859,6 +2970,8 @@ organizations:
   relations: []
   das_agency_number: '250'
   enabling_authority: ORS 830.105
+  aliases:
+  - Oregon State Marine Board
 - slug: oregon-state-treasury
   name: Oregon State Treasury
   name_basis: unverified-oar-title
@@ -2870,7 +2983,6 @@ organizations:
   relations: []
   das_agency_number: '170'
   aliases:
-  - OST
   - Office of the State Treasurer
   - State Treasurer
 - slug: oregon-tourism-commission
@@ -2942,6 +3054,8 @@ organizations:
     Council''; the doubled parent is not carried into the name. ORS 541.861(1): ''The Environmental Restoration
     Council is established in the Oregon Watershed Enhancement Board.'''
   enabling_authority: ORS 541.861
+  aliases:
+  - Oregon Watershed Enhancement Board, Environmental Restoration Council
 - slug: oregon-watershed-enhancement-board-oregon-agricultural-heritage-program
   name: Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program
   name_basis: unverified-oar-title
@@ -2993,6 +3107,7 @@ organizations:
   das_agency_number: '634'
   aliases:
   - OPRD
+  - Parks and Recreation Department
   enabling_authority: ORS 390.111
 - slug: psychiatric-security-review-board
   name: Psychiatric Security Review Board
@@ -3040,6 +3155,7 @@ organizations:
   enabling_authority: ORS 756.014
   aliases:
   - PUC
+  - Public Utility Commission
 - slug: public-utility-commission-oregon-board-of-maritime-pilots
   name: Oregon Board of Maritime Pilots
   name_basis: enabling-authority
@@ -3055,6 +3171,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 776.105
   enabling_authority: ORS 776.105
+  aliases:
+  - Public Utility Commission, Oregon Board of Maritime Pilots
 - slug: real-estate-agency
   name: Real Estate Agency
   name_basis: enabling-authority
@@ -3106,6 +3224,8 @@ organizations:
   relations: []
   absent_from_index_as_of: '2026-09-12'
   enabling_authority: ORS 656.752
+  aliases:
+  - SAIF Corporation
 - slug: secretary-of-state
   name: Secretary of State
   name_basis: enabling-authority
@@ -3397,6 +3517,8 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 686.210
+  aliases:
+  - Veterinary Medical Examining Board
 - slug: water-resources-commission
   name: Water Resources Commission
   name_basis: enabling-authority

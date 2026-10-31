@@ -686,9 +686,12 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   placement to carry the sentence that states it and names the parent the relation targets
   (`statute-placement-has-a-quote`); `--selftest` proves each can fail. A quotation on a row a
   human reviewed is additional evidence and never that row's review, and `--check` prints the
-  agent's count and the human's separately. An acronym enters `aliases` the same way, with a
-  corpus document's id and the sentence that pairs it with the body's name, in `ALIAS_EVIDENCE`
-  (`src/link_budget_codes.py`). A body no creating section was found for gets NO
+  agent's count and the human's separately. An acronym (any single token with two or more
+  capitals) enters `aliases` the same way, with a corpus document's id and the sentence that
+  pairs it with the body's name, in `ALIAS_EVIDENCE` (`src/link_budget_codes.py`), and is not
+  recorded at all when any corpus document pairs it with another body (`SHARED_ACRONYMS`;
+  `--collisions` rescans). The OAR title a promoted name replaced is kept as an alias,
+  derived from `oar_name` by the same script, and an alias equal to the row's own name is refused. A body no creating section was found for gets NO
   `enabling_authority` key, never `none: ` — a failed search is "could not find", not "is not
   there".
 

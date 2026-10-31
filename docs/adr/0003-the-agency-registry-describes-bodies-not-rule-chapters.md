@@ -271,9 +271,30 @@ sentences listed is superseded by this section.
    confirmed by the maintainer, as their own comment in the table says; they predate this
    decision and carry no quotation for their authority, so they sit in the human table with that
    caveat; they are the six rows under the PR #452 comment in `HUMAN_MAPPED`.
-6. *An acronym is an alias only when the corpus pairs it with the name, and only for one body.* An
-   acronym that two registry bodies are both called in the corpus (ODA, DOE, OSAC) is recorded for
-   neither: an alias is an assertion of identity.
+6. *An acronym is an alias only when the corpus pairs it with the name, and with no other body.*
+   One rule, applied the same way to every acronym: no corpus document may pair it with a body
+   other than the one the alias names, in the registry or not. ODA (Agriculture and Aviation), DOE
+   (Energy and Education), OSAC (the Office of Student Access and Completion and the State
+   Athletic Commission), ORC (the Racing Commission and the OYA Research Committee), OST (the
+   State Treasurer and the Ocean Science Trust), DOJ (the Department of Justice and the United
+   States'), and DHS (Human Services and Homeland Security) are recorded for no body:
+   `SHARED_ACRONYMS` (`src/link_budget_codes.py`) holds, for each, two documents that pair it with
+   two bodies, `audit_shared_acronyms` re-matches both sentences on every run and fails an alias
+   that is one of them, and `link_budget_codes.py --collisions` rescans the corpus for the rest
+   (it reads about 44,000 documents and decides nothing: a pairing with a role, a code or a date is
+   not another body). "Acronym" is any single token with two or more capitals, so a dotted or
+   hyphenated one needs its quotation too. An alias is an assertion of identity, and one the
+   corpus itself uses for two bodies would make a search for it depend on which row a reader
+   reached first.
+7. *A promoted name keeps the title it replaced findable.* `name` was the OAR chapter title until
+   the statutory name replaced it; the title is another name the body is known by, and the row's
+   own `oar_name` still records it. It is kept as an alias, written by
+   `link_budget_codes.py` from `oar_name` (73 rows in this change, and the 3 a human promoted
+   earlier), so a consumer that joins on `name` and `aliases` and reads no `oar_name` keeps
+   resolving what the rules index and the budget dataset print, the straight-apostrophe titles of
+   the four names that now carry the typographic one included. The registry's `aliases` are
+   compared against that table in both directions, and an alias equal to the row's own name is
+   refused.
 
 **What this changes in the Consequences above.** "Adding a body now requires stating what ADMITTING
 evidence puts it there" is unchanged and now has a checkable form for a body with no OAR chapter:

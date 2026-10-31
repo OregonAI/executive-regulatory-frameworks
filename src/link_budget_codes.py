@@ -3,6 +3,7 @@
 
   python3 src/link_budget_codes.py           # write das_agency_number into agencies.yml
   python3 src/link_budget_codes.py --check   # verify the registry matches this table
+  python3 src/link_budget_codes.py --collisions  # rescan the corpus for acronyms paired with another body (reads ~44,000 documents; decides nothing)
 
 THE FIELD IS `das_agency_number` (CONTEXT.md). It used to also carry the same value under a
 deprecated `budget_agency_code` key, for one deprecation cycle (#175); #177 removed that key,
@@ -36,6 +37,7 @@ THE MATCHER'S OWN BUGS, RECORDED because they are the reason not to trust one:
 """
 from __future__ import annotations
 
+import collections
 import os
 import re
 import sys
@@ -151,13 +153,23 @@ MANUAL_ENTRIES = [
 #    AN ACRONYM IS AN ALIAS ONLY WITH A QUOTATION (operator decision 2026-10-30, ADR 0003's
 #    amendment): ALIAS_EVIDENCE below holds, for each one, the id of a document in this corpus
 #    that pairs it with the body's name and the sentence that does, and
-#    `audit_alias_evidence` re-matches the sentence against the document word for word on
-#    every --check. The older aliases here (former names after a rename, the budget dataset's
-#    spellings) were reviewed by a human and carry no quotation.
+#    `audit_alias_evidence` re-matches the sentence against the document's `## Full text`
+#    word for word on every --check. The older aliases here (former names after a rename, the
+#    budget dataset's spellings) were reviewed by a human and carry no quotation. An acronym
+#    is any single token with two or more capitals ("DOJ", "ODF&W", "O.B.M.I.", "OR-BMI"), not
+#    only a run of letters, and one the corpus pairs with ANOTHER body is not recorded for any
+#    (SHARED_ACRONYMS).
+#
+#    THIS TABLE IS THE ALIASES WRITTEN BY HAND. The registry's `aliases` are this table plus,
+#    for every row whose statutory name replaced its OAR title, that OAR title (`all_aliases`):
+#    the title is another name the body is known by, the row's own `oar_name` is the evidence
+#    for it, and SessionGateway's snapshot, which matches on `name` and `aliases` and not on
+#    `oar_name`, keeps resolving the string the rules index and the budget dataset print. An
+#    alias that equals the row's own name is refused (`audit_alias_names`): it names nothing
+#    `name` does not.
 ALIASES = {
-    "department-of-forestry": ["State Forestry Department", "ODF"],
-    "land-conservation-and-development-department": [
-        "Department of Land Conservation and Development", "DLCD"],
+    "department-of-forestry": ["ODF"],
+    "land-conservation-and-development-department": ["DLCD"],
     "department-of-state-police-office-of-state-fire-marshal": [
         "State Fire Marshal", "Department of the State Fire Marshal",
         "Office of State Fire Marshal", "OSFM"],
@@ -172,13 +184,10 @@ ALIASES = {
     "oregon-department-of-education-early-learning-division": [
         "Early Learning Division of the Department of Education",
         "Department of Early Learning and Care", "Early Learning Division", "DELC"],
-    "oregon-department-of-education-youth-development-division": [
-        "Youth Development Division"],
-    "oregon-state-treasury": ["State Treasurer", "Office of the State Treasurer", "OST"],
+    "oregon-state-treasury": ["State Treasurer", "Office of the State Treasurer"],
     # The 845 rename: Liquor Control Commission became the Liquor and Cannabis Commission.
     # The budget dataset already shows both across FY2019-FY2025; the code never changed.
-    "oregon-liquor-control-commission": [
-        "Oregon Liquor and Cannabis Commission", "Liquor and Cannabis Commission", "OLCC"],
+    "oregon-liquor-control-commission": ["Liquor and Cannabis Commission", "OLCC"],
     # SB 337 (2023) renamed the public defense body: ORS 151.213(1) (2025 edition)
     # establishes "the Oregon Public Defense Commission", and OARD prints chapter 404 under
     # that name. One row, the OLCC and OEM pattern above: the current statutory name is an
@@ -188,8 +197,7 @@ ALIASES = {
     # OARD prints chapter 180 as "Office of the Public Records Advocate"; ORS 192.461(1)
     # creates "the office of the Public Records Advocate".
     "public-records-advocate": ["Office of the Public Records Advocate"],
-    "higher-education-coordinating-commission": ["Higher Education Coordinating Commission",
-                                                  "HECC"],
+    "higher-education-coordinating-commission": ["HECC"],
     # ACRONYMS (operator decision 2026-10-30). Each one below is paired with its body's name by a
     # quotation from a corpus document in ALIAS_EVIDENCE, matched word for word on every run.
     "appraiser-certification-and-licensure-board": ["ACLB"],
@@ -216,10 +224,9 @@ ALIASES = {
     "department-of-environmental-quality": ["DEQ", "ODEQ"],
     "department-of-fish-and-wildlife": ["ODFW", "ODF&W"],
     "department-of-geology-and-mineral-industries": ["DOGAMI"],
-    "department-of-human-services": ["ODHS", "DHS"],
+    "department-of-human-services": ["ODHS"],
     "department-of-human-services-home-care-commission": ["OHCC"],
     "department-of-human-services-vocational-rehabilitation-services": ["OVRS"],
-    "department-of-justice": ["DOJ"],
     "department-of-public-safety-standards-and-training": ["DPSST"],
     "department-of-revenue": ["DOR"],
     "department-of-state-lands": ["DSL"],
@@ -251,7 +258,6 @@ ALIASES = {
     "oregon-military-department": ["OMD"],
     "oregon-patient-safety-commission": ["OPSC"],
     "oregon-public-employees-retirement-system": ["PERS"],
-    "oregon-racing-commission": ["ORC"],
     "oregon-watershed-enhancement-board": ["OWEB"],
     "oregon-youth-authority": ["OYA"],
     "parks-and-recreation-department": ["OPRD"],
@@ -275,10 +281,10 @@ ALIASES = {
 # reading of "pairs"; whether the document means THIS body by it is what the person or agent
 # who chose the quotation answers for.
 #
-# AN ACRONYM TWO BODIES BOTH USE IS NOT RECORDED FOR EITHER. ODA is the Oregon Department of
-# Agriculture in 27 documents and the Oregon Department of Aviation in 4, and DOE and OSAC are
-# each two bodies' too; an alias is an assertion of identity, and one the corpus itself uses
-# for two bodies would make a search for it depend on which row a reader reached first.
+# AN ACRONYM THAT ANY CORPUS DOCUMENT PAIRS WITH ANOTHER BODY IS NOT RECORDED FOR ANY. See
+# SHARED_ACRONYMS below, which holds each such acronym with the documents that pair it with two
+# bodies; an alias is an assertion of identity, and one the corpus itself uses for two bodies
+# would make a search for it depend on which row a reader reached first.
 ALIAS_EVIDENCE: dict[str, dict[str, tuple[str, str]]] = {
     "appraiser-certification-and-licensure-board": {
         "ACLB": ("oar-161-002-0000",
@@ -389,8 +395,6 @@ ALIAS_EVIDENCE: dict[str, dict[str, tuple[str, str]]] = {
     "department-of-human-services": {
         "ODHS": ("oar-414-075-0010",
                  "“ODHS” means the Oregon Department of Human Services"),
-        "DHS": ("oar-411-004-0010",
-                 "\"DHS\" means the Department of Human Services"),
     },
     "department-of-human-services-home-care-commission": {
         "OHCC": ("oar-411-003-0005",
@@ -399,10 +403,6 @@ ALIAS_EVIDENCE: dict[str, dict[str, tuple[str, str]]] = {
     "department-of-human-services-vocational-rehabilitation-services": {
         "OVRS": ("oar-582-075-0010",
                  "Vocational Rehabilitation Services (OVRS)"),
-    },
-    "department-of-justice": {
-        "DOJ": ("oar-137-055-5035",
-                 "Department of Justice (DOJ)"),
     },
     "department-of-public-safety-standards-and-training": {
         "DPSST": ("oar-259-008-0005",
@@ -554,14 +554,6 @@ ALIAS_EVIDENCE: dict[str, dict[str, tuple[str, str]]] = {
         "PERS": ("oar-459-001-0000",
                  "Public Employees Retirement System (PERS)"),
     },
-    "oregon-racing-commission": {
-        "ORC": ("oar-462-220-0010",
-                 "Oregon Racing Commission (ORC)"),
-    },
-    "oregon-state-treasury": {
-        "OST": ("oar-170-055-0001",
-                 "“OST” means the Office of the State Treasurer"),
-    },
     "oregon-watershed-enhancement-board": {
         "OWEB": ("oar-695-004-0020",
                  "“OWEB” means the Oregon Watershed Enhancement Board"),
@@ -606,8 +598,55 @@ ALIAS_EVIDENCE: dict[str, dict[str, tuple[str, str]]] = {
     },
 }
 
-# A single token with two or more capitals is an acronym for this table's purposes.
-ACRONYM = re.compile(r"(?=(?:.*[A-Z]){2})[A-Z][A-Za-z&]{1,9}")
+# acronym -> ((the body the document pairs it with, the id of the corpus document, the sentence in
+# its `## Full text` that does), ...). AN ACRONYM IS NOT AN ALIAS WHEN THE CORPUS PAIRS IT WITH
+# ANOTHER BODY, in the registry or not: an alias is an assertion of identity, and an acronym that
+# one document spells out as a different body asserts nothing a reader can rely on. The rule is
+# one rule, applied by the same test to every acronym: no corpus document may pair the acronym
+# with a body other than the one the alias names. Seven acronyms fail it today, and each is
+# listed with two documents that pair it with two different bodies (the first the registry's, or
+# a body of the same name; the second the other), so the record is the documents and not a
+# say-so. `audit_shared_acronyms` re-matches every sentence word for word on every --check and
+# refuses to find any of the seven in ALIASES; `--collisions` rescans the corpus for the rest.
+#
+# What does NOT count: a pairing with something that is not a body (a role, a code, a date -- "State
+# On-Scene Coordinator (SOSC)", "Oregon Plumbing Specialty Code (OPSC)", "Date of Request (DOR)",
+# "Original Equipment Manufacturer (OEM)") or with a private association rather than a public
+# body ("Oregon Hunters Association (OHA)"). Those are reported by `--collisions` and left to a
+# reader; they are listed in the change's questions to the owner.
+SHARED_ACRONYMS: dict[str, tuple[tuple[str, str, str], ...]] = {
+    "ODA": (("Oregon Department of Agriculture", "oar-603-074-0010",
+             "the Oregon Department of Agriculture (ODA)"),
+            ("Oregon Department of Aviation", "oar-738-080-0015",
+             "the Oregon Department of Aviation (ODA)")),
+    "DOE": (("Department of Energy", "oar-660-031-0012", "Department of Energy (DOE)"),
+            ("Department of Education", "oar-419-230-0140",
+             "the Department of Education (DOE)")),
+    "OSAC": (("Office of Student Access and Completion", "oar-575-037-0061",
+              "the Office of Student Access and Completion (OSAC)"),
+             ("Oregon State Athletic Commission", "schedule-police",
+              "The Oregon State Athletic Commission (OSAC)")),
+    "ORC": (("Oregon Racing Commission", "oar-462-220-0010",
+             "an Oregon Racing Commission (ORC)"),
+            ("OYA Research Committee", "oar-416-170-0005", "OYA Research Committee (ORC)")),
+    "OST": (("Office of the State Treasurer", "oar-170-040-0040",
+             "the Office of the State Treasurer (OST)"),
+            ("Oregon Ocean Science Trust", "oar-141-141-0100",
+             "the Oregon Ocean Science Trust (OST)")),
+    "DOJ": (("Department of Justice", "oar-410-141-3700", "Department of Justice (DOJ)"),
+            ("United States Department of Justice", "oar-943-005-0010",
+             "the United States Department of Justice (DOJ)")),
+    "DHS": (("Department of Human Services", "oar-418-040-0010",
+             "the Department of Human Services (DHS)"),
+            ("Department of Homeland Security", "oar-741-065-0020",
+             "the Department of Homeland Security (DHS)")),
+}
+
+# A SINGLE TOKEN WITH TWO OR MORE CAPITALS IS AN ACRONYM for this table's purposes: "DOJ",
+# "ODF&W", "O.B.M.I.", "OR-BMI". It used to be a run of 2-10 letters and '&', which left a
+# dotted or hyphenated acronym looking like a former name -- and a former name needs no
+# quotation -- so "O.B.M.I." entered `aliases` with no evidence at all.
+ACRONYM = re.compile(r"(?=\S*[A-Z]\S*[A-Z])\S+")
 CORPUS_ROOTS = ("rules", "agencies", "executive-orders", "statutes", "constitution",
                 "external-references")
 
@@ -743,6 +782,226 @@ def audit_alias_evidence(cat, aliases, evidence, doc_text, fallback_names=None) 
                 problems.append(f"{slug}: the quotation for {alias!r} contains none of the "
                                 "body's own names, so it does not pair the two")
     return problems
+
+
+def all_aliases(cat, hand=None) -> dict:
+    """slug -> every alias the registry row should carry: the table written by hand, plus the
+    OAR title of every row whose statutory name has replaced it.
+
+    A PROMOTED ROW KEEPS ITS OLD NAME FINDABLE. `name` was the OAR chapter title until the row's
+    statutory name replaced it; the title is then another name the same body is known by (the
+    registry note's own definition of an alias), `oar_name` still records it, and a consumer
+    that joins on `name` and `aliases` -- SessionGateway's snapshot builder does, and reads no
+    `oar_name` -- would otherwise stop resolving a string the rules index and the budget dataset
+    print the day the row was promoted. The row's own `oar_name` is the evidence, so nothing is
+    typed twice and a future promotion is covered by the same line.
+
+    Derived from the registry rather than listed: 73 rows were promoted to a name other than
+    their title when this was written, and a hand-typed list of 73 titles is 73 places for one
+    to be wrong. The registry's `aliases` are compared against THIS, in both directions
+    (`audit_registry_aliases`), so deleting one from the file fails and so does adding one."""
+    out = {slug: list(names) for slug, names in (ALIASES if hand is None else hand).items()}
+    for o in cat["organizations"]:
+        if (o.get(catalog_agencies.NAME_BASIS_KEY) == catalog_agencies.ENABLING_AUTHORITY_NAME
+                and o.get("oar_name") and o.get("name") != o.get("oar_name")):
+            names = out.setdefault(o["slug"], [])
+            if o["oar_name"] not in names:
+                names.append(o["oar_name"])
+    return out
+
+
+def audit_alias_names(cat, aliases, fallback_names=None) -> list[str]:
+    """An alias that is the row's own `name` names nothing `name` does not: refused. COMPARED
+    EXACTLY, not folded: "Department of Veterans' Affairs" (the OAR title, a straight apostrophe)
+    is a different string from "Department of Veterans’ Affairs" (the statutory name, the
+    typographic one) to a consumer that matches names exactly, which is the very reason the
+    old title is kept as an alias when the name is promoted."""
+    fallback_names = fallback_names or {}
+    by_slug = {o["slug"]: o for o in cat["organizations"]}
+    problems = []
+    for slug, names in sorted(aliases.items()):
+        own = (by_slug.get(slug) or {}).get("name") or fallback_names.get(slug)
+        for alias in names:
+            if own and alias.strip() == own.strip():
+                problems.append(f"{slug}: alias {alias!r} is the row's own name — an alias "
+                                "is another name the body is known by")
+    return problems
+
+
+def audit_registry_aliases(cat, aliases) -> list[str]:
+    """The registry's `aliases` against the table that writes them, in BOTH directions: a row
+    whose aliases differ from the table's, and a row carrying aliases the table has none for.
+    This file is the field's single writer, so a row that acquired one another way is a fault,
+    not a fact (the same arrangement `enabling_authority` has with link_enabling_authority.py)."""
+    problems = []
+    for o in cat["organizations"]:
+        want = sorted(aliases.get(o["slug"], []))
+        got = o.get("aliases") or []
+        if sorted(got) != want:
+            problems.append(f"{o['slug']}: aliases are {sorted(got)!r}, table says {want!r}")
+    return problems
+
+
+def audit_shared_acronyms(aliases, shared, doc_text) -> list[str]:
+    """Faults in SHARED_ACRONYMS and in any alias that is one of its acronyms.
+
+    An acronym the corpus pairs with ANOTHER body is not recorded for any: so none of
+    SHARED_ACRONYMS' acronyms may be an alias, and the table that says why has to be true --
+    two pairings naming two different bodies, each a sentence of a document's `## Full text`
+    that contains both the acronym and the body's name. `doc_text` is `corpus_document_text`
+    and has NO DEFAULT, for the reason `audit_alias_evidence` has none."""
+    problems = []
+    for slug, names in sorted(aliases.items()):
+        for alias in names:
+            if alias in shared:
+                problems.append(
+                    f"{slug}: alias {alias!r} is an acronym the corpus pairs with another "
+                    f"body ({shared[alias][1][0]!r}, {shared[alias][1][1]}) — an alias is an "
+                    "assertion of identity, and it is recorded for no body (SHARED_ACRONYMS)")
+    for acronym, pairings in sorted(shared.items()):
+        if len({body for body, _doc, _quote in pairings}) < 2:
+            problems.append(f"{acronym}: SHARED_ACRONYMS holds pairings with fewer than two "
+                            "different bodies, so it shows no collision")
+        for body, doc_id, quote in pairings:
+            if len(quote.split()) < MIN_QUOTE_WORDS:
+                problems.append(f"{acronym}: the sentence for {body!r} is under "
+                                f"{MIN_QUOTE_WORDS} words")
+                continue
+            document = doc_text(doc_id)
+            found = None if document is None else quote_in_full_text(document, quote)
+            if found is None:
+                problems.append(f"{acronym}: cites document {doc_id!r} for {body!r}, which this "
+                                "corpus does not hold or whose text it cannot read — could not "
+                                "check, which is not the same as 'the document does not say it'")
+            elif not found:
+                problems.append(f"{acronym}: {doc_id!r} does not say {quote!r} word for word in "
+                                "its `## Full text`")
+            elif (not re.search(r"(?<![A-Za-z&])" + re.escape(acronym) + r"(?![A-Za-z&])", quote)
+                  or body not in quote):
+                problems.append(f"{acronym}: the sentence for {body!r} does not contain both "
+                                "the acronym and the body's name")
+    return problems
+
+
+# ----------------------------------------------------- the corpus scan behind SHARED_ACRONYMS
+#
+# `--collisions` READS THE WHOLE CORPUS (about 44,000 documents, half a minute) and DECIDES
+# NOTHING: it prints every name a document pairs each alias acronym with that is not one of the
+# body's own names, so a reader can tell the pairings that are another body (a collision, for
+# SHARED_ACRONYMS) from the ones that are a variant spelling, a possessive, a role or a code.
+# It is not part of --check because no regular expression can adjudicate which is which, and a
+# gate that cannot fail on a real collision would be worse than a flag that says what it is.
+SCAN_ROOTS = ("rules", "agencies", "executive-orders", "external-references")
+_NAME_TOKEN = r"(?:[A-Z][\w&'’.\-]*|of|and|for|the|on|to|in|&|a|an|at|by)"
+
+
+def acronym_pairings(text: str, acronyms) -> list[tuple[str, str]]:
+    """(acronym, the name `text` pairs it with) for every "<Name> (ACR)" and every
+    '"ACR" means <the> <Name>' in `text`, whitespace collapsed. The name is the run of capitalised
+    words (with their connectors) that sits against the acronym; it is returned as printed, minus
+    leading and trailing connectors, a trailing possessive and trailing punctuation."""
+    if not acronyms:
+        return []
+    alt = "|".join(re.escape(a) for a in sorted(acronyms, key=len, reverse=True))
+    before = re.compile(r"(?<![A-Za-z])((?:" + _NAME_TOKEN + r"\s+){0,10}" + _NAME_TOKEN
+                        + r")\s*\((" + alt + r")\)")
+    means = re.compile(r"(?<![A-Za-z\"“'‘])[\"“'‘]?(" + alt + r")[\"”'’]?\s+"
+                       r"(?:means|is defined as|refers to)\s+(?:the\s+)?((?:" + _NAME_TOKEN
+                       + r"\s+){0,10}" + _NAME_TOKEN + r")")
+    flat = " ".join(text.split())
+    # A TOKEN MAY END IN A PERIOD ("Dept.", "U.S."), so a run of capitalised words can run on
+    # across a sentence boundary: keep the part against the acronym -- the last sentence of what
+    # precedes "(ACR)", the first of what follows "ACR means".
+    found = [(m.group(2), m.group(1).rsplit(". ", 1)[-1]) for m in before.finditer(flat)]
+    found += [(m.group(1), m.group(2).split(". ", 1)[0]) for m in means.finditer(flat)]
+    out = []
+    for acronym, phrase in found:
+        words = re.sub(r"[.,;:]+$", "", re.sub(r"[’']s$", "", phrase.strip())).split()
+        while words and words[0].lower() in _CONNECTORS:
+            words = words[1:]
+        while words and words[-1].lower() in _CONNECTORS:
+            words = words[:-1]
+        if words:
+            out.append((acronym, " ".join(words)))
+    return out
+
+
+_CONNECTORS = frozenset({"of", "and", "for", "the", "on", "to", "in", "&", "a", "an", "at", "by"})
+
+
+def other_pairings(cat, aliases, pairings) -> dict:
+    """{acronym: [(name, count)]} — the names `pairings` ((acronym, name) tuples) pair each
+    acronym ALIAS with that are not one of its body's own names (`name`, `oar_name`, its
+    non-acronym aliases, each with and without a leading Oregon/State/the, and the compound
+    OAR title's tail). Single words are dropped: a lone capitalised word is a fragment, not a
+    name."""
+    by_slug = {o["slug"]: o for o in cat["organizations"]}
+    owners = {}
+    for slug, names in aliases.items():
+        for alias in names:
+            if ACRONYM.fullmatch(alias):
+                owners.setdefault(alias, []).append(slug)
+    out = {}
+    for acronym, phrase in pairings:
+        if acronym not in owners:
+            continue
+        own = set()
+        for slug in owners[acronym]:
+            row = by_slug.get(slug) or {}
+            for n in [row.get("name"), row.get("oar_name")] + [
+                    a for a in aliases.get(slug, []) if not ACRONYM.fullmatch(a)]:
+                own |= _name_forms(n)
+        folded = _fold(phrase)
+        for prefix in ("state of oregon ", "oregon ", "state ", "the "):
+            if folded.startswith(prefix):
+                folded = folded[len(prefix):]
+        folded = folded.replace(" & ", " and ")
+        if len(folded.split()) >= 2 and _fold(phrase) not in own and folded not in own:
+            out.setdefault(acronym, collections.Counter())[phrase] += 1
+    return {a: sorted(c.items(), key=lambda kv: (-kv[1], kv[0])) for a, c in sorted(out.items())}
+
+
+def scan_corpus_for_pairings(acronyms, roots=SCAN_ROOTS, base=None):
+    """[(acronym, name, document id)] over the `## Full text` of every document under `roots`."""
+    base = REPO_ROOT if base is None else base
+    out = []
+    for root in roots:
+        for dirpath, _dirs, files in os.walk(base / root):
+            for name in sorted(files):
+                if not name.endswith(".md"):
+                    continue
+                try:
+                    text = open(os.path.join(dirpath, name), encoding="utf-8",
+                                errors="replace").read()
+                except OSError:
+                    continue
+                i = text.find("## Full text")
+                if i < 0:
+                    continue
+                j = text.find("\n## ", i + 5)
+                for acronym, phrase in acronym_pairings(text[i:j if j > 0 else None], acronyms):
+                    out.append((acronym, phrase, name[:-3]))
+    return out
+
+
+def cmd_collisions() -> int:
+    cat = load()
+    aliases = all_aliases(cat)
+    acronyms = sorted({a for names in aliases.values() for a in names if ACRONYM.fullmatch(a)})
+    found = scan_corpus_for_pairings(acronyms)
+    docs = collections.defaultdict(list)
+    for acronym, phrase, doc in found:
+        docs[(acronym, phrase)].append(doc)
+    others = other_pairings(cat, aliases, [(a, p) for a, p, _d in found])
+    print(f"{len(acronyms)} acronym alias(es) scanned over {len(found)} pairing(s); names a "
+          "document pairs an acronym with that are not one of its body's own names "
+          "(NOT a verdict — a collision is another BODY; a variant spelling, a role, a code "
+          "and a date are not):")
+    for acronym, rows in others.items():
+        print(f"  {acronym}: " + "; ".join(
+            f"{phrase!r} x{n} (e.g. {sorted(docs[(acronym, phrase)])[0]})"
+            for phrase, n in rows[:8]))
+    return 0
 
 
 # code -> registry slug. Reviewed by hand, 2026-07-28.
@@ -976,7 +1235,7 @@ def audit(cat) -> list[str]:
     # claiming one alias would make identity depend on iteration order.
     seen_alias = {}
     known = slugs | manual_slugs
-    for slug, names in ALIASES.items():
+    for slug, names in all_aliases(cat).items():
         if slug not in known:
             problems.append(f"aliases: '{slug}' is not a registry slug")
         for n in names:
@@ -1195,35 +1454,178 @@ def _proof_an_acronym_alias_needs_a_quotation_that_pairs_it_with_the_name() -> i
                             docs.get):
         print("FAIL a-former-name-needs-no-quotation", file=sys.stderr)
         bad += 1
+    # A DOTTED, HYPHENATED OR AMPERSANDED ACRONYM IS AN ACRONYM. The pattern used to be a run
+    # of 2-10 letters and '&', which let "O.B.M.I." and "OR-BMI" enter `aliases` as if they
+    # were former names, with no quotation at all.
+    for odd in ("I.B.A.", "IB-A", "IBA/OBA", "I&B", "IBA2"):
+        got = audit_alias_evidence(cat, {"imaginary-bureau": [odd]}, {}, docs.get)
+        if not any("acronym alias" in p for p in got):
+            print(f"FAIL a-dotted-or-hyphenated-acronym-needs-evidence-{odd}: {got!r}",
+                  file=sys.stderr)
+            bad += 1
+    dotted = ("doc-a", "The Imaginary Bureau of Affairs (IBA) licenses imagined things.")
+    if ACRONYM.fullmatch("Treasury") or ACRONYM.fullmatch("State Treasurer"):
+        print("FAIL a-name-with-one-capital-or-a-space-is-not-an-acronym", file=sys.stderr)
+        bad += 1
+    del dotted
+    return bad
+
+
+def _proof_an_acronym_the_corpus_pairs_with_another_body_is_not_an_alias() -> int:
+    """SHARED_ACRONYMS is true or it fails, and none of its acronyms may be an alias. Synthetic
+    documents: the table is refused when an alias is one of its acronyms, when a sentence is not
+    in the document's Full text, when the document is not held, when the sentence lacks the
+    acronym or the body, and when it shows fewer than two bodies; one sound table is not."""
+    def doc(full_text):
+        return ("---\ntitle: \"t\"\n---\n\n## At a glance\n\nBoilerplate (XYZ).\n\n"
+                f"## Full text\n\n{full_text}\n")
+    docs = {"d1": doc("The Imaginary Bureau of Affairs (XYZ) licenses things."),
+            "d2": doc("The Other Imagined Trust (XYZ) funds things.")}
+    good = {"XYZ": (("Imaginary Bureau of Affairs", "d1",
+                     "The Imaginary Bureau of Affairs (XYZ)"),
+                    ("Other Imagined Trust", "d2", "The Other Imagined Trust (XYZ)"))}
+    bad = 0
+    if audit_shared_acronyms({"a-body": ["Imaginary Bureau"]}, good, docs.get):
+        print("FAIL a-true-shared-acronym-table-passes", file=sys.stderr)
+        bad += 1
+    cases = [
+        ("an alias that is a shared acronym", {"a-body": ["XYZ"]}, good, "another body"),
+        ("a sentence the document does not say", {}, {"XYZ": (
+            good["XYZ"][0], ("Other Imagined Trust", "d2", "The Other Imagined Trust (XYZ) "
+                                                             "taxes things."))}, "word for word"),
+        ("a sentence in the At a glance line", {}, {"XYZ": (
+            good["XYZ"][0], ("Other Imagined Trust", "d2", "Boilerplate (XYZ)"))},
+         "under"),
+        ("a document the corpus does not hold", {}, {"XYZ": (
+            good["XYZ"][0], ("Other Imagined Trust", "d9",
+                             "The Other Imagined Trust (XYZ)"))}, "could not check"),
+        ("a sentence without the body's name", {}, {"XYZ": (
+            good["XYZ"][0], ("Another Trust Entirely", "d2",
+                             "The Other Imagined Trust (XYZ)"))}, "contain both"),
+        ("two pairings with one body", {}, {"XYZ": (good["XYZ"][0], good["XYZ"][0])},
+         "fewer than two"),
+    ]
+    for label, aliases, table, phrase in cases:
+        got = audit_shared_acronyms(aliases, table, docs.get)
+        if not got or not any(phrase in p for p in got):
+            print(f"FAIL shared-acronym-{label.replace(' ', '-')}: {got!r}", file=sys.stderr)
+            bad += 1
+    return bad
+
+
+def _proof_a_promoted_name_keeps_the_old_title_findable_and_no_alias_repeats_the_name() -> int:
+    """`all_aliases` adds the OAR title of every promoted row; `audit_registry_aliases` fails a
+    registry that lacks it, carries an alias the table does not, or keeps a stale one;
+    `audit_alias_names` refuses an alias equal to the row's own name -- exactly, so the straight-
+    apostrophe title of a typographic-apostrophe name is kept."""
+    def row(slug, name, oar, basis, aliases=None):
+        o = {"slug": slug, "name": name, "oar_name": oar,
+             catalog_agencies.NAME_BASIS_KEY: basis}
+        if aliases is not None:
+            o["aliases"] = aliases
+        return o
+    promoted = catalog_agencies.ENABLING_AUTHORITY_NAME
+    unverified = catalog_agencies.UNVERIFIED_OAR_TITLE
+    cat = {"organizations": [
+        row("a", "State Board of Imaginary Affairs", "Board of Imaginary Affairs", promoted),
+        row("b", "Imaginary Veterans’ Office", "Imaginary Veterans' Office", promoted),
+        row("c", "Plain Office", "Plain Office", promoted),
+        row("d", "Unreviewed Office", "Unreviewed Office", unverified)]}
+    want = all_aliases(cat, hand={"d": ["UO"]})
+    bad = 0
+    if want != {"d": ["UO"], "a": ["Board of Imaginary Affairs"],
+                "b": ["Imaginary Veterans' Office"]}:
+        print(f"FAIL a-promoted-name-keeps-the-old-title: {want!r}", file=sys.stderr)
+        bad += 1
+    # the registry, written from the table, agrees; each way of not agreeing is refused
+    cat["organizations"][0]["aliases"] = ["Board of Imaginary Affairs"]
+    cat["organizations"][1]["aliases"] = ["Imaginary Veterans' Office"]
+    cat["organizations"][3]["aliases"] = ["UO"]
+    if audit_registry_aliases(cat, want):
+        print("FAIL a-registry-that-agrees-passes", file=sys.stderr)
+        bad += 1
+    for label, mutate in [
+            ("the old title deleted", lambda c: c["organizations"][0].pop("aliases")),
+            ("an alias nothing wrote", lambda c: c["organizations"][2].update(aliases=["Pln"])),
+            ("a stale alias", lambda c: c["organizations"][3].update(aliases=["UO", "OLD"]))]:
+        broken = {"organizations": [dict(o) for o in cat["organizations"]]}
+        mutate(broken)
+        if not audit_registry_aliases(broken, want):
+            print(f"FAIL registry-aliases-{label.replace(' ', '-')}: not refused",
+                  file=sys.stderr)
+            bad += 1
+    if audit_alias_names(cat, want):
+        print(f"FAIL straight-apostrophe-title-beside-a-typographic-name-is-kept: "
+              f"{audit_alias_names(cat, want)!r}", file=sys.stderr)
+        bad += 1
+    if not audit_alias_names(cat, {"a": ["State Board of Imaginary Affairs"]}):
+        print("FAIL an-alias-equal-to-the-name-is-refused", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_the_scan_finds_the_body_an_acronym_is_paired_with() -> int:
+    """`acronym_pairings` reads both shapes, and `other_pairings` keeps the pairing with another
+    body and drops the body's own spellings -- the part of --collisions a regular expression
+    can do. Synthetic text only."""
+    text = ("The Imaginary Bureau of Affairs (IBA) licenses things. In these rules "
+            "\"IBA\" means the Imaginary Bureau of Affairs. The Oregon Imaginary Bureau of "
+            "Affairs (IBA) also inspects. The Federal Bureau of Imagining (IBA) is a "
+            "different body, and \"IBA\" means the Independent Board Association.")
+    pairs = acronym_pairings(text, ["IBA"])
+    cat = {"organizations": [{"slug": "bureau", "name": "Imaginary Bureau of Affairs",
+                              "oar_name": "Imaginary Bureau of Affairs"}]}
+    others = other_pairings(cat, {"bureau": ["IBA"]}, pairs)
+    names = {n for n, _c in others.get("IBA", [])}
+    bad = 0
+    if names != {"Federal Bureau of Imagining", "Independent Board Association"}:
+        print(f"FAIL scan-keeps-the-other-bodies-only: pairs={pairs!r} others={others!r}",
+              file=sys.stderr)
+        bad += 1
+    if acronym_pairings(text, []):
+        print("FAIL scan-of-no-acronyms-finds-nothing", file=sys.stderr)
+        bad += 1
     return bad
 
 
 def selftest() -> int:
     bad = _proof_an_acronym_alias_needs_a_quotation_that_pairs_it_with_the_name()
+    bad += _proof_an_acronym_the_corpus_pairs_with_another_body_is_not_an_alias()
+    bad += _proof_a_promoted_name_keeps_the_old_title_findable_and_no_alias_repeats_the_name()
+    bad += _proof_the_scan_finds_the_body_an_acronym_is_paired_with()
     bad += _proof_absent_entry_dates_the_observations_own_date_not_today()
     bad += _proof_main_refuses_missing_entries_with_no_observation()
     bad += _proof_audit_refuses_a_manual_entry_that_holds_a_chapter()
     if bad:
         print(f"{bad} proof(s) did not hold", file=sys.stderr)
         return 1
-    print("4 proofs held: _absent_entry() dates the observation's own date (never "
+    print("7 proofs held: _absent_entry() dates the observation's own date (never "
           "today()/manual) and refuses a name the observation already lists; main() "
           "refuses to add anything when no observation is recorded at all; audit() "
           "refuses a MANUAL_ENTRIES body whose row holds an OAR chapter; "
-          "audit_alias_evidence() refuses an acronym alias with no quotation, a quotation "
-          "its document does not say, a document the corpus does not hold, and a quotation "
-          "that does not pair the acronym with one of the body's names")
+          "audit_alias_evidence() refuses an acronym alias (dotted and hyphenated ones too) "
+          "with no quotation, a quotation outside its document's Full text, a document the "
+          "corpus does not hold, and a quotation that does not pair the acronym with one of "
+          "the body's names; audit_shared_acronyms() refuses an alias the corpus pairs with "
+          "another body; all_aliases() keeps a promoted row's old title and "
+          "audit_registry_aliases()/audit_alias_names() refuse a missing, extra, stale or "
+          "name-repeating alias; the corpus scan finds the body an acronym is paired with")
     return 0
 
 
 def main() -> int:
     if "--selftest" in sys.argv:
         return selftest()
+    if "--collisions" in sys.argv:
+        return cmd_collisions()
     check = "--check" in sys.argv
     cat = load()
-    problems = audit(cat) + audit_alias_evidence(
-        cat, ALIASES, ALIAS_EVIDENCE, corpus_document_text,
-        {slug: name for slug, name, _code in MANUAL_ENTRIES})
+    merged = all_aliases(cat)
+    fallback = {slug: name for slug, name, _code in MANUAL_ENTRIES}
+    problems = (audit(cat) + audit_alias_names(cat, merged, fallback)
+                + audit_alias_evidence(cat, merged, ALIAS_EVIDENCE, corpus_document_text,
+                                       fallback)
+                + audit_shared_acronyms(merged, SHARED_ACRONYMS, corpus_document_text))
     if problems:
         for p in problems:
             print(f"  ERROR {p}", file=sys.stderr)
@@ -1252,17 +1654,18 @@ def main() -> int:
             if slug not in by_slug:
                 print(f"  FAIL {slug}: manual entry missing from the registry")
                 bad += 1
-        for slug, names in ALIASES.items():
-            got = by_slug.get(slug, {}).get("aliases") or []
-            if sorted(names) != sorted(got):
-                print(f"  FAIL {slug}: aliases are {got!r}, table says {sorted(names)!r}")
-                bad += 1
-        acronyms = sum(1 for names in ALIASES.values() for a in names if ACRONYM.fullmatch(a))
+        for problem in audit_registry_aliases(cat, merged):
+            print(f"  FAIL {problem}")
+            bad += 1
+        acronyms = sum(1 for names in merged.values() for a in names if ACRONYM.fullmatch(a))
+        former = sum(len(v) for v in merged.values()) - sum(len(v) for v in ALIASES.values())
         print(f"\n{len(want)} codes mapped, {len(UNMAPPED)} deliberately unmapped, "
               f"{len(MANUAL_ENTRIES)} manual entries, "
-              f"{sum(len(v) for v in ALIASES.values())} aliases, of which {acronyms} "
+              f"{sum(len(v) for v in merged.values())} aliases ({former} of them the OAR title "
+              f"a promoted name replaced, from the row's own oar_name), of which {acronyms} "
               "acronym(s), each paired with its body's name by a quotation matched word for "
-              "word against the corpus document it names"
+              f"word against the `## Full text` of the corpus document it names, and none "
+              f"of the {len(SHARED_ACRONYMS)} acronyms the corpus pairs with another body"
               if not bad else f"\n{bad} discrepancy(ies)")
         return 1 if bad else 0
 
@@ -1298,16 +1701,22 @@ def main() -> int:
     # the field's name.
     for slug, code in want.items():
         catalog_agencies.write_das_agency_number(by_slug[slug], code)
-    for slug, names in ALIASES.items():
+    merged = all_aliases(cat)
+    for slug, names in merged.items():
         if slug in by_slug:
             by_slug[slug]["aliases"] = sorted(names)
+    # THIS FILE IS THE FIELD'S ONLY WRITER IN BOTH DIRECTIONS: a row the table no longer gives
+    # any alias (an acronym that came off it) loses the key rather than keeping a stale list.
+    for slug, row in by_slug.items():
+        if "aliases" in row and slug not in merged:
+            del row["aliases"]
 
     cat["organizations"].sort(key=lambda o: o["slug"])
     CATALOG.write_text(yaml.safe_dump(cat, sort_keys=False, allow_unicode=True, width=100))
     print(f"wrote das_agency_number for "
           f"{len(want)} of {len(cat['organizations'])} organizations")
     print(f"  added {added} manual entry(ies) for agencies that issue no OAR rules")
-    print(f"  wrote aliases on {sum(1 for s in ALIASES if s in by_slug)} entry(ies)")
+    print(f"  wrote aliases on {sum(1 for s in merged if s in by_slug)} entry(ies)")
     print(f"  {len(UNMAPPED)} budget agency codes have no registry counterpart, by review")
     print(f"  {len(REORGANIZED)} map to a predecessor parent unit — see REORGANIZED")
     return 0
