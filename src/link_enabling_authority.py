@@ -136,10 +136,7 @@ from catalog_agencies import (ENABLING_AUTHORITY_NAME, NAME_BASIS_KEY, NO_AUTHOR
                               UNVERIFIED_OAR_TITLE, authority_census, classify_authority,
                               name_census, no_authority_value, relation_entries)
 from check_rule_ledger import RuleLedger
-from repo_lib import REPO_ROOT
-
-# A quotation shorter than this shows nothing about the section it is attached to.
-MIN_QUOTE_WORDS = 4
+from repo_lib import MIN_QUOTE_WORDS, REPO_ROOT, orconst_id, quote_in_full_text
 # The relation source an ORS section's own statement of where a body sits is recorded under.
 STATUTE_SOURCE = "statute"
 
@@ -2513,6 +2510,57 @@ def name_text_lookups(ors_texts=None, eo=None, constitution=None) -> dict:
     return {"ors": ors_texts.get, "executive-order": eo.get, "constitution": constitution_lookup}
 
 
+def quote_document_lookups(ors=None, eo=None, constitution=None) -> dict:
+    """{form: the function `audit_quote_checks` calls to get the mirrored DOCUMENT a quotation
+    of that form is matched against} — the one place a quotation's source is located.
+
+    THE DOCUMENT, NOT A TEXT, because the matcher (`repo_lib.quote_in_full_text`) decides what
+    part of it counts: the section's own `## Full text` and nothing else. The text a NAME is
+    checked against (`name_text_lookups`) is a different thing on purpose — the catchline and
+    the whole body, so a name the section prints in its title is found — and a quotation never
+    gets to borrow that width: the mirror's banner, its generated heading and `At a glance`
+    line and its provenance block are not the section.
+
+    A CONSTITUTIONAL QUOTATION IS MATCHED AGAINST ITS SECTION, not the article. The article is
+    what a constitutional NAME is checked against (`constitution_name_lookup`), because a body
+    can be named in a different section of its article than the one that creates it; a
+    quotation says what ONE section says, so it is held to that section's own file.
+
+    Each lookup returns a document's markdown (or a list of them, when a citation names
+    several files), or None when this corpus holds none. The keyword arguments are for the
+    selftest, which hands in synthetic documents; unset they read the mirror on demand."""
+    def ors_doc(citation):
+        m = re.fullmatch(r"ORS (\d+[A-Z]?\.\d+)", citation)
+        path = STATUTES / f"ors-{m.group(1).lower()}.md" if m else None
+        return path.read_text(errors="replace") if path and path.is_file() else None
+
+    eo_by_citation: dict[str, list[str]] = {}
+
+    def eo_doc(citation):
+        if not eo_by_citation:
+            for path in sorted(EXECUTIVE_ORDERS.glob("eo-*.md")):
+                text = path.read_text(errors="replace")
+                m = re.search(r'(?m)^citation:\s*"?([^"\n]+)', text)
+                if m:
+                    eo_by_citation.setdefault(m.group(1).strip().rstrip('"'), []).append(text)
+        return eo_by_citation.get(citation)
+
+    def const_doc(citation):
+        from citation_schemes import OR_CONST_C
+        m = OR_CONST_C.search(citation)
+        if not m:
+            return None
+        try:
+            path = CONSTITUTION / f"{orconst_id(m.group(1), m.group(2))}.md"
+        except ValueError:
+            return None
+        return path.read_text(errors="replace") if path.is_file() else None
+
+    return {"ors": ors_doc if ors is None else ors.get,
+            "executive-order": eo_doc if eo is None else eo.get,
+            "constitution": const_doc if constitution is None else constitution.get}
+
+
 def audit_statutory_names(orgs, mapped, names, text_lookups) -> list[Failure]:
     """Everything wrong with STATUTORY_NAMES itself, as Failures.
 
@@ -2614,19 +2662,25 @@ def _squash(text) -> str:
     return " ".join(str(text).split())
 
 
-def audit_quote_checks(orgs, mapped, unmapped, names, quotes, text_lookups) -> list[Failure]:
+def audit_quote_checks(orgs, mapped, unmapped, names, quotes, documents) -> list[Failure]:
     """Everything wrong with QUOTE_CHECKS, as Failures: the record of what an agent read.
 
-    `text_lookups` is `name_text_lookups()` and has NO DEFAULT, for the reason
+    `documents` is `quote_document_lookups()` and has NO DEFAULT, for the reason
     `audit_statutory_names` has none: a default would let a caller check the table's shape and
     take the quotations on faith, which looks exactly like a clean run.
 
-    A QUOTATION THAT COULD NOT BE CHECKED IS NOT ONE THAT DID NOT MATCH (CONTEXT.md). Three
+    A QUOTATION THAT COULD NOT BE CHECKED IS NOT ONE THAT DID NOT MATCH (CONTEXT.md). Four
     different things can stand between a quotation and the text it claims to be from, and the
     detail says which: the citation's form is one this gate cannot read the text of (a session
-    law), the citation names a section this corpus does not hold, or the section is held and
-    does not say it. The last is a wrong or stale record; the first two are a record nobody
-    could re-perform, and neither may be reported as the third.
+    law), the citation names a section this corpus does not hold, the document held has no
+    `## Full text` to look in, or the section is held and does not say it. The last is a wrong
+    or stale record; the first three are a record nobody could re-perform, and none of them
+    may be reported as the last.
+
+    THE QUOTATION IS MATCHED INSIDE THE SECTION'S OWN `## Full text` AND NOWHERE ELSE
+    (`repo_lib.quote_in_full_text`, the one matcher this repository has): not the mirror's
+    banner, its generated heading or `At a glance` line, its provenance block or its
+    frontmatter. A "quotation" of the mirror's own boilerplate is not the section saying it.
     """
     by_slug = {o["slug"]: o for o in orgs if isinstance(o, dict) and o.get("slug")}
     problems = []
@@ -2655,32 +2709,39 @@ def audit_quote_checks(orgs, mapped, unmapped, names, quotes, text_lookups) -> l
                                         f"{pair!r} is not a (citation, quotation) pair"))
                 continue
             citation, quote = pair
-            if len(_squash(quote).split()) < MIN_QUOTE_WORDS:
+            if len(quote.split()) < MIN_QUOTE_WORDS:
                 problems.append(Failure(
                     "quote-is-a-quote", slug,
                     f"{quote!r} is under {MIN_QUOTE_WORDS} words — a fragment that short "
                     "appears in a great many sections and shows nothing about this one"))
                 continue
             form = classify_authority(citation)[0]
-            text_of = text_lookups.get(form)
-            if text_of is None:
+            document_of = documents.get(form)
+            if document_of is None:
                 problems.append(Failure(
                     "quote-in-the-cited-text", slug,
                     f"quotes {citation!r}, whose form ({form}) this gate cannot read the "
                     "text of — so the quotation could not be checked. That is 'could not "
                     "check', not 'matches'"))
-            elif (text := text_of(citation)) is None:
+            elif (document := document_of(citation)) is None:
                 problems.append(Failure(
                     "quote-in-the-cited-text", slug,
                     f"quotes {citation!r}, whose text this corpus does not mirror — so "
                     "there was no text to match the quotation against. That is 'could not "
                     "check', not 'the section does not say it'"))
-            elif _squash(quote) not in _squash(text):
+            elif (found := quote_in_full_text(document, quote)) is None:
+                problems.append(Failure(
+                    "quote-in-the-cited-text", slug,
+                    f"quotes {citation!r}, whose mirrored document has no `## Full text` "
+                    "section — so there was no section text to match the quotation "
+                    "against. That is 'could not check', not 'the section does not say it'"))
+            elif not found:
                 problems.append(Failure(
                     "quote-in-the-cited-text", slug,
                     f"quotes {citation!r} as {quote!r}, which does not appear word for word "
-                    "in the mirrored text of that section — a wrong quotation, or a section "
-                    "that has changed since it was taken"))
+                    "in the `## Full text` of that section — a wrong quotation, a section "
+                    "that has changed since it was taken, or words from the mirror's own "
+                    "banner, heading or provenance block, which are not the section"))
         name = names.get(slug)
         if name is not None and not any(name in _squash(q) for _, q in _good_pairs(pairs)):
             problems.append(Failure(
@@ -2828,7 +2889,7 @@ def cmd_apply() -> int:
                             constitutional_resolver(published_constitutional_sections()))
                 + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, text_lookups)
                 + audit_quote_checks(orgs, MAPPED, UNMAPPED, STATUTORY_NAMES, QUOTE_CHECKS,
-                                     text_lookups))
+                                     quote_document_lookups()))
     if problems:
         print("refusing to write: the reviewed tables do not match the corpus",
               file=sys.stderr)
@@ -2863,7 +2924,7 @@ def check() -> int:
                             constitutional_resolver(published))
                 + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, text_lookups)
                 + audit_quote_checks(orgs, MAPPED, UNMAPPED, STATUTORY_NAMES, QUOTE_CHECKS,
-                                     text_lookups)
+                                     quote_document_lookups())
                 + audit_registry(orgs, MAPPED, UNMAPPED))
     if problems:
         print("the reviewed tables do not match the corpus:", file=sys.stderr)
@@ -3026,9 +3087,40 @@ def _fixture():
     # THE AGENT QUOTE-CHECK (2026-10-30), and the one STATUTE PLACEMENT the fixture carries so
     # `statute-placement-has-a-quote` has something to refuse. The quotation is a true
     # excerpt of the synthetic text above, with the fixture's name in it.
+    #
+    # THE DOCUMENTS A QUOTATION IS MATCHED AGAINST, shaped like the mirror's own files: a
+    # banner, a generated heading and `At a glance` line, the `## Full text`, and a provenance
+    # block. Only the `## Full text` is the section. The constitutional pair is two sections
+    # of one article, because a constitutional quotation is held to ITS section and not to
+    # the article the name check reads.
+    def mirrored(cite, title, full_text):
+        return (f"---\ncitation: \"{cite}\"\ntitle: \"{title}\"\n---\n\n"
+                "> **NON-AUTHORITATIVE** The mirror's own banner.\n\n"
+                f"# {title} ({cite})\n\n## At a glance\n\n{cite} — {title}. Chapter 999 "
+                f"(Chapter 999), 2025 Edition.\n\n## Full text\n\n{full_text}\n\n"
+                "## Provenance & change history\n\n- Source: the mirror's own provenance "
+                "block, retrieved 2026-07-20.\n")
+
+    quote_docs_ors = {"ORS 999.999": mirrored(
+        "ORS 999.999", "Board of Imaginary Affairs",
+        "999.999 Board of Imaginary Affairs; appointment. There is established the Board of "
+        "Imaginary Affairs. The board consists of seven members appointed by the Governor."),
+        # A SECTION WITH NO `## Full text`: nothing to match a quotation against.
+        "ORS 999.996": "---\ncitation: \"ORS 999.996\"\n---\n\n# A stub (ORS 999.996)\n\n"
+                       "## At a glance\n\nA stub with no text of its own.\n"}
+    quote_docs_const = {
+        "Or. Const. Art. XVII, sec. 1": mirrored(
+            "Or. Const. Art. XVII, sec. 1", "Imaginary amendments",
+            "Section 1. There is established the Board of Imaginary Amendments."),
+        "Or. Const. Art. XVII, sec. 2": mirrored(
+            "Or. Const. Art. XVII, sec. 2", "Imaginary duties",
+            "Section 2. The Board of Imaginary Amendments shall keep a fair record.")}
     quotes = {"board-of-imaginary-affairs": [("ORS 999.999",
                                               "There is established the Board of "
-                                              "Imaginary Affairs.")]}
+                                              "Imaginary Affairs.")],
+              "imaginary-constitutional-office": [("Or. Const. Art. XVII, sec. 1",
+                                                   "There is established the Board of "
+                                                   "Imaginary Amendments.")]}
     for o in orgs:
         if o["slug"] == "board-of-imaginary-affairs":
             o["relations"] = [{"target": "office-of-imagined-orders", "source": "statute",
@@ -3040,6 +3132,8 @@ def _fixture():
             "texts": texts, "eo_texts": eo_texts_, "const_texts": const_texts,
             "text_lookups": name_text_lookups(ors_texts=texts, eo=eo_texts_,
                                               constitution=const_texts),
+            "documents": quote_document_lookups(ors=quote_docs_ors, eo={},
+                                                constitution=quote_docs_const),
             "citations": {"ORS 999.999", "Executive Order 99-99"},
             "why_unresolved": constitutional_resolver(published_constitutional_sections())}
 
@@ -3072,7 +3166,7 @@ def _audit(f) -> list[Failure]:
                         f["why_unresolved"])
             + audit_statutory_names(f["orgs"], f["mapped"], f["names"], f["text_lookups"])
             + audit_quote_checks(f["orgs"], f["mapped"], f["unmapped"], f["names"],
-                                 f["quotes"], f["text_lookups"])
+                                 f["quotes"], f["documents"])
             + audit_registry(f["orgs"], f["mapped"], f["unmapped"], f["names"]))
 
 
@@ -3322,6 +3416,39 @@ def _case_quote_from_a_section_the_mirror_does_not_hold(f):
         ("ORS 999.997", "There is established the Board of Imaginary Affairs.")]
 
 
+def _case_quote_of_the_mirrors_at_a_glance_line(f):
+    """A quotation that is the mirror's own generated `At a glance` line. It occurs in the
+    mirrored FILE and says nothing the section says: it is the catchline and the chapter, set
+    there by the generator. Matched against the whole file it passed, and so did a quotation
+    of the banner or the provenance block."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.999", "ORS 999.999 — Board of Imaginary Affairs. Chapter 999 (Chapter 999), "
+                        "2025 Edition.")]
+
+
+def _case_quote_of_the_mirrors_provenance_block(f):
+    """The same, for the provenance block at the foot of the mirrored file."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.999", "Source: the mirror's own provenance block, retrieved 2026-07-20.")]
+
+
+def _case_constitutional_quote_from_a_neighbouring_section(f):
+    """A constitutional quotation taken from section 2 and cited to section 1. A body's NAME
+    is checked against the whole article (a body can be named in a different section than
+    the one that creates it), but a quotation says what ONE section says: it is held to the
+    section it cites, not to the article."""
+    f["quotes"]["imaginary-constitutional-office"] = [
+        ("Or. Const. Art. XVII, sec. 1",
+         "The Board of Imaginary Amendments shall keep a fair record.")]
+
+
+def _case_quote_from_a_section_with_no_full_text(f):
+    """A quotation cited to a mirrored document that has no `## Full text` section to look
+    in: 'could not check', which is not 'matches' and not 'the section does not say it'."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.996", "There is established the Board of Imaginary Affairs.")]
+
+
 def _case_statutory_name_no_quotation_prints(f):
     """A name whose slug has quotations, none of which prints it: the sentence an agent
     quoted is about something else in the section."""
@@ -3440,6 +3567,14 @@ _CASES = [
      "quote-in-the-cited-text"),
     ("quote-from-a-section-the-mirror-does-not-hold",
      _case_quote_from_a_section_the_mirror_does_not_hold, "quote-in-the-cited-text"),
+    ("quote-of-the-mirrors-at-a-glance-line", _case_quote_of_the_mirrors_at_a_glance_line,
+     "quote-in-the-cited-text"),
+    ("quote-of-the-mirrors-provenance-block", _case_quote_of_the_mirrors_provenance_block,
+     "quote-in-the-cited-text"),
+    ("constitutional-quote-from-a-neighbouring-section",
+     _case_constitutional_quote_from_a_neighbouring_section, "quote-in-the-cited-text"),
+    ("quote-from-a-section-with-no-full-text", _case_quote_from_a_section_with_no_full_text,
+     "quote-in-the-cited-text"),
     ("statutory-name-no-quotation-prints", _case_statutory_name_no_quotation_prints,
      "statutory-name-in-a-quote"),
     ("statute-placement-with-no-quotation", _case_statute_placement_with_no_quotation,
@@ -3502,6 +3637,7 @@ _STATUTORY_NAME_ANSWERS = [
 _QUOTE_ANSWERS = [
     ("ORS 999.999", "does not appear word for word", "could not check"),
     ("ORS 999.997", "could not check", "does not appear word for word"),
+    ("ORS 999.996", "has no `## Full text`", "does not appear word for word"),
     ("Oregon Laws 1899, chapter 1", "cannot read the", "does not appear word for word"),
 ]
 

@@ -222,10 +222,16 @@ sentences listed is superseded by this section.
    `QUOTE_CHECKS` (`src/link_enabling_authority.py`). An acronym alias records the id of the
    corpus document that pairs it with the body's name in `ALIAS_EVIDENCE`
    (`src/link_budget_codes.py`).
-2. *It is matched word for word, on every run.* Whitespace is the only thing normalised. When the
-   mirrored text changes, the record fails (`quote-in-the-cited-text`, and the alias check) rather
-   than going on describing text that is gone. A human's reading cannot be re-performed by a
-   machine on every run; this one can, which is the one respect in which it is stronger.
+2. *It is matched word for word, on every run, inside the section's own `## Full text`.*
+   Whitespace is the only thing normalised. When the mirrored text changes, the record fails
+   (`quote-in-the-cited-text`, and the alias check) rather than going on describing text that is
+   gone. A human's reading cannot be re-performed by a machine on every run; this one can, which is
+   the one respect in which it is stronger. One matcher does it for both tables
+   (`repo_lib.quote_in_full_text`), and it looks nowhere else: not the mirror's banner, its
+   generated heading and `At a glance` line, its provenance block or its frontmatter, none of which
+   the section says. A constitutional quotation is held to the file of the one section it cites,
+   not to its article, and a document with no `## Full text` has nothing to match against, which
+   is "could not check" and never a match.
 3. *The quotation has to show the claim it is attached to.* A name is promoted only when a
    quotation prints it (`statutory-name-in-a-quote`); an authority is recorded only when a
    quotation shows the section creating or constituting the body, not one that merely mentions it

@@ -43,7 +43,7 @@ import sys
 import yaml
 
 import catalog_agencies
-from repo_lib import REPO_ROOT
+from repo_lib import MIN_QUOTE_WORDS, REPO_ROOT, quote_in_full_text
 
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 
@@ -610,15 +610,20 @@ ALIAS_EVIDENCE: dict[str, dict[str, tuple[str, str]]] = {
 ACRONYM = re.compile(r"(?=(?:.*[A-Z]){2})[A-Z][A-Za-z&]{1,9}")
 CORPUS_ROOTS = ("rules", "agencies", "executive-orders", "statutes", "constitution",
                 "external-references")
-MIN_ALIAS_QUOTE_WORDS = 3
 
 _DOCUMENT_INDEX: dict[str, str] | None = None
 
 
 def corpus_document_text(doc_id: str):
-    """The `## Full text` of the corpus document whose id is `doc_id`, whitespace collapsed,
-    or None when this corpus holds no such document (or none whose text can be read) — which
-    is 'could not check', never 'the document does not say it'.
+    """The markdown of the corpus document whose id is `doc_id`, or None when this corpus
+    holds no such document (or none that can be read) — which is 'could not check', never
+    'the document does not say it'.
+
+    THE WHOLE DOCUMENT, because what part of it a quotation may come from is not decided here:
+    `repo_lib.quote_in_full_text` is the one matcher, and it looks inside the `## Full text`
+    and nowhere else. This function used to hand back the full text, or the WHOLE FILE when
+    the document had no `## Full text` — frontmatter, banner and all — which let a
+    quotation of a document's own metadata stand as something it said.
 
     The index of ids is built once, from the file names, because ERF names every document
     file after its id and walks 80,000 of them."""
@@ -634,11 +639,9 @@ def corpus_document_text(doc_id: str):
     if path is None:
         return None
     try:
-        text = open(path, encoding="utf-8", errors="replace").read()
+        return open(path, encoding="utf-8", errors="replace").read()
     except OSError:
         return None
-    i = text.find("## Full text")
-    return " ".join((text[i:] if i >= 0 else text).split())
 
 
 def _name_forms(name) -> set:
@@ -671,7 +674,7 @@ def _fold(text) -> str:
 def audit_alias_evidence(cat, aliases, evidence, doc_text, fallback_names=None) -> list[str]:
     """Faults in ALIAS_EVIDENCE and in the acronym aliases it is the record of.
 
-    `doc_text` is `corpus_document_text` and has NO DEFAULT, for the reason
+    `doc_text` is `corpus_document_text` (a document's markdown) and has NO DEFAULT, for the reason
     `link_enabling_authority.audit_statutory_names` has none: a default would let a caller
     check the table's shape and take the quotations on faith."""
     by_slug = {o["slug"]: o for o in cat["organizations"]}
@@ -710,22 +713,29 @@ def audit_alias_evidence(cat, aliases, evidence, doc_text, fallback_names=None) 
                                 f"quotation) pair: {pair!r}")
                 continue
             doc_id, quote = pair
-            if len(quote.split()) < MIN_ALIAS_QUOTE_WORDS:
+            if len(quote.split()) < MIN_QUOTE_WORDS:
                 problems.append(f"{slug}: evidence for {alias!r} is under "
-                                f"{MIN_ALIAS_QUOTE_WORDS} words, too short to pair a name "
+                                f"{MIN_QUOTE_WORDS} words, too short to pair a name "
                                 "with an acronym")
                 continue
-            text = doc_text(doc_id)
-            if text is None:
+            document = doc_text(doc_id)
+            if document is None:
                 problems.append(
                     f"{slug}: evidence for {alias!r} cites document {doc_id!r}, which this "
                     "corpus does not hold (or whose text could not be read) — could not "
                     "check, which is not the same as 'the document does not say it'")
                 continue
-            if " ".join(quote.split()) not in text:
+            found = quote_in_full_text(document, quote)
+            if found is None:
+                problems.append(
+                    f"{slug}: evidence for {alias!r} cites document {doc_id!r}, which has no "
+                    "`## Full text` section — could not check, which is not the same as "
+                    "'the document does not say it'")
+                continue
+            if not found:
                 problems.append(
                     f"{slug}: evidence for {alias!r} quotes {doc_id!r} as {quote!r}, which "
-                    "does not appear word for word in that document's full text")
+                    "does not appear word for word in that document's `## Full text`")
                 continue
             if not re.search(r"(?<![A-Za-z&])" + re.escape(alias) + r"(?![A-Za-z&])", quote):
                 problems.append(f"{slug}: the quotation for {alias!r} does not contain it")
@@ -1126,9 +1136,18 @@ def _proof_an_acronym_alias_needs_a_quotation_that_pairs_it_with_the_name() -> i
     """Every way an acronym alias's record can be wrong is refused, and the one valid record is
     not. The corpus here is two synthetic documents, so the proof reads nothing real and
     asserts nothing about any real body."""
-    docs = {"doc-a": "Purpose The Imaginary Bureau of Affairs (IBA) licenses imagined things. "
-                     "The Imaginary Bureau of Affairs also inspects them.",
-            "doc-b": "Definitions IBA means something else entirely."}
+    def doc(title, full_text):
+        return (f"---\ntitle: \"{title}\"\n---\n\n> The corpus's own banner.\n\n"
+                f"## At a glance\n\n{title}. Generated by the ingest.\n\n"
+                f"## Full text\n\n{full_text}\n\n## Curator notes\n\n"
+                "A note the curator added, which the document itself does not say.\n")
+    docs = {"doc-a": doc("Imaginary Bureau of Affairs rule",
+                         "Purpose The Imaginary Bureau of Affairs (IBA) licenses imagined "
+                         "things. The Imaginary Bureau of Affairs also inspects them."),
+            "doc-b": doc("Definitions", "Definitions IBA means something else entirely."),
+            # A DOCUMENT WITH NO `## Full text`: only a title and a stub.
+            "doc-stub": "---\ntitle: \"The Imaginary Bureau of Affairs (IBA)\"\n---\n\n"
+                        "The Imaginary Bureau of Affairs (IBA) is a stub.\n"}
     cat = {"organizations": [{"slug": "imaginary-bureau", "name": "Imaginary Bureau of Affairs",
                               "oar_name": "Imaginary Bureau of Affairs"}]}
     good = ("doc-a", "The Imaginary Bureau of Affairs (IBA) licenses imagined things.")
@@ -1145,6 +1164,19 @@ def _proof_an_acronym_alias_needs_a_quotation_that_pairs_it_with_the_name() -> i
         ("a quotation that names none of the body's own names",
          {"imaginary-bureau": {"IBA": ("doc-b", "IBA means something else entirely.")}},
          "none of the body's own names"),
+        # THE DOCUMENT'S OWN BOILERPLATE IS NOT WHAT IT SAYS. Each of these is in the FILE,
+        # and each used to match: the generated `At a glance` line, the frontmatter title and
+        # a curator's note beside the text. Only the `## Full text` is the document.
+        ("a quotation of the generated At a glance line",
+         {"imaginary-bureau": {"IBA": ("doc-a", "Imaginary Bureau of Affairs rule. Generated "
+                                                 "by the ingest.")}}, "word for word"),
+        ("a quotation of a curator's note beside the text",
+         {"imaginary-bureau": {"IBA": ("doc-a", "A note the curator added, which the "
+                                                 "document itself does not say.")}},
+         "word for word"),
+        ("a document with no full text to look in",
+         {"imaginary-bureau": {"IBA": ("doc-stub", "The Imaginary Bureau of Affairs (IBA) "
+                                                    "is a stub.")}}, "no `## Full text`"),
     ]
     bad = 0
     aliases = {"imaginary-bureau": ["IBA"]}

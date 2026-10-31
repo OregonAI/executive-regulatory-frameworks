@@ -671,8 +671,10 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   AN AGENT'S QUOTE-CHECK IS A REVIEW (operator decision 2026-10-30, ADR 0003's and ADR 0004's
   amendments). Where an agent, not a human, read a section, the row's record is in
   `QUOTE_CHECKS` (`src/link_enabling_authority.py`): the section id and a quotation taken from
-  THIS corpus's mirror of it, never from memory or another source. `--check` re-matches every
-  quotation word for word (`quote-in-the-cited-text`), requires a promoted name to sit inside a
+  THIS corpus's mirror of it (the ORS mirror, or the Constitution mirror for a constitutional
+  authority), never from memory or another source. `--check` re-matches every quotation word
+  for word inside that section's own `## Full text` (`quote-in-the-cited-text`; the mirror's
+  banner, `At a glance` line and provenance block are not the section), requires a promoted name to sit inside a
   quotation (`statutory-name-in-a-quote`) and a `source: statute` placement to carry the
   sentence that states it (`statute-placement-has-a-quote`); `--selftest` proves each can fail.
   An acronym enters `aliases` the same way, with a corpus document's id and the sentence that
