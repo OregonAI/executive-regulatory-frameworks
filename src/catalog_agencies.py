@@ -297,7 +297,10 @@ FIELDS = {
     # and all of which a consumer reading the slug would have to invent. `parent_chapter`
     # is NOT that pointer written again: it is the CHAPTER the rules index files the parent
     # under, scraped from the same tree, and `parent-agrees` states that it may not
-    # disagree with the body the row's relations name.
+    # disagree with the body the row's relations name. A row the index does not carry
+    # (`absent_from_index_as_of`) is never in that tree, so nothing scrapes its chapter and
+    # it is null: the placement rests on the relation alone (`placement_witnesses` counts
+    # those), and a chapter typed onto such a row by hand is a value no writer regenerates.
     "parent_chapter": Field(SCRAPED, required=True),
     # THE RELATIONS (CONTEXT.md), and since #174 the ONLY statement this registry makes
     # about which body another sits under: a target, the source whose evidence places it
@@ -498,7 +501,9 @@ REGISTRY_NOTE = (
     "assignment lives with the SoS Administrative Rules Unit). The names "
     "the scrape produces come from each chapter page's own title; the index tree "
     "provides the parent/sub-unit hierarchy, recorded in `relations` "
-    "(ADR 0004) with parent_chapter beside it. "
+    "(ADR 0004) with parent_chapter beside it: the OAR chapter of that "
+    "parent, scraped from the same tree, so null for a body the index does "
+    "not carry and for a body two sources place under two parents. "
     "Third registry source: a data.oregon.gov dataset and the SoS Blue "
     "Book directory were both previously used and dropped after review "
     "(2026-07-18/19). validate_frontmatter.py requires every content "
@@ -1476,16 +1481,43 @@ def placement_witnesses(orgs) -> str:
 
     So the number is REPORTED rather than left to be discovered. It is not zero and it is not
     a bug: an `oar-index` entry is SCRAPED, so a hand-deletion is rebuilt by the next
-    --refresh from the index tree. What a reader needs to know is how much of the file's
+    --refresh from the index tree (a curated `registry` or `statute` entry is not -- nothing
+    rebuilds it, and the line counts the bodies that hold one). What a reader needs to know
+    is how much of the file's
     hierarchy rests on a single unwitnessed statement, and that is this line (CONTEXT.md:
     "could not check" is never reported as "is not there")."""
+    by_slug = {o["slug"]: o for o in orgs if isinstance(o, dict) and o.get("slug")}
     placed = [o for o in orgs if parent_targets(o)]
     witnessed = [o for o in placed if o.get("parent_chapter") is not None]
+    alone = [o for o in placed if o.get("parent_chapter") is None]
+    # WHY A PLACEMENT HAS NO SECOND WITNESS, told apart and each counted once, in this order:
+    # two sources place the body under two parents, which one chapter cannot state; the
+    # parent holds no chapter to name; the body is one the index does not carry, so no scrape
+    # writes its chapter; anything else (which `parent-agrees` would be reporting).
+    disagreed = [o for o in alone if len(parent_targets(o)) > 1]
+    rest = [o for o in alone if o not in disagreed]
+    parent_without_chapter = [
+        o for o in rest
+        if any((by_slug.get(t) or {}).get("oar_chapter") is None for t in parent_targets(o))]
+    rest = [o for o in rest if o not in parent_without_chapter]
+    not_in_the_index = [o for o in rest if o.get(ABSENT_FROM_INDEX_KEY)]
+    # AND WHAT A DELETED ENTRY COSTS differs by source: an `oar-index` entry is rebuilt by the
+    # next --refresh from the tree, a `registry` or `statute` one is carried across and
+    # rebuilt by nothing.
+    curated = [o for o in alone
+               if any(isinstance(e, dict) and e.get("source") != OAR_INDEX
+                      for e in relation_entries(o))]
     return (f"{len(placed)} body placement(s), {len(witnessed)} of them witnessed a second "
-            f"time by parent_chapter; {len(placed) - len(witnessed)} rest on the relation "
-            "alone, because the parent holds no OAR chapter to witness them with — a "
-            "deleted entry there is rebuilt by the next --refresh and reported by nothing "
-            "in this file")
+            f"time by parent_chapter; {len(alone)} rest on the relation alone "
+            f"({len(disagreed)} because two sources place the body under two parents, "
+            f"which one chapter cannot state; {len(parent_without_chapter)} because the "
+            f"parent holds no OAR chapter to witness them with; {len(not_in_the_index)} "
+            "because the body is not in the index, so no scrape writes its chapter"
+            + (f"; {len(rest) - len(not_in_the_index)} for another reason" 
+               if len(rest) != len(not_in_the_index) else "")
+            + f") — a deleted `oar-index` entry there is rebuilt by the next --refresh, and "
+            f"a deleted curated one ({len(curated)} of these bodies hold one) is rebuilt by "
+            "nothing and reported by nothing in this file")
 
 
 def relation_counts(orgs) -> dict:
@@ -3319,6 +3351,15 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None,
         # would tell a reader the chapter is wrong when the placement is.
         parent = by_slug.get(targets[0])
         if parent is not None and chapter != parent.get("oar_chapter"):
+            # A BODY THE INDEX DOES NOT CARRY HAS NO SCRAPED CHAPTER. `parent_chapter` is read
+            # off the index tree (cmd_refresh), a row recorded `absent_from_index_as_of` is by
+            # definition not in that tree, and `_absent_entry()` builds it null; no writer
+            # puts a chapter there, so a null is the honest value and its placement rests on
+            # the relation alone, which `placement_witnesses` reports. A NON-null chapter on
+            # such a row must still agree, and every row the index DOES carry must hold its
+            # parent's chapter -- the exemption is this one pair, not a null.
+            if chapter is None and o.get(ABSENT_FROM_INDEX_KEY):
+                continue
             failures.append(Failure(
                 "parent-agrees", _row_id(o, i),
                 f"parent_chapter {chapter!r} but {targets[0]!r} holds chapter "
@@ -4312,6 +4353,20 @@ def _case_parent_chapter_on_a_body_under_nothing(cat):
     cat["organizations"][1][RELATION_KEY] = []
 
 
+def _case_parent_chapter_null_on_a_body_the_index_carries(cat):
+    """A body the index DOES carry, under a parent that holds a chapter, with no
+    `parent_chapter`. The exemption for a body the index does not carry is that one pair and
+    not a null: a scraped row's chapter is its parent's, and a refresh would write it back."""
+    cat["organizations"][1]["parent_chapter"] = None
+
+
+def _case_parent_chapter_wrong_on_a_body_the_index_does_not_carry(cat):
+    """A chapter typed onto a body the index does not carry, naming one its parent does not
+    hold. Such a row may hold no chapter at all, but one it does hold has to agree."""
+    gov, _das = _adopt_manual_row(cat)
+    gov["parent_chapter"] = "999"
+
+
 def _case_parent_chapter_where_the_sources_disagree(cat):
     """A body two sources place under two different parents, still carrying one
     `parent_chapter`. ADR 0003 keeps that disagreement rather than reconciling it, and one
@@ -4528,6 +4583,10 @@ _CASES = [
     # different chapter, a chapter with no placement behind it at all, and one chapter where
     # the sources name two parents and it can only speak for one of them.
     ("parent-chapter-disagrees", _case_parent_chapter_disagrees, "parent-agrees"),
+    ("parent-chapter-null-on-a-body-the-index-carries",
+     _case_parent_chapter_null_on_a_body_the_index_carries, "parent-agrees"),
+    ("parent-chapter-wrong-on-a-body-the-index-does-not-carry",
+     _case_parent_chapter_wrong_on_a_body_the_index_does_not_carry, "parent-agrees"),
     ("parent-chapter-on-a-body-under-nothing", _case_parent_chapter_on_a_body_under_nothing,
      "parent-agrees"),
     ("parent-chapter-where-the-sources-disagree",
@@ -5042,7 +5101,14 @@ def _proof_a_refresh_cannot_write_one_chapter_onto_a_body_two_sources_place() ->
     """The scrape sets `parent_chapter` from the index tree; a row a statute ALSO places holds
     two relations and `parent-agrees` requires the chapter null. The helper both refresh and
     its simulation run after merging must null exactly that row and leave a single-parent
-    row's chapter alone."""
+    row's chapter alone -- and BOTH CALL SITES have to call it.
+
+    Three things are run, because the helper alone proves nothing about either call site:
+    the helper on rows; `simulate_refresh()` over a registry whose two-parent row holds a stale
+    chapter (the helper is the only thing that can null it there: the simulation copies the
+    committed value); and `cmd_refresh()` ITSELF, against a stubbed network, a throwaway
+    registry and observation file, and a two-chapter synthetic index. Deleting the call in
+    either function leaves the stale chapter standing and fails the matching assertion."""
     bad = 0
     two = {"slug": "a", "parent_chapter": "943", RELATION_KEY: [
         {"target": "p", "source": OAR_INDEX, "kind": UNDETERMINED},
@@ -5059,7 +5125,91 @@ def _proof_a_refresh_cannot_write_one_chapter_onto_a_body_two_sources_place() ->
               f"{changed} two={two['parent_chapter']!r} one={one['parent_chapter']!r} "
               f"same={same['parent_chapter']!r}", file=sys.stderr)
         bad += 1
+
+    # THE REGISTRY BOTH RUNS START FROM: the fixture's Chief Financial Office sits under the
+    # Department of Administrative Services by the index and, here, under the Office of the
+    # Governor by a statute -- two parents -- and holds a chapter that names one of them.
+    def two_parent_rows():
+        rows = _fixture()["organizations"]
+        by = {o["slug"]: o for o in rows}
+        cfo = by["chief-financial-office"]
+        cfo[RELATION_KEY] = [index_relation("department-of-administrative-services"),
+                             {"target": "office-of-the-governor", "source": "statute",
+                              "kind": ADMINISTERED_BY, "basis": REVIEWED_AUTHORITY,
+                              "authority": "ORS 999.998"}]
+        cfo["parent_chapter"] = "125"
+        return rows
+
+    simulated = simulate_refresh(two_parent_rows())["chief-financial-office"]
+    if simulated["parent_chapter"] is not None:
+        print("FAIL simulate-refresh-nulls-the-chapter-of-a-body-two-sources-place: the "
+              f"simulation left parent_chapter {simulated['parent_chapter']!r}", file=sys.stderr)
+        bad += 1
+
+    index_html = (
+        '<dl>\n<dt class="col-sm-2">125</dt>\n<dd class="col-sm-10">'
+        '<a href="/rules/oar_chapter_125">Dept. of Administrative Services</a>\n'
+        '<div class="card quasi-sub-chapter"><dl>\n<dt class="col-sm-2">122</dt>\n'
+        '<dd class="col-sm-10"><a href="/rules/oar_chapter_122">Chief Financial Office</a>'
+        '</dd>\n</dl></div></dd>\n</dl>')
+    pages = {INDEX_URL: index_html,
+             f"{BASE}/rules/oar_chapter_125":
+                 "<title>OAR Chapter 125 - Department of Administrative Services</title>",
+             f"{BASE}/rules/oar_chapter_122":
+                 "<title>OAR Chapter 122 - Chief Financial Office</title>"}
+    import contextlib
+    import io
+    import tempfile
+    from pathlib import Path
+    here = globals()
+    saved = {k: here[k] for k in ("CATALOG", "INDEX_OBSERVATION", "get")}
+    saved_sleep = time.sleep
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp = Path(tmp)
+        (tmp / "agencies.yml").write_text(yaml.safe_dump(
+            {"note": REGISTRY_NOTE, "source_url": INDEX_URL, "retrieved": "2026-01-01",
+             "organizations": two_parent_rows()}, sort_keys=False, allow_unicode=True,
+            width=100))
+        try:
+            here["CATALOG"] = tmp / "agencies.yml"
+            here["INDEX_OBSERVATION"] = tmp / "observation.yml"
+            here["get"] = lambda url: pages[url]
+            time.sleep = lambda _s: None
+            with contextlib.redirect_stdout(io.StringIO()):
+                cmd_refresh()
+            refreshed = {o["slug"]: o for o in
+                         yaml.safe_load((tmp / "agencies.yml").read_text())["organizations"]}
+        except SystemExit as e:
+            print(f"FAIL refresh-proof-could-not-run: cmd_refresh() exited: {e}",
+                  file=sys.stderr)
+            return bad + 1
+        finally:
+            here.update(saved)
+            time.sleep = saved_sleep
+    cfo = refreshed.get("chief-financial-office") or {}
+    if cfo.get("parent_chapter") is not None or len(parent_targets(cfo)) != 2:
+        print("FAIL refresh-nulls-the-chapter-of-a-body-two-sources-place: after cmd_refresh() "
+              f"the row holds parent_chapter {cfo.get('parent_chapter')!r} over parents "
+              f"{parent_targets(cfo)!r}", file=sys.stderr)
+        bad += 1
     return bad
+
+
+def _proof_a_body_the_index_does_not_carry_may_hold_no_parent_chapter() -> int:
+    """The other half of `parent-agrees` for a body the index does not carry: placed under a
+    parent that holds a chapter, with `parent_chapter` null, it is NOT a failure -- no scrape
+    produces the chapter of a row that is not in the tree, and a hand-typed one is what this
+    exemption exists to stop needing."""
+    cat = _fixture()
+    gov, _das = _adopt_manual_row(cat)
+    gov["parent_chapter"] = None
+    failures = check_registry(cat, refresh_note=cat["note"],
+                              chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS)
+    if any(f.rule == "parent-agrees" for f in failures):
+        print("FAIL a-body-the-index-does-not-carry-may-hold-no-parent-chapter: "
+              f"{[f for f in failures if f.rule == 'parent-agrees']}", file=sys.stderr)
+        return 1
+    return 0
 
 
 def _proof_the_carry_is_what_keeps_an_established_statutory_name() -> int:
@@ -5719,6 +5869,7 @@ def selftest() -> int:
     bad += _proof_the_carry_is_what_keeps_an_established_statutory_name()
     bad += _proof_session_law_form_boundary()
     bad += _proof_a_refresh_cannot_write_one_chapter_onto_a_body_two_sources_place()
+    bad += _proof_a_body_the_index_does_not_carry_may_hold_no_parent_chapter()
     resolutions = 0
     for proof in (_proof_search_spans_every_name_a_body_is_known_by,
                   _proof_a_promoted_name_loses_no_resolution):

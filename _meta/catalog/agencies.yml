@@ -2,91 +2,93 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   scheme as presented by oregon.public.law/rules (an unofficial but well-maintained mirror; official chapter
   assignment lives with the SoS Administrative Rules Unit). The names the scrape produces come from each
   chapter page''s own title; the index tree provides the parent/sub-unit hierarchy, recorded in `relations`
-  (ADR 0004) with parent_chapter beside it. Third registry source: a data.oregon.gov dataset and the SoS
-  Blue Book directory were both previously used and dropped after review (2026-07-18/19). validate_frontmatter.py
-  requires every content file''s agency: field to resolve to ''statewide'', ''external'', or a slug here.
-  THREE NAME FIELDS, WHICH ARE THREE DIFFERENT STRINGS. name is the STATUTORY name (ADR 0003) — the name
-  the body''s enabling authority gives it — and name_basis, on every row, says whether this row actually
-  holds one: enabling-authority means the body''s enabling authority was read and what it calls the body
-  recorded, either by a human or by an agent, and the two are told apart by where the record lives (operator
-  decision 2026-10-30, ADR 0003''s amendment). A human''s record is in the field''s own text where the
-  field has any (a `none: ` reason says who reviewed it and when) and otherwise in the comments of the
-  table in src/link_enabling_authority.py that holds the row. An agent''s is a quote of the section, taken
-  from this corpus''s own ORS mirror or Constitution mirror and matched word for word against that section''s
-  `## Full text` on every run, recorded with the section id in that file''s QUOTE_CHECKS; a row an agent
-  reviewed has no other record, and a quote on a row a human reviewed is additional evidence, never its
-  review. --check counts the two kinds of review separately. The other basis, unverified-oar-title means
-  nobody has established a statutory name and name still holds the OAR chapter title it was scraped with,
-  unchanged (#168). The two are never the same state, and --check reports both counts on every run: a
-  row quietly keeping its OAR title under a field that means `statutory name` is a false statement about
-  Oregon law published under provenance. Which of the two a row is decides what --refresh does to its
-  name, so name is neither scraped nor curated: an established name is carried across untouched, and an
-  unverified one is rebuilt from the chapter page so an upstream retitle reaches it. oar_name is the OAR
-  name — the chapter page''s own title, which is the string OAR-derived joins must match; it is scraped,
-  so an upstream chapter retitle moves it. raw_index_name is a different string: the index''s own abbreviated
-  spelling. das_agency_number, where present, is the three-digit number DAS assigns the body in the Oregon
-  Accounting Manual (OAM 70.10.00) — it identifies the body in the state''s financial administration and
-  is not evidence that the body spends money, and it is what the oregon-budget corpus joins on; it is
-  hand-reviewed (src/link_budget_codes.py), is NOT scraped from the source above, and is preserved across
-  --refresh. Its absence on an entry means no counterpart was found, not that none was sought. relations,
-  on every row, is where each body''s placement under another is recorded (ADR 0004): a target slug, the
-  source whose evidence places it there, a kind, and — where one has been established — the authority
-  that makes it true. It REPLACED parent_slug, which this registry no longer carries (#174): a bare parent
-  slug could not say whose reading a placement was, which of ADR 0004''s two kinds it is, or on what authority.
-  A kind other than undetermined also records the BASIS it was derived from, which is a different fact
-  from the source: the source says who places this body under that one, the basis says what settled which
-  of ADR 0004''s two kinds it is, and a relation the OAR index discovered can have its kind decided by
-  a statute. The two bases are not the same strength. proposed-enabling-authority means the kind was derived
-  from a CANDIDATE in _meta/catalog/enabling-authority-review.yml that nobody has read — a proposal, not
-  evidence — and the row upgrades to reviewed-enabling-authority when the review lands (ADR 0004 records
-  this deviation and why it was taken). Only administered_by is derived: the absence of a candidate is
-  never read as evidence that a body is part_of anything, so a relation nothing speaks to stays undetermined,
-  which is the answer and not a gap. The kind is never guessed, and --check reports every kind, every
-  source and every basis with its count on each run. Kinds are written by ONE thing, src/derive_relation_kinds.py,
-  and carried across a --refresh per key: the scrape rebuilds the placement and the decision rides along.
-  A body may hold more than one relation, because the OAR index, DAS and statute may place it under different
-  parents and the disagreement is kept rather than reconciled (ADR 0003). A placement sourced `statute`
-  is one a mirrored ORS section states, and the quote that states it, which names the parent the relation
-  targets, is recorded in src/link_enabling_authority.py''s QUOTE_CHECKS. MIXED ORIGIN, which is why the
-  field is neither scraped nor curated: entries whose source is oar-index are REGENERATED by --refresh
-  from the index tree, so an upstream re-filing reaches this file, and every other entry is carried across
-  untouched. A body''s placement is sourced `registry`, and never `oar-index`, when it is one the index
-  does not carry: `absent_from_index_as_of` (#353) says so, dated, and no refresh can rebuild the entry
-  for such a row because the scrape cannot see it. An empty list means this registry places the body under
-  no other. absent_from_index_as_of, where present, is a DATED OBSERVATION -- not a derived fact -- that
-  a real, successful --refresh did not find this row in the live index as of that day; it carries the
-  row whole across the refresh that recorded it. It has exactly two writers, and both date it from a REAL
-  recorded fetch, never from today''s date read inline: --refresh (src/catalog_agencies.py''s record_absence_observations())
-  dates it the day of the fetch that just ran, and src/link_budget_codes.py''s _absent_entry() stamps
-  the SAME already-recorded observation''s own date onto a MANUAL_ENTRIES row it adds, refusing outright
-  if no observation has ever been recorded. It stays null until one of those two has run, which CONTEXT.md''s
-  overriding rule requires: ''could not check'' is never reported as ''is not there''. It marks sixty
-  rows today, including fourteen (chapters 111, 180, 265, 404, 419, 648, 699, 750, 800, 816, 831, 925,
-  944, 950) that DO carry an oar_chapter -- a mirror gap, not a chapterless body. `manual`, its predecessor,
-  is retired (#169): no row may carry it, whether or not this field does. enabling_authority, where present,
-  is what created the body — an ORS citation, a constitutional article, or an executive order (ADR 0003)
-  — or `none: ` and the reason there is none. It is reviewed (src/link_enabling_authority.py) by a human
-  or by an agent, each recorded where the name_basis sentence above says (ADR 0003''s amendment), is NOT
-  scraped, and is preserved across --refresh. An ABSENT enabling_authority means nobody has reviewed this
-  body yet; it never means the body has no enabling authority, which is what the `none: ` form says and
-  says with a reason. oar_chapter is the OAR chapter this body''s rules are filed under, scraped from
-  the index tree; null on the chapterless rows is not a gap — a body is in this registry because it EXISTS,
-  not because it issues rules. source_url is the chapter page each row was scraped from, where the scrape
-  found one: null on 45 of the 49 chapterless rows, not all of them — the other four hold a source_url
-  that is not a chapter page (three hold the mirror''s own rules index, https://oregon.public.law/rules,
-  and the saif-corporation row holds its own site). aliases, where present, are other names the same body
-  is known by, including former names after a rename — reviewed once, curated, and preserved across --refresh.
-  An acronym enters only with a quote from a corpus document that pairs it with the body''s name, recorded
-  with that document''s id in src/link_budget_codes.py''s ALIAS_EVIDENCE and matched word for word on
-  every run. note is scrape-only (#178): cmd_refresh() writes one of exactly three sentences into it,
-  when a chapter page''s title will not parse, its fetch fails, or a chapterless group''s children disagree
-  on a name prefix, and nothing else may live there, `manual` or not. curator_note holds hand-typed prose
-  about a row instead, protected across --refresh the way das_agency_number is: a finding a hand edit
-  cannot safely fold into a gated field, such as why a row is absent from the index when it carries a
-  chapter the mirror''s own index omits, or a body''s identity change the current derivation contract
-  cannot yet state as a relation (#212). This paragraph is itself checked against FIELDS by name on every
-  --check run (`note-covers-fields`, #185): a field FIELDS declares that these sentences do not mention
-  fails the gate, so this note cannot go stale the way it did before anything watched it.'
+  (ADR 0004) with parent_chapter beside it: the OAR chapter of that parent, scraped from the same tree,
+  so null for a body the index does not carry and for a body two sources place under two parents. Third
+  registry source: a data.oregon.gov dataset and the SoS Blue Book directory were both previously used
+  and dropped after review (2026-07-18/19). validate_frontmatter.py requires every content file''s agency:
+  field to resolve to ''statewide'', ''external'', or a slug here. THREE NAME FIELDS, WHICH ARE THREE
+  DIFFERENT STRINGS. name is the STATUTORY name (ADR 0003) — the name the body''s enabling authority gives
+  it — and name_basis, on every row, says whether this row actually holds one: enabling-authority means
+  the body''s enabling authority was read and what it calls the body recorded, either by a human or by
+  an agent, and the two are told apart by where the record lives (operator decision 2026-10-30, ADR 0003''s
+  amendment). A human''s record is in the field''s own text where the field has any (a `none: ` reason
+  says who reviewed it and when) and otherwise in the comments of the table in src/link_enabling_authority.py
+  that holds the row. An agent''s is a quote of the section, taken from this corpus''s own ORS mirror
+  or Constitution mirror and matched word for word against that section''s `## Full text` on every run,
+  recorded with the section id in that file''s QUOTE_CHECKS; a row an agent reviewed has no other record,
+  and a quote on a row a human reviewed is additional evidence, never its review. --check counts the two
+  kinds of review separately. The other basis, unverified-oar-title means nobody has established a statutory
+  name and name still holds the OAR chapter title it was scraped with, unchanged (#168). The two are never
+  the same state, and --check reports both counts on every run: a row quietly keeping its OAR title under
+  a field that means `statutory name` is a false statement about Oregon law published under provenance.
+  Which of the two a row is decides what --refresh does to its name, so name is neither scraped nor curated:
+  an established name is carried across untouched, and an unverified one is rebuilt from the chapter page
+  so an upstream retitle reaches it. oar_name is the OAR name — the chapter page''s own title, which is
+  the string OAR-derived joins must match; it is scraped, so an upstream chapter retitle moves it. raw_index_name
+  is a different string: the index''s own abbreviated spelling. das_agency_number, where present, is the
+  three-digit number DAS assigns the body in the Oregon Accounting Manual (OAM 70.10.00) — it identifies
+  the body in the state''s financial administration and is not evidence that the body spends money, and
+  it is what the oregon-budget corpus joins on; it is hand-reviewed (src/link_budget_codes.py), is NOT
+  scraped from the source above, and is preserved across --refresh. Its absence on an entry means no counterpart
+  was found, not that none was sought. relations, on every row, is where each body''s placement under
+  another is recorded (ADR 0004): a target slug, the source whose evidence places it there, a kind, and
+  — where one has been established — the authority that makes it true. It REPLACED parent_slug, which
+  this registry no longer carries (#174): a bare parent slug could not say whose reading a placement was,
+  which of ADR 0004''s two kinds it is, or on what authority. A kind other than undetermined also records
+  the BASIS it was derived from, which is a different fact from the source: the source says who places
+  this body under that one, the basis says what settled which of ADR 0004''s two kinds it is, and a relation
+  the OAR index discovered can have its kind decided by a statute. The two bases are not the same strength.
+  proposed-enabling-authority means the kind was derived from a CANDIDATE in _meta/catalog/enabling-authority-review.yml
+  that nobody has read — a proposal, not evidence — and the row upgrades to reviewed-enabling-authority
+  when the review lands (ADR 0004 records this deviation and why it was taken). Only administered_by is
+  derived: the absence of a candidate is never read as evidence that a body is part_of anything, so a
+  relation nothing speaks to stays undetermined, which is the answer and not a gap. The kind is never
+  guessed, and --check reports every kind, every source and every basis with its count on each run. Kinds
+  are written by ONE thing, src/derive_relation_kinds.py, and carried across a --refresh per key: the
+  scrape rebuilds the placement and the decision rides along. A body may hold more than one relation,
+  because the OAR index, DAS and statute may place it under different parents and the disagreement is
+  kept rather than reconciled (ADR 0003). A placement sourced `statute` is one a mirrored ORS section
+  states, and the quote that states it, which names the parent the relation targets, is recorded in src/link_enabling_authority.py''s
+  QUOTE_CHECKS. MIXED ORIGIN, which is why the field is neither scraped nor curated: entries whose source
+  is oar-index are REGENERATED by --refresh from the index tree, so an upstream re-filing reaches this
+  file, and every other entry is carried across untouched. A body''s placement is sourced `registry`,
+  and never `oar-index`, when it is one the index does not carry: `absent_from_index_as_of` (#353) says
+  so, dated, and no refresh can rebuild the entry for such a row because the scrape cannot see it. An
+  empty list means this registry places the body under no other. absent_from_index_as_of, where present,
+  is a DATED OBSERVATION -- not a derived fact -- that a real, successful --refresh did not find this
+  row in the live index as of that day; it carries the row whole across the refresh that recorded it.
+  It has exactly two writers, and both date it from a REAL recorded fetch, never from today''s date read
+  inline: --refresh (src/catalog_agencies.py''s record_absence_observations()) dates it the day of the
+  fetch that just ran, and src/link_budget_codes.py''s _absent_entry() stamps the SAME already-recorded
+  observation''s own date onto a MANUAL_ENTRIES row it adds, refusing outright if no observation has ever
+  been recorded. It stays null until one of those two has run, which CONTEXT.md''s overriding rule requires:
+  ''could not check'' is never reported as ''is not there''. It marks sixty rows today, including fourteen
+  (chapters 111, 180, 265, 404, 419, 648, 699, 750, 800, 816, 831, 925, 944, 950) that DO carry an oar_chapter
+  -- a mirror gap, not a chapterless body. `manual`, its predecessor, is retired (#169): no row may carry
+  it, whether or not this field does. enabling_authority, where present, is what created the body — an
+  ORS citation, a constitutional article, or an executive order (ADR 0003) — or `none: ` and the reason
+  there is none. It is reviewed (src/link_enabling_authority.py) by a human or by an agent, each recorded
+  where the name_basis sentence above says (ADR 0003''s amendment), is NOT scraped, and is preserved across
+  --refresh. An ABSENT enabling_authority means nobody has reviewed this body yet; it never means the
+  body has no enabling authority, which is what the `none: ` form says and says with a reason. oar_chapter
+  is the OAR chapter this body''s rules are filed under, scraped from the index tree; null on the chapterless
+  rows is not a gap — a body is in this registry because it EXISTS, not because it issues rules. source_url
+  is the chapter page each row was scraped from, where the scrape found one: null on 45 of the 49 chapterless
+  rows, not all of them — the other four hold a source_url that is not a chapter page (three hold the
+  mirror''s own rules index, https://oregon.public.law/rules, and the saif-corporation row holds its own
+  site). aliases, where present, are other names the same body is known by, including former names after
+  a rename — reviewed once, curated, and preserved across --refresh. An acronym enters only with a quote
+  from a corpus document that pairs it with the body''s name, recorded with that document''s id in src/link_budget_codes.py''s
+  ALIAS_EVIDENCE and matched word for word on every run. note is scrape-only (#178): cmd_refresh() writes
+  one of exactly three sentences into it, when a chapter page''s title will not parse, its fetch fails,
+  or a chapterless group''s children disagree on a name prefix, and nothing else may live there, `manual`
+  or not. curator_note holds hand-typed prose about a row instead, protected across --refresh the way
+  das_agency_number is: a finding a hand edit cannot safely fold into a gated field, such as why a row
+  is absent from the index when it carries a chapter the mirror''s own index omits, or a body''s identity
+  change the current derivation contract cannot yet state as a relation (#212). This paragraph is itself
+  checked against FIELDS by name on every --check run (`note-covers-fields`, #185): a field FIELDS declares
+  that these sentences do not mention fails the gate, so this note cannot go stale the way it did before
+  anything watched it.'
 source_url: https://oregon.public.law/rules
 retrieved: '2026-07-20'
 organizations:
@@ -97,7 +99,7 @@ organizations:
   oar_chapter: null
   raw_index_name: Advisory Council on Hearing Aids
   source_url: null
-  parent_chapter: '331'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority-health-licensing-office
     source: statute
@@ -125,7 +127,7 @@ organizations:
   oar_chapter: null
   raw_index_name: Board of Athletic Trainers
   source_url: null
-  parent_chapter: '331'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority-health-licensing-office
     source: statute
@@ -152,7 +154,7 @@ organizations:
   oar_chapter: null
   raw_index_name: Board of Electrologists and Body Art Practitioners
   source_url: null
-  parent_chapter: '331'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority-health-licensing-office
     source: statute
@@ -2059,7 +2061,7 @@ organizations:
   oar_chapter: null
   raw_index_name: Oregon Cannabis Commission
   source_url: null
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: statute
@@ -2818,7 +2820,7 @@ organizations:
   oar_chapter: null
   raw_index_name: Oregon Retirement Savings Board
   source_url: null
-  parent_chapter: '170'
+  parent_chapter: null
   relations:
   - target: oregon-state-treasury
     source: statute
@@ -3084,7 +3086,7 @@ organizations:
   oar_chapter: null
   raw_index_name: Respiratory Therapist and Polysomnographic Technologist Licensing Board
   source_url: null
-  parent_chapter: '331'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority-health-licensing-office
     source: statute
@@ -3199,7 +3201,7 @@ organizations:
   oar_chapter: null
   raw_index_name: Sexual Offense Treatment Board
   source_url: null
-  parent_chapter: '331'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority-health-licensing-office
     source: statute
@@ -3248,7 +3250,7 @@ organizations:
   oar_chapter: null
   raw_index_name: State Board of Denture Technology
   source_url: null
-  parent_chapter: '331'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority-health-licensing-office
     source: statute
@@ -3302,7 +3304,7 @@ organizations:
   oar_chapter: '750'
   raw_index_name: null
   source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=750-001-0001
-  parent_chapter: '731'
+  parent_chapter: null
   relations:
   - target: department-of-transportation
     source: statute

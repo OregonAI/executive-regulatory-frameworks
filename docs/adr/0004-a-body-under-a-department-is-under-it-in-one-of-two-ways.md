@@ -263,7 +263,12 @@ placement a different section states (ORS 576.066's administration of the commod
 above) is still the curated decision on a basis nothing derives, and is not recorded as `statute`
 here. The OAR index's reading of the same body is kept beside it, not reconciled (ADR 0003); a
 body the two sources place under different parents carries `parent_chapter: null`, because one
-chapter cannot state a disagreement (`parent-agrees`).
+chapter cannot state a disagreement (`parent-agrees`). So does a body the index does not carry
+(`absent_from_index_as_of`): `parent_chapter` is scraped from the index tree, nothing scrapes it for
+a row that is not in the tree, and `parent-agrees` lets the null stand there while still holding a
+chapter that IS written to agree with the parent's. The first pass of this amendment typed the
+parents' chapters onto nine such rows by hand; no writer produces them, so they are null, the
+placement rests on the relation alone, and `--check` counts those placements and says why.
 
 **The limit the amendment above names is still there, and a quote-check does not lift it.** The
 State Fire Marshal, Early Learning and Emergency Management were each detached from their parent
