@@ -524,8 +524,9 @@ kind decided by a statute. THREE STRENGTHS, which may never be collapsed into on
 by* — the first is the basis ADR 0004 describes, the authority the row itself carries,
 reviewed (by a human, or by an agent's quote-check, ADR 0004's amendment of 2026-10-30); the second is a CANDIDATE from `_meta/catalog/enabling-authority-review.yml`
 that nobody has read, which is a proposal and not evidence. `reviewed-absence` decides the
-OTHER kind, *part of* — `enabling_authority` recording `none: <reason>`, a human having
-looked and found nothing separate to enable (#222; ADR 0004's second derivation, deferred by
+OTHER kind, *part of* — `enabling_authority` recording `none: <reason>`, a reviewer (a human,
+or an agent whose quotation shows the unit is internal structure) having looked and found
+nothing separate to enable (#222; ADR 0004's second derivation, deferred by
 #173 and taken up once the field existed to review an absence into). The split between all
 three moves every time a review lands, so it is `relation_census()`'s live count, printed by
 `catalog_agencies.py --check` on every run, rather than a figure pinned in this glossary

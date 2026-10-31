@@ -62,9 +62,9 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   fetch that just ran, and src/link_budget_codes.py''s _absent_entry() stamps the SAME already-recorded
   observation''s own date onto a MANUAL_ENTRIES row it adds, refusing outright if no observation has ever
   been recorded. It stays null until one of those two has run, which CONTEXT.md''s overriding rule requires:
-  ''could not check'' is never reported as ''is not there''. It marks sixty rows today, including fourteen
-  (chapters 111, 180, 265, 404, 419, 648, 699, 750, 800, 816, 831, 925, 944, 950) that DO carry an oar_chapter
-  -- a mirror gap, not a chapterless body. `manual`, its predecessor, is retired (#169): no row may carry
+  ''could not check'' is never reported as ''is not there''. It marks 60 rows today, including 14 (chapters
+  111, 180, 265, 404, 419, 648, 699, 750, 800, 816, 831, 925, 944, 950) that DO carry an oar_chapter --
+  a mirror gap, not a chapterless body. `manual`, its predecessor, is retired (#169): no row may carry
   it, whether or not this field does. enabling_authority, where present, is what created the body — an
   ORS citation, a constitutional article, or an executive order (ADR 0003) — or `none: ` and the reason
   there is none. It is reviewed (src/link_enabling_authority.py) by a human or by an agent, each recorded
@@ -3439,8 +3439,11 @@ organizations:
     Board of Towing'', 2026-10-17). absent_from_index_as_of is the recorded index observation''s own date
     (oar_index_observation.yml, 2026-09-12), which lists no chapter 750; it was written by hand, not by
     --refresh or link_budget_codes. ORS 822.250(1): ''The State Board of Towing is established within
-    the Department of Transportation.'' OARD files the chapter under no parent, so no relation is recorded;
-    whether it is administered by the Department of Transportation is not yet decided.'
+    the Department of Transportation.'' OARD files the chapter under no parent, so the OAR index states
+    no placement; the `statute` relation records the one ORS 822.250(1) states (the sentence above, kept
+    in link_enabling_authority.py''s QUOTE_CHECKS), and its kind, `administered_by`, is derived from this
+    row''s own enabling authority by derive_relation_kinds.py. parent_chapter is null: the row is absent
+    from the index, so no scrape writes it.'
   enabling_authority: ORS 822.250
 - slug: state-fish-and-wildlife-commission
   name: State Fish and Wildlife Commission

@@ -48,17 +48,18 @@ decision 2026-10-30). This module reads `enabling_authority` and nothing about i
 section an agent quoted word for word from the mirror (link_enabling_authority.py's
 QUOTE_CHECKS) derives `administered_by` on basis `reviewed-enabling-authority` exactly as a
 human's reading does, and a `none: ` reason an agent wrote from a quoted section showing the
-unit is internal structure derives `part_of` on `reviewed-absence`. Where this file says "a
-human looked", read "a reviewer looked". A candidate nobody quoted stays a proposal.
+unit is internal structure derives `part_of` on `reviewed-absence`. This file therefore says "a
+reviewer" where it means whoever read the section, human or agent. A candidate nobody quoted stays
+a proposal.
 
 A REVIEWED ABSENCE DERIVES `part_of`, AND THIS IS THE SECOND DERIVATION #173 DEFERRED (#222).
-`none: <reason>` on a row means a human looked and found no separate authority, which is ADR
+`none: <reason>` on a row means a reviewer looked and found no separate authority, which is ADR
 0004's own description of a *part of* unit: nothing separately constitutes the body, so
 there is nothing separate to enable. That is EVIDENCE, at the strength of a reviewed
-authority — a human read the body's law and recorded what they found — and it is not the
+authority — a reviewer read the body's law and recorded what they found — and it is not the
 same fact as the ABSENCE OF A CANDIDATE this module refuses to derive from above. The two
 are opposite ends of "somebody looked": a `no_candidate` row is a statement about the
-matcher, and a `none: <reason>` row is a statement about the body, made by a human who read
+matcher, and a `none: <reason>` row is a statement about the body, made by a reviewer who read
 its law and found no separate authority to record. Confusing them would be exactly the
 failure this module's other half exists to prevent, one field over — so a reviewed absence
 is checked BEFORE the sheet is ever consulted (`decide()` reads `enabling_authority` first),
@@ -218,7 +219,7 @@ def decide(org, proposed) -> Decision | None:
             # short to be one, is not evidence of anything.
             return None
         if form == "reviewed-none":
-            # A HUMAN LOOKED AND FOUND NOTHING SEPARATE. `authority` is None: ADR 0004's
+            # A REVIEWER LOOKED AND FOUND NOTHING SEPARATE. `authority` is None: ADR 0004's
             # *part of* cites nothing, because there is nothing separate to cite, and
             # `catalog_agencies.relation_fault()` refuses a `part_of` relation that carries
             # one.
@@ -471,7 +472,7 @@ def check() -> int:
           f"{bases[PROPOSED_AUTHORITY]} from a PROPOSED candidate nobody has read, "
           f"{bases[REVIEWED_AUTHORITY]} from a REVIEWED enabling authority")
     print(f"  {PART_OF}: {kinds[PART_OF]} — {bases[REVIEWED_ABSENCE]} from a REVIEWED "
-          "ABSENCE (a human looked and found no separate authority to record); never from "
+          "ABSENCE (a reviewer looked and found no separate authority to record); never from "
           "the mere absence of a candidate")
     return 0
 

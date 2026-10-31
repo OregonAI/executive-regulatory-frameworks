@@ -473,6 +473,13 @@ CHAPTER_PAGE_COUNT_RE = re.compile(r"re-fetches (?:all )?([\d,]+) chapter pages"
 # somewhere in the note; `note-agrees-with-refresh` only proves the committed note matches
 # `REGISTRY_NOTE`, which can be wrong the same way and was — neither reads a number.
 NOTE_CHAPTERLESS_RE = re.compile(r"null on (\d+) of the (\d+) chapterless")
+# AND THE NOTE'S "It marks N rows today, including M (chapters ...) that DO carry an oar_chapter"
+# (F12 of the statute re-validation's review): a commit message said `note-numbers-current` held
+# that figure, and it held only the chapterless one -- "sixty" was a hand-typed count nothing read,
+# next to a hand-typed list of fourteen chapters. Digits, so it can be read, and the chapters are
+# checked against the rows that carry both `absent_from_index_as_of` and an `oar_chapter`.
+NOTE_ABSENT_RE = re.compile(
+    r"It marks (\d+) rows today, including (\d+) \(chapters ([0-9, ]*)\) that DO carry")
 
 
 def _default_chapter_page_docs():
@@ -595,8 +602,8 @@ REGISTRY_NOTE = (
     "onto a MANUAL_ENTRIES row it adds, refusing outright if no observation "
     "has ever been recorded. It stays null until one of those two has run, "
     "which CONTEXT.md's overriding rule requires: 'could not "
-    "check' is never reported as 'is not there'. It marks sixty rows "
-    "today, including fourteen (chapters 111, 180, 265, 404, 419, 648, 699, "
+    "check' is never reported as 'is not there'. It marks 60 rows "
+    "today, including 14 (chapters 111, 180, 265, 404, 419, 648, 699, "
     "750, 800, 816, 831, 925, 944, 950) that DO carry an oar_chapter -- "
     "a mirror gap, not a chapterless body. `manual`, its predecessor, is "
     "retired (#169): no row may carry it, whether or not this field does. "
@@ -749,15 +756,17 @@ RELATION_KINDS = (UNDETERMINED, PART_OF, ADMINISTERED_BY)
 #                                 link_enabling_authority.py from its reviewed table (a human's
 #                                 reading, or an agent's quote-check matched word for word).
 #                                 This is the basis ADR 0004 describes.
-#   reviewed-absence              `enabling_authority` records `none: <reason>` — A HUMAN
-#                                 LOOKED and found nothing separately constitutes this body.
+#   reviewed-absence              `enabling_authority` records `none: <reason>` — A REVIEWER
+#                                 LOOKED (a human; or an agent, whose quotation of the
+#                                 section shows the unit is internal structure, ADR 0003's
+#                                 amendment) and found nothing separately constitutes it.
 #                                 That is ADR 0004's own description of *part of*, and unlike
 #                                 the other two bases it decides the OTHER kind: nothing to
 #                                 cite, so the relation carries no `authority` (#222 — the
 #                                 second derivation #173 deliberately left untaken, because
 #                                 the ABSENCE of a candidate is a statement about the matcher
 #                                 and not about the body, and must never be confused with a
-#                                 human having looked and found none).
+#                                 reviewer having looked and found none).
 #
 # ALLOWLIST, NOT BLOCKLIST, as everywhere else in this module. A basis this registry has no
 # meaning for is a provenance nobody can act on, and it is indistinguishable from a typo in
@@ -1307,7 +1316,7 @@ def has_admitting_evidence(o) -> bool:
     #169 retires the flag everywhere this function returns True.
 
     A REVIEWED ABSENCE (`none: <reason>`) DOES NOT COUNT. `enabling_authority` carrying
-    `none: ...` is a human's recorded finding that no separate authority exists — real
+    `none: ...` is a reviewer's recorded finding that no separate authority exists — real
     evidence for ADR 0004's *part of* (#222; see REVIEWED_ABSENCE in
     derive_relation_kinds.py) — but it is the opposite of admitting evidence, not a second
     form of it: nothing here reads a reviewed absence of one kind of evidence as the
@@ -2179,8 +2188,9 @@ def preserve_name(prev_orgs, by_slug, per_row_keys=None):
 
     PER ROW, NOT PER FIELD, which is what PER_ROW means and why this sits beside
     preserve_curated() and preserve_relations() rather than inside either. The scrape has
-    just rebuilt every row's `name` from the chapter page — which is right for the 185 rows
-    whose `name` IS the chapter title and nothing more, and is a silent overwrite of a
+    just rebuilt every row's `name` from the chapter page — which is right for the rows
+    whose `name` IS the chapter title and nothing more (`name_census()`'s
+    `unverified-oar-title` count), and is a silent overwrite of a
     reviewed statutory name on the rows where the body's enabling authority was read (by a
     human, or by an agent's word-for-word quote-check, ADR 0003's amendment) and what it
     calls the body recorded (ADR 0003). Neither whole-field origin is true, so the
@@ -3165,6 +3175,23 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None,
                     "update the literal in REGISTRY_NOTE (src/catalog_agencies.py) and "
                     "re-run --refresh so the committed note picks it up"))
 
+    if isinstance(file_note, str):
+        m = NOTE_ABSENT_RE.search(file_note)
+        if m:
+            marked = [o for o in orgs if isinstance(o, dict) and o.get(ABSENT_FROM_INDEX_KEY)]
+            chaptered = sorted(str(o["oar_chapter"]) for o in marked if o.get("oar_chapter"))
+            stated = (int(m.group(1)), int(m.group(2)),
+                      sorted(c.strip() for c in m.group(3).split(",") if c.strip()))
+            live = (len(marked), len(chaptered), chaptered)
+            if stated != live:
+                failures.append(Failure(
+                    "note-numbers-current", "agencies.yml",
+                    f"the registry's own top-level `note` states \"It marks {stated[0]} rows "
+                    f"today, including {stated[1]} (chapters {', '.join(stated[2])})\"; the "
+                    f"committed registry has {live[0]} rows carrying `{ABSENT_FROM_INDEX_KEY}`, "
+                    f"{live[1]} of them with an oar_chapter ({', '.join(live[2])}) — update the "
+                    "literal in REGISTRY_NOTE (src/catalog_agencies.py)"))
+
     # HOW MANY CHAPTER PAGES A --refresh FETCHES, AGAINST WHAT TWO OTHER SCRIPTS SAY IT
     # DOES (#279). `expand_oar_name.py` and `record_name_basis.py` both explain, in prose,
     # why they are a one-shot script rather than a --refresh by naming that refresh's
@@ -3400,9 +3427,10 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None,
     # A FIELD THAT HOLDS ONE CHAPTER CANNOT STATE A DISAGREEMENT. A body may hold more than
     # one relation, because the sources may place it under different parents and ADR 0003
     # keeps that (ADR 0004). There is then no single parent whose chapter this field could
-    # hold, and writing either one publishes one source's reading as the registry's. No
-    # committed row is in that state; the rule says what happens on the day one is, rather
-    # than picking for it.
+    # hold, and writing either one publishes one source's reading as the registry's. Eight
+    # committed rows are in that state (the Health Licensing Office's boards: the index files
+    # them under the Authority, a statute under the Office), and the rule holds their chapter
+    # null rather than picking one of the two.
     by_slug = {o["slug"]: o for _, o in rows if isinstance(o.get("slug"), str)}
     for i, o in rows:
         targets = parent_targets(o)
@@ -4536,6 +4564,14 @@ def _case_note_diverges_from_what_refresh_would_write(cat):
     cat["note"] += " A sentence cmd_refresh() would never write."
 
 
+def _case_note_absent_count_stale(cat):
+    """The note's "It marks N rows today, including M (chapters ...)" claim, wrong against the
+    fixture's own data: one row (`gov`) carries `absent_from_index_as_of`, and it holds no
+    chapter, so the true sentence would read "marks 1 rows today, including 0 (chapters )". This
+    appends a count and a chapter list the fixture contradicts."""
+    cat["note"] += " It marks 7 rows today, including 1 (chapters 999) that DO carry an x."
+
+
 def _case_note_chapterless_count_stale(cat):
     """The note's own "null on N of the M chapterless" claim, wrong against the fixture's
     own data (code review of #281: the real committed note carried this exact sentence
@@ -4647,6 +4683,7 @@ _CASES = [
      "note-agrees-with-refresh"),
     ("note-chapterless-count-stale", _case_note_chapterless_count_stale,
      "note-numbers-current"),
+    ("note-absent-count-stale", _case_note_absent_count_stale, "note-numbers-current"),
     ("row-the-simulation-cannot-run-on", _case_row_the_simulation_cannot_run_on,
      "survives-refresh"),
     ("slug-the-scrape-would-not-produce", _case_slug_the_scrape_would_not_produce,
@@ -5303,8 +5340,8 @@ def _proof_the_carry_is_what_keeps_an_established_statutory_name() -> int:
     row cannot come back saying a rules-index title was read off an authority.
 
     AND THE UNVERIFIED ROW MUST STILL TRACK THE INDEX, which is the fourth. A carry that kept
-    every row's name would freeze 185 rows at whatever the rules index said the day they were
-    scraped, under a basis stating that they hold what the rules index prints — the opposite
+    every row's name would freeze every unverified row at whatever the rules index said the day
+    they were scraped, under a basis stating that they hold what the rules index prints — the opposite
     failure, and the one a whole-field CURATED declaration would produce.
     """
     rows = _fixture()["organizations"]

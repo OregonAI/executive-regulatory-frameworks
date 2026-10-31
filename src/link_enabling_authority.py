@@ -65,12 +65,14 @@ registry. A reviewer moves rows into MAPPED or UNMAPPED below. `--check` then ve
 committed table against the mirrored corpus, in CI, from committed data alone.
 
 THE REVIEWER IS A HUMAN, OR AN AGENT WHOSE QUOTE IS MATCHED WORD FOR WORD (operator decision
-2026-10-30, ADR 0003's amendment). Every row that predates that decision was read by a human
-and records no quote, which is why a row's absence from QUOTE_CHECKS means "read by a human",
-never "not reviewed". A row an agent reviewed is in QUOTE_CHECKS: the ORS section id and the
-quotation the agent took from THIS CORPUS'S OWN MIRROR of it — never from memory, never from
-another source — and `quote-in-the-cited-text` re-matches every quotation against the mirror
-on every run, whitespace aside and nothing else, so a mirror that later changes fails loudly
+2026-10-30, ADR 0003's amendment). Who read a row is the TABLE IT SITS IN (HUMAN_MAPPED and
+AGENT_MAPPED, and the same pair for UNMAPPED and the names), so a row's review stays
+distinguishable: a row in a HUMAN_ table predates the decision and its record is the comments, and
+a quotation beside it in QUOTE_CHECKS is additional evidence, never its review. A row an agent
+reviewed is in QUOTE_CHECKS: the ORS section id and the quotation the agent took from THIS
+CORPUS'S OWN MIRROR of it — never from memory, never from another source — and
+`quote-in-the-cited-text` re-matches every quotation inside that section's own `## Full text` on
+every run, whitespace aside and nothing else, so a mirror that later changes fails loudly
 instead of leaving a review record that no longer describes the text. The agent's review is
 not weaker for being checkable; it is the only review in this file a machine can re-perform.
 What it does NOT cover: an absence. "No section creates this body" is a finding about a
@@ -838,19 +840,20 @@ LOOKED_AT: dict[str, str] = {
 # places to be wrong.
 #
 # EVERY ROW HERE HAS BEEN READ AGAINST THE CITED TEXT (by a human, or by an agent whose
-# quotation is in QUOTE_CHECKS), and unlike MAPPED it is also RESOLVED: `statutory-name-in-the-cited-text` below requires the recorded name to
-# appear in the mirrored section MAPPED cites for that body. That is a weaker claim than "the
+# quotation is in QUOTE_CHECKS), and unlike MAPPED it is also RESOLVED:
+# `statutory-name-in-the-cited-text` below requires the recorded name to appear in the
+# mirrored section MAPPED cites for that body. That is a weaker claim than "the
 # statute names the body this" — a section can mention a name it does not confer — and it is
 # the strongest claim a gate can make. What it rules out is the failure that matters: a name
 # nobody read, sitting in `name` under a basis that says an authority gave it.
 #
-# THIS TABLE IS DELIBERATELY SMALL AND EXPECTED TO STAY THAT WAY FOR A WHILE. 114 rows carry a
-# reviewed enabling authority and could have their names read off it (#279, re-measured for
-# #281); five have been. The rest record `unverified-oar-title` and say so on every row, which
-# is the honest state and the whole point of #168 — a registry that quietly promoted 190 OAR
-# titles to statutory names would be 190 false statements about Oregon law, and one that
-# promoted the 114 by pattern-matching would be an unknown number of them. A name that was
-# matched and not read does not belong here, for the reason MAPPED gives about citations.
+# THIS TABLE GREW FROM FIVE ROWS TO MOST OF THE ROWS THAT CARRY A REVIEWED AUTHORITY, and the
+# rows it does not reach record `unverified-oar-title` and say so on every row, which is the
+# honest state and the whole point of #168 — a registry that quietly promoted every OAR title
+# to a statutory name would be a false statement about Oregon law per row, and one that
+# promoted them by pattern-matching would be an unknown number of them. The live split is
+# `name_census()`'s, printed by `--check`. A name that was matched and not read does not belong
+# here, for the reason MAPPED gives about citations.
 #
 # WHO READ IT is the table, as for MAPPED above. HUMAN_NAMES are the six read before the
 # 2026-10-30 decision (the record is the comments); AGENT_NAMES were read since, and `--check`
@@ -1135,8 +1138,9 @@ BY_HUMAN = ByHuman(frozenset(HUMAN_MAPPED), frozenset(HUMAN_UNMAPPED), frozenset
 #                body sits, from the section the relation cites as its authority, and that
 #                names the relation's target as the body it sits under
 #                (`statute-placement-has-a-quote`).
-# A row with none of those in this table was read by a human (every row that predates the
-# 2026-10-30 decision) and is not thereby unreviewed.
+# A row with none of those in this table is a row a human reviewed before the 2026-10-30 decision
+# only if it sits in a HUMAN_ table: a row in an AGENT_ table, or in neither, without its
+# quotation FAILS (`agent-review-has-a-quote`, `statutory-name-in-a-quote`).
 #
 # A QUOTATION IS NOT CITABLE TEXT in the sense the mirror is: it is an excerpt, whitespace
 # collapsed, subsection markers dropped. The mirrored section is the text.
@@ -3108,7 +3112,8 @@ def apply_reviewed(cat, mapped=None, unmapped=None, names=None) -> int:
         # and the second run dumps the same bytes.
         # NAME READER — MACHINERY: --apply writing the reviewed value into the field. It
         # operates on the key, not on the body's identity; WHICH name belongs there was
-        # decided by a human reading the cited section, and is recorded in STATUTORY_NAMES.
+        # decided by a reviewer reading the cited section (a human, or an agent's quotation), and
+        # is recorded in STATUTORY_NAMES.
         name = names.get(o.get("slug"))
         if name is not None and (o.get("name") != name
                                  or o.get(NAME_BASIS_KEY) != ENABLING_AUTHORITY_NAME):
@@ -3308,9 +3313,8 @@ def _fixture():
     # get a name that is genuinely present in their synthetic text, so the base fixture
     # proves the TRUE POSITIVE for every resolvable form on every single case run via the
     # "fixture passes cleanly" assertion below, not only in a dedicated case). The rest carry
-    # their OAR title under `unverified-oar-title`, which is the state 185 of the 189
-    # committed rows are in and the one a fixture holding only reviewed rows would make
-    # impossible to hold. `legislative-imaginary-office` (session law) is deliberately NOT
+    # their OAR title under `unverified-oar-title`, which is a state the committed rows are
+    # in and the one a fixture holding only reviewed rows would make impossible to hold. `legislative-imaginary-office` (session law) is deliberately NOT
     # among them: #211's form does not resolve, so there is no text a name could be checked
     # against, and giving it one here would test a mechanism this form does not have.
     #
