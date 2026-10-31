@@ -36,6 +36,8 @@ THE MATCHER'S OWN BUGS, RECORDED because they are the reason not to trust one:
 """
 from __future__ import annotations
 
+import os
+import re
 import sys
 
 import yaml
@@ -100,6 +102,13 @@ MANUAL_ENTRIES = [
 #
 #    Sourced from the names Oregon appropriation bills actually use, measured in
 #    oregon-budget (_meta/unresolved-agencies.md).
+#
+#    AN ACRONYM IS AN ALIAS ONLY WITH A QUOTATION (operator decision 2026-10-30, ADR 0003's
+#    amendment): ALIAS_EVIDENCE below holds, for each one, the id of a document in this corpus
+#    that pairs it with the body's name and the sentence that does, and
+#    `audit_alias_evidence` re-matches the sentence against the document word for word on
+#    every --check. The older aliases here (former names after a rename, the budget dataset's
+#    spellings) were reviewed by a human and carry no quotation.
 ALIASES = {
     "department-of-forestry": ["State Forestry Department"],
     "land-conservation-and-development-department": [
@@ -135,6 +144,130 @@ ALIASES = {
     "public-records-advocate": ["Office of the Public Records Advocate"],
     "higher-education-coordinating-commission": ["Higher Education Coordinating Commission"],
 }
+
+
+# slug -> {acronym: (document id, quotation)}. THE REVIEW RECORD OF AN ACRONYM ALIAS: the id of a
+# document in THIS CORPUS (an OAR rule, an agency policy, a records-retention schedule, an
+# executive order) that pairs the acronym with the body's name, and the sentence in it that
+# does — "Oregon Department of Human Services (ODHS)" is the shape — taken from that
+# document's `## Full text` and matched against it word for word on every run
+# (`audit_alias_evidence`: whitespace is the only thing normalised). The acronym has to be
+# inside the quotation and so does one of the body's own names, which is the gate's whole
+# reading of "pairs"; whether the document means THIS body by it is what the person or agent
+# who chose the quotation answers for.
+#
+# AN ACRONYM TWO BODIES BOTH USE IS NOT RECORDED FOR EITHER. ODA is the Oregon Department of
+# Agriculture in 27 documents and the Oregon Department of Aviation in 4, and DOE and OSAC are
+# each two bodies' too; an alias is an assertion of identity, and one the corpus itself uses
+# for two bodies would make a search for it depend on which row a reader reached first.
+ALIAS_EVIDENCE: dict[str, dict[str, tuple[str, str]]] = {
+}
+
+# A single token with two or more capitals is an acronym for this table's purposes.
+ACRONYM = re.compile(r"(?=(?:.*[A-Z]){2})[A-Z][A-Za-z&]{1,9}")
+CORPUS_ROOTS = ("rules", "agencies", "executive-orders", "statutes", "constitution",
+                "external-references")
+MIN_ALIAS_QUOTE_WORDS = 3
+
+_DOCUMENT_INDEX: dict[str, str] | None = None
+
+
+def corpus_document_text(doc_id: str):
+    """The `## Full text` of the corpus document whose id is `doc_id`, whitespace collapsed,
+    or None when this corpus holds no such document (or none whose text can be read) — which
+    is 'could not check', never 'the document does not say it'.
+
+    The index of ids is built once, from the file names, because ERF names every document
+    file after its id and walks 80,000 of them."""
+    global _DOCUMENT_INDEX
+    if _DOCUMENT_INDEX is None:
+        _DOCUMENT_INDEX = {}
+        for root in CORPUS_ROOTS:
+            for dirpath, _dirs, files in os.walk(REPO_ROOT / root):
+                for name in files:
+                    if name.endswith(".md"):
+                        _DOCUMENT_INDEX.setdefault(name[:-3], os.path.join(dirpath, name))
+    path = _DOCUMENT_INDEX.get(doc_id)
+    if path is None:
+        return None
+    try:
+        text = open(path, encoding="utf-8", errors="replace").read()
+    except OSError:
+        return None
+    i = text.find("## Full text")
+    return " ".join((text[i:] if i >= 0 else text).split())
+
+
+def _fold(text) -> str:
+    """A name or quotation folded for the 'is one of the body's names in it' test only: case
+    and the typographic apostrophe, nothing else. The word-for-word match of the quotation
+    against its document is NOT folded."""
+    return " ".join(str(text).replace("\u2019", "'").split()).casefold()
+
+
+def audit_alias_evidence(cat, aliases, evidence, doc_text, fallback_names=None) -> list[str]:
+    """Faults in ALIAS_EVIDENCE and in the acronym aliases it is the record of.
+
+    `doc_text` is `corpus_document_text` and has NO DEFAULT, for the reason
+    `link_enabling_authority.audit_statutory_names` has none: a default would let a caller
+    check the table's shape and take the quotations on faith."""
+    by_slug = {o["slug"]: o for o in cat["organizations"]}
+    # A body MANUAL_ENTRIES is about to add has no row yet; its name is the one it will be
+    # added under (`fallback_names`), so the check does not need the row to exist first.
+    fallback_names = fallback_names or {}
+    problems = []
+    for slug, names in sorted(aliases.items()):
+        for alias in names:
+            if ACRONYM.fullmatch(alias) and alias not in (evidence.get(slug) or {}):
+                problems.append(
+                    f"{slug}: acronym alias {alias!r} has no ALIAS_EVIDENCE — an acronym "
+                    "enters `aliases` only with a quotation from a corpus document that "
+                    "pairs it with the body's name")
+    for slug, by_alias in sorted(evidence.items()):
+        if slug not in aliases:
+            problems.append(f"{slug}: ALIAS_EVIDENCE names a body ALIASES does not")
+            continue
+        row = by_slug.get(slug) or {"name": fallback_names.get(slug)}
+        # NAME READER — JOIN: a corpus document's quotation matched against EVERY name the
+        # body is known by — the statutory `name`, the OAR `oar_name` and its non-acronym
+        # aliases — to decide whether the document is talking about this body. A document
+        # prints whichever spelling its source used, so matching either is the point.
+        own_names = [_fold(n) for n in [row.get("name"), row.get("oar_name")]
+                     + [a for a in aliases[slug] if not ACRONYM.fullmatch(a)] if n]
+        for alias, pair in sorted(by_alias.items()):
+            if alias not in aliases[slug]:
+                problems.append(f"{slug}: ALIAS_EVIDENCE holds evidence for {alias!r}, which "
+                                "ALIASES does not carry for it")
+                continue
+            if (not isinstance(pair, tuple) or len(pair) != 2
+                    or not all(isinstance(x, str) and x.strip() for x in pair)):
+                problems.append(f"{slug}: evidence for {alias!r} is not a (document id, "
+                                f"quotation) pair: {pair!r}")
+                continue
+            doc_id, quote = pair
+            if len(quote.split()) < MIN_ALIAS_QUOTE_WORDS:
+                problems.append(f"{slug}: evidence for {alias!r} is under "
+                                f"{MIN_ALIAS_QUOTE_WORDS} words, too short to pair a name "
+                                "with an acronym")
+                continue
+            text = doc_text(doc_id)
+            if text is None:
+                problems.append(
+                    f"{slug}: evidence for {alias!r} cites document {doc_id!r}, which this "
+                    "corpus does not hold (or whose text could not be read) — could not "
+                    "check, which is not the same as 'the document does not say it'")
+                continue
+            if " ".join(quote.split()) not in text:
+                problems.append(
+                    f"{slug}: evidence for {alias!r} quotes {doc_id!r} as {quote!r}, which "
+                    "does not appear word for word in that document's full text")
+                continue
+            if not re.search(r"(?<![A-Za-z&])" + re.escape(alias) + r"(?![A-Za-z&])", quote):
+                problems.append(f"{slug}: the quotation for {alias!r} does not contain it")
+            if not any(n and n in _fold(quote) for n in own_names):
+                problems.append(f"{slug}: the quotation for {alias!r} contains none of the "
+                                "body's own names, so it does not pair the two")
+    return problems
 
 
 # code -> registry slug. Reviewed by hand, 2026-07-28.
@@ -524,17 +657,65 @@ def _proof_audit_refuses_a_manual_entry_that_holds_a_chapter() -> int:
     return 0
 
 
+def _proof_an_acronym_alias_needs_a_quotation_that_pairs_it_with_the_name() -> int:
+    """Every way an acronym alias's record can be wrong is refused, and the one valid record is
+    not. The corpus here is two synthetic documents, so the proof reads nothing real and
+    asserts nothing about any real body."""
+    docs = {"doc-a": "Purpose The Imaginary Bureau of Affairs (IBA) licenses imagined things. "
+                     "The Imaginary Bureau of Affairs also inspects them.",
+            "doc-b": "Definitions IBA means something else entirely."}
+    cat = {"organizations": [{"slug": "imaginary-bureau", "name": "Imaginary Bureau of Affairs",
+                              "oar_name": "Imaginary Bureau of Affairs"}]}
+    good = ("doc-a", "The Imaginary Bureau of Affairs (IBA) licenses imagined things.")
+    cases = [
+        ("an acronym with no evidence at all", {}, None),
+        ("a quotation the document does not say",
+         {"imaginary-bureau": {"IBA": ("doc-a", "The Imaginary Bureau of Affairs (IBA) "
+                                                 "licenses real things.")}}, "word for word"),
+        ("a document this corpus does not hold",
+         {"imaginary-bureau": {"IBA": ("doc-z", good[1])}}, "could not check"),
+        ("a quotation that does not contain the acronym",
+         {"imaginary-bureau": {"IBA": ("doc-a", "The Imaginary Bureau of Affairs also "
+                                                 "inspects them.")}}, "does not contain it"),
+        ("a quotation that names none of the body's own names",
+         {"imaginary-bureau": {"IBA": ("doc-b", "IBA means something else entirely.")}},
+         "none of the body's own names"),
+    ]
+    bad = 0
+    aliases = {"imaginary-bureau": ["IBA"]}
+    for label, evidence, phrase in cases:
+        problems = audit_alias_evidence(cat, aliases, evidence, docs.get)
+        if not problems or (phrase and not any(phrase in p for p in problems)):
+            print(f"FAIL acronym-alias-{label.replace(' ', '-')}: {problems!r}",
+                  file=sys.stderr)
+            bad += 1
+    held = audit_alias_evidence(cat, aliases, {"imaginary-bureau": {"IBA": good}}, docs.get)
+    if held:
+        print(f"FAIL acronym-alias-with-a-true-quotation-passes: {held!r}", file=sys.stderr)
+        bad += 1
+    # A FORMER NAME IS NOT AN ACRONYM and needs no quotation: older aliases here carry none.
+    if audit_alias_evidence(cat, {"imaginary-bureau": ["Bureau of Imagined Affairs"]}, {},
+                            docs.get):
+        print("FAIL a-former-name-needs-no-quotation", file=sys.stderr)
+        bad += 1
+    return bad
+
+
 def selftest() -> int:
-    bad = _proof_absent_entry_dates_the_observations_own_date_not_today()
+    bad = _proof_an_acronym_alias_needs_a_quotation_that_pairs_it_with_the_name()
+    bad += _proof_absent_entry_dates_the_observations_own_date_not_today()
     bad += _proof_main_refuses_missing_entries_with_no_observation()
     bad += _proof_audit_refuses_a_manual_entry_that_holds_a_chapter()
     if bad:
         print(f"{bad} proof(s) did not hold", file=sys.stderr)
         return 1
-    print("3 proofs held: _absent_entry() dates the observation's own date (never "
+    print("4 proofs held: _absent_entry() dates the observation's own date (never "
           "today()/manual) and refuses a name the observation already lists; main() "
           "refuses to add anything when no observation is recorded at all; audit() "
-          "refuses a MANUAL_ENTRIES body whose row holds an OAR chapter")
+          "refuses a MANUAL_ENTRIES body whose row holds an OAR chapter; "
+          "audit_alias_evidence() refuses an acronym alias with no quotation, a quotation "
+          "its document does not say, a document the corpus does not hold, and a quotation "
+          "that does not pair the acronym with one of the body's names")
     return 0
 
 
@@ -543,7 +724,9 @@ def main() -> int:
         return selftest()
     check = "--check" in sys.argv
     cat = load()
-    problems = audit(cat)
+    problems = audit(cat) + audit_alias_evidence(
+        cat, ALIASES, ALIAS_EVIDENCE, corpus_document_text,
+        {slug: name for slug, name, _code in MANUAL_ENTRIES})
     if problems:
         for p in problems:
             print(f"  ERROR {p}", file=sys.stderr)
@@ -577,9 +760,12 @@ def main() -> int:
             if sorted(names) != sorted(got):
                 print(f"  FAIL {slug}: aliases are {got!r}, table says {sorted(names)!r}")
                 bad += 1
+        acronyms = sum(1 for names in ALIASES.values() for a in names if ACRONYM.fullmatch(a))
         print(f"\n{len(want)} codes mapped, {len(UNMAPPED)} deliberately unmapped, "
               f"{len(MANUAL_ENTRIES)} manual entries, "
-              f"{sum(len(v) for v in ALIASES.values())} aliases"
+              f"{sum(len(v) for v in ALIASES.values())} aliases, of which {acronyms} "
+              "acronym(s), each paired with its body's name by a quotation matched word for "
+              "word against the corpus document it names"
               if not bad else f"\n{bad} discrepancy(ies)")
         return 1 if bad else 0
 

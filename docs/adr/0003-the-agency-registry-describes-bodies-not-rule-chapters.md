@@ -197,3 +197,58 @@ commissions created under ORS 576.051 to 576.455, so the enumerated-list evidenc
 21 rest on does not reach it and it needed its own citation. The sentence above is left
 exactly as it stood when drafted, per this ADR's own convention two paragraphs up; this note
 is the pointer forward, not a correction of it.
+
+## Amendment (2026-10-30): an agent's quote-check counts as the review
+
+This ADR makes `name` the statutory name — "the one its enabling authority gives it" — and
+everything built on it says a human read that authority: the registry `note` ("`enabling-authority`
+means a human read the body's enabling authority and recorded what it calls the body"),
+CONTEXT.md's *Statutory name*, *Name basis* and *Enabling authority* entries, AGENTS.md's registry
+section, and the "READ BY A HUMAN" headers over the reviewed tables in
+`src/link_enabling_authority.py`. Nothing in the argument above turns on the reader being a human.
+What it turns on is the sentence that retired `manual: true`: "an assertion records that someone
+decided, never what decided it" — a claim about Oregon law has to be traceable to the text that
+makes it true. The operator decided on 2026-10-30 that an agent's verified quotation of the
+statute text is that traceability, and counts as the review the labels `name_basis:
+enabling-authority`, `enabling_authority`, a reviewed absence and a `source: statute` placement
+require. The text above stands unedited, per this ADR's own convention; the "a human read" in the
+sentences listed is superseded by this section.
+
+**The terms, each of which a gate enforces.**
+
+1. *The quotation comes from this corpus's own mirror.* It is taken from `statutes/` (or, for the
+   other two forms of authority, `constitution/` and `executive-orders/`) — never from memory,
+   another website, or anything outside the repository — and recorded with the section id in
+   `QUOTE_CHECKS` (`src/link_enabling_authority.py`). An acronym alias records the id of the
+   corpus document that pairs it with the body's name in `ALIAS_EVIDENCE`
+   (`src/link_budget_codes.py`).
+2. *It is matched word for word, on every run.* Whitespace is the only thing normalised. When the
+   mirrored text changes, the record fails (`quote-in-the-cited-text`, and the alias check) rather
+   than going on describing text that is gone. A human's reading cannot be re-performed by a
+   machine on every run; this one can, which is the one respect in which it is stronger.
+3. *The quotation has to show the claim it is attached to.* A name is promoted only when a
+   quotation prints it (`statutory-name-in-a-quote`); an authority is recorded only when a
+   quotation shows the section creating or constituting the body, not one that merely mentions it
+   (a definition, a duty, a fund); a placement is recorded `source: statute` only with the
+   sentence that states it (`statute-placement-has-a-quote`). The gates can match text; whether a
+   sentence shows the claim is what the agent who chose it answers for and a reviewer re-reads.
+   Where a section constitutes a body without a creation verb ("shall operate as a
+   semi-independent state agency", "consists of nine members appointed by the Governor"),
+   `link_enabling_authority.py`'s tier-3 question stands — constitutes, or describes one
+   constituted elsewhere — and the quotation is the evidence for answering it.
+4. *A failed search is not an absence.* The quote-check reviews text that exists. "No mirrored
+   section creates this body" is a finding about a search, and CONTEXT.md's overriding rule lets a
+   search stand for an absence only when it was measured and is cited as one. A body for which no
+   creating section was found keeps no `enabling_authority` key (nobody has looked yet, which is
+   what the key's absence says) and is not recorded `none: `; `none: ` is for a unit whose parent's
+   section shows it is internal structure of that parent (ADR 0004's *part of*).
+5. *Earlier review stands, and is distinguishable.* Every row reviewed before this amendment was
+   read by a human and carries no quotation. A row's absence from `QUOTE_CHECKS` therefore means
+   "read by a human", never "not reviewed".
+6. *An acronym is an alias only when the corpus pairs it with the name, and only for one body.* An
+   acronym that two registry bodies are both called in the corpus (ODA, DOE, OSAC) is recorded for
+   neither: an alias is an assertion of identity.
+
+**What this changes in the Consequences above.** "Adding a body now requires stating what ADMITTING
+evidence puts it there" is unchanged and now has a checkable form for a body with no OAR chapter:
+the quotation from the section that creates it. Nothing here reopens what disqualifies a body.

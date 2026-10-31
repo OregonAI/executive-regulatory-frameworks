@@ -59,10 +59,24 @@ agency's name, and that tier contains both `Department of State Police establish
 (ORS 181A.015, correct) and `When support payment to be made to Department...` (ORS 25.020,
 a child-support section that is not the Department of Justice's enabling authority).
 
-SO THE MATCHER PROPOSES AND A HUMAN DECIDES. `--propose` emits a review sheet quoting the
+SO THE MATCHER PROPOSES AND A REVIEWER DECIDES. `--propose` emits a review sheet quoting the
 sentence that matched, so review is reading rather than research; it writes nothing to the
-registry. A human moves rows into MAPPED or UNMAPPED below. `--check` then verifies the
+registry. A reviewer moves rows into MAPPED or UNMAPPED below. `--check` then verifies the
 committed table against the mirrored corpus, in CI, from committed data alone.
+
+THE REVIEWER IS A HUMAN, OR AN AGENT WHOSE QUOTE IS MATCHED WORD FOR WORD (operator decision
+2026-10-30, ADR 0003's amendment). Every row that predates that decision was read by a human
+and records no quote, which is why a row's absence from QUOTE_CHECKS means "read by a human",
+never "not reviewed". A row an agent reviewed is in QUOTE_CHECKS: the ORS section id and the
+quotation the agent took from THIS CORPUS'S OWN MIRROR of it — never from memory, never from
+another source — and `quote-in-the-cited-text` re-matches every quotation against the mirror
+on every run, whitespace aside and nothing else, so a mirror that later changes fails loudly
+instead of leaving a review record that no longer describes the text. The agent's review is
+not weaker for being checkable; it is the only review in this file a machine can re-perform.
+What it does NOT cover: an absence. "No section creates this body" is a finding about a
+search, and CONTEXT.md's overriding rule lets a search stand for an absence only when it was
+measured and is cited as such; a body no section was found for stays UNREVIEWED here (no key),
+not `none: `, unless a quoted section shows the unit is internal structure of its parent.
 
 AND THIS FILE IS THE REGISTRY FIELD'S SINGLE WRITER. `--apply` writes MAPPED and UNMAPPED
 into `enabling_authority` on the registry rows, and nothing else writes that key — the same
@@ -120,9 +134,14 @@ import yaml
 
 from catalog_agencies import (ENABLING_AUTHORITY_NAME, NAME_BASIS_KEY, NO_AUTHORITY,
                               UNVERIFIED_OAR_TITLE, authority_census, classify_authority,
-                              name_census, no_authority_value)
+                              name_census, no_authority_value, relation_entries)
 from check_rule_ledger import RuleLedger
 from repo_lib import REPO_ROOT
+
+# A quotation shorter than this shows nothing about the section it is attached to.
+MIN_QUOTE_WORDS = 4
+# The relation source an ORS section's own statement of where a body sits is recorded under.
+STATUTE_SOURCE = "statute"
 
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 STATUTES = REPO_ROOT / "statutes"
@@ -142,6 +161,9 @@ CHECK_RULES = (
     "statutory-name-slug-in-registry", "statutory-name-is-a-name",
     "statutory-name-has-an-authority", "statutory-name-in-the-cited-text",
     "registry-agrees", "statutory-name-agrees",
+    # an agent's quote-check (ADR 0003's amendment, operator decision 2026-10-30)
+    "quote-slug-in-registry", "quote-has-a-reviewed-row", "quote-is-a-quote",
+    "quote-in-the-cited-text", "statutory-name-in-a-quote", "statute-placement-has-a-quote",
 )
 
 _LEDGER = RuleLedger(CHECK_RULES, __file__)
@@ -168,7 +190,9 @@ class Failure(_LEDGER.Failure):
 
 # ---------------------------------------------------------------- reviewed registry data
 #
-# slug -> authority. EVERY ROW HERE HAS BEEN READ BY A HUMAN against the cited text. Add a
+# slug -> authority. EVERY ROW HERE HAS BEEN READ against the cited text, by a human or, since
+# the operator's decision of 2026-10-30, by an agent whose quotation of the section is in
+# QUOTE_CHECKS below and is re-matched against the mirror word for word on every run. Add a
 # row only after reading the section; a row that was pattern-matched and not read belongs in
 # the review sheet, not here.
 MAPPED: dict[str, str] = {
@@ -632,8 +656,8 @@ UNMAPPED: dict[str, str] = {
 # reviewer answers while reading the same section. Two tables for one reading would be two
 # places to be wrong.
 #
-# EVERY ROW HERE HAS BEEN READ BY A HUMAN AGAINST THE CITED TEXT, and unlike MAPPED it is
-# also RESOLVED: `statutory-name-in-the-cited-text` below requires the recorded name to
+# EVERY ROW HERE HAS BEEN READ AGAINST THE CITED TEXT (by a human, or by an agent whose
+# quotation is in QUOTE_CHECKS), and unlike MAPPED it is also RESOLVED: `statutory-name-in-the-cited-text` below requires the recorded name to
 # appear in the mirrored section MAPPED cites for that body. That is a weaker claim than "the
 # statute names the body this" — a section can mention a name it does not confer — and it is
 # the strongest claim a gate can make. What it rules out is the failure that matters: a name
@@ -694,6 +718,42 @@ STATUTORY_NAMES: dict[str, str] = {
     # constitutional citation against its whole ARTICLE and not the one cited section alone
     # (#220's acceptance criterion; `constitution_article_texts()` below).
     "secretary-of-state": "Secretary of State",
+}
+
+# ------------------------------------------- agent quote-checks (operator decision 2026-10-30)
+#
+# slug -> [(citation, quotation), ...]. THE REVIEW RECORD OF A ROW AN AGENT READ, in the form a
+# human's record already takes here (the sentence a row was read off, set beside it) but as
+# data, because an agent's reading is only worth counting if a machine can re-perform it. Each
+# pair is a section id and a quotation taken from THIS CORPUS'S OWN MIRROR of that section;
+# `quote-in-the-cited-text` matches it against the mirror word for word (whitespace is the
+# only thing normalised) on every `--check`, so the record fails the day the mirrored text
+# stops saying it.
+#
+# WHAT A QUOTATION HAS TO SHOW depends on what it is attached to, and no rule here can read
+# meaning, so the agent who writes one is answerable for it and a reviewer re-reads it:
+#   MAPPED       the section's own sentence that creates or constitutes the body;
+#   a name       the sentence that PRINTS the name (`statutory-name-in-a-quote` requires the
+#                recorded name to sit inside one of the slug's quotations);
+#   UNMAPPED     the sentence that shows the unit is internal structure of its parent;
+#   a placement  (`source: statute` on the registry row) the sentence that states where the
+#                body sits, from the section the relation cites as its authority
+#                (`statute-placement-has-a-quote`).
+# A row with none of those in this table was read by a human (every row that predates the
+# 2026-10-30 decision) and is not thereby unreviewed.
+#
+# A QUOTATION IS NOT CITABLE TEXT in the sense the mirror is: it is an excerpt, whitespace
+# collapsed, subsection markers dropped. The mirrored section is the text.
+QUOTE_CHECKS: dict[str, list[tuple[str, str]]] = {
+    # THE ONE STATUTE PLACEMENT THE REGISTRY ALREADY CARRIED (#281, a human's reading of
+    # 2026-08-28), recorded here so that `statute-placement-has-a-quote` holds for every
+    # `source: statute` relation and not only the ones added after the decision. What the
+    # section says is who appoints the commission's members — the Director of Agriculture —
+    # which is the sentence the placement under the Department of Agriculture rests on.
+    "oregon-hemp-commission": [
+        ("ORS 571.406", "the Director of Agriculture shall appoint seven temporary members "
+                        "to the Oregon Hemp Commission."),
+    ],
 }
 
 CREATE = re.compile(
@@ -1427,6 +1487,114 @@ def audit_statutory_names(orgs, mapped, names, text_lookups) -> list[Failure]:
     return problems
 
 
+def _good_pairs(pairs) -> list:
+    """The (citation, quotation) pairs among `pairs` that are well formed — the rest are
+    `quote-is-a-quote`'s to report, and every other reader must keep going without them."""
+    return [p for p in (pairs if isinstance(pairs, list) else [])
+            if isinstance(p, tuple) and len(p) == 2 and all(isinstance(x, str) for x in p)]
+
+
+def _squash(text) -> str:
+    """Whitespace collapsed to single spaces — the ONLY normalisation a quotation gets. Case,
+    punctuation and the typographic apostrophe the mirror prints all have to match."""
+    return " ".join(str(text).split())
+
+
+def audit_quote_checks(orgs, mapped, unmapped, names, quotes, text_lookups) -> list[Failure]:
+    """Everything wrong with QUOTE_CHECKS, as Failures: the record of what an agent read.
+
+    `text_lookups` is `name_text_lookups()` and has NO DEFAULT, for the reason
+    `audit_statutory_names` has none: a default would let a caller check the table's shape and
+    take the quotations on faith, which looks exactly like a clean run.
+
+    A QUOTATION THAT COULD NOT BE CHECKED IS NOT ONE THAT DID NOT MATCH (CONTEXT.md). Three
+    different things can stand between a quotation and the text it claims to be from, and the
+    detail says which: the citation's form is one this gate cannot read the text of (a session
+    law), the citation names a section this corpus does not hold, or the section is held and
+    does not say it. The last is a wrong or stale record; the first two are a record nobody
+    could re-perform, and neither may be reported as the third.
+    """
+    by_slug = {o["slug"]: o for o in orgs if isinstance(o, dict) and o.get("slug")}
+    problems = []
+    for slug, pairs in sorted(quotes.items()):
+        if slug not in by_slug:
+            problems.append(Failure("quote-slug-in-registry", slug,
+                                    "named in QUOTE_CHECKS but not in the registry"))
+            continue
+        statute_placed = any(isinstance(e, dict) and e.get("source") == STATUTE_SOURCE
+                             for e in relation_entries(by_slug[slug]))
+        if not (slug in mapped or slug in unmapped or slug in names or statute_placed):
+            problems.append(Failure(
+                "quote-has-a-reviewed-row", slug,
+                "has a quotation on record and nothing for it to be the review OF: the body "
+                "is in none of MAPPED, UNMAPPED and STATUTORY_NAMES and carries no "
+                f"`source: {STATUTE_SOURCE}` relation, so the record supports no claim"))
+        pairs = pairs if isinstance(pairs, list) else []
+        if not pairs:
+            problems.append(Failure("quote-is-a-quote", slug,
+                                    "QUOTE_CHECKS holds no (citation, quotation) pair for it"))
+            continue
+        for pair in pairs:
+            if (not isinstance(pair, tuple) or len(pair) != 2
+                    or not all(isinstance(x, str) for x in pair)):
+                problems.append(Failure("quote-is-a-quote", slug,
+                                        f"{pair!r} is not a (citation, quotation) pair"))
+                continue
+            citation, quote = pair
+            if len(_squash(quote).split()) < MIN_QUOTE_WORDS:
+                problems.append(Failure(
+                    "quote-is-a-quote", slug,
+                    f"{quote!r} is under {MIN_QUOTE_WORDS} words — a fragment that short "
+                    "appears in a great many sections and shows nothing about this one"))
+                continue
+            form = classify_authority(citation)[0]
+            text_of = text_lookups.get(form)
+            if text_of is None:
+                problems.append(Failure(
+                    "quote-in-the-cited-text", slug,
+                    f"quotes {citation!r}, whose form ({form}) this gate cannot read the "
+                    "text of — so the quotation could not be checked. That is 'could not "
+                    "check', not 'matches'"))
+            elif (text := text_of(citation)) is None:
+                problems.append(Failure(
+                    "quote-in-the-cited-text", slug,
+                    f"quotes {citation!r}, whose text this corpus does not mirror — so "
+                    "there was no text to match the quotation against. That is 'could not "
+                    "check', not 'the section does not say it'"))
+            elif _squash(quote) not in _squash(text):
+                problems.append(Failure(
+                    "quote-in-the-cited-text", slug,
+                    f"quotes {citation!r} as {quote!r}, which does not appear word for word "
+                    "in the mirrored text of that section — a wrong quotation, or a section "
+                    "that has changed since it was taken"))
+        name = names.get(slug)
+        if name is not None and not any(name in _squash(q) for _, q in _good_pairs(pairs)):
+            problems.append(Failure(
+                "statutory-name-in-a-quote", slug,
+                f"records the statutory name {name!r} and none of its quotations prints it — "
+                "an agent's review of a name is the sentence that PRINTS the name, and "
+                "without one the name rests on a reading nobody can re-perform"))
+    # EVERY STATUTE PLACEMENT HAS THE SENTENCE THAT STATES IT. The relation's `authority` is
+    # written by derive_relation_kinds.py and is the body's OWN enabling authority, so the
+    # section it cites is the body's constituting section — and a placement is only a
+    # quotation-checked claim when that section is the one that says where the body sits.
+    for slug, o in sorted(by_slug.items()):
+        for entry in relation_entries(o):
+            if not isinstance(entry, dict) or entry.get("source") != STATUTE_SOURCE:
+                continue
+            cited = [c for c, _ in _good_pairs(quotes.get(slug))]
+            want = entry.get("authority")
+            if not cited or (want is not None and want not in cited):
+                problems.append(Failure(
+                    "statute-placement-has-a-quote", slug,
+                    f"is placed under {entry.get('target')!r} by `source: {STATUTE_SOURCE}` "
+                    f"(authority {want!r}) and QUOTE_CHECKS holds "
+                    f"{'no quotation' if not cited else 'no quotation from that section'} "
+                    "for it — a statute placement is the sentence that states it, set "
+                    "beside the relation"))
+    return problems
+
+
 def audit_registry(orgs, mapped=None, unmapped=None, names=None) -> list[Failure]:
     """Every way the registry and the reviewed tables disagree, in BOTH directions.
 
@@ -1541,9 +1709,12 @@ def cmd_apply() -> int:
     """Write MAPPED/UNMAPPED into the registry. The only writer of `enabling_authority`."""
     cat = yaml.safe_load(CATALOG.read_text())
     orgs = cat["organizations"]
+    text_lookups = name_text_lookups()
     problems = (audit_table(orgs, MAPPED, UNMAPPED, resolvable_citations(),
                             constitutional_resolver(published_constitutional_sections()))
-                + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, name_text_lookups()))
+                + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, text_lookups)
+                + audit_quote_checks(orgs, MAPPED, UNMAPPED, STATUTORY_NAMES, QUOTE_CHECKS,
+                                     text_lookups))
     if problems:
         print("refusing to write: the reviewed tables do not match the corpus",
               file=sys.stderr)
@@ -1577,6 +1748,8 @@ def check() -> int:
     problems = (audit_table(orgs, MAPPED, UNMAPPED, citations,
                             constitutional_resolver(published))
                 + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, text_lookups)
+                + audit_quote_checks(orgs, MAPPED, UNMAPPED, STATUTORY_NAMES, QUOTE_CHECKS,
+                                     text_lookups)
                 + audit_registry(orgs, MAPPED, UNMAPPED))
     if problems:
         print("the reviewed tables do not match the corpus:", file=sys.stderr)
@@ -1622,6 +1795,19 @@ def check() -> int:
     print(f"statutory names read off those authorities: {len(STATUTORY_NAMES)} of "
           f"{len(MAPPED)} reviewed authorities ({checked} checked against mirrored text, "
           f"{could_not_check} could not be); registry: {name_census(orgs)}")
+    # THE AGENT QUOTE-CHECKS, COUNTED BY WHAT THEY ARE THE RECORD OF (operator decision
+    # 2026-10-30). Every quotation below was re-matched word for word against the mirror by
+    # the audit above, which is why this line can be printed at all on a green run; the
+    # rows reviewed by a human before that decision carry no quotation and are the remainder.
+    quoted = {slug for slug, pairs in QUOTE_CHECKS.items()}
+    placements = sum(1 for o in orgs for e in relation_entries(o)
+                     if isinstance(e, dict) and e.get("source") == STATUTE_SOURCE)
+    print(f"agent quote-checks: {sum(len(v) for v in QUOTE_CHECKS.values())} quotation(s) "
+          f"for {len(quoted)} body(ies), each matched word for word against the mirrored "
+          f"section on this run — {len(quoted & set(MAPPED))} reviewed authorities, "
+          f"{len(quoted & set(UNMAPPED))} reviewed absences, "
+          f"{len(quoted & set(STATUTORY_NAMES))} statutory names, {placements} statute "
+          f"placement(s) (every one of them quoted)")
     return 0
 
 
@@ -1691,7 +1877,8 @@ def _fixture():
              "office-of-imagined-orders": "Office of Imagined Orders",
              "imaginary-constitutional-office": "Board of Imaginary Amendments"}
     texts = {"ORS 999.999": "Board of Imaginary Affairs; appointment. There is established "
-                            "the Board of Imaginary Affairs."}
+                            "the Board of Imaginary Affairs. The board consists of seven "
+                            "members appointed by the Governor."}
     eo_texts_ = {"Executive Order 99-99": "Office of Imagined Orders; established. There is "
                                           "established the Office of Imagined Orders."}
     # KEYED BY ARTICLE SLUG, not by citation — `constitution_name_lookup()` parses the
@@ -1722,7 +1909,20 @@ def _fixture():
     # {key: text} dicts (`texts`, `eo_texts_`, `const_texts`), and reading a name off text
     # already fetched is not the resolver `constitutional_resolver` is; a synthetic stand-in
     # for THIS half is not a second implementation of anything under proof.
+    # THE AGENT QUOTE-CHECK (2026-10-30), and the one STATUTE PLACEMENT the fixture carries so
+    # `statute-placement-has-a-quote` has something to refuse. The quotation is a true
+    # excerpt of the synthetic text above, with the fixture's name in it.
+    quotes = {"board-of-imaginary-affairs": [("ORS 999.999",
+                                              "There is established the Board of "
+                                              "Imaginary Affairs.")]}
+    for o in orgs:
+        if o["slug"] == "board-of-imaginary-affairs":
+            o["relations"] = [{"target": "office-of-imagined-orders", "source": "statute",
+                               "kind": "administered_by",
+                               "basis": "reviewed-enabling-authority",
+                               "authority": "ORS 999.999"}]
     return {"mapped": mapped, "unmapped": unmapped, "orgs": orgs, "names": names,
+            "quotes": quotes,
             "texts": texts, "eo_texts": eo_texts_, "const_texts": const_texts,
             "text_lookups": name_text_lookups(ors_texts=texts, eo=eo_texts_,
                                               constitution=const_texts),
@@ -1757,6 +1957,8 @@ def _audit(f) -> list[Failure]:
     return (audit_table(f["orgs"], f["mapped"], f["unmapped"], f["citations"],
                         f["why_unresolved"])
             + audit_statutory_names(f["orgs"], f["mapped"], f["names"], f["text_lookups"])
+            + audit_quote_checks(f["orgs"], f["mapped"], f["unmapped"], f["names"],
+                                 f["quotes"], f["text_lookups"])
             + audit_registry(f["orgs"], f["mapped"], f["unmapped"], f["names"]))
 
 
@@ -1964,6 +2166,63 @@ def _case_registry_name_that_did_not_follow_the_table(f):
             o["name"] = "Board Of Imaginary Affairs"
 
 
+def _case_quote_for_a_slug_that_is_not_in_the_registry(f):
+    """A quotation for a body this registry does not carry — a review record with no row to
+    be the record of."""
+    f["quotes"]["board-of-nowhere-in-particular"] = [
+        ("ORS 999.999", "There is established the Board of Imaginary Affairs.")]
+
+
+def _case_quote_with_nothing_to_be_the_review_of(f):
+    """A quotation on a body that is in no table and carries no statute placement. The
+    quotation is true and supports no claim, which is how a record outlives the decision it
+    was taken for."""
+    f["quotes"]["board-nobody-has-reviewed"] = [
+        ("ORS 999.999", "There is established the Board of Imaginary Affairs.")]
+
+
+def _case_quote_that_is_a_fragment(f):
+    """Three words that appear in a great many sections. A fragment that short matches
+    anything, so matching it proves nothing about the section it is attached to."""
+    f["quotes"]["board-of-imaginary-affairs"] = [("ORS 999.999", "There is established")]
+
+
+def _case_quote_the_section_does_not_say(f):
+    """A quotation the mirrored section does not contain word for word — the record of an
+    agent's reading that no longer, or never did, match the text."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.999", "There is established the Bureau of Imaginary Affairs.")]
+
+
+def _case_quote_from_a_form_this_gate_cannot_read(f):
+    """A quotation from a session law. This corpus mirrors none, so there is no text to match
+    it against — 'could not check', which must not read as 'matches'."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("Oregon Laws 1899, chapter 1", "There is established the Board of Imaginary Affairs.")]
+
+
+def _case_quote_from_a_section_the_mirror_does_not_hold(f):
+    """A quotation cited to an ORS section this corpus does not carry. Absent text is not text
+    that disagrees."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.997", "There is established the Board of Imaginary Affairs.")]
+
+
+def _case_statutory_name_no_quotation_prints(f):
+    """A name whose slug has quotations, none of which prints it: the sentence an agent
+    quoted is about something else in the section."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.999", "The board consists of seven members appointed by the Governor.")]
+
+
+def _case_statute_placement_with_no_quotation(f):
+    """A `source: statute` relation whose authority names a section QUOTE_CHECKS holds no
+    sentence from. The placement is a claim about Oregon law with nothing set beside it."""
+    for o in f["orgs"]:
+        if o["slug"] == "board-of-imaginary-affairs":
+            o["relations"][0]["authority"] = "ORS 999.998"
+
+
 def _case_slug_that_is_not_in_the_registry(f):
     """A reviewed row for a body this registry does not carry. The review is real and the
     body it names is unreachable, so the authority is recorded nowhere a reader can find."""
@@ -2053,6 +2312,24 @@ _CASES = [
      "statutory-name-agrees"),
     ("registry-name-that-did-not-follow-the-table",
      _case_registry_name_that_did_not_follow_the_table, "statutory-name-agrees"),
+    # THE AGENT QUOTE-CHECK'S OWN RULES (operator decision 2026-10-30, ADR 0003's amendment).
+    # An agent's reading counts as the review only because a machine can re-perform it, and
+    # each of these is a way the record can stop being that while the row beside it looks fine.
+    ("quote-for-a-slug-that-is-not-in-the-registry",
+     _case_quote_for_a_slug_that_is_not_in_the_registry, "quote-slug-in-registry"),
+    ("quote-with-nothing-to-be-the-review-of", _case_quote_with_nothing_to_be_the_review_of,
+     "quote-has-a-reviewed-row"),
+    ("quote-that-is-a-fragment", _case_quote_that_is_a_fragment, "quote-is-a-quote"),
+    ("quote-the-section-does-not-say", _case_quote_the_section_does_not_say,
+     "quote-in-the-cited-text"),
+    ("quote-from-a-form-this-gate-cannot-read", _case_quote_from_a_form_this_gate_cannot_read,
+     "quote-in-the-cited-text"),
+    ("quote-from-a-section-the-mirror-does-not-hold",
+     _case_quote_from_a_section_the_mirror_does_not_hold, "quote-in-the-cited-text"),
+    ("statutory-name-no-quotation-prints", _case_statutory_name_no_quotation_prints,
+     "statutory-name-in-a-quote"),
+    ("statute-placement-with-no-quotation", _case_statute_placement_with_no_quotation,
+     "statute-placement-has-a-quote"),
 ]
 
 
@@ -2101,6 +2378,48 @@ _STATUTORY_NAME_ANSWERS = [
     # opened that is STILL in that state by design — this corpus mirrors no session laws.
     ("Oregon Laws 1899, chapter 1", "cannot read the text of", "does not appear anywhere"),
 ]
+
+
+# THE SAME PROBLEM AS ABOVE, FOR A QUOTATION (operator decision 2026-10-30). Three different
+# things stand between a quotation and the text it claims to be from, and two of them produce
+# `quote-in-the-cited-text` — so `_CASES`, which asserts on the RULE, passes whether or not
+# they are told apart. Each row is (the citation, a phrase the answer MUST carry, a phrase it
+# must NOT).
+_QUOTE_ANSWERS = [
+    ("ORS 999.999", "does not appear word for word", "could not check"),
+    ("ORS 999.997", "could not check", "does not appear word for word"),
+    ("Oregon Laws 1899, chapter 1", "cannot read the", "does not appear word for word"),
+]
+
+
+def _proof_the_ways_a_quote_goes_unchecked_are_told_apart() -> int:
+    """A quotation the section does not say, one the mirror cannot supply the section for and
+    one whose form this gate cannot read each say which they are, and no two say the same
+    thing — a reviewer re-reads a wrong quotation, but a record nobody could re-perform is a
+    different finding, and 'could not check' is never reported as 'matches' or as 'differs'."""
+    bad, answers = 0, []
+    for citation, must, must_not in _QUOTE_ANSWERS:
+        f = _fixture()
+        f["quotes"]["board-of-imaginary-affairs"] = [
+            (citation, "There is established the Bureau of Imaginary Affairs."
+             if citation == "ORS 999.999"
+             else "There is established the Board of Imaginary Affairs.")]
+        details = [p.detail for p in _audit(f) if p.rule == "quote-in-the-cited-text"]
+        if len(details) != 1:
+            print(f"FAIL quote-answers-{citation}: expected one answer, got {details}",
+                  file=sys.stderr)
+            bad += 1
+            continue
+        answers.append(details[0])
+        if must not in details[0] or must_not in details[0]:
+            print(f"FAIL quote-answers-{citation}: {details[0]!r} must carry {must!r} and "
+                  f"must not carry {must_not!r}", file=sys.stderr)
+            bad += 1
+    if len(set(answers)) != len(answers):
+        print("FAIL quote-answers-are-distinct: two ways of not matching a quotation read "
+              "alike", file=sys.stderr)
+        bad += 1
+    return bad
 
 
 def _proof_the_ways_a_name_goes_unchecked_are_told_apart() -> int:
@@ -2357,6 +2676,7 @@ def _proof_text_lookups_refuse_an_empty_mirror() -> int:
 _PROOFS = [_proof_apply_writes_the_same_bytes_twice,
            _proof_the_kinds_of_nothing_are_told_apart,
            _proof_the_ways_a_name_goes_unchecked_are_told_apart,
+           _proof_the_ways_a_quote_goes_unchecked_are_told_apart,
            _proof_an_unreadable_mirror_is_not_an_absent_one,
            _proof_a_catalogued_section_with_no_document_is_not_resolved,
            _proof_a_citation_the_scheme_refuses_is_not_called_resolved,

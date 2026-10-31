@@ -233,3 +233,36 @@ It is the OAR chapter of the body a row is placed under, scraped from the same t
 `parent-agrees` now states that it may not disagree with the body the row's relations name —
 including the case one chapter cannot express, where two sources name two parents and
 whichever chapter it held would publish one source's reading as this registry's.
+
+## Amendment (2026-10-30): a quote-check is a review, and a statute can place a body
+
+ADR 0003's amendment of this date lets an agent's word-for-word quotation of a mirrored section
+stand as the review of an enabling authority. The derivation in this ADR is unchanged by it, and
+two of its distinctions are worth stating again because the amendment makes them easier to blur.
+
+**The strengths stay apart.** `proposed-enabling-authority` is a candidate nobody has read;
+`reviewed-enabling-authority` and `reviewed-absence` rest on a review — a human's, or, since this
+amendment, an agent's quotation that `src/link_enabling_authority.py` re-matches against the mirror
+on every run. `src/derive_relation_kinds.py` does not care who reviewed: it reads
+`enabling_authority`, and a row upgrades from proposed to reviewed the day a review lands, as
+before. A body the matcher proposed a section for and nobody quoted stays proposed; reading the
+sheet is not review.
+
+**A `source: statute` relation is recorded only where the body's own constituting section states
+the placement.** The derivation writes a relation's `authority` from the body's own
+`enabling_authority` (above: the section that CONSTITUTES the body, not the one the department's
+administration runs on). So a statute placement is a claim a reader can check only when that same
+section says where the body sits — ORS 468.030 establishes the Department of Environmental Quality
+"under the Environmental Quality Commission", and the quotation is recorded beside the relation. A
+placement a different section states (ORS 576.066's administration of the commodity commissions,
+above) is still the curated decision on a basis nothing derives, and is not recorded as `statute`
+here. The OAR index's reading of the same body is kept beside it, not reconciled (ADR 0003); a
+body the two sources place under different parents carries `parent_chapter: null`, because one
+chapter cannot state a disagreement (`parent-agrees`).
+
+**The limit the amendment above names is still there, and a quote-check does not lift it.** The
+State Fire Marshal, Early Learning and Emergency Management were each detached from their parent
+by statute and made standalone, while the OAR index still files them under the old one. A quoted
+section establishing the standalone department is exactly the evidence that would, once recorded
+as `enabling_authority`, derive `administered_by` against the parent the statute ended — so it is
+not recorded for them until this registry can say *was part of, now separate*.

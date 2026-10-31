@@ -43,6 +43,14 @@ time turning bodies "statute forgot to create" into bodies statute plainly creat
 not check" is never reported as "is not there", and staying `undetermined` is the correct
 answer for such a row rather than a gap.
 
+WHO REVIEWED DOES NOT CHANGE WHAT IS DERIVED (ADR 0003's and ADR 0004's amendments, operator
+decision 2026-10-30). This module reads `enabling_authority` and nothing about its reviewer: a
+section an agent quoted word for word from the mirror (link_enabling_authority.py's
+QUOTE_CHECKS) derives `administered_by` on basis `reviewed-enabling-authority` exactly as a
+human's reading does, and a `none: ` reason an agent wrote from a quoted section showing the
+unit is internal structure derives `part_of` on `reviewed-absence`. Where this file says "a
+human looked", read "a reviewer looked". A candidate nobody quoted stays a proposal.
+
 A REVIEWED ABSENCE DERIVES `part_of`, AND THIS IS THE SECOND DERIVATION #173 DEFERRED (#222).
 `none: <reason>` on a row means a human looked and found no separate authority, which is ADR
 0004's own description of a *part of* unit: nothing separately constitutes the body, so
