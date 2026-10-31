@@ -100,13 +100,20 @@ def build_data() -> dict:
 
     def parent_of(slug: str):
         org = by_slug.get(slug) or {}
-        placed = catalog_agencies.sole_parent(org)
+        placed = catalog_agencies.sole_parent(org, by_slug)
         if placed.cannot_say:
-            disputed[slug] = catalog_agencies.parent_targets(org)
+            disputed[slug] = catalog_agencies.rollup_targets(org)
         return placed.parent
 
     def group_of(slug: str) -> str:
-        return parent_of(slug) or slug
+        # THE DEPARTMENT AT THE TOP OF THE CHAIN, which is the parent for every body the OAR
+        # index files directly under one. It differs only where a statute refines the index: a
+        # Health Licensing Office board is under the Office (its `parent`) and the Office is
+        # under the Oregon Health Authority, and the board is coloured with the Authority, as
+        # the index files it, not as a department of its own. A body its sources disagree about,
+        # or one in a loop, is its own group, as before.
+        got = catalog_agencies.root_body(slug, by_slug)
+        return got.slug if got.stopped == catalog_agencies.AT_THE_TOP else slug
 
     # which groups actually contain more than one in-graph agency (get a distinct color)
     group_members: dict[str, list] = {}

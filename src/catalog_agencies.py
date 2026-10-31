@@ -959,10 +959,13 @@ def relation_entries(org) -> list:
 # files a body under, when statute places it elsewhere, is a wrong number rather than a
 # crash — and nothing downstream would ever say which reading produced it.
 #
-# No committed row is in that state today: 81 children carry exactly one relation each and
-# 108 carry none, so every walk below returns exactly what the retired pointer returned.
-# That is the point — the decision is made now, in the open, rather than the first time two
-# sources disagree.
+# No committed row is in that state today. Eight carry two placements (the Health Licensing
+# Office's boards: the index files them under the Oregon Health Authority, a statute under the
+# Office, which is itself under the Authority) and those are a CHAIN, which `sole_parent` tells
+# from a disagreement and places under the nearer parent; every other body that holds a
+# placement holds one the rollups follow, and a statute placement with no other source beside
+# it is recorded and not climbed (`rollup_targets`). The decision is made in the open, and
+# `--selftest` is where the disagreeing branches are watched running.
 
 # Why a walk stopped, so a caller can tell "this body is a root" from "this registry cannot
 # say what this body's root is". A rollup that reported the two alike would publish a
@@ -1004,17 +1007,73 @@ def parent_targets(org) -> list:
     return out
 
 
-def sole_parent(org) -> Placement:
+def rollup_targets(org) -> list:
+    """Every DISTINCT body a ROLLUP follows this row up to: the bodies the OAR index and the
+    registry place it under, and the bodies a statute places it under ONLY WHERE another source
+    places it beside them.
+
+    WHICH PLACEMENTS THE VIEWS USE, stated once. `build_policy_gap.py` credits rule counts to a
+    root agency and `build_agency_graph.py` colours a node by its department, so a placement a
+    view climbs moves a published number. They follow the placements where the rules are filed
+    (the index's, and the registry's for a body the index does not carry) and let a statute
+    placement REFINE one of those: a board the index files under the Oregon Health Authority and
+    a statute places under the Health Licensing Office is under the Office, which is under the
+    Authority. A statute placement with no other source beside it -- a department under the
+    commission that governs it, the Department of Environmental Quality under the Environmental
+    Quality Commission -- is recorded in `relations` and is NOT climbed: following it would move
+    the department's rules to the commission above it, a change to a published total that is the
+    owner's to decide and not a side effect of recording what a section says. `parent_targets()`
+    is the whole record; this is what the rollups act on."""
+    entries = [e for e in relation_entries(org) if isinstance(e, dict)]
+    if all(e.get("source") == "statute" for e in entries):
+        return []
+    out = []
+    for entry in entries:
+        target = entry.get("target")
+        if isinstance(target, str) and target and target not in out:
+            out.append(target)
+    return out
+
+
+def _rollup_ancestors(slug, by_slug) -> set:
+    """Every body the rollups would climb to from `slug`, following EVERY rollup target and not
+    one of them. Loop-safe: a body is visited once."""
+    seen, stack = set(), [slug]
+    while stack:
+        org = by_slug.get(stack.pop())
+        for target in rollup_targets(org) if org else []:
+            if target not in seen:
+                seen.add(target)
+                stack.append(target)
+    return seen
+
+
+def sole_parent(org, by_slug=None) -> Placement:
     """The ONE body this registry places `org` under, for a consumer that can hold only one.
 
     THE REFUSE-TO-PICK DECISION, WRITTEN ONCE. Both rollups need it — `build_agency_graph.py`
     groups a sub-unit with its department one hop up, `root_body()` below walks the same step
     repeatedly — and a second spelling of "what do I do with two parents" is a second answer
     that can differ from this one. It is the same reason the walk itself is here rather than
-    in either consumer."""
-    targets = parent_targets(org)
+    in either consumer.
+
+    TWO PARENTS ARE A DISAGREEMENT ONLY IF THEY ARE NOT A CHAIN. With `by_slug`, the registry
+    to walk, a body whose rollup targets include one that is an ancestor of another is placed
+    under the NEAREST one: the index files a Health Licensing Office board under the Oregon
+    Health Authority, a statute places it under the Office, and the Office is under the
+    Authority -- both readings agree at the root, and calling that a disagreement dropped the
+    eight boards from the Authority's totals. Without `by_slug` a chain cannot be seen, and two
+    targets stay a disagreement (the conservative answer, and the only one a caller with no
+    registry can give)."""
+    targets = rollup_targets(org)
     if len(targets) == 1:
         return Placement(targets[0], None)
+    if len(targets) > 1 and by_slug is not None:
+        ancestors = {t: _rollup_ancestors(t, by_slug) for t in targets}
+        nearest = [t for t in targets
+                   if all(o == t or o in ancestors[t] for o in targets)]
+        if len(nearest) == 1:
+            return Placement(nearest[0], None)
     return Placement(None, SOURCES_DISAGREE if targets else None)
 
 
@@ -1035,7 +1094,7 @@ def root_body(slug, by_slug) -> Rollup:
         org = by_slug.get(slug)
         if org is None:
             return Rollup(slug, OFF_THE_REGISTRY)
-        step = sole_parent(org)
+        step = sole_parent(org, by_slug)
         if step.cannot_say:
             return Rollup(slug, step.cannot_say)
         if step.parent is None:
@@ -5417,8 +5476,24 @@ def _proof_the_walk_says_what_it_cannot_answer() -> int:
     disputed = {"slug": "disputed", RELATION_KEY: [
         index_relation(top), {"target": other, "source": "das", "kind": UNDETERMINED}]}
     loop = {"slug": "loop", RELATION_KEY: [index_relation("loop-back")]}
+    # A CHAIN IS NOT A DISAGREEMENT: the index files a board under the Authority and a statute
+    # under the Office that is itself under the Authority. Both readings agree at the root, and
+    # the nearer one is where the body sits. (The Health Licensing Office's eight boards.)
+    office = {"slug": "licensing-office", RELATION_KEY: [index_relation(top)]}
+    board = {"slug": "licensed-board", RELATION_KEY: [
+        index_relation(top), {"target": "licensing-office", "source": "statute",
+                              "kind": UNDETERMINED}]}
+    # A STATUTE PLACEMENT WITH NO OTHER SOURCE BESIDE IT IS RECORDED AND NOT CLIMBED: a
+    # department under the commission that governs it. The view keeps crediting the department.
+    governed = {"slug": "governed-department", RELATION_KEY: [
+        {"target": other, "source": "statute", "kind": UNDETERMINED}]}
+    # TWO PLACEMENTS THAT FORM NO CHAIN are the disagreement ADR 0003 keeps, statute or not.
+    crossed = {"slug": "crossed", RELATION_KEY: [
+        index_relation(top), {"target": other, "source": "statute", "kind": UNDETERMINED}]}
     reg.update({"agreeing": agreeing, "disputed": disputed, "loop": loop,
-                "loop-back": {"slug": "loop-back", RELATION_KEY: [index_relation("loop")]}})
+                "loop-back": {"slug": "loop-back", RELATION_KEY: [index_relation("loop")]},
+                "licensing-office": office, "licensed-board": board,
+                "governed-department": governed, "crossed": crossed})
 
     expected = [
         ("a body under nothing is at the top", root_body(top, reg), top, AT_THE_TOP),
@@ -5427,6 +5502,12 @@ def _proof_the_walk_says_what_it_cannot_answer() -> int:
          root_body("agreeing", reg), top, AT_THE_TOP),
         ("two sources naming TWO parents are not rolled up",
          root_body("disputed", reg), "disputed", SOURCES_DISAGREE),
+        ("a board filed under the Authority and, by statute, under the Office beneath it "
+         "rolls up to the Authority", root_body("licensed-board", reg), top, AT_THE_TOP),
+        ("a statute placement with no other source beside it is not climbed",
+         root_body("governed-department", reg), "governed-department", AT_THE_TOP),
+        ("a statute placement that forms no chain with the index's is a disagreement",
+         root_body("crossed", reg), "crossed", SOURCES_DISAGREE),
         ("a cycle stops rather than hanging", root_body("loop", reg), "loop-back",
          PLACED_IN_A_LOOP),
         ("a slug this registry does not carry rolls up to itself",
@@ -5446,6 +5527,18 @@ def _proof_the_walk_says_what_it_cannot_answer() -> int:
                              Placement(None, None))):
         if sole_parent(org) != want:
             print(f"FAIL sole-parent {name}: {sole_parent(org)!r}, expected {want!r}",
+                  file=sys.stderr)
+            bad += 1
+    # THE CHAIN NEEDS THE REGISTRY TO WALK, so the one-hop answer takes it too: the board's
+    # nearest parent is the Office, not the Authority and not "cannot say".
+    for name, org, want in (("a chain names its nearest parent", board,
+                             Placement("licensing-office", None)),
+                            ("a statute placement alone is no placement", governed,
+                             Placement(None, None)),
+                            ("a placement that forms no chain is refused", crossed,
+                             Placement(None, SOURCES_DISAGREE))):
+        if sole_parent(org, reg) != want:
+            print(f"FAIL sole-parent {name}: {sole_parent(org, reg)!r}, expected {want!r}",
                   file=sys.stderr)
             bad += 1
     return bad

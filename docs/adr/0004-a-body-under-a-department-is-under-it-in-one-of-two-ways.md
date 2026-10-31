@@ -270,6 +270,24 @@ chapter that IS written to agree with the parent's. The first pass of this amend
 parents' chapters onto nine such rows by hand; no writer produces them, so they are null, the
 placement rests on the relation alone, and `--check` counts those placements and says why.
 
+**Which placements the derived views use.** `build_policy_gap.py` and `build_agency_graph.py` read
+`relations` through `catalog_agencies.sole_parent()` and `root_body()`, and they follow the
+placements where the rules are filed (the OAR index's, and the registry's for a body the index does
+not carry) and let a `statute` placement REFINE one of those: a Health Licensing Office board is
+filed by the index under the Oregon Health Authority, placed by ORS under the Health Licensing
+Office, and the Office is under the Authority, so that is a chain and not a disagreement; the board
+sits under the Office and rolls up to the Authority, and the eight boards stay in the Authority's
+totals (5,346 rules, 97 agencies, 175 graph nodes in 15 coloured departments, as before this
+change). Two placements that form no chain are still a disagreement and the body is still not rolled
+up. A `statute` placement with NO other source beside it is recorded and not climbed: the
+Department of Environmental Quality under the Environmental Quality Commission, the Department of
+Fish and Wildlife under its Commission, and the Departments of Education, Forestry, State Lands and
+Water Resources under theirs. Following those would credit a department's rules to the commission
+above it (2,146 rules and 52 policies move from the Department of Environmental Quality to the
+Commission, 8,252 rules in all across the six), a change to a published total that is the owner's to
+decide and not a side effect of recording what a section says; the views keep crediting the
+department until the owner decides.
+
 **The limit the amendment above names is still there, and a quote-check does not lift it.** The
 State Fire Marshal, Early Learning and Emergency Management were each detached from their parent
 by statute and made standalone, while the OAR index still files them under the old one. A quoted
