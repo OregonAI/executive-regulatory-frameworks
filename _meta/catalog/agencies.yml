@@ -1903,8 +1903,8 @@ organizations:
   relations: []
   enabling_authority: ORS 675.310
 - slug: office-of-public-defense-services
-  name: Oregon Public Defense Commission
-  name_basis: enabling-authority
+  name: Office of Public Defense Services
+  name_basis: unverified-oar-title
   oar_name: Office of Public Defense Services
   oar_chapter: '404'
   raw_index_name: null
@@ -3336,7 +3336,7 @@ organizations:
   parent_chapter: null
   relations: []
   absent_from_index_as_of: '2026-09-12'
-  enabling_authority: ORS 273.031
+  enabling_authority: Or. Const. Art. VIII, sec. 5
 - slug: state-library-board
   name: State Library Board
   name_basis: enabling-authority

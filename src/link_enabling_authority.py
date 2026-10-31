@@ -542,10 +542,13 @@ MAPPED: dict[str, str] = {
     # carry (they are added by link_budget_codes.py's MANUAL_ENTRIES in this same change).
     # Each is the section a quotation in QUOTE_CHECKS shows creating or constituting it. The
     # ones that constitute without a creation verb are the Board on Public Safety Standards
-    # and Training ("The Governor shall appoint a Board ... consisting of 26 members"), the
-    # State Land Board ("constitute the State Land Board") and the State Board of Education
-    # ("shall consist of"); the four advocacy commissions are created by a sentence of
-    # legislative policy ("is created to work for ...").
+    # and Training ("The Governor shall appoint a Board ... consisting of 26 members") and the
+    # State Board of Education ("shall consist of"); the four advocacy commissions are created
+    # by a sentence of legislative policy ("is created to work for ..."). THE STATE LAND BOARD
+    # IS THE CONSTITUTION'S: Art. VIII, sec. 5 has the Governor, Secretary of State and State
+    # Treasurer "constitute a State Land Board", and ORS 273.031 only carries that out ("The board
+    # shall carry out the duties prescribed by section 5, Article VIII of the Oregon
+    # Constitution"), so the authority recorded is the section that created the body.
     "advisory-council-on-hearing-aids": "ORS 694.165",
     "board-of-athletic-trainers": "ORS 688.705",
     "board-of-electrologists-and-body-art-practitioners": "ORS 690.401",
@@ -575,7 +578,7 @@ MAPPED: dict[str, str] = {
     "state-board-of-education": "ORS 326.021",
     "state-board-of-forestry": "ORS 526.009",
     "state-fish-and-wildlife-commission": "ORS 496.090",
-    "state-land-board": "ORS 273.031",
+    "state-land-board": "Or. Const. Art. VIII, sec. 5",
     "state-library-board": "ORS 357.021",
     "state-parks-and-recreation-commission": "ORS 390.114",
     "water-resources-commission": "ORS 536.022",
@@ -816,16 +819,18 @@ STATUTORY_NAMES: dict[str, str] = {
     # Where this is not the OAR title the OAR title stays in `oar_name` and the former
     # spellings stay findable: the compound `Department of Agriculture, Oregon Albacore
     # Commission` of the OAR index becomes `Oregon Albacore Commission` (ORS 576.062 lists it
-    # so), the Liquor Control Commission becomes the Liquor and Cannabis Commission, the
-    # Office of Public Defense Services the Public Defense Commission, SAIF Corporation the
-    # State Accident Insurance Fund Corporation, and ORS 468.030 names the Department of
-    # Environmental Quality exactly as the index does.
+    # so), the Liquor Control Commission becomes the Liquor and Cannabis Commission, SAIF
+    # Corporation the State Accident Insurance Fund Corporation, and ORS 468.030 names the
+    # Department of Environmental Quality exactly as the index does.
     #
     # NOT PROMOTED, AND WHY: the Long Term Care Ombudsman (ORS 441.403 establishes "the office
     # of the Long Term Care Ombudsman", lower-case, and the registry's title is the officer's),
     # the Public Records Advocate (ORS 192.461 creates "the office of the Public Records
     # Advocate", likewise) and the Legislative Commission on Indian Services (the cited
-    # ORS 172.100 is a policy declaration that does not print the name). Those keep
+    # ORS 172.100 is a policy declaration that does not print the name) and the Office of
+    # Public Defense Services (ORS 151.213 establishes the Oregon Public Defense COMMISSION,
+    # not the Office: declined for the reason the Lottery, the State Library and PERS were --
+    # the section creates the commission or board, not the body this row is). Those keep
     # `unverified-oar-title`. Also not reached: the two bodies recorded on a constitutional
     # article whose registry title the article does not print as a body's name (Art. V, sec. 1
     # vests the executive power in "a Governor", not an "Office of the Governor"; Art. VII
@@ -909,7 +914,6 @@ STATUTORY_NAMES: dict[str, str] = {
     "mental-health-regulatory-agency-oregon-board-of-psychology": "Oregon Board of Psychology",
     "mortuary-and-cemetery-board": "State Mortuary and Cemetery Board",
     "occupational-therapy-licensing-board": "Occupational Therapy Licensing Board",
-    "office-of-public-defense-services": "Oregon Public Defense Commission",
     "oregon-529-savings-board": "Oregon 529 Savings Board",
     "oregon-advocacy-commissions-office": "Oregon Advocacy Commissions Office",
     "oregon-board-of-accountancy": "Oregon Board of Accountancy",
@@ -1424,11 +1428,6 @@ QUOTE_CHECKS: dict[str, list[tuple[str, str]]] = {
         ("ORS 675.310",
          "There is created the Occupational Therapy Licensing Board."),
     ],
-    "office-of-public-defense-services": [
-        ("ORS 151.213",
-         "The Oregon Public Defense Commission is established in the executive branch of state "
-         "government."),
-    ],
     "oregon-529-savings-board": [
         ("ORS 178.310",
          "There is established the Oregon 529 Savings Board to administer ORS 178.300 to "
@@ -1845,9 +1844,10 @@ QUOTE_CHECKS: dict[str, list[tuple[str, str]]] = {
          "seven members appointed by the Governor."),
     ],
     "state-land-board": [
-        ("ORS 273.031",
-         "The Governor, Secretary of State and State Treasurer constitute the State Land "
-         "Board."),
+        ("Or. Const. Art. VIII, sec. 5",
+         "The Governor, Secretary of State and State Treasurer shall constitute a State Land "
+         "Board for the disposition and management of lands described in section 2 of this "
+         "Article"),
     ],
     "state-library-board": [
         ("ORS 357.021",
