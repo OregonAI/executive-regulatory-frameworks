@@ -489,6 +489,58 @@ MAPPED: dict[str, str] = {
     # ORS 541.861(1): "The Environmental Restoration Council is established in the Oregon
     # Watershed Enhancement Board."
     "oregon-watershed-enhancement-board-environmental-restoration-council": "ORS 541.861",
+    # AGENT QUOTE-CHECKED, 2026-10-30 (operator decision; ADR 0003's amendment). Bodies that were
+    # "not looked at yet", each now the section a quotation in QUOTE_CHECKS (below) shows
+    # creating or constituting it, matched word for word against the mirror by --check.
+    # 12 of them are the tier-3 case this file's docstring describes: the section has no
+    # creation verb and CONSTITUTES the body ("shall operate as a semi-independent state
+    # agency subject to ORS 182.456 to 182.472", "consists of nine members appointed by the
+    # Governor"), and the quotation is what a reader weighs. ERB's section "continues" the
+    # Civil Service Commission "as a board ... to be known as" it, and the Department of
+    # Justice's "constitutes" it; the Columbia River Gorge Commission is created by the
+    # interstate compact ORS 196.150 ratifies.
+    #
+    # NOT RECORDED, AND WHY (a body no creating section was found for keeps no key at all):
+    #   the State Fire Marshal, Early Learning and Emergency Management -- ORS 476.020,
+    #   326.430 and 401.052 establish each as a standalone department, and recording that as
+    #   its authority would derive `administered_by` against the parent the statute ended
+    #   (CONTEXT.md, Undetermined; ADR 0004's amendment of this date);
+    #   the Oregon State Lottery (ORS 461.100 creates the Oregon State Lottery COMMISSION),
+    #   the Public Employees Retirement System (ORS 238.600 establishes the SYSTEM, not the
+    #   board that administers it), the Legislative Counsel Office (ORS 173.111 establishes the
+    #   Legislative Counsel COMMITTEE), the State Library (ORS 357.021 creates its BOARD),
+    #   the Department of Geology and Mineral Industries and the Department of Public Safety
+    #   Standards and Training (the sections found describe the governing board, not the
+    #   department), the South Slough reserve (ORS 273.554 creates its Management
+    #   Commission) and the Oregon State Treasury and Judicial Department (constitutional
+    #   offices no mirrored section names as a body);
+    #   and the Chief Education Office, the Economic Recovery Review Council, Office of
+    #   Training, Investigations and Safety, Drug Treatment and Recovery Services and
+    #   Vocational Rehabilitation Services, for which no mirrored section was found to
+    #   create the body. "No section found" is a finding about a search, not an absence.
+
+    "board-of-examiners-for-engineering-and-land-surveying": "ORS 672.240",
+    "board-of-geologist-examiners": "ORS 672.615",
+    "board-of-massage-therapists": "ORS 687.115",
+    "board-of-optometry": "ORS 683.250",
+    "board-of-pharmacy": "ORS 689.115",
+    "columbia-river-gorge-commission": "ORS 196.150",
+    "department-of-forestry": "ORS 526.008",
+    "department-of-justice": "ORS 180.210",
+    "employment-relations-board": "ORS 240.060",
+    "land-conservation-and-development-department": "ORS 197.075",
+    "landscape-architect-board": "ORS 671.459",
+    "landscape-contractors-board": "ORS 671.630",
+    "oregon-board-of-dentistry": "ORS 679.230",
+    "oregon-board-of-physical-therapy": "ORS 688.160",
+    "oregon-health-authority-health-licensing-office": "ORS 676.560",
+    "oregon-liquor-control-commission": "ORS 471.705",
+    "oregon-medical-board": "ORS 677.235",
+    "oregon-youth-authority": "ORS 420A.010",
+    "parks-and-recreation-department": "ORS 390.111",
+    "southern-oregon-university": "ORS 352.002",
+    "state-board-of-architect-examiners": "ORS 671.120",
+    "teacher-standards-and-practices-commission": "ORS 342.350",
 }
 
 # slug -> why this body has no enabling authority TO RECORD. A DECISION with a stated reason,
@@ -718,6 +770,157 @@ STATUTORY_NAMES: dict[str, str] = {
     # constitutional citation against its whole ARTICLE and not the one cited section alone
     # (#220's acceptance criterion; `constitution_article_texts()` below).
     "secretary-of-state": "Secretary of State",
+
+    # AGENT QUOTE-CHECKED, 2026-10-30 (operator decision; ADR 0003's amendment). The name is
+    # the one the cited section PRINTS, as it prints it (the typographic apostrophe included),
+    # and the sentence that prints it is in QUOTE_CHECKS, matched word for word by --check.
+    # Where this is not the OAR title the OAR title stays in `oar_name` and the former
+    # spellings stay findable: the compound `Department of Agriculture, Oregon Albacore
+    # Commission` of the OAR index becomes `Oregon Albacore Commission` (ORS 576.062 lists it
+    # so), the Liquor Control Commission becomes the Liquor and Cannabis Commission, the
+    # Office of Public Defense Services the Public Defense Commission, SAIF Corporation the
+    # State Accident Insurance Fund Corporation, and ORS 468.030 names the Department of
+    # Environmental Quality exactly as the index does.
+    #
+    # NOT PROMOTED, AND WHY: the Long Term Care Ombudsman (ORS 441.403 establishes "the office
+    # of the Long Term Care Ombudsman", lower-case, and the registry's title is the officer's),
+    # the Public Records Advocate (ORS 192.461 creates "the office of the Public Records
+    # Advocate", likewise) and the Legislative Commission on Indian Services (the cited
+    # ORS 172.100 is a policy declaration that does not print the name). Those keep
+    # `unverified-oar-title`. The four constitutional offices were not part of this pass.
+    "board-of-examiners-for-engineering-and-land-surveying": "State Board of Examiners for Engineering and Land Surveying",
+    "board-of-geologist-examiners": "State Board of Geologist Examiners",
+    "board-of-massage-therapists": "State Board of Massage Therapists",
+    "board-of-medical-imaging": "Board of Medical Imaging",
+    "board-of-nursing": "Oregon State Board of Nursing",
+    "board-of-optometry": "Oregon Board of Optometry",
+    "board-of-parole-and-post-prison-supervision": "State Board of Parole and Post-Prison Supervision",
+    "board-of-pharmacy": "State Board of Pharmacy",
+    "bureau-of-labor-and-industries": "Bureau of Labor and Industries",
+    "citizens-initiative-review-commission": "Citizens’ Initiative Review Commission",
+    "columbia-river-gorge-commission": "Columbia River Gorge Commission",
+    "commission-for-the-blind": "Commission for the Blind",
+    "commission-on-judicial-fitness-and-disability": "Commission on Judicial Fitness and Disability",
+    "commission-on-statewide-law-enforcement-standards-of-conduct-and-discipline": "Commission on Statewide Law Enforcement Standards of Conduct and Discipline",
+    "construction-contractors-board": "Construction Contractors Board",
+    "department-of-administrative-services": "Oregon Department of Administrative Services",
+    "department-of-agriculture": "State Department of Agriculture",
+    "department-of-agriculture-oregon-albacore-commission": "Oregon Albacore Commission",
+    "department-of-agriculture-oregon-beef-council": "Oregon Beef Council",
+    "department-of-agriculture-oregon-blueberry-commission": "Oregon Blueberry Commission",
+    "department-of-agriculture-oregon-clover-seed-commission": "Oregon Clover Seed Commission",
+    "department-of-agriculture-oregon-dairy-products-commission": "Oregon Dairy Products Commission",
+    "department-of-agriculture-oregon-dungeness-crab-commission": "Oregon Dungeness Crab Commission",
+    "department-of-agriculture-oregon-fine-fescue-commission": "Oregon Fine Fescue Commission",
+    "department-of-agriculture-oregon-hazelnut-commission": "Oregon Hazelnut Commission",
+    "department-of-agriculture-oregon-hop-commission": "Oregon Hop Commission",
+    "department-of-agriculture-oregon-invasive-species-council": "Invasive Species Council",
+    "department-of-agriculture-oregon-mint-commission": "Oregon Mint Commission",
+    "department-of-agriculture-oregon-potato-commission": "Oregon Potato Commission",
+    "department-of-agriculture-oregon-processed-vegetable-commission": "Oregon Processed Vegetable Commission",
+    "department-of-agriculture-oregon-raspberry-and-blackberry-commission": "Oregon Raspberry and Blackberry Commission",
+    "department-of-agriculture-oregon-ryegrass-growers-seed-commission": "Oregon Ryegrass Growers Seed Commission",
+    "department-of-agriculture-oregon-salmon-commission": "Oregon Salmon Commission",
+    "department-of-agriculture-oregon-sheep-commission": "Oregon Sheep Commission",
+    "department-of-agriculture-oregon-strawberry-commission": "Oregon Strawberry Commission",
+    "department-of-agriculture-oregon-sweet-cherry-commission": "Oregon Sweet Cherry Commission",
+    "department-of-agriculture-oregon-tall-fescue-commission": "Oregon Tall Fescue Commission",
+    "department-of-agriculture-oregon-trawl-commission": "Oregon Trawl Commission",
+    "department-of-agriculture-oregon-wheat-commission": "Oregon Wheat Commission",
+    "department-of-consumer-and-business-services": "Department of Consumer and Business Services",
+    "department-of-consumer-and-business-services-prescription-drug-affordability-board": "Prescription Drug Affordability Board",
+    "department-of-consumer-and-business-services-workers-compensation-board": "Workers’ Compensation Board",
+    "department-of-corrections": "Department of Corrections",
+    "department-of-energy": "State Department of Energy",
+    "department-of-energy-energy-facility-siting-council": "Energy Facility Siting Council",
+    "department-of-environmental-quality": "Department of Environmental Quality",
+    "department-of-fish-and-wildlife": "State Department of Fish and Wildlife",
+    "department-of-forestry": "State Forestry Department",
+    "department-of-human-services": "Department of Human Services",
+    "department-of-human-services-home-care-commission": "Home Care Commission",
+    "department-of-justice": "Department of Justice",
+    "department-of-revenue": "Department of Revenue",
+    "department-of-state-lands": "Department of State Lands",
+    "department-of-state-police": "Department of State Police",
+    "department-of-state-police-oregon-state-athletic-commission": "Oregon State Athletic Commission",
+    "department-of-transportation": "Department of Transportation",
+    "department-of-veterans-affairs": "Department of Veterans’ Affairs",
+    "eastern-oregon-border-economic-development-board": "Eastern Oregon Border Economic Development Board",
+    "employment-department": "Employment Department",
+    "employment-relations-board": "Employment Relations Board",
+    "higher-education-coordinating-commission": "Higher Education Coordinating Commission",
+    "higher-education-coordinating-commission-office-of-student-access-and-completion": "Office of Student Access and Completion",
+    "land-conservation-and-development-department": "Department of Land Conservation and Development",
+    "land-use-board-of-appeals": "Land Use Board of Appeals",
+    "landscape-architect-board": "State Landscape Architect Board",
+    "landscape-contractors-board": "State Landscape Contractors Board",
+    "legislative-administration-committee": "Legislative Administration Committee",
+    "legislative-equity-office": "Legislative Equity Office",
+    "legislative-policy-and-research-committee": "Legislative Policy and Research Committee",
+    "mental-health-regulatory-agency": "Mental Health Regulatory Agency",
+    "mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists": "Oregon Board of Licensed Professional Counselors and Therapists",
+    "mental-health-regulatory-agency-oregon-board-of-psychology": "Oregon Board of Psychology",
+    "mortuary-and-cemetery-board": "State Mortuary and Cemetery Board",
+    "occupational-therapy-licensing-board": "Occupational Therapy Licensing Board",
+    "office-of-public-defense-services": "Oregon Public Defense Commission",
+    "oregon-529-savings-board": "Oregon 529 Savings Board",
+    "oregon-advocacy-commissions-office": "Oregon Advocacy Commissions Office",
+    "oregon-board-of-accountancy": "Oregon Board of Accountancy",
+    "oregon-board-of-dentistry": "Oregon Board of Dentistry",
+    "oregon-board-of-naturopathic-medicine": "Oregon Board of Naturopathic Medicine",
+    "oregon-board-of-physical-therapy": "Oregon Board of Physical Therapy",
+    "oregon-business-development-department": "Oregon Business Development Department",
+    "oregon-criminal-justice-commission": "Oregon Criminal Justice Commission",
+    "oregon-department-of-aviation": "Oregon Department of Aviation",
+    "oregon-department-of-education": "Department of Education",
+    "oregon-department-of-education-fair-dismissal-appeals-board": "Fair Dismissal Appeals Board",
+    "oregon-department-of-education-youth-development-division": "Youth Development Division",
+    "oregon-facilities-authority": "Oregon Facilities Authority",
+    "oregon-film-and-video-office": "Oregon Film and Video Office",
+    "oregon-forest-resources-institute": "Oregon Forest Resources Institute",
+    "oregon-government-ethics-commission": "Oregon Government Ethics Commission",
+    "oregon-health-authority": "Oregon Health Authority",
+    "oregon-health-authority-health-licensing-office": "Health Licensing Office",
+    "oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board": "Behavior Analysis Regulatory Board",
+    "oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians": "Board of Certified Advanced Estheticians",
+    "oregon-health-authority-health-licensing-office-board-of-cosmetology": "Board of Cosmetology",
+    "oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery": "State Board of Direct Entry Midwifery",
+    "oregon-health-authority-health-licensing-office-board-of-licensed-dietitians": "Board of Licensed Dietitians",
+    "oregon-health-authority-health-licensing-office-environmental-health-registration-board": "Environmental Health Registration Board",
+    "oregon-health-authority-health-licensing-office-long-term-care-administrators-board": "Long Term Care Administrators Board",
+    "oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters": "State Board of Sign Language Interpreters",
+    "oregon-health-authority-health-policy-and-analytics": "Health Policy and Analytics Division",
+    "oregon-health-authority-oregon-educators-benefit-board": "Oregon Educators Benefit Board",
+    "oregon-health-authority-oregon-prescription-drug-program": "Oregon Prescription Drug Program",
+    "oregon-health-authority-public-employees-benefit-board": "Public Employees’ Benefit Board",
+    "oregon-housing-and-community-services-department": "Housing and Community Services Department",
+    "oregon-investment-council": "Oregon Investment Council",
+    "oregon-liquor-control-commission": "Oregon Liquor and Cannabis Commission",
+    "oregon-medical-board": "Oregon Medical Board",
+    "oregon-military-department": "Oregon Military Department",
+    "oregon-patient-safety-commission": "Oregon Patient Safety Commission",
+    "oregon-racing-commission": "Oregon Racing Commission",
+    "oregon-state-marine-board": "State Marine Board",
+    "oregon-tourism-commission": "Oregon Tourism Commission",
+    "oregon-utility-notification-center": "Oregon Utility Notification Center",
+    "oregon-watershed-enhancement-board": "Oregon Watershed Enhancement Board",
+    "oregon-watershed-enhancement-board-environmental-restoration-council": "Environmental Restoration Council",
+    "oregon-wine-board": "Oregon Wine Board",
+    "oregon-youth-authority": "Oregon Youth Authority",
+    "parks-and-recreation-department": "State Parks and Recreation Department",
+    "psychiatric-security-review-board": "Psychiatric Security Review Board",
+    "public-utility-commission": "Public Utility Commission of Oregon",
+    "public-utility-commission-oregon-board-of-maritime-pilots": "Oregon Board of Maritime Pilots",
+    "real-estate-agency": "Real Estate Agency",
+    "saif-corporation": "State Accident Insurance Fund Corporation",
+    "southern-oregon-university": "Southern Oregon University",
+    "state-board-of-architect-examiners": "State Board of Architect Examiners",
+    "state-board-of-tax-practitioners": "State Board of Tax Practitioners",
+    "state-board-of-towing": "State Board of Towing",
+    "teacher-standards-and-practices-commission": "Teacher Standards and Practices Commission",
+    "travel-information-council": "Travel Information Council",
+    "veterinary-medical-examining-board": "Oregon State Veterinary Medical Examining Board",
+    "water-resources-department": "Water Resources Department",
 }
 
 # ------------------------------------------- agent quote-checks (operator decision 2026-10-30)
@@ -753,6 +956,656 @@ QUOTE_CHECKS: dict[str, list[tuple[str, str]]] = {
     "oregon-hemp-commission": [
         ("ORS 571.406", "the Director of Agriculture shall appoint seven temporary members "
                         "to the Oregon Hemp Commission."),
+    ],
+    # AGENT QUOTE-CHECKED, 2026-10-30. For a body in the batch above that cites its own section
+    # these are the sentences that create or constitute it and print its name; where a body's
+    # section lists several bodies (ORS 576.062's commodity commissions, ORS 352.002's
+    # universities) the pair is the sentence that introduces the list and the list item.
+    "board-of-examiners-for-engineering-and-land-surveying": [
+        ("ORS 672.240",
+         "The State Board of Examiners for Engineering and Land Surveying shall operate as a "
+         "semi-independent state agency subject to ORS 182.456 to 182.472"),
+    ],
+    "board-of-geologist-examiners": [
+        ("ORS 672.615",
+         "The State Board of Geologist Examiners shall operate as a semi-independent state "
+         "agency subject to ORS 182.456 to 182.472"),
+    ],
+    "board-of-massage-therapists": [
+        ("ORS 687.115",
+         "The State Board of Massage Therapists operates as a semi-independent state agency "
+         "subject to ORS 182.456 to 182.472"),
+    ],
+    "board-of-medical-imaging": [
+        ("ORS 688.545",
+         "There is created the Board of Medical Imaging."),
+    ],
+    "board-of-nursing": [
+        ("ORS 678.140",
+         "There is created an Oregon State Board of Nursing"),
+    ],
+    "board-of-optometry": [
+        ("ORS 683.250",
+         "The Oregon Board of Optometry operates as a semi-independent state agency subject to "
+         "ORS 182.456 to 182.472"),
+    ],
+    "board-of-parole-and-post-prison-supervision": [
+        ("ORS 144.005",
+         "A State Board of Parole and Post-Prison Supervision of at least three but no more "
+         "than five members hereby is created."),
+    ],
+    "board-of-pharmacy": [
+        ("ORS 689.115",
+         "The State Board of Pharmacy consists of nine members appointed by the Governor and "
+         "subject to confirmation by the Senate"),
+    ],
+    "bureau-of-labor-and-industries": [
+        ("ORS 651.020",
+         "The Bureau of Labor and Industries hereby is established as a separate department of "
+         "this state."),
+    ],
+    "citizens-initiative-review-commission": [
+        ("ORS 250.137",
+         "The Citizens’ Initiative Review Commission is established as a semi-independent "
+         "state agency subject to ORS 182.456 to 182.472."),
+    ],
+    "columbia-river-gorge-commission": [
+        ("ORS 196.150",
+         "The States of Oregon and Washington establish by way of this interstate compact a "
+         "regional agency known as the Columbia River Gorge Commission."),
+    ],
+    "commission-for-the-blind": [
+        ("ORS 346.120",
+         "There is created a commission for persons who are blind and for the prevention of "
+         "blindness, to be known as the Commission for the Blind."),
+    ],
+    "commission-on-judicial-fitness-and-disability": [
+        ("ORS 1.410",
+         "There is created the Commission on Judicial Fitness and Disability consisting of:"),
+    ],
+    "commission-on-statewide-law-enforcement-standards-of-conduct-and-discipline": [
+        ("ORS 243.812",
+         "The Commission on Statewide Law Enforcement Standards of Conduct and Discipline is "
+         "established for the purpose of adopting rules that prescribe uniform:"),
+    ],
+    "construction-contractors-board": [
+        ("ORS 701.205",
+         "The Construction Contractors Board is established"),
+    ],
+    "department-of-administrative-services": [
+        ("ORS 184.305",
+         "The Oregon Department of Administrative Services is created."),
+    ],
+    "department-of-agriculture": [
+        ("ORS 561.010",
+         "There is created a department of the government of this state to be known as the "
+         "State Department of Agriculture."),
+    ],
+    "department-of-agriculture-oregon-albacore-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(5) The Oregon Albacore Commission."),
+    ],
+    "department-of-agriculture-oregon-beef-council": [
+        ("ORS 577.210",
+         "There hereby is created the Oregon Beef Council composed of:"),
+    ],
+    "department-of-agriculture-oregon-blueberry-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(8) The Oregon Blueberry Commission."),
+    ],
+    "department-of-agriculture-oregon-clover-seed-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(9) The Oregon Clover Seed Commission."),
+    ],
+    "department-of-agriculture-oregon-dairy-products-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(1) The Oregon Dairy Products Commission."),
+    ],
+    "department-of-agriculture-oregon-dungeness-crab-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(3) The Oregon Dungeness Crab Commission."),
+    ],
+    "department-of-agriculture-oregon-fine-fescue-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(10) The Oregon Fine Fescue Commission."),
+    ],
+    "department-of-agriculture-oregon-hazelnut-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(2) The Oregon Hazelnut Commission."),
+    ],
+    "department-of-agriculture-oregon-hop-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(11) The Oregon Hop Commission."),
+    ],
+    "department-of-agriculture-oregon-invasive-species-council": [
+        ("ORS 570.770",
+         "The Invasive Species Council is established within the State Department of "
+         "Agriculture."),
+    ],
+    "department-of-agriculture-oregon-mint-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(12) The Oregon Mint Commission."),
+    ],
+    "department-of-agriculture-oregon-potato-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(7) The Oregon Potato Commission."),
+    ],
+    "department-of-agriculture-oregon-processed-vegetable-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(13) The Oregon Processed Vegetable Commission."),
+    ],
+    "department-of-agriculture-oregon-raspberry-and-blackberry-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(14) The Oregon Raspberry and Blackberry Commission."),
+    ],
+    "department-of-agriculture-oregon-ryegrass-growers-seed-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(15) The Oregon Ryegrass Growers Seed Commission."),
+    ],
+    "department-of-agriculture-oregon-salmon-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(4) The Oregon Salmon Commission."),
+    ],
+    "department-of-agriculture-oregon-sheep-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(6) The Oregon Sheep Commission."),
+    ],
+    "department-of-agriculture-oregon-strawberry-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(16) The Oregon Strawberry Commission."),
+    ],
+    "department-of-agriculture-oregon-sweet-cherry-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(17) The Oregon Sweet Cherry Commission."),
+    ],
+    "department-of-agriculture-oregon-tall-fescue-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(18) The Oregon Tall Fescue Commission."),
+    ],
+    "department-of-agriculture-oregon-trawl-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(19) The Oregon Trawl Commission."),
+    ],
+    "department-of-agriculture-oregon-wheat-commission": [
+        ("ORS 578.030",
+         "There hereby is created the Oregon Wheat Commission."),
+    ],
+    "department-of-consumer-and-business-services": [
+        ("ORS 705.105",
+         "The Department of Consumer and Business Services is created."),
+    ],
+    "department-of-consumer-and-business-services-prescription-drug-affordability-board": [
+        ("ORS 646A.693",
+         "The Prescription Drug Affordability Board is established in the Department of "
+         "Consumer and Business Services"),
+    ],
+    "department-of-consumer-and-business-services-workers-compensation-board": [
+        ("ORS 656.712",
+         "The Workers’ Compensation Board, composed of five members appointed by the Governor, "
+         "is created within the Department of Consumer and Business Services."),
+    ],
+    "department-of-corrections": [
+        ("ORS 423.020",
+         "The Department of Corrections is created."),
+    ],
+    "department-of-energy": [
+        ("ORS 469.030",
+         "There is created the State Department of Energy."),
+    ],
+    "department-of-energy-energy-facility-siting-council": [
+        ("ORS 469.450",
+         "There is established in the State Department of Energy an Energy Facility Siting "
+         "Council"),
+    ],
+    "department-of-environmental-quality": [
+        ("ORS 468.030",
+         "There is hereby established in the executive-administrative branch of the government "
+         "of the state under the Environmental Quality Commission a department to be known as "
+         "the Department of Environmental Quality."),
+    ],
+    "department-of-fish-and-wildlife": [
+        ("ORS 496.080",
+         "There is hereby established in the executive branch of the government of this state "
+         "under the State Fish and Wildlife Commission a department to be known as the State "
+         "Department of Fish and Wildlife."),
+    ],
+    "department-of-forestry": [
+        ("ORS 526.008",
+         "The State Forestry Department consists of the State Forester and the deputy, "
+         "assistants and employees of the forester, acting under direction of the State Board "
+         "of Forestry."),
+    ],
+    "department-of-human-services": [
+        ("ORS 409.010",
+         "The Department of Human Services is created."),
+    ],
+    "department-of-human-services-home-care-commission": [
+        ("ORS 410.602",
+         "The Home Care Commission is created, consisting of nine members appointed by the "
+         "Governor and confirmed by the Senate as provided in ORS 171.562 and 171.565."),
+    ],
+    "department-of-justice": [
+        ("ORS 180.210",
+         "There hereby is constituted an executive department to be known as the Department of "
+         "Justice."),
+    ],
+    "department-of-revenue": [
+        ("ORS 305.025",
+         "The Department of Revenue is established."),
+    ],
+    "department-of-state-lands": [
+        ("ORS 273.041",
+         "The Department of State Lands is created, and consists of the Director of the "
+         "Department of State Lands and all officers and employees of the department acting "
+         "under the State Land Board."),
+    ],
+    "department-of-state-police": [
+        ("ORS 181A.015",
+         "There is established a Department of State Police."),
+    ],
+    "department-of-state-police-oregon-state-athletic-commission": [
+        ("ORS 463.113",
+         "There is created in the Department of State Police the Oregon State Athletic "
+         "Commission"),
+    ],
+    "department-of-transportation": [
+        ("ORS 184.615",
+         "The Department of Transportation is established."),
+    ],
+    "department-of-veterans-affairs": [
+        ("ORS 406.005",
+         "The Department of Veterans’ Affairs is established."),
+    ],
+    "eastern-oregon-border-economic-development-board": [
+        ("ORS 284.776",
+         "The Eastern Oregon Border Economic Development Board is established"),
+    ],
+    "employment-department": [
+        ("ORS 657.601",
+         "There is established an Employment Department."),
+    ],
+    "employment-relations-board": [
+        ("ORS 240.060",
+         "The Civil Service Commission that has functioned under this chapter shall be "
+         "continued as a board of three members to be known as the Employment Relations Board."),
+    ],
+    "higher-education-coordinating-commission": [
+        ("ORS 350.050",
+         "There is established a Higher Education Coordinating Commission, consisting of 15 "
+         "voting members appointed by the Governor."),
+    ],
+    "higher-education-coordinating-commission-office-of-student-access-and-completion": [
+        ("ORS 348.511",
+         "The Office of Student Access and Completion is established and shall operate under "
+         "the direction and control of the Higher Education Coordinating Commission."),
+    ],
+    "land-conservation-and-development-department": [
+        ("ORS 197.075",
+         "The Department of Land Conservation and Development is established."),
+    ],
+    "land-use-board-of-appeals": [
+        ("ORS 197.810",
+         "There is hereby created a Land Use Board of Appeals consisting of not more than "
+         "three positions."),
+    ],
+    "landscape-architect-board": [
+        ("ORS 671.459",
+         "The State Landscape Architect Board shall operate as a semi-independent state agency "
+         "subject to ORS 182.456 to 182.472"),
+    ],
+    "landscape-contractors-board": [
+        ("ORS 671.630",
+         "The State Landscape Contractors Board shall operate as a semi-independent state "
+         "agency subject to ORS 182.456 to 182.472"),
+    ],
+    "legislative-administration-committee": [
+        ("ORS 173.710",
+         "The Legislative Administration Committee hereby is established as a joint committee "
+         "of the Legislative Assembly."),
+    ],
+    "legislative-equity-office": [
+        ("ORS 173.900",
+         "The Legislative Equity Office is established as a nonpartisan office of the "
+         "Legislative Assembly"),
+    ],
+    "legislative-policy-and-research-committee": [
+        ("ORS 173.605",
+         "The Legislative Policy and Research Committee is established as a joint committee of "
+         "the Legislative Assembly."),
+    ],
+    "mental-health-regulatory-agency": [
+        ("ORS 675.160",
+         "The Mental Health Regulatory Agency is created"),
+    ],
+    "mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists": [
+        ("ORS 675.775",
+         "The Oregon Board of Licensed Professional Counselors and Therapists is established."),
+    ],
+    "mental-health-regulatory-agency-oregon-board-of-psychology": [
+        ("ORS 675.100",
+         "There hereby is created the Oregon Board of Psychology"),
+    ],
+    "mortuary-and-cemetery-board": [
+        ("ORS 692.300",
+         "There is created the State Mortuary and Cemetery Board to carry out the purposes and "
+         "enforce the provisions of this chapter."),
+    ],
+    "occupational-therapy-licensing-board": [
+        ("ORS 675.310",
+         "There is created the Occupational Therapy Licensing Board."),
+    ],
+    "office-of-public-defense-services": [
+        ("ORS 151.213",
+         "The Oregon Public Defense Commission is established in the executive branch of state "
+         "government."),
+    ],
+    "oregon-529-savings-board": [
+        ("ORS 178.310",
+         "There is established the Oregon 529 Savings Board to administer ORS 178.300 to "
+         "178.360, 178.375 and 178.380."),
+    ],
+    "oregon-advocacy-commissions-office": [
+        ("ORS 185.005",
+         "The Oregon Advocacy Commissions Office is established to provide administrative "
+         "support to:"),
+    ],
+    "oregon-board-of-accountancy": [
+        ("ORS 673.410",
+         "There is created an Oregon Board of Accountancy consisting of seven members."),
+    ],
+    "oregon-board-of-dentistry": [
+        ("ORS 679.230",
+         "The Oregon Board of Dentistry consists of 10 members appointed by the Governor and "
+         "subject to confirmation by the Senate"),
+    ],
+    "oregon-board-of-naturopathic-medicine": [
+        ("ORS 685.160",
+         "The Oregon Board of Naturopathic Medicine is created"),
+    ],
+    "oregon-board-of-physical-therapy": [
+        ("ORS 688.160",
+         "The Oregon Board of Physical Therapy operates as a semi-independent state agency "
+         "subject to ORS 182.456 to 182.472"),
+    ],
+    "oregon-business-development-department": [
+        ("ORS 285A.070",
+         "The Oregon Business Development Department is established."),
+    ],
+    "oregon-criminal-justice-commission": [
+        ("ORS 137.654",
+         "There is established the Oregon Criminal Justice Commission consisting of 12 members "
+         "as follows:"),
+    ],
+    "oregon-department-of-aviation": [
+        ("ORS 835.100",
+         "The Oregon Department of Aviation is established."),
+    ],
+    "oregon-department-of-education": [
+        ("ORS 326.111",
+         "The Department of Education is created and shall function under the direction and "
+         "control of the State Board of Education"),
+    ],
+    "oregon-department-of-education-fair-dismissal-appeals-board": [
+        ("ORS 342.930",
+         "The Fair Dismissal Appeals Board is created"),
+    ],
+    "oregon-department-of-education-youth-development-division": [
+        ("ORS 417.852",
+         "The Youth Development Division is established in the Department of Education."),
+    ],
+    "oregon-facilities-authority": [
+        ("ORS 289.100",
+         "There is created a body politic and corporate to be known as the Oregon Facilities "
+         "Authority."),
+    ],
+    "oregon-film-and-video-office": [
+        ("ORS 284.305",
+         "The Oregon Film and Video Office is created as a semi-independent state agency "
+         "subject to ORS 284.300 to 284.375."),
+    ],
+    "oregon-forest-resources-institute": [
+        ("ORS 526.610",
+         "There is created the Oregon Forest Resources Institute."),
+    ],
+    "oregon-government-ethics-commission": [
+        ("ORS 244.250",
+         "The Oregon Government Ethics Commission is established, consisting of nine members."),
+    ],
+    "oregon-health-authority": [
+        ("ORS 413.032",
+         "The Oregon Health Authority is established."),
+    ],
+    "oregon-health-authority-health-licensing-office": [
+        ("ORS 676.560",
+         "the Health Licensing Office is created within the Oregon Health Authority."),
+    ],
+    "oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board": [
+        ("ORS 676.806",
+         "There is created, within the Health Licensing Office, the Behavior Analysis "
+         "Regulatory Board consisting of nine members appointed by the Governor, including:"),
+    ],
+    "oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians": [
+        ("ORS 676.650",
+         "There is established the Board of Certified Advanced Estheticians within the Health "
+         "Licensing Office, consisting of:"),
+    ],
+    "oregon-health-authority-health-licensing-office-board-of-cosmetology": [
+        ("ORS 690.155",
+         "There is established within the Health Licensing Office the Board of Cosmetology "
+         "consisting of seven members appointed by the Governor."),
+    ],
+    "oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery": [
+        ("ORS 687.470",
+         "There is established within the Health Licensing Office the State Board of Direct "
+         "Entry Midwifery."),
+    ],
+    "oregon-health-authority-health-licensing-office-board-of-licensed-dietitians": [
+        ("ORS 691.485",
+         "There is established, within the Health Licensing Office, the Board of Licensed "
+         "Dietitians to advise the office with regard to the regulation of dietitians."),
+    ],
+    "oregon-health-authority-health-licensing-office-environmental-health-registration-board": [
+        ("ORS 700.210",
+         "There is established within the Health Licensing Office the Environmental Health "
+         "Registration Board to consist of seven members to be appointed by the Governor."),
+    ],
+    "oregon-health-authority-health-licensing-office-long-term-care-administrators-board": [
+        ("ORS 678.800",
+         "The Long Term Care Administrators Board is established within the Health Licensing "
+         "Office."),
+    ],
+    "oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters": [
+        ("ORS 676.780",
+         "There is established within the Health Licensing Office the State Board of Sign "
+         "Language Interpreters consisting of seven members appointed by the Governor as "
+         "follows:"),
+    ],
+    "oregon-health-authority-health-policy-and-analytics": [
+        ("ORS 442.011",
+         "There is created in the Oregon Health Authority the Health Policy and Analytics "
+         "Division."),
+    ],
+    "oregon-health-authority-oregon-educators-benefit-board": [
+        ("ORS 243.862",
+         "There is established in the Oregon Health Authority an Oregon Educators Benefit "
+         "Board consisting of at least 10 members appointed by the Governor, including:"),
+    ],
+    "oregon-health-authority-oregon-prescription-drug-program": [
+        ("ORS 414.312",
+         "The Oregon Prescription Drug Program is established in the Oregon Health Authority."),
+    ],
+    "oregon-health-authority-public-employees-benefit-board": [
+        ("ORS 243.061",
+         "There is created in the Oregon Health Authority the Public Employees’ Benefit Board"),
+    ],
+    "oregon-housing-and-community-services-department": [
+        ("ORS 456.555",
+         "The Housing and Community Services Department is established."),
+    ],
+    "oregon-investment-council": [
+        ("ORS 293.706",
+         "There is created the Oregon Investment Council, consisting of five voting members "
+         "and one nonvoting member."),
+    ],
+    "oregon-liquor-control-commission": [
+        ("ORS 471.705",
+         "There is created the Oregon Liquor and Cannabis Commission, consisting of nine "
+         "commissioners appointed by the Governor."),
+    ],
+    "oregon-medical-board": [
+        ("ORS 677.235",
+         "The Oregon Medical Board consists of 14 members appointed by the Governor and "
+         "subject to confirmation by the Senate"),
+    ],
+    "oregon-military-department": [
+        ("ORS 396.305",
+         "The Oregon Military Department is established."),
+    ],
+    "oregon-patient-safety-commission": [
+        ("ORS 442.820",
+         "The Oregon Patient Safety Commission is established as a semi-independent state "
+         "agency subject to ORS 182.456 to 182.472."),
+    ],
+    "oregon-racing-commission": [
+        ("ORS 462.210",
+         "There is created the Oregon Racing Commission to consist of five commissioners who "
+         "shall be citizens, residents and electors of this state."),
+    ],
+    "oregon-state-marine-board": [
+        ("ORS 830.105",
+         "There hereby is created the State Marine Board consisting of five members to be "
+         "appointed by the Governor"),
+    ],
+    "oregon-tourism-commission": [
+        ("ORS 284.107",
+         "There is established an Oregon Tourism Commission consisting of nine members "
+         "appointed by the Governor."),
+    ],
+    "oregon-utility-notification-center": [
+        ("ORS 757.547",
+         "The Oregon Utility Notification Center is created as an independent not-for-profit "
+         "public corporation."),
+    ],
+    "oregon-watershed-enhancement-board": [
+        ("ORS 541.900",
+         "The Oregon Watershed Enhancement Board is created."),
+    ],
+    "oregon-watershed-enhancement-board-environmental-restoration-council": [
+        ("ORS 541.861",
+         "The Environmental Restoration Council is established in the Oregon Watershed "
+         "Enhancement Board."),
+    ],
+    "oregon-wine-board": [
+        ("ORS 576.856",
+         "The Oregon Wine Board is established as a semi-independent state agency subject to "
+         "ORS 182.456 to 182.472."),
+    ],
+    "oregon-youth-authority": [
+        ("ORS 420A.010",
+         "The Oregon Youth Authority is established."),
+    ],
+    "parks-and-recreation-department": [
+        ("ORS 390.111",
+         "The State Parks and Recreation Department is created."),
+    ],
+    "psychiatric-security-review-board": [
+        ("ORS 161.385",
+         "There is hereby created a Psychiatric Security Review Board"),
+    ],
+    "public-utility-commission": [
+        ("ORS 756.014",
+         "There is created the Public Utility Commission of Oregon."),
+    ],
+    "public-utility-commission-oregon-board-of-maritime-pilots": [
+        ("ORS 776.105",
+         "The Oregon Board of Maritime Pilots is established within the Public Utility "
+         "Commission of Oregon"),
+    ],
+    "real-estate-agency": [
+        ("ORS 696.375",
+         "The Real Estate Agency is established."),
+    ],
+    "saif-corporation": [
+        ("ORS 656.752",
+         "The State Accident Insurance Fund Corporation is created for the purpose of "
+         "transacting workers’ compensation insurance and reinsurance business."),
+    ],
+    "southern-oregon-university": [
+        ("ORS 352.002",
+         "The following are established as public universities in the State of Oregon:"),
+        ("ORS 352.002",
+         "(6) Southern Oregon University."),
+    ],
+    "state-board-of-architect-examiners": [
+        ("ORS 671.120",
+         "The State Board of Architect Examiners shall operate as a semi-independent state "
+         "agency subject to ORS 182.456 to 182.472"),
+    ],
+    "state-board-of-tax-practitioners": [
+        ("ORS 673.725",
+         "There is created a State Board of Tax Practitioners."),
+    ],
+    "state-board-of-towing": [
+        ("ORS 822.250",
+         "The State Board of Towing is established within the Department of Transportation."),
+    ],
+    "teacher-standards-and-practices-commission": [
+        ("ORS 342.350",
+         "There is created a Teacher Standards and Practices Commission consisting of 17 "
+         "members appointed by the Governor"),
+    ],
+    "travel-information-council": [
+        ("ORS 377.835",
+         "The Travel Information Council is created as a semi-independent state agency."),
+    ],
+    "veterinary-medical-examining-board": [
+        ("ORS 686.210",
+         "There is created the Oregon State Veterinary Medical Examining Board, which shall "
+         "carry out the purposes and enforce the provisions of this chapter."),
+    ],
+    "water-resources-department": [
+        ("ORS 536.039",
+         "There is hereby established in the executive-administrative branch of the government "
+         "of the state under the Water Resources Commission a department to be known as the "
+         "Water Resources Department."),
     ],
 }
 

@@ -57,19 +57,19 @@
 
 - 1 documents.
 
-## Board of Nursing — Schedules
+## Oregon State Board of Nursing — Schedules
 
 - 1 documents.
 
-## Board of Optometry — Schedules
+## Oregon Board of Optometry — Schedules
 
 - 1 documents.
 
-## Board of Parole and Post-Prison Supervision — Schedules
+## State Board of Parole and Post-Prison Supervision — Schedules
 
 - 1 documents.
 
-## Board of Pharmacy — Schedules
+## State Board of Pharmacy — Schedules
 
 - 1 documents.
 
@@ -81,11 +81,11 @@
 
 - 1 documents.
 
-## Department of Administrative Services — Schedules
+## Oregon Department of Administrative Services — Schedules
 
 - 1 documents.
 
-## Department of Agriculture — Schedules
+## State Department of Agriculture — Schedules
 
 - 1 documents.
 
@@ -101,7 +101,7 @@
 
 - 1 documents.
 
-## Department of Energy — Schedules
+## State Department of Energy — Schedules
 
 - 1 documents.
 
@@ -113,11 +113,11 @@
 
 - 1 documents.
 
-## Department of Fish and Wildlife — Schedules
+## State Department of Fish and Wildlife — Schedules
 
 - 1 documents.
 
-## Department of Forestry — Schedules
+## State Forestry Department — Schedules
 
 - 1 documents.
 
@@ -169,7 +169,7 @@
 
 - 8 documents.
 
-## Department of Veterans' Affairs — Schedules
+## Department of Veterans’ Affairs — Schedules
 
 - 1 documents.
 
@@ -185,11 +185,11 @@
 
 - 1 documents.
 
-## Land Conservation and Development Department — Schedules
+## Department of Land Conservation and Development — Schedules
 
 - 1 documents.
 
-## Landscape Contractors Board — Schedules
+## State Landscape Contractors Board — Schedules
 
 - 1 documents.
 
@@ -213,7 +213,7 @@
 
 - 1 documents.
 
-## Oregon Department of Education — Schedules
+## Department of Education — Schedules
 
 - 1 documents.
 
@@ -237,11 +237,11 @@
 
 - 4 documents.
 
-## Oregon Housing and Community Services Department — Schedules
+## Housing and Community Services Department — Schedules
 
 - 1 documents.
 
-## Oregon Liquor Control Commission — Schedules
+## Oregon Liquor and Cannabis Commission — Schedules
 
 - 1 documents.
 
@@ -277,7 +277,7 @@
 
 - 1 documents.
 
-## Oregon State Marine Board — Schedules
+## State Marine Board — Schedules
 
 - 1 documents.
 
@@ -301,7 +301,7 @@
 
 - 1 documents.
 
-## Parks and Recreation Department — Schedules
+## State Parks and Recreation Department — Schedules
 
 - 1 documents.
 
@@ -313,11 +313,11 @@
 
 - 1 documents.
 
-## Public Utility Commission — Policies
+## Public Utility Commission of Oregon — Policies
 
 - [Index](agencies/public-utility-commission/policies/_index.md): 1 documents.
 
-## Public Utility Commission — Schedules
+## Public Utility Commission of Oregon — Schedules
 
 - 1 documents.
 
@@ -325,7 +325,7 @@
 
 - 1 documents.
 
-## SAIF Corporation — Schedules
+## State Accident Insurance Fund Corporation — Schedules
 
 - 1 documents.
 

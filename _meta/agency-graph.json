@@ -11,7 +11,7 @@
  "colored_groups": [
   {
    "slug": "department-of-agriculture",
-   "name": "Department of Agriculture",
+   "name": "State Department of Agriculture",
    "members": 24
   },
   {
@@ -41,7 +41,7 @@
   },
   {
    "slug": "department-of-administrative-services",
-   "name": "Department of Administrative Services",
+   "name": "Oregon Department of Administrative Services",
    "members": 4
   },
   {
@@ -51,7 +51,7 @@
   },
   {
    "slug": "oregon-department-of-education",
-   "name": "Oregon Department of Education",
+   "name": "Department of Education",
    "members": 4
   },
   {
@@ -66,7 +66,7 @@
   },
   {
    "slug": "department-of-energy",
-   "name": "Department of Energy",
+   "name": "State Department of Energy",
    "members": 2
   },
   {
@@ -81,7 +81,7 @@
   },
   {
    "slug": "public-utility-commission",
-   "name": "Public Utility Commission",
+   "name": "Public Utility Commission of Oregon",
    "members": 2
   }
  ],
@@ -562,11 +562,11 @@
   },
   {
    "slug": "board-of-examiners-for-engineering-and-land-surveying",
-   "name": "Board of Examiners for Engineering and Land Surveying",
+   "name": "State Board of Examiners for Engineering and Land Surveying",
    "rules": 89,
    "parent": null,
    "group": "board-of-examiners-for-engineering-and-land-surveying",
-   "group_name": "Board of Examiners for Engineering and Land Surveying",
+   "group_name": "State Board of Examiners for Engineering and Land Surveying",
    "governance": "semi_independent",
    "chapters": [
     "670",
@@ -593,11 +593,11 @@
   },
   {
    "slug": "board-of-geologist-examiners",
-   "name": "Board of Geologist Examiners",
+   "name": "State Board of Geologist Examiners",
    "rules": 56,
    "parent": null,
    "group": "board-of-geologist-examiners",
-   "group_name": "Board of Geologist Examiners",
+   "group_name": "State Board of Geologist Examiners",
    "governance": "semi_independent",
    "chapters": [
     "182",
@@ -624,11 +624,11 @@
   },
   {
    "slug": "board-of-massage-therapists",
-   "name": "Board of Massage Therapists",
+   "name": "State Board of Massage Therapists",
    "rules": 33,
    "parent": null,
    "group": "board-of-massage-therapists",
-   "group_name": "Board of Massage Therapists",
+   "group_name": "State Board of Massage Therapists",
    "governance": "semi_independent",
    "chapters": [
     "182",
@@ -654,11 +654,11 @@
   },
   {
    "slug": "board-of-nursing",
-   "name": "Board of Nursing",
+   "name": "Oregon State Board of Nursing",
    "rules": 151,
    "parent": null,
    "group": "board-of-nursing",
-   "group_name": "Board of Nursing",
+   "group_name": "Oregon State Board of Nursing",
    "governance": "executive_branch",
    "chapters": [
     "181a",
@@ -677,11 +677,11 @@
   },
   {
    "slug": "board-of-optometry",
-   "name": "Board of Optometry",
+   "name": "Oregon Board of Optometry",
    "rules": 57,
    "parent": null,
    "group": "board-of-optometry",
-   "group_name": "Board of Optometry",
+   "group_name": "Oregon Board of Optometry",
    "governance": "semi_independent",
    "chapters": [
     "182",
@@ -699,11 +699,11 @@
   },
   {
    "slug": "board-of-parole-and-post-prison-supervision",
-   "name": "Board of Parole and Post-Prison Supervision",
+   "name": "State Board of Parole and Post-Prison Supervision",
    "rules": 156,
    "parent": null,
    "group": "board-of-parole-and-post-prison-supervision",
-   "group_name": "Board of Parole and Post-Prison Supervision",
+   "group_name": "State Board of Parole and Post-Prison Supervision",
    "governance": "executive_branch",
    "chapters": [
     "137",
@@ -717,11 +717,11 @@
   },
   {
    "slug": "board-of-pharmacy",
-   "name": "Board of Pharmacy",
+   "name": "State Board of Pharmacy",
    "rules": 447,
    "parent": null,
    "group": "board-of-pharmacy",
-   "group_name": "Board of Pharmacy",
+   "group_name": "State Board of Pharmacy",
    "governance": "executive_branch",
    "chapters": [
     "171",
@@ -787,11 +787,11 @@
   },
   {
    "slug": "citizens-initiative-review-commission",
-   "name": "Citizens' Initiative Review Commission",
+   "name": "Citizens’ Initiative Review Commission",
    "rules": 5,
    "parent": null,
    "group": "citizens-initiative-review-commission",
-   "group_name": "Citizens' Initiative Review Commission",
+   "group_name": "Citizens’ Initiative Review Commission",
    "governance": "semi_independent",
    "chapters": [
     "182",
@@ -870,11 +870,11 @@
   },
   {
    "slug": "department-of-administrative-services",
-   "name": "Department of Administrative Services",
+   "name": "Oregon Department of Administrative Services",
    "rules": 361,
    "parent": null,
    "group": "department-of-administrative-services",
-   "group_name": "Department of Administrative Services",
+   "group_name": "Oregon Department of Administrative Services",
    "governance": "executive_branch",
    "chapters": [
     "171",
@@ -914,7 +914,7 @@
    "rules": 24,
    "parent": "department-of-administrative-services",
    "group": "department-of-administrative-services",
-   "group_name": "Department of Administrative Services",
+   "group_name": "Oregon Department of Administrative Services",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -931,7 +931,7 @@
    "rules": 8,
    "parent": "department-of-administrative-services",
    "group": "department-of-administrative-services",
-   "group_name": "Department of Administrative Services",
+   "group_name": "Oregon Department of Administrative Services",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -947,7 +947,7 @@
    "rules": 2,
    "parent": "department-of-administrative-services",
    "group": "department-of-administrative-services",
-   "group_name": "Department of Administrative Services",
+   "group_name": "Oregon Department of Administrative Services",
    "governance": "executive_branch",
    "chapters": [
     "276a"
@@ -955,11 +955,11 @@
   },
   {
    "slug": "department-of-agriculture",
-   "name": "Department of Agriculture",
+   "name": "State Department of Agriculture",
    "rules": 1462,
    "parent": null,
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1010,11 +1010,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-albacore-commission",
-   "name": "Department of Agriculture, Oregon Albacore Commission",
+   "name": "Oregon Albacore Commission",
    "rules": 12,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1025,11 +1025,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-beef-council",
-   "name": "Department of Agriculture, Oregon Beef Council",
+   "name": "Oregon Beef Council",
    "rules": 20,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1041,11 +1041,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-blueberry-commission",
-   "name": "Department of Agriculture, Oregon Blueberry Commission",
+   "name": "Oregon Blueberry Commission",
    "rules": 16,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1056,11 +1056,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-clover-seed-commission",
-   "name": "Department of Agriculture, Oregon Clover Seed Commission",
+   "name": "Oregon Clover Seed Commission",
    "rules": 12,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1071,11 +1071,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-dairy-products-commission",
-   "name": "Department of Agriculture, Oregon Dairy Products Commission",
+   "name": "Oregon Dairy Products Commission",
    "rules": 15,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "192",
@@ -1085,11 +1085,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-dungeness-crab-commission",
-   "name": "Department of Agriculture, Oregon Dungeness Crab Commission",
+   "name": "Oregon Dungeness Crab Commission",
    "rules": 12,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "192",
@@ -1099,11 +1099,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-fine-fescue-commission",
-   "name": "Department of Agriculture, Oregon Fine Fescue Commission",
+   "name": "Oregon Fine Fescue Commission",
    "rules": 12,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "192",
@@ -1113,11 +1113,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-hazelnut-commission",
-   "name": "Department of Agriculture, Oregon Hazelnut Commission",
+   "name": "Oregon Hazelnut Commission",
    "rules": 15,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "192",
@@ -1127,11 +1127,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-hop-commission",
-   "name": "Department of Agriculture, Oregon Hop Commission",
+   "name": "Oregon Hop Commission",
    "rules": 3,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1140,11 +1140,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-invasive-species-council",
-   "name": "Department of Agriculture, Oregon Invasive Species Council",
+   "name": "Invasive Species Council",
    "rules": 5,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "570"
@@ -1152,11 +1152,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-mint-commission",
-   "name": "Department of Agriculture, Oregon Mint Commission",
+   "name": "Oregon Mint Commission",
    "rules": 14,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1167,11 +1167,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-potato-commission",
-   "name": "Department of Agriculture, Oregon Potato Commission",
+   "name": "Oregon Potato Commission",
    "rules": 23,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1182,11 +1182,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-processed-vegetable-commission",
-   "name": "Department of Agriculture, Oregon Processed Vegetable Commission",
+   "name": "Oregon Processed Vegetable Commission",
    "rules": 13,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1197,11 +1197,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-raspberry-and-blackberry-commission",
-   "name": "Department of Agriculture, Oregon Raspberry and Blackberry Commission",
+   "name": "Oregon Raspberry and Blackberry Commission",
    "rules": 20,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1212,11 +1212,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-ryegrass-growers-seed-commission",
-   "name": "Department of Agriculture, Oregon Ryegrass Growers Seed Commission",
+   "name": "Oregon Ryegrass Growers Seed Commission",
    "rules": 14,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1227,11 +1227,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-salmon-commission",
-   "name": "Department of Agriculture, Oregon Salmon Commission",
+   "name": "Oregon Salmon Commission",
    "rules": 13,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1242,11 +1242,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-sheep-commission",
-   "name": "Department of Agriculture, Oregon Sheep Commission",
+   "name": "Oregon Sheep Commission",
    "rules": 13,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1257,11 +1257,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-strawberry-commission",
-   "name": "Department of Agriculture, Oregon Strawberry Commission",
+   "name": "Oregon Strawberry Commission",
    "rules": 19,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1272,11 +1272,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-sweet-cherry-commission",
-   "name": "Department of Agriculture, Oregon Sweet Cherry Commission",
+   "name": "Oregon Sweet Cherry Commission",
    "rules": 15,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "192",
@@ -1286,11 +1286,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-tall-fescue-commission",
-   "name": "Department of Agriculture, Oregon Tall Fescue Commission",
+   "name": "Oregon Tall Fescue Commission",
    "rules": 13,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "192",
@@ -1300,11 +1300,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-trawl-commission",
-   "name": "Department of Agriculture, Oregon Trawl Commission",
+   "name": "Oregon Trawl Commission",
    "rules": 14,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1315,11 +1315,11 @@
   },
   {
    "slug": "department-of-agriculture-oregon-wheat-commission",
-   "name": "Department of Agriculture, Oregon Wheat Commission",
+   "name": "Oregon Wheat Commission",
    "rules": 14,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -1478,7 +1478,7 @@
   },
   {
    "slug": "department-of-consumer-and-business-services-prescription-drug-affordability-board",
-   "name": "Department of Consumer and Business Services, Prescription Drug Affordability Board",
+   "name": "Prescription Drug Affordability Board",
    "rules": 5,
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
@@ -1493,7 +1493,7 @@
   },
   {
    "slug": "department-of-consumer-and-business-services-workers-compensation-board",
-   "name": "Department of Consumer and Business Services, Workers' Compensation Board",
+   "name": "Workers’ Compensation Board",
    "rules": 226,
    "parent": "department-of-consumer-and-business-services",
    "group": "department-of-consumer-and-business-services",
@@ -1572,11 +1572,11 @@
   },
   {
    "slug": "department-of-energy",
-   "name": "Department of Energy",
+   "name": "State Department of Energy",
    "rules": 267,
    "parent": null,
    "group": "department-of-energy",
-   "group_name": "Department of Energy",
+   "group_name": "State Department of Energy",
    "governance": "executive_branch",
    "chapters": [
     "181a",
@@ -1594,11 +1594,11 @@
   },
   {
    "slug": "department-of-energy-energy-facility-siting-council",
-   "name": "Department of Energy, Energy Facility Siting Council",
+   "name": "Energy Facility Siting Council",
    "rules": 247,
    "parent": "department-of-energy",
    "group": "department-of-energy",
-   "group_name": "Department of Energy",
+   "group_name": "State Department of Energy",
    "governance": "executive_branch",
    "chapters": [
     "174",
@@ -1648,11 +1648,11 @@
   },
   {
    "slug": "department-of-fish-and-wildlife",
-   "name": "Department of Fish and Wildlife",
+   "name": "State Department of Fish and Wildlife",
    "rules": 1491,
    "parent": null,
    "group": "department-of-fish-and-wildlife",
-   "group_name": "Department of Fish and Wildlife",
+   "group_name": "State Department of Fish and Wildlife",
    "governance": "executive_branch",
    "chapters": [
     "167",
@@ -1679,11 +1679,11 @@
   },
   {
    "slug": "department-of-forestry",
-   "name": "Department of Forestry",
+   "name": "State Forestry Department",
    "rules": 503,
    "parent": null,
    "group": "department-of-forestry",
-   "group_name": "Department of Forestry",
+   "group_name": "State Forestry Department",
    "governance": "executive_branch",
    "chapters": [
     "164",
@@ -1831,7 +1831,7 @@
   },
   {
    "slug": "department-of-human-services-home-care-commission",
-   "name": "Department of Human Services, Home Care Commission",
+   "name": "Home Care Commission",
    "rules": 24,
    "parent": "department-of-human-services",
    "group": "department-of-human-services",
@@ -2127,7 +2127,7 @@
   },
   {
    "slug": "department-of-state-police-oregon-state-athletic-commission",
-   "name": "Department of State Police, Oregon State Athletic Commission",
+   "name": "Oregon State Athletic Commission",
    "rules": 196,
    "parent": "department-of-state-police",
    "group": "department-of-state-police",
@@ -2318,11 +2318,11 @@
   },
   {
    "slug": "department-of-veterans-affairs",
-   "name": "Department of Veterans' Affairs",
+   "name": "Department of Veterans’ Affairs",
    "rules": 188,
    "parent": null,
    "group": "department-of-veterans-affairs",
-   "group_name": "Department of Veterans' Affairs",
+   "group_name": "Department of Veterans’ Affairs",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -2461,7 +2461,7 @@
   },
   {
    "slug": "higher-education-coordinating-commission-office-of-student-access-and-completion",
-   "name": "Higher Education Coordinating Commission, Office of Student Access and Completion",
+   "name": "Office of Student Access and Completion",
    "rules": 100,
    "parent": "higher-education-coordinating-commission",
    "group": "higher-education-coordinating-commission",
@@ -2489,11 +2489,11 @@
   },
   {
    "slug": "land-conservation-and-development-department",
-   "name": "Land Conservation and Development Department",
+   "name": "Department of Land Conservation and Development",
    "rules": 467,
    "parent": null,
    "group": "land-conservation-and-development-department",
-   "group_name": "Land Conservation and Development Department",
+   "group_name": "Department of Land Conservation and Development",
    "governance": "executive_branch",
    "chapters": [
     "174",
@@ -2533,11 +2533,11 @@
   },
   {
    "slug": "landscape-architect-board",
-   "name": "Landscape Architect Board",
+   "name": "State Landscape Architect Board",
    "rules": 44,
    "parent": null,
    "group": "landscape-architect-board",
-   "group_name": "Landscape Architect Board",
+   "group_name": "State Landscape Architect Board",
    "governance": "semi_independent",
    "chapters": [
     "182",
@@ -2551,11 +2551,11 @@
   },
   {
    "slug": "landscape-contractors-board",
-   "name": "Landscape Contractors Board",
+   "name": "State Landscape Contractors Board",
    "rules": 215,
    "parent": null,
    "group": "landscape-contractors-board",
-   "group_name": "Landscape Contractors Board",
+   "group_name": "State Landscape Contractors Board",
    "governance": "semi_independent",
    "chapters": [
     "182",
@@ -2584,7 +2584,7 @@
   },
   {
    "slug": "mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists",
-   "name": "Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists",
+   "name": "Oregon Board of Licensed Professional Counselors and Therapists",
    "rules": 72,
    "parent": "mental-health-regulatory-agency",
    "group": "mental-health-regulatory-agency",
@@ -2602,7 +2602,7 @@
   },
   {
    "slug": "mental-health-regulatory-agency-oregon-board-of-psychology",
-   "name": "Mental Health Regulatory Agency, Oregon Board of Psychology",
+   "name": "Oregon Board of Psychology",
    "rules": 50,
    "parent": "mental-health-regulatory-agency",
    "group": "mental-health-regulatory-agency",
@@ -2622,11 +2622,11 @@
   },
   {
    "slug": "mortuary-and-cemetery-board",
-   "name": "Mortuary and Cemetery Board",
+   "name": "State Mortuary and Cemetery Board",
    "rules": 43,
    "parent": null,
    "group": "mortuary-and-cemetery-board",
-   "group_name": "Mortuary and Cemetery Board",
+   "group_name": "State Mortuary and Cemetery Board",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -2836,11 +2836,11 @@
   },
   {
    "slug": "oregon-department-of-education",
-   "name": "Oregon Department of Education",
+   "name": "Department of Education",
    "rules": 743,
    "parent": null,
    "group": "oregon-department-of-education",
-   "group_name": "Oregon Department of Education",
+   "group_name": "Department of Education",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -2884,7 +2884,7 @@
    "rules": 536,
    "parent": "oregon-department-of-education",
    "group": "oregon-department-of-education",
-   "group_name": "Oregon Department of Education",
+   "group_name": "Department of Education",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -2905,11 +2905,11 @@
   },
   {
    "slug": "oregon-department-of-education-fair-dismissal-appeals-board",
-   "name": "Oregon Department of Education, Fair Dismissal Appeals Board",
+   "name": "Fair Dismissal Appeals Board",
    "rules": 4,
    "parent": "oregon-department-of-education",
    "group": "oregon-department-of-education",
-   "group_name": "Oregon Department of Education",
+   "group_name": "Department of Education",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -2918,11 +2918,11 @@
   },
   {
    "slug": "oregon-department-of-education-youth-development-division",
-   "name": "Oregon Department of Education, Youth Development Division",
+   "name": "Youth Development Division",
    "rules": 45,
    "parent": "oregon-department-of-education",
    "group": "oregon-department-of-education",
-   "group_name": "Oregon Department of Education",
+   "group_name": "Department of Education",
    "governance": "executive_branch",
    "chapters": [
     "169",
@@ -3040,7 +3040,7 @@
   },
   {
    "slug": "oregon-health-authority-health-licensing-office",
-   "name": "Oregon Health Authority, Health Licensing Office",
+   "name": "Health Licensing Office",
    "rules": 301,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
@@ -3068,7 +3068,7 @@
   },
   {
    "slug": "oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board",
-   "name": "Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board",
+   "name": "Behavior Analysis Regulatory Board",
    "rules": 12,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
@@ -3080,7 +3080,7 @@
   },
   {
    "slug": "oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians",
-   "name": "Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians",
+   "name": "Board of Certified Advanced Estheticians",
    "rules": 21,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
@@ -3092,7 +3092,7 @@
   },
   {
    "slug": "oregon-health-authority-health-licensing-office-board-of-cosmetology",
-   "name": "Oregon Health Authority, Health Licensing Office, Board of Cosmetology",
+   "name": "Board of Cosmetology",
    "rules": 71,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
@@ -3105,7 +3105,7 @@
   },
   {
    "slug": "oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery",
-   "name": "Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery",
+   "name": "State Board of Direct Entry Midwifery",
    "rules": 24,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
@@ -3118,7 +3118,7 @@
   },
   {
    "slug": "oregon-health-authority-health-licensing-office-board-of-licensed-dietitians",
-   "name": "Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians",
+   "name": "Board of Licensed Dietitians",
    "rules": 8,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
@@ -3131,7 +3131,7 @@
   },
   {
    "slug": "oregon-health-authority-health-licensing-office-environmental-health-registration-board",
-   "name": "Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board",
+   "name": "Environmental Health Registration Board",
    "rules": 14,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
@@ -3144,7 +3144,7 @@
   },
   {
    "slug": "oregon-health-authority-health-licensing-office-long-term-care-administrators-board",
-   "name": "Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board",
+   "name": "Long Term Care Administrators Board",
    "rules": 18,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
@@ -3157,7 +3157,7 @@
   },
   {
    "slug": "oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters",
-   "name": "Oregon Health Authority, Health Licensing Office, State Board of Sign Language Interpreters",
+   "name": "State Board of Sign Language Interpreters",
    "rules": 20,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
@@ -3169,7 +3169,7 @@
   },
   {
    "slug": "oregon-health-authority-health-policy-and-analytics",
-   "name": "Oregon Health Authority, Health Policy and Analytics",
+   "name": "Health Policy and Analytics Division",
    "rules": 161,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
@@ -3278,7 +3278,7 @@
   },
   {
    "slug": "oregon-health-authority-oregon-educators-benefit-board",
-   "name": "Oregon Health Authority, Oregon Educators Benefit Board",
+   "name": "Oregon Educators Benefit Board",
    "rules": 66,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
@@ -3295,7 +3295,7 @@
   },
   {
    "slug": "oregon-health-authority-oregon-prescription-drug-program",
-   "name": "Oregon Health Authority, Oregon Prescription Drug Program",
+   "name": "Oregon Prescription Drug Program",
    "rules": 7,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
@@ -3307,7 +3307,7 @@
   },
   {
    "slug": "oregon-health-authority-public-employees-benefit-board",
-   "name": "Oregon Health Authority, Public Employees' Benefit Board",
+   "name": "Public Employees’ Benefit Board",
    "rules": 69,
    "parent": "oregon-health-authority",
    "group": "oregon-health-authority",
@@ -3385,7 +3385,7 @@
    "rules": 31,
    "parent": "department-of-agriculture",
    "group": "department-of-agriculture",
-   "group_name": "Department of Agriculture",
+   "group_name": "State Department of Agriculture",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -3396,11 +3396,11 @@
   },
   {
    "slug": "oregon-housing-and-community-services-department",
-   "name": "Oregon Housing and Community Services Department",
+   "name": "Housing and Community Services Department",
    "rules": 683,
    "parent": null,
    "group": "oregon-housing-and-community-services-department",
-   "group_name": "Oregon Housing and Community Services Department",
+   "group_name": "Housing and Community Services Department",
    "governance": "executive_branch",
    "chapters": [
     "162",
@@ -3431,11 +3431,11 @@
   },
   {
    "slug": "oregon-liquor-control-commission",
-   "name": "Oregon Liquor Control Commission",
+   "name": "Oregon Liquor and Cannabis Commission",
    "rules": 448,
    "parent": null,
    "group": "oregon-liquor-control-commission",
-   "group_name": "Oregon Liquor Control Commission",
+   "group_name": "Oregon Liquor and Cannabis Commission",
    "governance": "executive_branch",
    "chapters": [
     "165",
@@ -3579,11 +3579,11 @@
   },
   {
    "slug": "oregon-state-marine-board",
-   "name": "Oregon State Marine Board",
+   "name": "State Marine Board",
    "rules": 208,
    "parent": null,
    "group": "oregon-state-marine-board",
-   "group_name": "Oregon State Marine Board",
+   "group_name": "State Marine Board",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -3668,7 +3668,7 @@
   },
   {
    "slug": "oregon-watershed-enhancement-board-environmental-restoration-council",
-   "name": "Oregon Watershed Enhancement Board, Environmental Restoration Council",
+   "name": "Environmental Restoration Council",
    "rules": 17,
    "parent": "oregon-watershed-enhancement-board",
    "group": "oregon-watershed-enhancement-board",
@@ -3714,11 +3714,11 @@
   },
   {
    "slug": "parks-and-recreation-department",
-   "name": "Parks and Recreation Department",
+   "name": "State Parks and Recreation Department",
    "rules": 469,
    "parent": null,
    "group": "parks-and-recreation-department",
-   "group_name": "Parks and Recreation Department",
+   "group_name": "State Parks and Recreation Department",
    "governance": "executive_branch",
    "chapters": [
     "105",
@@ -3785,11 +3785,11 @@
   },
   {
    "slug": "public-utility-commission",
-   "name": "Public Utility Commission",
+   "name": "Public Utility Commission of Oregon",
    "rules": 825,
    "parent": null,
    "group": "public-utility-commission",
-   "group_name": "Public Utility Commission",
+   "group_name": "Public Utility Commission of Oregon",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -3809,11 +3809,11 @@
   },
   {
    "slug": "public-utility-commission-oregon-board-of-maritime-pilots",
-   "name": "Public Utility Commission, Oregon Board of Maritime Pilots",
+   "name": "Oregon Board of Maritime Pilots",
    "rules": 52,
    "parent": "public-utility-commission",
    "group": "public-utility-commission",
-   "group_name": "Public Utility Commission",
+   "group_name": "Public Utility Commission of Oregon",
    "governance": "executive_branch",
    "chapters": [
     "183",
@@ -4015,11 +4015,11 @@
   },
   {
    "slug": "veterinary-medical-examining-board",
-   "name": "Veterinary Medical Examining Board",
+   "name": "Oregon State Veterinary Medical Examining Board",
    "rules": 33,
    "parent": null,
    "group": "veterinary-medical-examining-board",
-   "group_name": "Veterinary Medical Examining Board",
+   "group_name": "Oregon State Veterinary Medical Examining Board",
    "governance": "executive_branch",
    "chapters": [
     "183",
