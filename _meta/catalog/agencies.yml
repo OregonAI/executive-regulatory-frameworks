@@ -2082,10 +2082,15 @@ organizations:
   oar_chapter: '824'
   raw_index_name: Health Licensing Office:<br> Behavior Analysis Regulatory Board
   source_url: https://oregon.public.law/rules/oar_chapter_824
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 676.806
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 676.806
@@ -2097,10 +2102,15 @@ organizations:
   oar_chapter: '819'
   raw_index_name: Health Licensing Office:<br> Board of Certified Advanced Estheticians
   source_url: https://oregon.public.law/rules/oar_chapter_819
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 676.650
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 676.650
@@ -2112,10 +2122,15 @@ organizations:
   oar_chapter: '817'
   raw_index_name: Health Licensing Office:<br> Board of Cosmetology
   source_url: https://oregon.public.law/rules/oar_chapter_817
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 690.155
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 690.155
@@ -2127,10 +2142,15 @@ organizations:
   oar_chapter: '332'
   raw_index_name: Health Licensing Office:<br> Board of Direct Entry Midwifery
   source_url: https://oregon.public.law/rules/oar_chapter_332
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 687.470
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 687.470
@@ -2142,10 +2162,15 @@ organizations:
   oar_chapter: '834'
   raw_index_name: Health Licensing Office:<br> Board of Licensed Dietitians
   source_url: https://oregon.public.law/rules/oar_chapter_834
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 691.485
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 691.485
@@ -2157,10 +2182,15 @@ organizations:
   oar_chapter: '338'
   raw_index_name: Health Licensing Office:<br> Environmental Health Registration Board
   source_url: https://oregon.public.law/rules/oar_chapter_338
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 700.210
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 700.210
@@ -2172,10 +2202,15 @@ organizations:
   oar_chapter: '853'
   raw_index_name: Health Licensing Office:<br> Long Term Care Administrators Board
   source_url: https://oregon.public.law/rules/oar_chapter_853
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 678.800
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 678.800
@@ -2187,10 +2222,15 @@ organizations:
   oar_chapter: '816'
   raw_index_name: null
   source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=816-005-0000
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: registry
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 676.780
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 676.780
@@ -2880,8 +2920,13 @@ organizations:
   oar_chapter: '750'
   raw_index_name: null
   source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=750-001-0001
-  parent_chapter: null
-  relations: []
+  parent_chapter: '731'
+  relations:
+  - target: department-of-transportation
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 822.250
   absent_from_index_as_of: '2026-09-12'
   curator_note: 'New row: no registry row existed for this body, and its chapter is absent from oregon.public.law''s
     index (mirror gap). Name verbatim from OARD''s chapter dropdown (ruleSearch.action, ''750 - State

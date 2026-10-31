@@ -2033,6 +2033,30 @@ def preserve_relations(prev_orgs, by_slug, merged_keys=None):
             current[key] = kept
 
 
+def keep_parent_chapter_null_where_sources_disagree(orgs) -> int:
+    """Null the `parent_chapter` of every row whose relations place it under MORE THAN ONE
+    body. Mutates the rows; returns how many it changed.
+
+    THE SCRAPE WRITES ONE CHAPTER AND `parent-agrees` FORBIDS IT. `parent_chapter` is SCRAPED:
+    the refresh sets it from the index tree, which files a body under exactly one parent. A
+    body the index files under the Health Licensing Office's parent and a statute places
+    under the Office itself holds TWO relations after `preserve_relations()`, and one chapter
+    cannot state a disagreement (`parent-agrees`: whichever it held would publish one source's
+    reading as this registry's). Without this the rule is satisfied on the committed file and
+    broken by the very next real `--refresh`, which writes the index's chapter back — and
+    nothing would have said so until then.
+
+    Run AFTER the relations are merged, in the refresh and in its simulation, so the two
+    cannot disagree about it. It reads `parent_targets()`, the one place that question is
+    answered, and decides nothing about which of the sources is right."""
+    changed = 0
+    for o in orgs:
+        if len(parent_targets(o)) > 1 and o.get("parent_chapter") is not None:
+            o["parent_chapter"] = None
+            changed += 1
+    return changed
+
+
 def preserve_name(prev_orgs, by_slug, per_row_keys=None):
     """Carry across the `name` the refresh does not own, and its basis with it. Mutates the
     rebuilt rows.
@@ -2390,6 +2414,7 @@ def cmd_refresh():
         preserve_curated(prev_orgs, by_slug)
         preserve_relations(prev_orgs, by_slug)
         preserve_name(prev_orgs, by_slug)
+        keep_parent_chapter_null_where_sources_disagree(orgs)
 
     cat = {
         "note": REGISTRY_NOTE,
@@ -2829,6 +2854,7 @@ def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None, per_row_key
     preserve_curated(prev_orgs, by_slug, curated_keys)
     preserve_relations(prev_orgs, by_slug, merged_keys)
     preserve_name(prev_orgs, by_slug, per_row_keys)
+    keep_parent_chapter_null_where_sources_disagree(orgs)
     return {o["slug"]: o for o in orgs}
 
 
@@ -5004,6 +5030,30 @@ def _proof_the_merge_is_what_carries_a_curated_relation() -> int:
     return bad
 
 
+def _proof_a_refresh_cannot_write_one_chapter_onto_a_body_two_sources_place() -> int:
+    """The scrape sets `parent_chapter` from the index tree; a row a statute ALSO places holds
+    two relations and `parent-agrees` requires the chapter null. The helper both refresh and
+    its simulation run after merging must null exactly that row and leave a single-parent
+    row's chapter alone."""
+    bad = 0
+    two = {"slug": "a", "parent_chapter": "943", RELATION_KEY: [
+        {"target": "p", "source": OAR_INDEX, "kind": UNDETERMINED},
+        {"target": "q", "source": "statute", "kind": UNDETERMINED}]}
+    one = {"slug": "b", "parent_chapter": "943", RELATION_KEY: [
+        {"target": "p", "source": OAR_INDEX, "kind": UNDETERMINED}]}
+    same = {"slug": "c", "parent_chapter": "943", RELATION_KEY: [
+        {"target": "p", "source": OAR_INDEX, "kind": UNDETERMINED},
+        {"target": "p", "source": "statute", "kind": UNDETERMINED}]}
+    changed = keep_parent_chapter_null_where_sources_disagree([two, one, same])
+    if (changed, two["parent_chapter"], one["parent_chapter"], same["parent_chapter"]) != (
+            1, None, "943", "943"):
+        print(f"FAIL refresh-keeps-parent-chapter-null-where-sources-disagree: changed="
+              f"{changed} two={two['parent_chapter']!r} one={one['parent_chapter']!r} "
+              f"same={same['parent_chapter']!r}", file=sys.stderr)
+        bad += 1
+    return bad
+
+
 def _proof_the_carry_is_what_keeps_an_established_statutory_name() -> int:
     """An established statutory name survives a refresh, and survives it BECAUSE
     preserve_name() carries it — the carry watched working and watched failing, on one
@@ -5660,6 +5710,7 @@ def selftest() -> int:
     bad += _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry()
     bad += _proof_the_carry_is_what_keeps_an_established_statutory_name()
     bad += _proof_session_law_form_boundary()
+    bad += _proof_a_refresh_cannot_write_one_chapter_onto_a_body_two_sources_place()
     resolutions = 0
     for proof in (_proof_search_spans_every_name_a_body_is_known_by,
                   _proof_a_promoted_name_loses_no_resolution):

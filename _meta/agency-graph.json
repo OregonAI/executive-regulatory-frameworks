@@ -6,7 +6,7 @@
   "agencies": 175,
   "colored_groups": 15,
   "ors_chapters": 442,
-  "bodies_their_sources_disagree_about": 0
+  "bodies_their_sources_disagree_about": 8
  },
  "colored_groups": [
   {
@@ -17,7 +17,7 @@
   {
    "slug": "oregon-health-authority",
    "name": "Oregon Health Authority",
-   "members": 20
+   "members": 12
   },
   {
    "slug": "department-of-consumer-and-business-services",
@@ -27,7 +27,7 @@
   {
    "slug": "department-of-transportation",
    "name": "Department of Transportation",
-   "members": 7
+   "members": 8
   },
   {
    "slug": "department-of-human-services",
@@ -3070,9 +3070,13 @@
    "slug": "oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board",
    "name": "Behavior Analysis Regulatory Board",
    "rules": 12,
-   "parent": "oregon-health-authority",
-   "group": "oregon-health-authority",
-   "group_name": "Oregon Health Authority",
+   "parent": null,
+   "parents_disagree": [
+    "oregon-health-authority",
+    "oregon-health-authority-health-licensing-office"
+   ],
+   "group": "oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board",
+   "group_name": "Behavior Analysis Regulatory Board",
    "governance": "executive_branch",
    "chapters": [
     "676"
@@ -3082,9 +3086,13 @@
    "slug": "oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians",
    "name": "Board of Certified Advanced Estheticians",
    "rules": 21,
-   "parent": "oregon-health-authority",
-   "group": "oregon-health-authority",
-   "group_name": "Oregon Health Authority",
+   "parent": null,
+   "parents_disagree": [
+    "oregon-health-authority",
+    "oregon-health-authority-health-licensing-office"
+   ],
+   "group": "oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians",
+   "group_name": "Board of Certified Advanced Estheticians",
    "governance": "executive_branch",
    "chapters": [
     "676"
@@ -3094,9 +3102,13 @@
    "slug": "oregon-health-authority-health-licensing-office-board-of-cosmetology",
    "name": "Board of Cosmetology",
    "rules": 71,
-   "parent": "oregon-health-authority",
-   "group": "oregon-health-authority",
-   "group_name": "Oregon Health Authority",
+   "parent": null,
+   "parents_disagree": [
+    "oregon-health-authority",
+    "oregon-health-authority-health-licensing-office"
+   ],
+   "group": "oregon-health-authority-health-licensing-office-board-of-cosmetology",
+   "group_name": "Board of Cosmetology",
    "governance": "executive_branch",
    "chapters": [
     "676",
@@ -3107,9 +3119,13 @@
    "slug": "oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery",
    "name": "State Board of Direct Entry Midwifery",
    "rules": 24,
-   "parent": "oregon-health-authority",
-   "group": "oregon-health-authority",
-   "group_name": "Oregon Health Authority",
+   "parent": null,
+   "parents_disagree": [
+    "oregon-health-authority",
+    "oregon-health-authority-health-licensing-office"
+   ],
+   "group": "oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery",
+   "group_name": "State Board of Direct Entry Midwifery",
    "governance": "executive_branch",
    "chapters": [
     "676",
@@ -3120,9 +3136,13 @@
    "slug": "oregon-health-authority-health-licensing-office-board-of-licensed-dietitians",
    "name": "Board of Licensed Dietitians",
    "rules": 8,
-   "parent": "oregon-health-authority",
-   "group": "oregon-health-authority",
-   "group_name": "Oregon Health Authority",
+   "parent": null,
+   "parents_disagree": [
+    "oregon-health-authority",
+    "oregon-health-authority-health-licensing-office"
+   ],
+   "group": "oregon-health-authority-health-licensing-office-board-of-licensed-dietitians",
+   "group_name": "Board of Licensed Dietitians",
    "governance": "executive_branch",
    "chapters": [
     "676",
@@ -3133,9 +3153,13 @@
    "slug": "oregon-health-authority-health-licensing-office-environmental-health-registration-board",
    "name": "Environmental Health Registration Board",
    "rules": 14,
-   "parent": "oregon-health-authority",
-   "group": "oregon-health-authority",
-   "group_name": "Oregon Health Authority",
+   "parent": null,
+   "parents_disagree": [
+    "oregon-health-authority",
+    "oregon-health-authority-health-licensing-office"
+   ],
+   "group": "oregon-health-authority-health-licensing-office-environmental-health-registration-board",
+   "group_name": "Environmental Health Registration Board",
    "governance": "executive_branch",
    "chapters": [
     "676",
@@ -3146,9 +3170,13 @@
    "slug": "oregon-health-authority-health-licensing-office-long-term-care-administrators-board",
    "name": "Long Term Care Administrators Board",
    "rules": 18,
-   "parent": "oregon-health-authority",
-   "group": "oregon-health-authority",
-   "group_name": "Oregon Health Authority",
+   "parent": null,
+   "parents_disagree": [
+    "oregon-health-authority",
+    "oregon-health-authority-health-licensing-office"
+   ],
+   "group": "oregon-health-authority-health-licensing-office-long-term-care-administrators-board",
+   "group_name": "Long Term Care Administrators Board",
    "governance": "executive_branch",
    "chapters": [
     "676",
@@ -3159,9 +3187,13 @@
    "slug": "oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters",
    "name": "State Board of Sign Language Interpreters",
    "rules": 20,
-   "parent": "oregon-health-authority",
-   "group": "oregon-health-authority",
-   "group_name": "Oregon Health Authority",
+   "parent": null,
+   "parents_disagree": [
+    "oregon-health-authority",
+    "oregon-health-authority-health-licensing-office"
+   ],
+   "group": "oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters",
+   "group_name": "State Board of Sign Language Interpreters",
    "governance": "executive_branch",
    "chapters": [
     "676"
@@ -3969,9 +4001,9 @@
    "slug": "state-board-of-towing",
    "name": "State Board of Towing",
    "rules": 37,
-   "parent": null,
-   "group": "state-board-of-towing",
-   "group_name": "State Board of Towing",
+   "parent": "department-of-transportation",
+   "group": "department-of-transportation",
+   "group_name": "Department of Transportation",
    "governance": "executive_branch",
    "chapters": [
     "183",
