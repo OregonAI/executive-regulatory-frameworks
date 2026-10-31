@@ -250,9 +250,15 @@ sentences listed is superseded by this section.
 4. *A failed search is not an absence.* The quote-check reviews text that exists. "No mirrored
    section creates this body" is a finding about a search, and CONTEXT.md's overriding rule lets a
    search stand for an absence only when it was measured and is cited as one. A body for which no
-   creating section was found keeps no `enabling_authority` key (nobody has looked yet, which is
-   what the key's absence says) and is not recorded `none: `; `none: ` is for a unit whose parent's
-   section shows it is internal structure of that parent (ADR 0004's *part of*).
+   creating section was found keeps no `enabling_authority` key and is not recorded `none: `. The
+   key's absence says only that no authority is recorded: `LOOKED_AT` in
+   `src/link_enabling_authority.py` is where the registry says it looked and found no section it can
+   record, with the reason (17 bodies today), and `--check` there counts those apart from the bodies
+   nobody has looked at (none today), so a search that found nothing is not reported as no search.
+   `none: ` is for a unit whose parent's section shows it is internal structure of that parent (ADR
+   0004's *part of*). No gate can tell a `none: ` written after a failed search from one written after
+   a finding; an agent's `none: ` has to carry a quotation (`agent-review-has-a-quote`), and whether
+   that section shows the unit is internal structure is the reviewer's to read.
 5. *Who reviewed a row stays distinguishable, and a quotation does not change it.* A row's review
    is a human's or an agent's, and the tables in `src/link_enabling_authority.py` say which.
    `HUMAN_MAPPED`, `HUMAN_UNMAPPED` and `HUMAN_NAMES` hold what was reviewed before this

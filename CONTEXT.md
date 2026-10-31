@@ -167,10 +167,13 @@ matched word for word against the mirrored section, recorded beside the table in
 the field. THREE STATES, which may never be collapsed into two: a value in one of those
 three forms records an authority; `none: ` and a reason records that someone looked and
 there is none to record (ADR 0004's commonest case — a *part of* unit has nothing separate
-to enable); and an absent key means nobody has looked yet, whatever today's split between
-the three states is — that split moves as reviews land, so it is `authority_census()`'s
-live count, printed by `catalog_agencies.py --check` on every run, rather than a figure
-pinned in this glossary entry to go stale the next time it moves. A body recorded *part of*
+to enable); and an absent key means no authority is recorded — nobody has looked yet, or
+somebody looked and found no section the registry can record (`LOOKED_AT` in
+`src/link_enabling_authority.py` is the record of that search, and `--check` there counts the
+two apart). Whatever today's split between the states is, that split moves as reviews land,
+so it is `authority_census()`'s live count, printed by `catalog_agencies.py --check` on
+every run, rather than a figure pinned in this glossary entry to go stale the next time it
+moves. A body recorded *part of*
 another may never carry an authority in the first form: the two are opposite claims about
 one body, and `catalog_agencies.py --check` refuses
 a row asserting both. Absence is never the claim that a body has no enabling authority, and

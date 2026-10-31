@@ -107,10 +107,12 @@ about this corpus, and a reviewer has to be told which.
 
 THE THREE STATES, and the reason MAPPED and UNMAPPED are both explicit. A row carrying
 `ORS 576.062` has an authority; a row carrying `none: <reason>` was looked at and has none;
-a row carrying no `enabling_authority` key at all has not been looked at — however many rows
-that is today, which is `authority_census()`'s live count, printed by `catalog_agencies.py
---check` on every run rather than fixed here. Absence is never a claim that a body has no
-enabling authority.
+a row carrying no `enabling_authority` key at all has no authority recorded: nobody has looked,
+or somebody looked and found no section the registry can record (LOOKED_AT, below, is the
+record of that search, and `--check` here counts the two apart) — however many rows that is
+today, which is `authority_census()`'s live count, printed by `catalog_agencies.py --check`
+on every run rather than fixed here. Absence is never a claim that a body has no enabling
+authority.
 
 UNMAPPED IS EXPLICIT, never implied by absence — "we looked and there is no counterpart" and
 "nobody has looked yet" must not be the same state (CONTEXT.md; link_budget_codes.py).
@@ -163,6 +165,8 @@ CHECK_RULES = (
     "quote-in-the-cited-text", "statutory-name-in-a-quote", "statute-placement-has-a-quote",
     # who reviewed what stays distinguishable (ADR 0003's amendment, term 5)
     "agent-review-has-a-quote", "review-record-is-one-kind",
+    # a body looked at and not recorded is a state of its own (CONTEXT.md's three states)
+    "looked-at-is-unrecorded",
 )
 
 _LEDGER = RuleLedger(CHECK_RULES, __file__)
@@ -515,24 +519,12 @@ AGENT_MAPPED: dict[str, str] = {
     # Justice's "constitutes" it; the Columbia River Gorge Commission is created by the
     # interstate compact ORS 196.150 ratifies.
     #
-    # NOT RECORDED, AND WHY (a body no creating section was found for keeps no key at all):
-    #   the State Fire Marshal, Early Learning and Emergency Management -- ORS 476.020,
-    #   326.430 and 401.052 establish each as a standalone department, and recording that as
-    #   its authority would derive `administered_by` against the parent the statute ended
-    #   (CONTEXT.md, Undetermined; ADR 0004's amendment of this date);
-    #   the Oregon State Lottery (ORS 461.100 creates the Oregon State Lottery COMMISSION),
-    #   the Public Employees Retirement System (ORS 238.600 establishes the SYSTEM, not the
-    #   board that administers it), the Legislative Counsel Office (ORS 173.111 establishes the
-    #   Legislative Counsel COMMITTEE), the State Library (ORS 357.021 creates its BOARD),
-    #   the Department of Geology and Mineral Industries and the Department of Public Safety
-    #   Standards and Training (the sections found describe the governing board, not the
-    #   department), the South Slough reserve (ORS 273.554 creates its Management
-    #   Commission) and the Oregon State Treasury and Judicial Department (constitutional
-    #   offices no mirrored section names as a body);
-    #   and the Chief Education Office, the Economic Recovery Review Council, Office of
-    #   Training, Investigations and Safety, Drug Treatment and Recovery Services and
-    #   Vocational Rehabilitation Services, for which no mirrored section was found to
-    #   create the body. "No section found" is a finding about a search, not an absence.
+    #
+    # NOT RECORDED: the 17 bodies the same search found no section the registry can record
+    # (a standalone department the statute detached, a COMMISSION or BOARD where the row names the
+    # body, a section that only refers to it) are in LOOKED_AT below, each with the reason. They
+    # keep no `enabling_authority` key, and "no section found" is a finding about a search, not
+    # an absence.
 
     "board-of-examiners-for-engineering-and-land-surveying": "ORS 672.240",
     "board-of-geologist-examiners": "ORS 672.615",
@@ -774,6 +766,68 @@ HUMAN_UNMAPPED: dict[str, str] = {
 AGENT_UNMAPPED: dict[str, str] = {}
 
 UNMAPPED: dict[str, str] = {**HUMAN_UNMAPPED, **AGENT_UNMAPPED}
+
+# slug -> WHY NO AUTHORITY IS RECORDED FOR A BODY SOMEONE LOOKED AT. These 17 bodies carry no
+# `enabling_authority` key, as a body nobody has looked at does -- and they are not that: the
+# mirrored ORS was searched for the section that creates each, and what was found either creates
+# something else (the Lottery COMMISSION, the State Library BOARD, the Legislative Counsel
+# COMMITTEE), establishes the body as a standalone department while the OAR index still files
+# it under the parent the statute ended (recording that would derive `administered_by` against
+# an attachment that no longer exists: CONTEXT.md, Undetermined; ADR 0004's amendment), or
+# is not there. "No section found" is a finding about a search and not an absence, so these are
+# NOT `none: ` and they have no key; this table is where the registry says it looked, and
+# `--check` reports them as their own count and not as "not looked at yet". A row here whose
+# key appears, or which no registry row has, fails (`looked-at-is-unrecorded`). Nothing writes
+# this table to the registry: it is the record of a search, kept beside the tables it is not.
+LOOKED_AT: dict[str, str] = {
+    "department-of-state-police-office-of-state-fire-marshal":
+        "ORS 476.020 establishes the Department of the State Fire Marshal as a standalone "
+        "department while the OAR index still files the Office under the State Police; "
+        "recording it as the authority would derive administered_by against the attachment "
+        "the statute ended, and the registry has no kind for 'was part of, now separate'",
+    "oregon-department-of-education-early-learning-division":
+        "ORS 326.430 establishes the Department of Early Learning and Care as a standalone "
+        "department while the OAR index still files the Division under the Department of "
+        "Education; recording it would derive administered_by against the ended attachment",
+    "oregon-military-department-office-of-emergency-management":
+        "ORS 401.052 establishes the Oregon Department of Emergency Management as a "
+        "standalone department while the OAR index still files the Office under the Military "
+        "Department; recording it would derive administered_by against the ended attachment",
+    "oregon-state-lottery":
+        "ORS 461.100 creates the Oregon State Lottery COMMISSION; no section found creates "
+        "the Lottery the row names",
+    "oregon-public-employees-retirement-system":
+        "ORS 238.600 establishes the retirement system, not the board that administers it, "
+        "which is what the row names",
+    "legislative-counsel-office":
+        "ORS 173.111 establishes the Legislative Counsel COMMITTEE (its catchline says "
+        "'office of Legislative Counsel established', and the catchline is not part of the "
+        "law, ORS 174.540); no section found creates the Office. The row stays awaiting review",
+    "oregon-state-library":
+        "ORS 357.021 creates the State Library BOARD; no section found creates the Library",
+    "department-of-state-lands-south-slough-national-estuarine-research-reserve":
+        "ORS 273.554 creates the reserve's Management Commission; the row is the reserve",
+    "department-of-geology-and-mineral-industries":
+        "ORS 516.010 refers to the department 'established pursuant to ORS 516.020', which "
+        "the mirror does not hold, and ORS 516.080 describes a governing board without a name",
+    "department-of-public-safety-standards-and-training":
+        "the sections found (ORS 181A.355, 181A.360, 181A.365) concern the Board on Public "
+        "Safety Standards and Training, not the department",
+    "judicial-department":
+        "ORS 1.002 describes the department; no mirrored section creates it by name",
+    "oregon-state-treasury":
+        "no mirrored section creates the Oregon State Treasury or the Office of the State "
+        "Treasurer",
+    "chief-education-office": "no mirrored ORS section mentions the Chief Education Office",
+    "economic-recovery-review-council":
+        "ORS 197.723 refers to the council; no creating section found",
+    "office-of-training-investigations-and-safety": "no creating section found",
+    "oregon-health-authority-drug-treatment-and-recovery-services":
+        "ORS 430.384, the section the matcher found, is a fund; no creating section found",
+    "department-of-human-services-vocational-rehabilitation-services":
+        "no creating section found (ORS 346.180, which the matcher proposed, is the "
+        "Commission for the Blind's program)",
+}
 
 # ------------------------------------------------------- reviewed statutory names (#168)
 #
@@ -2931,6 +2985,30 @@ def audit_review_tables(pairs) -> list[Failure]:
     return problems
 
 
+def audit_looked_at(orgs, mapped, unmapped, looked_at) -> list[Failure]:
+    """LOOKED_AT, against the registry and the tables: each slug is a registry row, has a
+    reason, is in neither MAPPED nor UNMAPPED, and carries no `enabling_authority` key -- a body
+    looked at and not recorded is a state of its own, and a row that appears in two of the three
+    states is not in any."""
+    by_slug = {o["slug"]: o for o in orgs if isinstance(o, dict) and o.get("slug")}
+    problems = []
+    for slug, reason in sorted(looked_at.items()):
+        if slug not in by_slug:
+            problems.append(Failure("looked-at-is-unrecorded", slug,
+                                    "named in LOOKED_AT but not in the registry"))
+        elif not isinstance(reason, str) or len(reason.split()) < 4:
+            problems.append(Failure(
+                "looked-at-is-unrecorded", slug,
+                "is in LOOKED_AT with no reason — 'we looked and recorded nothing' is a "
+                "finding, and a finding states what was found"))
+        elif slug in mapped or slug in unmapped or "enabling_authority" in by_slug[slug]:
+            problems.append(Failure(
+                "looked-at-is-unrecorded", slug,
+                "is in LOOKED_AT (looked at, nothing recorded) and also has an authority or "
+                "a reviewed absence recorded — a body is in one of the three states"))
+    return problems
+
+
 def _review_table_pairs():
     return {"MAPPED": (HUMAN_MAPPED, AGENT_MAPPED), "UNMAPPED": (HUMAN_UNMAPPED, AGENT_UNMAPPED),
             "STATUTORY_NAMES": (HUMAN_NAMES, AGENT_NAMES)}
@@ -3056,7 +3134,8 @@ def cmd_apply() -> int:
                 + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, text_lookups)
                 + audit_quote_checks(orgs, MAPPED, UNMAPPED, STATUTORY_NAMES, QUOTE_CHECKS,
                                      quote_document_lookups(), BY_HUMAN)
-                + audit_review_tables(_review_table_pairs()))
+                + audit_review_tables(_review_table_pairs())
+                + audit_looked_at(orgs, MAPPED, UNMAPPED, LOOKED_AT))
     if problems:
         print("refusing to write: the reviewed tables do not match the corpus",
               file=sys.stderr)
@@ -3093,6 +3172,7 @@ def check() -> int:
                 + audit_quote_checks(orgs, MAPPED, UNMAPPED, STATUTORY_NAMES, QUOTE_CHECKS,
                                      quote_document_lookups(), BY_HUMAN)
                 + audit_review_tables(_review_table_pairs())
+                + audit_looked_at(orgs, MAPPED, UNMAPPED, LOOKED_AT)
                 + audit_registry(orgs, MAPPED, UNMAPPED))
     if problems:
         print("the reviewed tables do not match the corpus:", file=sys.stderr)
@@ -3162,6 +3242,13 @@ def check() -> int:
           f"{len(quoted)} body(ies), each matched word for word inside its section's "
           f"`## Full text` on this run; {placements} statute placement(s), each with a "
           "quotation that names its parent")
+    # THE BODIES WITH NO KEY, TOLD APART (CONTEXT.md's three states). catalog_agencies.py counts
+    # a missing `enabling_authority` key and cannot see this table; saying every one of them is
+    # "not looked at yet" reported a search that found nothing as no search.
+    keyless = sum(1 for o in orgs if "enabling_authority" not in o)
+    print(f"  no authority recorded: {keyless} of {len(orgs)} bodies carry no key — "
+          f"{len(LOOKED_AT)} looked at and not recorded (LOOKED_AT says why), "
+          f"{keyless - len(LOOKED_AT)} not looked at yet")
     return 0
 
 
@@ -3330,6 +3417,9 @@ def _fixture():
             # (each carries its quotation); the executive-order office and the session-law
             # one are a human's, and the executive-order office's name is too -- a human's name
             # with NO quotation, which has to pass.
+            # A BODY LOOKED AT AND NOT RECORDED, in the state every such row is in: no key.
+            "looked_at": {"board-nobody-has-reviewed":
+                          "The mirrored ORS was searched and no section found creates it."},
             "human": ByHuman(authorities=frozenset({"office-of-imagined-orders",
                                                     "legislative-imaginary-office"}),
                              absences=frozenset(unmapped),
@@ -3380,6 +3470,7 @@ def _audit(f) -> list[Failure]:
             + audit_quote_checks(f["orgs"], f["mapped"], f["unmapped"], f["names"],
                                  f["quotes"], f["documents"], f["human"])
             + audit_review_tables(f["tables"])
+            + audit_looked_at(f["orgs"], f["mapped"], f["unmapped"], f["looked_at"])
             + audit_registry(f["orgs"], f["mapped"], f["unmapped"], f["names"]))
 
 
@@ -3745,6 +3836,23 @@ def _case_row_in_the_human_and_the_agent_table(f):
     f["tables"]["MAPPED"][1]["office-of-imagined-orders"] = "Executive Order 99-99"
 
 
+def _case_looked_at_a_body_the_registry_does_not_carry(f):
+    """A search recorded for a body with no row: a finding about nothing."""
+    f["looked_at"]["board-of-nowhere-in-particular"] = (
+        "The mirrored ORS was searched and no section found creates it.")
+
+
+def _case_looked_at_with_no_reason(f):
+    """'We looked and recorded nothing' with no finding behind it."""
+    f["looked_at"]["board-nobody-has-reviewed"] = "none"
+
+
+def _case_looked_at_and_recorded(f):
+    """A body listed as looked at and not recorded that ALSO has an authority recorded: it is
+    in two of the three states, so it is in neither."""
+    _set(f, "board-nobody-has-reviewed", "ORS 999.999")
+
+
 def _case_slug_that_is_not_in_the_registry(f):
     """A reviewed row for a body this registry does not carry. The review is real and the
     body it names is unreachable, so the authority is recorded nowhere a reader can find."""
@@ -3858,6 +3966,10 @@ _CASES = [
      "quote-in-the-cited-text"),
     ("statutory-name-no-quotation-prints", _case_statutory_name_no_quotation_prints,
      "statutory-name-in-a-quote"),
+    ("looked-at-a-body-the-registry-does-not-carry", _case_looked_at_a_body_the_registry_does_not_carry,
+     "looked-at-is-unrecorded"),
+    ("looked-at-with-no-reason", _case_looked_at_with_no_reason, "looked-at-is-unrecorded"),
+    ("looked-at-and-recorded", _case_looked_at_and_recorded, "looked-at-is-unrecorded"),
     ("agent-authority-with-no-quotation", _case_agent_authority_with_no_quotation,
      "agent-review-has-a-quote"),
     ("agent-name-with-no-quotation", _case_agent_name_with_no_quotation,

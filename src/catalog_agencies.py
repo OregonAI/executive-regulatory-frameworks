@@ -606,9 +606,11 @@ REGISTRY_NOTE = (
     "(src/link_enabling_authority.py) by a human or by an agent, each "
     "recorded where the name_basis sentence above says (ADR "
     "0003's amendment), is NOT scraped, and is preserved "
-    "across --refresh. An ABSENT enabling_authority means nobody has reviewed "
-    "this body yet; it never means the body has no enabling authority, which "
-    "is what the `none: ` form says and says with a reason. "
+    "across --refresh. An ABSENT enabling_authority means no authority is "
+    "recorded: nobody has looked at this body yet, or somebody looked and "
+    "found no section the registry can record (src/link_enabling_authority.py's "
+    "LOOKED_AT says which, and why); it never means the body has no enabling "
+    "authority, which is what the `none: ` form says and says with a reason. "
     "oar_chapter is the OAR chapter this body's rules are filed under, "
     "scraped from the index tree; null on the chapterless rows is not a "
     "gap — a body is in this registry because it EXISTS, not because it "
@@ -1230,12 +1232,15 @@ AUTHORITY_FORMS = (
 # than as a null, because a null and an absent key are read alike by every consumer, and the
 # claims are opposite:
 #
-#   key absent                       nobody has looked yet
+#   key absent                       no authority is recorded: nobody has looked yet, OR
+#                                    someone looked and found no section the registry can
+#                                    record (link_enabling_authority.py's LOOKED_AT says
+#                                    which, and why)
 #   `ORS 576.062` / `Or. Const. …`   an authority is recorded
 #   `none: <reason>`                 someone looked, and this is what they found
 #
-# So a falsy value means exactly one thing here — nobody has looked — and every other state
-# is a non-empty string that says which it is. A bare null is refused by
+# So a falsy value means exactly one thing here — no authority is recorded — and every other
+# state is a non-empty string that says which it is. A bare null is refused by
 # `enabling-authority-form`, because it is an assertion of absence with nobody behind it.
 NO_AUTHORITY = "none: "
 
@@ -1396,7 +1401,9 @@ def evidence_census(orgs) -> str:
 
 def authority_counts(orgs) -> dict:
     """The measurement `authority_census` formats -- the three states of `enabling_authority`,
-    counted over registry ROWS (#306). ONE MEASUREMENT, TWO READERS: this dict is what
+    counted over registry ROWS (#306). The third, a missing key, is counted here as what the
+    FILE shows; which of those bodies were searched for and which were not is
+    link_enabling_authority.py's LOOKED_AT, which this module cannot import. ONE MEASUREMENT, TWO READERS: this dict is what
     `authority_census`'s sentence below reads, and it is what `stated_census.py` resolves a
     `census:agencies.authority_*` tag against, so the printed prose and the gated figure can
     never read two different counts of the same file.
@@ -1409,7 +1416,7 @@ def authority_counts(orgs) -> dict:
               if isinstance(o, dict) and "enabling_authority" in o]
     none_recorded = sum(1 for v in values if classify_authority(v)[0] == "reviewed-none")
     return {"recorded": len(values) - none_recorded, "reviewed_none": none_recorded,
-            "not_looked_at": len(orgs) - len(values), "total": len(orgs)}
+            "no_key": len(orgs) - len(values), "total": len(orgs)}
 
 
 def authority_census(orgs) -> str:
@@ -1427,7 +1434,9 @@ def authority_census(orgs) -> str:
     """
     c = authority_counts(orgs)
     return (f"{c['recorded']} recorded, {c['reviewed_none']} reviewed with none to "
-            f"record, {c['not_looked_at']} of {c['total']} bodies not looked at yet")
+            f"record, {c['no_key']} of {c['total']} bodies with no enabling_authority key "
+            "(looked at and not recorded, or not looked at yet: "
+            "link_enabling_authority.py --check tells the two apart)")
 
 
 def tally(counts, allowed) -> str:
@@ -3324,7 +3333,7 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None,
             form = classify_authority(o.get("enabling_authority"))[0]
             if form is None or form == "reviewed-none":
                 held = ("no enabling_authority at all, which is how this registry says "
-                        "nobody has looked at this body yet"
+                        "no authority is recorded for this body"
                         if "enabling_authority" not in o
                         else f"enabling_authority {o['enabling_authority']!r}")
                 failures.append(Failure(
