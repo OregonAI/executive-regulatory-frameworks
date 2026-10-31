@@ -197,3 +197,111 @@ commissions created under ORS 576.051 to 576.455, so the enumerated-list evidenc
 21 rest on does not reach it and it needed its own citation. The sentence above is left
 exactly as it stood when drafted, per this ADR's own convention two paragraphs up; this note
 is the pointer forward, not a correction of it.
+
+## Amendment (2026-10-30): an agent's quote-check counts as the review
+
+This ADR makes `name` the statutory name — "the one its enabling authority gives it" — and
+everything built on it says a human read that authority: the registry `note` ("`enabling-authority`
+means a human read the body's enabling authority and recorded what it calls the body"),
+CONTEXT.md's *Statutory name*, *Name basis* and *Enabling authority* entries, AGENTS.md's registry
+section, and the "READ BY A HUMAN" headers over the reviewed tables in
+`src/link_enabling_authority.py`. Nothing in the argument above turns on the reader being a human.
+What it turns on is the sentence that retired `manual: true`: "an assertion records that someone
+decided, never what decided it" — a claim about Oregon law has to be traceable to the text that
+makes it true. The operator decided on 2026-10-30 that an agent's verified quotation of the
+statute text is that traceability, and counts as the review the labels `name_basis:
+enabling-authority`, `enabling_authority`, a reviewed absence and a `source: statute` placement
+require. The text above stands unedited, per this ADR's own convention; the "a human read" in the
+sentences listed is superseded by this section.
+
+**The terms, and what enforces each.**
+
+1. *The quotation comes from this corpus's own mirror.* It is taken from `statutes/` (or, for the
+   other two forms of authority, `constitution/` and `executive-orders/`) — never from memory,
+   another website, or anything outside the repository — and recorded with the section id in
+   `QUOTE_CHECKS` (`src/link_enabling_authority.py`). Where it came from is enforced by term 2: a
+   quotation the mirror does not hold fails, whoever says they took it from there. An acronym alias records the id of the
+   corpus document that pairs it with the body's name in `ALIAS_EVIDENCE`
+   (`src/link_budget_codes.py`).
+2. *It is matched word for word, on every run, inside the section's own `## Full text`.*
+   Whitespace is the only thing normalised. When the mirrored text changes, the record fails
+   (`quote-in-the-cited-text`, and the alias check) rather than going on describing text that is
+   gone. A human's reading cannot be re-performed by a machine on every run; this one can, which is
+   the one respect in which it is stronger. One matcher does it for both tables
+   (`repo_lib.quote_in_full_text`), and it looks nowhere else: not the mirror's banner, its
+   generated heading and `At a glance` line, its provenance block or its frontmatter, none of which
+   the section says. A constitutional quotation is held to the file of the one section it cites,
+   not to its article, and a document with no `## Full text` has nothing to match against, which
+   is "could not check" and never a match.
+3. *The quotation has to show the claim it is attached to.* A name is promoted only when a
+   quotation prints it (`statutory-name-in-a-quote`); an authority is recorded only when a
+   quotation shows the section creating or constituting the body, not one that merely mentions it
+   (a definition, a duty, a fund); a placement is recorded `source: statute` only with the
+   sentence that states it, which has to name the relation's target as the body it sits under
+   (`statute-placement-has-a-quote`; a quotation that names some other body, or the child alone,
+   fails it). **No gate reads meaning**, and this is the term where that matters: the gates match
+   text and check that the sentence is there, names the body and, for a placement, names the
+   parent; whether a sentence SHOWS the claim (creates or constitutes the body, rather than
+   mentions it) is what the agent who chose it answers for and a reviewer re-reads.
+   Where a section constitutes a body without a creation verb ("shall operate as a
+   semi-independent state agency", "consists of nine members appointed by the Governor"),
+   `link_enabling_authority.py`'s tier-3 question stands — constitutes, or describes one
+   constituted elsewhere — and the quotation is the evidence for answering it.
+4. *A failed search is not an absence.* The quote-check reviews text that exists. "No mirrored
+   section creates this body" is a finding about a search, and CONTEXT.md's overriding rule lets a
+   search stand for an absence only when it was measured and is cited as one. A body for which no
+   creating section was found keeps no `enabling_authority` key and is not recorded `none: `. The
+   key's absence says only that no authority is recorded: `LOOKED_AT` in
+   `src/link_enabling_authority.py` is where the registry says it looked and found no section it can
+   record, with the reason (17 bodies today), and `--check` there counts those apart from the bodies
+   nobody has looked at (none today), so a search that found nothing is not reported as no search.
+   `none: ` is for a unit whose parent's section shows it is internal structure of that parent (ADR
+   0004's *part of*). No gate can tell a `none: ` written after a failed search from one written after
+   a finding; an agent's `none: ` has to carry a quotation (`agent-review-has-a-quote`), and whether
+   that section shows the unit is internal structure is the reviewer's to read.
+5. *Who reviewed a row stays distinguishable, and a quotation does not change it.* A row's review
+   is a human's or an agent's, and the tables in `src/link_enabling_authority.py` say which.
+   `HUMAN_MAPPED`, `HUMAN_UNMAPPED` and `HUMAN_NAMES` hold what was reviewed before this
+   amendment; their record is the tables' own comments and, for a `none: ` reason, the field's own
+   text ("reviewed 2026-09-12 by @morficflux"). `AGENT_MAPPED`, `AGENT_UNMAPPED` and `AGENT_NAMES`
+   hold what an agent has reviewed since, and the agent's record is `QUOTE_CHECKS`. The gate
+   makes the second kind impossible to write without its record: a row in an agent table, or in
+   neither table, that no quotation cited to its own section backs fails
+   (`agent-review-has-a-quote`, `statutory-name-in-a-quote`), so a promotion cannot be added with
+   no record and then read, by the absence of a quotation, as a human's. A slug in both tables of
+   one fact fails too (`review-record-is-one-kind`). A quotation on a row a human reviewed is
+   additional evidence and is never counted as that row's review: 111 of the 125 human-reviewed
+   authorities carry one, because an agent promoted their names from the same section, and
+   `--check` prints "56 agent quote-checked, 125 human-reviewed" and not the sum. Six of the 125
+   (the rows added with PR #452) were read by the agent that added them and have not yet been
+   confirmed by the maintainer, as their own comment in the table says; they predate this
+   decision and carry no quotation for their authority, so they sit in the human table with that
+   caveat; they are the six rows under the PR #452 comment in `HUMAN_MAPPED`.
+6. *An acronym is an alias only when the corpus pairs it with the name, and with no other body.*
+   One rule, applied the same way to every acronym: no corpus document may pair it with a body
+   other than the one the alias names, in the registry or not. ODA (Agriculture and Aviation), DOE
+   (Energy and Education), OSAC (the Office of Student Access and Completion and the State
+   Athletic Commission), ORC (the Racing Commission and the OYA Research Committee), OST (the
+   State Treasurer and the Ocean Science Trust), DOJ (the Department of Justice and the United
+   States'), and DHS (Human Services and Homeland Security) are recorded for no body:
+   `SHARED_ACRONYMS` (`src/link_budget_codes.py`) holds, for each, two documents that pair it with
+   two bodies, `audit_shared_acronyms` re-matches both sentences on every run and fails an alias
+   that is one of them, and `link_budget_codes.py --collisions` rescans the corpus for the rest
+   (it reads about 44,000 documents and decides nothing: a pairing with a role, a code or a date is
+   not another body). "Acronym" is any single token with two or more capitals, so a dotted or
+   hyphenated one needs its quotation too. An alias is an assertion of identity, and one the
+   corpus itself uses for two bodies would make a search for it depend on which row a reader
+   reached first.
+7. *A promoted name keeps the title it replaced findable.* `name` was the OAR chapter title until
+   the statutory name replaced it; the title is another name the body is known by, and the row's
+   own `oar_name` still records it. It is kept as an alias, written by
+   `link_budget_codes.py` from `oar_name` (73 rows in this change, and the 3 a human promoted
+   earlier), so a consumer that joins on `name` and `aliases` and reads no `oar_name` keeps
+   resolving what the rules index and the budget dataset print, the straight-apostrophe titles of
+   the four names that now carry the typographic one included. The registry's `aliases` are
+   compared against that table in both directions, and an alias equal to the row's own name is
+   refused.
+
+**What this changes in the Consequences above.** "Adding a body now requires stating what ADMITTING
+evidence puts it there" is unchanged and now has a checkable form for a body with no OAR chapter:
+the quotation from the section that creates it. Nothing here reopens what disqualifies a body.

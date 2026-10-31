@@ -399,6 +399,34 @@ VERBATIM_RE = re.compile(r"\*\*\[VERBATIM\]\*\*\s*\"(.*?)\"", re.DOTALL)
 FULLTEXT_RE = re.compile(r"^## Full text\s*$(.*?)(?=^## |\Z)", re.MULTILINE | re.DOTALL)
 
 
+# ONE WORD-FOR-WORD QUOTE MATCHER, for every record in this repository that says "this document
+# says this": link_enabling_authority.py's QUOTE_CHECKS (a section of the ORS mirror, or of the
+# Constitution mirror) and link_budget_codes.py's ALIAS_EVIDENCE (any corpus document). Two
+# matchers had grown, with different minimums and different readers, and the second read a
+# document's WHOLE file when it had no `## Full text` -- so a "quotation" of the mirror's own
+# boilerplate (the non-authoritative banner, the generated heading, the `At a glance` line, the
+# provenance block, the frontmatter) matched as if the section had said it. It matches ONLY
+# inside the document's own `## Full text`, whitespace collapsed and nothing else (case,
+# punctuation and the typographic apostrophe all have to match), and a document with no
+# `## Full text` has nothing to match against: that is None, "could not check", which is never
+# reported as "does not say it" (CONTEXT.md).
+#
+# `documents` is one document's markdown, or a list of them when a citation names several
+# files (an executive order and its companion letter); it matches if any one of them says it.
+MIN_QUOTE_WORDS = 4
+
+
+def quote_in_full_text(documents, quote):
+    """True or False: whether `quote` appears word for word in the `## Full text` of
+    `documents`. None when no document has a `## Full text` section to look in."""
+    docs = [documents] if isinstance(documents, str) else list(documents or [])
+    texts = [t for t in (extract_fulltext(d) for d in docs) if t is not None]
+    if not texts:
+        return None
+    needle = ws_only(str(quote))
+    return any(needle in ws_only(t) for t in texts)
+
+
 ITCS_FAMILY_CODES = ["AC", "AT", "AU", "CA", "CM", "CP", "IA", "IR", "MA", "MP",
                      "PE", "PL", "PS", "RA", "SA", "SC", "SI", "SR"]
 _ITCS_HEAD = re.compile(r"^\s*([A-Z ,&–()-]+?)\s*[–(-]\s*\(?([A-Z]{2})\)?\s*$")

@@ -2,33 +2,42 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   scheme as presented by oregon.public.law/rules (an unofficial but well-maintained mirror; official chapter
   assignment lives with the SoS Administrative Rules Unit). The names the scrape produces come from each
   chapter page''s own title; the index tree provides the parent/sub-unit hierarchy, recorded in `relations`
-  (ADR 0004) with parent_chapter beside it. Third registry source: a data.oregon.gov dataset and the SoS
-  Blue Book directory were both previously used and dropped after review (2026-07-18/19). validate_frontmatter.py
-  requires every content file''s agency: field to resolve to ''statewide'', ''external'', or a slug here.
-  THREE NAME FIELDS, WHICH ARE THREE DIFFERENT STRINGS. name is the STATUTORY name (ADR 0003) — the name
-  the body''s enabling authority gives it — and name_basis, on every row, says whether this row actually
-  holds one: enabling-authority means a human read the body''s enabling authority and recorded what it
-  calls the body, and unverified-oar-title means nobody has established a statutory name and name still
-  holds the OAR chapter title it was scraped with, unchanged (#168). The two are never the same state,
-  and --check reports both counts on every run: a row quietly keeping its OAR title under a field that
-  means `statutory name` is a false statement about Oregon law published under provenance. Which of the
-  two a row is decides what --refresh does to its name, so name is neither scraped nor curated: an established
-  name is carried across untouched, and an unverified one is rebuilt from the chapter page so an upstream
-  retitle reaches it. oar_name is the OAR name — the chapter page''s own title, which is the string OAR-derived
-  joins must match; it is scraped, so an upstream chapter retitle moves it. raw_index_name is a different
-  string: the index''s own abbreviated spelling. das_agency_number, where present, is the three-digit
-  number DAS assigns the body in the Oregon Accounting Manual (OAM 70.10.00) — it identifies the body
-  in the state''s financial administration and is not evidence that the body spends money, and it is what
-  the oregon-budget corpus joins on; it is hand-reviewed (src/link_budget_codes.py), is NOT scraped from
-  the source above, and is preserved across --refresh. Its absence on an entry means no counterpart was
-  found, not that none was sought. relations, on every row, is where each body''s placement under another
-  is recorded (ADR 0004): a target slug, the source whose evidence places it there, a kind, and — where
-  one has been established — the authority that makes it true. It REPLACED parent_slug, which this registry
-  no longer carries (#174): a bare parent slug could not say whose reading a placement was, which of ADR
-  0004''s two kinds it is, or on what authority. A kind other than undetermined also records the BASIS
-  it was derived from, which is a different fact from the source: the source says who places this body
-  under that one, the basis says what settled which of ADR 0004''s two kinds it is, and a relation the
-  OAR index discovered can have its kind decided by a statute. The two bases are not the same strength.
+  (ADR 0004) with parent_chapter beside it: the OAR chapter of that parent, scraped from the same tree,
+  so null for a body the index does not carry and for a body two sources place under two parents. Third
+  registry source: a data.oregon.gov dataset and the SoS Blue Book directory were both previously used
+  and dropped after review (2026-07-18/19). validate_frontmatter.py requires every content file''s agency:
+  field to resolve to ''statewide'', ''external'', or a slug here. THREE NAME FIELDS, WHICH ARE THREE
+  DIFFERENT STRINGS. name is the STATUTORY name (ADR 0003) — the name the body''s enabling authority gives
+  it — and name_basis, on every row, says whether this row actually holds one: enabling-authority means
+  the body''s enabling authority was read and what it calls the body recorded, either by a human or by
+  an agent, and the two are told apart by where the record lives (operator decision 2026-10-30, ADR 0003''s
+  amendment). A human''s record is in the field''s own text where the field has any (a `none: ` reason
+  says who reviewed it and when) and otherwise in the comments of the table in src/link_enabling_authority.py
+  that holds the row. An agent''s is a quote of the section, taken from this corpus''s own ORS mirror
+  or Constitution mirror and matched word for word against that section''s `## Full text` on every run,
+  recorded with the section id in that file''s QUOTE_CHECKS; a row an agent reviewed has no other record,
+  and a quote on a row a human reviewed is additional evidence, never its review. --check counts the two
+  kinds of review separately. The other basis, unverified-oar-title means nobody has established a statutory
+  name and name still holds the OAR chapter title it was scraped with, unchanged (#168). The two are never
+  the same state, and --check reports both counts on every run: a row quietly keeping its OAR title under
+  a field that means `statutory name` is a false statement about Oregon law published under provenance.
+  Which of the two a row is decides what --refresh does to its name, so name is neither scraped nor curated:
+  an established name is carried across untouched, and an unverified one is rebuilt from the chapter page
+  so an upstream retitle reaches it. oar_name is the OAR name — the chapter page''s own title, which is
+  the string OAR-derived joins must match; it is scraped, so an upstream chapter retitle moves it. raw_index_name
+  is a different string: the index''s own abbreviated spelling. das_agency_number, where present, is the
+  three-digit number DAS assigns the body in the Oregon Accounting Manual (OAM 70.10.00) — it identifies
+  the body in the state''s financial administration and is not evidence that the body spends money, and
+  it is what the oregon-budget corpus joins on; it is hand-reviewed (src/link_budget_codes.py), is NOT
+  scraped from the source above, and is preserved across --refresh. Its absence on an entry means no counterpart
+  was found, not that none was sought. relations, on every row, is where each body''s placement under
+  another is recorded (ADR 0004): a target slug, the source whose evidence places it there, a kind, and
+  — where one has been established — the authority that makes it true. It REPLACED parent_slug, which
+  this registry no longer carries (#174): a bare parent slug could not say whose reading a placement was,
+  which of ADR 0004''s two kinds it is, or on what authority. A kind other than undetermined also records
+  the BASIS it was derived from, which is a different fact from the source: the source says who places
+  this body under that one, the basis says what settled which of ADR 0004''s two kinds it is, and a relation
+  the OAR index discovered can have its kind decided by a statute. The two bases are not the same strength.
   proposed-enabling-authority means the kind was derived from a CANDIDATE in _meta/catalog/enabling-authority-review.yml
   that nobody has read — a proposal, not evidence — and the row upgrades to reviewed-enabling-authority
   when the review lands (ADR 0004 records this deviation and why it was taken). Only administered_by is
@@ -38,46 +47,74 @@ note: 'Canonical registry of Oregon agencies and their sub-units, keyed on the O
   are written by ONE thing, src/derive_relation_kinds.py, and carried across a --refresh per key: the
   scrape rebuilds the placement and the decision rides along. A body may hold more than one relation,
   because the OAR index, DAS and statute may place it under different parents and the disagreement is
-  kept rather than reconciled (ADR 0003). MIXED ORIGIN, which is why the field is neither scraped nor
-  curated: entries whose source is oar-index are REGENERATED by --refresh from the index tree, so an upstream
-  re-filing reaches this file, and every other entry is carried across untouched. A body''s placement
-  is sourced `registry`, and never `oar-index`, when it is one the index does not carry: `absent_from_index_as_of`
-  (#353) says so, dated, and no refresh can rebuild the entry for such a row because the scrape cannot
-  see it. An empty list means this registry places the body under no other. absent_from_index_as_of, where
-  present, is a DATED OBSERVATION -- not a derived fact -- that a real, successful --refresh did not find
-  this row in the live index as of that day; it carries the row whole across the refresh that recorded
-  it. It has exactly two writers, and both date it from a REAL recorded fetch, never from today''s date
-  read inline: --refresh (src/catalog_agencies.py''s record_absence_observations()) dates it the day of
-  the fetch that just ran, and src/link_budget_codes.py''s _absent_entry() stamps the SAME already-recorded
+  kept rather than reconciled (ADR 0003). A placement sourced `statute` is one a mirrored ORS section
+  states, and the quote that states it, which names the parent the relation targets, is recorded in src/link_enabling_authority.py''s
+  QUOTE_CHECKS. MIXED ORIGIN, which is why the field is neither scraped nor curated: entries whose source
+  is oar-index are REGENERATED by --refresh from the index tree, so an upstream re-filing reaches this
+  file, and every other entry is carried across untouched. A body''s placement is sourced `registry`,
+  and never `oar-index`, when it is one the index does not carry: `absent_from_index_as_of` (#353) says
+  so, dated, and no refresh can rebuild the entry for such a row because the scrape cannot see it. An
+  empty list means this registry places the body under no other. absent_from_index_as_of, where present,
+  is a DATED OBSERVATION -- not a derived fact -- that a real, successful --refresh did not find this
+  row in the live index as of that day; it carries the row whole across the refresh that recorded it.
+  It has exactly two writers, and both date it from a REAL recorded fetch, never from today''s date read
+  inline: --refresh (src/catalog_agencies.py''s record_absence_observations()) dates it the day of the
+  fetch that just ran, and src/link_budget_codes.py''s _absent_entry() stamps the SAME already-recorded
   observation''s own date onto a MANUAL_ENTRIES row it adds, refusing outright if no observation has ever
   been recorded. It stays null until one of those two has run, which CONTEXT.md''s overriding rule requires:
-  ''could not check'' is never reported as ''is not there''. It marks twenty-six rows today, including
-  fourteen (chapters 111, 180, 265, 404, 419, 648, 699, 750, 800, 816, 831, 925, 944, 950) that DO carry
-  an oar_chapter -- a mirror gap, not a chapterless body. `manual`, its predecessor, is retired (#169):
-  no row may carry it, whether or not this field does. enabling_authority, where present, is what created
-  the body — an ORS citation, a constitutional article, or an executive order (ADR 0003) — or `none: `
-  and the reason there is none. It is hand-reviewed (src/link_enabling_authority.py), is NOT scraped,
-  and is preserved across --refresh. An ABSENT enabling_authority means nobody has reviewed this body
-  yet; it never means the body has no enabling authority, which is what the `none: ` form says and says
-  with a reason. oar_chapter is the OAR chapter this body''s rules are filed under, scraped from the index
-  tree; null on the chapterless rows is not a gap — a body is in this registry because it EXISTS, not
-  because it issues rules. source_url is the chapter page each row was scraped from, where the scrape
-  found one: null on 11 of the 15 chapterless rows, not all of them — the other four hold a source_url
-  that is not a chapter page (three hold the mirror''s own rules index, https://oregon.public.law/rules,
+  ''could not check'' is never reported as ''is not there''. It marks 60 rows today, including 14 (chapters
+  111, 180, 265, 404, 419, 648, 699, 750, 800, 816, 831, 925, 944, 950) that DO carry an oar_chapter --
+  a mirror gap, not a chapterless body. `manual`, its predecessor, is retired (#169): no row may carry
+  it, whether or not this field does. enabling_authority, where present, is what created the body — an
+  ORS citation, a constitutional article, or an executive order (ADR 0003) — or `none: ` and the reason
+  there is none. It is reviewed (src/link_enabling_authority.py) by a human or by an agent, each recorded
+  where the name_basis sentence above says (ADR 0003''s amendment), is NOT scraped, and is preserved across
+  --refresh. An ABSENT enabling_authority means no authority is recorded: nobody has looked at this body
+  yet, or somebody looked and found no section the registry can record (src/link_enabling_authority.py''s
+  LOOKED_AT says which, and why); it never means the body has no enabling authority, which is what the
+  `none: ` form says and says with a reason. oar_chapter is the OAR chapter this body''s rules are filed
+  under, scraped from the index tree; null on the chapterless rows is not a gap — a body is in this registry
+  because it EXISTS, not because it issues rules. source_url is the chapter page each row was scraped
+  from, where the scrape found one: null on 45 of the 49 chapterless rows, not all of them — the other
+  four hold a source_url that is not a chapter page (three hold the mirror''s own rules index, https://oregon.public.law/rules,
   and the saif-corporation row holds its own site). aliases, where present, are other names the same body
-  is known by, including former names after a rename — hand-reviewed once, curated, and preserved across
-  --refresh. note is scrape-only (#178): cmd_refresh() writes one of exactly three sentences into it,
-  when a chapter page''s title will not parse, its fetch fails, or a chapterless group''s children disagree
-  on a name prefix, and nothing else may live there, `manual` or not. curator_note holds hand-typed prose
-  about a row instead, protected across --refresh the way das_agency_number is: a finding a hand edit
-  cannot safely fold into a gated field, such as why a row is absent from the index when it carries a
-  chapter the mirror''s own index omits, or a body''s identity change the current derivation contract
-  cannot yet state as a relation (#212). This paragraph is itself checked against FIELDS by name on every
-  --check run (`note-covers-fields`, #185): a field FIELDS declares that these sentences do not mention
-  fails the gate, so this note cannot go stale the way it did before anything watched it.'
+  is known by, including former names after a rename — reviewed once, curated, and preserved across --refresh.
+  The OAR title a promoted statutory name replaced is one: name was that title until the row''s name_basis
+  became enabling-authority, oar_name still records it, and it is kept as an alias (written by src/link_budget_codes.py
+  from the row''s own oar_name, so the evidence is the row itself and nothing is typed twice); an alias
+  equal to the row''s own name is refused. An acronym (any single token with two or more capitals, dotted
+  and hyphenated ones too) enters only with a quote from a corpus document that pairs it with the body''s
+  name, recorded with that document''s id in src/link_budget_codes.py''s ALIAS_EVIDENCE and matched word
+  for word inside that document''s `## Full text` on every run, and is not recorded at all when any corpus
+  document pairs it with another body (SHARED_ACRONYMS there). note is scrape-only (#178): cmd_refresh()
+  writes one of exactly three sentences into it, when a chapter page''s title will not parse, its fetch
+  fails, or a chapterless group''s children disagree on a name prefix, and nothing else may live there,
+  `manual` or not. curator_note holds hand-typed prose about a row instead, protected across --refresh
+  the way das_agency_number is: a finding a hand edit cannot safely fold into a gated field, such as why
+  a row is absent from the index when it carries a chapter the mirror''s own index omits, or a body''s
+  identity change the current derivation contract cannot yet state as a relation (#212). This paragraph
+  is itself checked against FIELDS by name on every --check run (`note-covers-fields`, #185): a field
+  FIELDS declares that these sentences do not mention fails the gate, so this note cannot go stale the
+  way it did before anything watched it.'
 source_url: https://oregon.public.law/rules
 retrieved: '2026-07-20'
 organizations:
+- slug: advisory-council-on-hearing-aids
+  name: Advisory Council on Hearing Aids
+  name_basis: enabling-authority
+  oar_name: Advisory Council on Hearing Aids
+  oar_chapter: null
+  raw_index_name: Advisory Council on Hearing Aids
+  source_url: null
+  parent_chapter: null
+  relations:
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 694.165
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 694.165
 - slug: appraiser-certification-and-licensure-board
   name: Appraiser Certification and Licensure Board
   name_basis: enabling-authority
@@ -88,6 +125,24 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 674.305
+  aliases:
+  - ACLB
+- slug: board-of-athletic-trainers
+  name: Board of Athletic Trainers
+  name_basis: enabling-authority
+  oar_name: Board of Athletic Trainers
+  oar_chapter: null
+  raw_index_name: Board of Athletic Trainers
+  source_url: null
+  parent_chapter: null
+  relations:
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 688.705
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 688.705
 - slug: board-of-chiropractic-examiners
   name: State Board of Chiropractic Examiners
   name_basis: enabling-authority
@@ -99,15 +154,36 @@ organizations:
   relations: []
   das_agency_number: '811'
   enabling_authority: ORS 684.130
+  aliases:
+  - Board of Chiropractic Examiners
+- slug: board-of-electrologists-and-body-art-practitioners
+  name: Board of Electrologists and Body Art Practitioners
+  name_basis: enabling-authority
+  oar_name: Board of Electrologists and Body Art Practitioners
+  oar_chapter: null
+  raw_index_name: Board of Electrologists and Body Art Practitioners
+  source_url: null
+  parent_chapter: null
+  relations:
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 690.401
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 690.401
 - slug: board-of-examiners-for-engineering-and-land-surveying
-  name: Board of Examiners for Engineering and Land Surveying
-  name_basis: unverified-oar-title
+  name: State Board of Examiners for Engineering and Land Surveying
+  name_basis: enabling-authority
   oar_name: Board of Examiners for Engineering and Land Surveying
   oar_chapter: '820'
   raw_index_name: Board of Exam'rs for Engineering & Land Surveying
   source_url: https://oregon.public.law/rules/oar_chapter_820
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 672.240
+  aliases:
+  - Board of Examiners for Engineering and Land Surveying
 - slug: board-of-examiners-for-speech-language-pathology-and-audiology
   name: State Board of Examiners for Speech-Language Pathology and Audiology
   name_basis: enabling-authority
@@ -118,15 +194,20 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 681.400
+  aliases:
+  - Board of Examiners for Speech-Language Pathology and Audiology
 - slug: board-of-geologist-examiners
-  name: Board of Geologist Examiners
-  name_basis: unverified-oar-title
+  name: State Board of Geologist Examiners
+  name_basis: enabling-authority
   oar_name: Board of Geologist Examiners
   oar_chapter: '809'
   raw_index_name: Board of Geologist Exam'rs
   source_url: https://oregon.public.law/rules/oar_chapter_809
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 672.615
+  aliases:
+  - Board of Geologist Examiners
 - slug: board-of-licensed-social-workers
   name: State Board of Licensed Social Workers
   name_basis: enabling-authority
@@ -138,18 +219,23 @@ organizations:
   relations: []
   das_agency_number: '124'
   enabling_authority: ORS 675.590
+  aliases:
+  - Board of Licensed Social Workers
 - slug: board-of-massage-therapists
-  name: Board of Massage Therapists
-  name_basis: unverified-oar-title
+  name: State Board of Massage Therapists
+  name_basis: enabling-authority
   oar_name: Board of Massage Therapists
   oar_chapter: '334'
   raw_index_name: Board of Massage Therapists
   source_url: https://oregon.public.law/rules/oar_chapter_334
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 687.115
+  aliases:
+  - Board of Massage Therapists
 - slug: board-of-medical-imaging
   name: Board of Medical Imaging
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Board of Medical Imaging
   oar_chapter: '337'
   raw_index_name: Board of Medical Imaging
@@ -157,9 +243,11 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 688.545
+  aliases:
+  - OBMI
 - slug: board-of-nursing
-  name: Board of Nursing
-  name_basis: unverified-oar-title
+  name: Oregon State Board of Nursing
+  name_basis: enabling-authority
   oar_name: Board of Nursing
   oar_chapter: '851'
   raw_index_name: Board of Nursing
@@ -168,18 +256,24 @@ organizations:
   relations: []
   das_agency_number: '851'
   enabling_authority: ORS 678.140
+  aliases:
+  - Board of Nursing
+  - OSBN
 - slug: board-of-optometry
-  name: Board of Optometry
-  name_basis: unverified-oar-title
+  name: Oregon Board of Optometry
+  name_basis: enabling-authority
   oar_name: Board of Optometry
   oar_chapter: '852'
   raw_index_name: Board of Optometry
   source_url: https://oregon.public.law/rules/oar_chapter_852
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 683.250
+  aliases:
+  - Board of Optometry
 - slug: board-of-parole-and-post-prison-supervision
-  name: Board of Parole and Post-Prison Supervision
-  name_basis: unverified-oar-title
+  name: State Board of Parole and Post-Prison Supervision
+  name_basis: enabling-authority
   oar_name: Board of Parole and Post-Prison Supervision
   oar_chapter: '255'
   raw_index_name: Board of Parole & Post-Prison Supervision
@@ -188,9 +282,12 @@ organizations:
   relations: []
   das_agency_number: '255'
   enabling_authority: ORS 144.005
+  aliases:
+  - BOPPPS
+  - Board of Parole and Post-Prison Supervision
 - slug: board-of-pharmacy
-  name: Board of Pharmacy
-  name_basis: unverified-oar-title
+  name: State Board of Pharmacy
+  name_basis: enabling-authority
   oar_name: Board of Pharmacy
   oar_chapter: '855'
   raw_index_name: Board of Pharmacy
@@ -198,9 +295,34 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '855'
+  enabling_authority: ORS 689.115
+  aliases:
+  - Board of Pharmacy
+- slug: board-of-trustees-of-southern-oregon-university
+  name: Board of Trustees of Southern Oregon University
+  name_basis: enabling-authority
+  oar_name: Board of Trustees of Southern Oregon University
+  oar_chapter: null
+  raw_index_name: Board of Trustees of Southern Oregon University
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 352.054
+- slug: board-on-public-safety-standards-and-training
+  name: Board on Public Safety Standards and Training
+  name_basis: enabling-authority
+  oar_name: Board on Public Safety Standards and Training
+  oar_chapter: null
+  raw_index_name: Board on Public Safety Standards and Training
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 181A.360
 - slug: bureau-of-labor-and-industries
   name: Bureau of Labor and Industries
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Bureau of Labor and Industries
   oar_chapter: '839'
   raw_index_name: Bureau of Labor & Industries
@@ -209,6 +331,8 @@ organizations:
   relations: []
   das_agency_number: '839'
   enabling_authority: ORS 651.020
+  aliases:
+  - BOLI
 - slug: chief-education-office
   name: Chief Education Office
   name_basis: unverified-oar-title
@@ -220,8 +344,8 @@ organizations:
   relations: []
   das_agency_number: '524'
 - slug: citizens-initiative-review-commission
-  name: Citizens' Initiative Review Commission
-  name_basis: unverified-oar-title
+  name: Citizens’ Initiative Review Commission
+  name_basis: enabling-authority
   oar_name: Citizens' Initiative Review Commission
   oar_chapter: '710'
   raw_index_name: Citizens' Initiative Review Comm'n
@@ -229,9 +353,11 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 250.137
+  aliases:
+  - Citizens' Initiative Review Commission
 - slug: columbia-river-gorge-commission
   name: Columbia River Gorge Commission
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Columbia River Gorge Commission
   oar_chapter: '350'
   raw_index_name: Columbia River Gorge Comm'n
@@ -239,9 +365,10 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '350'
+  enabling_authority: ORS 196.150
 - slug: commission-for-the-blind
   name: Commission for the Blind
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Commission for the Blind
   oar_chapter: '585'
   raw_index_name: Comm'n for the Blind
@@ -250,9 +377,55 @@ organizations:
   relations: []
   das_agency_number: '585'
   enabling_authority: ORS 346.120
+  aliases:
+  - OCB
+- slug: commission-for-women
+  name: Commission for Women
+  name_basis: enabling-authority
+  oar_name: Commission for Women
+  oar_chapter: null
+  raw_index_name: Commission for Women
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 185.510
+- slug: commission-on-asian-and-pacific-islander-affairs
+  name: Commission on Asian and Pacific Islander Affairs
+  name_basis: enabling-authority
+  oar_name: Commission on Asian and Pacific Islander Affairs
+  oar_chapter: null
+  raw_index_name: Commission on Asian and Pacific Islander Affairs
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 185.610
+- slug: commission-on-black-affairs
+  name: Commission on Black Affairs
+  name_basis: enabling-authority
+  oar_name: Commission on Black Affairs
+  oar_chapter: null
+  raw_index_name: Commission on Black Affairs
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 185.410
+- slug: commission-on-hispanic-affairs
+  name: Commission on Hispanic Affairs
+  name_basis: enabling-authority
+  oar_name: Commission on Hispanic Affairs
+  oar_chapter: null
+  raw_index_name: Commission on Hispanic Affairs
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 185.310
 - slug: commission-on-judicial-fitness-and-disability
   name: Commission on Judicial Fitness and Disability
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Commission on Judicial Fitness and Disability
   oar_chapter: null
   raw_index_name: Commission on Judicial Fitness and Disability
@@ -264,7 +437,7 @@ organizations:
   enabling_authority: ORS 1.410
 - slug: commission-on-statewide-law-enforcement-standards-of-conduct-and-discipline
   name: Commission on Statewide Law Enforcement Standards of Conduct and Discipline
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Commission on Statewide Law Enforcement Standards of Conduct and Discipline
   oar_chapter: '265'
   raw_index_name: null
@@ -281,7 +454,7 @@ organizations:
   enabling_authority: ORS 243.812
 - slug: construction-contractors-board
   name: Construction Contractors Board
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Construction Contractors Board
   oar_chapter: '812'
   raw_index_name: Construction Contractors Board
@@ -290,9 +463,22 @@ organizations:
   relations: []
   das_agency_number: '915'
   enabling_authority: ORS 701.205
+  aliases:
+  - CCB
+- slug: council-on-optometric-nontopical-formulary
+  name: Council on Optometric Nontopical Formulary
+  name_basis: enabling-authority
+  oar_name: Council on Optometric Nontopical Formulary
+  oar_chapter: null
+  raw_index_name: Council on Optometric Nontopical Formulary
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 683.240
 - slug: department-of-administrative-services
-  name: Department of Administrative Services
-  name_basis: unverified-oar-title
+  name: Oregon Department of Administrative Services
+  name_basis: enabling-authority
   oar_name: Department of Administrative Services
   oar_chapter: '125'
   raw_index_name: Dept. of Administrative Services
@@ -301,6 +487,9 @@ organizations:
   relations: []
   das_agency_number: '107'
   enabling_authority: ORS 184.305
+  aliases:
+  - DAS
+  - Department of Administrative Services
 - slug: department-of-administrative-services-chief-financial-office
   name: Department of Administrative Services, Chief Financial Office
   name_basis: unverified-oar-title
@@ -333,6 +522,8 @@ organizations:
   enabling_authority: 'none: Part of the Department of Administrative Services (ADR 0004): reviewed 2026-09-12
     by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
     record.'
+  aliases:
+  - CHRO
 - slug: department-of-administrative-services-office-of-the-state-chief-information-officer
   name: Department of Administrative Services, Office of the State Chief Information Officer
   name_basis: unverified-oar-title
@@ -349,9 +540,11 @@ organizations:
   enabling_authority: 'none: Part of the Department of Administrative Services (ADR 0004): reviewed 2026-09-12
     by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
     record.'
+  aliases:
+  - OSCIO
 - slug: department-of-agriculture
-  name: Department of Agriculture
-  name_basis: unverified-oar-title
+  name: State Department of Agriculture
+  name_basis: enabling-authority
   oar_name: Department of Agriculture
   oar_chapter: '603'
   raw_index_name: Dept. of Agriculture
@@ -360,9 +553,11 @@ organizations:
   relations: []
   das_agency_number: '603'
   enabling_authority: ORS 561.010
+  aliases:
+  - Department of Agriculture
 - slug: department-of-agriculture-oregon-albacore-commission
-  name: Department of Agriculture, Oregon Albacore Commission
-  name_basis: unverified-oar-title
+  name: Oregon Albacore Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Albacore Commission
   oar_chapter: '972'
   raw_index_name: Or. Albacore Comm'n
@@ -375,6 +570,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Albacore Commission
 - slug: department-of-agriculture-oregon-alfalfa-seed-commission
   name: Department of Agriculture, Oregon Alfalfa Seed Commission
   name_basis: unverified-oar-title
@@ -391,8 +588,8 @@ organizations:
   enabling_authority: 'none: Part of the Department of Agriculture (ADR 0004): reviewed 2026-09-12 by
     @morficflux, who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: department-of-agriculture-oregon-beef-council
-  name: Department of Agriculture, Oregon Beef Council
-  name_basis: unverified-oar-title
+  name: Oregon Beef Council
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Beef Council
   oar_chapter: '605'
   raw_index_name: Or. Beef Council
@@ -405,9 +602,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 577.210
   enabling_authority: ORS 577.210
+  aliases:
+  - Department of Agriculture, Oregon Beef Council
 - slug: department-of-agriculture-oregon-blueberry-commission
-  name: Department of Agriculture, Oregon Blueberry Commission
-  name_basis: unverified-oar-title
+  name: Oregon Blueberry Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Blueberry Commission
   oar_chapter: '670'
   raw_index_name: Or. Blueberry Comm'n
@@ -420,9 +619,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Blueberry Commission
 - slug: department-of-agriculture-oregon-clover-seed-commission
-  name: Department of Agriculture, Oregon Clover Seed Commission
-  name_basis: unverified-oar-title
+  name: Oregon Clover Seed Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Clover Seed Commission
   oar_chapter: '664'
   raw_index_name: Or. Clover Seed Comm'n
@@ -435,9 +636,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Clover Seed Commission
 - slug: department-of-agriculture-oregon-dairy-products-commission
-  name: Department of Agriculture, Oregon Dairy Products Commission
-  name_basis: unverified-oar-title
+  name: Oregon Dairy Products Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Dairy Products Commission
   oar_chapter: '617'
   raw_index_name: Or. Dairy Products Comm'n
@@ -450,9 +653,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Dairy Products Commission
 - slug: department-of-agriculture-oregon-dungeness-crab-commission
-  name: Department of Agriculture, Oregon Dungeness Crab Commission
-  name_basis: unverified-oar-title
+  name: Oregon Dungeness Crab Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Dungeness Crab Commission
   oar_chapter: '645'
   raw_index_name: Or. Dungeness Crab Comm'n
@@ -465,9 +670,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Dungeness Crab Commission
 - slug: department-of-agriculture-oregon-fine-fescue-commission
-  name: Department of Agriculture, Oregon Fine Fescue Commission
-  name_basis: unverified-oar-title
+  name: Oregon Fine Fescue Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Fine Fescue Commission
   oar_chapter: '604'
   raw_index_name: Or. Fine Fescue Comm'n
@@ -480,9 +687,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Fine Fescue Commission
 - slug: department-of-agriculture-oregon-hazelnut-commission
-  name: Department of Agriculture, Oregon Hazelnut Commission
-  name_basis: unverified-oar-title
+  name: Oregon Hazelnut Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Hazelnut Commission
   oar_chapter: '623'
   raw_index_name: Or. Hazelnut Comm'n
@@ -495,9 +704,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Hazelnut Commission
 - slug: department-of-agriculture-oregon-hop-commission
-  name: Department of Agriculture, Oregon Hop Commission
-  name_basis: unverified-oar-title
+  name: Oregon Hop Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Hop Commission
   oar_chapter: '643'
   raw_index_name: Or. Hop Comm'n
@@ -510,9 +721,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Hop Commission
 - slug: department-of-agriculture-oregon-invasive-species-council
-  name: Department of Agriculture, Oregon Invasive Species Council
-  name_basis: unverified-oar-title
+  name: Invasive Species Council
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Invasive Species Council
   oar_chapter: '609'
   raw_index_name: Or. Invasive Species Council
@@ -525,9 +738,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 570.770
   enabling_authority: ORS 570.770
+  aliases:
+  - Department of Agriculture, Oregon Invasive Species Council
 - slug: department-of-agriculture-oregon-mint-commission
-  name: Department of Agriculture, Oregon Mint Commission
-  name_basis: unverified-oar-title
+  name: Oregon Mint Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Mint Commission
   oar_chapter: '642'
   raw_index_name: Or. Mint Comm'n
@@ -540,9 +755,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Mint Commission
 - slug: department-of-agriculture-oregon-potato-commission
-  name: Department of Agriculture, Oregon Potato Commission
-  name_basis: unverified-oar-title
+  name: Oregon Potato Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Potato Commission
   oar_chapter: '658'
   raw_index_name: Or. Potato Comm'n
@@ -555,9 +772,12 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Potato Commission
+  - OPC
 - slug: department-of-agriculture-oregon-processed-vegetable-commission
-  name: Department of Agriculture, Oregon Processed Vegetable Commission
-  name_basis: unverified-oar-title
+  name: Oregon Processed Vegetable Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Processed Vegetable Commission
   oar_chapter: '647'
   raw_index_name: Or. Processed Vegetable Comm'n
@@ -570,9 +790,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Processed Vegetable Commission
 - slug: department-of-agriculture-oregon-raspberry-and-blackberry-commission
-  name: Department of Agriculture, Oregon Raspberry and Blackberry Commission
-  name_basis: unverified-oar-title
+  name: Oregon Raspberry and Blackberry Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Raspberry and Blackberry Commission
   oar_chapter: '611'
   raw_index_name: Or. Raspberry & Blackberry Comm'n
@@ -585,9 +807,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Raspberry and Blackberry Commission
 - slug: department-of-agriculture-oregon-ryegrass-growers-seed-commission
-  name: Department of Agriculture, Oregon Ryegrass Growers Seed Commission
-  name_basis: unverified-oar-title
+  name: Oregon Ryegrass Growers Seed Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Ryegrass Growers Seed Commission
   oar_chapter: '657'
   raw_index_name: Or. Ryegrass Growers Seed Comm'n
@@ -600,9 +824,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Ryegrass Growers Seed Commission
 - slug: department-of-agriculture-oregon-salmon-commission
-  name: Department of Agriculture, Oregon Salmon Commission
-  name_basis: unverified-oar-title
+  name: Oregon Salmon Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Salmon Commission
   oar_chapter: '646'
   raw_index_name: Or. Salmon Comm'n
@@ -615,9 +841,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Salmon Commission
 - slug: department-of-agriculture-oregon-sheep-commission
-  name: Department of Agriculture, Oregon Sheep Commission
-  name_basis: unverified-oar-title
+  name: Oregon Sheep Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Sheep Commission
   oar_chapter: '644'
   raw_index_name: Or. Sheep Comm'n
@@ -630,9 +858,12 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Sheep Commission
+  - OSC
 - slug: department-of-agriculture-oregon-strawberry-commission
-  name: Department of Agriculture, Oregon Strawberry Commission
-  name_basis: unverified-oar-title
+  name: Oregon Strawberry Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Strawberry Commission
   oar_chapter: '668'
   raw_index_name: Or. Strawberry Comm'n
@@ -645,9 +876,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Strawberry Commission
 - slug: department-of-agriculture-oregon-sweet-cherry-commission
-  name: Department of Agriculture, Oregon Sweet Cherry Commission
-  name_basis: unverified-oar-title
+  name: Oregon Sweet Cherry Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Sweet Cherry Commission
   oar_chapter: '669'
   raw_index_name: Or. Sweet Cherry Comm'n
@@ -660,9 +893,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Sweet Cherry Commission
 - slug: department-of-agriculture-oregon-tall-fescue-commission
-  name: Department of Agriculture, Oregon Tall Fescue Commission
-  name_basis: unverified-oar-title
+  name: Oregon Tall Fescue Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Tall Fescue Commission
   oar_chapter: '607'
   raw_index_name: Or. Tall Fescue Comm'n
@@ -675,9 +910,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Tall Fescue Commission
 - slug: department-of-agriculture-oregon-trawl-commission
-  name: Department of Agriculture, Oregon Trawl Commission
-  name_basis: unverified-oar-title
+  name: Oregon Trawl Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Trawl Commission
   oar_chapter: '656'
   raw_index_name: Or. Trawl Comm'n
@@ -690,9 +927,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 576.062
   enabling_authority: ORS 576.062
+  aliases:
+  - Department of Agriculture, Oregon Trawl Commission
 - slug: department-of-agriculture-oregon-wheat-commission
-  name: Department of Agriculture, Oregon Wheat Commission
-  name_basis: unverified-oar-title
+  name: Oregon Wheat Commission
+  name_basis: enabling-authority
   oar_name: Department of Agriculture, Oregon Wheat Commission
   oar_chapter: '678'
   raw_index_name: Or. Wheat Comm'n
@@ -705,9 +944,12 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 578.030
   enabling_authority: ORS 578.030
+  aliases:
+  - Department of Agriculture, Oregon Wheat Commission
+  - OWC
 - slug: department-of-consumer-and-business-services
   name: Department of Consumer and Business Services
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Department of Consumer and Business Services
   oar_chapter: null
   raw_index_name: Dept. of Consumer & Business Services
@@ -716,6 +958,8 @@ organizations:
   relations: []
   das_agency_number: '440'
   enabling_authority: ORS 705.105
+  aliases:
+  - DCBS
 - slug: department-of-consumer-and-business-services-building-codes-division
   name: Department of Consumer and Business Services, Building Codes Division
   name_basis: unverified-oar-title
@@ -732,6 +976,8 @@ organizations:
   enabling_authority: 'none: Part of the Department of Consumer and Business Services (ADR 0004): reviewed
     2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
     to record.'
+  aliases:
+  - BCD
 - slug: department-of-consumer-and-business-services-director-s-office
   name: Department of Consumer and Business Services, Director's Office
   name_basis: unverified-oar-title
@@ -813,8 +1059,8 @@ organizations:
     2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
     to record.'
 - slug: department-of-consumer-and-business-services-prescription-drug-affordability-board
-  name: Department of Consumer and Business Services, Prescription Drug Affordability Board
-  name_basis: unverified-oar-title
+  name: Prescription Drug Affordability Board
+  name_basis: enabling-authority
   oar_name: Department of Consumer and Business Services, Prescription Drug Affordability Board
   oar_chapter: '925'
   raw_index_name: null
@@ -834,9 +1080,12 @@ organizations:
     no chapter 925; it was written by hand, not by --refresh or link_budget_codes. ORS 646A.693(1): ''The
     Prescription Drug Affordability Board is established in the Department of Consumer and Business Services''.'
   enabling_authority: ORS 646A.693
+  aliases:
+  - Department of Consumer and Business Services, Prescription Drug Affordability Board
+  - PDAB
 - slug: department-of-consumer-and-business-services-workers-compensation-board
-  name: Department of Consumer and Business Services, Workers' Compensation Board
-  name_basis: unverified-oar-title
+  name: Workers’ Compensation Board
+  name_basis: enabling-authority
   oar_name: Department of Consumer and Business Services, Workers' Compensation Board
   oar_chapter: '438'
   raw_index_name: Workers' Compensation Board
@@ -849,6 +1098,9 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 656.712
   enabling_authority: ORS 656.712
+  aliases:
+  - Department of Consumer and Business Services, Workers' Compensation Board
+  - WCB
 - slug: department-of-consumer-and-business-services-workers-compensation-division
   name: Department of Consumer and Business Services, Workers' Compensation Division
   name_basis: unverified-oar-title
@@ -865,9 +1117,11 @@ organizations:
   enabling_authority: 'none: Part of the Department of Consumer and Business Services (ADR 0004): reviewed
     2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
     to record.'
+  aliases:
+  - WCD
 - slug: department-of-corrections
   name: Department of Corrections
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Department of Corrections
   oar_chapter: '291'
   raw_index_name: Dept. of Corrections
@@ -876,9 +1130,12 @@ organizations:
   relations: []
   das_agency_number: '291'
   enabling_authority: ORS 423.020
+  aliases:
+  - DOC
+  - ODOC
 - slug: department-of-energy
-  name: Department of Energy
-  name_basis: unverified-oar-title
+  name: State Department of Energy
+  name_basis: enabling-authority
   oar_name: Department of Energy
   oar_chapter: '330'
   raw_index_name: Dept. of Energy
@@ -887,9 +1144,12 @@ organizations:
   relations: []
   das_agency_number: '330'
   enabling_authority: ORS 469.030
+  aliases:
+  - Department of Energy
+  - ODOE
 - slug: department-of-energy-energy-facility-siting-council
-  name: Department of Energy, Energy Facility Siting Council
-  name_basis: unverified-oar-title
+  name: Energy Facility Siting Council
+  name_basis: enabling-authority
   oar_name: Department of Energy, Energy Facility Siting Council
   oar_chapter: '345'
   raw_index_name: Energy Facility Siting Council
@@ -902,40 +1162,67 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 469.450
   enabling_authority: ORS 469.450
+  aliases:
+  - Department of Energy, Energy Facility Siting Council
+  - EFSC
 - slug: department-of-environmental-quality
   name: Department of Environmental Quality
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Department of Environmental Quality
   oar_chapter: '340'
   raw_index_name: Dept. of Environmental Quality
   source_url: https://oregon.public.law/rules/oar_chapter_340
   parent_chapter: null
-  relations: []
+  relations:
+  - target: environmental-quality-commission
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 468.030
   das_agency_number: '340'
   enabling_authority: ORS 468.030
+  aliases:
+  - DEQ
+  - ODEQ
 - slug: department-of-fish-and-wildlife
-  name: Department of Fish and Wildlife
-  name_basis: unverified-oar-title
+  name: State Department of Fish and Wildlife
+  name_basis: enabling-authority
   oar_name: Department of Fish and Wildlife
   oar_chapter: '635'
   raw_index_name: Dept. of Fish & Wildlife
   source_url: https://oregon.public.law/rules/oar_chapter_635
   parent_chapter: null
-  relations: []
+  relations:
+  - target: state-fish-and-wildlife-commission
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 496.080
   das_agency_number: '635'
   enabling_authority: ORS 496.080
+  aliases:
+  - Department of Fish and Wildlife
+  - ODF&W
+  - ODFW
 - slug: department-of-forestry
-  name: Department of Forestry
-  name_basis: unverified-oar-title
+  name: State Forestry Department
+  name_basis: enabling-authority
   oar_name: Department of Forestry
   oar_chapter: '629'
   raw_index_name: Dept. of Forestry
   source_url: https://oregon.public.law/rules/oar_chapter_629
   parent_chapter: null
-  relations: []
+  relations:
+  - target: state-board-of-forestry
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 526.008
   das_agency_number: '629'
   aliases:
-  - State Forestry Department
+  - Department of Forestry
+  - ODF
+  enabling_authority: ORS 526.008
 - slug: department-of-geology-and-mineral-industries
   name: Department of Geology and Mineral Industries
   name_basis: unverified-oar-title
@@ -946,9 +1233,11 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '632'
+  aliases:
+  - DOGAMI
 - slug: department-of-human-services
   name: Department of Human Services
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Department of Human Services
   oar_chapter: '407'
   raw_index_name: Dept. of Human Services
@@ -957,6 +1246,8 @@ organizations:
   relations: []
   das_agency_number: '100'
   enabling_authority: ORS 409.010
+  aliases:
+  - ODHS
 - slug: department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities
   name: Department of Human Services, Aging and People with Disabilities and Developmental Disabilities
   name_basis: unverified-oar-title
@@ -990,8 +1281,8 @@ organizations:
     by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
     record.'
 - slug: department-of-human-services-home-care-commission
-  name: Department of Human Services, Home Care Commission
-  name_basis: unverified-oar-title
+  name: Home Care Commission
+  name_basis: enabling-authority
   oar_name: Department of Human Services, Home Care Commission
   oar_chapter: '418'
   raw_index_name: Home Care Comm'n
@@ -1004,6 +1295,9 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 410.602
   enabling_authority: ORS 410.602
+  aliases:
+  - Department of Human Services, Home Care Commission
+  - OHCC
 - slug: department-of-human-services-self-sufficiency-programs
   name: Department of Human Services, Self-Sufficiency Programs
   name_basis: unverified-oar-title
@@ -1034,9 +1328,11 @@ organizations:
     kind: administered_by
     basis: proposed-enabling-authority
     authority: ORS 346.180
+  aliases:
+  - OVRS
 - slug: department-of-justice
   name: Department of Justice
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Department of Justice
   oar_chapter: '137'
   raw_index_name: Dept. of Justice
@@ -1044,6 +1340,7 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '137'
+  enabling_authority: ORS 180.210
 - slug: department-of-public-safety-standards-and-training
   name: Department of Public Safety Standards and Training
   name_basis: unverified-oar-title
@@ -1054,9 +1351,11 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '259'
+  aliases:
+  - DPSST
 - slug: department-of-revenue
   name: Department of Revenue
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Department of Revenue
   oar_chapter: '150'
   raw_index_name: Dept. of Revenue
@@ -1065,17 +1364,26 @@ organizations:
   relations: []
   das_agency_number: '150'
   enabling_authority: ORS 305.025
+  aliases:
+  - DOR
 - slug: department-of-state-lands
   name: Department of State Lands
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Department of State Lands
   oar_chapter: '141'
   raw_index_name: Dept. of State Lands
   source_url: https://oregon.public.law/rules/oar_chapter_141
   parent_chapter: null
-  relations: []
+  relations:
+  - target: state-land-board
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 273.041
   das_agency_number: '141'
   enabling_authority: ORS 273.041
+  aliases:
+  - DSL
 - slug: department-of-state-lands-south-slough-national-estuarine-research-reserve
   name: Department of State Lands, South Slough National Estuarine Research Reserve
   name_basis: unverified-oar-title
@@ -1090,9 +1398,11 @@ organizations:
     kind: administered_by
     basis: proposed-enabling-authority
     authority: ORS 273.554
+  aliases:
+  - SSNERR
 - slug: department-of-state-police
   name: Department of State Police
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Department of State Police
   oar_chapter: '257'
   raw_index_name: Dept. of State Police
@@ -1101,6 +1411,8 @@ organizations:
   relations: []
   das_agency_number: '257'
   enabling_authority: ORS 181A.015
+  aliases:
+  - OSP
 - slug: department-of-state-police-office-of-state-fire-marshal
   name: Department of State Police, Office of State Fire Marshal
   name_basis: unverified-oar-title
@@ -1116,6 +1428,7 @@ organizations:
   das_agency_number: '260'
   aliases:
   - Department of the State Fire Marshal
+  - OSFM
   - Office of State Fire Marshal
   - State Fire Marshal
   curator_note: 'STANDALONE since SB 762 (2021), operative 2023-07-01 (confirmed by direct fetch 2026-09-02
@@ -1141,8 +1454,8 @@ organizations:
     of the Department of State Police (confirmed by direct fetch 2026-09-02) -- the two sources disagree
     and the disagreement is kept (ADR 0003) rather than resolved by hand-editing a scraped field.'
 - slug: department-of-state-police-oregon-state-athletic-commission
-  name: Department of State Police, Oregon State Athletic Commission
-  name_basis: unverified-oar-title
+  name: Oregon State Athletic Commission
+  name_basis: enabling-authority
   oar_name: Department of State Police, Oregon State Athletic Commission
   oar_chapter: '230'
   raw_index_name: Or. State Athletic Comm'n
@@ -1155,9 +1468,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 463.113
   enabling_authority: ORS 463.113
+  aliases:
+  - Department of State Police, Oregon State Athletic Commission
 - slug: department-of-transportation
   name: Department of Transportation
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Department of Transportation
   oar_chapter: '731'
   raw_index_name: Dept. of Transportation
@@ -1166,6 +1481,8 @@ organizations:
   relations: []
   das_agency_number: '730'
   enabling_authority: ORS 184.615
+  aliases:
+  - ODOT
 - slug: department-of-transportation-driver-and-motor-vehicle-services-division
   name: Department of Transportation, Driver and Motor Vehicle Services Division
   name_basis: unverified-oar-title
@@ -1182,6 +1499,8 @@ organizations:
   enabling_authority: 'none: Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12
     by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
     record.'
+  aliases:
+  - DMV
 - slug: department-of-transportation-highway-division
   name: Department of Transportation, Highway Division
   name_basis: unverified-oar-title
@@ -1214,6 +1533,8 @@ organizations:
   enabling_authority: 'none: Part of the Department of Transportation (ADR 0004): reviewed 2026-09-12
     by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
     record.'
+  aliases:
+  - MCTD
 - slug: department-of-transportation-public-transit-division
   name: Department of Transportation, Public Transit Division
   name_basis: unverified-oar-title
@@ -1263,8 +1584,8 @@ organizations:
     by @morficflux, who found nothing separately constitutes it, so there is no enabling authority to
     record.'
 - slug: department-of-veterans-affairs
-  name: Department of Veterans' Affairs
-  name_basis: unverified-oar-title
+  name: Department of Veterans’ Affairs
+  name_basis: enabling-authority
   oar_name: Department of Veterans' Affairs
   oar_chapter: '274'
   raw_index_name: Dept. of Veterans' Affairs
@@ -1273,6 +1594,9 @@ organizations:
   relations: []
   das_agency_number: '274'
   enabling_authority: ORS 406.005
+  aliases:
+  - Department of Veterans' Affairs
+  - ODVA
 - slug: district-attorneys-and-deputies
   name: District Attorneys and Deputies
   name_basis: unverified-oar-title
@@ -1285,9 +1609,20 @@ organizations:
   absent_from_index_as_of: '2026-09-12'
   das_agency_number: '196'
   enabling_authority: Or. Const. Art. VII (Original), sec. 17
+- slug: early-learning-council
+  name: Early Learning Council
+  name_basis: enabling-authority
+  oar_name: Early Learning Council
+  oar_chapter: null
+  raw_index_name: Early Learning Council
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 326.425
 - slug: eastern-oregon-border-economic-development-board
   name: Eastern Oregon Border Economic Development Board
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Eastern Oregon Border Economic Development Board
   oar_chapter: '124'
   raw_index_name: Eastern Or. Border Econ. Dev. Board
@@ -1304,9 +1639,11 @@ organizations:
   source_url: https://oregon.public.law/rules/oar_chapter_966
   parent_chapter: null
   relations: []
+  aliases:
+  - ERRC
 - slug: employment-department
   name: Employment Department
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Employment Department
   oar_chapter: '471'
   raw_index_name: Employment Dept.
@@ -1315,9 +1652,11 @@ organizations:
   relations: []
   das_agency_number: '471'
   enabling_authority: ORS 657.601
+  aliases:
+  - OED
 - slug: employment-relations-board
   name: Employment Relations Board
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Employment Relations Board
   oar_chapter: '115'
   raw_index_name: Employment Relations Board
@@ -1325,9 +1664,23 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '115'
+  aliases:
+  - ERB
+  enabling_authority: ORS 240.060
+- slug: environmental-quality-commission
+  name: Environmental Quality Commission
+  name_basis: enabling-authority
+  oar_name: Environmental Quality Commission
+  oar_chapter: null
+  raw_index_name: Environmental Quality Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 468.010
 - slug: higher-education-coordinating-commission
   name: Higher Education Coordinating Commission
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Higher Education Coordinating Commission
   oar_chapter: '715'
   raw_index_name: Higher Education Coordinating Comm'n
@@ -1336,7 +1689,7 @@ organizations:
   relations: []
   das_agency_number: '525'
   aliases:
-  - Higher Education Coordinating Commission
+  - HECC
   enabling_authority: ORS 350.050
 - slug: higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development
   name: Higher Education Coordinating Commission, Office of Community Colleges and Workforce Development
@@ -1371,8 +1724,8 @@ organizations:
     2026-09-12 by @morficflux, who found nothing separately constitutes it, so there is no enabling authority
     to record.'
 - slug: higher-education-coordinating-commission-office-of-student-access-and-completion
-  name: Higher Education Coordinating Commission, Office of Student Access and Completion
-  name_basis: unverified-oar-title
+  name: Office of Student Access and Completion
+  name_basis: enabling-authority
   oar_name: Higher Education Coordinating Commission, Office of Student Access and Completion
   oar_chapter: '575'
   raw_index_name: Office of Student Access & Completion
@@ -1385,6 +1738,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 348.511
   enabling_authority: ORS 348.511
+  aliases:
+  - Higher Education Coordinating Commission, Office of Student Access and Completion
 - slug: judicial-department
   name: Judicial Department
   name_basis: unverified-oar-title
@@ -1395,9 +1750,22 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '198'
+  aliases:
+  - OJD
+- slug: land-conservation-and-development-commission
+  name: Land Conservation and Development Commission
+  name_basis: enabling-authority
+  oar_name: Land Conservation and Development Commission
+  oar_chapter: null
+  raw_index_name: Land Conservation and Development Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 197.030
 - slug: land-conservation-and-development-department
-  name: Land Conservation and Development Department
-  name_basis: unverified-oar-title
+  name: Department of Land Conservation and Development
+  name_basis: enabling-authority
   oar_name: Land Conservation and Development Department
   oar_chapter: '660'
   raw_index_name: Land Conservation & Dev. Dept.
@@ -1406,10 +1774,12 @@ organizations:
   relations: []
   das_agency_number: '660'
   aliases:
-  - Department of Land Conservation and Development
+  - DLCD
+  - Land Conservation and Development Department
+  enabling_authority: ORS 197.075
 - slug: land-use-board-of-appeals
   name: Land Use Board of Appeals
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Land Use Board of Appeals
   oar_chapter: '661'
   raw_index_name: Land Use Board of Appeals
@@ -1418,27 +1788,35 @@ organizations:
   relations: []
   das_agency_number: '662'
   enabling_authority: ORS 197.810
+  aliases:
+  - LUBA
 - slug: landscape-architect-board
-  name: Landscape Architect Board
-  name_basis: unverified-oar-title
+  name: State Landscape Architect Board
+  name_basis: enabling-authority
   oar_name: Landscape Architect Board
   oar_chapter: '804'
   raw_index_name: Landscape Architect Board
   source_url: https://oregon.public.law/rules/oar_chapter_804
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 671.459
+  aliases:
+  - Landscape Architect Board
 - slug: landscape-contractors-board
-  name: Landscape Contractors Board
-  name_basis: unverified-oar-title
+  name: State Landscape Contractors Board
+  name_basis: enabling-authority
   oar_name: Landscape Contractors Board
   oar_chapter: '808'
   raw_index_name: Landscape Contractors Board
   source_url: https://oregon.public.law/rules/oar_chapter_808
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 671.630
+  aliases:
+  - Landscape Contractors Board
 - slug: legislative-administration-committee
   name: Legislative Administration Committee
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Legislative Administration Committee
   oar_chapter: '156'
   raw_index_name: Legislative Administration Committee
@@ -1449,7 +1827,7 @@ organizations:
   enabling_authority: ORS 173.710
 - slug: legislative-assembly
   name: Legislative Assembly
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Legislative Assembly
   oar_chapter: null
   raw_index_name: Legislative Assembly
@@ -1471,6 +1849,8 @@ organizations:
   absent_from_index_as_of: '2026-09-12'
   das_agency_number: '425'
   enabling_authority: ORS 172.100
+  aliases:
+  - LCIS
 - slug: legislative-counsel-office
   name: Legislative Counsel Office
   name_basis: unverified-oar-title
@@ -1484,7 +1864,7 @@ organizations:
   das_agency_number: '142'
 - slug: legislative-equity-office
   name: Legislative Equity Office
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Legislative Equity Office
   oar_chapter: null
   raw_index_name: Legislative Equity Office
@@ -1507,7 +1887,7 @@ organizations:
   enabling_authority: Oregon Laws 1959, chapter 70
 - slug: legislative-policy-and-research-committee
   name: Legislative Policy and Research Committee
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Legislative Policy and Research Committee
   oar_chapter: null
   raw_index_name: Legislative Policy and Research Committee
@@ -1542,7 +1922,7 @@ organizations:
   enabling_authority: ORS 441.403
 - slug: mental-health-regulatory-agency
   name: Mental Health Regulatory Agency
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Mental Health Regulatory Agency
   oar_chapter: '831'
   raw_index_name: Mental Health Regulatory Agency
@@ -1560,8 +1940,8 @@ organizations:
   das_agency_number: '108'
   enabling_authority: ORS 675.160
 - slug: mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists
-  name: Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
-  name_basis: unverified-oar-title
+  name: Oregon Board of Licensed Professional Counselors and Therapists
+  name_basis: enabling-authority
   oar_name: Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
   oar_chapter: '833'
   raw_index_name: Or. Board of Licensed Professional Counselors & Therapists
@@ -1574,9 +1954,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 675.775
   enabling_authority: ORS 675.775
+  aliases:
+  - Mental Health Regulatory Agency, Oregon Board of Licensed Professional Counselors and Therapists
 - slug: mental-health-regulatory-agency-oregon-board-of-psychology
-  name: Mental Health Regulatory Agency, Oregon Board of Psychology
-  name_basis: unverified-oar-title
+  name: Oregon Board of Psychology
+  name_basis: enabling-authority
   oar_name: Mental Health Regulatory Agency, Oregon Board of Psychology
   oar_chapter: '858'
   raw_index_name: Or. Board of Psychology
@@ -1589,9 +1971,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 675.100
   enabling_authority: ORS 675.100
+  aliases:
+  - Mental Health Regulatory Agency, Oregon Board of Psychology
 - slug: mortuary-and-cemetery-board
-  name: Mortuary and Cemetery Board
-  name_basis: unverified-oar-title
+  name: State Mortuary and Cemetery Board
+  name_basis: enabling-authority
   oar_name: Mortuary and Cemetery Board
   oar_chapter: '830'
   raw_index_name: Mortuary & Cemetery Board
@@ -1599,9 +1983,11 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 692.300
+  aliases:
+  - Mortuary and Cemetery Board
 - slug: occupational-therapy-licensing-board
   name: Occupational Therapy Licensing Board
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Occupational Therapy Licensing Board
   oar_chapter: '339'
   raw_index_name: Occupational Therapy Licensing Board
@@ -1655,9 +2041,11 @@ organizations:
   absent_from_index_as_of: '2026-09-12'
   curator_note: Chapter absent from oregon.public.law's index (mirror gap); name verbatim from the OARD
     rule-page header. Discovered via renumbering redirects during the 2026-07 mass OAR import.
+  aliases:
+  - OTIS
 - slug: oregon-529-savings-board
   name: Oregon 529 Savings Board
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon 529 Savings Board
   oar_chapter: '173'
   raw_index_name: Or. 529 Savings Board
@@ -1667,7 +2055,7 @@ organizations:
   enabling_authority: ORS 178.310
 - slug: oregon-advocacy-commissions-office
   name: Oregon Advocacy Commissions Office
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Advocacy Commissions Office
   oar_chapter: null
   raw_index_name: Oregon Advocacy Commissions Office
@@ -1677,9 +2065,20 @@ organizations:
   absent_from_index_as_of: '2026-09-12'
   das_agency_number: '131'
   enabling_authority: ORS 185.005
+- slug: oregon-agricultural-heritage-commission
+  name: Oregon Agricultural Heritage Commission
+  name_basis: enabling-authority
+  oar_name: Oregon Agricultural Heritage Commission
+  oar_chapter: null
+  raw_index_name: Oregon Agricultural Heritage Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 541.986
 - slug: oregon-board-of-accountancy
   name: Oregon Board of Accountancy
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Board of Accountancy
   oar_chapter: '801'
   raw_index_name: Or. Board of Accountancy
@@ -1690,7 +2089,7 @@ organizations:
   enabling_authority: ORS 673.410
 - slug: oregon-board-of-dentistry
   name: Oregon Board of Dentistry
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Board of Dentistry
   oar_chapter: '818'
   raw_index_name: Or. Board of Dentistry
@@ -1698,9 +2097,10 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '834'
+  enabling_authority: ORS 679.230
 - slug: oregon-board-of-naturopathic-medicine
   name: Oregon Board of Naturopathic Medicine
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Board of Naturopathic Medicine
   oar_chapter: '850'
   raw_index_name: Or. Board of Naturopathic Medicine
@@ -1710,16 +2110,28 @@ organizations:
   enabling_authority: ORS 685.160
 - slug: oregon-board-of-physical-therapy
   name: Oregon Board of Physical Therapy
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Board of Physical Therapy
   oar_chapter: '848'
   raw_index_name: Or. Board of Physical Therapy
   source_url: https://oregon.public.law/rules/oar_chapter_848
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 688.160
+- slug: oregon-business-development-commission
+  name: Oregon Business Development Commission
+  name_basis: enabling-authority
+  oar_name: Oregon Business Development Commission
+  oar_chapter: null
+  raw_index_name: Oregon Business Development Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 285A.040
 - slug: oregon-business-development-department
   name: Oregon Business Development Department
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Business Development Department
   oar_chapter: '123'
   raw_index_name: Or. Business Dev. Dept.
@@ -1728,9 +2140,27 @@ organizations:
   relations: []
   das_agency_number: '123'
   enabling_authority: ORS 285A.070
+  aliases:
+  - OBDD
+- slug: oregon-cannabis-commission
+  name: Oregon Cannabis Commission
+  name_basis: enabling-authority
+  oar_name: Oregon Cannabis Commission
+  oar_chapter: null
+  raw_index_name: Oregon Cannabis Commission
+  source_url: null
+  parent_chapter: null
+  relations:
+  - target: oregon-health-authority
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 475C.930
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 475C.930
 - slug: oregon-criminal-justice-commission
   name: Oregon Criminal Justice Commission
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Criminal Justice Commission
   oar_chapter: '213'
   raw_index_name: Or. Criminal Justice Comm'n
@@ -1739,9 +2169,11 @@ organizations:
   relations: []
   das_agency_number: '213'
   enabling_authority: ORS 137.654
+  aliases:
+  - CJC
 - slug: oregon-department-of-aviation
   name: Oregon Department of Aviation
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Department of Aviation
   oar_chapter: '738'
   raw_index_name: Or. Dept. of Aviation
@@ -1751,16 +2183,24 @@ organizations:
   das_agency_number: '109'
   enabling_authority: ORS 835.100
 - slug: oregon-department-of-education
-  name: Oregon Department of Education
-  name_basis: unverified-oar-title
+  name: Department of Education
+  name_basis: enabling-authority
   oar_name: Oregon Department of Education
   oar_chapter: '581'
   raw_index_name: Or. Dept. of Education
   source_url: https://oregon.public.law/rules/oar_chapter_581
   parent_chapter: null
-  relations: []
+  relations:
+  - target: state-board-of-education
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 326.111
   das_agency_number: '581'
   enabling_authority: ORS 326.111
+  aliases:
+  - ODE
+  - Oregon Department of Education
 - slug: oregon-department-of-education-early-learning-division
   name: Oregon Department of Education, Early Learning Division
   name_basis: unverified-oar-title
@@ -1775,6 +2215,7 @@ organizations:
     kind: undetermined
   das_agency_number: '588'
   aliases:
+  - DELC
   - Department of Early Learning and Care
   - Early Learning Division
   - Early Learning Division of the Department of Education
@@ -1800,8 +2241,8 @@ organizations:
     outright. The two sources disagree and the disagreement is kept (ADR 0003) rather than resolved by
     hand-editing a scraped field.'
 - slug: oregon-department-of-education-fair-dismissal-appeals-board
-  name: Oregon Department of Education, Fair Dismissal Appeals Board
-  name_basis: unverified-oar-title
+  name: Fair Dismissal Appeals Board
+  name_basis: enabling-authority
   oar_name: Oregon Department of Education, Fair Dismissal Appeals Board
   oar_chapter: '586'
   raw_index_name: Fair Dismissal Appeals Board
@@ -1814,9 +2255,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 342.930
   enabling_authority: ORS 342.930
+  aliases:
+  - Oregon Department of Education, Fair Dismissal Appeals Board
 - slug: oregon-department-of-education-youth-development-division
-  name: Oregon Department of Education, Youth Development Division
-  name_basis: unverified-oar-title
+  name: Youth Development Division
+  name_basis: enabling-authority
   oar_name: Oregon Department of Education, Youth Development Division
   oar_chapter: '423'
   raw_index_name: Youth Dev. Division
@@ -1829,11 +2272,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 417.852
   aliases:
-  - Youth Development Division
+  - Oregon Department of Education, Youth Development Division
   enabling_authority: ORS 417.852
 - slug: oregon-facilities-authority
   name: Oregon Facilities Authority
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Facilities Authority
   oar_chapter: '172'
   raw_index_name: Or. Facilities Authority
@@ -1844,7 +2287,7 @@ organizations:
   enabling_authority: ORS 289.100
 - slug: oregon-film-and-video-office
   name: Oregon Film and Video Office
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Film and Video Office
   oar_chapter: '951'
   raw_index_name: Or. Film & Video Office
@@ -1852,9 +2295,11 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 284.305
+  aliases:
+  - OFVO
 - slug: oregon-forest-resources-institute
   name: Oregon Forest Resources Institute
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Forest Resources Institute
   oar_chapter: '628'
   raw_index_name: Or. Forest Resources Institute
@@ -1863,9 +2308,22 @@ organizations:
   relations: []
   das_agency_number: '628'
   enabling_authority: ORS 526.610
+  aliases:
+  - OFRI
+- slug: oregon-geographic-information-council
+  name: Oregon Geographic Information Council
+  name_basis: enabling-authority
+  oar_name: Oregon Geographic Information Council
+  oar_chapter: null
+  raw_index_name: Oregon Geographic Information Council
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 276A.503
 - slug: oregon-government-ethics-commission
   name: Oregon Government Ethics Commission
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Government Ethics Commission
   oar_chapter: '199'
   raw_index_name: Or. Government Ethics Comm'n
@@ -1874,9 +2332,11 @@ organizations:
   relations: []
   das_agency_number: '199'
   enabling_authority: ORS 244.250
+  aliases:
+  - OGEC
 - slug: oregon-health-authority
   name: Oregon Health Authority
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority
   oar_chapter: '943'
   raw_index_name: Or. Health Authority
@@ -1885,6 +2345,8 @@ organizations:
   relations: []
   das_agency_number: '443'
   enabling_authority: ORS 413.032
+  aliases:
+  - OHA
 - slug: oregon-health-authority-drug-treatment-and-recovery-services
   name: Oregon Health Authority, Drug Treatment and Recovery Services
   name_basis: unverified-oar-title
@@ -1926,8 +2388,8 @@ organizations:
   enabling_authority: 'none: Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux,
     who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: oregon-health-authority-health-licensing-office
-  name: Oregon Health Authority, Health Licensing Office
-  name_basis: unverified-oar-title
+  name: Health Licensing Office
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority, Health Licensing Office
   oar_chapter: '331'
   raw_index_name: Health Licensing Office
@@ -1937,124 +2399,182 @@ organizations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
-    basis: proposed-enabling-authority
+    basis: reviewed-enabling-authority
     authority: ORS 676.560
+  aliases:
+  - HLO
+  - Oregon Health Authority, Health Licensing Office
+  enabling_authority: ORS 676.560
 - slug: oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board
-  name: Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board
-  name_basis: unverified-oar-title
+  name: Behavior Analysis Regulatory Board
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board
   oar_chapter: '824'
   raw_index_name: Health Licensing Office:<br> Behavior Analysis Regulatory Board
   source_url: https://oregon.public.law/rules/oar_chapter_824
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 676.806
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 676.806
   enabling_authority: ORS 676.806
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Behavior Analysis Regulatory Board
 - slug: oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians
-  name: Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
-  name_basis: unverified-oar-title
+  name: Board of Certified Advanced Estheticians
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
   oar_chapter: '819'
   raw_index_name: Health Licensing Office:<br> Board of Certified Advanced Estheticians
   source_url: https://oregon.public.law/rules/oar_chapter_819
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 676.650
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 676.650
   enabling_authority: ORS 676.650
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Board of Certified Advanced Estheticians
 - slug: oregon-health-authority-health-licensing-office-board-of-cosmetology
-  name: Oregon Health Authority, Health Licensing Office, Board of Cosmetology
-  name_basis: unverified-oar-title
+  name: Board of Cosmetology
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority, Health Licensing Office, Board of Cosmetology
   oar_chapter: '817'
   raw_index_name: Health Licensing Office:<br> Board of Cosmetology
   source_url: https://oregon.public.law/rules/oar_chapter_817
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 690.155
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 690.155
   enabling_authority: ORS 690.155
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Board of Cosmetology
 - slug: oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery
-  name: Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
-  name_basis: unverified-oar-title
+  name: State Board of Direct Entry Midwifery
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
   oar_chapter: '332'
   raw_index_name: Health Licensing Office:<br> Board of Direct Entry Midwifery
   source_url: https://oregon.public.law/rules/oar_chapter_332
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 687.470
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 687.470
   enabling_authority: ORS 687.470
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Board of Direct Entry Midwifery
 - slug: oregon-health-authority-health-licensing-office-board-of-licensed-dietitians
-  name: Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians
-  name_basis: unverified-oar-title
+  name: Board of Licensed Dietitians
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians
   oar_chapter: '834'
   raw_index_name: Health Licensing Office:<br> Board of Licensed Dietitians
   source_url: https://oregon.public.law/rules/oar_chapter_834
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 691.485
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 691.485
   enabling_authority: ORS 691.485
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Board of Licensed Dietitians
 - slug: oregon-health-authority-health-licensing-office-environmental-health-registration-board
-  name: Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board
-  name_basis: unverified-oar-title
+  name: Environmental Health Registration Board
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board
   oar_chapter: '338'
   raw_index_name: Health Licensing Office:<br> Environmental Health Registration Board
   source_url: https://oregon.public.law/rules/oar_chapter_338
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 700.210
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 700.210
   enabling_authority: ORS 700.210
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Environmental Health Registration Board
 - slug: oregon-health-authority-health-licensing-office-long-term-care-administrators-board
-  name: Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
-  name_basis: unverified-oar-title
+  name: Long Term Care Administrators Board
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
   oar_chapter: '853'
   raw_index_name: Health Licensing Office:<br> Long Term Care Administrators Board
   source_url: https://oregon.public.law/rules/oar_chapter_853
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: oar-index
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 678.800
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 678.800
   enabling_authority: ORS 678.800
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, Long Term Care Administrators Board
 - slug: oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters
-  name: Oregon Health Authority, Health Licensing Office, State Board of Sign Language Interpreters
-  name_basis: unverified-oar-title
+  name: State Board of Sign Language Interpreters
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority, Health Licensing Office, State Board of Sign Language Interpreters
   oar_chapter: '816'
   raw_index_name: null
   source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=816-005-0000
-  parent_chapter: '943'
+  parent_chapter: null
   relations:
   - target: oregon-health-authority
     source: registry
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 676.780
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 676.780
@@ -2068,9 +2588,11 @@ organizations:
     Language Interpreters''. Placed under the Oregon Health Authority, as its seven Health Licensing Office
     siblings are.'
   enabling_authority: ORS 676.780
+  aliases:
+  - Oregon Health Authority, Health Licensing Office, State Board of Sign Language Interpreters
 - slug: oregon-health-authority-health-policy-and-analytics
-  name: Oregon Health Authority, Health Policy and Analytics
-  name_basis: unverified-oar-title
+  name: Health Policy and Analytics Division
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority, Health Policy and Analytics
   oar_chapter: '409'
   raw_index_name: Health Policy & Analytics
@@ -2083,6 +2605,8 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 442.011
   enabling_authority: ORS 442.011
+  aliases:
+  - Oregon Health Authority, Health Policy and Analytics
 - slug: oregon-health-authority-health-systems-division-addiction-services
   name: 'Oregon Health Authority, Health Systems Division: Addiction Services'
   name_basis: unverified-oar-title
@@ -2129,8 +2653,8 @@ organizations:
   enabling_authority: 'none: Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux,
     who found nothing separately constitutes it, so there is no enabling authority to record.'
 - slug: oregon-health-authority-oregon-educators-benefit-board
-  name: Oregon Health Authority, Oregon Educators Benefit Board
-  name_basis: unverified-oar-title
+  name: Oregon Educators Benefit Board
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority, Oregon Educators Benefit Board
   oar_chapter: '111'
   raw_index_name: null
@@ -2150,9 +2674,12 @@ organizations:
     it was written by hand, not by --refresh or link_budget_codes. ORS 243.862(1): ''There is established
     in the Oregon Health Authority an Oregon Educators Benefit Board''.'
   enabling_authority: ORS 243.862
+  aliases:
+  - OEBB
+  - Oregon Health Authority, Oregon Educators Benefit Board
 - slug: oregon-health-authority-oregon-prescription-drug-program
-  name: Oregon Health Authority, Oregon Prescription Drug Program
-  name_basis: unverified-oar-title
+  name: Oregon Prescription Drug Program
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority, Oregon Prescription Drug Program
   oar_chapter: '431'
   raw_index_name: Or. Prescription Drug Program
@@ -2165,9 +2692,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 414.312
   enabling_authority: ORS 414.312
+  aliases:
+  - Oregon Health Authority, Oregon Prescription Drug Program
 - slug: oregon-health-authority-public-employees-benefit-board
-  name: Oregon Health Authority, Public Employees' Benefit Board
-  name_basis: unverified-oar-title
+  name: Public Employees’ Benefit Board
+  name_basis: enabling-authority
   oar_name: Oregon Health Authority, Public Employees' Benefit Board
   oar_chapter: '101'
   raw_index_name: Pub. Employees' Benefit Board
@@ -2180,6 +2709,9 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 243.061
   enabling_authority: ORS 243.061
+  aliases:
+  - Oregon Health Authority, Public Employees' Benefit Board
+  - PEBB
 - slug: oregon-health-authority-public-health-division
   name: Oregon Health Authority, Public Health Division
   name_basis: unverified-oar-title
@@ -2195,6 +2727,17 @@ organizations:
     basis: reviewed-absence
   enabling_authority: 'none: Part of the Oregon Health Authority (ADR 0004): reviewed 2026-09-12 by @morficflux,
     who found nothing separately constitutes it, so there is no enabling authority to record.'
+- slug: oregon-health-policy-board
+  name: Oregon Health Policy Board
+  name_basis: enabling-authority
+  oar_name: Oregon Health Policy Board
+  oar_chapter: null
+  raw_index_name: Oregon Health Policy Board
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 413.006
 - slug: oregon-hemp-commission
   name: Oregon Hemp Commission
   name_basis: enabling-authority
@@ -2205,7 +2748,7 @@ organizations:
   parent_chapter: '603'
   relations:
   - target: department-of-agriculture
-    source: statute
+    source: registry
     kind: administered_by
     basis: reviewed-enabling-authority
     authority: ORS 571.406
@@ -2219,11 +2762,16 @@ organizations:
     target department-of-agriculture — pick the join deliberately; they now differ. OAR chapter 648: OARD''s
     chapter dropdown (ruleSearch.action, 2026-10-17) prints ''648 - Department of Agriculture, Oregon
     Hemp Commission''. The chapter is absent from oregon.public.law''s index (mirror gap), so OAR discovery
-    never walked it until this row held it.'
+    never walked it until this row held it. THE PLACEMENT UNDER THE DEPARTMENT OF AGRICULTURE IS `registry`,
+    NOT `statute`: it is the title OARD prints for chapter 648 (above), the same placement the 23 sibling
+    commodity commissions have from the index, and no mirrored ORS section states it. ORS 571.404 gives
+    the department duties over the commission and ORS 571.406 has the Director of Agriculture appoint
+    its members; neither says the commission sits under the department, so neither is a sentence that
+    states a placement (checked 2026-10-30 across the mirrored sections that name the commission).'
   enabling_authority: ORS 571.406
 - slug: oregon-housing-and-community-services-department
-  name: Oregon Housing and Community Services Department
-  name_basis: unverified-oar-title
+  name: Housing and Community Services Department
+  name_basis: enabling-authority
   oar_name: Oregon Housing and Community Services Department
   oar_chapter: '813'
   raw_index_name: Or. Housing & Community Services Dept.
@@ -2232,9 +2780,23 @@ organizations:
   relations: []
   das_agency_number: '914'
   enabling_authority: ORS 456.555
+  aliases:
+  - OHCS
+  - Oregon Housing and Community Services Department
+- slug: oregon-housing-stability-council
+  name: Oregon Housing Stability Council
+  name_basis: enabling-authority
+  oar_name: Oregon Housing Stability Council
+  oar_chapter: null
+  raw_index_name: Oregon Housing Stability Council
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 456.567
 - slug: oregon-investment-council
   name: Oregon Investment Council
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Investment Council
   oar_chapter: '171'
   raw_index_name: Or. Investment Council
@@ -2242,9 +2804,11 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 293.706
+  aliases:
+  - OIC
 - slug: oregon-liquor-control-commission
-  name: Oregon Liquor Control Commission
-  name_basis: unverified-oar-title
+  name: Oregon Liquor and Cannabis Commission
+  name_basis: enabling-authority
   oar_name: Oregon Liquor Control Commission
   oar_chapter: '845'
   raw_index_name: Or. Liquor Control Comm'n
@@ -2254,10 +2818,12 @@ organizations:
   das_agency_number: '845'
   aliases:
   - Liquor and Cannabis Commission
-  - Oregon Liquor and Cannabis Commission
+  - OLCC
+  - Oregon Liquor Control Commission
+  enabling_authority: ORS 471.705
 - slug: oregon-medical-board
   name: Oregon Medical Board
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Medical Board
   oar_chapter: '847'
   raw_index_name: Or. Medical Board
@@ -2265,9 +2831,10 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '847'
+  enabling_authority: ORS 677.235
 - slug: oregon-military-department
   name: Oregon Military Department
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Military Department
   oar_chapter: null
   raw_index_name: Or. Military Dept.
@@ -2276,6 +2843,8 @@ organizations:
   relations: []
   das_agency_number: '248'
   enabling_authority: ORS 396.305
+  aliases:
+  - OMD
 - slug: oregon-military-department-office-of-emergency-management
   name: Oregon Military Department, Office of Emergency Management
   name_basis: unverified-oar-title
@@ -2290,6 +2859,8 @@ organizations:
     kind: undetermined
   das_agency_number: '258'
   aliases:
+  - ODEM
+  - OEM
   - Office of Emergency Management
   - Oregon Department of Emergency Management
   curator_note: 'STANDALONE since HB 2927 (Oregon Laws 2021, chapter 539, section 2), operative 2022-07-01
@@ -2322,7 +2893,7 @@ organizations:
     as a sibling.'
 - slug: oregon-patient-safety-commission
   name: Oregon Patient Safety Commission
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Patient Safety Commission
   oar_chapter: '325'
   raw_index_name: Or. Patient Safety Comm'n
@@ -2330,6 +2901,8 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 442.820
+  aliases:
+  - OPSC
 - slug: oregon-public-employees-retirement-system
   name: Oregon Public Employees Retirement System
   name_basis: unverified-oar-title
@@ -2340,9 +2913,11 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '459'
+  aliases:
+  - PERS
 - slug: oregon-racing-commission
   name: Oregon Racing Commission
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Racing Commission
   oar_chapter: '462'
   raw_index_name: Or. Racing Comm'n
@@ -2351,6 +2926,22 @@ organizations:
   relations: []
   das_agency_number: '862'
   enabling_authority: ORS 462.210
+- slug: oregon-retirement-savings-board
+  name: Oregon Retirement Savings Board
+  name_basis: enabling-authority
+  oar_name: Oregon Retirement Savings Board
+  oar_chapter: null
+  raw_index_name: Oregon Retirement Savings Board
+  source_url: null
+  parent_chapter: null
+  relations:
+  - target: oregon-state-treasury
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 178.200
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 178.200
 - slug: oregon-state-library
   name: Oregon State Library
   name_basis: unverified-oar-title
@@ -2371,8 +2962,8 @@ organizations:
   parent_chapter: null
   relations: []
 - slug: oregon-state-marine-board
-  name: Oregon State Marine Board
-  name_basis: unverified-oar-title
+  name: State Marine Board
+  name_basis: enabling-authority
   oar_name: Oregon State Marine Board
   oar_chapter: '250'
   raw_index_name: Or. State Marine Board
@@ -2381,6 +2972,8 @@ organizations:
   relations: []
   das_agency_number: '250'
   enabling_authority: ORS 830.105
+  aliases:
+  - Oregon State Marine Board
 - slug: oregon-state-treasury
   name: Oregon State Treasury
   name_basis: unverified-oar-title
@@ -2396,7 +2989,7 @@ organizations:
   - State Treasurer
 - slug: oregon-tourism-commission
   name: Oregon Tourism Commission
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Tourism Commission
   oar_chapter: '976'
   raw_index_name: Or. Tourism Comm'n
@@ -2404,9 +2997,20 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 284.107
+- slug: oregon-transportation-commission
+  name: Oregon Transportation Commission
+  name_basis: enabling-authority
+  oar_name: Oregon Transportation Commission
+  oar_chapter: null
+  raw_index_name: Oregon Transportation Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 184.612
 - slug: oregon-utility-notification-center
   name: Oregon Utility Notification Center
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Utility Notification Center
   oar_chapter: '952'
   raw_index_name: Or. Utility Notification Center
@@ -2416,7 +3020,7 @@ organizations:
   enabling_authority: ORS 757.547
 - slug: oregon-watershed-enhancement-board
   name: Oregon Watershed Enhancement Board
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Watershed Enhancement Board
   oar_chapter: '695'
   raw_index_name: Or. Watershed Enhancement Board
@@ -2425,9 +3029,11 @@ organizations:
   relations: []
   das_agency_number: '691'
   enabling_authority: ORS 541.900
+  aliases:
+  - OWEB
 - slug: oregon-watershed-enhancement-board-environmental-restoration-council
-  name: Oregon Watershed Enhancement Board, Environmental Restoration Council
-  name_basis: unverified-oar-title
+  name: Environmental Restoration Council
+  name_basis: enabling-authority
   oar_name: Oregon Watershed Enhancement Board, Environmental Restoration Council
   oar_chapter: '699'
   raw_index_name: null
@@ -2450,6 +3056,8 @@ organizations:
     Council''; the doubled parent is not carried into the name. ORS 541.861(1): ''The Environmental Restoration
     Council is established in the Oregon Watershed Enhancement Board.'''
   enabling_authority: ORS 541.861
+  aliases:
+  - Oregon Watershed Enhancement Board, Environmental Restoration Council
 - slug: oregon-watershed-enhancement-board-oregon-agricultural-heritage-program
   name: Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program
   name_basis: unverified-oar-title
@@ -2468,7 +3076,7 @@ organizations:
     record.'
 - slug: oregon-wine-board
   name: Oregon Wine Board
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Wine Board
   oar_chapter: '619'
   raw_index_name: Or. Wine Board
@@ -2478,7 +3086,7 @@ organizations:
   enabling_authority: ORS 576.856
 - slug: oregon-youth-authority
   name: Oregon Youth Authority
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Oregon Youth Authority
   oar_chapter: '416'
   raw_index_name: Or. Youth Authority
@@ -2486,9 +3094,12 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '415'
+  aliases:
+  - OYA
+  enabling_authority: ORS 420A.010
 - slug: parks-and-recreation-department
-  name: Parks and Recreation Department
-  name_basis: unverified-oar-title
+  name: State Parks and Recreation Department
+  name_basis: enabling-authority
   oar_name: Parks and Recreation Department
   oar_chapter: '736'
   raw_index_name: Parks & Recreation Dept.
@@ -2496,9 +3107,13 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '634'
+  aliases:
+  - OPRD
+  - Parks and Recreation Department
+  enabling_authority: ORS 390.111
 - slug: psychiatric-security-review-board
   name: Psychiatric Security Review Board
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Psychiatric Security Review Board
   oar_chapter: '859'
   raw_index_name: Psychiatric Security Review Board
@@ -2507,6 +3122,8 @@ organizations:
   relations: []
   das_agency_number: '399'
   enabling_authority: ORS 161.385
+  aliases:
+  - PSRB
 - slug: public-records-advocate
   name: Public Records Advocate
   name_basis: unverified-oar-title
@@ -2528,8 +3145,8 @@ organizations:
   aliases:
   - Office of the Public Records Advocate
 - slug: public-utility-commission
-  name: Public Utility Commission
-  name_basis: unverified-oar-title
+  name: Public Utility Commission of Oregon
+  name_basis: enabling-authority
   oar_name: Public Utility Commission
   oar_chapter: '860'
   raw_index_name: Pub. Utility Comm'n
@@ -2538,9 +3155,12 @@ organizations:
   relations: []
   das_agency_number: '860'
   enabling_authority: ORS 756.014
+  aliases:
+  - PUC
+  - Public Utility Commission
 - slug: public-utility-commission-oregon-board-of-maritime-pilots
-  name: Public Utility Commission, Oregon Board of Maritime Pilots
-  name_basis: unverified-oar-title
+  name: Oregon Board of Maritime Pilots
+  name_basis: enabling-authority
   oar_name: Public Utility Commission, Oregon Board of Maritime Pilots
   oar_chapter: '856'
   raw_index_name: Or. Board of Maritime Pilots
@@ -2553,9 +3173,11 @@ organizations:
     basis: reviewed-enabling-authority
     authority: ORS 776.105
   enabling_authority: ORS 776.105
+  aliases:
+  - Public Utility Commission, Oregon Board of Maritime Pilots
 - slug: real-estate-agency
   name: Real Estate Agency
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Real Estate Agency
   oar_chapter: '863'
   raw_index_name: Real Estate Agency
@@ -2564,9 +3186,38 @@ organizations:
   relations: []
   das_agency_number: '919'
   enabling_authority: ORS 696.375
+  aliases:
+  - OREA
+- slug: residential-ombudsman-and-public-guardianship-advisory-board
+  name: Residential Ombudsman and Public Guardianship Advisory Board
+  name_basis: enabling-authority
+  oar_name: Residential Ombudsman and Public Guardianship Advisory Board
+  oar_chapter: null
+  raw_index_name: Residential Ombudsman and Public Guardianship Advisory Board
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 441.416
+- slug: respiratory-therapist-and-polysomnographic-technologist-licensing-board
+  name: Respiratory Therapist and Polysomnographic Technologist Licensing Board
+  name_basis: enabling-authority
+  oar_name: Respiratory Therapist and Polysomnographic Technologist Licensing Board
+  oar_chapter: null
+  raw_index_name: Respiratory Therapist and Polysomnographic Technologist Licensing Board
+  source_url: null
+  parent_chapter: null
+  relations:
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 688.820
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 688.820
 - slug: saif-corporation
-  name: SAIF Corporation
-  name_basis: unverified-oar-title
+  name: State Accident Insurance Fund Corporation
+  name_basis: enabling-authority
   oar_name: SAIF Corporation
   oar_chapter: null
   raw_index_name: SAIF Corporation
@@ -2575,6 +3226,8 @@ organizations:
   relations: []
   absent_from_index_as_of: '2026-09-12'
   enabling_authority: ORS 656.752
+  aliases:
+  - SAIF Corporation
 - slug: secretary-of-state
   name: Secretary of State
   name_basis: enabling-authority
@@ -2586,6 +3239,8 @@ organizations:
   relations: []
   das_agency_number: '165'
   enabling_authority: Or. Const. Art. VI, sec. 1
+  aliases:
+  - SOS
 - slug: secretary-of-state-archives-division
   name: Secretary of State, Archives Division
   name_basis: unverified-oar-title
@@ -2661,27 +3316,96 @@ organizations:
     basis: reviewed-absence
   enabling_authority: 'none: Part of the Secretary of State (ADR 0004): reviewed 2026-09-12 by @morficflux,
     who found nothing separately constitutes it, so there is no enabling authority to record.'
+- slug: sexual-offense-treatment-board
+  name: Sexual Offense Treatment Board
+  name_basis: enabling-authority
+  oar_name: Sexual Offense Treatment Board
+  oar_chapter: null
+  raw_index_name: Sexual Offense Treatment Board
+  source_url: null
+  parent_chapter: null
+  relations:
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 675.395
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 675.395
 - slug: southern-oregon-university
   name: Southern Oregon University
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Southern Oregon University
   oar_chapter: '573'
   raw_index_name: Southern Or. University
   source_url: https://oregon.public.law/rules/oar_chapter_573
   parent_chapter: null
   relations: []
+  aliases:
+  - SOU
+  enabling_authority: ORS 352.002
+- slug: state-aviation-board
+  name: State Aviation Board
+  name_basis: enabling-authority
+  oar_name: State Aviation Board
+  oar_chapter: null
+  raw_index_name: State Aviation Board
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 835.102
 - slug: state-board-of-architect-examiners
   name: State Board of Architect Examiners
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: State Board of Architect Examiners
   oar_chapter: '806'
   raw_index_name: State Board of Architect Exam'rs
   source_url: https://oregon.public.law/rules/oar_chapter_806
   parent_chapter: null
   relations: []
+  enabling_authority: ORS 671.120
+- slug: state-board-of-denture-technology
+  name: State Board of Denture Technology
+  name_basis: enabling-authority
+  oar_name: State Board of Denture Technology
+  oar_chapter: null
+  raw_index_name: State Board of Denture Technology
+  source_url: null
+  parent_chapter: null
+  relations:
+  - target: oregon-health-authority-health-licensing-office
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 680.556
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 680.556
+- slug: state-board-of-education
+  name: State Board of Education
+  name_basis: enabling-authority
+  oar_name: State Board of Education
+  oar_chapter: null
+  raw_index_name: State Board of Education
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 326.021
+- slug: state-board-of-forestry
+  name: State Board of Forestry
+  name_basis: enabling-authority
+  oar_name: State Board of Forestry
+  oar_chapter: null
+  raw_index_name: State Board of Forestry
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 526.009
 - slug: state-board-of-tax-practitioners
   name: State Board of Tax Practitioners
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: State Board of Tax Practitioners
   oar_chapter: '800'
   raw_index_name: null
@@ -2697,25 +3421,77 @@ organizations:
   enabling_authority: ORS 673.725
 - slug: state-board-of-towing
   name: State Board of Towing
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: State Board of Towing
   oar_chapter: '750'
   raw_index_name: null
   source_url: https://secure.sos.state.or.us/oard/view.action?ruleNumber=750-001-0001
   parent_chapter: null
-  relations: []
+  relations:
+  - target: department-of-transportation
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 822.250
   absent_from_index_as_of: '2026-09-12'
   curator_note: 'New row: no registry row existed for this body, and its chapter is absent from oregon.public.law''s
     index (mirror gap). Name verbatim from OARD''s chapter dropdown (ruleSearch.action, ''750 - State
     Board of Towing'', 2026-10-17). absent_from_index_as_of is the recorded index observation''s own date
     (oar_index_observation.yml, 2026-09-12), which lists no chapter 750; it was written by hand, not by
     --refresh or link_budget_codes. ORS 822.250(1): ''The State Board of Towing is established within
-    the Department of Transportation.'' OARD files the chapter under no parent, so no relation is recorded;
-    whether it is administered by the Department of Transportation is not yet decided.'
+    the Department of Transportation.'' OARD files the chapter under no parent, so the OAR index states
+    no placement; the `statute` relation records the one ORS 822.250(1) states (the sentence above, kept
+    in link_enabling_authority.py''s QUOTE_CHECKS), and its kind, `administered_by`, is derived from this
+    row''s own enabling authority by derive_relation_kinds.py. parent_chapter is null: the row is absent
+    from the index, so no scrape writes it.'
   enabling_authority: ORS 822.250
+- slug: state-fish-and-wildlife-commission
+  name: State Fish and Wildlife Commission
+  name_basis: enabling-authority
+  oar_name: State Fish and Wildlife Commission
+  oar_chapter: null
+  raw_index_name: State Fish and Wildlife Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 496.090
+- slug: state-land-board
+  name: State Land Board
+  name_basis: enabling-authority
+  oar_name: State Land Board
+  oar_chapter: null
+  raw_index_name: State Land Board
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: Or. Const. Art. VIII, sec. 5
+- slug: state-library-board
+  name: State Library Board
+  name_basis: enabling-authority
+  oar_name: State Library Board
+  oar_chapter: null
+  raw_index_name: State Library Board
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 357.021
+- slug: state-parks-and-recreation-commission
+  name: State Parks and Recreation Commission
+  name_basis: enabling-authority
+  oar_name: State Parks and Recreation Commission
+  oar_chapter: null
+  raw_index_name: State Parks and Recreation Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 390.114
 - slug: teacher-standards-and-practices-commission
   name: Teacher Standards and Practices Commission
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Teacher Standards and Practices Commission
   oar_chapter: '584'
   raw_index_name: Teacher Standards & Practices Comm'n
@@ -2723,9 +3499,12 @@ organizations:
   parent_chapter: null
   relations: []
   das_agency_number: '584'
+  aliases:
+  - TSPC
+  enabling_authority: ORS 342.350
 - slug: travel-information-council
   name: Travel Information Council
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Travel Information Council
   oar_chapter: '733'
   raw_index_name: Travel Information Council
@@ -2734,8 +3513,8 @@ organizations:
   relations: []
   enabling_authority: ORS 377.835
 - slug: veterinary-medical-examining-board
-  name: Veterinary Medical Examining Board
-  name_basis: unverified-oar-title
+  name: Oregon State Veterinary Medical Examining Board
+  name_basis: enabling-authority
   oar_name: Veterinary Medical Examining Board
   oar_chapter: '875'
   raw_index_name: Veterinary Medical Examining Board
@@ -2743,14 +3522,46 @@ organizations:
   parent_chapter: null
   relations: []
   enabling_authority: ORS 686.210
+  aliases:
+  - Veterinary Medical Examining Board
+- slug: water-resources-commission
+  name: Water Resources Commission
+  name_basis: enabling-authority
+  oar_name: Water Resources Commission
+  oar_chapter: null
+  raw_index_name: Water Resources Commission
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 536.022
 - slug: water-resources-department
   name: Water Resources Department
-  name_basis: unverified-oar-title
+  name_basis: enabling-authority
   oar_name: Water Resources Department
   oar_chapter: '690'
   raw_index_name: Water Resources Dept.
   source_url: https://oregon.public.law/rules/oar_chapter_690
   parent_chapter: null
-  relations: []
+  relations:
+  - target: water-resources-commission
+    source: statute
+    kind: administered_by
+    basis: reviewed-enabling-authority
+    authority: ORS 536.039
   das_agency_number: '690'
   enabling_authority: ORS 536.039
+  aliases:
+  - OWRD
+  - WRD
+- slug: youth-development-council
+  name: Youth Development Council
+  name_basis: enabling-authority
+  oar_name: Youth Development Council
+  oar_chapter: null
+  raw_index_name: Youth Development Council
+  source_url: null
+  parent_chapter: null
+  relations: []
+  absent_from_index_as_of: '2026-09-12'
+  enabling_authority: ORS 417.847

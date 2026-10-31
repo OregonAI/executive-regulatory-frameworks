@@ -109,8 +109,10 @@ A body's name as its enabling authority states it, and what the registry's `name
 means (ADR 0003). Distinguished from the name any particular publisher uses for it: the
 Board of Chiropractic Examiners is what the rules index prints, and ORS 684.130 establishes
 the **State** Board of Chiropractic Examiners. NOT EVERY ROW HOLDS ONE. Establishing a
-statutory name means a human reading the authority that created the body, and most bodies
-have not been read yet — so `name` holds an unverified OAR title on those rows, and the row
+statutory name means the authority that created the body being read — by a human, or by an
+agent whose quotation of the section, taken from this corpus's own mirror, is matched word for
+word against it on every run (operator decision 2026-10-30, ADR 0003's amendment) — and most
+bodies have not been read yet, so `name` holds an unverified OAR title on those rows, and the row
 says which it is holding in *name basis*. The field means "statutory name"; whether a
 particular row has one is the row's to state, never something a reader may assume from the
 field.
@@ -119,7 +121,8 @@ _Avoid_: Official name, legal name, proper name
 **Name basis**:
 Which of the two things a registry row's `name` is, written on the row in `name_basis`.
 `enabling-authority` means the statutory name, read off the body's enabling authority by a
-human and recorded in `src/link_enabling_authority.py`, which is the only thing that
+human or by an agent's word-for-word quote-check (ADR 0003's amendment) and recorded in
+`src/link_enabling_authority.py`, which is the only thing that
 establishes one; the row must carry an authority to support the claim, and
 `catalog_agencies.py --check` refuses it otherwise. `unverified-oar-title` means nobody has
 established a statutory name for this body and `name` still holds the OAR chapter title it
@@ -158,14 +161,19 @@ executive order. It is recorded as an AUTHORITY and not as a statute (ADR 0003),
 constitutional offices have somewhere true to sit: the Secretary of State and the State
 Treasurer hold no statute, and a body created by executive order holds neither a statute nor
 a constitutional article. It lives in `enabling_authority` on the registry rows that carry
-one, hand-reviewed in `src/link_enabling_authority.py`, which is the only thing that writes
+one, reviewed in `src/link_enabling_authority.py` (by a human, or by an agent's quotation
+matched word for word against the mirrored section, recorded beside the table in
+`QUOTE_CHECKS`), which is the only thing that writes
 the field. THREE STATES, which may never be collapsed into two: a value in one of those
 three forms records an authority; `none: ` and a reason records that someone looked and
 there is none to record (ADR 0004's commonest case — a *part of* unit has nothing separate
-to enable); and an absent key means nobody has looked yet, whatever today's split between
-the three states is — that split moves as reviews land, so it is `authority_census()`'s
-live count, printed by `catalog_agencies.py --check` on every run, rather than a figure
-pinned in this glossary entry to go stale the next time it moves. A body recorded *part of*
+to enable); and an absent key means no authority is recorded — nobody has looked yet, or
+somebody looked and found no section the registry can record (`LOOKED_AT` in
+`src/link_enabling_authority.py` is the record of that search, and `--check` there counts the
+two apart). Whatever today's split between the states is, that split moves as reviews land,
+so it is `authority_census()`'s live count, printed by `catalog_agencies.py --check` on
+every run, rather than a figure pinned in this glossary entry to go stale the next time it
+moves. A body recorded *part of*
 another may never carry an authority in the first form: the two are opposite claims about
 one body, and `catalog_agencies.py --check` refuses
 a row asserting both. Absence is never the claim that a body has no enabling authority, and
@@ -514,10 +522,11 @@ which of ADR 0004's two kinds it is, and a relation the OAR index discovered can
 kind decided by a statute. THREE STRENGTHS, which may never be collapsed into one:
 `reviewed-enabling-authority` and `proposed-enabling-authority` both decide *administered
 by* — the first is the basis ADR 0004 describes, the authority the row itself carries,
-hand-reviewed; the second is a CANDIDATE from `_meta/catalog/enabling-authority-review.yml`
+reviewed (by a human, or by an agent's quote-check, ADR 0004's amendment of 2026-10-30); the second is a CANDIDATE from `_meta/catalog/enabling-authority-review.yml`
 that nobody has read, which is a proposal and not evidence. `reviewed-absence` decides the
-OTHER kind, *part of* — `enabling_authority` recording `none: <reason>`, a human having
-looked and found nothing separate to enable (#222; ADR 0004's second derivation, deferred by
+OTHER kind, *part of* — `enabling_authority` recording `none: <reason>`, a reviewer (a human,
+or an agent whose quotation shows the unit is internal structure) having looked and found
+nothing separate to enable (#222; ADR 0004's second derivation, deferred by
 #173 and taken up once the field existed to review an absence into). The split between all
 three moves every time a review lands, so it is `relation_census()`'s live count, printed by
 `catalog_agencies.py --check` on every run, rather than a figure pinned in this glossary
@@ -532,7 +541,7 @@ _Avoid_: Evidence, provenance, reason — a basis says what a KIND was derived f
 The kind of a relation nobody has decided yet. Choosing between *part of* and *administered
 by* turns on whether the body carries its own admitting evidence (ADR 0004), and
 4 <!--census:agencies.relation_kind__undetermined--> of the
-87 <!--census:agencies.relation_total_relations--> relations have none of any strength — so
+110 <!--census:agencies.relation_total_relations--> relations have none of any strength — so
 `undetermined` is what they record, and
 `catalog_agencies.py --check` reports the count on every run. It says the relation is REAL
 and its kind unestablished, which is neither of the two kinds and is never a third one. It

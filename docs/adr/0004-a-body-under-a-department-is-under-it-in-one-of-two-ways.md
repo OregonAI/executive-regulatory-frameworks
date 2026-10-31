@@ -233,3 +233,64 @@ It is the OAR chapter of the body a row is placed under, scraped from the same t
 `parent-agrees` now states that it may not disagree with the body the row's relations name —
 including the case one chapter cannot express, where two sources name two parents and
 whichever chapter it held would publish one source's reading as this registry's.
+
+## Amendment (2026-10-30): a quote-check is a review, and a statute can place a body
+
+ADR 0003's amendment of this date lets an agent's word-for-word quotation of a mirrored section
+stand as the review of an enabling authority. The derivation in this ADR is unchanged by it, and
+two of its distinctions are worth stating again because the amendment makes them easier to blur.
+
+**The strengths stay apart.** `proposed-enabling-authority` is a candidate nobody has read;
+`reviewed-enabling-authority` and `reviewed-absence` rest on a review — a human's, or, since this
+amendment, an agent's quotation that `src/link_enabling_authority.py` re-matches against the mirror
+on every run. `src/derive_relation_kinds.py` does not care who reviewed: it reads
+`enabling_authority`, and a row upgrades from proposed to reviewed the day a review lands, as
+before. A body the matcher proposed a section for and nobody quoted stays proposed; reading the
+sheet is not review.
+
+**A `source: statute` relation is recorded only where the body's own constituting section states
+the placement.** The derivation writes a relation's `authority` from the body's own
+`enabling_authority` (above: the section that CONSTITUTES the body, not the one the department's
+administration runs on). So a statute placement is a claim a reader can check only when that same
+section says where the body sits — ORS 468.030 establishes the Department of Environmental Quality
+"under the Environmental Quality Commission", and the quotation is recorded beside the relation. The
+gate reads that far: the quotation has to name the relation's target as the body it sits under, so
+moving that placement to the State Land Board fails it. A section that only gives a body's members
+an appointer (ORS 571.406 for the Oregon Hemp Commission) states no placement, and the Hemp
+Commission's relation to the Department of Agriculture is therefore `source: registry`, the OAR
+chapter title's reading. A
+placement a different section states (ORS 576.066's administration of the commodity commissions,
+above) is still the curated decision on a basis nothing derives, and is not recorded as `statute`
+here. The OAR index's reading of the same body is kept beside it, not reconciled (ADR 0003); a
+body the two sources place under different parents carries `parent_chapter: null`, because one
+chapter cannot state a disagreement (`parent-agrees`). So does a body the index does not carry
+(`absent_from_index_as_of`): `parent_chapter` is scraped from the index tree, nothing scrapes it for
+a row that is not in the tree, and `parent-agrees` lets the null stand there while still holding a
+chapter that IS written to agree with the parent's. The first pass of this amendment typed the
+parents' chapters onto nine such rows by hand; no writer produces them, so they are null, the
+placement rests on the relation alone, and `--check` counts those placements and says why.
+
+**Which placements the derived views use.** `build_policy_gap.py` and `build_agency_graph.py` read
+`relations` through `catalog_agencies.sole_parent()` and `root_body()`, and they follow the
+placements where the rules are filed (the OAR index's, and the registry's for a body the index does
+not carry) and let a `statute` placement REFINE one of those: a Health Licensing Office board is
+filed by the index under the Oregon Health Authority, placed by ORS under the Health Licensing
+Office, and the Office is under the Authority, so that is a chain and not a disagreement; the board
+sits under the Office and rolls up to the Authority, and the eight boards stay in the Authority's
+totals (5,346 rules, 97 agencies, 175 graph nodes in 15 coloured departments, as before this
+change). Two placements that form no chain are still a disagreement and the body is still not rolled
+up. A `statute` placement with NO other source beside it is recorded and not climbed: the
+Department of Environmental Quality under the Environmental Quality Commission, the Department of
+Fish and Wildlife under its Commission, and the Departments of Education, Forestry, State Lands and
+Water Resources under theirs. Following those would credit a department's rules to the commission
+above it (2,146 rules and 52 policies move from the Department of Environmental Quality to the
+Commission, 8,252 rules in all across the six), a change to a published total that is the owner's to
+decide and not a side effect of recording what a section says; the views keep crediting the
+department until the owner decides.
+
+**The limit the amendment above names is still there, and a quote-check does not lift it.** The
+State Fire Marshal, Early Learning and Emergency Management were each detached from their parent
+by statute and made standalone, while the OAR index still files them under the old one. A quoted
+section establishing the standalone department is exactly the evidence that would, once recorded
+as `enabling_authority`, derive `administered_by` against the parent the statute ended — so it is
+not recorded for them until this registry can say *was part of, now separate*.

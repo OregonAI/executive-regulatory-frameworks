@@ -138,7 +138,11 @@ PER_ROW = "per-row"
 # the other.
 #
 #   enabling-authority     the statutory name, read off the body's enabling authority by a
-#                          human. The row must carry an authority in one of AUTHORITY_FORMS
+#                          human or by an agent's quote-check (ADR 0003's amendment,
+#                          operator decision 2026-10-30): a quote taken from the mirrored
+#                          section and matched word for word on every run, recorded in
+#                          link_enabling_authority.py's QUOTE_CHECKS. The row must carry an
+#                          authority in one of AUTHORITY_FORMS
 #                          to support the claim (`statutory-name-basis`), and the name is
 #                          written by link_enabling_authority.py from its reviewed table —
 #                          the same single writer the authority itself has (#175).
@@ -293,7 +297,10 @@ FIELDS = {
     # and all of which a consumer reading the slug would have to invent. `parent_chapter`
     # is NOT that pointer written again: it is the CHAPTER the rules index files the parent
     # under, scraped from the same tree, and `parent-agrees` states that it may not
-    # disagree with the body the row's relations name.
+    # disagree with the body the row's relations name. A row the index does not carry
+    # (`absent_from_index_as_of`) is never in that tree, so nothing scrapes its chapter and
+    # it is null: the placement rests on the relation alone (`placement_witnesses` counts
+    # those), and a chapter typed onto such a row by hand is a value no writer regenerates.
     "parent_chapter": Field(SCRAPED, required=True),
     # THE RELATIONS (CONTEXT.md), and since #174 the ONLY statement this registry makes
     # about which body another sits under: a target, the source whose evidence places it
@@ -398,7 +405,8 @@ FIELDS = {
     #
     # CURATED because nothing upstream produces it: the OAR index publishes chapter
     # assignments, and no chapter page states what statute created the body it belongs to.
-    # The single writer is src/link_enabling_authority.py, driven by the hand-reviewed
+    # The single writer is src/link_enabling_authority.py, driven by the reviewed (by a human,
+    # or by an agent's word-for-word quote-check, ADR 0003's amendment)
     # MAPPED/UNMAPPED tables in that file — the same shape `das_agency_number` has, for the
     # same reason (#175): two writers of one field is drift nothing reports.
     #
@@ -465,6 +473,13 @@ CHAPTER_PAGE_COUNT_RE = re.compile(r"re-fetches (?:all )?([\d,]+) chapter pages"
 # somewhere in the note; `note-agrees-with-refresh` only proves the committed note matches
 # `REGISTRY_NOTE`, which can be wrong the same way and was — neither reads a number.
 NOTE_CHAPTERLESS_RE = re.compile(r"null on (\d+) of the (\d+) chapterless")
+# AND THE NOTE'S "It marks N rows today, including M (chapters ...) that DO carry an oar_chapter"
+# (F12 of the statute re-validation's review): a commit message said `note-numbers-current` held
+# that figure, and it held only the chapterless one -- "sixty" was a hand-typed count nothing read,
+# next to a hand-typed list of fourteen chapters. Digits, so it can be read, and the chapters are
+# checked against the rows that carry both `absent_from_index_as_of` and an `oar_chapter`.
+NOTE_ABSENT_RE = re.compile(
+    r"It marks (\d+) rows today, including (\d+) \(chapters ([0-9, ]*)\) that DO carry")
 
 
 def _default_chapter_page_docs():
@@ -493,7 +508,9 @@ REGISTRY_NOTE = (
     "assignment lives with the SoS Administrative Rules Unit). The names "
     "the scrape produces come from each chapter page's own title; the index tree "
     "provides the parent/sub-unit hierarchy, recorded in `relations` "
-    "(ADR 0004) with parent_chapter beside it. "
+    "(ADR 0004) with parent_chapter beside it: the OAR chapter of that "
+    "parent, scraped from the same tree, so null for a body the index does "
+    "not carry and for a body two sources place under two parents. "
     "Third registry source: a data.oregon.gov dataset and the SoS Blue "
     "Book directory were both previously used and dropped after review "
     "(2026-07-18/19). validate_frontmatter.py requires every content "
@@ -501,8 +518,20 @@ REGISTRY_NOTE = (
     "slug here. THREE NAME FIELDS, WHICH ARE THREE DIFFERENT STRINGS. name "
     "is the STATUTORY name (ADR 0003) — the name the body's enabling "
     "authority gives it — and name_basis, on every row, says whether this "
-    "row actually holds one: enabling-authority means a human read the "
-    "body's enabling authority and recorded what it calls the body, and "
+    "row actually holds one: enabling-authority means the body's enabling "
+    "authority was read and what it calls the body recorded, either by a "
+    "human or by an agent, and the two are told apart by where the record "
+    "lives (operator decision 2026-10-30, ADR 0003's amendment). A human's "
+    "record is in the field's own text where the field has any (a `none: ` "
+    "reason says who reviewed it and when) and otherwise in the comments of "
+    "the table in src/link_enabling_authority.py that holds the row. An "
+    "agent's is a quote of the section, taken from this corpus's own ORS "
+    "mirror or Constitution mirror and matched word for word against that "
+    "section's `## Full text` on every run, recorded with the section id in "
+    "that file's QUOTE_CHECKS; a row an agent reviewed has no other record, "
+    "and a quote on a row a human reviewed is additional evidence, never its "
+    "review. --check counts the two kinds of review separately. The other "
+    "basis, "
     "unverified-oar-title means nobody has established a statutory name and "
     "name still holds the OAR chapter title it was scraped with, unchanged "
     "(#168). The two are never the same state, and --check reports both "
@@ -549,7 +578,11 @@ REGISTRY_NOTE = (
     "rides along. A body may hold more than "
     "one relation, because the OAR index, DAS and statute may place it under "
     "different parents and the disagreement is kept rather than reconciled "
-    "(ADR 0003). MIXED ORIGIN, which is why the field is neither scraped nor "
+    "(ADR 0003). A placement sourced `statute` is one a mirrored ORS section "
+    "states, and the quote that states it, which names the parent the "
+    "relation targets, is recorded in "
+    "src/link_enabling_authority.py's QUOTE_CHECKS. MIXED ORIGIN, which is why "
+    "the field is neither scraped nor "
     "curated: entries whose source is oar-index are REGENERATED by --refresh "
     "from the index tree, so an upstream re-filing reaches this file, and "
     "every other entry is carried across untouched. A body's placement is "
@@ -569,30 +602,45 @@ REGISTRY_NOTE = (
     "onto a MANUAL_ENTRIES row it adds, refusing outright if no observation "
     "has ever been recorded. It stays null until one of those two has run, "
     "which CONTEXT.md's overriding rule requires: 'could not "
-    "check' is never reported as 'is not there'. It marks twenty-six rows "
-    "today, including fourteen (chapters 111, 180, 265, 404, 419, 648, 699, "
+    "check' is never reported as 'is not there'. It marks 60 rows "
+    "today, including 14 (chapters 111, 180, 265, 404, 419, 648, 699, "
     "750, 800, 816, 831, 925, 944, 950) that DO carry an oar_chapter -- "
     "a mirror gap, not a chapterless body. `manual`, its predecessor, is "
     "retired (#169): no row may carry it, whether or not this field does. "
     "enabling_authority, where present, is what created the body "
     "— an ORS citation, a constitutional article, or an executive order (ADR "
-    "0003) — or `none: ` and the reason there is none. It is hand-reviewed "
-    "(src/link_enabling_authority.py), is NOT scraped, and is preserved "
-    "across --refresh. An ABSENT enabling_authority means nobody has reviewed "
-    "this body yet; it never means the body has no enabling authority, which "
-    "is what the `none: ` form says and says with a reason. "
+    "0003) — or `none: ` and the reason there is none. It is reviewed "
+    "(src/link_enabling_authority.py) by a human or by an agent, each "
+    "recorded where the name_basis sentence above says (ADR "
+    "0003's amendment), is NOT scraped, and is preserved "
+    "across --refresh. An ABSENT enabling_authority means no authority is "
+    "recorded: nobody has looked at this body yet, or somebody looked and "
+    "found no section the registry can record (src/link_enabling_authority.py's "
+    "LOOKED_AT says which, and why); it never means the body has no enabling "
+    "authority, which is what the `none: ` form says and says with a reason. "
     "oar_chapter is the OAR chapter this body's rules are filed under, "
     "scraped from the index tree; null on the chapterless rows is not a "
     "gap — a body is in this registry because it EXISTS, not because it "
     "issues rules. source_url is the chapter page each row was scraped "
-    "from, where the scrape found one: null on 11 of the 15 chapterless "
+    "from, where the scrape found one: null on 45 of the 49 chapterless "
     "rows, not all of them — the other four hold a source_url that is "
     "not a chapter page (three hold the mirror's own rules index, "
     "https://oregon.public.law/rules, and the saif-corporation "
     "row holds its own site). aliases, where present, are other "
     "names the same body is known by, including former names after a "
-    "rename — hand-reviewed once, curated, and preserved across "
-    "--refresh. note is scrape-only (#178): cmd_refresh() writes one of "
+    "rename — reviewed once, curated, and preserved across "
+    "--refresh. The OAR title a promoted statutory name replaced is one: name "
+    "was that title until the row's name_basis became enabling-authority, "
+    "oar_name still records it, and it is kept as an alias (written by "
+    "src/link_budget_codes.py from the row's own oar_name, so the evidence is "
+    "the row itself and nothing is typed twice); an alias equal to the row's "
+    "own name is refused. An acronym (any single token with two or more "
+    "capitals, dotted and hyphenated ones too) enters only with a quote from "
+    "a corpus document that pairs it with the body's name, recorded with that "
+    "document's id in src/link_budget_codes.py's ALIAS_EVIDENCE and matched "
+    "word for word inside that document's `## Full text` on every run, and is "
+    "not recorded at all when any corpus document pairs it with another body "
+    "(SHARED_ACRONYMS there). note is scrape-only (#178): cmd_refresh() writes one of "
     "exactly three sentences into it, when a chapter page's title will "
     "not parse, its fetch fails, or a chapterless group's children "
     "disagree on a name prefix, and nothing else may live there, "
@@ -705,17 +753,20 @@ RELATION_KINDS = (UNDETERMINED, PART_OF, ADMINISTERED_BY)
 #                                 the strength of a proposal — and the row upgrades visibly
 #                                 when the candidate is reviewed.
 #   reviewed-enabling-authority   the authority the registry row itself carries, written by
-#                                 link_enabling_authority.py from its hand-reviewed table.
+#                                 link_enabling_authority.py from its reviewed table (a human's
+#                                 reading, or an agent's quote-check matched word for word).
 #                                 This is the basis ADR 0004 describes.
-#   reviewed-absence              `enabling_authority` records `none: <reason>` — A HUMAN
-#                                 LOOKED and found nothing separately constitutes this body.
+#   reviewed-absence              `enabling_authority` records `none: <reason>` — A REVIEWER
+#                                 LOOKED (a human; or an agent, whose quotation of the
+#                                 section shows the unit is internal structure, ADR 0003's
+#                                 amendment) and found nothing separately constitutes it.
 #                                 That is ADR 0004's own description of *part of*, and unlike
 #                                 the other two bases it decides the OTHER kind: nothing to
 #                                 cite, so the relation carries no `authority` (#222 — the
 #                                 second derivation #173 deliberately left untaken, because
 #                                 the ABSENCE of a candidate is a statement about the matcher
 #                                 and not about the body, and must never be confused with a
-#                                 human having looked and found none).
+#                                 reviewer having looked and found none).
 #
 # ALLOWLIST, NOT BLOCKLIST, as everywhere else in this module. A basis this registry has no
 # meaning for is a provenance nobody can act on, and it is indistinguishable from a typo in
@@ -919,10 +970,13 @@ def relation_entries(org) -> list:
 # files a body under, when statute places it elsewhere, is a wrong number rather than a
 # crash — and nothing downstream would ever say which reading produced it.
 #
-# No committed row is in that state today: 81 children carry exactly one relation each and
-# 108 carry none, so every walk below returns exactly what the retired pointer returned.
-# That is the point — the decision is made now, in the open, rather than the first time two
-# sources disagree.
+# No committed row is in that state today. Eight carry two placements (the Health Licensing
+# Office's boards: the index files them under the Oregon Health Authority, a statute under the
+# Office, which is itself under the Authority) and those are a CHAIN, which `sole_parent` tells
+# from a disagreement and places under the nearer parent; every other body that holds a
+# placement holds one the rollups follow, and a statute placement with no other source beside
+# it is recorded and not climbed (`rollup_targets`). The decision is made in the open, and
+# `--selftest` is where the disagreeing branches are watched running.
 
 # Why a walk stopped, so a caller can tell "this body is a root" from "this registry cannot
 # say what this body's root is". A rollup that reported the two alike would publish a
@@ -964,17 +1018,73 @@ def parent_targets(org) -> list:
     return out
 
 
-def sole_parent(org) -> Placement:
+def rollup_targets(org) -> list:
+    """Every DISTINCT body a ROLLUP follows this row up to: the bodies the OAR index and the
+    registry place it under, and the bodies a statute places it under ONLY WHERE another source
+    places it beside them.
+
+    WHICH PLACEMENTS THE VIEWS USE, stated once. `build_policy_gap.py` credits rule counts to a
+    root agency and `build_agency_graph.py` colours a node by its department, so a placement a
+    view climbs moves a published number. They follow the placements where the rules are filed
+    (the index's, and the registry's for a body the index does not carry) and let a statute
+    placement REFINE one of those: a board the index files under the Oregon Health Authority and
+    a statute places under the Health Licensing Office is under the Office, which is under the
+    Authority. A statute placement with no other source beside it -- a department under the
+    commission that governs it, the Department of Environmental Quality under the Environmental
+    Quality Commission -- is recorded in `relations` and is NOT climbed: following it would move
+    the department's rules to the commission above it, a change to a published total that is the
+    owner's to decide and not a side effect of recording what a section says. `parent_targets()`
+    is the whole record; this is what the rollups act on."""
+    entries = [e for e in relation_entries(org) if isinstance(e, dict)]
+    if all(e.get("source") == "statute" for e in entries):
+        return []
+    out = []
+    for entry in entries:
+        target = entry.get("target")
+        if isinstance(target, str) and target and target not in out:
+            out.append(target)
+    return out
+
+
+def _rollup_ancestors(slug, by_slug) -> set:
+    """Every body the rollups would climb to from `slug`, following EVERY rollup target and not
+    one of them. Loop-safe: a body is visited once."""
+    seen, stack = set(), [slug]
+    while stack:
+        org = by_slug.get(stack.pop())
+        for target in rollup_targets(org) if org else []:
+            if target not in seen:
+                seen.add(target)
+                stack.append(target)
+    return seen
+
+
+def sole_parent(org, by_slug=None) -> Placement:
     """The ONE body this registry places `org` under, for a consumer that can hold only one.
 
     THE REFUSE-TO-PICK DECISION, WRITTEN ONCE. Both rollups need it — `build_agency_graph.py`
     groups a sub-unit with its department one hop up, `root_body()` below walks the same step
     repeatedly — and a second spelling of "what do I do with two parents" is a second answer
     that can differ from this one. It is the same reason the walk itself is here rather than
-    in either consumer."""
-    targets = parent_targets(org)
+    in either consumer.
+
+    TWO PARENTS ARE A DISAGREEMENT ONLY IF THEY ARE NOT A CHAIN. With `by_slug`, the registry
+    to walk, a body whose rollup targets include one that is an ancestor of another is placed
+    under the NEAREST one: the index files a Health Licensing Office board under the Oregon
+    Health Authority, a statute places it under the Office, and the Office is under the
+    Authority -- both readings agree at the root, and calling that a disagreement dropped the
+    eight boards from the Authority's totals. Without `by_slug` a chain cannot be seen, and two
+    targets stay a disagreement (the conservative answer, and the only one a caller with no
+    registry can give)."""
+    targets = rollup_targets(org)
     if len(targets) == 1:
         return Placement(targets[0], None)
+    if len(targets) > 1 and by_slug is not None:
+        ancestors = {t: _rollup_ancestors(t, by_slug) for t in targets}
+        nearest = [t for t in targets
+                   if all(o == t or o in ancestors[t] for o in targets)]
+        if len(nearest) == 1:
+            return Placement(nearest[0], None)
     return Placement(None, SOURCES_DISAGREE if targets else None)
 
 
@@ -995,7 +1105,7 @@ def root_body(slug, by_slug) -> Rollup:
         org = by_slug.get(slug)
         if org is None:
             return Rollup(slug, OFF_THE_REGISTRY)
-        step = sole_parent(org)
+        step = sole_parent(org, by_slug)
         if step.cannot_say:
             return Rollup(slug, step.cannot_say)
         if step.parent is None:
@@ -1131,12 +1241,15 @@ AUTHORITY_FORMS = (
 # than as a null, because a null and an absent key are read alike by every consumer, and the
 # claims are opposite:
 #
-#   key absent                       nobody has looked yet
+#   key absent                       no authority is recorded: nobody has looked yet, OR
+#                                    someone looked and found no section the registry can
+#                                    record (link_enabling_authority.py's LOOKED_AT says
+#                                    which, and why)
 #   `ORS 576.062` / `Or. Const. …`   an authority is recorded
 #   `none: <reason>`                 someone looked, and this is what they found
 #
-# So a falsy value means exactly one thing here — nobody has looked — and every other state
-# is a non-empty string that says which it is. A bare null is refused by
+# So a falsy value means exactly one thing here — no authority is recorded — and every other
+# state is a non-empty string that says which it is. A bare null is refused by
 # `enabling-authority-form`, because it is an assertion of absence with nobody behind it.
 NO_AUTHORITY = "none: "
 
@@ -1203,7 +1316,7 @@ def has_admitting_evidence(o) -> bool:
     #169 retires the flag everywhere this function returns True.
 
     A REVIEWED ABSENCE (`none: <reason>`) DOES NOT COUNT. `enabling_authority` carrying
-    `none: ...` is a human's recorded finding that no separate authority exists — real
+    `none: ...` is a reviewer's recorded finding that no separate authority exists — real
     evidence for ADR 0004's *part of* (#222; see REVIEWED_ABSENCE in
     derive_relation_kinds.py) — but it is the opposite of admitting evidence, not a second
     form of it: nothing here reads a reviewed absence of one kind of evidence as the
@@ -1297,7 +1410,9 @@ def evidence_census(orgs) -> str:
 
 def authority_counts(orgs) -> dict:
     """The measurement `authority_census` formats -- the three states of `enabling_authority`,
-    counted over registry ROWS (#306). ONE MEASUREMENT, TWO READERS: this dict is what
+    counted over registry ROWS (#306). The third, a missing key, is counted here as what the
+    FILE shows; which of those bodies were searched for and which were not is
+    link_enabling_authority.py's LOOKED_AT, which this module cannot import. ONE MEASUREMENT, TWO READERS: this dict is what
     `authority_census`'s sentence below reads, and it is what `stated_census.py` resolves a
     `census:agencies.authority_*` tag against, so the printed prose and the gated figure can
     never read two different counts of the same file.
@@ -1310,7 +1425,7 @@ def authority_counts(orgs) -> dict:
               if isinstance(o, dict) and "enabling_authority" in o]
     none_recorded = sum(1 for v in values if classify_authority(v)[0] == "reviewed-none")
     return {"recorded": len(values) - none_recorded, "reviewed_none": none_recorded,
-            "not_looked_at": len(orgs) - len(values), "total": len(orgs)}
+            "no_key": len(orgs) - len(values), "total": len(orgs)}
 
 
 def authority_census(orgs) -> str:
@@ -1328,7 +1443,9 @@ def authority_census(orgs) -> str:
     """
     c = authority_counts(orgs)
     return (f"{c['recorded']} recorded, {c['reviewed_none']} reviewed with none to "
-            f"record, {c['not_looked_at']} of {c['total']} bodies not looked at yet")
+            f"record, {c['no_key']} of {c['total']} bodies with no enabling_authority key "
+            "(looked at and not recorded, or not looked at yet: "
+            "link_enabling_authority.py --check tells the two apart)")
 
 
 def tally(counts, allowed) -> str:
@@ -1449,16 +1566,43 @@ def placement_witnesses(orgs) -> str:
 
     So the number is REPORTED rather than left to be discovered. It is not zero and it is not
     a bug: an `oar-index` entry is SCRAPED, so a hand-deletion is rebuilt by the next
-    --refresh from the index tree. What a reader needs to know is how much of the file's
+    --refresh from the index tree (a curated `registry` or `statute` entry is not -- nothing
+    rebuilds it, and the line counts the bodies that hold one). What a reader needs to know
+    is how much of the file's
     hierarchy rests on a single unwitnessed statement, and that is this line (CONTEXT.md:
     "could not check" is never reported as "is not there")."""
+    by_slug = {o["slug"]: o for o in orgs if isinstance(o, dict) and o.get("slug")}
     placed = [o for o in orgs if parent_targets(o)]
     witnessed = [o for o in placed if o.get("parent_chapter") is not None]
+    alone = [o for o in placed if o.get("parent_chapter") is None]
+    # WHY A PLACEMENT HAS NO SECOND WITNESS, told apart and each counted once, in this order:
+    # two sources place the body under two parents, which one chapter cannot state; the
+    # parent holds no chapter to name; the body is one the index does not carry, so no scrape
+    # writes its chapter; anything else (which `parent-agrees` would be reporting).
+    disagreed = [o for o in alone if len(parent_targets(o)) > 1]
+    rest = [o for o in alone if o not in disagreed]
+    parent_without_chapter = [
+        o for o in rest
+        if any((by_slug.get(t) or {}).get("oar_chapter") is None for t in parent_targets(o))]
+    rest = [o for o in rest if o not in parent_without_chapter]
+    not_in_the_index = [o for o in rest if o.get(ABSENT_FROM_INDEX_KEY)]
+    # AND WHAT A DELETED ENTRY COSTS differs by source: an `oar-index` entry is rebuilt by the
+    # next --refresh from the tree, a `registry` or `statute` one is carried across and
+    # rebuilt by nothing.
+    curated = [o for o in alone
+               if any(isinstance(e, dict) and e.get("source") != OAR_INDEX
+                      for e in relation_entries(o))]
     return (f"{len(placed)} body placement(s), {len(witnessed)} of them witnessed a second "
-            f"time by parent_chapter; {len(placed) - len(witnessed)} rest on the relation "
-            "alone, because the parent holds no OAR chapter to witness them with — a "
-            "deleted entry there is rebuilt by the next --refresh and reported by nothing "
-            "in this file")
+            f"time by parent_chapter; {len(alone)} rest on the relation alone "
+            f"({len(disagreed)} because two sources place the body under two parents, "
+            f"which one chapter cannot state; {len(parent_without_chapter)} because the "
+            f"parent holds no OAR chapter to witness them with; {len(not_in_the_index)} "
+            "because the body is not in the index, so no scrape writes its chapter"
+            + (f"; {len(rest) - len(not_in_the_index)} for another reason" 
+               if len(rest) != len(not_in_the_index) else "")
+            + f") — a deleted `oar-index` entry there is rebuilt by the next --refresh, and "
+            f"a deleted curated one ({len(curated)} of these bodies hold one) is rebuilt by "
+            "nothing and reported by nothing in this file")
 
 
 def relation_counts(orgs) -> dict:
@@ -2014,16 +2158,42 @@ def preserve_relations(prev_orgs, by_slug, merged_keys=None):
             current[key] = kept
 
 
+def keep_parent_chapter_null_where_sources_disagree(orgs) -> int:
+    """Null the `parent_chapter` of every row whose relations place it under MORE THAN ONE
+    body. Mutates the rows; returns how many it changed.
+
+    THE SCRAPE WRITES ONE CHAPTER AND `parent-agrees` FORBIDS IT. `parent_chapter` is SCRAPED:
+    the refresh sets it from the index tree, which files a body under exactly one parent. A
+    body the index files under the Health Licensing Office's parent and a statute places
+    under the Office itself holds TWO relations after `preserve_relations()`, and one chapter
+    cannot state a disagreement (`parent-agrees`: whichever it held would publish one source's
+    reading as this registry's). Without this the rule is satisfied on the committed file and
+    broken by the very next real `--refresh`, which writes the index's chapter back — and
+    nothing would have said so until then.
+
+    Run AFTER the relations are merged, in the refresh and in its simulation, so the two
+    cannot disagree about it. It reads `parent_targets()`, the one place that question is
+    answered, and decides nothing about which of the sources is right."""
+    changed = 0
+    for o in orgs:
+        if len(parent_targets(o)) > 1 and o.get("parent_chapter") is not None:
+            o["parent_chapter"] = None
+            changed += 1
+    return changed
+
+
 def preserve_name(prev_orgs, by_slug, per_row_keys=None):
     """Carry across the `name` the refresh does not own, and its basis with it. Mutates the
     rebuilt rows.
 
     PER ROW, NOT PER FIELD, which is what PER_ROW means and why this sits beside
     preserve_curated() and preserve_relations() rather than inside either. The scrape has
-    just rebuilt every row's `name` from the chapter page — which is right for the 185 rows
-    whose `name` IS the chapter title and nothing more, and is a silent overwrite of a
-    reviewed statutory name on the rows where a human read the body's enabling authority and
-    recorded what it calls the body (ADR 0003). Neither whole-field origin is true, so the
+    just rebuilt every row's `name` from the chapter page — which is right for the rows
+    whose `name` IS the chapter title and nothing more (`name_census()`'s
+    `unverified-oar-title` count), and is a silent overwrite of a
+    reviewed statutory name on the rows where the body's enabling authority was read (by a
+    human, or by an agent's word-for-word quote-check, ADR 0003's amendment) and what it
+    calls the body recorded (ADR 0003). Neither whole-field origin is true, so the
     ROW is asked: `name_basis` says which of the two this row's name is.
 
     THE PAIR OR NEITHER. `name` and `name_basis` are one statement in two keys, and carrying
@@ -2370,6 +2540,7 @@ def cmd_refresh():
         preserve_curated(prev_orgs, by_slug)
         preserve_relations(prev_orgs, by_slug)
         preserve_name(prev_orgs, by_slug)
+        keep_parent_chapter_null_where_sources_disagree(orgs)
 
     cat = {
         "note": REGISTRY_NOTE,
@@ -2809,6 +2980,7 @@ def simulate_refresh(prev_orgs, curated_keys=None, merged_keys=None, per_row_key
     preserve_curated(prev_orgs, by_slug, curated_keys)
     preserve_relations(prev_orgs, by_slug, merged_keys)
     preserve_name(prev_orgs, by_slug, per_row_keys)
+    keep_parent_chapter_null_where_sources_disagree(orgs)
     return {o["slug"]: o for o in orgs}
 
 
@@ -3003,6 +3175,23 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None,
                     "update the literal in REGISTRY_NOTE (src/catalog_agencies.py) and "
                     "re-run --refresh so the committed note picks it up"))
 
+    if isinstance(file_note, str):
+        m = NOTE_ABSENT_RE.search(file_note)
+        if m:
+            marked = [o for o in orgs if isinstance(o, dict) and o.get(ABSENT_FROM_INDEX_KEY)]
+            chaptered = sorted(str(o["oar_chapter"]) for o in marked if o.get("oar_chapter"))
+            stated = (int(m.group(1)), int(m.group(2)),
+                      sorted(re.findall(r"\d+[a-z]?", m.group(3))))
+            live = (len(marked), len(chaptered), chaptered)
+            if stated != live:
+                failures.append(Failure(
+                    "note-numbers-current", "agencies.yml",
+                    f"the registry's own top-level `note` states \"It marks {stated[0]} rows "
+                    f"today, including {stated[1]} (chapters {', '.join(stated[2])})\"; the "
+                    f"committed registry has {live[0]} rows carrying `{ABSENT_FROM_INDEX_KEY}`, "
+                    f"{live[1]} of them with an oar_chapter ({', '.join(live[2])}) — update the "
+                    "literal in REGISTRY_NOTE (src/catalog_agencies.py)"))
+
     # HOW MANY CHAPTER PAGES A --refresh FETCHES, AGAINST WHAT TWO OTHER SCRIPTS SAY IT
     # DOES (#279). `expand_oar_name.py` and `record_name_basis.py` both explain, in prose,
     # why they are a one-shot script rather than a --refresh by naming that refresh's
@@ -3171,7 +3360,7 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None,
             form = classify_authority(o.get("enabling_authority"))[0]
             if form is None or form == "reviewed-none":
                 held = ("no enabling_authority at all, which is how this registry says "
-                        "nobody has looked at this body yet"
+                        "no authority is recorded for this body"
                         if "enabling_authority" not in o
                         else f"enabling_authority {o['enabling_authority']!r}")
                 failures.append(Failure(
@@ -3238,9 +3427,10 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None,
     # A FIELD THAT HOLDS ONE CHAPTER CANNOT STATE A DISAGREEMENT. A body may hold more than
     # one relation, because the sources may place it under different parents and ADR 0003
     # keeps that (ADR 0004). There is then no single parent whose chapter this field could
-    # hold, and writing either one publishes one source's reading as the registry's. No
-    # committed row is in that state; the rule says what happens on the day one is, rather
-    # than picking for it.
+    # hold, and writing either one publishes one source's reading as the registry's. Eight
+    # committed rows are in that state (the Health Licensing Office's boards: the index files
+    # them under the Authority, a statute under the Office), and the rule holds their chapter
+    # null rather than picking one of the two.
     by_slug = {o["slug"]: o for _, o in rows if isinstance(o.get("slug"), str)}
     for i, o in rows:
         targets = parent_targets(o)
@@ -3265,6 +3455,15 @@ def check_registry(cat, fields=None, refresh_note=None, chapter_page_docs=None,
         # would tell a reader the chapter is wrong when the placement is.
         parent = by_slug.get(targets[0])
         if parent is not None and chapter != parent.get("oar_chapter"):
+            # A BODY THE INDEX DOES NOT CARRY HAS NO SCRAPED CHAPTER. `parent_chapter` is read
+            # off the index tree (cmd_refresh), a row recorded `absent_from_index_as_of` is by
+            # definition not in that tree, and `_absent_entry()` builds it null; no writer
+            # puts a chapter there, so a null is the honest value and its placement rests on
+            # the relation alone, which `placement_witnesses` reports. A NON-null chapter on
+            # such a row must still agree, and every row the index DOES carry must hold its
+            # parent's chapter -- the exemption is this one pair, not a null.
+            if chapter is None and o.get(ABSENT_FROM_INDEX_KEY):
+                continue
             failures.append(Failure(
                 "parent-agrees", _row_id(o, i),
                 f"parent_chapter {chapter!r} but {targets[0]!r} holds chapter "
@@ -4258,6 +4457,20 @@ def _case_parent_chapter_on_a_body_under_nothing(cat):
     cat["organizations"][1][RELATION_KEY] = []
 
 
+def _case_parent_chapter_null_on_a_body_the_index_carries(cat):
+    """A body the index DOES carry, under a parent that holds a chapter, with no
+    `parent_chapter`. The exemption for a body the index does not carry is that one pair and
+    not a null: a scraped row's chapter is its parent's, and a refresh would write it back."""
+    cat["organizations"][1]["parent_chapter"] = None
+
+
+def _case_parent_chapter_wrong_on_a_body_the_index_does_not_carry(cat):
+    """A chapter typed onto a body the index does not carry, naming one its parent does not
+    hold. Such a row may hold no chapter at all, but one it does hold has to agree."""
+    gov, _das = _adopt_manual_row(cat)
+    gov["parent_chapter"] = "999"
+
+
 def _case_parent_chapter_where_the_sources_disagree(cat):
     """A body two sources place under two different parents, still carrying one
     `parent_chapter`. ADR 0003 keeps that disagreement rather than reconciling it, and one
@@ -4349,6 +4562,14 @@ def _case_note_diverges_from_what_refresh_would_write(cat):
     `note-agrees-with-refresh` — which compares against the fixture's own baseline note
     here, `REGISTRY_NOTE` on a real registry — catches the divergence."""
     cat["note"] += " A sentence cmd_refresh() would never write."
+
+
+def _case_note_absent_count_stale(cat):
+    """The note's "It marks N rows today, including M (chapters ...)" claim, wrong against the
+    fixture's own data: one row (`gov`) carries `absent_from_index_as_of`, and it holds no
+    chapter, so the true sentence would read "marks 1 rows today, including 0 (chapters )". This
+    appends a count and a chapter list the fixture contradicts."""
+    cat["note"] += " It marks 7 rows today, including 1 (chapters 999) that DO carry an x."
 
 
 def _case_note_chapterless_count_stale(cat):
@@ -4462,6 +4683,7 @@ _CASES = [
      "note-agrees-with-refresh"),
     ("note-chapterless-count-stale", _case_note_chapterless_count_stale,
      "note-numbers-current"),
+    ("note-absent-count-stale", _case_note_absent_count_stale, "note-numbers-current"),
     ("row-the-simulation-cannot-run-on", _case_row_the_simulation_cannot_run_on,
      "survives-refresh"),
     ("slug-the-scrape-would-not-produce", _case_slug_the_scrape_would_not_produce,
@@ -4474,6 +4696,10 @@ _CASES = [
     # different chapter, a chapter with no placement behind it at all, and one chapter where
     # the sources name two parents and it can only speak for one of them.
     ("parent-chapter-disagrees", _case_parent_chapter_disagrees, "parent-agrees"),
+    ("parent-chapter-null-on-a-body-the-index-carries",
+     _case_parent_chapter_null_on_a_body_the_index_carries, "parent-agrees"),
+    ("parent-chapter-wrong-on-a-body-the-index-does-not-carry",
+     _case_parent_chapter_wrong_on_a_body_the_index_does_not_carry, "parent-agrees"),
     ("parent-chapter-on-a-body-under-nothing", _case_parent_chapter_on_a_body_under_nothing,
      "parent-agrees"),
     ("parent-chapter-where-the-sources-disagree",
@@ -4984,6 +5210,121 @@ def _proof_the_merge_is_what_carries_a_curated_relation() -> int:
     return bad
 
 
+def _proof_a_refresh_cannot_write_one_chapter_onto_a_body_two_sources_place() -> int:
+    """The scrape sets `parent_chapter` from the index tree; a row a statute ALSO places holds
+    two relations and `parent-agrees` requires the chapter null. The helper both refresh and
+    its simulation run after merging must null exactly that row and leave a single-parent
+    row's chapter alone -- and BOTH CALL SITES have to call it.
+
+    Three things are run, because the helper alone proves nothing about either call site:
+    the helper on rows; `simulate_refresh()` over a registry whose two-parent row holds a stale
+    chapter (the helper is the only thing that can null it there: the simulation copies the
+    committed value); and `cmd_refresh()` ITSELF, against a stubbed network, a throwaway
+    registry and observation file, and a two-chapter synthetic index. Deleting the call in
+    either function leaves the stale chapter standing and fails the matching assertion."""
+    bad = 0
+    two = {"slug": "a", "parent_chapter": "943", RELATION_KEY: [
+        {"target": "p", "source": OAR_INDEX, "kind": UNDETERMINED},
+        {"target": "q", "source": "statute", "kind": UNDETERMINED}]}
+    one = {"slug": "b", "parent_chapter": "943", RELATION_KEY: [
+        {"target": "p", "source": OAR_INDEX, "kind": UNDETERMINED}]}
+    same = {"slug": "c", "parent_chapter": "943", RELATION_KEY: [
+        {"target": "p", "source": OAR_INDEX, "kind": UNDETERMINED},
+        {"target": "p", "source": "statute", "kind": UNDETERMINED}]}
+    changed = keep_parent_chapter_null_where_sources_disagree([two, one, same])
+    if (changed, two["parent_chapter"], one["parent_chapter"], same["parent_chapter"]) != (
+            1, None, "943", "943"):
+        print(f"FAIL refresh-keeps-parent-chapter-null-where-sources-disagree: changed="
+              f"{changed} two={two['parent_chapter']!r} one={one['parent_chapter']!r} "
+              f"same={same['parent_chapter']!r}", file=sys.stderr)
+        bad += 1
+
+    # THE REGISTRY BOTH RUNS START FROM: the fixture's Chief Financial Office sits under the
+    # Department of Administrative Services by the index and, here, under the Office of the
+    # Governor by a statute -- two parents -- and holds a chapter that names one of them.
+    def two_parent_rows():
+        rows = _fixture()["organizations"]
+        by = {o["slug"]: o for o in rows}
+        cfo = by["chief-financial-office"]
+        cfo[RELATION_KEY] = [index_relation("department-of-administrative-services"),
+                             {"target": "office-of-the-governor", "source": "statute",
+                              "kind": ADMINISTERED_BY, "basis": REVIEWED_AUTHORITY,
+                              "authority": "ORS 999.998"}]
+        cfo["parent_chapter"] = "125"
+        return rows
+
+    simulated = simulate_refresh(two_parent_rows())["chief-financial-office"]
+    if simulated["parent_chapter"] is not None:
+        print("FAIL simulate-refresh-nulls-the-chapter-of-a-body-two-sources-place: the "
+              f"simulation left parent_chapter {simulated['parent_chapter']!r}", file=sys.stderr)
+        bad += 1
+
+    index_html = (
+        '<dl>\n<dt class="col-sm-2">125</dt>\n<dd class="col-sm-10">'
+        '<a href="/rules/oar_chapter_125">Dept. of Administrative Services</a>\n'
+        '<div class="card quasi-sub-chapter"><dl>\n<dt class="col-sm-2">122</dt>\n'
+        '<dd class="col-sm-10"><a href="/rules/oar_chapter_122">Chief Financial Office</a>'
+        '</dd>\n</dl></div></dd>\n</dl>')
+    pages = {INDEX_URL: index_html,
+             f"{BASE}/rules/oar_chapter_125":
+                 "<title>OAR Chapter 125 - Department of Administrative Services</title>",
+             f"{BASE}/rules/oar_chapter_122":
+                 "<title>OAR Chapter 122 - Chief Financial Office</title>"}
+    import contextlib
+    import io
+    import tempfile
+    from pathlib import Path
+    here = globals()
+    saved = {k: here[k] for k in ("CATALOG", "INDEX_OBSERVATION", "get")}
+    saved_sleep = time.sleep
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp = Path(tmp)
+        (tmp / "agencies.yml").write_text(yaml.safe_dump(
+            {"note": REGISTRY_NOTE, "source_url": INDEX_URL, "retrieved": "2026-01-01",
+             "organizations": two_parent_rows()}, sort_keys=False, allow_unicode=True,
+            width=100))
+        try:
+            here["CATALOG"] = tmp / "agencies.yml"
+            here["INDEX_OBSERVATION"] = tmp / "observation.yml"
+            here["get"] = lambda url: pages[url]
+            time.sleep = lambda _s: None
+            with contextlib.redirect_stdout(io.StringIO()):
+                cmd_refresh()
+            refreshed = {o["slug"]: o for o in
+                         yaml.safe_load((tmp / "agencies.yml").read_text())["organizations"]}
+        except SystemExit as e:
+            print(f"FAIL refresh-proof-could-not-run: cmd_refresh() exited: {e}",
+                  file=sys.stderr)
+            return bad + 1
+        finally:
+            here.update(saved)
+            time.sleep = saved_sleep
+    cfo = refreshed.get("chief-financial-office") or {}
+    if cfo.get("parent_chapter") is not None or len(parent_targets(cfo)) != 2:
+        print("FAIL refresh-nulls-the-chapter-of-a-body-two-sources-place: after cmd_refresh() "
+              f"the row holds parent_chapter {cfo.get('parent_chapter')!r} over parents "
+              f"{parent_targets(cfo)!r}", file=sys.stderr)
+        bad += 1
+    return bad
+
+
+def _proof_a_body_the_index_does_not_carry_may_hold_no_parent_chapter() -> int:
+    """The other half of `parent-agrees` for a body the index does not carry: placed under a
+    parent that holds a chapter, with `parent_chapter` null, it is NOT a failure -- no scrape
+    produces the chapter of a row that is not in the tree, and a hand-typed one is what this
+    exemption exists to stop needing."""
+    cat = _fixture()
+    gov, _das = _adopt_manual_row(cat)
+    gov["parent_chapter"] = None
+    failures = check_registry(cat, refresh_note=cat["note"],
+                              chapter_page_docs=_FIXTURE_CHAPTER_PAGE_DOCS)
+    if any(f.rule == "parent-agrees" for f in failures):
+        print("FAIL a-body-the-index-does-not-carry-may-hold-no-parent-chapter: "
+              f"{[f for f in failures if f.rule == 'parent-agrees']}", file=sys.stderr)
+        return 1
+    return 0
+
+
 def _proof_the_carry_is_what_keeps_an_established_statutory_name() -> int:
     """An established statutory name survives a refresh, and survives it BECAUSE
     preserve_name() carries it — the carry watched working and watched failing, on one
@@ -4999,8 +5340,8 @@ def _proof_the_carry_is_what_keeps_an_established_statutory_name() -> int:
     row cannot come back saying a rules-index title was read off an authority.
 
     AND THE UNVERIFIED ROW MUST STILL TRACK THE INDEX, which is the fourth. A carry that kept
-    every row's name would freeze 185 rows at whatever the rules index said the day they were
-    scraped, under a basis stating that they hold what the rules index prints — the opposite
+    every row's name would freeze every unverified row at whatever the rules index said the day
+    they were scraped, under a basis stating that they hold what the rules index prints — the opposite
     failure, and the one a whole-field CURATED declaration would produce.
     """
     rows = _fixture()["organizations"]
@@ -5181,8 +5522,24 @@ def _proof_the_walk_says_what_it_cannot_answer() -> int:
     disputed = {"slug": "disputed", RELATION_KEY: [
         index_relation(top), {"target": other, "source": "das", "kind": UNDETERMINED}]}
     loop = {"slug": "loop", RELATION_KEY: [index_relation("loop-back")]}
+    # A CHAIN IS NOT A DISAGREEMENT: the index files a board under the Authority and a statute
+    # under the Office that is itself under the Authority. Both readings agree at the root, and
+    # the nearer one is where the body sits. (The Health Licensing Office's eight boards.)
+    office = {"slug": "licensing-office", RELATION_KEY: [index_relation(top)]}
+    board = {"slug": "licensed-board", RELATION_KEY: [
+        index_relation(top), {"target": "licensing-office", "source": "statute",
+                              "kind": UNDETERMINED}]}
+    # A STATUTE PLACEMENT WITH NO OTHER SOURCE BESIDE IT IS RECORDED AND NOT CLIMBED: a
+    # department under the commission that governs it. The view keeps crediting the department.
+    governed = {"slug": "governed-department", RELATION_KEY: [
+        {"target": other, "source": "statute", "kind": UNDETERMINED}]}
+    # TWO PLACEMENTS THAT FORM NO CHAIN are the disagreement ADR 0003 keeps, statute or not.
+    crossed = {"slug": "crossed", RELATION_KEY: [
+        index_relation(top), {"target": other, "source": "statute", "kind": UNDETERMINED}]}
     reg.update({"agreeing": agreeing, "disputed": disputed, "loop": loop,
-                "loop-back": {"slug": "loop-back", RELATION_KEY: [index_relation("loop")]}})
+                "loop-back": {"slug": "loop-back", RELATION_KEY: [index_relation("loop")]},
+                "licensing-office": office, "licensed-board": board,
+                "governed-department": governed, "crossed": crossed})
 
     expected = [
         ("a body under nothing is at the top", root_body(top, reg), top, AT_THE_TOP),
@@ -5191,6 +5548,12 @@ def _proof_the_walk_says_what_it_cannot_answer() -> int:
          root_body("agreeing", reg), top, AT_THE_TOP),
         ("two sources naming TWO parents are not rolled up",
          root_body("disputed", reg), "disputed", SOURCES_DISAGREE),
+        ("a board filed under the Authority and, by statute, under the Office beneath it "
+         "rolls up to the Authority", root_body("licensed-board", reg), top, AT_THE_TOP),
+        ("a statute placement with no other source beside it is not climbed",
+         root_body("governed-department", reg), "governed-department", AT_THE_TOP),
+        ("a statute placement that forms no chain with the index's is a disagreement",
+         root_body("crossed", reg), "crossed", SOURCES_DISAGREE),
         ("a cycle stops rather than hanging", root_body("loop", reg), "loop-back",
          PLACED_IN_A_LOOP),
         ("a slug this registry does not carry rolls up to itself",
@@ -5210,6 +5573,18 @@ def _proof_the_walk_says_what_it_cannot_answer() -> int:
                              Placement(None, None))):
         if sole_parent(org) != want:
             print(f"FAIL sole-parent {name}: {sole_parent(org)!r}, expected {want!r}",
+                  file=sys.stderr)
+            bad += 1
+    # THE CHAIN NEEDS THE REGISTRY TO WALK, so the one-hop answer takes it too: the board's
+    # nearest parent is the Office, not the Authority and not "cannot say".
+    for name, org, want in (("a chain names its nearest parent", board,
+                             Placement("licensing-office", None)),
+                            ("a statute placement alone is no placement", governed,
+                             Placement(None, None)),
+                            ("a placement that forms no chain is refused", crossed,
+                             Placement(None, SOURCES_DISAGREE))):
+        if sole_parent(org, reg) != want:
+            print(f"FAIL sole-parent {name}: {sole_parent(org, reg)!r}, expected {want!r}",
                   file=sys.stderr)
             bad += 1
     return bad
@@ -5640,6 +6015,8 @@ def selftest() -> int:
     bad += _proof_the_merge_carries_a_derived_kind_onto_the_regenerated_entry()
     bad += _proof_the_carry_is_what_keeps_an_established_statutory_name()
     bad += _proof_session_law_form_boundary()
+    bad += _proof_a_refresh_cannot_write_one_chapter_onto_a_body_two_sources_place()
+    bad += _proof_a_body_the_index_does_not_carry_may_hold_no_parent_chapter()
     resolutions = 0
     for proof in (_proof_search_spans_every_name_a_body_is_known_by,
                   _proof_a_promoted_name_loses_no_resolution):

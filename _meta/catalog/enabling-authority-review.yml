@@ -28,47 +28,6 @@ note: 'PROPOSED, NOT DECIDED. Each row is a candidate an automated match produce
   itself before accepting a row.'
 generated_from: the mirrored ORS in statutes/, never fetched
 candidates:
-- slug: board-of-examiners-for-engineering-and-land-surveying
-  name: Board of Examiners for Engineering and Land Surveying
-  tier: 3
-  basis: catchline-subject-no-verb
-  candidate: ORS 672.240
-  catchline: State Board of Examiners for Engineering and Land Surveying; appointment; qualifications;
-    officers
-  text: 672.240 State Board of Examiners for Engineering and Land Surveying; appointment; qualifications;
-    officers. (1) The State Board of Examiners for Engineering and Land Surveying shall operate as a semi-independent
-    state agency subject to ORS 182.
-  verdict: ''
-- slug: board-of-geologist-examiners
-  name: Board of Geologist Examiners
-  tier: 3
-  basis: catchline-subject-no-verb
-  candidate: ORS 672.615
-  catchline: State Board of Geologist Examiners; members; powers
-  text: 672.615 State Board of Geologist Examiners; members; powers. (1) The State Board of Geologist
-    Examiners shall operate as a semi-independent state agency subject to ORS 182.456 to 182.472 for the
-    purpose of carrying out ORS 672.
-  verdict: ''
-- slug: board-of-massage-therapists
-  name: Board of Massage Therapists
-  tier: 3
-  basis: catchline-subject-no-verb
-  candidate: ORS 687.115
-  catchline: State Board of Massage Therapists; members; appointment; terms; meetings; compensation; administrator
-  text: 687.115 State Board of Massage Therapists; members; appointment; terms; meetings; compensation;
-    administrator. (1) The State Board of Massage Therapists operates as a semi-independent state agency
-    subject to ORS 182.456 to 182.
-  verdict: ''
-- slug: board-of-optometry
-  name: Board of Optometry
-  tier: 3
-  basis: catchline-subject-no-verb
-  candidate: ORS 683.250
-  catchline: Oregon Board of Optometry; qualification and terms of members; quorum
-  text: 683.250 Oregon Board of Optometry; qualification and terms of members; quorum. (1) The Oregon
-    Board of Optometry operates as a semi-independent state agency subject to ORS 182.456 to 182.472,
-    for the purpose of carrying out this chapter.
-  verdict: ''
 - slug: department-of-human-services-vocational-rehabilitation-services
   name: Department of Human Services, Vocational Rehabilitation Services
   tier: 3
@@ -86,16 +45,6 @@ candidates:
     persons with visual impairments, in whatever manner may seem advisable to the commission, in disposing
     of the products of their industries.
   verdict: ''
-- slug: department-of-justice
-  name: Department of Justice
-  tier: 2
-  basis: catchline-contains
-  candidate: ORS 25.020
-  catchline: When support payment to be made to Department of Justice; collection agency services; duties
-    of department; credit for payments not made to department; rules
-  text: (2) An overpayment in favor of the state is created when the Department of Justice, under ORS
-    25.
-  verdict: ''
 - slug: department-of-state-lands-south-slough-national-estuarine-research-reserve
   name: Department of State Lands, South Slough National Estuarine Research Reserve
   tier: 2
@@ -103,79 +52,6 @@ candidates:
   candidate: ORS 273.554
   catchline: South Slough National Estuarine Research Reserve Management Commission; powers; rules; fees
   text: 553, there is created the South Slough National Estuarine Research Reserve Management Commission.
-  verdict: ''
-- slug: employment-relations-board
-  name: Employment Relations Board
-  tier: 3
-  basis: catchline-subject-no-verb
-  candidate: ORS 240.060
-  catchline: Employment Relations Board; qualification of members; outside activities
-  text: 240.060 Employment Relations Board; qualification of members; outside activities. (1) The Civil
-    Service Commission that has functioned under this chapter shall be continued as a board of three members
-    to be known as the Employment Relations Board.
-  verdict: ''
-- slug: landscape-architect-board
-  name: Landscape Architect Board
-  tier: 3
-  basis: catchline-subject-no-verb
-  candidate: ORS 671.459
-  catchline: State Landscape Architect Board; members; chair; term LANDSCAPE CONSTRUCTION PROFESSIONALS
-    AND LANDSCAPE CONTRACTING BUSINESSES (Generally)
-  text: 671.459 State Landscape Architect Board; members; chair; term. (1) The State Landscape Architect
-    Board shall operate as a semi-independent state agency subject to ORS 182.456 to 182.472 for the purpose
-    of carrying out ORS 671.
-  verdict: ''
-- slug: landscape-contractors-board
-  name: Landscape Contractors Board
-  tier: 3
-  basis: catchline-subject-no-verb
-  candidate: ORS 671.630
-  catchline: State Landscape Contractors Board; members
-  text: 671.630 State Landscape Contractors Board; members. The State Landscape Contractors Board shall
-    operate as a semi-independent state agency subject to ORS 182.456 to 182.472 for purposes of carrying
-    out the provisions of ORS 671.
-  verdict: ''
-- slug: oregon-board-of-dentistry
-  name: Oregon Board of Dentistry
-  tier: 3
-  basis: catchline-subject-no-verb
-  candidate: ORS 679.230
-  catchline: Oregon Board of Dentistry; appointment; qualifications; confirmation; compensation and expenses
-  text: 679.230 Oregon Board of Dentistry; appointment; qualifications; confirmation; compensation and
-    expenses. (1) The Oregon Board of Dentistry consists of 10 members appointed by the Governor and subject
-    to confirmation by the Senate in the manner provided in ORS 171.
-  verdict: ''
-- slug: oregon-board-of-physical-therapy
-  name: Oregon Board of Physical Therapy
-  tier: 3
-  basis: catchline-subject-no-verb
-  candidate: ORS 688.160
-  catchline: Oregon Board of Physical Therapy; qualifications; terms; vacancies; duties; rules; fees;
-    meetings; executive director
-  text: 688.160 Oregon Board of Physical Therapy; qualifications; terms; vacancies; duties; rules; fees;
-    meetings; executive director. (1) The Oregon Board of Physical Therapy operates as a semi-independent
-    state agency subject to ORS 182.
-  verdict: ''
-- slug: oregon-health-authority-health-licensing-office
-  name: Oregon Health Authority, Health Licensing Office
-  tier: 2
-  basis: catchline-contains
-  candidate: ORS 676.560
-  catchline: Purpose of Health Licensing Office
-  text: (1) To provide for the more effective coordination of administrative and regulatory functions
-    of certain health boards, councils and programs involved in protecting the public through the licensing
-    and regulation of health-related professions and occupations practiced in this state under a uniform
-    mission and uniform goals, the Health Licensing Office is created within the Oregon Health Authority.
-  verdict: ''
-- slug: oregon-medical-board
-  name: Oregon Medical Board
-  tier: 3
-  basis: catchline-subject-no-verb
-  candidate: ORS 677.235
-  catchline: Oregon Medical Board; membership; confirmation; terms; vacancies; compensation
-  text: 677.235 Oregon Medical Board; membership; confirmation; terms; vacancies; compensation. (1) The
-    Oregon Medical Board consists of 14 members appointed by the Governor and subject to confirmation
-    by the Senate in the manner provided in ORS 171.
   verdict: ''
 - slug: oregon-state-library
   name: Oregon State Library
@@ -193,122 +69,30 @@ candidates:
   catchline: Oregon State Lottery Commission; members; duties; meetings
   text: (1) The Oregon State Lottery Commission is hereby created in state government.
   verdict: ''
-- slug: state-board-of-architect-examiners
-  name: State Board of Architect Examiners
-  tier: 3
-  basis: catchline-subject-no-verb
-  candidate: ORS 671.120
-  catchline: State Board of Architect Examiners; members; term; chair
-  text: 671.120 State Board of Architect Examiners; members; term; chair. The State Board of Architect
-    Examiners shall operate as a semi-independent state agency subject to ORS 182.456 to 182.472 for the
-    purpose of carrying out ORS 671.
-  verdict: ''
 no_candidate:
-- slug: board-of-pharmacy
-  name: Board of Pharmacy
 - slug: chief-education-office
   name: Chief Education Office
-- slug: columbia-river-gorge-commission
-  name: Columbia River Gorge Commission
-- slug: department-of-administrative-services-chief-financial-office
-  name: Department of Administrative Services, Chief Financial Office
-- slug: department-of-administrative-services-chief-human-resources-office
-  name: Department of Administrative Services, Chief Human Resources Office
-- slug: department-of-administrative-services-office-of-the-state-chief-information-officer
-  name: Department of Administrative Services, Office of the State Chief Information Officer
-- slug: department-of-agriculture-oregon-alfalfa-seed-commission
-  name: Department of Agriculture, Oregon Alfalfa Seed Commission
-- slug: department-of-consumer-and-business-services-building-codes-division
-  name: Department of Consumer and Business Services, Building Codes Division
-- slug: department-of-consumer-and-business-services-director-s-office
-  name: Department of Consumer and Business Services, Director's Office
-- slug: department-of-consumer-and-business-services-finance-and-securities-regulation
-  name: Department of Consumer and Business Services, Finance and Securities Regulation
-- slug: department-of-consumer-and-business-services-health-insurance-marketplace
-  name: Department of Consumer and Business Services, Health Insurance Marketplace
-- slug: department-of-consumer-and-business-services-insurance-regulation
-  name: Department of Consumer and Business Services, Insurance Regulation
-- slug: department-of-consumer-and-business-services-oregon-occupational-safety-and-health-division
-  name: Department of Consumer and Business Services, Oregon Occupational Safety and Health Division
-- slug: department-of-consumer-and-business-services-workers-compensation-division
-  name: Department of Consumer and Business Services, Workers' Compensation Division
-- slug: department-of-forestry
-  name: Department of Forestry
 - slug: department-of-geology-and-mineral-industries
   name: Department of Geology and Mineral Industries
-- slug: department-of-human-services-aging-and-people-with-disabilities-and-developmental-disabilities
-  name: Department of Human Services, Aging and People with Disabilities and Developmental Disabilities
-- slug: department-of-human-services-child-welfare-programs
-  name: Department of Human Services, Child Welfare Programs
-- slug: department-of-human-services-self-sufficiency-programs
-  name: Department of Human Services, Self-Sufficiency Programs
 - slug: department-of-public-safety-standards-and-training
   name: Department of Public Safety Standards and Training
 - slug: department-of-state-police-office-of-state-fire-marshal
   name: Department of State Police, Office of State Fire Marshal
-- slug: department-of-transportation-driver-and-motor-vehicle-services-division
-  name: Department of Transportation, Driver and Motor Vehicle Services Division
-- slug: department-of-transportation-highway-division
-  name: Department of Transportation, Highway Division
-- slug: department-of-transportation-motor-carrier-transportation-division
-  name: Department of Transportation, Motor Carrier Transportation Division
-- slug: department-of-transportation-public-transit-division
-  name: Department of Transportation, Public Transit Division
-- slug: department-of-transportation-rail-division
-  name: Department of Transportation, Rail Division
-- slug: department-of-transportation-transportation-safety-division
-  name: Department of Transportation, Transportation Safety Division
 - slug: economic-recovery-review-council
   name: Economic Recovery Review Council
-- slug: higher-education-coordinating-commission-office-of-community-colleges-and-workforce-development
-  name: Higher Education Coordinating Commission, Office of Community Colleges and Workforce Development
-- slug: higher-education-coordinating-commission-office-of-degree-authorization
-  name: Higher Education Coordinating Commission, Office of Degree Authorization
 - slug: judicial-department
   name: Judicial Department
-- slug: land-conservation-and-development-department
-  name: Land Conservation and Development Department
 - slug: legislative-counsel-office
   name: Legislative Counsel Office
 - slug: office-of-training-investigations-and-safety
   name: Office of Training, Investigations and Safety
 - slug: oregon-department-of-education-early-learning-division
   name: Oregon Department of Education, Early Learning Division
-- slug: oregon-health-authority-equity-and-inclusion-division
-  name: Oregon Health Authority Equity and Inclusion Division
-- slug: oregon-health-authority-health-systems-division-addiction-services
-  name: 'Oregon Health Authority, Health Systems Division: Addiction Services'
-- slug: oregon-health-authority-health-systems-division-behavioral-health-services
-  name: 'Oregon Health Authority, Health Systems Division: Behavioral Health Services'
-- slug: oregon-health-authority-health-systems-division-medical-assistance-programs
-  name: 'Oregon Health Authority, Health Systems Division: Medical Assistance Programs'
-- slug: oregon-health-authority-public-health-division
-  name: Oregon Health Authority, Public Health Division
-- slug: oregon-liquor-control-commission
-  name: Oregon Liquor Control Commission
+- slug: oregon-health-authority-drug-treatment-and-recovery-services
+  name: Oregon Health Authority, Drug Treatment and Recovery Services
 - slug: oregon-military-department-office-of-emergency-management
   name: Oregon Military Department, Office of Emergency Management
 - slug: oregon-public-employees-retirement-system
   name: Oregon Public Employees Retirement System
 - slug: oregon-state-treasury
   name: Oregon State Treasury
-- slug: oregon-watershed-enhancement-board-oregon-agricultural-heritage-program
-  name: Oregon Watershed Enhancement Board, Oregon Agricultural Heritage Program
-- slug: oregon-youth-authority
-  name: Oregon Youth Authority
-- slug: parks-and-recreation-department
-  name: Parks and Recreation Department
-- slug: secretary-of-state-archives-division
-  name: Secretary of State, Archives Division
-- slug: secretary-of-state-audits-division
-  name: Secretary of State, Audits Division
-- slug: secretary-of-state-business-services-division
-  name: Secretary of State, Business Services Division
-- slug: secretary-of-state-corporation-division
-  name: Secretary of State, Corporation Division
-- slug: secretary-of-state-elections-division
-  name: Secretary of State, Elections Division
-- slug: southern-oregon-university
-  name: Southern Oregon University
-- slug: teacher-standards-and-practices-commission
-  name: Teacher Standards and Practices Commission

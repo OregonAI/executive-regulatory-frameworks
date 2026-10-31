@@ -59,10 +59,26 @@ agency's name, and that tier contains both `Department of State Police establish
 (ORS 181A.015, correct) and `When support payment to be made to Department...` (ORS 25.020,
 a child-support section that is not the Department of Justice's enabling authority).
 
-SO THE MATCHER PROPOSES AND A HUMAN DECIDES. `--propose` emits a review sheet quoting the
+SO THE MATCHER PROPOSES AND A REVIEWER DECIDES. `--propose` emits a review sheet quoting the
 sentence that matched, so review is reading rather than research; it writes nothing to the
-registry. A human moves rows into MAPPED or UNMAPPED below. `--check` then verifies the
+registry. A reviewer moves rows into MAPPED or UNMAPPED below. `--check` then verifies the
 committed table against the mirrored corpus, in CI, from committed data alone.
+
+THE REVIEWER IS A HUMAN, OR AN AGENT WHOSE QUOTE IS MATCHED WORD FOR WORD (operator decision
+2026-10-30, ADR 0003's amendment). Who read a row is the TABLE IT SITS IN (HUMAN_MAPPED and
+AGENT_MAPPED, and the same pair for UNMAPPED and the names), so a row's review stays
+distinguishable: a row in a HUMAN_ table predates the decision and its record is the comments, and
+a quotation beside it in QUOTE_CHECKS is additional evidence, never its review. A row an agent
+reviewed is in QUOTE_CHECKS: the ORS section id and the quotation the agent took from THIS
+CORPUS'S OWN MIRROR of it — never from memory, never from another source — and
+`quote-in-the-cited-text` re-matches every quotation inside that section's own `## Full text` on
+every run, whitespace aside and nothing else, so a mirror that later changes fails loudly
+instead of leaving a review record that no longer describes the text. The agent's review is
+not weaker for being checkable; it is the only review in this file a machine can re-perform.
+What it does NOT cover: an absence. "No section creates this body" is a finding about a
+search, and CONTEXT.md's overriding rule lets a search stand for an absence only when it was
+measured and is cited as such; a body no section was found for stays UNREVIEWED here (no key),
+not `none: `, unless a quoted section shows the unit is internal structure of its parent.
 
 AND THIS FILE IS THE REGISTRY FIELD'S SINGLE WRITER. `--apply` writes MAPPED and UNMAPPED
 into `enabling_authority` on the registry rows, and nothing else writes that key — the same
@@ -93,10 +109,12 @@ about this corpus, and a reviewer has to be told which.
 
 THE THREE STATES, and the reason MAPPED and UNMAPPED are both explicit. A row carrying
 `ORS 576.062` has an authority; a row carrying `none: <reason>` was looked at and has none;
-a row carrying no `enabling_authority` key at all has not been looked at — however many rows
-that is today, which is `authority_census()`'s live count, printed by `catalog_agencies.py
---check` on every run rather than fixed here. Absence is never a claim that a body has no
-enabling authority.
+a row carrying no `enabling_authority` key at all has no authority recorded: nobody has looked,
+or somebody looked and found no section the registry can record (LOOKED_AT, below, is the
+record of that search, and `--check` here counts the two apart) — however many rows that is
+today, which is `authority_census()`'s live count, printed by `catalog_agencies.py --check`
+on every run rather than fixed here. Absence is never a claim that a body has no enabling
+authority.
 
 UNMAPPED IS EXPLICIT, never implied by absence — "we looked and there is no counterpart" and
 "nobody has looked yet" must not be the same state (CONTEXT.md; link_budget_codes.py).
@@ -119,10 +137,13 @@ import tempfile
 import yaml
 
 from catalog_agencies import (ENABLING_AUTHORITY_NAME, NAME_BASIS_KEY, NO_AUTHORITY,
-                              UNVERIFIED_OAR_TITLE, authority_census, classify_authority,
-                              name_census, no_authority_value)
+                              UNVERIFIED_OAR_TITLE, authority_census, authority_counts,
+                              classify_authority, name_census, no_authority_value,
+                              relation_entries)
 from check_rule_ledger import RuleLedger
-from repo_lib import REPO_ROOT
+from repo_lib import MIN_QUOTE_WORDS, REPO_ROOT, orconst_id, quote_in_full_text
+# The relation source an ORS section's own statement of where a body sits is recorded under.
+STATUTE_SOURCE = "statute"
 
 CATALOG = REPO_ROOT / "_meta/catalog/agencies.yml"
 STATUTES = REPO_ROOT / "statutes"
@@ -142,6 +163,13 @@ CHECK_RULES = (
     "statutory-name-slug-in-registry", "statutory-name-is-a-name",
     "statutory-name-has-an-authority", "statutory-name-in-the-cited-text",
     "registry-agrees", "statutory-name-agrees",
+    # an agent's quote-check (ADR 0003's amendment, operator decision 2026-10-30)
+    "quote-slug-in-registry", "quote-has-a-reviewed-row", "quote-is-a-quote",
+    "quote-in-the-cited-text", "statutory-name-in-a-quote", "statute-placement-has-a-quote",
+    # who reviewed what stays distinguishable (ADR 0003's amendment, term 5)
+    "agent-review-has-a-quote", "review-record-is-one-kind",
+    # a body looked at and not recorded is a state of its own (CONTEXT.md's three states)
+    "looked-at-is-unrecorded",
 )
 
 _LEDGER = RuleLedger(CHECK_RULES, __file__)
@@ -168,10 +196,24 @@ class Failure(_LEDGER.Failure):
 
 # ---------------------------------------------------------------- reviewed registry data
 #
-# slug -> authority. EVERY ROW HERE HAS BEEN READ BY A HUMAN against the cited text. Add a
-# row only after reading the section; a row that was pattern-matched and not read belongs in
-# the review sheet, not here.
-MAPPED: dict[str, str] = {
+# slug -> authority. EVERY ROW HERE HAS BEEN READ against the cited text, and WHO READ IT IS
+# THE TABLE IT SITS IN, so a row's review stays distinguishable (ADR 0003's amendment, term 5):
+#
+#   HUMAN_MAPPED  read before the operator's decision of 2026-10-30. The record is the comments
+#                 in this table (a date, who, and the creating sentence). Six rows of the PR
+#                 #452 block were read by the agent that added them and are not yet confirmed
+#                 by the maintainer, as their own comment says; they predate the decision and
+#                 carry no quotation for their authority, so they are here, not in AGENT_MAPPED.
+#   AGENT_MAPPED  read by an agent since: the record is QUOTE_CHECKS below, and `--check`
+#                 fails a row here with no quotation cited to its own section
+#                 (`agent-review-has-a-quote`) and re-matches the quotation word for word
+#                 inside that section's `## Full text` on every run.
+#
+# A quotation on a HUMAN_MAPPED row is ADDITIONAL EVIDENCE, never that row's review: the human
+# record stands, and `--check` counts the two kinds separately. `MAPPED` is the union, the one
+# table everything else reads. Add a row only after reading the section; a row that was
+# pattern-matched and not read belongs in the review sheet, not here.
+HUMAN_MAPPED: dict[str, str] = {
     # READ BY A HUMAN AGAINST THE CITED TEXT, 2026-08-22. Six tier-1 candidates from the
     # #169 review population, each displayed with its creation sentence before acceptance,
     # plus one authority the maintainer supplied. Nothing here was accepted on a tier alone.
@@ -467,6 +509,99 @@ MAPPED: dict[str, str] = {
     "oregon-watershed-enhancement-board-environmental-restoration-council": "ORS 541.861",
 }
 
+# AGENT QUOTE-CHECKED authorities: see the header above HUMAN_MAPPED.
+AGENT_MAPPED: dict[str, str] = {
+    # AGENT QUOTE-CHECKED, 2026-10-30 (operator decision; ADR 0003's amendment). Bodies that were
+    # "not looked at yet", each now the section a quotation in QUOTE_CHECKS (below) shows
+    # creating or constituting it, matched word for word against the mirror by --check.
+    # 12 of them are the tier-3 case this file's docstring describes: the section has no
+    # creation verb and CONSTITUTES the body ("shall operate as a semi-independent state
+    # agency subject to ORS 182.456 to 182.472", "consists of nine members appointed by the
+    # Governor"), and the quotation is what a reader weighs. ERB's section "continues" the
+    # Civil Service Commission "as a board ... to be known as" it, and the Department of
+    # Justice's "constitutes" it; the Columbia River Gorge Commission is created by the
+    # interstate compact ORS 196.150 ratifies.
+    #
+    #
+    # NOT RECORDED: the 17 bodies the same search found no section the registry can record
+    # (a standalone department the statute detached, a COMMISSION or BOARD where the row names the
+    # body, a section that only refers to it) are in LOOKED_AT below, each with the reason. They
+    # keep no `enabling_authority` key, and "no section found" is a finding about a search, not
+    # an absence.
+
+    "board-of-examiners-for-engineering-and-land-surveying": "ORS 672.240",
+    "board-of-geologist-examiners": "ORS 672.615",
+    "board-of-massage-therapists": "ORS 687.115",
+    "board-of-optometry": "ORS 683.250",
+    "board-of-pharmacy": "ORS 689.115",
+    "columbia-river-gorge-commission": "ORS 196.150",
+    "department-of-forestry": "ORS 526.008",
+    "department-of-justice": "ORS 180.210",
+    "employment-relations-board": "ORS 240.060",
+    "land-conservation-and-development-department": "ORS 197.075",
+    "landscape-architect-board": "ORS 671.459",
+    "landscape-contractors-board": "ORS 671.630",
+    "oregon-board-of-dentistry": "ORS 679.230",
+    "oregon-board-of-physical-therapy": "ORS 688.160",
+    "oregon-health-authority-health-licensing-office": "ORS 676.560",
+    "oregon-liquor-control-commission": "ORS 471.705",
+    "oregon-medical-board": "ORS 677.235",
+    "oregon-youth-authority": "ORS 420A.010",
+    "parks-and-recreation-department": "ORS 390.111",
+    "southern-oregon-university": "ORS 352.002",
+    "state-board-of-architect-examiners": "ORS 671.120",
+    "teacher-standards-and-practices-commission": "ORS 342.350",
+    # AGENT QUOTE-CHECKED, 2026-10-30. The bodies a statute creates that the registry did not
+    # carry (they are added by link_budget_codes.py's MANUAL_ENTRIES in this same change).
+    # Each is the section a quotation in QUOTE_CHECKS shows creating or constituting it. The
+    # ones that constitute without a creation verb are the Board on Public Safety Standards
+    # and Training ("The Governor shall appoint a Board ... consisting of 26 members") and the
+    # State Board of Education ("shall consist of"); the four advocacy commissions are created
+    # by a sentence of legislative policy ("is created to work for ..."). THE STATE LAND BOARD
+    # IS THE CONSTITUTION'S: Art. VIII, sec. 5 has the Governor, Secretary of State and State
+    # Treasurer "constitute a State Land Board", and ORS 273.031 only carries that out ("The board
+    # shall carry out the duties prescribed by section 5, Article VIII of the Oregon
+    # Constitution"), so the authority recorded is the section that created the body.
+    "advisory-council-on-hearing-aids": "ORS 694.165",
+    "board-of-athletic-trainers": "ORS 688.705",
+    "board-of-electrologists-and-body-art-practitioners": "ORS 690.401",
+    "board-of-trustees-of-southern-oregon-university": "ORS 352.054",
+    "board-on-public-safety-standards-and-training": "ORS 181A.360",
+    "commission-for-women": "ORS 185.510",
+    "commission-on-asian-and-pacific-islander-affairs": "ORS 185.610",
+    "commission-on-black-affairs": "ORS 185.410",
+    "commission-on-hispanic-affairs": "ORS 185.310",
+    "council-on-optometric-nontopical-formulary": "ORS 683.240",
+    "early-learning-council": "ORS 326.425",
+    "environmental-quality-commission": "ORS 468.010",
+    "land-conservation-and-development-commission": "ORS 197.030",
+    "oregon-agricultural-heritage-commission": "ORS 541.986",
+    "oregon-business-development-commission": "ORS 285A.040",
+    "oregon-cannabis-commission": "ORS 475C.930",
+    "oregon-geographic-information-council": "ORS 276A.503",
+    "oregon-health-policy-board": "ORS 413.006",
+    "oregon-housing-stability-council": "ORS 456.567",
+    "oregon-retirement-savings-board": "ORS 178.200",
+    "oregon-transportation-commission": "ORS 184.612",
+    "residential-ombudsman-and-public-guardianship-advisory-board": "ORS 441.416",
+    "respiratory-therapist-and-polysomnographic-technologist-licensing-board": "ORS 688.820",
+    "sexual-offense-treatment-board": "ORS 675.395",
+    "state-aviation-board": "ORS 835.102",
+    "state-board-of-denture-technology": "ORS 680.556",
+    "state-board-of-education": "ORS 326.021",
+    "state-board-of-forestry": "ORS 526.009",
+    "state-fish-and-wildlife-commission": "ORS 496.090",
+    "state-land-board": "Or. Const. Art. VIII, sec. 5",
+    "state-library-board": "ORS 357.021",
+    "state-parks-and-recreation-commission": "ORS 390.114",
+    "water-resources-commission": "ORS 536.022",
+    "youth-development-council": "ORS 417.847",
+}
+
+# Every authority this file records, whoever read it. A slug in both tables above is a fault
+# `--check` reports (`review-record-is-one-kind`), not a key this union silently resolves.
+MAPPED: dict[str, str] = {**HUMAN_MAPPED, **AGENT_MAPPED}
+
 # slug -> why this body has no enabling authority TO RECORD. A DECISION with a stated reason,
 # never a blank, and never a citation: a body whose authority is a constitutional article
 # HAS one, and belongs in MAPPED above. That is what this example used to be — the Secretary
@@ -474,7 +609,14 @@ MAPPED: dict[str, str] = {
 # true of a field that could only hold statutes and became a false absence the day the field
 # started accepting `Or. Const. Art. VI, sec. 1` (#170). The commonest legitimate reason is
 # ADR 0004's: a `part_of` unit has nothing separate to enable.
-UNMAPPED: dict[str, str] = {
+#
+# WHO READ IT is the table, as for MAPPED above: HUMAN_UNMAPPED is every reviewed absence that
+# predates the 2026-10-30 decision (a human's finding, in the field's own text: "reviewed
+# 2026-09-12 by @morficflux, who found nothing separately constitutes it"); AGENT_UNMAPPED is a
+# reviewed absence an agent wrote from a QUOTED section showing the unit is internal structure
+# of its parent. It is empty, and `--check` fails a row in it with no quotation. A failed
+# search is never an absence (CONTEXT.md): "no creating section found" is not a row here.
+HUMAN_UNMAPPED: dict[str, str] = {
     # THE 33 SUB-UNITS REVIEWED 2026-09-12 (#222). Every one is a division or office whose
     # slug extends its parent's and which carries an OAR chapter but no separate
     # constitution. The operator read them as a set and found nothing separately
@@ -624,6 +766,72 @@ UNMAPPED: dict[str, str] = {
     #      enabling authority to record.",
 }
 
+AGENT_UNMAPPED: dict[str, str] = {}
+
+UNMAPPED: dict[str, str] = {**HUMAN_UNMAPPED, **AGENT_UNMAPPED}
+
+# slug -> WHY NO AUTHORITY IS RECORDED FOR A BODY SOMEONE LOOKED AT. These 17 bodies carry no
+# `enabling_authority` key, as a body nobody has looked at does -- and they are not that: the
+# mirrored ORS was searched for the section that creates each, and what was found either creates
+# something else (the Lottery COMMISSION, the State Library BOARD, the Legislative Counsel
+# COMMITTEE), establishes the body as a standalone department while the OAR index still files
+# it under the parent the statute ended (recording that would derive `administered_by` against
+# an attachment that no longer exists: CONTEXT.md, Undetermined; ADR 0004's amendment), or
+# is not there. "No section found" is a finding about a search and not an absence, so these are
+# NOT `none: ` and they have no key; this table is where the registry says it looked, and
+# `--check` reports them as their own count and not as "not looked at yet". A row here whose
+# key appears, or which no registry row has, fails (`looked-at-is-unrecorded`). Nothing writes
+# this table to the registry: it is the record of a search, kept beside the tables it is not.
+LOOKED_AT: dict[str, str] = {
+    "department-of-state-police-office-of-state-fire-marshal":
+        "ORS 476.020 establishes the Department of the State Fire Marshal as a standalone "
+        "department while the OAR index still files the Office under the State Police; "
+        "recording it as the authority would derive administered_by against the attachment "
+        "the statute ended, and the registry has no kind for 'was part of, now separate'",
+    "oregon-department-of-education-early-learning-division":
+        "ORS 326.430 establishes the Department of Early Learning and Care as a standalone "
+        "department while the OAR index still files the Division under the Department of "
+        "Education; recording it would derive administered_by against the ended attachment",
+    "oregon-military-department-office-of-emergency-management":
+        "ORS 401.052 establishes the Oregon Department of Emergency Management as a "
+        "standalone department while the OAR index still files the Office under the Military "
+        "Department; recording it would derive administered_by against the ended attachment",
+    "oregon-state-lottery":
+        "ORS 461.100 creates the Oregon State Lottery COMMISSION; no section found creates "
+        "the Lottery the row names",
+    "oregon-public-employees-retirement-system":
+        "ORS 238.600 establishes the retirement system, not the board that administers it, "
+        "which is what the row names",
+    "legislative-counsel-office":
+        "ORS 173.111 establishes the Legislative Counsel COMMITTEE (its catchline says "
+        "'office of Legislative Counsel established', and the catchline is not part of the "
+        "law, ORS 174.540); no section found creates the Office. The row stays awaiting review",
+    "oregon-state-library":
+        "ORS 357.021 creates the State Library BOARD; no section found creates the Library",
+    "department-of-state-lands-south-slough-national-estuarine-research-reserve":
+        "ORS 273.554 creates the reserve's Management Commission; the row is the reserve",
+    "department-of-geology-and-mineral-industries":
+        "ORS 516.010 refers to the department 'established pursuant to ORS 516.020', which "
+        "the mirror does not hold, and ORS 516.080 describes a governing board without a name",
+    "department-of-public-safety-standards-and-training":
+        "the sections found (ORS 181A.355, 181A.360, 181A.365) concern the Board on Public "
+        "Safety Standards and Training, not the department",
+    "judicial-department":
+        "ORS 1.002 describes the department; no mirrored section creates it by name",
+    "oregon-state-treasury":
+        "no mirrored section creates the Oregon State Treasury or the Office of the State "
+        "Treasurer",
+    "chief-education-office": "no mirrored ORS section mentions the Chief Education Office",
+    "economic-recovery-review-council":
+        "ORS 197.723 refers to the council; no creating section found",
+    "office-of-training-investigations-and-safety": "no creating section found",
+    "oregon-health-authority-drug-treatment-and-recovery-services":
+        "ORS 430.384, the section the matcher found, is a fund; no creating section found",
+    "department-of-human-services-vocational-rehabilitation-services":
+        "no creating section found (ORS 346.180, which the matcher proposed, is the "
+        "Commission for the Blind's program)",
+}
+
 # ------------------------------------------------------- reviewed statutory names (#168)
 #
 # slug -> THE NAME THE BODY'S ENABLING AUTHORITY GIVES IT. ADR 0003 makes `name` the
@@ -632,21 +840,29 @@ UNMAPPED: dict[str, str] = {
 # reviewer answers while reading the same section. Two tables for one reading would be two
 # places to be wrong.
 #
-# EVERY ROW HERE HAS BEEN READ BY A HUMAN AGAINST THE CITED TEXT, and unlike MAPPED it is
-# also RESOLVED: `statutory-name-in-the-cited-text` below requires the recorded name to
-# appear in the mirrored section MAPPED cites for that body. That is a weaker claim than "the
+# EVERY ROW HERE HAS BEEN READ AGAINST THE CITED TEXT (by a human, or by an agent whose
+# quotation is in QUOTE_CHECKS), and unlike MAPPED it is also RESOLVED:
+# `statutory-name-in-the-cited-text` below requires the recorded name to appear in the
+# mirrored section MAPPED cites for that body. That is a weaker claim than "the
 # statute names the body this" — a section can mention a name it does not confer — and it is
 # the strongest claim a gate can make. What it rules out is the failure that matters: a name
 # nobody read, sitting in `name` under a basis that says an authority gave it.
 #
-# THIS TABLE IS DELIBERATELY SMALL AND EXPECTED TO STAY THAT WAY FOR A WHILE. 114 rows carry a
-# reviewed enabling authority and could have their names read off it (#279, re-measured for
-# #281); five have been. The rest record `unverified-oar-title` and say so on every row, which
-# is the honest state and the whole point of #168 — a registry that quietly promoted 190 OAR
-# titles to statutory names would be 190 false statements about Oregon law, and one that
-# promoted the 114 by pattern-matching would be an unknown number of them. A name that was
-# matched and not read does not belong here, for the reason MAPPED gives about citations.
-STATUTORY_NAMES: dict[str, str] = {
+# THIS TABLE GREW FROM FIVE ROWS TO MOST OF THE ROWS THAT CARRY A REVIEWED AUTHORITY, and the
+# rows it does not reach record `unverified-oar-title` and say so on every row, which is the
+# honest state and the whole point of #168 — a registry that quietly promoted every OAR title
+# to a statutory name would be a false statement about Oregon law per row, and one that
+# promoted them by pattern-matching would be an unknown number of them. The live split is
+# `name_census()`'s, printed by `--check`. A name that was matched and not read does not belong
+# here, for the reason MAPPED gives about citations.
+#
+# WHO READ IT is the table, as for MAPPED above. HUMAN_NAMES are the six read before the
+# 2026-10-30 decision (the record is the comments); AGENT_NAMES were read since, and `--check`
+# fails a name in it that no quotation cited to its own authority prints
+# (`statutory-name-in-a-quote`). `STATUTORY_NAMES` is the union. A name in NEITHER table is an
+# agent's by default and needs the quotation, so a name added to the union alone cannot be
+# passed off as a human's.
+HUMAN_NAMES: dict[str, str] = {
     # READ BY A HUMAN AGAINST THE CITED TEXT, 2026-08-22, EACH WITH THE SENTENCE IT WAS READ
     # OFF. The sentence is quoted here for the reason `--propose` quotes one into the review
     # sheet: it makes the next reader's job reading rather than research, and it is the only
@@ -694,6 +910,1070 @@ STATUTORY_NAMES: dict[str, str] = {
     # constitutional citation against its whole ARTICLE and not the one cited section alone
     # (#220's acceptance criterion; `constitution_article_texts()` below).
     "secretary-of-state": "Secretary of State",
+}
+
+AGENT_NAMES: dict[str, str] = {
+    # AGENT QUOTE-CHECKED, 2026-10-30 (operator decision; ADR 0003's amendment). The name is
+    # the one the cited section PRINTS, as it prints it (the typographic apostrophe included),
+    # and the sentence that prints it is in QUOTE_CHECKS, matched word for word by --check.
+    # Where this is not the OAR title the OAR title stays in `oar_name` and the former
+    # spellings stay findable: the compound `Department of Agriculture, Oregon Albacore
+    # Commission` of the OAR index becomes `Oregon Albacore Commission` (ORS 576.062 lists it
+    # so), the Liquor Control Commission becomes the Liquor and Cannabis Commission, SAIF
+    # Corporation the State Accident Insurance Fund Corporation, and ORS 468.030 names the
+    # Department of Environmental Quality exactly as the index does.
+    #
+    # NOT PROMOTED, AND WHY: the Long Term Care Ombudsman (ORS 441.403 establishes "the office
+    # of the Long Term Care Ombudsman", lower-case, and the registry's title is the officer's),
+    # the Public Records Advocate (ORS 192.461 creates "the office of the Public Records
+    # Advocate", likewise) and the Legislative Commission on Indian Services (the cited
+    # ORS 172.100 is a policy declaration that does not print the name) and the Office of
+    # Public Defense Services (ORS 151.213 establishes the Oregon Public Defense COMMISSION,
+    # not the Office: declined for the reason the Lottery, the State Library and PERS were --
+    # the section creates the commission or board, not the body this row is). Those keep
+    # `unverified-oar-title`. Also not reached: the two bodies recorded on a constitutional
+    # article whose registry title the article does not print as a body's name (Art. V, sec. 1
+    # vests the executive power in "a Governor", not an "Office of the Governor"; Art. VII
+    # (Original), sec. 17 provides for district attorneys, not "District Attorneys and
+    # Deputies"), and the two recorded on an uncodified session law (the Legislative Fiscal
+    # Officer, the Legislative Revenue Office), whose text this corpus does not mirror, so no
+    # quotation can be matched. The Legislative Assembly, which Art. IV, sec. 1 names, is
+    # promoted below.
+    "board-of-examiners-for-engineering-and-land-surveying": "State Board of Examiners for Engineering and Land Surveying",
+    "board-of-geologist-examiners": "State Board of Geologist Examiners",
+    "board-of-massage-therapists": "State Board of Massage Therapists",
+    "board-of-medical-imaging": "Board of Medical Imaging",
+    "board-of-nursing": "Oregon State Board of Nursing",
+    "board-of-optometry": "Oregon Board of Optometry",
+    "board-of-parole-and-post-prison-supervision": "State Board of Parole and Post-Prison Supervision",
+    "board-of-pharmacy": "State Board of Pharmacy",
+    "bureau-of-labor-and-industries": "Bureau of Labor and Industries",
+    "citizens-initiative-review-commission": "Citizens’ Initiative Review Commission",
+    "columbia-river-gorge-commission": "Columbia River Gorge Commission",
+    "commission-for-the-blind": "Commission for the Blind",
+    "commission-on-judicial-fitness-and-disability": "Commission on Judicial Fitness and Disability",
+    "commission-on-statewide-law-enforcement-standards-of-conduct-and-discipline": "Commission on Statewide Law Enforcement Standards of Conduct and Discipline",
+    "construction-contractors-board": "Construction Contractors Board",
+    "department-of-administrative-services": "Oregon Department of Administrative Services",
+    "department-of-agriculture": "State Department of Agriculture",
+    "department-of-agriculture-oregon-albacore-commission": "Oregon Albacore Commission",
+    "department-of-agriculture-oregon-beef-council": "Oregon Beef Council",
+    "department-of-agriculture-oregon-blueberry-commission": "Oregon Blueberry Commission",
+    "department-of-agriculture-oregon-clover-seed-commission": "Oregon Clover Seed Commission",
+    "department-of-agriculture-oregon-dairy-products-commission": "Oregon Dairy Products Commission",
+    "department-of-agriculture-oregon-dungeness-crab-commission": "Oregon Dungeness Crab Commission",
+    "department-of-agriculture-oregon-fine-fescue-commission": "Oregon Fine Fescue Commission",
+    "department-of-agriculture-oregon-hazelnut-commission": "Oregon Hazelnut Commission",
+    "department-of-agriculture-oregon-hop-commission": "Oregon Hop Commission",
+    "department-of-agriculture-oregon-invasive-species-council": "Invasive Species Council",
+    "department-of-agriculture-oregon-mint-commission": "Oregon Mint Commission",
+    "department-of-agriculture-oregon-potato-commission": "Oregon Potato Commission",
+    "department-of-agriculture-oregon-processed-vegetable-commission": "Oregon Processed Vegetable Commission",
+    "department-of-agriculture-oregon-raspberry-and-blackberry-commission": "Oregon Raspberry and Blackberry Commission",
+    "department-of-agriculture-oregon-ryegrass-growers-seed-commission": "Oregon Ryegrass Growers Seed Commission",
+    "department-of-agriculture-oregon-salmon-commission": "Oregon Salmon Commission",
+    "department-of-agriculture-oregon-sheep-commission": "Oregon Sheep Commission",
+    "department-of-agriculture-oregon-strawberry-commission": "Oregon Strawberry Commission",
+    "department-of-agriculture-oregon-sweet-cherry-commission": "Oregon Sweet Cherry Commission",
+    "department-of-agriculture-oregon-tall-fescue-commission": "Oregon Tall Fescue Commission",
+    "department-of-agriculture-oregon-trawl-commission": "Oregon Trawl Commission",
+    "department-of-agriculture-oregon-wheat-commission": "Oregon Wheat Commission",
+    "department-of-consumer-and-business-services": "Department of Consumer and Business Services",
+    "department-of-consumer-and-business-services-prescription-drug-affordability-board": "Prescription Drug Affordability Board",
+    "department-of-consumer-and-business-services-workers-compensation-board": "Workers’ Compensation Board",
+    "department-of-corrections": "Department of Corrections",
+    "department-of-energy": "State Department of Energy",
+    "department-of-energy-energy-facility-siting-council": "Energy Facility Siting Council",
+    "department-of-environmental-quality": "Department of Environmental Quality",
+    "department-of-fish-and-wildlife": "State Department of Fish and Wildlife",
+    "department-of-forestry": "State Forestry Department",
+    "department-of-human-services": "Department of Human Services",
+    "department-of-human-services-home-care-commission": "Home Care Commission",
+    "department-of-justice": "Department of Justice",
+    "department-of-revenue": "Department of Revenue",
+    "department-of-state-lands": "Department of State Lands",
+    "department-of-state-police": "Department of State Police",
+    "department-of-state-police-oregon-state-athletic-commission": "Oregon State Athletic Commission",
+    "department-of-transportation": "Department of Transportation",
+    "department-of-veterans-affairs": "Department of Veterans’ Affairs",
+    "eastern-oregon-border-economic-development-board": "Eastern Oregon Border Economic Development Board",
+    "employment-department": "Employment Department",
+    "employment-relations-board": "Employment Relations Board",
+    "higher-education-coordinating-commission": "Higher Education Coordinating Commission",
+    "higher-education-coordinating-commission-office-of-student-access-and-completion": "Office of Student Access and Completion",
+    "land-conservation-and-development-department": "Department of Land Conservation and Development",
+    "land-use-board-of-appeals": "Land Use Board of Appeals",
+    "landscape-architect-board": "State Landscape Architect Board",
+    "landscape-contractors-board": "State Landscape Contractors Board",
+    "legislative-administration-committee": "Legislative Administration Committee",
+    "legislative-assembly": "Legislative Assembly",
+    "legislative-equity-office": "Legislative Equity Office",
+    "legislative-policy-and-research-committee": "Legislative Policy and Research Committee",
+    "mental-health-regulatory-agency": "Mental Health Regulatory Agency",
+    "mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists": "Oregon Board of Licensed Professional Counselors and Therapists",
+    "mental-health-regulatory-agency-oregon-board-of-psychology": "Oregon Board of Psychology",
+    "mortuary-and-cemetery-board": "State Mortuary and Cemetery Board",
+    "occupational-therapy-licensing-board": "Occupational Therapy Licensing Board",
+    "oregon-529-savings-board": "Oregon 529 Savings Board",
+    "oregon-advocacy-commissions-office": "Oregon Advocacy Commissions Office",
+    "oregon-board-of-accountancy": "Oregon Board of Accountancy",
+    "oregon-board-of-dentistry": "Oregon Board of Dentistry",
+    "oregon-board-of-naturopathic-medicine": "Oregon Board of Naturopathic Medicine",
+    "oregon-board-of-physical-therapy": "Oregon Board of Physical Therapy",
+    "oregon-business-development-department": "Oregon Business Development Department",
+    "oregon-criminal-justice-commission": "Oregon Criminal Justice Commission",
+    "oregon-department-of-aviation": "Oregon Department of Aviation",
+    "oregon-department-of-education": "Department of Education",
+    "oregon-department-of-education-fair-dismissal-appeals-board": "Fair Dismissal Appeals Board",
+    "oregon-department-of-education-youth-development-division": "Youth Development Division",
+    "oregon-facilities-authority": "Oregon Facilities Authority",
+    "oregon-film-and-video-office": "Oregon Film and Video Office",
+    "oregon-forest-resources-institute": "Oregon Forest Resources Institute",
+    "oregon-government-ethics-commission": "Oregon Government Ethics Commission",
+    "oregon-health-authority": "Oregon Health Authority",
+    "oregon-health-authority-health-licensing-office": "Health Licensing Office",
+    "oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board": "Behavior Analysis Regulatory Board",
+    "oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians": "Board of Certified Advanced Estheticians",
+    "oregon-health-authority-health-licensing-office-board-of-cosmetology": "Board of Cosmetology",
+    "oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery": "State Board of Direct Entry Midwifery",
+    "oregon-health-authority-health-licensing-office-board-of-licensed-dietitians": "Board of Licensed Dietitians",
+    "oregon-health-authority-health-licensing-office-environmental-health-registration-board": "Environmental Health Registration Board",
+    "oregon-health-authority-health-licensing-office-long-term-care-administrators-board": "Long Term Care Administrators Board",
+    "oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters": "State Board of Sign Language Interpreters",
+    "oregon-health-authority-health-policy-and-analytics": "Health Policy and Analytics Division",
+    "oregon-health-authority-oregon-educators-benefit-board": "Oregon Educators Benefit Board",
+    "oregon-health-authority-oregon-prescription-drug-program": "Oregon Prescription Drug Program",
+    "oregon-health-authority-public-employees-benefit-board": "Public Employees’ Benefit Board",
+    "oregon-housing-and-community-services-department": "Housing and Community Services Department",
+    "oregon-investment-council": "Oregon Investment Council",
+    "oregon-liquor-control-commission": "Oregon Liquor and Cannabis Commission",
+    "oregon-medical-board": "Oregon Medical Board",
+    "oregon-military-department": "Oregon Military Department",
+    "oregon-patient-safety-commission": "Oregon Patient Safety Commission",
+    "oregon-racing-commission": "Oregon Racing Commission",
+    "oregon-state-marine-board": "State Marine Board",
+    "oregon-tourism-commission": "Oregon Tourism Commission",
+    "oregon-utility-notification-center": "Oregon Utility Notification Center",
+    "oregon-watershed-enhancement-board": "Oregon Watershed Enhancement Board",
+    "oregon-watershed-enhancement-board-environmental-restoration-council": "Environmental Restoration Council",
+    "oregon-wine-board": "Oregon Wine Board",
+    "oregon-youth-authority": "Oregon Youth Authority",
+    "parks-and-recreation-department": "State Parks and Recreation Department",
+    "psychiatric-security-review-board": "Psychiatric Security Review Board",
+    "public-utility-commission": "Public Utility Commission of Oregon",
+    "public-utility-commission-oregon-board-of-maritime-pilots": "Oregon Board of Maritime Pilots",
+    "real-estate-agency": "Real Estate Agency",
+    "saif-corporation": "State Accident Insurance Fund Corporation",
+    "southern-oregon-university": "Southern Oregon University",
+    "state-board-of-architect-examiners": "State Board of Architect Examiners",
+    "state-board-of-tax-practitioners": "State Board of Tax Practitioners",
+    "state-board-of-towing": "State Board of Towing",
+    "teacher-standards-and-practices-commission": "Teacher Standards and Practices Commission",
+    "travel-information-council": "Travel Information Council",
+    "veterinary-medical-examining-board": "Oregon State Veterinary Medical Examining Board",
+    "water-resources-department": "Water Resources Department",
+
+    # AGENT QUOTE-CHECKED, 2026-10-30: the names of the bodies added by MANUAL_ENTRIES (the
+    # registry row starts as `unverified-oar-title` holding this same string, and --apply
+    # promotes it). The sentence that prints each is in QUOTE_CHECKS.
+    "advisory-council-on-hearing-aids": "Advisory Council on Hearing Aids",
+    "board-of-athletic-trainers": "Board of Athletic Trainers",
+    "board-of-electrologists-and-body-art-practitioners": "Board of Electrologists and Body Art Practitioners",
+    "board-of-trustees-of-southern-oregon-university": "Board of Trustees of Southern Oregon University",
+    "board-on-public-safety-standards-and-training": "Board on Public Safety Standards and Training",
+    "commission-for-women": "Commission for Women",
+    "commission-on-asian-and-pacific-islander-affairs": "Commission on Asian and Pacific Islander Affairs",
+    "commission-on-black-affairs": "Commission on Black Affairs",
+    "commission-on-hispanic-affairs": "Commission on Hispanic Affairs",
+    "council-on-optometric-nontopical-formulary": "Council on Optometric Nontopical Formulary",
+    "early-learning-council": "Early Learning Council",
+    "environmental-quality-commission": "Environmental Quality Commission",
+    "land-conservation-and-development-commission": "Land Conservation and Development Commission",
+    "oregon-agricultural-heritage-commission": "Oregon Agricultural Heritage Commission",
+    "oregon-business-development-commission": "Oregon Business Development Commission",
+    "oregon-cannabis-commission": "Oregon Cannabis Commission",
+    "oregon-geographic-information-council": "Oregon Geographic Information Council",
+    "oregon-health-policy-board": "Oregon Health Policy Board",
+    "oregon-housing-stability-council": "Oregon Housing Stability Council",
+    "oregon-retirement-savings-board": "Oregon Retirement Savings Board",
+    "oregon-transportation-commission": "Oregon Transportation Commission",
+    "residential-ombudsman-and-public-guardianship-advisory-board": "Residential Ombudsman and Public Guardianship Advisory Board",
+    "respiratory-therapist-and-polysomnographic-technologist-licensing-board": "Respiratory Therapist and Polysomnographic Technologist Licensing Board",
+    "sexual-offense-treatment-board": "Sexual Offense Treatment Board",
+    "state-aviation-board": "State Aviation Board",
+    "state-board-of-denture-technology": "State Board of Denture Technology",
+    "state-board-of-education": "State Board of Education",
+    "state-board-of-forestry": "State Board of Forestry",
+    "state-fish-and-wildlife-commission": "State Fish and Wildlife Commission",
+    "state-land-board": "State Land Board",
+    "state-library-board": "State Library Board",
+    "state-parks-and-recreation-commission": "State Parks and Recreation Commission",
+    "water-resources-commission": "Water Resources Commission",
+    "youth-development-council": "Youth Development Council",
+}
+
+STATUTORY_NAMES: dict[str, str] = {**HUMAN_NAMES, **AGENT_NAMES}
+
+# The slugs whose review is a human's, as the checks below take them: anything recorded and not
+# listed here is an agent's and has to carry its quotation.
+ByHuman = collections.namedtuple("ByHuman", "authorities absences names")
+BY_HUMAN = ByHuman(frozenset(HUMAN_MAPPED), frozenset(HUMAN_UNMAPPED), frozenset(HUMAN_NAMES))
+
+# ------------------------------------------- agent quote-checks (operator decision 2026-10-30)
+#
+# slug -> [(citation, quotation), ...]. THE REVIEW RECORD OF A ROW AN AGENT READ, in the form a
+# human's record already takes here (the sentence a row was read off, set beside it) but as
+# data, because an agent's reading is only worth counting if a machine can re-perform it. Each
+# pair is a section id and a quotation taken from THIS CORPUS'S OWN MIRROR of that section;
+# `quote-in-the-cited-text` matches it against the mirror word for word (whitespace is the
+# only thing normalised) on every `--check`, so the record fails the day the mirrored text
+# stops saying it.
+#
+# WHAT A QUOTATION HAS TO SHOW depends on what it is attached to, and no rule here can read
+# meaning, so the agent who writes one is answerable for it and a reviewer re-reads it:
+#   MAPPED       the section's own sentence that creates or constitutes the body;
+#   a name       the sentence that PRINTS the name (`statutory-name-in-a-quote` requires the
+#                recorded name to sit inside one of the slug's quotations);
+#   UNMAPPED     the sentence that shows the unit is internal structure of its parent;
+#   a placement  (`source: statute` on the registry row) the sentence that states where the
+#                body sits, from the section the relation cites as its authority, and that
+#                names the relation's target as the body it sits under
+#                (`statute-placement-has-a-quote`).
+# A row with none of those in this table is a row a human reviewed before the 2026-10-30 decision
+# only if it sits in a HUMAN_ table: a row in an AGENT_ table, or in neither, without its
+# quotation FAILS (`agent-review-has-a-quote`, `statutory-name-in-a-quote`).
+#
+# A QUOTATION IS NOT CITABLE TEXT in the sense the mirror is: it is an excerpt, whitespace
+# collapsed, subsection markers dropped. The mirrored section is the text.
+QUOTE_CHECKS: dict[str, list[tuple[str, str]]] = {
+    # THE HEMP COMMISSION (#281) HAS NO ENTRY HERE. Its placement under the Department of
+    # Agriculture was recorded `source: statute` on the strength of ORS 571.406, and the
+    # sentence quoted for it here said only that the Director of Agriculture appoints the
+    # commission's temporary members -- a sentence about who appoints, not one that places the
+    # commission anywhere. No mirrored section states the
+    # placement (ORS 571.404 gives the department duties over the commission; neither it nor
+    # 571.406 says the commission sits under the department), so the relation is `source:
+    # registry` -- OARD's own title for chapter 648, "Department of Agriculture, Oregon Hemp
+    # Commission" -- and a human's reading of the authority stands without a quotation.
+    # AGENT QUOTE-CHECKED, 2026-10-30. For a body in the batch above that cites its own section
+    # these are the sentences that create or constitute it and print its name; where a body's
+    # section lists several bodies (ORS 576.062's commodity commissions, ORS 352.002's
+    # universities) the pair is the sentence that introduces the list and the list item.
+    "board-of-examiners-for-engineering-and-land-surveying": [
+        ("ORS 672.240",
+         "The State Board of Examiners for Engineering and Land Surveying shall operate as a "
+         "semi-independent state agency subject to ORS 182.456 to 182.472"),
+    ],
+    "board-of-geologist-examiners": [
+        ("ORS 672.615",
+         "The State Board of Geologist Examiners shall operate as a semi-independent state "
+         "agency subject to ORS 182.456 to 182.472"),
+    ],
+    "board-of-massage-therapists": [
+        ("ORS 687.115",
+         "The State Board of Massage Therapists operates as a semi-independent state agency "
+         "subject to ORS 182.456 to 182.472"),
+    ],
+    "board-of-medical-imaging": [
+        ("ORS 688.545",
+         "There is created the Board of Medical Imaging."),
+    ],
+    "board-of-nursing": [
+        ("ORS 678.140",
+         "There is created an Oregon State Board of Nursing"),
+    ],
+    "board-of-optometry": [
+        ("ORS 683.250",
+         "The Oregon Board of Optometry operates as a semi-independent state agency subject to "
+         "ORS 182.456 to 182.472"),
+    ],
+    "board-of-parole-and-post-prison-supervision": [
+        ("ORS 144.005",
+         "A State Board of Parole and Post-Prison Supervision of at least three but no more "
+         "than five members hereby is created."),
+    ],
+    "board-of-pharmacy": [
+        ("ORS 689.115",
+         "The State Board of Pharmacy consists of nine members appointed by the Governor and "
+         "subject to confirmation by the Senate"),
+    ],
+    "bureau-of-labor-and-industries": [
+        ("ORS 651.020",
+         "The Bureau of Labor and Industries hereby is established as a separate department of "
+         "this state."),
+    ],
+    "citizens-initiative-review-commission": [
+        ("ORS 250.137",
+         "The Citizens’ Initiative Review Commission is established as a semi-independent "
+         "state agency subject to ORS 182.456 to 182.472."),
+    ],
+    "columbia-river-gorge-commission": [
+        ("ORS 196.150",
+         "The States of Oregon and Washington establish by way of this interstate compact a "
+         "regional agency known as the Columbia River Gorge Commission."),
+    ],
+    "commission-for-the-blind": [
+        ("ORS 346.120",
+         "There is created a commission for persons who are blind and for the prevention of "
+         "blindness, to be known as the Commission for the Blind."),
+    ],
+    "commission-on-judicial-fitness-and-disability": [
+        ("ORS 1.410",
+         "There is created the Commission on Judicial Fitness and Disability consisting of:"),
+    ],
+    "commission-on-statewide-law-enforcement-standards-of-conduct-and-discipline": [
+        ("ORS 243.812",
+         "The Commission on Statewide Law Enforcement Standards of Conduct and Discipline is "
+         "established for the purpose of adopting rules that prescribe uniform:"),
+    ],
+    "construction-contractors-board": [
+        ("ORS 701.205",
+         "The Construction Contractors Board is established"),
+    ],
+    "department-of-administrative-services": [
+        ("ORS 184.305",
+         "The Oregon Department of Administrative Services is created."),
+    ],
+    "department-of-agriculture": [
+        ("ORS 561.010",
+         "There is created a department of the government of this state to be known as the "
+         "State Department of Agriculture."),
+    ],
+    "department-of-agriculture-oregon-albacore-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(5) The Oregon Albacore Commission."),
+    ],
+    "department-of-agriculture-oregon-beef-council": [
+        ("ORS 577.210",
+         "There hereby is created the Oregon Beef Council composed of:"),
+    ],
+    "department-of-agriculture-oregon-blueberry-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(8) The Oregon Blueberry Commission."),
+    ],
+    "department-of-agriculture-oregon-clover-seed-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(9) The Oregon Clover Seed Commission."),
+    ],
+    "department-of-agriculture-oregon-dairy-products-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(1) The Oregon Dairy Products Commission."),
+    ],
+    "department-of-agriculture-oregon-dungeness-crab-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(3) The Oregon Dungeness Crab Commission."),
+    ],
+    "department-of-agriculture-oregon-fine-fescue-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(10) The Oregon Fine Fescue Commission."),
+    ],
+    "department-of-agriculture-oregon-hazelnut-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(2) The Oregon Hazelnut Commission."),
+    ],
+    "department-of-agriculture-oregon-hop-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(11) The Oregon Hop Commission."),
+    ],
+    "department-of-agriculture-oregon-invasive-species-council": [
+        ("ORS 570.770",
+         "The Invasive Species Council is established within the State Department of "
+         "Agriculture."),
+    ],
+    "department-of-agriculture-oregon-mint-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(12) The Oregon Mint Commission."),
+    ],
+    "department-of-agriculture-oregon-potato-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(7) The Oregon Potato Commission."),
+    ],
+    "department-of-agriculture-oregon-processed-vegetable-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(13) The Oregon Processed Vegetable Commission."),
+    ],
+    "department-of-agriculture-oregon-raspberry-and-blackberry-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(14) The Oregon Raspberry and Blackberry Commission."),
+    ],
+    "department-of-agriculture-oregon-ryegrass-growers-seed-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(15) The Oregon Ryegrass Growers Seed Commission."),
+    ],
+    "department-of-agriculture-oregon-salmon-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(4) The Oregon Salmon Commission."),
+    ],
+    "department-of-agriculture-oregon-sheep-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(6) The Oregon Sheep Commission."),
+    ],
+    "department-of-agriculture-oregon-strawberry-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(16) The Oregon Strawberry Commission."),
+    ],
+    "department-of-agriculture-oregon-sweet-cherry-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(17) The Oregon Sweet Cherry Commission."),
+    ],
+    "department-of-agriculture-oregon-tall-fescue-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(18) The Oregon Tall Fescue Commission."),
+    ],
+    "department-of-agriculture-oregon-trawl-commission": [
+        ("ORS 576.062",
+         "The following commodity commissions are established as state commissions:"),
+        ("ORS 576.062",
+         "(19) The Oregon Trawl Commission."),
+    ],
+    "department-of-agriculture-oregon-wheat-commission": [
+        ("ORS 578.030",
+         "There hereby is created the Oregon Wheat Commission."),
+    ],
+    "department-of-consumer-and-business-services": [
+        ("ORS 705.105",
+         "The Department of Consumer and Business Services is created."),
+    ],
+    "department-of-consumer-and-business-services-prescription-drug-affordability-board": [
+        ("ORS 646A.693",
+         "The Prescription Drug Affordability Board is established in the Department of "
+         "Consumer and Business Services"),
+    ],
+    "department-of-consumer-and-business-services-workers-compensation-board": [
+        ("ORS 656.712",
+         "The Workers’ Compensation Board, composed of five members appointed by the Governor, "
+         "is created within the Department of Consumer and Business Services."),
+    ],
+    "department-of-corrections": [
+        ("ORS 423.020",
+         "The Department of Corrections is created."),
+    ],
+    "department-of-energy": [
+        ("ORS 469.030",
+         "There is created the State Department of Energy."),
+    ],
+    "department-of-energy-energy-facility-siting-council": [
+        ("ORS 469.450",
+         "There is established in the State Department of Energy an Energy Facility Siting "
+         "Council"),
+    ],
+    "department-of-environmental-quality": [
+        ("ORS 468.030",
+         "There is hereby established in the executive-administrative branch of the government "
+         "of the state under the Environmental Quality Commission a department to be known as "
+         "the Department of Environmental Quality."),
+    ],
+    "department-of-fish-and-wildlife": [
+        ("ORS 496.080",
+         "There is hereby established in the executive branch of the government of this state "
+         "under the State Fish and Wildlife Commission a department to be known as the State "
+         "Department of Fish and Wildlife."),
+    ],
+    "department-of-forestry": [
+        ("ORS 526.008",
+         "The State Forestry Department consists of the State Forester and the deputy, "
+         "assistants and employees of the forester, acting under direction of the State Board "
+         "of Forestry."),
+    ],
+    "department-of-human-services": [
+        ("ORS 409.010",
+         "The Department of Human Services is created."),
+    ],
+    "department-of-human-services-home-care-commission": [
+        ("ORS 410.602",
+         "The Home Care Commission is created, consisting of nine members appointed by the "
+         "Governor and confirmed by the Senate as provided in ORS 171.562 and 171.565."),
+    ],
+    "department-of-justice": [
+        ("ORS 180.210",
+         "There hereby is constituted an executive department to be known as the Department of "
+         "Justice."),
+    ],
+    "department-of-revenue": [
+        ("ORS 305.025",
+         "The Department of Revenue is established."),
+    ],
+    "department-of-state-lands": [
+        ("ORS 273.041",
+         "The Department of State Lands is created, and consists of the Director of the "
+         "Department of State Lands and all officers and employees of the department acting "
+         "under the State Land Board."),
+    ],
+    "department-of-state-police": [
+        ("ORS 181A.015",
+         "There is established a Department of State Police."),
+    ],
+    "department-of-state-police-oregon-state-athletic-commission": [
+        ("ORS 463.113",
+         "There is created in the Department of State Police the Oregon State Athletic "
+         "Commission"),
+    ],
+    "department-of-transportation": [
+        ("ORS 184.615",
+         "The Department of Transportation is established."),
+    ],
+    "department-of-veterans-affairs": [
+        ("ORS 406.005",
+         "The Department of Veterans’ Affairs is established."),
+    ],
+    "eastern-oregon-border-economic-development-board": [
+        ("ORS 284.776",
+         "The Eastern Oregon Border Economic Development Board is established"),
+    ],
+    "employment-department": [
+        ("ORS 657.601",
+         "There is established an Employment Department."),
+    ],
+    "employment-relations-board": [
+        ("ORS 240.060",
+         "The Civil Service Commission that has functioned under this chapter shall be "
+         "continued as a board of three members to be known as the Employment Relations Board."),
+    ],
+    "higher-education-coordinating-commission": [
+        ("ORS 350.050",
+         "There is established a Higher Education Coordinating Commission, consisting of 15 "
+         "voting members appointed by the Governor."),
+    ],
+    "higher-education-coordinating-commission-office-of-student-access-and-completion": [
+        ("ORS 348.511",
+         "The Office of Student Access and Completion is established and shall operate under "
+         "the direction and control of the Higher Education Coordinating Commission."),
+    ],
+    "land-conservation-and-development-department": [
+        ("ORS 197.075",
+         "The Department of Land Conservation and Development is established."),
+    ],
+    "land-use-board-of-appeals": [
+        ("ORS 197.810",
+         "There is hereby created a Land Use Board of Appeals consisting of not more than "
+         "three positions."),
+    ],
+    "landscape-architect-board": [
+        ("ORS 671.459",
+         "The State Landscape Architect Board shall operate as a semi-independent state agency "
+         "subject to ORS 182.456 to 182.472"),
+    ],
+    "landscape-contractors-board": [
+        ("ORS 671.630",
+         "The State Landscape Contractors Board shall operate as a semi-independent state "
+         "agency subject to ORS 182.456 to 182.472"),
+    ],
+    "legislative-administration-committee": [
+        ("ORS 173.710",
+         "The Legislative Administration Committee hereby is established as a joint committee "
+         "of the Legislative Assembly."),
+    ],
+    "legislative-assembly": [
+        ("Or. Const. Art. IV, sec. 1",
+         "The legislative power of the state, except for the initiative and referendum powers "
+         "reserved to the people, is vested in a Legislative Assembly, consisting of a Senate "
+         "and a House of Representatives."),
+    ],
+    "legislative-equity-office": [
+        ("ORS 173.900",
+         "The Legislative Equity Office is established as a nonpartisan office of the "
+         "Legislative Assembly"),
+    ],
+    "legislative-policy-and-research-committee": [
+        ("ORS 173.605",
+         "The Legislative Policy and Research Committee is established as a joint committee of "
+         "the Legislative Assembly."),
+    ],
+    "mental-health-regulatory-agency": [
+        ("ORS 675.160",
+         "The Mental Health Regulatory Agency is created"),
+    ],
+    "mental-health-regulatory-agency-oregon-board-of-licensed-professional-counselors-and-therapists": [
+        ("ORS 675.775",
+         "The Oregon Board of Licensed Professional Counselors and Therapists is established."),
+    ],
+    "mental-health-regulatory-agency-oregon-board-of-psychology": [
+        ("ORS 675.100",
+         "There hereby is created the Oregon Board of Psychology"),
+    ],
+    "mortuary-and-cemetery-board": [
+        ("ORS 692.300",
+         "There is created the State Mortuary and Cemetery Board to carry out the purposes and "
+         "enforce the provisions of this chapter."),
+    ],
+    "occupational-therapy-licensing-board": [
+        ("ORS 675.310",
+         "There is created the Occupational Therapy Licensing Board."),
+    ],
+    "oregon-529-savings-board": [
+        ("ORS 178.310",
+         "There is established the Oregon 529 Savings Board to administer ORS 178.300 to "
+         "178.360, 178.375 and 178.380."),
+    ],
+    "oregon-advocacy-commissions-office": [
+        ("ORS 185.005",
+         "The Oregon Advocacy Commissions Office is established to provide administrative "
+         "support to:"),
+    ],
+    "oregon-board-of-accountancy": [
+        ("ORS 673.410",
+         "There is created an Oregon Board of Accountancy consisting of seven members."),
+    ],
+    "oregon-board-of-dentistry": [
+        ("ORS 679.230",
+         "The Oregon Board of Dentistry consists of 10 members appointed by the Governor and "
+         "subject to confirmation by the Senate"),
+    ],
+    "oregon-board-of-naturopathic-medicine": [
+        ("ORS 685.160",
+         "The Oregon Board of Naturopathic Medicine is created"),
+    ],
+    "oregon-board-of-physical-therapy": [
+        ("ORS 688.160",
+         "The Oregon Board of Physical Therapy operates as a semi-independent state agency "
+         "subject to ORS 182.456 to 182.472"),
+    ],
+    "oregon-business-development-department": [
+        ("ORS 285A.070",
+         "The Oregon Business Development Department is established."),
+    ],
+    "oregon-criminal-justice-commission": [
+        ("ORS 137.654",
+         "There is established the Oregon Criminal Justice Commission consisting of 12 members "
+         "as follows:"),
+    ],
+    "oregon-department-of-aviation": [
+        ("ORS 835.100",
+         "The Oregon Department of Aviation is established."),
+    ],
+    "oregon-department-of-education": [
+        ("ORS 326.111",
+         "The Department of Education is created and shall function under the direction and "
+         "control of the State Board of Education"),
+    ],
+    "oregon-department-of-education-fair-dismissal-appeals-board": [
+        ("ORS 342.930",
+         "The Fair Dismissal Appeals Board is created"),
+    ],
+    "oregon-department-of-education-youth-development-division": [
+        ("ORS 417.852",
+         "The Youth Development Division is established in the Department of Education."),
+    ],
+    "oregon-facilities-authority": [
+        ("ORS 289.100",
+         "There is created a body politic and corporate to be known as the Oregon Facilities "
+         "Authority."),
+    ],
+    "oregon-film-and-video-office": [
+        ("ORS 284.305",
+         "The Oregon Film and Video Office is created as a semi-independent state agency "
+         "subject to ORS 284.300 to 284.375."),
+    ],
+    "oregon-forest-resources-institute": [
+        ("ORS 526.610",
+         "There is created the Oregon Forest Resources Institute."),
+    ],
+    "oregon-government-ethics-commission": [
+        ("ORS 244.250",
+         "The Oregon Government Ethics Commission is established, consisting of nine members."),
+    ],
+    "oregon-health-authority": [
+        ("ORS 413.032",
+         "The Oregon Health Authority is established."),
+    ],
+    "oregon-health-authority-health-licensing-office": [
+        ("ORS 676.560",
+         "the Health Licensing Office is created within the Oregon Health Authority."),
+    ],
+    "oregon-health-authority-health-licensing-office-behavior-analysis-regulatory-board": [
+        ("ORS 676.806",
+         "There is created, within the Health Licensing Office, the Behavior Analysis "
+         "Regulatory Board consisting of nine members appointed by the Governor, including:"),
+    ],
+    "oregon-health-authority-health-licensing-office-board-of-certified-advanced-estheticians": [
+        ("ORS 676.650",
+         "There is established the Board of Certified Advanced Estheticians within the Health "
+         "Licensing Office, consisting of:"),
+    ],
+    "oregon-health-authority-health-licensing-office-board-of-cosmetology": [
+        ("ORS 690.155",
+         "There is established within the Health Licensing Office the Board of Cosmetology "
+         "consisting of seven members appointed by the Governor."),
+    ],
+    "oregon-health-authority-health-licensing-office-board-of-direct-entry-midwifery": [
+        ("ORS 687.470",
+         "There is established within the Health Licensing Office the State Board of Direct "
+         "Entry Midwifery."),
+    ],
+    "oregon-health-authority-health-licensing-office-board-of-licensed-dietitians": [
+        ("ORS 691.485",
+         "There is established, within the Health Licensing Office, the Board of Licensed "
+         "Dietitians to advise the office with regard to the regulation of dietitians."),
+    ],
+    "oregon-health-authority-health-licensing-office-environmental-health-registration-board": [
+        ("ORS 700.210",
+         "There is established within the Health Licensing Office the Environmental Health "
+         "Registration Board to consist of seven members to be appointed by the Governor."),
+    ],
+    "oregon-health-authority-health-licensing-office-long-term-care-administrators-board": [
+        ("ORS 678.800",
+         "The Long Term Care Administrators Board is established within the Health Licensing "
+         "Office."),
+    ],
+    "oregon-health-authority-health-licensing-office-state-board-of-sign-language-interpreters": [
+        ("ORS 676.780",
+         "There is established within the Health Licensing Office the State Board of Sign "
+         "Language Interpreters consisting of seven members appointed by the Governor as "
+         "follows:"),
+    ],
+    "oregon-health-authority-health-policy-and-analytics": [
+        ("ORS 442.011",
+         "There is created in the Oregon Health Authority the Health Policy and Analytics "
+         "Division."),
+    ],
+    "oregon-health-authority-oregon-educators-benefit-board": [
+        ("ORS 243.862",
+         "There is established in the Oregon Health Authority an Oregon Educators Benefit "
+         "Board consisting of at least 10 members appointed by the Governor, including:"),
+    ],
+    "oregon-health-authority-oregon-prescription-drug-program": [
+        ("ORS 414.312",
+         "The Oregon Prescription Drug Program is established in the Oregon Health Authority."),
+    ],
+    "oregon-health-authority-public-employees-benefit-board": [
+        ("ORS 243.061",
+         "There is created in the Oregon Health Authority the Public Employees’ Benefit Board"),
+    ],
+    "oregon-housing-and-community-services-department": [
+        ("ORS 456.555",
+         "The Housing and Community Services Department is established."),
+    ],
+    "oregon-investment-council": [
+        ("ORS 293.706",
+         "There is created the Oregon Investment Council, consisting of five voting members "
+         "and one nonvoting member."),
+    ],
+    "oregon-liquor-control-commission": [
+        ("ORS 471.705",
+         "There is created the Oregon Liquor and Cannabis Commission, consisting of nine "
+         "commissioners appointed by the Governor."),
+    ],
+    "oregon-medical-board": [
+        ("ORS 677.235",
+         "The Oregon Medical Board consists of 14 members appointed by the Governor and "
+         "subject to confirmation by the Senate"),
+    ],
+    "oregon-military-department": [
+        ("ORS 396.305",
+         "The Oregon Military Department is established."),
+    ],
+    "oregon-patient-safety-commission": [
+        ("ORS 442.820",
+         "The Oregon Patient Safety Commission is established as a semi-independent state "
+         "agency subject to ORS 182.456 to 182.472."),
+    ],
+    "oregon-racing-commission": [
+        ("ORS 462.210",
+         "There is created the Oregon Racing Commission to consist of five commissioners who "
+         "shall be citizens, residents and electors of this state."),
+    ],
+    "oregon-state-marine-board": [
+        ("ORS 830.105",
+         "There hereby is created the State Marine Board consisting of five members to be "
+         "appointed by the Governor"),
+    ],
+    "oregon-tourism-commission": [
+        ("ORS 284.107",
+         "There is established an Oregon Tourism Commission consisting of nine members "
+         "appointed by the Governor."),
+    ],
+    "oregon-utility-notification-center": [
+        ("ORS 757.547",
+         "The Oregon Utility Notification Center is created as an independent not-for-profit "
+         "public corporation."),
+    ],
+    "oregon-watershed-enhancement-board": [
+        ("ORS 541.900",
+         "The Oregon Watershed Enhancement Board is created."),
+    ],
+    "oregon-watershed-enhancement-board-environmental-restoration-council": [
+        ("ORS 541.861",
+         "The Environmental Restoration Council is established in the Oregon Watershed "
+         "Enhancement Board."),
+    ],
+    "oregon-wine-board": [
+        ("ORS 576.856",
+         "The Oregon Wine Board is established as a semi-independent state agency subject to "
+         "ORS 182.456 to 182.472."),
+    ],
+    "oregon-youth-authority": [
+        ("ORS 420A.010",
+         "The Oregon Youth Authority is established."),
+    ],
+    "parks-and-recreation-department": [
+        ("ORS 390.111",
+         "The State Parks and Recreation Department is created."),
+    ],
+    "psychiatric-security-review-board": [
+        ("ORS 161.385",
+         "There is hereby created a Psychiatric Security Review Board"),
+    ],
+    "public-utility-commission": [
+        ("ORS 756.014",
+         "There is created the Public Utility Commission of Oregon."),
+    ],
+    "public-utility-commission-oregon-board-of-maritime-pilots": [
+        ("ORS 776.105",
+         "The Oregon Board of Maritime Pilots is established within the Public Utility "
+         "Commission of Oregon"),
+    ],
+    "real-estate-agency": [
+        ("ORS 696.375",
+         "The Real Estate Agency is established."),
+    ],
+    "saif-corporation": [
+        ("ORS 656.752",
+         "The State Accident Insurance Fund Corporation is created for the purpose of "
+         "transacting workers’ compensation insurance and reinsurance business."),
+    ],
+    "southern-oregon-university": [
+        ("ORS 352.002",
+         "The following are established as public universities in the State of Oregon:"),
+        ("ORS 352.002",
+         "(6) Southern Oregon University."),
+    ],
+    "state-board-of-architect-examiners": [
+        ("ORS 671.120",
+         "The State Board of Architect Examiners shall operate as a semi-independent state "
+         "agency subject to ORS 182.456 to 182.472"),
+    ],
+    "state-board-of-tax-practitioners": [
+        ("ORS 673.725",
+         "There is created a State Board of Tax Practitioners."),
+    ],
+    "state-board-of-towing": [
+        ("ORS 822.250",
+         "The State Board of Towing is established within the Department of Transportation."),
+    ],
+    "teacher-standards-and-practices-commission": [
+        ("ORS 342.350",
+         "There is created a Teacher Standards and Practices Commission consisting of 17 "
+         "members appointed by the Governor"),
+    ],
+    "travel-information-council": [
+        ("ORS 377.835",
+         "The Travel Information Council is created as a semi-independent state agency."),
+    ],
+    "veterinary-medical-examining-board": [
+        ("ORS 686.210",
+         "There is created the Oregon State Veterinary Medical Examining Board, which shall "
+         "carry out the purposes and enforce the provisions of this chapter."),
+    ],
+    "water-resources-department": [
+        ("ORS 536.039",
+         "There is hereby established in the executive-administrative branch of the government "
+         "of the state under the Water Resources Commission a department to be known as the "
+         "Water Resources Department."),
+    ],
+
+    # AGENT QUOTE-CHECKED, 2026-10-30: the bodies added by MANUAL_ENTRIES.
+    "advisory-council-on-hearing-aids": [
+        ("ORS 694.165",
+         "There is established within the Health Licensing Office the Advisory Council on "
+         "Hearing Aids."),
+    ],
+    "board-of-athletic-trainers": [
+        ("ORS 688.705",
+         "There is established within the Health Licensing Office the Board of Athletic "
+         "Trainers"),
+    ],
+    "board-of-electrologists-and-body-art-practitioners": [
+        ("ORS 690.401",
+         "There is established within the Health Licensing Office the Board of Electrologists "
+         "and Body Art Practitioners"),
+    ],
+    "board-of-trustees-of-southern-oregon-university": [
+        ("ORS 352.054",
+         "A governing board is established for each of the following public universities:"),
+        ("ORS 352.054",
+         "The Southern Oregon University governing board shall be known as the Board of "
+         "Trustees of Southern Oregon University."),
+    ],
+    "board-on-public-safety-standards-and-training": [
+        ("ORS 181A.360",
+         "The Governor shall appoint a Board on Public Safety Standards and Training "
+         "consisting of 26 members"),
+    ],
+    "commission-for-women": [
+        ("ORS 185.510",
+         "the Commission for Women is created to work for the implementation and establishment "
+         "of economic, social, legal and political equity for women"),
+    ],
+    "commission-on-asian-and-pacific-islander-affairs": [
+        ("ORS 185.610",
+         "The Commission on Asian and Pacific Islander Affairs is created."),
+    ],
+    "commission-on-black-affairs": [
+        ("ORS 185.410",
+         "the Commission on Black Affairs is created to work for the implementation and "
+         "establishment of economic, social, legal and political equity for Blacks in Oregon."),
+    ],
+    "commission-on-hispanic-affairs": [
+        ("ORS 185.310",
+         "the Commission on Hispanic Affairs is created to work for the implementation and "
+         "establishment of economic, social, legal and political equity for Hispanics in "
+         "Oregon."),
+    ],
+    "council-on-optometric-nontopical-formulary": [
+        ("ORS 683.240",
+         "The Council on Optometric Nontopical Formulary is established and shall consist of "
+         "seven members"),
+    ],
+    "early-learning-council": [
+        ("ORS 326.425",
+         "The Early Learning Council is established."),
+    ],
+    "environmental-quality-commission": [
+        ("ORS 468.010",
+         "There is created an Environmental Quality Commission."),
+    ],
+    "land-conservation-and-development-commission": [
+        ("ORS 197.030",
+         "There is established a Land Conservation and Development Commission consisting of "
+         "seven members appointed by the Governor"),
+    ],
+    "oregon-agricultural-heritage-commission": [
+        ("ORS 541.986",
+         "The Oregon Agricultural Heritage Commission is established, consisting of 12 members "
+         "appointed by the Oregon Watershed Enhancement Board."),
+    ],
+    "oregon-business-development-commission": [
+        ("ORS 285A.040",
+         "There is established the Oregon Business Development Commission consisting of nine "
+         "members"),
+    ],
+    "oregon-cannabis-commission": [
+        ("ORS 475C.930",
+         "The Oregon Cannabis Commission is established within the Oregon Health Authority."),
+    ],
+    "oregon-geographic-information-council": [
+        ("ORS 276A.503",
+         "The Oregon Geographic Information Council is established within the office of "
+         "Enterprise Information Services."),
+    ],
+    "oregon-health-policy-board": [
+        ("ORS 413.006",
+         "There is established the Oregon Health Policy Board, consisting of nine members "
+         "appointed by the Governor."),
+    ],
+    "oregon-housing-stability-council": [
+        ("ORS 456.567",
+         "The Oregon Housing Stability Council is established."),
+    ],
+    "oregon-retirement-savings-board": [
+        ("ORS 178.200",
+         "The Oregon Retirement Savings Board is established in the office of the State "
+         "Treasurer."),
+    ],
+    "oregon-transportation-commission": [
+        ("ORS 184.612",
+         "There is established the Oregon Transportation Commission consisting of five members "
+         "appointed by the Governor"),
+    ],
+    "residential-ombudsman-and-public-guardianship-advisory-board": [
+        ("ORS 441.416",
+         "There is established a Residential Ombudsman and Public Guardianship Advisory Board "
+         "of 11 members"),
+    ],
+    "respiratory-therapist-and-polysomnographic-technologist-licensing-board": [
+        ("ORS 688.820",
+         "There is established within the Health Licensing Office the Respiratory Therapist "
+         "and Polysomnographic Technologist Licensing Board."),
+    ],
+    "sexual-offense-treatment-board": [
+        ("ORS 675.395",
+         "The Sexual Offense Treatment Board is established within the Health Licensing "
+         "Office."),
+    ],
+    "state-aviation-board": [
+        ("ORS 835.102",
+         "There is established the State Aviation Board consisting of seven members appointed "
+         "by the Governor"),
+    ],
+    "state-board-of-denture-technology": [
+        ("ORS 680.556",
+         "There is established, within the Health Licensing Office, the State Board of Denture "
+         "Technology."),
+    ],
+    "state-board-of-education": [
+        ("ORS 326.021",
+         "The State Board of Education shall consist of: (a) The State Treasurer, or the "
+         "designee of the State Treasurer;"),
+    ],
+    "state-board-of-forestry": [
+        ("ORS 526.009",
+         "There is created a State Board of Forestry consisting of seven members appointed by "
+         "the Governor."),
+    ],
+    "state-fish-and-wildlife-commission": [
+        ("ORS 496.090",
+         "There is established a State Fish and Wildlife Commission that shall consist of "
+         "seven members appointed by the Governor."),
+    ],
+    "state-land-board": [
+        ("Or. Const. Art. VIII, sec. 5",
+         "The Governor, Secretary of State and State Treasurer shall constitute a State Land "
+         "Board for the disposition and management of lands described in section 2 of this "
+         "Article"),
+    ],
+    "state-library-board": [
+        ("ORS 357.021",
+         "The State Library Board is established, consisting of nine voting members."),
+    ],
+    "state-parks-and-recreation-commission": [
+        ("ORS 390.114",
+         "There is established a State Parks and Recreation Commission consisting of seven "
+         "members appointed by the Governor."),
+    ],
+    "water-resources-commission": [
+        ("ORS 536.022",
+         "There is created a Water Resources Commission consisting of seven members"),
+    ],
+    "youth-development-council": [
+        ("ORS 417.847",
+         "The Youth Development Council is established."),
+    ],
 }
 
 CREATE = re.compile(
@@ -1339,6 +2619,57 @@ def name_text_lookups(ors_texts=None, eo=None, constitution=None) -> dict:
     return {"ors": ors_texts.get, "executive-order": eo.get, "constitution": constitution_lookup}
 
 
+def quote_document_lookups(ors=None, eo=None, constitution=None) -> dict:
+    """{form: the function `audit_quote_checks` calls to get the mirrored DOCUMENT a quotation
+    of that form is matched against} — the one place a quotation's source is located.
+
+    THE DOCUMENT, NOT A TEXT, because the matcher (`repo_lib.quote_in_full_text`) decides what
+    part of it counts: the section's own `## Full text` and nothing else. The text a NAME is
+    checked against (`name_text_lookups`) is a different thing on purpose — the catchline and
+    the whole body, so a name the section prints in its title is found — and a quotation never
+    gets to borrow that width: the mirror's banner, its generated heading and `At a glance`
+    line and its provenance block are not the section.
+
+    A CONSTITUTIONAL QUOTATION IS MATCHED AGAINST ITS SECTION, not the article. The article is
+    what a constitutional NAME is checked against (`constitution_name_lookup`), because a body
+    can be named in a different section of its article than the one that creates it; a
+    quotation says what ONE section says, so it is held to that section's own file.
+
+    Each lookup returns a document's markdown (or a list of them, when a citation names
+    several files), or None when this corpus holds none. The keyword arguments are for the
+    selftest, which hands in synthetic documents; unset they read the mirror on demand."""
+    def ors_doc(citation):
+        m = re.fullmatch(r"ORS (\d+[A-Z]?\.\d+)", citation)
+        path = STATUTES / f"ors-{m.group(1).lower()}.md" if m else None
+        return path.read_text(errors="replace") if path and path.is_file() else None
+
+    eo_by_citation: dict[str, list[str]] = {}
+
+    def eo_doc(citation):
+        if not eo_by_citation:
+            for path in sorted(EXECUTIVE_ORDERS.glob("eo-*.md")):
+                text = path.read_text(errors="replace")
+                m = re.search(r'(?m)^citation:\s*"?([^"\n]+)', text)
+                if m:
+                    eo_by_citation.setdefault(m.group(1).strip().rstrip('"'), []).append(text)
+        return eo_by_citation.get(citation)
+
+    def const_doc(citation):
+        from citation_schemes import OR_CONST_C
+        m = OR_CONST_C.search(citation)
+        if not m:
+            return None
+        try:
+            path = CONSTITUTION / f"{orconst_id(m.group(1), m.group(2))}.md"
+        except ValueError:
+            return None
+        return path.read_text(errors="replace") if path.is_file() else None
+
+    return {"ors": ors_doc if ors is None else ors.get,
+            "executive-order": eo_doc if eo is None else eo.get,
+            "constitution": const_doc if constitution is None else constitution.get}
+
+
 def audit_statutory_names(orgs, mapped, names, text_lookups) -> list[Failure]:
     """Everything wrong with STATUTORY_NAMES itself, as Failures.
 
@@ -1425,6 +2756,272 @@ def audit_statutory_names(orgs, mapped, names, text_lookups) -> list[Failure]:
                 f"the mirrored text of {authority} — the authority this registry says "
                 "created the body does not print that name"))
     return problems
+
+
+def _good_pairs(pairs) -> list:
+    """The (citation, quotation) pairs among `pairs` that are well formed — the rest are
+    `quote-is-a-quote`'s to report, and every other reader must keep going without them."""
+    return [p for p in (pairs if isinstance(pairs, list) else [])
+            if isinstance(p, tuple) and len(p) == 2 and all(isinstance(x, str) for x in p)]
+
+
+def _squash(text) -> str:
+    """Whitespace collapsed to single spaces — the ONLY normalisation a quotation gets. Case,
+    punctuation and the typographic apostrophe the mirror prints all have to match."""
+    return " ".join(str(text).split())
+
+
+def audit_quote_checks(orgs, mapped, unmapped, names, quotes, documents,
+                       human) -> list[Failure]:
+    """Everything wrong with QUOTE_CHECKS, as Failures: the record of what an agent read.
+
+    `documents` is `quote_document_lookups()` and has NO DEFAULT, for the reason
+    `audit_statutory_names` has none: a default would let a caller check the table's shape and
+    take the quotations on faith, which looks exactly like a clean run.
+
+    A QUOTATION THAT COULD NOT BE CHECKED IS NOT ONE THAT DID NOT MATCH (CONTEXT.md). Four
+    different things can stand between a quotation and the text it claims to be from, and the
+    detail says which: the citation's form is one this gate cannot read the text of (a session
+    law), the citation names a section this corpus does not hold, the document held has no
+    `## Full text` to look in, or the section is held and does not say it. The last is a wrong
+    or stale record; the first three are a record nobody could re-perform, and none of them
+    may be reported as the last.
+
+    `human` is `BY_HUMAN` (or a fixture's) and has NO DEFAULT either: it is what says whose
+    review a row's authority, absence and name is, and a default would make every row one
+    kind. WHAT IS NOT IN IT IS AN AGENT'S, and an agent's review IS its quotation: a recorded
+    authority with no quotation cited to its own section, an absence with no quotation and a
+    name no quotation of its authority prints each fail, so a row cannot be promoted without
+    one and then read as a human's (`agent-review-has-a-quote`, `statutory-name-in-a-quote`).
+    A quotation on a row a human reviewed is additional evidence and is checked like any other
+    (`quote-in-the-cited-text`) but is never required.
+
+    THE QUOTATION IS MATCHED INSIDE THE SECTION'S OWN `## Full text` AND NOWHERE ELSE
+    (`repo_lib.quote_in_full_text`, the one matcher this repository has): not the mirror's
+    banner, its generated heading or `At a glance` line, its provenance block or its
+    frontmatter. A "quotation" of the mirror's own boilerplate is not the section saying it.
+    """
+    by_slug = {o["slug"]: o for o in orgs if isinstance(o, dict) and o.get("slug")}
+    problems = []
+    for slug, pairs in sorted(quotes.items()):
+        if slug not in by_slug:
+            problems.append(Failure("quote-slug-in-registry", slug,
+                                    "named in QUOTE_CHECKS but not in the registry"))
+            continue
+        statute_placed = any(isinstance(e, dict) and e.get("source") == STATUTE_SOURCE
+                             for e in relation_entries(by_slug[slug]))
+        if not (slug in mapped or slug in unmapped or slug in names or statute_placed):
+            problems.append(Failure(
+                "quote-has-a-reviewed-row", slug,
+                "has a quotation on record and nothing for it to be the review OF: the body "
+                "is in none of MAPPED, UNMAPPED and STATUTORY_NAMES and carries no "
+                f"`source: {STATUTE_SOURCE}` relation, so the record supports no claim"))
+        pairs = pairs if isinstance(pairs, list) else []
+        if not pairs:
+            problems.append(Failure("quote-is-a-quote", slug,
+                                    "QUOTE_CHECKS holds no (citation, quotation) pair for it"))
+            continue
+        for pair in pairs:
+            if (not isinstance(pair, tuple) or len(pair) != 2
+                    or not all(isinstance(x, str) for x in pair)):
+                problems.append(Failure("quote-is-a-quote", slug,
+                                        f"{pair!r} is not a (citation, quotation) pair"))
+                continue
+            citation, quote = pair
+            if len(quote.split()) < MIN_QUOTE_WORDS:
+                problems.append(Failure(
+                    "quote-is-a-quote", slug,
+                    f"{quote!r} is under {MIN_QUOTE_WORDS} words — a fragment that short "
+                    "appears in a great many sections and shows nothing about this one"))
+                continue
+            form = classify_authority(citation)[0]
+            document_of = documents.get(form)
+            if document_of is None:
+                problems.append(Failure(
+                    "quote-in-the-cited-text", slug,
+                    f"quotes {citation!r}, whose form ({form}) this gate cannot read the "
+                    "text of — so the quotation could not be checked. That is 'could not "
+                    "check', not 'matches'"))
+            elif (document := document_of(citation)) is None:
+                problems.append(Failure(
+                    "quote-in-the-cited-text", slug,
+                    f"quotes {citation!r}, whose text this corpus does not mirror — so "
+                    "there was no text to match the quotation against. That is 'could not "
+                    "check', not 'the section does not say it'"))
+            elif (found := quote_in_full_text(document, quote)) is None:
+                problems.append(Failure(
+                    "quote-in-the-cited-text", slug,
+                    f"quotes {citation!r}, whose mirrored document has no `## Full text` "
+                    "section — so there was no section text to match the quotation "
+                    "against. That is 'could not check', not 'the section does not say it'"))
+            elif not found:
+                problems.append(Failure(
+                    "quote-in-the-cited-text", slug,
+                    f"quotes {citation!r} as {quote!r}, which does not appear word for word "
+                    "in the `## Full text` of that section — a wrong quotation, a section "
+                    "that has changed since it was taken, or words from the mirror's own "
+                    "banner, heading or provenance block, which are not the section"))
+    # AN AGENT'S REVIEW IS ITS QUOTATION, so a row not listed as a human's has to carry one --
+    # for every row, not only the rows that happen to have an entry in QUOTE_CHECKS (the rules
+    # above visit only slugs that DO). Without this a name or an authority could be added to
+    # the union tables with no record at all and read, by the absence of a quotation, as a
+    # human's (ADR 0003's amendment, term 5: "read by a human" has to be a thing a table says).
+    def good(slug):
+        return _good_pairs(quotes.get(slug))
+
+    for slug in sorted(set(mapped) - set(human.authorities)):
+        if slug in by_slug and mapped[slug] not in [c for c, _ in good(slug)]:
+            problems.append(Failure(
+                "agent-review-has-a-quote", slug,
+                f"records the enabling authority {mapped[slug]!r}, which no human reviewed "
+                "(it is not in HUMAN_MAPPED), and QUOTE_CHECKS holds no quotation cited to "
+                "that section — an agent's review of an authority is the sentence of its "
+                "own section that creates or constitutes the body"))
+    for slug in sorted(set(unmapped) - set(human.absences)):
+        if slug in by_slug and not good(slug):
+            problems.append(Failure(
+                "agent-review-has-a-quote", slug,
+                "records a reviewed absence no human reviewed (it is not in HUMAN_UNMAPPED) "
+                "and QUOTE_CHECKS holds no quotation — an agent's `none: ` rests on a quoted "
+                "section showing the unit is internal structure of its parent, and a failed "
+                "search is not an absence"))
+    for slug in sorted(set(names) - set(human.names)):
+        if slug not in by_slug or not isinstance(names[slug], str):
+            continue                  # reported by the rules in audit_statutory_names
+        authority = mapped.get(slug)
+        if authority is not None and not any(
+                names[slug] in _squash(q) and c == authority for c, q in good(slug)):
+            problems.append(Failure(
+                "statutory-name-in-a-quote", slug,
+                f"records the statutory name {names[slug]!r}, which no human reviewed (it is "
+                "not in HUMAN_NAMES), and no quotation cited to its authority "
+                f"({authority}) prints it — an agent's review of a name is the sentence that "
+                "PRINTS the name, and without one the name rests on a reading nobody can "
+                "re-perform"))
+
+    # EVERY STATUTE PLACEMENT HAS THE SENTENCE THAT STATES IT, AND THE SENTENCE NAMES THE PARENT.
+    # The relation's `authority` is written by derive_relation_kinds.py and is the body's OWN
+    # enabling authority, so the section it cites is the body's constituting section -- and a
+    # placement is only a quotation-checked claim when a sentence of that section says where the
+    # body sits. "Says where" is checked as far as a gate can read it: the parent's name is in
+    # the quotation, and the body it names is the relation's target. A rule that asked only
+    # whether SOME quotation was cited to the section passed a placement retargeted to any
+    # body at all (DEQ moved from the Environmental Quality Commission to the State Land Board).
+    # Whether the sentence means "under" is what the agent who chose it answers for.
+    for slug, o in sorted(by_slug.items()):
+        for entry in relation_entries(o):
+            if not isinstance(entry, dict) or entry.get("source") != STATUTE_SOURCE:
+                continue
+            pairs = _good_pairs(quotes.get(slug))
+            want = entry.get("authority")
+            target = entry.get("target")
+            from_section = [q for c, q in pairs if want is None or c == want]
+            if not from_section:
+                problems.append(Failure(
+                    "statute-placement-has-a-quote", slug,
+                    f"is placed under {target!r} by `source: {STATUTE_SOURCE}` "
+                    f"(authority {want!r}) and QUOTE_CHECKS holds "
+                    f"{'no quotation' if not pairs else 'no quotation from that section'} "
+                    "for it — a statute placement is the sentence that states it, set "
+                    "beside the relation"))
+            elif not any(_quote_names_the_parent(q, o, by_slug.get(target), by_slug.values())
+                         for q in from_section):
+                # NAME READER — DISPLAY: the target's `name` printed in a failure message so a
+                # reader sees which body the quotation was expected to name.
+                problems.append(Failure(
+                    "statute-placement-has-a-quote", slug,
+                    f"is placed under {target!r} by `source: {STATUTE_SOURCE}` "
+                    f"(authority {want!r}) and no quotation from that section names "
+                    f"{(by_slug.get(target) or {}).get('name')!r} (or another name the "
+                    "target is known by) as the body it sits under — the sentence recorded "
+                    "beside a placement has to be the one that places THIS body under THIS "
+                    "parent, or it supports some other placement"))
+    return problems
+
+
+def _row_names(row) -> list[str]:
+    """Every name one registry row is known by: `name`, `oar_name` and `aliases`."""
+    if not isinstance(row, dict):
+        return []
+    # NAME READER — JOIN: every name the body is known by, searched for in a quotation to decide
+    # whether the sentence names this body as the parent. A quotation is matched against the
+    # strings; nothing is derived from a string's shape.
+    out = [row.get("name"), row.get("oar_name")] + list(row.get("aliases") or [])
+    return [n for n in out if isinstance(n, str) and n.strip()]
+
+
+def _name_spans(text: str, name: str) -> list[tuple[int, int]]:
+    """Where `name` occurs in `text` as a whole name, not inside a longer word."""
+    return [m.span() for m in re.finditer(
+        r"(?<![A-Za-z0-9])" + re.escape(name) + r"(?![A-Za-z0-9])", text)]
+
+
+def _quote_names_the_parent(quote, child, parent, rows) -> bool:
+    """Whether `quote` names `parent` — the relation's target — as a body other than `child`.
+
+    The child's own names are blanked first (a department's name often contains its parent's,
+    and the child naming itself places it nowhere). An occurrence of a parent name that lies
+    inside a LONGER name of some other registry body is that other body being named, not this
+    parent: a quotation placing a board under "the Office of Imagined Orders Annex" does not
+    place it under "the Office of Imagined Orders"."""
+    if not isinstance(parent, dict):
+        return False
+    text = _squash(quote)
+    for n in sorted(_row_names(child), key=len, reverse=True):
+        for a, b in _name_spans(text, n):
+            text = text[:a] + " " * (b - a) + text[b:]
+    others = [(a, b) for r in rows if r is not parent and r is not child
+              for n in _row_names(r) for a, b in _name_spans(text, n)]
+    for n in _row_names(parent):
+        for a, b in _name_spans(text, n):
+            if not any(oa <= a and b <= ob and (ob - oa) > (b - a) for oa, ob in others):
+                return True
+    return False
+
+
+def audit_review_tables(pairs) -> list[Failure]:
+    """A slug may be in only one of each pair of tables that says who reviewed it. `pairs` is
+    {what: (human table, agent table)}. The union tables everything reads would resolve a slug
+    in both silently -- as the human's -- and a row an agent wrote would pass for one a human
+    read, which is the confusion `agent-review-has-a-quote` exists to prevent."""
+    problems = []
+    for what, (human_table, agent_table) in sorted(pairs.items()):
+        for slug in sorted(set(human_table) & set(agent_table)):
+            problems.append(Failure(
+                "review-record-is-one-kind", slug,
+                f"is in both the human and the agent table of {what} — a row's review is a "
+                "human's or an agent's, and whichever table a reader consults would be the "
+                "answer"))
+    return problems
+
+
+def audit_looked_at(orgs, mapped, unmapped, looked_at) -> list[Failure]:
+    """LOOKED_AT, against the registry and the tables: each slug is a registry row, has a
+    reason, is in neither MAPPED nor UNMAPPED, and carries no `enabling_authority` key -- a body
+    looked at and not recorded is a state of its own, and a row that appears in two of the three
+    states is not in any."""
+    by_slug = {o["slug"]: o for o in orgs if isinstance(o, dict) and o.get("slug")}
+    problems = []
+    for slug, reason in sorted(looked_at.items()):
+        if slug not in by_slug:
+            problems.append(Failure("looked-at-is-unrecorded", slug,
+                                    "named in LOOKED_AT but not in the registry"))
+        elif not isinstance(reason, str) or len(reason.split()) < 4:
+            problems.append(Failure(
+                "looked-at-is-unrecorded", slug,
+                "is in LOOKED_AT with no reason — 'we looked and recorded nothing' is a "
+                "finding, and a finding states what was found"))
+        elif slug in mapped or slug in unmapped or "enabling_authority" in by_slug[slug]:
+            problems.append(Failure(
+                "looked-at-is-unrecorded", slug,
+                "is in LOOKED_AT (looked at, nothing recorded) and also has an authority or "
+                "a reviewed absence recorded — a body is in one of the three states"))
+    return problems
+
+
+def _review_table_pairs():
+    return {"MAPPED": (HUMAN_MAPPED, AGENT_MAPPED), "UNMAPPED": (HUMAN_UNMAPPED, AGENT_UNMAPPED),
+            "STATUTORY_NAMES": (HUMAN_NAMES, AGENT_NAMES)}
 
 
 def audit_registry(orgs, mapped=None, unmapped=None, names=None) -> list[Failure]:
@@ -1521,7 +3118,8 @@ def apply_reviewed(cat, mapped=None, unmapped=None, names=None) -> int:
         # and the second run dumps the same bytes.
         # NAME READER — MACHINERY: --apply writing the reviewed value into the field. It
         # operates on the key, not on the body's identity; WHICH name belongs there was
-        # decided by a human reading the cited section, and is recorded in STATUTORY_NAMES.
+        # decided by a reviewer reading the cited section (a human, or an agent's quotation), and
+        # is recorded in STATUTORY_NAMES.
         name = names.get(o.get("slug"))
         if name is not None and (o.get("name") != name
                                  or o.get(NAME_BASIS_KEY) != ENABLING_AUTHORITY_NAME):
@@ -1541,9 +3139,14 @@ def cmd_apply() -> int:
     """Write MAPPED/UNMAPPED into the registry. The only writer of `enabling_authority`."""
     cat = yaml.safe_load(CATALOG.read_text())
     orgs = cat["organizations"]
+    text_lookups = name_text_lookups()
     problems = (audit_table(orgs, MAPPED, UNMAPPED, resolvable_citations(),
                             constitutional_resolver(published_constitutional_sections()))
-                + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, name_text_lookups()))
+                + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, text_lookups)
+                + audit_quote_checks(orgs, MAPPED, UNMAPPED, STATUTORY_NAMES, QUOTE_CHECKS,
+                                     quote_document_lookups(), BY_HUMAN)
+                + audit_review_tables(_review_table_pairs())
+                + audit_looked_at(orgs, MAPPED, UNMAPPED, LOOKED_AT))
     if problems:
         print("refusing to write: the reviewed tables do not match the corpus",
               file=sys.stderr)
@@ -1577,6 +3180,10 @@ def check() -> int:
     problems = (audit_table(orgs, MAPPED, UNMAPPED, citations,
                             constitutional_resolver(published))
                 + audit_statutory_names(orgs, MAPPED, STATUTORY_NAMES, text_lookups)
+                + audit_quote_checks(orgs, MAPPED, UNMAPPED, STATUTORY_NAMES, QUOTE_CHECKS,
+                                     quote_document_lookups(), BY_HUMAN)
+                + audit_review_tables(_review_table_pairs())
+                + audit_looked_at(orgs, MAPPED, UNMAPPED, LOOKED_AT)
                 + audit_registry(orgs, MAPPED, UNMAPPED))
     if problems:
         print("the reviewed tables do not match the corpus:", file=sys.stderr)
@@ -1591,8 +3198,12 @@ def check() -> int:
     # authority is admitting evidence ADR 0003 accepts and this corpus cannot look up, so it
     # is counted on its own line, not folded into "resolved against the mirror" beside it.
     forms = collections.Counter(classify_authority(a)[0] for a in MAPPED.values())
+    counts = authority_counts(orgs)
     print(f"enabling-authority table is consistent with the corpus: "
-          f"{authority_census(orgs)}.")
+          f"{counts['recorded']} recorded, {counts['reviewed_none']} reviewed with none to "
+          f"record, {counts['no_key']} of {counts['total']} bodies with no key "
+          f"({len(LOOKED_AT)} looked at and not recorded, "
+          f"{counts['no_key'] - len(LOOKED_AT)} not looked at yet).")
     print(f"  resolved against the mirror  : {forms['ors']} ORS, "
           f"{forms['executive-order']} executive order(s), "
           f"{forms['constitution']} constitutional")
@@ -1622,6 +3233,37 @@ def check() -> int:
     print(f"statutory names read off those authorities: {len(STATUTORY_NAMES)} of "
           f"{len(MAPPED)} reviewed authorities ({checked} checked against mirrored text, "
           f"{could_not_check} could not be); registry: {name_census(orgs)}")
+    # WHO REVIEWED WHAT, COUNTED SEPARATELY (operator decision 2026-10-30; ADR 0003's amendment,
+    # term 5). A quotation on a row a human reviewed is additional evidence and is not that
+    # row's review, so the quotations are never added to the agent's count: the agent's reviews
+    # are the rows in the AGENT_ tables, each of which the audit above showed carries one. One
+    # figure for "reviewed authorities" counted every body with a quotation as the agent's, 113
+    # of 169 of which a human had read first.
+    quoted = set(QUOTE_CHECKS)
+    placements = sum(1 for o in orgs for e in relation_entries(o)
+                     if isinstance(e, dict) and e.get("source") == STATUTE_SOURCE)
+    print("who reviewed what (a quotation on a human-reviewed row is additional evidence, "
+          "never its review):")
+    print(f"  enabling authorities : {len(AGENT_MAPPED)} agent quote-checked, "
+          f"{len(HUMAN_MAPPED)} human-reviewed before the 2026-10-30 decision "
+          f"({len(quoted & set(HUMAN_MAPPED))} of those also carry a quotation)")
+    print(f"  reviewed absences    : {len(AGENT_UNMAPPED)} agent quote-checked, "
+          f"{len(HUMAN_UNMAPPED)} human-reviewed before the decision "
+          f"({len(quoted & set(HUMAN_UNMAPPED))} of those also carry a quotation)")
+    print(f"  statutory names      : {len(AGENT_NAMES)} agent quote-checked, "
+          f"{len(HUMAN_NAMES)} human-reviewed before the decision "
+          f"({len(quoted & set(HUMAN_NAMES))} of those also carry a quotation)")
+    print(f"  quotations           : {sum(len(v) for v in QUOTE_CHECKS.values())} for "
+          f"{len(quoted)} body(ies), each matched word for word inside its section's "
+          f"`## Full text` on this run; {placements} statute placement(s), each with a "
+          "quotation that names its parent")
+    # THE BODIES WITH NO KEY, TOLD APART (CONTEXT.md's three states). catalog_agencies.py counts
+    # a missing `enabling_authority` key and cannot see this table; saying every one of them is
+    # "not looked at yet" reported a search that found nothing as no search.
+    keyless = sum(1 for o in orgs if "enabling_authority" not in o)
+    print(f"  no authority recorded: {keyless} of {len(orgs)} bodies carry no key — "
+          f"{len(LOOKED_AT)} looked at and not recorded (LOOKED_AT says why), "
+          f"{keyless - len(LOOKED_AT)} not looked at yet")
     return 0
 
 
@@ -1672,15 +3314,17 @@ def _fixture():
     # the fixture has to pass cleanly with it — a gate that treated "nobody has looked yet"
     # as a violation would make the honest default impossible to hold.
     orgs.append({"slug": "board-nobody-has-reviewed", "name": "Board Nobody Has Reviewed"})
+    # A SECOND BODY WHOSE NAME CONTAINS THE PARENT'S, for `statute-placement-has-a-quote`.
+    orgs.append({"slug": "office-of-imagined-orders-annex",
+                 "name": "Office of Imagined Orders Annex"})
     # THE STATUTORY NAME, READ OFF ONE OF THOSE AUTHORITIES (#168), and the mirrored text it
     # was read off — for one body of each RESOLVABLE form (#220 widens this fixture from one
     # body to three, matching the widened gate: ORS, executive order and constitution each
     # get a name that is genuinely present in their synthetic text, so the base fixture
     # proves the TRUE POSITIVE for every resolvable form on every single case run via the
     # "fixture passes cleanly" assertion below, not only in a dedicated case). The rest carry
-    # their OAR title under `unverified-oar-title`, which is the state 185 of the 189
-    # committed rows are in and the one a fixture holding only reviewed rows would make
-    # impossible to hold. `legislative-imaginary-office` (session law) is deliberately NOT
+    # their OAR title under `unverified-oar-title`, which is a state the committed rows are
+    # in and the one a fixture holding only reviewed rows would make impossible to hold. `legislative-imaginary-office` (session law) is deliberately NOT
     # among them: #211's form does not resolve, so there is no text a name could be checked
     # against, and giving it one here would test a mechanism this form does not have.
     #
@@ -1691,7 +3335,9 @@ def _fixture():
              "office-of-imagined-orders": "Office of Imagined Orders",
              "imaginary-constitutional-office": "Board of Imaginary Amendments"}
     texts = {"ORS 999.999": "Board of Imaginary Affairs; appointment. There is established "
-                            "the Board of Imaginary Affairs."}
+                            "the Board of Imaginary Affairs. The board consists of seven "
+                            "members appointed by the Governor. The board sits under the "
+                            "Office of Imagined Orders."}
     eo_texts_ = {"Executive Order 99-99": "Office of Imagined Orders; established. There is "
                                           "established the Office of Imagined Orders."}
     # KEYED BY ARTICLE SLUG, not by citation — `constitution_name_lookup()` parses the
@@ -1722,10 +3368,88 @@ def _fixture():
     # {key: text} dicts (`texts`, `eo_texts_`, `const_texts`), and reading a name off text
     # already fetched is not the resolver `constitutional_resolver` is; a synthetic stand-in
     # for THIS half is not a second implementation of anything under proof.
+    # THE AGENT QUOTE-CHECK (2026-10-30), and the one STATUTE PLACEMENT the fixture carries so
+    # `statute-placement-has-a-quote` has something to refuse. The quotation is a true
+    # excerpt of the synthetic text above, with the fixture's name in it.
+    #
+    # THE DOCUMENTS A QUOTATION IS MATCHED AGAINST, shaped like the mirror's own files: a
+    # banner, a generated heading and `At a glance` line, the `## Full text`, and a provenance
+    # block. Only the `## Full text` is the section. The constitutional pair is two sections
+    # of one article, because a constitutional quotation is held to ITS section and not to
+    # the article the name check reads.
+    def mirrored(cite, title, full_text):
+        return (f"---\ncitation: \"{cite}\"\ntitle: \"{title}\"\n---\n\n"
+                "> **NON-AUTHORITATIVE** The mirror's own banner.\n\n"
+                f"# {title} ({cite})\n\n## At a glance\n\n{cite} — {title}. Chapter 999 "
+                f"(Chapter 999), 2025 Edition.\n\n## Full text\n\n{full_text}\n\n"
+                "## Provenance & change history\n\n- Source: the mirror's own provenance "
+                "block, retrieved 2026-07-20.\n")
+
+    quote_docs_ors = {"ORS 999.999": mirrored(
+        "ORS 999.999", "Board of Imaginary Affairs",
+        "999.999 Board of Imaginary Affairs; appointment. There is established the Board of "
+        "Imaginary Affairs. The board consists of seven members appointed by the Governor. "
+        "The board sits under the Office of Imagined Orders."),
+        # A SECTION THAT PLACES THE SAME BOARD UNDER A BODY WHOSE NAME CONTAINS ANOTHER'S.
+        "ORS 999.995": mirrored(
+            "ORS 999.995", "Annex",
+            "999.995 Annex. The Board of Imaginary Affairs sits under the Office of Imagined "
+            "Orders Annex."),
+        # A SECTION WITH NO `## Full text`: nothing to match a quotation against.
+        "ORS 999.996": "---\ncitation: \"ORS 999.996\"\n---\n\n# A stub (ORS 999.996)\n\n"
+                       "## At a glance\n\nA stub with no text of its own.\n"}
+    quote_docs_const = {
+        "Or. Const. Art. XVII, sec. 1": mirrored(
+            "Or. Const. Art. XVII, sec. 1", "Imaginary amendments",
+            "Section 1. There is established the Board of Imaginary Amendments."),
+        "Or. Const. Art. XVII, sec. 2": mirrored(
+            "Or. Const. Art. XVII, sec. 2", "Imaginary duties",
+            "Section 2. The Board of Imaginary Amendments shall keep a fair record.")}
+    quotes = {"board-of-imaginary-affairs": [("ORS 999.999",
+                                              "There is established the Board of "
+                                              "Imaginary Affairs."),
+                                             ("ORS 999.999",
+                                              "The board sits under the Office of Imagined "
+                                              "Orders.")],
+              "imaginary-constitutional-office": [("Or. Const. Art. XVII, sec. 1",
+                                                   "There is established the Board of "
+                                                   "Imaginary Amendments.")]}
+    for o in orgs:
+        if o["slug"] == "board-of-imaginary-affairs":
+            o["relations"] = [{"target": "office-of-imagined-orders", "source": "statute",
+                               "kind": "administered_by",
+                               "basis": "reviewed-enabling-authority",
+                               "authority": "ORS 999.999"}]
     return {"mapped": mapped, "unmapped": unmapped, "orgs": orgs, "names": names,
+            "quotes": quotes,
             "texts": texts, "eo_texts": eo_texts_, "const_texts": const_texts,
             "text_lookups": name_text_lookups(ors_texts=texts, eo=eo_texts_,
                                               constitution=const_texts),
+            "documents": quote_document_lookups(ors=quote_docs_ors, eo={},
+                                                constitution=quote_docs_const),
+            # WHO REVIEWED WHAT. The ORS board and the constitutional office are an agent's
+            # (each carries its quotation); the executive-order office and the session-law
+            # one are a human's, and the executive-order office's name is too -- a human's name
+            # with NO quotation, which has to pass.
+            # A BODY LOOKED AT AND NOT RECORDED, in the state every such row is in: no key.
+            "looked_at": {"board-nobody-has-reviewed":
+                          "The mirrored ORS was searched and no section found creates it."},
+            "human": ByHuman(authorities=frozenset({"office-of-imagined-orders",
+                                                    "legislative-imaginary-office"}),
+                             absences=frozenset(unmapped),
+                             names=frozenset({"office-of-imagined-orders"})),
+            "tables": {"MAPPED": ({"office-of-imagined-orders": mapped["office-of-imagined-orders"],
+                                   "legislative-imaginary-office":
+                                       mapped["legislative-imaginary-office"]},
+                                  {"board-of-imaginary-affairs":
+                                       mapped["board-of-imaginary-affairs"],
+                                   "imaginary-constitutional-office":
+                                       mapped["imaginary-constitutional-office"]}),
+                       "UNMAPPED": (dict(unmapped), {}),
+                       "STATUTORY_NAMES": ({"office-of-imagined-orders":
+                                                names["office-of-imagined-orders"]},
+                                           {k: v for k, v in names.items()
+                                            if k != "office-of-imagined-orders"})},
             "citations": {"ORS 999.999", "Executive Order 99-99"},
             "why_unresolved": constitutional_resolver(published_constitutional_sections())}
 
@@ -1757,6 +3481,10 @@ def _audit(f) -> list[Failure]:
     return (audit_table(f["orgs"], f["mapped"], f["unmapped"], f["citations"],
                         f["why_unresolved"])
             + audit_statutory_names(f["orgs"], f["mapped"], f["names"], f["text_lookups"])
+            + audit_quote_checks(f["orgs"], f["mapped"], f["unmapped"], f["names"],
+                                 f["quotes"], f["documents"], f["human"])
+            + audit_review_tables(f["tables"])
+            + audit_looked_at(f["orgs"], f["mapped"], f["unmapped"], f["looked_at"])
             + audit_registry(f["orgs"], f["mapped"], f["unmapped"], f["names"]))
 
 
@@ -1964,6 +3692,181 @@ def _case_registry_name_that_did_not_follow_the_table(f):
             o["name"] = "Board Of Imaginary Affairs"
 
 
+def _case_quote_for_a_slug_that_is_not_in_the_registry(f):
+    """A quotation for a body this registry does not carry — a review record with no row to
+    be the record of."""
+    f["quotes"]["board-of-nowhere-in-particular"] = [
+        ("ORS 999.999", "There is established the Board of Imaginary Affairs.")]
+
+
+def _case_quote_with_nothing_to_be_the_review_of(f):
+    """A quotation on a body that is in no table and carries no statute placement. The
+    quotation is true and supports no claim, which is how a record outlives the decision it
+    was taken for."""
+    f["quotes"]["board-nobody-has-reviewed"] = [
+        ("ORS 999.999", "There is established the Board of Imaginary Affairs.")]
+
+
+def _case_quote_that_is_a_fragment(f):
+    """Three words that appear in a great many sections. A fragment that short matches
+    anything, so matching it proves nothing about the section it is attached to."""
+    f["quotes"]["board-of-imaginary-affairs"] = [("ORS 999.999", "There is established")]
+
+
+def _case_quote_the_section_does_not_say(f):
+    """A quotation the mirrored section does not contain word for word — the record of an
+    agent's reading that no longer, or never did, match the text."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.999", "There is established the Bureau of Imaginary Affairs.")]
+
+
+def _case_quote_from_a_form_this_gate_cannot_read(f):
+    """A quotation from a session law. This corpus mirrors none, so there is no text to match
+    it against — 'could not check', which must not read as 'matches'."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("Oregon Laws 1899, chapter 1", "There is established the Board of Imaginary Affairs.")]
+
+
+def _case_quote_from_a_section_the_mirror_does_not_hold(f):
+    """A quotation cited to an ORS section this corpus does not carry. Absent text is not text
+    that disagrees."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.997", "There is established the Board of Imaginary Affairs.")]
+
+
+def _case_quote_of_the_mirrors_at_a_glance_line(f):
+    """A quotation that is the mirror's own generated `At a glance` line. It occurs in the
+    mirrored FILE and says nothing the section says: it is the catchline and the chapter, set
+    there by the generator. Matched against the whole file it passed, and so did a quotation
+    of the banner or the provenance block."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.999", "ORS 999.999 — Board of Imaginary Affairs. Chapter 999 (Chapter 999), "
+                        "2025 Edition.")]
+
+
+def _case_quote_of_the_mirrors_provenance_block(f):
+    """The same, for the provenance block at the foot of the mirrored file."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.999", "Source: the mirror's own provenance block, retrieved 2026-07-20.")]
+
+
+def _case_constitutional_quote_from_a_neighbouring_section(f):
+    """A constitutional quotation taken from section 2 and cited to section 1. A body's NAME
+    is checked against the whole article (a body can be named in a different section than
+    the one that creates it), but a quotation says what ONE section says: it is held to the
+    section it cites, not to the article."""
+    f["quotes"]["imaginary-constitutional-office"] = [
+        ("Or. Const. Art. XVII, sec. 1",
+         "The Board of Imaginary Amendments shall keep a fair record.")]
+
+
+def _case_quote_from_a_section_with_no_full_text(f):
+    """A quotation cited to a mirrored document that has no `## Full text` section to look
+    in: 'could not check', which is not 'matches' and not 'the section does not say it'."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.996", "There is established the Board of Imaginary Affairs.")]
+
+
+def _case_statutory_name_no_quotation_prints(f):
+    """A name whose slug has quotations, none of which prints it: the sentence an agent
+    quoted is about something else in the section."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.999", "The board consists of seven members appointed by the Governor.")]
+
+
+def _case_statute_placement_with_no_quotation(f):
+    """A `source: statute` relation whose authority names a section QUOTE_CHECKS holds no
+    sentence from. The placement is a claim about Oregon law with nothing set beside it."""
+    for o in f["orgs"]:
+        if o["slug"] == "board-of-imaginary-affairs":
+            o["relations"][0]["authority"] = "ORS 999.998"
+
+
+def _case_statute_placement_retargeted_to_another_body(f):
+    """A `source: statute` relation whose target is a body the cited sentence does not name.
+    The quotation is real, from the cited section, and says the board sits under the Office of
+    Imagined Orders; the relation says it sits under another body. A rule that asked only
+    whether SOME quotation was cited to the section passed this."""
+    for o in f["orgs"]:
+        if o["slug"] == "board-of-imaginary-affairs":
+            o["relations"][0]["target"] = "board-nobody-has-reviewed"
+
+
+def _case_statute_placement_quote_that_places_nothing(f):
+    """A cited quotation that creates the board and prints its name and says nowhere what it
+    sits under: it supports the authority, and no placement."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.999", "There is established the Board of Imaginary Affairs.")]
+
+
+def _case_statute_placement_under_a_longer_named_body(f):
+    """The target's name occurs in the quotation only inside a LONGER name of another body
+    ("the Office of Imagined Orders Annex"): the sentence places the board under the annex."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.995", "The Board of Imaginary Affairs sits under the Office of Imagined "
+                        "Orders Annex.")]
+    for o in f["orgs"]:
+        if o["slug"] == "board-of-imaginary-affairs":
+            o["relations"][0]["authority"] = "ORS 999.995"
+
+
+def _case_agent_authority_with_no_quotation(f):
+    """An authority added to the table for a body no human reviewed and with no quotation. The
+    union table cannot tell it from a human's; the absence of a record is what it would read
+    as, and an agent's review IS its record."""
+    _set(f, "board-nobody-has-reviewed", "ORS 999.999")
+
+
+def _case_agent_name_with_no_quotation(f):
+    """The Long Term Care Ombudsman shape: a statutory name promoted on a row whose authority
+    section does print it, with no quotation anywhere. `statutory-name-in-the-cited-text` is
+    satisfied -- the section does print it -- and the row is still the agent's, unrecorded."""
+    _set(f, "board-nobody-has-reviewed", "ORS 999.999")
+    _set_name(f, "board-nobody-has-reviewed", "Board of Imaginary Affairs")
+
+
+def _case_agent_quotation_cited_to_another_section(f):
+    """The agent's quotation exists, is real, and is about another section than the one the
+    row records as its authority -- it reviews that section, not this authority."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.995", "The Board of Imaginary Affairs sits under the Office of Imagined "
+                        "Orders Annex.")]
+
+
+def _case_agent_absence_with_no_quotation(f):
+    """A reviewed absence an agent wrote with no quotation: `none: ` is a finding, and a
+    failed search is not one."""
+    reason = ("Part of the Board of Imaginary Affairs; nothing separately constitutes it "
+              "(ADR 0004), so there is no enabling authority to record.")
+    f["unmapped"]["board-nobody-has-reviewed"] = reason
+    for o in f["orgs"]:
+        if o["slug"] == "board-nobody-has-reviewed":
+            o["enabling_authority"] = no_authority_value(reason)
+
+
+def _case_row_in_the_human_and_the_agent_table(f):
+    """One authority recorded in both the human table and the agent table of the same fact:
+    the union resolves it silently as the human's."""
+    f["tables"]["MAPPED"][1]["office-of-imagined-orders"] = "Executive Order 99-99"
+
+
+def _case_looked_at_a_body_the_registry_does_not_carry(f):
+    """A search recorded for a body with no row: a finding about nothing."""
+    f["looked_at"]["board-of-nowhere-in-particular"] = (
+        "The mirrored ORS was searched and no section found creates it.")
+
+
+def _case_looked_at_with_no_reason(f):
+    """'We looked and recorded nothing' with no finding behind it."""
+    f["looked_at"]["board-nobody-has-reviewed"] = "none"
+
+
+def _case_looked_at_and_recorded(f):
+    """A body listed as looked at and not recorded that ALSO has an authority recorded: it is
+    in two of the three states, so it is in neither."""
+    _set(f, "board-nobody-has-reviewed", "ORS 999.999")
+
+
 def _case_slug_that_is_not_in_the_registry(f):
     """A reviewed row for a body this registry does not carry. The review is real and the
     body it names is unreachable, so the authority is recorded nowhere a reader can find."""
@@ -2053,6 +3956,54 @@ _CASES = [
      "statutory-name-agrees"),
     ("registry-name-that-did-not-follow-the-table",
      _case_registry_name_that_did_not_follow_the_table, "statutory-name-agrees"),
+    # THE AGENT QUOTE-CHECK'S OWN RULES (operator decision 2026-10-30, ADR 0003's amendment).
+    # An agent's reading counts as the review only because a machine can re-perform it, and
+    # each of these is a way the record can stop being that while the row beside it looks fine.
+    ("quote-for-a-slug-that-is-not-in-the-registry",
+     _case_quote_for_a_slug_that_is_not_in_the_registry, "quote-slug-in-registry"),
+    ("quote-with-nothing-to-be-the-review-of", _case_quote_with_nothing_to_be_the_review_of,
+     "quote-has-a-reviewed-row"),
+    ("quote-that-is-a-fragment", _case_quote_that_is_a_fragment, "quote-is-a-quote"),
+    ("quote-the-section-does-not-say", _case_quote_the_section_does_not_say,
+     "quote-in-the-cited-text"),
+    ("quote-from-a-form-this-gate-cannot-read", _case_quote_from_a_form_this_gate_cannot_read,
+     "quote-in-the-cited-text"),
+    ("quote-from-a-section-the-mirror-does-not-hold",
+     _case_quote_from_a_section_the_mirror_does_not_hold, "quote-in-the-cited-text"),
+    ("quote-of-the-mirrors-at-a-glance-line", _case_quote_of_the_mirrors_at_a_glance_line,
+     "quote-in-the-cited-text"),
+    ("quote-of-the-mirrors-provenance-block", _case_quote_of_the_mirrors_provenance_block,
+     "quote-in-the-cited-text"),
+    ("constitutional-quote-from-a-neighbouring-section",
+     _case_constitutional_quote_from_a_neighbouring_section, "quote-in-the-cited-text"),
+    ("quote-from-a-section-with-no-full-text", _case_quote_from_a_section_with_no_full_text,
+     "quote-in-the-cited-text"),
+    ("statutory-name-no-quotation-prints", _case_statutory_name_no_quotation_prints,
+     "statutory-name-in-a-quote"),
+    ("looked-at-a-body-the-registry-does-not-carry", _case_looked_at_a_body_the_registry_does_not_carry,
+     "looked-at-is-unrecorded"),
+    ("looked-at-with-no-reason", _case_looked_at_with_no_reason, "looked-at-is-unrecorded"),
+    ("looked-at-and-recorded", _case_looked_at_and_recorded, "looked-at-is-unrecorded"),
+    ("agent-authority-with-no-quotation", _case_agent_authority_with_no_quotation,
+     "agent-review-has-a-quote"),
+    ("agent-name-with-no-quotation", _case_agent_name_with_no_quotation,
+     "statutory-name-in-a-quote"),
+    ("agent-quotation-cited-to-another-section", _case_agent_quotation_cited_to_another_section,
+     "agent-review-has-a-quote"),
+    ("agent-name-quoted-from-another-section", _case_agent_quotation_cited_to_another_section,
+     "statutory-name-in-a-quote"),
+    ("agent-absence-with-no-quotation", _case_agent_absence_with_no_quotation,
+     "agent-review-has-a-quote"),
+    ("row-in-the-human-and-the-agent-table", _case_row_in_the_human_and_the_agent_table,
+     "review-record-is-one-kind"),
+    ("statute-placement-with-no-quotation", _case_statute_placement_with_no_quotation,
+     "statute-placement-has-a-quote"),
+    ("statute-placement-retargeted-to-another-body",
+     _case_statute_placement_retargeted_to_another_body, "statute-placement-has-a-quote"),
+    ("statute-placement-quote-that-places-nothing",
+     _case_statute_placement_quote_that_places_nothing, "statute-placement-has-a-quote"),
+    ("statute-placement-under-a-longer-named-body",
+     _case_statute_placement_under_a_longer_named_body, "statute-placement-has-a-quote"),
 ]
 
 
@@ -2101,6 +4052,49 @@ _STATUTORY_NAME_ANSWERS = [
     # opened that is STILL in that state by design — this corpus mirrors no session laws.
     ("Oregon Laws 1899, chapter 1", "cannot read the text of", "does not appear anywhere"),
 ]
+
+
+# THE SAME PROBLEM AS ABOVE, FOR A QUOTATION (operator decision 2026-10-30). Three different
+# things stand between a quotation and the text it claims to be from, and two of them produce
+# `quote-in-the-cited-text` — so `_CASES`, which asserts on the RULE, passes whether or not
+# they are told apart. Each row is (the citation, a phrase the answer MUST carry, a phrase it
+# must NOT).
+_QUOTE_ANSWERS = [
+    ("ORS 999.999", "does not appear word for word", "could not check"),
+    ("ORS 999.997", "could not check", "does not appear word for word"),
+    ("ORS 999.996", "has no `## Full text`", "does not appear word for word"),
+    ("Oregon Laws 1899, chapter 1", "cannot read the", "does not appear word for word"),
+]
+
+
+def _proof_the_ways_a_quote_goes_unchecked_are_told_apart() -> int:
+    """A quotation the section does not say, one the mirror cannot supply the section for and
+    one whose form this gate cannot read each say which they are, and no two say the same
+    thing — a reviewer re-reads a wrong quotation, but a record nobody could re-perform is a
+    different finding, and 'could not check' is never reported as 'matches' or as 'differs'."""
+    bad, answers = 0, []
+    for citation, must, must_not in _QUOTE_ANSWERS:
+        f = _fixture()
+        f["quotes"]["board-of-imaginary-affairs"] = [
+            (citation, "There is established the Bureau of Imaginary Affairs."
+             if citation == "ORS 999.999"
+             else "There is established the Board of Imaginary Affairs.")]
+        details = [p.detail for p in _audit(f) if p.rule == "quote-in-the-cited-text"]
+        if len(details) != 1:
+            print(f"FAIL quote-answers-{citation}: expected one answer, got {details}",
+                  file=sys.stderr)
+            bad += 1
+            continue
+        answers.append(details[0])
+        if must not in details[0] or must_not in details[0]:
+            print(f"FAIL quote-answers-{citation}: {details[0]!r} must carry {must!r} and "
+                  f"must not carry {must_not!r}", file=sys.stderr)
+            bad += 1
+    if len(set(answers)) != len(answers):
+        print("FAIL quote-answers-are-distinct: two ways of not matching a quotation read "
+              "alike", file=sys.stderr)
+        bad += 1
+    return bad
 
 
 def _proof_the_ways_a_name_goes_unchecked_are_told_apart() -> int:
@@ -2354,9 +4348,45 @@ def _proof_text_lookups_refuse_an_empty_mirror() -> int:
     return 1 if bad else 0
 
 
+def _proof_a_placement_quote_names_the_parent_and_not_the_child() -> int:
+    """`_quote_names_the_parent` accepts a parent named by any name it is known by, refuses a
+    sentence in which the parent's name occurs only inside the CHILD's own name or inside a
+    longer name of another body, and refuses a relation whose target is not a registry row —
+    the true positives and the near misses the violation cases above do not exercise."""
+    parent = {"slug": "p", "name": "Office of Imagined Orders",
+              "aliases": ["Imagined Orders Bureau"]}
+    child = {"slug": "c", "name": "Office of Imagined Orders Board"}
+    annex = {"slug": "a", "name": "Office of Imagined Orders Annex"}
+    rows = [parent, child, annex]
+    bad = 0
+    for label, quote, target, want in [
+            ("the parent by its name",
+             "The Office of Imagined Orders Board is established within the Office of "
+             "Imagined Orders.", parent, True),
+            ("the parent by an alias",
+             "The Office of Imagined Orders Board is established within the Imagined Orders "
+             "Bureau.", parent, True),
+            ("only the child, whose name contains the parent's",
+             "The Office of Imagined Orders Board is established.", parent, False),
+            ("only a longer-named body",
+             "The Office of Imagined Orders Board sits under the Office of Imagined Orders "
+             "Annex.", parent, False),
+            ("a target that is not a registry row",
+             "The Office of Imagined Orders Board sits under the Office of Imagined Orders.",
+             None, False)]:
+        got = _quote_names_the_parent(quote, child, target, rows)
+        if got is not want:
+            print(f"FAIL placement-quote-{label.replace(' ', '-')}: got {got}, wanted {want}",
+                  file=sys.stderr)
+            bad += 1
+    return bad
+
+
 _PROOFS = [_proof_apply_writes_the_same_bytes_twice,
+           _proof_a_placement_quote_names_the_parent_and_not_the_child,
            _proof_the_kinds_of_nothing_are_told_apart,
            _proof_the_ways_a_name_goes_unchecked_are_told_apart,
+           _proof_the_ways_a_quote_goes_unchecked_are_told_apart,
            _proof_an_unreadable_mirror_is_not_an_absent_one,
            _proof_a_catalogued_section_with_no_document_is_not_resolved,
            _proof_a_citation_the_scheme_refuses_is_not_called_resolved,

@@ -545,13 +545,16 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   all unless `--file-issue` is passed — every command typed by hand is a dry run.
   `name` IS THE STATUTORY NAME since #168 (ADR 0003), and every row states in `name_basis`
   whether it actually holds one: `enabling-authority` — read off the body's enabling
-  authority by a human, written only by `src/link_enabling_authority.py`'s `STATUTORY_NAMES`
-  and resolved by `--check` against the mirrored text of the section it cites — or
-  `unverified-oar-title`, which says nobody has established one and `name` still holds the
-  OAR chapter title, unchanged. 5 of 190 rows are established and 185 are not, and
-  `--check` prints both counts on every run: "established" and "not yet established" may
-  never be the same state. `statutory-name-basis` fails a row claiming the first with no
-  enabling authority behind it, and fails a row claiming the second whose `name` is not its
+  authority by a human, or by an agent whose quotation of the section is taken from this
+  corpus's own mirror and matched word for word against its `## Full text` on every run
+  (operator decision 2026-10-30, ADR 0003's amendment; the paragraph on an agent's quote-check
+  below says where each kind of record lives), written only by
+  `src/link_enabling_authority.py`'s `STATUTORY_NAMES` and resolved by `--check` against the
+  mirrored text of the section it cites — or `unverified-oar-title`, which says nobody has
+  established one and `name` still holds the OAR chapter title, unchanged. `--check` prints
+  both counts on every run (`name_census()`, not restated here): "established" and "not yet
+  established" may never be the same state. `statutory-name-basis` fails a row claiming the
+  first with no enabling authority behind it, and fails a row claiming the second whose `name` is not its
   `oar_name` — which is what makes "no row's name was blanked by the promotion" a checkable
   claim. The field is neither scraped nor curated but `PER_ROW`, because the row's own basis
   decides what `--refresh` does to it: an established name is carried across by
@@ -650,8 +653,9 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   is now the only key, and `catalog_agencies.py --check`'s `budget-agency-code-retired`
   fails any row where the old key reappears.
   The enabling authority (CONTEXT.md) lives in `enabling_authority`, written by
-  `python3 src/link_enabling_authority.py --apply` from the hand-reviewed `MAPPED` /
-  `UNMAPPED` tables in that file — its single writer, the same arrangement the DAS number
+  `python3 src/link_enabling_authority.py --apply` from the reviewed `MAPPED` /
+  `UNMAPPED` tables in that file (a human's reading, or an agent's quotation in `QUOTE_CHECKS`
+  that `quote-in-the-cited-text` re-matches word for word on every run) — its single writer, the same arrangement the DAS number
   has — and gated by that script's `--check` (CI, every PR): every citation is resolved
   against the mirrored ORS, executive orders and — since #196 — the mirrored Oregon
   Constitution, and the registry is compared with the table in BOTH directions, so a row
@@ -665,6 +669,31 @@ Single-context — `CONTEXT.md` and `docs/adr/` at the repo root. See
   every one of those rules can fail. An ABSENT `enabling_authority` means nobody has
   reviewed that body yet — never that the body has none; a reviewed body with no separate
   authority carries `none: ` and the reason.
+  AN AGENT'S QUOTE-CHECK IS A REVIEW (operator decision 2026-10-30, ADR 0003's and ADR 0004's
+  amendments), AND WHO REVIEWED A ROW STAYS DISTINGUISHABLE. `src/link_enabling_authority.py`
+  keeps a human table and an agent table for each fact (`HUMAN_MAPPED`/`AGENT_MAPPED`,
+  `HUMAN_UNMAPPED`/`AGENT_UNMAPPED`, `HUMAN_NAMES`/`AGENT_NAMES`): the human tables hold what
+  was reviewed before the decision, their record the comments in them and, for a `none: `
+  reason, the field's own text; the agent tables hold what an agent has reviewed since, their
+  record `QUOTE_CHECKS` — the section id and a quotation taken from THIS corpus's mirror of it
+  (the ORS mirror, or the Constitution mirror for a constitutional authority), never from
+  memory or another source. `--check` re-matches every quotation word for word inside that
+  section's own `## Full text` (`quote-in-the-cited-text`; the mirror's banner, `At a glance`
+  line and provenance block are not the section), requires an agent's authority to carry a
+  quotation cited to its own section and an agent's name a quotation of that section that
+  prints it (`agent-review-has-a-quote`, `statutory-name-in-a-quote`: a row in neither table is
+  an agent's, so a promotion cannot be added without its record), and a `source: statute`
+  placement to carry the sentence that states it and names the parent the relation targets
+  (`statute-placement-has-a-quote`); `--selftest` proves each can fail. A quotation on a row a
+  human reviewed is additional evidence and never that row's review, and `--check` prints the
+  agent's count and the human's separately. An acronym (any single token with two or more
+  capitals) enters `aliases` the same way, with a corpus document's id and the sentence that
+  pairs it with the body's name, in `ALIAS_EVIDENCE` (`src/link_budget_codes.py`), and is not
+  recorded at all when any corpus document pairs it with another body (`SHARED_ACRONYMS`;
+  `--collisions` rescans). The OAR title a promoted name replaced is kept as an alias,
+  derived from `oar_name` by the same script, and an alias equal to the row's own name is refused. A body no creating section was found for gets NO
+  `enabling_authority` key, never `none: ` — a failed search is "could not find", not "is not
+  there".
 
   **Before gating a figure, ask whether it should exist.** A number in prose earns its place
   only if a reader would act differently were it different. **Load-bearing** — a ratio, a
