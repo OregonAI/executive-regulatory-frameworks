@@ -253,7 +253,12 @@ the placement.** The derivation writes a relation's `authority` from the body's 
 `enabling_authority` (above: the section that CONSTITUTES the body, not the one the department's
 administration runs on). So a statute placement is a claim a reader can check only when that same
 section says where the body sits — ORS 468.030 establishes the Department of Environmental Quality
-"under the Environmental Quality Commission", and the quotation is recorded beside the relation. A
+"under the Environmental Quality Commission", and the quotation is recorded beside the relation. The
+gate reads that far: the quotation has to name the relation's target as the body it sits under, so
+moving that placement to the State Land Board fails it. A section that only gives a body's members
+an appointer (ORS 571.406 for the Oregon Hemp Commission) states no placement, and the Hemp
+Commission's relation to the Department of Agriculture is therefore `source: registry`, the OAR
+chapter title's reading. A
 placement a different section states (ORS 576.066's administration of the commodity commissions,
 above) is still the curated decision on a basis nothing derives, and is not recorded as `statute`
 here. The OAR index's reading of the same body is kept beside it, not reconciled (ADR 0003); a

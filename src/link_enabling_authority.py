@@ -1025,7 +1025,8 @@ STATUTORY_NAMES: dict[str, str] = {
 #                recorded name to sit inside one of the slug's quotations);
 #   UNMAPPED     the sentence that shows the unit is internal structure of its parent;
 #   a placement  (`source: statute` on the registry row) the sentence that states where the
-#                body sits, from the section the relation cites as its authority
+#                body sits, from the section the relation cites as its authority, and that
+#                names the relation's target as the body it sits under
 #                (`statute-placement-has-a-quote`).
 # A row with none of those in this table was read by a human (every row that predates the
 # 2026-10-30 decision) and is not thereby unreviewed.
@@ -1033,15 +1034,15 @@ STATUTORY_NAMES: dict[str, str] = {
 # A QUOTATION IS NOT CITABLE TEXT in the sense the mirror is: it is an excerpt, whitespace
 # collapsed, subsection markers dropped. The mirrored section is the text.
 QUOTE_CHECKS: dict[str, list[tuple[str, str]]] = {
-    # THE ONE STATUTE PLACEMENT THE REGISTRY ALREADY CARRIED (#281, a human's reading of
-    # 2026-08-28), recorded here so that `statute-placement-has-a-quote` holds for every
-    # `source: statute` relation and not only the ones added after the decision. What the
-    # section says is who appoints the commission's members — the Director of Agriculture —
-    # which is the sentence the placement under the Department of Agriculture rests on.
-    "oregon-hemp-commission": [
-        ("ORS 571.406", "the Director of Agriculture shall appoint seven temporary members "
-                        "to the Oregon Hemp Commission."),
-    ],
+    # THE HEMP COMMISSION (#281) HAS NO ENTRY HERE. Its placement under the Department of
+    # Agriculture was recorded `source: statute` on the strength of ORS 571.406, and the
+    # sentence quoted for it here said only that the Director of Agriculture appoints the
+    # commission's temporary members -- a sentence about who appoints, not one that places the
+    # commission anywhere. No mirrored section states the
+    # placement (ORS 571.404 gives the department duties over the commission; neither it nor
+    # 571.406 says the commission sits under the department), so the relation is `source:
+    # registry` -- OARD's own title for chapter 648, "Department of Agriculture, Oregon Hemp
+    # Commission" -- and a human's reading of the authority stands without a quotation.
     # AGENT QUOTE-CHECKED, 2026-10-30. For a body in the batch above that cites its own section
     # these are the sentences that create or constitute it and print its name; where a body's
     # section lists several bodies (ORS 576.062's commodity commissions, ORS 352.002's
@@ -2749,25 +2750,79 @@ def audit_quote_checks(orgs, mapped, unmapped, names, quotes, documents) -> list
                 f"records the statutory name {name!r} and none of its quotations prints it — "
                 "an agent's review of a name is the sentence that PRINTS the name, and "
                 "without one the name rests on a reading nobody can re-perform"))
-    # EVERY STATUTE PLACEMENT HAS THE SENTENCE THAT STATES IT. The relation's `authority` is
-    # written by derive_relation_kinds.py and is the body's OWN enabling authority, so the
-    # section it cites is the body's constituting section — and a placement is only a
-    # quotation-checked claim when that section is the one that says where the body sits.
+    # EVERY STATUTE PLACEMENT HAS THE SENTENCE THAT STATES IT, AND THE SENTENCE NAMES THE PARENT.
+    # The relation's `authority` is written by derive_relation_kinds.py and is the body's OWN
+    # enabling authority, so the section it cites is the body's constituting section -- and a
+    # placement is only a quotation-checked claim when a sentence of that section says where the
+    # body sits. "Says where" is checked as far as a gate can read it: the parent's name is in
+    # the quotation, and the body it names is the relation's target. A rule that asked only
+    # whether SOME quotation was cited to the section passed a placement retargeted to any
+    # body at all (DEQ moved from the Environmental Quality Commission to the State Land Board).
+    # Whether the sentence means "under" is what the agent who chose it answers for.
     for slug, o in sorted(by_slug.items()):
         for entry in relation_entries(o):
             if not isinstance(entry, dict) or entry.get("source") != STATUTE_SOURCE:
                 continue
-            cited = [c for c, _ in _good_pairs(quotes.get(slug))]
+            pairs = _good_pairs(quotes.get(slug))
             want = entry.get("authority")
-            if not cited or (want is not None and want not in cited):
+            target = entry.get("target")
+            from_section = [q for c, q in pairs if want is None or c == want]
+            if not from_section:
                 problems.append(Failure(
                     "statute-placement-has-a-quote", slug,
-                    f"is placed under {entry.get('target')!r} by `source: {STATUTE_SOURCE}` "
+                    f"is placed under {target!r} by `source: {STATUTE_SOURCE}` "
                     f"(authority {want!r}) and QUOTE_CHECKS holds "
-                    f"{'no quotation' if not cited else 'no quotation from that section'} "
+                    f"{'no quotation' if not pairs else 'no quotation from that section'} "
                     "for it — a statute placement is the sentence that states it, set "
                     "beside the relation"))
+            elif not any(_quote_names_the_parent(q, o, by_slug.get(target), by_slug.values())
+                         for q in from_section):
+                problems.append(Failure(
+                    "statute-placement-has-a-quote", slug,
+                    f"is placed under {target!r} by `source: {STATUTE_SOURCE}` "
+                    f"(authority {want!r}) and no quotation from that section names "
+                    f"{(by_slug.get(target) or {}).get('name')!r} (or another name the "
+                    "target is known by) as the body it sits under — the sentence recorded "
+                    "beside a placement has to be the one that places THIS body under THIS "
+                    "parent, or it supports some other placement"))
     return problems
+
+
+def _row_names(row) -> list[str]:
+    """Every name one registry row is known by: `name`, `oar_name` and `aliases`."""
+    if not isinstance(row, dict):
+        return []
+    out = [row.get("name"), row.get("oar_name")] + list(row.get("aliases") or [])
+    return [n for n in out if isinstance(n, str) and n.strip()]
+
+
+def _name_spans(text: str, name: str) -> list[tuple[int, int]]:
+    """Where `name` occurs in `text` as a whole name, not inside a longer word."""
+    return [m.span() for m in re.finditer(
+        r"(?<![A-Za-z0-9])" + re.escape(name) + r"(?![A-Za-z0-9])", text)]
+
+
+def _quote_names_the_parent(quote, child, parent, rows) -> bool:
+    """Whether `quote` names `parent` — the relation's target — as a body other than `child`.
+
+    The child's own names are blanked first (a department's name often contains its parent's,
+    and the child naming itself places it nowhere). An occurrence of a parent name that lies
+    inside a LONGER name of some other registry body is that other body being named, not this
+    parent: a quotation placing a board under "the Office of Imagined Orders Annex" does not
+    place it under "the Office of Imagined Orders"."""
+    if not isinstance(parent, dict):
+        return False
+    text = _squash(quote)
+    for n in sorted(_row_names(child), key=len, reverse=True):
+        for a, b in _name_spans(text, n):
+            text = text[:a] + " " * (b - a) + text[b:]
+    others = [(a, b) for r in rows if r is not parent and r is not child
+              for n in _row_names(r) for a, b in _name_spans(text, n)]
+    for n in _row_names(parent):
+        for a, b in _name_spans(text, n):
+            if not any(oa <= a and b <= ob and (ob - oa) > (b - a) for oa, ob in others):
+                return True
+    return False
 
 
 def audit_registry(orgs, mapped=None, unmapped=None, names=None) -> list[Failure]:
@@ -2982,7 +3037,7 @@ def check() -> int:
           f"section on this run — {len(quoted & set(MAPPED))} reviewed authorities, "
           f"{len(quoted & set(UNMAPPED))} reviewed absences, "
           f"{len(quoted & set(STATUTORY_NAMES))} statutory names, {placements} statute "
-          f"placement(s) (every one of them quoted)")
+          f"placement(s) (every one of them quoted, and the quotation names its parent)")
     return 0
 
 
@@ -3033,6 +3088,9 @@ def _fixture():
     # the fixture has to pass cleanly with it — a gate that treated "nobody has looked yet"
     # as a violation would make the honest default impossible to hold.
     orgs.append({"slug": "board-nobody-has-reviewed", "name": "Board Nobody Has Reviewed"})
+    # A SECOND BODY WHOSE NAME CONTAINS THE PARENT'S, for `statute-placement-has-a-quote`.
+    orgs.append({"slug": "office-of-imagined-orders-annex",
+                 "name": "Office of Imagined Orders Annex"})
     # THE STATUTORY NAME, READ OFF ONE OF THOSE AUTHORITIES (#168), and the mirrored text it
     # was read off — for one body of each RESOLVABLE form (#220 widens this fixture from one
     # body to three, matching the widened gate: ORS, executive order and constitution each
@@ -3053,7 +3111,8 @@ def _fixture():
              "imaginary-constitutional-office": "Board of Imaginary Amendments"}
     texts = {"ORS 999.999": "Board of Imaginary Affairs; appointment. There is established "
                             "the Board of Imaginary Affairs. The board consists of seven "
-                            "members appointed by the Governor."}
+                            "members appointed by the Governor. The board sits under the "
+                            "Office of Imagined Orders."}
     eo_texts_ = {"Executive Order 99-99": "Office of Imagined Orders; established. There is "
                                           "established the Office of Imagined Orders."}
     # KEYED BY ARTICLE SLUG, not by citation — `constitution_name_lookup()` parses the
@@ -3104,7 +3163,13 @@ def _fixture():
     quote_docs_ors = {"ORS 999.999": mirrored(
         "ORS 999.999", "Board of Imaginary Affairs",
         "999.999 Board of Imaginary Affairs; appointment. There is established the Board of "
-        "Imaginary Affairs. The board consists of seven members appointed by the Governor."),
+        "Imaginary Affairs. The board consists of seven members appointed by the Governor. "
+        "The board sits under the Office of Imagined Orders."),
+        # A SECTION THAT PLACES THE SAME BOARD UNDER A BODY WHOSE NAME CONTAINS ANOTHER'S.
+        "ORS 999.995": mirrored(
+            "ORS 999.995", "Annex",
+            "999.995 Annex. The Board of Imaginary Affairs sits under the Office of Imagined "
+            "Orders Annex."),
         # A SECTION WITH NO `## Full text`: nothing to match a quotation against.
         "ORS 999.996": "---\ncitation: \"ORS 999.996\"\n---\n\n# A stub (ORS 999.996)\n\n"
                        "## At a glance\n\nA stub with no text of its own.\n"}
@@ -3117,7 +3182,10 @@ def _fixture():
             "Section 2. The Board of Imaginary Amendments shall keep a fair record.")}
     quotes = {"board-of-imaginary-affairs": [("ORS 999.999",
                                               "There is established the Board of "
-                                              "Imaginary Affairs.")],
+                                              "Imaginary Affairs."),
+                                             ("ORS 999.999",
+                                              "The board sits under the Office of Imagined "
+                                              "Orders.")],
               "imaginary-constitutional-office": [("Or. Const. Art. XVII, sec. 1",
                                                    "There is established the Board of "
                                                    "Imaginary Amendments.")]}
@@ -3464,6 +3532,34 @@ def _case_statute_placement_with_no_quotation(f):
             o["relations"][0]["authority"] = "ORS 999.998"
 
 
+def _case_statute_placement_retargeted_to_another_body(f):
+    """A `source: statute` relation whose target is a body the cited sentence does not name.
+    The quotation is real, from the cited section, and says the board sits under the Office of
+    Imagined Orders; the relation says it sits under another body. A rule that asked only
+    whether SOME quotation was cited to the section passed this."""
+    for o in f["orgs"]:
+        if o["slug"] == "board-of-imaginary-affairs":
+            o["relations"][0]["target"] = "board-nobody-has-reviewed"
+
+
+def _case_statute_placement_quote_that_places_nothing(f):
+    """A cited quotation that creates the board and prints its name and says nowhere what it
+    sits under: it supports the authority, and no placement."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.999", "There is established the Board of Imaginary Affairs.")]
+
+
+def _case_statute_placement_under_a_longer_named_body(f):
+    """The target's name occurs in the quotation only inside a LONGER name of another body
+    ("the Office of Imagined Orders Annex"): the sentence places the board under the annex."""
+    f["quotes"]["board-of-imaginary-affairs"] = [
+        ("ORS 999.995", "The Board of Imaginary Affairs sits under the Office of Imagined "
+                        "Orders Annex.")]
+    for o in f["orgs"]:
+        if o["slug"] == "board-of-imaginary-affairs":
+            o["relations"][0]["authority"] = "ORS 999.995"
+
+
 def _case_slug_that_is_not_in_the_registry(f):
     """A reviewed row for a body this registry does not carry. The review is real and the
     body it names is unreachable, so the authority is recorded nowhere a reader can find."""
@@ -3579,6 +3675,12 @@ _CASES = [
      "statutory-name-in-a-quote"),
     ("statute-placement-with-no-quotation", _case_statute_placement_with_no_quotation,
      "statute-placement-has-a-quote"),
+    ("statute-placement-retargeted-to-another-body",
+     _case_statute_placement_retargeted_to_another_body, "statute-placement-has-a-quote"),
+    ("statute-placement-quote-that-places-nothing",
+     _case_statute_placement_quote_that_places_nothing, "statute-placement-has-a-quote"),
+    ("statute-placement-under-a-longer-named-body",
+     _case_statute_placement_under_a_longer_named_body, "statute-placement-has-a-quote"),
 ]
 
 
@@ -3923,7 +4025,42 @@ def _proof_text_lookups_refuse_an_empty_mirror() -> int:
     return 1 if bad else 0
 
 
+def _proof_a_placement_quote_names_the_parent_and_not_the_child() -> int:
+    """`_quote_names_the_parent` accepts a parent named by any name it is known by, refuses a
+    sentence in which the parent's name occurs only inside the CHILD's own name or inside a
+    longer name of another body, and refuses a relation whose target is not a registry row —
+    the true positives and the near misses the violation cases above do not exercise."""
+    parent = {"slug": "p", "name": "Office of Imagined Orders",
+              "aliases": ["Imagined Orders Bureau"]}
+    child = {"slug": "c", "name": "Office of Imagined Orders Board"}
+    annex = {"slug": "a", "name": "Office of Imagined Orders Annex"}
+    rows = [parent, child, annex]
+    bad = 0
+    for label, quote, target, want in [
+            ("the parent by its name",
+             "The Office of Imagined Orders Board is established within the Office of "
+             "Imagined Orders.", parent, True),
+            ("the parent by an alias",
+             "The Office of Imagined Orders Board is established within the Imagined Orders "
+             "Bureau.", parent, True),
+            ("only the child, whose name contains the parent's",
+             "The Office of Imagined Orders Board is established.", parent, False),
+            ("only a longer-named body",
+             "The Office of Imagined Orders Board sits under the Office of Imagined Orders "
+             "Annex.", parent, False),
+            ("a target that is not a registry row",
+             "The Office of Imagined Orders Board sits under the Office of Imagined Orders.",
+             None, False)]:
+        got = _quote_names_the_parent(quote, child, target, rows)
+        if got is not want:
+            print(f"FAIL placement-quote-{label.replace(' ', '-')}: got {got}, wanted {want}",
+                  file=sys.stderr)
+            bad += 1
+    return bad
+
+
 _PROOFS = [_proof_apply_writes_the_same_bytes_twice,
+           _proof_a_placement_quote_names_the_parent_and_not_the_child,
            _proof_the_kinds_of_nothing_are_told_apart,
            _proof_the_ways_a_name_goes_unchecked_are_told_apart,
            _proof_the_ways_a_quote_goes_unchecked_are_told_apart,

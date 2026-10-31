@@ -236,7 +236,9 @@ sentences listed is superseded by this section.
    quotation prints it (`statutory-name-in-a-quote`); an authority is recorded only when a
    quotation shows the section creating or constituting the body, not one that merely mentions it
    (a definition, a duty, a fund); a placement is recorded `source: statute` only with the
-   sentence that states it (`statute-placement-has-a-quote`). The gates can match text; whether a
+   sentence that states it, which has to name the relation's target as the body it sits under
+   (`statute-placement-has-a-quote`; a quotation that names some other body, or the child alone,
+   fails it). The gates can match text; whether a
    sentence shows the claim is what the agent who chose it answers for and a reviewer re-reads.
    Where a section constitutes a body without a creation verb ("shall operate as a
    semi-independent state agency", "consists of nine members appointed by the Governor"),
