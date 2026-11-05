@@ -1,6 +1,6 @@
 # STATUS — Oregon Executive Regulatory Frameworks
 
-Generated 2026-10-17. Non-authoritative; see DISCLAIMER.md.
+Generated 2026-11-05. Non-authoritative; see DISCLAIMER.md.
 
 ## Documents by type
 
