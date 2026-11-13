@@ -24,6 +24,30 @@ file's frontmatter).
 
 ### Fixed
 
+- **ORS section text no longer runs into the stubs and the closing rule that follow it (#446, #449).**
+  `repo_lib.snapshot_slice` now ends a section at a repealed/renumbered section's bracket stub
+  (`171.020 [Repealed by ...]`, also a list or range of numbers) and drops the chapter page's
+  closing rule (fifteen underscores before the end of the page or the next page furniture).
+  Re-measured over all 39,002 `statutes/ors-*.md` documents on `50f77ca4b4`, by direct count:
+
+  | | issue (at `6fe545cfb2`, 37,534 docs) | `50f77ca4b4` | this change |
+  |---|---|---|---|
+  | text contains another section's heading, where that section has its own document | 3,641 | **0** (fixed by #454's any-width pattern; documents already regenerated) | 0 |
+  | text contains another section's bracket stub | 9,755 | **8,435** (767 in chapters 1 to 99, 7,668 in 100 and up) | **0** (29 matches remain by the raw pattern, all citations with an editorial bracket such as `ORS 196.905 [renumbered 196.921]`) |
+  | text ends in six or more underscores | 1,052 | **525** | **5** (all end in the seventy-eight underscore rule that brackets a quoted compact or table inside the section; left, see below) |
+
+  8,797 documents changed. In every one the new `## Full text` is a strict prefix of the old one
+  (checked for all 8,797: nothing but the overrun was removed; 1,642,714 characters in all);
+  everything outside the Full text block is byte-identical in that commit. 6,642 of them, and
+  3,737 further documents whose derived years were already stale, then had `enacted` and
+  `last_amended` re-derived by `enrich_statutes.py` (derived from the history brackets).
+  Not changed on purpose: Legislative Counsel notes, parenthesised subheadings, second prints of
+  a section operative later, and the seventy-eight underscore rule inside a section.
+  New independent gate `src/check_ors_section_bounds.py --check` (and `--selftest`, in
+  `tests/gates.py`, PR tier) reads only the committed documents, not `snapshot_slice`, so it
+  can see what the generator and `verify_provenance` agree on by construction.
+  `src/backfill_ors_section_bounds.py` is the one-off that re-sliced the documents.
+
 - `repo_lib.snapshot_slice` now ends a section at the next section in ANY chapter. The
   next-section pattern required a three-digit chapter and a three-digit tail, so in every
   chapter below 100 (and 72A/74A) a slice ran on to the next part heading or the end of the
