@@ -639,6 +639,46 @@ def _proof_an_anchor_refusal_records_what_it_found(ck):
         globals()["OUT"] = orig_out
 
 
+def _proof_a_stub_and_a_closing_rule_end_a_section(ck):
+    """A repealed/renumbered section is printed as a number and a bracket ('171.020 [Repealed
+    by 1955 c.211 §7]'), with no catchline, and the chapter page closes with a rule of
+    fifteen underscores. Neither is part of the section before it (#446 cause 2, #449): the
+    slice used to run on through every stub to the next section in force, and through the
+    rule to the end of the page. Real snapshots, no network, plus synthetic text for the
+    shapes the snapshots do not hold together."""
+    from repo_lib import snapshot_slice as ss
+    sl = ss("ors-171.015", "ors-chapter-171", (SNAPSHOT_DIR / "ors-chapter-171.txt").read_text(
+        encoding="utf-8", errors="replace"))
+    ck("171.015 stops before the stub 171.020", "171.020" not in sl and "Repealed" not in sl)
+    ck("171.015 keeps its own history bracket", sl.rstrip().endswith("[1977 c.689 §1]"))
+    sl = ss("ors-1.050", "ors-chapter-1", (SNAPSHOT_DIR / "ors-chapter-1.txt").read_text(
+        encoding="utf-8", errors="replace"))
+    ck("1.050 stops before the stub 1.055", "1.055" not in sl and sl.rstrip().endswith("§17]"))
+    sl = ss("ors-1.860", "ors-chapter-1", (SNAPSHOT_DIR / "ors-chapter-1.txt").read_text(
+        encoding="utf-8", errors="replace"))
+    ck("1.860 does not end in the closing rule", "____" not in sl)
+    ck("1.860 keeps its own history bracket", sl.rstrip().endswith("[2012 c.107 §86]"))
+    rule = "_" * 15
+    ck("a range stub is a boundary",
+       ss("ors-9.100", "ors-chapter-9", "9.100 Real. Body. [1990 c.1] 9.110 to 9.130 [Repealed by 1991 c.2]"
+          " 9.140 Next. Body.") .rstrip().endswith("[1990 c.1]"))
+    ck("a comma list stub is a boundary",
+       ss("ors-9.100", "ors-chapter-9", "9.100 Real. Body. [1990 c.1] 9.110, 9.120 [Repealed by 1991 c.2]"
+          " 9.140 Next. Body.").rstrip().endswith("[1990 c.1]"))
+    ck("a cited stub ('see ORS 9.110 [Repealed') is not a boundary",
+       "Repealed" in ss("ors-9.100", "ors-chapter-9",
+                        "9.100 Real. See ORS 9.110 [Repealed by 1991 c.2] for more. [1990 c.1]"))
+    ck("a rule of underscores inside a section (a form) stays",
+       "_" * 78 in ss("ors-9.100", "ors-chapter-9",
+                      "9.100 Real. Form: " + "_" * 78 + " I swear. [1990 c.1] " + rule))
+    ck("the closing rule after the bracket is dropped",
+       ss("ors-9.100", "ors-chapter-9", "9.100 Real. Body. [1990 c.1] " + rule + " Chapter 9").rstrip()
+       .endswith("[1990 c.1]"))
+    ck("a rule after a Legislative Counsel note is page furniture too (the note stays)",
+       ss("ors-9.100", "ors-chapter-9", "9.100 Real. Body. [1990 c.1] Note: See x. " + rule)
+       .rstrip().endswith("See x."))
+
+
 def _selftest() -> int:
     from repo_lib import Checks
     ck = Checks()
@@ -650,6 +690,7 @@ def _selftest() -> int:
     _proof_a_cross_reference_is_not_a_section_start(ck)
     _proof_a_section_ends_at_the_next_one_in_any_width_chapter(ck)
     _proof_an_anchor_refusal_records_what_it_found(ck)
+    _proof_a_stub_and_a_closing_rule_end_a_section(ck)
     return ck.report("ingest-ors selftest")
 
 

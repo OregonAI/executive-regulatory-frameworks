@@ -829,6 +829,25 @@ def operative_print(prints: list, section: str) -> str:
 _ORS_CITATION_PREFIX_RE = re.compile(r"(?:\bORS|\band|\bto|\bor|\bsections?|,)\s*$", re.I)
 
 
+# A REPEALED OR RENUMBERED SECTION is printed as a number and a bracket, with no catchline
+# ('171.020 [Repealed by 1955 c.211 §7]'), sometimes for a list or a range of numbers
+# ('74.560, 74.570 [Repealed ...]', '171.020 to 171.030 [Repealed ...]'). It is a section
+# boundary: its history belongs to it, not to the section in force before it (#446).
+_ORS_NUM = r"\d{1,3}[A-Z]?\.\d{3,4}"
+_ORS_STUB_RE = re.compile(rf"\b{_ORS_NUM}(?:(?:,| to| and|, and) {_ORS_NUM})* \[")
+
+# THE CLOSING RULE of a chapter page (or of a part of one) is fifteen underscores, followed by
+# the end of the page or by the next block of page furniture ('Chapter 106 — ...', '2025 EDITION',
+# 'CHAPTERS 533 TO 535'). It is page furniture, not section text (#449). Fifteen underscores
+# are also blanks inside printed forms ('Name: _______________ Relationship:'), which is why
+# the rule is only recognised before furniture, and why a rule of seventy-eight underscores
+# (it brackets a quoted compact or table INSIDE a section) is not matched at all. The page
+# sometimes glues a stray '_' to the rule ('violations._ ______________'); that is furniture
+# too.
+_ORS_CLOSING_RULE_RE = re.compile(
+    r"(?:_ )?(?<!_)_{14,15}(?!_)(?=\s*(?:$|(?:Chapters?|CHAPTERS?) \d|\d{4} EDITION))")
+
+
 def snapshot_slice(doc_id: str, snapshot_id: str, raw_text: str) -> str:
     """The portion of a shared snapshot's text that a document's '## Full text' covers.
     Used identically by the migration generator and verify_provenance so coverage is
@@ -870,6 +889,16 @@ def snapshot_slice(doc_id: str, snapshot_id: str, raw_text: str) -> str:
         # right after the bracket instead.
         head = re.search(r"\]\s+[A-Z][A-Z '\-]{7,}(?:\s|$)", window)
         candidates = [start + 10 + nxt.start()] if nxt else []
+        # A repealed/renumbered section's bracket stub is a boundary of its own (#446), and so
+        # is the chapter page's closing rule (#449). A cited stub is skipped as above.
+        stub = next((m for m in _ORS_STUB_RE.finditer(window)
+                     if not _ORS_CITATION_PREFIX_RE.search(window[max(0, m.start() - 12):m.start()])),
+                    None)
+        if stub:
+            candidates.append(start + 10 + stub.start())
+        rule = _ORS_CLOSING_RULE_RE.search(window)
+        if rule:
+            candidates.append(start + 10 + rule.start())
         if head:
             candidates.append(start + 10 + head.start() + 1)  # +1 = right after "]"
         end = min(candidates) if candidates else len(norm)
