@@ -7,8 +7,10 @@
 WHY THIS EXISTS (#446, #449). `repo_lib.snapshot_slice` is called both by the generator that
 writes a document and by `verify_provenance` that measures the document's coverage, so the
 two agree by construction: a slice that runs on past its section is a document that runs on
-past its section, and the provenance gate reports it as fully covered. 3,641 + 9,755 + 1,052
-documents carried that defect behind green gates.
+past its section, and the provenance gate reports it as fully covered. 8,435 documents
+carried a stub and 525 ended in the closing rule behind green gates (0 carried another section's
+heading; measured by direct count at 50f77ca4b4; the issue's 3,641 / 9,755 / 1,052 were measured
+at 6fe545cfb2).
 
 This module does not call `snapshot_slice`. It reads only the committed DOCUMENTS and asks
 three questions of each one's own text, with patterns of its own:
@@ -38,6 +40,10 @@ NUM = r"\d{1,3}[A-Z]?\.\d{3,4}"
 HEADING_RE = re.compile(rf"(?<![\w.])({NUM}) [A-Z“\"]")
 STUB_RE = re.compile(rf"(?<![\w.])({NUM})(?:(?:,| to| and|, and) {NUM})* \[")
 CITE_BEFORE_RE = re.compile(r"(?:\bORS|\band|\bto|\bor|\bsections?|,|\d)\s*$", re.I)
+# Documents whose overrun carries a Legislative Counsel 'Note:' that exists in no other
+# document: trimming them would delete verbatim session-law text, so they are left as they
+# are and listed here (one 'ors-N.NNN' per line, '#' comments) until such notes have a home.
+HELD_FILE = "ors-section-bounds-held.txt"
 END_RULE_RE = re.compile(r"(?<!_)_{14,15}\s*$")
 
 
@@ -67,26 +73,35 @@ def findings(doc_id: str, full_text: str, section_ids) -> list[str]:
 def check(root: Path = REPO_ROOT) -> int:
     paths = sorted((root / "statutes").glob("ors-*.md"))
     ids = {p.stem[4:].upper() for p in paths}
-    bad, unreadable = [], []
+    bad, unreadable, held_seen = [], [], set()
+    hf = root / "_meta" / HELD_FILE
+    held = {ln.strip() for ln in hf.read_text(encoding="utf-8").splitlines()
+            if ln.strip() and not ln.startswith("#")} if hf.exists() else set()
     for p in paths:
         m = FT_RE.search(p.read_text(encoding="utf-8"))
         if not m:
             unreadable.append(p.name)
             continue
         f = findings(p.stem, m.group(1), ids)
-        if f:
+        if f and p.stem in held:
+            held_seen.add(p.stem)
+        elif f:
             bad.append((p.name, f))
     for name, f in bad[:25]:
         print(f"FAIL {name}: " + "; ".join(f))
     for name in unreadable[:25]:
         print(f"UNREADABLE {name}: no '## Full text' block found; not checked")
-    if bad or unreadable:
+    stale = sorted(held - held_seen)
+    for h in stale[:25]:
+        print(f"STALE {h}: listed in _meta/{HELD_FILE} but not flagged (or no document); remove it")
+    if bad or unreadable or stale:
         print(f"FAILED: {len(bad)} of {len(paths)} ORS section documents run past their own "
-              f"section, {len(unreadable)} could not be read -- run: "
+              f"section, {len(unreadable)} could not be read, {len(stale)} stale held entries -- run: "
               "python3 src/backfill_ors_section_bounds.py")
         return 1
     print(f"OK: none of {len(paths)} ORS section documents contains another section's heading "
-          "or stub, or ends in the closing rule.")
+          f"or stub, or ends in the closing rule ({len(held_seen)} held: their overrun carries a "
+          "note found nowhere else).")
     return 0
 
 
@@ -134,6 +149,19 @@ def _selftest() -> int:
         doc("9.100", "9.100 Real. Body. [1990 c.1]")
         (root / "statutes" / "ors-9.300.md").write_text("no full text block here\n")
         ck("an unreadable document fails the gate, it is not counted clean", check(root) == 1)
+        # A HELD document (its overrun carries a Legislative Counsel note that exists nowhere
+        # else) is reported, not failed; a held entry that is no longer flagged, or has no
+        # document, fails so the list cannot rot.
+        (root / "statutes" / "ors-9.300.md").unlink()
+        doc("9.100", "9.100 Real. [1990 c.1] 9.150 [Repealed by 1991 c.2] Note: kept.")
+        ck("an overrun fails the gate when not held", check(root) == 1)
+        (root / "_meta").mkdir(exist_ok=True)
+        (root / "_meta" / HELD_FILE).write_text("# why\nors-9.100\n")
+        ck("a held overrun does not fail the gate", check(root) == 0)
+        doc("9.100", "9.100 Real. Body. [1990 c.1]")
+        ck("a held entry that is no longer flagged fails the gate", check(root) == 1)
+        (root / "_meta" / HELD_FILE).write_text("ors-9.999\n")
+        ck("a held entry with no document fails the gate", check(root) == 1)
     return ck.report("check-ors-section-bounds selftest")
 
 
