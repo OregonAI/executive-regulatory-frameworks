@@ -33,16 +33,36 @@ file's frontmatter).
   | | issue (at `6fe545cfb2`, 37,534 docs) | `50f77ca4b4` | this change |
   |---|---|---|---|
   | text contains another section's heading, where that section has its own document | 3,641 | **0** (fixed by #454's any-width pattern; documents already regenerated) | 0 |
-  | text contains another section's bracket stub | 9,755 | **8,435** (767 in chapters 1 to 99, 7,668 in 100 and up) | **0** (29 matches remain by the raw pattern, all citations with an editorial bracket such as `ORS 196.905 [renumbered 196.921]`) |
-  | text ends in six or more underscores | 1,052 | **525** | **5** (all end in the seventy-eight underscore rule that brackets a quoted compact or table inside the section; left, see below) |
+  | text contains another section's bracket stub | 9,755 | **8,435** (767 in chapters 1 to 99, 7,668 in 100 and up) | **23** (all held, see below; 28 more matches by the raw pattern are citations with an editorial bracket such as `ORS 196.905 [renumbered 196.921]`) |
+  | text ends in six or more underscores | 1,052 | **525** | **6** (5 end in the seventy-eight underscore rule that brackets a quoted compact or table inside the section, left on purpose; 1 is a held document) |
 
-  8,797 documents changed. In every one the new `## Full text` is a strict prefix of the old one
-  (checked for all 8,797: nothing but the overrun was removed; 1,642,714 characters in all);
-  everything outside the Full text block is byte-identical in that commit. 6,642 of them, and
-  3,737 further documents whose derived years were already stale, then had `enacted` and
-  `last_amended` re-derived by `enrich_statutes.py` (derived from the history brackets).
-  Not changed on purpose: Legislative Counsel notes, parenthesised subheadings, second prints of
-  a section operative later, and the seventy-eight underscore rule inside a section.
+  8,774 documents changed (8,797 were trimmed in the first pass; 23 were restored, see below). In
+  every one the new `## Full text` is a strict prefix of the old one (checked for all 8,774;
+  1,563,453 characters removed in all), and everything outside the Full text block is
+  byte-identical in the trim commit. 6,642 of them, and 3,737 further documents whose derived
+  years were already stale, then had `enacted` and `last_amended` re-derived by
+  `enrich_statutes.py` (derived from the history brackets).
+
+  What the trim removed besides stubs and the closing rule, stated plainly: the tail after a
+  section's own text is cut wherever the next stub begins, so 547 documents (by the pattern
+  "tail ends in a parenthesised capitalised heading", e.g. `ors-109.119`
+  "(Adjudications of Parentage)", `ors-133.539` "(Search and Seizure Pursuant to Warrant)")
+  no longer carry the parenthesised subheading of the group that follows them, and 8 trimmed
+  tails began with a part heading or a `CHAPTERS n TO m [Reserved for expansion]` line. Those
+  headings belong to the next section or group, not to the section they were glued to; the
+  slicer code for them did not change, but the documents are shorter where a stub preceded them.
+
+  HELD, not trimmed: 23 documents whose overrun carries 25 Legislative Counsel `Note:` blocks
+  (verbatim session-law text) that exist in no other document: `ors-127.765`, `137.286`,
+  `188.125`, `188.140`, `195.125`, `222.183`, `238a.475`, `284.720`, `311.701`, `314.140`,
+  `319.420`, `358.509`, `358.528`, `430.233`, `454.380`, `459.350`, `469.619`, `469b.403`,
+  `476.290`, `498.504`, `675.063`, `676.760`, `679.525`. Trimming them would delete the notes
+  from the corpus, so they stay as on `50f77ca4b4` (listed in
+  `_meta/ors-section-bounds-held.txt`; the gate reports them as held and fails on a stale
+  entry, the backfill refuses any trim that removes a note found nowhere else). Until such notes
+  have a home, regenerating one of these documents with the fixed `snapshot_slice` would drop
+  its notes. Not changed on purpose: Legislative Counsel notes, second prints of a section
+  operative later, and the seventy-eight underscore rule inside a section.
   New independent gate `src/check_ors_section_bounds.py --check` (and `--selftest`, in
   `tests/gates.py`, PR tier) reads only the committed documents, not `snapshot_slice`, so it
   can see what the generator and `verify_provenance` agree on by construction.
