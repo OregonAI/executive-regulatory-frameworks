@@ -46,7 +46,7 @@ ORS 2.130 — Rules governing original jurisdiction. Chapter 2 (Supreme Court; C
 
 ## Full text
 
-2.130 Rules governing original jurisdiction. The Supreme Court is empowered to prescribe and make rules governing the conduct in that court of all causes of original jurisdiction therein. 2.140 [Repealed by 1953 c.345 §3]
+2.130 Rules governing original jurisdiction. The Supreme Court is empowered to prescribe and make rules governing the conduct in that court of all causes of original jurisdiction therein. 
 
 ## Provenance & change history
 

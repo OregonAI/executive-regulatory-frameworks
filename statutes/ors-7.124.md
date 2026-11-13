@@ -62,7 +62,7 @@ ORS 7.124 — Procedures for destruction of documents; photographic and electron
 
 (1) of this section must ensure that the electronic images are continuously updated into commonly used formats and, if necessary, transferred to media necessary to ensure that the electronic images are accessible through commonly used electronic or computerized systems.
 
-(5) If a copy of a document created under this section is retained in lieu of the original document, the copy is the official court record for all purposes and must be retained for the period established by the schedule prescribed in ORS 8.125 (11). [2007 c.129 §2; 2013 c.685 §3] Note: 7.124 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 7 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 7.125 [1985 c.540 §8; 1995 c.781 §§17,17a; repealed by 1995 c.658 §127] 
+(5) If a copy of a document created under this section is retained in lieu of the original document, the copy is the official court record for all purposes and must be retained for the period established by the schedule prescribed in ORS 8.125 (11). [2007 c.129 §2; 2013 c.685 §3] Note: 7.124 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 7 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

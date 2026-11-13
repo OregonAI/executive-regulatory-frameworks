@@ -54,7 +54,7 @@ ORS 468A.268 — Conditions for considering biodiesel as low carbon fuel; rules.
 
 (2) The commission may adopt rules different from those required under subsection
 
-(1) of this section if an ASTM or EN standard applicable to biodiesel is approved or amended after March 12, 2015, or if the commission finds that different rules are necessary due to changes in technology or fuel testing or production methods. [2017 c.750 §161] 468A.270 [2009 c.754 §3; renumbered 468A.279 in 2017] 
+(1) of this section if an ASTM or EN standard applicable to biodiesel is approved or amended after March 12, 2015, or if the commission finds that different rules are necessary due to changes in technology or fuel testing or production methods. [2017 c.750 §161] 
 
 ## Provenance & change history
 

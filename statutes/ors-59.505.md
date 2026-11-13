@@ -54,7 +54,7 @@ ORS 59.505 — Provision of records to law enforcement and certain state agencie
 
 (2) A record made available to an agency under this section is not a public record for purposes of ORS 192.311 to 192.478.
 
-(3) Nothing in this section limits the authority of the Department of Consumer and Business Services to access or examine the books and records of broker-dealers and state investment advisers as otherwise provided by law. [2017 c.514 §7] 59.510 [Repealed by 1967 c.537 §36] 59.520 [Repealed by 1967 c.537 §36] 59.530 [Repealed by 1967 c.537 §36]
+(3) Nothing in this section limits the authority of the Department of Consumer and Business Services to access or examine the books and records of broker-dealers and state investment advisers as otherwise provided by law. [2017 c.514 §7] 
 
 ## Provenance & change history
 

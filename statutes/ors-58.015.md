@@ -64,7 +64,7 @@ ORS 58.015 — Definitions. Chapter 58 (Professional Corporations), 2025 Edition
 
 (7) “Professional service” means personal service or services rendered in this state to the public which may be lawfully rendered only pursuant to a license by a professional.
 
-(8) “Regulatory board” means the governmental agency of the State of Oregon required or authorized by law to license and regulate the rendering of a professional service or services for which a professional corporation is organized. [1969 c.592 §2; 1971 c.362 §3; 1985 c.728 §42; 1985 c.764 §3; 1987 c.94 §14; 1993 c.235 §1; 1997 c.774 §1; 2003 c.14 §24; 2005 c.254 §11; 2009 c.833 §27; 2013 c.129 §21; 2013 c.196 §16] 58.020 [Repealed by 1961 c.726 §427] 58.025 [1969 c.592 §3; 1971 c.184 §4; repealed by 1985 c.728 §110] 58.030 [Repealed by 1961 c.726 §427] 
+(8) “Regulatory board” means the governmental agency of the State of Oregon required or authorized by law to license and regulate the rendering of a professional service or services for which a professional corporation is organized. [1969 c.592 §2; 1971 c.362 §3; 1985 c.728 §42; 1985 c.764 §3; 1987 c.94 §14; 1993 c.235 §1; 1997 c.774 §1; 2003 c.14 §24; 2005 c.254 §11; 2009 c.833 §27; 2013 c.129 §21; 2013 c.196 §16] 
 
 ## Provenance & change history
 

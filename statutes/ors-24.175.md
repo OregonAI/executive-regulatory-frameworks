@@ -46,7 +46,7 @@ ORS 24.175 — Short title. Chapter 24 (Enforcement and Recognition of Foreign J
 
 ## Full text
 
-24.175 Short title. ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175 may be cited as the Uniform Enforcement of Foreign Judgments Act. [1979 c.577 §7] 24.180 [1955 c.647 §18; repealed by 1979 c.577 §8] 24.185 [1991 c.222 §1; 1993 c.188 §9; 1997 c.863 §1; repealed by 1999 c.250 §5]
+24.175 Short title. ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175 may be cited as the Uniform Enforcement of Foreign Judgments Act. [1979 c.577 §7] 
 
 ## Provenance & change history
 

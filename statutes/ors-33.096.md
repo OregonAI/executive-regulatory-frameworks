@@ -48,7 +48,7 @@ ORS 33.096 — Summary imposition of sanction. Chapter 33 (Special Proceedings a
 
 ## Full text
 
-33.096 Summary imposition of sanction. A court may summarily impose a sanction upon a person who commits a contempt of court in the immediate view and presence of the court. The sanction may be imposed for the purpose of preserving order in the court or protecting the authority and dignity of the court. The provisions of ORS 33.055 and 33.065 do not apply to summary imposition of sanctions under this section. [1991 c.724 §8] 33.100 [Repealed by 1991 c.724 §32] 
+33.096 Summary imposition of sanction. A court may summarily impose a sanction upon a person who commits a contempt of court in the immediate view and presence of the court. The sanction may be imposed for the purpose of preserving order in the court or protecting the authority and dignity of the court. The provisions of ORS 33.055 and 33.065 do not apply to summary imposition of sanctions under this section. [1991 c.724 §8] 
 
 ## Provenance & change history
 

@@ -52,7 +52,7 @@ ORS 419C.382 — Duties of Oregon Health Authority; rules. Chapter 419C (Chapter
 
 (1) The Oregon Health Authority shall: (a) Develop training standards for psychiatrists, licensed psychologists and regulated social workers conducting evaluations under ORS 419C.380; (b) Develop guidelines for the conduct of evaluations; and (c) Provide courts with a current list of qualified evaluators from which an evaluator may be selected. Neither the parties nor the court is required to choose an evaluator from the list provided by the authority, provided that the evaluator chosen is otherwise qualified.
 
-(2) The authority shall adopt rules necessary to implement this section. [2013 c.709 §3] Note: See note under 419C.378. 419C.384 [2013 c.709 §4; repealed by 2017 c.558 §2] (Report, Hearing and Findings) 
+(2) The authority shall adopt rules necessary to implement this section. [2013 c.709 §3] Note: See note under 419C.378. 
 
 ## Provenance & change history
 

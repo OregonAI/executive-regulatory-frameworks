@@ -46,7 +46,7 @@ ORS 31.982 — Action for criminal conversation abolished. Chapter 31 (Tort Acti
 
 ## Full text
 
-31.982 Action for criminal conversation abolished. There shall be no civil cause of action for criminal conversation. [Formerly 30.850] _______________
+31.982 Action for criminal conversation abolished. There shall be no civil cause of action for criminal conversation. [Formerly 30.850] 
 
 ## Provenance & change history
 

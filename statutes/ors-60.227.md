@@ -62,7 +62,7 @@ ORS 60.227 — Voting entitlement of shares. Chapter 60 (Private Corporations), 
 
 (2) of this section does not limit the power of a corporation to vote any shares, including the corporation’s own shares that the corporation holds in a fiduciary capacity.
 
-(4) Redeemable shares are not entitled to vote after notice of redemption is delivered to the holders and a sum sufficient to redeem the shares has been deposited with a bank, trust company or other financial institution under an irrevocable obligation to pay the holders the redemption price on surrender of the shares. [1987 c.52 §57; 1989 c.4 §7; 2017 c.55 §9] 60.230 [Repealed by 1953 c.549 §138] 
+(4) Redeemable shares are not entitled to vote after notice of redemption is delivered to the holders and a sum sufficient to redeem the shares has been deposited with a bank, trust company or other financial institution under an irrevocable obligation to pay the holders the redemption price on surrender of the shares. [1987 c.52 §57; 1989 c.4 §7; 2017 c.55 §9] 
 
 ## Provenance & change history
 

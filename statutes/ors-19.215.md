@@ -50,7 +50,7 @@ ORS 19.215 — Determining amount in controversy in class action for purposes of
 
 19.215 Determining amount in controversy in class action for purposes of appeal. The aggregate amount of the claims of all potential class members in a class action under ORCP 32 shall determine whether the amount in controversy is sufficient to satisfy the provisions of ORS 19.205
 
-(4) for the purposes of any appeal to the Court of Appeals. [Formerly 19.013; 2003 c.576 §573] 19.220 [1981 c.897 §107; renumbered 19.440 in 1997] 
+(4) for the purposes of any appeal to the Court of Appeals. [Formerly 19.013; 2003 c.576 §573] 
 
 ## Provenance & change history
 

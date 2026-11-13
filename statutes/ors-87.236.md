@@ -56,7 +56,7 @@ ORS 87.236 — Attachment of liens; attachment to proceeds. Chapter 87 (Statutor
 
 (3) When a lien created by ORS 87.222 to 87.232 attaches to the proceeds of the sale of chattels under subsection
 
-(2) of this section, a purchaser, agent, broker, cooperative agency or other person shall not deliver the proceeds or that portion of the proceeds equal to the amount of the lien claim to the owner until: (a) The time specified by ORS 87.266 during which a suit to foreclose the lien must be commenced elapses; (b) A court orders the delivery of the proceeds; or (c) A certificate is recorded under ORS 87.346 declaring that the claim of lien is discharged. [1975 c.648 §20; 1981 c.674 §1; 1985 c.469 §3] 87.240 [Repealed by 1975 c.648 §72] 
+(2) of this section, a purchaser, agent, broker, cooperative agency or other person shall not deliver the proceeds or that portion of the proceeds equal to the amount of the lien claim to the owner until: (a) The time specified by ORS 87.266 during which a suit to foreclose the lien must be commenced elapses; (b) A court orders the delivery of the proceeds; or (c) A certificate is recorded under ORS 87.346 declaring that the claim of lien is discharged. [1975 c.648 §20; 1981 c.674 §1; 1985 c.469 §3] 
 
 ## Provenance & change history
 

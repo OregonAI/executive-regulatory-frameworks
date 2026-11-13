@@ -48,7 +48,7 @@ ORS 59.051 — Statutory references to federal law. Chapter 59 (Securities Regul
 
 ## Full text
 
-59.051 Statutory references to federal law. References in ORS 59.005 to 59.505, 59.991 and 59.995 to federal statutes or federal regulations shall be construed to refer to those statutes or regulations as they are in effect on April 19, 1999. [1999 c.53 §8] 59.052 [1981 c.292 §4; 1985 c.349 §7; repealed by 1987 c.603 §30] (Registration of Securities) 
+59.051 Statutory references to federal law. References in ORS 59.005 to 59.505, 59.991 and 59.995 to federal statutes or federal regulations shall be construed to refer to those statutes or regulations as they are in effect on April 19, 1999. [1999 c.53 §8] 
 
 ## Provenance & change history
 

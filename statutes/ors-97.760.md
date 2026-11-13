@@ -58,7 +58,7 @@ ORS 97.760 — Civil action by Indian tribe or member; time for commencing actio
 
 (3) If the plaintiff prevails: (a) The court may grant injunctive or such other equitable relief as is appropriate, including forfeiture of any artifacts or remains acquired or equipment used in the violation. The court shall order the disposition of any items forfeited as it sees fit, including the reinterment of any human remains in accordance with ORS 97.745 (1); (b) The plaintiff shall recover imputed damages in an amount not to exceed $10,000 or actual damages, whichever is greater. Actual damages include special and general damages, which include damages for emotional distress; (c) The plaintiff may recover punitive damages upon proof that the violation was willful. Punitive damages may be recovered without proof of actual damages. All punitive damages shall be paid by the defendant to the Commission on Indian Services for the purposes of Indian historic preservation; and (d) An award of imputed or punitive damages may be made only once for a particular violation by a particular person, but shall not preclude the award of such damages based on violations by other persons or on other violations.
 
-(4) The court may award reasonable attorney fees to the prevailing party in an action under this section. [1981 c.442 §2; 1995 c.543 §1; 1995 c.618 §55] 97.770 [1995 c.457 §7; repealed by 1999 c.731 §14] 97.771 [1995 c.457 §1; 1997 c.632 §1; repealed by 1999 c.731 §14]
+(4) The court may award reasonable attorney fees to the prevailing party in an action under this section. [1981 c.442 §2; 1995 c.543 §1; 1995 c.618 §55] 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 9.180 — Classes of licenses. Chapter 9 (Oregon State Bar; Attorneys; Law L
 
 ## Full text
 
-9.180 Classes of licenses. All persons admitted to practice law in this state thereby shall become active licensees of the bar. Every licensee shall be an active licensee unless, at the licensee’s request, or for reasons prescribed by statute, the rules of the Supreme Court, or the rules of procedure, the licensee is enrolled as an inactive licensee. An inactive licensee may, on compliance with the rules of the Supreme Court and the rules of procedure and payment of all required fees, again become an active licensee. Inactive licensees may not hold office or vote, but they shall have such other privileges as the board may provide. [Amended by 1961 c.499 §1; 1979 c.252 §18; 2025 c.32 §19] 9.190 [Amended by 1957 c.271 §1; 1961 c.138 §1; part renumbered 9.200 (2); repealed by 1969 c.602 §1 (9.191 enacted in lieu of 9.190)] 
+9.180 Classes of licenses. All persons admitted to practice law in this state thereby shall become active licensees of the bar. Every licensee shall be an active licensee unless, at the licensee’s request, or for reasons prescribed by statute, the rules of the Supreme Court, or the rules of procedure, the licensee is enrolled as an inactive licensee. An inactive licensee may, on compliance with the rules of the Supreme Court and the rules of procedure and payment of all required fees, again become an active licensee. Inactive licensees may not hold office or vote, but they shall have such other privileges as the board may provide. [Amended by 1961 c.499 §1; 1979 c.252 §18; 2025 c.32 §19] 
 
 ## Provenance & change history
 

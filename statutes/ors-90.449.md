@@ -64,7 +64,7 @@ ORS 90.449 — Landlord discrimination against victim; exception; tenant defense
 
 (5) Notwithstanding ORS 105.137 (4), if a tenant asserts a successful defense under subsection
 
-(4) of this section to an action for possession, the tenant is not entitled to prevailing party fees, attorney fees or costs and disbursements if the landlord: (a) Did not know, and did not have reasonable cause to know, at the time of commencing the action that a violation or incident on which the action was based was related to domestic violence, sexual assault, bias crime or stalking; and (b) Promptly dismissed tenants other than the perpetrator from the action upon becoming aware that the violation or incident on which the action was based was related to domestic violence, sexual assault, bias crime or stalking. [2007 c.508 §4; 2011 c.42 §9; 2023 c.549 §1c] 90.450 [Formerly 90.940; 1997 c.303 §5; 1999 c.603 §31; renumbered 90.465 in 2007] 
+(4) of this section to an action for possession, the tenant is not entitled to prevailing party fees, attorney fees or costs and disbursements if the landlord: (a) Did not know, and did not have reasonable cause to know, at the time of commencing the action that a violation or incident on which the action was based was related to domestic violence, sexual assault, bias crime or stalking; and (b) Promptly dismissed tenants other than the perpetrator from the action upon becoming aware that the violation or incident on which the action was based was related to domestic violence, sexual assault, bias crime or stalking. [2007 c.508 §4; 2011 c.42 §9; 2023 c.549 §1c] 
 
 ## Provenance & change history
 

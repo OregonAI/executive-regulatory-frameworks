@@ -52,7 +52,7 @@ ORS 87.081 — Filing affidavit with county officer. Chapter 87 (Statutory Liens
 
 (1) When a person files a bond with the recording officer of the county under ORS 87.076 and serves notice of the filing upon the lien claimant, the person shall file with the same recording officer an affidavit stating that such notice was served.
 
-(2) When a person deposits money with the treasurer of a county under ORS 87.076 and serves notice of the deposit upon the lien claimant, the person shall file with the recording officer of the same county an affidavit stating that the deposit was made and notice was served. [1975 c.466 §19; 2005 c.22 §54] 87.082 [1967 c.407 §§1,2; repealed by 1975 c.648 §72] 
+(2) When a person deposits money with the treasurer of a county under ORS 87.076 and serves notice of the deposit upon the lien claimant, the person shall file with the recording officer of the same county an affidavit stating that the deposit was made and notice was served. [1975 c.466 §19; 2005 c.22 §54] 
 
 ## Provenance & change history
 

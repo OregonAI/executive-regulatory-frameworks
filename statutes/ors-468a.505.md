@@ -65,7 +65,7 @@ ORS 468A.505 — Removal; exceptions; confirmation of removal; rules. Chapter 46
 
 (5) The person responsible for removal and destruction of a used solid fuel burning device under this section shall provide to the department written confirmation of the removal and destruction, pursuant to rules adopted by the commission.
 
-(6) The failure of a seller or buyer of a residential structure to comply with this section does not invalidate an instrument of conveyance executed in the sale. [1991 c.752 §10c; 2009 c.387 §10] 468A.510 [1991 c.752 §10d; repealed by 2009 c.387 §20] 
+(6) The failure of a seller or buyer of a residential structure to comply with this section does not invalidate an instrument of conveyance executed in the sale. [1991 c.752 §10c; 2009 c.387 §10] 
 
 ## Provenance & change history
 

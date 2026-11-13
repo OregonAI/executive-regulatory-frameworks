@@ -55,7 +55,7 @@ ORS 87.767 — Form of notice; public record; fee. Chapter 87 (Statutory Liens),
 
 (2) in the index maintained by the secretary for filing financing statements pursuant to ORS chapter 79A. The Secretary of State shall maintain the notices as public records for a period of time established by the secretary.
 
-(2) The Secretary of State shall establish fees pursuant to ORS 177.130 for filing notices and requests for copies of notices. Fees established pursuant to this subsection are nonrefundable. [1981 c.446 §5; 1999 c.464 §4; 2001 c.301 §20] 87.770 [1973 c.145 §4; repealed by 1975 c.648 §72] 
+(2) The Secretary of State shall establish fees pursuant to ORS 177.130 for filing notices and requests for copies of notices. Fees established pursuant to this subsection are nonrefundable. [1981 c.446 §5; 1999 c.464 §4; 2001 c.301 §20] 
 
 ## Provenance & change history
 

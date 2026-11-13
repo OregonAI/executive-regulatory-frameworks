@@ -54,7 +54,7 @@ ORS 646A.574 — Consumer requests for personal data; requirement to correct ina
 
 (2) A controller that provides a copy of personal data to a consumer under subsection (1)(a)(C) of this section shall provide the personal data in a portable and, to the extent technically feasible, readily usable format that allows the consumer to transmit the personal data to another person without hindrance.
 
-(3) This section does not require a controller to disclose the controller’s trade secrets, as defined in ORS 646.461. [2023 c.369 §3] 646A.575 [2011 c.393 §1; renumbered 646A.820 in 2023] 
+(3) This section does not require a controller to disclose the controller’s trade secrets, as defined in ORS 646.461. [2023 c.369 §3] 
 
 ## Provenance & change history
 

@@ -60,7 +60,7 @@ ORS 329A.135 — Duties of department related to resource and referral system. C
 
 (1) The Department of Early Learning and Care shall implement federal requirements for the resource and referral system.
 
-(2) The department shall establish criteria for proposals, prepare requests for proposals, receive proposals and award grants or enter into agreements to establish, support, fund, maintain and expand resource and referral entities. [2017 c.187 §8; 2021 c.631 §39; 2022 c.27 §§5,6] 329A.140 [Formerly 657A.140; repealed by 2017 c.187 §1] 329A.150 [Formerly 657A.150; repealed by 2017 c.187 §1] 329A.160 [Formerly 657A.160; repealed by 2017 c.187 §1] 329A.170 [Formerly 657A.170; repealed by 2017 c.187 §1] 329A.180 [Formerly 657A.180; repealed by 2017 c.187 §1] 329A.190 [Formerly 657A.190; repealed by 2017 c.187 §1] CHILD CARE FACILITIES (Generally) 
+(2) The department shall establish criteria for proposals, prepare requests for proposals, receive proposals and award grants or enter into agreements to establish, support, fund, maintain and expand resource and referral entities. [2017 c.187 §8; 2021 c.631 §39; 2022 c.27 §§5,6] 
 
 ## Provenance & change history
 

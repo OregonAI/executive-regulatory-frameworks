@@ -48,7 +48,7 @@ ORS 63.057 — Operating agreements. Chapter 63 (Limited Liability Companies), 2
 
 ## Full text
 
-63.057 Operating agreements. The operating agreement, if any, may provide for the regulation and management of the affairs of the limited liability company in any manner not inconsistent with law or the articles of organization and may be in writing or oral. [1993 c.173 §18; 1995 c.93 §3] 63.060 [Repealed by 1959 c.580 §104] 63.070 [Repealed by 1959 c.580 §104]
+63.057 Operating agreements. The operating agreement, if any, may provide for the regulation and management of the affairs of the limited liability company in any manner not inconsistent with law or the articles of organization and may be in writing or oral. [1993 c.173 §18; 1995 c.93 §3] 
 
 ## Provenance & change history
 

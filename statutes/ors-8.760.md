@@ -48,7 +48,7 @@ ORS 8.760 — Deputies may be authorized and paid by county. Chapter 8 (Court Of
 
 ## Full text
 
-8.760 Deputies may be authorized and paid by county. The county court or board of county commissioners may empower the district attorney to appoint one or more deputy district attorneys whose compensation shall be fixed by the county court or board of county commissioners and paid out of the county funds in the same manner as county officers are paid. [Amended by 1961 c.586 §4] 8.770 [Repealed by 1961 c.586 §6] 
+8.760 Deputies may be authorized and paid by county. The county court or board of county commissioners may empower the district attorney to appoint one or more deputy district attorneys whose compensation shall be fixed by the county court or board of county commissioners and paid out of the county funds in the same manner as county officers are paid. [Amended by 1961 c.586 §4] 
 
 ## Provenance & change history
 

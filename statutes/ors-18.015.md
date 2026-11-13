@@ -52,7 +52,7 @@ ORS 18.015 — Statutory references to decrees and judgments. Chapter 18 (Judgme
 
 (1) References in the statutes of this state to decrees include judgments, and references in the statutes of this state to judgments include decrees.
 
-(2) References in the statutes of this state to judgments of other states include decrees of other states, and references in the statutes of this state to decrees of other states include judgments of other states. [2003 c.576 §1a] 18.020 [Repealed by 1979 c.284 §199]
+(2) References in the statutes of this state to judgments of other states include decrees of other states, and references in the statutes of this state to decrees of other states include judgments of other states. [2003 c.576 §1a] 
 
 ## Provenance & change history
 

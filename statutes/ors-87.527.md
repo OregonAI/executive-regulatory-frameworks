@@ -54,7 +54,7 @@ ORS 87.527 — Limitations on property subject to lien. Chapter 87 (Statutory Li
 
 (2) A lien created by ORS 87.503 on the home of a deceased individual who received care may not be foreclosed for as long as any of the following individuals reside in the home: (a) The surviving spouse of the individual. (b) A child of the individual, if the child is a minor or has a disability. (c) A sibling of the individual, but only when the sibling continuously resided in the home during the calendar year immediately preceding the date on which the individual first received care. (d) Any other child of the individual, but only when the child continuously resided in the home during the two-year period immediately preceding the date on which the individual first received care and provided assistance during that period that delayed the need for care.
 
-(3) A lien created by ORS 87.503 on other real property of a deceased individual may not be foreclosed while there is: (a) A surviving spouse; or (b) A child of the individual, if the child is a minor or has a disability. [1995 c.749 §7; 1997 c.744 §8; 2007 c.70 §18] Note: See note under 87.501. 87.530 [Repealed by 1975 c.648 §72] 
+(3) A lien created by ORS 87.503 on other real property of a deceased individual may not be foreclosed while there is: (a) A surviving spouse; or (b) A child of the individual, if the child is a minor or has a disability. [1995 c.749 §7; 1997 c.744 §8; 2007 c.70 §18] Note: See note under 87.501. 
 
 ## Provenance & change history
 

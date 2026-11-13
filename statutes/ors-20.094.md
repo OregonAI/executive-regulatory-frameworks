@@ -48,7 +48,7 @@ ORS 20.094 — Attorney fees in actions or suits in which discharge in bankruptc
 
 ## Full text
 
-20.094 Attorney fees in actions or suits in which discharge in bankruptcy asserted. In any action or suit on a debt in which the defendant asserts a discharge in bankruptcy as a defense, the court shall award a reasonable attorney fee at trial and on appeal to the prevailing party. [1971 c.167 §2; 1973 c.216 §1; 1981 c.897 §4; 1995 c.618 §18] 20.095 [1953 c.213 §1; repealed by 1965 c.611 §18] 
+20.094 Attorney fees in actions or suits in which discharge in bankruptcy asserted. In any action or suit on a debt in which the defendant asserts a discharge in bankruptcy as a defense, the court shall award a reasonable attorney fee at trial and on appeal to the prevailing party. [1971 c.167 §2; 1973 c.216 §1; 1981 c.897 §4; 1995 c.618 §18] 
 
 ## Provenance & change history
 

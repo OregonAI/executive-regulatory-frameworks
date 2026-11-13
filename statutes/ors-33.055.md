@@ -74,7 +74,7 @@ ORS 33.055 — Procedure for imposition of remedial sanctions. Chapter 33 (Speci
 
 (12) Proceedings under this section are subject to rules adopted under ORS 33.145. Proceedings under this section are not subject to the Oregon Rules of Civil Procedure except as provided in subsection
 
-(5) of this section or as may be provided in rules adopted under ORS 33.145. [1991 c.724 §5; 1993 c.448 §7; 2001 c.962 §77; 2005 c.22 §24; 2017 c.252 §1; 2023 c.302 §10] 33.060 [Amended by 1981 c.781 §1; 1983 c.561 §1; repealed by 1991 c.724 §32] 
+(5) of this section or as may be provided in rules adopted under ORS 33.145. [1991 c.724 §5; 1993 c.448 §7; 2001 c.962 §77; 2005 c.22 §24; 2017 c.252 §1; 2023 c.302 §10] 
 
 ## Provenance & change history
 

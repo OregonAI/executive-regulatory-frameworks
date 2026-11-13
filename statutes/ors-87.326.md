@@ -48,7 +48,7 @@ ORS 87.326 — Protection from theft and damage of chattel subject to lien. Chap
 
 ## Full text
 
-87.326 Protection from theft and damage of chattel subject to lien. If the property covered by any lien created by ORS 87.216 to 87.232 is in danger of being stolen, damaged or removed from this state, the circuit court for the county in which the lien is filed upon application of the lien claimant, shall appoint the sheriff of such county receiver of the property covered by the lien, and the sheriff shall immediately take all such property into the custody of the sheriff and protect, care for and account for it and dispose of it according to the further order of the court. The sheriff shall be paid actual expenses of receivership from the proceeds of the sale of the property but shall be allowed no remuneration for services. [1975 c.648 §36] 87.330 [Repealed by 1975 c.648 §72] 
+87.326 Protection from theft and damage of chattel subject to lien. If the property covered by any lien created by ORS 87.216 to 87.232 is in danger of being stolen, damaged or removed from this state, the circuit court for the county in which the lien is filed upon application of the lien claimant, shall appoint the sheriff of such county receiver of the property covered by the lien, and the sheriff shall immediately take all such property into the custody of the sheriff and protect, care for and account for it and dispose of it according to the further order of the court. The sheriff shall be paid actual expenses of receivership from the proceeds of the sale of the property but shall be allowed no remuneration for services. [1975 c.648 §36] 
 
 ## Provenance & change history
 

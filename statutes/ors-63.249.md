@@ -62,7 +62,7 @@ ORS 63.249 — Assignment of membership interest; effect of assignment. Chapter 
 
 (6) Any otherwise permissible assignment of a membership interest shall be effective as to and binding on the limited liability company only after reasonable notice of and proof of the assignment have been provided to the managers of the limited liability company.
 
-(7) The pledge of, or granting of a security interest, lien, or other encumbrance in or against all or any portion of the membership interest of a member is not an assignment of the member’s interest. [1993 c.173 §50; 1997 c.646 §5] 63.250 [1959 c.660 §5; repealed by 1981 c.68 §1] 
+(7) The pledge of, or granting of a security interest, lien, or other encumbrance in or against all or any portion of the membership interest of a member is not an assignment of the member’s interest. [1993 c.173 §50; 1997 c.646 §5] 
 
 ## Provenance & change history
 

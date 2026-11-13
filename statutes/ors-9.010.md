@@ -62,7 +62,7 @@ ORS 9.010 — Status of licensee and Oregon State Bar; applicability of statutes
 
 (5) The Oregon State Bar has perpetual succession and a seal, and may sue and be sued. Notwithstanding the provisions of ORS 270.020 and 279.835 to 279.855 and ORS chapters 278, 279A, 279B and 279C, the bar may, in its own name, for the purpose of carrying into effect and promoting its objectives, enter into contracts and lease, acquire, hold, own, encumber, insure, sell, replace, deal in and with and dispose of real and personal property.
 
-(6) No obligation of any kind incurred or created under this section shall be, or be considered, an indebtedness or obligation of the State of Oregon. [Amended by 1955 c.463 §1; 1965 c.461 §1; 1985 c.446 §1; 1997 c.249 §6; 2003 c.794 §194; 2007 c.60 §1; 2023 c.72 §2; 2025 c.32 §2] 9.020 [Amended by 1971 c.103 §1; repealed by 1973 c.114 §5] 
+(6) No obligation of any kind incurred or created under this section shall be, or be considered, an indebtedness or obligation of the State of Oregon. [Amended by 1955 c.463 §1; 1965 c.461 §1; 1985 c.446 §1; 1997 c.249 §6; 2003 c.794 §194; 2007 c.60 §1; 2023 c.72 §2; 2025 c.32 §2] 
 
 ## Provenance & change history
 

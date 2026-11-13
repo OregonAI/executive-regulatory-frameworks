@@ -55,7 +55,7 @@ ORS 63.047 — Articles of organization. Chapter 63 (Limited Liability Companies
 
 (2) The articles of organization may set forth any other provisions, not inconsistent with law, for regulating the internal affairs of the limited liability company, including any provision that is required or permitted to be included in any operating agreement of the limited liability company under this chapter.
 
-(3) The articles of organization need not set forth any of the powers enumerated in this chapter. [1993 c.173 §15; 1997 c.774 §10; 1999 c.86 §3; 2001 c.315 §51; 2017 c.705 §20] 63.050 [Repealed by 1959 c.580 §104] 
+(3) The articles of organization need not set forth any of the powers enumerated in this chapter. [1993 c.173 §15; 1997 c.774 §10; 1999 c.86 §3; 2001 c.315 §51; 2017 c.705 §20] 
 
 ## Provenance & change history
 

@@ -60,7 +60,7 @@ ORS 33.875 — Limitations on transfers. Chapter 33 (Special Proceedings and Pro
 
 (5) Nothing in ORS 33.850 to 33.875 shall be construed to authorize a transfer of payment rights in contravention of any law or to imply that any transfer under a transfer agreement entered into prior to January 1, 2006, is valid or invalid.
 
-(6) Compliance with the requirements of ORS 33.850 to 33.875 is solely the responsibility of the transferee in any transfer of payment rights, and neither the obligor nor the annuity issuer shall bear any responsibility for, or any liability arising from, noncompliance with the requirements or failure to fulfill the conditions. [2005 c.173 §6; 2013 c.736 §8] _______________
+(6) Compliance with the requirements of ORS 33.850 to 33.875 is solely the responsibility of the transferee in any transfer of payment rights, and neither the obligor nor the annuity issuer shall bear any responsibility for, or any liability arising from, noncompliance with the requirements or failure to fulfill the conditions. [2005 c.173 §6; 2013 c.736 §8] 
 
 ## Provenance & change history
 

@@ -65,7 +65,7 @@ ORS 97.082 — Consent for certain autopsies; form. Chapter 97 (Rights and Dutie
 
 (1) of this section the authority to: (A) Grant permission to conduct an unlimited autopsy; (B) Grant permission to conduct a limited autopsy and to specify what limitations are imposed upon the autopsy; or (C) Refuse permission to conduct an autopsy. (b) Provides a section for the person specified in subsection
 
-(1) of this section to submit specific instructions with respect to tests to be performed during the autopsy and to the disposition of organs and tissue removed for purposes of a limited autopsy. (c) Provides that the consent signature be accompanied by the signature of a witness. [2003 c.416 §1; 2017 c.151 §1] Note: 97.082 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 97 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 97.083 [1983 c.526 §1; renumbered 127.635 in 1989] 97.084 [1983 c.526 §2; renumbered 127.640 in 1989] 97.085 [1977 c.183 §§8,9,10; renumbered 127.645 in 1989] 97.090 [1977 c.183 §11; renumbered 127.650 in 1989]
+(1) of this section to submit specific instructions with respect to tests to be performed during the autopsy and to the disposition of organs and tissue removed for purposes of a limited autopsy. (c) Provides that the consent signature be accompanied by the signature of a witness. [2003 c.416 §1; 2017 c.151 §1] Note: 97.082 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 97 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

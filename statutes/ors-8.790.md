@@ -48,7 +48,7 @@ ORS 8.790 — Compensation of district attorney and deputies limited to salaries
 
 ## Full text
 
-8.790 Compensation of district attorney and deputies limited to salaries. No salary, fees, percentage or compensation of any kind shall be allowed, paid to or received by any district attorney or deputy district attorney except as provided in ORS 8.110 to 8.150, 8.160 and 8.670 to 8.852. 8.795 [1957 c.645 §3; 1959 c.539 §3; 1961 c.586 §6a; repealed by 1965 c.633 §4] 8.800 [1953 c.652 §6; 1957 c.645 §1; 1959 c.539 §4; 1961 c.586 §1; repealed by 1965 c.633 §4] 8.801 [1965 c.633 §1; 1967 c.597 §1; 1969 c.320 §1; repealed by 1971 c.711 §6] 8.810 [Repealed by 1967 c.111 §7] 8.820 [Repealed by 1967 c.111 §7] 
+8.790 Compensation of district attorney and deputies limited to salaries. No salary, fees, percentage or compensation of any kind shall be allowed, paid to or received by any district attorney or deputy district attorney except as provided in ORS 8.110 to 8.150, 8.160 and 8.670 to 8.852. 
 
 ## Provenance & change history
 

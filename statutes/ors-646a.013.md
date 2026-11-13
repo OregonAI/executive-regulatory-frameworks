@@ -52,7 +52,7 @@ ORS 646A.013 — Exceptions to prohibition on sales of cosmetics developed using
 
 (1) Has not been developed through use of a cosmetic animal test in violation of ORS 646A.009 but was developed through use of a cosmetic animal test before January 1, 2024, even if the cosmetic was manufactured after January 1, 2024.
 
-(2) Does not contain an ingredient that has been used in a cosmetic animal test in violation of ORS 646A.009 but contains an ingredient that was used in a cosmetic animal test before January 1, 2024, even if the ingredient was manufactured after January 1, 2024. [2023 c.536 §3] 646A.014 [Formerly 646.189; repealed by 2009 c.170 §4] 646A.016 [Formerly 646.191; repealed by 2009 c.170 §4] 
+(2) Does not contain an ingredient that has been used in a cosmetic animal test in violation of ORS 646A.009 but contains an ingredient that was used in a cosmetic animal test before January 1, 2024, even if the ingredient was manufactured after January 1, 2024. [2023 c.536 §3] 
 
 ## Provenance & change history
 

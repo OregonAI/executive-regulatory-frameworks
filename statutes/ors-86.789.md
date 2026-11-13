@@ -58,7 +58,7 @@ ORS 86.789 — Information provided by trustee. Chapter 86 (Mortgages; Trust Dee
 
 (4) A person requesting a written statement of information under ORS 86.786 has the rights of an omitted person under ORS 86.767 if: (a) The person requesting the statement proves that the person sent a written request under ORS 86.786 at least 15 days before the date of sale; and (b) The trustee cannot prove that the trustee sent the written statement of information at least seven days before the date of the sale.
 
-(5) The provisions of this section and ORS 86.786 do not affect the duty of beneficiaries to provide information to grantors. [Formerly 86.759] 86.790 [1959 c.625 §3; 1967 c.359 §680; 1975 c.618 §2a; 1979 c.879 §5; 1981 c.192 §1; 1983 c.719 §9; 1989 c.190 §7; 1997 c.70 §1; 1997 c.631 §388; 2003 c.364 §50; 2013 c.125 §2; 2013 c.465 §6; renumbered 86.713 in 2013] 
+(5) The provisions of this section and ORS 86.786 do not affect the duty of beneficiaries to provide information to grantors. [Formerly 86.759] 
 
 ## Provenance & change history
 

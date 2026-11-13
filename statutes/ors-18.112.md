@@ -62,7 +62,7 @@ ORS 18.112 — Correction of designation of judgment as general judgment. Chapte
 
 (4) Notwithstanding ORS 18.107, the time for appeal of the judgment corrected under this section commences from the entry of the corrected judgment. A motion may be filed under this section while an appeal is pending as provided in ORCP 71 B(2).
 
-(5) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §13; 2005 c.568 §18] 18.115 [1975 c.623 §12; 1979 c.284 §53; repealed by 1981 c.898 §53] 18.120 [Repealed by 1981 c.898 §53] 18.125 [1977 c.208 §3; repealed by 1981 c.898 §53] 18.130 [Repealed by 1977 c.208 §5] 18.135 [Formerly 15.100; repealed by 1981 c.898 §53] 18.140 [Amended by 1957 c.348 §1; 1973 c.207 §2; repealed by 1979 c.284 §199]
+(5) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §13; 2005 c.568 §18] 
 
 ## Provenance & change history
 

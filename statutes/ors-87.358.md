@@ -48,7 +48,7 @@ ORS 87.358 — Nurseryman’s lien. Chapter 87 (Statutory Liens), 2025 Edition.
 
 ## Full text
 
-87.358 Nurseryman’s lien. A person who furnishes nursery stock of the value or agreed price of $25 or more, for planting on land, at the request of the owner of that land, or with the knowledge or consent of the owner has a lien on the land upon which the nursery stock is set out and planted for the reasonable or agreed charges for the nursery stock. If the owner has less than a fee simple estate in the land, then only the interest of the owner therein is subject to the lien created by this section. [1975 c.648 §43] 87.360 [Repealed by 1975 c.648 §72] 
+87.358 Nurseryman’s lien. A person who furnishes nursery stock of the value or agreed price of $25 or more, for planting on land, at the request of the owner of that land, or with the knowledge or consent of the owner has a lien on the land upon which the nursery stock is set out and planted for the reasonable or agreed charges for the nursery stock. If the owner has less than a fee simple estate in the land, then only the interest of the owner therein is subject to the lien created by this section. [1975 c.648 §43] 
 
 ## Provenance & change history
 

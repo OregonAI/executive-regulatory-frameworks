@@ -54,7 +54,7 @@ ORS 20.098 — Attorney fees and compensation of expert witnesses in certain pro
 
 (2) If the defendant prevails in an action in which the plaintiff requests attorney fees or compensation of expert witnesses under subsection
 
-(1) of this section, the court may in its discretion allow reasonable attorney fees at trial and on appeal or a reasonable amount as compensation of expert witnesses to the defendant if it finds the action to have been frivolous. [1971 c.744 §23; 1975 c.586 §1; 1981 c.897 §5; 1981 c.898 §21] 20.100 [Repealed by 1981 c.898 §53] 
+(1) of this section, the court may in its discretion allow reasonable attorney fees at trial and on appeal or a reasonable amount as compensation of expert witnesses to the defendant if it finds the action to have been frivolous. [1971 c.744 §23; 1975 c.586 §1; 1981 c.897 §5; 1981 c.898 §21] 
 
 ## Provenance & change history
 

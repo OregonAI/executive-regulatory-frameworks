@@ -48,7 +48,7 @@ ORS 1.675 — Judge pro tempore ineligible to participate in selection or remova
 
 ## Full text
 
-1.675 Judge pro tempore ineligible to participate in selection or removal of Chief Justice, Chief Judge or presiding judge. A person appointed or assigned to serve and serving as judge pro tempore of a court under ORS 1.600, 1.615 or 1.635 is not eligible to be, or to participate in the selection or removal of, the Chief Justice, Chief Judge or presiding judge of the court to which the person is appointed or assigned. [1981 s.s. c.1 §6] 1.680 [1965 c.494 §7; 1969 c.314 §4; repealed by 1971 c.311 §2] 1.690 [1965 c.494 §9; repealed by 1971 c.311 §2] 1.700 [1965 c.494 §10; repealed by 1971 c.311 §2] 1.710 [1965 c.494 §11; 1967 c.270 §4; repealed by 1971 c.311 §2]
+1.675 Judge pro tempore ineligible to participate in selection or removal of Chief Justice, Chief Judge or presiding judge. A person appointed or assigned to serve and serving as judge pro tempore of a court under ORS 1.600, 1.615 or 1.635 is not eligible to be, or to participate in the selection or removal of, the Chief Justice, Chief Judge or presiding judge of the court to which the person is appointed or assigned. [1981 s.s. c.1 §6] 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 3.134 — Application of state statutes to municipal ordinance. Chapter 3 (C
 
 ## Full text
 
-3.134 Application of state statutes to municipal ordinance. When an offense defined by municipal ordinance is tried in circuit court, it shall be subject to the same statutes and procedures that govern the trial and appeal of a like offense defined by a statute of this state. [Formerly 46.047] 3.135 [1961 c.724 §5; repealed by 1965 c.510 §24] 
+3.134 Application of state statutes to municipal ordinance. When an offense defined by municipal ordinance is tried in circuit court, it shall be subject to the same statutes and procedures that govern the trial and appeal of a like offense defined by a statute of this state. [Formerly 46.047] 
 
 ## Provenance & change history
 

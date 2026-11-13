@@ -48,7 +48,7 @@ ORS 475A.722 — Severability. Chapter 475A (Psilocybin Regulation), 2025 Editio
 
 ## Full text
 
-475A.722 Severability. If any section, subsection, paragraph, phrase or word of ORS 475A.210 to 475A.722 is held to be unconstitutional, void or illegal, either on its face or as applied, that holding does not affect the applicability, constitutionality or legality of any other section, subsection, paragraph, phrase or word of ORS 475A.210 to 475A.722. To that end, the sections, subsections, paragraphs, phrases and words of ORS 475A.210 to 475A.722 are intended to be severable. It is hereby declared to be the intent of the people of this state in adopting ORS 475A.210 to 475A.722 that ORS 475A.210 to 475A.722 would have been adopted had such unconstitutional, void or illegal sections, subsections, paragraphs, phrases or words, if any, not been included in ORS 475A.210 to 475A.722. [2021 c.1 §129] _______________
+475A.722 Severability. If any section, subsection, paragraph, phrase or word of ORS 475A.210 to 475A.722 is held to be unconstitutional, void or illegal, either on its face or as applied, that holding does not affect the applicability, constitutionality or legality of any other section, subsection, paragraph, phrase or word of ORS 475A.210 to 475A.722. To that end, the sections, subsections, paragraphs, phrases and words of ORS 475A.210 to 475A.722 are intended to be severable. It is hereby declared to be the intent of the people of this state in adopting ORS 475A.210 to 475A.722 that ORS 475A.210 to 475A.722 would have been adopted had such unconstitutional, void or illegal sections, subsections, paragraphs, phrases or words, if any, not been included in ORS 475A.210 to 475A.722. [2021 c.1 §129] 
 
 ## Provenance & change history
 

@@ -58,7 +58,7 @@ ORS 87.617 — Form of notice; contents. Chapter 87 (Statutory Liens), 2025 Edit
 
 (4) A statement that the amount claimed is a true and bona fide existing debt as of the date of the filing of the notice of lien; and
 
-(5) The date on which payment for the ambulance services is due. [1983 c.821 §5] 87.620 [Repealed by 1975 c.648 §72] 
+(5) The date on which payment for the ambulance services is due. [1983 c.821 §5] 
 
 ## Provenance & change history
 

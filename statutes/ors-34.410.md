@@ -48,7 +48,7 @@ ORS 34.410 — Criminal offense by person having custody. Chapter 34 (Writs), 20
 
 ## Full text
 
-34.410 Criminal offense by person having custody. If the person having such party in custody is brought before the court or judge as for a criminal offense, the person shall be examined, committed, released or discharged by the court or judge in like manner as in other criminal cases of like nature. [Amended by 1973 c.836 §324] 34.420 [Repealed by 1991 c.884 §1 (34.421 enacted in lieu of 34.420)] 
+34.410 Criminal offense by person having custody. If the person having such party in custody is brought before the court or judge as for a criminal offense, the person shall be examined, committed, released or discharged by the court or judge in like manner as in other criminal cases of like nature. [Amended by 1973 c.836 §324] 
 
 ## Provenance & change history
 

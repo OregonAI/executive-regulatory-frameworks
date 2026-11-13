@@ -52,7 +52,7 @@ ORS 743A.048 — Services provided by psychologist. Chapter 743A (Chapter 743A),
 
 (1) The insured under such policy or contract shall be free to select, and shall have direct access to, a psychologist licensed under ORS 675.010 to 675.150, without supervision or referral by a physician or another health practitioner, and wherever such psychologist is authorized to practice.
 
-(2) The insured under such policy or contract shall be entitled to have payment or reimbursement made to the insured or on the insured’s behalf for the services performed. Such payment or reimbursement shall be in accordance with the benefits provided in the policy and shall be the same whether performed by a physician or a psychologist licensed under ORS 675.010 to 675.150. [Formerly 743.709] 743A.050 [Formerly 743.798; repealed by 2017 c.206 §16] 
+(2) The insured under such policy or contract shall be entitled to have payment or reimbursement made to the insured or on the insured’s behalf for the services performed. Such payment or reimbursement shall be in accordance with the benefits provided in the policy and shall be the same whether performed by a physician or a psychologist licensed under ORS 675.010 to 675.150. [Formerly 743.709] 
 
 ## Provenance & change history
 

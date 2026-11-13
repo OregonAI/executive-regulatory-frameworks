@@ -60,7 +60,7 @@ ORS 33.085 — Compelling testimony of witness. Chapter 33 (Special Proceedings 
 
 (5) In any hearing on a motion to compel testimony under this section, the district attorney of the county in which the contempt proceeding is pending and the Attorney General each may appear to present evidence or arguments to support or oppose the motion.
 
-(6) In lieu of compelling testimony under this section, the court may continue the contempt proceeding until disposition of any criminal action that is pending against the witness whose testimony is sought and that charges the witness with a crime. [1991 c.724 §7a] 33.090 [Amended by 1973 c.836 §323; repealed by 1991 c.724 §32] 33.095 [1975 c.516 §2; 1981 c.898 §38; 1987 c.803 §15; 1989 c.171 §5; repealed by 1991 c.724 §32] 
+(6) In lieu of compelling testimony under this section, the court may continue the contempt proceeding until disposition of any criminal action that is pending against the witness whose testimony is sought and that charges the witness with a crime. [1991 c.724 §7a] 
 
 ## Provenance & change history
 

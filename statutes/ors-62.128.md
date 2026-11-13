@@ -54,7 +54,7 @@ ORS 62.128 — Reserved name. Chapter 62 (Cooperatives), 2025 Edition.
 
 (2) If the Secretary of State finds that the corporate name applied for conforms to ORS 62.131, the Secretary of State shall reserve the name for the applicant for a 120-day period.
 
-(3) A person may transfer the reservation of a corporate name to another person by delivering to the Office of Secretary of State a notice of the transfer executed by the person for whom the name was reserved and specifying the name and address of the transferee. [1969 c.364 §2; 1987 c.94 §79] 62.130 [Repealed by 1957 c.716 §76] 
+(3) A person may transfer the reservation of a corporate name to another person by delivering to the Office of Secretary of State a notice of the transfer executed by the person for whom the name was reserved and specifying the name and address of the transferee. [1969 c.364 §2; 1987 c.94 §79] 
 
 ## Provenance & change history
 

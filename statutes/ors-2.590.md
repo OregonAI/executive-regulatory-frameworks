@@ -46,7 +46,7 @@ ORS 2.590 — Expenses for judges when away from state capital. Chapter 2 (Supre
 
 ## Full text
 
-2.590 Expenses for judges when away from state capital. When a judge of the Court of Appeals holds court or performs any other official function away from the state capital, hotel bills and traveling expenses necessarily incurred by the judge in the performance of that duty shall be paid by the state. Such expenses are to be paid upon the certificate of the judge to the truth of an itemized statement of the expenses in the manner provided by law. [1969 c.198 §10] 2.600 [1969 c.198 §30; repealed by 1975 c.706 §10]
+2.590 Expenses for judges when away from state capital. When a judge of the Court of Appeals holds court or performs any other official function away from the state capital, hotel bills and traveling expenses necessarily incurred by the judge in the performance of that duty shall be paid by the state. Such expenses are to be paid upon the certificate of the judge to the truth of an itemized statement of the expenses in the manner provided by law. [1969 c.198 §10] 
 
 ## Provenance & change history
 

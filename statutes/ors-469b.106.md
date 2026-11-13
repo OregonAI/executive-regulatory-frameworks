@@ -72,7 +72,7 @@ ORS 469B.106 — Claim for tax credits; eligibility; contents; contractor system
 
 (9) Any person that pays the present value of the tax credit for an alternative energy device provided under ORS 316.116 and 469B.100 to 469B.118 to the person who constructs or installs the alternative energy device shall be entitled to claim the credit in the manner and subject to rules adopted by the Department of Revenue to carry out the purposes of this subsection. The State Department of Energy may establish by rule uniform discount rates to be used in calculating the present value of a tax credit under this subsection. [Formerly 469.170; 2012 c.45 §13; 2015 c.701 §30] Note: Section 8a (1), chapter 832, Oregon Laws 2005, provides: Sec. 8a.
 
-(1) The State Department of Energy may not issue a contractor’s certification certificate or an alternative energy device system certificate under ORS 469.170 [renumbered 469B.106] after January 1, 2018. [2005 c.832 §8a(1); 2009 c.913 §13(1); 2011 c.730 §68(1)] 469B.109 [Formerly 469.171; 2012 c.45 §13a; repealed by 2015 c.701 §36] 
+(1) The State Department of Energy may not issue a contractor’s certification certificate or an alternative energy device system certificate under ORS 469.170 [renumbered 469B.106] after January 1, 2018. [2005 c.832 §8a(1); 2009 c.913 §13(1); 2011 c.730 §68(1)] 
 
 ## Provenance & change history
 

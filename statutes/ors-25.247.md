@@ -113,7 +113,7 @@ ORS 25.247 — Rebuttable presumption of inability to pay child support when obl
 
 (14) The Department of Justice shall adopt rules to implement this section.
 
-(15) As used in this section, “support order” means a judgment or administrative order that creates child support rights and that is entered or issued under ORS 419B.400 or this chapter or ORS chapter 107, 108, 109 or 110. [2017 c.464 §2; 2019 c.291 §7; 2021 c.500 §1; 2021 c.597 §49; 2025 c.99 §20] 25.250 [1987 c.427 §1; repealed by 1993 c.798 §21] 25.255 [1989 c.812 §2; 1991 c.67 §4; 1991 c.519 §2; 1993 c.33 §286; 1993 c.800 §1; 1995 c.506 §§12,12a; 1999 c.80 §10; 2003 c.73 §24a; 2003 c.75 §74; repealed by 2003 c.637 §14] 
+(15) As used in this section, “support order” means a judgment or administrative order that creates child support rights and that is entered or issued under ORS 419B.400 or this chapter or ORS chapter 107, 108, 109 or 110. [2017 c.464 §2; 2019 c.291 §7; 2021 c.500 §1; 2021 c.597 §49; 2025 c.99 §20] 
 
 ## Provenance & change history
 

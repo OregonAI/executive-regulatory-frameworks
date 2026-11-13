@@ -48,7 +48,7 @@ ORS 83.635 — Acceptance of retail installment contract by lender. Chapter 83 (
 
 ## Full text
 
-83.635 Acceptance of retail installment contract by lender. If a retail installment contract for the purchase of a motor vehicle meets the requirements of ORS 83.510 to 83.680 and contains information required by federal law to be disclosed in a retail installment contract for the purchase of a motor vehicle, the retail installment contract shall be accepted for consideration by any lender, except for lenders licensed and regulated under the provisions of ORS chapter 725, to whom application for credit relating to the retail installment contract is made. [1995 c.519 §2] 83.640 [1957 c.625 §§10,11; repealed by 1961 c.726 §427] 
+83.635 Acceptance of retail installment contract by lender. If a retail installment contract for the purchase of a motor vehicle meets the requirements of ORS 83.510 to 83.680 and contains information required by federal law to be disclosed in a retail installment contract for the purchase of a motor vehicle, the retail installment contract shall be accepted for consideration by any lender, except for lenders licensed and regulated under the provisions of ORS chapter 725, to whom application for credit relating to the retail installment contract is made. [1995 c.519 §2] 
 
 ## Provenance & change history
 

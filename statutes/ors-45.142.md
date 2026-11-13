@@ -60,7 +60,7 @@ ORS 45.142 — Recording or reporting services provided under contract; required
 
 (4) This section does not apply to contracts for reporting services for a single deposition, case or incident.
 
-(5) This section does not apply to a person who records or reports depositions for a public body, as defined in ORS 30.260, or for a federal agency or any instrumentality of the federal government. [1999 c.942 §4; 2023 c.72 §36] 45.150 [Repealed by 1955 c.611 §13] 45.151 [1955 c.611 §1; repealed by 1979 c.284 §199] 45.160 [Repealed by 1955 c.611 §13] 45.161 [1955 c.611 §2; repealed by 1979 c.284 §199] 45.170 [Repealed by 1955 c.611 §13] 45.171 [1955 c.611 §3; repealed by 1979 c.284 §199] 45.180 [Renumbered 45.125] 45.181 [1955 c.611 §5; repealed by 1977 c.358 §12] 45.185 [1959 c.354 §1; 1977 c.358 §6; repealed by 1979 c.284 §199] 45.190 [1955 c.611 §6; 1977 c.358 §7; repealed by 1979 c.284 §199] 45.200 [1955 c.611 §7; repealed by 1979 c.284 §199] 45.210 [Repealed by 1955 c.611 §13] 45.220 [Repealed by 1955 c.611 §13] 45.230 [Repealed by 1979 c.284 §199] 45.240 [Repealed by 1979 c.284 §199] (Use of Deposition) 
+(5) This section does not apply to a person who records or reports depositions for a public body, as defined in ORS 30.260, or for a federal agency or any instrumentality of the federal government. [1999 c.942 §4; 2023 c.72 §36] 
 
 ## Provenance & change history
 

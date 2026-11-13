@@ -58,7 +58,7 @@ ORS 60.147 — Issuance of shares. Chapter 60 (Private Corporations), 2025 Editi
 
 (4) When the corporation receives the consideration for which the board of directors authorized the issuance of shares, the shares issued therefor are fully paid and nonassessable.
 
-(5) The corporation may place in escrow shares issued for a contract for future services or benefits or a promissory note or make other arrangements to restrict the transfer of shares, and may credit distributions in respect of the shares against their purchase price, until the services are performed, the note is paid or the benefits received. If the services are not performed, the note is not paid or the benefits are not received, the shares placed in escrow or restricted and the distributions credited may be canceled in whole or in part. [1987 c.52 §38; 1989 c.1040 §11] 60.150 [Repealed by 1953 c.549 §138] 
+(5) The corporation may place in escrow shares issued for a contract for future services or benefits or a promissory note or make other arrangements to restrict the transfer of shares, and may credit distributions in respect of the shares against their purchase price, until the services are performed, the note is paid or the benefits received. If the services are not performed, the note is not paid or the benefits are not received, the shares placed in escrow or restricted and the distributions credited may be canceled in whole or in part. [1987 c.52 §38; 1989 c.1040 §11] 
 
 ## Provenance & change history
 

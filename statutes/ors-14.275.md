@@ -46,7 +46,7 @@ ORS 14.275 — Disqualification of appellate judge. Chapter 14 (Jurisdiction; Ve
 
 ## Full text
 
-14.275 Disqualification of appellate judge. A party or an attorney for a party in a cause before the Supreme Court or Court of Appeals may move to disqualify a judge of the Supreme Court or of the Court of Appeals for one or more of the grounds specified in ORS 14.210, or upon the ground that the judge’s participation in the cause would violate the Oregon Code of Judicial Conduct. [1999 c.659 §4] _______________
+14.275 Disqualification of appellate judge. A party or an attorney for a party in a cause before the Supreme Court or Court of Appeals may move to disqualify a judge of the Supreme Court or of the Court of Appeals for one or more of the grounds specified in ORS 14.210, or upon the ground that the judge’s participation in the cause would violate the Oregon Code of Judicial Conduct. [1999 c.659 §4] 
 
 ## Provenance & change history
 

@@ -52,7 +52,7 @@ ORS 1.270 — Powers of other judicial officers; where powers may be exercised. 
 
 (1) Exercise the powers mentioned in ORS 1.260 (1).
 
-(2) Exercise any other power and perform any other duty conferred or imposed upon the judicial officer by statute. 1.280 [1959 c.552 §4; repealed by 1981 s.s. c.1 §25] 
+(2) Exercise any other power and perform any other duty conferred or imposed upon the judicial officer by statute. 
 
 ## Provenance & change history
 

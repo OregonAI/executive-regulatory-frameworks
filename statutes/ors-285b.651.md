@@ -66,7 +66,7 @@ ORS 285B.651 — Definitions for ORS 285B.651 to 285B.676. Chapter 285B (Chapter
 
 (8) “Rural grant services” means assistance to communities in rural areas in: (a) Identifying funding opportunities to meet community and economic development needs; and (b) Applying for grants.
 
-(9) “Rural jurisdictions” means: (a) Rural counties; and (b) Federally recognized Indian tribes, cities, school districts and special districts located in rural areas. [2021 c.614 §1] Note: 285B.651 to 285B.676 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 285B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 285B.653 [Formerly 285.562; 1999 c.460 §2; 2003 c.662 §18; renumbered 285C.080 in 2003] 
+(9) “Rural jurisdictions” means: (a) Rural counties; and (b) Federally recognized Indian tribes, cities, school districts and special districts located in rural areas. [2021 c.614 §1] Note: 285B.651 to 285B.676 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 285B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

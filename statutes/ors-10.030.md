@@ -56,7 +56,7 @@ ORS 10.030 — Eligibility for jury service; discrimination prohibited. Chapter 
 
 (4) A person who is blind, hard of hearing or speech impaired or who has a physical disability is not ineligible to act as a juror and may not be excluded from a jury list or jury service on the basis of blindness, hearing or speech impairment or physical disability alone.
 
-(5) A person is ineligible to act as a juror in any circuit court of this state within 24 months after being discharged from jury service in a federal court in this state or circuit court of this state unless that person’s service as a juror is required because of a need for additional jurors. [Amended by 1971 c.630 §1; 1975 c.781 §4; 1977 c.262 §1; 1985 c.703 §2; 1989 c.224 §3; 1997 c.313 §8; 1997 c.736 §1; 2007 c.70 §4; 2007 c.100 §13; 2009 c.484 §13; 2021 c.367 §2] 10.040 [Amended by 1961 c.454 §208; 1975 c.84 §1; repealed by 1979 c.728 §1] 
+(5) A person is ineligible to act as a juror in any circuit court of this state within 24 months after being discharged from jury service in a federal court in this state or circuit court of this state unless that person’s service as a juror is required because of a need for additional jurors. [Amended by 1971 c.630 §1; 1975 c.781 §4; 1977 c.262 §1; 1985 c.703 §2; 1989 c.224 §3; 1997 c.313 §8; 1997 c.736 §1; 2007 c.70 §4; 2007 c.100 §13; 2009 c.484 §13; 2021 c.367 §2] 
 
 ## Provenance & change history
 

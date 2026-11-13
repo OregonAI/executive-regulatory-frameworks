@@ -87,7 +87,7 @@ ORS 285B.799 — Biennial report by Oregon Business Development Department to le
 
 (2) In making the evaluation under subsection
 
-(1) of this section, the interim committees shall: (a) Consult with the Oregon Business Development Department and with lenders that have entered into written agreements with the department under section 4 of this 2021 Act [285B.791] and made qualified loans and with any other persons the interim committees consider necessary or useful; and (b) Consider the biennial reports submitted by the department under section 7 of this 2021 Act [285B.799] and any other information the interim committees consider necessary or useful. [2021 c.676 §9] 285B.825 [2001 c.888 §2; renumbered 285C.450 in 2003] 285B.827 [2001 c.888 §3; renumbered 285C.453 in 2003] 285B.830 [2001 c.888 §4; renumbered 285C.456 in 2003] 285B.833 [2001 c.888 §5; renumbered 285C.459 in 2003] 285B.836 [2001 c.888 §6; renumbered 285C.480 in 2003] 285B.839 [2001 c.888 §7; 2003 c.773 §53; renumbered 285C.465 in 2003] 285B.842 [2001 c.888 §8; renumbered 285C.468 in 2003] 285B.845 [2001 c.888 §9; renumbered 285C.471 in 2003] 285B.848 [2001 c.888 §10; renumbered 285C.462 in 2003] _______________
+(1) of this section, the interim committees shall: (a) Consult with the Oregon Business Development Department and with lenders that have entered into written agreements with the department under section 4 of this 2021 Act [285B.791] and made qualified loans and with any other persons the interim committees consider necessary or useful; and (b) Consider the biennial reports submitted by the department under section 7 of this 2021 Act [285B.799] and any other information the interim committees consider necessary or useful. [2021 c.676 §9] 
 
 ## Provenance & change history
 

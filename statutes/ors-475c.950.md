@@ -79,7 +79,7 @@ ORS 475C.950 — Adoption of ordinances; referral to electors for approval. Chap
 
 (9) Notwithstanding subsection
 
-(1) of this section, a marijuana processing site is not subject to an ordinance adopted under this section if the marijuana processing site: (a) Is registered under ORS 475C.815 on or before the date on which the governing body adopts the ordinance; and (b) Has successfully completed a city or county land use application process. [Formerly 475B.968] _______________
+(1) of this section, a marijuana processing site is not subject to an ordinance adopted under this section if the marijuana processing site: (a) Is registered under ORS 475C.815 on or before the date on which the governing body adopts the ordinance; and (b) Has successfully completed a city or county land use application process. [Formerly 475B.968] 
 
 ## Provenance & change history
 

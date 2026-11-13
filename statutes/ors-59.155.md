@@ -56,7 +56,7 @@ ORS 59.155 — Director is agent for service of process; manner of service; exce
 
 (3) The procedure permitted by this section shall not be available when personal jurisdiction can otherwise be obtained in this state.
 
-(4) After completion of initial service upon the director, no additional documents need be served upon the director to maintain jurisdiction in the same proceeding or to give notice of any motion or provisional process. [1967 c.537 §16; 1987 c.603 §9; 1989 c.197 §7; 1997 c.772 §14] 59.160 [Repealed by 1967 c.537 §36] (Licensing of Broker-Dealers, Investment Advisers and Salespersons) 
+(4) After completion of initial service upon the director, no additional documents need be served upon the director to maintain jurisdiction in the same proceeding or to give notice of any motion or provisional process. [1967 c.537 §16; 1987 c.603 §9; 1989 c.197 §7; 1997 c.772 §14] 
 
 ## Provenance & change history
 

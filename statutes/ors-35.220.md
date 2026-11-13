@@ -64,7 +64,7 @@ ORS 35.220 — Precondemnation entry on real property. Chapter 35 (Eminent Domai
 
 (2) of this section, and the condemner thereafter seeks condemnation of the same property, the owner is not entitled to any payment of compensation in the condemnation action that would result in the owner receiving a second recovery for the same damage or interference.
 
-(5) Nothing in this section affects any liability under any other provision of law that a condemner may have to an owner or occupant of property by reason of entry upon or examination, survey, testing or sampling of property. [2003 c.477 §2] 35.225 [1971 c.741 §5; repealed by 1979 c.284 §199] 
+(5) Nothing in this section affects any liability under any other provision of law that a condemner may have to an owner or occupant of property by reason of entry upon or examination, survey, testing or sampling of property. [2003 c.477 §2] 
 
 ## Provenance & change history
 

@@ -69,7 +69,7 @@ ORS 285C.405 — School support fee in lieu of property taxes; collection; delin
 
 (8) The fee shall be considered moneys received in lieu of property taxes for purposes of ORS 327.011 (1)(f).
 
-(9) The amount of a fee and any interest or penalty imposed on the fee, and the disqualification of a facility under this section, may be appealed to the Oregon Tax Court under ORS 305.404 to 305.560. [2023 c.298 §51] Note: See note under 285C.162. 285C.406 [Formerly 285B.796; 2005 c.94 §15; 2005 c.667 §3; 2007 c.888 §2; 2009 c.913 §2; 2011 c.375 §2; 2011 c.730 §6; 2023 c.298 §14; renumbered 285C.408 in 2023] 
+(9) The amount of a fee and any interest or penalty imposed on the fee, and the disqualification of a facility under this section, may be appealed to the Oregon Tax Court under ORS 305.404 to 305.560. [2023 c.298 §51] Note: See note under 285C.162. 
 
 ## Provenance & change history
 

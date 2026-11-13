@@ -56,7 +56,7 @@ ORS 285B.794 — Annual report by lenders. Chapter 285B (Chapter 285B), 2025 Edi
 
 (3) With respect to qualified borrowers, the report shall set forth: (a) The businesses that qualified borrowers conduct in this state; (b) The cities and counties in which qualified borrowers use the qualified loan proceeds; (c) The number of individuals employed by the qualified businesses; (d) Demographic data voluntarily reported by qualified borrowers, including, but not limited to, whether a qualified business is owned by a woman, a minority individual, a veteran of any branch of the Armed Forces of the United States, the National Guard or other reserve component, a low income person or a person operating the business in a rural area of this state; and (e) Outreach conducted by the lender to rural and underserved communities.
 
-(4) The department may require any lender to include in the report financial information that is identifiable with, or from, the financial records of a borrower. [2021 c.676 §5] Note: See note under 285B.780. 285B.796 [2001 c.292 §7; 2003 c.662 §59; renumbered 285C.406 in 2003] 
+(4) The department may require any lender to include in the report financial information that is identifiable with, or from, the financial records of a borrower. [2021 c.676 §5] Note: See note under 285B.780. 
 
 ## Provenance & change history
 

@@ -60,7 +60,7 @@ ORS 94.712 — Lot owner personally liable for assessment; joint liability of gr
 
 (4) During the redemption period that follows an execution sale conducted under ORS 18.860 to 18.993, a certificate holder, as defined in ORS 18.960, is solely liable for all assessments that come due during the redemption period.
 
-(5) For purposes of ORS 94.550 to 94.783, when the redemption period described in ORS 18.964 ends and the claimant has not redeemed the lot, the certificate holder is deemed the owner of a lot sold by execution sale, without regard to whether the certificate holder has caused the sheriff to execute and deliver a deed under ORS 18.985. [1999 c.677 §32; 2003 c.569 §18; 2015 c.120 §5] 94.715 [Repealed by 1971 c.478 §1] 
+(5) For purposes of ORS 94.550 to 94.783, when the redemption period described in ORS 18.964 ends and the claimant has not redeemed the lot, the certificate holder is deemed the owner of a lot sold by execution sale, without regard to whether the certificate holder has caused the sheriff to execute and deliver a deed under ORS 18.985. [1999 c.677 §32; 2003 c.569 §18; 2015 c.120 §5] 
 
 ## Provenance & change history
 

@@ -59,7 +59,7 @@ ORS 285B.260 — Local Economic Opportunity Fund; uses; rules. Chapter 285B (Cha
 
 (4) After consulting with representatives of communities or geographic areas, the department, by rule, shall adopt standards, objectives and criteria for the use and distribution of moneys in the Local Economic Opportunity Fund.
 
-(5) The Local Economic Opportunity Fund is created to provide a flexible funding source for financing those locally determined programs and projects that may not be eligible for financing through other state and federal funding sources. [Formerly 285.650; 1999 c.509 §56; 2003 c.773 §25; 2007 c.354 §15; 2007 c.804 §67; 2009 c.830 §79] 285B.263 [Formerly 285.651; 1999 c.509 §57; 2001 c.552 §3; 2003 c.773 §26; 2007 c.804 §68; repealed by 2009 c.830 §171] 285B.264 [2003 c.773 §26a; 2007 c.804 §69; repealed by 2009 c.830 §171] 
+(5) The Local Economic Opportunity Fund is created to provide a flexible funding source for financing those locally determined programs and projects that may not be eligible for financing through other state and federal funding sources. [Formerly 285.650; 1999 c.509 §56; 2003 c.773 §25; 2007 c.354 §15; 2007 c.804 §67; 2009 c.830 §79] 
 
 ## Provenance & change history
 

@@ -56,7 +56,7 @@ ORS 9.990 — Penalties. Chapter 9 (Oregon State Bar; Attorneys; Law Libraries),
 
 (3) Any person violating any of the provisions of ORS 9.505 shall, upon conviction, be fined not more than $1,000 or imprisoned in the county jail for a period not to exceed one year, or both. [Subsection
 
-(3) enacted as 1961 c.561 §4; 1999 c.1051 §143] _______________
+(3) enacted as 1961 c.561 §4; 1999 c.1051 §143] 
 
 ## Provenance & change history
 

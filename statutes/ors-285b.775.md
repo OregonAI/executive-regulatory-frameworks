@@ -52,7 +52,7 @@ ORS 285B.775 — Annual report by Oregon Business Development Department to legi
 
 (1) On or before September 15 of each year, the Oregon Business Development Department shall submit, in the manner provided in ORS 192.245, to the interim legislative committees related to economic development, a report containing the following information about the loan program developed and implemented under ORS 285B.764 to 285B.775: (a) The number of loans made; (b) The amounts of the loans made; (c) Demographic information about the eligible businesses that received loans that is voluntarily given to the department; (d) The number of referrals from technical assistance providers under ORS 285B.771; (e) The number of loan applications that were rejected and the reasons for the rejections; (f) Demographic information about the eligible businesses whose applications were rejected that is voluntarily given to the department; and (g) Any other information the department considers significant in evaluating the loan program.
 
-(2) The report may include information from periodic reports provided to the department by technical assistance providers under ORS 285B.771 (4)(b). [2021 c.676 §15] Note: See note under 285B.764. 285B.776 [2001 c.932 §9; renumbered 285C.320 in 2003] LENDERS’ LOAN LOSS RESERVE ACCOUNT AWARD PROGRAM 
+(2) The report may include information from periodic reports provided to the department by technical assistance providers under ORS 285B.771 (4)(b). [2021 c.676 §15] Note: See note under 285B.764. 
 
 ## Provenance & change history
 

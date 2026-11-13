@@ -48,7 +48,7 @@ ORS 181A.689 — Standards for speech and expression. Chapter 181A (State Police
 
 ## Full text
 
-181A.689 Standards for speech and expression. A law enforcement unit that employs police officers or reserve officers shall adopt policies that set standards for speech and expression by officers in and outside the course and scope of employment. The policies must apply to all forms of speech and expression, including but not limited to film, video, print media, public and private speech and use of Internet services including but not limited to electronic mail, file transfer, remote computer access, news services, social networking, social media, instant messaging, blogs, forums and video and other file-sharing sites. The policies may not violate the constitutional rights to free speech and expression. [2021 c.299 §4] 181A.690 [2011 c.644 §3; 2011 c.644 §6; renumbered 181A.944 in 2021] 181A.692 [2011 c.644 §4; renumbered 181A.946 in 2021] (Identification of Officers) 
+181A.689 Standards for speech and expression. A law enforcement unit that employs police officers or reserve officers shall adopt policies that set standards for speech and expression by officers in and outside the course and scope of employment. The policies must apply to all forms of speech and expression, including but not limited to film, video, print media, public and private speech and use of Internet services including but not limited to electronic mail, file transfer, remote computer access, news services, social networking, social media, instant messaging, blogs, forums and video and other file-sharing sites. The policies may not violate the constitutional rights to free speech and expression. [2021 c.299 §4] 
 
 ## Provenance & change history
 

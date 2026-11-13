@@ -52,7 +52,7 @@ ORS 63.219 — Distribution in kind. Chapter 63 (Limited Liability Companies), 2
 
 (1) No member, regardless of the nature of the member’s contribution, has any right to demand and receive any distribution from a limited liability company in any form other than cash; and
 
-(2) No member may be compelled to accept a distribution of any asset in kind from a limited liability company to the extent that the percentage of the asset distributed to the member exceeds a percentage of that asset that is equal to the percentage in which the member shares in operating or liquidating distributions, as the case may be, from the limited liability company. [1993 c.173 §44] 63.220 [1959 c.660 §2; repealed by 1981 c.68 §1] 
+(2) No member may be compelled to accept a distribution of any asset in kind from a limited liability company to the extent that the percentage of the asset distributed to the member exceeds a percentage of that asset that is equal to the percentage in which the member shares in operating or liquidating distributions, as the case may be, from the limited liability company. [1993 c.173 §44] 
 
 ## Provenance & change history
 

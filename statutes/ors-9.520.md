@@ -48,7 +48,7 @@ ORS 9.520 — Acceptance and prosecution of solicited claims. Chapter 9 (Oregon 
 
 ## Full text
 
-9.520 Acceptance and prosecution of solicited claims. No attorney shall accept from a solicitor described in ORS 9.500 any claim for damages, or bring an action for damages on account of any claim obtained from such solicitor. Any agreement between an attorney and such solicitor regarding compensation to be paid to the attorney or solicitor is void. 9.525 [1975 c.641 §8; repealed by 1983 c.618 §1]
+9.520 Acceptance and prosecution of solicited claims. No attorney shall accept from a solicitor described in ORS 9.500 any claim for damages, or bring an action for damages on account of any claim obtained from such solicitor. Any agreement between an attorney and such solicitor regarding compensation to be paid to the attorney or solicitor is void. 
 
 ## Provenance & change history
 

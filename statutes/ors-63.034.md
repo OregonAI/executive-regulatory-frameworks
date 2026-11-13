@@ -60,7 +60,7 @@ ORS 63.034 — Knowledge and notice. Chapter 63 (Limited Liability Companies), 2
 
 (5) A person other than an individual knows, has notice or receives a notification of a fact for purposes of a particular transaction when the individual conducting the transaction knows, has notice or receives a notification of the fact, or in any event when the fact would have been brought to the individual’s attention if the person had exercised reasonable diligence.
 
-(6) Written notice to a domestic limited liability company or to a foreign limited liability company authorized to transact business in this state may be addressed to its registered agent at its registered office or to the domestic or foreign limited liability company or its manager or managers at its principal office or mailing address as shown in the records of the office. [1993 c.173 §13; 1995 c.79 §17; 1999 c.86 §2] 63.040 [Repealed by 1959 c.580 §104]
+(6) Written notice to a domestic limited liability company or to a foreign limited liability company authorized to transact business in this state may be addressed to its registered agent at its registered office or to the domestic or foreign limited liability company or its manager or managers at its principal office or mailing address as shown in the records of the office. [1993 c.173 §13; 1995 c.79 §17; 1999 c.86 §2] 
 
 ## Provenance & change history
 

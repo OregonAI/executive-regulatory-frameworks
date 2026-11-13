@@ -54,7 +54,7 @@ ORS 468B.064 — Follow-up assessments of waters of state that exceed numeric te
 
 (2) Subject to available resources, the department shall act promptly to update the list developed pursuant to section 303 (d) of the Federal Water Pollution Control Act, P.L. 92-500, as amended, when appropriate based on the follow-up assessments under subsection
 
-(1) of this section. [1997 c.770 §3] 468B.065 [Formerly 468.750; renumbered 468B.083 in 1997] 468B.066 [1997 c.770 §4; 1999 c.270 §4; repealed by 2007 c.354 §1] 
+(1) of this section. [1997 c.770 §3] 
 
 ## Provenance & change history
 

@@ -58,7 +58,7 @@ ORS 87.772 — Expiration of lien for failure to bring timely foreclosure action
 
 (1) has been extended by filing and giving notice under ORS 87.762, the lien shall be foreclosed in the manner provided by law for the foreclosure of liens generally.
 
-(3) In all suits under ORS 87.750 to 87.777, the court shall, upon entering judgment for the plaintiff, allow as a part of the costs all moneys paid for the filing and recording of the lien and a reasonable amount for attorney fees. [1981 c.446 §6; 2001 c.301 §21] 87.775 [1973 c.145 §5; repealed by 1975 c.648 §72] 
+(3) In all suits under ORS 87.750 to 87.777, the court shall, upon entering judgment for the plaintiff, allow as a part of the costs all moneys paid for the filing and recording of the lien and a reasonable amount for attorney fees. [1981 c.446 §6; 2001 c.301 §21] 
 
 ## Provenance & change history
 

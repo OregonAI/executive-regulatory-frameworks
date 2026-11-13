@@ -56,7 +56,7 @@ ORS 2.045 — Chief Justice. Chapter 2 (Supreme Court; Court of Appeals), 2025 E
 
 (4) If there is a vacancy for any cause in the office of Chief Justice, a successor Chief Justice shall be selected by vote of a majority of the judges of the court.
 
-(5) The Chief Justice may designate another judge of the court to perform the functions of the office of Chief Justice when the Chief Justice is temporarily unable to perform those functions. [1959 c.384 §2 (enacted in lieu of 2.050); 1981 s.s. c.1 §1] 2.050 [Repealed by 1959 c.384 §1 (2.045 enacted in lieu of 2.050)] 2.052 [1959 c.44 §1; 1969 c.198 §31; repealed by 1975 c.706 §10] 2.055 [1959 c.44 §2; repealed by 1975 c.706 §10] 2.058 [1959 c.44 §3; 1961 c.387 §1; 1969 c.198 §32; repealed by 1975 c.706 §10] 2.060 [Amended by 1955 c.127 §1; repealed by 1959 c.44 §7] 2.070 [Repealed by 1983 c.763 §9] 2.080 [Repealed by 1979 c.55 §1] 2.090 [Repealed by 1979 c.55 §1] 
+(5) The Chief Justice may designate another judge of the court to perform the functions of the office of Chief Justice when the Chief Justice is temporarily unable to perform those functions. [1959 c.384 §2 (enacted in lieu of 2.050); 1981 s.s. c.1 §1] 
 
 ## Provenance & change history
 

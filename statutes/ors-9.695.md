@@ -58,7 +58,7 @@ ORS 9.695 — Status of files or work premises of licensee; inadmissibility of e
 
 (3) As used in this section, “licensee” means a licensee or associate licensee of the Oregon State Bar or a person licensed to practice law in any court of this state or any court of record of the United States or of any state, territory or other jurisdiction of the United States.
 
-(4) Evidence or the fruits thereof obtained in violation of this section shall be inadmissible in any criminal or civil action or proceeding, except for an action or suit brought for violation of this section or the rights protected thereby. [1981 c.908 §1; 2023 c.72 §19; 2025 c.32 §48] 9.700 [Repealed by 1953 c.609 §2]
+(4) Evidence or the fruits thereof obtained in violation of this section shall be inadmissible in any criminal or civil action or proceeding, except for an action or suit brought for violation of this section or the rights protected thereby. [1981 c.908 §1; 2023 c.72 §19; 2025 c.32 §48] 
 
 ## Provenance & change history
 

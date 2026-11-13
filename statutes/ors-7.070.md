@@ -48,7 +48,7 @@ ORS 7.070 — Jury register. Chapter 7 (Records and Files of Courts), 2025 Editi
 
 ## Full text
 
-7.070 Jury register. The jury register is a record wherein the clerk or court administrator shall enter the names of the persons attending upon the court at a particular term as grand or trial jurors, the time of the attendance of each, and when discharged or excused, and the amount of fees and mileage earned by each. [Amended by 1975 c.588 §9] 7.080 [Amended by 1975 c.588 §10; repealed by 1985 c.540 §47] 
+7.070 Jury register. The jury register is a record wherein the clerk or court administrator shall enter the names of the persons attending upon the court at a particular term as grand or trial jurors, the time of the attendance of each, and when discharged or excused, and the amount of fees and mileage earned by each. [Amended by 1975 c.588 §9] 
 
 ## Provenance & change history
 

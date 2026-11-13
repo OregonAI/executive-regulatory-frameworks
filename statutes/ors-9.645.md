@@ -48,7 +48,7 @@ ORS 9.645 — Annual payment by state bar licensees. Chapter 9 (Oregon State Bar
 
 ## Full text
 
-9.645 Annual payment by state bar licensees. To establish and maintain a client security fund, the board of governors may require an annual payment by each active licensee of the state bar. The payment authorized by this section shall be due at the same time, and enforced in the same manner, as payment of the annual licensure fee. [1967 c.546 §5; 1975 c.641 §11; 1979 c.314 §1; 1983 c.122 §1; 1989 c.1052 §25; 1991 c.726 §6; 2025 c.32 §41] 9.650 [Repealed by 1953 c.609 §2] 
+9.645 Annual payment by state bar licensees. To establish and maintain a client security fund, the board of governors may require an annual payment by each active licensee of the state bar. The payment authorized by this section shall be due at the same time, and enforced in the same manner, as payment of the annual licensure fee. [1967 c.546 §5; 1975 c.641 §11; 1979 c.314 §1; 1983 c.122 §1; 1989 c.1052 §25; 1991 c.726 §6; 2025 c.32 §41] 
 
 ## Provenance & change history
 

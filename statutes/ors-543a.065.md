@@ -52,7 +52,7 @@ ORS 543A.065 — Changes to expiration date of water right for existing project.
 
 (1) Notwithstanding the expiration date set forth in a water right for an existing federally licensed project, upon the request of the holder of the water right, the Water Resources Department may: (a) Extend the expiration date of the water right, for a period of up to 15 years, to correspond to the expiration date of the federal license for the project; or (b) Process an application for reauthorization of the water right prior to the actual expiration date of the water right in order to correspond with the expiration of the federal license for the project.
 
-(2) For a project with a water right that expires more than 15 years before the expiration date of the federal license for the project, the Hydroelectric Application Review Team shall evaluate the project under the process and standards established in ORS 543A.005 to 543A.025 and 543A.060 to 543A.410 for a state project. A reauthorized water right for such a project may be for a term concurrent with the federal license. [1997 c.449 §13] 543A.070 [1997 c.449 §14; repealed by 1999 c.873 §14 (543A.071 enacted in lieu of 543A.070)] 
+(2) For a project with a water right that expires more than 15 years before the expiration date of the federal license for the project, the Hydroelectric Application Review Team shall evaluate the project under the process and standards established in ORS 543A.005 to 543A.025 and 543A.060 to 543A.410 for a state project. A reauthorized water right for such a project may be for a term concurrent with the federal license. [1997 c.449 §13] 
 
 ## Provenance & change history
 

@@ -58,7 +58,7 @@ ORS 276A.575 — Oregon Cybersecurity Grant Program Fund; standards and requirem
 
 (4) The center shall adopt standards, objectives, criteria and eligibility requirements for the use of moneys distributed from the fund. In developing criteria and eligibility standards, the center shall take into consideration any requirements of federal programs awarding moneys related to cybersecurity.
 
-(5) The center shall submit to the Governor and to the appropriate committees of the Legislative Assembly, in the manner provided under ORS 192.245, a biennial report that summarizes the balance of the fund, lists the deposits into and expenditures from the fund and provides such other details as necessary regarding the operation of the fund. [2023 c.489 §10] CHAPTER 277 [Reserved for expansion] _______________
+(5) The center shall submit to the Governor and to the appropriate committees of the Legislative Assembly, in the manner provided under ORS 192.245, a biennial report that summarizes the balance of the fund, lists the deposits into and expenditures from the fund and provides such other details as necessary regarding the operation of the fund. [2023 c.489 §10] CHAPTER 277 [Reserved for expansion] 
 
 ## Provenance & change history
 

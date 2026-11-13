@@ -54,7 +54,7 @@ ORS 91.122 — Occupancy of dwelling unit by employee of resident of dwelling un
 
 (2) An employee of a resident of a dwelling unit whose occupancy is conditional upon employment in and about the premises, and members of the employee’s household, may only be evicted pursuant to ORS 105.100 to 105.168 after at least 24 hours’ written notice of the termination of employment or a notice period set forth in a written employment contract, whichever is longer.
 
-(3) This section does not create the relationship of landlord and tenant between the resident and the employee or members of the employee’s household. [Formerly 105.117] 91.125 [1987 c.611 §5; repealed by 1993 c.369 §39] 
+(3) This section does not create the relationship of landlord and tenant between the resident and the employee or members of the employee’s household. [Formerly 105.117] 
 
 ## Provenance & change history
 

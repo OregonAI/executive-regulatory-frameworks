@@ -56,7 +56,7 @@ ORS 468B.051 — Fees for water quality permits and programs. Chapter 468B (Chap
 
 (2) The commission may not increase a fee described in subsection
 
-(1) of this section more than once each calendar year. The amount of the annual increase may not exceed the anticipated increase in the cost of administering the program to which the fee is applicable or three percent, whichever is lower, unless a larger increase is provided for in the Department of Environmental Quality’s legislatively approved budget. [2005 c.523 §2; 2015 c.640 §1; 2023 c.258 §1] Note: 468B.051 was added to and made a part of ORS chapter 468B by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 468B.052 [2005 c.729 §3; 2013 c.783 §11; repealed by 2017 c.300 §9] 
+(1) of this section more than once each calendar year. The amount of the annual increase may not exceed the anticipated increase in the cost of administering the program to which the fee is applicable or three percent, whichever is lower, unless a larger increase is provided for in the Department of Environmental Quality’s legislatively approved budget. [2005 c.523 §2; 2015 c.640 §1; 2023 c.258 §1] Note: 468B.051 was added to and made a part of ORS chapter 468B by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

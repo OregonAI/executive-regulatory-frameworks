@@ -48,7 +48,7 @@ ORS 58.205 — Corporation prohibited from doing acts prohibited to professional
 
 ## Full text
 
-58.205 Corporation prohibited from doing acts prohibited to professional licensee. No domestic or foreign professional corporation may do any act which is prohibited to a person licensed to render the professional service or services for which the corporation is organized. [1969 c.592 §16; 1987 c.94 §24; 1993 c.235 §13] 58.210 [Repealed by 1961 c.726 §427] 58.215 [1969 c.592 §28; repealed by 1997 c.774 §31] 58.220 [Repealed by 1961 c.726 §427] 
+58.205 Corporation prohibited from doing acts prohibited to professional licensee. No domestic or foreign professional corporation may do any act which is prohibited to a person licensed to render the professional service or services for which the corporation is organized. [1969 c.592 §16; 1987 c.94 §24; 1993 c.235 §13] 
 
 ## Provenance & change history
 

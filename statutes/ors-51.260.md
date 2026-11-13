@@ -66,7 +66,7 @@ ORS 51.260 — Filling vacancy; temporary appointment; appointment during justic
 
 (2) and
 
-(4) of this section. [Amended by 1961 c.724 §26; 1995 c.329 §1; 1995 c.658 §58] 51.270 [Repealed by 2019 c.426 §1] 51.280 [Repealed by 2019 c.426 §1] 51.290 [Repealed by 1953 c.306 §18] 
+(4) of this section. [Amended by 1961 c.724 §26; 1995 c.329 §1; 1995 c.658 §58] 
 
 ## Provenance & change history
 

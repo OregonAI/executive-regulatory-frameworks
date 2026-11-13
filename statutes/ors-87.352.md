@@ -52,7 +52,7 @@ ORS 87.352 — Mining labor and material lien. Chapter 87 (Statutory Liens), 202
 
 (1) A person has a lien upon a mine or an improvement to secure payment for labor performed or materials furnished if that person: (a) Performs labor upon or furnishes provisions or materials for the development, working or operation of a mine, improvement or excavation; (b) Performs labor or furnishes materials in transporting materials or provisions for the use, working or development of a mine; or (c) Performs labor in transporting materials or the mine’s product from a mine or improvement.
 
-(2) For purposes of this section, when two or more mines are owned or claimed by the same person and worked through a common excavation, or over one tram, or at one mill or other reduction works, then all the mines so worked, and all excavations and improvements used or owned in connection therewith shall be deemed one mine. [1975 c.648 §41] 87.355 [Repealed by 1975 c.648 §72] 
+(2) For purposes of this section, when two or more mines are owned or claimed by the same person and worked through a common excavation, or over one tram, or at one mill or other reduction works, then all the mines so worked, and all excavations and improvements used or owned in connection therewith shall be deemed one mine. [1975 c.648 §41] 
 
 ## Provenance & change history
 

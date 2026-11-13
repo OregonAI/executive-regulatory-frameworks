@@ -54,7 +54,7 @@ ORS 62.482 — Application of ORS 62.462 to 62.482. Chapter 62 (Cooperatives), 2
 
 (2) If articles of incorporation limit indemnification or advance of expenses, any indemnification or advance of expenses is valid only to the extent consistent with the articles of incorporation.
 
-(3) ORS 62.462 to 62.482 do not limit a cooperative’s power to pay or reimburse expenses incurred by a director in connection with the director’s appearance as a witness in a proceeding at a time when the director has not been made a named defendant or respondent to a proceeding. [1995 c.195 §23; 2007 c.186 §5] 62.505 [1957 c.716 §5; 1963 c.492 §44; 1975 c.161 §2; 1981 c.633 §62; 1985 c.728 §67; repealed by 1987 c.94 §174] 62.510 [1957 c.716 §6; 1963 c.492 §45; 1983 c.717 §26; 1985 c.728 §68; 1987 c.94 §83; repealed by 1995 c.195 §46]
+(3) ORS 62.462 to 62.482 do not limit a cooperative’s power to pay or reimburse expenses incurred by a director in connection with the director’s appearance as a witness in a proceeding at a time when the director has not been made a named defendant or respondent to a proceeding. [1995 c.195 §23; 2007 c.186 §5] 
 
 ## Provenance & change history
 

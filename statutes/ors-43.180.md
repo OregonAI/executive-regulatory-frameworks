@@ -52,7 +52,7 @@ ORS 43.180 — Effect of judicial record of other jurisdictions. Chapter 43 (Pub
 
 (1) It can be enforced in this state only by an action, suit or proceeding; and
 
-(2) The authority of a guardian, conservator, committee, executor or administrator does not extend beyond the jurisdiction of the government under which the guardian, conservator, committee, executor or administrator is invested with authority. [Amended by 1973 c.823 §90; 2005 c.22 §33] 43.190 [Repealed by 1975 c.542 §2] 
+(2) The authority of a guardian, conservator, committee, executor or administrator does not extend beyond the jurisdiction of the government under which the guardian, conservator, committee, executor or administrator is invested with authority. [Amended by 1973 c.823 §90; 2005 c.22 §33] 
 
 ## Provenance & change history
 

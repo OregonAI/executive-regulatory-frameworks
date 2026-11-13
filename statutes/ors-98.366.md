@@ -52,7 +52,7 @@ ORS 98.366 — Relief from liability by payment or delivery. Chapter 98 (Lost, U
 
 (1) Upon the payment or delivery of unclaimed property to the State Treasurer, the state shall assume custody and is responsible for its safekeeping. Any person who pays or delivers unclaimed property to the State Treasurer under ORS 98.352 is relieved of all liability to the extent of the value of the property paid or delivered for any claim that then exists or may arise in respect to the property.
 
-(2) A holder who has paid money to the State Treasurer under ORS 98.352 may make payment to any person appearing to the holder to be entitled to payment. The State Treasurer shall reimburse the holder within 60 days of receiving proof that payment was made to a person who appeared to the holder to be entitled to payment without imposing any fee or other charge. [1957 c.670 §16; 1983 c.716 §12; 1993 c.694 §10; 2019 c.678 §15] 98.370 [Repealed by 1957 c.670 §37] 
+(2) A holder who has paid money to the State Treasurer under ORS 98.352 may make payment to any person appearing to the holder to be entitled to payment. The State Treasurer shall reimburse the holder within 60 days of receiving proof that payment was made to a person who appeared to the holder to be entitled to payment without imposing any fee or other charge. [1957 c.670 §16; 1983 c.716 §12; 1993 c.694 §10; 2019 c.678 §15] 
 
 ## Provenance & change history
 

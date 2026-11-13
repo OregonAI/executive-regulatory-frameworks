@@ -48,7 +48,7 @@ ORS 92.245 — Fees for review proceedings resulting in modification or vacation
 
 ## Full text
 
-92.245 Fees for review proceedings resulting in modification or vacation. The governing body of a city or county may, by ordinance or regulation adopted in accordance with ORS 92.048, prescribe fees sufficient to defray the costs incurred in the review and investigation of and action upon undeveloped subdivisions for which the plat is modified or vacated under ORS 92.205 to 92.245. [1973 c.569 §5] 92.250 [1963 c.624 §6; 1969 c.663 §4; 1971 c.106 §2; repealed by 1973 c.421 §52] 92.255 [1965 c.584 §5; repealed by 1973 c.421 §52] 92.260 [1963 c.624 §§7,17; 1965 c.584 §6; repealed by 1973 c.421 §52] 92.270 [1963 c.624 §8; 1965 c.584 §7; repealed by 1973 c.421 §52] 92.275 [1973 c.351 §3; repealed by 1977 c.236 §1] 92.280 [1963 c.624 §9; 1965 c.584 §8; repealed by 1973 c.421 §52]
+92.245 Fees for review proceedings resulting in modification or vacation. The governing body of a city or county may, by ordinance or regulation adopted in accordance with ORS 92.048, prescribe fees sufficient to defray the costs incurred in the review and investigation of and action upon undeveloped subdivisions for which the plat is modified or vacated under ORS 92.205 to 92.245. [1973 c.569 §5] 
 
 ## Provenance & change history
 

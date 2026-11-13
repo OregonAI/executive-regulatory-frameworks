@@ -58,7 +58,7 @@ ORS 94.728 — Taxation of lots and common property. Chapter 94 (Real Property D
 
 (4) If the right described under subsection
 
-(3) of this section terminates or expires or is abandoned or relinquished before July 1 of any year, no tax or assessment shall be imposed against the portion of the common property so affected for the next tax year beginning on July 1. [1981 c.782 §34] 94.730 [Repealed by 1971 c.478 §1] 
+(3) of this section terminates or expires or is abandoned or relinquished before July 1 of any year, no tax or assessment shall be imposed against the portion of the common property so affected for the next tax year beginning on July 1. [1981 c.782 §34] 
 
 ## Provenance & change history
 

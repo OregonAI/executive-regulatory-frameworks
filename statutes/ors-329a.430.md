@@ -64,7 +64,7 @@ ORS 329A.430 — Rights of family child care providers to join labor organizatio
 
 (6) Notwithstanding ORS 243.650 (1): (a) The appropriate bargaining unit for certified and registered family child care providers is a bargaining unit of all certified and registered family child care providers in the state. (b) The appropriate bargaining unit for exempt family child care providers is a bargaining unit of all exempt family child care providers in the state.
 
-(7) This section does not modify any right of a parent or legal guardian to choose and terminate the services of a family child care provider. [Formerly 657A.430; 2020 s.s.2 c.10 §7; 2023 c.594 §12] (Miscellaneous) 329A.440 [Formerly 657A.440; 2021 c.369 §1; 2025 c.38 §44; 2025 c.157 §2; renumbered 197.671 in 2025] 
+(7) This section does not modify any right of a parent or legal guardian to choose and terminate the services of a family child care provider. [Formerly 657A.430; 2020 s.s.2 c.10 §7; 2023 c.594 §12] (Miscellaneous) 
 
 ## Provenance & change history
 

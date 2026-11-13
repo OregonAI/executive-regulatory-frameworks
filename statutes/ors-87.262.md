@@ -48,7 +48,7 @@ ORS 87.262 — Foreclosure. Chapter 87 (Statutory Liens), 2025 Edition.
 
 ## Full text
 
-87.262 Foreclosure. Except as provided in ORS 87.322, a lien created by ORS 87.216 to 87.232 may be foreclosed by a suit in the circuit court under ORS chapter 88 and other laws regulating the proceedings for the foreclosure of liens generally or may be foreclosed as provided in ORS 87.272 to 87.306. If the lien has attached to proceeds under ORS 87.236, the lien must be foreclosed by suit. [1975 c.648 §25] 87.265 [Repealed by 1975 c.648 §72] 
+87.262 Foreclosure. Except as provided in ORS 87.322, a lien created by ORS 87.216 to 87.232 may be foreclosed by a suit in the circuit court under ORS chapter 88 and other laws regulating the proceedings for the foreclosure of liens generally or may be foreclosed as provided in ORS 87.272 to 87.306. If the lien has attached to proceeds under ORS 87.236, the lien must be foreclosed by suit. [1975 c.648 §25] 
 
 ## Provenance & change history
 

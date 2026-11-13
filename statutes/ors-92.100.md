@@ -74,7 +74,7 @@ ORS 92.100 — Approval of plat by city or county surveyor; procedures; approval
 
 (6) Nothing in this section prohibits a city, county or special district from requiring engineering review and approval of a subdivision plat to ensure compliance with state and local subdivision requirements that relate to matters other than survey adequacy.
 
-(7) Granting approval or withholding approval of a final subdivision or partition plat under this section by the county surveyor, the county assessor or the governing body of a city or county, or a designee of the governing body, is not a land use decision or a limited land use decision, as defined in ORS 197.015. [Amended by 1955 c.31 §2; 1955 c.756 §14; 1957 c.688 §1; 1963 c.285 §1; 1971 c.419 §1; 1979 c.824 §1; 1989 c.772 §15; 1991 c.763 §16; 1993 c.453 §1; 1993 c.702 §6; 1999 c.1018 §6; 2003 c.381 §1; 2005 c.239 §1; 2005 c.399 §12a] 92.102 [1997 c.586 §11; repealed by 2003 c.454 §81 and 2003 c.621 §49] 
+(7) Granting approval or withholding approval of a final subdivision or partition plat under this section by the county surveyor, the county assessor or the governing body of a city or county, or a designee of the governing body, is not a land use decision or a limited land use decision, as defined in ORS 197.015. [Amended by 1955 c.31 §2; 1955 c.756 §14; 1957 c.688 §1; 1963 c.285 §1; 1971 c.419 §1; 1979 c.824 §1; 1989 c.772 §15; 1991 c.763 §16; 1993 c.453 §1; 1993 c.702 §6; 1999 c.1018 §6; 2003 c.381 §1; 2005 c.239 §1; 2005 c.399 §12a] 
 
 ## Provenance & change history
 

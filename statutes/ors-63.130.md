@@ -71,7 +71,7 @@ ORS 63.130 — Rights of members and managers; matters requiring consent of all 
 
 (6) Unless otherwise provided in the articles of organization or any operating agreement, a member or manager may appoint a proxy to vote or otherwise act for the member or manager by signing an appointment instrument, either personally or by the member’s or manager’s attorney-in-fact.
 
-(7) Unless the context clearly requires otherwise, references in this chapter to managers apply both to managers of a manager-managed limited liability company and to members of a member-managed limited liability company. [1993 c.173 §28; 1999 c.86 §4] 63.135 [1993 c.173 §29; repealed by 1999 c.86 §23] 
+(7) Unless the context clearly requires otherwise, references in this chapter to managers apply both to managers of a manager-managed limited liability company and to members of a member-managed limited liability company. [1993 c.173 §28; 1999 c.86 §4] 
 
 ## Provenance & change history
 

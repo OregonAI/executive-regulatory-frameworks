@@ -72,7 +72,7 @@ ORS 431A.725 — Qualifying schools; certification; rules. Chapter 431A (Chapter
 
 (1) of this section for one or more schools: (a) Develop a plan for transitioning the school or schools from receiving the services directly from the authority to receiving the services from the local dental sealant program; and (b) Assist the school or schools in making the transition.
 
-(6) Ensure that all dental sealant data collected by the authority or a local dental sealant program is integrated with data sets included as part of the comprehensive health care information system described in ORS 442.373. [2015 c.791 §1] 431A.750 [Formerly 431.310; repealed by 2025 c.203 §6]
+(6) Ensure that all dental sealant data collected by the authority or a local dental sealant program is integrated with data sets included as part of the comprehensive health care information system described in ORS 442.373. [2015 c.791 §1] 
 
 ## Provenance & change history
 

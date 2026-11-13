@@ -48,7 +48,7 @@ ORS 62.005 — Short title. Chapter 62 (Cooperatives), 2025 Edition.
 
 ## Full text
 
-62.005 Short title. This chapter shall be known and may be cited as the “Oregon Cooperative Corporation Act.” [1957 c.716 §1] 62.010 [Repealed by 1957 c.716 §76] 
+62.005 Short title. This chapter shall be known and may be cited as the “Oregon Cooperative Corporation Act.” [1957 c.716 §1] 
 
 ## Provenance & change history
 

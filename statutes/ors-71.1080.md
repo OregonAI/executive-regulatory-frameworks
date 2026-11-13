@@ -48,7 +48,7 @@ ORS 71.1080 — Relation to Electronic Signatures in Global and National Commerc
 
 ## Full text
 
-71.1080 Relation to Electronic Signatures in Global and National Commerce Act. This chapter modifies, limits and supersedes the federal Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7001 et seq., except that nothing in this chapter modifies, limits or supersedes section 7001(c) of that Act or authorizes electronic delivery of any of the notices described in section 7003(b) of that Act. [1961 c.726 §71.1080; 2009 c.181 §7] 71.1090 [1961 c.726 §71.1090; repealed by 2009 c.181 §116]
+71.1080 Relation to Electronic Signatures in Global and National Commerce Act. This chapter modifies, limits and supersedes the federal Electronic Signatures in Global and National Commerce Act, 15 U.S.C. 7001 et seq., except that nothing in this chapter modifies, limits or supersedes section 7001(c) of that Act or authorizes electronic delivery of any of the notices described in section 7003(b) of that Act. [1961 c.726 §71.1080; 2009 c.181 §7] 
 
 ## Provenance & change history
 

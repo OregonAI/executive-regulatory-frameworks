@@ -48,7 +48,7 @@ ORS 30.750 — Liability of abstractors. Chapter 30 (Actions and Suits in Partic
 
 ## Full text
 
-30.750 Liability of abstractors. Any person who, after May 24, 1923, certifies to any abstract of title to any land in Oregon, shall be liable for all damages sustained by any person who, in reliance on the correctness thereof, acts thereon with reference to the title of such land, and is damaged in consequence of any errors, omissions or defects therein, regardless of whether the abstract of title was ordered by the person so damaged. Nothing in this section shall be construed to prevent the maker of any abstract of title to land from limiting in the certificate to the abstract the liability of the maker thereunder to any person named in such certificate, but such limitation of liability must be expressly set forth in the certificate. 30.760 [Amended by 1953 c.565 §2; renumbered 30.150] 
+30.750 Liability of abstractors. Any person who, after May 24, 1923, certifies to any abstract of title to any land in Oregon, shall be liable for all damages sustained by any person who, in reliance on the correctness thereof, acts thereon with reference to the title of such land, and is damaged in consequence of any errors, omissions or defects therein, regardless of whether the abstract of title was ordered by the person so damaged. Nothing in this section shall be construed to prevent the maker of any abstract of title to land from limiting in the certificate to the abstract the liability of the maker thereunder to any person named in such certificate, but such limitation of liability must be expressly set forth in the certificate. 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 30.715 — Successive actions or suits. Chapter 30 (Actions and Suits in Par
 
 ## Full text
 
-30.715 Successive actions or suits. Successive actions or suits may be maintained upon the same contract or transaction, whenever, after the former action or suit, a new cause of action or suit arises therefrom. [Formerly 11.030] 30.720 [Repealed by 1973 c.640 §1; amended by 1973 c.823 §§88,155] 30.725 [Repealed by 1974 c.36 §28] 30.730 [Repealed by 1979 c.801 §4] 
+30.715 Successive actions or suits. Successive actions or suits may be maintained upon the same contract or transaction, whenever, after the former action or suit, a new cause of action or suit arises therefrom. [Formerly 11.030] 
 
 ## Provenance & change history
 

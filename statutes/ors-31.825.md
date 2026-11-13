@@ -46,7 +46,7 @@ ORS 31.825 — Assignment of cause of action against insurer. Chapter 31 (Tort A
 
 ## Full text
 
-31.825 Assignment of cause of action against insurer. A defendant in a tort action against whom a judgment has been rendered may assign any cause of action that defendant has against the defendant’s insurer as a result of the judgment to the plaintiff in whose favor the judgment has been entered. That assignment and any release or covenant given for the assignment shall not extinguish the cause of action against the insurer unless the assignment specifically so provides. [Formerly 17.100] 31.850 [2009 c.451 §1; renumbered 15.400 in 2011] 31.855 [2009 c.451 §2; renumbered 15.405 in 2011] 31.860 [2009 c.451 §3; renumbered 15.410 in 2011] 31.862 [2009 c.451 §4; renumbered 15.415 in 2011] 31.865 [2009 c.451 §5; renumbered 15.420 in 2011] 31.870 [2009 c.451 §6; renumbered 15.430 in 2011] 31.872 [2009 c.451 §7; renumbered 15.435 in 2011] 31.875 [2009 c.451 §8; renumbered 15.440 in 2011] 31.878 [2009 c.451 §9; renumbered 15.445 in 2011] 31.880 [2009 c.451 §10; renumbered 15.450 in 2011] 31.885 [2009 c.451 §11; renumbered 15.455 in 2011] 31.890 [2009 c.451 §12; renumbered 15.460 in 2011]
+31.825 Assignment of cause of action against insurer. A defendant in a tort action against whom a judgment has been rendered may assign any cause of action that defendant has against the defendant’s insurer as a result of the judgment to the plaintiff in whose favor the judgment has been entered. That assignment and any release or covenant given for the assignment shall not extinguish the cause of action against the insurer unless the assignment specifically so provides. [Formerly 17.100] 
 
 ## Provenance & change history
 

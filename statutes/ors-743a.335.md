@@ -54,7 +54,7 @@ ORS 743A.335 — Human immunodeficiency virus. Chapter 743A (Chapter 743A), 2025
 
 (2) The coverage under subsection (1)(a) and (b) of this section must be provided without cost-sharing, coinsurance or deductibles applicable to the services.
 
-(3) This section is exempt from ORS 743A.001. [2025 c.480 §2] Note: 743A.335 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743A or any series therein. See Preface to Oregon Revised Statutes for further explanation. _______________
+(3) This section is exempt from ORS 743A.001. [2025 c.480 §2] Note: 743A.335 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743A or any series therein. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

@@ -56,7 +56,7 @@ ORS 743B.810 — Enrollees covered by workers’ compensation. Chapter 743B (Cha
 
 (3) As used in this section, “health benefit plan” has the meaning given that term in ORS 743B.005.
 
-(4) The provisions of ORS 743A.001 do not apply to this section. [2014 c.94 §2; 2017 c.309 §7] Note: 743B.810 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743B or any series therein. See Preface to Oregon Revised Statutes for further explanation. _______________
+(4) The provisions of ORS 743A.001 do not apply to this section. [2014 c.94 §2; 2017 c.309 §7] Note: 743B.810 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743B or any series therein. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

@@ -54,7 +54,7 @@ ORS 285B.179 — Purposes of Microenterprise Development Act. Chapter 285B (Chap
 
 (2) Enhance the development of a statewide infrastructure for microenterprise support; and
 
-(3) Enable the Oregon Business Development Department to engage in contractual relationships with statewide microenterprise support organizations that have the capacity to administer grants to local microenterprise support organizations, subject to ORS 285B.178 and this section, and to leverage additional funds from sources other than moneys appropriated from the General Fund. [2001 c.419 §3; 2007 c.804 §21; 2009 c.830 §70] Note: See note under 285B.178. 285B.180 [Formerly 285.555; repealed by 1999 c.509 §61] 285B.183 [2001 c.419 §5; repealed by 2007 c.804 §86] 
+(3) Enable the Oregon Business Development Department to engage in contractual relationships with statewide microenterprise support organizations that have the capacity to administer grants to local microenterprise support organizations, subject to ORS 285B.178 and this section, and to leverage additional funds from sources other than moneys appropriated from the General Fund. [2001 c.419 §3; 2007 c.804 §21; 2009 c.830 §70] Note: See note under 285B.178. 
 
 ## Provenance & change history
 

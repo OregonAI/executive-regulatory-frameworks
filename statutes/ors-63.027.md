@@ -54,7 +54,7 @@ ORS 63.027 — Certificate of existence or authorization. Chapter 63 (Limited Li
 
 (2) A certificate of existence or authorization when issued means that: (a) The domestic limited liability company’s name or the foreign limited liability company’s name is registered in this state; (b) The domestic limited liability company is duly organized under the laws of this state or the foreign limited liability company is authorized to transact business in this state; (c) All fees payable to the Secretary of State under this chapter have been paid, if nonpayment affects the existence or authorization of the domestic or foreign limited liability company; (d) An annual report required by ORS 63.787 has been filed by the Secretary of State within the preceding 14 months; and (e) Articles of dissolution or an application for withdrawal have not been filed by the Secretary of State.
 
-(3) Subject to any qualification stated in the certificate, a certificate of existence or authorization issued by the Secretary of State may be relied upon as conclusive evidence that the domestic or foreign limited liability company is in existence or is authorized to transact business in this state. [1993 c.173 §11] 63.030 [Repealed by 1959 c.580 §104] (Secretary of State) 
+(3) Subject to any qualification stated in the certificate, a certificate of existence or authorization issued by the Secretary of State may be relied upon as conclusive evidence that the domestic or foreign limited liability company is in existence or is authorized to transact business in this state. [1993 c.173 §11] 
 
 ## Provenance & change history
 

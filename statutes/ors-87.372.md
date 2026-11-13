@@ -48,7 +48,7 @@ ORS 87.372 — Recording. Chapter 87 (Statutory Liens), 2025 Edition.
 
 ## Full text
 
-87.372 Recording. The recording officer of the county shall record the notices filed under ORS 87.366 in a book kept for that purpose. The record shall be indexed in the same manner as the record of deeds and mortgages. [1975 c.648 §47] 87.375 [Repealed by 1975 c.648 §72] 
+87.372 Recording. The recording officer of the county shall record the notices filed under ORS 87.366 in a book kept for that purpose. The record shall be indexed in the same manner as the record of deeds and mortgages. [1975 c.648 §47] 
 
 ## Provenance & change history
 

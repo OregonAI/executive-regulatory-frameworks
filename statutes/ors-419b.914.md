@@ -52,7 +52,7 @@ ORS 419B.914 — Proceeding when person entitled to service is not summoned and 
 
 (1) No order entered pursuant to ORS 419B.500, 419B.502, 419B.504, 419B.506 and 419B.508 may be entered unless ORS 419B.518, 419B.521, 419B.524 and 419B.812 to 419B.839 are complied with.
 
-(2) No order for support as provided in ORS 419B.400, 419B.402, 419B.404 and 419B.406 may be entered against a person unless that person is served as provided in ORS 419B.812 to 419B.839. [Formerly 419B.285; 2003 c.396 §95] 419B.917 [2001 c.622 §31; repealed by 2003 c.205 §12 (419B.918 enacted in lieu of 419B.917)] 
+(2) No order for support as provided in ORS 419B.400, 419B.402, 419B.404 and 419B.406 may be entered against a person unless that person is served as provided in ORS 419B.812 to 419B.839. [Formerly 419B.285; 2003 c.396 §95] 
 
 ## Provenance & change history
 

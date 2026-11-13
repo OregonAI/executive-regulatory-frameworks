@@ -48,7 +48,7 @@ ORS 10.265 — Preservation of jury orders, records and papers. Chapter 10 (Juri
 
 ## Full text
 
-10.265 Preservation of jury orders, records and papers. After the end of a jury service term in a county, all orders, records and papers prepared in connection with the selection and summoning of persons to serve as jurors for the term as provided in ORS 10.235 to 10.255 shall be preserved by the clerk of court for the period established by the State Court Administrator under ORS 8.125. [1985 c.703 §18; 1995 c.244 §6] 10.270 [Amended by 1967 c.532 §7; 1967 c.533 §17; repealed by 1985 c.703 §28] 
+10.265 Preservation of jury orders, records and papers. After the end of a jury service term in a county, all orders, records and papers prepared in connection with the selection and summoning of persons to serve as jurors for the term as provided in ORS 10.235 to 10.255 shall be preserved by the clerk of court for the period established by the State Court Administrator under ORS 8.125. [1985 c.703 §18; 1995 c.244 §6] 
 
 ## Provenance & change history
 

@@ -56,7 +56,7 @@ ORS 197A.820 — Housing Accountability and Production Office Fund. Chapter 197A
 
 (3) Interest earned by the fund shall be credited to the fund.
 
-(4) Moneys in the fund are continuously appropriated to the Department of Land Conservation and Development to administer the fund, to operate the Housing Accountability and Production Office and to implement ORS 197A.800 to 197A.820. [2024 c.110 §4] Note: See first note under 197A.800. _______________
+(4) Moneys in the fund are continuously appropriated to the Department of Land Conservation and Development to administer the fund, to operate the Housing Accountability and Production Office and to implement ORS 197A.800 to 197A.820. [2024 c.110 §4] Note: See first note under 197A.800. 
 
 ## Provenance & change history
 

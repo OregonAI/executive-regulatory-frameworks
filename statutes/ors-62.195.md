@@ -54,7 +54,7 @@ ORS 62.195 — Voting by shareholders. Chapter 62 (Cooperatives), 2025 Edition.
 
 (2) For the purpose of determining shareholders entitled to notice of or to vote at meetings, or entitled to receive payment of any dividend, the bylaws may fix in advance a date as the record date for any such determination of shareholders. The date must be not more than 50 days and not less than 10 days prior to the date on which the particular action requiring such determination of shareholders is to be taken. If a record date is not fixed by the bylaws, the date on which notice of the meeting is mailed, or the date on which the resolution of the board of directors declaring such dividend is adopted, is the record date for such determination of shareholders. A determination of shareholders entitled to vote at any meeting made under this subsection applies to any adjournment of that meeting.
 
-(3) As used in this section, “electronic means” means a method of voting that complies with ORS 84.001 to 84.061. [1957 c.716 §15; 1987 c.94 §81; 2016 c.2 §1] 62.200 [Repealed by 1957 c.716 §76] 
+(3) As used in this section, “electronic means” means a method of voting that complies with ORS 84.001 to 84.061. [1957 c.716 §15; 1987 c.94 §81; 2016 c.2 §1] 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 30.650 — Award of noneconomic damages. Chapter 30 (Actions and Suits in Pa
 
 ## Full text
 
-30.650 Award of noneconomic damages. Noneconomic damages, as defined in ORS 31.705, may not be awarded to an adult in custody in an action against a public body unless the adult in custody has established that the adult in custody suffered economic damages, as defined in ORS 31.705. [1999 c.657 §6; 2019 c.213 §10; 2021 c.478 §5] 30.655 [1999 c.810 §1; repealed by 2015 c.212 §18] 30.656 [1999 c.810 §2; repealed by 2015 c.212 §18]
+30.650 Award of noneconomic damages. Noneconomic damages, as defined in ORS 31.705, may not be awarded to an adult in custody in an action against a public body unless the adult in custody has established that the adult in custody suffered economic damages, as defined in ORS 31.705. [1999 c.657 §6; 2019 c.213 §10; 2021 c.478 §5] 
 
 ## Provenance & change history
 

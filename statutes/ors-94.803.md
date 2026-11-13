@@ -99,7 +99,7 @@ ORS 94.803 — Definitions for ORS 94.803 and 94.807 to 94.945. Chapter 94 (Real
 
 (24) “Timeshare plan” means an arrangement, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, right to use agreement or otherwise, in which an owner receives a timeshare estate or a timeshare license and the right to use accommodations and facilities that are part of the timeshare property. A timeshare plan does not include an exchange program.
 
-(25) “Timeshare property” means one or more accommodations subject to the same timeshare instrument and any other real estate or rights appurtenant to those accommodations. [1983 c.530 §2; 1987 c.414 §144b; 1991 c.64 §1; 2017 c.354 §1] 94.805 [Repealed by 1971 c.478 §1] 
+(25) “Timeshare property” means one or more accommodations subject to the same timeshare instrument and any other real estate or rights appurtenant to those accommodations. [1983 c.530 §2; 1987 c.414 §144b; 1991 c.64 §1; 2017 c.354 §1] 
 
 ## Provenance & change history
 

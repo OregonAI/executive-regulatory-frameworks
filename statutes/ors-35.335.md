@@ -54,7 +54,7 @@ ORS 35.335 — Effect of condemner’s abandonment of action. Chapter 35 (Eminen
 
 (2) Expenses mean costs of appraisals and fees for experts incurred in preparing and conducting the defense to the action.
 
-(3) An action is considered abandoned if, at any time after filing a complaint, the case is dismissed or terminated or the condemner files an election not to take the property. If an election is not filed within 60 days after the verdict, the condemner is considered to have elected to take the property. [1971 c.741 §17] 35.345 [1971 c.741 §18; repealed by 1973 c.617 §1 (35.346 enacted in lieu of 35.345)] 
+(3) An action is considered abandoned if, at any time after filing a complaint, the case is dismissed or terminated or the condemner files an election not to take the property. If an election is not filed within 60 days after the verdict, the condemner is considered to have elected to take the property. [1971 c.741 §17] 
 
 ## Provenance & change history
 

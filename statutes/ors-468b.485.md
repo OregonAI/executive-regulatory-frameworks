@@ -54,7 +54,7 @@ ORS 468B.485 — Methods of establishing financial assurance. Chapter 468B (Chap
 
 (2) Any bond filed shall be issued by a bonding company authorized to do business in the United States.
 
-(3) Documentation of the financial assurance shall be kept on the ship or filed with the Department of Environmental Quality. The owner or operator of any other ship shall maintain on the ship a certificate issued by the United States Coast Guard evidencing compliance with the requirements of section 311 of the Federal Water Pollution Control Act, P.L. 92-500, as amended. [Formerly 468.827] 468B.490 [Formerly 468.829; repealed by 2001 c.688 §11] 
+(3) Documentation of the financial assurance shall be kept on the ship or filed with the Department of Environmental Quality. The owner or operator of any other ship shall maintain on the ship a certificate issued by the United States Coast Guard evidencing compliance with the requirements of section 311 of the Federal Water Pollution Control Act, P.L. 92-500, as amended. [Formerly 468.827] 
 
 ## Provenance & change history
 

@@ -54,7 +54,7 @@ ORS 1.625 — Compensation and expenses for judges under ORS 1.615. Chapter 1 (C
 
 (2) A judge assigned as provided in ORS 1.615 outside the county in which the judge regularly serves shall receive reimbursement for hotel bills and traveling expenses necessarily incurred by the judge in the performance of the duties of the judge under the assignment.
 
-(3) The additional compensation and expenses payable under this section shall be paid by the state upon an itemized statement of the compensation and expenses, certified by the judge pro tempore that the services were performed and the expenses were necessarily and actually incurred. [1975 c.706 §4; 1995 c.658 §11] 1.630 [1965 c.494 §2; 1969 c.577 §2; repealed by 1971 c.311 §2] 
+(3) The additional compensation and expenses payable under this section shall be paid by the state upon an itemized statement of the compensation and expenses, certified by the judge pro tempore that the services were performed and the expenses were necessarily and actually incurred. [1975 c.706 §4; 1995 c.658 §11] 
 
 ## Provenance & change history
 

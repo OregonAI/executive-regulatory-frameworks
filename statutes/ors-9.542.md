@@ -52,7 +52,7 @@ ORS 9.542 — Rules for investigation of licensees and applicants; authority of 
 
 (1) The board of governors, subject to the approval of the Supreme Court, may adopt rules of procedure relating to the investigation of the conduct of licensees and applicants for admission and reinstatement to the bar, and relating to the conduct of admission, reinstatement and disciplinary proceedings.
 
-(2) For the purpose of requesting a state or nationwide criminal records check under ORS 181A.195, the board of governors may require the fingerprints of a person who is applying for admission or reinstatement to the bar or for renewal of a license issued by the bar. [1983 c.618 §9; 2005 c.730 §56; 2023 c.72 §12; 2025 c.32 §36] 9.545 [1983 c.617 §2 (enacted in lieu of 9.595); 1999 c.171 §1; renumbered 9.568 in 1999] 9.550 [Amended by 1961 c.499 §6; 1973 c.490 §3; 1975 c.641 §6; 1979 c.252 §23; repealed by 1983 c.618 §1] 
+(2) For the purpose of requesting a state or nationwide criminal records check under ORS 181A.195, the board of governors may require the fingerprints of a person who is applying for admission or reinstatement to the bar or for renewal of a license issued by the bar. [1983 c.618 §9; 2005 c.730 §56; 2023 c.72 §12; 2025 c.32 §36] 
 
 ## Provenance & change history
 

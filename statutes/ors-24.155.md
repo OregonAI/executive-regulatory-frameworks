@@ -46,7 +46,7 @@ ORS 24.155 — Optional procedure. Chapter 24 (Enforcement and Recognition of Fo
 
 ## Full text
 
-24.155 Optional procedure. The right of a judgment creditor to bring an action to enforce the judgment instead of proceeding under ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175 remains unimpaired. [1979 c.577 §5] 24.160 [1955 c.647 §16; repealed by 1979 c.577 §8] 
+24.155 Optional procedure. The right of a judgment creditor to bring an action to enforce the judgment instead of proceeding under ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175 remains unimpaired. [1979 c.577 §5] 
 
 ## Provenance & change history
 

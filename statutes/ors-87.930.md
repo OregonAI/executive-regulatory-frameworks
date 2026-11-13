@@ -54,7 +54,7 @@ ORS 87.930 — Secretary of State to furnish list of persons who have filed fina
 
 (2) The filing number and date of filing for the financing statement in the index maintained by the Secretary of State; and
 
-(3) Other information that the Secretary of State considers necessary or proper. [2001 c.301 §3; 2007 c.71 §22] Note: 87.930 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 87 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. _______________
+(3) Other information that the Secretary of State considers necessary or proper. [2001 c.301 §3; 2007 c.71 §22] Note: 87.930 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 87 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

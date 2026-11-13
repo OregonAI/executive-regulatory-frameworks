@@ -48,7 +48,7 @@ ORS 18.402 — Limitations on homestead exemption. Chapter 18 (Judgments), 2025 
 
 ## Full text
 
-18.402 Limitations on homestead exemption. A homestead described in ORS 18.395 consists, when not located in any town or city laid off into blocks and lots, of any quantity of land not exceeding 160 acres, and when located in any such town or city, of any quantity of land not exceeding one block. However, a homestead under this section may not exceed in value the applicable amount specified in ORS 18.395 (1)(a) or (b). [Formerly 23.250; 2005 c.456 §3; 2009 c.612 §3; 2024 c.100 §5] 18.405 [1979 c.694 §3; 2001 c.334 §1; repealed by 2003 c.576 §580] 
+18.402 Limitations on homestead exemption. A homestead described in ORS 18.395 consists, when not located in any town or city laid off into blocks and lots, of any quantity of land not exceeding 160 acres, and when located in any such town or city, of any quantity of land not exceeding one block. However, a homestead under this section may not exceed in value the applicable amount specified in ORS 18.395 (1)(a) or (b). [Formerly 23.250; 2005 c.456 §3; 2009 c.612 §3; 2024 c.100 §5] 
 
 ## Provenance & change history
 

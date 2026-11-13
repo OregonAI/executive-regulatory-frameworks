@@ -76,7 +76,7 @@ ORS 30.140 — Void and unenforceable provisions relating to indemnification and
 
 (4) This section does not apply to: (a) Any real property lease or rental agreement between a landlord and tenant whether or not any provision of the lease or rental agreement relates to or involves planning, design, construction, alteration, repair, improvement or maintenance as long as the predominant purpose of the lease or rental agreement is not planning, design, construction, alteration, repair, improvement or maintenance of real property; or (b) Any personal property lease or rental agreement.
 
-(5) No provision of this section shall be construed to apply to a “railroad” as defined in ORS 824.200. 30.142 [2001 c.616 §1; renumbered 31.150 in 2003] 30.144 [2001 c.616 §2; renumbered 31.152 in 2003] 
+(5) No provision of this section shall be construed to apply to a “railroad” as defined in ORS 824.200. 
 
 ## Provenance & change history
 

@@ -62,7 +62,7 @@ ORS 56.041 — Operating Account. Chapter 56 (Duties of Secretary of State), 202
 
 (1) to
 
-(4) in the General Fund. Amounts deposited to the General Fund under this subsection are available for general governmental expenses. [1961 c.280 §10; 1963 c.551 §16; 1981 c.633 §1; 1987 c.58 §12; 1987 c.414 §140; 1991 c.132 §1; 1991 c.425 §9; 1993 c.66 §7; 1999 c.652 §4; 2001 c.445 §160; 2003 c.785 §7; 2009 c.745 §13; 2013 c.699 §6; 2021 c.472 §1] 56.045 [1985 c.383 §8; repealed by 1987 c.58 §15 and 1987 c.414 §172] 
+(4) in the General Fund. Amounts deposited to the General Fund under this subsection are available for general governmental expenses. [1961 c.280 §10; 1963 c.551 §16; 1981 c.633 §1; 1987 c.58 §12; 1987 c.414 §140; 1991 c.132 §1; 1991 c.425 §9; 1993 c.66 §7; 1999 c.652 §4; 2001 c.445 §160; 2003 c.785 §7; 2009 c.745 §13; 2013 c.699 §6; 2021 c.472 §1] 
 
 ## Provenance & change history
 

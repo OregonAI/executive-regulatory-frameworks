@@ -62,7 +62,7 @@ ORS 657B.925 — Penalties for employer violation of requirements applicable to 
 
 (5) The decision of the director to assess a penalty under this section shall become final unless within 20 days following the date of the notice informing the employer of the penalty, the employer submits a written request for a hearing under ORS 657B.410 to review the director’s decision. A decision of the director to assess a penalty under this section does not authorize the collection of the penalty until the decision becomes final. [2023 c.120 §7] Note: Section 13 (3), chapter 120, Oregon Laws 2023, provides: Sec. 13.
 
-(3) Section 7, chapter 120, Oregon Laws 2023 [657B.925], applies to penalties assessed on or after September 3, 2023. [2023 c.120 §13(3); 2023 c.292 §16b(3)] _______________
+(3) Section 7, chapter 120, Oregon Laws 2023 [657B.925], applies to penalties assessed on or after September 3, 2023. [2023 c.120 §13(3); 2023 c.292 §16b(3)] 
 
 ## Provenance & change history
 

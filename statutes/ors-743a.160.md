@@ -69,7 +69,7 @@ ORS 743A.160 — Alcoholism treatment. Chapter 743A (Chapter 743A), 2025 Edition
 
 (5) Except as permitted by subsection
 
-(3) of this section, the policy may not limit payments thereunder for alcoholism to an amount less than $4,500 in any 24-consecutive month period and the policy shall provide coverage, within the limits of this subsection, of not less than 80 percent of the hospital and medical expenses for treatment for alcoholism. [Formerly 743.412; 2016 c.11 §6; 2017 c.17 §56] Note: See 743.402. 743A.164 [Formerly 743.480; 2017 c.21 §73; repealed by 2017 c.206 §16] 
+(3) of this section, the policy may not limit payments thereunder for alcoholism to an amount less than $4,500 in any 24-consecutive month period and the policy shall provide coverage, within the limits of this subsection, of not less than 80 percent of the hospital and medical expenses for treatment for alcoholism. [Formerly 743.412; 2016 c.11 §6; 2017 c.17 §56] Note: See 743.402. 
 
 ## Provenance & change history
 

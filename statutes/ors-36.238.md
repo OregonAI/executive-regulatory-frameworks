@@ -56,7 +56,7 @@ ORS 36.238 — Application of ORS 36.210 and 36.220 to 36.238. Chapter 36 (Media
 
 (1) All mediations, whether conducted by a publicly funded program or by a private mediation provider; and
 
-(2) Facilitated dispute resolution services conducted by the Public Records Advocate under ORS 192.464. Solely for purposes of ORS 36.210 and 36.220 to 36.238, a facilitated dispute resolution shall be deemed a mediation. [1997 c.670 §8; 2017 c.728 §7] 36.245 [1997 c.706 §2; repealed by 2003 c.791 §33] 36.250 [1989 c.967 §2; 2001 c.104 §9; 2005 c.657 §3; 2009 c.294 §2; repealed by 2015 c.202 §1]
+(2) Facilitated dispute resolution services conducted by the Public Records Advocate under ORS 192.464. Solely for purposes of ORS 36.210 and 36.220 to 36.238, a facilitated dispute resolution shall be deemed a mediation. [1997 c.670 §8; 2017 c.728 §7] 
 
 ## Provenance & change history
 

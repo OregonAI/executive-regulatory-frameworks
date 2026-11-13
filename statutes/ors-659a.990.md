@@ -48,7 +48,7 @@ ORS 659A.990 — Penalties. Chapter 659A (Chapter 659A), 2025 Edition.
 
 ## Full text
 
-659A.990 Penalties. Violation of ORS 659A.810 is a Class A misdemeanor. [2001 c.621 §66; 2011 c.597 §274] _______________
+659A.990 Penalties. Violation of ORS 659A.810 is a Class A misdemeanor. [2001 c.621 §66; 2011 c.597 §274] 
 
 ## Provenance & change history
 

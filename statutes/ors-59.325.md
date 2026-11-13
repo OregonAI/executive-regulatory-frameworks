@@ -52,7 +52,7 @@ ORS 59.325 — Certified copies of documents; fee; effect of certification. Chap
 
 (1) The Director of the Department of Consumer and Business Services shall furnish to any person, upon payment of a fee established by rule, copies (certified if requested) of any document which is a matter of public record. In a proceeding or prosecution under the Oregon Securities Law, a copy so certified shall be prima facie evidence of the contents of the entry or document certified.
 
-(2) A certificate of the director as to compliance or noncompliance with licensing or registration provisions of the Oregon Securities Law shall be taken and received in a civil or criminal proceeding in this state as prima facie evidence of the facts stated in the certificate. [1967 c.537 §30; 1987 c.603 §23; 1989 c.197 §17] 59.330 [Amended by 1961 c.280 §6; repealed by 1967 c.537 §36] (Enforcement by Attorney General) 
+(2) A certificate of the director as to compliance or noncompliance with licensing or registration provisions of the Oregon Securities Law shall be taken and received in a civil or criminal proceeding in this state as prima facie evidence of the facts stated in the certificate. [1967 c.537 §30; 1987 c.603 §23; 1989 c.197 §17] 
 
 ## Provenance & change history
 

@@ -54,7 +54,7 @@ ORS 743A.114 — Perimenopause, menopause and postmenopause. Chapter 743A (Chapt
 
 (2) The coverage required in this section is limited to drugs that have been approved by the United States Food and Drug Administration.
 
-(3) This section is exempt from ORS 743A.001. [2025 c.500 §2] Note: 743A.114 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743A or any series therein. See Preface to Oregon Revised Statutes for further explanation. 743A.120 [Formerly 743.794; repealed by 2017 c.206 §16] 
+(3) This section is exempt from ORS 743A.001. [2025 c.500 §2] Note: 743A.114 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743A or any series therein. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

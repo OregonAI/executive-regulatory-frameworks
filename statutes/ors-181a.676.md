@@ -57,7 +57,7 @@ ORS 181A.676 — Uniform background checklist; standardized personal history que
 
 (2) Investigation of the applicant’s finances; and
 
-(3) Identification of at least three references provided by the applicant that are interviewed by the law enforcement unit. [2021 c.299 §3] 181A.680 [2011 c.644 §1; 2011 c.644 §7; renumbered 181A.940 in 2021] (Misconduct, Discipline and Standards) 
+(3) Identification of at least three references provided by the applicant that are interviewed by the law enforcement unit. [2021 c.299 §3] 
 
 ## Provenance & change history
 

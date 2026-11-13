@@ -50,7 +50,7 @@ ORS 17.990 — Penalties. Chapter 17 (Compromise; Settlement), 2025 Edition.
 
 17.990 Penalties. A person violating ORS 17.075
 
-(1) commits a Class A violation. [1975 c.512 §5; 1999 c.1051 §146] _______________
+(1) commits a Class A violation. [1975 c.512 §5; 1999 c.1051 §146] 
 
 ## Provenance & change history
 

@@ -56,7 +56,7 @@ ORS 9.675 — Mandatory certification and disclosures for lawyer trust accounts.
 
 (1) of this section, the chief executive officer shall give the licensee written notice of default and prescribe a reasonable time to cure the default. The chief executive officer shall send the notice of default to the licensee at the licensee’s electronic mail address on file with the bar on the date of the notice of default. The chief executive officer shall send the notice of default by mail to any licensee who is not required to have an electronic mail address on file with the bar under the rules of procedure and the rules of the Supreme Court. If a licensee does not file the certification and disclosures required by this section within the time allowed to cure the default as stated in the notice of default, the person’s bar license is automatically suspended. The chief executive officer shall provide the names of all persons suspended under this section to the judges of the circuit courts, the Court of Appeals and the Oregon Tax Court.
 
-(3) A person whose bar license is suspended under this section may be reinstated in the bar only if the person pays all required fees and contributions and complies with all rules of procedure and rules of the Supreme Court relating to reinstatement. [2011 c.304 §2; 2013 c.3 §3; 2017 c.94 §12; 2019 c.248 §3; 2025 c.32 §45] 9.680 [Repealed by 1953 c.609 §2] 
+(3) A person whose bar license is suspended under this section may be reinstated in the bar only if the person pays all required fees and contributions and complies with all rules of procedure and rules of the Supreme Court relating to reinstatement. [2011 c.304 §2; 2013 c.3 §3; 2017 c.94 §12; 2019 c.248 §3; 2025 c.32 §45] 
 
 ## Provenance & change history
 

@@ -56,7 +56,7 @@ ORS 285B.440 — Primary use of moneys in fund; standards for awarding grants; l
 
 (4) The authority may not expend more than one percent of the value of the Special Public Works Fund in any biennium for grants or direct assistance, if any, for planning projects and community development projects to municipalities.
 
-(5) Except as otherwise limited by this section, not more than 100 percent of the total cost of a project, including capitalized interest, shall be financed from the Special Public Works Fund. [Formerly 285.720; 2001 c.883 §31a; 2003 c.773 §37; 2005 c.835 §13; 2007 c.804 §33; 2009 c.830 §100; 2011 c.47 §1; 2017 c.398 §1] 285B.443 [Formerly 285.723; 2001 c.883 §31; 2003 c.773 §38; repealed by 2005 c.835 §37] 285B.446 [Formerly 285.725; 2003 c.773 §39; repealed by 2005 c.835 §37] 
+(5) Except as otherwise limited by this section, not more than 100 percent of the total cost of a project, including capitalized interest, shall be financed from the Special Public Works Fund. [Formerly 285.720; 2001 c.883 §31a; 2003 c.773 §37; 2005 c.835 §13; 2007 c.804 §33; 2009 c.830 §100; 2011 c.47 §1; 2017 c.398 §1] 
 
 ## Provenance & change history
 

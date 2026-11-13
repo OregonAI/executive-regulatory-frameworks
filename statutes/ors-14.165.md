@@ -66,7 +66,7 @@ ORS 14.165 — Transfer of proceeding against public body; effect of transfer on
 
 (9) The provisions of this section do not apply to any action or proceeding that is subject to the provisions of ORS 34.102.
 
-(10) As used in this section: (a) “Public body” has the meaning given in ORS 192.311. (b) “Tribunal” means a public body authorized by law to review decisions of another public body. [2001 c.561 §1] 14.170 [Amended by 1971 c.298 §1; repealed by 1981 s.s. c.3 §141]
+(10) As used in this section: (a) “Public body” has the meaning given in ORS 192.311. (b) “Tribunal” means a public body authorized by law to review decisions of another public body. [2001 c.561 §1] 
 
 ## Provenance & change history
 

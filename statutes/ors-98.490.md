@@ -48,7 +48,7 @@ ORS 98.490 — Effect of written agreement between molder and customer. Chapter 
 
 ## Full text
 
-98.490 Effect of written agreement between molder and customer. ORS 98.470 to 98.490 apply except as otherwise provided by written agreement between any molder and the molder’s customer. [1981 c.333 §5] 98.510 [Repealed by 1969 c.354 §2]
+98.490 Effect of written agreement between molder and customer. ORS 98.470 to 98.490 apply except as otherwise provided by written agreement between any molder and the molder’s customer. [1981 c.333 §5] 
 
 ## Provenance & change history
 

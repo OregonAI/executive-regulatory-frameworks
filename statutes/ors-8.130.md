@@ -48,7 +48,7 @@ ORS 8.130 — Fees payable to State Treasurer. Chapter 8 (Court Officers and Dis
 
 ## Full text
 
-8.130 Fees payable to State Treasurer. Unless otherwise provided by law, all fees and other moneys collected by the State Court Administrator shall be paid to the State Treasurer promptly, and shall be deposited in the General Fund available for general governmental expenses. [Amended by 1971 c.193 §3; 1981 s.s. c.1 §16] 8.140 [Amended by 1971 c.193 §4; repealed by 1981 s.s. c.1 §25] 
+8.130 Fees payable to State Treasurer. Unless otherwise provided by law, all fees and other moneys collected by the State Court Administrator shall be paid to the State Treasurer promptly, and shall be deposited in the General Fund available for general governmental expenses. [Amended by 1971 c.193 §3; 1981 s.s. c.1 §16] 
 
 ## Provenance & change history
 

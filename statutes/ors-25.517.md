@@ -50,7 +50,7 @@ ORS 25.517 — When order of support contingent on child residing in state finan
 
 ## Full text
 
-25.517 When order of support contingent on child residing in state financed or supported residence. An order for support entered pursuant to ORS 25.501 to 25.556 for a child in the care and custody of the Department of Human Services may be made contingent upon the child residing in a state financed or supported residence, shelter or other facility or institution. A certificate signed by the Director of Human Services or the Administrator of the Division of Child Support shall be sufficient to establish the periods of residence and to satisfy the order for periods of nonresidence. A hearing to contest the period of nonresidency or failure to satisfy shall be held pursuant to ORS 25.513. [Formerly 416.417; 2021 c.597 §32a] 25.520 [1985 c.671 §22; 1993 c.798 §40; repealed by 1995 c.608 §46] 
+25.517 When order of support contingent on child residing in state financed or supported residence. An order for support entered pursuant to ORS 25.501 to 25.556 for a child in the care and custody of the Department of Human Services may be made contingent upon the child residing in a state financed or supported residence, shelter or other facility or institution. A certificate signed by the Director of Human Services or the Administrator of the Division of Child Support shall be sufficient to establish the periods of residence and to satisfy the order for periods of nonresidence. A hearing to contest the period of nonresidency or failure to satisfy shall be held pursuant to ORS 25.513. [Formerly 416.417; 2021 c.597 §32a] 
 
 ## Provenance & change history
 

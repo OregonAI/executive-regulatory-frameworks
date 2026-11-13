@@ -54,7 +54,7 @@ ORS 59.585 — Short title; rules of construction. Chapter 59 (Securities Regula
 
 (2) ORS 59.535 to 59.585 shall be liberally construed and applied to promote its underlying purposes and policy and to make uniform the laws with respect to the subject of ORS 59.535 to 59.585 among states enacting it.
 
-(3) Unless displaced by the particular provisions of ORS 59.535 to 59.585, the principles of law and equity supplement its provisions. [1991 c.306 §11] 59.610 [Repealed by 1967 c.537 §36] 59.620 [Repealed by 1967 c.537 §36] 59.660 [Repealed by 2007 c.661 §28] 59.670 [Amended by 1981 c.897 §13; 1995 c.618 §35; repealed by 2007 c.661 §28] 59.680 [Amended by 1971 c.200 §5; 1973 c.794 §14; repealed by 2007 c.661 §28] 59.690 [Repealed by 2007 c.661 §28] 59.700 [Repealed by 2007 c.661 §28]
+(3) Unless displaced by the particular provisions of ORS 59.535 to 59.585, the principles of law and equity supplement its provisions. [1991 c.306 §11] 
 
 ## Provenance & change history
 

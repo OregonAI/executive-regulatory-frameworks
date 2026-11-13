@@ -60,7 +60,7 @@ ORS 431A.280 — Biennial report to Legislative Assembly. Chapter 431A (Chapter 
 
 (4) A summary of compliance testing results obtained under ORS 431A.270.
 
-(5) Any recommendations submitted to the authority by manufacturers under ORS 431A.258 (7). [2015 c.786 §13] 431A.300 [Formerly 431.870; repealed by 2025 c.405 §13] 431A.303 [Formerly 431.875; repealed by 2025 c.405 §13] 431A.305 [Formerly 431.880; repealed by 2025 c.405 §13] 431A.308 [Formerly 431.885; repealed by 2025 c.405 §13] 431A.310 [Formerly 431.887; repealed by 2025 c.405 §13] 431A.313 [Formerly 431.890; repealed by 2025 c.405 §13] 431A.315 [Formerly 431.895; repealed by 2025 c.405 §13] 431A.318 [Formerly 431.900; repealed by 2025 c.405 §13] 431A.320 [Formerly 431.905; repealed by 2025 c.405 §13] 431A.323 [Formerly 431.910; repealed by 2025 c.405 §13] 431A.325 [Formerly 431.915; repealed by 2025 c.405 §13]
+(5) Any recommendations submitted to the authority by manufacturers under ORS 431A.258 (7). [2015 c.786 §13] 
 
 ## Provenance & change history
 

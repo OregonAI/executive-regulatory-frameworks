@@ -46,7 +46,7 @@ ORS 52.620 — Filing transcript of judgment in another county; issuance of exec
 
 ## Full text
 
-52.620 Filing transcript of judgment in another county; issuance of execution. The party entitled to the benefit of a judgment in a justice court may at any time have a certified transcript of the judgment and file it with any justice in any other county. Upon the filing of the transcript, the justice with whom it is filed must make an entry thereof in the docket of the justice, giving the title of the cause, the names of the parties and the substance of the judgment. Thereafter execution may issue to enforce the judgment, or any part thereof remaining unsatisfied, as if it had been given by the justice with whom the transcript is filed. 52.630 [Amended by 1965 c.619 §27; 1971 c.621 §11; 1975 c.607 §13; 1979 c.833 §14; 1981 c.835 §4; 1983 c.696 §6; 1987 c.586 §20; 1995 c.273 §15; repealed by 1999 c.788 §3 (52.635 enacted in lieu of 52.630)] 
+52.620 Filing transcript of judgment in another county; issuance of execution. The party entitled to the benefit of a judgment in a justice court may at any time have a certified transcript of the judgment and file it with any justice in any other county. Upon the filing of the transcript, the justice with whom it is filed must make an entry thereof in the docket of the justice, giving the title of the cause, the names of the parties and the substance of the judgment. Thereafter execution may issue to enforce the judgment, or any part thereof remaining unsatisfied, as if it had been given by the justice with whom the transcript is filed. 
 
 ## Provenance & change history
 

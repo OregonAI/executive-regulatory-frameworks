@@ -62,7 +62,7 @@ ORS 87.392 — Priorities of liens. Chapter 87 (Statutory Liens), 2025 Edition.
 
 (5) The notice required by subsection
 
-(4) of this section shall state in substance: (a) That the electric cooperative or electric utility is starting to deliver electricity; (b) The name of the person ordering the electricity; and (c) That a lien on the land may be claimed for the cost of the electricity. [1975 c.648 §51] 87.395 [Repealed by 1975 c.648 §72] 87.400 [Amended by 1959 c.340 §1; repealed by 1969 c.330 §9] 87.405 [Repealed by 1969 c.330 §9] 87.410 [Amended by 1959 c.340 §2; repealed by 1969 c.330 §9] 87.415 [Repealed by 1969 c.330 §9] 87.420 [Repealed by 1969 c.330 §9] 87.425 [Repealed by 1969 c.330 §9]
+(4) of this section shall state in substance: (a) That the electric cooperative or electric utility is starting to deliver electricity; (b) The name of the person ordering the electricity; and (c) That a lien on the land may be claimed for the cost of the electricity. [1975 c.648 §51] 
 
 ## Provenance & change history
 

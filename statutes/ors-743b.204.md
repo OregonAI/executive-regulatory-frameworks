@@ -48,7 +48,7 @@ ORS 743B.204 — Required managed health insurance contract provision; enrollee 
 
 ## Full text
 
-743B.204 Required managed health insurance contract provision; enrollee liability. All insurers offering managed health insurance in this state shall include in contracts with providers a provision requiring that in the event the insurer fails to pay for health care services covered by the health benefit plan, the provider shall not bill or otherwise attempt to collect from enrollees for amounts owed by insurers, and enrollees shall not be liable to the provider for any sums owed by the insurer. Nothing in this section shall be construed to in any manner limit the applicability of ORS 750.095 (2). [Formerly 743.821] 743B.206 [Formerly 743.831; repealed by 2017 c.101 §53 and 2017 c.384 §13] 
+743B.204 Required managed health insurance contract provision; enrollee liability. All insurers offering managed health insurance in this state shall include in contracts with providers a provision requiring that in the event the insurer fails to pay for health care services covered by the health benefit plan, the provider shall not bill or otherwise attempt to collect from enrollees for amounts owed by insurers, and enrollees shall not be liable to the provider for any sums owed by the insurer. Nothing in this section shall be construed to in any manner limit the applicability of ORS 750.095 (2). [Formerly 743.821] 
 
 ## Provenance & change history
 

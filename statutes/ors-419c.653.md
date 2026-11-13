@@ -52,7 +52,7 @@ ORS 419C.653 — Notice; appearance. Chapter 419C (Chapter 419C), 2025 Edition.
 
 (1) The court may order that the adjudicated youth or any other person be present during a hearing under ORS 419C.626.
 
-(2) The court shall notify the parties listed in ORS 419C.626 and any other interested parties of the hearing. The notice shall state the time and place of the hearing. Upon request of the court, the Oregon Youth Authority or other legal custodian of the adjudicated youth shall provide the court with information concerning the whereabouts and identity of such parties. If the victim requests notice, the district attorney or juvenile department shall notify the victim of the time and place of the hearing. [1993 c.33 §269; 2003 c.396 §137; 2005 c.159 §9; 2007 c.609 §24; 2021 c.489 §109] 419C.656 [1993 c.33 §270; 2001 c.480 §11; 2001 c.910 §7; 2003 c.396 §138; repealed by 2005 c.159 §10] CURFEW 
+(2) The court shall notify the parties listed in ORS 419C.626 and any other interested parties of the hearing. The notice shall state the time and place of the hearing. Upon request of the court, the Oregon Youth Authority or other legal custodian of the adjudicated youth shall provide the court with information concerning the whereabouts and identity of such parties. If the victim requests notice, the district attorney or juvenile department shall notify the victim of the time and place of the hearing. [1993 c.33 §269; 2003 c.396 §137; 2005 c.159 §9; 2007 c.609 §24; 2021 c.489 §109] 
 
 ## Provenance & change history
 

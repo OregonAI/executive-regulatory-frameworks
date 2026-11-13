@@ -61,7 +61,7 @@ ORS 285C.255 — Sunset of enterprise zone program. Chapter 285C (Chapter 285C),
 
 (2) Notwithstanding subsection
 
-(1) of this section: (a) A reservation enterprise zone may be designated, and a reservation partnership zone may be cosponsored, under ORS 285C.306 after June 30, 2032; and (b) A business firm may obtain authorization under ORS 285C.140 after June 30, 2032: (A) If located in a reservation enterprise zone or a reservation partnership zone; or (B) As allowed under ORS 285C.245 (6). [2003 c.662 §49; 2007 c.888 §1; 2010 c.76 §22; 2011 c.375 §1; 2023 c.298 §13] Note: 285C.255 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 285C or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 285C.260 [Formerly 285B.731; renumbered 285C.045 in 2005] RESERVATION ENTERPRISE ZONES; RESERVATION PARTNERSHIP ZONES 
+(1) of this section: (a) A reservation enterprise zone may be designated, and a reservation partnership zone may be cosponsored, under ORS 285C.306 after June 30, 2032; and (b) A business firm may obtain authorization under ORS 285C.140 after June 30, 2032: (A) If located in a reservation enterprise zone or a reservation partnership zone; or (B) As allowed under ORS 285C.245 (6). [2003 c.662 §49; 2007 c.888 §1; 2010 c.76 §22; 2011 c.375 §1; 2023 c.298 §13] Note: 285C.255 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 285C or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

@@ -66,7 +66,7 @@ ORS 3.455 — Statewide advisory committee on treatment courts. Chapter 3 (Circu
 
 (7) All agencies of state government, as defined in ORS 174.111, are directed to assist the advisory committee in the performance of the duties of the advisory committee and, to the extent permitted by laws relating to confidentiality, to furnish information and advice the members of the advisory committee consider necessary to perform their duties.
 
-(8) As used in this section, “treatment court” has the meaning given that term in ORS 137.680. [2025 c.151 §1] 3.510 [1959 c.549 §1; 1961 c.465 §1; repealed by 1975 c.706 §10] 3.520 [1959 c.549 §2; repealed by 1975 c.706 §10] 3.530 [1959 c.549 §3; repealed by 1975 c.706 §10] 3.540 [1959 c.549 §4; repealed by 1975 c.706 §10] 3.550 [1959 c.549 §5; repealed by 1975 c.706 §10] 3.560 [1959 c.549 §6; 1961 c.465 §2; 1965 c.521 §1; 1969 c.198 §33; 1969 c.269 §1; 1971 c.213 §1; repealed by 1975 c.706 §10] 3.570 [Formerly 3.110 and then 3.102; 1965 c.521 §2; 1969 c.269 §2; 1971 c.213 §2; repealed by 1975 c.706 §10] _______________
+(8) As used in this section, “treatment court” has the meaning given that term in ORS 137.680. [2025 c.151 §1] 
 
 ## Provenance & change history
 

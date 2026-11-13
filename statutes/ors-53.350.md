@@ -46,7 +46,7 @@ ORS 53.350 — Jurisdiction over offenses against animals. Chapter 53 (Criminal 
 
 ## Full text
 
-53.350 Jurisdiction over offenses against animals. Justice courts shall have concurrent jurisdiction over all offenses other than felonies committed under ORS 167.315 to 167.333 and 167.340. [Formerly 156.705] _______________
+53.350 Jurisdiction over offenses against animals. Justice courts shall have concurrent jurisdiction over all offenses other than felonies committed under ORS 167.315 to 167.333 and 167.340. [Formerly 156.705] 
 
 ## Provenance & change history
 

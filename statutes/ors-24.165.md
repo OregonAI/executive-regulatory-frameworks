@@ -46,7 +46,7 @@ ORS 24.165 — Construction of ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175
 
 ## Full text
 
-24.165 Construction of ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175. ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175 shall be interpreted and construed in order to effectuate its general purpose to make uniform the law of those states which enact it. [1979 c.577 §6] 24.170 [1955 c.647 §17; repealed by 1979 c.577 §8] 
+24.165 Construction of ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175. ORS 24.105 to 24.125, 24.135 and 24.155 to 24.175 shall be interpreted and construed in order to effectuate its general purpose to make uniform the law of those states which enact it. [1979 c.577 §6] 
 
 ## Provenance & change history
 

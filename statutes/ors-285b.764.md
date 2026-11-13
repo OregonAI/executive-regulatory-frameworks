@@ -54,7 +54,7 @@ ORS 285B.764 — Definitions for ORS 285B.764 to 285B.775. Chapter 285B (Chapter
 
 (2) “Prime rate” means the primary credit rate of the discount window program of the United States Federal Reserve System.
 
-(3) “Technical assistance provider” means a small business development center established under ORS 285B.165 to 285B.171 or a culturally specific business association or chamber that provides one-on-one business counseling services. [2021 c.676 §11; 2023 c.497 §18] Note: 285B.764 to 285B.775 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 285B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 285B.765 [1991 c.688 §6; 1997 c.61 §12; repealed by 2001 c.684 §38] 285B.766 [2001 c.932 §5; renumbered 285C.300 in 2003] 285B.767 [2001 c.932 §6; renumbered 285C.303 in 2003] 
+(3) “Technical assistance provider” means a small business development center established under ORS 285B.165 to 285B.171 or a culturally specific business association or chamber that provides one-on-one business counseling services. [2021 c.676 §11; 2023 c.497 §18] Note: 285B.764 to 285B.775 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 285B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

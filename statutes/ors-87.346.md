@@ -65,7 +65,7 @@ ORS 87.346 — Filing certificate of lien satisfaction upon payment of claim; li
 
 (5) Within 10 days after filing a certificate under subsection
 
-(4) of this section, the person filing the certificate shall mail or deliver a true copy thereof to all persons having perfected security interests under ORS chapter 79A in the chattel which is the subject of the lien to which the certificate applies. [1975 c.648 §40; 1985 c.469 §7; 1987 c.297 §3; 1995 c.658 §67; 2001 c.301 §9] 87.350 [Repealed by 1975 c.648 §72]
+(4) of this section, the person filing the certificate shall mail or deliver a true copy thereof to all persons having perfected security interests under ORS chapter 79A in the chattel which is the subject of the lien to which the certificate applies. [1975 c.648 §40; 1985 c.469 §7; 1987 c.297 §3; 1995 c.658 §67; 2001 c.301 §9] 
 
 ## Provenance & change history
 

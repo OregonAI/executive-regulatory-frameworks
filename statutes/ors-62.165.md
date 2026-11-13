@@ -54,7 +54,7 @@ ORS 62.165 — Actions in excess of authority. Chapter 62 (Cooperatives), 2025 E
 
 (2) A cooperative, its legal representative, or through its members or shareholders in a representative suit, against the officers or directors or former officers or directors of the cooperative.
 
-(3) The Attorney General against the cooperative in an action to dissolve the cooperative or to enjoin it from the transaction of unauthorized business. [1957 c.716 §11] 62.170 [Repealed by 1957 c.716 §76] 
+(3) The Attorney General against the cooperative in an action to dissolve the cooperative or to enjoin it from the transaction of unauthorized business. [1957 c.716 §11] 
 
 ## Provenance & change history
 

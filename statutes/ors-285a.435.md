@@ -71,7 +71,7 @@ ORS 285A.435 — Beginning and Expanding Farmer Loan Program Fund. Chapter 285A 
 
 (3) Moneys in the fund may be invested as provided by ORS 293.701 to 293.857 and the earnings from investments shall be credited to the fund.
 
-(4) The department may establish accounts within the fund to carry out ORS 285A.420 to 285A.435. [2013 c.742 §6] Note: See note under 285A.420. 285A.440 [Formerly 285.190; renumbered 660.303 in 2001] 285A.443 [Formerly 285.180; 1999 c.39 §6; 2001 c.684 §4; renumbered 660.300 in 2001] 285A.446 [Formerly 285.183; 1999 c.39 §7; 2001 c.684 §13; renumbered 660.339 in 2001] 285A.449 [Formerly 285.185; repealed by 2001 c.684 §38] 285A.452 [1997 c.652 §1; renumbered 660.306 in 2001] 285A.455 [1997 c.652 §2; 2001 c.684 §15; renumbered 660.312 in 2001] 285A.458 [1997 c.652 §3; 2001 c.684 §16; 2001 c.900 §52; renumbered 660.315 in 2001] 285A.461 [1997 c.652 §5; repealed by 2001 c.524 §4] 285A.480 [Formerly 285.670; repealed by 1999 c.509 §61] 285A.483 [Formerly 285.672; 1999 c.509 §17; repealed by 2009 c.830 §171] 285A.486 [Formerly 285.674; 1999 c.509 §58; 2005 c.835 §28; repealed by 2009 c.830 §171] 285A.489 [Formerly 285.676; 1999 c.509 §18; repealed by 2009 c.830 §171] 285A.492 [Formerly 285.677; repealed by 1999 c.509 §61] 285A.495 [Formerly 285.678; repealed by 2009 c.830 §171]
+(4) The department may establish accounts within the fund to carry out ORS 285A.420 to 285A.435. [2013 c.742 §6] Note: See note under 285A.420. 
 
 ## Provenance & change history
 

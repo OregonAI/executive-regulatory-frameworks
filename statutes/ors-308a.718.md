@@ -69,7 +69,7 @@ ORS 308A.718 — Assessor to send notice upon disqualification or forestland cha
 
 (7) Within 30 days after the date the notification required under subsection
 
-(3) of this section is mailed, a taxpayer intending to implement a remediation plan as defined in ORS 308A.053 on the disqualified land that is the subject of the notification must notify the assessor in writing of the taxpayer’s intention to seek certification for the remediation plan. [1999 c.314 §39; 2003 c.454 §38; 2003 c.539 §18; 2003 c.621 §89; 2007 c.809 §12; 2009 c.776 §7] 308A.721 [1999 c.314 §40; repealed by 2003 c.454 §81 and 2003 c.621 §49] (Change of Special Assessment) 
+(3) of this section is mailed, a taxpayer intending to implement a remediation plan as defined in ORS 308A.053 on the disqualified land that is the subject of the notification must notify the assessor in writing of the taxpayer’s intention to seek certification for the remediation plan. [1999 c.314 §39; 2003 c.454 §38; 2003 c.539 §18; 2003 c.621 §89; 2007 c.809 §12; 2009 c.776 §7] 
 
 ## Provenance & change history
 

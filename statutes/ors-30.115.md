@@ -52,7 +52,7 @@ ORS 30.115 — Aircraft and watercraft guest passengers; definitions. Chapter 30
 
 (1) “Payment” means a substantial benefit in a material or business sense conferred upon the owner or operator of the conveyance and which is a substantial motivating factor for the transportation, and it does not include a mere gratuity or social amenity.
 
-(2) “Gross negligence” refers to negligence which is materially greater than the mere absence of reasonable care under the circumstances, and which is characterized by conscious indifference to or reckless disregard of the rights of others. [1961 c.578 §2 (30.115 enacted in lieu of 30.110 and 30.120); 1979 c.866 §7] 30.120 [Repealed by 1961 c.578 §1 (30.115 enacted in lieu of 30.110 and 30.120)] 
+(2) “Gross negligence” refers to negligence which is materially greater than the mere absence of reasonable care under the circumstances, and which is characterized by conscious indifference to or reckless disregard of the rights of others. [1961 c.578 §2 (30.115 enacted in lieu of 30.110 and 30.120); 1979 c.866 §7] 
 
 ## Provenance & change history
 

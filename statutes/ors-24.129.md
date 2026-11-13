@@ -46,7 +46,7 @@ ORS 24.129 — Certification of filing in single court; filing of certified copy
 
 ## Full text
 
-24.129 Certification of filing in single court; filing of certified copy or lien record abstract for other counties. At the time of filing of any foreign judgment as provided in ORS 24.115, the judgment creditor shall certify that the judgment creditor is filing such judgment in only one court in Oregon. Thereafter, a certified copy of the judgment or a lien record abstract may be recorded in the County Clerk Lien Record of any other county in this state as provided in ORS 18.152. [1985 c.343 §9; 1987 c.586 §15; 2003 c.576 §574] 24.130 [1955 c.647 §13; repealed by 1979 c.577 §8] 
+24.129 Certification of filing in single court; filing of certified copy or lien record abstract for other counties. At the time of filing of any foreign judgment as provided in ORS 24.115, the judgment creditor shall certify that the judgment creditor is filing such judgment in only one court in Oregon. Thereafter, a certified copy of the judgment or a lien record abstract may be recorded in the County Clerk Lien Record of any other county in this state as provided in ORS 18.152. [1985 c.343 §9; 1987 c.586 §15; 2003 c.576 §574] 
 
 ## Provenance & change history
 

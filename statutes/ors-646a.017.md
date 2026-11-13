@@ -56,7 +56,7 @@ ORS 646A.017 — Donation and distribution of prohibited cosmetics. Chapter 646A
 
 (1) of this section that receives a cosmetic donated pursuant to subsection
 
-(1) of this section may distribute the cosmetic to an individual who is receiving services from the entity. [2023 c.536 §4] 646A.018 [Formerly 646.193; repealed by 2009 c.170 §4] 646A.020 [Formerly 646.195; repealed by 2009 c.170 §4] 
+(1) of this section may distribute the cosmetic to an individual who is receiving services from the entity. [2023 c.536 §4] 
 
 ## Provenance & change history
 

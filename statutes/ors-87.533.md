@@ -56,7 +56,7 @@ ORS 87.533 — Assets and income that are exempt from lien. Chapter 87 (Statutor
 
 (3) The eligibility of a person for medical assistance or entitlement to Medicaid assistance payments.
 
-(4) The priority given to the recovery of cost of care payments under ORS 115.125 (1)(L), 179.620 or 179.740. [1995 c.749 §8; 2001 c.316 §3; 2009 c.595 §57; 2011 c.720 §53; 2013 c.190 §3] Note: See note under 87.501. 87.535 [Amended by 1957 c.684 §1; 1971 c.177 §1; repealed by 1975 c.648 §72] 
+(4) The priority given to the recovery of cost of care payments under ORS 115.125 (1)(L), 179.620 or 179.740. [1995 c.749 §8; 2001 c.316 §3; 2009 c.595 §57; 2011 c.720 §53; 2013 c.190 §3] Note: See note under 87.501. 
 
 ## Provenance & change history
 

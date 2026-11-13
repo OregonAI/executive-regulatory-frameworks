@@ -62,7 +62,7 @@ ORS 86.741 — Attorney General duties and powers; payments; rules. Chapter 86 (
 
 (1) or
 
-(2) by a beneficiary is an unlawful practice under ORS 646.607 that is subject to enforcement under ORS 646.632. [2013 c.304 §6; 2017 c.154 §1] 86.742 [1985 c.817 §9; 1995 c.618 §51; 2012 c.112 §8; renumbered 86.767 in 2013] 
+(2) by a beneficiary is an unlawful practice under ORS 646.607 that is subject to enforcement under ORS 646.632. [2013 c.304 §6; 2017 c.154 §1] 
 
 ## Provenance & change history
 

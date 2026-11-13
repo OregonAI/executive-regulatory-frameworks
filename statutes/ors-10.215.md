@@ -66,7 +66,7 @@ ORS 10.215 — Master jury list; sources; contents. Chapter 10 (Juries), 2025 Ed
 
 (7) The State Court Administrator may make adjustments to the master jury list, and may authorize the presiding judge of a judicial district to make adjustments to a jury list for a panel or term, for the purpose of updating the addresses of persons appearing on the lists and removing the names of persons who are deceased, permanently ineligible for jury service or permanently excused from jury service. The State Court Administrator shall ensure that a record is maintained of all adjustments to jury lists made under this subsection.
 
-(8) For the purposes of this section, “public body” has the meaning given that term in ORS 174.109. [1985 c.703 §13; 1987 c.681 §3; 1995 c.273 §6; 1995 c.781 §24a; 1997 c.872 §15; 2001 c.779 §14; 2003 c.803 §18; 2005 c.385 §5; 2007 c.542 §14; 2013 c.2 §4] 10.220 [Amended by 1955 c.717 §5; 1957 c.594 §2; 1959 c.462 §1; 1961 c.705 §5; 1965 c.510 §12; 1977 c.519 §2; 1981 s.s. c.3 §47; repealed by 1985 c.703 §28] 10.225 [1985 c.703 §14; 1995 c.781 §25; repealed by 2013 c.2 §6] 10.230 [Amended by 1981 s.s. c.3 §48; repealed by 1985 c.703 §28] 
+(8) For the purposes of this section, “public body” has the meaning given that term in ORS 174.109. [1985 c.703 §13; 1987 c.681 §3; 1995 c.273 §6; 1995 c.781 §24a; 1997 c.872 §15; 2001 c.779 §14; 2003 c.803 §18; 2005 c.385 §5; 2007 c.542 §14; 2013 c.2 §4] 
 
 ## Provenance & change history
 

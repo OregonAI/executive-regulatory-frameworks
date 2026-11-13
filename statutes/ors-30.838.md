@@ -48,7 +48,7 @@ ORS 30.838 — Element of malice in certain defamation claims. Chapter 30 (Actio
 
 ## Full text
 
-30.838 Element of malice in certain defamation claims. In a claim for defamation against an individual who makes a communication regarding an incident of sexual assault committed against the individual, in addition to the other elements required to prove a claim of defamation, it is an element of the claim that the individual made the communication with malice. [2025 c.275 §1] 30.840 [1975 c.562 §1; renumbered 31.980 in 2003] 
+30.838 Element of malice in certain defamation claims. In a claim for defamation against an individual who makes a communication regarding an incident of sexual assault committed against the individual, in addition to the other elements required to prove a claim of defamation, it is an element of the claim that the individual made the communication with malice. [2025 c.275 §1] 
 
 ## Provenance & change history
 

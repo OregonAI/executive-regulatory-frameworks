@@ -54,7 +54,7 @@ ORS 63.101 — Registered name. Chapter 63 (Limited Liability Companies), 2025 E
 
 (2) The application must set forth the limited liability company name, the state or country of its organization, the date of its organization and a brief description of the nature of the business in which it is engaged and a statement that it is not carrying on or doing business in the State of Oregon. The application must be accompanied by a certificate of existence or a document of similar import current within 60 days of delivery, duly authenticated by the official having custody of the limited liability company records in the state or country under whose law it is organized.
 
-(3) If the Secretary of State finds that the name conforms to ORS 63.094, the Secretary of State shall register the name effective for one year. [1993 c.173 §23] 63.110 [Repealed by 1959 c.580 §104]
+(3) If the Secretary of State finds that the name conforms to ORS 63.094, the Secretary of State shall register the name effective for one year. [1993 c.173 §23] 
 
 ## Provenance & change history
 

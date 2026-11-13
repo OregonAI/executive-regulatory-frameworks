@@ -66,7 +66,7 @@ ORS 285B.482 — Revenue bonds as parity bonds; consolidation of bond proceeds; 
 
 (3) Any loan to a municipality made pursuant to ORS 285B.467 to 285B.479, 285B.560 to 285B.569 or 285B.572 to 285B.599, including loans funded in whole or in part with the proceeds of revenue bonds and loans funded with moneys in the Water Fund or the Special Public Works Fund, may be pledged to the holders of revenue bonds issued to finance water projects or development projects.
 
-(4) Funds or accounts established by the Oregon Business Development Department or the State Treasurer in connection with the issuance of revenue bonds under ORS 285B.467 to 285B.479 or ORS 285B.572, 285B.575 and 285B.578 and moneys held in the funds and accounts, together with the investment earnings thereon, may be consolidated into one or more funds or accounts and may be pledged to the holders of revenue bonds issued to finance water projects or development projects. [1997 c.800 §14; 2003 c.773 §49; 2005 c.835 §19; 2007 c.804 §35; 2009 c.830 §109] 285B.486 [2001 c.957 §10; renumbered 285C.530 in 2003] 285B.488 [2001 c.957 §11; renumbered 285C.533 in 2003]
+(4) Funds or accounts established by the Oregon Business Development Department or the State Treasurer in connection with the issuance of revenue bonds under ORS 285B.467 to 285B.479 or ORS 285B.572, 285B.575 and 285B.578 and moneys held in the funds and accounts, together with the investment earnings thereon, may be consolidated into one or more funds or accounts and may be pledged to the holders of revenue bonds issued to finance water projects or development projects. [1997 c.800 §14; 2003 c.773 §49; 2005 c.835 §19; 2007 c.804 §35; 2009 c.830 §109] 
 
 ## Provenance & change history
 

@@ -52,7 +52,7 @@ ORS 285B.209 — Fees and terms for loan and credit guarantees. Chapter 285B (Ch
 
 (1) When making loan or credit guarantees under the program established under ORS 285B.200 to 285B.218, the Oregon Business Development Department shall establish fees and other terms for loan or credit guarantees that are calculated to reasonably assure that businesses with access to other forms of private capital will find it economical not to participate in the program.
 
-(2) The department, with due regard for the possibility of losses and administrative costs, shall set fees and other terms at levels sufficient to reasonably assure that the program is self-financing. [Formerly 285.476; 2007 c.804 §59; 2009 c.830 §73] Note: See note under 285B.200. 285B.212 [Formerly 285.478; repealed by 2007 c.804 §86] 
+(2) The department, with due regard for the possibility of losses and administrative costs, shall set fees and other terms at levels sufficient to reasonably assure that the program is self-financing. [Formerly 285.476; 2007 c.804 §59; 2009 c.830 §73] Note: See note under 285B.200. 
 
 ## Provenance & change history
 

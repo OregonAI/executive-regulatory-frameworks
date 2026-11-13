@@ -65,7 +65,7 @@ ORS 181A.995 — Penalties relating to regulation of private security; criminal 
 
 (2) or
 
-(3) of this section shall be as provided under ORS 183.480. [Formerly 181.991; 2021 c.618 §14] _______________
+(3) of this section shall be as provided under ORS 183.480. [Formerly 181.991; 2021 c.618 §14] 
 
 ## Provenance & change history
 

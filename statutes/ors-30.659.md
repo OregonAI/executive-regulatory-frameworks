@@ -68,7 +68,7 @@ ORS 30.659 — Notice of petition required; exceptions for good cause; court to 
 
 (7) Failure to provide timely notice shall not be a bar to suit if good cause for the failure is shown. Good cause shall not be unreasonably withheld.
 
-(8) At the time of judgment after a person’s conviction is reversed or vacated, and either the charges are dismissed or on retrial the person is found not guilty, as described in ORS 30.657 (1)(b)(A), the court shall advise the person of the right to file a notice within 180 days under this section. If the person is not present, the court shall advise the person in writing of the right to file a notice within 180 days under this section. [2022 c.105 §2] 30.660 [1999 c.810 §4; repealed by 2015 c.212 §18] 30.661 [1999 c.810 §5; repealed by 2015 c.212 §18] 30.662 [1999 c.810 §6; repealed by 2015 c.212 §18] 30.664 [1999 c.810 §8; repealed by 2015 c.212 §18] 30.665 [1999 c.810 §9; repealed by 2015 c.212 §18] 30.670 [1953 c.495 §1; 1973 c.714 §1; 2001 c.621 §16; renumbered 659A.403 in 2001]
+(8) At the time of judgment after a person’s conviction is reversed or vacated, and either the charges are dismissed or on retrial the person is found not guilty, as described in ORS 30.657 (1)(b)(A), the court shall advise the person of the right to file a notice within 180 days under this section. If the person is not present, the court shall advise the person in writing of the right to file a notice within 180 days under this section. [2022 c.105 §2] 
 
 ## Provenance & change history
 

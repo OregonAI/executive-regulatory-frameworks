@@ -48,7 +48,7 @@ ORS 30.697 — Effect on workers’ compensation benefits. Chapter 30 (Actions a
 
 ## Full text
 
-30.697 Effect on workers’ compensation benefits. Nothing in ORS 30.687 to 30.695 shall affect the right of any person to any workers’ compensation benefits that may be payable by reason of death, injury or other loss. [1991 c.864 §6] 30.698 [Formerly 30.085; renumbered 31.180 in 2003] 30.700 [1981 c.670 §§1,2; repealed by 1997 c.182 §1 (30.701 enacted in lieu of 30.700)]
+30.697 Effect on workers’ compensation benefits. Nothing in ORS 30.687 to 30.695 shall affect the right of any person to any workers’ compensation benefits that may be payable by reason of death, injury or other loss. [1991 c.864 §6] 
 
 ## Provenance & change history
 

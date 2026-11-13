@@ -46,7 +46,7 @@ ORS 42.040 — Proof of attested writing other than a will. Chapter 42 (Executio
 
 ## Full text
 
-42.040 Proof of attested writing other than a will. Any attested writing other than a will may be proved in the same manner as though it had not been attested. 42.050 [Repealed by 1981 c.892 §98] 42.060 [Repealed by 1981 c.892 §98] 42.070 [Repealed by 1981 c.892 §98] 42.080 [Repealed by 1981 c.892 §98] SEALS 
+42.040 Proof of attested writing other than a will. Any attested writing other than a will may be proved in the same manner as though it had not been attested. 
 
 ## Provenance & change history
 

@@ -54,7 +54,7 @@ ORS 285A.103 — Oregon Infrastructure Finance Fund; sources; uses; rules. Chapt
 
 (2) The authority may finance programs and projects determined to further infrastructure development within this state by making grants or loans using moneys in the fund.
 
-(3) The Oregon Infrastructure Finance Authority Board may suggest to the Director of the Oregon Business Development Department administrative rules for establishing standards, objectives and criteria for use of moneys in the fund. The department shall adopt rules to establish standards, objectives and criteria for use of moneys in the fund. [2009 c.830 §5] 285A.105 [Formerly 285.060; 2003 c.242 §6; repealed by 2007 c.804 §86] 
+(3) The Oregon Infrastructure Finance Authority Board may suggest to the Director of the Oregon Business Development Department administrative rules for establishing standards, objectives and criteria for use of moneys in the fund. The department shall adopt rules to establish standards, objectives and criteria for use of moneys in the fund. [2009 c.830 §5] 
 
 ## Provenance & change history
 

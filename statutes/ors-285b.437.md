@@ -58,7 +58,7 @@ ORS 285B.437 — Contract with municipality; required provisions; repayment. Cha
 
 (4) A loan contract authorized under subsection
 
-(3) of this section shall be authorized by an ordinance, order or resolution adopted by the governing body of the municipality. [Formerly 285.717; 2001 c.883 §30d; 2003 c.773 §35; 2005 c.835 §12; 2009 c.830 §99] 285B.438 [2001 c.633 §4; 2003 c.773 §36; repealed by 2005 c.835 §37] 
+(3) of this section shall be authorized by an ordinance, order or resolution adopted by the governing body of the municipality. [Formerly 285.717; 2001 c.883 §30d; 2003 c.773 §35; 2005 c.835 §12; 2009 c.830 §99] 
 
 ## Provenance & change history
 

@@ -58,7 +58,7 @@ ORS 9.534 — Disciplinary board; procedure before board; oaths; subpoenas; hear
 
 (5) The hearing before the disciplinary board shall be held in the county in which the licensee charged maintains an office for the practice of law, the county in which the licensee resides, or the county in which the offense is alleged to have been committed. With the consent of the licensee, the hearing may be held elsewhere in the state.
 
-(6) A record of all hearings shall be made and preserved by the disciplinary board. [1983 c.618 §5; 2017 c.524 §2; 2025 c.32 §32] 9.535 [1975 c.641 §9; 1979 c.450 §1; repealed by 1983 c.618 §1] 
+(6) A record of all hearings shall be made and preserved by the disciplinary board. [1983 c.618 §5; 2017 c.524 §2; 2025 c.32 §32] 
 
 ## Provenance & change history
 

@@ -52,7 +52,7 @@ ORS 59.305 — Judicial review of orders. Chapter 59 (Securities Regulation), 20
 
 (1) A person aggrieved by an order of the Director of the Department of Consumer and Business Services which has been the subject of a timely application for hearing before the director shall be entitled to judicial review of the order under ORS chapter 183.
 
-(2) A judgment of a reviewing court under ORS chapter 183 may not bar the director from thereafter vacating or modifying an order involved in the proceeding for review, or entering any new order, for a proper cause which was not decided by the reviewing court. [1967 c.537 §27; 2003 c.576 §321] 59.310 [Amended by 1957 c.46 §1; 1961 c.352 §2; 1963 c.244 §6; repealed by 1967 c.537 §36] 
+(2) A judgment of a reviewing court under ORS chapter 183 may not bar the director from thereafter vacating or modifying an order involved in the proceeding for review, or entering any new order, for a proper cause which was not decided by the reviewing court. [1967 c.537 §27; 2003 c.576 §321] 
 
 ## Provenance & change history
 

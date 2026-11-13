@@ -76,7 +76,7 @@ ORS 419C.457 — Prohibition on imposition of fines and fees for acts committed 
 
 (1) of this section.
 
-(4) The Chief Justice of the Supreme Court may make any order or adopt any rules, and the State Court Administrator may establish any policies or procedures, necessary to carry out the provisions of this section. [2021 c.597 §77] 419C.459 [1993 c.33 §233; 2003 c.396 §113; 2011 c.597 §21; 2021 c.489 §75; repealed by 2021 c.597 §37] 419C.460 [2021 c.591 §27; repealed by 2024 c.70 §72] 
+(4) The Chief Justice of the Supreme Court may make any order or adopt any rules, and the State Court Administrator may establish any policies or procedures, necessary to carry out the provisions of this section. [2021 c.597 §77] 
 
 ## Provenance & change history
 

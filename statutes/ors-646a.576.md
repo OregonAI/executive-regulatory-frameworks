@@ -72,7 +72,7 @@ ORS 646A.576 — Method for requesting personal data; persons who may request pe
 
 (1) of this section; and (d) Require the controller to approve or deny the appeal within 45 days after the date on which the controller received the appeal and to notify the consumer in writing of the controller’s decision and the reasons for the decision. If the controller denies the appeal, the notice must provide or specify information that enables the consumer to contact the Attorney General to submit a complaint.
 
-(7) A controller that obtains personal data about a consumer from a source other than the consumer complies with the consumer’s request to delete the personal data if the controller: (a) Deletes the data but retains a record of the deletion request and a minimal amount of data necessary to ensure that the personal data remains deleted and does not use the minimal data for any other purpose; or (b) Opts the consumer out of the controller’s processing of the consumer’s personal data for any purpose other than a purpose that is exempt under ORS 646A.572. [2023 c.369 §4] 646A.577 [2011 c.393 §2; renumbered 646A.823 in 2023] 
+(7) A controller that obtains personal data about a consumer from a source other than the consumer complies with the consumer’s request to delete the personal data if the controller: (a) Deletes the data but retains a record of the deletion request and a minimal amount of data necessary to ensure that the personal data remains deleted and does not use the minimal data for any other purpose; or (b) Opts the consumer out of the controller’s processing of the consumer’s personal data for any purpose other than a purpose that is exempt under ORS 646A.572. [2023 c.369 §4] 
 
 ## Provenance & change history
 

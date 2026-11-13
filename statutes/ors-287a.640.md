@@ -53,7 +53,7 @@ ORS 287A.640 — Notice to commission of proposed issues; duty of public bodies 
 
 (1) The Oregon Municipal Debt Advisory Commission may, by rule, require a public body to provide the commission with prior notice of proposed issuance of new bonds in a form and at times specified by the commission.
 
-(2) To assist the commission in carrying out its duties, a public body shall verify, at the request of the commission, the information maintained by the commission or the State Treasurer on the public body’s outstanding bonds. [Formerly 287.040] _______________
+(2) To assist the commission in carrying out its duties, a public body shall verify, at the request of the commission, the information maintained by the commission or the State Treasurer on the public body’s outstanding bonds. [Formerly 287.040] 
 
 ## Provenance & change history
 

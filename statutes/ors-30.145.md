@@ -60,7 +60,7 @@ ORS 30.145 — Void provisions relating to waivers in construction agreements. C
 
 (5) This section does not apply to a provision for waiver of subrogation, indemnity or contribution in a construction agreement in which one of the parties is a railroad as defined in ORS 824.200.
 
-(6) As used in this section, “construction agreement” has the meaning given that term in ORS 30.140. [2011 c.518 §1] 30.146 [2001 c.616 §3; renumbered 31.155 in 2003] 30.150 [Formerly 30.760; renumbered 31.200 in 2003] 30.155 [1955 c.365 §1; renumbered 31.205 in 2003] 30.160 [1955 c.365 §2; renumbered 31.210 in 2003] 30.165 [1955 c.365 §3; 1991 c.249 §4; renumbered 31.215 in 2003] 30.170 [1955 c.365 §4; renumbered 31.220 in 2003] 30.175 [1955 c.365 §5; renumbered 31.225 in 2003]
+(6) As used in this section, “construction agreement” has the meaning given that term in ORS 30.140. [2011 c.518 §1] 
 
 ## Provenance & change history
 

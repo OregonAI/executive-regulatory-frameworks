@@ -55,7 +55,7 @@ ORS 30.800 — Liability for emergency medical assistance. Chapter 30 (Actions a
 
 (2) No person may maintain an action for damages for injury, death or loss that results from acts or omissions of a person while rendering emergency medical assistance unless it is alleged and proved by the complaining party that the person was grossly negligent in rendering the emergency medical assistance.
 
-(3) The giving of emergency medical assistance by a person does not, of itself, establish a professional relationship between the person giving the assistance and the person receiving the assistance insofar as the relationship carries with it any duty to provide or arrange for further medical care for the injured person after the giving of emergency medical assistance. [1967 c.266 §§1,2; 1973 c.635 §1; 1979 c.576 §1; 1979 c.731 §1; 1983 c.771 §1; 1983 c.779 §1; 1985 c.428 §1; 1989 c.782 §35; 1997 c.242 §1; 1997 c.751 §11; 2013 c.688 §8; 2014 c.45 §3; 2017 c.356 §2; 2024 c.73 §17] 30.801 [1999 c.220 §1; repealed by 2005 c.551 §8] 
+(3) The giving of emergency medical assistance by a person does not, of itself, establish a professional relationship between the person giving the assistance and the person receiving the assistance insofar as the relationship carries with it any duty to provide or arrange for further medical care for the injured person after the giving of emergency medical assistance. [1967 c.266 §§1,2; 1973 c.635 §1; 1979 c.576 §1; 1979 c.731 §1; 1983 c.771 §1; 1983 c.779 §1; 1985 c.428 §1; 1989 c.782 §35; 1997 c.242 §1; 1997 c.751 §11; 2013 c.688 §8; 2014 c.45 §3; 2017 c.356 §2; 2024 c.73 §17] 
 
 ## Provenance & change history
 

@@ -64,7 +64,7 @@ ORS 285A.660 — Funding priorities; port strategic business plans; rules. Chapt
 
 (2) The authority shall review all proposals to avoid duplication of marketing efforts among ports, and to maintain consistency with the applicable county or city comprehensive plans.
 
-(3) Ports shall develop and maintain strategic business plans before obtaining funding. A strategic business plan developed and maintained under this subsection must comply with standards and requirements for strategic business plans established by the Oregon Business Development Department by rule. The department shall also establish by rule the date by which ports seeking funding must have a strategic business plan in place. [Formerly 285.860; 2007 c.804 §28; 2009 c.830 §37] 285A.663 [Formerly 285.863; repealed by 1999 c.509 §61] (Oregon Port Revolving Fund) 
+(3) Ports shall develop and maintain strategic business plans before obtaining funding. A strategic business plan developed and maintained under this subsection must comply with standards and requirements for strategic business plans established by the Oregon Business Development Department by rule. The department shall also establish by rule the date by which ports seeking funding must have a strategic business plan in place. [Formerly 285.860; 2007 c.804 §28; 2009 c.830 §37] 
 
 ## Provenance & change history
 

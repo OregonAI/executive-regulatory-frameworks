@@ -84,7 +84,7 @@ ORS 59.049 — Federal covered securities exempt from registration; notice filin
 
 (3) of this section, less amounts previously paid under the prior notice filing, but the fee may not be less than $100. The fee is not refundable. (b) If an issuer or person sells federal covered securities in this state for a price in excess of the aggregate price for which fees were initially paid under this section, the seller shall pay a fee of three times the difference between the initial fee paid and the fee required under this section for the federal covered securities sold in this state. The additional fee may not be less than $100. The fee is not refundable.
 
-(7) The director, by rule or otherwise, may waive any or all of the provisions of this section. [1997 c.772 §6; 2001 c.104 §15; 2003 c.270 §2; 2003 c.785 §1] 59.050 [1981 c.292 §3; 1985 c.349 §6; repealed by 1987 c.603 §30] 
+(7) The director, by rule or otherwise, may waive any or all of the provisions of this section. [1997 c.772 §6; 2001 c.104 §15; 2003 c.270 §2; 2003 c.785 §1] 
 
 ## Provenance & change history
 

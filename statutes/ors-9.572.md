@@ -54,7 +54,7 @@ ORS 9.572 — Bar to establish Legal Services Program; director; advisory and te
 
 (2) The Oregon State Bar shall appoint a director of the Legal Services Program established under this section. The bar shall prescribe the duties of the director and fix the salary of the director.
 
-(3) The Oregon State Bar may establish any advisory or technical committees it deems necessary to advise the bar in establishing and operating the Legal Services Program. [1997 c.801 §73; 2011 c.595 §99] 9.574 [1997 c.801 §72; 2003 c.737 §98; repealed by 2011 c.595 §97a] 
+(3) The Oregon State Bar may establish any advisory or technical committees it deems necessary to advise the bar in establishing and operating the Legal Services Program. [1997 c.801 §73; 2011 c.595 §99] 
 
 ## Provenance & change history
 

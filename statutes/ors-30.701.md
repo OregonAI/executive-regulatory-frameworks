@@ -83,7 +83,7 @@ ORS 30.701 — Actions against maker of dishonored check; statutory damages and 
 
 (6) The provisions of this section apply only to a check that has been dishonored because of a lack of funds or credit to pay the check, because the maker has no account with the drawee or because the maker has stopped payment on the check without good cause. A plaintiff is entitled to the remedies provided by this section without regard to the reasons given by the drawee for dishonoring the check.
 
-(7) For the purposes of this section: (a) “Check” means a check, draft or order for the payment of money. (b) “Drawee” has that meaning given in ORS 73.0103. (c) “Payee” means a payee, holder or assignee of a check. [1997 c.182 §2 (enacted in lieu of 30.700); 1999 c.707 §1; 2011 c.449 §1] 30.710 [Amended by 1961 c.344 §103; repealed by 1973 c.640 §1] 
+(7) For the purposes of this section: (a) “Check” means a check, draft or order for the payment of money. (b) “Drawee” has that meaning given in ORS 73.0103. (c) “Payee” means a payee, holder or assignee of a check. [1997 c.182 §2 (enacted in lieu of 30.700); 1999 c.707 §1; 2011 c.449 §1] 
 
 ## Provenance & change history
 

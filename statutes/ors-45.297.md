@@ -48,7 +48,7 @@ ORS 45.297 — Authority to enter into service contracts. Chapter 45 (Testimony 
 
 ## Full text
 
-45.297 Authority to enter into service contracts. The State Court Administrator may enter into service contracts and may establish uniform policies and procedures, subject to the approval of the Chief Justice of the Supreme Court, governing the appointment, provision and payment of interpreters in proceedings before the circuit courts of the state, including the provision of interpreter services utilizing telecommunications methods. [1993 c.687 §5] 45.310 [Repealed by 1955 c.611 §13] 45.320 [Repealed by 1979 c.284 §199] 45.325 [1955 c.611 §4; repealed by 1979 c.284 §199] 45.330 [Repealed by 1979 c.284 §199] 45.340 [Amended by 1959 c.96 §1; repealed by 1979 c.284 §199] 45.350 [Repealed by 1979 c.284 §199] 45.360 [Repealed by 1979 c.284 §199] 45.370 [Repealed by 1979 c.284 §199] 45.380 [Repealed by 1955 c.611 §13]
+45.297 Authority to enter into service contracts. The State Court Administrator may enter into service contracts and may establish uniform policies and procedures, subject to the approval of the Chief Justice of the Supreme Court, governing the appointment, provision and payment of interpreters in proceedings before the circuit courts of the state, including the provision of interpreter services utilizing telecommunications methods. [1993 c.687 §5] 
 
 ## Provenance & change history
 

@@ -58,7 +58,7 @@ ORS 21.700 — Interest on judgments for deferred fees and costs; satisfaction; 
 
 (4) Upon notation in the register or docket that deferred fees and costs have been paid in full, a certified copy of the notation may be filed with any circuit court or County Clerk Lien Record in which the judgment was filed under the provisions of ORS 21.680 to 21.698. Upon filing of the certified copy, the trial court administrator for the court, or the county clerk if the judgment was filed in the County Clerk Lien Record, shall cause the certified copy to be entered in the register or docket of the court or recorded in the County Clerk Lien Record.
 
-(5) Judgments resulting from the deferral of fees and court costs under the provisions of ORS 21.680 to 21.698 may not be compromised, settled or adjusted by a trial court administrator or the State Court Administrator. [Formerly 21.607] 21.710 [Repealed by 1997 c.249 §15] 21.720 [Repealed by 1981 s.s. c.3 §141] 21.730 [Repealed by 2011 c.595 §114] 21.990 [Repealed by 2011 c.595 §114] _______________
+(5) Judgments resulting from the deferral of fees and court costs under the provisions of ORS 21.680 to 21.698 may not be compromised, settled or adjusted by a trial court administrator or the State Court Administrator. [Formerly 21.607] 
 
 ## Provenance & change history
 

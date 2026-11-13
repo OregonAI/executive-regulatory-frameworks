@@ -48,7 +48,7 @@ ORS 95.310 — Short title. Chapter 95 (Uniform Voidable Transactions Act), 2025
 
 ## Full text
 
-95.310 Short title. ORS 95.200 to 95.310 may be cited as the Uniform Voidable Transactions Act. [1985 c.664 §12; 2023 c.83 §13] _______________
+95.310 Short title. ORS 95.200 to 95.310 may be cited as the Uniform Voidable Transactions Act. [1985 c.664 §12; 2023 c.83 §13] 
 
 ## Provenance & change history
 

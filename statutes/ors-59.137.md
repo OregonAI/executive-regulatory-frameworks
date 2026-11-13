@@ -76,7 +76,7 @@ ORS 59.137 — Liability in connection with violation of ORS 59.135; damages; de
 
 (6) An action or suit may be commenced under this section within the later of: (a) Three years after the date of the purchase or sale of a security to which the action or suit relates; or (b) Two years after the person bringing the action or suit discovered or should have discovered the facts on which the action or suit is based.
 
-(7) Failure to commence an action or suit under this section on a timely basis is an affirmative defense. [2003 c.631 §4; 2003 c.786 §3] 59.140 [Repealed by 1967 c.537 §36] 
+(7) Failure to commence an action or suit under this section on a timely basis is an affirmative defense. [2003 c.631 §4; 2003 c.786 §3] 
 
 ## Provenance & change history
 

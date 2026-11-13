@@ -48,7 +48,7 @@ ORS 34.810 — Scire facias and quo warranto. Chapter 34 (Writs), 2025 Edition.
 
 ## Full text
 
-34.810 Scire facias and quo warranto. The writ of scire facias, the writ of quo warranto, and proceedings by information in the nature of quo warranto are abolished, and the remedies heretofore obtainable under those forms may be obtained by action in the mode prescribed in ORS 30.510 to 30.640. 34.820 [Repealed 1981 c.898 §53] _______________
+34.810 Scire facias and quo warranto. The writ of scire facias, the writ of quo warranto, and proceedings by information in the nature of quo warranto are abolished, and the remedies heretofore obtainable under those forms may be obtained by action in the mode prescribed in ORS 30.510 to 30.640. 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 93.160 — Conveyance by reversioners and remainderpersons to life tenant ve
 
 ## Full text
 
-93.160 Conveyance by reversioners and remainderpersons to life tenant vests fee. When real property has been devised to a person for life, and in case of the death of the life tenant without leaving lawful issue born alive and living at the time of death, then to other heirs of the testator, a conveyance to the life tenant from all reversioners or remainderpersons and all issue of the life tenant as are in being, of all their interest in the real property, vests a fee simple estate in the life tenant. [Amended by 2003 c.14 §35] 93.170 [Repealed by 1969 c.591 §305] 
+93.160 Conveyance by reversioners and remainderpersons to life tenant vests fee. When real property has been devised to a person for life, and in case of the death of the life tenant without leaving lawful issue born alive and living at the time of death, then to other heirs of the testator, a conveyance to the life tenant from all reversioners or remainderpersons and all issue of the life tenant as are in being, of all their interest in the real property, vests a fee simple estate in the life tenant. [Amended by 2003 c.14 §35] 
 
 ## Provenance & change history
 

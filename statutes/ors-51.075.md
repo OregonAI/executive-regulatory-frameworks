@@ -56,7 +56,7 @@ ORS 51.075 — Civil jurisdiction. Chapter 51 (Justice Courts; Jurisdiction), 20
 
 (3) A justice court does not have jurisdiction of: (a) An action in which the title to real property is in question. (b) An action for false imprisonment, libel, slander or malicious prosecution. (c) An action brought by an adult in custody as defined in ORS 30.642.
 
-(4) The jurisdiction conferred by this section is concurrent with any jurisdiction that may be exercised by a circuit court or municipal court. [2025 c.268 §2] 51.080 [Amended by 1973 c.625 §2; 1979 c.447 §1; 1983 c.149 §2; 1989 c.839 §34; 1993 c.735 §10; 1997 c.801 §107; 1999 c.84 §4; 2007 c.71 §13; 2007 c.125 §4; 2011 c.595 §52a; repealed by 2025 c.268 §35] 51.090 [Amended by 1983 c.673 §9; 2003 c.14 §22; 2011 c.262 §5; 2019 c.213 §14; repealed by 2025 c.268 §35] 
+(4) The jurisdiction conferred by this section is concurrent with any jurisdiction that may be exercised by a circuit court or municipal court. [2025 c.268 §2] 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 87.332 — Injury or removal of chattel subject to lien. Chapter 87 (Statuto
 
 ## Full text
 
-87.332 Injury or removal of chattel subject to lien. Except for a person holding a prior duly perfected security interest in a chattel subject to a lien created by ORS 87.216, any person to whom a notice of claim of lien has been given as provided in ORS 87.242, 87.252 and 87.306 who dismantles, removes from this state, misdelivers or conceals a chattel or the proceeds of the sale of a chattel upon which there is a valid lien without the written consent of the lien claimant, shall be liable to the lien claimant for damages proximately resulting therefrom, which sum may be recovered in an action at law without instituting foreclosure proceedings. The court shall allow reasonable attorney fees at trial and on appeal to the prevailing party. [1975 c.648 §37; 1981 c.897 §21] 87.335 [Repealed by 1975 c.648 §72] 
+87.332 Injury or removal of chattel subject to lien. Except for a person holding a prior duly perfected security interest in a chattel subject to a lien created by ORS 87.216, any person to whom a notice of claim of lien has been given as provided in ORS 87.242, 87.252 and 87.306 who dismantles, removes from this state, misdelivers or conceals a chattel or the proceeds of the sale of a chattel upon which there is a valid lien without the written consent of the lien claimant, shall be liable to the lien claimant for damages proximately resulting therefrom, which sum may be recovered in an action at law without instituting foreclosure proceedings. The court shall allow reasonable attorney fees at trial and on appeal to the prevailing party. [1975 c.648 §37; 1981 c.897 §21] 
 
 ## Provenance & change history
 

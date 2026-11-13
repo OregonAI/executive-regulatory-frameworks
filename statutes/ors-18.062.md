@@ -48,7 +48,7 @@ ORS 18.062 — Use of electronic judgment forms. Chapter 18 (Judgments), 2025 Ed
 
 ## Full text
 
-18.062 Use of electronic judgment forms. The provisions of this chapter do not affect the ability of the Chief Justice of the Supreme Court to authorize the use of electronic judgment forms pursuant to rules adopted under ORS 1.002 (2). [2005 c.568 §41] 18.070 [Repealed by 1981 c.898 §53]
+18.062 Use of electronic judgment forms. The provisions of this chapter do not affect the ability of the Chief Justice of the Supreme Court to authorize the use of electronic judgment forms pursuant to rules adopted under ORS 1.002 (2). [2005 c.568 §41] 
 
 ## Provenance & change history
 

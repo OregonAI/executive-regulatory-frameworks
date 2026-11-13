@@ -48,7 +48,7 @@ ORS 44.150 — Service of subpoena if witness concealed. Chapter 44 (Witnesses),
 
 ## Full text
 
-44.150 Service of subpoena if witness concealed. A sheriff, deputy or some person specially appointed by the sheriff, but none other, is authorized and required to break into any building or vessel in which a witness may be concealed to prevent the service of a subpoena, and serve it on the witness. 44.160 [Repealed by 1979 c.284 §199] 44.170 [Repealed by 1961 c.413 §1 (44.171 enacted in lieu of 44.170)] 44.171 [1961 c.413 §2 (enacted in lieu of 44.170); repealed by 1979 c.284 §199] 44.180 [Repealed by 1979 c.284 §199] 44.190 [Repealed by 1979 c.284 §199] 44.200 [Repealed by 1979 c.284 §199] 44.210 [Repealed by 1979 c.284 §199] 44.220 [Repealed by 1979 c.284 §199] 44.230 [Amended by 1973 c.836 §326; repealed by 1979 c.284 §199] 
+44.150 Service of subpoena if witness concealed. A sheriff, deputy or some person specially appointed by the sheriff, but none other, is authorized and required to break into any building or vessel in which a witness may be concealed to prevent the service of a subpoena, and serve it on the witness. 
 
 ## Provenance & change history
 

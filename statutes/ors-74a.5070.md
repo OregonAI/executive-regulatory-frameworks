@@ -68,7 +68,7 @@ ORS 74A.5070 — Choice of law. Chapter 74A (Funds Transfers), 2025 Edition.
 
 (2) of this section prevails.
 
-(6) If a funds transfer is made by use of more than one funds-transfer system and there is inconsistency between choice-of-law rules of the systems, the matter in issue is governed by the law of the selected jurisdiction that has the most significant relationship to the matter in issue. [1991 c.442 §38] _______________
+(6) If a funds transfer is made by use of more than one funds-transfer system and there is inconsistency between choice-of-law rules of the systems, the matter in issue is governed by the law of the selected jurisdiction that has the most significant relationship to the matter in issue. [1991 c.442 §38] 
 
 ## Provenance & change history
 

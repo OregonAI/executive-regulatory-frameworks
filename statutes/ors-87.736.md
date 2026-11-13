@@ -53,7 +53,7 @@ ORS 87.736 — Form of notices filed under ORS 87.710 and certificates filed und
 
 (1) Notices filed with the Secretary of State under ORS 87.710 and certificates filed with the Secretary of State under ORS 87.735 must be in a form prescribed by the Secretary of State. The Secretary of State shall include the notices and certificates in the index maintained by the secretary for filing financing statements pursuant to ORS chapter 79A. The secretary shall maintain the notices and certificates as public records for a period of time established by the secretary.
 
-(2) The Secretary of State shall establish fees pursuant to ORS 177.130 for filing notices and certificates and for furnishing copies of notices or certificates. Fees established pursuant to this subsection are nonrefundable. [2001 c.301 §2] 87.740 [1973 c.647 §10; 1983 c.740 §7; 1999 c.612 §5; 2001 c.301 §16; renumbered 87.228 in 2001] GRAIN PRODUCER’S LIEN 
+(2) The Secretary of State shall establish fees pursuant to ORS 177.130 for filing notices and certificates and for furnishing copies of notices or certificates. Fees established pursuant to this subsection are nonrefundable. [2001 c.301 §2] 
 
 ## Provenance & change history
 

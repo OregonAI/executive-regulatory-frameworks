@@ -48,7 +48,7 @@ ORS 45.900 — Penalty for violation of ORS 45.135 or. Chapter 45 (Testimony Gen
 
 ## Full text
 
-45.900 Penalty for violation of ORS 45.135 or 45.138. Violation of ORS 45.135 or 45.138 is a Class B violation. [1999 c.942 §3; 1999 c.1051 §322d; 2011 c.597 §152] 45.910 [1959 c.523 §§1,2,3; repealed by 1979 c.284 §199] _______________
+45.900 Penalty for violation of ORS 45.135 or 45.138. Violation of ORS 45.135 or 45.138 is a Class B violation. [1999 c.942 §3; 1999 c.1051 §322d; 2011 c.597 §152] 
 
 ## Provenance & change history
 

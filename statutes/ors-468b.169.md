@@ -56,7 +56,7 @@ ORS 468B.169 — Requests for funding, advice or assistance for ground water pro
 
 (1) of this section shall be filed in the manner, be in the form and contain the information required by the department.
 
-(3) The department shall approve only those requests that meet the criteria established by the department under ORS 468B.171. [Formerly 536.129; 2025 c.605 §25] Note: See note under 468B.150. 468B.170 [Formerly 468.695; repealed by 1995 c.690 §§25,26] 
+(3) The department shall approve only those requests that meet the criteria established by the department under ORS 468B.171. [Formerly 536.129; 2025 c.605 §25] Note: See note under 468B.150. 
 
 ## Provenance & change history
 

@@ -69,7 +69,7 @@ ORS 25.280 — Formula amount presumed correct; rebuttal of presumption; criteri
 
 (9) The tax consequences, if any, to both parents resulting from spousal support awarded and determination of which parent will name the child as a dependent; and
 
-(10) The financial advantage afforded a parent’s household by the income of a spouse or another person with whom the parent lives in a relationship similar to that of a spouse. [1989 c.811 §4; 1993 c.33 §287; 1993 c.354 §1; 1995 c.608 §30; 2001 c.622 §42; 2007 c.71 §8; 2007 c.356 §3; 2015 c.629 §1; 2019 c.13 §14; 2021 c.597 §50] 25.285 [1989 c.811 §5; repealed by 1991 c.519 §8 (25.287 enacted in lieu of 25.285 in 1993)] 
+(10) The financial advantage afforded a parent’s household by the income of a spouse or another person with whom the parent lives in a relationship similar to that of a spouse. [1989 c.811 §4; 1993 c.33 §287; 1993 c.354 §1; 1995 c.608 §30; 2001 c.622 §42; 2007 c.71 §8; 2007 c.356 §3; 2015 c.629 §1; 2019 c.13 §14; 2021 c.597 §50] 
 
 ## Provenance & change history
 

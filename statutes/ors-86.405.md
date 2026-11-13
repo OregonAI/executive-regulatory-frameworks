@@ -48,7 +48,7 @@ ORS 86.405 — Secretary of State to furnish statement of mortgages filed before
 
 ## Full text
 
-86.405 Secretary of State to furnish statement of mortgages filed before September 1, 1963; fee. Upon the payment of a fee of 50 cents for each name to be searched for chattel mortgages filed under former ORS 86.370 or 86.390, prior to September 1, 1963, the Secretary of State shall furnish to any person applying therefor a statement of any mortgages noted on the indexes created under former ORS 86.380, or if no mortgages are noted, a statement to that effect. All such fees received by the Secretary of State shall be promptly paid to the State Treasurer and placed in the General Fund. [1961 c.726 §409] 86.410 [Repealed by 1961 c.726 §427] 86.420 [Repealed by 1961 c.726 §427] 86.430 [Repealed by 1961 c.726 §427] 
+86.405 Secretary of State to furnish statement of mortgages filed before September 1, 1963; fee. Upon the payment of a fee of 50 cents for each name to be searched for chattel mortgages filed under former ORS 86.370 or 86.390, prior to September 1, 1963, the Secretary of State shall furnish to any person applying therefor a statement of any mortgages noted on the indexes created under former ORS 86.380, or if no mortgages are noted, a statement to that effect. All such fees received by the Secretary of State shall be promptly paid to the State Treasurer and placed in the General Fund. [1961 c.726 §409] 
 
 ## Provenance & change history
 

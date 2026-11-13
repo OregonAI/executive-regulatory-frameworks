@@ -54,7 +54,7 @@ ORS 20.220 — Appeal on attorney fees and costs; effect of reversal or modifica
 
 (2) If an appeal is taken from a judgment under ORS 19.205 before the trial court enters a judgment under ORCP 68 C(4), any necessary modification of the appeal shall be pursuant to rules of the appellate court.
 
-(3) When an appeal is taken from a judgment under ORS 19.205 to which an award of attorney fees or costs and disbursements relates: (a) If the appellate court reverses the judgment, the award of attorney fees or costs and disbursements shall be deemed reversed; or (b) If the appellate court modifies the judgment such that the party who was awarded attorney fees or costs and disbursements is no longer entitled to the award, the party against whom attorney fees or costs and disbursements were awarded may move for relief under ORCP 71 B(1)(e). [Amended by 1967 c.471 §2; 1981 c.898 §22; 1989 c.768 §7] 20.230 [Repealed by 1981 c.898 §53]
+(3) When an appeal is taken from a judgment under ORS 19.205 to which an award of attorney fees or costs and disbursements relates: (a) If the appellate court reverses the judgment, the award of attorney fees or costs and disbursements shall be deemed reversed; or (b) If the appellate court modifies the judgment such that the party who was awarded attorney fees or costs and disbursements is no longer entitled to the award, the party against whom attorney fees or costs and disbursements were awarded may move for relief under ORCP 71 B(1)(e). [Amended by 1967 c.471 §2; 1981 c.898 §22; 1989 c.768 §7] 
 
 ## Provenance & change history
 

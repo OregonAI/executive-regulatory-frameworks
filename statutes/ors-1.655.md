@@ -54,7 +54,7 @@ ORS 1.655 — Extension and termination of appointment under ORS 1.635; eligibil
 
 (2) The Supreme Court at any time by order may: (a) Extend the term of appointment of a judge pro tempore appointed as provided in ORS 1.635. (b) Terminate the term of appointment of a judge pro tempore appointed as provided in ORS 1.635 as of a date specified in the order; but termination does not affect the validity of any judgment, order or other action of the judge pro tempore prior to the effective date of the termination.
 
-(3) A judge pro tempore of a circuit court appointed as provided in ORS 1.635 is not eligible to appear as attorney in that court in any case tried by a jury during the time the judge pro tempore served as judge pro tempore. [1975 c.706 §7; 2003 c.576 §268; 2015 c.212 §11] 1.660 [1965 c.494 §5; 1967 c.270 §3; 1969 c.706 §64b; repealed by 1971 c.311 §2] 
+(3) A judge pro tempore of a circuit court appointed as provided in ORS 1.635 is not eligible to appear as attorney in that court in any case tried by a jury during the time the judge pro tempore served as judge pro tempore. [1975 c.706 §7; 2003 c.576 §268; 2015 c.212 §11] 
 
 ## Provenance & change history
 

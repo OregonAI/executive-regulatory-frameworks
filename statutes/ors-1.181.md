@@ -58,7 +58,7 @@ ORS 1.181 — Bonds for courthouse capital construction and improvement. Chapter
 
 (3) The State Treasurer shall deposit the net proceeds of bonds issued pursuant to this section and section 10, chapter 685, Oregon Laws 2015, in the Oregon Courthouse Capital Construction and Improvement Fund. The net proceeds and any interest earnings may be used solely to finance costs related to acquiring, constructing, remodeling, repairing, equipping or furnishing land, improvements, courthouses or portions of courthouses that are, or that upon completion of a project funded under this section will be, owned or operated by the State of Oregon.
 
-(4) As used in ORS 286A.816 to 286A.826 with respect to this section: (a) “Project agency” means the Judicial Department. (b) “Project fund” means the Oregon Courthouse Capital Construction and Improvement Fund. [2013 c.705 §8; 2014 c.121 §6; 2016 c.118 §2] 1.182 [1993 c.637 §16; 2005 c.804 §2; 2011 c.597 §60; renumbered 1.179 in 2025] 
+(4) As used in ORS 286A.816 to 286A.826 with respect to this section: (a) “Project agency” means the Judicial Department. (b) “Project fund” means the Oregon Courthouse Capital Construction and Improvement Fund. [2013 c.705 §8; 2014 c.121 §6; 2016 c.118 §2] 
 
 ## Provenance & change history
 

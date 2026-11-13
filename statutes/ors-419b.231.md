@@ -56,7 +56,7 @@ ORS 419B.231 — Appointment; hearing; findings. Chapter 419B (Chapter 419B), 20
 
 (4) A court may not appoint a guardian ad litem for a parent unless the court finds by a preponderance of the evidence presented at the hearing that: (a) Due to the parent’s mental or physical disability or impairment, the parent lacks substantial capacity either to understand the nature and consequences of the proceeding or to give direction and assistance to the parent’s attorney on decisions the parent must make in the proceeding; and (b) The appointment of a guardian ad litem is necessary to protect the parent’s rights in the proceeding during the period of the parent’s disability or impairment.
 
-(5) The fact that a guardian ad litem has been appointed under this section may not be used as evidence of mental or emotional illness in any juvenile court proceeding, any civil commitment proceeding or any other civil proceeding. [2005 c.450 §2] 419B.233 [1993 c.33 §87; repealed by 2001 c.622 §57] 
+(5) The fact that a guardian ad litem has been appointed under this section may not be used as evidence of mental or emotional illness in any juvenile court proceeding, any civil commitment proceeding or any other civil proceeding. [2005 c.450 §2] 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 87.376 — Duration of liens. Chapter 87 (Statutory Liens), 2025 Edition.
 
 ## Full text
 
-87.376 Duration of liens. If a suit to foreclose a lien created by ORS 87.352 to 87.362 is not brought in an appropriate court within six months after the notice of claim of lien, within six months after the expiration of such extended payment, the lien shall cease to exist. A lien shall not be continued in force for a longer time than two years from the time the claim for lien is filed under ORS 87.366 by an agreement to extend payment. [1975 c.648 §48] 87.380 [Repealed by 1975 c.648 §72] 
+87.376 Duration of liens. If a suit to foreclose a lien created by ORS 87.352 to 87.362 is not brought in an appropriate court within six months after the notice of claim of lien, within six months after the expiration of such extended payment, the lien shall cease to exist. A lien shall not be continued in force for a longer time than two years from the time the claim for lien is filed under ORS 87.366 by an agreement to extend payment. [1975 c.648 §48] 
 
 ## Provenance & change history
 

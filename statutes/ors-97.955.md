@@ -52,7 +52,7 @@ ORS 97.955 — Purpose of anatomical gift; persons authorized to make gift. Chap
 
 (1) Subject to ORS 97.963, a donor may make an anatomical gift of a donor’s body or body part during the life of the donor for the purpose of transplantation, therapy, research or education.
 
-(2) An anatomical gift may be made in the manner provided in ORS 97.957 by: (a) The donor, if the donor is an adult or if the donor is a minor and is: (A) Emancipated; or (B) Authorized under ORS 807.280 to apply for an instruction driver permit because the donor is at least 15 years of age; (b) An agent of the donor, unless the form appointing a health care representative, as defined in ORS 127.505, or other record prohibits the agent from making an anatomical gift; (c) A parent of the donor, if the donor is an unemancipated minor; or (d) The donor’s guardian. [2007 c.681 §3; 2018 c.36 §25] Note: See note under 97.951. 97.956 [1995 c.717 §4; 1997 c.472 §7; 1999 c.201 §3; repealed by 2007 c.681 §31] 
+(2) An anatomical gift may be made in the manner provided in ORS 97.957 by: (a) The donor, if the donor is an adult or if the donor is a minor and is: (A) Emancipated; or (B) Authorized under ORS 807.280 to apply for an instruction driver permit because the donor is at least 15 years of age; (b) An agent of the donor, unless the form appointing a health care representative, as defined in ORS 127.505, or other record prohibits the agent from making an anatomical gift; (c) A parent of the donor, if the donor is an unemancipated minor; or (d) The donor’s guardian. [2007 c.681 §3; 2018 c.36 §25] Note: See note under 97.951. 
 
 ## Provenance & change history
 

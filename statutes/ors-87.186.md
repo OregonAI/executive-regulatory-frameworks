@@ -48,7 +48,7 @@ ORS 87.186 — Location of foreclosure sale. Chapter 87 (Statutory Liens), 2025 
 
 ## Full text
 
-87.186 Location of foreclosure sale. Foreclosure of liens created by ORS 87.152 to 87.162 by public sale shall occur in the county in which the lien claimant obtained possession of the chattel subject to the lien from the lien debtor. [1975 c.648 §11] 87.190 [Repealed by 1975 c.648 §72] 
+87.186 Location of foreclosure sale. Foreclosure of liens created by ORS 87.152 to 87.162 by public sale shall occur in the county in which the lien claimant obtained possession of the chattel subject to the lien from the lien debtor. [1975 c.648 §11] 
 
 ## Provenance & change history
 

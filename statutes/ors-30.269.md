@@ -72,7 +72,7 @@ ORS 30.269 — Limitations on awards under Oregon Tort Claims Act generally. Cha
 
 (7) ORS 30.271, 30.272 and 30.273 do not apply to a claim arising in connection with a nuclear incident covered by an insurance or indemnity agreement under 42 U.S.C. 2210.
 
-(8) For the purposes of the limitations imposed by ORS 30.271, 30.272 and 30.273, events giving rise to a declaration of a state of emergency under ORS 401.165, or a declaration of a state of public health emergency under ORS 433.441, do not constitute a single accident or occurrence. [2009 c.67 §2; 2009 c.718 §15; 2021 c.539 §78] Note: 30.269 to 30.274 were added to and made a part of 30.260 to 30.300 by legislative action but were not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 30.270 [1967 c.627 §4; 1969 c.429 §2; 1975 c.609 §13; 1987 c.705 §8; 1987 c.915 §13; repealed by 2009 c.67 §20] 
+(8) For the purposes of the limitations imposed by ORS 30.271, 30.272 and 30.273, events giving rise to a declaration of a state of emergency under ORS 401.165, or a declaration of a state of public health emergency under ORS 433.441, do not constitute a single accident or occurrence. [2009 c.67 §2; 2009 c.718 §15; 2021 c.539 §78] Note: 30.269 to 30.274 were added to and made a part of 30.260 to 30.300 by legislative action but were not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

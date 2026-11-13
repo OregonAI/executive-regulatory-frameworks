@@ -52,7 +52,7 @@ ORS 87.507 — Perfecting lien; notice of lien; serving notice of lien; time to 
 
 (1) In order to perfect a lien created by ORS 87.503, a long term care facility shall: (a) File a notice of lien with the recording officer of the county or counties in which the real property is located; and (b) Serve a certified copy of the notice of lien by registered or certified mail upon the individual or the authorized representative of the individual.
 
-(2) A person claiming a lien under ORS 87.501 to 87.542 shall file the notice of lien no sooner than 60 days and no later than 120 days after the date on which the lien attached to the real property of the individual under ORS 87.503. [1995 c.749 §3; 1997 c.744 §3] Note: See note under 87.501. 87.510 [Repealed by 1975 c.648 §72] 
+(2) A person claiming a lien under ORS 87.501 to 87.542 shall file the notice of lien no sooner than 60 days and no later than 120 days after the date on which the lien attached to the real property of the individual under ORS 87.503. [1995 c.749 §3; 1997 c.744 §3] Note: See note under 87.501. 
 
 ## Provenance & change history
 

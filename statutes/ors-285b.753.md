@@ -58,7 +58,7 @@ ORS 285B.753 — Indexing of annual revenue limit amount and total loan limit am
 
 (1) of this section: (a) The adjusted annual revenue limit amount specified in ORS 285B.746 (2)(a) may not be less than $1.5 million. (b) The adjusted total loan limit amount specified in ORS 285B.749
 
-(2) may not be less than $1 million. [2021 c.20 §6; 2022 c.2 §6] 285B.755 [1991 c.688 §11; 2007 c.70 §73; repealed by 2007 c.804 §86] 
+(2) may not be less than $1 million. [2021 c.20 §6; 2022 c.2 §6] 
 
 ## Provenance & change history
 

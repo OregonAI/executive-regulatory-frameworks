@@ -48,7 +48,7 @@ ORS 60.971 — Severability. Chapter 60 (Private Corporations), 2025 Edition.
 
 ## Full text
 
-60.971 Severability. If any provision of this chapter or its application to any person or circumstance is held invalid by a court of competent jurisdiction, the invalidity does not affect other provisions or applications of this chapter that can be given effect without the invalid provision or application, and to this end the provisions of this chapter are severable. [1987 c.52 §180] 60.990 [(Enacted in 1903) repealed by 1953 c.549 §138; 60.990 (enacted by 1987 c.52 §175) renumbered 60.992 in 1993] PENALTY 
+60.971 Severability. If any provision of this chapter or its application to any person or circumstance is held invalid by a court of competent jurisdiction, the invalidity does not affect other provisions or applications of this chapter that can be given effect without the invalid provision or application, and to this end the provisions of this chapter are severable. [1987 c.52 §180] 
 
 ## Provenance & change history
 

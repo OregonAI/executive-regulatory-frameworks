@@ -48,7 +48,7 @@ ORS 30.186 — Remedies not exclusive. Chapter 30 (Actions and Suits in Particul
 
 ## Full text
 
-30.186 Remedies not exclusive. The remedies provided in ORS 30.180 to 30.186 are in addition to, and not in lieu of, any and all other remedies, both civil and criminal, provided by law. [1989 c.670 §4] 30.190 [1981 c.785 §3; 1983 c.521 §3; 1995 c.618 §23; renumbered 30.198 in 1999]
+30.186 Remedies not exclusive. The remedies provided in ORS 30.180 to 30.186 are in addition to, and not in lieu of, any and all other remedies, both civil and criminal, provided by law. [1989 c.670 §4] 
 
 ## Provenance & change history
 

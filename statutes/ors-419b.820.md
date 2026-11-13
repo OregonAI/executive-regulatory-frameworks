@@ -58,7 +58,7 @@ ORS 419B.820 — Notice to parent contesting petition to establish permanent gua
 
 (4) Inform the parent that, if the court has granted the parent an exception in advance under ORS 419B.918, the parent may appear in any manner permitted by the court under ORS 419B.918; and
 
-(5) Inform the parent that, if the parent fails to appear as ordered for any hearing related to the petition, the court, without further notice and in the parent’s absence, may: (a) Terminate the parent’s rights or, if the petition seeks to establish a permanent guardianship, grant the guardianship petition either on the date specified in the order or on a future date; and (b) Take any other action that is authorized by law. [2003 c.205 §5; 2007 c.497 §7] Note: 419B.820 was added to and made a part of ORS chapter 419B by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 419B.821 [2001 c.622 §8; 2003 c.230 §1; renumbered 419B.823 in 2003] 
+(5) Inform the parent that, if the parent fails to appear as ordered for any hearing related to the petition, the court, without further notice and in the parent’s absence, may: (a) Terminate the parent’s rights or, if the petition seeks to establish a permanent guardianship, grant the guardianship petition either on the date specified in the order or on a future date; and (b) Take any other action that is authorized by law. [2003 c.205 §5; 2007 c.497 §7] Note: 419B.820 was added to and made a part of ORS chapter 419B by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

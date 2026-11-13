@@ -48,7 +48,7 @@ ORS 87.575 — Lien docket. Chapter 87 (Statutory Liens), 2025 Edition.
 
 ## Full text
 
-87.575 Lien docket. Each recording officer shall maintain a lien docket in which, upon the filing of a notice of lien, the recording officer shall enter the name of the injured person, the approximate date of the hospitalization services or medical treatment, the name and address of the hospital filing the notice and the amount claimed and the name and address of the physician, physician associate or nurse practitioner filing the notice and the amount claimed. The recording officer shall make an index thereto in the names of the injured persons. [Amended by 1989 c.727 §5; 1999 c.146 §5; 2014 c.45 §8; 2024 c.73 §25] 87.580 [Amended by 1989 c.727 §6; repealed by 1999 c.146 §6 (87.581 enacted in lieu of 87.580)] 
+87.575 Lien docket. Each recording officer shall maintain a lien docket in which, upon the filing of a notice of lien, the recording officer shall enter the name of the injured person, the approximate date of the hospitalization services or medical treatment, the name and address of the hospital filing the notice and the amount claimed and the name and address of the physician, physician associate or nurse practitioner filing the notice and the amount claimed. The recording officer shall make an index thereto in the names of the injured persons. [Amended by 1989 c.727 §5; 1999 c.146 §5; 2014 c.45 §8; 2024 c.73 §25] 
 
 ## Provenance & change history
 

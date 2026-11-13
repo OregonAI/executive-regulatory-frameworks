@@ -65,7 +65,7 @@ ORS 18.348 — Certain funds exempt when deposited in account; limitation. Chapt
 
 (3) of this section is not affected by the commingling of exempt and nonexempt funds in an account. For the purpose of identifying exempt funds in an account, first in, first out accounting principles shall be used.
 
-(5) The provisions of this section do not affect the duties of a garnishee with respect to amounts in accounts that are not subject to garnishment under ORS 18.785. [Formerly 23.166; 2005 c.381 §19; 2009 c.430 §4; 2009 c.718 §37; 2024 c.100 §2] 18.350 [Amended by 1961 c.151 §2; 1983 c.405 §3; 1983 c.696 §3a; 1985 c.343 §2; 1987 c.586 §4; 1993 c.523 §1; 1997 c.71 §13; 1997 c.801 §66; 1999 c.195 §1; 1999 c.788 §21a; repealed by 2003 c.576 §580] 
+(5) The provisions of this section do not affect the duties of a garnishee with respect to amounts in accounts that are not subject to garnishment under ORS 18.785. [Formerly 23.166; 2005 c.381 §19; 2009 c.430 §4; 2009 c.718 §37; 2024 c.100 §2] 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 62.115 — Purposes for which cooperatives may be organized. Chapter 62 (Coo
 
 ## Full text
 
-62.115 Purposes for which cooperatives may be organized. Cooperatives may be organized under this chapter for any lawful purpose or purposes, except for the purpose of banking or insurance. [1957 c.716 §3] 62.120 [Repealed by 1957 c.716 §76] 
+62.115 Purposes for which cooperatives may be organized. Cooperatives may be organized under this chapter for any lawful purpose or purposes, except for the purpose of banking or insurance. [1957 c.716 §3] 
 
 ## Provenance & change history
 

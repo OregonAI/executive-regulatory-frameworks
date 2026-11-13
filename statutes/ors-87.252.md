@@ -62,7 +62,7 @@ ORS 87.252 — Notice to owner and holders of security interests; effect of fail
 
 (4) If the total amount of a lien under ORS 87.226 exceeds $20,000, that part of the lien exceeding $20,000 is subordinate to any security interest in the crops, animals or proceeds to be charged with the lien, if: (a) The holder of the security interest does not receive notice because of the lien claimant’s failure to comply with subsection
 
-(2) of this section; and (b) The holder of the security interest duly perfects the interest before the date on which the lien claimant files a notice of claim of lien. [1975 c.648 §23; 1985 c.469 §5; 1993 c.352 §1; 2001 c.301 §8] 87.255 [Repealed by 1975 c.648 §72] 
+(2) of this section; and (b) The holder of the security interest duly perfects the interest before the date on which the lien claimant files a notice of claim of lien. [1975 c.648 §23; 1985 c.469 §5; 1993 c.352 §1; 2001 c.301 §8] 
 
 ## Provenance & change history
 

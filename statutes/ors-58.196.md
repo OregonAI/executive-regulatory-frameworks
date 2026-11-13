@@ -56,7 +56,7 @@ ORS 58.196 — Limits on merger. Chapter 58 (Professional Corporations), 2025 Ed
 
 (3) A domestic professional corporation may merge with one or more domestic professional corporations which are organized to render different professional service or services only if the mergers are expressly authorized by the applicable regulatory boards.
 
-(4) Foreign professional corporations and domestic professional corporations which are organized to render different professional service or services may merge only if the mergers are expressly authorized by the regulatory boards having jurisdiction of the corporations in their respective states of incorporation. [1993 c.235 §33] 58.200 [Repealed by 1961 c.726 §427] 
+(4) Foreign professional corporations and domestic professional corporations which are organized to render different professional service or services may merge only if the mergers are expressly authorized by the regulatory boards having jurisdiction of the corporations in their respective states of incorporation. [1993 c.235 §33] 
 
 ## Provenance & change history
 

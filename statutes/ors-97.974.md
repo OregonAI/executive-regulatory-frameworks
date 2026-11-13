@@ -54,7 +54,7 @@ ORS 97.974 — Immunity of persons acting in accordance with ORS 97.951 to 97.98
 
 (2) Neither the person making an anatomical gift nor the donor’s estate is liable for any injury or damage that results from the making or use of the gift.
 
-(3) In determining whether an anatomical gift has been made, amended or revoked under ORS 97.951 to 97.982, a person may rely upon representations of an individual listed in ORS 97.965 (1)(b), (c), (d), (e), (f), (g) or (h) relating to the individual’s relationship to the donor or prospective donor unless the person knows that the representation is untrue. [2007 c.681 §15] Note: See note under 97.951. 97.975 [Formerly 97.930; renumbered 97.987 in 2007] 
+(3) In determining whether an anatomical gift has been made, amended or revoked under ORS 97.951 to 97.982, a person may rely upon representations of an individual listed in ORS 97.965 (1)(b), (c), (d), (e), (f), (g) or (h) relating to the individual’s relationship to the donor or prospective donor unless the person knows that the representation is untrue. [2007 c.681 §15] Note: See note under 97.951. 
 
 ## Provenance & change history
 

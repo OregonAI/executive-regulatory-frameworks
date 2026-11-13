@@ -54,7 +54,7 @@ ORS 51.055 — Notice to Department of State Police of conviction; rules. Chapte
 
 (2) The department shall make rules establishing: (a) Requirements for notification under this section. (b) Procedures for entry of convictions described in subsection
 
-(1) of this section into the Law Enforcement Data System the department maintains. The rules must provide that it is not necessary to enter a conviction into the Law Enforcement Data System if a record of the conviction already exists in the system. [2013 c.141 §1] 51.060 [Amended by 1957 c.644 §27; 1971 c.743 §314; repealed by 1999 c.605 §8 and 1999 c.1051 §42] 51.070 [Amended by 1973 c.836 §328; repealed by 2025 c.268 §35] 
+(1) of this section into the Law Enforcement Data System the department maintains. The rules must provide that it is not necessary to enter a conviction into the Law Enforcement Data System if a record of the conviction already exists in the system. [2013 c.141 §1] 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 44.320 — Authority to take testimony and administer oath or affirmation. C
 
 ## Full text
 
-44.320 Authority to take testimony and administer oath or affirmation. Every court, judge, clerk of a court, justice of the peace, certified shorthand reporter as defined in ORS 8.415 or notary public is authorized to take testimony in any action or proceeding, as are other persons in particular cases authorized by statute or the Oregon Rules of Civil Procedure and is authorized to administer oaths and affirmations generally, and every such other person in the particular case authorized. [Amended by 1979 c.284 §81; 1989 c.1055 §13; 1997 c.249 §21] 44.330 [Repealed by 1981 c.892 §98] 44.340 [Repealed by 1981 c.892 §98] 44.350 [Repealed by 1981 c.892 §98] 44.360 [Repealed by 1981 c.892 §98] 
+44.320 Authority to take testimony and administer oath or affirmation. Every court, judge, clerk of a court, justice of the peace, certified shorthand reporter as defined in ORS 8.415 or notary public is authorized to take testimony in any action or proceeding, as are other persons in particular cases authorized by statute or the Oregon Rules of Civil Procedure and is authorized to administer oaths and affirmations generally, and every such other person in the particular case authorized. [Amended by 1979 c.284 §81; 1989 c.1055 §13; 1997 c.249 §21] 
 
 ## Provenance & change history
 

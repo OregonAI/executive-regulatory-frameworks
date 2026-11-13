@@ -52,7 +52,7 @@ ORS 9.657 — Immunity from civil liability. Chapter 9 (Oregon State Bar; Attorn
 
 (1) Any person who has made a claim with the client security fund committee of the bar concerning a loss allegedly caused by the intentional dishonest conduct of a licensee representing the person, or who has given information to the bar relative to a client security fund claim or award shall be absolutely immune from civil liability for such acts.
 
-(2) The Oregon State Bar, its officers, the members of the client security fund committee, the board of governors, bar counsel, investigators and employees of the bar shall be absolutely immune from civil liability in the performance of their duties relative to client security fund claims or awards. [1989 c.1052 §4; 2021 c.497 §2; 2023 c.72 §15; 2025 c.32 §43] 9.660 [Repealed by 1953 c.609 §2] 
+(2) The Oregon State Bar, its officers, the members of the client security fund committee, the board of governors, bar counsel, investigators and employees of the bar shall be absolutely immune from civil liability in the performance of their duties relative to client security fund claims or awards. [1989 c.1052 §4; 2021 c.497 §2; 2023 c.72 §15; 2025 c.32 §43] 
 
 ## Provenance & change history
 

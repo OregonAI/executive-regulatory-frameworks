@@ -52,7 +52,7 @@ ORS 87.276 — Evidence admissible; issuance of show cause order. Chapter 87 (St
 
 (1) The court shall consider the petition filed under ORS 87.272 and may consider other evidence, including, but not limited to, an affidavit, deposition, exhibit or oral testimony.
 
-(2) If from the petition or other evidence, if any, the court finds that a notice of claim of lien has been filed and that there is probable cause for sustaining the validity of the lien claim, the court shall issue a show cause order as provided in ORS 87.288. The finding under this subsection is subject to dissolution upon hearing. [1975 c.648 §28] 87.280 [Repealed by 1975 c.648 §72] 
+(2) If from the petition or other evidence, if any, the court finds that a notice of claim of lien has been filed and that there is probable cause for sustaining the validity of the lien claim, the court shall issue a show cause order as provided in ORS 87.288. The finding under this subsection is subject to dissolution upon hearing. [1975 c.648 §28] 
 
 ## Provenance & change history
 

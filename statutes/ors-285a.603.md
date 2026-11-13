@@ -48,7 +48,7 @@ ORS 285A.603 — “Port” defined for ORS 285A.603 to 285A.627. Chapter 285A (
 
 ## Full text
 
-285A.603 “Port” defined for ORS 285A.603 to 285A.627. As used in ORS 285A.603 to 285A.627, unless the context requires otherwise, “port” means the Port of Portland and any port formed pursuant to ORS 777.005 to 777.725 and 777.915 to 777.953. [Formerly 285.805; 2003 c.802 §153; 2007 c.804 §23] 285A.606 [Formerly 285.806; repealed by 2007 c.804 §86] 285A.609 [Formerly 285.808; 2003 c.773 §8; repealed by 2007 c.804 §86] 285A.612 [Formerly 285.809; 2003 c.773 §9; repealed by 2007 c.804 §86] 
+285A.603 “Port” defined for ORS 285A.603 to 285A.627. As used in ORS 285A.603 to 285A.627, unless the context requires otherwise, “port” means the Port of Portland and any port formed pursuant to ORS 777.005 to 777.725 and 777.915 to 777.953. [Formerly 285.805; 2003 c.802 §153; 2007 c.804 §23] 
 
 ## Provenance & change history
 

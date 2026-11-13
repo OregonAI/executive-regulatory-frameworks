@@ -54,7 +54,7 @@ ORS 285B.093 — Oregon Targeted Development Account; purpose; exemption from mi
 
 (2) The purpose of the Oregon Targeted Development Account is to promote cooperation and foster partnership among the commission, the Oregon Business Development Department and financial institutions in Oregon to encourage investment in distressed areas, as defined by the department.
 
-(3) The department may make loans from the Oregon Targeted Development Account in distressed areas without regard to the minimum rate of interest that is otherwise applicable under ORS 285B.062. The department may make loans in distressed areas at an interest rate that is determined by the commission. [1999 c.247 §1; 2003 c.167 §6; 2007 c.804 §48; 2009 c.830 §61] 285B.095 [Formerly 285.445; repealed by 2007 c.804 §86] 
+(3) The department may make loans from the Oregon Targeted Development Account in distressed areas without regard to the minimum rate of interest that is otherwise applicable under ORS 285B.062. The department may make loans in distressed areas at an interest rate that is determined by the commission. [1999 c.247 §1; 2003 c.167 §6; 2007 c.804 §48; 2009 c.830 §61] 
 
 ## Provenance & change history
 

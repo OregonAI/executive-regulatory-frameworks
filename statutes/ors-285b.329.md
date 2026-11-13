@@ -56,7 +56,7 @@ ORS 285B.329 — Review of project by commission; exception. Chapter 285B (Chapt
 
 (1) and
 
-(2) if the economic development project involves an exempt facility. [Formerly 285.325; 1999 c.509 §32; 2001 c.680 §4; 2007 c.804 §75; 2009 c.830 §86; 2012 c.59 §2] 285B.332 [Formerly 285.330; 1999 c.509 §33; repealed by 2007 c.804 §86] 
+(2) if the economic development project involves an exempt facility. [Formerly 285.325; 1999 c.509 §32; 2001 c.680 §4; 2007 c.804 §75; 2009 c.830 §86; 2012 c.59 §2] 
 
 ## Provenance & change history
 

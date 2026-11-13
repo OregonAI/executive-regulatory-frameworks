@@ -66,7 +66,7 @@ ORS 46.488 — Lien effect of small claims judgments. Chapter 46 (Small Claims D
 
 (4) to
 
-(9) (1997 Edition) shall automatically become a lien on real property to the extent described in ORS 18.350, as amended by section 1 of this 1999 Act, on January 1, 2000, and shall be considered in all respects as though the judgment had been docketed on January 1, 2000. [1999 c.195 §8(1),(2); 1999 c.195 §8a(1),(2)] 46.490 [Repealed by 1971 c.760 §11] 46.495 [1979 c.567 §4; repealed by 1981 c.883 §1] 46.500 [Amended by 1969 c.683 §4; repealed by 1971 c.760 §11] 46.505 [1969 c.683 §6; repealed by 1971 c.760 §11] 46.510 [Repealed by 1971 c.760 §11] 46.520 [Amended by 1969 c.683 §7; repealed by 1971 c.760 §11] 46.530 [Repealed by 1971 c.760 §11] 46.540 [Amended by 1969 c.683 §8; repealed by 1971 c.760 §11] 46.550 [Repealed by 1981 s.s. c.3 §141] 
+(9) (1997 Edition) shall automatically become a lien on real property to the extent described in ORS 18.350, as amended by section 1 of this 1999 Act, on January 1, 2000, and shall be considered in all respects as though the judgment had been docketed on January 1, 2000. [1999 c.195 §8(1),(2); 1999 c.195 §8a(1),(2)] 
 
 ## Provenance & change history
 

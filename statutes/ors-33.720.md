@@ -60,7 +60,7 @@ ORS 33.720 — Proceeding in rem; practice and procedure as in action not triabl
 
 (5) Costs of the proceeding may be allowed and apportioned between the parties in the discretion of the court.
 
-(6) Upon conclusion of a proceeding authorized by ORS 33.710 (2)(b), including any appeal of a judgment, the judgment entered in the proceeding is binding upon the parties and all other persons. Claim preclusion and issue preclusion apply to all matters adjudicated in the proceeding. Except for an action to enforce a judgment, the courts of this state do not have jurisdiction over an action by or against the governing body or municipal corporation named in the judgment if the purpose of the action is to seek judicial review or judicial examination, directly or indirectly, of a matter adjudicated in the proceeding. [Amended by 1975 c.133 §2; 1979 c.284 §69; 2001 c.537 §1; 2003 c.576 §234] 33.810 [1955 c.522 §1; repealed by 1967 c.460 §8] 33.820 [1955 c.522 §2; repealed by 1967 c.460 §8] 33.830 [1955 c.522 §3; repealed by 1967 c.460 §8]
+(6) Upon conclusion of a proceeding authorized by ORS 33.710 (2)(b), including any appeal of a judgment, the judgment entered in the proceeding is binding upon the parties and all other persons. Claim preclusion and issue preclusion apply to all matters adjudicated in the proceeding. Except for an action to enforce a judgment, the courts of this state do not have jurisdiction over an action by or against the governing body or municipal corporation named in the judgment if the purpose of the action is to seek judicial review or judicial examination, directly or indirectly, of a matter adjudicated in the proceeding. [Amended by 1975 c.133 §2; 1979 c.284 §69; 2001 c.537 §1; 2003 c.576 §234] 
 
 ## Provenance & change history
 

@@ -54,7 +54,7 @@ ORS 74.5040 — Privilege of presenting bank to deal with goods; security intere
 
 (2) For its reasonable expenses incurred by action under subsection
 
-(1) of this section the presenting bank has a lien upon the goods or their proceeds, which may be foreclosed in the same manner as an unpaid seller’s lien. [1961 c.726 §74.5040; 1993 c.545 §113] _______________
+(1) of this section the presenting bank has a lien upon the goods or their proceeds, which may be foreclosed in the same manner as an unpaid seller’s lien. [1961 c.726 §74.5040; 1993 c.545 §113] 
 
 ## Provenance & change history
 

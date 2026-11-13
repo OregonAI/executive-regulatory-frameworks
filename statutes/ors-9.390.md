@@ -48,7 +48,7 @@ ORS 9.390 — Notice of change or termination. Chapter 9 (Oregon State Bar; Atto
 
 ## Full text
 
-9.390 Notice of change or termination. When an attorney is changed, or the relationship of attorney and client is terminated, as provided in ORS 9.380, written notice of the change or termination shall be given to the adverse party. Until the notice is given, the adverse party is bound to recognize the former attorney. [Amended by 2011 c.60 §2] 9.400 [1987 c.774 §8; renumbered 20.340 in 1997]
+9.390 Notice of change or termination. When an attorney is changed, or the relationship of attorney and client is terminated, as provided in ORS 9.380, written notice of the change or termination shall be given to the adverse party. Until the notice is given, the adverse party is bound to recognize the former attorney. [Amended by 2011 c.60 §2] 
 
 ## Provenance & change history
 

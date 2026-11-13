@@ -48,7 +48,7 @@ ORS 58.087 — When restatement of articles of incorporation required. Chapter 5
 
 ## Full text
 
-58.087 When restatement of articles of incorporation required. A professional corporation shall restate its articles of incorporation under ORS 60.451 and shall comply with ORS 58.085 anytime the professional service or services to be rendered by the professional corporation are changed or as may be required by law. [1993 c.235 §27] 58.090 [Repealed by 1961 c.726 §427] 58.095 [1969 c.592 §8; repealed by 1993 c.235 §40] 58.100 [Repealed by 1961 c.726 §427] 
+58.087 When restatement of articles of incorporation required. A professional corporation shall restate its articles of incorporation under ORS 60.451 and shall comply with ORS 58.085 anytime the professional service or services to be rendered by the professional corporation are changed or as may be required by law. [1993 c.235 §27] 
 
 ## Provenance & change history
 

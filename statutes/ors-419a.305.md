@@ -80,7 +80,7 @@ ORS 419A.305 — Notice to school administrators concerning students subject to 
 
 (3) of this section shall request that the court make the determination under this paragraph when the person or entity believes notice is necessary to safeguard the safety and security of the school, students and staff and the conduct involves an offense under ORS 163.160.
 
-(8) Except as otherwise provided in ORS 192.431, a person who sends or receives notice under this section is not civilly or criminally liable for failing to disclose the information under this section. [2008 c.50 §2; 2009 c.447 §1; 2009 c.713 §18; 2011 c.9 §58; 2017 c.21 §54; 2023 c.513 §18] _______________
+(8) Except as otherwise provided in ORS 192.431, a person who sends or receives notice under this section is not civilly or criminally liable for failing to disclose the information under this section. [2008 c.50 §2; 2009 c.447 §1; 2009 c.713 §18; 2011 c.9 §58; 2017 c.21 §54; 2023 c.513 §18] 
 
 ## Provenance & change history
 

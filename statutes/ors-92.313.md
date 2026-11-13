@@ -54,7 +54,7 @@ ORS 92.313 — Policy; construction; citation. Chapter 92 (Subdivisions and Part
 
 (2) The provisions of ORS 92.305 to 92.495 are in addition to, and not in lieu of, the existing provisions of ORS 92.010 to 92.192.
 
-(3) ORS 92.305 to 92.495 may be cited as the Oregon Subdivision and Series Partition Control Law. [1974 c.1 §2; 1975 c.643 §1a; 1983 c.570 §9] 92.315 [1969 c.508 §4; repealed by 1973 c.421 §52] 
+(3) ORS 92.305 to 92.495 may be cited as the Oregon Subdivision and Series Partition Control Law. [1974 c.1 §2; 1975 c.643 §1a; 1983 c.570 §9] 
 
 ## Provenance & change history
 

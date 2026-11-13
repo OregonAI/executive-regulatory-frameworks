@@ -48,7 +48,7 @@ ORS 285B.174 — Programs to assist businesses in procuring government contracts
 
 ## Full text
 
-285B.174 Programs to assist businesses in procuring government contracts and grants. In cooperation with other state agencies and private organizations, public universities listed in ORS 352.002 and community colleges may develop programs to assist Oregon businesses with the procurement of government contracts and grants. Small business development centers established under ORS 285B.165 to 285B.171 may assist with these programs. [Formerly 285.550; 2001 c.148 §5; 2007 c.804 §19; 2011 c.637 §94] 285B.177 [Formerly 285.553; repealed by 1999 c.509 §61]
+285B.174 Programs to assist businesses in procuring government contracts and grants. In cooperation with other state agencies and private organizations, public universities listed in ORS 352.002 and community colleges may develop programs to assist Oregon businesses with the procurement of government contracts and grants. Small business development centers established under ORS 285B.165 to 285B.171 may assist with these programs. [Formerly 285.550; 2001 c.148 §5; 2007 c.804 §19; 2011 c.637 §94] 
 
 ## Provenance & change history
 

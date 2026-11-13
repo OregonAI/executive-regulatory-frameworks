@@ -62,7 +62,7 @@ ORS 459A.321 — Approval of electronics producer responsibility plan. Chapter 4
 
 (5) If the department directs changes to a revised plan under subsection
 
-(4) of this section, the electronics producer responsibility organization must implement the changes or request a hearing under ORS chapter 183. [2023 c.259 §6] Note: See note under 459A.300. 459A.322 [2011 c.548 §2; repealed by 2023 c.259 §15] 
+(4) of this section, the electronics producer responsibility organization must implement the changes or request a hearing under ORS chapter 183. [2023 c.259 §6] Note: See note under 459A.300. 
 
 ## Provenance & change history
 

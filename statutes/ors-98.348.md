@@ -54,7 +54,7 @@ ORS 98.348 — Recovery of abandoned property by another state; form of claim; i
 
 (2) The claim of another state to recover escheated or unclaimed property must be presented in a form prescribed by the State Treasurer. The State Treasurer shall decide the claim within 90 days after it is presented.
 
-(3) The State Treasurer shall require a state, before recovering property under this section, to agree to indemnify this state and its officers and employees against any liability on a claim for the property. [1983 c.716 §36; 1993 c.694 §5; 2019 c.678 §9] 98.350 [Repealed by 1957 c.670 §37] 
+(3) The State Treasurer shall require a state, before recovering property under this section, to agree to indemnify this state and its officers and employees against any liability on a claim for the property. [1983 c.716 §36; 1993 c.694 §5; 2019 c.678 §9] 
 
 ## Provenance & change history
 

@@ -90,7 +90,7 @@ ORS 59.025 — Securities exempt from registration. Chapter 59 (Securities Regul
 
 (14) Any security issued by a person that is: (a) Organized and operated exclusively for a religious, educational, benevolent, fraternal, charitable or reformatory purpose and not for pecuniary profit; (b) Organized or constituted so that the person’s net earnings do not inure to the benefit of any person, private stockholder, or individual; and (c) Designated by rule of the director.
 
-(15) Any other security the director exempts by rule. [1967 c.537 §4; 1969 c.688 §1; 1973 c.428 §9; 1975 c.491 §2; 1985 c.193 §1; 1985 c.349 §2a; 1987 c.603 §1a; 1987 c.677 §9; 1989 c.171 §6; 1989 c.197 §2; 1991 c.67 §10; 1993 c.18 §14; 1997 c.772 §2; 2014 c.69 §1; 2023 c.529 §10] 59.030 [Repealed by 1967 c.537 §36] 
+(15) Any other security the director exempts by rule. [1967 c.537 §4; 1969 c.688 §1; 1973 c.428 §9; 1975 c.491 §2; 1985 c.193 §1; 1985 c.349 §2a; 1987 c.603 §1a; 1987 c.677 §9; 1989 c.171 §6; 1989 c.197 §2; 1991 c.67 §10; 1993 c.18 §14; 1997 c.772 §2; 2014 c.69 §1; 2023 c.529 §10] 
 
 ## Provenance & change history
 

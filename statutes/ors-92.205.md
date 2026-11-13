@@ -52,7 +52,7 @@ ORS 92.205 — Policy. Chapter 92 (Subdivisions and Partitions), 2025 Edition.
 
 (1) The Legislative Assembly finds that many subdivisions for which plats have been approved and recorded have not been developed and that many such subdivisions were approved prior to the adoption of a comprehensive plan, zoning regulations and ordinances and modern subdivision control standards by the jurisdiction within which the lands described in the subdivision plats are situated.
 
-(2) The Legislative Assembly finds, therefore, that it is necessary for the protection of the public health, safety and welfare to provide for the review of undeveloped subdivisions for the purpose of modifying such subdivisions, if necessary, to comply with the current comprehensive plan, zoning ordinances and regulations and modern subdivision control standards, or, if such modification is not feasible, of vacating the nonconforming, undeveloped subdivisions and to vacate any lands dedicated for public use that are described in the plat of each such vacated subdivision. [1973 c.569 §1] 92.210 [1963 c.624 §3; 1965 c.584 §3; repealed by 1973 c.421 §52] 
+(2) The Legislative Assembly finds, therefore, that it is necessary for the protection of the public health, safety and welfare to provide for the review of undeveloped subdivisions for the purpose of modifying such subdivisions, if necessary, to comply with the current comprehensive plan, zoning ordinances and regulations and modern subdivision control standards, or, if such modification is not feasible, of vacating the nonconforming, undeveloped subdivisions and to vacate any lands dedicated for public use that are described in the plat of each such vacated subdivision. [1973 c.569 §1] 
 
 ## Provenance & change history
 

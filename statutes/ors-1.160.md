@@ -48,7 +48,7 @@ ORS 1.160 — Means to carry jurisdiction into effect; adoption of suitable proc
 
 ## Full text
 
-1.160 Means to carry jurisdiction into effect; adoption of suitable process or mode of proceeding. When jurisdiction is, by the Constitution or by statute, conferred on a court or judicial officer, all the means to carry it into effect are also given; and in the exercise of the jurisdiction, if the course of proceeding is not specifically pointed out by the procedural statutes, any suitable process or mode of proceeding may be adopted which may appear most conformable to the spirit of the procedural statutes. 1.165 [1981 s.s. c.3 §7; renumbered 1.185 in 1999] 1.167 [1981 s.s. c.3 §18; renumbered 1.187 in 1999] 1.169 [1987 c.559 §2; 1989 c.1008 §1; 1995 c.781 §5; repealed by 1995 c.658 §127] 1.170 [Repealed by 1981 s.s. c.3 §141] 
+1.160 Means to carry jurisdiction into effect; adoption of suitable process or mode of proceeding. When jurisdiction is, by the Constitution or by statute, conferred on a court or judicial officer, all the means to carry it into effect are also given; and in the exercise of the jurisdiction, if the course of proceeding is not specifically pointed out by the procedural statutes, any suitable process or mode of proceeding may be adopted which may appear most conformable to the spirit of the procedural statutes. 
 
 ## Provenance & change history
 

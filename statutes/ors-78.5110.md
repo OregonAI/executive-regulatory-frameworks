@@ -58,7 +58,7 @@ ORS 78.5110 — Priority among security interests and entitlement holders. Chapt
 
 (2) A claim of a creditor of a securities intermediary who has a security interest in a financial asset held by a securities intermediary has priority over claims of the securities intermediary’s entitlement holders who have security entitlements with respect to that financial asset if the creditor has control over the financial asset.
 
-(3) If a clearing corporation does not have sufficient financial assets to satisfy both its obligations to entitlement holders who have security entitlements with respect to a financial asset and its obligation to a creditor of the clearing corporation who has a security interest in that financial asset, the claim of the creditor has priority over the claims of entitlement holders. [1995 c.328 §51] _______________
+(3) If a clearing corporation does not have sufficient financial assets to satisfy both its obligations to entitlement holders who have security entitlements with respect to a financial asset and its obligation to a creditor of the clearing corporation who has a security interest in that financial asset, the claim of the creditor has priority over the claims of entitlement holders. [1995 c.328 §51] 
 
 ## Provenance & change history
 

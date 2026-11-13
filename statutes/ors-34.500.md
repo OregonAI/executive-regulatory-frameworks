@@ -48,7 +48,7 @@ ORS 34.500 — When return must be made. Chapter 34 (Writs), 2025 Edition.
 
 ## Full text
 
-34.500 When return must be made. If the writ is returnable at a certain time, the return shall be made at the time and place specified therein; if it is returnable forthwith, and the place of return is within 20 miles of the place of service, the return must be made within 24 hours, and the same time is allowed for every additional 20 miles. 34.510 [Repealed by 1991 c.884 §10] 
+34.500 When return must be made. If the writ is returnable at a certain time, the return shall be made at the time and place specified therein; if it is returnable forthwith, and the place of return is within 20 miles of the place of service, the return must be made within 24 hours, and the same time is allowed for every additional 20 miles. 
 
 ## Provenance & change history
 

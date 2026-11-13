@@ -61,7 +61,7 @@ ORS 285C.190 — Requirements for qualifying reconditioned, refurbished, retrofi
 
 (3) ORS 285C.175 (4)(a) to (c) does not apply to qualified property described in subsection
 
-(1) of this section. [Formerly 285B.714] 285C.195 [2003 c.662 §38a; repealed by 2015 c.648 §25] (Firm and Employment Qualifications) 
+(1) of this section. [Formerly 285B.714] 
 
 ## Provenance & change history
 

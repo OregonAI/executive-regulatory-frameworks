@@ -64,7 +64,7 @@ ORS 94.604 — Transitional advisory committee. Chapter 94 (Real Property Develo
 
 (2) of this section, the declarant shall have no further obligation to form the committee.
 
-(5) The requirement for a transitional advisory committee shall not apply once the turnover meeting called under ORS 94.609 has been held. [1981 c.782 §64; 1999 c.677 §9; 2003 c.569 §9] 94.605 [Amended by 1965 c.619 §31; repealed by 1971 c.478 §1] 
+(5) The requirement for a transitional advisory committee shall not apply once the turnover meeting called under ORS 94.609 has been held. [1981 c.782 §64; 1999 c.677 §9; 2003 c.569 §9] 
 
 ## Provenance & change history
 

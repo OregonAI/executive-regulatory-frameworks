@@ -48,7 +48,7 @@ ORS 41.415 — Photograph of victim in prosecution for criminal homicide. Chapte
 
 ## Full text
 
-41.415 Photograph of victim in prosecution for criminal homicide. In a prosecution for any criminal homicide, a photograph of the victim while alive shall be admissible evidence when offered by the district attorney to show the general appearance and condition of the victim while alive. [1987 c.2 §8] 41.420 [Repealed by 1981 c.892 §98] 41.430 [Repealed by 1981 c.892 §98] 41.440 [Repealed by 1981 c.892 §98] 41.450 [Repealed by 1981 c.892 §98] 41.460 [Repealed by 1981 c.892 §98] 41.470 [Repealed by 1981 c.892 §98] 41.480 [Repealed by 1981 c.892 §98] 
+41.415 Photograph of victim in prosecution for criminal homicide. In a prosecution for any criminal homicide, a photograph of the victim while alive shall be admissible evidence when offered by the district attorney to show the general appearance and condition of the victim while alive. [1987 c.2 §8] 
 
 ## Provenance & change history
 

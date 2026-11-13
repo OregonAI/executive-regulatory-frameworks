@@ -48,7 +48,7 @@ ORS 708A.995 — Criminal penalties. Chapter 708A (Chapter 708A), 2025 Edition.
 
 ## Full text
 
-708A.995 Criminal penalties. Violation knowingly of any of the provisions of ORS 708A.635 is a Class C felony. [1997 c.631 §202] _______________
+708A.995 Criminal penalties. Violation knowingly of any of the provisions of ORS 708A.635 is a Class C felony. [1997 c.631 §202] 
 
 ## Provenance & change history
 

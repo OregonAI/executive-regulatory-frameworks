@@ -60,7 +60,7 @@ ORS 18.228 — Satisfaction of support awards payable to Department of Justice. 
 
 (3) If a support award has been assigned to this state, the Department of Justice may satisfy the support award to the extent of the assignment. The department may credit the amounts reflected in the satisfaction document to the support award pay records maintained by the department and file the satisfaction document with the court administrator for the court in which the money award was entered, together with a certificate from the department stating the amounts reflected as paid in the support award pay records. The court administrator shall note in the register and in the judgment lien record the amount of satisfaction shown on the certificate, and not the amount shown on the satisfaction document.
 
-(4) Unless a judgment requires that payments under a support award be paid to the Department of Justice or child support services are provided pursuant to ORS 25.080, all satisfaction documents for a support award must be filed with the court administrator. [2003 c.576 §26; 2007 c.339 §9; 2025 c.99 §46] 18.230 [Amended by 1967 c.466 §1; 1975 c.134 §1; repealed by 1979 c.284 §199] 
+(4) Unless a judgment requires that payments under a support award be paid to the Department of Justice or child support services are provided pursuant to ORS 25.080, all satisfaction documents for a support award must be filed with the court administrator. [2003 c.576 §26; 2007 c.339 §9; 2025 c.99 §46] 
 
 ## Provenance & change history
 

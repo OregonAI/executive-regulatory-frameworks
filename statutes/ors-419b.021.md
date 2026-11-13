@@ -57,7 +57,7 @@ ORS 419B.021 — Degree requirements for persons conducting investigation or mak
 
 (2) Subsection
 
-(1) of this section does not apply to a law enforcement official as defined in ORS 147.005. [2011 c.431 §1; 2019 c.153 §1; 2019 c.594 §6a; 2019 c.631 §3] Note: 419B.021 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 419B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 419B.022 [2007 c.674 §1; 2019 c.555 §7; renumbered 418.804 in 2019] 
+(1) of this section does not apply to a law enforcement official as defined in ORS 147.005. [2011 c.431 §1; 2019 c.153 §1; 2019 c.594 §6a; 2019 c.631 §3] Note: 419B.021 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 419B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

@@ -56,7 +56,7 @@ ORS 60.137 — Issued and outstanding shares. Chapter 60 (Private Corporations),
 
 (3) of this section and ORS 60.177 and 60.181.
 
-(3) At all times that shares of the corporation are outstanding, one or more shares that together have unlimited voting rights and one or more shares that together are entitled to receive the net assets of the corporation upon dissolution must be outstanding. [1987 c.52 §35] 60.140 [Repealed by 1953 c.549 §138] 
+(3) At all times that shares of the corporation are outstanding, one or more shares that together have unlimited voting rights and one or more shares that together are entitled to receive the net assets of the corporation upon dissolution must be outstanding. [1987 c.52 §35] 
 
 ## Provenance & change history
 

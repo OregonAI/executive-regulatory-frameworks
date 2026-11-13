@@ -48,7 +48,7 @@ ORS 56.006 — “Office” defined. Chapter 56 (Duties of Secretary of State), 
 
 ## Full text
 
-56.006 “Office” defined. “Office,” when used in this chapter to refer to the administrative unit directed by the Secretary of State, means the Office of Secretary of State. [1987 c.414 §53] 56.010 [Repealed by 1963 c.580 §103] 56.012 [1963 c.580 §§11,12; repealed by 1987 c.414 §172] 
+56.006 “Office” defined. “Office,” when used in this chapter to refer to the administrative unit directed by the Secretary of State, means the Office of Secretary of State. [1987 c.414 §53] 
 
 ## Provenance & change history
 

@@ -54,7 +54,7 @@ ORS 419B.223 — Duties and tenure of surrogate. Chapter 419B (Chapter 419B), 20
 
 (2) The ward is determined to be no longer eligible for special education; or
 
-(3) The juvenile court terminates wardship and determines that the child’s parent or guardian is both known and available to protect the special educational rights of the child. [1993 c.33 §78; 2003 c.396 §52] 419B.230 [1993 c.33 §85; 1993 c.546 §39; repealed by 2001 c.622 §57] (Guardian Ad Litem for Parent) 
+(3) The juvenile court terminates wardship and determines that the child’s parent or guardian is both known and available to protect the special educational rights of the child. [1993 c.33 §78; 2003 c.396 §52] 
 
 ## Provenance & change history
 

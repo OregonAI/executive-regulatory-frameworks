@@ -52,7 +52,7 @@ ORS 86.774 — Service and publication of notice; recording proof of compliance.
 
 (3) At or before the time the trustee conducts the sale, the trustee shall file for recording in the official record of the county or counties in which the property described in the deed is situated the following affidavits with respect to the notice of sale: (a) An affidavit of mailing, if any; (b) An affidavit of service, if any; (c) An affidavit of service attempts and posting, if any; and (d) An affidavit of publication.
 
-(4) At or before the time the trustee conducts the sale, the trustee shall file for recording in the official record of the county or counties in which the property described in the deed is situated an affidavit of mailing with respect to the notice to the grantor required under ORS 86.756. [Formerly 86.750; 2014 c.36 §3] 86.775 [1959 c.625 §14; renumbered 86.800 in 2013] 
+(4) At or before the time the trustee conducts the sale, the trustee shall file for recording in the official record of the county or counties in which the property described in the deed is situated an affidavit of mailing with respect to the notice to the grantor required under ORS 86.756. [Formerly 86.750; 2014 c.36 §3] 
 
 ## Provenance & change history
 

@@ -76,7 +76,7 @@ ORS 419C.680 — Curfew; parental responsibility; authority of political subdivi
 
 (1) of this section or an ordinance established under subsection
 
-(4) of this section may be taken into custody as provided in ORS 419C.080, 419C.085 and 419C.088 and may be subjected to further proceedings as provided in this chapter. [1993 c.33 §271; 1993 c.546 §140; 1995 c.593 §2; 1997 c.727 §9] _______________
+(4) of this section may be taken into custody as provided in ORS 419C.080, 419C.085 and 419C.088 and may be subjected to further proceedings as provided in this chapter. [1993 c.33 §271; 1993 c.546 §140; 1995 c.593 §2; 1997 c.727 §9] 
 
 ## Provenance & change history
 

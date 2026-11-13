@@ -54,7 +54,7 @@ ORS 40.585 — Rule 1008. Functions of court and jury. Chapter 40 (Evidence Code
 
 (2) Whether another writing, recording or photograph produced at the trial is the original; or
 
-(3) Whether the other evidence of contents correctly reflects the contents. [1981 c.892 §78] _______________
+(3) Whether the other evidence of contents correctly reflects the contents. [1981 c.892 §78] 
 
 ## Provenance & change history
 

@@ -62,7 +62,7 @@ ORS 285C.420 — Disqualification; exception; additional taxes. Chapter 285C (Ch
 
 (3) Upon disqualification, there shall be added to the tax extended against the property on the next general property tax roll, to be collected and distributed in the same manner as the remainder of ad valorem property taxes, an amount equal to the taxes that would otherwise have been assessed against the property and improvements for each of the tax years for which the property was exempt under ORS 285C.409.
 
-(4) The additional taxes described in this section shall be deemed assessed and imposed in the year to which the additional taxes relate. [Formerly 285B.793; 2025 c.565 §8] 285C.450 [Formerly 285B.825; 2005 c.119 §2; renumbered 307.841 in 2005] 285C.453 [Formerly 285B.827; 2005 c.119 §3; renumbered 307.844 in 2005] 285C.456 [Formerly 285B.830; 2005 c.119 §4; renumbered 307.847 in 2005] 285C.459 [Formerly 285B.833; 2005 c.119 §5; renumbered 307.851 in 2005] 285C.462 [Formerly 285B.848; 2005 c.119 §6; renumbered 307.854 in 2005] 285C.465 [Formerly 285B.839; 2005 c.119 §7; renumbered 307.857 in 2005] 285C.468 [Formerly 285B.842; 2005 c.119 §8; renumbered 307.861 in 2005] 285C.471 [Formerly 285B.845; 2005 c.119 §9; renumbered 307.864 in 2005] 285C.480 [Formerly 285B.836; 2005 c.119 §10; renumbered 307.867 in 2005]
+(4) The additional taxes described in this section shall be deemed assessed and imposed in the year to which the additional taxes relate. [Formerly 285B.793; 2025 c.565 §8] 
 
 ## Provenance & change history
 

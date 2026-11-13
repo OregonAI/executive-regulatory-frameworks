@@ -48,7 +48,7 @@ ORS 8.720 — Receiving private fee in criminal action; acting as attorney in ci
 
 ## Full text
 
-8.720 Receiving private fee in criminal action; acting as attorney in civil action involving same controversy. A district attorney shall not receive any fee or reward from any private person for services in any criminal action, nor during the pendency of such prosecution can the district attorney act as attorney for either party in any civil action, suit or proceeding involving substantially the same controversy. 8.725 [1957 c.645 §2; 1959 c.539 §1; 1961 c.586 §3; repealed by 1965 c.633 §4] 
+8.720 Receiving private fee in criminal action; acting as attorney in civil action involving same controversy. A district attorney shall not receive any fee or reward from any private person for services in any criminal action, nor during the pendency of such prosecution can the district attorney act as attorney for either party in any civil action, suit or proceeding involving substantially the same controversy. 
 
 ## Provenance & change history
 

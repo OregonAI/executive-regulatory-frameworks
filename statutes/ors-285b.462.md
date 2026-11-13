@@ -54,7 +54,7 @@ ORS 285B.462 — Funding and assistance for emergency projects. Chapter 285B (Ch
 
 (2) The authority may award grant funding to an emergency project only if federal disaster relief assistance has been committed for the emergency project.
 
-(3) Assistance from the Special Public Works Fund for an emergency project may not exceed the total local matching funds requirement for the federal disaster relief assistance committed to the project. [2005 c.835 §9; 2009 c.11 §35; 2009 c.830 §104; 2017 c.398 §2] 285B.464 [Formerly 285.753; 2003 c.773 §44; repealed by 2005 c.835 §37] 
+(3) Assistance from the Special Public Works Fund for an emergency project may not exceed the total local matching funds requirement for the federal disaster relief assistance committed to the project. [2005 c.835 §9; 2009 c.11 §35; 2009 c.830 §104; 2017 c.398 §2] 
 
 ## Provenance & change history
 

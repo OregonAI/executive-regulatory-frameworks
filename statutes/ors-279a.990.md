@@ -55,7 +55,7 @@ ORS 279A.990 — Penalties. Chapter 279A (Public Contracting - General Provision
 
 (2) Any contractor, subcontractor, agent or person in authority or in charge who violates any provision of ORS 279C.520 or 279C.540 as to hours of labor commits a Class A misdemeanor.
 
-(3) Any contractor or subcontractor subject to ORS 279C.840 who fails to pay the prevailing rate of wage as required by ORS 279C.840 commits a Class B misdemeanor. [2003 c.794 §46; 2011 c.597 §176] _______________
+(3) Any contractor or subcontractor subject to ORS 279C.840 who fails to pay the prevailing rate of wage as required by ORS 279C.840 commits a Class B misdemeanor. [2003 c.794 §46; 2011 c.597 §176] 
 
 ## Provenance & change history
 

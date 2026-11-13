@@ -48,7 +48,7 @@ ORS 87.811 — Certification of tax lien notices. Chapter 87 (Statutory Liens), 
 
 ## Full text
 
-87.811 Certification of tax lien notices. Certification of notices of liens, certificates, or other notices affecting federal liens by the Secretary of the Treasury of the United States or the delegate of the secretary, or by any official or entity of the United States responsible for filing or certifying of notice of any other lien, entitles them to be filed and no other attestation, certification or acknowledgment is necessary. [1967 c.445 §3; 1981 c.852 §3] 87.815 [Repealed by 1967 c.445 §1] 
+87.811 Certification of tax lien notices. Certification of notices of liens, certificates, or other notices affecting federal liens by the Secretary of the Treasury of the United States or the delegate of the secretary, or by any official or entity of the United States responsible for filing or certifying of notice of any other lien, entitles them to be filed and no other attestation, certification or acknowledgment is necessary. [1967 c.445 §3; 1981 c.852 §3] 
 
 ## Provenance & change history
 

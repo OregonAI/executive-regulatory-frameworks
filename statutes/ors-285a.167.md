@@ -74,7 +74,7 @@ ORS 285A.167 — Broadband Fund; use of moneys; authority to contract. Chapter 2
 
 (1) Sections 5 and 6, chapter 17, Oregon Laws 2020 (first special session), are repealed on January 2, 2030.
 
-(2) Any moneys in the Broadband Fund established under section 4, chapter 17, Oregon Laws 2020 (first special session) [285A.167], that are from the universal service fund established under ORS 759.425 and that are unexpended and unobligated on January 2, 2030, revert to the universal service fund established under ORS 759.425. [2020 s.s.1 c.17 §9; 2023 c.338 §6] 285A.168 [1997 c.495 §8; 2001 c.582 §6; renumbered 284.622 in 2007] 285A.170 [2001 c.918 §11; renumbered 284.625 in 2007] 285A.171 [Formerly 184.007; 2001 c.582 §7; repealed by 2005 c.837 §21] 
+(2) Any moneys in the Broadband Fund established under section 4, chapter 17, Oregon Laws 2020 (first special session) [285A.167], that are from the universal service fund established under ORS 759.425 and that are unexpended and unobligated on January 2, 2030, revert to the universal service fund established under ORS 759.425. [2020 s.s.1 c.17 §9; 2023 c.338 §6] 
 
 ## Provenance & change history
 

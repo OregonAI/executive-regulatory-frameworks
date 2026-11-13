@@ -52,7 +52,7 @@ ORS 657B.110 — Continuous jurisdiction of director; reconsideration of previou
 
 (1) The Director of the Employment Department, upon motion of the director or upon application of a covered individual, may at any time reconsider any final decision under this chapter. Reconsideration may occur when there is evidence of: (a) Errors of computation; (b) Clerical errors; (c) Misinformation provided to a party by the Employment Department; (d) Facts not previously known to the director; or (e) Errors caused by misapplication of law by the department.
 
-(2) Reconsideration of a final decision shall be made in accordance with such regulations as the director may prescribe, and may include the making of a new decision which, if made, shall award, deny, terminate, continue, increase or decrease benefits to the extent found necessary and appropriate for the correction of a previous error respecting such benefits. Any new decision made under this subsection shall be subject to review as provided in ORS 657B.410. [2019 c.700 §14] 657B.120 [2019 c.700 §15; 2023 c.120 §9; renumbered 657B.332 in 2023]
+(2) Reconsideration of a final decision shall be made in accordance with such regulations as the director may prescribe, and may include the making of a new decision which, if made, shall award, deny, terminate, continue, increase or decrease benefits to the extent found necessary and appropriate for the correction of a previous error respecting such benefits. Any new decision made under this subsection shall be subject to review as provided in ORS 657B.410. [2019 c.700 §14] 
 
 ## Provenance & change history
 

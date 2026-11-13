@@ -48,7 +48,7 @@ ORS 9.529 — Status of proceedings relating to discipline, admission or reinsta
 
 ## Full text
 
-9.529 Status of proceedings relating to discipline, admission or reinstatement. Bar proceedings relating to discipline, admission and reinstatement are neither civil nor criminal in nature. They are sui generis and within the inherent power of the Supreme Court to control. The grounds for denying any applicant admission or reinstatement or for the discipline of licensees set forth in ORS 9.005 to 9.757 are not intended to limit or alter the inherent power of the Supreme Court to deny any applicant admission or reinstatement to the bar or to discipline a licensee of the bar. [1983 c.618 §3; 1997 c.249 §9; 2023 c.72 §10; 2025 c.32 §30] 9.530 [Repealed by 1965 c.353 §2] 
+9.529 Status of proceedings relating to discipline, admission or reinstatement. Bar proceedings relating to discipline, admission and reinstatement are neither civil nor criminal in nature. They are sui generis and within the inherent power of the Supreme Court to control. The grounds for denying any applicant admission or reinstatement or for the discipline of licensees set forth in ORS 9.005 to 9.757 are not intended to limit or alter the inherent power of the Supreme Court to deny any applicant admission or reinstatement to the bar or to discipline a licensee of the bar. [1983 c.618 §3; 1997 c.249 §9; 2023 c.72 §10; 2025 c.32 §30] 
 
 ## Provenance & change history
 

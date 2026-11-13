@@ -54,7 +54,7 @@ ORS 86.744 — Foreclosure Avoidance Fund. Chapter 86 (Mortgages; Trust Deeds), 
 
 (2) The Attorney General may receive moneys for the purposes set forth in subsection
 
-(1) of this section from any public or private source. [2012 c.112 §4; 2013 c.304 §8] 86.745 [1959 c.625 §7; 1961 c.616 §4; 1965 c.457 §4; 1983 c.719 §5; 1985 c.817 §3; 2003 c.251 §4; 2009 c.510 §2; 2010 c.28 §§1,2; 2011 c.510 §§1,6; renumbered 86.771 in 2013] 
+(1) of this section from any public or private source. [2012 c.112 §4; 2013 c.304 §8] 
 
 ## Provenance & change history
 

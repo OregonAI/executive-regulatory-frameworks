@@ -54,7 +54,7 @@ ORS 285B.344 — Issuance of bonds. Chapter 285B (Chapter 285B), 2025 Edition.
 
 (2) The department or the State Treasurer may appoint bond counsel as prescribed under ORS 286A.130.
 
-(3) Any escrow agent, bond registrar, paying agent or trustee, if any, designated to carry out all or part of the powers specified in ORS 285B.335 must agree to furnish financial statements and audit reports for each bond issue. [Formerly 285.350; 1999 c.509 §36; 2001 c.536 §1; 2003 c.167 §13; 2003 c.794 §240; 2007 c.783 §99; 2009 c.830 §90; 2012 c.59 §3] 285B.347 [Formerly 285.355; 1999 c.509 §37; repealed by 2007 c.783 §234] 
+(3) Any escrow agent, bond registrar, paying agent or trustee, if any, designated to carry out all or part of the powers specified in ORS 285B.335 must agree to furnish financial statements and audit reports for each bond issue. [Formerly 285.350; 1999 c.509 §36; 2001 c.536 §1; 2003 c.167 §13; 2003 c.794 §240; 2007 c.783 §99; 2009 c.830 §90; 2012 c.59 §3] 
 
 ## Provenance & change history
 

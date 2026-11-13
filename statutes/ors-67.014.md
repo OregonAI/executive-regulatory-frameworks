@@ -46,7 +46,7 @@ ORS 67.014 — Filing, service, copying and certification fees. Chapter 67 (Part
 
 ## Full text
 
-67.014 Filing, service, copying and certification fees. The Secretary of State shall collect the fees described in ORS 56.140 for each document delivered for filing under this chapter and for process served on the secretary under this chapter. The secretary may collect the fees described in ORS 56.140 for copying any public record under this chapter, certifying the copy or certifying to other facts of record under this chapter. [Formerly 67.525] 67.015 [1997 c.775 §3; renumbered 67.042 in 2013] 
+67.014 Filing, service, copying and certification fees. The Secretary of State shall collect the fees described in ORS 56.140 for each document delivered for filing under this chapter and for process served on the secretary under this chapter. The secretary may collect the fees described in ORS 56.140 for copying any public record under this chapter, certifying the copy or certifying to other facts of record under this chapter. [Formerly 67.525] 
 
 ## Provenance & change history
 

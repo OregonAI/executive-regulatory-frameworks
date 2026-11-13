@@ -60,7 +60,7 @@ ORS 60.121 — Service on corporation. Chapter 60 (Private Corporations), 2025 E
 
 (5) After completion of initial service upon the Secretary of State, no additional documents need be served upon the Secretary of State to maintain jurisdiction in the same proceeding or to give notice of any motion or provisional process.
 
-(6) Nothing contained in this section shall limit or affect the right to serve any process, notice or demand required or permitted by law to be served upon a corporation in any other manner now or hereafter permitted by law, or enlarge the purposes for which service on the Secretary of State is permitted where such purposes are limited by other provisions of law. [1987 c.52 §32; 2007 c.71 §16] 60.130 [Repealed by 1953 c.549 §138]
+(6) Nothing contained in this section shall limit or affect the right to serve any process, notice or demand required or permitted by law to be served upon a corporation in any other manner now or hereafter permitted by law, or enlarge the purposes for which service on the Secretary of State is permitted where such purposes are limited by other provisions of law. [1987 c.52 §32; 2007 c.71 §16] 
 
 ## Provenance & change history
 

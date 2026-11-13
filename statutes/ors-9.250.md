@@ -54,7 +54,7 @@ ORS 9.250 — Order for admission; oath of qualified applicant. Chapter 9 (Orego
 
 (2) of this section.
 
-(2) The applicant shall execute a written oath that in the practice of law the applicant will support the Constitution and laws of the United States and of this state, and be of faithful and honest demeanor in office. The applicant is entitled to practice as a licensee after the State Court Administrator has received the oath executed under this subsection. [Amended by 1973 c.827 §3; 1981 c.193 §8; 1989 c.1052 §6; 1991 c.726 §4; 1997 c.388 §3; 2023 c.72 §6; 2025 c.32 §24] 9.260 [Amended by 1953 c.604 §1; 1979 c.252 §21; repealed by 1989 c.1052 §7 (9.261 enacted in lieu of 9.260)] 
+(2) The applicant shall execute a written oath that in the practice of law the applicant will support the Constitution and laws of the United States and of this state, and be of faithful and honest demeanor in office. The applicant is entitled to practice as a licensee after the State Court Administrator has received the oath executed under this subsection. [Amended by 1973 c.827 §3; 1981 c.193 §8; 1989 c.1052 §6; 1991 c.726 §4; 1997 c.388 §3; 2023 c.72 §6; 2025 c.32 §24] 
 
 ## Provenance & change history
 

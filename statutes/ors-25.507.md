@@ -52,7 +52,7 @@ ORS 25.507 — Tribunals for establishment of parentage or for child support ord
 
 (1) Except as otherwise provided in subsection
 
-(2) of this section, the administrator may act as the tribunal described in ORS 110.504 in the establishment of parentage or of a child support order, or in the modification or enforcement of a child support order. (2)(a) When a hearing is requested pursuant to ORS 25.513, the tribunal is the Office of Administrative Hearings, except as provided in ORS 25.550. (b) When an order is appealed pursuant to ORS 25.513 (6), the tribunal is a circuit court. [Formerly 416.419; 2025 c.592 §93] 25.510 [1985 c.671 §21; 1993 c.798 §39; repealed by 1995 c.608 §46] 
+(2) of this section, the administrator may act as the tribunal described in ORS 110.504 in the establishment of parentage or of a child support order, or in the modification or enforcement of a child support order. (2)(a) When a hearing is requested pursuant to ORS 25.513, the tribunal is the Office of Administrative Hearings, except as provided in ORS 25.550. (b) When an order is appealed pursuant to ORS 25.513 (6), the tribunal is a circuit court. [Formerly 416.419; 2025 c.592 §93] 
 
 ## Provenance & change history
 

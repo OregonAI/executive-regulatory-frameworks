@@ -52,7 +52,7 @@ ORS 54.070 — Number of names on list; certifying and filing list. Chapter 54 (
 
 (2) Contain the first name, the surname and the place of residence of each person named therein.
 
-(3) Be certified by the justice of the peace and placed on file in the office of the justice. [Amended by 1975 c.233 §1; 1983 c.673 §15] 54.080 [Repealed by 1983 c.673 §26] 
+(3) Be certified by the justice of the peace and placed on file in the office of the justice. [Amended by 1975 c.233 §1; 1983 c.673 §15] 
 
 ## Provenance & change history
 

@@ -58,7 +58,7 @@ ORS 97.957 — Methods of making anatomical gift before death of donor. Chapter 
 
 (4) An anatomical gift made by will takes effect upon the donor’s death whether or not the will is probated. Invalidation of the will after the donor’s death does not invalidate the gift.
 
-(5) An anatomical gift made by a designation on the donor’s driver license or identification card is conclusively presumed valid. [2007 c.681 §4; 2009 c.106 §1] Note: See note under 97.951. 97.958 [1995 c.717 §5; 1997 c.472 §8; 1999 c.201 §4; 2005 c.505 §4; repealed by 2007 c.681 §31] 
+(5) An anatomical gift made by a designation on the donor’s driver license or identification card is conclusively presumed valid. [2007 c.681 §4; 2009 c.106 §1] Note: See note under 97.951. 
 
 ## Provenance & change history
 

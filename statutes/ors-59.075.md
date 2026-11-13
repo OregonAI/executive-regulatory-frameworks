@@ -60,7 +60,7 @@ ORS 59.075 — Registration by director; expiration; renewal; fee; rules. Chapte
 
 (4) Every renewal application and every renewal of a notice filing shall be accompanied by a fee computed in accordance with ORS 59.049 or ORS 59.065 (2), as applicable. The fee is not refundable.
 
-(5) If the director finds that no ground for suspension or revocation of the registration exists under ORS 59.105, the director shall renew the registration, subject to any conditions, limitations and restrictions imposed by the director. The renewed registration or notice filing shall expire one year after the date of expiration of the original registration, or effective date of the notice filing or last renewal thereof. The director may establish a different expiration date for purposes of coordination with any national registration or notice filing system. [1967 c.537 §9; 1985 c.349 §12; 1987 c.603 §5; 1997 c.772 §8] 59.078 [1973 c.366 §8; repealed by 1987 c.603 §30] 
+(5) If the director finds that no ground for suspension or revocation of the registration exists under ORS 59.105, the director shall renew the registration, subject to any conditions, limitations and restrictions imposed by the director. The renewed registration or notice filing shall expire one year after the date of expiration of the original registration, or effective date of the notice filing or last renewal thereof. The director may establish a different expiration date for purposes of coordination with any national registration or notice filing system. [1967 c.537 §9; 1985 c.349 §12; 1987 c.603 §5; 1997 c.772 §8] 
 
 ## Provenance & change history
 

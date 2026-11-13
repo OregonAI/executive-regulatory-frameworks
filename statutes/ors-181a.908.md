@@ -53,7 +53,7 @@ ORS 181A.908 — Training through Bureau of Labor and Industries. Chapter 181A (
 
 (1) Rules adopted under ORS 181A.900 shall require that a licensed private security entity provide professional training through the Bureau of Labor and Industries to private security providers employed or contracted by the private security entity on: (a) Preventing sexual assault and sexual harassment in the workplace; (b) Preventing discrimination in the workplace and promoting cultural competency; and (c) Educating the workforce regarding protection for employees who report a violation of a state or federal law, rule or regulation.
 
-(2) A private security entity shall provide the training as follows: (a) At least once during the year in which a private security entity license is first issued to a private security entity; (b) For new employees, within 90 days of the employee’s initial hiring date; and (c) At least once every two years after the renewal of a license. [2021 c.618 §4] 181A.910 [2019 c.152 §1; renumbered 181A.970 in 2021] 
+(2) A private security entity shall provide the training as follows: (a) At least once during the year in which a private security entity license is first issued to a private security entity; (b) For new employees, within 90 days of the employee’s initial hiring date; and (c) At least once every two years after the renewal of a license. [2021 c.618 §4] 
 
 ## Provenance & change history
 

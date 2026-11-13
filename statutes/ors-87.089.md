@@ -48,7 +48,7 @@ ORS 87.089 — Limitations on actions. Chapter 87 (Statutory Liens), 2025 Editio
 
 ## Full text
 
-87.089 Limitations on actions. The provisions of ORS 87.076, 87.083 and 87.088 do not create a cause of action and may not be asserted as a basis for a per se negligence action. [2009 c.513 §5] 87.090 [Repealed by 1975 c.648 §72] 87.091 [2003 c.778 §9; repealed by 2010 c.77 §9] 
+87.089 Limitations on actions. The provisions of ORS 87.076, 87.083 and 87.088 do not create a cause of action and may not be asserted as a basis for a per se negligence action. [2009 c.513 §5] 
 
 ## Provenance & change history
 

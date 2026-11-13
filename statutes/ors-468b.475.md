@@ -48,7 +48,7 @@ ORS 468B.475 — Legislative finding; need for evidence of financial assurance f
 
 ## Full text
 
-468B.475 Legislative finding; need for evidence of financial assurance for ships transporting oil. The Legislative Assembly finds that oil spills, hazardous material spills and other forms of incremental pollution present serious danger to the fragile marine environment of the state. Therefore, it is the intent of this section and ORS 468B.485 to establish financial assurance for ships that transport oil and other hazardous material in the waters of the state. [Formerly 468.823] 468B.480 [Formerly 468.825; repealed by 2001 c.688 §11] 
+468B.475 Legislative finding; need for evidence of financial assurance for ships transporting oil. The Legislative Assembly finds that oil spills, hazardous material spills and other forms of incremental pollution present serious danger to the fragile marine environment of the state. Therefore, it is the intent of this section and ORS 468B.485 to establish financial assurance for ships that transport oil and other hazardous material in the waters of the state. [Formerly 468.823] 
 
 ## Provenance & change history
 

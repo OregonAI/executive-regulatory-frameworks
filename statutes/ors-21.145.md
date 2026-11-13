@@ -56,7 +56,7 @@ ORS 21.145 — Simple proceeding filing fee. Chapter 21 (State Court Fees), 2025
 
 (3) Guardianship proceedings under ORS chapter 125.
 
-(4) Any other action or proceeding that is statutorily made subject to the fee established by this section. [2011 c.595 §13; 2013 c.685 §§31,31a; 2014 c.76 §5; 2017 c.663 §3; 2019 c.605 §2] 21.150 [Amended by 1963 c.519 §9; repealed by 1965 c.619 §39] 
+(4) Any other action or proceeding that is statutorily made subject to the fee established by this section. [2011 c.595 §13; 2013 c.685 §§31,31a; 2014 c.76 §5; 2017 c.663 §3; 2019 c.605 §2] 
 
 ## Provenance & change history
 

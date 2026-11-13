@@ -54,7 +54,7 @@ ORS 87.542 — Priority of lien. Chapter 87 (Statutory Liens), 2025 Edition.
 
 (2) A lien created under ORS 87.503 is void as against any purchaser in good faith and for a valuable consideration of the same real property whose interest is recorded prior to the recording of the notice of lien under ORS 87.507.
 
-(3) ORS 93.645 shall apply to a lien created under ORS 87.503 as if the lien were a judgment lien. [1997 c.744 §5] Note: See note under 87.501. 87.545 [Repealed by 1975 c.648 §72] 87.550 [Repealed by 1957 c.684 §3 (87.551 enacted in lieu of 87.550)] 87.551 [1957 c.684 §4 (enacted in lieu of 87.550); repealed by 1975 c.648 §72]
+(3) ORS 93.645 shall apply to a lien created under ORS 87.503 as if the lien were a judgment lien. [1997 c.744 §5] Note: See note under 87.501. 
 
 ## Provenance & change history
 

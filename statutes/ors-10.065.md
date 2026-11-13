@@ -64,7 +64,7 @@ ORS 10.065 — Mileage fee and reimbursement of other expenses. Chapter 10 (Juri
 
 (2) to
 
-(4) of this section. [1957 c.676 §1; 1971 c.358 §2; 1981 c.509 §2; 1999 c.1085 §5; 2002 s.s.1 c.10 §4] 10.070 [Repealed by 1957 c.676 §2] 
+(4) of this section. [1957 c.676 §1; 1971 c.358 §2; 1981 c.509 §2; 1999 c.1085 §5; 2002 s.s.1 c.10 §4] 
 
 ## Provenance & change history
 

@@ -46,7 +46,7 @@ ORS 52.220 — Attachment proceedings conducted as in circuit court. Chapter 52 
 
 ## Full text
 
-52.220 Attachment proceedings conducted as in circuit court. The provisions for proceedings in the circuit courts on attachment and delivery of personal property shall govern in like cases in justice courts, except as otherwise provided. [Amended by 1981 c.898 §42] 52.230 [Repealed by 1981 c.898 §53] 52.240 [Repealed by 1981 c.898 §53] 
+52.220 Attachment proceedings conducted as in circuit court. The provisions for proceedings in the circuit courts on attachment and delivery of personal property shall govern in like cases in justice courts, except as otherwise provided. [Amended by 1981 c.898 §42] 
 
 ## Provenance & change history
 

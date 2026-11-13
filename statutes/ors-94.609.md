@@ -54,7 +54,7 @@ ORS 94.609 — Notice of meeting to turn over administrative responsibility. Cha
 
 (2) The declarant shall give notice of the meeting to each owner as provided in the bylaws.
 
-(3) If the declarant does not call a meeting under this section within the required time, the transitional advisory committee formed under ORS 94.604 or any owner may call a meeting and give notice as required in this section. [1981 c.782 §65; 1999 c.677 §10] 94.610 [Amended by 1965 c.619 §32; repealed by 1971 c.478 §1] 94.615 [Repealed by 1971 c.478 §1] 
+(3) If the declarant does not call a meeting under this section within the required time, the transitional advisory committee formed under ORS 94.604 or any owner may call a meeting and give notice as required in this section. [1981 c.782 §65; 1999 c.677 §10] 
 
 ## Provenance & change history
 

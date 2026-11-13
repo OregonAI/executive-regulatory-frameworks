@@ -68,7 +68,7 @@ ORS 419A.289 — Juvenile Justice Policy Commission; membership. Chapter 419A (C
 
 (2) Five shall serve for a term ending January 1, 2026.
 
-(3) Five shall serve for a term ending January 1, 2027. [2023 c.406 §2] 419A.290 [1993 c.33 §52; 1993 c.546 §114; repealed by 1995 c.422 §138] 
+(3) Five shall serve for a term ending January 1, 2027. [2023 c.406 §2] 
 
 ## Provenance & change history
 

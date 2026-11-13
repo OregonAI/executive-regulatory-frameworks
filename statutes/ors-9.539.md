@@ -48,7 +48,7 @@ ORS 9.539 — Application to admission and reinstatement proceedings. Chapter 9 
 
 ## Full text
 
-9.539 Application to admission and reinstatement proceedings. ORS 9.534 and 9.536 apply to admission and reinstatement proceedings to the extent provided in the rules of procedure and the rules of the Supreme Court. However, the Supreme Court shall review the decisions of the disciplinary board in all such matters. [1983 c.618 §8; 2025 c.32 §35] 9.540 [Amended by 1961 c.499 §5; 1971 c.193 §18; repealed by 1973 c.490 §1 (9.541 enacted in lieu of 9.540)] 9.541 [1973 c.490 §2 (enacted in lieu of 9.540); repealed by 1975 c.641 §13] 
+9.539 Application to admission and reinstatement proceedings. ORS 9.534 and 9.536 apply to admission and reinstatement proceedings to the extent provided in the rules of procedure and the rules of the Supreme Court. However, the Supreme Court shall review the decisions of the disciplinary board in all such matters. [1983 c.618 §8; 2025 c.32 §35] 
 
 ## Provenance & change history
 

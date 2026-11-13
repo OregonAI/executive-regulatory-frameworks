@@ -58,7 +58,7 @@ ORS 87.179 — Determination of adequacy of bond. Chapter 87 (Statutory Liens), 
 
 (4) and (5). The petition must describe in detail the reasons for the inadequacy.
 
-(2) Not later than two days after the filing of the petition with the court, the lien claimant shall send a notice of the filing and a copy of the petition by registered or certified mail to the person who filed the bond. After a hearing, if the court determines that the bond is inadequate for one or more of the reasons described by the lien claimant, the court shall order such action as shall make the bond adequate to protect the claim of lien. [2003 c.193 §6] Note: See note under 87.177. 87.180 [Repealed by 1975 c.648 §72] 
+(2) Not later than two days after the filing of the petition with the court, the lien claimant shall send a notice of the filing and a copy of the petition by registered or certified mail to the person who filed the bond. After a hearing, if the court determines that the bond is inadequate for one or more of the reasons described by the lien claimant, the court shall order such action as shall make the bond adequate to protect the claim of lien. [2003 c.193 §6] Note: See note under 87.177. 
 
 ## Provenance & change history
 

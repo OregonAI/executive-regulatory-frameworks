@@ -58,7 +58,7 @@ ORS 18.205 — Assignment of judgment. Chapter 18 (Judgments), 2025 Edition.
 
 (1) of this section and shall have the same effect as an assignment of judgment document signed by the judgment creditor.
 
-(4) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §24; 2007 c.339 §7; 2011 c.226 §1; 2015 c.7 §2; 2021 c.597 §39] 18.210 [Repealed by 1979 c.284 §199] 18.220 [Repealed by 1979 c.284 §199]
+(4) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §24; 2007 c.339 §7; 2011 c.226 §1; 2015 c.7 §2; 2021 c.597 §39] 
 
 ## Provenance & change history
 

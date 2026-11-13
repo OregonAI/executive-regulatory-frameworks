@@ -48,7 +48,7 @@ ORS 18.049 — Adjustments to money awards. Chapter 18 (Judgments), 2025 Edition
 
 ## Full text
 
-18.049 Adjustments to money awards. After entry of a judgment, the amount owing on the money award portion of a judgment shall be decreased by all payments made by or on behalf of the judgment debtor against the money award and shall be increased by interest accruing on the money award. In addition, the judgment creditor is entitled to recover the expenses specified in ORS 18.999 that are incurred by the judgment creditor in collecting on the judgment, in the manner provided by ORS 18.999. This section does not impose any duty on a court administrator to calculate the amount owing on the money award portion of a judgment. [2007 c.166 §5] 18.050 [Amended by 1959 c.638 §6; repealed by 1981 c.898 §53] 
+18.049 Adjustments to money awards. After entry of a judgment, the amount owing on the money award portion of a judgment shall be decreased by all payments made by or on behalf of the judgment debtor against the money award and shall be increased by interest accruing on the money award. In addition, the judgment creditor is entitled to recover the expenses specified in ORS 18.999 that are incurred by the judgment creditor in collecting on the judgment, in the manner provided by ORS 18.999. This section does not impose any duty on a court administrator to calculate the amount owing on the money award portion of a judgment. [2007 c.166 §5] 
 
 ## Provenance & change history
 

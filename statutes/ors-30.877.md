@@ -48,7 +48,7 @@ ORS 30.877 — Treble damages and costs in actions arising out of research and a
 
 ## Full text
 
-30.877 Treble damages and costs in actions arising out of research and animal interference and arising out of interference with livestock production. In any civil action arising out of conduct that would constitute a violation of ORS 167.312 or 167.388, the court shall award treble the amount of damages caused to real or personal property by the violation. In addition, in any civil action arising out of conduct that would constitute a violation of ORS 167.312, the court shall award the costs of repeating experiments, including but not limited to the costs of replacing records, data, equipment, specimens, labor and materials, if the conduct causes the failure of an experiment in progress or irreparable damage to completed research or experimentation. [2001 c.843 §1] 30.880 [1979 c.842 §5a; 1987 c.774 §148; 1987 c.915 §8; renumbered 278.322 in 2003] 
+30.877 Treble damages and costs in actions arising out of research and animal interference and arising out of interference with livestock production. In any civil action arising out of conduct that would constitute a violation of ORS 167.312 or 167.388, the court shall award treble the amount of damages caused to real or personal property by the violation. In addition, in any civil action arising out of conduct that would constitute a violation of ORS 167.312, the court shall award the costs of repeating experiments, including but not limited to the costs of replacing records, data, equipment, specimens, labor and materials, if the conduct causes the failure of an experiment in progress or irreparable damage to completed research or experimentation. [2001 c.843 §1] 
 
 ## Provenance & change history
 

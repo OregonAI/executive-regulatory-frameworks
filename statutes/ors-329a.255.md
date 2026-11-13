@@ -81,7 +81,7 @@ ORS 329A.255 — Preschool recorded program and school-age recorded program; cri
 
 (9) The Early Learning Council shall adopt any rules necessary to carry out the provisions of this section.
 
-(10) A person who violates any provision of this section or any term or condition of a record is subject to a civil penalty not to exceed $100. [Formerly 657A.255; 2019 c.187 §9; 2022 c.90 §3; 2023 c.554 §12] 329A.257 [Formerly 657A.257; 2019 c.187 §10; repealed by 2022 c.90 §10] 
+(10) A person who violates any provision of this section or any term or condition of a record is subject to a civil penalty not to exceed $100. [Formerly 657A.255; 2019 c.187 §9; 2022 c.90 §3; 2023 c.554 §12] 
 
 ## Provenance & change history
 

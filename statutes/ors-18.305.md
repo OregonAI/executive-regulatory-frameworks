@@ -48,7 +48,7 @@ ORS 18.305 — Property not exempt from execution for purchase price. Chapter 18
 
 ## Full text
 
-18.305 Property not exempt from execution for purchase price. No article of property, or if the same has been sold or exchanged, then neither the proceeds of such sale nor the articles received in exchange therefor, shall be exempt from execution issued on a judgment recovered for its price. [Formerly 23.220] 18.310 [Amended by 1967 c.471 §1; repealed by 1979 c.284 §199] 
+18.305 Property not exempt from execution for purchase price. No article of property, or if the same has been sold or exchanged, then neither the proceeds of such sale nor the articles received in exchange therefor, shall be exempt from execution issued on a judgment recovered for its price. [Formerly 23.220] 
 
 ## Provenance & change history
 

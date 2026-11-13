@@ -54,7 +54,7 @@ ORS 8.255 — Agreement between state and county to provide services with county
 
 (2) County employees providing services under an agreement shall be under the supervision and control of the trial court administrator appointed under ORS 8.195. County employees providing services under an agreement are not thereby state employees. County employees providing services under an agreement shall not engage in the private practice of law.
 
-(3) With the prior approval of the State Court Administrator, a trial court administrator appointed under ORS 8.195, on behalf of the state, and the governing body of a county, on behalf of the county, may enter into an agreement under this section in respect to services for a circuit court for the county served by the trial court administrator. [1981 s.s. c.3 §16; 1995 c.781 §20; 1997 c.801 §120] 8.260 [1953 c.34 §6; repealed by 1959 c.552 §16]
+(3) With the prior approval of the State Court Administrator, a trial court administrator appointed under ORS 8.195, on behalf of the state, and the governing body of a county, on behalf of the county, may enter into an agreement under this section in respect to services for a circuit court for the county served by the trial court administrator. [1981 s.s. c.3 §16; 1995 c.781 §20; 1997 c.801 §120] 
 
 ## Provenance & change history
 

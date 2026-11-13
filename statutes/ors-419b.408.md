@@ -52,7 +52,7 @@ ORS 419B.408 — Enforcement of support order. Chapter 419B (Chapter 419B), 2025
 
 (1) An order of support entered pursuant to ORS 419B.400 may be enforced by execution or in the manner provided by law for the enforcement of a judgment granting an equitable remedy or by an order to withhold pursuant to ORS 25.372 to 25.427.
 
-(2) No property of the child or ward’s parents, or either of them, or other person legally obligated to support the child or ward is exempt from levy and sale or other process to enforce collection of the amounts ordered by the court to be paid toward the support of the child or ward. [1993 c.33 §125; 1993 c.798 §31; 2003 c.396 §73] 419B.420 [1993 c.33 §126; repealed by 2001 c.622 §57] 419B.423 [1993 c.33 §127; 1993 c.546 §125; repealed by 2001 c.622 §57] 419B.426 [1993 c.33 §128; repealed by 2001 c.622 §57] (Reports by Guardians and Custodians) 
+(2) No property of the child or ward’s parents, or either of them, or other person legally obligated to support the child or ward is exempt from levy and sale or other process to enforce collection of the amounts ordered by the court to be paid toward the support of the child or ward. [1993 c.33 §125; 1993 c.798 §31; 2003 c.396 §73] 
 
 ## Provenance & change history
 

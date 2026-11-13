@@ -48,7 +48,7 @@ ORS 94.518 — Application of local government law and policies to agreement. Ch
 
 ## Full text
 
-94.518 Application of local government law and policies to agreement. Unless otherwise provided by the development agreement, the comprehensive plan, zoning ordinances and other rules and policies of the jurisdiction governing permitted uses of land, density and design applicable to the development of the property subject to a development agreement shall be the comprehensive plan and those ordinances, rules and policies of the jurisdiction in effect at the time of approval of the development agreement. [1993 c.780 §4] Note: See note under 94.504. 94.520 [Repealed by 1971 c.478 §1] 
+94.518 Application of local government law and policies to agreement. Unless otherwise provided by the development agreement, the comprehensive plan, zoning ordinances and other rules and policies of the jurisdiction governing permitted uses of land, density and design applicable to the development of the property subject to a development agreement shall be the comprehensive plan and those ordinances, rules and policies of the jurisdiction in effect at the time of approval of the development agreement. [1993 c.780 §4] Note: See note under 94.504. 
 
 ## Provenance & change history
 

@@ -54,7 +54,7 @@ ORS 1.480 — Officers; quorum; compensation and expenses. Chapter 1 (Courts and
 
 (2) A majority of the commission constitutes a quorum for the transaction of business. Every recommendation on matters relating to the removal of a judge to the Supreme Court must be concurred in by a majority of the members of the commission.
 
-(3) A member of the Commission on Judicial Fitness and Disability is entitled to compensation and expenses as provided in ORS 292.495. [1967 c.294 §§4,5; 1969 c.314 §2] 1.510 [Formerly 484.420; 1969 c.314 §3; 1971 c.404 §3; 1973 c.43 §1; 1973 c.374 §1; 1975 c.304 §2; 1979 c.477 §1; 1983 c.740 §3; repealed by 1985 c.725 §17] 1.520 [Formerly 484.410; 1971 c.404 §4; 1973 c.374 §2; 1977 c.132 §7; 1981 c.692 §4; 1981 s.s. c.3 §4; 1985 c.396 §5; 1985 c.725 §8a; 1993 c.531 §3; 1995 c.383 §120; 1995 c.545 §1a; 1995 c.781 §52; repealed by 1999 c.1051 §74]
+(3) A member of the Commission on Judicial Fitness and Disability is entitled to compensation and expenses as provided in ORS 292.495. [1967 c.294 §§4,5; 1969 c.314 §2] 
 
 ## Provenance & change history
 

@@ -67,7 +67,7 @@ ORS 98.812 — Towing of unlawfully parked vehicle; lien for towage, care and st
 
 (2) of this section may be foreclosed only in the manner provided by ORS 87.172
 
-(3) and 87.176 to 87.206 for foreclosure of liens arising or claimed under ORS 87.152. [1953 c.575 §2; 1977 c.634 §1; 1979 c.100 §4; 1981 c.861 §25; 1983 c.436 §4; 1993 c.385 §2; 2001 c.424 §1; 2007 c.538 §11; 2009 c.622 §1; 2017 c.480 §2; 2019 c.547 §1] 98.814 [1953 c.575 §4; 1965 c.343 §21; repealed by 1983 c.436 §15] 98.816 [1953 c.575 §5; 1965 c.343 §22; repealed by 1983 c.436 §15] 
+(3) and 87.176 to 87.206 for foreclosure of liens arising or claimed under ORS 87.152. [1953 c.575 §2; 1977 c.634 §1; 1979 c.100 §4; 1981 c.861 §25; 1983 c.436 §4; 1993 c.385 §2; 2001 c.424 §1; 2007 c.538 §11; 2009 c.622 §1; 2017 c.480 §2; 2019 c.547 §1] 
 
 ## Provenance & change history
 

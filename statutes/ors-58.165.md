@@ -48,7 +48,7 @@ ORS 58.165 — Fees collected by corporation; compensation to person rendering s
 
 ## Full text
 
-58.165 Fees collected by corporation; compensation to person rendering services. A professional corporation may charge and collect fees for professional service or services rendered through the corporation and may compensate those who rendered the service or services. [1969 c.592 §12; 1993 c.235 §8] 58.170 [Repealed by 1961 c.726 §427] 58.175 [1969 c.592 §14; repealed by 1993 c.235 §40] 58.176 [1993 c.235 §32; repealed by 1997 c.774 §31] 58.180 [Repealed by 1961 c.726 §427] 
+58.165 Fees collected by corporation; compensation to person rendering services. A professional corporation may charge and collect fees for professional service or services rendered through the corporation and may compensate those who rendered the service or services. [1969 c.592 §12; 1993 c.235 §8] 
 
 ## Provenance & change history
 

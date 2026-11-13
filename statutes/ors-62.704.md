@@ -52,7 +52,7 @@ ORS 62.704 — Judgment of dissolution issued by court. Chapter 62 (Cooperatives
 
 (1) If after a hearing the court determines that one or more grounds for judicial dissolution described in ORS 62.695 exist, it may enter a judgment dissolving the cooperative and specifying the effective date of the dissolution. The clerk of the court shall deliver a certified copy of the judgment to the office for filing. The Secretary of State shall file the certified copy of the judgment.
 
-(2) After entering the judgment of dissolution, the court shall direct the winding up and liquidation of the cooperative’s business and affairs in accordance with ORS 62.708 and the notification of claimants in accordance with ORS 62.712 and 62.714. [1995 c.195 §27; 2003 c.576 §326] 62.705 [1957 c.716 §59; repealed by 1974 c.2 §5] 
+(2) After entering the judgment of dissolution, the court shall direct the winding up and liquidation of the cooperative’s business and affairs in accordance with ORS 62.708 and the notification of claimants in accordance with ORS 62.712 and 62.714. [1995 c.195 §27; 2003 c.576 §326] 
 
 ## Provenance & change history
 

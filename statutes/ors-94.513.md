@@ -52,7 +52,7 @@ ORS 94.513 — Procedures on consideration and approval. Chapter 94 (Real Proper
 
 (1) A city or county may, by ordinance, establish procedures and requirements for the consideration of development agreements upon application by, or on behalf of, the owner of property on which development is sought or another person having a legal or equitable interest in that property.
 
-(2) Approval of a development agreement requires compliance with local regulations and the approval of the city or county governing body after notice and hearing. The notice of the hearing shall, in addition to any other requirements, state the time and place of the public hearing and contain a brief statement of the major terms of the proposed development agreement, including a description of the area within the city or county that will be affected by the proposed development agreement. [1993 c.780 §3] Note: See note under 94.504. 94.515 [Repealed by 1971 c.478 §1] 
+(2) Approval of a development agreement requires compliance with local regulations and the approval of the city or county governing body after notice and hearing. The notice of the hearing shall, in addition to any other requirements, state the time and place of the public hearing and contain a brief statement of the major terms of the proposed development agreement, including a description of the area within the city or county that will be affected by the proposed development agreement. [1993 c.780 §3] Note: See note under 94.504. 
 
 ## Provenance & change history
 

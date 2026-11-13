@@ -231,7 +231,7 @@ ORS 90.425 — Disposition of personal property abandoned by tenant; notice; sal
 
 (27) Until personal property is conclusively presumed to be abandoned under subsection
 
-(9) of this section, a landlord does not have a lien pursuant to ORS 87.152 for storing the personal property. [Formerly 91.840; 1993 c.18 §15; 1993 c.369 §14; 1995 c.559 §31; 1997 c.577 §25; 1999 c.603 §28; 2001 c.44 §1; 2001 c.445 §165; 2001 c.596 §35; 2003 c.378 §14; 2003 c.655 §57; 2003 c.658 §5; 2005 c.5 §1; 2005 c.391 §34; 2005 c.619 §§17,18; 2007 c.906 §31; 2009 c.431 §8; 2011 c.42 §8b; 2013 c.294 §12; 2017 c.480 §17; 2019 c.585 §17; 2019 c.678 §52; 2023 c.250 §4] 90.426 [1995 c.758 §3; repealed by 1997 c.577 §50] 
+(9) of this section, a landlord does not have a lien pursuant to ORS 87.152 for storing the personal property. [Formerly 91.840; 1993 c.18 §15; 1993 c.369 §14; 1995 c.559 §31; 1997 c.577 §25; 1999 c.603 §28; 2001 c.44 §1; 2001 c.445 §165; 2001 c.596 §35; 2003 c.378 §14; 2003 c.655 §57; 2003 c.658 §5; 2005 c.5 §1; 2005 c.391 §34; 2005 c.619 §§17,18; 2007 c.906 §31; 2009 c.431 §8; 2011 c.42 §8b; 2013 c.294 §12; 2017 c.480 §17; 2019 c.585 §17; 2019 c.678 §52; 2023 c.250 §4] 
 
 ## Provenance & change history
 

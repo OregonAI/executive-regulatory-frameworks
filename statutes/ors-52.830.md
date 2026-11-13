@@ -46,7 +46,7 @@ ORS 52.830 — Separate docket for small claims department. Chapter 52 (Civil Ac
 
 ## Full text
 
-52.830 Separate docket for small claims department. Each justice of the peace shall keep a separate docket for the small claims department of the court of the justice of the peace, in which the justice of the peace shall make a permanent record of all proceedings, orders and judgments had and made in the small claims department. [Formerly 55.140] _______________
+52.830 Separate docket for small claims department. Each justice of the peace shall keep a separate docket for the small claims department of the court of the justice of the peace, in which the justice of the peace shall make a permanent record of all proceedings, orders and judgments had and made in the small claims department. [Formerly 55.140] 
 
 ## Provenance & change history
 

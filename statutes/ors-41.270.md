@@ -52,7 +52,7 @@ ORS 41.270 — Proof of usage. Chapter 41 (Evidence Generally), 2025 Edition.
 
 (1) Usage shall be proved by the testimony of at least two witnesses.
 
-(2) Evidence may be given of usage to explain the true character of an act, contract or instrument when such true character is not otherwise plain, but usage is never admissible except as a means of interpretation. [Amended by 1981 c.892 §86] 41.280 [Repealed by 1981 c.892 §98] 41.310 [Repealed by 1981 c.892 §98] 41.315 [1987 c.774 §§1,2; repealed by 1995 c.688 §6] 41.320 [Repealed by 1981 c.892 §98] 41.330 [Repealed by 1981 c.892 §98] 41.340 [Repealed by 1981 c.892 §98] 41.350 [Amended by 1971 c.127 §1; repealed by 1981 c.892 §98] 41.360 [Amended by 1957 c.679 §1; 1961 c.726 §399; repealed by 1981 c.892 §98] 41.410 [Repealed by 1981 c.892 §98] 
+(2) Evidence may be given of usage to explain the true character of an act, contract or instrument when such true character is not otherwise plain, but usage is never admissible except as a means of interpretation. [Amended by 1981 c.892 §86] 
 
 ## Provenance & change history
 

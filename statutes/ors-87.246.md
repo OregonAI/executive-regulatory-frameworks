@@ -55,7 +55,7 @@ ORS 87.246 — Recording; fees. Chapter 87 (Statutory Liens), 2025 Edition.
 
 (2) Notices filed with the Secretary of State under ORS 87.242 shall: (a) Be in a form prescribed by the Secretary of State; and (b) Be maintained as public records for a period of time established by the Secretary of State.
 
-(3) Fees for filing notices and requests for copies of such notices shall be established by the Secretary of State under ORS 177.130. Fees described in this subsection shall be nonrefundable. [1975 c.648 §22; 1987 c.297 §2; 1999 c.464 §3] 87.250 [Repealed by 1975 c.648 §72] 
+(3) Fees for filing notices and requests for copies of such notices shall be established by the Secretary of State under ORS 177.130. Fees described in this subsection shall be nonrefundable. [1975 c.648 §22; 1987 c.297 §2; 1999 c.464 §3] 
 
 ## Provenance & change history
 

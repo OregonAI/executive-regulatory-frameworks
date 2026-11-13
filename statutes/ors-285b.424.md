@@ -62,7 +62,7 @@ ORS 285B.424 — Housing infrastructure financing program; rules. Chapter 285B (
 
 (7) In administering the program, the authority shall coordinate with: (a) The office; and (b) The Housing and Community Services Department with respect to its administering of the Housing Project Revolving Loan Fund under ORS 307.237.
 
-(8) The Oregon Business Development Department may adopt rules to implement this section. [2025 c.497 §2] Note: 285B.424 and 285B.426 were added to and made a part of 285B.410 to 285B.482 by legislative action but were not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 285B.425 [1997 c.800 §13; 2001 c.883 §30a; repealed by 2005 c.835 §37] 
+(8) The Oregon Business Development Department may adopt rules to implement this section. [2025 c.497 §2] Note: 285B.424 and 285B.426 were added to and made a part of 285B.410 to 285B.482 by legislative action but were not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

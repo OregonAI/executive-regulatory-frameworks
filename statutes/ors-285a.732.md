@@ -56,7 +56,7 @@ ORS 285A.732 — Short title. Chapter 285A (Chapter 285A), 2025 Edition.
 
 ## Full text
 
-285A.732 Short title. ORS 285A.666 to 285A.711 shall be known as the Oregon Port Revolving Fund Act. [Formerly 285.943] _______________
+285A.732 Short title. ORS 285A.666 to 285A.711 shall be known as the Oregon Port Revolving Fund Act. [Formerly 285.943] 
 
 ## Provenance & change history
 

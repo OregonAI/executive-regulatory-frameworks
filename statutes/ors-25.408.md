@@ -48,7 +48,7 @@ ORS 25.408 — Withholding is continuing obligation. Chapter 25 (Child Support S
 
 ## Full text
 
-25.408 Withholding is continuing obligation. The withholding required by the order is a continuing obligation. The notice and the withholding required by the order remain in effect and are binding upon the withholder until further notice from the court or the entity issuing the notice. [Formerly 25.359] 25.410 [1985 c.671 §13a; 1993 c.798 §27; 1993 c.800 §3; repealed by 1995 c.608 §46] 
+25.408 Withholding is continuing obligation. The withholding required by the order is a continuing obligation. The notice and the withholding required by the order remain in effect and are binding upon the withholder until further notice from the court or the entity issuing the notice. [Formerly 25.359] 
 
 ## Provenance & change history
 

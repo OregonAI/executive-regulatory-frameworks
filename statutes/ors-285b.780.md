@@ -65,7 +65,7 @@ ORS 285B.780 — Purpose. Chapter 285B (Chapter 285B), 2025 Edition.
 
 ## Full text
 
-285B.780 Purpose. It is the purpose of ORS 285B.780 to 285B.799 that the State of Oregon shall make awards to qualified lending institutions to fund lenders’ loan loss reserve accounts for the purpose of increasing lending to business owners and entrepreneurs who currently lack access to capital to start or grow their businesses. [2021 c.676 §1] Note: 285B.780 to 285B.799 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 285B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 285B.781 [1997 c.835 §36; 1999 c.1104 §10; 2001 c.292 §1; 2003 c.239 §1; renumbered 285C.400 in 2003] 285B.783 [1997 c.835 §37; 1999 c.1104 §11; 2001 c.292 §2; renumbered 285C.403 in 2003] 
+285B.780 Purpose. It is the purpose of ORS 285B.780 to 285B.799 that the State of Oregon shall make awards to qualified lending institutions to fund lenders’ loan loss reserve accounts for the purpose of increasing lending to business owners and entrepreneurs who currently lack access to capital to start or grow their businesses. [2021 c.676 §1] Note: 285B.780 to 285B.799 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 285B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

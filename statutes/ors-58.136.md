@@ -48,7 +48,7 @@ ORS 58.136 — Amended application for authority to transact business. Chapter 5
 
 ## Full text
 
-58.136 Amended application for authority to transact business. A foreign professional corporation shall file an amended application with the Office of Secretary of State anytime there is a change in the professional service or services to be rendered by the foreign professional corporation or in the business purpose as specified in the application under ORS 58.134, or as otherwise required by law. [1993 c.235 §31] 58.139 [1987 c.94 §22; repealed by 1993 c.235 §40] 58.140 [Repealed by 1961 c.726 §427] 
+58.136 Amended application for authority to transact business. A foreign professional corporation shall file an amended application with the Office of Secretary of State anytime there is a change in the professional service or services to be rendered by the foreign professional corporation or in the business purpose as specified in the application under ORS 58.134, or as otherwise required by law. [1993 c.235 §31] 
 
 ## Provenance & change history
 

@@ -61,7 +61,7 @@ ORS 431A.178 — Civil penalty for violation of ORS 431A.175, other law, rule or
 
 (3) Amounts collected under this section shall be deposited in the General Fund.
 
-(4) If a civil penalty is imposed under this section, a civil penalty may not be imposed for the commission of the same act under ORS 431A.216 or 431A.218. [Formerly 431.845; 2021 c.586 §15] 431A.180 [Formerly 431.850; repealed by 2021 c.586 §19] 
+(4) If a civil penalty is imposed under this section, a civil penalty may not be imposed for the commission of the same act under ORS 431A.216 or 431A.218. [Formerly 431.845; 2021 c.586 §15] 
 
 ## Provenance & change history
 

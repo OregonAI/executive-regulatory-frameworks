@@ -48,7 +48,7 @@ ORS 43.200 — Effect of judicial record of foreign admiralty court. Chapter 43 
 
 ## Full text
 
-43.200 Effect of judicial record of foreign admiralty court. The effect of a judicial record of a court of admiralty of a foreign country is the same as if it were the record of a court of admiralty of the United States. 43.210 [Repealed by 1981 c.892 §98] 
+43.200 Effect of judicial record of foreign admiralty court. The effect of a judicial record of a court of admiralty of a foreign country is the same as if it were the record of a court of admiralty of the United States. 
 
 ## Provenance & change history
 

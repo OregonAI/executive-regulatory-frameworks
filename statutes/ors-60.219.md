@@ -48,7 +48,7 @@ ORS 60.219 — Adjournment of meeting. Chapter 60 (Private Corporations), 2025 E
 
 ## Full text
 
-60.219 Adjournment of meeting. Unless otherwise provided in the articles of incorporation or bylaws, a majority of votes represented at a meeting of shareholders, whether or not a quorum, may adjourn the meeting from time to time to a different time and place without further notice to any shareholder of any adjournment, except as such notice may be required by ORS 60.214. At the adjourned meeting at which a quorum is present, any business may be transacted that might have been transacted at the meeting originally held. [1989 c.1040 §18] 60.220 [Repealed by 1953 c.549 §138] 
+60.219 Adjournment of meeting. Unless otherwise provided in the articles of incorporation or bylaws, a majority of votes represented at a meeting of shareholders, whether or not a quorum, may adjourn the meeting from time to time to a different time and place without further notice to any shareholder of any adjournment, except as such notice may be required by ORS 60.214. At the adjourned meeting at which a quorum is present, any business may be transacted that might have been transacted at the meeting originally held. [1989 c.1040 §18] 
 
 ## Provenance & change history
 

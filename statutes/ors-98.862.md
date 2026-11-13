@@ -56,7 +56,7 @@ ORS 98.862 — Exceptions to requirements of ORS 98.856. Chapter 98 (Lost, Uncla
 
 (3) The tower tows the motor vehicle under a prenegotiated payment agreement between the tower and a motor vehicle road service company or an insurance company.
 
-(4) The tower is hired or otherwise engaged by a business entity at the request of the owner or operator of the motor vehicle to tow the motor vehicle. [2007 c.538 §7] 98.864 [2007 c.538 §8; repealed by 2021 c.578 §14] 98.990 [Repealed by 1957 c.670 §37]
+(4) The tower is hired or otherwise engaged by a business entity at the request of the owner or operator of the motor vehicle to tow the motor vehicle. [2007 c.538 §7] 
 
 ## Provenance & change history
 

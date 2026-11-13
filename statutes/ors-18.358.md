@@ -58,7 +58,7 @@ ORS 18.358 — Certain retirement plans exempt from execution; exceptions. Chapt
 
 (3) Notwithstanding subsection
 
-(2) of this section: (a) A contribution to a retirement plan, other than a permitted contribution, shall be subject to ORS 95.200 to 95.310 concerning voidable transactions; and (b) Unless otherwise ordered by a court under ORS 25.387, 75 percent of a beneficiary’s interest in a retirement plan, or 50 percent of a lump sum retirement plan disbursement or withdrawal, shall be exempt from execution or other process arising out of a support obligation or an order or notice entered or issued under ORS chapter 25, 107, 108, 109, 110, 419B or 419C. [Formerly 23.170; 2011 c.317 §5; 2019 c.13 §3; 2023 c.83 §15; 2025 c.99 §48] 18.360 [Amended by 1983 c.405 §4; 1983 c.696 §32a; 1985 c.343 §3; 1987 c.586 §5; 1993 c.716 §1; 1993 c.763 §6; 1995 c.79 §5; 1997 c.801 §103; 1999 c.788 §22; repealed by 2003 c.576 §580] 
+(2) of this section: (a) A contribution to a retirement plan, other than a permitted contribution, shall be subject to ORS 95.200 to 95.310 concerning voidable transactions; and (b) Unless otherwise ordered by a court under ORS 25.387, 75 percent of a beneficiary’s interest in a retirement plan, or 50 percent of a lump sum retirement plan disbursement or withdrawal, shall be exempt from execution or other process arising out of a support obligation or an order or notice entered or issued under ORS chapter 25, 107, 108, 109, 110, 419B or 419C. [Formerly 23.170; 2011 c.317 §5; 2019 c.13 §3; 2023 c.83 §15; 2025 c.99 §48] 
 
 ## Provenance & change history
 

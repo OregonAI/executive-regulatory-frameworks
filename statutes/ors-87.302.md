@@ -48,7 +48,7 @@ ORS 87.302 — Authority of court on sustaining validity of lien claim. Chapter 
 
 ## Full text
 
-87.302 Authority of court on sustaining validity of lien claim. If the court on hearing on a show cause order issued under ORS 87.288 (1), finds that there is probable cause for sustaining the validity of the underlying claim of lien, the court may order foreclosure of the lien by advertisement and sale. [1975 c.648 §32] 87.305 [Repealed by 1975 c.648 §72] 
+87.302 Authority of court on sustaining validity of lien claim. If the court on hearing on a show cause order issued under ORS 87.288 (1), finds that there is probable cause for sustaining the validity of the underlying claim of lien, the court may order foreclosure of the lien by advertisement and sale. [1975 c.648 §32] 
 
 ## Provenance & change history
 

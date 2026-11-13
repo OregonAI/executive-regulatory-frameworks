@@ -52,7 +52,7 @@ ORS 56.018 — Power of Secretary of State in performing business registry funct
 
 (1) To organize and reorganize, as necessary, the Office of Secretary of State as the Secretary of State deems necessary to conduct and administer the business registry functions.
 
-(2) To appoint all subordinate officers and employees of the Secretary of State’s office and prescribe their duties and fix their compensation, subject to the applicable provisions of the State Personnel Relations Law. Subject to any other applicable law regulating travel expenses, the officers and employees of the office engaging in business registry functions shall be allowed such reasonable and necessary travel and other expenses as may be incurred in the performance of their duties. [1963 c.580 §13; 1987 c.414 §56; 1993 c.66 §2] 56.020 [Amended by 1961 c.280 §4; repealed by 1963 c.580 §103] 
+(2) To appoint all subordinate officers and employees of the Secretary of State’s office and prescribe their duties and fix their compensation, subject to the applicable provisions of the State Personnel Relations Law. Subject to any other applicable law regulating travel expenses, the officers and employees of the office engaging in business registry functions shall be allowed such reasonable and necessary travel and other expenses as may be incurred in the performance of their duties. [1963 c.580 §13; 1987 c.414 §56; 1993 c.66 §2] 
 
 ## Provenance & change history
 

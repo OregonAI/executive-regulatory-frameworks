@@ -50,7 +50,7 @@ ORS 25.556 — Expeditious court hearings. Chapter 25 (Child Support Services), 
 
 ## Full text
 
-25.556 Expeditious court hearings. The Supreme Court by administrative order shall provide, where necessary, for expeditious hearings on all matters referred to the circuit court pursuant to ORS 25.542 or 25.552. [Formerly 416.460] 25.575 [Formerly 416.480; 2021 c.489 §4; repealed by 2025 c.99 §78] 25.576 [Formerly 416.483; 2021 c.489 §5; repealed by 2025 c.99 §78] 25.577 [Formerly 416.486; 2021 c.489 §6; repealed by 2025 c.99 §78]
+25.556 Expeditious court hearings. The Supreme Court by administrative order shall provide, where necessary, for expeditious hearings on all matters referred to the circuit court pursuant to ORS 25.542 or 25.552. [Formerly 416.460] 
 
 ## Provenance & change history
 

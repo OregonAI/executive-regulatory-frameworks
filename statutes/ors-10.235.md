@@ -60,7 +60,7 @@ ORS 10.235 — Additional jurors; selection; notice. Chapter 10 (Juries), 2025 E
 
 (2) of this section.
 
-(4) If there is an immediate need for additional jurors, a judge of the circuit court for the county may direct the clerk of court, sheriff or other officer to summon a sufficient number of eligible persons to meet that need. Those persons shall be summoned as directed by the judge. [1985 c.703 §15; 1995 c.781 §26; 2013 c.2 §5] 10.240 [Amended by 1981 s.s. c.3 §49; repealed by 1985 c.703 §28] 
+(4) If there is an immediate need for additional jurors, a judge of the circuit court for the county may direct the clerk of court, sheriff or other officer to summon a sufficient number of eligible persons to meet that need. Those persons shall be summoned as directed by the judge. [1985 c.703 §15; 1995 c.781 §26; 2013 c.2 §5] 
 
 ## Provenance & change history
 

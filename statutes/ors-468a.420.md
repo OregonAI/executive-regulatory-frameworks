@@ -81,7 +81,7 @@ ORS 468A.420 — Oxygenated motor vehicle fuels; when required by rule. Chapter 
 
 (1) of this section shall require: (a) Oxygenated fuels to be used during any portion of the year during which the nonattainment area is prone to high ambient concentrations of carbon monoxide. (b) The use of oxygenated fuels in carbon monoxide nonattainment areas on or before November 1, 1992.
 
-(3) An oxygenated fuel shall contain 2.7 percent or more oxygen by weight. Methods to achieve this requirement may include but need not be limited to the use of ethanol blends. [1991 c.752 §13b] 468A.425 [1991 c.752 §14; repealed by 1995 c.79 §284] 468A.430 [1991 c.752 §14a; repealed by 1995 c.79 §284] 468A.435 [1991 c.752 §14b; repealed by 1995 c.79 §284] 468A.440 [1991 c.752 §14c; repealed by 1995 c.79 §284] 468A.445 [1991 c.752 §14d; repealed by 1995 c.79 §284] 468A.450 [1991 c.752 §14e; repealed by 1995 c.79 §284] 
+(3) An oxygenated fuel shall contain 2.7 percent or more oxygen by weight. Methods to achieve this requirement may include but need not be limited to the use of ethanol blends. [1991 c.752 §13b] 
 
 ## Provenance & change history
 

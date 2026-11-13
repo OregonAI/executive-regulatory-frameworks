@@ -64,7 +64,7 @@ ORS 83.990 — Penalties. Chapter 83 (Retail Installment Contracts), 2025 Editio
 
 (5) A person that violates a provision of ORS 83.710 to 83.750 engages in an unlawful practice under ORS 646.608. [1957 c.625 §27; 1961 c.725 §401; subsection
 
-(4) enacted as 1963 c.489 §17; 1999 c.1051 §148; 2011 c.597 §153; 2025 c.160 §1] _______________
+(4) enacted as 1963 c.489 §17; 1999 c.1051 §148; 2011 c.597 §153; 2025 c.160 §1] 
 
 ## Provenance & change history
 

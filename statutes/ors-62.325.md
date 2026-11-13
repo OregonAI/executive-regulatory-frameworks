@@ -48,7 +48,7 @@ ORS 62.325 — Voting requirements of articles. Chapter 62 (Cooperatives), 2025 
 
 ## Full text
 
-62.325 Voting requirements of articles. Whenever the articles require the vote of a greater proportion of the members or shareholders than required by this chapter, the articles shall control. [1957 c.716 §30] 62.330 [Repealed by 1957 c.716 §76] 
+62.325 Voting requirements of articles. Whenever the articles require the vote of a greater proportion of the members or shareholders than required by this chapter, the articles shall control. [1957 c.716 §30] 
 
 ## Provenance & change history
 

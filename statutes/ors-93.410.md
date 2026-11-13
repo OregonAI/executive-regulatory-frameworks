@@ -48,7 +48,7 @@ ORS 93.410 — Execution and acknowledgment of deeds. Chapter 93 (Conveyancing a
 
 ## Full text
 
-93.410 Execution and acknowledgment of deeds. Except as otherwise provided by law, deeds executed within this state, of lands or any interest in lands therein, shall be signed by the grantors and shall be acknowledged before any judge of the Supreme Court, circuit judge, county judge, justice of the peace or notary public within the state. No seal of the grantor, corporate or otherwise, shall be required on the deed. [Amended by 1965 c.502 §5; 1977 c.404 §1; 1999 c.654 §8] 93.415 [Repealed by 1977 c.404 §2 (194.500 to 194.580 enacted in lieu of 93.415)] 
+93.410 Execution and acknowledgment of deeds. Except as otherwise provided by law, deeds executed within this state, of lands or any interest in lands therein, shall be signed by the grantors and shall be acknowledged before any judge of the Supreme Court, circuit judge, county judge, justice of the peace or notary public within the state. No seal of the grantor, corporate or otherwise, shall be required on the deed. [Amended by 1965 c.502 §5; 1977 c.404 §1; 1999 c.654 §8] 
 
 ## Provenance & change history
 

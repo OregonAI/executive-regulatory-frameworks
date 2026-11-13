@@ -72,7 +72,7 @@ ORS 285A.093 — Board duties; rules. Chapter 285A (Chapter 285A), 2025 Edition.
 
 (5) Prepare and submit to the director suggested administrative rules that the board determines are necessary for the operation of the programs under the direction of the authority.
 
-(6) Establish policies and procedures for loan and grant programs administered by the authority, except for the seismic rehabilitation grant program administered under ORS 401.910. [2009 c.830 §2; 2011 c.48 §1; 2013 c.782 §3] 285A.095 [1997 c.535 §2; 2003 c.773 §1b; 2003 c.800 §8; repealed by 2007 c.804 §86] (Oregon Infrastructure Finance Authority) 
+(6) Establish policies and procedures for loan and grant programs administered by the authority, except for the seismic rehabilitation grant program administered under ORS 401.910. [2009 c.830 §2; 2011 c.48 §1; 2013 c.782 §3] 
 
 ## Provenance & change history
 

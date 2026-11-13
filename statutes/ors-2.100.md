@@ -46,7 +46,7 @@ ORS 2.100 — Quorum. Chapter 2 (Supreme Court; Court of Appeals), 2025 Edition.
 
 ## Full text
 
-2.100 Quorum. Subject to ORS 2.111, the presence of a majority of all the judges of the Supreme Court is necessary for the transaction of any business, except that less than a majority of the judges may meet and adjourn from day to day, or for the term, with the same effect as if all the judges were present. [Amended by 1959 c.44 §6; 2003 c.14 §4] 2.110 [Repealed by 1959 c.44 §4 (2.111 enacted in lieu of 2.110)] 
+2.100 Quorum. Subject to ORS 2.111, the presence of a majority of all the judges of the Supreme Court is necessary for the transaction of any business, except that less than a majority of the judges may meet and adjourn from day to day, or for the term, with the same effect as if all the judges were present. [Amended by 1959 c.44 §6; 2003 c.14 §4] 
 
 ## Provenance & change history
 

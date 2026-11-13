@@ -52,7 +52,7 @@ ORS 90.401 — Remedies available to landlord. Chapter 90 (Residential Landlord 
 
 (1) A landlord may pursue any one or more of the remedies set forth in ORS 90.392, 90.394, 90.396, 90.398, 90.403 and 90.405, simultaneously or sequentially.
 
-(2) In addition to the remedies provided in ORS 90.392, 90.394, 90.396 and 90.398, a landlord may recover damages and obtain injunctive relief for any noncompliance by the tenant with the rental agreement or ORS 90.325 or 90.740. [2005 c.391 §11] 90.402 [1993 c.369 §25; 1995 c.559 §27; renumbered 90.160 in 1995] 
+(2) In addition to the remedies provided in ORS 90.392, 90.394, 90.396 and 90.398, a landlord may recover damages and obtain injunctive relief for any noncompliance by the tenant with the rental agreement or ORS 90.325 or 90.740. [2005 c.391 §11] 
 
 ## Provenance & change history
 

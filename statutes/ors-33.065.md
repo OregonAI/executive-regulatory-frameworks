@@ -66,7 +66,7 @@ ORS 33.065 — Procedure for imposition of punitive sanctions. Chapter 33 (Speci
 
 (8) The court may impose a remedial sanction in addition to or in lieu of a punitive sanction.
 
-(9) In any proceeding for imposition of a punitive sanction, proof of contempt shall be beyond a reasonable doubt. [1991 c.724 §6; 2001 c.962 §78] 33.070 [Amended by 1973 c.836 §321; repealed by 1991 c.724 §32] 
+(9) In any proceeding for imposition of a punitive sanction, proof of contempt shall be beyond a reasonable doubt. [1991 c.724 §6; 2001 c.962 §78] 
 
 ## Provenance & change history
 

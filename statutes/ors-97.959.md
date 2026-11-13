@@ -80,7 +80,7 @@ ORS 97.959 — Revocation or amendment of anatomical gift by donor or agent or g
 
 (7) If a donor who is an unemancipated minor dies, a parent of the donor who is reasonably available may revoke or amend an anatomical gift of the donor’s body or body part.
 
-(8) An agent or guardian of a donor may amend or revoke an anatomical gift only if: (a) The agent or guardian made the gift under ORS 97.955 (2)(b) or (d); or (b) The form appointing a health care representative, as defined in ORS 127.505, or other record appointing the agent expressly authorizes the agent to amend or revoke anatomical gifts. [2007 c.681 §5; 2009 c.106 §2; 2011 c.61 §1; 2018 c.36 §26] Note: See note under 97.951. 97.960 [1995 c.717 §6; 1997 c.472 §9; repealed by 2007 c.681 §31] 
+(8) An agent or guardian of a donor may amend or revoke an anatomical gift only if: (a) The agent or guardian made the gift under ORS 97.955 (2)(b) or (d); or (b) The form appointing a health care representative, as defined in ORS 127.505, or other record appointing the agent expressly authorizes the agent to amend or revoke anatomical gifts. [2007 c.681 §5; 2009 c.106 §2; 2011 c.61 §1; 2018 c.36 §26] Note: See note under 97.951. 
 
 ## Provenance & change history
 

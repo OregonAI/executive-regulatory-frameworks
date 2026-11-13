@@ -53,7 +53,7 @@ ORS 468A.992 — Civil penalties for open field burning violations. Chapter 468A
 
 (1) In addition to any liability or penalty provided by law, the State Department of Agriculture may impose a civil penalty on any person who fails to comply with a provision of ORS 468A.555 to 468A.620 or any rule adopted thereunder, or a permit issued under ORS 468A.555 to 468A.620, relating to open field burning.
 
-(2) The State Department of Agriculture shall impose any civil penalty under this section in the same manner as the Department of Environmental Quality imposes and collects a civil penalty under ORS 468.140. [1995 c.358 §2; 1997 c.249 §164] _______________
+(2) The State Department of Agriculture shall impose any civil penalty under this section in the same manner as the Department of Environmental Quality imposes and collects a civil penalty under ORS 468.140. [1995 c.358 §2; 1997 c.249 §164] 
 
 ## Provenance & change history
 

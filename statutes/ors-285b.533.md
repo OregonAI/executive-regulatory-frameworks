@@ -58,7 +58,7 @@ ORS 285B.533 — Issuance of infrastructure lottery bonds; amount; use of bond p
 
 (2) of this section and for payment of bond-related costs that are allocable to infrastructure lottery bonds.
 
-(4) The authority and any municipality receiving proceeds of infrastructure lottery bonds shall, if so directed by the Oregon Department of Administrative Services, take any action specified by the Oregon Department of Administrative Services that is necessary to maintain the excludability of lottery bond interest from gross income under the United States Internal Revenue Code. [1997 c.800 §17; 1999 c.44 §25; 2007 c.783 §105a; 2009 c.830 §114] Note: See note under 285B.530. 285B.536 [1997 c.800 §18; repealed by 1999 c.44 §29] 285B.539 [1997 c.800 §19; repealed by 1999 c.44 §29] 285B.542 [1997 c.800 §20; repealed by 1999 c.44 §29] 285B.545 [1997 c.800 §21; repealed by 1999 c.44 §29] 
+(4) The authority and any municipality receiving proceeds of infrastructure lottery bonds shall, if so directed by the Oregon Department of Administrative Services, take any action specified by the Oregon Department of Administrative Services that is necessary to maintain the excludability of lottery bond interest from gross income under the United States Internal Revenue Code. [1997 c.800 §17; 1999 c.44 §25; 2007 c.783 §105a; 2009 c.830 §114] Note: See note under 285B.530. 
 
 ## Provenance & change history
 

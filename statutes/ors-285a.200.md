@@ -60,7 +60,7 @@ ORS 285A.200 — Gifts; federal aid; fees. Chapter 285A (Chapter 285A), 2025 Edi
 
 (2) The department may apply for, receive from the United States or any of its agencies, and disburse or supervise the disbursement of federal aid for the purposes for which the aid is provided. The department may also disburse or supervise the disbursement of funds provided by the State of Oregon for expenditure as a condition of receiving the federal aid.
 
-(3) The department may assess and charge fees: (a) For loans made from any of its funds or accounts; and (b) For program benefits provided and administrative expenses incurred by the department in the administration of the process developed in accordance with ORS 284.565 to certify sites that are ready for industrial or traded sector development. [Formerly 285.086; 2001 c.883 §4; 2009 c.830 §24; 2011 c.155 §1] 285A.203 [Formerly 285.090; repealed by 2007 c.804 §86] 
+(3) The department may assess and charge fees: (a) For loans made from any of its funds or accounts; and (b) For program benefits provided and administrative expenses incurred by the department in the administration of the process developed in accordance with ORS 284.565 to certify sites that are ready for industrial or traded sector development. [Formerly 285.086; 2001 c.883 §4; 2009 c.830 §24; 2011 c.155 §1] 
 
 ## Provenance & change history
 

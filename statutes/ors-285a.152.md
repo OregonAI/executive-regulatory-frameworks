@@ -56,7 +56,7 @@ ORS 285A.152 — Oregon-China Sister State Committee authority. Chapter 285A (Ch
 
 (1) of this section.
 
-(3) For purposes of this section, “province” means a province or a provincial level division as defined under the laws of the People’s Republic of China. [2007 c.246 §4; 2009 c.830 §19; 2013 c.222 §2] Note: See note under 285A.148. 285A.153 [1997 c.495 §2; 2001 c.582 §2; 2005 c.837 §20; renumbered 284.604 in 2007] (Oregon Broadband Advisory Council) 
+(3) For purposes of this section, “province” means a province or a provincial level division as defined under the laws of the People’s Republic of China. [2007 c.246 §4; 2009 c.830 §19; 2013 c.222 §2] Note: See note under 285A.148. 
 
 ## Provenance & change history
 

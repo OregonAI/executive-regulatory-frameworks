@@ -77,7 +77,7 @@ ORS 659A.421 — Discrimination in selling, renting or leasing real property pro
 
 (8) The provisions of subsection (2)(a) to (d) and (f) of this section that prohibit actions based upon sex, sexual orientation, gender identity or familial status do not apply to the renting of space within a single-family residence if the owner actually maintains and occupies the residence as the owner’s primary residence and all occupants share some common space within the residence.
 
-(9) Any violation of this section is an unlawful practice. [Formerly 659.033; 2007 c.100 §8; 2007 c.903 §4a; 2008 c.36 §6; 2013 c.740 §1; 2021 c.367 §40] 659A.424 [2003 c.378 §2; 2007 c.100 §9; repealed by 2007 c.903 §§15,15a] 
+(9) Any violation of this section is an unlawful practice. [Formerly 659.033; 2007 c.100 §8; 2007 c.903 §4a; 2008 c.36 §6; 2013 c.740 §1; 2021 c.367 §40] 
 
 ## Provenance & change history
 

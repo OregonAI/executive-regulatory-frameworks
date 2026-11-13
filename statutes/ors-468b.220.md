@@ -57,7 +57,7 @@ ORS 468B.220 — Civil penalty for violation of permit requirement. Chapter 468B
 
 ## Full text
 
-468B.220 Civil penalty for violation of permit requirement. Any owner or operator of a confined animal feeding operation who has not applied for or does not have a permit required by ORS 468B.050 shall be assessed a civil penalty of $500 in addition to other penalties that the Director of the Department of Environmental Quality may assess. [Formerly 468.690] 468B.222 [1995 s.s. c.3 §37a; repealed by 1996 c.5 §3 (468B.223 enacted in lieu of 468B.222)] 468B.223 [1996 c.5 §4 (enacted in lieu of 468B.222); repealed by 2001 c.248 §14] 468B.224 [1995 s.s. c.3 §37b; repealed by 1996 c.5 §5 (468B.225 enacted in lieu of 468B.224)] 
+468B.220 Civil penalty for violation of permit requirement. Any owner or operator of a confined animal feeding operation who has not applied for or does not have a permit required by ORS 468B.050 shall be assessed a civil penalty of $500 in addition to other penalties that the Director of the Department of Environmental Quality may assess. [Formerly 468.690] 
 
 ## Provenance & change history
 

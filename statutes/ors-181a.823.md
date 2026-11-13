@@ -63,7 +63,7 @@ ORS 181A.823 — Prohibitions related to immigration enforcement; explanation of
 
 (3) of this section to enjoin the violation.
 
-(5) Subsection (1)(b) of this section does not prohibit the Oregon Health Authority or the Department of Human Services from inquiring into or collecting data about country of birth in connection with data collected in accordance with uniform standards adopted under ORS 413.161. [2021 c.550 §2; 2023 c.69 §1; 2025 c.87 §1] 181A.825 [Formerly 181.852; renumbered 181A.672 in 2021] 
+(5) Subsection (1)(b) of this section does not prohibit the Oregon Health Authority or the Department of Human Services from inquiring into or collecting data about country of birth in connection with data collected in accordance with uniform standards adopted under ORS 413.161. [2021 c.550 §2; 2023 c.69 §1; 2025 c.87 §1] 
 
 ## Provenance & change history
 

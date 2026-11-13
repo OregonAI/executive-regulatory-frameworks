@@ -56,7 +56,7 @@ ORS 20.107 — Attorney and expert witness fees and other costs on claim of unla
 
 (3) When an award under this section is made against a state agency or an officer or employee of a state agency, the award shall be paid by the agency directly from funds available to it.
 
-(4) As used in this section, “unlawful discrimination” means discrimination based upon personal characteristics including, but not limited to, race, religion, sex, sexual orientation, gender identity, national origin, alienage, marital status or age. [1985 c.768 §1; 1995 c.618 §20; 2007 c.100 §14; 2021 c.367 §3] 20.110 [Repealed by 1981 c.898 §53]
+(4) As used in this section, “unlawful discrimination” means discrimination based upon personal characteristics including, but not limited to, race, religion, sex, sexual orientation, gender identity, national origin, alienage, marital status or age. [1985 c.768 §1; 1995 c.618 §20; 2007 c.100 §14; 2021 c.367 §3] 
 
 ## Provenance & change history
 

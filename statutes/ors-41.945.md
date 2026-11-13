@@ -48,7 +48,7 @@ ORS 41.945 — Application of ORS 41.930 and ORCP 55 H. Chapter 41 (Evidence Gen
 
 ## Full text
 
-41.945 Application of ORS 41.930 and ORCP 55 H. ORS 41.930 and ORCP 55 H apply in any proceedings in which testimony may be compelled. [1973 c.263 §8; 1979 c.284 §78] Note: ORCP 55 was repealed and replaced by the Council on Court Procedures Amendments promulgated on December 8, 2018, and effective January 1, 2020. The text of 41.945 was not amended by enactment of the Legislative Assembly to reflect the repeal. Editorial adjustment of 41.945 for the repeal of ORCP 55 has not been made. See the ORCP 55 Cross-Reference Chart available from the Council on Court Procedures. 41.950 [1971 c.331 §1; renumbered 18.500] 41.960 [1971 c.331 §2; renumbered 18.520] 41.970 [1971 c.331 §3; renumbered 18.530] 41.980 [1971 c.331 §4; repealed by 1981 c.892 §98] _______________
+41.945 Application of ORS 41.930 and ORCP 55 H. ORS 41.930 and ORCP 55 H apply in any proceedings in which testimony may be compelled. [1973 c.263 §8; 1979 c.284 §78] Note: ORCP 55 was repealed and replaced by the Council on Court Procedures Amendments promulgated on December 8, 2018, and effective January 1, 2020. The text of 41.945 was not amended by enactment of the Legislative Assembly to reflect the repeal. Editorial adjustment of 41.945 for the repeal of ORCP 55 has not been made. See the ORCP 55 Cross-Reference Chart available from the Council on Court Procedures. 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 308A.098 — County property value appeals board use of assessor’s data. C
 
 ## Full text
 
-308A.098 County property value appeals board use of assessor’s data. Data utilized by a county assessor in arriving at the values for farm use of farmland under ORS 308A.092 shall be made available by the county assessor to the county property value appeals board in the event of any consideration of a petition involving the assessed value of farmland by the property value appeals board under ORS 309.100. [Formerly 308.355; 2023 c.29 §19] 308A.101 [Formerly 308.360; repealed by 2011 c.193 §3] 308A.104 [Formerly 308.365; repealed by 2011 c.193 §3] 
+308A.098 County property value appeals board use of assessor’s data. Data utilized by a county assessor in arriving at the values for farm use of farmland under ORS 308A.092 shall be made available by the county assessor to the county property value appeals board in the event of any consideration of a petition involving the assessed value of farmland by the property value appeals board under ORS 309.100. [Formerly 308.355; 2023 c.29 §19] 
 
 ## Provenance & change history
 

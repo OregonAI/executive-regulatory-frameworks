@@ -52,7 +52,7 @@ ORS 87.386 — Costs and attorney fees in foreclosure. Chapter 87 (Statutory Lie
 
 (1) In suits to foreclose a lien created by ORS 87.352 to 87.362, the court, upon entering judgment for the lien claimant, shall allow as part of the lien all moneys paid for the filing or recording of the lien as provided in ORS 87.910.
 
-(2) In suits to foreclose a lien created by ORS 87.352 to 87.362, the court shall allow reasonable attorney fees at trial and on appeal to the prevailing party. [1975 c.648 §50; 1981 c.897 §23; 1981 c.898 §46] 87.390 [Repealed by 1975 c.648 §72] 
+(2) In suits to foreclose a lien created by ORS 87.352 to 87.362, the court shall allow reasonable attorney fees at trial and on appeal to the prevailing party. [1975 c.648 §50; 1981 c.897 §23; 1981 c.898 §46] 
 
 ## Provenance & change history
 

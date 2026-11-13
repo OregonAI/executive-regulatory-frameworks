@@ -48,9 +48,7 @@ ORS 3.225 — Establishing specialized subject-matter departments; approval by C
 
 ## Full text
 
-3.225 Establishing specialized subject-matter departments; approval by Chief Justice; eligibility and assignment of judges. Subject to the approval of the Chief Justice of the Supreme Court, a circuit court, by rule under ORS 3.220, may establish specialized subject-matter departments of the court, and may modify or abolish departments so established. Any judge of the court may act in any department so established or modified by rule. The presiding judge for the judicial district may assign any judge of the court to act in any department so established or modified by rule. [1981 c.215 §1; 1995 c.781 §8] 3.227 [1987 c.714 §4; repealed by 1995 c.658 §127] 3.229 [1987 c.714 §5; 1995 c.781 §9; repealed by 1995 c.658 §127] 3.230 [Subsection
-
-(3) of 1957 part derived from 1953 c.52 §6; 1957 c.713 §10; 1957 s.s. c.8 §3; repealed by 1959 c.552 §16] 3.232 [Formerly 4.010; repealed by 2015 c.212 §3] 3.235 [Formerly 4.105; 2015 c.119 §3; repealed by 2015 c.212 §3] 3.238 [Formerly 4.410; 1985 c.540 §20; repealed by 2013 c.155 §12] 3.240 [Amended by 1957 c.713 §11; repealed by 1961 c.724 §34]
+3.225 Establishing specialized subject-matter departments; approval by Chief Justice; eligibility and assignment of judges. Subject to the approval of the Chief Justice of the Supreme Court, a circuit court, by rule under ORS 3.220, may establish specialized subject-matter departments of the court, and may modify or abolish departments so established. Any judge of the court may act in any department so established or modified by rule. The presiding judge for the judicial district may assign any judge of the court to act in any department so established or modified by rule. [1981 c.215 §1; 1995 c.781 §8] 
 
 ## Provenance & change history
 

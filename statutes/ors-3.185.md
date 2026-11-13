@@ -54,7 +54,7 @@ ORS 3.185 — Habeas corpus hearings by Circuit Court for Marion County. Chapter
 
 (2) When a court is held at a location directed as provided by subsection
 
-(1) of this section, every person held or required to appear at the court shall appear at the location so directed. [1975 c.236 §1; 1983 c.763 §6; 2007 c.547 §10] 3.210 [Amended by 1955 c.677 §5; 1957 c.665 §3; 1957 c.713 §8; 1959 c.557 §4; repealed by 1961 c.724 §34] 
+(1) of this section, every person held or required to appear at the court shall appear at the location so directed. [1975 c.236 §1; 1983 c.763 §6; 2007 c.547 §10] 
 
 ## Provenance & change history
 

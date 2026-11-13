@@ -58,7 +58,7 @@ ORS 87.366 — Filing notice of claim of lien; contents of notice; effect of fai
 
 (3) If the person entitled to a lien under ORS 87.352 to 87.362 does not file a notice of claim of lien within the time required by subsection
 
-(1) of this section, the person waives the right of the person to the lien. [1975 c.648 §46] 87.370 [Repealed by 1975 c.648 §72] 
+(1) of this section, the person waives the right of the person to the lien. [1975 c.648 §46] 
 
 ## Provenance & change history
 

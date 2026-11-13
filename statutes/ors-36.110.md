@@ -71,7 +71,7 @@ ORS 36.110 — Definitions for ORS 36.100 to 36.238. Chapter 36 (Mediation and A
 
 (10) “Public body” has the meaning given that term in ORS 174.109.
 
-(11) “State agency” means any state officer, board, commission, bureau, department, or division thereof, in the executive branch of state government. [1989 c.718 §3; 1997 c.670 §11; 2003 c.791 §§11,11a; 2005 c.817 §3] 36.115 [1989 c.718 §4; 1991 c.538 §1; repealed by 2003 c.791 §33] 36.120 [1989 c.718 §5; repealed by 2003 c.791 §33] 36.125 [1989 c.718 §6; repealed by 2003 c.791 §33] 36.130 [1989 c.718 §7; repealed by 2003 c.791 §33] (Dispute Resolution Programs) 
+(11) “State agency” means any state officer, board, commission, bureau, department, or division thereof, in the executive branch of state government. [1989 c.718 §3; 1997 c.670 §11; 2003 c.791 §§11,11a; 2005 c.817 §3] 
 
 ## Provenance & change history
 

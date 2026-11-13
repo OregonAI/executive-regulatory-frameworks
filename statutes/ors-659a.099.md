@@ -60,7 +60,7 @@ ORS 659A.099 — Short title. Chapter 659A (Unlawful Discrimination in Employmen
 
 ## Full text
 
-659A.099 Short title. ORS 659A.090 to 659A.099 may be cited as the Oregon Military Family Leave Act. [2009 c.559 §2] 659A.100 [Formerly 659.400; 2003 c.254 §1; 2007 c.70 §289; 2009 c.508 §3; renumbered 659A.122 in 2009]
+659A.099 Short title. ORS 659A.090 to 659A.099 may be cited as the Oregon Military Family Leave Act. [2009 c.559 §2] 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 56.060 — Records of Secretary of State. Chapter 56 (Duties of Secretary of
 
 ## Full text
 
-56.060 Records of Secretary of State. The Secretary of State shall keep, as records of office, books showing all acts, matters and things done by the Secretary of State in performing the business registry functions and duties of the Office of Secretary of State. [Amended by 1983 c.740 §6; 1985 c.728 §§2,2a; 1987 c.158 §9; 1987 c.414 §58] 56.070 [1955 c.185 §1; 1971 c.184 §1; repealed by 1999 c.652 §22] 
+56.060 Records of Secretary of State. The Secretary of State shall keep, as records of office, books showing all acts, matters and things done by the Secretary of State in performing the business registry functions and duties of the Office of Secretary of State. [Amended by 1983 c.740 §6; 1985 c.728 §§2,2a; 1987 c.158 §9; 1987 c.414 §58] 
 
 ## Provenance & change history
 

@@ -58,7 +58,7 @@ ORS 10.115 — Jurors with disabilities. Chapter 10 (Juries), 2025 Edition.
 
 (4) A qualified interpreter appointed for a juror with a disability, or a person operating an assistive communication device for a juror with a disability, shall be present during deliberations by the jury on which the juror serves. An interpreter or person operating an assistive communication device may not participate in the jury deliberations in any manner except to facilitate communication between the juror with a disability and the other jurors or other persons with whom the jurors may communicate, and the court shall so instruct the jury and the interpreter.
 
-(5) When a juror with a disability serves on a trial jury, the court shall instruct the jury on the presence of the qualified interpreter or person operating an assistive communication device. [1985 c.703 §9; 1989 c.224 §4; 1991 c.750 §6; 2007 c.70 §6; 2007 c.96 §1] 10.120 [Amended by 1965 c.387 §1; repealed by 1973 c.836 §358] 
+(5) When a juror with a disability serves on a trial jury, the court shall instruct the jury on the presence of the qualified interpreter or person operating an assistive communication device. [1985 c.703 §9; 1989 c.224 §4; 1991 c.750 §6; 2007 c.70 §6; 2007 c.96 §1] 
 
 ## Provenance & change history
 

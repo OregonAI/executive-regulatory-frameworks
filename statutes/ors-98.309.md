@@ -68,7 +68,7 @@ ORS 98.309 — Traveler’s check or money order presumed abandoned. Chapter 98 
 
 (5) Notwithstanding any other provision of ORS 98.302 to 98.436 and 98.992, subsection
 
-(4) of this section applies to sums payable on traveler’s checks, money orders and similar written instruments presumed abandoned on or after February 1, 1965, except to the extent that those sums have been paid over to a state prior to January 1, 1974. [1983 c.716 §29; 2021 c.196 §2] 98.310 [Repealed by 1957 c.670 §37] 
+(4) of this section applies to sums payable on traveler’s checks, money orders and similar written instruments presumed abandoned on or after February 1, 1965, except to the extent that those sums have been paid over to a state prior to January 1, 1974. [1983 c.716 §29; 2021 c.196 §2] 
 
 ## Provenance & change history
 

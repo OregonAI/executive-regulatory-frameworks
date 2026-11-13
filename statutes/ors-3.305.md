@@ -60,7 +60,7 @@ ORS 3.305 — Request for referral of action to reference judge; selection of re
 
 (5) The request by parties for referral of an action shall include a stipulation by the parties to the entry of the judgment arising from the reference as the judgment of the court. If the action is triable by right to a jury, the request shall constitute a waiver of the right of trial by jury by any party having that right.
 
-(6) The presiding judge may revoke a referral of an action when, in the opinion of the presiding judge, the trial of the action on reference is being unduly delayed. If the referral is revoked, the presiding judge may require the person or persons responsible for the undue delay to bear all or part of the expense of the trial incurred before the revocation. [1983 c.704 §2; 1995 c.781 §11] 3.310 [Amended by 1955 c.715 §2; 1959 c.557 §5; 1961 c.724 §10; 1965 c.510 §8; repealed by 1981 c.215 §8] 
+(6) The presiding judge may revoke a referral of an action when, in the opinion of the presiding judge, the trial of the action on reference is being unduly delayed. If the referral is revoked, the presiding judge may require the person or persons responsible for the undue delay to bear all or part of the expense of the trial incurred before the revocation. [1983 c.704 §2; 1995 c.781 §11] 
 
 ## Provenance & change history
 

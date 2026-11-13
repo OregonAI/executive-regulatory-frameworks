@@ -52,7 +52,7 @@ ORS 62.992 — Penalty for signing false document. Chapter 62 (Cooperatives), 20
 
 (1) A person commits the crime of signing a false document for filing if the person: (a) Knows the document is false in any material respect; and (b) Signs the document with an intent that the document be delivered to the office of the Secretary of State for filing under this chapter.
 
-(2) Signing a false document for filing is a Class A misdemeanor. [2013 c.158 §6] _______________
+(2) Signing a false document for filing is a Class A misdemeanor. [2013 c.158 §6] 
 
 ## Provenance & change history
 

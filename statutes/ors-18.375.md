@@ -56,7 +56,7 @@ ORS 18.375 — Definitions. Chapter 18 (Judgments), 2025 Edition.
 
 (3) “Employer” means any entity or individual who engages a person to perform work or services for which compensation is given in periodic payments or otherwise, even though the relationship of the person so engaged to the employer may be as an independent contractor for other purposes.
 
-(4) “Garnishment” means any legal or equitable procedure through which the earnings of an individual are required to be withheld for payment of a debt. “Garnishment” does not include the procedure authorized by ORS 25.372 to 25.427 or 419B.408 or ORS chapter 110. [Formerly 23.175; 2021 c.597 §40] 18.380 [Repealed by 1985 c.343 §14] 
+(4) “Garnishment” means any legal or equitable procedure through which the earnings of an individual are required to be withheld for payment of a debt. “Garnishment” does not include the procedure authorized by ORS 25.372 to 25.427 or 419B.408 or ORS chapter 110. [Formerly 23.175; 2021 c.597 §40] 
 
 ## Provenance & change history
 

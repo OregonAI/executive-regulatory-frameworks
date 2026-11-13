@@ -70,7 +70,7 @@ ORS 18.999 — Recovery of amounts related to attempts to recover debt or enforc
 
 (7) Nothing in this section limits the right of a plaintiff to recover moneys described in this section or other moneys in any manner otherwise allowed by law.
 
-(8) A writ of garnishment or attachment is not valid if issued solely to recover moneys recoverable under subsection (1)(a) of this section unless the right to collect the moneys is first reduced to a judgment or to a debt enforceable under ORS 18.854. [Formerly 18.910; 2007 c.860 §§11,31; 2009 c.659 §§5,7; 2011 c.366 §§3,4; 2011 c.595 §115; 2013 c.685 §39; 2017 c.644 §8; 2017 c.663 §19; 2018 c.98 §10; 2019 c.605 §19] Note: 18.999 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 18 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. _______________
+(8) A writ of garnishment or attachment is not valid if issued solely to recover moneys recoverable under subsection (1)(a) of this section unless the right to collect the moneys is first reduced to a judgment or to a debt enforceable under ORS 18.854. [Formerly 18.910; 2007 c.860 §§11,31; 2009 c.659 §§5,7; 2011 c.366 §§3,4; 2011 c.595 §115; 2013 c.685 §39; 2017 c.644 §8; 2017 c.663 §19; 2018 c.98 §10; 2019 c.605 §19] Note: 18.999 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 18 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

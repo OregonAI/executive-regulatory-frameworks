@@ -48,7 +48,7 @@ ORS 86.440 — Discharge of mortgage recorded with county recording officer. Cha
 
 ## Full text
 
-86.440 Discharge of mortgage recorded with county recording officer. Whenever any mortgage recorded under the provisions of ORS 86.350 (1959 Replacement Part) is paid or otherwise satisfied, it shall be discharged by the recording with the recording officer of a certificate of such owner, executed and acknowledged with the same formalities as are prerequisite to the recording of any such mortgage, showing the date of execution, date of recording, and recording number of the record thereof, and that such mortgage has been fully discharged. [Amended by 1999 c.654 §4] 86.450 [Repealed by 1961 c.726 §427] 
+86.440 Discharge of mortgage recorded with county recording officer. Whenever any mortgage recorded under the provisions of ORS 86.350 (1959 Replacement Part) is paid or otherwise satisfied, it shall be discharged by the recording with the recording officer of a certificate of such owner, executed and acknowledged with the same formalities as are prerequisite to the recording of any such mortgage, showing the date of execution, date of recording, and recording number of the record thereof, and that such mortgage has been fully discharged. [Amended by 1999 c.654 §4] 
 
 ## Provenance & change history
 

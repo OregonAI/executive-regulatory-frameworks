@@ -88,7 +88,7 @@ ORS 59.115 — Liability in connection with sale or successful solicitation of s
 
 (11) The court may not award attorney fees to a prevailing defendant under the provisions of subsection
 
-(10) of this section if the action under this section is maintained as a class action pursuant to ORCP 32. [1967 c.537 §13(1), (2), (3), (4), (5), (7); 1985 c.349 §13; 1987 c.158 §10; 1987 c.603 §6; 1989 c.197 §5; 1991 c.331 §15; 1991 c.762 §1; 1993 c.508 §28; 1995 c.93 §27; 1995 c.696 §9; 1997 c.772 §9; 2003 c.576 §318; 2003 c.631 §1; 2003 c.786 §1] 59.120 [Amended by 1955 c.196 §1; 1957 c.116 §1; 1963 c.244 §2; repealed by 1967 c.537 §36] 
+(10) of this section if the action under this section is maintained as a class action pursuant to ORCP 32. [1967 c.537 §13(1), (2), (3), (4), (5), (7); 1985 c.349 §13; 1987 c.158 §10; 1987 c.603 §6; 1989 c.197 §5; 1991 c.331 §15; 1991 c.762 §1; 1993 c.508 §28; 1995 c.93 §27; 1995 c.696 §9; 1997 c.772 §9; 2003 c.576 §318; 2003 c.631 §1; 2003 c.786 §1] 
 
 ## Provenance & change history
 

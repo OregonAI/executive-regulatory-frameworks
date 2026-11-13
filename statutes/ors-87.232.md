@@ -52,7 +52,7 @@ ORS 87.232 — Fishing lien and fish worker’s lien. Chapter 87 (Statutory Lien
 
 (1) A person who performs labor in the operation of the chattel used for the purpose of catching fish from, holding them upon or transporting them within the waters of this state has a lien on the fish taken using the chattel during the period for which the lien is claimed for the reasonable or agreed charge for the labor of the person.
 
-(2) A person who performs labor in the catching or transporting of fish in this state has a lien on the fish for the reasonable or agreed charges for the labor of the person. [1975 c.648 §19] 87.235 [Repealed by 1975 c.648 §72] 
+(2) A person who performs labor in the catching or transporting of fish in this state has a lien on the fish for the reasonable or agreed charges for the labor of the person. [1975 c.648 §19] 
 
 ## Provenance & change history
 

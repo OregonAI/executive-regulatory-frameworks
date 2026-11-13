@@ -60,7 +60,7 @@ ORS 285B.791 — Agreements with lenders; terms; waiver and breach of lender obl
 
 (4) Qualified lenders that accept awards under ORS 285B.787 shall, within 10 years following the date on which the written agreement entered into pursuant to subsection
 
-(1) of this section becomes binding, originate qualified loans with a total principal amount equal to at least four times the amount of the moneys awarded. [2021 c.676 §4] Note: See note under 285B.780. 285B.793 [1997 c.835 §39; 1999 c.1104 §13; 2001 c.292 §6; renumbered 285C.420 in 2003] 
+(1) of this section becomes binding, originate qualified loans with a total principal amount equal to at least four times the amount of the moneys awarded. [2021 c.676 §4] Note: See note under 285B.780. 
 
 ## Provenance & change history
 

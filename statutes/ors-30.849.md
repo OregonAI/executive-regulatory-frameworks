@@ -56,7 +56,7 @@ ORS 30.849 — Action for injunction compelling private school to comply with ce
 
 (3) If a private school does not satisfy an order entered as provided by subsection
 
-(2) of this section, a student, or the parent or guardian of a student, may bring a civil action and recover damages for the greater of $1,000 or the total amount for special and general damages, including damages for emotional distress. A court may award reasonable attorney fees and costs to the prevailing plaintiff in an action under this subsection. [2021 c.479 §1] 30.850 [1975 c.562 §2; renumbered 31.982 in 2003] 
+(2) of this section, a student, or the parent or guardian of a student, may bring a civil action and recover damages for the greater of $1,000 or the total amount for special and general damages, including damages for emotional distress. A court may award reasonable attorney fees and costs to the prevailing plaintiff in an action under this subsection. [2021 c.479 §1] 
 
 ## Provenance & change history
 

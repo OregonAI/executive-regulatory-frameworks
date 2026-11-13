@@ -54,7 +54,7 @@ ORS 92.433 — Escrow documents required of successor to vendor’s interest. Ch
 
 (2) A subdivider, series partitioner or developer who has sold lots, parcels or interests in a subdivision or series partition under a land sale contract shall not dispose of or subsequently encumber the vendor’s interest therein unless the terms of the instrument of disposition or the encumbrance provide the means by which the purchaser or holder of the encumbrance will comply with subsection
 
-(1) of this section. [1977 c.809 §13; 1983 c.570 §22] 92.435 [1974 c.1 §13; repealed by 1977 c.484 §32] 92.445 [1974 c.1 §16; repealed by 1975 c.643 §18] 
+(1) of this section. [1977 c.809 §13; 1983 c.570 §22] 
 
 ## Provenance & change history
 

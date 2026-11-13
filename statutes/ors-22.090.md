@@ -48,7 +48,7 @@ ORS 22.090 — Qualifications and justification of surety. Chapter 22 (Bonds and
 
 ## Full text
 
-22.090 Qualifications and justification of surety. References in the statute laws of this state to the qualifications of a surety in a bond or undertaking as in bail on arrest and the justification of that surety are intended to be and shall be considered, except where and to the extent that the context of a reference requires otherwise, references to the qualifications and justification of a surety as provided in ORCP 82 D through G. [1981 c.898 §14] _______________
+22.090 Qualifications and justification of surety. References in the statute laws of this state to the qualifications of a surety in a bond or undertaking as in bail on arrest and the justification of that surety are intended to be and shall be considered, except where and to the extent that the context of a reference requires otherwise, references to the qualifications and justification of a surety as provided in ORCP 82 D through G. [1981 c.898 §14] 
 
 ## Provenance & change history
 

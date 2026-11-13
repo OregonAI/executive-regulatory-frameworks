@@ -64,7 +64,7 @@ ORS 62.415 — Apportionment and distribution of net proceeds or savings or net 
 
 (4) of this section shall be taken into account for the purpose of participation in allocation and distribution of net proceeds or savings or net losses under this section.
 
-(6) For the purposes of this section net proceeds or savings or net losses shall be computed in accordance with generally accepted accounting principles applicable to cooperative corporations, and after deducting from gross proceeds or savings any dividends paid upon capital stock. [1957 c.716 §36; 1963 c.156 §2; 1995 c.79 §15; 1995 c.195 §12] 62.420 [Repealed by 1957 c.716 §76] 
+(6) For the purposes of this section net proceeds or savings or net losses shall be computed in accordance with generally accepted accounting principles applicable to cooperative corporations, and after deducting from gross proceeds or savings any dividends paid upon capital stock. [1957 c.716 §36; 1963 c.156 §2; 1995 c.79 §15; 1995 c.195 §12] 
 
 ## Provenance & change history
 

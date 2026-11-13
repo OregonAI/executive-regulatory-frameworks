@@ -48,7 +48,7 @@ ORS 62.825 — Powers of Secretary of State. Chapter 62 (Cooperatives), 2025 Edi
 
 ## Full text
 
-62.825 Powers of Secretary of State. The Secretary of State has the power and authority reasonably necessary to enable the Secretary of State to administer this chapter efficiently and to perform the duties imposed upon the Secretary of State by this chapter. [1957 c.716 §65] 62.830 [1957 c.716 §66; repealed by 1987 c.94 §174] 62.835 [1957 c.716 §67; repealed by 1981 c.633 §83] 62.840 [1957 c.716 §68; 1983 c.717 §26a; repealed by 1987 c.94 §174] 62.845 [1957 c.716 §35; 2001 c.142 §2; 2003 c.487 §1; 2009 c.241 §3; renumbered 646.736 in 2011] 62.847 [2009 c.241 §2; renumbered 646.737 in 2011] 62.848 [2001 c.142 §4; 2005 c.290 §1; renumbered 646.738 in 2011] 62.849 [2003 c.487 §3; renumbered 646.739 in 2011] 
+62.825 Powers of Secretary of State. The Secretary of State has the power and authority reasonably necessary to enable the Secretary of State to administer this chapter efficiently and to perform the duties imposed upon the Secretary of State by this chapter. [1957 c.716 §65] 
 
 ## Provenance & change history
 

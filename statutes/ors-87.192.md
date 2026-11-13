@@ -58,7 +58,7 @@ ORS 87.192 — Notice of foreclosure sale to lien debtor; public notice. Chapter
 
 (2) of this section, shall have a notice of foreclosure sale printed once a week for two successive weeks in a daily or weekly newspaper, as defined in ORS 193.010, published in the county in which the sale is held or, if there is none, in a daily or weekly newspaper, as defined in ORS 193.010, generally circulated in the county in which the sale is held.
 
-(4) The notice of foreclosure sale required under this section must contain a particular description of the property to be sold, the name of the owner or reputed owner of the property, the amount due on the lien, the time and the place of the sale and the name of the person foreclosing the lien. [1975 c.648 §10; 1981 c.861 §2; 1983 c.436 §1; 1983 c.338 §882; 1993 c.326 §10; 1995 c.758 §19; 2005 c.738 §8; 2014 c.65 §1] 87.195 [Repealed by 1975 c.648 §72] 
+(4) The notice of foreclosure sale required under this section must contain a particular description of the property to be sold, the name of the owner or reputed owner of the property, the amount due on the lien, the time and the place of the sale and the name of the person foreclosing the lien. [1975 c.648 §10; 1981 c.861 §2; 1983 c.436 §1; 1983 c.338 §882; 1993 c.326 §10; 1995 c.758 §19; 2005 c.738 §8; 2014 c.65 §1] 
 
 ## Provenance & change history
 

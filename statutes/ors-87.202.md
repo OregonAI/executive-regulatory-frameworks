@@ -56,7 +56,7 @@ ORS 87.202 — Statement of account of foreclosure sale. Chapter 87 (Statutory L
 
 (1) of this section must show: (a) The amount of the lien claim and the cost of foreclosing the lien; (b) A copy of the published or posted notice of foreclosure sale; (c) The amount received for the chattel sold at the sale; and (d) The name of each person that received proceeds from the foreclosure sale as described in ORS 87.206 and the amount each person received.
 
-(3) A person that files a statement of account under this section shall send a copy of the statement by registered or certified mail to the last-known address of the owner of the chattel sold at the foreclosure sale. If the chattel sold at a foreclosure sale is an animal that bears a brand or other mark recorded with the State Department of Agriculture under ORS chapter 604, a person that files a statement of account under this section shall send a copy of the statement to the State Department of Agriculture. [1975 c.648 §13; 2005 c.86 §2; 2013 c.206 §1] 87.205 [Repealed by 1975 c.648 §72] 
+(3) A person that files a statement of account under this section shall send a copy of the statement by registered or certified mail to the last-known address of the owner of the chattel sold at the foreclosure sale. If the chattel sold at a foreclosure sale is an animal that bears a brand or other mark recorded with the State Department of Agriculture under ORS chapter 604, a person that files a statement of account under this section shall send a copy of the statement to the State Department of Agriculture. [1975 c.648 §13; 2005 c.86 §2; 2013 c.206 §1] 
 
 ## Provenance & change history
 

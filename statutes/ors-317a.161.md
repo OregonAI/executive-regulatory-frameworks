@@ -50,7 +50,7 @@ ORS 317A.161 — Interest and penalties. Chapter 317A (Chapter 317A), 2025 Editi
 
 ## Full text
 
-317A.161 Interest and penalties. A taxpayer shall pay at least 90 percent of the balance due for any quarter or the Department of Revenue may impose, for any quarter that this threshold is not met, a penalty of five percent of the underpayment amount, except that the department may not impose a penalty under this subsection for any quarter for which the taxpayer has paid an amount at least equal to the taxpayer’s required installment for the corresponding quarter of the preceding tax year. [2019 c.122 §77; 2020 s.s.1 c.2 §§9,10; 2021 c.572 §§12,13] _______________
+317A.161 Interest and penalties. A taxpayer shall pay at least 90 percent of the balance due for any quarter or the Department of Revenue may impose, for any quarter that this threshold is not met, a penalty of five percent of the underpayment amount, except that the department may not impose a penalty under this subsection for any quarter for which the taxpayer has paid an amount at least equal to the taxpayer’s required installment for the corresponding quarter of the preceding tax year. [2019 c.122 §77; 2020 s.s.1 c.2 §§9,10; 2021 c.572 §§12,13] 
 
 ## Provenance & change history
 

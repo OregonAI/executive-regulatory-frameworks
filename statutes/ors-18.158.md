@@ -63,7 +63,7 @@ ORS 18.158 — Judgment lien based on judgment for child support or spousal supp
 
 (5) Liens arising by operation of law in another state against real property for amounts of overdue payments under a support order, as defined in ORS 110.503, shall be accorded full faith and credit if the state agency, party or other entity seeking to enforce the lien follows the applicable procedures for recording and service of notice of claim of lien as required by this section. A state agency, party or other entity may not file an action to enforce a lien described in this section until the underlying judgment has been filed in Oregon as provided in ORS chapter 110.
 
-(6) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §17; 2015 c.298 §83] 18.160 [Repealed by 1981 c.898 §53] 
+(6) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §17; 2015 c.298 §83] 
 
 ## Provenance & change history
 

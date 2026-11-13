@@ -52,7 +52,7 @@ ORS 87.490 — Priority of lien upon actions and judgments. Chapter 87 (Statutor
 
 (1) Except for tax liens, prior encumbrances and prior liens of record on the real or personal property subject to the lien created by ORS 87.445, the lien created by ORS 87.445 is superior to all other liens, including a lien created by ORS 147.285.
 
-(2) When the lien of an attorney created under ORS 87.445 attaches to a judgment allowing or enforcing a client’s lien, the attorney’s lien has the same priority as the client’s lien with regard to personal or real property subject to the client’s lien. [1975 c.648 §68 (enacted in lieu of 87.495); 2003 c.576 §343; 2005 c.383 §12] 87.495 [Repealed by 1975 c.648 §55 (87.430 to 87.490 enacted in lieu of 87.495)] 87.500 [Repealed by 1975 c.648 §72]
+(2) When the lien of an attorney created under ORS 87.445 attaches to a judgment allowing or enforcing a client’s lien, the attorney’s lien has the same priority as the client’s lien with regard to personal or real property subject to the client’s lien. [1975 c.648 §68 (enacted in lieu of 87.495); 2003 c.576 §343; 2005 c.383 §12] 
 
 ## Provenance & change history
 

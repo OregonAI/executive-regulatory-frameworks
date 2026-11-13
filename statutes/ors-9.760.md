@@ -48,7 +48,7 @@ ORS 9.760 — Judicial department library services; fees. Chapter 9 (Oregon Stat
 
 ## Full text
 
-9.760 Judicial department library services; fees. The State Court Administrator may authorize any library of the judicial department of government to provide photographic or other copies of any of its materials, and to make reasonable charges for such copies or services. [Amended by 1959 c.655 §1; 1985 c.308 §2] 9.770 [Amended by 1959 c.655 §2; repealed by 1985 c.308 §6] 
+9.760 Judicial department library services; fees. The State Court Administrator may authorize any library of the judicial department of government to provide photographic or other copies of any of its materials, and to make reasonable charges for such copies or services. [Amended by 1959 c.655 §1; 1985 c.308 §2] 
 
 ## Provenance & change history
 

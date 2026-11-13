@@ -54,7 +54,7 @@ ORS 98.402 — Hearing on claim; petition to compel action. Chapter 98 (Lost, Un
 
 (1) A person aggrieved by a decision of the State Treasurer under ORS 98.302 to 98.436 may request a contested case hearing in accordance with ORS 183.413 to 183.470.
 
-(2) If the State Treasurer fails to act on a claim within 120 days after a person files the claim under ORS 98.392, the claimant may petition a court under ORS 183.484 to compel the State Treasurer to act. [1957 c.670 §23; 1983 c.716 §20; 2003 c.272 §5; 2019 c.678 §24] 98.406 [1957 c.670 §24; 1983 c.716 §21; repealed by 1993 c.694 §39] 98.410 [Repealed by 1957 c.670 §37] 
+(2) If the State Treasurer fails to act on a claim within 120 days after a person files the claim under ORS 98.392, the claimant may petition a court under ORS 183.484 to compel the State Treasurer to act. [1957 c.670 §23; 1983 c.716 §20; 2003 c.272 §5; 2019 c.678 §24] 
 
 ## Provenance & change history
 

@@ -64,7 +64,7 @@ ORS 92.018 — Remedy for purchase of unlawfully established unit of land; excep
 
 (3) of this section, except for the seller under this subsection, if: (A) The acquisition of the property is not for conservation purposes described in subsection (3)(c) of this section; and (B) The first acquisition subject to subsection
 
-(3) of this section was less than five years prior to the acquisition under this subsection. [1983 c.718 §4; 1995 c.618 §53; 1997 c.805 §2; 2007 c.866 §5; 2025 c.51 §1] 92.020 [Repealed by 1955 c.756 §5 (92.025 enacted in lieu of 92.020 and 92.030)] 
+(3) of this section was less than five years prior to the acquisition under this subsection. [1983 c.718 §4; 1995 c.618 §53; 1997 c.805 §2; 2007 c.866 §5; 2025 c.51 §1] 
 
 ## Provenance & change history
 

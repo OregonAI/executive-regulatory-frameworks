@@ -54,7 +54,7 @@ ORS 12.132 — Action arising out of real estate appraisal activity or appraisal
 
 (2) of this section, an action arising out of real estate appraisal activity, as defined in ORS 674.010, or appraisal review, as defined in ORS 674.200, must be commenced before the earlier of: (a) Two years after the date on which the person commencing the action knew or should have known the facts on which the action is based; or (b) Five years after the date on which the real estate appraisal activity or appraisal review on which the action is based was completed or should have been completed.
 
-(2) Subsection (1)(b) of this section does not apply to an action arising out of real estate appraisal activity or appraisal review based on fraud or misrepresentation. [2017 c.143 §1; 2019 c.114 §2] Note: 12.132 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 12 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 12.133 [1983 c.589 §2; repealed by 1999 c.130 §1] 
+(2) Subsection (1)(b) of this section does not apply to an action arising out of real estate appraisal activity or appraisal review based on fraud or misrepresentation. [2017 c.143 §1; 2019 c.114 §2] Note: 12.132 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 12 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation. 
 
 ## Provenance & change history
 

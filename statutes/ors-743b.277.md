@@ -58,7 +58,7 @@ ORS 743B.277 — Credits to deductibles and out-of-pocket expenses; requirements
 
 (1) of this section.
 
-(3) Notwithstanding ORS 750.055 (1)(i), this section does not apply to a health maintenance organization as defined in ORS 750.005. [2025 c.120 §2] Note: See note under 743B.275. 743B.280 [Formerly 743B.871; renumbered 743B.275 in 2025] 
+(3) Notwithstanding ORS 750.055 (1)(i), this section does not apply to a health maintenance organization as defined in ORS 750.005. [2025 c.120 §2] Note: See note under 743B.275. 
 
 ## Provenance & change history
 

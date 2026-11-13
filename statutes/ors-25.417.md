@@ -48,7 +48,7 @@ ORS 25.417 — Amount to be withheld when obligor paid more frequently than mont
 
 ## Full text
 
-25.417 Amount to be withheld when obligor paid more frequently than monthly. When an obligor is required to pay support by income withholding and is paid more often than monthly, the withholder shall withhold up to the full amount specified in the order to withhold, based on the obligor’s pay period as specified in the order to withhold. The amount withheld may not exceed the maximum amount allowed under ORS 25.414 (8). [Formerly 25.353; 2001 c.455 §11] 25.420 [1985 c.671 §13; 1993 c.800 §4; repealed by 1995 c.608 §46] 
+25.417 Amount to be withheld when obligor paid more frequently than monthly. When an obligor is required to pay support by income withholding and is paid more often than monthly, the withholder shall withhold up to the full amount specified in the order to withhold, based on the obligor’s pay period as specified in the order to withhold. The amount withheld may not exceed the maximum amount allowed under ORS 25.414 (8). [Formerly 25.353; 2001 c.455 §11] 
 
 ## Provenance & change history
 

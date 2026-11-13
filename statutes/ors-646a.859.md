@@ -58,7 +58,7 @@ ORS 646A.859 — Attorney General enforcement. Chapter 646A (Chapter 646A), 2025
 
 (4) If the Attorney General finds in response to a complaint from a consumer that a person has violated ORS 646A.850, the Attorney General may bring a civil action in a circuit court of this state to: (a) Impose a civil penalty of not more than $1,000 for each day in which the violation continues; or (b) Obtain an injunction to restrain the violation.
 
-(5) The Attorney General shall deposit the proceeds of any civil penalties the Attorney General recovers under this section into the Department of Justice Protection and Education Revolving Account created under ORS 180.095. [2024 c.69 §3] Note: Section 7, chapter 69, Oregon Laws 2024, provides: Sec. 7. Section 3 of this 2024 Act [646A.859] applies to violations of section 1 of this 2024 Act [646A.850] that occur on or after July 1, 2027. [2024 c.69 §7] _______________
+(5) The Attorney General shall deposit the proceeds of any civil penalties the Attorney General recovers under this section into the Department of Justice Protection and Education Revolving Account created under ORS 180.095. [2024 c.69 §3] Note: Section 7, chapter 69, Oregon Laws 2024, provides: Sec. 7. Section 3 of this 2024 Act [646A.859] applies to violations of section 1 of this 2024 Act [646A.850] that occur on or after July 1, 2027. [2024 c.69 §7] 
 
 ## Provenance & change history
 

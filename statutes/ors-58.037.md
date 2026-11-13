@@ -54,7 +54,7 @@ ORS 58.037 — Application to joint and several liability of shareholders of cor
 
 (2) Notwithstanding subsection
 
-(1) of this section, architects registered under ORS 671.010 to 671.220 may organize as corporations under ORS chapter 60 or this chapter and shall be subject solely to the provisions of the chapter under which they are organized. [1993 c.235 §11; 1995 c.327 §3; 1997 c.774 §2; 2013 c.196 §17] 58.040 [Repealed by 1961 c.726 §427] 
+(1) of this section, architects registered under ORS 671.010 to 671.220 may organize as corporations under ORS chapter 60 or this chapter and shall be subject solely to the provisions of the chapter under which they are organized. [1993 c.235 §11; 1995 c.327 §3; 1997 c.774 §2; 2013 c.196 §17] 
 
 ## Provenance & change history
 

@@ -53,7 +53,7 @@ ORS 285B.068 — Payment of moneys for project; applicant to pay percentage of l
 
 (1) If the Oregon Business Development Commission approves a loan for a business development project and the applicant has received all necessary permits required by federal, state and local agencies, the commission shall pay moneys for the project from the Oregon Business Development Fund, in accordance with the terms of the loan contract as prescribed by the commission.
 
-(2) Immediately upon receiving the loan proceeds, the applicant shall pay to the commission one and one-half percent of the principal amount of the loan, to be paid back to the Oregon Business Development Fund. A maximum of three percent of the principal amount of the loan may be paid from the fund to local development groups for the purposes set forth in ORS 285B.092 (1)(a). [Formerly 285.417; 2009 c.830 §55] 285B.071 [Formerly 285.420; repealed by 2007 c.804 §86] 285B.074 [Formerly 285.425; repealed by 2007 c.804 §86] 285B.077 [Formerly 285.430; repealed by 2007 c.804 §86] 
+(2) Immediately upon receiving the loan proceeds, the applicant shall pay to the commission one and one-half percent of the principal amount of the loan, to be paid back to the Oregon Business Development Fund. A maximum of three percent of the principal amount of the loan may be paid from the fund to local development groups for the purposes set forth in ORS 285B.092 (1)(a). [Formerly 285.417; 2009 c.830 §55] 
 
 ## Provenance & change history
 

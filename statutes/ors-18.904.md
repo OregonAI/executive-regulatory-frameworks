@@ -54,7 +54,7 @@ ORS 18.904 — Order required for sale of residential property; exceptions. Chap
 
 (2) This section does not apply to writs of execution that direct the sheriff to sell specific property pursuant to the terms of the judgment.
 
-(3) This section does not apply to a writ of execution issued to enforce a judgment foreclosing: (a) A construction lien for work, labor or material done or furnished exclusively for the improvement of the property to be sold; (b) A lawfully executed purchase money lien against the property to be sold; or (c) A lawfully executed mortgage or trust deed on the property to be sold. [2005 c.542 §16] 18.905 [2001 c.249 §83; renumbered 18.857 in 2005] 
+(3) This section does not apply to a writ of execution issued to enforce a judgment foreclosing: (a) A construction lien for work, labor or material done or furnished exclusively for the improvement of the property to be sold; (b) A lawfully executed purchase money lien against the property to be sold; or (c) A lawfully executed mortgage or trust deed on the property to be sold. [2005 c.542 §16] 
 
 ## Provenance & change history
 

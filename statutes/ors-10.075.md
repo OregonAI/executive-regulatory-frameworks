@@ -56,7 +56,7 @@ ORS 10.075 — Payment of per diem and mileage fees by state; payment of other e
 
 (3) Each circuit court shall offer each juror the opportunity to waive receipt of the per diem and mileage expenses otherwise payable to the juror for the purpose of funding Judicial Department programs and activities identified by the Chief Justice of the Supreme Court. All amounts waived by a juror under the provisions of this subsection are continuously appropriated to the Judicial Department programs and activities that are identified by the Chief Justice for receipt of the waived amounts, and may be used only for the purposes of those programs and activities.
 
-(4) This section does not apply to mileage and other expenses of jurors reimbursed by a county as provided in ORS 10.061 (4). [1981 s.s. c.3 §43; 1985 c.703 §8; 1999 c.1085 §6] 10.077 [Formerly 17.315; 1981 s.s. c.30 §60; repealed by 1985 c.703 §28] 
+(4) This section does not apply to mileage and other expenses of jurors reimbursed by a county as provided in ORS 10.061 (4). [1981 s.s. c.3 §43; 1985 c.703 §8; 1999 c.1085 §6] 
 
 ## Provenance & change history
 

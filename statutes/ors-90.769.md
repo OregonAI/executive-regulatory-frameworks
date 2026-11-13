@@ -48,7 +48,7 @@ ORS 90.769 — Informal dispute resolution. Chapter 90 (Residential Landlord and
 
 ## Full text
 
-90.769 Informal dispute resolution. In addition to mandatory mediation required under ORS 90.767, a facility may establish an informal dispute resolution procedure that ensures each issue with merit is addressed within 30 days after receipt of a formal complaint. [Formerly 446.547] 90.770 [Formerly 91.950; 1991 c.844 §29; 1997 c.249 §33; 1999 c.154 §1; repealed by 2001 c.596 §25 (90.771 enacted in lieu of 90.770)] 
+90.769 Informal dispute resolution. In addition to mandatory mediation required under ORS 90.767, a facility may establish an informal dispute resolution procedure that ensures each issue with merit is addressed within 30 days after receipt of a formal complaint. [Formerly 446.547] 
 
 ## Provenance & change history
 

@@ -52,7 +52,7 @@ ORS 56.100 — Electronic materials not subject to public records law. Chapter 5
 
 (1) Electronic data processing programs of the office; and
 
-(2) Electronic media used to record, process or store documents filed with the office under the business registry functions of the office. [1983 c.717 §2a; 1987 c.414 §61] 56.105 [1987 c.843 §13; repealed by 2007 c.186 §21] 
+(2) Electronic media used to record, process or store documents filed with the office under the business registry functions of the office. [1983 c.717 §2a; 1987 c.414 §61] 
 
 ## Provenance & change history
 

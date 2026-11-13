@@ -62,7 +62,7 @@ ORS 33.135 — Limitations of actions. Chapter 33 (Special Proceedings and Proce
 
 (1) of this section shall not act to bar proceedings to impose sanctions for an act or omission that constitutes a continuing contempt at the time contempt proceedings are commenced. The willful failure of an obligor, as that term is defined in ORS 110.503, to pay a support obligation after that obligation becomes a judgment is a contempt without regard to when the obligation became a judgment.
 
-(5) Proceedings to impose remedial or punitive sanctions for failure to pay a support obligation by an obligor, as defined in ORS 110.503, shall be commenced within 10 years of the act or omission constituting contempt. [1991 c.724 §12; 2005 c.560 §15; 2015 c.298 §88] 33.140 [Repealed by 1991 c.724 §32] 
+(5) Proceedings to impose remedial or punitive sanctions for failure to pay a support obligation by an obligor, as defined in ORS 110.503, shall be commenced within 10 years of the act or omission constituting contempt. [1991 c.724 §12; 2005 c.560 §15; 2015 c.298 §88] 
 
 ## Provenance & change history
 

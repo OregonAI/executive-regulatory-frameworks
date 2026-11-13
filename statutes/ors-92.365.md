@@ -60,7 +60,7 @@ ORS 92.365 — Filing information to be kept current; fee for notice of material
 
 (3) of this section within 10 days after the change occurs. However, a developer who acquires less than 11 lots, parcels or interests in a subdivision or series partition during a six consecutive month period shall only be responsible for a material change specified in subsection (3)(b) of this section and may revise a public report to reflect such material change without reporting the material change to the commissioner.
 
-(5) The commissioner shall require a fee sufficient to recover any administrative expenses after receipt of a material change notice if, because of the changes, a public report must be issued or revised by the commissioner. The fee is subject to prior approval of the Oregon Department of Administrative Services and shall be within the budget authorized by the Legislative Assembly as that budget may be modified by the Emergency Board. [1974 c.1 §7; 1975 c.643 §4; 1983 c.181 §1; 1983 c.570 §13; 1991 c.703 §1; 2023 c.602 §1] 92.370 [1963 c.624 §22; 1965 c.584 §10; repealed by 1973 c.421 §52] 
+(5) The commissioner shall require a fee sufficient to recover any administrative expenses after receipt of a material change notice if, because of the changes, a public report must be issued or revised by the commissioner. The fee is subject to prior approval of the Oregon Department of Administrative Services and shall be within the budget authorized by the Legislative Assembly as that budget may be modified by the Emergency Board. [1974 c.1 §7; 1975 c.643 §4; 1983 c.181 §1; 1983 c.570 §13; 1991 c.703 §1; 2023 c.602 §1] 
 
 ## Provenance & change history
 

@@ -52,7 +52,7 @@ ORS 87.613 — Notice of lien required. Chapter 87 (Statutory Liens), 2025 Editi
 
 (1) Not later than 15 days after providing the ambulance services, file a notice of lien with the recording officer of the county in which the individual who received the ambulance services resides; and
 
-(2) Prior to the date of judgment, settlement or compromise, serve a certified copy of the notice of lien by registered or certified mail upon the insurer or health care service contractor which has agreed to indemnify or compensate the individual for any costs incurred for ambulance services. [1983 c.821 §4] 87.615 [Repealed by 1975 c.648 §72] 
+(2) Prior to the date of judgment, settlement or compromise, serve a certified copy of the notice of lien by registered or certified mail upon the insurer or health care service contractor which has agreed to indemnify or compensate the individual for any costs incurred for ambulance services. [1983 c.821 §4] 
 
 ## Provenance & change history
 

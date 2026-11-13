@@ -55,7 +55,7 @@ ORS 87.777 — Filing certificate of lien satisfaction upon payment for grain; l
 
 (2) Upon receiving the certificate, the Secretary of State shall enter it in the index maintained by the secretary for filing financing statements pursuant to ORS chapter 79A.
 
-(3) If an agricultural producer that receives full payment for grain fails to file a certificate described in this section on or before the 10th day after receiving a request for filing from a purchaser, the producer is liable to the purchaser of the grain in the sum of $100 damages and for all actual damages caused by the failure, to be recovered in an action at law. [1981 c.446 §7; 2001 c.301 §22] 87.780 [1973 c.145 §6; repealed by 1975 c.648 §72] 87.785 [1973 c.145 §7; repealed by 1975 c.648 §72] 87.790 [1973 c.145 §8; repealed by 1975 c.648 §72] 87.805 [Repealed by 1967 c.445 §1]
+(3) If an agricultural producer that receives full payment for grain fails to file a certificate described in this section on or before the 10th day after receiving a request for filing from a purchaser, the producer is liable to the purchaser of the grain in the sum of $100 damages and for all actual damages caused by the failure, to be recovered in an action at law. [1981 c.446 §7; 2001 c.301 §22] 
 
 ## Provenance & change history
 

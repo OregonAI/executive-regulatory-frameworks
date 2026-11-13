@@ -52,7 +52,7 @@ ORS 67.017 — Effective time and date of document. Chapter 67 (Partnerships; Li
 
 (2) of this section, a document accepted for filing is effective on the date it is filed by the Secretary of State and at the time, if any, specified in the document as its effective time or at 12:01 a.m. on that date if no effective time is specified.
 
-(2) If a document specifies a delayed effective time and date, the document becomes effective at the time and date specified. If a document specifies a delayed effective date but no time, the document becomes effective at 12:01 a.m. on that date. A delayed effective date for a document may not be later than the 90th day after the date it is filed. [Formerly 67.530] 67.020 [1997 c.775 §4; renumbered 67.044 in 2013] 
+(2) If a document specifies a delayed effective time and date, the document becomes effective at the time and date specified. If a document specifies a delayed effective date but no time, the document becomes effective at 12:01 a.m. on that date. A delayed effective date for a document may not be later than the 90th day after the date it is filed. [Formerly 67.530] 
 
 ## Provenance & change history
 

@@ -48,7 +48,7 @@ ORS 71.3100 — Subordinated obligations. Chapter 71 (General Provisions for Uni
 
 ## Full text
 
-71.3100 Subordinated obligations. An obligation may be issued as subordinated to performance of another obligation of the person obligated, or a creditor may subordinate its right to performance of an obligation by agreement with either the person obligated or another creditor of the person obligated. Subordination does not create a security interest as against either the common debtor or a subordinated creditor. [2009 c.181 §23] Note: See note under 71.3010. _______________
+71.3100 Subordinated obligations. An obligation may be issued as subordinated to performance of another obligation of the person obligated, or a creditor may subordinate its right to performance of an obligation by agreement with either the person obligated or another creditor of the person obligated. Subordination does not create a security interest as against either the common debtor or a subordinated creditor. [2009 c.181 §23] Note: See note under 71.3010. 
 
 ## Provenance & change history
 

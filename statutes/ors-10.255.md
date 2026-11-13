@@ -60,7 +60,7 @@ ORS 10.255 — Record of persons summoned to serve as jurors. Chapter 10 (Juries
 
 (5) Those who attended and were not discharged or deferred.
 
-(6) The per diem fees and mileage due to each entitled thereto. [1985 c.703 §17] 10.260 [Repealed by 1985 c.703 §28] 
+(6) The per diem fees and mileage due to each entitled thereto. [1985 c.703 §17] 
 
 ## Provenance & change history
 

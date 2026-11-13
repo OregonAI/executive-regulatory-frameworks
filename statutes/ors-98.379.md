@@ -64,7 +64,7 @@ ORS 98.379 — Retention of abandoned military medals; transfer of custody; rule
 
 (4) of this section, the State Treasurer is relieved of any duty to safeguard the military medal.
 
-(6) The State Treasurer may adopt rules to implement the provisions of this section, including: (a) Identifying procedures the State Treasurer must take to reasonably identify a service member or a descendant of a deceased service member. (b) Specifying documentation necessary for a service member or a descendant of a deceased service member to submit a claim for a military medal. (c) Prioritizing claims if more than one of a deceased service member’s descendants submits a claim for a military medal. [2018 c.91 §2; 2019 c.384 §15; 2019 c.678 §79] 98.380 [Repealed by 1957 c.670 §37] 
+(6) The State Treasurer may adopt rules to implement the provisions of this section, including: (a) Identifying procedures the State Treasurer must take to reasonably identify a service member or a descendant of a deceased service member. (b) Specifying documentation necessary for a service member or a descendant of a deceased service member to submit a claim for a military medal. (c) Prioritizing claims if more than one of a deceased service member’s descendants submits a claim for a military medal. [2018 c.91 §2; 2019 c.384 §15; 2019 c.678 §79] 
 
 ## Provenance & change history
 
