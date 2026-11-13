@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-285c
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2017
+last_amended: 2009
 enacted: 2005
 status: current
 supersedes: null

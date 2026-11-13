@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-88
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2019
+last_amended: 2005
 enacted: 1959
 status: current
 supersedes: null

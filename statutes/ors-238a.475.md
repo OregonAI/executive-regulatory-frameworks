@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-238a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2024
+last_amended: 2003
 enacted: 2003
 status: current
 supersedes: null

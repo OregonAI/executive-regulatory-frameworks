@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-329a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2025
+last_amended: 2023
 enacted: 2020
 status: current
 supersedes: null

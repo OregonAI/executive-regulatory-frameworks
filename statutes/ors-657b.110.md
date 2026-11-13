@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-657b
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
+last_amended: 2019
 enacted: 2019
 status: current
 supersedes: null

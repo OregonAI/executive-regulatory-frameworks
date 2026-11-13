@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-276a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 2023
+last_amended: 2021
 enacted: 2017
 status: current
 supersedes: null

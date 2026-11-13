@@ -18,7 +18,7 @@ snapshot_id: ors-chapter-543a
 effective_date: null
 last_reviewed: null
 source_version: "2025 Edition"
-last_amended: 1999
+last_amended: 1997
 enacted: 1997
 status: current
 supersedes: null
