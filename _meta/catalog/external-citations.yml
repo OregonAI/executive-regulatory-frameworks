@@ -28,7 +28,7 @@ summary:
   documents_scanned: 83750
   distinct_targets: 1373
   authority_claims_total: 1179
-  mentions_total: 8598
+  mentions_total: 8601
   targets_resolving: 46
   unresolved_authority_claims: 577
 named_instruments:
@@ -3341,6 +3341,14 @@ targets:
   - ors-30.260
   - ors-469.615
   - ors-97.153
+- citation: 42 USC 2021
+  authority_claims: 0
+  mentions: 5
+  resolves: false
+  cited_by_sample:
+  - ors-459.350
+  - ors-469.992
+  - ors-97.153
 - citation: 42 USC 2210
   authority_claims: 0
   mentions: 5
@@ -4612,13 +4620,6 @@ targets:
   - oar-423-120-0035
   - oar-943-005-0010
   - oya-0-3-0
-- citation: 42 USC 2021
-  authority_claims: 0
-  mentions: 3
-  resolves: false
-  cited_by_sample:
-  - ors-469.992
-  - ors-97.153
 - citation: 42 USC 254e
   authority_claims: 0
   mentions: 3
@@ -5812,6 +5813,13 @@ targets:
   resolves: false
   cited_by_sample:
   - oya-i-a-10-0
+- citation: 42 USC 2021b
+  authority_claims: 0
+  mentions: 2
+  resolves: false
+  cited_by_sample:
+  - ors-459.350
+  - schedule-energy
 - citation: 42 USC 263b
   authority_claims: 0
   mentions: 2
@@ -8862,12 +8870,6 @@ targets:
   resolves: false
   cited_by_sample:
   - oar-340-150-0008
-- citation: 42 USC 2021b
-  authority_claims: 0
-  mentions: 1
-  resolves: false
-  cited_by_sample:
-  - schedule-energy
 - citation: 42 USC 2077
   authority_claims: 0
   mentions: 1
